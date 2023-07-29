@@ -1,0 +1,410 @@
+{
+  "runTime": 1690665190504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 252133,
+        "num": 252133,
+        "word": "姬发",
+        "onboard_time": 1690644514,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108891,
+        "num": 108891,
+        "word": "好多明星去了鹿晗演唱会",
+        "onboard_time": 1690660993,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12904,
+        "num": 101750,
+        "word": "成都大运会的中国式浪漫",
+        "onboard_time": 1690638696,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100123,
+        "num": 100123,
+        "word": "天津暴雨",
+        "onboard_time": 1690645954,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72063,
+        "num": 72063,
+        "word": "为什么去泰国旅游的人越来越少了",
+        "onboard_time": 1690636776,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64803,
+        "num": 64803,
+        "word": "中央气象台发暴雨红色预警",
+        "onboard_time": 1690627113,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61172,
+        "num": 61172,
+        "word": "大宋少年志2 抠图感",
+        "onboard_time": 1690647451,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59922,
+        "num": 59922,
+        "word": "小狗好像以为结婚就是离开",
+        "onboard_time": 1690640617,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49441,
+        "num": 49441,
+        "word": "长相思",
+        "onboard_time": 1690632693,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46677,
+        "num": 46677,
+        "word": "故宫临时闭馆",
+        "onboard_time": 1690643913,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 93391,
+        "num": 44623,
+        "word": "警方通报主持人涂磊被指性侵",
+        "onboard_time": 1690618835,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 83431,
+        "num": 44473,
+        "word": "杨洋某平台认证消失",
+        "onboard_time": 1690622914,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71080,
+        "num": 43309,
+        "word": "北京大雨",
+        "onboard_time": 1690663934,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41555,
+        "num": 41555,
+        "word": "罗布泊",
+        "onboard_time": 1690643076,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40562,
+        "num": 40562,
+        "word": "莲花楼 当一个天下第一的剑客决定退休",
+        "onboard_time": 1690647033,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34638,
+        "num": 34638,
+        "word": "宋祖儿为配字不当道歉",
+        "onboard_time": 1690616796,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34143,
+        "num": 34143,
+        "word": "A股",
+        "onboard_time": 1690656136,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32943,
+        "num": 32943,
+        "word": "老人被激流冲倒6路人接力救援",
+        "onboard_time": 1690647989,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32460,
+        "num": 32460,
+        "word": "周润发跑步摔伤肋骨",
+        "onboard_time": 1690642296,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31338,
+        "num": 31338,
+        "word": "伯邑考温润如玉",
+        "onboard_time": 1690644155,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74296,
+        "num": 31237,
+        "word": "杨洋王楚然魏大勋破好6播放量记录",
+        "onboard_time": 1690661953,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54428,
+        "num": 31174,
+        "word": "北京下雨",
+        "onboard_time": 1690654878,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41056,
+        "num": 31028,
+        "word": "新买的衣服一定要洗洗再穿",
+        "onboard_time": 1690632874,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33234,
+        "num": 31018,
+        "word": "看什么病挂什么科",
+        "onboard_time": 1690636593,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 31953,
+        "num": 30925,
+        "word": "毛不易醉酒给单依纯打电话",
+        "onboard_time": 1690641216,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30822,
+        "num": 30822,
+        "word": "今日之后再无玟小六了",
+        "onboard_time": 1690641572,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29570,
+        "num": 29570,
+        "word": "BLACKPINK听到求婚后不同的反应",
+        "onboard_time": 1690642774,
+        "rank": 26,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 29247,
+        "num": 29247,
+        "word": "张杰演唱会上表白何炅",
+        "onboard_time": 1690637856,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27254,
+        "num": 27254,
+        "word": "父母不懂英语从县城出国看女儿",
+        "onboard_time": 1690614878,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26585,
+        "num": 26585,
+        "word": "摸鱼壁纸真的瞒过了老板和同事",
+        "onboard_time": 1690639236,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80678,
+        "num": 26427,
+        "word": "节目组回应张艺凡施柏宇吻戏",
+        "onboard_time": 1690625793,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34332,
+        "num": 26353,
+        "word": "水是还没发现自己该结冰了吗",
+        "onboard_time": 1690650864,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25903,
+        "num": 25903,
+        "word": "英专生就业去外网写霸总小说",
+        "onboard_time": 1690642537,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25825,
+        "num": 25825,
+        "word": "原来香肠是从侧面开的",
+        "onboard_time": 1690628853,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25710,
+        "num": 25710,
+        "word": "韩剧恶鬼大结局",
+        "onboard_time": 1690643735,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25661,
+        "num": 25661,
+        "word": "大黄救过TES的命吗",
+        "onboard_time": 1690636055,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25182,
+        "num": 25182,
+        "word": "刺痛退役",
+        "onboard_time": 1690629813,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24555,
+        "num": 24555,
+        "word": "范丞丞陈飞宇活动同框",
+        "onboard_time": 1690642837,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24130,
+        "num": 24130,
+        "word": "迪丽热巴你好星期六跳舞",
+        "onboard_time": 1690635453,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23824,
+        "num": 23824,
+        "word": "封神第二部",
+        "onboard_time": 1690624596,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22202,
+        "num": 23824,
+        "word": "业内人士谈车队进罗布泊3死1失联",
+        "onboard_time": 1690656618,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21829,
+        "num": 23812,
+        "word": "举报涂磊女子初步诊断为幻觉妄想",
+        "onboard_time": 1690622313,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 21313,
+        "num": 23796,
+        "word": "超导",
+        "onboard_time": 1690642239,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 20969,
+        "num": 23789,
+        "word": "LNG战胜TES",
+        "onboard_time": 1690635096,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20687,
+        "num": 23779,
+        "word": "王一博空降杭州",
+        "onboard_time": 1690629213,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20064,
+        "num": 23758,
+        "word": "邓紫棋演唱会",
+        "onboard_time": 1690647571,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20056,
+        "num": 23745,
+        "word": "长相思今天更一集",
+        "onboard_time": 1690631254,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19883,
+        "num": 23745,
+        "word": "势俊丽敌",
+        "onboard_time": 1690646372,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19392,
+        "num": 23725,
+        "word": "长相思新副本",
+        "onboard_time": 1690633232,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18788,
+        "num": 23712,
+        "word": "仙贝是拿了段奥娟的剧本吗",
+        "onboard_time": 1690651104,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国顶级实验室有多牛#"
+    }
+  }
+}
