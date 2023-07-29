@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690648496462,
+  "endTime": 1690650815561,
   "band_list": [
     {
       "raw_hot": 1769832,
@@ -32,6 +32,14 @@
       "word": "今日之后再无玟小六了",
       "onboard_time": 1690641572,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 902192,
+      "num": 902192,
+      "word": "大宋少年志2 抠图感",
+      "onboard_time": 1690647451,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -81,14 +89,6 @@
       "onboard_time": 1690625793,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 604625,
-      "num": 604625,
-      "word": "大宋少年志2 抠图感",
-      "onboard_time": 1690647451,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 594066,
@@ -177,6 +177,14 @@
       "onboard_time": 1690641814,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374212,
+      "num": 374212,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1690647571,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 361229,
@@ -275,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268347,
-      "num": 233098,
-      "word": "邓紫棋演唱会",
-      "onboard_time": 1690647571,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 258638,
       "num": 258638,
       "word": "大黄救过TES的命吗",
@@ -347,6 +347,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 178000,
+      "num": 179286,
+      "word": "老人被激流冲倒6路人接力救援",
+      "onboard_time": 1690647989,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166536,
       "num": 227444,
       "word": "父母不懂英语从县城出国看女儿",
@@ -387,12 +395,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95993,
-      "num": 179286,
-      "word": "老人被激流冲倒6路人接力救援",
-      "onboard_time": 1690647989,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 102910,
+      "num": 104421,
+      "word": "王一博空降杭州",
+      "onboard_time": 1690629213,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 89231,
@@ -419,7 +427,15 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 37739,
+      "raw_hot": 64068,
+      "num": 104407,
+      "word": "2023F1比利时大奖赛冲刺赛",
+      "onboard_time": 1690648290,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40846,
       "num": 991398,
       "word": "成都大运会的中国式浪漫",
       "onboard_time": 1690638696,
