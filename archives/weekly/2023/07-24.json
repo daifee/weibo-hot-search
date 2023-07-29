@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690600582903,
+  "endTime": 1690601637090,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -291,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2704334,
+      "num": 2704334,
+      "word": "拜登承认其儿子私生女是其孙女",
+      "onboard_time": 1690597954,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2688840,
       "num": 671559,
       "word": "吴宣仪 牙贴片已经取了",
@@ -328,14 +336,6 @@
       "word": "女作家因两次被提醒管好小孩向12306投诉",
       "onboard_time": 1690412601,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2464798,
-      "num": 2464798,
-      "word": "拜登承认其儿子私生女是其孙女",
-      "onboard_time": 1690597954,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1377,6 +1377,14 @@
       "onboard_time": 1690180838,
       "rank": 4,
       "category": "音乐,财经"
+    },
+    {
+      "raw_hot": 1357814,
+      "num": 535372,
+      "word": "涂山璟 破防男",
+      "onboard_time": 1690599757,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1354511,
@@ -2555,12 +2563,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 893344,
+      "num": 893344,
+      "word": "男子无视部队劝阻破坏军婚获刑一年",
+      "onboard_time": 1690596092,
+      "rank": 15,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 892147,
       "num": 892147,
       "word": "EDG输了 Ale没输",
       "onboard_time": 1690206398,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 891646,
+      "num": 891646,
+      "word": "操心封神票房",
+      "onboard_time": 1690600298,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 889811,
@@ -3659,14 +3683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 692435,
-      "num": 692435,
-      "word": "男子无视部队劝阻破坏军婚获刑一年",
-      "onboard_time": 1690596092,
-      "rank": 15,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 690808,
       "num": 690808,
       "word": "姐弟垃圾堆捡31部苹果手机价值21万",
@@ -3809,14 +3825,6 @@
       "onboard_time": 1690122876,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 672208,
-      "num": 535372,
-      "word": "涂山璟 破防男",
-      "onboard_time": 1690599757,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 671690,
@@ -4467,6 +4475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600900,
+      "num": 600900,
+      "word": "忽然明白蛊虫怎么那么快就种成了",
+      "onboard_time": 1690597832,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 597065,
       "num": 485332,
       "word": "长相思直播",
@@ -4833,14 +4849,6 @@
       "onboard_time": 1690261844,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 558589,
-      "num": 558589,
-      "word": "忽然明白蛊虫怎么那么快就种成了",
-      "onboard_time": 1690597832,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 556059,
@@ -6899,6 +6907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389780,
+      "num": 279233,
+      "word": "儿子坐离世父亲车哭得撕心裂肺",
+      "onboard_time": 1690600298,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389770,
       "num": 389770,
       "word": "女生读研半年胖到180斤为减肥退学",
@@ -6921,6 +6937,14 @@
       "onboard_time": 1690173522,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389227,
+      "num": 336039,
+      "word": "越来越意识到松弛感的重要性",
+      "onboard_time": 1690598675,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 388861,
@@ -7579,14 +7603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346648,
-      "num": 346648,
-      "word": "操心封神票房",
-      "onboard_time": 1690600298,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 346515,
       "num": 325017,
       "word": "杨紫向往的生活吃了多少烤肠",
@@ -7761,14 +7777,6 @@
       "onboard_time": 1690331737,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 336039,
-      "num": 336039,
-      "word": "越来越意识到松弛感的重要性",
-      "onboard_time": 1690598675,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 335602,
@@ -8259,6 +8267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314948,
+      "num": 314948,
+      "word": "28岁真是个分水岭",
+      "onboard_time": 1690601133,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314528,
       "num": 314528,
       "word": "徐嘉余100仰预赛第一",
@@ -8641,6 +8657,14 @@
       "onboard_time": 1690454137,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 295459,
+      "num": 295459,
+      "word": "涂山璟相柳角色号打起来了",
+      "onboard_time": 1690600896,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 294569,
@@ -9067,6 +9091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276695,
+      "num": 276695,
+      "word": "下饭神番",
+      "onboard_time": 1690597354,
+      "rank": 42,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 276654,
       "num": 276654,
       "word": "岳云鹏经纪人商业版图盘点",
@@ -9089,14 +9121,6 @@
       "onboard_time": 1690249532,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276429,
-      "num": 276429,
-      "word": "下饭神番",
-      "onboard_time": 1690597354,
-      "rank": 42,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 276235,
@@ -9499,6 +9523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255437,
+      "num": 255437,
+      "word": "台风一路北上10余省份将有暴雨",
+      "onboard_time": 1690600298,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254853,
       "num": 254853,
       "word": "封神美男",
@@ -9609,6 +9641,14 @@
       "onboard_time": 1690503397,
       "rank": 43,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 250171,
+      "num": 250171,
+      "word": "北京暴雨",
+      "onboard_time": 1690601018,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249673,
@@ -10803,6 +10843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204682,
+      "num": 204682,
+      "word": "迪丽热巴三万水狮全国异地登陆",
+      "onboard_time": 1690601375,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203974,
       "num": 514570,
       "word": "鸿蒙4官宣发布时间",
@@ -10875,8 +10923,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201783,
+      "num": 201783,
+      "word": "狼队",
+      "onboard_time": 1690600896,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201614,
-      "num": 194410,
+      "num": 201615,
       "word": "封神质子选角首要条件是野性",
       "onboard_time": 1690599995,
       "rank": 40,
@@ -11152,14 +11208,6 @@
       "word": "齐齐哈尔学校体育馆坍塌第10人被救出",
       "onboard_time": 1690123598,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195102,
-      "num": 195102,
-      "word": "台风一路北上10余省份将有暴雨",
-      "onboard_time": 1690600298,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -11667,6 +11715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179956,
+      "num": 201776,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1690598855,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178684,
       "num": 201046,
       "word": "兵哥哥这一跳真帅",
@@ -11793,6 +11849,14 @@
       "onboard_time": 1690125937,
       "rank": 38,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 170134,
+      "num": 201666,
+      "word": "刘宇宁蒋俊豪",
+      "onboard_time": 1690601556,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 169433,
@@ -11993,14 +12057,6 @@
       "onboard_time": 1690306040,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155749,
-      "num": 180599,
-      "word": "儿子坐离世父亲车哭得撕心裂肺",
-      "onboard_time": 1690600298,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155335,
@@ -12835,6 +12891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39687,
+      "num": 905090,
+      "word": "微观大运会",
+      "onboard_time": 1690600115,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36844,
       "num": 41363,
       "word": "逆天吐槽消失的十一层",
@@ -12937,14 +13001,6 @@
       "onboard_time": 1690280499,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16647,
-      "num": 876873,
-      "word": "微观大运会",
-      "onboard_time": 1690600115,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12163,
