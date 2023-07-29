@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690665190504,
+  "endTime": 1690666413437,
   "band_list": [
     {
       "raw_hot": 1769832,
@@ -395,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146352,
+      "num": 146352,
+      "word": "北京大雨",
+      "onboard_time": 1690663934,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138388,
       "num": 188882,
       "word": "刺痛退役",
@@ -459,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85028,
+      "num": 34823,
+      "word": "杨洋王楚然魏大勋破好6播放量记录",
+      "onboard_time": 1690661953,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76108,
       "num": 85480,
       "word": "赵简 风停了",
@@ -467,28 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 74296,
-      "num": 34823,
-      "word": "杨洋王楚然魏大勋破好6播放量记录",
-      "onboard_time": 1690661953,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 71580,
       "num": 188794,
       "word": "举报涂磊女子初步诊断为幻觉妄想",
       "onboard_time": 1690622313,
       "rank": 49,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 71080,
-      "num": 43309,
-      "word": "北京大雨",
-      "onboard_time": 1690663934,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68576,

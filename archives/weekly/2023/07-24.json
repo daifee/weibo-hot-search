@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690665190504,
+  "endTime": 1690666413437,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -13531,6 +13531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146352,
+      "num": 146352,
+      "word": "北京大雨",
+      "onboard_time": 1690663934,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146195,
       "num": 146195,
       "word": "DRG对战LGD",
@@ -14139,6 +14147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 85028,
+      "num": 34823,
+      "word": "杨洋王楚然魏大勋破好6播放量记录",
+      "onboard_time": 1690661953,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84867,
       "num": 1935367,
       "word": "微观大运会",
@@ -14243,14 +14259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 74296,
-      "num": 34823,
-      "word": "杨洋王楚然魏大勋破好6播放量记录",
-      "onboard_time": 1690661953,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 73586,
       "num": 1841676,
       "word": "大运会里的中国风巴蜀韵",
@@ -14265,14 +14273,6 @@
       "onboard_time": 1690579334,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71080,
-      "num": 43309,
-      "word": "北京大雨",
-      "onboard_time": 1690663934,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70346,
