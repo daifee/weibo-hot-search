@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690608836755,
+  "endTime": 1690611589178,
   "band_list": [
     {
       "raw_hot": 2818359,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2416919,
+      "num": 2416919,
+      "word": "突然意识到点外卖有多贵",
+      "onboard_time": 1690606898,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2102825,
       "num": 2102825,
       "word": "杜苏芮将从江西移入安徽",
@@ -27,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2087646,
+      "num": 2087646,
+      "word": "蜜雪冰城阴阳怪气瑞幸",
+      "onboard_time": 1690609054,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2048269,
       "num": 2048269,
       "word": "拜登承认其儿子私生女是孙女",
       "onboard_time": 1690597954,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1640597,
-      "num": 1640597,
-      "word": "突然意识到点外卖有多贵",
-      "onboard_time": 1690606898,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 1627403,
@@ -75,8 +83,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1376795,
+      "num": 958910,
+      "word": "大鹏说把片酬给邓超了",
+      "onboard_time": 1690607974,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1357814,
-      "num": 535372,
+      "num": 558906,
       "word": "涂山璟 破防男",
       "onboard_time": 1690599757,
       "rank": 13,
@@ -155,14 +171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 958910,
-      "num": 958910,
-      "word": "大鹏说把片酬给邓超了",
-      "onboard_time": 1690607974,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 953703,
       "num": 806643,
       "word": "台风杜苏芮给漳州市民吹来遍地生蚝",
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 860731,
+      "num": 860731,
+      "word": "宋祖儿照片配字",
+      "onboard_time": 1690610315,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 849085,
       "num": 849085,
       "word": "妈妈问我洗澡为啥这么慢",
@@ -209,6 +225,14 @@
       "onboard_time": 1690591298,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 838320,
+      "num": 838320,
+      "word": "种地吧",
+      "onboard_time": 1690605335,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 782759,
@@ -259,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 712526,
+      "num": 712526,
+      "word": "张新成周雨彤情头",
+      "onboard_time": 1690607135,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 700172,
       "num": 424999,
       "word": "实习生租房一个月用水300吨",
@@ -299,14 +331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 657618,
-      "num": 396085,
-      "word": "张新成周雨彤情头",
-      "onboard_time": 1690607135,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 634871,
       "num": 334663,
       "word": "鸡都要被张艺兴吓死了",
@@ -345,6 +369,14 @@
       "onboard_time": 1690559914,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603093,
+      "num": 603093,
+      "word": "内娱不可模仿的成功",
+      "onboard_time": 1690610796,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 600900,
@@ -443,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 517805,
+      "num": 517805,
+      "word": "人民文娱评电视剧莲花楼",
+      "onboard_time": 1690610555,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 516458,
       "num": 445302,
       "word": "易烊千玺王传君同框照",
@@ -489,6 +529,14 @@
       "onboard_time": 1690592552,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 493668,
+      "num": 625025,
+      "word": "河北安平县疑似发生爆炸",
+      "onboard_time": 1690609174,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492565,
@@ -539,20 +587,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435695,
+      "num": 292206,
+      "word": "两位小朋友为避车摔倒的我打抱不平",
+      "onboard_time": 1690609655,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 433536,
       "num": 433536,
       "word": "魏大勋对屈楚萧说好难吃",
       "onboard_time": 1690590152,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 427306,
-      "num": 427306,
-      "word": "种地吧",
-      "onboard_time": 1690605335,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 422166,
@@ -683,12 +731,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 347652,
+      "num": 308023,
+      "word": "张杰说今晚我要唱个够",
+      "onboard_time": 1690609655,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 346515,
       "num": 325017,
       "word": "杨紫向往的生活吃了多少烤肠",
       "onboard_time": 1690588288,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341029,
+      "num": 305257,
+      "word": "檀健次亲笑了",
+      "onboard_time": 1690609054,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 337036,
@@ -731,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317242,
+      "num": 300231,
+      "word": "十个勤天",
+      "onboard_time": 1690609174,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316842,
       "num": 316842,
       "word": "王一博说绝不放弃任何一个可以跳舞的机会",
@@ -745,6 +817,14 @@
       "onboard_time": 1690595792,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 315138,
+      "num": 315138,
+      "word": "台风杜苏芮北上",
+      "onboard_time": 1690608391,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312793,
@@ -840,6 +920,14 @@
       "word": "涂山璟怎么不笑了",
       "onboard_time": 1690591411,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286060,
+      "num": 286060,
+      "word": "长相思三位男主新增粉丝数",
+      "onboard_time": 1690608033,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -939,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258877,
-      "num": 248961,
-      "word": "台风杜苏芮北上",
-      "onboard_time": 1690608391,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257090,
       "num": 257090,
       "word": "朱一龙包场王一博新电影",
@@ -1043,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237241,
+      "num": 237241,
+      "word": "刘宇宁连续五年悼念去世粉丝",
+      "onboard_time": 1690610915,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233164,
       "num": 233164,
       "word": "张钧甯的发言水平",
@@ -1051,12 +1139,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230091,
-      "num": 230091,
-      "word": "长相思三位男主新增粉丝数",
-      "onboard_time": 1690608033,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 227223,
+      "num": 227223,
+      "word": "年度最佳猫咪",
+      "onboard_time": 1690609832,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 227131,
@@ -1233,6 +1321,14 @@
       "onboard_time": 1690561411,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183617,
+      "num": 205264,
+      "word": "马嘉祺allblack造型",
+      "onboard_time": 1690610136,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 182952,
@@ -1468,7 +1564,7 @@
     },
     {
       "raw_hot": 84867,
-      "num": 1534114,
+      "num": 1638161,
       "word": "微观大运会",
       "onboard_time": 1690600115,
       "rank": 2,
