@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690659221487,
+  "endTime": 1690661758145,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -65744,6 +65744,14 @@
       "word": "TMEA",
       "onboard_time": 1688143230,
       "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 134077,
+      "num": 134077,
+      "word": "好多明星去了鹿晗演唱会",
+      "onboard_time": 1690660993,
+      "rank": 1,
       "category": "音乐"
     },
     {

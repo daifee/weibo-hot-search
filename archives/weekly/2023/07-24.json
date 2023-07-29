@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690659221487,
+  "endTime": 1690661758145,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -13657,6 +13657,14 @@
       "onboard_time": 1690303825,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 134077,
+      "num": 134077,
+      "word": "好多明星去了鹿晗演唱会",
+      "onboard_time": 1690660993,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 133752,
