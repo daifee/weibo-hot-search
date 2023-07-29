@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690618727595,
+  "endTime": 1690619636568,
   "band_list": [
     {
       "raw_hot": 2818359,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2553528,
-      "num": 542807,
+      "num": 544506,
       "word": "宋祖儿为配字不当道歉",
       "onboard_time": 1690616796,
       "rank": 10,
@@ -67,12 +67,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1561781,
+      "num": 1561781,
+      "word": "警方通报主持人涂磊被指性侵",
+      "onboard_time": 1690618835,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1541301,
       "num": 1541301,
       "word": "我选择丁克后妈妈的变化",
       "onboard_time": 1690612655,
       "rank": 3,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1536973,
+      "num": 1536973,
+      "word": "我的人间烟火被删掉的滑板戏",
+      "onboard_time": 1690615117,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1501908,
@@ -121,14 +137,6 @@
       "onboard_time": 1690587084,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1252034,
-      "num": 1252034,
-      "word": "我的人间烟火被删掉的滑板戏",
-      "onboard_time": 1690615117,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 1196922,
@@ -315,8 +323,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 800454,
-      "num": 800454,
+      "raw_hot": 807828,
+      "num": 807828,
+      "word": "邓超四度缺席鹿晗演唱会",
+      "onboard_time": 1690618354,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 800458,
+      "num": 800458,
       "word": "父母不懂英语从县城出国看女儿",
       "onboard_time": 1690614878,
       "rank": 9,
@@ -345,6 +361,14 @@
       "onboard_time": 1690553979,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753578,
+      "num": 753578,
+      "word": "涂磊",
+      "onboard_time": 1690619015,
+      "rank": 8,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 747390,
@@ -835,12 +859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379695,
+      "num": 349890,
+      "word": "出国之后逐渐变得自信了",
+      "onboard_time": 1690615833,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 378960,
       "num": 308909,
       "word": "杜苏芮已远离广东",
       "onboard_time": 1690563086,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376012,
+      "num": 376012,
+      "word": "吴所谓叮嘱弟弟看电影要遵守纪律",
+      "onboard_time": 1690616435,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 366062,
@@ -859,28 +899,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 354125,
-      "num": 354125,
-      "word": "吴所谓叮嘱弟弟看电影要遵守纪律",
-      "onboard_time": 1690616435,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 352720,
       "num": 282949,
       "word": "九尾商务",
       "onboard_time": 1690556074,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 349890,
-      "num": 349890,
-      "word": "出国之后逐渐变得自信了",
-      "onboard_time": 1690615833,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 346515,
@@ -969,14 +993,6 @@
       "onboard_time": 1690595792,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 313748,
-      "num": 313748,
-      "word": "邓超四度缺席鹿晗演唱会",
-      "onboard_time": 1690618354,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 312793,
@@ -1072,6 +1088,14 @@
       "word": "迪丽热巴三万水狮全国异地登陆",
       "onboard_time": 1690601375,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 289686,
+      "num": 240164,
+      "word": "檀健次说吻戏没用上毕生所学",
+      "onboard_time": 1690619015,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1299,20 +1323,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233634,
+      "num": 233634,
+      "word": "仿佛看到了i人的晚年",
+      "onboard_time": 1690614395,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233164,
       "num": 233164,
       "word": "张钧甯的发言水平",
       "onboard_time": 1690593151,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228077,
-      "num": 228077,
-      "word": "仿佛看到了i人的晚年",
-      "onboard_time": 1690614395,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 227131,
@@ -1324,7 +1348,7 @@
     },
     {
       "raw_hot": 225078,
-      "num": 205649,
+      "num": 221186,
       "word": "长相思组合连连看",
       "onboard_time": 1690615776,
       "rank": 41,
@@ -1563,6 +1587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179193,
+      "num": 179193,
+      "word": "命运的齿轮开始转动",
+      "onboard_time": 1690618655,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177221,
       "num": 176850,
       "word": "屈楚萧戴眼镜",
@@ -1779,6 +1811,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 91472,
+      "num": 1543781,
+      "word": "成都大运会最全观赛指南",
+      "onboard_time": 1690615175,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90336,
       "num": 90336,
       "word": "中国男排1比3乌克兰男排",
@@ -1803,14 +1843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82761,
-      "num": 1237120,
-      "word": "成都大运会最全观赛指南",
-      "onboard_time": 1690615175,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72763,
       "num": 57886,
       "word": "你们两口子真有意思",
@@ -1819,7 +1851,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 36013,
+      "raw_hot": 47000,
       "num": 415040,
       "word": "记录你的热爱",
       "onboard_time": 1690617632,
