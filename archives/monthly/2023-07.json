@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690637620962,
+  "endTime": 1690640008902,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2380,7 +2380,7 @@
     },
     {
       "raw_hot": 2256105,
-      "num": 782659,
+      "num": 888798,
       "word": "杨洋某平台认证消失",
       "onboard_time": 1690622914,
       "rank": 20,
@@ -5689,6 +5689,14 @@
       "onboard_time": 1688546674,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1500205,
+      "num": 1500205,
+      "word": "张杰演唱会上表白何炅",
+      "onboard_time": 1690637856,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1500169,
@@ -11019,6 +11027,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 988341,
+      "num": 988341,
+      "word": "为什么去泰国旅游的人越来越少了",
+      "onboard_time": 1690636776,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 987433,
       "num": 987433,
       "word": "男子吃菌后看到冰块飘空中果断报警",
@@ -14988,7 +15004,7 @@
     },
     {
       "raw_hot": 807118,
-      "num": 807118,
+      "num": 929118,
       "word": "中央气象台发暴雨红色预警",
       "onboard_time": 1690627113,
       "rank": 8,
@@ -16209,6 +16225,14 @@
       "onboard_time": 1690500207,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762634,
+      "num": 762634,
+      "word": "内娱男明星的证件照",
+      "onboard_time": 1690637498,
+      "rank": 42,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 762541,
@@ -22731,6 +22755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 586433,
+      "num": 360579,
+      "word": "于文文金发",
+      "onboard_time": 1690637735,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 586145,
       "num": 586145,
       "word": "杨玏封神白月光",
@@ -23281,6 +23313,14 @@
       "onboard_time": 1689128792,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 574326,
+      "num": 354103,
+      "word": "看什么病挂什么科",
+      "onboard_time": 1690636593,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 574124,
@@ -24433,14 +24473,6 @@
       "onboard_time": 1688811451,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 549826,
-      "num": 335146,
-      "word": "为什么去泰国旅游的人越来越少了",
-      "onboard_time": 1690636776,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 549810,
@@ -38827,6 +38859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344770,
+      "num": 344770,
+      "word": "上海申花0比5上海海港",
+      "onboard_time": 1690638817,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 344637,
       "num": 344637,
       "word": "乐队的夏天3要回来了",
@@ -38873,14 +38913,6 @@
       "onboard_time": 1688311001,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 344187,
-      "num": 255710,
-      "word": "看什么病挂什么科",
-      "onboard_time": 1690636593,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 343765,
@@ -41249,6 +41281,14 @@
       "onboard_time": 1689853950,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319848,
+      "num": 253288,
+      "word": "薛之谦深圳演唱会",
+      "onboard_time": 1690639295,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 319797,
@@ -44924,7 +44964,7 @@
     },
     {
       "raw_hot": 289459,
-      "num": 209987,
+      "num": 233659,
       "word": "谭松韵钟楚曦看毛不易演唱会",
       "onboard_time": 1690636593,
       "rank": 46,
@@ -45793,6 +45833,14 @@
       "onboard_time": 1689161852,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282311,
+      "num": 249246,
+      "word": "金珉奎签售",
+      "onboard_time": 1690639597,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 282277,
@@ -47803,6 +47851,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 266388,
+      "num": 266388,
+      "word": "摸鱼壁纸真的瞒过了老板和同事",
+      "onboard_time": 1690639236,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266344,
       "num": 266343,
       "word": "韩国博主说Ella芝芙孟佳原地出道",
@@ -48561,14 +48617,6 @@
       "onboard_time": 1688208990,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 260919,
-      "num": 204464,
-      "word": "内娱男明星的证件照",
-      "onboard_time": 1690637498,
-      "rank": 42,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 260907,
@@ -50764,7 +50812,7 @@
     },
     {
       "raw_hot": 244643,
-      "num": 202917,
+      "num": 224724,
       "word": "张大大直播",
       "onboard_time": 1690637498,
       "rank": 44,
@@ -52003,6 +52051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235716,
+      "num": 235716,
+      "word": "zika",
+      "onboard_time": 1690635875,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235713,
       "num": 235713,
       "word": "妈妈用蕾丝给我补的鞋子",
@@ -52755,6 +52811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 230405,
+      "num": 230405,
+      "word": "申花",
+      "onboard_time": 1689079295,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230367,
       "num": 230367,
       "word": "独家童话今日开播",
@@ -52912,14 +52976,6 @@
       "word": "EDG双线对战",
       "onboard_time": 1688650595,
       "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 229261,
-      "num": 229261,
-      "word": "zika",
-      "onboard_time": 1690635875,
-      "rank": 34,
       "category": "游戏"
     },
     {
@@ -53824,6 +53880,14 @@
       "word": "我的人间烟火工作人员谈魏大勋爆火",
       "onboard_time": 1689757772,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 223556,
+      "num": 223556,
+      "word": "热烈各平台开分",
+      "onboard_time": 1690638817,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -59619,6 +59683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191661,
+      "num": 201485,
+      "word": "好有信念感的一家人",
+      "onboard_time": 1690639176,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 191589,
       "num": 214261,
       "word": "巴特勒中国行",
@@ -60947,14 +61019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184307,
-      "num": 201766,
-      "word": "申花",
-      "onboard_time": 1689079295,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184292,
       "num": 184292,
       "word": "张晚意长相思状态",
@@ -61169,6 +61233,14 @@
       "onboard_time": 1688602422,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182450,
+      "num": 201319,
+      "word": "XYG零封TES",
+      "onboard_time": 1690639838,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 182443,
