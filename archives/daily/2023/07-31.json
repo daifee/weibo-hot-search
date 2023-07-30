@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690738418772,
+  "endTime": 1690741147616,
   "band_list": [
     {
       "raw_hot": 1454070,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248833,
+      "num": 175165,
+      "word": "外地人被内蒙物价整懵了",
+      "onboard_time": 1690735886,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 240877,
       "num": 337262,
       "word": "北京石景山京西大悦城门口塌陷",
@@ -321,14 +329,6 @@
       "onboard_time": 1690721557,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215068,
-      "num": 175165,
-      "word": "外地人被内蒙物价整懵了",
-      "onboard_time": 1690735886,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 201421,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 143972,
-      "num": 90691,
+      "num": 91912,
       "word": "玱玹你怎么不笑了",
       "onboard_time": 1690715371,
       "rank": 32,
@@ -441,6 +441,14 @@
       "onboard_time": 1690730073,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138581,
+      "num": 92186,
+      "word": "内娱身材管理满分的明星",
+      "onboard_time": 1690739058,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 137017,
@@ -483,7 +491,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 42784,
+      "raw_hot": 63207,
       "num": 81112,
       "word": "一P图我的手机就特别烫",
       "onboard_time": 1690736482,
@@ -491,7 +499,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20708,
+      "raw_hot": 20895,
       "num": 560362,
       "word": "在大运村和外国运动员一起耍非遗",
       "onboard_time": 1690722814,
