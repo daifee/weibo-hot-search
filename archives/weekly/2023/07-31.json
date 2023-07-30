@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690756417330,
+  "endTime": 1690758960764,
   "band_list": [
     {
       "raw_hot": 1454070,
@@ -35,11 +35,27 @@
       "category": "影视"
     },
     {
-      "raw_hot": 837887,
-      "num": 548983,
+      "raw_hot": 1073953,
+      "num": 1073953,
+      "word": "把西瓜的水分全部蒸发后",
+      "onboard_time": 1690733490,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 1050117,
+      "num": 702762,
       "word": "日本学生害怕被AI取代而自杀",
       "onboard_time": 1690734927,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889012,
+      "num": 889012,
+      "word": "真实的缅北边境现状",
+      "onboard_time": 1690727135,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 717324,
-      "num": 332527,
+      "num": 571473,
       "word": "5个症状提示体内有湿气",
       "onboard_time": 1690731813,
       "rank": 20,
@@ -73,14 +89,6 @@
       "onboard_time": 1690726416,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 670504,
-      "num": 611230,
-      "word": "把西瓜的水分全部蒸发后",
-      "onboard_time": 1690733490,
-      "rank": 45,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 660809,
@@ -139,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495947,
-      "num": 400088,
-      "word": "真实的缅北边境现状",
-      "onboard_time": 1690727135,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 488136,
+      "num": 488136,
+      "word": "外地人被内蒙物价整懵了",
+      "onboard_time": 1690735886,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 447878,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 430111,
-      "num": 300605,
+      "num": 308146,
       "word": "摧毁孩子的主体性的妈妈",
       "onboard_time": 1690734210,
       "rank": 37,
@@ -176,6 +184,14 @@
       "word": "精诚矿业瞒报死亡矿工43人",
       "onboard_time": 1690717354,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383041,
+      "num": 383041,
+      "word": "电梯突然停运乘客原地停留20分钟",
+      "onboard_time": 1690754655,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -251,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284935,
+      "num": 284935,
+      "word": "长相思才是我想看的女主视角剧",
+      "onboard_time": 1690742537,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267704,
       "num": 335243,
       "word": "WBG积分第一晋级夏决",
@@ -299,14 +323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248833,
-      "num": 237216,
-      "word": "外地人被内蒙物价整懵了",
-      "onboard_time": 1690735886,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 240877,
       "num": 337262,
       "word": "北京石景山京西大悦城门口塌陷",
@@ -339,12 +355,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186796,
+      "num": 184055,
+      "word": "内娱身材管理满分的明星",
+      "onboard_time": 1690739058,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185030,
       "num": 143465,
       "word": "热烈票房",
       "onboard_time": 1690725395,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184799,
+      "num": 184799,
+      "word": "台风卡努恰逢农历天文大潮",
+      "onboard_time": 1690756216,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184558,
@@ -411,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148013,
-      "num": 92186,
-      "word": "内娱身材管理满分的明星",
-      "onboard_time": 1690739058,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147846,
       "num": 172930,
       "word": "保定暴雨",
@@ -443,14 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141990,
-      "num": 141990,
-      "word": "长相思才是我想看的女主视角剧",
-      "onboard_time": 1690742537,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 139418,
       "num": 139418,
       "word": "KPL",
@@ -465,6 +481,14 @@
       "onboard_time": 1690736302,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131772,
+      "num": 122413,
+      "word": "给雪糕明码标价的便利店",
+      "onboard_time": 1690755797,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 120952,
@@ -491,12 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105192,
-      "num": 60934,
-      "word": "电梯突然停运乘客原地停留20分钟",
-      "onboard_time": 1690754655,
+      "raw_hot": 112695,
+      "num": 112695,
+      "word": "覃海洋无缘MVP",
+      "onboard_time": 1690756275,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99705,
+      "num": 99705,
+      "word": "成都串串店深夜坐满外国运动员",
+      "onboard_time": 1690758321,
       "rank": 37,
-      "category": "社会新闻"
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 93223,
@@ -507,12 +539,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89022,
+      "num": 89022,
+      "word": "暑期档男演员哭戏",
+      "onboard_time": 1690758680,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 70160,
+      "num": 70160,
+      "word": "张艺兴练习室对镜拍",
+      "onboard_time": 1690758561,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 66997,
       "num": 81112,
       "word": "一P图我的手机就特别烫",
       "onboard_time": 1690736482,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65417,
+      "num": 65417,
+      "word": "涂山璟角色号没营业",
+      "onboard_time": 1690758864,
+      "rank": 48,
+      "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 46686,
+      "num": 722437,
+      "word": "在大运村和外国运动员一起耍非遗",
+      "onboard_time": 1690722814,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 29333,
@@ -537,14 +601,6 @@
       "onboard_time": 1690619915,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 20895,
-      "num": 560362,
-      "word": "在大运村和外国运动员一起耍非遗",
-      "onboard_time": 1690722814,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 16642,
