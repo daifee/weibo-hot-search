@@ -1,0 +1,411 @@
+{
+  "startTime": 1690734004301,
+  "endTime": 1690734004301,
+  "band_list": [
+    {
+      "raw_hot": 1454070,
+      "num": 1454070,
+      "word": "长相思14集封神了",
+      "onboard_time": 1690727556,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1343293,
+      "num": 337387,
+      "word": "刘维登不上母亲微信发文求助",
+      "onboard_time": 1690720535,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1317933,
+      "num": 1317933,
+      "word": "你明天居家办公吗",
+      "onboard_time": 1690728994,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1081908,
+      "num": 1081908,
+      "word": "湖南卫视在放旋风少女",
+      "onboard_time": 1690727252,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 737212,
+      "num": 322391,
+      "word": "王诗龄的画vs黄多多的画",
+      "onboard_time": 1690710454,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 690423,
+      "num": 216756,
+      "word": "5个症状提示体内有湿气",
+      "onboard_time": 1690731813,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676411,
+      "num": 676411,
+      "word": "你不要让别的男人住进你心里",
+      "onboard_time": 1690728156,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 672256,
+      "num": 645359,
+      "word": "邓为哭戏",
+      "onboard_time": 1690726416,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 660809,
+      "num": 296759,
+      "word": "喜欢张杰很久的彭奶奶去世了",
+      "onboard_time": 1690724792,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 653847,
+      "num": 653847,
+      "word": "行车记录仪记录车库被淹全程",
+      "onboard_time": 1690729474,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 622877,
+      "num": 622877,
+      "word": "黄子韬去鹿晗演唱会了",
+      "onboard_time": 1690723596,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 609754,
+      "num": 267655,
+      "word": "张晚意闲鱼买东西被人认出来",
+      "onboard_time": 1690712373,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 526975,
+      "num": 526975,
+      "word": "杜苏芮",
+      "onboard_time": 1690705233,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496195,
+      "num": 246097,
+      "word": "张晚意邓为檀健次涨粉量",
+      "onboard_time": 1690731154,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 495947,
+      "num": 213438,
+      "word": "真实的缅北边境现状",
+      "onboard_time": 1690727135,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476009,
+      "num": 209828,
+      "word": "TFBOYS要合体集训了吧",
+      "onboard_time": 1690732173,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 447878,
+      "num": 205490,
+      "word": "费翔 妈妈严选",
+      "onboard_time": 1690728695,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 410421,
+      "num": 271010,
+      "word": "王刚 我对我和全队表现感到耻辱",
+      "onboard_time": 1690729833,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 393542,
+      "num": 198386,
+      "word": "精诚矿业瞒报死亡矿工43人",
+      "onboard_time": 1690717354,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376977,
+      "num": 196233,
+      "word": "白敬亭魏大勋刘昊然穿西装跳舞",
+      "onboard_time": 1690732411,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 367486,
+      "num": 193557,
+      "word": "再见就是小夭防风邶了",
+      "onboard_time": 1690729297,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 355038,
+      "num": 355038,
+      "word": "业内人士谈车队进罗布泊3死1失联",
+      "onboard_time": 1690730316,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327504,
+      "num": 188600,
+      "word": "有演技却没有爆火的演员",
+      "onboard_time": 1690726474,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 317809,
+      "num": 181916,
+      "word": "撒贝宁这辈子没这么尴尬过",
+      "onboard_time": 1690731994,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 299729,
+      "num": 183503,
+      "word": "这年头连动物都有平替了",
+      "onboard_time": 1690729358,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 297017,
+      "num": 181796,
+      "word": "王一博 广州",
+      "onboard_time": 1690733072,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267704,
+      "num": 267704,
+      "word": "WBG积分第一晋级夏决",
+      "onboard_time": 1690729358,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 264656,
+      "num": 181758,
+      "word": "范丞丞帮魏大勋变身孟宴臣",
+      "onboard_time": 1690727072,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264001,
+      "num": 264001,
+      "word": "韦伯望远镜拍到了一个问号",
+      "onboard_time": 1690725933,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 261807,
+      "num": 165696,
+      "word": "蔡依林唱倒带好好哭",
+      "onboard_time": 1690730853,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 259881,
+      "num": 164675,
+      "word": "封神票房",
+      "onboard_time": 1690719633,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 234342,
+      "num": 144030,
+      "word": "因为是张新成所以脏可以心诚",
+      "onboard_time": 1690729595,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 224578,
+      "num": 224578,
+      "word": "熊猫有时候真的人里人气",
+      "onboard_time": 1690731096,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 218004,
+      "num": 218004,
+      "word": "台风卡努",
+      "onboard_time": 1690721557,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185030,
+      "num": 143465,
+      "word": "热烈票房",
+      "onboard_time": 1690725395,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 181921,
+      "num": 181921,
+      "word": "孙杨的世界纪录还在",
+      "onboard_time": 1690718135,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181618,
+      "num": 181618,
+      "word": "当老师发朋友圈忘记屏蔽学生",
+      "onboard_time": 1690707631,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 167033,
+      "num": 167033,
+      "word": "男子肠道密密麻麻长满200多个息肉",
+      "onboard_time": 1690692688,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164203,
+      "num": 141890,
+      "word": "钟汉良上海演唱会",
+      "onboard_time": 1690730613,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 157327,
+      "num": 157327,
+      "word": "花花真身比Q版还Q",
+      "onboard_time": 1690733311,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156713,
+      "num": 140871,
+      "word": "封神彩蛋",
+      "onboard_time": 1690728936,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 152422,
+      "num": 140608,
+      "word": "易烊千玺FIRST颁奖",
+      "onboard_time": 1690725216,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 147846,
+      "num": 147846,
+      "word": "保定暴雨",
+      "onboard_time": 1690722157,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144481,
+      "num": 144481,
+      "word": "北京石景山京西大悦城门口塌陷",
+      "onboard_time": 1690733490,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139838,
+      "num": 139838,
+      "word": "把西瓜的水分全部蒸发后",
+      "onboard_time": 1690733490,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 139418,
+      "num": 139418,
+      "word": "KPL",
+      "onboard_time": 1690730073,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 118625,
+      "num": 138201,
+      "word": "Elk 恐尺",
+      "onboard_time": 1690719332,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 115405,
+      "num": 136714,
+      "word": "中国队男子混合泳接力摘银",
+      "onboard_time": 1690720834,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114203,
+      "num": 134051,
+      "word": "北京房山一地突发山洪",
+      "onboard_time": 1690713994,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14755,
+      "num": 1128632,
+      "word": "成都大运会的中国式浪漫",
+      "onboard_time": 1690638696,
+      "rank": 2,
+      "category": "体育"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#会唱歌的石头见证中华千年礼乐文明#"
+    }
+  ]
+}
