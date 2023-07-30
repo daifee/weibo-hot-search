@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690706041299,
+  "endTime": 1690708496363,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -8889,6 +8889,14 @@
       "onboard_time": 1689757293,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1137320,
+      "num": 1137320,
+      "word": "杜苏芮",
+      "onboard_time": 1690528715,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135433,
@@ -20171,6 +20179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 657810,
+      "num": 657810,
+      "word": "张晚意邓为檀健次都有女装",
+      "onboard_time": 1690705233,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 657658,
       "num": 657658,
       "word": "茶百道 剑网",
@@ -26379,6 +26395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 521133,
+      "num": 320338,
+      "word": "北京市教委紧急通知停止入校活动",
+      "onboard_time": 1690706911,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 521008,
       "num": 398013,
       "word": "陈数演女老板自掏5000万给员工",
@@ -27001,6 +27025,14 @@
       "onboard_time": 1690679310,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510136,
+      "num": 265209,
+      "word": "隐形家务才是最让人崩溃的",
+      "onboard_time": 1690703552,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 509956,
@@ -28987,6 +29019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 477054,
+      "num": 313319,
+      "word": "沙溢又瘦了",
+      "onboard_time": 1690707511,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476971,
       "num": 476971,
       "word": "是不是鹿晗派你来问的",
@@ -29352,14 +29392,6 @@
       "word": "警惕杜苏芮靠近后风雨突然增强",
       "onboard_time": 1690506274,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 471665,
-      "num": 389120,
-      "word": "杜苏芮",
-      "onboard_time": 1690528715,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -30987,14 +31019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 448629,
-      "num": 312566,
-      "word": "张晚意邓为檀健次都有女装",
-      "onboard_time": 1690705233,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 448547,
       "num": 448547,
       "word": "刀郎 罗刹海市",
@@ -31340,7 +31364,7 @@
     },
     {
       "raw_hot": 443167,
-      "num": 310749,
+      "num": 440881,
       "word": "娜然的妲己好美",
       "onboard_time": 1690704152,
       "rank": 16,
@@ -33443,6 +33467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417601,
+      "num": 194731,
+      "word": "当老师发朋友圈忘记屏蔽学生",
+      "onboard_time": 1690707631,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 417563,
       "num": 417563,
       "word": "电影白蛇浮生官宣",
@@ -34193,14 +34225,6 @@
       "onboard_time": 1689663152,
       "rank": 33,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 406575,
-      "num": 265209,
-      "word": "隐形家务才是最让人崩溃的",
-      "onboard_time": 1690703552,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 406542,
@@ -35241,6 +35265,14 @@
       "onboard_time": 1688518412,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394847,
+      "num": 296323,
+      "word": "周迅脱了鞋",
+      "onboard_time": 1690707451,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 394750,
@@ -47315,6 +47347,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 278080,
+      "num": 194627,
+      "word": "Jennie看到虫子的反应",
+      "onboard_time": 1690708295,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 278002,
       "num": 278002,
       "word": "电视剧四大伪骨科cp",
@@ -54475,6 +54515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226196,
+      "num": 226196,
+      "word": "BLG对战JDG",
+      "onboard_time": 1690707570,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 226192,
       "num": 228647,
       "word": "周迅又演电视剧了",
@@ -57819,6 +57867,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 206602,
+      "num": 296407,
+      "word": "5分钟能看完一部好电影吗",
+      "onboard_time": 1690706973,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206550,
       "num": 206550,
       "word": "王者荣耀亚运版本中国队首秀",
@@ -60163,6 +60219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194777,
+      "num": 194777,
+      "word": "美杜莎女王生日快乐",
+      "onboard_time": 1690707991,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 194744,
       "num": 194744,
       "word": "Hero对战LGD",
@@ -60216,6 +60280,14 @@
       "word": "一梦江湖",
       "onboard_time": 1688136760,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 194510,
+      "num": 194510,
+      "word": "朱雀第五人格",
+      "onboard_time": 1690707871,
+      "rank": 37,
       "category": "游戏"
     },
     {
@@ -60665,6 +60737,14 @@
       "onboard_time": 1688827056,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192363,
+      "num": 194582,
+      "word": "RW战胜MTG",
+      "onboard_time": 1690707812,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 192309,
@@ -62649,6 +62729,14 @@
       "onboard_time": 1690514677,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180211,
+      "num": 223997,
+      "word": "暴雨天车辆涉水避险指南",
+      "onboard_time": 1690704571,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180028,
@@ -66619,14 +66707,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 137420,
-      "num": 223997,
-      "word": "暴雨天车辆涉水避险指南",
-      "onboard_time": 1690704571,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136579,
       "num": 218563,
       "word": "seventeen演唱会彩排照",
@@ -67931,6 +68011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106282,
+      "num": 188452,
+      "word": "久诚采访哭了",
+      "onboard_time": 1690708472,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106109,
       "num": 227594,
       "word": "2023LPL夏季赛季后赛",
@@ -68001,6 +68089,14 @@
       "onboard_time": 1689006748,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105324,
+      "num": 188182,
+      "word": "阿宝的扳手耳朵变爱心了",
+      "onboard_time": 1690708230,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105177,

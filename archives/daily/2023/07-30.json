@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690706041299,
+  "endTime": 1690708496363,
   "band_list": [
     {
       "raw_hot": 2642952,
@@ -121,6 +121,14 @@
       "onboard_time": 1690685552,
       "rank": 10,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1137320,
+      "num": 1137320,
+      "word": "杜苏芮",
+      "onboard_time": 1690528715,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1076905,
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 657810,
+      "num": 657810,
+      "word": "张晚意邓为檀健次都有女装",
+      "onboard_time": 1690705233,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 655480,
       "num": 655480,
       "word": "范丞丞官宣加盟现在就出发",
@@ -547,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521133,
+      "num": 320338,
+      "word": "北京市教委紧急通知停止入校活动",
+      "onboard_time": 1690706911,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 521006,
       "num": 681666,
       "word": "天津暴雨",
@@ -577,6 +601,14 @@
       "onboard_time": 1690679310,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510136,
+      "num": 265209,
+      "word": "隐形家务才是最让人崩溃的",
+      "onboard_time": 1690703552,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 503214,
@@ -619,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477054,
+      "num": 313319,
+      "word": "沙溢又瘦了",
+      "onboard_time": 1690707511,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468265,
       "num": 468265,
       "word": "势俊丽敌",
@@ -659,16 +699,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 448629,
-      "num": 312566,
-      "word": "张晚意邓为檀健次都有女装",
-      "onboard_time": 1690705233,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 443167,
-      "num": 310749,
+      "num": 440881,
       "word": "娜然的妲己好美",
       "onboard_time": 1690704152,
       "rank": 16,
@@ -739,11 +771,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406575,
-      "num": 265209,
-      "word": "隐形家务才是最让人崩溃的",
-      "onboard_time": 1690703552,
-      "rank": 23,
+      "raw_hot": 417601,
+      "num": 194731,
+      "word": "当老师发朋友圈忘记屏蔽学生",
+      "onboard_time": 1690707631,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -760,6 +792,14 @@
       "word": "衙内换人",
       "onboard_time": 1690641814,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 394847,
+      "num": 296323,
+      "word": "周迅脱了鞋",
+      "onboard_time": 1690707451,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -875,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347588,
-      "num": 347588,
-      "word": "杜苏芮",
-      "onboard_time": 1690528715,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339792,
       "num": 339792,
       "word": "毛不易醉酒给单依纯打电话",
@@ -995,6 +1027,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 289571,
+      "num": 234122,
+      "word": "热烈",
+      "onboard_time": 1690702830,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288226,
       "num": 288226,
       "word": "摸鱼壁纸真的瞒过了老板和同事",
@@ -1075,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278080,
+      "num": 194627,
+      "word": "Jennie看到虫子的反应",
+      "onboard_time": 1690708295,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 267975,
       "num": 267975,
       "word": "张新成这一脚等了四年",
@@ -1113,14 +1161,6 @@
       "onboard_time": 1690636055,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 257724,
-      "num": 234122,
-      "word": "热烈",
-      "onboard_time": 1690702830,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 254863,
@@ -1251,6 +1291,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 226196,
+      "num": 226196,
+      "word": "BLG对战JDG",
+      "onboard_time": 1690707570,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222597,
       "num": 222597,
       "word": "小夭名字的由来",
@@ -1315,6 +1363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206602,
+      "num": 296407,
+      "word": "5分钟能看完一部好电影吗",
+      "onboard_time": 1690706973,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206245,
       "num": 272320,
       "word": "装正常人已经炉火纯青",
@@ -1371,6 +1427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194777,
+      "num": 194777,
+      "word": "美杜莎女王生日快乐",
+      "onboard_time": 1690707991,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 194510,
+      "num": 194510,
+      "word": "朱雀第五人格",
+      "onboard_time": 1690707871,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194405,
       "num": 194405,
       "word": "于正张小斐同框",
@@ -1385,6 +1457,14 @@
       "onboard_time": 1690677208,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192363,
+      "num": 194582,
+      "word": "RW战胜MTG",
+      "onboard_time": 1690707812,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 192143,
@@ -1409,6 +1489,14 @@
       "onboard_time": 1690644634,
       "rank": 37,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 180211,
+      "num": 223997,
+      "word": "暴雨天车辆涉水避险指南",
+      "onboard_time": 1690704571,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178782,
@@ -1483,14 +1571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137420,
-      "num": 223997,
-      "word": "暴雨天车辆涉水避险指南",
-      "onboard_time": 1690704571,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135164,
       "num": 522589,
       "word": "谷爱凌运动后京味补给",
@@ -1537,6 +1617,22 @@
       "onboard_time": 1690670656,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 106282,
+      "num": 188452,
+      "word": "久诚采访哭了",
+      "onboard_time": 1690708472,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 105324,
+      "num": 188182,
+      "word": "阿宝的扳手耳朵变爱心了",
+      "onboard_time": 1690708230,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102910,
