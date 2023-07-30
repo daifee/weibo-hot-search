@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690727628044,
+  "endTime": 1690730136243,
   "band_list": [
     {
       "raw_hot": 4491978,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1730203,
+      "num": 1730203,
+      "word": "长相思14集封神了",
+      "onboard_time": 1690727556,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1664222,
       "num": 1664222,
       "word": "邓为哭戏",
@@ -184,6 +192,14 @@
       "word": "长相思",
       "onboard_time": 1690632693,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1369355,
+      "num": 1369355,
+      "word": "湖南卫视在放旋风少女",
+      "onboard_time": 1690727252,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -249,6 +265,14 @@
       "onboard_time": 1690685552,
       "rank": 10,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1141206,
+      "num": 1141206,
+      "word": "你不要让别的男人住进你心里",
+      "onboard_time": 1690728156,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1104708,
@@ -499,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772458,
+      "num": 382990,
+      "word": "费翔 妈妈严选",
+      "onboard_time": 1690728695,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 772152,
       "num": 772152,
       "word": "鹿晗把陈赫的票给邓超了",
@@ -544,6 +576,14 @@
       "word": "飞云",
       "onboard_time": 1690683153,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 746466,
+      "num": 297738,
+      "word": "真实的缅北边境现状",
+      "onboard_time": 1690727135,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -635,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 673218,
+      "num": 296969,
+      "word": "有演技却没有爆火的演员",
+      "onboard_time": 1690726474,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 665578,
       "num": 643631,
       "word": "王俊凯到北京了",
@@ -667,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631377,
+      "num": 453129,
+      "word": "韦伯望远镜拍到了一个问号",
+      "onboard_time": 1690725933,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 625268,
       "num": 517605,
       "word": "杨紫说小夭是不敢相认",
@@ -688,6 +744,14 @@
       "word": "节目组回应张艺凡施柏宇吻戏",
       "onboard_time": 1690625793,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 613494,
+      "num": 294880,
+      "word": "范丞丞帮魏大勋变身孟宴臣",
+      "onboard_time": 1690727072,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -761,6 +825,14 @@
       "onboard_time": 1690687468,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 578169,
+      "num": 578169,
+      "word": "你明天居家办公吗",
+      "onboard_time": 1690728994,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572229,
@@ -1083,14 +1155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 446064,
-      "num": 200581,
-      "word": "范丞丞帮魏大勋变身孟宴臣",
-      "onboard_time": 1690727072,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 443167,
       "num": 440881,
       "word": "娜然的妲己好美",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1690628853,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 437896,
+      "num": 172422,
+      "word": "再见就是小夭防风邶了",
+      "onboard_time": 1690729297,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 434427,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1690720593,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 427327,
+      "num": 241313,
+      "word": "鹿晗听到脱掉的反应",
+      "onboard_time": 1690729714,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 424006,
@@ -1201,14 +1281,6 @@
       "onboard_time": 1690710815,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 407290,
-      "num": 200079,
-      "word": "有演技却没有爆火的演员",
-      "onboard_time": 1690726474,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 403687,
@@ -1331,10 +1403,10 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 366881,
-      "num": 199112,
-      "word": "湖南卫视在放旋风少女",
-      "onboard_time": 1690727252,
+      "raw_hot": 363447,
+      "num": 240348,
+      "word": "因为是张新成所以脏可以心诚",
+      "onboard_time": 1690729595,
       "rank": 36,
       "category": "影视"
     },
@@ -1507,20 +1579,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 305996,
-      "num": 187508,
-      "word": "长相思14集封神了",
-      "onboard_time": 1690727556,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 307109,
+      "num": 307109,
+      "word": "WBG积分第一晋级夏决",
+      "onboard_time": 1690729358,
+      "rank": 18,
+      "category": "游戏"
     },
     {
-      "raw_hot": 305555,
-      "num": 204134,
-      "word": "韦伯望远镜拍到了一个问号",
-      "onboard_time": 1690725933,
-      "rank": 34,
-      "category": "科技"
+      "raw_hot": 305162,
+      "num": 188154,
+      "word": "王源自己扎的冲天辫",
+      "onboard_time": 1690728397,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 305148,
@@ -1585,6 +1657,14 @@
       "onboard_time": 1690702110,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294467,
+      "num": 184068,
+      "word": "封神彩蛋",
+      "onboard_time": 1690728936,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 294294,
@@ -1787,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243009,
+      "num": 243009,
+      "word": "行车记录仪记录车库被淹全程",
+      "onboard_time": 1690729474,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242412,
       "num": 242412,
       "word": "闪耀暖暖直播",
@@ -1955,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211188,
+      "num": 211188,
+      "word": "榴莲烤乳扇",
+      "onboard_time": 1690727373,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210964,
       "num": 167561,
       "word": "成毅吃糖豆",
@@ -2017,14 +2113,6 @@
       "onboard_time": 1690681411,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203442,
-      "num": 199677,
-      "word": "真实的缅北边境现状",
-      "onboard_time": 1690727135,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201636,
@@ -2153,6 +2241,14 @@
       "onboard_time": 1690719697,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193676,
+      "num": 193676,
+      "word": "这年头连动物都有平替了",
+      "onboard_time": 1690729358,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 192363,
@@ -2291,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152506,
+      "num": 172257,
+      "word": "王刚 我对我和全队表现感到耻辱",
+      "onboard_time": 1690729833,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150229,
       "num": 150229,
       "word": "张杰长沙演唱会",
@@ -2345,6 +2449,14 @@
       "onboard_time": 1690691850,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131836,
+      "num": 172110,
+      "word": "KPL",
+      "onboard_time": 1690730073,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 126677,
@@ -2457,14 +2569,6 @@
       "onboard_time": 1690609054,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84644,
-      "num": 159660,
-      "word": "榴莲烤乳扇",
-      "onboard_time": 1690727373,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 81503,
