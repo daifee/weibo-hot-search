@@ -1,0 +1,410 @@
+{
+  "runTime": 1690752819073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 192923,
+        "num": 192923,
+        "word": "把西瓜的水分全部蒸发后",
+        "onboard_time": 1690733490,
+        "rank": 0,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 133972,
+        "num": 133972,
+        "word": "真实的缅北边境现状",
+        "onboard_time": 1690727135,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10478,
+        "num": 111091,
+        "word": "在大运村和外国运动员一起耍非遗",
+        "onboard_time": 1690722814,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196186,
+        "num": 110829,
+        "word": "日本学生害怕被AI取代而自杀",
+        "onboard_time": 1690734927,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109767,
+        "num": 109767,
+        "word": "外地人被内蒙物价整懵了",
+        "onboard_time": 1690735886,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86800,
+        "num": 86800,
+        "word": "长相思14集封神了",
+        "onboard_time": 1690727556,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64068,
+        "num": 64068,
+        "word": "杜苏芮",
+        "onboard_time": 1690705233,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69827,
+        "num": 62438,
+        "word": "长相思才是我想看的女主视角剧",
+        "onboard_time": 1690742537,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56307,
+        "num": 56307,
+        "word": "湖南卫视在放旋风少女",
+        "onboard_time": 1690727252,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52742,
+        "num": 52742,
+        "word": "邓为哭戏",
+        "onboard_time": 1690726416,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124812,
+        "num": 52354,
+        "word": "刘维登不上母亲微信发文求助",
+        "onboard_time": 1690720535,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96477,
+        "num": 50302,
+        "word": "摧毁孩子的主体性的妈妈",
+        "onboard_time": 1690734210,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64030,
+        "num": 50192,
+        "word": "王诗龄的画vs黄多多的画",
+        "onboard_time": 1690710454,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46949,
+        "num": 46949,
+        "word": "王刚 我对我和全队表现感到耻辱",
+        "onboard_time": 1690729833,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45967,
+        "num": 45967,
+        "word": "张晚意邓为檀健次涨粉量",
+        "onboard_time": 1690731154,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45024,
+        "num": 45024,
+        "word": "喜欢张杰很久的彭奶奶去世了",
+        "onboard_time": 1690724792,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39973,
+        "num": 39973,
+        "word": "你明天居家办公吗",
+        "onboard_time": 1690728994,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39684,
+        "num": 39684,
+        "word": "熊猫有时候真的人里人气",
+        "onboard_time": 1690731096,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37027,
+        "num": 37027,
+        "word": "黄子韬去鹿晗演唱会了",
+        "onboard_time": 1690723596,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36901,
+        "num": 36901,
+        "word": "业内人士谈车队进罗布泊3死1失联",
+        "onboard_time": 1690730316,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89430,
+        "num": 36705,
+        "word": "5个症状提示体内有湿气",
+        "onboard_time": 1690731813,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57440,
+        "num": 36589,
+        "word": "花花真身比Q版还Q",
+        "onboard_time": 1690733311,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38605,
+        "num": 36163,
+        "word": "有演技却没有爆火的演员",
+        "onboard_time": 1690726474,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35648,
+        "num": 35648,
+        "word": "精诚矿业瞒报死亡矿工43人",
+        "onboard_time": 1690717354,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34669,
+        "num": 34669,
+        "word": "内娱身材管理满分的明星",
+        "onboard_time": 1690739058,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33341,
+        "num": 33341,
+        "word": "王一博 广州",
+        "onboard_time": 1690733072,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33154,
+        "num": 33154,
+        "word": "费翔 妈妈严选",
+        "onboard_time": 1690728695,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32476,
+        "num": 32476,
+        "word": "保定暴雨",
+        "onboard_time": 1690722157,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30773,
+        "num": 30773,
+        "word": "撒贝宁这辈子没这么尴尬过",
+        "onboard_time": 1690731994,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30038,
+        "num": 30038,
+        "word": "台风卡努",
+        "onboard_time": 1690721557,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29999,
+        "num": 29999,
+        "word": "这年头连动物都有平替了",
+        "onboard_time": 1690729358,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29719,
+        "num": 29719,
+        "word": "白敬亭魏大勋刘昊然穿西装跳舞",
+        "onboard_time": 1690732411,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28966,
+        "num": 28966,
+        "word": "张晚意闲鱼买东西被人认出来",
+        "onboard_time": 1690712373,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28670,
+        "num": 28670,
+        "word": "韦伯望远镜拍到了一个问号",
+        "onboard_time": 1690725933,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 26450,
+        "num": 26450,
+        "word": "长相思",
+        "onboard_time": 1690714953,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26286,
+        "num": 26286,
+        "word": "蔡依林说日不落是她最红的舞曲",
+        "onboard_time": 1690735646,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24031,
+        "num": 24031,
+        "word": "元仲辛 我们成亲吧",
+        "onboard_time": 1690747453,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22898,
+        "num": 22898,
+        "word": "行车记录仪记录车库被淹全程",
+        "onboard_time": 1690729474,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19849,
+        "num": 21952,
+        "word": "当老师发朋友圈忘记屏蔽学生",
+        "onboard_time": 1690707631,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24783,
+        "num": 21944,
+        "word": "再见就是小夭防风邶了",
+        "onboard_time": 1690729297,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23515,
+        "num": 21922,
+        "word": "TFBOYS要合体集训了吧",
+        "onboard_time": 1690732173,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21877,
+        "num": 21877,
+        "word": "斗破苍穹彩鳞女主",
+        "onboard_time": 1690736302,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21627,
+        "num": 21627,
+        "word": "封神票房",
+        "onboard_time": 1690719633,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19641,
+        "num": 21621,
+        "word": "范丞丞帮魏大勋变身孟宴臣",
+        "onboard_time": 1690727072,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19391,
+        "num": 21609,
+        "word": "村超到处人人人人",
+        "onboard_time": 1690742354,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18731,
+        "num": 21602,
+        "word": "一P图我的手机就特别烫",
+        "onboard_time": 1690736482,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18177,
+        "num": 21593,
+        "word": "男子肠道密密麻麻长满200多个息肉",
+        "onboard_time": 1690692688,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17705,
+        "num": 21587,
+        "word": "芭比角色十二星座",
+        "onboard_time": 1690734986,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16779,
+        "num": 21581,
+        "word": "WBG积分第一晋级夏决",
+        "onboard_time": 1690729358,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16163,
+        "num": 21570,
+        "word": "实用透视技巧",
+        "onboard_time": 1690747874,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#建军节来临之际习近平致以节日祝贺#"
+    }
+  }
+}
