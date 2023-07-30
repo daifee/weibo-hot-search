@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690691635811,
+  "endTime": 1690694090555,
   "band_list": [
     {
       "raw_hot": 2642952,
@@ -67,12 +67,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1076905,
+      "num": 1076905,
+      "word": "没认出来这是张钧甯",
+      "onboard_time": 1690690653,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1034092,
       "num": 1034092,
       "word": "免费请陌生人吃了三个甜甜圈之后",
       "onboard_time": 1690685129,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1011929,
+      "num": 411581,
+      "word": "大鹏删博",
+      "onboard_time": 1690693413,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1002363,
@@ -105,6 +121,14 @@
       "onboard_time": 1690671736,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 937909,
+      "num": 937909,
+      "word": "考多少分才能入这席吃饭",
+      "onboard_time": 1690689869,
+      "rank": 24,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 927435,
@@ -145,6 +169,14 @@
       "onboard_time": 1690689749,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 887923,
+      "num": 358150,
+      "word": "男子肠道密密麻麻长满200多个息肉",
+      "onboard_time": 1690692688,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 880898,
@@ -236,7 +268,7 @@
     },
     {
       "raw_hot": 718644,
-      "num": 210071,
+      "num": 407027,
       "word": "杨紫邓为小妈文学",
       "onboard_time": 1690689090,
       "rank": 31,
@@ -264,14 +296,6 @@
       "word": "谁能演女将星",
       "onboard_time": 1690684770,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 647829,
-      "num": 647829,
-      "word": "没认出来这是张钧甯",
-      "onboard_time": 1690690653,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -315,12 +339,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 588121,
+      "num": 528832,
+      "word": "杨紫檀健次纪念胐胐",
+      "onboard_time": 1690692033,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 566455,
+      "num": 522043,
+      "word": "TFBOYS高会邮箱回复了",
+      "onboard_time": 1690690051,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554001,
       "num": 554001,
       "word": "趵突泉水位一夜猛涨9厘米",
       "onboard_time": 1690680092,
       "rank": 46,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 553757,
+      "num": 350963,
+      "word": "张晚意早期贴吧发言",
+      "onboard_time": 1690692033,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 552323,
@@ -353,14 +401,6 @@
       "onboard_time": 1690683571,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 522043,
-      "num": 522043,
-      "word": "TFBOYS高会邮箱回复了",
-      "onboard_time": 1690690051,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 521468,
@@ -459,12 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 442384,
-      "num": 442384,
-      "word": "考多少分才能入这席吃饭",
-      "onboard_time": 1690689869,
-      "rank": 24,
-      "category": "幽默,社会新闻"
+      "raw_hot": 446090,
+      "num": 313175,
+      "word": "舒淇 多巴胺封神",
+      "onboard_time": 1690693712,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 438203,
@@ -513,6 +553,14 @@
       "onboard_time": 1690635453,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411581,
+      "num": 296397,
+      "word": "迪丽热巴蝴蝶编发",
+      "onboard_time": 1690693112,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 399640,
@@ -571,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 357469,
+      "num": 291152,
+      "word": "封神",
+      "onboard_time": 1690678888,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352871,
       "num": 306417,
       "word": "杨洋王楚然魏大勋破好6播放量记录",
@@ -585,6 +641,22 @@
       "onboard_time": 1690641216,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332380,
+      "num": 381211,
+      "word": "自驾进罗布泊车队失联者被找到已遇难",
+      "onboard_time": 1690693232,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317971,
+      "num": 317971,
+      "word": "高校录取通知书竟藏着一碗牛肉面",
+      "onboard_time": 1690692211,
+      "rank": 24,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 316379,
@@ -683,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284425,
-      "num": 284425,
-      "word": "封神",
-      "onboard_time": 1690678888,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 282623,
       "num": 282623,
       "word": "鹿晗永远喊不停的人浪",
@@ -771,11 +835,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238748,
+      "num": 166824,
+      "word": "桃花坞3收官",
+      "onboard_time": 1690692688,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237154,
       "num": 188854,
       "word": "封神第二部",
       "onboard_time": 1690624596,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 236773,
+      "num": 165802,
+      "word": "张晚意的女装",
+      "onboard_time": 1690694014,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -868,7 +948,7 @@
     },
     {
       "raw_hot": 208449,
-      "num": 154434,
+      "num": 165357,
       "word": "张杰外南街小孩MV上线",
       "onboard_time": 1690691371,
       "rank": 41,
@@ -1059,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131986,
+      "num": 163291,
+      "word": "UFC291",
+      "onboard_time": 1690691850,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126677,
       "num": 126677,
       "word": "北京启动防汛红色预警响应",
@@ -1100,7 +1188,7 @@
     },
     {
       "raw_hot": 97354,
-      "num": 151634,
+      "num": 161550,
       "word": "女子夜空拍下熊猫云怀里还抱着月亮",
       "onboard_time": 1690691190,
       "rank": 48,
