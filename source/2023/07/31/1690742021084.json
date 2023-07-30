@@ -1,0 +1,410 @@
+{
+  "runTime": 1690742021084,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 443593,
+        "num": 443593,
+        "word": "把西瓜的水分全部蒸发后",
+        "onboard_time": 1690733490,
+        "rank": 0,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 244228,
+        "num": 244228,
+        "word": "长相思14集封神了",
+        "onboard_time": 1690727556,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18855,
+        "num": 199929,
+        "word": "在大运村和外国运动员一起耍非遗",
+        "onboard_time": 1690722814,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483943,
+        "num": 194968,
+        "word": "日本学生害怕被AI取代而自杀",
+        "onboard_time": 1690734927,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170208,
+        "num": 170208,
+        "word": "邓为哭戏",
+        "onboard_time": 1690726416,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167150,
+        "num": 167150,
+        "word": "杜苏芮",
+        "onboard_time": 1690705233,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155528,
+        "num": 155528,
+        "word": "你明天居家办公吗",
+        "onboard_time": 1690728994,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145775,
+        "num": 145775,
+        "word": "湖南卫视在放旋风少女",
+        "onboard_time": 1690727252,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122607,
+        "num": 122607,
+        "word": "黄子韬去鹿晗演唱会了",
+        "onboard_time": 1690723596,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94391,
+        "num": 94391,
+        "word": "TFBOYS要合体集训了吧",
+        "onboard_time": 1690732173,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320736,
+        "num": 93832,
+        "word": "刘维登不上母亲微信发文求助",
+        "onboard_time": 1690720535,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232191,
+        "num": 91352,
+        "word": "外地人被内蒙物价整懵了",
+        "onboard_time": 1690735886,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187754,
+        "num": 89159,
+        "word": "王诗龄的画vs黄多多的画",
+        "onboard_time": 1690710454,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171936,
+        "num": 85727,
+        "word": "摧毁孩子的主体性的妈妈",
+        "onboard_time": 1690734210,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154129,
+        "num": 83536,
+        "word": "喜欢张杰很久的彭奶奶去世了",
+        "onboard_time": 1690724792,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136701,
+        "num": 82098,
+        "word": "张晚意邓为檀健次涨粉量",
+        "onboard_time": 1690731154,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81269,
+        "num": 81269,
+        "word": "熊猫有时候真的人里人气",
+        "onboard_time": 1690731096,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107301,
+        "num": 80785,
+        "word": "张晚意闲鱼买东西被人认出来",
+        "onboard_time": 1690712373,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79572,
+        "num": 79572,
+        "word": "业内人士谈车队进罗布泊3死1失联",
+        "onboard_time": 1690730316,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70570,
+        "num": 70570,
+        "word": "王刚 我对我和全队表现感到耻辱",
+        "onboard_time": 1690729833,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151651,
+        "num": 70507,
+        "word": "5个症状提示体内有湿气",
+        "onboard_time": 1690731813,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148013,
+        "num": 70235,
+        "word": "内娱身材管理满分的明星",
+        "onboard_time": 1690739058,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142144,
+        "num": 69963,
+        "word": "花花真身比Q版还Q",
+        "onboard_time": 1690733311,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121846,
+        "num": 69606,
+        "word": "真实的缅北边境现状",
+        "onboard_time": 1690727135,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81094,
+        "num": 69178,
+        "word": "玱玹你怎么不笑了",
+        "onboard_time": 1690715371,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81013,
+        "num": 69080,
+        "word": "芭比角色十二星座",
+        "onboard_time": 1690734986,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78952,
+        "num": 68705,
+        "word": "白敬亭魏大勋刘昊然穿西装跳舞",
+        "onboard_time": 1690732411,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78558,
+        "num": 68392,
+        "word": "精诚矿业瞒报死亡矿工43人",
+        "onboard_time": 1690717354,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74953,
+        "num": 68181,
+        "word": "封神票房",
+        "onboard_time": 1690719633,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74062,
+        "num": 67773,
+        "word": "蔡依林说日不落是她最红的舞曲",
+        "onboard_time": 1690735646,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73785,
+        "num": 67346,
+        "word": "斗破苍穹彩鳞女主",
+        "onboard_time": 1690736302,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71603,
+        "num": 67113,
+        "word": "王一博 广州",
+        "onboard_time": 1690733072,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66997,
+        "num": 66997,
+        "word": "一P图我的手机就特别烫",
+        "onboard_time": 1690736482,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52653,
+        "num": 52653,
+        "word": "台风卡努",
+        "onboard_time": 1690721557,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51690,
+        "num": 51690,
+        "word": "韦伯望远镜拍到了一个问号",
+        "onboard_time": 1690725933,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 69557,
+        "num": 51065,
+        "word": "有演技却没有爆火的演员",
+        "onboard_time": 1690726474,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68341,
+        "num": 50157,
+        "word": "长相思",
+        "onboard_time": 1690714953,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49147,
+        "num": 49147,
+        "word": "行车记录仪记录车库被淹全程",
+        "onboard_time": 1690729474,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48415,
+        "num": 48415,
+        "word": "男子肠道密密麻麻长满200多个息肉",
+        "onboard_time": 1690692688,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45756,
+        "num": 45756,
+        "word": "当老师发朋友圈忘记屏蔽学生",
+        "onboard_time": 1690707631,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63169,
+        "num": 45472,
+        "word": "费翔 妈妈严选",
+        "onboard_time": 1690728695,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54498,
+        "num": 45431,
+        "word": "撒贝宁这辈子没这么尴尬过",
+        "onboard_time": 1690731994,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44825,
+        "num": 44825,
+        "word": "保定暴雨",
+        "onboard_time": 1690722157,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43578,
+        "num": 43578,
+        "word": "伯邑考 白月光",
+        "onboard_time": 1690733912,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43329,
+        "num": 43329,
+        "word": "这年头连动物都有平替了",
+        "onboard_time": 1690729358,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42464,
+        "num": 42464,
+        "word": "周迅强忍着没翻白眼",
+        "onboard_time": 1690715854,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42080,
+        "num": 42080,
+        "word": "范丞丞帮魏大勋变身孟宴臣",
+        "onboard_time": 1690727072,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37099,
+        "num": 42072,
+        "word": "WBG积分第一晋级夏决",
+        "onboard_time": 1690729358,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33997,
+        "num": 42052,
+        "word": "Elk 恐尺",
+        "onboard_time": 1690719332,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31837,
+        "num": 42008,
+        "word": "孙杨的世界纪录还在",
+        "onboard_time": 1690718135,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动新时代治蜀兴川再上新台阶#"
+    }
+  }
+}

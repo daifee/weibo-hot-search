@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690741147616,
+  "endTime": 1690742021084,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -66923,6 +66923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148013,
+      "num": 92186,
+      "word": "内娱身材管理满分的明星",
+      "onboard_time": 1690739058,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147878,
       "num": 196174,
       "word": "学会阴阳怪气聊天",
@@ -67585,14 +67593,6 @@
       "onboard_time": 1689314440,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138581,
-      "num": 92186,
-      "word": "内娱身材管理满分的明星",
-      "onboard_time": 1690739058,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 138521,
@@ -70643,6 +70643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66997,
+      "num": 81112,
+      "word": "一P图我的手机就特别烫",
+      "onboard_time": 1690736482,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66984,
       "num": 227289,
       "word": "饿了么免单不再限制答题时间",
@@ -70777,14 +70785,6 @@
       "onboard_time": 1689445697,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 63207,
-      "num": 81112,
-      "word": "一P图我的手机就特别烫",
-      "onboard_time": 1690736482,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 62940,
