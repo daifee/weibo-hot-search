@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690686990053,
+  "endTime": 1690688025918,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -2003,6 +2003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1141817,
+      "num": 581153,
+      "word": "曾黎非遗胸针",
+      "onboard_time": 1690685552,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1138331,
       "num": 1138331,
       "word": "杨幂簪发半遮面",
@@ -2321,14 +2329,6 @@
       "onboard_time": 1690256854,
       "rank": 6,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1043780,
-      "num": 581153,
-      "word": "曾黎非遗胸针",
-      "onboard_time": 1690685552,
-      "rank": 10,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1043724,
@@ -3547,6 +3547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 785587,
+      "num": 785587,
+      "word": "TFBOYS黑白水墨大片",
+      "onboard_time": 1690684051,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 784886,
       "num": 784886,
       "word": "覃海洋破世界纪录",
@@ -3665,14 +3673,6 @@
       "onboard_time": 1690674323,
       "rank": 9,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 770728,
-      "num": 770728,
-      "word": "TFBOYS黑白水墨大片",
-      "onboard_time": 1690684051,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 767604,
@@ -4400,6 +4400,14 @@
       "word": "孟宴臣的皇冠vs宋焰的钻戒",
       "onboard_time": 1690156167,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 677022,
+      "num": 677022,
+      "word": "谁能演女将星",
+      "onboard_time": 1690684770,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -5379,14 +5387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 579341,
-      "num": 579341,
-      "word": "谁能演女将星",
-      "onboard_time": 1690684770,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 579142,
       "num": 579142,
       "word": "念无双开机",
@@ -5465,6 +5465,14 @@
       "onboard_time": 1690522416,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 572482,
+      "num": 555102,
+      "word": "免费请陌生人吃了三个甜甜圈之后",
+      "onboard_time": 1690685129,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 572133,
@@ -5947,6 +5955,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 525549,
+      "num": 525549,
+      "word": "重庆2号线故障大爷砸玻璃换气",
+      "onboard_time": 1690686450,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524728,
       "num": 524728,
       "word": "舞台2023定档",
@@ -5992,6 +6008,14 @@
       "word": "封神中弑父情节",
       "onboard_time": 1690189176,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 521468,
+      "num": 521468,
+      "word": "涂山璟为什么爱上小夭",
+      "onboard_time": 1690683691,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -6363,6 +6387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 496452,
+      "num": 496452,
+      "word": "莫斯科空域暂时禁飞",
+      "onboard_time": 1690685973,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 495488,
       "num": 375016,
       "word": "1岁女宝顶了张小新脸",
@@ -6665,14 +6697,6 @@
       "onboard_time": 1690429957,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 474082,
-      "num": 346894,
-      "word": "涂山璟为什么爱上小夭",
-      "onboard_time": 1690683691,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 473755,
@@ -7561,14 +7585,6 @@
       "onboard_time": 1690124317,
       "rank": 13,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 422779,
-      "num": 261156,
-      "word": "免费请陌生人吃了三个甜甜圈之后",
-      "onboard_time": 1690685129,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 422166,
@@ -8793,14 +8809,6 @@
       "onboard_time": 1690176576,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 349806,
-      "num": 349806,
-      "word": "莫斯科空域暂时禁飞",
-      "onboard_time": 1690685973,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 348163,
@@ -11803,6 +11811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228277,
+      "num": 228277,
+      "word": "路飞五档",
+      "onboard_time": 1690687468,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 228244,
       "num": 228244,
       "word": "女子4X200自接力中国队夺铜",
@@ -11952,6 +11968,14 @@
       "word": "热烈各平台开分",
       "onboard_time": 1690638817,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 223473,
+      "num": 223473,
+      "word": "王一博回复胡军谢谢张大队",
+      "onboard_time": 1690687773,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -12129,14 +12153,6 @@
       "onboard_time": 1690590991,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 217041,
-      "num": 241331,
-      "word": "重庆2号线故障大爷砸玻璃换气",
-      "onboard_time": 1690686450,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216711,
@@ -12963,6 +12979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194405,
+      "num": 194405,
+      "word": "于正张小斐同框",
+      "onboard_time": 1690686630,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194376,
       "num": 215600,
       "word": "用玟小六打开当代年轻人现状",
@@ -13395,14 +13419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184851,
-      "num": 184851,
-      "word": "于正张小斐同框",
-      "onboard_time": 1690686630,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 184818,
       "num": 184818,
       "word": "大麦客服回应门票已售罄",
@@ -13641,6 +13657,14 @@
       "onboard_time": 1690201830,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 172307,
+      "num": 172307,
+      "word": "种地吧直播",
+      "onboard_time": 1690687891,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 172223,
@@ -14051,6 +14075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143719,
+      "num": 143719,
+      "word": "什么都逃不过CJ观众的眼睛",
+      "onboard_time": 1690687292,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142298,
       "num": 142298,
       "word": "微笑天使萨摩耶狗设崩塌现场",
@@ -14193,6 +14225,14 @@
       "onboard_time": 1690235472,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129118,
+      "num": 140254,
+      "word": "长得像人的鱼是什么鱼",
+      "onboard_time": 1690687950,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 129113,
@@ -14779,6 +14819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71743,
+      "num": 1568996,
+      "word": "会唱歌的石头见证中华千年礼乐文明",
+      "onboard_time": 1690685731,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70346,
       "num": 660359,
       "word": "张琳艳给自己首战打8分",
@@ -14905,14 +14953,6 @@
       "onboard_time": 1690275999,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 51858,
-      "num": 1568996,
-      "word": "会唱歌的石头见证中华千年礼乐文明",
-      "onboard_time": 1690685731,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50647,
@@ -15167,6 +15207,9 @@
     },
     {
       "word": "#中国顶级实验室有多牛#"
+    },
+    {
+      "word": "#推动新时代治蜀兴川再上新台阶#"
     }
   ]
 }

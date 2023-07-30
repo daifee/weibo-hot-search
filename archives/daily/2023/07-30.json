@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690686990053,
+  "endTime": 1690688025918,
   "band_list": [
     {
       "raw_hot": 2642952,
@@ -59,7 +59,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1043780,
+      "raw_hot": 1141817,
       "num": 581153,
       "word": "曾黎非遗胸针",
       "onboard_time": 1690685552,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 785587,
+      "num": 785587,
+      "word": "TFBOYS黑白水墨大片",
+      "onboard_time": 1690684051,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 772152,
       "num": 772152,
       "word": "鹿晗把陈赫的票给邓超了",
@@ -177,14 +185,6 @@
       "onboard_time": 1690674323,
       "rank": 9,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 770728,
-      "num": 770728,
-      "word": "TFBOYS黑白水墨大片",
-      "onboard_time": 1690684051,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 770428,
@@ -227,6 +227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 677022,
+      "num": 677022,
+      "word": "谁能演女将星",
+      "onboard_time": 1690684770,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614146,
       "num": 222176,
       "word": "节目组回应张艺凡施柏宇吻戏",
@@ -251,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 579341,
-      "num": 579341,
-      "word": "谁能演女将星",
-      "onboard_time": 1690684770,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 572482,
+      "num": 555102,
+      "word": "免费请陌生人吃了三个甜甜圈之后",
+      "onboard_time": 1690685129,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 554001,
@@ -288,6 +296,22 @@
       "word": "檀健次邓为长相思情头",
       "onboard_time": 1690683571,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 525549,
+      "num": 525549,
+      "word": "重庆2号线故障大爷砸玻璃换气",
+      "onboard_time": 1690686450,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521468,
+      "num": 521468,
+      "word": "涂山璟为什么爱上小夭",
+      "onboard_time": 1690683691,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -323,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 496452,
+      "num": 496452,
+      "word": "莫斯科空域暂时禁飞",
+      "onboard_time": 1690685973,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 495107,
       "num": 377025,
       "word": "起猛了看见黄渤王一博battle了",
@@ -345,14 +377,6 @@
       "onboard_time": 1690675945,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474082,
-      "num": 346894,
-      "word": "涂山璟为什么爱上小夭",
-      "onboard_time": 1690683691,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 468265,
@@ -409,14 +433,6 @@
       "onboard_time": 1690677508,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 422779,
-      "num": 261156,
-      "word": "免费请陌生人吃了三个甜甜圈之后",
-      "onboard_time": 1690685129,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 422021,
@@ -489,14 +505,6 @@
       "onboard_time": 1690661953,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 349806,
-      "num": 349806,
-      "word": "莫斯科空域暂时禁飞",
-      "onboard_time": 1690685973,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 339792,
@@ -723,6 +731,22 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 228277,
+      "num": 228277,
+      "word": "路飞五档",
+      "onboard_time": 1690687468,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 227322,
+      "num": 227322,
+      "word": "种地吧",
+      "onboard_time": 1690687712,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226924,
       "num": 226924,
       "word": "看什么病挂什么科",
@@ -731,20 +755,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 223473,
+      "num": 223473,
+      "word": "王一博回复胡军谢谢张大队",
+      "onboard_time": 1690687773,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217617,
       "num": 188829,
       "word": "迪丽热巴真迪甜",
       "onboard_time": 1690643556,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 217041,
-      "num": 241331,
-      "word": "重庆2号线故障大爷砸玻璃换气",
-      "onboard_time": 1690686450,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216711,
@@ -803,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194405,
+      "num": 194405,
+      "word": "于正张小斐同框",
+      "onboard_time": 1690686630,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194211,
       "num": 194211,
       "word": "史彭元八角笼中票房破20亿写真",
@@ -835,14 +867,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 184851,
-      "num": 184851,
-      "word": "于正张小斐同框",
-      "onboard_time": 1690686630,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 178782,
       "num": 297116,
       "word": "老人被激流冲倒6路人接力救援",
@@ -857,6 +881,14 @@
       "onboard_time": 1690673962,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172307,
+      "num": 172307,
+      "word": "种地吧直播",
+      "onboard_time": 1690687891,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 168460,
@@ -891,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143719,
+      "num": 143719,
+      "word": "什么都逃不过CJ观众的眼睛",
+      "onboard_time": 1690687292,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138388,
       "num": 188882,
       "word": "刺痛退役",
@@ -905,6 +945,14 @@
       "onboard_time": 1690606898,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129118,
+      "num": 140254,
+      "word": "长得像人的鱼是什么鱼",
+      "onboard_time": 1690687950,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 126677,
@@ -1003,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 71743,
+      "num": 1568996,
+      "word": "会唱歌的石头见证中华千年礼乐文明",
+      "onboard_time": 1690685731,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71580,
       "num": 188794,
       "word": "举报涂磊女子初步诊断为幻觉妄想",
@@ -1059,14 +1115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 51858,
-      "num": 1568996,
-      "word": "会唱歌的石头见证中华千年礼乐文明",
-      "onboard_time": 1690685731,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28298,
       "num": 28298,
       "word": "杜苏芮",
@@ -1092,6 +1140,9 @@
     },
     {
       "word": "#中国顶级实验室有多牛#"
+    },
+    {
+      "word": "#推动新时代治蜀兴川再上新台阶#"
     }
   ]
 }
