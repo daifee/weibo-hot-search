@@ -1,0 +1,410 @@
+{
+  "runTime": 1690684245180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2642952,
+        "num": 2642952,
+        "word": "原来微信可以防拉黑",
+        "onboard_time": 1690678829,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2197025,
+        "num": 2197025,
+        "word": "毛不易演唱会取消",
+        "onboard_time": 1690682249,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98154,
+        "num": 2014730,
+        "word": "成都大运会的中国式浪漫",
+        "onboard_time": 1690638696,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2010801,
+        "num": 2010801,
+        "word": "王楚然 女将星",
+        "onboard_time": 1690674323,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1561549,
+        "num": 1561549,
+        "word": "成功从侵犯女孩到逼死女孩",
+        "onboard_time": 1690683030,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1062079,
+        "num": 1062079,
+        "word": "陈赫带张子萱去鹿晗演唱会",
+        "onboard_time": 1690673001,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 846990,
+        "num": 846990,
+        "word": "管泽元曝英雄联盟解说员薪资状况",
+        "onboard_time": 1690679669,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 837020,
+        "num": 837020,
+        "word": "姬发",
+        "onboard_time": 1690644514,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 679532,
+        "num": 679532,
+        "word": "非洲媳妇带丽水丈夫回娘家",
+        "onboard_time": 1690671736,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499525,
+        "num": 678682,
+        "word": "台风卡努正在增强",
+        "onboard_time": 1690675165,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678571,
+        "num": 678571,
+        "word": "当一坨吸饱了水的云路过",
+        "onboard_time": 1690681529,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 621282,
+        "num": 621282,
+        "word": "Ella问孟美岐四年前和现在有什么不同",
+        "onboard_time": 1690674864,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555846,
+        "num": 555846,
+        "word": "李斯丹妮高瀚宇在拍恋综吗",
+        "onboard_time": 1690678169,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496282,
+        "num": 554456,
+        "word": "女孩一觉睡醒身上盖着军被",
+        "onboard_time": 1690674323,
+        "rank": 13,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 554001,
+        "num": 554001,
+        "word": "趵突泉水位一夜猛涨9厘米",
+        "onboard_time": 1690680092,
+        "rank": 14,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 484267,
+        "num": 484267,
+        "word": "主持人涂磊被证清白后发声",
+        "onboard_time": 1690676848,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 437233,
+        "num": 437233,
+        "word": "全县24个乡镇在一家打印店花174万",
+        "onboard_time": 1690674683,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415564,
+        "num": 415564,
+        "word": "纪委通报一县在官员子女打印店花174万",
+        "onboard_time": 1690677807,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413584,
+        "num": 413584,
+        "word": "TFBOYS十周年演唱会门票实物",
+        "onboard_time": 1690677508,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 370415,
+        "num": 370415,
+        "word": "北京提醒广大市民非必要不外出",
+        "onboard_time": 1690676307,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544512,
+        "num": 367099,
+        "word": "8岁摄影师拍的杨紫",
+        "onboard_time": 1690679849,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 464708,
+        "num": 361687,
+        "word": "做近视手术前要知道的7件事",
+        "onboard_time": 1690679310,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432360,
+        "num": 361411,
+        "word": "米芒被家暴后反杀老公",
+        "onboard_time": 1690682970,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355164,
+        "num": 355164,
+        "word": "飞云",
+        "onboard_time": 1690683153,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324957,
+        "num": 324957,
+        "word": "玱玹评论张晚意",
+        "onboard_time": 1690676547,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281632,
+        "num": 281632,
+        "word": "女子往早餐店扔下一袋东西暖到店主",
+        "onboard_time": 1690681769,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314245,
+        "num": 278246,
+        "word": "檀健次邓为长相思情头",
+        "onboard_time": 1690683571,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267130,
+        "num": 267130,
+        "word": "BLACKPINK跳叮叮当当",
+        "onboard_time": 1690679069,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259612,
+        "num": 259612,
+        "word": "封神",
+        "onboard_time": 1690678888,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257545,
+        "num": 257545,
+        "word": "84平米的出租屋住了17人",
+        "onboard_time": 1690671736,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 243949,
+        "num": 243949,
+        "word": "涂山璟为什么爱上小夭",
+        "onboard_time": 1690683691,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229389,
+        "num": 229389,
+        "word": "TFBOYS黑白水墨大片",
+        "onboard_time": 1690684051,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226465,
+        "num": 226465,
+        "word": "泉州暴雨店主称珠宝被积水冲光",
+        "onboard_time": 1690671736,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215112,
+        "num": 215112,
+        "word": "成龙老舅合唱野狼disco",
+        "onboard_time": 1690684169,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213711,
+        "num": 213711,
+        "word": "起猛了看见黄渤王一博battle了",
+        "onboard_time": 1690684111,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203903,
+        "num": 203903,
+        "word": "官方回应大量救灾物资被弃山沟",
+        "onboard_time": 1690675945,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203808,
+        "num": 203808,
+        "word": "爱乔婉娩的是李相夷不是李莲花",
+        "onboard_time": 1690681411,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202761,
+        "num": 202761,
+        "word": "此沙杨戬",
+        "onboard_time": 1690678648,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180108,
+        "num": 180108,
+        "word": "京津冀部分地区特大暴雨",
+        "onboard_time": 1690682549,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178737,
+        "num": 178737,
+        "word": "从没见过把进货价告诉买家的老板",
+        "onboard_time": 1690680812,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189430,
+        "num": 178411,
+        "word": "相柳穷大方",
+        "onboard_time": 1690676608,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181579,
+        "num": 178373,
+        "word": "朴宝英 虽没菜",
+        "onboard_time": 1690675465,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177508,
+        "num": 177508,
+        "word": "水是还没发现自己该结冰了吗",
+        "onboard_time": 1690650864,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168340,
+        "num": 168340,
+        "word": "王一博陈烁演技",
+        "onboard_time": 1690683990,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165478,
+        "num": 165478,
+        "word": "暴雨红色预警继续发布",
+        "onboard_time": 1690679069,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160026,
+        "num": 160026,
+        "word": "大宋少年志2 抠图感",
+        "onboard_time": 1690647451,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158343,
+        "num": 158343,
+        "word": "北京大雨",
+        "onboard_time": 1690663934,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152214,
+        "num": 152214,
+        "word": "小狗好像以为结婚就是离开",
+        "onboard_time": 1690640617,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140417,
+        "num": 140417,
+        "word": "史彭元八角笼中票房破20亿写真",
+        "onboard_time": 1690677208,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135597,
+        "num": 135597,
+        "word": "罗布泊",
+        "onboard_time": 1690643076,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共享大运盛会共谱青春华章#"
+    }
+  }
+}

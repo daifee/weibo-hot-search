@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690681476483,
+  "endTime": 1690684245180,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2642952,
+      "num": 2642952,
+      "word": "原来微信可以防拉黑",
+      "onboard_time": 1690678829,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2626973,
       "num": 2626973,
       "word": "蜜雪冰城阴阳怪气瑞幸",
@@ -531,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2200912,
-      "num": 2200912,
-      "word": "原来微信可以防拉黑",
-      "onboard_time": 1690678829,
-      "rank": 3,
-      "category": "幽默"
+      "raw_hot": 2197025,
+      "num": 2197025,
+      "word": "毛不易演唱会取消",
+      "onboard_time": 1690682249,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 2196807,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1690283988,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1561549,
+      "num": 1561549,
+      "word": "成功从侵犯女孩到逼死女孩",
+      "onboard_time": 1690683030,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1556407,
@@ -2676,7 +2692,7 @@
     },
     {
       "raw_hot": 950311,
-      "num": 711214,
+      "num": 846990,
       "word": "管泽元曝英雄联盟解说员薪资状况",
       "onboard_time": 1690679669,
       "rank": 30,
@@ -4355,6 +4371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 678571,
+      "num": 678571,
+      "word": "当一坨吸饱了水的云路过",
+      "onboard_time": 1690681529,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 675750,
       "num": 635891,
       "word": "没想到小鸟的肚子长这样",
@@ -5587,6 +5611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554001,
+      "num": 554001,
+      "word": "趵突泉水位一夜猛涨9厘米",
+      "onboard_time": 1690680092,
+      "rank": 46,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 553469,
       "num": 553469,
       "word": "周奇薛佳凝演情侣",
@@ -5681,6 +5713,14 @@
       "onboard_time": 1690429779,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 544512,
+      "num": 367099,
+      "word": "8岁摄影师拍的杨紫",
+      "onboard_time": 1690679849,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 544020,
@@ -6092,7 +6132,7 @@
     },
     {
       "raw_hot": 510454,
-      "num": 320849,
+      "num": 361687,
       "word": "做近视手术前要知道的7件事",
       "onboard_time": 1690679310,
       "rank": 31,
@@ -7051,14 +7091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 444115,
-      "num": 237410,
-      "word": "趵突泉水位一夜猛涨9厘米",
-      "onboard_time": 1690680092,
-      "rank": 46,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 443443,
       "num": 414651,
       "word": "心动的信号",
@@ -7296,6 +7328,14 @@
       "word": "韩剧恶鬼大结局",
       "onboard_time": 1690643735,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 432360,
+      "num": 361411,
+      "word": "米芒被家暴后反杀老公",
+      "onboard_time": 1690682970,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -8083,14 +8123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383289,
-      "num": 316252,
-      "word": "8岁摄影师拍的杨紫",
-      "onboard_time": 1690679849,
-      "rank": 37,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 383126,
       "num": 383126,
       "word": "梅西连场进球",
@@ -8569,6 +8601,14 @@
       "onboard_time": 1690383165,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355164,
+      "num": 355164,
+      "word": "飞云",
+      "onboard_time": 1690683153,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354239,
@@ -9483,6 +9523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314245,
+      "num": 278246,
+      "word": "檀健次邓为长相思情头",
+      "onboard_time": 1690683571,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312973,
       "num": 312973,
       "word": "齐齐哈尔",
@@ -10299,6 +10347,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 281632,
+      "num": 281632,
+      "word": "女子往早餐店扔下一袋东西暖到店主",
+      "onboard_time": 1690681769,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281253,
       "num": 281253,
       "word": "电影奥本海默",
@@ -10665,6 +10721,14 @@
       "onboard_time": 1690607496,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267130,
+      "num": 267130,
+      "word": "BLACKPINK跳叮叮当当",
+      "onboard_time": 1690679069,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 266159,
@@ -11043,14 +11107,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 250295,
-      "num": 250295,
-      "word": "BLACKPINK跳叮叮当当",
-      "onboard_time": 1690679069,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 250221,
       "num": 250221,
       "word": "吴京说媳妇儿说啥都对",
@@ -11249,6 +11305,14 @@
       "onboard_time": 1690468248,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243949,
+      "num": 243949,
+      "word": "涂山璟为什么爱上小夭",
+      "onboard_time": 1690683691,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 243704,
@@ -11643,6 +11707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229389,
+      "num": 229389,
+      "word": "TFBOYS黑白水墨大片",
+      "onboard_time": 1690684051,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 229184,
       "num": 229184,
       "word": "巴黎圣日耳曼vs利雅得胜利",
@@ -12027,6 +12099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 215112,
+      "num": 215112,
+      "word": "成龙老舅合唱野狼disco",
+      "onboard_time": 1690684169,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215010,
       "num": 215010,
       "word": "河南的省饭是什么",
@@ -12057,6 +12137,14 @@
       "onboard_time": 1690168716,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213711,
+      "num": 213711,
+      "word": "起猛了看见黄渤王一博battle了",
+      "onboard_time": 1690684111,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 213600,
@@ -12417,6 +12505,14 @@
       "onboard_time": 1690425154,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 203808,
+      "num": 203808,
+      "word": "爱乔婉娩的是李相夷不是李莲花",
+      "onboard_time": 1690681411,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 203721,
@@ -13331,6 +13427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180108,
+      "num": 180108,
+      "word": "京津冀部分地区特大暴雨",
+      "onboard_time": 1690682549,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180011,
       "num": 180011,
       "word": "中国队曹茂园夺成都大运会首金",
@@ -13552,6 +13656,14 @@
       "word": "娜然见到袁泉的反应",
       "onboard_time": 1690421912,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 168340,
+      "num": 168340,
+      "word": "王一博陈烁演技",
+      "onboard_time": 1690683990,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -14003,14 +14115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131809,
-      "num": 131809,
-      "word": "爱乔婉娩的是李相夷不是李莲花",
-      "onboard_time": 1690681411,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 130991,
       "num": 186882,
       "word": "AI相机",
@@ -14339,8 +14443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98137,
-      "num": 1486160,
+      "raw_hot": 98154,
+      "num": 2014730,
       "word": "成都大运会的中国式浪漫",
       "onboard_time": 1690638696,
       "rank": 2,
