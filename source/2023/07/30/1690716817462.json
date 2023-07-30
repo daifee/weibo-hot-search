@@ -1,0 +1,410 @@
+{
+  "runTime": 1690716817462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1753772,
+        "num": 1753772,
+        "word": "杜苏芮",
+        "onboard_time": 1690705233,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550063,
+        "num": 1558392,
+        "word": "阿宝的扳手耳朵变爱心了",
+        "onboard_time": 1690708230,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136074,
+        "num": 1425035,
+        "word": "暴雨避险说明书",
+        "onboard_time": 1690710512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1378245,
+        "num": 1378245,
+        "word": "长相思",
+        "onboard_time": 1690714953,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378624,
+        "num": 1068421,
+        "word": "洪水中托举小女孩辅警获记个人一等奖",
+        "onboard_time": 1690699590,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858200,
+        "num": 858200,
+        "word": "玱玹你怎么不笑了",
+        "onboard_time": 1690715371,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140992,
+        "num": 763176,
+        "word": "村支书带队雨中救人救羊",
+        "onboard_time": 1690710631,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760237,
+        "num": 760237,
+        "word": "一定要扬州慢才能解毒吗",
+        "onboard_time": 1690709193,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 650184,
+        "num": 650184,
+        "word": "此沙 金城武",
+        "onboard_time": 1690713212,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 613377,
+        "num": 613377,
+        "word": "徐嘉余50米仰泳铜牌",
+        "onboard_time": 1690715971,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2193789,
+        "num": 607050,
+        "word": "张继科 日本",
+        "onboard_time": 1690708591,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 2116937,
+        "num": 600609,
+        "word": "张晚意闲鱼买东西被人认出来",
+        "onboard_time": 1690712373,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1351154,
+        "num": 593932,
+        "word": "王诗龄的画vs黄多多的画",
+        "onboard_time": 1690710454,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1104708,
+        "num": 584029,
+        "word": "内娱不会因演技脱粉的演员",
+        "onboard_time": 1690711951,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676522,
+        "num": 573447,
+        "word": "山西通报矿工死亡瞒报事件调查处置情况",
+        "onboard_time": 1690716097,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572229,
+        "num": 572229,
+        "word": "北京房山一地突发山洪",
+        "onboard_time": 1690713994,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511796,
+        "num": 511796,
+        "word": "任敏变瘦了好多",
+        "onboard_time": 1690704030,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 495485,
+        "num": 495485,
+        "word": "周迅强忍着没翻白眼",
+        "onboard_time": 1690715854,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459493,
+        "num": 459493,
+        "word": "夭玹党终于上桌了",
+        "onboard_time": 1690714353,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283791,
+        "num": 283791,
+        "word": "北京市教委紧急通知停止入校活动",
+        "onboard_time": 1690706911,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1043663,
+        "num": 282965,
+        "word": "女子遇害被埋尸山间石缝",
+        "onboard_time": 1690712792,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417461,
+        "num": 278482,
+        "word": "涂山璟躺下了",
+        "onboard_time": 1690715672,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391617,
+        "num": 272623,
+        "word": "白敬亭 不演仙台有树",
+        "onboard_time": 1690710155,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353967,
+        "num": 269232,
+        "word": "男子肠道密密麻麻长满200多个息肉",
+        "onboard_time": 1690692688,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335683,
+        "num": 266597,
+        "word": "当老师发朋友圈忘记屏蔽学生",
+        "onboard_time": 1690707631,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333121,
+        "num": 262194,
+        "word": "白敬亭Angelababy或将演龙骨焚箱",
+        "onboard_time": 1690708713,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310846,
+        "num": 257814,
+        "word": "金泰妍演唱会",
+        "onboard_time": 1690715732,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305060,
+        "num": 254583,
+        "word": "虞书欣红色露腰吊带",
+        "onboard_time": 1690711895,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285561,
+        "num": 249704,
+        "word": "隐形家务才是最让人崩溃的",
+        "onboard_time": 1690703552,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248753,
+        "num": 248753,
+        "word": "BLG对战JDG",
+        "onboard_time": 1690707570,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296967,
+        "num": 248212,
+        "word": "小夭主动亲了涂山璟",
+        "onboard_time": 1690716511,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291166,
+        "num": 246820,
+        "word": "丁太升说孟美岐唱跳是国内一等",
+        "onboard_time": 1690701812,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263273,
+        "num": 245317,
+        "word": "张杰第81场个人演唱会",
+        "onboard_time": 1690713571,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242523,
+        "num": 242523,
+        "word": "沙溢又瘦了",
+        "onboard_time": 1690707511,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224833,
+        "num": 224833,
+        "word": "上海一出租房mini窗户似射击孔",
+        "onboard_time": 1690695572,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237932,
+        "num": 222183,
+        "word": "宋茜忘了删文案",
+        "onboard_time": 1690702352,
+        "rank": 35,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 195925,
+        "num": 195925,
+        "word": "徐嘉余",
+        "onboard_time": 1690716572,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120996,
+        "num": 195918,
+        "word": "直播关注京津冀豫强降雨",
+        "onboard_time": 1690714112,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169301,
+        "num": 195908,
+        "word": "台风卡努加强为台风级",
+        "onboard_time": 1690709555,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162999,
+        "num": 195898,
+        "word": "无畏轮换上场",
+        "onboard_time": 1690716453,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232548,
+        "num": 195888,
+        "word": "演员未进组时间统计",
+        "onboard_time": 1690710815,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214413,
+        "num": 195879,
+        "word": "王源晒双冲天辫庆祝开博11周年",
+        "onboard_time": 1690713631,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211971,
+        "num": 195876,
+        "word": "王鹤棣王传君孙怡江疏影合照",
+        "onboard_time": 1690710631,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150131,
+        "num": 195864,
+        "word": "谁教你这么打球的",
+        "onboard_time": 1690715371,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198133,
+        "num": 195851,
+        "word": "王楚然蒙眼摸人把魏大勋认成杨洋",
+        "onboard_time": 1690702472,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185433,
+        "num": 195847,
+        "word": "热烈",
+        "onboard_time": 1690702830,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127699,
+        "num": 195835,
+        "word": "久诚采访哭了",
+        "onboard_time": 1690708472,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111824,
+        "num": 195817,
+        "word": "Hero对战KSG",
+        "onboard_time": 1690711772,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109615,
+        "num": 195810,
+        "word": "原来微信可以防拉黑",
+        "onboard_time": 1690678829,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103272,
+        "num": 195806,
+        "word": "台风卡努预计8月2日在浙江登陆",
+        "onboard_time": 1690697071,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动新时代治蜀兴川再上新台阶#"
+    }
+  }
+}
