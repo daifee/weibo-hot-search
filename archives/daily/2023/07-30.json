@@ -1,7 +1,15 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690673615777,
+  "endTime": 1690680246248,
   "band_list": [
+    {
+      "raw_hot": 2459592,
+      "num": 2459592,
+      "word": "王楚然 女将星",
+      "onboard_time": 1690674323,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 1769832,
       "num": 1769832,
@@ -9,6 +17,22 @@
       "onboard_time": 1690644514,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1608276,
+      "num": 1608276,
+      "word": "陈赫带张子萱去鹿晗演唱会",
+      "onboard_time": 1690673001,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1411654,
+      "num": 1411654,
+      "word": "原来微信可以防拉黑",
+      "onboard_time": 1690678829,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1341428,
@@ -35,12 +59,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 939341,
+      "num": 939341,
+      "word": "非洲媳妇带丽水丈夫回娘家",
+      "onboard_time": 1690671736,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 906228,
+      "num": 906228,
+      "word": "全县24个乡镇在一家打印店花174万",
+      "onboard_time": 1690674683,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902192,
       "num": 902192,
       "word": "大宋少年志2 抠图感",
       "onboard_time": 1690647451,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 880898,
+      "num": 880898,
+      "word": "Ella问孟美岐四年前和现在有什么不同",
+      "onboard_time": 1690674864,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 880597,
+      "num": 880597,
+      "word": "主持人涂磊被证清白后发声",
+      "onboard_time": 1690676848,
+      "rank": 7,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 868721,
@@ -59,12 +115,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 790108,
+      "num": 790108,
+      "word": "李斯丹妮高瀚宇在拍恋综吗",
+      "onboard_time": 1690678169,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 772152,
       "num": 772152,
       "word": "鹿晗把陈赫的票给邓超了",
       "onboard_time": 1690629571,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 771521,
+      "num": 807107,
+      "word": "女孩一觉睡醒身上盖着军被",
+      "onboard_time": 1690674323,
+      "rank": 9,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 770428,
@@ -83,6 +155,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 695416,
+      "num": 695416,
+      "word": "台风卡努正在增强",
+      "onboard_time": 1690675165,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 692731,
       "num": 692731,
       "word": "好多明星去了鹿晗演唱会",
@@ -99,19 +179,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 609317,
+      "num": 480988,
+      "word": "北京提醒广大市民非必要不外出",
+      "onboard_time": 1690676307,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594066,
       "num": 594066,
       "word": "罗布泊",
       "onboard_time": 1690643076,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572466,
-      "num": 258126,
-      "word": "非洲媳妇带丽水丈夫回娘家",
-      "onboard_time": 1690671736,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -147,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 490601,
+      "num": 490601,
+      "word": "官方回应大量救灾物资被弃山沟",
+      "onboard_time": 1690675945,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468265,
       "num": 468265,
       "word": "势俊丽敌",
@@ -163,6 +251,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 450346,
+      "num": 450346,
+      "word": "玱玹评论张晚意",
+      "onboard_time": 1690676547,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438203,
       "num": 438203,
       "word": "原来香肠是从侧面开的",
@@ -176,6 +272,14 @@
       "word": "张杰演唱会上表白何炅",
       "onboard_time": 1690637856,
       "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 433037,
+      "num": 433037,
+      "word": "TFBOYS十周年演唱会门票实物",
+      "onboard_time": 1690677508,
+      "rank": 17,
       "category": "音乐"
     },
     {
@@ -235,11 +339,35 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 357066,
+      "num": 242280,
+      "word": "管泽元曝英雄联盟解说员薪资状况",
+      "onboard_time": 1690679669,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 339792,
       "num": 339792,
       "word": "毛不易醉酒给单依纯打电话",
       "onboard_time": 1690641216,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 336573,
+      "num": 336573,
+      "word": "纪委通报一县在官员子女打印店花174万",
+      "onboard_time": 1690677807,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321582,
+      "num": 299357,
+      "word": "杨洋王楚然魏大勋破好6播放量记录",
+      "onboard_time": 1690661953,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -259,14 +387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308833,
-      "num": 308833,
-      "word": "陈赫带张子萱去鹿晗演唱会",
-      "onboard_time": 1690673001,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 305148,
       "num": 281519,
       "word": "长相思新副本",
@@ -275,12 +395,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302554,
+      "num": 241854,
+      "word": "做近视手术前要知道的7件事",
+      "onboard_time": 1690679310,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300269,
       "num": 217323,
       "word": "宋祖儿为配字不当道歉",
       "onboard_time": 1690616796,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299250,
+      "num": 299250,
+      "word": "朴宝英 虽没菜",
+      "onboard_time": 1690675465,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 298361,
@@ -299,12 +435,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287257,
+      "num": 287257,
+      "word": "84平米的出租屋住了17人",
+      "onboard_time": 1690671736,
+      "rank": 33,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 286407,
       "num": 208386,
       "word": "龚俊跳要你管",
       "onboard_time": 1690643135,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285033,
+      "num": 285033,
+      "word": "相柳穷大方",
+      "onboard_time": 1690676608,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 284425,
+      "num": 284425,
+      "word": "封神",
+      "onboard_time": 1690678888,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282623,
+      "num": 282623,
+      "word": "鹿晗永远喊不停的人浪",
+      "onboard_time": 1690678047,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 282285,
@@ -323,12 +491,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267975,
+      "num": 267975,
+      "word": "张新成这一脚等了四年",
+      "onboard_time": 1690678590,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258638,
       "num": 258638,
       "word": "大黄救过TES的命吗",
       "onboard_time": 1690636055,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254863,
+      "num": 254863,
+      "word": "此沙杨戬",
+      "onboard_time": 1690678648,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247347,
+      "num": 247347,
+      "word": "水是还没发现自己该结冰了吗",
+      "onboard_time": 1690650864,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 247302,
@@ -339,8 +531,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 238207,
-      "num": 238207,
+      "raw_hot": 242320,
+      "num": 242320,
       "word": "瞿颖素颜突袭胡兵直播间",
       "onboard_time": 1690672579,
       "rank": 14,
@@ -355,20 +547,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236534,
+      "num": 236534,
+      "word": "暴雨红色预警继续发布",
+      "onboard_time": 1690679069,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235342,
+      "num": 235342,
+      "word": "石家庄的雨到货了",
+      "onboard_time": 1690678047,
+      "rank": 34,
+      "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 234274,
+      "num": 234274,
+      "word": "BLACKPINK跳叮叮当当",
+      "onboard_time": 1690679069,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 229907,
       "num": 188846,
       "word": "内娱男明星的证件照",
       "onboard_time": 1690637498,
       "rank": 43,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 228332,
-      "num": 138716,
-      "word": "84平米的出租屋住了17人",
-      "onboard_time": 1690671736,
-      "rank": 33,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 226924,
@@ -387,12 +595,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209460,
-      "num": 138533,
-      "word": "杨洋王楚然魏大勋破好6播放量记录",
-      "onboard_time": 1690661953,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 214769,
+      "num": 214769,
+      "word": "8岁摄影师拍的杨紫",
+      "onboard_time": 1690679849,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 198799,
@@ -409,6 +617,14 @@
       "onboard_time": 1690644274,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194211,
+      "num": 194211,
+      "word": "史彭元八角笼中票房破20亿写真",
+      "onboard_time": 1690677208,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 190692,
@@ -435,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178196,
+      "num": 178196,
+      "word": "暴雨",
+      "onboard_time": 1690673962,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166536,
       "num": 227444,
       "word": "父母不懂英语从县城出国看女儿",
@@ -451,20 +675,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150229,
+      "num": 150229,
+      "word": "张杰长沙演唱会",
+      "onboard_time": 1690678648,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 145470,
+      "num": 145470,
+      "word": "趵突泉水位一夜猛涨9厘米",
+      "onboard_time": 1690680092,
+      "rank": 46,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 142826,
+      "num": 142826,
+      "word": "TangoZ粉丝音乐节举美肚杀表情包",
+      "onboard_time": 1690677569,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138388,
       "num": 188882,
       "word": "刺痛退役",
       "onboard_time": 1690629813,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137335,
-      "num": 137335,
-      "word": "水是还没发现自己该结冰了吗",
-      "onboard_time": 1690650864,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 134928,
@@ -497,6 +737,14 @@
       "onboard_time": 1690629213,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 98137,
+      "num": 1486160,
+      "word": "成都大运会的中国式浪漫",
+      "onboard_time": 1690638696,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 95461,
@@ -593,14 +841,6 @@
       "onboard_time": 1690655657,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 57489,
-      "num": 991398,
-      "word": "成都大运会的中国式浪漫",
-      "onboard_time": 1690638696,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 54127,
