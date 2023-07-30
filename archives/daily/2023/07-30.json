@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690701258286,
+  "endTime": 1690702424660,
   "band_list": [
     {
       "raw_hot": 2642952,
@@ -75,8 +75,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1398264,
-      "num": 1398264,
+      "raw_hot": 1550564,
+      "num": 1550564,
       "word": "鸟鸟七分钟让650颜面扫地",
       "onboard_time": 1690697429,
       "rank": 12,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731250,
+      "num": 418019,
+      "word": "欢瑞世纪新生官宣",
+      "onboard_time": 1690701029,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 718644,
       "num": 542385,
       "word": "杨紫邓为小妈文学",
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 685296,
-      "num": 378968,
+      "num": 417961,
       "word": "王传君说看江疏影毕业像嫁女儿",
       "onboard_time": 1690699228,
       "rank": 10,
@@ -459,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 550227,
+      "num": 417952,
+      "word": "长相思目前进度",
+      "onboard_time": 1690700850,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 544512,
       "num": 416258,
       "word": "8岁摄影师拍的杨紫",
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516172,
+      "num": 330467,
+      "word": "丁太升说孟美岐唱跳是国内一等",
+      "onboard_time": 1690701812,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510454,
       "num": 416110,
       "word": "做近视手术前要知道的7件事",
@@ -536,6 +560,14 @@
       "word": "起猛了看见黄渤王一博battle了",
       "onboard_time": 1690684111,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 494980,
+      "num": 279158,
+      "word": "内娱极品仙男",
+      "onboard_time": 1690700431,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -579,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 457328,
+      "num": 319882,
+      "word": "没认出来这是颖儿",
+      "onboard_time": 1690701570,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451989,
       "num": 379141,
       "word": "大鹏 一直努力就会成功",
@@ -601,14 +641,6 @@
       "onboard_time": 1690628853,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 437931,
-      "num": 214195,
-      "word": "内娱极品仙男",
-      "onboard_time": 1690700431,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 434427,
@@ -659,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418107,
+      "num": 418107,
+      "word": "卡努",
+      "onboard_time": 1690697611,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403687,
       "num": 403687,
       "word": "建议内娱新人舞台按这个标准卷",
@@ -705,14 +745,6 @@
       "onboard_time": 1690694193,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 379912,
-      "num": 379912,
-      "word": "卡努",
-      "onboard_time": 1690697611,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375039,
@@ -780,7 +812,7 @@
     },
     {
       "raw_hot": 354480,
-      "num": 261727,
+      "num": 277032,
       "word": "台风卡努预计8月2日在浙江登陆",
       "onboard_time": 1690697071,
       "rank": 45,
@@ -804,7 +836,7 @@
     },
     {
       "raw_hot": 331560,
-      "num": 210530,
+      "num": 273606,
       "word": "谢娜把自己笑吐了",
       "onboard_time": 1690700249,
       "rank": 26,
@@ -841,6 +873,14 @@
       "onboard_time": 1690632693,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308722,
+      "num": 308722,
+      "word": "ChinaJoy",
+      "onboard_time": 1690697194,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 308467,
@@ -947,14 +987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 281157,
-      "num": 206128,
-      "word": "欢瑞世纪新生官宣",
-      "onboard_time": 1690701029,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278288,
       "num": 188864,
       "word": "伯邑考温润如玉",
@@ -987,12 +1019,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 262401,
-      "num": 262401,
-      "word": "ChinaJoy",
-      "onboard_time": 1690697194,
-      "rank": 29,
-      "category": "游戏"
+      "raw_hot": 262968,
+      "num": 262968,
+      "word": "舞台2023修音",
+      "onboard_time": 1690701812,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 258638,
@@ -1043,12 +1075,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245670,
-      "num": 202913,
-      "word": "长相思目前进度",
-      "onboard_time": 1690700850,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 245935,
+      "num": 245935,
+      "word": "苏可给施柏宇张艺凡的建议",
+      "onboard_time": 1690702110,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 242320,
@@ -1139,6 +1171,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 218858,
+      "num": 218858,
+      "word": "宋茜忘了删文案",
+      "onboard_time": 1690702352,
+      "rank": 44,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 217617,
       "num": 188829,
       "word": "迪丽热巴真迪甜",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1690690108,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206245,
+      "num": 272320,
+      "word": "装正常人已经炉火纯青",
+      "onboard_time": 1690697011,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 203808,
@@ -1275,14 +1323,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 188006,
-      "num": 227220,
-      "word": "装正常人已经炉火纯青",
-      "onboard_time": 1690697011,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 178782,
       "num": 297116,
       "word": "老人被激流冲倒6路人接力救援",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1690687891,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168883,
+      "num": 268823,
+      "word": "洪水中托举小女孩辅警获记个人一等奖",
+      "onboard_time": 1690699590,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168460,
@@ -1345,14 +1393,6 @@
       "onboard_time": 1690678648,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 138645,
-      "num": 195724,
-      "word": "洪水中托举小女孩辅警获记个人一等奖",
-      "onboard_time": 1690699590,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138388,
