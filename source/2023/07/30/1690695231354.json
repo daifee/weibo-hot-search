@@ -1,0 +1,410 @@
+{
+  "runTime": 1690695231354,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1516931,
+        "num": 1516931,
+        "word": "原来微信可以防拉黑",
+        "onboard_time": 1690678829,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1289978,
+        "num": 1289978,
+        "word": "王楚然 女将星",
+        "onboard_time": 1690674323,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65869,
+        "num": 1133807,
+        "word": "会唱歌的石头见证中华千年礼乐文明",
+        "onboard_time": 1690685731,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1294159,
+        "num": 1124635,
+        "word": "张大大曝杨颖带妆睡觉",
+        "onboard_time": 1690694133,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1078393,
+        "num": 1078393,
+        "word": "舒淇 多巴胺封神",
+        "onboard_time": 1690693712,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 889909,
+        "num": 889909,
+        "word": "考多少分才能入这席吃饭",
+        "onboard_time": 1690689869,
+        "rank": 5,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 723163,
+        "num": 723163,
+        "word": "没认出来这是张钧甯",
+        "onboard_time": 1690690653,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 624870,
+        "num": 624870,
+        "word": "杨紫檀健次纪念胐胐",
+        "onboard_time": 1690692033,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537527,
+        "num": 623615,
+        "word": "自驾进罗布泊车队失联者被找到已遇难",
+        "onboard_time": 1690693232,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436567,
+        "num": 599631,
+        "word": "重庆2号线故障大爷砸玻璃换气",
+        "onboard_time": 1690686450,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2486828,
+        "num": 590363,
+        "word": "大鹏删博",
+        "onboard_time": 1690693413,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 750925,
+        "num": 579518,
+        "word": "CardiB向泼饮料观众扔话筒",
+        "onboard_time": 1690689749,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567257,
+        "num": 567257,
+        "word": "免费请陌生人吃了三个甜甜圈之后",
+        "onboard_time": 1690685129,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 542385,
+        "num": 542385,
+        "word": "杨紫邓为小妈文学",
+        "onboard_time": 1690689090,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354299,
+        "num": 354299,
+        "word": "当一坨吸饱了水的云路过",
+        "onboard_time": 1690681529,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 503597,
+        "num": 347620,
+        "word": "TFBOYS高会邮箱回复了",
+        "onboard_time": 1690690051,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494091,
+        "num": 346862,
+        "word": "曾黎非遗胸针",
+        "onboard_time": 1690685552,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 335800,
+        "num": 335800,
+        "word": "台风卡努正在增强",
+        "onboard_time": 1690675165,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282069,
+        "num": 282069,
+        "word": "路飞五档",
+        "onboard_time": 1690687468,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 230961,
+        "num": 230961,
+        "word": "莫斯科空域暂时禁飞",
+        "onboard_time": 1690685973,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 973687,
+        "num": 230622,
+        "word": "男子肠道密密麻麻长满200多个息肉",
+        "onboard_time": 1690692688,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562029,
+        "num": 229660,
+        "word": "张晚意早期贴吧发言",
+        "onboard_time": 1690692033,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479753,
+        "num": 229105,
+        "word": "范丞丞官宣加盟现在就出发",
+        "onboard_time": 1690694614,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308787,
+        "num": 228659,
+        "word": "长得像人的鱼是什么鱼",
+        "onboard_time": 1690687950,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265127,
+        "num": 228090,
+        "word": "高校录取通知书竟藏着一碗牛肉面",
+        "onboard_time": 1690692211,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 467111,
+        "num": 227152,
+        "word": "郊通发达",
+        "onboard_time": 1690689869,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424006,
+        "num": 226602,
+        "word": "迪丽热巴蝴蝶编发",
+        "onboard_time": 1690693112,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 400713,
+        "num": 225992,
+        "word": "毛不易演唱会取消",
+        "onboard_time": 1690682249,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386999,
+        "num": 225307,
+        "word": "张晚意的女装",
+        "onboard_time": 1690694014,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224978,
+        "num": 224978,
+        "word": "北京提醒广大市民非必要不外出",
+        "onboard_time": 1690676307,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942598,
+        "num": 215474,
+        "word": "成功从侵犯女孩到逼死女孩",
+        "onboard_time": 1690683030,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383811,
+        "num": 211786,
+        "word": "李雪琴说桃花坞有可以放心耍赖的人",
+        "onboard_time": 1690694193,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199795,
+        "num": 199795,
+        "word": "主持人涂磊被证清白后发声",
+        "onboard_time": 1690676848,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 197033,
+        "num": 197033,
+        "word": "全县24个乡镇在一家打印店花174万",
+        "onboard_time": 1690674683,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162646,
+        "num": 162646,
+        "word": "飞云",
+        "onboard_time": 1690683153,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353332,
+        "num": 161842,
+        "word": "长相思 夭玹夭柳夭璟",
+        "onboard_time": 1690688670,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340366,
+        "num": 161452,
+        "word": "封神",
+        "onboard_time": 1690678888,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310924,
+        "num": 160581,
+        "word": "管泽元曝英雄联盟解说员薪资状况",
+        "onboard_time": 1690679669,
+        "rank": 37,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 159025,
+        "num": 159025,
+        "word": "女子往早餐店扔下一袋东西暖到店主",
+        "onboard_time": 1690681769,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130548,
+        "num": 158956,
+        "word": "纪委通报一县在官员子女打印店花174万",
+        "onboard_time": 1690677807,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247958,
+        "num": 158645,
+        "word": "陈赫带张子萱去鹿晗演唱会",
+        "onboard_time": 1690673001,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235355,
+        "num": 158523,
+        "word": "谁能演女将星",
+        "onboard_time": 1690684770,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228531,
+        "num": 158278,
+        "word": "李斯丹妮高瀚宇在拍恋综吗",
+        "onboard_time": 1690678169,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122736,
+        "num": 158135,
+        "word": "趵突泉水位一夜猛涨9厘米",
+        "onboard_time": 1690680092,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 212949,
+        "num": 157939,
+        "word": "建议内娱新人舞台按这个标准卷",
+        "onboard_time": 1690694855,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120169,
+        "num": 157604,
+        "word": "做近视手术前要知道的7件事",
+        "onboard_time": 1690679310,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118386,
+        "num": 157425,
+        "word": "世界破破烂烂 小动物缝缝补补",
+        "onboard_time": 1690694614,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117474,
+        "num": 157350,
+        "word": "UFC291",
+        "onboard_time": 1690691850,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111483,
+        "num": 157110,
+        "word": "女孩一觉睡醒身上盖着军被",
+        "onboard_time": 1690674323,
+        "rank": 48,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 93254,
+        "num": 156781,
+        "word": "专家称韩国超导是超导假象",
+        "onboard_time": 1690694555,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动新时代治蜀兴川再上新台阶#"
+    }
+  }
+}

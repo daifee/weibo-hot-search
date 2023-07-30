@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690694090555,
+  "endTime": 1690695231354,
   "band_list": [
     {
       "raw_hot": 2642952,
@@ -9,6 +9,14 @@
       "onboard_time": 1690678829,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2486828,
+      "num": 590363,
+      "word": "大鹏删博",
+      "onboard_time": 1690693413,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2459592,
@@ -59,12 +67,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1294159,
+      "num": 1124635,
+      "word": "张大大曝杨颖带妆睡觉",
+      "onboard_time": 1690694133,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1141817,
       "num": 581153,
       "word": "曾黎非遗胸针",
       "onboard_time": 1690685552,
       "rank": 10,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1078393,
+      "num": 1078393,
+      "word": "舒淇 多巴胺封神",
+      "onboard_time": 1690693712,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 1076905,
@@ -83,20 +107,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1011929,
-      "num": 411581,
-      "word": "大鹏删博",
-      "onboard_time": 1690693413,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1002363,
       "num": 651984,
       "word": "杨洋某平台认证消失",
       "onboard_time": 1690622914,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 973687,
+      "num": 358150,
+      "word": "男子肠道密密麻麻长满200多个息肉",
+      "onboard_time": 1690692688,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 950311,
@@ -164,19 +188,11 @@
     },
     {
       "raw_hot": 891582,
-      "num": 570140,
+      "num": 579518,
       "word": "CardiB向泼饮料观众扔话筒",
       "onboard_time": 1690689749,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 887923,
-      "num": 358150,
-      "word": "男子肠道密密麻麻长满200多个息肉",
-      "onboard_time": 1690692688,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 880898,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 718644,
-      "num": 407027,
+      "num": 542385,
       "word": "杨紫邓为小妈文学",
       "onboard_time": 1690689090,
       "rank": 31,
@@ -296,6 +312,14 @@
       "word": "谁能演女将星",
       "onboard_time": 1690684770,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 624870,
+      "num": 624870,
+      "word": "杨紫檀健次纪念胐胐",
+      "onboard_time": 1690692033,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -339,19 +363,19 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 588121,
-      "num": 528832,
-      "word": "杨紫檀健次纪念胐胐",
-      "onboard_time": 1690692033,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 566455,
       "num": 522043,
       "word": "TFBOYS高会邮箱回复了",
       "onboard_time": 1690690051,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 562029,
+      "num": 350963,
+      "word": "张晚意早期贴吧发言",
+      "onboard_time": 1690692033,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -361,14 +385,6 @@
       "onboard_time": 1690680092,
       "rank": 46,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 553757,
-      "num": 350963,
-      "word": "张晚意早期贴吧发言",
-      "onboard_time": 1690692033,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 552323,
@@ -385,6 +401,14 @@
       "onboard_time": 1690679849,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 537527,
+      "num": 623615,
+      "word": "自驾进罗布泊车队失联者被找到已遇难",
+      "onboard_time": 1690693232,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530757,
@@ -475,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479753,
+      "num": 229105,
+      "word": "范丞丞官宣加盟现在就出发",
+      "onboard_time": 1690694614,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 468265,
       "num": 468265,
       "word": "势俊丽敌",
@@ -496,14 +528,6 @@
       "word": "玱玹评论张晚意",
       "onboard_time": 1690676547,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 446090,
-      "num": 313175,
-      "word": "舒淇 多巴胺封神",
-      "onboard_time": 1690693712,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -539,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 424006,
+      "num": 296397,
+      "word": "迪丽热巴蝴蝶编发",
+      "onboard_time": 1690693112,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 422021,
       "num": 422021,
       "word": "韩剧恶鬼大结局",
@@ -555,20 +587,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 411581,
-      "num": 296397,
-      "word": "迪丽热巴蝴蝶编发",
-      "onboard_time": 1690693112,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 399640,
       "num": 399640,
       "word": "衙内换人",
       "onboard_time": 1690641814,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 386999,
+      "num": 225307,
+      "word": "张晚意的女装",
+      "onboard_time": 1690694014,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 383811,
+      "num": 211786,
+      "word": "李雪琴说桃花坞有可以放心耍赖的人",
+      "onboard_time": 1690694193,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 375039,
@@ -641,14 +681,6 @@
       "onboard_time": 1690641216,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332380,
-      "num": 381211,
-      "word": "自驾进罗布泊车队失联者被找到已遇难",
-      "onboard_time": 1690693232,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317971,
@@ -851,14 +883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236773,
-      "num": 165802,
-      "word": "张晚意的女装",
-      "onboard_time": 1690694014,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 236534,
       "num": 236534,
       "word": "暴雨红色预警继续发布",
@@ -929,6 +953,14 @@
       "onboard_time": 1690680812,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212949,
+      "num": 157939,
+      "word": "建议内娱新人舞台按这个标准卷",
+      "onboard_time": 1690694855,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 210964,
@@ -1163,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118386,
+      "num": 157425,
+      "word": "世界破破烂烂 小动物缝缝补补",
+      "onboard_time": 1690694614,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113105,
       "num": 113105,
       "word": "封神第一部票房破9亿",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1690670716,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 93254,
+      "num": 156781,
+      "word": "专家称韩国超导是超导假象",
+      "onboard_time": 1690694555,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 89231,
