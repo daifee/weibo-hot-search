@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690680246248,
+  "endTime": 1690681476483,
   "band_list": [
     {
       "raw_hot": 2459592,
@@ -9,6 +9,14 @@
       "onboard_time": 1690674323,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2200912,
+      "num": 2200912,
+      "word": "原来微信可以防拉黑",
+      "onboard_time": 1690678829,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1769832,
@@ -27,14 +35,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1411654,
-      "num": 1411654,
-      "word": "原来微信可以防拉黑",
-      "onboard_time": 1690678829,
-      "rank": 3,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1341428,
       "num": 1341428,
       "word": "小狗好像以为结婚就是离开",
@@ -49,6 +49,14 @@
       "onboard_time": 1690622914,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 950311,
+      "num": 711214,
+      "word": "管泽元曝英雄联盟解说员薪资状况",
+      "onboard_time": 1690679669,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 944346,
@@ -179,8 +187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 609317,
-      "num": 480988,
+      "raw_hot": 609332,
+      "num": 609332,
       "word": "北京提醒广大市民非必要不外出",
       "onboard_time": 1690676307,
       "rank": 14,
@@ -219,12 +227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510454,
+      "num": 320849,
+      "word": "做近视手术前要知道的7件事",
+      "onboard_time": 1690679310,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503214,
       "num": 503214,
       "word": "莲花楼 当一个天下第一的剑客决定退休",
       "onboard_time": 1690647033,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 494074,
+      "num": 494074,
+      "word": "纪委通报一县在官员子女打印店花174万",
+      "onboard_time": 1690677807,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490601,
@@ -257,6 +281,14 @@
       "onboard_time": 1690676547,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 444115,
+      "num": 237410,
+      "word": "趵突泉水位一夜猛涨9厘米",
+      "onboard_time": 1690680092,
+      "rank": 46,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 438203,
@@ -307,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383289,
+      "num": 316252,
+      "word": "8岁摄影师拍的杨紫",
+      "onboard_time": 1690679849,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 374212,
       "num": 374212,
       "word": "邓紫棋演唱会",
@@ -339,12 +379,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 357066,
-      "num": 242280,
-      "word": "管泽元曝英雄联盟解说员薪资状况",
-      "onboard_time": 1690679669,
-      "rank": 30,
-      "category": "游戏"
+      "raw_hot": 352871,
+      "num": 306417,
+      "word": "杨洋王楚然魏大勋破好6播放量记录",
+      "onboard_time": 1690661953,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 339792,
@@ -352,22 +392,6 @@
       "word": "毛不易醉酒给单依纯打电话",
       "onboard_time": 1690641216,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 336573,
-      "num": 336573,
-      "word": "纪委通报一县在官员子女打印店花174万",
-      "onboard_time": 1690677807,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321582,
-      "num": 299357,
-      "word": "杨洋王楚然魏大勋破好6播放量记录",
-      "onboard_time": 1690661953,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -395,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302554,
-      "num": 241854,
-      "word": "做近视手术前要知道的7件事",
-      "onboard_time": 1690679310,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300269,
       "num": 217323,
       "word": "宋祖儿为配字不当道歉",
@@ -427,20 +443,20 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 290138,
+      "num": 290138,
+      "word": "84平米的出租屋住了17人",
+      "onboard_time": 1690671736,
+      "rank": 33,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 288226,
       "num": 288226,
       "word": "摸鱼壁纸真的瞒过了老板和同事",
       "onboard_time": 1690639236,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 287257,
-      "num": 287257,
-      "word": "84平米的出租屋住了17人",
-      "onboard_time": 1690671736,
-      "rank": 33,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 286407,
@@ -515,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250295,
+      "num": 250295,
+      "word": "BLACKPINK跳叮叮当当",
+      "onboard_time": 1690679069,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 247347,
       "num": 247347,
       "word": "水是还没发现自己该结冰了吗",
@@ -563,14 +587,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 234274,
-      "num": 234274,
-      "word": "BLACKPINK跳叮叮当当",
-      "onboard_time": 1690679069,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 229907,
       "num": 188846,
       "word": "内娱男明星的证件照",
@@ -595,12 +611,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214769,
-      "num": 214769,
-      "word": "8岁摄影师拍的杨紫",
-      "onboard_time": 1690679849,
-      "rank": 37,
-      "category": "艺人,时尚"
+      "raw_hot": 216711,
+      "num": 216711,
+      "word": "从没见过把进货价告诉买家的老板",
+      "onboard_time": 1690680812,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198799,
@@ -659,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168460,
+      "num": 168460,
+      "word": "TangoZ粉丝音乐节举美肚杀表情包",
+      "onboard_time": 1690677569,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166536,
       "num": 227444,
       "word": "父母不懂英语从县城出国看女儿",
@@ -683,22 +707,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145470,
-      "num": 145470,
-      "word": "趵突泉水位一夜猛涨9厘米",
-      "onboard_time": 1690680092,
-      "rank": 46,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 142826,
-      "num": 142826,
-      "word": "TangoZ粉丝音乐节举美肚杀表情包",
-      "onboard_time": 1690677569,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 138388,
       "num": 188882,
       "word": "刺痛退役",
@@ -713,6 +721,22 @@
       "onboard_time": 1690606898,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131809,
+      "num": 131809,
+      "word": "爱乔婉娩的是李相夷不是李莲花",
+      "onboard_time": 1690681411,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126677,
+      "num": 126677,
+      "word": "北京启动防汛红色预警响应",
+      "onboard_time": 1690681170,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124850,
