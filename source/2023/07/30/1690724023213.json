@@ -1,0 +1,410 @@
+{
+  "runTime": 1690724023213,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1444286,
+        "num": 1444286,
+        "word": "小夭主动亲了涂山璟",
+        "onboard_time": 1690716511,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1354971,
+        "num": 1354971,
+        "word": "封神票房",
+        "onboard_time": 1690719633,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16796,
+        "num": 1230394,
+        "word": "成都大运会的中国式浪漫",
+        "onboard_time": 1690638696,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1172171,
+        "num": 1172171,
+        "word": "长相思",
+        "onboard_time": 1690714953,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 951844,
+        "num": 951844,
+        "word": "孙杨的世界纪录还在",
+        "onboard_time": 1690718135,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 972342,
+        "num": 942956,
+        "word": "玱玹你怎么不笑了",
+        "onboard_time": 1690715371,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 912345,
+        "num": 912345,
+        "word": "杜苏芮",
+        "onboard_time": 1690705233,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714924,
+        "num": 714924,
+        "word": "黄子韬去鹿晗演唱会了",
+        "onboard_time": 1690723596,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 634355,
+        "num": 634355,
+        "word": "台风卡努",
+        "onboard_time": 1690721557,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584753,
+        "num": 584753,
+        "word": "中国队男子混合泳接力摘银",
+        "onboard_time": 1690720834,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2638143,
+        "num": 579838,
+        "word": "刘维登不上母亲微信发文求助",
+        "onboard_time": 1690720535,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1424797,
+        "num": 562984,
+        "word": "鹿晗帮粉丝跟领导请假",
+        "onboard_time": 1690721915,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1332271,
+        "num": 547960,
+        "word": "张晚意闲鱼买东西被人认出来",
+        "onboard_time": 1690712373,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1051560,
+        "num": 522586,
+        "word": "精诚矿业瞒报死亡矿工43人",
+        "onboard_time": 1690717354,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517605,
+        "num": 517605,
+        "word": "杨紫说小夭是不敢相认",
+        "onboard_time": 1690722392,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1107604,
+        "num": 516532,
+        "word": "王诗龄的画vs黄多多的画",
+        "onboard_time": 1690710454,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650286,
+        "num": 512459,
+        "word": "内娱不会因演技脱粉的演员",
+        "onboard_time": 1690711951,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556616,
+        "num": 509638,
+        "word": "京西大悦城",
+        "onboard_time": 1690721313,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458051,
+        "num": 458051,
+        "word": "保定暴雨",
+        "onboard_time": 1690722157,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412307,
+        "num": 412307,
+        "word": "七擒孟获",
+        "onboard_time": 1690718135,
+        "rank": 19,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 922694,
+        "num": 409879,
+        "word": "女子遇害被埋尸山间石缝",
+        "onboard_time": 1690712792,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507867,
+        "num": 405108,
+        "word": "王俊凯到北京了",
+        "onboard_time": 1690718495,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379892,
+        "num": 379892,
+        "word": "男子肠道密密麻麻长满200多个息肉",
+        "onboard_time": 1690692688,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331365,
+        "num": 331365,
+        "word": "张雨霏50米自由泳铜牌",
+        "onboard_time": 1690719574,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302376,
+        "num": 302376,
+        "word": "潘展乐",
+        "onboard_time": 1690722392,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494550,
+        "num": 299994,
+        "word": "周迅强忍着没翻白眼",
+        "onboard_time": 1690715854,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427361,
+        "num": 299164,
+        "word": "眼睛好会爱人的角色",
+        "onboard_time": 1690720593,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392837,
+        "num": 298373,
+        "word": "王一博郭俊辰王子奇今日营业照",
+        "onboard_time": 1690723232,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296558,
+        "num": 296558,
+        "word": "覃海洋好牛",
+        "onboard_time": 1690723174,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296175,
+        "num": 296175,
+        "word": "Elk 恐尺",
+        "onboard_time": 1690719332,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 389327,
+        "num": 295993,
+        "word": "杨幂无声彩排视频",
+        "onboard_time": 1690721374,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 382670,
+        "num": 293533,
+        "word": "现在就出发",
+        "onboard_time": 1690719515,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325598,
+        "num": 290636,
+        "word": "涂山璟躺下了",
+        "onboard_time": 1690715672,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300753,
+        "num": 288873,
+        "word": "韩烨杀左相好疯",
+        "onboard_time": 1690722213,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288688,
+        "num": 288688,
+        "word": "任敏变瘦了好多",
+        "onboard_time": 1690704030,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274055,
+        "num": 274055,
+        "word": "徐嘉余",
+        "onboard_time": 1690716572,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267584,
+        "num": 267584,
+        "word": "凡人修仙传",
+        "onboard_time": 1690717832,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 250216,
+        "num": 250216,
+        "word": "隐形家务才是最让人崩溃的",
+        "onboard_time": 1690703552,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246732,
+        "num": 246732,
+        "word": "北京房山一地突发山洪",
+        "onboard_time": 1690713994,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243070,
+        "num": 243070,
+        "word": "当老师发朋友圈忘记屏蔽学生",
+        "onboard_time": 1690707631,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266588,
+        "num": 240551,
+        "word": "电影封神第二部抢先看",
+        "onboard_time": 1690717893,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236892,
+        "num": 236892,
+        "word": "张小斐希望年轻演员抓住一切表演机会",
+        "onboard_time": 1690722392,
+        "rank": 41,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 228194,
+        "num": 228194,
+        "word": "山西通报矿工死亡瞒报事件调查处置情况",
+        "onboard_time": 1690716097,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216451,
+        "num": 216451,
+        "word": "莲花楼",
+        "onboard_time": 1690719392,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214934,
+        "num": 214934,
+        "word": "热烈",
+        "onboard_time": 1690702830,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200435,
+        "num": 214862,
+        "word": "白敬亭Angelababy或将演龙骨焚箱",
+        "onboard_time": 1690708713,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189065,
+        "num": 214678,
+        "word": "第五人格",
+        "onboard_time": 1690723295,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184288,
+        "num": 214372,
+        "word": "向云南边防英雄们致敬",
+        "onboard_time": 1690723054,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183128,
+        "num": 214293,
+        "word": "JDG战胜BLG",
+        "onboard_time": 1690717772,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124966,
+        "num": 214060,
+        "word": "山东泰山vs北京国安",
+        "onboard_time": 1690723955,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#会唱歌的石头见证中华千年礼乐文明#"
+    }
+  }
+}

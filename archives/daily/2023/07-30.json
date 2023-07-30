@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690723078478,
+  "endTime": 1690724023213,
   "band_list": [
     {
       "raw_hot": 4491978,
@@ -19,7 +19,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 2539343,
+      "raw_hot": 2638143,
       "num": 644013,
       "word": "刘维登不上母亲微信发文求助",
       "onboard_time": 1690720535,
@@ -147,11 +147,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1424797,
+      "num": 562984,
+      "word": "鹿晗帮粉丝跟领导请假",
+      "onboard_time": 1690721915,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1378245,
       "num": 1378245,
       "word": "长相思",
       "onboard_time": 1690632693,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1354971,
+      "num": 1354971,
+      "word": "封神票房",
+      "onboard_time": 1690719633,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -161,14 +177,6 @@
       "onboard_time": 1690640617,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1326042,
-      "num": 1326042,
-      "word": "封神票房",
-      "onboard_time": 1690719633,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 1309525,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 973687,
-      "num": 369916,
+      "num": 379892,
       "word": "男子肠道密密麻麻长满200多个息肉",
       "onboard_time": 1690692688,
       "rank": 20,
@@ -393,14 +401,6 @@
       "onboard_time": 1690698209,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 823019,
-      "num": 431521,
-      "word": "鹿晗帮粉丝跟领导请假",
-      "onboard_time": 1690721915,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 815368,
@@ -531,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 714924,
+      "num": 714924,
+      "word": "黄子韬去鹿晗演唱会了",
+      "onboard_time": 1690723596,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 710797,
       "num": 549438,
       "word": "53岁窦唯状态",
@@ -625,6 +633,14 @@
       "onboard_time": 1690715854,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 634355,
+      "num": 634355,
+      "word": "台风卡努",
+      "onboard_time": 1690721557,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 624870,
@@ -747,6 +763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 556616,
+      "num": 509638,
+      "word": "京西大悦城",
+      "onboard_time": 1690721313,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554001,
       "num": 554001,
       "word": "趵突泉水位一夜猛涨9厘米",
@@ -827,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517605,
+      "num": 517605,
+      "word": "杨紫说小夭是不敢相认",
+      "onboard_time": 1690722392,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 515490,
       "num": 483931,
       "word": "涂山璟躺下了",
@@ -881,14 +913,6 @@
       "onboard_time": 1690685973,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 496078,
-      "num": 443478,
-      "word": "京西大悦城",
-      "onboard_time": 1690721313,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 495107,
@@ -963,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 458051,
+      "num": 458051,
+      "word": "保定暴雨",
+      "onboard_time": 1690722157,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457763,
       "num": 457763,
       "word": "Elk 恐尺",
@@ -1027,7 +1059,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 425954,
+      "raw_hot": 427361,
       "num": 385709,
       "word": "眼睛好会爱人的角色",
       "onboard_time": 1690720593,
@@ -1131,12 +1163,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 393872,
-      "num": 393872,
-      "word": "台风卡努",
-      "onboard_time": 1690721557,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 392837,
+      "num": 298373,
+      "word": "王一博郭俊辰王子奇今日营业照",
+      "onboard_time": 1690723232,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 389459,
@@ -1363,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314491,
-      "num": 314491,
-      "word": "杨紫说小夭是不敢相认",
-      "onboard_time": 1690722392,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 310846,
       "num": 257814,
       "word": "金泰妍演唱会",
@@ -1400,6 +1424,22 @@
       "word": "长相思新副本",
       "onboard_time": 1690633232,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 302376,
+      "num": 302376,
+      "word": "潘展乐",
+      "onboard_time": 1690722392,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300753,
+      "num": 288873,
+      "word": "韩烨杀左相好疯",
+      "onboard_time": 1690722213,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -1435,6 +1475,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 296558,
+      "num": 296558,
+      "word": "覃海洋好牛",
+      "onboard_time": 1690723174,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294931,
       "num": 248775,
       "word": "苏可给施柏宇张艺凡的建议",
@@ -1465,14 +1513,6 @@
       "onboard_time": 1690702830,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288958,
-      "num": 288958,
-      "word": "潘展乐",
-      "onboard_time": 1690722392,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 288226,
@@ -1611,14 +1651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252213,
-      "num": 252213,
-      "word": "保定暴雨",
-      "onboard_time": 1690722157,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249428,
       "num": 248887,
       "word": "热烈路演 真诚",
@@ -1648,14 +1680,6 @@
       "word": "长相思今天更一集",
       "onboard_time": 1690631254,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246276,
-      "num": 246276,
-      "word": "韩烨杀左相好疯",
-      "onboard_time": 1690722213,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -1699,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236892,
+      "num": 239396,
+      "word": "张小斐希望年轻演员抓住一切表演机会",
+      "onboard_time": 1690722392,
+      "rank": 43,
+      "category": "影视,综艺"
+    },
+    {
       "raw_hot": 236534,
       "num": 236534,
       "word": "暴雨红色预警继续发布",
@@ -1713,14 +1745,6 @@
       "onboard_time": 1690678047,
       "rank": 34,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 235094,
-      "num": 239396,
-      "word": "张小斐希望年轻演员抓住一切表演机会",
-      "onboard_time": 1690722392,
-      "rank": 43,
-      "category": "影视,综艺"
     },
     {
       "raw_hot": 233937,
@@ -2003,12 +2027,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189065,
+      "num": 214678,
+      "word": "第五人格",
+      "onboard_time": 1690723295,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188886,
       "num": 188886,
       "word": "镇魂街3开播",
       "onboard_time": 1690644634,
       "rank": 37,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 184288,
+      "num": 214372,
+      "word": "向云南边防英雄们致敬",
+      "onboard_time": 1690723054,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180211,
@@ -2032,14 +2072,6 @@
       "word": "暴雨",
       "onboard_time": 1690673962,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175793,
-      "num": 175793,
-      "word": "向云南边防英雄们致敬",
-      "onboard_time": 1690723054,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2169,6 +2201,14 @@
       "onboard_time": 1690681170,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124966,
+      "num": 214060,
+      "word": "山东泰山vs北京国安",
+      "onboard_time": 1690723955,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124850,

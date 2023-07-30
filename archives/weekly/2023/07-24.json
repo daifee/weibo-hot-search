@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690723078478,
+  "endTime": 1690724023213,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -355,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2638143,
+      "num": 644013,
+      "word": "刘维登不上母亲微信发文求助",
+      "onboard_time": 1690720535,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2626973,
       "num": 2626973,
       "word": "蜜雪冰城阴阳怪气瑞幸",
@@ -376,14 +384,6 @@
       "word": "宋祖儿为配字不当道歉",
       "onboard_time": 1690616796,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2539343,
-      "num": 644013,
-      "word": "刘维登不上母亲微信发文求助",
-      "onboard_time": 1690720535,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1555,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1424797,
+      "num": 562984,
+      "word": "鹿晗帮粉丝跟领导请假",
+      "onboard_time": 1690721915,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1418155,
       "num": 1418155,
       "word": "沉香夫妇一个接生一个把脉",
@@ -1691,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1354971,
+      "num": 1354971,
+      "word": "封神票房",
+      "onboard_time": 1690358556,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1354511,
       "num": 1354511,
       "word": "齐齐哈尔三十四中坍塌现场救出11人",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1690363371,
       "rank": 20,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1326042,
-      "num": 1326042,
-      "word": "封神票房",
-      "onboard_time": 1690358556,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 1318539,
@@ -2796,7 +2804,7 @@
     },
     {
       "raw_hot": 973687,
-      "num": 369916,
+      "num": 379892,
       "word": "男子肠道密密麻麻长满200多个息肉",
       "onboard_time": 1690692688,
       "rank": 20,
@@ -3595,14 +3603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 823019,
-      "num": 431521,
-      "word": "鹿晗帮粉丝跟领导请假",
-      "onboard_time": 1690721915,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 821581,
       "num": 513508,
       "word": "孙艺珍晒儿子小手",
@@ -4385,6 +4385,14 @@
       "onboard_time": 1690425695,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 714924,
+      "num": 714924,
+      "word": "黄子韬去鹿晗演唱会了",
+      "onboard_time": 1690723596,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 714718,
@@ -5201,6 +5209,14 @@
       "onboard_time": 1690587808,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 634355,
+      "num": 634355,
+      "word": "台风卡努",
+      "onboard_time": 1690721557,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 634217,
@@ -6099,6 +6115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 556616,
+      "num": 509638,
+      "word": "京西大悦城",
+      "onboard_time": 1690721313,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556059,
       "num": 556059,
       "word": "jiejie 蝎子",
@@ -6563,6 +6587,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 517605,
+      "num": 517605,
+      "word": "杨紫说小夭是不敢相认",
+      "onboard_time": 1690722392,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 516458,
       "num": 445302,
       "word": "易烊千玺王传君同框照",
@@ -6897,14 +6929,6 @@
       "onboard_time": 1690685973,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 496078,
-      "num": 443478,
-      "word": "京西大悦城",
-      "onboard_time": 1690721313,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 495488,
@@ -7473,6 +7497,14 @@
       "onboard_time": 1690542631,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 458051,
+      "num": 458051,
+      "word": "保定暴雨",
+      "onboard_time": 1690722157,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457763,
@@ -8083,6 +8115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427361,
+      "num": 385709,
+      "word": "眼睛好会爱人的角色",
+      "onboard_time": 1690720593,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426711,
       "num": 426711,
       "word": "刘涛黑色露背裙",
@@ -8104,14 +8144,6 @@
       "word": "莲花楼江湖侠客莲欢会",
       "onboard_time": 1690452993,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 425954,
-      "num": 385709,
-      "word": "眼睛好会爱人的角色",
-      "onboard_time": 1690720593,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -8651,20 +8683,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 393872,
-      "num": 393872,
-      "word": "台风卡努",
-      "onboard_time": 1690721557,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 393116,
       "num": 393116,
       "word": "薛之谦刘宪华好像在演双簧",
       "onboard_time": 1690557275,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392837,
+      "num": 298373,
+      "word": "王一博郭俊辰王子奇今日营业照",
+      "onboard_time": 1690723232,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 392024,
@@ -10387,14 +10419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314491,
-      "num": 314491,
-      "word": "杨紫说小夭是不敢相认",
-      "onboard_time": 1690722392,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 312973,
       "num": 312973,
       "word": "齐齐哈尔",
@@ -10667,6 +10691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 302376,
+      "num": 302376,
+      "word": "潘展乐",
+      "onboard_time": 1690722392,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302325,
       "num": 302325,
       "word": "谁教时代少年团这么拍的",
@@ -10696,6 +10728,14 @@
       "word": "大鹏说王一博和陈烁已经融为一体",
       "onboard_time": 1690540770,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 300753,
+      "num": 288873,
+      "word": "韩烨杀左相好疯",
+      "onboard_time": 1690722213,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -10833,6 +10873,14 @@
       "onboard_time": 1690172381,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296558,
+      "num": 296558,
+      "word": "覃海洋好牛",
+      "onboard_time": 1690723174,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 296423,
@@ -11065,14 +11113,6 @@
       "onboard_time": 1690591411,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288958,
-      "num": 288958,
-      "word": "潘展乐",
-      "onboard_time": 1690722392,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 288858,
@@ -12027,14 +12067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 252213,
-      "num": 252213,
-      "word": "保定暴雨",
-      "onboard_time": 1690722157,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251287,
       "num": 251287,
       "word": "北方室友不理解太阳下山",
@@ -12200,14 +12232,6 @@
       "word": "成毅戴金丝眼镜",
       "onboard_time": 1690343257,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246276,
-      "num": 246276,
-      "word": "韩烨杀左相好疯",
-      "onboard_time": 1690722213,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -12475,6 +12499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236892,
+      "num": 239396,
+      "word": "张小斐希望年轻演员抓住一切表演机会",
+      "onboard_time": 1690722392,
+      "rank": 43,
+      "category": "影视,综艺"
+    },
+    {
       "raw_hot": 236642,
       "num": 236642,
       "word": "苏醒家庭内卷",
@@ -12537,14 +12569,6 @@
       "onboard_time": 1690678047,
       "rank": 34,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 235094,
-      "num": 239396,
-      "word": "张小斐希望年轻演员抓住一切表演机会",
-      "onboard_time": 1690722392,
-      "rank": 43,
-      "category": "影视,综艺"
     },
     {
       "raw_hot": 234987,
@@ -14323,6 +14347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189065,
+      "num": 214678,
+      "word": "第五人格",
+      "onboard_time": 1690723295,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188886,
       "num": 188886,
       "word": "镇魂街3开播",
@@ -14515,6 +14547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184288,
+      "num": 214372,
+      "word": "向云南边防英雄们致敬",
+      "onboard_time": 1690723054,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184175,
       "num": 184175,
       "word": "恶鬼",
@@ -14705,14 +14745,6 @@
       "onboard_time": 1690462056,
       "rank": 49,
       "category": "美食,动漫"
-    },
-    {
-      "raw_hot": 175793,
-      "num": 175793,
-      "word": "向云南边防英雄们致敬",
-      "onboard_time": 1690723054,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174591,
@@ -15448,6 +15480,14 @@
       "word": "大运会开幕式烟花",
       "onboard_time": 1690273299,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124966,
+      "num": 214060,
+      "word": "山东泰山vs北京国安",
+      "onboard_time": 1690723955,
+      "rank": 49,
       "category": "体育"
     },
     {
