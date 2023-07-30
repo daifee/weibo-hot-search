@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690695231354,
+  "endTime": 1690698012503,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3667,6 +3667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1900318,
+      "num": 1124635,
+      "word": "张大大曝杨颖带妆睡觉",
+      "onboard_time": 1690694133,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1897135,
       "num": 1897135,
       "word": "西安忍不住根本忍不住",
@@ -5297,6 +5305,14 @@
       "onboard_time": 1688569682,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1597165,
+      "num": 1597165,
+      "word": "舒淇 多巴胺封神",
+      "onboard_time": 1690693712,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 1595813,
@@ -7313,14 +7329,6 @@
       "onboard_time": 1690030294,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1294159,
-      "num": 1124635,
-      "word": "张大大曝杨颖带妆睡觉",
-      "onboard_time": 1690694133,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1293897,
@@ -9601,14 +9609,6 @@
       "onboard_time": 1690272937,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1078393,
-      "num": 1078393,
-      "word": "舒淇 多巴胺封神",
-      "onboard_time": 1690693712,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 1078358,
@@ -17891,6 +17891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 710797,
+      "num": 549438,
+      "word": "53岁窦唯状态",
+      "onboard_time": 1690696294,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 710745,
       "num": 710745,
       "word": "还有人吃玉米吐皮",
@@ -20147,6 +20155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655480,
+      "num": 655480,
+      "word": "范丞丞官宣加盟现在就出发",
+      "onboard_time": 1690694614,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655126,
       "num": 655126,
       "word": "鹿晗广州站官宣嘉宾",
@@ -20265,6 +20281,14 @@
       "onboard_time": 1688298812,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 652403,
+      "num": 652403,
+      "word": "自驾进罗布泊车队失联者被找到已遇难",
+      "onboard_time": 1690693232,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 652180,
@@ -20544,6 +20568,14 @@
       "word": "谢娜李维嘉吴昕合体",
       "onboard_time": 1690433920,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 643706,
+      "num": 643706,
+      "word": "白敬亭说自己内向",
+      "onboard_time": 1690696950,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -25475,14 +25507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 537527,
-      "num": 623615,
-      "word": "自驾进罗布泊车队失联者被找到已遇难",
-      "onboard_time": 1690693232,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 536673,
       "num": 536673,
       "word": "这就是热恋期的小情侣吗",
@@ -28707,14 +28731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479753,
-      "num": 229105,
-      "word": "范丞丞官宣加盟现在就出发",
-      "onboard_time": 1690694614,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 479658,
       "num": 479658,
       "word": "易鹏飞被双开",
@@ -29393,6 +29409,14 @@
       "onboard_time": 1689091590,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469754,
+      "num": 469754,
+      "word": "鸟鸟七分钟让650颜面扫地",
+      "onboard_time": 1690697429,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 469464,
@@ -30641,6 +30665,14 @@
       "onboard_time": 1688636559,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 451328,
+      "num": 451328,
+      "word": "上海一出租房mini窗户似射击孔",
+      "onboard_time": 1690695572,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451267,
@@ -34243,6 +34275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 403687,
+      "num": 403687,
+      "word": "建议内娱新人舞台按这个标准卷",
+      "onboard_time": 1690694855,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403666,
       "num": 403666,
       "word": "内娱圆脸女明星",
@@ -35105,6 +35145,14 @@
       "onboard_time": 1688277816,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394374,
+      "num": 554560,
+      "word": "专家称韩国超导是超导假象",
+      "onboard_time": 1690694555,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 394367,
@@ -38451,6 +38499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356246,
+      "num": 356246,
+      "word": "盛一伦回应演爹",
+      "onboard_time": 1690697251,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356200,
       "num": 356200,
       "word": "如果我的人间烟火是韩剧",
@@ -39547,6 +39603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343470,
+      "num": 237205,
+      "word": "KPOP纯韩语歌曲",
+      "onboard_time": 1690697251,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 343291,
       "num": 339687,
       "word": "李楷灿在医院治疗",
@@ -40107,6 +40171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 338537,
+      "num": 338537,
+      "word": "世界破破烂烂 小动物缝缝补补",
+      "onboard_time": 1690694614,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338481,
       "num": 338481,
       "word": "李木戈你到底埋了多少细节",
@@ -40385,6 +40457,14 @@
       "onboard_time": 1690416455,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335520,
+      "num": 227371,
+      "word": "大鹏 一直努力就会成功",
+      "onboard_time": 1690697794,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 335488,
@@ -41793,6 +41873,14 @@
       "onboard_time": 1690519660,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321119,
+      "num": 206905,
+      "word": "朝阳打歌中心",
+      "onboard_time": 1690695934,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 320775,
@@ -46459,6 +46547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283207,
+      "num": 160942,
+      "word": "孟子义鸟鸟救赎文学",
+      "onboard_time": 1690696471,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283191,
       "num": 283191,
       "word": "关晓彤扛剧能力",
@@ -48681,6 +48777,14 @@
       "onboard_time": 1688955511,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265780,
+      "num": 160904,
+      "word": "封神质子团给费翔唱冬天里的一把火",
+      "onboard_time": 1690696113,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 265778,
@@ -56323,14 +56427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 212949,
-      "num": 157939,
-      "word": "建议内娱新人舞台按这个标准卷",
-      "onboard_time": 1690694855,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212942,
       "num": 212942,
       "word": "2023上半年经济数据",
@@ -58377,6 +58473,14 @@
       "onboard_time": 1688376880,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201750,
+      "num": 201750,
+      "word": "ChinaJoy",
+      "onboard_time": 1690697194,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 201746,
@@ -64643,6 +64747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160904,
+      "num": 160903,
+      "word": "台风卡努预计8月2日在浙江登陆",
+      "onboard_time": 1690697071,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160858,
       "num": 279559,
       "word": "丫丫有了新玩具小藤球",
@@ -66203,6 +66315,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 139819,
+      "num": 160914,
+      "word": "装正常人已经炉火纯青",
+      "onboard_time": 1690697011,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139381,
       "num": 212577,
       "word": "北京倡导21日错峰上下班",
@@ -67153,14 +67273,6 @@
       "onboard_time": 1688839039,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118386,
-      "num": 157425,
-      "word": "世界破破烂烂 小动物缝缝补补",
-      "onboard_time": 1690694614,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 118294,
@@ -68305,14 +68417,6 @@
       "onboard_time": 1688578463,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93254,
-      "num": 156781,
-      "word": "专家称韩国超导是超导假象",
-      "onboard_time": 1690694555,
-      "rank": 49,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 92981,

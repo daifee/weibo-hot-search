@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690695231354,
+  "endTime": 1690698012503,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -787,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1900318,
+      "num": 1124635,
+      "word": "张大大曝杨颖带妆睡觉",
+      "onboard_time": 1690694133,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1895843,
       "num": 736678,
       "word": "吴亦凡公司仅剩1家存续",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1690460195,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1597165,
+      "num": 1597165,
+      "word": "舒淇 多巴胺封神",
+      "onboard_time": 1690693712,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 1595813,
@@ -1715,14 +1731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1294159,
-      "num": 1124635,
-      "word": "张大大曝杨颖带妆睡觉",
-      "onboard_time": 1690694133,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1290702,
       "num": 1290702,
       "word": "TFBOYS官博倡议演唱会不应援",
@@ -2217,14 +2225,6 @@
       "onboard_time": 1690272937,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1078393,
-      "num": 1078393,
-      "word": "舒淇 多巴胺封神",
-      "onboard_time": 1690693712,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 1078034,
@@ -4203,6 +4203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 710797,
+      "num": 549438,
+      "word": "53岁窦唯状态",
+      "onboard_time": 1690696294,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 710698,
       "num": 710698,
       "word": "封神第二部",
@@ -4715,12 +4723,28 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 655480,
+      "num": 655480,
+      "word": "范丞丞官宣加盟现在就出发",
+      "onboard_time": 1690694614,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 654258,
       "num": 495492,
       "word": "李兰迪王阳演情侣",
       "onboard_time": 1690254275,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 652403,
+      "num": 652403,
+      "word": "自驾进罗布泊车队失联者被找到已遇难",
+      "onboard_time": 1690693232,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 652180,
@@ -4792,6 +4816,14 @@
       "word": "谢娜李维嘉吴昕合体",
       "onboard_time": 1690433920,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 643706,
+      "num": 643706,
+      "word": "白敬亭说自己内向",
+      "onboard_time": 1690696950,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -5947,14 +5979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 537527,
-      "num": 623615,
-      "word": "自驾进罗布泊车队失联者被找到已遇难",
-      "onboard_time": 1690693232,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 536560,
       "num": 519524,
       "word": "九尾商务",
@@ -6731,14 +6755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479753,
-      "num": 229105,
-      "word": "范丞丞官宣加盟现在就出发",
-      "onboard_time": 1690694614,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 479658,
       "num": 479658,
       "word": "易鹏飞被双开",
@@ -6897,6 +6913,14 @@
       "onboard_time": 1690358377,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 469754,
+      "num": 469754,
+      "word": "鸟鸟七分钟让650颜面扫地",
+      "onboard_time": 1690697429,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 468265,
@@ -7168,6 +7192,14 @@
       "word": "杜苏芮登陆晋江现末日场景",
       "onboard_time": 1690521519,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451328,
+      "num": 451328,
+      "word": "上海一出租房mini窗户似射击孔",
+      "onboard_time": 1690695572,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -7995,6 +8027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 403687,
+      "num": 403687,
+      "word": "建议内娱新人舞台按这个标准卷",
+      "onboard_time": 1690694855,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403651,
       "num": 309718,
       "word": "娃 我已经给你反应的时间了",
@@ -8153,6 +8193,14 @@
       "onboard_time": 1690185755,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394374,
+      "num": 554560,
+      "word": "专家称韩国超导是超导假象",
+      "onboard_time": 1690694555,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 393116,
@@ -8835,6 +8883,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 356246,
+      "num": 356246,
+      "word": "盛一伦回应演爹",
+      "onboard_time": 1690697251,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356133,
       "num": 356133,
       "word": "六问齐齐哈尔坍塌事故",
@@ -9059,6 +9115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343470,
+      "num": 237205,
+      "word": "KPOP纯韩语歌曲",
+      "onboard_time": 1690697251,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 343258,
       "num": 257441,
       "word": "文俊辉演技",
@@ -9171,6 +9235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 338537,
+      "num": 338537,
+      "word": "世界破破烂烂 小动物缝缝补补",
+      "onboard_time": 1690694614,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338282,
       "num": 273839,
       "word": "出票",
@@ -9217,6 +9289,14 @@
       "onboard_time": 1690416455,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335520,
+      "num": 227371,
+      "word": "大鹏 一直努力就会成功",
+      "onboard_time": 1690697794,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 334882,
@@ -9609,6 +9689,14 @@
       "onboard_time": 1690519660,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321119,
+      "num": 206905,
+      "word": "朝阳打歌中心",
+      "onboard_time": 1690695934,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 320668,
@@ -10579,6 +10667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283207,
+      "num": 160942,
+      "word": "孟子义鸟鸟救赎文学",
+      "onboard_time": 1690696471,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282785,
       "num": 282785,
       "word": "长相思格局远远不止于情爱",
@@ -10993,6 +11089,14 @@
       "onboard_time": 1690597354,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 265780,
+      "num": 160904,
+      "word": "封神质子团给费翔唱冬天里的一把火",
+      "onboard_time": 1690696113,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 265778,
@@ -12395,14 +12499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 212949,
-      "num": 157939,
-      "word": "建议内娱新人舞台按这个标准卷",
-      "onboard_time": 1690694855,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212927,
       "num": 212927,
       "word": "山东三支一扶",
@@ -12841,6 +12937,14 @@
       "onboard_time": 1690214972,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201750,
+      "num": 201750,
+      "word": "ChinaJoy",
+      "onboard_time": 1690697194,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 201636,
@@ -14123,6 +14227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160904,
+      "num": 160903,
+      "word": "台风卡努预计8月2日在浙江登陆",
+      "onboard_time": 1690697071,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160705,
       "num": 164441,
       "word": "英国歌手在马来西亚亲吻男性遭禁演",
@@ -14321,6 +14433,14 @@
       "onboard_time": 1690513900,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139819,
+      "num": 160914,
+      "word": "装正常人已经炉火纯青",
+      "onboard_time": 1690697011,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 139157,
@@ -14561,14 +14681,6 @@
       "onboard_time": 1690566979,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 118386,
-      "num": 157425,
-      "word": "世界破破烂烂 小动物缝缝补补",
-      "onboard_time": 1690694614,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 118294,
@@ -14865,14 +14977,6 @@
       "onboard_time": 1690537833,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93254,
-      "num": 156781,
-      "word": "专家称韩国超导是超导假象",
-      "onboard_time": 1690694555,
-      "rank": 49,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 91472,

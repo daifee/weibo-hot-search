@@ -1,0 +1,410 @@
+{
+  "runTime": 1690698012503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1597165,
+        "num": 1597165,
+        "word": "舒淇 多巴胺封神",
+        "onboard_time": 1690693712,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1142254,
+        "num": 1142254,
+        "word": "原来微信可以防拉黑",
+        "onboard_time": 1690678829,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61563,
+        "num": 939594,
+        "word": "会唱歌的石头见证中华千年礼乐文明",
+        "onboard_time": 1690685731,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1900318,
+        "num": 898678,
+        "word": "张大大曝杨颖带妆睡觉",
+        "onboard_time": 1690694133,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 829961,
+        "num": 829961,
+        "word": "王楚然 女将星",
+        "onboard_time": 1690674323,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 655480,
+        "num": 655480,
+        "word": "范丞丞官宣加盟现在就出发",
+        "onboard_time": 1690694614,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652403,
+        "num": 652403,
+        "word": "自驾进罗布泊车队失联者被找到已遇难",
+        "onboard_time": 1690693232,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643706,
+        "num": 643706,
+        "word": "白敬亭说自己内向",
+        "onboard_time": 1690696950,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630651,
+        "num": 630651,
+        "word": "考多少分才能入这席吃饭",
+        "onboard_time": 1690689869,
+        "rank": 8,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 394374,
+        "num": 554560,
+        "word": "专家称韩国超导是超导假象",
+        "onboard_time": 1690694555,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 710797,
+        "num": 549438,
+        "word": "53岁窦唯状态",
+        "onboard_time": 1690696294,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524818,
+        "num": 524818,
+        "word": "CardiB向泼饮料观众扔话筒",
+        "onboard_time": 1690689749,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469754,
+        "num": 469754,
+        "word": "鸟鸟七分钟让650颜面扫地",
+        "onboard_time": 1690697429,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451328,
+        "num": 451328,
+        "word": "上海一出租房mini窗户似射击孔",
+        "onboard_time": 1690695572,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415023,
+        "num": 415023,
+        "word": "免费请陌生人吃了三个甜甜圈之后",
+        "onboard_time": 1690685129,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 431614,
+        "num": 411035,
+        "word": "杨紫檀健次纪念胐胐",
+        "onboard_time": 1690692033,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403687,
+        "num": 403687,
+        "word": "建议内娱新人舞台按这个标准卷",
+        "onboard_time": 1690694855,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356246,
+        "num": 356246,
+        "word": "盛一伦回应演爹",
+        "onboard_time": 1690697251,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338537,
+        "num": 338537,
+        "word": "世界破破烂烂 小动物缝缝补补",
+        "onboard_time": 1690694614,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291536,
+        "num": 291536,
+        "word": "重庆2号线故障大爷砸玻璃换气",
+        "onboard_time": 1690686450,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857418,
+        "num": 286945,
+        "word": "男子肠道密密麻麻长满200多个息肉",
+        "onboard_time": 1690692688,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384968,
+        "num": 280213,
+        "word": "张晚意早期贴吧发言",
+        "onboard_time": 1690692033,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325662,
+        "num": 271196,
+        "word": "当一坨吸饱了水的云路过",
+        "onboard_time": 1690681529,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256067,
+        "num": 256067,
+        "word": "长得像人的鱼是什么鱼",
+        "onboard_time": 1690687950,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240135,
+        "num": 240135,
+        "word": "台风卡努正在增强",
+        "onboard_time": 1690675165,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343470,
+        "num": 237205,
+        "word": "KPOP纯韩语歌曲",
+        "onboard_time": 1690697251,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 335520,
+        "num": 227371,
+        "word": "大鹏 一直努力就会成功",
+        "onboard_time": 1690697794,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331447,
+        "num": 213784,
+        "word": "杨紫邓为小妈文学",
+        "onboard_time": 1690689090,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321119,
+        "num": 206905,
+        "word": "朝阳打歌中心",
+        "onboard_time": 1690695934,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201750,
+        "num": 201750,
+        "word": "ChinaJoy",
+        "onboard_time": 1690697194,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 704740,
+        "num": 200742,
+        "word": "成功从侵犯女孩到逼死女孩",
+        "onboard_time": 1690683030,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316095,
+        "num": 200616,
+        "word": "郊通发达",
+        "onboard_time": 1690689869,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198791,
+        "num": 198791,
+        "word": "路飞五档",
+        "onboard_time": 1690687468,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 183390,
+        "num": 183390,
+        "word": "卡努",
+        "onboard_time": 1690697611,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182992,
+        "num": 182992,
+        "word": "高校录取通知书竟藏着一碗牛肉面",
+        "onboard_time": 1690692211,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 302020,
+        "num": 180281,
+        "word": "张晚意的女装",
+        "onboard_time": 1690694014,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292693,
+        "num": 180141,
+        "word": "迪丽热巴蝴蝶编发",
+        "onboard_time": 1690693112,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 285093,
+        "num": 177639,
+        "word": "没认出来这是张钧甯",
+        "onboard_time": 1690690653,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175061,
+        "num": 175061,
+        "word": "北京提醒广大市民非必要不外出",
+        "onboard_time": 1690676307,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160952,
+        "num": 160952,
+        "word": "莫斯科空域暂时禁飞",
+        "onboard_time": 1690685973,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 283207,
+        "num": 160942,
+        "word": "孟子义鸟鸟救赎文学",
+        "onboard_time": 1690696471,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277279,
+        "num": 160938,
+        "word": "曾黎非遗胸针",
+        "onboard_time": 1690685552,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 273919,
+        "num": 160932,
+        "word": "封神",
+        "onboard_time": 1690678888,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139819,
+        "num": 160914,
+        "word": "装正常人已经炉火纯青",
+        "onboard_time": 1690697011,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265780,
+        "num": 160904,
+        "word": "封神质子团给费翔唱冬天里的一把火",
+        "onboard_time": 1690696113,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160904,
+        "num": 160903,
+        "word": "台风卡努预计8月2日在浙江登陆",
+        "onboard_time": 1690697071,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126247,
+        "num": 160644,
+        "word": "飞云",
+        "onboard_time": 1690683153,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113361,
+        "num": 159864,
+        "word": "做近视手术前要知道的7件事",
+        "onboard_time": 1690679310,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104485,
+        "num": 159139,
+        "word": "全县24个乡镇在一家打印店花174万",
+        "onboard_time": 1690674683,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95251,
+        "num": 157997,
+        "word": "女子往早餐店扔下一袋东西暖到店主",
+        "onboard_time": 1690681769,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动新时代治蜀兴川再上新台阶#"
+    }
+  }
+}
