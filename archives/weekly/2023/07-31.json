@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690758960764,
+  "endTime": 1690760021453,
   "band_list": [
     {
       "raw_hot": 1454070,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1343293,
-      "num": 342694,
+      "num": 354935,
       "word": "刘维登不上母亲微信发文求助",
       "onboard_time": 1690720535,
       "rank": 10,
@@ -27,23 +27,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1081908,
-      "num": 1081908,
-      "word": "湖南卫视在放旋风少女",
-      "onboard_time": 1690727252,
-      "rank": 3,
-      "category": "影视"
+      "raw_hot": 1103962,
+      "num": 1103962,
+      "word": "真实的缅北边境现状",
+      "onboard_time": 1690727135,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 1073953,
-      "num": 1073953,
-      "word": "把西瓜的水分全部蒸发后",
-      "onboard_time": 1690733490,
-      "rank": 45,
-      "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 1050117,
+      "raw_hot": 1093804,
       "num": 702762,
       "word": "日本学生害怕被AI取代而自杀",
       "onboard_time": 1690734927,
@@ -51,12 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 889012,
-      "num": 889012,
-      "word": "真实的缅北边境现状",
-      "onboard_time": 1690727135,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 1088172,
+      "num": 1073953,
+      "word": "把西瓜的水分全部蒸发后",
+      "onboard_time": 1690733490,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 1081908,
+      "num": 1081908,
+      "word": "湖南卫视在放旋风少女",
+      "onboard_time": 1690727252,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 737212,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 717324,
-      "num": 571473,
+      "num": 686678,
       "word": "5个症状提示体内有湿气",
       "onboard_time": 1690731813,
       "rank": 20,
@@ -131,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 547812,
+      "num": 344918,
+      "word": "李玟二姐首次露面回应礼服和遗产争议",
+      "onboard_time": 1690759404,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 526975,
       "num": 526975,
       "word": "杜苏芮",
@@ -155,6 +163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 472605,
+      "num": 472605,
+      "word": "电梯突然停运乘客原地停留20分钟",
+      "onboard_time": 1690754655,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447878,
       "num": 328654,
       "word": "费翔 妈妈严选",
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 430111,
-      "num": 308146,
+      "num": 334031,
       "word": "摧毁孩子的主体性的妈妈",
       "onboard_time": 1690734210,
       "rank": 37,
@@ -187,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383041,
-      "num": 383041,
-      "word": "电梯突然停运乘客原地停留20分钟",
-      "onboard_time": 1690754655,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376977,
       "num": 329669,
       "word": "白敬亭魏大勋刘昊然穿西装跳舞",
@@ -209,6 +217,14 @@
       "onboard_time": 1690729297,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355787,
+      "num": 355787,
+      "word": "台风卡努恰逢农历天文大潮",
+      "onboard_time": 1690756216,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355038,
@@ -251,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308895,
+      "num": 308895,
+      "word": "长相思才是我想看的女主视角剧",
+      "onboard_time": 1690742537,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306874,
       "num": 280383,
       "word": "花花真身比Q版还Q",
@@ -265,14 +289,6 @@
       "onboard_time": 1690729358,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 284935,
-      "num": 284935,
-      "word": "长相思才是我想看的女主视角剧",
-      "onboard_time": 1690742537,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 267704,
@@ -323,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246863,
+      "num": 158290,
+      "word": "成都串串店深夜坐满外国运动员",
+      "onboard_time": 1690758321,
+      "rank": 37,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 240877,
       "num": 337262,
       "word": "北京石景山京西大悦城门口塌陷",
@@ -339,12 +363,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223271,
+      "num": 223271,
+      "word": "内娱身材管理满分的明星",
+      "onboard_time": 1690739058,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218004,
       "num": 218004,
       "word": "台风卡努",
       "onboard_time": 1690721557,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207872,
+      "num": 207872,
+      "word": "七月最后一天",
+      "onboard_time": 1690759043,
+      "rank": 22,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 201421,
@@ -355,12 +395,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186796,
-      "num": 184055,
-      "word": "内娱身材管理满分的明星",
-      "onboard_time": 1690739058,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 191598,
+      "num": 158260,
+      "word": "覃海洋无缘MVP",
+      "onboard_time": 1690756275,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 185030,
@@ -369,14 +409,6 @@
       "onboard_time": 1690725395,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184799,
-      "num": 184799,
-      "word": "台风卡努恰逢农历天文大潮",
-      "onboard_time": 1690756216,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184558,
@@ -403,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173022,
+      "num": 173022,
+      "word": "涂山璟角色号没营业",
+      "onboard_time": 1690758864,
+      "rank": 48,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 167033,
       "num": 174588,
       "word": "男子肠道密密麻麻长满200多个息肉",
@@ -417,6 +457,14 @@
       "onboard_time": 1690730613,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162169,
+      "num": 157527,
+      "word": "易烊千玺边系扣子边下楼梯",
+      "onboard_time": 1690759344,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 156713,
@@ -441,6 +489,14 @@
       "onboard_time": 1690725216,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150786,
+      "num": 150786,
+      "word": "给雪糕明码标价的便利店",
+      "onboard_time": 1690755797,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 147846,
@@ -483,20 +539,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131772,
-      "num": 122413,
-      "word": "给雪糕明码标价的便利店",
-      "onboard_time": 1690755797,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 120952,
       "num": 173352,
       "word": "Elk 恐尺",
       "onboard_time": 1690719332,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116771,
+      "num": 116771,
+      "word": "暑期档男演员哭戏",
+      "onboard_time": 1690758680,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 115405,
@@ -507,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114437,
+      "num": 114437,
+      "word": "韩国人为什么不穿彩色衣服",
+      "onboard_time": 1690759945,
+      "rank": 42,
+      "category": "情感,时尚"
+    },
+    {
       "raw_hot": 114203,
       "num": 134051,
       "word": "北京房山一地突发山洪",
@@ -515,20 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112695,
-      "num": 112695,
-      "word": "覃海洋无缘MVP",
-      "onboard_time": 1690756275,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 99424,
+      "num": 99424,
+      "word": "张艺兴练习室对镜拍",
+      "onboard_time": 1690758561,
+      "rank": 45,
+      "category": "音乐"
     },
     {
-      "raw_hot": 99705,
-      "num": 99705,
-      "word": "成都串串店深夜坐满外国运动员",
-      "onboard_time": 1690758321,
-      "rank": 37,
-      "category": "体育,社会新闻"
+      "raw_hot": 97268,
+      "num": 97268,
+      "word": "吴昕蓝色挂脖裙",
+      "onboard_time": 1690759767,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 93223,
@@ -539,22 +603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89022,
-      "num": 89022,
-      "word": "暑期档男演员哭戏",
-      "onboard_time": 1690758680,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 70160,
-      "num": 70160,
-      "word": "张艺兴练习室对镜拍",
-      "onboard_time": 1690758561,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 66997,
       "num": 81112,
       "word": "一P图我的手机就特别烫",
@@ -563,15 +611,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 65417,
-      "num": 65417,
-      "word": "涂山璟角色号没营业",
-      "onboard_time": 1690758864,
-      "rank": 48,
-      "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 46686,
+      "raw_hot": 51339,
       "num": 722437,
       "word": "在大运村和外国运动员一起耍非遗",
       "onboard_time": 1690722814,
