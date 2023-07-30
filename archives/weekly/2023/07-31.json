@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690734893817,
+  "endTime": 1690737212137,
   "band_list": [
     {
       "raw_hot": 1454070,
@@ -35,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 809971,
+      "num": 449323,
+      "word": "日本学生害怕被AI取代而自杀",
+      "onboard_time": 1690734927,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 737212,
       "num": 341585,
       "word": "王诗龄的画vs黄多多的画",
@@ -65,6 +73,14 @@
       "onboard_time": 1690726416,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 670504,
+      "num": 302590,
+      "word": "把西瓜的水分全部蒸发后",
+      "onboard_time": 1690733490,
+      "rank": 45,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 660809,
@@ -139,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430111,
+      "num": 300605,
+      "word": "摧毁孩子的主体性的妈妈",
+      "onboard_time": 1690734210,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410421,
       "num": 339966,
       "word": "王刚 我对我和全队表现感到耻辱",
@@ -179,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354871,
-      "num": 259336,
-      "word": "把西瓜的水分全部蒸发后",
-      "onboard_time": 1690733490,
-      "rank": 45,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 343485,
       "num": 338469,
       "word": "熊猫有时候真的人里人气",
@@ -219,19 +235,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 306874,
+      "num": 280383,
+      "word": "花花真身比Q版还Q",
+      "onboard_time": 1690733311,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299729,
       "num": 259441,
       "word": "这年头连动物都有平替了",
       "onboard_time": 1690729358,
       "rank": 28,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 280383,
-      "num": 280383,
-      "word": "花花真身比Q版还Q",
-      "onboard_time": 1690733311,
-      "rank": 37,
       "category": "幽默"
     },
     {
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 234342,
-      "num": 144030,
+      "num": 173122,
       "word": "因为是张新成所以脏可以心诚",
       "onboard_time": 1690729595,
       "rank": 40,
@@ -307,11 +323,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201421,
+      "num": 175915,
+      "word": "长相思",
+      "onboard_time": 1690714953,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185030,
       "num": 143465,
       "word": "热烈票房",
       "onboard_time": 1690725395,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184558,
+      "num": 175489,
+      "word": "芭比角色十二星座",
+      "onboard_time": 1690734986,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -332,18 +364,10 @@
     },
     {
       "raw_hot": 167033,
-      "num": 167033,
+      "num": 174588,
       "word": "男子肠道密密麻麻长满200多个息肉",
       "onboard_time": 1690692688,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164295,
-      "num": 164295,
-      "word": "摧毁孩子的主体性的妈妈",
-      "onboard_time": 1690734210,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -371,8 +395,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148890,
+      "num": 175353,
+      "word": "蔡依林说日不落是她最红的舞曲",
+      "onboard_time": 1690735646,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147846,
-      "num": 147846,
+      "num": 172930,
       "word": "保定暴雨",
       "onboard_time": 1690722157,
       "rank": 38,
@@ -380,7 +412,7 @@
     },
     {
       "raw_hot": 142820,
-      "num": 142820,
+      "num": 173503,
       "word": "周迅强忍着没翻白眼",
       "onboard_time": 1690715854,
       "rank": 42,
@@ -395,8 +427,24 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135292,
+      "num": 175165,
+      "word": "外地人被内蒙物价整懵了",
+      "onboard_time": 1690735886,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 125730,
+      "num": 173989,
+      "word": "斗破苍穹彩鳞女主",
+      "onboard_time": 1690736302,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120952,
-      "num": 138201,
+      "num": 173352,
       "word": "Elk 恐尺",
       "onboard_time": 1690719332,
       "rank": 47,
