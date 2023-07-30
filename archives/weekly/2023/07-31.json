@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690748167403,
+  "endTime": 1690749223840,
   "band_list": [
     {
       "raw_hot": 1454070,
@@ -515,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25049,
+      "num": 24436,
+      "word": "元仲辛 我们成亲吧",
+      "onboard_time": 1690747453,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 23142,
       "num": 31191,
       "word": "相柳宝宝蛇",
@@ -529,14 +537,6 @@
       "onboard_time": 1690722814,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20861,
-      "num": 20861,
-      "word": "元仲辛 我们成亲吧",
-      "onboard_time": 1690747453,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 14755,
