@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690684245180,
+  "endTime": 1690684821743,
   "band_list": [
     {
       "raw_hot": 2642952,
@@ -27,6 +27,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1976996,
+      "num": 1561549,
+      "word": "成功从侵犯女孩到逼死女孩",
+      "onboard_time": 1690683030,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1769832,
       "num": 1769832,
       "word": "姬发",
@@ -41,14 +49,6 @@
       "onboard_time": 1690673001,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1561549,
-      "num": 1561549,
-      "word": "成功从侵犯女孩到逼死女孩",
-      "onboard_time": 1690683030,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1341428,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 950311,
-      "num": 846990,
+      "num": 858478,
       "word": "管泽元曝英雄联盟解说员薪资状况",
       "onboard_time": 1690679669,
       "rank": 30,
@@ -179,8 +179,16 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 746512,
+      "num": 746512,
+      "word": "当一坨吸饱了水的云路过",
+      "onboard_time": 1690681529,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 695416,
-      "num": 695416,
+      "num": 746889,
       "word": "台风卡努正在增强",
       "onboard_time": 1690675165,
       "rank": 11,
@@ -193,14 +201,6 @@
       "onboard_time": 1690660993,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 678571,
-      "num": 678571,
-      "word": "当一坨吸饱了水的云路过",
-      "onboard_time": 1690681529,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 614146,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589305,
+      "num": 763566,
+      "word": "飞云",
+      "onboard_time": 1690683153,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554001,
       "num": 554001,
       "word": "趵突泉水位一夜猛涨9厘米",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 544512,
-      "num": 367099,
+      "num": 416258,
       "word": "8岁摄影师拍的杨紫",
       "onboard_time": 1690679849,
       "rank": 37,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 510454,
-      "num": 361687,
+      "num": 416110,
       "word": "做近视手术前要知道的7件事",
       "onboard_time": 1690679310,
       "rank": 31,
@@ -331,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 434427,
+      "num": 414043,
+      "word": "米芒被家暴后反杀老公",
+      "onboard_time": 1690682970,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 433680,
       "num": 433680,
       "word": "张杰演唱会上表白何炅",
@@ -347,12 +363,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 432360,
-      "num": 361411,
-      "word": "米芒被家暴后反杀老公",
-      "onboard_time": 1690682970,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 424465,
+      "num": 424465,
+      "word": "TFBOYS黑白水墨大片",
+      "onboard_time": 1690684051,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 422021,
@@ -371,11 +387,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412427,
+      "num": 412427,
+      "word": "檀健次邓为长相思情头",
+      "onboard_time": 1690683571,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399640,
       "num": 399640,
       "word": "衙内换人",
       "onboard_time": 1690641814,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 375039,
+      "num": 375039,
+      "word": "成龙老舅合唱野狼disco",
+      "onboard_time": 1690684169,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -411,14 +443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 355164,
-      "num": 355164,
-      "word": "飞云",
-      "onboard_time": 1690683153,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352871,
       "num": 306417,
       "word": "杨洋王楚然魏大勋破好6播放量记录",
@@ -427,12 +451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346894,
+      "num": 346894,
+      "word": "涂山璟为什么爱上小夭",
+      "onboard_time": 1690683691,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339792,
       "num": 339792,
       "word": "毛不易醉酒给单依纯打电话",
       "onboard_time": 1690641216,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324573,
+      "num": 324573,
+      "word": "起猛了看见黄渤王一博battle了",
+      "onboard_time": 1690684111,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 316379,
@@ -448,14 +488,6 @@
       "word": "长相思",
       "onboard_time": 1690632693,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 314245,
-      "num": 278246,
-      "word": "檀健次邓为长相思情头",
-      "onboard_time": 1690683571,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -507,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 286795,
+      "num": 286795,
+      "word": "女子往早餐店扔下一袋东西暖到店主",
+      "onboard_time": 1690681769,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286407,
       "num": 208386,
       "word": "龚俊跳要你管",
@@ -545,14 +585,6 @@
       "onboard_time": 1690642837,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 281632,
-      "num": 281632,
-      "word": "女子往早餐店扔下一袋东西暖到店主",
-      "onboard_time": 1690681769,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278288,
@@ -611,14 +643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243949,
-      "num": 243949,
-      "word": "涂山璟为什么爱上小夭",
-      "onboard_time": 1690683691,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 242320,
       "num": 242320,
       "word": "瞿颖素颜突袭胡兵直播间",
@@ -651,20 +675,20 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 230141,
+      "num": 230141,
+      "word": "大运会",
+      "onboard_time": 1690684291,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229907,
       "num": 188846,
       "word": "内娱男明星的证件照",
       "onboard_time": 1690637498,
       "rank": 43,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 229389,
-      "num": 229389,
-      "word": "TFBOYS黑白水墨大片",
-      "onboard_time": 1690684051,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 226924,
@@ -691,22 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215112,
-      "num": 215112,
-      "word": "成龙老舅合唱野狼disco",
-      "onboard_time": 1690684169,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 213711,
-      "num": 213711,
-      "word": "起猛了看见黄渤王一博battle了",
-      "onboard_time": 1690684111,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203808,
       "num": 203808,
       "word": "爱乔婉娩的是李相夷不是李莲花",
@@ -721,6 +729,14 @@
       "onboard_time": 1690654697,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196817,
+      "num": 196817,
+      "word": "王一博陈烁演技",
+      "onboard_time": 1690683990,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 196100,
@@ -747,20 +763,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189275,
+      "num": 189275,
+      "word": "京津冀部分地区特大暴雨",
+      "onboard_time": 1690682549,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188886,
       "num": 188886,
       "word": "镇魂街3开播",
       "onboard_time": 1690644634,
       "rank": 37,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 180108,
-      "num": 180108,
-      "word": "京津冀部分地区特大暴雨",
-      "onboard_time": 1690682549,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178782,
@@ -779,20 +795,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170647,
+      "num": 170647,
+      "word": "谁能演女将星",
+      "onboard_time": 1690684770,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168460,
       "num": 168460,
       "word": "TangoZ粉丝音乐节举美肚杀表情包",
       "onboard_time": 1690677569,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 168340,
-      "num": 168340,
-      "word": "王一博陈烁演技",
-      "onboard_time": 1690683990,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 166536,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1690684821743,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2606356,
+        "num": 2606356,
+        "word": "原来微信可以防拉黑",
+        "onboard_time": 1690678829,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1994407,
+        "num": 1994407,
+        "word": "毛不易演唱会取消",
+        "onboard_time": 1690682249,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95096,
+        "num": 1947922,
+        "word": "成都大运会的中国式浪漫",
+        "onboard_time": 1690638696,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1912860,
+        "num": 1912860,
+        "word": "王楚然 女将星",
+        "onboard_time": 1690674323,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 945220,
+        "num": 945220,
+        "word": "陈赫带张子萱去鹿晗演唱会",
+        "onboard_time": 1690673001,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 858478,
+        "num": 858478,
+        "word": "管泽元曝英雄联盟解说员薪资状况",
+        "onboard_time": 1690679669,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 834039,
+        "num": 834039,
+        "word": "姬发",
+        "onboard_time": 1690644514,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639050,
+        "num": 789787,
+        "word": "非洲媳妇带丽水丈夫回娘家",
+        "onboard_time": 1690671736,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589305,
+        "num": 763566,
+        "word": "飞云",
+        "onboard_time": 1690683153,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567891,
+        "num": 746889,
+        "word": "台风卡努正在增强",
+        "onboard_time": 1690675165,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746512,
+        "num": 746512,
+        "word": "当一坨吸饱了水的云路过",
+        "onboard_time": 1690681529,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 571331,
+        "num": 571331,
+        "word": "李斯丹妮高瀚宇在拍恋综吗",
+        "onboard_time": 1690678169,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562085,
+        "num": 562085,
+        "word": "Ella问孟美岐四年前和现在有什么不同",
+        "onboard_time": 1690674864,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537608,
+        "num": 537608,
+        "word": "趵突泉水位一夜猛涨9厘米",
+        "onboard_time": 1690680092,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 442386,
+        "num": 442386,
+        "word": "女孩一觉睡醒身上盖着军被",
+        "onboard_time": 1690674323,
+        "rank": 14,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 436668,
+        "num": 436668,
+        "word": "主持人涂磊被证清白后发声",
+        "onboard_time": 1690676848,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1976996,
+        "num": 436510,
+        "word": "成功从侵犯女孩到逼死女孩",
+        "onboard_time": 1690683030,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424465,
+        "num": 424465,
+        "word": "TFBOYS黑白水墨大片",
+        "onboard_time": 1690684051,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 416728,
+        "num": 416728,
+        "word": "全县24个乡镇在一家打印店花174万",
+        "onboard_time": 1690674683,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416511,
+        "num": 416511,
+        "word": "TFBOYS十周年演唱会门票实物",
+        "onboard_time": 1690677508,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 543201,
+        "num": 416258,
+        "word": "8岁摄影师拍的杨紫",
+        "onboard_time": 1690679849,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 441300,
+        "num": 416110,
+        "word": "做近视手术前要知道的7件事",
+        "onboard_time": 1690679310,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415362,
+        "num": 415362,
+        "word": "纪委通报一县在官员子女打印店花174万",
+        "onboard_time": 1690677807,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434427,
+        "num": 414043,
+        "word": "米芒被家暴后反杀老公",
+        "onboard_time": 1690682970,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412427,
+        "num": 412427,
+        "word": "檀健次邓为长相思情头",
+        "onboard_time": 1690683571,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375039,
+        "num": 375039,
+        "word": "成龙老舅合唱野狼disco",
+        "onboard_time": 1690684169,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346894,
+        "num": 346894,
+        "word": "涂山璟为什么爱上小夭",
+        "onboard_time": 1690683691,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328451,
+        "num": 328451,
+        "word": "北京提醒广大市民非必要不外出",
+        "onboard_time": 1690676307,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324573,
+        "num": 324573,
+        "word": "起猛了看见黄渤王一博battle了",
+        "onboard_time": 1690684111,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286795,
+        "num": 286795,
+        "word": "女子往早餐店扔下一袋东西暖到店主",
+        "onboard_time": 1690681769,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278930,
+        "num": 278930,
+        "word": "玱玹评论张晚意",
+        "onboard_time": 1690676547,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259837,
+        "num": 259837,
+        "word": "BLACKPINK跳叮叮当当",
+        "onboard_time": 1690679069,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245772,
+        "num": 245772,
+        "word": "84平米的出租屋住了17人",
+        "onboard_time": 1690671736,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 230141,
+        "num": 230141,
+        "word": "大运会",
+        "onboard_time": 1690684291,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218386,
+        "num": 218386,
+        "word": "封神",
+        "onboard_time": 1690678888,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207515,
+        "num": 207515,
+        "word": "泉州暴雨店主称珠宝被积水冲光",
+        "onboard_time": 1690671736,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202198,
+        "num": 202198,
+        "word": "爱乔婉娩的是李相夷不是李莲花",
+        "onboard_time": 1690681411,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196817,
+        "num": 196817,
+        "word": "王一博陈烁演技",
+        "onboard_time": 1690683990,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189275,
+        "num": 189275,
+        "word": "京津冀部分地区特大暴雨",
+        "onboard_time": 1690682549,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175040,
+        "num": 175040,
+        "word": "官方回应大量救灾物资被弃山沟",
+        "onboard_time": 1690675945,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180503,
+        "num": 173482,
+        "word": "此沙杨戬",
+        "onboard_time": 1690678648,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176517,
+        "num": 173259,
+        "word": "朴宝英 虽没菜",
+        "onboard_time": 1690675465,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171547,
+        "num": 171547,
+        "word": "相柳穷大方",
+        "onboard_time": 1690676608,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170647,
+        "num": 170647,
+        "word": "谁能演女将星",
+        "onboard_time": 1690684770,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168085,
+        "num": 168085,
+        "word": "从没见过把进货价告诉买家的老板",
+        "onboard_time": 1690680812,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162043,
+        "num": 162043,
+        "word": "大宋少年志2 抠图感",
+        "onboard_time": 1690647451,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151193,
+        "num": 151193,
+        "word": "水是还没发现自己该结冰了吗",
+        "onboard_time": 1690650864,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144590,
+        "num": 144590,
+        "word": "小狗好像以为结婚就是离开",
+        "onboard_time": 1690640617,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141330,
+        "num": 141330,
+        "word": "北京大雨",
+        "onboard_time": 1690663934,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131004,
+        "num": 131004,
+        "word": "暴雨红色预警继续发布",
+        "onboard_time": 1690679069,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国顶级实验室有多牛#"
+    }
+  }
+}
