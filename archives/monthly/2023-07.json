@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690720238619,
+  "endTime": 1690721127122,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2876,7 +2876,7 @@
     },
     {
       "raw_hot": 2116937,
-      "num": 606224,
+      "num": 644322,
       "word": "张晚意闲鱼买东西被人认出来",
       "onboard_time": 1690712373,
       "rank": 13,
@@ -3700,7 +3700,7 @@
     },
     {
       "raw_hot": 1901631,
-      "num": 595304,
+      "num": 644103,
       "word": "王诗龄的画vs黄多多的画",
       "onboard_time": 1690710454,
       "rank": 11,
@@ -5059,6 +5059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1631732,
+      "num": 1631732,
+      "word": "小夭主动亲了涂山璟",
+      "onboard_time": 1690716511,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1630521,
       "num": 627674,
       "word": "沈涛官宣得子",
@@ -5753,14 +5761,6 @@
       "onboard_time": 1689227430,
       "rank": 5,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 1518571,
-      "num": 1518571,
-      "word": "小夭主动亲了涂山璟",
-      "onboard_time": 1690716511,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 1518248,
@@ -7659,6 +7659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1261055,
+      "num": 1261055,
+      "word": "孙杨的世界纪录还在",
+      "onboard_time": 1690718135,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1260763,
       "num": 1260763,
       "word": "中餐厅7变了",
@@ -7827,14 +7835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1239104,
-      "num": 1239104,
-      "word": "孙杨的世界纪录还在",
-      "onboard_time": 1690718135,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1238213,
       "num": 499577,
       "word": "代拍三年前就拍魏大勋",
@@ -7953,6 +7953,14 @@
       "onboard_time": 1688446307,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1225475,
+      "num": 1225475,
+      "word": "精诚矿业瞒报死亡矿工43人",
+      "onboard_time": 1690717354,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1225462,
@@ -8939,6 +8947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1137915,
+      "num": 1137915,
+      "word": "封神票房",
+      "onboard_time": 1690004494,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1137382,
       "num": 279843,
       "word": "dirty talk",
@@ -9412,7 +9428,7 @@
     },
     {
       "raw_hot": 1104708,
-      "num": 588616,
+      "num": 643924,
       "word": "内娱不会因演技脱粉的演员",
       "onboard_time": 1690711951,
       "rank": 41,
@@ -9995,14 +10011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1062544,
-      "num": 1062544,
-      "word": "精诚矿业瞒报死亡矿工43人",
-      "onboard_time": 1690717354,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1062385,
       "num": 1062385,
       "word": "中国女排vs土耳其女排",
@@ -10316,7 +10324,7 @@
     },
     {
       "raw_hot": 1043663,
-      "num": 415494,
+      "num": 441199,
       "word": "女子遇害被埋尸山间石缝",
       "onboard_time": 1690712792,
       "rank": 32,
@@ -11500,7 +11508,7 @@
     },
     {
       "raw_hot": 973687,
-      "num": 358150,
+      "num": 369916,
       "word": "男子肠道密密麻麻长满200多个息肉",
       "onboard_time": 1690692688,
       "rank": 20,
@@ -13137,6 +13145,14 @@
       "onboard_time": 1689828820,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 890687,
+      "num": 644013,
+      "word": "刘维登不上母亲微信发文求助",
+      "onboard_time": 1690720535,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 890429,
@@ -17395,14 +17411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 733817,
-      "num": 613347,
-      "word": "封神票房",
-      "onboard_time": 1690004494,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 733532,
       "num": 733532,
       "word": "染发后竟然变成了光头",
@@ -19795,6 +19803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 665578,
+      "num": 643631,
+      "word": "王俊凯到北京了",
+      "onboard_time": 1690718495,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 665549,
       "num": 665549,
       "word": "苏醒 尊重各自工作和身份",
@@ -20723,14 +20739,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 645645,
-      "num": 580609,
-      "word": "王俊凯到北京了",
-      "onboard_time": 1690718495,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 645052,
       "num": 645052,
       "word": "刘耀文 张艺谋电影",
@@ -20833,6 +20841,14 @@
       "onboard_time": 1689825336,
       "rank": 21,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 643551,
+      "num": 643551,
+      "word": "周迅强忍着没翻白眼",
+      "onboard_time": 1690715854,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 643522,
@@ -23009,14 +23025,6 @@
       "onboard_time": 1689304832,
       "rank": 21,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 594292,
-      "num": 542493,
-      "word": "周迅强忍着没翻白眼",
-      "onboard_time": 1690715854,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 594066,
@@ -26867,6 +26875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 515490,
+      "num": 483931,
+      "word": "涂山璟躺下了",
+      "onboard_time": 1690715672,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 515427,
       "num": 515427,
       "word": "九尾狐设计",
@@ -27633,6 +27649,14 @@
       "onboard_time": 1688620066,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 502361,
+      "num": 502361,
+      "word": "张雨霏50米自由泳铜牌",
+      "onboard_time": 1690719574,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 502160,
@@ -28857,14 +28881,6 @@
       "onboard_time": 1689504031,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 483931,
-      "num": 483931,
-      "word": "涂山璟躺下了",
-      "onboard_time": 1690715672,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 483920,
@@ -30473,6 +30489,14 @@
       "onboard_time": 1688684843,
       "rank": 21,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 457763,
+      "num": 457763,
+      "word": "Elk 恐尺",
+      "onboard_time": 1690719332,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 457677,
@@ -34379,6 +34403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408282,
+      "num": 429517,
+      "word": "凡人修仙传",
+      "onboard_time": 1689769536,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 408255,
+      "num": 408255,
+      "word": "现在就出发",
+      "onboard_time": 1689740012,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407963,
       "num": 356122,
       "word": "封神妲己为两分钟舞蹈练了两年",
@@ -36915,6 +36955,14 @@
       "category": "美食,时尚"
     },
     {
+      "raw_hot": 378181,
+      "num": 378181,
+      "word": "小夭涂山璟许15年之约",
+      "onboard_time": 1690719273,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378125,
       "num": 378125,
       "word": "因为长安三万里李白墓前摆满了美酒",
@@ -38483,6 +38531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360392,
+      "num": 360392,
+      "word": "电影封神第二部抢先看",
+      "onboard_time": 1690717893,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360378,
       "num": 315241,
       "word": "女团成员听到划水的反应",
@@ -38561,14 +38617,6 @@
       "onboard_time": 1689647972,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 360009,
-      "num": 360009,
-      "word": "电影封神第二部抢先看",
-      "onboard_time": 1690717893,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 359862,
@@ -38849,14 +38897,6 @@
       "onboard_time": 1689917313,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 356808,
-      "num": 356808,
-      "word": "张雨霏50米自由泳铜牌",
-      "onboard_time": 1690719574,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 356734,
@@ -39169,14 +39209,6 @@
       "onboard_time": 1689500192,
       "rank": 21,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 353787,
-      "num": 353787,
-      "word": "现在就出发",
-      "onboard_time": 1689740012,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 353532,
@@ -39513,14 +39545,6 @@
       "onboard_time": 1689754415,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 350260,
-      "num": 429517,
-      "word": "凡人修仙传",
-      "onboard_time": 1689769536,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 350168,
@@ -40201,6 +40225,14 @@
       "onboard_time": 1689944319,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341892,
+      "num": 341892,
+      "word": "中国队男子混合泳接力摘银",
+      "onboard_time": 1690720834,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 341849,
@@ -43969,14 +44001,6 @@
       "onboard_time": 1689052356,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305862,
-      "num": 305862,
-      "word": "Elk 恐尺",
-      "onboard_time": 1690719332,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 305850,
@@ -58907,6 +58931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202649,
+      "num": 202649,
+      "word": "眼睛好会爱人的角色",
+      "onboard_time": 1690720593,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202635,
       "num": 202635,
       "word": "跟邻居关系不好 让孩子去学爵士鼓吧",
@@ -65075,6 +65107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164839,
+      "num": 164839,
+      "word": "Hero战胜KSG",
+      "onboard_time": 1690720412,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164833,
       "num": 213009,
       "word": "老板电器股东李天责出道",
@@ -66432,6 +66472,14 @@
       "word": "停云歪头杀",
       "onboard_time": 1689750449,
       "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 147224,
+      "num": 643688,
+      "word": "以闪亮之名首曝动态染色",
+      "onboard_time": 1690718431,
+      "rank": 14,
       "category": "游戏"
     },
     {
@@ -69865,14 +69913,6 @@
       "onboard_time": 1690362885,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73557,
-      "num": 569647,
-      "word": "以闪亮之名首曝动态染色",
-      "onboard_time": 1690718431,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 73118,
