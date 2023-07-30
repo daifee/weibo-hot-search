@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690698831178,
+  "endTime": 1690701258286,
   "band_list": [
     {
       "raw_hot": 2642952,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1900318,
-      "num": 1124635,
+      "num": 1289989,
       "word": "张大大曝杨颖带妆睡觉",
       "onboard_time": 1690694133,
       "rank": 3,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1398264,
+      "num": 1398264,
+      "word": "鸟鸟七分钟让650颜面扫地",
+      "onboard_time": 1690697429,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1341428,
       "num": 1341428,
       "word": "小狗好像以为结婚就是离开",
@@ -97,6 +105,14 @@
       "onboard_time": 1690690653,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1038661,
+      "num": 1038661,
+      "word": "上海一出租房mini窗户似射击孔",
+      "onboard_time": 1690695572,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1034092,
@@ -219,6 +235,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 838352,
+      "num": 838352,
+      "word": "毛球 胐胐",
+      "onboard_time": 1690698209,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 815368,
       "num": 609949,
       "word": "警方通报主持人涂磊被指性侵",
@@ -232,14 +256,6 @@
       "word": "白敬亭说自己内向",
       "onboard_time": 1690696950,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 802622,
-      "num": 802622,
-      "word": "鸟鸟七分钟让650颜面扫地",
-      "onboard_time": 1690697429,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -339,12 +355,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 687797,
-      "num": 687797,
-      "word": "上海一出租房mini窗户似射击孔",
-      "onboard_time": 1690695572,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 685296,
+      "num": 378968,
+      "word": "王传君说看江疏影毕业像嫁女儿",
+      "onboard_time": 1690699228,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 677022,
@@ -352,14 +368,6 @@
       "word": "谁能演女将星",
       "onboard_time": 1690684770,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 661161,
-      "num": 539724,
-      "word": "毛球 胐胐",
-      "onboard_time": 1690698209,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -595,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 437931,
+      "num": 214195,
+      "word": "内娱极品仙男",
+      "onboard_time": 1690700431,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434427,
       "num": 414043,
       "word": "米芒被家暴后反杀老公",
@@ -675,12 +691,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384776,
+      "num": 339862,
+      "word": "KPOP纯韩语歌曲",
+      "onboard_time": 1690697251,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 383811,
       "num": 211786,
       "word": "李雪琴说桃花坞有可以放心耍赖的人",
       "onboard_time": 1690694193,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379912,
+      "num": 379912,
+      "word": "卡努",
+      "onboard_time": 1690697611,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375039,
@@ -747,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354480,
+      "num": 261727,
+      "word": "台风卡努预计8月2日在浙江登陆",
+      "onboard_time": 1690697071,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352871,
       "num": 306417,
       "word": "杨洋王楚然魏大勋破好6播放量记录",
@@ -755,19 +795,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351759,
-      "num": 262250,
-      "word": "KPOP纯韩语歌曲",
-      "onboard_time": 1690697251,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 339792,
       "num": 339792,
       "word": "毛不易醉酒给单依纯打电话",
       "onboard_time": 1690641216,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 331560,
+      "num": 210530,
+      "word": "谢娜把自己笑吐了",
+      "onboard_time": 1690700249,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -907,6 +947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281157,
+      "num": 206128,
+      "word": "欢瑞世纪新生官宣",
+      "onboard_time": 1690701029,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278288,
       "num": 188864,
       "word": "伯邑考温润如玉",
@@ -971,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247862,
+      "num": 204688,
+      "word": "成毅56秒一镜到底哭戏",
+      "onboard_time": 1690700850,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247347,
       "num": 247347,
       "word": "水是还没发现自己该结冰了吗",
@@ -987,12 +1043,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244883,
-      "num": 261727,
-      "word": "台风卡努预计8月2日在浙江登陆",
-      "onboard_time": 1690697071,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 245670,
+      "num": 202913,
+      "word": "长相思目前进度",
+      "onboard_time": 1690700850,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 242320,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1690637498,
       "rank": 43,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 229739,
+      "num": 202239,
+      "word": "芭比电影",
+      "onboard_time": 1690698751,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 227322,
@@ -1187,14 +1251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192205,
-      "num": 254255,
-      "word": "卡努",
-      "onboard_time": 1690697611,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192143,
       "num": 192143,
       "word": "现在就出发",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1690644634,
       "rank": 37,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 188006,
+      "num": 227220,
+      "word": "装正常人已经炉火纯青",
+      "onboard_time": 1690697011,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 178782,
@@ -1283,12 +1347,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139819,
-      "num": 227220,
-      "word": "装正常人已经炉火纯青",
-      "onboard_time": 1690697011,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 138645,
+      "num": 195724,
+      "word": "洪水中托举小女孩辅警获记个人一等奖",
+      "onboard_time": 1690699590,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138388,

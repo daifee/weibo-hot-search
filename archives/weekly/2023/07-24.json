@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690698831178,
+  "endTime": 1690701258286,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -788,7 +788,7 @@
     },
     {
       "raw_hot": 1900318,
-      "num": 1124635,
+      "num": 1289989,
       "word": "张大大曝杨颖带妆睡觉",
       "onboard_time": 1690694133,
       "rank": 3,
@@ -1496,6 +1496,14 @@
       "word": "王栎鑫是娱乐圈大漏勺吧",
       "onboard_time": 1690451674,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1398264,
+      "num": 1398264,
+      "word": "鸟鸟七分钟让650颜面扫地",
+      "onboard_time": 1690697429,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -2377,6 +2385,14 @@
       "onboard_time": 1690364925,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1038661,
+      "num": 1038661,
+      "word": "上海一出租房mini窗户似射击孔",
+      "onboard_time": 1690695572,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1037644,
@@ -3331,6 +3347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 838352,
+      "num": 838352,
+      "word": "毛球 胐胐",
+      "onboard_time": 1690698209,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 838320,
       "num": 838320,
       "word": "种地吧",
@@ -3545,14 +3569,6 @@
       "onboard_time": 1690499003,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 802622,
-      "num": 802622,
-      "word": "鸟鸟七分钟让650颜面扫地",
-      "onboard_time": 1690697429,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 802317,
@@ -4443,14 +4459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 687797,
-      "num": 687797,
-      "word": "上海一出租房mini窗户似射击孔",
-      "onboard_time": 1690695572,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 687201,
       "num": 687201,
       "word": "绿豆汤变红",
@@ -4465,6 +4473,14 @@
       "onboard_time": 1690446214,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685296,
+      "num": 378968,
+      "word": "王传君说看江疏影毕业像嫁女儿",
+      "onboard_time": 1690699228,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 685209,
@@ -4697,14 +4713,6 @@
       "onboard_time": 1690558832,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 661161,
-      "num": 539724,
-      "word": "毛球 胐胐",
-      "onboard_time": 1690698209,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 660842,
@@ -7459,6 +7467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 437931,
+      "num": 214195,
+      "word": "内娱极品仙男",
+      "onboard_time": 1690700431,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 437339,
       "num": 401418,
       "word": "肖战龚俊成毅任嘉伦杨洋都有剧在播",
@@ -8371,6 +8387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 384776,
+      "num": 339862,
+      "word": "KPOP纯韩语歌曲",
+      "onboard_time": 1690697251,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 384584,
       "num": 296910,
       "word": "草茉莉",
@@ -8931,6 +8955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354480,
+      "num": 261727,
+      "word": "台风卡努预计8月2日在浙江登陆",
+      "onboard_time": 1690697071,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354239,
       "num": 354239,
       "word": "Twins上海合体",
@@ -8993,14 +9025,6 @@
       "onboard_time": 1690358313,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 351759,
-      "num": 262250,
-      "word": "KPOP纯韩语歌曲",
-      "onboard_time": 1690697251,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 351674,
@@ -9393,6 +9417,14 @@
       "onboard_time": 1690515998,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331560,
+      "num": 210530,
+      "word": "谢娜把自己笑吐了",
+      "onboard_time": 1690700249,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 331558,
@@ -10723,6 +10755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281157,
+      "num": 206128,
+      "word": "欢瑞世纪新生官宣",
+      "onboard_time": 1690701029,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280872,
       "num": 280872,
       "word": "男子高温街头边秀腹肌边送水",
@@ -11531,6 +11571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247862,
+      "num": 204688,
+      "word": "成毅56秒一镜到底哭戏",
+      "onboard_time": 1690700850,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247347,
       "num": 247347,
       "word": "水是还没发现自己该结冰了吗",
@@ -11595,6 +11643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245670,
+      "num": 202913,
+      "word": "长相思目前进度",
+      "onboard_time": 1690700850,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245492,
       "num": 245492,
       "word": "何炅告别向往的生活",
@@ -11617,14 +11673,6 @@
       "onboard_time": 1690485554,
       "rank": 49,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 244883,
-      "num": 261727,
-      "word": "台风卡努预计8月2日在浙江登陆",
-      "onboard_time": 1690697071,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244878,
@@ -12089,6 +12137,14 @@
       "onboard_time": 1690471480,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229739,
+      "num": 202239,
+      "word": "芭比电影",
+      "onboard_time": 1690698751,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 229668,
@@ -13619,6 +13675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188006,
+      "num": 227220,
+      "word": "装正常人已经炉火纯青",
+      "onboard_time": 1690697011,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187954,
       "num": 187954,
       "word": "高文明考试被疑作弊",
@@ -14451,19 +14515,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139819,
-      "num": 227220,
-      "word": "装正常人已经炉火纯青",
-      "onboard_time": 1690697011,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 139157,
       "num": 349139,
       "word": "下一辆15万级新能源爆款",
       "onboard_time": 1690511139,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138645,
+      "num": 195724,
+      "word": "洪水中托举小女孩辅警获记个人一等奖",
+      "onboard_time": 1690699590,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
