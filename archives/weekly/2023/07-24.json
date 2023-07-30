@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690698012503,
+  "endTime": 1690698831178,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -1115,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1651275,
+      "num": 1651275,
+      "word": "舒淇 多巴胺封神",
+      "onboard_time": 1690693712,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1645594,
       "num": 1115609,
       "word": "张睿红牌",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1690460195,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1597165,
-      "num": 1597165,
-      "word": "舒淇 多巴胺封神",
-      "onboard_time": 1690693712,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 1595813,
@@ -3531,12 +3531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804482,
+      "num": 804482,
+      "word": "白敬亭说自己内向",
+      "onboard_time": 1690696950,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 803455,
       "num": 505909,
       "word": "女生记录男友一周接她下班表情变化",
       "onboard_time": 1690499003,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 802622,
+      "num": 802622,
+      "word": "鸟鸟七分钟让650颜面扫地",
+      "onboard_time": 1690697429,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 802317,
@@ -4331,6 +4347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 697927,
+      "num": 697927,
+      "word": "自驾进罗布泊车队失联者被找到已遇难",
+      "onboard_time": 1690693232,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695550,
       "num": 222712,
       "word": "连骗子都受不了冷暴力",
@@ -4417,6 +4441,14 @@
       "onboard_time": 1690416815,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 687797,
+      "num": 687797,
+      "word": "上海一出租房mini窗户似射击孔",
+      "onboard_time": 1690695572,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 687201,
@@ -4667,6 +4699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661161,
+      "num": 539724,
+      "word": "毛球 胐胐",
+      "onboard_time": 1690698209,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 660842,
       "num": 660842,
       "word": "杨幂密逃异域公主",
@@ -4739,14 +4779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 652403,
-      "num": 652403,
-      "word": "自驾进罗布泊车队失联者被找到已遇难",
-      "onboard_time": 1690693232,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 652180,
       "num": 464331,
       "word": "因为倒车入库不进请了个代驾",
@@ -4816,14 +4848,6 @@
       "word": "谢娜李维嘉吴昕合体",
       "onboard_time": 1690433920,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 643706,
-      "num": 643706,
-      "word": "白敬亭说自己内向",
-      "onboard_time": 1690696950,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -6915,14 +6939,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 469754,
-      "num": 469754,
-      "word": "鸟鸟七分钟让650颜面扫地",
-      "onboard_time": 1690697429,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 468265,
       "num": 468265,
       "word": "势俊丽敌",
@@ -7009,6 +7025,14 @@
       "onboard_time": 1690251094,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464295,
+      "num": 356246,
+      "word": "盛一伦回应演爹",
+      "onboard_time": 1690697251,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 464200,
@@ -7195,12 +7219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451328,
-      "num": 451328,
-      "word": "上海一出租房mini窗户似射击孔",
-      "onboard_time": 1690695572,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 451989,
+      "num": 379141,
+      "word": "大鹏 一直努力就会成功",
+      "onboard_time": 1690697794,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 451267,
@@ -8308,7 +8332,7 @@
     },
     {
       "raw_hot": 386999,
-      "num": 225307,
+      "num": 260556,
       "word": "张晚意的女装",
       "onboard_time": 1690694014,
       "rank": 41,
@@ -8593,6 +8617,14 @@
       "onboard_time": 1690538793,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373870,
+      "num": 373870,
+      "word": "世界破破烂烂 小动物缝缝补补",
+      "onboard_time": 1690694614,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 373687,
@@ -8883,14 +8915,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 356246,
-      "num": 356246,
-      "word": "盛一伦回应演爹",
-      "onboard_time": 1690697251,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 356133,
       "num": 356133,
       "word": "六问齐齐哈尔坍塌事故",
@@ -8969,6 +8993,14 @@
       "onboard_time": 1690358313,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 351759,
+      "num": 262250,
+      "word": "KPOP纯韩语歌曲",
+      "onboard_time": 1690697251,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 351674,
@@ -9115,14 +9147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343470,
-      "num": 237205,
-      "word": "KPOP纯韩语歌曲",
-      "onboard_time": 1690697251,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 343258,
       "num": 257441,
       "word": "文俊辉演技",
@@ -9235,14 +9259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 338537,
-      "num": 338537,
-      "word": "世界破破烂烂 小动物缝缝补补",
-      "onboard_time": 1690694614,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 338282,
       "num": 273839,
       "word": "出票",
@@ -9289,14 +9305,6 @@
       "onboard_time": 1690416455,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335520,
-      "num": 227371,
-      "word": "大鹏 一直努力就会成功",
-      "onboard_time": 1690697794,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 334882,
@@ -9692,7 +9700,7 @@
     },
     {
       "raw_hot": 321119,
-      "num": 206905,
+      "num": 239344,
       "word": "朝阳打歌中心",
       "onboard_time": 1690695934,
       "rank": 28,
@@ -10668,7 +10676,7 @@
     },
     {
       "raw_hot": 283207,
-      "num": 160942,
+      "num": 260383,
       "word": "孟子义鸟鸟救赎文学",
       "onboard_time": 1690696471,
       "rank": 40,
@@ -11092,7 +11100,7 @@
     },
     {
       "raw_hot": 265780,
-      "num": 160904,
+      "num": 251638,
       "word": "封神质子团给费翔唱冬天里的一把火",
       "onboard_time": 1690696113,
       "rank": 44,
@@ -11177,6 +11185,14 @@
       "onboard_time": 1690171836,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262401,
+      "num": 262401,
+      "word": "ChinaJoy",
+      "onboard_time": 1690697194,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 262214,
@@ -11475,6 +11491,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 248887,
+      "num": 248887,
+      "word": "热烈路演 真诚",
+      "onboard_time": 1690697251,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248455,
       "num": 214415,
       "word": "李莲花今晚掉马",
@@ -11593,6 +11617,14 @@
       "onboard_time": 1690485554,
       "rank": 49,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 244883,
+      "num": 261727,
+      "word": "台风卡努预计8月2日在浙江登陆",
+      "onboard_time": 1690697071,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244878,
@@ -12939,14 +12971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201750,
-      "num": 201750,
-      "word": "ChinaJoy",
-      "onboard_time": 1690697194,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201636,
       "num": 153335,
       "word": "五十公里桃花坞",
@@ -14227,14 +14251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160904,
-      "num": 160903,
-      "word": "台风卡努预计8月2日在浙江登陆",
-      "onboard_time": 1690697071,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160705,
       "num": 164441,
       "word": "英国歌手在马来西亚亲吻男性遭禁演",
@@ -14436,7 +14452,7 @@
     },
     {
       "raw_hot": 139819,
-      "num": 160914,
+      "num": 227220,
       "word": "装正常人已经炉火纯青",
       "onboard_time": 1690697011,
       "rank": 43,

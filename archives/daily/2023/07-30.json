@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690698012503,
+  "endTime": 1690698831178,
   "band_list": [
     {
       "raw_hot": 2642952,
@@ -59,20 +59,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1651275,
+      "num": 1651275,
+      "word": "舒淇 多巴胺封神",
+      "onboard_time": 1690693712,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1608276,
       "num": 1608276,
       "word": "陈赫带张子萱去鹿晗演唱会",
       "onboard_time": 1690673001,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1597165,
-      "num": 1597165,
-      "word": "舒淇 多巴胺封神",
-      "onboard_time": 1690693712,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 1341428,
@@ -227,6 +227,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 804482,
+      "num": 804482,
+      "word": "白敬亭说自己内向",
+      "onboard_time": 1690696950,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 802622,
+      "num": 802622,
+      "word": "鸟鸟七分钟让650颜面扫地",
+      "onboard_time": 1690697429,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 790108,
       "num": 790108,
       "word": "李斯丹妮高瀚宇在拍恋综吗",
@@ -299,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 697927,
+      "num": 697927,
+      "word": "自驾进罗布泊车队失联者被找到已遇难",
+      "onboard_time": 1690693232,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695416,
       "num": 746889,
       "word": "台风卡努正在增强",
@@ -315,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 687797,
+      "num": 687797,
+      "word": "上海一出租房mini窗户似射击孔",
+      "onboard_time": 1690695572,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677022,
       "num": 677022,
       "word": "谁能演女将星",
@@ -323,27 +355,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 661161,
+      "num": 539724,
+      "word": "毛球 胐胐",
+      "onboard_time": 1690698209,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 655480,
       "num": 655480,
       "word": "范丞丞官宣加盟现在就出发",
       "onboard_time": 1690694614,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 652403,
-      "num": 652403,
-      "word": "自驾进罗布泊车队失联者被找到已遇难",
-      "onboard_time": 1690693232,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643706,
-      "num": 643706,
-      "word": "白敬亭说自己内向",
-      "onboard_time": 1690696950,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -523,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 469754,
-      "num": 469754,
-      "word": "鸟鸟七分钟让650颜面扫地",
-      "onboard_time": 1690697429,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 468265,
       "num": 468265,
       "word": "势俊丽敌",
@@ -547,12 +563,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 451328,
-      "num": 451328,
-      "word": "上海一出租房mini窗户似射击孔",
-      "onboard_time": 1690695572,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 464295,
+      "num": 356246,
+      "word": "盛一伦回应演爹",
+      "onboard_time": 1690697251,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 451989,
+      "num": 379141,
+      "word": "大鹏 一直努力就会成功",
+      "onboard_time": 1690697794,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 450346,
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 386999,
-      "num": 225307,
+      "num": 260556,
       "word": "张晚意的女装",
       "onboard_time": 1690694014,
       "rank": 41,
@@ -673,6 +697,14 @@
       "onboard_time": 1690647571,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 373870,
+      "num": 373870,
+      "word": "世界破破烂烂 小动物缝缝补补",
+      "onboard_time": 1690694614,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 361229,
@@ -715,14 +747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 356246,
-      "num": 356246,
-      "word": "盛一伦回应演爹",
-      "onboard_time": 1690697251,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 352871,
       "num": 306417,
       "word": "杨洋王楚然魏大勋破好6播放量记录",
@@ -731,8 +755,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343470,
-      "num": 237205,
+      "raw_hot": 351759,
+      "num": 262250,
       "word": "KPOP纯韩语歌曲",
       "onboard_time": 1690697251,
       "rank": 25,
@@ -747,24 +771,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 338537,
-      "num": 338537,
-      "word": "世界破破烂烂 小动物缝缝补补",
-      "onboard_time": 1690694614,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 335520,
-      "num": 227371,
-      "word": "大鹏 一直努力就会成功",
-      "onboard_time": 1690697794,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321119,
-      "num": 206905,
+      "num": 239344,
       "word": "朝阳打歌中心",
       "onboard_time": 1690695934,
       "rank": 28,
@@ -876,7 +884,7 @@
     },
     {
       "raw_hot": 283207,
-      "num": 160942,
+      "num": 260383,
       "word": "孟子义鸟鸟救赎文学",
       "onboard_time": 1690696471,
       "rank": 40,
@@ -924,11 +932,19 @@
     },
     {
       "raw_hot": 265780,
-      "num": 160904,
+      "num": 251638,
       "word": "封神质子团给费翔唱冬天里的一把火",
       "onboard_time": 1690696113,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262401,
+      "num": 262401,
+      "word": "ChinaJoy",
+      "onboard_time": 1690697194,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 258638,
@@ -947,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248887,
+      "num": 248887,
+      "word": "热烈路演 真诚",
+      "onboard_time": 1690697251,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247347,
       "num": 247347,
       "word": "水是还没发现自己该结冰了吗",
@@ -961,6 +985,14 @@
       "onboard_time": 1690631254,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244883,
+      "num": 261727,
+      "word": "台风卡努预计8月2日在浙江登陆",
+      "onboard_time": 1690697071,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242320,
@@ -1099,14 +1131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201750,
-      "num": 201750,
-      "word": "ChinaJoy",
-      "onboard_time": 1690697194,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201636,
       "num": 153335,
       "word": "五十公里桃花坞",
@@ -1163,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192205,
+      "num": 254255,
+      "word": "卡努",
+      "onboard_time": 1690697611,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192143,
       "num": 192143,
       "word": "现在就出发",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1690644634,
       "rank": 37,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 183390,
-      "num": 183390,
-      "word": "卡努",
-      "onboard_time": 1690697611,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178782,
@@ -1243,14 +1267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160904,
-      "num": 160903,
-      "word": "台风卡努预计8月2日在浙江登陆",
-      "onboard_time": 1690697071,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155174,
       "num": 155174,
       "word": "什么都逃不过CJ观众的眼睛",
@@ -1268,7 +1284,7 @@
     },
     {
       "raw_hot": 139819,
-      "num": 160914,
+      "num": 227220,
       "word": "装正常人已经炉火纯青",
       "onboard_time": 1690697011,
       "rank": 43,
