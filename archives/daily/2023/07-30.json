@@ -1,7 +1,15 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690708496363,
+  "endTime": 1690709623527,
   "band_list": [
+    {
+      "raw_hot": 4491978,
+      "num": 472155,
+      "word": "张继科 日本",
+      "onboard_time": 1690708591,
+      "rank": 10,
+      "category": "体育,艺人"
+    },
     {
       "raw_hot": 2642952,
       "num": 2642952,
@@ -83,6 +91,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1593357,
+      "num": 1593357,
+      "word": "杜苏芮",
+      "onboard_time": 1690528715,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1550564,
       "num": 1550564,
       "word": "鸟鸟七分钟让650颜面扫地",
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 1309525,
-      "num": 373262,
+      "num": 458905,
       "word": "任敏变瘦了好多",
       "onboard_time": 1690704030,
       "rank": 10,
@@ -121,14 +137,6 @@
       "onboard_time": 1690685552,
       "rank": 10,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1137320,
-      "num": 1137320,
-      "word": "杜苏芮",
-      "onboard_time": 1690528715,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1076905,
@@ -291,6 +299,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 806040,
+      "num": 806040,
+      "word": "北京市教委紧急通知停止入校活动",
+      "onboard_time": 1690706911,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 804482,
       "num": 804482,
       "word": "白敬亭说自己内向",
@@ -313,6 +329,14 @@
       "onboard_time": 1690684051,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 777827,
+      "num": 450032,
+      "word": "沙溢又瘦了",
+      "onboard_time": 1690707511,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 772152,
@@ -507,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561779,
+      "num": 275915,
+      "word": "当老师发朋友圈忘记屏蔽学生",
+      "onboard_time": 1690707631,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 554001,
       "num": 554001,
       "word": "趵突泉水位一夜猛涨9厘米",
@@ -561,14 +593,6 @@
       "onboard_time": 1690683691,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 521133,
-      "num": 320338,
-      "word": "北京市教委紧急通知停止入校活动",
-      "onboard_time": 1690706911,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 521006,
@@ -651,12 +675,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477054,
-      "num": 313319,
-      "word": "沙溢又瘦了",
-      "onboard_time": 1690707511,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 488506,
+      "num": 439049,
+      "word": "Jennie看到虫子的反应",
+      "onboard_time": 1690708295,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 477487,
+      "num": 477487,
+      "word": "白敬亭Angelababy或将演龙骨焚箱",
+      "onboard_time": 1690708713,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 468265,
@@ -771,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417601,
-      "num": 194731,
-      "word": "当老师发朋友圈忘记屏蔽学生",
-      "onboard_time": 1690707631,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 403687,
       "num": 403687,
       "word": "建议内娱新人舞台按这个标准卷",
@@ -796,7 +820,7 @@
     },
     {
       "raw_hot": 394847,
-      "num": 296323,
+      "num": 374458,
       "word": "周迅脱了鞋",
       "onboard_time": 1690707451,
       "rank": 17,
@@ -1107,20 +1131,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 280862,
+      "num": 280862,
+      "word": "久诚采访哭了",
+      "onboard_time": 1690708472,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278288,
       "num": 188864,
       "word": "伯邑考温润如玉",
       "onboard_time": 1690644155,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 278080,
-      "num": 194627,
-      "word": "Jennie看到虫子的反应",
-      "onboard_time": 1690708295,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 267975,
@@ -1275,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229455,
+      "num": 222597,
+      "word": "小夭名字的由来",
+      "onboard_time": 1690704212,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227322,
       "num": 227322,
       "word": "种地吧",
@@ -1297,14 +1329,6 @@
       "onboard_time": 1690707570,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 222597,
-      "num": 222597,
-      "word": "小夭名字的由来",
-      "onboard_time": 1690704212,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 217617,
@@ -1355,6 +1379,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 207849,
+      "num": 167903,
+      "word": "一定要扬州慢才能解毒吗",
+      "onboard_time": 1690709193,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206746,
       "num": 161770,
       "word": "时代少年团新专辑徽章海报",
@@ -1364,7 +1396,7 @@
     },
     {
       "raw_hot": 206602,
-      "num": 296407,
+      "num": 383796,
       "word": "5分钟能看完一部好电影吗",
       "onboard_time": 1690706973,
       "rank": 16,
@@ -1563,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142692,
+      "num": 188182,
+      "word": "阿宝的扳手耳朵变爱心了",
+      "onboard_time": 1690708230,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138388,
       "num": 188882,
       "word": "刺痛退役",
@@ -1617,22 +1657,6 @@
       "onboard_time": 1690670656,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 106282,
-      "num": 188452,
-      "word": "久诚采访哭了",
-      "onboard_time": 1690708472,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 105324,
-      "num": 188182,
-      "word": "阿宝的扳手耳朵变爱心了",
-      "onboard_time": 1690708230,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102910,
@@ -1697,6 +1721,14 @@
       "onboard_time": 1690609054,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84562,
+      "num": 167255,
+      "word": "台风卡努加强为台风级",
+      "onboard_time": 1690709555,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81503,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1690709623527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1593357,
+        "num": 1593357,
+        "word": "杜苏芮",
+        "onboard_time": 1690705233,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1149608,
+        "num": 1149608,
+        "word": "丁太升说孟美岐唱跳是国内一等",
+        "onboard_time": 1690701812,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20244,
+        "num": 855183,
+        "word": "会唱歌的石头见证中华千年礼乐文明",
+        "onboard_time": 1690685731,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828364,
+        "num": 828364,
+        "word": "王楚然蒙眼摸人把魏大勋认成杨洋",
+        "onboard_time": 1690702472,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 806040,
+        "num": 806040,
+        "word": "北京市教委紧急通知停止入校活动",
+        "onboard_time": 1690706911,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 629930,
+        "num": 629930,
+        "word": "张大大曝杨颖带妆睡觉",
+        "onboard_time": 1690694133,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567618,
+        "num": 567618,
+        "word": "原来微信可以防拉黑",
+        "onboard_time": 1690678829,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 559975,
+        "num": 559975,
+        "word": "上海一出租房mini窗户似射击孔",
+        "onboard_time": 1690695572,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554347,
+        "num": 554347,
+        "word": "张晚意邓为檀健次都有女装",
+        "onboard_time": 1690705233,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477487,
+        "num": 477487,
+        "word": "白敬亭Angelababy或将演龙骨焚箱",
+        "onboard_time": 1690708713,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 4491978,
+        "num": 472155,
+        "word": "张继科 日本",
+        "onboard_time": 1690708591,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1148263,
+        "num": 458905,
+        "word": "任敏变瘦了好多",
+        "onboard_time": 1690704030,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 777827,
+        "num": 450032,
+        "word": "沙溢又瘦了",
+        "onboard_time": 1690707511,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488506,
+        "num": 439049,
+        "word": "Jennie看到虫子的反应",
+        "onboard_time": 1690708295,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307940,
+        "num": 421252,
+        "word": "考多少分才能入这席吃饭",
+        "onboard_time": 1690689869,
+        "rank": 14,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 416469,
+        "num": 416469,
+        "word": "娜然的妲己好美",
+        "onboard_time": 1690704152,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182685,
+        "num": 383796,
+        "word": "5分钟能看完一部好电影吗",
+        "onboard_time": 1690706973,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374458,
+        "num": 374458,
+        "word": "周迅脱了鞋",
+        "onboard_time": 1690707451,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280862,
+        "num": 280862,
+        "word": "久诚采访哭了",
+        "onboard_time": 1690708472,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277552,
+        "num": 277552,
+        "word": "免费请陌生人吃了三个甜甜圈之后",
+        "onboard_time": 1690685129,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 561779,
+        "num": 275915,
+        "word": "当老师发朋友圈忘记屏蔽学生",
+        "onboard_time": 1690707631,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 553929,
+        "num": 262517,
+        "word": "男子肠道密密麻麻长满200多个息肉",
+        "onboard_time": 1690692688,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544611,
+        "num": 250623,
+        "word": "宋茜忘了删文案",
+        "onboard_time": 1690702352,
+        "rank": 22,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 404464,
+        "num": 234239,
+        "word": "隐形家务才是最让人崩溃的",
+        "onboard_time": 1690703552,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232917,
+        "num": 232917,
+        "word": "自驾进罗布泊车队失联者被找到已遇难",
+        "onboard_time": 1690693232,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333758,
+        "num": 231292,
+        "word": "欢瑞世纪新生官宣",
+        "onboard_time": 1690701029,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308969,
+        "num": 229404,
+        "word": "鸟鸟七分钟让650颜面扫地",
+        "onboard_time": 1690697429,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301676,
+        "num": 227786,
+        "word": "舒淇 多巴胺封神",
+        "onboard_time": 1690693712,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221513,
+        "num": 221513,
+        "word": "BLG对战JDG",
+        "onboard_time": 1690707570,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158644,
+        "num": 220916,
+        "word": "暴雨天车辆涉水避险指南",
+        "onboard_time": 1690704571,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295122,
+        "num": 214262,
+        "word": "成功从侵犯女孩到逼死女孩",
+        "onboard_time": 1690683030,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274148,
+        "num": 206555,
+        "word": "郊通发达",
+        "onboard_time": 1690689869,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259294,
+        "num": 203526,
+        "word": "热烈",
+        "onboard_time": 1690702830,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234910,
+        "num": 200051,
+        "word": "田柾国人歌一位",
+        "onboard_time": 1690705652,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196510,
+        "num": 196510,
+        "word": "洪水中托举小女孩辅警获记个人一等奖",
+        "onboard_time": 1690699590,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230858,
+        "num": 190971,
+        "word": "热烈路演 真诚",
+        "onboard_time": 1690697251,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185083,
+        "num": 185083,
+        "word": "朱雀第五人格",
+        "onboard_time": 1690707871,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171612,
+        "num": 171612,
+        "word": "台风卡努预计8月2日在浙江登陆",
+        "onboard_time": 1690697071,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168154,
+        "num": 168154,
+        "word": "世界破破烂烂 小动物缝缝补补",
+        "onboard_time": 1690694614,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146649,
+        "num": 168091,
+        "word": "美杜莎女王生日快乐",
+        "onboard_time": 1690707991,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 229455,
+        "num": 168034,
+        "word": "小夭名字的由来",
+        "onboard_time": 1690704212,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208595,
+        "num": 167924,
+        "word": "内娱极品仙男",
+        "onboard_time": 1690700431,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207849,
+        "num": 167903,
+        "word": "一定要扬州慢才能解毒吗",
+        "onboard_time": 1690709193,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205365,
+        "num": 167804,
+        "word": "长相思目前进度",
+        "onboard_time": 1690700850,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142692,
+        "num": 167702,
+        "word": "阿宝的扳手耳朵变爱心了",
+        "onboard_time": 1690708230,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117973,
+        "num": 167626,
+        "word": "卡努",
+        "onboard_time": 1690697611,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103059,
+        "num": 167559,
+        "word": "专家称韩国超导是超导假象",
+        "onboard_time": 1690694555,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 95254,
+        "num": 167446,
+        "word": "路飞五档",
+        "onboard_time": 1690687468,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 93615,
+        "num": 167394,
+        "word": "RW战胜MTG",
+        "onboard_time": 1690707812,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84562,
+        "num": 167255,
+        "word": "台风卡努加强为台风级",
+        "onboard_time": 1690709555,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动新时代治蜀兴川再上新台阶#"
+    }
+  }
+}
