@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690724023213,
+  "endTime": 1690726407150,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -249,6 +249,14 @@
       "onboard_time": 1690346140,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2908708,
+      "num": 2908708,
+      "word": "黄子韬去鹿晗演唱会了",
+      "onboard_time": 1690723596,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 2882873,
@@ -907,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1851905,
+      "num": 582604,
+      "word": "喜欢张杰很久的彭奶奶去世了",
+      "onboard_time": 1690724792,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1836674,
       "num": 1836674,
       "word": "王宝强女儿八角笼中观后感",
@@ -1556,7 +1572,7 @@
     },
     {
       "raw_hot": 1424797,
-      "num": 562984,
+      "num": 577215,
       "word": "鹿晗帮粉丝跟领导请假",
       "onboard_time": 1690721915,
       "rank": 15,
@@ -1849,6 +1865,14 @@
       "onboard_time": 1690252894,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1289737,
+      "num": 1289737,
+      "word": "消失的她票房破35亿",
+      "onboard_time": 1690724014,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1284804,
@@ -3627,6 +3651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 819651,
+      "num": 819651,
+      "word": "台风卡努",
+      "onboard_time": 1690721557,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819485,
       "num": 819485,
       "word": "韩团队称合成世界首个室温常压超导体",
@@ -4385,14 +4417,6 @@
       "onboard_time": 1690425695,
       "rank": 21,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 714924,
-      "num": 714924,
-      "word": "黄子韬去鹿晗演唱会了",
-      "onboard_time": 1690723596,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 714718,
@@ -5211,14 +5235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 634355,
-      "num": 634355,
-      "word": "台风卡努",
-      "onboard_time": 1690721557,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 634217,
       "num": 634217,
       "word": "檀健次说吻戏没用上毕生所学",
@@ -5305,6 +5321,14 @@
       "onboard_time": 1690493112,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625268,
+      "num": 517605,
+      "word": "杨紫说小夭是不敢相认",
+      "onboard_time": 1690722392,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 625003,
@@ -5480,6 +5504,14 @@
       "word": "莲花楼特效",
       "onboard_time": 1690122038,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 606782,
+      "num": 446679,
+      "word": "热烈票房",
+      "onboard_time": 1690725395,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -5979,6 +6011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568639,
+      "num": 568639,
+      "word": "京西大悦城",
+      "onboard_time": 1690721313,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568243,
       "num": 462928,
       "word": "哥哥第一次带女朋友回家",
@@ -6052,7 +6092,7 @@
     },
     {
       "raw_hot": 561779,
-      "num": 298146,
+      "num": 366042,
       "word": "当老师发朋友圈忘记屏蔽学生",
       "onboard_time": 1690707631,
       "rank": 30,
@@ -6115,14 +6155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 556616,
-      "num": 509638,
-      "word": "京西大悦城",
-      "onboard_time": 1690721313,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556059,
       "num": 556059,
       "word": "jiejie 蝎子",
@@ -6137,6 +6169,14 @@
       "onboard_time": 1690557875,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 555942,
+      "num": 555942,
+      "word": "保定暴雨",
+      "onboard_time": 1690722157,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554001,
@@ -6345,6 +6385,14 @@
       "onboard_time": 1690523434,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 534250,
+      "num": 534250,
+      "word": "覃海洋好牛",
+      "onboard_time": 1690723174,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 532795,
@@ -6585,14 +6633,6 @@
       "onboard_time": 1690213057,
       "rank": 21,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 517605,
-      "num": 517605,
-      "word": "杨紫说小夭是不敢相认",
-      "onboard_time": 1690722392,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 516458,
@@ -7059,6 +7099,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 487375,
+      "num": 351612,
+      "word": "G社拍的张晚意",
+      "onboard_time": 1690725035,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 487080,
+      "num": 347401,
+      "word": "易烊千玺FIRST颁奖",
+      "onboard_time": 1690725216,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 486017,
       "num": 474902,
       "word": "定期查肠镜真的很有必要",
@@ -7201,6 +7257,14 @@
       "onboard_time": 1690156408,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476556,
+      "num": 298373,
+      "word": "王一博郭俊辰王子奇今日营业照",
+      "onboard_time": 1690723232,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 475808,
@@ -7497,14 +7561,6 @@
       "onboard_time": 1690542631,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 458051,
-      "num": 458051,
-      "word": "保定暴雨",
-      "onboard_time": 1690722157,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 457763,
@@ -8689,14 +8745,6 @@
       "onboard_time": 1690557275,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 392837,
-      "num": 298373,
-      "word": "王一博郭俊辰王子奇今日营业照",
-      "onboard_time": 1690723232,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 392024,
@@ -10451,6 +10499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311047,
+      "num": 192841,
+      "word": "助力太师回朝",
+      "onboard_time": 1690724736,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310896,
       "num": 310896,
       "word": "脸谱出来绝了",
@@ -10873,14 +10929,6 @@
       "onboard_time": 1690172381,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 296558,
-      "num": 296558,
-      "word": "覃海洋好牛",
-      "onboard_time": 1690723174,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 296423,
@@ -12731,6 +12779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230074,
+      "num": 192589,
+      "word": "玱玹反思",
+      "onboard_time": 1690726232,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229757,
       "num": 229757,
       "word": "有猫流出来了",
@@ -12777,6 +12833,14 @@
       "onboard_time": 1690280319,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229032,
+      "num": 229032,
+      "word": "生活中那些低成本的快乐",
+      "onboard_time": 1690724915,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 228794,
@@ -13603,6 +13667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204134,
+      "num": 204134,
+      "word": "韦伯望远镜拍到了一个问号",
+      "onboard_time": 1690725933,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 203974,
       "num": 514570,
       "word": "鸿蒙4官宣发布时间",
@@ -13899,6 +13971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197377,
+      "num": 197377,
+      "word": "诚C单场8淘汰",
+      "onboard_time": 1690725515,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197253,
       "num": 205741,
       "word": "周深美依礼芽新歌夏日妄想",
@@ -13961,6 +14041,14 @@
       "onboard_time": 1690283200,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196390,
+      "num": 196390,
+      "word": "山东泰山3比0北京国安",
+      "onboard_time": 1690725336,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 196352,
@@ -14643,6 +14731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180114,
+      "num": 192424,
+      "word": "DYG对战WB",
+      "onboard_time": 1690725515,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180011,
       "num": 180011,
       "word": "中国队曹茂园夺成都大运会首金",
@@ -14937,6 +15033,14 @@
       "onboard_time": 1690339411,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167276,
+      "num": 192338,
+      "word": "歪果仁在玩一种很新的乒乓球",
+      "onboard_time": 1690724014,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 167190,

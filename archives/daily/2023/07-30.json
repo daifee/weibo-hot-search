@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690724023213,
+  "endTime": 1690726407150,
   "band_list": [
     {
       "raw_hot": 4491978,
@@ -9,6 +9,14 @@
       "onboard_time": 1690708591,
       "rank": 10,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 2908708,
+      "num": 2908708,
+      "word": "黄子韬去鹿晗演唱会了",
+      "onboard_time": 1690723596,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 2642952,
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1851905,
+      "num": 582604,
+      "word": "喜欢张杰很久的彭奶奶去世了",
+      "onboard_time": 1690724792,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1769832,
       "num": 1769832,
       "word": "姬发",
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 1424797,
-      "num": 562984,
+      "num": 577215,
       "word": "鹿晗帮粉丝跟领导请假",
       "onboard_time": 1690721915,
       "rank": 15,
@@ -185,6 +201,14 @@
       "onboard_time": 1690704030,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1289737,
+      "num": 1289737,
+      "word": "消失的她票房破35亿",
+      "onboard_time": 1690724014,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1261055,
@@ -403,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 819651,
+      "num": 819651,
+      "word": "台风卡努",
+      "onboard_time": 1690721557,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 815368,
       "num": 609949,
       "word": "警方通报主持人涂磊被指性侵",
@@ -531,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 714924,
-      "num": 714924,
-      "word": "黄子韬去鹿晗演唱会了",
-      "onboard_time": 1690723596,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 710797,
       "num": 549438,
       "word": "53岁窦唯状态",
@@ -635,12 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 634355,
-      "num": 634355,
-      "word": "台风卡努",
-      "onboard_time": 1690721557,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 625268,
+      "num": 517605,
+      "word": "杨紫说小夭是不敢相认",
+      "onboard_time": 1690722392,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 624870,
@@ -681,6 +705,14 @@
       "onboard_time": 1690709854,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 606782,
+      "num": 446679,
+      "word": "热烈票房",
+      "onboard_time": 1690725395,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 604665,
@@ -731,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568639,
+      "num": 568639,
+      "word": "京西大悦城",
+      "onboard_time": 1690721313,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566455,
       "num": 522043,
       "word": "TFBOYS高会邮箱回复了",
@@ -748,7 +788,7 @@
     },
     {
       "raw_hot": 561779,
-      "num": 298146,
+      "num": 366042,
       "word": "当老师发朋友圈忘记屏蔽学生",
       "onboard_time": 1690707631,
       "rank": 30,
@@ -763,11 +803,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 556616,
-      "num": 509638,
-      "word": "京西大悦城",
-      "onboard_time": 1690721313,
-      "rank": 14,
+      "raw_hot": 555942,
+      "num": 555942,
+      "word": "保定暴雨",
+      "onboard_time": 1690722157,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -811,6 +851,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 534250,
+      "num": 534250,
+      "word": "覃海洋好牛",
+      "onboard_time": 1690723174,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530757,
       "num": 530757,
       "word": "郊通发达",
@@ -849,14 +897,6 @@
       "onboard_time": 1690671736,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517605,
-      "num": 517605,
-      "word": "杨紫说小夭是不敢相认",
-      "onboard_time": 1690722392,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 515490,
@@ -947,11 +987,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 487375,
+      "num": 351612,
+      "word": "G社拍的张晚意",
+      "onboard_time": 1690725035,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 487080,
+      "num": 347401,
+      "word": "易烊千玺FIRST颁奖",
+      "onboard_time": 1690725216,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480586,
       "num": 254583,
       "word": "虞书欣红色露腰吊带",
       "onboard_time": 1690711895,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 476556,
+      "num": 298373,
+      "word": "王一博郭俊辰王子奇今日营业照",
+      "onboard_time": 1690723232,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -985,14 +1049,6 @@
       "onboard_time": 1690714353,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 458051,
-      "num": 458051,
-      "word": "保定暴雨",
-      "onboard_time": 1690722157,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 457763,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1690694555,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 392837,
-      "num": 298373,
-      "word": "王一博郭俊辰王子奇今日营业照",
-      "onboard_time": 1690723232,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 389459,
@@ -1395,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311047,
+      "num": 192841,
+      "word": "助力太师回朝",
+      "onboard_time": 1690724736,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310846,
       "num": 257814,
       "word": "金泰妍演唱会",
@@ -1473,14 +1529,6 @@
       "onboard_time": 1690646791,
       "rank": 44,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 296558,
-      "num": 296558,
-      "word": "覃海洋好牛",
-      "onboard_time": 1690723174,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 294931,
@@ -1763,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230074,
+      "num": 192589,
+      "word": "玱玹反思",
+      "onboard_time": 1690726232,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229907,
       "num": 188846,
       "word": "内娱男明星的证件照",
@@ -1785,6 +1841,14 @@
       "onboard_time": 1690704212,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229032,
+      "num": 229032,
+      "word": "生活中那些低成本的快乐",
+      "onboard_time": 1690724915,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 227322,
@@ -1899,6 +1963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204134,
+      "num": 204134,
+      "word": "韦伯望远镜拍到了一个问号",
+      "onboard_time": 1690725933,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 203808,
       "num": 203808,
       "word": "爱乔婉娩的是李相夷不是李莲花",
@@ -1947,12 +2019,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197377,
+      "num": 197377,
+      "word": "诚C单场8淘汰",
+      "onboard_time": 1690725515,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196817,
       "num": 196817,
       "word": "王一博陈烁演技",
       "onboard_time": 1690683990,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196390,
+      "num": 196390,
+      "word": "山东泰山3比0北京国安",
+      "onboard_time": 1690725336,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 196100,
@@ -2059,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180114,
+      "num": 192424,
+      "word": "DYG对战WB",
+      "onboard_time": 1690725515,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178782,
       "num": 297116,
       "word": "老人被激流冲倒6路人接力救援",
@@ -2089,6 +2185,14 @@
       "onboard_time": 1690677569,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167276,
+      "num": 192338,
+      "word": "歪果仁在玩一种很新的乒乓球",
+      "onboard_time": 1690724014,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 166536,
