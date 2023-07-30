@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690690754117,
+  "endTime": 1690691635811,
   "band_list": [
     {
       "raw_hot": 2642952,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 891582,
+      "num": 570140,
+      "word": "CardiB向泼饮料观众扔话筒",
+      "onboard_time": 1690689749,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 880898,
       "num": 880898,
       "word": "Ella问孟美岐四年前和现在有什么不同",
@@ -227,8 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 704446,
-      "num": 199868,
+      "raw_hot": 718644,
+      "num": 210071,
       "word": "杨紫邓为小妈文学",
       "onboard_time": 1690689090,
       "rank": 31,
@@ -259,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 647829,
+      "num": 647829,
+      "word": "没认出来这是张钧甯",
+      "onboard_time": 1690690653,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614146,
       "num": 222176,
       "word": "节目组回应张艺凡施柏宇吻戏",
@@ -273,6 +289,14 @@
       "onboard_time": 1690676307,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 604665,
+      "num": 604665,
+      "word": "长相思 夭玹夭柳夭璟",
+      "onboard_time": 1690688670,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 594066,
@@ -315,12 +339,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 530757,
+      "num": 530757,
+      "word": "郊通发达",
+      "onboard_time": 1690689869,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 527713,
       "num": 527713,
       "word": "檀健次邓为长相思情头",
       "onboard_time": 1690683571,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 522043,
+      "num": 522043,
+      "word": "TFBOYS高会邮箱回复了",
+      "onboard_time": 1690690051,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 521468,
@@ -395,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483867,
-      "num": 483867,
-      "word": "CardiB向泼饮料观众扔话筒",
-      "onboard_time": 1690689749,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 468265,
       "num": 468265,
       "word": "势俊丽敌",
@@ -427,12 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 450090,
-      "num": 450090,
-      "word": "长相思 夭玹夭柳夭璟",
-      "onboard_time": 1690688670,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 442384,
+      "num": 442384,
+      "word": "考多少分才能入这席吃饭",
+      "onboard_time": 1690689869,
+      "rank": 24,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 438203,
@@ -515,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361054,
+      "num": 361054,
+      "word": "长得像人的鱼是什么鱼",
+      "onboard_time": 1690687950,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 360848,
       "num": 360848,
       "word": "周润发跑步摔伤肋骨",
@@ -537,14 +577,6 @@
       "onboard_time": 1690661953,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345725,
-      "num": 315947,
-      "word": "长得像人的鱼是什么鱼",
-      "onboard_time": 1690687950,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 339792,
@@ -571,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 313166,
-      "num": 313166,
-      "word": "TFBOYS高会邮箱回复了",
-      "onboard_time": 1690690051,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 308467,
       "num": 296224,
       "word": "王一博回复胡军谢谢张大队",
@@ -593,14 +617,6 @@
       "onboard_time": 1690633232,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 300816,
-      "num": 300816,
-      "word": "考多少分才能入这席吃饭",
-      "onboard_time": 1690689869,
-      "rank": 24,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 300269,
@@ -779,6 +795,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 233937,
+      "num": 154970,
+      "word": "杨紫跳手势舞",
+      "onboard_time": 1690690769,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230141,
       "num": 230141,
       "word": "大运会",
@@ -843,12 +867,12 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 207294,
-      "num": 164223,
-      "word": "没认出来这是张钧甯",
-      "onboard_time": 1690690653,
+      "raw_hot": 208449,
+      "num": 154434,
+      "word": "张杰外南街小孩MV上线",
+      "onboard_time": 1690691371,
       "rank": 41,
-      "category": "影视"
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 206746,
@@ -865,6 +889,14 @@
       "onboard_time": 1690681411,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201636,
+      "num": 153335,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1690691552,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 198799,
@@ -987,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155174,
+      "num": 155174,
+      "word": "什么都逃不过CJ观众的眼睛",
+      "onboard_time": 1690687292,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150229,
       "num": 150229,
       "word": "张杰长沙演唱会",
@@ -995,20 +1035,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 146173,
-      "num": 146173,
-      "word": "什么都逃不过CJ观众的眼睛",
-      "onboard_time": 1690687292,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 138388,
       "num": 188882,
       "word": "刺痛退役",
       "onboard_time": 1690629813,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135164,
+      "num": 522589,
+      "word": "谷爱凌运动后京味补给",
+      "onboard_time": 1690689629,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 134928,
@@ -1043,14 +1083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 107185,
-      "num": 462050,
-      "word": "谷爱凌运动后京味补给",
-      "onboard_time": 1690689629,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102910,
       "num": 128266,
       "word": "王一博空降杭州",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1690638696,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97354,
+      "num": 151634,
+      "word": "女子夜空拍下熊猫云怀里还抱着月亮",
+      "onboard_time": 1690691190,
+      "rank": 48,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 95461,
