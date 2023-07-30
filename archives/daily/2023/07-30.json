@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690726407150,
+  "endTime": 1690727628044,
   "band_list": [
     {
       "raw_hot": 4491978,
@@ -120,6 +120,14 @@
       "word": "姬发",
       "onboard_time": 1690644514,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1664222,
+      "num": 1664222,
+      "word": "邓为哭戏",
+      "onboard_time": 1690726416,
+      "rank": 1,
       "category": "影视"
     },
     {
@@ -803,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 556474,
+      "num": 351612,
+      "word": "G社拍的张晚意",
+      "onboard_time": 1690725035,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 555942,
       "num": 555942,
       "word": "保定暴雨",
@@ -987,14 +1003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 487375,
-      "num": 351612,
-      "word": "G社拍的张晚意",
-      "onboard_time": 1690725035,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 487080,
       "num": 347401,
       "word": "易烊千玺FIRST颁奖",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1690676547,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 446064,
+      "num": 200581,
+      "word": "范丞丞帮魏大勋变身孟宴臣",
+      "onboard_time": 1690727072,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 443167,
@@ -1185,6 +1201,14 @@
       "onboard_time": 1690710815,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 407290,
+      "num": 200079,
+      "word": "有演技却没有爆火的演员",
+      "onboard_time": 1690726474,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 403687,
@@ -1305,6 +1329,14 @@
       "onboard_time": 1690716932,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 366881,
+      "num": 199112,
+      "word": "湖南卫视在放旋风少女",
+      "onboard_time": 1690727252,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 361229,
@@ -1475,6 +1507,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305996,
+      "num": 187508,
+      "word": "长相思14集封神了",
+      "onboard_time": 1690727556,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 305555,
+      "num": 204134,
+      "word": "韦伯望远镜拍到了一个问号",
+      "onboard_time": 1690725933,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 305148,
       "num": 281519,
       "word": "长相思新副本",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1690676608,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284185,
+      "num": 284185,
+      "word": "生活中那些低成本的快乐",
+      "onboard_time": 1690724915,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 283207,
@@ -1843,14 +1899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229032,
-      "num": 229032,
-      "word": "生活中那些低成本的快乐",
-      "onboard_time": 1690724915,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 227322,
       "num": 227322,
       "word": "种地吧",
@@ -1963,20 +2011,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 204134,
-      "num": 204134,
-      "word": "韦伯望远镜拍到了一个问号",
-      "onboard_time": 1690725933,
-      "rank": 34,
-      "category": "科技"
-    },
-    {
       "raw_hot": 203808,
       "num": 203808,
       "word": "爱乔婉娩的是李相夷不是李莲花",
       "onboard_time": 1690681411,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203442,
+      "num": 199677,
+      "word": "真实的缅北边境现状",
+      "onboard_time": 1690727135,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201636,
@@ -2009,6 +2057,14 @@
       "onboard_time": 1690654697,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198542,
+      "num": 198542,
+      "word": "歪果仁在玩一种很新的乒乓球",
+      "onboard_time": 1690724014,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 197804,
@@ -2185,14 +2241,6 @@
       "onboard_time": 1690677569,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 167276,
-      "num": 192338,
-      "word": "歪果仁在玩一种很新的乒乓球",
-      "onboard_time": 1690724014,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 166536,
@@ -2409,6 +2457,14 @@
       "onboard_time": 1690609054,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84644,
+      "num": 159660,
+      "word": "榴莲烤乳扇",
+      "onboard_time": 1690727373,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 81503,
