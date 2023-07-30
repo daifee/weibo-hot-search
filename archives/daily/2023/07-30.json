@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690721127122,
+  "endTime": 1690723078478,
   "band_list": [
     {
       "raw_hot": 4491978,
@@ -17,6 +17,14 @@
       "onboard_time": 1690678829,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2539343,
+      "num": 644013,
+      "word": "刘维登不上母亲微信发文求助",
+      "onboard_time": 1690720535,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2486828,
@@ -155,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1326042,
+      "num": 1326042,
+      "word": "封神票房",
+      "onboard_time": 1690719633,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1309525,
       "num": 511796,
       "word": "任敏变瘦了好多",
@@ -193,14 +209,6 @@
       "onboard_time": 1690685552,
       "rank": 10,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1137915,
-      "num": 1137915,
-      "word": "封神票房",
-      "onboard_time": 1690719633,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 1104708,
@@ -355,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 890687,
-      "num": 644013,
-      "word": "刘维登不上母亲微信发文求助",
-      "onboard_time": 1690720535,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 880898,
       "num": 880898,
       "word": "Ella问孟美岐四年前和现在有什么不同",
@@ -393,6 +393,14 @@
       "onboard_time": 1690698209,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 823019,
+      "num": 431521,
+      "word": "鹿晗帮粉丝跟领导请假",
+      "onboard_time": 1690721915,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 815368,
@@ -569,6 +577,14 @@
       "onboard_time": 1690699228,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 679546,
+      "num": 679546,
+      "word": "中国队男子混合泳接力摘银",
+      "onboard_time": 1690720834,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 677022,
@@ -867,6 +883,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 496078,
+      "num": 443478,
+      "word": "京西大悦城",
+      "onboard_time": 1690721313,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495107,
       "num": 377025,
       "word": "起猛了看见黄渤王一博battle了",
@@ -1003,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 425954,
+      "num": 385709,
+      "word": "眼睛好会爱人的角色",
+      "onboard_time": 1690720593,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424006,
       "num": 296397,
       "word": "迪丽热巴蝴蝶编发",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1690697611,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416329,
+      "num": 366573,
+      "word": "杨幂无声彩排视频",
+      "onboard_time": 1690721374,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 408282,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1690694555,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 393872,
+      "num": 393872,
+      "word": "台风卡努",
+      "onboard_time": 1690721557,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389459,
@@ -1251,14 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 341892,
-      "num": 341892,
-      "word": "中国队男子混合泳接力摘银",
-      "onboard_time": 1690720834,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 339792,
       "num": 339792,
       "word": "毛不易醉酒给单依纯打电话",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1690663934,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314491,
+      "num": 314491,
+      "word": "杨紫说小夭是不敢相认",
+      "onboard_time": 1690722392,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 310846,
@@ -1417,6 +1465,14 @@
       "onboard_time": 1690702830,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288958,
+      "num": 288958,
+      "word": "潘展乐",
+      "onboard_time": 1690722392,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 288226,
@@ -1555,6 +1611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252213,
+      "num": 252213,
+      "word": "保定暴雨",
+      "onboard_time": 1690722157,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249428,
       "num": 248887,
       "word": "热烈路演 真诚",
@@ -1584,6 +1648,14 @@
       "word": "长相思今天更一集",
       "onboard_time": 1690631254,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 246276,
+      "num": 246276,
+      "word": "韩烨杀左相好疯",
+      "onboard_time": 1690722213,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -1641,6 +1713,14 @@
       "onboard_time": 1690678047,
       "rank": 34,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 235094,
+      "num": 239396,
+      "word": "张小斐希望年轻演员抓住一切表演机会",
+      "onboard_time": 1690722392,
+      "rank": 43,
+      "category": "影视,综艺"
     },
     {
       "raw_hot": 233937,
@@ -1803,14 +1883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202649,
-      "num": 202649,
-      "word": "眼睛好会爱人的角色",
-      "onboard_time": 1690720593,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 201636,
       "num": 153335,
       "word": "五十公里桃花坞",
@@ -1960,6 +2032,14 @@
       "word": "暴雨",
       "onboard_time": 1690673962,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175793,
+      "num": 175793,
+      "word": "向云南边防英雄们致敬",
+      "onboard_time": 1690723054,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2281,6 +2361,14 @@
       "onboard_time": 1690658115,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20261,
+      "num": 175820,
+      "word": "在大运村和外国运动员一起耍非遗",
+      "onboard_time": 1690722814,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -2298,6 +2386,9 @@
     },
     {
       "word": "#会唱歌的石头见证中华千年礼乐文明#"
+    },
+    {
+      "word": "#建军节来临之际习近平致以节日祝贺#"
     }
   ]
 }
