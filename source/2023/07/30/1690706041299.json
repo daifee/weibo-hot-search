@@ -1,0 +1,410 @@
+{
+  "runTime": 1690706041299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1993461,
+        "num": 1993461,
+        "word": "丁太升说孟美岐唱跳是国内一等",
+        "onboard_time": 1690701812,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1207879,
+        "num": 1207879,
+        "word": "王楚然蒙眼摸人把魏大勋认成杨洋",
+        "onboard_time": 1690702472,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35443,
+        "num": 1061494,
+        "word": "会唱歌的石头见证中华千年礼乐文明",
+        "onboard_time": 1690685731,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975162,
+        "num": 975162,
+        "word": "张大大曝杨颖带妆睡觉",
+        "onboard_time": 1690694133,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 755811,
+        "num": 755811,
+        "word": "鸟鸟七分钟让650颜面扫地",
+        "onboard_time": 1690697429,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 682931,
+        "num": 682931,
+        "word": "上海一出租房mini窗户似射击孔",
+        "onboard_time": 1690695572,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630789,
+        "num": 630789,
+        "word": "原来微信可以防拉黑",
+        "onboard_time": 1690678829,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 579197,
+        "num": 579197,
+        "word": "长相思目前进度",
+        "onboard_time": 1690700850,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387681,
+        "num": 387681,
+        "word": "考多少分才能入这席吃饭",
+        "onboard_time": 1690689869,
+        "rank": 8,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 347588,
+        "num": 347588,
+        "word": "杜苏芮",
+        "onboard_time": 1690705233,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1309525,
+        "num": 343517,
+        "word": "任敏变瘦了好多",
+        "onboard_time": 1690704030,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 624580,
+        "num": 339611,
+        "word": "欢瑞世纪新生官宣",
+        "onboard_time": 1690701029,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470722,
+        "num": 335640,
+        "word": "舒淇 多巴胺封神",
+        "onboard_time": 1690693712,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328662,
+        "num": 328662,
+        "word": "免费请陌生人吃了三个甜甜圈之后",
+        "onboard_time": 1690685129,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342797,
+        "num": 313155,
+        "word": "自驾进罗布泊车队失联者被找到已遇难",
+        "onboard_time": 1690693232,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448629,
+        "num": 312566,
+        "word": "张晚意邓为檀健次都有女装",
+        "onboard_time": 1690705233,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443167,
+        "num": 310749,
+        "word": "娜然的妲己好美",
+        "onboard_time": 1690704152,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293130,
+        "num": 293130,
+        "word": "卡努",
+        "onboard_time": 1690697611,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272435,
+        "num": 272435,
+        "word": "世界破破烂烂 小动物缝缝补补",
+        "onboard_time": 1690694614,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202769,
+        "num": 271754,
+        "word": "专家称韩国超导是超导假象",
+        "onboard_time": 1690694555,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 915016,
+        "num": 270651,
+        "word": "宋茜忘了删文案",
+        "onboard_time": 1690702352,
+        "rank": 20,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 669979,
+        "num": 268993,
+        "word": "男子肠道密密麻麻长满200多个息肉",
+        "onboard_time": 1690692688,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284789,
+        "num": 267549,
+        "word": "洪水中托举小女孩辅警获记个人一等奖",
+        "onboard_time": 1690699590,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406575,
+        "num": 265209,
+        "word": "隐形家务才是最让人崩溃的",
+        "onboard_time": 1690703552,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 385051,
+        "num": 264332,
+        "word": "内娱极品仙男",
+        "onboard_time": 1690700431,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367276,
+        "num": 263496,
+        "word": "没认出来这是颖儿",
+        "onboard_time": 1690701570,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210746,
+        "num": 261151,
+        "word": "vivo发布6nm自研影像芯片",
+        "onboard_time": 1690704030,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 300025,
+        "num": 260124,
+        "word": "王楚然 女将星",
+        "onboard_time": 1690674323,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296769,
+        "num": 258303,
+        "word": "毛球 胐胐",
+        "onboard_time": 1690698209,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221614,
+        "num": 256642,
+        "word": "台风卡努预计8月2日在浙江登陆",
+        "onboard_time": 1690697071,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311060,
+        "num": 255169,
+        "word": "成功从侵犯女孩到逼死女孩",
+        "onboard_time": 1690683030,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292407,
+        "num": 254634,
+        "word": "郊通发达",
+        "onboard_time": 1690689869,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283205,
+        "num": 252419,
+        "word": "田柾国人歌一位",
+        "onboard_time": 1690705652,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176053,
+        "num": 251553,
+        "word": "长得像人的鱼是什么鱼",
+        "onboard_time": 1690687950,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143824,
+        "num": 250382,
+        "word": "ChinaJoy",
+        "onboard_time": 1690697194,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281606,
+        "num": 248775,
+        "word": "苏可给施柏宇张艺凡的建议",
+        "onboard_time": 1690702110,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247667,
+        "num": 247667,
+        "word": "成毅56秒一镜到底哭戏",
+        "onboard_time": 1690700850,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234365,
+        "num": 234365,
+        "word": "53岁窦唯状态",
+        "onboard_time": 1690696294,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129495,
+        "num": 225421,
+        "word": "路飞五档",
+        "onboard_time": 1690687468,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124930,
+        "num": 223997,
+        "word": "暴雨天车辆涉水避险指南",
+        "onboard_time": 1690704571,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223058,
+        "num": 223058,
+        "word": "封神",
+        "onboard_time": 1690678888,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217152,
+        "num": 217152,
+        "word": "热烈路演 真诚",
+        "onboard_time": 1690697251,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122307,
+        "num": 214475,
+        "word": "高校录取通知书竟藏着一碗牛肉面",
+        "onboard_time": 1690692211,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 213340,
+        "num": 213340,
+        "word": "张晚意早期贴吧发言",
+        "onboard_time": 1690692033,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201493,
+        "num": 201493,
+        "word": "热烈",
+        "onboard_time": 1690702830,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104718,
+        "num": 200925,
+        "word": "装正常人已经炉火纯青",
+        "onboard_time": 1690697011,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100182,
+        "num": 200302,
+        "word": "重庆2号线故障大爷砸玻璃换气",
+        "onboard_time": 1690686450,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94086,
+        "num": 198366,
+        "word": "台风卡努正在增强",
+        "onboard_time": 1690675165,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90173,
+        "num": 197331,
+        "word": "被山村孩子的摄影作品惊艳到了",
+        "onboard_time": 1690705591,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89281,
+        "num": 196502,
+        "word": "莫斯科空域暂时禁飞",
+        "onboard_time": 1690685973,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国顶级实验室有多牛#"
+    }
+  }
+}
