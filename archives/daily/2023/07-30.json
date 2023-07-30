@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690716817462,
+  "endTime": 1690720238619,
   "band_list": [
     {
       "raw_hot": 4491978,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2116937,
-      "num": 600609,
+      "num": 606224,
       "word": "张晚意闲鱼买东西被人认出来",
       "onboard_time": 1690712373,
       "rank": 13,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1901631,
-      "num": 593932,
+      "num": 595304,
       "word": "王诗龄的画vs黄多多的画",
       "onboard_time": 1690710454,
       "rank": 11,
@@ -123,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1518571,
+      "num": 1518571,
+      "word": "小夭主动亲了涂山璟",
+      "onboard_time": 1690716511,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1446419,
+      "num": 1446419,
+      "word": "山西通报矿工死亡瞒报事件调查处置情况",
+      "onboard_time": 1690716097,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1378245,
       "num": 1378245,
       "word": "长相思",
@@ -147,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1239104,
+      "num": 1239104,
+      "word": "孙杨的世界纪录还在",
+      "onboard_time": 1690718135,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1207879,
       "num": 1207879,
       "word": "王楚然蒙眼摸人把魏大勋认成杨洋",
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 1104708,
-      "num": 584029,
+      "num": 588616,
       "word": "内娱不会因演技脱粉的演员",
       "onboard_time": 1690711951,
       "rank": 41,
@@ -179,8 +203,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1062544,
+      "num": 1062544,
+      "word": "精诚矿业瞒报死亡矿工43人",
+      "onboard_time": 1690717354,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1043663,
-      "num": 282965,
+      "num": 415494,
       "word": "女子遇害被埋尸山间石缝",
       "onboard_time": 1690712792,
       "rank": 32,
@@ -201,6 +233,14 @@
       "onboard_time": 1690685129,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1010179,
+      "num": 1010179,
+      "word": "玱玹你怎么不笑了",
+      "onboard_time": 1690715371,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 1002363,
@@ -331,14 +371,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 858200,
-      "num": 858200,
-      "word": "玱玹你怎么不笑了",
-      "onboard_time": 1690715371,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 838352,
       "num": 838352,
       "word": "毛球 胐胐",
@@ -377,6 +409,14 @@
       "onboard_time": 1690678169,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 789399,
+      "num": 789399,
+      "word": "七擒孟获",
+      "onboard_time": 1690718135,
+      "rank": 7,
+      "category": "游戏,游戏"
     },
     {
       "raw_hot": 785587,
@@ -523,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 676522,
-      "num": 573447,
-      "word": "山西通报矿工死亡瞒报事件调查处置情况",
-      "onboard_time": 1690716097,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 657810,
       "num": 657810,
       "word": "张晚意邓为檀健次都有女装",
@@ -545,6 +577,14 @@
       "onboard_time": 1690694614,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 645645,
+      "num": 580609,
+      "word": "王俊凯到北京了",
+      "onboard_time": 1690718495,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 624870,
@@ -569,6 +609,14 @@
       "onboard_time": 1690715971,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 613347,
+      "num": 613347,
+      "word": "封神票房",
+      "onboard_time": 1690719633,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 609332,
@@ -601,6 +649,14 @@
       "onboard_time": 1690708230,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594292,
+      "num": 542493,
+      "word": "周迅强忍着没翻白眼",
+      "onboard_time": 1690715854,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 594066,
@@ -657,6 +713,14 @@
       "onboard_time": 1690707631,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 558863,
+      "num": 558863,
+      "word": "JDG战胜BLG",
+      "onboard_time": 1690717772,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 554001,
@@ -748,7 +812,7 @@
     },
     {
       "raw_hot": 510136,
-      "num": 296211,
+      "num": 303195,
       "word": "隐形家务才是最让人崩溃的",
       "onboard_time": 1690703552,
       "rank": 23,
@@ -769,14 +833,6 @@
       "onboard_time": 1690685973,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 495485,
-      "num": 495485,
-      "word": "周迅强忍着没翻白眼",
-      "onboard_time": 1690715854,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 495107,
@@ -809,6 +865,14 @@
       "onboard_time": 1690708295,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 483931,
+      "num": 483931,
+      "word": "涂山璟躺下了",
+      "onboard_time": 1690715672,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 480586,
@@ -939,12 +1003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417461,
-      "num": 278482,
-      "word": "涂山璟躺下了",
-      "onboard_time": 1690715672,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 415942,
+      "num": 415942,
+      "word": "徐嘉余",
+      "onboard_time": 1690716572,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 407794,
@@ -1035,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374246,
+      "num": 368099,
+      "word": "爸爸当家",
+      "onboard_time": 1690717953,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374212,
       "num": 374212,
       "word": "邓紫棋演唱会",
@@ -1049,6 +1121,14 @@
       "onboard_time": 1690694614,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 368217,
+      "num": 368217,
+      "word": "闪耀暖暖",
+      "onboard_time": 1690716932,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 361229,
@@ -1075,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360009,
+      "num": 360009,
+      "word": "电影封神第二部抢先看",
+      "onboard_time": 1690717893,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359871,
       "num": 359871,
       "word": "新买的衣服一定要洗洗再穿",
@@ -1091,6 +1179,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356808,
+      "num": 356808,
+      "word": "张雨霏50米自由泳铜牌",
+      "onboard_time": 1690719574,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 356045,
+      "num": 356045,
+      "word": "长相思评论区现状",
+      "onboard_time": 1690717652,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354480,
       "num": 277032,
       "word": "台风卡努预计8月2日在浙江登陆",
@@ -1099,12 +1203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353787,
+      "num": 353787,
+      "word": "现在就出发",
+      "onboard_time": 1690686450,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352871,
       "num": 306417,
       "word": "杨洋王楚然魏大勋破好6播放量记录",
       "onboard_time": 1690661953,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350260,
+      "num": 350260,
+      "word": "凡人修仙传",
+      "onboard_time": 1690717832,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 339792,
@@ -1179,12 +1299,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308718,
+      "num": 308718,
+      "word": "莲花楼",
+      "onboard_time": 1690719392,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308467,
       "num": 296224,
       "word": "王一博回复胡军谢谢张大队",
       "onboard_time": 1690687773,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305862,
+      "num": 305862,
+      "word": "Elk 恐尺",
+      "onboard_time": 1690719332,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 305148,
@@ -1227,14 +1363,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 296967,
-      "num": 248212,
-      "word": "小夭主动亲了涂山璟",
-      "onboard_time": 1690716511,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 294931,
       "num": 248775,
       "word": "苏可给施柏宇张艺凡的建议",
@@ -1260,7 +1388,7 @@
     },
     {
       "raw_hot": 289571,
-      "num": 234320,
+      "num": 234720,
       "word": "热烈",
       "onboard_time": 1690702830,
       "rank": 35,
@@ -1427,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242412,
+      "num": 242412,
+      "word": "闪耀暖暖直播",
+      "onboard_time": 1690717953,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242320,
       "num": 242320,
       "word": "瞿颖素颜突袭胡兵直播间",
@@ -1563,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211824,
+      "num": 211824,
+      "word": "JDG锁定S13资格",
+      "onboard_time": 1690717772,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210964,
       "num": 167561,
       "word": "成毅吃糖豆",
@@ -1683,14 +1827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195925,
-      "num": 195925,
-      "word": "徐嘉余",
-      "onboard_time": 1690716572,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195914,
       "num": 195914,
       "word": "京津冀部分地区特大暴雨",
@@ -1731,20 +1867,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194131,
+      "num": 194131,
+      "word": "游泳世锦赛",
+      "onboard_time": 1690719515,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193950,
+      "num": 205620,
+      "word": "闪耀暖暖四周年",
+      "onboard_time": 1690719697,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192363,
       "num": 194582,
       "word": "RW战胜MTG",
       "onboard_time": 1690707812,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 192143,
-      "num": 192143,
-      "word": "现在就出发",
-      "onboard_time": 1690686450,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 190692,
@@ -2025,6 +2169,14 @@
       "onboard_time": 1690652359,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 73557,
+      "num": 569647,
+      "word": "以闪亮之名首曝动态染色",
+      "onboard_time": 1690718431,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 71580,
