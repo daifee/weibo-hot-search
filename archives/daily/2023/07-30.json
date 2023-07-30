@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690684821743,
+  "endTime": 1690686990053,
   "band_list": [
     {
       "raw_hot": 2642952,
@@ -59,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1043780,
+      "num": 581153,
+      "word": "曾黎非遗胸针",
+      "onboard_time": 1690685552,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1002363,
       "num": 651984,
       "word": "杨洋某平台认证消失",
@@ -89,6 +97,14 @@
       "onboard_time": 1690671736,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927435,
+      "num": 927435,
+      "word": "当一坨吸饱了水的云路过",
+      "onboard_time": 1690681529,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 906228,
@@ -163,6 +179,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 770728,
+      "num": 770728,
+      "word": "TFBOYS黑白水墨大片",
+      "onboard_time": 1690684051,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 770428,
       "num": 770428,
       "word": "为什么去泰国旅游的人越来越少了",
@@ -179,12 +203,12 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 746512,
-      "num": 746512,
-      "word": "当一坨吸饱了水的云路过",
-      "onboard_time": 1690681529,
-      "rank": 10,
-      "category": "幽默"
+      "raw_hot": 748232,
+      "num": 763566,
+      "word": "飞云",
+      "onboard_time": 1690683153,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695416,
@@ -227,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 589305,
-      "num": 763566,
-      "word": "飞云",
-      "onboard_time": 1690683153,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 579341,
+      "num": 579341,
+      "word": "谁能演女将星",
+      "onboard_time": 1690684770,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 554001,
@@ -257,6 +281,14 @@
       "onboard_time": 1690679849,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 527713,
+      "num": 527713,
+      "word": "檀健次邓为长相思情头",
+      "onboard_time": 1690683571,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 521006,
@@ -291,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 495107,
+      "num": 377025,
+      "word": "起猛了看见黄渤王一博battle了",
+      "onboard_time": 1690684111,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494074,
       "num": 494074,
       "word": "纪委通报一县在官员子女打印店花174万",
@@ -305,6 +345,14 @@
       "onboard_time": 1690675945,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474082,
+      "num": 346894,
+      "word": "涂山璟为什么爱上小夭",
+      "onboard_time": 1690683691,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 468265,
@@ -363,12 +411,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 424465,
-      "num": 424465,
-      "word": "TFBOYS黑白水墨大片",
-      "onboard_time": 1690684051,
+      "raw_hot": 422779,
+      "num": 261156,
+      "word": "免费请陌生人吃了三个甜甜圈之后",
+      "onboard_time": 1690685129,
       "rank": 31,
-      "category": "作品衍生,时尚"
+      "category": "情感"
     },
     {
       "raw_hot": 422021,
@@ -385,14 +433,6 @@
       "onboard_time": 1690635453,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 412427,
-      "num": 412427,
-      "word": "檀健次邓为长相思情头",
-      "onboard_time": 1690683571,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 399640,
@@ -451,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 346894,
-      "num": 346894,
-      "word": "涂山璟为什么爱上小夭",
-      "onboard_time": 1690683691,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 349806,
+      "num": 349806,
+      "word": "莫斯科空域暂时禁飞",
+      "onboard_time": 1690685973,
+      "rank": 19,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 339792,
@@ -465,14 +505,6 @@
       "onboard_time": 1690641216,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 324573,
-      "num": 324573,
-      "word": "起猛了看见黄渤王一博battle了",
-      "onboard_time": 1690684111,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 316379,
@@ -707,12 +739,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217041,
+      "num": 241331,
+      "word": "重庆2号线故障大爷砸玻璃换气",
+      "onboard_time": 1690686450,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216711,
       "num": 216711,
       "word": "从没见过把进货价告诉买家的老板",
       "onboard_time": 1690680812,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208507,
+      "num": 208507,
+      "word": "王嘉尔朴宰范互动好像小学生",
+      "onboard_time": 1690685191,
+      "rank": 37,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 203808,
@@ -747,12 +795,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195914,
+      "num": 195914,
+      "word": "京津冀部分地区特大暴雨",
+      "onboard_time": 1690682549,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194211,
       "num": 194211,
       "word": "史彭元八角笼中票房破20亿写真",
       "onboard_time": 1690677208,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192143,
+      "num": 192143,
+      "word": "现在就出发",
+      "onboard_time": 1690686450,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 190692,
@@ -763,20 +827,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189275,
-      "num": 189275,
-      "word": "京津冀部分地区特大暴雨",
-      "onboard_time": 1690682549,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188886,
       "num": 188886,
       "word": "镇魂街3开播",
       "onboard_time": 1690644634,
       "rank": 37,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 184851,
+      "num": 184851,
+      "word": "于正张小斐同框",
+      "onboard_time": 1690686630,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 178782,
@@ -793,14 +857,6 @@
       "onboard_time": 1690673962,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170647,
-      "num": 170647,
-      "word": "谁能演女将星",
-      "onboard_time": 1690684770,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 168460,
@@ -931,6 +987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78007,
+      "num": 163934,
+      "word": "曹茂园男子南棍金牌",
+      "onboard_time": 1690686869,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76108,
       "num": 85480,
       "word": "赵简 风停了",
@@ -993,6 +1057,14 @@
       "onboard_time": 1690633711,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 51858,
+      "num": 1568996,
+      "word": "会唱歌的石头见证中华千年礼乐文明",
+      "onboard_time": 1690685731,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28298,

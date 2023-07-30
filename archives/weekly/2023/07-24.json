@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690684821743,
+  "endTime": 1690686990053,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -2323,6 +2323,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1043780,
+      "num": 581153,
+      "word": "曾黎非遗胸针",
+      "onboard_time": 1690685552,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1043724,
       "num": 1043724,
       "word": "覃海洋50蛙夺金",
@@ -2769,6 +2777,14 @@
       "onboard_time": 1690456355,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 927435,
+      "num": 927435,
+      "word": "当一坨吸饱了水的云路过",
+      "onboard_time": 1690681529,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 926647,
@@ -3651,6 +3667,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 770728,
+      "num": 770728,
+      "word": "TFBOYS黑白水墨大片",
+      "onboard_time": 1690684051,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 767604,
       "num": 767604,
       "word": "阿那亚去年王鹤棣今年魏大勋",
@@ -3795,6 +3819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 748232,
+      "num": 763566,
+      "word": "飞云",
+      "onboard_time": 1690683153,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747390,
       "num": 747390,
       "word": "广西一在编人员档案丢失无法办退休",
@@ -3809,14 +3841,6 @@
       "onboard_time": 1690291478,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 746512,
-      "num": 746512,
-      "word": "当一坨吸饱了水的云路过",
-      "onboard_time": 1690681529,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 746318,
@@ -5243,14 +5267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 589305,
-      "num": 763566,
-      "word": "飞云",
-      "onboard_time": 1690683153,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 589054,
       "num": 589054,
       "word": "齐齐哈尔坍塌事故学生家长发声",
@@ -5361,6 +5377,14 @@
       "onboard_time": 1690525295,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 579341,
+      "num": 579341,
+      "word": "谁能演女将星",
+      "onboard_time": 1690684770,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 579142,
@@ -5899,6 +5923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 527713,
+      "num": 527713,
+      "word": "檀健次邓为长相思情头",
+      "onboard_time": 1690683571,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 526294,
       "num": 526294,
       "word": "莲花楼真的很像大型剧本杀",
@@ -6347,6 +6379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495107,
+      "num": 377025,
+      "word": "起猛了看见黄渤王一博battle了",
+      "onboard_time": 1690684111,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494586,
       "num": 449756,
       "word": "为什么平板比手机便宜",
@@ -6625,6 +6665,14 @@
       "onboard_time": 1690429957,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 474082,
+      "num": 346894,
+      "word": "涂山璟为什么爱上小夭",
+      "onboard_time": 1690683691,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 473755,
@@ -7483,14 +7531,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 424465,
-      "num": 424465,
-      "word": "TFBOYS黑白水墨大片",
-      "onboard_time": 1690684051,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 424016,
       "num": 424016,
       "word": "TFBOYS演唱会超300万人想看",
@@ -7521,6 +7561,14 @@
       "onboard_time": 1690124317,
       "rank": 13,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 422779,
+      "num": 261156,
+      "word": "免费请陌生人吃了三个甜甜圈之后",
+      "onboard_time": 1690685129,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 422166,
@@ -7665,14 +7713,6 @@
       "onboard_time": 1690624055,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 412427,
-      "num": 412427,
-      "word": "檀健次邓为长相思情头",
-      "onboard_time": 1690683571,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 411998,
@@ -8755,6 +8795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 349806,
+      "num": 349806,
+      "word": "莫斯科空域暂时禁飞",
+      "onboard_time": 1690685973,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 348163,
       "num": 297765,
       "word": "18岁男生往尿道塞了25颗磁力珠",
@@ -8768,14 +8816,6 @@
       "word": "小六主打一个嘴硬",
       "onboard_time": 1690428754,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 346894,
-      "num": 346894,
-      "word": "涂山璟为什么爱上小夭",
-      "onboard_time": 1690683691,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -9313,14 +9353,6 @@
       "onboard_time": 1690594412,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 324573,
-      "num": 324573,
-      "word": "起猛了看见黄渤王一博battle了",
-      "onboard_time": 1690684111,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 324469,
@@ -12099,6 +12131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 217041,
+      "num": 241331,
+      "word": "重庆2号线故障大爷砸玻璃换气",
+      "onboard_time": 1690686450,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216711,
       "num": 216711,
       "word": "从没见过把进货价告诉买家的老板",
@@ -12281,6 +12321,14 @@
       "onboard_time": 1690374402,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208507,
+      "num": 208507,
+      "word": "王嘉尔朴宰范互动好像小学生",
+      "onboard_time": 1690685191,
+      "rank": 37,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 208506,
@@ -12827,6 +12875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195914,
+      "num": 195914,
+      "word": "京津冀部分地区特大暴雨",
+      "onboard_time": 1690682549,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195721,
       "num": 198089,
       "word": "这年头连火柴都有对象了",
@@ -13035,6 +13091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192143,
+      "num": 192143,
+      "word": "现在就出发",
+      "onboard_time": 1690686450,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191949,
       "num": 191949,
       "word": "ViSualArtS成为腾讯子公司",
@@ -13121,14 +13185,6 @@
       "onboard_time": 1690335813,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189275,
-      "num": 189275,
-      "word": "京津冀部分地区特大暴雨",
-      "onboard_time": 1690682549,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189255,
@@ -13337,6 +13393,14 @@
       "onboard_time": 1690332276,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184851,
+      "num": 184851,
+      "word": "于正张小斐同框",
+      "onboard_time": 1690686630,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 184818,
@@ -13641,14 +13705,6 @@
       "onboard_time": 1690626755,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 170647,
-      "num": 170647,
-      "word": "谁能演女将星",
-      "onboard_time": 1690684770,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 169433,
@@ -14683,6 +14739,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 78007,
+      "num": 163934,
+      "word": "曹茂园男子南棍金牌",
+      "onboard_time": 1690686869,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77930,
       "num": 107541,
       "word": "sky光遇",
@@ -14841,6 +14905,14 @@
       "onboard_time": 1690275999,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 51858,
+      "num": 1568996,
+      "word": "会唱歌的石头见证中华千年礼乐文明",
+      "onboard_time": 1690685731,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50647,
