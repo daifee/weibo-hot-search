@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690792509602,
+  "endTime": 1690795072493,
   "band_list": [
     {
       "raw_hot": 3282960,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1578611,
+      "num": 1578611,
+      "word": "杨颖说自己身高168",
+      "onboard_time": 1690789955,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1562978,
       "num": 1562978,
       "word": "周迅两张A4纸台词不看提词器",
@@ -195,6 +203,14 @@
       "category": "情感,时尚"
     },
     {
+      "raw_hot": 1311669,
+      "num": 776530,
+      "word": "邓为美甲",
+      "onboard_time": 1690790733,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1306650,
       "num": 1306650,
       "word": "张晚意陈都灵情头",
@@ -233,14 +249,6 @@
       "onboard_time": 1690779875,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1122519,
-      "num": 523062,
-      "word": "邓为美甲",
-      "onboard_time": 1690790733,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1103962,
@@ -291,12 +299,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1039660,
-      "num": 1039660,
-      "word": "杨颖说自己身高168",
-      "onboard_time": 1690789955,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 1009872,
+      "num": 1009872,
+      "word": "暴雨未致卢沟桥坍塌",
+      "onboard_time": 1690791633,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 986828,
@@ -307,12 +315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 980873,
+      "num": 980873,
+      "word": "豆瓣",
+      "onboard_time": 1690793792,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 977481,
       "num": 977481,
       "word": "刘维分享微信恢复教程",
       "onboard_time": 1690781557,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 975666,
+      "num": 975666,
+      "word": "B站",
+      "onboard_time": 1690794032,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 970521,
@@ -353,6 +377,14 @@
       "onboard_time": 1690781014,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 879045,
+      "num": 765036,
+      "word": "莫斯科",
+      "onboard_time": 1690790671,
+      "rank": 19,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 865703,
@@ -483,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 665336,
+      "num": 665336,
+      "word": "papi酱melody加盟再见爱人3",
+      "onboard_time": 1690794452,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 660809,
       "num": 341313,
       "word": "喜欢张杰很久的彭奶奶去世了",
@@ -523,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 625316,
-      "num": 522934,
-      "word": "莫斯科",
-      "onboard_time": 1690790671,
-      "rank": 19,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 622877,
       "num": 622877,
       "word": "黄子韬去鹿晗演唱会了",
@@ -555,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613312,
-      "num": 522848,
-      "word": "暴雨未致卢沟桥坍塌",
-      "onboard_time": 1690791633,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 609754,
       "num": 335881,
       "word": "张晚意闲鱼买东西被人认出来",
@@ -577,6 +601,30 @@
       "onboard_time": 1690779216,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 603612,
+      "num": 412010,
+      "word": "卢沟桥",
+      "onboard_time": 1690792533,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603476,
+      "num": 603476,
+      "word": "永定河卢沟桥拦河闸将加大泄洪流量",
+      "onboard_time": 1690788093,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592422,
+      "num": 402391,
+      "word": "杨洋白色短裤",
+      "onboard_time": 1690794813,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 588211,
@@ -651,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555772,
+      "num": 555772,
+      "word": "洪水过后女子家中密密麻麻全是鱼",
+      "onboard_time": 1690789232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553309,
       "num": 553309,
       "word": "脏 就不能心诚吗",
@@ -696,14 +752,6 @@
       "word": "杜苏芮",
       "onboard_time": 1690705233,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 522666,
-      "num": 522666,
-      "word": "洪水过后女子家中密密麻麻全是鱼",
-      "onboard_time": 1690789232,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -756,7 +804,7 @@
     },
     {
       "raw_hot": 466728,
-      "num": 320704,
+      "num": 464282,
       "word": "再见爱人3",
       "onboard_time": 1690791934,
       "rank": 21,
@@ -1011,14 +1059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 346544,
-      "num": 311806,
-      "word": "永定河卢沟桥拦河闸将加大泄洪流量",
-      "onboard_time": 1690788093,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343485,
       "num": 338469,
       "word": "熊猫有时候真的人里人气",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1690787612,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335473,
+      "num": 335473,
+      "word": "但凡檀健次演技烂点",
+      "onboard_time": 1690794391,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 335236,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1690733072,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312546,
+      "num": 312546,
+      "word": "京津冀暴雨互助",
+      "onboard_time": 1690792830,
+      "rank": 27,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 308895,
@@ -1260,7 +1316,7 @@
     },
     {
       "raw_hot": 264414,
-      "num": 230687,
+      "num": 254546,
       "word": "永定河",
       "onboard_time": 1690791093,
       "rank": 45,
@@ -1361,6 +1417,14 @@
       "onboard_time": 1690764394,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 249604,
+      "num": 245319,
+      "word": "暴雨致卢沟桥一旁小清河桥坍塌",
+      "onboard_time": 1690794094,
+      "rank": 35,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 247833,
@@ -1527,6 +1591,14 @@
       "num": 202179,
       "word": "安乐传",
       "onboard_time": 1690772370,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196323,
+      "num": 196323,
+      "word": "王宽小景8集牵手11次",
+      "onboard_time": 1690794872,
       "rank": 44,
       "category": "影视"
     },
@@ -1787,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111220,
+      "num": 1412323,
+      "word": "大学生接力为大运会加油",
+      "onboard_time": 1690791333,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103738,
       "num": 2112423,
       "word": "在大运村和外国运动员一起耍非遗",
@@ -1825,14 +1905,6 @@
       "onboard_time": 1690734688,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85794,
-      "num": 1342249,
-      "word": "大学生接力为大运会加油",
-      "onboard_time": 1690791333,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 66997,
@@ -1916,6 +1988,9 @@
     },
     {
       "word": "#推动新时代治蜀兴川再上新台阶#"
+    },
+    {
+      "word": "#国家发改委恢复和扩大消费二十条措施#"
     }
   ]
 }
