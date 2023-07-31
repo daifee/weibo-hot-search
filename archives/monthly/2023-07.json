@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690795072493,
+  "endTime": 1690796024098,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -5051,6 +5051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1663952,
+      "num": 1663952,
+      "word": "B站",
+      "onboard_time": 1690794032,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1661462,
       "num": 1661462,
       "word": "大麦",
@@ -8107,6 +8115,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1240133,
+      "num": 1240133,
+      "word": "papi酱melody加盟再见爱人3",
+      "onboard_time": 1690794452,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1239949,
       "num": 638175,
       "word": "顾客称住亚朵酒店发现水壶里有内裤",
@@ -8337,6 +8353,14 @@
       "onboard_time": 1689071437,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1218595,
+      "num": 690256,
+      "word": "杨洋白色短裤",
+      "onboard_time": 1690794813,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1218568,
@@ -11811,14 +11835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 975666,
-      "num": 975666,
-      "word": "B站",
-      "onboard_time": 1690794032,
-      "rank": 6,
-      "category": "科技"
-    },
-    {
       "raw_hot": 975000,
       "num": 975000,
       "word": "齐市坍塌事故施工方中标多个学校项目",
@@ -13361,6 +13377,14 @@
       "onboard_time": 1688511982,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 897590,
+      "num": 897590,
+      "word": "ITZY回归",
+      "onboard_time": 1690795832,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 897579,
@@ -20347,14 +20371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 665336,
-      "num": 665336,
-      "word": "papi酱melody加盟再见爱人3",
-      "onboard_time": 1690794452,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 665283,
       "num": 665283,
       "word": "台媒曝解放军回呛台军",
@@ -20680,6 +20696,14 @@
       "word": "惜花芷",
       "onboard_time": 1689219154,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 660586,
+      "num": 660586,
+      "word": "但凡檀健次演技烂点",
+      "onboard_time": 1690794391,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -23244,7 +23268,7 @@
     },
     {
       "raw_hot": 603612,
-      "num": 412010,
+      "num": 438981,
       "word": "卢沟桥",
       "onboard_time": 1690792533,
       "rank": 20,
@@ -23729,14 +23753,6 @@
       "onboard_time": 1690553076,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 592422,
-      "num": 402391,
-      "word": "杨洋白色短裤",
-      "onboard_time": 1690794813,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 592179,
@@ -26977,6 +26993,14 @@
       "onboard_time": 1688735568,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 529584,
+      "num": 529584,
+      "word": "再见爱人3",
+      "onboard_time": 1690791934,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 529387,
@@ -30819,14 +30843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 466728,
-      "num": 464282,
-      "word": "再见爱人3",
-      "onboard_time": 1690791934,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 466713,
       "num": 466713,
       "word": "TMEA致敬李玟",
@@ -34577,6 +34593,14 @@
       "onboard_time": 1688272532,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418719,
+      "num": 294137,
+      "word": "暴雨致卢沟桥一旁小清河桥坍塌",
+      "onboard_time": 1690794094,
+      "rank": 35,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 418605,
@@ -42067,14 +42091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 335473,
-      "num": 335473,
-      "word": "但凡檀健次演技烂点",
-      "onboard_time": 1690794391,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 335345,
       "num": 258146,
       "word": "公司不给开空调用冰块降温",
@@ -46651,6 +46667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 295642,
+      "num": 295642,
+      "word": "萧亚轩在李玟追悼会痛哭",
+      "onboard_time": 1690795893,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295615,
       "num": 295615,
       "word": "多少次疼痛才换来的默契",
@@ -50227,6 +50251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269829,
+      "num": 254546,
+      "word": "永定河",
+      "onboard_time": 1690791093,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269684,
       "num": 269684,
       "word": "为什么魏大勋外号叫大勋花",
@@ -50913,14 +50945,6 @@
       "onboard_time": 1689558269,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 264414,
-      "num": 254546,
-      "word": "永定河",
-      "onboard_time": 1690791093,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264397,
@@ -52985,14 +53009,6 @@
       "onboard_time": 1688175930,
       "rank": 40,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 249604,
-      "num": 245319,
-      "word": "暴雨致卢沟桥一旁小清河桥坍塌",
-      "onboard_time": 1690794094,
-      "rank": 35,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 249549,
@@ -61259,6 +61275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199647,
+      "num": 199647,
+      "word": "王宽小景8集牵手11次",
+      "onboard_time": 1690794872,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199646,
       "num": 199646,
       "word": "周恺靠谱",
@@ -61897,14 +61921,6 @@
       "onboard_time": 1690155566,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 196323,
-      "num": 196323,
-      "word": "王宽小景8集牵手11次",
-      "onboard_time": 1690794872,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 196311,
@@ -62713,6 +62729,14 @@
       "onboard_time": 1690431762,
       "rank": 42,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 192704,
+      "num": 192704,
+      "word": "张艺兴大航海无远弗届巡回演唱会",
+      "onboard_time": 1690795593,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 192630,
@@ -70116,7 +70140,7 @@
     },
     {
       "raw_hot": 111220,
-      "num": 1412323,
+      "num": 1584765,
       "word": "大学生接力为大运会加油",
       "onboard_time": 1690791333,
       "rank": 2,
@@ -73796,6 +73820,9 @@
     },
     {
       "word": "#国家发改委恢复和扩大消费二十条措施#"
+    },
+    {
+      "word": "#加强不同文明交流对话#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690795072493,
+  "endTime": 1690796024098,
   "band_list": [
     {
       "raw_hot": 3282960,
@@ -97,6 +97,14 @@
       "onboard_time": 1690775733,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1663952,
+      "num": 1663952,
+      "word": "B站",
+      "onboard_time": 1690794032,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 1632393,
@@ -243,6 +251,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1240133,
+      "num": 1240133,
+      "word": "papi酱melody加盟再见爱人3",
+      "onboard_time": 1690794452,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1218595,
+      "num": 690256,
+      "word": "杨洋白色短裤",
+      "onboard_time": 1690794813,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1188353,
       "num": 917195,
       "word": "北京门头沟暴雨大量汽车被冲走",
@@ -331,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 975666,
-      "num": 975666,
-      "word": "B站",
-      "onboard_time": 1690794032,
-      "rank": 6,
-      "category": "科技"
-    },
-    {
       "raw_hot": 970521,
       "num": 937920,
       "word": "房山",
@@ -369,6 +385,14 @@
       "onboard_time": 1690762650,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 897590,
+      "num": 897590,
+      "word": "ITZY回归",
+      "onboard_time": 1690795832,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 888538,
@@ -515,20 +539,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 665336,
-      "num": 665336,
-      "word": "papi酱melody加盟再见爱人3",
-      "onboard_time": 1690794452,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 660809,
       "num": 341313,
       "word": "喜欢张杰很久的彭奶奶去世了",
       "onboard_time": 1690724792,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 660586,
+      "num": 660586,
+      "word": "但凡檀健次演技烂点",
+      "onboard_time": 1690794391,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 656801,
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 603612,
-      "num": 412010,
+      "num": 438981,
       "word": "卢沟桥",
       "onboard_time": 1690792533,
       "rank": 20,
@@ -617,14 +641,6 @@
       "onboard_time": 1690788093,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 592422,
-      "num": 402391,
-      "word": "杨洋白色短裤",
-      "onboard_time": 1690794813,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 588211,
@@ -747,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 529584,
+      "num": 529584,
+      "word": "再见爱人3",
+      "onboard_time": 1690791934,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 526975,
       "num": 526975,
       "word": "杜苏芮",
@@ -803,14 +827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 466728,
-      "num": 464282,
-      "word": "再见爱人3",
-      "onboard_time": 1690791934,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 466165,
       "num": 466165,
       "word": "福州一餐厅凌晨发生爆炸",
@@ -865,6 +881,14 @@
       "onboard_time": 1690765594,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 418719,
+      "num": 294137,
+      "word": "暴雨致卢沟桥一旁小清河桥坍塌",
+      "onboard_time": 1690794094,
+      "rank": 35,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 410421,
@@ -1083,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335473,
-      "num": 335473,
-      "word": "但凡檀健次演技烂点",
-      "onboard_time": 1690794391,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 335236,
       "num": 335236,
       "word": "易烊千玺西宁出发",
@@ -1219,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295642,
+      "num": 295642,
+      "word": "萧亚轩在李玟追悼会痛哭",
+      "onboard_time": 1690795893,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293193,
       "num": 293193,
       "word": "相柳好像新婚弃妇",
@@ -1291,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269829,
+      "num": 254546,
+      "word": "永定河",
+      "onboard_time": 1690791093,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268241,
       "num": 242802,
       "word": "到底是谁逼小夭亲他",
@@ -1313,14 +1345,6 @@
       "onboard_time": 1690727072,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264414,
-      "num": 254546,
-      "word": "永定河",
-      "onboard_time": 1690791093,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264281,
@@ -1417,14 +1441,6 @@
       "onboard_time": 1690764394,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 249604,
-      "num": 245319,
-      "word": "暴雨致卢沟桥一旁小清河桥坍塌",
-      "onboard_time": 1690794094,
-      "rank": 35,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 247833,
@@ -1587,18 +1603,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196630,
-      "num": 202179,
-      "word": "安乐传",
-      "onboard_time": 1690772370,
+      "raw_hot": 199647,
+      "num": 199647,
+      "word": "王宽小景8集牵手11次",
+      "onboard_time": 1690794872,
       "rank": 44,
       "category": "影视"
     },
     {
-      "raw_hot": 196323,
-      "num": 196323,
-      "word": "王宽小景8集牵手11次",
-      "onboard_time": 1690794872,
+      "raw_hot": 196630,
+      "num": 202179,
+      "word": "安乐传",
+      "onboard_time": 1690772370,
       "rank": 44,
       "category": "影视"
     },
@@ -1617,6 +1633,14 @@
       "onboard_time": 1690773634,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192704,
+      "num": 192704,
+      "word": "张艺兴大航海无远弗届巡回演唱会",
+      "onboard_time": 1690795593,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 191598,
@@ -1860,7 +1884,7 @@
     },
     {
       "raw_hot": 111220,
-      "num": 1412323,
+      "num": 1584765,
       "word": "大学生接力为大运会加油",
       "onboard_time": 1690791333,
       "rank": 2,
@@ -1991,6 +2015,9 @@
     },
     {
       "word": "#国家发改委恢复和扩大消费二十条措施#"
+    },
+    {
+      "word": "#加强不同文明交流对话#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1690796024098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2144100,
+        "num": 2144100,
+        "word": "女子吐槽某明星耍大牌",
+        "onboard_time": 1690785457,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1663952,
+        "num": 1663952,
+        "word": "B站",
+        "onboard_time": 1690794032,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 101919,
+        "num": 1584765,
+        "word": "大学生接力为大运会加油",
+        "onboard_time": 1690791333,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1577855,
+        "num": 1577855,
+        "word": "杨颖说自己身高168",
+        "onboard_time": 1690789955,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1240133,
+        "num": 1240133,
+        "word": "papi酱melody加盟再见爱人3",
+        "onboard_time": 1690794452,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 975909,
+        "num": 975909,
+        "word": "暴雨未致卢沟桥坍塌",
+        "onboard_time": 1690791633,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915984,
+        "num": 915984,
+        "word": "六小龄童也去看了热烈",
+        "onboard_time": 1690788157,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 897590,
+        "num": 897590,
+        "word": "ITZY回归",
+        "onboard_time": 1690795832,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 724677,
+        "num": 724677,
+        "word": "豆瓣",
+        "onboard_time": 1690793792,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1229068,
+        "num": 721409,
+        "word": "北京门头沟强降雨已致2人死亡",
+        "onboard_time": 1690790313,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1228730,
+        "num": 712721,
+        "word": "邓为美甲",
+        "onboard_time": 1690790733,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1218595,
+        "num": 690256,
+        "word": "杨洋白色短裤",
+        "onboard_time": 1690794813,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 754751,
+        "num": 679925,
+        "word": "莫斯科",
+        "onboard_time": 1690790671,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 677200,
+        "num": 677200,
+        "word": "房子租了大半年才发现有空调",
+        "onboard_time": 1690782272,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660586,
+        "num": 660586,
+        "word": "但凡檀健次演技烂点",
+        "onboard_time": 1690794391,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 574838,
+        "num": 574838,
+        "word": "北京升级发布洪水红色预警",
+        "onboard_time": 1690780174,
+        "rank": 15,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 561783,
+        "num": 561783,
+        "word": "张晚意陈都灵情头",
+        "onboard_time": 1690784615,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529584,
+        "num": 529584,
+        "word": "再见爱人3",
+        "onboard_time": 1690791934,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479922,
+        "num": 479922,
+        "word": "洪水过后女子家中密密麻麻全是鱼",
+        "onboard_time": 1690789232,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470693,
+        "num": 470693,
+        "word": "TFBOYS三人都在北京了",
+        "onboard_time": 1690786597,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 546355,
+        "num": 438981,
+        "word": "卢沟桥",
+        "onboard_time": 1690792533,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382742,
+        "num": 382742,
+        "word": "孟美岐说内测舞台再来一次也不会唱跳",
+        "onboard_time": 1690790193,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341790,
+        "num": 341790,
+        "word": "妈妈来一趟英国被当成乞丐",
+        "onboard_time": 1690782272,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418876,
+        "num": 319855,
+        "word": "永定河卢沟桥拦河闸将加大泄洪流量",
+        "onboard_time": 1690792472,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297244,
+        "num": 297244,
+        "word": "京津冀暴雨互助",
+        "onboard_time": 1690792830,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 295642,
+        "num": 295642,
+        "word": "萧亚轩在李玟追悼会痛哭",
+        "onboard_time": 1690795893,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418719,
+        "num": 294137,
+        "word": "暴雨致卢沟桥一旁小清河桥坍塌",
+        "onboard_time": 1690794094,
+        "rank": 26,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 266187,
+        "num": 266187,
+        "word": "中学会计挪用2500万买理财获利6000",
+        "onboard_time": 1690775013,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254530,
+        "num": 254530,
+        "word": "刘维怼网友",
+        "onboard_time": 1690787733,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370289,
+        "num": 253770,
+        "word": "北京门头沟紧急转移群众5000人左右",
+        "onboard_time": 1690786233,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249869,
+        "num": 249869,
+        "word": "青簪行",
+        "onboard_time": 1690780595,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247627,
+        "num": 247627,
+        "word": "TFBOYS演唱会强实名见效了",
+        "onboard_time": 1690785094,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283819,
+        "num": 245922,
+        "word": "门头沟暴雨",
+        "onboard_time": 1690779936,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237421,
+        "num": 237421,
+        "word": "成龙的时代",
+        "onboard_time": 1690789893,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232629,
+        "num": 232629,
+        "word": "张一山说杨紫从小就很漂亮",
+        "onboard_time": 1690781133,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269829,
+        "num": 232564,
+        "word": "永定河",
+        "onboard_time": 1690791093,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229865,
+        "num": 229865,
+        "word": "官方回应网传县委书记自杀身亡",
+        "onboard_time": 1690787612,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962387,
+        "num": 228590,
+        "word": "李玟追思会",
+        "onboard_time": 1690789832,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253274,
+        "num": 228000,
+        "word": "北京房山门头沟平均降雨量超300毫米",
+        "onboard_time": 1690789955,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222032,
+        "num": 222032,
+        "word": "叶三",
+        "onboard_time": 1690785632,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206415,
+        "num": 206415,
+        "word": "张杰鹿晗黄子韬今日营业照",
+        "onboard_time": 1690783113,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451218,
+        "num": 205108,
+        "word": "交行回应高管儿子活剥猫皮",
+        "onboard_time": 1690788393,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199647,
+        "num": 199647,
+        "word": "王宽小景8集牵手11次",
+        "onboard_time": 1690794872,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198536,
+        "num": 198536,
+        "word": "花儿与少年第五季拟邀名单",
+        "onboard_time": 1690783173,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192704,
+        "num": 192704,
+        "word": "张艺兴大航海无远弗届巡回演唱会",
+        "onboard_time": 1690795593,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191575,
+        "num": 191575,
+        "word": "戚薇李承铉带Lucky度假",
+        "onboard_time": 1690788934,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180544,
+        "num": 180544,
+        "word": "大黄鱼抱枕被炒至666元",
+        "onboard_time": 1690784194,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176490,
+        "num": 180542,
+        "word": "门头沟",
+        "onboard_time": 1690776094,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145648,
+        "num": 180541,
+        "word": "全面落实带薪休假制度",
+        "onboard_time": 1690773156,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 144671,
+        "num": 180538,
+        "word": "北京暴雨",
+        "onboard_time": 1690773452,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强不同文明交流对话#"
+    }
+  }
+}
