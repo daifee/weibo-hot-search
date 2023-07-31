@@ -1,0 +1,410 @@
+{
+  "runTime": 1690803231089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1573518,
+        "num": 1573518,
+        "word": "北京升级发布洪水红色预警",
+        "onboard_time": 1690780174,
+        "rank": 0,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 759227,
+        "num": 1511973,
+        "word": "就是因为穿上了这身衣服我得对得起大家",
+        "onboard_time": 1690797034,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75232,
+        "num": 1498920,
+        "word": "大学生接力为大运会加油",
+        "onboard_time": 1690791333,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1495303,
+        "num": 1495303,
+        "word": "李玟老公及继女现身追悼会",
+        "onboard_time": 1690796312,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625724,
+        "num": 1215000,
+        "word": "杭州种出78斤大西瓜破全省纪录",
+        "onboard_time": 1690798535,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073158,
+        "num": 1073158,
+        "word": "K396次列车最新消息",
+        "onboard_time": 1690797214,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131870,
+        "num": 914936,
+        "word": "杭州到宁波城际列车来了可刷公交卡",
+        "onboard_time": 1690797034,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889107,
+        "num": 889107,
+        "word": "小夭和家人相认哭疯了",
+        "onboard_time": 1690801711,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 717615,
+        "num": 717615,
+        "word": "papi酱melody加盟再见爱人3",
+        "onboard_time": 1690794452,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 657656,
+        "num": 657656,
+        "word": "女子吐槽某明星耍大牌",
+        "onboard_time": 1690785457,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1451160,
+        "num": 657078,
+        "word": "萧亚轩在李玟追悼会痛哭",
+        "onboard_time": 1690795893,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 934345,
+        "num": 656392,
+        "word": "杨洋白色短裤",
+        "onboard_time": 1690794813,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 870872,
+        "num": 655192,
+        "word": "邓为cos狐狸跳女团舞",
+        "onboard_time": 1690797453,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1354112,
+        "num": 654699,
+        "word": "悉尼上空现CoCoLee云朵字",
+        "onboard_time": 1690799912,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 797178,
+        "num": 653447,
+        "word": "B站",
+        "onboard_time": 1690794032,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 653226,
+        "num": 653226,
+        "word": "北京全市河道均在行洪",
+        "onboard_time": 1690798713,
+        "rank": 15,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 606061,
+        "num": 606061,
+        "word": "李玟追思会",
+        "onboard_time": 1690789832,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579030,
+        "num": 579030,
+        "word": "卡努升级为超强台风",
+        "onboard_time": 1690799193,
+        "rank": 17,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 554929,
+        "num": 554929,
+        "word": "北京门头沟强降雨已致2人死亡",
+        "onboard_time": 1690790313,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460660,
+        "num": 513609,
+        "word": "但凡檀健次演技烂点",
+        "onboard_time": 1690794391,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 496140,
+        "num": 496140,
+        "word": "狐狸精为这个家付出了太多",
+        "onboard_time": 1690801411,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465419,
+        "num": 465419,
+        "word": "北京东西城再发暴雨红色预警",
+        "onboard_time": 1690800273,
+        "rank": 21,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 409022,
+        "num": 409022,
+        "word": "为什么不是kill shot主打",
+        "onboard_time": 1690800934,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 389846,
+        "num": 389846,
+        "word": "邓为美甲",
+        "onboard_time": 1690790733,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 270285,
+        "num": 270285,
+        "word": "房子租了大半年才发现有空调",
+        "onboard_time": 1690782272,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353509,
+        "num": 256927,
+        "word": "王源说CoCo姐的音乐和爱没有终点",
+        "onboard_time": 1690799971,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350813,
+        "num": 255836,
+        "word": "杨颖说自己身高168",
+        "onboard_time": 1690789955,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328817,
+        "num": 254702,
+        "word": "种地吧赵小童 全麦面粉做法",
+        "onboard_time": 1690797817,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242907,
+        "num": 242907,
+        "word": "北京门头沟紧急转移群众5000人左右",
+        "onboard_time": 1690786233,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187492,
+        "num": 242793,
+        "word": "CD26",
+        "onboard_time": 1690798953,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 573059,
+        "num": 242445,
+        "word": "韩女团成员被公司开除",
+        "onboard_time": 1690802371,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322763,
+        "num": 242235,
+        "word": "张晚意的荧幕初吻",
+        "onboard_time": 1690797273,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288406,
+        "num": 241829,
+        "word": "TFBOYS演唱会强实名见效了",
+        "onboard_time": 1690785094,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220279,
+        "num": 241352,
+        "word": "北京房山门头沟平均降雨量超300毫米",
+        "onboard_time": 1690789955,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198039,
+        "num": 241167,
+        "word": "亮记生物鉴定",
+        "onboard_time": 1690802793,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 267662,
+        "num": 240780,
+        "word": "众星VCR缅怀李玟",
+        "onboard_time": 1690799793,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240711,
+        "num": 240711,
+        "word": "ITZY回归",
+        "onboard_time": 1690795832,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240152,
+        "num": 240152,
+        "word": "张晚意陈都灵情头",
+        "onboard_time": 1690784615,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196069,
+        "num": 240097,
+        "word": "门头沟暴雨",
+        "onboard_time": 1690779936,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184450,
+        "num": 239611,
+        "word": "2位军官晋升上将军衔",
+        "onboard_time": 1690802072,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202298,
+        "num": 239143,
+        "word": "韩红现身李玟追思会现场",
+        "onboard_time": 1690799912,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200182,
+        "num": 238761,
+        "word": "六小龄童也去看了热烈",
+        "onboard_time": 1690788157,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176499,
+        "num": 238509,
+        "word": "妈妈来一趟英国被当成乞丐",
+        "onboard_time": 1690782272,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194717,
+        "num": 238164,
+        "word": "范丞丞飘带黑西装",
+        "onboard_time": 1690799793,
+        "rank": 43,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 192656,
+        "num": 237597,
+        "word": "北京发布地质灾害红色预警",
+        "onboard_time": 1690800934,
+        "rank": 44,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 184239,
+        "num": 237111,
+        "word": "TFBOYS三人都在北京了",
+        "onboard_time": 1690786597,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164585,
+        "num": 236995,
+        "word": "北京市防汛办提醒市民远离河道确保安全",
+        "onboard_time": 1690798893,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164155,
+        "num": 236464,
+        "word": "暴雨未致卢沟桥坍塌",
+        "onboard_time": 1690791633,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162882,
+        "num": 236101,
+        "word": "洪水过后女子家中密密麻麻全是鱼",
+        "onboard_time": 1690789232,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129360,
+        "num": 235712,
+        "word": "夏季赛第七周最佳阵容",
+        "onboard_time": 1690801772,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强不同文明交流对话#"
+    }
+  }
+}
