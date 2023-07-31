@@ -1,7 +1,15 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690768075415,
+  "endTime": 1690770831080,
   "band_list": [
+    {
+      "raw_hot": 2724773,
+      "num": 2724773,
+      "word": "卡努",
+      "onboard_time": 1690760127,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1938825,
       "num": 1938825,
@@ -11,20 +19,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1835146,
-      "num": 1835146,
-      "word": "卡努",
-      "onboard_time": 1690760127,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1625532,
       "num": 1625532,
       "word": "刘维 真正的离开不是死亡是遗忘",
       "onboard_time": 1690762714,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1463405,
+      "num": 1463405,
+      "word": "长相思 亲妈坐镇",
+      "onboard_time": 1690768171,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1454070,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1323142,
-      "num": 572723,
+      "num": 652068,
       "word": "韩国人为什么不穿彩色衣服",
       "onboard_time": 1690759945,
       "rank": 42,
@@ -115,6 +123,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 860262,
+      "num": 860262,
+      "word": "牛奶从未过期是我回来晚了",
+      "onboard_time": 1690768589,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 770492,
+      "num": 770492,
+      "word": "卡努路径调整",
+      "onboard_time": 1690767090,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753502,
       "num": 753502,
       "word": "外地人被内蒙物价整懵了",
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 744980,
-      "num": 565575,
+      "num": 672734,
       "word": "女子抽中10克金条因错过叫号被取消",
       "onboard_time": 1690764693,
       "rank": 11,
@@ -187,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 653027,
+      "num": 653027,
+      "word": "单依纯那英式发言",
+      "onboard_time": 1690767390,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 622877,
       "num": 622877,
       "word": "黄子韬去鹿晗演唱会了",
@@ -217,6 +249,22 @@
       "onboard_time": 1690765891,
       "rank": 24,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 556322,
+      "num": 556322,
+      "word": "北京居家",
+      "onboard_time": 1690766258,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554132,
+      "num": 554132,
+      "word": "李玟追悼会今日举行",
+      "onboard_time": 1690768893,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 553309,
@@ -259,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 518412,
-      "num": 518412,
-      "word": "北京居家",
-      "onboard_time": 1690766258,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 496441,
+      "num": 496441,
+      "word": "热烈票房逆跌",
+      "onboard_time": 1690767272,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 472605,
@@ -296,14 +344,6 @@
       "word": "费翔 妈妈严选",
       "onboard_time": 1690728695,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 432087,
-      "num": 373345,
-      "word": "热烈票房逆跌",
-      "onboard_time": 1690767272,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -361,14 +401,6 @@
       "onboard_time": 1690717354,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 385627,
-      "num": 385627,
-      "word": "单依纯那英式发言",
-      "onboard_time": 1690767390,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 381086,
@@ -435,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352831,
-      "num": 302408,
-      "word": "卡努路径调整",
-      "onboard_time": 1690767090,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 352644,
+      "num": 318836,
+      "word": "iPhone15价格将上涨",
+      "onboard_time": 1690770210,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 343485,
@@ -451,12 +483,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 334824,
+      "num": 240170,
+      "word": "洪水中飘来一个大冰箱市民自取清空",
+      "onboard_time": 1690769728,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327504,
       "num": 250159,
       "word": "有演技却没有爆火的演员",
       "onboard_time": 1690726474,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324413,
+      "num": 324413,
+      "word": "封神姬发的丸子头是怎么扎的",
+      "onboard_time": 1690769009,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 317809,
@@ -473,6 +521,14 @@
       "onboard_time": 1690733072,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312833,
+      "num": 312833,
+      "word": "杨玏分享伯邑考杀青视频",
+      "onboard_time": 1690767691,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 308895,
@@ -513,6 +569,14 @@
       "onboard_time": 1690762470,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278777,
+      "num": 278777,
+      "word": "当我跟爸妈说不想干了",
+      "onboard_time": 1690768412,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 274317,
@@ -635,6 +699,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211099,
+      "num": 211099,
+      "word": "谁家演唱会还给歌迷过生日呀",
+      "onboard_time": 1690767031,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 210976,
+      "num": 210976,
+      "word": "官方回应洪流中托举女孩的辅警能否转正",
+      "onboard_time": 1690768171,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208449,
+      "num": 208449,
+      "word": "Lisa亲了朴彩英的脸",
+      "onboard_time": 1690770568,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207872,
       "num": 207872,
       "word": "七月最后一天",
@@ -648,14 +736,6 @@
       "word": "长相思",
       "onboard_time": 1690714953,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 199601,
-      "num": 199601,
-      "word": "杨玏分享伯邑考杀青视频",
-      "onboard_time": 1690767691,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -673,14 +753,6 @@
       "onboard_time": 1690756275,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187115,
-      "num": 187115,
-      "word": "谁家演唱会还给歌迷过生日呀",
-      "onboard_time": 1690767031,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 186921,
@@ -809,6 +881,14 @@
       "onboard_time": 1690715371,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143231,
+      "num": 143231,
+      "word": "文旅局长怎么不拍视频了",
+      "onboard_time": 1690770750,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142820,

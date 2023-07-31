@@ -1,0 +1,410 @@
+{
+  "runTime": 1690770831080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2724773,
+        "num": 2724773,
+        "word": "卡努",
+        "onboard_time": 1690760127,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1463405,
+        "num": 1463405,
+        "word": "长相思 亲妈坐镇",
+        "onboard_time": 1690768171,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74269,
+        "num": 1218112,
+        "word": "在大运村和外国运动员一起耍非遗",
+        "onboard_time": 1690722814,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1084180,
+        "num": 1084180,
+        "word": "花花洗澡全国人民都知道了",
+        "onboard_time": 1690760609,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1052207,
+        "num": 1052207,
+        "word": "刘维 真正的离开不是死亡是遗忘",
+        "onboard_time": 1690762714,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 883102,
+        "num": 883102,
+        "word": "原来你好星期六那天魏大勋戴眼镜了",
+        "onboard_time": 1690764211,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 860262,
+        "num": 860262,
+        "word": "牛奶从未过期是我回来晚了",
+        "onboard_time": 1690768589,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 770492,
+        "num": 770492,
+        "word": "卡努路径调整",
+        "onboard_time": 1690767090,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672734,
+        "num": 672734,
+        "word": "女子抽中10克金条因错过叫号被取消",
+        "onboard_time": 1690764693,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653027,
+        "num": 653027,
+        "word": "单依纯那英式发言",
+        "onboard_time": 1690767390,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 844512,
+        "num": 652068,
+        "word": "韩国人为什么不穿彩色衣服",
+        "onboard_time": 1690759945,
+        "rank": 10,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 581365,
+        "num": 581365,
+        "word": "不上班但又饿不死的活法",
+        "onboard_time": 1690763915,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 556322,
+        "num": 556322,
+        "word": "北京居家",
+        "onboard_time": 1690766258,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554132,
+        "num": 554132,
+        "word": "李玟追悼会今日举行",
+        "onboard_time": 1690768893,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518078,
+        "num": 518078,
+        "word": "台风吹来的遍地生蚝能不能吃",
+        "onboard_time": 1690765891,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 496441,
+        "num": 496441,
+        "word": "热烈票房逆跌",
+        "onboard_time": 1690767272,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370998,
+        "num": 370998,
+        "word": "偷偷改造爸妈的2000平老家",
+        "onboard_time": 1690761149,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 364697,
+        "num": 364697,
+        "word": "杨紫拍戏过程中不知道邓为哭了",
+        "onboard_time": 1690763374,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345762,
+        "num": 345762,
+        "word": "上班多久带水杯才合适",
+        "onboard_time": 1690766193,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324413,
+        "num": 324413,
+        "word": "封神姬发的丸子头是怎么扎的",
+        "onboard_time": 1690769009,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412252,
+        "num": 319246,
+        "word": "一位66岁绿化工人在暴雨中离世",
+        "onboard_time": 1690762650,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352644,
+        "num": 318836,
+        "word": "iPhone15价格将上涨",
+        "onboard_time": 1690770210,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 312833,
+        "num": 312833,
+        "word": "杨玏分享伯邑考杀青视频",
+        "onboard_time": 1690767691,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308599,
+        "num": 308599,
+        "word": "长相思14集封神了",
+        "onboard_time": 1690727556,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297460,
+        "num": 297460,
+        "word": "8月狗屎运最旺星座",
+        "onboard_time": 1690760487,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293528,
+        "num": 293528,
+        "word": "巨齿鲨2吴京戏份",
+        "onboard_time": 1690765594,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278777,
+        "num": 278777,
+        "word": "当我跟爸妈说不想干了",
+        "onboard_time": 1690768412,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273997,
+        "num": 273997,
+        "word": "易烊千玺自己拼的图",
+        "onboard_time": 1690763976,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 258115,
+        "num": 258115,
+        "word": "涂山璟知道不是吻痕了",
+        "onboard_time": 1690760366,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235579,
+        "num": 240181,
+        "word": "5个症状提示体内有湿气",
+        "onboard_time": 1690731813,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334824,
+        "num": 240170,
+        "word": "洪水中飘来一个大冰箱市民自取清空",
+        "onboard_time": 1690769728,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240092,
+        "num": 240092,
+        "word": "李玟二姐首次露面回应礼服和遗产争议",
+        "onboard_time": 1690759404,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236346,
+        "num": 236346,
+        "word": "相柳好像新婚弃妇",
+        "onboard_time": 1690765293,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227256,
+        "num": 227256,
+        "word": "纣王 PUA高手",
+        "onboard_time": 1690766970,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215825,
+        "num": 215825,
+        "word": "花花真身比Q版还Q",
+        "onboard_time": 1690733311,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211099,
+        "num": 211099,
+        "word": "谁家演唱会还给歌迷过生日呀",
+        "onboard_time": 1690767031,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210976,
+        "num": 210976,
+        "word": "官方回应洪流中托举女孩的辅警能否转正",
+        "onboard_time": 1690768171,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209348,
+        "num": 209348,
+        "word": "刘维登不上母亲微信发文求助",
+        "onboard_time": 1690720535,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208449,
+        "num": 208449,
+        "word": "Lisa亲了朴彩英的脸",
+        "onboard_time": 1690770568,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199975,
+        "num": 199975,
+        "word": "封神",
+        "onboard_time": 1690762470,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188664,
+        "num": 188664,
+        "word": "宫城良田",
+        "onboard_time": 1690762532,
+        "rank": 40,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 182712,
+        "num": 182712,
+        "word": "TFBOYS要合体集训了吧",
+        "onboard_time": 1690732173,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179904,
+        "num": 179904,
+        "word": "外地人被内蒙物价整懵了",
+        "onboard_time": 1690735886,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176896,
+        "num": 176896,
+        "word": "脏 就不能心诚吗",
+        "onboard_time": 1690760846,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171309,
+        "num": 171309,
+        "word": "一毛钱的小串36年没涨过价",
+        "onboard_time": 1690766554,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160134,
+        "num": 160134,
+        "word": "罗布泊",
+        "onboard_time": 1690762050,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159309,
+        "num": 159309,
+        "word": "推特图标",
+        "onboard_time": 1690764394,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143939,
+        "num": 143939,
+        "word": "内娱身材管理满分的明星",
+        "onboard_time": 1690739058,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143791,
+        "num": 143791,
+        "word": "喜欢张杰很久的彭奶奶去世了",
+        "onboard_time": 1690724792,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143231,
+        "num": 143231,
+        "word": "文旅局长怎么不拍视频了",
+        "onboard_time": 1690770750,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#会唱歌的石头见证中华千年礼乐文明#"
+    }
+  }
+}
