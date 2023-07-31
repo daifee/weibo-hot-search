@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690788835733,
+  "endTime": 1690791747006,
   "band_list": [
     {
       "raw_hot": 3282960,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1670218,
+      "num": 1341385,
+      "word": "北京门头沟强降雨已致2人死亡",
+      "onboard_time": 1690790313,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1632393,
       "num": 508084,
       "word": "银行高管17岁儿子活剥猫皮",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1338246,
+      "num": 1338246,
+      "word": "李玟追思会",
+      "onboard_time": 1690789832,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1323142,
       "num": 674404,
       "word": "韩国人为什么不穿彩色衣服",
@@ -192,6 +208,14 @@
       "word": "原来你好星期六那天魏大勋戴眼镜了",
       "onboard_time": 1690764211,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1270945,
+      "num": 1270945,
+      "word": "六小龄童也去看了热烈",
+      "onboard_time": 1690788157,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -283,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964859,
+      "num": 964859,
+      "word": "杨颖说自己身高168",
+      "onboard_time": 1690789955,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 959336,
       "num": 912178,
       "word": "杨紫被低估的女演员",
@@ -323,12 +355,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 860161,
+      "num": 474999,
+      "word": "邓为美甲",
+      "onboard_time": 1690790733,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 810750,
       "num": 810750,
       "word": "列车延误女乘务员哽咽安抚乘客",
       "onboard_time": 1690778317,
       "rank": 12,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 795246,
+      "num": 646397,
+      "word": "刘维怼网友",
+      "onboard_time": 1690787733,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 789574,
+      "num": 789574,
+      "word": "北京门头沟紧急转移群众5000人左右",
+      "onboard_time": 1690786233,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 770492,
@@ -376,6 +432,14 @@
       "word": "王诗龄的画vs黄多多的画",
       "onboard_time": 1690710454,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 727722,
+      "num": 642350,
+      "word": "TFBOYS三人都在北京了",
+      "onboard_time": 1690786597,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -427,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656801,
+      "num": 410998,
+      "word": "戚薇李承铉带Lucky度假",
+      "onboard_time": 1690788934,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 656015,
       "num": 656015,
       "word": "杨紫拍戏过程中不知道邓为哭了",
@@ -449,22 +521,6 @@
       "onboard_time": 1690767390,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 646397,
-      "num": 646397,
-      "word": "刘维怼网友",
-      "onboard_time": 1690787733,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 642350,
-      "num": 642350,
-      "word": "TFBOYS三人都在北京了",
-      "onboard_time": 1690786597,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 622877,
@@ -497,14 +553,6 @@
       "onboard_time": 1690712373,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 609513,
-      "num": 609513,
-      "word": "北京门头沟紧急转移群众5000人左右",
-      "onboard_time": 1690786233,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 605968,
@@ -603,14 +651,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 535970,
-      "num": 535970,
-      "word": "六小龄童也去看了热烈",
-      "onboard_time": 1690788157,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 529777,
       "num": 529777,
       "word": "TFBOYS演唱会600万人想看了",
@@ -635,12 +675,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517744,
+      "num": 410132,
+      "word": "孟美岐说内测舞台再来一次也不会唱跳",
+      "onboard_time": 1690790193,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502095,
       "num": 492294,
       "word": "网友让邓为去补拍青簪行",
       "onboard_time": 1690776636,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 494747,
+      "num": 342373,
+      "word": "交行回应高管儿子活剥猫皮",
+      "onboard_time": 1690788393,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482172,
@@ -723,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424627,
+      "num": 424627,
+      "word": "洪水过后女子家中密密麻麻全是鱼",
+      "onboard_time": 1690789232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424552,
       "num": 424552,
       "word": "巨齿鲨2吴京戏份",
@@ -737,6 +801,14 @@
       "onboard_time": 1690729833,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 406976,
+      "num": 337936,
+      "word": "吴彦姝第一次见李现的情形",
+      "onboard_time": 1690787672,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 401926,
@@ -784,6 +856,22 @@
       "word": "精诚矿业瞒报死亡矿工43人",
       "onboard_time": 1690717354,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391466,
+      "num": 385025,
+      "word": "北京永定河水流湍急有简易房屋被冲走",
+      "onboard_time": 1690787014,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388427,
+      "num": 332518,
+      "word": "北京房山门头沟平均降雨量超300毫米",
+      "onboard_time": 1690789955,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -899,6 +987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346544,
+      "num": 295756,
+      "word": "永定河卢沟桥拦河闸将加大泄洪流量",
+      "onboard_time": 1690788093,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343485,
       "num": 338469,
       "word": "熊猫有时候真的人里人气",
@@ -907,12 +1003,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343053,
+      "num": 343053,
+      "word": "莫斯科",
+      "onboard_time": 1690790671,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 342566,
       "num": 342566,
       "word": "长相思端水剧照",
       "onboard_time": 1690775194,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335712,
+      "num": 293415,
+      "word": "官方回应网传县委书记自杀身亡",
+      "onboard_time": 1690787612,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335236,
@@ -977,14 +1089,6 @@
       "onboard_time": 1690733311,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 305487,
-      "num": 385025,
-      "word": "北京永定河水流湍急有简易房屋被冲走",
-      "onboard_time": 1690787014,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304643,
@@ -1115,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268345,
+      "num": 268345,
+      "word": "暴雨未致卢沟桥坍塌",
+      "onboard_time": 1690791633,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268241,
       "num": 242802,
       "word": "到底是谁逼小夭亲他",
@@ -1129,14 +1241,6 @@
       "onboard_time": 1690729358,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 264734,
-      "num": 240013,
-      "word": "官方回应网传县委书记自杀身亡",
-      "onboard_time": 1690787612,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264656,
@@ -1283,12 +1387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225941,
-      "num": 225941,
-      "word": "吴彦姝第一次见李现的情形",
-      "onboard_time": 1690787672,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 230853,
+      "num": 230853,
+      "word": "成龙的时代",
+      "onboard_time": 1690789893,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 229004,
+      "num": 229004,
+      "word": "长相思版鲁滨逊和星期五",
+      "onboard_time": 1690789714,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 225146,
@@ -1339,14 +1451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 215564,
-      "num": 235141,
-      "word": "永定河卢沟桥拦河闸将加大泄洪流量",
-      "onboard_time": 1690788093,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213209,
       "num": 213209,
       "word": "莲花楼导演好会选角",
@@ -1369,6 +1473,14 @@
       "onboard_time": 1690759043,
       "rank": 22,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 205560,
+      "num": 205560,
+      "word": "永定河",
+      "onboard_time": 1690791093,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203821,
@@ -1723,11 +1835,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46894,
+      "num": 1342249,
+      "word": "大学生接力为大运会加油",
+      "onboard_time": 1690791333,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44262,
       "num": 236220,
       "word": "暴雨红色预警持续",
       "onboard_time": 1690785213,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41059,
+      "num": 188097,
+      "word": "这批新规8月施行",
+      "onboard_time": 1690791214,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
