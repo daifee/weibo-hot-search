@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690773434831,
+  "endTime": 1690774433626,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2371,6 +2371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2291938,
+      "num": 2291938,
+      "word": "iPhone15价格将上涨",
+      "onboard_time": 1690770210,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2285274,
       "num": 2285274,
       "word": "清华硫酸泼熊学生成中科院副研究员",
@@ -2977,14 +2985,6 @@
       "onboard_time": 1688817692,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2090526,
-      "num": 2090526,
-      "word": "iPhone15价格将上涨",
-      "onboard_time": 1690770210,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 2085707,
@@ -3968,6 +3968,14 @@
       "word": "家人将为李玟举办佛教丧礼",
       "onboard_time": 1688629352,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1855434,
+      "num": 1210664,
+      "word": "毛晓彤方否认被抢角",
+      "onboard_time": 1690772192,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -7356,7 +7364,7 @@
     },
     {
       "raw_hot": 1323142,
-      "num": 672752,
+      "num": 674404,
       "word": "韩国人为什么不穿彩色衣服",
       "onboard_time": 1690759945,
       "rank": 42,
@@ -8257,14 +8265,6 @@
       "onboard_time": 1688952451,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1210664,
-      "num": 1210664,
-      "word": "毛晓彤方否认被抢角",
-      "onboard_time": 1690772192,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1210040,
@@ -9785,6 +9785,14 @@
       "onboard_time": 1688443298,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1091464,
+      "num": 675734,
+      "word": "全面落实带薪休假制度",
+      "onboard_time": 1690773156,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1088526,
@@ -14083,6 +14091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 865703,
+      "num": 865703,
+      "word": "文旅局长怎么不拍视频了",
+      "onboard_time": 1690770750,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865677,
       "num": 865677,
       "word": "福宝福猪猪隔了个爷爷滤镜",
@@ -16835,14 +16851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 763723,
-      "num": 763723,
-      "word": "文旅局长怎么不拍视频了",
-      "onboard_time": 1690770750,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 763547,
       "num": 755563,
       "word": "如果孟宴臣遇见的是薛杉杉",
@@ -18339,6 +18347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 711009,
+      "num": 711009,
+      "word": "热烈票房逆跌",
+      "onboard_time": 1690767272,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 710797,
       "num": 549438,
       "word": "53岁窦唯状态",
@@ -19152,14 +19168,6 @@
       "word": "偷偷藏不住算爆剧吗",
       "onboard_time": 1688976094,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 690187,
-      "num": 690187,
-      "word": "热烈票房逆跌",
-      "onboard_time": 1690767272,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -22411,6 +22419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 614564,
+      "num": 614564,
+      "word": "洪水中飘来一个大冰箱市民自取清空",
+      "onboard_time": 1690769728,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 614419,
       "num": 342799,
       "word": "警方回应老人持斧头入室追砍两女孩",
@@ -25091,14 +25107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 558437,
-      "num": 558437,
-      "word": "洪水中飘来一个大冰箱市民自取清空",
-      "onboard_time": 1690769728,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 558106,
       "num": 558106,
       "word": "君有疾否",
@@ -26232,6 +26240,14 @@
       "word": "WBG对战EDG",
       "onboard_time": 1689593430,
       "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 537292,
+      "num": 537292,
+      "word": "黑神话",
+      "onboard_time": 1690771650,
+      "rank": 17,
       "category": "游戏"
     },
     {
@@ -29083,6 +29099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 487295,
+      "num": 487295,
+      "word": "杨紫被低估的女演员",
+      "onboard_time": 1690773510,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 487259,
       "num": 487259,
       "word": "无锡3岁女童母亲疑募捐百万",
@@ -30073,6 +30097,14 @@
       "onboard_time": 1690368579,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471883,
+      "num": 471883,
+      "word": "虞书欣8月在剧组",
+      "onboard_time": 1690773032,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 471854,
@@ -34875,14 +34907,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 409261,
-      "num": 409261,
-      "word": "黑神话",
-      "onboard_time": 1690771650,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 409230,
       "num": 409230,
       "word": "王宝强在刘若英演唱会上说永远爱姐姐",
@@ -35905,6 +35929,14 @@
       "onboard_time": 1688393686,
       "rank": 43,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 396456,
+      "num": 396456,
+      "word": "封神姬发的丸子头是怎么扎的",
+      "onboard_time": 1690769009,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 396445,
@@ -38251,6 +38283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370735,
+      "num": 370735,
+      "word": "Lisa亲了朴彩英的脸",
+      "onboard_time": 1690770568,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 370551,
       "num": 337657,
       "word": "TFBOYS团粉可以站起来了",
@@ -38715,14 +38755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 364915,
-      "num": 364915,
-      "word": "Lisa亲了朴彩英的脸",
-      "onboard_time": 1690770568,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 364824,
       "num": 294213,
       "word": "张真源考驾照的原因",
@@ -38865,14 +38897,6 @@
       "onboard_time": 1689233792,
       "rank": 18,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 363047,
-      "num": 363047,
-      "word": "封神姬发的丸子头是怎么扎的",
-      "onboard_time": 1690769009,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 362683,
@@ -47235,6 +47259,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 287766,
+      "num": 287766,
+      "word": "檀健次蒲萄四搭",
+      "onboard_time": 1690772612,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287726,
       "num": 287726,
       "word": "杨洋张彬彬连手都有体型差",
@@ -48120,14 +48152,6 @@
       "word": "消失的十一层今日开播",
       "onboard_time": 1688869770,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 281136,
-      "num": 281136,
-      "word": "檀健次蒲萄四搭",
-      "onboard_time": 1690772612,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -50587,6 +50611,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 261941,
+      "num": 261941,
+      "word": "莲花楼失莲不断联",
+      "onboard_time": 1690772310,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261891,
       "num": 232039,
       "word": "在法国可以只带手机出门吗",
@@ -50609,6 +50641,14 @@
       "onboard_time": 1688311959,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261786,
+      "num": 261786,
+      "word": "阔腿裤缩水能有多离谱",
+      "onboard_time": 1690772070,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 261753,
@@ -52939,14 +52979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244820,
-      "num": 244820,
-      "word": "全面落实带薪休假制度",
-      "onboard_time": 1690773156,
-      "rank": 33,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 244813,
       "num": 244813,
       "word": "小伙当兵12年拿遍一二三等功",
@@ -54179,14 +54211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236704,
-      "num": 236704,
-      "word": "莲花楼失莲不断联",
-      "onboard_time": 1690772310,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 236700,
       "num": 236700,
       "word": "女子让外卖员摘面罩看脸否则差评",
@@ -54627,12 +54651,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233800,
-      "num": 233800,
-      "word": "虞书欣8月在剧组",
-      "onboard_time": 1690773032,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 233765,
+      "num": 233765,
+      "word": "福州一餐厅凌晨发生爆炸",
+      "onboard_time": 1690773932,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233708,
@@ -57785,14 +57809,6 @@
       "onboard_time": 1688949572,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213474,
-      "num": 213474,
-      "word": "阔腿裤缩水能有多离谱",
-      "onboard_time": 1690772070,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 213468,
@@ -61601,6 +61617,14 @@
       "onboard_time": 1688265267,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194620,
+      "num": 194620,
+      "word": "朱一龙印尼旅行vlog",
+      "onboard_time": 1690773634,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 194610,
