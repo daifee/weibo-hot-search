@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690799707880,
+  "endTime": 1690802052907,
   "band_list": [
     {
       "raw_hot": 3282960,
@@ -137,6 +137,14 @@
       "onboard_time": 1690780114,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1628560,
+      "num": 1628560,
+      "word": "北京升级发布洪水红色预警",
+      "onboard_time": 1690780174,
+      "rank": 28,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 1625532,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1236234,
+      "num": 658220,
+      "word": "悉尼上空现CoCoLee云朵字",
+      "onboard_time": 1690799912,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1188353,
       "num": 917195,
       "word": "北京门头沟暴雨大量汽车被冲走",
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 985487,
-      "num": 417937,
+      "num": 639855,
       "word": "邓为cos狐狸跳女团舞",
       "onboard_time": 1690797453,
       "rank": 20,
@@ -395,12 +411,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 930689,
-      "num": 930689,
-      "word": "北京升级发布洪水红色预警",
-      "onboard_time": 1690780174,
-      "rank": 28,
-      "category": "社会新闻,自然"
+      "raw_hot": 939322,
+      "num": 939322,
+      "word": "K396次列车最新消息",
+      "onboard_time": 1690797214,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 920450,
@@ -459,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 828286,
-      "num": 828286,
-      "word": "K396次列车最新消息",
-      "onboard_time": 1690797214,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 810750,
       "num": 810750,
       "word": "列车延误女乘务员哽咽安抚乘客",
@@ -505,6 +513,14 @@
       "onboard_time": 1690775013,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 765468,
+      "num": 765468,
+      "word": "北京全市河道均在行洪",
+      "onboard_time": 1690798713,
+      "rank": 49,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 759359,
@@ -627,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 629422,
+      "num": 1281957,
+      "word": "杭州种出78斤大西瓜破全省纪录",
+      "onboard_time": 1690798535,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622877,
       "num": 622877,
       "word": "黄子韬去鹿晗演唱会了",
@@ -649,14 +673,6 @@
       "onboard_time": 1690769728,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 610049,
-      "num": 610049,
-      "word": "北京全市河道均在行洪",
-      "onboard_time": 1690798713,
-      "rank": 49,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 609754,
@@ -803,6 +819,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 535043,
+      "num": 535043,
+      "word": "卡努升级为超强台风",
+      "onboard_time": 1690799193,
+      "rank": 33,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 529777,
       "num": 529777,
       "word": "TFBOYS演唱会600万人想看了",
@@ -899,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 460227,
+      "num": 460227,
+      "word": "北京东西城再发暴雨红色预警",
+      "onboard_time": 1690800273,
+      "rank": 21,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 449342,
       "num": 449342,
       "word": "罗布泊",
@@ -961,14 +993,6 @@
       "onboard_time": 1690787672,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 405871,
-      "num": 1281957,
-      "word": "杭州种出78斤大西瓜破全省纪录",
-      "onboard_time": 1690798535,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401926,
@@ -1059,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375675,
+      "num": 375675,
+      "word": "王源说CoCo姐的音乐和爱没有终点",
+      "onboard_time": 1690799971,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370735,
       "num": 370735,
       "word": "Lisa亲了朴彩英的脸",
@@ -1076,7 +1108,7 @@
     },
     {
       "raw_hot": 368252,
-      "num": 279844,
+      "num": 318458,
       "word": "种地吧赵小童 全麦面粉做法",
       "onboard_time": 1690797817,
       "rank": 39,
@@ -1219,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314496,
+      "num": 314496,
+      "word": "众星VCR缅怀李玟",
+      "onboard_time": 1690799793,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314296,
       "num": 258614,
       "word": "王一博 广州",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1690733311,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 305669,
+      "num": 305669,
+      "word": "狐狸精为这个家付出了太多",
+      "onboard_time": 1690801411,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 304643,
@@ -1313,6 +1361,14 @@
       "onboard_time": 1690765293,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292511,
+      "num": 271290,
+      "word": "为什么不是kill shot主打",
+      "onboard_time": 1690800934,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 288759,
@@ -1555,14 +1611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234597,
-      "num": 234597,
-      "word": "卡努升级为超强台风",
-      "onboard_time": 1690799193,
-      "rank": 33,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 234342,
       "num": 173122,
       "word": "因为是张新成所以脏可以心诚",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1690766554,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230436,
+      "num": 187205,
+      "word": "小夭和家人相认哭疯了",
+      "onboard_time": 1690801711,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 229380,
@@ -1627,6 +1683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221153,
+      "num": 187194,
+      "word": "韩红现身李玟追思会现场",
+      "onboard_time": 1690799912,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219993,
       "num": 219993,
       "word": "你今天居家办公吗",
@@ -1659,6 +1723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214529,
+      "num": 187187,
+      "word": "范丞丞飘带黑西装",
+      "onboard_time": 1690799793,
+      "rank": 43,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 213209,
       "num": 213209,
       "word": "莲花楼导演好会选角",
@@ -1673,6 +1745,14 @@
       "onboard_time": 1690788157,
       "rank": 45,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 208332,
+      "num": 187175,
+      "word": "北京发布地质灾害红色预警",
+      "onboard_time": 1690800934,
+      "rank": 44,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 207872,
@@ -1739,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195332,
+      "num": 187170,
+      "word": "FIRST青年电影展",
+      "onboard_time": 1690801534,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195279,
       "num": 195279,
       "word": "易烊千玺边系扣子边下楼梯",
@@ -1777,6 +1865,14 @@
       "onboard_time": 1690771291,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189034,
+      "num": 189034,
+      "word": "夏季赛第七周最佳阵容",
+      "onboard_time": 1690801772,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 186921,
@@ -1835,20 +1931,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173039,
+      "num": 189612,
+      "word": "北京市防汛办提醒市民远离河道确保安全",
+      "onboard_time": 1690798893,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173022,
       "num": 173022,
       "word": "涂山璟角色号没营业",
       "onboard_time": 1690758864,
       "rank": 48,
       "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 172502,
-      "num": 189612,
-      "word": "北京市防汛办提醒市民远离河道确保安全",
-      "onboard_time": 1690798893,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169821,
@@ -1889,6 +1985,14 @@
       "onboard_time": 1690728936,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154137,
+      "num": 187140,
+      "word": "七月再见",
+      "onboard_time": 1690801593,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 152422,
