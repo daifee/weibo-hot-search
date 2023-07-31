@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690806966389,
+  "endTime": 1690807951386,
   "band_list": [
     {
       "raw_hot": 3282960,
@@ -75,8 +75,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1885105,
-      "num": 1885105,
+      "raw_hot": 1887110,
+      "num": 1887110,
       "word": "小夭和家人相认哭疯了",
       "onboard_time": 1690801711,
       "rank": 41,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1410247,
-      "num": 515519,
+      "num": 619524,
       "word": "马嘉祺发了30多张照片",
       "onboard_time": 1690805374,
       "rank": 10,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1264112,
+      "num": 1264112,
+      "word": "老干妈表层红油藏有游动微生物吗",
+      "onboard_time": 1690804712,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1254690,
       "num": 1254690,
       "word": "张一山说杨紫从小就很漂亮",
@@ -385,14 +393,6 @@
       "onboard_time": 1690763915,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1028098,
-      "num": 482654,
-      "word": "老干妈表层红油藏有游动微生物吗",
-      "onboard_time": 1690804712,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1009872,
@@ -515,6 +515,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 796207,
+      "num": 796207,
+      "word": "叶十七的七是娇妻的妻",
+      "onboard_time": 1690804773,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 795246,
       "num": 646397,
       "word": "刘维怼网友",
@@ -569,14 +577,6 @@
       "onboard_time": 1690783173,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 758177,
-      "num": 758177,
-      "word": "叶十七的七是娇妻的妻",
-      "onboard_time": 1690804773,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 753502,
@@ -884,11 +884,19 @@
     },
     {
       "raw_hot": 538240,
-      "num": 347811,
+      "num": 471147,
       "word": "是谁坐高铁还要看导航",
       "onboard_time": 1690805073,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535831,
+      "num": 535831,
+      "word": "shinyruo  明天播",
+      "onboard_time": 1690806272,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 529777,
@@ -905,6 +913,14 @@
       "onboard_time": 1690791934,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 528501,
+      "num": 528501,
+      "word": "黄晓明万茜新剧吻戏",
+      "onboard_time": 1690805433,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 526975,
@@ -1001,14 +1017,6 @@
       "onboard_time": 1690782272,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 459860,
-      "num": 346618,
-      "word": "黄晓明万茜新剧吻戏",
-      "onboard_time": 1690805433,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 449342,
@@ -1291,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337680,
+      "num": 284426,
+      "word": "小夭主动为玱玹挡箭",
+      "onboard_time": 1690807172,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335712,
       "num": 293415,
       "word": "官方回应网传县委书记自杀身亡",
@@ -1464,6 +1480,14 @@
       "word": "檀健次蒲萄四搭",
       "onboard_time": 1690772612,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 280816,
+      "num": 280816,
+      "word": "杨迪在热烈中饰演杨迪蜡像",
+      "onboard_time": 1690807172,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1667,6 +1691,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 247802,
+      "num": 247802,
+      "word": "李玟妈妈将缺席告别式",
+      "onboard_time": 1690804354,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247239,
       "num": 247239,
       "word": "官方回应洪流中托举女孩的辅警能否转正",
@@ -1683,12 +1715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238740,
-      "num": 238740,
-      "word": "李玟妈妈将缺席告别式",
-      "onboard_time": 1690804354,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 236849,
+      "num": 236849,
+      "word": "北京提醒广大市民远离河道",
+      "onboard_time": 1690803332,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234927,
@@ -1763,14 +1795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223566,
-      "num": 223566,
-      "word": "shinyruo  明天播",
-      "onboard_time": 1690806272,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 221153,
       "num": 239143,
       "word": "韩红现身李玟追思会现场",
@@ -1827,20 +1851,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213092,
-      "num": 213092,
-      "word": "北京提醒广大市民远离河道",
-      "onboard_time": 1690803332,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209835,
       "num": 209835,
       "word": "陈都灵挂脖露背裙",
       "onboard_time": 1690788157,
       "rank": 45,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 208537,
+      "num": 208537,
+      "word": "夭柳变夭邶",
+      "onboard_time": 1690807353,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 208332,
@@ -2083,6 +2107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160791,
+      "num": 196070,
+      "word": "张小斐西装红唇",
+      "onboard_time": 1690807893,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 159903,
       "num": 159903,
       "word": "鹿晗转圈和粉丝拜拜",
@@ -2145,6 +2177,14 @@
       "onboard_time": 1690715371,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143091,
+      "num": 195450,
+      "word": "故宫",
+      "onboard_time": 1690807594,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 142820,
@@ -2235,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106766,
+      "num": 1273519,
+      "word": "这批新规8月施行",
+      "onboard_time": 1690791214,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103738,
       "num": 2112423,
       "word": "在大运村和外国运动员一起耍非遗",
@@ -2273,14 +2321,6 @@
       "onboard_time": 1690734688,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71160,
-      "num": 1256717,
-      "word": "这批新规8月施行",
-      "onboard_time": 1690791214,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66997,
