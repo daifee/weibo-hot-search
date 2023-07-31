@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690803231089,
+  "endTime": 1690806966389,
   "band_list": [
     {
       "raw_hot": 3282960,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1885105,
+      "num": 1885105,
+      "word": "小夭和家人相认哭疯了",
+      "onboard_time": 1690801711,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1855434,
       "num": 1693510,
       "word": "毛晓彤方否认被抢角",
@@ -129,6 +137,14 @@
       "onboard_time": 1690794032,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1633951,
+      "num": 1633951,
+      "word": "韩女团成员被公司开除",
+      "onboard_time": 1690802371,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1632393,
@@ -201,6 +217,14 @@
       "onboard_time": 1690727556,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1410247,
+      "num": 515519,
+      "word": "马嘉祺发了30多张照片",
+      "onboard_time": 1690805374,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1366719,
@@ -363,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1028098,
+      "num": 482654,
+      "word": "老干妈表层红油藏有游动微生物吗",
+      "onboard_time": 1690804712,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1009872,
       "num": 1009872,
       "word": "暴雨未致卢沟桥坍塌",
@@ -435,14 +467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 889107,
-      "num": 889107,
-      "word": "小夭和家人相认哭疯了",
-      "onboard_time": 1690801711,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 888538,
       "num": 833006,
       "word": "提名内娱最自律的艺人",
@@ -507,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785275,
+      "num": 785275,
+      "word": "2位军官晋升上将军衔",
+      "onboard_time": 1690802072,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770492,
       "num": 770492,
       "word": "卡努路径调整",
@@ -537,6 +569,14 @@
       "onboard_time": 1690783173,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 758177,
+      "num": 758177,
+      "word": "叶十七的七是娇妻的妻",
+      "onboard_time": 1690804773,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 753502,
@@ -593,6 +633,14 @@
       "onboard_time": 1690773452,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 692397,
+      "num": 692397,
+      "word": "李雪琴吻戏大型围观现场",
+      "onboard_time": 1690804832,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 676411,
@@ -755,14 +803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 573059,
-      "num": 242445,
-      "word": "韩女团成员被公司开除",
-      "onboard_time": 1690802371,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 572766,
       "num": 572766,
       "word": "迪丽热巴摸龚俊耳朵",
@@ -841,6 +881,14 @@
       "onboard_time": 1690761149,
       "rank": 15,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 538240,
+      "num": 347811,
+      "word": "是谁坐高铁还要看导航",
+      "onboard_time": 1690805073,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529777,
@@ -953,6 +1001,14 @@
       "onboard_time": 1690782272,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 459860,
+      "num": 346618,
+      "word": "黄晓明万茜新剧吻戏",
+      "onboard_time": 1690805433,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 449342,
@@ -1307,6 +1363,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 309970,
+      "num": 309970,
+      "word": "亮记生物鉴定",
+      "onboard_time": 1690802793,
+      "rank": 34,
+      "category": "其它"
+    },
+    {
       "raw_hot": 308895,
       "num": 308895,
       "word": "长相思才是我想看的女主视角剧",
@@ -1619,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238740,
+      "num": 238740,
+      "word": "李玟妈妈将缺席告别式",
+      "onboard_time": 1690804354,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234927,
       "num": 234927,
       "word": "旺仔和旺旺是两个人",
@@ -1691,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223566,
+      "num": 223566,
+      "word": "shinyruo  明天播",
+      "onboard_time": 1690806272,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221153,
       "num": 239143,
       "word": "韩红现身李玟追思会现场",
@@ -1747,6 +1827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213092,
+      "num": 213092,
+      "word": "北京提醒广大市民远离河道",
+      "onboard_time": 1690803332,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209835,
       "num": 209835,
       "word": "陈都灵挂脖露背裙",
@@ -1787,6 +1875,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203330,
+      "num": 203330,
+      "word": "芭比",
+      "onboard_time": 1690806754,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 202274,
+      "num": 202274,
+      "word": "陈牧驰封神面试打军体拳",
+      "onboard_time": 1690804591,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202239,
       "num": 202239,
       "word": "龚俊迪丽热巴情头",
@@ -1817,14 +1921,6 @@
       "onboard_time": 1690794872,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198039,
-      "num": 241167,
-      "word": "亮记生物鉴定",
-      "onboard_time": 1690802793,
-      "rank": 34,
-      "category": "其它"
     },
     {
       "raw_hot": 196630,
@@ -1913,14 +2009,6 @@
       "onboard_time": 1690734986,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184450,
-      "num": 239611,
-      "word": "2位军官晋升上将军衔",
-      "onboard_time": 1690802072,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181921,
@@ -2187,6 +2275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71160,
+      "num": 1256717,
+      "word": "这批新规8月施行",
+      "onboard_time": 1690791214,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66997,
       "num": 81112,
       "word": "一P图我的手机就特别烫",
@@ -2225,14 +2321,6 @@
       "onboard_time": 1690798174,
       "rank": 35,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 41059,
-      "num": 188097,
-      "word": "这批新规8月施行",
-      "onboard_time": 1690791214,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29333,
