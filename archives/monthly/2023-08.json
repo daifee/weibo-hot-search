@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690842821783,
+  "endTime": 1690845388685,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 798521,
+      "num": 577674,
+      "word": "四川一公职人员被曝涉不雅聊天",
+      "onboard_time": 1690813477,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716551,
       "num": 716551,
       "word": "防风邶是相柳写给小夭的情书",
@@ -57,6 +65,14 @@
       "onboard_time": 1690816419,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 683267,
+      "num": 683267,
+      "word": "台风卡努或将转向",
+      "onboard_time": 1690842137,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 656366,
@@ -81,14 +97,6 @@
       "onboard_time": 1690820309,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 577674,
-      "num": 577674,
-      "word": "四川一公职人员被曝涉不雅聊天",
-      "onboard_time": 1690813477,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 555796,
@@ -145,6 +153,14 @@
       "onboard_time": 1690811016,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 403855,
+      "num": 403855,
+      "word": "故宫辟谣600年不积水",
+      "onboard_time": 1690816057,
+      "rank": 24,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 385051,
@@ -227,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240820,
+      "num": 214831,
+      "word": "夭璟名场面来了",
+      "onboard_time": 1690841356,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236578,
       "num": 236578,
       "word": "卡努升级为超强台风",
@@ -249,6 +273,14 @@
       "onboard_time": 1690816715,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229322,
+      "num": 155697,
+      "word": "00后上班这么勇的吗",
+      "onboard_time": 1690842076,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 228562,
@@ -283,12 +315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202207,
-      "num": 202207,
-      "word": "故宫辟谣600年不积水",
-      "onboard_time": 1690816057,
-      "rank": 24,
-      "category": "社会新闻,旅游"
+      "raw_hot": 206431,
+      "num": 206431,
+      "word": "内马尔",
+      "onboard_time": 1690830074,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 198183,
@@ -379,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166796,
+      "num": 104405,
+      "word": "女子吐槽丈夫在新家装100多个插座",
+      "onboard_time": 1690844723,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 166252,
       "num": 233660,
       "word": "北京全市河道均在行洪",
@@ -395,7 +435,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141640,
+      "raw_hot": 148176,
+      "num": 148176,
+      "word": "射手座真的不是冷漠的人",
+      "onboard_time": 1690820729,
+      "rank": 15,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 142224,
       "num": 228623,
       "word": "卡努",
       "onboard_time": 1690814198,
@@ -435,14 +483,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 114333,
-      "num": 114333,
-      "word": "射手座真的不是冷漠的人",
-      "onboard_time": 1690820729,
-      "rank": 15,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 111594,
       "num": 134009,
       "word": "北京各区蓝天救援队电话汇总",
@@ -451,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111371,
-      "num": 111371,
-      "word": "内马尔",
-      "onboard_time": 1690830074,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 110669,
+      "num": 103578,
+      "word": "今天把祝福献给人民子弟兵",
+      "onboard_time": 1690844782,
+      "rank": 31,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 107205,
@@ -467,6 +507,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 106934,
+      "num": 106934,
+      "word": "直击南昌八一广场升旗仪式现场",
+      "onboard_time": 1690845084,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103556,
       "num": 95826,
       "word": "玱玹打不过防风意映",
@@ -475,20 +523,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 77715,
-      "num": 52396,
-      "word": "夭璟名场面来了",
-      "onboard_time": 1690841356,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 71529,
-      "num": 71529,
+      "raw_hot": 91170,
+      "num": 91170,
       "word": "原作者当编剧的影视剧作品",
       "onboard_time": 1690831515,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 83861,
+      "num": 641977,
+      "word": "在成都的外国运动员跳广场舞吃串串香",
+      "onboard_time": 1690810596,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70515,
+      "num": 70515,
+      "word": "云南地震",
+      "onboard_time": 1690845324,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69294,
+      "num": 69294,
+      "word": "马立奥玩游戏淘汰了三喜",
+      "onboard_time": 1690828155,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 60678,
@@ -505,38 +569,6 @@
       "onboard_time": 1690827078,
       "rank": 34,
       "category": "军事"
-    },
-    {
-      "raw_hot": 49897,
-      "num": 49897,
-      "word": "台风卡努或将转向",
-      "onboard_time": 1690842137,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44313,
-      "num": 41255,
-      "word": "马立奥玩游戏淘汰了三喜",
-      "onboard_time": 1690828155,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 34169,
-      "num": 210852,
-      "word": "在成都的外国运动员跳广场舞吃串串香",
-      "onboard_time": 1690810596,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 33301,
-      "num": 38934,
-      "word": "00后上班这么勇的吗",
-      "onboard_time": 1690842076,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 27474,
