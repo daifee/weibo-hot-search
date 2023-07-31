@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690828448815,
+  "endTime": 1690830811758,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -2779,6 +2779,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 44313,
+      "num": 41255,
+      "word": "马立奥玩游戏淘汰了三喜",
+      "onboard_time": 1690828155,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44262,
       "num": 236220,
       "word": "暴雨红色预警持续",
@@ -2801,14 +2809,6 @@
       "onboard_time": 1690798174,
       "rank": 35,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 41255,
-      "num": 41255,
-      "word": "马立奥玩游戏淘汰了三喜",
-      "onboard_time": 1690828155,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 29333,
