@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690791747006,
+  "endTime": 1690792509602,
   "band_list": [
     {
       "raw_hot": 3282960,
@@ -83,20 +83,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1747213,
+      "num": 1341385,
+      "word": "北京门头沟强降雨已致2人死亡",
+      "onboard_time": 1690790313,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1692397,
       "num": 1249852,
       "word": "唐嫣后援会停止更新",
       "onboard_time": 1690775733,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1670218,
-      "num": 1341385,
-      "word": "北京门头沟强降雨已致2人死亡",
-      "onboard_time": 1690790313,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1632393,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1122519,
+      "num": 523062,
+      "word": "邓为美甲",
+      "onboard_time": 1690790733,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1103962,
       "num": 1103962,
       "word": "真实的缅北边境现状",
@@ -283,6 +291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1039660,
+      "num": 1039660,
+      "word": "杨颖说自己身高168",
+      "onboard_time": 1690789955,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 986828,
       "num": 502260,
       "word": "门头沟",
@@ -305,14 +321,6 @@
       "onboard_time": 1690776636,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 964859,
-      "num": 964859,
-      "word": "杨颖说自己身高168",
-      "onboard_time": 1690789955,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 959336,
@@ -353,14 +361,6 @@
       "onboard_time": 1690770750,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 860161,
-      "num": 474999,
-      "word": "邓为美甲",
-      "onboard_time": 1690790733,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 810750,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 656801,
-      "num": 410998,
+      "num": 522761,
       "word": "戚薇李承铉带Lucky度假",
       "onboard_time": 1690788934,
       "rank": 15,
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 625316,
+      "num": 522934,
+      "word": "莫斯科",
+      "onboard_time": 1690790671,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 622877,
       "num": 622877,
       "word": "黄子韬去鹿晗演唱会了",
@@ -544,6 +552,14 @@
       "word": "洪水中飘来一个大冰箱市民自取清空",
       "onboard_time": 1690769728,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 613312,
+      "num": 522848,
+      "word": "暴雨未致卢沟桥坍塌",
+      "onboard_time": 1690791633,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -569,6 +585,14 @@
       "onboard_time": 1690777362,
       "rank": 28,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 586815,
+      "num": 522814,
+      "word": "孟美岐说内测舞台再来一次也不会唱跳",
+      "onboard_time": 1690790193,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 575032,
@@ -643,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544486,
+      "num": 342373,
+      "word": "交行回应高管儿子活剥猫皮",
+      "onboard_time": 1690788393,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541011,
       "num": 541011,
       "word": "偷偷改造爸妈的2000平老家",
@@ -667,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522666,
+      "num": 522666,
+      "word": "洪水过后女子家中密密麻麻全是鱼",
+      "onboard_time": 1690789232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521824,
       "num": 521824,
       "word": "TFBOYS要合体集训了吧",
@@ -675,28 +715,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 517744,
-      "num": 410132,
-      "word": "孟美岐说内测舞台再来一次也不会唱跳",
-      "onboard_time": 1690790193,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 502095,
       "num": 492294,
       "word": "网友让邓为去补拍青簪行",
       "onboard_time": 1690776636,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 494747,
-      "num": 342373,
-      "word": "交行回应高管儿子活剥猫皮",
-      "onboard_time": 1690788393,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 482172,
@@ -729,6 +753,14 @@
       "onboard_time": 1690773032,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466728,
+      "num": 320704,
+      "word": "再见爱人3",
+      "onboard_time": 1690791934,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 466165,
@@ -776,14 +808,6 @@
       "word": "摧毁孩子的主体性的妈妈",
       "onboard_time": 1690734210,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424627,
-      "num": 424627,
-      "word": "洪水过后女子家中密密麻麻全是鱼",
-      "onboard_time": 1690789232,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -988,7 +1012,7 @@
     },
     {
       "raw_hot": 346544,
-      "num": 295756,
+      "num": 311806,
       "word": "永定河卢沟桥拦河闸将加大泄洪流量",
       "onboard_time": 1690788093,
       "rank": 38,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1690731096,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 343053,
-      "num": 343053,
-      "word": "莫斯科",
-      "onboard_time": 1690790671,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 342566,
@@ -1219,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268345,
-      "num": 268345,
-      "word": "暴雨未致卢沟桥坍塌",
-      "onboard_time": 1690791633,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268241,
       "num": 242802,
       "word": "到底是谁逼小夭亲他",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1690727072,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264414,
+      "num": 230687,
+      "word": "永定河",
+      "onboard_time": 1690791093,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264281,
@@ -1331,6 +1347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256502,
+      "num": 256502,
+      "word": "成龙的时代",
+      "onboard_time": 1690789893,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256215,
       "num": 256215,
       "word": "推特图标",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1690766554,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230853,
-      "num": 230853,
-      "word": "成龙的时代",
-      "onboard_time": 1690789893,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 229004,
@@ -1473,14 +1489,6 @@
       "onboard_time": 1690759043,
       "rank": 22,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 205560,
-      "num": 205560,
-      "word": "永定河",
-      "onboard_time": 1690791093,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203821,
@@ -1819,6 +1827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85794,
+      "num": 1342249,
+      "word": "大学生接力为大运会加油",
+      "onboard_time": 1690791333,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66997,
       "num": 81112,
       "word": "一P图我的手机就特别烫",
@@ -1833,14 +1849,6 @@
       "onboard_time": 1690779336,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46894,
-      "num": 1342249,
-      "word": "大学生接力为大运会加油",
-      "onboard_time": 1690791333,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 44262,

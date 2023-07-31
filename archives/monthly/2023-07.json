@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690791747006,
+  "endTime": 1690792509602,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -4627,6 +4627,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 1747213,
+      "num": 1341385,
+      "word": "北京门头沟强降雨已致2人死亡",
+      "onboard_time": 1690790313,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1746259,
       "num": 1746259,
       "word": "家属确认旅行博主姜野在新疆遇难",
@@ -5001,14 +5009,6 @@
       "onboard_time": 1688203111,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1670218,
-      "num": 1341385,
-      "word": "北京门头沟强降雨已致2人死亡",
-      "onboard_time": 1690790313,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1668938,
@@ -9419,6 +9419,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 1122519,
+      "num": 523062,
+      "word": "邓为美甲",
+      "onboard_time": 1690790733,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1122362,
       "num": 569440,
       "word": "王一博说生病时在网上冲浪非常精彩",
@@ -10699,6 +10707,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1039660,
+      "num": 1039660,
+      "word": "杨颖说自己身高168",
+      "onboard_time": 1690789955,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1038931,
       "num": 1038931,
       "word": "中国女足vs丹麦队",
@@ -11977,14 +11993,6 @@
       "onboard_time": 1688183792,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 964859,
-      "num": 964859,
-      "word": "杨颖说自己身高168",
-      "onboard_time": 1690789955,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 964635,
@@ -14401,14 +14409,6 @@
       "onboard_time": 1688879730,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 860161,
-      "num": 474999,
-      "word": "邓为美甲",
-      "onboard_time": 1690790733,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 858838,
@@ -20860,7 +20860,7 @@
     },
     {
       "raw_hot": 656801,
-      "num": 410998,
+      "num": 522761,
       "word": "戚薇李承铉带Lucky度假",
       "onboard_time": 1690788934,
       "rank": 15,
@@ -22315,6 +22315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 625316,
+      "num": 522934,
+      "word": "莫斯科",
+      "onboard_time": 1690790671,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 625268,
       "num": 517605,
       "word": "杨紫说小夭是不敢相认",
@@ -22753,6 +22761,14 @@
       "onboard_time": 1690353455,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 613312,
+      "num": 522848,
+      "word": "暴雨未致卢沟桥坍塌",
+      "onboard_time": 1690791633,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612984,
@@ -23993,6 +24009,14 @@
       "onboard_time": 1689471093,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 586815,
+      "num": 522814,
+      "word": "孟美岐说内测舞台再来一次也不会唱跳",
+      "onboard_time": 1690790193,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 586433,
@@ -26123,6 +26147,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 544486,
+      "num": 342373,
+      "word": "交行回应高管儿子活剥猫皮",
+      "onboard_time": 1690788393,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544474,
       "num": 544474,
       "word": "银赫东海圭贤不续约SMTOWN",
@@ -27219,6 +27251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522666,
+      "num": 522666,
+      "word": "洪水过后女子家中密密麻麻全是鱼",
+      "onboard_time": 1690789232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522627,
       "num": 522627,
       "word": "拾荒老人喝瓶内剩水男子抹泪买水相送",
@@ -27569,14 +27609,6 @@
       "onboard_time": 1690213057,
       "rank": 21,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 517744,
-      "num": 410132,
-      "word": "孟美岐说内测舞台再来一次也不会唱跳",
-      "onboard_time": 1690790193,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 517593,
@@ -28881,14 +28913,6 @@
       "onboard_time": 1689315456,
       "rank": 27,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 494747,
-      "num": 342373,
-      "word": "交行回应高管儿子活剥猫皮",
-      "onboard_time": 1690788393,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494694,
@@ -30753,6 +30777,14 @@
       "onboard_time": 1690516299,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466728,
+      "num": 320704,
+      "word": "再见爱人3",
+      "onboard_time": 1690791934,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 466713,
@@ -34040,14 +34072,6 @@
       "word": "女子放弃高薪全职带娃丈夫离婚拒补偿",
       "onboard_time": 1688703820,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424627,
-      "num": 424627,
-      "word": "洪水过后女子家中密密麻麻全是鱼",
-      "onboard_time": 1690789232,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -40924,7 +40948,7 @@
     },
     {
       "raw_hot": 346544,
-      "num": 295756,
+      "num": 311806,
       "word": "永定河卢沟桥拦河闸将加大泄洪流量",
       "onboard_time": 1690788093,
       "rank": 38,
@@ -41169,14 +41193,6 @@
       "onboard_time": 1688726555,
       "rank": 24,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 343053,
-      "num": 343053,
-      "word": "莫斯科",
-      "onboard_time": 1690790671,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 343028,
@@ -50275,14 +50291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268345,
-      "num": 268345,
-      "word": "暴雨未致卢沟桥坍塌",
-      "onboard_time": 1690791633,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268338,
       "num": 221781,
       "word": "张睿遥吻空吻",
@@ -50857,6 +50865,14 @@
       "onboard_time": 1689558269,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 264414,
+      "num": 230687,
+      "word": "永定河",
+      "onboard_time": 1690791093,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264397,
@@ -51961,6 +51977,14 @@
       "onboard_time": 1688369384,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256502,
+      "num": 256502,
+      "word": "成龙的时代",
+      "onboard_time": 1690789893,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 256448,
@@ -55657,14 +55681,6 @@
       "onboard_time": 1688991512,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230853,
-      "num": 230853,
-      "word": "成龙的时代",
-      "onboard_time": 1690789893,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 230740,
@@ -59953,14 +59969,6 @@
       "onboard_time": 1690545334,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205560,
-      "num": 205560,
-      "word": "永定河",
-      "onboard_time": 1690791093,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205557,
@@ -71171,6 +71179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85794,
+      "num": 1342249,
+      "word": "大学生接力为大运会加油",
+      "onboard_time": 1690791333,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85729,
       "num": 2379218,
       "word": "西汉青铜灯人性化设计太妙了",
@@ -72457,14 +72473,6 @@
       "onboard_time": 1690617632,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 46894,
-      "num": 1342249,
-      "word": "大学生接力为大运会加油",
-      "onboard_time": 1690791333,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 45928,
