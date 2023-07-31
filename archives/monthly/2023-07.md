@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/31 12:33:47
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/31 13:16:19
 </p>
 </blockquote>
 <p>
@@ -4203,6 +4203,12 @@ Jennie称作为Kpop艺人出道被限制发展（热度：1582696）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%E4%B8%A4%E5%BC%A0A4%E7%BA%B8%E5%8F%B0%E8%AF%8D%E4%B8%8D%E7%9C%8B%E6%8F%90%E8%AF%8D%E5%99%A8%23" target="weibo">
+周迅两张A4纸台词不看提词器（热度：1562978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%8C%A1%E7%9D%80%E8%BD%A6%E4%B8%8D%E8%AE%A9%E5%A4%A7%E5%AE%B6%E7%A6%BB%E5%BC%80%23" target="weibo">
 谢娜挡着车不让大家离开（热度：1562478）
 </a>
@@ -5567,12 +5573,6 @@ TT战胜EDG（热度：1323237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E5%A4%A7%E4%BE%BF%E8%87%B4%E6%B3%B3%E6%B1%A0%E8%A2%AB%E6%8A%BD%E5%B9%B2%23" target="weibo">
 男子游泳大便致泳池被抽干（热度：1318539）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%E4%B8%A4%E5%BC%A0A4%E7%BA%B8%E5%8F%B0%E8%AF%8D%E4%B8%8D%E7%9C%8B%E6%8F%90%E8%AF%8D%E5%99%A8%23" target="weibo">
-周迅两张A4纸台词不看提词器（热度：1316828）
 </a>
 </li>
 

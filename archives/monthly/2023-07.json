@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690778027225,
+  "endTime": 1690780579743,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -5587,6 +5587,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1562978,
+      "num": 1562978,
+      "word": "周迅两张A4纸台词不看提词器",
+      "onboard_time": 1690776515,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1562478,
       "num": 1562478,
       "word": "谢娜挡着车不让大家离开",
@@ -7409,14 +7417,6 @@
       "onboard_time": 1690175077,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1316828,
-      "num": 1316828,
-      "word": "周迅两张A4纸台词不看提词器",
-      "onboard_time": 1690776515,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1314411,
@@ -11507,6 +11507,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 986828,
+      "num": 502260,
+      "word": "门头沟",
+      "onboard_time": 1690776094,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 985884,
       "num": 720668,
       "word": "内娱绝交大全",
@@ -11761,6 +11769,14 @@
       "onboard_time": 1689740012,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 970521,
+      "num": 884917,
+      "word": "房山",
+      "onboard_time": 1690776636,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 970342,
@@ -13512,6 +13528,14 @@
       "word": "首尔街头采访韩国人加班",
       "onboard_time": 1688919626,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 885729,
+      "num": 885729,
+      "word": "门头沟暴雨",
+      "onboard_time": 1690779936,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -21067,6 +21091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 645811,
+      "num": 645811,
+      "word": "列车延误女乘务员哽咽安抚乘客",
+      "onboard_time": 1690778317,
+      "rank": 12,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 645052,
       "num": 645052,
       "word": "刘耀文 张艺谋电影",
@@ -23707,6 +23739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588211,
+      "num": 588211,
+      "word": "鹿晗帮粉丝成功请假",
+      "onboard_time": 1690777362,
+      "rank": 28,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 587856,
       "num": 587856,
       "word": "女子无人区遇乞食狼下车投喂",
@@ -23931,14 +23971,6 @@
       "category": "自然,科技"
     },
     {
-      "raw_hot": 582514,
-      "num": 473650,
-      "word": "门头沟",
-      "onboard_time": 1690776094,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 582448,
       "num": 518127,
       "word": "被鸟鸟徐志胜李雪琴哭死",
@@ -24105,14 +24137,6 @@
       "onboard_time": 1690510300,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 579007,
-      "num": 579007,
-      "word": "房山",
-      "onboard_time": 1690776636,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 578592,
@@ -24299,6 +24323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575017,
+      "num": 575017,
+      "word": "夭璟每一次亲吻相柳都能感受到",
+      "onboard_time": 1690779216,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 574856,
       "num": 497879,
       "word": "曝汪姓男艺人性侵19岁女子",
@@ -24329,6 +24361,14 @@
       "onboard_time": 1689334892,
       "rank": 16,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 574583,
+      "num": 574583,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1688530782,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 574529,
@@ -28163,6 +28203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 502279,
+      "num": 502279,
+      "word": "TFBOYS演唱会600万人想看了",
+      "onboard_time": 1690777177,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502160,
       "num": 502160,
       "word": "我的人间烟火",
@@ -28172,7 +28220,7 @@
     },
     {
       "raw_hot": 502095,
-      "num": 471311,
+      "num": 492294,
       "word": "网友让邓为去补拍青簪行",
       "onboard_time": 1690776636,
       "rank": 36,
@@ -28185,6 +28233,14 @@
       "onboard_time": 1690444831,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 501980,
+      "num": 501980,
+      "word": "北京门头沟暴雨大量汽车被冲走",
+      "onboard_time": 1690779875,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501922,
@@ -31457,6 +31513,14 @@
       "onboard_time": 1688686228,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 452741,
+      "num": 452741,
+      "word": "银行高管17岁儿子活剥猫皮",
+      "onboard_time": 1690780114,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452733,
@@ -34931,14 +34995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 409596,
-      "num": 409596,
-      "word": "TFBOYS演唱会600万人想看了",
-      "onboard_time": 1690777177,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 409536,
       "num": 381942,
       "word": "肖战的内核",
@@ -35169,6 +35225,14 @@
       "onboard_time": 1690327646,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405499,
+      "num": 405499,
+      "word": "北京升级发布洪水红色预警",
+      "onboard_time": 1690780174,
+      "rank": 28,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 405491,
@@ -36193,14 +36257,6 @@
       "onboard_time": 1689382347,
       "rank": 14,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 394618,
-      "num": 394618,
-      "word": "鹿晗帮粉丝成功请假",
-      "onboard_time": 1690777362,
-      "rank": 28,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 394505,
@@ -40027,14 +40083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352430,
-      "num": 289550,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1688530782,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 352402,
       "num": 352402,
       "word": "杀人犯逃亡30年被抓当场让妻子改嫁",
@@ -42441,6 +42489,14 @@
       "onboard_time": 1688817813,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327715,
+      "num": 327715,
+      "word": "龚俊说迪丽热巴不沉",
+      "onboard_time": 1690779817,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 327638,
@@ -48995,6 +49051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274330,
+      "num": 274330,
+      "word": "涂山璟告白画面切到相柳",
+      "onboard_time": 1690778798,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274317,
       "num": 274317,
       "word": "纣王 PUA高手",
@@ -49617,6 +49681,14 @@
       "onboard_time": 1688818895,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270798,
+      "num": 270798,
+      "word": "奇奇怪怪但又可爱的设计",
+      "onboard_time": 1690778562,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 270684,
@@ -50467,6 +50539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264281,
+      "num": 264281,
+      "word": "涂山璟高低给自己哭出个名份",
+      "onboard_time": 1690774834,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264276,
       "num": 264276,
       "word": "谢娜乘风最后一支vlog",
@@ -50745,6 +50825,14 @@
       "onboard_time": 1690772070,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 261756,
+      "num": 261756,
+      "word": "李玟追悼会将举行韩红送上挽联",
+      "onboard_time": 1690775615,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 261753,
@@ -52395,14 +52483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250042,
-      "num": 250042,
-      "word": "涂山璟高低给自己哭出个名份",
-      "onboard_time": 1690774834,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 249993,
       "num": 249993,
       "word": "王鹤棣回应海洋之猴",
@@ -53152,14 +53232,6 @@
       "word": "张大大直播",
       "onboard_time": 1690637498,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 244517,
-      "num": 244517,
-      "word": "李玟追悼会将举行韩红送上挽联",
-      "onboard_time": 1690775615,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -55233,6 +55305,14 @@
       "onboard_time": 1689079295,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230377,
+      "num": 230377,
+      "word": "抢到了",
+      "onboard_time": 1690779576,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 230367,
@@ -59745,6 +59825,14 @@
       "onboard_time": 1688208571,
       "rank": 36,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 203821,
+      "num": 203821,
+      "word": "Hero复古队服返场show",
+      "onboard_time": 1690780415,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 203808,
