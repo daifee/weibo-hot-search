@@ -1,10 +1,10 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690817656036,
+  "endTime": 1690820553065,
   "band_list": [
     {
-      "raw_hot": 3885449,
-      "num": 3885449,
+      "raw_hot": 4077391,
+      "num": 4077391,
       "word": "王楚然方回应",
       "onboard_time": 1690816715,
       "rank": 0,
@@ -515,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 939029,
+      "num": 939029,
+      "word": "姬发 殷寿",
+      "onboard_time": 1690816298,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 920450,
       "num": 920450,
       "word": "一位66岁绿化工人在暴雨中离世",
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 910130,
-      "num": 676087,
+      "num": 814224,
       "word": "去年砸1600万开影院的男子怎样了",
       "onboard_time": 1690812998,
       "rank": 30,
@@ -545,14 +553,6 @@
       "onboard_time": 1690781014,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 885846,
-      "num": 885846,
-      "word": "姬发 殷寿",
-      "onboard_time": 1690816298,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 879045,
@@ -601,6 +601,14 @@
       "onboard_time": 1690778317,
       "rank": 12,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 802113,
+      "num": 802113,
+      "word": "SMTOWN新男团公开",
+      "onboard_time": 1690819113,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 796207,
@@ -739,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716551,
+      "num": 716551,
+      "word": "防风邶是相柳写给小夭的情书",
+      "onboard_time": 1690817138,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 711009,
       "num": 711009,
       "word": "热烈票房逆跌",
@@ -761,6 +777,14 @@
       "onboard_time": 1690804832,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 690156,
+      "num": 620243,
+      "word": "妲己封神第二部造型",
+      "onboard_time": 1690816419,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 676411,
@@ -849,14 +873,6 @@
       "onboard_time": 1690723596,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 620243,
-      "num": 620243,
-      "word": "妲己封神第二部造型",
-      "onboard_time": 1690816419,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 617629,
@@ -1043,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 532602,
+      "num": 532602,
+      "word": "世界上竟有如此听劝的家长",
+      "onboard_time": 1690816419,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 529777,
       "num": 529777,
       "word": "TFBOYS演唱会600万人想看了",
@@ -1099,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490829,
-      "num": 442815,
-      "word": "防风邶是相柳写给小夭的情书",
-      "onboard_time": 1690817138,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 482172,
       "num": 452567,
       "word": "张杰鹿晗黄子韬今日营业照",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1690800273,
       "rank": 21,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 464350,
+      "num": 236520,
+      "word": "杨紫代露娃情头",
+      "onboard_time": 1690818214,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 463997,
@@ -1433,6 +1457,14 @@
       "onboard_time": 1690729297,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366136,
+      "num": 236502,
+      "word": "你一年去多少次电影院",
+      "onboard_time": 1690818274,
+      "rank": 21,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 360643,
@@ -2019,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236173,
+      "num": 233087,
+      "word": "刘同 30岁先找到落脚点",
+      "onboard_time": 1690820309,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 234927,
       "num": 234927,
       "word": "旺仔和旺旺是两个人",
@@ -2187,14 +2227,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 207853,
-      "num": 207853,
-      "word": "世界上竟有如此听劝的家长",
-      "onboard_time": 1690816419,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 203821,
       "num": 215968,
       "word": "Hero复古队服返场show",
@@ -2297,6 +2329,14 @@
       "onboard_time": 1690795593,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192530,
+      "num": 236327,
+      "word": "建军节",
+      "onboard_time": 1690819354,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191598,
@@ -2491,6 +2531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 148314,
+      "num": 228850,
+      "word": "年轻人不知道的挑肉秘籍",
+      "onboard_time": 1690818514,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147846,
       "num": 172930,
       "word": "保定暴雨",
@@ -2529,6 +2577,14 @@
       "onboard_time": 1690768050,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140612,
+      "num": 216005,
+      "word": "四川一公职人员被曝涉不雅聊天",
+      "onboard_time": 1690813477,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139911,
