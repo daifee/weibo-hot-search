@@ -1,10 +1,10 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690770831080,
+  "endTime": 1690771357796,
   "band_list": [
     {
-      "raw_hot": 2724773,
-      "num": 2724773,
+      "raw_hot": 2729558,
+      "num": 2729558,
       "word": "卡努",
       "onboard_time": 1690760127,
       "rank": 3,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1463405,
-      "num": 1463405,
+      "raw_hot": 1463692,
+      "num": 1463692,
       "word": "长相思 亲妈坐镇",
       "onboard_time": 1690768171,
       "rank": 1,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1323142,
-      "num": 652068,
+      "num": 660916,
       "word": "韩国人为什么不穿彩色衣服",
       "onboard_time": 1690759945,
       "rank": 42,
@@ -115,20 +115,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1018073,
+      "num": 1018073,
+      "word": "牛奶从未过期是我回来晚了",
+      "onboard_time": 1690768589,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 920450,
       "num": 920450,
       "word": "一位66岁绿化工人在暴雨中离世",
       "onboard_time": 1690762650,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 860262,
-      "num": 860262,
-      "word": "牛奶从未过期是我回来晚了",
-      "onboard_time": 1690768589,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 770492,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 710939,
+      "num": 710939,
+      "word": "难听",
+      "onboard_time": 1690770870,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 676411,
       "num": 676411,
       "word": "你不要让别的男人住进你心里",
@@ -185,6 +193,14 @@
       "onboard_time": 1690726416,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 661408,
+      "num": 661408,
+      "word": "iPhone15价格将上涨",
+      "onboard_time": 1690770210,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 660809,
@@ -235,6 +251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 579911,
+      "num": 579911,
+      "word": "热烈票房逆跌",
+      "onboard_time": 1690767272,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 575032,
+      "num": 575032,
+      "word": "李玟追悼会今日举行",
+      "onboard_time": 1690768893,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565191,
       "num": 338313,
       "word": "张晚意邓为檀健次涨粉量",
@@ -257,14 +289,6 @@
       "onboard_time": 1690766258,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 554132,
-      "num": 554132,
-      "word": "李玟追悼会今日举行",
-      "onboard_time": 1690768893,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 553309,
@@ -305,14 +329,6 @@
       "onboard_time": 1690732173,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 496441,
-      "num": 496441,
-      "word": "热烈票房逆跌",
-      "onboard_time": 1690767272,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 472605,
@@ -387,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 394173,
+      "num": 394173,
+      "word": "洪水中飘来一个大冰箱市民自取清空",
+      "onboard_time": 1690769728,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393965,
       "num": 393965,
       "word": "宫城良田",
@@ -435,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360643,
+      "num": 360643,
+      "word": "大时代",
+      "onboard_time": 1690770870,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 358128,
       "num": 358128,
       "word": "夭璟已经是next level了",
@@ -467,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352644,
-      "num": 318836,
-      "word": "iPhone15价格将上涨",
-      "onboard_time": 1690770210,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
       "raw_hot": 343485,
       "num": 338469,
       "word": "熊猫有时候真的人里人气",
@@ -483,12 +507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 334824,
-      "num": 240170,
-      "word": "洪水中飘来一个大冰箱市民自取清空",
-      "onboard_time": 1690769728,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 330164,
+      "num": 330164,
+      "word": "封神姬发的丸子头是怎么扎的",
+      "onboard_time": 1690769009,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 327504,
@@ -499,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324413,
-      "num": 324413,
-      "word": "封神姬发的丸子头是怎么扎的",
-      "onboard_time": 1690769009,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 317809,
       "num": 316905,
       "word": "撒贝宁这辈子没这么尴尬过",
@@ -515,20 +531,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316200,
+      "num": 313783,
+      "word": "杨玏分享伯邑考杀青视频",
+      "onboard_time": 1690767691,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314296,
       "num": 258614,
       "word": "王一博 广州",
       "onboard_time": 1690733072,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 312833,
-      "num": 312833,
-      "word": "杨玏分享伯邑考杀青视频",
-      "onboard_time": 1690767691,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 308895,
@@ -619,6 +635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260238,
+      "num": 260238,
+      "word": "文旅局长怎么不拍视频了",
+      "onboard_time": 1690770750,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259881,
       "num": 222980,
       "word": "封神票房",
@@ -641,6 +665,14 @@
       "onboard_time": 1690764394,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 255731,
+      "num": 255731,
+      "word": "Lisa亲了朴彩英的脸",
+      "onboard_time": 1690770568,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 247833,
@@ -699,28 +731,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211099,
-      "num": 211099,
+      "raw_hot": 216315,
+      "num": 216315,
       "word": "谁家演唱会还给歌迷过生日呀",
       "onboard_time": 1690767031,
       "rank": 42,
       "category": "音乐"
     },
     {
-      "raw_hot": 210976,
-      "num": 210976,
+      "raw_hot": 212098,
+      "num": 212098,
       "word": "官方回应洪流中托举女孩的辅警能否转正",
       "onboard_time": 1690768171,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208449,
-      "num": 208449,
-      "word": "Lisa亲了朴彩英的脸",
-      "onboard_time": 1690770568,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 207872,
@@ -729,6 +753,14 @@
       "onboard_time": 1690759043,
       "rank": 22,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 202899,
+      "num": 202899,
+      "word": "迪丽热巴摸龚俊耳朵",
+      "onboard_time": 1690771291,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 201421,
@@ -753,6 +785,14 @@
       "onboard_time": 1690756275,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191361,
+      "num": 191361,
+      "word": "刘宇首场个人演唱会官宣",
+      "onboard_time": 1690771291,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 186921,
@@ -881,14 +921,6 @@
       "onboard_time": 1690715371,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 143231,
-      "num": 143231,
-      "word": "文旅局长怎么不拍视频了",
-      "onboard_time": 1690770750,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142820,
