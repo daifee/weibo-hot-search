@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690807951386,
+  "endTime": 1690809698814,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -6027,6 +6027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1508592,
+      "num": 1508592,
+      "word": "老干妈表层红油藏有游动微生物吗",
+      "onboard_time": 1690804712,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1504616,
       "num": 1504616,
       "word": "直系亲属有案底影响考公吗",
@@ -6121,6 +6129,14 @@
       "onboard_time": 1689581191,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1488650,
+      "num": 696210,
+      "word": "马嘉祺发了30多张照片",
+      "onboard_time": 1690805374,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1488089,
@@ -6779,14 +6795,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1410247,
-      "num": 619524,
-      "word": "马嘉祺发了30多张照片",
-      "onboard_time": 1690805374,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1410075,
       "num": 1410075,
       "word": "秋瓷炫于晓光同床异梦2预告",
@@ -7268,7 +7276,7 @@
     },
     {
       "raw_hot": 1354112,
-      "num": 658220,
+      "num": 689388,
       "word": "悉尼上空现CoCoLee云朵字",
       "onboard_time": 1690799912,
       "rank": 13,
@@ -7985,14 +7993,6 @@
       "onboard_time": 1690295979,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1264112,
-      "num": 1264112,
-      "word": "老干妈表层红油藏有游动微生物吗",
-      "onboard_time": 1690804712,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1262823,
@@ -12723,6 +12723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 929187,
+      "num": 929187,
+      "word": "造谣者向郑恺道歉",
+      "onboard_time": 1690808734,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 929155,
       "num": 410774,
       "word": "腾讯说王楚然王子奇清爽不油好嗑上头",
@@ -13161,6 +13169,14 @@
       "onboard_time": 1688557410,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 910247,
+      "num": 910247,
+      "word": "故宫",
+      "onboard_time": 1690807594,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 909606,
@@ -21747,6 +21763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 638417,
+      "num": 638417,
+      "word": "shinyruo  明天播",
+      "onboard_time": 1690806272,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 638218,
       "num": 638218,
       "word": "茉酸奶回应被改名",
@@ -24259,6 +24283,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 585171,
+      "num": 585171,
+      "word": "是谁坐高铁还要看导航",
+      "onboard_time": 1690805073,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585130,
       "num": 501426,
       "word": "怀孕后公司不给批辞职报告",
@@ -26715,14 +26747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 538240,
-      "num": 471147,
-      "word": "是谁坐高铁还要看导航",
-      "onboard_time": 1690805073,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 537816,
       "num": 537816,
       "word": "福建台风",
@@ -26753,6 +26777,14 @@
       "onboard_time": 1689593430,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 537487,
+      "num": 528501,
+      "word": "黄晓明万茜新剧吻戏",
+      "onboard_time": 1690805433,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 536673,
@@ -26809,14 +26841,6 @@
       "onboard_time": 1690071024,
       "rank": 7,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 535831,
-      "num": 535831,
-      "word": "shinyruo  明天播",
-      "onboard_time": 1690806272,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 535545,
@@ -26889,6 +26913,14 @@
       "onboard_time": 1690723174,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 534239,
+      "num": 426834,
+      "word": "相柳说涂山家的狐狸真没用",
+      "onboard_time": 1690808073,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 533794,
@@ -27192,14 +27224,6 @@
       "word": "古偶大婚必大虐",
       "onboard_time": 1689757592,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 528501,
-      "num": 528501,
-      "word": "黄晓明万茜新剧吻戏",
-      "onboard_time": 1690805433,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -28595,6 +28619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502991,
+      "num": 496140,
+      "word": "狐狸精为这个家付出了太多",
+      "onboard_time": 1690801411,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 502968,
       "num": 502968,
       "word": "圆肩驼背的正确矫正方式",
@@ -29017,14 +29049,6 @@
       "onboard_time": 1690685973,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 496140,
-      "num": 496140,
-      "word": "狐狸精为这个家付出了太多",
-      "onboard_time": 1690801411,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 496096,
@@ -35875,6 +35899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 403549,
+      "num": 274081,
+      "word": "夭柳变夭邶",
+      "onboard_time": 1690807353,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403351,
       "num": 403351,
       "word": "韩旭双料MVP",
@@ -36537,6 +36569,14 @@
       "onboard_time": 1689485492,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396712,
+      "num": 249610,
+      "word": "关晓彤高开叉红裙",
+      "onboard_time": 1690808432,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 396651,
@@ -47187,6 +47227,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 293752,
+      "num": 280816,
+      "word": "杨迪在热烈中饰演杨迪蜡像",
+      "onboard_time": 1690807172,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293751,
       "num": 293751,
       "word": "阿娇AI版桑酒vs真人版桑酒",
@@ -48945,14 +48993,6 @@
       "onboard_time": 1690374220,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280816,
-      "num": 280816,
-      "word": "杨迪在热烈中饰演杨迪蜡像",
-      "onboard_time": 1690807172,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 280809,
@@ -50729,6 +50769,14 @@
       "onboard_time": 1690607496,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267633,
+      "num": 267633,
+      "word": "原来这才是真正的海底星空",
+      "onboard_time": 1690808673,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 267591,
@@ -59739,14 +59787,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 208537,
-      "num": 208537,
-      "word": "夭柳变夭邶",
-      "onboard_time": 1690807353,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208507,
       "num": 208507,
       "word": "王嘉尔朴宰范互动好像小学生",
@@ -64115,6 +64155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188002,
+      "num": 188002,
+      "word": "断眉上海演唱会获批",
+      "onboard_time": 1690809214,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187987,
       "num": 187987,
       "word": "妈妈的士会一直开直到女孩平安长大",
@@ -65129,6 +65177,14 @@
       "onboard_time": 1689244292,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180838,
+      "num": 185880,
+      "word": "我想问问她为什么不肯认我",
+      "onboard_time": 1690806453,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 180711,
@@ -67675,6 +67731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160035,
+      "num": 185856,
+      "word": "周冬雨眼妆",
+      "onboard_time": 1690809633,
+      "rank": 44,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 159970,
       "num": 159970,
       "word": "成都今天热过了就开始降温",
@@ -68555,6 +68619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148399,
+      "num": 185849,
+      "word": "毕业生因一张海报成功入职",
+      "onboard_time": 1690809214,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147878,
       "num": 196174,
       "word": "学会阴阳怪气聊天",
@@ -68929,14 +69001,6 @@
       "onboard_time": 1689867574,
       "rank": 39,
       "category": "社会新闻,时尚"
-    },
-    {
-      "raw_hot": 143091,
-      "num": 195450,
-      "word": "故宫",
-      "onboard_time": 1690807594,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 143018,
@@ -70339,6 +70403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115421,
+      "num": 1453781,
+      "word": "这批新规8月施行",
+      "onboard_time": 1690791214,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115254,
       "num": 2774592,
       "word": "成都大运会开幕式官方主题曲来了",
@@ -70665,14 +70737,6 @@
       "onboard_time": 1689513213,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106766,
-      "num": 1273519,
-      "word": "这批新规8月施行",
-      "onboard_time": 1690791214,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106315,
