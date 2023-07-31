@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690814052079,
+  "endTime": 1690816717944,
   "band_list": [
     {
       "raw_hot": 3282960,
@@ -48,6 +48,14 @@
       "word": "李玟老公及继女现身追悼会",
       "onboard_time": 1690796312,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2296898,
+      "num": 1187181,
+      "word": "李玟二姐哭喊他害死了我妹妹",
+      "onboard_time": 1690812700,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1690782272,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1807940,
-      "num": 1181604,
-      "word": "李玟二姐哭喊他害死了我妹妹",
-      "onboard_time": 1690812700,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 1787941,
@@ -209,6 +209,14 @@
       "onboard_time": 1690776515,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1537151,
+      "num": 1537151,
+      "word": "黄子韬说只有鹿晗能让我取消行程",
+      "onboard_time": 1690812516,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 1528355,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1282142,
+      "num": 1282142,
+      "word": "张小斐说当命运的齿轮开始转动请带上我",
+      "onboard_time": 1690813836,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1277140,
       "num": 1277140,
       "word": "原来你好星期六那天魏大勋戴眼镜了",
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 1266671,
-      "num": 672987,
+      "num": 677819,
       "word": "迪丽热巴说身材管理是工作的一部分",
       "onboard_time": 1690811016,
       "rank": 10,
@@ -361,14 +377,6 @@
       "onboard_time": 1690779875,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1127744,
-      "num": 1127744,
-      "word": "黄子韬说只有鹿晗能让我取消行程",
-      "onboard_time": 1690812516,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 1103962,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 910130,
+      "num": 676087,
+      "word": "去年砸1600万开影院的男子怎样了",
+      "onboard_time": 1690812998,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897590,
       "num": 897590,
       "word": "ITZY回归",
@@ -627,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 769011,
+      "num": 769011,
+      "word": "大运会男篮中国不敌中国台北",
+      "onboard_time": 1690812636,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 765468,
       "num": 765468,
       "word": "北京全市河道均在行洪",
@@ -681,6 +705,14 @@
       "onboard_time": 1690786597,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 720469,
+      "num": 720469,
+      "word": "汉文帝霸陵殉葬坑发现大熊猫骨骼",
+      "onboard_time": 1690812757,
+      "rank": 48,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 717324,
@@ -801,14 +833,6 @@
       "onboard_time": 1690723596,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 618613,
-      "num": 618613,
-      "word": "大运会男篮中国不敌中国台北",
-      "onboard_time": 1690812636,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 617629,
@@ -971,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 545285,
-      "num": 299529,
-      "word": "去年砸1600万开影院的男子怎样了",
-      "onboard_time": 1690812998,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 544486,
       "num": 342373,
       "word": "交行回应高管儿子活剥猫皮",
@@ -1051,20 +1067,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 485857,
-      "num": 485857,
-      "word": "汉文帝霸陵殉葬坑发现大熊猫骨骼",
-      "onboard_time": 1690812757,
-      "rank": 48,
-      "category": "社会新闻,自然"
-    },
-    {
       "raw_hot": 482172,
       "num": 452567,
       "word": "张杰鹿晗黄子韬今日营业照",
       "onboard_time": 1690783113,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 480827,
+      "num": 599578,
+      "word": "北京8月1日起雨势将减弱",
+      "onboard_time": 1690813779,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478371,
@@ -1300,7 +1316,7 @@
     },
     {
       "raw_hot": 386417,
-      "num": 1204736,
+      "num": 1206903,
       "word": "K396次Z180次列车受阻旅客安全转移",
       "onboard_time": 1690810720,
       "rank": 2,
@@ -1387,11 +1403,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 358238,
+      "num": 358238,
+      "word": "中国男篮小组赛三战全败",
+      "onboard_time": 1690814378,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358128,
       "num": 358128,
       "word": "夭璟已经是next level了",
       "onboard_time": 1690763493,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 356870,
+      "num": 291578,
+      "word": "辛赵不宣",
+      "onboard_time": 1690813299,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1435,20 +1467,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 351155,
-      "num": 291578,
-      "word": "辛赵不宣",
-      "onboard_time": 1690813299,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 343485,
       "num": 338469,
       "word": "熊猫有时候真的人里人气",
       "onboard_time": 1690731096,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342740,
+      "num": 285052,
+      "word": "长相思预告",
+      "onboard_time": 1690811496,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 342566,
@@ -1547,6 +1579,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 311041,
+      "num": 257453,
+      "word": "妲己封神第二部造型",
+      "onboard_time": 1690816419,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309970,
       "num": 309970,
       "word": "亮记生物鉴定",
@@ -1577,6 +1617,14 @@
       "onboard_time": 1690733311,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 305938,
+      "num": 256953,
+      "word": "林允发藏头词告别赵寻",
+      "onboard_time": 1690816057,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 304643,
@@ -1675,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280587,
+      "num": 226929,
+      "word": "姬发 殷寿",
+      "onboard_time": 1690816298,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280417,
       "num": 280417,
       "word": "CD26",
@@ -1704,14 +1760,6 @@
       "word": "纣王 PUA高手",
       "onboard_time": 1690766970,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 272598,
-      "num": 272598,
-      "word": "张小斐说当命运的齿轮开始转动请带上我",
-      "onboard_time": 1690813836,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1771,6 +1819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265984,
+      "num": 221361,
+      "word": "太阳暖人 月光爱人",
+      "onboard_time": 1690814857,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264656,
       "num": 181758,
       "word": "范丞丞帮魏大勋变身孟宴臣",
@@ -1793,6 +1849,14 @@
       "onboard_time": 1690725933,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 261953,
+      "num": 221143,
+      "word": "周迅最稳的语气说最狠的台词",
+      "onboard_time": 1690816360,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 261941,
@@ -2059,14 +2123,6 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 214275,
-      "num": 196733,
-      "word": "长相思预告",
-      "onboard_time": 1690811496,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 213209,
       "num": 213209,
       "word": "莲花楼导演好会选角",
@@ -2321,6 +2377,14 @@
       "onboard_time": 1690692688,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166821,
+      "num": 213706,
+      "word": "八月你好",
+      "onboard_time": 1690815399,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 164203,
