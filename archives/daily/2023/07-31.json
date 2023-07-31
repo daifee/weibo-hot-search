@@ -1,7 +1,23 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690760021453,
+  "endTime": 1690766606800,
   "band_list": [
+    {
+      "raw_hot": 1938825,
+      "num": 1938825,
+      "word": "花花洗澡全国人民都知道了",
+      "onboard_time": 1690760609,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1625532,
+      "num": 1625532,
+      "word": "刘维 真正的离开不是死亡是遗忘",
+      "onboard_time": 1690762714,
+      "rank": 1,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1454070,
       "num": 1454070,
@@ -11,8 +27,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1436256,
+      "num": 1436256,
+      "word": "卡努",
+      "onboard_time": 1690760127,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1343293,
-      "num": 354935,
+      "num": 556312,
       "word": "刘维登不上母亲微信发文求助",
       "onboard_time": 1690720535,
       "rank": 10,
@@ -25,6 +49,22 @@
       "onboard_time": 1690728994,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1323142,
+      "num": 572723,
+      "word": "韩国人为什么不穿彩色衣服",
+      "onboard_time": 1690759945,
+      "rank": 42,
+      "category": "情感,时尚"
+    },
+    {
+      "raw_hot": 1112189,
+      "num": 1112189,
+      "word": "原来你好星期六那天魏大勋戴眼镜了",
+      "onboard_time": 1690764211,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1103962,
@@ -57,6 +97,38 @@
       "onboard_time": 1690727252,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1039711,
+      "num": 1039711,
+      "word": "不上班但又饿不死的活法",
+      "onboard_time": 1690763915,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 920450,
+      "num": 920450,
+      "word": "一位66岁绿化工人在暴雨中离世",
+      "onboard_time": 1690762650,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753502,
+      "num": 753502,
+      "word": "外地人被内蒙物价整懵了",
+      "onboard_time": 1690735886,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 744980,
+      "num": 565575,
+      "word": "女子抽中10克金条因错过叫号被取消",
+      "onboard_time": 1690764693,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 737212,
@@ -123,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574859,
+      "num": 574859,
+      "word": "杨紫拍戏过程中不知道邓为哭了",
+      "onboard_time": 1690763374,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565191,
       "num": 338313,
       "word": "张晚意邓为檀健次涨粉量",
@@ -131,12 +211,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 553309,
+      "num": 553309,
+      "word": "脏 就不能心诚吗",
+      "onboard_time": 1690760846,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547812,
-      "num": 344918,
+      "num": 502202,
       "word": "李玟二姐首次露面回应礼服和遗产争议",
       "onboard_time": 1690759404,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 541011,
+      "num": 541011,
+      "word": "偷偷改造爸妈的2000平老家",
+      "onboard_time": 1690761149,
+      "rank": 15,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 526975,
@@ -155,19 +251,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 488136,
-      "num": 488136,
-      "word": "外地人被内蒙物价整懵了",
-      "onboard_time": 1690735886,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 472605,
       "num": 472605,
       "word": "电梯突然停运乘客原地停留20分钟",
       "onboard_time": 1690754655,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463997,
+      "num": 463997,
+      "word": "涂山璟知道不是吻痕了",
+      "onboard_time": 1690760366,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 449342,
+      "num": 449342,
+      "word": "罗布泊",
+      "onboard_time": 1690762050,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -187,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424552,
+      "num": 424552,
+      "word": "巨齿鲨2吴京戏份",
+      "onboard_time": 1690765594,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410421,
       "num": 339966,
       "word": "王刚 我对我和全队表现感到耻辱",
@@ -195,12 +307,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401247,
+      "num": 401247,
+      "word": "小夭相柳是情侣名",
+      "onboard_time": 1690762714,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393542,
       "num": 327529,
       "word": "精诚矿业瞒报死亡矿工43人",
       "onboard_time": 1690717354,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381086,
+      "num": 381086,
+      "word": "徐志胜杀我别用亲情刀",
+      "onboard_time": 1690760789,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 379337,
+      "num": 379337,
+      "word": "8月狗屎运最旺星座",
+      "onboard_time": 1690760487,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 376977,
@@ -216,6 +352,22 @@
       "word": "再见就是小夭防风邶了",
       "onboard_time": 1690729297,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 363980,
+      "num": 363980,
+      "word": "台风吹来的遍地生蚝能不能吃",
+      "onboard_time": 1690765891,
+      "rank": 24,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 358128,
+      "num": 358128,
+      "word": "夭璟已经是next level了",
+      "onboard_time": 1690763493,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -243,12 +395,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331155,
+      "num": 331155,
+      "word": "易烊千玺自己拼的图",
+      "onboard_time": 1690763976,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 327504,
       "num": 250159,
       "word": "有演技却没有爆火的演员",
       "onboard_time": 1690726474,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324477,
+      "num": 324477,
+      "word": "宫城良田",
+      "onboard_time": 1690762532,
+      "rank": 27,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 317809,
@@ -276,7 +444,7 @@
     },
     {
       "raw_hot": 306874,
-      "num": 280383,
+      "num": 305985,
       "word": "花花真身比Q版还Q",
       "onboard_time": 1690733311,
       "rank": 37,
@@ -289,6 +457,14 @@
       "onboard_time": 1690729358,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 284556,
+      "num": 284556,
+      "word": "封神",
+      "onboard_time": 1690762470,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 267704,
@@ -339,8 +515,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246863,
-      "num": 158290,
+      "raw_hot": 256215,
+      "num": 256215,
+      "word": "推特图标",
+      "onboard_time": 1690764394,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 247833,
+      "num": 247833,
       "word": "成都串串店深夜坐满外国运动员",
       "onboard_time": 1690758321,
       "rank": 37,
@@ -371,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219993,
+      "num": 219993,
+      "word": "你今天居家办公吗",
+      "onboard_time": 1690728994,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218004,
       "num": 218004,
       "word": "台风卡努",
@@ -387,11 +579,35 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 204537,
+      "num": 204537,
+      "word": "北京居家",
+      "onboard_time": 1690766258,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201421,
       "num": 175915,
       "word": "长相思",
       "onboard_time": 1690714953,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200828,
+      "num": 200828,
+      "word": "上班多久带水杯才合适",
+      "onboard_time": 1690766193,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 195279,
+      "num": 195279,
+      "word": "易烊千玺边系扣子边下楼梯",
+      "onboard_time": 1690759344,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -401,6 +617,14 @@
       "onboard_time": 1690756275,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186921,
+      "num": 186921,
+      "word": "夭璟",
+      "onboard_time": 1690766258,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 185030,
@@ -435,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178737,
+      "num": 178737,
+      "word": "蔡依林说日不落是她最红的舞曲",
+      "onboard_time": 1690735646,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173022,
       "num": 173022,
       "word": "涂山璟角色号没营业",
@@ -459,12 +691,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 162169,
-      "num": 157527,
-      "word": "易烊千玺边系扣子边下楼梯",
-      "onboard_time": 1690759344,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 159903,
+      "num": 159903,
+      "word": "鹿晗转圈和粉丝拜拜",
+      "onboard_time": 1690765712,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 156713,
@@ -473,14 +705,6 @@
       "onboard_time": 1690728936,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154342,
-      "num": 175353,
-      "word": "蔡依林说日不落是她最红的舞曲",
-      "onboard_time": 1690735646,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 152422,
@@ -523,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142697,
+      "num": 142697,
+      "word": "一毛钱的小串36年没涨过价",
+      "onboard_time": 1690766554,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139418,
       "num": 139418,
       "word": "KPL",
@@ -563,20 +795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114437,
-      "num": 114437,
-      "word": "韩国人为什么不穿彩色衣服",
-      "onboard_time": 1690759945,
-      "rank": 42,
-      "category": "情感,时尚"
-    },
-    {
       "raw_hot": 114203,
       "num": 134051,
       "word": "北京房山一地突发山洪",
       "onboard_time": 1690713994,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103738,
+      "num": 1488483,
+      "word": "在大运村和外国运动员一起耍非遗",
+      "onboard_time": 1690722814,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 99424,
@@ -609,14 +841,6 @@
       "onboard_time": 1690736482,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 51339,
-      "num": 722437,
-      "word": "在大运村和外国运动员一起耍非遗",
-      "onboard_time": 1690722814,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 29333,
