@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690785309742,
+  "endTime": 1690787776737,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1817,6 +1817,14 @@
       "onboard_time": 1689596791,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2606787,
+      "num": 2606787,
+      "word": "女子吐槽某明星耍大牌",
+      "onboard_time": 1690785457,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2605723,
@@ -4153,6 +4161,14 @@
       "onboard_time": 1688289814,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1834531,
+      "num": 1834531,
+      "word": "房子租了大半年才发现有空调",
+      "onboard_time": 1690782272,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1829998,
@@ -7787,6 +7803,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1271534,
+      "num": 1271534,
+      "word": "张晚意陈都灵情头",
+      "onboard_time": 1690784615,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1269855,
       "num": 1269855,
       "word": "小夭涂山璟亲嘴了",
@@ -8017,14 +8041,6 @@
       "onboard_time": 1688901572,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1244867,
-      "num": 1244867,
-      "word": "房子租了大半年才发现有空调",
-      "onboard_time": 1690782272,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1244427,
@@ -21651,14 +21667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 635621,
-      "num": 635621,
-      "word": "张晚意陈都灵情头",
-      "onboard_time": 1690784615,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 635607,
       "num": 635607,
       "word": "他给四岁的女儿买了个冰淇淋",
@@ -26499,6 +26507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 535789,
+      "num": 535789,
+      "word": "北京门头沟紧急转移群众5000人左右",
+      "onboard_time": 1690786233,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535545,
       "num": 535545,
       "word": "长相思里究竟谁扛剧",
@@ -31011,6 +31027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460942,
+      "num": 431307,
+      "word": "妈妈来一趟英国被当成乞丐",
+      "onboard_time": 1690782272,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 460712,
       "num": 460712,
       "word": "当单位的空调吹不到办公室里",
@@ -31409,14 +31433,6 @@
       "onboard_time": 1688543496,
       "rank": 19,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 455158,
-      "num": 431307,
-      "word": "妈妈来一趟英国被当成乞丐",
-      "onboard_time": 1690782272,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 455101,
@@ -32321,6 +32337,14 @@
       "onboard_time": 1689647249,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 443399,
+      "num": 425523,
+      "word": "TFBOYS三人都在北京了",
+      "onboard_time": 1690786597,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 443264,
@@ -38787,6 +38811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 367921,
+      "num": 309629,
+      "word": "叶三",
+      "onboard_time": 1690785632,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 367452,
       "num": 367452,
       "word": "Doinb有比赛打了",
@@ -40249,6 +40281,14 @@
       "onboard_time": 1689583352,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351991,
+      "num": 306586,
+      "word": "TFBOYS演唱会强实名见效了",
+      "onboard_time": 1690785094,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 351957,
@@ -43371,6 +43411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320105,
+      "num": 306288,
+      "word": "张艺兴北京",
+      "onboard_time": 1690787075,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 320089,
       "num": 320089,
       "word": "哪部会成为暑期档爆剧",
@@ -45112,6 +45160,14 @@
       "word": "偷偷藏不住网飞登顶",
       "onboard_time": 1688449836,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 304643,
+      "num": 304643,
+      "word": "杨紫被檀健次戳中笑点",
+      "onboard_time": 1690785156,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -49924,7 +49980,7 @@
     },
     {
       "raw_hot": 270139,
-      "num": 279640,
+      "num": 306237,
       "word": "新冠感染情况问卷调查",
       "onboard_time": 1690782394,
       "rank": 34,
@@ -54947,6 +55003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234134,
+      "num": 234134,
+      "word": "刘维怼网友",
+      "onboard_time": 1690787733,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234095,
       "num": 234095,
       "word": "时代少年团演唱会选在青岛的原因",
@@ -55481,14 +55545,6 @@
       "onboard_time": 1689553712,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 230414,
-      "num": 230414,
-      "word": "杨紫被檀健次戳中笑点",
-      "onboard_time": 1690785156,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 230405,
@@ -58331,14 +58387,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 212899,
-      "num": 212899,
-      "word": "TFBOYS演唱会强实名见效了",
-      "onboard_time": 1690785094,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 212880,
       "num": 200042,
       "word": "美依礼芽bw现场六连唱跳",
@@ -59715,6 +59763,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 205750,
+      "num": 306032,
+      "word": "北京永定河水流湍急有简易房屋被冲走",
+      "onboard_time": 1690787014,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205608,
       "num": 205608,
       "word": "NMIXX回归新歌PartyOClock",
@@ -60696,6 +60752,14 @@
       "word": "mysta 毕业",
       "onboard_time": 1690116215,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200944,
+      "num": 197210,
+      "word": "吴彦姝第一次见李现的情形",
+      "onboard_time": 1690787672,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -70931,6 +70995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85804,
+      "num": 1534548,
+      "word": "成都大运会精彩瞬间",
+      "onboard_time": 1690782812,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85729,
       "num": 2379218,
       "word": "西汉青铜灯人性化设计太妙了",
@@ -71377,14 +71449,6 @@
       "onboard_time": 1688404580,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 76651,
-      "num": 1435227,
-      "word": "成都大运会精彩瞬间",
-      "onboard_time": 1690782812,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76484,
