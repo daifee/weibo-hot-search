@@ -1,0 +1,410 @@
+{
+  "runTime": 1690777189703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3168127,
+        "num": 3168127,
+        "word": "全面落实带薪休假制度",
+        "onboard_time": 1690773156,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1986817,
+        "num": 1986817,
+        "word": "iPhone15价格将上涨",
+        "onboard_time": 1690770210,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 33356,
+        "num": 1936881,
+        "word": "在大运村和外国运动员一起耍非遗",
+        "onboard_time": 1690722814,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1933261,
+        "num": 1933261,
+        "word": "TFBOYS抢票",
+        "onboard_time": 1690776636,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1693510,
+        "num": 1693510,
+        "word": "毛晓彤方否认被抢角",
+        "onboard_time": 1690772192,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1304525,
+        "num": 1304525,
+        "word": "卡努",
+        "onboard_time": 1690760127,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249852,
+        "num": 1249852,
+        "word": "唐嫣后援会停止更新",
+        "onboard_time": 1690775733,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1178382,
+        "num": 1178382,
+        "word": "长相思 亲妈坐镇",
+        "onboard_time": 1690768171,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 932772,
+        "num": 932772,
+        "word": "中学会计挪用2500万买理财获利6000",
+        "onboard_time": 1690775013,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959336,
+        "num": 912178,
+        "word": "杨紫被低估的女演员",
+        "onboard_time": 1690773510,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 840738,
+        "num": 840738,
+        "word": "文旅局长怎么不拍视频了",
+        "onboard_time": 1690770750,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663359,
+        "num": 663359,
+        "word": "喜欢涂山璟和阿泽的是同一批人",
+        "onboard_time": 1690775013,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 653404,
+        "num": 653404,
+        "word": "牛奶从未过期是我回来晚了",
+        "onboard_time": 1690768589,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 613371,
+        "num": 613371,
+        "word": "周迅两张A4纸台词不看提词器",
+        "onboard_time": 1690776515,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578181,
+        "num": 578181,
+        "word": "原来你好星期六那天魏大勋戴眼镜了",
+        "onboard_time": 1690764211,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562930,
+        "num": 562930,
+        "word": "黑神话",
+        "onboard_time": 1690771650,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 559985,
+        "num": 559985,
+        "word": "热烈票房逆跌",
+        "onboard_time": 1690767272,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537139,
+        "num": 537139,
+        "word": "韩国人为什么不穿彩色衣服",
+        "onboard_time": 1690759945,
+        "rank": 17,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 477807,
+        "num": 477807,
+        "word": "不上班但又饿不死的活法",
+        "onboard_time": 1690763915,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 456541,
+        "num": 456541,
+        "word": "花花洗澡全国人民都知道了",
+        "onboard_time": 1690760609,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1234495,
+        "num": 455172,
+        "word": "难听",
+        "onboard_time": 1690770870,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 593036,
+        "num": 454356,
+        "word": "北京暴雨",
+        "onboard_time": 1690773452,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453112,
+        "num": 453112,
+        "word": "福州一餐厅凌晨发生爆炸",
+        "onboard_time": 1690773932,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452584,
+        "num": 452584,
+        "word": "洪水中飘来一个大冰箱市民自取清空",
+        "onboard_time": 1690769728,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380613,
+        "num": 380613,
+        "word": "门头沟",
+        "onboard_time": 1690776094,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372903,
+        "num": 372903,
+        "word": "迪丽热巴摸龚俊耳朵",
+        "onboard_time": 1690771291,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352018,
+        "num": 352018,
+        "word": "8月狗屎运最旺星座",
+        "onboard_time": 1690760487,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342566,
+        "num": 342566,
+        "word": "长相思端水剧照",
+        "onboard_time": 1690775194,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341966,
+        "num": 341966,
+        "word": "房山",
+        "onboard_time": 1690776636,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340830,
+        "num": 340830,
+        "word": "封神姬发的丸子头是怎么扎的",
+        "onboard_time": 1690769009,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293427,
+        "num": 293427,
+        "word": "易烊千玺自己拼的图",
+        "onboard_time": 1690763976,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 341161,
+        "num": 292123,
+        "word": "一位66岁绿化工人在暴雨中离世",
+        "onboard_time": 1690762650,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288759,
+        "num": 288759,
+        "word": "封神",
+        "onboard_time": 1690762470,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286962,
+        "num": 286962,
+        "word": "虞书欣8月在剧组",
+        "onboard_time": 1690773032,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318813,
+        "num": 286961,
+        "word": "卡努路径调整",
+        "onboard_time": 1690767090,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286958,
+        "num": 286958,
+        "word": "偷偷改造爸妈的2000平老家",
+        "onboard_time": 1690761149,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 281934,
+        "num": 281934,
+        "word": "网友让邓为去补拍青簪行",
+        "onboard_time": 1690776636,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258381,
+        "num": 258381,
+        "word": "女子抽中10克金条因错过叫号被取消",
+        "onboard_time": 1690764693,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251447,
+        "num": 251447,
+        "word": "阔腿裤缩水能有多离谱",
+        "onboard_time": 1690772070,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240277,
+        "num": 240277,
+        "word": "Lisa亲了朴彩英的脸",
+        "onboard_time": 1690770568,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233686,
+        "num": 233686,
+        "word": "哥哥给他的雪龙驹",
+        "onboard_time": 1690776759,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233554,
+        "num": 233554,
+        "word": "刘维 真正的离开不是死亡是遗忘",
+        "onboard_time": 1690762714,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232170,
+        "num": 232170,
+        "word": "李玟追悼会将举行韩红送上挽联",
+        "onboard_time": 1690775615,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229669,
+        "num": 229669,
+        "word": "涂山璟高低给自己哭出个名份",
+        "onboard_time": 1690774834,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219416,
+        "num": 219416,
+        "word": "当我跟爸妈说不想干了",
+        "onboard_time": 1690768412,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228793,
+        "num": 218100,
+        "word": "檀健次蒲萄四搭",
+        "onboard_time": 1690772612,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215815,
+        "num": 215815,
+        "word": "李玟追悼会今日举行",
+        "onboard_time": 1690768893,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209074,
+        "num": 209074,
+        "word": "TFBOYS演唱会600万人想看了",
+        "onboard_time": 1690777177,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172321,
+        "num": 172321,
+        "word": "上班多久带水杯才合适",
+        "onboard_time": 1690766193,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168625,
+        "num": 168625,
+        "word": "官方回应洪流中托举女孩的辅警能否转正",
+        "onboard_time": 1690768171,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#会唱歌的石头见证中华千年礼乐文明#"
+    }
+  }
+}
