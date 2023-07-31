@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690845388685,
+  "endTime": 1690846432947,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1025098,
+      "num": 1025098,
+      "word": "台风卡努或将转向",
+      "onboard_time": 1690842137,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1009872,
       "num": 1009872,
       "word": "暴雨未致卢沟桥坍塌",
@@ -528,6 +536,14 @@
       "word": "一位66岁绿化工人在暴雨中离世",
       "onboard_time": 1690762650,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 917159,
+      "num": 577674,
+      "word": "四川一公职人员被曝涉不雅聊天",
+      "onboard_time": 1690813477,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -609,14 +625,6 @@
       "onboard_time": 1690819113,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 798521,
-      "num": 577674,
-      "word": "四川一公职人员被曝涉不雅聊天",
-      "onboard_time": 1690813477,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 796207,
@@ -793,14 +801,6 @@
       "onboard_time": 1690816419,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 683267,
-      "num": 683267,
-      "word": "台风卡努或将转向",
-      "onboard_time": 1690842137,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 676411,
@@ -1115,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526139,
+      "num": 526139,
+      "word": "云南地震",
+      "onboard_time": 1690845324,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521824,
       "num": 521824,
       "word": "TFBOYS要合体集训了吧",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1690773032,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466333,
+      "num": 466333,
+      "word": "故宫辟谣600年不积水",
+      "onboard_time": 1690816057,
+      "rank": 24,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 466165,
@@ -1267,6 +1283,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 444509,
+      "num": 319262,
+      "word": "亢奋费斯科演员去世",
+      "onboard_time": 1690845505,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 434263,
       "num": 281683,
       "word": "RIIZE",
@@ -1299,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418742,
+      "num": 228286,
+      "word": "女子吐槽丈夫在新家装100多个插座",
+      "onboard_time": 1690844723,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 410421,
       "num": 339966,
       "word": "王刚 我对我和全队表现感到耻辱",
@@ -1329,14 +1361,6 @@
       "onboard_time": 1690787672,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 403855,
-      "num": 403855,
-      "word": "故宫辟谣600年不积水",
-      "onboard_time": 1690816057,
-      "rank": 24,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 401926,
@@ -1651,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324935,
+      "num": 318541,
+      "word": "夭璟名场面来了",
+      "onboard_time": 1690841356,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317809,
       "num": 316905,
       "word": "撒贝宁这辈子没这么尴尬过",
@@ -1817,6 +1849,14 @@
       "onboard_time": 1690810596,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290541,
+      "num": 225275,
+      "word": "00后上班这么勇的吗",
+      "onboard_time": 1690842076,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 288759,
@@ -2075,20 +2115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246269,
+      "num": 246269,
+      "word": "内马尔",
+      "onboard_time": 1690830074,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240877,
       "num": 337262,
       "word": "北京石景山京西大悦城门口塌陷",
       "onboard_time": 1690733490,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240820,
-      "num": 214831,
-      "word": "夭璟名场面来了",
-      "onboard_time": 1690841356,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 236849,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1690784853,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234753,
+      "num": 234753,
+      "word": "北师大教授评黄渤王一博电影热烈",
+      "onboard_time": 1690845685,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 234342,
@@ -2137,14 +2185,6 @@
       "onboard_time": 1690797453,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 229322,
-      "num": 155697,
-      "word": "00后上班这么勇的吗",
-      "onboard_time": 1690842076,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 229004,
@@ -2273,14 +2313,6 @@
       "onboard_time": 1690759043,
       "rank": 22,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 206431,
-      "num": 206431,
-      "word": "内马尔",
-      "onboard_time": 1690830074,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 203821,
@@ -2491,6 +2523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176811,
+      "num": 176811,
+      "word": "庆祝解放军建军96周年",
+      "onboard_time": 1690846168,
+      "rank": 25,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 176018,
       "num": 228850,
       "word": "年轻人不知道的挑肉秘籍",
@@ -2523,6 +2563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167086,
+      "num": 167086,
+      "word": "射手座真的不是冷漠的人",
+      "onboard_time": 1690820729,
+      "rank": 15,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 167033,
       "num": 174588,
       "word": "男子肠道密密麻麻长满200多个息肉",
@@ -2537,14 +2585,6 @@
       "onboard_time": 1690815399,
       "rank": 48,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 166796,
-      "num": 104405,
-      "word": "女子吐槽丈夫在新家装100多个插座",
-      "onboard_time": 1690844723,
-      "rank": 30,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 164203,
@@ -2611,14 +2651,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 148176,
-      "num": 148176,
-      "word": "射手座真的不是冷漠的人",
-      "onboard_time": 1690820729,
-      "rank": 15,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 147846,
       "num": 172930,
       "word": "保定暴雨",
@@ -2649,6 +2681,14 @@
       "onboard_time": 1690715854,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142280,
+      "num": 142280,
+      "word": "直击南昌八一广场升旗仪式现场",
+      "onboard_time": 1690845084,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141921,
@@ -2683,6 +2723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122328,
+      "num": 122328,
+      "word": "暑期档三大平台接档剧",
+      "onboard_time": 1690846108,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120952,
       "num": 173352,
       "word": "Elk 恐尺",
@@ -2705,6 +2753,14 @@
       "onboard_time": 1690788452,
       "rank": 41,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 119140,
+      "num": 119140,
+      "word": "八月",
+      "onboard_time": 1690846350,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117163,
@@ -2747,20 +2803,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110669,
-      "num": 103578,
+      "raw_hot": 114181,
+      "num": 114181,
       "word": "今天把祝福献给人民子弟兵",
       "onboard_time": 1690844782,
       "rank": 31,
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 106934,
-      "num": 106934,
-      "word": "直击南昌八一广场升旗仪式现场",
-      "onboard_time": 1690845084,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 108029,
+      "num": 717636,
+      "word": "在成都的外国运动员跳广场舞吃串串香",
+      "onboard_time": 1690810596,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 103738,
@@ -2795,6 +2851,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94549,
+      "num": 94549,
+      "word": "八月长安",
+      "onboard_time": 1690846350,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 93474,
+      "num": 93474,
+      "word": "原作者当编剧的影视剧作品",
+      "onboard_time": 1690831515,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 93223,
       "num": 125522,
       "word": "国际傻狗锦标赛冠军",
@@ -2803,32 +2875,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 91170,
-      "num": 91170,
-      "word": "原作者当编剧的影视剧作品",
-      "onboard_time": 1690831515,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 83861,
-      "num": 641977,
-      "word": "在成都的外国运动员跳广场舞吃串串香",
-      "onboard_time": 1690810596,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 70515,
-      "num": 70515,
-      "word": "云南地震",
-      "onboard_time": 1690845324,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69294,
-      "num": 69294,
+      "raw_hot": 87525,
+      "num": 87525,
       "word": "马立奥玩游戏淘汰了三喜",
       "onboard_time": 1690828155,
       "rank": 45,
