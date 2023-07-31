@@ -1,0 +1,410 @@
+{
+  "runTime": 1690784525993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1786765,
+        "num": 1786765,
+        "word": "青簪行",
+        "onboard_time": 1690780595,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1560448,
+        "num": 1560448,
+        "word": "全面落实带薪休假制度",
+        "onboard_time": 1690773156,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 72643,
+        "num": 1435227,
+        "word": "成都大运会精彩瞬间",
+        "onboard_time": 1690782812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337285,
+        "num": 1337285,
+        "word": "门头沟暴雨",
+        "onboard_time": 1690779936,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1246542,
+        "num": 1246542,
+        "word": "张一山说杨紫从小就很漂亮",
+        "onboard_time": 1690781133,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 952716,
+        "num": 952716,
+        "word": "房子租了大半年才发现有空调",
+        "onboard_time": 1690782272,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937717,
+        "num": 937717,
+        "word": "刘维分享微信恢复教程",
+        "onboard_time": 1690781557,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 931710,
+        "num": 931710,
+        "word": "k396",
+        "onboard_time": 1690781734,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930689,
+        "num": 930689,
+        "word": "北京升级发布洪水红色预警",
+        "onboard_time": 1690780174,
+        "rank": 8,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 391704,
+        "num": 868459,
+        "word": "文旅局长怎么不拍视频了",
+        "onboard_time": 1690770750,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188353,
+        "num": 857336,
+        "word": "北京门头沟暴雨大量汽车被冲走",
+        "onboard_time": 1690779875,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833006,
+        "num": 833006,
+        "word": "提名内娱最自律的艺人",
+        "onboard_time": 1690781014,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 750804,
+        "num": 750804,
+        "word": "花儿与少年第五季拟邀名单",
+        "onboard_time": 1690783173,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688069,
+        "num": 688069,
+        "word": "唐嫣后援会停止更新",
+        "onboard_time": 1690775733,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683138,
+        "num": 683138,
+        "word": "周迅两张A4纸台词不看提词器",
+        "onboard_time": 1690776515,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 617629,
+        "num": 617629,
+        "word": "抢到了",
+        "onboard_time": 1690779576,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 548806,
+        "num": 548806,
+        "word": "列车延误女乘务员哽咽安抚乘客",
+        "onboard_time": 1690778317,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 547305,
+        "num": 547305,
+        "word": "中学会计挪用2500万买理财获利6000",
+        "onboard_time": 1690775013,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513521,
+        "num": 513521,
+        "word": "iPhone15价格将上涨",
+        "onboard_time": 1690770210,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 511259,
+        "num": 511259,
+        "word": "TFBOYS演唱会600万人想看了",
+        "onboard_time": 1690777177,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1632393,
+        "num": 508084,
+        "word": "银行高管17岁儿子活剥猫皮",
+        "onboard_time": 1690780114,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455116,
+        "num": 455116,
+        "word": "长相思 亲妈坐镇",
+        "onboard_time": 1690768171,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451101,
+        "num": 451101,
+        "word": "张杰鹿晗黄子韬今日营业照",
+        "onboard_time": 1690783113,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428823,
+        "num": 428823,
+        "word": "夭璟每一次亲吻相柳都能感受到",
+        "onboard_time": 1690779216,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394450,
+        "num": 394450,
+        "word": "门头沟",
+        "onboard_time": 1690776094,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401926,
+        "num": 392278,
+        "word": "杨紫情绪爆发戏演到虚脱",
+        "onboard_time": 1690781313,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335236,
+        "num": 335236,
+        "word": "易烊千玺西宁出发",
+        "onboard_time": 1690781432,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324593,
+        "num": 324593,
+        "word": "请快速找出黄景瑜在哪",
+        "onboard_time": 1690783894,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 319735,
+        "num": 319735,
+        "word": "房山",
+        "onboard_time": 1690776636,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299122,
+        "num": 299122,
+        "word": "门头沟主干道泄洪水深0.5米",
+        "onboard_time": 1690782812,
+        "rank": 29,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 455158,
+        "num": 298207,
+        "word": "妈妈来一趟英国被当成乞丐",
+        "onboard_time": 1690782272,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301795,
+        "num": 297955,
+        "word": "杨幂关雪的背影",
+        "onboard_time": 1690783894,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297274,
+        "num": 297274,
+        "word": "鹿晗帮粉丝成功请假",
+        "onboard_time": 1690777362,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 296480,
+        "num": 296480,
+        "word": "赵丽颖周一上班照",
+        "onboard_time": 1690782872,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270139,
+        "num": 279640,
+        "word": "新冠感染情况问卷调查",
+        "onboard_time": 1690782394,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273539,
+        "num": 273539,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1690780838,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271945,
+        "num": 271945,
+        "word": "张惠妹送花篮悼念李玟",
+        "onboard_time": 1690783354,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265184,
+        "num": 265184,
+        "word": "北京暴雨",
+        "onboard_time": 1690773452,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247647,
+        "num": 247647,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1690778677,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219230,
+        "num": 244245,
+        "word": "卡努",
+        "onboard_time": 1690760127,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241320,
+        "num": 241320,
+        "word": "龚俊说迪丽热巴不沉",
+        "onboard_time": 1690779817,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224868,
+        "num": 224868,
+        "word": "陈晓李现今日杂志大片",
+        "onboard_time": 1690782573,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219647,
+        "num": 219647,
+        "word": "TFBOYS抢票",
+        "onboard_time": 1690776636,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211958,
+        "num": 211958,
+        "word": "北京房山一集配站80人被困",
+        "onboard_time": 1690783831,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208454,
+        "num": 208454,
+        "word": "大黄鱼抱枕被炒至666元",
+        "onboard_time": 1690784194,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202239,
+        "num": 202239,
+        "word": "龚俊迪丽热巴情头",
+        "onboard_time": 1690783113,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191658,
+        "num": 191658,
+        "word": "卡努路径调整",
+        "onboard_time": 1690767090,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31325,
+        "num": 185923,
+        "word": "微观大运会",
+        "onboard_time": 1690779336,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114487,
+        "num": 185387,
+        "word": "黑神话",
+        "onboard_time": 1690771650,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98390,
+        "num": 185355,
+        "word": "代号鸢",
+        "onboard_time": 1690784495,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#建军节来临之际习近平致以节日祝贺#"
+    }
+  }
+}

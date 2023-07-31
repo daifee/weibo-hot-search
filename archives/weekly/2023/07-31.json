@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690781639841,
+  "endTime": 1690784525993,
   "band_list": [
     {
       "raw_hot": 3282960,
@@ -59,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1786765,
+      "num": 1786765,
+      "word": "青簪行",
+      "onboard_time": 1690780595,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1692397,
       "num": 1249852,
       "word": "唐嫣后援会停止更新",
       "onboard_time": 1690775733,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1632393,
+      "num": 508084,
+      "word": "银行高管17岁儿子活剥猫皮",
+      "onboard_time": 1690780114,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1625532,
@@ -139,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1338047,
-      "num": 495655,
-      "word": "银行高管17岁儿子活剥猫皮",
-      "onboard_time": 1690780114,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1323142,
       "num": 674404,
       "word": "韩国人为什么不穿彩色衣服",
@@ -161,6 +169,22 @@
       "onboard_time": 1690764211,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1246542,
+      "num": 1246542,
+      "word": "张一山说杨紫从小就很漂亮",
+      "onboard_time": 1690781133,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1188353,
+      "num": 917195,
+      "word": "北京门头沟暴雨大量汽车被冲走",
+      "onboard_time": 1690779875,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1103962,
@@ -227,6 +251,38 @@
       "category": "影视"
     },
     {
+      "raw_hot": 952716,
+      "num": 952716,
+      "word": "房子租了大半年才发现有空调",
+      "onboard_time": 1690782272,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 937717,
+      "num": 937717,
+      "word": "刘维分享微信恢复教程",
+      "onboard_time": 1690781557,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 931710,
+      "num": 931710,
+      "word": "k396",
+      "onboard_time": 1690781734,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 930689,
+      "num": 930689,
+      "word": "北京升级发布洪水红色预警",
+      "onboard_time": 1690780174,
+      "rank": 28,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 920450,
       "num": 920450,
       "word": "一位66岁绿化工人在暴雨中离世",
@@ -235,20 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 917195,
-      "num": 917195,
-      "word": "北京门头沟暴雨大量汽车被冲走",
-      "onboard_time": 1690779875,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 865703,
-      "num": 865703,
+      "num": 868459,
       "word": "文旅局长怎么不拍视频了",
       "onboard_time": 1690770750,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833006,
+      "num": 833006,
+      "word": "提名内娱最自律的艺人",
+      "onboard_time": 1690781014,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 810750,
@@ -257,14 +313,6 @@
       "onboard_time": 1690778317,
       "rank": 12,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 805610,
-      "num": 805610,
-      "word": "北京升级发布洪水红色预警",
-      "onboard_time": 1690780174,
-      "rank": 28,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 770492,
@@ -283,20 +331,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 764371,
-      "num": 764371,
-      "word": "青簪行",
-      "onboard_time": 1690780595,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 753502,
       "num": 753502,
       "word": "外地人被内蒙物价整懵了",
       "onboard_time": 1690735886,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 750804,
+      "num": 750804,
+      "word": "花儿与少年第五季拟邀名单",
+      "onboard_time": 1690783173,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 744980,
@@ -392,6 +440,14 @@
       "word": "黄子韬去鹿晗演唱会了",
       "onboard_time": 1690723596,
       "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 617629,
+      "num": 617629,
+      "word": "抢到了",
+      "onboard_time": 1690779576,
+      "rank": 44,
       "category": "音乐"
     },
     {
@@ -531,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 507771,
-      "num": 507771,
-      "word": "张一山说杨紫从小就很漂亮",
-      "onboard_time": 1690781133,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 502095,
       "num": 492294,
       "word": "网友让邓为去补拍青簪行",
@@ -587,6 +635,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 455158,
+      "num": 298207,
+      "word": "妈妈来一趟英国被当成乞丐",
+      "onboard_time": 1690782272,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 451101,
+      "num": 451101,
+      "word": "张杰鹿晗黄子韬今日营业照",
+      "onboard_time": 1690783113,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449342,
       "num": 449342,
       "word": "罗布泊",
@@ -601,14 +665,6 @@
       "onboard_time": 1690728695,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 432646,
-      "num": 432646,
-      "word": "提名内娱最自律的艺人",
-      "onboard_time": 1690781014,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 430111,
@@ -627,20 +683,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 414932,
-      "num": 341872,
-      "word": "抢到了",
-      "onboard_time": 1690779576,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 410421,
       "num": 339966,
       "word": "王刚 我对我和全队表现感到耻辱",
       "onboard_time": 1690729833,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 401926,
+      "num": 392278,
+      "word": "杨紫情绪爆发戏演到虚脱",
+      "onboard_time": 1690781313,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 401247,
@@ -779,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335236,
+      "num": 335236,
+      "word": "易烊千玺西宁出发",
+      "onboard_time": 1690781432,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 335067,
       "num": 335067,
       "word": "龚俊说迪丽热巴不沉",
@@ -795,12 +859,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319650,
-      "num": 248398,
-      "word": "杨紫情绪爆发戏演到虚脱",
-      "onboard_time": 1690781313,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 324593,
+      "num": 324593,
+      "word": "请快速找出黄景瑜在哪",
+      "onboard_time": 1690783894,
+      "rank": 27,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 317809,
@@ -843,20 +907,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 305845,
-      "num": 248304,
-      "word": "易烊千玺西宁出发",
-      "onboard_time": 1690781432,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 303230,
       "num": 236370,
       "word": "回流票",
       "onboard_time": 1690780595,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 301795,
+      "num": 297955,
+      "word": "杨幂关雪的背影",
+      "onboard_time": 1690783894,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 299729,
@@ -867,12 +931,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299122,
+      "num": 299122,
+      "word": "门头沟主干道泄洪水深0.5米",
+      "onboard_time": 1690782812,
+      "rank": 29,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 298248,
       "num": 298248,
       "word": "哥哥给他的雪龙驹",
       "onboard_time": 1690776759,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296480,
+      "num": 296480,
+      "word": "赵丽颖周一上班照",
+      "onboard_time": 1690782872,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 293193,
@@ -899,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284733,
-      "num": 236273,
-      "word": "刘维分享微信恢复教程",
-      "onboard_time": 1690781557,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278777,
       "num": 278777,
       "word": "当我跟爸妈说不想干了",
@@ -931,12 +1003,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271945,
+      "num": 271945,
+      "word": "张惠妹送花篮悼念李玟",
+      "onboard_time": 1690783354,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270798,
       "num": 270798,
       "word": "奇奇怪怪但又可爱的设计",
       "onboard_time": 1690778562,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270139,
+      "num": 279640,
+      "word": "新冠感染情况问卷调查",
+      "onboard_time": 1690782394,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267704,
@@ -1075,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224868,
+      "num": 224868,
+      "word": "陈晓李现今日杂志大片",
+      "onboard_time": 1690782573,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223717,
       "num": 223717,
       "word": "杨紫转换声线",
@@ -1107,6 +1203,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211958,
+      "num": 211958,
+      "word": "北京房山一集配站80人被困",
+      "onboard_time": 1690783831,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208454,
+      "num": 208454,
+      "word": "大黄鱼抱枕被炒至666元",
+      "onboard_time": 1690784194,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207872,
       "num": 207872,
       "word": "七月最后一天",
@@ -1121,6 +1233,14 @@
       "onboard_time": 1690780415,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202239,
+      "num": 202239,
+      "word": "龚俊迪丽热巴情头",
+      "onboard_time": 1690783113,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 202182,
@@ -1403,6 +1523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98390,
+      "num": 185355,
+      "word": "代号鸢",
+      "onboard_time": 1690784495,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97268,
       "num": 97268,
       "word": "吴昕蓝色挂脖裙",
@@ -1417,6 +1545,14 @@
       "onboard_time": 1690734688,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72643,
+      "num": 1435227,
+      "word": "成都大运会精彩瞬间",
+      "onboard_time": 1690782812,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66997,
