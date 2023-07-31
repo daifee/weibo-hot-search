@@ -1,7 +1,15 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690771357796,
+  "endTime": 1690773434831,
   "band_list": [
+    {
+      "raw_hot": 2810227,
+      "num": 1368781,
+      "word": "难听",
+      "onboard_time": 1690770870,
+      "rank": 8,
+      "category": "音乐"
+    },
     {
       "raw_hot": 2729558,
       "num": 2729558,
@@ -9,6 +17,14 @@
       "onboard_time": 1690760127,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2090526,
+      "num": 2090526,
+      "word": "iPhone15价格将上涨",
+      "onboard_time": 1690770210,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 1938825,
@@ -27,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1463692,
-      "num": 1463692,
+      "raw_hot": 1473550,
+      "num": 1473550,
       "word": "长相思 亲妈坐镇",
       "onboard_time": 1690768171,
       "rank": 1,
@@ -41,6 +57,14 @@
       "onboard_time": 1690727556,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1366719,
+      "num": 1366719,
+      "word": "牛奶从未过期是我回来晚了",
+      "onboard_time": 1690768589,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 1343293,
@@ -60,7 +84,7 @@
     },
     {
       "raw_hot": 1323142,
-      "num": 660916,
+      "num": 672752,
       "word": "韩国人为什么不穿彩色衣服",
       "onboard_time": 1690759945,
       "rank": 42,
@@ -73,6 +97,14 @@
       "onboard_time": 1690764211,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1210664,
+      "num": 1210664,
+      "word": "毛晓彤方否认被抢角",
+      "onboard_time": 1690772192,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1103962,
@@ -115,14 +147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1018073,
-      "num": 1018073,
-      "word": "牛奶从未过期是我回来晚了",
-      "onboard_time": 1690768589,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 920450,
       "num": 920450,
       "word": "一位66岁绿化工人在暴雨中离世",
@@ -136,6 +160,14 @@
       "word": "卡努路径调整",
       "onboard_time": 1690767090,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 763723,
+      "num": 763723,
+      "word": "文旅局长怎么不拍视频了",
+      "onboard_time": 1690770750,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -171,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 710939,
-      "num": 710939,
-      "word": "难听",
-      "onboard_time": 1690770870,
-      "rank": 8,
-      "category": "音乐"
+      "raw_hot": 690187,
+      "num": 690187,
+      "word": "热烈票房逆跌",
+      "onboard_time": 1690767272,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 676411,
@@ -193,14 +225,6 @@
       "onboard_time": 1690726416,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 661408,
-      "num": 661408,
-      "word": "iPhone15价格将上涨",
-      "onboard_time": 1690770210,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 660809,
@@ -251,20 +275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 579911,
-      "num": 579911,
-      "word": "热烈票房逆跌",
-      "onboard_time": 1690767272,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 575032,
       "num": 575032,
       "word": "李玟追悼会今日举行",
       "onboard_time": 1690768893,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 572766,
+      "num": 572766,
+      "word": "迪丽热巴摸龚俊耳朵",
+      "onboard_time": 1690771291,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 565191,
@@ -281,6 +305,14 @@
       "onboard_time": 1690765891,
       "rank": 24,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 558437,
+      "num": 558437,
+      "word": "洪水中飘来一个大冰箱市民自取清空",
+      "onboard_time": 1690769728,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556322,
@@ -387,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 409261,
+      "num": 409261,
+      "word": "黑神话",
+      "onboard_time": 1690771650,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 401247,
       "num": 401247,
       "word": "小夭相柳是情侣名",
@@ -401,14 +441,6 @@
       "onboard_time": 1690766193,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 394173,
-      "num": 394173,
-      "word": "洪水中飘来一个大冰箱市民自取清空",
-      "onboard_time": 1690769728,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393965,
@@ -459,6 +491,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364915,
+      "num": 364915,
+      "word": "Lisa亲了朴彩英的脸",
+      "onboard_time": 1690770568,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 363047,
+      "num": 363047,
+      "word": "封神姬发的丸子头是怎么扎的",
+      "onboard_time": 1690769009,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360643,
       "num": 360643,
       "word": "大时代",
@@ -505,14 +553,6 @@
       "onboard_time": 1690731096,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 330164,
-      "num": 330164,
-      "word": "封神姬发的丸子头是怎么扎的",
-      "onboard_time": 1690769009,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 327504,
@@ -587,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281136,
+      "num": 281136,
+      "word": "檀健次蒲萄四搭",
+      "onboard_time": 1690772612,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278777,
       "num": 278777,
       "word": "当我跟爸妈说不想干了",
@@ -635,14 +683,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 260238,
-      "num": 260238,
-      "word": "文旅局长怎么不拍视频了",
-      "onboard_time": 1690770750,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259881,
       "num": 222980,
       "word": "封神票房",
@@ -667,20 +707,28 @@
       "category": "科技"
     },
     {
-      "raw_hot": 255731,
-      "num": 255731,
-      "word": "Lisa亲了朴彩英的脸",
-      "onboard_time": 1690770568,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 247833,
       "num": 247833,
       "word": "成都串串店深夜坐满外国运动员",
       "onboard_time": 1690758321,
       "rank": 37,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 247239,
+      "num": 247239,
+      "word": "官方回应洪流中托举女孩的辅警能否转正",
+      "onboard_time": 1690768171,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244820,
+      "num": 244820,
+      "word": "全面落实带薪休假制度",
+      "onboard_time": 1690773156,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 240877,
@@ -691,11 +739,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236704,
+      "num": 236704,
+      "word": "莲花楼失莲不断联",
+      "onboard_time": 1690772310,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234342,
       "num": 173122,
       "word": "因为是张新成所以脏可以心诚",
       "onboard_time": 1690729595,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 233800,
+      "num": 233800,
+      "word": "虞书欣8月在剧组",
+      "onboard_time": 1690773032,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -739,12 +803,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 212098,
-      "num": 212098,
-      "word": "官方回应洪流中托举女孩的辅警能否转正",
-      "onboard_time": 1690768171,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 213474,
+      "num": 213474,
+      "word": "阔腿裤缩水能有多离谱",
+      "onboard_time": 1690772070,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 207872,
@@ -755,12 +819,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 202899,
-      "num": 202899,
-      "word": "迪丽热巴摸龚俊耳朵",
-      "onboard_time": 1690771291,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 202182,
+      "num": 202182,
+      "word": "马嘉祺新歌rap",
+      "onboard_time": 1690773271,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 201421,
@@ -768,6 +832,14 @@
       "word": "长相思",
       "onboard_time": 1690714953,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196630,
+      "num": 202179,
+      "word": "安乐传",
+      "onboard_time": 1690772370,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -849,6 +921,14 @@
       "onboard_time": 1690758864,
       "rank": 48,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 169821,
+      "num": 202080,
+      "word": "刘耀文大时代高音",
+      "onboard_time": 1690771229,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 167033,

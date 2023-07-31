@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690771357796,
+  "endTime": 1690773434831,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1459,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2810227,
+      "num": 1368781,
+      "word": "难听",
+      "onboard_time": 1688982453,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2807356,
       "num": 1290229,
       "word": "肖战再提陈情令",
@@ -2651,14 +2659,6 @@
       "category": "科技,幽默"
     },
     {
-      "raw_hot": 2185128,
-      "num": 1365322,
-      "word": "难听",
-      "onboard_time": 1688982453,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 2184548,
       "num": 2184548,
       "word": "如果微信显示已读的话",
@@ -2977,6 +2977,14 @@
       "onboard_time": 1688817692,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2090526,
+      "num": 2090526,
+      "word": "iPhone15价格将上涨",
+      "onboard_time": 1690770210,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 2085707,
@@ -6099,6 +6107,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1473550,
+      "num": 1473550,
+      "word": "长相思 亲妈坐镇",
+      "onboard_time": 1690768171,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1472945,
       "num": 1472945,
       "word": "魏大勋文咏珊居然演过情侣",
@@ -6209,14 +6225,6 @@
       "onboard_time": 1689553772,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1463692,
-      "num": 1463692,
-      "word": "长相思 亲妈坐镇",
-      "onboard_time": 1690768171,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1462994,
@@ -6995,6 +7003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1366719,
+      "num": 1366719,
+      "word": "牛奶从未过期是我回来晚了",
+      "onboard_time": 1690768589,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1365059,
       "num": 1365059,
       "word": "长相思断更的原因",
@@ -7340,7 +7356,7 @@
     },
     {
       "raw_hot": 1323142,
-      "num": 660916,
+      "num": 672752,
       "word": "韩国人为什么不穿彩色衣服",
       "onboard_time": 1690759945,
       "rank": 42,
@@ -8241,6 +8257,14 @@
       "onboard_time": 1688952451,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1210664,
+      "num": 1210664,
+      "word": "毛晓彤方否认被抢角",
+      "onboard_time": 1690772192,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1210040,
@@ -10833,14 +10857,6 @@
       "onboard_time": 1689326919,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1018073,
-      "num": 1018073,
-      "word": "牛奶从未过期是我回来晚了",
-      "onboard_time": 1690768589,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 1017987,
@@ -16819,6 +16835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 763723,
+      "num": 763723,
+      "word": "文旅局长怎么不拍视频了",
+      "onboard_time": 1690770750,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 763547,
       "num": 755563,
       "word": "如果孟宴臣遇见的是薛杉杉",
@@ -19131,6 +19155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 690187,
+      "num": 690187,
+      "word": "热烈票房逆跌",
+      "onboard_time": 1690767272,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 690174,
       "num": 494802,
       "word": "苹果的苹还能组什么词",
@@ -20305,14 +20337,6 @@
       "onboard_time": 1690044029,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 661408,
-      "num": 661408,
-      "word": "iPhone15价格将上涨",
-      "onboard_time": 1690770210,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 661325,
@@ -23971,14 +23995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 579911,
-      "num": 579911,
-      "word": "热烈票房逆跌",
-      "onboard_time": 1690767272,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 579872,
       "num": 287305,
       "word": "秒睡技巧",
@@ -24329,6 +24345,14 @@
       "onboard_time": 1689350376,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 572766,
+      "num": 572766,
+      "word": "迪丽热巴摸龚俊耳朵",
+      "onboard_time": 1690771291,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 572643,
@@ -25065,6 +25089,14 @@
       "onboard_time": 1689596073,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 558437,
+      "num": 558437,
+      "word": "洪水中飘来一个大冰箱市民自取清空",
+      "onboard_time": 1690769728,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 558106,
@@ -34843,6 +34875,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 409261,
+      "num": 409261,
+      "word": "黑神话",
+      "onboard_time": 1690771650,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 409230,
       "num": 409230,
       "word": "王宝强在刘若英演唱会上说永远爱姐姐",
@@ -36097,14 +36137,6 @@
       "onboard_time": 1688343212,
       "rank": 18,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 394173,
-      "num": 394173,
-      "word": "洪水中飘来一个大冰箱市民自取清空",
-      "onboard_time": 1690769728,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393965,
@@ -38683,6 +38715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364915,
+      "num": 364915,
+      "word": "Lisa亲了朴彩英的脸",
+      "onboard_time": 1690770568,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 364824,
       "num": 294213,
       "word": "张真源考驾照的原因",
@@ -38825,6 +38865,14 @@
       "onboard_time": 1689233792,
       "rank": 18,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 363047,
+      "num": 363047,
+      "word": "封神姬发的丸子头是怎么扎的",
+      "onboard_time": 1690769009,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 362683,
@@ -42065,14 +42113,6 @@
       "onboard_time": 1688476956,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 330164,
-      "num": 330164,
-      "word": "封神姬发的丸子头是怎么扎的",
-      "onboard_time": 1690769009,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 330163,
@@ -48083,6 +48123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281136,
+      "num": 281136,
+      "word": "檀健次蒲萄四搭",
+      "onboard_time": 1690772612,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280872,
       "num": 280872,
       "word": "男子高温街头边秀腹肌边送水",
@@ -50803,14 +50851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260238,
-      "num": 260238,
-      "word": "文旅局长怎么不拍视频了",
-      "onboard_time": 1690770750,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260172,
       "num": 260172,
       "word": "王曼昱晋级",
@@ -51417,14 +51457,6 @@
       "onboard_time": 1689670354,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 255731,
-      "num": 255731,
-      "word": "Lisa亲了朴彩英的脸",
-      "onboard_time": 1690770568,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 255556,
@@ -52555,6 +52587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247239,
+      "num": 247239,
+      "word": "官方回应洪流中托举女孩的辅警能否转正",
+      "onboard_time": 1690768171,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247223,
       "num": 216562,
       "word": "秘密入侵",
@@ -52897,6 +52937,14 @@
       "onboard_time": 1688452175,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244820,
+      "num": 244820,
+      "word": "全面落实带薪休假制度",
+      "onboard_time": 1690773156,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 244813,
@@ -54131,6 +54179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236704,
+      "num": 236704,
+      "word": "莲花楼失莲不断联",
+      "onboard_time": 1690772310,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236700,
       "num": 236700,
       "word": "女子让外卖员摘面罩看脸否则差评",
@@ -54569,6 +54625,14 @@
       "onboard_time": 1689900336,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233800,
+      "num": 233800,
+      "word": "虞书欣8月在剧组",
+      "onboard_time": 1690773032,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 233708,
@@ -57723,6 +57787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213474,
+      "num": 213474,
+      "word": "阔腿裤缩水能有多离谱",
+      "onboard_time": 1690772070,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213468,
       "num": 211006,
       "word": "王鹤棣工作室是懂我们想看什么的",
@@ -58041,14 +58113,6 @@
       "onboard_time": 1689944142,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 212098,
-      "num": 212098,
-      "word": "官方回应洪流中托举女孩的辅警能否转正",
-      "onboard_time": 1690768171,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211932,
@@ -59707,14 +59771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202899,
-      "num": 202899,
-      "word": "迪丽热巴摸龚俊耳朵",
-      "onboard_time": 1690771291,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 202888,
       "num": 255517,
       "word": "小男孩去买甜甜圈店员姐姐不要太宠了",
@@ -59897,6 +59953,14 @@
       "onboard_time": 1688524833,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202182,
+      "num": 202182,
+      "word": "马嘉祺新歌rap",
+      "onboard_time": 1690773271,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 202145,
@@ -65425,6 +65489,14 @@
       "onboard_time": 1689679710,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169821,
+      "num": 202080,
+      "word": "刘耀文大时代高音",
+      "onboard_time": 1690771229,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 169784,
