@@ -1,0 +1,410 @@
+{
+  "runTime": 1690768075415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1835146,
+        "num": 1835146,
+        "word": "卡努",
+        "onboard_time": 1690760127,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1638252,
+        "num": 1638252,
+        "word": "花花洗澡全国人民都知道了",
+        "onboard_time": 1690760609,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88339,
+        "num": 1550298,
+        "word": "在大运村和外国运动员一起耍非遗",
+        "onboard_time": 1690722814,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1491269,
+        "num": 1491269,
+        "word": "刘维 真正的离开不是死亡是遗忘",
+        "onboard_time": 1690762714,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1277140,
+        "num": 1277140,
+        "word": "原来你好星期六那天魏大勋戴眼镜了",
+        "onboard_time": 1690764211,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1054058,
+        "num": 1054058,
+        "word": "不上班但又饿不死的活法",
+        "onboard_time": 1690763915,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 661128,
+        "num": 661128,
+        "word": "长相思14集封神了",
+        "onboard_time": 1690727556,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 656015,
+        "num": 656015,
+        "word": "杨紫拍戏过程中不知道邓为哭了",
+        "onboard_time": 1690763374,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 558754,
+        "num": 558754,
+        "word": "台风吹来的遍地生蚝能不能吃",
+        "onboard_time": 1690765891,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 518412,
+        "num": 518412,
+        "word": "北京居家",
+        "onboard_time": 1690766258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079203,
+        "num": 512504,
+        "word": "韩国人为什么不穿彩色衣服",
+        "onboard_time": 1690759945,
+        "rank": 10,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 694256,
+        "num": 509355,
+        "word": "女子抽中10克金条因错过叫号被取消",
+        "onboard_time": 1690764693,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505388,
+        "num": 505388,
+        "word": "外地人被内蒙物价整懵了",
+        "onboard_time": 1690735886,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 423947,
+        "num": 423947,
+        "word": "偷偷改造爸妈的2000平老家",
+        "onboard_time": 1690761149,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 395058,
+        "num": 395058,
+        "word": "上班多久带水杯才合适",
+        "onboard_time": 1690766193,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393965,
+        "num": 393965,
+        "word": "宫城良田",
+        "onboard_time": 1690762532,
+        "rank": 15,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 385627,
+        "num": 385627,
+        "word": "单依纯那英式发言",
+        "onboard_time": 1690767390,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378576,
+        "num": 378576,
+        "word": "巨齿鲨2吴京戏份",
+        "onboard_time": 1690765594,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375303,
+        "num": 375303,
+        "word": "李玟二姐首次露面回应礼服和遗产争议",
+        "onboard_time": 1690759404,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373965,
+        "num": 373965,
+        "word": "涂山璟知道不是吻痕了",
+        "onboard_time": 1690760366,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 771113,
+        "num": 373493,
+        "word": "一位66岁绿化工人在暴雨中离世",
+        "onboard_time": 1690762650,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432087,
+        "num": 373345,
+        "word": "热烈票房逆跌",
+        "onboard_time": 1690767272,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372133,
+        "num": 372133,
+        "word": "小夭相柳是情侣名",
+        "onboard_time": 1690762714,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371848,
+        "num": 371848,
+        "word": "刘维登不上母亲微信发文求助",
+        "onboard_time": 1690720535,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355653,
+        "num": 355653,
+        "word": "易烊千玺自己拼的图",
+        "onboard_time": 1690763976,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 343695,
+        "num": 343695,
+        "word": "5个症状提示体内有湿气",
+        "onboard_time": 1690731813,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382722,
+        "num": 340614,
+        "word": "日本学生害怕被AI取代而自杀",
+        "onboard_time": 1690734927,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328451,
+        "num": 328451,
+        "word": "8月狗屎运最旺星座",
+        "onboard_time": 1690760487,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327068,
+        "num": 327068,
+        "word": "脏 就不能心诚吗",
+        "onboard_time": 1690760846,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307138,
+        "num": 307138,
+        "word": "罗布泊",
+        "onboard_time": 1690762050,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352831,
+        "num": 302408,
+        "word": "卡努路径调整",
+        "onboard_time": 1690767090,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293193,
+        "num": 293193,
+        "word": "相柳好像新婚弃妇",
+        "onboard_time": 1690765293,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274668,
+        "num": 274668,
+        "word": "花花真身比Q版还Q",
+        "onboard_time": 1690733311,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274317,
+        "num": 274317,
+        "word": "纣王 PUA高手",
+        "onboard_time": 1690766970,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249379,
+        "num": 249379,
+        "word": "推特图标",
+        "onboard_time": 1690764394,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 257053,
+        "num": 247943,
+        "word": "封神",
+        "onboard_time": 1690762470,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232406,
+        "num": 232406,
+        "word": "一毛钱的小串36年没涨过价",
+        "onboard_time": 1690766554,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225146,
+        "num": 225146,
+        "word": "内娱身材管理满分的明星",
+        "onboard_time": 1690739058,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209605,
+        "num": 209605,
+        "word": "喜欢张杰很久的彭奶奶去世了",
+        "onboard_time": 1690724792,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199601,
+        "num": 199601,
+        "word": "杨玏分享伯邑考杀青视频",
+        "onboard_time": 1690767691,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193729,
+        "num": 193729,
+        "word": "徐志胜杀我别用亲情刀",
+        "onboard_time": 1690760789,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191549,
+        "num": 191549,
+        "word": "台风卡努恰逢农历天文大潮",
+        "onboard_time": 1690756216,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187115,
+        "num": 187115,
+        "word": "谁家演唱会还给歌迷过生日呀",
+        "onboard_time": 1690767031,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163216,
+        "num": 163216,
+        "word": "成都串串店深夜坐满外国运动员",
+        "onboard_time": 1690758321,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 158723,
+        "num": 158723,
+        "word": "TFBOYS要合体集训了吧",
+        "onboard_time": 1690732173,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147170,
+        "num": 147170,
+        "word": "台风卡努最新路径",
+        "onboard_time": 1690767753,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141921,
+        "num": 141921,
+        "word": "长相思玱玹真的哭了吗",
+        "onboard_time": 1690768050,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141816,
+        "num": 141816,
+        "word": "业内人士谈车队进罗布泊3死1失联",
+        "onboard_time": 1690761632,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141059,
+        "num": 141059,
+        "word": "蔡依林说日不落是她最红的舞曲",
+        "onboard_time": 1690735646,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139911,
+        "num": 139911,
+        "word": "人人都忆李相夷人人又负李相夷",
+        "onboard_time": 1690768050,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#会唱歌的石头见证中华千年礼乐文明#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690766606800,
+  "endTime": 1690768075415,
   "band_list": [
     {
       "raw_hot": 1938825,
@@ -9,6 +9,14 @@
       "onboard_time": 1690760609,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1835146,
+      "num": 1835146,
+      "word": "卡努",
+      "onboard_time": 1690760127,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1625532,
@@ -25,14 +33,6 @@
       "onboard_time": 1690727556,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1436256,
-      "num": 1436256,
-      "word": "卡努",
-      "onboard_time": 1690760127,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1343293,
@@ -59,8 +59,8 @@
       "category": "情感,时尚"
     },
     {
-      "raw_hot": 1112189,
-      "num": 1112189,
+      "raw_hot": 1277140,
+      "num": 1277140,
       "word": "原来你好星期六那天魏大勋戴眼镜了",
       "onboard_time": 1690764211,
       "rank": 4,
@@ -99,8 +99,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1039711,
-      "num": 1039711,
+      "raw_hot": 1054058,
+      "num": 1054058,
       "word": "不上班但又饿不死的活法",
       "onboard_time": 1690763915,
       "rank": 5,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656015,
+      "num": 656015,
+      "word": "杨紫拍戏过程中不知道邓为哭了",
+      "onboard_time": 1690763374,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 653847,
       "num": 653847,
       "word": "行车记录仪记录车库被淹全程",
@@ -195,20 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 574859,
-      "num": 574859,
-      "word": "杨紫拍戏过程中不知道邓为哭了",
-      "onboard_time": 1690763374,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 565191,
       "num": 338313,
       "word": "张晚意邓为檀健次涨粉量",
       "onboard_time": 1690731154,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 558754,
+      "num": 558754,
+      "word": "台风吹来的遍地生蚝能不能吃",
+      "onboard_time": 1690765891,
+      "rank": 24,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 553309,
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518412,
+      "num": 518412,
+      "word": "北京居家",
+      "onboard_time": 1690766258,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472605,
       "num": 472605,
       "word": "电梯突然停运乘客原地停留20分钟",
@@ -280,6 +296,14 @@
       "word": "费翔 妈妈严选",
       "onboard_time": 1690728695,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 432087,
+      "num": 373345,
+      "word": "热烈票房逆跌",
+      "onboard_time": 1690767272,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -315,12 +339,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395058,
+      "num": 395058,
+      "word": "上班多久带水杯才合适",
+      "onboard_time": 1690766193,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 393965,
+      "num": 393965,
+      "word": "宫城良田",
+      "onboard_time": 1690762532,
+      "rank": 27,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 393542,
       "num": 327529,
       "word": "精诚矿业瞒报死亡矿工43人",
       "onboard_time": 1690717354,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385627,
+      "num": 385627,
+      "word": "单依纯那英式发言",
+      "onboard_time": 1690767390,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 381086,
@@ -355,14 +403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 363980,
-      "num": 363980,
-      "word": "台风吹来的遍地生蚝能不能吃",
-      "onboard_time": 1690765891,
-      "rank": 24,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 358128,
       "num": 358128,
       "word": "夭璟已经是next level了",
@@ -379,11 +419,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355653,
+      "num": 355653,
+      "word": "易烊千玺自己拼的图",
+      "onboard_time": 1690763976,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 355038,
       "num": 355038,
       "word": "业内人士谈车队进罗布泊3死1失联",
       "onboard_time": 1690730316,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352831,
+      "num": 302408,
+      "word": "卡努路径调整",
+      "onboard_time": 1690767090,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -395,28 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 331155,
-      "num": 331155,
-      "word": "易烊千玺自己拼的图",
-      "onboard_time": 1690763976,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 327504,
       "num": 250159,
       "word": "有演技却没有爆火的演员",
       "onboard_time": 1690726474,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324477,
-      "num": 324477,
-      "word": "宫城良田",
-      "onboard_time": 1690762532,
-      "rank": 27,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 317809,
@@ -459,11 +499,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293193,
+      "num": 293193,
+      "word": "相柳好像新婚弃妇",
+      "onboard_time": 1690765293,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284556,
       "num": 284556,
       "word": "封神",
       "onboard_time": 1690762470,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 274317,
+      "num": 274317,
+      "word": "纣王 PUA高手",
+      "onboard_time": 1690766970,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -547,8 +603,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223271,
-      "num": 223271,
+      "raw_hot": 232406,
+      "num": 232406,
+      "word": "一毛钱的小串36年没涨过价",
+      "onboard_time": 1690766554,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225146,
+      "num": 225146,
       "word": "内娱身材管理满分的明星",
       "onboard_time": 1690739058,
       "rank": 23,
@@ -579,14 +643,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 204537,
-      "num": 204537,
-      "word": "北京居家",
-      "onboard_time": 1690766258,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201421,
       "num": 175915,
       "word": "长相思",
@@ -595,12 +651,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200828,
-      "num": 200828,
-      "word": "上班多久带水杯才合适",
-      "onboard_time": 1690766193,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 199601,
+      "num": 199601,
+      "word": "杨玏分享伯邑考杀青视频",
+      "onboard_time": 1690767691,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 195279,
@@ -617,6 +673,14 @@
       "onboard_time": 1690756275,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187115,
+      "num": 187115,
+      "word": "谁家演唱会还给歌迷过生日呀",
+      "onboard_time": 1690767031,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 186921,
@@ -731,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147170,
+      "num": 147170,
+      "word": "台风卡努最新路径",
+      "onboard_time": 1690767753,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143972,
       "num": 91912,
       "word": "玱玹你怎么不笑了",
@@ -747,12 +819,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142697,
-      "num": 142697,
-      "word": "一毛钱的小串36年没涨过价",
-      "onboard_time": 1690766554,
+      "raw_hot": 141921,
+      "num": 141921,
+      "word": "长相思玱玹真的哭了吗",
+      "onboard_time": 1690768050,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 139911,
+      "num": 139911,
+      "word": "人人都忆李相夷人人又负李相夷",
+      "onboard_time": 1690768050,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 139418,
@@ -804,7 +884,7 @@
     },
     {
       "raw_hot": 103738,
-      "num": 1488483,
+      "num": 1550298,
       "word": "在大运村和外国运动员一起耍非遗",
       "onboard_time": 1690722814,
       "rank": 2,
