@@ -1,0 +1,410 @@
+{
+  "runTime": 1690812994375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1974654,
+        "num": 1974654,
+        "word": "老干妈表层红油藏有游动微生物吗",
+        "onboard_time": 1690804712,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1489252,
+        "num": 1489252,
+        "word": "造谣者向郑恺道歉",
+        "onboard_time": 1690808734,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385000,
+        "num": 1204736,
+        "word": "K396次Z180次列车受阻旅客安全转移",
+        "onboard_time": 1690810720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072809,
+        "num": 1072809,
+        "word": "相柳说涂山家的狐狸真没用",
+        "onboard_time": 1690808073,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 963005,
+        "num": 963005,
+        "word": "北京升级发布洪水红色预警",
+        "onboard_time": 1690780174,
+        "rank": 4,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 913452,
+        "num": 913452,
+        "word": "李玟老公及继女现身追悼会",
+        "onboard_time": 1690796312,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810846,
+        "num": 810846,
+        "word": "故宫",
+        "onboard_time": 1690807594,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 772632,
+        "num": 772632,
+        "word": "韩女团成员被公司开除",
+        "onboard_time": 1690802371,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759219,
+        "num": 759219,
+        "word": "K396次列车最新消息",
+        "onboard_time": 1690797214,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673540,
+        "num": 673540,
+        "word": "玱玹打不过防风意映",
+        "onboard_time": 1690810475,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1266671,
+        "num": 672987,
+        "word": "迪丽热巴说身材管理是工作的一部分",
+        "onboard_time": 1690811016,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1108941,
+        "num": 672399,
+        "word": "马嘉祺发了30多张照片",
+        "onboard_time": 1690805374,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671810,
+        "num": 671810,
+        "word": "小夭和家人相认哭疯了",
+        "onboard_time": 1690801711,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 676925,
+        "num": 670179,
+        "word": "丁程鑫晒和马嘉祺出游vlog",
+        "onboard_time": 1690809814,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604663,
+        "num": 604663,
+        "word": "毕业生因一张海报成功入职",
+        "onboard_time": 1690809214,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635507,
+        "num": 557859,
+        "word": "萧亚轩在李玟追悼会痛哭",
+        "onboard_time": 1690795893,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502817,
+        "num": 502817,
+        "word": "是谁坐高铁还要看导航",
+        "onboard_time": 1690805073,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591106,
+        "num": 502357,
+        "word": "悉尼上空现CoCoLee云朵字",
+        "onboard_time": 1690799912,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 436318,
+        "num": 436318,
+        "word": "卡努升级为超强台风",
+        "onboard_time": 1690799193,
+        "rank": 18,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 394088,
+        "num": 394088,
+        "word": "shinyruo 明天播",
+        "onboard_time": 1690806272,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 626158,
+        "num": 394064,
+        "word": "小夭 阿念",
+        "onboard_time": 1690811893,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451304,
+        "num": 392676,
+        "word": "原来这才是真正的海底星空",
+        "onboard_time": 1690808673,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 480288,
+        "num": 387991,
+        "word": "邓为cos狐狸跳女团舞",
+        "onboard_time": 1690797453,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381565,
+        "num": 381565,
+        "word": "2位军官晋升上将军衔",
+        "onboard_time": 1690802072,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359744,
+        "num": 359744,
+        "word": "B站",
+        "onboard_time": 1690794032,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 462428,
+        "num": 354727,
+        "word": "关晓彤高开叉红裙",
+        "onboard_time": 1690808432,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 429961,
+        "num": 338944,
+        "word": "黄子韬说只有鹿晗能让我取消行程",
+        "onboard_time": 1690812516,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 423005,
+        "num": 332643,
+        "word": "杨洋白色短裤",
+        "onboard_time": 1690794813,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 316293,
+        "num": 316293,
+        "word": "北京全市河道均在行洪",
+        "onboard_time": 1690798713,
+        "rank": 28,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 279890,
+        "num": 279890,
+        "word": "北京东西城再发暴雨红色预警",
+        "onboard_time": 1690800273,
+        "rank": 29,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 395290,
+        "num": 277781,
+        "word": "周冬雨眼妆",
+        "onboard_time": 1690809633,
+        "rank": 30,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 383096,
+        "num": 276953,
+        "word": "李玟追思会",
+        "onboard_time": 1690789832,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347560,
+        "num": 273931,
+        "word": "李雪琴吻戏大型围观现场",
+        "onboard_time": 1690804832,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330330,
+        "num": 270832,
+        "word": "王一博热烈家庭烟火气",
+        "onboard_time": 1690811496,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328088,
+        "num": 269827,
+        "word": "狐狸精为这个家付出了太多",
+        "onboard_time": 1690801411,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268122,
+        "num": 268122,
+        "word": "北京门头沟强降雨已致2人死亡",
+        "onboard_time": 1690790313,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253534,
+        "num": 253534,
+        "word": "北京各区蓝天救援队电话汇总",
+        "onboard_time": 1690812036,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216512,
+        "num": 216512,
+        "word": "房子租了大半年才发现有空调",
+        "onboard_time": 1690782272,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206904,
+        "num": 206904,
+        "word": "杭州种出78斤大西瓜破全省纪录",
+        "onboard_time": 1690798535,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196794,
+        "num": 196794,
+        "word": "大运会男篮中国不敌中国台北",
+        "onboard_time": 1690812636,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292949,
+        "num": 196792,
+        "word": "赵简元仲辛喜当爹娘",
+        "onboard_time": 1690810596,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285782,
+        "num": 196783,
+        "word": "李玟二姐哭喊他害死了我妹妹",
+        "onboard_time": 1690812700,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235918,
+        "num": 196770,
+        "word": "黄晓明万茜新剧吻戏",
+        "onboard_time": 1690805433,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216627,
+        "num": 196762,
+        "word": "断眉上海演唱会获批",
+        "onboard_time": 1690809214,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258066,
+        "num": 196744,
+        "word": "甄妮说下辈子跟李玟再做好知己",
+        "onboard_time": 1690809814,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214275,
+        "num": 196733,
+        "word": "长相思预告",
+        "onboard_time": 1690811496,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176908,
+        "num": 196729,
+        "word": "门头沟这些地区通讯全部中断",
+        "onboard_time": 1690812099,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166103,
+        "num": 196722,
+        "word": "北京提醒广大市民远离河道",
+        "onboard_time": 1690803332,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161147,
+        "num": 196709,
+        "word": "汉文帝霸陵殉葬坑发现大熊猫骨骼",
+        "onboard_time": 1690812757,
+        "rank": 48,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 169981,
+        "num": 196696,
+        "word": "北京房山门头沟平均降雨量超300毫米",
+        "onboard_time": 1690789955,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委晋升上将军衔仪式在京举行#"
+    }
+  }
+}

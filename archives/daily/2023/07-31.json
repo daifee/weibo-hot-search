@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690810418618,
+  "endTime": 1690812994375,
   "band_list": [
     {
       "raw_hot": 3282960,
@@ -59,6 +59,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1974654,
+      "num": 1974654,
+      "word": "老干妈表层红油藏有游动微生物吗",
+      "onboard_time": 1690804712,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1972155,
       "num": 1972155,
       "word": "萧亚轩在李玟追悼会痛哭",
@@ -73,14 +81,6 @@
       "onboard_time": 1690760609,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1925898,
-      "num": 1925898,
-      "word": "老干妈表层红油藏有游动微生物吗",
-      "onboard_time": 1690804712,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1887110,
@@ -323,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1266671,
+      "num": 672987,
+      "word": "迪丽热巴说身材管理是工作的一部分",
+      "onboard_time": 1690811016,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1254690,
       "num": 1254690,
       "word": "张一山说杨紫从小就很漂亮",
@@ -401,6 +409,14 @@
       "onboard_time": 1690797214,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1072809,
+      "num": 1072809,
+      "word": "相柳说涂山家的狐狸真没用",
+      "onboard_time": 1690808073,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 1054058,
@@ -675,19 +691,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 686870,
-      "num": 686870,
-      "word": "相柳说涂山家的狐狸真没用",
-      "onboard_time": 1690808073,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 676411,
       "num": 676411,
       "word": "你不要让别的男人住进你心里",
       "onboard_time": 1690728156,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 673540,
+      "num": 673540,
+      "word": "玱玹打不过防风意映",
+      "onboard_time": 1690810475,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626158,
+      "num": 394064,
+      "word": "小夭 阿念",
+      "onboard_time": 1690811893,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 622877,
       "num": 622877,
       "word": "黄子韬去鹿晗演唱会了",
@@ -793,6 +817,14 @@
       "onboard_time": 1690779216,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 604663,
+      "num": 604663,
+      "word": "毕业生因一张海报成功入职",
+      "onboard_time": 1690809214,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 603612,
@@ -1043,8 +1075,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460988,
-      "num": 253069,
+      "raw_hot": 462428,
+      "num": 354727,
       "word": "关晓彤高开叉红裙",
       "onboard_time": 1690808432,
       "rank": 30,
@@ -1057,6 +1089,14 @@
       "onboard_time": 1690782272,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 451304,
+      "num": 392676,
+      "word": "原来这才是真正的海底星空",
+      "onboard_time": 1690808673,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 449342,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1690807353,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 429961,
+      "num": 338944,
+      "word": "黄子韬说只有鹿晗能让我取消行程",
+      "onboard_time": 1690812516,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 424552,
@@ -1163,12 +1211,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395290,
+      "num": 277781,
+      "word": "周冬雨眼妆",
+      "onboard_time": 1690809633,
+      "rank": 44,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 395058,
       "num": 395058,
       "word": "上班多久带水杯才合适",
       "onboard_time": 1690766193,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 394088,
+      "num": 394088,
+      "word": "shinyruo 明天播",
+      "onboard_time": 1690806272,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 393965,
@@ -1203,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385000,
+      "num": 1204736,
+      "word": "K396次Z180次列车受阻旅客安全转移",
+      "onboard_time": 1690810720,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381086,
       "num": 381086,
       "word": "徐志胜杀我别用亲情刀",
@@ -1217,14 +1289,6 @@
       "onboard_time": 1690760487,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 377018,
-      "num": 377018,
-      "word": "原来这才是真正的海底星空",
-      "onboard_time": 1690808673,
-      "rank": 29,
-      "category": "旅游"
     },
     {
       "raw_hot": 376977,
@@ -1257,14 +1321,6 @@
       "onboard_time": 1690783894,
       "rank": 27,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 369274,
-      "num": 251705,
-      "word": "周冬雨眼妆",
-      "onboard_time": 1690809633,
-      "rank": 44,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 368252,
@@ -1392,6 +1448,14 @@
       "word": "龚俊说迪丽热巴不沉",
       "onboard_time": 1690779817,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 330330,
+      "num": 270832,
+      "word": "王一博热烈家庭烟火气",
+      "onboard_time": 1690811496,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1547,6 +1611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292949,
+      "num": 196792,
+      "word": "赵简元仲辛喜当爹娘",
+      "onboard_time": 1690810596,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288759,
       "num": 288759,
       "word": "封神",
@@ -1561,6 +1633,14 @@
       "onboard_time": 1690772612,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285782,
+      "num": 196783,
+      "word": "李玟二姐哭喊他害死了我妹妹",
+      "onboard_time": 1690812700,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 280417,
@@ -1755,11 +1835,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 251004,
-      "num": 251004,
-      "word": "毕业生因一张海报成功入职",
-      "onboard_time": 1690809214,
-      "rank": 45,
+      "raw_hot": 253534,
+      "num": 253534,
+      "word": "北京各区蓝天救援队电话汇总",
+      "onboard_time": 1690812036,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1907,6 +1987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216627,
+      "num": 196762,
+      "word": "断眉上海演唱会获批",
+      "onboard_time": 1690809214,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 216315,
       "num": 216315,
       "word": "谁家演唱会还给歌迷过生日呀",
@@ -1921,6 +2009,14 @@
       "onboard_time": 1690799793,
       "rank": 43,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 214275,
+      "num": 196733,
+      "word": "长相思预告",
+      "onboard_time": 1690811496,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 213209,
@@ -2011,20 +2107,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200655,
-      "num": 192691,
-      "word": "断眉上海演唱会获批",
-      "onboard_time": 1690809214,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 199647,
       "num": 199647,
       "word": "王宽小景8集牵手11次",
       "onboard_time": 1690794872,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196794,
+      "num": 196794,
+      "word": "大运会男篮中国不敌中国台北",
+      "onboard_time": 1690812636,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 196630,
@@ -2155,6 +2251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176908,
+      "num": 196729,
+      "word": "门头沟这些地区通讯全部中断",
+      "onboard_time": 1690812099,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173039,
       "num": 236995,
       "word": "北京市防汛办提醒市民远离河道确保安全",
@@ -2193,6 +2297,14 @@
       "onboard_time": 1690730613,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161147,
+      "num": 196709,
+      "word": "汉文帝霸陵殉葬坑发现大熊猫骨骼",
+      "onboard_time": 1690812757,
+      "rank": 48,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 160791,
@@ -2498,6 +2610,9 @@
     },
     {
       "word": "#加强不同文明交流对话#"
+    },
+    {
+      "word": "#中央军委晋升上将军衔仪式在京举行#"
     }
   ]
 }
