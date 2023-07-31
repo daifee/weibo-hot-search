@@ -1,7 +1,15 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690816717944,
+  "endTime": 1690817656036,
   "band_list": [
+    {
+      "raw_hot": 3885449,
+      "num": 3885449,
+      "word": "王楚然方回应",
+      "onboard_time": 1690816715,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3282960,
       "num": 3282960,
@@ -539,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 885846,
+      "num": 885846,
+      "word": "姬发 殷寿",
+      "onboard_time": 1690816298,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 879045,
       "num": 765036,
       "word": "莫斯科",
@@ -835,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 620243,
+      "num": 620243,
+      "word": "妲己封神第二部造型",
+      "onboard_time": 1690816419,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 617629,
       "num": 617629,
       "word": "抢到了",
@@ -1067,20 +1091,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 494589,
+      "num": 599578,
+      "word": "北京8月1日起雨势将减弱",
+      "onboard_time": 1690813779,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490829,
+      "num": 442815,
+      "word": "防风邶是相柳写给小夭的情书",
+      "onboard_time": 1690817138,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 482172,
       "num": 452567,
       "word": "张杰鹿晗黄子韬今日营业照",
       "onboard_time": 1690783113,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 480827,
-      "num": 599578,
-      "word": "北京8月1日起雨势将减弱",
-      "onboard_time": 1690813779,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 478371,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1690728695,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 434263,
+      "num": 281683,
+      "word": "RIIZE",
+      "onboard_time": 1690816715,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 430111,
@@ -1579,14 +1619,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 311041,
-      "num": 257453,
-      "word": "妲己封神第二部造型",
-      "onboard_time": 1690816419,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 309970,
       "num": 309970,
       "word": "亮记生物鉴定",
@@ -1641,6 +1673,14 @@
       "onboard_time": 1690780595,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 302489,
+      "num": 251730,
+      "word": "封神榜",
+      "onboard_time": 1690817378,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 301795,
@@ -1723,14 +1763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280587,
-      "num": 226929,
-      "word": "姬发 殷寿",
-      "onboard_time": 1690816298,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280417,
       "num": 280417,
       "word": "CD26",
@@ -1769,6 +1801,14 @@
       "onboard_time": 1690783354,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270856,
+      "num": 221143,
+      "word": "周迅最稳的语气说最狠的台词",
+      "onboard_time": 1690816360,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 270798,
@@ -1849,14 +1889,6 @@
       "onboard_time": 1690725933,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 261953,
-      "num": 221143,
-      "word": "周迅最稳的语气说最狠的台词",
-      "onboard_time": 1690816360,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 261941,
@@ -2153,6 +2185,14 @@
       "onboard_time": 1690759043,
       "rank": 22,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 207853,
+      "num": 207853,
+      "word": "世界上竟有如此听劝的家长",
+      "onboard_time": 1690816419,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 203821,

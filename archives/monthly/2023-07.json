@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690816717944,
+  "endTime": 1690817656036,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -633,6 +633,14 @@
       "onboard_time": 1690545573,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3885449,
+      "num": 3885449,
+      "word": "王楚然方回应",
+      "onboard_time": 1690816715,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3832696,
@@ -13843,6 +13851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885846,
+      "num": 885846,
+      "word": "姬发 殷寿",
+      "onboard_time": 1690816298,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 885355,
       "num": 885355,
       "word": "TFBOYS十周年不应援了",
@@ -22755,6 +22771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 620243,
+      "num": 620243,
+      "word": "妲己封神第二部造型",
+      "onboard_time": 1690816419,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 620051,
       "num": 325140,
       "word": "和男友吵架后24岁姑娘胸痛了3天",
@@ -29259,6 +29283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 494589,
+      "num": 599578,
+      "word": "北京8月1日起雨势将减弱",
+      "onboard_time": 1690813779,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494586,
       "num": 449756,
       "word": "为什么平板比手机便宜",
@@ -29503,6 +29535,14 @@
       "num": 429558,
       "word": "杨紫把长相思加入代表作",
       "onboard_time": 1689383611,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 490829,
+      "num": 442815,
+      "word": "防风邶是相柳写给小夭的情书",
+      "onboard_time": 1690817138,
       "rank": 17,
       "category": "影视"
     },
@@ -30177,14 +30217,6 @@
       "onboard_time": 1690641216,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 480827,
-      "num": 599578,
-      "word": "北京8月1日起雨势将减弱",
-      "onboard_time": 1690813779,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 480586,
@@ -33609,6 +33641,14 @@
       "onboard_time": 1689823057,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434263,
+      "num": 281683,
+      "word": "RIIZE",
+      "onboard_time": 1690816715,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 434129,
@@ -45011,14 +45051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 311041,
-      "num": 257453,
-      "word": "妲己封神第二部造型",
-      "onboard_time": 1690816419,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 310896,
       "num": 310896,
       "word": "脸谱出来绝了",
@@ -46089,6 +46121,14 @@
       "onboard_time": 1688902892,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 302489,
+      "num": 264562,
+      "word": "封神榜",
+      "onboard_time": 1690298980,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 302478,
@@ -49203,14 +49243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280587,
-      "num": 226929,
-      "word": "姬发 殷寿",
-      "onboard_time": 1690816298,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280556,
       "num": 280556,
       "word": "一句话让外卖小哥愧疚一辈子",
@@ -50563,6 +50595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270856,
+      "num": 221143,
+      "word": "周迅最稳的语气说最狠的台词",
+      "onboard_time": 1690816360,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270826,
       "num": 270826,
       "word": "亚运会门票",
@@ -51387,14 +51427,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 264562,
-      "num": 264562,
-      "word": "封神榜",
-      "onboard_time": 1690298980,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 264546,
       "num": 1968973,
       "word": "熊猫花花带你看四川",
@@ -51713,14 +51745,6 @@
       "onboard_time": 1688311776,
       "rank": 35,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 261953,
-      "num": 221143,
-      "word": "周迅最稳的语气说最狠的台词",
-      "onboard_time": 1690816360,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 261941,
@@ -60185,6 +60209,14 @@
       "onboard_time": 1690759043,
       "rank": 22,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 207853,
+      "num": 207853,
+      "word": "世界上竟有如此听劝的家长",
+      "onboard_time": 1690816419,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 207843,
