@@ -1,0 +1,410 @@
+{
+  "runTime": 1690838102389,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 307436,
+        "num": 307436,
+        "word": "王楚然方回应",
+        "onboard_time": 1690816715,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74385,
+        "num": 74385,
+        "word": "去年砸1600万开影院的男子怎样了",
+        "onboard_time": 1690812998,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13637,
+        "num": 69710,
+        "word": "在成都的外国运动员跳广场舞吃串串香",
+        "onboard_time": 1690810596,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112807,
+        "num": 68629,
+        "word": "李玟二姐哭喊他害死了我妹妹",
+        "onboard_time": 1690812700,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87319,
+        "num": 68022,
+        "word": "北京升级发布洪水红色预警",
+        "onboard_time": 1690780174,
+        "rank": 4,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 65456,
+        "num": 65456,
+        "word": "老干妈表层红油藏有游动微生物吗",
+        "onboard_time": 1690804712,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60199,
+        "num": 60199,
+        "word": "刘同 30岁先找到落脚点",
+        "onboard_time": 1690820309,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69346,
+        "num": 59893,
+        "word": "北京8月1日起雨势将减弱",
+        "onboard_time": 1690813779,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56253,
+        "num": 56253,
+        "word": "防风邶是相柳写给小夭的情书",
+        "onboard_time": 1690817138,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54478,
+        "num": 54478,
+        "word": "SMTOWN新男团公开",
+        "onboard_time": 1690819113,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100818,
+        "num": 54475,
+        "word": "四川一公职人员被曝涉不雅聊天",
+        "onboard_time": 1690813477,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58189,
+        "num": 54082,
+        "word": "故宫辟谣600年不积水",
+        "onboard_time": 1690816057,
+        "rank": 11,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 50920,
+        "num": 50920,
+        "word": "世界上竟有如此听劝的家长",
+        "onboard_time": 1690816419,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 48555,
+        "num": 48555,
+        "word": "妲己封神第二部造型",
+        "onboard_time": 1690816419,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46046,
+        "num": 46046,
+        "word": "汉文帝霸陵殉葬坑发现大熊猫骨骼",
+        "onboard_time": 1690812757,
+        "rank": 14,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 43265,
+        "num": 43265,
+        "word": "8月份十二星座的注意事项",
+        "onboard_time": 1690821386,
+        "rank": 15,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 41660,
+        "num": 41660,
+        "word": "黄子韬说只有鹿晗能让我取消行程",
+        "onboard_time": 1690812516,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40543,
+        "num": 40543,
+        "word": "原作者当编剧的影视剧作品",
+        "onboard_time": 1690831515,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39891,
+        "num": 39891,
+        "word": "卡努",
+        "onboard_time": 1690814198,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36274,
+        "num": 36274,
+        "word": "射手座真的不是冷漠的人",
+        "onboard_time": 1690820729,
+        "rank": 19,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 34067,
+        "num": 34067,
+        "word": "姬发 殷寿",
+        "onboard_time": 1690816298,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32378,
+        "num": 32378,
+        "word": "北京全市河道均在行洪",
+        "onboard_time": 1690798713,
+        "rank": 21,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 32255,
+        "num": 32255,
+        "word": "丁程鑫晒和马嘉祺出游vlog",
+        "onboard_time": 1690809814,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31156,
+        "num": 31156,
+        "word": "年轻人不知道的挑肉秘籍",
+        "onboard_time": 1690818514,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 30877,
+        "num": 30877,
+        "word": "迪丽热巴说身材管理是工作的一部分",
+        "onboard_time": 1690811016,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28457,
+        "num": 28457,
+        "word": "原来这才是真正的海底星空",
+        "onboard_time": 1690808673,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 28246,
+        "num": 28246,
+        "word": "RIIZE",
+        "onboard_time": 1690816715,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27230,
+        "num": 27230,
+        "word": "萧亚轩在李玟追悼会痛哭",
+        "onboard_time": 1690795893,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27144,
+        "num": 27144,
+        "word": "卡努升级为超强台风",
+        "onboard_time": 1690799193,
+        "rank": 28,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 26415,
+        "num": 26415,
+        "word": "内马尔",
+        "onboard_time": 1690830074,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27638,
+        "num": 26353,
+        "word": "门头沟这些地区通讯全部中断",
+        "onboard_time": 1690812099,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25678,
+        "num": 25678,
+        "word": "杨紫代露娃情头",
+        "onboard_time": 1690818214,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24524,
+        "num": 24524,
+        "word": "李玟老公及继女现身追悼会",
+        "onboard_time": 1690796312,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25023,
+        "num": 24513,
+        "word": "杨紫片场吃鞋",
+        "onboard_time": 1690823423,
+        "rank": 33,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 24327,
+        "num": 24327,
+        "word": "K396次列车最新消息",
+        "onboard_time": 1690797214,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23795,
+        "num": 23795,
+        "word": "杨洋白色短裤",
+        "onboard_time": 1690794813,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23677,
+        "num": 23677,
+        "word": "建军节",
+        "onboard_time": 1690819354,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23326,
+        "num": 23326,
+        "word": "墨西哥火烈鸟 盛大优美的生命诗意",
+        "onboard_time": 1690831753,
+        "rank": 37,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 22399,
+        "num": 23270,
+        "word": "你一年去多少次电影院",
+        "onboard_time": 1690818274,
+        "rank": 38,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 23243,
+        "num": 23243,
+        "word": "B站",
+        "onboard_time": 1690794032,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 22993,
+        "num": 22993,
+        "word": "造谣者向郑恺道歉",
+        "onboard_time": 1690808734,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22691,
+        "num": 22691,
+        "word": "悉尼上空现CoCoLee云朵字",
+        "onboard_time": 1690799912,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 22410,
+        "num": 22410,
+        "word": "2位军官晋升上将军衔",
+        "onboard_time": 1690802072,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21002,
+        "num": 21002,
+        "word": "韩女团成员被公司开除",
+        "onboard_time": 1690802371,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20691,
+        "num": 20691,
+        "word": "K396次Z180次列车受阻旅客安全转移",
+        "onboard_time": 1690810720,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20118,
+        "num": 20118,
+        "word": "张小斐说当命运的齿轮开始转动请带上我",
+        "onboard_time": 1690813836,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20090,
+        "num": 20090,
+        "word": "北京各区蓝天救援队电话汇总",
+        "onboard_time": 1690812036,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19860,
+        "num": 19860,
+        "word": "建军节致敬中国军人",
+        "onboard_time": 1690827078,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 18581,
+        "num": 19853,
+        "word": "玱玹打不过防风意映",
+        "onboard_time": 1690810475,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17278,
+        "num": 19851,
+        "word": "马嘉祺发了30多张照片",
+        "onboard_time": 1690805374,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军之路#"
+    }
+  }
+}
