@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690787776737,
+  "endTime": 1690788835733,
   "band_list": [
     {
       "raw_hot": 3282960,
@@ -9,6 +9,14 @@
       "onboard_time": 1690773156,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3157507,
+      "num": 3157507,
+      "word": "女子吐槽某明星耍大牌",
+      "onboard_time": 1690785457,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2810227,
@@ -33,14 +41,6 @@
       "onboard_time": 1690776636,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2606787,
-      "num": 2606787,
-      "word": "女子吐槽某明星耍大牌",
-      "onboard_time": 1690785457,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2291938,
@@ -179,19 +179,19 @@
       "category": "情感,时尚"
     },
     {
+      "raw_hot": 1306650,
+      "num": 1306650,
+      "word": "张晚意陈都灵情头",
+      "onboard_time": 1690784615,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1277140,
       "num": 1277140,
       "word": "原来你好星期六那天魏大勋戴眼镜了",
       "onboard_time": 1690764211,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1271534,
-      "num": 1271534,
-      "word": "张晚意陈都灵情头",
-      "onboard_time": 1690784615,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -451,6 +451,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 646397,
+      "num": 646397,
+      "word": "刘维怼网友",
+      "onboard_time": 1690787733,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 642350,
+      "num": 642350,
+      "word": "TFBOYS三人都在北京了",
+      "onboard_time": 1690786597,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622877,
       "num": 622877,
       "word": "黄子韬去鹿晗演唱会了",
@@ -481,6 +497,14 @@
       "onboard_time": 1690712373,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 609513,
+      "num": 609513,
+      "word": "北京门头沟紧急转移群众5000人左右",
+      "onboard_time": 1690786233,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605968,
@@ -579,12 +603,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 535789,
-      "num": 535789,
-      "word": "北京门头沟紧急转移群众5000人左右",
-      "onboard_time": 1690786233,
+      "raw_hot": 535970,
+      "num": 535970,
+      "word": "六小龄童也去看了热烈",
+      "onboard_time": 1690788157,
       "rank": 13,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 529777,
@@ -689,14 +713,6 @@
       "onboard_time": 1690728695,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 443399,
-      "num": 425523,
-      "word": "TFBOYS三人都在北京了",
-      "onboard_time": 1690786597,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 430111,
@@ -867,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354479,
+      "num": 354479,
+      "word": "张艺兴北京",
+      "onboard_time": 1690787075,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 351991,
       "num": 306586,
       "word": "TFBOYS演唱会强实名见效了",
@@ -915,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320105,
-      "num": 306288,
-      "word": "张艺兴北京",
-      "onboard_time": 1690787075,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 317809,
       "num": 316905,
       "word": "撒贝宁这辈子没这么尴尬过",
@@ -961,6 +977,14 @@
       "onboard_time": 1690733311,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 305487,
+      "num": 385025,
+      "word": "北京永定河水流湍急有简易房屋被冲走",
+      "onboard_time": 1690787014,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304643,
@@ -1091,12 +1115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268241,
+      "num": 242802,
+      "word": "到底是谁逼小夭亲他",
+      "onboard_time": 1690788157,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267704,
       "num": 335243,
       "word": "WBG积分第一晋级夏决",
       "onboard_time": 1690729358,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 264734,
+      "num": 240013,
+      "word": "官方回应网传县委书记自杀身亡",
+      "onboard_time": 1690787612,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264656,
@@ -1235,20 +1275,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234134,
-      "num": 234134,
-      "word": "刘维怼网友",
-      "onboard_time": 1690787733,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232406,
       "num": 232406,
       "word": "一毛钱的小串36年没涨过价",
       "onboard_time": 1690766554,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225941,
+      "num": 225941,
+      "word": "吴彦姝第一次见李现的情形",
+      "onboard_time": 1690787672,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 225146,
@@ -1299,20 +1339,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215564,
+      "num": 235141,
+      "word": "永定河卢沟桥拦河闸将加大泄洪流量",
+      "onboard_time": 1690788093,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213209,
+      "num": 213209,
+      "word": "莲花楼导演好会选角",
+      "onboard_time": 1690788452,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 209835,
+      "num": 209835,
+      "word": "陈都灵挂脖露背裙",
+      "onboard_time": 1690788157,
+      "rank": 45,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 207872,
       "num": 207872,
       "word": "七月最后一天",
       "onboard_time": 1690759043,
       "rank": 22,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 205750,
-      "num": 306032,
-      "word": "北京永定河水流湍急有简易房屋被冲走",
-      "onboard_time": 1690787014,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203821,
@@ -1345,14 +1401,6 @@
       "onboard_time": 1690714953,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200944,
-      "num": 197210,
-      "word": "吴彦姝第一次见李现的情形",
-      "onboard_time": 1690787672,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 196630,
@@ -1587,6 +1635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120219,
+      "num": 226809,
+      "word": "写了三年的婚礼致辞只有一句话",
+      "onboard_time": 1690788452,
+      "rank": 41,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 116771,
       "num": 116771,
       "word": "暑期档男演员哭戏",
@@ -1619,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99467,
+      "num": 1534548,
+      "word": "成都大运会精彩瞬间",
+      "onboard_time": 1690782812,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99424,
       "num": 99424,
       "word": "张艺兴练习室对镜拍",
@@ -1641,14 +1705,6 @@
       "onboard_time": 1690734688,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85804,
-      "num": 1534548,
-      "word": "成都大运会精彩瞬间",
-      "onboard_time": 1690782812,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66997,
