@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690809698814,
+  "endTime": 1690810418618,
   "band_list": [
     {
       "raw_hot": 3282960,
@@ -73,6 +73,14 @@
       "onboard_time": 1690760609,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1925898,
+      "num": 1925898,
+      "word": "老干妈表层红油藏有游动微生物吗",
+      "onboard_time": 1690804712,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1887110,
@@ -195,16 +203,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1508592,
-      "num": 1508592,
-      "word": "老干妈表层红油藏有游动微生物吗",
-      "onboard_time": 1690804712,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 1528355,
+      "num": 1528355,
+      "word": "造谣者向郑恺道歉",
+      "onboard_time": 1690808734,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1488650,
-      "num": 696210,
+      "num": 730880,
       "word": "马嘉祺发了30多张照片",
       "onboard_time": 1690805374,
       "rank": 10,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 1354112,
-      "num": 689388,
+      "num": 729287,
       "word": "悉尼上空现CoCoLee云朵字",
       "onboard_time": 1690799912,
       "rank": 13,
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1073944,
+      "num": 1073944,
+      "word": "故宫",
+      "onboard_time": 1690807594,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1073158,
       "num": 1073158,
       "word": "K396次列车最新消息",
@@ -451,28 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 929187,
-      "num": 929187,
-      "word": "造谣者向郑恺道歉",
-      "onboard_time": 1690808734,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 920450,
       "num": 920450,
       "word": "一位66岁绿化工人在暴雨中离世",
       "onboard_time": 1690762650,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 910247,
-      "num": 910247,
-      "word": "故宫",
-      "onboard_time": 1690807594,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 897590,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 776000,
+      "num": 712183,
+      "word": "丁程鑫晒和马嘉祺出游vlog",
+      "onboard_time": 1690809814,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770492,
       "num": 770492,
       "word": "卡努路径调整",
@@ -608,6 +616,14 @@
       "word": "女子抽中10克金条因错过叫号被取消",
       "onboard_time": 1690764693,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741852,
+      "num": 741852,
+      "word": "是谁坐高铁还要看导航",
+      "onboard_time": 1690805073,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -657,6 +673,14 @@
       "onboard_time": 1690804832,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 686870,
+      "num": 686870,
+      "word": "相柳说涂山家的狐狸真没用",
+      "onboard_time": 1690808073,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 676411,
@@ -803,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 585171,
-      "num": 585171,
-      "word": "是谁坐高铁还要看导航",
-      "onboard_time": 1690805073,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 579030,
       "num": 579030,
       "word": "卡努升级为超强台风",
@@ -923,14 +939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 534239,
-      "num": 426834,
-      "word": "相柳说涂山家的狐狸真没用",
-      "onboard_time": 1690808073,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 529777,
       "num": 529777,
       "word": "TFBOYS演唱会600万人想看了",
@@ -1035,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460988,
+      "num": 253069,
+      "word": "关晓彤高开叉红裙",
+      "onboard_time": 1690808432,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 460942,
       "num": 431307,
       "word": "妈妈来一趟英国被当成乞丐",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1690734210,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430073,
+      "num": 274081,
+      "word": "夭柳变夭邶",
+      "onboard_time": 1690807353,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 424552,
@@ -1115,14 +1139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 403549,
-      "num": 274081,
-      "word": "夭柳变夭邶",
-      "onboard_time": 1690807353,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 401926,
       "num": 392278,
       "word": "杨紫情绪爆发戏演到虚脱",
@@ -1137,14 +1153,6 @@
       "onboard_time": 1690762714,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 396712,
-      "num": 249610,
-      "word": "关晓彤高开叉红裙",
-      "onboard_time": 1690808432,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 396456,
@@ -1211,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 377018,
+      "num": 377018,
+      "word": "原来这才是真正的海底星空",
+      "onboard_time": 1690808673,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 376977,
       "num": 329669,
       "word": "白敬亭魏大勋刘昊然穿西装跳舞",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1690783894,
       "rank": 27,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 369274,
+      "num": 251705,
+      "word": "周冬雨眼妆",
+      "onboard_time": 1690809633,
+      "rank": 44,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 368252,
@@ -1427,6 +1451,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 309868,
+      "num": 251028,
+      "word": "甄妮说下辈子跟李玟再做好知己",
+      "onboard_time": 1690809814,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308895,
       "num": 308895,
       "word": "长相思才是我想看的女主视角剧",
@@ -1611,14 +1643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 267633,
-      "num": 267633,
-      "word": "原来这才是真正的海底星空",
-      "onboard_time": 1690808673,
-      "rank": 29,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 267101,
       "num": 267101,
       "word": "Cake 拼接风",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1690764394,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 251004,
+      "num": 251004,
+      "word": "毕业生因一张海报成功入职",
+      "onboard_time": 1690809214,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247833,
@@ -1979,6 +2011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200655,
+      "num": 192691,
+      "word": "断眉上海演唱会获批",
+      "onboard_time": 1690809214,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199647,
       "num": 199647,
       "word": "王宽小景8集牵手11次",
@@ -2049,14 +2089,6 @@
       "onboard_time": 1690801772,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188002,
-      "num": 188002,
-      "word": "断眉上海演唱会获批",
-      "onboard_time": 1690809214,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 186921,
@@ -2171,14 +2203,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 160035,
-      "num": 185856,
-      "word": "周冬雨眼妆",
-      "onboard_time": 1690809633,
-      "rank": 44,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 159903,
       "num": 159903,
       "word": "鹿晗转圈和粉丝拜拜",
@@ -2217,14 +2241,6 @@
       "onboard_time": 1690755797,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 148399,
-      "num": 185849,
-      "word": "毕业生因一张海报成功入职",
-      "onboard_time": 1690809214,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147846,
@@ -2323,7 +2339,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115421,
+      "raw_hot": 116739,
       "num": 1453781,
       "word": "这批新规8月施行",
       "onboard_time": 1690791214,
