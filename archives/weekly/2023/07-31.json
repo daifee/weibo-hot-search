@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690820553065,
+  "endTime": 1690821465629,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -603,8 +603,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 802113,
-      "num": 802113,
+      "raw_hot": 802269,
+      "num": 802269,
       "word": "SMTOWN新男团公开",
       "onboard_time": 1690819113,
       "rank": 5,
@@ -1011,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555796,
+      "num": 555796,
+      "word": "世界上竟有如此听劝的家长",
+      "onboard_time": 1690816419,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 555772,
       "num": 555772,
       "word": "洪水过后女子家中密密麻麻全是鱼",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1690805433,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 532602,
-      "num": 532602,
-      "word": "世界上竟有如此听劝的家长",
-      "onboard_time": 1690816419,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 529777,
@@ -1201,6 +1201,14 @@
       "onboard_time": 1690808432,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 461004,
+      "num": 233087,
+      "word": "刘同 30岁先找到落脚点",
+      "onboard_time": 1690820309,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 460942,
@@ -1387,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383650,
+      "num": 383650,
+      "word": "四川一公职人员被曝涉不雅聊天",
+      "onboard_time": 1690813477,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381086,
       "num": 381086,
       "word": "徐志胜杀我别用亲情刀",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1690732411,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376553,
+      "num": 236502,
+      "word": "你一年去多少次电影院",
+      "onboard_time": 1690818274,
+      "rank": 21,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 375675,
@@ -1457,14 +1481,6 @@
       "onboard_time": 1690729297,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366136,
-      "num": 236502,
-      "word": "你一年去多少次电影院",
-      "onboard_time": 1690818274,
-      "rank": 21,
-      "category": "影视,情感"
     },
     {
       "raw_hot": 360643,
@@ -2051,14 +2067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236173,
-      "num": 233087,
-      "word": "刘同 30岁先找到落脚点",
-      "onboard_time": 1690820309,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 234927,
       "num": 234927,
       "word": "旺仔和旺旺是两个人",
@@ -2427,6 +2435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176018,
+      "num": 228850,
+      "word": "年轻人不知道的挑肉秘籍",
+      "onboard_time": 1690818514,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 173039,
       "num": 236995,
       "word": "北京市防汛办提醒市民远离河道确保安全",
@@ -2531,14 +2547,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 148314,
-      "num": 228850,
-      "word": "年轻人不知道的挑肉秘籍",
-      "onboard_time": 1690818514,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 147846,
       "num": 172930,
       "word": "保定暴雨",
@@ -2577,14 +2585,6 @@
       "onboard_time": 1690768050,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140612,
-      "num": 216005,
-      "word": "四川一公职人员被曝涉不雅聊天",
-      "onboard_time": 1690813477,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139911,
@@ -2633,6 +2633,14 @@
       "onboard_time": 1690788452,
       "rank": 41,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 117163,
+      "num": 123492,
+      "word": "大概是见过最花哨的应援",
+      "onboard_time": 1690818334,
+      "rank": 39,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 116771,
@@ -2705,6 +2713,14 @@
       "onboard_time": 1690734688,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90846,
+      "num": 121591,
+      "word": "8月份十二星座的注意事项",
+      "onboard_time": 1690821386,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 66997,
