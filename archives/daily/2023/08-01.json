@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690858042238,
+  "endTime": 1690859888387,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -9,6 +9,14 @@
       "onboard_time": 1690816715,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2752541,
+      "num": 1322213,
+      "word": "北京顶奢酒店被暴雨冲走了",
+      "onboard_time": 1690857696,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2582959,
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1185381,
+      "num": 981820,
+      "word": "北京首次动用1998年建成的滞洪水库蓄洪",
+      "onboard_time": 1690855955,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1068554,
       "num": 1068554,
       "word": "杨立新杨玏封神真父子",
@@ -80,14 +96,6 @@
       "word": "台风卡努或将转向",
       "onboard_time": 1690842137,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 983037,
-      "num": 421785,
-      "word": "北京首次动用1998年建成的滞洪水库蓄洪",
-      "onboard_time": 1690855955,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -113,6 +121,14 @@
       "onboard_time": 1690849237,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 829784,
+      "num": 829784,
+      "word": "当狐狸得知小六是王姬时的反应",
+      "onboard_time": 1690857219,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 814224,
@@ -179,8 +195,24 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 645306,
+      "num": 645306,
+      "word": "于适 天选姬发",
+      "onboard_time": 1690858538,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 642427,
+      "num": 642427,
+      "word": "颖儿拍20天戏写20天日记",
+      "onboard_time": 1690857878,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 631677,
-      "num": 281932,
+      "num": 455365,
       "word": "为什么酒店都是12点前退房",
       "onboard_time": 1690855592,
       "rank": 20,
@@ -323,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 456325,
+      "num": 456325,
+      "word": "四大浓颜系男星",
+      "onboard_time": 1690857696,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446768,
       "num": 446768,
       "word": "8月份十二星座的注意事项",
@@ -347,6 +387,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 428699,
+      "num": 428699,
+      "word": "涿州暴雨",
+      "onboard_time": 1690856075,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427877,
       "num": 357704,
       "word": "李现说感谢父母穷养",
@@ -355,16 +403,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 424690,
-      "num": 424690,
-      "word": "当狐狸得知小六是王姬时的反应",
-      "onboard_time": 1690857219,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 423234,
+      "num": 423234,
+      "word": "发现离职时都会穿的很漂亮",
+      "onboard_time": 1690856854,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 419957,
-      "num": 281081,
+      "num": 318404,
       "word": "女子称回家发现陌生男在里面住了几天",
       "onboard_time": 1690855834,
       "rank": 21,
@@ -377,14 +425,6 @@
       "onboard_time": 1690844723,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 415349,
-      "num": 279636,
-      "word": "涿州暴雨",
-      "onboard_time": 1690856075,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 408750,
@@ -403,8 +443,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391085,
+      "num": 462179,
+      "word": "张晚意檀健次名字的由来",
+      "onboard_time": 1690858296,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388369,
-      "num": 276675,
+      "num": 353403,
       "word": "不用精修的明星",
       "onboard_time": 1690856558,
       "rank": 25,
@@ -435,6 +483,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 371315,
+      "num": 371315,
+      "word": "独家童话",
+      "onboard_time": 1690857996,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361492,
       "num": 361492,
       "word": "Angelababy教贝克汉姆说中文",
@@ -449,22 +505,6 @@
       "onboard_time": 1690808073,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 349746,
-      "num": 257101,
-      "word": "北京顶奢酒店被暴雨冲走了",
-      "onboard_time": 1690857696,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348523,
-      "num": 257340,
-      "word": "发现离职时都会穿的很漂亮",
-      "onboard_time": 1690856854,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 344465,
@@ -499,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 332483,
+      "num": 332483,
+      "word": "老公执意要在门上面做柜子",
+      "onboard_time": 1690857520,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324935,
       "num": 318541,
       "word": "夭璟名场面来了",
@@ -515,6 +563,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320922,
+      "num": 320922,
+      "word": "工作人员称涿州救援难度大",
+      "onboard_time": 1690858177,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317705,
+      "num": 317705,
+      "word": "文俊辉和成员们一起看独家童话的反应",
+      "onboard_time": 1690858118,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317666,
       "num": 423913,
       "word": "北京8月1日起雨势将减弱",
@@ -529,6 +593,14 @@
       "onboard_time": 1690797214,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295901,
+      "num": 295901,
+      "word": "王鹤棣出发西安录综艺",
+      "onboard_time": 1690858716,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 295167,
@@ -577,14 +649,6 @@
       "onboard_time": 1690812636,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256994,
-      "num": 256994,
-      "word": "四大浓颜系男星",
-      "onboard_time": 1690857696,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 255155,
@@ -699,20 +763,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211350,
-      "num": 211350,
-      "word": "颖儿拍20天戏写20天日记",
-      "onboard_time": 1690857878,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200876,
       "num": 200876,
       "word": "射手座真的不是冷漠的人",
       "onboard_time": 1690820729,
       "rank": 15,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 200568,
+      "num": 200568,
+      "word": "小哥洪水中开铲车救援三人",
+      "onboard_time": 1690858897,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198183,
@@ -811,20 +875,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 163691,
+      "num": 163691,
+      "word": "爸爸当家直播",
+      "onboard_time": 1690858296,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161091,
       "num": 161091,
       "word": "女足",
       "onboard_time": 1690855054,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160464,
-      "num": 160464,
-      "word": "独家童话",
-      "onboard_time": 1690857996,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 153071,
@@ -857,6 +921,14 @@
       "onboard_time": 1690805073,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135124,
+      "num": 135124,
+      "word": "明日方舟",
+      "onboard_time": 1690859319,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 134527,
