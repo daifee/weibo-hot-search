@@ -1,0 +1,410 @@
+{
+  "runTime": 1690875232783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1617994,
+        "num": 1617994,
+        "word": "工作人员称涿州救援难度大",
+        "onboard_time": 1690858177,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1438562,
+        "num": 1438562,
+        "word": "杨幂喊迪丽热巴巴",
+        "onboard_time": 1690872932,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33832,
+        "num": 1204944,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1690865919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144678,
+        "num": 1144678,
+        "word": "被CardiB扔话筒当事人已报案",
+        "onboard_time": 1690870232,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 953919,
+        "num": 953919,
+        "word": "北京强降雨14名失联人员确认安全",
+        "onboard_time": 1690873833,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1235877,
+        "num": 927052,
+        "word": "王楚然方发动图证明没P图",
+        "onboard_time": 1690860035,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 812499,
+        "num": 812499,
+        "word": "黄晓明每天都收到303的视频",
+        "onboard_time": 1690864902,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737146,
+        "num": 737146,
+        "word": "北京首次动用1998年建成的滞洪水库蓄洪",
+        "onboard_time": 1690855955,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711648,
+        "num": 711648,
+        "word": "小猫咪35岁了可太值得炫耀了吧",
+        "onboard_time": 1690852955,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 683604,
+        "num": 683604,
+        "word": "全力搜救失联被困人员",
+        "onboard_time": 1690867116,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 627734,
+        "num": 627734,
+        "word": "李玟大殓出殡",
+        "onboard_time": 1690853557,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522548,
+        "num": 522548,
+        "word": "乌尔善严选",
+        "onboard_time": 1690871854,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460775,
+        "num": 460775,
+        "word": "四川内江地震",
+        "onboard_time": 1690869157,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477188,
+        "num": 457858,
+        "word": "李玟老公及继女未参加出殡仪式",
+        "onboard_time": 1690863341,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112292,
+        "num": 438546,
+        "word": "暴雨来临书记劝说居民搬离危险区",
+        "onboard_time": 1690873232,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429481,
+        "num": 429481,
+        "word": "超导",
+        "onboard_time": 1690868315,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 396590,
+        "num": 396590,
+        "word": "TF四代 北京",
+        "onboard_time": 1690869396,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392631,
+        "num": 392631,
+        "word": "法国网红爬中国香港68楼天台后坠亡",
+        "onboard_time": 1690853794,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 386543,
+        "num": 386543,
+        "word": "当狐狸得知小六是王姬时的反应",
+        "onboard_time": 1690857219,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385471,
+        "num": 385471,
+        "word": "iPhone ePhone",
+        "onboard_time": 1690852596,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 890971,
+        "num": 384937,
+        "word": "哥哥1万元偷卖妹妹房子给女儿",
+        "onboard_time": 1690869515,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573341,
+        "num": 379995,
+        "word": "北京此轮强降雨已致11人遇难",
+        "onboard_time": 1690861719,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411597,
+        "num": 377157,
+        "word": "小夭角色号改名字",
+        "onboard_time": 1690873594,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388763,
+        "num": 370951,
+        "word": "封神第一部票房破12亿",
+        "onboard_time": 1690870653,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370669,
+        "num": 370669,
+        "word": "张晚意好实诚",
+        "onboard_time": 1690872693,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369012,
+        "num": 369012,
+        "word": "参加女儿毕业典礼的韩商言孟宴臣",
+        "onboard_time": 1690871732,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359755,
+        "num": 359755,
+        "word": "文韬我心态炸了",
+        "onboard_time": 1690873051,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330722,
+        "num": 330722,
+        "word": "路温吐槽孟宴臣",
+        "onboard_time": 1690855416,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289404,
+        "num": 289404,
+        "word": "北京2人在抢险救灾中因公殉职",
+        "onboard_time": 1690862380,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278191,
+        "num": 278191,
+        "word": "当我让我妹给我蒸个馒头",
+        "onboard_time": 1690867535,
+        "rank": 29,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 276125,
+        "num": 276125,
+        "word": "涿州暴雨",
+        "onboard_time": 1690856075,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308264,
+        "num": 274425,
+        "word": "北京悉昙酒店回应被暴雨冲走",
+        "onboard_time": 1690874252,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271852,
+        "num": 271852,
+        "word": "李玟老公回应记者提问",
+        "onboard_time": 1690868433,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262474,
+        "num": 262474,
+        "word": "涿州被洪水围困小区居民发声",
+        "onboard_time": 1690872993,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250422,
+        "num": 250422,
+        "word": "邓为跳过芭蕾舞",
+        "onboard_time": 1690874192,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254689,
+        "num": 250246,
+        "word": "李玟老公现身火葬场遭围堵",
+        "onboard_time": 1690868554,
+        "rank": 35,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 247338,
+        "num": 247338,
+        "word": "王楚然方回应",
+        "onboard_time": 1690816715,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237175,
+        "num": 237175,
+        "word": "应急局回应涿州一地库塌陷洪水涌入",
+        "onboard_time": 1690872812,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216274,
+        "num": 216274,
+        "word": "小夭的三个男人乐子真多",
+        "onboard_time": 1690870354,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210811,
+        "num": 210811,
+        "word": "比大人还冷静周到的女宝宝",
+        "onboard_time": 1690874072,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 204258,
+        "num": 204258,
+        "word": "林墨以为的杨迪vs真实的杨迪",
+        "onboard_time": 1690872932,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83142,
+        "num": 197368,
+        "word": "比亚迪在日本半年开八家店",
+        "onboard_time": 1690872394,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194747,
+        "num": 194747,
+        "word": "恭迎大王姬回归",
+        "onboard_time": 1690874734,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183903,
+        "num": 183903,
+        "word": "道士们品评封神",
+        "onboard_time": 1690870053,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179515,
+        "num": 179515,
+        "word": "为什么酒店都是12点前退房",
+        "onboard_time": 1690855592,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178681,
+        "num": 178681,
+        "word": "魏大勋巴黎欧莱雅",
+        "onboard_time": 1690863462,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 173656,
+        "num": 173656,
+        "word": "颖儿拍20天戏写20天日记",
+        "onboard_time": 1690857878,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170740,
+        "num": 170740,
+        "word": "长相思弹幕互动量破亿",
+        "onboard_time": 1690866097,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164380,
+        "num": 164380,
+        "word": "老公执意要在门上面做柜子",
+        "onboard_time": 1690857520,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163240,
+        "num": 163240,
+        "word": "涿州",
+        "onboard_time": 1690850557,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军之路#"
+    }
+  }
+}
