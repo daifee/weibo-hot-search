@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690864434450,
+  "endTime": 1690866968292,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2856479,
+      "num": 2856479,
+      "word": "王楚然方发动图证明没P图",
+      "onboard_time": 1690860035,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2752541,
       "num": 1322213,
       "word": "北京顶奢酒店被暴雨冲走了",
@@ -33,14 +41,6 @@
       "onboard_time": 1690852596,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2124588,
-      "num": 2124588,
-      "word": "王楚然方发动图证明没P图",
-      "onboard_time": 1690860035,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 2096540,
@@ -83,6 +83,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1381929,
+      "num": 1381929,
+      "word": "北京首次动用1998年建成的滞洪水库蓄洪",
+      "onboard_time": 1690855955,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1277709,
       "num": 1277709,
       "word": "长相思群演的工资",
@@ -99,11 +107,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1204775,
-      "num": 1204775,
-      "word": "北京首次动用1998年建成的滞洪水库蓄洪",
-      "onboard_time": 1690855955,
-      "rank": 12,
+      "raw_hot": 1096196,
+      "num": 858242,
+      "word": "李玟老公及继女未参加出殡仪式",
+      "onboard_time": 1690863341,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1070293,
+      "num": 1070293,
+      "word": "工作人员称涿州救援难度大",
+      "onboard_time": 1690858177,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -139,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 904007,
-      "num": 904007,
-      "word": "工作人员称涿州救援难度大",
-      "onboard_time": 1690858177,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 912263,
+      "num": 912263,
+      "word": "黄晓明每天都收到303的视频",
+      "onboard_time": 1690864902,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 892685,
@@ -153,6 +169,14 @@
       "onboard_time": 1690849237,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881761,
+      "num": 881761,
+      "word": "吴京烤串一看就没少练",
+      "onboard_time": 1690863341,
+      "rank": 42,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 863419,
@@ -187,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 771961,
-      "num": 745305,
-      "word": "李玟老公及继女未参加出殡仪式",
-      "onboard_time": 1690863341,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 758880,
       "num": 758880,
       "word": "张柏芝真的可以越素越美",
@@ -209,6 +225,14 @@
       "onboard_time": 1690817138,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 709190,
+      "num": 709190,
+      "word": "涿州泄洪",
+      "onboard_time": 1690863401,
+      "rank": 40,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 690156,
@@ -241,6 +265,14 @@
       "onboard_time": 1690804712,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655894,
+      "num": 450231,
+      "word": "魏大勋巴黎欧莱雅",
+      "onboard_time": 1690863462,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 645658,
@@ -315,20 +347,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 574573,
+      "num": 574573,
+      "word": "张晚意谈与杨紫合作",
+      "onboard_time": 1690863582,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571857,
       "num": 559907,
       "word": "中彩票哪有不疯的",
       "onboard_time": 1690849717,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 570410,
-      "num": 450231,
-      "word": "魏大勋巴黎欧莱雅",
-      "onboard_time": 1690863462,
-      "rank": 37,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 556427,
@@ -395,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 503470,
+      "num": 405876,
+      "word": "西安将迎最火爆的一周",
+      "onboard_time": 1690865142,
+      "rank": 21,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 500208,
       "num": 366904,
       "word": "姑娘想抄底买下二手房结果一年亏百万",
@@ -427,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477050,
+      "num": 396848,
+      "word": "芭比杜华",
+      "onboard_time": 1690863940,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 465974,
       "num": 673993,
       "word": "庆祝解放军建军96周年",
@@ -456,14 +504,6 @@
       "word": "长相思第二季还能爆吗",
       "onboard_time": 1690848274,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 451042,
-      "num": 451042,
-      "word": "张晚意谈与杨紫合作",
-      "onboard_time": 1690863582,
-      "rank": 46,
       "category": "影视"
     },
     {
@@ -515,14 +555,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 408895,
-      "num": 398946,
-      "word": "吴京烤串一看就没少练",
-      "onboard_time": 1690863341,
-      "rank": 42,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 408750,
       "num": 408750,
       "word": "迪丽热巴说身材管理是工作的一部分",
@@ -545,6 +577,14 @@
       "onboard_time": 1690856558,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387171,
+      "num": 387171,
+      "word": "泄洪",
+      "onboard_time": 1690864363,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385780,
@@ -579,14 +619,6 @@
       "category": "影视,情感"
     },
     {
-      "raw_hot": 371331,
-      "num": 371331,
-      "word": "涿州泄洪",
-      "onboard_time": 1690863401,
-      "rank": 40,
-      "category": "社会新闻,自然"
-    },
-    {
       "raw_hot": 371315,
       "num": 371315,
       "word": "独家童话",
@@ -609,6 +641,14 @@
       "onboard_time": 1690808073,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345765,
+      "num": 345765,
+      "word": "ePhone已被注册商标",
+      "onboard_time": 1690860996,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 344465,
@@ -683,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316395,
-      "num": 316395,
-      "word": "芭比杜华",
-      "onboard_time": 1690863940,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 311745,
+      "num": 311745,
+      "word": "李玟灵堂成紫色花海",
+      "onboard_time": 1690865259,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 301701,
@@ -747,12 +787,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274643,
-      "num": 274643,
-      "word": "ePhone已被注册商标",
-      "onboard_time": 1690860996,
-      "rank": 48,
-      "category": "科技"
+      "raw_hot": 286167,
+      "num": 286167,
+      "word": "网友称涿州一小区地库塌方",
+      "onboard_time": 1690863764,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277833,
+      "num": 277833,
+      "word": "封神",
+      "onboard_time": 1690866577,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 272121,
@@ -761,14 +809,6 @@
       "onboard_time": 1690812636,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265762,
-      "num": 265762,
-      "word": "网友称涿州一小区地库塌方",
-      "onboard_time": 1690863764,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255155,
@@ -801,6 +841,14 @@
       "onboard_time": 1690830074,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245340,
+      "num": 245340,
+      "word": "长相思弹幕互动量破亿",
+      "onboard_time": 1690866097,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 236578,
@@ -907,20 +955,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194777,
+      "num": 278028,
+      "word": "致敬人民子弟兵",
+      "onboard_time": 1690865919,
+      "rank": 39,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 189946,
       "num": 189946,
       "word": "李雪琴吻戏大型围观现场",
       "onboard_time": 1690804832,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188185,
-      "num": 188185,
-      "word": "泄洪",
-      "onboard_time": 1690864363,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187053,
@@ -932,7 +980,7 @@
     },
     {
       "raw_hot": 183590,
-      "num": 183590,
+      "num": 205543,
       "word": "百香果话梅冰粉",
       "onboard_time": 1690861358,
       "rank": 49,
