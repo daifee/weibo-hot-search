@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690896840621,
+  "endTime": 1690899345511,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -571,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1272511,
+      "num": 1272511,
+      "word": "小夭吻得好主动",
+      "onboard_time": 1690894899,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1270945,
       "num": 1270945,
       "word": "六小龄童也去看了热烈",
@@ -587,19 +595,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1262447,
+      "num": 1262447,
+      "word": "河北涿州急需大量船只转移群众",
+      "onboard_time": 1690887754,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1254690,
       "num": 1254690,
       "word": "张一山说杨紫从小就很漂亮",
       "onboard_time": 1690781133,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1243449,
-      "num": 1243449,
-      "word": "小夭吻得好主动",
-      "onboard_time": 1690894899,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -611,20 +619,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1197771,
-      "num": 1197771,
-      "word": "河北涿州急需大量船只转移群众",
-      "onboard_time": 1690887754,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1188353,
       "num": 917195,
       "word": "北京门头沟暴雨大量汽车被冲走",
       "onboard_time": 1690779875,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1151097,
+      "num": 1151097,
+      "word": "王霜 我们不是特别好的榜样",
+      "onboard_time": 1690897535,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1135281,
@@ -761,6 +769,22 @@
       "onboard_time": 1690842137,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1023556,
+      "num": 710565,
+      "word": "奥利开通微博",
+      "onboard_time": 1690897956,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1019315,
+      "num": 1019315,
+      "word": "长相思刚喜欢上的男人变成了我姐",
+      "onboard_time": 1690895857,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 1009872,
@@ -924,7 +948,7 @@
     },
     {
       "raw_hot": 881438,
-      "num": 456231,
+      "num": 462936,
       "word": "失业三天被妈妈说了三次",
       "onboard_time": 1690893216,
       "rank": 30,
@@ -993,6 +1017,14 @@
       "onboard_time": 1690794391,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 849450,
+      "num": 849450,
+      "word": "10岁女童来京探亲被水冲走",
+      "onboard_time": 1690896338,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 838285,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1690798713,
       "rank": 49,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 759519,
+      "num": 759519,
+      "word": "阿念 玟小六",
+      "onboard_time": 1690897655,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 759359,
@@ -1267,6 +1307,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701354,
+      "num": 473960,
+      "word": "魏大勋高中同学的留言",
+      "onboard_time": 1690897898,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 698204,
+      "num": 698204,
+      "word": "常温超导",
+      "onboard_time": 1690898139,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 692397,
       "num": 692397,
       "word": "李雪琴吻戏大型围观现场",
@@ -1281,6 +1337,14 @@
       "onboard_time": 1690816419,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 678903,
+      "num": 678903,
+      "word": "感谢老天送我一个情绪稳定的女儿",
+      "onboard_time": 1690895317,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 676411,
@@ -1475,20 +1539,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 614729,
-      "num": 614729,
-      "word": "长相思刚喜欢上的男人变成了我姐",
-      "onboard_time": 1690895857,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 614564,
       "num": 614564,
       "word": "洪水中飘来一个大冰箱市民自取清空",
       "onboard_time": 1690769728,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614149,
+      "num": 614149,
+      "word": "ON泪洒赛场",
+      "onboard_time": 1690896160,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 613358,
@@ -1907,6 +1971,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 496243,
+      "num": 496243,
+      "word": "EDG冒泡赛打谁",
+      "onboard_time": 1690896816,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 494589,
       "num": 599578,
       "word": "北京8月1日起雨势将减弱",
@@ -1929,6 +2001,14 @@
       "onboard_time": 1690882532,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 488559,
+      "num": 461715,
+      "word": "前几天才知道楼下那只橘猫死了",
+      "onboard_time": 1690895137,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 482172,
@@ -2097,14 +2177,6 @@
       "onboard_time": 1690876172,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 449770,
-      "num": 330074,
-      "word": "前几天才知道楼下那只橘猫死了",
-      "onboard_time": 1690895137,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 449342,
@@ -2291,14 +2363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404319,
-      "num": 404319,
-      "word": "ON泪洒赛场",
-      "onboard_time": 1690896160,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 402931,
       "num": 402931,
       "word": "建军节",
@@ -2433,14 +2497,6 @@
       "onboard_time": 1690858118,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 382517,
-      "num": 288962,
-      "word": "感谢老天送我一个情绪稳定的女儿",
-      "onboard_time": 1690895317,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 381086,
@@ -2779,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330558,
+      "num": 330558,
+      "word": "何超莲说偶像剧都不敢这么拍",
+      "onboard_time": 1690898737,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330330,
       "num": 282988,
       "word": "王一博热烈家庭烟火气",
@@ -2919,6 +2983,14 @@
       "num": 256953,
       "word": "林允发藏头词告别赵寻",
       "onboard_time": 1690816057,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 305043,
+      "num": 305043,
+      "word": "涂山璟说抱歉实在没忍住",
+      "onboard_time": 1690898977,
       "rank": 32,
       "category": "影视"
     },
@@ -3107,6 +3179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287679,
+      "num": 287679,
+      "word": "Elk 卖票小子",
+      "onboard_time": 1690897358,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286167,
       "num": 286167,
       "word": "网友称涿州一小区地库塌方",
@@ -3121,6 +3201,14 @@
       "onboard_time": 1690883734,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280742,
+      "num": 280742,
+      "word": "志愿军伙房门口的对联笑哭了",
+      "onboard_time": 1690898916,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280417,
@@ -3176,6 +3264,14 @@
       "word": "纣王 PUA高手",
       "onboard_time": 1690766970,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 274310,
+      "num": 274310,
+      "word": "姬发做质子的八年伯邑考在干什么",
+      "onboard_time": 1690892856,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -3259,14 +3355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 266922,
-      "num": 266922,
-      "word": "姬发做质子的八年伯邑考在干什么",
-      "onboard_time": 1690892856,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 265984,
       "num": 221361,
       "word": "太阳暖人 月光爱人",
@@ -3337,14 +3425,6 @@
       "onboard_time": 1690772310,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261872,
-      "num": 261872,
-      "word": "10岁女童来京探亲被水冲走",
-      "onboard_time": 1690896338,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261849,
@@ -3643,6 +3723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230519,
+      "num": 230519,
+      "word": "BLG拒绝八擒",
+      "onboard_time": 1690896518,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229380,
       "num": 229380,
       "word": "果然猛男得配芭比粉",
@@ -3723,14 +3811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219952,
-      "num": 219952,
-      "word": "BLG拒绝八擒",
-      "onboard_time": 1690896518,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 218004,
       "num": 218004,
       "word": "台风卡努",
@@ -3796,7 +3876,7 @@
     },
     {
       "raw_hot": 210816,
-      "num": 289047,
+      "num": 323765,
       "word": "山西蓝天救援队解救涿州被困群众",
       "onboard_time": 1690892432,
       "rank": 43,
@@ -3825,6 +3905,14 @@
       "onboard_time": 1690800934,
       "rank": 44,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 208297,
+      "num": 208297,
+      "word": "DRG锁定第三轮S组",
+      "onboard_time": 1690898258,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 208174,
@@ -3953,6 +4041,14 @@
       "onboard_time": 1690794872,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197224,
+      "num": 197224,
+      "word": "夏之Scout",
+      "onboard_time": 1690899098,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 196630,
@@ -4195,14 +4291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 168403,
-      "num": 168403,
-      "word": "EDG冒泡赛打谁",
-      "onboard_time": 1690896816,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 167033,
       "num": 174588,
       "word": "男子肠道密密麻麻长满200多个息肉",
@@ -4280,6 +4368,14 @@
       "word": "河北易县一村500多人被洪水围困",
       "onboard_time": 1690814020,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157858,
+      "num": 1594262,
+      "word": "致敬那些暴雨中的逆行者",
+      "onboard_time": 1690895434,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -4409,14 +4505,6 @@
       "onboard_time": 1690868075,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124306,
-      "num": 1594262,
-      "word": "致敬那些暴雨中的逆行者",
-      "onboard_time": 1690895434,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122963,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1690899345511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1971968,
+        "num": 1971968,
+        "word": "中国女足1比6英格兰女足",
+        "onboard_time": 1690895497,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1272511,
+        "num": 1272511,
+        "word": "小夭吻得好主动",
+        "onboard_time": 1690894899,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157858,
+        "num": 1266297,
+        "word": "致敬那些暴雨中的逆行者",
+        "onboard_time": 1690895434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262447,
+        "num": 1262447,
+        "word": "河北涿州急需大量船只转移群众",
+        "onboard_time": 1690887754,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1151097,
+        "num": 1151097,
+        "word": "王霜 我们不是特别好的榜样",
+        "onboard_time": 1690897535,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1019315,
+        "num": 1019315,
+        "word": "长相思刚喜欢上的男人变成了我姐",
+        "onboard_time": 1690895857,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1009086,
+        "num": 1009086,
+        "word": "刘畊宏给看完封神的老婆发的照片",
+        "onboard_time": 1690894114,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 849450,
+        "num": 849450,
+        "word": "10岁女童来京探亲被水冲走",
+        "onboard_time": 1690896338,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759519,
+        "num": 759519,
+        "word": "阿念 玟小六",
+        "onboard_time": 1690897655,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 731173,
+        "num": 731173,
+        "word": "超级月亮",
+        "onboard_time": 1690892314,
+        "rank": 9,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 1929190,
+        "num": 721827,
+        "word": "女婴心脏扎进一根4厘米绣花针",
+        "onboard_time": 1690890871,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023556,
+        "num": 710565,
+        "word": "奥利开通微博",
+        "onboard_time": 1690897956,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 872096,
+        "num": 705789,
+        "word": "向佐郭碧婷带娃逛迪士尼",
+        "onboard_time": 1690895618,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698204,
+        "num": 698204,
+        "word": "常温超导",
+        "onboard_time": 1690898139,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 678903,
+        "num": 678903,
+        "word": "感谢老天送我一个情绪稳定的女儿",
+        "onboard_time": 1690895317,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 642229,
+        "num": 642229,
+        "word": "顺丰通报38万元劳力士手表遗失事件进展",
+        "onboard_time": 1690883193,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614149,
+        "num": 614149,
+        "word": "ON泪洒赛场",
+        "onboard_time": 1690896160,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 525077,
+        "num": 525077,
+        "word": "莲花楼",
+        "onboard_time": 1690894477,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 496243,
+        "num": 496243,
+        "word": "EDG冒泡赛打谁",
+        "onboard_time": 1690896816,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 480534,
+        "num": 480534,
+        "word": "长相思10年前就开始筹备了",
+        "onboard_time": 1690888713,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 701354,
+        "num": 473960,
+        "word": "魏大勋高中同学的留言",
+        "onboard_time": 1690897898,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673515,
+        "num": 462936,
+        "word": "失业三天被妈妈说了三次",
+        "onboard_time": 1690893216,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 488559,
+        "num": 461715,
+        "word": "前几天才知道楼下那只橘猫死了",
+        "onboard_time": 1690895137,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443423,
+        "num": 443423,
+        "word": "长相思 谁是我的新郎",
+        "onboard_time": 1690892011,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397383,
+        "num": 397383,
+        "word": "吴世勋上身身材",
+        "onboard_time": 1690894417,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 357212,
+        "num": 357212,
+        "word": "待产孕妇在声声鼓励中登上冲锋舟",
+        "onboard_time": 1690894295,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346526,
+        "num": 346526,
+        "word": "俄罗斯素食主义网红去世",
+        "onboard_time": 1690882471,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330558,
+        "num": 330558,
+        "word": "何超莲说偶像剧都不敢这么拍",
+        "onboard_time": 1690898737,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325210,
+        "num": 325210,
+        "word": "中国女足小组出局",
+        "onboard_time": 1690895976,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164725,
+        "num": 323765,
+        "word": "山西蓝天救援队解救涿州被困群众",
+        "onboard_time": 1690892432,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323358,
+        "num": 323358,
+        "word": "北京此轮强降雨已致11人遇难",
+        "onboard_time": 1690861719,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309139,
+        "num": 309139,
+        "word": "王楚然方发动图证明没P图",
+        "onboard_time": 1690860035,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305043,
+        "num": 305043,
+        "word": "涂山璟说抱歉实在没忍住",
+        "onboard_time": 1690898977,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303543,
+        "num": 303543,
+        "word": "卡努",
+        "onboard_time": 1690899098,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287679,
+        "num": 287679,
+        "word": "Elk 卖票小子",
+        "onboard_time": 1690897358,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280742,
+        "num": 280742,
+        "word": "志愿军伙房门口的对联笑哭了",
+        "onboard_time": 1690898916,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280303,
+        "num": 280303,
+        "word": "爸爸当家",
+        "onboard_time": 1690892073,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274310,
+        "num": 274310,
+        "word": "姬发做质子的八年伯邑考在干什么",
+        "onboard_time": 1690892856,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273984,
+        "num": 273984,
+        "word": "哥哥1万元偷卖妹妹房子给女儿",
+        "onboard_time": 1690869515,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264536,
+        "num": 264536,
+        "word": "LNG战胜BLG",
+        "onboard_time": 1690894356,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251566,
+        "num": 251566,
+        "word": "王霜破门",
+        "onboard_time": 1690892973,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230519,
+        "num": 230519,
+        "word": "BLG拒绝八擒",
+        "onboard_time": 1690896518,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227935,
+        "num": 227935,
+        "word": "真正的詹皇 劳伦詹姆斯",
+        "onboard_time": 1690893694,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214479,
+        "num": 214479,
+        "word": "原来小猫也会用离开来试探爱",
+        "onboard_time": 1690883012,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 210150,
+        "num": 210150,
+        "word": "中国游泳队成都大运会首金",
+        "onboard_time": 1690893274,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208297,
+        "num": 208297,
+        "word": "DRG锁定第三轮S组",
+        "onboard_time": 1690898258,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204011,
+        "num": 204011,
+        "word": "河北暴雨",
+        "onboard_time": 1690889072,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201274,
+        "num": 201274,
+        "word": "心动6大巴修罗场",
+        "onboard_time": 1690893694,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197224,
+        "num": 197224,
+        "word": "夏之Scout",
+        "onboard_time": 1690899098,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195413,
+        "num": 195413,
+        "word": "知否作者二刷封神解读细节",
+        "onboard_time": 1690882352,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军之路#"
+    }
+  }
+}

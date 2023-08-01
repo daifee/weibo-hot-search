@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690896840621,
+  "endTime": 1690899345511,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -235,12 +235,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1243449,
-      "num": 1243449,
+      "raw_hot": 1272511,
+      "num": 1272511,
       "word": "小夭吻得好主动",
       "onboard_time": 1690894899,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1262447,
+      "num": 1262447,
+      "word": "河北涿州急需大量船只转移群众",
+      "onboard_time": 1690887754,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1214974,
@@ -251,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1197771,
-      "num": 1197771,
-      "word": "河北涿州急需大量船只转移群众",
-      "onboard_time": 1690887754,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 1151097,
+      "num": 1151097,
+      "word": "王霜 我们不是特别好的榜样",
+      "onboard_time": 1690897535,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1135281,
@@ -321,6 +329,22 @@
       "onboard_time": 1690842137,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1023556,
+      "num": 710565,
+      "word": "奥利开通微博",
+      "onboard_time": 1690897956,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1019315,
+      "num": 1019315,
+      "word": "长相思刚喜欢上的男人变成了我姐",
+      "onboard_time": 1690895857,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 1001565,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 881438,
-      "num": 456231,
+      "num": 462936,
       "word": "失业三天被妈妈说了三次",
       "onboard_time": 1690893216,
       "rank": 30,
@@ -425,6 +449,14 @@
       "onboard_time": 1690857219,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 849450,
+      "num": 849450,
+      "word": "10岁女童来京探亲被水冲走",
+      "onboard_time": 1690896338,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 838285,
@@ -473,6 +505,14 @@
       "onboard_time": 1690850557,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759519,
+      "num": 759519,
+      "word": "阿念 玟小六",
+      "onboard_time": 1690897655,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 758880,
@@ -555,12 +595,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701354,
+      "num": 473960,
+      "word": "魏大勋高中同学的留言",
+      "onboard_time": 1690897898,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 698204,
+      "num": 698204,
+      "word": "常温超导",
+      "onboard_time": 1690898139,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 690156,
       "num": 520218,
       "word": "妲己封神第二部造型",
       "onboard_time": 1690816419,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 678903,
+      "num": 678903,
+      "word": "感谢老天送我一个情绪稳定的女儿",
+      "onboard_time": 1690895317,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 676191,
@@ -675,12 +739,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 614729,
-      "num": 614729,
-      "word": "长相思刚喜欢上的男人变成了我姐",
-      "onboard_time": 1690895857,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 614149,
+      "num": 614149,
+      "word": "ON泪洒赛场",
+      "onboard_time": 1690896160,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 613358,
@@ -899,6 +963,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 496243,
+      "num": 496243,
+      "word": "EDG冒泡赛打谁",
+      "onboard_time": 1690896816,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 493594,
       "num": 493594,
       "word": "张晚意檀健次名字的由来",
@@ -913,6 +985,14 @@
       "onboard_time": 1690882532,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 488559,
+      "num": 461715,
+      "word": "前几天才知道楼下那只橘猫死了",
+      "onboard_time": 1690895137,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 485822,
@@ -1009,14 +1089,6 @@
       "onboard_time": 1690876172,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 449770,
-      "num": 330074,
-      "word": "前几天才知道楼下那只橘猫死了",
-      "onboard_time": 1690895137,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 446768,
@@ -1123,14 +1195,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 404319,
-      "num": 404319,
-      "word": "ON泪洒赛场",
-      "onboard_time": 1690896160,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 402931,
       "num": 402931,
       "word": "建军节",
@@ -1185,14 +1249,6 @@
       "onboard_time": 1690811893,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 382517,
-      "num": 288962,
-      "word": "感谢老天送我一个情绪稳定的女儿",
-      "onboard_time": 1690895317,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 377364,
@@ -1347,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330558,
+      "num": 330558,
+      "word": "何超莲说偶像剧都不敢这么拍",
+      "onboard_time": 1690898737,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324935,
       "num": 318541,
       "word": "夭璟名场面来了",
@@ -1408,6 +1472,22 @@
       "word": "北京悉昙酒店回应被暴雨冲走",
       "onboard_time": 1690874252,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305043,
+      "num": 305043,
+      "word": "涂山璟说抱歉实在没忍住",
+      "onboard_time": 1690898977,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 303543,
+      "num": 303543,
+      "word": "卡努",
+      "onboard_time": 1690814198,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1507,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287679,
+      "num": 287679,
+      "word": "Elk 卖票小子",
+      "onboard_time": 1690897358,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286167,
       "num": 286167,
       "word": "网友称涿州一小区地库塌方",
@@ -1521,6 +1609,14 @@
       "onboard_time": 1690883734,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280742,
+      "num": 280742,
+      "word": "志愿军伙房门口的对联笑哭了",
+      "onboard_time": 1690898916,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280415,
@@ -1555,6 +1651,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 274310,
+      "num": 274310,
+      "word": "姬发做质子的八年伯邑考在干什么",
+      "onboard_time": 1690892856,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274013,
       "num": 274013,
       "word": "长相思弹幕互动量破亿",
@@ -1577,14 +1681,6 @@
       "onboard_time": 1690880374,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266922,
-      "num": 266922,
-      "word": "姬发做质子的八年伯邑考在干什么",
-      "onboard_time": 1690892856,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 264273,
@@ -1617,14 +1713,6 @@
       "onboard_time": 1690890993,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 261872,
-      "num": 261872,
-      "word": "10岁女童来京探亲被水冲走",
-      "onboard_time": 1690896338,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256865,
@@ -1811,6 +1899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230519,
+      "num": 230519,
+      "word": "BLG拒绝八擒",
+      "onboard_time": 1690896518,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228562,
       "num": 228562,
       "word": "封神榜",
@@ -1833,14 +1929,6 @@
       "onboard_time": 1690851759,
       "rank": 40,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 219952,
-      "num": 219952,
-      "word": "BLG拒绝八擒",
-      "onboard_time": 1690896518,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 218512,
@@ -1884,7 +1972,7 @@
     },
     {
       "raw_hot": 210816,
-      "num": 289047,
+      "num": 323765,
       "word": "山西蓝天救援队解救涿州被困群众",
       "onboard_time": 1690892432,
       "rank": 43,
@@ -1897,6 +1985,14 @@
       "onboard_time": 1690880374,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208297,
+      "num": 208297,
+      "word": "DRG锁定第三轮S组",
+      "onboard_time": 1690898258,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 208174,
@@ -1969,6 +2065,14 @@
       "onboard_time": 1690808734,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197224,
+      "num": 197224,
+      "word": "夏之Scout",
+      "onboard_time": 1690899098,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 194777,
@@ -2115,14 +2219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168403,
-      "num": 168403,
-      "word": "EDG冒泡赛打谁",
-      "onboard_time": 1690896816,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 166252,
       "num": 233660,
       "word": "北京全市河道均在行洪",
@@ -2163,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157858,
+      "num": 1594262,
+      "word": "致敬那些暴雨中的逆行者",
+      "onboard_time": 1690895434,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153071,
       "num": 122526,
       "word": "林允发藏头词告别赵寻",
@@ -2176,14 +2280,6 @@
       "word": "直击南昌八一广场升旗仪式现场",
       "onboard_time": 1690845084,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142224,
-      "num": 228623,
-      "word": "卡努",
-      "onboard_time": 1690814198,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2233,14 +2329,6 @@
       "onboard_time": 1690868075,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124306,
-      "num": 1594262,
-      "word": "致敬那些暴雨中的逆行者",
-      "onboard_time": 1690895434,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122963,
