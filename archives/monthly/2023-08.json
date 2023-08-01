@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690917199903,
+  "endTime": 1690918437097,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -2675,8 +2675,8 @@
       "category": "军事"
     },
     {
-      "raw_hot": 43628,
-      "num": 43628,
+      "raw_hot": 43854,
+      "num": 43854,
       "word": "lk99",
       "onboard_time": 1690915694,
       "rank": 29,
@@ -2691,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36187,
+      "num": 36187,
+      "word": "常温常压超导首被证明理论可行",
+      "onboard_time": 1690916234,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 30962,
       "num": 507345,
       "word": "男子被洪水围困消防员从天而降救援",
@@ -2699,20 +2707,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30543,
-      "num": 32396,
-      "word": "常温常压超导首被证明理论可行",
-      "onboard_time": 1690916234,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 27474,
       "num": 27474,
       "word": "墨西哥火烈鸟 盛大优美的生命诗意",
       "onboard_time": 1690831753,
       "rank": 47,
       "category": "自然"
+    },
+    {
+      "raw_hot": 25639,
+      "num": 25639,
+      "word": "京津冀降雨关注",
+      "onboard_time": 1690914077,
+      "rank": 44,
+      "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 24976,
+      "num": 24976,
+      "word": "关注京津冀强降雨",
+      "onboard_time": 1690915934,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19762,
