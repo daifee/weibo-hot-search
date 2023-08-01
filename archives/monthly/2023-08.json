@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690863618580,
+  "endTime": 1690864434450,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -35,6 +35,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2124588,
+      "num": 2124588,
+      "word": "王楚然方发动图证明没P图",
+      "onboard_time": 1690860035,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2096540,
+      "num": 2096540,
+      "word": "小猫咪35岁了可太值得炫耀了吧",
+      "onboard_time": 1690852955,
+      "rank": 12,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 2062460,
       "num": 1630666,
       "word": "路温吐槽孟宴臣",
@@ -43,28 +59,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2031692,
-      "num": 2031692,
-      "word": "小猫咪35岁了可太值得炫耀了吧",
-      "onboard_time": 1690852955,
-      "rank": 12,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1964534,
-      "num": 1964534,
-      "word": "王楚然方发动图证明没P图",
-      "onboard_time": 1690860035,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1802849,
       "num": 1525186,
       "word": "李玟大殓出殡",
       "onboard_time": 1690853557,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1690331,
+      "num": 1690331,
+      "word": "北京2人在抢险救灾中因公殉职",
+      "onboard_time": 1690862380,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1616535,
@@ -96,14 +104,6 @@
       "word": "北京首次动用1998年建成的滞洪水库蓄洪",
       "onboard_time": 1690855955,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1135296,
-      "num": 651295,
-      "word": "北京2人在抢险救灾中因公殉职",
-      "onboard_time": 1690862380,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771961,
+      "num": 745305,
+      "word": "李玟老公及继女未参加出殡仪式",
+      "onboard_time": 1690863341,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 758880,
       "num": 758880,
       "word": "张柏芝真的可以越素越美",
@@ -243,8 +251,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 642971,
-      "num": 642971,
+      "raw_hot": 643247,
+      "num": 643247,
       "word": "涿州暴雨",
       "onboard_time": 1690856075,
       "rank": 22,
@@ -299,12 +307,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 589582,
+      "num": 589582,
+      "word": "伍佰广州",
+      "onboard_time": 1690863281,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 571857,
       "num": 559907,
       "word": "中彩票哪有不疯的",
       "onboard_time": 1690849717,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 570410,
+      "num": 450231,
+      "word": "魏大勋巴黎欧莱雅",
+      "onboard_time": 1690863462,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 556427,
@@ -435,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 451042,
+      "num": 451042,
+      "word": "张晚意谈与杨紫合作",
+      "onboard_time": 1690863582,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 446768,
       "num": 446768,
       "word": "8月份十二星座的注意事项",
@@ -475,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419677,
-      "num": 313423,
-      "word": "李玟老公及继女未参加出殡仪式",
-      "onboard_time": 1690863341,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 418742,
       "num": 249900,
       "word": "女子吐槽丈夫在新家装100多个插座",
@@ -491,12 +515,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 417700,
-      "num": 417700,
-      "word": "伍佰广州",
-      "onboard_time": 1690863281,
-      "rank": 23,
-      "category": "音乐"
+      "raw_hot": 408895,
+      "num": 398946,
+      "word": "吴京烤串一看就没少练",
+      "onboard_time": 1690863341,
+      "rank": 42,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 408750,
@@ -555,6 +579,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 371331,
+      "num": 371331,
+      "word": "涿州泄洪",
+      "onboard_time": 1690863401,
+      "rank": 40,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 371315,
       "num": 371315,
       "word": "独家童话",
@@ -611,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 334641,
+      "num": 328290,
+      "word": "台风",
+      "onboard_time": 1690862439,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324935,
       "num": 318541,
       "word": "夭璟名场面来了",
@@ -643,20 +683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316395,
+      "num": 316395,
+      "word": "芭比杜华",
+      "onboard_time": 1690863940,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 301701,
+      "num": 301701,
+      "word": "莲花楼片头曲好有江湖味",
+      "onboard_time": 1690862079,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300505,
       "num": 300505,
       "word": "王鹤棣出发西安录综艺",
       "onboard_time": 1690858716,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 298100,
-      "num": 298100,
-      "word": "莲花楼片头曲好有江湖味",
-      "onboard_time": 1690862079,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 295167,
@@ -699,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274643,
+      "num": 274643,
+      "word": "ePhone已被注册商标",
+      "onboard_time": 1690860996,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 272121,
       "num": 215875,
       "word": "大运会男篮中国不敌中国台北",
@@ -707,11 +763,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270930,
-      "num": 270930,
-      "word": "台风",
-      "onboard_time": 1690862439,
-      "rank": 33,
+      "raw_hot": 265762,
+      "num": 265762,
+      "word": "网友称涿州一小区地库塌方",
+      "onboard_time": 1690863764,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -803,14 +859,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 218788,
-      "num": 218788,
-      "word": "魏大勋巴黎欧莱雅",
-      "onboard_time": 1690863462,
-      "rank": 37,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 218512,
       "num": 218512,
       "word": "韩女团成员被公司开除",
@@ -833,14 +881,6 @@
       "onboard_time": 1690816360,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 202769,
-      "num": 202769,
-      "word": "涿州泄洪",
-      "onboard_time": 1690863401,
-      "rank": 40,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 200876,
@@ -867,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196205,
-      "num": 196205,
-      "word": "吴京烤串一看就没少练",
-      "onboard_time": 1690863341,
-      "rank": 42,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 189946,
       "num": 189946,
       "word": "李雪琴吻戏大型围观现场",
@@ -883,12 +915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189579,
-      "num": 183681,
-      "word": "张晚意谈与杨紫合作",
-      "onboard_time": 1690863582,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 188185,
+      "num": 188185,
+      "word": "泄洪",
+      "onboard_time": 1690864363,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187053,
@@ -897,6 +929,14 @@
       "onboard_time": 1690799912,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 183590,
+      "num": 183590,
+      "word": "百香果话梅冰粉",
+      "onboard_time": 1690861358,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 183423,
@@ -939,28 +979,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 174667,
-      "num": 174667,
-      "word": "ePhone已被注册商标",
-      "onboard_time": 1690860996,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 171002,
       "num": 236190,
       "word": "shinyruo 明天播",
       "onboard_time": 1690806272,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 170953,
-      "num": 170953,
-      "word": "百香果话梅冰粉",
-      "onboard_time": 1690861358,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 168644,
@@ -1164,7 +1188,7 @@
     },
     {
       "raw_hot": 38981,
-      "num": 1508110,
+      "num": 1796243,
       "word": "青春主场梦想正当燃",
       "onboard_time": 1690860634,
       "rank": 2,
