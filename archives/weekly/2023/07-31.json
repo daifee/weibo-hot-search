@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690914852312,
+  "endTime": 1690917199903,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -4763,6 +4763,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 119718,
+      "num": 119718,
+      "word": "河北涿州救援力量薄弱",
+      "onboard_time": 1690913717,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119140,
       "num": 119140,
       "word": "八月",
@@ -4923,14 +4931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 58942,
-      "num": 58942,
-      "word": "河北涿州救援力量薄弱",
-      "onboard_time": 1690913717,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57920,
       "num": 57920,
       "word": "建军节致敬中国军人",
@@ -4945,6 +4945,14 @@
       "onboard_time": 1690785213,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43628,
+      "num": 43628,
+      "word": "lk99",
+      "onboard_time": 1690915694,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 43005,
@@ -4977,6 +4985,14 @@
       "onboard_time": 1690871014,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30543,
+      "num": 32396,
+      "word": "常温常压超导首被证明理论可行",
+      "onboard_time": 1690916234,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 29333,
