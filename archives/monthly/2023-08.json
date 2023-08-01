@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690878085884,
+  "endTime": 1690878831929,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -99,6 +99,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1478906,
+      "num": 1478906,
+      "word": "成都给花花出了个冰淇淋",
+      "onboard_time": 1690875931,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1438562,
       "num": 1438562,
       "word": "杨幂喊迪丽热巴巴",
@@ -155,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1094608,
-      "num": 1094608,
-      "word": "成都给花花出了个冰淇淋",
-      "onboard_time": 1690875931,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 1096034,
+      "num": 1096034,
+      "word": "恭迎大王姬回归",
+      "onboard_time": 1690874734,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 1068554,
@@ -235,14 +243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 819442,
-      "num": 819442,
-      "word": "恭迎大王姬回归",
-      "onboard_time": 1690874734,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 814224,
       "num": 814224,
       "word": "去年砸1600万开影院的男子怎样了",
@@ -273,6 +273,14 @@
       "onboard_time": 1690853373,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 754063,
+      "num": 754063,
+      "word": "是阿昕儿又又又回应了",
+      "onboard_time": 1690876654,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 716551,
@@ -441,14 +449,6 @@
       "onboard_time": 1690849717,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 563760,
-      "num": 563760,
-      "word": "是阿昕儿又又又回应了",
-      "onboard_time": 1690876654,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 556427,
@@ -795,6 +795,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 361896,
+      "num": 361896,
+      "word": "杨紫说张晚意你真是人才",
+      "onboard_time": 1690876831,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361492,
       "num": 361492,
       "word": "Angelababy教贝克汉姆说中文",
@@ -899,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315065,
+      "num": 315065,
+      "word": "荀彧造型有点失望",
+      "onboard_time": 1690878093,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 314652,
       "num": 314652,
       "word": "道士们品评封神",
@@ -921,14 +937,6 @@
       "onboard_time": 1690874252,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303992,
-      "num": 295290,
-      "word": "杨紫说张晚意你真是人才",
-      "onboard_time": 1690876831,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 301701,
@@ -1011,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275617,
+      "num": 275617,
+      "word": "比大人还冷静周到的女宝宝",
+      "onboard_time": 1690874072,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 274013,
       "num": 274013,
       "word": "长相思弹幕互动量破亿",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1690872993,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261572,
-      "num": 261572,
-      "word": "比大人还冷静周到的女宝宝",
-      "onboard_time": 1690874072,
-      "rank": 41,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 256865,
@@ -1283,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180249,
+      "num": 180249,
+      "word": "河北暴雨救援",
+      "onboard_time": 1690878334,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179035,
       "num": 179035,
       "word": "杨紫片场吃鞋",
@@ -1355,6 +1371,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 165355,
+      "num": 165355,
+      "word": "东方风云榜",
+      "onboard_time": 1690878754,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163691,
       "num": 163691,
       "word": "爸爸当家直播",
@@ -1400,6 +1424,14 @@
       "word": "是谁坐高铁还要看导航",
       "onboard_time": 1690805073,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135359,
+      "num": 490155,
+      "word": "北京消防暴雨中用脸盆转移受困婴儿",
+      "onboard_time": 1690876831,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1553,14 +1585,6 @@
       "onboard_time": 1690872394,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 80453,
-      "num": 490155,
-      "word": "北京消防暴雨中用脸盆转移受困婴儿",
-      "onboard_time": 1690876831,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60678,
