@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690859888387,
+  "endTime": 1690860843252,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1185381,
-      "num": 981820,
+      "raw_hot": 1195564,
+      "num": 1195564,
       "word": "北京首次动用1998年建成的滞洪水库蓄洪",
       "onboard_time": 1690855955,
       "rank": 12,
@@ -123,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 829784,
-      "num": 829784,
+      "raw_hot": 863419,
+      "num": 863419,
       "word": "当狐狸得知小六是王姬时的反应",
       "onboard_time": 1690857219,
       "rank": 30,
@@ -171,11 +171,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 707978,
+      "num": 661903,
+      "word": "王楚然方发动图证明没P图",
+      "onboard_time": 1690860035,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 690156,
       "num": 520218,
       "word": "妲己封神第二部造型",
       "onboard_time": 1690816419,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 676191,
+      "num": 676191,
+      "word": "于适 天选姬发",
+      "onboard_time": 1690858538,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 672618,
+      "num": 672618,
+      "word": "颖儿拍20天戏写20天日记",
+      "onboard_time": 1690857878,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -193,22 +217,6 @@
       "onboard_time": 1690812516,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 645306,
-      "num": 645306,
-      "word": "于适 天选姬发",
-      "onboard_time": 1690858538,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 642427,
-      "num": 642427,
-      "word": "颖儿拍20天戏写20天日记",
-      "onboard_time": 1690857878,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 631677,
@@ -323,6 +331,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 493594,
+      "num": 493594,
+      "word": "张晚意檀健次名字的由来",
+      "onboard_time": 1690858296,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 485822,
       "num": 485822,
       "word": "汉文帝霸陵殉葬坑发现大熊猫骨骼",
@@ -331,8 +347,24 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 480155,
+      "num": 480155,
+      "word": "涿州暴雨",
+      "onboard_time": 1690856075,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479998,
+      "num": 479998,
+      "word": "四大浓颜系男星",
+      "onboard_time": 1690857696,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465974,
-      "num": 575326,
+      "num": 673993,
       "word": "庆祝解放军建军96周年",
       "onboard_time": 1690846168,
       "rank": 25,
@@ -347,20 +379,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460092,
+      "num": 460092,
+      "word": "发现离职时都会穿的很漂亮",
+      "onboard_time": 1690856854,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 456456,
       "num": 362164,
       "word": "长相思第二季还能爆吗",
       "onboard_time": 1690848274,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 456325,
-      "num": 456325,
-      "word": "四大浓颜系男星",
-      "onboard_time": 1690857696,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 446768,
@@ -387,28 +419,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 428699,
-      "num": 428699,
-      "word": "涿州暴雨",
-      "onboard_time": 1690856075,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427877,
       "num": 357704,
       "word": "李现说感谢父母穷养",
       "onboard_time": 1690848456,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 423234,
-      "num": 423234,
-      "word": "发现离职时都会穿的很漂亮",
-      "onboard_time": 1690856854,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 419957,
@@ -427,6 +443,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 413194,
+      "num": 413194,
+      "word": "老公执意要在门上面做柜子",
+      "onboard_time": 1690857520,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 408750,
       "num": 408750,
       "word": "迪丽热巴说身材管理是工作的一部分",
@@ -443,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391085,
-      "num": 462179,
-      "word": "张晚意檀健次名字的由来",
-      "onboard_time": 1690858296,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 388369,
       "num": 353403,
       "word": "不用精修的明星",
       "onboard_time": 1690856558,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385780,
+      "num": 385780,
+      "word": "文俊辉和成员们一起看独家童话的反应",
+      "onboard_time": 1690858118,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 385051,
@@ -507,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357329,
+      "num": 357329,
+      "word": "工作人员称涿州救援难度大",
+      "onboard_time": 1690858177,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344465,
       "num": 344465,
       "word": "少吃以后最明显的变化",
@@ -539,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 332483,
-      "num": 332483,
-      "word": "老公执意要在门上面做柜子",
-      "onboard_time": 1690857520,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 324935,
       "num": 318541,
       "word": "夭璟名场面来了",
@@ -561,22 +585,6 @@
       "onboard_time": 1690848397,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 320922,
-      "num": 320922,
-      "word": "工作人员称涿州救援难度大",
-      "onboard_time": 1690858177,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317705,
-      "num": 317705,
-      "word": "文俊辉和成员们一起看独家童话的反应",
-      "onboard_time": 1690858118,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 317666,
@@ -595,8 +603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295901,
-      "num": 295901,
+      "raw_hot": 300505,
+      "num": 300505,
       "word": "王鹤棣出发西安录综艺",
       "onboard_time": 1690858716,
       "rank": 31,
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 135124,
-      "num": 135124,
+      "num": 152897,
       "word": "明日方舟",
       "onboard_time": 1690859319,
       "rank": 49,
@@ -1057,6 +1065,22 @@
       "onboard_time": 1690831753,
       "rank": 47,
       "category": "自然"
+    },
+    {
+      "raw_hot": 19762,
+      "num": 157928,
+      "word": "到成都看大运",
+      "onboard_time": 1690860400,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11997,
+      "num": 1508110,
+      "word": "青春主场梦想正当燃",
+      "onboard_time": 1690860634,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

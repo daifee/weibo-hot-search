@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690859888387,
+  "endTime": 1690860843252,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -435,19 +435,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1195564,
+      "num": 1195564,
+      "word": "北京首次动用1998年建成的滞洪水库蓄洪",
+      "onboard_time": 1690855955,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1188353,
       "num": 917195,
       "word": "北京门头沟暴雨大量汽车被冲走",
       "onboard_time": 1690779875,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1185381,
-      "num": 981820,
-      "word": "北京首次动用1998年建成的滞洪水库蓄洪",
-      "onboard_time": 1690855955,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -675,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 863419,
+      "num": 863419,
+      "word": "当狐狸得知小六是王姬时的反应",
+      "onboard_time": 1690857219,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 860938,
       "num": 860938,
       "word": "小夭 阿念",
@@ -688,14 +696,6 @@
       "word": "但凡檀健次演技烂点",
       "onboard_time": 1690794391,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 829784,
-      "num": 829784,
-      "word": "当狐狸得知小六是王姬时的反应",
-      "onboard_time": 1690857219,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -883,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 707978,
+      "num": 661903,
+      "word": "王楚然方发动图证明没P图",
+      "onboard_time": 1690860035,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 692397,
       "num": 692397,
       "word": "李雪琴吻戏大型围观现场",
@@ -907,11 +915,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 676191,
+      "num": 676191,
+      "word": "于适 天选姬发",
+      "onboard_time": 1690858538,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 673540,
       "num": 673540,
       "word": "玱玹打不过防风意映",
       "onboard_time": 1690810475,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 672618,
+      "num": 672618,
+      "word": "颖儿拍20天戏写20天日记",
+      "onboard_time": 1690857878,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -961,22 +985,6 @@
       "onboard_time": 1690767390,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 645306,
-      "num": 645306,
-      "word": "于适 天选姬发",
-      "onboard_time": 1690858538,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 642427,
-      "num": 642427,
-      "word": "颖儿拍20天戏写20天日记",
-      "onboard_time": 1690857878,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 638417,
@@ -1339,11 +1347,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493594,
+      "num": 493594,
+      "word": "张晚意檀健次名字的由来",
+      "onboard_time": 1690858296,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 482172,
       "num": 452567,
       "word": "张杰鹿晗黄子韬今日营业照",
       "onboard_time": 1690783113,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 480155,
+      "num": 480155,
+      "word": "涿州暴雨",
+      "onboard_time": 1690856075,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479998,
+      "num": 479998,
+      "word": "四大浓颜系男星",
+      "onboard_time": 1690857696,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1388,7 +1420,7 @@
     },
     {
       "raw_hot": 465974,
-      "num": 575326,
+      "num": 673993,
       "word": "庆祝解放军建军96周年",
       "onboard_time": 1690846168,
       "rank": 25,
@@ -1435,20 +1467,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 460092,
+      "num": 460092,
+      "word": "发现离职时都会穿的很漂亮",
+      "onboard_time": 1690856854,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 456456,
       "num": 362164,
       "word": "长相思第二季还能爆吗",
       "onboard_time": 1690848274,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 456325,
-      "num": 456325,
-      "word": "四大浓颜系男星",
-      "onboard_time": 1690857696,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 449342,
@@ -1523,14 +1555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 428699,
-      "num": 428699,
-      "word": "涿州暴雨",
-      "onboard_time": 1690856075,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427877,
       "num": 357704,
       "word": "李现说感谢父母穷养",
@@ -1547,14 +1571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 423234,
-      "num": 423234,
-      "word": "发现离职时都会穿的很漂亮",
-      "onboard_time": 1690856854,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 419957,
       "num": 318404,
       "word": "女子称回家发现陌生男在里面住了几天",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1690844723,
       "rank": 30,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 413194,
+      "num": 413194,
+      "word": "老公执意要在门上面做柜子",
+      "onboard_time": 1690857520,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 410421,
@@ -1683,14 +1707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391085,
-      "num": 462179,
-      "word": "张晚意檀健次名字的由来",
-      "onboard_time": 1690858296,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 388427,
       "num": 332518,
       "word": "北京房山门头沟平均降雨量超300毫米",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1690810720,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385780,
+      "num": 385780,
+      "word": "文俊辉和成员们一起看独家童话的反应",
+      "onboard_time": 1690858118,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 381086,
@@ -1843,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357329,
+      "num": 357329,
+      "word": "工作人员称涿州救援难度大",
+      "onboard_time": 1690858177,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356870,
       "num": 291578,
       "word": "辛赵不宣",
@@ -1971,14 +2003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332483,
-      "num": 332483,
-      "word": "老公执意要在门上面做柜子",
-      "onboard_time": 1690857520,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 330330,
       "num": 282988,
       "word": "王一博热烈家庭烟火气",
@@ -2011,28 +2035,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 320922,
-      "num": 320922,
-      "word": "工作人员称涿州救援难度大",
-      "onboard_time": 1690858177,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317809,
       "num": 316905,
       "word": "撒贝宁这辈子没这么尴尬过",
       "onboard_time": 1690731994,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317705,
-      "num": 317705,
-      "word": "文俊辉和成员们一起看独家童话的反应",
-      "onboard_time": 1690858118,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 316200,
@@ -2139,6 +2147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300505,
+      "num": 300505,
+      "word": "王鹤棣出发西安录综艺",
+      "onboard_time": 1690858716,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299729,
       "num": 259441,
       "word": "这年头连动物都有平替了",
@@ -2169,14 +2185,6 @@
       "onboard_time": 1690782872,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295901,
-      "num": 295901,
-      "word": "王鹤棣出发西安录综艺",
-      "onboard_time": 1690858716,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 293752,
@@ -3132,7 +3140,7 @@
     },
     {
       "raw_hot": 135124,
-      "num": 135124,
+      "num": 152897,
       "word": "明日方舟",
       "onboard_time": 1690859319,
       "rank": 49,
@@ -3387,6 +3395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 19762,
+      "num": 157928,
+      "word": "到成都看大运",
+      "onboard_time": 1690860400,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16642,
       "num": 21570,
       "word": "实用透视技巧",
@@ -3401,6 +3417,14 @@
       "onboard_time": 1690638696,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11997,
+      "num": 1508110,
+      "word": "青春主场梦想正当燃",
+      "onboard_time": 1690860634,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
