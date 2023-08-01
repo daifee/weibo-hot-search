@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690918437097,
+  "endTime": 1690921057842,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -2715,20 +2715,20 @@
       "category": "自然"
     },
     {
+      "raw_hot": 26393,
+      "num": 26393,
+      "word": "关注京津冀强降雨",
+      "onboard_time": 1690915934,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25639,
       "num": 25639,
       "word": "京津冀降雨关注",
       "onboard_time": 1690914077,
       "rank": 44,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 24976,
-      "num": 24976,
-      "word": "关注京津冀强降雨",
-      "onboard_time": 1690915934,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19762,

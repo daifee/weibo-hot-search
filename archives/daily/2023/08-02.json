@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690918437097,
+  "endTime": 1690921057842,
   "band_list": [
     {
       "raw_hot": 1058749,
@@ -491,6 +491,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 26393,
+      "num": 26393,
+      "word": "关注京津冀强降雨",
+      "onboard_time": 1690915934,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25639,
       "num": 25639,
       "word": "京津冀降雨关注",
@@ -499,20 +507,20 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 24976,
-      "num": 24976,
-      "word": "关注京津冀强降雨",
-      "onboard_time": 1690915934,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17599,
       "num": 422037,
       "word": "暴雨天气10个安全指南",
       "onboard_time": 1690895137,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17190,
+      "num": 22178,
+      "word": "邓为上身身材",
+      "onboard_time": 1690900835,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
@@ -521,6 +529,9 @@
     },
     {
       "word": "#强军之路#"
+    },
+    {
+      "word": "#逐梦强军#"
     }
   ]
 }
