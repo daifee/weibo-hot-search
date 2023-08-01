@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690888448497,
+  "endTime": 1690889626376,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1166849,
+      "num": 634778,
+      "word": "长相思10年前就开始筹备了",
+      "onboard_time": 1690888713,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1125332,
       "num": 1125332,
       "word": "河北强降雨已致9人遇难6人失联",
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1002532,
+      "num": 1002532,
+      "word": "中国女足vs英格兰女足",
+      "onboard_time": 1690886194,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1001565,
       "num": 452113,
       "word": "哥哥1万元偷卖妹妹房子给女儿",
@@ -760,6 +776,14 @@
       "word": "知否作者二刷封神解读细节",
       "onboard_time": 1690882352,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 939886,
+      "num": 939886,
+      "word": "女装小夭上线了",
+      "onboard_time": 1690887274,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -921,14 +945,6 @@
       "onboard_time": 1690787733,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 794826,
-      "num": 794826,
-      "word": "女装小夭上线了",
-      "onboard_time": 1690887274,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 789574,
@@ -1123,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 692829,
+      "num": 692829,
+      "word": "河北涿州急需大量船只转移群众",
+      "onboard_time": 1690887754,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 692397,
       "num": 692397,
       "word": "李雪琴吻戏大型围观现场",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1690806272,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 634966,
-      "num": 634966,
-      "word": "中国女足vs英格兰女足",
-      "onboard_time": 1690886194,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 632669,
@@ -1427,12 +1443,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 580954,
+      "num": 580954,
+      "word": "中国女足落后",
+      "onboard_time": 1690889371,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 579030,
       "num": 579030,
       "word": "卡努升级为超强台风",
       "onboard_time": 1690799193,
       "rank": 33,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 578797,
+      "num": 578797,
+      "word": "长相思",
+      "onboard_time": 1690714953,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 575032,
@@ -1652,7 +1684,7 @@
     },
     {
       "raw_hot": 516344,
-      "num": 308038,
+      "num": 454033,
       "word": "张婧仪的手机壳",
       "onboard_time": 1690885774,
       "rank": 35,
@@ -1980,7 +2012,7 @@
     },
     {
       "raw_hot": 422721,
-      "num": 373567,
+      "num": 391307,
       "word": "原来小猫也会用离开来试探爱",
       "onboard_time": 1690883012,
       "rank": 23,
@@ -2153,6 +2185,14 @@
       "onboard_time": 1690787014,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389719,
+      "num": 389719,
+      "word": "内娱天选将军文男主",
+      "onboard_time": 1690887634,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 388427,
@@ -2403,6 +2443,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 345396,
+      "num": 614716,
+      "word": "退役军人10年献血27000毫升",
+      "onboard_time": 1690888231,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344465,
       "num": 344465,
       "word": "少吃以后最明显的变化",
@@ -2457,6 +2505,14 @@
       "onboard_time": 1690807172,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336225,
+      "num": 336225,
+      "word": "田柾国金珉奎跳了SEVEN",
+      "onboard_time": 1690888292,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 335712,
@@ -2523,6 +2579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 319055,
+      "num": 319055,
+      "word": "相柳幻化女装见小夭",
+      "onboard_time": 1690888833,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318154,
       "num": 318154,
       "word": "小夭的三个男人乐子真多",
@@ -2543,6 +2607,14 @@
       "num": 313783,
       "word": "杨玏分享伯邑考杀青视频",
       "onboard_time": 1690767691,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314823,
+      "num": 274194,
+      "word": "张晚意戏里戏外都很讨厌涂山璟",
+      "onboard_time": 1690888054,
       "rank": 39,
       "category": "影视"
     },
@@ -2851,6 +2923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275977,
+      "num": 275977,
+      "word": "龚俊回应羊驼刘海",
+      "onboard_time": 1690886673,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275617,
       "num": 275617,
       "word": "比大人还冷静周到的女宝宝",
@@ -2939,14 +3019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268168,
-      "num": 268168,
-      "word": "河北涿州急需大量船只转移群众",
-      "onboard_time": 1690887754,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267704,
       "num": 335243,
       "word": "WBG积分第一晋级夏决",
@@ -2977,14 +3049,6 @@
       "onboard_time": 1690727072,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264300,
-      "num": 264300,
-      "word": "内娱天选将军文男主",
-      "onboard_time": 1690887634,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 264281,
@@ -3064,14 +3128,6 @@
       "word": "封神票房",
       "onboard_time": 1690719633,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 259817,
-      "num": 259817,
-      "word": "龚俊回应羊驼刘海",
-      "onboard_time": 1690886673,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -3211,6 +3267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235659,
+      "num": 235659,
+      "word": "英格兰进球",
+      "onboard_time": 1690888533,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235167,
       "num": 235167,
       "word": "新兵入伍前后对比",
@@ -3275,12 +3339,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226219,
-      "num": 211496,
-      "word": "张晚意戏里戏外都很讨厌涂山璟",
-      "onboard_time": 1690888054,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 228678,
+      "num": 231294,
+      "word": "中国女足迎来生死战",
+      "onboard_time": 1690888172,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 225146,
@@ -3403,14 +3467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211228,
-      "num": 211228,
-      "word": "退役军人10年献血27000毫升",
-      "onboard_time": 1690888231,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209835,
       "num": 209835,
       "word": "陈都灵挂脖露背裙",
@@ -3441,14 +3497,6 @@
       "onboard_time": 1690881632,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207933,
-      "num": 207933,
-      "word": "田柾国金珉奎跳了SEVEN",
-      "onboard_time": 1690888292,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 207872,
@@ -3507,6 +3555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202856,
+      "num": 202856,
+      "word": "河北暴雨",
+      "onboard_time": 1690889072,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202274,
       "num": 202274,
       "word": "陈牧驰封神面试打军体拳",
@@ -3539,14 +3595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201421,
-      "num": 175915,
-      "word": "长相思",
-      "onboard_time": 1690714953,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200876,
       "num": 200876,
       "word": "射手座真的不是冷漠的人",
@@ -3577,6 +3625,14 @@
       "onboard_time": 1690794872,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198135,
+      "num": 198135,
+      "word": "梦里头",
+      "onboard_time": 1690889252,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 196630,
@@ -3713,14 +3769,6 @@
       "onboard_time": 1690861358,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 182090,
-      "num": 182090,
-      "word": "中国女足迎来生死战",
-      "onboard_time": 1690888172,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 181921,
