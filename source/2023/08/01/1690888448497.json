@@ -1,0 +1,410 @@
+{
+  "runTime": 1690888448497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2605619,
+        "num": 2605619,
+        "word": "顺丰通报38万元劳力士手表遗失事件进展",
+        "onboard_time": 1690883193,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680159,
+        "num": 1880728,
+        "word": "一句话救了一群人的命",
+        "onboard_time": 1690880431,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89416,
+        "num": 1403790,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1690865919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205162,
+        "num": 1205162,
+        "word": "俄罗斯素食主义网红去世",
+        "onboard_time": 1690882471,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411762,
+        "num": 831360,
+        "word": "小猫头卡老鼠洞消防员憋笑救援",
+        "onboard_time": 1690883433,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794826,
+        "num": 794826,
+        "word": "女装小夭上线了",
+        "onboard_time": 1690887274,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313392,
+        "num": 775468,
+        "word": "此前暴雨中失联的9人继续留守电站",
+        "onboard_time": 1690883855,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761481,
+        "num": 761481,
+        "word": "知否作者二刷封神解读细节",
+        "onboard_time": 1690882352,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 754712,
+        "num": 754712,
+        "word": "成都给花花出了个冰淇淋",
+        "onboard_time": 1690875931,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661843,
+        "num": 661843,
+        "word": "蔚来",
+        "onboard_time": 1690883855,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 976400,
+        "num": 658612,
+        "word": "女网红遭陌生人要求陪酒系策划摆拍",
+        "onboard_time": 1690884093,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654291,
+        "num": 654291,
+        "word": "玱玹原著娶了九个老婆",
+        "onboard_time": 1690878935,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634966,
+        "num": 634966,
+        "word": "中国女足vs英格兰女足",
+        "onboard_time": 1690886194,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608727,
+        "num": 608727,
+        "word": "荀彧造型有点失望",
+        "onboard_time": 1690878093,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 607532,
+        "num": 607532,
+        "word": "王楚然方发动图证明没P图",
+        "onboard_time": 1690860035,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546957,
+        "num": 546957,
+        "word": "钉钉",
+        "onboard_time": 1690883132,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 400511,
+        "num": 400511,
+        "word": "华科初步复现韩国室温超导材料",
+        "onboard_time": 1690880492,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 392435,
+        "num": 392435,
+        "word": "扔话筒已经来到全新的高度",
+        "onboard_time": 1690882591,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361472,
+        "num": 361472,
+        "word": "钎九",
+        "onboard_time": 1690883914,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 308615,
+        "num": 308615,
+        "word": "YG速度是一种形容词",
+        "onboard_time": 1690882532,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 516344,
+        "num": 308038,
+        "word": "张婧仪的手机壳",
+        "onboard_time": 1690885774,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478078,
+        "num": 306302,
+        "word": "哥哥1万元偷卖妹妹房子给女儿",
+        "onboard_time": 1690869515,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449404,
+        "num": 305198,
+        "word": "杨幂喊迪丽热巴巴",
+        "onboard_time": 1690872932,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382231,
+        "num": 303653,
+        "word": "原来小猫也会用离开来试探爱",
+        "onboard_time": 1690883012,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 303147,
+        "num": 303147,
+        "word": "涿州双馨家园小区断水断电有人被困",
+        "onboard_time": 1690884573,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294086,
+        "num": 294086,
+        "word": "恭迎大王姬回归",
+        "onboard_time": 1690874734,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289331,
+        "num": 289331,
+        "word": "张惠妹上海",
+        "onboard_time": 1690886015,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280415,
+        "num": 280415,
+        "word": "河南三支一扶",
+        "onboard_time": 1690886793,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 278101,
+        "num": 278101,
+        "word": "超导",
+        "onboard_time": 1690868315,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 251330,
+        "num": 278015,
+        "word": "工作人员称涿州救援难度大",
+        "onboard_time": 1690858177,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277983,
+        "num": 277983,
+        "word": "中国女足vs英格兰女足首发",
+        "onboard_time": 1690883734,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268168,
+        "num": 268168,
+        "word": "河北涿州急需大量船只转移群众",
+        "onboard_time": 1690887754,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264300,
+        "num": 264300,
+        "word": "内娱天选将军文男主",
+        "onboard_time": 1690887634,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263472,
+        "num": 263472,
+        "word": "姬发给妲己递簪子是于适设计的",
+        "onboard_time": 1690879173,
+        "rank": 33,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 261026,
+        "num": 261026,
+        "word": "北京此轮强降雨已致11人遇难",
+        "onboard_time": 1690861719,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259817,
+        "num": 259817,
+        "word": "龚俊回应羊驼刘海",
+        "onboard_time": 1690886673,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244938,
+        "num": 244938,
+        "word": "河北强降雨已致9人遇难6人失联",
+        "onboard_time": 1690879894,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234358,
+        "num": 234358,
+        "word": "如何评价张晚意的演技",
+        "onboard_time": 1690886134,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211570,
+        "num": 211570,
+        "word": "国乒女团大运会夺冠",
+        "onboard_time": 1690887153,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226219,
+        "num": 211496,
+        "word": "张晚意戏里戏外都很讨厌涂山璟",
+        "onboard_time": 1690888054,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211228,
+        "num": 211228,
+        "word": "退役军人10年献血27000毫升",
+        "onboard_time": 1690888231,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207933,
+        "num": 207933,
+        "word": "田柾国金珉奎跳了SEVEN",
+        "onboard_time": 1690888292,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197094,
+        "num": 197094,
+        "word": "李玟大殓出殡",
+        "onboard_time": 1690853557,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186826,
+        "num": 186826,
+        "word": "iPhone ePhone",
+        "onboard_time": 1690852596,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183298,
+        "num": 183298,
+        "word": "LNG好好bp行吗",
+        "onboard_time": 1690884274,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182090,
+        "num": 182090,
+        "word": "中国女足迎来生死战",
+        "onboard_time": 1690888172,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175478,
+        "num": 175478,
+        "word": "北京首次动用1998年建成的滞洪水库蓄洪",
+        "onboard_time": 1690855955,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171293,
+        "num": 171293,
+        "word": "全力搜救失联被困人员",
+        "onboard_time": 1690867116,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 170125,
+        "num": 170125,
+        "word": "封神苏州路演",
+        "onboard_time": 1690881153,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170042,
+        "num": 170042,
+        "word": "大运会国乒女团vs日本女团",
+        "onboard_time": 1690886673,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛救灾工作作出重要指示#"
+    }
+  }
+}
