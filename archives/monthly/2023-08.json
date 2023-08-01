@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690866968292,
+  "endTime": 1690868047419,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -83,12 +83,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1381929,
+      "raw_hot": 1393300,
       "num": 1381929,
       "word": "北京首次动用1998年建成的滞洪水库蓄洪",
       "onboard_time": 1690855955,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1379993,
+      "num": 1379993,
+      "word": "黄晓明每天都收到303的视频",
+      "onboard_time": 1690864902,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1277709,
@@ -105,6 +113,14 @@
       "onboard_time": 1690812700,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1159645,
+      "num": 734962,
+      "word": "全力搜救失联被困人员",
+      "onboard_time": 1690867116,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1096196,
@@ -153,14 +169,6 @@
       "onboard_time": 1690813477,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 912263,
-      "num": 912263,
-      "word": "黄晓明每天都收到303的视频",
-      "onboard_time": 1690864902,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 892685,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 477050,
-      "num": 396848,
+      "num": 401376,
       "word": "芭比杜华",
       "onboard_time": 1690863940,
       "rank": 34,
@@ -795,11 +803,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277833,
-      "num": 277833,
+      "raw_hot": 278172,
+      "num": 278172,
       "word": "封神",
       "onboard_time": 1690866577,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 274013,
+      "num": 274013,
+      "word": "长相思弹幕互动量破亿",
+      "onboard_time": 1690866097,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -843,14 +859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245340,
-      "num": 245340,
-      "word": "长相思弹幕互动量破亿",
-      "onboard_time": 1690866097,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 236578,
       "num": 236578,
       "word": "卡努升级为超强台风",
@@ -865,6 +873,14 @@
       "onboard_time": 1690797453,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235596,
+      "num": 235596,
+      "word": "当我让我妹给我蒸个馒头",
+      "onboard_time": 1690867535,
+      "rank": 41,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 235167,
@@ -923,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218089,
+      "num": 218089,
+      "word": "张新成周雨彤牢中吻",
+      "onboard_time": 1690867657,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215555,
       "num": 215555,
       "word": "周迅最稳的语气说最狠的台词",
@@ -961,6 +985,14 @@
       "onboard_time": 1690865919,
       "rank": 39,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 190398,
+      "num": 190398,
+      "word": "北京消防员救灾中被洪水冲走殉职",
+      "onboard_time": 1690867895,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189946,
