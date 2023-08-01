@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/02 00:20:52 ~ 2023/08/02 04:17:37
+本榜单时间：2023/08/02 00:20:52 ~ 2023/08/02 04:34:10
 </p>
 </blockquote>
 <p>
@@ -369,14 +369,14 @@ ON泪洒赛场（热度：201526）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23lk99%23" target="weibo">
-lk99（热度：43854）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E6%B8%A9%E5%B8%B8%E5%8E%8B%E8%B6%85%E5%AF%BC%E9%A6%96%E8%A2%AB%E8%AF%81%E6%98%8E%E7%90%86%E8%AE%BA%E5%8F%AF%E8%A1%8C%23" target="weibo">
+常温常压超导首被证明理论可行（热度：44254）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E6%B8%A9%E5%B8%B8%E5%8E%8B%E8%B6%85%E5%AF%BC%E9%A6%96%E8%A2%AB%E8%AF%81%E6%98%8E%E7%90%86%E8%AE%BA%E5%8F%AF%E8%A1%8C%23" target="weibo">
-常温常压超导首被证明理论可行（热度：36187）
+<a href="https://s.weibo.com/weibo?q=%23lk99%23" target="weibo">
+lk99（热度：43854）
 </a>
 </li>
 

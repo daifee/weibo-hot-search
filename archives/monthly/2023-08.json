@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690921057842,
+  "endTime": 1690922050560,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -2675,6 +2675,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 44254,
+      "num": 44254,
+      "word": "常温常压超导首被证明理论可行",
+      "onboard_time": 1690916234,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 43854,
       "num": 43854,
       "word": "lk99",
@@ -2689,14 +2697,6 @@
       "onboard_time": 1690860634,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36187,
-      "num": 36187,
-      "word": "常温常压超导首被证明理论可行",
-      "onboard_time": 1690916234,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 30962,

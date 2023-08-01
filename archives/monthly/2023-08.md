@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/01 00:22:33 ~ 2023/08/02 04:17:37
+本榜单时间：2023/08/01 00:22:33 ~ 2023/08/02 04:34:10
 </p>
 </blockquote>
 <p>
@@ -2019,6 +2019,12 @@ shinyruo 明天播（热度：171002）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E6%B8%A9%E5%B8%B8%E5%8E%8B%E8%B6%85%E5%AF%BC%E9%A6%96%E8%A2%AB%E8%AF%81%E6%98%8E%E7%90%86%E8%AE%BA%E5%8F%AF%E8%A1%8C%23" target="weibo">
+常温常压超导首被证明理论可行（热度：44254）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23lk99%23" target="weibo">
 lk99（热度：43854）
 </a>
@@ -2027,12 +2033,6 @@ lk99（热度：43854）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%E6%A2%A6%E6%83%B3%E6%AD%A3%E5%BD%93%E7%87%83%23" target="weibo">
 青春主场梦想正当燃（热度：41603）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E6%B8%A9%E5%B8%B8%E5%8E%8B%E8%B6%85%E5%AF%BC%E9%A6%96%E8%A2%AB%E8%AF%81%E6%98%8E%E7%90%86%E8%AE%BA%E5%8F%AF%E8%A1%8C%23" target="weibo">
-常温常压超导首被证明理论可行（热度：36187）
 </a>
 </li>
 
