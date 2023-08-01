@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690857490145,
+  "endTime": 1690858042238,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -547,6 +547,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 983037,
+      "num": 421785,
+      "word": "北京首次动用1998年建成的滞洪水库蓄洪",
+      "onboard_time": 1690855955,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 980873,
       "num": 980873,
       "word": "豆瓣",
@@ -763,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 766662,
-      "num": 364158,
-      "word": "北京首次动用1998年建成的滞洪水库蓄洪",
-      "onboard_time": 1690855955,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 765468,
       "num": 765468,
       "word": "北京全市河道均在行洪",
@@ -785,6 +785,14 @@
       "onboard_time": 1690783173,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 758880,
+      "num": 758880,
+      "word": "张柏芝真的可以越素越美",
+      "onboard_time": 1690853373,
+      "rank": 27,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 753502,
@@ -873,14 +881,6 @@
       "onboard_time": 1690816419,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 686323,
-      "num": 686323,
-      "word": "张柏芝真的可以越素越美",
-      "onboard_time": 1690853373,
-      "rank": 27,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 676411,
@@ -1491,12 +1491,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 424690,
+      "num": 424690,
+      "word": "当狐狸得知小六是王姬时的反应",
+      "onboard_time": 1690857219,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424552,
       "num": 424552,
       "word": "巨齿鲨2吴京戏份",
       "onboard_time": 1690765594,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419957,
+      "num": 281081,
+      "word": "女子称回家发现陌生男在里面住了几天",
+      "onboard_time": 1690855834,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418742,
@@ -1507,11 +1523,11 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 412725,
-      "num": 281081,
-      "word": "女子称回家发现陌生男在里面住了几天",
-      "onboard_time": 1690855834,
-      "rank": 21,
+      "raw_hot": 415349,
+      "num": 279636,
+      "word": "涿州暴雨",
+      "onboard_time": 1690856075,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1635,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388369,
+      "num": 276675,
+      "word": "不用精修的明星",
+      "onboard_time": 1690856558,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386417,
       "num": 1206903,
       "word": "K396次Z180次列车受阻旅客安全转移",
@@ -1731,14 +1755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365777,
-      "num": 279636,
-      "word": "涿州暴雨",
-      "onboard_time": 1690856075,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361492,
       "num": 361492,
       "word": "Angelababy教贝克汉姆说中文",
@@ -1817,6 +1833,22 @@
       "onboard_time": 1690785094,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 349746,
+      "num": 257101,
+      "word": "北京顶奢酒店被暴雨冲走了",
+      "onboard_time": 1690857696,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348523,
+      "num": 257340,
+      "word": "发现离职时都会穿的很漂亮",
+      "onboard_time": 1690856854,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 344465,
@@ -1969,14 +2001,6 @@
       "onboard_time": 1690792830,
       "rank": 27,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 312264,
-      "num": 276675,
-      "word": "不用精修的明星",
-      "onboard_time": 1690856558,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 309970,
@@ -2331,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256994,
+      "num": 256994,
+      "word": "四大浓颜系男星",
+      "onboard_time": 1690857696,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256881,
       "num": 256881,
       "word": "伯邑考 白月光",
@@ -2401,14 +2433,6 @@
       "onboard_time": 1690830074,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243081,
-      "num": 237980,
-      "word": "当狐狸得知小六是王姬时的反应",
-      "onboard_time": 1690857219,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 240877,
@@ -2547,14 +2571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219627,
-      "num": 219627,
-      "word": "发现离职时都会穿的很漂亮",
-      "onboard_time": 1690856854,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218004,
       "num": 218004,
       "word": "台风卡努",
@@ -2600,6 +2616,14 @@
       "word": "莲花楼导演好会选角",
       "onboard_time": 1690788452,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211350,
+      "num": 211350,
+      "word": "颖儿拍20天戏写20天日记",
+      "onboard_time": 1690857878,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -2883,20 +2907,20 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 165587,
+      "num": 165587,
+      "word": "感觉时间变得比以前快了",
+      "onboard_time": 1690857275,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 164203,
       "num": 141890,
       "word": "钟汉良上海演唱会",
       "onboard_time": 1690730613,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 163323,
-      "num": 163323,
-      "word": "感觉时间变得比以前快了",
-      "onboard_time": 1690857275,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 161091,
@@ -2913,6 +2937,14 @@
       "onboard_time": 1690807893,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 160464,
+      "num": 160464,
+      "word": "独家童话",
+      "onboard_time": 1690857996,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 159903,
@@ -3083,6 +3115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118809,
+      "num": 157164,
+      "word": "女足世界杯",
+      "onboard_time": 1690857097,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117163,
       "num": 123492,
       "word": "大概是见过最花哨的应援",
@@ -3177,14 +3217,6 @@
       "onboard_time": 1690734688,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91834,
-      "num": 151945,
-      "word": "女足世界杯",
-      "onboard_time": 1690857097,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 87525,
