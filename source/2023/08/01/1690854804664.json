@@ -1,0 +1,410 @@
+{
+  "runTime": 1690854804664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2444161,
+        "num": 2444161,
+        "word": "iPhone ePhone",
+        "onboard_time": 1690852596,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1455587,
+        "num": 1455587,
+        "word": "小猫咪35岁了可太值得炫耀了吧",
+        "onboard_time": 1690852955,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 254487,
+        "num": 1087324,
+        "word": "4架陆航直升机赴门头沟地区执行空投转运任务",
+        "onboard_time": 1690853132,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1802849,
+        "num": 1033704,
+        "word": "李玟大殓出殡",
+        "onboard_time": 1690853557,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1669188,
+        "num": 970389,
+        "word": "王楚然方回应",
+        "onboard_time": 1690816715,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 892685,
+        "num": 892685,
+        "word": "北京暴雨",
+        "onboard_time": 1690849237,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064049,
+        "num": 769517,
+        "word": "长相思群演的工资",
+        "onboard_time": 1690847854,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 608576,
+        "num": 608576,
+        "word": "北师大教授评黄渤王一博电影热烈",
+        "onboard_time": 1690845685,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515465,
+        "num": 515465,
+        "word": "台风卡努或将转向",
+        "onboard_time": 1690842137,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452949,
+        "num": 452949,
+        "word": "庆祝解放军建军96周年",
+        "onboard_time": 1690846168,
+        "rank": 9,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 1247913,
+        "num": 452915,
+        "word": "法国网红爬中国香港68楼天台后坠亡",
+        "onboard_time": 1690853794,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 687425,
+        "num": 451874,
+        "word": "涿州",
+        "onboard_time": 1690850557,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571857,
+        "num": 451260,
+        "word": "中彩票哪有不疯的",
+        "onboard_time": 1690849717,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 477156,
+        "num": 450670,
+        "word": "故宫辟谣600年不积水",
+        "onboard_time": 1690816057,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 449965,
+        "num": 449965,
+        "word": "就该叫相柳大人",
+        "onboard_time": 1690849957,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375480,
+        "num": 375480,
+        "word": "去年砸1600万开影院的男子怎样了",
+        "onboard_time": 1690812998,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366281,
+        "num": 366281,
+        "word": "妲己封神第二部造型",
+        "onboard_time": 1690816419,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347853,
+        "num": 347853,
+        "word": "建军节",
+        "onboard_time": 1690819354,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346804,
+        "num": 346804,
+        "word": "Angelababy教贝克汉姆说中文",
+        "onboard_time": 1690853734,
+        "rank": 18,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 341069,
+        "num": 341069,
+        "word": "亢奋费斯科演员去世",
+        "onboard_time": 1690845505,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 592494,
+        "num": 339821,
+        "word": "张柏芝真的可以越素越美",
+        "onboard_time": 1690853373,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 538488,
+        "num": 338321,
+        "word": "过于频繁洗手后的变化",
+        "onboard_time": 1690847251,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 518269,
+        "num": 337258,
+        "word": "四川一公职人员被曝涉不雅聊天",
+        "onboard_time": 1690813477,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395966,
+        "num": 335093,
+        "word": "长相思第二季还能爆吗",
+        "onboard_time": 1690848274,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386836,
+        "num": 332185,
+        "word": "姑娘想抄底买下二手房结果一年亏百万",
+        "onboard_time": 1690847251,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 375724,
+        "num": 330958,
+        "word": "导演调侃吴宣仪要美一点",
+        "onboard_time": 1690849777,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368085,
+        "num": 329177,
+        "word": "离职同事在电脑里留给我的暗示",
+        "onboard_time": 1690847251,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 328299,
+        "num": 328299,
+        "word": "李现说感谢父母穷养",
+        "onboard_time": 1690848456,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325572,
+        "num": 325572,
+        "word": "老师你看烂泥扶上墙了",
+        "onboard_time": 1690847615,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289016,
+        "num": 323756,
+        "word": "4架陆航直升机赴门头沟开展空投救援",
+        "onboard_time": 1690853016,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323300,
+        "num": 323300,
+        "word": "八月长安",
+        "onboard_time": 1690846350,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319960,
+        "num": 319960,
+        "word": "少吃以后最明显的变化",
+        "onboard_time": 1690847854,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305919,
+        "num": 305919,
+        "word": "杨立新杨玏封神真父子",
+        "onboard_time": 1690854573,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291031,
+        "num": 291031,
+        "word": "齐葩地下恋情被发现",
+        "onboard_time": 1690849717,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269641,
+        "num": 269641,
+        "word": "成灿 门面",
+        "onboard_time": 1690850136,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267748,
+        "num": 267748,
+        "word": "门头沟",
+        "onboard_time": 1690845989,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253298,
+        "num": 253298,
+        "word": "猫咬电线被炸成小糊脸",
+        "onboard_time": 1690848397,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240236,
+        "num": 240236,
+        "word": "女子吐槽丈夫在新家装100多个插座",
+        "onboard_time": 1690844723,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 235167,
+        "num": 235167,
+        "word": "新兵入伍前后对比",
+        "onboard_time": 1690854334,
+        "rank": 38,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 230653,
+        "num": 230653,
+        "word": "8月份十二星座的注意事项",
+        "onboard_time": 1690821386,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 224126,
+        "num": 224126,
+        "word": "口碑好的明星",
+        "onboard_time": 1690854455,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203018,
+        "num": 203018,
+        "word": "00后上班这么勇的吗",
+        "onboard_time": 1690842076,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 198406,
+        "num": 198406,
+        "word": "SMTOWN新男团公开",
+        "onboard_time": 1690819113,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193809,
+        "num": 193809,
+        "word": "夭璟名场面来了",
+        "onboard_time": 1690841356,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190875,
+        "num": 190875,
+        "word": "八一建军节主题片无畏",
+        "onboard_time": 1690851759,
+        "rank": 44,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 190342,
+        "num": 190342,
+        "word": "射手座真的不是冷漠的人",
+        "onboard_time": 1690820729,
+        "rank": 45,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 182912,
+        "num": 182912,
+        "word": "云南地震",
+        "onboard_time": 1690845324,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180402,
+        "num": 180402,
+        "word": "汉文帝霸陵殉葬坑发现大熊猫骨骼",
+        "onboard_time": 1690812757,
+        "rank": 47,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 131942,
+        "num": 169183,
+        "word": "内马尔",
+        "onboard_time": 1690830074,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85763,
+        "num": 167108,
+        "word": "在成都的外国运动员跳广场舞吃串串香",
+        "onboard_time": 1690810596,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委晋升上将军衔仪式在京举行#"
+    }
+  }
+}

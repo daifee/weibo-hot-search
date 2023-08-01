@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690853987186,
+  "endTime": 1690854804664,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1645266,
-      "num": 1645266,
+      "raw_hot": 2444161,
+      "num": 2444161,
       "word": "iPhone ePhone",
       "onboard_time": 1690852596,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1802849,
+      "num": 1038808,
+      "word": "李玟大殓出殡",
+      "onboard_time": 1690853557,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1455587,
+      "num": 1455587,
+      "word": "小猫咪35岁了可太值得炫耀了吧",
+      "onboard_time": 1690852955,
+      "rank": 12,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1277709,
@@ -27,19 +43,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1247913,
+      "num": 452915,
+      "word": "法国网红爬中国香港68楼天台后坠亡",
+      "onboard_time": 1690853794,
+      "rank": 30,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1214974,
       "num": 844541,
       "word": "李玟二姐哭喊他害死了我妹妹",
       "onboard_time": 1690812700,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1038808,
-      "num": 1038808,
-      "word": "李玟大殓出殡",
-      "onboard_time": 1690853557,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -67,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 856207,
-      "num": 856207,
+      "raw_hot": 892685,
+      "num": 892685,
       "word": "北京暴雨",
       "onboard_time": 1690849237,
       "rank": 5,
@@ -163,20 +179,20 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 559907,
+      "raw_hot": 592494,
+      "num": 356536,
+      "word": "张柏芝真的可以越素越美",
+      "onboard_time": 1690853373,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 571857,
       "num": 559907,
       "word": "中彩票哪有不疯的",
       "onboard_time": 1690849717,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 558000,
-      "num": 558000,
-      "word": "小猫咪35岁了可太值得炫耀了吧",
-      "onboard_time": 1690852955,
-      "rank": 12,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 556427,
@@ -355,20 +371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 356536,
-      "num": 356536,
-      "word": "张柏芝真的可以越素越美",
-      "onboard_time": 1690853373,
-      "rank": 27,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 345449,
-      "num": 339718,
-      "word": "法国网红爬中国香港68楼天台后坠亡",
-      "onboard_time": 1690853794,
-      "rank": 30,
-      "category": "社会新闻,网红"
+      "raw_hot": 346804,
+      "num": 346804,
+      "word": "Angelababy教贝克汉姆说中文",
+      "onboard_time": 1690853734,
+      "rank": 36,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 344465,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305919,
+      "num": 305919,
+      "word": "杨立新杨玏封神真父子",
+      "onboard_time": 1690854573,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295167,
       "num": 236109,
       "word": "萧亚轩在李玟追悼会痛哭",
@@ -451,6 +467,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 291031,
+      "num": 291031,
+      "word": "齐葩地下恋情被发现",
+      "onboard_time": 1690849717,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290541,
       "num": 225275,
       "word": "00后上班这么勇的吗",
@@ -459,15 +483,7 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 279531,
-      "num": 279531,
-      "word": "齐葩地下恋情被发现",
-      "onboard_time": 1690849717,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 275009,
+      "raw_hot": 289016,
       "num": 340213,
       "word": "4架陆航直升机赴门头沟开展空投救援",
       "onboard_time": 1690853016,
@@ -491,12 +507,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 252437,
-      "num": 252437,
-      "word": "Angelababy教贝克汉姆说中文",
-      "onboard_time": 1690853734,
-      "rank": 36,
-      "category": "艺人,艺人"
+      "raw_hot": 254487,
+      "num": 1422188,
+      "word": "4架陆航直升机赴门头沟地区执行空投转运任务",
+      "onboard_time": 1690853132,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250275,
@@ -531,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235167,
+      "num": 235167,
+      "word": "新兵入伍前后对比",
+      "onboard_time": 1690854334,
+      "rank": 38,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 231576,
       "num": 231576,
       "word": "RIIZE",
@@ -545,6 +569,14 @@
       "onboard_time": 1690817378,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224126,
+      "num": 224126,
+      "word": "口碑好的明星",
+      "onboard_time": 1690854455,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 220972,
@@ -649,14 +681,6 @@
       "onboard_time": 1690794813,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 174322,
-      "num": 1422188,
-      "word": "4架陆航直升机赴门头沟地区执行空投转运任务",
-      "onboard_time": 1690853132,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171002,

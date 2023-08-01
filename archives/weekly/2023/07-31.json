@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690853987186,
+  "endTime": 1690854804664,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -49,6 +49,14 @@
       "onboard_time": 1690776636,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2444161,
+      "num": 2444161,
+      "word": "iPhone ePhone",
+      "onboard_time": 1690852596,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 2384209,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1802849,
+      "num": 1038808,
+      "word": "李玟大殓出殡",
+      "onboard_time": 1690853557,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1787941,
       "num": 1787941,
       "word": "青簪行",
@@ -161,14 +177,6 @@
       "onboard_time": 1690794032,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1645266,
-      "num": 1645266,
-      "word": "iPhone ePhone",
-      "onboard_time": 1690852596,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1633951,
@@ -265,6 +273,14 @@
       "onboard_time": 1690775013,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1455587,
+      "num": 1455587,
+      "word": "小猫咪35岁了可太值得炫耀了吧",
+      "onboard_time": 1690852955,
+      "rank": 12,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1454070,
@@ -387,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1247913,
+      "num": 452915,
+      "word": "法国网红爬中国香港68楼天台后坠亡",
+      "onboard_time": 1690853794,
+      "rank": 30,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1240133,
       "num": 1240133,
       "word": "papi酱melody加盟再见爱人3",
@@ -473,14 +497,6 @@
       "onboard_time": 1690763915,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1038808,
-      "num": 1038808,
-      "word": "李玟大殓出殡",
-      "onboard_time": 1690853557,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1025098,
@@ -587,6 +603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 892685,
+      "num": 892685,
+      "word": "北京暴雨",
+      "onboard_time": 1690773452,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 888538,
       "num": 833006,
       "word": "提名内娱最自律的艺人",
@@ -625,14 +649,6 @@
       "onboard_time": 1690811893,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 856207,
-      "num": 856207,
-      "word": "北京暴雨",
-      "onboard_time": 1690773452,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 853181,
@@ -1011,6 +1027,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 592494,
+      "num": 356536,
+      "word": "张柏芝真的可以越素越美",
+      "onboard_time": 1690853373,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 588211,
       "num": 588211,
       "word": "鹿晗帮粉丝成功请假",
@@ -1059,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 571857,
+      "num": 559907,
+      "word": "中彩票哪有不疯的",
+      "onboard_time": 1690849717,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 565191,
       "num": 338313,
       "word": "张晚意邓为檀健次涨粉量",
@@ -1075,28 +1107,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 559907,
-      "num": 559907,
-      "word": "中彩票哪有不疯的",
-      "onboard_time": 1690849717,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 558754,
       "num": 558754,
       "word": "台风吹来的遍地生蚝能不能吃",
       "onboard_time": 1690765891,
       "rank": 24,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 558000,
-      "num": 558000,
-      "word": "小猫咪35岁了可太值得炫耀了吧",
-      "onboard_time": 1690852955,
-      "rank": 12,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 556427,
@@ -1699,14 +1715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 356536,
-      "num": 356536,
-      "word": "张柏芝真的可以越素越美",
-      "onboard_time": 1690853373,
-      "rank": 27,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 355787,
       "num": 355787,
       "word": "台风卡努恰逢农历天文大潮",
@@ -1747,12 +1755,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 345449,
-      "num": 339718,
-      "word": "法国网红爬中国香港68楼天台后坠亡",
-      "onboard_time": 1690853794,
-      "rank": 30,
-      "category": "社会新闻,网红"
+      "raw_hot": 346804,
+      "num": 346804,
+      "word": "Angelababy教贝克汉姆说中文",
+      "onboard_time": 1690853734,
+      "rank": 36,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 344465,
@@ -1947,6 +1955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305919,
+      "num": 305919,
+      "word": "杨立新杨玏封神真父子",
+      "onboard_time": 1690854573,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304643,
       "num": 304643,
       "word": "杨紫被檀健次戳中笑点",
@@ -2035,12 +2051,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291031,
+      "num": 291031,
+      "word": "齐葩地下恋情被发现",
+      "onboard_time": 1690849717,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290541,
       "num": 225275,
       "word": "00后上班这么勇的吗",
       "onboard_time": 1690842076,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 289016,
+      "num": 340213,
+      "word": "4架陆航直升机赴门头沟开展空投救援",
+      "onboard_time": 1690853016,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288759,
@@ -2067,28 +2099,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 279531,
-      "num": 279531,
-      "word": "齐葩地下恋情被发现",
-      "onboard_time": 1690849717,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 278777,
       "num": 278777,
       "word": "当我跟爸妈说不想干了",
       "onboard_time": 1690768412,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 275009,
-      "num": 340213,
-      "word": "4架陆航直升机赴门头沟开展空投救援",
-      "onboard_time": 1690853016,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274330,
@@ -2283,20 +2299,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 254487,
+      "num": 1422188,
+      "word": "4架陆航直升机赴门头沟地区执行空投转运任务",
+      "onboard_time": 1690853132,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253534,
       "num": 276779,
       "word": "北京各区蓝天救援队电话汇总",
       "onboard_time": 1690812036,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252437,
-      "num": 252437,
-      "word": "Angelababy教贝克汉姆说中文",
-      "onboard_time": 1690853734,
-      "rank": 36,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 247833,
@@ -2345,6 +2361,14 @@
       "onboard_time": 1690803332,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235167,
+      "num": 235167,
+      "word": "新兵入伍前后对比",
+      "onboard_time": 1690854334,
+      "rank": 38,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 234927,
@@ -2409,6 +2433,14 @@
       "onboard_time": 1690782573,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224126,
+      "num": 224126,
+      "word": "口碑好的明星",
+      "onboard_time": 1690854455,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 223776,
@@ -2737,14 +2769,6 @@
       "onboard_time": 1690818514,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 174322,
-      "num": 1422188,
-      "word": "4架陆航直升机赴门头沟地区执行空投转运任务",
-      "onboard_time": 1690853132,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173039,
