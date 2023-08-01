@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690914062618,
+  "endTime": 1690914852312,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -4923,20 +4923,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58942,
+      "num": 58942,
+      "word": "河北涿州救援力量薄弱",
+      "onboard_time": 1690913717,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57920,
       "num": 57920,
       "word": "建军节致敬中国军人",
       "onboard_time": 1690827078,
       "rank": 34,
       "category": "军事"
-    },
-    {
-      "raw_hot": 44923,
-      "num": 44923,
-      "word": "河北涿州救援力量薄弱",
-      "onboard_time": 1690913717,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44262,
