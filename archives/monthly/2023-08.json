@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690894189876,
+  "endTime": 1690896025829,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -51,6 +51,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2298843,
+      "num": 948127,
+      "word": "女婴心脏扎进一根4厘米绣花针",
+      "onboard_time": 1690890871,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2295727,
       "num": 2295727,
       "word": "荀彧造型有点失望",
@@ -67,20 +75,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 2086344,
-      "num": 669963,
-      "word": "女婴心脏扎进一根4厘米绣花针",
-      "onboard_time": 1690890871,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2062460,
       "num": 1630666,
       "word": "路温吐槽孟宴臣",
       "onboard_time": 1690855416,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1985170,
+      "num": 1985170,
+      "word": "中国女足1比6英格兰女足",
+      "onboard_time": 1690895497,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1829605,
@@ -131,6 +139,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1611835,
+      "num": 1611835,
+      "word": "王霜破门",
+      "onboard_time": 1690892973,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1587256,
+      "num": 1587256,
+      "word": "中国女足vs英格兰女足",
+      "onboard_time": 1690886194,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1586323,
       "num": 1586323,
       "word": "中国女足半场0比3英格兰女足",
@@ -161,14 +185,6 @@
       "onboard_time": 1690855955,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1381840,
-      "num": 1381840,
-      "word": "王霜破门",
-      "onboard_time": 1690892973,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 1380406,
@@ -227,6 +243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1197771,
+      "num": 1197771,
+      "word": "河北涿州急需大量船只转移群众",
+      "onboard_time": 1690887754,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1135281,
+      "num": 1135281,
+      "word": "刘畊宏给看完封神的老婆发的照片",
+      "onboard_time": 1690894114,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1125332,
       "num": 1125332,
       "word": "河北强降雨已致9人遇难6人失联",
@@ -275,22 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1058405,
-      "num": 1058405,
-      "word": "河北涿州急需大量船只转移群众",
-      "onboard_time": 1690887754,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1040537,
-      "num": 1040537,
-      "word": "中国女足vs英格兰女足",
-      "onboard_time": 1690886194,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1025098,
       "num": 1025098,
       "word": "台风卡努或将转向",
@@ -313,6 +329,14 @@
       "onboard_time": 1690884093,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 968827,
+      "num": 968827,
+      "word": "LNG战胜BLG",
+      "onboard_time": 1690894356,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 941086,
@@ -387,6 +411,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 834703,
+      "num": 834703,
+      "word": "小夭吻得好主动",
+      "onboard_time": 1690894899,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 830631,
+      "num": 408735,
+      "word": "失业三天被妈妈说了三次",
+      "onboard_time": 1690893216,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 814224,
       "num": 814224,
       "word": "去年砸1600万开影院的男子怎样了",
@@ -401,6 +441,14 @@
       "onboard_time": 1690819113,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 793121,
+      "num": 687119,
+      "word": "长相思 谁是我的新郎",
+      "onboard_time": 1690892011,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 775936,
@@ -419,8 +467,16 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 757676,
+      "num": 757676,
+      "word": "莲花楼",
+      "onboard_time": 1690894477,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 756706,
-      "num": 272577,
+      "num": 368178,
       "word": "中国女足扳回1球",
       "onboard_time": 1690893394,
       "rank": 30,
@@ -627,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 606166,
-      "num": 606166,
-      "word": "长相思 谁是我的新郎",
-      "onboard_time": 1690892011,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 596116,
       "num": 371247,
       "word": "过于频繁洗手后的变化",
@@ -681,14 +729,6 @@
       "onboard_time": 1690888833,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 576654,
-      "num": 408735,
-      "word": "失业三天被妈妈说了三次",
-      "onboard_time": 1690893216,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 574573,
@@ -867,12 +907,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 481429,
+      "num": 481429,
+      "word": "向佐郭碧婷带娃逛迪士尼",
+      "onboard_time": 1690895618,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479998,
       "num": 479998,
       "word": "四大浓颜系男星",
       "onboard_time": 1690857696,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 479407,
+      "num": 237088,
+      "word": "河北泄洪",
+      "onboard_time": 1690894899,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477050,
@@ -1067,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387830,
+      "num": 387830,
+      "word": "吴世勋上身身材",
+      "onboard_time": 1690894417,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 387171,
       "num": 387171,
       "word": "泄洪",
@@ -1115,6 +1179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 372413,
+      "num": 372413,
+      "word": "待产孕妇在声声鼓励中登上冲锋舟",
+      "onboard_time": 1690894295,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371315,
       "num": 371315,
       "word": "独家童话",
@@ -1139,6 +1211,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 360428,
+      "num": 360428,
+      "word": "真正的詹皇 劳伦詹姆斯",
+      "onboard_time": 1690893694,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359793,
       "num": 236215,
       "word": "相柳说涂山家的狐狸真没用",
@@ -1153,6 +1233,14 @@
       "onboard_time": 1690884274,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 355876,
+      "num": 355876,
+      "word": "中国游泳队成都大运会首金",
+      "onboard_time": 1690893274,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 349810,
@@ -1217,6 +1305,14 @@
       "onboard_time": 1690862439,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330074,
+      "num": 330074,
+      "word": "前几天才知道楼下那只橘猫死了",
+      "onboard_time": 1690895137,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 324935,
@@ -1451,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266922,
+      "num": 266922,
+      "word": "姬发做质子的八年伯邑考在干什么",
+      "onboard_time": 1690892856,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264273,
       "num": 264273,
       "word": "赵丽颖8月行程",
@@ -1467,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263047,
+      "num": 263047,
+      "word": "中国女足小组出局",
+      "onboard_time": 1690895976,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262474,
       "num": 262474,
       "word": "涿州被洪水围困小区居民发声",
@@ -1475,20 +1587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258141,
-      "num": 258141,
-      "word": "姬发做质子的八年伯邑考在干什么",
-      "onboard_time": 1690892856,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 256865,
       "num": 256865,
       "word": "张新成周雨彤牢中吻",
       "onboard_time": 1690867657,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256647,
+      "num": 256647,
+      "word": "感谢老天送我一个情绪稳定的女儿",
+      "onboard_time": 1690895317,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 255155,
@@ -1547,19 +1659,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246798,
+      "num": 246798,
+      "word": "RedVelvet将发新歌",
+      "onboard_time": 1690893996,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 246269,
       "num": 246269,
       "word": "内马尔",
       "onboard_time": 1690830074,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 245656,
-      "num": 245656,
-      "word": "中国游泳队成都大运会首金",
-      "onboard_time": 1690893274,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1577,6 +1689,14 @@
       "onboard_time": 1690877490,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238111,
+      "num": 238111,
+      "word": "越南女足0比7荷兰女足",
+      "onboard_time": 1690894657,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 237175,
@@ -1619,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235392,
+      "num": 235392,
+      "word": "长相思刚喜欢上的男人变成了我姐",
+      "onboard_time": 1690895857,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235167,
       "num": 235167,
       "word": "新兵入伍前后对比",
@@ -1651,14 +1779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231192,
-      "num": 231192,
-      "word": "真正的詹皇 劳伦詹姆斯",
-      "onboard_time": 1690893694,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 230862,
       "num": 230862,
       "word": "于适杭州路演去不去",
@@ -1675,14 +1795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228552,
-      "num": 228552,
-      "word": "刘畊宏给看完封神的老婆发的照片",
-      "onboard_time": 1690894114,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 224126,
       "num": 224126,
       "word": "口碑好的明星",
@@ -1697,6 +1809,14 @@
       "onboard_time": 1690851759,
       "rank": 40,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 219114,
+      "num": 219114,
+      "word": "冒泡赛",
+      "onboard_time": 1690895618,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 218512,
@@ -1740,7 +1860,7 @@
     },
     {
       "raw_hot": 210816,
-      "num": 210816,
+      "num": 235277,
       "word": "山西蓝天救援队解救涿州被困群众",
       "onboard_time": 1690892432,
       "rank": 43,
@@ -1817,14 +1937,6 @@
       "onboard_time": 1690858897,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200184,
-      "num": 200184,
-      "word": "RedVelvet将发新歌",
-      "onboard_time": 1690893996,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 198183,
@@ -2217,6 +2329,14 @@
       "onboard_time": 1690827078,
       "rank": 34,
       "category": "军事"
+    },
+    {
+      "raw_hot": 53247,
+      "num": 1594262,
+      "word": "致敬那些暴雨中的逆行者",
+      "onboard_time": 1690895434,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41603,
