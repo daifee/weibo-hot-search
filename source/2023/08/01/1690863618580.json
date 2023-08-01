@@ -1,0 +1,410 @@
+{
+  "runTime": 1690863618580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2031692,
+        "num": 2031692,
+        "word": "小猫咪35岁了可太值得炫耀了吧",
+        "onboard_time": 1690852955,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1964534,
+        "num": 1964534,
+        "word": "王楚然方发动图证明没P图",
+        "onboard_time": 1690860035,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38981,
+        "num": 1440294,
+        "word": "青春主场梦想正当燃",
+        "onboard_time": 1690860634,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3233719,
+        "num": 1433593,
+        "word": "北京此轮强降雨已致11人遇难",
+        "onboard_time": 1690861719,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1298032,
+        "num": 1298032,
+        "word": "路温吐槽孟宴臣",
+        "onboard_time": 1690855416,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1587442,
+        "num": 1282050,
+        "word": "李玟大殓出殡",
+        "onboard_time": 1690853557,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1204775,
+        "num": 1204775,
+        "word": "北京首次动用1998年建成的滞洪水库蓄洪",
+        "onboard_time": 1690855955,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921462,
+        "num": 921462,
+        "word": "法国网红爬中国香港68楼天台后坠亡",
+        "onboard_time": 1690853794,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 904007,
+        "num": 904007,
+        "word": "工作人员称涿州救援难度大",
+        "onboard_time": 1690858177,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1698347,
+        "num": 903964,
+        "word": "iPhone ePhone",
+        "onboard_time": 1690852596,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2693871,
+        "num": 903279,
+        "word": "北京顶奢酒店被暴雨冲走了",
+        "onboard_time": 1690857696,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786629,
+        "num": 786629,
+        "word": "当狐狸得知小六是王姬时的反应",
+        "onboard_time": 1690857219,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 653836,
+        "num": 653836,
+        "word": "王楚然方回应",
+        "onboard_time": 1690816715,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1135296,
+        "num": 651295,
+        "word": "北京2人在抢险救灾中因公殉职",
+        "onboard_time": 1690862380,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642971,
+        "num": 642971,
+        "word": "涿州暴雨",
+        "onboard_time": 1690856075,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607251,
+        "num": 607251,
+        "word": "甄妮",
+        "onboard_time": 1690861719,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555661,
+        "num": 555661,
+        "word": "于适 天选姬发",
+        "onboard_time": 1690858538,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 543760,
+        "num": 543760,
+        "word": "颖儿拍20天戏写20天日记",
+        "onboard_time": 1690857878,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506880,
+        "num": 506880,
+        "word": "北京暴雨",
+        "onboard_time": 1690849237,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483825,
+        "num": 483825,
+        "word": "张晚意檀健次名字的由来",
+        "onboard_time": 1690858296,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 509822,
+        "num": 470255,
+        "word": "老公执意要在门上面做柜子",
+        "onboard_time": 1690857520,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 429875,
+        "num": 429875,
+        "word": "四大浓颜系男星",
+        "onboard_time": 1690857696,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423314,
+        "num": 423314,
+        "word": "发现离职时都会穿的很漂亮",
+        "onboard_time": 1690856854,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417700,
+        "num": 417700,
+        "word": "伍佰广州",
+        "onboard_time": 1690863281,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 360432,
+        "num": 360432,
+        "word": "为什么酒店都是12点前退房",
+        "onboard_time": 1690855592,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357701,
+        "num": 357701,
+        "word": "涿州",
+        "onboard_time": 1690850557,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345924,
+        "num": 345924,
+        "word": "张柏芝真的可以越素越美",
+        "onboard_time": 1690853373,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 333081,
+        "num": 333081,
+        "word": "杨立新杨玏封神真父子",
+        "onboard_time": 1690854573,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331567,
+        "num": 331567,
+        "word": "文俊辉和成员们一起看独家童话的反应",
+        "onboard_time": 1690858118,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320131,
+        "num": 320131,
+        "word": "过于频繁洗手后的变化",
+        "onboard_time": 1690847251,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 419677,
+        "num": 313423,
+        "word": "李玟老公及继女未参加出殡仪式",
+        "onboard_time": 1690863341,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298100,
+        "num": 298100,
+        "word": "莲花楼片头曲好有江湖味",
+        "onboard_time": 1690862079,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273149,
+        "num": 273149,
+        "word": "姑娘想抄底买下二手房结果一年亏百万",
+        "onboard_time": 1690847251,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 270930,
+        "num": 270930,
+        "word": "台风",
+        "onboard_time": 1690862439,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268684,
+        "num": 268684,
+        "word": "老师你看烂泥扶上墙了",
+        "onboard_time": 1690847615,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236463,
+        "num": 236463,
+        "word": "王鹤棣出发西安录综艺",
+        "onboard_time": 1690858716,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231809,
+        "num": 231809,
+        "word": "不用精修的明星",
+        "onboard_time": 1690856558,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218788,
+        "num": 218788,
+        "word": "魏大勋巴黎欧莱雅",
+        "onboard_time": 1690863462,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 218461,
+        "num": 218461,
+        "word": "四川一公职人员被曝涉不雅聊天",
+        "onboard_time": 1690813477,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217747,
+        "num": 217747,
+        "word": "时代少年团不官宣演唱会吗",
+        "onboard_time": 1690854936,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202769,
+        "num": 202769,
+        "word": "涿州泄洪",
+        "onboard_time": 1690863401,
+        "rank": 40,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 202407,
+        "num": 202407,
+        "word": "中彩票哪有不疯的",
+        "onboard_time": 1690849717,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196205,
+        "num": 196205,
+        "word": "吴京烤串一看就没少练",
+        "onboard_time": 1690863341,
+        "rank": 42,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 194750,
+        "num": 194750,
+        "word": "离职同事在电脑里留给我的暗示",
+        "onboard_time": 1690847251,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 191539,
+        "num": 191539,
+        "word": "长相思第二季还能爆吗",
+        "onboard_time": 1690848274,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187390,
+        "num": 187390,
+        "word": "女子称回家发现陌生男在里面住了几天",
+        "onboard_time": 1690855834,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189579,
+        "num": 183681,
+        "word": "张晚意谈与杨紫合作",
+        "onboard_time": 1690863582,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179436,
+        "num": 179436,
+        "word": "齐葩地下恋情被发现",
+        "onboard_time": 1690849717,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174667,
+        "num": 174667,
+        "word": "ePhone已被注册商标",
+        "onboard_time": 1690860996,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170953,
+        "num": 170953,
+        "word": "百香果话梅冰粉",
+        "onboard_time": 1690861358,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家发改委恢复和扩大消费二十条措施#"
+    }
+  }
+}
