@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690910107515,
+  "endTime": 1690911240849,
   "band_list": [
     {
       "raw_hot": 1058749,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 576901,
+      "num": 576901,
+      "word": "台风卡努抵近日本冲绳",
+      "onboard_time": 1690908269,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547074,
       "num": 547074,
       "word": "中图网库房被淹近百人被困",
@@ -121,14 +129,6 @@
       "onboard_time": 1690895317,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 442522,
-      "num": 278668,
-      "word": "台风卡努抵近日本冲绳",
-      "onboard_time": 1690908269,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417744,
@@ -235,7 +235,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257093,
+      "raw_hot": 261040,
       "num": 181988,
       "word": "檀健次天选相柳",
       "onboard_time": 1690909044,
@@ -339,7 +339,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182936,
+      "raw_hot": 190652,
       "num": 182936,
       "word": "青提茉莉大战桃桃乌龙",
       "onboard_time": 1690907309,
@@ -451,7 +451,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7122,
+      "raw_hot": 14401,
       "num": 422037,
       "word": "暴雨天气10个安全指南",
       "onboard_time": 1690895137,
