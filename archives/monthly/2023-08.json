@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690904048265,
+  "endTime": 1690906852457,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -425,6 +425,14 @@
       "onboard_time": 1690816298,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 929187,
+      "num": 782840,
+      "word": "CoCo 走好",
+      "onboard_time": 1690903537,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 917159,
@@ -891,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 560538,
+      "num": 519319,
+      "word": "涿州目前全域停水部分停电",
+      "onboard_time": 1690905275,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556427,
       "num": 556427,
       "word": "就该叫相柳大人",
@@ -929,14 +945,6 @@
       "onboard_time": 1690869157,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536051,
-      "num": 536051,
-      "word": "CoCo 走好",
-      "onboard_time": 1690903537,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 527917,
@@ -1107,6 +1115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 472412,
+      "num": 472412,
+      "word": "女孩天生神力靠听就能鉴别谎言",
+      "onboard_time": 1690904316,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 471998,
       "num": 471998,
       "word": "何超莲说偶像剧都不敢这么拍",
@@ -1152,6 +1168,14 @@
       "word": "长相思第二季还能爆吗",
       "onboard_time": 1690848274,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 454699,
+      "num": 454699,
+      "word": "相柳得知小夭真实身份",
+      "onboard_time": 1690900059,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1531,6 +1555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323347,
+      "num": 323347,
+      "word": "鼻尖吻是迪丽热巴龚俊现场琢磨的",
+      "onboard_time": 1690903896,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318154,
       "num": 318154,
       "word": "小夭的三个男人乐子真多",
@@ -1843,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252363,
-      "num": 252363,
-      "word": "相柳得知小夭真实身份",
-      "onboard_time": 1690900059,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 251309,
       "num": 251309,
       "word": "不要这么安慰焦虑的人",
@@ -2075,6 +2099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214015,
+      "num": 214015,
+      "word": "起猛了没想到相差46岁的友谊这么治愈",
+      "onboard_time": 1690903416,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213196,
       "num": 213196,
       "word": "直击河北涿州大马村救援现场",
@@ -2283,6 +2315,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 177784,
+      "num": 177784,
+      "word": "杨丞琳晒4inlove合照",
+      "onboard_time": 1690905631,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177065,
       "num": 201657,
       "word": "中国男篮小组赛三战全败",
@@ -2312,14 +2352,6 @@
       "word": "热烈",
       "onboard_time": 1690877012,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 172397,
-      "num": 172397,
-      "word": "鼻尖吻是迪丽热巴龚俊现场琢磨的",
-      "onboard_time": 1690903896,
-      "rank": 44,
       "category": "影视"
     },
     {
