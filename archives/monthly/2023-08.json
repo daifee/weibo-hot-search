@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690903068586,
+  "endTime": 1690904048265,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -491,8 +491,16 @@
       "category": "科技"
     },
     {
+      "raw_hot": 836777,
+      "num": 836777,
+      "word": "曝宝能集团姚振华被讨薪员工围殴",
+      "onboard_time": 1690899877,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820204,
-      "num": 477610,
+      "num": 503037,
       "word": "魏大勋高中同学的留言",
       "onboard_time": 1690897898,
       "rank": 20,
@@ -547,14 +555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 764880,
-      "num": 764880,
-      "word": "曝宝能集团姚振华被讨薪员工围殴",
-      "onboard_time": 1690899877,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 759519,
       "num": 759519,
       "word": "阿念 玟小六",
@@ -585,6 +585,14 @@
       "onboard_time": 1690893394,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 755037,
+      "num": 755037,
+      "word": "黄灿灿演的防风意映",
+      "onboard_time": 1690902456,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 754448,
@@ -763,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 630125,
+      "num": 630125,
+      "word": "中图网库房被淹近百人被困",
+      "onboard_time": 1690901562,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621033,
       "num": 621033,
       "word": "中国女足落后",
@@ -907,20 +923,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 544412,
-      "num": 544412,
-      "word": "中图网库房被淹近百人被困",
-      "onboard_time": 1690901562,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 542510,
       "num": 542510,
       "word": "四川内江地震",
       "onboard_time": 1690869157,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536051,
+      "num": 536051,
+      "word": "CoCo 走好",
+      "onboard_time": 1690903537,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 527917,
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 500411,
-      "num": 470012,
+      "num": 488168,
       "word": "邓为上身身材",
       "onboard_time": 1690900835,
       "rank": 23,
@@ -1299,14 +1315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 390139,
-      "num": 281822,
-      "word": "黄灿灿演的防风意映",
-      "onboard_time": 1690902456,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 388369,
       "num": 353403,
       "word": "不用精修的明星",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1690883855,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346680,
+      "num": 346680,
+      "word": "假如二郎神近视了",
+      "onboard_time": 1690902338,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 345765,
@@ -1689,14 +1705,6 @@
       "onboard_time": 1690883734,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284592,
-      "num": 284592,
-      "word": "假如二郎神近视了",
-      "onboard_time": 1690902338,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 280742,
@@ -2012,7 +2020,7 @@
     },
     {
       "raw_hot": 227031,
-      "num": 344888,
+      "num": 353276,
       "word": "山西蓝天救援队解救涿州被困群众",
       "onboard_time": 1690892432,
       "rank": 43,
@@ -2307,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172397,
+      "num": 172397,
+      "word": "鼻尖吻是迪丽热巴龚俊现场琢磨的",
+      "onboard_time": 1690903896,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171002,
       "num": 236190,
       "word": "shinyruo 明天播",
@@ -2375,6 +2391,14 @@
       "num": 161091,
       "word": "女足",
       "onboard_time": 1690855054,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159392,
+      "num": 159392,
+      "word": "中国游泳队大运会首金",
+      "onboard_time": 1690903777,
       "rank": 47,
       "category": "体育"
     },
