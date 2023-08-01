@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690925630056,
+  "endTime": 1690928122376,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -1931,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244571,
+      "num": 93374,
+      "word": "南京4名中学生下河游泳溺亡",
+      "onboard_time": 1690925293,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243668,
       "num": 243668,
       "word": "冒泡赛",
@@ -2659,6 +2667,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67995,
+      "num": 67995,
+      "word": "常温常压超导首被证明理论可行",
+      "onboard_time": 1690916234,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 64370,
+      "num": 57599,
+      "word": "网友香港便利店偶遇田曦薇",
+      "onboard_time": 1690923192,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60678,
       "num": 54118,
       "word": "杨超越蓝瞳微醺妆",
@@ -2675,28 +2699,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 44254,
-      "num": 44254,
-      "word": "常温常压超导首被证明理论可行",
-      "onboard_time": 1690916234,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 43854,
       "num": 43854,
       "word": "lk99",
       "onboard_time": 1690915694,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 41997,
-      "num": 41997,
-      "word": "网友香港便利店偶遇田曦薇",
-      "onboard_time": 1690923192,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 41603,
@@ -2740,19 +2748,11 @@
     },
     {
       "raw_hot": 25639,
-      "num": 25639,
+      "num": 26205,
       "word": "京津冀降雨关注",
       "onboard_time": 1690914077,
       "rank": 44,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 23033,
-      "num": 23033,
-      "word": "南京4名中学生下河游泳溺亡",
-      "onboard_time": 1690925293,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19762,
