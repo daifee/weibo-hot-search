@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690846432947,
+  "endTime": 1690853987186,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -161,6 +161,14 @@
       "onboard_time": 1690794032,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1645266,
+      "num": 1645266,
+      "word": "iPhone ePhone",
+      "onboard_time": 1690852596,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1633951,
@@ -339,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1277709,
+      "num": 1277709,
+      "word": "长相思群演的工资",
+      "onboard_time": 1690847854,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1277140,
       "num": 1277140,
       "word": "原来你好星期六那天魏大勋戴眼镜了",
@@ -457,6 +473,14 @@
       "onboard_time": 1690763915,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1038808,
+      "num": 1038808,
+      "word": "李玟大殓出殡",
+      "onboard_time": 1690853557,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1025098,
@@ -603,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 856207,
+      "num": 856207,
+      "word": "北京暴雨",
+      "onboard_time": 1690773452,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 853181,
       "num": 853181,
       "word": "但凡檀健次演技烂点",
@@ -665,6 +697,14 @@
       "onboard_time": 1690809814,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 775936,
+      "num": 574623,
+      "word": "涿州",
+      "onboard_time": 1690850557,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 770492,
@@ -777,14 +817,6 @@
       "onboard_time": 1690767272,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 696442,
-      "num": 478779,
-      "word": "北京暴雨",
-      "onboard_time": 1690773452,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 692397,
@@ -915,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613358,
+      "num": 613358,
+      "word": "北师大教授评黄渤王一博电影热烈",
+      "onboard_time": 1690845685,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 609754,
       "num": 335881,
       "word": "张晚意闲鱼买东西被人认出来",
@@ -953,6 +993,22 @@
       "onboard_time": 1690788093,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596116,
+      "num": 371247,
+      "word": "过于频繁洗手后的变化",
+      "onboard_time": 1690847251,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 594678,
+      "num": 594678,
+      "word": "故宫辟谣600年不积水",
+      "onboard_time": 1690816057,
+      "rank": 24,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 588211,
@@ -1019,12 +1075,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 559907,
+      "num": 559907,
+      "word": "中彩票哪有不疯的",
+      "onboard_time": 1690849717,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 558754,
       "num": 558754,
       "word": "台风吹来的遍地生蚝能不能吃",
       "onboard_time": 1690765891,
       "rank": 24,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 558000,
+      "num": 558000,
+      "word": "小猫咪35岁了可太值得炫耀了吧",
+      "onboard_time": 1690852955,
+      "rank": 12,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 556427,
+      "num": 556427,
+      "word": "就该叫相柳大人",
+      "onboard_time": 1690849957,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 556322,
@@ -1107,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 527917,
+      "num": 368327,
+      "word": "导演调侃吴宣仪要美一点",
+      "onboard_time": 1690849777,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 526975,
       "num": 526975,
       "word": "杜苏芮",
@@ -1145,6 +1233,14 @@
       "onboard_time": 1690776636,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 500208,
+      "num": 366904,
+      "word": "姑娘想抄底买下二手房结果一年亏百万",
+      "onboard_time": 1690847251,
+      "rank": 23,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 494589,
@@ -1195,20 +1291,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 466333,
-      "num": 466333,
-      "word": "故宫辟谣600年不积水",
-      "onboard_time": 1690816057,
-      "rank": 24,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 466165,
       "num": 466165,
       "word": "福州一餐厅凌晨发生爆炸",
       "onboard_time": 1690773932,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465974,
+      "num": 575326,
+      "word": "庆祝解放军建军96周年",
+      "onboard_time": 1690846168,
+      "rank": 25,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 465419,
@@ -1251,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 456456,
+      "num": 362164,
+      "word": "长相思第二季还能爆吗",
+      "onboard_time": 1690848274,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449342,
       "num": 449342,
       "word": "罗布泊",
@@ -1283,8 +1387,16 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 446394,
+      "num": 360820,
+      "word": "离职同事在电脑里留给我的暗示",
+      "onboard_time": 1690847251,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 444509,
-      "num": 319262,
+      "num": 422394,
       "word": "亢奋费斯科演员去世",
       "onboard_time": 1690845505,
       "rank": 11,
@@ -1315,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427877,
+      "num": 357704,
+      "word": "李现说感谢父母穷养",
+      "onboard_time": 1690848456,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 424552,
       "num": 424552,
       "word": "巨齿鲨2吴京戏份",
@@ -1324,7 +1444,7 @@
     },
     {
       "raw_hot": 418742,
-      "num": 228286,
+      "num": 249900,
       "word": "女子吐槽丈夫在新家装100多个插座",
       "onboard_time": 1690844723,
       "rank": 30,
@@ -1361,6 +1481,14 @@
       "onboard_time": 1690787672,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402931,
+      "num": 402931,
+      "word": "建军节",
+      "onboard_time": 1690819354,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401926,
@@ -1467,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 377364,
+      "num": 377364,
+      "word": "八月长安",
+      "onboard_time": 1690846350,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 376977,
       "num": 329669,
       "word": "白敬亭魏大勋刘昊然穿西装跳舞",
@@ -1563,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356536,
+      "num": 356536,
+      "word": "张柏芝真的可以越素越美",
+      "onboard_time": 1690853373,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 355787,
       "num": 355787,
       "word": "台风卡努恰逢农历天文大潮",
@@ -1603,6 +1747,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 345449,
+      "num": 339718,
+      "word": "法国网红爬中国香港68楼天台后坠亡",
+      "onboard_time": 1690853794,
+      "rank": 30,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 344465,
+      "num": 344465,
+      "word": "少吃以后最明显的变化",
+      "onboard_time": 1690847854,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343485,
       "num": 338469,
       "word": "熊猫有时候真的人里人气",
@@ -1625,6 +1785,22 @@
       "onboard_time": 1690775194,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338809,
+      "num": 338809,
+      "word": "成灿 门面",
+      "onboard_time": 1690850136,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 338344,
+      "num": 338344,
+      "word": "老师你看烂泥扶上墙了",
+      "onboard_time": 1690847615,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 337680,
@@ -1681,6 +1857,14 @@
       "onboard_time": 1690841356,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324372,
+      "num": 324372,
+      "word": "猫咬电线被炸成小糊脸",
+      "onboard_time": 1690848397,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 317809,
@@ -1883,12 +2067,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 279531,
+      "num": 279531,
+      "word": "齐葩地下恋情被发现",
+      "onboard_time": 1690849717,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278777,
       "num": 278777,
       "word": "当我跟爸妈说不想干了",
       "onboard_time": 1690768412,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 275009,
+      "num": 340213,
+      "word": "4架陆航直升机赴门头沟开展空投救援",
+      "onboard_time": 1690853016,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274330,
@@ -2091,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252437,
+      "num": 252437,
+      "word": "Angelababy教贝克汉姆说中文",
+      "onboard_time": 1690853734,
+      "rank": 36,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 247833,
       "num": 247833,
       "word": "成都串串店深夜坐满外国运动员",
@@ -2145,14 +2353,6 @@
       "onboard_time": 1690784853,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 234753,
-      "num": 234753,
-      "word": "北师大教授评黄渤王一博电影热烈",
-      "onboard_time": 1690845685,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 234342,
@@ -2233,6 +2433,14 @@
       "onboard_time": 1690799912,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220972,
+      "num": 220972,
+      "word": "八一建军节主题片无畏",
+      "onboard_time": 1690851759,
+      "rank": 40,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 219993,
@@ -2371,6 +2579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200876,
+      "num": 200876,
+      "word": "射手座真的不是冷漠的人",
+      "onboard_time": 1690820729,
+      "rank": 15,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 199647,
       "num": 199647,
       "word": "王宽小景8集牵手11次",
@@ -2417,14 +2633,6 @@
       "onboard_time": 1690795593,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 192530,
-      "num": 236327,
-      "word": "建军节",
-      "onboard_time": 1690819354,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191598,
@@ -2523,20 +2731,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 176811,
-      "num": 176811,
-      "word": "庆祝解放军建军96周年",
-      "onboard_time": 1690846168,
-      "rank": 25,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 176018,
       "num": 228850,
       "word": "年轻人不知道的挑肉秘籍",
       "onboard_time": 1690818514,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 174322,
+      "num": 1422188,
+      "word": "4架陆航直升机赴门头沟地区执行空投转运任务",
+      "onboard_time": 1690853132,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173039,
@@ -2561,14 +2769,6 @@
       "onboard_time": 1690771229,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 167086,
-      "num": 167086,
-      "word": "射手座真的不是冷漠的人",
-      "onboard_time": 1690820729,
-      "rank": 15,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 167033,
@@ -2731,6 +2931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121481,
+      "num": 717636,
+      "word": "在成都的外国运动员跳广场舞吃串串香",
+      "onboard_time": 1690810596,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120952,
       "num": 173352,
       "word": "Elk 恐尺",
@@ -2811,14 +3019,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 108029,
-      "num": 717636,
-      "word": "在成都的外国运动员跳广场舞吃串串香",
-      "onboard_time": 1690810596,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103738,
       "num": 2112423,
       "word": "在大运村和外国运动员一起耍非遗",
@@ -2849,14 +3049,6 @@
       "onboard_time": 1690759767,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94549,
-      "num": 94549,
-      "word": "八月长安",
-      "onboard_time": 1690846350,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 93474,
