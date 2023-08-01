@@ -1,0 +1,410 @@
+{
+  "runTime": 1690885089987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1867478,
+        "num": 1867478,
+        "word": "顺丰通报38万元劳力士手表遗失事件进展",
+        "onboard_time": 1690883193,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673877,
+        "num": 1647054,
+        "word": "一句话救了一群人的命",
+        "onboard_time": 1690880431,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126219,
+        "num": 1635085,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1690865919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1632547,
+        "num": 1632547,
+        "word": "荀彧造型有点失望",
+        "onboard_time": 1690878093,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 428540,
+        "num": 1471551,
+        "word": "小猫头卡老鼠洞消防员憋笑救援",
+        "onboard_time": 1690883433,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1321732,
+        "num": 1321732,
+        "word": "俄罗斯素食主义网红去世",
+        "onboard_time": 1690882471,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248271,
+        "num": 1214684,
+        "word": "此前暴雨中失联的9人继续留守电站",
+        "onboard_time": 1690883855,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1190485,
+        "num": 1190485,
+        "word": "玱玹原著娶了九个老婆",
+        "onboard_time": 1690878935,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1115123,
+        "num": 1115123,
+        "word": "成都给花花出了个冰淇淋",
+        "onboard_time": 1690875931,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1092468,
+        "num": 1092468,
+        "word": "钉钉",
+        "onboard_time": 1690883132,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 882452,
+        "num": 882452,
+        "word": "知否作者二刷封神解读细节",
+        "onboard_time": 1690882352,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 838285,
+        "num": 838285,
+        "word": "华科初步复现韩国室温超导材料",
+        "onboard_time": 1690880492,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 723649,
+        "num": 723649,
+        "word": "河北强降雨已致9人遇难6人失联",
+        "onboard_time": 1690879894,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720538,
+        "num": 720538,
+        "word": "王楚然方发动图证明没P图",
+        "onboard_time": 1690860035,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708908,
+        "num": 708908,
+        "word": "蔚来",
+        "onboard_time": 1690883855,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 647803,
+        "num": 647803,
+        "word": "Freen Seng",
+        "onboard_time": 1690883193,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538356,
+        "num": 538356,
+        "word": "姬发给妲己递簪子是于适设计的",
+        "onboard_time": 1690879173,
+        "rank": 16,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 492222,
+        "num": 492222,
+        "word": "YG速度是一种形容词",
+        "onboard_time": 1690882532,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 468787,
+        "num": 468787,
+        "word": "钎九",
+        "onboard_time": 1690883914,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 423831,
+        "num": 423831,
+        "word": "恭迎大王姬回归",
+        "onboard_time": 1690874734,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 566173,
+        "num": 413524,
+        "word": "哥哥1万元偷卖妹妹房子给女儿",
+        "onboard_time": 1690869515,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563689,
+        "num": 409313,
+        "word": "杨幂喊迪丽热巴巴",
+        "onboard_time": 1690872932,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380094,
+        "num": 380094,
+        "word": "超导",
+        "onboard_time": 1690868315,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 373567,
+        "num": 373567,
+        "word": "原来小猫也会用离开来试探爱",
+        "onboard_time": 1690883012,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 357208,
+        "num": 357208,
+        "word": "工作人员称涿州救援难度大",
+        "onboard_time": 1690858177,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356266,
+        "num": 356266,
+        "word": "LNG好好bp行吗",
+        "onboard_time": 1690884274,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 355288,
+        "num": 355288,
+        "word": "是阿昕儿又又又回应了",
+        "onboard_time": 1690876654,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323868,
+        "num": 323868,
+        "word": "女网红遭陌生人要求陪酒系策划摆拍",
+        "onboard_time": 1690884093,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312749,
+        "num": 312749,
+        "word": "李玟大殓出殡",
+        "onboard_time": 1690853557,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295077,
+        "num": 295077,
+        "word": "NCTDREAM将举办上海签售会",
+        "onboard_time": 1690880192,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310647,
+        "num": 294319,
+        "word": "扔话筒已经来到全新的高度",
+        "onboard_time": 1690882591,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289661,
+        "num": 289661,
+        "word": "北京此轮强降雨已致11人遇难",
+        "onboard_time": 1690861719,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285862,
+        "num": 285862,
+        "word": "中国女足vs英格兰女足首发",
+        "onboard_time": 1690883734,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282468,
+        "num": 282468,
+        "word": "被CardiB扔话筒当事人已报案",
+        "onboard_time": 1690870232,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282502,
+        "num": 282420,
+        "word": "北京首次动用1998年建成的滞洪水库蓄洪",
+        "onboard_time": 1690855955,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281939,
+        "num": 281939,
+        "word": "黄晓明每天都收到303的视频",
+        "onboard_time": 1690864902,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264407,
+        "num": 264407,
+        "word": "iPhone ePhone",
+        "onboard_time": 1690852596,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247428,
+        "num": 247428,
+        "word": "涿州双馨家园小区断水断电有人被困",
+        "onboard_time": 1690884573,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213429,
+        "num": 213429,
+        "word": "全力搜救失联被困人员",
+        "onboard_time": 1690867116,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 210646,
+        "num": 210646,
+        "word": "封神苏州路演",
+        "onboard_time": 1690881153,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208878,
+        "num": 208878,
+        "word": "杨紫说张晚意你真是人才",
+        "onboard_time": 1690876831,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208174,
+        "num": 208174,
+        "word": "周深你好生活",
+        "onboard_time": 1690881632,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189679,
+        "num": 189679,
+        "word": "李玟老公现身火葬场遭围堵",
+        "onboard_time": 1690868554,
+        "rank": 42,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 184775,
+        "num": 184775,
+        "word": "文韬我心态炸了",
+        "onboard_time": 1690873051,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182361,
+        "num": 182361,
+        "word": "法国网红爬中国香港68楼天台后坠亡",
+        "onboard_time": 1690853794,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 174939,
+        "num": 174939,
+        "word": "你被热烈里的哪一句话打动了",
+        "onboard_time": 1690880374,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167120,
+        "num": 167120,
+        "word": "强降雨造成河北540703人受灾",
+        "onboard_time": 1690880374,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166840,
+        "num": 166840,
+        "word": "李玟老公及继女未参加出殡仪式",
+        "onboard_time": 1690863341,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158961,
+        "num": 158961,
+        "word": "LNG对战BLG",
+        "onboard_time": 1690884876,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153658,
+        "num": 153658,
+        "word": "封神",
+        "onboard_time": 1690866577,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委晋升上将军衔仪式在京举行#"
+    }
+  }
+}

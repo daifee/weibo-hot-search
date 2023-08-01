@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690882447655,
+  "endTime": 1690885089987,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -161,6 +161,14 @@
       "onboard_time": 1690801711,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1867478,
+      "num": 1867478,
+      "word": "顺丰通报38万元劳力士手表遗失事件进展",
+      "onboard_time": 1690883193,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1855434,
@@ -459,6 +467,14 @@
       "category": "情感,时尚"
     },
     {
+      "raw_hot": 1321732,
+      "num": 1321732,
+      "word": "俄罗斯素食主义网红去世",
+      "onboard_time": 1690882471,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1311669,
       "num": 802013,
       "word": "邓为美甲",
@@ -585,6 +601,14 @@
       "onboard_time": 1690734927,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1092468,
+      "num": 1092468,
+      "word": "钉钉",
+      "onboard_time": 1690883132,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 1088172,
@@ -779,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 882452,
+      "num": 882452,
+      "word": "知否作者二刷封神解读细节",
+      "onboard_time": 1690882352,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 881761,
       "num": 881761,
       "word": "吴京烤串一看就没少练",
@@ -841,6 +873,14 @@
       "onboard_time": 1690794391,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 838285,
+      "num": 838285,
+      "word": "华科初步复现韩国室温超导材料",
+      "onboard_time": 1690880492,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 810750,
@@ -937,14 +977,6 @@
       "onboard_time": 1690798713,
       "rank": 49,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 763992,
-      "num": 763992,
-      "word": "华科初步复现韩国室温超导材料",
-      "onboard_time": 1690880492,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 759359,
@@ -1051,6 +1083,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 708908,
+      "num": 708908,
+      "word": "蔚来",
+      "onboard_time": 1690883855,
+      "rank": 14,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 708592,
       "num": 708592,
       "word": "NCTDREAM将举办上海签售会",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1690858538,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 673877,
+      "num": 1647054,
+      "word": "一句话救了一群人的命",
+      "onboard_time": 1690880431,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673540,
@@ -1168,6 +1216,14 @@
       "word": "TF四代 北京",
       "onboard_time": 1690869396,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 647803,
+      "num": 647803,
+      "word": "Freen Seng",
+      "onboard_time": 1690883193,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1619,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 492222,
+      "num": 492222,
+      "word": "YG速度是一种形容词",
+      "onboard_time": 1690882532,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 482172,
       "num": 452567,
       "word": "张杰鹿晗黄子韬今日营业照",
@@ -1681,6 +1745,14 @@
       "onboard_time": 1690773032,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 468787,
+      "num": 468787,
+      "word": "钎九",
+      "onboard_time": 1690883914,
+      "rank": 18,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 466165,
@@ -1849,6 +1921,14 @@
       "onboard_time": 1690867535,
       "rank": 41,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 428540,
+      "num": 1471551,
+      "word": "小猫头卡老鼠洞消防员憋笑救援",
+      "onboard_time": 1690883433,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427877,
@@ -2115,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373567,
+      "num": 373567,
+      "word": "原来小猫也会用离开来试探爱",
+      "onboard_time": 1690883012,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 371315,
       "num": 371315,
       "word": "独家童话",
@@ -2209,6 +2297,14 @@
       "onboard_time": 1690813299,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 356266,
+      "num": 356266,
+      "word": "LNG好好bp行吗",
+      "onboard_time": 1690884274,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 355787,
@@ -2379,6 +2475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323868,
+      "num": 323868,
+      "word": "女网红遭陌生人要求陪酒系策划摆拍",
+      "onboard_time": 1690884093,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318154,
       "num": 318154,
       "word": "小夭的三个男人乐子真多",
@@ -2441,6 +2545,14 @@
       "onboard_time": 1690865259,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 310647,
+      "num": 294319,
+      "word": "扔话筒已经来到全新的高度",
+      "onboard_time": 1690882591,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 309970,
@@ -2659,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285862,
+      "num": 285862,
+      "word": "中国女足vs英格兰女足首发",
+      "onboard_time": 1690883734,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280417,
       "num": 280417,
       "word": "CD26",
@@ -2705,14 +2825,6 @@
       "onboard_time": 1690866097,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273903,
-      "num": 493033,
-      "word": "一句话救了一群人的命",
-      "onboard_time": 1690880431,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272046,
@@ -2947,6 +3059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248271,
+      "num": 1214684,
+      "word": "此前暴雨中失联的9人继续留守电站",
+      "onboard_time": 1690883855,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247833,
       "num": 247833,
       "word": "成都串串店深夜坐满外国运动员",
@@ -2961,6 +3081,14 @@
       "onboard_time": 1690804354,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247428,
+      "num": 247428,
+      "word": "涿州双馨家园小区断水断电有人被困",
+      "onboard_time": 1690884573,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247239,
@@ -3211,20 +3339,20 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 208174,
+      "num": 208174,
+      "word": "周深你好生活",
+      "onboard_time": 1690881632,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207872,
       "num": 207872,
       "word": "七月最后一天",
       "onboard_time": 1690759043,
       "rank": 22,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 206785,
-      "num": 206785,
-      "word": "周深你好生活",
-      "onboard_time": 1690881632,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 204789,
@@ -3372,7 +3500,7 @@
     },
     {
       "raw_hot": 194777,
-      "num": 1451792,
+      "num": 1635085,
       "word": "致敬人民子弟兵",
       "onboard_time": 1690865919,
       "rank": 39,
@@ -3547,14 +3675,6 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 170382,
-      "num": 170382,
-      "word": "知否作者二刷封神解读细节",
-      "onboard_time": 1690882352,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 169821,
       "num": 202080,
       "word": "刘耀文大时代高音",
@@ -3641,6 +3761,14 @@
       "onboard_time": 1690814020,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158961,
+      "num": 158961,
+      "word": "LNG对战BLG",
+      "onboard_time": 1690884876,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 156713,
