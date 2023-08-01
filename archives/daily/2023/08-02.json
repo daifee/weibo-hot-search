@@ -1,10 +1,10 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690931783050,
+  "endTime": 1690932829040,
   "band_list": [
     {
-      "raw_hot": 1155128,
-      "num": 1155128,
+      "raw_hot": 1258796,
+      "num": 1258796,
       "word": "台风卡努抵近日本冲绳",
       "onboard_time": 1690908269,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 921828,
+      "num": 335263,
+      "word": "南京4名中学生下河游泳溺亡",
+      "onboard_time": 1690925293,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868956,
       "num": 781288,
       "word": "河北涿州急需大量船只转移群众",
@@ -49,14 +57,6 @@
       "onboard_time": 1690898139,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 813199,
-      "num": 261600,
-      "word": "南京4名中学生下河游泳溺亡",
-      "onboard_time": 1690925293,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 774779,
@@ -75,6 +75,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 649530,
+      "num": 332280,
+      "word": "芭比被日本大规模抵制",
+      "onboard_time": 1690932203,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 620448,
+      "num": 261520,
+      "word": "网传广州12岁女孩被数人起哄猥亵",
+      "onboard_time": 1690931301,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599759,
       "num": 546721,
       "word": "涂山璟说抱歉实在没忍住",
@@ -83,8 +99,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 582155,
-      "num": 582155,
+      "raw_hot": 599236,
+      "num": 599236,
       "word": "感谢老天送我一个情绪稳定的女儿",
       "onboard_time": 1690895317,
       "rank": 14,
@@ -128,6 +144,14 @@
       "word": "曝宝能集团姚振华被讨薪员工围殴",
       "onboard_time": 1690899877,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459018,
+      "num": 200577,
+      "word": "女孩手撑桌子向爸爸求救无人理",
+      "onboard_time": 1690931182,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -179,6 +203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 347467,
+      "num": 347467,
+      "word": "起猛了没想到相差46岁的友谊这么治愈",
+      "onboard_time": 1690903416,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347102,
       "num": 347102,
       "word": "涿州",
@@ -187,11 +219,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335173,
-      "num": 335173,
-      "word": "起猛了没想到相差46岁的友谊这么治愈",
-      "onboard_time": 1690903416,
-      "rank": 33,
+      "raw_hot": 325753,
+      "num": 197804,
+      "word": "台风卡努",
+      "onboard_time": 1690931783,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -211,19 +243,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318014,
+      "num": 318014,
+      "word": "台风卡努路径仍不确定",
+      "onboard_time": 1690928717,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304885,
       "num": 304885,
       "word": "卡努",
       "onboard_time": 1690899098,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297564,
-      "num": 261520,
-      "word": "网传广州12岁女孩被数人起哄猥亵",
-      "onboard_time": 1690931301,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -243,20 +275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279604,
+      "num": 279604,
+      "word": "封神票房",
+      "onboard_time": 1690932324,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279137,
       "num": 189789,
       "word": "长相思刚喜欢上的男人变成了我姐",
       "onboard_time": 1690895857,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270777,
-      "num": 259179,
-      "word": "台风卡努路径仍不确定",
-      "onboard_time": 1690928717,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264301,
@@ -281,6 +313,22 @@
       "onboard_time": 1690882471,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249385,
+      "num": 195064,
+      "word": "涿州居民被困2月大孩子急需奶粉",
+      "onboard_time": 1690931725,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245339,
+      "num": 245339,
+      "word": "常温常压超导首被证明理论可行",
+      "onboard_time": 1690916234,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 225015,
@@ -315,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208717,
+      "num": 208717,
+      "word": "老兵隐功70年说不让子女搞特殊",
+      "onboard_time": 1690900117,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206862,
       "num": 206862,
       "word": "待产孕妇在声声鼓励中登上冲锋舟",
@@ -329,14 +385,6 @@
       "onboard_time": 1690899700,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205309,
-      "num": 205309,
-      "word": "常温常压超导首被证明理论可行",
-      "onboard_time": 1690916234,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 203911,
@@ -371,28 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190779,
-      "num": 190779,
-      "word": "老兵隐功70年说不让子女搞特殊",
-      "onboard_time": 1690900117,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190652,
       "num": 182936,
       "word": "青提茉莉大战桃桃乌龙",
       "onboard_time": 1690907309,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170572,
-      "num": 170572,
-      "word": "女孩手撑桌子向爸爸求救无人理",
-      "onboard_time": 1690931182,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168087,
@@ -483,12 +515,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119718,
-      "num": 119718,
+      "raw_hot": 121203,
+      "num": 121203,
       "word": "河北涿州救援力量薄弱",
       "onboard_time": 1690913717,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116194,
+      "num": 116194,
+      "word": "女子借到母亲照片那一刻泪崩了",
+      "onboard_time": 1690932445,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115527,
+      "num": 115527,
+      "word": "暧昧期上头如何自救",
+      "onboard_time": 1690911559,
+      "rank": 21,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 112979,
@@ -499,12 +547,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102422,
-      "num": 102422,
-      "word": "暧昧期上头如何自救",
-      "onboard_time": 1690911559,
-      "rank": 21,
-      "category": "情感,幽默"
+      "raw_hot": 112529,
+      "num": 112529,
+      "word": "我把相机寄给了养老院的外公",
+      "onboard_time": 1690932565,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 106629,
+      "num": 106629,
+      "word": "订单超时可能是外卖小哥救人去了",
+      "onboard_time": 1690920913,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100226,
@@ -515,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98816,
+      "num": 98816,
+      "word": "河北暴雨老人被救出双手合十感谢救援队",
+      "onboard_time": 1690932746,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 92235,
       "num": 783533,
       "word": "致敬那些暴雨中的逆行者",
@@ -523,19 +587,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91082,
-      "num": 91082,
-      "word": "订单超时可能是外卖小哥救人去了",
-      "onboard_time": 1690920913,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70142,
-      "num": 70142,
-      "word": "涿州居民被困2月大孩子急需奶粉",
-      "onboard_time": 1690931725,
-      "rank": 49,
+      "raw_hot": 46295,
+      "num": 467411,
+      "word": "暴雨天气10个安全指南",
+      "onboard_time": 1690895137,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -553,14 +609,6 @@
       "onboard_time": 1690915694,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 41531,
-      "num": 467411,
-      "word": "暴雨天气10个安全指南",
-      "onboard_time": 1690895137,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26393,
