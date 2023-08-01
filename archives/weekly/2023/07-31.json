@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690906852457,
+  "endTime": 1690907800183,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -1075,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 835304,
+      "num": 835304,
+      "word": "涿州目前全域停水部分停电",
+      "onboard_time": 1690905275,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820204,
       "num": 503037,
       "word": "魏大勋高中同学的留言",
@@ -1803,14 +1811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 560538,
-      "num": 519319,
-      "word": "涿州目前全域停水部分停电",
-      "onboard_time": 1690905275,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 558754,
       "num": 558754,
       "word": "台风吹来的遍地生蚝能不能吃",
@@ -2075,6 +2075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 488890,
+      "num": 488890,
+      "word": "女孩天生神力靠听就能鉴别谎言",
+      "onboard_time": 1690904316,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 488559,
       "num": 471743,
       "word": "前几天才知道楼下那只橘猫死了",
@@ -2145,14 +2153,6 @@
       "onboard_time": 1690754655,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472412,
-      "num": 472412,
-      "word": "女孩天生神力靠听就能鉴别谎言",
-      "onboard_time": 1690904316,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 471998,
@@ -4275,6 +4275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190793,
+      "num": 190793,
+      "word": "杨丞琳晒4inlove合照",
+      "onboard_time": 1690905631,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189750,
       "num": 189750,
       "word": "王霜生死战首发",
@@ -4395,14 +4403,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177784,
-      "num": 177784,
-      "word": "杨丞琳晒4inlove合照",
-      "onboard_time": 1690905631,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176018,
       "num": 228850,
       "word": "年轻人不知道的挑肉秘籍",
@@ -4497,6 +4497,14 @@
       "onboard_time": 1690858296,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163095,
+      "num": 163095,
+      "word": "青提茉莉大战桃桃乌龙",
+      "onboard_time": 1690907309,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 162705,
@@ -4681,6 +4689,14 @@
       "onboard_time": 1690870774,
       "rank": 49,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 122815,
+      "num": 122815,
+      "word": "石凯孤星伴月",
+      "onboard_time": 1690907727,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 122659,
