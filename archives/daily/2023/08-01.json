@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690885089987,
+  "endTime": 1690886065162,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -43,6 +43,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2580938,
+      "num": 2580938,
+      "word": "顺丰通报38万元劳力士手表遗失事件进展",
+      "onboard_time": 1690883193,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2295727,
       "num": 2295727,
       "word": "荀彧造型有点失望",
@@ -65,14 +73,6 @@
       "onboard_time": 1690855416,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1867478,
-      "num": 1867478,
-      "word": "顺丰通报38万元劳力士手表遗失事件进展",
-      "onboard_time": 1690883193,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1829605,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1380406,
+      "num": 1380406,
+      "word": "俄罗斯素食主义网红去世",
+      "onboard_time": 1690882471,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1379993,
       "num": 1379993,
       "word": "黄晓明每天都收到303的视频",
@@ -161,14 +169,6 @@
       "onboard_time": 1690870232,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1321732,
-      "num": 1321732,
-      "word": "俄罗斯素食主义网红去世",
-      "onboard_time": 1690882471,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1277709,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941086,
+      "num": 941086,
+      "word": "知否作者二刷封神解读细节",
+      "onboard_time": 1690882352,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 939029,
       "num": 939029,
       "word": "姬发 殷寿",
@@ -273,14 +281,6 @@
       "onboard_time": 1690849237,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 882452,
-      "num": 882452,
-      "word": "知否作者二刷封神解读细节",
-      "onboard_time": 1690882352,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 881761,
@@ -347,6 +347,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 752662,
+      "num": 1647054,
+      "word": "一句话救了一群人的命",
+      "onboard_time": 1690880431,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749190,
+      "num": 749190,
+      "word": "蔚来",
+      "onboard_time": 1690883855,
+      "rank": 14,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 747964,
       "num": 747964,
       "word": "超导",
@@ -371,14 +387,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 708908,
-      "num": 708908,
-      "word": "蔚来",
-      "onboard_time": 1690883855,
-      "rank": 14,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 708592,
       "num": 708592,
       "word": "NCTDREAM将举办上海签售会",
@@ -401,14 +409,6 @@
       "onboard_time": 1690858538,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 673877,
-      "num": 1647054,
-      "word": "一句话救了一群人的命",
-      "onboard_time": 1690880431,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 672618,
@@ -579,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 551175,
+      "num": 551175,
+      "word": "女网红遭陌生人要求陪酒系策划摆拍",
+      "onboard_time": 1690884093,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542510,
       "num": 542510,
       "word": "四川内江地震",
@@ -609,6 +617,14 @@
       "onboard_time": 1690845324,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523476,
+      "num": 523476,
+      "word": "钎九",
+      "onboard_time": 1690883914,
+      "rank": 18,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 521836,
@@ -699,14 +715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 468787,
-      "num": 468787,
-      "word": "钎九",
-      "onboard_time": 1690883914,
-      "rank": 18,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 465974,
       "num": 673993,
       "word": "庆祝解放军建军96周年",
@@ -745,6 +753,14 @@
       "onboard_time": 1690873051,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 452872,
+      "num": 1471551,
+      "word": "小猫头卡老鼠洞消防员憋笑救援",
+      "onboard_time": 1690883433,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450037,
@@ -787,20 +803,20 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 428540,
-      "num": 1471551,
-      "word": "小猫头卡老鼠洞消防员憋笑救援",
-      "onboard_time": 1690883433,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427877,
       "num": 357704,
       "word": "李现说感谢父母穷养",
       "onboard_time": 1690848456,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 422721,
+      "num": 373567,
+      "word": "原来小猫也会用离开来试探爱",
+      "onboard_time": 1690883012,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 419957,
@@ -915,14 +931,6 @@
       "category": "影视,情感"
     },
     {
-      "raw_hot": 373567,
-      "num": 373567,
-      "word": "原来小猫也会用离开来试探爱",
-      "onboard_time": 1690883012,
-      "rank": 23,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 371315,
       "num": 371315,
       "word": "独家童话",
@@ -961,6 +969,14 @@
       "onboard_time": 1690884274,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 349810,
+      "num": 1214684,
+      "word": "此前暴雨中失联的9人继续留守电站",
+      "onboard_time": 1690883855,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345765,
@@ -1011,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328095,
+      "num": 294319,
+      "word": "扔话筒已经来到全新的高度",
+      "onboard_time": 1690882591,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324935,
       "num": 318541,
       "word": "夭璟名场面来了",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1690848397,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 323868,
-      "num": 323868,
-      "word": "女网红遭陌生人要求陪酒系策划摆拍",
-      "onboard_time": 1690884093,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318154,
@@ -1075,14 +1091,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 310647,
-      "num": 294319,
-      "word": "扔话筒已经来到全新的高度",
-      "onboard_time": 1690882591,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 309888,
       "num": 274425,
       "word": "北京悉昙酒店回应被暴雨冲走",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1690858716,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295876,
+      "num": 295876,
+      "word": "涿州双馨家园小区断水断电有人被困",
+      "onboard_time": 1690884573,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295167,
@@ -1275,20 +1291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248271,
-      "num": 1214684,
-      "word": "此前暴雨中失联的9人继续留守电站",
-      "onboard_time": 1690883855,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247428,
-      "num": 247428,
-      "word": "涿州双馨家园小区断水断电有人被困",
-      "onboard_time": 1690884573,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 249076,
+      "num": 249076,
+      "word": "张婧仪的手机壳",
+      "onboard_time": 1690885774,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 246269,
@@ -1507,12 +1515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189750,
+      "num": 189750,
+      "word": "王霜生死战首发",
+      "onboard_time": 1690885594,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187053,
       "num": 236324,
       "word": "悉尼上空现CoCoLee云朵字",
       "onboard_time": 1690799912,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 186876,
+      "num": 186876,
+      "word": "惠英红周深合影",
+      "onboard_time": 1690885295,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183837,
@@ -1569,6 +1593,14 @@
       "onboard_time": 1690794813,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 173403,
+      "num": 173403,
+      "word": "张惠妹上海",
+      "onboard_time": 1690886015,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 173390,
