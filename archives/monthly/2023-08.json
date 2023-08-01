@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690881412824,
+  "endTime": 1690882447655,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -43,6 +43,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2295727,
+      "num": 2295727,
+      "word": "荀彧造型有点失望",
+      "onboard_time": 1690878093,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2096540,
       "num": 2096540,
       "word": "小猫咪35岁了可太值得炫耀了吧",
@@ -65,14 +73,6 @@
       "onboard_time": 1690875931,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1817867,
-      "num": 1817867,
-      "word": "荀彧造型有点失望",
-      "onboard_time": 1690878093,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 1802849,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1395517,
+      "num": 1395517,
+      "word": "玱玹原著娶了九个老婆",
+      "onboard_time": 1690878935,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1393300,
       "num": 1381929,
       "word": "北京首次动用1998年建成的滞洪水库蓄洪",
@@ -155,20 +163,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1256570,
-      "num": 1256570,
-      "word": "玱玹原著娶了九个老婆",
-      "onboard_time": 1690878935,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1214974,
       "num": 844541,
       "word": "李玟二姐哭喊他害死了我妹妹",
       "onboard_time": 1690812700,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1125332,
+      "num": 1125332,
+      "word": "河北强降雨已致9人遇难6人失联",
+      "onboard_time": 1690879894,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1096196,
@@ -216,14 +224,6 @@
       "word": "哥哥1万元偷卖妹妹房子给女儿",
       "onboard_time": 1690869515,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 990820,
-      "num": 990820,
-      "word": "河北强降雨已致9人遇难6人失联",
-      "onboard_time": 1690879894,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -297,6 +297,14 @@
       "onboard_time": 1690850557,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 763992,
+      "num": 763992,
+      "word": "华科初步复现韩国室温超导材料",
+      "onboard_time": 1690880492,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 758880,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632669,
+      "num": 632669,
+      "word": "姬发给妲己递簪子是于适设计的",
+      "onboard_time": 1690879173,
+      "rank": 12,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 631677,
       "num": 455365,
       "word": "为什么酒店都是12点前退房",
@@ -425,14 +441,6 @@
       "onboard_time": 1690845685,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 612240,
-      "num": 612240,
-      "word": "姬发给妲己递簪子是于适设计的",
-      "onboard_time": 1690879173,
-      "rank": 12,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 607251,
@@ -827,14 +835,6 @@
       "category": "影视,情感"
     },
     {
-      "raw_hot": 374900,
-      "num": 374900,
-      "word": "华科初步复现韩国室温超导材料",
-      "onboard_time": 1690880492,
-      "rank": 22,
-      "category": "科技"
-    },
-    {
       "raw_hot": 371315,
       "num": 371315,
       "word": "独家童话",
@@ -1083,12 +1083,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273903,
+      "num": 493033,
+      "word": "一句话救了一群人的命",
+      "onboard_time": 1690880431,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272121,
       "num": 215875,
       "word": "大运会男篮中国不敌中国台北",
       "onboard_time": 1690812636,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272046,
+      "num": 272046,
+      "word": "强降雨造成河北540703人受灾",
+      "onboard_time": 1690880374,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264273,
@@ -1147,20 +1163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249046,
-      "num": 249046,
-      "word": "强降雨造成河北540703人受灾",
-      "onboard_time": 1690880374,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246269,
       "num": 246269,
       "word": "内马尔",
       "onboard_time": 1690830074,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243236,
+      "num": 243236,
+      "word": "封神苏州路演",
+      "onboard_time": 1690881153,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 238765,
@@ -1259,20 +1275,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211814,
-      "num": 211814,
-      "word": "封神苏州路演",
-      "onboard_time": 1690881153,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 209008,
       "num": 209008,
       "word": "你被热烈里的哪一句话打动了",
       "onboard_time": 1690880374,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206785,
+      "num": 206785,
+      "word": "周深你好生活",
+      "onboard_time": 1690881632,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204789,
+      "num": 204789,
+      "word": "LGD对战RW",
+      "onboard_time": 1690881272,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 204258,
@@ -1307,6 +1331,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 200868,
+      "num": 200868,
+      "word": "森林进化论",
+      "onboard_time": 1690881396,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200568,
       "num": 200568,
       "word": "小哥洪水中开铲车救援三人",
@@ -1323,24 +1355,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198074,
-      "num": 198074,
-      "word": "LGD对战RW",
-      "onboard_time": 1690881272,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194777,
-      "num": 1418641,
+      "num": 1451792,
       "word": "致敬人民子弟兵",
       "onboard_time": 1690865919,
       "rank": 39,
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 189947,
-      "num": 189947,
+      "raw_hot": 193480,
+      "num": 193480,
       "word": "最值钱的商品是空间",
       "onboard_time": 1690879712,
       "rank": 41,
@@ -1435,6 +1459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170382,
+      "num": 170382,
+      "word": "知否作者二刷封神解读细节",
+      "onboard_time": 1690882352,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168644,
       "num": 135668,
       "word": "丁程鑫晒和马嘉祺出游vlog",
@@ -1481,14 +1513,6 @@
       "onboard_time": 1690855054,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158275,
-      "num": 158275,
-      "word": "森林进化论",
-      "onboard_time": 1690881396,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 153071,
@@ -1561,14 +1585,6 @@
       "onboard_time": 1690868075,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 125763,
-      "num": 493033,
-      "word": "一句话救了一群人的命",
-      "onboard_time": 1690880431,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122963,
