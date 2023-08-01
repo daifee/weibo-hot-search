@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690924487346,
+  "endTime": 1690925630056,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -2691,6 +2691,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 41997,
+      "num": 41997,
+      "word": "网友香港便利店偶遇田曦薇",
+      "onboard_time": 1690923192,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41603,
       "num": 1796243,
       "word": "青春主场梦想正当燃",
@@ -2699,12 +2707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32073,
-      "num": 32073,
-      "word": "网友香港便利店偶遇田曦薇",
-      "onboard_time": 1690923192,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 35924,
+      "num": 35924,
+      "word": "订单超时可能是外卖小哥救人去了",
+      "onboard_time": 1690920913,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30962,
@@ -2712,14 +2720,6 @@
       "word": "男子被洪水围困消防员从天而降救援",
       "onboard_time": 1690871014,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29405,
-      "num": 29405,
-      "word": "订单超时可能是外卖小哥救人去了",
-      "onboard_time": 1690920913,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2745,6 +2745,14 @@
       "onboard_time": 1690914077,
       "rank": 44,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 23033,
+      "num": 23033,
+      "word": "南京4名中学生下河游泳溺亡",
+      "onboard_time": 1690925293,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19762,
