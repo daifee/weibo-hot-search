@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690893265037,
+  "endTime": 1690894189876,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -67,20 +67,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 2086344,
+      "num": 669963,
+      "word": "女婴心脏扎进一根4厘米绣花针",
+      "onboard_time": 1690890871,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2062460,
       "num": 1630666,
       "word": "路温吐槽孟宴臣",
       "onboard_time": 1690855416,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1952288,
-      "num": 669705,
-      "word": "女婴心脏扎进一根4厘米绣花针",
-      "onboard_time": 1690890871,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1829605,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1381840,
+      "num": 1381840,
+      "word": "王霜破门",
+      "onboard_time": 1690892973,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1380406,
       "num": 1380406,
       "word": "俄罗斯素食主义网红去世",
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1351204,
+      "num": 1351204,
+      "word": "长相思10年前就开始筹备了",
+      "onboard_time": 1690888713,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1337952,
       "num": 1144678,
       "word": "被CardiB扔话筒当事人已报案",
@@ -187,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1335712,
-      "num": 1335712,
-      "word": "长相思10年前就开始筹备了",
-      "onboard_time": 1690888713,
-      "rank": 10,
-      "category": "影视"
+      "raw_hot": 1337914,
+      "num": 1337914,
+      "word": "超级月亮",
+      "onboard_time": 1690892314,
+      "rank": 8,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 1277709,
@@ -403,6 +419,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 756706,
+      "num": 272577,
+      "word": "中国女足扳回1球",
+      "onboard_time": 1690893394,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 754448,
       "num": 754448,
       "word": "相柳幻化女装见小夭",
@@ -459,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 702165,
-      "num": 702165,
-      "word": "超级月亮",
-      "onboard_time": 1690892314,
-      "rank": 8,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 690156,
       "num": 520218,
       "word": "妲己封神第二部造型",
@@ -481,6 +497,14 @@
       "onboard_time": 1690858538,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 673423,
+      "num": 673423,
+      "word": "河北暴雨",
+      "onboard_time": 1690889072,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672618,
@@ -499,28 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 656262,
-      "num": 656262,
-      "word": "王霜破门",
-      "onboard_time": 1690892973,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 655894,
       "num": 450231,
       "word": "魏大勋巴黎欧莱雅",
       "onboard_time": 1690863462,
       "rank": 37,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 654688,
-      "num": 654688,
-      "word": "河北暴雨",
-      "onboard_time": 1690889072,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 654336,
@@ -603,12 +611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 612697,
+      "num": 612697,
+      "word": "爸爸当家",
+      "onboard_time": 1690892073,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 607251,
       "num": 607251,
       "word": "甄妮",
       "onboard_time": 1690861719,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 606166,
+      "num": 606166,
+      "word": "长相思 谁是我的新郎",
+      "onboard_time": 1690892011,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 596116,
@@ -643,12 +667,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 583823,
+      "num": 583823,
+      "word": "防风意映",
+      "onboard_time": 1690892553,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 578797,
       "num": 578797,
       "word": "长相思",
       "onboard_time": 1690888833,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 576654,
+      "num": 408735,
+      "word": "失业三天被妈妈说了三次",
+      "onboard_time": 1690893216,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 574573,
@@ -747,6 +787,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 517235,
+      "num": 517235,
+      "word": "LNG对战BLG",
+      "onboard_time": 1690884876,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 516987,
       "num": 516987,
       "word": "张小斐说当命运的齿轮开始转动请带上我",
@@ -769,14 +817,6 @@
       "onboard_time": 1690857520,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 504832,
-      "num": 504832,
-      "word": "爸爸当家",
-      "onboard_time": 1690892073,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 503470,
@@ -923,14 +963,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 435111,
-      "num": 435111,
-      "word": "长相思 谁是我的新郎",
-      "onboard_time": 1690892011,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 429706,
       "num": 429706,
       "word": "当我让我妹给我蒸个馒头",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1690811016,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 406133,
-      "num": 232092,
-      "word": "防风意映",
-      "onboard_time": 1690892553,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 402931,
@@ -1347,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288407,
+      "num": 288407,
+      "word": "心动6大巴修罗场",
+      "onboard_time": 1690893694,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286167,
       "num": 286167,
       "word": "网友称涿州一小区地库塌方",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1690886673,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 275744,
-      "num": 245911,
-      "word": "失业三天被妈妈说了三次",
-      "onboard_time": 1690893216,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 275617,
@@ -1451,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258141,
+      "num": 258141,
+      "word": "姬发做质子的八年伯邑考在干什么",
+      "onboard_time": 1690892856,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256865,
       "num": 256865,
       "word": "张新成周雨彤牢中吻",
@@ -1475,6 +1507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253608,
+      "num": 273127,
+      "word": "中国女足迎来生死战",
+      "onboard_time": 1690888172,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251309,
+      "num": 251309,
+      "word": "不要这么安慰焦虑的人",
+      "onboard_time": 1690892553,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250422,
       "num": 250422,
       "word": "邓为跳过芭蕾舞",
@@ -1491,11 +1539,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247136,
+      "num": 247136,
+      "word": "DYG自己走进框",
+      "onboard_time": 1690890993,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246269,
       "num": 246269,
       "word": "内马尔",
       "onboard_time": 1690830074,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 245656,
+      "num": 245656,
+      "word": "中国游泳队成都大运会首金",
+      "onboard_time": 1690893274,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1505,14 +1569,6 @@
       "onboard_time": 1690881153,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 241156,
-      "num": 246047,
-      "word": "中国女足迎来生死战",
-      "onboard_time": 1690888172,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 238765,
@@ -1545,6 +1601,14 @@
       "onboard_time": 1690797453,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235965,
+      "num": 235965,
+      "word": "tabe不抢大树",
+      "onboard_time": 1690893093,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 235659,
@@ -1587,6 +1651,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231192,
+      "num": 231192,
+      "word": "真正的詹皇 劳伦詹姆斯",
+      "onboard_time": 1690893694,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 230862,
+      "num": 230862,
+      "word": "于适杭州路演去不去",
+      "onboard_time": 1690892073,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228562,
       "num": 228562,
       "word": "封神榜",
@@ -1595,12 +1675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225146,
-      "num": 225146,
-      "word": "不要这么安慰焦虑的人",
-      "onboard_time": 1690892553,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 228552,
+      "num": 228552,
+      "word": "刘畊宏给看完封神的老婆发的照片",
+      "onboard_time": 1690894114,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224126,
@@ -1635,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216301,
-      "num": 216301,
-      "word": "于适杭州路演去不去",
-      "onboard_time": 1690892073,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 215555,
       "num": 215555,
       "word": "周迅最稳的语气说最狠的台词",
@@ -1651,12 +1723,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213196,
+      "num": 213196,
+      "word": "直击河北涿州大马村救援现场",
+      "onboard_time": 1690893155,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211570,
       "num": 211570,
       "word": "国乒女团大运会夺冠",
       "onboard_time": 1690887153,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210816,
+      "num": 210816,
+      "word": "山西蓝天救援队解救涿州被困群众",
+      "onboard_time": 1690892432,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209008,
@@ -1699,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202272,
-      "num": 202272,
-      "word": "DYG自己走进框",
-      "onboard_time": 1690890993,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201527,
       "num": 201527,
       "word": "爱与忠诚要用行动表达",
@@ -1739,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200184,
+      "num": 200184,
+      "word": "RedVelvet将发新歌",
+      "onboard_time": 1690893996,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198183,
       "num": 198183,
       "word": "造谣者向郑恺道歉",
@@ -1763,22 +1851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190343,
-      "num": 190343,
-      "word": "直击河北涿州大马村救援现场",
-      "onboard_time": 1690893155,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190163,
-      "num": 190163,
-      "word": "LNG对战BLG",
-      "onboard_time": 1690884876,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 189946,
       "num": 189946,
       "word": "李雪琴吻戏大型围观现场",
@@ -1793,30 +1865,6 @@
       "onboard_time": 1690885594,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189243,
-      "num": 189243,
-      "word": "山西蓝天救援队解救涿州被困群众",
-      "onboard_time": 1690892432,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189069,
-      "num": 189069,
-      "word": "tabe不抢大树",
-      "onboard_time": 1690893093,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 188057,
-      "num": 188057,
-      "word": "姬发做质子的八年伯邑考在干什么",
-      "onboard_time": 1690892856,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 187053,
