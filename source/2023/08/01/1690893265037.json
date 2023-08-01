@@ -1,0 +1,410 @@
+{
+  "runTime": 1690893265037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1786508,
+        "num": 1786508,
+        "word": "顺丰通报38万元劳力士手表遗失事件进展",
+        "onboard_time": 1690883193,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1586323,
+        "num": 1586323,
+        "word": "中国女足半场0比3英格兰女足",
+        "onboard_time": 1690891293,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51076,
+        "num": 1371110,
+        "word": "致敬人民子弟兵",
+        "onboard_time": 1690865919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1335712,
+        "num": 1335712,
+        "word": "长相思10年前就开始筹备了",
+        "onboard_time": 1690888713,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1058405,
+        "num": 1058405,
+        "word": "河北涿州急需大量船只转移群众",
+        "onboard_time": 1690887754,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1040537,
+        "num": 1040537,
+        "word": "中国女足vs英格兰女足",
+        "onboard_time": 1690886194,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 754448,
+        "num": 754448,
+        "word": "相柳幻化女装见小夭",
+        "onboard_time": 1690888833,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 731823,
+        "num": 731823,
+        "word": "俄罗斯素食主义网红去世",
+        "onboard_time": 1690882471,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702165,
+        "num": 702165,
+        "word": "超级月亮",
+        "onboard_time": 1690892314,
+        "rank": 8,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 681367,
+        "num": 681367,
+        "word": "女装小夭上线了",
+        "onboard_time": 1690887274,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1952288,
+        "num": 669705,
+        "word": "女婴心脏扎进一根4厘米绣花针",
+        "onboard_time": 1690890871,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656262,
+        "num": 656262,
+        "word": "王霜破门",
+        "onboard_time": 1690892973,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654688,
+        "num": 654688,
+        "word": "河北暴雨",
+        "onboard_time": 1690889072,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654336,
+        "num": 654336,
+        "word": "张晚意戏里戏外都很讨厌涂山璟",
+        "onboard_time": 1690888054,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 621033,
+        "num": 621033,
+        "word": "中国女足落后",
+        "onboard_time": 1690889371,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546988,
+        "num": 546988,
+        "word": "内娱天选将军文男主",
+        "onboard_time": 1690887634,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504832,
+        "num": 504832,
+        "word": "爸爸当家",
+        "onboard_time": 1690892073,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494483,
+        "num": 494483,
+        "word": "王楚然方发动图证明没P图",
+        "onboard_time": 1690860035,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447895,
+        "num": 447895,
+        "word": "女网红遭陌生人要求陪酒系策划摆拍",
+        "onboard_time": 1690884093,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435111,
+        "num": 435111,
+        "word": "长相思 谁是我的新郎",
+        "onboard_time": 1690892011,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417800,
+        "num": 417800,
+        "word": "知否作者二刷封神解读细节",
+        "onboard_time": 1690882352,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380324,
+        "num": 380324,
+        "word": "哥哥1万元偷卖妹妹房子给女儿",
+        "onboard_time": 1690869515,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375246,
+        "num": 375246,
+        "word": "田柾国金珉奎跳了SEVEN",
+        "onboard_time": 1690888292,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366015,
+        "num": 366015,
+        "word": "北京此轮强降雨已致11人遇难",
+        "onboard_time": 1690861719,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341854,
+        "num": 341854,
+        "word": "原来小猫也会用离开来试探爱",
+        "onboard_time": 1690883012,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 293022,
+        "num": 293022,
+        "word": "张婧仪的手机壳",
+        "onboard_time": 1690885774,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291994,
+        "num": 291994,
+        "word": "一句话救了一群人的命",
+        "onboard_time": 1690880431,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269492,
+        "num": 269492,
+        "word": "杨幂喊迪丽热巴巴",
+        "onboard_time": 1690872932,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263310,
+        "num": 263310,
+        "word": "梦里头",
+        "onboard_time": 1690889252,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241156,
+        "num": 246047,
+        "word": "中国女足迎来生死战",
+        "onboard_time": 1690888172,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275744,
+        "num": 245911,
+        "word": "失业三天被妈妈说了三次",
+        "onboard_time": 1690893216,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245751,
+        "num": 245751,
+        "word": "蔚来",
+        "onboard_time": 1690883855,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 243352,
+        "num": 243352,
+        "word": "华科初步复现韩国室温超导材料",
+        "onboard_time": 1690880492,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 232313,
+        "num": 232313,
+        "word": "DRG雷霆反击战",
+        "onboard_time": 1690892973,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 406133,
+        "num": 232092,
+        "word": "防风意映",
+        "onboard_time": 1690892553,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225146,
+        "num": 225146,
+        "word": "不要这么安慰焦虑的人",
+        "onboard_time": 1690892553,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218308,
+        "num": 218308,
+        "word": "李玟老公及继女未参加出殡仪式",
+        "onboard_time": 1690863341,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216301,
+        "num": 216301,
+        "word": "于适杭州路演去不去",
+        "onboard_time": 1690892073,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209907,
+        "num": 209907,
+        "word": "龚俊回应羊驼刘海",
+        "onboard_time": 1690886673,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202272,
+        "num": 202272,
+        "word": "DYG自己走进框",
+        "onboard_time": 1690890993,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196961,
+        "num": 196961,
+        "word": "姬发给妲己递簪子是于适设计的",
+        "onboard_time": 1690879173,
+        "rank": 40,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 190343,
+        "num": 190343,
+        "word": "直击河北涿州大马村救援现场",
+        "onboard_time": 1690893155,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190163,
+        "num": 190163,
+        "word": "LNG对战BLG",
+        "onboard_time": 1690884876,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189243,
+        "num": 189243,
+        "word": "山西蓝天救援队解救涿州被困群众",
+        "onboard_time": 1690892432,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189069,
+        "num": 189069,
+        "word": "tabe不抢大树",
+        "onboard_time": 1690893093,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188057,
+        "num": 188057,
+        "word": "姬发做质子的八年伯邑考在干什么",
+        "onboard_time": 1690892856,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186608,
+        "num": 186608,
+        "word": "超导",
+        "onboard_time": 1690868315,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 185631,
+        "num": 185992,
+        "word": "荀彧造型有点失望",
+        "onboard_time": 1690878093,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185955,
+        "num": 185955,
+        "word": "英格兰身体素质",
+        "onboard_time": 1690891293,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176287,
+        "num": 176287,
+        "word": "小猫头卡老鼠洞消防员憋笑救援",
+        "onboard_time": 1690883433,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军#"
+    }
+  }
+}

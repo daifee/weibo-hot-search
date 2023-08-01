@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690889626376,
+  "endTime": 1690893265037,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -153,6 +153,14 @@
       "onboard_time": 1690795893,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1952288,
+      "num": 669705,
+      "word": "女婴心脏扎进一根4厘米绣花针",
+      "onboard_time": 1690890871,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1938825,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1586323,
+      "num": 1586323,
+      "word": "中国女足半场0比3英格兰女足",
+      "onboard_time": 1690891293,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1578611,
       "num": 1578611,
       "word": "杨颖说自己身高168",
@@ -467,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1335712,
+      "num": 1335712,
+      "word": "长相思10年前就开始筹备了",
+      "onboard_time": 1690888713,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1323142,
       "num": 674404,
       "word": "韩国人为什么不穿彩色衣服",
@@ -553,14 +577,6 @@
       "onboard_time": 1690779875,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1166849,
-      "num": 634778,
-      "word": "长相思10年前就开始筹备了",
-      "onboard_time": 1690888713,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1125332,
@@ -675,12 +691,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1058405,
+      "num": 1058405,
+      "word": "河北涿州急需大量船只转移群众",
+      "onboard_time": 1690887754,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1054058,
       "num": 1054058,
       "word": "不上班但又饿不死的活法",
       "onboard_time": 1690763915,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1040537,
+      "num": 1040537,
+      "word": "中国女足vs英格兰女足",
+      "onboard_time": 1690886194,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1025098,
@@ -697,14 +729,6 @@
       "onboard_time": 1690791633,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1002532,
-      "num": 1002532,
-      "word": "中国女足vs英格兰女足",
-      "onboard_time": 1690886194,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 1001565,
@@ -1027,6 +1051,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 754448,
+      "num": 754448,
+      "word": "相柳幻化女装见小夭",
+      "onboard_time": 1690888833,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 753502,
       "num": 753502,
       "word": "外地人被内蒙物价整懵了",
@@ -1139,12 +1171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 692829,
-      "num": 692829,
-      "word": "河北涿州急需大量船只转移群众",
-      "onboard_time": 1690887754,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 702165,
+      "num": 702165,
+      "word": "超级月亮",
+      "onboard_time": 1690892314,
+      "rank": 8,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 692397,
@@ -1219,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656262,
+      "num": 656262,
+      "word": "王霜破门",
+      "onboard_time": 1690892973,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 656015,
       "num": 656015,
       "word": "杨紫拍戏过程中不知道邓为哭了",
@@ -1233,6 +1273,22 @@
       "onboard_time": 1690863462,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 654688,
+      "num": 654688,
+      "word": "河北暴雨",
+      "onboard_time": 1690889072,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 654336,
+      "num": 654336,
+      "word": "张晚意戏里戏外都很讨厌涂山璟",
+      "onboard_time": 1690888054,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 653847,
@@ -1313,6 +1369,14 @@
       "onboard_time": 1690723596,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 621033,
+      "num": 621033,
+      "word": "中国女足落后",
+      "onboard_time": 1690889371,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 620242,
@@ -1441,14 +1505,6 @@
       "onboard_time": 1690790193,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 580954,
-      "num": 580954,
-      "word": "中国女足落后",
-      "onboard_time": 1690889371,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 579030,
@@ -1587,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546988,
+      "num": 546988,
+      "word": "内娱天选将军文男主",
+      "onboard_time": 1690887634,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 544486,
       "num": 342373,
       "word": "交行回应高管儿子活剥猫皮",
@@ -1697,6 +1761,14 @@
       "onboard_time": 1690857520,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 504832,
+      "num": 504832,
+      "word": "爸爸当家",
+      "onboard_time": 1690892073,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 503470,
@@ -1963,6 +2035,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 435111,
+      "num": 435111,
+      "word": "长相思 谁是我的新郎",
+      "onboard_time": 1690892011,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434263,
       "num": 281683,
       "word": "RIIZE",
@@ -2091,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406133,
+      "num": 232092,
+      "word": "防风意映",
+      "onboard_time": 1690892553,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 402931,
       "num": 402931,
       "word": "建军节",
@@ -2187,14 +2275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389719,
-      "num": 389719,
-      "word": "内娱天选将军文男主",
-      "onboard_time": 1690887634,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 388427,
       "num": 332518,
       "word": "北京房山门头沟平均降雨量超300毫米",
@@ -2281,6 +2361,14 @@
       "onboard_time": 1690799971,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375246,
+      "num": 375246,
+      "word": "田柾国金珉奎跳了SEVEN",
+      "onboard_time": 1690888292,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 371315,
@@ -2507,14 +2595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 336225,
-      "num": 336225,
-      "word": "田柾国金珉奎跳了SEVEN",
-      "onboard_time": 1690888292,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 335712,
       "num": 293415,
       "word": "官方回应网传县委书记自杀身亡",
@@ -2579,14 +2659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 319055,
-      "num": 319055,
-      "word": "相柳幻化女装见小夭",
-      "onboard_time": 1690888833,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 318154,
       "num": 318154,
       "word": "小夭的三个男人乐子真多",
@@ -2607,14 +2679,6 @@
       "num": 313783,
       "word": "杨玏分享伯邑考杀青视频",
       "onboard_time": 1690767691,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 314823,
-      "num": 274194,
-      "word": "张晚意戏里戏外都很讨厌涂山璟",
-      "onboard_time": 1690888054,
       "rank": 39,
       "category": "影视"
     },
@@ -2931,6 +2995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275744,
+      "num": 245911,
+      "word": "失业三天被妈妈说了三次",
+      "onboard_time": 1690893216,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275617,
       "num": 275617,
       "word": "比大人还冷静周到的女宝宝",
@@ -3073,6 +3145,14 @@
       "onboard_time": 1690725933,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 263310,
+      "num": 263310,
+      "word": "梦里头",
+      "onboard_time": 1690889252,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 262474,
@@ -3235,6 +3315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241156,
+      "num": 246047,
+      "word": "中国女足迎来生死战",
+      "onboard_time": 1690888172,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240877,
       "num": 337262,
       "word": "北京石景山京西大悦城门口塌陷",
@@ -3315,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232313,
+      "num": 232313,
+      "word": "DRG雷霆反击战",
+      "onboard_time": 1690892973,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232150,
       "num": 232150,
       "word": "门头沟这些地区通讯全部中断",
@@ -3339,20 +3435,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228678,
-      "num": 231294,
-      "word": "中国女足迎来生死战",
-      "onboard_time": 1690888172,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225146,
       "num": 225146,
       "word": "内娱身材管理满分的明星",
       "onboard_time": 1690739058,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225146,
+      "num": 225146,
+      "word": "不要这么安慰焦虑的人",
+      "onboard_time": 1690892553,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 224868,
@@ -3441,6 +3537,14 @@
       "onboard_time": 1690767031,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216301,
+      "num": 216301,
+      "word": "于适杭州路演去不去",
+      "onboard_time": 1690892073,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 214529,
@@ -3555,20 +3659,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202856,
-      "num": 202856,
-      "word": "河北暴雨",
-      "onboard_time": 1690889072,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202274,
       "num": 202274,
       "word": "陈牧驰封神面试打军体拳",
       "onboard_time": 1690804591,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202272,
+      "num": 202272,
+      "word": "DYG自己走进框",
+      "onboard_time": 1690890993,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 202239,
@@ -3625,14 +3729,6 @@
       "onboard_time": 1690794872,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198135,
-      "num": 198135,
-      "word": "梦里头",
-      "onboard_time": 1690889252,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 196630,
@@ -3707,6 +3803,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190343,
+      "num": 190343,
+      "word": "直击河北涿州大马村救援现场",
+      "onboard_time": 1690893155,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190163,
+      "num": 190163,
+      "word": "LNG对战BLG",
+      "onboard_time": 1690884876,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189750,
       "num": 189750,
       "word": "王霜生死战首发",
@@ -3715,12 +3827,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189243,
+      "num": 189243,
+      "word": "山西蓝天救援队解救涿州被困群众",
+      "onboard_time": 1690892432,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189069,
+      "num": 189069,
+      "word": "tabe不抢大树",
+      "onboard_time": 1690893093,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189034,
       "num": 235712,
       "word": "夏季赛第七周最佳阵容",
       "onboard_time": 1690801772,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188057,
+      "num": 188057,
+      "word": "姬发做质子的八年伯邑考在干什么",
+      "onboard_time": 1690892856,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 186921,
@@ -3737,6 +3873,14 @@
       "onboard_time": 1690885295,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185955,
+      "num": 185955,
+      "word": "英格兰身体素质",
+      "onboard_time": 1690891293,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 185030,
@@ -3945,14 +4089,6 @@
       "onboard_time": 1690814020,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158961,
-      "num": 158961,
-      "word": "LNG对战BLG",
-      "onboard_time": 1690884876,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 156713,
@@ -4422,6 +4558,9 @@
     },
     {
       "word": "#习近平对防汛救灾工作作出重要指示#"
+    },
+    {
+      "word": "#逐梦强军#"
     }
   ]
 }
