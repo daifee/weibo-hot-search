@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690896025829,
+  "endTime": 1690896840621,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -17,6 +17,14 @@
       "onboard_time": 1690773156,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3243332,
+      "num": 3243332,
+      "word": "中国女足1比6英格兰女足",
+      "onboard_time": 1690895497,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 3233719,
@@ -145,14 +153,6 @@
       "onboard_time": 1690855416,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1985170,
-      "num": 1985170,
-      "word": "中国女足1比6英格兰女足",
-      "onboard_time": 1690895497,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1974654,
@@ -595,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1243449,
+      "num": 1243449,
+      "word": "小夭吻得好主动",
+      "onboard_time": 1690894899,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1240133,
       "num": 1240133,
       "word": "papi酱melody加盟再见爱人3",
@@ -915,12 +923,28 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 881438,
+      "num": 456231,
+      "word": "失业三天被妈妈说了三次",
+      "onboard_time": 1690893216,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 879045,
       "num": 765036,
       "word": "莫斯科",
       "onboard_time": 1690790671,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 875580,
+      "num": 802867,
+      "word": "向佐郭碧婷带娃逛迪士尼",
+      "onboard_time": 1690895618,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 874169,
@@ -979,22 +1003,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 834703,
-      "num": 834703,
-      "word": "小夭吻得好主动",
-      "onboard_time": 1690894899,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 830631,
-      "num": 408735,
-      "word": "失业三天被妈妈说了三次",
-      "onboard_time": 1690893216,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 810750,
       "num": 810750,
       "word": "列车延误女乘务员哽咽安抚乘客",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1690819113,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 801832,
+      "num": 801832,
+      "word": "中国女足小组出局",
+      "onboard_time": 1690895976,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 796207,
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 793121,
-      "num": 687119,
+      "num": 756758,
       "word": "长相思 谁是我的新郎",
       "onboard_time": 1690892011,
       "rank": 19,
@@ -1457,6 +1473,14 @@
       "onboard_time": 1690779576,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 614729,
+      "num": 614729,
+      "word": "长相思刚喜欢上的男人变成了我姐",
+      "onboard_time": 1690895857,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 614564,
@@ -1923,14 +1947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 481429,
-      "num": 481429,
-      "word": "向佐郭碧婷带娃逛迪士尼",
-      "onboard_time": 1690895618,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 479998,
       "num": 479998,
       "word": "四大浓颜系男星",
@@ -2083,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449770,
+      "num": 330074,
+      "word": "前几天才知道楼下那只橘猫死了",
+      "onboard_time": 1690895137,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 449342,
       "num": 449342,
       "word": "罗布泊",
@@ -2129,6 +2153,14 @@
       "onboard_time": 1690845505,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 437178,
+      "num": 437178,
+      "word": "吴世勋上身身材",
+      "onboard_time": 1690894417,
+      "rank": 21,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 434263,
@@ -2259,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404319,
+      "num": 404319,
+      "word": "ON泪洒赛场",
+      "onboard_time": 1690896160,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 402931,
       "num": 402931,
       "word": "建军节",
@@ -2371,14 +2411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 387830,
-      "num": 387830,
-      "word": "吴世勋上身身材",
-      "onboard_time": 1690894417,
-      "rank": 21,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 387171,
       "num": 387171,
       "word": "泄洪",
@@ -2401,6 +2433,14 @@
       "onboard_time": 1690858118,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382517,
+      "num": 288962,
+      "word": "感谢老天送我一个情绪稳定的女儿",
+      "onboard_time": 1690895317,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 381086,
@@ -2745,14 +2785,6 @@
       "onboard_time": 1690811496,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330074,
-      "num": 330074,
-      "word": "前几天才知道楼下那只橘猫死了",
-      "onboard_time": 1690895137,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 327504,
@@ -3283,14 +3315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263047,
-      "num": 263047,
-      "word": "中国女足小组出局",
-      "onboard_time": 1690895976,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262474,
       "num": 262474,
       "word": "涿州被洪水围困小区居民发声",
@@ -3299,12 +3323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262225,
+      "num": 262225,
+      "word": "DYG自己走进框",
+      "onboard_time": 1690890993,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261941,
       "num": 261941,
       "word": "莲花楼失莲不断联",
       "onboard_time": 1690772310,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261872,
+      "num": 261872,
+      "word": "10岁女童来京探亲被水冲走",
+      "onboard_time": 1690896338,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261849,
@@ -3369,14 +3409,6 @@
       "onboard_time": 1690867657,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 256647,
-      "num": 256647,
-      "word": "感谢老天送我一个情绪稳定的女儿",
-      "onboard_time": 1690895317,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 256502,
@@ -3459,14 +3491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247136,
-      "num": 247136,
-      "word": "DYG自己走进框",
-      "onboard_time": 1690890993,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 246798,
       "num": 246798,
       "word": "RedVelvet将发新歌",
@@ -3481,6 +3505,14 @@
       "onboard_time": 1690830074,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243668,
+      "num": 243668,
+      "word": "冒泡赛",
+      "onboard_time": 1690895618,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 243236,
@@ -3545,14 +3577,6 @@
       "onboard_time": 1690888533,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235392,
-      "num": 235392,
-      "word": "长相思刚喜欢上的男人变成了我姐",
-      "onboard_time": 1690895857,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 235167,
@@ -3699,11 +3723,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219114,
-      "num": 219114,
-      "word": "冒泡赛",
-      "onboard_time": 1690895618,
-      "rank": 45,
+      "raw_hot": 219952,
+      "num": 219952,
+      "word": "BLG拒绝八擒",
+      "onboard_time": 1690896518,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -3772,7 +3796,7 @@
     },
     {
       "raw_hot": 210816,
-      "num": 235277,
+      "num": 289047,
       "word": "山西蓝天救援队解救涿州被困群众",
       "onboard_time": 1690892432,
       "rank": 43,
@@ -4171,6 +4195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168403,
+      "num": 168403,
+      "word": "EDG冒泡赛打谁",
+      "onboard_time": 1690896816,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167033,
       "num": 174588,
       "word": "男子肠道密密麻麻长满200多个息肉",
@@ -4377,6 +4409,14 @@
       "onboard_time": 1690868075,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124306,
+      "num": 1594262,
+      "word": "致敬那些暴雨中的逆行者",
+      "onboard_time": 1690895434,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122963,
@@ -4593,14 +4633,6 @@
       "onboard_time": 1690827078,
       "rank": 34,
       "category": "军事"
-    },
-    {
-      "raw_hot": 53247,
-      "num": 1594262,
-      "word": "致敬那些暴雨中的逆行者",
-      "onboard_time": 1690895434,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44262,
