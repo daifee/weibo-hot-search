@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690878831929,
+  "endTime": 1690881412824,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -171,6 +171,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1829605,
+      "num": 1829605,
+      "word": "成都给花花出了个冰淇淋",
+      "onboard_time": 1690875931,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1817867,
+      "num": 1817867,
+      "word": "荀彧造型有点失望",
+      "onboard_time": 1690878093,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1802849,
       "num": 1525186,
       "word": "李玟大殓出殡",
@@ -329,14 +345,6 @@
       "onboard_time": 1690805374,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1478906,
-      "num": 1478906,
-      "word": "成都给花花出了个冰淇淋",
-      "onboard_time": 1690875931,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1473550,
@@ -499,6 +507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1256570,
+      "num": 1256570,
+      "word": "玱玹原著娶了九个老婆",
+      "onboard_time": 1690878935,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1254690,
       "num": 1254690,
       "word": "张一山说杨紫从小就很漂亮",
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990820,
+      "num": 990820,
+      "word": "河北强降雨已致9人遇难6人失联",
+      "onboard_time": 1690879894,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 986828,
       "num": 502260,
       "word": "门头沟",
@@ -769,6 +793,14 @@
       "onboard_time": 1690790671,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 874169,
+      "num": 874169,
+      "word": "是阿昕儿又又又回应了",
+      "onboard_time": 1690876654,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 873687,
@@ -923,20 +955,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 754063,
-      "num": 754063,
-      "word": "是阿昕儿又又又回应了",
-      "onboard_time": 1690876654,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 753502,
       "num": 753502,
       "word": "外地人被内蒙物价整懵了",
       "onboard_time": 1690735886,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 747964,
+      "num": 747964,
+      "word": "超导",
+      "onboard_time": 1690868315,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 744980,
@@ -1011,6 +1043,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 708592,
+      "num": 708592,
+      "word": "NCTDREAM将举办上海签售会",
+      "onboard_time": 1690880192,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 692397,
       "num": 692397,
       "word": "李雪琴吻戏大型围观现场",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1690726416,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 667960,
-      "num": 667960,
-      "word": "超导",
-      "onboard_time": 1690868315,
-      "rank": 8,
-      "category": "科技"
     },
     {
       "raw_hot": 660809,
@@ -1201,6 +1233,14 @@
       "onboard_time": 1690845685,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 612240,
+      "num": 612240,
+      "word": "姬发给妲己递簪子是于适设计的",
+      "onboard_time": 1690879173,
+      "rank": 12,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 609754,
@@ -1851,6 +1891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410503,
+      "num": 381683,
+      "word": "杨紫说张晚意你真是人才",
+      "onboard_time": 1690876831,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410421,
       "num": 339966,
       "word": "王刚 我对我和全队表现感到耻辱",
@@ -2059,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374900,
+      "num": 374900,
+      "word": "华科初步复现韩国室温超导材料",
+      "onboard_time": 1690880492,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 371315,
       "num": 371315,
       "word": "独家童话",
@@ -2112,14 +2168,6 @@
       "word": "再见就是小夭防风邶了",
       "onboard_time": 1690729297,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 361896,
-      "num": 361896,
-      "word": "杨紫说张晚意你真是人才",
-      "onboard_time": 1690876831,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -2355,14 +2403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315065,
-      "num": 315065,
-      "word": "荀彧造型有点失望",
-      "onboard_time": 1690878093,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 314652,
       "num": 314652,
       "word": "道士们品评封神",
@@ -2561,6 +2601,14 @@
       "onboard_time": 1690810596,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291575,
+      "num": 291575,
+      "word": "河北暴雨救援",
+      "onboard_time": 1690878334,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291031,
@@ -2883,6 +2931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249046,
+      "num": 249046,
+      "word": "强降雨造成河北540703人受灾",
+      "onboard_time": 1690880374,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247833,
       "num": 247833,
       "word": "成都串串店深夜坐满外国运动员",
@@ -3115,12 +3171,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211814,
+      "num": 211814,
+      "word": "封神苏州路演",
+      "onboard_time": 1690881153,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209835,
       "num": 209835,
       "word": "陈都灵挂脖露背裙",
       "onboard_time": 1690788157,
       "rank": 45,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 209008,
+      "num": 209008,
+      "word": "你被热烈里的哪一句话打动了",
+      "onboard_time": 1690880374,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 208332,
@@ -3243,6 +3315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198074,
+      "num": 198074,
+      "word": "LGD对战RW",
+      "onboard_time": 1690881272,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196630,
       "num": 202179,
       "word": "安乐传",
@@ -3268,7 +3348,7 @@
     },
     {
       "raw_hot": 194777,
-      "num": 1204944,
+      "num": 1418641,
       "word": "致敬人民子弟兵",
       "onboard_time": 1690865919,
       "rank": 39,
@@ -3307,6 +3387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189947,
+      "num": 189947,
+      "word": "最值钱的商品是空间",
+      "onboard_time": 1690879712,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189034,
       "num": 235712,
       "word": "夏季赛第七周最佳阵容",
@@ -3339,6 +3427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183837,
+      "num": 183837,
+      "word": "东方风云榜",
+      "onboard_time": 1690878754,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183590,
       "num": 205543,
       "word": "百香果话梅冰粉",
@@ -3369,14 +3465,6 @@
       "onboard_time": 1690806453,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180249,
-      "num": 180249,
-      "word": "河北暴雨救援",
-      "onboard_time": 1690878334,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179968,
@@ -3467,20 +3555,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 165355,
-      "num": 165355,
-      "word": "东方风云榜",
-      "onboard_time": 1690878754,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 164203,
       "num": 141890,
       "word": "钟汉良上海演唱会",
       "onboard_time": 1690730613,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164082,
+      "num": 490155,
+      "word": "北京消防暴雨中用脸盆转移受困婴儿",
+      "onboard_time": 1690876831,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163691,
@@ -3521,6 +3609,14 @@
       "onboard_time": 1690814020,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158275,
+      "num": 158275,
+      "word": "森林进化论",
+      "onboard_time": 1690881396,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 156713,
@@ -3627,14 +3723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135359,
-      "num": 490155,
-      "word": "北京消防暴雨中用脸盆转移受困婴儿",
-      "onboard_time": 1690876831,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135124,
       "num": 152897,
       "word": "明日方舟",
@@ -3657,6 +3745,14 @@
       "onboard_time": 1690868075,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125763,
+      "num": 493033,
+      "word": "一句话救了一群人的命",
+      "onboard_time": 1690880431,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122963,

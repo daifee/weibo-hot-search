@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690878831929,
+  "endTime": 1690881412824,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -59,6 +59,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1829605,
+      "num": 1829605,
+      "word": "成都给花花出了个冰淇淋",
+      "onboard_time": 1690875931,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1817867,
+      "num": 1817867,
+      "word": "荀彧造型有点失望",
+      "onboard_time": 1690878093,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1802849,
       "num": 1525186,
       "word": "李玟大殓出殡",
@@ -99,14 +115,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1478906,
-      "num": 1478906,
-      "word": "成都给花花出了个冰淇淋",
-      "onboard_time": 1690875931,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1438562,
       "num": 1438562,
       "word": "杨幂喊迪丽热巴巴",
@@ -143,6 +151,14 @@
       "num": 1277709,
       "word": "长相思群演的工资",
       "onboard_time": 1690847854,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1256570,
+      "num": 1256570,
+      "word": "玱玹原著娶了九个老婆",
+      "onboard_time": 1690878935,
       "rank": 3,
       "category": "影视"
     },
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990820,
+      "num": 990820,
+      "word": "河北强降雨已致9人遇难6人失联",
+      "onboard_time": 1690879894,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 939029,
       "num": 939029,
       "word": "姬发 殷寿",
@@ -233,6 +257,14 @@
       "onboard_time": 1690863341,
       "rank": 42,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 874169,
+      "num": 874169,
+      "word": "是阿昕儿又又又回应了",
+      "onboard_time": 1690876654,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 863419,
@@ -275,12 +307,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 754063,
-      "num": 754063,
-      "word": "是阿昕儿又又又回应了",
-      "onboard_time": 1690876654,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 747964,
+      "num": 747964,
+      "word": "超导",
+      "onboard_time": 1690868315,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 716551,
@@ -297,6 +329,14 @@
       "onboard_time": 1690863401,
       "rank": 40,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 708592,
+      "num": 708592,
+      "word": "NCTDREAM将举办上海签售会",
+      "onboard_time": 1690880192,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 690156,
@@ -321,14 +361,6 @@
       "onboard_time": 1690857878,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 667960,
-      "num": 667960,
-      "word": "超导",
-      "onboard_time": 1690868315,
-      "rank": 8,
-      "category": "科技"
     },
     {
       "raw_hot": 656366,
@@ -393,6 +425,14 @@
       "onboard_time": 1690845685,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 612240,
+      "num": 612240,
+      "word": "姬发给妲己递簪子是于适设计的",
+      "onboard_time": 1690879173,
+      "rank": 12,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 607251,
@@ -707,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410503,
+      "num": 381683,
+      "word": "杨紫说张晚意你真是人才",
+      "onboard_time": 1690876831,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408750,
       "num": 408750,
       "word": "迪丽热巴说身材管理是工作的一部分",
@@ -779,6 +827,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 374900,
+      "num": 374900,
+      "word": "华科初步复现韩国室温超导材料",
+      "onboard_time": 1690880492,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 371315,
       "num": 371315,
       "word": "独家童话",
@@ -793,14 +849,6 @@
       "onboard_time": 1690868554,
       "rank": 22,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 361896,
-      "num": 361896,
-      "word": "杨紫说张晚意你真是人才",
-      "onboard_time": 1690876831,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 361492,
@@ -907,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315065,
-      "num": 315065,
-      "word": "荀彧造型有点失望",
-      "onboard_time": 1690878093,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 314652,
       "num": 314652,
       "word": "道士们品评封神",
@@ -977,6 +1017,14 @@
       "onboard_time": 1690808673,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 291575,
+      "num": 291575,
+      "word": "河北暴雨救援",
+      "onboard_time": 1690878334,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291031,
@@ -1099,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249046,
+      "num": 249046,
+      "word": "强降雨造成河北540703人受灾",
+      "onboard_time": 1690880374,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246269,
       "num": 246269,
       "word": "内马尔",
@@ -1203,6 +1259,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211814,
+      "num": 211814,
+      "word": "封神苏州路演",
+      "onboard_time": 1690881153,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 209008,
+      "num": 209008,
+      "word": "你被热烈里的哪一句话打动了",
+      "onboard_time": 1690880374,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204258,
       "num": 204258,
       "word": "林墨以为的杨迪vs真实的杨迪",
@@ -1251,12 +1323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198074,
+      "num": 198074,
+      "word": "LGD对战RW",
+      "onboard_time": 1690881272,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194777,
-      "num": 1204944,
+      "num": 1418641,
       "word": "致敬人民子弟兵",
       "onboard_time": 1690865919,
       "rank": 39,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 189947,
+      "num": 189947,
+      "word": "最值钱的商品是空间",
+      "onboard_time": 1690879712,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 189946,
@@ -1275,6 +1363,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 183837,
+      "num": 183837,
+      "word": "东方风云榜",
+      "onboard_time": 1690878754,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183590,
       "num": 205543,
       "word": "百香果话梅冰粉",
@@ -1288,14 +1384,6 @@
       "word": "K396次Z180次列车受阻旅客安全转移",
       "onboard_time": 1690810720,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180249,
-      "num": 180249,
-      "word": "河北暴雨救援",
-      "onboard_time": 1690878334,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1371,12 +1459,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 165355,
-      "num": 165355,
-      "word": "东方风云榜",
-      "onboard_time": 1690878754,
-      "rank": 47,
-      "category": "音乐"
+      "raw_hot": 164082,
+      "num": 490155,
+      "word": "北京消防暴雨中用脸盆转移受困婴儿",
+      "onboard_time": 1690876831,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163691,
@@ -1393,6 +1481,14 @@
       "onboard_time": 1690855054,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158275,
+      "num": 158275,
+      "word": "森林进化论",
+      "onboard_time": 1690881396,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 153071,
@@ -1424,14 +1520,6 @@
       "word": "是谁坐高铁还要看导航",
       "onboard_time": 1690805073,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135359,
-      "num": 490155,
-      "word": "北京消防暴雨中用脸盆转移受困婴儿",
-      "onboard_time": 1690876831,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1473,6 +1561,14 @@
       "onboard_time": 1690868075,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125763,
+      "num": 493033,
+      "word": "一句话救了一群人的命",
+      "onboard_time": 1690880431,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122963,
