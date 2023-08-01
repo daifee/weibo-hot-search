@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690870994660,
+  "endTime": 1690871798396,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -603,8 +603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 989816,
-      "num": 378475,
+      "raw_hot": 1001565,
+      "num": 452113,
       "word": "哥哥1万元偷卖妹妹房子给女儿",
       "onboard_time": 1690869515,
       "rank": 20,
@@ -713,6 +713,14 @@
       "onboard_time": 1690781014,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 884336,
+      "num": 884336,
+      "word": "被CardiB扔话筒当事人已报案",
+      "onboard_time": 1690870232,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 881761,
@@ -1075,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 647832,
+      "num": 647832,
+      "word": "TF四代 北京",
+      "onboard_time": 1690869396,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643247,
       "num": 643247,
       "word": "涿州暴雨",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1690798535,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 625014,
-      "num": 625014,
-      "word": "TF四代 北京",
-      "onboard_time": 1690869396,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 622877,
@@ -1211,20 +1219,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 595525,
+      "num": 595525,
+      "word": "李玟老公回应记者提问",
+      "onboard_time": 1690868433,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594678,
       "num": 594678,
       "word": "故宫辟谣600年不积水",
       "onboard_time": 1690816057,
       "rank": 24,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 590741,
-      "num": 527410,
-      "word": "李玟老公回应记者提问",
-      "onboard_time": 1690868433,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 589582,
@@ -1419,14 +1427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 529483,
-      "num": 529483,
-      "word": "被CardiB扔话筒当事人已报案",
-      "onboard_time": 1690870232,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 527917,
       "num": 368327,
       "word": "导演调侃吴宣仪要美一点",
@@ -1467,6 +1467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 504329,
+      "num": 504329,
+      "word": "四川内江地震",
+      "onboard_time": 1690869157,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503470,
       "num": 405876,
       "word": "西安将迎最火爆的一周",
@@ -1504,14 +1512,6 @@
       "word": "北京8月1日起雨势将减弱",
       "onboard_time": 1690813779,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494225,
-      "num": 494225,
-      "word": "四川内江地震",
-      "onboard_time": 1690869157,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1723,8 +1723,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 428386,
-      "num": 377019,
+      "raw_hot": 429706,
+      "num": 429706,
       "word": "当我让我妹给我蒸个馒头",
       "onboard_time": 1690867535,
       "rank": 41,
@@ -1816,6 +1816,14 @@
       "word": "小夭相柳是情侣名",
       "onboard_time": 1690762714,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 396867,
+      "num": 396867,
+      "word": "封神第一部票房破12亿",
+      "onboard_time": 1690870653,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -2227,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 318154,
+      "num": 318154,
+      "word": "小夭的三个男人乐子真多",
+      "onboard_time": 1690870354,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317809,
       "num": 316905,
       "word": "撒贝宁这辈子没这么尴尬过",
@@ -2240,6 +2256,14 @@
       "word": "杨玏分享伯邑考杀青视频",
       "onboard_time": 1690767691,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314652,
+      "num": 314652,
+      "word": "道士们品评封神",
+      "onboard_time": 1690870053,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -2296,14 +2320,6 @@
       "word": "长相思才是我想看的女主视角剧",
       "onboard_time": 1690742537,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 307525,
-      "num": 307525,
-      "word": "道士们品评封神",
-      "onboard_time": 1690870053,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -2395,14 +2411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297844,
-      "num": 297844,
-      "word": "小夭的三个男人乐子真多",
-      "onboard_time": 1690870354,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 296480,
       "num": 296480,
       "word": "赵丽颖周一上班照",
@@ -2457,14 +2465,6 @@
       "onboard_time": 1690853016,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288762,
-      "num": 288762,
-      "word": "封神第一部票房破12亿",
-      "onboard_time": 1690870653,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 288759,
@@ -3027,6 +3027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201527,
+      "num": 201527,
+      "word": "爱与忠诚要用行动表达",
+      "onboard_time": 1690870953,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201421,
       "num": 175915,
       "word": "长相思",
@@ -3235,20 +3243,20 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 170627,
+      "num": 170627,
+      "word": "参加女儿毕业典礼的韩商言孟宴臣",
+      "onboard_time": 1690871732,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169821,
       "num": 202080,
       "word": "刘耀文大时代高音",
       "onboard_time": 1690771229,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 169360,
-      "num": 169360,
-      "word": "爱与忠诚要用行动表达",
-      "onboard_time": 1690870953,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 167033,
@@ -3435,6 +3443,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126909,
+      "num": 169157,
+      "word": "恋与制作人",
+      "onboard_time": 1690868075,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 122963,
+      "num": 164403,
+      "word": "你的手机常年静音么",
+      "onboard_time": 1690870774,
+      "rank": 49,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 122328,
       "num": 122328,
       "word": "暑期档三大平台接档剧",
@@ -3465,14 +3489,6 @@
       "onboard_time": 1690791333,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120628,
-      "num": 169157,
-      "word": "恋与制作人",
-      "onboard_time": 1690868075,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 120219,
@@ -3664,6 +3680,14 @@
       "word": "青春主场梦想正当燃",
       "onboard_time": 1690860634,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30962,
+      "num": 507345,
+      "word": "男子被洪水围困消防员从天而降救援",
+      "onboard_time": 1690871014,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

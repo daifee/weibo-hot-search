@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690870994660,
+  "endTime": 1690871798396,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -155,8 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 989816,
-      "num": 378475,
+      "raw_hot": 1001565,
+      "num": 452113,
       "word": "哥哥1万元偷卖妹妹房子给女儿",
       "onboard_time": 1690869515,
       "rank": 20,
@@ -185,6 +185,14 @@
       "onboard_time": 1690849237,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 884336,
+      "num": 884336,
+      "word": "被CardiB扔话筒当事人已报案",
+      "onboard_time": 1690870232,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 881761,
@@ -299,6 +307,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 647832,
+      "num": 647832,
+      "word": "TF四代 北京",
+      "onboard_time": 1690869396,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645658,
       "num": 518696,
       "word": "黄子韬说只有鹿晗能让我取消行程",
@@ -321,14 +337,6 @@
       "onboard_time": 1690855592,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 625014,
-      "num": 625014,
-      "word": "TF四代 北京",
-      "onboard_time": 1690869396,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 620242,
@@ -363,20 +371,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 595525,
+      "num": 595525,
+      "word": "李玟老公回应记者提问",
+      "onboard_time": 1690868433,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594678,
       "num": 594678,
       "word": "故宫辟谣600年不积水",
       "onboard_time": 1690816057,
       "rank": 24,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 590741,
-      "num": 527410,
-      "word": "李玟老公回应记者提问",
-      "onboard_time": 1690868433,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 589582,
@@ -427,14 +435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 529483,
-      "num": 529483,
-      "word": "被CardiB扔话筒当事人已报案",
-      "onboard_time": 1690870232,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 527917,
       "num": 368327,
       "word": "导演调侃吴宣仪要美一点",
@@ -475,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 504329,
+      "num": 504329,
+      "word": "四川内江地震",
+      "onboard_time": 1690869157,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503470,
       "num": 405876,
       "word": "西安将迎最火爆的一周",
@@ -489,14 +497,6 @@
       "onboard_time": 1690847251,
       "rank": 23,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 494225,
-      "num": 494225,
-      "word": "四川内江地震",
-      "onboard_time": 1690869157,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 493594,
@@ -587,8 +587,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 428386,
-      "num": 377019,
+      "raw_hot": 429706,
+      "num": 429706,
       "word": "当我让我妹给我蒸个馒头",
       "onboard_time": 1690867535,
       "rank": 41,
@@ -633,6 +633,14 @@
       "onboard_time": 1690819354,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396867,
+      "num": 396867,
+      "word": "封神第一部票房破12亿",
+      "onboard_time": 1690870653,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 388369,
@@ -779,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 318154,
+      "num": 318154,
+      "word": "小夭的三个男人乐子真多",
+      "onboard_time": 1690870354,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317666,
       "num": 423913,
       "word": "北京8月1日起雨势将减弱",
@@ -795,20 +811,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314652,
+      "num": 314652,
+      "word": "道士们品评封神",
+      "onboard_time": 1690870053,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311745,
       "num": 311745,
       "word": "李玟灵堂成紫色花海",
       "onboard_time": 1690865259,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 307525,
-      "num": 307525,
-      "word": "道士们品评封神",
-      "onboard_time": 1690870053,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 301701,
@@ -825,14 +841,6 @@
       "onboard_time": 1690858716,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297844,
-      "num": 297844,
-      "word": "小夭的三个男人乐子真多",
-      "onboard_time": 1690870354,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 295167,
@@ -873,14 +881,6 @@
       "onboard_time": 1690853016,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288762,
-      "num": 288762,
-      "word": "封神第一部票房破12亿",
-      "onboard_time": 1690870653,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 286167,
@@ -1043,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201527,
+      "num": 201527,
+      "word": "爱与忠诚要用行动表达",
+      "onboard_time": 1690870953,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200876,
       "num": 200876,
       "word": "射手座真的不是冷漠的人",
@@ -1147,12 +1155,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169360,
-      "num": 169360,
-      "word": "爱与忠诚要用行动表达",
-      "onboard_time": 1690870953,
+      "raw_hot": 170627,
+      "num": 170627,
+      "word": "参加女儿毕业典礼的韩商言孟宴臣",
+      "onboard_time": 1690871732,
       "rank": 47,
-      "category": "情感"
+      "category": "幽默"
     },
     {
       "raw_hot": 168644,
@@ -1251,6 +1259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126909,
+      "num": 169157,
+      "word": "恋与制作人",
+      "onboard_time": 1690868075,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 122963,
+      "num": 164403,
+      "word": "你的手机常年静音么",
+      "onboard_time": 1690870774,
+      "rank": 49,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 122328,
       "num": 122328,
       "word": "暑期档三大平台接档剧",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1690810596,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120628,
-      "num": 169157,
-      "word": "恋与制作人",
-      "onboard_time": 1690868075,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 119140,
@@ -1368,6 +1384,14 @@
       "word": "青春主场梦想正当燃",
       "onboard_time": 1690860634,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30962,
+      "num": 507345,
+      "word": "男子被洪水围困消防员从天而降救援",
+      "onboard_time": 1690871014,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
