@@ -1,0 +1,410 @@
+{
+  "runTime": 1691008439673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 121542,
+        "num": 121542,
+        "word": "你的iPhone一天要充几次电",
+        "onboard_time": 1691002153,
+        "rank": 0,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 96009,
+        "num": 96009,
+        "word": "保安让王源出示自己演唱会的工作证",
+        "onboard_time": 1690983636,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3642,
+        "num": 86101,
+        "word": "暴雨洪涝后如何做好个人健康防护",
+        "onboard_time": 1690965873,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209246,
+        "num": 85098,
+        "word": "涿州",
+        "onboard_time": 1690983101,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83806,
+        "num": 83806,
+        "word": "女子翻结婚照发现老公弟弟十指相扣",
+        "onboard_time": 1690977336,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 66157,
+        "num": 66157,
+        "word": "防风邶赢麻了",
+        "onboard_time": 1690987357,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65246,
+        "num": 65246,
+        "word": "涿州书厂老板称未收到泄洪通知",
+        "onboard_time": 1690991372,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58161,
+        "num": 58161,
+        "word": "第一次去非洲的中国女婿上门礼是头羊",
+        "onboard_time": 1690988258,
+        "rank": 7,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 54340,
+        "num": 54340,
+        "word": "just听北伯",
+        "onboard_time": 1690997479,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49009,
+        "num": 49009,
+        "word": "猎罪图鉴编剧回应加女主",
+        "onboard_time": 1690980034,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48669,
+        "num": 48669,
+        "word": "北京房山的洪水变化过程",
+        "onboard_time": 1690987475,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46730,
+        "num": 46730,
+        "word": "女子过海关双腿绑满少女针",
+        "onboard_time": 1690973317,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44673,
+        "num": 44673,
+        "word": "孟子义嗑上头了",
+        "onboard_time": 1691000417,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40368,
+        "num": 40368,
+        "word": "官方辟谣李立群杭州看病花费20万",
+        "onboard_time": 1690986698,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 38297,
+        "num": 38297,
+        "word": "j人和P人手机桌面的区别",
+        "onboard_time": 1690979857,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36905,
+        "num": 36905,
+        "word": "新生儿被抱出产房外婆一句话破防",
+        "onboard_time": 1690982618,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36664,
+        "num": 36664,
+        "word": "夭璟原著结局",
+        "onboard_time": 1690988015,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34928,
+        "num": 34928,
+        "word": "卡努",
+        "onboard_time": 1690989936,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32581,
+        "num": 32581,
+        "word": "小镇饭店可免费吃饭一年仅一人点单",
+        "onboard_time": 1691004552,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 27172,
+        "num": 32531,
+        "word": "洪水中4个月大婴儿被直升机吊起",
+        "onboard_time": 1690979137,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49803,
+        "num": 32121,
+        "word": "18岁女孩被割400刀法院判轻伤",
+        "onboard_time": 1690988077,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47479,
+        "num": 31920,
+        "word": "驾校教练被曝猥亵女学员9分钟",
+        "onboard_time": 1690989156,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34375,
+        "num": 31658,
+        "word": "在美国聚会做水煮鱼惊艳全场",
+        "onboard_time": 1690984777,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 31636,
+        "num": 31636,
+        "word": "凤凰传奇工作室 律师函不会弄",
+        "onboard_time": 1690976974,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27361,
+        "num": 31631,
+        "word": "鹿晗武汉演唱会",
+        "onboard_time": 1690986875,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27186,
+        "num": 31628,
+        "word": "几年的逆子是干不过几十年的逆子的",
+        "onboard_time": 1690972895,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26260,
+        "num": 31618,
+        "word": "男子把买房送的1000克黄金卖了变现45万",
+        "onboard_time": 1690958913,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 25993,
+        "num": 31614,
+        "word": "檀健次说分so就分so",
+        "onboard_time": 1690976193,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24570,
+        "num": 31606,
+        "word": "长相思热度",
+        "onboard_time": 1690988199,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24320,
+        "num": 31598,
+        "word": "Doinb 罗云熙",
+        "onboard_time": 1690983578,
+        "rank": 29,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 24196,
+        "num": 31590,
+        "word": "周扬青我不是艺人是网红",
+        "onboard_time": 1690974694,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23556,
+        "num": 31578,
+        "word": "河北强降雨已致9人遇难6人失联",
+        "onboard_time": 1690879894,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22365,
+        "num": 31575,
+        "word": "夭柳党心碎",
+        "onboard_time": 1690988799,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22352,
+        "num": 31568,
+        "word": "XYG能不能轮换",
+        "onboard_time": 1690985257,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22201,
+        "num": 31556,
+        "word": "NONO被曝性侵后首露面",
+        "onboard_time": 1690967914,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 22057,
+        "num": 31550,
+        "word": "佟丽娅热巴是娜扎师姐",
+        "onboard_time": 1690992870,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21825,
+        "num": 31542,
+        "word": "法老 小精灵",
+        "onboard_time": 1690987657,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21276,
+        "num": 31540,
+        "word": "六公主报道王一博热烈",
+        "onboard_time": 1690986998,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20076,
+        "num": 31531,
+        "word": "K396次乘客家属讲述脱困经过",
+        "onboard_time": 1690986340,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19673,
+        "num": 31519,
+        "word": "1岁宝宝半夜栽进床边水桶溺亡",
+        "onboard_time": 1690956515,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19518,
+        "num": 31518,
+        "word": "王鹤棣西安",
+        "onboard_time": 1690987779,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17855,
+        "num": 31506,
+        "word": "大家都是毕业多久才稳定下来的",
+        "onboard_time": 1690974992,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 17779,
+        "num": 31501,
+        "word": "迪丽热巴帝梓元白发上线",
+        "onboard_time": 1690983999,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17274,
+        "num": 31490,
+        "word": "丁程鑫将暂停录制你好星期六",
+        "onboard_time": 1690972114,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16902,
+        "num": 31483,
+        "word": "虞书欣透视碎花吊带",
+        "onboard_time": 1690985620,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16827,
+        "num": 31474,
+        "word": "夏克立自曝出狱后和流浪汉一起睡桥下",
+        "onboard_time": 1690968576,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15978,
+        "num": 31473,
+        "word": "封神宇宙",
+        "onboard_time": 1690982556,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15852,
+        "num": 31462,
+        "word": "龚俊看完queencard吓出一身冷汗",
+        "onboard_time": 1690979015,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15458,
+        "num": 31458,
+        "word": "小夭终于在大荒落户了",
+        "onboard_time": 1690997180,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15309,
+        "num": 31448,
+        "word": "鞠婧祎舞台彩排图",
+        "onboard_time": 1690989097,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军#"
+    }
+  }
+}
