@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690953322013,
+  "endTime": 1690954445620,
   "band_list": [
     {
       "raw_hot": 2870626,
@@ -67,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1875879,
+      "num": 1875879,
+      "word": "难哄官博发声明",
+      "onboard_time": 1690953758,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1771484,
       "num": 1771484,
       "word": "iPhone14被用户吐槽电池老化",
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1132435,
+      "num": 1132435,
+      "word": "实在不行别哄了",
+      "onboard_time": 1690952740,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1093891,
       "num": 1093891,
       "word": "26度高温导致加拿大一家人中暑",
@@ -160,6 +176,22 @@
       "word": "霉霉给工作人员发放超5500万美元奖金",
       "onboard_time": 1690943493,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 955116,
+      "num": 800743,
+      "word": "TF家族四代同堂",
+      "onboard_time": 1690953635,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 948371,
+      "num": 797500,
+      "word": "小S带3个女儿游韩国",
+      "onboard_time": 1690953098,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -211,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862860,
+      "num": 862860,
+      "word": "香蜜冰糖星糖全员售后",
+      "onboard_time": 1690952500,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 854222,
       "num": 574130,
       "word": "入职第一天被派去新疆40天",
@@ -259,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777662,
+      "num": 777662,
+      "word": "佳木斯一小区公示盖方舱医院遭居民质疑",
+      "onboard_time": 1690953577,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 774779,
       "num": 774779,
       "word": "心动6三个男生都投给了女一",
@@ -289,6 +337,14 @@
       "onboard_time": 1690947274,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 735690,
+      "num": 306866,
+      "word": "长相思官宣加更",
+      "onboard_time": 1690954117,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 717909,
@@ -331,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 656061,
+      "num": 400391,
+      "word": "TF三代穿四叶草上衣",
+      "onboard_time": 1690953098,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 652496,
       "num": 386094,
       "word": "当器官知道我们十二点前睡觉",
@@ -339,12 +403,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 647855,
-      "num": 647855,
-      "word": "香蜜冰糖星糖全员售后",
-      "onboard_time": 1690952500,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 614225,
+      "num": 614225,
+      "word": "村民称很多人没把泄洪通知当回事",
+      "onboard_time": 1690952676,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 599759,
@@ -379,11 +443,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 579747,
-      "num": 383697,
-      "word": "实在不行别哄了",
-      "onboard_time": 1690952740,
-      "rank": 24,
+      "raw_hot": 574819,
+      "num": 306418,
+      "word": "谁教张晚意这么比心的",
+      "onboard_time": 1690953937,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -571,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411715,
-      "num": 337779,
-      "word": "小S带3个女儿游韩国",
-      "onboard_time": 1690953098,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 411387,
       "num": 411387,
       "word": "曾舜晞没来又好像来了",
@@ -744,22 +800,6 @@
       "word": "涿州",
       "onboard_time": 1690900719,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340092,
-      "num": 312731,
-      "word": "TF三代穿四叶草上衣",
-      "onboard_time": 1690953098,
-      "rank": 37,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 328419,
-      "num": 328419,
-      "word": "村民称很多人没把泄洪通知当回事",
-      "onboard_time": 1690952676,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219026,
+      "num": 219026,
+      "word": "微信被吐槽占用内存太大",
+      "onboard_time": 1690954174,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 218431,
       "num": 218431,
       "word": "涿州洪水亲历者称泄洪区村子淹成海",
@@ -1108,7 +1156,7 @@
     },
     {
       "raw_hot": 205021,
-      "num": 205021,
+      "num": 212003,
       "word": "逆水寒",
       "onboard_time": 1690952858,
       "rank": 46,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1690943553,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198390,
+      "num": 213411,
+      "word": "哈尔滨大雨",
+      "onboard_time": 1690953996,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198116,
@@ -1387,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83506,
+      "num": 749773,
+      "word": "这种长着眼睛的子弹是反恐利器",
+      "onboard_time": 1690952439,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54951,
       "num": 2158513,
       "word": "暴雨天气10个安全指南",
@@ -1401,14 +1465,6 @@
       "onboard_time": 1690915694,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 34469,
-      "num": 686924,
-      "word": "这种长着眼睛的子弹是反恐利器",
-      "onboard_time": 1690952439,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26393,
