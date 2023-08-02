@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691012046850,
+  "endTime": 1691014550456,
   "band_list": [
     {
       "raw_hot": 1360342,
@@ -89,6 +89,14 @@
       "onboard_time": 1690987657,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 521815,
+      "num": 272932,
+      "word": "涿州",
+      "onboard_time": 1690983101,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514547,
@@ -187,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299566,
-      "num": 272932,
-      "word": "涿州",
-      "onboard_time": 1690983101,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281559,
       "num": 281559,
       "word": "Doinb 罗云熙",
@@ -208,6 +208,14 @@
       "word": "新生儿被抱出产房外婆一句话破防",
       "onboard_time": 1690982618,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269406,
+      "num": 94724,
+      "word": "暴雨后北京街头堆积大量受损汽车",
+      "onboard_time": 1691010252,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80594,
+      "num": 80594,
+      "word": "小镇饭店可免费吃饭一年仅一人点单",
+      "onboard_time": 1691004552,
+      "rank": 28,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 73320,
       "num": 81008,
       "word": "小夭终于在大荒落户了",
@@ -451,28 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 72818,
-      "num": 53501,
-      "word": "暴雨后北京街头堆积大量受损汽车",
-      "onboard_time": 1691010252,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66957,
       "num": 96389,
       "word": "心疼又好笑的车祸现场",
       "onboard_time": 1690994248,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59345,
-      "num": 59345,
-      "word": "小镇饭店可免费吃饭一年仅一人点单",
-      "onboard_time": 1691004552,
-      "rank": 28,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 42292,
@@ -491,6 +491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 39664,
+      "num": 39664,
+      "word": "世间最疼爱你的人是妈妈",
+      "onboard_time": 1691001495,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 30905,
       "num": 75164,
       "word": "河北强降雨已致9人遇难6人失联",
@@ -505,14 +513,6 @@
       "onboard_time": 1691003115,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 24469,
-      "num": 31661,
-      "word": "世间最疼爱你的人是妈妈",
-      "onboard_time": 1691001495,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 18653,

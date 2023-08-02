@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691012046850,
+  "endTime": 1691014550456,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -3515,6 +3515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269406,
+      "num": 94724,
+      "word": "暴雨后北京街头堆积大量受损汽车",
+      "onboard_time": 1691010252,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268865,
       "num": 1097199,
       "word": "京津冀暴雨互助",
@@ -5035,20 +5043,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80594,
+      "num": 80594,
+      "word": "小镇饭店可免费吃饭一年仅一人点单",
+      "onboard_time": 1691004552,
+      "rank": 28,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 73320,
       "num": 81008,
       "word": "小夭终于在大荒落户了",
       "onboard_time": 1690997180,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 72818,
-      "num": 53501,
-      "word": "暴雨后北京街头堆积大量受损汽车",
-      "onboard_time": 1691010252,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66957,
@@ -5065,14 +5073,6 @@
       "onboard_time": 1690826176,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 59345,
-      "num": 59345,
-      "word": "小镇饭店可免费吃饭一年仅一人点单",
-      "onboard_time": 1691004552,
-      "rank": 28,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 57920,
@@ -5131,6 +5131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39664,
+      "num": 39664,
+      "word": "世间最疼爱你的人是妈妈",
+      "onboard_time": 1691001495,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31799,
       "num": 250608,
       "word": "淘宝斗地主大赛热度超过原神",
@@ -5185,14 +5193,6 @@
       "onboard_time": 1690914077,
       "rank": 44,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 24469,
-      "num": 31661,
-      "word": "世间最疼爱你的人是妈妈",
-      "onboard_time": 1691001495,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 19762,
