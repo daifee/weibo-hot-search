@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690964428990,
+  "endTime": 1690965252011,
   "band_list": [
     {
       "raw_hot": 2870626,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1229733,
+      "num": 1229733,
+      "word": "李铁被提起公诉",
+      "onboard_time": 1690963955,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1093891,
       "num": 1093891,
       "word": "26度高温导致加拿大一家人中暑",
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 934197,
+      "num": 934197,
+      "word": "许凯吓得把杨幂扔了",
+      "onboard_time": 1690959873,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 933038,
       "num": 933038,
       "word": "TFBOYS演唱会外围疑围钢板安刺尖",
@@ -241,6 +257,14 @@
       "onboard_time": 1690925293,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 917055,
+      "num": 917055,
+      "word": "魏大勋要拍芭莎男士了",
+      "onboard_time": 1690961794,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 913663,
@@ -283,28 +307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 861983,
-      "num": 861983,
-      "word": "许凯吓得把杨幂扔了",
-      "onboard_time": 1690959873,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 854222,
       "num": 574130,
       "word": "入职第一天被派去新疆40天",
       "onboard_time": 1690947874,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 844647,
-      "num": 844647,
-      "word": "魏大勋要拍芭莎男士了",
-      "onboard_time": 1690961794,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 844251,
@@ -337,14 +345,6 @@
       "onboard_time": 1690898139,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 819348,
-      "num": 819348,
-      "word": "李铁被提起公诉",
-      "onboard_time": 1690963955,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 802204,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699207,
+      "num": 584946,
+      "word": "北京一名女救援队员牺牲",
+      "onboard_time": 1690962993,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 689826,
       "num": 689826,
       "word": "成毅肖顺尧新浪扫楼",
@@ -465,6 +473,14 @@
       "onboard_time": 1690958493,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 670557,
+      "num": 575328,
+      "word": "李铁涉五宗罪",
+      "onboard_time": 1690964554,
+      "rank": 10,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 669316,
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571273,
+      "num": 359578,
+      "word": "小金毛居然是臭的",
+      "onboard_time": 1690961494,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 570679,
       "num": 570679,
       "word": "龚俊新浪扫楼",
@@ -569,14 +593,6 @@
       "onboard_time": 1690935816,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 557875,
-      "num": 359578,
-      "word": "小金毛居然是臭的",
-      "onboard_time": 1690961494,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 554927,
@@ -617,14 +633,6 @@
       "onboard_time": 1690936777,
       "rank": 12,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 509079,
-      "num": 509079,
-      "word": "北京一名女救援队员牺牲",
-      "onboard_time": 1690962993,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 503460,
@@ -771,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423692,
+      "num": 423692,
+      "word": "电影热烈抵制一切偷瞒票房行为",
+      "onboard_time": 1690964853,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417744,
       "num": 417744,
       "word": "顺丰通报38万元劳力士手表遗失事件进展",
@@ -913,6 +929,14 @@
       "onboard_time": 1690895137,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 380089,
+      "num": 281898,
+      "word": "原来我是六国混血",
+      "onboard_time": 1690964373,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 378943,
@@ -1155,7 +1179,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 266612,
+      "raw_hot": 268865,
       "num": 1097199,
       "word": "京津冀暴雨互助",
       "onboard_time": 1690961673,
@@ -1235,12 +1259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246194,
+      "num": 246194,
+      "word": "重庆狼队首封",
+      "onboard_time": 1690961734,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246076,
       "num": 246076,
       "word": "鞠婧祎黑色红钻抹胸裙",
       "onboard_time": 1690961856,
       "rank": 35,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 245876,
+      "num": 245876,
+      "word": "无人机为500村民飞出30米生命桥",
+      "onboard_time": 1690963772,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245339,
@@ -1283,14 +1323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229849,
-      "num": 229849,
-      "word": "重庆狼队首封",
-      "onboard_time": 1690961734,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 226742,
       "num": 226742,
       "word": "涿州市民回忆家中涨水过程",
@@ -1315,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224661,
+      "num": 224661,
+      "word": "龚俊拿椰子和树下班",
+      "onboard_time": 1690964195,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224502,
       "num": 224502,
       "word": "奥利开通微博",
@@ -1331,20 +1371,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220058,
-      "num": 220058,
-      "word": "原来我是六国混血",
-      "onboard_time": 1690964373,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218431,
       "num": 218431,
       "word": "涿州洪水亲历者称泄洪区村子淹成海",
       "onboard_time": 1690937737,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216430,
+      "num": 213230,
+      "word": "安乐传杀我别用姐妹刀",
+      "onboard_time": 1690964794,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 215638,
@@ -1403,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207430,
-      "num": 207430,
-      "word": "无人机为500村民飞出30米生命桥",
-      "onboard_time": 1690963772,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206862,
       "num": 206862,
       "word": "待产孕妇在声声鼓励中登上冲锋舟",
@@ -1433,6 +1465,14 @@
       "onboard_time": 1690899700,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205546,
+      "num": 205546,
+      "word": "张艺兴深圳演唱会彩排",
+      "onboard_time": 1690964914,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 205021,
@@ -1459,6 +1499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200192,
+      "num": 200192,
+      "word": "檀健次镜头里闪现魏大勋",
+      "onboard_time": 1690965153,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199085,
       "num": 199085,
       "word": "周雨彤镜头下的七斋",
@@ -1473,14 +1521,6 @@
       "onboard_time": 1690940494,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198097,
-      "num": 198097,
-      "word": "龚俊拿椰子和树下班",
-      "onboard_time": 1690964195,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 197380,
@@ -1771,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30348,
+      "num": 237168,
+      "word": "超5成网友把直播当成电子榨菜",
+      "onboard_time": 1690963233,
+      "rank": 39,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 26393,
       "num": 26393,
       "word": "关注京津冀强降雨",
@@ -1785,14 +1833,6 @@
       "onboard_time": 1690914077,
       "rank": 44,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 20293,
-      "num": 237168,
-      "word": "超5成网友把直播当成电子榨菜",
-      "onboard_time": 1690963233,
-      "rank": 39,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 17190,
