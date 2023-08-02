@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691015612371,
+  "endTime": 1691018147823,
   "band_list": [
     {
       "raw_hot": 1360342,
@@ -19,12 +19,36 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1185586,
+      "num": 498670,
+      "word": "涿州",
+      "onboard_time": 1690983101,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1049600,
       "num": 1049600,
       "word": "防风邶赢麻了",
       "onboard_time": 1690987357,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 995704,
+      "num": 995704,
+      "word": "暴雨后北京街头堆积大量受损汽车",
+      "onboard_time": 1691010252,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958362,
+      "num": 293313,
+      "word": "18岁女孩被割400刀法院判轻伤",
+      "onboard_time": 1690988077,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 750799,
@@ -35,28 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 736689,
-      "num": 293313,
-      "word": "18岁女孩被割400刀法院判轻伤",
-      "onboard_time": 1690988077,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 723632,
       "num": 723632,
       "word": "官方辟谣李立群杭州看病花费20万",
       "onboard_time": 1690986698,
       "rank": 4,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 703140,
-      "num": 272932,
-      "word": "涿州",
-      "onboard_time": 1690983101,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 612600,
@@ -147,14 +155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 408423,
-      "num": 408423,
-      "word": "暴雨后北京街头堆积大量受损汽车",
-      "onboard_time": 1691010252,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400363,
       "num": 400363,
       "word": "长相思热度",
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289029,
+      "num": 289029,
+      "word": "西游记里的妖怪都在长春",
+      "onboard_time": 1691017281,
+      "rank": 8,
+      "category": "幽默,网红"
+    },
+    {
       "raw_hot": 281559,
       "num": 281559,
       "word": "Doinb 罗云熙",
@@ -217,6 +225,14 @@
       "onboard_time": 1690982618,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262312,
+      "num": 262312,
+      "word": "你的iPhone一天要充几次电",
+      "onboard_time": 1691002153,
+      "rank": 15,
+      "category": "科技,幽默"
     },
     {
       "raw_hot": 260631,
@@ -243,12 +259,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244409,
+      "num": 244409,
+      "word": "小镇饭店可免费吃饭一年仅一人点单",
+      "onboard_time": 1691004552,
+      "rank": 28,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 239243,
       "num": 217044,
       "word": "夭柳党心碎",
       "onboard_time": 1690988799,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229459,
+      "num": 102931,
+      "word": "女子脚底扎入2cm铁丝在医院爬着走",
+      "onboard_time": 1691017341,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218464,
@@ -315,6 +347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 164842,
+      "num": 164842,
+      "word": "邓为女友视角视频",
+      "onboard_time": 1691017281,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161787,
       "num": 202599,
       "word": "热烈路演",
@@ -329,14 +369,6 @@
       "onboard_time": 1690958913,
       "rank": 38,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 150439,
-      "num": 150439,
-      "word": "你的iPhone一天要充几次电",
-      "onboard_time": 1691002153,
-      "rank": 15,
-      "category": "科技,幽默"
     },
     {
       "raw_hot": 148215,
@@ -443,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 102261,
-      "num": 102261,
-      "word": "小镇饭店可免费吃饭一年仅一人点单",
-      "onboard_time": 1691004552,
-      "rank": 28,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 98529,
       "num": 75923,
       "word": "孟子义嗑上头了",
@@ -459,12 +483,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73320,
-      "num": 81008,
+      "raw_hot": 97528,
+      "num": 97528,
+      "word": "福建人的童年噩梦",
+      "onboard_time": 1691017281,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 96556,
+      "num": 96556,
+      "word": "汉文帝霸陵殉葬坑发现神奇动物貘",
+      "onboard_time": 1691017281,
+      "rank": 33,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 85091,
+      "num": 85091,
       "word": "小夭终于在大荒落户了",
       "onboard_time": 1690997180,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 84749,
+      "num": 84749,
+      "word": "世间最疼爱你的人是妈妈",
+      "onboard_time": 1691001495,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 66957,
@@ -472,14 +520,6 @@
       "word": "心疼又好笑的车祸现场",
       "onboard_time": 1690994248,
       "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 52914,
-      "num": 52914,
-      "word": "世间最疼爱你的人是妈妈",
-      "onboard_time": 1691001495,
-      "rank": 36,
       "category": "情感"
     },
     {
@@ -499,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 31207,
+      "num": 856998,
+      "word": "暴雨洪涝后如何做好个人健康防护",
+      "onboard_time": 1690965873,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30905,
       "num": 75164,
       "word": "河北强降雨已致9人遇难6人失联",
@@ -513,14 +561,6 @@
       "onboard_time": 1691003115,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 22058,
-      "num": 856998,
-      "word": "暴雨洪涝后如何做好个人健康防护",
-      "onboard_time": 1690965873,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16991,
