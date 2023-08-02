@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690994255928,
+  "endTime": 1690996494048,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -3203,6 +3203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470757,
+      "num": 470757,
+      "word": "涿州书厂老板称未收到泄洪通知",
+      "onboard_time": 1690991372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466165,
       "num": 466165,
       "word": "福州一餐厅凌晨发生爆炸",
@@ -3521,14 +3529,6 @@
       "onboard_time": 1690807353,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 430048,
-      "num": 430048,
-      "word": "涿州书厂老板称未收到泄洪通知",
-      "onboard_time": 1690991372,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429706,
@@ -7233,6 +7233,14 @@
       "onboard_time": 1690736482,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66957,
+      "num": 96389,
+      "word": "心疼又好笑的车祸现场",
+      "onboard_time": 1690994248,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 60875,

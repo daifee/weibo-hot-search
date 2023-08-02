@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690994255928,
+  "endTime": 1690996494048,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -2163,6 +2163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470757,
+      "num": 470757,
+      "word": "涿州书厂老板称未收到泄洪通知",
+      "onboard_time": 1690991372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466042,
       "num": 466042,
       "word": "姬发彪子",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1690987779,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 430048,
-      "num": 430048,
-      "word": "涿州书厂老板称未收到泄洪通知",
-      "onboard_time": 1690991372,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429706,
@@ -5009,6 +5009,14 @@
       "onboard_time": 1690872394,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 66957,
+      "num": 96389,
+      "word": "心疼又好笑的车祸现场",
+      "onboard_time": 1690994248,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 60678,
