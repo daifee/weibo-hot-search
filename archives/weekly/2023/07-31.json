@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691004826921,
+  "endTime": 1691007436983,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -6851,6 +6851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150439,
+      "num": 150439,
+      "word": "你的iPhone一天要充几次电",
+      "onboard_time": 1691002153,
+      "rank": 15,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 147846,
       "num": 172930,
       "word": "保定暴雨",
@@ -6945,14 +6953,6 @@
       "onboard_time": 1690859319,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131477,
-      "num": 131477,
-      "word": "你的iPhone一天要充几次电",
-      "onboard_time": 1691002153,
-      "rank": 15,
-      "category": "科技,幽默"
     },
     {
       "raw_hot": 129970,
@@ -7419,6 +7419,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 26585,
+      "num": 26585,
+      "word": "小镇饭店可免费吃饭一年仅一人点单",
+      "onboard_time": 1691004552,
+      "rank": 28,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 26393,
       "num": 26393,
       "word": "关注京津冀强降雨",
@@ -7457,6 +7465,14 @@
       "onboard_time": 1690860400,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16991,
+      "num": 23198,
+      "word": "李莲花说李相夷坏话",
+      "onboard_time": 1691004255,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 16642,

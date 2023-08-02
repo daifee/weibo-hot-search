@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691004826921,
+  "endTime": 1691007436983,
   "band_list": [
     {
       "raw_hot": 1360342,
@@ -323,6 +323,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 150439,
+      "num": 150439,
+      "word": "你的iPhone一天要充几次电",
+      "onboard_time": 1691002153,
+      "rank": 15,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 148215,
       "num": 203471,
       "word": "1岁宝宝半夜栽进床边水桶溺亡",
@@ -361,14 +369,6 @@
       "onboard_time": 1690982258,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 131477,
-      "num": 131477,
-      "word": "你的iPhone一天要充几次电",
-      "onboard_time": 1691002153,
-      "rank": 15,
-      "category": "科技,幽默"
     },
     {
       "raw_hot": 130039,
@@ -491,12 +491,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 26585,
+      "num": 26585,
+      "word": "小镇饭店可免费吃饭一年仅一人点单",
+      "onboard_time": 1691004552,
+      "rank": 28,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 18653,
       "num": 856998,
       "word": "暴雨洪涝后如何做好个人健康防护",
       "onboard_time": 1690965873,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16991,
+      "num": 23198,
+      "word": "李莲花说李相夷坏话",
+      "onboard_time": 1691004255,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
