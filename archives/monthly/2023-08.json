@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690989414758,
+  "endTime": 1690990440302,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 1009982,
-      "num": 640458,
+      "num": 944640,
       "word": "北京房山的洪水变化过程",
       "onboard_time": 1690987475,
       "rank": 10,
@@ -817,6 +817,14 @@
       "onboard_time": 1690903537,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 927742,
+      "num": 927742,
+      "word": "夭璟原著结局",
+      "onboard_time": 1690988015,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 924313,
@@ -1027,20 +1035,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 821751,
-      "num": 821751,
-      "word": "夭璟原著结局",
-      "onboard_time": 1690988015,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 820204,
       "num": 503037,
       "word": "魏大勋高中同学的留言",
       "onboard_time": 1690897898,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 814329,
+      "num": 484586,
+      "word": "18岁女孩被割400刀法院判轻伤",
+      "onboard_time": 1690988077,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 814224,
@@ -1136,14 +1144,6 @@
       "word": "网传广州12岁女孩被数人起哄猥亵",
       "onboard_time": 1690931301,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 776609,
-      "num": 484586,
-      "word": "18岁女孩被割400刀法院判轻伤",
-      "onboard_time": 1690988077,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1305,6 +1305,14 @@
       "onboard_time": 1690958913,
       "rank": 21,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 722893,
+      "num": 450657,
+      "word": "驾校教练被曝猥亵女学员9分钟",
+      "onboard_time": 1690989156,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 722139,
@@ -1617,6 +1625,14 @@
       "onboard_time": 1690861719,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 606662,
+      "num": 554654,
+      "word": "长相思热度",
+      "onboard_time": 1690988199,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 598485,
@@ -2107,14 +2123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479018,
-      "num": 479018,
-      "word": "长相思热度",
-      "onboard_time": 1690988199,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 477050,
       "num": 401376,
       "word": "芭比杜华",
@@ -2145,6 +2153,14 @@
       "onboard_time": 1690948299,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 468719,
+      "num": 468719,
+      "word": "第一次去非洲的中国女婿上门礼是头羊",
+      "onboard_time": 1690988258,
+      "rank": 28,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 466042,
@@ -2307,6 +2323,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 444567,
+      "num": 444567,
+      "word": "K396次乘客家属讲述脱困经过",
+      "onboard_time": 1690986340,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444509,
       "num": 422394,
       "word": "亢奋费斯科演员去世",
@@ -2416,14 +2440,6 @@
       "word": "涿州一饭店借烛光为200名救援人员做饭",
       "onboard_time": 1690955916,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421498,
-      "num": 421498,
-      "word": "K396次乘客家属讲述脱困经过",
-      "onboard_time": 1690986340,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2635,6 +2651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389564,
+      "num": 389564,
+      "word": "夭柳党心碎",
+      "onboard_time": 1690988799,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388369,
       "num": 353403,
       "word": "不用精修的明星",
@@ -2649,14 +2673,6 @@
       "onboard_time": 1690931725,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387806,
-      "num": 387806,
-      "word": "夭柳党心碎",
-      "onboard_time": 1690988799,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 387547,
@@ -2729,14 +2745,6 @@
       "onboard_time": 1690888292,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 373327,
-      "num": 373327,
-      "word": "第一次去非洲的中国女婿上门礼是头羊",
-      "onboard_time": 1690988258,
-      "rank": 28,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 372413,
@@ -2929,14 +2937,6 @@
       "onboard_time": 1690847854,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 342695,
-      "num": 342695,
-      "word": "驾校教练被曝猥亵女学员9分钟",
-      "onboard_time": 1690989156,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342018,
@@ -3643,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250058,
+      "num": 250058,
+      "word": "邓为边洗衣服边唱屋顶着火",
+      "onboard_time": 1690989816,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249518,
       "num": 234207,
       "word": "鹿晗武汉演唱会",
@@ -3881,6 +3889,14 @@
       "onboard_time": 1690984659,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233277,
+      "num": 220384,
+      "word": "宋佳背沟",
+      "onboard_time": 1690989936,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232313,
@@ -4305,6 +4321,14 @@
       "onboard_time": 1690940494,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197984,
+      "num": 197984,
+      "word": "鞠婧祎舞台彩排图",
+      "onboard_time": 1690989097,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 197959,

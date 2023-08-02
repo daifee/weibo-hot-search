@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690989414758,
+  "endTime": 1690990440302,
   "band_list": [
     {
       "raw_hot": 3070623,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1009982,
-      "num": 640458,
+      "num": 944640,
       "word": "北京房山的洪水变化过程",
       "onboard_time": 1690987475,
       "rank": 10,
@@ -401,6 +401,14 @@
       "onboard_time": 1690903537,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 927742,
+      "num": 927742,
+      "word": "夭璟原著结局",
+      "onboard_time": 1690988015,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 924313,
@@ -555,12 +563,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 821751,
-      "num": 821751,
-      "word": "夭璟原著结局",
-      "onboard_time": 1690988015,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 814329,
+      "num": 484586,
+      "word": "18岁女孩被割400刀法院判轻伤",
+      "onboard_time": 1690988077,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 814169,
@@ -624,14 +632,6 @@
       "word": "网传广州12岁女孩被数人起哄猥亵",
       "onboard_time": 1690931301,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 776609,
-      "num": 484586,
-      "word": "18岁女孩被割400刀法院判轻伤",
-      "onboard_time": 1690988077,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -713,6 +713,14 @@
       "onboard_time": 1690958913,
       "rank": 21,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 722893,
+      "num": 450657,
+      "word": "驾校教练被曝猥亵女学员9分钟",
+      "onboard_time": 1690989156,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 722139,
@@ -840,6 +848,14 @@
       "word": "檀健次说分so就分so",
       "onboard_time": 1690976193,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 606662,
+      "num": 554654,
+      "word": "长相思热度",
+      "onboard_time": 1690988199,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -1107,14 +1123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 479018,
-      "num": 479018,
-      "word": "长相思热度",
-      "onboard_time": 1690988199,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 472036,
       "num": 472036,
       "word": "INFP的分享欲",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1690948299,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 468719,
+      "num": 468719,
+      "word": "第一次去非洲的中国女婿上门礼是头羊",
+      "onboard_time": 1690988258,
+      "rank": 28,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 462578,
@@ -1235,6 +1251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 444567,
+      "num": 444567,
+      "word": "K396次乘客家属讲述脱困经过",
+      "onboard_time": 1690986340,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443595,
       "num": 443595,
       "word": "王鹤棣综艺路透",
@@ -1296,14 +1320,6 @@
       "word": "涿州一饭店借烛光为200名救援人员做饭",
       "onboard_time": 1690955916,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421498,
-      "num": 421498,
-      "word": "K396次乘客家属讲述脱困经过",
-      "onboard_time": 1690986340,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1467,20 +1483,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389564,
+      "num": 389564,
+      "word": "夭柳党心碎",
+      "onboard_time": 1690988799,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388275,
       "num": 388275,
       "word": "涿州居民被困2月大孩子急需奶粉",
       "onboard_time": 1690931725,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387806,
-      "num": 387806,
-      "word": "夭柳党心碎",
-      "onboard_time": 1690988799,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 387547,
@@ -1513,14 +1529,6 @@
       "onboard_time": 1690946555,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373327,
-      "num": 373327,
-      "word": "第一次去非洲的中国女婿上门礼是头羊",
-      "onboard_time": 1690988258,
-      "rank": 28,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 362613,
@@ -1608,14 +1616,6 @@
       "word": "无人机为500村民飞出30米生命桥",
       "onboard_time": 1690963772,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342695,
-      "num": 342695,
-      "word": "驾校教练被曝猥亵女学员9分钟",
-      "onboard_time": 1690989156,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1995,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250058,
+      "num": 250058,
+      "word": "邓为边洗衣服边唱屋顶着火",
+      "onboard_time": 1690989816,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249518,
       "num": 234207,
       "word": "鹿晗武汉演唱会",
@@ -2129,6 +2137,14 @@
       "onboard_time": 1690984659,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233277,
+      "num": 220384,
+      "word": "宋佳背沟",
+      "onboard_time": 1690989936,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226742,
@@ -2417,6 +2433,14 @@
       "onboard_time": 1690940494,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197984,
+      "num": 197984,
+      "word": "鞠婧祎舞台彩排图",
+      "onboard_time": 1690989097,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 197959,
