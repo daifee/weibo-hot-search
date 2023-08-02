@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691010862529,
+  "endTime": 1691012046850,
   "band_list": [
     {
       "raw_hot": 1360342,
@@ -187,20 +187,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299566,
+      "num": 272932,
+      "word": "涿州",
+      "onboard_time": 1690983101,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281559,
       "num": 281559,
       "word": "Doinb 罗云熙",
       "onboard_time": 1690983578,
       "rank": 23,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 272932,
-      "num": 272932,
-      "word": "涿州",
-      "onboard_time": 1690983101,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271897,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72818,
+      "num": 53501,
+      "word": "暴雨后北京街头堆积大量受损汽车",
+      "onboard_time": 1691010252,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66957,
       "num": 96389,
       "word": "心疼又好笑的车祸现场",
@@ -459,8 +467,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 53968,
-      "num": 53968,
+      "raw_hot": 59345,
+      "num": 59345,
       "word": "小镇饭店可免费吃饭一年仅一人点单",
       "onboard_time": 1691004552,
       "rank": 28,
@@ -499,15 +507,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 25437,
-      "num": 32833,
-      "word": "暴雨后北京街头堆积大量受损汽车",
-      "onboard_time": 1691010252,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20974,
+      "raw_hot": 24469,
       "num": 31661,
       "word": "世间最疼爱你的人是妈妈",
       "onboard_time": 1691001495,
@@ -537,6 +537,9 @@
     },
     {
       "word": "#多方紧急驰援涿州#"
+    },
+    {
+      "word": "#逐梦强军新征程#"
     }
   ]
 }
