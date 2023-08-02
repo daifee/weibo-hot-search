@@ -1,0 +1,410 @@
+{
+  "runTime": 1690974838612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1573499,
+        "num": 1573499,
+        "word": "丁程鑫将暂停录制你好星期六",
+        "onboard_time": 1690972114,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422154,
+        "num": 1241120,
+        "word": "涿州一饭店借烛光为200名救援人员做饭",
+        "onboard_time": 1690955916,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65092,
+        "num": 1216764,
+        "word": "暴雨洪涝后如何做好个人健康防护",
+        "onboard_time": 1690965873,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1198509,
+        "num": 1198509,
+        "word": "NONO被曝性侵后首露面",
+        "onboard_time": 1690967914,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 331412,
+        "num": 993203,
+        "word": "无人机为500村民飞出30米生命桥",
+        "onboard_time": 1690963772,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921586,
+        "num": 921586,
+        "word": "古装天选帝王相",
+        "onboard_time": 1690969479,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291800,
+        "num": 736609,
+        "word": "涿州一超市大方赊账助邻里渡难关",
+        "onboard_time": 1690969834,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729273,
+        "num": 729273,
+        "word": "夏克立自曝出狱后和流浪汉一起睡桥下",
+        "onboard_time": 1690968576,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669638,
+        "num": 669638,
+        "word": "王俊凯和TF家族四代见面belike",
+        "onboard_time": 1690969776,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555271,
+        "num": 555271,
+        "word": "刘宇宁回应歌手转型演员",
+        "onboard_time": 1690970555,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1432038,
+        "num": 547266,
+        "word": "女子过海关双腿绑满少女针",
+        "onboard_time": 1690973317,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528194,
+        "num": 528194,
+        "word": "娜然 契约精神",
+        "onboard_time": 1690969959,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511422,
+        "num": 511422,
+        "word": "台风卡努已进入24小时警戒线",
+        "onboard_time": 1690966772,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463440,
+        "num": 463440,
+        "word": "原来我是六国混血",
+        "onboard_time": 1690964373,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25311,
+        "num": 453806,
+        "word": "到人民群众需要的地方去",
+        "onboard_time": 1690974032,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450942,
+        "num": 450942,
+        "word": "刘亦菲霍建华在人大拍戏",
+        "onboard_time": 1690957114,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 404335,
+        "num": 404335,
+        "word": "INFP的分享欲",
+        "onboard_time": 1690973672,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 379605,
+        "num": 379605,
+        "word": "难哄官博发声明",
+        "onboard_time": 1690953758,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357764,
+        "num": 357764,
+        "word": "张新成邓为是同学",
+        "onboard_time": 1690974453,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356179,
+        "num": 356179,
+        "word": "易烊千玺或将演小小的我",
+        "onboard_time": 1690974271,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494570,
+        "num": 352674,
+        "word": "男子把买房送的1000克黄金卖了变现45万",
+        "onboard_time": 1690958913,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 380134,
+        "num": 352050,
+        "word": "封神第一部票房破13亿",
+        "onboard_time": 1690971815,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370500,
+        "num": 351570,
+        "word": "e人和i人工作捅娄子后的区别",
+        "onboard_time": 1690969117,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348589,
+        "num": 348589,
+        "word": "1岁宝宝半夜栽进床边水桶溺亡",
+        "onboard_time": 1690956515,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334741,
+        "num": 334741,
+        "word": "李铁涉五宗罪",
+        "onboard_time": 1690964554,
+        "rank": 24,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 321731,
+        "num": 321731,
+        "word": "刘敏涛王一博母子落泪戏幕后",
+        "onboard_time": 1690973195,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309300,
+        "num": 309300,
+        "word": "檀健次设计相柳咬脖子细节",
+        "onboard_time": 1690969117,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298652,
+        "num": 298652,
+        "word": "封神为什么这么多自来水",
+        "onboard_time": 1690965753,
+        "rank": 27,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 286987,
+        "num": 286987,
+        "word": "村民称很多人没把泄洪通知当回事",
+        "onboard_time": 1690952676,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286496,
+        "num": 286496,
+        "word": "周扬青我不是艺人是网红",
+        "onboard_time": 1690974694,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350384,
+        "num": 281681,
+        "word": "几年的逆子是干不过几十年的逆子的",
+        "onboard_time": 1690972895,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 527430,
+        "num": 279890,
+        "word": "北京此次暴雨已有两名牺牲的救援人员身份确认",
+        "onboard_time": 1690973495,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273369,
+        "num": 273369,
+        "word": "小金毛居然是臭的",
+        "onboard_time": 1690961494,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270661,
+        "num": 270661,
+        "word": "邓为说相柳在现代是抢劫的",
+        "onboard_time": 1690967914,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244528,
+        "num": 244528,
+        "word": "男生也是很现实的",
+        "onboard_time": 1690973973,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 235182,
+        "num": 235182,
+        "word": "张艺兴说多一人观影少一人受骗",
+        "onboard_time": 1690967493,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216361,
+        "num": 216361,
+        "word": "娜然 袁泉的哈基米",
+        "onboard_time": 1690959393,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211058,
+        "num": 211058,
+        "word": "长相思官宣加更",
+        "onboard_time": 1690954117,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205141,
+        "num": 205141,
+        "word": "赵丽颖白裙好温柔",
+        "onboard_time": 1690959574,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202874,
+        "num": 202874,
+        "word": "马保国",
+        "onboard_time": 1690974757,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 202845,
+        "num": 202845,
+        "word": "佳木斯",
+        "onboard_time": 1690974632,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197959,
+        "num": 201037,
+        "word": "玫瑰故事剧组布景",
+        "onboard_time": 1690974453,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199647,
+        "num": 199647,
+        "word": "电影热烈抵制一切偷瞒票房行为",
+        "onboard_time": 1690964853,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198612,
+        "num": 198612,
+        "word": "大爷今天这笔钱非赚不可",
+        "onboard_time": 1690974757,
+        "rank": 43,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 184241,
+        "num": 198609,
+        "word": "旧版eva画风 令人想到张柏芝",
+        "onboard_time": 1690970914,
+        "rank": 44,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 182019,
+        "num": 198609,
+        "word": "任嘉伦古装造型图鉴",
+        "onboard_time": 1690974394,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181982,
+        "num": 198604,
+        "word": "莲花楼直播",
+        "onboard_time": 1690967314,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178342,
+        "num": 198601,
+        "word": "当抓到老爸喂狗狗吃人吃的东西后",
+        "onboard_time": 1690973736,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169098,
+        "num": 198597,
+        "word": "Faker回归首发",
+        "onboard_time": 1690962693,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119279,
+        "num": 198595,
+        "word": "iPhone14被用户吐槽电池老化",
+        "onboard_time": 1690943493,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#多方紧急驰援涿州#"
+    }
+  }
+}
