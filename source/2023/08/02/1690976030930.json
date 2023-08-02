@@ -1,0 +1,410 @@
+{
+  "runTime": 1690976030930,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2212618,
+        "num": 2212618,
+        "word": "女子过海关双腿绑满少女针",
+        "onboard_time": 1690973317,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336436,
+        "num": 1623559,
+        "word": "涿州一饭店借烛光为200名救援人员做饭",
+        "onboard_time": 1690955916,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62668,
+        "num": 1561912,
+        "word": "暴雨洪涝后如何做好个人健康防护",
+        "onboard_time": 1690965873,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1508438,
+        "num": 1508438,
+        "word": "丁程鑫将暂停录制你好星期六",
+        "onboard_time": 1690972114,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299337,
+        "num": 1485897,
+        "word": "无人机为500村民飞出30米生命桥",
+        "onboard_time": 1690963772,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1484349,
+        "num": 1484349,
+        "word": "周扬青我不是艺人是网红",
+        "onboard_time": 1690974694,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213991,
+        "num": 1360304,
+        "word": "涿州一超市大方赊账助邻里渡难关",
+        "onboard_time": 1690969834,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1278172,
+        "num": 1278172,
+        "word": "NONO被曝性侵后首露面",
+        "onboard_time": 1690967914,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 794975,
+        "num": 794975,
+        "word": "马保国",
+        "onboard_time": 1690974757,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 751887,
+        "num": 751887,
+        "word": "张新成邓为是同学",
+        "onboard_time": 1690974453,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 979851,
+        "num": 719150,
+        "word": "佳木斯",
+        "onboard_time": 1690974632,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669780,
+        "num": 669780,
+        "word": "古装天选帝王相",
+        "onboard_time": 1690969479,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 583955,
+        "num": 583955,
+        "word": "夏克立自曝出狱后和流浪汉一起睡桥下",
+        "onboard_time": 1690968576,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555255,
+        "num": 555255,
+        "word": "王俊凯和TF家族四代见面belike",
+        "onboard_time": 1690969776,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53366,
+        "num": 553120,
+        "word": "到人民群众需要的地方去",
+        "onboard_time": 1690974032,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551475,
+        "num": 551475,
+        "word": "易烊千玺或将演小小的我",
+        "onboard_time": 1690974271,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533864,
+        "num": 533864,
+        "word": "北京此次暴雨已有两名牺牲的救援人员身份确认",
+        "onboard_time": 1690973495,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486503,
+        "num": 486503,
+        "word": "刘宇宁回应歌手转型演员",
+        "onboard_time": 1690970555,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 472036,
+        "num": 472036,
+        "word": "INFP的分享欲",
+        "onboard_time": 1690973672,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 432070,
+        "num": 432070,
+        "word": "台风卡努已进入24小时警戒线",
+        "onboard_time": 1690966772,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429392,
+        "num": 429392,
+        "word": "刘亦菲霍建华在人大拍戏",
+        "onboard_time": 1690957114,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 422284,
+        "num": 422284,
+        "word": "娜然 契约精神",
+        "onboard_time": 1690969959,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419582,
+        "num": 419582,
+        "word": "男子把买房送的1000克黄金卖了变现45万",
+        "onboard_time": 1690958913,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 346927,
+        "num": 346927,
+        "word": "封神第一部票房破13亿",
+        "onboard_time": 1690971815,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339524,
+        "num": 339524,
+        "word": "难哄官博发声明",
+        "onboard_time": 1690953758,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339300,
+        "num": 339300,
+        "word": "原来我是六国混血",
+        "onboard_time": 1690964373,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329094,
+        "num": 329094,
+        "word": "1岁宝宝半夜栽进床边水桶溺亡",
+        "onboard_time": 1690956515,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324456,
+        "num": 324456,
+        "word": "刘敏涛王一博母子落泪戏幕后",
+        "onboard_time": 1690973195,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301060,
+        "num": 301060,
+        "word": "e人和i人工作捅娄子后的区别",
+        "onboard_time": 1690969117,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202600,
+        "num": 285864,
+        "word": "李铁涉五宗罪",
+        "onboard_time": 1690964554,
+        "rank": 29,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 370328,
+        "num": 285150,
+        "word": "几年的逆子是干不过几十年的逆子的",
+        "onboard_time": 1690972895,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276853,
+        "num": 276853,
+        "word": "男生也是很现实的",
+        "onboard_time": 1690973973,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 272996,
+        "num": 272996,
+        "word": "邓为说相柳在现代是抢劫的",
+        "onboard_time": 1690967914,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267138,
+        "num": 267138,
+        "word": "大家都是毕业多久才稳定下来的",
+        "onboard_time": 1690974992,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 266411,
+        "num": 266411,
+        "word": "檀健次设计相柳咬脖子细节",
+        "onboard_time": 1690969117,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240644,
+        "num": 240644,
+        "word": "娜然 袁泉的哈基米",
+        "onboard_time": 1690959393,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259902,
+        "num": 236365,
+        "word": "相柳目送小夭被抱走",
+        "onboard_time": 1690975173,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229859,
+        "num": 229859,
+        "word": "村民称很多人没把泄洪通知当回事",
+        "onboard_time": 1690952676,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222630,
+        "num": 222630,
+        "word": "小金毛居然是臭的",
+        "onboard_time": 1690961494,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193764,
+        "num": 222604,
+        "word": "小夭拒绝相柳渡气",
+        "onboard_time": 1690975414,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192840,
+        "num": 222513,
+        "word": "莲花楼直播",
+        "onboard_time": 1690967314,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191102,
+        "num": 222416,
+        "word": "电影热烈抵制一切偷瞒票房行为",
+        "onboard_time": 1690964853,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187707,
+        "num": 222340,
+        "word": "赵丽颖白裙好温柔",
+        "onboard_time": 1690959574,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180909,
+        "num": 222223,
+        "word": "封神为什么这么多自来水",
+        "onboard_time": 1690965753,
+        "rank": 43,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 170027,
+        "num": 222164,
+        "word": "大爷今天这笔钱非赚不可",
+        "onboard_time": 1690974757,
+        "rank": 44,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 166796,
+        "num": 222089,
+        "word": "王一博同款杭州馄饨多好吃",
+        "onboard_time": 1690975895,
+        "rank": 45,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 164983,
+        "num": 221979,
+        "word": "西安到处都是TFBOYS",
+        "onboard_time": 1690976014,
+        "rank": 46,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 159009,
+        "num": 221912,
+        "word": "很好奇e人是怎么维持老朋友的",
+        "onboard_time": 1690975714,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147508,
+        "num": 221829,
+        "word": "旧版eva画风 令人想到张柏芝",
+        "onboard_time": 1690970914,
+        "rank": 48,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 145668,
+        "num": 221747,
+        "word": "Faker回归首发",
+        "onboard_time": 1690962693,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军新征程#"
+    }
+  }
+}
