@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1690993333502,
+  "endTime": 1690994255928,
   "band_list": [
     {
       "raw_hot": 1360342,
@@ -123,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 430048,
+      "num": 430048,
+      "word": "涿州书厂老板称未收到泄洪通知",
+      "onboard_time": 1690991372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429327,
       "num": 429327,
       "word": "j人和P人手机桌面的区别",
@@ -147,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372696,
-      "num": 372696,
-      "word": "涿州书厂老板称未收到泄洪通知",
-      "onboard_time": 1690991372,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340157,
       "num": 340157,
       "word": "姬发",
@@ -168,6 +168,14 @@
       "word": "周扬青我不是艺人是网红",
       "onboard_time": 1690974694,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 305146,
+      "num": 243321,
+      "word": "佟丽娅热巴是娜扎师姐",
+      "onboard_time": 1690992870,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216124,
+      "num": 306030,
+      "word": "洪水中4个月大婴儿被直升机吊起",
+      "onboard_time": 1690979137,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211462,
       "num": 211462,
       "word": "邓为边洗衣服边唱屋顶着火",
@@ -243,12 +259,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207109,
-      "num": 306030,
-      "word": "洪水中4个月大婴儿被直升机吊起",
-      "onboard_time": 1690979137,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 206482,
+      "num": 206482,
+      "word": "几年的逆子是干不过几十年的逆子的",
+      "onboard_time": 1690972895,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 204423,
@@ -257,22 +273,6 @@
       "onboard_time": 1690984777,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 203502,
-      "num": 203502,
-      "word": "几年的逆子是干不过几十年的逆子的",
-      "onboard_time": 1690972895,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 199333,
-      "num": 203502,
-      "word": "佟丽娅热巴是娜扎师姐",
-      "onboard_time": 1690992870,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 186841,
@@ -297,6 +297,14 @@
       "onboard_time": 1690985620,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 161787,
+      "num": 202599,
+      "word": "热烈路演",
+      "onboard_time": 1690993528,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 158002,
@@ -329,6 +337,14 @@
       "onboard_time": 1690990895,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135430,
+      "num": 202372,
+      "word": "大禹与相柳",
+      "onboard_time": 1690988857,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 132658,
@@ -395,6 +411,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 111169,
+      "num": 202423,
+      "word": "易烊千玺或将演小小的我",
+      "onboard_time": 1690974271,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 18653,
       "num": 856998,
       "word": "暴雨洪涝后如何做好个人健康防护",
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#逐梦强军#"
+    },
+    {
+      "word": "#多方紧急驰援涿州#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690993333502,
+  "endTime": 1690994255928,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -2395,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430048,
+      "num": 430048,
+      "word": "涿州书厂老板称未收到泄洪通知",
+      "onboard_time": 1690991372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429706,
       "num": 429706,
       "word": "当我让我妹给我蒸个馒头",
@@ -2753,14 +2761,6 @@
       "onboard_time": 1690888292,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 372696,
-      "num": 372696,
-      "word": "涿州书厂老板称未收到泄洪通知",
-      "onboard_time": 1690991372,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372413,
@@ -3169,6 +3169,14 @@
       "onboard_time": 1690937377,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 305146,
+      "num": 243321,
+      "word": "佟丽娅热巴是娜扎师姐",
+      "onboard_time": 1690992870,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 303147,
@@ -4291,14 +4299,6 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 199333,
-      "num": 203502,
-      "word": "佟丽娅热巴是娜扎师姐",
-      "onboard_time": 1690992870,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199085,
       "num": 199085,
       "word": "周雨彤镜头下的七斋",
@@ -4665,6 +4665,14 @@
       "onboard_time": 1690895434,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161787,
+      "num": 202599,
+      "word": "热烈路演",
+      "onboard_time": 1690993528,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 161091,
