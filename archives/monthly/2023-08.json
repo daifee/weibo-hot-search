@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690961634912,
+  "endTime": 1690964428990,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -667,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 913663,
+      "num": 913663,
+      "word": "村民称很多人没把泄洪通知当回事",
+      "onboard_time": 1690952676,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 892685,
       "num": 892685,
       "word": "北京暴雨",
@@ -715,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 871903,
-      "num": 871903,
-      "word": "村民称很多人没把泄洪通知当回事",
-      "onboard_time": 1690952676,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 867940,
       "num": 867940,
       "word": "北京本次降雨为140年来最大降雨",
@@ -747,12 +747,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 861983,
+      "num": 861983,
+      "word": "许凯吓得把杨幂扔了",
+      "onboard_time": 1690959873,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 854222,
       "num": 574130,
       "word": "入职第一天被派去新疆40天",
       "onboard_time": 1690947874,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 844647,
+      "num": 844647,
+      "word": "魏大勋要拍芭莎男士了",
+      "onboard_time": 1690961794,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 844251,
@@ -801,6 +817,14 @@
       "onboard_time": 1690897898,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 819348,
+      "num": 819348,
+      "word": "李铁被提起公诉",
+      "onboard_time": 1690963955,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 814224,
@@ -987,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723476,
+      "num": 367810,
+      "word": "男子把买房送的1000克黄金卖了变现45万",
+      "onboard_time": 1690958913,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 722139,
       "num": 722139,
       "word": "魏大勋范丞丞西装手势舞",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1690880192,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 701187,
-      "num": 365979,
-      "word": "男子把买房送的1000克黄金卖了变现45万",
-      "onboard_time": 1690958913,
-      "rank": 21,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 690156,
@@ -1355,12 +1379,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 570350,
-      "num": 484493,
-      "word": "许凯吓得把杨幂扔了",
-      "onboard_time": 1690959873,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 569842,
+      "num": 569842,
+      "word": "到手的驾照还没捂热就废了",
+      "onboard_time": 1690954718,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557889,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1690935816,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557875,
+      "num": 359578,
+      "word": "小金毛居然是臭的",
+      "onboard_time": 1690961494,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 556427,
@@ -1451,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 524016,
-      "num": 524016,
-      "word": "到手的驾照还没捂热就废了",
-      "onboard_time": 1690954718,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523476,
       "num": 523476,
       "word": "钎九",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1690857520,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 509079,
+      "num": 509079,
+      "word": "北京一名女救援队员牺牲",
+      "onboard_time": 1690962993,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 503470,
@@ -1697,6 +1729,14 @@
       "onboard_time": 1690931182,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458373,
+      "num": 458373,
+      "word": "Faker回归首发",
+      "onboard_time": 1690962693,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 457468,
@@ -1964,7 +2004,7 @@
     },
     {
       "raw_hot": 401249,
-      "num": 294411,
+      "num": 326615,
       "word": "李飞开直播吧",
       "onboard_time": 1690960532,
       "rank": 44,
@@ -1985,6 +2025,14 @@
       "onboard_time": 1690932324,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 392824,
+      "num": 392824,
+      "word": "房山蓝天救援女队员在抢险救灾中牺牲",
+      "onboard_time": 1690958432,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392435,
@@ -2036,7 +2084,7 @@
     },
     {
       "raw_hot": 387547,
-      "num": 484695,
+      "num": 603076,
       "word": "丫丫吃播经典瞬间",
       "onboard_time": 1690958432,
       "rank": 18,
@@ -2683,11 +2731,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268871,
-      "num": 268871,
-      "word": "房山蓝天救援女队员在抢险救灾中牺牲",
-      "onboard_time": 1690958432,
-      "rank": 33,
+      "raw_hot": 266612,
+      "num": 1097199,
+      "word": "京津冀暴雨互助",
+      "onboard_time": 1690961673,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2851,6 +2899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246076,
+      "num": 246076,
+      "word": "鞠婧祎黑色红钻抹胸裙",
+      "onboard_time": 1690961856,
+      "rank": 35,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 245339,
       "num": 245339,
       "word": "常温常压超导首被证明理论可行",
@@ -2931,6 +2987,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 236300,
+      "num": 236300,
+      "word": "孩子刚从动物园出来",
+      "onboard_time": 1690963536,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236072,
       "num": 236072,
       "word": "邓为cos狐狸跳女团舞",
@@ -3003,6 +3067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229849,
+      "num": 229849,
+      "word": "重庆狼队首封",
+      "onboard_time": 1690961734,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228562,
       "num": 228562,
       "word": "封神榜",
@@ -3049,6 +3121,14 @@
       "onboard_time": 1690851759,
       "rank": 40,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 220058,
+      "num": 220058,
+      "word": "原来我是六国混血",
+      "onboard_time": 1690964373,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 218512,
@@ -3179,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207430,
+      "num": 207430,
+      "word": "无人机为500村民飞出30米生命桥",
+      "onboard_time": 1690963772,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206757,
       "num": 206757,
       "word": "这结局太虐了",
@@ -3273,6 +3361,14 @@
       "onboard_time": 1690940494,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198097,
+      "num": 198097,
+      "word": "龚俊拿椰子和树下班",
+      "onboard_time": 1690964195,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 197224,
@@ -3441,14 +3537,6 @@
       "onboard_time": 1690961373,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 180369,
-      "num": 180369,
-      "word": "小金毛居然是臭的",
-      "onboard_time": 1690961494,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 179035,
@@ -3913,6 +4001,14 @@
       "onboard_time": 1690914077,
       "rank": 44,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 20293,
+      "num": 237168,
+      "word": "超5成网友把直播当成电子榨菜",
+      "onboard_time": 1690963233,
+      "rank": 39,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 19762,
