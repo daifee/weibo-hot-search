@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691000422962,
+  "endTime": 1691001251296,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -7275,6 +7275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58654,
+      "num": 75293,
+      "word": "孟子义嗑上头了",
+      "onboard_time": 1691000417,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57920,
       "num": 57920,
       "word": "建军节致敬中国军人",
@@ -7337,6 +7345,14 @@
       "onboard_time": 1690798174,
       "rank": 35,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 42292,
+      "num": 75239,
+      "word": "HAPPYMARKDAY",
+      "onboard_time": 1691000715,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 41603,

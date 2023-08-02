@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691000422962,
+  "endTime": 1691001251296,
   "band_list": [
     {
       "raw_hot": 1360342,
@@ -443,12 +443,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58654,
+      "num": 75293,
+      "word": "孟子义嗑上头了",
+      "onboard_time": 1691000417,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 42292,
+      "num": 75239,
+      "word": "HAPPYMARKDAY",
+      "onboard_time": 1691000715,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40741,
-      "num": 40741,
+      "num": 75184,
       "word": "鞠婧祎舞台彩排图",
       "onboard_time": 1690989097,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 30905,
+      "num": 75164,
+      "word": "河北强降雨已致9人遇难6人失联",
+      "onboard_time": 1690879894,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18653,
