@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690976030930,
+  "endTime": 1690979638291,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -185,6 +185,14 @@
       "onboard_time": 1690967914,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1915174,
+      "num": 1915174,
+      "word": "凤凰传奇工作室 律师函不会弄",
+      "onboard_time": 1690976974,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1829605,
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1051789,
+      "num": 485347,
+      "word": "女子翻结婚照发现老公弟弟十指相扣",
+      "onboard_time": 1690977336,
+      "rank": 10,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1040490,
       "num": 1040490,
       "word": "长相思官宣加更",
@@ -931,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 814169,
+      "num": 814169,
+      "word": "张新成邓为是同学",
+      "onboard_time": 1690974453,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 802568,
       "num": 802568,
       "word": "檀健次镜头里闪现魏大勋",
@@ -963,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 801692,
+      "num": 801692,
+      "word": "马保国",
+      "onboard_time": 1690974757,
+      "rank": 39,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 798383,
       "num": 798383,
       "word": "娜然 袁泉的哈基米",
@@ -977,14 +1009,6 @@
       "onboard_time": 1690967192,
       "rank": 23,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 794975,
-      "num": 794975,
-      "word": "马保国",
-      "onboard_time": 1690974757,
-      "rank": 39,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 793121,
@@ -1097,14 +1121,6 @@
       "onboard_time": 1690880431,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 751887,
-      "num": 751887,
-      "word": "张新成邓为是同学",
-      "onboard_time": 1690974453,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 749190,
@@ -1403,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626197,
+      "num": 626197,
+      "word": "难哄实在不行就沈腾马丽演吧",
+      "onboard_time": 1690976673,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 621033,
       "num": 621033,
       "word": "中国女足落后",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1690820309,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 620012,
+      "num": 321248,
+      "word": "檀健次说分so就分so",
+      "onboard_time": 1690976193,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 614149,
@@ -1651,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536468,
+      "num": 476231,
+      "word": "相柳目送小夭被抱走",
+      "onboard_time": 1690975173,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 533864,
       "num": 533864,
       "word": "北京此次暴雨已有两名牺牲的救援人员身份确认",
@@ -1787,6 +1827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 494246,
+      "num": 471203,
+      "word": "猎罪图鉴",
+      "onboard_time": 1690978540,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 493594,
       "num": 493594,
       "word": "张晚意檀健次名字的由来",
@@ -1825,6 +1873,14 @@
       "onboard_time": 1690895137,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 486737,
+      "num": 486737,
+      "word": "几年的逆子是干不过几十年的逆子的",
+      "onboard_time": 1690972895,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 485822,
@@ -2099,6 +2155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424067,
+      "num": 424067,
+      "word": "某幻 反季节战士",
+      "onboard_time": 1690977815,
+      "rank": 16,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 422721,
       "num": 391307,
       "word": "原来小猫也会用离开来试探爱",
@@ -2161,6 +2225,14 @@
       "onboard_time": 1690965873,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 414159,
+      "num": 263170,
+      "word": "龚俊看完queencard吓出一身冷汗",
+      "onboard_time": 1690979015,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 412002,
@@ -2299,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391043,
+      "num": 391043,
+      "word": "王一博同款杭州馄饨多好吃",
+      "onboard_time": 1690975895,
+      "rank": 45,
+      "category": "美食,艺人"
+    },
+    {
       "raw_hot": 390408,
       "num": 310023,
       "word": "张艺兴说多一人观影少一人受骗",
@@ -2411,14 +2491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 370328,
-      "num": 285150,
-      "word": "几年的逆子是干不过几十年的逆子的",
-      "onboard_time": 1690972895,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 368121,
       "num": 368121,
       "word": "李玟老公现身火葬场遭围堵",
@@ -2505,6 +2577,14 @@
       "onboard_time": 1690967914,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355403,
+      "num": 321196,
+      "word": "西安到处都是TFBOYS",
+      "onboard_time": 1690976014,
+      "rank": 46,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 353498,
@@ -2659,6 +2739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324135,
+      "num": 324135,
+      "word": "覃海洋100米蛙泳摘金",
+      "onboard_time": 1690977157,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323347,
       "num": 323347,
       "word": "鼻尖吻是迪丽热巴龚俊现场琢磨的",
@@ -2811,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295058,
+      "num": 295058,
+      "word": "大家都是毕业多久才稳定下来的",
+      "onboard_time": 1690974992,
+      "rank": 33,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 295001,
       "num": 295001,
       "word": "漫播",
@@ -2907,6 +3003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 286384,
+      "num": 263168,
+      "word": "法令纹瑜伽",
+      "onboard_time": 1690978115,
+      "rank": 31,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 286167,
       "num": 286167,
       "word": "网友称涿州一小区地库塌方",
@@ -2969,6 +3073,14 @@
       "onboard_time": 1690866577,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277542,
+      "num": 277542,
+      "word": "徐静雨柯凡单挑",
+      "onboard_time": 1690978715,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 276853,
@@ -3059,20 +3171,20 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 270174,
+      "num": 270174,
+      "word": "洪水中4个月大婴儿被直升机吊起",
+      "onboard_time": 1690979137,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268865,
       "num": 1097199,
       "word": "京津冀暴雨互助",
       "onboard_time": 1690961673,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267138,
-      "num": 267138,
-      "word": "大家都是毕业多久才稳定下来的",
-      "onboard_time": 1690974992,
-      "rank": 33,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 264273,
@@ -3107,19 +3219,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261732,
+      "num": 261732,
+      "word": "北京牺牲消防员冯振追记一等功",
+      "onboard_time": 1690977034,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261040,
       "num": 224590,
       "word": "檀健次天选相柳",
       "onboard_time": 1690909044,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 259902,
-      "num": 236365,
-      "word": "相柳目送小夭被抱走",
-      "onboard_time": 1690975173,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -3211,6 +3323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249244,
+      "num": 249244,
+      "word": "杭州动物园的马来熊在国外火了",
+      "onboard_time": 1690979074,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248194,
       "num": 248194,
       "word": "洪水",
@@ -3267,6 +3387,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 244058,
+      "num": 244058,
+      "word": "小夭回复杨紫",
+      "onboard_time": 1690979196,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243745,
       "num": 196385,
       "word": "伍佰苏州",
@@ -3299,6 +3427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240458,
+      "num": 240458,
+      "word": "心动的信号",
+      "onboard_time": 1690977515,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238765,
       "num": 238765,
       "word": "大牙风波后首公开露面",
@@ -3329,6 +3465,14 @@
       "onboard_time": 1690872812,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236992,
+      "num": 249627,
+      "word": "李宇春成都演唱会",
+      "onboard_time": 1690978956,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 236578,
@@ -3387,12 +3531,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234138,
+      "num": 234138,
+      "word": "王源客厅狂欢巡演纪录片",
+      "onboard_time": 1690976556,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232313,
       "num": 232313,
       "word": "DRG雷霆反击战",
       "onboard_time": 1690892973,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 232270,
+      "num": 232270,
+      "word": "没有人告诉我邓为这么好笑",
+      "onboard_time": 1690978834,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 231576,
@@ -3523,6 +3683,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215525,
+      "num": 215525,
+      "word": "王者荣耀",
+      "onboard_time": 1690976735,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 215176,
+      "num": 215176,
+      "word": "网友P的檀健次女装",
+      "onboard_time": 1690979432,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214182,
       "num": 214182,
       "word": "救援队员在冰冷的水中吃东西充饥",
@@ -3617,6 +3793,14 @@
       "onboard_time": 1690881632,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206972,
+      "num": 206972,
+      "word": "80后外卖员自学乐器3年上20次综艺",
+      "onboard_time": 1690978898,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 206757,
@@ -3776,6 +3960,14 @@
       "word": "给给献给每位热烈追梦的普通人",
       "onboard_time": 1690947156,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195449,
+      "num": 206968,
+      "word": "海潮被抓",
+      "onboard_time": 1690979556,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -4019,14 +4211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166796,
-      "num": 222089,
-      "word": "王一博同款杭州馄饨多好吃",
-      "onboard_time": 1690975895,
-      "rank": 45,
-      "category": "美食,艺人"
-    },
-    {
       "raw_hot": 166252,
       "num": 233660,
       "word": "北京全市河道均在行洪",
@@ -4041,14 +4225,6 @@
       "onboard_time": 1690857275,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 164983,
-      "num": 221979,
-      "word": "西安到处都是TFBOYS",
-      "onboard_time": 1690976014,
-      "rank": 46,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 164082,
