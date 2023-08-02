@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690943866058,
+  "endTime": 1690946199951,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -57,6 +57,14 @@
       "onboard_time": 1690770870,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2780227,
+      "num": 2780227,
+      "word": "张予曦翟潇闻 难哄",
+      "onboard_time": 1690943311,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 2752541,
@@ -187,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1992713,
+      "num": 1992713,
+      "word": "婴儿整天躺着不会无聊吗",
+      "onboard_time": 1690942472,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1974654,
       "num": 1974654,
       "word": "老干妈表层红油藏有游动微生物吗",
@@ -201,6 +217,14 @@
       "onboard_time": 1690795893,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1955866,
+      "num": 1955866,
+      "word": "猎罪图鉴编剧 理念不合",
+      "onboard_time": 1690944994,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1938825,
@@ -475,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1407249,
-      "num": 1407249,
-      "word": "婴儿整天躺着不会无聊吗",
-      "onboard_time": 1690942472,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1405033,
       "num": 1405033,
       "word": "被不卫生的水泡过的饮料不要喝",
@@ -505,6 +521,14 @@
       "onboard_time": 1690855955,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1383504,
+      "num": 1383504,
+      "word": "iPhone14被用户吐槽电池老化",
+      "onboard_time": 1690943493,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 1380406,
@@ -803,6 +827,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 1087231,
+      "num": 772922,
+      "word": "杨紫迪丽热巴今日开屏",
+      "onboard_time": 1690944033,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1081908,
       "num": 1081908,
       "word": "湖南卫视在放旋风少女",
@@ -947,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 972760,
+      "num": 772196,
+      "word": "霉霉给工作人员发放超5500万美元奖金",
+      "onboard_time": 1690943493,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 970521,
       "num": 937920,
       "word": "房山",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1690812998,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 905788,
-      "num": 905788,
-      "word": "张予曦翟潇闻 难哄",
-      "onboard_time": 1690943311,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 897590,
@@ -1171,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 844251,
+      "num": 771064,
+      "word": "张艺谋坚如磐石终于定档",
+      "onboard_time": 1690944934,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 838285,
       "num": 838285,
       "word": "华科初步复现韩国室温超导材料",
@@ -1260,7 +1300,7 @@
     },
     {
       "raw_hot": 781313,
-      "num": 386985,
+      "num": 390642,
       "word": "网传广州12岁女孩被数人起哄猥亵",
       "onboard_time": 1690931301,
       "rank": 11,
@@ -1520,6 +1560,14 @@
       "word": "妲己封神第二部造型",
       "onboard_time": 1690816419,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 689826,
+      "num": 689826,
+      "word": "成毅肖顺尧新浪扫楼",
+      "onboard_time": 1690942710,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -2459,14 +2507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452447,
-      "num": 452447,
-      "word": "霉霉给工作人员发放超5500万美元奖金",
-      "onboard_time": 1690943493,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 452128,
       "num": 452128,
       "word": "奥本海默",
@@ -2812,7 +2852,7 @@
     },
     {
       "raw_hot": 392406,
-      "num": 354854,
+      "num": 390024,
       "word": "买件衣服到底是被谁PUA了",
       "onboard_time": 1690941093,
       "rank": 22,
@@ -2880,14 +2920,6 @@
       "word": "文俊辉和成员们一起看独家童话的反应",
       "onboard_time": 1690858118,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 381126,
-      "num": 381126,
-      "word": "成毅肖顺尧新浪扫楼",
-      "onboard_time": 1690942710,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -3131,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352302,
+      "num": 352302,
+      "word": "林萧你",
+      "onboard_time": 1690945893,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 351991,
       "num": 306586,
       "word": "TFBOYS演唱会强实名见效了",
@@ -3209,6 +3249,14 @@
       "onboard_time": 1690775194,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339738,
+      "num": 339738,
+      "word": "王栎鑫上海演唱会官宣",
+      "onboard_time": 1690945294,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 338809,
@@ -3899,14 +3947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262722,
-      "num": 262722,
-      "word": "iPhone14被用户吐槽电池老化",
-      "onboard_time": 1690943493,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 262474,
       "num": 262474,
       "word": "涿州被洪水围困小区居民发声",
@@ -3969,6 +4009,14 @@
       "onboard_time": 1690909044,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259827,
+      "num": 259827,
+      "word": "救援队称涿州救援难度高于北京房山",
+      "onboard_time": 1690942172,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259590,
@@ -4065,6 +4113,14 @@
       "onboard_time": 1690874192,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248194,
+      "num": 248194,
+      "word": "洪水",
+      "onboard_time": 1690944696,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247833,
@@ -4307,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226148,
+      "num": 226148,
+      "word": "刘耀文严浩翔贺峻霖银发",
+      "onboard_time": 1690943433,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225146,
       "num": 225146,
       "word": "内娱身材管理满分的明星",
@@ -4539,14 +4603,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 207708,
-      "num": 207708,
-      "word": "刘耀文严浩翔贺峻霖银发",
-      "onboard_time": 1690943433,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 204789,
       "num": 204789,
       "word": "LGD对战RW",
@@ -4667,14 +4723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198805,
-      "num": 198805,
-      "word": "救援队称涿州救援难度高于北京房山",
-      "onboard_time": 1690942172,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198116,
       "num": 198116,
       "word": "小蜗是你吗",
@@ -4697,6 +4745,14 @@
       "onboard_time": 1690772370,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195690,
+      "num": 195690,
+      "word": "毛不易玱玹主题曲有你无你",
+      "onboard_time": 1690945893,
+      "rank": 40,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 195332,
@@ -4825,6 +4881,14 @@
       "onboard_time": 1690885295,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186585,
+      "num": 186585,
+      "word": "救援人员安慰哭闹宝宝的话太戳了",
+      "onboard_time": 1690945957,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 185955,
@@ -4985,6 +5049,14 @@
       "onboard_time": 1690815399,
       "rank": 48,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 166580,
+      "num": 166580,
+      "word": "鸿蒙或将具备AI大模型能力",
+      "onboard_time": 1690945833,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 165587,
@@ -5457,6 +5529,14 @@
       "onboard_time": 1690826176,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 58934,
+      "num": 722545,
+      "word": "数千万人获得信用卡加倍积分",
+      "onboard_time": 1690945232,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57920,
