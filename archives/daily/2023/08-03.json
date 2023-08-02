@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1690996494048,
+  "endTime": 1690997646269,
   "band_list": [
     {
       "raw_hot": 1360342,
@@ -416,6 +416,22 @@
       "word": "易烊千玺或将演小小的我",
       "onboard_time": 1690974271,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 73320,
+      "num": 81008,
+      "word": "小夭终于在大荒落户了",
+      "onboard_time": 1690997180,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 71056,
+      "num": 81001,
+      "word": "just听北伯",
+      "onboard_time": 1690997479,
+      "rank": 39,
       "category": "影视"
     },
     {
