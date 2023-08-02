@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690939153081,
+  "endTime": 1690940389616,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -65,6 +65,14 @@
       "onboard_time": 1690852596,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2453723,
+      "num": 2453723,
+      "word": "奚安娜",
+      "onboard_time": 1690938274,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 2380001,
@@ -291,14 +299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1264932,
-      "num": 1264932,
-      "word": "奚安娜",
-      "onboard_time": 1690938274,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1258796,
       "num": 1258796,
       "word": "台风卡努抵近日本冲绳",
@@ -321,6 +321,14 @@
       "onboard_time": 1690898139,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1197710,
+      "num": 512592,
+      "word": "被不卫生的水泡过的饮料不要喝",
+      "onboard_time": 1690938091,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 1187374,
@@ -691,6 +699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750861,
+      "num": 493769,
+      "word": "微信回应看朋友圈会自动点赞",
+      "onboard_time": 1690937314,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 750736,
+      "num": 750736,
+      "word": "TFBOYS演唱会外围疑围钢板安刺尖",
+      "onboard_time": 1690938335,
+      "rank": 13,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 749190,
       "num": 749190,
       "word": "蔚来",
@@ -713,6 +737,14 @@
       "onboard_time": 1690814198,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717909,
+      "num": 717909,
+      "word": "小米捐赠2500万驰援北京河北暴雨救灾",
+      "onboard_time": 1690936234,
+      "rank": 8,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 716551,
@@ -785,14 +817,6 @@
       "onboard_time": 1690935933,
       "rank": 7,
       "category": "科技"
-    },
-    {
-      "raw_hot": 665006,
-      "num": 665006,
-      "word": "小米捐赠2500万驰援北京河北暴雨救灾",
-      "onboard_time": 1690936234,
-      "rank": 8,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 656366,
@@ -891,14 +915,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 615328,
-      "num": 315547,
-      "word": "被不卫生的水泡过的饮料不要喝",
-      "onboard_time": 1690938091,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 614149,
       "num": 614149,
       "word": "ON泪洒赛场",
@@ -921,14 +937,6 @@
       "onboard_time": 1690892073,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 610131,
-      "num": 384576,
-      "word": "微信回应看朋友圈会自动点赞",
-      "onboard_time": 1690937314,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 607251,
@@ -1243,14 +1251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 472687,
-      "num": 472687,
-      "word": "TFBOYS演唱会外围疑围钢板安刺尖",
-      "onboard_time": 1690938335,
-      "rank": 13,
-      "category": "社会新闻,音乐"
-    },
-    {
       "raw_hot": 471998,
       "num": 471998,
       "word": "何超莲说偶像剧都不敢这么拍",
@@ -1331,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452128,
+      "num": 452128,
+      "word": "奥本海默",
+      "onboard_time": 1690939652,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 450037,
       "num": 450037,
       "word": "林俊杰说感谢李玟成为女战士",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1690894417,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 435797,
+      "num": 285276,
+      "word": "26度高温导致加拿大一家人中暑",
+      "onboard_time": 1690939832,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429706,
@@ -1459,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410652,
+      "num": 370689,
+      "word": "4000元古驰T恤洗一次褪色",
+      "onboard_time": 1690935095,
+      "rank": 24,
+      "category": "时尚,社会新闻"
+    },
+    {
       "raw_hot": 410503,
       "num": 381683,
       "word": "杨紫说张晚意你真是人才",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1690811016,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 405908,
+      "num": 405908,
+      "word": "陀枪师姐导演邝业生去世",
+      "onboard_time": 1690938157,
+      "rank": 23,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 402931,
@@ -1571,14 +1603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 374711,
-      "num": 374711,
-      "word": "陀枪师姐导演邝业生去世",
-      "onboard_time": 1690938157,
-      "rank": 23,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 372413,
       "num": 372413,
       "word": "待产孕妇在声声鼓励中登上冲锋舟",
@@ -1649,14 +1673,6 @@
       "onboard_time": 1690893274,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355041,
-      "num": 355041,
-      "word": "4000元古驰T恤洗一次褪色",
-      "onboard_time": 1690935095,
-      "rank": 24,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 353498,
@@ -1745,6 +1761,14 @@
       "onboard_time": 1690862439,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326085,
+      "num": 326085,
+      "word": "夭玹",
+      "onboard_time": 1690939534,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 325753,
@@ -1963,6 +1987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286571,
+      "num": 286571,
+      "word": "当飞机延误了快10小时",
+      "onboard_time": 1690938034,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286167,
       "num": 286167,
       "word": "网友称涿州一小区地库塌方",
@@ -2017,14 +2049,6 @@
       "onboard_time": 1690866577,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277180,
-      "num": 277180,
-      "word": "当飞机延误了快10小时",
-      "onboard_time": 1690938034,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 275977,
@@ -2116,7 +2140,7 @@
     },
     {
       "raw_hot": 261040,
-      "num": 211143,
+      "num": 224590,
       "word": "檀健次天选相柳",
       "onboard_time": 1690909044,
       "rank": 20,
@@ -2129,6 +2153,14 @@
       "onboard_time": 1690932867,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 259176,
+      "num": 259176,
+      "word": "涿州汛情受灾人数超13万人",
+      "onboard_time": 1690938935,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256865,
@@ -2145,6 +2177,14 @@
       "onboard_time": 1690794032,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 254563,
+      "num": 254563,
+      "word": "北京解除暴雨预警信号",
+      "onboard_time": 1690938814,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254487,
@@ -2187,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249815,
+      "num": 249815,
+      "word": "相柳一直在等小夭回家",
+      "onboard_time": 1690940014,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246798,
       "num": 246798,
       "word": "RedVelvet将发新歌",
@@ -2225,14 +2273,6 @@
       "onboard_time": 1690881153,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 239016,
-      "num": 239016,
-      "word": "北京解除暴雨预警信号",
-      "onboard_time": 1690938814,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238765,
@@ -2443,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209470,
+      "num": 209470,
+      "word": "被困2天2夜K396首批乘客抵达丰台站",
+      "onboard_time": 1690940014,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209008,
       "num": 209008,
       "word": "你被热烈里的哪一句话打动了",
@@ -2497,14 +2545,6 @@
       "onboard_time": 1690872932,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203862,
-      "num": 203862,
-      "word": "涿州汛情受灾人数超13万人",
-      "onboard_time": 1690938935,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203360,
@@ -2609,6 +2649,14 @@
       "onboard_time": 1690885594,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188741,
+      "num": 188741,
+      "word": "盖世英雄有时是开铲车来的",
+      "onboard_time": 1690937018,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 187053,

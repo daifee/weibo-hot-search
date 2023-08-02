@@ -1,0 +1,410 @@
+{
+  "runTime": 1690940389616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2453723,
+        "num": 2453723,
+        "word": "奚安娜",
+        "onboard_time": 1690938274,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2308087,
+        "num": 2308087,
+        "word": "猎罪图鉴2 加女主",
+        "onboard_time": 1690933890,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47382,
+        "num": 2115643,
+        "word": "暴雨天气10个安全指南",
+        "onboard_time": 1690895137,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2029101,
+        "num": 2029101,
+        "word": "芭比被日本大规模抵制",
+        "onboard_time": 1690932203,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1806059,
+        "num": 1806059,
+        "word": "微信小绿书",
+        "onboard_time": 1690933529,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1360911,
+        "num": 1360911,
+        "word": "千万不要犯罪因为浏览记录会让人社死",
+        "onboard_time": 1690933470,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 750736,
+        "num": 750736,
+        "word": "TFBOYS演唱会外围疑围钢板安刺尖",
+        "onboard_time": 1690938335,
+        "rank": 6,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 717909,
+        "num": 717909,
+        "word": "小米捐赠2500万驰援北京河北暴雨救灾",
+        "onboard_time": 1690936234,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 608965,
+        "num": 608965,
+        "word": "涿州目前全域停水部分停电",
+        "onboard_time": 1690905275,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530869,
+        "num": 530869,
+        "word": "韩国室温超导团队称论文存在缺陷",
+        "onboard_time": 1690935933,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1197710,
+        "num": 512592,
+        "word": "被不卫生的水泡过的饮料不要喝",
+        "onboard_time": 1690938091,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 750861,
+        "num": 493769,
+        "word": "微信回应看朋友圈会自动点赞",
+        "onboard_time": 1690937314,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 460800,
+        "num": 460800,
+        "word": "卡努向浙江至福建沿海靠近",
+        "onboard_time": 1690935816,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452128,
+        "num": 452128,
+        "word": "奥本海默",
+        "onboard_time": 1690939652,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423908,
+        "num": 423908,
+        "word": "可以喝的西瓜",
+        "onboard_time": 1690936777,
+        "rank": 14,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 415853,
+        "num": 415853,
+        "word": "台风卡努抵近日本冲绳",
+        "onboard_time": 1690908269,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405908,
+        "num": 405908,
+        "word": "陀枪师姐导演邝业生去世",
+        "onboard_time": 1690938157,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 385510,
+        "num": 385510,
+        "word": "常温超导若实现iPhone可匹敌量子计算机",
+        "onboard_time": 1690935336,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 379947,
+        "num": 379947,
+        "word": "女子借到母亲照片那一刻泪崩了",
+        "onboard_time": 1690932445,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376693,
+        "num": 376693,
+        "word": "王鹤棣综艺路透",
+        "onboard_time": 1690935155,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 757517,
+        "num": 370874,
+        "word": "网传广州12岁女孩被数人起哄猥亵",
+        "onboard_time": 1690931301,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410652,
+        "num": 370689,
+        "word": "4000元古驰T恤洗一次褪色",
+        "onboard_time": 1690935095,
+        "rank": 21,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 357076,
+        "num": 357076,
+        "word": "超导",
+        "onboard_time": 1690936897,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 356868,
+        "num": 356868,
+        "word": "封神票房",
+        "onboard_time": 1690932324,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351681,
+        "num": 351681,
+        "word": "谭爷爷的手机屏保是花花",
+        "onboard_time": 1690932867,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326180,
+        "num": 326180,
+        "word": "南京4名中学生下河游泳溺亡",
+        "onboard_time": 1690925293,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326085,
+        "num": 326085,
+        "word": "夭玹",
+        "onboard_time": 1690939534,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304131,
+        "num": 304131,
+        "word": "外地救援队需要当地开邀请函",
+        "onboard_time": 1690939052,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324551,
+        "num": 298599,
+        "word": "黄灿灿演的防风意映",
+        "onboard_time": 1690902456,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286571,
+        "num": 286571,
+        "word": "当飞机延误了快10小时",
+        "onboard_time": 1690938034,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 435797,
+        "num": 285276,
+        "word": "26度高温导致加拿大一家人中暑",
+        "onboard_time": 1690939832,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282247,
+        "num": 282247,
+        "word": "河北涿州救援",
+        "onboard_time": 1690934131,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277805,
+        "num": 277805,
+        "word": "涿州居民被困2月大孩子急需奶粉",
+        "onboard_time": 1690931725,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265925,
+        "num": 265925,
+        "word": "心动6三个男生都投给了女一",
+        "onboard_time": 1690899877,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259176,
+        "num": 259176,
+        "word": "涿州汛情受灾人数超13万人",
+        "onboard_time": 1690938935,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254563,
+        "num": 254563,
+        "word": "北京解除暴雨预警信号",
+        "onboard_time": 1690938814,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253374,
+        "num": 253374,
+        "word": "金智秀教哈兰德跳flower",
+        "onboard_time": 1690937377,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249815,
+        "num": 249815,
+        "word": "相柳一直在等小夭回家",
+        "onboard_time": 1690940014,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249283,
+        "num": 249283,
+        "word": "原来鞋子还有一片装",
+        "onboard_time": 1690932867,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242071,
+        "num": 242071,
+        "word": "华北暴雨疯狂倾倒70多小时",
+        "onboard_time": 1690933227,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227796,
+        "num": 227796,
+        "word": "感谢老天送我一个情绪稳定的女儿",
+        "onboard_time": 1690895317,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224590,
+        "num": 224590,
+        "word": "檀健次天选相柳",
+        "onboard_time": 1690909044,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222444,
+        "num": 222444,
+        "word": "涿州",
+        "onboard_time": 1690900719,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209470,
+        "num": 209470,
+        "word": "被困2天2夜K396首批乘客抵达丰台站",
+        "onboard_time": 1690940014,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201973,
+        "num": 201973,
+        "word": "长相思角色号好会营业",
+        "onboard_time": 1690935994,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216138,
+        "num": 201135,
+        "word": "台风卡努",
+        "onboard_time": 1690931783,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199978,
+        "num": 199978,
+        "word": "我把相机寄给了养老院的外公",
+        "onboard_time": 1690932565,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199059,
+        "num": 199059,
+        "word": "老太火车上霸占三个座位自称身体不好",
+        "onboard_time": 1690934793,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188741,
+        "num": 188741,
+        "word": "盖世英雄有时是开铲车来的",
+        "onboard_time": 1690937018,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 185805,
+        "num": 185805,
+        "word": "刘畊宏给看完封神的老婆发的照片",
+        "onboard_time": 1690894114,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军#"
+    }
+  }
+}
