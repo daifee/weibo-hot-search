@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690940389616,
+  "endTime": 1690943257408,
   "band_list": [
     {
       "raw_hot": 2725329,
@@ -11,8 +11,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2453723,
-      "num": 2453723,
+      "raw_hot": 2477783,
+      "num": 2477783,
       "word": "奚安娜",
       "onboard_time": 1690938274,
       "rank": 5,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1405033,
+      "num": 1405033,
+      "word": "被不卫生的水泡过的饮料不要喝",
+      "onboard_time": 1690938091,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1258796,
       "num": 1258796,
       "word": "台风卡努抵近日本冲绳",
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1197710,
-      "num": 512592,
-      "word": "被不卫生的水泡过的饮料不要喝",
-      "onboard_time": 1690938091,
+      "raw_hot": 1093891,
+      "num": 1093891,
+      "word": "26度高温导致加拿大一家人中暑",
+      "onboard_time": 1690939832,
       "rank": 30,
-      "category": "美食"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1058749,
@@ -75,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 933038,
+      "num": 933038,
+      "word": "TFBOYS演唱会外围疑围钢板安刺尖",
+      "onboard_time": 1690938335,
+      "rank": 13,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 929187,
       "num": 782840,
       "word": "CoCo 走好",
@@ -89,6 +105,14 @@
       "onboard_time": 1690925293,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 875720,
+      "num": 875720,
+      "word": "微信回应看朋友圈会自动点赞",
+      "onboard_time": 1690937314,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 868956,
@@ -123,28 +147,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 750861,
-      "num": 493769,
-      "word": "微信回应看朋友圈会自动点赞",
-      "onboard_time": 1690937314,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 750736,
-      "num": 750736,
-      "word": "TFBOYS演唱会外围疑围钢板安刺尖",
-      "onboard_time": 1690938335,
-      "rank": 13,
-      "category": "社会新闻,音乐"
-    },
-    {
       "raw_hot": 717909,
       "num": 717909,
       "word": "小米捐赠2500万驰援北京河北暴雨救灾",
       "onboard_time": 1690936234,
       "rank": 8,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 701457,
+      "num": 701457,
+      "word": "婴儿整天躺着不会无聊吗",
+      "onboard_time": 1690942472,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 665883,
@@ -227,6 +243,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 474249,
+      "num": 474249,
+      "word": "相柳一直在等小夭回家",
+      "onboard_time": 1690940014,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 463261,
+      "num": 463261,
+      "word": "被困2天2夜K396首批乘客抵达丰台站",
+      "onboard_time": 1690940014,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462578,
       "num": 338632,
       "word": "女婴心脏扎进一根4厘米绣花针",
@@ -249,6 +281,14 @@
       "onboard_time": 1690931182,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457468,
+      "num": 329454,
+      "word": "杨幂每年都有新梗火了",
+      "onboard_time": 1690940793,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 454699,
@@ -291,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 435797,
-      "num": 285276,
-      "word": "26度高温导致加拿大一家人中暑",
-      "onboard_time": 1690939832,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 434548,
+      "num": 434548,
+      "word": "夭玹",
+      "onboard_time": 1690939534,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 417744,
@@ -345,6 +385,14 @@
       "onboard_time": 1690932324,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 392406,
+      "num": 329405,
+      "word": "买件衣服到底是被谁PUA了",
+      "onboard_time": 1690941093,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391008,
@@ -403,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326085,
-      "num": 326085,
-      "word": "夭玹",
-      "onboard_time": 1690939534,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 327135,
+      "num": 327135,
+      "word": "涿州汛情受灾人数超13万人",
+      "onboard_time": 1690938935,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325753,
@@ -547,14 +595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259176,
-      "num": 259176,
-      "word": "涿州汛情受灾人数超13万人",
-      "onboard_time": 1690938935,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255762,
       "num": 255762,
       "word": "俄罗斯素食主义网红去世",
@@ -571,20 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249815,
-      "num": 249815,
-      "word": "相柳一直在等小夭回家",
-      "onboard_time": 1690940014,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245339,
       "num": 245339,
       "word": "常温常压超导首被证明理论可行",
       "onboard_time": 1690916234,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 241527,
+      "num": 241527,
+      "word": "长安三万里都火到了什么圈",
+      "onboard_time": 1690940975,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 238690,
@@ -643,12 +683,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209470,
-      "num": 209470,
-      "word": "被困2天2夜K396首批乘客抵达丰台站",
-      "onboard_time": 1690940014,
-      "rank": 43,
+      "raw_hot": 215279,
+      "num": 215279,
+      "word": "成毅肖顺尧新浪扫楼",
+      "onboard_time": 1690942710,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214182,
+      "num": 214182,
+      "word": "救援队员在冰冷的水中吃东西充饥",
+      "onboard_time": 1690942530,
+      "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210247,
+      "num": 210247,
+      "word": "海月浮梦罗烟",
+      "onboard_time": 1690942772,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 209134,
+      "num": 209134,
+      "word": "山东人做面食是有点厉害",
+      "onboard_time": 1690942952,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 208799,
@@ -699,12 +763,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198116,
+      "num": 198116,
+      "word": "小蜗是你吗",
+      "onboard_time": 1690940494,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197380,
       "num": 197380,
       "word": "莲花楼",
       "onboard_time": 1690894477,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191274,
+      "num": 191274,
+      "word": "救援队称涿州救援难度高于北京房山",
+      "onboard_time": 1690942172,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190793,
@@ -729,6 +809,14 @@
       "onboard_time": 1690937018,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 177508,
+      "num": 177508,
+      "word": "于适说演员头发不属于自己属于角色",
+      "onboard_time": 1690936655,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 168087,
@@ -777,6 +865,14 @@
       "onboard_time": 1690892856,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136429,
+      "num": 414924,
+      "word": "和中国女足站在一起",
+      "onboard_time": 1690941629,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 135200,
