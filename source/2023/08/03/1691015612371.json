@@ -1,0 +1,410 @@
+{
+  "runTime": 1691015612371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 408423,
+        "num": 408423,
+        "word": "暴雨后北京街头堆积大量受损汽车",
+        "onboard_time": 1691010252,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277114,
+        "num": 277114,
+        "word": "保安让王源出示自己演唱会的工作证",
+        "onboard_time": 1690983636,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22058,
+        "num": 251235,
+        "word": "暴雨洪涝后如何做好个人健康防护",
+        "onboard_time": 1690965873,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703140,
+        "num": 250102,
+        "word": "涿州",
+        "onboard_time": 1690983101,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297470,
+        "num": 247488,
+        "word": "女子翻结婚照发现老公弟弟十指相扣",
+        "onboard_time": 1690977336,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 244485,
+        "num": 244485,
+        "word": "第一次去非洲的中国女婿上门礼是头羊",
+        "onboard_time": 1690988258,
+        "rank": 5,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 203449,
+        "num": 203449,
+        "word": "防风邶赢麻了",
+        "onboard_time": 1690987357,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184991,
+        "num": 184991,
+        "word": "官方辟谣李立群杭州看病花费20万",
+        "onboard_time": 1690986698,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 144730,
+        "num": 144730,
+        "word": "卡努",
+        "onboard_time": 1690989936,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143239,
+        "num": 143239,
+        "word": "涿州书厂老板称未收到泄洪通知",
+        "onboard_time": 1690991372,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160340,
+        "num": 137506,
+        "word": "18岁女孩被割400刀法院判轻伤",
+        "onboard_time": 1690988077,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128088,
+        "num": 128088,
+        "word": "你的iPhone一天要充几次电",
+        "onboard_time": 1691002153,
+        "rank": 11,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 113510,
+        "num": 113510,
+        "word": "女子过海关双腿绑满少女针",
+        "onboard_time": 1690973317,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109200,
+        "num": 109200,
+        "word": "新生儿被抱出产房外婆一句话破防",
+        "onboard_time": 1690982618,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103963,
+        "num": 103963,
+        "word": "北京房山的洪水变化过程",
+        "onboard_time": 1690987475,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102261,
+        "num": 102261,
+        "word": "小镇饭店可免费吃饭一年仅一人点单",
+        "onboard_time": 1691004552,
+        "rank": 15,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 93408,
+        "num": 93408,
+        "word": "猎罪图鉴编剧回应加女主",
+        "onboard_time": 1690980034,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82742,
+        "num": 82742,
+        "word": "凤凰传奇工作室 律师函不会弄",
+        "onboard_time": 1690976974,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81178,
+        "num": 81178,
+        "word": "夭璟原著结局",
+        "onboard_time": 1690988015,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77863,
+        "num": 77863,
+        "word": "洪水中4个月大婴儿被直升机吊起",
+        "onboard_time": 1690979137,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170379,
+        "num": 73088,
+        "word": "驾校教练被曝猥亵女学员9分钟",
+        "onboard_time": 1690989156,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65978,
+        "num": 65978,
+        "word": "六公主报道王一博热烈",
+        "onboard_time": 1690986998,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64514,
+        "num": 64514,
+        "word": "几年的逆子是干不过几十年的逆子的",
+        "onboard_time": 1690972895,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58536,
+        "num": 58536,
+        "word": "男子把买房送的1000克黄金卖了变现45万",
+        "onboard_time": 1690958913,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 56338,
+        "num": 56338,
+        "word": "佟丽娅热巴是娜扎师姐",
+        "onboard_time": 1690992870,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52914,
+        "num": 52914,
+        "word": "世间最疼爱你的人是妈妈",
+        "onboard_time": 1691001495,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52704,
+        "num": 52704,
+        "word": "在美国聚会做水煮鱼惊艳全场",
+        "onboard_time": 1690984777,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 49371,
+        "num": 49371,
+        "word": "1岁宝宝半夜栽进床边水桶溺亡",
+        "onboard_time": 1690956515,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48765,
+        "num": 48765,
+        "word": "Doinb 罗云熙",
+        "onboard_time": 1690983578,
+        "rank": 28,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 48078,
+        "num": 48078,
+        "word": "K396次乘客家属讲述脱困经过",
+        "onboard_time": 1690986340,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47451,
+        "num": 47451,
+        "word": "长相思热度",
+        "onboard_time": 1690988199,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43338,
+        "num": 43338,
+        "word": "just听北伯",
+        "onboard_time": 1690997479,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44601,
+        "num": 42393,
+        "word": "迪丽热巴帝梓元白发上线",
+        "onboard_time": 1690983999,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41296,
+        "num": 41296,
+        "word": "NONO被曝性侵后首露面",
+        "onboard_time": 1690967914,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 40204,
+        "num": 40204,
+        "word": "周扬青我不是艺人是网红",
+        "onboard_time": 1690974694,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40191,
+        "num": 40191,
+        "word": "夏克立自曝出狱后和流浪汉一起睡桥下",
+        "onboard_time": 1690968576,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39651,
+        "num": 39651,
+        "word": "王鹤棣西安",
+        "onboard_time": 1690987779,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38990,
+        "num": 38990,
+        "word": "夭柳党心碎",
+        "onboard_time": 1690988799,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35083,
+        "num": 38460,
+        "word": "大家都是毕业多久才稳定下来的",
+        "onboard_time": 1690974992,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 38135,
+        "num": 38135,
+        "word": "小夭终于在大荒落户了",
+        "onboard_time": 1690997180,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31709,
+        "num": 38133,
+        "word": "虞书欣透视碎花吊带",
+        "onboard_time": 1690985620,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 30677,
+        "num": 38126,
+        "word": "法老 小精灵",
+        "onboard_time": 1690987657,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30024,
+        "num": 38121,
+        "word": "龚俊看完queencard吓出一身冷汗",
+        "onboard_time": 1690979015,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29056,
+        "num": 38108,
+        "word": "j人和P人手机桌面的区别",
+        "onboard_time": 1690979857,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27698,
+        "num": 38105,
+        "word": "丁程鑫将暂停录制你好星期六",
+        "onboard_time": 1690972114,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27558,
+        "num": 38099,
+        "word": "孟子义嗑上头了",
+        "onboard_time": 1691000417,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25751,
+        "num": 38085,
+        "word": "鹿晗武汉演唱会",
+        "onboard_time": 1690986875,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25006,
+        "num": 38084,
+        "word": "鞠婧祎舞台彩排图",
+        "onboard_time": 1690989097,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24668,
+        "num": 38073,
+        "word": "XYG能不能轮换",
+        "onboard_time": 1690985257,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24104,
+        "num": 38070,
+        "word": "优酷TFBOYS演唱会线上有效期延长至一年",
+        "onboard_time": 1690982258,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军#"
+    }
+  }
+}

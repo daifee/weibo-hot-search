@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691014550456,
+  "endTime": 1691015612371,
   "band_list": [
     {
       "raw_hot": 1360342,
@@ -51,6 +51,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 703140,
+      "num": 272932,
+      "word": "涿州",
+      "onboard_time": 1690983101,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612600,
       "num": 612600,
       "word": "北京房山的洪水变化过程",
@@ -89,14 +97,6 @@
       "onboard_time": 1690987657,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 521815,
-      "num": 272932,
-      "word": "涿州",
-      "onboard_time": 1690983101,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 514547,
@@ -145,6 +145,14 @@
       "onboard_time": 1690979857,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 408423,
+      "num": 408423,
+      "word": "暴雨后北京街头堆积大量受损汽车",
+      "onboard_time": 1691010252,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400363,
@@ -208,14 +216,6 @@
       "word": "新生儿被抱出产房外婆一句话破防",
       "onboard_time": 1690982618,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269406,
-      "num": 94724,
-      "word": "暴雨后北京街头堆积大量受损汽车",
-      "onboard_time": 1691010252,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -443,20 +443,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102261,
+      "num": 102261,
+      "word": "小镇饭店可免费吃饭一年仅一人点单",
+      "onboard_time": 1691004552,
+      "rank": 28,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 98529,
       "num": 75923,
       "word": "孟子义嗑上头了",
       "onboard_time": 1691000417,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80594,
-      "num": 80594,
-      "word": "小镇饭店可免费吃饭一年仅一人点单",
-      "onboard_time": 1691004552,
-      "rank": 28,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 73320,
@@ -472,6 +472,14 @@
       "word": "心疼又好笑的车祸现场",
       "onboard_time": 1690994248,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 52914,
+      "num": 52914,
+      "word": "世间最疼爱你的人是妈妈",
+      "onboard_time": 1691001495,
+      "rank": 36,
       "category": "情感"
     },
     {
@@ -491,14 +499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 39664,
-      "num": 39664,
-      "word": "世间最疼爱你的人是妈妈",
-      "onboard_time": 1691001495,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 30905,
       "num": 75164,
       "word": "河北强降雨已致9人遇难6人失联",
@@ -515,7 +515,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 18653,
+      "raw_hot": 22058,
       "num": 856998,
       "word": "暴雨洪涝后如何做好个人健康防护",
       "onboard_time": 1690965873,
