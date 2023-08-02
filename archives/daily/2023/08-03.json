@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691001251296,
+  "endTime": 1691003592202,
   "band_list": [
     {
       "raw_hot": 1360342,
@@ -427,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98529,
+      "num": 75923,
+      "word": "孟子义嗑上头了",
+      "onboard_time": 1691000417,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73320,
       "num": 81008,
       "word": "小夭终于在大荒落户了",
@@ -443,12 +451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 58654,
-      "num": 75293,
-      "word": "孟子义嗑上头了",
-      "onboard_time": 1691000417,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 60396,
+      "num": 60396,
+      "word": "你的iPhone一天要充几次电",
+      "onboard_time": 1691002153,
+      "rank": 15,
+      "category": "科技,幽默"
     },
     {
       "raw_hot": 42292,
@@ -473,6 +481,14 @@
       "onboard_time": 1690879894,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27924,
+      "num": 38856,
+      "word": "这些剧里一帧一风景",
+      "onboard_time": 1691003115,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 18653,

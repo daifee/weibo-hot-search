@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691001251296,
+  "endTime": 1691003592202,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -7171,6 +7171,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 98529,
+      "num": 75923,
+      "word": "孟子义嗑上头了",
+      "onboard_time": 1691000417,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97268,
       "num": 97268,
       "word": "吴昕蓝色挂脖裙",
@@ -7275,12 +7283,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 58654,
-      "num": 75293,
-      "word": "孟子义嗑上头了",
-      "onboard_time": 1691000417,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 60396,
+      "num": 60396,
+      "word": "你的iPhone一天要充几次电",
+      "onboard_time": 1691002153,
+      "rank": 15,
+      "category": "科技,幽默"
     },
     {
       "raw_hot": 57920,
@@ -7393,6 +7401,14 @@
       "onboard_time": 1690742354,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27924,
+      "num": 38856,
+      "word": "这些剧里一帧一风景",
+      "onboard_time": 1691003115,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 27474,
