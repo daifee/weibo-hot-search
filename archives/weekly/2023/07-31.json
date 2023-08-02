@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690971459054,
+  "endTime": 1690972439494,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1967424,
-      "num": 828080,
+      "num": 884831,
       "word": "NONO被曝性侵后首露面",
       "onboard_time": 1690967914,
       "rank": 11,
@@ -1003,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1038798,
+      "num": 1038798,
+      "word": "曝凤凰传奇巡演筹备中",
+      "onboard_time": 1690969959,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1025098,
       "num": 1025098,
       "word": "台风卡努或将转向",
@@ -1531,12 +1539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 786382,
-      "num": 786382,
-      "word": "曝凤凰传奇巡演筹备中",
-      "onboard_time": 1690969959,
-      "rank": 5,
-      "category": "音乐"
+      "raw_hot": 786451,
+      "num": 786451,
+      "word": "王俊凯和TF家族四代见面belike",
+      "onboard_time": 1690969776,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 785275,
@@ -1553,6 +1561,14 @@
       "onboard_time": 1690931301,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776277,
+      "num": 776277,
+      "word": "夏克立自曝出狱后和流浪汉一起睡桥下",
+      "onboard_time": 1690968576,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 776000,
@@ -1763,14 +1779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 726220,
-      "num": 726220,
-      "word": "王俊凯和TF家族四代见面belike",
-      "onboard_time": 1690969776,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 723570,
       "num": 723570,
       "word": "长相思未删减版本",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1690958913,
       "rank": 21,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 722470,
+      "num": 722470,
+      "word": "古装天选帝王相",
+      "onboard_time": 1690969479,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 722139,
@@ -1816,6 +1832,14 @@
       "word": "5个症状提示体内有湿气",
       "onboard_time": 1690731813,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716933,
+      "num": 716933,
+      "word": "台风卡努已进入24小时警戒线",
+      "onboard_time": 1690966772,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1979,14 +2003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 660391,
-      "num": 660391,
-      "word": "台风卡努已进入24小时警戒线",
-      "onboard_time": 1690966772,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 656801,
       "num": 522761,
       "word": "戚薇李承铉带Lucky度假",
@@ -2073,14 +2089,6 @@
       "onboard_time": 1690856075,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 642431,
-      "num": 642431,
-      "word": "夏克立自曝出狱后和流浪汉一起睡桥下",
-      "onboard_time": 1690968576,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 638417,
@@ -2219,14 +2227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603759,
-      "num": 603759,
-      "word": "古装天选帝王相",
-      "onboard_time": 1690969479,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 603612,
       "num": 438981,
       "word": "卢沟桥",
@@ -2249,6 +2249,14 @@
       "onboard_time": 1690954898,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596769,
+      "num": 596769,
+      "word": "娜然 契约精神",
+      "onboard_time": 1690969959,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 596116,
@@ -2360,14 +2368,6 @@
       "word": "张晚意谈与杨紫合作",
       "onboard_time": 1690863582,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 573195,
-      "num": 573195,
-      "word": "娜然 契约精神",
-      "onboard_time": 1690969959,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -3211,6 +3211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 412226,
+      "num": 412226,
+      "word": "刘宇宁回应歌手转型演员",
+      "onboard_time": 1690970555,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 412002,
       "num": 412002,
       "word": "莲花楼直播",
@@ -3337,6 +3345,14 @@
       "onboard_time": 1690949017,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 397728,
+      "num": 1012667,
+      "word": "涿州一饭店借烛光为200名救援人员做饭",
+      "onboard_time": 1690955916,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396456,
@@ -3635,12 +3651,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 366632,
-      "num": 901502,
-      "word": "涿州一饭店借烛光为200名救援人员做饭",
-      "onboard_time": 1690955916,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 367138,
+      "num": 367138,
+      "word": "丁程鑫将暂停录制你好星期六",
+      "onboard_time": 1690972114,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 364080,
@@ -3851,6 +3867,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 345535,
+      "num": 838259,
+      "word": "无人机为500村民飞出30米生命桥",
+      "onboard_time": 1690963772,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345396,
       "num": 614716,
       "word": "退役军人10年献血27000毫升",
@@ -4011,6 +4035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317846,
+      "num": 777077,
+      "word": "涿州一超市大方赊账助邻里渡难关",
+      "onboard_time": 1690969834,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317809,
       "num": 316905,
       "word": "撒贝宁这辈子没这么尴尬过",
@@ -4057,14 +4089,6 @@
       "onboard_time": 1690792830,
       "rank": 27,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 312040,
-      "num": 813337,
-      "word": "无人机为500村民飞出30米生命桥",
-      "onboard_time": 1690963772,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311745,
@@ -4899,14 +4923,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 245623,
-      "num": 728970,
-      "word": "涿州一超市大方赊账助邻里渡难关",
-      "onboard_time": 1690969834,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245339,
       "num": 245339,
       "word": "常温常压超导首被证明理论可行",
@@ -4929,6 +4945,14 @@
       "onboard_time": 1690895618,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243408,
+      "num": 243408,
+      "word": "封神第一部票房破13亿",
+      "onboard_time": 1690971815,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 243236,
@@ -5129,14 +5153,6 @@
       "onboard_time": 1690943433,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 225541,
-      "num": 225541,
-      "word": "刘宇宁回应歌手转型演员",
-      "onboard_time": 1690970555,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 225146,
@@ -5411,6 +5427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205656,
+      "num": 205656,
+      "word": "热烈 彪彪",
+      "onboard_time": 1690970377,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205546,
       "num": 205546,
       "word": "张艺兴深圳演唱会彩排",
@@ -5531,12 +5555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199936,
-      "num": 199936,
-      "word": "热烈 彪彪",
-      "onboard_time": 1690970377,
-      "rank": 38,
-      "category": "影视"
+      "raw_hot": 200282,
+      "num": 200282,
+      "word": "旧版eva画风 令人想到张柏芝",
+      "onboard_time": 1690970914,
+      "rank": 46,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 199647,
@@ -6011,6 +6035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153447,
+      "num": 153447,
+      "word": "台风卡努致浙江掀起十余米狂浪",
+      "onboard_time": 1690971693,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152847,
       "num": 220519,
       "word": "在成都打车打到大熊猫了",
@@ -6091,14 +6123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141281,
-      "num": 162578,
-      "word": "旧版eva画风 令人想到张柏芝",
-      "onboard_time": 1690970914,
-      "rank": 46,
-      "category": "动漫,艺人"
-    },
-    {
       "raw_hot": 139911,
       "num": 139911,
       "word": "人人都忆李相夷人人又负李相夷",
@@ -6107,7 +6131,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 139418,
+      "raw_hot": 139692,
       "num": 150494,
       "word": "KPL",
       "onboard_time": 1690730073,
@@ -6459,6 +6483,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 56896,
+      "num": 541743,
+      "word": "安卓手机拍视频哪家强",
+      "onboard_time": 1690970434,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 54951,
       "num": 2158513,
       "word": "暴雨天气10个安全指南",
@@ -6521,14 +6553,6 @@
       "onboard_time": 1690871014,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30926,
-      "num": 541743,
-      "word": "安卓手机拍视频哪家强",
-      "onboard_time": 1690970434,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 30348,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1690972439494,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1038798,
+        "num": 1038798,
+        "word": "曝凤凰传奇巡演筹备中",
+        "onboard_time": 1690969959,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 397728,
+        "num": 1012667,
+        "word": "涿州一饭店借烛光为200名救援人员做饭",
+        "onboard_time": 1690955916,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71113,
+        "num": 973117,
+        "word": "暴雨洪涝后如何做好个人健康防护",
+        "onboard_time": 1690965873,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1290716,
+        "num": 884831,
+        "word": "NONO被曝性侵后首露面",
+        "onboard_time": 1690967914,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 345535,
+        "num": 838259,
+        "word": "无人机为500村民飞出30米生命桥",
+        "onboard_time": 1690963772,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786451,
+        "num": 786451,
+        "word": "王俊凯和TF家族四代见面belike",
+        "onboard_time": 1690969776,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317846,
+        "num": 777077,
+        "word": "涿州一超市大方赊账助邻里渡难关",
+        "onboard_time": 1690969834,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776277,
+        "num": 776277,
+        "word": "夏克立自曝出狱后和流浪汉一起睡桥下",
+        "onboard_time": 1690968576,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722470,
+        "num": 722470,
+        "word": "古装天选帝王相",
+        "onboard_time": 1690969479,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 716933,
+        "num": 716933,
+        "word": "台风卡努已进入24小时警戒线",
+        "onboard_time": 1690966772,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677359,
+        "num": 677359,
+        "word": "李铁涉五宗罪",
+        "onboard_time": 1690964554,
+        "rank": 10,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 596769,
+        "num": 596769,
+        "word": "娜然 契约精神",
+        "onboard_time": 1690969959,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533705,
+        "num": 533705,
+        "word": "刘亦菲霍建华在人大拍戏",
+        "onboard_time": 1690957114,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 412226,
+        "num": 412226,
+        "word": "刘宇宁回应歌手转型演员",
+        "onboard_time": 1690970555,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56896,
+        "num": 411326,
+        "word": "安卓手机拍视频哪家强",
+        "onboard_time": 1690970434,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 411136,
+        "num": 411136,
+        "word": "难哄官博发声明",
+        "onboard_time": 1690953758,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409432,
+        "num": 409432,
+        "word": "封神为什么这么多自来水",
+        "onboard_time": 1690965753,
+        "rank": 16,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 375590,
+        "num": 375590,
+        "word": "原来我是六国混血",
+        "onboard_time": 1690964373,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367138,
+        "num": 367138,
+        "word": "丁程鑫将暂停录制你好星期六",
+        "onboard_time": 1690972114,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361867,
+        "num": 361867,
+        "word": "到手的驾照还没捂热就废了",
+        "onboard_time": 1690954718,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478411,
+        "num": 361647,
+        "word": "男子把买房送的1000克黄金卖了变现45万",
+        "onboard_time": 1690958913,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 366182,
+        "num": 360933,
+        "word": "1岁宝宝半夜栽进床边水桶溺亡",
+        "onboard_time": 1690956515,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359668,
+        "num": 359668,
+        "word": "e人和i人工作捅娄子后的区别",
+        "onboard_time": 1690969117,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351440,
+        "num": 351440,
+        "word": "村民称很多人没把泄洪通知当回事",
+        "onboard_time": 1690952676,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323546,
+        "num": 323546,
+        "word": "电影热烈抵制一切偷瞒票房行为",
+        "onboard_time": 1690964853,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274144,
+        "num": 274144,
+        "word": "小金毛居然是臭的",
+        "onboard_time": 1690961494,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251119,
+        "num": 251119,
+        "word": "檀健次镜头里闪现魏大勋",
+        "onboard_time": 1690965153,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243408,
+        "num": 243408,
+        "word": "封神第一部票房破13亿",
+        "onboard_time": 1690971815,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238618,
+        "num": 238618,
+        "word": "邓为说相柳在现代是抢劫的",
+        "onboard_time": 1690967914,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229698,
+        "num": 229698,
+        "word": "TF家族四代同堂",
+        "onboard_time": 1690953635,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223508,
+        "num": 223508,
+        "word": "张艺兴说多一人观影少一人受骗",
+        "onboard_time": 1690967493,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215819,
+        "num": 215819,
+        "word": "莲花楼直播",
+        "onboard_time": 1690967314,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209744,
+        "num": 209744,
+        "word": "坐公交听到两位大妈的催生攻略",
+        "onboard_time": 1690967433,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208535,
+        "num": 208535,
+        "word": "Faker回归首发",
+        "onboard_time": 1690962693,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205656,
+        "num": 205656,
+        "word": "热烈 彪彪",
+        "onboard_time": 1690970377,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200282,
+        "num": 200282,
+        "word": "旧版eva画风 令人想到张柏芝",
+        "onboard_time": 1690970914,
+        "rank": 35,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 187924,
+        "num": 187924,
+        "word": "赵丽颖白裙好温柔",
+        "onboard_time": 1690959574,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595275,
+        "num": 187770,
+        "word": "长相思未删减版本",
+        "onboard_time": 1690967554,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175789,
+        "num": 187494,
+        "word": "北京一名女救援队员牺牲",
+        "onboard_time": 1690962993,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187262,
+        "num": 187262,
+        "word": "檀健次设计相柳咬脖子细节",
+        "onboard_time": 1690969117,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186165,
+        "num": 186165,
+        "word": "SEVENTEEN 孙悟空刀群舞",
+        "onboard_time": 1690965873,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178834,
+        "num": 178834,
+        "word": "长相思官宣加更",
+        "onboard_time": 1690954117,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167091,
+        "num": 167091,
+        "word": "实在不行别哄了",
+        "onboard_time": 1690952740,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165305,
+        "num": 165305,
+        "word": "爱豆小卡应该有更多功能",
+        "onboard_time": 1690967433,
+        "rank": 43,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 164138,
+        "num": 164138,
+        "word": "夏克立自曝因家暴指控被关监狱",
+        "onboard_time": 1690951418,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 161788,
+        "num": 161788,
+        "word": "iPhone14被用户吐槽电池老化",
+        "onboard_time": 1690943493,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155095,
+        "num": 155095,
+        "word": "小S带3个女儿游韩国",
+        "onboard_time": 1690953098,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173554,
+        "num": 154748,
+        "word": "长相思",
+        "onboard_time": 1690951360,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153447,
+        "num": 153447,
+        "word": "台风卡努致浙江掀起十余米狂浪",
+        "onboard_time": 1690971693,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139692,
+        "num": 139692,
+        "word": "KPL",
+        "onboard_time": 1690971395,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军#"
+    }
+  }
+}
