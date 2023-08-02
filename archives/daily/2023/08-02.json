@@ -1,7 +1,15 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690950827574,
+  "endTime": 1690953322013,
   "band_list": [
+    {
+      "raw_hot": 2870626,
+      "num": 2870626,
+      "word": "夏克立自曝因家暴指控被关监狱",
+      "onboard_time": 1690951418,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 2780227,
       "num": 2780227,
@@ -91,6 +99,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1303358,
+      "num": 1303358,
+      "word": "优衣库是否推动身材焦虑",
+      "onboard_time": 1690950162,
+      "rank": 24,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 1262480,
       "num": 1262480,
       "word": "杨紫迪丽热巴今日开屏",
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 997686,
-      "num": 793810,
+      "num": 942534,
       "word": "封神发声明抵制偷漏瞒报票房行为",
       "onboard_time": 1690948597,
       "rank": 11,
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 867940,
+      "num": 867940,
+      "word": "北京本次降雨为140年来最大降雨",
+      "onboard_time": 1690947995,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854222,
       "num": 574130,
       "word": "入职第一天被派去新疆40天",
@@ -203,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 825794,
+      "num": 825794,
+      "word": "长相思",
+      "onboard_time": 1690888833,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 824242,
       "num": 824242,
       "word": "常温超导",
@@ -211,12 +243,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 795703,
-      "num": 795703,
-      "word": "北京本次降雨为140年来最大降雨",
-      "onboard_time": 1690947995,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 802204,
+      "num": 802204,
+      "word": "张颂文红毯再现高启强动作",
+      "onboard_time": 1690951600,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 781313,
@@ -299,6 +331,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 652496,
+      "num": 386094,
+      "word": "当器官知道我们十二点前睡觉",
+      "onboard_time": 1690951237,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 647855,
+      "num": 647855,
+      "word": "香蜜冰糖星糖全员售后",
+      "onboard_time": 1690952500,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 599759,
       "num": 546721,
       "word": "涂山璟说抱歉实在没忍住",
@@ -315,12 +363,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 593124,
+      "num": 384337,
+      "word": "密室大逃脱",
+      "onboard_time": 1690951600,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 591617,
       "num": 591617,
       "word": "被困2天2夜K396首批乘客抵达丰台站",
       "onboard_time": 1690940014,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579747,
+      "num": 383697,
+      "word": "实在不行别哄了",
+      "onboard_time": 1690952740,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 570679,
@@ -507,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412774,
-      "num": 483380,
-      "word": "优衣库是否推动身材焦虑",
-      "onboard_time": 1690950162,
-      "rank": 24,
-      "category": "社会新闻,时尚"
+      "raw_hot": 411715,
+      "num": 337779,
+      "word": "小S带3个女儿游韩国",
+      "onboard_time": 1690953098,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 411387,
@@ -619,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362613,
+      "num": 323684,
+      "word": "张杰深圳抢票",
+      "onboard_time": 1690951476,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 359589,
       "num": 359589,
       "word": "和TFBOYS共赴十年约定",
@@ -672,6 +744,22 @@
       "word": "涿州",
       "onboard_time": 1690900719,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340092,
+      "num": 312731,
+      "word": "TF三代穿四叶草上衣",
+      "onboard_time": 1690953098,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 328419,
+      "num": 328419,
+      "word": "村民称很多人没把泄洪通知当回事",
+      "onboard_time": 1690952676,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -859,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249471,
+      "num": 249471,
+      "word": "这是相柳的嘴替吧",
+      "onboard_time": 1690952918,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248194,
       "num": 248194,
       "word": "洪水",
@@ -1009,6 +1105,14 @@
       "onboard_time": 1690899700,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205021,
+      "num": 205021,
+      "word": "逆水寒",
+      "onboard_time": 1690952858,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 203911,
@@ -1291,20 +1395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45754,
-      "num": 45754,
-      "word": "长相思",
-      "onboard_time": 1690888833,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 43854,
       "num": 43854,
       "word": "lk99",
       "onboard_time": 1690915694,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 34469,
+      "num": 686924,
+      "word": "这种长着眼睛的子弹是反恐利器",
+      "onboard_time": 1690952439,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26393,
