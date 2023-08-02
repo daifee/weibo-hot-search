@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690982412698,
+  "endTime": 1690983232863,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1524191,
+      "num": 1524191,
+      "word": "猎罪图鉴编剧回应加女主",
+      "onboard_time": 1690980034,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1488650,
       "num": 730880,
       "word": "马嘉祺发了30多张照片",
@@ -593,14 +601,6 @@
       "onboard_time": 1690945893,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1449369,
-      "num": 1449369,
-      "word": "猎罪图鉴编剧回应加女主",
-      "onboard_time": 1690980034,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 1438562,
@@ -683,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1347383,
+      "num": 1347383,
+      "word": "女子翻结婚照发现老公弟弟十指相扣",
+      "onboard_time": 1690977336,
+      "rank": 10,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1343293,
       "num": 556312,
       "word": "刘维登不上母亲微信发文求助",
@@ -721,14 +729,6 @@
       "onboard_time": 1690892314,
       "rank": 8,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 1324843,
-      "num": 1324843,
-      "word": "女子翻结婚照发现老公弟弟十指相扣",
-      "onboard_time": 1690977336,
-      "rank": 10,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1323142,
@@ -1395,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 874356,
+      "num": 874356,
+      "word": "j人和P人手机桌面的区别",
+      "onboard_time": 1690979857,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 874169,
       "num": 874169,
       "word": "是阿昕儿又又又回应了",
@@ -1851,14 +1859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 738425,
-      "num": 738425,
-      "word": "j人和P人手机桌面的区别",
-      "onboard_time": 1690979857,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 737212,
       "num": 341585,
       "word": "王诗龄的画vs黄多多的画",
@@ -1921,6 +1921,14 @@
       "onboard_time": 1690936234,
       "rank": 8,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 717426,
+      "num": 717426,
+      "word": "长相思一家五口",
+      "onboard_time": 1690981715,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 717324,
@@ -2435,6 +2443,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 587832,
+      "num": 643853,
+      "word": "杭州动物园的马来熊在国外火了",
+      "onboard_time": 1690979074,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586815,
       "num": 522814,
       "word": "孟美岐说内测舞台再来一次也不会唱跳",
@@ -2673,14 +2689,6 @@
       "onboard_time": 1690761149,
       "rank": 15,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 538948,
-      "num": 643853,
-      "word": "杭州动物园的马来熊在国外火了",
-      "onboard_time": 1690979074,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 538932,
@@ -3283,6 +3291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440193,
+      "num": 565092,
+      "word": "洪水中4个月大婴儿被直升机吊起",
+      "onboard_time": 1690979137,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437938,
       "num": 362855,
       "word": "刘雨昕演唱会票价",
@@ -3337,6 +3353,14 @@
       "onboard_time": 1690867535,
       "rank": 41,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 429598,
+      "num": 429598,
+      "word": "优酷TFBOYS演唱会线上有效期延长至一年",
+      "onboard_time": 1690982258,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 427877,
@@ -3459,14 +3483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 411539,
-      "num": 298010,
-      "word": "长相思一家五口",
-      "onboard_time": 1690981715,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 411387,
       "num": 411387,
       "word": "曾舜晞没来又好像来了",
@@ -3537,14 +3553,6 @@
       "onboard_time": 1690938157,
       "rank": 23,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 403402,
-      "num": 463443,
-      "word": "洪水中4个月大婴儿被直升机吊起",
-      "onboard_time": 1690979137,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 402931,
@@ -4179,6 +4187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335831,
+      "num": 277357,
+      "word": "4D影厅的受众到底是谁",
+      "onboard_time": 1690982857,
+      "rank": 27,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 335712,
       "num": 293415,
       "word": "官方回应网传县委书记自杀身亡",
@@ -4409,6 +4425,14 @@
       "onboard_time": 1690953996,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309348,
+      "num": 268455,
+      "word": "安居乐烨",
+      "onboard_time": 1690982434,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 309300,
@@ -4891,6 +4915,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270797,
+      "num": 270797,
+      "word": "新生儿被抱出产房外婆一句话破防",
+      "onboard_time": 1690982618,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270292,
+      "num": 265969,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1690980159,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270139,
       "num": 306237,
       "word": "新冠感染情况问卷调查",
@@ -5067,12 +5107,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 260540,
-      "num": 260540,
-      "word": "优酷TFBOYS演唱会线上有效期延长至一年",
-      "onboard_time": 1690982258,
-      "rank": 31,
-      "category": "音乐"
+      "raw_hot": 260960,
+      "num": 260960,
+      "word": "封神宇宙",
+      "onboard_time": 1690982556,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 259827,
@@ -5361,14 +5401,6 @@
       "onboard_time": 1690894657,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237566,
-      "num": 237566,
-      "word": "密室大逃脱大神版",
-      "onboard_time": 1690980159,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 237175,
