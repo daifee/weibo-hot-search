@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690968847744,
+  "endTime": 1690971459054,
   "band_list": [
     {
       "raw_hot": 2870626,
@@ -81,6 +81,14 @@
       "onboard_time": 1690942472,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1967424,
+      "num": 828080,
+      "word": "NONO被曝性侵后首露面",
+      "onboard_time": 1690967914,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1771484,
@@ -209,14 +217,6 @@
       "onboard_time": 1690954117,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1036329,
-      "num": 573050,
-      "word": "NONO被曝性侵后首露面",
-      "onboard_time": 1690967914,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 997686,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 838609,
-      "num": 366353,
+      "num": 377042,
       "word": "1岁宝宝半夜栽进床边水桶溺亡",
       "onboard_time": 1690956515,
       "rank": 32,
@@ -427,6 +427,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 786382,
+      "num": 786382,
+      "word": "曝凤凰传奇巡演筹备中",
+      "onboard_time": 1690969959,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 781313,
       "num": 390642,
       "word": "网传广州12岁女孩被数人起哄猥亵",
@@ -475,8 +483,24 @@
       "category": "影视"
     },
     {
+      "raw_hot": 726220,
+      "num": 726220,
+      "word": "王俊凯和TF家族四代见面belike",
+      "onboard_time": 1690969776,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 723570,
+      "num": 723570,
+      "word": "长相思未删减版本",
+      "onboard_time": 1690967554,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 723476,
-      "num": 367810,
+      "num": 401963,
       "word": "男子把买房送的1000克黄金卖了变现45万",
       "onboard_time": 1690958913,
       "rank": 21,
@@ -512,14 +536,6 @@
       "word": "成毅肖顺尧新浪扫楼",
       "onboard_time": 1690942710,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 686543,
-      "num": 567362,
-      "word": "长相思未删减版本",
-      "onboard_time": 1690967554,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -563,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 660391,
+      "num": 660391,
+      "word": "台风卡努已进入24小时警戒线",
+      "onboard_time": 1690966772,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656061,
       "num": 400391,
       "word": "TF三代穿四叶草上衣",
@@ -577,6 +601,22 @@
       "onboard_time": 1690951237,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 642431,
+      "num": 642431,
+      "word": "夏克立自曝出狱后和流浪汉一起睡桥下",
+      "onboard_time": 1690968576,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 603759,
+      "num": 603759,
+      "word": "古装天选帝王相",
+      "onboard_time": 1690969479,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 599759,
@@ -625,6 +665,14 @@
       "onboard_time": 1690940014,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573195,
+      "num": 573195,
+      "word": "娜然 契约精神",
+      "onboard_time": 1690969959,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 571273,
@@ -747,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460269,
+      "num": 400750,
+      "word": "e人和i人工作捅娄子后的区别",
+      "onboard_time": 1690969117,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 459897,
       "num": 459897,
       "word": "曝宝能集团姚振华被讨薪员工围殴",
@@ -841,14 +897,6 @@
       "onboard_time": 1690939534,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 421401,
-      "num": 316908,
-      "word": "台风卡努已进入24小时警戒线",
-      "onboard_time": 1690966772,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417744,
@@ -1028,7 +1076,7 @@
     },
     {
       "raw_hot": 366632,
-      "num": 366632,
+      "num": 901502,
       "word": "涿州一饭店借烛光为200名救援人员做饭",
       "onboard_time": 1690955916,
       "rank": 19,
@@ -1152,6 +1200,14 @@
       "word": "台风卡努路径仍不确定",
       "onboard_time": 1690928717,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312040,
+      "num": 813337,
+      "word": "无人机为500村民飞出30米生命桥",
+      "onboard_time": 1690963772,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1395,11 +1451,11 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 245876,
-      "num": 245876,
-      "word": "无人机为500村民飞出30米生命桥",
-      "onboard_time": 1690963772,
-      "rank": 46,
+      "raw_hot": 245623,
+      "num": 728970,
+      "word": "涿州一超市大方赊账助邻里渡难关",
+      "onboard_time": 1690969834,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1443,14 +1499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233553,
-      "num": 233553,
-      "word": "夏克立自曝出狱后和流浪汉一起睡桥下",
-      "onboard_time": 1690968576,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226742,
       "num": 226742,
       "word": "涿州市民回忆家中涨水过程",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1690943433,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225541,
+      "num": 225541,
+      "word": "刘宇宁回应歌手转型演员",
+      "onboard_time": 1690970555,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 225015,
@@ -1505,6 +1561,14 @@
       "onboard_time": 1690937737,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217735,
+      "num": 217735,
+      "word": "檀健次设计相柳咬脖子细节",
+      "onboard_time": 1690969117,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 216430,
@@ -1633,6 +1697,14 @@
       "onboard_time": 1690896160,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199936,
+      "num": 199936,
+      "word": "热烈 彪彪",
+      "onboard_time": 1690970377,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 199085,
@@ -1811,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141281,
+      "num": 162578,
+      "word": "旧版eva画风 令人想到张柏芝",
+      "onboard_time": 1690970914,
+      "rank": 46,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 135200,
       "num": 135200,
       "word": "商瑞华说中国女足已被日本超越",
@@ -1883,12 +1963,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107781,
+      "num": 158676,
+      "word": "台风过境后子弟兵清理泥泞道路",
+      "onboard_time": 1690970738,
+      "rank": 47,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 106629,
       "num": 106629,
       "word": "订单超时可能是外卖小哥救人去了",
       "onboard_time": 1690920913,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103490,
+      "num": 150494,
+      "word": "KPL",
+      "onboard_time": 1690971395,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 100226,
@@ -1961,6 +2057,14 @@
       "onboard_time": 1690956033,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30926,
+      "num": 541743,
+      "word": "安卓手机拍视频哪家强",
+      "onboard_time": 1690970434,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 30348,
