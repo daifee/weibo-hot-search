@@ -1,7 +1,15 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690983232863,
+  "endTime": 1690985739757,
   "band_list": [
+    {
+      "raw_hot": 3070623,
+      "num": 3070623,
+      "word": "保安让王源出示自己演唱会的工作证",
+      "onboard_time": 1690983636,
+      "rank": 0,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 2870626,
       "num": 2870626,
@@ -187,7 +195,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1347383,
+      "raw_hot": 1361025,
       "num": 1347383,
       "word": "女子翻结婚照发现老公弟弟十指相扣",
       "onboard_time": 1690977336,
@@ -249,6 +257,14 @@
       "onboard_time": 1690939832,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1071267,
+      "num": 1071267,
+      "word": "长相思一家五口",
+      "onboard_time": 1690981715,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 1058749,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 905621,
+      "num": 905621,
+      "word": "j人和P人手机桌面的区别",
+      "onboard_time": 1690979857,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 875720,
       "num": 875720,
       "word": "微信回应看朋友圈会自动点赞",
@@ -403,12 +427,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 874356,
-      "num": 874356,
-      "word": "j人和P人手机桌面的区别",
-      "onboard_time": 1690979857,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 870755,
+      "num": 870755,
+      "word": "Doinb 罗云熙",
+      "onboard_time": 1690983578,
+      "rank": 8,
+      "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 870232,
+      "num": 870232,
+      "word": "新生儿被抱出产房外婆一句话破防",
+      "onboard_time": 1690982618,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 868956,
@@ -595,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 738671,
+      "num": 738671,
+      "word": "涿州",
+      "onboard_time": 1690900719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 735352,
       "num": 735352,
       "word": "电影封神邓婵玉扮演者训练动图",
@@ -635,14 +675,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 717426,
-      "num": 717426,
-      "word": "长相思一家五口",
-      "onboard_time": 1690981715,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 716933,
       "num": 716933,
       "word": "台风卡努已进入24小时警戒线",
@@ -681,6 +713,14 @@
       "onboard_time": 1690953937,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 680737,
+      "num": 680737,
+      "word": "优酷TFBOYS演唱会线上有效期延长至一年",
+      "onboard_time": 1690982258,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 678669,
@@ -732,7 +772,7 @@
     },
     {
       "raw_hot": 620012,
-      "num": 385095,
+      "num": 415309,
       "word": "檀健次说分so就分so",
       "onboard_time": 1690976193,
       "rank": 20,
@@ -768,6 +808,14 @@
       "word": "娜然 契约精神",
       "onboard_time": 1690969959,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 595457,
+      "num": 595457,
+      "word": "迪丽热巴帝梓元白发上线",
+      "onboard_time": 1690983999,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -931,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 514257,
+      "num": 514257,
+      "word": "几年的逆子是干不过几十年的逆子的",
+      "onboard_time": 1690972895,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 513821,
       "num": 513821,
       "word": "可以喝的西瓜",
@@ -953,14 +1009,6 @@
       "onboard_time": 1690940014,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 490196,
-      "num": 490196,
-      "word": "几年的逆子是干不过几十年的逆子的",
-      "onboard_time": 1690972895,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 489851,
@@ -1091,6 +1139,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 448396,
+      "num": 448396,
+      "word": "XYG能不能轮换",
+      "onboard_time": 1690985257,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 443595,
       "num": 443595,
       "word": "王鹤棣综艺路透",
@@ -1121,14 +1177,6 @@
       "onboard_time": 1690939534,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 429598,
-      "num": 429598,
-      "word": "优酷TFBOYS演唱会线上有效期延长至一年",
-      "onboard_time": 1690982258,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 425925,
@@ -1283,6 +1331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 391062,
+      "num": 391062,
+      "word": "封神宇宙",
+      "onboard_time": 1690982556,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391043,
       "num": 391043,
       "word": "王一博同款杭州馄饨多好吃",
@@ -1427,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347102,
-      "num": 347102,
-      "word": "涿州",
-      "onboard_time": 1690900719,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345535,
       "num": 1485897,
       "word": "无人机为500村民飞出30米生命桥",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1690903896,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 319290,
+      "num": 254450,
+      "word": "在美国聚会做水煮鱼惊艳全场",
+      "onboard_time": 1690984777,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 318014,
@@ -1707,14 +1763,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 270797,
-      "num": 270797,
-      "word": "新生儿被抱出产房外婆一句话破防",
-      "onboard_time": 1690982618,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270292,
       "num": 265969,
       "word": "密室大逃脱大神版",
@@ -1768,14 +1816,6 @@
       "word": "檀健次天选相柳",
       "onboard_time": 1690909044,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 260960,
-      "num": 260960,
-      "word": "封神宇宙",
-      "onboard_time": 1690982556,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -1931,6 +1971,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234198,
+      "num": 234198,
+      "word": "WB对战XYG",
+      "onboard_time": 1690984659,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 231350,
+      "num": 231350,
+      "word": "大运会体操中国男团夺金",
+      "onboard_time": 1690985376,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226742,
       "num": 226742,
       "word": "涿州市民回忆家中涨水过程",
@@ -1979,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219006,
+      "num": 219006,
+      "word": "6名涿州群众被困房顶72小时",
+      "onboard_time": 1690984542,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218431,
       "num": 218431,
       "word": "涿州洪水亲历者称泄洪区村子淹成海",
@@ -2001,6 +2065,14 @@
       "onboard_time": 1690896816,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215592,
+      "num": 215592,
+      "word": "拜仁绝杀利物浦",
+      "onboard_time": 1690983999,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 215525,
@@ -2131,6 +2203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201901,
+      "num": 201901,
+      "word": "虞书欣透视碎花吊带",
+      "onboard_time": 1690985620,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201526,
       "num": 201526,
       "word": "ON泪洒赛场",
@@ -2145,6 +2225,14 @@
       "onboard_time": 1690970914,
       "rank": 46,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 199573,
+      "num": 199573,
+      "word": "布冯退役",
+      "onboard_time": 1690985257,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 199085,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1690985739757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3070623,
+        "num": 3070623,
+        "word": "保安让王源出示自己演唱会的工作证",
+        "onboard_time": 1690983636,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1276508,
+        "num": 1276508,
+        "word": "凤凰传奇工作室 律师函不会弄",
+        "onboard_time": 1690976974,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50165,
+        "num": 1208120,
+        "word": "暴雨洪涝后如何做好个人健康防护",
+        "onboard_time": 1690965873,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361025,
+        "num": 1205952,
+        "word": "女子翻结婚照发现老公弟弟十指相扣",
+        "onboard_time": 1690977336,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1199660,
+        "num": 1199660,
+        "word": "猎罪图鉴编剧回应加女主",
+        "onboard_time": 1690980034,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1071267,
+        "num": 1071267,
+        "word": "长相思一家五口",
+        "onboard_time": 1690981715,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 914935,
+        "num": 914935,
+        "word": "周扬青我不是艺人是网红",
+        "onboard_time": 1690974694,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 905621,
+        "num": 905621,
+        "word": "j人和P人手机桌面的区别",
+        "onboard_time": 1690979857,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 870755,
+        "num": 870755,
+        "word": "Doinb 罗云熙",
+        "onboard_time": 1690983578,
+        "rank": 8,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 870232,
+        "num": 870232,
+        "word": "新生儿被抱出产房外婆一句话破防",
+        "onboard_time": 1690982618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093092,
+        "num": 836361,
+        "word": "女子过海关双腿绑满少女针",
+        "onboard_time": 1690973317,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738671,
+        "num": 738671,
+        "word": "涿州",
+        "onboard_time": 1690983101,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680737,
+        "num": 680737,
+        "word": "优酷TFBOYS演唱会线上有效期延长至一年",
+        "onboard_time": 1690982258,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 624093,
+        "num": 624093,
+        "word": "小夭涂山璟一吻定情",
+        "onboard_time": 1690980634,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 595457,
+        "num": 595457,
+        "word": "迪丽热巴帝梓元白发上线",
+        "onboard_time": 1690983999,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514257,
+        "num": 514257,
+        "word": "几年的逆子是干不过几十年的逆子的",
+        "onboard_time": 1690972895,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 448396,
+        "num": 448396,
+        "word": "XYG能不能轮换",
+        "onboard_time": 1690985257,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 429336,
+        "num": 429336,
+        "word": "海潮被抓",
+        "onboard_time": 1690979556,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416649,
+        "num": 416649,
+        "word": "龚俊看完queencard吓出一身冷汗",
+        "onboard_time": 1690979015,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329983,
+        "num": 415335,
+        "word": "洪水中4个月大婴儿被直升机吊起",
+        "onboard_time": 1690979137,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596144,
+        "num": 415309,
+        "word": "檀健次说分so就分so",
+        "onboard_time": 1690976193,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414596,
+        "num": 414596,
+        "word": "杭州动物园的马来熊在国外火了",
+        "onboard_time": 1690979074,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391062,
+        "num": 391062,
+        "word": "封神宇宙",
+        "onboard_time": 1690982556,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381210,
+        "num": 381210,
+        "word": "男子把买房送的1000克黄金卖了变现45万",
+        "onboard_time": 1690958913,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 297347,
+        "num": 297347,
+        "word": "1岁宝宝半夜栽进床边水桶溺亡",
+        "onboard_time": 1690956515,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303016,
+        "num": 294256,
+        "word": "难哄实在不行就沈腾马丽演吧",
+        "onboard_time": 1690976673,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266228,
+        "num": 266228,
+        "word": "张新成邓为是同学",
+        "onboard_time": 1690974453,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265249,
+        "num": 265249,
+        "word": "北京此次暴雨已有两名牺牲的救援人员身份确认",
+        "onboard_time": 1690973495,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260303,
+        "num": 260303,
+        "word": "台风卡努已进入24小时警戒线",
+        "onboard_time": 1690966772,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255487,
+        "num": 255487,
+        "word": "小夭回复杨紫",
+        "onboard_time": 1690979196,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319290,
+        "num": 254450,
+        "word": "在美国聚会做水煮鱼惊艳全场",
+        "onboard_time": 1690984777,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251938,
+        "num": 251938,
+        "word": "马保国制服醉汉",
+        "onboard_time": 1690974757,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250039,
+        "num": 250039,
+        "word": "丁程鑫将暂停录制你好星期六",
+        "onboard_time": 1690972114,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248227,
+        "num": 248227,
+        "word": "西安到处都是TFBOYS",
+        "onboard_time": 1690976014,
+        "rank": 33,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 239557,
+        "num": 239557,
+        "word": "密室大逃脱大神版",
+        "onboard_time": 1690980159,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234198,
+        "num": 234198,
+        "word": "WB对战XYG",
+        "onboard_time": 1690984659,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231350,
+        "num": 231350,
+        "word": "大运会体操中国男团夺金",
+        "onboard_time": 1690985376,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225878,
+        "num": 225878,
+        "word": "NONO被曝性侵后首露面",
+        "onboard_time": 1690967914,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 223610,
+        "num": 223610,
+        "word": "大家都是毕业多久才稳定下来的",
+        "onboard_time": 1690974992,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 221672,
+        "num": 221672,
+        "word": "易烊千玺或将演小小的我",
+        "onboard_time": 1690974271,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219288,
+        "num": 219288,
+        "word": "胡锡进 防洪功夫需平日里做足",
+        "onboard_time": 1690980159,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219006,
+        "num": 219006,
+        "word": "6名涿州群众被困房顶72小时",
+        "onboard_time": 1690984542,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215592,
+        "num": 215592,
+        "word": "拜仁绝杀利物浦",
+        "onboard_time": 1690983999,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208212,
+        "num": 208212,
+        "word": "安居乐烨",
+        "onboard_time": 1690982434,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201901,
+        "num": 201901,
+        "word": "虞书欣透视碎花吊带",
+        "onboard_time": 1690985620,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199573,
+        "num": 199573,
+        "word": "布冯退役",
+        "onboard_time": 1690985257,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197489,
+        "num": 197489,
+        "word": "4D影厅的受众到底是谁",
+        "onboard_time": 1690982857,
+        "rank": 46,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 195482,
+        "num": 195482,
+        "word": "莲花楼直播",
+        "onboard_time": 1690967314,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193432,
+        "num": 193432,
+        "word": "今晚的月亮好圆",
+        "onboard_time": 1690980757,
+        "rank": 48,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 184200,
+        "num": 193428,
+        "word": "王一博同款杭州馄饨多好吃",
+        "onboard_time": 1690975895,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军新征程#"
+    }
+  }
+}
