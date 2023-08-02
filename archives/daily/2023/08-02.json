@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690957300765,
+  "endTime": 1690958043875,
   "band_list": [
     {
       "raw_hot": 2870626,
@@ -163,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1037599,
-      "num": 1037599,
+      "raw_hot": 1040490,
+      "num": 1040490,
       "word": "长相思官宣加更",
       "onboard_time": 1690954117,
       "rank": 30,
@@ -233,6 +233,14 @@
       "onboard_time": 1690925293,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881144,
+      "num": 881144,
+      "word": "刘亦菲霍建华在人大拍戏",
+      "onboard_time": 1690957114,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 875720,
@@ -307,11 +315,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 795431,
+      "num": 795431,
+      "word": "村民称很多人没把泄洪通知当回事",
+      "onboard_time": 1690952676,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781313,
       "num": 390642,
       "word": "网传广州12岁女孩被数人起哄猥亵",
       "onboard_time": 1690931301,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779883,
+      "num": 279778,
+      "word": "1岁宝宝半夜栽进床边水桶溺亡",
+      "onboard_time": 1690956515,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -321,14 +345,6 @@
       "onboard_time": 1690899877,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 761717,
-      "num": 761717,
-      "word": "村民称很多人没把泄洪通知当回事",
-      "onboard_time": 1690952676,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 758530,
@@ -419,12 +435,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 631409,
-      "num": 279778,
-      "word": "1岁宝宝半夜栽进床边水桶溺亡",
-      "onboard_time": 1690956515,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 633912,
+      "num": 524413,
+      "word": "电影封神邓婵玉扮演者训练动图",
+      "onboard_time": 1690957056,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 599759,
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537941,
+      "num": 537941,
+      "word": "官方回应佳木斯建方舱医院",
+      "onboard_time": 1690956274,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513821,
       "num": 513821,
       "word": "可以喝的西瓜",
@@ -545,6 +569,14 @@
       "onboard_time": 1690904316,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471792,
+      "num": 471792,
+      "word": "到手的驾照还没捂热就废了",
+      "onboard_time": 1690954718,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471175,
@@ -635,28 +667,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 438217,
-      "num": 438217,
-      "word": "到手的驾照还没捂热就废了",
-      "onboard_time": 1690954718,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 434548,
       "num": 434548,
       "word": "夭玹",
       "onboard_time": 1690939534,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 429983,
-      "num": 429983,
-      "word": "官方回应佳木斯建方舱医院",
-      "onboard_time": 1690956274,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417744,
@@ -875,12 +891,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 321094,
-      "num": 278016,
-      "word": "电影封神邓婵玉扮演者训练动图",
-      "onboard_time": 1690957056,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 322127,
+      "num": 322127,
+      "word": "涿州一饭店借烛光为200名救援人员做饭",
+      "onboard_time": 1690955916,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318014,
@@ -912,14 +928,6 @@
       "word": "卡努",
       "onboard_time": 1690899098,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297787,
-      "num": 297787,
-      "word": "涿州一饭店借烛光为200名救援人员做饭",
-      "onboard_time": 1690955916,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1147,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220221,
+      "num": 220221,
+      "word": "敖子逸 北京",
+      "onboard_time": 1690957956,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218431,
       "num": 218431,
       "word": "涿州洪水亲历者称泄洪区村子淹成海",
@@ -1185,14 +1201,6 @@
       "onboard_time": 1690942772,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209270,
-      "num": 209270,
-      "word": "刘亦菲霍建华在人大拍戏",
-      "onboard_time": 1690957114,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 209134,
@@ -1297,6 +1305,14 @@
       "onboard_time": 1690947156,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192958,
+      "num": 192958,
+      "word": "武警战士被急流冲倒时仍紧抱孩子",
+      "onboard_time": 1690957592,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 190793,
@@ -1539,6 +1555,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 31799,
+      "num": 250608,
+      "word": "淘宝斗地主大赛热度超过原神",
+      "onboard_time": 1690956033,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26393,
       "num": 26393,
       "word": "关注京津冀强降雨",
@@ -1553,14 +1577,6 @@
       "onboard_time": 1690914077,
       "rank": 44,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 21261,
-      "num": 250608,
-      "word": "淘宝斗地主大赛热度超过原神",
-      "onboard_time": 1690956033,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 17190,
