@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690932829040,
+  "endTime": 1690939153081,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2725329,
+      "num": 2725329,
+      "word": "猎罪图鉴2 加女主",
+      "onboard_time": 1690933890,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2634865,
       "num": 2634865,
       "word": "TFBOYS抢票",
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2380001,
+      "num": 2380001,
+      "word": "芭比被日本大规模抵制",
+      "onboard_time": 1690932203,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2298843,
       "num": 948127,
       "word": "女婴心脏扎进一根4厘米绣花针",
@@ -136,6 +152,14 @@
       "word": "iPhone15价格将上涨",
       "onboard_time": 1690770210,
       "rank": 21,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 2113434,
+      "num": 2113434,
+      "word": "微信小绿书",
+      "onboard_time": 1690933529,
+      "rank": 3,
       "category": "科技"
     },
     {
@@ -344,6 +368,14 @@
       "word": "门头沟暴雨",
       "onboard_time": 1690779936,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1597827,
+      "num": 1597827,
+      "word": "千万不要犯罪因为浏览记录会让人社死",
+      "onboard_time": 1690933470,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -609,6 +641,14 @@
       "onboard_time": 1690811016,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1264932,
+      "num": 1264932,
+      "word": "奚安娜",
+      "onboard_time": 1690938274,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1258796,
@@ -948,7 +988,7 @@
     },
     {
       "raw_hot": 921828,
-      "num": 335263,
+      "num": 434288,
       "word": "南京4名中学生下河游泳溺亡",
       "onboard_time": 1690925293,
       "rank": 41,
@@ -1168,6 +1208,14 @@
       "word": "2位军官晋升上将军衔",
       "onboard_time": 1690802072,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 781313,
+      "num": 386985,
+      "word": "网传广州12岁女孩被数人起哄猥亵",
+      "onboard_time": 1690931301,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1467,6 +1515,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 665883,
+      "num": 665883,
+      "word": "韩国室温超导团队称论文存在缺陷",
+      "onboard_time": 1690935933,
+      "rank": 7,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 665006,
+      "num": 665006,
+      "word": "小米捐赠2500万驰援北京河北暴雨救灾",
+      "onboard_time": 1690936234,
+      "rank": 8,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 660809,
       "num": 341313,
       "word": "喜欢张杰很久的彭奶奶去世了",
@@ -1521,14 +1585,6 @@
       "onboard_time": 1690767390,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 649530,
-      "num": 332280,
-      "word": "芭比被日本大规模抵制",
-      "onboard_time": 1690932203,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 647832,
@@ -1611,14 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 620448,
-      "num": 261520,
-      "word": "网传广州12岁女孩被数人起哄猥亵",
-      "onboard_time": 1690931301,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 620242,
       "num": 515556,
       "word": "刘同 30岁先找到落脚点",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1690779576,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 615328,
+      "num": 315547,
+      "word": "被不卫生的水泡过的饮料不要喝",
+      "onboard_time": 1690938091,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 614564,
@@ -1665,6 +1721,14 @@
       "onboard_time": 1690892073,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 610131,
+      "num": 384576,
+      "word": "微信回应看朋友圈会自动点赞",
+      "onboard_time": 1690937314,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 609754,
@@ -1851,6 +1915,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 557889,
+      "num": 557889,
+      "word": "卡努向浙江至福建沿海靠近",
+      "onboard_time": 1690935816,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556427,
       "num": 556427,
       "word": "就该叫相柳大人",
@@ -1939,6 +2011,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 538932,
+      "num": 538932,
+      "word": "女子借到母亲照片那一刻泪崩了",
+      "onboard_time": 1690932445,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537487,
       "num": 528501,
       "word": "黄晓明万茜新剧吻戏",
@@ -2025,6 +2105,14 @@
       "onboard_time": 1690885774,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513821,
+      "num": 513821,
+      "word": "可以喝的西瓜",
+      "onboard_time": 1690936777,
+      "rank": 12,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 509822,
@@ -2179,6 +2267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 472687,
+      "num": 472687,
+      "word": "TFBOYS演唱会外围疑围钢板安刺尖",
+      "onboard_time": 1690938335,
+      "rank": 13,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 472605,
       "num": 472605,
       "word": "电梯突然停运乘客原地停留20分钟",
@@ -2323,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449561,
+      "num": 449561,
+      "word": "常温超导若实现iPhone可匹敌量子计算机",
+      "onboard_time": 1690935336,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 449342,
       "num": 449342,
       "word": "罗布泊",
@@ -2369,6 +2473,14 @@
       "onboard_time": 1690845505,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 443595,
+      "num": 443595,
+      "word": "王鹤棣综艺路透",
+      "onboard_time": 1690935155,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 437178,
@@ -2467,6 +2579,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 414729,
+      "num": 384291,
+      "word": "谭爷爷的手机屏保是花花",
+      "onboard_time": 1690932867,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 411597,
       "num": 377157,
       "word": "小夭角色号改名字",
@@ -2563,6 +2683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 394995,
+      "num": 394995,
+      "word": "封神票房",
+      "onboard_time": 1690719633,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394088,
       "num": 394088,
       "word": "shinyruo 明天播",
@@ -2625,6 +2753,14 @@
       "onboard_time": 1690856558,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388275,
+      "num": 388275,
+      "word": "涿州居民被困2月大孩子急需奶粉",
+      "onboard_time": 1690931725,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387171,
@@ -2705,6 +2841,14 @@
       "onboard_time": 1690888292,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 374711,
+      "num": 374711,
+      "word": "陀枪师姐导演邝业生去世",
+      "onboard_time": 1690938157,
+      "rank": 23,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 372413,
@@ -2859,6 +3003,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 355041,
+      "num": 355041,
+      "word": "4000元古驰T恤洗一次褪色",
+      "onboard_time": 1690935095,
+      "rank": 24,
+      "category": "时尚,社会新闻"
+    },
+    {
       "raw_hot": 355038,
       "num": 355038,
       "word": "业内人士谈车队进罗布泊3死1失联",
@@ -2873,6 +3025,14 @@
       "onboard_time": 1690787075,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 353498,
+      "num": 353498,
+      "word": "外地救援队需要当地开邀请函",
+      "onboard_time": 1690939052,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351991,
@@ -3028,7 +3188,7 @@
     },
     {
       "raw_hot": 325753,
-      "num": 218004,
+      "num": 242576,
       "word": "台风卡努",
       "onboard_time": 1690721557,
       "rank": 19,
@@ -3065,6 +3225,14 @@
       "onboard_time": 1690870354,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318049,
+      "num": 318049,
+      "word": "河北涿州救援",
+      "onboard_time": 1690934131,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318014,
@@ -3161,6 +3329,14 @@
       "onboard_time": 1690742537,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307790,
+      "num": 307790,
+      "word": "金智秀教哈兰德跳flower",
+      "onboard_time": 1690937377,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 306874,
@@ -3395,6 +3571,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282982,
+      "num": 282982,
+      "word": "华北暴雨疯狂倾倒70多小时",
+      "onboard_time": 1690933227,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281050,
+      "num": 281050,
+      "word": "我把相机寄给了养老院的外公",
+      "onboard_time": 1690932565,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280742,
       "num": 280742,
       "word": "志愿军伙房门口的对联笑哭了",
@@ -3419,20 +3611,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 279604,
-      "num": 279604,
-      "word": "封神票房",
-      "onboard_time": 1690719633,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 278777,
       "num": 278777,
       "word": "当我跟爸妈说不想干了",
       "onboard_time": 1690768412,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 277180,
+      "num": 277180,
+      "word": "当飞机延误了快10小时",
+      "onboard_time": 1690938034,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 275977,
@@ -3480,6 +3672,14 @@
       "word": "长相思弹幕互动量破亿",
       "onboard_time": 1690866097,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 273562,
+      "num": 273562,
+      "word": "长相思角色号好会营业",
+      "onboard_time": 1690935994,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -3660,11 +3860,19 @@
     },
     {
       "raw_hot": 261040,
-      "num": 181988,
+      "num": 211143,
       "word": "檀健次天选相柳",
       "onboard_time": 1690909044,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259590,
+      "num": 259590,
+      "word": "原来鞋子还有一片装",
+      "onboard_time": 1690932867,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 257031,
@@ -3747,14 +3955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249385,
-      "num": 195064,
-      "word": "涿州居民被困2月大孩子急需奶粉",
-      "onboard_time": 1690931725,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247833,
       "num": 247833,
       "word": "成都串串店深夜坐满外国运动员",
@@ -3827,12 +4027,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239016,
+      "num": 239016,
+      "word": "北京解除暴雨预警信号",
+      "onboard_time": 1690938814,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238765,
       "num": 238765,
       "word": "大牙风波后首公开露面",
       "onboard_time": 1690877490,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238690,
+      "num": 238690,
+      "word": "老太火车上霸占三个座位自称身体不好",
+      "onboard_time": 1690934793,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238111,
@@ -3971,6 +4187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226742,
+      "num": 226742,
+      "word": "涿州市民回忆家中涨水过程",
+      "onboard_time": 1690938693,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225146,
       "num": 225146,
       "word": "内娱身材管理满分的明星",
@@ -4032,6 +4256,14 @@
       "word": "你今天居家办公吗",
       "onboard_time": 1690728994,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218431,
+      "num": 218431,
+      "word": "涿州洪水亲历者称泄洪区村子淹成海",
+      "onboard_time": 1690937737,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4115,6 +4347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208799,
+      "num": 208799,
+      "word": "刘涛一镜到底哭戏",
+      "onboard_time": 1690937558,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208739,
       "num": 208739,
       "word": "心动6",
@@ -4169,6 +4409,14 @@
       "onboard_time": 1690872932,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203862,
+      "num": 203862,
+      "word": "涿州汛情受灾人数超13万人",
+      "onboard_time": 1690938935,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203821,
@@ -4875,14 +5123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116194,
-      "num": 116194,
-      "word": "女子借到母亲照片那一刻泪崩了",
-      "onboard_time": 1690932445,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115527,
       "num": 115527,
       "word": "暧昧期上头如何自救",
@@ -4921,14 +5161,6 @@
       "onboard_time": 1690923192,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112529,
-      "num": 112529,
-      "word": "我把相机寄给了养老院的外公",
-      "onboard_time": 1690932565,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 106629,
@@ -5043,8 +5275,8 @@
       "category": "军事"
     },
     {
-      "raw_hot": 46295,
-      "num": 467411,
+      "raw_hot": 54951,
+      "num": 2158513,
       "word": "暴雨天气10个安全指南",
       "onboard_time": 1690895137,
       "rank": 2,
