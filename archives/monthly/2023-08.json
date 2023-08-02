@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690985739757,
+  "endTime": 1690986849497,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1651150,
+      "num": 1347383,
+      "word": "女子翻结婚照发现老公弟弟十指相扣",
+      "onboard_time": 1690977336,
+      "rank": 10,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1616535,
       "num": 1616535,
       "word": "法国网红爬中国香港68楼天台后坠亡",
@@ -401,14 +409,6 @@
       "onboard_time": 1690864902,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1361025,
-      "num": 1347383,
-      "word": "女子翻结婚照发现老公弟弟十指相扣",
-      "onboard_time": 1690977336,
-      "rank": 10,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1351204,
@@ -587,8 +587,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1071267,
-      "num": 1071267,
+      "raw_hot": 1076204,
+      "num": 1076204,
       "word": "长相思一家五口",
       "onboard_time": 1690981715,
       "rank": 25,
@@ -681,6 +681,14 @@
       "onboard_time": 1690943493,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 981512,
+      "num": 981512,
+      "word": "新生儿被抱出产房外婆一句话破防",
+      "onboard_time": 1690982618,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 979851,
@@ -851,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890708,
+      "num": 890708,
+      "word": "Doinb 罗云熙",
+      "onboard_time": 1690983578,
+      "rank": 8,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 881761,
       "num": 881761,
       "word": "吴京烤串一看就没少练",
@@ -889,22 +905,6 @@
       "onboard_time": 1690876654,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 870755,
-      "num": 870755,
-      "word": "Doinb 罗云熙",
-      "onboard_time": 1690983578,
-      "rank": 8,
-      "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 870232,
-      "num": 870232,
-      "word": "新生儿被抱出产房外婆一句话破防",
-      "onboard_time": 1690982618,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 867940,
@@ -1100,7 +1100,7 @@
     },
     {
       "raw_hot": 775936,
-      "num": 738671,
+      "num": 774124,
       "word": "涿州",
       "onboard_time": 1690850557,
       "rank": 10,
@@ -1555,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598485,
+      "num": 598485,
+      "word": "迪丽热巴帝梓元白发上线",
+      "onboard_time": 1690983999,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 598244,
       "num": 364056,
       "word": "女生称被男孩偷看裙底又被其妈妈掀裙子",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1690868433,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 595457,
-      "num": 595457,
-      "word": "迪丽热巴帝梓元白发上线",
-      "onboard_time": 1690983999,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 594678,
@@ -1921,6 +1921,22 @@
       "onboard_time": 1690959574,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 501250,
+      "num": 372930,
+      "word": "在美国聚会做水煮鱼惊艳全场",
+      "onboard_time": 1690984777,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 500458,
+      "num": 360737,
+      "word": "虞书欣透视碎花吊带",
+      "onboard_time": 1690985620,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 500411,
@@ -2459,6 +2475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395667,
+      "num": 395667,
+      "word": "封神宇宙",
+      "onboard_time": 1690982556,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394995,
       "num": 394995,
       "word": "封神票房",
@@ -2505,14 +2529,6 @@
       "onboard_time": 1690872693,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 391062,
-      "num": 391062,
-      "word": "封神宇宙",
-      "onboard_time": 1690982556,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 391043,
@@ -2907,6 +2923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324393,
+      "num": 324393,
+      "word": "布冯退役",
+      "onboard_time": 1690985257,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324372,
       "num": 324372,
       "word": "猫咬电线被炸成小糊脸",
@@ -2923,12 +2947,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 319290,
-      "num": 254450,
-      "word": "在美国聚会做水煮鱼惊艳全场",
-      "onboard_time": 1690984777,
+      "raw_hot": 318292,
+      "num": 261100,
+      "word": "K396次乘客家属讲述脱困经过",
+      "onboard_time": 1690986340,
       "rank": 30,
-      "category": "美食"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318154,
@@ -3041,6 +3065,14 @@
       "onboard_time": 1690862079,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300874,
+      "num": 300874,
+      "word": "大运会体操中国男团夺金",
+      "onboard_time": 1690985376,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 300505,
@@ -3683,6 +3715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236293,
+      "num": 236293,
+      "word": "官方辟谣李立群杭州看病花费20万",
+      "onboard_time": 1690986698,
+      "rank": 36,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 236072,
       "num": 236072,
       "word": "邓为cos狐狸跳女团舞",
@@ -3745,14 +3785,6 @@
       "onboard_time": 1690816715,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 231350,
-      "num": 231350,
-      "word": "大运会体操中国男团夺金",
-      "onboard_time": 1690985376,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 230862,
@@ -4059,14 +4091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201901,
-      "num": 201901,
-      "word": "虞书欣透视碎花吊带",
-      "onboard_time": 1690985620,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 201527,
       "num": 201527,
       "word": "爱与忠诚要用行动表达",
@@ -4105,14 +4129,6 @@
       "onboard_time": 1690970914,
       "rank": 46,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 199573,
-      "num": 199573,
-      "word": "布冯退役",
-      "onboard_time": 1690985257,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 199085,
@@ -4377,6 +4393,14 @@
       "onboard_time": 1690814378,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176051,
+      "num": 206648,
+      "word": "国外版男生女生向前冲",
+      "onboard_time": 1690986698,
+      "rank": 48,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 176018,
