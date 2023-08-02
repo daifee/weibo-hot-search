@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690979638291,
+  "endTime": 1690980613161,
   "band_list": [
     {
       "raw_hot": 2870626,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1131496,
+      "num": 485347,
+      "word": "女子翻结婚照发现老公弟弟十指相扣",
+      "onboard_time": 1690977336,
+      "rank": 10,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1114869,
       "num": 1114869,
       "word": "电影热烈抵制一切偷瞒票房行为",
@@ -241,14 +249,6 @@
       "onboard_time": 1690905275,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1051789,
-      "num": 485347,
-      "word": "女子翻结婚照发现老公弟弟十指相扣",
-      "onboard_time": 1690977336,
-      "rank": 10,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1040490,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756749,
+      "num": 431157,
+      "word": "龚俊看完queencard吓出一身冷汗",
+      "onboard_time": 1690979015,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 740818,
       "num": 573854,
       "word": "陕西一男子涉嫌半小时内连杀岳母妻子",
@@ -627,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 685115,
+      "num": 685115,
+      "word": "难哄实在不行就沈腾马丽演吧",
+      "onboard_time": 1690976673,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 681796,
       "num": 681796,
       "word": "谁教张晚意这么比心的",
@@ -683,16 +699,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 626197,
-      "num": 626197,
-      "word": "难哄实在不行就沈腾马丽演吧",
-      "onboard_time": 1690976673,
-      "rank": 7,
+      "raw_hot": 647961,
+      "num": 427618,
+      "word": "猎罪图鉴编剧回应加女主",
+      "onboard_time": 1690980034,
+      "rank": 12,
       "category": "影视"
     },
     {
       "raw_hot": 620012,
-      "num": 321248,
+      "num": 385095,
       "word": "檀健次说分so就分so",
       "onboard_time": 1690976193,
       "rank": 20,
@@ -851,6 +867,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532812,
+      "num": 383059,
+      "word": "小夭回复杨紫",
+      "onboard_time": 1690979196,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 532126,
+      "num": 471203,
+      "word": "猎罪图鉴",
+      "onboard_time": 1690978540,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 513821,
       "num": 513821,
       "word": "可以喝的西瓜",
@@ -875,12 +907,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 494246,
-      "num": 471203,
-      "word": "猎罪图鉴",
-      "onboard_time": 1690978540,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 490196,
+      "num": 490196,
+      "word": "几年的逆子是干不过几十年的逆子的",
+      "onboard_time": 1690972895,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 489851,
@@ -897,14 +929,6 @@
       "onboard_time": 1690904316,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 486737,
-      "num": 486737,
-      "word": "几年的逆子是干不过几十年的逆子的",
-      "onboard_time": 1690972895,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 472036,
@@ -1011,6 +1035,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 446168,
+      "num": 416374,
+      "word": "海潮被抓",
+      "onboard_time": 1690979556,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443595,
       "num": 443595,
       "word": "王鹤棣综艺路透",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1690939534,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425925,
+      "num": 338899,
+      "word": "西安到处都是TFBOYS",
+      "onboard_time": 1690976014,
+      "rank": 46,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 424067,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1690965873,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 414159,
-      "num": 263170,
-      "word": "龚俊看完queencard吓出一身冷汗",
-      "onboard_time": 1690979015,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 412002,
@@ -1153,6 +1185,14 @@
       "onboard_time": 1690949017,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 395831,
+      "num": 395831,
+      "word": "洪水中4个月大婴儿被直升机吊起",
+      "onboard_time": 1690979137,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394995,
@@ -1235,6 +1275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 383184,
+      "num": 383184,
+      "word": "杭州动物园的马来熊在国外火了",
+      "onboard_time": 1690979074,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380134,
       "num": 352050,
       "word": "封神第一部票房破13亿",
@@ -1289,14 +1337,6 @@
       "onboard_time": 1690967914,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 355403,
-      "num": 321196,
-      "word": "西安到处都是TFBOYS",
-      "onboard_time": 1690976014,
-      "rank": 46,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 353498,
@@ -1355,12 +1395,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334747,
+      "num": 334747,
+      "word": "徐静雨柯凡单挑",
+      "onboard_time": 1690978715,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 334578,
+      "num": 334578,
+      "word": "覃海洋100米蛙泳摘金",
+      "onboard_time": 1690977157,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325753,
       "num": 307082,
       "word": "台风卡努",
       "onboard_time": 1690931783,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325165,
+      "num": 325165,
+      "word": "法令纹瑜伽",
+      "onboard_time": 1690978115,
+      "rank": 31,
+      "category": "时尚,美妆"
     },
     {
       "raw_hot": 324456,
@@ -1377,14 +1441,6 @@
       "onboard_time": 1690893216,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 324135,
-      "num": 324135,
-      "word": "覃海洋100米蛙泳摘金",
-      "onboard_time": 1690977157,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 323347,
@@ -1507,14 +1563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 286384,
-      "num": 263168,
-      "word": "法令纹瑜伽",
-      "onboard_time": 1690978115,
-      "rank": 31,
-      "category": "时尚,美妆"
-    },
-    {
       "raw_hot": 282982,
       "num": 282982,
       "word": "华北暴雨疯狂倾倒70多小时",
@@ -1545,14 +1593,6 @@
       "onboard_time": 1690895857,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277542,
-      "num": 277542,
-      "word": "徐静雨柯凡单挑",
-      "onboard_time": 1690978715,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 276853,
@@ -1595,14 +1635,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 270174,
-      "num": 270174,
-      "word": "洪水中4个月大婴儿被直升机吊起",
-      "onboard_time": 1690979137,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268865,
       "num": 1097199,
       "word": "京津冀暴雨互助",
@@ -1611,12 +1643,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265835,
+      "num": 265835,
+      "word": "网友P的檀健次女装",
+      "onboard_time": 1690979432,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264301,
       "num": 264301,
       "word": "姬发彪子",
       "onboard_time": 1690901618,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263046,
+      "num": 261741,
+      "word": "没有人告诉我邓为这么好笑",
+      "onboard_time": 1690978834,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 261999,
+      "num": 261999,
+      "word": "j人和P人手机桌面的区别",
+      "onboard_time": 1690979857,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 261732,
@@ -1675,14 +1731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249244,
-      "num": 249244,
-      "word": "杭州动物园的马来熊在国外火了",
-      "onboard_time": 1690979074,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248194,
       "num": 248194,
       "word": "洪水",
@@ -1723,12 +1771,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 244058,
-      "num": 244058,
-      "word": "小夭回复杨紫",
-      "onboard_time": 1690979196,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 244521,
+      "num": 244521,
+      "word": "王源客厅狂欢巡演纪录片",
+      "onboard_time": 1690976556,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 243745,
@@ -1777,22 +1825,6 @@
       "onboard_time": 1690963536,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 234138,
-      "num": 234138,
-      "word": "王源客厅狂欢巡演纪录片",
-      "onboard_time": 1690976556,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 232270,
-      "num": 232270,
-      "word": "没有人告诉我邓为这么好笑",
-      "onboard_time": 1690978834,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 226742,
@@ -1875,19 +1907,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215176,
-      "num": 215176,
-      "word": "网友P的檀健次女装",
-      "onboard_time": 1690979432,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214182,
       "num": 214182,
       "word": "救援队员在冰冷的水中吃东西充饥",
       "onboard_time": 1690942530,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212388,
+      "num": 212388,
+      "word": "山东籍消防员冯振为救战友不幸牺牲",
+      "onboard_time": 1690979676,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2003,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201887,
+      "num": 201887,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1690980159,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201526,
       "num": 201526,
       "word": "ON泪洒赛场",
@@ -2075,14 +2115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195449,
-      "num": 206968,
-      "word": "海潮被抓",
-      "onboard_time": 1690979556,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193764,
       "num": 222604,
       "word": "小夭拒绝相柳渡气",
@@ -2097,6 +2129,14 @@
       "onboard_time": 1690957592,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 191544,
+      "num": 201887,
+      "word": "胡锡进 防洪功夫需平日里做足",
+      "onboard_time": 1690980159,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190793,
