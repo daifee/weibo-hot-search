@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690947232415,
+  "endTime": 1690949971490,
   "band_list": [
     {
       "raw_hot": 2780227,
@@ -11,19 +11,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2751596,
+      "num": 2751596,
+      "word": "猎罪图鉴编剧 理念不合",
+      "onboard_time": 1690944994,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2725329,
       "num": 2725329,
       "word": "猎罪图鉴2 加女主",
       "onboard_time": 1690933890,
       "rank": 0,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 2517740,
-      "num": 2517740,
-      "word": "猎罪图鉴编剧 理念不合",
-      "onboard_time": 1690944994,
-      "rank": 3,
       "category": "影视"
     },
     {
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1408767,
+      "num": 1408767,
+      "word": "林萧你",
+      "onboard_time": 1690945893,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1405033,
       "num": 1405033,
       "word": "被不卫生的水泡过的饮料不要喝",
@@ -97,14 +105,6 @@
       "onboard_time": 1690908269,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1161594,
-      "num": 689030,
-      "word": "林萧你",
-      "onboard_time": 1690945893,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1093891,
@@ -195,6 +195,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 816534,
+      "num": 574130,
+      "word": "入职第一天被派去新疆40天",
+      "onboard_time": 1690947874,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781313,
       "num": 390642,
       "word": "网传广州12岁女孩被数人起哄猥亵",
@@ -209,6 +217,38 @@
       "onboard_time": 1690899877,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 742790,
+      "num": 742790,
+      "word": "封神发声明抵制偷漏瞒报票房行为",
+      "onboard_time": 1690948597,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 740818,
+      "num": 573854,
+      "word": "陕西一男子涉嫌半小时内连杀岳母妻子",
+      "onboard_time": 1690946259,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740730,
+      "num": 740730,
+      "word": "鹿晗武汉",
+      "onboard_time": 1690947274,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 736667,
+      "num": 587701,
+      "word": "邓为留过金色长发",
+      "onboard_time": 1690947333,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 717909,
@@ -267,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582772,
+      "num": 582772,
+      "word": "北京本次降雨为140年来最大降雨",
+      "onboard_time": 1690947995,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570679,
+      "num": 570679,
+      "word": "龚俊新浪扫楼",
+      "onboard_time": 1690948117,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 557889,
       "num": 557889,
       "word": "卡努向浙江至福建沿海靠近",
@@ -275,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 554449,
-      "num": 401853,
-      "word": "陕西一男子涉嫌半小时内连杀岳母妻子",
-      "onboard_time": 1690946259,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 554927,
+      "num": 412079,
+      "word": "雷佳音张国立于和伟高端局过招",
+      "onboard_time": 1690946733,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 547074,
@@ -315,6 +371,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 502457,
+      "num": 411545,
+      "word": "好久没见都有嘴的男女主了",
+      "onboard_time": 1690949258,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 496668,
       "num": 496668,
       "word": "相柳一直在等小夭回家",
@@ -345,6 +409,14 @@
       "onboard_time": 1690899877,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459285,
+      "num": 410452,
+      "word": "猎罪图鉴里的秦海璐",
+      "onboard_time": 1690948299,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 459018,
@@ -427,12 +499,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 414554,
+      "num": 414554,
+      "word": "中图网被困员工已被全部救出",
+      "onboard_time": 1690946672,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410652,
       "num": 370689,
       "word": "4000元古驰T恤洗一次褪色",
       "onboard_time": 1690935095,
       "rank": 24,
       "category": "时尚,社会新闻"
+    },
+    {
+      "raw_hot": 409268,
+      "num": 409268,
+      "word": "网友香港偶遇周雨彤欢喜哥同框",
+      "onboard_time": 1690948538,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 405908,
@@ -448,6 +536,14 @@
       "word": "小夭吻得好主动",
       "onboard_time": 1690894899,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 399877,
+      "num": 399877,
+      "word": "孤注一掷官宣第二轮点映",
+      "onboard_time": 1690949017,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -491,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385735,
-      "num": 385735,
-      "word": "雷佳音张国立于和伟高端局过招",
-      "onboard_time": 1690946733,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 385505,
       "num": 333466,
       "word": "前几天才知道楼下那只橘猫死了",
@@ -507,12 +595,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 362833,
-      "num": 362833,
-      "word": "中图网被困员工已被全部救出",
-      "onboard_time": 1690946672,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 378943,
+      "num": 378943,
+      "word": "宋祖儿为灾区捐物资",
+      "onboard_time": 1690946555,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 359589,
@@ -532,7 +620,7 @@
     },
     {
       "raw_hot": 352650,
-      "num": 352650,
+      "num": 401343,
       "word": "涿州汛情受灾人数超13万人",
       "onboard_time": 1690938935,
       "rank": 48,
@@ -555,8 +643,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332932,
+      "num": 332932,
+      "word": "河北涿州救援",
+      "onboard_time": 1690934131,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325753,
-      "num": 250194,
+      "num": 307082,
       "word": "台风卡努",
       "onboard_time": 1690931783,
       "rank": 22,
@@ -579,12 +675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 318049,
-      "num": 318049,
-      "word": "河北涿州救援",
-      "onboard_time": 1690934131,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 322072,
+      "num": 293525,
+      "word": "成毅听到加更的反应",
+      "onboard_time": 1690947156,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 318014,
@@ -593,14 +689,6 @@
       "onboard_time": 1690928717,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315010,
-      "num": 315010,
-      "word": "宋祖儿为灾区捐物资",
-      "onboard_time": 1690946555,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 307790,
@@ -635,20 +723,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289308,
+      "num": 284960,
+      "word": "毛不易玱玹主题曲有你无你",
+      "onboard_time": 1690945893,
+      "rank": 40,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 286571,
       "num": 286571,
       "word": "当飞机延误了快10小时",
       "onboard_time": 1690938034,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 284960,
-      "num": 284960,
-      "word": "毛不易玱玹主题曲有你无你",
-      "onboard_time": 1690945893,
-      "rank": 40,
-      "category": "影视,音乐"
     },
     {
       "raw_hot": 282982,
@@ -665,6 +753,14 @@
       "onboard_time": 1690932565,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 280585,
+      "num": 258483,
+      "word": "孤注一掷",
+      "onboard_time": 1690948056,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 279137,
@@ -743,6 +839,14 @@
       "num": 245339,
       "word": "常温常压超导首被证明理论可行",
       "onboard_time": 1690916234,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 243991,
+      "num": 243991,
+      "word": "苹果和安卓哪个续航耐用",
+      "onboard_time": 1690947635,
       "rank": 45,
       "category": "科技"
     },
@@ -867,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208329,
-      "num": 208329,
-      "word": "成毅听到加更的反应",
-      "onboard_time": 1690947156,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 206862,
       "num": 206862,
       "word": "待产孕妇在声声鼓励中登上冲锋舟",
@@ -987,12 +1083,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 184540,
+      "num": 2030874,
+      "word": "当记者采访到社牛外国运动员",
+      "onboard_time": 1690946614,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177508,
       "num": 177508,
       "word": "于适说演员头发不属于自己属于角色",
       "onboard_time": 1690936655,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176452,
+      "num": 197969,
+      "word": "涿州多名受困婴儿被救出",
+      "onboard_time": 1690949857,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168087,
@@ -1139,20 +1251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89361,
-      "num": 2030874,
-      "word": "当记者采访到社牛外国运动员",
-      "onboard_time": 1690946614,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87080,
       "num": 722545,
       "word": "数千万人获得信用卡加倍积分",
       "onboard_time": 1690945232,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78136,
+      "num": 596116,
+      "word": "王者荣耀天猫",
+      "onboard_time": 1690948836,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 54951,

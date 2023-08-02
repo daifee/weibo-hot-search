@@ -1,0 +1,410 @@
+{
+  "runTime": 1690949971490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2751596,
+        "num": 2751596,
+        "word": "猎罪图鉴编剧 理念不合",
+        "onboard_time": 1690944994,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2011932,
+        "num": 2011932,
+        "word": "张予曦翟潇闻 难哄",
+        "onboard_time": 1690943311,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184540,
+        "num": 1725759,
+        "word": "当记者采访到社牛外国运动员",
+        "onboard_time": 1690946614,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1664198,
+        "num": 1664198,
+        "word": "婴儿整天躺着不会无聊吗",
+        "onboard_time": 1690942472,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1620665,
+        "num": 1620665,
+        "word": "iPhone14被用户吐槽电池老化",
+        "onboard_time": 1690943493,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1408767,
+        "num": 1408767,
+        "word": "林萧你",
+        "onboard_time": 1690945893,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1400947,
+        "num": 1400947,
+        "word": "猎罪图鉴2 加女主",
+        "onboard_time": 1690933890,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1215615,
+        "num": 1215615,
+        "word": "奚安娜",
+        "onboard_time": 1690938274,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 798949,
+        "num": 798949,
+        "word": "微信小绿书",
+        "onboard_time": 1690933529,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 784560,
+        "num": 784560,
+        "word": "26度高温导致加拿大一家人中暑",
+        "onboard_time": 1690939832,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966690,
+        "num": 771467,
+        "word": "杨紫迪丽热巴今日开屏",
+        "onboard_time": 1690944033,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 742790,
+        "num": 742790,
+        "word": "封神发声明抵制偷漏瞒报票房行为",
+        "onboard_time": 1690948597,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 740730,
+        "num": 740730,
+        "word": "鹿晗武汉",
+        "onboard_time": 1690947274,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 599895,
+        "num": 599895,
+        "word": "TFBOYS演唱会外围疑围钢板安刺尖",
+        "onboard_time": 1690938335,
+        "rank": 13,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 78136,
+        "num": 596116,
+        "word": "王者荣耀天猫",
+        "onboard_time": 1690948836,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 730287,
+        "num": 591819,
+        "word": "霉霉给工作人员发放超5500万美元奖金",
+        "onboard_time": 1690943493,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736667,
+        "num": 587701,
+        "word": "邓为留过金色长发",
+        "onboard_time": 1690947333,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692872,
+        "num": 586847,
+        "word": "芭比被日本大规模抵制",
+        "onboard_time": 1690932203,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 582772,
+        "num": 582772,
+        "word": "北京本次降雨为140年来最大降雨",
+        "onboard_time": 1690947995,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576138,
+        "num": 576138,
+        "word": "被不卫生的水泡过的饮料不要喝",
+        "onboard_time": 1690938091,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 816534,
+        "num": 574130,
+        "word": "入职第一天被派去新疆40天",
+        "onboard_time": 1690947874,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740818,
+        "num": 573854,
+        "word": "陕西一男子涉嫌半小时内连杀岳母妻子",
+        "onboard_time": 1690946259,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570679,
+        "num": 570679,
+        "word": "龚俊新浪扫楼",
+        "onboard_time": 1690948117,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556232,
+        "num": 556232,
+        "word": "千万不要犯罪因为浏览记录会让人社死",
+        "onboard_time": 1690933470,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414554,
+        "num": 414554,
+        "word": "中图网被困员工已被全部救出",
+        "onboard_time": 1690946672,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554927,
+        "num": 412079,
+        "word": "雷佳音张国立于和伟高端局过招",
+        "onboard_time": 1690946733,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502457,
+        "num": 411545,
+        "word": "好久没见都有嘴的男女主了",
+        "onboard_time": 1690949258,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459285,
+        "num": 410452,
+        "word": "猎罪图鉴里的秦海璐",
+        "onboard_time": 1690948299,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409268,
+        "num": 409268,
+        "word": "网友香港偶遇周雨彤欢喜哥同框",
+        "onboard_time": 1690948538,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321734,
+        "num": 401343,
+        "word": "涿州汛情受灾人数超13万人",
+        "onboard_time": 1690938935,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399877,
+        "num": 399877,
+        "word": "孤注一掷官宣第二轮点映",
+        "onboard_time": 1690949017,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378943,
+        "num": 378943,
+        "word": "宋祖儿为灾区捐物资",
+        "onboard_time": 1690946555,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332932,
+        "num": 332932,
+        "word": "河北涿州救援",
+        "onboard_time": 1690934131,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307082,
+        "num": 307082,
+        "word": "台风卡努",
+        "onboard_time": 1690931783,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294289,
+        "num": 294289,
+        "word": "韩国室温超导团队称论文存在缺陷",
+        "onboard_time": 1690935933,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 369361,
+        "num": 293698,
+        "word": "封神票房",
+        "onboard_time": 1690932324,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322072,
+        "num": 293525,
+        "word": "成毅听到加更的反应",
+        "onboard_time": 1690947156,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292094,
+        "num": 292094,
+        "word": "网传广州12岁女孩被数人起哄猥亵",
+        "onboard_time": 1690931301,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286733,
+        "num": 286733,
+        "word": "微信回应看朋友圈会自动点赞",
+        "onboard_time": 1690937314,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 261283,
+        "num": 261283,
+        "word": "涿州目前全域停水部分停电",
+        "onboard_time": 1690905275,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301494,
+        "num": 261170,
+        "word": "张艺谋坚如磐石终于定档",
+        "onboard_time": 1690944934,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293996,
+        "num": 259878,
+        "word": "王栎鑫上海演唱会官宣",
+        "onboard_time": 1690945294,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289308,
+        "num": 259083,
+        "word": "毛不易玱玹主题曲有你无你",
+        "onboard_time": 1690945893,
+        "rank": 42,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 280585,
+        "num": 258483,
+        "word": "孤注一掷",
+        "onboard_time": 1690948056,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258299,
+        "num": 258299,
+        "word": "相柳一直在等小夭回家",
+        "onboard_time": 1690940014,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243991,
+        "num": 243991,
+        "word": "苹果和安卓哪个续航耐用",
+        "onboard_time": 1690947635,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 238328,
+        "num": 238328,
+        "word": "买件衣服到底是被谁PUA了",
+        "onboard_time": 1690941093,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232192,
+        "num": 232192,
+        "word": "成毅肖顺尧新浪扫楼",
+        "onboard_time": 1690942710,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197969,
+        "num": 197969,
+        "word": "救援队称涿州救援难度高于北京房山",
+        "onboard_time": 1690942172,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176452,
+        "num": 197969,
+        "word": "涿州多名受困婴儿被救出",
+        "onboard_time": 1690949857,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军#"
+    }
+  }
+}
