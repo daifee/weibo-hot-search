@@ -1,0 +1,410 @@
+{
+  "runTime": 1690960549746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2090417,
+        "num": 2090417,
+        "word": "刘亦菲霍建华在人大拍戏",
+        "onboard_time": 1690957114,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1745247,
+        "num": 1745247,
+        "word": "难哄官博发声明",
+        "onboard_time": 1690953758,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86986,
+        "num": 1467510,
+        "word": "当记者采访到社牛外国运动员",
+        "onboard_time": 1690946614,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1444168,
+        "num": 1444168,
+        "word": "夏克立自曝因家暴指控被关监狱",
+        "onboard_time": 1690951418,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 871903,
+        "num": 871903,
+        "word": "村民称很多人没把泄洪通知当回事",
+        "onboard_time": 1690952676,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842801,
+        "num": 842801,
+        "word": "实在不行别哄了",
+        "onboard_time": 1690952740,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751890,
+        "num": 751890,
+        "word": "长相思官宣加更",
+        "onboard_time": 1690954117,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 735352,
+        "num": 735352,
+        "word": "电影封神邓婵玉扮演者训练动图",
+        "onboard_time": 1690957056,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 630222,
+        "num": 630222,
+        "word": "婴儿整天躺着不会无聊吗",
+        "onboard_time": 1690942472,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 577450,
+        "num": 577450,
+        "word": "官方回应佳木斯建方舱医院",
+        "onboard_time": 1690956274,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706087,
+        "num": 574334,
+        "word": "娜然 袁泉的哈基米",
+        "onboard_time": 1690959393,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 702463,
+        "num": 574195,
+        "word": "魏大勋范丞丞西装手势舞",
+        "onboard_time": 1690959212,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 656356,
+        "num": 573579,
+        "word": "杨紫的选择照顾了张晚意檀健次两个人",
+        "onboard_time": 1690958493,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 569724,
+        "num": 569724,
+        "word": "优衣库是否推动身材焦虑",
+        "onboard_time": 1690950162,
+        "rank": 13,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 527082,
+        "num": 527082,
+        "word": "iPhone14被用户吐槽电池老化",
+        "onboard_time": 1690943493,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 558234,
+        "num": 526538,
+        "word": "小S带3个女儿游韩国",
+        "onboard_time": 1690953098,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522612,
+        "num": 522612,
+        "word": "猎罪图鉴编剧 理念不合",
+        "onboard_time": 1690944994,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497570,
+        "num": 497570,
+        "word": "到手的驾照还没捂热就废了",
+        "onboard_time": 1690954718,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387547,
+        "num": 387547,
+        "word": "丫丫吃播经典瞬间",
+        "onboard_time": 1690958432,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366632,
+        "num": 366632,
+        "word": "涿州一饭店借烛光为200名救援人员做饭",
+        "onboard_time": 1690955916,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838609,
+        "num": 366353,
+        "word": "1岁宝宝半夜栽进床边水桶溺亡",
+        "onboard_time": 1690956515,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701187,
+        "num": 365979,
+        "word": "男子把买房送的1000克黄金卖了变现45万",
+        "onboard_time": 1690958913,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 477570,
+        "num": 365128,
+        "word": "TF家族四代同堂",
+        "onboard_time": 1690953635,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466762,
+        "num": 364850,
+        "word": "赵丽颖白裙好温柔",
+        "onboard_time": 1690959574,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378314,
+        "num": 364056,
+        "word": "女生称被男孩偷看裙底又被其妈妈掀裙子",
+        "onboard_time": 1690954898,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445222,
+        "num": 363231,
+        "word": "猎罪图鉴2 加女主",
+        "onboard_time": 1690933890,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437938,
+        "num": 362855,
+        "word": "刘雨昕演唱会票价",
+        "onboard_time": 1690958076,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 435729,
+        "num": 362180,
+        "word": "谁教张晚意这么比心的",
+        "onboard_time": 1690953937,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418333,
+        "num": 361619,
+        "word": "许凯吓得把杨幂扔了",
+        "onboard_time": 1690959873,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283012,
+        "num": 361391,
+        "word": "当器官知道我们十二点前睡觉",
+        "onboard_time": 1690951237,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360895,
+        "num": 360895,
+        "word": "白鹿耳环好大",
+        "onboard_time": 1690958315,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 349626,
+        "num": 349626,
+        "word": "敖子逸 北京",
+        "onboard_time": 1690957956,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271791,
+        "num": 271791,
+        "word": "微信被吐槽占用内存太大",
+        "onboard_time": 1690954174,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 237482,
+        "num": 237482,
+        "word": "房山蓝天救援女队员在抢险救灾中牺牲",
+        "onboard_time": 1690958432,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235497,
+        "num": 235497,
+        "word": "北京本次降雨为140年来最大降雨",
+        "onboard_time": 1690947995,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318030,
+        "num": 235454,
+        "word": "奚安娜",
+        "onboard_time": 1690938274,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306826,
+        "num": 232233,
+        "word": "杨紫邓为鸡哔你",
+        "onboard_time": 1690955376,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227562,
+        "num": 227562,
+        "word": "涿州多名受困婴儿被救出",
+        "onboard_time": 1690949857,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216961,
+        "num": 216961,
+        "word": "入职第一天被派去新疆40天",
+        "onboard_time": 1690947874,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204201,
+        "num": 204201,
+        "word": "哈尔滨大雨",
+        "onboard_time": 1690953996,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267859,
+        "num": 204171,
+        "word": "张予曦翟潇闻 难哄",
+        "onboard_time": 1690943311,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254188,
+        "num": 203457,
+        "word": "封神发声明抵制偷漏瞒报票房行为",
+        "onboard_time": 1690948597,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240607,
+        "num": 203108,
+        "word": "香蜜冰糖星糖全员售后",
+        "onboard_time": 1690952500,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236063,
+        "num": 202678,
+        "word": "长相思",
+        "onboard_time": 1690951360,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206608,
+        "num": 202290,
+        "word": "李飞开直播吧",
+        "onboard_time": 1690960532,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202272,
+        "num": 202272,
+        "word": "张颂文红毯再现高启强动作",
+        "onboard_time": 1690951600,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194538,
+        "num": 194538,
+        "word": "微信小绿书",
+        "onboard_time": 1690933529,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187314,
+        "num": 187314,
+        "word": "武警战士被急流冲倒时仍紧抱孩子",
+        "onboard_time": 1690957592,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 147026,
+        "num": 187301,
+        "word": "这结局太虐了",
+        "onboard_time": 1690960055,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143102,
+        "num": 187296,
+        "word": "河北涿州救援",
+        "onboard_time": 1690934131,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军新征程#"
+    }
+  }
+}
