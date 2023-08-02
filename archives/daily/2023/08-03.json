@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691018147823,
+  "endTime": 1691019231507,
   "band_list": [
     {
       "raw_hot": 1360342,
@@ -9,6 +9,22 @@
       "onboard_time": 1690983636,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1304449,
+      "num": 1304449,
+      "word": "暴雨后北京街头堆积大量受损汽车",
+      "onboard_time": 1691010252,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1302793,
+      "num": 319744,
+      "word": "18岁女孩被割400刀法院判轻伤",
+      "onboard_time": 1690988077,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1188513,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 1185586,
-      "num": 498670,
+      "num": 572576,
       "word": "涿州",
       "onboard_time": 1690983101,
       "rank": 24,
@@ -33,22 +49,6 @@
       "onboard_time": 1690987357,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 995704,
-      "num": 995704,
-      "word": "暴雨后北京街头堆积大量受损汽车",
-      "onboard_time": 1691010252,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 958362,
-      "num": 293313,
-      "word": "18岁女孩被割400刀法院判轻伤",
-      "onboard_time": 1690988077,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 750799,
@@ -91,8 +91,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 558904,
-      "num": 558904,
+      "raw_hot": 566700,
+      "num": 566700,
       "word": "第一次去非洲的中国女婿上门礼是头羊",
       "onboard_time": 1690988258,
       "rank": 8,
@@ -147,12 +147,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 433548,
+      "num": 208047,
+      "word": "女子脚底扎入2cm铁丝在医院爬着走",
+      "onboard_time": 1691017341,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429327,
       "num": 429327,
       "word": "j人和P人手机桌面的区别",
       "onboard_time": 1690979857,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 428363,
+      "num": 428363,
+      "word": "西游记里的妖怪都在长春",
+      "onboard_time": 1691017281,
+      "rank": 8,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 400363,
@@ -179,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323731,
+      "num": 323731,
+      "word": "你的iPhone一天要充几次电",
+      "onboard_time": 1691002153,
+      "rank": 15,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 306577,
       "num": 306577,
       "word": "周扬青我不是艺人是网红",
@@ -203,12 +227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289029,
-      "num": 289029,
-      "word": "西游记里的妖怪都在长春",
-      "onboard_time": 1691017281,
-      "rank": 8,
-      "category": "幽默,网红"
+      "raw_hot": 292452,
+      "num": 292452,
+      "word": "小镇饭店可免费吃饭一年仅一人点单",
+      "onboard_time": 1691004552,
+      "rank": 28,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 281559,
@@ -225,14 +249,6 @@
       "onboard_time": 1690982618,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262312,
-      "num": 262312,
-      "word": "你的iPhone一天要充几次电",
-      "onboard_time": 1691002153,
-      "rank": 15,
-      "category": "科技,幽默"
     },
     {
       "raw_hot": 260631,
@@ -259,11 +275,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244409,
-      "num": 244409,
-      "word": "小镇饭店可免费吃饭一年仅一人点单",
-      "onboard_time": 1691004552,
-      "rank": 28,
+      "raw_hot": 247030,
+      "num": 247030,
+      "word": "汉文帝霸陵殉葬坑发现神奇动物貘",
+      "onboard_time": 1691017281,
+      "rank": 33,
       "category": "社会新闻,旅游"
     },
     {
@@ -273,14 +289,6 @@
       "onboard_time": 1690988799,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 229459,
-      "num": 102931,
-      "word": "女子脚底扎入2cm铁丝在医院爬着走",
-      "onboard_time": 1691017341,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218464,
@@ -315,6 +323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205916,
+      "num": 205916,
+      "word": "邓为女友视角视频",
+      "onboard_time": 1691017281,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204423,
       "num": 204423,
       "word": "在美国聚会做水煮鱼惊艳全场",
@@ -329,6 +345,22 @@
       "onboard_time": 1690982556,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184649,
+      "num": 184649,
+      "word": "刘浩存于适早期合影",
+      "onboard_time": 1691018544,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176516,
+      "num": 142405,
+      "word": "人脸识别时一定要穿上衣服",
+      "onboard_time": 1691019026,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 176390,
@@ -347,14 +379,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 164842,
-      "num": 164842,
-      "word": "邓为女友视角视频",
-      "onboard_time": 1691017281,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 161787,
       "num": 202599,
       "word": "热烈路演",
@@ -369,6 +393,22 @@
       "onboard_time": 1690958913,
       "rank": 38,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 150620,
+      "num": 150620,
+      "word": "800多年卢沟桥暴雨后安然无恙",
+      "onboard_time": 1691017221,
+      "rank": 26,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 148999,
+      "num": 148999,
+      "word": "never又能见王一博了",
+      "onboard_time": 1691018725,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 148215,
@@ -409,6 +449,14 @@
       "onboard_time": 1690982258,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132013,
+      "num": 132013,
+      "word": "福建人的童年噩梦",
+      "onboard_time": 1691017281,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 130039,
@@ -475,36 +523,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99965,
+      "num": 99965,
+      "word": "小夭终于在大荒落户了",
+      "onboard_time": 1690997180,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98529,
       "num": 75923,
       "word": "孟子义嗑上头了",
       "onboard_time": 1691000417,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97528,
-      "num": 97528,
-      "word": "福建人的童年噩梦",
-      "onboard_time": 1691017281,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 96556,
-      "num": 96556,
-      "word": "汉文帝霸陵殉葬坑发现神奇动物貘",
-      "onboard_time": 1691017281,
-      "rank": 33,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 85091,
-      "num": 85091,
-      "word": "小夭终于在大荒落户了",
-      "onboard_time": 1690997180,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 84749,

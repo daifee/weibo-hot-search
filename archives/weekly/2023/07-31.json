@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691018147823,
+  "endTime": 1691019231507,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -771,12 +771,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1304449,
+      "num": 1304449,
+      "word": "暴雨后北京街头堆积大量受损汽车",
+      "onboard_time": 1691010252,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1303358,
       "num": 1303358,
       "word": "优衣库是否推动身材焦虑",
       "onboard_time": 1690950162,
       "rank": 24,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1302793,
+      "num": 484586,
+      "word": "18岁女孩被割400刀法院判轻伤",
+      "onboard_time": 1690988077,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1282965,
@@ -1155,14 +1171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 995704,
-      "num": 995704,
-      "word": "暴雨后北京街头堆积大量受损汽车",
-      "onboard_time": 1691010252,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 986828,
       "num": 502260,
       "word": "门头沟",
@@ -1249,14 +1257,6 @@
       "onboard_time": 1690773510,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 958362,
-      "num": 484586,
-      "word": "18岁女孩被割400刀法院判轻伤",
-      "onboard_time": 1690988077,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 955116,
@@ -2675,6 +2675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566700,
+      "num": 566700,
+      "word": "第一次去非洲的中国女婿上门礼是头羊",
+      "onboard_time": 1690988258,
+      "rank": 28,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 565191,
       "num": 338313,
       "word": "张晚意邓为檀健次涨粉量",
@@ -2689,14 +2697,6 @@
       "onboard_time": 1690771650,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 558904,
-      "num": 558904,
-      "word": "第一次去非洲的中国女婿上门礼是头羊",
-      "onboard_time": 1690988258,
-      "rank": 28,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 558754,
@@ -3515,6 +3515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433548,
+      "num": 208047,
+      "word": "女子脚底扎入2cm铁丝在医院爬着走",
+      "onboard_time": 1691017341,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430870,
       "num": 430870,
       "word": "王鹤棣西安",
@@ -3545,6 +3553,14 @@
       "onboard_time": 1690867535,
       "rank": 41,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 428363,
+      "num": 428363,
+      "word": "西游记里的妖怪都在长春",
+      "onboard_time": 1691017281,
+      "rank": 8,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 427877,
@@ -4515,6 +4531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323731,
+      "num": 323731,
+      "word": "你的iPhone一天要充几次电",
+      "onboard_time": 1691002153,
+      "rank": 15,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 323347,
       "num": 323347,
       "word": "鼻尖吻是迪丽热巴龚俊现场琢磨的",
@@ -4859,6 +4883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292452,
+      "num": 292452,
+      "word": "小镇饭店可免费吃饭一年仅一人点单",
+      "onboard_time": 1691004552,
+      "rank": 28,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 292416,
       "num": 292416,
       "word": "毛不易玱玹主题曲有你无你",
@@ -4905,14 +4937,6 @@
       "onboard_time": 1690886015,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 289029,
-      "num": 289029,
-      "word": "西游记里的妖怪都在长春",
-      "onboard_time": 1691017281,
-      "rank": 8,
-      "category": "幽默,网红"
     },
     {
       "raw_hot": 289016,
@@ -5283,14 +5307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262312,
-      "num": 262312,
-      "word": "你的iPhone一天要充几次电",
-      "onboard_time": 1691002153,
-      "rank": 15,
-      "category": "科技,幽默"
-    },
-    {
       "raw_hot": 262225,
       "num": 262225,
       "word": "DYG自己走进框",
@@ -5523,6 +5539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247030,
+      "num": 247030,
+      "word": "汉文帝霸陵殉葬坑发现神奇动物貘",
+      "onboard_time": 1691017281,
+      "rank": 33,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 246798,
       "num": 246798,
       "word": "RedVelvet将发新歌",
@@ -5577,14 +5601,6 @@
       "onboard_time": 1690976556,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 244409,
-      "num": 244409,
-      "word": "小镇饭店可免费吃饭一年仅一人点单",
-      "onboard_time": 1691004552,
-      "rank": 28,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 243745,
@@ -5793,14 +5809,6 @@
       "onboard_time": 1690896518,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 229459,
-      "num": 102931,
-      "word": "女子脚底扎入2cm铁丝在医院爬着走",
-      "onboard_time": 1691017341,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229380,
@@ -6153,6 +6161,14 @@
       "onboard_time": 1690960055,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205916,
+      "num": 205916,
+      "word": "邓为女友视角视频",
+      "onboard_time": 1691017281,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205656,
@@ -6555,6 +6571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184649,
+      "num": 184649,
+      "word": "刘浩存于适早期合影",
+      "onboard_time": 1691018544,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184558,
       "num": 175489,
       "word": "芭比角色十二星座",
@@ -6667,6 +6691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176516,
+      "num": 142405,
+      "word": "人脸识别时一定要穿上衣服",
+      "onboard_time": 1691019026,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 176051,
       "num": 206648,
       "word": "国外版男生女生向前冲",
@@ -6745,14 +6777,6 @@
       "onboard_time": 1690857275,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 164842,
-      "num": 164842,
-      "word": "邓为女友视角视频",
-      "onboard_time": 1691017281,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 164203,
@@ -6899,6 +6923,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150620,
+      "num": 150620,
+      "word": "800多年卢沟桥暴雨后安然无恙",
+      "onboard_time": 1691017221,
+      "rank": 26,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 148999,
+      "num": 148999,
+      "word": "never又能见王一博了",
+      "onboard_time": 1691018725,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147846,
       "num": 172930,
       "word": "保定暴雨",
@@ -6993,6 +7033,14 @@
       "onboard_time": 1690859319,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132013,
+      "num": 132013,
+      "word": "福建人的童年噩梦",
+      "onboard_time": 1691017281,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 129970,
@@ -7195,6 +7243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99965,
+      "num": 99965,
+      "word": "小夭终于在大荒落户了",
+      "onboard_time": 1690997180,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 99467,
       "num": 1534548,
       "word": "成都大运会精彩瞬间",
@@ -7227,28 +7283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97528,
-      "num": 97528,
-      "word": "福建人的童年噩梦",
-      "onboard_time": 1691017281,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 97268,
       "num": 97268,
       "word": "吴昕蓝色挂脖裙",
       "onboard_time": 1690759767,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96556,
-      "num": 96556,
-      "word": "汉文帝霸陵殉葬坑发现神奇动物貘",
-      "onboard_time": 1691017281,
-      "rank": 33,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 93474,
@@ -7289,14 +7329,6 @@
       "onboard_time": 1690945232,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85091,
-      "num": 85091,
-      "word": "小夭终于在大荒落户了",
-      "onboard_time": 1690997180,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 84749,
