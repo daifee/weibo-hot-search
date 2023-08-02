@@ -1,0 +1,410 @@
+{
+  "runTime": 1690943866058,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2405144,
+        "num": 2405144,
+        "word": "奚安娜",
+        "onboard_time": 1690938274,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1806862,
+        "num": 1806862,
+        "word": "猎罪图鉴2 加女主",
+        "onboard_time": 1690933890,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31606,
+        "num": 1567844,
+        "word": "暴雨天气10个安全指南",
+        "onboard_time": 1690895137,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1513953,
+        "num": 1513953,
+        "word": "芭比被日本大规模抵制",
+        "onboard_time": 1690932203,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1507575,
+        "num": 1507575,
+        "word": "微信小绿书",
+        "onboard_time": 1690933529,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1407249,
+        "num": 1407249,
+        "word": "婴儿整天躺着不会无聊吗",
+        "onboard_time": 1690942472,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1348863,
+        "num": 1348863,
+        "word": "被不卫生的水泡过的饮料不要喝",
+        "onboard_time": 1690938091,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1073866,
+        "num": 1073866,
+        "word": "26度高温导致加拿大一家人中暑",
+        "onboard_time": 1690939832,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920785,
+        "num": 920785,
+        "word": "TFBOYS演唱会外围疑围钢板安刺尖",
+        "onboard_time": 1690938335,
+        "rank": 8,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 905788,
+        "num": 905788,
+        "word": "张予曦翟潇闻 难哄",
+        "onboard_time": 1690943311,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 767602,
+        "num": 767602,
+        "word": "微信回应看朋友圈会自动点赞",
+        "onboard_time": 1690937314,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 687877,
+        "num": 687877,
+        "word": "千万不要犯罪因为浏览记录会让人社死",
+        "onboard_time": 1690933470,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591617,
+        "num": 591617,
+        "word": "被困2天2夜K396首批乘客抵达丰台站",
+        "onboard_time": 1690940014,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496668,
+        "num": 496668,
+        "word": "相柳一直在等小夭回家",
+        "onboard_time": 1690940014,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188051,
+        "num": 464916,
+        "word": "和中国女足站在一起",
+        "onboard_time": 1690941629,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452447,
+        "num": 452447,
+        "word": "霉霉给工作人员发放超5500万美元奖金",
+        "onboard_time": 1690943493,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400999,
+        "num": 400999,
+        "word": "夭玹",
+        "onboard_time": 1690939534,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381126,
+        "num": 381126,
+        "word": "成毅肖顺尧新浪扫楼",
+        "onboard_time": 1690942710,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377753,
+        "num": 377753,
+        "word": "奥本海默",
+        "onboard_time": 1690939652,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357973,
+        "num": 357973,
+        "word": "涿州目前全域停水部分停电",
+        "onboard_time": 1690905275,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578202,
+        "num": 357972,
+        "word": "网传广州12岁女孩被数人起哄猥亵",
+        "onboard_time": 1690931301,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449900,
+        "num": 355559,
+        "word": "杨幂每年都有新梗火了",
+        "onboard_time": 1690940793,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384472,
+        "num": 354854,
+        "word": "买件衣服到底是被谁PUA了",
+        "onboard_time": 1690941093,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352650,
+        "num": 352650,
+        "word": "涿州汛情受灾人数超13万人",
+        "onboard_time": 1690938935,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311370,
+        "num": 311370,
+        "word": "韩国室温超导团队称论文存在缺陷",
+        "onboard_time": 1690935933,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 306904,
+        "num": 306904,
+        "word": "小米捐赠2500万驰援北京河北暴雨救灾",
+        "onboard_time": 1690936234,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 292320,
+        "num": 292320,
+        "word": "卡努向浙江至福建沿海靠近",
+        "onboard_time": 1690935816,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270423,
+        "num": 270423,
+        "word": "超导",
+        "onboard_time": 1690936897,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 268593,
+        "num": 268593,
+        "word": "谭爷爷的手机屏保是花花",
+        "onboard_time": 1690932867,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265428,
+        "num": 265428,
+        "word": "陀枪师姐导演邝业生去世",
+        "onboard_time": 1690938157,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 262722,
+        "num": 262722,
+        "word": "iPhone14被用户吐槽电池老化",
+        "onboard_time": 1690943493,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 259605,
+        "num": 259605,
+        "word": "封神票房",
+        "onboard_time": 1690932324,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248296,
+        "num": 248296,
+        "word": "河北涿州救援",
+        "onboard_time": 1690934131,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230318,
+        "num": 230318,
+        "word": "长安三万里都火到了什么圈",
+        "onboard_time": 1690940975,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221075,
+        "num": 221075,
+        "word": "可以喝的西瓜",
+        "onboard_time": 1690936777,
+        "rank": 34,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 212208,
+        "num": 212208,
+        "word": "开播情景喜剧2全员开剥式官宣",
+        "onboard_time": 1690943735,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207708,
+        "num": 207708,
+        "word": "刘耀文严浩翔贺峻霖银发",
+        "onboard_time": 1690943433,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204963,
+        "num": 204963,
+        "word": "檀健次天选相柳",
+        "onboard_time": 1690909044,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203113,
+        "num": 203113,
+        "word": "台风卡努抵近日本冲绳",
+        "onboard_time": 1690908269,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202580,
+        "num": 202580,
+        "word": "王鹤棣综艺路透",
+        "onboard_time": 1690935155,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202323,
+        "num": 202323,
+        "word": "山东人做面食是有点厉害",
+        "onboard_time": 1690942952,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200685,
+        "num": 200685,
+        "word": "海月浮梦罗烟",
+        "onboard_time": 1690942772,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199085,
+        "num": 199085,
+        "word": "周雨彤镜头下的七斋",
+        "onboard_time": 1690943553,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198805,
+        "num": 198805,
+        "word": "救援队称涿州救援难度高于北京房山",
+        "onboard_time": 1690942172,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198675,
+        "num": 198675,
+        "word": "救援队员在冰冷的水中吃东西充饥",
+        "onboard_time": 1690942530,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189529,
+        "num": 189529,
+        "word": "台风卡努",
+        "onboard_time": 1690931783,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194535,
+        "num": 189428,
+        "word": "华北暴雨疯狂倾倒70多小时",
+        "onboard_time": 1690933227,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188646,
+        "num": 188646,
+        "word": "4000元古驰T恤洗一次褪色",
+        "onboard_time": 1690935095,
+        "rank": 47,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 189149,
+        "num": 187194,
+        "word": "涿州",
+        "onboard_time": 1690900719,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184936,
+        "num": 184936,
+        "word": "涿州居民被困2月大孩子急需奶粉",
+        "onboard_time": 1690931725,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛救灾工作作出重要指示#"
+    }
+  }
+}

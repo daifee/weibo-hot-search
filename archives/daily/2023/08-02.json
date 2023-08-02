@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690943257408,
+  "endTime": 1690943866058,
   "band_list": [
     {
       "raw_hot": 2725329,
@@ -41,6 +41,14 @@
       "onboard_time": 1690933470,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1407249,
+      "num": 1407249,
+      "word": "婴儿整天躺着不会无聊吗",
+      "onboard_time": 1690942472,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1405033,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 905788,
+      "num": 905788,
+      "word": "张予曦翟潇闻 难哄",
+      "onboard_time": 1690943311,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 875720,
       "num": 875720,
       "word": "微信回应看朋友圈会自动点赞",
@@ -155,14 +171,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 701457,
-      "num": 701457,
-      "word": "婴儿整天躺着不会无聊吗",
-      "onboard_time": 1690942472,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 665883,
       "num": 665883,
       "word": "韩国室温超导团队称论文存在缺陷",
@@ -193,6 +201,14 @@
       "onboard_time": 1690895317,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 591617,
+      "num": 591617,
+      "word": "被困2天2夜K396首批乘客抵达丰台站",
+      "onboard_time": 1690940014,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557889,
@@ -235,28 +251,20 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 488890,
-      "num": 488890,
-      "word": "女孩天生神力靠听就能鉴别谎言",
-      "onboard_time": 1690904316,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 474249,
-      "num": 474249,
+      "raw_hot": 496668,
+      "num": 496668,
       "word": "相柳一直在等小夭回家",
       "onboard_time": 1690940014,
       "rank": 37,
       "category": "影视"
     },
     {
-      "raw_hot": 463261,
-      "num": 463261,
-      "word": "被困2天2夜K396首批乘客抵达丰台站",
-      "onboard_time": 1690940014,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 488890,
+      "num": 488890,
+      "word": "女孩天生神力靠听就能鉴别谎言",
+      "onboard_time": 1690904316,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 462578,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 457468,
-      "num": 329454,
+      "num": 355559,
       "word": "杨幂每年都有新梗火了",
       "onboard_time": 1690940793,
       "rank": 21,
@@ -297,6 +305,14 @@
       "onboard_time": 1690900059,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 452447,
+      "num": 452447,
+      "word": "霉霉给工作人员发放超5500万美元奖金",
+      "onboard_time": 1690943493,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 452128,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 392406,
-      "num": 329405,
+      "num": 354854,
       "word": "买件衣服到底是被谁PUA了",
       "onboard_time": 1690941093,
       "rank": 22,
@@ -419,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 381126,
+      "num": 381126,
+      "word": "成毅肖顺尧新浪扫楼",
+      "onboard_time": 1690942710,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359589,
       "num": 359589,
       "word": "和TFBOYS共赴十年约定",
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352650,
+      "num": 352650,
+      "word": "涿州汛情受灾人数超13万人",
+      "onboard_time": 1690938935,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347467,
       "num": 347467,
       "word": "起猛了没想到相差46岁的友谊这么治愈",
@@ -448,14 +480,6 @@
       "word": "涿州",
       "onboard_time": 1690900719,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327135,
-      "num": 327135,
-      "word": "涿州汛情受灾人数超13万人",
-      "onboard_time": 1690938935,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -579,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262722,
+      "num": 262722,
+      "word": "iPhone14被用户吐槽电池老化",
+      "onboard_time": 1690943493,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 261040,
       "num": 224590,
       "word": "檀健次天选相柳",
@@ -683,20 +715,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215279,
-      "num": 215279,
-      "word": "成毅肖顺尧新浪扫楼",
-      "onboard_time": 1690942710,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214182,
       "num": 214182,
       "word": "救援队员在冰冷的水中吃东西充饥",
       "onboard_time": 1690942530,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212208,
+      "num": 212208,
+      "word": "开播情景喜剧2全员开剥式官宣",
+      "onboard_time": 1690943735,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 210247,
@@ -731,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207708,
+      "num": 207708,
+      "word": "刘耀文严浩翔贺峻霖银发",
+      "onboard_time": 1690943433,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206862,
       "num": 206862,
       "word": "待产孕妇在声声鼓励中登上冲锋舟",
@@ -763,6 +803,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199085,
+      "num": 199085,
+      "word": "周雨彤镜头下的七斋",
+      "onboard_time": 1690943553,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198805,
+      "num": 198805,
+      "word": "救援队称涿州救援难度高于北京房山",
+      "onboard_time": 1690942172,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198116,
       "num": 198116,
       "word": "小蜗是你吗",
@@ -777,14 +833,6 @@
       "onboard_time": 1690894477,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191274,
-      "num": 191274,
-      "word": "救援队称涿州救援难度高于北京房山",
-      "onboard_time": 1690942172,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190793,
@@ -809,6 +857,14 @@
       "onboard_time": 1690937018,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 188051,
+      "num": 464916,
+      "word": "和中国女足站在一起",
+      "onboard_time": 1690941629,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 177508,
@@ -865,14 +921,6 @@
       "onboard_time": 1690892856,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136429,
-      "num": 414924,
-      "word": "和中国女足站在一起",
-      "onboard_time": 1690941629,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 135200,
