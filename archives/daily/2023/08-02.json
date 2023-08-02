@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690946199951,
+  "endTime": 1690947232415,
   "band_list": [
     {
       "raw_hot": 2780227,
@@ -16,6 +16,14 @@
       "word": "猎罪图鉴2 加女主",
       "onboard_time": 1690933890,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2517740,
+      "num": 2517740,
+      "word": "猎罪图鉴编剧 理念不合",
+      "onboard_time": 1690944994,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -51,12 +59,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1955866,
-      "num": 1955866,
-      "word": "猎罪图鉴编剧 理念不合",
-      "onboard_time": 1690944994,
-      "rank": 3,
-      "category": "影视"
+      "raw_hot": 1771484,
+      "num": 1771484,
+      "word": "iPhone14被用户吐槽电池老化",
+      "onboard_time": 1690943493,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 1597827,
@@ -75,12 +83,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1383504,
-      "num": 1383504,
-      "word": "iPhone14被用户吐槽电池老化",
-      "onboard_time": 1690943493,
-      "rank": 30,
-      "category": "科技"
+      "raw_hot": 1262480,
+      "num": 1262480,
+      "word": "杨紫迪丽热巴今日开屏",
+      "onboard_time": 1690944033,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1258796,
@@ -91,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1161594,
+      "num": 689030,
+      "word": "林萧你",
+      "onboard_time": 1690945893,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1093891,
       "num": 1093891,
       "word": "26度高温导致加拿大一家人中暑",
       "onboard_time": 1690939832,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1087231,
-      "num": 772922,
-      "word": "杨紫迪丽热巴今日开屏",
-      "onboard_time": 1690944033,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1058749,
@@ -123,7 +131,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 972760,
+      "raw_hot": 982449,
       "num": 772196,
       "word": "霉霉给工作人员发放超5500万美元奖金",
       "onboard_time": 1690943493,
@@ -264,6 +272,14 @@
       "word": "卡努向浙江至福建沿海靠近",
       "onboard_time": 1690935816,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554449,
+      "num": 401853,
+      "word": "陕西一男子涉嫌半小时内连杀岳母妻子",
+      "onboard_time": 1690946259,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392274,
+      "num": 392274,
+      "word": "王栎鑫上海演唱会官宣",
+      "onboard_time": 1690945294,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 391008,
       "num": 391008,
       "word": "10岁女童来京探亲被水冲走",
@@ -467,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385735,
+      "num": 385735,
+      "word": "雷佳音张国立于和伟高端局过招",
+      "onboard_time": 1690946733,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385505,
       "num": 333466,
       "word": "前几天才知道楼下那只橘猫死了",
       "onboard_time": 1690895137,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 362833,
+      "num": 362833,
+      "word": "中图网被困员工已被全部救出",
+      "onboard_time": 1690946672,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359589,
@@ -499,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352302,
-      "num": 352302,
-      "word": "林萧你",
-      "onboard_time": 1690945893,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 347467,
       "num": 347467,
       "word": "起猛了没想到相差46岁的友谊这么治愈",
@@ -523,16 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339738,
-      "num": 339738,
-      "word": "王栎鑫上海演唱会官宣",
-      "onboard_time": 1690945294,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 325753,
-      "num": 242576,
+      "num": 250194,
       "word": "台风卡努",
       "onboard_time": 1690931783,
       "rank": 22,
@@ -569,6 +593,14 @@
       "onboard_time": 1690928717,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315010,
+      "num": 315010,
+      "word": "宋祖儿为灾区捐物资",
+      "onboard_time": 1690946555,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 307790,
@@ -609,6 +641,14 @@
       "onboard_time": 1690938034,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 284960,
+      "num": 284960,
+      "word": "毛不易玱玹主题曲有你无你",
+      "onboard_time": 1690945893,
+      "rank": 40,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 282982,
@@ -827,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208329,
+      "num": 208329,
+      "word": "成毅听到加更的反应",
+      "onboard_time": 1690947156,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206862,
       "num": 206862,
       "word": "待产孕妇在声声鼓励中登上冲锋舟",
@@ -883,12 +931,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195690,
-      "num": 195690,
-      "word": "毛不易玱玹主题曲有你无你",
-      "onboard_time": 1690945893,
-      "rank": 40,
-      "category": "影视,音乐"
+      "raw_hot": 195915,
+      "num": 195915,
+      "word": "鸿蒙或将具备AI大模型能力",
+      "onboard_time": 1690945833,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 195908,
+      "num": 195908,
+      "word": "给给献给每位热烈追梦的普通人",
+      "onboard_time": 1690947156,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 190793,
@@ -945,14 +1001,6 @@
       "onboard_time": 1690894417,
       "rank": 41,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 166580,
-      "num": 166580,
-      "word": "鸿蒙或将具备AI大模型能力",
-      "onboard_time": 1690945833,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 160768,
@@ -1091,7 +1139,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58934,
+      "raw_hot": 89361,
+      "num": 2030874,
+      "word": "当记者采访到社牛外国运动员",
+      "onboard_time": 1690946614,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87080,
       "num": 722545,
       "word": "数千万人获得信用卡加倍积分",
       "onboard_time": 1690945232,
