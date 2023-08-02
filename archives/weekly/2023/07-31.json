@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690960549746,
+  "endTime": 1690961634912,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -1403,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 798383,
+      "num": 798383,
+      "word": "娜然 袁泉的哈基米",
+      "onboard_time": 1690959393,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 796207,
       "num": 796207,
       "word": "叶十七的七是娇妻的妻",
@@ -1659,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722139,
+      "num": 722139,
+      "word": "魏大勋范丞丞西装手势舞",
+      "onboard_time": 1690959212,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 720469,
       "num": 720469,
       "word": "汉文帝霸陵殉葬坑发现大熊猫骨骼",
@@ -1699,6 +1715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 712703,
+      "num": 712703,
+      "word": "官方回应佳木斯建方舱医院",
+      "onboard_time": 1690956274,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711009,
       "num": 711009,
       "word": "热烈票房逆跌",
@@ -1720,22 +1744,6 @@
       "word": "NCTDREAM将举办上海签售会",
       "onboard_time": 1690880192,
       "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 706087,
-      "num": 574334,
-      "word": "娜然 袁泉的哈基米",
-      "onboard_time": 1690959393,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 702463,
-      "num": 574195,
-      "word": "魏大勋范丞丞西装手势舞",
-      "onboard_time": 1690959212,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1776,6 +1784,14 @@
       "word": "谁教张晚意这么比心的",
       "onboard_time": 1690953937,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 678669,
+      "num": 588700,
+      "word": "杨紫的选择照顾了张晚意檀健次两个人",
+      "onboard_time": 1690958493,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -1857,14 +1873,6 @@
       "onboard_time": 1690788934,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 656356,
-      "num": 573579,
-      "word": "杨紫的选择照顾了张晚意檀健次两个人",
-      "onboard_time": 1690958493,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 656061,
@@ -2187,14 +2195,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 577450,
-      "num": 577450,
-      "word": "官方回应佳木斯建方舱医院",
-      "onboard_time": 1690956274,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 575032,
       "num": 575032,
       "word": "李玟追悼会今日举行",
@@ -2241,6 +2241,14 @@
       "onboard_time": 1690948117,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 570350,
+      "num": 484493,
+      "word": "许凯吓得把杨幂扔了",
+      "onboard_time": 1690959873,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 565191,
@@ -2435,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524016,
+      "num": 524016,
+      "word": "到手的驾照还没捂热就废了",
+      "onboard_time": 1690954718,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523476,
       "num": 523476,
       "word": "钎九",
@@ -2491,6 +2507,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 503460,
+      "num": 364850,
+      "word": "赵丽颖白裙好温柔",
+      "onboard_time": 1690959574,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502991,
       "num": 496140,
       "word": "狐狸精为这个家付出了太多",
@@ -2521,14 +2545,6 @@
       "onboard_time": 1690847251,
       "rank": 23,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 497570,
-      "num": 497570,
-      "word": "到手的驾照还没捂热就废了",
-      "onboard_time": 1690954718,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496668,
@@ -2681,14 +2697,6 @@
       "onboard_time": 1690948299,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 466762,
-      "num": 364850,
-      "word": "赵丽颖白裙好温柔",
-      "onboard_time": 1690959574,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 466165,
@@ -3011,14 +3019,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 418333,
-      "num": 361619,
-      "word": "许凯吓得把杨幂扔了",
-      "onboard_time": 1690959873,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 414729,
       "num": 384291,
       "word": "谭爷爷的手机屏保是花花",
@@ -3129,6 +3129,14 @@
       "onboard_time": 1690781313,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 401249,
+      "num": 294411,
+      "word": "李飞开直播吧",
+      "onboard_time": 1690960532,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 401247,
@@ -3268,7 +3276,7 @@
     },
     {
       "raw_hot": 387547,
-      "num": 387547,
+      "num": 484695,
       "word": "丫丫吃播经典瞬间",
       "onboard_time": 1690958432,
       "rank": 18,
@@ -4212,7 +4220,7 @@
     },
     {
       "raw_hot": 276414,
-      "num": 282993,
+      "num": 284737,
       "word": "涿州多名受困婴儿被救出",
       "onboard_time": 1690949857,
       "rank": 49,
@@ -4320,6 +4328,14 @@
       "word": "永定河",
       "onboard_time": 1690791093,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268871,
+      "num": 268871,
+      "word": "房山蓝天救援女队员在抢险救灾中牺牲",
+      "onboard_time": 1690958432,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -4635,6 +4651,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 243745,
+      "num": 196385,
+      "word": "伍佰苏州",
+      "onboard_time": 1690959513,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 243668,
       "num": 243668,
       "word": "冒泡赛",
@@ -4689,14 +4713,6 @@
       "onboard_time": 1690894657,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237482,
-      "num": 237482,
-      "word": "房山蓝天救援女队员在抢险救灾中牺牲",
-      "onboard_time": 1690958432,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237175,
@@ -5075,12 +5091,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 206608,
-      "num": 202290,
-      "word": "李飞开直播吧",
-      "onboard_time": 1690960532,
-      "rank": 44,
-      "category": "网红"
+      "raw_hot": 206757,
+      "num": 206757,
+      "word": "这结局太虐了",
+      "onboard_time": 1690960055,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 205021,
@@ -5443,6 +5459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 183384,
+      "num": 183384,
+      "word": "属于那代人的童年结束了",
+      "onboard_time": 1690961373,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181921,
       "num": 181921,
       "word": "孙杨的世界纪录还在",
@@ -5465,6 +5489,14 @@
       "onboard_time": 1690806453,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180369,
+      "num": 180369,
+      "word": "小金毛居然是臭的",
+      "onboard_time": 1690961494,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 179968,
@@ -5689,14 +5721,6 @@
       "onboard_time": 1690767753,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147026,
-      "num": 187301,
-      "word": "这结局太虐了",
-      "onboard_time": 1690960055,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 143972,
