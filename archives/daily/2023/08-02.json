@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690980613161,
+  "endTime": 1690982412698,
   "band_list": [
     {
       "raw_hot": 2870626,
@@ -171,12 +171,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1449369,
+      "num": 1449369,
+      "word": "猎罪图鉴编剧回应加女主",
+      "onboard_time": 1690980034,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1405033,
       "num": 1405033,
       "word": "被不卫生的水泡过的饮料不要喝",
       "onboard_time": 1690938091,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1324843,
+      "num": 1324843,
+      "word": "女子翻结婚照发现老公弟弟十指相扣",
+      "onboard_time": 1690977336,
+      "rank": 10,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1303358,
@@ -217,14 +233,6 @@
       "onboard_time": 1690963955,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1131496,
-      "num": 485347,
-      "word": "女子翻结婚照发现老公弟弟十指相扣",
-      "onboard_time": 1690977336,
-      "rank": 10,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1114869,
@@ -345,6 +353,14 @@
       "onboard_time": 1690903537,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 924313,
+      "num": 924313,
+      "word": "小夭涂山璟一吻定情",
+      "onboard_time": 1690980634,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 921828,
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 756749,
-      "num": 431157,
+      "num": 657311,
       "word": "龚俊看完queencard吓出一身冷汗",
       "onboard_time": 1690979015,
       "rank": 30,
@@ -569,6 +585,14 @@
       "onboard_time": 1690947274,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 738425,
+      "num": 738425,
+      "word": "j人和P人手机桌面的区别",
+      "onboard_time": 1690979857,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 735352,
@@ -699,14 +723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 647961,
-      "num": 427618,
-      "word": "猎罪图鉴编剧回应加女主",
-      "onboard_time": 1690980034,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 620012,
       "num": 385095,
       "word": "檀健次说分so就分so",
@@ -795,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567992,
+      "num": 567992,
+      "word": "海潮被抓",
+      "onboard_time": 1690979556,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 557889,
       "num": 557889,
       "word": "卡努向浙江至福建沿海靠近",
@@ -843,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 538948,
+      "num": 643853,
+      "word": "杭州动物园的马来熊在国外火了",
+      "onboard_time": 1690979074,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538932,
       "num": 538932,
       "word": "女子借到母亲照片那一刻泪崩了",
@@ -879,6 +911,14 @@
       "num": 471203,
       "word": "猎罪图鉴",
       "onboard_time": 1690978540,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 522093,
+      "num": 522093,
+      "word": "小夭阿念真打起来了",
+      "onboard_time": 1690981536,
       "rank": 13,
       "category": "影视"
     },
@@ -1003,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454265,
+      "num": 632975,
+      "word": "马保国制服醉汉",
+      "onboard_time": 1690974757,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452128,
       "num": 452128,
       "word": "奥本海默",
@@ -1033,14 +1081,6 @@
       "onboard_time": 1690935336,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 446168,
-      "num": 416374,
-      "word": "海潮被抓",
-      "onboard_time": 1690979556,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 443595,
@@ -1131,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411539,
+      "num": 298010,
+      "word": "长相思一家五口",
+      "onboard_time": 1690981715,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411387,
       "num": 411387,
       "word": "曾舜晞没来又好像来了",
@@ -1171,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403402,
+      "num": 463443,
+      "word": "洪水中4个月大婴儿被直升机吊起",
+      "onboard_time": 1690979137,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401249,
       "num": 326615,
       "word": "李飞开直播吧",
@@ -1185,14 +1241,6 @@
       "onboard_time": 1690949017,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 395831,
-      "num": 395831,
-      "word": "洪水中4个月大婴儿被直升机吊起",
-      "onboard_time": 1690979137,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394995,
@@ -1273,14 +1321,6 @@
       "onboard_time": 1690895137,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 383184,
-      "num": 383184,
-      "word": "杭州动物园的马来熊在国外火了",
-      "onboard_time": 1690979074,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 380134,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1690977157,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 326944,
+      "num": 326944,
+      "word": "今晚的月亮好圆",
+      "onboard_time": 1690980757,
+      "rank": 19,
+      "category": "自然"
     },
     {
       "raw_hot": 325753,
@@ -1667,14 +1715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261999,
-      "num": 261999,
-      "word": "j人和P人手机桌面的区别",
-      "onboard_time": 1690979857,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 261732,
       "num": 261732,
       "word": "北京牺牲消防员冯振追记一等功",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1690909044,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260540,
+      "num": 260540,
+      "word": "优酷TFBOYS演唱会线上有效期延长至一年",
+      "onboard_time": 1690982258,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 259827,
@@ -1747,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246337,
+      "num": 246337,
+      "word": "山东籍消防员冯振为救战友不幸牺牲",
+      "onboard_time": 1690979676,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246194,
       "num": 246194,
       "word": "重庆狼队首封",
@@ -1795,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241229,
+      "num": 241229,
+      "word": "胡锡进 防洪功夫需平日里做足",
+      "onboard_time": 1690980159,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240458,
       "num": 240458,
       "word": "心动的信号",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1690934793,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237566,
+      "num": 237566,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1690980159,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 236992,
@@ -1912,14 +1984,6 @@
       "word": "救援队员在冰冷的水中吃东西充饥",
       "onboard_time": 1690942530,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212388,
-      "num": 212388,
-      "word": "山东籍消防员冯振为救战友不幸牺牲",
-      "onboard_time": 1690979676,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2035,14 +2099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201887,
-      "num": 201887,
-      "word": "密室大逃脱大神版",
-      "onboard_time": 1690980159,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201526,
       "num": 201526,
       "word": "ON泪洒赛场",
@@ -2073,6 +2129,14 @@
       "onboard_time": 1690974757,
       "rank": 43,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 198366,
+      "num": 210033,
+      "word": "你们烘焙界在搞科研吗",
+      "onboard_time": 1690981957,
+      "rank": 43,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 198116,
@@ -2129,14 +2193,6 @@
       "onboard_time": 1690957592,
       "rank": 46,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 191544,
-      "num": 201887,
-      "word": "胡锡进 防洪功夫需平日里做足",
-      "onboard_time": 1690980159,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190793,
