@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1690997646269,
+  "endTime": 1691000422962,
   "band_list": [
     {
       "raw_hot": 1360342,
@@ -169,6 +169,14 @@
       "onboard_time": 1690974694,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305756,
+      "num": 305756,
+      "word": "just听北伯",
+      "onboard_time": 1690997479,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 305146,
@@ -427,20 +435,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 71056,
-      "num": 81001,
-      "word": "just听北伯",
-      "onboard_time": 1690997479,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 66957,
       "num": 96389,
       "word": "心疼又好笑的车祸现场",
       "onboard_time": 1690994248,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40741,
+      "num": 40741,
+      "word": "鞠婧祎舞台彩排图",
+      "onboard_time": 1690989097,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 18653,

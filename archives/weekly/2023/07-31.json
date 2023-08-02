@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690997646269,
+  "endTime": 1691000422962,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -4675,6 +4675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305756,
+      "num": 305756,
+      "word": "just听北伯",
+      "onboard_time": 1690997479,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305146,
       "num": 243321,
       "word": "佟丽娅热巴是娜扎师姐",
@@ -7232,14 +7240,6 @@
       "word": "小夭终于在大荒落户了",
       "onboard_time": 1690997180,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 71056,
-      "num": 81001,
-      "word": "just听北伯",
-      "onboard_time": 1690997479,
-      "rank": 39,
       "category": "影视"
     },
     {
