@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1690954445620,
+  "endTime": 1690957300765,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -131,6 +131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2540288,
+      "num": 2540288,
+      "word": "难哄官博发声明",
+      "onboard_time": 1690953758,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2477783,
       "num": 2477783,
       "word": "奚安娜",
@@ -248,14 +256,6 @@
       "word": "小夭和家人相认哭疯了",
       "onboard_time": 1690801711,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1875879,
-      "num": 1875879,
-      "word": "难哄官博发声明",
-      "onboard_time": 1690953758,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -449,6 +449,14 @@
       "onboard_time": 1690891293,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1580284,
+      "num": 777662,
+      "word": "佳木斯一小区公示盖方舱医院遭居民质疑",
+      "onboard_time": 1690953577,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1578611,
@@ -699,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1276898,
+      "num": 1276898,
+      "word": "实在不行别哄了",
+      "onboard_time": 1690952740,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1272511,
       "num": 1272511,
       "word": "小夭吻得好主动",
@@ -793,14 +809,6 @@
       "onboard_time": 1690894114,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1132435,
-      "num": 1132435,
-      "word": "实在不行别哄了",
-      "onboard_time": 1690952740,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 1125332,
@@ -937,6 +945,14 @@
       "onboard_time": 1690763915,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1037599,
+      "num": 1037599,
+      "word": "长相思官宣加更",
+      "onboard_time": 1690954117,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 1025098,
@@ -1411,14 +1427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 777662,
-      "num": 777662,
-      "word": "佳木斯一小区公示盖方舱医院遭居民质疑",
-      "onboard_time": 1690953577,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 776000,
       "num": 712183,
       "word": "丁程鑫晒和马嘉祺出游vlog",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1690798713,
       "rank": 49,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 761717,
+      "num": 761717,
+      "word": "村民称很多人没把泄洪通知当回事",
+      "onboard_time": 1690952676,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 759519,
@@ -1611,14 +1627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 735690,
-      "num": 306866,
-      "word": "长相思官宣加更",
-      "onboard_time": 1690954117,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 727722,
       "num": 642350,
       "word": "TFBOYS三人都在北京了",
@@ -1711,6 +1719,14 @@
       "num": 689826,
       "word": "成毅肖顺尧新浪扫楼",
       "onboard_time": 1690942710,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 681796,
+      "num": 681796,
+      "word": "谁教张晚意这么比心的",
+      "onboard_time": 1690953937,
       "rank": 32,
       "category": "影视"
     },
@@ -1899,6 +1915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 631409,
+      "num": 279778,
+      "word": "1岁宝宝半夜栽进床边水桶溺亡",
+      "onboard_time": 1690956515,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630125,
       "num": 630125,
       "word": "中图网库房被淹近百人被困",
@@ -1952,14 +1976,6 @@
       "word": "洪水中飘来一个大冰箱市民自取清空",
       "onboard_time": 1690769728,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 614225,
-      "num": 614225,
-      "word": "村民称很多人没把泄洪通知当回事",
-      "onboard_time": 1690952676,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2032,6 +2048,14 @@
       "word": "永定河卢沟桥拦河闸将加大泄洪流量",
       "onboard_time": 1690788093,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598244,
+      "num": 297729,
+      "word": "女生称被男孩偷看裙底又被其妈妈掀裙子",
+      "onboard_time": 1690954898,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2121,14 +2145,6 @@
       "onboard_time": 1690768893,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 574819,
-      "num": 306418,
-      "word": "谁教张晚意这么比心的",
-      "onboard_time": 1690953937,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 574583,
@@ -2491,6 +2507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 489851,
+      "num": 293677,
+      "word": "微信被吐槽占用内存太大",
+      "onboard_time": 1690954174,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 488890,
       "num": 488890,
       "word": "女孩天生神力靠听就能鉴别谎言",
@@ -2723,6 +2747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 451414,
+      "num": 289719,
+      "word": "杨紫邓为鸡哔你",
+      "onboard_time": 1690955376,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 450037,
       "num": 450037,
       "word": "林俊杰说感谢李玟成为女战士",
@@ -2795,6 +2827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438217,
+      "num": 438217,
+      "word": "到手的驾照还没捂热就废了",
+      "onboard_time": 1690954718,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437178,
       "num": 437178,
       "word": "吴世勋上身身材",
@@ -2833,6 +2873,14 @@
       "onboard_time": 1690807353,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 429983,
+      "num": 429983,
+      "word": "官方回应佳木斯建方舱医院",
+      "onboard_time": 1690956274,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429706,
@@ -3627,6 +3675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321094,
+      "num": 278016,
+      "word": "电影封神邓婵玉扮演者训练动图",
+      "onboard_time": 1690957056,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318154,
       "num": 318154,
       "word": "小夭的三个男人乐子真多",
@@ -3721,6 +3777,14 @@
       "onboard_time": 1690809814,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309420,
+      "num": 284213,
+      "word": "哈尔滨大雨",
+      "onboard_time": 1690953996,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308895,
@@ -3841,6 +3905,14 @@
       "onboard_time": 1690776759,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 297787,
+      "num": 297787,
+      "word": "涿州一饭店借烛光为200名救援人员做饭",
+      "onboard_time": 1690955916,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296659,
@@ -4052,7 +4124,7 @@
     },
     {
       "raw_hot": 276414,
-      "num": 276414,
+      "num": 282993,
       "word": "涿州多名受困婴儿被救出",
       "onboard_time": 1690949857,
       "rank": 49,
@@ -4427,6 +4499,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 247818,
+      "num": 247818,
+      "word": "EXO团综预告",
+      "onboard_time": 1690956455,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247802,
       "num": 247802,
       "word": "李玟妈妈将缺席告别式",
@@ -4731,14 +4811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219026,
-      "num": 219026,
-      "word": "微信被吐槽占用内存太大",
-      "onboard_time": 1690954174,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 218431,
       "num": 218431,
       "word": "涿州洪水亲历者称泄洪区村子淹成海",
@@ -4841,6 +4913,14 @@
       "onboard_time": 1690788157,
       "rank": 45,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 209270,
+      "num": 209270,
+      "word": "刘亦菲霍建华在人大拍戏",
+      "onboard_time": 1690957114,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209134,
@@ -5033,14 +5113,6 @@
       "onboard_time": 1690943553,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198390,
-      "num": 213411,
-      "word": "哈尔滨大雨",
-      "onboard_time": 1690953996,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198116,
@@ -5993,6 +6065,14 @@
       "onboard_time": 1690619915,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 21261,
+      "num": 250608,
+      "word": "淘宝斗地主大赛热度超过原神",
+      "onboard_time": 1690956033,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 19762,
