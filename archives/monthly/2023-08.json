@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1690949971490,
+  "endTime": 1690950827574,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -243,20 +243,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1449794,
+      "num": 1449794,
+      "word": "林萧你",
+      "onboard_time": 1690945893,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1438562,
       "num": 1438562,
       "word": "杨幂喊迪丽热巴巴",
       "onboard_time": 1690872932,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1408767,
-      "num": 1408767,
-      "word": "林萧你",
-      "onboard_time": 1690945893,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1405033,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 997686,
+      "num": 793810,
+      "word": "封神发声明抵制偷漏瞒报票房行为",
+      "onboard_time": 1690948597,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 982449,
       "num": 772196,
       "word": "霉霉给工作人员发放超5500万美元奖金",
@@ -643,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 854222,
+      "num": 574130,
+      "word": "入职第一天被派去新疆40天",
+      "onboard_time": 1690947874,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844251,
       "num": 771064,
       "word": "张艺谋坚如磐石终于定档",
@@ -675,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 816534,
-      "num": 574130,
-      "word": "入职第一天被派去新疆40天",
-      "onboard_time": 1690947874,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 814224,
       "num": 814224,
       "word": "去年砸1600万开影院的男子怎样了",
@@ -705,6 +713,14 @@
       "onboard_time": 1690895976,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 795703,
+      "num": 795703,
+      "word": "北京本次降雨为140年来最大降雨",
+      "onboard_time": 1690947995,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 793121,
@@ -753,6 +769,14 @@
       "onboard_time": 1690853373,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 758530,
+      "num": 758530,
+      "word": "邓为留过金色长发",
+      "onboard_time": 1690947333,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 757676,
@@ -811,14 +835,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 742790,
-      "num": 742790,
-      "word": "封神发声明抵制偷漏瞒报票房行为",
-      "onboard_time": 1690948597,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 740818,
       "num": 573854,
       "word": "陕西一男子涉嫌半小时内连杀岳母妻子",
@@ -833,14 +849,6 @@
       "onboard_time": 1690947274,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 736667,
-      "num": 587701,
-      "word": "邓为留过金色长发",
-      "onboard_time": 1690947333,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 730669,
@@ -928,6 +936,14 @@
       "word": "颖儿拍20天戏写20天日记",
       "onboard_time": 1690857878,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 669316,
+      "num": 669316,
+      "word": "好久没见都有嘴的男女主了",
+      "onboard_time": 1690949258,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1115,14 +1131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 582772,
-      "num": 582772,
-      "word": "北京本次降雨为140年来最大降雨",
-      "onboard_time": 1690947995,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 578797,
       "num": 578797,
       "word": "长相思",
@@ -1180,7 +1188,7 @@
     },
     {
       "raw_hot": 554927,
-      "num": 412079,
+      "num": 439066,
       "word": "雷佳音张国立于和伟高端局过招",
       "onboard_time": 1690946733,
       "rank": 22,
@@ -1307,14 +1315,6 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 502457,
-      "num": 411545,
-      "word": "好久没见都有嘴的男女主了",
-      "onboard_time": 1690949258,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 500411,
       "num": 488168,
       "word": "邓为上身身材",
@@ -1427,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471175,
+      "num": 471175,
+      "word": "猎罪图鉴里的秦海璐",
+      "onboard_time": 1690948299,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 466042,
       "num": 466042,
       "word": "姬发彪子",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1690856854,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 459285,
-      "num": 410452,
-      "word": "猎罪图鉴里的秦海璐",
-      "onboard_time": 1690948299,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 459018,
@@ -1659,11 +1659,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412774,
+      "num": 483380,
+      "word": "优衣库是否推动身材焦虑",
+      "onboard_time": 1690950162,
+      "rank": 24,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 411597,
       "num": 377157,
       "word": "小夭角色号改名字",
       "onboard_time": 1690873594,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 411387,
+      "num": 411387,
+      "word": "曾舜晞没来又好像来了",
+      "onboard_time": 1690950099,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -1907,12 +1923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355709,
+      "num": 355709,
+      "word": "河北涿州救援",
+      "onboard_time": 1690934131,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353498,
       "num": 353498,
       "word": "外地救援队需要当地开邀请函",
       "onboard_time": 1690939052,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352656,
+      "num": 310355,
+      "word": "成毅听到加更的反应",
+      "onboard_time": 1690947156,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 352650,
@@ -2003,14 +2035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332932,
-      "num": 332932,
-      "word": "河北涿州救援",
-      "onboard_time": 1690934131,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325753,
       "num": 307082,
       "word": "台风卡努",
@@ -2040,14 +2064,6 @@
       "word": "鼻尖吻是迪丽热巴龚俊现场琢磨的",
       "onboard_time": 1690903896,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 322072,
-      "num": 293525,
-      "word": "成毅听到加更的反应",
-      "onboard_time": 1690947156,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -2147,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296659,
+      "num": 296659,
+      "word": "苹果和安卓哪个续航耐用",
+      "onboard_time": 1690947635,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 295167,
       "num": 236109,
       "word": "萧亚轩在李玟追悼会痛哭",
@@ -2169,6 +2193,14 @@
       "onboard_time": 1690808673,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 292416,
+      "num": 292416,
+      "word": "毛不易玱玹主题曲有你无你",
+      "onboard_time": 1690945893,
+      "rank": 40,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 291575,
@@ -2201,14 +2233,6 @@
       "onboard_time": 1690886015,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 289308,
-      "num": 284960,
-      "word": "毛不易玱玹主题曲有你无你",
-      "onboard_time": 1690945893,
-      "rank": 40,
-      "category": "影视,音乐"
     },
     {
       "raw_hot": 289016,
@@ -2305,6 +2329,14 @@
       "onboard_time": 1690866577,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276414,
+      "num": 276414,
+      "word": "涿州多名受困婴儿被救出",
+      "onboard_time": 1690949857,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275977,
@@ -2511,14 +2543,6 @@
       "num": 245339,
       "word": "常温常压超导首被证明理论可行",
       "onboard_time": 1690916234,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 243991,
-      "num": 243991,
-      "word": "苹果和安卓哪个续航耐用",
-      "onboard_time": 1690947635,
       "rank": 45,
       "category": "科技"
     },
@@ -3091,14 +3115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176452,
-      "num": 197969,
-      "word": "涿州多名受困婴儿被救出",
-      "onboard_time": 1690949857,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176018,
       "num": 228850,
       "word": "年轻人不知道的挑肉秘籍",
@@ -3379,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111213,
+      "num": 670400,
+      "word": "王者荣耀天猫",
+      "onboard_time": 1690948836,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107205,
       "num": 121846,
       "word": "北京东西城再发暴雨红色预警",
@@ -3441,14 +3465,6 @@
       "onboard_time": 1690872394,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 78136,
-      "num": 596116,
-      "word": "王者荣耀天猫",
-      "onboard_time": 1690948836,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 60678,

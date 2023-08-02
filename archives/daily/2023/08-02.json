@@ -1,6 +1,6 @@
 {
   "startTime": 1690906852457,
-  "endTime": 1690949971490,
+  "endTime": 1690950827574,
   "band_list": [
     {
       "raw_hot": 2780227,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1408767,
-      "num": 1408767,
+      "raw_hot": 1449794,
+      "num": 1449794,
       "word": "林萧你",
       "onboard_time": 1690945893,
       "rank": 23,
@@ -121,6 +121,14 @@
       "onboard_time": 1690905275,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 997686,
+      "num": 793810,
+      "word": "封神发声明抵制偷漏瞒报票房行为",
+      "onboard_time": 1690948597,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 996505,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854222,
+      "num": 574130,
+      "word": "入职第一天被派去新疆40天",
+      "onboard_time": 1690947874,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844251,
       "num": 771064,
       "word": "张艺谋坚如磐石终于定档",
@@ -195,11 +211,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 816534,
-      "num": 574130,
-      "word": "入职第一天被派去新疆40天",
-      "onboard_time": 1690947874,
-      "rank": 20,
+      "raw_hot": 795703,
+      "num": 795703,
+      "word": "北京本次降雨为140年来最大降雨",
+      "onboard_time": 1690947995,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -219,12 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 742790,
-      "num": 742790,
-      "word": "封神发声明抵制偷漏瞒报票房行为",
-      "onboard_time": 1690948597,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 758530,
+      "num": 758530,
+      "word": "邓为留过金色长发",
+      "onboard_time": 1690947333,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 740818,
@@ -243,14 +259,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 736667,
-      "num": 587701,
-      "word": "邓为留过金色长发",
-      "onboard_time": 1690947333,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 717909,
       "num": 717909,
       "word": "小米捐赠2500万驰援北京河北暴雨救灾",
@@ -264,6 +272,14 @@
       "word": "成毅肖顺尧新浪扫楼",
       "onboard_time": 1690942710,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 669316,
+      "num": 669316,
+      "word": "好久没见都有嘴的男女主了",
+      "onboard_time": 1690949258,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -307,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 582772,
-      "num": 582772,
-      "word": "北京本次降雨为140年来最大降雨",
-      "onboard_time": 1690947995,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 570679,
       "num": 570679,
       "word": "龚俊新浪扫楼",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 554927,
-      "num": 412079,
+      "num": 439066,
       "word": "雷佳音张国立于和伟高端局过招",
       "onboard_time": 1690946733,
       "rank": 22,
@@ -371,14 +379,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 502457,
-      "num": 411545,
-      "word": "好久没见都有嘴的男女主了",
-      "onboard_time": 1690949258,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 496668,
       "num": 496668,
       "word": "相柳一直在等小夭回家",
@@ -392,6 +392,14 @@
       "word": "女孩天生神力靠听就能鉴别谎言",
       "onboard_time": 1690904316,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 471175,
+      "num": 471175,
+      "word": "猎罪图鉴里的秦海璐",
+      "onboard_time": 1690948299,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -409,14 +417,6 @@
       "onboard_time": 1690899877,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459285,
-      "num": 410452,
-      "word": "猎罪图鉴里的秦海璐",
-      "onboard_time": 1690948299,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 459018,
@@ -505,6 +505,22 @@
       "onboard_time": 1690946672,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412774,
+      "num": 483380,
+      "word": "优衣库是否推动身材焦虑",
+      "onboard_time": 1690950162,
+      "rank": 24,
+      "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 411387,
+      "num": 411387,
+      "word": "曾舜晞没来又好像来了",
+      "onboard_time": 1690950099,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 410652,
@@ -611,12 +627,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 355709,
+      "num": 355709,
+      "word": "河北涿州救援",
+      "onboard_time": 1690934131,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353498,
       "num": 353498,
       "word": "外地救援队需要当地开邀请函",
       "onboard_time": 1690939052,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352656,
+      "num": 310355,
+      "word": "成毅听到加更的反应",
+      "onboard_time": 1690947156,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 352650,
@@ -640,14 +672,6 @@
       "word": "涿州",
       "onboard_time": 1690900719,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332932,
-      "num": 332932,
-      "word": "河北涿州救援",
-      "onboard_time": 1690934131,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -675,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322072,
-      "num": 293525,
-      "word": "成毅听到加更的反应",
-      "onboard_time": 1690947156,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 318014,
       "num": 318014,
       "word": "台风卡努路径仍不确定",
@@ -707,6 +723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296659,
+      "num": 296659,
+      "word": "苹果和安卓哪个续航耐用",
+      "onboard_time": 1690947635,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 292416,
+      "num": 292416,
+      "word": "毛不易玱玹主题曲有你无你",
+      "onboard_time": 1690945893,
+      "rank": 40,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 291639,
       "num": 291639,
       "word": "长相思10年前就开始筹备了",
@@ -721,14 +753,6 @@
       "onboard_time": 1690897898,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289308,
-      "num": 284960,
-      "word": "毛不易玱玹主题曲有你无你",
-      "onboard_time": 1690945893,
-      "rank": 40,
-      "category": "影视,音乐"
     },
     {
       "raw_hot": 286571,
@@ -769,6 +793,14 @@
       "onboard_time": 1690895857,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276414,
+      "num": 276414,
+      "word": "涿州多名受困婴儿被救出",
+      "onboard_time": 1690949857,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273562,
@@ -839,14 +871,6 @@
       "num": 245339,
       "word": "常温常压超导首被证明理论可行",
       "onboard_time": 1690916234,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 243991,
-      "num": 243991,
-      "word": "苹果和安卓哪个续航耐用",
-      "onboard_time": 1690947635,
       "rank": 45,
       "category": "科技"
     },
@@ -1099,14 +1123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 176452,
-      "num": 197969,
-      "word": "涿州多名受困婴儿被救出",
-      "onboard_time": 1690949857,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168087,
       "num": 168087,
       "word": "吴世勋上身身材",
@@ -1219,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111213,
+      "num": 670400,
+      "word": "王者荣耀天猫",
+      "onboard_time": 1690948836,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106629,
       "num": 106629,
       "word": "订单超时可能是外卖小哥救人去了",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1690945232,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78136,
-      "num": 596116,
-      "word": "王者荣耀天猫",
-      "onboard_time": 1690948836,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 54951,
