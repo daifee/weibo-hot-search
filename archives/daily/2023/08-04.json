@@ -1,6 +1,6 @@
 {
   "startTime": 1691079780560,
-  "endTime": 1691094850125,
+  "endTime": 1691097253620,
   "band_list": [
     {
       "raw_hot": 1581374,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 58246,
+      "num": 35279,
+      "word": "小伙错过末班车舍不得花十几块元打车",
+      "onboard_time": 1691092632,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56425,
       "num": 476485,
       "word": "暴雨洪涝后饮食安全指南",
@@ -491,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46536,
-      "num": 30682,
-      "word": "小伙错过末班车舍不得花十几块元打车",
-      "onboard_time": 1691092632,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 44626,
+      "num": 44626,
+      "word": "爱吃折耳根和香菜的都沉默了",
+      "onboard_time": 1691086756,
+      "rank": 40,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 44123,
@@ -505,14 +513,6 @@
       "onboard_time": 1691052455,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 38403,
-      "num": 38403,
-      "word": "爱吃折耳根和香菜的都沉默了",
-      "onboard_time": 1691086756,
-      "rank": 40,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 28800,
