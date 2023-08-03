@@ -1,6 +1,6 @@
 {
   "startTime": 1691079780560,
-  "endTime": 1691098424612,
+  "endTime": 1691100931302,
   "band_list": [
     {
       "raw_hot": 1581374,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153313,
+      "num": 153313,
+      "word": "涿州市民避灾遇酒店涨价",
+      "onboard_time": 1691085018,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150415,
       "num": 150415,
       "word": "洪水再急他抱紧孩子的手不会松开",
@@ -379,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113130,
-      "num": 71814,
-      "word": "涿州市民避灾遇酒店涨价",
-      "onboard_time": 1691085018,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113015,
       "num": 141356,
       "word": "于适娜然互相反串妲己姬发",
@@ -451,20 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77826,
+      "num": 77826,
+      "word": "小伙错过末班车舍不得花十几块元打车",
+      "onboard_time": 1691092632,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67713,
+      "num": 67713,
+      "word": "台风",
+      "onboard_time": 1691098633,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66245,
       "num": 84978,
       "word": "易烊千玺王源同一航班飞西安",
       "onboard_time": 1691053476,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 65725,
-      "num": 39807,
-      "word": "小伙错过末班车舍不得花十几块元打车",
-      "onboard_time": 1691092632,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61716,
@@ -515,19 +523,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 39611,
+      "num": 221624,
+      "word": "外国运动员在成都把攻略做到了极致",
+      "onboard_time": 1691070336,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28800,
       "num": 46141,
       "word": "航拍暴雨后的涿州",
       "onboard_time": 1691087595,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26821,
-      "num": 221624,
-      "word": "外国运动员在成都把攻略做到了极致",
-      "onboard_time": 1691070336,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
