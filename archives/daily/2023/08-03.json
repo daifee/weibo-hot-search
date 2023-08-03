@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691073230283,
+  "endTime": 1691075841036,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1393110,
+      "num": 1393110,
+      "word": "蜜雪冰城捐1千万支持抗汛救灾",
+      "onboard_time": 1691074059,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1386225,
       "num": 1001089,
       "word": "专家回应河北天津泄洪是为了保北京",
@@ -267,6 +275,22 @@
       "category": "游戏,音乐"
     },
     {
+      "raw_hot": 1147466,
+      "num": 1147466,
+      "word": "吴京分享月瘦10斤减肥法",
+      "onboard_time": 1691070938,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1115894,
+      "num": 505828,
+      "word": "网友偶遇TFBOYS拍写真",
+      "onboard_time": 1691074602,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1096909,
       "num": 1003044,
       "word": "蒋依依没谈过恋爱",
@@ -296,14 +320,6 @@
       "word": "雪滴花",
       "onboard_time": 1691028699,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1037022,
-      "num": 1037022,
-      "word": "吴京分享月瘦10斤减肥法",
-      "onboard_time": 1691070938,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -361,6 +377,14 @@
       "onboard_time": 1691034819,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 927438,
+      "num": 430335,
+      "word": "妈妈送给王楚然的书",
+      "onboard_time": 1691074359,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 918041,
@@ -635,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 646542,
+      "num": 646542,
+      "word": "腾讯认证长相思是爆剧",
+      "onboard_time": 1691074539,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 642632,
       "num": 339979,
       "word": "李佳琦直播",
@@ -763,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 591351,
+      "num": 591351,
+      "word": "河南大哥涿州街头4小时做13锅烩面",
+      "onboard_time": 1691072501,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 589912,
       "num": 589912,
       "word": "长相思包揽角色吸粉榜前三",
@@ -793,6 +833,14 @@
       "onboard_time": 1691060430,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 587411,
+      "num": 334106,
+      "word": "相柳的头套是在5款白发里选的",
+      "onboard_time": 1691070878,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 583691,
@@ -947,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520947,
+      "num": 330273,
+      "word": "费翔公主抱娜然",
+      "onboard_time": 1691073817,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 519960,
       "num": 519960,
       "word": "护士一把抱起80斤老人飞奔去抢救",
@@ -977,6 +1033,14 @@
       "onboard_time": 1691056176,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497243,
+      "num": 279183,
+      "word": "阴干的衣服为什么那么臭",
+      "onboard_time": 1691074539,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 495870,
@@ -1129,14 +1193,6 @@
       "onboard_time": 1691035360,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 446694,
-      "num": 446694,
-      "word": "河南大哥涿州街头4小时做13锅烩面",
-      "onboard_time": 1691072501,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 445019,
@@ -1441,6 +1497,14 @@
       "onboard_time": 1691039855,
       "rank": 24,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 340418,
+      "num": 340418,
+      "word": "刷屏全网的乘务员接受采访时落泪了",
+      "onboard_time": 1691073460,
+      "rank": 13,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 340157,
@@ -1931,6 +1995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251030,
+      "num": 251030,
+      "word": "男子潜入洪水10次为救援艇开门",
+      "onboard_time": 1691073399,
+      "rank": 33,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 247030,
       "num": 247030,
       "word": "汉文帝霸陵殉葬坑发现神奇动物貘",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1691025516,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 237456,
+      "num": 237456,
+      "word": "姬发的胸肌vs彪子的胸肌",
+      "onboard_time": 1691075140,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 233871,
@@ -2147,6 +2227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219803,
+      "num": 219803,
+      "word": "田柾国直播",
+      "onboard_time": 1691073460,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218549,
       "num": 218549,
       "word": "贵阳人均8块的火锅",
@@ -2257,6 +2345,14 @@
       "onboard_time": 1691032002,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208681,
+      "num": 208681,
+      "word": "第一眼就喜欢的人",
+      "onboard_time": 1691075378,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 208453,
@@ -2475,6 +2571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194794,
+      "num": 194794,
+      "word": "牺牲消防员微信昵称头像太戳了",
+      "onboard_time": 1691075076,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194460,
       "num": 205936,
       "word": "95生格局五六三王",
@@ -2619,12 +2723,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172992,
+      "num": 227697,
+      "word": "普通人的生活是什么",
+      "onboard_time": 1691072319,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172978,
       "num": 211056,
       "word": "论鼻子的修容对颜值的影响",
       "onboard_time": 1691040757,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 171965,
+      "num": 171965,
+      "word": "王一博对黄渤的初印象",
+      "onboard_time": 1691075739,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 168958,
@@ -2689,14 +2809,6 @@
       "onboard_time": 1690993528,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160786,
-      "num": 227697,
-      "word": "普通人的生活是什么",
-      "onboard_time": 1691072319,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 158991,
@@ -2916,7 +3028,7 @@
     },
     {
       "raw_hot": 110012,
-      "num": 1151756,
+      "num": 1213548,
       "word": "暴雨洪涝后饮食安全指南",
       "onboard_time": 1691070455,
       "rank": 2,
