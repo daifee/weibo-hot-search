@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691062430014,
+  "endTime": 1691066052751,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2308007,
+      "num": 2308007,
+      "word": "中图网 25元一斤随便带走",
+      "onboard_time": 1691061392,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2260168,
       "num": 2260168,
       "word": "台风卡努被卡住了",
@@ -41,6 +49,14 @@
       "onboard_time": 1691052455,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2087945,
+      "num": 306449,
+      "word": "离职退群不小心把群解散了",
+      "onboard_time": 1691064993,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1980686,
@@ -139,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1513411,
+      "num": 1513411,
+      "word": "涂山璟退婚",
+      "onboard_time": 1691062054,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1386225,
       "num": 1001089,
       "word": "专家回应河北天津泄洪是为了保北京",
@@ -160,6 +184,14 @@
       "word": "保安让王源出示自己演唱会的工作证",
       "onboard_time": 1690983636,
       "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1352708,
+      "num": 1352708,
+      "word": "林俊杰上海抢票",
+      "onboard_time": 1691059715,
+      "rank": 17,
       "category": "音乐"
     },
     {
@@ -217,6 +249,14 @@
       "onboard_time": 1691038121,
       "rank": 3,
       "category": "游戏,音乐"
+    },
+    {
+      "raw_hot": 1140189,
+      "num": 1140189,
+      "word": "邓为 我在",
+      "onboard_time": 1691064993,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1096909,
@@ -339,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 820835,
+      "num": 380675,
+      "word": "建议女孩子别用铁的鲨鱼夹",
+      "onboard_time": 1691061273,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 799525,
       "num": 799525,
       "word": "一旦开始穿洞洞鞋背帆布包",
@@ -377,14 +425,6 @@
       "onboard_time": 1691046397,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 762108,
-      "num": 380675,
-      "word": "建议女孩子别用铁的鲨鱼夹",
-      "onboard_time": 1691061273,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 750799,
@@ -547,14 +587,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 626347,
-      "num": 289575,
-      "word": "中图网 25元一斤随便带走",
-      "onboard_time": 1691061392,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 621525,
       "num": 621525,
       "word": "堂堂大王姬为什么不能拥有4个男人",
@@ -715,6 +747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 554888,
+      "num": 424243,
+      "word": "王一博让C位好丝滑",
+      "onboard_time": 1691062353,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 553592,
       "num": 553592,
       "word": "吴镇宇急需费曼澄清",
@@ -851,6 +891,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 479273,
+      "num": 374841,
+      "word": "马立奥从不吝啬表达爱",
+      "onboard_time": 1691062296,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470757,
       "num": 470757,
       "word": "涿州书厂老板称未收到泄洪通知",
@@ -929,6 +977,14 @@
       "onboard_time": 1691035360,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 445917,
+      "num": 305101,
+      "word": "李佳琦直播",
+      "onboard_time": 1691065115,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 445019,
@@ -1059,6 +1115,14 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 413778,
+      "num": 413778,
+      "word": "大运会张雨霏100自夺金",
+      "onboard_time": 1691064696,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 413571,
       "num": 413571,
       "word": "东北菜会教训每一个嘴硬的人",
@@ -1083,28 +1147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400096,
-      "num": 400096,
-      "word": "涂山璟退婚",
-      "onboard_time": 1691062054,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 396787,
       "num": 396787,
       "word": "长大后才真正读懂了这句诗",
       "onboard_time": 1691051255,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 388710,
-      "num": 388710,
-      "word": "林俊杰上海抢票",
-      "onboard_time": 1691059715,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 384175,
@@ -1139,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368023,
+      "num": 304255,
+      "word": "赵露思白裙好仙",
+      "onboard_time": 1691062175,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364214,
       "num": 364214,
       "word": "涿州积水区水深近6米",
@@ -1147,12 +1203,28 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 362770,
+      "num": 362770,
+      "word": "90后小伙在涿州支起免费面摊",
+      "onboard_time": 1691064155,
+      "rank": 16,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 362389,
       "num": 326326,
       "word": "涂山璟差点尾生抱柱",
       "onboard_time": 1691048198,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358429,
+      "num": 289871,
+      "word": "请假记录见证了生离死别",
+      "onboard_time": 1691063854,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 355317,
@@ -1259,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320342,
+      "num": 289815,
+      "word": "涿州发布接受社会捐赠的公告",
+      "onboard_time": 1691065416,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318954,
       "num": 318954,
       "word": "长大后最恐怖的事之一",
@@ -1313,6 +1393,14 @@
       "onboard_time": 1691026358,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306649,
+      "num": 306649,
+      "word": "韩国女足vs德国女足",
+      "onboard_time": 1691064755,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 306577,
@@ -1433,6 +1521,14 @@
       "onboard_time": 1691044357,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287138,
+      "num": 287138,
+      "word": "王鹤棣令人眼花缭乱的技术",
+      "onboard_time": 1691063494,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 286215,
@@ -1627,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252973,
+      "num": 252973,
+      "word": "于适娜然互相反串妲己姬发",
+      "onboard_time": 1691065533,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251572,
       "num": 251572,
       "word": "檀健次说分so就分so",
@@ -1739,12 +1843,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 229943,
-      "num": 229943,
-      "word": "赵露思白裙好仙",
-      "onboard_time": 1691062175,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 229764,
+      "num": 229764,
+      "word": "LPL夏决媒体发布会",
+      "onboard_time": 1691061934,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 229610,
@@ -1753,6 +1857,14 @@
       "onboard_time": 1691025273,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 228129,
+      "num": 228129,
+      "word": "内娱和粉丝双向奔赴的明星",
+      "onboard_time": 1691061515,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 227912,
@@ -1979,14 +2091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205050,
-      "num": 205050,
-      "word": "内娱和粉丝双向奔赴的明星",
-      "onboard_time": 1691061515,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204423,
       "num": 204423,
       "word": "在美国聚会做水煮鱼惊艳全场",
@@ -2041,14 +2145,6 @@
       "onboard_time": 1691058398,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201626,
-      "num": 201626,
-      "word": "马立奥从不吝啬表达爱",
-      "onboard_time": 1691062296,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 201565,
@@ -2131,28 +2227,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193823,
-      "num": 192949,
-      "word": "王一博让C位好丝滑",
-      "onboard_time": 1691062353,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193019,
       "num": 193019,
       "word": "潭柘寺 赞叹古人高超的地质勘查水准",
       "onboard_time": 1691057557,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192974,
-      "num": 192974,
-      "word": "LPL夏决媒体发布会",
-      "onboard_time": 1691061934,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 192632,
@@ -2169,6 +2249,14 @@
       "onboard_time": 1691042373,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 190433,
+      "num": 190433,
+      "word": "如何预言下一场台风名",
+      "onboard_time": 1691065594,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189256,
@@ -2203,6 +2291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185327,
+      "num": 185327,
+      "word": "张雨霏",
+      "onboard_time": 1691065774,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180106,
       "num": 200770,
       "word": "时代少年团直播",
@@ -2217,6 +2313,14 @@
       "onboard_time": 1691048198,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176837,
+      "num": 323984,
+      "word": "三星发布会",
+      "onboard_time": 1691064034,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 176390,
@@ -2353,6 +2457,14 @@
       "onboard_time": 1691054916,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142807,
+      "num": 384067,
+      "word": "猫咪视角的刘亦菲",
+      "onboard_time": 1691064034,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 141465,
@@ -2499,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102314,
+      "num": 290573,
+      "word": "三星小折叠外屏变超大",
+      "onboard_time": 1691064872,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 99965,
       "num": 99965,
       "word": "小夭终于在大荒落户了",
@@ -2561,6 +2681,14 @@
       "onboard_time": 1690994248,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 52260,
+      "num": 1380936,
+      "word": "海河流域155座大中型水库全部投入防洪",
+      "onboard_time": 1691050832,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50783,
@@ -2633,14 +2761,6 @@
       "onboard_time": 1691004255,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 16468,
-      "num": 907125,
-      "word": "海河流域155座大中型水库全部投入防洪",
-      "onboard_time": 1691050832,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
