@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691051639448,
+  "endTime": 1691054187517,
   "band_list": [
     {
       "raw_hot": 3162373,
@@ -9,6 +9,22 @@
       "onboard_time": 1691030738,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2260168,
+      "num": 2260168,
+      "word": "台风卡努被卡住了",
+      "onboard_time": 1691049456,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2064513,
+      "num": 2064513,
+      "word": "父亲去世欠20万继承人要还吗",
+      "onboard_time": 1691051077,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1980686,
@@ -83,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1538214,
-      "num": 1538214,
-      "word": "台风卡努被卡住了",
-      "onboard_time": 1691049456,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1386225,
       "num": 1001089,
       "word": "专家回应河北天津泄洪是为了保北京",
@@ -137,6 +145,22 @@
       "onboard_time": 1691010252,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1262840,
+      "num": 1262840,
+      "word": "我的人间烟火 树立正能量",
+      "onboard_time": 1691052455,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1226256,
+      "num": 1226256,
+      "word": "终于理解内蒙为什么不包邮了",
+      "onboard_time": 1691051977,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 1188513,
@@ -579,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 554619,
+      "num": 304691,
+      "word": "易烊千玺王源同一航班飞西安",
+      "onboard_time": 1691053476,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553592,
       "num": 553592,
       "word": "吴镇宇急需费曼澄清",
@@ -627,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514748,
+      "num": 303844,
+      "word": "漂流把一个月工资漂没了",
+      "onboard_time": 1691052756,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 514547,
       "num": 514547,
       "word": "卡努",
@@ -641,6 +681,14 @@
       "onboard_time": 1691029178,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 492370,
+      "num": 255768,
+      "word": "从睡姿判断情侣关系",
+      "onboard_time": 1691052398,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 491003,
@@ -827,6 +875,14 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 413571,
+      "num": 413571,
+      "word": "东北菜会教训每一个嘴硬的人",
+      "onboard_time": 1691045915,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 400363,
       "num": 400363,
       "word": "长相思热度",
@@ -891,14 +947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 361874,
-      "num": 361874,
-      "word": "东北菜会教训每一个嘴硬的人",
-      "onboard_time": 1691045915,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 355317,
       "num": 355317,
       "word": "魏大勋蒲熠星张颜齐黄子弘凡扫楼",
@@ -939,6 +987,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334380,
+      "num": 298322,
+      "word": "相柳角色号换头像了",
+      "onboard_time": 1691051734,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 333573,
+      "num": 333573,
+      "word": "邓为潮男上线",
+      "onboard_time": 1691053118,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331376,
       "num": 331376,
       "word": "丫丫生日坐在竹子上干饭",
@@ -977,6 +1041,14 @@
       "onboard_time": 1691040337,
       "rank": 27,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 311299,
+      "num": 311299,
+      "word": "长大后才真正读懂了这句诗",
+      "onboard_time": 1691051255,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 310188,
@@ -1123,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284620,
+      "num": 284620,
+      "word": "为什么会喜欢看历史书",
+      "onboard_time": 1691051915,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 283820,
       "num": 253810,
       "word": "迪丽热巴让龚俊跳恐龙扛狼",
@@ -1160,6 +1240,14 @@
       "word": "长相思三个男人的表情",
       "onboard_time": 1691028398,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 279449,
+      "num": 279449,
+      "word": "陈牧驰 真正的殷郊珍贵影像流出",
+      "onboard_time": 1691051796,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -1265,14 +1353,6 @@
       "onboard_time": 1691041718,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243433,
-      "num": 243433,
-      "word": "父亲去世欠20万继承人要还吗",
-      "onboard_time": 1691051077,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242786,
@@ -1411,12 +1491,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 220000,
+      "num": 220000,
+      "word": "收费站挨个发卡暴露应急能力不足问题",
+      "onboard_time": 1691053536,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218464,
       "num": 218464,
       "word": "K396次乘客家属讲述脱困经过",
       "onboard_time": 1690986340,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218292,
+      "num": 218292,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1691053898,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 217316,
@@ -1451,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215009,
+      "num": 215009,
+      "word": "热烈路演岳阳",
+      "onboard_time": 1691053716,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212086,
       "num": 212086,
       "word": "孤注一掷看得惊心动魄",
@@ -1473,6 +1577,14 @@
       "onboard_time": 1691049876,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209093,
+      "num": 209093,
+      "word": "龚俊回应安乐传是否有吻戏",
+      "onboard_time": 1691053959,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 208904,
@@ -1529,6 +1641,14 @@
       "onboard_time": 1691017281,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205914,
+      "num": 200818,
+      "word": "邓为微博粉丝数破300万",
+      "onboard_time": 1691053834,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 204423,
@@ -1593,6 +1713,14 @@
       "onboard_time": 1691027018,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200829,
+      "num": 200829,
+      "word": "大运会体操",
+      "onboard_time": 1691052098,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 200462,
@@ -1683,6 +1811,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185234,
+      "num": 200798,
+      "word": "贵阳人均8块的火锅",
+      "onboard_time": 1691051856,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 180106,
+      "num": 200770,
+      "word": "时代少年团直播",
+      "onboard_time": 1691054137,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177317,
       "num": 201936,
       "word": "吴俊霆卢昱晓重逢二搭",
@@ -1699,20 +1843,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174704,
+      "num": 200703,
+      "word": "残疾小伙用双手爬行养羊供妹妹读书",
+      "onboard_time": 1691053418,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172978,
       "num": 211056,
       "word": "论鼻子的修容对颜值的影响",
       "onboard_time": 1691040757,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 172114,
-      "num": 201364,
-      "word": "长大后才真正读懂了这句诗",
-      "onboard_time": 1691051255,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 168958,
@@ -1737,6 +1881,14 @@
       "onboard_time": 1690985620,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165319,
+      "num": 1653554,
+      "word": "全国多地救援队增援河北",
+      "onboard_time": 1691051015,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165068,
@@ -1963,20 +2115,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78501,
-      "num": 1138910,
-      "word": "全国多地救援队增援河北",
-      "onboard_time": 1691051015,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66957,
       "num": 96389,
       "word": "心疼又好笑的车祸现场",
       "onboard_time": 1690994248,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46572,
+      "num": 330081,
+      "word": "解放军俯瞰台岛唱我的战鹰绕着宝岛飞",
+      "onboard_time": 1691053240,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42292,
