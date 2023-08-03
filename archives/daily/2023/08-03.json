@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691054187517,
+  "endTime": 1691055234509,
   "band_list": [
     {
       "raw_hot": 3162373,
@@ -11,19 +11,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2562261,
+      "num": 2562261,
+      "word": "父亲去世欠20万继承人要还吗",
+      "onboard_time": 1691051077,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2260168,
       "num": 2260168,
       "word": "台风卡努被卡住了",
       "onboard_time": 1691049456,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2064513,
-      "num": 2064513,
-      "word": "父亲去世欠20万继承人要还吗",
-      "onboard_time": 1691051077,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1645745,
+      "num": 1645745,
+      "word": "我的人间烟火 树立正能量",
+      "onboard_time": 1691052455,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1545773,
       "num": 1545773,
       "word": "中图网 遭遇25年来毁灭性打击",
@@ -139,28 +147,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1314659,
+      "num": 1314659,
+      "word": "终于理解内蒙为什么不包邮了",
+      "onboard_time": 1691051977,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1304449,
       "num": 1304449,
       "word": "暴雨后北京街头堆积大量受损汽车",
       "onboard_time": 1691010252,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1262840,
-      "num": 1262840,
-      "word": "我的人间烟火 树立正能量",
-      "onboard_time": 1691052455,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1226256,
-      "num": 1226256,
-      "word": "终于理解内蒙为什么不包邮了",
-      "onboard_time": 1691051977,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 1188513,
@@ -193,6 +193,14 @@
       "onboard_time": 1691038121,
       "rank": 3,
       "category": "游戏,音乐"
+    },
+    {
+      "raw_hot": 1109401,
+      "num": 455659,
+      "word": "易烊千玺王源同一航班飞西安",
+      "onboard_time": 1691053476,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1096909,
@@ -377,6 +385,14 @@
       "onboard_time": 1691027676,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 704429,
+      "num": 704429,
+      "word": "邓为潮男上线",
+      "onboard_time": 1691053118,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 688968,
@@ -603,20 +619,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 554619,
-      "num": 304691,
-      "word": "易烊千玺王源同一航班飞西安",
-      "onboard_time": 1691053476,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 553592,
       "num": 553592,
       "word": "吴镇宇急需费曼澄清",
       "onboard_time": 1691044775,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 545086,
+      "num": 451667,
+      "word": "张真源染发",
+      "onboard_time": 1691054315,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 542175,
@@ -651,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 522949,
+      "num": 287365,
+      "word": "从睡姿判断情侣关系",
+      "onboard_time": 1691052398,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 522564,
       "num": 522564,
       "word": "庞博在北外搞同传副业",
@@ -681,14 +705,6 @@
       "onboard_time": 1691029178,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 492370,
-      "num": 255768,
-      "word": "从睡姿判断情侣关系",
-      "onboard_time": 1691052398,
-      "rank": 30,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 491003,
@@ -867,6 +883,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 418157,
+      "num": 397823,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1691053898,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 416288,
       "num": 416288,
       "word": "你的iPhone一天要充几次电",
@@ -897,6 +921,14 @@
       "onboard_time": 1691038361,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396787,
+      "num": 396787,
+      "word": "长大后才真正读懂了这句诗",
+      "onboard_time": 1691051255,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 384175,
@@ -947,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 361133,
+      "num": 284183,
+      "word": "边伯贤入住汉南洞UNVillage",
+      "onboard_time": 1691054738,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355317,
       "num": 355317,
       "word": "魏大勋蒲熠星张颜齐黄子弘凡扫楼",
@@ -987,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336911,
+      "num": 284055,
+      "word": "邓为微博粉丝数破300万",
+      "onboard_time": 1691053834,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334380,
       "num": 298322,
       "word": "相柳角色号换头像了",
@@ -995,19 +1043,27 @@
       "category": "影视"
     },
     {
-      "raw_hot": 333573,
-      "num": 333573,
-      "word": "邓为潮男上线",
-      "onboard_time": 1691053118,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331376,
       "num": 331376,
       "word": "丫丫生日坐在竹子上干饭",
       "onboard_time": 1691032118,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327830,
+      "num": 280786,
+      "word": "王一博岳阳",
+      "onboard_time": 1691054916,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 323597,
+      "num": 323597,
+      "word": "收费站挨个发卡暴露应急能力不足问题",
+      "onboard_time": 1691053536,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1041,14 +1097,6 @@
       "onboard_time": 1691040337,
       "rank": 27,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 311299,
-      "num": 311299,
-      "word": "长大后才真正读懂了这句诗",
-      "onboard_time": 1691051255,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 310188,
@@ -1307,6 +1355,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 256818,
+      "num": 256818,
+      "word": "龚俊回应安乐传是否有吻戏",
+      "onboard_time": 1691053959,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254964,
       "num": 254964,
       "word": "K396年轻乘务员说自己是党员不能慌",
@@ -1491,28 +1547,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 220000,
-      "num": 220000,
-      "word": "收费站挨个发卡暴露应急能力不足问题",
-      "onboard_time": 1691053536,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218464,
       "num": 218464,
       "word": "K396次乘客家属讲述脱困经过",
       "onboard_time": 1690986340,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218292,
-      "num": 218292,
-      "word": "时代少年团演唱会",
-      "onboard_time": 1691053898,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 217316,
@@ -1563,6 +1603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211847,
+      "num": 211847,
+      "word": "贵阳人均8块的火锅",
+      "onboard_time": 1691051856,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 211462,
       "num": 211462,
       "word": "邓为边洗衣服边唱屋顶着火",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1691049876,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209093,
-      "num": 209093,
-      "word": "龚俊回应安乐传是否有吻戏",
-      "onboard_time": 1691053959,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 208904,
@@ -1643,14 +1683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205914,
-      "num": 200818,
-      "word": "邓为微博粉丝数破300万",
-      "onboard_time": 1691053834,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204423,
       "num": 204423,
       "word": "在美国聚会做水煮鱼惊艳全场",
@@ -1665,6 +1697,14 @@
       "onboard_time": 1691038720,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203552,
+      "num": 203552,
+      "word": "张真源贺峻霖好像金角银角大王",
+      "onboard_time": 1691054677,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203025,
@@ -1716,7 +1756,7 @@
     },
     {
       "raw_hot": 200829,
-      "num": 200829,
+      "num": 210200,
       "word": "大运会体操",
       "onboard_time": 1691052098,
       "rank": 39,
@@ -1729,6 +1769,14 @@
       "onboard_time": 1691032659,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200017,
+      "num": 200017,
+      "word": "相柳真的很好哄",
+      "onboard_time": 1691054798,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 197976,
@@ -1811,14 +1859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 185234,
-      "num": 200798,
-      "word": "贵阳人均8块的火锅",
-      "onboard_time": 1691051856,
-      "rank": 42,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 180106,
       "num": 200770,
       "word": "时代少年团直播",
@@ -1875,20 +1915,20 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 168231,
+      "num": 1695571,
+      "word": "全国多地救援队增援河北",
+      "onboard_time": 1691051015,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166513,
       "num": 203480,
       "word": "虞书欣透视碎花吊带",
       "onboard_time": 1690985620,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 165319,
-      "num": 1653554,
-      "word": "全国多地救援队增援河北",
-      "onboard_time": 1691051015,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165068,
@@ -1963,6 +2003,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 143908,
+      "num": 199966,
+      "word": "长颈鹿通道",
+      "onboard_time": 1691054916,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141465,
       "num": 189473,
       "word": "云合",
@@ -2009,6 +2057,14 @@
       "onboard_time": 1690985257,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126395,
+      "num": 199944,
+      "word": "别人都知道但你不知道的事",
+      "onboard_time": 1691055096,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 124802,
@@ -2107,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95550,
+      "num": 398381,
+      "word": "解放军俯瞰台岛唱我的战鹰绕着宝岛飞",
+      "onboard_time": 1691053240,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84749,
       "num": 84749,
       "word": "世间最疼爱你的人是妈妈",
@@ -2121,14 +2185,6 @@
       "onboard_time": 1690994248,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 46572,
-      "num": 330081,
-      "word": "解放军俯瞰台岛唱我的战鹰绕着宝岛飞",
-      "onboard_time": 1691053240,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42292,
