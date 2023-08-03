@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691044451291,
+  "endTime": 1691046937076,
   "band_list": [
     {
       "raw_hot": 3162373,
@@ -131,6 +131,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1174317,
+      "num": 1174317,
+      "word": "失联蓝天救援队队员刘建民已牺牲",
+      "onboard_time": 1691046033,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1156079,
+      "num": 1156079,
+      "word": "敖子逸蒋依依",
+      "onboard_time": 1691042197,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1155748,
       "num": 1155748,
       "word": "苏沫去不了TFBOYS演唱会了",
@@ -203,14 +219,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 899127,
-      "num": 899127,
-      "word": "敖子逸蒋依依",
-      "onboard_time": 1691042197,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 860833,
       "num": 860833,
       "word": "快乐大本营更名后掉粉40万",
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 784277,
+      "num": 784277,
+      "word": "到成都后开始理解美羊羊了",
+      "onboard_time": 1691041358,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 750799,
       "num": 299187,
       "word": "驾校教练被曝猥亵女学员9分钟",
@@ -265,14 +281,6 @@
       "onboard_time": 1691027018,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 725387,
-      "num": 725387,
-      "word": "到成都后开始理解美羊羊了",
-      "onboard_time": 1691041358,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 723632,
@@ -435,6 +443,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 592901,
+      "num": 395696,
+      "word": "男子合买彩票中790多万开奖没他",
+      "onboard_time": 1691045496,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589912,
+      "num": 589912,
+      "word": "长相思包揽角色吸粉榜前三",
+      "onboard_time": 1691044055,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 589358,
       "num": 505491,
       "word": "美国8岁女孩失踪48年悬案",
@@ -483,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 558416,
+      "num": 558416,
+      "word": "叠纸亲女儿",
+      "onboard_time": 1691044657,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 542175,
       "num": 542175,
       "word": "玱玹和相柳很难演的原因",
@@ -513,6 +545,14 @@
       "onboard_time": 1691022277,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 526409,
+      "num": 526409,
+      "word": "起猛了看见陈哲远上韩国综艺了",
+      "onboard_time": 1691045015,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 522564,
@@ -592,6 +632,14 @@
       "word": "只有涂山璟没有妹妹",
       "onboard_time": 1691033437,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 459090,
+      "num": 272994,
+      "word": "长相思一个饭桌7场戏",
+      "onboard_time": 1691045318,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -691,6 +739,14 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 420377,
+      "num": 420377,
+      "word": "蒋依依没谈过恋爱",
+      "onboard_time": 1691046274,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420116,
       "num": 375100,
       "word": "再也看不到TFBOYS写的信了",
@@ -739,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377135,
+      "num": 377135,
+      "word": "太原一醋厂用冰乙酸勾兑食醋销往全国",
+      "onboard_time": 1691043033,
+      "rank": 38,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 369243,
       "num": 369243,
       "word": "k396",
@@ -755,12 +819,28 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 355317,
+      "num": 355317,
+      "word": "魏大勋蒲熠星张颜齐黄子弘凡扫楼",
+      "onboard_time": 1691046033,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355037,
       "num": 303553,
       "word": "剪完头发后暂时失去了女友",
       "onboard_time": 1691036439,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 349255,
+      "num": 349255,
+      "word": "吴镇宇急需费曼澄清",
+      "onboard_time": 1691044775,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 348894,
@@ -883,20 +963,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 298074,
-      "num": 298074,
-      "word": "太原一醋厂用冰乙酸勾兑食醋销往全国",
-      "onboard_time": 1691043033,
-      "rank": 38,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 295579,
       "num": 295579,
       "word": "绝味幼儿园",
       "onboard_time": 1691028219,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 295281,
+      "num": 412846,
+      "word": "红米",
+      "onboard_time": 1691043756,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 292918,
@@ -947,12 +1027,28 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 288141,
+      "num": 288141,
+      "word": "肖战推荐家乡重庆",
+      "onboard_time": 1691044357,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284906,
       "num": 284906,
       "word": "发现单词笔的痕迹是一只蝴蝶",
       "onboard_time": 1691023777,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 283856,
+      "num": 270820,
+      "word": "魏大勋扫楼",
+      "onboard_time": 1691046397,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 283820,
@@ -987,6 +1083,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 280419,
+      "num": 404711,
+      "word": "涿州市民说从未想过在这条路坐船",
+      "onboard_time": 1691043874,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279913,
       "num": 279913,
       "word": "长相思三个男人的表情",
@@ -1017,14 +1121,6 @@
       "onboard_time": 1691034581,
       "rank": 42,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 266285,
-      "num": 266285,
-      "word": "长相思包揽角色吸粉榜前三",
-      "onboard_time": 1691044055,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 265774,
@@ -1068,11 +1164,19 @@
     },
     {
       "raw_hot": 252887,
-      "num": 290277,
+      "num": 534627,
       "word": "杨紫网文女主适配度",
       "onboard_time": 1691038063,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252224,
+      "num": 252224,
+      "word": "余华听说有人过上了自己小说里的生活",
+      "onboard_time": 1691043698,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251572,
@@ -1219,6 +1323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217316,
+      "num": 216573,
+      "word": "周深demo",
+      "onboard_time": 1691046334,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 216983,
+      "num": 216983,
+      "word": "新发现T细胞可灭晚期肿瘤",
+      "onboard_time": 1691044113,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 216124,
       "num": 306030,
       "word": "洪水中4个月大婴儿被直升机吊起",
@@ -1235,11 +1355,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214463,
+      "num": 214463,
+      "word": "东北菜会教训每一个嘴硬的人",
+      "onboard_time": 1691045915,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212086,
       "num": 212086,
       "word": "孤注一掷看得惊心动魄",
       "onboard_time": 1691035904,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211759,
+      "num": 211759,
+      "word": "檀健次工作室宣发审美",
+      "onboard_time": 1691046876,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1267,12 +1403,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208319,
+      "num": 208319,
+      "word": "松鼠会用它们的尾巴当做伞",
+      "onboard_time": 1691046157,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 208060,
       "num": 208060,
       "word": "中国人的力量真的无与伦比",
       "onboard_time": 1691024917,
       "rank": 47,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 207327,
+      "num": 207327,
+      "word": "万茜承担了学爸所有打戏",
+      "onboard_time": 1691044958,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 206499,
@@ -1387,14 +1539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196299,
-      "num": 205936,
-      "word": "肖战推荐家乡重庆",
-      "onboard_time": 1691044357,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194460,
       "num": 205936,
       "word": "95生格局五六三王",
@@ -1451,14 +1595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181099,
-      "num": 205977,
-      "word": "红米",
-      "onboard_time": 1691043756,
-      "rank": 36,
-      "category": "科技"
-    },
-    {
       "raw_hot": 176390,
       "num": 203491,
       "word": "龚俊看完queencard吓出一身冷汗",
@@ -1475,12 +1611,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 172851,
-      "num": 205968,
-      "word": "涿州市民说从未想过在这条路坐船",
-      "onboard_time": 1691043874,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 171455,
+      "num": 197873,
+      "word": "当我妈问我为什么要换手机",
+      "onboard_time": 1691046457,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 168958,
@@ -1569,14 +1705,6 @@
       "onboard_time": 1690974992,
       "rank": 40,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 146607,
-      "num": 205877,
-      "word": "新发现T细胞可灭晚期肿瘤",
-      "onboard_time": 1691044113,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 140496,
