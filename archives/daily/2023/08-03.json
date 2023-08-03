@@ -1,10 +1,10 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691032612699,
+  "endTime": 1691033621818,
   "band_list": [
     {
-      "raw_hot": 2834998,
-      "num": 2834998,
+      "raw_hot": 3162373,
+      "num": 3162373,
       "word": "快乐大本营",
       "onboard_time": 1691030738,
       "rank": 0,
@@ -115,12 +115,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 943387,
-      "num": 943387,
+      "raw_hot": 1001089,
+      "num": 1001089,
       "word": "专家回应河北天津泄洪是为了保北京",
       "onboard_time": 1691027858,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 944871,
+      "num": 629313,
+      "word": "原来50岁还要被催婚",
+      "onboard_time": 1691031701,
+      "rank": 30,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 825088,
@@ -129,6 +137,22 @@
       "onboard_time": 1691019570,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 815722,
+      "num": 815722,
+      "word": "王俊凯王源易烊千玺今天又近了一步",
+      "onboard_time": 1691032419,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 799525,
+      "num": 799525,
+      "word": "一旦开始穿洞洞鞋背帆布包",
+      "onboard_time": 1691028339,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 798350,
@@ -153,14 +177,6 @@
       "onboard_time": 1691027018,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 728020,
-      "num": 728020,
-      "word": "一旦开始穿洞洞鞋背帆布包",
-      "onboard_time": 1691028339,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 723632,
@@ -193,6 +209,14 @@
       "onboard_time": 1691027676,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 688968,
+      "num": 688968,
+      "word": "著名制片人邓细斌去世",
+      "onboard_time": 1691032002,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 687931,
@@ -307,14 +331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 523404,
-      "num": 241845,
-      "word": "原来50岁还要被催婚",
-      "onboard_time": 1691031701,
-      "rank": 30,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 514547,
       "num": 514547,
       "word": "卡努",
@@ -323,12 +339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496219,
+      "num": 496219,
+      "word": "TFBOYS十年之约仅剩3天",
+      "onboard_time": 1691032781,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493270,
       "num": 493270,
       "word": "夭璟船戏是自由发挥的",
       "onboard_time": 1691029178,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 489279,
+      "num": 489279,
+      "word": "快乐大本营官微改名湖南卫视综艺",
+      "onboard_time": 1691032719,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 488315,
@@ -435,14 +467,6 @@
       "category": "科技,幽默"
     },
     {
-      "raw_hot": 416184,
-      "num": 416184,
-      "word": "著名制片人邓细斌去世",
-      "onboard_time": 1691032002,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400363,
       "num": 400363,
       "word": "长相思热度",
@@ -473,6 +497,14 @@
       "onboard_time": 1691028458,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346761,
+      "num": 346761,
+      "word": "这个间距很难说不是P的",
+      "onboard_time": 1691032838,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 340157,
@@ -521,14 +553,6 @@
       "onboard_time": 1691026358,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309494,
-      "num": 309494,
-      "word": "王俊凯王源易烊千玺今天又近了一步",
-      "onboard_time": 1691032419,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 306577,
@@ -635,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279559,
+      "num": 279559,
+      "word": "丫丫生日坐在竹子上干饭",
+      "onboard_time": 1691032118,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271897,
       "num": 271897,
       "word": "新生儿被抱出产房外婆一句话破防",
@@ -697,14 +729,6 @@
       "onboard_time": 1691025217,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 242369,
-      "num": 242369,
-      "word": "丫丫生日坐在竹子上干饭",
-      "onboard_time": 1691032118,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241641,
@@ -779,6 +803,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 221112,
+      "num": 221112,
+      "word": "只有涂山璟没有妹妹",
+      "onboard_time": 1691033437,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218464,
       "num": 218464,
       "word": "K396次乘客家属讲述脱困经过",
@@ -803,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208904,
+      "num": 208904,
+      "word": "13岁特殊少年有一条228米专属道路",
+      "onboard_time": 1691032002,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208453,
       "num": 208453,
       "word": "别人吃猫条 我吃黄瓜条",
@@ -817,14 +857,6 @@
       "onboard_time": 1691024917,
       "rank": 47,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 207134,
-      "num": 207134,
-      "word": "13岁特殊少年有一条228米专属道路",
-      "onboard_time": 1691032002,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206482,
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 201565,
-      "num": 201565,
+      "num": 208900,
       "word": "闪暖开服",
       "onboard_time": 1691032540,
       "rank": 39,
@@ -881,6 +913,22 @@
       "onboard_time": 1691027018,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200462,
+      "num": 208888,
+      "word": "小猫好像有点不服",
+      "onboard_time": 1691032659,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 197976,
+      "num": 208867,
+      "word": "以前和公司的保洁大爷大妈关系很好",
+      "onboard_time": 1691032235,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 189256,
@@ -897,14 +945,6 @@
       "onboard_time": 1691031459,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187085,
-      "num": 200294,
-      "word": "以前和公司的保洁大爷大妈关系很好",
-      "onboard_time": 1691032235,
-      "rank": 43,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 186841,
@@ -1059,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121451,
+      "num": 279308,
+      "word": "vivo领跑中国手机市场新格局",
+      "onboard_time": 1691033201,
+      "rank": 31,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 120540,
       "num": 203429,
       "word": "鹿晗武汉演唱会",
@@ -1139,6 +1187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 33654,
+      "num": 289844,
+      "word": "暴雨洪灾后的9个健康知识点",
+      "onboard_time": 1691033201,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31207,
       "num": 1392238,
       "word": "暴雨洪涝后如何做好个人健康防护",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1691004255,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 14307,
+      "num": 1076334,
+      "word": "有人民的地方就有子弟兵",
+      "onboard_time": 1691033382,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
