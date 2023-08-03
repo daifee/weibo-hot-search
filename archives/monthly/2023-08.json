@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691104572086,
+  "endTime": 1691105625959,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -2147,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 647117,
+      "num": 381125,
+      "word": "演技进步最快的演员",
+      "onboard_time": 1691104343,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 645658,
       "num": 518696,
       "word": "黄子韬说只有鹿晗能让我取消行程",
@@ -2627,6 +2635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 558205,
+      "num": 521624,
+      "word": "涿州市民避灾遇酒店涨价",
+      "onboard_time": 1691085018,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557889,
       "num": 557889,
       "word": "卡努向浙江至福建沿海靠近",
@@ -2857,14 +2873,6 @@
       "onboard_time": 1690780174,
       "rank": 9,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 521624,
-      "num": 521624,
-      "word": "涿州市民避灾遇酒店涨价",
-      "onboard_time": 1691085018,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 519960,
@@ -3843,6 +3851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394410,
+      "num": 394410,
+      "word": "自习室的大学生靠热点交流",
+      "onboard_time": 1691081365,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 392824,
       "num": 392824,
       "word": "房山蓝天救援女队员在抢险救灾中牺牲",
@@ -3881,14 +3897,6 @@
       "onboard_time": 1690872693,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 391100,
-      "num": 323236,
-      "word": "自习室的大学生靠热点交流",
-      "onboard_time": 1691081365,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 391043,
@@ -4201,6 +4209,14 @@
       "onboard_time": 1690938935,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351621,
+      "num": 351621,
+      "word": "相柳还是进入了小夭的梦里",
+      "onboard_time": 1691104222,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 351167,
@@ -4723,6 +4739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301347,
+      "num": 197226,
+      "word": "江苏一男子吃烧烤后感染戊肝",
+      "onboard_time": 1691103742,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300874,
       "num": 300874,
       "word": "大运会体操中国男团夺金",
@@ -5139,6 +5163,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 274744,
+      "num": 197212,
+      "word": "投影仪卖不出去了",
+      "onboard_time": 1691081126,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 274310,
       "num": 274310,
       "word": "姬发做质子的八年伯邑考在干什么",
@@ -5233,14 +5265,6 @@
       "onboard_time": 1691026054,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266733,
-      "num": 160595,
-      "word": "投影仪卖不出去了",
-      "onboard_time": 1691081126,
-      "rank": 22,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 266481,
@@ -5465,6 +5489,14 @@
       "onboard_time": 1691067757,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251918,
+      "num": 251918,
+      "word": "李立群团队否认在杭州看病花了20万",
+      "onboard_time": 1691104945,
+      "rank": 13,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 251309,
@@ -6083,14 +6115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220267,
-      "num": 197079,
-      "word": "演技进步最快的演员",
-      "onboard_time": 1691104343,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219803,
       "num": 219803,
       "word": "田柾国直播",
@@ -6169,6 +6193,14 @@
       "onboard_time": 1690964794,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216260,
+      "num": 216260,
+      "word": "小伙错过末班车舍不得花十几块元打车",
+      "onboard_time": 1691092632,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215944,
@@ -6280,6 +6312,14 @@
       "word": "大叔留宿滞留旅客自己睡在院子里",
       "onboard_time": 1691049876,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210656,
+      "num": 210656,
+      "word": "卡努登陆我国可能性逐渐减小",
+      "onboard_time": 1691101157,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -6401,14 +6441,6 @@
       "onboard_time": 1691043457,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206066,
-      "num": 206066,
-      "word": "小伙错过末班车舍不得花十几块元打车",
-      "onboard_time": 1691092632,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205916,
@@ -6691,12 +6723,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197255,
+      "num": 197255,
+      "word": "白敬亭出道九周年",
+      "onboard_time": 1691104705,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197224,
       "num": 197224,
       "word": "夏之Scout",
       "onboard_time": 1690899098,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197185,
+      "num": 197185,
+      "word": "2个动作恢复颈部曲度",
+      "onboard_time": 1691103742,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 196943,
@@ -6801,14 +6849,6 @@
       "onboard_time": 1690957592,
       "rank": 46,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 192886,
-      "num": 157637,
-      "word": "卡努登陆我国可能性逐渐减小",
-      "onboard_time": 1691101157,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192632,
@@ -7211,14 +7251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163736,
-      "num": 156065,
-      "word": "江苏一男子吃烧烤后感染戊肝",
-      "onboard_time": 1691103742,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163691,
       "num": 163691,
       "word": "爸爸当家直播",
@@ -7257,6 +7289,14 @@
       "onboard_time": 1690855054,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161046,
+      "num": 161046,
+      "word": "苏醒王栎鑫最近一个月频繁见面",
+      "onboard_time": 1691104825,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 159392,
@@ -7315,6 +7355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152915,
+      "num": 152915,
+      "word": "是谁发明的摇摇奶盖啊",
+      "onboard_time": 1691103981,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152847,
       "num": 220519,
       "word": "在成都打车打到大熊猫了",
@@ -7361,6 +7409,14 @@
       "onboard_time": 1691054916,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142497,
+      "num": 142497,
+      "word": "小夭一直见的都是相柳真容",
+      "onboard_time": 1691105066,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 142280,
@@ -7451,6 +7507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133620,
+      "num": 133620,
+      "word": "巨齿鲨",
+      "onboard_time": 1691105248,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132013,
       "num": 132013,
       "word": "福建人的童年噩梦",
@@ -7521,14 +7585,6 @@
       "onboard_time": 1690846108,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121859,
-      "num": 121859,
-      "word": "2个动作恢复颈部曲度",
-      "onboard_time": 1691103742,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 121481,
@@ -7659,6 +7715,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 106784,
+      "num": 106784,
+      "word": "没认出这是檀健次",
+      "onboard_time": 1691105485,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106629,
       "num": 106629,
       "word": "订单超时可能是外卖小哥救人去了",
@@ -7691,20 +7755,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99677,
+      "num": 99677,
+      "word": "第一次公开报道他却不能露脸",
+      "onboard_time": 1691105548,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98867,
+      "num": 98867,
+      "word": "邓为新剧络腮胡造型",
+      "onboard_time": 1691105428,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98816,
       "num": 98816,
       "word": "河北暴雨老人被救出双手合十感谢救援队",
       "onboard_time": 1690932746,
       "rank": 47,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 98655,
-      "num": 98655,
-      "word": "相柳还是进入了小夭的梦里",
-      "onboard_time": 1691104222,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 98529,
@@ -7721,6 +7793,14 @@
       "onboard_time": 1691070336,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96724,
+      "num": 96724,
+      "word": "他小时候是不是没朋友",
+      "onboard_time": 1691105608,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 95550,
@@ -7825,14 +7905,6 @@
       "onboard_time": 1691086756,
       "rank": 40,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 68387,
-      "num": 68387,
-      "word": "是谁发明的摇摇奶盖啊",
-      "onboard_time": 1691103981,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 66957,

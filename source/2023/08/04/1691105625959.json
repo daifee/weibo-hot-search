@@ -1,0 +1,410 @@
+{
+  "runTime": 1691105625959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 860282,
+        "num": 860282,
+        "word": "这真的不是帝后吗",
+        "onboard_time": 1691076277,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394410,
+        "num": 394410,
+        "word": "自习室的大学生靠热点交流",
+        "onboard_time": 1691081365,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27769,
+        "num": 387143,
+        "word": "暴雨洪涝后饮食安全指南",
+        "onboard_time": 1691070455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647117,
+        "num": 381125,
+        "word": "演技进步最快的演员",
+        "onboard_time": 1691104343,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 543195,
+        "num": 376203,
+        "word": "中图网 25元一斤随便带走",
+        "onboard_time": 1691061392,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558205,
+        "num": 368723,
+        "word": "涿州市民避灾遇酒店涨价",
+        "onboard_time": 1691085018,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398039,
+        "num": 359276,
+        "word": "吴京分享月瘦10斤减肥法",
+        "onboard_time": 1691070938,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351621,
+        "num": 351621,
+        "word": "相柳还是进入了小夭的梦里",
+        "onboard_time": 1691104222,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288299,
+        "num": 288299,
+        "word": "终于理解内蒙为什么不包邮了",
+        "onboard_time": 1691051977,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287767,
+        "num": 287767,
+        "word": "台风卡努被卡住了",
+        "onboard_time": 1691049456,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950064,
+        "num": 281685,
+        "word": "蟑螂汁治好了我的烂脸",
+        "onboard_time": 1691076939,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 336532,
+        "num": 276988,
+        "word": "网友偶遇TFBOYS拍写真",
+        "onboard_time": 1691074602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263770,
+        "num": 263770,
+        "word": "蜜雪冰城捐1千万支持抗汛救灾",
+        "onboard_time": 1691074059,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251918,
+        "num": 251918,
+        "word": "李立群团队否认在杭州看病花了20万",
+        "onboard_time": 1691104945,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 229343,
+        "num": 229343,
+        "word": "泰国人居然拍中国古装剧了",
+        "onboard_time": 1691066675,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224347,
+        "num": 224347,
+        "word": "女子15年前地震平安产子涿州再脱险",
+        "onboard_time": 1691082503,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216260,
+        "num": 216260,
+        "word": "小伙错过末班车舍不得花十几块元打车",
+        "onboard_time": 1691092632,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210656,
+        "num": 210656,
+        "word": "卡努登陆我国可能性逐渐减小",
+        "onboard_time": 1691101157,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197255,
+        "num": 197255,
+        "word": "白敬亭出道九周年",
+        "onboard_time": 1691104705,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174726,
+        "num": 197248,
+        "word": "妈妈送给王楚然的书",
+        "onboard_time": 1691074359,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676124,
+        "num": 197245,
+        "word": "离职退群不小心把群解散了",
+        "onboard_time": 1691064993,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334256,
+        "num": 197231,
+        "word": "第一次见这种主卧卫生间",
+        "onboard_time": 1691066432,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301347,
+        "num": 197226,
+        "word": "江苏一男子吃烧烤后感染戊肝",
+        "onboard_time": 1691103742,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274744,
+        "num": 197212,
+        "word": "投影仪卖不出去了",
+        "onboard_time": 1691081126,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 243427,
+        "num": 197206,
+        "word": "河北涿州架起高空基站",
+        "onboard_time": 1691104283,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220385,
+        "num": 197193,
+        "word": "涿州",
+        "onboard_time": 1691104343,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210533,
+        "num": 197187,
+        "word": "阴干的衣服为什么那么臭",
+        "onboard_time": 1691074539,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197185,
+        "num": 197185,
+        "word": "2个动作恢复颈部曲度",
+        "onboard_time": 1691103742,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187546,
+        "num": 187546,
+        "word": "建议女孩子别用铁的鲨鱼夹",
+        "onboard_time": 1691061273,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172441,
+        "num": 172441,
+        "word": "河南大哥涿州街头4小时做13锅烩面",
+        "onboard_time": 1691072501,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 162386,
+        "num": 162386,
+        "word": "这猫怎么长home键",
+        "onboard_time": 1691066497,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161494,
+        "num": 161494,
+        "word": "王一博直播",
+        "onboard_time": 1691076338,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161046,
+        "num": 161046,
+        "word": "苏醒王栎鑫最近一个月频繁见面",
+        "onboard_time": 1691104825,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158547,
+        "num": 158547,
+        "word": "涂山璟的神识小狐狸",
+        "onboard_time": 1691066675,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154064,
+        "num": 154064,
+        "word": "一条河里同时出现卧龙凤雏",
+        "onboard_time": 1691076338,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152915,
+        "num": 152915,
+        "word": "是谁发明的摇摇奶盖啊",
+        "onboard_time": 1691103981,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149849,
+        "num": 149849,
+        "word": "费翔公主抱娜然",
+        "onboard_time": 1691073817,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142497,
+        "num": 142497,
+        "word": "小夭一直见的都是相柳真容",
+        "onboard_time": 1691105066,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134664,
+        "num": 134664,
+        "word": "牺牲消防员微信昵称头像太戳了",
+        "onboard_time": 1691075076,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134280,
+        "num": 134280,
+        "word": "鸿星尔克在涿州发放救灾物资",
+        "onboard_time": 1691070455,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133620,
+        "num": 133620,
+        "word": "巨齿鲨",
+        "onboard_time": 1691105248,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128563,
+        "num": 128563,
+        "word": "邓为 我在",
+        "onboard_time": 1691064993,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121590,
+        "num": 121590,
+        "word": "卡努",
+        "onboard_time": 1691075799,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112208,
+        "num": 112208,
+        "word": "姬发的胸肌vs彪子的胸肌",
+        "onboard_time": 1691075140,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109586,
+        "num": 109586,
+        "word": "第一眼就喜欢的人",
+        "onboard_time": 1691075378,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106784,
+        "num": 106784,
+        "word": "没认出这是檀健次",
+        "onboard_time": 1691105485,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99677,
+        "num": 99677,
+        "word": "第一次公开报道他却不能露脸",
+        "onboard_time": 1691105548,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98867,
+        "num": 98867,
+        "word": "邓为新剧络腮胡造型",
+        "onboard_time": 1691105428,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96724,
+        "num": 96724,
+        "word": "他小时候是不是没朋友",
+        "onboard_time": 1691105608,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 95430,
+        "num": 95430,
+        "word": "护士一把抱起80斤老人飞奔去抢救",
+        "onboard_time": 1691069737,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#暴雨洪水中每个挺身而出的人都是英雄#"
+    }
+  }
+}
