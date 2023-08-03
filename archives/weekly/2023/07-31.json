@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691030381648,
+  "endTime": 1691032612699,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -65,6 +65,14 @@
       "onboard_time": 1690860035,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2834998,
+      "num": 2834998,
+      "word": "快乐大本营",
+      "onboard_time": 1691030738,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2810227,
@@ -305,6 +313,14 @@
       "onboard_time": 1690976974,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1895090,
+      "num": 1895090,
+      "word": "最适合考公过渡的工作",
+      "onboard_time": 1691028458,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 1887110,
@@ -689,14 +705,6 @@
       "onboard_time": 1690855955,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1391984,
-      "num": 1391984,
-      "word": "最适合考公过渡的工作",
-      "onboard_time": 1691028458,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 1380406,
@@ -1345,6 +1353,14 @@
       "onboard_time": 1690953098,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 943387,
+      "num": 943387,
+      "word": "专家回应河北天津泄洪是为了保北京",
+      "onboard_time": 1691027858,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 941086,
@@ -2059,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 728020,
+      "num": 728020,
+      "word": "一旦开始穿洞洞鞋背帆布包",
+      "onboard_time": 1691028339,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 727722,
       "num": 642350,
       "word": "TFBOYS三人都在北京了",
@@ -2587,14 +2611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 610051,
-      "num": 610051,
-      "word": "一旦开始穿洞洞鞋背帆布包",
-      "onboard_time": 1691028339,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 609754,
       "num": 335881,
       "word": "张晚意闲鱼买东西被人认出来",
@@ -2955,14 +2971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 552005,
-      "num": 552005,
-      "word": "专家回应河北天津泄洪是为了保北京",
-      "onboard_time": 1691027858,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 551475,
       "num": 551475,
       "word": "易烊千玺或将演小小的我",
@@ -3123,6 +3131,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 523404,
+      "num": 241845,
+      "word": "原来50岁还要被催婚",
+      "onboard_time": 1691031701,
+      "rank": 30,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 522093,
       "num": 522093,
       "word": "小夭阿念真打起来了",
@@ -3275,6 +3291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 493270,
+      "num": 493270,
+      "word": "夭璟船戏是自由发挥的",
+      "onboard_time": 1691029178,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 492222,
       "num": 492222,
       "word": "YG速度是一种形容词",
@@ -3305,6 +3329,14 @@
       "onboard_time": 1690895137,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 488315,
+      "num": 488315,
+      "word": "打工而已我又不是来改造自己的",
+      "onboard_time": 1691029476,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 482172,
@@ -3873,6 +3905,14 @@
       "onboard_time": 1691002153,
       "rank": 15,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 416184,
+      "num": 416184,
+      "word": "著名制片人邓细斌去世",
+      "onboard_time": 1691032002,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414729,
@@ -4539,20 +4579,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348894,
+      "num": 348894,
+      "word": "邓为回复粉丝",
+      "onboard_time": 1691028458,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347467,
       "num": 347467,
       "word": "起猛了没想到相差46岁的友谊这么治愈",
       "onboard_time": 1690903416,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346962,
-      "num": 346962,
-      "word": "夭璟船戏是自由发挥的",
-      "onboard_time": 1691029178,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 346680,
@@ -4697,14 +4737,6 @@
       "onboard_time": 1690977157,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333435,
-      "num": 333435,
-      "word": "邓为回复粉丝",
-      "onboard_time": 1691028458,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 331338,
@@ -4929,6 +4961,14 @@
       "onboard_time": 1690809814,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309494,
+      "num": 309494,
+      "word": "王俊凯王源易烊千玺今天又近了一步",
+      "onboard_time": 1691032419,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 309420,
@@ -5241,14 +5281,6 @@
       "onboard_time": 1690849717,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 290577,
-      "num": 290577,
-      "word": "打工而已我又不是来改造自己的",
-      "onboard_time": 1691029476,
-      "rank": 41,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 290541,
@@ -6003,6 +6035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242369,
+      "num": 242369,
+      "word": "丫丫生日坐在竹子上干饭",
+      "onboard_time": 1691032118,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241641,
       "num": 241641,
       "word": "河北蓄滞洪区退水大约需一个月",
@@ -6603,6 +6643,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 207134,
+      "num": 207134,
+      "word": "13岁特殊少年有一条228米专属道路",
+      "onboard_time": 1691032002,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206972,
       "num": 206972,
       "word": "80后外卖员自学乐器3年上20次综艺",
@@ -6747,6 +6795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201565,
+      "num": 201565,
+      "word": "闪暖开服",
+      "onboard_time": 1691032540,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201527,
       "num": 201527,
       "word": "爱与忠诚要用行动表达",
@@ -6769,6 +6825,14 @@
       "onboard_time": 1690881396,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200860,
+      "num": 200860,
+      "word": "檀健次的演技",
+      "onboard_time": 1691027018,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 200568,
@@ -7011,6 +7075,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188038,
+      "num": 200503,
+      "word": "一拍即合的我们",
+      "onboard_time": 1691031459,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187085,
+      "num": 200294,
+      "word": "以前和公司的保洁大爷大妈关系很好",
+      "onboard_time": 1691032235,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 186921,
       "num": 186921,
       "word": "夭璟",
@@ -7225,6 +7305,14 @@
       "onboard_time": 1690771229,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168958,
+      "num": 198733,
+      "word": "seventeen沉浸式护肤",
+      "onboard_time": 1691031517,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167033,

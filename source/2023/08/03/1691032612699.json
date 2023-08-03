@@ -1,0 +1,410 @@
+{
+  "runTime": 1691032612699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2834998,
+        "num": 2834998,
+        "word": "快乐大本营",
+        "onboard_time": 1691030738,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1895090,
+        "num": 1895090,
+        "word": "最适合考公过渡的工作",
+        "onboard_time": 1691028458,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28713,
+        "num": 1364013,
+        "word": "暴雨洪涝后如何做好个人健康防护",
+        "onboard_time": 1690965873,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016725,
+        "num": 1016725,
+        "word": "张艺兴 流量没什么意义",
+        "onboard_time": 1691024917,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 943387,
+        "num": 943387,
+        "word": "专家回应河北天津泄洪是为了保北京",
+        "onboard_time": 1691027858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876608,
+        "num": 876608,
+        "word": "中图网 遭遇25年来毁灭性打击",
+        "onboard_time": 1691020414,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728020,
+        "num": 728020,
+        "word": "一旦开始穿洞洞鞋背帆布包",
+        "onboard_time": 1691028339,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 720974,
+        "num": 720974,
+        "word": "雪滴花",
+        "onboard_time": 1691028699,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 619300,
+        "num": 619300,
+        "word": "女书记哽咽着说没有人比中国人更团结",
+        "onboard_time": 1691020533,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567190,
+        "num": 567190,
+        "word": "北京动物园",
+        "onboard_time": 1691027138,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545563,
+        "num": 545563,
+        "word": "殷世航问凭什么别人可以垫箱子出道",
+        "onboard_time": 1691019809,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 536499,
+        "num": 536499,
+        "word": "还有3到4亿立方水要过境涿州",
+        "onboard_time": 1691027259,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493270,
+        "num": 493270,
+        "word": "夭璟船戏是自由发挥的",
+        "onboard_time": 1691029178,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488315,
+        "num": 488315,
+        "word": "打工而已我又不是来改造自己的",
+        "onboard_time": 1691029476,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 486851,
+        "num": 486851,
+        "word": "原著里小夭是自己游回去的",
+        "onboard_time": 1691021676,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461871,
+        "num": 461871,
+        "word": "张大大问毛不易上岸了吗",
+        "onboard_time": 1691027018,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443784,
+        "num": 443784,
+        "word": "梅西",
+        "onboard_time": 1691027676,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431817,
+        "num": 431817,
+        "word": "丫丫今天过生日",
+        "onboard_time": 1691026054,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420477,
+        "num": 420477,
+        "word": "18岁女孩被割400刀法院判轻伤",
+        "onboard_time": 1690988077,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416184,
+        "num": 416184,
+        "word": "著名制片人邓细斌去世",
+        "onboard_time": 1691032002,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348894,
+        "num": 348894,
+        "word": "邓为回复粉丝",
+        "onboard_time": 1691028458,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341619,
+        "num": 341619,
+        "word": "人脸识别时一定要穿上衣服",
+        "onboard_time": 1691019026,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 309494,
+        "num": 309494,
+        "word": "王俊凯王源易烊千玺今天又近了一步",
+        "onboard_time": 1691032419,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 288764,
+        "num": 288764,
+        "word": "美国8岁女孩失踪48年悬案",
+        "onboard_time": 1691024074,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287064,
+        "num": 287064,
+        "word": "小脚趾指甲分两瓣是什么说法",
+        "onboard_time": 1691021496,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285576,
+        "num": 285576,
+        "word": "上海火车站一男子携带大量淫秽光碟",
+        "onboard_time": 1691023117,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263369,
+        "num": 263369,
+        "word": "涿州积水区水深近6米",
+        "onboard_time": 1691019388,
+        "rank": 26,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 260179,
+        "num": 260179,
+        "word": "谈恋爱一定不要和另一半撒谎",
+        "onboard_time": 1691023895,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 253446,
+        "num": 253446,
+        "word": "绝味幼儿园",
+        "onboard_time": 1691028219,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 242369,
+        "num": 242369,
+        "word": "丫丫生日坐在竹子上干饭",
+        "onboard_time": 1691032118,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523404,
+        "num": 241845,
+        "word": "原来50岁还要被催婚",
+        "onboard_time": 1691031701,
+        "rank": 30,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 240848,
+        "num": 240848,
+        "word": "猫妈妈原来真的会教小猫说话啊",
+        "onboard_time": 1691025758,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 240434,
+        "num": 240434,
+        "word": "在导师眼里我的毕业论文就是这样",
+        "onboard_time": 1691029299,
+        "rank": 32,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 224926,
+        "num": 224926,
+        "word": "堂堂大王姬为什么不能拥有4个男人",
+        "onboard_time": 1691021736,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207134,
+        "num": 207134,
+        "word": "13岁特殊少年有一条228米专属道路",
+        "onboard_time": 1691032002,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218105,
+        "num": 206973,
+        "word": "长相思三个男人的表情",
+        "onboard_time": 1691028398,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205221,
+        "num": 205221,
+        "word": "河北蓄滞洪区退水大约需一个月",
+        "onboard_time": 1691027319,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214003,
+        "num": 204282,
+        "word": "起猛了看见小夭相柳的儿子了",
+        "onboard_time": 1691019570,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201851,
+        "num": 201851,
+        "word": "黄子韬说只有马伯骞能比他帅",
+        "onboard_time": 1691026837,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201565,
+        "num": 201565,
+        "word": "闪暖开服",
+        "onboard_time": 1691032540,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200860,
+        "num": 200860,
+        "word": "檀健次的演技",
+        "onboard_time": 1691027018,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191208,
+        "num": 200801,
+        "word": "邓为实绩图",
+        "onboard_time": 1691026358,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188038,
+        "num": 200503,
+        "word": "一拍即合的我们",
+        "onboard_time": 1691031459,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187085,
+        "num": 200294,
+        "word": "以前和公司的保洁大爷大妈关系很好",
+        "onboard_time": 1691032235,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 186902,
+        "num": 200000,
+        "word": "卡努",
+        "onboard_time": 1690989936,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185172,
+        "num": 199542,
+        "word": "刘浩存于适早期合影",
+        "onboard_time": 1691018544,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176811,
+        "num": 199325,
+        "word": "冰摇桃桃乌龙茶",
+        "onboard_time": 1691029359,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175330,
+        "num": 199023,
+        "word": "驾校教练被曝猥亵女学员9分钟",
+        "onboard_time": 1690989156,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168958,
+        "num": 198733,
+        "word": "seventeen沉浸式护肤",
+        "onboard_time": 1691031517,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162292,
+        "num": 198580,
+        "word": "涿州",
+        "onboard_time": 1690983101,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军新征程#"
+    }
+  }
+}

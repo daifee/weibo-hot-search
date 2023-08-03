@@ -1,7 +1,15 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691030381648,
+  "endTime": 1691032612699,
   "band_list": [
+    {
+      "raw_hot": 2834998,
+      "num": 2834998,
+      "word": "快乐大本营",
+      "onboard_time": 1691030738,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1980686,
       "num": 652040,
@@ -19,6 +27,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1895090,
+      "num": 1895090,
+      "word": "最适合考公过渡的工作",
+      "onboard_time": 1691028458,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1545773,
       "num": 1545773,
       "word": "中图网 遭遇25年来毁灭性打击",
@@ -33,14 +49,6 @@
       "onboard_time": 1691020533,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1391984,
-      "num": 1391984,
-      "word": "最适合考公过渡的工作",
-      "onboard_time": 1691028458,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 1360342,
@@ -107,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 943387,
+      "num": 943387,
+      "word": "专家回应河北天津泄洪是为了保北京",
+      "onboard_time": 1691027858,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825088,
       "num": 681056,
       "word": "起猛了看见小夭相柳的儿子了",
@@ -137,6 +153,14 @@
       "onboard_time": 1691027018,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 728020,
+      "num": 728020,
+      "word": "一旦开始穿洞洞鞋背帆布包",
+      "onboard_time": 1691028339,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 723632,
@@ -235,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 610051,
-      "num": 610051,
-      "word": "一旦开始穿洞洞鞋背帆布包",
-      "onboard_time": 1691028339,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 607396,
       "num": 607396,
       "word": "夭璟原著结局",
@@ -275,14 +291,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 552005,
-      "num": 552005,
-      "word": "专家回应河北天津泄洪是为了保北京",
-      "onboard_time": 1691027858,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 540420,
       "num": 497851,
       "word": "法老 小精灵",
@@ -299,12 +307,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 523404,
+      "num": 241845,
+      "word": "原来50岁还要被催婚",
+      "onboard_time": 1691031701,
+      "rank": 30,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 514547,
       "num": 514547,
       "word": "卡努",
       "onboard_time": 1690989936,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493270,
+      "num": 493270,
+      "word": "夭璟船戏是自由发挥的",
+      "onboard_time": 1691029178,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 488315,
+      "num": 488315,
+      "word": "打工而已我又不是来改造自己的",
+      "onboard_time": 1691029476,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 470757,
@@ -403,6 +435,14 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 416184,
+      "num": 416184,
+      "word": "著名制片人邓细斌去世",
+      "onboard_time": 1691032002,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400363,
       "num": 400363,
       "word": "长相思热度",
@@ -427,11 +467,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346962,
-      "num": 346962,
-      "word": "夭璟船戏是自由发挥的",
-      "onboard_time": 1691029178,
-      "rank": 26,
+      "raw_hot": 348894,
+      "num": 348894,
+      "word": "邓为回复粉丝",
+      "onboard_time": 1691028458,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -440,14 +480,6 @@
       "word": "姬发",
       "onboard_time": 1690987177,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 333435,
-      "num": 333435,
-      "word": "邓为回复粉丝",
-      "onboard_time": 1691028458,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -489,6 +521,14 @@
       "onboard_time": 1691026358,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309494,
+      "num": 309494,
+      "word": "王俊凯王源易烊千玺今天又近了一步",
+      "onboard_time": 1691032419,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 306577,
@@ -569,14 +609,6 @@
       "onboard_time": 1691019930,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 290577,
-      "num": 290577,
-      "word": "打工而已我又不是来改造自己的",
-      "onboard_time": 1691029476,
-      "rank": 41,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 284906,
@@ -665,6 +697,14 @@
       "onboard_time": 1691025217,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242369,
+      "num": 242369,
+      "word": "丫丫生日坐在竹子上干饭",
+      "onboard_time": 1691032118,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241641,
@@ -779,6 +819,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 207134,
+      "num": 207134,
+      "word": "13岁特殊少年有一条228米专属道路",
+      "onboard_time": 1691032002,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206482,
       "num": 206482,
       "word": "几年的逆子是干不过几十年的逆子的",
@@ -819,12 +867,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201565,
+      "num": 201565,
+      "word": "闪暖开服",
+      "onboard_time": 1691032540,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 200860,
+      "num": 200860,
+      "word": "檀健次的演技",
+      "onboard_time": 1691027018,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189256,
       "num": 189256,
       "word": "闪耀暖暖",
       "onboard_time": 1691026478,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188038,
+      "num": 200503,
+      "word": "一拍即合的我们",
+      "onboard_time": 1691031459,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187085,
+      "num": 200294,
+      "word": "以前和公司的保洁大爷大妈关系很好",
+      "onboard_time": 1691032235,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 186841,
@@ -849,6 +929,14 @@
       "onboard_time": 1690979015,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168958,
+      "num": 198733,
+      "word": "seventeen沉浸式护肤",
+      "onboard_time": 1691031517,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166513,
