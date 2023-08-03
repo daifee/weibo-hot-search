@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691102038684,
+  "endTime": 1691104572086,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -3851,6 +3851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521624,
+      "num": 521624,
+      "word": "涿州市民避灾遇酒店涨价",
+      "onboard_time": 1691085018,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519960,
       "num": 519960,
       "word": "护士一把抱起80斤老人飞奔去抢救",
@@ -6883,6 +6891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266733,
+      "num": 160595,
+      "word": "投影仪卖不出去了",
+      "onboard_time": 1691081126,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 266481,
       "num": 249096,
       "word": "迪丽热巴素颜妆拍广告",
@@ -6937,14 +6953,6 @@
       "onboard_time": 1691044958,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264406,
-      "num": 138501,
-      "word": "投影仪卖不出去了",
-      "onboard_time": 1691081126,
-      "rank": 22,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 264281,
@@ -7739,11 +7747,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228125,
-      "num": 228125,
-      "word": "涿州市民避灾遇酒店涨价",
-      "onboard_time": 1691085018,
-      "rank": 30,
+      "raw_hot": 228019,
+      "num": 228019,
+      "word": "女子15年前地震平安产子涿州再脱险",
+      "onboard_time": 1691082503,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -7912,6 +7920,14 @@
       "word": "大禹与相柳",
       "onboard_time": 1690988857,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220267,
+      "num": 197079,
+      "word": "演技进步最快的演员",
+      "onboard_time": 1691104343,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -8273,6 +8289,14 @@
       "onboard_time": 1691043457,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206066,
+      "num": 206066,
+      "word": "小伙错过末班车舍不得花十几块元打车",
+      "onboard_time": 1691092632,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205916,
@@ -8745,6 +8769,14 @@
       "onboard_time": 1690957592,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 192886,
+      "num": 157637,
+      "word": "卡努登陆我国可能性逐渐减小",
+      "onboard_time": 1691101157,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192704,
@@ -9227,6 +9259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163736,
+      "num": 156065,
+      "word": "江苏一男子吃烧烤后感染戊肝",
+      "onboard_time": 1691103742,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163691,
       "num": 163691,
       "word": "爸爸当家直播",
@@ -9611,6 +9651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121859,
+      "num": 121859,
+      "word": "2个动作恢复颈部曲度",
+      "onboard_time": 1691103742,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121481,
       "num": 1633250,
       "word": "在成都的外国运动员跳广场舞吃串串香",
@@ -9673,14 +9721,6 @@
       "onboard_time": 1690857097,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117300,
-      "num": 117300,
-      "word": "女子15年前地震平安产子涿州再脱险",
-      "onboard_time": 1691082503,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117163,
@@ -9843,12 +9883,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 98655,
+      "num": 98655,
+      "word": "相柳还是进入了小夭的梦里",
+      "onboard_time": 1691104222,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98529,
       "num": 75923,
       "word": "孟子义嗑上头了",
       "onboard_time": 1691000417,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98423,
+      "num": 221624,
+      "word": "外国运动员在成都把攻略做到了极致",
+      "onboard_time": 1691070336,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97268,
@@ -9888,14 +9944,6 @@
       "word": "暴雨洪涝后如何做好个人健康防护",
       "onboard_time": 1690965873,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89732,
-      "num": 89732,
-      "word": "小伙错过末班车舍不得花十几块元打车",
-      "onboard_time": 1691092632,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -9971,6 +10019,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76829,
+      "num": 76829,
+      "word": "爱吃折耳根和香菜的都沉默了",
+      "onboard_time": 1691086756,
+      "rank": 40,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 68387,
+      "num": 68387,
+      "word": "是谁发明的摇摇奶盖啊",
+      "onboard_time": 1691103981,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 66997,
       "num": 81112,
       "word": "一P图我的手机就特别烫",
@@ -9985,14 +10049,6 @@
       "onboard_time": 1690994248,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 62029,
-      "num": 62029,
-      "word": "卡努登陆我国可能性逐渐减小",
-      "onboard_time": 1691101157,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61716,
@@ -10025,14 +10081,6 @@
       "onboard_time": 1690827078,
       "rank": 34,
       "category": "军事"
-    },
-    {
-      "raw_hot": 57556,
-      "num": 57556,
-      "word": "爱吃折耳根和香菜的都沉默了",
-      "onboard_time": 1691086756,
-      "rank": 40,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 56896,
@@ -10073,14 +10121,6 @@
       "onboard_time": 1691087595,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49992,
-      "num": 221624,
-      "word": "外国运动员在成都把攻略做到了极致",
-      "onboard_time": 1691070336,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44262,
