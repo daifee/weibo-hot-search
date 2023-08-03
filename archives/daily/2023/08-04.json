@@ -1,6 +1,6 @@
 {
   "startTime": 1691079780560,
-  "endTime": 1691087653594,
+  "endTime": 1691089991150,
   "band_list": [
     {
       "raw_hot": 1581374,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113130,
+      "num": 71814,
+      "word": "涿州市民避灾遇酒店涨价",
+      "onboard_time": 1691085018,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113015,
       "num": 141356,
       "word": "于适娜然互相反串妲己姬发",
@@ -425,14 +433,6 @@
       "onboard_time": 1691069195,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102126,
-      "num": 71814,
-      "word": "涿州市民避灾遇酒店涨价",
-      "onboard_time": 1691085018,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98312,
@@ -483,12 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50508,
+      "num": 50508,
+      "word": "内马尔 王者归来",
+      "onboard_time": 1691087595,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44123,
       "num": 71768,
       "word": "我的人间烟火 树立正能量",
       "onboard_time": 1691052455,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 30486,
+      "num": 30486,
+      "word": "爱吃折耳根和香菜的都沉默了",
+      "onboard_time": 1691086756,
+      "rank": 40,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 28800,
@@ -499,19 +515,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27427,
-      "num": 46133,
-      "word": "内马尔 王者归来",
-      "onboard_time": 1691087595,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 26821,
       "num": 221624,
       "word": "外国运动员在成都把攻略做到了极致",
       "onboard_time": 1691070336,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26125,
+      "num": 28944,
+      "word": "市监局回应市民避灾遇酒店涨价",
+      "onboard_time": 1691087655,
+      "rank": 44,
       "category": "社会新闻"
     }
   ],
