@@ -1,6 +1,6 @@
 {
   "startTime": 1691079780560,
-  "endTime": 1691086846882,
+  "endTime": 1691087653594,
   "band_list": [
     {
       "raw_hot": 1581374,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102126,
+      "num": 71814,
+      "word": "涿州市民避灾遇酒店涨价",
+      "onboard_time": 1691085018,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98312,
       "num": 141297,
       "word": "维金斯百分大战 取消",
@@ -435,15 +443,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87370,
-      "num": 71814,
-      "word": "涿州市民避灾遇酒店涨价",
-      "onboard_time": 1691085018,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79473,
+      "raw_hot": 79654,
       "num": 79473,
       "word": "田曦薇齐刘海卷发",
       "onboard_time": 1691084778,
@@ -489,6 +489,22 @@
       "onboard_time": 1691052455,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28800,
+      "num": 46141,
+      "word": "航拍暴雨后的涿州",
+      "onboard_time": 1691087595,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27427,
+      "num": 46133,
+      "word": "内马尔 王者归来",
+      "onboard_time": 1691087595,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 26821,
