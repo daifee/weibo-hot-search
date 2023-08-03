@@ -1,0 +1,410 @@
+{
+  "runTime": 1691057859741,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3773941,
+        "num": 3773941,
+        "word": "TFBOYS合体排练",
+        "onboard_time": 1691056360,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247465,
+        "num": 2656519,
+        "word": "洪水救援现场大哥高喊抱孩子的先上",
+        "onboard_time": 1691056237,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145774,
+        "num": 2311904,
+        "word": "全国多地救援队增援河北",
+        "onboard_time": 1691051015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2196049,
+        "num": 2196049,
+        "word": "我的人间烟火 树立正能量",
+        "onboard_time": 1691052455,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1944353,
+        "num": 1944353,
+        "word": "父亲去世欠20万继承人要还吗",
+        "onboard_time": 1691051077,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1520585,
+        "num": 1520585,
+        "word": "终于理解内蒙为什么不包邮了",
+        "onboard_time": 1691051977,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1033982,
+        "num": 1033982,
+        "word": "台风卡努被卡住了",
+        "onboard_time": 1691049456,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944506,
+        "num": 944506,
+        "word": "魏大勋衬衫上绣了蝴蝶",
+        "onboard_time": 1691055940,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 749652,
+        "num": 749652,
+        "word": "边伯贤入住汉南洞UNVillage",
+        "onboard_time": 1691054738,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665420,
+        "num": 665420,
+        "word": "邓为潮男上线",
+        "onboard_time": 1691053118,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204536,
+        "num": 640779,
+        "word": "四川熊猫长得都太有特点了",
+        "onboard_time": 1691056237,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1828693,
+        "num": 639583,
+        "word": "易烊千玺王源同一航班飞西安",
+        "onboard_time": 1691053476,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627392,
+        "num": 627392,
+        "word": "快乐大本营更名后掉粉40万",
+        "onboard_time": 1691034819,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590298,
+        "num": 590298,
+        "word": "檀健次工作室宣发审美",
+        "onboard_time": 1691046876,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54258,
+        "num": 574002,
+        "word": "这不是电影这是解放军真实演练",
+        "onboard_time": 1691056837,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558723,
+        "num": 558723,
+        "word": "收费站挨个发卡暴露应急能力不足问题",
+        "onboard_time": 1691053536,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447592,
+        "num": 447592,
+        "word": "拜托蒋依依是童星",
+        "onboard_time": 1691056176,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434776,
+        "num": 434776,
+        "word": "王一博岳阳",
+        "onboard_time": 1691054916,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42151,
+        "num": 385034,
+        "word": "小孩被卷车底众人抬车救起",
+        "onboard_time": 1691056360,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 372715,
+        "num": 372715,
+        "word": "长大后才真正读懂了这句诗",
+        "onboard_time": 1691051255,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 537391,
+        "num": 372109,
+        "word": "费曼 我不知道我要澄清什么",
+        "onboard_time": 1691055760,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496944,
+        "num": 369325,
+        "word": "漂流把一个月工资漂没了",
+        "onboard_time": 1691052756,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 484231,
+        "num": 367532,
+        "word": "从睡姿判断情侣关系",
+        "onboard_time": 1691052398,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 419285,
+        "num": 365091,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1691053898,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 413112,
+        "num": 363480,
+        "word": "网传涿州一男子打骂救援人员",
+        "onboard_time": 1691056237,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326872,
+        "num": 361051,
+        "word": "苏沫去不了TFBOYS演唱会了",
+        "onboard_time": 1691038121,
+        "rank": 25,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 383926,
+        "num": 358712,
+        "word": "鹿晗武汉演唱会接受部分退票需求",
+        "onboard_time": 1691055275,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357344,
+        "num": 357344,
+        "word": "张真源染发",
+        "onboard_time": 1691054315,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 82744,
+        "num": 345364,
+        "word": "能点亮多少光就发多少光",
+        "onboard_time": 1691056237,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 39694,
+        "num": 344354,
+        "word": "男子救人时遇难差几天他就满31岁",
+        "onboard_time": 1691057797,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343559,
+        "num": 343559,
+        "word": "最适合上班族做的副业",
+        "onboard_time": 1691056176,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328356,
+        "num": 328356,
+        "word": "邓为微博粉丝数破300万",
+        "onboard_time": 1691053834,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315553,
+        "num": 315553,
+        "word": "印度餐厅 玛莎拉味儿都很香",
+        "onboard_time": 1691055275,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 310492,
+        "num": 310492,
+        "word": "吴镇宇急需费曼澄清",
+        "onboard_time": 1691044775,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272015,
+        "num": 272015,
+        "word": "太原一醋厂用冰乙酸勾兑食醋销往全国",
+        "onboard_time": 1691043033,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 301223,
+        "num": 271870,
+        "word": "蒋依依没谈过恋爱",
+        "onboard_time": 1691046274,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269334,
+        "num": 269334,
+        "word": "气运联盟官宣胡宇桐退出",
+        "onboard_time": 1691057139,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255071,
+        "num": 255071,
+        "word": "日本女生每天花10元买下三套房",
+        "onboard_time": 1691042435,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254900,
+        "num": 254900,
+        "word": "张真源贺峻霖好像金角银角大王",
+        "onboard_time": 1691054677,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237925,
+        "num": 237925,
+        "word": "费翔 胸大的苦恼",
+        "onboard_time": 1691035779,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222642,
+        "num": 222642,
+        "word": "相柳角色号换头像了",
+        "onboard_time": 1691051734,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218549,
+        "num": 218549,
+        "word": "贵阳人均8块的火锅",
+        "onboard_time": 1691051856,
+        "rank": 41,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 205492,
+        "num": 205492,
+        "word": "封神训练营 传销",
+        "onboard_time": 1691041537,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205230,
+        "num": 205230,
+        "word": "爆笑的GOING SEVENTEEN飞镖游戏",
+        "onboard_time": 1691057019,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199597,
+        "num": 199597,
+        "word": "东北菜会教训每一个嘴硬的人",
+        "onboard_time": 1691045915,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197045,
+        "num": 197045,
+        "word": "男子合买彩票中790多万开奖没他",
+        "onboard_time": 1691045496,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193019,
+        "num": 193019,
+        "word": "潭柘寺 赞叹古人高超的地质勘查水准",
+        "onboard_time": 1691057557,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183663,
+        "num": 183663,
+        "word": "徐梦洁被吴镇宇凶哭了",
+        "onboard_time": 1691040816,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181896,
+        "num": 181896,
+        "word": "爷爷舍不得买鞋柜用冰箱装鞋",
+        "onboard_time": 1691038839,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109249,
+        "num": 177848,
+        "word": "大运会体操",
+        "onboard_time": 1691052098,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军#"
+    }
+  }
+}

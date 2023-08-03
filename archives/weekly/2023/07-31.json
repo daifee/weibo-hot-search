@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691055234509,
+  "endTime": 1691057859741,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -9,6 +9,14 @@
       "onboard_time": 1690816715,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3773941,
+      "num": 3773941,
+      "word": "TFBOYS合体排练",
+      "onboard_time": 1691056360,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 3282960,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2196049,
+      "num": 2196049,
+      "word": "我的人间烟火 树立正能量",
+      "onboard_time": 1691052455,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2113434,
       "num": 2113434,
       "word": "微信小绿书",
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1828693,
+      "num": 639583,
+      "word": "易烊千玺王源同一航班飞西安",
+      "onboard_time": 1691053476,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1802849,
       "num": 1525186,
       "word": "李玟大殓出殡",
@@ -513,14 +537,6 @@
       "onboard_time": 1690794032,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1645745,
-      "num": 1645745,
-      "word": "我的人间烟火 树立正能量",
-      "onboard_time": 1691052455,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1633951,
@@ -681,6 +697,14 @@
       "onboard_time": 1690980034,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1520585,
+      "num": 1520585,
+      "word": "终于理解内蒙为什么不包邮了",
+      "onboard_time": 1691051977,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 1488650,
@@ -889,14 +913,6 @@
       "onboard_time": 1690759945,
       "rank": 42,
       "category": "情感,时尚"
-    },
-    {
-      "raw_hot": 1314659,
-      "num": 1314659,
-      "word": "终于理解内蒙为什么不包邮了",
-      "onboard_time": 1691051977,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 1311669,
@@ -1113,14 +1129,6 @@
       "onboard_time": 1690964853,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1109401,
-      "num": 455659,
-      "word": "易烊千玺王源同一航班飞西安",
-      "onboard_time": 1691053476,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1103962,
@@ -1505,6 +1513,14 @@
       "onboard_time": 1690953098,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 944506,
+      "num": 944506,
+      "word": "魏大勋衬衫上绣了蝴蝶",
+      "onboard_time": 1691055940,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 944286,
@@ -2201,6 +2217,14 @@
       "onboard_time": 1690989156,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749652,
+      "num": 749652,
+      "word": "边伯贤入住汉南洞UNVillage",
+      "onboard_time": 1691054738,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 749190,
@@ -3219,6 +3243,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 558723,
+      "num": 558723,
+      "word": "收费站挨个发卡暴露应急能力不足问题",
+      "onboard_time": 1691053536,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558416,
       "num": 558416,
       "word": "叠纸亲女儿",
@@ -3387,6 +3419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 537391,
+      "num": 372109,
+      "word": "费曼 我不知道我要澄清什么",
+      "onboard_time": 1691055760,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536468,
       "num": 476231,
       "word": "相柳目送小夭被抱走",
@@ -3492,7 +3532,7 @@
     },
     {
       "raw_hot": 522949,
-      "num": 287365,
+      "num": 367532,
       "word": "从睡姿判断情侣关系",
       "onboard_time": 1691052398,
       "rank": 30,
@@ -3540,7 +3580,7 @@
     },
     {
       "raw_hot": 514748,
-      "num": 303844,
+      "num": 369325,
       "word": "漂流把一个月工资漂没了",
       "onboard_time": 1691052756,
       "rank": 21,
@@ -4091,6 +4131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 447592,
+      "num": 447592,
+      "word": "拜托蒋依依是童星",
+      "onboard_time": 1691056176,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 446768,
       "num": 446768,
       "word": "8月份十二星座的注意事项",
@@ -4169,6 +4217,14 @@
       "onboard_time": 1690894417,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 434776,
+      "num": 434776,
+      "word": "王一博岳阳",
+      "onboard_time": 1691054916,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 434548,
@@ -4339,6 +4395,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 419285,
+      "num": 397823,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1691053898,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 419205,
       "num": 406159,
       "word": "封神第一部票房破12亿",
@@ -4353,14 +4417,6 @@
       "onboard_time": 1690844723,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 418157,
-      "num": 397823,
-      "word": "时代少年团演唱会",
-      "onboard_time": 1691053898,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 416288,
@@ -4401,6 +4457,14 @@
       "onboard_time": 1691045915,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 413112,
+      "num": 363480,
+      "word": "网传涿州一男子打骂救援人员",
+      "onboard_time": 1691056237,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412002,
@@ -4731,6 +4795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383926,
+      "num": 358712,
+      "word": "鹿晗武汉演唱会接受部分退票需求",
+      "onboard_time": 1691055275,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 381086,
       "num": 381086,
       "word": "徐志胜杀我别用亲情刀",
@@ -4921,14 +4993,6 @@
       "onboard_time": 1690853734,
       "rank": 36,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 361133,
-      "num": 284183,
-      "word": "边伯贤入住汉南洞UNVillage",
-      "onboard_time": 1691054738,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 360895,
@@ -5163,6 +5227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 343559,
+      "num": 343559,
+      "word": "最适合上班族做的副业",
+      "onboard_time": 1691056176,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343485,
       "num": 338469,
       "word": "熊猫有时候真的人里人气",
@@ -5220,7 +5292,7 @@
     },
     {
       "raw_hot": 336911,
-      "num": 284055,
+      "num": 328356,
       "word": "邓为微博粉丝数破300万",
       "onboard_time": 1691053834,
       "rank": 40,
@@ -5307,14 +5379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327830,
-      "num": 280786,
-      "word": "王一博岳阳",
-      "onboard_time": 1691054916,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 327504,
       "num": 250159,
       "word": "有演技却没有爆火的演员",
@@ -5379,14 +5443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 323597,
-      "num": 323597,
-      "word": "收费站挨个发卡暴露应急能力不足问题",
-      "onboard_time": 1691053536,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323347,
       "num": 323347,
       "word": "鼻尖吻是迪丽热巴龚俊现场琢磨的",
@@ -5441,6 +5497,14 @@
       "onboard_time": 1690767691,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315553,
+      "num": 315553,
+      "word": "印度餐厅 玛莎拉味儿都很香",
+      "onboard_time": 1691055275,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 314652,
@@ -6243,6 +6307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269334,
+      "num": 269334,
+      "word": "气运联盟官宣胡宇桐退出",
+      "onboard_time": 1691057139,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268241,
       "num": 242802,
       "word": "到底是谁逼小夭亲他",
@@ -6523,6 +6595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254900,
+      "num": 254900,
+      "word": "张真源贺峻霖好像金角银角大王",
+      "onboard_time": 1691054677,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254563,
       "num": 254563,
       "word": "北京解除暴雨预警信号",
@@ -6633,6 +6713,14 @@
       "onboard_time": 1690804354,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247465,
+      "num": 2656519,
+      "word": "洪水救援现场大哥高喊抱孩子的先上",
+      "onboard_time": 1691056237,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247239,
@@ -7187,6 +7275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218549,
+      "num": 218549,
+      "word": "贵阳人均8块的火锅",
+      "onboard_time": 1691051856,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 218431,
       "num": 218431,
       "word": "涿州洪水亲历者称泄洪区村子淹成海",
@@ -7329,14 +7425,6 @@
       "onboard_time": 1691035904,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211847,
-      "num": 211847,
-      "word": "贵阳人均8块的火锅",
-      "onboard_time": 1691051856,
-      "rank": 42,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 211570,
@@ -7523,6 +7611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205230,
+      "num": 205230,
+      "word": "爆笑的GOING SEVENTEEN飞镖游戏",
+      "onboard_time": 1691057019,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205021,
       "num": 212003,
       "word": "逆水寒",
@@ -7537,6 +7633,14 @@
       "onboard_time": 1690881272,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204536,
+      "num": 640779,
+      "word": "四川熊猫长得都太有特点了",
+      "onboard_time": 1691056237,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204258,
@@ -7577,14 +7681,6 @@
       "onboard_time": 1691038720,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203552,
-      "num": 203552,
-      "word": "张真源贺峻霖好像金角银角大王",
-      "onboard_time": 1691054677,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 203360,
@@ -7905,6 +8001,14 @@
       "onboard_time": 1690879712,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193019,
+      "num": 193019,
+      "word": "潭柘寺 赞叹古人高超的地质勘查水准",
+      "onboard_time": 1691057557,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192958,
@@ -8276,7 +8380,7 @@
     },
     {
       "raw_hot": 168231,
-      "num": 1695571,
+      "num": 2311904,
       "word": "全国多地救援队增援河北",
       "onboard_time": 1691051015,
       "rank": 2,
@@ -8963,6 +9067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 82744,
+      "num": 345364,
+      "word": "能点亮多少光就发多少光",
+      "onboard_time": 1691056237,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 66997,
       "num": 81112,
       "word": "一P图我的手机就特别烫",
@@ -9019,6 +9131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54258,
+      "num": 574002,
+      "word": "这不是电影这是解放军真实演练",
+      "onboard_time": 1691056837,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53366,
       "num": 553120,
       "word": "到人民群众需要的地方去",
@@ -9067,11 +9187,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42151,
+      "num": 385034,
+      "word": "小孩被卷车底众人抬车救起",
+      "onboard_time": 1691056360,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 41603,
       "num": 1796243,
       "word": "青春主场梦想正当燃",
       "onboard_time": 1690860634,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39694,
+      "num": 344354,
+      "word": "男子救人时遇难差几天他就满31岁",
+      "onboard_time": 1691057797,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
