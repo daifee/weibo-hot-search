@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691033621818,
+  "endTime": 1691036371070,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -467,6 +467,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1367745,
+      "num": 1367745,
+      "word": "晋江文学 17年分水岭",
+      "onboard_time": 1691034279,
+      "rank": 3,
+      "category": "作品衍生,情感"
+    },
+    {
+      "raw_hot": 1361509,
+      "num": 1001089,
+      "word": "专家回应河北天津泄洪是为了保北京",
+      "onboard_time": 1691027858,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1351204,
       "num": 1351204,
       "word": "长相思10年前就开始筹备了",
@@ -747,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1015220,
+      "num": 1015220,
+      "word": "原来50岁还要被催婚",
+      "onboard_time": 1691031701,
+      "rank": 30,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 1009982,
       "num": 944640,
       "word": "北京房山的洪水变化过程",
@@ -779,20 +803,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1001089,
-      "num": 1001089,
-      "word": "专家回应河北天津泄洪是为了保北京",
-      "onboard_time": 1691027858,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 997686,
       "num": 942534,
       "word": "封神发声明抵制偷漏瞒报票房行为",
       "onboard_time": 1690948597,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 985837,
+      "num": 581222,
+      "word": "魏大勋 和弟弟浅跳一下",
+      "onboard_time": 1691033919,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 982449,
@@ -865,14 +889,6 @@
       "onboard_time": 1690953098,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 944871,
-      "num": 629313,
-      "word": "原来50岁还要被催婚",
-      "onboard_time": 1691031701,
-      "rank": 30,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 941086,
@@ -955,6 +971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 918041,
+      "num": 918041,
+      "word": "王俊凯王源易烊千玺今天又近了一步",
+      "onboard_time": 1691032419,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 917159,
       "num": 577674,
       "word": "四川一公职人员被曝涉不雅聊天",
@@ -977,6 +1001,14 @@
       "onboard_time": 1690952676,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 911919,
+      "num": 578145,
+      "word": "化妆师吴淼说杨洋本人真的不矮",
+      "onboard_time": 1691034520,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 905621,
@@ -1107,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 838807,
+      "num": 838807,
+      "word": "迪丽热巴回应综艺计划",
+      "onboard_time": 1691034219,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 838609,
       "num": 377042,
       "word": "1岁宝宝半夜栽进床边水桶溺亡",
@@ -1153,14 +1193,6 @@
       "onboard_time": 1690897898,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 815722,
-      "num": 815722,
-      "word": "王俊凯王源易烊千玺今天又近了一步",
-      "onboard_time": 1691032419,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 814224,
@@ -1739,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634798,
+      "num": 572233,
+      "word": "限时吃5块松饼上海一店被罚3万",
+      "onboard_time": 1691034160,
+      "rank": 13,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 632669,
       "num": 632669,
       "word": "姬发给妲己递簪子是于适设计的",
@@ -1939,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589248,
+      "num": 589248,
+      "word": "TFBOYS十年之约仅剩3天",
+      "onboard_time": 1691032781,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587832,
       "num": 643853,
       "word": "杭州动物园的马来熊在国外火了",
@@ -1953,6 +2001,14 @@
       "onboard_time": 1690892553,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 577512,
+      "num": 327812,
+      "word": "费翔 胸大的苦恼",
+      "onboard_time": 1691035779,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 574573,
@@ -1987,6 +2043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570462,
+      "num": 570462,
+      "word": "雪滴花cp彻底be",
+      "onboard_time": 1691033620,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 569842,
       "num": 569842,
       "word": "到手的驾照还没捂热就废了",
@@ -2009,6 +2073,14 @@
       "onboard_time": 1690988258,
       "rank": 28,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 562350,
+      "num": 562350,
+      "word": "快乐大本营官微改名湖南卫视综艺",
+      "onboard_time": 1691032719,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 557889,
@@ -2097,6 +2169,14 @@
       "onboard_time": 1690975173,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 534064,
+      "num": 398108,
+      "word": "快乐大本营更名后掉粉40万",
+      "onboard_time": 1691034819,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 533864,
@@ -2291,14 +2371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 496219,
-      "num": 496219,
-      "word": "TFBOYS十年之约仅剩3天",
-      "onboard_time": 1691032781,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 493594,
       "num": 493594,
       "word": "张晚意檀健次名字的由来",
@@ -2329,14 +2401,6 @@
       "onboard_time": 1690954174,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 489279,
-      "num": 489279,
-      "word": "快乐大本营官微改名湖南卫视综艺",
-      "onboard_time": 1691032719,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 488890,
@@ -2467,6 +2531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462276,
+      "num": 393473,
+      "word": "只有涂山璟没有妹妹",
+      "onboard_time": 1691033437,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460269,
       "num": 400750,
       "word": "e人和i人工作捅娄子后的区别",
@@ -2587,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449892,
+      "num": 348313,
+      "word": "Somi概念",
+      "onboard_time": 1691035360,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 449561,
       "num": 449561,
       "word": "常温超导若实现iPhone可匹敌量子计算机",
@@ -2617,6 +2697,14 @@
       "onboard_time": 1690847251,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 445019,
+      "num": 347750,
+      "word": "这个间距很难说不是P的",
+      "onboard_time": 1691032838,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 444567,
@@ -3219,6 +3307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352385,
+      "num": 352385,
+      "word": "涿州积水区水深近6米",
+      "onboard_time": 1691019388,
+      "rank": 25,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 349810,
       "num": 1214684,
       "word": "此前暴雨中失联的9人继续留守电站",
@@ -3249,14 +3345,6 @@
       "onboard_time": 1690903416,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346761,
-      "num": 346761,
-      "word": "这个间距很难说不是P的",
-      "onboard_time": 1691032838,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 346680,
@@ -3355,12 +3443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331338,
-      "num": 331338,
-      "word": "涿州积水区水深近6米",
-      "onboard_time": 1691019388,
-      "rank": 25,
-      "category": "社会新闻,自然"
+      "raw_hot": 331376,
+      "num": 331376,
+      "word": "丫丫生日坐在竹子上干饭",
+      "onboard_time": 1691032118,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326944,
@@ -3747,6 +3835,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 289927,
+      "num": 289927,
+      "word": "大熊猫丫丫23岁相当于人类82岁",
+      "onboard_time": 1691035661,
+      "rank": 34,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 289906,
       "num": 277385,
       "word": "成毅是2G网不是避世了",
@@ -3777,6 +3873,14 @@
       "onboard_time": 1690893694,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287702,
+      "num": 287702,
+      "word": "夭璟吻戏完整版",
+      "onboard_time": 1691035119,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 287679,
@@ -3851,6 +3955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280551,
+      "num": 280551,
+      "word": "王源一直在换发色",
+      "onboard_time": 1691035238,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 280415,
       "num": 280415,
       "word": "河南三支一扶",
@@ -3867,12 +3979,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279559,
-      "num": 279559,
-      "word": "丫丫生日坐在竹子上干饭",
-      "onboard_time": 1691032118,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 278917,
+      "num": 253810,
+      "word": "迪丽热巴让龚俊跳恐龙扛狼",
+      "onboard_time": 1691034819,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 278172,
@@ -3995,6 +4107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266481,
+      "num": 249096,
+      "word": "迪丽热巴素颜妆拍广告",
+      "onboard_time": 1691034581,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 265835,
       "num": 265835,
       "word": "网友P的檀健次女装",
@@ -4105,6 +4225,14 @@
       "onboard_time": 1690794032,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 254964,
+      "num": 254964,
+      "word": "K396年轻乘务员说自己是党员不能慌",
+      "onboard_time": 1691034101,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254563,
@@ -4225,6 +4353,14 @@
       "onboard_time": 1690830074,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246222,
+      "num": 246222,
+      "word": "日本小哥不工作专门接受别人请客吃饭",
+      "onboard_time": 1691035960,
+      "rank": 43,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 246194,
@@ -4571,12 +4707,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221112,
-      "num": 221112,
-      "word": "只有涂山璟没有妹妹",
-      "onboard_time": 1691033437,
-      "rank": 36,
+      "raw_hot": 222503,
+      "num": 222503,
+      "word": "巨齿鲨2",
+      "onboard_time": 1691035179,
+      "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222469,
+      "num": 222469,
+      "word": "抹茶芝士奶豆腐",
+      "onboard_time": 1691034520,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 220972,
@@ -4689,6 +4833,14 @@
       "onboard_time": 1690943735,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212086,
+      "num": 212086,
+      "word": "孤注一掷看得惊心动魄",
+      "onboard_time": 1691035904,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 211570,
@@ -5171,6 +5323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185910,
+      "num": 211491,
+      "word": "及时发疯真的很重要",
+      "onboard_time": 1691036142,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 184540,
       "num": 2030874,
       "word": "当记者采访到社牛外国运动员",
@@ -5313,6 +5473,14 @@
       "onboard_time": 1690809814,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168461,
+      "num": 367036,
+      "word": "vivo领跑中国手机市场新格局",
+      "onboard_time": 1691033201,
+      "rank": 31,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 166252,
@@ -5563,14 +5731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121451,
-      "num": 279308,
-      "word": "vivo领跑中国手机市场新格局",
-      "onboard_time": 1691033201,
-      "rank": 31,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 121203,
       "num": 121203,
       "word": "河北涿州救援力量薄弱",
@@ -5641,6 +5801,14 @@
       "onboard_time": 1690948836,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108866,
+      "num": 1376211,
+      "word": "有人民的地方就有子弟兵",
+      "onboard_time": 1691033382,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107781,
@@ -5912,14 +6080,6 @@
       "word": "有一种友谊是相差46岁的忘年交",
       "onboard_time": 1690924032,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14307,
-      "num": 1076334,
-      "word": "有人民的地方就有子弟兵",
-      "onboard_time": 1691033382,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
