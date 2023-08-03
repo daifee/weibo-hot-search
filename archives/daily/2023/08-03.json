@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691072149754,
+  "endTime": 1691073230283,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1037022,
+      "num": 1037022,
+      "word": "吴京分享月瘦10斤减肥法",
+      "onboard_time": 1691070938,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1025619,
       "num": 1025619,
       "word": "原来50岁还要被催婚",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 895901,
-      "num": 313710,
+      "num": 317677,
       "word": "第一次见这种主卧卫生间",
       "onboard_time": 1691066432,
       "rank": 30,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 736497,
+      "num": 445006,
+      "word": "郁可唯 唱一次长相思心疼一次小夭",
+      "onboard_time": 1691071718,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 728059,
       "num": 728059,
       "word": "嫁人当嫁肖春生",
@@ -523,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 697752,
+      "num": 431327,
+      "word": "我才不会在男人身上自讨苦吃",
+      "onboard_time": 1691070097,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 688968,
       "num": 688968,
       "word": "著名制片人邓细斌去世",
@@ -537,14 +561,6 @@
       "onboard_time": 1691021557,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 687314,
-      "num": 463252,
-      "word": "吴京分享月瘦10斤减肥法",
-      "onboard_time": 1691070938,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 683342,
@@ -780,19 +796,11 @@
     },
     {
       "raw_hot": 583691,
-      "num": 301668,
+      "num": 314179,
       "word": "这猫怎么长home键",
       "onboard_time": 1691066497,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 574717,
-      "num": 316413,
-      "word": "我才不会在男人身上自讨苦吃",
-      "onboard_time": 1691070097,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 573359,
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 554273,
-      "num": 302695,
+      "num": 316790,
       "word": "鸿星尔克在涿州发放救灾物资",
       "onboard_time": 1691070455,
       "rank": 22,
@@ -1067,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462478,
+      "num": 312897,
+      "word": "邓为数据涨势迅猛",
+      "onboard_time": 1691070997,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 462276,
       "num": 393473,
       "word": "只有涂山璟没有妹妹",
@@ -1080,14 +1096,6 @@
       "word": "长相思一个饭桌7场戏",
       "onboard_time": 1691045318,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 458107,
-      "num": 297102,
-      "word": "邓为数据涨势迅猛",
-      "onboard_time": 1691070997,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -1121,6 +1129,14 @@
       "onboard_time": 1691035360,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 446694,
+      "num": 446694,
+      "word": "河南大哥涿州街头4小时做13锅烩面",
+      "onboard_time": 1691072501,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 445019,
@@ -1260,7 +1276,7 @@
     },
     {
       "raw_hot": 411532,
-      "num": 295577,
+      "num": 311694,
       "word": "徐志胜跳操",
       "onboard_time": 1691069195,
       "rank": 35,
@@ -1443,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335364,
-      "num": 294327,
-      "word": "郁可唯 唱一次长相思心疼一次小夭",
-      "onboard_time": 1691071718,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 334387,
       "num": 334387,
       "word": "赵雷爆红背后",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1691032118,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324686,
+      "num": 306799,
+      "word": "龚俊炫耀收到周杰伦周边",
+      "onboard_time": 1691069677,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 322538,
@@ -1787,12 +1803,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 268146,
-      "num": 268146,
-      "word": "龚俊炫耀收到周杰伦周边",
-      "onboard_time": 1691069677,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 269750,
+      "num": 227860,
+      "word": "涂山璟 克制之外的东西",
+      "onboard_time": 1691072501,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 266828,
@@ -1964,7 +1980,7 @@
     },
     {
       "raw_hot": 240597,
-      "num": 213381,
+      "num": 228034,
       "word": "帝梓元韩烨重逢",
       "onboard_time": 1691067274,
       "rank": 41,
@@ -2363,6 +2379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201249,
+      "num": 228180,
+      "word": "这令人窒息的爱啊",
+      "onboard_time": 1691068834,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200860,
       "num": 200860,
       "word": "檀健次的演技",
@@ -2425,6 +2449,14 @@
       "onboard_time": 1691036142,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 196501,
+      "num": 228075,
+      "word": "潜行者",
+      "onboard_time": 1691072437,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 196459,
@@ -2507,14 +2539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187679,
-      "num": 204826,
-      "word": "这令人窒息的爱啊",
-      "onboard_time": 1691068834,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 186841,
       "num": 203491,
       "word": "封神宇宙",
@@ -2545,6 +2569,14 @@
       "onboard_time": 1691068956,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182577,
+      "num": 228007,
+      "word": "幼儿园小朋友表演的小品",
+      "onboard_time": 1691072860,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 180106,
@@ -2643,12 +2675,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163274,
+      "num": 227710,
+      "word": "受灾群众的诺亚方舟",
+      "onboard_time": 1691072978,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161787,
       "num": 202599,
       "word": "热烈路演",
       "onboard_time": 1690993528,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160786,
+      "num": 227697,
+      "word": "普通人的生活是什么",
+      "onboard_time": 1691072319,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 158991,
@@ -2697,6 +2745,14 @@
       "onboard_time": 1690974992,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 146336,
+      "num": 227576,
+      "word": "十年前和现在做的手工",
+      "onboard_time": 1691073160,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 143908,
@@ -2859,6 +2915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110012,
+      "num": 1151756,
+      "word": "暴雨洪涝后饮食安全指南",
+      "onboard_time": 1691070455,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108866,
       "num": 1420244,
       "word": "有人民的地方就有子弟兵",
@@ -2929,14 +2993,6 @@
       "onboard_time": 1691056237,
       "rank": 28,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 78812,
-      "num": 1151756,
-      "word": "暴雨洪涝后饮食安全指南",
-      "onboard_time": 1691070455,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66957,
