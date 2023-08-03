@@ -1,10 +1,10 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691029770322,
+  "endTime": 1691030381648,
   "band_list": [
     {
       "raw_hot": 1980686,
-      "num": 645165,
+      "num": 652040,
       "word": "殷世航问凭什么别人可以垫箱子出道",
       "onboard_time": 1691019809,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1691020533,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1391984,
+      "num": 1391984,
+      "word": "最适合考公过渡的工作",
+      "onboard_time": 1691028458,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 1360342,
@@ -83,27 +91,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1041563,
+      "num": 1041563,
+      "word": "雪滴花",
+      "onboard_time": 1691028699,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1005149,
       "num": 1005149,
       "word": "原著里小夭是自己游回去的",
       "onboard_time": 1691021676,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 933238,
-      "num": 637438,
-      "word": "最适合考公过渡的工作",
-      "onboard_time": 1691028458,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 861506,
-      "num": 861506,
-      "word": "雪滴花",
-      "onboard_time": 1691028699,
-      "rank": 3,
       "category": "影视"
     },
     {
@@ -147,6 +147,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 717083,
+      "num": 717083,
+      "word": "北京动物园",
+      "onboard_time": 1691027138,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716594,
       "num": 716594,
       "word": "丫丫今天过生日",
@@ -185,14 +193,6 @@
       "onboard_time": 1691018544,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 655995,
-      "num": 655995,
-      "word": "北京动物园",
-      "onboard_time": 1691027138,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 651196,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610051,
+      "num": 610051,
+      "word": "一旦开始穿洞洞鞋背帆布包",
+      "onboard_time": 1691028339,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 607396,
       "num": 607396,
       "word": "夭璟原著结局",
@@ -267,6 +275,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 552005,
+      "num": 552005,
+      "word": "专家回应河北天津泄洪是为了保北京",
+      "onboard_time": 1691027858,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540420,
       "num": 497851,
       "word": "法老 小精灵",
@@ -289,22 +305,6 @@
       "onboard_time": 1690989936,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507153,
-      "num": 507153,
-      "word": "专家回应河北天津泄洪是为了保北京",
-      "onboard_time": 1691027858,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 471867,
-      "num": 471867,
-      "word": "一旦开始穿洞洞鞋背帆布包",
-      "onboard_time": 1691028339,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 470757,
@@ -427,11 +427,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346962,
+      "num": 346962,
+      "word": "夭璟船戏是自由发挥的",
+      "onboard_time": 1691029178,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340157,
       "num": 340157,
       "word": "姬发",
       "onboard_time": 1690987177,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 333435,
+      "num": 333435,
+      "word": "邓为回复粉丝",
+      "onboard_time": 1691028458,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -467,27 +483,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 313615,
-      "num": 313615,
-      "word": "邓为回复粉丝",
-      "onboard_time": 1691028458,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 310188,
       "num": 305066,
       "word": "邓为实绩图",
       "onboard_time": 1691026358,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 306718,
-      "num": 306718,
-      "word": "夭璟船戏是自由发挥的",
-      "onboard_time": 1691029178,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -571,6 +571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 290577,
+      "num": 290577,
+      "word": "打工而已我又不是来改造自己的",
+      "onboard_time": 1691029476,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 284906,
       "num": 284906,
       "word": "发现单词笔的痕迹是一只蝴蝶",
@@ -585,6 +593,14 @@
       "onboard_time": 1690983578,
       "rank": 23,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 279913,
+      "num": 279913,
+      "word": "长相思三个男人的表情",
+      "onboard_time": 1691028398,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 271897,
@@ -611,20 +627,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258011,
+      "num": 258011,
+      "word": "在导师眼里我的毕业论文就是这样",
+      "onboard_time": 1691029299,
+      "rank": 36,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 253943,
       "num": 253943,
       "word": "王鹤棣西安",
       "onboard_time": 1690987779,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252167,
-      "num": 252167,
-      "word": "在导师眼里我的毕业论文就是这样",
-      "onboard_time": 1691029299,
-      "rank": 36,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 251572,
@@ -683,6 +699,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 231232,
+      "num": 231232,
+      "word": "冰摇桃桃乌龙茶",
+      "onboard_time": 1691029359,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 230406,
       "num": 230406,
       "word": "我的夜生活居然只是熬夜玩手机",
@@ -715,14 +739,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 222620,
-      "num": 222620,
-      "word": "打工而已我又不是来改造自己的",
-      "onboard_time": 1691029476,
-      "rank": 41,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 218464,
       "num": 218464,
       "word": "K396次乘客家属讲述脱困经过",
@@ -737,14 +753,6 @@
       "onboard_time": 1690979137,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212618,
-      "num": 212618,
-      "word": "冰摇桃桃乌龙茶",
-      "onboard_time": 1691029359,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 211462,
@@ -865,6 +873,14 @@
       "onboard_time": 1690958913,
       "rank": 38,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 154518,
+      "num": 154518,
+      "word": "相柳在毛球背上写无梦之",
+      "onboard_time": 1691030076,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 150620,
@@ -1036,7 +1052,7 @@
     },
     {
       "raw_hot": 31207,
-      "num": 1265920,
+      "num": 1392238,
       "word": "暴雨洪涝后如何做好个人健康防护",
       "onboard_time": 1690965873,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1691030381648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1792990,
+        "num": 1792990,
+        "word": "张艺兴 流量没什么意义",
+        "onboard_time": 1691024917,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1395769,
+        "num": 1395769,
+        "word": "中图网 遭遇25年来毁灭性打击",
+        "onboard_time": 1691020414,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25752,
+        "num": 1392238,
+        "word": "暴雨洪涝后如何做好个人健康防护",
+        "onboard_time": 1690965873,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1391984,
+        "num": 1391984,
+        "word": "最适合考公过渡的工作",
+        "onboard_time": 1691028458,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1041563,
+        "num": 1041563,
+        "word": "雪滴花",
+        "onboard_time": 1691028699,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 796448,
+        "num": 796448,
+        "word": "女书记哽咽着说没有人比中国人更团结",
+        "onboard_time": 1691020533,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727032,
+        "num": 727032,
+        "word": "张大大问毛不易上岸了吗",
+        "onboard_time": 1691027018,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717083,
+        "num": 717083,
+        "word": "北京动物园",
+        "onboard_time": 1691027138,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691477,
+        "num": 691477,
+        "word": "丫丫今天过生日",
+        "onboard_time": 1691026054,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658387,
+        "num": 658387,
+        "word": "原著里小夭是自己游回去的",
+        "onboard_time": 1691021676,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 989043,
+        "num": 652040,
+        "word": "殷世航问凭什么别人可以垫箱子出道",
+        "onboard_time": 1691019809,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 612115,
+        "num": 612115,
+        "word": "还有3到4亿立方水要过境涿州",
+        "onboard_time": 1691027259,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610051,
+        "num": 610051,
+        "word": "一旦开始穿洞洞鞋背帆布包",
+        "onboard_time": 1691028339,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 599072,
+        "num": 599072,
+        "word": "梅西",
+        "onboard_time": 1691027676,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 586694,
+        "num": 586694,
+        "word": "18岁女孩被割400刀法院判轻伤",
+        "onboard_time": 1690988077,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552005,
+        "num": 552005,
+        "word": "专家回应河北天津泄洪是为了保北京",
+        "onboard_time": 1691027858,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385694,
+        "num": 385694,
+        "word": "美国8岁女孩失踪48年悬案",
+        "onboard_time": 1691024074,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384457,
+        "num": 384457,
+        "word": "堂堂大王姬为什么不能拥有4个男人",
+        "onboard_time": 1691021736,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377292,
+        "num": 377292,
+        "word": "上海火车站一男子携带大量淫秽光碟",
+        "onboard_time": 1691023117,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346962,
+        "num": 346962,
+        "word": "夭璟船戏是自由发挥的",
+        "onboard_time": 1691029178,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359383,
+        "num": 340534,
+        "word": "人脸识别时一定要穿上衣服",
+        "onboard_time": 1691019026,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 333435,
+        "num": 333435,
+        "word": "邓为回复粉丝",
+        "onboard_time": 1691028458,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312875,
+        "num": 312875,
+        "word": "谈恋爱一定不要和另一半撒谎",
+        "onboard_time": 1691023895,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 327113,
+        "num": 309907,
+        "word": "起猛了看见小夭相柳的儿子了",
+        "onboard_time": 1691019570,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299559,
+        "num": 299559,
+        "word": "刘浩存于适早期合影",
+        "onboard_time": 1691018544,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293200,
+        "num": 293200,
+        "word": "原来生命真的会自己找到出路",
+        "onboard_time": 1691022277,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290577,
+        "num": 290577,
+        "word": "打工而已我又不是来改造自己的",
+        "onboard_time": 1691029476,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 288308,
+        "num": 288308,
+        "word": "绝味幼儿园",
+        "onboard_time": 1691028219,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 282100,
+        "num": 282100,
+        "word": "猫妈妈原来真的会教小猫说话啊",
+        "onboard_time": 1691025758,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 279913,
+        "num": 279913,
+        "word": "长相思三个男人的表情",
+        "onboard_time": 1691028398,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273360,
+        "num": 273360,
+        "word": "小脚趾指甲分两瓣是什么说法",
+        "onboard_time": 1691021496,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268694,
+        "num": 268694,
+        "word": "涿州",
+        "onboard_time": 1690983101,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266009,
+        "num": 266009,
+        "word": "黄子韬说只有马伯骞能比他帅",
+        "onboard_time": 1691026837,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262306,
+        "num": 262306,
+        "word": "丫丫干饭名场面",
+        "onboard_time": 1691024432,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258011,
+        "num": 258011,
+        "word": "在导师眼里我的毕业论文就是这样",
+        "onboard_time": 1691029299,
+        "rank": 34,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 243354,
+        "num": 243354,
+        "word": "涿州积水区水深近6米",
+        "onboard_time": 1691019388,
+        "rank": 35,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 235896,
+        "num": 235896,
+        "word": "大鹏回复徐峥",
+        "onboard_time": 1691022034,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231232,
+        "num": 231232,
+        "word": "冰摇桃桃乌龙茶",
+        "onboard_time": 1691029359,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 222536,
+        "num": 222536,
+        "word": "辣椒不能封闭在矿泉水瓶里",
+        "onboard_time": 1691021557,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222209,
+        "num": 222209,
+        "word": "家长头一次跟孩子这么陌生",
+        "onboard_time": 1691023718,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 212362,
+        "num": 212362,
+        "word": "驾校教练被曝猥亵女学员9分钟",
+        "onboard_time": 1690989156,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212075,
+        "num": 212075,
+        "word": "河北蓄滞洪区退水大约需一个月",
+        "onboard_time": 1691027319,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200274,
+        "num": 200274,
+        "word": "卡努",
+        "onboard_time": 1690989936,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197444,
+        "num": 197444,
+        "word": "never又能见王一博了",
+        "onboard_time": 1691018725,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188795,
+        "num": 188795,
+        "word": "佳木斯建方舱医院真相",
+        "onboard_time": 1691021855,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188214,
+        "num": 188214,
+        "word": "长相思非演员粉的观众都是被什么吸引来",
+        "onboard_time": 1691026054,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183307,
+        "num": 183307,
+        "word": "保安让王源出示自己演唱会的工作证",
+        "onboard_time": 1690983636,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173981,
+        "num": 173981,
+        "word": "发现单词笔的痕迹是一只蝴蝶",
+        "onboard_time": 1691023777,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170464,
+        "num": 170464,
+        "word": "莲花楼角丽谯女王发言",
+        "onboard_time": 1691025334,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154518,
+        "num": 154518,
+        "word": "相柳在毛球背上写无梦之",
+        "onboard_time": 1691030076,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军#"
+    }
+  }
+}
