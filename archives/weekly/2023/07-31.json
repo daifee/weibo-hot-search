@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691061233464,
+  "endTime": 1691062430014,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1827196,
+      "num": 1587003,
+      "word": "费曼 我不知道我要澄清什么",
+      "onboard_time": 1691055760,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1802849,
       "num": 1525186,
       "word": "李玟大殓出殡",
@@ -609,14 +617,6 @@
       "onboard_time": 1690886194,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1587003,
-      "num": 1587003,
-      "word": "费曼 我不知道我要澄清什么",
-      "onboard_time": 1691055760,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 1586323,
@@ -2139,6 +2139,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 762108,
+      "num": 380675,
+      "word": "建议女孩子别用铁的鲨鱼夹",
+      "onboard_time": 1691061273,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 759519,
       "num": 759519,
       "word": "阿念 玟小六",
@@ -2312,6 +2320,14 @@
       "word": "电影封神邓婵玉扮演者训练动图",
       "onboard_time": 1690957056,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 728059,
+      "num": 728059,
+      "word": "嫁人当嫁肖春生",
+      "onboard_time": 1691060133,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -2811,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626347,
+      "num": 289575,
+      "word": "中图网 25元一斤随便带走",
+      "onboard_time": 1691061392,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622877,
       "num": 622877,
       "word": "黄子韬去鹿晗演唱会了",
@@ -3097,6 +3121,14 @@
       "onboard_time": 1691032781,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 588665,
+      "num": 588665,
+      "word": "wbg首发",
+      "onboard_time": 1691060430,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 588211,
@@ -3795,6 +3827,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 485728,
+      "num": 373807,
+      "word": "河北涿州架起高空基站",
+      "onboard_time": 1691060614,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482172,
       "num": 452567,
       "word": "张杰鹿晗黄子韬今日营业照",
@@ -4251,6 +4291,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 435258,
+      "num": 435258,
+      "word": "防风邶来了",
+      "onboard_time": 1691060796,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434776,
       "num": 434776,
       "word": "王一博岳阳",
@@ -4368,6 +4416,14 @@
       "word": "王一博单手抛手机差点掉地上",
       "onboard_time": 1690899700,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 425969,
+      "num": 425969,
+      "word": "此沙",
+      "onboard_time": 1691059897,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -4603,14 +4659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 401856,
-      "num": 373807,
-      "word": "河北涿州架起高空基站",
-      "onboard_time": 1691060614,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401249,
       "num": 326615,
       "word": "李飞开直播吧",
@@ -4633,6 +4681,14 @@
       "onboard_time": 1691038361,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400096,
+      "num": 400096,
+      "word": "涂山璟退婚",
+      "onboard_time": 1691062054,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 399877,
@@ -4835,14 +4891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386367,
-      "num": 386367,
-      "word": "此沙",
-      "onboard_time": 1691059897,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 385780,
       "num": 385780,
       "word": "文俊辉和成员们一起看独家童话的反应",
@@ -5033,14 +5081,6 @@
       "onboard_time": 1691048198,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 362109,
-      "num": 362109,
-      "word": "wbg首发",
-      "onboard_time": 1691060430,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 361492,
@@ -5315,6 +5355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342942,
+      "num": 342942,
+      "word": "翻到了小学写TF的笔记本",
+      "onboard_time": 1691060675,
+      "rank": 41,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 342779,
       "num": 342779,
       "word": "不要轻易给考研搭子发李钟硕",
@@ -5335,14 +5383,6 @@
       "num": 342566,
       "word": "长相思端水剧照",
       "onboard_time": 1690775194,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 342193,
-      "num": 342193,
-      "word": "嫁人当嫁肖春生",
-      "onboard_time": 1691060133,
       "rank": 27,
       "category": "影视"
     },
@@ -5433,6 +5473,14 @@
       "onboard_time": 1690977157,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334387,
+      "num": 334387,
+      "word": "赵雷爆红背后",
+      "onboard_time": 1691061813,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 334380,
@@ -6139,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285637,
+      "num": 285637,
+      "word": "偷偷努力的感觉真好",
+      "onboard_time": 1691059774,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284906,
       "num": 284906,
       "word": "发现单词笔的痕迹是一只蝴蝶",
@@ -6345,6 +6401,14 @@
       "onboard_time": 1690783354,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271787,
+      "num": 380971,
+      "word": "救援队员将满月小婴儿稳稳护在怀里",
+      "onboard_time": 1691061515,
+      "rank": 19,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 270925,
@@ -6585,6 +6649,14 @@
       "onboard_time": 1690977034,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261072,
+      "num": 261072,
+      "word": "于适为什么会哭",
+      "onboard_time": 1691061574,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 261040,
@@ -6849,6 +6921,14 @@
       "onboard_time": 1690961734,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 246191,
+      "num": 1693388,
+      "word": "小孩被卷车底众人抬车救起",
+      "onboard_time": 1691056360,
+      "rank": 18,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 246076,
@@ -7155,6 +7235,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 229943,
+      "num": 229943,
+      "word": "赵露思白裙好仙",
+      "onboard_time": 1691062175,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229610,
       "num": 229610,
       "word": "菠萝香菜肥牛",
@@ -7177,14 +7265,6 @@
       "onboard_time": 1690789714,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228441,
-      "num": 228441,
-      "word": "偷偷努力的感觉真好",
-      "onboard_time": 1691059774,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 227912,
@@ -7225,14 +7305,6 @@
       "onboard_time": 1690943433,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 225654,
-      "num": 1693388,
-      "word": "小孩被卷车底众人抬车救起",
-      "onboard_time": 1691056360,
-      "rank": 18,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 225565,
@@ -7683,14 +7755,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 207821,
-      "num": 207821,
-      "word": "防风邶来了",
-      "onboard_time": 1691060796,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 206972,
       "num": 206972,
       "word": "80后外卖员自学乐器3年上20次综艺",
@@ -7745,6 +7809,14 @@
       "onboard_time": 1691057019,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205050,
+      "num": 205050,
+      "word": "内娱和粉丝双向奔赴的明星",
+      "onboard_time": 1691061515,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 205021,
@@ -7819,14 +7891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203061,
-      "num": 203061,
-      "word": "翻到了小学写TF的笔记本",
-      "onboard_time": 1691060675,
-      "rank": 41,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 203025,
       "num": 205904,
       "word": "TF家族登陆计划让我们不顾一切",
@@ -7889,6 +7953,14 @@
       "onboard_time": 1691058398,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201626,
+      "num": 201626,
+      "word": "马立奥从不吝啬表达爱",
+      "onboard_time": 1691062296,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 201565,
@@ -8131,6 +8203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193823,
+      "num": 192949,
+      "word": "王一博让C位好丝滑",
+      "onboard_time": 1691062353,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193764,
       "num": 222604,
       "word": "小夭拒绝相柳渡气",
@@ -8153,6 +8233,14 @@
       "onboard_time": 1691057557,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192974,
+      "num": 192974,
+      "word": "LPL夏决媒体发布会",
+      "onboard_time": 1691061934,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 192958,
@@ -9307,8 +9395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48345,
-      "num": 190427,
+      "raw_hot": 50783,
+      "num": 334637,
       "word": "大空间和颜值年轻人都要",
       "onboard_time": 1691061214,
       "rank": 49,

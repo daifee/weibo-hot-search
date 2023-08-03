@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691061233464,
+  "endTime": 1691062430014,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1827196,
+      "num": 1587003,
+      "word": "费曼 我不知道我要澄清什么",
+      "onboard_time": 1691055760,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1702674,
       "num": 1702674,
       "word": "失联蓝天救援队队员刘建民已牺牲",
@@ -105,14 +113,6 @@
       "onboard_time": 1691043276,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1587003,
-      "num": 1587003,
-      "word": "费曼 我不知道我要澄清什么",
-      "onboard_time": 1691055760,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 1545773,
@@ -379,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 762108,
+      "num": 380675,
+      "word": "建议女孩子别用铁的鲨鱼夹",
+      "onboard_time": 1691061273,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 750799,
       "num": 299187,
       "word": "驾校教练被曝猥亵女学员9分钟",
@@ -401,6 +409,14 @@
       "onboard_time": 1691027018,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 728059,
+      "num": 728059,
+      "word": "嫁人当嫁肖春生",
+      "onboard_time": 1691060133,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 723632,
@@ -531,6 +547,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 626347,
+      "num": 289575,
+      "word": "中图网 25元一斤随便带走",
+      "onboard_time": 1691061392,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621525,
       "num": 621525,
       "word": "堂堂大王姬为什么不能拥有4个男人",
@@ -633,6 +657,14 @@
       "onboard_time": 1691032781,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 588665,
+      "num": 588665,
+      "word": "wbg首发",
+      "onboard_time": 1691060430,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 570736,
@@ -803,6 +835,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 485728,
+      "num": 373807,
+      "word": "河北涿州架起高空基站",
+      "onboard_time": 1691060614,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482158,
       "num": 382817,
       "word": "已经到了讨厌吃外卖的年纪",
@@ -907,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435258,
+      "num": 435258,
+      "word": "防风邶来了",
+      "onboard_time": 1691060796,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434776,
       "num": 434776,
       "word": "王一博岳阳",
@@ -971,6 +1019,14 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 425969,
+      "num": 425969,
+      "word": "此沙",
+      "onboard_time": 1691059897,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 420116,
       "num": 375100,
       "word": "再也看不到TFBOYS写的信了",
@@ -1011,14 +1067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 401856,
-      "num": 373807,
-      "word": "河北涿州架起高空基站",
-      "onboard_time": 1691060614,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400363,
       "num": 400363,
       "word": "长相思热度",
@@ -1035,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400096,
+      "num": 400096,
+      "word": "涂山璟退婚",
+      "onboard_time": 1691062054,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396787,
       "num": 396787,
       "word": "长大后才真正读懂了这句诗",
@@ -1049,14 +1105,6 @@
       "onboard_time": 1691059715,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 386367,
-      "num": 386367,
-      "word": "此沙",
-      "onboard_time": 1691059897,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 384175,
@@ -1107,14 +1155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 362109,
-      "num": 362109,
-      "word": "wbg首发",
-      "onboard_time": 1691060430,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 355317,
       "num": 355317,
       "word": "魏大勋蒲熠星张颜齐黄子弘凡扫楼",
@@ -1163,20 +1203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342942,
+      "num": 342942,
+      "word": "翻到了小学写TF的笔记本",
+      "onboard_time": 1691060675,
+      "rank": 41,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 342779,
       "num": 342779,
       "word": "不要轻易给考研搭子发李钟硕",
       "onboard_time": 1691039855,
       "rank": 24,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 342193,
-      "num": 342193,
-      "word": "嫁人当嫁肖春生",
-      "onboard_time": 1691060133,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 340157,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1691053834,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334387,
+      "num": 334387,
+      "word": "赵雷爆红背后",
+      "onboard_time": 1691061813,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 334380,
@@ -1395,6 +1443,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 285637,
+      "num": 285637,
+      "word": "偷偷努力的感觉真好",
+      "onboard_time": 1691059774,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284906,
       "num": 284906,
       "word": "发现单词笔的痕迹是一只蝴蝶",
@@ -1467,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271787,
+      "num": 380971,
+      "word": "救援队员将满月小婴儿稳稳护在怀里",
+      "onboard_time": 1691061515,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 266828,
       "num": 189030,
       "word": "长相思非演员粉的观众都是被什么吸引来",
@@ -1496,6 +1560,14 @@
       "word": "万茜承担了学爸所有打戏",
       "onboard_time": 1691044958,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 261072,
+      "num": 261072,
+      "word": "于适为什么会哭",
+      "onboard_time": 1691061574,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1579,6 +1651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246191,
+      "num": 1693388,
+      "word": "小孩被卷车底众人抬车救起",
+      "onboard_time": 1691056360,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 242786,
       "num": 242786,
       "word": "当学生暑假碰到班主任",
@@ -1659,20 +1739,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 229943,
+      "num": 229943,
+      "word": "赵露思白裙好仙",
+      "onboard_time": 1691062175,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229610,
       "num": 229610,
       "word": "菠萝香菜肥牛",
       "onboard_time": 1691025273,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 228441,
-      "num": 228441,
-      "word": "偷偷努力的感觉真好",
-      "onboard_time": 1691059774,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 227912,
@@ -1689,14 +1769,6 @@
       "onboard_time": 1691051376,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225654,
-      "num": 1693388,
-      "word": "小孩被卷车底众人抬车救起",
-      "onboard_time": 1691056360,
-      "rank": 18,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 225565,
@@ -1875,14 +1947,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 207821,
-      "num": 207821,
-      "word": "防风邶来了",
-      "onboard_time": 1691060796,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 206499,
       "num": 206499,
       "word": "是余华不是鱼滑",
@@ -1915,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205050,
+      "num": 205050,
+      "word": "内娱和粉丝双向奔赴的明星",
+      "onboard_time": 1691061515,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204423,
       "num": 204423,
       "word": "在美国聚会做水煮鱼惊艳全场",
@@ -1929,14 +2001,6 @@
       "onboard_time": 1691038720,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203061,
-      "num": 203061,
-      "word": "翻到了小学写TF的笔记本",
-      "onboard_time": 1691060675,
-      "rank": 41,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 203025,
@@ -1977,6 +2041,14 @@
       "onboard_time": 1691058398,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201626,
+      "num": 201626,
+      "word": "马立奥从不吝啬表达爱",
+      "onboard_time": 1691062296,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 201565,
@@ -2059,12 +2131,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193823,
+      "num": 192949,
+      "word": "王一博让C位好丝滑",
+      "onboard_time": 1691062353,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193019,
       "num": 193019,
       "word": "潭柘寺 赞叹古人高超的地质勘查水准",
       "onboard_time": 1691057557,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192974,
+      "num": 192974,
+      "word": "LPL夏决媒体发布会",
+      "onboard_time": 1691061934,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 192632,
@@ -2475,8 +2563,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 48345,
-      "num": 190427,
+      "raw_hot": 50783,
+      "num": 334637,
       "word": "大空间和颜值年轻人都要",
       "onboard_time": 1691061214,
       "rank": 49,
