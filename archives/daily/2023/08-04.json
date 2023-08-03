@@ -1,6 +1,6 @@
 {
   "startTime": 1691079780560,
-  "endTime": 1691091220921,
+  "endTime": 1691093832543,
   "band_list": [
     {
       "raw_hot": 1581374,
@@ -505,6 +505,14 @@
       "onboard_time": 1691086756,
       "rank": 40,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 33257,
+      "num": 30682,
+      "word": "小伙错过末班车舍不得花十几块元打车",
+      "onboard_time": 1691092632,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28800,
