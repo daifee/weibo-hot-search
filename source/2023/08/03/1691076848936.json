@@ -1,0 +1,410 @@
+{
+  "runTime": 1691076848936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1810483,
+        "num": 1810483,
+        "word": "蜜雪冰城捐1千万支持抗汛救灾",
+        "onboard_time": 1691074059,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027792,
+        "num": 1027792,
+        "word": "泰国人居然拍中国古装剧了",
+        "onboard_time": 1691066675,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86781,
+        "num": 934321,
+        "word": "暴雨洪涝后饮食安全指南",
+        "onboard_time": 1691070455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1860992,
+        "num": 925160,
+        "word": "中图网 25元一斤随便带走",
+        "onboard_time": 1691061392,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853715,
+        "num": 853715,
+        "word": "邓为 我在",
+        "onboard_time": 1691064993,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 839203,
+        "num": 839203,
+        "word": "吴京分享月瘦10斤减肥法",
+        "onboard_time": 1691070938,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 835431,
+        "num": 835431,
+        "word": "腾讯认证长相思是爆剧",
+        "onboard_time": 1691074539,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 606109,
+        "num": 606109,
+        "word": "费翔公主抱娜然",
+        "onboard_time": 1691073817,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528960,
+        "num": 528960,
+        "word": "河南大哥涿州街头4小时做13锅烩面",
+        "onboard_time": 1691072501,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 463898,
+        "num": 463898,
+        "word": "终于理解内蒙为什么不包邮了",
+        "onboard_time": 1691051977,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1295220,
+        "num": 434825,
+        "word": "网友偶遇TFBOYS拍写真",
+        "onboard_time": 1691074602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 902420,
+        "num": 420168,
+        "word": "妈妈送给王楚然的书",
+        "onboard_time": 1691074359,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589563,
+        "num": 382674,
+        "word": "TFBOYS合体排练",
+        "onboard_time": 1691056360,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308773,
+        "num": 308773,
+        "word": "台风卡努被卡住了",
+        "onboard_time": 1691049456,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295871,
+        "num": 295871,
+        "word": "卡努",
+        "onboard_time": 1691075799,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474591,
+        "num": 295025,
+        "word": "相柳的头套是在5款白发里选的",
+        "onboard_time": 1691070878,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436954,
+        "num": 291970,
+        "word": "费曼 我不知道我要澄清什么",
+        "onboard_time": 1691055760,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433108,
+        "num": 291554,
+        "word": "我才不会在男人身上自讨苦吃",
+        "onboard_time": 1691070097,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286781,
+        "num": 286781,
+        "word": "请假记录见证了生离死别",
+        "onboard_time": 1691063854,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264190,
+        "num": 264190,
+        "word": "刷屏全网的乘务员接受采访时落泪了",
+        "onboard_time": 1691073460,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1478376,
+        "num": 259789,
+        "word": "离职退群不小心把群解散了",
+        "onboard_time": 1691064993,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 632852,
+        "num": 258296,
+        "word": "第一次见这种主卧卫生间",
+        "onboard_time": 1691066432,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 505221,
+        "num": 258020,
+        "word": "阴干的衣服为什么那么臭",
+        "onboard_time": 1691074539,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253887,
+        "num": 253887,
+        "word": "护士一把抱起80斤老人飞奔去抢救",
+        "onboard_time": 1691069737,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 412145,
+        "num": 253587,
+        "word": "这真的不是帝后吗",
+        "onboard_time": 1691076277,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401205,
+        "num": 252764,
+        "word": "王一博直播",
+        "onboard_time": 1691076338,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365581,
+        "num": 252160,
+        "word": "这猫怎么长home键",
+        "onboard_time": 1691066497,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361902,
+        "num": 251736,
+        "word": "建议女孩子别用铁的鲨鱼夹",
+        "onboard_time": 1691061273,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381749,
+        "num": 251117,
+        "word": "郁可唯 唱一次长相思心疼一次小夭",
+        "onboard_time": 1691071718,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337618,
+        "num": 250833,
+        "word": "鸿星尔克在涿州发放救灾物资",
+        "onboard_time": 1691070455,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315482,
+        "num": 250330,
+        "word": "惜花芷",
+        "onboard_time": 1691070275,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305299,
+        "num": 249448,
+        "word": "牺牲消防员微信昵称头像太戳了",
+        "onboard_time": 1691075076,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298104,
+        "num": 248776,
+        "word": "河北涿州架起高空基站",
+        "onboard_time": 1691060614,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273427,
+        "num": 248524,
+        "word": "邓为数据涨势迅猛",
+        "onboard_time": 1691070997,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264854,
+        "num": 247789,
+        "word": "姬发的胸肌vs彪子的胸肌",
+        "onboard_time": 1691075140,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247392,
+        "num": 247392,
+        "word": "王一博对黄渤的初印象",
+        "onboard_time": 1691075739,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246921,
+        "num": 246921,
+        "word": "第一眼就喜欢的人",
+        "onboard_time": 1691075378,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240658,
+        "num": 240658,
+        "word": "涿州发布接受社会捐赠的公告",
+        "onboard_time": 1691065416,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233654,
+        "num": 233654,
+        "word": "内马尔权志龙同框",
+        "onboard_time": 1691067334,
+        "rank": 38,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 225300,
+        "num": 225300,
+        "word": "一条河里同时出现卧龙凤雏",
+        "onboard_time": 1691076338,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216886,
+        "num": 216886,
+        "word": "龚俊炫耀收到周杰伦周边",
+        "onboard_time": 1691069677,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203725,
+        "num": 203725,
+        "word": "徐志胜跳操",
+        "onboard_time": 1691069195,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199262,
+        "num": 199262,
+        "word": "男子潜入洪水10次为救援艇开门",
+        "onboard_time": 1691073399,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 187102,
+        "num": 187102,
+        "word": "田柾国直播",
+        "onboard_time": 1691073460,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175288,
+        "num": 175288,
+        "word": "父亲去世欠20万继承人要还吗",
+        "onboard_time": 1691051077,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168942,
+        "num": 168942,
+        "word": "肖战顺毛白背心",
+        "onboard_time": 1691058817,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167415,
+        "num": 167415,
+        "word": "陈烁 身为普通人的骄傲",
+        "onboard_time": 1691076277,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155153,
+        "num": 155153,
+        "word": "于适娜然互相反串妲己姬发",
+        "onboard_time": 1691065533,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131302,
+        "num": 154715,
+        "word": "维金斯百分大战 取消",
+        "onboard_time": 1691066314,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109144,
+        "num": 154596,
+        "word": "德国女足世界杯出局",
+        "onboard_time": 1691069077,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军#"
+    }
+  }
+}
