@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691019231507,
+  "endTime": 1691025650827,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -187,6 +187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1980686,
+      "num": 554188,
+      "word": "殷世航问凭什么别人可以垫箱子出道",
+      "onboard_time": 1691019809,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1967424,
       "num": 1278172,
       "word": "NONO被曝性侵后首露面",
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1544582,
+      "num": 1544582,
+      "word": "女书记哽咽着说没有人比中国人更团结",
+      "onboard_time": 1691020533,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1537308,
       "num": 1537308,
       "word": "防风邶赢麻了",
@@ -451,6 +467,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 1336770,
+      "num": 551846,
+      "word": "18岁女孩被割400刀法院判轻伤",
+      "onboard_time": 1690988077,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1304449,
       "num": 1304449,
       "word": "暴雨后北京街头堆积大量受损汽车",
@@ -467,11 +491,11 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 1302793,
-      "num": 484586,
-      "word": "18岁女孩被割400刀法院判轻伤",
-      "onboard_time": 1690988077,
-      "rank": 20,
+      "raw_hot": 1284214,
+      "num": 1284214,
+      "word": "中图网 遭遇25年来毁灭性打击",
+      "onboard_time": 1691020414,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 1185586,
-      "num": 774124,
+      "num": 1020712,
       "word": "涿州",
       "onboard_time": 1690850557,
       "rank": 10,
@@ -875,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 921229,
+      "num": 921229,
+      "word": "原著里小夭是自己游回去的",
+      "onboard_time": 1691021676,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 917159,
       "num": 577674,
       "word": "四川一公职人员被曝涉不雅聊天",
@@ -1059,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 825088,
+      "num": 674807,
+      "word": "起猛了看见小夭相柳的儿子了",
+      "onboard_time": 1691019570,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 820204,
       "num": 503037,
       "word": "魏大勋高中同学的留言",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1690959393,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 798350,
+      "num": 544328,
+      "word": "哈尔滨为方舱医院建设招标",
+      "onboard_time": 1691019446,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 796557,
@@ -1403,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 687931,
+      "num": 687931,
+      "word": "辣椒不能封闭在矿泉水瓶里",
+      "onboard_time": 1691021557,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 685618,
       "num": 633825,
       "word": "姬发",
@@ -1467,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 670736,
+      "num": 535490,
+      "word": "刘浩存于适早期合影",
+      "onboard_time": 1691018544,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 669316,
       "num": 669316,
       "word": "好久没见都有嘴的男女主了",
@@ -1520,6 +1584,14 @@
       "word": "当器官知道我们十二点前睡觉",
       "onboard_time": 1690951237,
       "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 651196,
+      "num": 405247,
+      "word": "小脚趾指甲分两瓣是什么说法",
+      "onboard_time": 1691021496,
+      "rank": 20,
       "category": "幽默"
     },
     {
@@ -1579,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628843,
+      "num": 628843,
+      "word": "张艺兴 流量没什么意义",
+      "onboard_time": 1691024917,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 621033,
       "num": 621033,
       "word": "中国女足落后",
@@ -1601,6 +1681,14 @@
       "onboard_time": 1690976193,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 614426,
+      "num": 534175,
+      "word": "上海火车站一男子携带大量淫秽光碟",
+      "onboard_time": 1691023117,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 614149,
@@ -1723,6 +1811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 589358,
+      "num": 304558,
+      "word": "美国8岁女孩失踪48年悬案",
+      "onboard_time": 1691024074,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587832,
       "num": 643853,
       "word": "杭州动物园的马来熊在国外火了",
@@ -1779,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568118,
+      "num": 568118,
+      "word": "大鹏回复徐峥",
+      "onboard_time": 1691022034,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 567992,
       "num": 567992,
       "word": "海潮被抓",
@@ -1801,6 +1905,14 @@
       "onboard_time": 1690935816,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557858,
+      "num": 557858,
+      "word": "堂堂大王姬为什么不能拥有4个男人",
+      "onboard_time": 1691021736,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 556427,
@@ -1905,6 +2017,14 @@
       "onboard_time": 1690978540,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 529336,
+      "num": 529336,
+      "word": "原来生命真的会自己找到出路",
+      "onboard_time": 1691022277,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 527917,
@@ -2179,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466289,
+      "num": 404436,
+      "word": "谈恋爱一定不要和另一半撒谎",
+      "onboard_time": 1691023895,
+      "rank": 21,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 466042,
       "num": 466042,
       "word": "姬发彪子",
@@ -2379,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438261,
+      "num": 438261,
+      "word": "佳木斯建方舱医院真相",
+      "onboard_time": 1691021855,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437938,
       "num": 362855,
       "word": "刘雨昕演唱会票价",
@@ -2404,7 +2540,7 @@
     },
     {
       "raw_hot": 433548,
-      "num": 208047,
+      "num": 212737,
       "word": "女子脚底扎入2cm铁丝在医院爬着走",
       "onboard_time": 1691017341,
       "rank": 30,
@@ -2417,6 +2553,14 @@
       "onboard_time": 1690987779,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430257,
+      "num": 392653,
+      "word": "人脸识别时一定要穿上衣服",
+      "onboard_time": 1691019026,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 429706,
@@ -2505,6 +2649,14 @@
       "onboard_time": 1690844723,
       "rank": 30,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 416288,
+      "num": 416288,
+      "word": "你的iPhone一天要充几次电",
+      "onboard_time": 1691002153,
+      "rank": 15,
+      "category": "科技,幽默"
     },
     {
       "raw_hot": 414729,
@@ -2779,6 +2931,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 376230,
+      "num": 376230,
+      "word": "丫丫干饭名场面",
+      "onboard_time": 1691024432,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375246,
       "num": 375246,
       "word": "田柾国金珉奎跳了SEVEN",
@@ -2801,6 +2961,14 @@
       "onboard_time": 1690857996,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369243,
+      "num": 369243,
+      "word": "k396",
+      "onboard_time": 1691023718,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368121,
@@ -3035,6 +3203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331338,
+      "num": 331338,
+      "word": "涿州积水区水深近6米",
+      "onboard_time": 1691019388,
+      "rank": 25,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 326944,
       "num": 326944,
       "word": "今晚的月亮好圆",
@@ -3091,20 +3267,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 323731,
-      "num": 323731,
-      "word": "你的iPhone一天要充几次电",
-      "onboard_time": 1691002153,
-      "rank": 15,
-      "category": "科技,幽默"
-    },
-    {
       "raw_hot": 323347,
       "num": 323347,
       "word": "鼻尖吻是迪丽热巴龚俊现场琢磨的",
       "onboard_time": 1690903896,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318954,
+      "num": 318954,
+      "word": "长大后最恐怖的事之一",
+      "onboard_time": 1691022518,
+      "rank": 26,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 318154,
@@ -3151,6 +3327,22 @@
       "num": 314652,
       "word": "道士们品评封神",
       "onboard_time": 1690870053,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314229,
+      "num": 314229,
+      "word": "never又能见王一博了",
+      "onboard_time": 1691018725,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314164,
+      "num": 314164,
+      "word": "杨紫让代露娃叫姐姐",
+      "onboard_time": 1691019329,
       "rank": 28,
       "category": "影视"
     },
@@ -3209,6 +3401,14 @@
       "onboard_time": 1690997479,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305284,
+      "num": 305284,
+      "word": "家长头一次跟孩子这么陌生",
+      "onboard_time": 1691023718,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 305146,
@@ -3331,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291445,
+      "num": 291445,
+      "word": "为什么日本的演唱会不让拍照",
+      "onboard_time": 1691019930,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 291031,
       "num": 291031,
       "word": "齐葩地下恋情被发现",
@@ -3409,6 +3617,14 @@
       "onboard_time": 1690883734,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284906,
+      "num": 284906,
+      "word": "发现单词笔的痕迹是一只蝴蝶",
+      "onboard_time": 1691023777,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 282982,
@@ -3843,6 +4059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242786,
+      "num": 242786,
+      "word": "当学生暑假碰到班主任",
+      "onboard_time": 1691025217,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241527,
       "num": 241527,
       "word": "长安三万里都火到了什么圈",
@@ -3881,6 +4105,14 @@
       "onboard_time": 1690934793,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238148,
+      "num": 238148,
+      "word": "狗狗静静看着已经逝去的主人的照片",
+      "onboard_time": 1691025516,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 238111,
@@ -4003,12 +4235,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230406,
+      "num": 230406,
+      "word": "我的夜生活居然只是熬夜玩手机",
+      "onboard_time": 1691024976,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 229610,
+      "num": 229610,
+      "word": "菠萝香菜肥牛",
+      "onboard_time": 1691025273,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 228562,
       "num": 228562,
       "word": "封神榜",
       "onboard_time": 1690817378,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227912,
+      "num": 227912,
+      "word": "K396乘务员回忆雨中困境再次泪目",
+      "onboard_time": 1691023836,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227031,
@@ -4033,6 +4289,14 @@
       "onboard_time": 1690943433,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225565,
+      "num": 225565,
+      "word": "以后再不知道吃什么饭就来看看她家狗吃什么",
+      "onboard_time": 1691025273,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 224885,
@@ -4163,6 +4427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212611,
+      "num": 212611,
+      "word": "莲花楼角丽谯女王发言",
+      "onboard_time": 1691025334,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212208,
       "num": 212208,
       "word": "开播情景喜剧2全员开剥式官宣",
@@ -4227,6 +4499,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 208453,
+      "num": 208453,
+      "word": "别人吃猫条 我吃黄瓜条",
+      "onboard_time": 1691025156,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208297,
       "num": 208297,
       "word": "DRG锁定第三轮S组",
@@ -4241,6 +4521,14 @@
       "onboard_time": 1690881632,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208060,
+      "num": 208060,
+      "word": "中国人的力量真的无与伦比",
+      "onboard_time": 1691024917,
+      "rank": 47,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 206972,
@@ -4320,6 +4608,22 @@
       "word": "北京消防员救灾中被洪水冲走殉职",
       "onboard_time": 1690867895,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202588,
+      "num": 202588,
+      "word": "詹俊投篮姿势",
+      "onboard_time": 1691021195,
+      "rank": 48,
+      "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 202187,
+      "num": 202187,
+      "word": "这世界破破烂烂总有人在缝缝补补",
+      "onboard_time": 1691025516,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4555,14 +4859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184649,
-      "num": 184649,
-      "word": "刘浩存于适早期合影",
-      "onboard_time": 1691018544,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 184540,
       "num": 2030874,
       "word": "当记者采访到社牛外国运动员",
@@ -4641,14 +4937,6 @@
       "onboard_time": 1690814378,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176516,
-      "num": 142405,
-      "word": "人脸识别时一定要穿上衣服",
-      "onboard_time": 1691019026,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 176051,
@@ -4817,14 +5105,6 @@
       "onboard_time": 1691017221,
       "rank": 26,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 148999,
-      "num": 148999,
-      "word": "never又能见王一博了",
-      "onboard_time": 1691018725,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 142280,
