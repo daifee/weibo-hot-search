@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691043670615,
+  "endTime": 1691044451291,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -312,6 +312,14 @@
       "word": "费翔 胸大的苦恼",
       "onboard_time": 1691035779,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1677633,
+      "num": 598153,
+      "word": "宋佳工作室 我们姐没让人送过饼干",
+      "onboard_time": 1691043276,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -835,20 +843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1001481,
+      "num": 1001481,
+      "word": "爷爷舍不得买鞋柜用冰箱装鞋",
+      "onboard_time": 1691038839,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 997686,
       "num": 942534,
       "word": "封神发声明抵制偷漏瞒报票房行为",
       "onboard_time": 1690948597,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 990271,
-      "num": 990271,
-      "word": "爷爷舍不得买鞋柜用冰箱装鞋",
-      "onboard_time": 1691038839,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 985837,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1690979857,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 899127,
+      "num": 899127,
+      "word": "敖子逸蒋依依",
+      "onboard_time": 1691042197,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 896919,
@@ -1499,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 725387,
+      "num": 725387,
+      "word": "到成都后开始理解美羊羊了",
+      "onboard_time": 1691041358,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 723570,
       "num": 723570,
       "word": "长相思未删减版本",
@@ -1675,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 678236,
+      "num": 458326,
+      "word": "日本女生每天花10元买下三套房",
+      "onboard_time": 1691042435,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 676191,
       "num": 676191,
       "word": "于适 天选姬发",
@@ -1755,14 +1787,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 655988,
-      "num": 598153,
-      "word": "宋佳工作室 我们姐没让人送过饼干",
-      "onboard_time": 1691043276,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 655894,
       "num": 450231,
       "word": "魏大勋巴黎欧莱雅",
@@ -1787,28 +1811,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 651567,
-      "num": 651567,
-      "word": "到成都后开始理解美羊羊了",
-      "onboard_time": 1691041358,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 651196,
       "num": 405247,
       "word": "小脚趾指甲分两瓣是什么说法",
       "onboard_time": 1691021496,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 648090,
-      "num": 458326,
-      "word": "日本女生每天花10元买下三套房",
-      "onboard_time": 1691042435,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 647832,
@@ -1825,14 +1833,6 @@
       "onboard_time": 1690883193,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 646388,
-      "num": 646388,
-      "word": "敖子逸蒋依依",
-      "onboard_time": 1691042197,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 645658,
@@ -2280,6 +2280,14 @@
       "word": "北京此次暴雨已有两名牺牲的救援人员身份确认",
       "onboard_time": 1690973495,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533653,
+      "num": 515407,
+      "word": "泄洪",
+      "onboard_time": 1690864363,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -3163,14 +3171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 395365,
-      "num": 479704,
-      "word": "泄洪",
-      "onboard_time": 1690864363,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394995,
       "num": 394995,
       "word": "封神票房",
@@ -3915,6 +3915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298074,
+      "num": 298074,
+      "word": "太原一醋厂用冰乙酸勾兑食醋销往全国",
+      "onboard_time": 1691043033,
+      "rank": 38,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 296659,
       "num": 296659,
       "word": "苹果和安卓哪个续航耐用",
@@ -4315,6 +4323,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 266285,
+      "num": 266285,
+      "word": "长相思包揽角色吸粉榜前三",
+      "onboard_time": 1691044055,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265835,
       "num": 265835,
       "word": "网友P的檀健次女装",
@@ -4555,6 +4571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246772,
+      "num": 240215,
+      "word": "邓为谈涂山璟",
+      "onboard_time": 1691041718,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246337,
       "num": 246337,
       "word": "山东籍消防员冯振为救战友不幸牺牲",
@@ -4665,14 +4689,6 @@
       "onboard_time": 1690977515,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240215,
-      "num": 240215,
-      "word": "邓为谈涂山璟",
-      "onboard_time": 1691041718,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 238765,
@@ -4932,7 +4948,7 @@
     },
     {
       "raw_hot": 223613,
-      "num": 193525,
+      "num": 205916,
       "word": "莲花楼制片人",
       "onboard_time": 1691042435,
       "rank": 40,
@@ -5195,6 +5211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206499,
+      "num": 206499,
+      "word": "是余华不是鱼滑",
+      "onboard_time": 1691043457,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205916,
       "num": 205916,
       "word": "邓为女友视角视频",
@@ -5235,14 +5259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204453,
-      "num": 193291,
-      "word": "是余华不是鱼滑",
-      "onboard_time": 1691043457,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204258,
       "num": 204258,
       "word": "林墨以为的杨迪vs真实的杨迪",
@@ -5276,7 +5292,7 @@
     },
     {
       "raw_hot": 203025,
-      "num": 193222,
+      "num": 205904,
       "word": "TF家族登陆计划让我们不顾一切",
       "onboard_time": 1691043457,
       "rank": 42,
@@ -5444,11 +5460,19 @@
     },
     {
       "raw_hot": 196459,
-      "num": 193119,
+      "num": 205921,
       "word": "长相思主创空降超话",
       "onboard_time": 1691043515,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196299,
+      "num": 205936,
+      "word": "肖战推荐家乡重庆",
+      "onboard_time": 1691044357,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 195915,
@@ -5473,6 +5497,14 @@
       "onboard_time": 1690865919,
       "rank": 39,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 194460,
+      "num": 205936,
+      "word": "95生格局五六三王",
+      "onboard_time": 1691044175,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193764,
@@ -5667,6 +5699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181099,
+      "num": 205977,
+      "word": "红米",
+      "onboard_time": 1691043756,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 179035,
       "num": 179035,
       "word": "杨紫片场吃鞋",
@@ -5697,14 +5737,6 @@
       "onboard_time": 1690814378,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176498,
-      "num": 193731,
-      "word": "太原一醋厂用冰乙酸勾兑食醋销往全国",
-      "onboard_time": 1691043033,
-      "rank": 38,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 176051,
@@ -5745,6 +5777,14 @@
       "onboard_time": 1691040757,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 172851,
+      "num": 205968,
+      "word": "涿州市民说从未想过在这条路坐船",
+      "onboard_time": 1691043874,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171002,
@@ -5921,6 +5961,14 @@
       "onboard_time": 1691017221,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 146607,
+      "num": 205877,
+      "word": "新发现T细胞可灭晚期肿瘤",
+      "onboard_time": 1691044113,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 142280,
