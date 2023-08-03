@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691039717386,
+  "endTime": 1691040832607,
   "band_list": [
     {
       "raw_hot": 3162373,
@@ -71,6 +71,14 @@
       "num": 1001089,
       "word": "专家回应河北天津泄洪是为了保北京",
       "onboard_time": 1691027858,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1374485,
+      "num": 853952,
+      "word": "河北省委书记称坚决当好护城河",
+      "onboard_time": 1691038839,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -179,8 +187,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 843625,
-      "num": 843625,
+      "raw_hot": 860833,
+      "num": 860833,
       "word": "快乐大本营更名后掉粉40万",
       "onboard_time": 1691034819,
       "rank": 20,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 665150,
-      "num": 335120,
+      "num": 383922,
       "word": "小伙使用酒店毛巾后被确诊淋病",
       "onboard_time": 1691037102,
       "rank": 48,
@@ -363,20 +371,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 601157,
+      "num": 601157,
+      "word": "迪丽热巴檀健次白发造型",
+      "onboard_time": 1691036678,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 597543,
       "num": 597543,
       "word": "猎罪图鉴编剧回应加女主",
       "onboard_time": 1690980034,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 596559,
-      "num": 512682,
-      "word": "迪丽热巴檀健次白发造型",
-      "onboard_time": 1691036678,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 589358,
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542175,
+      "num": 542175,
+      "word": "玱玹和相柳很难演的原因",
+      "onboard_time": 1691037882,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 540420,
       "num": 497851,
       "word": "法老 小精灵",
@@ -443,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 511123,
-      "num": 511123,
-      "word": "河北省委书记称坚决当好护城河",
-      "onboard_time": 1691038839,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 493270,
       "num": 493270,
       "word": "夭璟船戏是自由发挥的",
@@ -465,6 +473,14 @@
       "onboard_time": 1691029476,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 488254,
+      "num": 488254,
+      "word": "爷爷舍不得买鞋柜用冰箱装鞋",
+      "onboard_time": 1691038839,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 470757,
@@ -515,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 453288,
+      "num": 453288,
+      "word": "封神演员的五年",
+      "onboard_time": 1691037882,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452148,
       "num": 452148,
       "word": "丫丫干饭名场面",
@@ -545,14 +569,6 @@
       "onboard_time": 1691021855,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436598,
-      "num": 436598,
-      "word": "玱玹和相柳很难演的原因",
-      "onboard_time": 1691037882,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 433548,
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 420116,
-      "num": 320895,
+      "num": 375100,
       "word": "再也看不到TFBOYS写的信了",
       "onboard_time": 1691038839,
       "rank": 21,
@@ -619,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 390482,
+      "num": 390482,
+      "word": "在电影院被老鼠咬了一口",
+      "onboard_time": 1691039677,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 384175,
       "num": 384175,
       "word": "凤凰传奇工作室 律师函不会弄",
@@ -632,14 +656,6 @@
       "word": "如果相柳体内有小夭的孩子",
       "onboard_time": 1691036380,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 377064,
-      "num": 289391,
-      "word": "封神演员的五年",
-      "onboard_time": 1691037882,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -675,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342779,
+      "num": 342779,
+      "word": "不要轻易给考研搭子发李钟硕",
+      "onboard_time": 1691039855,
+      "rank": 24,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 340157,
       "num": 340157,
       "word": "姬发",
@@ -688,6 +712,14 @@
       "word": "丫丫生日坐在竹子上干饭",
       "onboard_time": 1691032118,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328114,
+      "num": 328114,
+      "word": "泄洪",
+      "onboard_time": 1691039081,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -713,6 +745,14 @@
       "onboard_time": 1691019329,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311544,
+      "num": 311544,
+      "word": "假人版范丞丞魏大勋",
+      "onboard_time": 1691040337,
+      "rank": 27,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 310188,
@@ -769,6 +809,14 @@
       "onboard_time": 1691025758,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 296035,
+      "num": 296035,
+      "word": "涿州受困者趴泡沫箱漂浮一夜求生",
+      "onboard_time": 1691038361,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295579,
@@ -891,22 +939,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 263881,
-      "num": 263881,
-      "word": "涿州受困者趴泡沫箱漂浮一夜求生",
-      "onboard_time": 1691038361,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262944,
-      "num": 262944,
-      "word": "爷爷舍不得买鞋柜用冰箱装鞋",
-      "onboard_time": 1691038839,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 260631,
       "num": 260631,
       "word": "迪丽热巴帝梓元白发上线",
@@ -939,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252887,
+      "num": 290277,
+      "word": "杨紫网文女主适配度",
+      "onboard_time": 1691038063,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251572,
       "num": 251572,
       "word": "檀健次说分so就分so",
@@ -953,6 +993,14 @@
       "onboard_time": 1691017281,
       "rank": 33,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 246372,
+      "num": 245794,
+      "word": "玖瑶和玱玹是情侣名",
+      "onboard_time": 1691040276,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 242786,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1691023836,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226713,
+      "num": 226713,
+      "word": "庞博在北外搞同传副业",
+      "onboard_time": 1691040515,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 225565,
@@ -1195,14 +1251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 200331,
-      "num": 200331,
-      "word": "泄洪",
-      "onboard_time": 1691039081,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197976,
       "num": 208867,
       "word": "以前和公司的保洁大爷大妈关系很好",
@@ -1225,14 +1273,6 @@
       "onboard_time": 1691037405,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189670,
-      "num": 189670,
-      "word": "在电影院被老鼠咬了一口",
-      "onboard_time": 1691039677,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 189256,
@@ -1267,12 +1307,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179442,
-      "num": 268472,
-      "word": "杨紫网文女主适配度",
-      "onboard_time": 1691038063,
-      "rank": 30,
-      "category": "作品衍生"
+      "raw_hot": 184391,
+      "num": 211061,
+      "word": "陈赫杜海涛一个敢说一个敢接",
+      "onboard_time": 1691040757,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 176390,
@@ -1281,6 +1321,22 @@
       "onboard_time": 1690979015,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175415,
+      "num": 211058,
+      "word": "徐梦洁被吴镇宇凶哭了",
+      "onboard_time": 1691040816,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172978,
+      "num": 211056,
+      "word": "论鼻子的修容对颜值的影响",
+      "onboard_time": 1691040757,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 168958,
@@ -1305,6 +1361,22 @@
       "onboard_time": 1690985620,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165068,
+      "num": 211056,
+      "word": "九尾玩霸天虎好淡定",
+      "onboard_time": 1691037405,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 164541,
+      "num": 211054,
+      "word": "该死的肌肉记忆醒了",
+      "onboard_time": 1691038063,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 161787,
