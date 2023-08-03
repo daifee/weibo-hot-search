@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691058813095,
+  "endTime": 1691061233464,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 1828693,
-      "num": 639583,
+      "num": 834021,
       "word": "易烊千玺王源同一航班飞西安",
       "onboard_time": 1691053476,
       "rank": 20,
@@ -609,6 +609,14 @@
       "onboard_time": 1690886194,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1587003,
+      "num": 1587003,
+      "word": "费曼 我不知道我要澄清什么",
+      "onboard_time": 1691055760,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1586323,
@@ -1779,6 +1787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 869671,
+      "num": 869671,
+      "word": "长相思",
+      "onboard_time": 1690714953,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 867940,
       "num": 867940,
       "word": "北京本次降雨为140年来最大降雨",
@@ -1881,14 +1897,6 @@
       "onboard_time": 1690899877,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 825794,
-      "num": 825794,
-      "word": "长相思",
-      "onboard_time": 1690714953,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 825088,
@@ -2025,6 +2033,14 @@
       "onboard_time": 1690786233,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 789523,
+      "num": 789523,
+      "word": "肖战顺毛白背心",
+      "onboard_time": 1691058817,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 786451,
@@ -2497,6 +2513,14 @@
       "onboard_time": 1690976673,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 683342,
+      "num": 683342,
+      "word": "网传涿州一男子打骂救援人员",
+      "onboard_time": 1691056237,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 681796,
@@ -3419,28 +3443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 537391,
-      "num": 512657,
-      "word": "费曼 我不知道我要澄清什么",
-      "onboard_time": 1691055760,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 536468,
       "num": 476231,
       "word": "相柳目送小夭被抱走",
       "onboard_time": 1690975173,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 534159,
-      "num": 534159,
-      "word": "网传涿州一男子打骂救援人员",
-      "onboard_time": 1691056237,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 533864,
@@ -3707,6 +3715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 495870,
+      "num": 495870,
+      "word": "韩国超导低温学会称LK99不是常温超导体",
+      "onboard_time": 1691058276,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494589,
       "num": 599578,
       "word": "北京8月1日起雨势将减弱",
@@ -3785,6 +3801,14 @@
       "onboard_time": 1690783113,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 482158,
+      "num": 382817,
+      "word": "已经到了讨厌吃外卖的年纪",
+      "onboard_time": 1691058033,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 482150,
@@ -4308,7 +4332,7 @@
     },
     {
       "raw_hot": 429484,
-      "num": 358712,
+      "num": 419592,
       "word": "鹿晗武汉演唱会接受部分退票需求",
       "onboard_time": 1691055275,
       "rank": 26,
@@ -4579,6 +4603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401856,
+      "num": 373807,
+      "word": "河北涿州架起高空基站",
+      "onboard_time": 1691060614,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401249,
       "num": 326615,
       "word": "李飞开直播吧",
@@ -4755,6 +4787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388710,
+      "num": 388710,
+      "word": "林俊杰上海抢票",
+      "onboard_time": 1691059715,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 388427,
       "num": 332518,
       "word": "北京房山门头沟平均降雨量超300毫米",
@@ -4793,6 +4833,14 @@
       "onboard_time": 1690810720,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386367,
+      "num": 386367,
+      "word": "此沙",
+      "onboard_time": 1691059897,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 385780,
@@ -4987,6 +5035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362109,
+      "num": 362109,
+      "word": "wbg首发",
+      "onboard_time": 1691060430,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 361492,
       "num": 361492,
       "word": "Angelababy教贝克汉姆说中文",
@@ -5155,6 +5211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 351167,
+      "num": 351167,
+      "word": "长相思超话",
+      "onboard_time": 1691059478,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349810,
       "num": 1214684,
       "word": "此前暴雨中失联的9人继续留守电站",
@@ -5271,6 +5335,14 @@
       "num": 342566,
       "word": "长相思端水剧照",
       "onboard_time": 1690775194,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 342193,
+      "num": 342193,
+      "word": "嫁人当嫁肖春生",
+      "onboard_time": 1691060133,
       "rank": 27,
       "category": "影视"
     },
@@ -6635,14 +6707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 253739,
-      "num": 253739,
-      "word": "韩国超导低温学会称LK99不是常温超导体",
-      "onboard_time": 1691058276,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253608,
       "num": 273127,
       "word": "中国女足迎来生死战",
@@ -7115,6 +7179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228441,
+      "num": 228441,
+      "word": "偷偷努力的感觉真好",
+      "onboard_time": 1691059774,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227912,
       "num": 227912,
       "word": "K396乘务员回忆雨中困境再次泪目",
@@ -7153,6 +7225,14 @@
       "onboard_time": 1690943433,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225654,
+      "num": 1693388,
+      "word": "小孩被卷车底众人抬车救起",
+      "onboard_time": 1691056360,
+      "rank": 18,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 225565,
@@ -7251,6 +7331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 221295,
+      "num": 221295,
+      "word": "檀健次傲娇歪头杀",
+      "onboard_time": 1691058517,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221153,
       "num": 239143,
       "word": "韩红现身李玟追思会现场",
@@ -7321,6 +7409,14 @@
       "onboard_time": 1691046334,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 217056,
+      "num": 2380603,
+      "word": "飞行员讲述与外机近距离缠斗细节",
+      "onboard_time": 1691057917,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216983,
@@ -7417,14 +7513,6 @@
       "onboard_time": 1690942530,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213671,
-      "num": 213671,
-      "word": "檀健次傲娇歪头杀",
-      "onboard_time": 1691058517,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 213209,
@@ -7595,6 +7683,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 207821,
+      "num": 207821,
+      "word": "防风邶来了",
+      "onboard_time": 1691060796,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206972,
       "num": 206972,
       "word": "80后外卖员自学乐器3年上20次综艺",
@@ -7721,6 +7817,14 @@
       "onboard_time": 1690806754,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203061,
+      "num": 203061,
+      "word": "翻到了小学写TF的笔记本",
+      "onboard_time": 1691060675,
+      "rank": 41,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 203025,
@@ -7939,6 +8043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196943,
+      "num": 196943,
+      "word": "现代人了解一个人的方式",
+      "onboard_time": 1691060194,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196752,
       "num": 211491,
       "word": "及时发疯真的很重要",
@@ -8137,14 +8249,6 @@
       "onboard_time": 1690937018,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 188563,
-      "num": 210792,
-      "word": "已经到了讨厌吃外卖的年纪",
-      "onboard_time": 1691058033,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 188051,
@@ -8619,14 +8723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150849,
-      "num": 2380603,
-      "word": "飞行员讲述与外机近距离缠斗细节",
-      "onboard_time": 1691057917,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150786,
       "num": 150786,
       "word": "给雪糕明码标价的便利店",
@@ -8753,6 +8849,14 @@
       "onboard_time": 1690859319,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135110,
+      "num": 1397344,
+      "word": "成都大运会这一幕太暖了",
+      "onboard_time": 1691058696,
+      "rank": 25,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 132013,
@@ -9203,12 +9307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45709,
-      "num": 385034,
-      "word": "小孩被卷车底众人抬车救起",
-      "onboard_time": 1691056360,
-      "rank": 18,
-      "category": "社会正能量"
+      "raw_hot": 48345,
+      "num": 190427,
+      "word": "大空间和颜值年轻人都要",
+      "onboard_time": 1691061214,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44262,
@@ -9321,14 +9425,6 @@
       "onboard_time": 1690831753,
       "rank": 47,
       "category": "自然"
-    },
-    {
-      "raw_hot": 26890,
-      "num": 337000,
-      "word": "成都大运会这一幕太暖了",
-      "onboard_time": 1691058696,
-      "rank": 25,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 26393,
