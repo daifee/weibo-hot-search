@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691050843913,
+  "endTime": 1691051639448,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1538214,
+      "num": 1538214,
+      "word": "台风卡努被卡住了",
+      "onboard_time": 1691049456,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1537308,
       "num": 1537308,
       "word": "防风邶赢麻了",
@@ -849,6 +857,14 @@
       "onboard_time": 1690988077,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1325927,
+      "num": 1325927,
+      "word": "檀健次工作室宣发审美",
+      "onboard_time": 1691046876,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 1323142,
@@ -1092,7 +1108,7 @@
     },
     {
       "raw_hot": 1096909,
-      "num": 873598,
+      "num": 1003044,
       "word": "蒋依依没谈过恋爱",
       "onboard_time": 1691046274,
       "rank": 17,
@@ -1200,14 +1216,6 @@
       "word": "杨立新杨玏封神真父子",
       "onboard_time": 1690854573,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1062086,
-      "num": 1062086,
-      "word": "檀健次工作室宣发审美",
-      "onboard_time": 1691046876,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -1515,6 +1523,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 932697,
+      "num": 932697,
+      "word": "快乐大本营更名后掉粉40万",
+      "onboard_time": 1691034819,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 929187,
       "num": 782840,
       "word": "CoCo 走好",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1690811893,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 860833,
-      "num": 860833,
-      "word": "快乐大本营更名后掉粉40万",
-      "onboard_time": 1691034819,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 858183,
@@ -2169,14 +2177,6 @@
       "onboard_time": 1690883855,
       "rank": 14,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 748986,
-      "num": 454813,
-      "word": "台风卡努被卡住了",
-      "onboard_time": 1691049456,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 747964,
@@ -2675,6 +2675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 637343,
+      "num": 537982,
+      "word": "魏大勋扫楼生图状态",
+      "onboard_time": 1691047233,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 634798,
       "num": 603772,
       "word": "限时吃5块松饼上海一店被罚3万",
@@ -2713,14 +2721,6 @@
       "onboard_time": 1690798535,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 627437,
-      "num": 427873,
-      "word": "魏大勋扫楼生图状态",
-      "onboard_time": 1691047233,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 622877,
@@ -2817,6 +2817,14 @@
       "onboard_time": 1690845685,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 613171,
+      "num": 613171,
+      "word": "程雷",
+      "onboard_time": 1691047298,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612697,
@@ -3043,14 +3051,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 577129,
-      "num": 577129,
-      "word": "程雷",
-      "onboard_time": 1691047298,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 575032,
       "num": 575032,
       "word": "李玟追悼会今日举行",
@@ -3241,6 +3241,14 @@
       "onboard_time": 1690946733,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 553592,
+      "num": 553592,
+      "word": "吴镇宇急需费曼澄清",
+      "onboard_time": 1691044775,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 553309,
@@ -3577,14 +3585,6 @@
       "onboard_time": 1690896816,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 495357,
-      "num": 381352,
-      "word": "吴镇宇急需费曼澄清",
-      "onboard_time": 1691044775,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 494589,
@@ -4827,6 +4827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 361874,
+      "num": 361874,
+      "word": "东北菜会教训每一个嘴硬的人",
+      "onboard_time": 1691045915,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 361492,
       "num": 361492,
       "word": "Angelababy教贝克汉姆说中文",
@@ -5201,14 +5209,6 @@
       "onboard_time": 1690726474,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 327380,
-      "num": 327380,
-      "word": "东北菜会教训每一个嘴硬的人",
-      "onboard_time": 1691045915,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 326944,
@@ -6587,6 +6587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243433,
+      "num": 243433,
+      "word": "父亲去世欠20万继承人要还吗",
+      "onboard_time": 1691051077,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243236,
       "num": 243236,
       "word": "封神苏州路演",
@@ -6875,6 +6883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227547,
+      "num": 222951,
+      "word": "热烈",
+      "onboard_time": 1690877012,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227031,
       "num": 353276,
       "word": "山西蓝天救援队解救涿州被困群众",
@@ -6969,6 +6985,14 @@
       "onboard_time": 1691042435,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223202,
+      "num": 223202,
+      "word": "当我妈问我为什么要换手机",
+      "onboard_time": 1691046457,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 222503,
@@ -7171,20 +7195,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210683,
+      "num": 217244,
+      "word": "大叔留宿滞留旅客自己睡在院子里",
+      "onboard_time": 1691049876,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210247,
       "num": 210247,
       "word": "海月浮梦罗烟",
       "onboard_time": 1690942772,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 210205,
-      "num": 210205,
-      "word": "当我妈问我为什么要换手机",
-      "onboard_time": 1691046457,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 209835,
@@ -7260,7 +7284,7 @@
     },
     {
       "raw_hot": 208319,
-      "num": 208319,
+      "num": 209962,
       "word": "松鼠会用它们的尾巴当做伞",
       "onboard_time": 1691046157,
       "rank": 43,
@@ -7609,14 +7633,6 @@
       "onboard_time": 1690899098,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197050,
-      "num": 197050,
-      "word": "大叔留宿滞留旅客自己睡在院子里",
-      "onboard_time": 1691049876,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196752,
@@ -7988,7 +8004,7 @@
     },
     {
       "raw_hot": 177317,
-      "num": 189525,
+      "num": 201936,
       "word": "吴俊霆卢昱晓重逢二搭",
       "onboard_time": 1691048198,
       "rank": 44,
@@ -8009,14 +8025,6 @@
       "onboard_time": 1690818514,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 173390,
-      "num": 173390,
-      "word": "热烈",
-      "onboard_time": 1690877012,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 173039,
@@ -8041,6 +8049,14 @@
       "onboard_time": 1691040757,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 172114,
+      "num": 201364,
+      "word": "长大后才真正读懂了这句诗",
+      "onboard_time": 1691051255,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 170042,
@@ -8201,6 +8217,14 @@
       "onboard_time": 1690975714,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158991,
+      "num": 191366,
+      "word": "会唱歌的猫咪",
+      "onboard_time": 1691051139,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 156713,
@@ -8563,6 +8587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111999,
+      "num": 445450,
+      "word": "开心吧麻花重现夏洛特烦恼",
+      "onboard_time": 1691049632,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111213,
       "num": 670400,
       "word": "王者荣耀天猫",
@@ -8659,14 +8691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 93308,
-      "num": 387534,
-      "word": "开心吧麻花重现夏洛特烦恼",
-      "onboard_time": 1691049632,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93223,
       "num": 125522,
       "word": "国际傻狗锦标赛冠军",
@@ -8721,6 +8745,14 @@
       "onboard_time": 1690872394,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78501,
+      "num": 1138910,
+      "word": "全国多地救援队增援河北",
+      "onboard_time": 1691051015,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66997,
