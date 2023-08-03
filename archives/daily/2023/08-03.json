@@ -1,10 +1,10 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691057859741,
+  "endTime": 1691058813095,
   "band_list": [
     {
-      "raw_hot": 3773941,
-      "num": 3773941,
+      "raw_hot": 4109432,
+      "num": 4109432,
       "word": "TFBOYS合体排练",
       "onboard_time": 1691056360,
       "rank": 0,
@@ -275,8 +275,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 944506,
-      "num": 944506,
+      "raw_hot": 972552,
+      "num": 972552,
       "word": "魏大勋衬衫上绣了蝴蝶",
       "onboard_time": 1691055940,
       "rank": 7,
@@ -684,11 +684,19 @@
     },
     {
       "raw_hot": 537391,
-      "num": 372109,
+      "num": 512657,
       "word": "费曼 我不知道我要澄清什么",
       "onboard_time": 1691055760,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 534159,
+      "num": 534159,
+      "word": "网传涿州一男子打骂救援人员",
+      "onboard_time": 1691056237,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533653,
@@ -737,6 +745,14 @@
       "onboard_time": 1690989936,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499321,
+      "num": 499321,
+      "word": "拜托蒋依依是童星",
+      "onboard_time": 1691056176,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 493270,
@@ -843,14 +859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 447592,
-      "num": 447592,
-      "word": "拜托蒋依依是童星",
-      "onboard_time": 1691056176,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 445019,
       "num": 347750,
       "word": "这个间距很难说不是P的",
@@ -897,6 +905,14 @@
       "onboard_time": 1691019026,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 429484,
+      "num": 358712,
+      "word": "鹿晗武汉演唱会接受部分退票需求",
+      "onboard_time": 1691055275,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 429327,
@@ -963,14 +979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 413112,
-      "num": 363480,
-      "word": "网传涿州一男子打骂救援人员",
-      "onboard_time": 1691056237,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400363,
       "num": 400363,
       "word": "长相思热度",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1690976974,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 383926,
-      "num": 358712,
-      "word": "鹿晗武汉演唱会接受部分退票需求",
-      "onboard_time": 1691055275,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 379627,
@@ -1083,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 343000,
+      "num": 335951,
+      "word": "气运联盟官宣胡宇桐退出",
+      "onboard_time": 1691057139,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342779,
       "num": 342779,
       "word": "不要轻易给考研搭子发李钟硕",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1691022518,
       "rank": 26,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 318934,
+      "num": 2656519,
+      "word": "洪水救援现场大哥高喊抱孩子的先上",
+      "onboard_time": 1691056237,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315553,
@@ -1371,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269334,
-      "num": 269334,
-      "word": "气运联盟官宣胡宇桐退出",
-      "onboard_time": 1691057139,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266828,
       "num": 189030,
       "word": "长相思非演员粉的观众都是被什么吸引来",
@@ -1467,20 +1475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253739,
+      "num": 253739,
+      "word": "韩国超导低温学会称LK99不是常温超导体",
+      "onboard_time": 1691058276,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251572,
       "num": 251572,
       "word": "檀健次说分so就分so",
       "onboard_time": 1690976193,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247465,
-      "num": 2656519,
-      "word": "洪水救援现场大哥高喊抱孩子的先上",
-      "onboard_time": 1691056237,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247030,
@@ -1545,6 +1553,14 @@
       "onboard_time": 1691025516,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 233871,
+      "num": 640779,
+      "word": "四川熊猫长得都太有特点了",
+      "onboard_time": 1691056237,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233830,
@@ -1691,6 +1707,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214463,
+      "num": 214463,
+      "word": "不是每个人都适合竞争",
+      "onboard_time": 1691058100,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 213671,
+      "num": 213671,
+      "word": "檀健次傲娇歪头杀",
+      "onboard_time": 1691058517,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212086,
       "num": 212086,
       "word": "孤注一掷看得惊心动魄",
@@ -1772,19 +1804,11 @@
     },
     {
       "raw_hot": 205230,
-      "num": 205230,
+      "num": 209752,
       "word": "爆笑的GOING SEVENTEEN飞镖游戏",
       "onboard_time": 1691057019,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204536,
-      "num": 640779,
-      "word": "四川熊猫长得都太有特点了",
-      "onboard_time": 1691056237,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204423,
@@ -1833,6 +1857,14 @@
       "onboard_time": 1691025516,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201876,
+      "num": 212006,
+      "word": "长相思饭桌关系图",
+      "onboard_time": 1691058398,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 201565,
@@ -1937,6 +1969,14 @@
       "onboard_time": 1691026478,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188563,
+      "num": 210792,
+      "word": "已经到了讨厌吃外卖的年纪",
+      "onboard_time": 1691058033,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 188038,
@@ -2081,6 +2121,14 @@
       "onboard_time": 1691030076,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150849,
+      "num": 2380603,
+      "word": "飞行员讲述与外机近距离缠斗细节",
+      "onboard_time": 1691057917,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150620,
@@ -2275,6 +2323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88348,
+      "num": 344354,
+      "word": "男子救人时遇难差几天他就满31岁",
+      "onboard_time": 1691057797,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85339,
+      "num": 574002,
+      "word": "这不是电影这是解放军真实演练",
+      "onboard_time": 1691056837,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84749,
       "num": 84749,
       "word": "世间最疼爱你的人是妈妈",
@@ -2299,12 +2363,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 54258,
-      "num": 574002,
-      "word": "这不是电影这是解放军真实演练",
-      "onboard_time": 1691056837,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 45709,
+      "num": 385034,
+      "word": "小孩被卷车底众人抬车救起",
+      "onboard_time": 1691056360,
+      "rank": 18,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 42292,
@@ -2315,28 +2379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42151,
-      "num": 385034,
-      "word": "小孩被卷车底众人抬车救起",
-      "onboard_time": 1691056360,
-      "rank": 18,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 40741,
       "num": 75184,
       "word": "鞠婧祎舞台彩排图",
       "onboard_time": 1690989097,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 39694,
-      "num": 344354,
-      "word": "男子救人时遇难差几天他就满31岁",
-      "onboard_time": 1691057797,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33654,
@@ -2363,12 +2411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29771,
+      "num": 235499,
+      "word": "没有人能拒绝成都的担担面吧",
+      "onboard_time": 1691058633,
+      "rank": 38,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 27924,
       "num": 38856,
       "word": "这些剧里一帧一风景",
       "onboard_time": 1691003115,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26890,
+      "num": 337000,
+      "word": "成都大运会这一幕太暖了",
+      "onboard_time": 1691058696,
+      "rank": 25,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 16991,

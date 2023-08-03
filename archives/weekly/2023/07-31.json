@@ -1,7 +1,15 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691057859741,
+  "endTime": 1691058813095,
   "band_list": [
+    {
+      "raw_hot": 4109432,
+      "num": 4109432,
+      "word": "TFBOYS合体排练",
+      "onboard_time": 1691056360,
+      "rank": 0,
+      "category": "音乐"
+    },
     {
       "raw_hot": 4077391,
       "num": 4077391,
@@ -9,14 +17,6 @@
       "onboard_time": 1690816715,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3773941,
-      "num": 3773941,
-      "word": "TFBOYS合体排练",
-      "onboard_time": 1691056360,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 3282960,
@@ -1459,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 972552,
+      "num": 972552,
+      "word": "魏大勋衬衫上绣了蝴蝶",
+      "onboard_time": 1691055940,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 970521,
       "num": 937920,
       "word": "房山",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1690953098,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 944506,
-      "num": 944506,
-      "word": "魏大勋衬衫上绣了蝴蝶",
-      "onboard_time": 1691055940,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 944286,
@@ -3420,7 +3420,7 @@
     },
     {
       "raw_hot": 537391,
-      "num": 372109,
+      "num": 512657,
       "word": "费曼 我不知道我要澄清什么",
       "onboard_time": 1691055760,
       "rank": 20,
@@ -3433,6 +3433,14 @@
       "onboard_time": 1690975173,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 534159,
+      "num": 534159,
+      "word": "网传涿州一男子打骂救援人员",
+      "onboard_time": 1691056237,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533864,
@@ -3673,6 +3681,14 @@
       "onboard_time": 1690847251,
       "rank": 23,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 499321,
+      "num": 499321,
+      "word": "拜托蒋依依是童星",
+      "onboard_time": 1691056176,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 496668,
@@ -4131,14 +4147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 447592,
-      "num": 447592,
-      "word": "拜托蒋依依是童星",
-      "onboard_time": 1691056176,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 446768,
       "num": 446768,
       "word": "8月份十二星座的注意事项",
@@ -4299,6 +4307,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 429484,
+      "num": 358712,
+      "word": "鹿晗武汉演唱会接受部分退票需求",
+      "onboard_time": 1691055275,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 428491,
       "num": 428491,
       "word": "陈哲远的手机壳",
@@ -4457,14 +4473,6 @@
       "onboard_time": 1691045915,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 413112,
-      "num": 363480,
-      "word": "网传涿州一男子打骂救援人员",
-      "onboard_time": 1691056237,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412002,
@@ -4793,14 +4801,6 @@
       "onboard_time": 1690858118,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 383926,
-      "num": 358712,
-      "word": "鹿晗武汉演唱会接受部分退票需求",
-      "onboard_time": 1691055275,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 381086,
@@ -5243,6 +5243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343000,
+      "num": 335951,
+      "word": "气运联盟官宣胡宇桐退出",
+      "onboard_time": 1691057139,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342779,
       "num": 342779,
       "word": "不要轻易给考研搭子发李钟硕",
@@ -5457,6 +5465,14 @@
       "onboard_time": 1691022518,
       "rank": 26,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 318934,
+      "num": 2656519,
+      "word": "洪水救援现场大哥高喊抱孩子的先上",
+      "onboard_time": 1691056237,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318154,
@@ -6307,14 +6323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269334,
-      "num": 269334,
-      "word": "气运联盟官宣胡宇桐退出",
-      "onboard_time": 1691057139,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 268241,
       "num": 242802,
       "word": "到底是谁逼小夭亲他",
@@ -6627,6 +6635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253739,
+      "num": 253739,
+      "word": "韩国超导低温学会称LK99不是常温超导体",
+      "onboard_time": 1691058276,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253608,
       "num": 273127,
       "word": "中国女足迎来生死战",
@@ -6713,14 +6729,6 @@
       "onboard_time": 1690804354,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247465,
-      "num": 2656519,
-      "word": "洪水救援现场大哥高喊抱孩子的先上",
-      "onboard_time": 1691056237,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247239,
@@ -7009,6 +7017,14 @@
       "onboard_time": 1690984659,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233871,
+      "num": 640779,
+      "word": "四川熊猫长得都太有特点了",
+      "onboard_time": 1691056237,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233830,
@@ -7387,12 +7403,28 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 214463,
+      "num": 214463,
+      "word": "不是每个人都适合竞争",
+      "onboard_time": 1691058100,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214182,
       "num": 214182,
       "word": "救援队员在冰冷的水中吃东西充饥",
       "onboard_time": 1690942530,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213671,
+      "num": 213671,
+      "word": "檀健次傲娇歪头杀",
+      "onboard_time": 1691058517,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 213209,
@@ -7612,7 +7644,7 @@
     },
     {
       "raw_hot": 205230,
-      "num": 205230,
+      "num": 209752,
       "word": "爆笑的GOING SEVENTEEN飞镖游戏",
       "onboard_time": 1691057019,
       "rank": 43,
@@ -7633,14 +7665,6 @@
       "onboard_time": 1690881272,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204536,
-      "num": 640779,
-      "word": "四川熊猫长得都太有特点了",
-      "onboard_time": 1691056237,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204258,
@@ -7753,6 +7777,14 @@
       "onboard_time": 1690773271,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201876,
+      "num": 212006,
+      "word": "长相思饭桌关系图",
+      "onboard_time": 1691058398,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 201565,
@@ -8105,6 +8137,14 @@
       "onboard_time": 1690937018,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 188563,
+      "num": 210792,
+      "word": "已经到了讨厌吃外卖的年纪",
+      "onboard_time": 1691058033,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 188051,
@@ -8579,6 +8619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150849,
+      "num": 2380603,
+      "word": "飞行员讲述与外机近距离缠斗细节",
+      "onboard_time": 1691057917,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150786,
       "num": 150786,
       "word": "给雪糕明码标价的便利店",
@@ -9027,6 +9075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88348,
+      "num": 344354,
+      "word": "男子救人时遇难差几天他就满31岁",
+      "onboard_time": 1691057797,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87525,
       "num": 87525,
       "word": "马立奥玩游戏淘汰了三喜",
@@ -9039,6 +9095,14 @@
       "num": 722545,
       "word": "数千万人获得信用卡加倍积分",
       "onboard_time": 1690945232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85339,
+      "num": 574002,
+      "word": "这不是电影这是解放军真实演练",
+      "onboard_time": 1691056837,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -9131,20 +9195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54258,
-      "num": 574002,
-      "word": "这不是电影这是解放军真实演练",
-      "onboard_time": 1691056837,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53366,
       "num": 553120,
       "word": "到人民群众需要的地方去",
       "onboard_time": 1690974032,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45709,
+      "num": 385034,
+      "word": "小孩被卷车底众人抬车救起",
+      "onboard_time": 1691056360,
+      "rank": 18,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 44262,
@@ -9187,27 +9251,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42151,
-      "num": 385034,
-      "word": "小孩被卷车底众人抬车救起",
-      "onboard_time": 1691056360,
-      "rank": 18,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 41603,
       "num": 1796243,
       "word": "青春主场梦想正当燃",
       "onboard_time": 1690860634,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39694,
-      "num": 344354,
-      "word": "男子救人时遇难差几天他就满31岁",
-      "onboard_time": 1691057797,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -9243,6 +9291,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 29771,
+      "num": 235499,
+      "word": "没有人能拒绝成都的担担面吧",
+      "onboard_time": 1691058633,
+      "rank": 38,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 29333,
       "num": 32431,
       "word": "村超到处人人人人",
@@ -9265,6 +9321,14 @@
       "onboard_time": 1690831753,
       "rank": 47,
       "category": "自然"
+    },
+    {
+      "raw_hot": 26890,
+      "num": 337000,
+      "word": "成都大运会这一幕太暖了",
+      "onboard_time": 1691058696,
+      "rank": 25,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 26393,
