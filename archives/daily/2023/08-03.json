@@ -1,6 +1,6 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691040832607,
+  "endTime": 1691043670615,
   "band_list": [
     {
       "raw_hot": 3162373,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1679187,
-      "num": 559187,
+      "num": 610224,
       "word": "费翔 胸大的苦恼",
       "onboard_time": 1691035779,
       "rank": 30,
@@ -169,6 +169,14 @@
       "onboard_time": 1691021676,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 990271,
+      "num": 990271,
+      "word": "爷爷舍不得买鞋柜用冰箱装鞋",
+      "onboard_time": 1691038839,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 985837,
@@ -308,11 +316,27 @@
     },
     {
       "raw_hot": 665150,
-      "num": 383922,
+      "num": 421067,
       "word": "小伙使用酒店毛巾后被确诊淋病",
       "onboard_time": 1691037102,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655988,
+      "num": 598153,
+      "word": "宋佳工作室 我们姐没让人送过饼干",
+      "onboard_time": 1691043276,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 651567,
+      "num": 651567,
+      "word": "到成都后开始理解美羊羊了",
+      "onboard_time": 1691041358,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 651196,
@@ -321,6 +345,22 @@
       "onboard_time": 1691021496,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 648090,
+      "num": 458326,
+      "word": "日本女生每天花10元买下三套房",
+      "onboard_time": 1691042435,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 646388,
+      "num": 646388,
+      "word": "敖子逸蒋依依",
+      "onboard_time": 1691042197,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 634798,
@@ -387,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 596698,
+      "num": 596698,
+      "word": "在电影院被老鼠咬了一口",
+      "onboard_time": 1691039677,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 589358,
       "num": 505491,
       "word": "美国8岁女孩失踪48年悬案",
@@ -401,6 +449,14 @@
       "onboard_time": 1691032781,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 570736,
+      "num": 452489,
+      "word": "徐梦洁被吴镇宇凶哭了",
+      "onboard_time": 1691040816,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 570462,
@@ -451,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 522564,
+      "num": 522564,
+      "word": "庞博在北外搞同传副业",
+      "onboard_time": 1691040515,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 514547,
       "num": 514547,
       "word": "卡努",
@@ -467,20 +531,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 491003,
+      "num": 491003,
+      "word": "封神训练营 传销",
+      "onboard_time": 1691041537,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 488315,
       "num": 488315,
       "word": "打工而已我又不是来改造自己的",
       "onboard_time": 1691029476,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 488254,
-      "num": 488254,
-      "word": "爷爷舍不得买鞋柜用冰箱装鞋",
-      "onboard_time": 1691038839,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 470757,
@@ -603,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 428491,
+      "num": 428491,
+      "word": "陈哲远的手机壳",
+      "onboard_time": 1691041537,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 428363,
       "num": 428363,
       "word": "西游记里的妖怪都在长春",
@@ -635,12 +707,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 390482,
-      "num": 390482,
-      "word": "在电影院被老鼠咬了一口",
-      "onboard_time": 1691039677,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 400160,
+      "num": 628875,
+      "word": "涿州受困者趴泡沫箱漂浮一夜求生",
+      "onboard_time": 1691038361,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395365,
+      "num": 479704,
+      "word": "泄洪",
+      "onboard_time": 1691039081,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384175,
@@ -712,14 +792,6 @@
       "word": "丫丫生日坐在竹子上干饭",
       "onboard_time": 1691032118,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328114,
-      "num": 328114,
-      "word": "泄洪",
-      "onboard_time": 1691039081,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -811,14 +883,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 296035,
-      "num": 296035,
-      "word": "涿州受困者趴泡沫箱漂浮一夜求生",
-      "onboard_time": 1691038361,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295579,
       "num": 295579,
       "word": "绝味幼儿园",
@@ -857,6 +921,14 @@
       "onboard_time": 1691019930,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 291215,
+      "num": 291215,
+      "word": "玖瑶和玱玹是情侣名",
+      "onboard_time": 1691040276,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 289927,
@@ -939,6 +1011,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 265774,
+      "num": 265774,
+      "word": "陈赫杜海涛一个敢说一个敢接",
+      "onboard_time": 1691040757,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260631,
       "num": 260631,
       "word": "迪丽热巴帝梓元白发上线",
@@ -995,14 +1075,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 246372,
-      "num": 245794,
-      "word": "玖瑶和玱玹是情侣名",
-      "onboard_time": 1691040276,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 242786,
       "num": 242786,
       "word": "当学生暑假碰到班主任",
@@ -1017,6 +1089,14 @@
       "onboard_time": 1691027319,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240215,
+      "num": 240215,
+      "word": "邓为谈涂山璟",
+      "onboard_time": 1691041718,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 239243,
@@ -1083,20 +1163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226713,
-      "num": 226713,
-      "word": "庞博在北外搞同传副业",
-      "onboard_time": 1691040515,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225565,
       "num": 225565,
       "word": "以后再不知道吃什么饭就来看看她家狗吃什么",
       "onboard_time": 1691025273,
       "rank": 43,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 223613,
+      "num": 193525,
+      "word": "莲花楼制片人",
+      "onboard_time": 1691042435,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 222503,
@@ -1195,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204453,
+      "num": 193291,
+      "word": "是余华不是鱼滑",
+      "onboard_time": 1691043457,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204423,
       "num": 204423,
       "word": "在美国聚会做水煮鱼惊艳全场",
@@ -1209,6 +1297,14 @@
       "onboard_time": 1691038720,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203025,
+      "num": 193222,
+      "word": "TF家族登陆计划让我们不顾一切",
+      "onboard_time": 1691043457,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 202588,
@@ -1267,12 +1363,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 196459,
+      "num": 193119,
+      "word": "长相思主创空降超话",
+      "onboard_time": 1691043515,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192632,
       "num": 192632,
       "word": "九尾环球玩通关了",
       "onboard_time": 1691037405,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190887,
+      "num": 190887,
+      "word": "2023年世界最美女性榜单",
+      "onboard_time": 1691042373,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189256,
@@ -1307,12 +1419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184391,
-      "num": 211061,
-      "word": "陈赫杜海涛一个敢说一个敢接",
-      "onboard_time": 1691040757,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 176498,
+      "num": 193731,
+      "word": "太原一醋厂用冰乙酸勾兑食醋销往全国",
+      "onboard_time": 1691043033,
+      "rank": 38,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 176390,
@@ -1321,14 +1433,6 @@
       "onboard_time": 1690979015,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175415,
-      "num": 211058,
-      "word": "徐梦洁被吴镇宇凶哭了",
-      "onboard_time": 1691040816,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 172978,

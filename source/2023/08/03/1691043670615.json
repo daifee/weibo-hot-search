@@ -1,0 +1,410 @@
+{
+  "runTime": 1691043670615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1234863,
+        "num": 1234863,
+        "word": "快乐大本营",
+        "onboard_time": 1691030738,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1170065,
+        "num": 1170065,
+        "word": "晋江文学 17年分水岭",
+        "onboard_time": 1691034279,
+        "rank": 1,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 76474,
+        "num": 1060727,
+        "word": "有人民的地方就有子弟兵",
+        "onboard_time": 1691033382,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990271,
+        "num": 990271,
+        "word": "爷爷舍不得买鞋柜用冰箱装鞋",
+        "onboard_time": 1691038839,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 764403,
+        "num": 764403,
+        "word": "苏沫去不了TFBOYS演唱会了",
+        "onboard_time": 1691038121,
+        "rank": 4,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 651832,
+        "num": 651832,
+        "word": "快乐大本营更名后掉粉40万",
+        "onboard_time": 1691034819,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651567,
+        "num": 651567,
+        "word": "到成都后开始理解美羊羊了",
+        "onboard_time": 1691041358,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 646388,
+        "num": 646388,
+        "word": "敖子逸蒋依依",
+        "onboard_time": 1691042197,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427941,
+        "num": 639917,
+        "word": "中图网 遭遇25年来毁灭性打击",
+        "onboard_time": 1691020414,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400160,
+        "num": 628875,
+        "word": "涿州受困者趴泡沫箱漂浮一夜求生",
+        "onboard_time": 1691038361,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356773,
+        "num": 621361,
+        "word": "河北省委书记称坚决当好护城河",
+        "onboard_time": 1691038839,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939684,
+        "num": 610224,
+        "word": "费翔 胸大的苦恼",
+        "onboard_time": 1691035779,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 655988,
+        "num": 598153,
+        "word": "宋佳工作室 我们姐没让人送过饼干",
+        "onboard_time": 1691043276,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596698,
+        "num": 596698,
+        "word": "在电影院被老鼠咬了一口",
+        "onboard_time": 1691039677,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 537385,
+        "num": 537385,
+        "word": "最适合考公过渡的工作",
+        "onboard_time": 1691028458,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 531500,
+        "num": 531500,
+        "word": "化妆师吴淼说杨洋本人真的不矮",
+        "onboard_time": 1691034520,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522564,
+        "num": 522564,
+        "word": "庞博在北外搞同传副业",
+        "onboard_time": 1691040515,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491003,
+        "num": 491003,
+        "word": "封神训练营 传销",
+        "onboard_time": 1691041537,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395365,
+        "num": 479704,
+        "word": "泄洪",
+        "onboard_time": 1691039081,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273746,
+        "num": 474736,
+        "word": "女书记哽咽着说没有人比中国人更团结",
+        "onboard_time": 1691020533,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648090,
+        "num": 458326,
+        "word": "日本女生每天花10元买下三套房",
+        "onboard_time": 1691042435,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 570736,
+        "num": 452489,
+        "word": "徐梦洁被吴镇宇凶哭了",
+        "onboard_time": 1691040816,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442473,
+        "num": 442473,
+        "word": "玱玹和相柳很难演的原因",
+        "onboard_time": 1691037882,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428491,
+        "num": 428491,
+        "word": "陈哲远的手机壳",
+        "onboard_time": 1691041537,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 317761,
+        "num": 421067,
+        "word": "小伙使用酒店毛巾后被确诊淋病",
+        "onboard_time": 1691037102,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419256,
+        "num": 419256,
+        "word": "迪丽热巴檀健次白发造型",
+        "onboard_time": 1691036678,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 322445,
+        "num": 322445,
+        "word": "再也看不到TFBOYS写的信了",
+        "onboard_time": 1691038839,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291215,
+        "num": 291215,
+        "word": "玖瑶和玱玹是情侣名",
+        "onboard_time": 1691040276,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265774,
+        "num": 265774,
+        "word": "陈赫杜海涛一个敢说一个敢接",
+        "onboard_time": 1691040757,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255822,
+        "num": 255822,
+        "word": "原来50岁还要被催婚",
+        "onboard_time": 1691031701,
+        "rank": 29,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 248397,
+        "num": 248397,
+        "word": "封神演员的五年",
+        "onboard_time": 1691037882,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242610,
+        "num": 242610,
+        "word": "不要轻易给考研搭子发李钟硕",
+        "onboard_time": 1691039855,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 240215,
+        "num": 240215,
+        "word": "邓为谈涂山璟",
+        "onboard_time": 1691041718,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194324,
+        "num": 194324,
+        "word": "限时吃5块松饼上海一店被罚3万",
+        "onboard_time": 1691034160,
+        "rank": 33,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 189653,
+        "num": 194270,
+        "word": "18岁女孩被割400刀法院判轻伤",
+        "onboard_time": 1690988077,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238942,
+        "num": 194121,
+        "word": "王俊凯王源易烊千玺今天又近了一步",
+        "onboard_time": 1691032419,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 234221,
+        "num": 193986,
+        "word": "魏大勋 和弟弟浅跳一下",
+        "onboard_time": 1691033919,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179127,
+        "num": 193891,
+        "word": "丫丫生日坐在竹子上干饭",
+        "onboard_time": 1691032118,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176498,
+        "num": 193731,
+        "word": "太原一醋厂用冰乙酸勾兑食醋销往全国",
+        "onboard_time": 1691043033,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 173763,
+        "num": 193562,
+        "word": "还有3到4亿立方水要过境涿州",
+        "onboard_time": 1691027259,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223613,
+        "num": 193525,
+        "word": "莲花楼制片人",
+        "onboard_time": 1691042435,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204453,
+        "num": 193291,
+        "word": "是余华不是鱼滑",
+        "onboard_time": 1691043457,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203025,
+        "num": 193222,
+        "word": "TF家族登陆计划让我们不顾一切",
+        "onboard_time": 1691043457,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196459,
+        "num": 193119,
+        "word": "长相思主创空降超话",
+        "onboard_time": 1691043515,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193008,
+        "num": 193008,
+        "word": "假人版范丞丞魏大勋",
+        "onboard_time": 1691040337,
+        "rank": 44,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 190887,
+        "num": 190887,
+        "word": "2023年世界最美女性榜单",
+        "onboard_time": 1691042373,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160821,
+        "num": 190885,
+        "word": "剪完头发后暂时失去了女友",
+        "onboard_time": 1691036439,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153984,
+        "num": 190860,
+        "word": "论鼻子的修容对颜值的影响",
+        "onboard_time": 1691040757,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 139087,
+        "num": 190856,
+        "word": "感谢你离职侠",
+        "onboard_time": 1691036621,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116043,
+        "num": 190839,
+        "word": "涿州积水区水深近6米",
+        "onboard_time": 1691019388,
+        "rank": 49,
+        "category": "社会新闻,自然"
+      }
+    ],
+    "hotgov": {
+      "word": "#多方紧急驰援涿州#"
+    }
+  }
+}
