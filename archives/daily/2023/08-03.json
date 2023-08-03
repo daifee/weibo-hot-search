@@ -1,10 +1,10 @@
 {
   "startTime": 1690993333502,
-  "endTime": 1691025650827,
+  "endTime": 1691026932678,
   "band_list": [
     {
       "raw_hot": 1980686,
-      "num": 554188,
+      "num": 575554,
       "word": "殷世航问凭什么别人可以垫箱子出道",
       "onboard_time": 1691019809,
       "rank": 10,
@@ -19,6 +19,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1511791,
+      "num": 1511791,
+      "word": "中图网 遭遇25年来毁灭性打击",
+      "onboard_time": 1691020414,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1433702,
+      "num": 1433702,
+      "word": "张艺兴 流量没什么意义",
+      "onboard_time": 1691024917,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1360342,
       "num": 1360342,
       "word": "保安让王源出示自己演唱会的工作证",
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 1336770,
-      "num": 551846,
+      "num": 567159,
       "word": "18岁女孩被割400刀法院判轻伤",
       "onboard_time": 1690988077,
       "rank": 21,
@@ -40,14 +56,6 @@
       "word": "暴雨后北京街头堆积大量受损汽车",
       "onboard_time": 1691010252,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1284214,
-      "num": 1284214,
-      "word": "中图网 遭遇25年来毁灭性打击",
-      "onboard_time": 1691020414,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -75,8 +83,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 921229,
-      "num": 921229,
+      "raw_hot": 1005149,
+      "num": 1005149,
       "word": "原著里小夭是自己游回去的",
       "onboard_time": 1691021676,
       "rank": 4,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 825088,
-      "num": 674807,
+      "num": 681056,
       "word": "起猛了看见小夭相柳的儿子了",
       "onboard_time": 1691019570,
       "rank": 6,
@@ -123,6 +131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 674999,
+      "num": 674999,
+      "word": "大鹏回复徐峥",
+      "onboard_time": 1691022034,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 670736,
       "num": 535490,
       "word": "刘浩存于适早期合影",
@@ -139,16 +155,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 628843,
-      "num": 628843,
-      "word": "张艺兴 流量没什么意义",
-      "onboard_time": 1691024917,
-      "rank": 7,
+      "raw_hot": 621525,
+      "num": 621525,
+      "word": "堂堂大王姬为什么不能拥有4个男人",
+      "onboard_time": 1691021736,
+      "rank": 9,
       "category": "影视"
     },
     {
       "raw_hot": 614426,
-      "num": 534175,
+      "num": 556763,
       "word": "上海火车站一男子携带大量淫秽光碟",
       "onboard_time": 1691023117,
       "rank": 14,
@@ -180,19 +196,11 @@
     },
     {
       "raw_hot": 589358,
-      "num": 304558,
+      "num": 505491,
       "word": "美国8岁女孩失踪48年悬案",
       "onboard_time": 1691024074,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 568118,
-      "num": 568118,
-      "word": "大鹏回复徐峥",
-      "onboard_time": 1691022034,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 566700,
@@ -201,14 +209,6 @@
       "onboard_time": 1690988258,
       "rank": 8,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 557858,
-      "num": 557858,
-      "word": "堂堂大王姬为什么不能拥有4个男人",
-      "onboard_time": 1691021736,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 540420,
@@ -275,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 452148,
+      "num": 452148,
+      "word": "丫丫干饭名场面",
+      "onboard_time": 1691024432,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438261,
       "num": 438261,
       "word": "佳木斯建方舱医院真相",
@@ -339,19 +347,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376230,
-      "num": 376230,
-      "word": "丫丫干饭名场面",
-      "onboard_time": 1691024432,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369243,
       "num": 369243,
       "word": "k396",
       "onboard_time": 1691023718,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353041,
+      "num": 353041,
+      "word": "丫丫今天过生日",
+      "onboard_time": 1691026054,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -395,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310188,
+      "num": 305066,
+      "word": "邓为实绩图",
+      "onboard_time": 1691026358,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306577,
       "num": 306577,
       "word": "周扬青我不是艺人是网红",
@@ -425,6 +441,22 @@
       "onboard_time": 1690992870,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300473,
+      "num": 295635,
+      "word": "猫妈妈原来真的会教小猫说话啊",
+      "onboard_time": 1691025758,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 292803,
+      "num": 292803,
+      "word": "莲花楼角丽谯女王发言",
+      "onboard_time": 1691025334,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 292452,
@@ -465,6 +497,14 @@
       "onboard_time": 1690982618,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266828,
+      "num": 189030,
+      "word": "长相思非演员粉的观众都是被什么吸引来",
+      "onboard_time": 1691026054,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 260631,
@@ -513,6 +553,14 @@
       "onboard_time": 1690988799,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238733,
+      "num": 238733,
+      "word": "换证后一定要做的事",
+      "onboard_time": 1691026054,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 238148,
@@ -569,14 +617,6 @@
       "onboard_time": 1690979137,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212611,
-      "num": 212611,
-      "word": "莲花楼角丽谯女王发言",
-      "onboard_time": 1691025334,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 211462,
@@ -643,12 +683,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189256,
+      "num": 189256,
+      "word": "闪耀暖暖",
+      "onboard_time": 1691026478,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 187356,
+      "num": 187356,
+      "word": "黄子韬说只有马伯骞能比他帅",
+      "onboard_time": 1691026837,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186841,
       "num": 203491,
       "word": "封神宇宙",
       "onboard_time": 1690982556,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186599,
+      "num": 186599,
+      "word": "第五人格",
+      "onboard_time": 1691025874,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 176390,
@@ -852,7 +916,7 @@
     },
     {
       "raw_hot": 31207,
-      "num": 1125727,
+      "num": 1265920,
       "word": "暴雨洪涝后如何做好个人健康防护",
       "onboard_time": 1690965873,
       "rank": 2,
