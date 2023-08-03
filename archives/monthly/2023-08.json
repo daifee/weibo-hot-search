@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691036371070,
+  "endTime": 1691037227212,
   "band_list": [
     {
       "raw_hot": 4077391,
@@ -235,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1892835,
+      "num": 1892835,
+      "word": "晋江文学 17年分水岭",
+      "onboard_time": 1691034279,
+      "rank": 3,
+      "category": "作品衍生,情感"
+    },
+    {
       "raw_hot": 1829605,
       "num": 1829605,
       "word": "成都给花花出了个冰淇淋",
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1386225,
+      "num": 1001089,
+      "word": "专家回应河北天津泄洪是为了保北京",
+      "onboard_time": 1691027858,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1380406,
       "num": 1380406,
       "word": "俄罗斯素食主义网红去世",
@@ -465,22 +481,6 @@
       "onboard_time": 1690864902,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1367745,
-      "num": 1367745,
-      "word": "晋江文学 17年分水岭",
-      "onboard_time": 1691034279,
-      "rank": 3,
-      "category": "作品衍生,情感"
-    },
-    {
-      "raw_hot": 1361509,
-      "num": 1001089,
-      "word": "专家回应河北天津泄洪是为了保北京",
-      "onboard_time": 1691027858,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1351204,
@@ -521,6 +521,14 @@
       "onboard_time": 1690988077,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1319464,
+      "num": 559187,
+      "word": "费翔 胸大的苦恼",
+      "onboard_time": 1691035779,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1304449,
@@ -691,6 +699,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1080041,
+      "num": 578145,
+      "word": "化妆师吴淼说杨洋本人真的不矮",
+      "onboard_time": 1691034520,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1076204,
       "num": 1076204,
       "word": "长相思一家五口",
@@ -747,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1025619,
+      "num": 1025619,
+      "word": "原来50岁还要被催婚",
+      "onboard_time": 1691031701,
+      "rank": 30,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 1025098,
       "num": 1025098,
       "word": "台风卡努或将转向",
@@ -761,14 +785,6 @@
       "onboard_time": 1690895857,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1015220,
-      "num": 1015220,
-      "word": "原来50岁还要被催婚",
-      "onboard_time": 1691031701,
-      "rank": 30,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 1009982,
@@ -1001,14 +1017,6 @@
       "onboard_time": 1690952676,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 911919,
-      "num": 578145,
-      "word": "化妆师吴淼说杨洋本人真的不矮",
-      "onboard_time": 1691034520,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 905621,
@@ -1563,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703028,
+      "num": 703028,
+      "word": "快乐大本营更名后掉粉40万",
+      "onboard_time": 1691034819,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 690156,
       "num": 520218,
       "word": "妲己封神第二部造型",
@@ -1772,7 +1788,7 @@
     },
     {
       "raw_hot": 634798,
-      "num": 572233,
+      "num": 603772,
       "word": "限时吃5块松饼上海一店被罚3万",
       "onboard_time": 1691034160,
       "rank": 13,
@@ -2003,14 +2019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 577512,
-      "num": 327812,
-      "word": "费翔 胸大的苦恼",
-      "onboard_time": 1691035779,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 574573,
       "num": 574573,
       "word": "张晚意谈与杨紫合作",
@@ -2169,14 +2177,6 @@
       "onboard_time": 1690975173,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 534064,
-      "num": 398108,
-      "word": "快乐大本营更名后掉粉40万",
-      "onboard_time": 1691034819,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 533864,
@@ -2779,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431528,
+      "num": 291104,
+      "word": "日本小哥不工作专门接受别人请客吃饭",
+      "onboard_time": 1691035960,
+      "rank": 43,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 430870,
       "num": 430870,
       "word": "王鹤棣西安",
@@ -3131,11 +3139,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383398,
+      "num": 288428,
+      "word": "迪丽热巴檀健次白发造型",
+      "onboard_time": 1691036678,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 380134,
       "num": 352050,
       "word": "封神第一部票房破13亿",
       "onboard_time": 1690971815,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 379627,
+      "num": 283111,
+      "word": "如果相柳体内有小夭的孩子",
+      "onboard_time": 1691036380,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -3201,6 +3225,14 @@
       "onboard_time": 1690868554,
       "rank": 22,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 364214,
+      "num": 364214,
+      "word": "涿州积水区水深近6米",
+      "onboard_time": 1691019388,
+      "rank": 25,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 364080,
@@ -3305,14 +3337,6 @@
       "onboard_time": 1690938935,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352385,
-      "num": 352385,
-      "word": "涿州积水区水深近6米",
-      "onboard_time": 1691019388,
-      "rank": 25,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 349810,
@@ -3779,6 +3803,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 292918,
+      "num": 287702,
+      "word": "夭璟吻戏完整版",
+      "onboard_time": 1691035119,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292803,
       "num": 292803,
       "word": "莲花楼角丽谯女王发言",
@@ -3801,6 +3833,14 @@
       "onboard_time": 1690945893,
       "rank": 40,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 291692,
+      "num": 291692,
+      "word": "剪完头发后暂时失去了女友",
+      "onboard_time": 1691036439,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 291575,
@@ -3875,14 +3915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287702,
-      "num": 287702,
-      "word": "夭璟吻戏完整版",
-      "onboard_time": 1691035119,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 287679,
       "num": 287679,
       "word": "Elk 卖票小子",
@@ -3923,12 +3955,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 283820,
+      "num": 253810,
+      "word": "迪丽热巴让龚俊跳恐龙扛狼",
+      "onboard_time": 1691034819,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282982,
       "num": 282982,
       "word": "华北暴雨疯狂倾倒70多小时",
       "onboard_time": 1690933227,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282655,
+      "num": 282655,
+      "word": "感谢你离职侠",
+      "onboard_time": 1691036621,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 281050,
@@ -3977,14 +4025,6 @@
       "onboard_time": 1691028398,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 278917,
-      "num": 253810,
-      "word": "迪丽热巴让龚俊跳恐龙扛狼",
-      "onboard_time": 1691034819,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 278172,
@@ -4355,14 +4395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246222,
-      "num": 246222,
-      "word": "日本小哥不工作专门接受别人请客吃饭",
-      "onboard_time": 1691035960,
-      "rank": 43,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 246194,
       "num": 246194,
       "word": "重庆狼队首封",
@@ -4576,6 +4608,14 @@
       "word": "WB对战XYG",
       "onboard_time": 1690984659,
       "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 233830,
+      "num": 233830,
+      "word": "KPL夏季赛第三轮赛程",
+      "onboard_time": 1691036805,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -5035,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201795,
+      "num": 201795,
+      "word": "小伙使用酒店毛巾后被确诊淋病",
+      "onboard_time": 1691037102,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201565,
       "num": 208900,
       "word": "闪暖开服",
@@ -5169,6 +5217,14 @@
       "onboard_time": 1690899098,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196752,
+      "num": 211491,
+      "word": "及时发疯真的很重要",
+      "onboard_time": 1691036142,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 195915,
@@ -5321,14 +5377,6 @@
       "onboard_time": 1690891293,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185910,
-      "num": 211491,
-      "word": "及时发疯真的很重要",
-      "onboard_time": 1691036142,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 184540,
@@ -5804,7 +5852,7 @@
     },
     {
       "raw_hot": 108866,
-      "num": 1376211,
+      "num": 1420244,
       "word": "有人民的地方就有子弟兵",
       "onboard_time": 1691033382,
       "rank": 2,
