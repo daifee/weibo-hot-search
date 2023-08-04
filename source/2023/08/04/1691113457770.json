@@ -1,0 +1,410 @@
+{
+  "runTime": 1691113457770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1645598,
+        "num": 1645598,
+        "word": "官方确认重庆事业单位考试有人作弊",
+        "onboard_time": 1691110417,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1292275,
+        "num": 1292275,
+        "word": "TFBOYS新歌",
+        "onboard_time": 1691108556,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54458,
+        "num": 1154185,
+        "word": "暴雨洪涝后饮食安全指南",
+        "onboard_time": 1691070455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065379,
+        "num": 1065379,
+        "word": "福建人对刘涛的妈祖滤镜",
+        "onboard_time": 1691110898,
+        "rank": 3,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 834674,
+        "num": 834674,
+        "word": "第一次公开报道他却不能露脸",
+        "onboard_time": 1691105548,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826674,
+        "num": 826674,
+        "word": "封神版纣王妲己 官配的神",
+        "onboard_time": 1691107230,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 699630,
+        "num": 699630,
+        "word": "不要轻易介入他人的因果",
+        "onboard_time": 1691109460,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 571402,
+        "num": 571402,
+        "word": "火树",
+        "onboard_time": 1691110475,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455259,
+        "num": 455259,
+        "word": "相柳还是进入了小夭的梦里",
+        "onboard_time": 1691104222,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448134,
+        "num": 448134,
+        "word": "河北涿州发布接受救灾捐赠方式",
+        "onboard_time": 1691111623,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918510,
+        "num": 442616,
+        "word": "狗头萝莉回应穿衣风格争议",
+        "onboard_time": 1691107713,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 641919,
+        "num": 442109,
+        "word": "蟑螂汁治好了我的烂脸",
+        "onboard_time": 1691076939,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 539096,
+        "num": 441190,
+        "word": "哥们你的腹肌怎么是Windows啊",
+        "onboard_time": 1691111858,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 416822,
+        "num": 416822,
+        "word": "王俊凯王源易烊千玺排练结束后会聚餐吗",
+        "onboard_time": 1691107413,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 391793,
+        "num": 391793,
+        "word": "异人之下",
+        "onboard_time": 1691108674,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382764,
+        "num": 382764,
+        "word": "花200块买的投影仪",
+        "onboard_time": 1691107052,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 349617,
+        "num": 349617,
+        "word": "这真的不是帝后吗",
+        "onboard_time": 1691076277,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327890,
+        "num": 327890,
+        "word": "世界名画之陈牧驰救猫",
+        "onboard_time": 1691112336,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325380,
+        "num": 325380,
+        "word": "封神男团早几年干嘛去了",
+        "onboard_time": 1691109397,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270861,
+        "num": 323762,
+        "word": "李立群团队否认在杭州看病花了20万",
+        "onboard_time": 1691104945,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2180769,
+        "num": 321343,
+        "word": "他叫他崽崽 他叫他宝贝",
+        "onboard_time": 1691111198,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1700881,
+        "num": 319079,
+        "word": "90后男子强奸13岁少女被判5年9个月",
+        "onboard_time": 1691108616,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947636,
+        "num": 318668,
+        "word": "雪糕外形似避孕套被家长质疑",
+        "onboard_time": 1691112817,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572414,
+        "num": 315869,
+        "word": "农家少年高考699分没当过一天留守儿童",
+        "onboard_time": 1691111623,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 540356,
+        "num": 313261,
+        "word": "离职退群不小心把群解散了",
+        "onboard_time": 1691064993,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 505193,
+        "num": 311593,
+        "word": "二十几岁的女生真的很忙",
+        "onboard_time": 1691107894,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 310251,
+        "num": 310251,
+        "word": "莲花楼女宅案",
+        "onboard_time": 1691109277,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285645,
+        "num": 285645,
+        "word": "吴宣仪采访一看就没谈恋爱",
+        "onboard_time": 1691108495,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271199,
+        "num": 271199,
+        "word": "大鹏晒与黄渤王一博合照",
+        "onboard_time": 1691109338,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260510,
+        "num": 260510,
+        "word": "杨紫工作室换头像",
+        "onboard_time": 1691108376,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257056,
+        "num": 257056,
+        "word": "异人之下开播",
+        "onboard_time": 1691108495,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251851,
+        "num": 251851,
+        "word": "飞机上收到来自陌生人的airdrop",
+        "onboard_time": 1691106629,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247827,
+        "num": 247827,
+        "word": "邓为终于戴耳钉了",
+        "onboard_time": 1691106690,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246449,
+        "num": 246449,
+        "word": "狗狗被遗弃跋涉100公里咬主人",
+        "onboard_time": 1691113116,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234503,
+        "num": 234503,
+        "word": "苏可张雪迎演过父女",
+        "onboard_time": 1691112159,
+        "rank": 34,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 233406,
+        "num": 233406,
+        "word": "涿州",
+        "onboard_time": 1691104343,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230467,
+        "num": 230467,
+        "word": "演技进步最快的演员",
+        "onboard_time": 1691104343,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223589,
+        "num": 223589,
+        "word": "刘畊宏教徐志胜跳蛇舞",
+        "onboard_time": 1691109519,
+        "rank": 37,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 218779,
+        "num": 218779,
+        "word": "王俊凯王源易烊千玺终于不用P合照了",
+        "onboard_time": 1691106751,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206818,
+        "num": 206818,
+        "word": "当你有个不要强的朋友",
+        "onboard_time": 1691112159,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204783,
+        "num": 204783,
+        "word": "相柳被情蛊反噬的真实原因",
+        "onboard_time": 1691113178,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196269,
+        "num": 196269,
+        "word": "蜜雪冰城捐1千万支持抗汛救灾",
+        "onboard_time": 1691074059,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199302,
+        "num": 196157,
+        "word": "六岁相柳怒扔奶瓶",
+        "onboard_time": 1691113417,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195729,
+        "num": 195729,
+        "word": "封神",
+        "onboard_time": 1691112216,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189561,
+        "num": 189561,
+        "word": "牡丹江洪水已形成",
+        "onboard_time": 1691113299,
+        "rank": 44,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 189535,
+        "num": 189535,
+        "word": "自习室的大学生靠热点交流",
+        "onboard_time": 1691081365,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187171,
+        "num": 187171,
+        "word": "BLACKPINK与YG续约合约金约15亿韩元",
+        "onboard_time": 1691113417,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180552,
+        "num": 180552,
+        "word": "第一次见这种主卧卫生间",
+        "onboard_time": 1691066432,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148166,
+        "num": 178371,
+        "word": "放暑假之消失的刘海",
+        "onboard_time": 1691109937,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144882,
+        "num": 177264,
+        "word": "投影仪卖不出去了",
+        "onboard_time": 1691081126,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#暴雨洪水中每个挺身而出的人都是英雄#"
+    }
+  }
+}

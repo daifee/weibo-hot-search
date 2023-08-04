@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691112141435,
+  "endTime": 1691113457770,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -264,6 +264,14 @@
       "word": "我的人间烟火 树立正能量",
       "onboard_time": 1691052455,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2180769,
+      "num": 368711,
+      "word": "他叫他崽崽 他叫他宝贝",
+      "onboard_time": 1691111198,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -593,6 +601,14 @@
       "onboard_time": 1690794032,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1645598,
+      "num": 1645598,
+      "word": "官方确认重庆事业单位考试有人作弊",
+      "onboard_time": 1691110417,
+      "rank": 5,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1633951,
@@ -1155,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1212342,
-      "num": 368711,
-      "word": "他叫他崽崽 他叫他宝贝",
-      "onboard_time": 1691111198,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1207437,
       "num": 505888,
       "word": "狗头萝莉回应穿衣风格争议",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1690854573,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1068241,
-      "num": 1068241,
-      "word": "官方确认重庆事业单位考试有人作弊",
-      "onboard_time": 1691110417,
-      "rank": 5,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1061684,
@@ -1681,6 +1681,14 @@
       "onboard_time": 1690953098,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 947636,
+      "num": 318668,
+      "word": "雪糕外形似避孕套被家长质疑",
+      "onboard_time": 1691112817,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 944286,
@@ -3507,12 +3515,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 572414,
+      "num": 315869,
+      "word": "农家少年高考699分没当过一天留守儿童",
+      "onboard_time": 1691111623,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 571857,
       "num": 559907,
       "word": "中彩票哪有不疯的",
       "onboard_time": 1690849717,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 571402,
+      "num": 571402,
+      "word": "火树",
+      "onboard_time": 1691110475,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 571273,
@@ -3795,6 +3819,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 539096,
+      "num": 441190,
+      "word": "哥们你的腹肌怎么是Windows啊",
+      "onboard_time": 1691111858,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 538932,
       "num": 538932,
       "word": "女子借到母亲照片那一刻泪崩了",
@@ -4017,14 +4049,6 @@
       "onboard_time": 1690857520,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 506597,
-      "num": 506597,
-      "word": "火树",
-      "onboard_time": 1691110475,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 505221,
@@ -4609,6 +4633,14 @@
       "onboard_time": 1690985257,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 448134,
+      "num": 448134,
+      "word": "河北涿州发布接受救灾捐赠方式",
+      "onboard_time": 1691111623,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448032,
@@ -5515,14 +5547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365666,
-      "num": 304438,
-      "word": "农家少年高考699分没当过一天留守儿童",
-      "onboard_time": 1691111623,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 364214,
       "num": 364214,
       "word": "涿州积水区水深近6米",
@@ -6011,6 +6035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327890,
+      "num": 327890,
+      "word": "世界名画之陈牧驰救猫",
+      "onboard_time": 1691112336,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 327504,
       "num": 250159,
       "word": "有演技却没有爆火的演员",
@@ -6209,14 +6241,6 @@
       "onboard_time": 1691019329,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 312597,
-      "num": 379941,
-      "word": "河北涿州发布接受救灾捐赠方式",
-      "onboard_time": 1691111623,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312546,
@@ -7587,6 +7611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246449,
+      "num": 246449,
+      "word": "狗狗被遗弃跋涉100公里咬主人",
+      "onboard_time": 1691113116,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246337,
       "num": 246337,
       "word": "山东籍消防员冯振为救战友不幸牺牲",
@@ -7859,6 +7891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234503,
+      "num": 234503,
+      "word": "苏可张雪迎演过父女",
+      "onboard_time": 1691112159,
+      "rank": 34,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 234358,
       "num": 234358,
       "word": "如何评价张晚意的演技",
@@ -8049,14 +8089,6 @@
       "onboard_time": 1690739058,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224987,
-      "num": 224987,
-      "word": "哥们你的腹肌怎么是Windows啊",
-      "onboard_time": 1691111858,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 224885,
@@ -8539,6 +8571,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 206818,
+      "num": 206818,
+      "word": "当你有个不要强的朋友",
+      "onboard_time": 1691112159,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206757,
       "num": 206757,
       "word": "这结局太虐了",
@@ -8601,6 +8641,14 @@
       "onboard_time": 1690881272,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204783,
+      "num": 204783,
+      "word": "相柳被情蛊反噬的真实原因",
+      "onboard_time": 1691113178,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 204397,
@@ -8832,6 +8880,14 @@
       "word": "王宽小景8集牵手11次",
       "onboard_time": 1690794872,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199302,
+      "num": 196157,
+      "word": "六岁相柳怒扔奶瓶",
+      "onboard_time": 1691113417,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -9147,6 +9203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189561,
+      "num": 189561,
+      "word": "牡丹江洪水已形成",
+      "onboard_time": 1691113299,
+      "rank": 44,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 189256,
       "num": 189256,
       "word": "闪耀暖暖",
@@ -9193,6 +9257,14 @@
       "onboard_time": 1691031459,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187171,
+      "num": 187171,
+      "word": "BLACKPINK与YG续约合约金约15亿韩元",
+      "onboard_time": 1691113417,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 186921,
