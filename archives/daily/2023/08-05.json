@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691184827908,
+  "endTime": 1691187320417,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120456,
+      "num": 62245,
+      "word": "河北涿州灾区的明星捐款名单",
+      "onboard_time": 1691181913,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104158,
       "num": 104158,
       "word": "好声音咋改唱跳了",
@@ -451,11 +459,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 81953,
-      "num": 81953,
+      "raw_hot": 90457,
+      "num": 90457,
       "word": "乌克兰丈母娘感叹上海是童话世界",
       "onboard_time": 1691171000,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80082,
+      "num": 62020,
+      "word": "卡努或将急转弯转向东北",
+      "onboard_time": 1691185635,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -467,12 +483,20 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 72170,
-      "num": 42621,
-      "word": "河北涿州灾区的明星捐款名单",
-      "onboard_time": 1691181913,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 43902,
+      "num": 43902,
+      "word": "不是说竹子宁折不弯吗",
+      "onboard_time": 1691181793,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 33182,
+      "num": 33263,
+      "word": "封神彩蛋",
+      "onboard_time": 1691182874,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 31659,
@@ -499,14 +523,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 23937,
-      "num": 33263,
-      "word": "封神彩蛋",
-      "onboard_time": 1691182874,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 19737,
       "num": 33147,
       "word": "有一种收纳法叫妈妈",
@@ -515,8 +531,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 11556,
-      "num": 284302,
+      "raw_hot": 13453,
+      "num": 320198,
       "word": "英雄就是我们身边的平凡人",
       "onboard_time": 1691159021,
       "rank": 2,
