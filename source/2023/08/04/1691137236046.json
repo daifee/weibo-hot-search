@@ -1,0 +1,410 @@
+{
+  "runTime": 1691137236046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1089769,
+        "num": 1089769,
+        "word": "大麦",
+        "onboard_time": 1691121459,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 884525,
+        "num": 884525,
+        "word": "封神直播",
+        "onboard_time": 1691136696,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76974,
+        "num": 747198,
+        "word": "亚运版复兴号首次对外试乘",
+        "onboard_time": 1691135436,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1124968,
+        "num": 736646,
+        "word": "彭昱畅自己争取全裸出镜",
+        "onboard_time": 1691132855,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 724779,
+        "num": 724779,
+        "word": "蒋依依敖子逸",
+        "onboard_time": 1691122780,
+        "rank": 4,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 665769,
+        "num": 665769,
+        "word": "TFBOYS三人三字",
+        "onboard_time": 1691115755,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 517413,
+        "num": 517413,
+        "word": "地铁2男子吵架大哥教科书式劝架",
+        "onboard_time": 1691130935,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413987,
+        "num": 413987,
+        "word": "Uzi捐款50万元驰援涿州",
+        "onboard_time": 1691130394,
+        "rank": 7,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 384385,
+        "num": 384385,
+        "word": "中国女婿见非洲丈母娘很害羞",
+        "onboard_time": 1691136158,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351340,
+        "num": 351340,
+        "word": "茶百道捐1000万元驰援京冀洪水救援",
+        "onboard_time": 1691128474,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2112210,
+        "num": 350427,
+        "word": "韩国首尔接连出现杀人预告",
+        "onboard_time": 1691129914,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853009,
+        "num": 349486,
+        "word": "易烊千玺西安高铁到达路透",
+        "onboard_time": 1691135194,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752255,
+        "num": 348433,
+        "word": "杨幂和卖崽蛙合影",
+        "onboard_time": 1691133758,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583022,
+        "num": 346892,
+        "word": "Angelababy黄子韬互呛",
+        "onboard_time": 1691133876,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552207,
+        "num": 346265,
+        "word": "河北",
+        "onboard_time": 1691131895,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570235,
+        "num": 345200,
+        "word": "杨紫回应朋友圈杨紫",
+        "onboard_time": 1691128233,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482293,
+        "num": 344130,
+        "word": "王源第一个到西安",
+        "onboard_time": 1691131597,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164296,
+        "num": 342193,
+        "word": "鸿蒙4将接入AI大模型",
+        "onboard_time": 1691135797,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 391660,
+        "num": 341303,
+        "word": "羞耻心会缝住女生的嘴",
+        "onboard_time": 1691122477,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 340608,
+        "num": 340608,
+        "word": "华为发布会",
+        "onboard_time": 1691130758,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 665875,
+        "num": 338849,
+        "word": "女性词语归还女性",
+        "onboard_time": 1691133096,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 520391,
+        "num": 338025,
+        "word": "12岁男生学短视频自己在家割包皮",
+        "onboard_time": 1691135073,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471271,
+        "num": 335956,
+        "word": "夭玹离婚冷静期",
+        "onboard_time": 1691132317,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425452,
+        "num": 334193,
+        "word": "QQ音乐",
+        "onboard_time": 1691131716,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 401091,
+        "num": 331846,
+        "word": "杨紫张晚意怎么不对视",
+        "onboard_time": 1691133515,
+        "rank": 24,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 331766,
+        "num": 331766,
+        "word": "整理父亲遗物发现两张一等功证书",
+        "onboard_time": 1691132914,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330597,
+        "num": 330597,
+        "word": "黑龙江",
+        "onboard_time": 1691130336,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328149,
+        "num": 328149,
+        "word": "封神宣发即刻传位于我",
+        "onboard_time": 1691134595,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319582,
+        "num": 319582,
+        "word": "张碧晨广州演唱会抢票",
+        "onboard_time": 1691134718,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300008,
+        "num": 300008,
+        "word": "全智贤演我追星",
+        "onboard_time": 1691132257,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 301746,
+        "num": 287878,
+        "word": "TFBOYS实体专辑",
+        "onboard_time": 1691129795,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275565,
+        "num": 275565,
+        "word": "杨洋南都娱乐封面",
+        "onboard_time": 1691129018,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222939,
+        "num": 222939,
+        "word": "朱一龙包场吴京巨齿鲨2",
+        "onboard_time": 1691133758,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190394,
+        "num": 190394,
+        "word": "捐款",
+        "onboard_time": 1691131115,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187769,
+        "num": 187769,
+        "word": "00后小伙开公司上4休3还有寒暑假",
+        "onboard_time": 1691128172,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217083,
+        "num": 187676,
+        "word": "魏大勋都开始捂嘴笑了",
+        "onboard_time": 1691120558,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190672,
+        "num": 187649,
+        "word": "TFBOYS演唱会结束后会换头像吗",
+        "onboard_time": 1691127755,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187373,
+        "num": 187373,
+        "word": "西安城的易烊千玺照片",
+        "onboard_time": 1691135917,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181021,
+        "num": 181021,
+        "word": "牡丹江遭洪水袭击有房屋被整栋冲走",
+        "onboard_time": 1691136814,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171487,
+        "num": 171487,
+        "word": "牺牲消防员微信头像背景是国旗",
+        "onboard_time": 1691126674,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174666,
+        "num": 171444,
+        "word": "巨齿鲨从不内耗",
+        "onboard_time": 1691134117,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171884,
+        "num": 171200,
+        "word": "Angelababy电竞女教练",
+        "onboard_time": 1691131958,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170957,
+        "num": 170957,
+        "word": "学信网照片是我最大的黑料",
+        "onboard_time": 1691137055,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157084,
+        "num": 157084,
+        "word": "我和朋友维持友谊的方式belike",
+        "onboard_time": 1691137055,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163874,
+        "num": 156032,
+        "word": "内娱最好哄的就是四叶草了",
+        "onboard_time": 1691124041,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141615,
+        "num": 141615,
+        "word": "存了一年的东方青苍剪辑",
+        "onboard_time": 1691126915,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137996,
+        "num": 137996,
+        "word": "涿州被救母亲鞠躬说给大家添麻烦了",
+        "onboard_time": 1691132914,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313565,
+        "num": 137416,
+        "word": "水务局回应两女子江边放生鱼豆腐",
+        "onboard_time": 1691122477,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128307,
+        "num": 135372,
+        "word": "追星界王宝钏",
+        "onboard_time": 1691128055,
+        "rank": 48,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 124792,
+        "num": 134885,
+        "word": "西安机场和高铁站会挤爆吧",
+        "onboard_time": 1691125178,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军#"
+    }
+  }
+}
