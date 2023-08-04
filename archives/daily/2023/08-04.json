@@ -1,6 +1,6 @@
 {
   "startTime": 1691079780560,
-  "endTime": 1691120029324,
+  "endTime": 1691122771095,
   "band_list": [
     {
       "raw_hot": 3252167,
@@ -51,6 +51,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1607414,
+      "num": 565824,
+      "word": "魏大勋都开始捂嘴笑了",
+      "onboard_time": 1691120558,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1581374,
       "num": 343404,
       "word": "蜜雪冰城捐1千万支持抗汛救灾",
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1445600,
+      "num": 1445600,
+      "word": "大麦",
+      "onboard_time": 1691121459,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1386173,
       "num": 505851,
       "word": "蟑螂汁治好了我的烂脸",
@@ -91,12 +107,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1359680,
+      "num": 1359680,
+      "word": "TFBOYS抢票",
+      "onboard_time": 1691121397,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1334942,
       "num": 1334942,
       "word": "现在的黄晓明真的活得比谁都清醒",
       "onboard_time": 1691115337,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1243213,
+      "num": 1243213,
+      "word": "杨紫张晚意水榭楼台芭莎大片",
+      "onboard_time": 1691119295,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1207437,
@@ -163,6 +195,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 991457,
+      "num": 991457,
+      "word": "原来师傅和师父是不一样的概念",
+      "onboard_time": 1691119957,
+      "rank": 49,
+      "category": "其它"
+    },
+    {
       "raw_hot": 949473,
       "num": 927830,
       "word": "六岁相柳怒扔奶瓶",
@@ -171,12 +211,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 835483,
-      "num": 835483,
-      "word": "杨紫张晚意水榭楼台芭莎大片",
-      "onboard_time": 1691119295,
-      "rank": 7,
-      "category": "作品衍生,时尚"
+      "raw_hot": 838237,
+      "num": 488664,
+      "word": "迪丽热巴给自己画腮红",
+      "onboard_time": 1691121098,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 822034,
@@ -187,12 +227,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777320,
+      "num": 434510,
+      "word": "涿州 实体书之城",
+      "onboard_time": 1691121275,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751100,
       "num": 359270,
       "word": "被离职问老板尊嘟假嘟",
       "onboard_time": 1691115634,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 712198,
+      "num": 397089,
+      "word": "小夭才是真疯批",
+      "onboard_time": 1691120135,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 700890,
@@ -233,6 +289,14 @@
       "onboard_time": 1691107894,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 605940,
+      "num": 605940,
+      "word": "A股",
+      "onboard_time": 1691119597,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 582195,
@@ -291,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 543164,
+      "num": 352549,
+      "word": "厂家回应雪糕外形似避孕套被质疑",
+      "onboard_time": 1691115516,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540288,
       "num": 540288,
       "word": "内娱生图免检的明星",
@@ -321,14 +393,6 @@
       "onboard_time": 1691104222,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 521453,
-      "num": 346405,
-      "word": "厂家回应雪糕外形似避孕套被质疑",
-      "onboard_time": 1691115516,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 515396,
@@ -363,12 +427,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 482372,
+      "num": 350121,
+      "word": "TFBOYS走出半生归来仍是少年",
+      "onboard_time": 1691121817,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 478551,
       "num": 478551,
       "word": "李立群团队否认在杭州看病花了20万",
       "onboard_time": 1691104945,
       "rank": 13,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 461038,
+      "num": 345491,
+      "word": "芭莎长相思",
+      "onboard_time": 1691122060,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 448433,
@@ -523,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360119,
+      "num": 337625,
+      "word": "魏大勋被粉丝送粉丝",
+      "onboard_time": 1691119476,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355981,
       "num": 341169,
       "word": "邓为于适此沙都有鼻尖痣",
@@ -635,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297577,
+      "num": 297577,
+      "word": "洪水",
+      "onboard_time": 1691120614,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287767,
       "num": 287767,
       "word": "台风卡努被卡住了",
@@ -699,12 +795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271780,
-      "num": 271780,
-      "word": "魏大勋被粉丝送粉丝",
-      "onboard_time": 1691119476,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 272172,
+      "num": 272172,
+      "word": "哪款游戏让你坚持了十年",
+      "onboard_time": 1691118874,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 268866,
@@ -723,6 +819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255275,
+      "num": 255275,
+      "word": "张学友演唱会",
+      "onboard_time": 1691120856,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 248080,
       "num": 309883,
       "word": "TFBOYS笑话永不过时",
@@ -732,19 +836,11 @@
     },
     {
       "raw_hot": 243427,
-      "num": 197206,
+      "num": 218013,
       "word": "河北涿州架起高空基站",
       "onboard_time": 1691060614,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241213,
-      "num": 241213,
-      "word": "A股",
-      "onboard_time": 1691119597,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 239586,
@@ -753,6 +849,14 @@
       "onboard_time": 1691118995,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 238815,
+      "num": 238815,
+      "word": "冯宝宝我的嘴替",
+      "onboard_time": 1691119833,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 235775,
@@ -795,12 +899,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221690,
-      "num": 221690,
-      "word": "哪款游戏让你坚持了十年",
-      "onboard_time": 1691118874,
-      "rank": 39,
-      "category": "游戏"
+      "raw_hot": 226695,
+      "num": 226695,
+      "word": "水务局回应两女子江边放生鱼豆腐",
+      "onboard_time": 1691122477,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221340,
+      "num": 221340,
+      "word": "孤注一掷导演给了张艺兴1个T的资料",
+      "onboard_time": 1691122720,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 217621,
@@ -883,12 +995,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202858,
-      "num": 202858,
-      "word": "冯宝宝我的嘴替",
-      "onboard_time": 1691119833,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 202661,
+      "num": 217461,
+      "word": "羞耻心会缝住女生的嘴",
+      "onboard_time": 1691122477,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 199818,
@@ -937,6 +1049,14 @@
       "onboard_time": 1691070097,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192317,
+      "num": 217262,
+      "word": "羊毛毡猫猫",
+      "onboard_time": 1691122720,
+      "rank": 49,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 191009,
@@ -1033,14 +1153,6 @@
       "onboard_time": 1691081246,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154489,
-      "num": 167720,
-      "word": "原来师傅和师父是不一样的概念",
-      "onboard_time": 1691119957,
-      "rank": 49,
-      "category": "其它"
     },
     {
       "raw_hot": 152915,
@@ -1305,6 +1417,14 @@
       "onboard_time": 1691052455,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 39849,
+      "num": 354184,
+      "word": "年轻人的周末装备指南",
+      "onboard_time": 1691121759,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28800,

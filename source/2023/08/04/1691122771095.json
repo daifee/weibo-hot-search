@@ -1,0 +1,410 @@
+{
+  "runTime": 1691122771095,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2694984,
+        "num": 2694984,
+        "word": "TFBOYS三人三字",
+        "onboard_time": 1691115755,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1445600,
+        "num": 1445600,
+        "word": "大麦",
+        "onboard_time": 1691121459,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28464,
+        "num": 1387405,
+        "word": "暴雨洪涝后饮食安全指南",
+        "onboard_time": 1691070455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359680,
+        "num": 1359680,
+        "word": "TFBOYS抢票",
+        "onboard_time": 1691121397,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1243213,
+        "num": 1243213,
+        "word": "杨紫张晚意水榭楼台芭莎大片",
+        "onboard_time": 1691119295,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1617508,
+        "num": 1210039,
+        "word": "官方确认重庆事业单位考试有人作弊",
+        "onboard_time": 1691110417,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 991457,
+        "num": 991457,
+        "word": "原来师傅和师父是不一样的概念",
+        "onboard_time": 1691119957,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 912724,
+        "num": 912724,
+        "word": "BLACKPINK与YG续约合约金约15亿韩元",
+        "onboard_time": 1691113417,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605940,
+        "num": 605940,
+        "word": "A股",
+        "onboard_time": 1691119597,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 566904,
+        "num": 566904,
+        "word": "福建人对刘涛的妈祖滤镜",
+        "onboard_time": 1691110898,
+        "rank": 9,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1607414,
+        "num": 565824,
+        "word": "魏大勋都开始捂嘴笑了",
+        "onboard_time": 1691120558,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 838237,
+        "num": 488664,
+        "word": "迪丽热巴给自己画腮红",
+        "onboard_time": 1691121098,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804185,
+        "num": 466935,
+        "word": "王俊凯王源易烊千玺粉丝哄好了",
+        "onboard_time": 1691116959,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 777320,
+        "num": 434510,
+        "word": "涿州 实体书之城",
+        "onboard_time": 1691121275,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407277,
+        "num": 407277,
+        "word": "救援队懂了她的不忍开口",
+        "onboard_time": 1691117375,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712198,
+        "num": 397089,
+        "word": "小夭才是真疯批",
+        "onboard_time": 1691120135,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373084,
+        "num": 373084,
+        "word": "养猫人不适合穿破洞裤",
+        "onboard_time": 1691114498,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 644365,
+        "num": 365015,
+        "word": "六岁相柳怒扔奶瓶",
+        "onboard_time": 1691113417,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354399,
+        "num": 354399,
+        "word": "哥们你的腹肌怎么是Windows啊",
+        "onboard_time": 1691111858,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39849,
+        "num": 354184,
+        "word": "年轻人的周末装备指南",
+        "onboard_time": 1691121759,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543164,
+        "num": 352549,
+        "word": "厂家回应雪糕外形似避孕套被质疑",
+        "onboard_time": 1691115516,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521113,
+        "num": 350842,
+        "word": "现在的黄晓明真的活得比谁都清醒",
+        "onboard_time": 1691115337,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482372,
+        "num": 350121,
+        "word": "TFBOYS走出半生归来仍是少年",
+        "onboard_time": 1691121817,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 407985,
+        "num": 347617,
+        "word": "狗狗被遗弃跋涉100公里咬主人",
+        "onboard_time": 1691113116,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367334,
+        "num": 346096,
+        "word": "被离职问老板尊嘟假嘟",
+        "onboard_time": 1691115634,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 461038,
+        "num": 345491,
+        "word": "芭莎长相思",
+        "onboard_time": 1691122060,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 429220,
+        "num": 343543,
+        "word": "明天你好星期六有迪丽热巴",
+        "onboard_time": 1691118214,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421459,
+        "num": 342477,
+        "word": "终于有TFBOYS十周年实感了",
+        "onboard_time": 1691117858,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 341677,
+        "num": 341677,
+        "word": "二十几岁的女生真的很忙",
+        "onboard_time": 1691107894,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 338245,
+        "num": 338245,
+        "word": "e人和i人聊天的区别",
+        "onboard_time": 1691116357,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360119,
+        "num": 337625,
+        "word": "魏大勋被粉丝送粉丝",
+        "onboard_time": 1691119476,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353010,
+        "num": 337271,
+        "word": "一人之下",
+        "onboard_time": 1691115578,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349106,
+        "num": 336463,
+        "word": "newjeans 音乐节",
+        "onboard_time": 1691118395,
+        "rank": 32,
+        "category": "音乐,音乐"
+      },
+      {
+        "raw_hot": 333426,
+        "num": 333426,
+        "word": "发改委发布会",
+        "onboard_time": 1691115098,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 297577,
+        "num": 297577,
+        "word": "洪水",
+        "onboard_time": 1691120614,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292405,
+        "num": 292405,
+        "word": "TFBOYS新歌",
+        "onboard_time": 1691108556,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274562,
+        "num": 274562,
+        "word": "彭昱畅2分钟预告被打4次",
+        "onboard_time": 1691113716,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272172,
+        "num": 272172,
+        "word": "哪款游戏让你坚持了十年",
+        "onboard_time": 1691118874,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256498,
+        "num": 256498,
+        "word": "牡丹江洪水已形成",
+        "onboard_time": 1691113299,
+        "rank": 38,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 237415,
+        "num": 255659,
+        "word": "蟑螂汁治好了我的烂脸",
+        "onboard_time": 1691076939,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 255275,
+        "num": 255275,
+        "word": "张学友演唱会",
+        "onboard_time": 1691120856,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241994,
+        "num": 241994,
+        "word": "邓为于适此沙都有鼻尖痣",
+        "onboard_time": 1691116716,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238815,
+        "num": 238815,
+        "word": "冯宝宝我的嘴替",
+        "onboard_time": 1691119833,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236113,
+        "num": 236113,
+        "word": "涿州",
+        "onboard_time": 1691104343,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228943,
+        "num": 228943,
+        "word": "明天见",
+        "onboard_time": 1691116894,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226695,
+        "num": 226695,
+        "word": "水务局回应两女子江边放生鱼豆腐",
+        "onboard_time": 1691122477,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221340,
+        "num": 221340,
+        "word": "孤注一掷导演给了张艺兴1个T的资料",
+        "onboard_time": 1691122720,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207928,
+        "num": 218013,
+        "word": "河北涿州架起高空基站",
+        "onboard_time": 1691104283,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202661,
+        "num": 217461,
+        "word": "羞耻心会缝住女生的嘴",
+        "onboard_time": 1691122477,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 192317,
+        "num": 217262,
+        "word": "羊毛毡猫猫",
+        "onboard_time": 1691122720,
+        "rank": 49,
+        "category": "幽默,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军#"
+    }
+  }
+}
