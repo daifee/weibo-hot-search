@@ -1,7 +1,15 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691159620776,
+  "endTime": 1691162214244,
   "band_list": [
+    {
+      "raw_hot": 13786713,
+      "num": 13786713,
+      "word": "羽生结弦宣布结婚",
+      "onboard_time": 1691159319,
+      "rank": 0,
+      "category": "体育,社会新闻"
+    },
     {
       "raw_hot": 4109432,
       "num": 4109432,
@@ -17,14 +25,6 @@
       "onboard_time": 1690816715,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3500291,
-      "num": 3500291,
-      "word": "羽生结弦宣布结婚",
-      "onboard_time": 1691159319,
-      "rank": 0,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 3371722,
@@ -81,6 +81,14 @@
       "onboard_time": 1691115755,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2960872,
+      "num": 2960872,
+      "word": "羽生结弦老婆",
+      "onboard_time": 1691161436,
+      "rank": 1,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 2870626,
@@ -641,6 +649,14 @@
       "onboard_time": 1691020533,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1538740,
+      "num": 768102,
+      "word": "西安警方通报奥体中心体育场歌迷打架",
+      "onboard_time": 1691160600,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1537308,
@@ -1619,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 923113,
+      "num": 923113,
+      "word": "日语入籍是结婚的意思",
+      "onboard_time": 1691161378,
+      "rank": 5,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 921828,
       "num": 434288,
       "word": "南京4名中学生下河游泳溺亡",
@@ -2035,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 797141,
+      "num": 797141,
+      "word": "柚子什么时候谈的恋爱",
+      "onboard_time": 1691162092,
+      "rank": 8,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 796557,
       "num": 332181,
       "word": "唯一一件坚持了五年的事",
@@ -2145,6 +2177,14 @@
       "onboard_time": 1691137055,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 759698,
+      "num": 759698,
+      "word": "公司故意不捧人气成员的现象很常见吗",
+      "onboard_time": 1691160894,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 759519,
@@ -2275,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 745996,
+      "num": 564115,
+      "word": "老人小便失禁地铁小姐姐让她靠怀里",
+      "onboard_time": 1691153974,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740818,
       "num": 573854,
       "word": "陕西一男子涉嫌半小时内连杀岳母妻子",
@@ -2329,14 +2377,6 @@
       "onboard_time": 1691128055,
       "rank": 7,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 734228,
-      "num": 447673,
-      "word": "老人小便失禁地铁小姐姐让她靠怀里",
-      "onboard_time": 1691153974,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 731906,
@@ -3227,6 +3267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588785,
+      "num": 588785,
+      "word": "马杨马君妍新疆爱情故事",
+      "onboard_time": 1691160655,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588665,
       "num": 588665,
       "word": "wbg首发",
@@ -3257,6 +3305,14 @@
       "onboard_time": 1691070878,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 586731,
+      "num": 586731,
+      "word": "李泰容",
+      "onboard_time": 1691160963,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 583823,
@@ -3563,6 +3619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 549858,
+      "num": 549858,
+      "word": "孟子义 你得自己挺自己",
+      "onboard_time": 1691160418,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 546988,
       "num": 546988,
       "word": "内娱天选将军文男主",
@@ -3724,7 +3788,7 @@
     },
     {
       "raw_hot": 523375,
-      "num": 446808,
+      "num": 481448,
       "word": "轿车从天而降电动车主被撞身亡",
       "onboard_time": 1691158001,
       "rank": 27,
@@ -3849,6 +3913,14 @@
       "onboard_time": 1690936777,
       "rank": 12,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 510639,
+      "num": 510639,
+      "word": "涂山璟赤水丰隆救了玱玹一命",
+      "onboard_time": 1691160655,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 509822,
@@ -4235,6 +4307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462339,
+      "num": 462339,
+      "word": "在公司加班被狗狗救了一命",
+      "onboard_time": 1691159997,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 462276,
       "num": 393473,
       "word": "只有涂山璟没有妹妹",
@@ -4497,6 +4577,14 @@
       "onboard_time": 1690845505,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 444484,
+      "num": 400603,
+      "word": "张踩玲 真正的尊重和聆听很难",
+      "onboard_time": 1691161851,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 443595,
@@ -5323,6 +5411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364404,
+      "num": 364404,
+      "word": "7月全国因灾死亡失踪147人",
+      "onboard_time": 1691159871,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364214,
       "num": 364214,
       "word": "涿州积水区水深近6米",
@@ -5545,6 +5641,14 @@
       "onboard_time": 1691028458,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348043,
+      "num": 348043,
+      "word": "原来真的有人是能够快乐的",
+      "onboard_time": 1691160840,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 347467,
@@ -5971,6 +6075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315693,
+      "num": 315693,
+      "word": "黑龙江尚志九江村整村失联",
+      "onboard_time": 1691161675,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315553,
       "num": 315553,
       "word": "印度餐厅 玛莎拉味儿都很香",
@@ -6089,6 +6201,14 @@
       "onboard_time": 1690969117,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309266,
+      "num": 309266,
+      "word": "成都蓉城",
+      "onboard_time": 1691158480,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 307790,
@@ -6417,14 +6537,6 @@
       "onboard_time": 1690966234,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289570,
-      "num": 289570,
-      "word": "成都蓉城",
-      "onboard_time": 1691158480,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 289331,
@@ -7491,6 +7603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235745,
+      "num": 235745,
+      "word": "舞台2023四公最期待主题歌单",
+      "onboard_time": 1691159319,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235659,
       "num": 235659,
       "word": "英格兰进球",
@@ -7723,6 +7843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224660,
+      "num": 224660,
+      "word": "山东商户连夜蒸1万个馒头运往河北",
+      "onboard_time": 1691161080,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224126,
       "num": 224126,
       "word": "口碑好的明星",
@@ -7817,6 +7945,14 @@
       "onboard_time": 1691130516,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220181,
+      "num": 220181,
+      "word": "欧钰珊",
+      "onboard_time": 1691159319,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 219803,
@@ -8667,14 +8803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196342,
-      "num": 196342,
-      "word": "欧钰珊",
-      "onboard_time": 1691159319,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195915,
       "num": 195915,
       "word": "鸿蒙或将具备AI大模型能力",
@@ -8721,14 +8849,6 @@
       "onboard_time": 1691111320,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194871,
-      "num": 194871,
-      "word": "舞台2023四公最期待主题歌单",
-      "onboard_time": 1691159319,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 194777,
@@ -9472,6 +9592,14 @@
       "word": "黑龙江暴雨引发洪水多地被淹",
       "onboard_time": 1691151873,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155212,
+      "num": 2371529,
+      "word": "断崖旁消防员用身躯做人墙保护孩子",
+      "onboard_time": 1691159079,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -10231,14 +10359,6 @@
       "num": 1796243,
       "word": "青春主场梦想正当燃",
       "onboard_time": 1690860634,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41038,
-      "num": 1730459,
-      "word": "断崖旁消防员用身躯做人墙保护孩子",
-      "onboard_time": 1691159079,
       "rank": 2,
       "category": "社会新闻"
     },
