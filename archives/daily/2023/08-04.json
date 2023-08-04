@@ -1,6 +1,6 @@
 {
   "startTime": 1691079780560,
-  "endTime": 1691126137648,
+  "endTime": 1691127232380,
   "band_list": [
     {
       "raw_hot": 3252167,
@@ -19,8 +19,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 2374285,
-      "num": 2374285,
+      "raw_hot": 2595398,
+      "num": 2595398,
       "word": "水务局回应两女子江边放生鱼豆腐",
       "onboard_time": 1691122477,
       "rank": 45,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1447715,
+      "num": 533348,
+      "word": "羞耻心会缝住女生的嘴",
+      "onboard_time": 1691122477,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1445600,
       "num": 1445600,
       "word": "大麦",
@@ -155,12 +163,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1203477,
-      "num": 533348,
-      "word": "羞耻心会缝住女生的嘴",
-      "onboard_time": 1691122477,
-      "rank": 48,
-      "category": "幽默,情感"
+      "raw_hot": 1167378,
+      "num": 533182,
+      "word": "第一次看到8月发7月行程",
+      "onboard_time": 1691123861,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1157511,
@@ -187,20 +195,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1117455,
+      "num": 532490,
+      "word": "内娱最好哄的就是四叶草了",
+      "onboard_time": 1691124041,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1101945,
       "num": 1101945,
       "word": "封神版纣王妲己 官配的神",
       "onboard_time": 1691107230,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1085168,
-      "num": 533182,
-      "word": "第一次看到8月发7月行程",
-      "onboard_time": 1691123861,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1082734,
@@ -235,20 +243,20 @@
       "category": "其它"
     },
     {
-      "raw_hot": 967043,
-      "num": 532490,
-      "word": "内娱最好哄的就是四叶草了",
-      "onboard_time": 1691124041,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 949473,
       "num": 927830,
       "word": "六岁相柳怒扔奶瓶",
       "onboard_time": 1691113417,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 937944,
+      "num": 937944,
+      "word": "西安机场和高铁站会挤爆吧",
+      "onboard_time": 1691125178,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 906671,
@@ -289,14 +297,6 @@
       "onboard_time": 1691115634,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 721919,
-      "num": 532854,
-      "word": "西安机场和高铁站会挤爆吧",
-      "onboard_time": 1691125178,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 700890,
@@ -771,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 324814,
+      "num": 324814,
+      "word": "刘昊然被导演彭昱畅忽悠",
+      "onboard_time": 1691126615,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323273,
       "num": 323273,
       "word": "异人之下开播",
@@ -792,6 +800,14 @@
       "word": "王俊凯王源易烊千玺终于不用P合照了",
       "onboard_time": 1691106751,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 309425,
+      "num": 309425,
+      "word": "陈牧驰就乖乖把脖子和喉结送上来了",
+      "onboard_time": 1691126257,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -883,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274821,
+      "num": 237475,
+      "word": "存了一年的东方青苍剪辑",
+      "onboard_time": 1691126915,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274744,
       "num": 197212,
       "word": "投影仪卖不出去了",
@@ -913,6 +937,14 @@
       "onboard_time": 1691118874,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270372,
+      "num": 422289,
+      "word": "牺牲消防员微信头像背景是国旗",
+      "onboard_time": 1691126674,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268866,
@@ -947,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245340,
+      "num": 334888,
+      "word": "i人和e人开车的区别",
+      "onboard_time": 1691125597,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245312,
       "num": 245312,
       "word": "孤注一掷",
@@ -969,6 +1009,14 @@
       "onboard_time": 1691119833,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241693,
+      "num": 241693,
+      "word": "丁丁猫也为保护家乡出了一份力",
+      "onboard_time": 1691124877,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239586,
@@ -1001,14 +1049,6 @@
       "onboard_time": 1691056360,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 229322,
-      "num": 229322,
-      "word": "丁丁猫也为保护家乡出了一份力",
-      "onboard_time": 1691124877,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228805,
@@ -1195,8 +1235,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188371,
-      "num": 188371,
+      "raw_hot": 188511,
+      "num": 188511,
       "word": "公安检举物业违法的公告被物业撕了",
       "onboard_time": 1691126076,
       "rank": 38,
@@ -1251,14 +1291,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 165685,
-      "num": 165685,
-      "word": "i人和e人开车的区别",
-      "onboard_time": 1691125597,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164539,
       "num": 285647,
       "word": "如果把大学里的水课都换成这些",
@@ -1307,6 +1339,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 150271,
+      "num": 164932,
+      "word": "原来重庆人人都是老师",
+      "onboard_time": 1691127218,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144928,
       "num": 144928,
       "word": "男子潜入洪水10次为救援艇开门",
@@ -1345,6 +1385,14 @@
       "onboard_time": 1691070275,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134293,
+      "num": 1347412,
+      "word": "武警出动全地形车搜救受灾群众",
+      "onboard_time": 1691124279,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133620,
@@ -1425,14 +1473,6 @@
       "onboard_time": 1691073460,
       "rank": 46,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 111176,
-      "num": 1347412,
-      "word": "武警出动全地形车搜救受灾群众",
-      "onboard_time": 1691124279,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106784,

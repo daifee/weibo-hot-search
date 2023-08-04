@@ -1,0 +1,410 @@
+{
+  "runTime": 1691127232380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2595398,
+        "num": 2595398,
+        "word": "水务局回应两女子江边放生鱼豆腐",
+        "onboard_time": 1691122477,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1638975,
+        "num": 1638975,
+        "word": "TFBOYS三人三字",
+        "onboard_time": 1691115755,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134293,
+        "num": 1121915,
+        "word": "武警出动全地形车搜救受灾群众",
+        "onboard_time": 1691124279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937944,
+        "num": 937944,
+        "word": "西安机场和高铁站会挤爆吧",
+        "onboard_time": 1691125178,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713353,
+        "num": 713353,
+        "word": "大麦",
+        "onboard_time": 1691121459,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 693316,
+        "num": 693316,
+        "word": "杨紫张晚意水榭楼台芭莎大片",
+        "onboard_time": 1691119295,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 643802,
+        "num": 643802,
+        "word": "原来师傅和师父是不一样的概念",
+        "onboard_time": 1691119957,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 642898,
+        "num": 642898,
+        "word": "官方确认重庆事业单位考试有人作弊",
+        "onboard_time": 1691110417,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 610159,
+        "num": 610159,
+        "word": "蒋依依敖子逸",
+        "onboard_time": 1691122780,
+        "rank": 8,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 530075,
+        "num": 530075,
+        "word": "时代峰峻今天好热闹",
+        "onboard_time": 1691124641,
+        "rank": 9,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 1447715,
+        "num": 524224,
+        "word": "羞耻心会缝住女生的嘴",
+        "onboard_time": 1691122477,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1432423,
+        "num": 503471,
+        "word": "魏大勋都开始捂嘴笑了",
+        "onboard_time": 1691120558,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1167378,
+        "num": 473341,
+        "word": "第一次看到8月发7月行程",
+        "onboard_time": 1691123861,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1125718,
+        "num": 442447,
+        "word": "张子涵",
+        "onboard_time": 1691124101,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441738,
+        "num": 441738,
+        "word": "福建人对刘涛的妈祖滤镜",
+        "onboard_time": 1691110898,
+        "rank": 14,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1117455,
+        "num": 440248,
+        "word": "内娱最好哄的就是四叶草了",
+        "onboard_time": 1691124041,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 506680,
+        "num": 437791,
+        "word": "小夭才是真疯批",
+        "onboard_time": 1691120135,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434185,
+        "num": 434185,
+        "word": "TFBOYS抢票",
+        "onboard_time": 1691121397,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379114,
+        "num": 424815,
+        "word": "涿州 实体书之城",
+        "onboard_time": 1691121275,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270372,
+        "num": 422289,
+        "word": "牺牲消防员微信头像背景是国旗",
+        "onboard_time": 1691126674,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421584,
+        "num": 421584,
+        "word": "BLACKPINK与YG续约合约金约15亿韩元",
+        "onboard_time": 1691113417,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379160,
+        "num": 379160,
+        "word": "厂家回应雪糕外形似避孕套被质疑",
+        "onboard_time": 1691115516,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353147,
+        "num": 353147,
+        "word": "行政岗做过最离谱的事情",
+        "onboard_time": 1691123438,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 296971,
+        "num": 353137,
+        "word": "狗狗被遗弃跋涉100公里咬主人",
+        "onboard_time": 1691113116,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251244,
+        "num": 351945,
+        "word": "A股",
+        "onboard_time": 1691119597,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 395882,
+        "num": 350711,
+        "word": "迪丽热巴给自己画腮红",
+        "onboard_time": 1691121098,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380615,
+        "num": 349163,
+        "word": "抢到了",
+        "onboard_time": 1691123799,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348521,
+        "num": 348521,
+        "word": "这是彭昱畅不是张楚岚",
+        "onboard_time": 1691123317,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291463,
+        "num": 339643,
+        "word": "二十几岁的女生真的很忙",
+        "onboard_time": 1691107894,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 245340,
+        "num": 334888,
+        "word": "i人和e人开车的区别",
+        "onboard_time": 1691125597,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331312,
+        "num": 331312,
+        "word": "芭莎长相思",
+        "onboard_time": 1691122060,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 324814,
+        "num": 324814,
+        "word": "刘昊然被导演彭昱畅忽悠",
+        "onboard_time": 1691126615,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309425,
+        "num": 309425,
+        "word": "陈牧驰就乖乖把脖子和喉结送上来了",
+        "onboard_time": 1691126257,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241693,
+        "num": 241693,
+        "word": "丁丁猫也为保护家乡出了一份力",
+        "onboard_time": 1691124877,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241563,
+        "num": 241563,
+        "word": "被离职问老板尊嘟假嘟",
+        "onboard_time": 1691115634,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281283,
+        "num": 238140,
+        "word": "哥们你的腹肌怎么是Windows啊",
+        "onboard_time": 1691111858,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274821,
+        "num": 237475,
+        "word": "存了一年的东方青苍剪辑",
+        "onboard_time": 1691126915,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233416,
+        "num": 233416,
+        "word": "救援队懂了她的不忍开口",
+        "onboard_time": 1691117375,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188511,
+        "num": 188511,
+        "word": "公安检举物业违法的公告被物业撕了",
+        "onboard_time": 1691126076,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173931,
+        "num": 173931,
+        "word": "e人和i人聊天的区别",
+        "onboard_time": 1691116357,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266126,
+        "num": 172821,
+        "word": "防风邶出场泰国网友的反应",
+        "onboard_time": 1691122836,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261459,
+        "num": 171578,
+        "word": "TFBOYS走出半生归来仍是少年",
+        "onboard_time": 1691121817,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253515,
+        "num": 169186,
+        "word": "六岁相柳怒扔奶瓶",
+        "onboard_time": 1691113417,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216010,
+        "num": 167301,
+        "word": "王俊凯王源易烊千玺粉丝哄好了",
+        "onboard_time": 1691116959,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190577,
+        "num": 166491,
+        "word": "现在的黄晓明真的活得比谁都清醒",
+        "onboard_time": 1691115337,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165234,
+        "num": 165234,
+        "word": "东莞两女子江边放生一袋鱼豆腐",
+        "onboard_time": 1691123138,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156119,
+        "num": 165081,
+        "word": "养猫人不适合穿破洞裤",
+        "onboard_time": 1691114498,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 150271,
+        "num": 164932,
+        "word": "原来重庆人人都是老师",
+        "onboard_time": 1691127218,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139185,
+        "num": 164787,
+        "word": "哪款游戏让你坚持了十年",
+        "onboard_time": 1691118874,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135389,
+        "num": 164724,
+        "word": "蟑螂汁治好了我的烂脸",
+        "onboard_time": 1691076939,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#暴雨洪水中每个挺身而出的人都是英雄#"
+    }
+  }
+}
