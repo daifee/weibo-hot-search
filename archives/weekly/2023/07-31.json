@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691140588603,
+  "endTime": 1691141616494,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1969226,
+      "num": 388258,
+      "word": "易烊千玺新发色藏不住了",
+      "onboard_time": 1691139274,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1967424,
       "num": 1278172,
       "word": "NONO被曝性侵后首露面",
@@ -665,14 +673,6 @@
       "onboard_time": 1690802371,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1633401,
-      "num": 341344,
-      "word": "易烊千玺新发色藏不住了",
-      "onboard_time": 1691139274,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1632393,
@@ -3267,6 +3267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 648424,
+      "num": 333292,
+      "word": "王俊凯西安",
+      "onboard_time": 1691141135,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647832,
       "num": 647832,
       "word": "TF四代 北京",
@@ -3465,6 +3473,14 @@
       "onboard_time": 1690779576,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 617108,
+      "num": 291472,
+      "word": "韩素希手机壁纸",
+      "onboard_time": 1691139573,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 614564,
@@ -3713,6 +3729,14 @@
       "onboard_time": 1691044055,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 589908,
+      "num": 589908,
+      "word": "牡丹江遭洪水袭击有房屋被整栋冲走",
+      "onboard_time": 1691136814,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589582,
@@ -3987,6 +4011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 560734,
+      "num": 560734,
+      "word": "长相思如果没有战争",
+      "onboard_time": 1691139693,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 558754,
       "num": 558754,
       "word": "台风吹来的遍地生蚝能不能吃",
@@ -4096,14 +4128,6 @@
       "word": "鸿星尔克在涿州发放救灾物资",
       "onboard_time": 1691070455,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553897,
-      "num": 553897,
-      "word": "牡丹江遭洪水袭击有房屋被整栋冲走",
-      "onboard_time": 1691136814,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -4675,14 +4699,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 487352,
-      "num": 196102,
-      "word": "韩素希手机壁纸",
-      "onboard_time": 1691139573,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 485728,
       "num": 373807,
       "word": "河北涿州架起高空基站",
@@ -4964,7 +4980,7 @@
     },
     {
       "raw_hot": 458858,
-      "num": 227517,
+      "num": 288114,
       "word": "王一博给指甲抛光",
       "onboard_time": 1691137955,
       "rank": 44,
@@ -5387,6 +5403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427011,
+      "num": 427011,
+      "word": "男大学生购买100包卫生巾支援涿州",
+      "onboard_time": 1691140295,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 425969,
       "num": 425969,
       "word": "此沙",
@@ -5761,14 +5785,6 @@
       "onboard_time": 1690809633,
       "rank": 44,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 395154,
-      "num": 328369,
-      "word": "长相思如果没有战争",
-      "onboard_time": 1691139693,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 395094,
@@ -6707,6 +6723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330167,
+      "num": 330167,
+      "word": "桥本大辉退赛",
+      "onboard_time": 1691140233,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327890,
       "num": 327890,
       "word": "世界名画之陈牧驰救猫",
@@ -7579,12 +7603,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 283207,
+      "num": 276476,
+      "word": "巨齿鲨",
+      "onboard_time": 1691105248,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282982,
       "num": 282982,
       "word": "华北暴雨疯狂倾倒70多小时",
       "onboard_time": 1690933227,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282924,
+      "num": 282924,
+      "word": "张博恒",
+      "onboard_time": 1691140772,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 282655,
@@ -7785,6 +7825,14 @@
       "onboard_time": 1690966595,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272405,
+      "num": 272405,
+      "word": "大哥得知家乡被淹捐赠2大包卫生巾",
+      "onboard_time": 1691140172,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272172,
@@ -8115,6 +8163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258885,
+      "num": 258885,
+      "word": "夏天会痛击每个厕所摸鱼人",
+      "onboard_time": 1691137055,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258011,
       "num": 258011,
       "word": "在导师眼里我的毕业论文就是这样",
@@ -8297,6 +8353,14 @@
       "onboard_time": 1690952918,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248086,
+      "num": 248086,
+      "word": "薛之谦福州",
+      "onboard_time": 1691138615,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 248080,
@@ -9099,14 +9163,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 216892,
-      "num": 198586,
-      "word": "薛之谦福州",
-      "onboard_time": 1691138615,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 216627,
       "num": 196762,
       "word": "断眉上海演唱会获批",
@@ -9795,20 +9851,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 197968,
+      "num": 197968,
+      "word": "潮汕小吃反沙芋头",
+      "onboard_time": 1691137533,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197959,
       "num": 201037,
       "word": "玫瑰故事剧组布景",
       "onboard_time": 1690974453,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197260,
-      "num": 197260,
-      "word": "潮汕小吃反沙芋头",
-      "onboard_time": 1691137533,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 197255,
@@ -9857,6 +9913,14 @@
       "onboard_time": 1691036142,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 196644,
+      "num": 196644,
+      "word": "毕业后的人生就像按了加速键",
+      "onboard_time": 1691140114,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 196630,
@@ -9913,6 +9977,14 @@
       "onboard_time": 1690759344,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195270,
+      "num": 195270,
+      "word": "直击天灵盖的旅行",
+      "onboard_time": 1691140474,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 195240,
@@ -10228,7 +10300,7 @@
     },
     {
       "raw_hot": 185501,
-      "num": 155297,
+      "num": 184780,
       "word": "莲花楼一字诗",
       "onboard_time": 1691140172,
       "rank": 41,
@@ -10323,14 +10395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181879,
-      "num": 181879,
-      "word": "夏天会痛击每个厕所摸鱼人",
-      "onboard_time": 1691137055,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181674,
       "num": 181674,
       "word": "胡一天看起来好热啊",
@@ -10417,14 +10481,6 @@
       "onboard_time": 1691048198,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176826,
-      "num": 176826,
-      "word": "男大学生购买100包卫生巾支援涿州",
-      "onboard_time": 1691140295,
-      "rank": 34,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 176051,
@@ -10643,6 +10699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162765,
+      "num": 162765,
+      "word": "蔚来手机在工信部完成入网",
+      "onboard_time": 1691141194,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 162705,
       "num": 1594262,
       "word": "致敬那些暴雨中的逆行者",
@@ -10787,14 +10851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152501,
-      "num": 152501,
-      "word": "桥本大辉退赛",
-      "onboard_time": 1691140233,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152422,
       "num": 140608,
       "word": "易烊千玺FIRST颁奖",
@@ -10811,14 +10867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151054,
-      "num": 151054,
-      "word": "直击天灵盖的旅行",
-      "onboard_time": 1691140474,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 150786,
       "num": 150786,
       "word": "给雪糕明码标价的便利店",
@@ -10833,14 +10881,6 @@
       "onboard_time": 1691017221,
       "rank": 26,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 150480,
-      "num": 150480,
-      "word": "毕业后的人生就像按了加速键",
-      "onboard_time": 1691140114,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 150415,
@@ -11017,14 +11057,6 @@
       "onboard_time": 1691058696,
       "rank": 25,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 133620,
-      "num": 133620,
-      "word": "巨齿鲨",
-      "onboard_time": 1691105248,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 132013,

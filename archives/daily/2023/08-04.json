@@ -1,6 +1,6 @@
 {
   "startTime": 1691079780560,
-  "endTime": 1691140588603,
+  "endTime": 1691141616494,
   "band_list": [
     {
       "raw_hot": 3371722,
@@ -51,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1969226,
+      "num": 388258,
+      "word": "易烊千玺新发色藏不住了",
+      "onboard_time": 1691139274,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1921440,
       "num": 1921440,
       "word": "官方确认重庆事业单位考试有人作弊",
@@ -73,14 +81,6 @@
       "onboard_time": 1691108556,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1633401,
-      "num": 341344,
-      "word": "易烊千玺新发色藏不住了",
-      "onboard_time": 1691139274,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1607782,
@@ -435,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 648424,
+      "num": 333292,
+      "word": "王俊凯西安",
+      "onboard_time": 1691141135,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647117,
       "num": 417473,
       "word": "演技进步最快的演员",
@@ -467,6 +475,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 617108,
+      "num": 291472,
+      "word": "韩素希手机壁纸",
+      "onboard_time": 1691139573,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 607521,
       "num": 607521,
       "word": "TFBOYS实体专辑",
@@ -488,6 +504,14 @@
       "word": "厂家回应雪糕外形似避孕套被质疑",
       "onboard_time": 1691115516,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589908,
+      "num": 589908,
+      "word": "牡丹江遭洪水袭击有房屋被整栋冲走",
+      "onboard_time": 1691136814,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -555,19 +579,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 560734,
+      "num": 560734,
+      "word": "长相思如果没有战争",
+      "onboard_time": 1691139693,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 558205,
       "num": 521624,
       "word": "涿州市民避灾遇酒店涨价",
       "onboard_time": 1691085018,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553897,
-      "num": 553897,
-      "word": "牡丹江遭洪水袭击有房屋被整栋冲走",
-      "onboard_time": 1691136814,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -683,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487352,
-      "num": 196102,
-      "word": "韩素希手机壁纸",
-      "onboard_time": 1691139573,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 482779,
       "num": 482779,
       "word": "泰国人居然拍中国古装剧了",
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 458858,
-      "num": 227517,
+      "num": 288114,
       "word": "王一博给指甲抛光",
       "onboard_time": 1691137955,
       "rank": 44,
@@ -801,6 +817,14 @@
       "onboard_time": 1691113299,
       "rank": 44,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 427011,
+      "num": 427011,
+      "word": "男大学生购买100包卫生巾支援涿州",
+      "onboard_time": 1691140295,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 420909,
@@ -889,14 +913,6 @@
       "onboard_time": 1691118395,
       "rank": 34,
       "category": "音乐,音乐"
-    },
-    {
-      "raw_hot": 395154,
-      "num": 328369,
-      "word": "长相思如果没有战争",
-      "onboard_time": 1691139693,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 395094,
@@ -1059,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330167,
+      "num": 330167,
+      "word": "桥本大辉退赛",
+      "onboard_time": 1691140233,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327890,
       "num": 327890,
       "word": "世界名画之陈牧驰救猫",
@@ -1187,6 +1211,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283207,
+      "num": 276476,
+      "word": "巨齿鲨",
+      "onboard_time": 1691105248,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282924,
+      "num": 282924,
+      "word": "张博恒",
+      "onboard_time": 1691140772,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280524,
       "num": 280524,
       "word": "相柳的头套是在5款白发里选的",
@@ -1243,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272405,
+      "num": 272405,
+      "word": "大哥得知家乡被淹捐赠2大包卫生巾",
+      "onboard_time": 1691140172,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272172,
       "num": 272172,
       "word": "哪款游戏让你坚持了十年",
@@ -1267,11 +1315,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258885,
+      "num": 258885,
+      "word": "夏天会痛击每个厕所摸鱼人",
+      "onboard_time": 1691137055,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 255275,
       "num": 255275,
       "word": "张学友演唱会",
       "onboard_time": 1691120856,
       "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 248086,
+      "num": 248086,
+      "word": "薛之谦福州",
+      "onboard_time": 1691138615,
+      "rank": 28,
       "category": "音乐"
     },
     {
@@ -1419,14 +1483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216892,
-      "num": 198586,
-      "word": "薛之谦福州",
-      "onboard_time": 1691138615,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 216260,
       "num": 216260,
       "word": "小伙错过末班车舍不得花十几块元打车",
@@ -1523,8 +1579,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 197260,
-      "num": 197260,
+      "raw_hot": 197968,
+      "num": 197968,
       "word": "潮汕小吃反沙芋头",
       "onboard_time": 1691137533,
       "rank": 46,
@@ -1555,12 +1611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196644,
+      "num": 196644,
+      "word": "毕业后的人生就像按了加速键",
+      "onboard_time": 1691140114,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 195729,
       "num": 195729,
       "word": "封神",
       "onboard_time": 1691112216,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195270,
+      "num": 195270,
+      "word": "直击天灵盖的旅行",
+      "onboard_time": 1691140474,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 195136,
@@ -1644,7 +1716,7 @@
     },
     {
       "raw_hot": 185501,
-      "num": 155297,
+      "num": 184780,
       "word": "莲花楼一字诗",
       "onboard_time": 1691140172,
       "rank": 41,
@@ -1665,14 +1737,6 @@
       "onboard_time": 1691137355,
       "rank": 37,
       "category": "科技"
-    },
-    {
-      "raw_hot": 181879,
-      "num": 181879,
-      "word": "夏天会痛击每个厕所摸鱼人",
-      "onboard_time": 1691137055,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 181674,
@@ -1697,14 +1761,6 @@
       "onboard_time": 1691070997,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 176826,
-      "num": 176826,
-      "word": "男大学生购买100包卫生巾支援涿州",
-      "onboard_time": 1691140295,
-      "rank": 34,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 172310,
@@ -1763,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162765,
+      "num": 162765,
+      "word": "蔚来手机在工信部完成入网",
+      "onboard_time": 1691141194,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 158199,
       "num": 136737,
       "word": "陈卓璇诀爱舞台",
@@ -1787,36 +1851,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 152501,
-      "num": 152501,
-      "word": "桥本大辉退赛",
-      "onboard_time": 1691140233,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152344,
       "num": 152344,
       "word": "涿州大姐向救援队车里狂塞水果",
       "onboard_time": 1691117676,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151054,
-      "num": 151054,
-      "word": "直击天灵盖的旅行",
-      "onboard_time": 1691140474,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 150480,
-      "num": 150480,
-      "word": "毕业后的人生就像按了加速键",
-      "onboard_time": 1691140114,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 150415,
@@ -1888,14 +1928,6 @@
       "word": "惜花芷",
       "onboard_time": 1691070275,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 133620,
-      "num": 133620,
-      "word": "巨齿鲨",
-      "onboard_time": 1691105248,
-      "rank": 40,
       "category": "影视"
     },
     {
