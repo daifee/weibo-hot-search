@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691145241855,
+  "endTime": 1691147624854,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2256552,
+      "num": 667498,
+      "word": "TFBOYS染了同一发色",
+      "onboard_time": 1691145875,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2252270,
       "num": 2252270,
       "word": "大麦",
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 1969226,
-      "num": 406985,
+      "num": 656616,
       "word": "易烊千玺新发色藏不住了",
       "onboard_time": 1691139274,
       "rank": 11,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 1733206,
-      "num": 389330,
+      "num": 662477,
       "word": "Angelababy穿比基尼跳海",
       "onboard_time": 1691141735,
       "rank": 12,
@@ -1587,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1064138,
+      "num": 1064138,
+      "word": "TFBOYS和时代少年团向涿州灾区捐款",
+      "onboard_time": 1691145393,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1061684,
       "num": 1061684,
       "word": "北京强降雨14名失联人员确认安全",
@@ -1867,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 952170,
+      "num": 952170,
+      "word": "Xiaohu阿水杀疯了",
+      "onboard_time": 1691146114,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 950122,
       "num": 664625,
       "word": "原来我是六国混血",
@@ -1908,7 +1932,7 @@
     },
     {
       "raw_hot": 941065,
-      "num": 375367,
+      "num": 400477,
       "word": "黄子佼否认性侵指控",
       "onboard_time": 1691142033,
       "rank": 15,
@@ -2129,6 +2153,14 @@
       "onboard_time": 1690863341,
       "rank": 42,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 881477,
+      "num": 881477,
+      "word": "长相思第二季共21集",
+      "onboard_time": 1691145691,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 881438,
@@ -2788,7 +2820,7 @@
     },
     {
       "raw_hot": 736600,
-      "num": 849348,
+      "num": 953598,
       "word": "男大学生购买100包卫生巾支援涿州",
       "onboard_time": 1691140295,
       "rank": 34,
@@ -3043,6 +3075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 685664,
+      "num": 685664,
+      "word": "石家庄暴雨",
+      "onboard_time": 1691145274,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 685618,
       "num": 633825,
       "word": "姬发",
@@ -3073,6 +3113,14 @@
       "onboard_time": 1690953937,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 681541,
+      "num": 681541,
+      "word": "紧急下达4.5亿元支持京津冀防汛救灾",
+      "onboard_time": 1691144792,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 680737,
@@ -3179,6 +3227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 668277,
+      "num": 668277,
+      "word": "封神票房",
+      "onboard_time": 1690719633,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 666192,
       "num": 561245,
       "word": "蒋欣崩溃式哭戏",
@@ -3225,6 +3281,14 @@
       "onboard_time": 1690788934,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 656480,
+      "num": 656480,
+      "word": "到底是谁发明的餐具费",
+      "onboard_time": 1691143954,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 656061,
@@ -4028,7 +4092,7 @@
     },
     {
       "raw_hot": 564033,
-      "num": 631141,
+      "num": 783358,
       "word": "大哥得知家乡被淹捐赠2大包卫生巾",
       "onboard_time": 1691140172,
       "rank": 27,
@@ -4145,6 +4209,14 @@
       "onboard_time": 1690970555,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 555233,
+      "num": 555233,
+      "word": "我使馆回应中国公民入境俄罗斯受阻",
+      "onboard_time": 1691146174,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554927,
@@ -4280,6 +4352,14 @@
       "word": "内娱生图免检的明星",
       "onboard_time": 1691113837,
       "rank": 7,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 539191,
+      "num": 539191,
+      "word": "魏大勋今晚还是黑西装",
+      "onboard_time": 1691145516,
+      "rank": 17,
       "category": "作品衍生"
     },
     {
@@ -4707,6 +4787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 489948,
+      "num": 389492,
+      "word": "张杰建议胡兵参加披荆斩棘把APP都卸载",
+      "onboard_time": 1691145516,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 489851,
       "num": 293677,
       "word": "微信被吐槽占用内存太大",
@@ -4889,6 +4977,14 @@
       "onboard_time": 1690991372,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467938,
+      "num": 893656,
+      "word": "山东1万个大馒头驰援河北",
+      "onboard_time": 1691144314,
+      "rank": 14,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 466289,
@@ -5275,6 +5371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439471,
+      "num": 384321,
+      "word": "黄渤C位跳queenCard",
+      "onboard_time": 1691145753,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438706,
       "num": 438706,
       "word": "碳循环减肥法",
@@ -5465,14 +5569,6 @@
       "onboard_time": 1690976014,
       "rank": 46,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 425694,
-      "num": 297256,
-      "word": "到底是谁发明的餐具费",
-      "onboard_time": 1691143954,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 424552,
@@ -5723,6 +5819,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 403538,
+      "num": 403538,
+      "word": "TF家族三代抢票",
+      "onboard_time": 1691146593,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 403207,
       "num": 392459,
       "word": "黑龙江",
@@ -5849,14 +5953,6 @@
       "onboard_time": 1690766193,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 394995,
-      "num": 394995,
-      "word": "封神票房",
-      "onboard_time": 1690719633,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 394410,
@@ -6283,6 +6379,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 360914,
+      "num": 360914,
+      "word": "歪梨玊尔",
+      "onboard_time": 1691145215,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 360895,
       "num": 360895,
       "word": "白鹿耳环好大",
@@ -6337,6 +6441,14 @@
       "onboard_time": 1690813299,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 356655,
+      "num": 356655,
+      "word": "莎头",
+      "onboard_time": 1691146356,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 356266,
@@ -6643,6 +6755,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 340272,
+      "num": 340272,
+      "word": "AG发布声明",
+      "onboard_time": 1691146052,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 338809,
       "num": 338809,
       "word": "成灿 门面",
@@ -6769,6 +6889,14 @@
       "onboard_time": 1691051734,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333355,
+      "num": 333355,
+      "word": "把音乐分享到朋友圈的原因",
+      "onboard_time": 1691139935,
+      "rank": 28,
+      "category": "情感,音乐"
     },
     {
       "raw_hot": 332157,
@@ -7371,14 +7499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298087,
-      "num": 298087,
-      "word": "山东1万个大馒头驰援河北",
-      "onboard_time": 1691144314,
-      "rank": 14,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 296659,
       "num": 296659,
       "word": "苹果和安卓哪个续航耐用",
@@ -7675,14 +7795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 284252,
-      "num": 284252,
-      "word": "把音乐分享到朋友圈的原因",
-      "onboard_time": 1691139935,
-      "rank": 28,
-      "category": "情感,音乐"
-    },
-    {
       "raw_hot": 283820,
       "num": 253810,
       "word": "迪丽热巴让龚俊跳恐龙扛狼",
@@ -7777,14 +7889,6 @@
       "onboard_time": 1690768412,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 278734,
-      "num": 295705,
-      "word": "紧急下达4.5亿元支持京津冀防汛救灾",
-      "onboard_time": 1691144792,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277910,
@@ -8923,6 +9027,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 230113,
+      "num": 221324,
+      "word": "披荆斩棘",
+      "onboard_time": 1691147253,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229888,
       "num": 305105,
       "word": "公安检举物业违法的公告被物业撕了",
@@ -9251,6 +9363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216531,
+      "num": 216531,
+      "word": "牺牲蓝天队员家属拒绝接受捐款",
+      "onboard_time": 1691144254,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216430,
       "num": 213230,
       "word": "安乐传杀我别用姐妹刀",
@@ -9329,6 +9449,14 @@
       "onboard_time": 1691058100,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214296,
+      "num": 214296,
+      "word": "大鹏说热烈的彩蛋逐渐奇怪",
+      "onboard_time": 1691146715,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 214182,
@@ -10051,6 +10179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196086,
+      "num": 196086,
+      "word": "淄博大哥带4车物资送往涿州",
+      "onboard_time": 1691146413,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 195915,
       "num": 195915,
       "word": "鸿蒙或将具备AI大模型能力",
@@ -10217,6 +10353,14 @@
       "onboard_time": 1691122720,
       "rank": 49,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 191858,
+      "num": 191858,
+      "word": "封神纪录片",
+      "onboard_time": 1691146413,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 191598,
@@ -10499,14 +10643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 181925,
-      "num": 181925,
-      "word": "牺牲蓝天队员家属拒绝接受捐款",
-      "onboard_time": 1691144254,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181921,
       "num": 181921,
       "word": "孙杨的世界纪录还在",
@@ -10673,6 +10809,14 @@
       "onboard_time": 1690771229,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168992,
+      "num": 191837,
+      "word": "何浩楠带十个勤天回缙云老家",
+      "onboard_time": 1691145753,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 168958,
@@ -11179,14 +11323,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 135074,
-      "num": 147246,
-      "word": "歪梨玊尔",
-      "onboard_time": 1691145215,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134149,
       "num": 161829,
       "word": "看完热烈的人belike",
@@ -11281,6 +11417,14 @@
       "onboard_time": 1690846108,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122183,
+      "num": 191805,
+      "word": "全红婵陈芋汐又断层夺冠了",
+      "onboard_time": 1691147496,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 121481,
@@ -11476,7 +11620,7 @@
     },
     {
       "raw_hot": 102926,
-      "num": 816338,
+      "num": 952572,
       "word": "亚运版复兴号首次对外试乘",
       "onboard_time": 1691135436,
       "rank": 2,
