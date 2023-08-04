@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691133311368,
+  "endTime": 1691134431432,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -17,6 +17,14 @@
       "onboard_time": 1690816715,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3371722,
+      "num": 3126986,
+      "word": "韩国首尔接连出现杀人预告",
+      "onboard_time": 1691129914,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3282960,
@@ -65,14 +73,6 @@
       "onboard_time": 1690785457,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3126986,
-      "num": 3126986,
-      "word": "韩国首尔接连出现杀人预告",
-      "onboard_time": 1691129914,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3070623,
@@ -2163,6 +2163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 862044,
+      "num": 854699,
+      "word": "蒋依依敖子逸",
+      "onboard_time": 1691122780,
+      "rank": 21,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 860938,
       "num": 860938,
       "word": "小夭 阿念",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1690962993,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854699,
-      "num": 854699,
-      "word": "蒋依依敖子逸",
-      "onboard_time": 1691122780,
-      "rank": 21,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 854222,
@@ -2907,6 +2907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 696051,
+      "num": 496011,
+      "word": "彭昱畅自己争取全裸出镜",
+      "onboard_time": 1691132855,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 692397,
       "num": 692397,
       "word": "李雪琴吻戏大型围观现场",
@@ -3116,7 +3124,7 @@
     },
     {
       "raw_hot": 658355,
-      "num": 336527,
+      "num": 392675,
       "word": "QQ音乐",
       "onboard_time": 1691131716,
       "rank": 20,
@@ -4027,6 +4035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553796,
+      "num": 477028,
+      "word": "夭玹离婚冷静期",
+      "onboard_time": 1691132317,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 553592,
       "num": 553592,
       "word": "吴镇宇急需费曼澄清",
@@ -4659,6 +4675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 477132,
+      "num": 392631,
+      "word": "女性词语归还女性",
+      "onboard_time": 1691133096,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 477050,
       "num": 401376,
       "word": "芭比杜华",
@@ -4892,7 +4916,7 @@
     },
     {
       "raw_hot": 453770,
-      "num": 330483,
+      "num": 384932,
       "word": "Angelababy电竞女教练",
       "onboard_time": 1691131958,
       "rank": 21,
@@ -4913,6 +4937,14 @@
       "onboard_time": 1691037882,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 453187,
+      "num": 453187,
+      "word": "地铁2男子吵架大哥教科书式劝架",
+      "onboard_time": 1691130935,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452872,
@@ -5371,14 +5403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 414832,
-      "num": 414832,
-      "word": "夭玹离婚冷静期",
-      "onboard_time": 1691132317,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 414729,
       "num": 384291,
       "word": "谭爷爷的手机屏保是花花",
@@ -5524,7 +5548,7 @@
     },
     {
       "raw_hot": 403207,
-      "num": 328057,
+      "num": 392459,
       "word": "黑龙江",
       "onboard_time": 1691130336,
       "rank": 34,
@@ -5625,6 +5649,14 @@
       "onboard_time": 1690809633,
       "rank": 44,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 395094,
+      "num": 395094,
+      "word": "全智贤演我追星",
+      "onboard_time": 1691132257,
+      "rank": 23,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 395058,
@@ -5737,6 +5769,14 @@
       "onboard_time": 1690967493,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389840,
+      "num": 389840,
+      "word": "杨幂和卖崽蛙合影",
+      "onboard_time": 1691133758,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 389564,
@@ -5931,20 +5971,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371259,
+      "num": 371259,
+      "word": "杨洋南都娱乐封面",
+      "onboard_time": 1691129018,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 371004,
+      "num": 371004,
+      "word": "杨紫张晚意怎么不对视",
+      "onboard_time": 1691133515,
+      "rank": 27,
+      "category": "影视,综艺"
+    },
+    {
       "raw_hot": 370735,
       "num": 370735,
       "word": "Lisa亲了朴彩英的脸",
       "onboard_time": 1690770568,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 370369,
-      "num": 370369,
-      "word": "地铁2男子吵架大哥教科书式劝架",
-      "onboard_time": 1691130935,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369930,
@@ -6283,14 +6331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347155,
-      "num": 306768,
-      "word": "杨洋南都娱乐封面",
-      "onboard_time": 1691129018,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 346680,
       "num": 346680,
       "word": "假如二郎神近视了",
@@ -6587,6 +6627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325524,
+      "num": 385823,
+      "word": "河北",
+      "onboard_time": 1691131895,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325165,
       "num": 325165,
       "word": "法令纹瑜伽",
@@ -6633,14 +6681,6 @@
       "onboard_time": 1690848397,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 324161,
-      "num": 324161,
-      "word": "全智贤演我追星",
-      "onboard_time": 1691132257,
-      "rank": 23,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 323347,
@@ -6785,6 +6825,14 @@
       "onboard_time": 1690792830,
       "rank": 27,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 312450,
+      "num": 312450,
+      "word": "Angelababy黄子韬互呛",
+      "onboard_time": 1691133876,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 312412,
@@ -7016,14 +7064,6 @@
       "word": "小夭给相柳的毒药当美食做",
       "onboard_time": 1691068475,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 302686,
-      "num": 284800,
-      "word": "彭昱畅自己争取全裸出镜",
-      "onboard_time": 1691132855,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -8067,14 +8107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254519,
-      "num": 284963,
-      "word": "河北",
-      "onboard_time": 1691131895,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254487,
       "num": 1422188,
       "word": "4架陆航直升机赴门头沟地区执行空投转运任务",
@@ -8899,6 +8931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218685,
+      "num": 218685,
+      "word": "朱一龙包场吴京巨齿鲨2",
+      "onboard_time": 1691133758,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218549,
       "num": 218549,
       "word": "贵阳人均8块的火锅",
@@ -8929,6 +8969,14 @@
       "onboard_time": 1691046334,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 217255,
+      "num": 195132,
+      "word": "巨齿鲨从不内耗",
+      "onboard_time": 1691134117,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 217056,
@@ -9723,6 +9771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195350,
+      "num": 195350,
+      "word": "整理父亲遗物发现两张一等功证书",
+      "onboard_time": 1691132914,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195332,
       "num": 187170,
       "word": "FIRST青年电影展",
@@ -9745,6 +9801,14 @@
       "onboard_time": 1691070997,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195136,
+      "num": 195136,
+      "word": "涿州被救母亲鞠躬说给大家添麻烦了",
+      "onboard_time": 1691132914,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194895,
@@ -10041,14 +10105,6 @@
       "onboard_time": 1690725395,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184568,
-      "num": 182967,
-      "word": "女性词语归还女性",
-      "onboard_time": 1691133096,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 184558,
@@ -10363,6 +10419,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 164394,
+      "num": 223329,
+      "word": "鸿蒙4首创个性交互主题",
+      "onboard_time": 1691133697,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 164203,
       "num": 141890,
       "word": "钟汉良上海演唱会",
@@ -10395,19 +10459,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163343,
-      "num": 163343,
-      "word": "涿州被救母亲鞠躬说给大家添麻烦了",
-      "onboard_time": 1691132914,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163274,
       "num": 227710,
       "word": "受灾群众的诺亚方舟",
       "onboard_time": 1691072978,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163170,
+      "num": 1394073,
+      "word": "武警出动全地形车搜救受灾群众",
+      "onboard_time": 1691124279,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -10619,14 +10683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146331,
-      "num": 1394073,
-      "word": "武警出动全地形车搜救受灾群众",
-      "onboard_time": 1691124279,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143972,
       "num": 91912,
       "word": "玱玹你怎么不笑了",
@@ -10641,6 +10697,14 @@
       "onboard_time": 1691054916,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143900,
+      "num": 151270,
+      "word": "男子驰援涿州被免收往返高速费",
+      "onboard_time": 1691134415,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142820,
@@ -11379,6 +11443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35367,
+      "num": 556288,
+      "word": "野挺有趣全员国风变装造型",
+      "onboard_time": 1691132435,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33654,
       "num": 289844,
       "word": "暴雨洪灾后的9个健康知识点",
@@ -11489,14 +11561,6 @@
       "onboard_time": 1690619915,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 21078,
-      "num": 556288,
-      "word": "野挺有趣全员国风变装造型",
-      "onboard_time": 1691132435,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 19762,

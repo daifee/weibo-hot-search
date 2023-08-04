@@ -1,0 +1,410 @@
+{
+  "runTime": 1691134431432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1677391,
+        "num": 1677391,
+        "word": "大麦",
+        "onboard_time": 1691121459,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 693598,
+        "num": 693598,
+        "word": "TFBOYS三人三字",
+        "onboard_time": 1691115755,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163170,
+        "num": 692443,
+        "word": "武警出动全地形车搜救受灾群众",
+        "onboard_time": 1691124279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3371722,
+        "num": 655157,
+        "word": "韩国首尔接连出现杀人预告",
+        "onboard_time": 1691129914,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862044,
+        "num": 646012,
+        "word": "蒋依依敖子逸",
+        "onboard_time": 1691122780,
+        "rank": 4,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 807328,
+        "num": 619947,
+        "word": "杨紫回应朋友圈杨紫",
+        "onboard_time": 1691128233,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 716631,
+        "num": 603793,
+        "word": "王源第一个到西安",
+        "onboard_time": 1691131597,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596576,
+        "num": 596576,
+        "word": "Uzi捐款50万元驰援涿州",
+        "onboard_time": 1691130394,
+        "rank": 7,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 576567,
+        "num": 576567,
+        "word": "茶百道捐1000万元驰援京冀洪水救援",
+        "onboard_time": 1691128474,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497554,
+        "num": 497554,
+        "word": "华为发布会",
+        "onboard_time": 1691130758,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 696051,
+        "num": 496011,
+        "word": "彭昱畅自己争取全裸出镜",
+        "onboard_time": 1691132855,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 642728,
+        "num": 487313,
+        "word": "水务局回应两女子江边放生鱼豆腐",
+        "onboard_time": 1691122477,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553796,
+        "num": 477028,
+        "word": "夭玹离婚冷静期",
+        "onboard_time": 1691132317,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517394,
+        "num": 474636,
+        "word": "TFBOYS实体专辑",
+        "onboard_time": 1691129795,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35367,
+        "num": 463256,
+        "word": "野挺有趣全员国风变装造型",
+        "onboard_time": 1691132435,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498641,
+        "num": 455992,
+        "word": "魏大勋都开始捂嘴笑了",
+        "onboard_time": 1691120558,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 453187,
+        "num": 453187,
+        "word": "地铁2男子吵架大哥教科书式劝架",
+        "onboard_time": 1691130935,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447326,
+        "num": 447326,
+        "word": "追星界王宝钏",
+        "onboard_time": 1691128055,
+        "rank": 17,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 438020,
+        "num": 438020,
+        "word": "羞耻心会缝住女生的嘴",
+        "onboard_time": 1691122477,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 395094,
+        "num": 395094,
+        "word": "全智贤演我追星",
+        "onboard_time": 1691132257,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 575710,
+        "num": 392675,
+        "word": "QQ音乐",
+        "onboard_time": 1691131716,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 477132,
+        "num": 392631,
+        "word": "女性词语归还女性",
+        "onboard_time": 1691133096,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402261,
+        "num": 392459,
+        "word": "黑龙江",
+        "onboard_time": 1691130336,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389840,
+        "num": 389840,
+        "word": "杨幂和卖崽蛙合影",
+        "onboard_time": 1691133758,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325524,
+        "num": 385823,
+        "word": "河北",
+        "onboard_time": 1691131895,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384932,
+        "num": 384932,
+        "word": "Angelababy电竞女教练",
+        "onboard_time": 1691131958,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371259,
+        "num": 371259,
+        "word": "杨洋南都娱乐封面",
+        "onboard_time": 1691129018,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 371004,
+        "num": 371004,
+        "word": "杨紫张晚意怎么不对视",
+        "onboard_time": 1691133515,
+        "rank": 27,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 312450,
+        "num": 312450,
+        "word": "Angelababy黄子韬互呛",
+        "onboard_time": 1691133876,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297463,
+        "num": 297463,
+        "word": "捐款",
+        "onboard_time": 1691131115,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280733,
+        "num": 280733,
+        "word": "西安机场和高铁站会挤爆吧",
+        "onboard_time": 1691125178,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264120,
+        "num": 264120,
+        "word": "00后小伙开公司上4休3还有寒暑假",
+        "onboard_time": 1691128172,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263969,
+        "num": 263969,
+        "word": "第一次看到8月发7月行程",
+        "onboard_time": 1691123861,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235219,
+        "num": 235219,
+        "word": "存了一年的东方青苍剪辑",
+        "onboard_time": 1691126915,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164394,
+        "num": 223329,
+        "word": "鸿蒙4首创个性交互主题",
+        "onboard_time": 1691133697,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 221362,
+        "num": 221362,
+        "word": "内娱最好哄的就是四叶草了",
+        "onboard_time": 1691124041,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218685,
+        "num": 218685,
+        "word": "朱一龙包场吴京巨齿鲨2",
+        "onboard_time": 1691133758,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217993,
+        "num": 217993,
+        "word": "牺牲消防员微信头像背景是国旗",
+        "onboard_time": 1691126674,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195350,
+        "num": 195350,
+        "word": "整理父亲遗物发现两张一等功证书",
+        "onboard_time": 1691132914,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195136,
+        "num": 195136,
+        "word": "涿州被救母亲鞠躬说给大家添麻烦了",
+        "onboard_time": 1691132914,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217255,
+        "num": 195132,
+        "word": "巨齿鲨从不内耗",
+        "onboard_time": 1691134117,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210783,
+        "num": 195015,
+        "word": "TFBOYS演唱会结束后会换头像吗",
+        "onboard_time": 1691127755,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194864,
+        "num": 194864,
+        "word": "BLACKPINK与YG续约合约金约15亿韩元",
+        "onboard_time": 1691113417,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192566,
+        "num": 192566,
+        "word": "杨紫张晚意水榭楼台芭莎大片",
+        "onboard_time": 1691119295,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187494,
+        "num": 187494,
+        "word": "福建人对刘涛的妈祖滤镜",
+        "onboard_time": 1691110898,
+        "rank": 44,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 186316,
+        "num": 186316,
+        "word": "哥们你的腹肌怎么是Windows啊",
+        "onboard_time": 1691111858,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178901,
+        "num": 178901,
+        "word": "厂家回应雪糕外形似避孕套被质疑",
+        "onboard_time": 1691115516,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173621,
+        "num": 173621,
+        "word": "原来师傅和师父是不一样的概念",
+        "onboard_time": 1691119957,
+        "rank": 47,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 151374,
+        "num": 151374,
+        "word": "A股",
+        "onboard_time": 1691119597,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143900,
+        "num": 151270,
+        "word": "男子驰援涿州被免收往返高速费",
+        "onboard_time": 1691134415,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦强军#"
+    }
+  }
+}
