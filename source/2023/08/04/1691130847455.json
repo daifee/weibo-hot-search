@@ -1,0 +1,410 @@
+{
+  "runTime": 1691130847455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2252270,
+        "num": 2252270,
+        "word": "大麦",
+        "onboard_time": 1691121459,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1654399,
+        "num": 1654399,
+        "word": "水务局回应两女子江边放生鱼豆腐",
+        "onboard_time": 1691122477,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128031,
+        "num": 1394073,
+        "word": "武警出动全地形车搜救受灾群众",
+        "onboard_time": 1691124279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160634,
+        "num": 1160634,
+        "word": "韩国首尔接连出现杀人预告",
+        "onboard_time": 1691129914,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008659,
+        "num": 1008659,
+        "word": "TFBOYS三人三字",
+        "onboard_time": 1691115755,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 975412,
+        "num": 975412,
+        "word": "杨紫回应朋友圈杨紫",
+        "onboard_time": 1691128233,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 789290,
+        "num": 789290,
+        "word": "蒋依依敖子逸",
+        "onboard_time": 1691122780,
+        "rank": 6,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 718256,
+        "num": 718256,
+        "word": "追星界王宝钏",
+        "onboard_time": 1691128055,
+        "rank": 7,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 674718,
+        "num": 674718,
+        "word": "西安机场和高铁站会挤爆吧",
+        "onboard_time": 1691125178,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642537,
+        "num": 642537,
+        "word": "茶百道捐1000万元驰援京冀洪水救援",
+        "onboard_time": 1691128474,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975064,
+        "num": 629619,
+        "word": "羞耻心会缝住女生的嘴",
+        "onboard_time": 1691122477,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 862858,
+        "num": 619109,
+        "word": "魏大勋都开始捂嘴笑了",
+        "onboard_time": 1691120558,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 717174,
+        "num": 597603,
+        "word": "内娱最好哄的就是四叶草了",
+        "onboard_time": 1691124041,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 697975,
+        "num": 585266,
+        "word": "第一次看到8月发7月行程",
+        "onboard_time": 1691123861,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582311,
+        "num": 582311,
+        "word": "TFBOYS实体专辑",
+        "onboard_time": 1691129795,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 488322,
+        "num": 488322,
+        "word": "刘昊然被导演彭昱畅忽悠",
+        "onboard_time": 1691126615,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487741,
+        "num": 487741,
+        "word": "杨紫张晚意水榭楼台芭莎大片",
+        "onboard_time": 1691119295,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 332906,
+        "num": 332906,
+        "word": "原来师傅和师父是不一样的概念",
+        "onboard_time": 1691119957,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 308129,
+        "num": 308129,
+        "word": "牺牲消防员微信头像背景是国旗",
+        "onboard_time": 1691126674,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277100,
+        "num": 277100,
+        "word": "福建人对刘涛的妈祖滤镜",
+        "onboard_time": 1691110898,
+        "rank": 19,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 467922,
+        "num": 273961,
+        "word": "存了一年的东方青苍剪辑",
+        "onboard_time": 1691126915,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433483,
+        "num": 268987,
+        "word": "TFBOYS演唱会结束后会换头像吗",
+        "onboard_time": 1691127755,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286808,
+        "num": 266470,
+        "word": "00后小伙开公司上4休3还有寒暑假",
+        "onboard_time": 1691128172,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260648,
+        "num": 260648,
+        "word": "厂家回应雪糕外形似避孕套被质疑",
+        "onboard_time": 1691115516,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215146,
+        "num": 215146,
+        "word": "官方确认重庆事业单位考试有人作弊",
+        "onboard_time": 1691110417,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 326690,
+        "num": 214400,
+        "word": "杨洋南都娱乐封面",
+        "onboard_time": 1691129018,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 320701,
+        "num": 212628,
+        "word": "张子涵",
+        "onboard_time": 1691124101,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281166,
+        "num": 212265,
+        "word": "BLACKPINK与YG续约合约金约15亿韩元",
+        "onboard_time": 1691113417,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272638,
+        "num": 211306,
+        "word": "时代峰峻今天好热闹",
+        "onboard_time": 1691124641,
+        "rank": 28,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 210093,
+        "num": 210093,
+        "word": "狗狗被遗弃跋涉100公里咬主人",
+        "onboard_time": 1691113116,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261920,
+        "num": 209618,
+        "word": "异人之下宝儿姐还原度",
+        "onboard_time": 1691127994,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239077,
+        "num": 209333,
+        "word": "TFBOYS抢票",
+        "onboard_time": 1691121397,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208905,
+        "num": 208905,
+        "word": "公安检举物业违法的公告被物业撕了",
+        "onboard_time": 1691126076,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202915,
+        "num": 202915,
+        "word": "Uzi捐款50万元驰援涿州",
+        "onboard_time": 1691130394,
+        "rank": 33,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 201155,
+        "num": 201155,
+        "word": "黑龙江",
+        "onboard_time": 1691130336,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239047,
+        "num": 200998,
+        "word": "迪丽热巴给自己画腮红",
+        "onboard_time": 1691121098,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220545,
+        "num": 200889,
+        "word": "青岛音乐节",
+        "onboard_time": 1691130516,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219242,
+        "num": 200819,
+        "word": "陈牧驰就乖乖把脖子和喉结送上来了",
+        "onboard_time": 1691126257,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200726,
+        "num": 200726,
+        "word": "二十几岁的女生真的很忙",
+        "onboard_time": 1691107894,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 199494,
+        "num": 199494,
+        "word": "A股",
+        "onboard_time": 1691119597,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204042,
+        "num": 194950,
+        "word": "张云雷杨九郎十周年专场演出",
+        "onboard_time": 1691129735,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201868,
+        "num": 190539,
+        "word": "哥们你的腹肌怎么是Windows啊",
+        "onboard_time": 1691111858,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200902,
+        "num": 190012,
+        "word": "小夭才是真疯批",
+        "onboard_time": 1691120135,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185838,
+        "num": 185838,
+        "word": "涿州 实体书之城",
+        "onboard_time": 1691121275,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193717,
+        "num": 179876,
+        "word": "官方回应黑龙江尚志降雨引发洪水",
+        "onboard_time": 1691129855,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197068,
+        "num": 178187,
+        "word": "巨齿鲨2今日上映",
+        "onboard_time": 1691129735,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170120,
+        "num": 170120,
+        "word": "行政岗做过最离谱的事情",
+        "onboard_time": 1691123438,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 150729,
+        "num": 150729,
+        "word": "华为发布会",
+        "onboard_time": 1691130758,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147190,
+        "num": 147190,
+        "word": "被离职问老板尊嘟假嘟",
+        "onboard_time": 1691115634,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114259,
+        "num": 146752,
+        "word": "丁丁猫也为保护家乡出了一份力",
+        "onboard_time": 1691124877,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#暴雨洪水中每个挺身而出的人都是英雄#"
+    }
+  }
+}
