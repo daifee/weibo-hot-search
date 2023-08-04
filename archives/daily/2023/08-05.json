@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691187320417,
+  "endTime": 1691188418229,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313183,
+      "num": 448627,
+      "word": "黑龙江已有4条江河发生洪水",
+      "onboard_time": 1691156019,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302973,
       "num": 302973,
       "word": "李泰容",
@@ -305,14 +313,6 @@
       "onboard_time": 1691162213,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 249940,
-      "num": 448627,
-      "word": "黑龙江已有4条江河发生洪水",
-      "onboard_time": 1691156019,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237680,
@@ -427,19 +427,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138537,
+      "num": 82992,
+      "word": "卡努或将急转弯转向东北",
+      "onboard_time": 1691185635,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137586,
+      "num": 82604,
+      "word": "河北涿州灾区的明星捐款名单",
+      "onboard_time": 1691181913,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134779,
+      "num": 134779,
+      "word": "乌克兰丈母娘感叹上海是童话世界",
+      "onboard_time": 1691171000,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125704,
       "num": 1598109,
       "word": "断崖旁消防员用身躯做人墙保护孩子",
       "onboard_time": 1691159079,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120456,
-      "num": 62245,
-      "word": "河北涿州灾区的明星捐款名单",
-      "onboard_time": 1691181913,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -459,22 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 90457,
-      "num": 90457,
-      "word": "乌克兰丈母娘感叹上海是童话世界",
-      "onboard_time": 1691171000,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80082,
-      "num": 62020,
-      "word": "卡努或将急转弯转向东北",
-      "onboard_time": 1691185635,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75336,
       "num": 75336,
       "word": "能被处女座认可的人肯定不差",
@@ -483,16 +483,16 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 43902,
-      "num": 43902,
+      "raw_hot": 52854,
+      "num": 52854,
       "word": "不是说竹子宁折不弯吗",
       "onboard_time": 1691181793,
       "rank": 32,
       "category": "幽默"
     },
     {
-      "raw_hot": 33182,
-      "num": 33263,
+      "raw_hot": 41366,
+      "num": 41366,
       "word": "封神彩蛋",
       "onboard_time": 1691182874,
       "rank": 43,
@@ -531,8 +531,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 13453,
-      "num": 320198,
+      "raw_hot": 17946,
+      "num": 417686,
       "word": "英雄就是我们身边的平凡人",
       "onboard_time": 1691159021,
       "rank": 2,
