@@ -1,0 +1,410 @@
+{
+  "runTime": 1691156035332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2391660,
+        "num": 2391660,
+        "word": "B站崩了",
+        "onboard_time": 1691155176,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1815601,
+        "num": 1815601,
+        "word": "这真的不是向佐吗",
+        "onboard_time": 1691149593,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43340,
+        "num": 1401476,
+        "word": "个人如何做好灾后防疫",
+        "onboard_time": 1691135675,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214684,
+        "num": 1214684,
+        "word": "中国好声音赶着下班啊",
+        "onboard_time": 1691154395,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1059495,
+        "num": 1059495,
+        "word": "大奉打更人",
+        "onboard_time": 1691151633,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 895014,
+        "num": 895014,
+        "word": "吴艳妮",
+        "onboard_time": 1691153495,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 720691,
+        "num": 720691,
+        "word": "黑龙江暴雨",
+        "onboard_time": 1691151633,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719347,
+        "num": 719347,
+        "word": "赵丽颖向河北灾区捐赠物资",
+        "onboard_time": 1691149532,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652157,
+        "num": 652157,
+        "word": "华为",
+        "onboard_time": 1691153315,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 619466,
+        "num": 619466,
+        "word": "长相思第二季共21集",
+        "onboard_time": 1691145691,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1780436,
+        "num": 595002,
+        "word": "TFBOYS染了同一发色",
+        "onboard_time": 1691145875,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 931991,
+        "num": 549363,
+        "word": "韩国首尔接连出现杀人预告",
+        "onboard_time": 1691129914,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825435,
+        "num": 472656,
+        "word": "TFBOYS方严禁场馆周边占位应援",
+        "onboard_time": 1691154159,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786432,
+        "num": 415077,
+        "word": "Angelababy穿比基尼跳海",
+        "onboard_time": 1691141735,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 388138,
+        "num": 388138,
+        "word": "山东1万个大馒头驰援河北",
+        "onboard_time": 1691144314,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 763931,
+        "num": 381317,
+        "word": "魏大勋李现工作室出图",
+        "onboard_time": 1691152774,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 717551,
+        "num": 380597,
+        "word": "邓为早期照片",
+        "onboard_time": 1691151273,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369288,
+        "num": 369288,
+        "word": "那英 专治恋爱脑",
+        "onboard_time": 1691155598,
+        "rank": 17,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 334740,
+        "num": 334740,
+        "word": "吴艳妮女子百米栏摘银",
+        "onboard_time": 1691153736,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330681,
+        "num": 330681,
+        "word": "Xiaohu阿水杀疯了",
+        "onboard_time": 1691146114,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 723672,
+        "num": 330678,
+        "word": "研究称孕期吃苹果能保护孙辈大脑",
+        "onboard_time": 1691154097,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660724,
+        "num": 330419,
+        "word": "老人小便失禁地铁小姐姐让她靠怀里",
+        "onboard_time": 1691153974,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529327,
+        "num": 330094,
+        "word": "魏大勋开小差被发现了",
+        "onboard_time": 1691152715,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405378,
+        "num": 329885,
+        "word": "这是谁的防风邶",
+        "onboard_time": 1691153796,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378416,
+        "num": 329550,
+        "word": "三伏天用上了30年前的空调",
+        "onboard_time": 1691150372,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309017,
+        "num": 329298,
+        "word": "原神",
+        "onboard_time": 1691148454,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 386434,
+        "num": 329018,
+        "word": "TFBOYS演唱会得票率约为0.07%",
+        "onboard_time": 1691147974,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353342,
+        "num": 328823,
+        "word": "封神票房",
+        "onboard_time": 1691145993,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334556,
+        "num": 328438,
+        "word": "易烊千玺新发色藏不住了",
+        "onboard_time": 1691139274,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328361,
+        "num": 328361,
+        "word": "原神喜茶再联动",
+        "onboard_time": 1691154276,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 353817,
+        "num": 324306,
+        "word": "马天宇被小姐姐要加微信",
+        "onboard_time": 1691155658,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 318160,
+        "num": 318160,
+        "word": "如果一个人周五脸上没笑容",
+        "onboard_time": 1691151933,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281995,
+        "num": 281995,
+        "word": "韩国人就差身份证上写mbti了",
+        "onboard_time": 1691155658,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270846,
+        "num": 270846,
+        "word": "石家庄暴雨",
+        "onboard_time": 1691145274,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261326,
+        "num": 261326,
+        "word": "王鹤棣苏感",
+        "onboard_time": 1691154276,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260224,
+        "num": 260224,
+        "word": "黄渤C位跳queenCard",
+        "onboard_time": 1691145753,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255426,
+        "num": 255426,
+        "word": "淄博大哥带4车物资送往涿州",
+        "onboard_time": 1691146413,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 215936,
+        "num": 215936,
+        "word": "巨齿鲨",
+        "onboard_time": 1691141313,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215511,
+        "num": 215511,
+        "word": "莲花楼空境审美",
+        "onboard_time": 1691155364,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147486,
+        "num": 212470,
+        "word": "枫丹启动",
+        "onboard_time": 1691155540,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210348,
+        "num": 210348,
+        "word": "把音乐分享到朋友圈的原因",
+        "onboard_time": 1691139935,
+        "rank": 40,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 208343,
+        "num": 208343,
+        "word": "男大学生购买100包卫生巾支援涿州",
+        "onboard_time": 1691140295,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 202693,
+        "num": 202693,
+        "word": "中国好声音",
+        "onboard_time": 1691154999,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189116,
+        "num": 189116,
+        "word": "全红婵陈芋汐又断层夺冠了",
+        "onboard_time": 1691147496,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184026,
+        "num": 184026,
+        "word": "大哥得知家乡被淹捐赠2大包卫生巾",
+        "onboard_time": 1691140172,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183599,
+        "num": 183599,
+        "word": "独家童话上线8天分账票房1000万",
+        "onboard_time": 1691155417,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180047,
+        "num": 180047,
+        "word": "HypeBoy初舞台一周年",
+        "onboard_time": 1691156019,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175970,
+        "num": 175970,
+        "word": "电视剧但愿人长久定档",
+        "onboard_time": 1691147791,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175512,
+        "num": 175512,
+        "word": "黑龙江已有4条江河发生洪水",
+        "onboard_time": 1691156019,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175249,
+        "num": 175249,
+        "word": "韩素希手机壁纸",
+        "onboard_time": 1691139573,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#同舟共冀感谢有你#"
+    }
+  }
+}

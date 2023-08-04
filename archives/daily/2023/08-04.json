@@ -1,6 +1,6 @@
 {
   "startTime": 1691079780560,
-  "endTime": 1691155180709,
+  "endTime": 1691156035332,
   "band_list": [
     {
       "raw_hot": 3371722,
@@ -41,6 +41,14 @@
       "onboard_time": 1691145875,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2391660,
+      "num": 2391660,
+      "word": "B站崩了",
+      "onboard_time": 1691155176,
+      "rank": 0,
+      "category": "科技"
     },
     {
       "raw_hot": 2252270,
@@ -225,6 +233,14 @@
       "onboard_time": 1691119295,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1214684,
+      "num": 1214684,
+      "word": "中国好声音赶着下班啊",
+      "onboard_time": 1691154395,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1207437,
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 825435,
+      "num": 472656,
+      "word": "TFBOYS方严禁场馆周边占位应援",
+      "onboard_time": 1691154159,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822034,
       "num": 317226,
       "word": "网友偶遇TFBOYS拍写真",
@@ -539,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 723672,
+      "num": 366267,
+      "word": "研究称孕期吃苹果能保护孙辈大脑",
+      "onboard_time": 1691154097,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 714747,
       "num": 714747,
       "word": "茶百道捐1000万元驰援京冀洪水救援",
@@ -603,6 +635,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 660724,
+      "num": 364596,
+      "word": "老人小便失禁地铁小姐姐让她靠怀里",
+      "onboard_time": 1691153974,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658355,
       "num": 392675,
       "word": "QQ音乐",
@@ -657,14 +697,6 @@
       "onboard_time": 1691139573,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 614300,
-      "num": 383921,
-      "word": "中国好声音赶着下班啊",
-      "onboard_time": 1691154395,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 607521,
@@ -753,14 +785,6 @@
       "onboard_time": 1691064993,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 573225,
-      "num": 366267,
-      "word": "研究称孕期吃苹果能保护孙辈大脑",
-      "onboard_time": 1691154097,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 572414,
@@ -971,14 +995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 478833,
-      "num": 365055,
-      "word": "TFBOYS方严禁场馆周边占位应援",
-      "onboard_time": 1691154159,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 478826,
       "num": 478826,
       "word": "全红婵陈芋汐又断层夺冠了",
@@ -1147,14 +1163,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 413126,
-      "num": 364596,
-      "word": "老人小便失禁地铁小姐姐让她靠怀里",
-      "onboard_time": 1691153974,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411332,
       "num": 411332,
       "word": "异人之下",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1691116357,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 405378,
+      "num": 329885,
+      "word": "这是谁的防风邶",
+      "onboard_time": 1691153796,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 403207,
@@ -1323,6 +1339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 369288,
+      "num": 369288,
+      "word": "那英 专治恋爱脑",
+      "onboard_time": 1691155598,
+      "rank": 17,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 361353,
       "num": 361353,
       "word": "如果一个人周五脸上没笑容",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1691134595,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353817,
+      "num": 324306,
+      "word": "马天宇被小姐姐要加微信",
+      "onboard_time": 1691155658,
+      "rank": 30,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 350418,
@@ -1457,14 +1489,6 @@
       "onboard_time": 1691120614,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328481,
-      "num": 328481,
-      "word": "这是谁的防风邶",
-      "onboard_time": 1691153796,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 327890,
@@ -1619,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281995,
+      "num": 281995,
+      "word": "韩国人就差身份证上写mbti了",
+      "onboard_time": 1691155658,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280524,
       "num": 280524,
       "word": "相柳的头套是在5款白发里选的",
@@ -1705,6 +1737,14 @@
       "onboard_time": 1691141194,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 261326,
+      "num": 261326,
+      "word": "王鹤棣苏感",
+      "onboard_time": 1691154276,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 259223,
@@ -1809,14 +1849,6 @@
       "onboard_time": 1691118995,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 237335,
-      "num": 237335,
-      "word": "王鹤棣苏感",
-      "onboard_time": 1691154276,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 235775,
@@ -1947,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215511,
+      "num": 215511,
+      "word": "莲花楼空境审美",
+      "onboard_time": 1691155364,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213994,
       "num": 213994,
       "word": "封神笑话",
@@ -2049,6 +2089,14 @@
       "onboard_time": 1691129735,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202693,
+      "num": 202693,
+      "word": "中国好声音",
+      "onboard_time": 1691154999,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 201476,
@@ -2163,14 +2211,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193861,
-      "num": 193861,
-      "word": "中国好声音",
-      "onboard_time": 1691154999,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193717,
       "num": 179876,
       "word": "官方回应黑龙江尚志降雨引发洪水",
@@ -2275,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183599,
+      "num": 183599,
+      "word": "独家童话上线8天分账票房1000万",
+      "onboard_time": 1691155417,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182738,
       "num": 182738,
       "word": "如何评价鸿蒙4",
@@ -2299,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180047,
+      "num": 180047,
+      "word": "HypeBoy初舞台一周年",
+      "onboard_time": 1691156019,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178723,
       "num": 363005,
       "word": "鸿蒙4将接入AI大模型",
@@ -2313,6 +2369,14 @@
       "onboard_time": 1691070997,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175512,
+      "num": 175512,
+      "word": "黑龙江已有4条江河发生洪水",
+      "onboard_time": 1691156019,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172310,
@@ -2433,6 +2497,14 @@
       "onboard_time": 1691127218,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147486,
+      "num": 212470,
+      "word": "枫丹启动",
+      "onboard_time": 1691155540,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 146993,
@@ -2716,7 +2788,7 @@
     },
     {
       "raw_hot": 48210,
-      "num": 1206676,
+      "num": 1401476,
       "word": "个人如何做好灾后防疫",
       "onboard_time": 1691135675,
       "rank": 2,
