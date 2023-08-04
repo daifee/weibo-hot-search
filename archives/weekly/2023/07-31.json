@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691156035332,
+  "endTime": 1691158502429,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 2590802,
-      "num": 687636,
+      "num": 734784,
       "word": "TFBOYS染了同一发色",
       "onboard_time": 1691145875,
       "rank": 10,
@@ -697,6 +697,14 @@
       "onboard_time": 1690794032,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1642960,
+      "num": 1642960,
+      "word": "韩国人就差身份证上写mbti了",
+      "onboard_time": 1691155658,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 1633951,
@@ -1251,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1275941,
+      "num": 726646,
+      "word": "马天宇被小姐姐要加微信",
+      "onboard_time": 1691155658,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1272511,
       "num": 1272511,
       "word": "小夭吻得好主动",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1690788157,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1270395,
+      "num": 718145,
+      "word": "TFBOYS方严禁场馆周边占位应援",
+      "onboard_time": 1691154159,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1266671,
@@ -2083,6 +2107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 921178,
+      "num": 921178,
+      "word": "曾毅说TFBOYS是凤凰传奇的晚辈",
+      "onboard_time": 1691156982,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 920450,
       "num": 920450,
       "word": "一位66岁绿化工人在暴雨中离世",
@@ -2411,12 +2443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 825435,
-      "num": 472656,
-      "word": "TFBOYS方严禁场馆周边占位应援",
-      "onboard_time": 1691154159,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 826166,
+      "num": 826166,
+      "word": "黑龙江暴雨",
+      "onboard_time": 1691151633,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 825088,
@@ -2451,6 +2483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 812603,
+      "num": 812603,
+      "word": "那英 专治恋爱脑",
+      "onboard_time": 1691155598,
+      "rank": 17,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 810750,
       "num": 810750,
       "word": "列车延误女乘务员哽咽安抚乘客",
@@ -2460,7 +2500,7 @@
     },
     {
       "raw_hot": 809153,
-      "num": 384272,
+      "num": 392740,
       "word": "魏大勋李现工作室出图",
       "onboard_time": 1691152774,
       "rank": 21,
@@ -2617,6 +2657,14 @@
       "onboard_time": 1690931301,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780654,
+      "num": 780654,
+      "word": "终于等到长相思电动车名场面",
+      "onboard_time": 1691157163,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 778789,
@@ -2851,14 +2899,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 747068,
-      "num": 747068,
-      "word": "黑龙江暴雨",
-      "onboard_time": 1691151633,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 746012,
       "num": 746012,
       "word": "张大大问毛不易上岸了吗",
@@ -2897,6 +2937,22 @@
       "onboard_time": 1690947274,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 739957,
+      "num": 396572,
+      "word": "研究称孕期吃苹果能保护孙辈大脑",
+      "onboard_time": 1691154097,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738471,
+      "num": 738471,
+      "word": "黑龙江已有4条江河发生洪水",
+      "onboard_time": 1691156019,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 737212,
@@ -2939,6 +2995,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 734228,
+      "num": 394848,
+      "word": "老人小便失禁地铁小姐姐让她靠怀里",
+      "onboard_time": 1691153974,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731906,
       "num": 731906,
       "word": "王源第一个到西安",
@@ -2969,14 +3033,6 @@
       "onboard_time": 1691147974,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 723672,
-      "num": 366267,
-      "word": "研究称孕期吃苹果能保护孙辈大脑",
-      "onboard_time": 1691154097,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 723570,
@@ -3113,6 +3169,14 @@
       "onboard_time": 1690880192,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 706020,
+      "num": 706020,
+      "word": "丁程鑫教迪丽热巴龚俊刘宇宁跳舞",
+      "onboard_time": 1691157038,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 704429,
@@ -3385,14 +3449,6 @@
       "onboard_time": 1690724792,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 660724,
-      "num": 364596,
-      "word": "老人小便失禁地铁小姐姐让她靠怀里",
-      "onboard_time": 1691153974,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 658355,
@@ -3817,6 +3873,14 @@
       "onboard_time": 1690809214,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603863,
+      "num": 603863,
+      "word": "好声音咋改唱跳了",
+      "onboard_time": 1691157704,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 603612,
@@ -6227,6 +6291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389979,
+      "num": 389979,
+      "word": "防风邶转过杯子喝小夭喝过的地方",
+      "onboard_time": 1691156741,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 389564,
       "num": 389564,
       "word": "夭柳党心碎",
@@ -6475,14 +6547,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 369288,
-      "num": 369288,
-      "word": "那英 专治恋爱脑",
-      "onboard_time": 1691155598,
-      "rank": 17,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 368536,
       "num": 404711,
       "word": "涿州市民说从未想过在这条路坐船",
@@ -6635,6 +6699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357672,
+      "num": 357672,
+      "word": "轿车从天而降电动车主被撞身亡",
+      "onboard_time": 1691158001,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356870,
       "num": 291578,
       "word": "辛赵不宣",
@@ -6737,14 +6809,6 @@
       "onboard_time": 1690787075,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 353817,
-      "num": 324306,
-      "word": "马天宇被小姐姐要加微信",
-      "onboard_time": 1691155658,
-      "rank": 30,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 353498,
@@ -7539,6 +7603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305490,
+      "num": 230967,
+      "word": "长相思小夭王姬归来幕后花絮",
+      "onboard_time": 1691156260,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305299,
       "num": 249448,
       "word": "牺牲消防员微信昵称头像太戳了",
@@ -7777,6 +7849,14 @@
       "onboard_time": 1690807172,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293213,
+      "num": 216448,
+      "word": "HypeBoy初舞台一周年",
+      "onboard_time": 1691156019,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 293193,
@@ -8041,14 +8121,6 @@
       "onboard_time": 1691036621,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 281995,
-      "num": 281995,
-      "word": "韩国人就差身份证上写mbti了",
-      "onboard_time": 1691155658,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 281050,
@@ -9499,6 +9571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 221735,
+      "num": 215596,
+      "word": "莲花楼空镜审美",
+      "onboard_time": 1691155364,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221340,
       "num": 221340,
       "word": "孤注一掷导演给了张艺兴1个T的资料",
@@ -9769,6 +9849,14 @@
       "onboard_time": 1690893155,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212569,
+      "num": 212569,
+      "word": "成都蓉城",
+      "onboard_time": 1691158480,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 212208,
@@ -11011,14 +11099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180047,
-      "num": 180047,
-      "word": "HypeBoy初舞台一周年",
-      "onboard_time": 1691156019,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 179968,
       "num": 210204,
       "word": "代号鸢",
@@ -11089,14 +11169,6 @@
       "onboard_time": 1690818514,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 175512,
-      "num": 175512,
-      "word": "黑龙江已有4条江河发生洪水",
-      "onboard_time": 1691156019,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174704,
@@ -11395,6 +11467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156715,
+      "num": 216042,
+      "word": "枫丹启动",
+      "onboard_time": 1691155540,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156713,
       "num": 140871,
       "word": "封神彩蛋",
@@ -11513,14 +11593,6 @@
       "onboard_time": 1690722157,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147486,
-      "num": 212470,
-      "word": "枫丹启动",
-      "onboard_time": 1691155540,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 147170,
@@ -11689,6 +11761,14 @@
       "onboard_time": 1691142633,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133086,
+      "num": 216696,
+      "word": "淘宝推出涿州图书专场",
+      "onboard_time": 1691157640,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132013,
@@ -12387,6 +12467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29145,
+      "num": 213201,
+      "word": "原神枫丹音乐live",
+      "onboard_time": 1691157401,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 28800,
       "num": 46141,
       "word": "航拍暴雨后的涿州",
@@ -12539,6 +12627,9 @@
     },
     {
       "word": "#同舟共冀感谢有你#"
+    },
+    {
+      "word": "#成都大运会有哪些黑科技#"
     }
   ]
 }

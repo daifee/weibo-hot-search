@@ -1,0 +1,410 @@
+{
+  "runTime": 1691158502429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1780744,
+        "num": 1780744,
+        "word": "B站崩了",
+        "onboard_time": 1691155176,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1642960,
+        "num": 1642960,
+        "word": "韩国人就差身份证上写mbti了",
+        "onboard_time": 1691155658,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35608,
+        "num": 1395072,
+        "word": "个人如何做好灾后防疫",
+        "onboard_time": 1691135675,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262639,
+        "num": 1262639,
+        "word": "这真的不是向佐吗",
+        "onboard_time": 1691149593,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1101287,
+        "num": 1101287,
+        "word": "中国好声音赶着下班啊",
+        "onboard_time": 1691154395,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 921178,
+        "num": 921178,
+        "word": "曾毅说TFBOYS是凤凰传奇的晚辈",
+        "onboard_time": 1691156982,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 826166,
+        "num": 826166,
+        "word": "黑龙江暴雨",
+        "onboard_time": 1691151633,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812603,
+        "num": 812603,
+        "word": "那英 专治恋爱脑",
+        "onboard_time": 1691155598,
+        "rank": 7,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 780654,
+        "num": 780654,
+        "word": "终于等到长相思电动车名场面",
+        "onboard_time": 1691157163,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738471,
+        "num": 738471,
+        "word": "黑龙江已有4条江河发生洪水",
+        "onboard_time": 1691156019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1764354,
+        "num": 734784,
+        "word": "TFBOYS染了同一发色",
+        "onboard_time": 1691145875,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1275941,
+        "num": 726646,
+        "word": "马天宇被小姐姐要加微信",
+        "onboard_time": 1691155658,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1270395,
+        "num": 718145,
+        "word": "TFBOYS方严禁场馆周边占位应援",
+        "onboard_time": 1691154159,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 914057,
+        "num": 713735,
+        "word": "韩国首尔接连出现杀人预告",
+        "onboard_time": 1691129914,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706020,
+        "num": 706020,
+        "word": "丁程鑫教迪丽热巴龚俊刘宇宁跳舞",
+        "onboard_time": 1691157038,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627980,
+        "num": 627980,
+        "word": "吴艳妮",
+        "onboard_time": 1691153495,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 617242,
+        "num": 617242,
+        "word": "Angelababy穿比基尼跳海",
+        "onboard_time": 1691141735,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 603863,
+        "num": 603863,
+        "word": "好声音咋改唱跳了",
+        "onboard_time": 1691157704,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587596,
+        "num": 587596,
+        "word": "长相思第二季共21集",
+        "onboard_time": 1691145691,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396805,
+        "num": 396805,
+        "word": "华为",
+        "onboard_time": 1691153315,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 739957,
+        "num": 396572,
+        "word": "研究称孕期吃苹果能保护孙辈大脑",
+        "onboard_time": 1691154097,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734228,
+        "num": 394848,
+        "word": "老人小便失禁地铁小姐姐让她靠怀里",
+        "onboard_time": 1691153974,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574887,
+        "num": 394215,
+        "word": "大奉打更人",
+        "onboard_time": 1691151633,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545572,
+        "num": 392740,
+        "word": "魏大勋李现工作室出图",
+        "onboard_time": 1691152774,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 457744,
+        "num": 392140,
+        "word": "邓为早期照片",
+        "onboard_time": 1691151273,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 445088,
+        "num": 390376,
+        "word": "赵丽颖向河北灾区捐赠物资",
+        "onboard_time": 1691149532,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389979,
+        "num": 389979,
+        "word": "防风邶转过杯子喝小夭喝过的地方",
+        "onboard_time": 1691156741,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357672,
+        "num": 357672,
+        "word": "轿车从天而降电动车主被撞身亡",
+        "onboard_time": 1691158001,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323453,
+        "num": 323453,
+        "word": "山东1万个大馒头驰援河北",
+        "onboard_time": 1691144314,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 257929,
+        "num": 257929,
+        "word": "石家庄暴雨",
+        "onboard_time": 1691145274,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358463,
+        "num": 256318,
+        "word": "魏大勋开小差被发现了",
+        "onboard_time": 1691152715,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329131,
+        "num": 251779,
+        "word": "这是谁的防风邶",
+        "onboard_time": 1691153796,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321922,
+        "num": 249196,
+        "word": "易烊千玺新发色藏不住了",
+        "onboard_time": 1691139274,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243140,
+        "num": 243140,
+        "word": "淄博大哥带4车物资送往涿州",
+        "onboard_time": 1691146413,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 242824,
+        "num": 242824,
+        "word": "Xiaohu阿水杀疯了",
+        "onboard_time": 1691146114,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308659,
+        "num": 237395,
+        "word": "封神票房",
+        "onboard_time": 1691145993,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305490,
+        "num": 230967,
+        "word": "长相思小夭王姬归来幕后花絮",
+        "onboard_time": 1691156260,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219532,
+        "num": 219532,
+        "word": "原神喜茶再联动",
+        "onboard_time": 1691154276,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216916,
+        "num": 216916,
+        "word": "吴艳妮女子百米栏摘银",
+        "onboard_time": 1691153736,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133086,
+        "num": 216696,
+        "word": "淘宝推出涿州图书专场",
+        "onboard_time": 1691157640,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293213,
+        "num": 216448,
+        "word": "HypeBoy初舞台一周年",
+        "onboard_time": 1691156019,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156715,
+        "num": 216042,
+        "word": "枫丹启动",
+        "onboard_time": 1691155540,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221735,
+        "num": 215596,
+        "word": "莲花楼空镜审美",
+        "onboard_time": 1691155364,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215534,
+        "num": 215534,
+        "word": "如果一个人周五脸上没笑容",
+        "onboard_time": 1691151933,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220829,
+        "num": 215349,
+        "word": "TFBOYS演唱会得票率约为0.07%",
+        "onboard_time": 1691147974,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218301,
+        "num": 215173,
+        "word": "王鹤棣苏感",
+        "onboard_time": 1691154276,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214723,
+        "num": 214723,
+        "word": "三伏天用上了30年前的空调",
+        "onboard_time": 1691150372,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214238,
+        "num": 214238,
+        "word": "巨齿鲨",
+        "onboard_time": 1691141313,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29145,
+        "num": 213201,
+        "word": "原神枫丹音乐live",
+        "onboard_time": 1691157401,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212569,
+        "num": 212569,
+        "word": "成都蓉城",
+        "onboard_time": 1691158480,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会有哪些黑科技#"
+    }
+  }
+}
