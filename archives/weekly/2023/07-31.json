@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691116847718,
+  "endTime": 1691119015115,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -144,6 +144,14 @@
       "word": "TFBOYS抢票",
       "onboard_time": 1690776636,
       "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 2615275,
+      "num": 2615275,
+      "word": "TFBOYS三人三字",
+      "onboard_time": 1691115755,
+      "rank": 12,
       "category": "音乐"
     },
     {
@@ -859,20 +867,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1447888,
+      "num": 1447888,
+      "word": "BLACKPINK与YG续约合约金约15亿韩元",
+      "onboard_time": 1691113417,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1438562,
       "num": 1438562,
       "word": "杨幂喊迪丽热巴巴",
       "onboard_time": 1690872932,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1422808,
-      "num": 1422808,
-      "word": "BLACKPINK与YG续约合约金约15亿韩元",
-      "onboard_time": 1691113417,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 1405033,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1690988077,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1334942,
+      "num": 1334942,
+      "word": "现在的黄晓明真的活得比谁都清醒",
+      "onboard_time": 1691115337,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1325927,
@@ -1275,20 +1291,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1133353,
-      "num": 1133353,
-      "word": "现在的黄晓明真的活得比谁都清醒",
-      "onboard_time": 1691115337,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1125332,
       "num": 1125332,
       "word": "河北强降雨已致9人遇难6人失联",
       "onboard_time": 1690879894,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1122698,
+      "num": 1122698,
+      "word": "王俊凯王源易烊千玺粉丝哄好了",
+      "onboard_time": 1691116959,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1114869,
@@ -1715,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 949473,
+      "num": 927830,
+      "word": "六岁相柳怒扔奶瓶",
+      "onboard_time": 1691113417,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 948371,
       "num": 797500,
       "word": "小S带3个女儿游韩国",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1690903537,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 927830,
-      "num": 927830,
-      "word": "六岁相柳怒扔奶瓶",
-      "onboard_time": 1691113417,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 927742,
@@ -2337,14 +2353,6 @@
       "onboard_time": 1690809814,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 773755,
-      "num": 773755,
-      "word": "TFBOYS三人三字",
-      "onboard_time": 1691115755,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 772197,
@@ -3121,6 +3129,14 @@
       "onboard_time": 1690855592,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 631109,
+      "num": 487517,
+      "word": "终于有TFBOYS十周年实感了",
+      "onboard_time": 1691117858,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 630125,
@@ -4139,6 +4155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 503563,
+      "num": 503563,
+      "word": "养猫人不适合穿破洞裤",
+      "onboard_time": 1691114498,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 503470,
       "num": 405876,
       "word": "西安将迎最火爆的一周",
@@ -4345,6 +4369,14 @@
       "onboard_time": 1690871732,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 481701,
+      "num": 324898,
+      "word": "厂家回应雪糕外形似避孕套被质疑",
+      "onboard_time": 1691115516,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479998,
@@ -4787,6 +4819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438706,
+      "num": 438706,
+      "word": "碳循环减肥法",
+      "onboard_time": 1691113599,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 438261,
       "num": 438261,
       "word": "佳木斯建方舱医院真相",
@@ -4929,6 +4969,14 @@
       "onboard_time": 1690848456,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 427775,
+      "num": 427775,
+      "word": "牡丹江洪水已形成",
+      "onboard_time": 1691113299,
+      "rank": 44,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 427146,
@@ -5507,6 +5555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378842,
+      "num": 303138,
+      "word": "e人和i人聊天的区别",
+      "onboard_time": 1691116357,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 377364,
       "num": 377364,
       "word": "八月长安",
@@ -5553,14 +5609,6 @@
       "onboard_time": 1690888292,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 373495,
-      "num": 373495,
-      "word": "牡丹江洪水已形成",
-      "onboard_time": 1691113299,
-      "rank": 44,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 372413,
@@ -5723,6 +5771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359101,
+      "num": 300818,
+      "word": "明天你好星期六有迪丽热巴",
+      "onboard_time": 1691118214,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358238,
       "num": 358238,
       "word": "中国男篮小组赛三战全败",
@@ -5753,6 +5809,14 @@
       "onboard_time": 1690884274,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 355981,
+      "num": 297953,
+      "word": "邓为于适此沙都有鼻尖痣",
+      "onboard_time": 1691116716,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 355876,
@@ -6195,14 +6259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 324898,
-      "num": 324898,
-      "word": "厂家回应雪糕外形似避孕套被质疑",
-      "onboard_time": 1691115516,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324686,
       "num": 306799,
       "word": "龚俊炫耀收到周杰伦周边",
@@ -6393,6 +6449,14 @@
       "onboard_time": 1691040337,
       "rank": 27,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 310446,
+      "num": 310446,
+      "word": "救援队懂了她的不忍开口",
+      "onboard_time": 1691117375,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310188,
@@ -7203,14 +7267,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 270982,
-      "num": 316528,
-      "word": "养猫人不适合穿破洞裤",
-      "onboard_time": 1691114498,
-      "rank": 36,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 270925,
       "num": 270925,
       "word": "爱豆小卡应该有更多功能",
@@ -7547,14 +7603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256231,
-      "num": 318152,
-      "word": "碳循环减肥法",
-      "onboard_time": 1691113599,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256215,
       "num": 256215,
       "word": "推特图标",
@@ -7803,6 +7851,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 245702,
+      "num": 245702,
+      "word": "newjeans 音乐节",
+      "onboard_time": 1691118395,
+      "rank": 34,
+      "category": "音乐,音乐"
+    },
+    {
       "raw_hot": 245339,
       "num": 245339,
       "word": "常温常压超导首被证明理论可行",
@@ -7913,6 +7969,14 @@
       "onboard_time": 1691070758,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239586,
+      "num": 239586,
+      "word": "丝芭家族十周年演唱会节目单",
+      "onboard_time": 1691118995,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 239098,
@@ -8083,14 +8147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 233643,
-      "num": 233643,
-      "word": "e人和i人聊天的区别",
-      "onboard_time": 1691116357,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 232406,
       "num": 232406,
       "word": "一毛钱的小串36年没涨过价",
@@ -8113,6 +8169,14 @@
       "onboard_time": 1690812099,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231874,
+      "num": 231874,
+      "word": "明天见",
+      "onboard_time": 1691116894,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 231232,
@@ -8611,6 +8675,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 209804,
+      "num": 309348,
+      "word": "谢永强妈是我的周五发言人",
+      "onboard_time": 1691115873,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209134,
       "num": 209134,
       "word": "山东人做面食是有点厉害",
@@ -8715,6 +8787,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 207488,
+      "num": 207488,
+      "word": "哪款游戏让你坚持了十年",
+      "onboard_time": 1691118874,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206972,
       "num": 206972,
       "word": "80后外卖员自学乐器3年上20次综艺",
@@ -8777,14 +8857,6 @@
       "onboard_time": 1691057019,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205204,
-      "num": 309348,
-      "word": "谢永强妈是我的周五发言人",
-      "onboard_time": 1691115873,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 205021,
@@ -9353,14 +9425,6 @@
       "onboard_time": 1690885594,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189259,
-      "num": 189259,
-      "word": "邓为于适此沙都有鼻尖痣",
-      "onboard_time": 1691116716,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 189256,
@@ -9971,6 +10035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152344,
+      "num": 152344,
+      "word": "涿州大姐向救援队车里狂塞水果",
+      "onboard_time": 1691117676,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150786,
       "num": 150786,
       "word": "给雪糕明码标价的便利店",
@@ -10153,6 +10225,14 @@
       "onboard_time": 1691017281,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131938,
+      "num": 148311,
+      "word": "博德之门3人物创建手册",
+      "onboard_time": 1691117556,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 130306,
@@ -10520,6 +10600,14 @@
       "word": "暴雨洪涝后如何做好个人健康防护",
       "onboard_time": 1690965873,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91659,
+      "num": 149962,
+      "word": "永远支持中国女足",
+      "onboard_time": 1691118756,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
