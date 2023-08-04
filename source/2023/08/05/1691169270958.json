@@ -1,0 +1,410 @@
+{
+  "runTime": 1691169270958,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1777272,
+        "num": 1777272,
+        "word": "羽生结弦宣布结婚",
+        "onboard_time": 1691159319,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1282325,
+        "num": 1282325,
+        "word": "羽生结弦老婆",
+        "onboard_time": 1691161436,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 63119,
+        "num": 692808,
+        "word": "断崖旁消防员用身躯做人墙保护孩子",
+        "onboard_time": 1691159079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600447,
+        "num": 600447,
+        "word": "张踩铃婆婆",
+        "onboard_time": 1691162633,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597018,
+        "num": 597018,
+        "word": "日语入籍是结婚的意思",
+        "onboard_time": 1691161378,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 538173,
+        "num": 538173,
+        "word": "张晚意好会演",
+        "onboard_time": 1691164065,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523331,
+        "num": 523331,
+        "word": "门头沟女干部熊丽在勘察险情途中牺牲",
+        "onboard_time": 1691163769,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453198,
+        "num": 453198,
+        "word": "韩国人就差身份证上写mbti了",
+        "onboard_time": 1691155658,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360866,
+        "num": 360866,
+        "word": "柚子什么时候谈的恋爱",
+        "onboard_time": 1691162092,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 356239,
+        "num": 356239,
+        "word": "我朋友失恋了",
+        "onboard_time": 1691163046,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1246505,
+        "num": 356195,
+        "word": "西安警方通报奥体中心体育场歌迷打架",
+        "onboard_time": 1691160600,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 679350,
+        "num": 356175,
+        "word": "TFBOYS染了同一发色",
+        "onboard_time": 1691145875,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 356114,
+        "num": 356114,
+        "word": "公司故意不捧人气成员的现象很常见吗",
+        "onboard_time": 1691160894,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344005,
+        "num": 344005,
+        "word": "马天宇被小姐姐要加微信",
+        "onboard_time": 1691155658,
+        "rank": 13,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 323154,
+        "num": 323154,
+        "word": "黑龙江尚志九江村整村失联",
+        "onboard_time": 1691161675,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305254,
+        "num": 305254,
+        "word": "终于等到长相思电动车名场面",
+        "onboard_time": 1691157163,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299136,
+        "num": 299136,
+        "word": "B站崩了",
+        "onboard_time": 1691155176,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260456,
+        "num": 260456,
+        "word": "韩国首尔接连出现杀人预告",
+        "onboard_time": 1691129914,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222515,
+        "num": 222515,
+        "word": "冰上王子找到了他的公主",
+        "onboard_time": 1691162334,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 202545,
+        "num": 222514,
+        "word": "黑龙江已有4条江河发生洪水",
+        "onboard_time": 1691156019,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347772,
+        "num": 222514,
+        "word": "公公51岁还在治愈自己的童年",
+        "onboard_time": 1691163526,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346390,
+        "num": 222513,
+        "word": "老人小便失禁地铁小姐姐让她靠怀里",
+        "onboard_time": 1691153974,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229150,
+        "num": 222511,
+        "word": "鹿晗也要追异人之下",
+        "onboard_time": 1691165436,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225729,
+        "num": 222509,
+        "word": "原来真的有人是能够快乐的",
+        "onboard_time": 1691160840,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 222509,
+        "num": 222508,
+        "word": "涂山璟赤水丰隆救了玱玹一命",
+        "onboard_time": 1691160655,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213019,
+        "num": 213019,
+        "word": "这真的不是向佐吗",
+        "onboard_time": 1691149593,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211155,
+        "num": 211155,
+        "word": "TFBOYS方严禁场馆周边占位应援",
+        "onboard_time": 1691154159,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205733,
+        "num": 205733,
+        "word": "Angelababy穿比基尼跳海",
+        "onboard_time": 1691141735,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 204982,
+        "num": 204982,
+        "word": "马杨马君妍新疆爱情故事",
+        "onboard_time": 1691160655,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192860,
+        "num": 192860,
+        "word": "中国好声音赶着下班啊",
+        "onboard_time": 1691154395,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190072,
+        "num": 190072,
+        "word": "再看这种文案都不是感动了",
+        "onboard_time": 1691164840,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 185577,
+        "num": 185577,
+        "word": "在公司加班被狗狗救了一命",
+        "onboard_time": 1691159997,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178770,
+        "num": 178770,
+        "word": "曾毅说TFBOYS是凤凰传奇的晚辈",
+        "onboard_time": 1691156982,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177594,
+        "num": 177594,
+        "word": "轿车从天而降电动车主被撞身亡",
+        "onboard_time": 1691158001,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170160,
+        "num": 170160,
+        "word": "长相思第二季共21集",
+        "onboard_time": 1691145691,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167575,
+        "num": 167575,
+        "word": "84消独夜",
+        "onboard_time": 1691164306,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153375,
+        "num": 153375,
+        "word": "研究称孕期吃苹果能保护孙辈大脑",
+        "onboard_time": 1691154097,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151833,
+        "num": 151833,
+        "word": "中国男篮",
+        "onboard_time": 1691168129,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150884,
+        "num": 150884,
+        "word": "封神票房",
+        "onboard_time": 1691145993,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146925,
+        "num": 146925,
+        "word": "易烊千玺新发色藏不住了",
+        "onboard_time": 1691139274,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143901,
+        "num": 143901,
+        "word": "文春不行啊",
+        "onboard_time": 1691163408,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 139132,
+        "num": 139132,
+        "word": "那英 专治恋爱脑",
+        "onboard_time": 1691155598,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138498,
+        "num": 138498,
+        "word": "孟子义 你得自己挺自己",
+        "onboard_time": 1691160418,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132132,
+        "num": 132132,
+        "word": "TFBOYS演唱会得票率约为0.07%",
+        "onboard_time": 1691147974,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130739,
+        "num": 130739,
+        "word": "赵丽颖向河北灾区捐赠物资",
+        "onboard_time": 1691149532,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129046,
+        "num": 129046,
+        "word": "阴天为什么要这么改",
+        "onboard_time": 1691162213,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125540,
+        "num": 125540,
+        "word": "防风邶转过杯子喝小夭喝过的地方",
+        "onboard_time": 1691156741,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111202,
+        "num": 111202,
+        "word": "李泰容",
+        "onboard_time": 1691160963,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107788,
+        "num": 107788,
+        "word": "莲花楼预告",
+        "onboard_time": 1691163110,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104158,
+        "num": 104158,
+        "word": "好声音咋改唱跳了",
+        "onboard_time": 1691157704,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#同舟共冀感谢有你#"
+    }
+  }
+}
