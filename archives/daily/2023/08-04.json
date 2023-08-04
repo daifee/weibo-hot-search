@@ -1,7 +1,15 @@
 {
   "startTime": 1691079780560,
-  "endTime": 1691158502429,
+  "endTime": 1691159620776,
   "band_list": [
+    {
+      "raw_hot": 3500291,
+      "num": 3500291,
+      "word": "羽生结弦宣布结婚",
+      "onboard_time": 1691159319,
+      "rank": 0,
+      "category": "体育,社会新闻"
+    },
     {
       "raw_hot": 3371722,
       "num": 3126986,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2590802,
-      "num": 734784,
+      "num": 832216,
       "word": "TFBOYS染了同一发色",
       "onboard_time": 1691145875,
       "rank": 10,
@@ -49,6 +57,14 @@
       "onboard_time": 1691155176,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2349974,
+      "num": 2349974,
+      "word": "韩国人就差身份证上写mbti了",
+      "onboard_time": 1691155658,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 2252270,
@@ -113,14 +129,6 @@
       "onboard_time": 1691141735,
       "rank": 12,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1642960,
-      "num": 1642960,
-      "word": "韩国人就差身份证上写mbti了",
-      "onboard_time": 1691155658,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 1607782,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1321901,
+      "num": 1321901,
+      "word": "终于等到长相思电动车名场面",
+      "onboard_time": 1691157163,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1312546,
       "num": 803324,
       "word": "彭昱畅自己争取全裸出镜",
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 1275941,
-      "num": 726646,
+      "num": 831977,
       "word": "马天宇被小姐姐要加微信",
       "onboard_time": 1691155658,
       "rank": 30,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 1270395,
-      "num": 718145,
+      "num": 829424,
       "word": "TFBOYS方严禁场馆周边占位应援",
       "onboard_time": 1691154159,
       "rank": 22,
@@ -475,6 +491,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 855887,
+      "num": 855887,
+      "word": "那英 专治恋爱脑",
+      "onboard_time": 1691155598,
+      "rank": 17,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 838237,
       "num": 603729,
       "word": "迪丽热巴给自己画腮红",
@@ -483,8 +507,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 826166,
-      "num": 826166,
+      "raw_hot": 832837,
+      "num": 832837,
+      "word": "黑龙江已有4条江河发生洪水",
+      "onboard_time": 1691156019,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826806,
+      "num": 826806,
       "word": "黑龙江暴雨",
       "onboard_time": 1691151633,
       "rank": 43,
@@ -499,16 +531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 812603,
-      "num": 812603,
-      "word": "那英 专治恋爱脑",
-      "onboard_time": 1691155598,
-      "rank": 17,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 809153,
-      "num": 392740,
+      "num": 426732,
       "word": "魏大勋李现工作室出图",
       "onboard_time": 1691152774,
       "rank": 21,
@@ -521,14 +545,6 @@
       "onboard_time": 1691145274,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 780654,
-      "num": 780654,
-      "word": "终于等到长相思电动车名场面",
-      "onboard_time": 1691157163,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 777320,
@@ -572,18 +588,10 @@
     },
     {
       "raw_hot": 739957,
-      "num": 396572,
+      "num": 449135,
       "word": "研究称孕期吃苹果能保护孙辈大脑",
       "onboard_time": 1691154097,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 738471,
-      "num": 738471,
-      "word": "黑龙江已有4条江河发生洪水",
-      "onboard_time": 1691156019,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 734228,
-      "num": 394848,
+      "num": 447673,
       "word": "老人小便失禁地铁小姐姐让她靠怀里",
       "onboard_time": 1691153974,
       "rank": 23,
@@ -715,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 646309,
+      "num": 646309,
+      "word": "好声音咋改唱跳了",
+      "onboard_time": 1691157704,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 631109,
       "num": 508006,
       "word": "终于有TFBOYS十周年实感了",
@@ -769,14 +785,6 @@
       "onboard_time": 1691119597,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 603863,
-      "num": 603863,
-      "word": "好声音咋改唱跳了",
-      "onboard_time": 1691157704,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 591396,
@@ -963,6 +971,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 523375,
+      "num": 446808,
+      "word": "轿车从天而降电动车主被撞身亡",
+      "onboard_time": 1691158001,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522331,
       "num": 506409,
       "word": "相柳还是进入了小夭的梦里",
@@ -1147,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445187,
+      "num": 445187,
+      "word": "防风邶转过杯子喝小夭喝过的地方",
+      "onboard_time": 1691156741,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 441514,
       "num": 441514,
       "word": "巨齿鲨",
@@ -1323,11 +1347,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 389979,
-      "num": 389979,
-      "word": "防风邶转过杯子喝小夭喝过的地方",
-      "onboard_time": 1691156741,
-      "rank": 26,
+      "raw_hot": 390602,
+      "num": 310655,
+      "word": "莲花楼",
+      "onboard_time": 1691158603,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1425,14 +1449,6 @@
       "onboard_time": 1691119476,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357672,
-      "num": 357672,
-      "word": "轿车从天而降电动车主被撞身亡",
-      "onboard_time": 1691158001,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355981,
@@ -1571,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323056,
+      "num": 305685,
+      "word": "长相思小夭王姬归来幕后花絮",
+      "onboard_time": 1691156260,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319582,
       "num": 319582,
       "word": "张碧晨广州演唱会抢票",
@@ -1643,14 +1667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305490,
-      "num": 230967,
-      "word": "长相思小夭王姬归来幕后花絮",
-      "onboard_time": 1691156260,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 304351,
       "num": 198596,
       "word": "第一眼就喜欢的人",
@@ -1705,6 +1721,14 @@
       "onboard_time": 1691156019,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 289570,
+      "num": 289570,
+      "word": "成都蓉城",
+      "onboard_time": 1691158480,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 287767,
@@ -2075,20 +2099,20 @@
       "category": "影视,影视"
     },
     {
-      "raw_hot": 212569,
-      "num": 212569,
-      "word": "成都蓉城",
-      "onboard_time": 1691158480,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210656,
       "num": 210656,
       "word": "卡努登陆我国可能性逐渐减小",
       "onboard_time": 1691101157,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210435,
+      "num": 203082,
+      "word": "魏大勋欧莱雅直播",
+      "onboard_time": 1691159202,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 210110,
@@ -2259,6 +2283,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 196342,
+      "num": 196342,
+      "word": "欧钰珊",
+      "onboard_time": 1691159319,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195729,
       "num": 195729,
       "word": "封神",
@@ -2289,6 +2321,14 @@
       "onboard_time": 1691111320,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194871,
+      "num": 194871,
+      "word": "舞台2023四公最期待主题歌单",
+      "onboard_time": 1691159319,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 194713,
@@ -2345,6 +2385,14 @@
       "onboard_time": 1691146413,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191756,
+      "num": 194981,
+      "word": "欧钰珊大运会全能摘金",
+      "onboard_time": 1691159261,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 191009,
@@ -2635,6 +2683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137004,
+      "num": 216696,
+      "word": "淘宝推出涿州图书专场",
+      "onboard_time": 1691157640,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135548,
       "num": 141411,
       "word": "惜花芷",
@@ -2649,14 +2705,6 @@
       "onboard_time": 1691142633,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133086,
-      "num": 216696,
-      "word": "淘宝推出涿州图书专场",
-      "onboard_time": 1691157640,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131938,
@@ -2881,6 +2929,14 @@
       "onboard_time": 1691052455,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 41038,
+      "num": 1730459,
+      "word": "断崖旁消防员用身躯做人墙保护孩子",
+      "onboard_time": 1691159079,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35367,

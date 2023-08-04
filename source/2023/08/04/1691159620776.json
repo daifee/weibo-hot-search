@@ -1,0 +1,410 @@
+{
+  "runTime": 1691159620776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3500291,
+        "num": 3500291,
+        "word": "羽生结弦宣布结婚",
+        "onboard_time": 1691159319,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 2349974,
+        "num": 2349974,
+        "word": "韩国人就差身份证上写mbti了",
+        "onboard_time": 1691155658,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41038,
+        "num": 1730459,
+        "word": "断崖旁消防员用身躯做人墙保护孩子",
+        "onboard_time": 1691159079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1330779,
+        "num": 1330779,
+        "word": "B站崩了",
+        "onboard_time": 1691155176,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1321901,
+        "num": 1321901,
+        "word": "终于等到长相思电动车名场面",
+        "onboard_time": 1691157163,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1032420,
+        "num": 1032420,
+        "word": "这真的不是向佐吗",
+        "onboard_time": 1691149593,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 919133,
+        "num": 919133,
+        "word": "中国好声音赶着下班啊",
+        "onboard_time": 1691154395,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 855887,
+        "num": 855887,
+        "word": "那英 专治恋爱脑",
+        "onboard_time": 1691155598,
+        "rank": 7,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 850440,
+        "num": 850440,
+        "word": "曾毅说TFBOYS是凤凰传奇的晚辈",
+        "onboard_time": 1691156982,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 832837,
+        "num": 832837,
+        "word": "黑龙江已有4条江河发生洪水",
+        "onboard_time": 1691156019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1585772,
+        "num": 832216,
+        "word": "TFBOYS染了同一发色",
+        "onboard_time": 1691145875,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1274939,
+        "num": 831977,
+        "word": "马天宇被小姐姐要加微信",
+        "onboard_time": 1691155658,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1023290,
+        "num": 829424,
+        "word": "TFBOYS方严禁场馆周边占位应援",
+        "onboard_time": 1691154159,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 826806,
+        "num": 826806,
+        "word": "黑龙江暴雨",
+        "onboard_time": 1691151633,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756941,
+        "num": 756941,
+        "word": "韩国首尔接连出现杀人预告",
+        "onboard_time": 1691129914,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646309,
+        "num": 646309,
+        "word": "好声音咋改唱跳了",
+        "onboard_time": 1691157704,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633332,
+        "num": 633332,
+        "word": "丁程鑫教迪丽热巴龚俊刘宇宁跳舞",
+        "onboard_time": 1691157038,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531272,
+        "num": 531272,
+        "word": "Angelababy穿比基尼跳海",
+        "onboard_time": 1691141735,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 508565,
+        "num": 508565,
+        "word": "长相思第二季共21集",
+        "onboard_time": 1691145691,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451045,
+        "num": 451045,
+        "word": "吴艳妮",
+        "onboard_time": 1691153495,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 686412,
+        "num": 449135,
+        "word": "研究称孕期吃苹果能保护孙辈大脑",
+        "onboard_time": 1691154097,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677043,
+        "num": 447673,
+        "word": "老人小便失禁地铁小姐姐让她靠怀里",
+        "onboard_time": 1691153974,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523375,
+        "num": 446808,
+        "word": "轿车从天而降电动车主被撞身亡",
+        "onboard_time": 1691158001,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445187,
+        "num": 445187,
+        "word": "防风邶转过杯子喝小夭喝过的地方",
+        "onboard_time": 1691156741,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426732,
+        "num": 426732,
+        "word": "魏大勋李现工作室出图",
+        "onboard_time": 1691152774,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 420973,
+        "num": 420973,
+        "word": "山东1万个大馒头驰援河北",
+        "onboard_time": 1691144314,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 415765,
+        "num": 415765,
+        "word": "大奉打更人",
+        "onboard_time": 1691151633,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411760,
+        "num": 411760,
+        "word": "邓为早期照片",
+        "onboard_time": 1691151273,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395278,
+        "num": 395278,
+        "word": "赵丽颖向河北灾区捐赠物资",
+        "onboard_time": 1691149532,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313131,
+        "num": 313131,
+        "word": "华为",
+        "onboard_time": 1691153315,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 390602,
+        "num": 310655,
+        "word": "莲花楼",
+        "onboard_time": 1691158603,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339919,
+        "num": 306843,
+        "word": "封神票房",
+        "onboard_time": 1691145993,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323056,
+        "num": 305685,
+        "word": "长相思小夭王姬归来幕后花絮",
+        "onboard_time": 1691156260,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302593,
+        "num": 302593,
+        "word": "易烊千玺新发色藏不住了",
+        "onboard_time": 1691139274,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289570,
+        "num": 289570,
+        "word": "成都蓉城",
+        "onboard_time": 1691158480,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276714,
+        "num": 276714,
+        "word": "魏大勋开小差被发现了",
+        "onboard_time": 1691152715,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248885,
+        "num": 248885,
+        "word": "淄博大哥带4车物资送往涿州",
+        "onboard_time": 1691146413,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 245743,
+        "num": 245743,
+        "word": "石家庄暴雨",
+        "onboard_time": 1691145274,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207831,
+        "num": 207831,
+        "word": "Xiaohu阿水杀疯了",
+        "onboard_time": 1691146114,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137004,
+        "num": 207502,
+        "word": "淘宝推出涿州图书专场",
+        "onboard_time": 1691157640,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246845,
+        "num": 206838,
+        "word": "这是谁的防风邶",
+        "onboard_time": 1691153796,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213881,
+        "num": 205668,
+        "word": "王鹤棣苏感",
+        "onboard_time": 1691154276,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211702,
+        "num": 204556,
+        "word": "TFBOYS演唱会得票率约为0.07%",
+        "onboard_time": 1691147974,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210492,
+        "num": 204274,
+        "word": "HypeBoy初舞台一周年",
+        "onboard_time": 1691156019,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210435,
+        "num": 203082,
+        "word": "魏大勋欧莱雅直播",
+        "onboard_time": 1691159202,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202544,
+        "num": 202544,
+        "word": "三伏天用上了30年前的空调",
+        "onboard_time": 1691150372,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196342,
+        "num": 196342,
+        "word": "欧钰珊",
+        "onboard_time": 1691159319,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26640,
+        "num": 195118,
+        "word": "原神枫丹音乐live",
+        "onboard_time": 1691157401,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191756,
+        "num": 194981,
+        "word": "欧钰珊大运会全能摘金",
+        "onboard_time": 1691159261,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194871,
+        "num": 194871,
+        "word": "舞台2023四公最期待主题歌单",
+        "onboard_time": 1691159319,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#同舟共冀感谢有你#"
+    }
+  }
+}
