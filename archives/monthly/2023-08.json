@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691153312974,
+  "endTime": 1691155180709,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1250017,
+      "num": 1250017,
+      "word": "大奉打更人",
+      "onboard_time": 1691151633,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1243213,
       "num": 1243213,
       "word": "杨紫张晚意水榭楼台芭莎大片",
@@ -953,14 +961,6 @@
       "onboard_time": 1690963955,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1224415,
-      "num": 1224415,
-      "word": "大奉打更人",
-      "onboard_time": 1691151633,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1214974,
@@ -1611,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 911722,
+      "num": 911722,
+      "word": "吴艳妮",
+      "onboard_time": 1691153495,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 906671,
       "num": 906671,
       "word": "小夭才是真疯批",
@@ -1864,6 +1872,14 @@
       "word": "张新成邓为是同学",
       "onboard_time": 1690974453,
       "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 809153,
+      "num": 384272,
+      "word": "魏大勋李现工作室出图",
+      "onboard_time": 1691152774,
+      "rank": 21,
       "category": "作品衍生"
     },
     {
@@ -2161,6 +2177,14 @@
       "onboard_time": 1690868315,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 747068,
+      "num": 747068,
+      "word": "黑龙江暴雨",
+      "onboard_time": 1691151633,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 746012,
@@ -2547,6 +2571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 672407,
+      "num": 672407,
+      "word": "华为",
+      "onboard_time": 1691153315,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 670736,
       "num": 535490,
       "word": "刘浩存于适早期合影",
@@ -2851,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614300,
+      "num": 383921,
+      "word": "中国好声音赶着下班啊",
+      "onboard_time": 1691154395,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614149,
       "num": 614149,
       "word": "ON泪洒赛场",
@@ -3059,14 +3099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 589755,
-      "num": 589755,
-      "word": "黑龙江暴雨",
-      "onboard_time": 1691151633,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 589582,
       "num": 589582,
       "word": "伍佰广州",
@@ -3155,6 +3187,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 575974,
+      "num": 575974,
+      "word": "魏大勋开小差被发现了",
+      "onboard_time": 1691152715,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 575775,
       "num": 575775,
       "word": "一人之下",
@@ -3177,6 +3217,14 @@
       "onboard_time": 1691063854,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 573225,
+      "num": 366267,
+      "word": "研究称孕期吃苹果能保护孙辈大脑",
+      "onboard_time": 1691154097,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572414,
@@ -3971,6 +4019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478833,
+      "num": 365055,
+      "word": "TFBOYS方严禁场馆周边占位应援",
+      "onboard_time": 1691154159,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478826,
       "num": 478826,
       "word": "全红婵陈芋汐又断层夺冠了",
@@ -4667,6 +4723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 413126,
+      "num": 364596,
+      "word": "老人小便失禁地铁小姐姐让她靠怀里",
+      "onboard_time": 1691153974,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412002,
       "num": 412002,
       "word": "莲花楼直播",
@@ -4939,6 +5003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389281,
+      "num": 362542,
+      "word": "原神喜茶再联动",
+      "onboard_time": 1691154276,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 388369,
       "num": 353403,
       "word": "不用精修的明星",
@@ -4961,6 +5033,14 @@
       "onboard_time": 1690958432,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386160,
+      "num": 386160,
+      "word": "吴艳妮女子百米栏摘银",
+      "onboard_time": 1691153736,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 386034,
@@ -4993,14 +5073,6 @@
       "onboard_time": 1691115634,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 384130,
-      "num": 384130,
-      "word": "魏大勋李现工作室出图",
-      "onboard_time": 1691152774,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 383708,
@@ -5193,6 +5265,14 @@
       "onboard_time": 1690853734,
       "rank": 36,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 361353,
+      "num": 361353,
+      "word": "如果一个人周五脸上没笑容",
+      "onboard_time": 1691151933,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 360895,
@@ -5539,14 +5619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335541,
-      "num": 335541,
-      "word": "如果一个人周五脸上没笑容",
-      "onboard_time": 1691151933,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 334982,
       "num": 422289,
       "word": "牺牲消防员微信头像背景是国旗",
@@ -5617,6 +5689,14 @@
       "onboard_time": 1691032118,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328481,
+      "num": 328481,
+      "word": "这是谁的防风邶",
+      "onboard_time": 1691153796,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 327890,
@@ -5713,14 +5793,6 @@
       "onboard_time": 1691065533,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 320776,
-      "num": 320776,
-      "word": "魏大勋开小差被发现了",
-      "onboard_time": 1691152715,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 319582,
@@ -7235,6 +7307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237335,
+      "num": 237335,
+      "word": "王鹤棣苏感",
+      "onboard_time": 1691154276,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237175,
       "num": 237175,
       "word": "应急局回应涿州一地库塌陷洪水涌入",
@@ -8387,6 +8467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197025,
+      "num": 197025,
+      "word": "中餐厅",
+      "onboard_time": 1691154339,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196943,
       "num": 196943,
       "word": "现代人了解一个人的方式",
@@ -8497,6 +8585,14 @@
       "onboard_time": 1691044175,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193861,
+      "num": 193861,
+      "word": "中国好声音",
+      "onboard_time": 1691154999,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 193764,
@@ -9121,6 +9217,14 @@
       "onboard_time": 1690895434,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162307,
+      "num": 170675,
+      "word": "迹部景吾母亲登场",
+      "onboard_time": 1691155120,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 161787,
