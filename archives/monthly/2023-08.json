@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691141616494,
+  "endTime": 1691144239254,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1969226,
-      "num": 388258,
+      "num": 406985,
       "word": "易烊千玺新发色藏不住了",
       "onboard_time": 1691139274,
       "rank": 11,
@@ -579,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1548072,
+      "num": 389330,
+      "word": "Angelababy穿比基尼跳海",
+      "onboard_time": 1691141735,
+      "rank": 12,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1545773,
       "num": 1545773,
       "word": "中图网 遭遇25年来毁灭性打击",
@@ -721,6 +729,14 @@
       "onboard_time": 1691076939,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1381629,
+      "num": 376100,
+      "word": "王俊凯西安",
+      "onboard_time": 1691141135,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1380406,
@@ -1401,6 +1417,14 @@
       "onboard_time": 1690882352,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 941065,
+      "num": 375367,
+      "word": "黄子佼否认性侵指控",
+      "onboard_time": 1691142033,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 939886,
@@ -2299,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688267,
+      "num": 849348,
+      "word": "男大学生购买100包卫生巾支援涿州",
+      "onboard_time": 1691140295,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 687931,
       "num": 687931,
       "word": "辣椒不能封闭在矿泉水瓶里",
@@ -2507,14 +2539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 648424,
-      "num": 333292,
-      "word": "王俊凯西安",
-      "onboard_time": 1691141135,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 647832,
       "num": 647832,
       "word": "TF四代 北京",
@@ -2692,7 +2716,7 @@
     },
     {
       "raw_hot": 617108,
-      "num": 291472,
+      "num": 320061,
       "word": "韩素希手机壁纸",
       "onboard_time": 1691139573,
       "rank": 30,
@@ -3123,6 +3147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 560584,
+      "num": 560584,
+      "word": "檀健次和工作室都极爱相柳",
+      "onboard_time": 1691142695,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 558723,
       "num": 558723,
       "word": "收费站挨个发卡暴露应急能力不足问题",
@@ -3160,6 +3192,14 @@
       "word": "卡努向浙江至福建沿海靠近",
       "onboard_time": 1690935816,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557419,
+      "num": 631141,
+      "word": "大哥得知家乡被淹捐赠2大包卫生巾",
+      "onboard_time": 1691140172,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -4196,7 +4236,7 @@
     },
     {
       "raw_hot": 434053,
-      "num": 434053,
+      "num": 565871,
       "word": "整理父亲遗物发现两张一等功证书",
       "onboard_time": 1691132914,
       "rank": 38,
@@ -4291,14 +4331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 427011,
-      "num": 427011,
-      "word": "男大学生购买100包卫生巾支援涿州",
-      "onboard_time": 1691140295,
-      "rank": 34,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 425969,
       "num": 425969,
       "word": "此沙",
@@ -4361,6 +4393,14 @@
       "onboard_time": 1690855834,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419948,
+      "num": 419948,
+      "word": "巨齿鲨",
+      "onboard_time": 1691105248,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 419511,
@@ -4811,12 +4851,28 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 375431,
+      "num": 375431,
+      "word": "张博恒",
+      "onboard_time": 1691140772,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375246,
       "num": 375246,
       "word": "田柾国金珉奎跳了SEVEN",
       "onboard_time": 1690888292,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 375231,
+      "num": 375231,
+      "word": "披荆斩棘直播",
+      "onboard_time": 1691141856,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 372413,
@@ -5131,6 +5187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345490,
+      "num": 345490,
+      "word": "桥本大辉退赛",
+      "onboard_time": 1691140233,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345396,
       "num": 614716,
       "word": "退役军人10年献血27000毫升",
@@ -5313,14 +5377,6 @@
       "onboard_time": 1691032118,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330167,
-      "num": 330167,
-      "word": "桥本大辉退赛",
-      "onboard_time": 1691140233,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 327890,
@@ -6035,28 +6091,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 283207,
-      "num": 276476,
-      "word": "巨齿鲨",
-      "onboard_time": 1691105248,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 282982,
       "num": 282982,
       "word": "华北暴雨疯狂倾倒70多小时",
       "onboard_time": 1690933227,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282924,
-      "num": 282924,
-      "word": "张博恒",
-      "onboard_time": 1691140772,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 282655,
@@ -6235,14 +6275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272405,
-      "num": 272405,
-      "word": "大哥得知家乡被淹捐赠2大包卫生巾",
-      "onboard_time": 1691140172,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272172,
       "num": 272172,
       "word": "哪款游戏让你坚持了十年",
@@ -6409,6 +6441,14 @@
       "onboard_time": 1690890993,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262030,
+      "num": 262030,
+      "word": "蔚来手机在工信部完成入网",
+      "onboard_time": 1691141194,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 261732,
@@ -7379,6 +7419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215590,
+      "num": 215590,
+      "word": "把音乐分享到朋友圈的原因",
+      "onboard_time": 1691139935,
+      "rank": 28,
+      "category": "情感,音乐"
+    },
+    {
       "raw_hot": 215555,
       "num": 215555,
       "word": "周迅最稳的语气说最狠的台词",
@@ -7832,6 +7880,14 @@
       "word": "小哥洪水中开铲车救援三人",
       "onboard_time": 1690858897,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200498,
+      "num": 200498,
+      "word": "涿州市民送别救援队员往车里塞吃的",
+      "onboard_time": 1691141615,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -8299,6 +8355,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 186319,
+      "num": 186319,
+      "word": "CD26",
+      "onboard_time": 1691143895,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 185955,
       "num": 185955,
       "word": "英格兰身体素质",
@@ -8427,6 +8491,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 178880,
+      "num": 178880,
+      "word": "到底是谁发明的餐具费",
+      "onboard_time": 1691143954,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178723,
       "num": 363005,
       "word": "鸿蒙4将接入AI大模型",
@@ -8513,6 +8585,14 @@
       "onboard_time": 1691040757,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 171088,
+      "num": 171088,
+      "word": "妈妈控制欲强有多难以接受",
+      "onboard_time": 1691142513,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 171002,
@@ -8667,20 +8747,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162765,
-      "num": 162765,
-      "word": "蔚来手机在工信部完成入网",
-      "onboard_time": 1691141194,
-      "rank": 46,
-      "category": "科技"
-    },
-    {
       "raw_hot": 162705,
       "num": 1594262,
       "word": "致敬那些暴雨中的逆行者",
       "onboard_time": 1690895434,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161872,
+      "num": 161872,
+      "word": "XG新歌",
+      "onboard_time": 1691144133,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 161787,
@@ -8851,6 +8931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142596,
+      "num": 161864,
+      "word": "开始怀念刚上大学时的自己",
+      "onboard_time": 1691144012,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142497,
       "num": 142497,
       "word": "小夭一直见的都是相柳真容",
@@ -8937,6 +9025,14 @@
       "onboard_time": 1690812099,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134149,
+      "num": 161829,
+      "word": "看完热烈的人belike",
+      "onboard_time": 1691142633,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 134124,
