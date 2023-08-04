@@ -1,6 +1,6 @@
 {
   "startTime": 1691079780560,
-  "endTime": 1691127232380,
+  "endTime": 1691130086541,
   "band_list": [
     {
       "raw_hot": 3252167,
@@ -49,6 +49,14 @@
       "onboard_time": 1691108616,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1875295,
+      "num": 1875295,
+      "word": "大麦",
+      "onboard_time": 1691121459,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1856624,
@@ -105,14 +113,6 @@
       "onboard_time": 1691122477,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1445600,
-      "num": 1445600,
-      "word": "大麦",
-      "onboard_time": 1691121459,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1386173,
@@ -243,6 +243,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 973953,
+      "num": 973953,
+      "word": "杨紫回应朋友圈杨紫",
+      "onboard_time": 1691128233,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 949473,
       "num": 927830,
       "word": "六岁相柳怒扔奶瓶",
@@ -265,6 +273,14 @@
       "onboard_time": 1691120135,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 854699,
+      "num": 854699,
+      "word": "蒋依依敖子逸",
+      "onboard_time": 1691122780,
+      "rank": 21,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 838237,
@@ -299,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 734655,
+      "num": 734655,
+      "word": "追星界王宝钏",
+      "onboard_time": 1691128055,
+      "rank": 7,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 700890,
       "num": 700890,
       "word": "不要轻易介入他人的因果",
@@ -313,14 +337,6 @@
       "onboard_time": 1691074539,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 651240,
-      "num": 651240,
-      "word": "蒋依依敖子逸",
-      "onboard_time": 1691122780,
-      "rank": 21,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 647117,
@@ -361,6 +377,14 @@
       "onboard_time": 1691115516,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587820,
+      "num": 333669,
+      "word": "刘昊然被导演彭昱畅忽悠",
+      "onboard_time": 1691126615,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 582195,
@@ -435,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 537737,
+      "num": 307037,
+      "word": "茶百道捐1000万元驰援京冀洪水救援",
+      "onboard_time": 1691128474,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534733,
       "num": 353551,
       "word": "明天你好星期六有迪丽热巴",
@@ -473,6 +505,14 @@
       "onboard_time": 1691107052,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 493043,
+      "num": 321910,
+      "word": "存了一年的东方青苍剪辑",
+      "onboard_time": 1691126915,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 489692,
@@ -521,6 +561,14 @@
       "onboard_time": 1691122060,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 451999,
+      "num": 306972,
+      "word": "TFBOYS演唱会结束后会换头像吗",
+      "onboard_time": 1691127755,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 448433,
@@ -723,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347155,
+      "num": 306768,
+      "word": "杨洋南都娱乐封面",
+      "onboard_time": 1691129018,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 343377,
       "num": 343377,
       "word": "吴宣仪采访一看就没谈恋爱",
@@ -755,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334982,
+      "num": 422289,
+      "word": "牺牲消防员微信头像背景是国旗",
+      "onboard_time": 1691126674,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332157,
       "num": 332157,
       "word": "洪水",
@@ -769,14 +833,6 @@
       "onboard_time": 1691112336,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 324814,
-      "num": 324814,
-      "word": "刘昊然被导演彭昱畅忽悠",
-      "onboard_time": 1691126615,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 323273,
@@ -851,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293930,
+      "num": 293930,
+      "word": "异人之下宝儿姐还原度",
+      "onboard_time": 1691127994,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287767,
       "num": 287767,
       "word": "台风卡努被卡住了",
@@ -899,14 +963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274821,
-      "num": 237475,
-      "word": "存了一年的东方青苍剪辑",
-      "onboard_time": 1691126915,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 274744,
       "num": 197212,
       "word": "投影仪卖不出去了",
@@ -939,20 +995,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 270372,
-      "num": 422289,
-      "word": "牺牲消防员微信头像背景是国旗",
-      "onboard_time": 1691126674,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268866,
       "num": 233478,
       "word": "明天见",
       "onboard_time": 1691116894,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267102,
+      "num": 306822,
+      "word": "00后小伙开公司上4休3还有寒暑假",
+      "onboard_time": 1691128172,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259223,
@@ -1019,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241327,
+      "num": 241327,
+      "word": "TFBOYS实体专辑",
+      "onboard_time": 1691129795,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 239586,
       "num": 239586,
       "word": "丝芭家族十周年演唱会节目单",
@@ -1041,6 +1105,22 @@
       "onboard_time": 1691112159,
       "rank": 34,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 232564,
+      "num": 241793,
+      "word": "韩国首尔接连出现杀人预告",
+      "onboard_time": 1691129914,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229888,
+      "num": 305105,
+      "word": "公安检举物业违法的公告被物业撕了",
+      "onboard_time": 1691126076,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229806,
@@ -1195,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194337,
+      "num": 194337,
+      "word": "张云雷杨九郎十周年专场演出",
+      "onboard_time": 1691129735,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192610,
       "num": 192610,
       "word": "我才不会在男人身上自讨苦吃",
@@ -1233,14 +1321,6 @@
       "onboard_time": 1691104825,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188511,
-      "num": 188511,
-      "word": "公安检举物业违法的公告被物业撕了",
-      "onboard_time": 1691126076,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184547,
@@ -1307,6 +1387,14 @@
       "category": "幽默,科技"
     },
     {
+      "raw_hot": 160487,
+      "num": 160487,
+      "word": "官方回应黑龙江尚志降雨引发洪水",
+      "onboard_time": 1691129855,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158199,
       "num": 136737,
       "word": "陈卓璇诀爱舞台",
@@ -1347,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146331,
+      "num": 1347412,
+      "word": "武警出动全地形车搜救受灾群众",
+      "onboard_time": 1691124279,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144928,
       "num": 144928,
       "word": "男子潜入洪水10次为救援艇开门",
@@ -1385,14 +1481,6 @@
       "onboard_time": 1691070275,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134293,
-      "num": 1347412,
-      "word": "武警出动全地形车搜救受灾群众",
-      "onboard_time": 1691124279,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133620,
