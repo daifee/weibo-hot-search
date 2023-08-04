@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691174024835,
+  "endTime": 1691176391966,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -443,8 +443,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96418,
-      "num": 96418,
+      "raw_hot": 100457,
+      "num": 100457,
       "word": "檀健次说相柳不需要续集",
       "onboard_time": 1691172440,
       "rank": 32,
@@ -467,7 +467,15 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 8258,
+      "raw_hot": 31659,
+      "num": 31659,
+      "word": "封神是懂选角的",
+      "onboard_time": 1691174957,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 11556,
       "num": 284302,
       "word": "英雄就是我们身边的平凡人",
       "onboard_time": 1691159021,
