@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691116265618,
+  "endTime": 1691116847718,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -867,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1422808,
+      "num": 1422808,
+      "word": "BLACKPINK与YG续约合约金约15亿韩元",
+      "onboard_time": 1691113417,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1405033,
       "num": 1405033,
       "word": "被不卫生的水泡过的饮料不要喝",
@@ -889,14 +897,6 @@
       "onboard_time": 1690855955,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1392029,
-      "num": 1392029,
-      "word": "BLACKPINK与YG续约合约金约15亿韩元",
-      "onboard_time": 1691113417,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 1386225,
@@ -1275,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1133353,
+      "num": 1133353,
+      "word": "现在的黄晓明真的活得比谁都清醒",
+      "onboard_time": 1691115337,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1125332,
       "num": 1125332,
       "word": "河北强降雨已致9人遇难6人失联",
@@ -1491,6 +1499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1030286,
+      "num": 1030286,
+      "word": "发改委发布会",
+      "onboard_time": 1691115098,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1025619,
       "num": 1025619,
       "word": "原来50岁还要被催婚",
@@ -1505,14 +1521,6 @@
       "onboard_time": 1690842137,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1022192,
-      "num": 1022192,
-      "word": "发改委发布会",
-      "onboard_time": 1691115098,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1019315,
@@ -1779,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 927830,
+      "num": 927830,
+      "word": "六岁相柳怒扔奶瓶",
+      "onboard_time": 1691113417,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 927742,
       "num": 927742,
       "word": "夭璟原著结局",
@@ -1961,14 +1977,6 @@
       "onboard_time": 1690895618,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 875151,
-      "num": 875151,
-      "word": "六岁相柳怒扔奶瓶",
-      "onboard_time": 1691113417,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 874169,
@@ -2331,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773755,
+      "num": 773755,
+      "word": "TFBOYS三人三字",
+      "onboard_time": 1691115755,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 772197,
       "num": 772197,
       "word": "感谢老天送我一个情绪稳定的女儿",
@@ -2457,6 +2473,14 @@
       "onboard_time": 1690880431,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751100,
+      "num": 359270,
+      "word": "被离职问老板尊嘟假嘟",
+      "onboard_time": 1691115634,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 750799,
@@ -3107,14 +3131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 629903,
-      "num": 483217,
-      "word": "现在的黄晓明真的活得比谁都清醒",
-      "onboard_time": 1691115337,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 629422,
       "num": 1281957,
       "word": "杭州种出78斤大西瓜破全省纪录",
@@ -3331,14 +3347,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 600695,
-      "num": 359270,
-      "word": "被离职问老板尊嘟假嘟",
-      "onboard_time": 1691115634,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 598485,
       "num": 598485,
       "word": "迪丽热巴帝梓元白发上线",
@@ -3521,6 +3529,14 @@
       "onboard_time": 1690799193,
       "rank": 33,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 575775,
+      "num": 575775,
+      "word": "一人之下",
+      "onboard_time": 1691115578,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 575032,
@@ -3876,7 +3892,7 @@
     },
     {
       "raw_hot": 539096,
-      "num": 529933,
+      "num": 597675,
       "word": "哥们你的腹肌怎么是Windows啊",
       "onboard_time": 1691111858,
       "rank": 39,
@@ -4707,14 +4723,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 447925,
-      "num": 447925,
-      "word": "TFBOYS三人三字",
-      "onboard_time": 1691115755,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 447878,
       "num": 328654,
       "word": "费翔 妈妈严选",
@@ -4897,14 +4905,6 @@
       "onboard_time": 1691055275,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 428613,
-      "num": 391566,
-      "word": "一人之下",
-      "onboard_time": 1691115578,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 428491,
@@ -5451,6 +5451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384818,
+      "num": 353977,
+      "word": "TFBOYS明天见一人一个字",
+      "onboard_time": 1691115634,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 383708,
       "num": 383708,
       "word": "封神男团早几年干嘛去了",
@@ -5545,6 +5553,14 @@
       "onboard_time": 1690888292,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 373495,
+      "num": 373495,
+      "word": "牡丹江洪水已形成",
+      "onboard_time": 1691113299,
+      "rank": 44,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 372413,
@@ -5673,14 +5689,6 @@
       "onboard_time": 1691048198,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 362150,
-      "num": 362150,
-      "word": "牡丹江洪水已形成",
-      "onboard_time": 1691113299,
-      "rank": 44,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 361492,
@@ -5815,14 +5823,6 @@
       "num": 354479,
       "word": "张艺兴北京",
       "onboard_time": 1690787075,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 353977,
-      "num": 353977,
-      "word": "TFBOYS明天见一人一个字",
-      "onboard_time": 1691115634,
       "rank": 27,
       "category": "音乐"
     },
@@ -6041,6 +6041,14 @@
       "onboard_time": 1690807172,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337408,
+      "num": 337408,
+      "word": "TFBOYS谢谢你借我光的那些年",
+      "onboard_time": 1691116295,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 336911,
@@ -7195,6 +7203,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 270982,
+      "num": 316528,
+      "word": "养猫人不适合穿破洞裤",
+      "onboard_time": 1691114498,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 270925,
       "num": 270925,
       "word": "爱豆小卡应该有更多功能",
@@ -7675,6 +7691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248080,
+      "num": 309883,
+      "word": "TFBOYS笑话永不过时",
+      "onboard_time": 1691115935,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247833,
       "num": 247833,
       "word": "成都串串店深夜坐满外国运动员",
@@ -8059,6 +8083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233643,
+      "num": 233643,
+      "word": "e人和i人聊天的区别",
+      "onboard_time": 1691116357,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232406,
       "num": 232406,
       "word": "一毛钱的小串36年没涨过价",
@@ -8185,14 +8217,6 @@
       "onboard_time": 1690938693,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226444,
-      "num": 316528,
-      "word": "养猫人不适合穿破洞裤",
-      "onboard_time": 1691114498,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 226148,
@@ -8705,14 +8729,6 @@
       "onboard_time": 1691112159,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 206786,
-      "num": 309883,
-      "word": "TFBOYS笑话永不过时",
-      "onboard_time": 1691115935,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 206757,
@@ -9337,6 +9353,14 @@
       "onboard_time": 1690885594,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189259,
+      "num": 189259,
+      "word": "邓为于适此沙都有鼻尖痣",
+      "onboard_time": 1691116716,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 189256,
