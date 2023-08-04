@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691183632645,
+  "endTime": 1691184827908,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -467,8 +467,8 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 47008,
-      "num": 38390,
+      "raw_hot": 72170,
+      "num": 42621,
       "word": "河北涿州灾区的明星捐款名单",
       "onboard_time": 1691181913,
       "rank": 21,
@@ -492,23 +492,23 @@
     },
     {
       "raw_hot": 25290,
-      "num": 31566,
+      "num": 33201,
       "word": "黑龙江尚志市暴雨",
       "onboard_time": 1691172440,
       "rank": 40,
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 20586,
-      "num": 31605,
+      "raw_hot": 23937,
+      "num": 33263,
       "word": "封神彩蛋",
       "onboard_time": 1691182874,
       "rank": 43,
       "category": "影视"
     },
     {
-      "raw_hot": 18141,
-      "num": 31547,
+      "raw_hot": 19737,
+      "num": 33147,
       "word": "有一种收纳法叫妈妈",
       "onboard_time": 1691177355,
       "rank": 48,
