@@ -1,0 +1,410 @@
+{
+  "runTime": 1691163240363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11156119,
+        "num": 11156119,
+        "word": "羽生结弦宣布结婚",
+        "onboard_time": 1691159319,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 4511617,
+        "num": 4511617,
+        "word": "羽生结弦老婆",
+        "onboard_time": 1691161436,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 183355,
+        "num": 1627319,
+        "word": "断崖旁消防员用身躯做人墙保护孩子",
+        "onboard_time": 1691159079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1616299,
+        "num": 1616299,
+        "word": "韩国人就差身份证上写mbti了",
+        "onboard_time": 1691155658,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1403472,
+        "num": 1403472,
+        "word": "日语入籍是结婚的意思",
+        "onboard_time": 1691161378,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1351546,
+        "num": 1351546,
+        "word": "柚子什么时候谈的恋爱",
+        "onboard_time": 1691162092,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1006774,
+        "num": 1006774,
+        "word": "终于等到长相思电动车名场面",
+        "onboard_time": 1691157163,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 904824,
+        "num": 904824,
+        "word": "公司故意不捧人气成员的现象很常见吗",
+        "onboard_time": 1691160894,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746034,
+        "num": 746034,
+        "word": "B站崩了",
+        "onboard_time": 1691155176,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 642199,
+        "num": 642199,
+        "word": "那英 专治恋爱脑",
+        "onboard_time": 1691155598,
+        "rank": 9,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1599627,
+        "num": 641053,
+        "word": "西安警方通报奥体中心体育场歌迷打架",
+        "onboard_time": 1691160600,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1360096,
+        "num": 638845,
+        "word": "TFBOYS染了同一发色",
+        "onboard_time": 1691145875,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 910747,
+        "num": 637168,
+        "word": "马天宇被小姐姐要加微信",
+        "onboard_time": 1691155658,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 628526,
+        "num": 628526,
+        "word": "马杨马君妍新疆爱情故事",
+        "onboard_time": 1691160655,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608549,
+        "num": 608549,
+        "word": "曾毅说TFBOYS是凤凰传奇的晚辈",
+        "onboard_time": 1691156982,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582028,
+        "num": 582028,
+        "word": "孟子义 你得自己挺自己",
+        "onboard_time": 1691160418,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563654,
+        "num": 563654,
+        "word": "李泰容",
+        "onboard_time": 1691160963,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518697,
+        "num": 518697,
+        "word": "这真的不是向佐吗",
+        "onboard_time": 1691149593,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 516153,
+        "num": 516153,
+        "word": "我朋友失恋了",
+        "onboard_time": 1691163046,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 379120,
+        "num": 515090,
+        "word": "黑龙江已有4条江河发生洪水",
+        "onboard_time": 1691156019,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728399,
+        "num": 514934,
+        "word": "老人小便失禁地铁小姐姐让她靠怀里",
+        "onboard_time": 1691153974,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587709,
+        "num": 514870,
+        "word": "涂山璟赤水丰隆救了玱玹一命",
+        "onboard_time": 1691160655,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514584,
+        "num": 514584,
+        "word": "冰上王子找到了他的公主",
+        "onboard_time": 1691162334,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 503978,
+        "num": 503978,
+        "word": "张踩玲婆婆",
+        "onboard_time": 1691162633,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 497982,
+        "num": 497982,
+        "word": "Angelababy穿比基尼跳海",
+        "onboard_time": 1691141735,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 495797,
+        "num": 495797,
+        "word": "韩国首尔接连出现杀人预告",
+        "onboard_time": 1691129914,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456354,
+        "num": 456354,
+        "word": "在公司加班被狗狗救了一命",
+        "onboard_time": 1691159997,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 455851,
+        "num": 455851,
+        "word": "中国好声音赶着下班啊",
+        "onboard_time": 1691154395,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432172,
+        "num": 432172,
+        "word": "轿车从天而降电动车主被撞身亡",
+        "onboard_time": 1691158001,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429558,
+        "num": 429558,
+        "word": "黑龙江尚志九江村整村失联",
+        "onboard_time": 1691161675,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528527,
+        "num": 427038,
+        "word": "张踩玲 真正的尊重和聆听很难",
+        "onboard_time": 1691161851,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403912,
+        "num": 403912,
+        "word": "阴天为什么要这么改",
+        "onboard_time": 1691162213,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376193,
+        "num": 376193,
+        "word": "TFBOYS方严禁场馆周边占位应援",
+        "onboard_time": 1691154159,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 360209,
+        "num": 360209,
+        "word": "丁程鑫教迪丽热巴龚俊刘宇宁跳舞",
+        "onboard_time": 1691157038,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359846,
+        "num": 359846,
+        "word": "邓为早期照片",
+        "onboard_time": 1691151273,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357535,
+        "num": 357535,
+        "word": "长相思第二季共21集",
+        "onboard_time": 1691145691,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338551,
+        "num": 338551,
+        "word": "原来真的有人是能够快乐的",
+        "onboard_time": 1691160840,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 323758,
+        "num": 323758,
+        "word": "好声音咋改唱跳了",
+        "onboard_time": 1691157704,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320535,
+        "num": 320535,
+        "word": "研究称孕期吃苹果能保护孙辈大脑",
+        "onboard_time": 1691154097,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317036,
+        "num": 317036,
+        "word": "7月全国因灾死亡失踪147人",
+        "onboard_time": 1691159871,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307319,
+        "num": 307319,
+        "word": "防风邶转过杯子喝小夭喝过的地方",
+        "onboard_time": 1691156741,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299703,
+        "num": 299703,
+        "word": "封神票房",
+        "onboard_time": 1691145993,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286719,
+        "num": 286719,
+        "word": "赵丽颖向河北灾区捐赠物资",
+        "onboard_time": 1691149532,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279274,
+        "num": 279274,
+        "word": "莲花楼",
+        "onboard_time": 1691158603,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268113,
+        "num": 268113,
+        "word": "成都蓉城",
+        "onboard_time": 1691158480,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263340,
+        "num": 263340,
+        "word": "易烊千玺新发色藏不住了",
+        "onboard_time": 1691139274,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213190,
+        "num": 213190,
+        "word": "山东1万个大馒头驰援河北",
+        "onboard_time": 1691144314,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 212814,
+        "num": 212814,
+        "word": "莲花楼预告",
+        "onboard_time": 1691163110,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181824,
+        "num": 181824,
+        "word": "山东商户连夜蒸1万个馒头运往河北",
+        "onboard_time": 1691161080,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174390,
+        "num": 174390,
+        "word": "石家庄暴雨",
+        "onboard_time": 1691145274,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同舟共冀感谢有你#"
+    }
+  }
+}
