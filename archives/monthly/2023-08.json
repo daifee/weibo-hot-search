@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691130847455,
+  "endTime": 1691133311368,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -49,6 +49,14 @@
       "onboard_time": 1691030738,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3126986,
+      "num": 3126986,
+      "word": "韩国首尔接连出现杀人预告",
+      "onboard_time": 1691129914,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3070623,
@@ -945,14 +953,6 @@
       "onboard_time": 1691123861,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1160634,
-      "num": 1160634,
-      "word": "韩国首尔接连出现杀人预告",
-      "onboard_time": 1691129914,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1156079,
@@ -2051,6 +2051,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 731906,
+      "num": 731906,
+      "word": "王源第一个到西安",
+      "onboard_time": 1691131597,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 730669,
       "num": 730669,
       "word": "卡努",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1690900481,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 714747,
+      "num": 714747,
+      "word": "茶百道捐1000万元驰援京冀洪水救援",
+      "onboard_time": 1691128474,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 713909,
@@ -2363,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658355,
+      "num": 336527,
+      "word": "QQ音乐",
+      "onboard_time": 1691131716,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 656366,
       "num": 656366,
       "word": "老干妈表层红油藏有游动微生物吗",
@@ -2465,14 +2489,6 @@
       "onboard_time": 1691065115,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 642537,
-      "num": 642537,
-      "word": "茶百道捐1000万元驰援京冀洪水救援",
-      "onboard_time": 1691128474,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638825,
@@ -2587,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 619138,
+      "num": 619138,
+      "word": "Uzi捐款50万元驰援涿州",
+      "onboard_time": 1691130394,
+      "rank": 33,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 618668,
       "num": 618668,
       "word": "还有3到4亿立方水要过境涿州",
@@ -2633,6 +2657,14 @@
       "onboard_time": 1690892073,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 607521,
+      "num": 607521,
+      "word": "TFBOYS实体专辑",
+      "onboard_time": 1691129795,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 607443,
@@ -2859,14 +2891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 582311,
-      "num": 582311,
-      "word": "TFBOYS实体专辑",
-      "onboard_time": 1691129795,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 582195,
       "num": 582195,
       "word": "养猫人不适合穿破洞裤",
@@ -2961,6 +2985,14 @@
       "onboard_time": 1690954718,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569737,
+      "num": 569737,
+      "word": "华为发布会",
+      "onboard_time": 1691130758,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 567992,
@@ -3476,7 +3508,7 @@
     },
     {
       "raw_hot": 493043,
-      "num": 321910,
+      "num": 341529,
       "word": "存了一年的东方青苍剪辑",
       "onboard_time": 1691126915,
       "rank": 36,
@@ -3793,6 +3825,14 @@
       "onboard_time": 1690974757,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453770,
+      "num": 330483,
+      "word": "Angelababy电竞女教练",
+      "onboard_time": 1691131958,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 453434,
@@ -4211,6 +4251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414832,
+      "num": 414832,
+      "word": "夭玹离婚冷静期",
+      "onboard_time": 1691132317,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414729,
       "num": 384291,
       "word": "谭爷爷的手机屏保是花花",
@@ -4329,6 +4377,14 @@
       "onboard_time": 1690938157,
       "rank": 23,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 403207,
+      "num": 328057,
+      "word": "黑龙江",
+      "onboard_time": 1691130336,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402931,
@@ -4617,6 +4673,14 @@
       "onboard_time": 1690857996,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370369,
+      "num": 370369,
+      "word": "地铁2男子吵架大哥教科书式劝架",
+      "onboard_time": 1691130935,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369243,
@@ -5155,6 +5219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324161,
+      "num": 324161,
+      "word": "全智贤演我追星",
+      "onboard_time": 1691132257,
+      "rank": 23,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 323347,
       "num": 323347,
       "word": "鼻尖吻是迪丽热巴龚俊现场琢磨的",
@@ -5355,6 +5427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 307369,
+      "num": 307369,
+      "word": "捐款",
+      "onboard_time": 1691131115,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306649,
       "num": 306649,
       "word": "韩国女足vs德国女足",
@@ -5419,6 +5499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 303578,
+      "num": 306822,
+      "word": "00后小伙开公司上4休3还有寒暑假",
+      "onboard_time": 1691128172,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303147,
       "num": 303147,
       "word": "涿州双馨家园小区断水断电有人被困",
@@ -5432,6 +5520,14 @@
       "word": "小夭给相柳的毒药当美食做",
       "onboard_time": 1691068475,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 302686,
+      "num": 284800,
+      "word": "彭昱畅自己争取全裸出镜",
+      "onboard_time": 1691132855,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -5705,14 +5801,6 @@
       "onboard_time": 1691109338,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 286808,
-      "num": 306822,
-      "word": "00后小伙开公司上4休3还有寒暑假",
-      "onboard_time": 1691128172,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286571,
@@ -6240,6 +6328,14 @@
       "word": "北京解除暴雨预警信号",
       "onboard_time": 1690938814,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254519,
+      "num": 284963,
+      "word": "河北",
+      "onboard_time": 1691131895,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -7419,14 +7515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202915,
-      "num": 202915,
-      "word": "Uzi捐款50万元驰援涿州",
-      "onboard_time": 1691130394,
-      "rank": 33,
-      "category": "游戏,社会新闻"
-    },
-    {
       "raw_hot": 202748,
       "num": 202748,
       "word": "陈哲远顺毛好乖",
@@ -7481,14 +7569,6 @@
       "onboard_time": 1691068834,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 201155,
-      "num": 201155,
-      "word": "黑龙江",
-      "onboard_time": 1691130336,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200876,
@@ -7771,6 +7851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193217,
+      "num": 192450,
+      "word": "电影热烈票房破6亿",
+      "onboard_time": 1691132674,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193019,
       "num": 193019,
       "word": "潭柘寺 赞叹古人高超的地质勘查水准",
@@ -7969,6 +8057,14 @@
       "onboard_time": 1691068956,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184568,
+      "num": 182967,
+      "word": "女性词语归还女性",
+      "onboard_time": 1691133096,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 184547,
@@ -8267,6 +8363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163343,
+      "num": 163343,
+      "word": "涿州被救母亲鞠躬说给大家添麻烦了",
+      "onboard_time": 1691132914,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163274,
       "num": 227710,
       "word": "受灾群众的诺亚方舟",
@@ -8385,14 +8489,6 @@
       "onboard_time": 1691117676,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150729,
-      "num": 150729,
-      "word": "华为发布会",
-      "onboard_time": 1691130758,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 150620,
@@ -8591,6 +8687,14 @@
       "num": 199944,
       "word": "别人都知道但你不知道的事",
       "onboard_time": 1691055096,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 123861,
+      "num": 162154,
+      "word": "把骗子都给整笑场了",
+      "onboard_time": 1691132015,
       "rank": 49,
       "category": "幽默"
     },
@@ -9137,6 +9241,14 @@
       "onboard_time": 1690914077,
       "rank": 44,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 21078,
+      "num": 556288,
+      "word": "野挺有趣全员国风变装造型",
+      "onboard_time": 1691132435,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 19762,
