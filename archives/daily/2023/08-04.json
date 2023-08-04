@@ -1,6 +1,6 @@
 {
   "startTime": 1691079780560,
-  "endTime": 1691138050148,
+  "endTime": 1691140588603,
   "band_list": [
     {
       "raw_hot": 3371722,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1633401,
+      "num": 341344,
+      "word": "易烊千玺新发色藏不住了",
+      "onboard_time": 1691139274,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1607782,
       "num": 629550,
       "word": "魏大勋都开始捂嘴笑了",
@@ -105,6 +113,14 @@
       "onboard_time": 1691076277,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1459290,
+      "num": 1459290,
+      "word": "中国女婿见非洲丈母娘很害羞",
+      "onboard_time": 1691136158,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1447888,
@@ -347,12 +363,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 764016,
-      "num": 764016,
-      "word": "中国女婿见非洲丈母娘很害羞",
-      "onboard_time": 1691136158,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 762182,
+      "num": 356476,
+      "word": "学信网照片是我最大的黑料",
+      "onboard_time": 1691137055,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 752255,
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 583022,
-      "num": 365314,
+      "num": 552459,
       "word": "Angelababy黄子韬互呛",
       "onboard_time": 1691133876,
       "rank": 28,
@@ -544,6 +560,14 @@
       "word": "涿州市民避灾遇酒店涨价",
       "onboard_time": 1691085018,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553897,
+      "num": 553897,
+      "word": "牡丹江遭洪水袭击有房屋被整栋冲走",
+      "onboard_time": 1691136814,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -659,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487352,
+      "num": 196102,
+      "word": "韩素希手机壁纸",
+      "onboard_time": 1691139573,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482779,
       "num": 482779,
       "word": "泰国人居然拍中国古装剧了",
@@ -697,6 +729,14 @@
       "onboard_time": 1691122060,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 458858,
+      "num": 227517,
+      "word": "王一博给指甲抛光",
+      "onboard_time": 1691137955,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 453770,
@@ -747,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434053,
+      "num": 434053,
+      "word": "整理父亲遗物发现两张一等功证书",
+      "onboard_time": 1691132914,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427775,
       "num": 427775,
       "word": "牡丹江洪水已形成",
@@ -769,14 +817,6 @@
       "onboard_time": 1691070938,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 419599,
-      "num": 356476,
-      "word": "学信网照片是我最大的黑料",
-      "onboard_time": 1691137055,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 416327,
@@ -835,14 +875,6 @@
       "category": "影视,综艺"
     },
     {
-      "raw_hot": 399551,
-      "num": 399551,
-      "word": "整理父亲遗物发现两张一等功证书",
-      "onboard_time": 1691132914,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 398492,
       "num": 398492,
       "word": "行政岗做过最离谱的事情",
@@ -857,6 +889,14 @@
       "onboard_time": 1691118395,
       "rank": 34,
       "category": "音乐,音乐"
+    },
+    {
+      "raw_hot": 395154,
+      "num": 328369,
+      "word": "长相思如果没有战争",
+      "onboard_time": 1691139693,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 395094,
@@ -1379,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216892,
+      "num": 198586,
+      "word": "薛之谦福州",
+      "onboard_time": 1691138615,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 216260,
       "num": 216260,
       "word": "小伙错过末班车舍不得花十几块元打车",
@@ -1395,14 +1443,6 @@
       "category": "影视,影视"
     },
     {
-      "raw_hot": 210702,
-      "num": 210702,
-      "word": "牡丹江遭洪水袭击有房屋被整栋冲走",
-      "onboard_time": 1691136814,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210656,
       "num": 210656,
       "word": "卡努登陆我国可能性逐渐减小",
@@ -1417,6 +1457,14 @@
       "onboard_time": 1691115873,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207793,
+      "num": 172944,
+      "word": "乌尔善直播间真卡",
+      "onboard_time": 1691138975,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 206818,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1691109937,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 197260,
+      "num": 197260,
+      "word": "潮汕小吃反沙芋头",
+      "onboard_time": 1691137533,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 197255,
@@ -1587,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185501,
+      "num": 155297,
+      "word": "莲花楼一字诗",
+      "onboard_time": 1691140172,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184547,
       "num": 301867,
       "word": "相柳抹去镜中所有记忆",
@@ -1601,6 +1665,14 @@
       "onboard_time": 1691137355,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 181879,
+      "num": 181879,
+      "word": "夏天会痛击每个厕所摸鱼人",
+      "onboard_time": 1691137055,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 181674,
@@ -1625,6 +1697,14 @@
       "onboard_time": 1691070997,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176826,
+      "num": 176826,
+      "word": "男大学生购买100包卫生巾支援涿州",
+      "onboard_time": 1691140295,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 172310,
@@ -1707,12 +1787,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 152501,
+      "num": 152501,
+      "word": "桥本大辉退赛",
+      "onboard_time": 1691140233,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152344,
       "num": 152344,
       "word": "涿州大姐向救援队车里狂塞水果",
       "onboard_time": 1691117676,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151054,
+      "num": 151054,
+      "word": "直击天灵盖的旅行",
+      "onboard_time": 1691140474,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 150480,
+      "num": 150480,
+      "word": "毕业后的人生就像按了加速键",
+      "onboard_time": 1691140114,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 150415,
@@ -1731,12 +1835,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146380,
-      "num": 146380,
-      "word": "王一博给指甲抛光",
-      "onboard_time": 1691137955,
-      "rank": 44,
-      "category": "影视"
+      "raw_hot": 146993,
+      "num": 146993,
+      "word": "33名侦察兵13小时救出重伤女孩",
+      "onboard_time": 1691138074,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144928,
@@ -1777,14 +1881,6 @@
       "onboard_time": 1691105066,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140504,
-      "num": 140504,
-      "word": "潮汕小吃反沙芋头",
-      "onboard_time": 1691137533,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 135548,
@@ -2055,6 +2151,9 @@
     },
     {
       "word": "#为了人民生命他们从未缺席#"
+    },
+    {
+      "word": "#同舟共冀感谢有你#"
     }
   ]
 }
