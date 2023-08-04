@@ -1,0 +1,410 @@
+{
+  "runTime": 1691116265618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1921440,
+        "num": 1921440,
+        "word": "官方确认重庆事业单位考试有人作弊",
+        "onboard_time": 1691110417,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1856624,
+        "num": 1856624,
+        "word": "TFBOYS新歌",
+        "onboard_time": 1691108556,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41869,
+        "num": 1563517,
+        "word": "暴雨洪涝后饮食安全指南",
+        "onboard_time": 1691070455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1392029,
+        "num": 1392029,
+        "word": "BLACKPINK与YG续约合约金约15亿韩元",
+        "onboard_time": 1691113417,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1022192,
+        "num": 1022192,
+        "word": "发改委发布会",
+        "onboard_time": 1691115098,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 875151,
+        "num": 875151,
+        "word": "六岁相柳怒扔奶瓶",
+        "onboard_time": 1691113417,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 867711,
+        "num": 867711,
+        "word": "福建人对刘涛的妈祖滤镜",
+        "onboard_time": 1691110898,
+        "rank": 6,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 540288,
+        "num": 540288,
+        "word": "内娱生图免检的明星",
+        "onboard_time": 1691113837,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 529933,
+        "num": 529933,
+        "word": "哥们你的腹肌怎么是Windows啊",
+        "onboard_time": 1691111858,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 496309,
+        "num": 496309,
+        "word": "封神版纣王妲己 官配的神",
+        "onboard_time": 1691107230,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 629903,
+        "num": 483217,
+        "word": "现在的黄晓明真的活得比谁都清醒",
+        "onboard_time": 1691115337,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515776,
+        "num": 481613,
+        "word": "狗头萝莉回应穿衣风格争议",
+        "onboard_time": 1691107713,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 447925,
+        "num": 447925,
+        "word": "TFBOYS三人三字",
+        "onboard_time": 1691115755,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 407417,
+        "num": 407417,
+        "word": "不要轻易介入他人的因果",
+        "onboard_time": 1691109460,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 393672,
+        "num": 393672,
+        "word": "河北涿州发布接受救灾捐赠方式",
+        "onboard_time": 1691111623,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428613,
+        "num": 391566,
+        "word": "一人之下",
+        "onboard_time": 1691115578,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414965,
+        "num": 389176,
+        "word": "火树",
+        "onboard_time": 1691110475,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386567,
+        "num": 386567,
+        "word": "蟑螂汁治好了我的烂脸",
+        "onboard_time": 1691076939,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 363605,
+        "num": 363605,
+        "word": "王俊凯王源易烊千玺排练结束后会聚餐吗",
+        "onboard_time": 1691107413,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 362150,
+        "num": 362150,
+        "word": "牡丹江洪水已形成",
+        "onboard_time": 1691113299,
+        "rank": 19,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 1082734,
+        "num": 362071,
+        "word": "狗狗被遗弃跋涉100公里咬主人",
+        "onboard_time": 1691113116,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 785215,
+        "num": 360544,
+        "word": "90后男子强奸13岁少女被判5年9个月",
+        "onboard_time": 1691108616,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600695,
+        "num": 359270,
+        "word": "被离职问老板尊嘟假嘟",
+        "onboard_time": 1691115634,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 415867,
+        "num": 358281,
+        "word": "彭昱畅2分钟预告被打4次",
+        "onboard_time": 1691113716,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397868,
+        "num": 356700,
+        "word": "二十几岁的女生真的很忙",
+        "onboard_time": 1691107894,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 3252167,
+        "num": 355489,
+        "word": "雪糕外形似避孕套被家长质疑",
+        "onboard_time": 1691112817,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371883,
+        "num": 355138,
+        "word": "第一次看到早8点空降的剧",
+        "onboard_time": 1691114076,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353977,
+        "num": 353977,
+        "word": "TFBOYS明天见一人一个字",
+        "onboard_time": 1691115634,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342991,
+        "num": 342991,
+        "word": "农家少年高考699分没当过一天留守儿童",
+        "onboard_time": 1691111623,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 324898,
+        "num": 324898,
+        "word": "厂家回应雪糕外形似避孕套被质疑",
+        "onboard_time": 1691115516,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304599,
+        "num": 324708,
+        "word": "世界名画之陈牧驰救猫",
+        "onboard_time": 1691112336,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295308,
+        "num": 323506,
+        "word": "第一次公开报道他却不能露脸",
+        "onboard_time": 1691105548,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279708,
+        "num": 322048,
+        "word": "离职退群不小心把群解散了",
+        "onboard_time": 1691064993,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258145,
+        "num": 319821,
+        "word": "相柳还是进入了小夭的梦里",
+        "onboard_time": 1691104222,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256231,
+        "num": 318152,
+        "word": "碳循环减肥法",
+        "onboard_time": 1691113599,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237272,
+        "num": 317768,
+        "word": "邓为终于戴耳钉了",
+        "onboard_time": 1691106690,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226444,
+        "num": 316528,
+        "word": "养猫人不适合穿破洞裤",
+        "onboard_time": 1691114498,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 211185,
+        "num": 314705,
+        "word": "异人之下",
+        "onboard_time": 1691108674,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208935,
+        "num": 313932,
+        "word": "这真的不是帝后吗",
+        "onboard_time": 1691076277,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207226,
+        "num": 312307,
+        "word": "吴宣仪采访一看就没谈恋爱",
+        "onboard_time": 1691108495,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206786,
+        "num": 309883,
+        "word": "TFBOYS笑话永不过时",
+        "onboard_time": 1691115935,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205204,
+        "num": 309348,
+        "word": "谢永强妈是我的周五发言人",
+        "onboard_time": 1691115873,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201663,
+        "num": 307385,
+        "word": "涿州",
+        "onboard_time": 1691104343,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200743,
+        "num": 306263,
+        "word": "莲花楼女宅案",
+        "onboard_time": 1691109277,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305782,
+        "num": 305782,
+        "word": "托熟人养狗当天被卖掉宰杀",
+        "onboard_time": 1691113538,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184547,
+        "num": 301867,
+        "word": "相柳抹去镜中所有记忆",
+        "onboard_time": 1691114799,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168330,
+        "num": 299206,
+        "word": "大鹏晒与黄渤王一博合照",
+        "onboard_time": 1691109338,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166621,
+        "num": 290287,
+        "word": "近年来我吃过最好吃的煎饼果子",
+        "onboard_time": 1691115935,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164539,
+        "num": 285647,
+        "word": "如果把大学里的水课都换成这些",
+        "onboard_time": 1691115458,
+        "rank": 48,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 164067,
+        "num": 276968,
+        "word": "这手机功能也太多了",
+        "onboard_time": 1691114018,
+        "rank": 49,
+        "category": "幽默,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#暴雨洪水中每个挺身而出的人都是英雄#"
+    }
+  }
+}

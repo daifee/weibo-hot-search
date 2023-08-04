@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691113457770,
+  "endTime": 1691116265618,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -17,6 +17,14 @@
       "onboard_time": 1690816715,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3252167,
+      "num": 355489,
+      "word": "雪糕外形似避孕套被家长质疑",
+      "onboard_time": 1691112817,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3243332,
@@ -283,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1921440,
+      "num": 1921440,
+      "word": "官方确认重庆事业单位考试有人作弊",
+      "onboard_time": 1691110417,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1915174,
       "num": 1915174,
       "word": "凤凰传奇工作室 律师函不会弄",
@@ -321,6 +337,14 @@
       "onboard_time": 1691064993,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1856624,
+      "num": 1856624,
+      "word": "TFBOYS新歌",
+      "onboard_time": 1691108556,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 1829605,
@@ -451,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1645598,
-      "num": 1645598,
-      "word": "官方确认重庆事业单位考试有人作弊",
-      "onboard_time": 1691110417,
-      "rank": 5,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1616535,
       "num": 1616535,
       "word": "法国网红爬中国香港68楼天台后坠亡",
@@ -587,14 +603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1443147,
-      "num": 1443147,
-      "word": "TFBOYS新歌",
-      "onboard_time": 1691108556,
-      "rank": 0,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1438562,
       "num": 1438562,
       "word": "杨幂喊迪丽热巴巴",
@@ -625,6 +633,14 @@
       "onboard_time": 1690855955,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1392029,
+      "num": 1392029,
+      "word": "BLACKPINK与YG续约合约金约15亿韩元",
+      "onboard_time": 1691113417,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 1386225,
@@ -955,6 +971,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1082734,
+      "num": 362071,
+      "word": "狗狗被遗弃跋涉100公里咬主人",
+      "onboard_time": 1691113116,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1082507,
       "num": 1082507,
       "word": "福建人对刘涛的妈祖滤镜",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1690842137,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1022192,
+      "num": 1022192,
+      "word": "发改委发布会",
+      "onboard_time": 1691115098,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1019315,
@@ -1185,14 +1217,6 @@
       "onboard_time": 1690953098,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 947636,
-      "num": 318668,
-      "word": "雪糕外形似避孕套被家长质疑",
-      "onboard_time": 1691112817,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 944286,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1690895618,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 875151,
+      "num": 875151,
+      "word": "六岁相柳怒扔奶瓶",
+      "onboard_time": 1691113417,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 874169,
@@ -2307,8 +2339,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629903,
+      "num": 483217,
+      "word": "现在的黄晓明真的活得比谁都清醒",
+      "onboard_time": 1691115337,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628373,
-      "num": 356458,
+      "num": 356700,
       "word": "二十几岁的女生真的很忙",
       "onboard_time": 1691107894,
       "rank": 23,
@@ -2449,6 +2489,14 @@
       "onboard_time": 1691036678,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 600695,
+      "num": 359270,
+      "word": "被离职问老板尊嘟假嘟",
+      "onboard_time": 1691115634,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 598485,
@@ -2628,7 +2676,7 @@
     },
     {
       "raw_hot": 572414,
-      "num": 315869,
+      "num": 342991,
       "word": "农家少年高考699分没当过一天留守儿童",
       "onboard_time": 1691111623,
       "rank": 30,
@@ -2859,8 +2907,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 540288,
+      "num": 540288,
+      "word": "内娱生图免检的明星",
+      "onboard_time": 1691113837,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 539096,
-      "num": 441190,
+      "num": 529933,
       "word": "哥们你的腹肌怎么是Windows啊",
       "onboard_time": 1691111858,
       "rank": 39,
@@ -3555,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447925,
+      "num": 447925,
+      "word": "TFBOYS三人三字",
+      "onboard_time": 1691115755,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 446768,
       "num": 446768,
       "word": "8月份十二星座的注意事项",
@@ -3707,6 +3771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 428613,
+      "num": 391566,
+      "word": "一人之下",
+      "onboard_time": 1691115578,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 428491,
       "num": 428491,
       "word": "陈哲远的手机壳",
@@ -3841,6 +3913,14 @@
       "onboard_time": 1691002153,
       "rank": 15,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 415867,
+      "num": 358281,
+      "word": "彭昱畅2分钟预告被打4次",
+      "onboard_time": 1691113716,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 414729,
@@ -4203,6 +4283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371883,
+      "num": 355138,
+      "word": "第一次看到早8点空降的剧",
+      "onboard_time": 1691114076,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 371315,
       "num": 371315,
       "word": "独家童话",
@@ -4283,6 +4371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362150,
+      "num": 362150,
+      "word": "牡丹江洪水已形成",
+      "onboard_time": 1691113299,
+      "rank": 44,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 361492,
       "num": 361492,
       "word": "Angelababy教贝克汉姆说中文",
@@ -4361,6 +4457,14 @@
       "onboard_time": 1691036439,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 353977,
+      "num": 353977,
+      "word": "TFBOYS明天见一人一个字",
+      "onboard_time": 1691115634,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 353498,
@@ -4651,6 +4755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324898,
+      "num": 324898,
+      "word": "厂家回应雪糕外形似避孕套被质疑",
+      "onboard_time": 1691115516,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324686,
       "num": 306799,
       "word": "龚俊炫耀收到周杰伦周边",
@@ -4881,6 +4993,14 @@
       "onboard_time": 1691026837,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305782,
+      "num": 305782,
+      "word": "托熟人养狗当天被卖掉宰杀",
+      "onboard_time": 1691113538,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305756,
@@ -5196,7 +5316,7 @@
     },
     {
       "raw_hot": 286865,
-      "num": 286865,
+      "num": 299206,
       "word": "大鹏晒与黄渤王一博合照",
       "onboard_time": 1691109338,
       "rank": 32,
@@ -5380,7 +5500,7 @@
     },
     {
       "raw_hot": 275835,
-      "num": 275835,
+      "num": 317768,
       "word": "邓为终于戴耳钉了",
       "onboard_time": 1691106690,
       "rank": 35,
@@ -5659,6 +5779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256231,
+      "num": 318152,
+      "word": "碳循环减肥法",
+      "onboard_time": 1691113599,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255262,
       "num": 255262,
       "word": "内娱和粉丝双向奔赴的明星",
@@ -5833,14 +5961,6 @@
       "onboard_time": 1691041718,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246449,
-      "num": 246449,
-      "word": "狗狗被遗弃跋涉100公里咬主人",
-      "onboard_time": 1691113116,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 246337,
@@ -6257,6 +6377,14 @@
       "onboard_time": 1690938693,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226444,
+      "num": 316528,
+      "word": "养猫人不适合穿破洞裤",
+      "onboard_time": 1691114498,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 226148,
@@ -6691,6 +6819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206786,
+      "num": 309883,
+      "word": "TFBOYS笑话永不过时",
+      "onboard_time": 1691115935,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206757,
       "num": 206757,
       "word": "这结局太虐了",
@@ -6737,6 +6873,14 @@
       "onboard_time": 1691057019,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205204,
+      "num": 309348,
+      "word": "谢永强妈是我的周五发言人",
+      "onboard_time": 1691115873,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 205021,
@@ -6937,14 +7081,6 @@
       "onboard_time": 1691109937,
       "rank": 43,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 199302,
-      "num": 196157,
-      "word": "六岁相柳怒扔奶瓶",
-      "onboard_time": 1691113417,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 199085,
@@ -7219,14 +7355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189561,
-      "num": 189561,
-      "word": "牡丹江洪水已形成",
-      "onboard_time": 1691113299,
-      "rank": 44,
-      "category": "社会新闻,自然"
-    },
-    {
       "raw_hot": 189256,
       "num": 189256,
       "word": "闪耀暖暖",
@@ -7265,14 +7393,6 @@
       "onboard_time": 1691031459,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187171,
-      "num": 187171,
-      "word": "BLACKPINK与YG续约合约金约15亿韩元",
-      "onboard_time": 1691113417,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 187053,
@@ -7329,6 +7449,14 @@
       "onboard_time": 1691068956,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184547,
+      "num": 301867,
+      "word": "相柳抹去镜中所有记忆",
+      "onboard_time": 1691114799,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 184540,
@@ -7547,6 +7675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166621,
+      "num": 290287,
+      "word": "近年来我吃过最好吃的煎饼果子",
+      "onboard_time": 1691115935,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166252,
       "num": 233660,
       "word": "北京全市河道均在行洪",
@@ -7579,12 +7715,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164539,
+      "num": 285647,
+      "word": "如果把大学里的水课都换成这些",
+      "onboard_time": 1691115458,
+      "rank": 48,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 164082,
       "num": 490155,
       "word": "北京消防暴雨中用脸盆转移受困婴儿",
       "onboard_time": 1690876831,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164067,
+      "num": 276968,
+      "word": "这手机功能也太多了",
+      "onboard_time": 1691114018,
+      "rank": 49,
+      "category": "幽默,科技"
     },
     {
       "raw_hot": 163691,
@@ -8012,7 +8164,7 @@
     },
     {
       "raw_hot": 110012,
-      "num": 1213548,
+      "num": 1563517,
       "word": "暴雨洪涝后饮食安全指南",
       "onboard_time": 1691070455,
       "rank": 2,
