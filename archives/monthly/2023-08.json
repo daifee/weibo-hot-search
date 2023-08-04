@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691188418229,
+  "endTime": 1691190951571,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -2307,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750754,
+      "num": 542689,
+      "word": "黑龙江尚志九江村整村失联",
+      "onboard_time": 1691161675,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 749652,
       "num": 749652,
       "word": "边伯贤入住汉南洞UNVillage",
@@ -3683,14 +3691,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 542689,
-      "num": 542689,
-      "word": "黑龙江尚志九江村整村失联",
-      "onboard_time": 1691161675,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 542510,
       "num": 542510,
       "word": "四川内江地震",
@@ -4337,6 +4337,14 @@
       "onboard_time": 1691146356,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 468500,
+      "num": 225439,
+      "word": "女孩租房开2小时空调用完100元电费",
+      "onboard_time": 1691190141,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466289,
@@ -7091,6 +7099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262581,
+      "num": 159529,
+      "word": "卡努或将急转弯转向东北",
+      "onboard_time": 1691185635,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262568,
       "num": 262568,
       "word": "于适长发",
@@ -7361,6 +7377,14 @@
       "onboard_time": 1691115935,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247839,
+      "num": 247839,
+      "word": "乌克兰丈母娘感叹上海是童话世界",
+      "onboard_time": 1691171000,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247818,
@@ -8523,6 +8547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205012,
+      "num": 205012,
+      "word": "河南近百亿灾后重建资金出问题",
+      "onboard_time": 1691190321,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204789,
       "num": 204789,
       "word": "LGD对战RW",
@@ -9387,6 +9419,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 181367,
+      "num": 158467,
+      "word": "河北涿州灾区的明星捐款名单",
+      "onboard_time": 1691181913,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180299,
       "num": 191837,
       "word": "何浩楠带十个勤天回缙云老家",
@@ -9899,28 +9939,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140018,
+      "num": 140018,
+      "word": "大熊猫被奶爸揪耳朵气得翻白眼",
+      "onboard_time": 1691190141,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139692,
       "num": 150494,
       "word": "KPL",
       "onboard_time": 1690971395,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138537,
-      "num": 82992,
-      "word": "卡努或将急转弯转向东北",
-      "onboard_time": 1691185635,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137586,
-      "num": 82604,
-      "word": "河北涿州灾区的明星捐款名单",
-      "onboard_time": 1691181913,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137004,
@@ -9961,14 +9993,6 @@
       "onboard_time": 1691058696,
       "rank": 25,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 134779,
-      "num": 134779,
-      "word": "乌克兰丈母娘感叹上海是童话世界",
-      "onboard_time": 1691171000,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134527,
@@ -10139,6 +10163,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 114904,
+      "num": 114904,
+      "word": "起猛了我的小床睡过大英雄",
+      "onboard_time": 1691190321,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114181,
       "num": 114181,
       "word": "今天把祝福献给人民子弟兵",
@@ -10187,6 +10219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109172,
+      "num": 109172,
+      "word": "能被处女座认可的人肯定不差",
+      "onboard_time": 1691168068,
+      "rank": 33,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 108866,
       "num": 1420244,
       "word": "有人民的地方就有子弟兵",
@@ -10227,6 +10267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104980,
+      "num": 104980,
+      "word": "檀健次说相柳不需要续集",
+      "onboard_time": 1691172440,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 103556,
       "num": 95826,
       "word": "玱玹打不过防风意映",
@@ -10249,14 +10297,6 @@
       "onboard_time": 1691064872,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 100457,
-      "num": 100457,
-      "word": "檀健次说相柳不需要续集",
-      "onboard_time": 1691172440,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 99965,
@@ -10411,20 +10451,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79012,
+      "num": 79012,
+      "word": "不是说竹子宁折不弯吗",
+      "onboard_time": 1691181793,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76829,
       "num": 76829,
       "word": "爱吃折耳根和香菜的都沉默了",
       "onboard_time": 1691086756,
       "rank": 40,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 75336,
-      "num": 75336,
-      "word": "能被处女座认可的人肯定不差",
-      "onboard_time": 1691168068,
-      "rank": 33,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 73790,
@@ -10491,14 +10531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52854,
-      "num": 52854,
-      "word": "不是说竹子宁折不弯吗",
-      "onboard_time": 1691181793,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 50783,
       "num": 334637,
       "word": "大空间和颜值年轻人都要",
@@ -10561,6 +10593,14 @@
       "onboard_time": 1691132435,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34042,
+      "num": 694770,
+      "word": "英雄就是我们身边的平凡人",
+      "onboard_time": 1691159021,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33654,
@@ -10697,14 +10737,6 @@
       "onboard_time": 1691177355,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17946,
-      "num": 417686,
-      "word": "英雄就是我们身边的平凡人",
-      "onboard_time": 1691159021,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16991,
