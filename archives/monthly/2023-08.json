@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691119015115,
+  "endTime": 1691120029324,
   "band_list": [
     {
       "raw_hot": 4109432,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2979515,
+      "num": 2979515,
+      "word": "TFBOYS三人三字",
+      "onboard_time": 1691115755,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2870626,
       "num": 2870626,
       "word": "夏克立自曝因家暴指控被关监狱",
@@ -105,14 +113,6 @@
       "onboard_time": 1690933890,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2615275,
-      "num": 2615275,
-      "word": "TFBOYS三人三字",
-      "onboard_time": 1691115755,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 2605619,
@@ -1563,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 835483,
+      "num": 835483,
+      "word": "杨紫张晚意水榭楼台芭莎大片",
+      "onboard_time": 1691119295,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 835431,
       "num": 835431,
       "word": "腾讯认证长相思是爆剧",
@@ -2364,7 +2372,7 @@
     },
     {
       "raw_hot": 631109,
-      "num": 487517,
+      "num": 508006,
       "word": "终于有TFBOYS十周年实感了",
       "onboard_time": 1691117858,
       "rank": 11,
@@ -2683,6 +2691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 582195,
+      "num": 582195,
+      "word": "养猫人不适合穿破洞裤",
+      "onboard_time": 1691114498,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 575775,
       "num": 575775,
       "word": "一人之下",
@@ -2971,6 +2987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 534733,
+      "num": 347185,
+      "word": "明天你好星期六有迪丽热巴",
+      "onboard_time": 1691118214,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533864,
       "num": 533864,
       "word": "北京此次暴雨已有两名牺牲的救援人员身份确认",
@@ -3083,6 +3107,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 521453,
+      "num": 346405,
+      "word": "厂家回应雪糕外形似避孕套被质疑",
+      "onboard_time": 1691115516,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519960,
       "num": 519960,
       "word": "护士一把抱起80斤老人飞奔去抢救",
@@ -3169,14 +3201,6 @@
       "onboard_time": 1691107052,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 503563,
-      "num": 503563,
-      "word": "养猫人不适合穿破洞裤",
-      "onboard_time": 1691114498,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 503470,
@@ -3361,14 +3385,6 @@
       "onboard_time": 1690871732,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 481701,
-      "num": 324898,
-      "word": "厂家回应雪糕外形似避孕套被质疑",
-      "onboard_time": 1691115516,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479998,
@@ -3875,6 +3891,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 425092,
+      "num": 425092,
+      "word": "救援队懂了她的不忍开口",
+      "onboard_time": 1691117375,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424067,
       "num": 424067,
       "word": "某幻 反季节战士",
@@ -3964,7 +3988,7 @@
     },
     {
       "raw_hot": 415867,
-      "num": 358281,
+      "num": 366564,
       "word": "彭昱畅2分钟预告被打4次",
       "onboard_time": 1691113716,
       "rank": 23,
@@ -4075,6 +4099,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 406870,
+      "num": 343136,
+      "word": "e人和i人聊天的区别",
+      "onboard_time": 1691116357,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405908,
       "num": 405908,
       "word": "陀枪师姐导演邝业生去世",
@@ -4113,6 +4145,14 @@
       "onboard_time": 1690949017,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 397231,
+      "num": 342570,
+      "word": "newjeans 音乐节",
+      "onboard_time": 1691118395,
+      "rank": 34,
+      "category": "音乐,音乐"
     },
     {
       "raw_hot": 396787,
@@ -4299,14 +4339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 378842,
-      "num": 303138,
-      "word": "e人和i人聊天的区别",
-      "onboard_time": 1691116357,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 377364,
       "num": 377364,
       "word": "八月长安",
@@ -4467,14 +4499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 359101,
-      "num": 300818,
-      "word": "明天你好星期六有迪丽热巴",
-      "onboard_time": 1691118214,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 356266,
       "num": 356266,
       "word": "LNG好好bp行吗",
@@ -4484,7 +4508,7 @@
     },
     {
       "raw_hot": 355981,
-      "num": 297953,
+      "num": 341169,
       "word": "邓为于适此沙都有鼻尖痣",
       "onboard_time": 1691116716,
       "rank": 41,
@@ -4993,14 +5017,6 @@
       "onboard_time": 1691040337,
       "rank": 27,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 310446,
-      "num": 310446,
-      "word": "救援队懂了她的不忍开口",
-      "onboard_time": 1691117375,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310188,
@@ -5659,6 +5675,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 271780,
+      "num": 271780,
+      "word": "魏大勋被粉丝送粉丝",
+      "onboard_time": 1691119476,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270925,
       "num": 270925,
       "word": "爱豆小卡应该有更多功能",
@@ -5681,6 +5705,14 @@
       "onboard_time": 1691072501,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268866,
+      "num": 233478,
+      "word": "明天见",
+      "onboard_time": 1691116894,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 268865,
@@ -6075,14 +6107,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 245702,
-      "num": 245702,
-      "word": "newjeans 音乐节",
-      "onboard_time": 1691118395,
-      "rank": 34,
-      "category": "音乐,音乐"
-    },
-    {
       "raw_hot": 245339,
       "num": 245339,
       "word": "常温常压超导首被证明理论可行",
@@ -6153,6 +6177,14 @@
       "onboard_time": 1690980159,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241213,
+      "num": 241213,
+      "word": "A股",
+      "onboard_time": 1691119597,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 241139,
@@ -6363,14 +6395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 231874,
-      "num": 231874,
-      "word": "明天见",
-      "onboard_time": 1691116894,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 231576,
       "num": 231576,
       "word": "RIIZE",
@@ -6553,6 +6577,14 @@
       "onboard_time": 1691034520,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 221690,
+      "num": 221690,
+      "word": "哪款游戏让你坚持了十年",
+      "onboard_time": 1691118874,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 221295,
@@ -6899,14 +6931,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 207488,
-      "num": 207488,
-      "word": "哪款游戏让你坚持了十年",
-      "onboard_time": 1691118874,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 206972,
       "num": 206972,
       "word": "80后外卖员自学乐器3年上20次综艺",
@@ -7041,6 +7065,14 @@
       "onboard_time": 1691043457,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202858,
+      "num": 202858,
+      "word": "冯宝宝我的嘴替",
+      "onboard_time": 1691119833,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 202748,
@@ -7395,6 +7427,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 191009,
+      "num": 191009,
+      "word": "TFBOYS新歌8月5日上线",
+      "onboard_time": 1691119597,
+      "rank": 41,
+      "category": "音乐,音乐"
+    },
+    {
       "raw_hot": 190887,
       "num": 190887,
       "word": "2023年世界最美女性榜单",
@@ -7433,6 +7473,14 @@
       "onboard_time": 1690804832,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189815,
+      "num": 189815,
+      "word": "食物语",
+      "onboard_time": 1691119116,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 189750,
@@ -7905,6 +7953,14 @@
       "onboard_time": 1691030076,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154489,
+      "num": 167720,
+      "word": "原来师傅和师父是不一样的概念",
+      "onboard_time": 1691119957,
+      "rank": 49,
+      "category": "其它"
     },
     {
       "raw_hot": 153447,
@@ -8404,7 +8460,7 @@
     },
     {
       "raw_hot": 91659,
-      "num": 149962,
+      "num": 187222,
       "word": "永远支持中国女足",
       "onboard_time": 1691118756,
       "rank": 46,
