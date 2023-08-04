@@ -1,0 +1,410 @@
+{
+  "runTime": 1691112141435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443147,
+        "num": 1443147,
+        "word": "TFBOYS新歌",
+        "onboard_time": 1691108556,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1155712,
+        "num": 1155712,
+        "word": "第一次公开报道他却不能露脸",
+        "onboard_time": 1691105548,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67231,
+        "num": 1103881,
+        "word": "暴雨洪涝后饮食安全指南",
+        "onboard_time": 1691070455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1101945,
+        "num": 1101945,
+        "word": "封神版纣王妲己 官配的神",
+        "onboard_time": 1691107230,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1082507,
+        "num": 1082507,
+        "word": "福建人对刘涛的妈祖滤镜",
+        "onboard_time": 1691110898,
+        "rank": 4,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1068241,
+        "num": 1068241,
+        "word": "官方确认重庆事业单位考试有人作弊",
+        "onboard_time": 1691110417,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 700890,
+        "num": 700890,
+        "word": "不要轻易介入他人的因果",
+        "onboard_time": 1691109460,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 524361,
+        "num": 524361,
+        "word": "这真的不是帝后吗",
+        "onboard_time": 1691076277,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506597,
+        "num": 506597,
+        "word": "火树",
+        "onboard_time": 1691110475,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522331,
+        "num": 506409,
+        "word": "相柳还是进入了小夭的梦里",
+        "onboard_time": 1691104222,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1207437,
+        "num": 505888,
+        "word": "狗头萝莉回应穿衣风格争议",
+        "onboard_time": 1691107713,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 846808,
+        "num": 505851,
+        "word": "蟑螂汁治好了我的烂脸",
+        "onboard_time": 1691076939,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 504983,
+        "num": 504983,
+        "word": "花200块买的投影仪",
+        "onboard_time": 1691107052,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 478551,
+        "num": 478551,
+        "word": "李立群团队否认在杭州看病花了20万",
+        "onboard_time": 1691104945,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 420909,
+        "num": 420909,
+        "word": "王俊凯王源易烊千玺排练结束后会聚餐吗",
+        "onboard_time": 1691107413,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 417473,
+        "num": 417473,
+        "word": "演技进步最快的演员",
+        "onboard_time": 1691104343,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411332,
+        "num": 411332,
+        "word": "异人之下",
+        "onboard_time": 1691108674,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386034,
+        "num": 386034,
+        "word": "飞机上收到来自陌生人的airdrop",
+        "onboard_time": 1691106629,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383708,
+        "num": 383708,
+        "word": "封神男团早几年干嘛去了",
+        "onboard_time": 1691109397,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312597,
+        "num": 379941,
+        "word": "河北涿州发布接受救灾捐赠方式",
+        "onboard_time": 1691111623,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1879077,
+        "num": 370498,
+        "word": "90后男子强奸13岁少女被判5年9个月",
+        "onboard_time": 1691108616,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1212342,
+        "num": 368711,
+        "word": "他叫他崽崽 他叫他宝贝",
+        "onboard_time": 1691111198,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 724382,
+        "num": 358526,
+        "word": "离职退群不小心把群解散了",
+        "onboard_time": 1691064993,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 628373,
+        "num": 356458,
+        "word": "二十几岁的女生真的很忙",
+        "onboard_time": 1691107894,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 350418,
+        "num": 350418,
+        "word": "莲花楼女宅案",
+        "onboard_time": 1691109277,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307216,
+        "num": 345488,
+        "word": "涿州",
+        "onboard_time": 1691104343,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343377,
+        "num": 343377,
+        "word": "吴宣仪采访一看就没谈恋爱",
+        "onboard_time": 1691108495,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323273,
+        "num": 323273,
+        "word": "异人之下开播",
+        "onboard_time": 1691108495,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312412,
+        "num": 312412,
+        "word": "王俊凯王源易烊千玺终于不用P合照了",
+        "onboard_time": 1691106751,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304561,
+        "num": 304561,
+        "word": "中图网 25元一斤随便带走",
+        "onboard_time": 1691061392,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365666,
+        "num": 304438,
+        "word": "农家少年高考699分没当过一天留守儿童",
+        "onboard_time": 1691111623,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 304153,
+        "num": 304153,
+        "word": "自习室的大学生靠热点交流",
+        "onboard_time": 1691081365,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286865,
+        "num": 286865,
+        "word": "大鹏晒与黄渤王一博合照",
+        "onboard_time": 1691109338,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277910,
+        "num": 277910,
+        "word": "杨紫工作室换头像",
+        "onboard_time": 1691108376,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271292,
+        "num": 276510,
+        "word": "第一次见这种主卧卫生间",
+        "onboard_time": 1691066432,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275835,
+        "num": 275835,
+        "word": "邓为终于戴耳钉了",
+        "onboard_time": 1691106690,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274552,
+        "num": 274552,
+        "word": "刘畊宏教徐志胜跳蛇舞",
+        "onboard_time": 1691109519,
+        "rank": 36,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 242109,
+        "num": 242109,
+        "word": "阴干的衣服为什么那么臭",
+        "onboard_time": 1691074539,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239615,
+        "num": 239615,
+        "word": "涿州市民避灾遇酒店涨价",
+        "onboard_time": 1691085018,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224987,
+        "num": 224987,
+        "word": "哥们你的腹肌怎么是Windows啊",
+        "onboard_time": 1691111858,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213994,
+        "num": 213994,
+        "word": "封神笑话",
+        "onboard_time": 1691108796,
+        "rank": 40,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 206854,
+        "num": 206854,
+        "word": "蜜雪冰城捐1千万支持抗汛救灾",
+        "onboard_time": 1691074059,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204397,
+        "num": 204397,
+        "word": "代露娃说第一次见杨紫紧张到说不出话来",
+        "onboard_time": 1691107713,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199818,
+        "num": 199818,
+        "word": "放暑假之消失的刘海",
+        "onboard_time": 1691109937,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 194895,
+        "num": 194895,
+        "word": "河北72岁老人赶到涿州开船救援",
+        "onboard_time": 1691111320,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189011,
+        "num": 189011,
+        "word": "苏醒王栎鑫最近一个月频繁见面",
+        "onboard_time": 1691104825,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181674,
+        "num": 181674,
+        "word": "胡一天看起来好热啊",
+        "onboard_time": 1691107472,
+        "rank": 46,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 181528,
+        "num": 181528,
+        "word": "河北涿州架起高空基站",
+        "onboard_time": 1691104283,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178049,
+        "num": 178049,
+        "word": "江苏一男子吃烧烤后感染戊肝",
+        "onboard_time": 1691103742,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174275,
+        "num": 174275,
+        "word": "投影仪卖不出去了",
+        "onboard_time": 1691081126,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#暴雨洪水中每个挺身而出的人都是英雄#"
+    }
+  }
+}
