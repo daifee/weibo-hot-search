@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691169270958,
+  "endTime": 1691170427047,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -10659,6 +10659,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 199709,
+      "num": 199709,
+      "word": "中国男篮",
+      "onboard_time": 1691168129,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199647,
       "num": 199647,
       "word": "王宽小景8集牵手11次",
@@ -11849,14 +11857,6 @@
       "onboard_time": 1691117676,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151833,
-      "num": 151833,
-      "word": "中国男篮",
-      "onboard_time": 1691168129,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 150786,
