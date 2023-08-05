@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691210035758,
+  "endTime": 1691212496339,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -491,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1809012,
+      "num": 636967,
+      "word": "中新网评TFBOYS粉丝抢位置打架",
+      "onboard_time": 1691211334,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1802849,
       "num": 1525186,
       "word": "李玟大殓出殡",
       "onboard_time": 1690853557,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1781391,
+      "num": 457856,
+      "word": "杨紫回应外形质疑",
+      "onboard_time": 1691207436,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1771484,
@@ -1163,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1179096,
-      "num": 457856,
-      "word": "杨紫回应外形质疑",
-      "onboard_time": 1691207436,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1167378,
       "num": 585266,
       "word": "第一次看到8月发7月行程",
@@ -1219,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1145721,
+      "num": 556454,
+      "word": "王俊凯不完美小孩彩排路透",
+      "onboard_time": 1691209594,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1135281,
       "num": 1135281,
       "word": "刘畊宏给看完封神的老婆发的照片",
@@ -1232,6 +1248,14 @@
       "word": "TFBOYS粉丝已在体育场外守候",
       "onboard_time": 1691198431,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1130893,
+      "num": 305476,
+      "word": "哇唧唧哇简介没看见肖战",
+      "onboard_time": 1691210134,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -1385,6 +1409,14 @@
       "onboard_time": 1691145393,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1063293,
+      "num": 374271,
+      "word": "想当兵的体育生18岁成人礼却纹了大花臂",
+      "onboard_time": 1691209775,
+      "rank": 34,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 1061684,
@@ -3619,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 584727,
+      "num": 584727,
+      "word": "逆水寒",
+      "onboard_time": 1690952858,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 583823,
       "num": 583823,
       "word": "防风意映",
@@ -3785,14 +3825,6 @@
       "onboard_time": 1691194173,
       "rank": 21,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 564968,
-      "num": 324419,
-      "word": "王俊凯不完美小孩彩排路透",
-      "onboard_time": 1691209594,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 564033,
@@ -3977,6 +4009,14 @@
       "onboard_time": 1690869157,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542266,
+      "num": 542266,
+      "word": "钱天一四冠王",
+      "onboard_time": 1691211996,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 542175,
@@ -5003,6 +5043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441776,
+      "num": 372951,
+      "word": "TFBOYS十年纪念专辑配置",
+      "onboard_time": 1691212417,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 441514,
       "num": 441514,
       "word": "巨齿鲨",
@@ -5739,6 +5787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379829,
+      "num": 372373,
+      "word": "家人扔掉收养的狗致女子被公司解雇",
+      "onboard_time": 1691211095,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379627,
       "num": 286017,
       "word": "如果相柳体内有小夭的孩子",
@@ -6409,6 +6465,14 @@
       "onboard_time": 1691164306,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 329919,
+      "num": 223001,
+      "word": "娜然熟悉狐狸动作的参考图",
+      "onboard_time": 1691211934,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 327890,
@@ -7377,14 +7441,6 @@
       "onboard_time": 1690866097,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273924,
-      "num": 273924,
-      "word": "想当兵的体育生18岁成人礼却纹了大花臂",
-      "onboard_time": 1691209775,
-      "rank": 34,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 273562,
@@ -9115,14 +9171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205021,
-      "num": 212003,
-      "word": "逆水寒",
-      "onboard_time": 1690952858,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 204961,
       "num": 204961,
       "word": "河北涿州灾区的明星捐款名单",
@@ -9193,6 +9241,14 @@
       "onboard_time": 1690867895,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203225,
+      "num": 222969,
+      "word": "战至巅峰",
+      "onboard_time": 1691212475,
+      "rank": 41,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 203025,
@@ -10355,6 +10411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159334,
+      "num": 222990,
+      "word": "吉林舒兰强降雨已造成1死4失联",
+      "onboard_time": 1691211694,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159009,
       "num": 221912,
       "word": "很好奇e人是怎么维持老朋友的",
@@ -10707,6 +10771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126147,
+      "num": 222955,
+      "word": "最值得去的40个国内旅行地",
+      "onboard_time": 1691210976,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 125834,
       "num": 207634,
       "word": "我为涿州买本书",
@@ -11027,12 +11099,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93587,
+      "num": 222945,
+      "word": "商战现实版",
+      "onboard_time": 1691212356,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93474,
       "num": 93474,
       "word": "原作者当编剧的影视剧作品",
       "onboard_time": 1690831515,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 93404,
+      "num": 222943,
+      "word": "原神林尼",
+      "onboard_time": 1691212475,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 92205,

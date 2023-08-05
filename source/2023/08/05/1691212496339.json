@@ -1,0 +1,410 @@
+{
+  "runTime": 1691212496339,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2694460,
+        "num": 2694460,
+        "word": "为什么十年之约只能在西安办",
+        "onboard_time": 1691204195,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 736154,
+        "num": 736154,
+        "word": "羽生结弦老婆",
+        "onboard_time": 1691161436,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 79397,
+        "num": 646806,
+        "word": "暴雨洪水过后的安全及防疫提醒",
+        "onboard_time": 1691205695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1809012,
+        "num": 636967,
+        "word": "中新网评TFBOYS粉丝抢位置打架",
+        "onboard_time": 1691211334,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584727,
+        "num": 584727,
+        "word": "逆水寒",
+        "onboard_time": 1691210199,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 563866,
+        "num": 563866,
+        "word": "暑假工25天挣三千多什么水平",
+        "onboard_time": 1691198375,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1145721,
+        "num": 556454,
+        "word": "王俊凯不完美小孩彩排路透",
+        "onboard_time": 1691209594,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 542266,
+        "num": 542266,
+        "word": "钱天一四冠王",
+        "onboard_time": 1691211996,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375824,
+        "num": 375824,
+        "word": "女孩租房开2小时空调用完100元电费",
+        "onboard_time": 1691190141,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767366,
+        "num": 375566,
+        "word": "TFBOYS专辑",
+        "onboard_time": 1691208456,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1781391,
+        "num": 375207,
+        "word": "杨紫回应外形质疑",
+        "onboard_time": 1691207436,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1380461,
+        "num": 374654,
+        "word": "难听",
+        "onboard_time": 1691205573,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1063293,
+        "num": 374271,
+        "word": "想当兵的体育生18岁成人礼却纹了大花臂",
+        "onboard_time": 1691209775,
+        "rank": 12,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 937550,
+        "num": 373833,
+        "word": "黄奕晒女儿夏令营行李箱",
+        "onboard_time": 1691208576,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598427,
+        "num": 373411,
+        "word": "TFBOYS彩排有花轿",
+        "onboard_time": 1691207495,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 409082,
+        "num": 373085,
+        "word": "潘玮柏被芯竹问为什么淘汰我",
+        "onboard_time": 1691204195,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441776,
+        "num": 372951,
+        "word": "TFBOYS十年纪念专辑配置",
+        "onboard_time": 1691212417,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379829,
+        "num": 372373,
+        "word": "家人扔掉收养的狗致女子被公司解雇",
+        "onboard_time": 1691211095,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372201,
+        "num": 372201,
+        "word": "退伍军人从2楼跳入洪水为救援队开门",
+        "onboard_time": 1691202573,
+        "rank": 18,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 307668,
+        "num": 307668,
+        "word": "专家称投降式睡姿弊大于利",
+        "onboard_time": 1691193510,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130893,
+        "num": 305476,
+        "word": "哇唧唧哇简介没看见肖战",
+        "onboard_time": 1691210134,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394304,
+        "num": 305398,
+        "word": "沈梦辰听到林允吐了的反应",
+        "onboard_time": 1691200595,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303190,
+        "num": 303190,
+        "word": "为什么越来越多年轻人选择单身",
+        "onboard_time": 1691194053,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256564,
+        "num": 256564,
+        "word": "原来台湾的语文课本长这样",
+        "onboard_time": 1691192668,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 240415,
+        "num": 240415,
+        "word": "媒体十二问涿州泄洪",
+        "onboard_time": 1691202573,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374689,
+        "num": 237421,
+        "word": "张大大也去看TFBOYS演唱会吗",
+        "onboard_time": 1691205276,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 370929,
+        "num": 233343,
+        "word": "姬发 伯邑考",
+        "onboard_time": 1691199395,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316381,
+        "num": 227987,
+        "word": "王俊凯易烊千玺牵手错位图",
+        "onboard_time": 1691192790,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289417,
+        "num": 226171,
+        "word": "相柳死前拿着送给小夭的大肚娃娃和箭",
+        "onboard_time": 1691206775,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223003,
+        "num": 223003,
+        "word": "爸爸涿州直升机救39人女儿夸很牛",
+        "onboard_time": 1691195013,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 329919,
+        "num": 223001,
+        "word": "娜然熟悉狐狸动作的参考图",
+        "onboard_time": 1691211934,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287917,
+        "num": 222998,
+        "word": "张晚意早期广告 妖娆表哥",
+        "onboard_time": 1691204133,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175162,
+        "num": 222995,
+        "word": "泄洪行洪蓄滞洪区都是啥意思",
+        "onboard_time": 1691207976,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161777,
+        "num": 222992,
+        "word": "Hero声明",
+        "onboard_time": 1691206296,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159334,
+        "num": 222990,
+        "word": "吉林舒兰强降雨已造成1死4失联",
+        "onboard_time": 1691211694,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249540,
+        "num": 222986,
+        "word": "唐恬是团粉吧",
+        "onboard_time": 1691205213,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243462,
+        "num": 222982,
+        "word": "王源演唱会个人solo路透",
+        "onboard_time": 1691204614,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225957,
+        "num": 222980,
+        "word": "女法医留遗言我死了你们接着解剖我",
+        "onboard_time": 1691196576,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146710,
+        "num": 222975,
+        "word": "收费员拒收5角纸币一把撕毁",
+        "onboard_time": 1691195614,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144384,
+        "num": 222973,
+        "word": "真的佩服夏天还坚持穿长裤的人",
+        "onboard_time": 1691199513,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 203779,
+        "num": 222972,
+        "word": "王俊凯王源易烊千玺小黑屋合集",
+        "onboard_time": 1691204313,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203225,
+        "num": 222969,
+        "word": "战至巅峰",
+        "onboard_time": 1691212475,
+        "rank": 41,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 191544,
+        "num": 222964,
+        "word": "叮叮叔演员去世",
+        "onboard_time": 1691191046,
+        "rank": 42,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 134764,
+        "num": 222959,
+        "word": "心理暗示 凡事发生必有利于我",
+        "onboard_time": 1691201495,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 182639,
+        "num": 222958,
+        "word": "杨幂向涿州灾区捐赠物资",
+        "onboard_time": 1691200955,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126147,
+        "num": 222955,
+        "word": "最值得去的40个国内旅行地",
+        "onboard_time": 1691210976,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 115145,
+        "num": 222953,
+        "word": "谷爱凌成都夜跑",
+        "onboard_time": 1691198616,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 94223,
+        "num": 222950,
+        "word": "河南近百亿灾后重建资金出问题",
+        "onboard_time": 1691190321,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93587,
+        "num": 222945,
+        "word": "商战现实版",
+        "onboard_time": 1691212356,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93404,
+        "num": 222943,
+        "word": "原神林尼",
+        "onboard_time": 1691212475,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养更多高素质技术技能人才#"
+    }
+  }
+}
