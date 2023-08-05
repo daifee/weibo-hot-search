@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691198332467,
+  "endTime": 1691199632366,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -43,7 +43,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1233523,
+      "raw_hot": 1569919,
       "num": 536316,
       "word": "金星说周迅才叫演员国际章只是个明星",
       "onboard_time": 1691196519,
@@ -97,6 +97,14 @@
       "onboard_time": 1691161378,
       "rank": 6,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 872839,
+      "num": 872839,
+      "word": "莲花楼 所有女孩的自救",
+      "onboard_time": 1691197655,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 863125,
@@ -155,7 +163,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 692041,
+      "raw_hot": 721699,
       "num": 359324,
       "word": "中国公民入境俄罗斯受阻",
       "onboard_time": 1691191166,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 671360,
-      "num": 358647,
+      "num": 409669,
       "word": "原来台湾的语文课本长这样",
       "onboard_time": 1691192668,
       "rank": 20,
@@ -211,12 +219,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 568567,
+      "num": 429206,
+      "word": "暑假工25天挣三千多什么水平",
+      "onboard_time": 1691198375,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 565775,
-      "num": 358561,
+      "num": 411341,
       "word": "周扬青穿比基尼",
       "onboard_time": 1691194173,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 540540,
+      "num": 540540,
+      "word": "杨紫工作室招募令",
+      "onboard_time": 1691195314,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 534210,
@@ -233,14 +257,6 @@
       "onboard_time": 1691162334,
       "rank": 14,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 530908,
-      "num": 530908,
-      "word": "杨紫工作室招募令",
-      "onboard_time": 1691195314,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 523979,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 466602,
-      "num": 358245,
+      "num": 408439,
       "word": "为什么越来越多年轻人选择单身",
       "onboard_time": 1691194053,
       "rank": 22,
@@ -297,14 +313,6 @@
       "onboard_time": 1691160655,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 446008,
-      "num": 446008,
-      "word": "莲花楼 所有女孩的自救",
-      "onboard_time": 1691197655,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 444242,
@@ -323,6 +331,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 432847,
+      "num": 408468,
+      "word": "TFBOYS粉丝已在体育场外守候",
+      "onboard_time": 1691198431,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 402406,
+      "num": 402406,
+      "word": "李现穿了17年穿过的短裤",
+      "onboard_time": 1691197055,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 382597,
       "num": 351291,
       "word": "鹿晗也要追异人之下",
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 376793,
-      "num": 255922,
+      "num": 290672,
       "word": "代购圈假货内幕揭秘",
       "onboard_time": 1691194354,
       "rank": 30,
@@ -371,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357567,
+      "num": 414808,
+      "word": "谷爱凌成都夜跑",
+      "onboard_time": 1691198616,
+      "rank": 17,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 353738,
       "num": 353738,
       "word": "那英 专治恋爱脑",
@@ -403,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336969,
-      "num": 336969,
-      "word": "李现穿了17年穿过的短裤",
-      "onboard_time": 1691197055,
-      "rank": 26,
-      "category": "作品衍生,时尚"
+      "raw_hot": 335167,
+      "num": 402915,
+      "word": "收费员拒收5角纸币一把撕毁",
+      "onboard_time": 1691195614,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330548,
@@ -417,14 +449,6 @@
       "onboard_time": 1691164306,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 317538,
-      "num": 317538,
-      "word": "收费员拒收5角纸币一把撕毁",
-      "onboard_time": 1691195614,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315057,
@@ -449,6 +473,22 @@
       "onboard_time": 1691160963,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302915,
+      "num": 302915,
+      "word": "园润教花花的躲雨方法是对的",
+      "onboard_time": 1691195494,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 291573,
+      "num": 291573,
+      "word": "吉林舒兰灾情",
+      "onboard_time": 1691198072,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291169,
@@ -481,14 +521,6 @@
       "onboard_time": 1691158001,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275103,
-      "num": 275103,
-      "word": "园润教花花的躲雨方法是对的",
-      "onboard_time": 1691195494,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 274471,
@@ -539,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247202,
+      "num": 247202,
+      "word": "贾乃亮六万斤大米驰援灾区",
+      "onboard_time": 1691199035,
+      "rank": 33,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 245907,
       "num": 245907,
       "word": "大运会男篮中国战胜日本",
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 225856,
-      "num": 358907,
+      "num": 412511,
       "word": "起猛了我的小床睡过大英雄",
       "onboard_time": 1691190321,
       "rank": 32,
@@ -635,12 +675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212787,
-      "num": 212787,
-      "word": "吉林舒兰灾情",
-      "onboard_time": 1691198072,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 212789,
+      "num": 212789,
+      "word": "毛球说相柳又要夸我了",
+      "onboard_time": 1691197595,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 211881,
@@ -657,14 +697,6 @@
       "onboard_time": 1691181913,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204668,
-      "num": 204668,
-      "word": "毛球说相柳又要夸我了",
-      "onboard_time": 1691197595,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 200143,
@@ -707,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194506,
+      "num": 194506,
+      "word": "姬发 伯邑考",
+      "onboard_time": 1691199395,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192019,
       "num": 192019,
       "word": "被妈妈发现追星库后进行PPT发言",
@@ -721,6 +761,14 @@
       "onboard_time": 1691164840,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 188700,
+      "num": 188700,
+      "word": "狗狗抓住树枝求生被救援人员发现",
+      "onboard_time": 1691198134,
+      "rank": 47,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 188074,
@@ -739,12 +787,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181057,
+      "num": 181057,
+      "word": "杨紫檀健次小学生对话",
+      "onboard_time": 1691199453,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178531,
       "num": 178531,
       "word": "石家庄",
       "onboard_time": 1691191766,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177919,
+      "num": 177919,
+      "word": "真的佩服夏天还坚持穿长裤的人",
+      "onboard_time": 1691199513,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 177304,
@@ -761,14 +825,6 @@
       "onboard_time": 1691194654,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 164438,
-      "num": 164438,
-      "word": "狗狗抓住树枝求生被救援人员发现",
-      "onboard_time": 1691198134,
-      "rank": 47,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 132109,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1691199632366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1923291,
+        "num": 1923291,
+        "word": "女孩租房开2小时空调用完100元电费",
+        "onboard_time": 1691190141,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1590102,
+        "num": 1590102,
+        "word": "专家称投降式睡姿弊大于利",
+        "onboard_time": 1691193510,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49809,
+        "num": 1528281,
+        "word": "英雄就是我们身边的平凡人",
+        "onboard_time": 1691159021,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1481156,
+        "num": 1481156,
+        "word": "羽生结弦老婆",
+        "onboard_time": 1691161436,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 872839,
+        "num": 872839,
+        "word": "莲花楼 所有女孩的自救",
+        "onboard_time": 1691197655,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 749380,
+        "num": 749380,
+        "word": "女法医留遗言我死了你们接着解剖我",
+        "onboard_time": 1691196576,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 859712,
+        "num": 716834,
+        "word": "河南近百亿灾后重建资金出问题",
+        "onboard_time": 1691190321,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637352,
+        "num": 637352,
+        "word": "马立奥四岁父母仍在暧昧期",
+        "onboard_time": 1691193811,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540540,
+        "num": 540540,
+        "word": "杨紫工作室招募令",
+        "onboard_time": 1691195314,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494508,
+        "num": 494508,
+        "word": "叮叮叔演员去世",
+        "onboard_time": 1691191046,
+        "rank": 9,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 1569919,
+        "num": 490195,
+        "word": "金星说周迅才叫演员国际章只是个明星",
+        "onboard_time": 1691196519,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905988,
+        "num": 462532,
+        "word": "王俊凯易烊千玺牵手错位图",
+        "onboard_time": 1691192790,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586988,
+        "num": 449648,
+        "word": "TFBOYS合体路透",
+        "onboard_time": 1691192728,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568567,
+        "num": 429206,
+        "word": "暑假工25天挣三千多什么水平",
+        "onboard_time": 1691198375,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 417369,
+        "num": 417369,
+        "word": "羽生结弦宣布结婚",
+        "onboard_time": 1691159319,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 477338,
+        "num": 417033,
+        "word": "刘宪华急到用三种语言抢人",
+        "onboard_time": 1691195854,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456182,
+        "num": 416058,
+        "word": "苏妲己 白月光",
+        "onboard_time": 1691193210,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357567,
+        "num": 414808,
+        "word": "谷爱凌成都夜跑",
+        "onboard_time": 1691198616,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 306972,
+        "num": 413686,
+        "word": "黑龙江尚志九江村整村失联",
+        "onboard_time": 1691161675,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200574,
+        "num": 412511,
+        "word": "起猛了我的小床睡过大英雄",
+        "onboard_time": 1691190321,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505189,
+        "num": 411341,
+        "word": "周扬青穿比基尼",
+        "onboard_time": 1691194173,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 487113,
+        "num": 409669,
+        "word": "原来台湾的语文课本长这样",
+        "onboard_time": 1691192668,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 432847,
+        "num": 408468,
+        "word": "TFBOYS粉丝已在体育场外守候",
+        "onboard_time": 1691198431,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408439,
+        "num": 408439,
+        "word": "为什么越来越多年轻人选择单身",
+        "onboard_time": 1691194053,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335167,
+        "num": 402915,
+        "word": "收费员拒收5角纸币一把撕毁",
+        "onboard_time": 1691195614,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402406,
+        "num": 402406,
+        "word": "李现穿了17年穿过的短裤",
+        "onboard_time": 1691197055,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 361910,
+        "num": 361910,
+        "word": "原著里夭柳有同床共枕",
+        "onboard_time": 1691194531,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302915,
+        "num": 302915,
+        "word": "园润教花花的躲雨方法是对的",
+        "onboard_time": 1691195494,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300888,
+        "num": 300888,
+        "word": "西安警方通报奥体中心体育场歌迷打架",
+        "onboard_time": 1691160600,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 291573,
+        "num": 291573,
+        "word": "吉林舒兰灾情",
+        "onboard_time": 1691198072,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294733,
+        "num": 290672,
+        "word": "代购圈假货内幕揭秘",
+        "onboard_time": 1691194354,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286050,
+        "num": 286050,
+        "word": "张踩铃婆婆",
+        "onboard_time": 1691162633,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721699,
+        "num": 285211,
+        "word": "中国公民入境俄罗斯受阻",
+        "onboard_time": 1691191166,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 247202,
+        "num": 247202,
+        "word": "贾乃亮六万斤大米驰援灾区",
+        "onboard_time": 1691199035,
+        "rank": 33,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 234675,
+        "num": 234675,
+        "word": "早晨起床不要空腹喝酸奶",
+        "onboard_time": 1691192426,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223945,
+        "num": 223945,
+        "word": "爸爸涿州直升机救39人女儿夸很牛",
+        "onboard_time": 1691195013,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 217970,
+        "num": 217970,
+        "word": "宋昕冉 御三家",
+        "onboard_time": 1691191706,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212789,
+        "num": 212789,
+        "word": "毛球说相柳又要夸我了",
+        "onboard_time": 1691197595,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200411,
+        "num": 200411,
+        "word": "大运会男篮中国战胜日本",
+        "onboard_time": 1691196395,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197734,
+        "num": 197734,
+        "word": "大熊猫被奶爸揪耳朵气得翻白眼",
+        "onboard_time": 1691190141,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195890,
+        "num": 195890,
+        "word": "深圳这位全网最不自信老板火了",
+        "onboard_time": 1691194830,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194854,
+        "num": 194854,
+        "word": "韩国人就差身份证上写mbti了",
+        "onboard_time": 1691155658,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194506,
+        "num": 194506,
+        "word": "姬发 伯邑考",
+        "onboard_time": 1691199395,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188700,
+        "num": 188700,
+        "word": "狗狗抓住树枝求生被救援人员发现",
+        "onboard_time": 1691198134,
+        "rank": 43,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 186910,
+        "num": 186910,
+        "word": "学生问我的头像是荷兰猪吗",
+        "onboard_time": 1691195433,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181057,
+        "num": 181057,
+        "word": "杨紫檀健次小学生对话",
+        "onboard_time": 1691199453,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180485,
+        "num": 180485,
+        "word": "周深向河北灾区捐赠物资",
+        "onboard_time": 1691195373,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180101,
+        "num": 180101,
+        "word": "成毅 有打戏他是真自己上",
+        "onboard_time": 1691194955,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177919,
+        "num": 177919,
+        "word": "真的佩服夏天还坚持穿长裤的人",
+        "onboard_time": 1691199513,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 177303,
+        "num": 177303,
+        "word": "河北涿州灾区的明星捐款名单",
+        "onboard_time": 1691181913,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同舟共冀感谢有你#"
+    }
+  }
+}
