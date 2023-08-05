@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691203079749,
+  "endTime": 1691205377456,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -217,6 +217,14 @@
       "onboard_time": 1690932203,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2351587,
+      "num": 2351587,
+      "word": "为什么十年之约只能在西安办",
+      "onboard_time": 1691204195,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 2349974,
@@ -2067,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829505,
+      "num": 829505,
+      "word": "姬发 伯邑考",
+      "onboard_time": 1691199395,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 826806,
       "num": 826806,
       "word": "黑龙江暴雨",
@@ -2081,14 +2097,6 @@
       "onboard_time": 1691019570,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 822149,
-      "num": 822149,
-      "word": "姬发 伯邑考",
-      "onboard_time": 1691199395,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 820835,
@@ -2659,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 714434,
+      "num": 616182,
+      "word": "明天见歌词",
+      "onboard_time": 1691202935,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 713909,
       "num": 713909,
       "word": "梅西",
@@ -2673,6 +2689,14 @@
       "onboard_time": 1690956274,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 711742,
+      "num": 601437,
+      "word": "王源演唱会个人solo路透",
+      "onboard_time": 1691204614,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 709190,
@@ -3043,6 +3067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 645991,
+      "num": 645991,
+      "word": "退伍军人从2楼跳入洪水为救援队开门",
+      "onboard_time": 1691202573,
+      "rank": 19,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 645658,
       "num": 518696,
       "word": "黄子韬说只有鹿晗能让我取消行程",
@@ -3225,6 +3257,14 @@
       "onboard_time": 1691139573,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 614684,
+      "num": 297115,
+      "word": "潘玮柏被芯竹问为什么淘汰我",
+      "onboard_time": 1691204195,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 614426,
@@ -3979,6 +4019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 531734,
+      "num": 222258,
+      "word": "你好星期六真迪甜开业",
+      "onboard_time": 1691203115,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529336,
       "num": 529336,
       "word": "原来生命真的会自己找到出路",
@@ -4291,6 +4339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495380,
+      "num": 220134,
+      "word": "张晚意早期广告 妖娆表哥",
+      "onboard_time": 1691204133,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495211,
       "num": 402406,
       "word": "李现穿了17年穿过的短裤",
@@ -4601,6 +4657,14 @@
       "onboard_time": 1691033437,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 461104,
+      "num": 219735,
+      "word": "王俊凯王源易烊千玺小黑屋合集",
+      "onboard_time": 1691204313,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 461038,
@@ -5393,6 +5457,14 @@
       "onboard_time": 1691051255,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 395713,
+      "num": 209700,
+      "word": "迪丽热巴龚俊复古风大片",
+      "onboard_time": 1691204494,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 395667,
@@ -6867,6 +6939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 291387,
+      "num": 291387,
+      "word": "媒体十二问涿州泄洪",
+      "onboard_time": 1691202573,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291215,
       "num": 291215,
       "word": "玖瑶和玱玹是情侣名",
@@ -6905,6 +6985,14 @@
       "onboard_time": 1690966234,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289469,
+      "num": 207846,
+      "word": "张大大也去看TFBOYS演唱会吗",
+      "onboard_time": 1691205276,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 289331,
@@ -6953,14 +7041,6 @@
       "onboard_time": 1691044357,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287747,
-      "num": 241492,
-      "word": "明天见歌词",
-      "onboard_time": 1691202935,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 287679,
@@ -7539,6 +7619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255318,
+      "num": 207789,
+      "word": "唐恬是团粉吧",
+      "onboard_time": 1691205213,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 255275,
       "num": 255275,
       "word": "张学友演唱会",
@@ -7929,6 +8017,14 @@
       "onboard_time": 1690977515,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240413,
+      "num": 218998,
+      "word": "心理暗示 凡事发生必有利于我",
+      "onboard_time": 1691201495,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 239587,
@@ -8419,6 +8515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220509,
+      "num": 220509,
+      "word": "黑龙江尚志继续停课停工停运",
+      "onboard_time": 1691203358,
+      "rank": 23,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 220181,
       "num": 220181,
       "word": "欧钰珊",
@@ -8779,14 +8883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208799,
-      "num": 270525,
-      "word": "退伍军人从2楼跳入洪水为救援队开门",
-      "onboard_time": 1691202573,
-      "rank": 19,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 208739,
       "num": 208739,
       "word": "心动6",
@@ -8857,14 +8953,6 @@
       "onboard_time": 1690978898,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 206928,
-      "num": 211376,
-      "word": "心理暗示 凡事发生必有利于我",
-      "onboard_time": 1691201495,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 206818,
@@ -10491,14 +10579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131049,
-      "num": 207809,
-      "word": "媒体十二问涿州泄洪",
-      "onboard_time": 1691202573,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130306,
       "num": 1532249,
       "word": "海河流域155座大中型水库全部投入防洪",
@@ -10537,6 +10617,14 @@
       "onboard_time": 1691055096,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125834,
+      "num": 207634,
+      "word": "我为涿州买本书",
+      "onboard_time": 1691203832,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123861,
