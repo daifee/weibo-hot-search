@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691244810124,
+  "endTime": 1691246016811,
   "band_list": [
     {
       "raw_hot": 9602069,
@@ -113,6 +113,14 @@
       "onboard_time": 1691222495,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1869888,
+      "num": 1869888,
+      "word": "安崎自曝出道后失业到现在",
+      "onboard_time": 1691244046,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1809012,
@@ -299,12 +307,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1100658,
+      "num": 834620,
+      "word": "孤注一掷",
+      "onboard_time": 1691245006,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1100385,
       "num": 1100385,
       "word": "TFBOYS专辑",
       "onboard_time": 1691208456,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1082272,
+      "num": 1082272,
+      "word": "JDG三连冠",
+      "onboard_time": 1691244469,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 1073806,
@@ -321,14 +345,6 @@
       "onboard_time": 1691214999,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1067567,
-      "num": 850403,
-      "word": "安崎自曝出道后失业到现在",
-      "onboard_time": 1691244046,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1062220,
@@ -435,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 957359,
+      "num": 599063,
+      "word": "封神海报妲己穿纣王衣服",
+      "onboard_time": 1691244406,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 937484,
       "num": 937484,
       "word": "涂山璟急得脚都好了",
@@ -513,6 +537,14 @@
       "onboard_time": 1691197655,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 893318,
+      "num": 893318,
+      "word": "JDG战胜LNG",
+      "onboard_time": 1691244169,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 889925,
@@ -603,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 828888,
+      "num": 532008,
+      "word": "爸爸好像忘记我已经结婚了",
+      "onboard_time": 1691245066,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 828084,
       "num": 828084,
       "word": "知名华人企业家在美国酒店身亡",
@@ -651,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 799056,
+      "num": 529371,
+      "word": "张艺兴染粉发",
+      "onboard_time": 1691244108,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 794658,
       "num": 794658,
       "word": "舒兰4名公职人员在组织群众转移中失联",
@@ -667,16 +715,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 767157,
-      "num": 767157,
-      "word": "JDG战胜LNG",
-      "onboard_time": 1691244169,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 764577,
-      "num": 428879,
+      "num": 505850,
       "word": "没有敖子逸",
       "onboard_time": 1691243083,
       "rank": 21,
@@ -700,7 +740,7 @@
     },
     {
       "raw_hot": 756734,
-      "num": 353939,
+      "num": 520180,
       "word": "同事劝我不要买杂牌口红",
       "onboard_time": 1691240446,
       "rank": 30,
@@ -764,7 +804,7 @@
     },
     {
       "raw_hot": 735243,
-      "num": 350052,
+      "num": 513901,
       "word": "时代峰峻回应时团没有代表作",
       "onboard_time": 1691243809,
       "rank": 25,
@@ -777,6 +817,14 @@
       "onboard_time": 1691226575,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 723896,
+      "num": 509122,
+      "word": "李飞能不能学学杜华",
+      "onboard_time": 1691245307,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 722659,
@@ -875,14 +923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 650635,
-      "num": 336423,
-      "word": "封神海报妲己穿纣王衣服",
-      "onboard_time": 1691244406,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 645991,
       "num": 645991,
       "word": "退伍军人从2楼跳入洪水为救援队开门",
@@ -915,14 +955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 635321,
-      "num": 349153,
-      "word": "张艺兴染粉发",
-      "onboard_time": 1691244108,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 629118,
       "num": 992458,
       "word": "大妈误会卖肉老板中暑为其刮痧10分钟",
@@ -940,7 +972,7 @@
     },
     {
       "raw_hot": 624440,
-      "num": 338301,
+      "num": 503252,
       "word": "田馥甄演唱会",
       "onboard_time": 1691242189,
       "rank": 40,
@@ -964,7 +996,7 @@
     },
     {
       "raw_hot": 597060,
-      "num": 334475,
+      "num": 501764,
       "word": "TF家族族草",
       "onboard_time": 1691243387,
       "rank": 31,
@@ -972,7 +1004,7 @@
     },
     {
       "raw_hot": 589297,
-      "num": 334255,
+      "num": 503999,
       "word": "李飞的审美",
       "onboard_time": 1691243809,
       "rank": 32,
@@ -1068,7 +1100,7 @@
     },
     {
       "raw_hot": 556358,
-      "num": 329263,
+      "num": 489393,
       "word": "安崎回应在男友店里带孩子传闻",
       "onboard_time": 1691244528,
       "rank": 36,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1691232515,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 541330,
-      "num": 541330,
-      "word": "JDG三连冠",
-      "onboard_time": 1691244469,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 540540,
@@ -1188,7 +1212,7 @@
     },
     {
       "raw_hot": 514369,
-      "num": 482452,
+      "num": 501926,
       "word": "房东给买了一个迷你冰箱",
       "onboard_time": 1691235698,
       "rank": 23,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1691195854,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 506893,
+      "num": 506893,
+      "word": "gala",
+      "onboard_time": 1691244347,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 503839,
@@ -1339,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 452289,
+      "num": 274604,
+      "word": "欧阳娜娜给宋亚轩续上警报",
+      "onboard_time": 1691242371,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449906,
       "num": 449906,
       "word": "媒体十二问涿州泄洪",
@@ -1419,14 +1459,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 394071,
-      "num": 220254,
-      "word": "欧阳娜娜给宋亚轩续上警报",
-      "onboard_time": 1691242371,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 393096,
       "num": 262754,
       "word": "贾乃亮六万斤大米驰援灾区",
@@ -1440,6 +1472,14 @@
       "word": "王一博回复黄渤谢谢渤哥",
       "onboard_time": 1691235098,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 388370,
+      "num": 274053,
+      "word": "李飞这个夏天赢麻了",
+      "onboard_time": 1691244825,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1609,14 +1649,6 @@
       "onboard_time": 1691240985,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 350228,
-      "num": 350228,
-      "word": "gala",
-      "onboard_time": 1691244347,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 345819,
@@ -2355,6 +2387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211533,
+      "num": 275268,
+      "word": "BLG锁定S13资格",
+      "onboard_time": 1691245546,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209680,
       "num": 209680,
       "word": "热烈结局 理想化",
@@ -2531,6 +2571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191687,
+      "num": 273837,
+      "word": "Knight获FMVP",
+      "onboard_time": 1691245966,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190072,
       "num": 195162,
       "word": "再看这种文案都不是感动了",
@@ -2579,11 +2627,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183756,
+      "num": 275036,
+      "word": "有时候开家长会真的挺无助的",
+      "onboard_time": 1691245667,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178531,
       "num": 178531,
       "word": "石家庄",
       "onboard_time": 1691191766,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177842,
+      "num": 2292217,
+      "word": "CCTV国家公园",
+      "onboard_time": 1691242846,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2601,14 +2665,6 @@
       "onboard_time": 1691231497,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174104,
-      "num": 2292217,
-      "word": "CCTV国家公园",
-      "onboard_time": 1691242846,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173598,
