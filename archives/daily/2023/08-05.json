@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691217228725,
+  "endTime": 1691219633885,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -33,6 +33,14 @@
       "onboard_time": 1691214094,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2469191,
+      "num": 491053,
+      "word": "具俊晔哭了",
+      "onboard_time": 1691217034,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2098669,
@@ -155,6 +163,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1073806,
+      "num": 1073806,
+      "word": "王俊凯唱连名带姓",
+      "onboard_time": 1691216496,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1070785,
+      "num": 494079,
+      "word": "男子婚内与外遇生女双双获刑",
+      "onboard_time": 1691214999,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051763,
       "num": 799858,
       "word": "王俊凯易烊千玺牵手错位图",
@@ -177,6 +201,14 @@
       "onboard_time": 1691145875,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 988468,
+      "num": 988468,
+      "word": "何超莲的沉默震耳欲聋",
+      "onboard_time": 1691216556,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 988303,
@@ -347,14 +379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 729322,
-      "num": 494079,
-      "word": "男子婚内与外遇生女双双获刑",
-      "onboard_time": 1691214999,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 722659,
       "num": 722659,
       "word": "马立奥四岁父母仍在暧昧期",
@@ -377,14 +401,6 @@
       "onboard_time": 1691202935,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 707779,
-      "num": 479960,
-      "word": "具俊晔哭了",
-      "onboard_time": 1691217034,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 671360,
@@ -435,6 +451,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 588163,
+      "num": 215555,
+      "word": "貌似没再和SM续约的少女时代Sunny",
+      "onboard_time": 1691218717,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587008,
       "num": 587008,
       "word": "终于等到长相思电动车名场面",
@@ -451,12 +475,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 570869,
-      "num": 283094,
-      "word": "何超莲的沉默震耳欲聋",
-      "onboard_time": 1691216556,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 578011,
+      "num": 578011,
+      "word": "内耗式恋爱",
+      "onboard_time": 1691217218,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 565775,
@@ -489,14 +513,6 @@
       "onboard_time": 1691204313,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 540881,
-      "num": 540881,
-      "word": "王俊凯唱连名带姓",
-      "onboard_time": 1691216496,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 540540,
@@ -571,12 +587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502849,
+      "num": 457832,
+      "word": "舒兰市一常务副市长在抗洪抢险中失联",
+      "onboard_time": 1691218415,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495211,
       "num": 402406,
       "word": "李现穿了17年穿过的短裤",
       "onboard_time": 1691197055,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 495189,
+      "num": 495189,
+      "word": "林俊杰亲自认证浪漫广西梗",
+      "onboard_time": 1691217515,
+      "rank": 9,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 482368,
@@ -811,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322200,
+      "num": 280845,
+      "word": "新手保护期结束了",
+      "onboard_time": 1691217875,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 320360,
       "num": 290969,
       "word": "七时吉祥无限流爱情副本",
@@ -836,7 +876,7 @@
     },
     {
       "raw_hot": 309932,
-      "num": 264966,
+      "num": 276702,
       "word": "小伙手腕上刺初恋分手后相亲次次告吹",
       "onboard_time": 1691215654,
       "rank": 34,
@@ -931,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273876,
+      "num": 273876,
+      "word": "毕雯珺回应新剧造型争议",
+      "onboard_time": 1691216556,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272348,
       "num": 216087,
       "word": "全麻醒来一直喊要见相柳",
@@ -961,6 +1009,14 @@
       "onboard_time": 1691185635,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260965,
+      "num": 212007,
+      "word": "刘涛黑白蕾丝庄园大片",
+      "onboard_time": 1691218778,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 256293,
@@ -1115,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217345,
+      "num": 217345,
+      "word": "eStar对战WB",
+      "onboard_time": 1691218834,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216041,
       "num": 216041,
       "word": "大运会",
@@ -1179,12 +1243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204824,
-      "num": 190396,
-      "word": "毕雯珺回应新剧造型争议",
-      "onboard_time": 1691216556,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 203366,
+      "num": 203366,
+      "word": "工作后突然觉得爸妈好厉害",
+      "onboard_time": 1691219196,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 200143,
@@ -1275,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185626,
+      "num": 185626,
+      "word": "你别哭解放军在这呢",
+      "onboard_time": 1691218415,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178531,
       "num": 178531,
       "word": "石家庄",
@@ -1355,6 +1427,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151996,
+      "num": 151996,
+      "word": "大爷用白洋淀景区游船当救援船",
+      "onboard_time": 1691219316,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149979,
+      "num": 149979,
+      "word": "大运会周恺男单金牌",
+      "onboard_time": 1691218834,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132109,
       "num": 132109,
       "word": "檀健次说相柳不需要续集",
@@ -1425,14 +1513,6 @@
       "onboard_time": 1691207495,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111508,
-      "num": 190314,
-      "word": "内耗式恋爱",
-      "onboard_time": 1691217218,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 111370,
