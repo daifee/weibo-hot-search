@@ -1,0 +1,410 @@
+{
+  "runTime": 1691231633122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1230179,
+        "num": 1230179,
+        "word": "小杨哥回应捐款2000万为抵税",
+        "onboard_time": 1691214094,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 884823,
+        "num": 884823,
+        "word": "王传君戏份",
+        "onboard_time": 1691226575,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32827,
+        "num": 884280,
+        "word": "断崖旁消防员用身躯做人墙保护孩子",
+        "onboard_time": 1691159079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549976,
+        "num": 870174,
+        "word": "大妈误会卖肉老板中暑为其刮痧10分钟",
+        "onboard_time": 1691224536,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631047,
+        "num": 861426,
+        "word": "400斤男子离世前这个举动令人泪目",
+        "onboard_time": 1691225198,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1909425,
+        "num": 850237,
+        "word": "TFBOYS夹起来了",
+        "onboard_time": 1691222495,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231265,
+        "num": 841649,
+        "word": "K396乘客哭着感谢落坡岭居民",
+        "onboard_time": 1691221897,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832143,
+        "num": 832143,
+        "word": "吴倩婚恋观",
+        "onboard_time": 1691223816,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 773847,
+        "num": 773847,
+        "word": "票没有但人已经在西安了",
+        "onboard_time": 1691227176,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 762606,
+        "num": 762606,
+        "word": "时代峰峻是要在TFBOYS演唱会团建吗",
+        "onboard_time": 1691228377,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1374238,
+        "num": 758622,
+        "word": "魏大勋乌木沉香",
+        "onboard_time": 1691227535,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1339010,
+        "num": 755108,
+        "word": "舒兰村民发现一具遗体",
+        "onboard_time": 1691228614,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860291,
+        "num": 748896,
+        "word": "具俊晔哭了",
+        "onboard_time": 1691217034,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 727153,
+        "num": 727153,
+        "word": "保定因灾死亡10人失联18人",
+        "onboard_time": 1691227118,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726991,
+        "num": 726991,
+        "word": "涂山璟急得脚都好了",
+        "onboard_time": 1691230597,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 714633,
+        "num": 714633,
+        "word": "王俊凯王源易烊千玺不热吗",
+        "onboard_time": 1691223216,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 612948,
+        "num": 612948,
+        "word": "孤注一掷 诈骗电影玩纯爱",
+        "onboard_time": 1691226575,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 590589,
+        "num": 590589,
+        "word": "保定因灾直接经济损失169.95亿元",
+        "onboard_time": 1691227716,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597517,
+        "num": 517691,
+        "word": "电影孤注一掷",
+        "onboard_time": 1691220399,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413450,
+        "num": 413450,
+        "word": "3岁娃人工耳蜗被高铁乘客刮掉",
+        "onboard_time": 1691222434,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597325,
+        "num": 396969,
+        "word": "张艺凡去看TFBOYS演唱会",
+        "onboard_time": 1691222735,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354507,
+        "num": 354507,
+        "word": "西安下雨",
+        "onboard_time": 1691229635,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284250,
+        "num": 284250,
+        "word": "想当兵的体育生18岁成人礼却纹了大花臂",
+        "onboard_time": 1691209775,
+        "rank": 22,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 269374,
+        "num": 269374,
+        "word": "男子一天8瓶可乐瘦70斤被送医抢救",
+        "onboard_time": 1691225378,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267044,
+        "num": 267044,
+        "word": "妻子误拿302胶水当眼药水给丈夫",
+        "onboard_time": 1691224175,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545750,
+        "num": 266749,
+        "word": "七时吉祥",
+        "onboard_time": 1691230835,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500114,
+        "num": 266658,
+        "word": "赵丽颖的心态",
+        "onboard_time": 1691230357,
+        "rank": 26,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 480472,
+        "num": 266414,
+        "word": "吴倩另一半长得帅很重要",
+        "onboard_time": 1691229698,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367747,
+        "num": 266010,
+        "word": "越考古越喜欢的明星",
+        "onboard_time": 1691231138,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265805,
+        "num": 265805,
+        "word": "霉霉拥抱科比小女儿",
+        "onboard_time": 1691224594,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 335421,
+        "num": 260040,
+        "word": "能理解为什么涂山璟是官配了",
+        "onboard_time": 1691230955,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311912,
+        "num": 257390,
+        "word": "胡夏是不是谈恋爱了",
+        "onboard_time": 1691225498,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251688,
+        "num": 251688,
+        "word": "租客把房东花上百万装修的房子拆了",
+        "onboard_time": 1691223458,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223061,
+        "num": 223061,
+        "word": "JDG对战LNG",
+        "onboard_time": 1691227958,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222144,
+        "num": 222144,
+        "word": "约会时女生主动买单",
+        "onboard_time": 1691231015,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 299931,
+        "num": 221965,
+        "word": "王俊凯王源易烊千玺新歌字数统计",
+        "onboard_time": 1691228793,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291663,
+        "num": 221474,
+        "word": "孙艺珍说拜托我家新郎给我拍的",
+        "onboard_time": 1691223458,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289473,
+        "num": 221470,
+        "word": "李玟老公回应质疑",
+        "onboard_time": 1691231433,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220840,
+        "num": 220840,
+        "word": "奶奶给的爱真的很拿出手",
+        "onboard_time": 1691231256,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204855,
+        "num": 220840,
+        "word": "朋友第一次收卡的时候",
+        "onboard_time": 1691229937,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 272481,
+        "num": 220761,
+        "word": "TFBOYS演唱会西安公交开3条免费摆渡线路",
+        "onboard_time": 1691228377,
+        "rank": 40,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 265720,
+        "num": 220622,
+        "word": "JYP选秀正脸公开",
+        "onboard_time": 1691225736,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249011,
+        "num": 220588,
+        "word": "林一翻跳ENHYPEN的biteme",
+        "onboard_time": 1691226874,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242134,
+        "num": 220483,
+        "word": "曾黎造型",
+        "onboard_time": 1691226036,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195479,
+        "num": 220419,
+        "word": "大理双廊古镇",
+        "onboard_time": 1691228614,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 239763,
+        "num": 220380,
+        "word": "孤注一掷有孙阳",
+        "onboard_time": 1691231616,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176471,
+        "num": 220307,
+        "word": "Hero对战KSG",
+        "onboard_time": 1691231497,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155957,
+        "num": 220170,
+        "word": "工作后突然觉得爸妈好厉害",
+        "onboard_time": 1691219196,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154664,
+        "num": 220095,
+        "word": "日本女足vs挪威女足",
+        "onboard_time": 1691229820,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151514,
+        "num": 220014,
+        "word": "幼年小豪猪吃播",
+        "onboard_time": 1691230597,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会有哪些黑科技#"
+    }
+  }
+}
