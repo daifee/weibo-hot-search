@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691271233382,
+  "endTime": 1691273670609,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -7203,6 +7203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367857,
+      "num": 367857,
+      "word": "救援队员返乡后哭诉再也不想参与",
+      "onboard_time": 1691253094,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367747,
       "num": 266010,
       "word": "越考古越喜欢的明星",
@@ -8465,14 +8473,6 @@
       "onboard_time": 1691148573,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297135,
-      "num": 297135,
-      "word": "救援队员返乡后哭诉再也不想参与",
-      "onboard_time": 1691253094,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296659,
@@ -13115,6 +13115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100340,
+      "num": 100340,
+      "word": "洪水冲来2条狗女子领回精心饲养",
+      "onboard_time": 1691266758,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99965,
       "num": 99965,
       "word": "小夭终于在大荒落户了",
@@ -13291,14 +13299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84376,
-      "num": 84376,
-      "word": "洪水冲来2条狗女子领回精心饲养",
-      "onboard_time": 1691266758,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83506,
       "num": 749773,
       "word": "这种长着眼睛的子弹是反恐利器",
@@ -13328,6 +13328,14 @@
       "word": "田曦薇齐刘海卷发",
       "onboard_time": 1691084778,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78950,
+      "num": 78950,
+      "word": "金龟子王宁设宴庆结婚35周年",
+      "onboard_time": 1691259558,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -13371,12 +13379,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 60372,
-      "num": 60372,
-      "word": "金龟子王宁设宴庆结婚35周年",
-      "onboard_time": 1691259558,
-      "rank": 44,
+      "raw_hot": 59591,
+      "num": 59591,
+      "word": "曾追过最久的明星",
+      "onboard_time": 1691270776,
+      "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59054,
+      "num": 59054,
+      "word": "TFBOYS歌迷提前24小时场外守候",
+      "onboard_time": 1691267298,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 57920,
@@ -13401,6 +13417,14 @@
       "onboard_time": 1690895137,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53501,
+      "num": 53501,
+      "word": "今晚好多天后开演唱会",
+      "onboard_time": 1691272997,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 53366,
@@ -13457,22 +13481,6 @@
       "onboard_time": 1690915694,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 42737,
-      "num": 42737,
-      "word": "TFBOYS歌迷提前24小时场外守候",
-      "onboard_time": 1691267298,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 42450,
-      "num": 42450,
-      "word": "曾追过最久的明星",
-      "onboard_time": 1691270776,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 42292,
