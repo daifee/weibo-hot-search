@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691216391227,
+  "endTime": 1691217228725,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2697309,
+      "num": 2697309,
+      "word": "小杨哥回应捐款2000万为抵税",
+      "onboard_time": 1691214094,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2605619,
       "num": 2605619,
       "word": "顺丰通报38万元劳力士手表遗失事件进展",
@@ -185,14 +193,6 @@
       "onboard_time": 1691051077,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2549327,
-      "num": 2549327,
-      "word": "小杨哥回应捐款2000万为抵税",
-      "onboard_time": 1691214094,
-      "rank": 0,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2540288,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 1781391,
-      "num": 475270,
+      "num": 495291,
       "word": "杨紫回应外形质疑",
       "onboard_time": 1691207436,
       "rank": 12,
@@ -2675,6 +2675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729322,
+      "num": 494079,
+      "word": "男子婚内与外遇生女双双获刑",
+      "onboard_time": 1691214999,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728059,
       "num": 728059,
       "word": "嫁人当嫁肖春生",
@@ -2825,6 +2833,14 @@
       "onboard_time": 1690880192,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 707779,
+      "num": 479960,
+      "word": "具俊晔哭了",
+      "onboard_time": 1691217034,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 706020,
@@ -3787,6 +3803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 570869,
+      "num": 283094,
+      "word": "何超莲的沉默震耳欲聋",
+      "onboard_time": 1691216556,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 570736,
       "num": 452489,
       "word": "徐梦洁被吴镇宇凶哭了",
@@ -4057,6 +4081,14 @@
       "onboard_time": 1691037882,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 540881,
+      "num": 540881,
+      "word": "王俊凯唱连名带姓",
+      "onboard_time": 1691216496,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 540540,
@@ -4425,14 +4457,6 @@
       "onboard_time": 1690959574,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 501409,
-      "num": 291651,
-      "word": "男子婚内与外遇生女双双获刑",
-      "onboard_time": 1691214999,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501250,
@@ -5523,6 +5547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 407123,
+      "num": 407123,
+      "word": "新华网评价巨齿鲨2",
+      "onboard_time": 1691214696,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406870,
       "num": 362483,
       "word": "e人和i人聊天的区别",
@@ -5665,14 +5697,6 @@
       "onboard_time": 1691145215,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 393249,
-      "num": 357335,
-      "word": "新华网评价巨齿鲨2",
-      "onboard_time": 1691214696,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 393096,
@@ -5881,6 +5905,14 @@
       "onboard_time": 1691065416,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377016,
+      "num": 377016,
+      "word": "川籍艺人用四川话为成都大运会打call",
+      "onboard_time": 1691214816,
+      "rank": 14,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 376793,
@@ -6105,14 +6137,6 @@
       "onboard_time": 1691192426,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 357905,
-      "num": 357905,
-      "word": "川籍艺人用四川话为成都大运会打call",
-      "onboard_time": 1691214816,
-      "rank": 14,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 356266,
@@ -6785,6 +6809,14 @@
       "onboard_time": 1691026358,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309932,
+      "num": 264966,
+      "word": "小伙手腕上刺初恋分手后相亲次次告吹",
+      "onboard_time": 1691215654,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 309888,
@@ -7625,6 +7657,14 @@
       "onboard_time": 1691034581,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 265896,
+      "num": 265896,
+      "word": "周深演唱会",
+      "onboard_time": 1691216014,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 265835,
@@ -8779,14 +8819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218623,
-      "num": 214300,
-      "word": "小伙手腕上刺初恋分手后相亲次次告吹",
-      "onboard_time": 1691215654,
-      "rank": 34,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 218563,
       "num": 218563,
       "word": "周深向河北灾区捐赠物资",
@@ -9187,14 +9219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207013,
-      "num": 207013,
-      "word": "周深演唱会",
-      "onboard_time": 1691216014,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 206972,
       "num": 206972,
       "word": "80后外卖员自学乐器3年上20次综艺",
@@ -9251,6 +9275,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 205826,
+      "num": 280092,
+      "word": "王嘉尔开空投",
+      "onboard_time": 1691215833,
+      "rank": 37,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 205656,
       "num": 205656,
       "word": "热烈 彪彪",
@@ -9289,6 +9321,14 @@
       "onboard_time": 1691181913,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204824,
+      "num": 190396,
+      "word": "毕雯珺回应新剧造型争议",
+      "onboard_time": 1691216556,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 204789,
@@ -10347,6 +10387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169105,
+      "num": 190350,
+      "word": "全员加速中卧底剧透",
+      "onboard_time": 1691216616,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168958,
       "num": 198733,
       "word": "seventeen沉浸式护肤",
@@ -10843,14 +10891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133785,
-      "num": 207002,
-      "word": "王嘉尔开空投",
-      "onboard_time": 1691215833,
-      "rank": 37,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 132109,
       "num": 132109,
       "word": "檀健次说相柳不需要续集",
@@ -11080,6 +11120,22 @@
       "word": "北京各区蓝天救援队电话汇总",
       "onboard_time": 1690812036,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111508,
+      "num": 190314,
+      "word": "内耗式恋爱",
+      "onboard_time": 1691217218,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 111370,
+      "num": 190308,
+      "word": "这一刻榜样的种子已种在心里",
+      "onboard_time": 1691216434,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
