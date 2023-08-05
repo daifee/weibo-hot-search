@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691231633122,
+  "endTime": 1691233948815,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1703303,
+      "num": 818869,
+      "word": "舒兰村民发现一具遗体",
+      "onboard_time": 1691228614,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1587150,
       "num": 699154,
       "word": "西安警方通报奥体中心体育场歌迷打架",
@@ -129,14 +137,6 @@
       "onboard_time": 1691207495,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1339010,
-      "num": 818869,
-      "word": "舒兰村民发现一具遗体",
-      "onboard_time": 1691228614,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1331623,
@@ -363,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 892889,
+      "num": 892889,
+      "word": "涂山璟急得脚都好了",
+      "onboard_time": 1691230597,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 889925,
       "num": 889925,
       "word": "潘玮柏被芯竹问为什么淘汰我",
@@ -547,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 726991,
-      "num": 726991,
-      "word": "涂山璟急得脚都好了",
-      "onboard_time": 1691230597,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 722659,
       "num": 722659,
       "word": "马立奥四岁父母仍在暧昧期",
@@ -585,6 +585,14 @@
       "onboard_time": 1691202935,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 678473,
+      "num": 360273,
+      "word": "王一博26岁主演票房破26亿",
+      "onboard_time": 1691231794,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 678426,
@@ -659,6 +667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 606498,
+      "num": 303871,
+      "word": "榴莲披萨震惊韩国网友",
+      "onboard_time": 1691232515,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 588690,
       "num": 537050,
       "word": "叮叮叔演员去世",
@@ -675,12 +691,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 585471,
+      "num": 336556,
+      "word": "七时吉祥",
+      "onboard_time": 1691230835,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 584727,
       "num": 584727,
       "word": "逆水寒",
       "onboard_time": 1691210199,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 579584,
+      "num": 299090,
+      "word": "金晨演技",
+      "onboard_time": 1691232156,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 565775,
@@ -707,20 +739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 554817,
+      "num": 294524,
+      "word": "吴倩另一半长得帅很重要",
+      "onboard_time": 1691229698,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549394,
       "num": 428874,
       "word": "王俊凯王源易烊千玺小黑屋合集",
       "onboard_time": 1691204313,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 545750,
-      "num": 266749,
-      "word": "七时吉祥",
-      "onboard_time": 1691230835,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 540540,
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 500114,
-      "num": 266658,
+      "num": 281966,
       "word": "赵丽颖的心态",
       "onboard_time": 1691230357,
       "rank": 45,
@@ -865,14 +897,6 @@
       "onboard_time": 1691211934,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 480472,
-      "num": 283940,
-      "word": "吴倩另一半长得帅很重要",
-      "onboard_time": 1691229698,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 477020,
@@ -995,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385759,
+      "num": 385759,
+      "word": "西安下雨",
+      "onboard_time": 1691229635,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382597,
       "num": 351291,
       "word": "鹿晗也要追异人之下",
@@ -1051,6 +1083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 370597,
+      "num": 270615,
+      "word": "长相思",
+      "onboard_time": 1691233596,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368303,
       "num": 368303,
       "word": "韩国首尔接连出现杀人预告",
@@ -1083,6 +1123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 362057,
+      "num": 265743,
+      "word": "迪丽热巴龚俊安乐传大结局预告",
+      "onboard_time": 1691232334,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357931,
       "num": 357931,
       "word": "早晨起床不要空腹喝酸奶",
@@ -1091,20 +1139,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 354507,
-      "num": 354507,
-      "word": "西安下雨",
-      "onboard_time": 1691229635,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353738,
       "num": 353738,
       "word": "那英 专治恋爱脑",
       "onboard_time": 1691155598,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 351525,
+      "num": 261638,
+      "word": "李玟老公回应质疑",
+      "onboard_time": 1691231433,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 345819,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1691154159,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 342389,
+      "num": 260168,
+      "word": "忘了相柳没钱了",
+      "onboard_time": 1691231913,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 340525,
@@ -1179,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327738,
+      "num": 292305,
+      "word": "约会时女生主动买单",
+      "onboard_time": 1691231015,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 326986,
       "num": 297916,
       "word": "工作后突然觉得爸妈好厉害",
@@ -1203,6 +1267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321464,
+      "num": 235892,
+      "word": "邓为上班好多人拍",
+      "onboard_time": 1691233536,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 320360,
       "num": 290969,
       "word": "七时吉祥无限流爱情副本",
@@ -1225,6 +1297,14 @@
       "onboard_time": 1691225378,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316750,
+      "num": 235527,
+      "word": "时代少年团或全员去看TFBOYS演唱会",
+      "onboard_time": 1691232515,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 315161,
@@ -1289,6 +1369,14 @@
       "onboard_time": 1691221957,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307139,
+      "num": 234560,
+      "word": "全员加速中",
+      "onboard_time": 1691233357,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 304148,
@@ -1379,14 +1467,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 289473,
-      "num": 221470,
-      "word": "李玟老公回应质疑",
-      "onboard_time": 1691231433,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288610,
       "num": 288610,
       "word": "文春不行啊",
@@ -1443,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273567,
+      "num": 273567,
+      "word": "茶颜悦色不支持点单取单两人同时排队",
+      "onboard_time": 1691233715,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272481,
       "num": 220761,
       "word": "TFBOYS演唱会西安公交开3条免费摆渡线路",
@@ -1489,6 +1577,22 @@
       "onboard_time": 1691185635,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260329,
+      "num": 260329,
+      "word": "饭后喝酸奶真的能促进消化吗",
+      "onboard_time": 1691232755,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 259553,
+      "num": 259553,
+      "word": "我的小猫请你的小猫",
+      "onboard_time": 1691231857,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 256293,
@@ -1563,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236629,
+      "num": 236629,
+      "word": "成都的外国游客人均J人吧",
+      "onboard_time": 1691233055,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 236123,
       "num": 219963,
       "word": "金晨深V开叉裙",
@@ -1617,14 +1729,6 @@
       "onboard_time": 1691194955,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222144,
-      "num": 222144,
-      "word": "约会时女生主动买单",
-      "onboard_time": 1691231015,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 220840,
@@ -1716,7 +1820,7 @@
     },
     {
       "raw_hot": 214204,
-      "num": 220419,
+      "num": 224047,
       "word": "大理双廊古镇",
       "onboard_time": 1691228614,
       "rank": 34,
@@ -2060,7 +2164,7 @@
     },
     {
       "raw_hot": 151514,
-      "num": 220014,
+      "num": 223081,
       "word": "幼年小豪猪吃播",
       "onboard_time": 1691230597,
       "rank": 49,
@@ -2281,6 +2385,14 @@
       "onboard_time": 1691177355,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18166,
+      "num": 358575,
+      "word": "试飞员4个字描述新型战机发动机",
+      "onboard_time": 1691233296,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
