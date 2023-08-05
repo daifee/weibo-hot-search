@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691252388884,
+  "endTime": 1691253254539,
   "band_list": [
     {
       "raw_hot": 1661719,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 730527,
-      "num": 730527,
+      "raw_hot": 764077,
+      "num": 764077,
       "word": "她们干了我小时候想干不敢干的事",
       "onboard_time": 1691247883,
       "rank": 7,
@@ -65,6 +65,14 @@
       "onboard_time": 1691248546,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 693959,
+      "num": 532357,
+      "word": "大张伟 所有的快乐和悲伤都是因为人际关系",
+      "onboard_time": 1691251419,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 597411,
@@ -107,6 +115,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 560618,
+      "num": 560618,
+      "word": "路飞五档",
+      "onboard_time": 1691249920,
+      "rank": 13,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 535802,
+      "num": 548393,
+      "word": "当地回应网传吉林舒兰一副市长失联",
+      "onboard_time": 1691249985,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530907,
       "num": 530907,
       "word": "孤注一掷",
@@ -123,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 519271,
-      "num": 519271,
-      "word": "路飞五档",
-      "onboard_time": 1691249920,
-      "rank": 13,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 492394,
       "num": 492394,
       "word": "TFBOYS夹起来了",
@@ -145,22 +161,6 @@
       "onboard_time": 1691241885,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 478702,
-      "num": 548393,
-      "word": "当地回应网传吉林舒兰一副市长失联",
-      "onboard_time": 1691249985,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454571,
-      "num": 454571,
-      "word": "大张伟 所有的快乐和悲伤都是因为人际关系",
-      "onboard_time": 1691251419,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 428872,
@@ -184,6 +184,14 @@
       "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
       "onboard_time": 1691240865,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388576,
+      "num": 485706,
+      "word": "北部战区向黑吉派出前进指挥所",
+      "onboard_time": 1691251239,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 336997,
-      "num": 253337,
+      "num": 332818,
       "word": "时代峰峻回应时团没有代表作",
       "onboard_time": 1691243809,
       "rank": 35,
@@ -233,14 +241,6 @@
       "onboard_time": 1691248124,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333298,
-      "num": 485706,
-      "word": "北部战区向黑吉派出前进指挥所",
-      "onboard_time": 1691251239,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326014,
@@ -259,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315649,
+      "num": 389479,
+      "word": "同事劝我不要买杂牌口红",
+      "onboard_time": 1691240446,
+      "rank": 29,
+      "category": "美妆,幽默"
+    },
+    {
       "raw_hot": 310892,
       "num": 392357,
       "word": "给狗狗买磨牙棒忘了看尺寸",
@@ -273,14 +281,6 @@
       "onboard_time": 1691233715,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299306,
-      "num": 389479,
-      "word": "同事劝我不要买杂牌口红",
-      "onboard_time": 1691240446,
-      "rank": 29,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 290270,
@@ -315,7 +315,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191755,
+      "raw_hot": 224452,
+      "num": 195508,
+      "word": "异人之下只有冯宝宝一个i人",
+      "onboard_time": 1691249263,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196887,
       "num": 253615,
       "word": "海贼王",
       "onboard_time": 1691251000,
@@ -331,7 +339,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165132,
+      "raw_hot": 179628,
+      "num": 251623,
+      "word": "你身边女性自由职业者的人",
+      "onboard_time": 1691248968,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 166832,
       "num": 251959,
       "word": "JDG三连冠",
       "onboard_time": 1691244469,
@@ -339,12 +355,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 154740,
-      "num": 251623,
-      "word": "你身边女性自由职业者的人",
-      "onboard_time": 1691248968,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 164264,
+      "num": 194763,
+      "word": "黑龙江五常发布防汛救援公告",
+      "onboard_time": 1691252431,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151892,
@@ -395,8 +411,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100642,
+      "num": 193847,
+      "word": "救援队员返乡后哭诉再也不想参与",
+      "onboard_time": 1691253094,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89478,
-      "num": 1117376,
+      "num": 1151091,
       "word": "CCTV国家公园",
       "onboard_time": 1691242846,
       "rank": 2,
