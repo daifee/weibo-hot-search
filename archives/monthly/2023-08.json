@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691246016811,
+  "endTime": 1691248515836,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -113,6 +113,14 @@
       "onboard_time": 1691115755,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2929095,
+      "num": 2929095,
+      "word": "安崎自曝出道后失业到现在",
+      "onboard_time": 1691244046,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2870626,
@@ -513,14 +521,6 @@
       "onboard_time": 1691108616,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1869888,
-      "num": 1869888,
-      "word": "安崎自曝出道后失业到现在",
-      "onboard_time": 1691244046,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1868493,
@@ -1484,7 +1484,7 @@
     },
     {
       "raw_hot": 1100658,
-      "num": 834620,
+      "num": 841477,
       "word": "孤注一掷",
       "onboard_time": 1690948056,
       "rank": 43,
@@ -1619,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1062846,
+      "num": 1062846,
+      "word": "封神海报妲己穿纣王衣服",
+      "onboard_time": 1691244406,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1062220,
       "num": 842331,
       "word": "TFBOYS年纪不大辈分不小",
@@ -1747,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1012537,
+      "num": 720228,
+      "word": "爸爸好像忘记我已经结婚了",
+      "onboard_time": 1691245066,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1009982,
       "num": 944640,
       "word": "北京房山的洪水变化过程",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1690898977,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1005755,
+      "num": 1005755,
+      "word": "Angelababy没人选",
+      "onboard_time": 1691246625,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1005149,
@@ -1907,14 +1931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 957359,
-      "num": 599063,
-      "word": "封神海报妲己穿纣王衣服",
-      "onboard_time": 1691244406,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 955116,
       "num": 800743,
       "word": "TF家族四代同堂",
@@ -2020,7 +2036,7 @@
     },
     {
       "raw_hot": 936442,
-      "num": 551617,
+      "num": 695975,
       "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
       "onboard_time": 1691240865,
       "rank": 23,
@@ -2444,7 +2460,7 @@
     },
     {
       "raw_hot": 848451,
-      "num": 848451,
+      "num": 1046687,
       "word": "这是尊嘟假嘟 这是我微信余额",
       "onboard_time": 1691239848,
       "rank": 13,
@@ -2539,14 +2555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 828888,
-      "num": 532008,
-      "word": "爸爸好像忘记我已经结婚了",
-      "onboard_time": 1691245066,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 828084,
       "num": 828084,
       "word": "知名华人企业家在美国酒店身亡",
@@ -2620,7 +2628,7 @@
     },
     {
       "raw_hot": 811092,
-      "num": 529938,
+      "num": 558586,
       "word": "TFBOYS的相视一笑",
       "onboard_time": 1691242667,
       "rank": 17,
@@ -2908,7 +2916,7 @@
     },
     {
       "raw_hot": 756734,
-      "num": 520180,
+      "num": 536738,
       "word": "同事劝我不要买杂牌口红",
       "onboard_time": 1691240446,
       "rank": 30,
@@ -3108,7 +3116,7 @@
     },
     {
       "raw_hot": 735243,
-      "num": 513901,
+      "num": 530459,
       "word": "时代峰峻回应时团没有代表作",
       "onboard_time": 1691243809,
       "rank": 25,
@@ -3164,7 +3172,7 @@
     },
     {
       "raw_hot": 723896,
-      "num": 509122,
+      "num": 662406,
       "word": "李飞能不能学学杜华",
       "onboard_time": 1691245307,
       "rank": 27,
@@ -3425,6 +3433,14 @@
       "onboard_time": 1691021557,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 687321,
+      "num": 687321,
+      "word": "整个合照里最拘束的三位",
+      "onboard_time": 1691247466,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 685618,
@@ -3859,6 +3875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 625144,
+      "num": 625144,
+      "word": "看到迪丽热巴款气球人了",
+      "onboard_time": 1691247045,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624440,
       "num": 503252,
       "word": "田馥甄演唱会",
@@ -4001,6 +4025,14 @@
       "onboard_time": 1690892073,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 611532,
+      "num": 1055597,
+      "word": "舒兰失联副市长上一线指挥防汛是工作常态",
+      "onboard_time": 1691246983,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 607521,
@@ -4787,6 +4819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 534797,
+      "num": 534797,
+      "word": "张艺兴演唱会中控",
+      "onboard_time": 1691247166,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 534733,
       "num": 353551,
       "word": "明天你好星期六有迪丽热巴",
@@ -5035,6 +5075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 514573,
+      "num": 514573,
+      "word": "吴磊好小一只",
+      "onboard_time": 1691246568,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 514369,
       "num": 501926,
       "word": "房东给买了一个迷你冰箱",
@@ -5076,7 +5124,7 @@
     },
     {
       "raw_hot": 506893,
-      "num": 506893,
+      "num": 773213,
       "word": "gala",
       "onboard_time": 1691244347,
       "rank": 24,
@@ -5185,6 +5233,14 @@
       "onboard_time": 1691056176,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 496981,
+      "num": 252407,
+      "word": "小夭一秒钟八百个表情",
+      "onboard_time": 1691248124,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 496826,
@@ -5483,6 +5539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 475018,
+      "num": 671013,
+      "word": "给狗狗买磨牙棒忘了看尺寸",
+      "onboard_time": 1691247347,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 472036,
       "num": 472036,
       "word": "INFP的分享欲",
@@ -5553,6 +5617,14 @@
       "onboard_time": 1690846168,
       "rank": 25,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 465003,
+      "num": 1026829,
+      "word": "EDG冒泡赛对战LNG",
+      "onboard_time": 1691246265,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 464350,
@@ -6369,6 +6441,14 @@
       "onboard_time": 1690819354,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402914,
+      "num": 245279,
+      "word": "时代少年团暑期演唱会安保方案暂未获批",
+      "onboard_time": 1691247644,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 401249,
@@ -9059,6 +9139,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252438,
+      "num": 252438,
+      "word": "她们干了我小时候想干不敢干的事",
+      "onboard_time": 1691247883,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 252369,
+      "num": 252369,
+      "word": "为什么没人拍博士生的偶像剧",
+      "onboard_time": 1691247947,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252310,
       "num": 252310,
       "word": "告五人巡演",
@@ -9177,6 +9273,14 @@
       "onboard_time": 1691075739,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247247,
+      "num": 247247,
+      "word": "BLG",
+      "onboard_time": 1691246024,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 247030,
@@ -10899,6 +11003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197480,
+      "num": 241371,
+      "word": "Missing说到做到",
+      "onboard_time": 1691248066,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197255,
       "num": 197255,
       "word": "白敬亭出道九周年",
@@ -11211,6 +11323,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 191180,
+      "num": 243743,
+      "word": "重塑南京",
+      "onboard_time": 1691248244,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191009,
       "num": 191009,
       "word": "TFBOYS新歌8月5日上线",
@@ -11361,6 +11481,14 @@
       "onboard_time": 1690799912,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 186883,
+      "num": 240181,
+      "word": "JDG夺冠",
+      "onboard_time": 1691247586,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 186876,
