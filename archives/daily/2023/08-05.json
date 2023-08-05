@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691241444553,
+  "endTime": 1691242437299,
   "band_list": [
     {
       "raw_hot": 9602069,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2039657,
+      "num": 2039657,
+      "word": "莲花楼丧尸案",
+      "onboard_time": 1691236901,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2011086,
       "num": 2011086,
       "word": "女孩租房开2小时空调用完100元电费",
@@ -115,14 +123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1760081,
-      "num": 1760081,
-      "word": "莲花楼丧尸案",
-      "onboard_time": 1691236901,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1751017,
       "num": 1751017,
       "word": "专家称投降式睡姿弊大于利",
@@ -137,6 +137,14 @@
       "onboard_time": 1691228614,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1612109,
+      "num": 1612109,
+      "word": "时代峰峻负责人称对TFBOYS有遗憾",
+      "onboard_time": 1691241824,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1587150,
@@ -224,6 +232,14 @@
       "word": "张艺凡去看TFBOYS演唱会",
       "onboard_time": 1691222735,
       "rank": 8,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1230214,
+      "num": 1230214,
+      "word": "王俊凯王源易烊千玺素颜排练",
+      "onboard_time": 1691240269,
+      "rank": 12,
       "category": "音乐"
     },
     {
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 977225,
+      "num": 482443,
+      "word": "TFBOYS年纪不大辈分不小",
+      "onboard_time": 1691241824,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 971437,
       "num": 551474,
       "word": "优酷",
@@ -401,14 +425,6 @@
       "onboard_time": 1691222434,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 930002,
-      "num": 624808,
-      "word": "王俊凯王源易烊千玺素颜排练",
-      "onboard_time": 1691240269,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 928083,
@@ -449,6 +465,14 @@
       "onboard_time": 1691197655,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 896397,
+      "num": 551617,
+      "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
+      "onboard_time": 1691240865,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 889925,
@@ -499,11 +523,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 848451,
+      "num": 848451,
+      "word": "这是尊嘟假嘟 这是我微信余额",
+      "onboard_time": 1691239848,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 843632,
       "num": 501370,
       "word": "孙艺珍说拜托我家新郎给我拍的",
       "onboard_time": 1691223458,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 832786,
+      "num": 308910,
+      "word": "陈浚铭",
+      "onboard_time": 1691241348,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -587,6 +627,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 756734,
+      "num": 307730,
+      "word": "同事劝我不要买杂牌口红",
+      "onboard_time": 1691240446,
+      "rank": 30,
+      "category": "美妆,幽默"
+    },
+    {
       "raw_hot": 755711,
       "num": 755711,
       "word": "女法医留遗言我死了你们接着解剖我",
@@ -649,6 +697,14 @@
       "onboard_time": 1691226575,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 727084,
+      "num": 300466,
+      "word": "王鹤棣再次错过迪丽热巴",
+      "onboard_time": 1691241885,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 722659,
@@ -715,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 679571,
+      "num": 679571,
+      "word": "大运会女篮决赛中国队vs日本队",
+      "onboard_time": 1691236657,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 678426,
       "num": 447800,
       "word": "胡夏是不是谈恋爱了",
@@ -736,14 +800,6 @@
       "word": "公公51岁还在治愈自己的童年",
       "onboard_time": 1691163526,
       "rank": 12,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 652245,
-      "num": 619995,
-      "word": "这是尊嘟假嘟 这是我微信余额",
-      "onboard_time": 1691239848,
-      "rank": 13,
       "category": "幽默"
     },
     {
@@ -793,14 +849,6 @@
       "onboard_time": 1691232515,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 615636,
-      "num": 307730,
-      "word": "同事劝我不要买杂牌口红",
-      "onboard_time": 1691240446,
-      "rank": 30,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 614918,
@@ -889,6 +937,14 @@
       "onboard_time": 1691211095,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557795,
+      "num": 280334,
+      "word": "李飞",
+      "onboard_time": 1691242064,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 556586,
@@ -1099,6 +1155,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 485048,
+      "num": 274498,
+      "word": "光渊",
+      "onboard_time": 1691241885,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 482368,
       "num": 444898,
       "word": "娜然熟悉狐狸动作的参考图",
@@ -1113,14 +1177,6 @@
       "onboard_time": 1691224536,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 475666,
-      "num": 551617,
-      "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
-      "onboard_time": 1691240865,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 472894,
@@ -1203,6 +1259,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 416219,
+      "num": 224520,
+      "word": "田馥甄演唱会",
+      "onboard_time": 1691242189,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 407123,
       "num": 407123,
       "word": "新华网评价巨齿鲨2",
@@ -1235,6 +1299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 394071,
+      "num": 220254,
+      "word": "欧阳娜娜给宋亚轩续上警报",
+      "onboard_time": 1691242371,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393215,
       "num": 597224,
       "word": "JDG对战LNG",
@@ -1249,6 +1321,14 @@
       "onboard_time": 1691199035,
       "rank": 33,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 392976,
+      "num": 392976,
+      "word": "Missing说带Yagao去世界赛",
+      "onboard_time": 1691242004,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 392047,
@@ -1451,14 +1531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 342523,
-      "num": 593609,
-      "word": "大运会女篮决赛中国队vs日本队",
-      "onboard_time": 1691236657,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 342389,
       "num": 260168,
       "word": "忘了相柳没钱了",
@@ -1609,6 +1681,14 @@
       "onboard_time": 1691149593,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314436,
+      "num": 314436,
+      "word": "AG荣耀十一冠",
+      "onboard_time": 1691241645,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 313154,
@@ -2227,6 +2307,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198012,
+      "num": 215187,
+      "word": "这样的爱情是谁在谈",
+      "onboard_time": 1691241707,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 197915,
+      "num": 215115,
+      "word": "2023CFPL",
+      "onboard_time": 1691241885,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196340,
       "num": 196340,
       "word": "刘宇宁直播",
@@ -2265,6 +2361,14 @@
       "onboard_time": 1691223275,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192717,
+      "num": 215002,
+      "word": "高端的收纳不只是叠衣服而已",
+      "onboard_time": 1691241947,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 192019,

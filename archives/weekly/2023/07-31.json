@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691241444553,
+  "endTime": 1691242437299,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2039657,
+      "num": 2039657,
+      "word": "莲花楼丧尸案",
+      "onboard_time": 1691236901,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2011086,
       "num": 2011086,
       "word": "女孩租房开2小时空调用完100元电费",
@@ -699,14 +707,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1760081,
-      "num": 1760081,
-      "word": "莲花楼丧尸案",
-      "onboard_time": 1691236901,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1751017,
       "num": 1751017,
       "word": "专家称投降式睡姿弊大于利",
@@ -873,6 +873,14 @@
       "onboard_time": 1690853794,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1612109,
+      "num": 1612109,
+      "word": "时代峰峻负责人称对TFBOYS有遗憾",
+      "onboard_time": 1691241824,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1611835,
@@ -1587,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1230214,
+      "num": 1230214,
+      "word": "王俊凯王源易烊千玺素颜排练",
+      "onboard_time": 1691240269,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1229733,
       "num": 1229733,
       "word": "李铁被提起公诉",
@@ -2251,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 977225,
+      "num": 482443,
+      "word": "TFBOYS年纪不大辈分不小",
+      "onboard_time": 1691241824,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 976862,
       "num": 976862,
       "word": "封神直播",
@@ -2459,14 +2483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 930002,
-      "num": 624808,
-      "word": "王俊凯王源易烊千玺素颜排练",
-      "onboard_time": 1691240269,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 929187,
       "num": 782840,
       "word": "CoCo 走好",
@@ -2657,6 +2673,14 @@
       "onboard_time": 1690986998,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 896397,
+      "num": 551617,
+      "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
+      "onboard_time": 1691240865,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 895901,
@@ -2891,6 +2915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 848451,
+      "num": 848451,
+      "word": "这是尊嘟假嘟 这是我微信余额",
+      "onboard_time": 1691239848,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 844251,
       "num": 771064,
       "word": "张艺谋坚如磐石终于定档",
@@ -2961,6 +2993,14 @@
       "onboard_time": 1691156019,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 832786,
+      "num": 308910,
+      "word": "陈浚铭",
+      "onboard_time": 1691241348,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 829505,
@@ -3387,6 +3427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 756734,
+      "num": 307730,
+      "word": "同事劝我不要买杂牌口红",
+      "onboard_time": 1691240446,
+      "rank": 30,
+      "category": "美妆,幽默"
+    },
+    {
       "raw_hot": 756706,
       "num": 368178,
       "word": "中国女足扳回1球",
@@ -3657,6 +3705,14 @@
       "onboard_time": 1691147974,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 727084,
+      "num": 300466,
+      "word": "王鹤棣再次错过迪丽热巴",
+      "onboard_time": 1691241885,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 723570,
@@ -3995,6 +4051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 679571,
+      "num": 679571,
+      "word": "大运会女篮决赛中国队vs日本队",
+      "onboard_time": 1691236657,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 678669,
       "num": 588700,
       "word": "杨紫的选择照顾了张晚意檀健次两个人",
@@ -4232,14 +4296,6 @@
       "word": "当器官知道我们十二点前睡觉",
       "onboard_time": 1690951237,
       "rank": 22,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 652245,
-      "num": 619995,
-      "word": "这是尊嘟假嘟 这是我微信余额",
-      "onboard_time": 1691239848,
-      "rank": 13,
       "category": "幽默"
     },
     {
@@ -4537,14 +4593,6 @@
       "onboard_time": 1691139573,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 615636,
-      "num": 307730,
-      "word": "同事劝我不要买杂牌口红",
-      "onboard_time": 1691240446,
-      "rank": 30,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 614918,
@@ -5257,6 +5305,14 @@
       "onboard_time": 1690935816,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557795,
+      "num": 280334,
+      "word": "李飞",
+      "onboard_time": 1691242064,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 556586,
@@ -6147,6 +6203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485048,
+      "num": 274498,
+      "word": "光渊",
+      "onboard_time": 1691241885,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 482372,
       "num": 376347,
       "word": "TFBOYS走出半生归来仍是少年",
@@ -6257,14 +6321,6 @@
       "onboard_time": 1691224536,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 475666,
-      "num": 551617,
-      "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
-      "onboard_time": 1691240865,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 472605,
@@ -7075,6 +7131,14 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 416219,
+      "num": 224520,
+      "word": "田馥甄演唱会",
+      "onboard_time": 1691242189,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 415867,
       "num": 366564,
       "word": "彭昱畅2分钟预告被打4次",
@@ -7427,6 +7491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 394071,
+      "num": 220254,
+      "word": "欧阳娜娜给宋亚轩续上警报",
+      "onboard_time": 1691242371,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393965,
       "num": 393965,
       "word": "宫城良田",
@@ -7465,6 +7537,14 @@
       "onboard_time": 1691199035,
       "rank": 33,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 392976,
+      "num": 392976,
+      "word": "Missing说带Yagao去世界赛",
+      "onboard_time": 1691242004,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 392824,
@@ -8395,14 +8475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342523,
-      "num": 593609,
-      "word": "大运会女篮决赛中国队vs日本队",
-      "onboard_time": 1691236657,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 342389,
       "num": 260168,
       "word": "忘了相柳没钱了",
@@ -8921,6 +8993,14 @@
       "onboard_time": 1690799793,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314436,
+      "num": 314436,
+      "word": "AG荣耀十一冠",
+      "onboard_time": 1691241645,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 314391,
@@ -12523,6 +12603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198012,
+      "num": 215187,
+      "word": "这样的爱情是谁在谈",
+      "onboard_time": 1691241707,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197984,
       "num": 197984,
       "word": "鞠婧祎舞台彩排图",
@@ -12553,6 +12641,14 @@
       "onboard_time": 1690974453,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197915,
+      "num": 215115,
+      "word": "2023CFPL",
+      "onboard_time": 1691241885,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 197255,
@@ -12809,6 +12905,14 @@
       "onboard_time": 1690957592,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 192717,
+      "num": 215002,
+      "word": "高端的收纳不只是叠衣服而已",
+      "onboard_time": 1691241947,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 192704,

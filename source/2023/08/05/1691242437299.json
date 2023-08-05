@@ -1,0 +1,410 @@
+{
+  "runTime": 1691242437299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8564189,
+        "num": 8564189,
+        "word": "时代峰峻全家福",
+        "onboard_time": 1691237620,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3145256,
+        "num": 3145256,
+        "word": "王俊凯王源易烊千玺怎么不笑了",
+        "onboard_time": 1691236901,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17036,
+        "num": 2203566,
+        "word": "英雄就是我们身边的平凡人",
+        "onboard_time": 1691159021,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2039657,
+        "num": 2039657,
+        "word": "莲花楼丧尸案",
+        "onboard_time": 1691236901,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1612109,
+        "num": 1612109,
+        "word": "时代峰峻负责人称对TFBOYS有遗憾",
+        "onboard_time": 1691241824,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1255461,
+        "num": 1255461,
+        "word": "茶颜悦色不支持点单取单两人同时排队",
+        "onboard_time": 1691233715,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1230214,
+        "num": 1230214,
+        "word": "王俊凯王源易烊千玺素颜排练",
+        "onboard_time": 1691240269,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 848451,
+        "num": 848451,
+        "word": "这是尊嘟假嘟 这是我微信余额",
+        "onboard_time": 1691239848,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 679571,
+        "num": 679571,
+        "word": "大运会女篮决赛中国队vs日本队",
+        "onboard_time": 1691236657,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601434,
+        "num": 601434,
+        "word": "舒兰4名公职人员在组织群众转移中失联",
+        "onboard_time": 1691238346,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035988,
+        "num": 544039,
+        "word": "TFBOYS夹起来了",
+        "onboard_time": 1691222495,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 986845,
+        "num": 522126,
+        "word": "严浩翔被正式确诊为尔康",
+        "onboard_time": 1691235159,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 977225,
+        "num": 482443,
+        "word": "TFBOYS年纪不大辈分不小",
+        "onboard_time": 1691241824,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442201,
+        "num": 442201,
+        "word": "福宝自己戴发箍",
+        "onboard_time": 1691235997,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392976,
+        "num": 392976,
+        "word": "Missing说带Yagao去世界赛",
+        "onboard_time": 1691242004,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 881662,
+        "num": 376689,
+        "word": "八年前的迪丽热巴生图",
+        "onboard_time": 1691235877,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 840794,
+        "num": 368776,
+        "word": "易烊千玺话筒涂鸦",
+        "onboard_time": 1691235338,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 356580,
+        "num": 356580,
+        "word": "黑龙江蚂蚁河",
+        "onboard_time": 1691239066,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354556,
+        "num": 354556,
+        "word": "羽生结弦结婚前的舞蹈",
+        "onboard_time": 1691234432,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 314436,
+        "num": 314436,
+        "word": "AG荣耀十一冠",
+        "onboard_time": 1691241645,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 896397,
+        "num": 313345,
+        "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
+        "onboard_time": 1691240865,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832786,
+        "num": 308910,
+        "word": "陈浚铭",
+        "onboard_time": 1691241348,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 756734,
+        "num": 306281,
+        "word": "同事劝我不要买杂牌口红",
+        "onboard_time": 1691240446,
+        "rank": 22,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 739817,
+        "num": 302018,
+        "word": "TFBOYS彩排喜欢你",
+        "onboard_time": 1691236235,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 727084,
+        "num": 300466,
+        "word": "王鹤棣再次错过迪丽热巴",
+        "onboard_time": 1691241885,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593653,
+        "num": 297244,
+        "word": "SNH48总选",
+        "onboard_time": 1691239785,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 591767,
+        "num": 293578,
+        "word": "电影孤注一掷",
+        "onboard_time": 1691220399,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452711,
+        "num": 288750,
+        "word": "舒兰村民发现一具遗体",
+        "onboard_time": 1691228614,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428172,
+        "num": 286305,
+        "word": "房东给买了一个迷你冰箱",
+        "onboard_time": 1691235698,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283878,
+        "num": 283878,
+        "word": "大运会张雨霏100蝶金牌",
+        "onboard_time": 1691240147,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557795,
+        "num": 280334,
+        "word": "李飞",
+        "onboard_time": 1691242064,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556191,
+        "num": 276729,
+        "word": "异人之下 中式恐怖",
+        "onboard_time": 1691237259,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485048,
+        "num": 274498,
+        "word": "光渊",
+        "onboard_time": 1691241885,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 444382,
+        "num": 270856,
+        "word": "孤注一掷 诈骗电影玩纯爱",
+        "onboard_time": 1691226575,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268533,
+        "num": 268533,
+        "word": "榴莲披萨震惊韩国网友",
+        "onboard_time": 1691232515,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 432145,
+        "num": 265565,
+        "word": "四世同堂",
+        "onboard_time": 1691240386,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258804,
+        "num": 258804,
+        "word": "小杨哥回应捐款2000万为抵税",
+        "onboard_time": 1691214094,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 232547,
+        "num": 232547,
+        "word": "JDG对战LNG",
+        "onboard_time": 1691227958,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228914,
+        "num": 228914,
+        "word": "租客把房东花上百万装修的房子拆了",
+        "onboard_time": 1691223458,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225255,
+        "num": 225255,
+        "word": "你所拥有的隐形资产",
+        "onboard_time": 1691238040,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416219,
+        "num": 224520,
+        "word": "田馥甄演唱会",
+        "onboard_time": 1691242189,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 415461,
+        "num": 223316,
+        "word": "魏大勋为吉林舒兰灾区捐款",
+        "onboard_time": 1691238402,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394071,
+        "num": 220254,
+        "word": "欧阳娜娜给宋亚轩续上警报",
+        "onboard_time": 1691242371,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369308,
+        "num": 218807,
+        "word": "王俊凯王源易烊千玺不热吗",
+        "onboard_time": 1691223216,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 356152,
+        "num": 217388,
+        "word": "罗云熙檀健次影视实绩图",
+        "onboard_time": 1691238040,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353546,
+        "num": 216044,
+        "word": "优酷",
+        "onboard_time": 1691235633,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215251,
+        "num": 215251,
+        "word": "AG",
+        "onboard_time": 1691236358,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198012,
+        "num": 215187,
+        "word": "这样的爱情是谁在谈",
+        "onboard_time": 1691241707,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197915,
+        "num": 215115,
+        "word": "2023CFPL",
+        "onboard_time": 1691241885,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192717,
+        "num": 215002,
+        "word": "高端的收纳不只是叠衣服而已",
+        "onboard_time": 1691241947,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养更多高素质技术技能人才#"
+    }
+  }
+}
