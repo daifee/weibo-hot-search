@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691238585725,
+  "endTime": 1691239519131,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -11,8 +11,8 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 7981181,
-      "num": 7981181,
+      "raw_hot": 9089655,
+      "num": 9089655,
       "word": "时代峰峻全家福",
       "onboard_time": 1691237620,
       "rank": 0,
@@ -81,6 +81,14 @@
       "onboard_time": 1690861719,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3204020,
+      "num": 3204020,
+      "word": "王俊凯王源易烊千玺怎么不笑了",
+      "onboard_time": 1691236901,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 3162373,
@@ -675,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1658781,
-      "num": 1658781,
-      "word": "王俊凯王源易烊千玺怎么不笑了",
-      "onboard_time": 1691236901,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1616535,
       "num": 1616535,
       "word": "法国网红爬中国香港68楼天台后坠亡",
@@ -1052,7 +1052,7 @@
     },
     {
       "raw_hot": 1335910,
-      "num": 479414,
+      "num": 577368,
       "word": "八年前的迪丽热巴生图",
       "onboard_time": 1691235877,
       "rank": 11,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1690950162,
       "rank": 24,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1295717,
+      "num": 1295717,
+      "word": "易烊千玺话筒涂鸦",
+      "onboard_time": 1691235338,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1295220,
@@ -1249,14 +1257,6 @@
       "onboard_time": 1691154395,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1213825,
-      "num": 1213825,
-      "word": "易烊千玺话筒涂鸦",
-      "onboard_time": 1691235338,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1207437,
@@ -1651,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1022323,
+      "num": 540536,
+      "word": "TFBOYS彩排喜欢你",
+      "onboard_time": 1691236235,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1019315,
       "num": 1019315,
       "word": "长相思刚喜欢上的男人变成了我姐",
@@ -1825,14 +1833,6 @@
       "onboard_time": 1690894356,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 962510,
-      "num": 414755,
-      "word": "TFBOYS彩排喜欢你",
-      "onboard_time": 1691236235,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 955116,
@@ -3011,12 +3011,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 721571,
+      "num": 392196,
+      "word": "TFBOYS十年成长大事记",
+      "onboard_time": 1691238524,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 721534,
       "num": 721534,
       "word": "张晚意演过乔家的儿女",
       "onboard_time": 1691223034,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 721368,
+      "num": 721368,
+      "word": "福宝自己戴发箍",
+      "onboard_time": 1691235997,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 717909,
@@ -3232,6 +3248,14 @@
       "word": "网传涿州一男子打骂救援人员",
       "onboard_time": 1691056237,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682784,
+      "num": 682784,
+      "word": "舒兰4名公职人员在组织群众转移中失联",
+      "onboard_time": 1691238346,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3827,14 +3851,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 600985,
-      "num": 600985,
-      "word": "福宝自己戴发箍",
-      "onboard_time": 1691235997,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 598485,
       "num": 598485,
       "word": "迪丽热巴帝梓元白发上线",
@@ -4139,6 +4155,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 572064,
+      "num": 374449,
+      "word": "魏大勋为吉林舒兰灾区捐款",
+      "onboard_time": 1691238402,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571857,
       "num": 559907,
       "word": "中彩票哪有不疯的",
@@ -4417,6 +4441,14 @@
       "onboard_time": 1690887634,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 545329,
+      "num": 392534,
+      "word": "时代少年团或全员去看TFBOYS演唱会",
+      "onboard_time": 1691232515,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 545086,
@@ -4755,6 +4787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 514369,
+      "num": 392782,
+      "word": "房东给买了一个迷你冰箱",
+      "onboard_time": 1691235698,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 514257,
       "num": 514257,
       "word": "几年的逆子是干不过几十年的逆子的",
@@ -4889,6 +4929,14 @@
       "onboard_time": 1691056176,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 496826,
+      "num": 258084,
+      "word": "王奕第二",
+      "onboard_time": 1691238708,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 496668,
@@ -5515,14 +5563,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 445801,
-      "num": 392534,
-      "word": "时代少年团或全员去看TFBOYS演唱会",
-      "onboard_time": 1691232515,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 445187,
       "num": 445187,
       "word": "防风邶转过杯子喝小夭喝过的地方",
@@ -5739,14 +5779,6 @@
       "category": "幽默,网红"
     },
     {
-      "raw_hot": 427909,
-      "num": 392782,
-      "word": "房东给买了一个迷你冰箱",
-      "onboard_time": 1691235698,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 427877,
       "num": 357704,
       "word": "李现说感谢父母穷养",
@@ -5921,14 +5953,6 @@
       "onboard_time": 1691045915,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 412740,
-      "num": 392196,
-      "word": "TFBOYS十年成长大事记",
-      "onboard_time": 1691238524,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 412002,
@@ -6481,14 +6505,6 @@
       "onboard_time": 1691141856,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 374449,
-      "num": 374449,
-      "word": "魏大勋为吉林舒兰灾区捐款",
-      "onboard_time": 1691238402,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 373235,
@@ -7411,6 +7427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 314903,
+      "num": 257375,
+      "word": "刘宇宁跳的青春修炼手册",
+      "onboard_time": 1691236477,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314652,
       "num": 314652,
       "word": "道士们品评封神",
@@ -8131,6 +8155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281453,
+      "num": 392400,
+      "word": "i人有个e人的妈妈什么体验",
+      "onboard_time": 1691234315,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281050,
       "num": 281050,
       "word": "我把相机寄给了养老院的外公",
@@ -8595,6 +8627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258119,
+      "num": 341301,
+      "word": "你所拥有的隐形资产",
+      "onboard_time": 1691238040,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258011,
       "num": 258011,
       "word": "在导师眼里我的毕业论文就是这样",
@@ -8625,14 +8665,6 @@
       "onboard_time": 1691199453,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255521,
-      "num": 392492,
-      "word": "舒兰4名公职人员在组织群众转移中失联",
-      "onboard_time": 1691238346,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255275,
@@ -8769,14 +8801,6 @@
       "onboard_time": 1690989816,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 249683,
-      "num": 392400,
-      "word": "i人有个e人的妈妈什么体验",
-      "onboard_time": 1691234315,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 249518,
@@ -9491,6 +9515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223690,
+      "num": 257950,
+      "word": "黑龙江蚂蚁河",
+      "onboard_time": 1691239066,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223613,
       "num": 205916,
       "word": "莲花楼制片人",
@@ -9985,6 +10017,14 @@
       "onboard_time": 1691224057,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209175,
+      "num": 344063,
+      "word": "AG",
+      "onboard_time": 1691236358,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 209134,
@@ -10915,14 +10955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188862,
-      "num": 344063,
-      "word": "AG",
-      "onboard_time": 1691236358,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188741,
       "num": 188741,
       "word": "盖世英雄有时是开铲车来的",
@@ -11025,14 +11057,6 @@
       "onboard_time": 1691161851,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185981,
-      "num": 341301,
-      "word": "你所拥有的隐形资产",
-      "onboard_time": 1691238040,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 185955,
@@ -12548,7 +12572,7 @@
     },
     {
       "raw_hot": 50775,
-      "num": 2098612,
+      "num": 2448620,
       "word": "英雄就是我们身边的平凡人",
       "onboard_time": 1691159021,
       "rank": 2,

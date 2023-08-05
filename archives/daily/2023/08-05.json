@@ -1,10 +1,10 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691238585725,
+  "endTime": 1691239519131,
   "band_list": [
     {
-      "raw_hot": 7981181,
-      "num": 7981181,
+      "raw_hot": 9089655,
+      "num": 9089655,
       "word": "时代峰峻全家福",
       "onboard_time": 1691237620,
       "rank": 0,
@@ -24,6 +24,14 @@
       "word": "为什么十年之约只能在西安办",
       "onboard_time": 1691204195,
       "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 3204020,
+      "num": 3204020,
+      "word": "王俊凯王源易烊千玺怎么不笑了",
+      "onboard_time": 1691236901,
+      "rank": 3,
       "category": "音乐"
     },
     {
@@ -123,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1658781,
-      "num": 1658781,
-      "word": "王俊凯王源易烊千玺怎么不笑了",
-      "onboard_time": 1691236901,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1587150,
       "num": 699154,
       "word": "西安警方通报奥体中心体育场歌迷打架",
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1335910,
-      "num": 479414,
+      "num": 577368,
       "word": "八年前的迪丽热巴生图",
       "onboard_time": 1691235877,
       "rank": 11,
@@ -203,6 +203,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 1295717,
+      "num": 1295717,
+      "word": "易烊千玺话筒涂鸦",
+      "onboard_time": 1691235338,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1264820,
       "num": 1264820,
       "word": "TFBOYS魔法城堡路透",
@@ -217,14 +225,6 @@
       "onboard_time": 1691222735,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1213825,
-      "num": 1213825,
-      "word": "易烊千玺话筒涂鸦",
-      "onboard_time": 1691235338,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1159755,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1022323,
+      "num": 540536,
+      "word": "TFBOYS彩排喜欢你",
+      "onboard_time": 1691236235,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1014636,
       "num": 1014636,
       "word": "保定因灾死亡10人失联18人",
@@ -369,14 +377,6 @@
       "onboard_time": 1691235633,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 962510,
-      "num": 414755,
-      "word": "TFBOYS彩排喜欢你",
-      "onboard_time": 1691236235,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 937484,
@@ -643,12 +643,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 721571,
+      "num": 392196,
+      "word": "TFBOYS十年成长大事记",
+      "onboard_time": 1691238524,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 721534,
       "num": 721534,
       "word": "张晚意演过乔家的儿女",
       "onboard_time": 1691223034,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 721368,
+      "num": 721368,
+      "word": "福宝自己戴发箍",
+      "onboard_time": 1691235997,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 717620,
@@ -673,6 +689,14 @@
       "onboard_time": 1691231794,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 682784,
+      "num": 682784,
+      "word": "舒兰4名公职人员在组织群众转移中失联",
+      "onboard_time": 1691238346,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 678426,
@@ -763,14 +787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 600985,
-      "num": 600985,
-      "word": "福宝自己戴发箍",
-      "onboard_time": 1691235997,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 588690,
       "num": 537050,
       "word": "叮叮叔演员去世",
@@ -811,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 572064,
+      "num": 374449,
+      "word": "魏大勋为吉林舒兰灾区捐款",
+      "onboard_time": 1691238402,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565775,
       "num": 411341,
       "word": "周扬青穿比基尼",
@@ -849,6 +873,14 @@
       "onboard_time": 1691204313,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 545329,
+      "num": 392534,
+      "word": "时代少年团或全员去看TFBOYS演唱会",
+      "onboard_time": 1691232515,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 540540,
@@ -931,6 +963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 514369,
+      "num": 392782,
+      "word": "房东给买了一个迷你冰箱",
+      "onboard_time": 1691235698,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 512992,
       "num": 512992,
       "word": "马天宇被小姐姐要加微信",
@@ -961,6 +1001,14 @@
       "onboard_time": 1691230357,
       "rank": 45,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 496826,
+      "num": 258084,
+      "word": "王奕第二",
+      "onboard_time": 1691238708,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 496283,
@@ -1067,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445801,
-      "num": 392534,
-      "word": "时代少年团或全员去看TFBOYS演唱会",
-      "onboard_time": 1691232515,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 444242,
       "num": 444242,
       "word": "涂山璟赤水丰隆救了玱玹一命",
@@ -1107,28 +1147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 427909,
-      "num": 392782,
-      "word": "房东给买了一个迷你冰箱",
-      "onboard_time": 1691235698,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 418462,
       "num": 433670,
       "word": "谷爱凌成都夜跑",
       "onboard_time": 1691198616,
       "rank": 17,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 412740,
-      "num": 392196,
-      "word": "TFBOYS十年成长大事记",
-      "onboard_time": 1691238524,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 407123,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1691226218,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 374449,
-      "num": 374449,
-      "word": "魏大勋为吉林舒兰灾区捐款",
-      "onboard_time": 1691238402,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 373235,
@@ -1515,6 +1531,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 314903,
+      "num": 257375,
+      "word": "刘宇宁跳的青春修炼手册",
+      "onboard_time": 1691236477,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314679,
       "num": 314679,
       "word": "这真的不是向佐吗",
@@ -1683,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281453,
+      "num": 392400,
+      "word": "i人有个e人的妈妈什么体验",
+      "onboard_time": 1691234315,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274471,
       "num": 274471,
       "word": "阴天为什么要这么改",
@@ -1755,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258119,
+      "num": 341301,
+      "word": "你所拥有的隐形资产",
+      "onboard_time": 1691238040,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256293,
       "num": 211358,
       "word": "杨紫檀健次小学生对话",
@@ -1763,28 +1803,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255521,
-      "num": 392492,
-      "word": "舒兰4名公职人员在组织群众转移中失联",
-      "onboard_time": 1691238346,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250416,
       "num": 250416,
       "word": "宋昕冉 御三家",
       "onboard_time": 1691191706,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249683,
-      "num": 392400,
-      "word": "i人有个e人的妈妈什么体验",
-      "onboard_time": 1691234315,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 247839,
@@ -1896,6 +1920,14 @@
       "word": "深圳这位全网最不自信老板火了",
       "onboard_time": 1691194830,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223690,
+      "num": 257950,
+      "word": "黑龙江蚂蚁河",
+      "onboard_time": 1691239066,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2043,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209175,
+      "num": 344063,
+      "word": "AG",
+      "onboard_time": 1691236358,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205907,
       "num": 222969,
       "word": "战至巅峰",
@@ -2187,14 +2227,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 188862,
-      "num": 344063,
-      "word": "AG",
-      "onboard_time": 1691236358,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188700,
       "num": 188700,
       "word": "狗狗抓住树枝求生被救援人员发现",
@@ -2225,14 +2257,6 @@
       "onboard_time": 1691161851,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185981,
-      "num": 341301,
-      "word": "你所拥有的隐形资产",
-      "onboard_time": 1691238040,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 185626,
@@ -2572,7 +2596,7 @@
     },
     {
       "raw_hot": 50775,
-      "num": 2098612,
+      "num": 2448620,
       "word": "英雄就是我们身边的平凡人",
       "onboard_time": 1691159021,
       "rank": 2,
