@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691242437299,
+  "endTime": 1691244810124,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2163893,
+      "num": 2163893,
+      "word": "莲花楼丧尸案",
+      "onboard_time": 1691236901,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2142311,
       "num": 2142311,
       "word": "这真的不是向佐吗",
@@ -427,6 +435,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 2092087,
+      "num": 2092087,
+      "word": "异人之下 介质原因延期播出",
+      "onboard_time": 1691243265,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2090417,
       "num": 2090417,
       "word": "刘亦菲霍建华在人大拍戏",
@@ -448,14 +464,6 @@
       "word": "路温吐槽孟宴臣",
       "onboard_time": 1690855416,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 2039657,
-      "num": 2039657,
-      "word": "莲花楼丧尸案",
-      "onboard_time": 1691236901,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -1619,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1213790,
+      "num": 1213790,
+      "word": "王鹤棣再次错过迪丽热巴",
+      "onboard_time": 1691241885,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1207437,
       "num": 505888,
       "word": "狗头萝莉回应穿衣风格争议",
@@ -1987,11 +2003,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1067567,
+      "num": 850403,
+      "word": "安崎自曝出道后失业到现在",
+      "onboard_time": 1691244046,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1064138,
       "num": 1064138,
       "word": "TFBOYS和时代少年团向涿州灾区捐款",
       "onboard_time": 1691145393,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1062220,
+      "num": 842331,
+      "word": "TFBOYS年纪不大辈分不小",
+      "onboard_time": 1691241824,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -2105,6 +2137,14 @@
       "onboard_time": 1690895857,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1016995,
+      "num": 1016995,
+      "word": "大运女篮中国队胜日本队夺冠",
+      "onboard_time": 1691242908,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1014636,
@@ -2264,14 +2304,6 @@
       "word": "刘维分享微信恢复教程",
       "onboard_time": 1690781557,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 977225,
-      "num": 482443,
-      "word": "TFBOYS年纪不大辈分不小",
-      "onboard_time": 1691241824,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -2443,6 +2475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 936442,
+      "num": 551617,
+      "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
+      "onboard_time": 1691240865,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 935817,
       "num": 935817,
       "word": "张踩铃婆婆",
@@ -2481,6 +2521,14 @@
       "onboard_time": 1691222434,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 930459,
+      "num": 930459,
+      "word": "Missing说带Yagao去世界赛",
+      "onboard_time": 1691242004,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 929187,
@@ -2675,14 +2723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 896397,
-      "num": 551617,
-      "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
-      "onboard_time": 1691240865,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 895901,
       "num": 317677,
       "word": "第一次见这种主卧卫生间",
@@ -2793,6 +2833,14 @@
       "onboard_time": 1690797034,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 872968,
+      "num": 872968,
+      "word": "JDG对战LNG",
+      "onboard_time": 1691227958,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 871007,
@@ -3075,6 +3123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 811092,
+      "num": 529938,
+      "word": "TFBOYS的相视一笑",
+      "onboard_time": 1691242667,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 810750,
       "num": 810750,
       "word": "列车延误女乘务员哽咽安抚乘客",
@@ -3347,12 +3403,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 767157,
+      "num": 767157,
+      "word": "JDG战胜LNG",
+      "onboard_time": 1691244169,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 765468,
       "num": 765468,
       "word": "北京全市河道均在行洪",
       "onboard_time": 1690798713,
       "rank": 49,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 764577,
+      "num": 428879,
+      "word": "没有敖子逸",
+      "onboard_time": 1691243083,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 762606,
@@ -3428,7 +3500,7 @@
     },
     {
       "raw_hot": 756734,
-      "num": 307730,
+      "num": 353939,
       "word": "同事劝我不要买杂牌口红",
       "onboard_time": 1691240446,
       "rank": 30,
@@ -3659,6 +3731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 735243,
+      "num": 350052,
+      "word": "时代峰峻回应时团没有代表作",
+      "onboard_time": 1691243809,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 734655,
       "num": 734655,
       "word": "追星界王宝钏",
@@ -3705,14 +3785,6 @@
       "onboard_time": 1691147974,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 727084,
-      "num": 300466,
-      "word": "王鹤棣再次错过迪丽热巴",
-      "onboard_time": 1691241885,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 723570,
@@ -4307,6 +4379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 650635,
+      "num": 336423,
+      "word": "封神海报妲己穿纣王衣服",
+      "onboard_time": 1691244406,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 649382,
       "num": 559877,
       "word": "涂山璟的神识小狐狸",
@@ -4419,6 +4499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 635321,
+      "num": 349153,
+      "word": "张艺兴染粉发",
+      "onboard_time": 1691244108,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 634798,
       "num": 603772,
       "word": "限时吃5块松饼上海一店被罚3万",
@@ -4497,6 +4585,14 @@
       "onboard_time": 1691232515,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 624440,
+      "num": 338301,
+      "word": "田馥甄演唱会",
+      "onboard_time": 1691242189,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 622877,
@@ -4771,6 +4867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597060,
+      "num": 334475,
+      "word": "TF家族族草",
+      "onboard_time": 1691243387,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596769,
       "num": 596769,
       "word": "娜然 契约精神",
@@ -4889,6 +4993,14 @@
       "onboard_time": 1691024074,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589297,
+      "num": 334255,
+      "word": "李飞的审美",
+      "onboard_time": 1691243809,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 589248,
@@ -5308,7 +5420,7 @@
     },
     {
       "raw_hot": 557795,
-      "num": 280334,
+      "num": 321385,
       "word": "李飞",
       "onboard_time": 1691242064,
       "rank": 30,
@@ -5329,6 +5441,14 @@
       "onboard_time": 1690849957,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 556358,
+      "num": 329263,
+      "word": "安崎回应在男友店里带孩子传闻",
+      "onboard_time": 1691244528,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 556322,
@@ -5505,6 +5625,14 @@
       "onboard_time": 1691037882,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 541330,
+      "num": 541330,
+      "word": "JDG三连冠",
+      "onboard_time": 1691244469,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 541011,
@@ -6187,6 +6315,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 486905,
+      "num": 321166,
+      "word": "光渊",
+      "onboard_time": 1691241885,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 485728,
       "num": 373807,
       "word": "河北涿州架起高空基站",
@@ -6201,14 +6337,6 @@
       "onboard_time": 1691064696,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 485048,
-      "num": 274498,
-      "word": "光渊",
-      "onboard_time": 1691241885,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 482372,
@@ -7131,14 +7259,6 @@
       "category": "科技,幽默"
     },
     {
-      "raw_hot": 416219,
-      "num": 224520,
-      "word": "田馥甄演唱会",
-      "onboard_time": 1691242189,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 415867,
       "num": 366564,
       "word": "彭昱畅2分钟预告被打4次",
@@ -7523,28 +7643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393215,
-      "num": 597224,
-      "word": "JDG对战LNG",
-      "onboard_time": 1691227958,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 393096,
       "num": 262754,
       "word": "贾乃亮六万斤大米驰援灾区",
       "onboard_time": 1691199035,
       "rank": 33,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 392976,
-      "num": 392976,
-      "word": "Missing说带Yagao去世界赛",
-      "onboard_time": 1691242004,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 392824,
@@ -8315,6 +8419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350228,
+      "num": 350228,
+      "word": "gala",
+      "onboard_time": 1691244347,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 349810,
       "num": 1214684,
       "word": "此前暴雨中失联的9人继续留守电站",
@@ -8499,6 +8611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 338964,
+      "num": 338964,
+      "word": "JDG与LNG决胜局",
+      "onboard_time": 1691241766,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 338809,
       "num": 338809,
       "word": "成灿 门面",
@@ -8673,6 +8793,14 @@
       "onboard_time": 1691236477,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332188,
+      "num": 356597,
+      "word": "JDG先下一城",
+      "onboard_time": 1691238164,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 332157,
@@ -8851,6 +8979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322278,
+      "num": 322278,
+      "word": "冒泡赛",
+      "onboard_time": 1690895618,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 322200,
       "num": 296475,
       "word": "新手保护期结束了",
@@ -8996,7 +9132,7 @@
     },
     {
       "raw_hot": 314436,
-      "num": 314436,
+      "num": 320492,
       "word": "AG荣耀十一冠",
       "onboard_time": 1691241645,
       "rank": 19,
@@ -10883,14 +11019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 243668,
-      "num": 243668,
-      "word": "冒泡赛",
-      "onboard_time": 1690895618,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 243579,
       "num": 280025,
       "word": "Hero声明",
@@ -12763,6 +12891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195355,
+      "num": 318961,
+      "word": "韩旭18分",
+      "onboard_time": 1691243327,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195332,
       "num": 187170,
       "word": "FIRST青年电影展",
@@ -12801,14 +12937,6 @@
       "onboard_time": 1691132914,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194981,
-      "num": 356597,
-      "word": "JDG先下一城",
-      "onboard_time": 1691238164,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 194895,
@@ -12881,6 +13009,14 @@
       "onboard_time": 1690879712,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193305,
+      "num": 318572,
+      "word": "白鲨",
+      "onboard_time": 1691243083,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 193217,
@@ -13464,6 +13600,14 @@
       "word": "残疾小伙用双手爬行养羊供妹妹读书",
       "onboard_time": 1691053418,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174104,
+      "num": 2292217,
+      "word": "CCTV国家公园",
+      "onboard_time": 1691242846,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -15265,6 +15409,9 @@
     },
     {
       "word": "#培养更多高素质技术技能人才#"
+    },
+    {
+      "word": "#成都大运会赛场内外刮起中国风#"
     }
   ]
 }

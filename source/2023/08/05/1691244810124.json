@@ -1,0 +1,410 @@
+{
+  "runTime": 1691244810124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6873773,
+        "num": 6873773,
+        "word": "时代峰峻全家福",
+        "onboard_time": 1691237620,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2577171,
+        "num": 2577171,
+        "word": "王俊凯王源易烊千玺怎么不笑了",
+        "onboard_time": 1691236901,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174104,
+        "num": 2292217,
+        "word": "CCTV国家公园",
+        "onboard_time": 1691242846,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2163893,
+        "num": 2163893,
+        "word": "莲花楼丧尸案",
+        "onboard_time": 1691236901,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2092087,
+        "num": 2092087,
+        "word": "异人之下 介质原因延期播出",
+        "onboard_time": 1691243265,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1213790,
+        "num": 1213790,
+        "word": "王鹤棣再次错过迪丽热巴",
+        "onboard_time": 1691241885,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1016995,
+        "num": 1016995,
+        "word": "大运女篮中国队胜日本队夺冠",
+        "onboard_time": 1691242908,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 930459,
+        "num": 930459,
+        "word": "Missing说带Yagao去世界赛",
+        "onboard_time": 1691242004,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 872968,
+        "num": 872968,
+        "word": "JDG对战LNG",
+        "onboard_time": 1691227958,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 560950,
+        "num": 867887,
+        "word": "茶颜悦色不支持点单取单两人同时排队",
+        "onboard_time": 1691233715,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1231904,
+        "num": 862320,
+        "word": "时代峰峻负责人称对TFBOYS有遗憾",
+        "onboard_time": 1691241824,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1067567,
+        "num": 850403,
+        "word": "安崎自曝出道后失业到现在",
+        "onboard_time": 1691244046,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1062220,
+        "num": 842331,
+        "word": "TFBOYS年纪不大辈分不小",
+        "onboard_time": 1691241824,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 833805,
+        "num": 833805,
+        "word": "这是尊嘟假嘟 这是我微信余额",
+        "onboard_time": 1691239848,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 767157,
+        "num": 767157,
+        "word": "JDG战胜LNG",
+        "onboard_time": 1691244169,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 823917,
+        "num": 752423,
+        "word": "TFBOYS夹起来了",
+        "onboard_time": 1691222495,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 541330,
+        "num": 541330,
+        "word": "JDG三连冠",
+        "onboard_time": 1691244469,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 811092,
+        "num": 529938,
+        "word": "TFBOYS的相视一笑",
+        "onboard_time": 1691242667,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300869,
+        "num": 493990,
+        "word": "舒兰4名公职人员在组织群众转移中失联",
+        "onboard_time": 1691238346,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290901,
+        "num": 466165,
+        "word": "黑龙江蚂蚁河",
+        "onboard_time": 1691239066,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936442,
+        "num": 446994,
+        "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
+        "onboard_time": 1691240865,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764577,
+        "num": 428879,
+        "word": "没有敖子逸",
+        "onboard_time": 1691243083,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 761665,
+        "num": 382800,
+        "word": "王俊凯王源易烊千玺素颜排练",
+        "onboard_time": 1691240269,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 631585,
+        "num": 353939,
+        "word": "同事劝我不要买杂牌口红",
+        "onboard_time": 1691240446,
+        "rank": 23,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 350228,
+        "num": 350228,
+        "word": "gala",
+        "onboard_time": 1691244347,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 735243,
+        "num": 350052,
+        "word": "时代峰峻回应时团没有代表作",
+        "onboard_time": 1691243809,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635321,
+        "num": 349153,
+        "word": "张艺兴染粉发",
+        "onboard_time": 1691244108,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 338964,
+        "num": 338964,
+        "word": "JDG与LNG决胜局",
+        "onboard_time": 1691241766,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 624440,
+        "num": 338301,
+        "word": "田馥甄演唱会",
+        "onboard_time": 1691242189,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285894,
+        "num": 337754,
+        "word": "福宝自己戴发箍",
+        "onboard_time": 1691235997,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650635,
+        "num": 336423,
+        "word": "封神海报妲己穿纣王衣服",
+        "onboard_time": 1691244406,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 597060,
+        "num": 334475,
+        "word": "TF家族族草",
+        "onboard_time": 1691243387,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589297,
+        "num": 334255,
+        "word": "李飞的审美",
+        "onboard_time": 1691243809,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347792,
+        "num": 332459,
+        "word": "房东给买了一个迷你冰箱",
+        "onboard_time": 1691235698,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332188,
+        "num": 332188,
+        "word": "JDG先下一城",
+        "onboard_time": 1691238164,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 579962,
+        "num": 329872,
+        "word": "电影孤注一掷",
+        "onboard_time": 1691220399,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556358,
+        "num": 329263,
+        "word": "安崎回应在男友店里带孩子传闻",
+        "onboard_time": 1691244528,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540258,
+        "num": 328849,
+        "word": "严浩翔被正式确诊为尔康",
+        "onboard_time": 1691235159,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322278,
+        "num": 322278,
+        "word": "冒泡赛",
+        "onboard_time": 1691244287,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213779,
+        "num": 322073,
+        "word": "羽生结弦结婚前的舞蹈",
+        "onboard_time": 1691234432,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 534529,
+        "num": 321721,
+        "word": "八年前的迪丽热巴生图",
+        "onboard_time": 1691235877,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 508343,
+        "num": 321385,
+        "word": "李飞",
+        "onboard_time": 1691242064,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486905,
+        "num": 321166,
+        "word": "光渊",
+        "onboard_time": 1691241885,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448790,
+        "num": 320588,
+        "word": "孤注一掷 诈骗电影玩纯爱",
+        "onboard_time": 1691226575,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212846,
+        "num": 320492,
+        "word": "AG荣耀十一冠",
+        "onboard_time": 1691241645,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204137,
+        "num": 319928,
+        "word": "大运会女篮决赛中国队vs日本队",
+        "onboard_time": 1691236657,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202974,
+        "num": 319583,
+        "word": "你所拥有的隐形资产",
+        "onboard_time": 1691238040,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198849,
+        "num": 319336,
+        "word": "榴莲披萨震惊韩国网友",
+        "onboard_time": 1691232515,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195355,
+        "num": 318961,
+        "word": "韩旭18分",
+        "onboard_time": 1691243327,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193305,
+        "num": 318572,
+        "word": "白鲨",
+        "onboard_time": 1691243083,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会赛场内外刮起中国风#"
+    }
+  }
+}
