@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691209151667,
+  "endTime": 1691210035758,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -83,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1179096,
+      "num": 457856,
+      "word": "杨紫回应外形质疑",
+      "onboard_time": 1691207436,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1159755,
       "num": 1159755,
       "word": "沈梦辰听到林允吐了的反应",
@@ -99,11 +107,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1100385,
+      "num": 1100385,
+      "word": "TFBOYS专辑",
+      "onboard_time": 1691208456,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1051763,
       "num": 799858,
       "word": "王俊凯易烊千玺牵手错位图",
       "onboard_time": 1691192790,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1024415,
+      "num": 406377,
+      "word": "黄奕晒女儿夏令营行李箱",
+      "onboard_time": 1691208576,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -145,14 +169,6 @@
       "onboard_time": 1691198375,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 920852,
-      "num": 920852,
-      "word": "TFBOYS专辑",
-      "onboard_time": 1691208456,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 917180,
@@ -299,14 +315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 682663,
-      "num": 457856,
-      "word": "杨紫回应外形质疑",
-      "onboard_time": 1691207436,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 671360,
       "num": 426238,
       "word": "原来台湾的语文课本长这样",
@@ -371,19 +379,19 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 564968,
+      "num": 324419,
+      "word": "王俊凯不完美小孩彩排路透",
+      "onboard_time": 1691209594,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 549394,
       "num": 428874,
       "word": "王俊凯王源易烊千玺小黑屋合集",
       "onboard_time": 1691204313,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 546549,
-      "num": 347320,
-      "word": "黄奕晒女儿夏令营行李箱",
-      "onboard_time": 1691208576,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -643,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337902,
+      "num": 275332,
+      "word": "相柳死前拿着送给小夭的大肚娃娃和箭",
+      "onboard_time": 1691206775,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335167,
       "num": 416169,
       "word": "收费员拒收5角纸币一把撕毁",
@@ -672,14 +688,6 @@
       "word": "这真的不是向佐吗",
       "onboard_time": 1691149593,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 308050,
-      "num": 237660,
-      "word": "相柳死前拿着送给小夭的大肚娃娃和箭",
-      "onboard_time": 1691206775,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -731,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290091,
+      "num": 398515,
+      "word": "爸爸涿州直升机救39人女儿夸很牛",
+      "onboard_time": 1691195013,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 288610,
       "num": 288610,
       "word": "文春不行啊",
@@ -755,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273924,
+      "num": 273924,
+      "word": "想当兵的体育生18岁成人礼却纹了大花臂",
+      "onboard_time": 1691209775,
+      "rank": 34,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 272348,
       "num": 216087,
       "word": "全麻醒来一直喊要见相柳",
@@ -777,14 +801,6 @@
       "onboard_time": 1691185635,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259174,
-      "num": 398515,
-      "word": "爸爸涿州直升机救39人女儿夸很牛",
-      "onboard_time": 1691195013,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 256293,
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 243579,
-      "num": 243579,
+      "num": 280025,
       "word": "Hero声明",
       "onboard_time": 1691206296,
       "rank": 47,
@@ -852,7 +868,7 @@
     },
     {
       "raw_hot": 228531,
-      "num": 250537,
+      "num": 289237,
       "word": "泄洪行洪蓄滞洪区都是啥意思",
       "onboard_time": 1691207976,
       "rank": 18,
@@ -1123,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118280,
+      "num": 217224,
+      "word": "男子徒手爬4楼救下被困窗外女孩",
+      "onboard_time": 1691209714,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117860,
       "num": 216496,
       "word": "杭州这些地方很热烈",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1691208875,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100838,
+      "num": 217029,
+      "word": "原来烘焙也能做成画一样",
+      "onboard_time": 1691210015,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 97333,
@@ -1155,8 +1187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91023,
-      "num": 1135556,
+      "raw_hot": 91979,
+      "num": 1149348,
       "word": "暴雨洪水过后的安全及防疫提醒",
       "onboard_time": 1691205695,
       "rank": 2,
