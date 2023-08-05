@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691253254539,
+  "endTime": 1691255595728,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -2779,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790004,
+      "num": 532357,
+      "word": "大张伟 所有的快乐和悲伤都是因为人际关系",
+      "onboard_time": 1691251419,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789523,
       "num": 789523,
       "word": "肖战顺毛白背心",
@@ -3433,14 +3441,6 @@
       "onboard_time": 1691070097,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 693959,
-      "num": 532357,
-      "word": "大张伟 所有的快乐和悲伤都是因为人际关系",
-      "onboard_time": 1691251419,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 690156,
@@ -7249,6 +7249,14 @@
       "onboard_time": 1690939052,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353223,
+      "num": 353223,
+      "word": "TFBOYS十周年彩排视频",
+      "onboard_time": 1691253870,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 352656,
@@ -12411,6 +12419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146549,
+      "num": 193847,
+      "word": "救援队员返乡后哭诉再也不想参与",
+      "onboard_time": 1691253094,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146336,
       "num": 227576,
       "word": "十年前和现在做的手工",
@@ -12913,14 +12929,6 @@
       "onboard_time": 1691210015,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 100642,
-      "num": 193847,
-      "word": "救援队员返乡后哭诉再也不想参与",
-      "onboard_time": 1691253094,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99965,
