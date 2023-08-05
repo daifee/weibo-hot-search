@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691220823601,
+  "endTime": 1691223538786,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2487125,
-      "num": 491053,
+      "num": 510916,
       "word": "具俊晔哭了",
       "onboard_time": 1691217034,
       "rank": 12,
@@ -123,6 +123,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 1264820,
+      "num": 1264820,
+      "word": "TFBOYS魔法城堡路透",
+      "onboard_time": 1691221295,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1159755,
       "num": 1159755,
       "word": "沈梦辰听到林允吐了的反应",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 1131584,
-      "num": 319774,
+      "num": 335636,
       "word": "哇唧唧哇简介没看见肖战",
       "onboard_time": 1691210134,
       "rank": 20,
@@ -201,6 +209,14 @@
       "onboard_time": 1691145875,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 989186,
+      "num": 470443,
+      "word": "王俊凯裤腿P叉了",
+      "onboard_time": 1691219913,
+      "rank": 11,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 988468,
@@ -275,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 887914,
+      "num": 887914,
+      "word": "黄锐不去TFBOYS演唱会了",
+      "onboard_time": 1691221474,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 874593,
       "num": 874593,
       "word": "日语入籍是结婚的意思",
@@ -305,6 +329,14 @@
       "onboard_time": 1691205276,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 849751,
+      "num": 411927,
+      "word": "王俊凯王源易烊千玺不热吗",
+      "onboard_time": 1691223216,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 829505,
@@ -347,8 +379,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 793104,
-      "num": 793104,
+      "raw_hot": 803940,
+      "num": 803940,
       "word": "电影孤注一掷",
       "onboard_time": 1691220399,
       "rank": 2,
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 737975,
-      "num": 220007,
+      "num": 336379,
       "word": "貌似没再和SM续约的少女时代Sunny",
       "onboard_time": 1691218717,
       "rank": 30,
@@ -432,6 +464,14 @@
       "word": "明天见歌词",
       "onboard_time": 1691202935,
       "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 691402,
+      "num": 691402,
+      "word": "TFBOYS夹起来了",
+      "onboard_time": 1691222495,
+      "rank": 5,
       "category": "音乐"
     },
     {
@@ -467,19 +507,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 639151,
-      "num": 432267,
-      "word": "王俊凯裤腿P叉了",
-      "onboard_time": 1691219913,
-      "rank": 11,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 614918,
       "num": 436389,
       "word": "唐恬是团粉吧",
       "onboard_time": 1691205213,
       "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 614141,
+      "num": 614141,
+      "word": "张艺凡去看TFBOYS演唱会",
+      "onboard_time": 1691222735,
+      "rank": 8,
       "category": "音乐"
     },
     {
@@ -635,6 +675,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 484352,
+      "num": 236013,
+      "word": "迪丽热巴跳舞真迪甜",
+      "onboard_time": 1691222317,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 482368,
       "num": 444898,
       "word": "娜然熟悉狐狸动作的参考图",
@@ -675,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456923,
+      "num": 227259,
+      "word": "网友偶遇王宝强车队援助河北",
+      "onboard_time": 1691222673,
+      "rank": 26,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 449906,
       "num": 449906,
       "word": "媒体十二问涿州泄洪",
@@ -705,6 +761,14 @@
       "onboard_time": 1691194531,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422709,
+      "num": 225654,
+      "word": "3岁娃人工耳蜗被高铁乘客刮掉",
+      "onboard_time": 1691222434,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418462,
@@ -769,6 +833,22 @@
       "onboard_time": 1691194354,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 373672,
+      "num": 225625,
+      "word": "张晚意演过乔家的儿女",
+      "onboard_time": 1691223034,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 373235,
+      "num": 232748,
+      "word": "1岁女童一头栽进洗澡桶溺水挣扎",
+      "onboard_time": 1691219975,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372136,
@@ -867,6 +947,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326986,
+      "num": 229116,
+      "word": "工作后突然觉得爸妈好厉害",
+      "onboard_time": 1691219196,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 323618,
+      "num": 323618,
+      "word": "小狗的朋友叼来了它生前的玩具",
+      "onboard_time": 1691220096,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 322200,
       "num": 280845,
       "word": "新手保护期结束了",
@@ -881,6 +977,14 @@
       "onboard_time": 1691214934,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315122,
+      "num": 223783,
+      "word": "李飞什么时候开家族演唱会",
+      "onboard_time": 1691220875,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 315057,
@@ -907,6 +1011,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 308304,
+      "num": 223293,
+      "word": "妲己的报应来得很突然",
+      "onboard_time": 1691221957,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302973,
       "num": 302973,
       "word": "李泰容",
@@ -929,14 +1041,6 @@
       "onboard_time": 1691199513,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 299783,
-      "num": 222162,
-      "word": "工作后突然觉得爸妈好厉害",
-      "onboard_time": 1691219196,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 291573,
@@ -1043,12 +1147,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 263434,
+      "num": 220788,
+      "word": "孙艺珍说拜托我家新郎给我拍的",
+      "onboard_time": 1691223458,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262581,
       "num": 207431,
       "word": "卡努或将急转弯转向东北",
       "onboard_time": 1691185635,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259131,
+      "num": 220320,
+      "word": "彭昱畅新剧4集哭了7次",
+      "onboard_time": 1691222254,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 256293,
@@ -1107,12 +1227,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231325,
-      "num": 219679,
-      "word": "1岁女童一头栽进洗澡桶溺水挣扎",
-      "onboard_time": 1691219975,
-      "rank": 31,
+      "raw_hot": 236957,
+      "num": 236957,
+      "word": "K396乘客哭着感谢落坡岭居民",
+      "onboard_time": 1691221897,
+      "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236123,
+      "num": 219963,
+      "word": "金晨深V开叉裙",
+      "onboard_time": 1691220695,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 230265,
@@ -1121,6 +1249,14 @@
       "onboard_time": 1691139274,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229231,
+      "num": 219407,
+      "word": "张艺兴新电影破亿海报",
+      "onboard_time": 1691221295,
+      "rank": 44,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 228531,
@@ -1185,6 +1321,14 @@
       "onboard_time": 1691163110,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219509,
+      "num": 219509,
+      "word": "秦霄贤桃花全靠自己种",
+      "onboard_time": 1691220757,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 219272,
@@ -1281,14 +1425,6 @@
       "onboard_time": 1691181913,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202315,
-      "num": 214654,
-      "word": "秦霄贤桃花全靠自己种",
-      "onboard_time": 1691220757,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 201182,
@@ -1403,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177488,
-      "num": 214434,
-      "word": "金晨深V开叉裙",
-      "onboard_time": 1691220695,
-      "rank": 42,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 177304,
       "num": 177304,
       "word": "这个周末要变成亚洲小孩了",
@@ -1467,11 +1595,43 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165208,
+      "num": 222378,
+      "word": "女生在餐厅要求打包餐具",
+      "onboard_time": 1691221415,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 159631,
+      "num": 221774,
+      "word": "妈妈钱包里拿钱的手缓缓停下了",
+      "onboard_time": 1691222254,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 159414,
+      "num": 219051,
+      "word": "租客把房东花上百万装修的房子拆了",
+      "onboard_time": 1691223458,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159334,
       "num": 222990,
       "word": "吉林舒兰强降雨已造成1死4失联",
       "onboard_time": 1691211694,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153585,
+      "num": 218927,
+      "word": "河南新一轮暴雨上线",
+      "onboard_time": 1691223275,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1585,14 +1745,6 @@
       "onboard_time": 1691216434,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109556,
-      "num": 213848,
-      "word": "小狗的朋友叼来了它生前的玩具",
-      "onboard_time": 1691220096,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 102760,
