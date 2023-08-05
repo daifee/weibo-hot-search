@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691248515836,
+  "endTime": 1691249627058,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -1403,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1320083,
+      "num": 1320083,
+      "word": "TFBOYS大花轿",
+      "onboard_time": 1691248603,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1312546,
       "num": 803324,
       "word": "彭昱畅自己争取全裸出镜",
@@ -1649,6 +1657,14 @@
       "onboard_time": 1691107713,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1205976,
+      "num": 1205976,
+      "word": "Angelababy没人选",
+      "onboard_time": 1691246625,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1200264,
@@ -2211,14 +2227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1005755,
-      "num": 1005755,
-      "word": "Angelababy没人选",
-      "onboard_time": 1691246625,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1005149,
       "num": 1005149,
       "word": "原著里小夭是自己游回去的",
@@ -2739,6 +2747,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 902682,
+      "num": 1055597,
+      "word": "舒兰失联副市长上一线指挥防汛是工作常态",
+      "onboard_time": 1691246983,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 900654,
       "num": 900654,
       "word": "莲花楼 所有女孩的自救",
@@ -3249,6 +3265,14 @@
       "onboard_time": 1691028339,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 799285,
+      "num": 454195,
+      "word": "王俊凯想笑就笑吧",
+      "onboard_time": 1691248906,
+      "rank": 12,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 799056,
@@ -4811,14 +4835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 611532,
-      "num": 1055597,
-      "word": "舒兰失联副市长上一线指挥防汛是工作常态",
-      "onboard_time": 1691246983,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 609754,
       "num": 335881,
       "word": "张晚意闲鱼买东西被人认出来",
@@ -4931,6 +4947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597214,
+      "num": 437642,
+      "word": "小夭一秒钟八百个表情",
+      "onboard_time": 1691248124,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 597060,
       "num": 501764,
       "word": "TF家族族草",
@@ -4992,6 +5016,14 @@
       "word": "密室大逃脱",
       "onboard_time": 1690951600,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 592521,
+      "num": 437094,
+      "word": "导演们看看大码女演员吧",
+      "onboard_time": 1691248546,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -5987,6 +6019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520931,
+      "num": 671013,
+      "word": "给狗狗买磨牙棒忘了看尺寸",
+      "onboard_time": 1691247347,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 520391,
       "num": 338025,
       "word": "12岁男生学短视频自己在家割包皮",
@@ -6219,14 +6259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 496981,
-      "num": 252407,
-      "word": "小夭一秒钟八百个表情",
-      "onboard_time": 1691248124,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 496826,
       "num": 258084,
       "word": "王奕第二",
@@ -6249,6 +6281,14 @@
       "onboard_time": 1691217515,
       "rank": 9,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 496262,
+      "num": 431183,
+      "word": "她们干了我小时候想干不敢干的事",
+      "onboard_time": 1691247883,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 496243,
@@ -6411,6 +6451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 485762,
+      "num": 485762,
+      "word": "为什么没人拍博士生的偶像剧",
+      "onboard_time": 1691247947,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 485728,
       "num": 373807,
       "word": "河北涿州架起高空基站",
@@ -6537,14 +6585,6 @@
       "onboard_time": 1691224536,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 475018,
-      "num": 671013,
-      "word": "给狗狗买磨牙棒忘了看尺寸",
-      "onboard_time": 1691247347,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 472605,
@@ -8083,6 +8123,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 376226,
+      "num": 229302,
+      "word": "异人之下只有冯宝宝一个i人",
+      "onboard_time": 1691249263,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375675,
       "num": 375675,
       "word": "王源说CoCo姐的音乐和爱没有终点",
@@ -8449,6 +8497,14 @@
       "onboard_time": 1691134595,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355046,
+      "num": 228895,
+      "word": "迪丽热巴龚俊手牵得好紧",
+      "onboard_time": 1691249505,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 355038,
@@ -9625,6 +9681,14 @@
       "onboard_time": 1690783894,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301731,
+      "num": 301731,
+      "word": "男子上厕所发现马桶底座盘大蛇",
+      "onboard_time": 1691249321,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301701,
@@ -10873,22 +10937,6 @@
       "onboard_time": 1690812036,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252438,
-      "num": 252438,
-      "word": "她们干了我小时候想干不敢干的事",
-      "onboard_time": 1691247883,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 252369,
-      "num": 252369,
-      "word": "为什么没人拍博士生的偶像剧",
-      "onboard_time": 1691247947,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 252310,
@@ -13611,6 +13659,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 182670,
+      "num": 228060,
+      "word": "你身边女性自由职业者的人",
+      "onboard_time": 1691248968,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182577,
       "num": 228007,
       "word": "幼儿园小朋友表演的小品",
@@ -14193,6 +14249,14 @@
       "onboard_time": 1691151873,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154805,
+      "num": 226967,
+      "word": "大海也想摸猫猫",
+      "onboard_time": 1691249386,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 154518,
