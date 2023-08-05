@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691228038544,
+  "endTime": 1691230559609,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 2487125,
-      "num": 565125,
+      "num": 855240,
       "word": "具俊晔哭了",
       "onboard_time": 1691217034,
       "rank": 12,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2004587,
+      "num": 859254,
+      "word": "魏大勋乌木沉香",
+      "onboard_time": 1691227535,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1992713,
       "num": 1992713,
       "word": "婴儿整天躺着不会无聊吗",
@@ -601,6 +609,14 @@
       "onboard_time": 1691055760,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1818366,
+      "num": 1012614,
+      "word": "TFBOYS夹起来了",
+      "onboard_time": 1691222495,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1810483,
@@ -1468,7 +1484,7 @@
     },
     {
       "raw_hot": 1255084,
-      "num": 614141,
+      "num": 763941,
       "word": "张艺凡去看TFBOYS演唱会",
       "onboard_time": 1691222735,
       "rank": 8,
@@ -1707,14 +1723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1104730,
-      "num": 1012614,
-      "word": "TFBOYS夹起来了",
-      "onboard_time": 1691222495,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1103962,
       "num": 1103962,
       "word": "真实的缅北边境现状",
@@ -1939,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1046350,
+      "num": 1002747,
+      "word": "吴倩婚恋观",
+      "onboard_time": 1691223816,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1041563,
       "num": 1041563,
       "word": "雪滴花",
@@ -2003,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1014636,
+      "num": 1014636,
+      "word": "保定因灾死亡10人失联18人",
+      "onboard_time": 1691227118,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1009982,
       "num": 944640,
       "word": "北京房山的洪水变化过程",
@@ -2033,14 +2057,6 @@
       "onboard_time": 1691021676,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1002747,
-      "num": 1002747,
-      "word": "吴倩婚恋观",
-      "onboard_time": 1691223816,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 1001565,
@@ -2363,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 928083,
+      "num": 928083,
+      "word": "王传君戏份",
+      "onboard_time": 1691226575,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 927742,
       "num": 927742,
       "word": "夭璟原著结局",
@@ -2521,14 +2545,6 @@
       "onboard_time": 1691197655,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 899805,
-      "num": 899805,
-      "word": "保定因灾死亡10人失联18人",
-      "onboard_time": 1691227118,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 897590,
@@ -2731,14 +2747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 859354,
-      "num": 859354,
-      "word": "王传君戏份",
-      "onboard_time": 1691226575,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 858183,
       "num": 858183,
       "word": "北京一名女救援队员牺牲",
@@ -2891,6 +2899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 823019,
+      "num": 823019,
+      "word": "保定因灾直接经济损失169.95亿元",
+      "onboard_time": 1691227716,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820835,
       "num": 380675,
       "word": "建议女孩子别用铁的鲨鱼夹",
@@ -2905,6 +2921,14 @@
       "onboard_time": 1690897898,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 818869,
+      "num": 818869,
+      "word": "舒兰村民发现一具遗体",
+      "onboard_time": 1691228614,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 814169,
@@ -3161,6 +3185,14 @@
       "onboard_time": 1690775013,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 769069,
+      "num": 769069,
+      "word": "票没有但人已经在西安了",
+      "onboard_time": 1691227176,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 769011,
@@ -3691,6 +3723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 704855,
+      "num": 603086,
+      "word": "时代峰峻是要在TFBOYS演唱会团建吗",
+      "onboard_time": 1691228377,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 704429,
       "num": 704429,
       "word": "邓为潮男上线",
@@ -3721,14 +3761,6 @@
       "onboard_time": 1691070097,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 692956,
-      "num": 449911,
-      "word": "魏大勋乌木沉香",
-      "onboard_time": 1691227535,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 692397,
@@ -4139,6 +4171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 641091,
+      "num": 972346,
+      "word": "400斤男子离世前这个举动令人泪目",
+      "onboard_time": 1691225198,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639907,
       "num": 639907,
       "word": "苏妲己 白月光",
@@ -4220,7 +4260,7 @@
     },
     {
       "raw_hot": 629118,
-      "num": 629118,
+      "num": 992458,
       "word": "大妈误会卖肉老板中暑为其刮痧10分钟",
       "onboard_time": 1691224536,
       "rank": 8,
@@ -5155,14 +5195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 547285,
-      "num": 547285,
-      "word": "400斤男子离世前这个举动令人泪目",
-      "onboard_time": 1691225198,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 546988,
       "num": 546988,
       "word": "内娱天选将军文男主",
@@ -5969,14 +6001,6 @@
       "onboard_time": 1690754655,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472515,
-      "num": 250351,
-      "word": "票没有但人已经在西安了",
-      "onboard_time": 1691227176,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 472036,
@@ -7113,6 +7137,14 @@
       "onboard_time": 1691081365,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 394242,
+      "num": 283940,
+      "word": "吴倩另一半长得帅很重要",
+      "onboard_time": 1691229698,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 394088,
@@ -8260,7 +8292,7 @@
     },
     {
       "raw_hot": 326947,
-      "num": 206063,
+      "num": 230271,
       "word": "林一翻跳ENHYPEN的biteme",
       "onboard_time": 1691226874,
       "rank": 35,
@@ -8411,6 +8443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318611,
+      "num": 309987,
+      "word": "男子一天8瓶可乐瘦70斤被送医抢救",
+      "onboard_time": 1691225378,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318154,
       "num": 318154,
       "word": "小夭的三个男人乐子真多",
@@ -8468,7 +8508,7 @@
     },
     {
       "raw_hot": 315161,
-      "num": 315161,
+      "num": 943256,
       "word": "K396乘客哭着感谢落坡岭居民",
       "onboard_time": 1691221897,
       "rank": 19,
@@ -8540,7 +8580,7 @@
     },
     {
       "raw_hot": 313154,
-      "num": 205772,
+      "num": 213896,
       "word": "王俊凯王源易烊千玺喜欢你彩排",
       "onboard_time": 1691227475,
       "rank": 37,
@@ -8705,14 +8745,6 @@
       "onboard_time": 1690733311,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 306814,
-      "num": 276018,
-      "word": "男子一天8瓶可乐瘦70斤被送医抢救",
-      "onboard_time": 1691225378,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306649,
@@ -8923,6 +8955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300111,
+      "num": 233478,
+      "word": "明天见",
+      "onboard_time": 1691116894,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 299924,
       "num": 299924,
       "word": "坐公交听到两位大妈的催生攻略",
@@ -9107,6 +9147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291079,
+      "num": 214145,
+      "word": "王俊凯王源易烊千玺新歌字数统计",
+      "onboard_time": 1691228793,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 291031,
       "num": 291031,
       "word": "齐葩地下恋情被发现",
@@ -9232,6 +9280,14 @@
       "word": "Elk 卖票小子",
       "onboard_time": 1690897358,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 287652,
+      "num": 287652,
+      "word": "JDG对战LNG",
+      "onboard_time": 1691227958,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -9385,14 +9441,6 @@
       "onboard_time": 1690886793,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 280095,
-      "num": 242694,
-      "word": "保定因灾直接经济损失169.95亿元",
-      "onboard_time": 1691227716,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279913,
@@ -9651,12 +9699,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268866,
-      "num": 233478,
-      "word": "明天见",
-      "onboard_time": 1691116894,
+      "raw_hot": 269325,
+      "num": 214070,
+      "word": "TFBOYS演唱会西安公交开3条免费摆渡线路",
+      "onboard_time": 1691228377,
       "rank": 37,
-      "category": "音乐"
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 268241,
@@ -10443,6 +10491,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 239653,
+      "num": 213593,
+      "word": "赵丽颖的心态",
+      "onboard_time": 1691230357,
+      "rank": 45,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 239646,
       "num": 239646,
       "word": "张艺兴新电影破亿海报",
@@ -11163,6 +11219,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 216765,
+      "num": 216765,
+      "word": "日本女足vs挪威女足",
+      "onboard_time": 1691229820,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216627,
       "num": 196762,
       "word": "断眉上海演唱会获批",
@@ -11273,6 +11337,14 @@
       "onboard_time": 1691058100,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214204,
+      "num": 214204,
+      "word": "大理双廊古镇",
+      "onboard_time": 1691228614,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 214182,
@@ -12211,6 +12283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194512,
+      "num": 214023,
+      "word": "朋友第一次收卡的时候",
+      "onboard_time": 1691229937,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 194460,
       "num": 205936,
       "word": "95生格局五六三王",
@@ -12427,6 +12507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189252,
+      "num": 213915,
+      "word": "西安下雨",
+      "onboard_time": 1691229635,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189034,
       "num": 235712,
       "word": "夏季赛第七周最佳阵容",
@@ -12457,6 +12545,14 @@
       "onboard_time": 1691198134,
       "rank": 47,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 188530,
+      "num": 213718,
+      "word": "KSG对战Hero",
+      "onboard_time": 1691229215,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 188074,
@@ -13449,14 +13545,6 @@
       "onboard_time": 1691048615,
       "rank": 48,
       "category": "科技,影视"
-    },
-    {
-      "raw_hot": 140843,
-      "num": 204057,
-      "word": "JDG对战LNG",
-      "onboard_time": 1691227958,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 140719,
