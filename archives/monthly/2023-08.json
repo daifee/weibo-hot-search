@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691212496339,
+  "endTime": 1691213628323,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 1809012,
-      "num": 636967,
+      "num": 746065,
       "word": "中新网评TFBOYS粉丝抢位置打架",
       "onboard_time": 1691211334,
       "rank": 3,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1781391,
-      "num": 457856,
+      "num": 462282,
       "word": "杨紫回应外形质疑",
       "onboard_time": 1691207436,
       "rank": 12,
@@ -1003,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1305870,
+      "num": 1305870,
+      "word": "想当兵的体育生18岁成人礼却纹了大花臂",
+      "onboard_time": 1691209775,
+      "rank": 34,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 1304449,
       "num": 1304449,
       "word": "暴雨后北京街头堆积大量受损汽车",
@@ -1251,7 +1259,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1130893,
+      "raw_hot": 1131584,
       "num": 305476,
       "word": "哇唧唧哇简介没看见肖战",
       "onboard_time": 1691210134,
@@ -1411,14 +1419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1063293,
-      "num": 374271,
-      "word": "想当兵的体育生18岁成人礼却纹了大花臂",
-      "onboard_time": 1691209775,
-      "rank": 34,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 1061684,
       "num": 1061684,
       "word": "北京强降雨14名失联人员确认安全",
@@ -1492,7 +1492,7 @@
     },
     {
       "raw_hot": 1024415,
-      "num": 406377,
+      "num": 451371,
       "word": "黄奕晒女儿夏令营行李箱",
       "onboard_time": 1691208576,
       "rank": 16,
@@ -3891,6 +3891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556586,
+      "num": 556586,
+      "word": "钱天一四冠王",
+      "onboard_time": 1691211996,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 556427,
       "num": 556427,
       "word": "就该叫相柳大人",
@@ -4009,14 +4017,6 @@
       "onboard_time": 1690869157,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542266,
-      "num": 542266,
-      "word": "钱天一四冠王",
-      "onboard_time": 1691211996,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 542175,
@@ -4145,6 +4145,14 @@
       "onboard_time": 1691203115,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 529833,
+      "num": 529833,
+      "word": "家人扔掉收养的狗致女子被公司解雇",
+      "onboard_time": 1691211095,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529336,
@@ -4297,6 +4305,14 @@
       "onboard_time": 1690885774,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516258,
+      "num": 516258,
+      "word": "TFBOYS十年纪念专辑配置",
+      "onboard_time": 1691212417,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 515396,
@@ -4585,6 +4601,14 @@
       "onboard_time": 1691121817,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 482368,
+      "num": 406850,
+      "word": "娜然熟悉狐狸动作的参考图",
+      "onboard_time": 1691211934,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 482158,
@@ -5041,14 +5065,6 @@
       "onboard_time": 1690935155,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 441776,
-      "num": 372951,
-      "word": "TFBOYS十年纪念专辑配置",
-      "onboard_time": 1691212417,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 441514,
@@ -5515,6 +5531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402975,
+      "num": 208990,
+      "word": "知名华人企业家在美国酒店身亡",
+      "onboard_time": 1691213013,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402931,
       "num": 402931,
       "word": "建军节",
@@ -5785,14 +5809,6 @@
       "onboard_time": 1690971815,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 379829,
-      "num": 372373,
-      "word": "家人扔掉收养的狗致女子被公司解雇",
-      "onboard_time": 1691211095,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 379627,
@@ -6465,14 +6481,6 @@
       "onboard_time": 1691164306,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 329919,
-      "num": 223001,
-      "word": "娜然熟悉狐狸动作的参考图",
-      "onboard_time": 1691211934,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 327890,
@@ -8803,6 +8811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216041,
+      "num": 216041,
+      "word": "大运会",
+      "onboard_time": 1691212417,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215944,
       "num": 215944,
       "word": "三个男主对小夭的感情",
@@ -9139,6 +9155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205907,
+      "num": 222969,
+      "word": "战至巅峰",
+      "onboard_time": 1691212475,
+      "rank": 41,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 205656,
       "num": 205656,
       "word": "热烈 彪彪",
@@ -9241,14 +9265,6 @@
       "onboard_time": 1690867895,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203225,
-      "num": 222969,
-      "word": "战至巅峰",
-      "onboard_time": 1691212475,
-      "rank": 41,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 203025,
@@ -10219,6 +10235,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 171532,
+      "num": 208872,
+      "word": "钱天一4比3出泽杏佳",
+      "onboard_time": 1691212593,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171002,
       "num": 236190,
       "word": "shinyruo 明天播",
@@ -10257,6 +10281,14 @@
       "onboard_time": 1691033201,
       "rank": 31,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 168244,
+      "num": 208620,
+      "word": "此沙封神有效妆造",
+      "onboard_time": 1691211394,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 168231,
@@ -10731,6 +10763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130887,
+      "num": 222955,
+      "word": "最值得去的40个国内旅行地",
+      "onboard_time": 1691210976,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 130306,
       "num": 1532249,
       "word": "海河流域155座大中型水库全部投入防洪",
@@ -10769,14 +10809,6 @@
       "onboard_time": 1691055096,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126147,
-      "num": 222955,
-      "word": "最值得去的40个国内旅行地",
-      "onboard_time": 1691210976,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 125834,
@@ -10825,6 +10857,14 @@
       "onboard_time": 1690846108,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121858,
+      "num": 208479,
+      "word": "公主的饺子都是带花边的",
+      "onboard_time": 1691212297,
+      "rank": 48,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 121481,
