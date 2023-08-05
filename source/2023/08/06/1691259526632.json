@@ -1,0 +1,410 @@
+{
+  "runTime": 1691259526632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 490516,
+        "num": 490516,
+        "word": "安崎自曝出道后失业到现在",
+        "onboard_time": 1691244046,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304940,
+        "num": 304940,
+        "word": "王俊凯想笑就笑吧",
+        "onboard_time": 1691248906,
+        "rank": 1,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 50484,
+        "num": 271558,
+        "word": "大运会又一个显眼包出现了",
+        "onboard_time": 1691242727,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260757,
+        "num": 260757,
+        "word": "大张伟 所有的快乐和悲伤都是因为人际关系",
+        "onboard_time": 1691251419,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257034,
+        "num": 257034,
+        "word": "TFBOYS十周年彩排视频",
+        "onboard_time": 1691253870,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220977,
+        "num": 220977,
+        "word": "封神海报妲己穿纣王衣服",
+        "onboard_time": 1691244406,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206796,
+        "num": 206796,
+        "word": "她们干了我小时候想干不敢干的事",
+        "onboard_time": 1691247883,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 189608,
+        "num": 189608,
+        "word": "茶颜悦色不支持点单取单两人同时排队",
+        "onboard_time": 1691233715,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183073,
+        "num": 183073,
+        "word": "救援队员返乡后哭诉再也不想参与",
+        "onboard_time": 1691253094,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49800,
+        "num": 181372,
+        "word": "大运女篮中国队胜日本队夺冠",
+        "onboard_time": 1691242908,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197256,
+        "num": 181296,
+        "word": "莲花楼丧尸案",
+        "onboard_time": 1691236901,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184022,
+        "num": 181162,
+        "word": "迪丽热巴龚俊手牵得好紧",
+        "onboard_time": 1691249505,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180848,
+        "num": 180848,
+        "word": "这是尊嘟假嘟 这是我微信余额",
+        "onboard_time": 1691239848,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171842,
+        "num": 171842,
+        "word": "王鹤棣再次错过迪丽热巴",
+        "onboard_time": 1691241885,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168634,
+        "num": 168634,
+        "word": "路飞五档",
+        "onboard_time": 1691249920,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169656,
+        "num": 157809,
+        "word": "时代峰峻负责人称对TFBOYS有遗憾",
+        "onboard_time": 1691241824,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136687,
+        "num": 136687,
+        "word": "舒兰失联副市长上一线指挥防汛是工作常态",
+        "onboard_time": 1691246983,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140774,
+        "num": 130395,
+        "word": "TFBOYS大花轿",
+        "onboard_time": 1691248603,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123122,
+        "num": 123122,
+        "word": "为什么没人拍博士生的偶像剧",
+        "onboard_time": 1691247947,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25680,
+        "num": 123028,
+        "word": "CCTV国家公园",
+        "onboard_time": 1691242846,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502066,
+        "num": 121433,
+        "word": "王俊凯王源易烊千玺怎么不笑了",
+        "onboard_time": 1691236901,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183241,
+        "num": 120189,
+        "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
+        "onboard_time": 1691240865,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182262,
+        "num": 119288,
+        "word": "男子上厕所发现马桶底座盘大蛇",
+        "onboard_time": 1691249321,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155077,
+        "num": 117758,
+        "word": "爸爸好像忘记我已经结婚了",
+        "onboard_time": 1691245066,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142616,
+        "num": 116913,
+        "word": "同事劝我不要买杂牌口红",
+        "onboard_time": 1691240446,
+        "rank": 24,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 136580,
+        "num": 115161,
+        "word": "时代峰峻回应时团没有代表作",
+        "onboard_time": 1691243809,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134308,
+        "num": 114133,
+        "word": "孤注一掷",
+        "onboard_time": 1691245006,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125474,
+        "num": 112837,
+        "word": "异人之下 介质原因延期播出",
+        "onboard_time": 1691243265,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112194,
+        "num": 112194,
+        "word": "你的25岁是什么样的",
+        "onboard_time": 1691254708,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106693,
+        "num": 106693,
+        "word": "导演们看看大码女演员吧",
+        "onboard_time": 1691248546,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106557,
+        "num": 106557,
+        "word": "封神榜",
+        "onboard_time": 1691253692,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106174,
+        "num": 106174,
+        "word": "田馥甄演唱会",
+        "onboard_time": 1691242189,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105808,
+        "num": 105808,
+        "word": "给狗狗买磨牙棒忘了看尺寸",
+        "onboard_time": 1691247347,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103895,
+        "num": 103895,
+        "word": "TFBOYS夹起来了",
+        "onboard_time": 1691222495,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84925,
+        "num": 84925,
+        "word": "房东给买了一个迷你冰箱",
+        "onboard_time": 1691235698,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84523,
+        "num": 84523,
+        "word": "张艺兴演唱会中控",
+        "onboard_time": 1691247166,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83202,
+        "num": 83202,
+        "word": "王源脚脖子呢",
+        "onboard_time": 1691250103,
+        "rank": 36,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 70194,
+        "num": 70194,
+        "word": "海贼王",
+        "onboard_time": 1691251000,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 68696,
+        "num": 68696,
+        "word": "北部战区向黑吉派出前进指挥所",
+        "onboard_time": 1691251239,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61344,
+        "num": 68689,
+        "word": "JDG三连冠",
+        "onboard_time": 1691244469,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78131,
+        "num": 68674,
+        "word": "时代峰峻全家福",
+        "onboard_time": 1691237620,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75349,
+        "num": 68664,
+        "word": "异人之下只有冯宝宝一个i人",
+        "onboard_time": 1691249263,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74220,
+        "num": 68643,
+        "word": "孤注一掷 诈骗电影玩纯爱",
+        "onboard_time": 1691226575,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62230,
+        "num": 68631,
+        "word": "张信哲演唱会",
+        "onboard_time": 1691252975,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61951,
+        "num": 68624,
+        "word": "严浩翔被正式确诊为尔康",
+        "onboard_time": 1691235159,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54694,
+        "num": 68609,
+        "word": "Missing说带Yagao去世界赛",
+        "onboard_time": 1691242004,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51562,
+        "num": 68598,
+        "word": "EDG冒泡赛对战LNG",
+        "onboard_time": 1691246265,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47363,
+        "num": 68582,
+        "word": "你身边女性自由职业者的人",
+        "onboard_time": 1691248968,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47196,
+        "num": 68566,
+        "word": "黑龙江五常发布防汛救援公告",
+        "onboard_time": 1691252431,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45210,
+        "num": 68557,
+        "word": "BLG",
+        "onboard_time": 1691246024,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#风雨同心人民至上#"
+    }
+  }
+}
