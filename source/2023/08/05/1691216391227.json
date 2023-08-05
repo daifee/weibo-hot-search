@@ -1,0 +1,410 @@
+{
+  "runTime": 1691216391227,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2549327,
+        "num": 2549327,
+        "word": "小杨哥回应捐款2000万为抵税",
+        "onboard_time": 1691214094,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1313252,
+        "num": 1313252,
+        "word": "为什么十年之约只能在西安办",
+        "onboard_time": 1691204195,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62864,
+        "num": 923148,
+        "word": "暴雨洪水过后的安全及防疫提醒",
+        "onboard_time": 1691205695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922094,
+        "num": 922094,
+        "word": "想当兵的体育生18岁成人礼却纹了大花臂",
+        "onboard_time": 1691209775,
+        "rank": 3,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 1033042,
+        "num": 915819,
+        "word": "中新网评TFBOYS粉丝抢位置打架",
+        "onboard_time": 1691211334,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 828084,
+        "num": 828084,
+        "word": "知名华人企业家在美国酒店身亡",
+        "onboard_time": 1691213013,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739865,
+        "num": 739865,
+        "word": "TFBOYS十年纪念专辑配置",
+        "onboard_time": 1691212417,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 558394,
+        "num": 558394,
+        "word": "家人扔掉收养的狗致女子被公司解雇",
+        "onboard_time": 1691211095,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790645,
+        "num": 536637,
+        "word": "TFBOYS专辑",
+        "onboard_time": 1691208456,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 489859,
+        "num": 489859,
+        "word": "羽生结弦老婆",
+        "onboard_time": 1691161436,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 874239,
+        "num": 475270,
+        "word": "杨紫回应外形质疑",
+        "onboard_time": 1691207436,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531926,
+        "num": 471513,
+        "word": "王俊凯不完美小孩彩排路透",
+        "onboard_time": 1691209594,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 516907,
+        "num": 465728,
+        "word": "黄奕晒女儿夏令营行李箱",
+        "onboard_time": 1691208576,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444898,
+        "num": 444898,
+        "word": "娜然熟悉狐狸动作的参考图",
+        "onboard_time": 1691211934,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357905,
+        "num": 357905,
+        "word": "川籍艺人用四川话为成都大运会打call",
+        "onboard_time": 1691214816,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 422279,
+        "num": 357732,
+        "word": "难听",
+        "onboard_time": 1691205573,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 393249,
+        "num": 357335,
+        "word": "新华网评价巨齿鲨2",
+        "onboard_time": 1691214696,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356012,
+        "num": 356012,
+        "word": "暑假工25天挣三千多什么水平",
+        "onboard_time": 1691198375,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299855,
+        "num": 299855,
+        "word": "逆水寒",
+        "onboard_time": 1691210199,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292124,
+        "num": 292124,
+        "word": "退伍军人从2楼跳入洪水为救援队开门",
+        "onboard_time": 1691202573,
+        "rank": 19,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 220075,
+        "num": 291913,
+        "word": "最好看的雨是空投雨",
+        "onboard_time": 1691214403,
+        "rank": 20,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 743229,
+        "num": 291864,
+        "word": "哇唧唧哇简介没看见肖战",
+        "onboard_time": 1691210134,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501409,
+        "num": 291651,
+        "word": "男子婚内与外遇生女双双获刑",
+        "onboard_time": 1691214999,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442352,
+        "num": 291381,
+        "word": "公司的下午茶400份螺蛳粉",
+        "onboard_time": 1691215175,
+        "rank": 23,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 320360,
+        "num": 290969,
+        "word": "七时吉祥无限流爱情副本",
+        "onboard_time": 1691214934,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314242,
+        "num": 290753,
+        "word": "TFBOYS新歌明天见",
+        "onboard_time": 1691202573,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290730,
+        "num": 290730,
+        "word": "姬发 伯邑考",
+        "onboard_time": 1691199395,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290251,
+        "num": 290251,
+        "word": "公主的饺子都是带花边的",
+        "onboard_time": 1691212297,
+        "rank": 27,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 263471,
+        "num": 263471,
+        "word": "TFBOYS合体路透",
+        "onboard_time": 1691192728,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231616,
+        "num": 231616,
+        "word": "潘玮柏被芯竹问为什么淘汰我",
+        "onboard_time": 1691204195,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228385,
+        "num": 228385,
+        "word": "张晚意早期广告 妖娆表哥",
+        "onboard_time": 1691204133,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227375,
+        "num": 227375,
+        "word": "0713首演情景喜剧",
+        "onboard_time": 1691215654,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219357,
+        "num": 219357,
+        "word": "女孩租房开2小时空调用完100元电费",
+        "onboard_time": 1691190141,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216994,
+        "num": 216994,
+        "word": "钱天一四冠王",
+        "onboard_time": 1691211996,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218623,
+        "num": 214300,
+        "word": "小伙手腕上刺初恋分手后相亲次次告吹",
+        "onboard_time": 1691215654,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 207013,
+        "num": 207013,
+        "word": "周深演唱会",
+        "onboard_time": 1691216014,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189539,
+        "num": 207009,
+        "word": "王俊凯王源易烊千玺小黑屋合集",
+        "onboard_time": 1691204313,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133785,
+        "num": 207002,
+        "word": "王嘉尔开空投",
+        "onboard_time": 1691215833,
+        "rank": 37,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 174534,
+        "num": 206994,
+        "word": "为什么越来越多年轻人选择单身",
+        "onboard_time": 1691194053,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168723,
+        "num": 206993,
+        "word": "国乒包揽大运会乒乓球全部金牌",
+        "onboard_time": 1691213917,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183966,
+        "num": 206983,
+        "word": "女法医留遗言我死了你们接着解剖我",
+        "onboard_time": 1691196576,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183297,
+        "num": 206977,
+        "word": "沈梦辰听到林允吐了的反应",
+        "onboard_time": 1691200595,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173639,
+        "num": 206975,
+        "word": "王俊凯易烊千玺牵手错位图",
+        "onboard_time": 1691192790,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166084,
+        "num": 206966,
+        "word": "卡芙卡一个无人知道的故事",
+        "onboard_time": 1691215717,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154624,
+        "num": 206957,
+        "word": "相柳死前拿着送给小夭的大肚娃娃和箭",
+        "onboard_time": 1691206775,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152536,
+        "num": 206950,
+        "word": "封神第一部",
+        "onboard_time": 1691195251,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152152,
+        "num": 206948,
+        "word": "原来台湾的语文课本长这样",
+        "onboard_time": 1691192668,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151891,
+        "num": 206941,
+        "word": "专家称投降式睡姿弊大于利",
+        "onboard_time": 1691193510,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151151,
+        "num": 206937,
+        "word": "杨幂向涿州灾区捐赠物资",
+        "onboard_time": 1691200955,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132151,
+        "num": 206931,
+        "word": "吉林舒兰强降雨已造成1死4失联",
+        "onboard_time": 1691211694,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养更多高素质技术技能人才#"
+    }
+  }
+}
