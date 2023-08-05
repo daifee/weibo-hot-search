@@ -1,0 +1,410 @@
+{
+  "runTime": 1691220823601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2303262,
+        "num": 2303262,
+        "word": "小杨哥回应捐款2000万为抵税",
+        "onboard_time": 1691214094,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 938773,
+        "num": 938773,
+        "word": "王俊凯唱连名带姓",
+        "onboard_time": 1691216496,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 793104,
+        "num": 793104,
+        "word": "电影孤注一掷",
+        "onboard_time": 1691220399,
+        "rank": 2,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 773310,
+        "num": 773310,
+        "word": "想当兵的体育生18岁成人礼却纹了大花臂",
+        "onboard_time": 1691209775,
+        "rank": 3,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 767175,
+        "num": 767175,
+        "word": "何超莲的沉默震耳欲聋",
+        "onboard_time": 1691216556,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 758723,
+        "num": 758723,
+        "word": "内耗式恋爱",
+        "onboard_time": 1691217218,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 746416,
+        "num": 746416,
+        "word": "舒兰市一常务副市长在抗洪抢险中失联",
+        "onboard_time": 1691218415,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607509,
+        "num": 607509,
+        "word": "为什么十年之约只能在西安办",
+        "onboard_time": 1691204195,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 502853,
+        "num": 502853,
+        "word": "知名华人企业家在美国酒店身亡",
+        "onboard_time": 1691213013,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496283,
+        "num": 496283,
+        "word": "林俊杰亲自认证浪漫广西梗",
+        "onboard_time": 1691217515,
+        "rank": 9,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 2487125,
+        "num": 451772,
+        "word": "具俊晔哭了",
+        "onboard_time": 1691217034,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639151,
+        "num": 432267,
+        "word": "王俊凯裤腿P叉了",
+        "onboard_time": 1691219913,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 566666,
+        "num": 331194,
+        "word": "中新网评TFBOYS粉丝抢位置打架",
+        "onboard_time": 1691211334,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503124,
+        "num": 319774,
+        "word": "哇唧唧哇简介没看见肖战",
+        "onboard_time": 1691210134,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269787,
+        "num": 269787,
+        "word": "川籍艺人用四川话为成都大运会打call",
+        "onboard_time": 1691214816,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 488969,
+        "num": 264652,
+        "word": "刘涛黑白蕾丝庄园大片",
+        "onboard_time": 1691218778,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 451325,
+        "num": 261401,
+        "word": "杨紫回应外形质疑",
+        "onboard_time": 1691207436,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256740,
+        "num": 256740,
+        "word": "羽生结弦老婆",
+        "onboard_time": 1691161436,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 223507,
+        "num": 223507,
+        "word": "家人扔掉收养的狗致女子被公司解雇",
+        "onboard_time": 1691211095,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172511,
+        "num": 223450,
+        "word": "退伍军人从2楼跳入洪水为救援队开门",
+        "onboard_time": 1691202573,
+        "rank": 19,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 797734,
+        "num": 223199,
+        "word": "男子婚内与外遇生女双双获刑",
+        "onboard_time": 1691214999,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375149,
+        "num": 222853,
+        "word": "TFBOYS专辑",
+        "onboard_time": 1691208456,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301014,
+        "num": 222394,
+        "word": "公司的下午茶400份螺蛳粉",
+        "onboard_time": 1691215175,
+        "rank": 22,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 299783,
+        "num": 222162,
+        "word": "工作后突然觉得爸妈好厉害",
+        "onboard_time": 1691219196,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296161,
+        "num": 221840,
+        "word": "新手保护期结束了",
+        "onboard_time": 1691217875,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272234,
+        "num": 221445,
+        "word": "黄子佼被限制出境出海",
+        "onboard_time": 1691220156,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258461,
+        "num": 221222,
+        "word": "毕雯珺回应新剧造型争议",
+        "onboard_time": 1691216556,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251327,
+        "num": 220877,
+        "word": "小伙手腕上刺初恋分手后相亲次次告吹",
+        "onboard_time": 1691215654,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 248814,
+        "num": 220650,
+        "word": "新华网评价巨齿鲨2",
+        "onboard_time": 1691214696,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223991,
+        "num": 220423,
+        "word": "难听",
+        "onboard_time": 1691205573,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 737975,
+        "num": 220007,
+        "word": "貌似没再和SM续约的少女时代Sunny",
+        "onboard_time": 1691218717,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231325,
+        "num": 219679,
+        "word": "1岁女童一头栽进洗澡桶溺水挣扎",
+        "onboard_time": 1691219975,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219591,
+        "num": 219591,
+        "word": "七时吉祥无限流爱情副本",
+        "onboard_time": 1691214934,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215216,
+        "num": 215216,
+        "word": "TFBOYS十年纪念专辑配置",
+        "onboard_time": 1691212417,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201182,
+        "num": 215207,
+        "word": "2023KPL夏季赛",
+        "onboard_time": 1691219675,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204385,
+        "num": 215090,
+        "word": "王俊凯不完美小孩彩排路透",
+        "onboard_time": 1691209594,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203049,
+        "num": 214990,
+        "word": "周深演唱会",
+        "onboard_time": 1691216014,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150917,
+        "num": 214943,
+        "word": "暑假工25天挣三千多什么水平",
+        "onboard_time": 1691198375,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142970,
+        "num": 214852,
+        "word": "逆水寒",
+        "onboard_time": 1691210199,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134162,
+        "num": 214705,
+        "word": "公主的饺子都是带花边的",
+        "onboard_time": 1691212297,
+        "rank": 39,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 202315,
+        "num": 214654,
+        "word": "秦霄贤桃花全靠自己种",
+        "onboard_time": 1691220757,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190328,
+        "num": 214547,
+        "word": "娜然熟悉狐狸动作的参考图",
+        "onboard_time": 1691211934,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177488,
+        "num": 214434,
+        "word": "金晨深V开叉裙",
+        "onboard_time": 1691220695,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 173201,
+        "num": 214399,
+        "word": "姬发 伯邑考",
+        "onboard_time": 1691199395,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170893,
+        "num": 214324,
+        "word": "张大大也去看TFBOYS演唱会吗",
+        "onboard_time": 1691205276,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49402,
+        "num": 214160,
+        "word": "暴雨洪水过后的安全及防疫提醒",
+        "onboard_time": 1691205695,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134050,
+        "num": 214065,
+        "word": "吉林舒兰部分村镇洪水漫灌",
+        "onboard_time": 1691220399,
+        "rank": 46,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 132651,
+        "num": 213983,
+        "word": "大爷用白洋淀景区游船当救援船",
+        "onboard_time": 1691219316,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130616,
+        "num": 213955,
+        "word": "大运会周恺男单金牌",
+        "onboard_time": 1691218834,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109556,
+        "num": 213848,
+        "word": "小狗的朋友叼来了它生前的玩具",
+        "onboard_time": 1691220096,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养更多高素质技术技能人才#"
+    }
+  }
+}

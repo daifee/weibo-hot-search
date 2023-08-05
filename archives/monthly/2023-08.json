@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691219633885,
+  "endTime": 1691220823601,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -211,19 +211,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2487125,
+      "num": 491053,
+      "word": "具俊晔哭了",
+      "onboard_time": 1691217034,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2477783,
       "num": 2477783,
       "word": "奚安娜",
       "onboard_time": 1690938274,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2469191,
-      "num": 491053,
-      "word": "具俊晔哭了",
-      "onboard_time": 1691217034,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -1276,7 +1276,7 @@
     },
     {
       "raw_hot": 1131584,
-      "num": 305476,
+      "num": 319774,
       "word": "哇唧唧哇简介没看见肖战",
       "onboard_time": 1691210134,
       "rank": 20,
@@ -2379,6 +2379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 793104,
+      "num": 793104,
+      "word": "电影孤注一掷",
+      "onboard_time": 1691220399,
+      "rank": 2,
+      "category": "影视"
+    },
+    {
       "raw_hot": 791461,
       "num": 791461,
       "word": "石家庄暴雨",
@@ -2489,6 +2497,14 @@
       "onboard_time": 1690853373,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 758723,
+      "num": 758723,
+      "word": "内耗式恋爱",
+      "onboard_time": 1691217218,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 758530,
@@ -2611,6 +2627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 746416,
+      "num": 746416,
+      "word": "舒兰市一常务副市长在抗洪抢险中失联",
+      "onboard_time": 1691218415,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746012,
       "num": 746012,
       "word": "张大大问毛不易上岸了吗",
@@ -2657,6 +2681,14 @@
       "onboard_time": 1691212417,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 737975,
+      "num": 220007,
+      "word": "貌似没再和SM续约的少女时代Sunny",
+      "onboard_time": 1691218717,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 736600,
@@ -3251,6 +3283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 639151,
+      "num": 432267,
+      "word": "王俊凯裤腿P叉了",
+      "onboard_time": 1691219913,
+      "rank": 11,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 638825,
       "num": 552998,
       "word": "玱玹向小夭坦白",
@@ -3667,14 +3707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 588163,
-      "num": 215555,
-      "word": "貌似没再和SM续约的少女时代Sunny",
-      "onboard_time": 1691218717,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 587832,
       "num": 643853,
       "word": "杭州动物园的马来熊在国外火了",
@@ -3761,14 +3793,6 @@
       "onboard_time": 1691160418,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 578011,
-      "num": 578011,
-      "word": "内耗式恋爱",
-      "onboard_time": 1691217218,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 575974,
@@ -4475,14 +4499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 502849,
-      "num": 457832,
-      "word": "舒兰市一常务副市长在抗洪抢险中失联",
-      "onboard_time": 1691218415,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501250,
       "num": 451198,
       "word": "在美国聚会做水煮鱼惊艳全场",
@@ -4531,6 +4547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 496283,
+      "num": 496283,
+      "word": "林俊杰亲自认证浪漫广西梗",
+      "onboard_time": 1691217515,
+      "rank": 9,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 496243,
       "num": 496243,
       "word": "EDG冒泡赛打谁",
@@ -4553,14 +4577,6 @@
       "onboard_time": 1691197055,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 495189,
-      "num": 495189,
-      "word": "林俊杰亲自认证浪漫广西梗",
-      "onboard_time": 1691217515,
-      "rank": 9,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 495034,
@@ -4625,6 +4641,14 @@
       "onboard_time": 1690954174,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 488969,
+      "num": 264652,
+      "word": "刘涛黑白蕾丝庄园大片",
+      "onboard_time": 1691218778,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 488890,
@@ -7091,6 +7115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299783,
+      "num": 222162,
+      "word": "工作后突然觉得爸妈好厉害",
+      "onboard_time": 1691219196,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 298149,
       "num": 298149,
       "word": "长相思弹幕好搞笑",
@@ -7611,6 +7643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272234,
+      "num": 221445,
+      "word": "黄子佼被限制出境出海",
+      "onboard_time": 1691220156,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272172,
       "num": 272172,
       "word": "哪款游戏让你坚持了十年",
@@ -7849,14 +7889,6 @@
       "onboard_time": 1690909044,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260965,
-      "num": 212007,
-      "word": "刘涛黑白蕾丝庄园大片",
-      "onboard_time": 1691218778,
-      "rank": 31,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 259827,
@@ -8529,6 +8561,14 @@
       "onboard_time": 1691150437,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231325,
+      "num": 219679,
+      "word": "1岁女童一头栽进洗澡桶溺水挣扎",
+      "onboard_time": 1691219975,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231232,
@@ -9443,14 +9483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203366,
-      "num": 203366,
-      "word": "工作后突然觉得爸妈好厉害",
-      "onboard_time": 1691219196,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 203360,
       "num": 203360,
       "word": "北京消防员救灾中被洪水冲走殉职",
@@ -9489,6 +9521,14 @@
       "onboard_time": 1691021195,
       "rank": 48,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 202315,
+      "num": 214654,
+      "word": "秦霄贤桃花全靠自己种",
+      "onboard_time": 1691220757,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 202187,
@@ -9537,6 +9577,14 @@
       "onboard_time": 1691068834,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201182,
+      "num": 215207,
+      "word": "2023KPL夏季赛",
+      "onboard_time": 1691219675,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 200876,
@@ -10355,6 +10403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177488,
+      "num": 214434,
+      "word": "金晨深V开叉裙",
+      "onboard_time": 1691220695,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 177317,
       "num": 201936,
       "word": "吴俊霆卢昱晓重逢二搭",
@@ -10788,7 +10844,7 @@
     },
     {
       "raw_hot": 151996,
-      "num": 151996,
+      "num": 213983,
       "word": "大爷用白洋淀景区游船当救援船",
       "onboard_time": 1691219316,
       "rank": 45,
@@ -10820,7 +10876,7 @@
     },
     {
       "raw_hot": 149979,
-      "num": 149979,
+      "num": 213955,
       "word": "大运会周恺男单金牌",
       "onboard_time": 1691218834,
       "rank": 46,
@@ -10977,6 +11033,14 @@
       "onboard_time": 1690802072,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134050,
+      "num": 214065,
+      "word": "吉林舒兰部分村镇洪水漫灌",
+      "onboard_time": 1691220399,
+      "rank": 46,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 132109,
@@ -11233,6 +11297,14 @@
       "onboard_time": 1691070455,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109556,
+      "num": 213848,
+      "word": "小狗的朋友叼来了它生前的玩具",
+      "onboard_time": 1691220096,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 108866,
