@@ -1,0 +1,410 @@
+{
+  "runTime": 1691235231576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1571361,
+        "num": 1571361,
+        "word": "茶颜悦色不支持点单取单两人同时排队",
+        "onboard_time": 1691233715,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937484,
+        "num": 937484,
+        "word": "涂山璟急得脚都好了",
+        "onboard_time": 1691230597,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25531,
+        "num": 895773,
+        "word": "断崖旁消防员用身躯做人墙保护孩子",
+        "onboard_time": 1691159079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451879,
+        "num": 862024,
+        "word": "400斤男子离世前这个举动令人泪目",
+        "onboard_time": 1691225198,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504647,
+        "num": 825255,
+        "word": "大妈误会卖肉老板中暑为其刮痧10分钟",
+        "onboard_time": 1691224536,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1787505,
+        "num": 771245,
+        "word": "TFBOYS夹起来了",
+        "onboard_time": 1691222495,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204565,
+        "num": 719520,
+        "word": "K396乘客哭着感谢落坡岭居民",
+        "onboard_time": 1691221897,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718417,
+        "num": 718417,
+        "word": "王俊凯王源易烊千玺不热吗",
+        "onboard_time": 1691223216,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 699471,
+        "num": 699471,
+        "word": "小杨哥回应捐款2000万为抵税",
+        "onboard_time": 1691214094,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 661859,
+        "num": 661859,
+        "word": "电影孤注一掷",
+        "onboard_time": 1691220399,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1478580,
+        "num": 635656,
+        "word": "舒兰村民发现一具遗体",
+        "onboard_time": 1691228614,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901121,
+        "num": 609689,
+        "word": "魏大勋乌木沉香",
+        "onboard_time": 1691227535,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 703824,
+        "num": 609668,
+        "word": "王一博26岁主演票房破26亿",
+        "onboard_time": 1691231794,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 580615,
+        "num": 580615,
+        "word": "七时吉祥",
+        "onboard_time": 1691230835,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44983,
+        "num": 576467,
+        "word": "试飞员4个字描述新型战机发动机",
+        "onboard_time": 1691233296,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573575,
+        "num": 573575,
+        "word": "票没有但人已经在西安了",
+        "onboard_time": 1691227176,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 543424,
+        "num": 543424,
+        "word": "羽生结弦结婚前的舞蹈",
+        "onboard_time": 1691234432,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 534940,
+        "num": 534940,
+        "word": "异人之下",
+        "onboard_time": 1691234615,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524102,
+        "num": 524102,
+        "word": "金晨演技",
+        "onboard_time": 1691232156,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523143,
+        "num": 523143,
+        "word": "饭后喝酸奶真的能促进消化吗",
+        "onboard_time": 1691232755,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 626730,
+        "num": 523136,
+        "word": "榴莲披萨震惊韩国网友",
+        "onboard_time": 1691232515,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 520909,
+        "num": 520909,
+        "word": "吴倩另一半长得帅很重要",
+        "onboard_time": 1691229698,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488099,
+        "num": 488099,
+        "word": "孤注一掷 诈骗电影玩纯爱",
+        "onboard_time": 1691226575,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323261,
+        "num": 323261,
+        "word": "约会时女生主动买单",
+        "onboard_time": 1691231015,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 310261,
+        "num": 310261,
+        "word": "西安下雨",
+        "onboard_time": 1691229635,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487200,
+        "num": 300724,
+        "word": "具俊晔哭了",
+        "onboard_time": 1691217034,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417853,
+        "num": 300581,
+        "word": "时代峰峻是要在TFBOYS演唱会团建吗",
+        "onboard_time": 1691228377,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396864,
+        "num": 298958,
+        "word": "邓为上班好多人拍",
+        "onboard_time": 1691233536,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288197,
+        "num": 288197,
+        "word": "租客把房东花上百万装修的房子拆了",
+        "onboard_time": 1691223458,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384912,
+        "num": 286983,
+        "word": "长相思",
+        "onboard_time": 1691233596,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381381,
+        "num": 277580,
+        "word": "赵丽颖的心态",
+        "onboard_time": 1691230357,
+        "rank": 30,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 384394,
+        "num": 272592,
+        "word": "臣妾要告发皓翎大王姬与防风邶",
+        "onboard_time": 1691234016,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302676,
+        "num": 271268,
+        "word": "李玟老公回应质疑",
+        "onboard_time": 1691231433,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265818,
+        "num": 265818,
+        "word": "我的小猫请你的小猫",
+        "onboard_time": 1691231857,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245565,
+        "num": 245565,
+        "word": "3岁娃人工耳蜗被高铁乘客刮掉",
+        "onboard_time": 1691222434,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301656,
+        "num": 240612,
+        "word": "迪丽热巴龚俊安乐传大结局预告",
+        "onboard_time": 1691232334,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233057,
+        "num": 233057,
+        "word": "成都的外国游客人均J人吧",
+        "onboard_time": 1691233055,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 217607,
+        "num": 217607,
+        "word": "妻子误拿302胶水当眼药水给丈夫",
+        "onboard_time": 1691224175,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210334,
+        "num": 217436,
+        "word": "男子一天8瓶可乐瘦70斤被送医抢救",
+        "onboard_time": 1691225378,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178370,
+        "num": 217052,
+        "word": "JDG对战LNG",
+        "onboard_time": 1691227958,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301350,
+        "num": 216333,
+        "word": "时代少年团或全员去看TFBOYS演唱会",
+        "onboard_time": 1691232515,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289340,
+        "num": 216082,
+        "word": "王一博回复黄渤谢谢渤哥",
+        "onboard_time": 1691235098,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280692,
+        "num": 215472,
+        "word": "严浩翔被正式确诊为尔康",
+        "onboard_time": 1691235159,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278366,
+        "num": 215221,
+        "word": "忘了相柳没钱了",
+        "onboard_time": 1691231913,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275835,
+        "num": 214609,
+        "word": "王传君戏份",
+        "onboard_time": 1691226575,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231628,
+        "num": 214149,
+        "word": "张艺凡去看TFBOYS演唱会",
+        "onboard_time": 1691222735,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175864,
+        "num": 213812,
+        "word": "保定因灾死亡10人失联18人",
+        "onboard_time": 1691227118,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165552,
+        "num": 213293,
+        "word": "i人有个e人的妈妈什么体验",
+        "onboard_time": 1691234315,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158173,
+        "num": 212909,
+        "word": "想当兵的体育生18岁成人礼却纹了大花臂",
+        "onboard_time": 1691209775,
+        "rank": 48,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 139441,
+        "num": 212572,
+        "word": "BRO战胜GEN",
+        "onboard_time": 1691234676,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会有哪些黑科技#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691233948815,
+  "endTime": 1691235231576,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -121,6 +121,14 @@
       "onboard_time": 1691202573,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1571361,
+      "num": 1571361,
+      "word": "茶颜悦色不支持点单取单两人同时排队",
+      "onboard_time": 1691233715,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1569919,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 937484,
+      "num": 937484,
+      "word": "涂山璟急得脚都好了",
+      "onboard_time": 1691230597,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 935817,
       "num": 935817,
       "word": "张踩铃婆婆",
@@ -360,14 +376,6 @@
       "word": "莲花楼 所有女孩的自救",
       "onboard_time": 1691197655,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 892889,
-      "num": 892889,
-      "word": "涂山璟急得脚都好了",
-      "onboard_time": 1691230597,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -587,8 +595,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 678473,
-      "num": 360273,
+      "raw_hot": 703824,
+      "num": 609668,
       "word": "王一博26岁主演票房破26亿",
       "onboard_time": 1691231794,
       "rank": 13,
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626730,
+      "num": 523136,
+      "word": "榴莲披萨震惊韩国网友",
+      "onboard_time": 1691232515,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 614918,
       "num": 436389,
       "word": "唐恬是团粉吧",
@@ -665,14 +681,6 @@
       "onboard_time": 1691226036,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 606498,
-      "num": 303871,
-      "word": "榴莲披萨震惊韩国网友",
-      "onboard_time": 1691232515,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 588690,
@@ -692,7 +700,7 @@
     },
     {
       "raw_hot": 585471,
-      "num": 336556,
+      "num": 580615,
       "word": "七时吉祥",
       "onboard_time": 1691230835,
       "rank": 25,
@@ -708,7 +716,7 @@
     },
     {
       "raw_hot": 579584,
-      "num": 299090,
+      "num": 524102,
       "word": "金晨演技",
       "onboard_time": 1691232156,
       "rank": 21,
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 554817,
-      "num": 294524,
+      "num": 520909,
       "word": "吴倩另一半长得帅很重要",
       "onboard_time": 1691229698,
       "rank": 25,
@@ -753,6 +761,14 @@
       "onboard_time": 1691204313,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543424,
+      "num": 543424,
+      "word": "羽生结弦结婚前的舞蹈",
+      "onboard_time": 1691234432,
+      "rank": 16,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 540540,
@@ -769,6 +785,14 @@
       "onboard_time": 1691204133,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534940,
+      "num": 534940,
+      "word": "异人之下",
+      "onboard_time": 1691234615,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 534210,
@@ -817,6 +841,14 @@
       "onboard_time": 1691163769,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523143,
+      "num": 523143,
+      "word": "饭后喝酸奶真的能促进消化吗",
+      "onboard_time": 1691232755,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 512992,
@@ -995,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396864,
+      "num": 298958,
+      "word": "邓为上班好多人拍",
+      "onboard_time": 1691233536,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 395713,
       "num": 391978,
       "word": "迪丽热巴龚俊复古风大片",
@@ -1025,6 +1065,22 @@
       "onboard_time": 1691229635,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384912,
+      "num": 286983,
+      "word": "长相思",
+      "onboard_time": 1691233596,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 384394,
+      "num": 272592,
+      "word": "臣妾要告发皓翎大王姬与防风邶",
+      "onboard_time": 1691234016,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 382597,
@@ -1081,14 +1137,6 @@
       "onboard_time": 1691205456,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 370597,
-      "num": 270615,
-      "word": "长相思",
-      "onboard_time": 1691233596,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 368303,
@@ -1148,7 +1196,7 @@
     },
     {
       "raw_hot": 351525,
-      "num": 261638,
+      "num": 271268,
       "word": "李玟老公回应质疑",
       "onboard_time": 1691231433,
       "rank": 37,
@@ -1236,7 +1284,7 @@
     },
     {
       "raw_hot": 327738,
-      "num": 292305,
+      "num": 323261,
       "word": "约会时女生主动买单",
       "onboard_time": 1691231015,
       "rank": 34,
@@ -1265,14 +1313,6 @@
       "onboard_time": 1691217875,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 321464,
-      "num": 235892,
-      "word": "邓为上班好多人拍",
-      "onboard_time": 1691233536,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 320360,
@@ -1467,6 +1507,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 289340,
+      "num": 216082,
+      "word": "王一博回复黄渤谢谢渤哥",
+      "onboard_time": 1691235098,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288610,
       "num": 288610,
       "word": "文春不行啊",
@@ -1507,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280692,
+      "num": 215472,
+      "word": "严浩翔被正式确诊为尔康",
+      "onboard_time": 1691235159,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274471,
       "num": 274471,
       "word": "阴天为什么要这么改",
@@ -1521,14 +1577,6 @@
       "onboard_time": 1691216556,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273567,
-      "num": 273567,
-      "word": "茶颜悦色不支持点单取单两人同时排队",
-      "onboard_time": 1691233715,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272481,
@@ -1571,28 +1619,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265818,
+      "num": 265818,
+      "word": "我的小猫请你的小猫",
+      "onboard_time": 1691231857,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262581,
       "num": 207431,
       "word": "卡努或将急转弯转向东北",
       "onboard_time": 1691185635,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260329,
-      "num": 260329,
-      "word": "饭后喝酸奶真的能促进消化吗",
-      "onboard_time": 1691232755,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 259553,
-      "num": 259553,
-      "word": "我的小猫请你的小猫",
-      "onboard_time": 1691231857,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 256293,
@@ -2099,6 +2139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165552,
+      "num": 213293,
+      "word": "i人有个e人的妈妈什么体验",
+      "onboard_time": 1691234315,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165208,
       "num": 273610,
       "word": "女生在餐厅要求打包餐具",
@@ -2185,6 +2233,14 @@
       "onboard_time": 1691226160,
       "rank": 47,
       "category": "幽默,美妆"
+    },
+    {
+      "raw_hot": 139441,
+      "num": 212572,
+      "word": "BRO战胜GEN",
+      "onboard_time": 1691234676,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 134050,
@@ -2347,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44983,
+      "num": 576467,
+      "word": "试飞员4个字描述新型战机发动机",
+      "onboard_time": 1691233296,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41366,
       "num": 41366,
       "word": "封神彩蛋",
@@ -2385,14 +2449,6 @@
       "onboard_time": 1691177355,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 18166,
-      "num": 358575,
-      "word": "试飞员4个字描述新型战机发动机",
-      "onboard_time": 1691233296,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
