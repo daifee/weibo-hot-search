@@ -1,0 +1,410 @@
+{
+  "runTime": 1691224431443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1798239,
+        "num": 1798239,
+        "word": "小杨哥回应捐款2000万为抵税",
+        "onboard_time": 1691214094,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1048286,
+        "num": 1048286,
+        "word": "TFBOYS魔法城堡路透",
+        "onboard_time": 1691221295,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24875,
+        "num": 1048064,
+        "word": "断崖旁消防员用身躯做人墙保护孩子",
+        "onboard_time": 1691159079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1331623,
+        "num": 1048052,
+        "word": "王俊凯王源易烊千玺不热吗",
+        "onboard_time": 1691223216,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1048005,
+        "num": 1048005,
+        "word": "电影孤注一掷",
+        "onboard_time": 1691220399,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1063036,
+        "num": 1012614,
+        "word": "TFBOYS夹起来了",
+        "onboard_time": 1691222495,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 570529,
+        "num": 570529,
+        "word": "想当兵的体育生18岁成人礼却纹了大花臂",
+        "onboard_time": 1691209775,
+        "rank": 6,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 976289,
+        "num": 558254,
+        "word": "张艺凡去看TFBOYS演唱会",
+        "onboard_time": 1691222735,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 543090,
+        "num": 543090,
+        "word": "舒兰市一常务副市长在抗洪抢险中失联",
+        "onboard_time": 1691218415,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511164,
+        "num": 511164,
+        "word": "内耗式恋爱",
+        "onboard_time": 1691217218,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1668718,
+        "num": 489109,
+        "word": "具俊晔哭了",
+        "onboard_time": 1691217034,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 843729,
+        "num": 464534,
+        "word": "黄锐不去TFBOYS演唱会了",
+        "onboard_time": 1691221474,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 663715,
+        "num": 429449,
+        "word": "张晚意演过乔家的儿女",
+        "onboard_time": 1691223034,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379597,
+        "num": 379597,
+        "word": "知名华人企业家在美国酒店身亡",
+        "onboard_time": 1691213013,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345580,
+        "num": 345580,
+        "word": "小狗的朋友叼来了它生前的玩具",
+        "onboard_time": 1691220096,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 622656,
+        "num": 343688,
+        "word": "孙艺珍说拜托我家新郎给我拍的",
+        "onboard_time": 1691223458,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520926,
+        "num": 330321,
+        "word": "貌似没再和SM续约的少女时代Sunny",
+        "onboard_time": 1691218717,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315161,
+        "num": 315161,
+        "word": "K396乘客哭着感谢落坡岭居民",
+        "onboard_time": 1691221897,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251336,
+        "num": 312257,
+        "word": "林俊杰亲自认证浪漫广西梗",
+        "onboard_time": 1691217515,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 220709,
+        "num": 308781,
+        "word": "退伍军人从2楼跳入洪水为救援队开门",
+        "onboard_time": 1691202573,
+        "rank": 19,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 496044,
+        "num": 306982,
+        "word": "迪丽热巴跳舞真迪甜",
+        "onboard_time": 1691222317,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488159,
+        "num": 304007,
+        "word": "网友偶遇王宝强车队援助河北",
+        "onboard_time": 1691222673,
+        "rank": 21,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 329836,
+        "num": 298034,
+        "word": "1岁女童一头栽进洗澡桶溺水挣扎",
+        "onboard_time": 1691219975,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297916,
+        "num": 297916,
+        "word": "工作后突然觉得爸妈好厉害",
+        "onboard_time": 1691219196,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265522,
+        "num": 297732,
+        "word": "男子婚内与外遇生女双双获刑",
+        "onboard_time": 1691214999,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473308,
+        "num": 297510,
+        "word": "吴倩婚恋观",
+        "onboard_time": 1691223816,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449998,
+        "num": 297150,
+        "word": "哇唧唧哇简介没看见肖战",
+        "onboard_time": 1691210134,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397429,
+        "num": 297005,
+        "word": "何超莲的沉默震耳欲聋",
+        "onboard_time": 1691216556,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194641,
+        "num": 296729,
+        "word": "河南新一轮暴雨上线",
+        "onboard_time": 1691223275,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184657,
+        "num": 296475,
+        "word": "新手保护期结束了",
+        "onboard_time": 1691217875,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 621504,
+        "num": 296288,
+        "word": "3岁娃人工耳蜗被高铁乘客刮掉",
+        "onboard_time": 1691222434,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387354,
+        "num": 295915,
+        "word": "鞠婧祎压轴出场",
+        "onboard_time": 1691223997,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362419,
+        "num": 295812,
+        "word": "王俊凯唱连名带姓",
+        "onboard_time": 1691216496,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 329360,
+        "num": 295573,
+        "word": "租客把房东花上百万装修的房子拆了",
+        "onboard_time": 1691223458,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300495,
+        "num": 295236,
+        "word": "为什么十年之约只能在西安办",
+        "onboard_time": 1691204195,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295100,
+        "num": 295100,
+        "word": "妲己的报应来得很突然",
+        "onboard_time": 1691221957,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295039,
+        "num": 295039,
+        "word": "璟收的密报是夭柳cp粉写的吧",
+        "onboard_time": 1691224175,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176858,
+        "num": 292525,
+        "word": "川籍艺人用四川话为成都大运会打call",
+        "onboard_time": 1691214816,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 164500,
+        "num": 292093,
+        "word": "妻子误拿302胶水当眼药水给丈夫",
+        "onboard_time": 1691224175,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151857,
+        "num": 291961,
+        "word": "DK对战HLE",
+        "onboard_time": 1691223634,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291863,
+        "num": 291863,
+        "word": "刘涛黑白蕾丝庄园大片",
+        "onboard_time": 1691218778,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 280466,
+        "num": 280466,
+        "word": "李飞什么时候开家族演唱会",
+        "onboard_time": 1691220875,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279088,
+        "num": 279088,
+        "word": "彭昱畅新剧4集哭了7次",
+        "onboard_time": 1691222254,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149166,
+        "num": 273610,
+        "word": "女生在餐厅要求打包餐具",
+        "onboard_time": 1691221415,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269754,
+        "num": 269754,
+        "word": "杨紫回应外形质疑",
+        "onboard_time": 1691207436,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239646,
+        "num": 239646,
+        "word": "张艺兴新电影破亿海报",
+        "onboard_time": 1691221295,
+        "rank": 45,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 209680,
+        "num": 209680,
+        "word": "热烈结局 理想化",
+        "onboard_time": 1691224057,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144915,
+        "num": 207357,
+        "word": "公司的下午茶400份螺蛳粉",
+        "onboard_time": 1691215175,
+        "rank": 47,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 135907,
+        "num": 207320,
+        "word": "家人扔掉收养的狗致女子被公司解雇",
+        "onboard_time": 1691211095,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127996,
+        "num": 207317,
+        "word": "妈妈钱包里拿钱的手缓缓停下了",
+        "onboard_time": 1691222254,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会有哪些黑科技#"
+    }
+  }
+}

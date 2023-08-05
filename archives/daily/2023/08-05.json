@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691223538786,
+  "endTime": 1691224431443,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -115,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1331623,
+      "num": 1048052,
+      "word": "王俊凯王源易烊千玺不热吗",
+      "onboard_time": 1691223216,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1305870,
       "num": 1305870,
       "word": "想当兵的体育生18岁成人礼却纹了大花臂",
@@ -187,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1063036,
+      "num": 1012614,
+      "word": "TFBOYS夹起来了",
+      "onboard_time": 1691222495,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1051763,
       "num": 799858,
       "word": "王俊凯易烊千玺牵手错位图",
       "onboard_time": 1691192790,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1048005,
+      "num": 1048005,
+      "word": "电影孤注一掷",
+      "onboard_time": 1691220399,
+      "rank": 2,
+      "category": "影视"
     },
     {
       "raw_hot": 1024415,
@@ -241,6 +265,14 @@
       "onboard_time": 1691200355,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 976289,
+      "num": 614141,
+      "word": "张艺凡去看TFBOYS演唱会",
+      "onboard_time": 1691222735,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 935817,
@@ -331,14 +363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 849751,
-      "num": 411927,
-      "word": "王俊凯王源易烊千玺不热吗",
-      "onboard_time": 1691223216,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 829505,
       "num": 829505,
       "word": "姬发 伯邑考",
@@ -377,14 +401,6 @@
       "onboard_time": 1691192728,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 803940,
-      "num": 803940,
-      "word": "电影孤注一掷",
-      "onboard_time": 1691220399,
-      "rank": 2,
-      "category": "影视"
     },
     {
       "raw_hot": 758723,
@@ -467,20 +483,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 691402,
-      "num": 691402,
-      "word": "TFBOYS夹起来了",
-      "onboard_time": 1691222495,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 671360,
       "num": 426238,
       "word": "原来台湾的语文课本长这样",
       "onboard_time": 1691192668,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 663715,
+      "num": 429449,
+      "word": "张晚意演过乔家的儿女",
+      "onboard_time": 1691223034,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 653796,
@@ -507,19 +523,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 622656,
+      "num": 343688,
+      "word": "孙艺珍说拜托我家新郎给我拍的",
+      "onboard_time": 1691223458,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 621504,
+      "num": 296288,
+      "word": "3岁娃人工耳蜗被高铁乘客刮掉",
+      "onboard_time": 1691222434,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 614918,
       "num": 436389,
       "word": "唐恬是团粉吧",
       "onboard_time": 1691205213,
       "rank": 42,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 614141,
-      "num": 614141,
-      "word": "张艺凡去看TFBOYS演唱会",
-      "onboard_time": 1691222735,
-      "rank": 8,
       "category": "音乐"
     },
     {
@@ -659,6 +683,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 496044,
+      "num": 306982,
+      "word": "迪丽热巴跳舞真迪甜",
+      "onboard_time": 1691222317,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 495211,
       "num": 402406,
       "word": "李现穿了17年穿过的短裤",
@@ -668,19 +700,19 @@
     },
     {
       "raw_hot": 488969,
-      "num": 264652,
+      "num": 291863,
       "word": "刘涛黑白蕾丝庄园大片",
       "onboard_time": 1691218778,
       "rank": 31,
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 484352,
-      "num": 236013,
-      "word": "迪丽热巴跳舞真迪甜",
-      "onboard_time": 1691222317,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 488159,
+      "num": 304007,
+      "word": "网友偶遇王宝强车队援助河北",
+      "onboard_time": 1691222673,
+      "rank": 26,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 482368,
@@ -689,6 +721,14 @@
       "onboard_time": 1691211934,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 473308,
+      "num": 297510,
+      "word": "吴倩婚恋观",
+      "onboard_time": 1691223816,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 472894,
@@ -723,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 456923,
-      "num": 227259,
-      "word": "网友偶遇王宝强车队援助河北",
-      "onboard_time": 1691222673,
-      "rank": 26,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 449906,
       "num": 449906,
       "word": "媒体十二问涿州泄洪",
@@ -761,14 +793,6 @@
       "onboard_time": 1691194531,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 422709,
-      "num": 225654,
-      "word": "3岁娃人工耳蜗被高铁乘客刮掉",
-      "onboard_time": 1691222434,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 418462,
@@ -803,6 +827,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 387354,
+      "num": 295915,
+      "word": "鞠婧祎压轴出场",
+      "onboard_time": 1691223997,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382597,
       "num": 351291,
       "word": "鹿晗也要追异人之下",
@@ -835,16 +867,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 373672,
-      "num": 225625,
-      "word": "张晚意演过乔家的儿女",
-      "onboard_time": 1691223034,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 373235,
-      "num": 232748,
+      "num": 298034,
       "word": "1岁女童一头栽进洗澡桶溺水挣扎",
       "onboard_time": 1691219975,
       "rank": 31,
@@ -907,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 345580,
+      "num": 345580,
+      "word": "小狗的朋友叼来了它生前的玩具",
+      "onboard_time": 1691220096,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 345472,
       "num": 345472,
       "word": "TFBOYS方严禁场馆周边占位应援",
@@ -947,24 +979,24 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 329360,
+      "num": 295573,
+      "word": "租客把房东花上百万装修的房子拆了",
+      "onboard_time": 1691223458,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326986,
-      "num": 229116,
+      "num": 297916,
       "word": "工作后突然觉得爸妈好厉害",
       "onboard_time": 1691219196,
       "rank": 34,
       "category": "情感"
     },
     {
-      "raw_hot": 323618,
-      "num": 323618,
-      "word": "小狗的朋友叼来了它生前的玩具",
-      "onboard_time": 1691220096,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 322200,
-      "num": 280845,
+      "num": 296475,
       "word": "新手保护期结束了",
       "onboard_time": 1691217875,
       "rank": 22,
@@ -979,8 +1011,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315161,
+      "num": 315161,
+      "word": "K396乘客哭着感谢落坡岭居民",
+      "onboard_time": 1691221897,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315122,
-      "num": 223783,
+      "num": 280466,
       "word": "李飞什么时候开家族演唱会",
       "onboard_time": 1691220875,
       "rank": 35,
@@ -1012,7 +1052,7 @@
     },
     {
       "raw_hot": 308304,
-      "num": 223293,
+      "num": 295100,
       "word": "妲己的报应来得很突然",
       "onboard_time": 1691221957,
       "rank": 36,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1691199513,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 295039,
+      "num": 295039,
+      "word": "璟收的密报是夭柳cp粉写的吧",
+      "onboard_time": 1691224175,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 291573,
@@ -1099,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279088,
+      "num": 279088,
+      "word": "彭昱畅新剧4集哭了7次",
+      "onboard_time": 1691222254,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274471,
       "num": 274471,
       "word": "阴天为什么要这么改",
@@ -1147,28 +1203,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 263434,
-      "num": 220788,
-      "word": "孙艺珍说拜托我家新郎给我拍的",
-      "onboard_time": 1691223458,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262581,
       "num": 207431,
       "word": "卡努或将急转弯转向东北",
       "onboard_time": 1691185635,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259131,
-      "num": 220320,
-      "word": "彭昱畅新剧4集哭了7次",
-      "onboard_time": 1691222254,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 256293,
@@ -1219,20 +1259,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 239646,
+      "num": 239646,
+      "word": "张艺兴新电影破亿海报",
+      "onboard_time": 1691221295,
+      "rank": 44,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 237680,
       "num": 237680,
       "word": "封神票房",
       "onboard_time": 1691145993,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 236957,
-      "num": 236957,
-      "word": "K396乘客哭着感谢落坡岭居民",
-      "onboard_time": 1691221897,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236123,
@@ -1249,14 +1289,6 @@
       "onboard_time": 1691139274,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 229231,
-      "num": 219407,
-      "word": "张艺兴新电影破亿海报",
-      "onboard_time": 1691221295,
-      "rank": 44,
-      "category": "影视,艺人"
     },
     {
       "raw_hot": 228531,
@@ -1403,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209680,
+      "num": 209680,
+      "word": "热烈结局 理想化",
+      "onboard_time": 1691224057,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205907,
       "num": 222969,
       "word": "战至巅峰",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1691149532,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194641,
+      "num": 296729,
+      "word": "河南新一轮暴雨上线",
+      "onboard_time": 1691223275,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192019,
@@ -1596,11 +1644,19 @@
     },
     {
       "raw_hot": 165208,
-      "num": 222378,
+      "num": 273610,
       "word": "女生在餐厅要求打包餐具",
       "onboard_time": 1691221415,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164500,
+      "num": 292093,
+      "word": "妻子误拿302胶水当眼药水给丈夫",
+      "onboard_time": 1691224175,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159631,
@@ -1611,27 +1667,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159414,
-      "num": 219051,
-      "word": "租客把房东花上百万装修的房子拆了",
-      "onboard_time": 1691223458,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159334,
       "num": 222990,
       "word": "吉林舒兰强降雨已造成1死4失联",
       "onboard_time": 1691211694,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153585,
-      "num": 218927,
-      "word": "河南新一轮暴雨上线",
-      "onboard_time": 1691223275,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1649,6 +1689,14 @@
       "onboard_time": 1691219316,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151857,
+      "num": 291961,
+      "word": "DK对战HLE",
+      "onboard_time": 1691223634,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 149979,
