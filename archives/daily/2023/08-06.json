@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691277337949,
+  "endTime": 1691278432434,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -80,6 +80,14 @@
       "word": "地震快讯",
       "onboard_time": 1691261574,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2043523,
+      "num": 2043523,
+      "word": "山东平原县地震10人受伤",
+      "onboard_time": 1691277508,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -176,6 +184,14 @@
       "word": "TFBOYS大花轿",
       "onboard_time": 1691248603,
       "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 854525,
+      "num": 854525,
+      "word": "TFBOYS十年之约演唱会",
+      "onboard_time": 1691276845,
+      "rank": 10,
       "category": "音乐"
     },
     {
@@ -299,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 514567,
-      "num": 514567,
-      "word": "TFBOYS十年之约演唱会",
-      "onboard_time": 1691276845,
-      "rank": 10,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 492394,
       "num": 492394,
       "word": "TFBOYS夹起来了",
@@ -339,7 +347,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 391415,
+      "raw_hot": 419593,
       "num": 457416,
       "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
       "onboard_time": 1691240865,
@@ -371,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357264,
+      "num": 357264,
+      "word": "洪水冲来2条狗女子领回精心饲养",
+      "onboard_time": 1691266758,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356890,
       "num": 356890,
       "word": "时代峰峻全家福",
@@ -393,6 +409,14 @@
       "onboard_time": 1691253870,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 352175,
+      "num": 389479,
+      "word": "同事劝我不要买杂牌口红",
+      "onboard_time": 1691240446,
+      "rank": 29,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 336997,
@@ -427,14 +451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 315649,
-      "num": 389479,
-      "word": "同事劝我不要买杂牌口红",
-      "onboard_time": 1691240446,
-      "rank": 29,
-      "category": "美妆,幽默"
-    },
-    {
       "raw_hot": 310892,
       "num": 392357,
       "word": "给狗狗买磨牙棒忘了看尺寸",
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274155,
+      "num": 274155,
+      "word": "山东德州消防救援支队已前往震中救援",
+      "onboard_time": 1691277808,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260411,
       "num": 260411,
       "word": "泰安震感",
@@ -473,6 +497,14 @@
       "onboard_time": 1691246265,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249885,
+      "num": 249885,
+      "word": "山东地震多地收到预警",
+      "onboard_time": 1691277869,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249691,
@@ -491,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245147,
-      "num": 245147,
-      "word": "洪水冲来2条狗女子领回精心饲养",
-      "onboard_time": 1691266758,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 246448,
+      "num": 246448,
+      "word": "金龟子王宁设宴庆结婚35周年",
+      "onboard_time": 1691259558,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 241719,
@@ -515,19 +547,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213660,
-      "num": 213660,
-      "word": "金龟子王宁设宴庆结婚35周年",
-      "onboard_time": 1691259558,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206375,
       "num": 206375,
       "word": "TFBOYS",
       "onboard_time": 1691276845,
       "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 197392,
+      "num": 197392,
+      "word": "TFBOYS十周年",
+      "onboard_time": 1691277508,
+      "rank": 31,
       "category": "音乐"
     },
     {
@@ -547,12 +579,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187584,
+      "raw_hot": 191767,
+      "num": 191767,
+      "word": "华北多地震感明显",
+      "onboard_time": 1691278168,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190714,
       "num": 252480,
       "word": "房东给买了一个迷你冰箱",
       "onboard_time": 1691235698,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183529,
+      "num": 183529,
+      "word": "车银优健身前后对比",
+      "onboard_time": 1691276667,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179628,
@@ -561,6 +609,14 @@
       "onboard_time": 1691248968,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176603,
+      "num": 176603,
+      "word": "中国快递速度惊呆外国运动员",
+      "onboard_time": 1691272698,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166832,
@@ -619,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140582,
+      "num": 140582,
+      "word": "山东平原县已发生余震52次",
+      "onboard_time": 1691278049,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135465,
       "num": 135465,
       "word": "莲花楼",
@@ -659,20 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109785,
-      "num": 109785,
-      "word": "中国快递速度惊呆外国运动员",
-      "onboard_time": 1691272698,
-      "rank": 43,
+      "raw_hot": 111802,
+      "num": 111802,
+      "word": "强降雨致吉林舒兰6人遇难4人失联",
+      "onboard_time": 1691278289,
+      "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104136,
-      "num": 104136,
-      "word": "车银优健身前后对比",
-      "onboard_time": 1691276667,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 100712,
