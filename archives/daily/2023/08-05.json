@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691206428517,
+  "endTime": 1691209151667,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -25,6 +25,14 @@
       "onboard_time": 1691161436,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 2098669,
+      "num": 542900,
+      "word": "难听",
+      "onboard_time": 1691205573,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 2011086,
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1501552,
+      "num": 1501552,
+      "word": "TFBOYS彩排有花轿",
+      "onboard_time": 1691207495,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1159755,
       "num": 1159755,
       "word": "沈梦辰听到林允吐了的反应",
@@ -89,14 +105,6 @@
       "onboard_time": 1691192790,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1048268,
-      "num": 542900,
-      "word": "难听",
-      "onboard_time": 1691205573,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 999067,
@@ -139,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 920852,
+      "num": 920852,
+      "word": "TFBOYS专辑",
+      "onboard_time": 1691208456,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 917180,
       "num": 917180,
       "word": "王源演唱会个人solo路透",
@@ -161,6 +177,14 @@
       "onboard_time": 1691197655,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 889925,
+      "num": 889925,
+      "word": "潘玮柏被芯竹问为什么淘汰我",
+      "onboard_time": 1691204195,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 874593,
@@ -201,14 +225,6 @@
       "onboard_time": 1691199395,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 819686,
-      "num": 819686,
-      "word": "潘玮柏被芯竹问为什么淘汰我",
-      "onboard_time": 1691204195,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 814394,
@@ -283,6 +299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 682663,
+      "num": 457856,
+      "word": "杨紫回应外形质疑",
+      "onboard_time": 1691207436,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 671360,
       "num": 426238,
       "word": "原来台湾的语文课本长这样",
@@ -315,7 +339,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 610123,
+      "raw_hot": 614918,
       "num": 436389,
       "word": "唐恬是团粉吧",
       "onboard_time": 1691205213,
@@ -352,6 +376,14 @@
       "word": "王俊凯王源易烊千玺小黑屋合集",
       "onboard_time": 1691204313,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 546549,
+      "num": 347320,
+      "word": "黄奕晒女儿夏令营行李箱",
+      "onboard_time": 1691208576,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -467,20 +499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449906,
+      "num": 449906,
+      "word": "媒体十二问涿州泄洪",
+      "onboard_time": 1691202573,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444242,
       "num": 444242,
       "word": "涂山璟赤水丰隆救了玱玹一命",
       "onboard_time": 1691160655,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 438904,
-      "num": 438904,
-      "word": "媒体十二问涿州泄洪",
-      "onboard_time": 1691202573,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 435419,
@@ -643,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308050,
+      "num": 237660,
+      "word": "相柳死前拿着送给小夭的大肚娃娃和箭",
+      "onboard_time": 1691206775,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302973,
       "num": 302973,
       "word": "李泰容",
@@ -779,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243579,
+      "num": 243579,
+      "word": "Hero声明",
+      "onboard_time": 1691206296,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240413,
       "num": 422322,
       "word": "心理暗示 凡事发生必有利于我",
@@ -801,6 +849,14 @@
       "onboard_time": 1691139274,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228531,
+      "num": 250537,
+      "word": "泄洪行洪蓄滞洪区都是啥意思",
+      "onboard_time": 1691207976,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225856,
@@ -1067,12 +1123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106285,
-      "num": 231708,
-      "word": "Hero声明",
-      "onboard_time": 1691206296,
+      "raw_hot": 117860,
+      "num": 216496,
+      "word": "杭州这些地方很热烈",
+      "onboard_time": 1691207495,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102760,
+      "num": 216237,
+      "word": "芭比娃娃收藏界的天花板",
+      "onboard_time": 1691208875,
       "rank": 47,
-      "category": "游戏"
+      "category": "情感"
     },
     {
       "raw_hot": 97333,
@@ -1091,11 +1155,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80663,
+      "raw_hot": 91023,
       "num": 1135556,
       "word": "暴雨洪水过后的安全及防疫提醒",
       "onboard_time": 1691205695,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90978,
+      "num": 216068,
+      "word": "积水中黑龙江消防员片刻不停救援",
+      "onboard_time": 1691208875,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

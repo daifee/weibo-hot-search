@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691206428517,
+  "endTime": 1691209151667,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -313,6 +313,14 @@
       "onboard_time": 1690933529,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2098669,
+      "num": 542900,
+      "word": "难听",
+      "onboard_time": 1691205573,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 2096540,
@@ -737,6 +745,14 @@
       "onboard_time": 1691076277,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1501552,
+      "num": 1501552,
+      "word": "TFBOYS彩排有花轿",
+      "onboard_time": 1691207495,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1484349,
@@ -1379,14 +1395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1048268,
-      "num": 542900,
-      "word": "难听",
-      "onboard_time": 1691205573,
-      "rank": 10,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1041563,
       "num": 1041563,
       "word": "雪滴花",
@@ -1771,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 920852,
+      "num": 920852,
+      "word": "TFBOYS专辑",
+      "onboard_time": 1691208456,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 918041,
       "num": 918041,
       "word": "王俊凯王源易烊千玺今天又近了一步",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1690983578,
       "rank": 8,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 889925,
+      "num": 889925,
+      "word": "潘玮柏被芯竹问为什么淘汰我",
+      "onboard_time": 1691204195,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 881761,
@@ -2137,14 +2161,6 @@
       "onboard_time": 1690897898,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 819686,
-      "num": 819686,
-      "word": "潘玮柏被芯竹问为什么淘汰我",
-      "onboard_time": 1691204195,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 814224,
@@ -2843,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682663,
+      "num": 457856,
+      "word": "杨紫回应外形质疑",
+      "onboard_time": 1691207436,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 681796,
       "num": 681796,
       "word": "谁教张晚意这么比心的",
@@ -3283,6 +3307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614918,
+      "num": 436389,
+      "word": "唐恬是团粉吧",
+      "onboard_time": 1691205213,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 614426,
       "num": 556763,
       "word": "上海火车站一男子携带大量淫秽光碟",
@@ -3321,14 +3353,6 @@
       "onboard_time": 1690892073,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 610123,
-      "num": 436389,
-      "word": "唐恬是团粉吧",
-      "onboard_time": 1691205213,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 607521,
@@ -3921,6 +3945,14 @@
       "onboard_time": 1690887634,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 546549,
+      "num": 347320,
+      "word": "黄奕晒女儿夏令营行李箱",
+      "onboard_time": 1691208576,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 545086,
@@ -4859,6 +4891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449906,
+      "num": 449906,
+      "word": "媒体十二问涿州泄洪",
+      "onboard_time": 1691202573,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449892,
       "num": 348313,
       "word": "Somi概念",
@@ -4977,14 +5017,6 @@
       "onboard_time": 1691145753,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 438904,
-      "num": 438904,
-      "word": "媒体十二问涿州泄洪",
-      "onboard_time": 1691202573,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 438706,
@@ -6667,6 +6699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308050,
+      "num": 237660,
+      "word": "相柳死前拿着送给小夭的大肚娃娃和箭",
+      "onboard_time": 1691206775,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307790,
       "num": 307790,
       "word": "金智秀教哈兰德跳flower",
@@ -7955,6 +7995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243579,
+      "num": 243579,
+      "word": "Hero声明",
+      "onboard_time": 1691206296,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243236,
       "num": 243236,
       "word": "封神苏州路演",
@@ -8313,6 +8361,14 @@
       "onboard_time": 1690817378,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228531,
+      "num": 250537,
+      "word": "泄洪行洪蓄滞洪区都是啥意思",
+      "onboard_time": 1691207976,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228019,
@@ -10723,6 +10779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117860,
+      "num": 216496,
+      "word": "杭州这些地方很热烈",
+      "onboard_time": 1691207495,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117163,
       "num": 123492,
       "word": "大概是见过最花哨的应援",
@@ -10827,14 +10891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106285,
-      "num": 231708,
-      "word": "Hero声明",
-      "onboard_time": 1691206296,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 103556,
       "num": 95826,
       "word": "玱玹打不过防风意映",
@@ -10849,6 +10905,14 @@
       "onboard_time": 1691135436,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102760,
+      "num": 216237,
+      "word": "芭比娃娃收藏界的天花板",
+      "onboard_time": 1691208875,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 102314,
@@ -10955,6 +11019,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91023,
+      "num": 1135556,
+      "word": "暴雨洪水过后的安全及防疫提醒",
+      "onboard_time": 1691205695,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90978,
+      "num": 216068,
+      "word": "积水中黑龙江消防员片刻不停救援",
+      "onboard_time": 1691208875,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88348,
       "num": 344354,
       "word": "男子救人时遇难差几天他就满31岁",
@@ -11017,14 +11097,6 @@
       "onboard_time": 1691056237,
       "rank": 28,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 80663,
-      "num": 1135556,
-      "word": "暴雨洪水过后的安全及防疫提醒",
-      "onboard_time": 1691205695,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79654,
