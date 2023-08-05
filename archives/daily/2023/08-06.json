@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691273670609,
+  "endTime": 1691274825567,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449292,
+      "num": 449292,
+      "word": "救援队员返乡后哭诉再也不想参与",
+      "onboard_time": 1691253094,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428872,
       "num": 428872,
       "word": "Angelababy没人选",
@@ -345,14 +353,6 @@
       "onboard_time": 1691247466,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367857,
-      "num": 367857,
-      "word": "救援队员返乡后哭诉再也不想参与",
-      "onboard_time": 1691253094,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360197,
@@ -603,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130092,
+      "num": 130092,
+      "word": "洪水冲来2条狗女子领回精心饲养",
+      "onboard_time": 1691266758,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127706,
       "num": 246413,
       "word": "福宝自己戴发箍",
@@ -627,20 +635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115277,
+      "num": 115277,
+      "word": "金龟子王宁设宴庆结婚35周年",
+      "onboard_time": 1691259558,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100712,
       "num": 100712,
       "word": "黄子韬付辛博拒绝当队长",
       "onboard_time": 1691261667,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100340,
-      "num": 100340,
-      "word": "洪水冲来2条狗女子领回精心饲养",
-      "onboard_time": 1691266758,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89478,
@@ -659,32 +667,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78950,
-      "num": 78950,
-      "word": "金龟子王宁设宴庆结婚35周年",
-      "onboard_time": 1691259558,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 59591,
-      "num": 59591,
+      "raw_hot": 68998,
+      "num": 68998,
       "word": "曾追过最久的明星",
       "onboard_time": 1691270776,
       "rank": 42,
       "category": "艺人"
     },
     {
-      "raw_hot": 59054,
-      "num": 59054,
+      "raw_hot": 61266,
+      "num": 61266,
       "word": "TFBOYS歌迷提前24小时场外守候",
       "onboard_time": 1691267298,
       "rank": 48,
       "category": "音乐"
     },
     {
-      "raw_hot": 53501,
-      "num": 53501,
+      "raw_hot": 54924,
+      "num": 61261,
       "word": "今晚好多天后开演唱会",
       "onboard_time": 1691272997,
       "rank": 42,
