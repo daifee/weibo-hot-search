@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/06 00:19:48 ~ 2023/08/06 05:13:13
+本榜单时间：2023/08/06 00:19:48 ~ 2023/08/06 05:33:53
 </p>
 </blockquote>
 <p>
@@ -515,6 +515,18 @@ CCTV国家公园（热度：89478）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%E6%AD%8C%E8%BF%B7%E6%8F%90%E5%89%8D24%E5%B0%8F%E6%97%B6%E5%9C%BA%E5%A4%96%E5%AE%88%E5%80%99%23" target="weibo">
 TFBOYS歌迷提前24小时场外守候（热度：42737）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BF%BD%E8%BF%87%E6%9C%80%E4%B9%85%E7%9A%84%E6%98%8E%E6%98%9F%23" target="weibo">
+曾追过最久的明星（热度：42450）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TFBOYS%E6%96%B0%E6%AD%8C%23" target="weibo">
+TFBOYS新歌（热度：33645）
 </a>
 </li>
 

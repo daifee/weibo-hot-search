@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691269993278,
+  "endTime": 1691271233382,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -15665,6 +15665,14 @@
       "onboard_time": 1690798174,
       "rank": 35,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 42450,
+      "num": 42450,
+      "word": "曾追过最久的明星",
+      "onboard_time": 1691270776,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 42292,

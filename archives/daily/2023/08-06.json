@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691269993278,
+  "endTime": 1691271233382,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -672,6 +672,22 @@
       "word": "TFBOYS歌迷提前24小时场外守候",
       "onboard_time": 1691267298,
       "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 42450,
+      "num": 42450,
+      "word": "曾追过最久的明星",
+      "onboard_time": 1691270776,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33645,
+      "num": 33645,
+      "word": "TFBOYS新歌",
+      "onboard_time": 1691108556,
+      "rank": 49,
       "category": "音乐"
     }
   ],
