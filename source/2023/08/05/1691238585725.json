@@ -1,0 +1,410 @@
+{
+  "runTime": 1691238585725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7981181,
+        "num": 7981181,
+        "word": "时代峰峻全家福",
+        "onboard_time": 1691237620,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2650120,
+        "num": 2650120,
+        "word": "茶颜悦色不支持点单取单两人同时排队",
+        "onboard_time": 1691233715,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8413,
+        "num": 2098612,
+        "word": "英雄就是我们身边的平凡人",
+        "onboard_time": 1691159021,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1658781,
+        "num": 1658781,
+        "word": "王俊凯王源易烊千玺怎么不笑了",
+        "onboard_time": 1691236901,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1532877,
+        "num": 1532877,
+        "word": "莲花楼丧尸案",
+        "onboard_time": 1691236901,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1444013,
+        "num": 1444013,
+        "word": "严浩翔被正式确诊为尔康",
+        "onboard_time": 1691235159,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1213825,
+        "num": 1213825,
+        "word": "易烊千玺话筒涂鸦",
+        "onboard_time": 1691235338,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 717620,
+        "num": 717620,
+        "word": "羽生结弦结婚前的舞蹈",
+        "onboard_time": 1691234432,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 600985,
+        "num": 600985,
+        "word": "福宝自己戴发箍",
+        "onboard_time": 1691235997,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517369,
+        "num": 517369,
+        "word": "饭后喝酸奶真的能促进消化吗",
+        "onboard_time": 1691232755,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1771705,
+        "num": 498384,
+        "word": "TFBOYS夹起来了",
+        "onboard_time": 1691222495,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1335910,
+        "num": 479414,
+        "word": "八年前的迪丽热巴生图",
+        "onboard_time": 1691235877,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 971437,
+        "num": 453594,
+        "word": "优酷",
+        "onboard_time": 1691235633,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 820134,
+        "num": 428812,
+        "word": "舒兰村民发现一具遗体",
+        "onboard_time": 1691228614,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421944,
+        "num": 421944,
+        "word": "小杨哥回应捐款2000万为抵税",
+        "onboard_time": 1691214094,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 962510,
+        "num": 414755,
+        "word": "TFBOYS彩排喜欢你",
+        "onboard_time": 1691236235,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 393215,
+        "num": 393215,
+        "word": "JDG对战LNG",
+        "onboard_time": 1691227958,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 933932,
+        "num": 393202,
+        "word": "王俊凯王源易烊千玺不热吗",
+        "onboard_time": 1691223216,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342523,
+        "num": 393091,
+        "word": "大运会女篮决赛中国队vs日本队",
+        "onboard_time": 1691236657,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289236,
+        "num": 393047,
+        "word": "大妈误会卖肉老板中暑为其刮痧10分钟",
+        "onboard_time": 1691224536,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643382,
+        "num": 393009,
+        "word": "异人之下 中式恐怖",
+        "onboard_time": 1691237259,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628049,
+        "num": 392939,
+        "word": "电影孤注一掷",
+        "onboard_time": 1691220399,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 513948,
+        "num": 392883,
+        "word": "榴莲披萨震惊韩国网友",
+        "onboard_time": 1691232515,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427909,
+        "num": 392782,
+        "word": "房东给买了一个迷你冰箱",
+        "onboard_time": 1691235698,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283293,
+        "num": 392732,
+        "word": "租客把房东花上百万装修的房子拆了",
+        "onboard_time": 1691223458,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493833,
+        "num": 392673,
+        "word": "罗云熙檀健次影视实绩图",
+        "onboard_time": 1691238040,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483180,
+        "num": 392629,
+        "word": "涂山璟急得脚都好了",
+        "onboard_time": 1691230597,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445801,
+        "num": 392534,
+        "word": "时代少年团或全员去看TFBOYS演唱会",
+        "onboard_time": 1691232515,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255521,
+        "num": 392492,
+        "word": "舒兰4名公职人员在组织群众转移中失联",
+        "onboard_time": 1691238346,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249683,
+        "num": 392400,
+        "word": "i人有个e人的妈妈什么体验",
+        "onboard_time": 1691234315,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 437320,
+        "num": 392334,
+        "word": "孤注一掷 诈骗电影玩纯爱",
+        "onboard_time": 1691226575,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437056,
+        "num": 392258,
+        "word": "热烈票房",
+        "onboard_time": 1691237922,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412740,
+        "num": 392196,
+        "word": "TFBOYS十年成长大事记",
+        "onboard_time": 1691238524,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226950,
+        "num": 392156,
+        "word": "400斤男子离世前这个举动令人泪目",
+        "onboard_time": 1691225198,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107541,
+        "num": 392083,
+        "word": "酷光灯闪耀之夜",
+        "onboard_time": 1691236962,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392047,
+        "num": 392047,
+        "word": "王一博回复黄渤谢谢渤哥",
+        "onboard_time": 1691235098,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386470,
+        "num": 386470,
+        "word": "异人之下",
+        "onboard_time": 1691234615,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209791,
+        "num": 383374,
+        "word": "约会时女生主动买单",
+        "onboard_time": 1691231015,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 205834,
+        "num": 381927,
+        "word": "zika",
+        "onboard_time": 1691237745,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203018,
+        "num": 381181,
+        "word": "舒兰",
+        "onboard_time": 1691237985,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381114,
+        "num": 381114,
+        "word": "魏大勋乌木沉香",
+        "onboard_time": 1691227535,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380452,
+        "num": 380452,
+        "word": "王一博26岁主演票房破26亿",
+        "onboard_time": 1691231794,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201834,
+        "num": 374934,
+        "word": "我的小猫请你的小猫",
+        "onboard_time": 1691231857,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 374449,
+        "num": 374449,
+        "word": "魏大勋为吉林舒兰灾区捐款",
+        "onboard_time": 1691238402,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371045,
+        "num": 371045,
+        "word": "长相思",
+        "onboard_time": 1691233596,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194981,
+        "num": 356597,
+        "word": "JDG先下一城",
+        "onboard_time": 1691238164,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188862,
+        "num": 344063,
+        "word": "AG",
+        "onboard_time": 1691236358,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185981,
+        "num": 341301,
+        "word": "你所拥有的隐形资产",
+        "onboard_time": 1691238040,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177362,
+        "num": 312838,
+        "word": "成都的外国游客人均J人吧",
+        "onboard_time": 1691233055,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 172384,
+        "num": 299701,
+        "word": "妻子误拿302胶水当眼药水给丈夫",
+        "onboard_time": 1691224175,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会有哪些黑科技#"
+    }
+  }
+}

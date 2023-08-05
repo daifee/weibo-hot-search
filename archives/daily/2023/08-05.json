@@ -1,7 +1,15 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691235231576,
+  "endTime": 1691238585725,
   "band_list": [
+    {
+      "raw_hot": 7981181,
+      "num": 7981181,
+      "word": "时代峰峻全家福",
+      "onboard_time": 1691237620,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 5407861,
       "num": 5407861,
@@ -33,6 +41,14 @@
       "onboard_time": 1691214094,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2650120,
+      "num": 2650120,
+      "word": "茶颜悦色不支持点单取单两人同时排队",
+      "onboard_time": 1691233715,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2487125,
@@ -107,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1658781,
+      "num": 1658781,
+      "word": "王俊凯王源易烊千玺怎么不笑了",
+      "onboard_time": 1691236901,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1587150,
       "num": 699154,
       "word": "西安警方通报奥体中心体育场歌迷打架",
@@ -123,14 +147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1571361,
-      "num": 1571361,
-      "word": "茶颜悦色不支持点单取单两人同时排队",
-      "onboard_time": 1691233715,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1569919,
       "num": 821831,
       "word": "金星说周迅才叫演员国际章只是个明星",
@@ -139,12 +155,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1532877,
+      "num": 1532877,
+      "word": "莲花楼丧尸案",
+      "onboard_time": 1691236901,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1501552,
       "num": 1501552,
       "word": "TFBOYS彩排有花轿",
       "onboard_time": 1691207495,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1444013,
+      "num": 1444013,
+      "word": "严浩翔被正式确诊为尔康",
+      "onboard_time": 1691235159,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1335910,
+      "num": 479414,
+      "word": "八年前的迪丽热巴生图",
+      "onboard_time": 1691235877,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1331623,
@@ -177,6 +217,14 @@
       "onboard_time": 1691222735,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1213825,
+      "num": 1213825,
+      "word": "易烊千玺话筒涂鸦",
+      "onboard_time": 1691235338,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1159755,
@@ -313,6 +361,22 @@
       "onboard_time": 1691200355,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 971437,
+      "num": 453594,
+      "word": "优酷",
+      "onboard_time": 1691235633,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 962510,
+      "num": 414755,
+      "word": "TFBOYS彩排喜欢你",
+      "onboard_time": 1691236235,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 937484,
@@ -587,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 717620,
+      "num": 717620,
+      "word": "羽生结弦结婚前的舞蹈",
+      "onboard_time": 1691234432,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 714434,
       "num": 616182,
       "word": "明天见歌词",
@@ -635,6 +707,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 643382,
+      "num": 393009,
+      "word": "异人之下 中式恐怖",
+      "onboard_time": 1691237259,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 641091,
       "num": 972346,
       "word": "400斤男子离世前这个举动令人泪目",
@@ -681,6 +761,14 @@
       "onboard_time": 1691226036,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 600985,
+      "num": 600985,
+      "word": "福宝自己戴发箍",
+      "onboard_time": 1691235997,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 588690,
@@ -761,14 +849,6 @@
       "onboard_time": 1691204313,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 543424,
-      "num": 543424,
-      "word": "羽生结弦结婚前的舞蹈",
-      "onboard_time": 1691234432,
-      "rank": 16,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 540540,
@@ -907,6 +987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 493833,
+      "num": 392673,
+      "word": "罗云熙檀健次影视实绩图",
+      "onboard_time": 1691238040,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 488969,
       "num": 291863,
       "word": "刘涛黑白蕾丝庄园大片",
@@ -979,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445801,
+      "num": 392534,
+      "word": "时代少年团或全员去看TFBOYS演唱会",
+      "onboard_time": 1691232515,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 444242,
       "num": 444242,
       "word": "涂山璟赤水丰隆救了玱玹一命",
@@ -995,6 +1091,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 437056,
+      "num": 392258,
+      "word": "热烈票房",
+      "onboard_time": 1691237922,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 435419,
       "num": 435419,
       "word": "原著里夭柳有同床共枕",
@@ -1003,12 +1107,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427909,
+      "num": 392782,
+      "word": "房东给买了一个迷你冰箱",
+      "onboard_time": 1691235698,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 418462,
       "num": 433670,
       "word": "谷爱凌成都夜跑",
       "onboard_time": 1691198616,
       "rank": 17,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 412740,
+      "num": 392196,
+      "word": "TFBOYS十年成长大事记",
+      "onboard_time": 1691238524,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 407123,
@@ -1043,12 +1163,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 393215,
+      "num": 393215,
+      "word": "JDG对战LNG",
+      "onboard_time": 1691227958,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 393096,
       "num": 262754,
       "word": "贾乃亮六万斤大米驰援灾区",
       "onboard_time": 1691199035,
       "rank": 33,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 392047,
+      "num": 392047,
+      "word": "王一博回复黄渤谢谢渤哥",
+      "onboard_time": 1691235098,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 387354,
@@ -1068,7 +1204,7 @@
     },
     {
       "raw_hot": 384912,
-      "num": 286983,
+      "num": 371045,
       "word": "长相思",
       "onboard_time": 1691233596,
       "rank": 30,
@@ -1121,6 +1257,14 @@
       "onboard_time": 1691226218,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374449,
+      "num": 374449,
+      "word": "魏大勋为吉林舒兰灾区捐款",
+      "onboard_time": 1691238402,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 373235,
@@ -1227,6 +1371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 342523,
+      "num": 393091,
+      "word": "大运会女篮决赛中国队vs日本队",
+      "onboard_time": 1691236657,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342389,
       "num": 260168,
       "word": "忘了相柳没钱了",
@@ -1276,7 +1428,7 @@
     },
     {
       "raw_hot": 329360,
-      "num": 307060,
+      "num": 392732,
       "word": "租客把房东花上百万装修的房子拆了",
       "onboard_time": 1691223458,
       "rank": 46,
@@ -1284,7 +1436,7 @@
     },
     {
       "raw_hot": 327738,
-      "num": 323261,
+      "num": 383374,
       "word": "约会时女生主动买单",
       "onboard_time": 1691231015,
       "rank": 34,
@@ -1337,14 +1489,6 @@
       "onboard_time": 1691225378,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316750,
-      "num": 235527,
-      "word": "时代少年团或全员去看TFBOYS演唱会",
-      "onboard_time": 1691232515,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 315161,
@@ -1507,14 +1651,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 289340,
-      "num": 216082,
-      "word": "王一博回复黄渤谢谢渤哥",
-      "onboard_time": 1691235098,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288610,
       "num": 288610,
       "word": "文春不行啊",
@@ -1531,14 +1667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287652,
-      "num": 287652,
-      "word": "JDG对战LNG",
-      "onboard_time": 1691227958,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 284984,
       "num": 279088,
       "word": "彭昱畅新剧4集哭了7次",
@@ -1553,14 +1681,6 @@
       "onboard_time": 1691158001,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280692,
-      "num": 215472,
-      "word": "严浩翔被正式确诊为尔康",
-      "onboard_time": 1691235159,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 274471,
@@ -1620,7 +1740,7 @@
     },
     {
       "raw_hot": 265818,
-      "num": 265818,
+      "num": 374934,
       "word": "我的小猫请你的小猫",
       "onboard_time": 1691231857,
       "rank": 37,
@@ -1643,12 +1763,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255521,
+      "num": 392492,
+      "word": "舒兰4名公职人员在组织群众转移中失联",
+      "onboard_time": 1691238346,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250416,
       "num": 250416,
       "word": "宋昕冉 御三家",
       "onboard_time": 1691191706,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249683,
+      "num": 392400,
+      "word": "i人有个e人的妈妈什么体验",
+      "onboard_time": 1691234315,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 247839,
@@ -1708,7 +1844,7 @@
     },
     {
       "raw_hot": 236629,
-      "num": 236629,
+      "num": 312838,
       "word": "成都的外国游客人均J人吧",
       "onboard_time": 1691233055,
       "rank": 39,
@@ -1915,6 +2051,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 205834,
+      "num": 381927,
+      "word": "zika",
+      "onboard_time": 1691237745,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205826,
       "num": 280092,
       "word": "王嘉尔开空投",
@@ -1945,6 +2089,14 @@
       "onboard_time": 1691225857,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203018,
+      "num": 381181,
+      "word": "舒兰",
+      "onboard_time": 1691237985,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201182,
@@ -1995,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194981,
+      "num": 356597,
+      "word": "JDG先下一城",
+      "onboard_time": 1691238164,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194641,
       "num": 296729,
       "word": "河南新一轮暴雨上线",
@@ -2027,6 +2187,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 188862,
+      "num": 344063,
+      "word": "AG",
+      "onboard_time": 1691236358,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188700,
       "num": 188700,
       "word": "狗狗抓住树枝求生被救援人员发现",
@@ -2057,6 +2225,14 @@
       "onboard_time": 1691161851,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185981,
+      "num": 341301,
+      "word": "你所拥有的隐形资产",
+      "onboard_time": 1691238040,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 185626,
@@ -2137,14 +2313,6 @@
       "onboard_time": 1691215717,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165552,
-      "num": 213293,
-      "word": "i人有个e人的妈妈什么体验",
-      "onboard_time": 1691234315,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 165208,
@@ -2331,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107541,
+      "num": 392083,
+      "word": "酷光灯闪耀之夜",
+      "onboard_time": 1691236962,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 102760,
       "num": 216237,
       "word": "芭比娃娃收藏界的天花板",
@@ -2396,7 +2572,7 @@
     },
     {
       "raw_hot": 50775,
-      "num": 1647659,
+      "num": 2098612,
       "word": "英雄就是我们身边的平凡人",
       "onboard_time": 1691159021,
       "rank": 2,
