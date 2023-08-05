@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691199632366,
+  "endTime": 1691202483767,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 1569919,
-      "num": 536316,
+      "num": 611866,
       "word": "金星说周迅才叫演员国际章只是个明星",
       "onboard_time": 1691196519,
       "rank": 10,
@@ -1139,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1159755,
+      "num": 1159755,
+      "word": "沈梦辰听到林允吐了的反应",
+      "onboard_time": 1691200595,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1156079,
       "num": 1156079,
       "word": "敖子逸蒋依依",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1690894114,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1133610,
+      "num": 567974,
+      "word": "TFBOYS粉丝已在体育场外守候",
+      "onboard_time": 1691198431,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1125332,
@@ -1467,6 +1483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 985015,
+      "num": 985015,
+      "word": "乔欣爸爸曾被电话诈骗",
+      "onboard_time": 1691200355,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 982449,
       "num": 772196,
       "word": "霉霉给工作人员发放超5500万美元奖金",
@@ -1683,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 924402,
+      "num": 924402,
+      "word": "暑假工25天挣三千多什么水平",
+      "onboard_time": 1691198375,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 924313,
       "num": 924313,
       "word": "小夭涂山璟一吻定情",
@@ -1787,6 +1819,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 900654,
+      "num": 900654,
+      "word": "莲花楼 所有女孩的自救",
+      "onboard_time": 1691197655,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 896919,
       "num": 896919,
       "word": "六公主报道王一博热烈",
@@ -1867,14 +1907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 872839,
-      "num": 872839,
-      "word": "莲花楼 所有女孩的自救",
-      "onboard_time": 1691197655,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 871007,
       "num": 638771,
       "word": "法老 小精灵",
@@ -1953,6 +1985,14 @@
       "onboard_time": 1690947874,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 853700,
+      "num": 853700,
+      "word": "汪苏泷 抢票",
+      "onboard_time": 1691200654,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 844251,
@@ -2081,6 +2121,14 @@
       "onboard_time": 1691152774,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 808450,
+      "num": 533945,
+      "word": "TFBOYS合体路透",
+      "onboard_time": 1691192728,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 802568,
@@ -2249,6 +2297,14 @@
       "onboard_time": 1691133096,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 767439,
+      "num": 767439,
+      "word": "姬发 伯邑考",
+      "onboard_time": 1691199395,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 762182,
@@ -2995,14 +3051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 643139,
-      "num": 533945,
-      "word": "TFBOYS合体路透",
-      "onboard_time": 1691192728,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 642632,
       "num": 339979,
       "word": "李佳琦直播",
@@ -3609,14 +3657,6 @@
       "onboard_time": 1691130758,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 568567,
-      "num": 429206,
-      "word": "暑假工25天挣三千多什么水平",
-      "onboard_time": 1691198375,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 567992,
@@ -4243,6 +4283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495211,
+      "num": 402406,
+      "word": "李现穿了17年穿过的短裤",
+      "onboard_time": 1691197055,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 495034,
       "num": 495034,
       "word": "原神",
@@ -4513,6 +4561,14 @@
       "onboard_time": 1690818214,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 463353,
+      "num": 269484,
+      "word": "杨幂向涿州灾区捐赠物资",
+      "onboard_time": 1691200955,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 462478,
@@ -4907,14 +4963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432847,
-      "num": 408468,
-      "word": "TFBOYS粉丝已在体育场外守候",
-      "onboard_time": 1691198431,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431528,
       "num": 406735,
       "word": "日本小哥不工作专门接受别人请客吃饭",
@@ -5089,6 +5137,14 @@
       "onboard_time": 1690844723,
       "rank": 30,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 418462,
+      "num": 418462,
+      "word": "谷爱凌成都夜跑",
+      "onboard_time": 1691198616,
+      "rank": 17,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 416288,
@@ -5275,14 +5331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402406,
-      "num": 402406,
-      "word": "李现穿了17年穿过的短裤",
-      "onboard_time": 1691197055,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 401249,
       "num": 326615,
       "word": "李飞开直播吧",
@@ -5369,6 +5417,14 @@
       "onboard_time": 1691145215,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 393096,
+      "num": 262754,
+      "word": "贾乃亮六万斤大米驰援灾区",
+      "onboard_time": 1691199035,
+      "rank": 33,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 392824,
@@ -5545,6 +5601,14 @@
       "onboard_time": 1690946555,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378424,
+      "num": 260004,
+      "word": "尤长靖说我是来自马来西亚的华人",
+      "onboard_time": 1691200894,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 377364,
@@ -5777,14 +5841,6 @@
       "onboard_time": 1691192426,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 357567,
-      "num": 414808,
-      "word": "谷爱凌成都夜跑",
-      "onboard_time": 1691198616,
-      "rank": 17,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 356266,
@@ -6603,6 +6659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302798,
+      "num": 266507,
+      "word": "真的佩服夏天还坚持穿长裤的人",
+      "onboard_time": 1691199513,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 301701,
       "num": 301701,
       "word": "莲花楼片头曲好有江湖味",
@@ -7155,6 +7219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272348,
+      "num": 216087,
+      "word": "全麻醒来一直喊要见相柳",
+      "onboard_time": 1691201255,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272172,
       "num": 272172,
       "word": "哪款游戏让你坚持了十年",
@@ -7403,6 +7475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259174,
+      "num": 259174,
+      "word": "爸爸涿州直升机救39人女儿夸很牛",
+      "onboard_time": 1691195013,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 258885,
       "num": 258885,
       "word": "夏天会痛击每个厕所摸鱼人",
@@ -7419,14 +7499,6 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 257723,
-      "num": 257723,
-      "word": "爸爸涿州直升机救39人女儿夸很牛",
-      "onboard_time": 1691195013,
-      "rank": 29,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 256865,
       "num": 256865,
       "word": "张新成周雨彤牢中吻",
@@ -7440,6 +7512,14 @@
       "word": "龚俊回应安乐传是否有吻戏",
       "onboard_time": 1691053959,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 256293,
+      "num": 211358,
+      "word": "杨紫檀健次小学生对话",
+      "onboard_time": 1691199453,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -7633,14 +7713,6 @@
       "onboard_time": 1691075739,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247202,
-      "num": 247202,
-      "word": "贾乃亮六万斤大米驰援灾区",
-      "onboard_time": 1691199035,
-      "rank": 33,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 247030,
@@ -9315,14 +9387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194506,
-      "num": 194506,
-      "word": "姬发 伯邑考",
-      "onboard_time": 1691199395,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194460,
       "num": 205936,
       "word": "95生格局五六三王",
@@ -9416,6 +9480,14 @@
       "word": "封神纪录片",
       "onboard_time": 1691146413,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191812,
+      "num": 211055,
+      "word": "什么是莲花楼",
+      "onboard_time": 1691200894,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -9747,14 +9819,6 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 181057,
-      "num": 181057,
-      "word": "杨紫檀健次小学生对话",
-      "onboard_time": 1691199453,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 180299,
       "num": 191837,
       "word": "何浩楠带十个勤天回缙云老家",
@@ -9801,14 +9865,6 @@
       "onboard_time": 1690973736,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177919,
-      "num": 177919,
-      "word": "真的佩服夏天还坚持穿长裤的人",
-      "onboard_time": 1691199513,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 177508,
@@ -10137,6 +10193,14 @@
       "onboard_time": 1691151873,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155036,
+      "num": 211376,
+      "word": "心理暗示 凡事发生必有利于我",
+      "onboard_time": 1691201495,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 154518,

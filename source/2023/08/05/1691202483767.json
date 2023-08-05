@@ -1,0 +1,410 @@
+{
+  "runTime": 1691202483767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1688484,
+        "num": 1688484,
+        "word": "女孩租房开2小时空调用完100元电费",
+        "onboard_time": 1691190141,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1403943,
+        "num": 1403943,
+        "word": "羽生结弦老婆",
+        "onboard_time": 1691161436,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 45233,
+        "num": 1199971,
+        "word": "英雄就是我们身边的平凡人",
+        "onboard_time": 1691159021,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159755,
+        "num": 1159755,
+        "word": "沈梦辰听到林允吐了的反应",
+        "onboard_time": 1691200595,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1014457,
+        "num": 1014457,
+        "word": "专家称投降式睡姿弊大于利",
+        "onboard_time": 1691193510,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 985015,
+        "num": 985015,
+        "word": "乔欣爸爸曾被电话诈骗",
+        "onboard_time": 1691200355,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 924402,
+        "num": 924402,
+        "word": "暑假工25天挣三千多什么水平",
+        "onboard_time": 1691198375,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 900654,
+        "num": 900654,
+        "word": "莲花楼 所有女孩的自救",
+        "onboard_time": 1691197655,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 853700,
+        "num": 853700,
+        "word": "汪苏泷 抢票",
+        "onboard_time": 1691200654,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 767439,
+        "num": 767439,
+        "word": "姬发 伯邑考",
+        "onboard_time": 1691199395,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1476205,
+        "num": 611866,
+        "word": "金星说周迅才叫演员国际章只是个明星",
+        "onboard_time": 1691196519,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1133610,
+        "num": 567974,
+        "word": "TFBOYS粉丝已在体育场外守候",
+        "onboard_time": 1691198431,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 899920,
+        "num": 532834,
+        "word": "王俊凯易烊千玺牵手错位图",
+        "onboard_time": 1691192790,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436204,
+        "num": 436204,
+        "word": "河南近百亿灾后重建资金出问题",
+        "onboard_time": 1691190321,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418462,
+        "num": 418462,
+        "word": "谷爱凌成都夜跑",
+        "onboard_time": 1691198616,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 808450,
+        "num": 379969,
+        "word": "TFBOYS合体路透",
+        "onboard_time": 1691192728,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619888,
+        "num": 367903,
+        "word": "女法医留遗言我死了你们接着解剖我",
+        "onboard_time": 1691196576,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299935,
+        "num": 299935,
+        "word": "园润教花花的躲雨方法是对的",
+        "onboard_time": 1691195494,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272866,
+        "num": 272866,
+        "word": "羽生结弦宣布结婚",
+        "onboard_time": 1691159319,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 168217,
+        "num": 271687,
+        "word": "起猛了我的小床睡过大英雄",
+        "onboard_time": 1691190321,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495211,
+        "num": 270104,
+        "word": "李现穿了17年穿过的短裤",
+        "onboard_time": 1691197055,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 463353,
+        "num": 269484,
+        "word": "杨幂向涿州灾区捐赠物资",
+        "onboard_time": 1691200955,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365419,
+        "num": 268187,
+        "word": "原来台湾的语文课本长这样",
+        "onboard_time": 1691192668,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 302798,
+        "num": 266507,
+        "word": "真的佩服夏天还坚持穿长裤的人",
+        "onboard_time": 1691199513,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 295197,
+        "num": 264173,
+        "word": "为什么越来越多年轻人选择单身",
+        "onboard_time": 1691194053,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393096,
+        "num": 262754,
+        "word": "贾乃亮六万斤大米驰援灾区",
+        "onboard_time": 1691199035,
+        "rank": 25,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 383766,
+        "num": 260990,
+        "word": "马立奥四岁父母仍在暧昧期",
+        "onboard_time": 1691193811,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378424,
+        "num": 260004,
+        "word": "尤长靖说我是来自马来西亚的华人",
+        "onboard_time": 1691200894,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259174,
+        "num": 259174,
+        "word": "爸爸涿州直升机救39人女儿夸很牛",
+        "onboard_time": 1691195013,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 237894,
+        "num": 237894,
+        "word": "收费员拒收5角纸币一把撕毁",
+        "onboard_time": 1691195614,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340736,
+        "num": 237816,
+        "word": "杨紫工作室招募令",
+        "onboard_time": 1691195314,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286578,
+        "num": 237159,
+        "word": "周扬青穿比基尼",
+        "onboard_time": 1691194173,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 286297,
+        "num": 236642,
+        "word": "叮叮叔演员去世",
+        "onboard_time": 1691191046,
+        "rank": 32,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 234996,
+        "num": 234996,
+        "word": "吉林舒兰灾情",
+        "onboard_time": 1691198072,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216318,
+        "num": 216318,
+        "word": "西安警方通报奥体中心体育场歌迷打架",
+        "onboard_time": 1691160600,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 272348,
+        "num": 216087,
+        "word": "全麻醒来一直喊要见相柳",
+        "onboard_time": 1691201255,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211554,
+        "num": 211554,
+        "word": "代购圈假货内幕揭秘",
+        "onboard_time": 1691194354,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258599,
+        "num": 211535,
+        "word": "原著里夭柳有同床共枕",
+        "onboard_time": 1691194531,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169399,
+        "num": 211440,
+        "word": "大运会男篮中国战胜日本",
+        "onboard_time": 1691196395,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155036,
+        "num": 211376,
+        "word": "心理暗示 凡事发生必有利于我",
+        "onboard_time": 1691201495,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 256293,
+        "num": 211358,
+        "word": "杨紫檀健次小学生对话",
+        "onboard_time": 1691199453,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230714,
+        "num": 211242,
+        "word": "刘宪华急到用三种语言抢人",
+        "onboard_time": 1691195854,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225366,
+        "num": 211178,
+        "word": "苏妲己 白月光",
+        "onboard_time": 1691193210,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153482,
+        "num": 211142,
+        "word": "学生问我的头像是荷兰猪吗",
+        "onboard_time": 1691195433,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191812,
+        "num": 211055,
+        "word": "什么是莲花楼",
+        "onboard_time": 1691200894,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177071,
+        "num": 210972,
+        "word": "宋昕冉 御三家",
+        "onboard_time": 1691191706,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149381,
+        "num": 210961,
+        "word": "黑龙江尚志九江村整村失联",
+        "onboard_time": 1691161675,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148100,
+        "num": 210838,
+        "word": "大熊猫被奶爸揪耳朵气得翻白眼",
+        "onboard_time": 1691190141,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124529,
+        "num": 210828,
+        "word": "日语入籍是结婚的意思",
+        "onboard_time": 1691161378,
+        "rank": 48,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 121436,
+        "num": 210736,
+        "word": "早晨起床不要空腹喝酸奶",
+        "onboard_time": 1691192426,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#同舟共冀感谢有你#"
+    }
+  }
+}
