@@ -1,7 +1,95 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691260443782,
+  "endTime": 1691262750798,
   "band_list": [
+    {
+      "raw_hot": 21956135,
+      "num": 21956135,
+      "word": "山东地震",
+      "onboard_time": 1691260773,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11063759,
+      "num": 11063759,
+      "word": "济南震感",
+      "onboard_time": 1691260957,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11038097,
+      "num": 11038097,
+      "word": "北京震感",
+      "onboard_time": 1691261079,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6956736,
+      "num": 6956736,
+      "word": "天津震感",
+      "onboard_time": 1691261079,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4108482,
+      "num": 4108482,
+      "word": "山东平原5.5级地震",
+      "onboard_time": 1691260957,
+      "rank": 5,
+      "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 3894504,
+      "num": 3894504,
+      "word": "河北震感",
+      "onboard_time": 1691261145,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3835788,
+      "num": 3835788,
+      "word": "地震预警",
+      "onboard_time": 1691261446,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2555034,
+      "num": 2555034,
+      "word": "德州地震",
+      "onboard_time": 1691261390,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2137880,
+      "num": 2137880,
+      "word": "地震快讯",
+      "onboard_time": 1691261574,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1940638,
+      "num": 1940638,
+      "word": "石家庄震感",
+      "onboard_time": 1691261168,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1841711,
+      "num": 1841711,
+      "word": "河南震感",
+      "onboard_time": 1691261446,
+      "rank": 12,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1661719,
       "num": 1661719,
@@ -17,6 +105,22 @@
       "onboard_time": 1691236901,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1439569,
+      "num": 1439569,
+      "word": "山东平原地震",
+      "onboard_time": 1691261446,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1310737,
+      "num": 137037,
+      "word": "青岛震感",
+      "onboard_time": 1691261987,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1015339,
@@ -65,6 +169,14 @@
       "onboard_time": 1691247883,
       "rank": 7,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 756325,
+      "num": 136327,
+      "word": "被震醒了",
+      "onboard_time": 1691262280,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 727519,
@@ -121,6 +233,14 @@
       "onboard_time": 1691249920,
       "rank": 13,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 541628,
+      "num": 541628,
+      "word": "江苏震感",
+      "onboard_time": 1691262280,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535802,
@@ -291,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297135,
+      "num": 297135,
+      "word": "救援队员返乡后哭诉再也不想参与",
+      "onboard_time": 1691253094,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290270,
       "num": 249934,
       "word": "严浩翔被正式确诊为尔康",
@@ -355,14 +483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183073,
-      "num": 193847,
-      "word": "救援队员返乡后哭诉再也不想参与",
-      "onboard_time": 1691253094,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179628,
       "num": 251623,
       "word": "你身边女性自由职业者的人",
@@ -401,6 +521,14 @@
       "onboard_time": 1691239066,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150546,
+      "num": 150546,
+      "word": "李凯尔首秀",
+      "onboard_time": 1691261869,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 148250,
@@ -460,7 +588,7 @@
     },
     {
       "raw_hot": 125768,
-      "num": 477112,
+      "num": 2228722,
       "word": "大运女篮中国队胜日本队夺冠",
       "onboard_time": 1691242908,
       "rank": 19,
@@ -475,20 +603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84591,
+      "num": 5430855,
+      "word": "大运会又一个显眼包出现了",
+      "onboard_time": 1691242727,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83470,
+      "num": 83470,
+      "word": "黄子韬付辛博拒绝当队长",
+      "onboard_time": 1691261667,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60372,
       "num": 60372,
       "word": "金龟子王宁设宴庆结婚35周年",
       "onboard_time": 1691259558,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50484,
-      "num": 271558,
-      "word": "大运会又一个显眼包出现了",
-      "onboard_time": 1691242727,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

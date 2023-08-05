@@ -1,7 +1,15 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691260443782,
+  "endTime": 1691262750798,
   "band_list": [
+    {
+      "raw_hot": 21956135,
+      "num": 21956135,
+      "word": "山东地震",
+      "onboard_time": 1691260773,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 13786713,
       "num": 13786713,
@@ -11,12 +19,36 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 11063759,
+      "num": 11063759,
+      "word": "济南震感",
+      "onboard_time": 1691260957,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11038097,
+      "num": 11038097,
+      "word": "北京震感",
+      "onboard_time": 1691261079,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9602069,
       "num": 9602069,
       "word": "时代峰峻全家福",
       "onboard_time": 1691237620,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6956736,
+      "num": 6956736,
+      "word": "天津震感",
+      "onboard_time": 1691261079,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4511617,
@@ -35,12 +67,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 4108482,
+      "num": 4108482,
+      "word": "山东平原5.5级地震",
+      "onboard_time": 1691260957,
+      "rank": 5,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 4077391,
       "num": 4077391,
       "word": "王楚然方回应",
       "onboard_time": 1690816715,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3894504,
+      "num": 3894504,
+      "word": "河北震感",
+      "onboard_time": 1691261145,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3835788,
+      "num": 3835788,
+      "word": "地震预警",
+      "onboard_time": 1691261446,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3743665,
@@ -267,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2555034,
+      "num": 2555034,
+      "word": "德州地震",
+      "onboard_time": 1691261390,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2540288,
       "num": 2540288,
       "word": "难哄官博发声明",
@@ -427,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2137880,
+      "num": 2137880,
+      "word": "地震快讯",
+      "onboard_time": 1691261574,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2113434,
       "num": 2113434,
       "word": "微信小绿书",
@@ -547,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1940638,
+      "num": 1940638,
+      "word": "石家庄震感",
+      "onboard_time": 1691261168,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1938825,
       "num": 1938825,
       "word": "花花洗澡全国人民都知道了",
@@ -633,6 +713,14 @@
       "onboard_time": 1690772192,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1841711,
+      "num": 1841711,
+      "word": "河南震感",
+      "onboard_time": 1691261446,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1834531,
@@ -1163,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1439569,
+      "num": 1439569,
+      "word": "山东平原地震",
+      "onboard_time": 1691261446,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1438562,
       "num": 1438562,
       "word": "杨幂喊迪丽热巴巴",
@@ -1425,6 +1521,14 @@
       "onboard_time": 1690790733,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1310737,
+      "num": 137037,
+      "word": "青岛震感",
+      "onboard_time": 1691261987,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1306650,
@@ -2180,7 +2284,7 @@
     },
     {
       "raw_hot": 1016995,
-      "num": 1016995,
+      "num": 2228722,
       "word": "大运女篮中国队胜日本队夺冠",
       "onboard_time": 1691242908,
       "rank": 6,
@@ -3601,6 +3705,14 @@
       "onboard_time": 1690893394,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 756325,
+      "num": 136327,
+      "word": "被震醒了",
+      "onboard_time": 1691262280,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755711,
@@ -5769,6 +5881,14 @@
       "onboard_time": 1691037882,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 541628,
+      "num": 541628,
+      "word": "江苏震感",
+      "onboard_time": 1691262280,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541011,
@@ -9851,6 +9971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297135,
+      "num": 297135,
+      "word": "救援队员返乡后哭诉再也不想参与",
+      "onboard_time": 1691253094,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296659,
       "num": 296659,
       "word": "苹果和安卓哪个续航耐用",
@@ -13707,14 +13835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183073,
-      "num": 193847,
-      "word": "救援队员返乡后哭诉再也不想参与",
-      "onboard_time": 1691253094,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182738,
       "num": 182738,
       "word": "如何评价鸿蒙4",
@@ -14449,6 +14569,14 @@
       "onboard_time": 1691017221,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 150546,
+      "num": 150546,
+      "word": "李凯尔首秀",
+      "onboard_time": 1691261869,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 150415,
@@ -15275,12 +15403,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84591,
+      "num": 5430855,
+      "word": "大运会又一个显眼包出现了",
+      "onboard_time": 1691242727,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83506,
       "num": 749773,
       "word": "这种长着眼睛的子弹是反恐利器",
       "onboard_time": 1690952439,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83470,
+      "num": 83470,
+      "word": "黄子韬付辛博拒绝当队长",
+      "onboard_time": 1691261667,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 83142,
@@ -15425,14 +15569,6 @@
       "onboard_time": 1691087595,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50484,
-      "num": 271558,
-      "word": "大运会又一个显眼包出现了",
-      "onboard_time": 1691242727,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48210,
