@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691266548668,
+  "endTime": 1691267620691,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -13371,6 +13371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58527,
+      "num": 58527,
+      "word": "洪水冲来2条狗女子领回精心饲养",
+      "onboard_time": 1691266758,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57920,
       "num": 57920,
       "word": "建军节致敬中国军人",
@@ -13449,6 +13457,14 @@
       "onboard_time": 1690915694,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 42737,
+      "num": 42737,
+      "word": "TFBOYS歌迷提前24小时场外守候",
+      "onboard_time": 1691267298,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 42292,
