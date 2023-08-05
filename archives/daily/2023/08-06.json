@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691264038342,
+  "endTime": 1691266548668,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -115,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1466366,
+      "num": 1466366,
+      "word": "济南将迎大雨到暴雨",
+      "onboard_time": 1691263295,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1462878,
       "num": 1462878,
       "word": "被震醒了",
@@ -201,14 +209,6 @@
       "onboard_time": 1691248546,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 643896,
-      "num": 396539,
-      "word": "济南将迎大雨到暴雨",
-      "onboard_time": 1691263295,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 597411,
@@ -449,6 +449,14 @@
       "onboard_time": 1691235159,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260411,
+      "num": 260411,
+      "word": "泰安震感",
+      "onboard_time": 1691264066,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254095,

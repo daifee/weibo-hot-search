@@ -1,0 +1,410 @@
+{
+  "runTime": 1691266548668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5002702,
+        "num": 5002702,
+        "word": "山东地震",
+        "onboard_time": 1691260773,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3120189,
+        "num": 3120189,
+        "word": "余震",
+        "onboard_time": 1691262816,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64882,
+        "num": 1504851,
+        "word": "大运会又一个显眼包出现了",
+        "onboard_time": 1691242727,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1466366,
+        "num": 1466366,
+        "word": "济南将迎大雨到暴雨",
+        "onboard_time": 1691263295,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812980,
+        "num": 812980,
+        "word": "地震预警",
+        "onboard_time": 1691261446,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707787,
+        "num": 707787,
+        "word": "地震快讯",
+        "onboard_time": 1691261574,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597528,
+        "num": 597528,
+        "word": "北京震感",
+        "onboard_time": 1691261079,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560259,
+        "num": 560259,
+        "word": "被震醒了",
+        "onboard_time": 1691262280,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544992,
+        "num": 544992,
+        "word": "山东平原5.5级地震",
+        "onboard_time": 1691260957,
+        "rank": 8,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 28729,
+        "num": 519780,
+        "word": "大运女篮中国队胜日本队夺冠",
+        "onboard_time": 1691242908,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506400,
+        "num": 506400,
+        "word": "江苏震感",
+        "onboard_time": 1691262280,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466159,
+        "num": 466159,
+        "word": "河北震感",
+        "onboard_time": 1691261145,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391771,
+        "num": 391771,
+        "word": "河南震感",
+        "onboard_time": 1691261446,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378156,
+        "num": 378156,
+        "word": "德州地震",
+        "onboard_time": 1691261390,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292897,
+        "num": 292897,
+        "word": "地震了",
+        "onboard_time": 1691263295,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289495,
+        "num": 289495,
+        "word": "青岛震感",
+        "onboard_time": 1691261987,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278935,
+        "num": 278935,
+        "word": "山东平原地震",
+        "onboard_time": 1691261446,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261600,
+        "num": 261600,
+        "word": "济南震感",
+        "onboard_time": 1691260957,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260411,
+        "num": 260411,
+        "word": "泰安震感",
+        "onboard_time": 1691264066,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24035,
+        "num": 241401,
+        "word": "CCTV国家公园",
+        "onboard_time": 1691242846,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237312,
+        "num": 237312,
+        "word": "天津震感",
+        "onboard_time": 1691261079,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224894,
+        "num": 224894,
+        "word": "莲花楼丧尸案",
+        "onboard_time": 1691236901,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204166,
+        "num": 204166,
+        "word": "救援队员返乡后哭诉再也不想参与",
+        "onboard_time": 1691253094,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180004,
+        "num": 180004,
+        "word": "王俊凯王源易烊千玺怎么不笑了",
+        "onboard_time": 1691236901,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175178,
+        "num": 175178,
+        "word": "安崎自曝出道后失业到现在",
+        "onboard_time": 1691244046,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153033,
+        "num": 153033,
+        "word": "石家庄震感",
+        "onboard_time": 1691261168,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148292,
+        "num": 148292,
+        "word": "爸爸好像忘记我已经结婚了",
+        "onboard_time": 1691245066,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141273,
+        "num": 141273,
+        "word": "男子上厕所发现马桶底座盘大蛇",
+        "onboard_time": 1691249321,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136894,
+        "num": 136894,
+        "word": "李凯尔首秀",
+        "onboard_time": 1691261869,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127375,
+        "num": 127375,
+        "word": "这是尊嘟假嘟 这是我微信余额",
+        "onboard_time": 1691239848,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109470,
+        "num": 109470,
+        "word": "同事劝我不要买杂牌口红",
+        "onboard_time": 1691240446,
+        "rank": 30,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 105368,
+        "num": 105368,
+        "word": "封神海报妲己穿纣王衣服",
+        "onboard_time": 1691244406,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98910,
+        "num": 98910,
+        "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
+        "onboard_time": 1691240865,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83381,
+        "num": 83381,
+        "word": "大张伟 所有的快乐和悲伤都是因为人际关系",
+        "onboard_time": 1691251419,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77044,
+        "num": 77044,
+        "word": "导演们看看大码女演员吧",
+        "onboard_time": 1691248546,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73123,
+        "num": 73123,
+        "word": "迪丽热巴龚俊手牵得好紧",
+        "onboard_time": 1691249505,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67300,
+        "num": 67300,
+        "word": "舒兰失联副市长上一线指挥防汛是工作常态",
+        "onboard_time": 1691246983,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70159,
+        "num": 66671,
+        "word": "王鹤棣再次错过迪丽热巴",
+        "onboard_time": 1691241885,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65891,
+        "num": 65891,
+        "word": "给狗狗买磨牙棒忘了看尺寸",
+        "onboard_time": 1691247347,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65045,
+        "num": 65045,
+        "word": "严浩翔被正式确诊为尔康",
+        "onboard_time": 1691235159,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64762,
+        "num": 64762,
+        "word": "异人之下 介质原因延期播出",
+        "onboard_time": 1691243265,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63862,
+        "num": 63862,
+        "word": "房东给买了一个迷你冰箱",
+        "onboard_time": 1691235698,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55754,
+        "num": 55754,
+        "word": "金龟子王宁设宴庆结婚35周年",
+        "onboard_time": 1691259558,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55692,
+        "num": 55692,
+        "word": "王俊凯想笑就笑吧",
+        "onboard_time": 1691248906,
+        "rank": 43,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 55364,
+        "num": 55364,
+        "word": "时代峰峻负责人称对TFBOYS有遗憾",
+        "onboard_time": 1691241824,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52650,
+        "num": 52650,
+        "word": "孤注一掷",
+        "onboard_time": 1691245006,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50264,
+        "num": 50264,
+        "word": "路飞五档",
+        "onboard_time": 1691249920,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 49597,
+        "num": 49597,
+        "word": "王源脚脖子呢",
+        "onboard_time": 1691250103,
+        "rank": 47,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 47790,
+        "num": 47790,
+        "word": "时代峰峻回应时团没有代表作",
+        "onboard_time": 1691243809,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47201,
+        "num": 47201,
+        "word": "她们干了我小时候想干不敢干的事",
+        "onboard_time": 1691247883,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#风雨同心人民至上#"
+    }
+  }
+}
