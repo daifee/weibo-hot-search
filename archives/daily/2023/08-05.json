@@ -1,6 +1,6 @@
 {
   "startTime": 1691166073457,
-  "endTime": 1691224431443,
+  "endTime": 1691226868159,
   "band_list": [
     {
       "raw_hot": 5407861,
@@ -139,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1255084,
+      "num": 614141,
+      "word": "张艺凡去看TFBOYS演唱会",
+      "onboard_time": 1691222735,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1159755,
       "num": 1159755,
       "word": "沈梦辰听到林允吐了的反应",
@@ -171,11 +179,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1121168,
+      "num": 1121168,
+      "word": "电影孤注一掷",
+      "onboard_time": 1691220399,
+      "rank": 2,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1100385,
       "num": 1100385,
       "word": "TFBOYS专辑",
       "onboard_time": 1691208456,
       "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1084341,
+      "num": 1012614,
+      "word": "TFBOYS夹起来了",
+      "onboard_time": 1691222495,
+      "rank": 5,
       "category": "音乐"
     },
     {
@@ -195,28 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1063036,
-      "num": 1012614,
-      "word": "TFBOYS夹起来了",
-      "onboard_time": 1691222495,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1051763,
       "num": 799858,
       "word": "王俊凯易烊千玺牵手错位图",
       "onboard_time": 1691192790,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1048005,
-      "num": 1048005,
-      "word": "电影孤注一掷",
-      "onboard_time": 1691220399,
-      "rank": 2,
-      "category": "影视"
     },
     {
       "raw_hot": 1024415,
@@ -243,6 +251,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 988646,
+      "num": 988646,
+      "word": "吴倩婚恋观",
+      "onboard_time": 1691223816,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 988468,
       "num": 988468,
       "word": "何超莲的沉默震耳欲聋",
@@ -267,20 +283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 976289,
-      "num": 614141,
-      "word": "张艺凡去看TFBOYS演唱会",
-      "onboard_time": 1691222735,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 935817,
       "num": 935817,
       "word": "张踩铃婆婆",
       "onboard_time": 1691162633,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 931627,
+      "num": 931627,
+      "word": "3岁娃人工耳蜗被高铁乘客刮掉",
+      "onboard_time": 1691222434,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 924402,
@@ -361,6 +377,14 @@
       "onboard_time": 1691205276,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 843632,
+      "num": 501370,
+      "word": "孙艺珍说拜托我家新郎给我拍的",
+      "onboard_time": 1691223458,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 829505,
@@ -475,6 +499,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 721534,
+      "num": 721534,
+      "word": "张晚意演过乔家的儿女",
+      "onboard_time": 1691223034,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 714434,
       "num": 616182,
       "word": "明天见歌词",
@@ -483,20 +515,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 678426,
+      "num": 447800,
+      "word": "胡夏是不是谈恋爱了",
+      "onboard_time": 1691225498,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 671360,
       "num": 426238,
       "word": "原来台湾的语文课本长这样",
       "onboard_time": 1691192668,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 663715,
-      "num": 429449,
-      "word": "张晚意演过乔家的儿女",
-      "onboard_time": 1691223034,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 653796,
@@ -523,19 +555,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 622656,
-      "num": 343688,
-      "word": "孙艺珍说拜托我家新郎给我拍的",
-      "onboard_time": 1691223458,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 621504,
-      "num": 296288,
-      "word": "3岁娃人工耳蜗被高铁乘客刮掉",
-      "onboard_time": 1691222434,
-      "rank": 30,
+      "raw_hot": 629118,
+      "num": 629118,
+      "word": "大妈误会卖肉老板中暑为其刮痧10分钟",
+      "onboard_time": 1691224536,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -643,6 +667,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 527095,
+      "num": 316142,
+      "word": "JYP选秀正脸公开",
+      "onboard_time": 1691225736,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 524958,
+      "num": 313520,
+      "word": "曾黎造型",
+      "onboard_time": 1691226036,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 523979,
       "num": 448627,
       "word": "黑龙江已有4条江河发生洪水",
@@ -673,6 +713,22 @@
       "onboard_time": 1691195854,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 503839,
+      "num": 503839,
+      "word": "霉霉拥抱科比小女儿",
+      "onboard_time": 1691224594,
+      "rank": 9,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 500165,
+      "num": 500165,
+      "word": "400斤男子离世前这个举动令人泪目",
+      "onboard_time": 1691225198,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496283,
@@ -723,12 +779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 473308,
-      "num": 297510,
-      "word": "吴倩婚恋观",
-      "onboard_time": 1691223816,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 477020,
+      "num": 295765,
+      "word": "周深尊嘟假嘟",
+      "onboard_time": 1691224536,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 472894,
@@ -803,12 +859,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 408744,
+      "num": 272424,
+      "word": "王传君戏份",
+      "onboard_time": 1691226575,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 407123,
       "num": 407123,
       "word": "新华网评价巨齿鲨2",
       "onboard_time": 1691214696,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 403843,
+      "num": 310579,
+      "word": "妻子误拿302胶水当眼药水给丈夫",
+      "onboard_time": 1691224175,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395713,
@@ -843,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382417,
+      "num": 289196,
+      "word": "孤注一掷 诈骗电影玩纯爱",
+      "onboard_time": 1691226575,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378424,
       "num": 260004,
       "word": "尤长靖说我是来自马来西亚的华人",
@@ -865,6 +945,14 @@
       "onboard_time": 1691194354,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 376638,
+      "num": 276309,
+      "word": "他剜了我一眼 我们别理他",
+      "onboard_time": 1691226218,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 373235,
@@ -980,7 +1068,7 @@
     },
     {
       "raw_hot": 329360,
-      "num": 295573,
+      "num": 307060,
       "word": "租客把房东花上百万装修的房子拆了",
       "onboard_time": 1691223458,
       "rank": 46,
@@ -1008,6 +1096,14 @@
       "word": "七时吉祥无限流爱情副本",
       "onboard_time": 1691214934,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 319587,
+      "num": 295039,
+      "word": "璟收的密报是夭柳cp粉写的吧",
+      "onboard_time": 1691224175,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1043,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311619,
+      "num": 234395,
+      "word": "起猛了看见龚俊迪丽热巴演现偶",
+      "onboard_time": 1691225378,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309932,
       "num": 276702,
       "word": "小伙手腕上刺初恋分手后相亲次次告吹",
@@ -1057,6 +1161,14 @@
       "onboard_time": 1691221957,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304148,
+      "num": 304148,
+      "word": "LPL",
+      "onboard_time": 1691225498,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 302973,
@@ -1081,14 +1193,6 @@
       "onboard_time": 1691199513,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 295039,
-      "num": 295039,
-      "word": "璟收的密报是夭柳cp粉写的吧",
-      "onboard_time": 1691224175,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 291573,
@@ -1139,6 +1243,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 288402,
+      "num": 231806,
+      "word": "迪丽热巴泼水速度",
+      "onboard_time": 1691224957,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282133,
       "num": 282133,
       "word": "轿车从天而降电动车主被撞身亡",
@@ -1153,6 +1265,14 @@
       "onboard_time": 1691222254,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276018,
+      "num": 276018,
+      "word": "男子一天8瓶可乐瘦70斤被送医抢救",
+      "onboard_time": 1691225378,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274471,
@@ -1467,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204382,
+      "num": 247148,
+      "word": "北京WB",
+      "onboard_time": 1691225857,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201182,
       "num": 215207,
       "word": "2023KPL夏季赛",
@@ -1651,12 +1779,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164500,
-      "num": 292093,
-      "word": "妻子误拿302胶水当眼药水给丈夫",
-      "onboard_time": 1691224175,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 160050,
+      "num": 230171,
+      "word": "KPL",
+      "onboard_time": 1691225016,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 159631,
@@ -1707,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137298,
+      "num": 229511,
+      "word": "原来假发是这样做出来的",
+      "onboard_time": 1691226160,
+      "rank": 47,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 134050,
       "num": 214065,
       "word": "吉林舒兰部分村镇洪水漫灌",
@@ -1721,6 +1857,14 @@
       "onboard_time": 1691172440,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132065,
+      "num": 229407,
+      "word": "最令人沉默的cosplay",
+      "onboard_time": 1691226696,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 132046,
