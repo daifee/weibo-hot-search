@@ -1,0 +1,410 @@
+{
+  "runTime": 1691206428517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3708419,
+        "num": 3708419,
+        "word": "为什么十年之约只能在西安办",
+        "onboard_time": 1691204195,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1156117,
+        "num": 1156117,
+        "word": "TFBOYS新歌明天见",
+        "onboard_time": 1691202573,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 80663,
+        "num": 1135556,
+        "word": "暴雨洪水过后的安全及防疫提醒",
+        "onboard_time": 1691205695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120843,
+        "num": 1120843,
+        "word": "女孩租房开2小时空调用完100元电费",
+        "onboard_time": 1691190141,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996473,
+        "num": 996473,
+        "word": "羽生结弦老婆",
+        "onboard_time": 1691161436,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 917180,
+        "num": 917180,
+        "word": "王源演唱会个人solo路透",
+        "onboard_time": 1691204614,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 886421,
+        "num": 886421,
+        "word": "沈梦辰听到林允吐了的反应",
+        "onboard_time": 1691200595,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 819686,
+        "num": 819686,
+        "word": "潘玮柏被芯竹问为什么淘汰我",
+        "onboard_time": 1691204195,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625901,
+        "num": 625901,
+        "word": "暑假工25天挣三千多什么水平",
+        "onboard_time": 1691198375,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 601269,
+        "num": 601269,
+        "word": "退伍军人从2楼跳入洪水为救援队开门",
+        "onboard_time": 1691202573,
+        "rank": 9,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 1048268,
+        "num": 542900,
+        "word": "难听",
+        "onboard_time": 1691205573,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 906615,
+        "num": 511366,
+        "word": "金星说周迅才叫演员国际章只是个明星",
+        "onboard_time": 1691196519,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 852487,
+        "num": 510056,
+        "word": "张大大也去看TFBOYS演唱会吗",
+        "onboard_time": 1691205276,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 477541,
+        "num": 477541,
+        "word": "专家称投降式睡姿弊大于利",
+        "onboard_time": 1691193510,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438904,
+        "num": 438904,
+        "word": "媒体十二问涿州泄洪",
+        "onboard_time": 1691202573,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663388,
+        "num": 438519,
+        "word": "姬发 伯邑考",
+        "onboard_time": 1691199395,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 610123,
+        "num": 436389,
+        "word": "唐恬是团粉吧",
+        "onboard_time": 1691205213,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 267096,
+        "num": 434124,
+        "word": "河南近百亿灾后重建资金出问题",
+        "onboard_time": 1691190321,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212925,
+        "num": 433670,
+        "word": "谷爱凌成都夜跑",
+        "onboard_time": 1691198616,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 209719,
+        "num": 430797,
+        "word": "黑龙江尚志继续停课停工停运",
+        "onboard_time": 1691203358,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 566014,
+        "num": 429126,
+        "word": "乔欣爸爸曾被电话诈骗",
+        "onboard_time": 1691200355,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549394,
+        "num": 428874,
+        "word": "王俊凯王源易烊千玺小黑屋合集",
+        "onboard_time": 1691204313,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361924,
+        "num": 426238,
+        "word": "原来台湾的语文课本长这样",
+        "onboard_time": 1691192668,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292712,
+        "num": 425113,
+        "word": "为什么越来越多年轻人选择单身",
+        "onboard_time": 1691194053,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226441,
+        "num": 422322,
+        "word": "心理暗示 凡事发生必有利于我",
+        "onboard_time": 1691201495,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 536850,
+        "num": 421234,
+        "word": "张晚意早期广告 妖娆表哥",
+        "onboard_time": 1691204133,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514169,
+        "num": 418963,
+        "word": "TFBOYS粉丝已在体育场外守候",
+        "onboard_time": 1691198431,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 482358,
+        "num": 418470,
+        "word": "王俊凯易烊千玺牵手错位图",
+        "onboard_time": 1691192790,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201676,
+        "num": 416169,
+        "word": "收费员拒收5角纸币一把撕毁",
+        "onboard_time": 1691195614,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192883,
+        "num": 414892,
+        "word": "羽生结弦宣布结婚",
+        "onboard_time": 1691159319,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 458321,
+        "num": 413407,
+        "word": "你好星期六真迪甜开业",
+        "onboard_time": 1691203115,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412279,
+        "num": 412279,
+        "word": "汪苏泷 抢票",
+        "onboard_time": 1691200654,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 410343,
+        "num": 410343,
+        "word": "明天见歌词",
+        "onboard_time": 1691202935,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188215,
+        "num": 398515,
+        "word": "爸爸涿州直升机救39人女儿夸很牛",
+        "onboard_time": 1691195013,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 171953,
+        "num": 393504,
+        "word": "真的佩服夏天还坚持穿长裤的人",
+        "onboard_time": 1691199513,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 391978,
+        "num": 391978,
+        "word": "迪丽热巴龚俊复古风大片",
+        "onboard_time": 1691204494,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 388716,
+        "num": 388716,
+        "word": "杨幂向涿州灾区捐赠物资",
+        "onboard_time": 1691200955,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372136,
+        "num": 372136,
+        "word": "王俊凯新歌唱rap",
+        "onboard_time": 1691205456,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166448,
+        "num": 356845,
+        "word": "园润教花花的躲雨方法是对的",
+        "onboard_time": 1691195494,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164446,
+        "num": 346949,
+        "word": "代购圈假货内幕揭秘",
+        "onboard_time": 1691194354,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342841,
+        "num": 342841,
+        "word": "TFBOYS合体路透",
+        "onboard_time": 1691192728,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335792,
+        "num": 335792,
+        "word": "莲花楼 所有女孩的自救",
+        "onboard_time": 1691197655,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325536,
+        "num": 325536,
+        "word": "女法医留遗言我死了你们接着解剖我",
+        "onboard_time": 1691196576,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236822,
+        "num": 236822,
+        "word": "叮叮叔演员去世",
+        "onboard_time": 1691191046,
+        "rank": 43,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 153193,
+        "num": 235886,
+        "word": "西安警方通报奥体中心体育场歌迷打架",
+        "onboard_time": 1691160600,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 121132,
+        "num": 234410,
+        "word": "学生问我的头像是荷兰猪吗",
+        "onboard_time": 1691195433,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119735,
+        "num": 232648,
+        "word": "大运会男篮中国战胜日本",
+        "onboard_time": 1691196395,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106285,
+        "num": 231708,
+        "word": "Hero声明",
+        "onboard_time": 1691206296,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96133,
+        "num": 230487,
+        "word": "黑龙江尚志蚂蚁河水面已与堤岸持平",
+        "onboard_time": 1691205514,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92336,
+        "num": 228336,
+        "word": "被妈妈发现追星库后进行PPT发言",
+        "onboard_time": 1691193270,
+        "rank": 49,
+        "category": "幽默,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会有哪些黑科技#"
+    }
+  }
+}
