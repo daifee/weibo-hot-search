@@ -1,0 +1,410 @@
+{
+  "runTime": 1691228038544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1497936,
+        "num": 1497936,
+        "word": "小杨哥回应捐款2000万为抵税",
+        "onboard_time": 1691214094,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1003096,
+        "num": 1003096,
+        "word": "电影孤注一掷",
+        "onboard_time": 1691220399,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25837,
+        "num": 1002901,
+        "word": "断崖旁消防员用身躯做人墙保护孩子",
+        "onboard_time": 1691159079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075063,
+        "num": 1002871,
+        "word": "王俊凯王源易烊千玺不热吗",
+        "onboard_time": 1691223216,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1002747,
+        "num": 1002747,
+        "word": "吴倩婚恋观",
+        "onboard_time": 1691223816,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1104730,
+        "num": 1000063,
+        "word": "TFBOYS夹起来了",
+        "onboard_time": 1691222495,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 899805,
+        "num": 899805,
+        "word": "保定因灾死亡10人失联18人",
+        "onboard_time": 1691227118,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881929,
+        "num": 881929,
+        "word": "3岁娃人工耳蜗被高铁乘客刮掉",
+        "onboard_time": 1691222434,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859354,
+        "num": 859354,
+        "word": "王传君戏份",
+        "onboard_time": 1691226575,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573120,
+        "num": 573120,
+        "word": "大妈误会卖肉老板中暑为其刮痧10分钟",
+        "onboard_time": 1691224536,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1299047,
+        "num": 565125,
+        "word": "具俊晔哭了",
+        "onboard_time": 1691217034,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1069313,
+        "num": 556500,
+        "word": "张艺凡去看TFBOYS演唱会",
+        "onboard_time": 1691222735,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 731842,
+        "num": 555807,
+        "word": "孤注一掷 诈骗电影玩纯爱",
+        "onboard_time": 1691226575,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547285,
+        "num": 547285,
+        "word": "400斤男子离世前这个举动令人泪目",
+        "onboard_time": 1691225198,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493837,
+        "num": 493837,
+        "word": "霉霉拥抱科比小女儿",
+        "onboard_time": 1691224594,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 692956,
+        "num": 449911,
+        "word": "魏大勋乌木沉香",
+        "onboard_time": 1691227535,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 642125,
+        "num": 439742,
+        "word": "胡夏是不是谈恋爱了",
+        "onboard_time": 1691225498,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390531,
+        "num": 390531,
+        "word": "想当兵的体育生18岁成人礼却纹了大花臂",
+        "onboard_time": 1691209775,
+        "rank": 17,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 292402,
+        "num": 292402,
+        "word": "LPL",
+        "onboard_time": 1691225498,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258981,
+        "num": 258981,
+        "word": "知名华人企业家在美国酒店身亡",
+        "onboard_time": 1691213013,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614832,
+        "num": 258161,
+        "word": "曾黎造型",
+        "onboard_time": 1691226036,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591434,
+        "num": 256432,
+        "word": "张晚意演过乔家的儿女",
+        "onboard_time": 1691223034,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401256,
+        "num": 255629,
+        "word": "妻子误拿302胶水当眼药水给丈夫",
+        "onboard_time": 1691224175,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306814,
+        "num": 254199,
+        "word": "男子一天8瓶可乐瘦70斤被送医抢救",
+        "onboard_time": 1691225378,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267838,
+        "num": 252714,
+        "word": "租客把房东花上百万装修的房子拆了",
+        "onboard_time": 1691223458,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504387,
+        "num": 251335,
+        "word": "孙艺珍说拜托我家新郎给我拍的",
+        "onboard_time": 1691223458,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472515,
+        "num": 250351,
+        "word": "票没有但人已经在西安了",
+        "onboard_time": 1691227176,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 469818,
+        "num": 248894,
+        "word": "JYP选秀正脸公开",
+        "onboard_time": 1691225736,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345751,
+        "num": 247994,
+        "word": "黄锐不去TFBOYS演唱会了",
+        "onboard_time": 1691221474,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246801,
+        "num": 246801,
+        "word": "舒兰市一常务副市长在抗洪抢险中失联",
+        "onboard_time": 1691218415,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342937,
+        "num": 245894,
+        "word": "他剜了我一眼 我们别理他",
+        "onboard_time": 1691226218,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330244,
+        "num": 243762,
+        "word": "周深尊嘟假嘟",
+        "onboard_time": 1691224536,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280095,
+        "num": 242694,
+        "word": "保定因灾直接经济损失169.95亿元",
+        "onboard_time": 1691227716,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231226,
+        "num": 231226,
+        "word": "内耗式恋爱",
+        "onboard_time": 1691217218,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 206112,
+        "num": 206112,
+        "word": "K396乘客哭着感谢落坡岭居民",
+        "onboard_time": 1691221897,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326947,
+        "num": 206063,
+        "word": "林一翻跳ENHYPEN的biteme",
+        "onboard_time": 1691226874,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325855,
+        "num": 205933,
+        "word": "TFBOYS魔法城堡路透",
+        "onboard_time": 1691221295,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313154,
+        "num": 205772,
+        "word": "王俊凯王源易烊千玺喜欢你彩排",
+        "onboard_time": 1691227475,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169613,
+        "num": 205651,
+        "word": "工作后突然觉得爸妈好厉害",
+        "onboard_time": 1691219196,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157618,
+        "num": 205462,
+        "word": "河南新一轮暴雨上线",
+        "onboard_time": 1691223275,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284984,
+        "num": 205318,
+        "word": "彭昱畅新剧4集哭了7次",
+        "onboard_time": 1691222254,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284426,
+        "num": 205141,
+        "word": "哇唧唧哇简介没看见肖战",
+        "onboard_time": 1691210134,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280628,
+        "num": 205104,
+        "word": "璟收的密报是夭柳cp粉写的吧",
+        "onboard_time": 1691224175,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156753,
+        "num": 204941,
+        "word": "最令人沉默的cosplay",
+        "onboard_time": 1691226696,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254449,
+        "num": 204766,
+        "word": "迪丽热巴跳舞真迪甜",
+        "onboard_time": 1691222317,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154656,
+        "num": 204677,
+        "word": "1岁女童一头栽进洗澡桶溺水挣扎",
+        "onboard_time": 1691219975,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146537,
+        "num": 204457,
+        "word": "北京WB",
+        "onboard_time": 1691225857,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146177,
+        "num": 204348,
+        "word": "男子婚内与外遇生女双双获刑",
+        "onboard_time": 1691214999,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144223,
+        "num": 204221,
+        "word": "原来假发是这样做出来的",
+        "onboard_time": 1691226160,
+        "rank": 48,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 140843,
+        "num": 204057,
+        "word": "JDG对战LNG",
+        "onboard_time": 1691227958,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养更多高素质技术技能人才#"
+    }
+  }
+}

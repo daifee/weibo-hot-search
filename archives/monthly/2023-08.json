@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691226868159,
+  "endTime": 1691228038544,
   "band_list": [
     {
       "raw_hot": 13786713,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 2487125,
-      "num": 510916,
+      "num": 565125,
       "word": "具俊晔哭了",
       "onboard_time": 1691217034,
       "rank": 12,
@@ -1355,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1104730,
+      "num": 1012614,
+      "word": "TFBOYS夹起来了",
+      "onboard_time": 1691222495,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1101945,
       "num": 1101945,
       "word": "封神版纣王妲己 官配的神",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1690883132,
       "rank": 9,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1084341,
-      "num": 1012614,
-      "word": "TFBOYS夹起来了",
-      "onboard_time": 1691222495,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 1082734,
@@ -1603,6 +1603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1002747,
+      "num": 1002747,
+      "word": "吴倩婚恋观",
+      "onboard_time": 1691223816,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1001565,
       "num": 452113,
       "word": "哥哥1万元偷卖妹妹房子给女儿",
@@ -1641,14 +1649,6 @@
       "onboard_time": 1691219913,
       "rank": 11,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 988646,
-      "num": 988646,
-      "word": "吴倩婚恋观",
-      "onboard_time": 1691223816,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 988468,
@@ -2027,6 +2027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 899805,
+      "num": 899805,
+      "word": "保定因灾死亡10人失联18人",
+      "onboard_time": 1691227118,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896919,
       "num": 896919,
       "word": "六公主报道王一博热烈",
@@ -2177,6 +2185,14 @@
       "onboard_time": 1691122780,
       "rank": 21,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 859354,
+      "num": 859354,
+      "word": "王传君戏份",
+      "onboard_time": 1691226575,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 858183,
@@ -2803,6 +2819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 731842,
+      "num": 555807,
+      "word": "孤注一掷 诈骗电影玩纯爱",
+      "onboard_time": 1691226575,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 730669,
       "num": 730669,
       "word": "卡努",
@@ -3009,6 +3033,14 @@
       "onboard_time": 1691070097,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 692956,
+      "num": 449911,
+      "word": "魏大勋乌木沉香",
+      "onboard_time": 1691227535,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 690156,
@@ -3537,6 +3569,14 @@
       "onboard_time": 1691205213,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 614832,
+      "num": 313520,
+      "word": "曾黎造型",
+      "onboard_time": 1691226036,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 614426,
@@ -4187,6 +4227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547285,
+      "num": 547285,
+      "word": "400斤男子离世前这个举动令人泪目",
+      "onboard_time": 1691225198,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546988,
       "num": 546988,
       "word": "内娱天选将军文男主",
@@ -4385,14 +4433,6 @@
       "onboard_time": 1690845324,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524958,
-      "num": 313520,
-      "word": "曾黎造型",
-      "onboard_time": 1691226036,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 523476,
@@ -4641,14 +4681,6 @@
       "onboard_time": 1690847251,
       "rank": 23,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 500165,
-      "num": 500165,
-      "word": "400斤男子离世前这个举动令人泪目",
-      "onboard_time": 1691225198,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 499321,
@@ -4929,6 +4961,14 @@
       "onboard_time": 1691224536,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 472515,
+      "num": 250351,
+      "word": "票没有但人已经在西安了",
+      "onboard_time": 1691227176,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 472036,
@@ -5739,14 +5779,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 408744,
-      "num": 272424,
-      "word": "王传君戏份",
-      "onboard_time": 1691226575,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 408356,
       "num": 408356,
       "word": "莲花楼官宣加更",
@@ -6080,14 +6112,6 @@
       "word": "鹿晗也要追异人之下",
       "onboard_time": 1691165436,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 382417,
-      "num": 289196,
-      "word": "孤注一掷 诈骗电影玩纯爱",
-      "onboard_time": 1691226575,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -6827,6 +6851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326947,
+      "num": 206063,
+      "word": "林一翻跳ENHYPEN的biteme",
+      "onboard_time": 1691226874,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 326944,
       "num": 326944,
       "word": "今晚的月亮好圆",
@@ -7083,6 +7115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313154,
+      "num": 205772,
+      "word": "王俊凯王源易烊千玺喜欢你彩排",
+      "onboard_time": 1691227475,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 312412,
       "num": 312412,
       "word": "王俊凯王源易烊千玺终于不用P合照了",
@@ -7200,6 +7240,14 @@
       "word": "捐款",
       "onboard_time": 1691131115,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306814,
+      "num": 276018,
+      "word": "男子一天8瓶可乐瘦70斤被送医抢救",
+      "onboard_time": 1691225378,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -7683,6 +7731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284984,
+      "num": 279088,
+      "word": "彭昱畅新剧4集哭了7次",
+      "onboard_time": 1691222254,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284906,
       "num": 284906,
       "word": "发现单词笔的痕迹是一只蝴蝶",
@@ -7763,6 +7819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 280095,
+      "num": 242694,
+      "word": "保定因灾直接经济损失169.95亿元",
+      "onboard_time": 1691227716,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279913,
       "num": 279913,
       "word": "长相思三个男人的表情",
@@ -7776,14 +7840,6 @@
       "word": "陈牧驰 真正的殷郊珍贵影像流出",
       "onboard_time": 1691051796,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 279088,
-      "num": 279088,
-      "word": "彭昱畅新剧4集哭了7次",
-      "onboard_time": 1691222254,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -7816,14 +7872,6 @@
       "word": "涿州多名受困婴儿被救出",
       "onboard_time": 1690949857,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276018,
-      "num": 276018,
-      "word": "男子一天8瓶可乐瘦70斤被送医抢救",
-      "onboard_time": 1691225378,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -11091,6 +11139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156753,
+      "num": 229407,
+      "word": "最令人沉默的cosplay",
+      "onboard_time": 1691226696,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156715,
       "num": 216042,
       "word": "枫丹启动",
@@ -11235,6 +11291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144223,
+      "num": 229511,
+      "word": "原来假发是这样做出来的",
+      "onboard_time": 1691226160,
+      "rank": 47,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 143908,
       "num": 199966,
       "word": "长颈鹿通道",
@@ -11283,6 +11347,14 @@
       "category": "科技,影视"
     },
     {
+      "raw_hot": 140843,
+      "num": 204057,
+      "word": "JDG对战LNG",
+      "onboard_time": 1691227958,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140719,
       "num": 205670,
       "word": "卡努或将今夜至明上午转向",
@@ -11297,14 +11369,6 @@
       "onboard_time": 1690990895,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137298,
-      "num": 229511,
-      "word": "原来假发是这样做出来的",
-      "onboard_time": 1691226160,
-      "rank": 47,
-      "category": "幽默,美妆"
     },
     {
       "raw_hot": 137004,
@@ -11385,14 +11449,6 @@
       "onboard_time": 1691172440,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132065,
-      "num": 229407,
-      "word": "最令人沉默的cosplay",
-      "onboard_time": 1691226696,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 132046,
