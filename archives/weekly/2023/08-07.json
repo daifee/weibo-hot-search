@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691339741047,
+  "endTime": 1691341999508,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -83,7 +83,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1277579,
+      "raw_hot": 1307674,
       "num": 819868,
       "word": "王源回应TFBOYS时隔两年没开演唱会",
       "onboard_time": 1691339379,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165087,
+      "num": 620649,
+      "word": "要学会大大方方的表达自己的情绪",
+      "onboard_time": 1691340754,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 153484,
       "num": 818752,
       "word": "地震导致的次声波真的会跟人体器官共振",
@@ -363,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143713,
+      "num": 619219,
+      "word": "地震来了他们没跑反而拿起电话",
+      "onboard_time": 1691327712,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136252,
       "num": 818685,
       "word": "TES对战XYG",
@@ -379,6 +395,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 130389,
+      "num": 817365,
+      "word": "曼城vs阿森纳",
+      "onboard_time": 1691334289,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127296,
       "num": 817559,
       "word": "XYG状态",
@@ -393,14 +417,6 @@
       "onboard_time": 1691329401,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110174,
-      "num": 817365,
-      "word": "曼城vs阿森纳",
-      "onboard_time": 1691334289,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 100496,

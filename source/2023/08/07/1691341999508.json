@@ -1,0 +1,410 @@
+{
+  "runTime": 1691341999508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1407839,
+        "num": 1759799,
+        "word": "吉林舒兰3名失联公职人员确认牺牲",
+        "onboard_time": 1691331008,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790556,
+        "num": 790556,
+        "word": "gemini",
+        "onboard_time": 1691335752,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267093,
+        "num": 689996,
+        "word": "北部战区第78集团军某旅紧急驰援舒兰",
+        "onboard_time": 1691335988,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2906527,
+        "num": 687607,
+        "word": "十周年蛋糕塌了",
+        "onboard_time": 1691332398,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 681240,
+        "num": 681240,
+        "word": "我突然意识到自己真的很好",
+        "onboard_time": 1691328197,
+        "rank": 4,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 622591,
+        "num": 622591,
+        "word": "高校1.31亿科研经费成果转化率为0",
+        "onboard_time": 1691333233,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2364578,
+        "num": 622553,
+        "word": "TFBOYS快本的信",
+        "onboard_time": 1691329401,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 338668,
+        "num": 622374,
+        "word": "迪丽热巴戒指",
+        "onboard_time": 1691323387,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413239,
+        "num": 622310,
+        "word": "部分网友称有偿共享TFBOYS直播屏幕",
+        "onboard_time": 1691335930,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301848,
+        "num": 622250,
+        "word": "直到25岁我才真正读完了中学",
+        "onboard_time": 1691323857,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2267946,
+        "num": 622055,
+        "word": "TFBOYS十年之约演唱会",
+        "onboard_time": 1691320248,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268426,
+        "num": 621963,
+        "word": "要离职的人状态真的很不一样",
+        "onboard_time": 1691314660,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209708,
+        "num": 621825,
+        "word": "Fly",
+        "onboard_time": 1691329874,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2209782,
+        "num": 621748,
+        "word": "王俊凯王源看着易烊千玺笑",
+        "onboard_time": 1691338190,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201833,
+        "num": 621671,
+        "word": "广州80岁名医逝世当天仍在出门诊",
+        "onboard_time": 1691328070,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191949,
+        "num": 621513,
+        "word": "买了不一样的泳帽去河里游泳",
+        "onboard_time": 1691337239,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1567954,
+        "num": 621421,
+        "word": "TFBOYS官博急了",
+        "onboard_time": 1691319525,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188529,
+        "num": 621338,
+        "word": "Uzi",
+        "onboard_time": 1691326034,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167408,
+        "num": 621194,
+        "word": "女生地震后坐电梯回家被困30分钟",
+        "onboard_time": 1691326512,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1307674,
+        "num": 621130,
+        "word": "王源回应TFBOYS时隔两年没开演唱会",
+        "onboard_time": 1691339379,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379802,
+        "num": 621007,
+        "word": "原来穿高跟鞋从背后看是这样的",
+        "onboard_time": 1691332810,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167910,
+        "num": 620853,
+        "word": "女生出生起14年每天抱毯睡用成絮状",
+        "onboard_time": 1691321390,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1279561,
+        "num": 620779,
+        "word": "易烊千玺太野了",
+        "onboard_time": 1691338190,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165087,
+        "num": 620649,
+        "word": "要学会大大方方的表达自己的情绪",
+        "onboard_time": 1691340754,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 157020,
+        "num": 620562,
+        "word": "旭旭宝宝签约抖音",
+        "onboard_time": 1691323803,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 866644,
+        "num": 620397,
+        "word": "李飞和黄锐在台下belike",
+        "onboard_time": 1691334631,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302961,
+        "num": 620359,
+        "word": "王楚然张晚意 娇藏",
+        "onboard_time": 1691322056,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262722,
+        "num": 620199,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1691332871,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 847770,
+        "num": 620093,
+        "word": "小虎队",
+        "onboard_time": 1691337473,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136340,
+        "num": 620004,
+        "word": "太平公主薛绍婚礼火炬烤焦沿途树木",
+        "onboard_time": 1691333426,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240047,
+        "num": 619889,
+        "word": "孤注一掷刷新中国影史点映单日票房纪录",
+        "onboard_time": 1691322541,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 829377,
+        "num": 619797,
+        "word": "王俊凯回望",
+        "onboard_time": 1691326396,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202645,
+        "num": 619643,
+        "word": "刘宪华贵阳",
+        "onboard_time": 1691334692,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178934,
+        "num": 619494,
+        "word": "莲花楼",
+        "onboard_time": 1691323440,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165744,
+        "num": 619431,
+        "word": "孤注一掷",
+        "onboard_time": 1691313521,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146481,
+        "num": 619316,
+        "word": "七时吉祥定档",
+        "onboard_time": 1691329401,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143713,
+        "num": 619219,
+        "word": "地震来了他们没跑反而拿起电话",
+        "onboard_time": 1691327712,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141515,
+        "num": 619081,
+        "word": "广末凉子私服",
+        "onboard_time": 1691337774,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 130389,
+        "num": 618982,
+        "word": "曼城vs阿森纳",
+        "onboard_time": 1691334289,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108170,
+        "num": 618935,
+        "word": "地震导致的次声波真的会跟人体器官共振",
+        "onboard_time": 1691318863,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139191,
+        "num": 618738,
+        "word": "封神票房",
+        "onboard_time": 1691330772,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121613,
+        "num": 618618,
+        "word": "杨紫是懂断更的",
+        "onboard_time": 1691327891,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93741,
+        "num": 618565,
+        "word": "高铁上的大叔被女儿问尴尬了",
+        "onboard_time": 1691313701,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92221,
+        "num": 618477,
+        "word": "TES对战XYG",
+        "onboard_time": 1691326267,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90183,
+        "num": 618312,
+        "word": "莲花楼预告悬疑感拉满了",
+        "onboard_time": 1691331255,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89406,
+        "num": 618264,
+        "word": "Scout拥抱JieJie",
+        "onboard_time": 1691329401,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81928,
+        "num": 618070,
+        "word": "XYG状态",
+        "onboard_time": 1691330060,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81079,
+        "num": 617995,
+        "word": "网传郑州大学一领导要求员工无偿加班还威胁降薪",
+        "onboard_time": 1691314781,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 78420,
+        "num": 617904,
+        "word": "EDG",
+        "onboard_time": 1691324220,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75760,
+        "num": 617820,
+        "word": "大妈踩在丹霞地貌上疯狂拍照",
+        "onboard_time": 1691315678,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#风雨同心人民至上#"
+    }
+  }
+}
