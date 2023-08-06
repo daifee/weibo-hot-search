@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691307226467,
+  "endTime": 1691309952930,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -83,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2868630,
+      "num": 2868630,
+      "word": "TFBOYS彩排时眼圈泛红",
+      "onboard_time": 1691307758,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2780722,
       "num": 2780722,
       "word": "地震云",
@@ -121,6 +129,14 @@
       "onboard_time": 1691261574,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2130475,
+      "num": 2130475,
+      "word": "武艺考试全科目零分",
+      "onboard_time": 1691306915,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 2043523,
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1214654,
+      "num": 1214654,
+      "word": "娇藏",
+      "onboard_time": 1691306794,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1200957,
       "num": 1200957,
       "word": "吴彤也来看TFBOYS演唱会了",
@@ -379,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 977436,
+      "num": 514096,
+      "word": "TFBOYS演唱会进场",
+      "onboard_time": 1691309256,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 973419,
       "num": 867416,
       "word": "薛之谦祝TFBOYS演唱会圆满成功",
@@ -388,11 +420,19 @@
     },
     {
       "raw_hot": 964965,
-      "num": 539154,
+      "num": 832459,
       "word": "当中年领导用上了Air Pods",
       "onboard_time": 1691302714,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 929110,
+      "num": 929110,
+      "word": "苹果回应地震预警",
+      "onboard_time": 1691306135,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 912483,
@@ -427,12 +467,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 880976,
+      "num": 636924,
+      "word": "TFBOYS演唱会场馆外围已人山人海",
+      "onboard_time": 1691305714,
+      "rank": 36,
+      "category": "音乐,社会新闻"
+    },
+    {
       "raw_hot": 854525,
       "num": 854525,
       "word": "TFBOYS十年之约演唱会",
       "onboard_time": 1691276845,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 810641,
+      "num": 810641,
+      "word": "六公主认证长相思是现象级爆剧",
+      "onboard_time": 1691308597,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 799388,
@@ -473,6 +529,14 @@
       "onboard_time": 1691285562,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 771068,
+      "num": 502687,
+      "word": "罗志祥当姜涛演唱会嘉宾",
+      "onboard_time": 1691306794,
+      "rank": 25,
+      "category": "音乐,综艺"
     },
     {
       "raw_hot": 769327,
@@ -569,14 +633,6 @@
       "onboard_time": 1691280761,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 636924,
-      "num": 636924,
-      "word": "TFBOYS演唱会场馆外围已人山人海",
-      "onboard_time": 1691305714,
-      "rank": 36,
-      "category": "音乐,社会新闻"
     },
     {
       "raw_hot": 618004,
@@ -689,14 +745,6 @@
       "onboard_time": 1691249920,
       "rank": 13,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 558230,
-      "num": 558230,
-      "word": "娇藏",
-      "onboard_time": 1691306794,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 535802,
@@ -867,28 +915,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472793,
+      "num": 305122,
+      "word": "郑国霖评价杨紫",
+      "onboard_time": 1691309074,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467718,
       "num": 467718,
       "word": "TF三代将于明年暑假成团",
       "onboard_time": 1691281237,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 463875,
-      "num": 271342,
-      "word": "罗志祥当姜涛演唱会嘉宾",
-      "onboard_time": 1691306794,
-      "rank": 25,
-      "category": "音乐,综艺"
-    },
-    {
-      "raw_hot": 457000,
-      "num": 526154,
-      "word": "苹果回应地震预警",
-      "onboard_time": 1691306135,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 452561,
@@ -923,12 +963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428151,
+      "num": 239234,
+      "word": "金晨抽烟镜头",
+      "onboard_time": 1691309674,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 420922,
       "num": 420922,
       "word": "时代峰峻负责人称对TFBOYS有遗憾",
       "onboard_time": 1691241824,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420160,
+      "num": 238662,
+      "word": "吴京从此以后又多了一个身份",
+      "onboard_time": 1691307455,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 419593,
@@ -987,6 +1043,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 398826,
+      "num": 398826,
+      "word": "痛苦的时候人甚至通过写来呼吸",
+      "onboard_time": 1691306313,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 398045,
       "num": 312819,
       "word": "易烊千玺彩排图",
@@ -1003,20 +1067,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 391489,
+      "num": 238243,
+      "word": "贾乃亮3万份自热锅米饭驰援黑龙江",
+      "onboard_time": 1691307095,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389620,
       "num": 346562,
       "word": "发现这个律师眼里已经没有光",
       "onboard_time": 1691304455,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 389570,
-      "num": 246350,
-      "word": "武艺考试全科目零分",
-      "onboard_time": 1691306915,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 388576,
@@ -1099,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 364145,
+      "num": 218611,
+      "word": "孤注一掷金晨出场镜头",
+      "onboard_time": 1691307815,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360197,
       "num": 360197,
       "word": "异人之下 介质原因延期播出",
@@ -1145,6 +1217,14 @@
       "onboard_time": 1691285081,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 353795,
+      "num": 217461,
+      "word": "强实名",
+      "onboard_time": 1691309795,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 353590,
@@ -1195,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330024,
+      "num": 203749,
+      "word": "爸爸当家",
+      "onboard_time": 1691309615,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328184,
       "num": 328184,
       "word": "鞠婧祎恋爱告急最新直拍",
@@ -1233,14 +1321,6 @@
       "onboard_time": 1691246568,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 312896,
-      "num": 203860,
-      "word": "贾乃亮3万份自热锅米饭驰援黑龙江",
-      "onboard_time": 1691307095,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 310892,
@@ -1283,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302906,
+      "num": 182218,
+      "word": "张艺兴首映现场成功反击王传君",
+      "onboard_time": 1691308176,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296230,
       "num": 296230,
       "word": "手机地震预警怎么开",
@@ -1305,6 +1393,14 @@
       "onboard_time": 1691295639,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285186,
+      "num": 188172,
+      "word": "长相思角色号全员更新",
+      "onboard_time": 1691309195,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 282976,
@@ -1483,20 +1579,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237501,
+      "num": 237501,
+      "word": "玉玲珑是苏妲己吧",
+      "onboard_time": 1691306915,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231872,
       "num": 231872,
       "word": "看完热烈跟自己和解了",
       "onboard_time": 1691289635,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 230620,
-      "num": 230620,
-      "word": "痛苦的时候人甚至通过写来呼吸",
-      "onboard_time": 1691306313,
-      "rank": 33,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 224452,
@@ -1523,14 +1619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219565,
-      "num": 219565,
-      "word": "玉玲珑是苏妲己吧",
-      "onboard_time": 1691306915,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 219149,
       "num": 219149,
       "word": "只有洛铭西受伤的世界达成了",
@@ -1539,12 +1627,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218808,
+      "num": 218808,
+      "word": "老人敲击百万次后瓷盘出现一幅画",
+      "onboard_time": 1691306554,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210659,
       "num": 210659,
       "word": "开播情景喜剧2今日开播",
       "onboard_time": 1691298997,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209733,
+      "num": 209733,
+      "word": "在海边时突然中二病发作",
+      "onboard_time": 1691307574,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 205198,
@@ -1577,6 +1681,14 @@
       "onboard_time": 1691294739,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198195,
+      "num": 198195,
+      "word": "管水母",
+      "onboard_time": 1691306794,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197392,
@@ -1627,14 +1739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190875,
-      "num": 190875,
-      "word": "老人敲击百万次后瓷盘出现一幅画",
-      "onboard_time": 1691306554,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190714,
       "num": 252480,
       "word": "房东给买了一个迷你冰箱",
@@ -1652,7 +1756,7 @@
     },
     {
       "raw_hot": 181548,
-      "num": 1159695,
+      "num": 1623848,
       "word": "收到地震预警之后该怎么做",
       "onboard_time": 1691300796,
       "rank": 2,
@@ -1683,20 +1787,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161803,
-      "num": 161803,
-      "word": "管水母",
-      "onboard_time": 1691306794,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161119,
       "num": 5430855,
       "word": "大运会又一个显眼包出现了",
       "onboard_time": 1691242727,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155776,
+      "num": 155776,
+      "word": "中国选手将球拍借给无拍可用的对手",
+      "onboard_time": 1691309437,
+      "rank": 46,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 151892,
@@ -1713,6 +1817,14 @@
       "onboard_time": 1691239066,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149681,
+      "num": 149681,
+      "word": "如果不爱大连那就请别伤害",
+      "onboard_time": 1691308716,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 148250,
@@ -1753,6 +1865,14 @@
       "onboard_time": 1691253333,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135047,
+      "num": 135047,
+      "word": "100秒看抗洪救灾暖心瞬间",
+      "onboard_time": 1691309674,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134668,
