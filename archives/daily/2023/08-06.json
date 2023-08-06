@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691309952930,
+  "endTime": 1691310838893,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -211,6 +211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1534931,
+      "num": 1534931,
+      "word": "TFBOYS演唱会进场",
+      "onboard_time": 1691309256,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1466366,
       "num": 1466366,
       "word": "济南将迎大雨到暴雨",
@@ -355,6 +363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1043723,
+      "num": 1043723,
+      "word": "苹果回应地震预警",
+      "onboard_time": 1691306135,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1040248,
       "num": 1040248,
       "word": "江苏震感",
@@ -377,6 +393,14 @@
       "onboard_time": 1691279432,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1005499,
+      "num": 1005499,
+      "word": "六公主认证长相思是现象级爆剧",
+      "onboard_time": 1691308597,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1001395,
@@ -403,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 977436,
-      "num": 514096,
-      "word": "TFBOYS演唱会进场",
-      "onboard_time": 1691309256,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 973419,
       "num": 867416,
       "word": "薛之谦祝TFBOYS演唱会圆满成功",
@@ -425,14 +441,6 @@
       "onboard_time": 1691302714,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 929110,
-      "num": 929110,
-      "word": "苹果回应地震预警",
-      "onboard_time": 1691306135,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 912483,
@@ -475,20 +483,20 @@
       "category": "音乐,社会新闻"
     },
     {
+      "raw_hot": 855292,
+      "num": 299788,
+      "word": "金晨抽烟镜头",
+      "onboard_time": 1691309674,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 854525,
       "num": 854525,
       "word": "TFBOYS十年之约演唱会",
       "onboard_time": 1691276845,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 810641,
-      "num": 810641,
-      "word": "六公主认证长相思是现象级爆剧",
-      "onboard_time": 1691308597,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 799388,
@@ -513,6 +521,14 @@
       "onboard_time": 1691251419,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 789856,
+      "num": 238353,
+      "word": "强实名",
+      "onboard_time": 1691309795,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 780494,
@@ -851,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 493772,
+      "num": 493772,
+      "word": "痛苦的时候人甚至通过写来呼吸",
+      "onboard_time": 1691306313,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 492394,
       "num": 492394,
       "word": "TFBOYS夹起来了",
@@ -916,7 +940,7 @@
     },
     {
       "raw_hot": 472793,
-      "num": 305122,
+      "num": 363649,
       "word": "郑国霖评价杨紫",
       "onboard_time": 1691309074,
       "rank": 21,
@@ -961,14 +985,6 @@
       "onboard_time": 1691246625,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 428151,
-      "num": 239234,
-      "word": "金晨抽烟镜头",
-      "onboard_time": 1691309674,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 420922,
@@ -1043,20 +1059,20 @@
       "category": "美妆,幽默"
     },
     {
-      "raw_hot": 398826,
-      "num": 398826,
-      "word": "痛苦的时候人甚至通过写来呼吸",
-      "onboard_time": 1691306313,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 398045,
       "num": 312819,
       "word": "易烊千玺彩排图",
       "onboard_time": 1691304034,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 397809,
+      "num": 236795,
+      "word": "爸爸当家",
+      "onboard_time": 1691309615,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 395001,
@@ -1219,14 +1235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 353795,
-      "num": 217461,
-      "word": "强实名",
-      "onboard_time": 1691309795,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 353590,
       "num": 353590,
       "word": "金晨孤注一掷里好美",
@@ -1273,14 +1281,6 @@
       "onboard_time": 1691248124,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330024,
-      "num": 203749,
-      "word": "爸爸当家",
-      "onboard_time": 1691309615,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 328184,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1691309195,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284132,
+      "num": 284132,
+      "word": "玉玲珑是苏妲己吧",
+      "onboard_time": 1691306915,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 282976,
@@ -1579,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237501,
-      "num": 237501,
-      "word": "玉玲珑是苏妲己吧",
-      "onboard_time": 1691306915,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 231872,
       "num": 231872,
       "word": "看完热烈跟自己和解了",
@@ -1619,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221241,
+      "num": 221241,
+      "word": "管水母",
+      "onboard_time": 1691306794,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219149,
       "num": 219149,
       "word": "只有洛铭西受伤的世界达成了",
@@ -1633,6 +1641,14 @@
       "onboard_time": 1691306554,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213652,
+      "num": 213652,
+      "word": "S13资格赛",
+      "onboard_time": 1691310276,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 210659,
@@ -1681,14 +1697,6 @@
       "onboard_time": 1691294739,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198195,
-      "num": 198195,
-      "word": "管水母",
-      "onboard_time": 1691306794,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197392,
@@ -1771,6 +1779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179345,
+      "num": 179345,
+      "word": "中国选手将球拍借给无拍可用的对手",
+      "onboard_time": 1691309437,
+      "rank": 46,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 178312,
       "num": 178312,
       "word": "虫子做成果冻你愿意吃吗",
@@ -1795,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155776,
-      "num": 155776,
-      "word": "中国选手将球拍借给无拍可用的对手",
-      "onboard_time": 1691309437,
-      "rank": 46,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 151892,
       "num": 248682,
       "word": "Missing说带Yagao去世界赛",
@@ -1820,7 +1828,7 @@
     },
     {
       "raw_hot": 149681,
-      "num": 149681,
+      "num": 165545,
       "word": "如果不爱大连那就请别伤害",
       "onboard_time": 1691308716,
       "rank": 47,
