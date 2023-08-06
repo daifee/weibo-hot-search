@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691313281784,
+  "endTime": 1691314414304,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -43,7 +43,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4272369,
+      "raw_hot": 4649469,
+      "num": 4649469,
+      "word": "TFBOYS演唱会不用强实名",
+      "onboard_time": 1691313341,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 4306991,
       "num": 4272369,
       "word": "TFBOYS演唱会进场",
       "onboard_time": 1691309256,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 2270249,
-      "num": 873356,
+      "num": 968389,
       "word": "TFBOYS曾说组合解散就重新一起出道",
       "onboard_time": 1691311357,
       "rank": 3,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1136055,
+      "num": 355606,
+      "word": "易烊千玺手上戴的是粉水晶",
+      "onboard_time": 1691311357,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1131198,
       "num": 1131198,
       "word": "TFBOYS演唱会歌单",
@@ -459,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 958552,
+      "num": 958552,
+      "word": "肖战变装视频是月下舞剑",
+      "onboard_time": 1691312919,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 912483,
       "num": 912483,
       "word": "TFBOYS大花轿",
@@ -491,20 +515,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 884082,
+      "num": 884082,
+      "word": "孤注一掷",
+      "onboard_time": 1691245006,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 880976,
       "num": 636924,
       "word": "TFBOYS演唱会场馆外围已人山人海",
       "onboard_time": 1691305714,
       "rank": 36,
       "category": "音乐,社会新闻"
-    },
-    {
-      "raw_hot": 878922,
-      "num": 328560,
-      "word": "易烊千玺手上戴的是粉水晶",
-      "onboard_time": 1691311357,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 855292,
@@ -537,6 +561,14 @@
       "onboard_time": 1691246983,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790126,
+      "num": 375176,
+      "word": "桃花坞的文案到底是谁在写啊",
+      "onboard_time": 1691312502,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 790004,
@@ -803,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 530907,
-      "num": 530907,
-      "word": "孤注一掷",
-      "onboard_time": 1691245006,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 527905,
       "num": 461071,
       "word": "迪丽热巴龚俊手牵得好紧",
@@ -979,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454164,
+      "num": 239834,
+      "word": "夭柳的海外人气是nextlevel",
+      "onboard_time": 1691312857,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452561,
       "num": 452561,
       "word": "TF家族三代考核排名",
@@ -993,6 +1025,14 @@
       "onboard_time": 1691305236,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 446387,
+      "num": 226299,
+      "word": "高铁上的大叔被女儿问尴尬了",
+      "onboard_time": 1691313701,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 441605,
@@ -1235,14 +1275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 359068,
-      "num": 247652,
-      "word": "肖战变装视频是月下舞剑",
-      "onboard_time": 1691312919,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 357264,
       "num": 357264,
       "word": "洪水冲来2条狗女子领回精心饲养",
@@ -1259,12 +1291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356220,
-      "num": 230648,
-      "word": "桃花坞的文案到底是谁在写啊",
-      "onboard_time": 1691312502,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 356695,
+      "num": 225515,
+      "word": "张晚意第三部古偶",
+      "onboard_time": 1691312857,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 355579,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1691285081,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 354342,
+      "num": 359235,
+      "word": "五常市农田被淹水面连在一起",
+      "onboard_time": 1691311535,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353590,
@@ -1307,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344464,
+      "num": 226848,
+      "word": "孙怡一把推出王传君",
+      "onboard_time": 1691312198,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338845,
       "num": 266989,
       "word": "蒋依依节目中看到做过的高考题",
@@ -1329,14 +1377,6 @@
       "onboard_time": 1691243809,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335583,
-      "num": 226848,
-      "word": "孙怡一把推出王传君",
-      "onboard_time": 1691312198,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 334592,
@@ -1419,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306034,
+      "num": 214476,
+      "word": "殷寿说的是殷语",
+      "onboard_time": 1691314060,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305133,
       "num": 305133,
       "word": "迪丽热巴玩游戏有礼貌",
@@ -1491,12 +1539,12 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 280549,
-      "num": 220772,
-      "word": "夭柳的海外人气是nextlevel",
-      "onboard_time": 1691312857,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 282261,
+      "num": 282261,
+      "word": "门票争夺战",
+      "onboard_time": 1691313701,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 279236,
@@ -1539,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264132,
+      "num": 212572,
+      "word": "让一让李飞来了",
+      "onboard_time": 1691314361,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263874,
       "num": 263874,
       "word": "封神于适黄曦彦上你好星期六剧宣",
@@ -1571,14 +1627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259694,
-      "num": 359235,
-      "word": "五常市农田被淹水面连在一起",
-      "onboard_time": 1691311535,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258082,
       "num": 258082,
       "word": "陈芋汐世界杯总决赛夺冠",
@@ -1592,14 +1640,6 @@
       "word": "七时吉祥虎猪彩云海报",
       "onboard_time": 1691290115,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 254149,
-      "num": 219307,
-      "word": "张晚意第三部古偶",
-      "onboard_time": 1691312857,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -1665,6 +1705,14 @@
       "onboard_time": 1691285982,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 243968,
+      "num": 209407,
+      "word": "方多病你别丢下李莲花",
+      "onboard_time": 1691312015,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 241719,
@@ -1787,14 +1835,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197730,
-      "num": 197730,
-      "word": "方多病你别丢下李莲花",
-      "onboard_time": 1691312015,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197392,
       "num": 197392,
       "word": "TFBOYS十周年",
@@ -1857,6 +1897,14 @@
       "onboard_time": 1691276667,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181819,
+      "num": 216737,
+      "word": "meiko",
+      "onboard_time": 1691313998,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 181548,
@@ -1979,6 +2027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134070,
+      "num": 970101,
+      "word": "地震来临时牢记生命三角法",
+      "onboard_time": 1691312136,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132034,
       "num": 407302,
       "word": "酱油冰淇淋能有多上头",
@@ -2027,20 +2083,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93178,
-      "num": 885522,
-      "word": "地震来临时牢记生命三角法",
-      "onboard_time": 1691312136,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89478,
       "num": 1151091,
       "word": "CCTV国家公园",
       "onboard_time": 1691242846,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85006,
+      "num": 450309,
+      "word": "冰淇淋为什么口感柔软蓬松",
+      "onboard_time": 1691312438,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 80528,
@@ -2057,14 +2113,6 @@
       "onboard_time": 1691272997,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 38203,
-      "num": 450309,
-      "word": "冰淇淋为什么口感柔软蓬松",
-      "onboard_time": 1691312438,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 33645,
@@ -2084,6 +2132,9 @@
     },
     {
       "word": "#第一个上太空演奏的中国传统乐器#"
+    },
+    {
+      "word": "#把民族传统文化传承好发展好#"
     }
   ]
 }
