@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691292830283,
+  "endTime": 1691295533975,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2662262,
+      "num": 2662262,
+      "word": "内娱不可复制的成功",
+      "onboard_time": 1691290236,
+      "rank": 5,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 2555034,
       "num": 2555034,
       "word": "德州地震",
@@ -113,14 +121,6 @@
       "onboard_time": 1691286702,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2005131,
-      "num": 2005131,
-      "word": "内娱不可复制的成功",
-      "onboard_time": 1691290236,
-      "rank": 5,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1940638,
@@ -339,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 809343,
+      "num": 621251,
+      "word": "吉克隽逸腹沟",
+      "onboard_time": 1691294260,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 799388,
       "num": 799388,
       "word": "女友视角下的杨洋",
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690098,
+      "num": 388209,
+      "word": "山东地震为何震感传得这么远",
+      "onboard_time": 1691292938,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653204,
       "num": 653204,
       "word": "涿州",
@@ -433,6 +449,14 @@
       "onboard_time": 1691280761,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 618004,
+      "num": 618004,
+      "word": "要不你们还是回去继承家产吧",
+      "onboard_time": 1691292760,
+      "rank": 40,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 609227,
@@ -611,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479262,
+      "num": 479262,
+      "word": "时代峰峻19年VS23年",
+      "onboard_time": 1691289938,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467718,
       "num": 467718,
       "word": "TF三代将于明年暑假成团",
@@ -675,14 +707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 403974,
-      "num": 403974,
-      "word": "时代峰峻19年VS23年",
-      "onboard_time": 1691289938,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 403688,
       "num": 403688,
       "word": "地震前流浪狗反复挠门把店主叫醒",
@@ -721,6 +745,14 @@
       "onboard_time": 1691247466,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387117,
+      "num": 387117,
+      "word": "猫咪被地震吓得口吐白沫",
+      "onboard_time": 1691293836,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378468,
@@ -827,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327835,
+      "num": 327835,
+      "word": "檀健次相柳爆没爆",
+      "onboard_time": 1691295097,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326014,
       "num": 250952,
       "word": "张艺兴演唱会中控",
@@ -841,6 +881,14 @@
       "onboard_time": 1691246568,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313845,
+      "num": 313845,
+      "word": "韩红爱心百人援龙江",
+      "onboard_time": 1691294978,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 310892,
@@ -883,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285226,
+      "num": 285226,
+      "word": "土笋冻居然属于海鲜",
+      "onboard_time": 1691294139,
+      "rank": 33,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 282976,
       "num": 282976,
       "word": "这是李莲花与江湖的一场告别",
@@ -915,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260584,
+      "num": 260584,
+      "word": "黑龙江五常发布防汛救援公告",
+      "onboard_time": 1691252431,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260411,
       "num": 260411,
       "word": "泰安震感",
@@ -937,14 +1001,6 @@
       "onboard_time": 1691290115,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254629,
-      "num": 254629,
-      "word": "要不你们还是回去继承家产吧",
-      "onboard_time": 1691292760,
-      "rank": 40,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 254095,
@@ -987,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246681,
+      "num": 246681,
+      "word": "K1178列车英雄班组每人奖励1万元",
+      "onboard_time": 1691294797,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246448,
       "num": 246448,
       "word": "金龟子王宁设宴庆结婚35周年",
@@ -1027,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229190,
+      "num": 229190,
+      "word": "林俊杰驰援黑龙江",
+      "onboard_time": 1691295457,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224452,
       "num": 195508,
       "word": "异人之下只有冯宝宝一个i人",
@@ -1051,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221349,
+      "num": 221349,
+      "word": "地震时夫妻同时惊醒护住宝宝",
+      "onboard_time": 1691295036,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205198,
       "num": 205198,
       "word": "TFBOYS歌迷提前24小时场外守候",
@@ -1059,12 +1139,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201399,
-      "num": 201399,
+      "raw_hot": 203564,
+      "num": 203564,
       "word": "罗云熙英雄联盟国风代言人",
       "onboard_time": 1691292218,
       "rank": 47,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 200479,
+      "num": 200479,
+      "word": "黄子弘凡乌兰布统国际音乐节",
+      "onboard_time": 1691294739,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 197392,
@@ -1081,6 +1169,14 @@
       "onboard_time": 1691253692,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195107,
+      "num": 195107,
+      "word": "救援队刚从涿州回来又赶往平原",
+      "onboard_time": 1691294739,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191767,
@@ -1121,14 +1217,6 @@
       "onboard_time": 1691244469,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164264,
-      "num": 194763,
-      "word": "黑龙江五常发布防汛救援公告",
-      "onboard_time": 1691252431,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161119,
