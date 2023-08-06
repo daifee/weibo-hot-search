@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691363748937,
+  "endTime": 1691364830903,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -705,6 +705,14 @@
       "onboard_time": 1691315078,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2221076,
+      "num": 320839,
+      "word": "易烊千玺夹得嗓子都冒烟了",
+      "onboard_time": 1691363487,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 2212618,
@@ -1497,6 +1505,14 @@
       "onboard_time": 1690872932,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1433456,
+      "num": 235051,
+      "word": "薛之谦团队都去了TFBOYS演唱会",
+      "onboard_time": 1691364390,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 1418569,
@@ -4451,6 +4467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 709194,
+      "num": 185320,
+      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
+      "onboard_time": 1691356274,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 709190,
       "num": 709190,
       "word": "涿州泄洪",
@@ -5555,6 +5579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 585257,
+      "num": 585257,
+      "word": "电影孤注一掷提档",
+      "onboard_time": 1691363365,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 584727,
       "num": 584727,
       "word": "逆水寒",
@@ -5665,14 +5697,6 @@
       "onboard_time": 1691063854,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 572991,
-      "num": 166943,
-      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
-      "onboard_time": 1691356274,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 572414,
@@ -6211,6 +6235,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 532568,
+      "num": 161806,
+      "word": "易烊千玺话筒",
+      "onboard_time": 1691359635,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 532127,
       "num": 532127,
       "word": "时代峰峻今天好热闹",
@@ -6313,14 +6345,6 @@
       "onboard_time": 1691163769,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523273,
-      "num": 157312,
-      "word": "易烊千玺话筒",
-      "onboard_time": 1691359635,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 523143,
@@ -6825,14 +6849,6 @@
       "onboard_time": 1690954174,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 489633,
-      "num": 143131,
-      "word": "易烊千玺夹得嗓子都冒烟了",
-      "onboard_time": 1691363487,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 489311,
@@ -9907,6 +9923,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 312724,
+      "num": 235674,
+      "word": "阎月明逝世",
+      "onboard_time": 1691362886,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312543,
+      "num": 312543,
+      "word": "钱塘江众多游客近距离观潮被卷入",
+      "onboard_time": 1691356754,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312412,
       "num": 312412,
       "word": "王俊凯王源易烊千玺终于不用P合照了",
@@ -10017,14 +10049,6 @@
       "onboard_time": 1691158480,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 309243,
-      "num": 309243,
-      "word": "钱塘江众多游客近距离观潮被卷入",
-      "onboard_time": 1691356754,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308800,
@@ -11291,6 +11315,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 256900,
+      "num": 235338,
+      "word": "有多少人走错过才会提醒得这么用心啊",
+      "onboard_time": 1691356693,
+      "rank": 30,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 256865,
       "num": 256865,
       "word": "张新成周雨彤牢中吻",
@@ -11971,6 +12003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235923,
+      "num": 235923,
+      "word": "安徽一高校录取通知书出现错字",
+      "onboard_time": 1691351354,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 235775,
       "num": 225300,
       "word": "一条河里同时出现卧龙凤雏",
@@ -12001,6 +12041,14 @@
       "onboard_time": 1690854334,
       "rank": 38,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 234992,
+      "num": 234992,
+      "word": "命运的齿轮开始生锈",
+      "onboard_time": 1691363125,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 234503,
@@ -12627,14 +12675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216247,
-      "num": 204690,
-      "word": "安徽一高校录取通知书出现错字",
-      "onboard_time": 1691351354,
-      "rank": 34,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 216041,
       "num": 216041,
       "word": "大运会",
@@ -12987,14 +13027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207669,
-      "num": 195240,
-      "word": "有多少人走错过才会提醒得这么用心啊",
-      "onboard_time": 1691356693,
-      "rank": 30,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 206972,
       "num": 206972,
       "word": "80后外卖员自学乐器3年上20次综艺",
@@ -13081,6 +13113,14 @@
       "onboard_time": 1690964914,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205542,
+      "num": 657128,
+      "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
+      "onboard_time": 1691363728,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205400,
@@ -14035,6 +14075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187476,
+      "num": 163518,
+      "word": "流鼻血时别再仰头了",
+      "onboard_time": 1691363909,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187373,
       "num": 187373,
       "word": "西安城的易烊千玺照片",
@@ -14161,14 +14209,6 @@
       "onboard_time": 1690946614,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184147,
-      "num": 155608,
-      "word": "电影孤注一掷提档",
-      "onboard_time": 1691363365,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 183837,
@@ -14851,6 +14891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153150,
+      "num": 153150,
+      "word": "张艺兴金晨情头",
+      "onboard_time": 1691364576,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153071,
       "num": 122526,
       "word": "林允发藏头词告别赵寻",
@@ -15187,6 +15235,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 133416,
+      "num": 151053,
+      "word": "莲花楼杀我别用莲花刀",
+      "onboard_time": 1691351173,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132109,
       "num": 132109,
       "word": "檀健次说相柳不需要续集",
@@ -15380,7 +15436,7 @@
     },
     {
       "raw_hot": 119719,
-      "num": 119719,
+      "num": 151007,
       "word": "这凉茶让撒贝宁沉默岳云鹏流泪",
       "onboard_time": 1691360958,
       "rank": 46,
@@ -15449,14 +15505,6 @@
       "onboard_time": 1691353093,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 113415,
-      "num": 117067,
-      "word": "莲花楼杀我别用莲花刀",
-      "onboard_time": 1691351173,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 112979,
@@ -15537,6 +15585,14 @@
       "onboard_time": 1691236962,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107464,
+      "num": 150972,
+      "word": "夜晚1岁女童被困车内消防砸窗救人",
+      "onboard_time": 1691363125,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107205,
@@ -15628,7 +15684,7 @@
     },
     {
       "raw_hot": 100446,
-      "num": 117057,
+      "num": 150920,
       "word": "怎么处理衣柜上偷看我的小老鼠",
       "onboard_time": 1691363125,
       "rank": 38,
@@ -15644,7 +15700,7 @@
     },
     {
       "raw_hot": 99315,
-      "num": 117048,
+      "num": 150911,
       "word": "小企鹅们集体背着书包出来了",
       "onboard_time": 1691356453,
       "rank": 42,
@@ -15683,27 +15739,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98065,
-      "num": 117035,
-      "word": "阎月明逝世",
-      "onboard_time": 1691362886,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97333,
       "num": 97333,
       "word": "不是说竹子宁折不弯吗",
       "onboard_time": 1691181793,
       "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 97117,
-      "num": 117025,
-      "word": "命运的齿轮开始生锈",
-      "onboard_time": 1691363125,
-      "rank": 43,
       "category": "幽默"
     },
     {
@@ -15771,12 +15811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91752,
+      "num": 150900,
+      "word": "婚宴随完礼打包一桌菜",
+      "onboard_time": 1691352432,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 91659,
       "num": 187222,
       "word": "永远支持中国女足",
       "onboard_time": 1691118756,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91568,
+      "num": 150892,
+      "word": "长相思百万转场",
+      "onboard_time": 1691349136,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 90978,
@@ -15859,14 +15915,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 82404,
-      "num": 116997,
-      "word": "婚宴随完礼打包一桌菜",
-      "onboard_time": 1691352432,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 80528,
       "num": 96798,
       "word": "曾追过最久的明星",
@@ -15897,14 +15945,6 @@
       "onboard_time": 1691121759,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69699,
-      "num": 120529,
-      "word": "长相思百万转场",
-      "onboard_time": 1691349136,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 66957,
@@ -16233,14 +16273,6 @@
       "onboard_time": 1691356274,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 5072,
-      "num": 375739,
-      "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
-      "onboard_time": 1691363728,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
