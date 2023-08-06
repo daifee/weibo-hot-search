@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691361224955,
+  "endTime": 1691363748937,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -5667,6 +5667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 572991,
+      "num": 166943,
+      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
+      "onboard_time": 1691356274,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 572414,
       "num": 342991,
       "word": "农家少年高考699分没当过一天留守儿童",
@@ -6307,6 +6315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523273,
+      "num": 157312,
+      "word": "易烊千玺话筒",
+      "onboard_time": 1691359635,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 523143,
       "num": 523143,
       "word": "饭后喝酸奶真的能促进消化吗",
@@ -6809,6 +6825,14 @@
       "onboard_time": 1690954174,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 489633,
+      "num": 143131,
+      "word": "易烊千玺夹得嗓子都冒烟了",
+      "onboard_time": 1691363487,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 489311,
@@ -9995,6 +10019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309243,
+      "num": 309243,
+      "word": "钱塘江众多游客近距离观潮被卷入",
+      "onboard_time": 1691356754,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308800,
       "num": 308800,
       "word": "舞台2023青人vs创人",
@@ -10633,14 +10665,6 @@
       "onboard_time": 1691023777,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 284687,
-      "num": 88442,
-      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
-      "onboard_time": 1691356274,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 284620,
@@ -12027,14 +12051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 232214,
-      "num": 88234,
-      "word": "易烊千玺话筒",
-      "onboard_time": 1691359635,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 231872,
       "num": 231872,
       "word": "看完热烈跟自己和解了",
@@ -12611,6 +12627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216247,
+      "num": 204690,
+      "word": "安徽一高校录取通知书出现错字",
+      "onboard_time": 1691351354,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 216041,
       "num": 216041,
       "word": "大运会",
@@ -12961,6 +12985,14 @@
       "onboard_time": 1691138975,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207669,
+      "num": 195240,
+      "word": "有多少人走错过才会提醒得这么用心啊",
+      "onboard_time": 1691356693,
+      "rank": 30,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 206972,
@@ -14131,6 +14163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184147,
+      "num": 155608,
+      "word": "电影孤注一掷提档",
+      "onboard_time": 1691363365,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183837,
       "num": 183837,
       "word": "东方风云榜",
@@ -14256,14 +14296,6 @@
       "word": "收到地震预警之后该怎么做",
       "onboard_time": 1691300796,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180721,
-      "num": 180721,
-      "word": "钱塘江众多游客近距离观潮被卷入",
-      "onboard_time": 1691356754,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -15347,6 +15379,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 119719,
+      "num": 119719,
+      "word": "这凉茶让撒贝宁沉默岳云鹏流泪",
+      "onboard_time": 1691360958,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119140,
       "num": 119140,
       "word": "八月",
@@ -15409,6 +15449,14 @@
       "onboard_time": 1691353093,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113415,
+      "num": 117067,
+      "word": "莲花楼杀我别用莲花刀",
+      "onboard_time": 1691351173,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 112979,
@@ -15579,12 +15627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100446,
+      "num": 117057,
+      "word": "怎么处理衣柜上偷看我的小老鼠",
+      "onboard_time": 1691363125,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 99965,
       "num": 99965,
       "word": "小夭终于在大荒落户了",
       "onboard_time": 1690997180,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 99315,
+      "num": 117048,
+      "word": "小企鹅们集体背着书包出来了",
+      "onboard_time": 1691356453,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 98867,
@@ -15619,12 +15683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97505,
-      "num": 97505,
-      "word": "安徽一高校录取通知书出现错字",
-      "onboard_time": 1691351354,
-      "rank": 34,
-      "category": "教育,社会新闻"
+      "raw_hot": 98065,
+      "num": 117035,
+      "word": "阎月明逝世",
+      "onboard_time": 1691362886,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97333,
@@ -15632,6 +15696,14 @@
       "word": "不是说竹子宁折不弯吗",
       "onboard_time": 1691181793,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 97117,
+      "num": 117025,
+      "word": "命运的齿轮开始生锈",
+      "onboard_time": 1691363125,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -15649,14 +15721,6 @@
       "onboard_time": 1691205514,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95560,
-      "num": 88065,
-      "word": "有多少人走错过才会提醒得这么用心啊",
-      "onboard_time": 1691356693,
-      "rank": 30,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 95550,
@@ -15795,6 +15859,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 82404,
+      "num": 116997,
+      "word": "婚宴随完礼打包一桌菜",
+      "onboard_time": 1691352432,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80528,
       "num": 96798,
       "word": "曾追过最久的明星",
@@ -15825,6 +15897,14 @@
       "onboard_time": 1691121759,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69699,
+      "num": 120529,
+      "word": "长相思百万转场",
+      "onboard_time": 1691349136,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 66957,
@@ -15891,22 +15971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53041,
-      "num": 87959,
-      "word": "小企鹅们集体背着书包出来了",
-      "onboard_time": 1691356453,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 53018,
-      "num": 91085,
-      "word": "莲花楼杀我别用莲花刀",
-      "onboard_time": 1691351173,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 50783,
       "num": 334637,
       "word": "大空间和颜值年轻人都要",
@@ -15961,22 +16025,6 @@
       "onboard_time": 1690915694,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 43128,
-      "num": 90976,
-      "word": "婚宴随完礼打包一桌菜",
-      "onboard_time": 1691352432,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 42480,
-      "num": 120529,
-      "word": "长相思百万转场",
-      "onboard_time": 1691349136,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 42292,
@@ -16091,14 +16139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 27889,
-      "num": 87492,
-      "word": "这凉茶让撒贝宁沉默岳云鹏流泪",
-      "onboard_time": 1691360958,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 27474,
       "num": 27474,
       "word": "墨西哥火烈鸟 盛大优美的生命诗意",
@@ -16193,6 +16233,14 @@
       "onboard_time": 1691356274,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 5072,
+      "num": 375739,
+      "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
+      "onboard_time": 1691363728,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
