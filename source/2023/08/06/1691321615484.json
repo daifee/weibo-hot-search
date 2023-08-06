@@ -1,0 +1,410 @@
+{
+  "runTime": 1691321615484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14810783,
+        "num": 14810783,
+        "word": "TFBOYS官博急了",
+        "onboard_time": 1691319525,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 413380,
+        "num": 5917641,
+        "word": "中国选手将球拍借给无拍可用的对手",
+        "onboard_time": 1691309437,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 134779,
+        "num": 3468185,
+        "word": "地震来临时牢记生命三角法",
+        "onboard_time": 1691312136,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10244652,
+        "num": 2886562,
+        "word": "TFBOYS十年之约演唱会",
+        "onboard_time": 1691320248,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322234,
+        "num": 951856,
+        "word": "地震发生他们的选择不是跑",
+        "onboard_time": 1691318684,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746561,
+        "num": 746561,
+        "word": "大妈踩在丹霞地貌上疯狂拍照",
+        "onboard_time": 1691315678,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203556,
+        "num": 645755,
+        "word": "老人敲击百万次后瓷盘出现一幅画",
+        "onboard_time": 1691306554,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629516,
+        "num": 629516,
+        "word": "要离职的人状态真的很不一样",
+        "onboard_time": 1691314660,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 574472,
+        "num": 574472,
+        "word": "刘诗诗个人名义捐款",
+        "onboard_time": 1691320554,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572426,
+        "num": 572426,
+        "word": "桃花坞的文案到底是谁在写啊",
+        "onboard_time": 1691312502,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3421424,
+        "num": 566289,
+        "word": "TFBOYS搂肩",
+        "onboard_time": 1691320972,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1934782,
+        "num": 559812,
+        "word": "腾讯会议",
+        "onboard_time": 1691317001,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2641853,
+        "num": 548974,
+        "word": "优酷客服回应网友有偿共享TFBOYS直播",
+        "onboard_time": 1691318020,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 641936,
+        "num": 540238,
+        "word": "网传郑州大学一领导要求员工无偿加班还威胁降薪",
+        "onboard_time": 1691314781,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2198759,
+        "num": 533698,
+        "word": "TFBOYS你们不是能站一起吗",
+        "onboard_time": 1691315078,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1981687,
+        "num": 523161,
+        "word": "他们仨都笑了",
+        "onboard_time": 1691320373,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1766498,
+        "num": 510687,
+        "word": "黄锐进场",
+        "onboard_time": 1691321330,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 505780,
+        "num": 505780,
+        "word": "六公主认证长相思是现象级爆剧",
+        "onboard_time": 1691308597,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477670,
+        "num": 477670,
+        "word": "旭旭宝宝",
+        "onboard_time": 1691319708,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 423901,
+        "num": 423901,
+        "word": "西安文旅的超级周末",
+        "onboard_time": 1691316581,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1469898,
+        "num": 421128,
+        "word": "让一让李飞来了",
+        "onboard_time": 1691314361,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 713104,
+        "num": 418740,
+        "word": "四叶草站起来了",
+        "onboard_time": 1691320730,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 642412,
+        "num": 417488,
+        "word": "王俊凯今天蓝发",
+        "onboard_time": 1691311777,
+        "rank": 22,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 415335,
+        "num": 415335,
+        "word": "有人看乐子 有人照镜子",
+        "onboard_time": 1691319586,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 404842,
+        "num": 404842,
+        "word": "地震导致的次声波真的会跟人体器官共振",
+        "onboard_time": 1691318863,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569613,
+        "num": 398343,
+        "word": "人在家心在西安",
+        "onboard_time": 1691318565,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 524834,
+        "num": 396268,
+        "word": "易烊千玺手上戴的是粉水晶",
+        "onboard_time": 1691311357,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 367138,
+        "num": 367138,
+        "word": "山西吕梁重大刑事案件嫌犯被抓",
+        "onboard_time": 1691318201,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363429,
+        "num": 363429,
+        "word": "四川村民捡到2米长完整蛇蜕",
+        "onboard_time": 1691317843,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358690,
+        "num": 358690,
+        "word": "高铁上的大叔被女儿问尴尬了",
+        "onboard_time": 1691313701,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 495432,
+        "num": 354779,
+        "word": "孤注一掷",
+        "onboard_time": 1691313521,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377776,
+        "num": 352407,
+        "word": "肖战变装视频是月下舞剑",
+        "onboard_time": 1691312919,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372161,
+        "num": 351960,
+        "word": "金晨抽烟镜头",
+        "onboard_time": 1691309674,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345517,
+        "num": 345517,
+        "word": "LNG对战EDG",
+        "onboard_time": 1691315746,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309340,
+        "num": 309340,
+        "word": "安居乐烨大婚",
+        "onboard_time": 1691319771,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298599,
+        "num": 298599,
+        "word": "杨紫檀健次认真设计走位",
+        "onboard_time": 1691314660,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296845,
+        "num": 296845,
+        "word": "苹果回应地震预警",
+        "onboard_time": 1691306135,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 282396,
+        "num": 282396,
+        "word": "kt",
+        "onboard_time": 1691317061,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267620,
+        "num": 267620,
+        "word": "内向其实也是一种天赋",
+        "onboard_time": 1691320554,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 220434,
+        "num": 262637,
+        "word": "地震时值班铁路人喊拦停列车",
+        "onboard_time": 1691321579,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262495,
+        "num": 262495,
+        "word": "李莲花方多病彻底决裂",
+        "onboard_time": 1691314963,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248890,
+        "num": 248890,
+        "word": "安乐传彩蛋",
+        "onboard_time": 1691320008,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242888,
+        "num": 242888,
+        "word": "孤注一掷点映排片",
+        "onboard_time": 1691302236,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242466,
+        "num": 242466,
+        "word": "迪丽热巴兑换任安乐flag",
+        "onboard_time": 1691316703,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237770,
+        "num": 237770,
+        "word": "李敏镐肿了",
+        "onboard_time": 1691298758,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236139,
+        "num": 236139,
+        "word": "夭柳的海外人气是nextlevel",
+        "onboard_time": 1691312857,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214180,
+        "num": 214180,
+        "word": "当i人男友有个e人女友",
+        "onboard_time": 1691320554,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209804,
+        "num": 209804,
+        "word": "奶奶 185痞帅体育生咱稳稳拿下",
+        "onboard_time": 1691305415,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201149,
+        "num": 201149,
+        "word": "meiko",
+        "onboard_time": 1691313998,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182589,
+        "num": 201149,
+        "word": "女生出生起14年每天抱毯睡用成絮状",
+        "onboard_time": 1691321390,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#风雨同心人民至上#"
+    }
+  }
+}

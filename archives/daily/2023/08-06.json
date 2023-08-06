@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691320416955,
+  "endTime": 1691321615484,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14291317,
-      "num": 14291317,
+      "raw_hot": 14810783,
+      "num": 14810783,
       "word": "TFBOYS官博急了",
       "onboard_time": 1691319525,
       "rank": 0,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10244652,
+      "num": 3224608,
+      "word": "TFBOYS十年之约演唱会",
+      "onboard_time": 1691276845,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 6956736,
       "num": 6956736,
       "word": "天津震感",
       "onboard_time": 1691261079,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6298345,
-      "num": 3224608,
-      "word": "TFBOYS十年之约演唱会",
-      "onboard_time": 1691276845,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 4983871,
@@ -105,6 +105,14 @@
       "onboard_time": 1691286343,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 3421424,
+      "num": 566289,
+      "word": "TFBOYS搂肩",
+      "onboard_time": 1691320972,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 3268309,
@@ -235,6 +243,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1981687,
+      "num": 523161,
+      "word": "他们仨都笑了",
+      "onboard_time": 1691320373,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1942101,
       "num": 595956,
       "word": "王俊凯今天蓝发",
@@ -251,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1934782,
+      "num": 599937,
+      "word": "腾讯会议",
+      "onboard_time": 1691317001,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1841711,
       "num": 1841711,
       "word": "河南震感",
       "onboard_time": 1691261446,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1766498,
+      "num": 510687,
+      "word": "黄锐进场",
+      "onboard_time": 1691321330,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 1661719,
@@ -289,14 +321,6 @@
       "onboard_time": 1691282021,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1508678,
-      "num": 599937,
-      "word": "腾讯会议",
-      "onboard_time": 1691317001,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 1466366,
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 855292,
-      "num": 326816,
+      "num": 351960,
       "word": "金晨抽烟镜头",
       "onboard_time": 1691309674,
       "rank": 25,
@@ -745,6 +769,14 @@
       "onboard_time": 1691248546,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 713104,
+      "num": 418740,
+      "word": "四叶草站起来了",
+      "onboard_time": 1691320730,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 702365,
@@ -889,6 +921,14 @@
       "onboard_time": 1691245066,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 574472,
+      "num": 574472,
+      "word": "刘诗诗个人名义捐款",
+      "onboard_time": 1691320554,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 568745,
@@ -1107,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477670,
+      "num": 477670,
+      "word": "旭旭宝宝",
+      "onboard_time": 1691319708,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 472793,
       "num": 363649,
       "word": "郑国霖评价杨紫",
@@ -1180,7 +1228,7 @@
     },
     {
       "raw_hot": 422710,
-      "num": 5203840,
+      "num": 5917641,
       "word": "中国选手将球拍借给无拍可用的对手",
       "onboard_time": 1691309437,
       "rank": 46,
@@ -1225,6 +1273,22 @@
       "onboard_time": 1691283398,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 415335,
+      "num": 415335,
+      "word": "有人看乐子 有人照镜子",
+      "onboard_time": 1691319586,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 404842,
+      "num": 404842,
+      "word": "地震导致的次声波真的会跟人体器官共振",
+      "onboard_time": 1691318863,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404783,
@@ -1395,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363429,
+      "num": 363429,
+      "word": "四川村民捡到2米长完整蛇蜕",
+      "onboard_time": 1691317843,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360197,
       "num": 360197,
       "word": "异人之下 介质原因延期播出",
@@ -1507,14 +1579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343247,
-      "num": 323142,
-      "word": "他们仨都笑了",
-      "onboard_time": 1691320373,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 338845,
       "num": 266989,
       "word": "蒋依依节目中看到做过的高考题",
@@ -1537,14 +1601,6 @@
       "onboard_time": 1691243809,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335459,
-      "num": 335459,
-      "word": "四川村民捡到2米长完整蛇蜕",
-      "onboard_time": 1691317843,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335265,
@@ -1595,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322234,
+      "num": 1576782,
+      "word": "地震发生他们的选择不是跑",
+      "onboard_time": 1691318684,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321705,
       "num": 1555291,
       "word": "老人敲击百万次后瓷盘出现一幅画",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1691294139,
       "rank": 33,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 309340,
+      "num": 309340,
+      "word": "安居乐烨大婚",
+      "onboard_time": 1691319771,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 308800,
@@ -1689,22 +1761,6 @@
       "onboard_time": 1691279072,
       "rank": 35,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 296060,
-      "num": 296060,
-      "word": "地震导致的次声波真的会跟人体器官共振",
-      "onboard_time": 1691318863,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292371,
-      "num": 1576782,
-      "word": "地震发生他们的选择不是跑",
-      "onboard_time": 1691318684,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290270,
@@ -1787,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267620,
+      "num": 267620,
+      "word": "内向其实也是一种天赋",
+      "onboard_time": 1691320554,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 267060,
       "num": 243081,
       "word": "林娜琏对自己爱豆能力值的评价",
@@ -1796,7 +1860,7 @@
     },
     {
       "raw_hot": 265414,
-      "num": 214616,
+      "num": 248890,
       "word": "安乐传彩蛋",
       "onboard_time": 1691320008,
       "rank": 40,
@@ -1947,22 +2011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229694,
-      "num": 214611,
-      "word": "安居乐烨大婚",
-      "onboard_time": 1691319771,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 226481,
-      "num": 226481,
-      "word": "有人看乐子 有人照镜子",
-      "onboard_time": 1691319586,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 224452,
       "num": 195508,
       "word": "异人之下只有冯宝宝一个i人",
@@ -1995,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220434,
+      "num": 262637,
+      "word": "地震时值班铁路人喊拦停列车",
+      "onboard_time": 1691321579,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219149,
       "num": 219149,
       "word": "只有洛铭西受伤的世界达成了",
@@ -2009,6 +2065,14 @@
       "onboard_time": 1691316880,
       "rank": 47,
       "category": "自然"
+    },
+    {
+      "raw_hot": 214180,
+      "num": 214180,
+      "word": "当i人男友有个e人女友",
+      "onboard_time": 1691320554,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 210703,
@@ -2083,14 +2147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196635,
-      "num": 214604,
-      "word": "旭旭宝宝",
-      "onboard_time": 1691319708,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 196292,
       "num": 196292,
       "word": "张杰实体专辑外南街1982",
@@ -2145,6 +2201,14 @@
       "onboard_time": 1691276667,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182589,
+      "num": 201149,
+      "word": "女生出生起14年每天抱毯睡用成絮状",
+      "onboard_time": 1691321390,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181685,
