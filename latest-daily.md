@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/07 00:21:09 ~ 2023/08/07 01:33:53
+本榜单时间：2023/08/07 00:21:09 ~ 2023/08/07 02:18:48
 </p>
 </blockquote>
 <p>
@@ -329,6 +329,12 @@ Scout拥抱JieJie（热度：126298）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%23" target="weibo">
 EDG（热度：100496）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23RIIZE%E7%BB%84%E5%90%88%E5%B0%86%E4%B8%8D%E5%86%8D%E6%98%AF%E6%97%B7%E9%87%8E%E4%B8%96%E7%95%8C%E8%A7%82%23" target="weibo">
+RIIZE组合将不再是旷野世界观（热度：41870）
 </a>
 </li>
 

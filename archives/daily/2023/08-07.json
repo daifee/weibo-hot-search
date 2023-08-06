@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691343233495,
+  "endTime": 1691345928111,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -425,6 +425,14 @@
       "onboard_time": 1691324220,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 41870,
+      "num": 278537,
+      "word": "RIIZE组合将不再是旷野世界观",
+      "onboard_time": 1691345658,
+      "rank": 46,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

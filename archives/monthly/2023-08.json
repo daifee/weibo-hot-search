@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691343233495,
+  "endTime": 1691345928111,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -15872,6 +15872,14 @@
       "word": "HAPPYMARKDAY",
       "onboard_time": 1691000715,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41870,
+      "num": 278537,
+      "word": "RIIZE组合将不再是旷野世界观",
+      "onboard_time": 1691345658,
+      "rank": 46,
       "category": "艺人"
     },
     {
