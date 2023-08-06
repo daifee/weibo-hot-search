@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691336020008,
+  "endTime": 1691338869031,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -313,6 +313,14 @@
       "onboard_time": 1690861719,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3211828,
+      "num": 587803,
+      "word": "王俊凯王源看着易烊千玺笑",
+      "onboard_time": 1691338190,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 3162373,
@@ -875,6 +883,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1973515,
+      "num": 586293,
+      "word": "易烊千玺太野了",
+      "onboard_time": 1691338190,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1969226,
       "num": 679244,
       "word": "易烊千玺新发色藏不住了",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1691329401,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1812475,
+      "num": 584994,
+      "word": "小虎队",
+      "onboard_time": 1691337473,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 1810483,
@@ -1947,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1211270,
+      "num": 4543041,
+      "word": "高校1.31亿科研经费成果转化率为0",
+      "onboard_time": 1691333233,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1207437,
       "num": 505888,
       "word": "狗头萝莉回应穿衣风格争议",
@@ -2545,14 +2577,6 @@
       "onboard_time": 1691245066,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1011499,
-      "num": 4543041,
-      "word": "高校1.31亿科研经费成果转化率为0",
-      "onboard_time": 1691333233,
-      "rank": 8,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1009982,
@@ -3817,6 +3841,14 @@
       "onboard_time": 1690968576,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 774672,
+      "num": 774672,
+      "word": "gemini",
+      "onboard_time": 1691335752,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 773847,
@@ -6003,6 +6035,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 543687,
+      "num": 584711,
+      "word": "部分网友称有偿共享TFBOYS直播屏幕",
+      "onboard_time": 1691335930,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 542510,
       "num": 542510,
       "word": "四川内江地震",
@@ -6729,6 +6769,14 @@
       "onboard_time": 1690882532,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 491255,
+      "num": 4830755,
+      "word": "北部战区第78集团军某旅紧急驰援舒兰",
+      "onboard_time": 1691335988,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491003,
@@ -12603,6 +12651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214366,
+      "num": 582746,
+      "word": "买了不一样的泳帽去河里游泳",
+      "onboard_time": 1691337239,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214204,
       "num": 224047,
       "word": "大理双廊古镇",
@@ -14419,6 +14475,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 166365,
+      "num": 580920,
+      "word": "广末凉子私服",
+      "onboard_time": 1691337774,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 166252,
       "num": 233660,
       "word": "北京全市河道均在行洪",
@@ -15968,14 +16032,6 @@
       "word": "有一种友谊是相差46岁的忘年交",
       "onboard_time": 1690924032,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5265,
-      "num": 4830755,
-      "word": "北部战区第78集团军某旅紧急驰援舒兰",
-      "onboard_time": 1691335988,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
