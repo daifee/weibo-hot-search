@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691302830915,
+  "endTime": 1691303636750,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1444805,
+      "num": 1444805,
+      "word": "江苏人的身份证",
+      "onboard_time": 1691300078,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1439569,
       "num": 1439569,
       "word": "山东平原地震",
@@ -275,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1150777,
-      "num": 1150777,
-      "word": "江苏人的身份证",
-      "onboard_time": 1691300078,
-      "rank": 3,
-      "category": "幽默"
+      "raw_hot": 1119181,
+      "num": 1104613,
+      "word": "是今天晚安不是明年见",
+      "onboard_time": 1691299654,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 1111553,
@@ -289,14 +297,6 @@
       "onboard_time": 1691295097,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1104613,
-      "num": 1104613,
-      "word": "是今天晚安不是明年见",
-      "onboard_time": 1691299654,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 1084109,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659385,
+      "num": 659385,
+      "word": "孤注一掷票房",
+      "onboard_time": 1691299237,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 653204,
       "num": 653204,
       "word": "涿州",
@@ -520,14 +528,6 @@
       "word": "长相思断更檀健次喂饭",
       "onboard_time": 1691280761,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 620539,
-      "num": 620539,
-      "word": "孤注一掷票房",
-      "onboard_time": 1691299237,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -723,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 506480,
+      "num": 506480,
+      "word": "长相思受众有多广",
+      "onboard_time": 1691301396,
+      "rank": 17,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 505622,
       "num": 505622,
       "word": "手机信号显示24小时1.7万人逆行进涿州",
@@ -795,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455699,
+      "num": 431612,
+      "word": "易烊千玺同乘舞台首唱是王传君",
+      "onboard_time": 1691303075,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452561,
       "num": 452561,
       "word": "TF家族三代考核排名",
@@ -809,14 +825,6 @@
       "onboard_time": 1691278652,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433391,
-      "num": 433391,
-      "word": "长相思受众有多广",
-      "onboard_time": 1691301396,
-      "rank": 17,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 428872,
@@ -856,6 +864,22 @@
       "word": "陈牧驰一个人撑起一场直播",
       "onboard_time": 1691283398,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 416133,
+      "num": 366677,
+      "word": "年轻人为什么不爱吃零食了",
+      "onboard_time": 1691300676,
+      "rank": 23,
+      "category": "美食,情感"
+    },
+    {
+      "raw_hot": 404783,
+      "num": 285982,
+      "word": "孤注一掷点映排片",
+      "onboard_time": 1691302236,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -971,14 +995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 359442,
-      "num": 271587,
-      "word": "孤注一掷点映排片",
-      "onboard_time": 1691302236,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 357264,
       "num": 357264,
       "word": "洪水冲来2条狗女子领回精心饲养",
@@ -1027,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 348975,
+      "num": 251685,
+      "word": "当中年领导用上了Air Pods",
+      "onboard_time": 1691302714,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338845,
       "num": 266989,
       "word": "蒋依依节目中看到做过的高考题",
@@ -1041,14 +1065,6 @@
       "onboard_time": 1691243809,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335458,
-      "num": 284828,
-      "word": "年轻人为什么不爱吃零食了",
-      "onboard_time": 1691300676,
-      "rank": 23,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 334592,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1691247166,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 324282,
+      "num": 324282,
+      "word": "当你在卧室玩手机时",
+      "onboard_time": 1691301098,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 318392,
@@ -1155,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282585,
+      "num": 224208,
+      "word": "东京巨蛋上SMTOWN各团的队长们",
+      "onboard_time": 1691301215,
+      "rank": 40,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 279236,
       "num": 279236,
       "word": "TFBOYS",
@@ -1203,14 +1235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257059,
-      "num": 203220,
-      "word": "东京巨蛋上SMTOWN各团的队长们",
-      "onboard_time": 1691301215,
-      "rank": 40,
-      "category": "音乐,幽默"
-    },
-    {
       "raw_hot": 255387,
       "num": 255387,
       "word": "七时吉祥虎猪彩云海报",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1691246265,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 250996,
-      "num": 250996,
-      "word": "当你在卧室玩手机时",
-      "onboard_time": 1691301098,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 250597,
@@ -1451,14 +1467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167435,
-      "num": 184713,
-      "word": "当中年领导用上了Air Pods",
-      "onboard_time": 1691302714,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166832,
       "num": 251959,
       "word": "JDG三连冠",
@@ -1523,6 +1531,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140199,
+      "num": 1159695,
+      "word": "收到地震预警之后该怎么做",
+      "onboard_time": 1691300796,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139938,
+      "num": 164489,
+      "word": "火车站员工地震摇晃中拦停7趟火车",
+      "onboard_time": 1691303374,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135465,
       "num": 135465,
       "word": "莲花楼",
@@ -1576,14 +1600,6 @@
       "word": "强降雨致吉林舒兰6人遇难4人失联",
       "onboard_time": 1691278289,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110974,
-      "num": 1159695,
-      "word": "收到地震预警之后该怎么做",
-      "onboard_time": 1691300796,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
