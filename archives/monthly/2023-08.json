@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691285768003,
+  "endTime": 1691288671018,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -129,6 +129,14 @@
       "onboard_time": 1691129914,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3325625,
+      "num": 3325625,
+      "word": "苹果地震预警",
+      "onboard_time": 1691286343,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 3252167,
@@ -1075,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1414726,
+      "num": 1414726,
+      "word": "TFBOYS从场馆里出来看粉丝",
+      "onboard_time": 1691286702,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1405033,
       "num": 1405033,
       "word": "被不卫生的水泡过的饮料不要喝",
@@ -1619,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1131908,
+      "num": 1131908,
+      "word": "海贼王",
+      "onboard_time": 1691251000,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1131584,
       "num": 335636,
       "word": "哇唧唧哇简介没看见肖战",
@@ -1740,7 +1764,7 @@
     },
     {
       "raw_hot": 1084109,
-      "num": 426422,
+      "num": 485090,
       "word": "网购别再只看销量",
       "onboard_time": 1691284062,
       "rank": 30,
@@ -1785,6 +1809,14 @@
       "onboard_time": 1691034520,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1078221,
+      "num": 1078221,
+      "word": "爱奇艺",
+      "onboard_time": 1691286101,
+      "rank": 7,
+      "category": "科技"
     },
     {
       "raw_hot": 1076204,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1691192790,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1048297,
+      "num": 1048297,
+      "word": "8岁女孩视力仅0.05手术后一句话令人泪目",
+      "onboard_time": 1691286460,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1046350,
@@ -2667,14 +2707,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 859766,
-      "num": 859766,
-      "word": "海贼王",
-      "onboard_time": 1691251000,
-      "rank": 34,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 858183,
       "num": 858183,
       "word": "北京一名女救援队员牺牲",
@@ -3083,6 +3115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 776447,
+      "num": 776447,
+      "word": "杨玏伯邑考后劲好大",
+      "onboard_time": 1691285562,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 776277,
       "num": 776277,
       "word": "夏克立自曝出狱后和流浪汉一起睡桥下",
@@ -3291,6 +3331,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 749037,
+      "num": 485066,
+      "word": "老人免费洗金戒指后少8克家人报警",
+      "onboard_time": 1691286037,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747964,
       "num": 747964,
       "word": "超导",
@@ -3361,6 +3409,14 @@
       "onboard_time": 1691212417,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 739506,
+      "num": 739506,
+      "word": "女友视角下的杨洋",
+      "onboard_time": 1691285203,
+      "rank": 26,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 737975,
@@ -4395,6 +4451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 601028,
+      "num": 601028,
+      "word": "十年前的现在他们就在跳这个舞",
+      "onboard_time": 1691286220,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 598485,
       "num": 598485,
       "word": "迪丽热巴帝梓元白发上线",
@@ -4867,6 +4931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560879,
+      "num": 560879,
+      "word": "地震瞬间男生转身牵女生手逃离",
+      "onboard_time": 1691287418,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560734,
       "num": 560734,
       "word": "长相思如果没有战争",
@@ -5195,6 +5267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534429,
+      "num": 484107,
+      "word": "TFBOYS一起长大的约定",
+      "onboard_time": 1691286520,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533864,
       "num": 533864,
       "word": "北京此次暴雨已有两名牺牲的救援人员身份确认",
@@ -5449,6 +5529,14 @@
       "onboard_time": 1691284478,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515430,
+      "num": 515430,
+      "word": "夭璟cp你是真的火了",
+      "onboard_time": 1691285021,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 515396,
@@ -6179,6 +6267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452561,
+      "num": 452561,
+      "word": "TF家族三代考核排名",
+      "onboard_time": 1691284541,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452289,
       "num": 274604,
       "word": "欧阳娜娜给宋亚轩续上警报",
@@ -6353,14 +6449,6 @@
       "onboard_time": 1691105248,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 440356,
-      "num": 440356,
-      "word": "TF家族三代考核排名",
-      "onboard_time": 1691284541,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 440193,
@@ -6859,12 +6947,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 402832,
-      "num": 402832,
-      "word": "女友视角下的杨洋",
-      "onboard_time": 1691285203,
+      "raw_hot": 402492,
+      "num": 402492,
+      "word": "周也演技",
+      "onboard_time": 1691288200,
       "rank": 26,
-      "category": "艺人,幽默"
+      "category": "影视"
     },
     {
       "raw_hot": 401249,
@@ -7171,14 +7259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 383935,
-      "num": 383935,
-      "word": "夭璟cp你是真的火了",
-      "onboard_time": 1691285021,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 383708,
       "num": 383708,
       "word": "封神男团早几年干嘛去了",
@@ -7385,6 +7465,14 @@
       "onboard_time": 1691043874,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368511,
+      "num": 368511,
+      "word": "妈妈说我抬着手臂睡了一下午",
+      "onboard_time": 1691286520,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 368198,
@@ -7603,6 +7691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 354505,
+      "num": 354505,
+      "word": "原来这些都不是矿泉水",
+      "onboard_time": 1691285081,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 353498,
       "num": 353498,
       "word": "外地救援队需要当地开邀请函",
@@ -7761,14 +7857,6 @@
       "onboard_time": 1690847854,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 343798,
-      "num": 343798,
-      "word": "杨玏伯邑考后劲好大",
-      "onboard_time": 1691285562,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 343559,
@@ -8547,6 +8635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305133,
+      "num": 305133,
+      "word": "迪丽热巴玩游戏有礼貌",
+      "onboard_time": 1691287659,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304351,
       "num": 246921,
       "word": "第一眼就喜欢的人",
@@ -9115,6 +9211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278939,
+      "num": 278939,
+      "word": "TFBOYS",
+      "onboard_time": 1691276845,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 278172,
       "num": 278172,
       "word": "封神",
@@ -9331,14 +9435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267848,
-      "num": 267848,
-      "word": "原来这些都不是矿泉水",
-      "onboard_time": 1691285081,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 267648,
       "num": 267648,
       "word": "大熊猫被奶爸揪耳朵气得翻白眼",
@@ -9441,14 +9537,6 @@
       "onboard_time": 1690978834,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 262758,
-      "num": 262758,
-      "word": "TFBOYS",
-      "onboard_time": 1691276845,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 262581,
@@ -9555,6 +9643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258301,
+      "num": 258301,
+      "word": "金晨孤注一掷里好美",
+      "onboard_time": 1691288438,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258119,
       "num": 341301,
       "word": "你所拥有的隐形资产",
@@ -9577,6 +9673,14 @@
       "onboard_time": 1691029299,
       "rank": 36,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 257510,
+      "num": 257510,
+      "word": "张艺兴鹿晗王源演唱会粉发造型",
+      "onboard_time": 1691288562,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 256865,
@@ -10131,6 +10235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237538,
+      "num": 237538,
+      "word": "黄绮珊粉发",
+      "onboard_time": 1691288498,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 237175,
       "num": 237175,
       "word": "应急局回应涿州一地库塌陷洪水涌入",
@@ -10433,6 +10545,14 @@
       "onboard_time": 1690943433,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225878,
+      "num": 225878,
+      "word": "最理想的人际关系就像人和猫的关系",
+      "onboard_time": 1691285982,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 225856,
