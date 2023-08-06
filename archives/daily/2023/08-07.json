@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691360084865,
+  "endTime": 1691361224955,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -227,6 +227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284687,
+      "num": 88442,
+      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
+      "onboard_time": 1691356274,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 280628,
       "num": 821304,
       "word": "女生出生起14年每天抱毯睡用成絮状",
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232214,
+      "num": 88234,
+      "word": "易烊千玺话筒",
+      "onboard_time": 1691359635,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219440,
       "num": 818329,
       "word": "杨紫是懂断更的",
@@ -313,14 +329,6 @@
       "onboard_time": 1691337239,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 207119,
-      "num": 72168,
-      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
-      "onboard_time": 1691356274,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 196521,
@@ -345,6 +353,14 @@
       "onboard_time": 1691334289,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180721,
+      "num": 180721,
+      "word": "钱塘江众多游客近距离观潮被卷入",
+      "onboard_time": 1691356754,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177660,
@@ -451,28 +467,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 121787,
-      "num": 72165,
-      "word": "易烊千玺话筒",
-      "onboard_time": 1691359635,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 113895,
       "num": 81959,
       "word": "易烊千玺solo",
       "onboard_time": 1691353093,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 109677,
-      "num": 109677,
-      "word": "钱塘江众多游客近距离观潮被卷入",
-      "onboard_time": 1691356754,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100496,
@@ -483,20 +483,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 78347,
-      "num": 72164,
+      "raw_hot": 97505,
+      "num": 97505,
+      "word": "安徽一高校录取通知书出现错字",
+      "onboard_time": 1691351354,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 95560,
+      "num": 88065,
       "word": "有多少人走错过才会提醒得这么用心啊",
       "onboard_time": 1691356693,
       "rank": 30,
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 72170,
-      "num": 72170,
-      "word": "安徽一高校录取通知书出现错字",
-      "onboard_time": 1691351354,
-      "rank": 34,
-      "category": "教育,社会新闻"
+      "raw_hot": 53041,
+      "num": 87959,
+      "word": "小企鹅们集体背着书包出来了",
+      "onboard_time": 1691356453,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 53018,
+      "num": 91085,
+      "word": "莲花楼杀我别用莲花刀",
+      "onboard_time": 1691351173,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 46957,
@@ -507,28 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38698,
-      "num": 120529,
-      "word": "长相思百万转场",
-      "onboard_time": 1691349136,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 37559,
-      "num": 91085,
-      "word": "莲花楼杀我别用莲花刀",
-      "onboard_time": 1691351173,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 35327,
+      "raw_hot": 43128,
       "num": 90976,
       "word": "婚宴随完礼打包一桌菜",
       "onboard_time": 1691352432,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 42480,
+      "num": 120529,
+      "word": "长相思百万转场",
+      "onboard_time": 1691349136,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 30034,
@@ -539,12 +547,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28654,
-      "num": 72159,
-      "word": "小企鹅们集体背着书包出来了",
-      "onboard_time": 1691356453,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 27889,
+      "num": 87492,
+      "word": "这凉茶让撒贝宁沉默岳云鹏流泪",
+      "onboard_time": 1691360958,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 18031,

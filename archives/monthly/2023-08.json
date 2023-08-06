@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691360084865,
+  "endTime": 1691361224955,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -10635,6 +10635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284687,
+      "num": 88442,
+      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
+      "onboard_time": 1691356274,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 284620,
       "num": 284620,
       "word": "为什么会喜欢看历史书",
@@ -12019,6 +12027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232214,
+      "num": 88234,
+      "word": "易烊千玺话筒",
+      "onboard_time": 1691359635,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231872,
       "num": 231872,
       "word": "看完热烈跟自己和解了",
@@ -12945,14 +12961,6 @@
       "onboard_time": 1691138975,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207119,
-      "num": 72168,
-      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
-      "onboard_time": 1691356274,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 206972,
@@ -14251,6 +14259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180721,
+      "num": 180721,
+      "word": "钱塘江众多游客近距离观潮被卷入",
+      "onboard_time": 1691356754,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180299,
       "num": 191837,
       "word": "何浩楠带十个勤天回缙云老家",
@@ -15299,14 +15315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 121787,
-      "num": 72165,
-      "word": "易烊千玺话筒",
-      "onboard_time": 1691359635,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 121481,
       "num": 1633250,
       "word": "在成都的外国运动员跳广场舞吃串串香",
@@ -15456,14 +15464,6 @@
       "word": "暴雨洪涝后饮食安全指南",
       "onboard_time": 1691070455,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109677,
-      "num": 109677,
-      "word": "钱塘江众多游客近距离观潮被卷入",
-      "onboard_time": 1691356754,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -15619,6 +15619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97505,
+      "num": 97505,
+      "word": "安徽一高校录取通知书出现错字",
+      "onboard_time": 1691351354,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 97333,
       "num": 97333,
       "word": "不是说竹子宁折不弯吗",
@@ -15641,6 +15649,14 @@
       "onboard_time": 1691205514,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95560,
+      "num": 88065,
+      "word": "有多少人走错过才会提醒得这么用心啊",
+      "onboard_time": 1691356693,
+      "rank": 30,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 95550,
@@ -15795,14 +15811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78347,
-      "num": 72164,
-      "word": "有多少人走错过才会提醒得这么用心啊",
-      "onboard_time": 1691356693,
-      "rank": 30,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 76829,
       "num": 76829,
       "word": "爱吃折耳根和香菜的都沉默了",
@@ -15817,14 +15825,6 @@
       "onboard_time": 1691121759,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72170,
-      "num": 72170,
-      "word": "安徽一高校录取通知书出现错字",
-      "onboard_time": 1691351354,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 66957,
@@ -15891,6 +15891,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53041,
+      "num": 87959,
+      "word": "小企鹅们集体背着书包出来了",
+      "onboard_time": 1691356453,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 53018,
+      "num": 91085,
+      "word": "莲花楼杀我别用莲花刀",
+      "onboard_time": 1691351173,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 50783,
       "num": 334637,
       "word": "大空间和颜值年轻人都要",
@@ -15947,6 +15963,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 43128,
+      "num": 90976,
+      "word": "婚宴随完礼打包一桌菜",
+      "onboard_time": 1691352432,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 42480,
+      "num": 120529,
+      "word": "长相思百万转场",
+      "onboard_time": 1691349136,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 42292,
       "num": 75239,
       "word": "HAPPYMARKDAY",
@@ -15971,36 +16003,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 38698,
-      "num": 120529,
-      "word": "长相思百万转场",
-      "onboard_time": 1691349136,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 37559,
-      "num": 91085,
-      "word": "莲花楼杀我别用莲花刀",
-      "onboard_time": 1691351173,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 35367,
       "num": 556288,
       "word": "野挺有趣全员国风变装造型",
       "onboard_time": 1691132435,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35327,
-      "num": 90976,
-      "word": "婚宴随完礼打包一桌菜",
-      "onboard_time": 1691352432,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33654,
@@ -16075,20 +16083,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28654,
-      "num": 72159,
-      "word": "小企鹅们集体背着书包出来了",
-      "onboard_time": 1691356453,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 27924,
       "num": 38856,
       "word": "这些剧里一帧一风景",
       "onboard_time": 1691003115,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27889,
+      "num": 87492,
+      "word": "这凉茶让撒贝宁沉默岳云鹏流泪",
+      "onboard_time": 1691360958,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 27474,
