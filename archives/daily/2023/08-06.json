@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691306072548,
+  "endTime": 1691307226467,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -387,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 964965,
+      "num": 539154,
+      "word": "当中年领导用上了Air Pods",
+      "onboard_time": 1691302714,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 912483,
       "num": 912483,
       "word": "TFBOYS大花轿",
@@ -539,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 700451,
-      "num": 536673,
-      "word": "当中年领导用上了Air Pods",
-      "onboard_time": 1691302714,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 659385,
       "num": 659385,
       "word": "孤注一掷票房",
@@ -569,6 +569,14 @@
       "onboard_time": 1691280761,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 636924,
+      "num": 636924,
+      "word": "TFBOYS演唱会场馆外围已人山人海",
+      "onboard_time": 1691305714,
+      "rank": 36,
+      "category": "音乐,社会新闻"
     },
     {
       "raw_hot": 618004,
@@ -683,6 +691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 558230,
+      "num": 558230,
+      "word": "娇藏",
+      "onboard_time": 1691306794,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 535802,
       "num": 548393,
       "word": "当地回应网传吉林舒兰一副市长失联",
@@ -779,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505420,
+      "num": 505420,
+      "word": "张晚意想演甜剧结果接了长相思",
+      "onboard_time": 1691305594,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 492394,
       "num": 492394,
       "word": "TFBOYS夹起来了",
@@ -809,6 +833,14 @@
       "onboard_time": 1691241885,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484984,
+      "num": 484984,
+      "word": "王一博王俊凯龚俊今日营业照",
+      "onboard_time": 1691303972,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 481524,
@@ -843,6 +875,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463875,
+      "num": 271342,
+      "word": "罗志祥当姜涛演唱会嘉宾",
+      "onboard_time": 1691306794,
+      "rank": 25,
+      "category": "音乐,综艺"
+    },
+    {
+      "raw_hot": 457000,
+      "num": 526154,
+      "word": "苹果回应地震预警",
+      "onboard_time": 1691306135,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 452561,
       "num": 452561,
       "word": "TF家族三代考核排名",
@@ -851,20 +899,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447422,
+      "num": 274481,
+      "word": "王一博包场孤注一掷",
+      "onboard_time": 1691305236,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 441605,
       "num": 441605,
       "word": "已记录到余震56次",
       "onboard_time": 1691278652,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 431611,
-      "num": 313150,
-      "word": "王一博王俊凯龚俊今日营业照",
-      "onboard_time": 1691303972,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 428872,
@@ -956,11 +1004,19 @@
     },
     {
       "raw_hot": 389620,
-      "num": 248384,
+      "num": 346562,
       "word": "发现这个律师眼里已经没有光",
       "onboard_time": 1691304455,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 389570,
+      "num": 246350,
+      "word": "武艺考试全科目零分",
+      "onboard_time": 1691306915,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 388576,
@@ -1027,6 +1083,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 368576,
+      "num": 492604,
+      "word": "火车站员工地震摇晃中拦停7趟火车",
+      "onboard_time": 1691303374,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368511,
       "num": 368511,
       "word": "妈妈说我抬着手臂睡了一下午",
@@ -1043,12 +1107,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 359853,
-      "num": 274481,
-      "word": "王一博包场孤注一掷",
-      "onboard_time": 1691305236,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 359572,
+      "num": 232588,
+      "word": "TFBOYS演唱会花篮",
+      "onboard_time": 1691306255,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 357264,
@@ -1099,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 348078,
+      "num": 232477,
+      "word": "沈月 清醒通透",
+      "onboard_time": 1691306074,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338845,
       "num": 266989,
       "word": "蒋依依节目中看到做过的高考题",
@@ -1147,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320495,
+      "num": 232352,
+      "word": "相柳电话能打通",
+      "onboard_time": 1691305054,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318392,
       "num": 250243,
       "word": "吴磊好小一只",
@@ -1155,12 +1235,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 315029,
-      "num": 315029,
-      "word": "火车站员工地震摇晃中拦停7趟火车",
-      "onboard_time": 1691303374,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 312896,
+      "num": 203860,
+      "word": "贾乃亮3万份自热锅米饭驰援黑龙江",
+      "onboard_time": 1691307095,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 310892,
@@ -1243,14 +1323,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 281554,
-      "num": 244393,
-      "word": "张晚意想演甜剧结果接了长相思",
-      "onboard_time": 1691305594,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 279236,
       "num": 279236,
       "word": "TFBOYS",
@@ -1275,14 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271331,
-      "num": 243589,
-      "word": "TFBOYS演唱会场馆外围已人山人海",
-      "onboard_time": 1691305714,
-      "rank": 36,
-      "category": "音乐,社会新闻"
-    },
-    {
       "raw_hot": 268901,
       "num": 245622,
       "word": "奶奶 185痞帅体育生咱稳稳拿下",
@@ -1291,7 +1355,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 266607,
+      "raw_hot": 267060,
       "num": 243081,
       "word": "林娜琏对自己爱豆能力值的评价",
       "onboard_time": 1691305654,
@@ -1419,20 +1483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232352,
-      "num": 232352,
-      "word": "相柳电话能打通",
-      "onboard_time": 1691305054,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 231872,
       "num": 231872,
       "word": "看完热烈跟自己和解了",
       "onboard_time": 1691289635,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230620,
+      "num": 230620,
+      "word": "痛苦的时候人甚至通过写来呼吸",
+      "onboard_time": 1691306313,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 224452,
@@ -1457,6 +1521,14 @@
       "onboard_time": 1691288978,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219565,
+      "num": 219565,
+      "word": "玉玲珑是苏妲己吧",
+      "onboard_time": 1691306915,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 219149,
@@ -1555,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190875,
+      "num": 190875,
+      "word": "老人敲击百万次后瓷盘出现一幅画",
+      "onboard_time": 1691306554,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190714,
       "num": 252480,
       "word": "房东给买了一个迷你冰箱",
@@ -1601,6 +1681,14 @@
       "onboard_time": 1691244469,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161803,
+      "num": 161803,
+      "word": "管水母",
+      "onboard_time": 1691306794,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161119,
