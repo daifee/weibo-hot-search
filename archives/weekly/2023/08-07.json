@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691352973424,
+  "endTime": 1691354034007,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -363,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164739,
+      "num": 82021,
+      "word": "王源对十年前自己说的话",
+      "onboard_time": 1691353574,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 153484,
       "num": 818752,
       "word": "地震导致的次声波真的会跟人体器官共振",
@@ -435,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113895,
+      "num": 81959,
+      "word": "易烊千玺solo",
+      "onboard_time": 1691353093,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 100496,
       "num": 817161,
       "word": "EDG",
@@ -467,20 +483,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25649,
-      "num": 91085,
-      "word": "莲花楼杀我别用莲花刀",
-      "onboard_time": 1691351173,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 18504,
+      "raw_hot": 28418,
       "num": 90976,
       "word": "婚宴随完礼打包一桌菜",
       "onboard_time": 1691352432,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 27897,
+      "num": 91085,
+      "word": "莲花楼杀我别用莲花刀",
+      "onboard_time": 1691351173,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 18031,
