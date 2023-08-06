@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691356401903,
+  "endTime": 1691357617488,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -435,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126953,
+      "num": 52475,
+      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
+      "onboard_time": 1691356274,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126298,
       "num": 817793,
       "word": "Scout拥抱JieJie",
@@ -459,14 +467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 82227,
-      "num": 52475,
-      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
-      "onboard_time": 1691356274,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 46957,
       "num": 278537,
       "word": "RIIZE组合将不再是旷野世界观",
@@ -483,7 +483,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 33236,
+      "raw_hot": 38508,
+      "num": 52397,
+      "word": "安徽一高校录取通知书出现错字",
+      "onboard_time": 1691351354,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 35327,
       "num": 90976,
       "word": "婚宴随完礼打包一桌菜",
       "onboard_time": 1691352432,
@@ -507,12 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 27776,
-      "num": 52397,
-      "word": "安徽一高校录取通知书出现错字",
-      "onboard_time": 1691351354,
-      "rank": 34,
-      "category": "教育,社会新闻"
+      "raw_hot": 21710,
+      "num": 50582,
+      "word": "钱塘江众多游客近距离观潮被卷入",
+      "onboard_time": 1691356754,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18031,
