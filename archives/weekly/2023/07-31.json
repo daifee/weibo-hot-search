@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691328840242,
+  "endTime": 1691331266447,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -33,6 +33,14 @@
       "onboard_time": 1691159319,
       "rank": 0,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 12328458,
+      "num": 1340529,
+      "word": "TFBOYS快本的信",
+      "onboard_time": 1691329401,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 11063759,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3747928,
+      "num": 1368781,
+      "word": "难听",
+      "onboard_time": 1690770870,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3743665,
       "num": 3743665,
       "word": "王俊凯王源易烊千玺怎么不笑了",
@@ -233,6 +249,14 @@
       "onboard_time": 1691129914,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3322665,
+      "num": 713325,
+      "word": "陆虎老婆为王俊凯伴奏",
+      "onboard_time": 1691328493,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 3282960,
@@ -368,22 +392,6 @@
       "word": "他们仨都笑了",
       "onboard_time": 1691320373,
       "rank": 31,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 2814392,
-      "num": 713325,
-      "word": "陆虎老婆为王俊凯伴奏",
-      "onboard_time": 1691328493,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 2810227,
-      "num": 1368781,
-      "word": "难听",
-      "onboard_time": 1690770870,
-      "rank": 8,
       "category": "音乐"
     },
     {
@@ -531,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2530987,
+      "num": 702326,
+      "word": "王源踹的是时代峰峻大门吧",
+      "onboard_time": 1691330285,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2518684,
       "num": 2518684,
       "word": "中图网 25元一斤随便带走",
@@ -561,6 +577,14 @@
       "onboard_time": 1691298758,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2420975,
+      "num": 700595,
+      "word": "易烊千玺眼眶好红",
+      "onboard_time": 1691330526,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 2391660,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1691055760,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1813880,
+      "num": 1813880,
+      "word": "七时吉祥定档",
+      "onboard_time": 1691329401,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1810483,
@@ -3123,6 +3155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 966766,
+      "num": 966766,
+      "word": "大运会中国女排战胜日本夺金",
+      "onboard_time": 1691330347,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 964965,
       "num": 832459,
       "word": "当中年领导用上了Air Pods",
@@ -4025,6 +4065,14 @@
       "onboard_time": 1691313998,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 807133,
+      "num": 807133,
+      "word": "我突然意识到自己真的很好",
+      "onboard_time": 1691328197,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 807000,
@@ -5204,7 +5252,7 @@
     },
     {
       "raw_hot": 678020,
-      "num": 678020,
+      "num": 700055,
       "word": "封神票房",
       "onboard_time": 1690719633,
       "rank": 36,
@@ -6731,6 +6779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553515,
+      "num": 905057,
+      "word": "女生地震后坐电梯回家被困30分钟",
+      "onboard_time": 1691326512,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553309,
       "num": 553309,
       "word": "脏 就不能心诚吗",
@@ -6808,6 +6864,14 @@
       "word": "交行回应高管儿子活剥猫皮",
       "onboard_time": 1690788393,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543437,
+      "num": 707130,
+      "word": "吉林舒兰3名失联公职人员确认牺牲",
+      "onboard_time": 1691331008,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -7804,7 +7868,7 @@
     },
     {
       "raw_hot": 478968,
-      "num": 478968,
+      "num": 697599,
       "word": "孤注一掷刷新中国影史点映单日票房纪录",
       "onboard_time": 1691322541,
       "rank": 44,
@@ -8987,6 +9051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404139,
+      "num": 688911,
+      "word": "王俊凯妈妈来看TFBOYS演唱会",
+      "onboard_time": 1691330772,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 403912,
       "num": 403912,
       "word": "阴天为什么要这么改",
@@ -9313,14 +9385,6 @@
       "onboard_time": 1690975895,
       "rank": 45,
       "category": "美食,艺人"
-    },
-    {
-      "raw_hot": 390818,
-      "num": 905057,
-      "word": "女生地震后坐电梯回家被困30分钟",
-      "onboard_time": 1691326512,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 390408,
@@ -9865,6 +9929,14 @@
       "onboard_time": 1691019388,
       "rank": 25,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 364162,
+      "num": 704246,
+      "word": "Scout拥抱JieJie",
+      "onboard_time": 1691329401,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 364145,
@@ -11091,6 +11163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 312996,
+      "num": 708015,
+      "word": "广州80岁名医逝世当天仍在出门诊",
+      "onboard_time": 1691328070,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312546,
       "num": 1097199,
       "word": "京津冀暴雨互助",
@@ -11833,6 +11913,14 @@
       "onboard_time": 1691163408,
       "rank": 37,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 288496,
+      "num": 696737,
+      "word": "Fly",
+      "onboard_time": 1691329874,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 288407,
@@ -12939,14 +13027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 250002,
-      "num": 713554,
-      "word": "我突然意识到自己真的很好",
-      "onboard_time": 1691328197,
-      "rank": 25,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 249885,
       "num": 249885,
       "word": "山东地震多地收到预警",
@@ -13331,6 +13411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239225,
+      "num": 693813,
+      "word": "现在就出发",
+      "onboard_time": 1691330829,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239098,
       "num": 239098,
       "word": "德国女足世界杯出局",
@@ -13385,6 +13473,14 @@
       "onboard_time": 1691281057,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237591,
+      "num": 894009,
+      "word": "梅西 达拉斯",
+      "onboard_time": 1691327712,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 237175,
@@ -13561,6 +13657,14 @@
       "onboard_time": 1691289635,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231422,
+      "num": 692990,
+      "word": "XYG状态",
+      "onboard_time": 1691330060,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 231341,
@@ -15779,14 +15883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183934,
-      "num": 894009,
-      "word": "梅西 达拉斯",
-      "onboard_time": 1691327712,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183837,
       "num": 183837,
       "word": "东方风云榜",
@@ -15840,14 +15936,6 @@
       "word": "断崖旁消防员用身躯做人墙保护孩子",
       "onboard_time": 1691159079,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183112,
-      "num": 708015,
-      "word": "广州80岁名医逝世当天仍在出门诊",
-      "onboard_time": 1691328070,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -16747,6 +16835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142361,
+      "num": 900042,
+      "word": "TES对战XYG",
+      "onboard_time": 1691326267,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142280,
       "num": 142280,
       "word": "直击南昌八一广场升旗仪式现场",
@@ -16825,14 +16921,6 @@
       "onboard_time": 1691157640,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136934,
-      "num": 900042,
-      "word": "TES对战XYG",
-      "onboard_time": 1691326267,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 136515,

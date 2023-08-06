@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691328840242,
+  "endTime": 1691331266447,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -24,6 +24,14 @@
       "word": "TFBOYS官博急了",
       "onboard_time": 1691319525,
       "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 12328458,
+      "num": 1340529,
+      "word": "TFBOYS快本的信",
+      "onboard_time": 1691329401,
+      "rank": 3,
       "category": "音乐"
     },
     {
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3747928,
+      "num": 712000,
+      "word": "难听",
+      "onboard_time": 1691328256,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3541545,
       "num": 3541545,
       "word": "苹果地震预警",
@@ -168,6 +184,14 @@
       "word": "王源好像小王子",
       "onboard_time": 1691323619,
       "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 3322665,
+      "num": 713325,
+      "word": "陆虎老婆为王俊凯伴奏",
+      "onboard_time": 1691328493,
+      "rank": 26,
       "category": "音乐"
     },
     {
@@ -219,14 +243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 2814392,
-      "num": 713325,
-      "word": "陆虎老婆为王俊凯伴奏",
-      "onboard_time": 1691328493,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 2780722,
       "num": 2780722,
       "word": "地震云",
@@ -259,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2530987,
+      "num": 702326,
+      "word": "王源踹的是时代峰峻大门吧",
+      "onboard_time": 1691330285,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2473434,
       "num": 2473434,
       "word": "李敏镐肿了",
@@ -267,10 +291,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2436589,
-      "num": 712000,
-      "word": "难听",
-      "onboard_time": 1691328256,
+      "raw_hot": 2420975,
+      "num": 700595,
+      "word": "易烊千玺眼眶好红",
+      "onboard_time": 1691330526,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 2376487,
+      "num": 698703,
+      "word": "快乐大本营",
+      "onboard_time": 1691330465,
       "rank": 29,
       "category": "音乐"
     },
@@ -401,6 +433,14 @@
       "onboard_time": 1691261446,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1813880,
+      "num": 1813880,
+      "word": "七时吉祥定档",
+      "onboard_time": 1691329401,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1661719,
@@ -747,6 +787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 966766,
+      "num": 966766,
+      "word": "大运会中国女排战胜日本夺金",
+      "onboard_time": 1691330347,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 964965,
       "num": 832459,
       "word": "当中年领导用上了Air Pods",
@@ -857,6 +905,14 @@
       "onboard_time": 1691313998,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 807133,
+      "num": 807133,
+      "word": "我突然意识到自己真的很好",
+      "onboard_time": 1691328197,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 807000,
@@ -1203,6 +1259,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 556164,
+      "num": 700055,
+      "word": "封神票房",
+      "onboard_time": 1691330772,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 553515,
+      "num": 905057,
+      "word": "女生地震后坐电梯回家被困30分钟",
+      "onboard_time": 1691326512,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543437,
+      "num": 707130,
+      "word": "吉林舒兰3名失联公职人员确认牺牲",
+      "onboard_time": 1691331008,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538908,
       "num": 405952,
       "word": "杨紫檀健次认真设计走位",
@@ -1396,7 +1476,7 @@
     },
     {
       "raw_hot": 478968,
-      "num": 478968,
+      "num": 697599,
       "word": "孤注一掷刷新中国影史点映单日票房纪录",
       "onboard_time": 1691322541,
       "rank": 44,
@@ -1555,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404139,
+      "num": 688911,
+      "word": "王俊凯妈妈来看TFBOYS演唱会",
+      "onboard_time": 1691330772,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 403688,
       "num": 403688,
       "word": "地震前流浪狗反复挠门把店主叫醒",
@@ -1617,14 +1705,6 @@
       "onboard_time": 1691307095,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390818,
-      "num": 905057,
-      "word": "女生地震后坐电梯回家被困30分钟",
-      "onboard_time": 1691326512,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389620,
@@ -1737,6 +1817,14 @@
       "onboard_time": 1691286520,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 364162,
+      "num": 704246,
+      "word": "Scout拥抱JieJie",
+      "onboard_time": 1691329401,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 364145,
@@ -1852,7 +1940,7 @@
     },
     {
       "raw_hot": 347997,
-      "num": 347997,
+      "num": 696239,
       "word": "莲花楼",
       "onboard_time": 1691253333,
       "rank": 40,
@@ -1987,6 +2075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 312996,
+      "num": 708015,
+      "word": "广州80岁名医逝世当天仍在出门诊",
+      "onboard_time": 1691328070,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310892,
       "num": 392357,
       "word": "给狗狗买磨牙棒忘了看尺寸",
@@ -2073,6 +2169,14 @@
       "onboard_time": 1691235159,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288496,
+      "num": 696737,
+      "word": "Fly",
+      "onboard_time": 1691329874,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 288185,
@@ -2243,14 +2347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250002,
-      "num": 713554,
-      "word": "我突然意识到自己真的很好",
-      "onboard_time": 1691328197,
-      "rank": 25,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 249885,
       "num": 249885,
       "word": "山东地震多地收到预警",
@@ -2315,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239225,
+      "num": 693813,
+      "word": "现在就出发",
+      "onboard_time": 1691330829,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237687,
       "num": 237687,
       "word": "优酷带了四叶草挂件",
@@ -2323,12 +2427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237591,
+      "num": 894009,
+      "word": "梅西 达拉斯",
+      "onboard_time": 1691327712,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231872,
       "num": 231872,
       "word": "看完热烈跟自己和解了",
       "onboard_time": 1691289635,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231422,
+      "num": 692990,
+      "word": "XYG状态",
+      "onboard_time": 1691330060,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 224452,
@@ -2523,28 +2643,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183934,
-      "num": 894009,
-      "word": "梅西 达拉斯",
-      "onboard_time": 1691327712,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183529,
       "num": 183529,
       "word": "车银优健身前后对比",
       "onboard_time": 1691276667,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183112,
-      "num": 708015,
-      "word": "广州80岁名医逝世当天仍在出门诊",
-      "onboard_time": 1691328070,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181685,
@@ -2651,20 +2755,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142361,
+      "num": 900042,
+      "word": "TES对战XYG",
+      "onboard_time": 1691326267,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140582,
       "num": 140582,
       "word": "山东平原县已发生余震52次",
       "onboard_time": 1691278049,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136934,
-      "num": 900042,
-      "word": "TES对战XYG",
-      "onboard_time": 1691326267,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 136515,
