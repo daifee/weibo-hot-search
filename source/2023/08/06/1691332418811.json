@@ -1,0 +1,410 @@
+{
+  "runTime": 1691332418811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15184154,
+        "num": 15184154,
+        "word": "TFBOYS十年之约演唱会",
+        "onboard_time": 1691320248,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3178657,
+        "num": 3178657,
+        "word": "吉林舒兰3名失联公职人员确认牺牲",
+        "onboard_time": 1691331008,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170391,
+        "num": 1636525,
+        "word": "地震来临时牢记生命三角法",
+        "onboard_time": 1691312136,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10806134,
+        "num": 1546758,
+        "word": "TFBOYS快本的信",
+        "onboard_time": 1691329401,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1328162,
+        "num": 1328162,
+        "word": "七时吉祥定档",
+        "onboard_time": 1691329401,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1009637,
+        "num": 1009637,
+        "word": "大运会中国女排战胜日本夺金",
+        "onboard_time": 1691330347,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1005656,
+        "num": 1005656,
+        "word": "迪丽热巴戒指",
+        "onboard_time": 1691323387,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1005176,
+        "num": 1005176,
+        "word": "我突然意识到自己真的很好",
+        "onboard_time": 1691328197,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 712423,
+        "num": 1005066,
+        "word": "直到25岁我才真正读完了中学",
+        "onboard_time": 1691323857,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 569448,
+        "num": 1004936,
+        "word": "孤注一掷",
+        "onboard_time": 1691313521,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10284268,
+        "num": 1004694,
+        "word": "十周年蛋糕塌了",
+        "onboard_time": 1691332398,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 568207,
+        "num": 1004513,
+        "word": "杨紫是懂断更的",
+        "onboard_time": 1691327891,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 516575,
+        "num": 1004249,
+        "word": "女生地震后坐电梯回家被困30分钟",
+        "onboard_time": 1691326512,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6654747,
+        "num": 1004071,
+        "word": "主持人是蓝羽姐姐",
+        "onboard_time": 1691324281,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 474297,
+        "num": 1003824,
+        "word": "Uzi",
+        "onboard_time": 1691326034,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 467787,
+        "num": 1003618,
+        "word": "要离职的人状态真的很不一样",
+        "onboard_time": 1691314660,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 4209726,
+        "num": 1003522,
+        "word": "TFBOYS官博急了",
+        "onboard_time": 1691319525,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 391995,
+        "num": 1003231,
+        "word": "Fly",
+        "onboard_time": 1691329874,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351285,
+        "num": 1003183,
+        "word": "广州80岁名医逝世当天仍在出门诊",
+        "onboard_time": 1691328070,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4199545,
+        "num": 1002944,
+        "word": "王俊凯拆台王源",
+        "onboard_time": 1691331803,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366762,
+        "num": 1002664,
+        "word": "高铁上的大叔被女儿问尴尬了",
+        "onboard_time": 1691313701,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339921,
+        "num": 1002588,
+        "word": "大妈踩在丹霞地貌上疯狂拍照",
+        "onboard_time": 1691315678,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2791088,
+        "num": 1002243,
+        "word": "难听",
+        "onboard_time": 1691328256,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327642,
+        "num": 1002127,
+        "word": "Scout拥抱JieJie",
+        "onboard_time": 1691329401,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293322,
+        "num": 1001842,
+        "word": "旭旭宝宝签约抖音",
+        "onboard_time": 1691323803,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2665085,
+        "num": 1001772,
+        "word": "易烊千玺眼眶好红",
+        "onboard_time": 1691330526,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 523083,
+        "num": 1001548,
+        "word": "封神票房",
+        "onboard_time": 1691330772,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288088,
+        "num": 1001258,
+        "word": "地震导致的次声波真的会跟人体器官共振",
+        "onboard_time": 1691318863,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969955,
+        "num": 1001173,
+        "word": "男孩杀害邻居11岁女孩抛尸湘江",
+        "onboard_time": 1691323559,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2387331,
+        "num": 1000858,
+        "word": "王源踹的是时代峰峻大门吧",
+        "onboard_time": 1691330285,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 498358,
+        "num": 1000682,
+        "word": "王楚然张晚意 娇藏",
+        "onboard_time": 1691322056,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486389,
+        "num": 1000557,
+        "word": "孤注一掷刷新中国影史点映单日票房纪录",
+        "onboard_time": 1691322541,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2145525,
+        "num": 1000270,
+        "word": "陆虎老婆为王俊凯伴奏",
+        "onboard_time": 1691328493,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324769,
+        "num": 1000121,
+        "word": "莲花楼",
+        "onboard_time": 1691323440,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257748,
+        "num": 999988,
+        "word": "女生出生起14年每天抱毯睡用成絮状",
+        "onboard_time": 1691321390,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293838,
+        "num": 999706,
+        "word": "现在就出发",
+        "onboard_time": 1691330829,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238382,
+        "num": 999524,
+        "word": "说她是恋爱脑吧又好像很会搞创收",
+        "onboard_time": 1691324520,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 236126,
+        "num": 999420,
+        "word": "XYG状态",
+        "onboard_time": 1691330060,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217315,
+        "num": 999146,
+        "word": "网传郑州大学一领导要求员工无偿加班还威胁降薪",
+        "onboard_time": 1691314781,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 204950,
+        "num": 998984,
+        "word": "梅西 达拉斯",
+        "onboard_time": 1691327712,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202447,
+        "num": 998840,
+        "word": "救火烈士父母给抗洪烈士送挽联",
+        "onboard_time": 1691331663,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182067,
+        "num": 998514,
+        "word": "路过民警一声吼挽救两个家庭",
+        "onboard_time": 1691332272,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175682,
+        "num": 998473,
+        "word": "莲花楼预告悬疑感拉满了",
+        "onboard_time": 1691331255,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171708,
+        "num": 998240,
+        "word": "有人看乐子 有人照镜子",
+        "onboard_time": 1691319586,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163073,
+        "num": 997905,
+        "word": "EDG",
+        "onboard_time": 1691324220,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74233,
+        "num": 997703,
+        "word": "未满14岁男孩杀害邻居11岁女孩抛尸",
+        "onboard_time": 1691325974,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150850,
+        "num": 997675,
+        "word": "山西吕梁重大刑事案件嫌犯被抓",
+        "onboard_time": 1691318201,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150491,
+        "num": 997467,
+        "word": "LNG对战EDG",
+        "onboard_time": 1691315746,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137275,
+        "num": 997198,
+        "word": "LNG战胜EDG",
+        "onboard_time": 1691323081,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124005,
+        "num": 996996,
+        "word": "大运会中国女排vs日本女排",
+        "onboard_time": 1691325121,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#风雨同心人民至上#"
+    }
+  }
+}
