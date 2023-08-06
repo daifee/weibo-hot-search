@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691284585093,
+  "endTime": 1691285768003,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2627120,
-      "num": 2627120,
+      "raw_hot": 2780722,
+      "num": 2780722,
       "word": "地震云",
       "onboard_time": 1691281360,
       "rank": 1,
@@ -131,6 +131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1590431,
+      "num": 1590431,
+      "word": "王俊凯王源易烊千玺同台比心",
+      "onboard_time": 1691282021,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1466366,
       "num": 1466366,
       "word": "济南将迎大雨到暴雨",
@@ -153,14 +161,6 @@
       "onboard_time": 1691261446,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1335191,
-      "num": 1335191,
-      "word": "王俊凯王源易烊千玺同台比心",
-      "onboard_time": 1691282021,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1334936,
@@ -201,6 +201,14 @@
       "onboard_time": 1691280216,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1084109,
+      "num": 426422,
+      "word": "网购别再只看销量",
+      "onboard_time": 1691284062,
+      "rank": 30,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 1040248,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 859766,
+      "num": 859766,
+      "word": "海贼王",
+      "onboard_time": 1691251000,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 854525,
       "num": 854525,
       "word": "TFBOYS十年之约演唱会",
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 735934,
-      "num": 388504,
+      "num": 425638,
       "word": "女子买3张卧铺带4娃乘车被要求补票",
       "onboard_time": 1691278592,
       "rank": 20,
@@ -315,20 +331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 633921,
-      "num": 633921,
-      "word": "长相思断更檀健次喂饭",
-      "onboard_time": 1691280761,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 619297,
-      "num": 619297,
+      "raw_hot": 653204,
+      "num": 653204,
       "word": "涿州",
       "onboard_time": 1691281837,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641608,
+      "num": 641608,
+      "word": "长相思断更檀健次喂饭",
+      "onboard_time": 1691280761,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 597411,
@@ -411,12 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 496597,
-      "num": 338285,
-      "word": "网购别再只看销量",
-      "onboard_time": 1691284062,
-      "rank": 30,
-      "category": "科技,财经"
+      "raw_hot": 518335,
+      "num": 518335,
+      "word": "迪丽热巴帝梓元白发婚服",
+      "onboard_time": 1691282201,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 516005,
+      "num": 424254,
+      "word": "山东地震带",
+      "onboard_time": 1691284478,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492394,
@@ -451,20 +475,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440356,
+      "num": 440356,
+      "word": "TF家族三代考核排名",
+      "onboard_time": 1691284541,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428872,
       "num": 428872,
       "word": "Angelababy没人选",
       "onboard_time": 1691246625,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 426177,
-      "num": 426177,
-      "word": "迪丽热巴帝梓元白发婚服",
-      "onboard_time": 1691282201,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 420922,
@@ -483,12 +507,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417250,
+      "num": 417250,
+      "word": "陈牧驰一个人撑起一场直播",
+      "onboard_time": 1691283398,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 402832,
+      "num": 402832,
+      "word": "女友视角下的杨洋",
+      "onboard_time": 1691285203,
+      "rank": 26,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 400653,
       "num": 389479,
       "word": "同事劝我不要买杂牌口红",
       "onboard_time": 1691240446,
       "rank": 29,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 395001,
+      "num": 395001,
+      "word": "王俊凯王源易烊千玺青春修炼手册彩排",
+      "onboard_time": 1691283344,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 388576,
@@ -507,12 +555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371352,
-      "num": 371352,
-      "word": "陈牧驰一个人撑起一场直播",
-      "onboard_time": 1691283398,
-      "rank": 23,
+      "raw_hot": 383935,
+      "num": 383935,
+      "word": "夭璟cp你是真的火了",
+      "onboard_time": 1691285021,
+      "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378468,
+      "num": 378468,
+      "word": "光与夜之恋",
+      "onboard_time": 1691283699,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 360197,
@@ -539,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356330,
-      "num": 356330,
-      "word": "光与夜之恋",
-      "onboard_time": 1691283699,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 355579,
       "num": 498298,
       "word": "这是尊嘟假嘟 这是我微信余额",
@@ -563,12 +611,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 346088,
-      "num": 346088,
-      "word": "王俊凯王源易烊千玺青春修炼手册彩排",
-      "onboard_time": 1691283344,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 343798,
+      "num": 343798,
+      "word": "杨玏伯邑考后劲好大",
+      "onboard_time": 1691285562,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 336997,
@@ -651,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267848,
+      "num": 267848,
+      "word": "原来这些都不是矿泉水",
+      "onboard_time": 1691285081,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262758,
       "num": 262758,
       "word": "TFBOYS",
@@ -681,6 +737,14 @@
       "onboard_time": 1691246265,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 250597,
+      "num": 250597,
+      "word": "多条铁路线因地震停运",
+      "onboard_time": 1691285261,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249885,
@@ -731,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234302,
-      "num": 234302,
-      "word": "TF家族三代考核排名",
-      "onboard_time": 1691284541,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224452,
       "num": 195508,
       "word": "异人之下只有冯宝宝一个i人",
@@ -752,14 +808,6 @@
       "word": "中国快递速度惊呆外国运动员",
       "onboard_time": 1691272698,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216996,
-      "num": 216996,
-      "word": "山东地震带",
-      "onboard_time": 1691284478,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -777,14 +825,6 @@
       "onboard_time": 1691277508,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196887,
-      "num": 253615,
-      "word": "海贼王",
-      "onboard_time": 1691251000,
-      "rank": 34,
-      "category": "动漫"
     },
     {
       "raw_hot": 196258,
@@ -840,6 +880,14 @@
       "word": "黑龙江五常发布防汛救援公告",
       "onboard_time": 1691252431,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161119,
+      "num": 5430855,
+      "word": "大运会又一个显眼包出现了",
+      "onboard_time": 1691242727,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -936,14 +984,6 @@
       "word": "强降雨致吉林舒兰6人遇难4人失联",
       "onboard_time": 1691278289,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102502,
-      "num": 5430855,
-      "word": "大运会又一个显眼包出现了",
-      "onboard_time": 1691242727,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

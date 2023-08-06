@@ -1,0 +1,410 @@
+{
+  "runTime": 1691285768003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9174927,
+        "num": 9174927,
+        "word": "山东地震",
+        "onboard_time": 1691260773,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2780722,
+        "num": 2780722,
+        "word": "地震云",
+        "onboard_time": 1691281360,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161119,
+        "num": 1962988,
+        "word": "大运会又一个显眼包出现了",
+        "onboard_time": 1691242727,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1590431,
+        "num": 1590431,
+        "word": "王俊凯王源易烊千玺同台比心",
+        "onboard_time": 1691282021,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1236631,
+        "num": 1236631,
+        "word": "日本男子吃白饭咸菜20年存467万",
+        "onboard_time": 1691280397,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1203778,
+        "num": 1203778,
+        "word": "震中现场",
+        "onboard_time": 1691278831,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089552,
+        "num": 1089552,
+        "word": "全红婵世界杯总决赛银牌",
+        "onboard_time": 1691280216,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1062993,
+        "num": 1062993,
+        "word": "吴彤也来看TFBOYS演唱会了",
+        "onboard_time": 1691278773,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 902509,
+        "num": 902509,
+        "word": "地震预警",
+        "onboard_time": 1691261446,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865683,
+        "num": 865683,
+        "word": "山东地震21人受伤",
+        "onboard_time": 1691277508,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859766,
+        "num": 859766,
+        "word": "海贼王",
+        "onboard_time": 1691284902,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 806511,
+        "num": 806511,
+        "word": "薛之谦祝TFBOYS演唱会圆满成功",
+        "onboard_time": 1691279133,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 653204,
+        "num": 653204,
+        "word": "涿州",
+        "onboard_time": 1691281837,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641608,
+        "num": 641608,
+        "word": "长相思断更檀健次喂饭",
+        "onboard_time": 1691280761,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587596,
+        "num": 587596,
+        "word": "北京震感",
+        "onboard_time": 1691261079,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521750,
+        "num": 521750,
+        "word": "安崎自曝出道后失业到现在",
+        "onboard_time": 1691244046,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518335,
+        "num": 518335,
+        "word": "迪丽热巴帝梓元白发婚服",
+        "onboard_time": 1691282201,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475458,
+        "num": 475458,
+        "word": "路飞五档",
+        "onboard_time": 1691249920,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 440356,
+        "num": 440356,
+        "word": "TF家族三代考核排名",
+        "onboard_time": 1691284541,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426430,
+        "num": 426430,
+        "word": "TF三代将于明年暑假成团",
+        "onboard_time": 1691281237,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1084109,
+        "num": 426422,
+        "word": "网购别再只看销量",
+        "onboard_time": 1691284062,
+        "rank": 20,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 708012,
+        "num": 425638,
+        "word": "女子买3张卧铺带4娃乘车被要求补票",
+        "onboard_time": 1691278592,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516005,
+        "num": 424254,
+        "word": "山东地震带",
+        "onboard_time": 1691284478,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421952,
+        "num": 421952,
+        "word": "爸爸好像忘记我已经结婚了",
+        "onboard_time": 1691245066,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417250,
+        "num": 417250,
+        "word": "陈牧驰一个人撑起一场直播",
+        "onboard_time": 1691283398,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405328,
+        "num": 405328,
+        "word": "封神海报妲己穿纣王衣服",
+        "onboard_time": 1691244406,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402832,
+        "num": 402832,
+        "word": "女友视角下的杨洋",
+        "onboard_time": 1691285203,
+        "rank": 26,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 395001,
+        "num": 395001,
+        "word": "王俊凯王源易烊千玺青春修炼手册彩排",
+        "onboard_time": 1691283344,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 383935,
+        "num": 383935,
+        "word": "夭璟cp你是真的火了",
+        "onboard_time": 1691285021,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378468,
+        "num": 378468,
+        "word": "光与夜之恋",
+        "onboard_time": 1691283699,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 343798,
+        "num": 343798,
+        "word": "杨玏伯邑考后劲好大",
+        "onboard_time": 1691285562,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334877,
+        "num": 334877,
+        "word": "已记录到余震56次",
+        "onboard_time": 1691278652,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326863,
+        "num": 326863,
+        "word": "同事劝我不要买杂牌口红",
+        "onboard_time": 1691240446,
+        "rank": 32,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 317848,
+        "num": 317848,
+        "word": "河南震感",
+        "onboard_time": 1691261446,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280009,
+        "num": 280009,
+        "word": "导演们看看大码女演员吧",
+        "onboard_time": 1691248546,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279188,
+        "num": 279188,
+        "word": "老夫妻吃隔夜蛋炒饭致一死一伤",
+        "onboard_time": 1691240865,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272677,
+        "num": 272677,
+        "word": "洪水冲来2条狗女子领回精心饲养",
+        "onboard_time": 1691266758,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271407,
+        "num": 271407,
+        "word": "这是李莲花与江湖的一场告别",
+        "onboard_time": 1691284123,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267848,
+        "num": 267848,
+        "word": "原来这些都不是矿泉水",
+        "onboard_time": 1691285081,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265618,
+        "num": 265618,
+        "word": "TFBOYS十年之约演唱会",
+        "onboard_time": 1691276845,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254775,
+        "num": 254775,
+        "word": "江苏震感",
+        "onboard_time": 1691262280,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251657,
+        "num": 251657,
+        "word": "TFBOYS",
+        "onboard_time": 1691276845,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250597,
+        "num": 250597,
+        "word": "多条铁路线因地震停运",
+        "onboard_time": 1691285261,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248464,
+        "num": 248464,
+        "word": "莲花楼丧尸案",
+        "onboard_time": 1691236901,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217293,
+        "num": 217293,
+        "word": "中国快递速度惊呆外国运动员",
+        "onboard_time": 1691272698,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215466,
+        "num": 215466,
+        "word": "大张伟 所有的快乐和悲伤都是因为人际关系",
+        "onboard_time": 1691251419,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214273,
+        "num": 214273,
+        "word": "优酷带了四叶草挂件",
+        "onboard_time": 1691281057,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208121,
+        "num": 208121,
+        "word": "给狗狗买磨牙棒忘了看尺寸",
+        "onboard_time": 1691247347,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207132,
+        "num": 207132,
+        "word": "王鹤棣再次错过迪丽热巴",
+        "onboard_time": 1691241885,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206420,
+        "num": 206420,
+        "word": "山东地震多地收到预警",
+        "onboard_time": 1691277869,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会赛场内外刮起中国风#"
+    }
+  }
+}

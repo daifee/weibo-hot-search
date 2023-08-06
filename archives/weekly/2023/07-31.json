@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691284585093,
+  "endTime": 1691285768003,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -227,6 +227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2780722,
+      "num": 2780722,
+      "word": "地震云",
+      "onboard_time": 1691281360,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2780227,
       "num": 2780227,
       "word": "张予曦翟潇闻 难哄",
@@ -289,14 +297,6 @@
       "onboard_time": 1690776636,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2627120,
-      "num": 2627120,
-      "word": "地震云",
-      "onboard_time": 1691281360,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2605619,
@@ -1051,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1590431,
+      "num": 1590431,
+      "word": "王俊凯王源易烊千玺同台比心",
+      "onboard_time": 1691282021,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1587256,
       "num": 1587256,
       "word": "中国女足vs英格兰女足",
@@ -1497,14 +1505,6 @@
       "onboard_time": 1691235877,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1335191,
-      "num": 1335191,
-      "word": "王俊凯王源易烊千玺同台比心",
-      "onboard_time": 1691282021,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1334942,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1690733490,
       "rank": 45,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 1084109,
+      "num": 426422,
+      "word": "网购别再只看销量",
+      "onboard_time": 1691284062,
+      "rank": 30,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 1082734,
@@ -3203,6 +3211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 859766,
+      "num": 859766,
+      "word": "海贼王",
+      "onboard_time": 1691251000,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 858183,
       "num": 858183,
       "word": "北京一名女救援队员牺牲",
@@ -4036,7 +4052,7 @@
     },
     {
       "raw_hot": 735934,
-      "num": 388504,
+      "num": 425638,
       "word": "女子买3张卧铺带4娃乘车被要求补票",
       "onboard_time": 1691278592,
       "rank": 20,
@@ -4803,6 +4819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 641608,
+      "num": 641608,
+      "word": "长相思断更檀健次喂饭",
+      "onboard_time": 1691280761,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 641091,
       "num": 972346,
       "word": "400斤男子离世前这个举动令人泪目",
@@ -4849,14 +4873,6 @@
       "onboard_time": 1691034160,
       "rank": 13,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 633921,
-      "num": 633921,
-      "word": "长相思断更檀健次喂饭",
-      "onboard_time": 1691280761,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 632669,
@@ -6363,6 +6379,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 518335,
+      "num": 518335,
+      "word": "迪丽热巴帝梓元白发婚服",
+      "onboard_time": 1691282201,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 517413,
       "num": 517413,
       "word": "地铁2男子吵架大哥教科书式劝架",
@@ -6385,6 +6409,14 @@
       "onboard_time": 1690885774,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516005,
+      "num": 424254,
+      "word": "山东地震带",
+      "onboard_time": 1691284478,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515396,
@@ -6593,14 +6625,6 @@
       "onboard_time": 1690940014,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 496597,
-      "num": 338285,
-      "word": "网购别再只看销量",
-      "onboard_time": 1691284062,
-      "rank": 30,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 496283,
@@ -7411,6 +7435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440356,
+      "num": 440356,
+      "word": "TF家族三代考核排名",
+      "onboard_time": 1691284541,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440193,
       "num": 565092,
       "word": "洪水中4个月大婴儿被直升机吊起",
@@ -7619,14 +7651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 426177,
-      "num": 426177,
-      "word": "迪丽热巴帝梓元白发婚服",
-      "onboard_time": 1691282201,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 425969,
       "num": 425969,
       "word": "此沙",
@@ -7737,6 +7761,14 @@
       "onboard_time": 1691198616,
       "rank": 17,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 417250,
+      "num": 417250,
+      "word": "陈牧驰一个人撑起一场直播",
+      "onboard_time": 1691283398,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 416288,
@@ -7963,6 +7995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 402832,
+      "num": 402832,
+      "word": "女友视角下的杨洋",
+      "onboard_time": 1691285203,
+      "rank": 26,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 401926,
       "num": 392278,
       "word": "杨紫情绪爆发戏演到虚脱",
@@ -8089,6 +8129,14 @@
       "onboard_time": 1690766193,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 395001,
+      "num": 395001,
+      "word": "王俊凯王源易烊千玺青春修炼手册彩排",
+      "onboard_time": 1691283344,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 394410,
@@ -8339,6 +8387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383935,
+      "num": 383935,
+      "word": "夭璟cp你是真的火了",
+      "onboard_time": 1691285021,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 383708,
       "num": 383708,
       "word": "封神男团早几年干嘛去了",
@@ -8401,6 +8457,14 @@
       "onboard_time": 1690946555,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378468,
+      "num": 378468,
+      "word": "光与夜之恋",
+      "onboard_time": 1691283699,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 378424,
@@ -8536,14 +8600,6 @@
       "word": "第一次看到早8点空降的剧",
       "onboard_time": 1691114076,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 371352,
-      "num": 371352,
-      "word": "陈牧驰一个人撑起一场直播",
-      "onboard_time": 1691283398,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -8787,14 +8843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 356330,
-      "num": 356330,
-      "word": "光与夜之恋",
-      "onboard_time": 1691283699,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 356266,
       "num": 356266,
       "word": "LNG好好bp行吗",
@@ -9011,14 +9059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 346088,
-      "num": 346088,
-      "word": "王俊凯王源易烊千玺青春修炼手册彩排",
-      "onboard_time": 1691283344,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 345765,
       "num": 345765,
       "word": "ePhone已被注册商标",
@@ -9065,6 +9105,14 @@
       "onboard_time": 1690847854,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343798,
+      "num": 343798,
+      "word": "杨玏伯邑考后劲好大",
+      "onboard_time": 1691285562,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 343559,
@@ -10899,6 +10947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267848,
+      "num": 267848,
+      "word": "原来这些都不是矿泉水",
+      "onboard_time": 1691285081,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267704,
       "num": 335243,
       "word": "WBG积分第一晋级夏决",
@@ -11385,6 +11441,14 @@
       "onboard_time": 1691073399,
       "rank": 33,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 250597,
+      "num": 250597,
+      "word": "多条铁路线因地震停运",
+      "onboard_time": 1691285261,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250422,
@@ -11947,14 +12011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234302,
-      "num": 234302,
-      "word": "TF家族三代考核排名",
-      "onboard_time": 1691284541,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234198,
       "num": 234198,
       "word": "WB对战XYG",
@@ -12496,14 +12552,6 @@
       "word": "飞行员讲述与外机近距离缠斗细节",
       "onboard_time": 1691057917,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216996,
-      "num": 216996,
-      "word": "山东地震带",
-      "onboard_time": 1691284478,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -13505,14 +13553,6 @@
       "onboard_time": 1691060194,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196887,
-      "num": 253615,
-      "word": "海贼王",
-      "onboard_time": 1691251000,
-      "rank": 34,
-      "category": "动漫"
     },
     {
       "raw_hot": 196752,
@@ -14643,6 +14683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161119,
+      "num": 5430855,
+      "word": "大运会又一个显眼包出现了",
+      "onboard_time": 1691242727,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161091,
       "num": 161091,
       "word": "女足",
@@ -15521,14 +15569,6 @@
       "onboard_time": 1691208875,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102502,
-      "num": 5430855,
-      "word": "大运会又一个显眼包出现了",
-      "onboard_time": 1691242727,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102314,
