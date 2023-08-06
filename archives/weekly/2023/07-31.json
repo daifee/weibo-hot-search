@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691303636750,
+  "endTime": 1691306072548,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1083,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1599700,
+      "num": 1599700,
+      "word": "易烊千玺同乘舞台首唱是王传君",
+      "onboard_time": 1691303075,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1599627,
       "num": 768102,
       "word": "西安警方通报奥体中心体育场歌迷打架",
@@ -2057,6 +2065,14 @@
       "onboard_time": 1691210134,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1131198,
+      "num": 1131198,
+      "word": "TFBOYS演唱会歌单",
+      "onboard_time": 1691304214,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1125332,
@@ -3203,6 +3219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 885173,
+      "num": 885173,
+      "word": "中药奶茶",
+      "onboard_time": 1691304214,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 881761,
       "num": 881761,
       "word": "吴京烤串一看就没少练",
@@ -4075,6 +4099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750571,
+      "num": 750571,
+      "word": "年轻人为什么不爱吃零食了",
+      "onboard_time": 1691300676,
+      "rank": 23,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 749652,
       "num": 749652,
       "word": "边伯贤入住汉南洞UNVillage",
@@ -4545,6 +4577,14 @@
       "onboard_time": 1691109460,
       "rank": 6,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 700451,
+      "num": 536673,
+      "word": "当中年领导用上了Air Pods",
+      "onboard_time": 1691302714,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 699333,
@@ -7523,14 +7563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 455699,
-      "num": 431612,
-      "word": "易烊千玺同乘舞台首唱是王传君",
-      "onboard_time": 1691303075,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 454699,
       "num": 454699,
       "word": "相柳得知小夭真实身份",
@@ -7899,6 +7931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431611,
+      "num": 313150,
+      "word": "王一博王俊凯龚俊今日营业照",
+      "onboard_time": 1691303972,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431528,
       "num": 406735,
       "word": "日本小哥不工作专门接受别人请客吃饭",
@@ -8129,14 +8169,6 @@
       "onboard_time": 1691002153,
       "rank": 15,
       "category": "科技,幽默"
-    },
-    {
-      "raw_hot": 416133,
-      "num": 366677,
-      "word": "年轻人为什么不爱吃零食了",
-      "onboard_time": 1691300676,
-      "rank": 23,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 415867,
@@ -8435,6 +8467,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 398045,
+      "num": 312819,
+      "word": "易烊千玺彩排图",
+      "onboard_time": 1691304034,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 397231,
       "num": 342570,
       "word": "newjeans 音乐节",
@@ -8633,6 +8673,14 @@
       "onboard_time": 1690967493,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389620,
+      "num": 248384,
+      "word": "发现这个律师眼里已经没有光",
+      "onboard_time": 1691304455,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 389564,
@@ -9219,6 +9267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359853,
+      "num": 274481,
+      "word": "王一博包场孤注一掷",
+      "onboard_time": 1691305236,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358238,
       "num": 358238,
       "word": "中国男篮小组赛三战全败",
@@ -9465,14 +9521,6 @@
       "onboard_time": 1691123317,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348975,
-      "num": 251685,
-      "word": "当中年领导用上了Air Pods",
-      "onboard_time": 1691302714,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 348894,
@@ -9963,6 +10011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 324470,
+      "num": 324282,
+      "word": "当你在卧室玩手机时",
+      "onboard_time": 1691301098,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324456,
       "num": 324456,
       "word": "刘敏涛王一博母子落泪戏幕后",
@@ -9984,14 +10040,6 @@
       "word": "猫咬电线被炸成小糊脸",
       "onboard_time": 1690848397,
       "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 324282,
-      "num": 324282,
-      "word": "当你在卧室玩手机时",
-      "onboard_time": 1691301098,
-      "rank": 34,
       "category": "幽默"
     },
     {
@@ -10161,6 +10209,14 @@
       "onboard_time": 1691220875,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 315029,
+      "num": 315029,
+      "word": "火车站员工地震摇晃中拦停7趟火车",
+      "onboard_time": 1691303374,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314652,
@@ -11115,6 +11171,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 281554,
+      "num": 244393,
+      "word": "张晚意想演甜剧结果接了长相思",
+      "onboard_time": 1691305594,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281453,
       "num": 392400,
       "word": "i人有个e人的妈妈什么体验",
@@ -11395,6 +11459,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 271331,
+      "num": 243589,
+      "word": "TFBOYS演唱会场馆外围已人山人海",
+      "onboard_time": 1691305714,
+      "rank": 36,
+      "category": "音乐,社会新闻"
+    },
+    {
       "raw_hot": 270925,
       "num": 270925,
       "word": "爱豆小卡应该有更多功能",
@@ -11451,6 +11523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268901,
+      "num": 245622,
+      "word": "奶奶 185痞帅体育生咱稳稳拿下",
+      "onboard_time": 1691305415,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268241,
       "num": 242802,
       "word": "到底是谁逼小夭亲他",
@@ -11489,6 +11569,14 @@
       "onboard_time": 1691026054,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266607,
+      "num": 243081,
+      "word": "林娜琏对自己爱豆能力值的评价",
+      "onboard_time": 1691305654,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 266481,
@@ -11649,6 +11737,14 @@
       "onboard_time": 1690890993,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262225,
+      "num": 239363,
+      "word": "王俊凯王源易烊千玺今日开屏",
+      "onboard_time": 1691305356,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 262030,
@@ -12009,6 +12105,14 @@
       "onboard_time": 1690952918,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248930,
+      "num": 248930,
+      "word": "牺牲消防员墓前摆了他生前爱吃的棒棒糖",
+      "onboard_time": 1691304273,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248086,
@@ -12561,6 +12665,14 @@
       "onboard_time": 1690766554,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232352,
+      "num": 232352,
+      "word": "相柳电话能打通",
+      "onboard_time": 1691305054,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 232313,
@@ -14859,6 +14971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181548,
+      "num": 1159695,
+      "word": "收到地震预警之后该怎么做",
+      "onboard_time": 1691300796,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180838,
       "num": 185880,
       "word": "我想问问她为什么不肯认我",
@@ -14928,6 +15048,14 @@
       "word": "当抓到老爸喂狗狗吃人吃的东西后",
       "onboard_time": 1690973736,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 178312,
+      "num": 178312,
+      "word": "虫子做成果冻你愿意吃吗",
+      "onboard_time": 1691304695,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -15705,22 +15833,6 @@
       "onboard_time": 1690990895,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140199,
-      "num": 1159695,
-      "word": "收到地震预警之后该怎么做",
-      "onboard_time": 1691300796,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139938,
-      "num": 164489,
-      "word": "火车站员工地震摇晃中拦停7趟火车",
-      "onboard_time": 1691303374,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139911,

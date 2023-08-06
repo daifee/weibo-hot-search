@@ -1,0 +1,410 @@
+{
+  "runTime": 1691306072548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1599700,
+        "num": 1599700,
+        "word": "易烊千玺同乘舞台首唱是王传君",
+        "onboard_time": 1691303075,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1332320,
+        "num": 1332320,
+        "word": "苹果地震预警",
+        "onboard_time": 1691286343,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 181548,
+        "num": 1153340,
+        "word": "收到地震预警之后该怎么做",
+        "onboard_time": 1691300796,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131198,
+        "num": 1131198,
+        "word": "TFBOYS演唱会歌单",
+        "onboard_time": 1691304214,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 963891,
+        "num": 963891,
+        "word": "江苏人的身份证",
+        "onboard_time": 1691300078,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 885173,
+        "num": 885173,
+        "word": "中药奶茶",
+        "onboard_time": 1691304214,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 750571,
+        "num": 750571,
+        "word": "年轻人为什么不爱吃零食了",
+        "onboard_time": 1691300676,
+        "rank": 6,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 695614,
+        "num": 695614,
+        "word": "内娱不可复制的成功",
+        "onboard_time": 1691290236,
+        "rank": 7,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 677973,
+        "num": 677973,
+        "word": "TFBOYS从场馆里出来看粉丝",
+        "onboard_time": 1691286702,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 510923,
+        "num": 668390,
+        "word": "山东地震",
+        "onboard_time": 1691260773,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1905974,
+        "num": 640920,
+        "word": "李敏镐肿了",
+        "onboard_time": 1691298758,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1228503,
+        "num": 619115,
+        "word": "TFBOYS电话",
+        "onboard_time": 1691297557,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 882295,
+        "num": 595615,
+        "word": "是今天晚安不是明年见",
+        "onboard_time": 1691299654,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 712035,
+        "num": 576998,
+        "word": "黄锐拿到票了",
+        "onboard_time": 1691295940,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 700451,
+        "num": 536673,
+        "word": "当中年领导用上了Air Pods",
+        "onboard_time": 1691302714,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 532456,
+        "num": 532456,
+        "word": "韩国女高中生去小区理发店烫刘海",
+        "onboard_time": 1691297741,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418645,
+        "num": 418645,
+        "word": "孤注一掷票房",
+        "onboard_time": 1691299237,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392306,
+        "num": 392306,
+        "word": "长相思受众有多广",
+        "onboard_time": 1691301396,
+        "rank": 17,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 388437,
+        "num": 388437,
+        "word": "8岁女孩视力仅0.05手术后一句话令人泪目",
+        "onboard_time": 1691286460,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315029,
+        "num": 315029,
+        "word": "火车站员工地震摇晃中拦停7趟火车",
+        "onboard_time": 1691303374,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431611,
+        "num": 313150,
+        "word": "王一博王俊凯龚俊今日营业照",
+        "onboard_time": 1691303972,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398045,
+        "num": 312819,
+        "word": "易烊千玺彩排图",
+        "onboard_time": 1691304034,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324470,
+        "num": 312216,
+        "word": "当你在卧室玩手机时",
+        "onboard_time": 1691301098,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308510,
+        "num": 308510,
+        "word": "山东地震为何震感传得这么远",
+        "onboard_time": 1691292938,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291967,
+        "num": 291967,
+        "word": "地震时夫妻同时惊醒护住宝宝",
+        "onboard_time": 1691295036,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367970,
+        "num": 288898,
+        "word": "封神第一部票房破16亿",
+        "onboard_time": 1691298220,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360770,
+        "num": 283529,
+        "word": "孤注一掷点映排片",
+        "onboard_time": 1691302236,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276759,
+        "num": 276759,
+        "word": "海贼王",
+        "onboard_time": 1691284902,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 359853,
+        "num": 274481,
+        "word": "王一博包场孤注一掷",
+        "onboard_time": 1691305236,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248930,
+        "num": 248930,
+        "word": "牺牲消防员墓前摆了他生前爱吃的棒棒糖",
+        "onboard_time": 1691304273,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389620,
+        "num": 248384,
+        "word": "发现这个律师眼里已经没有光",
+        "onboard_time": 1691304455,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344848,
+        "num": 247365,
+        "word": "檀健次相柳爆没爆",
+        "onboard_time": 1691295097,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322530,
+        "num": 246972,
+        "word": "迪丽热巴鞋底掉了",
+        "onboard_time": 1691295816,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313739,
+        "num": 245763,
+        "word": "陈晓谭松韵李斯丹妮出发驰援黑龙江",
+        "onboard_time": 1691290959,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268901,
+        "num": 245622,
+        "word": "奶奶 185痞帅体育生咱稳稳拿下",
+        "onboard_time": 1691305415,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281554,
+        "num": 244393,
+        "word": "张晚意想演甜剧结果接了长相思",
+        "onboard_time": 1691305594,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271331,
+        "num": 243589,
+        "word": "TFBOYS演唱会场馆外围已人山人海",
+        "onboard_time": 1691305714,
+        "rank": 36,
+        "category": "音乐,社会新闻"
+      },
+      {
+        "raw_hot": 266607,
+        "num": 243081,
+        "word": "林娜琏对自己爱豆能力值的评价",
+        "onboard_time": 1691305654,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242497,
+        "num": 242497,
+        "word": "手机信号显示24小时1.7万人逆行进涿州",
+        "onboard_time": 1691296476,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240890,
+        "num": 240890,
+        "word": "地震瞬间丈夫先安抚妻子后抱孩子撤离",
+        "onboard_time": 1691290115,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262225,
+        "num": 239363,
+        "word": "王俊凯王源易烊千玺今日开屏",
+        "onboard_time": 1691305356,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246562,
+        "num": 237013,
+        "word": "吉克隽逸腹沟",
+        "onboard_time": 1691294260,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233809,
+        "num": 233809,
+        "word": "今天是女团宋茜",
+        "onboard_time": 1691300676,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189134,
+        "num": 232390,
+        "word": "猫咪被地震吓得口吐白沫",
+        "onboard_time": 1691293836,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232352,
+        "num": 232352,
+        "word": "相柳电话能打通",
+        "onboard_time": 1691305054,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224318,
+        "num": 224318,
+        "word": "林俊杰驰援黑龙江",
+        "onboard_time": 1691295457,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185426,
+        "num": 185426,
+        "word": "男子被困玉米地几天获救哭成泪人",
+        "onboard_time": 1691295639,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179095,
+        "num": 179095,
+        "word": "山东地震21人受伤",
+        "onboard_time": 1691277508,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178312,
+        "num": 178312,
+        "word": "虫子做成果冻你愿意吃吗",
+        "onboard_time": 1691304695,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170423,
+        "num": 170423,
+        "word": "在郑州某座桥下",
+        "onboard_time": 1691297674,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#风雨同心人民至上#"
+    }
+  }
+}
