@@ -1,0 +1,410 @@
+{
+  "runTime": 1691313281784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4272369,
+        "num": 4272369,
+        "word": "TFBOYS演唱会进场",
+        "onboard_time": 1691309256,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1177532,
+        "num": 1177532,
+        "word": "六公主认证长相思是现象级爆剧",
+        "onboard_time": 1691308597,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93178,
+        "num": 885522,
+        "word": "地震来临时牢记生命三角法",
+        "onboard_time": 1691312136,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2270249,
+        "num": 873356,
+        "word": "TFBOYS曾说组合解散就重新一起出道",
+        "onboard_time": 1691311357,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 860968,
+        "num": 860968,
+        "word": "娇藏",
+        "onboard_time": 1691306794,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 832225,
+        "num": 832225,
+        "word": "苹果回应地震预警",
+        "onboard_time": 1691306135,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 767979,
+        "num": 767979,
+        "word": "武艺考试全科目零分",
+        "onboard_time": 1691306915,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620613,
+        "num": 620613,
+        "word": "苹果地震预警",
+        "onboard_time": 1691286343,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 562904,
+        "num": 562904,
+        "word": "当中年领导用上了Air Pods",
+        "onboard_time": 1691302714,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480857,
+        "num": 480857,
+        "word": "年轻人为什么不爱吃零食了",
+        "onboard_time": 1691300676,
+        "rank": 9,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 2214823,
+        "num": 480213,
+        "word": "TFBOYS彩排时眼圈泛红",
+        "onboard_time": 1691307758,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 713715,
+        "num": 479964,
+        "word": "李敏镐肿了",
+        "onboard_time": 1691298758,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479500,
+        "num": 479500,
+        "word": "痛苦的时候人甚至通过写来呼吸",
+        "onboard_time": 1691306313,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1942101,
+        "num": 460588,
+        "word": "王俊凯今天蓝发",
+        "onboard_time": 1691311777,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38203,
+        "num": 450309,
+        "word": "冰淇淋为什么口感柔软蓬松",
+        "onboard_time": 1691312438,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 508439,
+        "num": 429552,
+        "word": "罗志祥当姜涛演唱会嘉宾",
+        "onboard_time": 1691306794,
+        "rank": 15,
+        "category": "音乐,综艺"
+      },
+      {
+        "raw_hot": 614466,
+        "num": 392015,
+        "word": "TFBOYS演唱会场馆外围已人山人海",
+        "onboard_time": 1691305714,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379609,
+        "num": 379609,
+        "word": "S13资格赛",
+        "onboard_time": 1691310276,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259942,
+        "num": 363939,
+        "word": "老人敲击百万次后瓷盘出现一幅画",
+        "onboard_time": 1691306554,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259694,
+        "num": 359235,
+        "word": "五常市农田被淹水面连在一起",
+        "onboard_time": 1691311535,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878922,
+        "num": 328560,
+        "word": "易烊千玺手上戴的是粉水晶",
+        "onboard_time": 1691311357,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 796620,
+        "num": 318086,
+        "word": "金晨抽烟镜头",
+        "onboard_time": 1691309674,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305106,
+        "num": 305106,
+        "word": "发现这个律师眼里已经没有光",
+        "onboard_time": 1691304455,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261924,
+        "num": 261924,
+        "word": "韩国女高中生去小区理发店烫刘海",
+        "onboard_time": 1691297741,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258999,
+        "num": 258999,
+        "word": "山东地震",
+        "onboard_time": 1691260773,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382868,
+        "num": 256075,
+        "word": "孤注一掷点映排片",
+        "onboard_time": 1691302236,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372506,
+        "num": 251575,
+        "word": "郑国霖评价杨紫",
+        "onboard_time": 1691309074,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359068,
+        "num": 247652,
+        "word": "肖战变装视频是月下舞剑",
+        "onboard_time": 1691312919,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232247,
+        "num": 232247,
+        "word": "中药奶茶",
+        "onboard_time": 1691304214,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 231163,
+        "num": 231163,
+        "word": "中国选手将球拍借给无拍可用的对手",
+        "onboard_time": 1691309437,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 356220,
+        "num": 230648,
+        "word": "桃花坞的文案到底是谁在写啊",
+        "onboard_time": 1691312502,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338407,
+        "num": 228907,
+        "word": "小夭相柳偷偷藏不住",
+        "onboard_time": 1691311176,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335583,
+        "num": 226848,
+        "word": "孙怡一把推出王传君",
+        "onboard_time": 1691312198,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309712,
+        "num": 224575,
+        "word": "爸爸当家",
+        "onboard_time": 1691309615,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280549,
+        "num": 220772,
+        "word": "夭柳的海外人气是nextlevel",
+        "onboard_time": 1691312857,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254149,
+        "num": 219307,
+        "word": "张晚意第三部古偶",
+        "onboard_time": 1691312857,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218569,
+        "num": 218569,
+        "word": "8岁女孩视力仅0.05手术后一句话令人泪目",
+        "onboard_time": 1691286460,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201604,
+        "num": 201604,
+        "word": "奶奶 185痞帅体育生咱稳稳拿下",
+        "onboard_time": 1691305415,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191813,
+        "num": 201338,
+        "word": "在海边时突然中二病发作",
+        "onboard_time": 1691307574,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 166211,
+        "num": 200989,
+        "word": "江苏人的身份证",
+        "onboard_time": 1691300078,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249535,
+        "num": 199957,
+        "word": "吴京从此以后又多了一个身份",
+        "onboard_time": 1691307455,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244286,
+        "num": 199458,
+        "word": "封神第一部票房破16亿",
+        "onboard_time": 1691298220,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238012,
+        "num": 199121,
+        "word": "王一博王俊凯龚俊今日营业照",
+        "onboard_time": 1691303972,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229752,
+        "num": 198825,
+        "word": "贾乃亮3万份自热锅米饭驰援黑龙江",
+        "onboard_time": 1691307095,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229321,
+        "num": 197819,
+        "word": "张艺兴首映现场成功反击王传君",
+        "onboard_time": 1691308176,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197730,
+        "num": 197730,
+        "word": "方多病你别丢下李莲花",
+        "onboard_time": 1691312015,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161291,
+        "num": 196965,
+        "word": "地震时夫妻同时惊醒护住宝宝",
+        "onboard_time": 1691295036,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161278,
+        "num": 195628,
+        "word": "管水母",
+        "onboard_time": 1691306794,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159545,
+        "num": 194605,
+        "word": "玉玲珑是苏妲己吧",
+        "onboard_time": 1691306915,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143530,
+        "num": 192747,
+        "word": "山东地震为何震感传得这么远",
+        "onboard_time": 1691292938,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第一个上太空演奏的中国传统乐器#"
+    }
+  }
+}

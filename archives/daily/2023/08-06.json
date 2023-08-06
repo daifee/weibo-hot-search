@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691310838893,
+  "endTime": 1691313281784,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -41,6 +41,14 @@
       "onboard_time": 1691262816,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4272369,
+      "num": 4272369,
+      "word": "TFBOYS演唱会进场",
+      "onboard_time": 1691309256,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 4108482,
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2270249,
+      "num": 873356,
+      "word": "TFBOYS曾说组合解散就重新一起出道",
+      "onboard_time": 1691311357,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2137880,
       "num": 2137880,
       "word": "地震快讯",
@@ -161,6 +177,14 @@
       "onboard_time": 1691297557,
       "rank": 3,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1942101,
+      "num": 460588,
+      "word": "王俊凯今天蓝发",
+      "onboard_time": 1691311777,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1940638,
@@ -208,14 +232,6 @@
       "word": "王俊凯王源易烊千玺同台比心",
       "onboard_time": 1691282021,
       "rank": 4,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 1534931,
-      "num": 1534931,
-      "word": "TFBOYS演唱会进场",
-      "onboard_time": 1691309256,
-      "rank": 11,
       "category": "音乐"
     },
     {
@@ -307,6 +323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1177532,
+      "num": 1177532,
+      "word": "六公主认证长相思是现象级爆剧",
+      "onboard_time": 1691308597,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1158562,
       "num": 1158562,
       "word": "全红婵世界杯总决赛银牌",
@@ -395,14 +419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1005499,
-      "num": 1005499,
-      "word": "六公主认证长相思是现象级爆剧",
-      "onboard_time": 1691308597,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1001395,
       "num": 800481,
       "word": "吉克隽逸腹沟",
@@ -483,8 +499,16 @@
       "category": "音乐,社会新闻"
     },
     {
+      "raw_hot": 878922,
+      "num": 328560,
+      "word": "易烊千玺手上戴的是粉水晶",
+      "onboard_time": 1691311357,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 855292,
-      "num": 299788,
+      "num": 318086,
       "word": "金晨抽烟镜头",
       "onboard_time": 1691309674,
       "rank": 25,
@@ -1147,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379609,
+      "num": 379609,
+      "word": "S13资格赛",
+      "onboard_time": 1691310276,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 378468,
       "num": 378468,
       "word": "光与夜之恋",
@@ -1203,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 359068,
+      "num": 247652,
+      "word": "肖战变装视频是月下舞剑",
+      "onboard_time": 1691312919,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 357264,
       "num": 357264,
       "word": "洪水冲来2条狗女子领回精心饲养",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1691237620,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356220,
+      "num": 230648,
+      "word": "桃花坞的文案到底是谁在写啊",
+      "onboard_time": 1691312502,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 355579,
@@ -1267,12 +1315,28 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 338407,
+      "num": 228907,
+      "word": "小夭相柳偷偷藏不住",
+      "onboard_time": 1691311176,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336997,
       "num": 332818,
       "word": "时代峰峻回应时团没有代表作",
       "onboard_time": 1691243809,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335583,
+      "num": 226848,
+      "word": "孙怡一把推出王传君",
+      "onboard_time": 1691312198,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 334592,
@@ -1364,7 +1428,7 @@
     },
     {
       "raw_hot": 302906,
-      "num": 182218,
+      "num": 197819,
       "word": "张艺兴首映现场成功反击王传君",
       "onboard_time": 1691308176,
       "rank": 42,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1691301215,
       "rank": 40,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 280549,
+      "num": 220772,
+      "word": "夭柳的海外人气是nextlevel",
+      "onboard_time": 1691312857,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 279236,
@@ -1491,6 +1563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259942,
+      "num": 363939,
+      "word": "老人敲击百万次后瓷盘出现一幅画",
+      "onboard_time": 1691306554,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259694,
+      "num": 359235,
+      "word": "五常市农田被淹水面连在一起",
+      "onboard_time": 1691311535,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258082,
       "num": 258082,
       "word": "陈芋汐世界杯总决赛夺冠",
@@ -1504,6 +1592,14 @@
       "word": "七时吉祥虎猪彩云海报",
       "onboard_time": 1691290115,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 254149,
+      "num": 219307,
+      "word": "张晚意第三部古偶",
+      "onboard_time": 1691312857,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1595,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231163,
+      "num": 231163,
+      "word": "中国选手将球拍借给无拍可用的对手",
+      "onboard_time": 1691309437,
+      "rank": 46,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 224452,
       "num": 195508,
       "word": "异人之下只有冯宝宝一个i人",
@@ -1633,22 +1737,6 @@
       "onboard_time": 1691296057,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218808,
-      "num": 218808,
-      "word": "老人敲击百万次后瓷盘出现一幅画",
-      "onboard_time": 1691306554,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213652,
-      "num": 213652,
-      "word": "S13资格赛",
-      "onboard_time": 1691310276,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 210659,
@@ -1697,6 +1785,14 @@
       "onboard_time": 1691294739,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197730,
+      "num": 197730,
+      "word": "方多病你别丢下李莲花",
+      "onboard_time": 1691312015,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 197392,
@@ -1777,14 +1873,6 @@
       "onboard_time": 1691248968,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 179345,
-      "num": 179345,
-      "word": "中国选手将球拍借给无拍可用的对手",
-      "onboard_time": 1691309437,
-      "rank": 46,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 178312,
@@ -1939,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93178,
+      "num": 885522,
+      "word": "地震来临时牢记生命三角法",
+      "onboard_time": 1691312136,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89478,
       "num": 1151091,
       "word": "CCTV国家公园",
@@ -1961,6 +2057,14 @@
       "onboard_time": 1691272997,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 38203,
+      "num": 450309,
+      "word": "冰淇淋为什么口感柔软蓬松",
+      "onboard_time": 1691312438,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 33645,
