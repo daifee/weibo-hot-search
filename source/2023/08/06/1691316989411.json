@@ -1,0 +1,410 @@
+{
+  "runTime": 1691316989411,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2958721,
+        "num": 2958721,
+        "word": "TFBOYS曾说组合解散就重新一起出道",
+        "onboard_time": 1691311357,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292118,
+        "num": 2495120,
+        "word": "中国选手将球拍借给无拍可用的对手",
+        "onboard_time": 1691309437,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 171371,
+        "num": 2280671,
+        "word": "地震来临时牢记生命三角法",
+        "onboard_time": 1691312136,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2159829,
+        "num": 2159829,
+        "word": "TFBOYS彩排时眼圈泛红",
+        "onboard_time": 1691307758,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236022,
+        "num": 1194908,
+        "word": "老人敲击百万次后瓷盘出现一幅画",
+        "onboard_time": 1691306554,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084635,
+        "num": 1084635,
+        "word": "网传郑州大学一领导要求员工无偿加班还威胁降薪",
+        "onboard_time": 1691314781,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1013579,
+        "num": 1013579,
+        "word": "桃花坞的文案到底是谁在写啊",
+        "onboard_time": 1691312502,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 892667,
+        "num": 892667,
+        "word": "肖战变装视频是月下舞剑",
+        "onboard_time": 1691312919,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 865762,
+        "num": 865762,
+        "word": "六公主认证长相思是现象级爆剧",
+        "onboard_time": 1691308597,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 603417,
+        "num": 603417,
+        "word": "LNG对战EDG",
+        "onboard_time": 1691315746,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2075198,
+        "num": 579125,
+        "word": "TFBOYS你们不是能站一起吗",
+        "onboard_time": 1691315078,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1983776,
+        "num": 574996,
+        "word": "让一让李飞来了",
+        "onboard_time": 1691314361,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129223,
+        "num": 529689,
+        "word": "救援队女队员瞒着家人千里驰援涿州",
+        "onboard_time": 1691316220,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1736312,
+        "num": 503843,
+        "word": "TFBOYS这些年你们装什么啊",
+        "onboard_time": 1691315078,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498544,
+        "num": 498544,
+        "word": "meiko",
+        "onboard_time": 1691313998,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 496066,
+        "num": 496066,
+        "word": "苹果回应地震预警",
+        "onboard_time": 1691306135,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1469319,
+        "num": 493829,
+        "word": "王俊凯今天蓝发",
+        "onboard_time": 1691311777,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 484224,
+        "num": 484224,
+        "word": "要离职的人状态真的很不一样",
+        "onboard_time": 1691314660,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 406691,
+        "num": 406691,
+        "word": "当中年领导用上了Air Pods",
+        "onboard_time": 1691302714,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1320946,
+        "num": 402841,
+        "word": "易烊千玺手上戴的是粉水晶",
+        "onboard_time": 1691311357,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 676291,
+        "num": 390653,
+        "word": "孤注一掷",
+        "onboard_time": 1691313521,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 629028,
+        "num": 384262,
+        "word": "高铁上的大叔被女儿问尴尬了",
+        "onboard_time": 1691313701,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 538908,
+        "num": 380516,
+        "word": "杨紫檀健次认真设计走位",
+        "onboard_time": 1691314660,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373214,
+        "num": 373214,
+        "word": "大妈踩在丹霞地貌上疯狂拍照",
+        "onboard_time": 1691315678,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336919,
+        "num": 336919,
+        "word": "年轻人为什么不爱吃零食了",
+        "onboard_time": 1691300676,
+        "rank": 24,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 470889,
+        "num": 334440,
+        "word": "武艺考试全科目零分",
+        "onboard_time": 1691306915,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440764,
+        "num": 326816,
+        "word": "金晨抽烟镜头",
+        "onboard_time": 1691309674,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423946,
+        "num": 321030,
+        "word": "李莲花方多病彻底决裂",
+        "onboard_time": 1691314963,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409885,
+        "num": 320439,
+        "word": "李敏镐肿了",
+        "onboard_time": 1691298758,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151559,
+        "num": 311856,
+        "word": "地震时夫妻同时惊醒护住宝宝",
+        "onboard_time": 1691295036,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386319,
+        "num": 306974,
+        "word": "夭柳的海外人气是nextlevel",
+        "onboard_time": 1691312857,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340604,
+        "num": 302791,
+        "word": "孙怡一把推出王传君",
+        "onboard_time": 1691312198,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298918,
+        "num": 298918,
+        "word": "门票争夺战",
+        "onboard_time": 1691313701,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271779,
+        "num": 271779,
+        "word": "苹果地震预警",
+        "onboard_time": 1691286343,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 237588,
+        "num": 237588,
+        "word": "五常市农田被淹水面连在一起",
+        "onboard_time": 1691311535,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330148,
+        "num": 236247,
+        "word": "陈浚铭 全场最开心的人",
+        "onboard_time": 1691315020,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324781,
+        "num": 236003,
+        "word": "张晚意第三部古偶",
+        "onboard_time": 1691312857,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233622,
+        "num": 233622,
+        "word": "山东地震",
+        "onboard_time": 1691260773,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346353,
+        "num": 233543,
+        "word": "看Uzi还是TFBOYS",
+        "onboard_time": 1691316822,
+        "rank": 38,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 222402,
+        "num": 232572,
+        "word": "西安文旅的超级周末",
+        "onboard_time": 1691316581,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 303933,
+        "num": 231830,
+        "word": "孤注一掷点映排片",
+        "onboard_time": 1691302236,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296591,
+        "num": 231479,
+        "word": "迪丽热巴兑换任安乐flag",
+        "onboard_time": 1691316703,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272142,
+        "num": 231184,
+        "word": "殷寿说的是殷语",
+        "onboard_time": 1691314060,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230618,
+        "num": 230618,
+        "word": "小夭相柳偷偷藏不住",
+        "onboard_time": 1691311176,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226681,
+        "num": 226681,
+        "word": "吴京从此以后又多了一个身份",
+        "onboard_time": 1691307455,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200757,
+        "num": 225997,
+        "word": "奶奶 185痞帅体育生咱稳稳拿下",
+        "onboard_time": 1691305415,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181685,
+        "num": 222342,
+        "word": "孩子们去军事夏令营后",
+        "onboard_time": 1691316402,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178037,
+        "num": 218719,
+        "word": "太阳系老了110万岁",
+        "onboard_time": 1691316880,
+        "rank": 47,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 174085,
+        "num": 215169,
+        "word": "发现这个律师眼里已经没有光",
+        "onboard_time": 1691304455,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153588,
+        "num": 210170,
+        "word": "痛苦的时候人甚至通过写来呼吸",
+        "onboard_time": 1691306313,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#风雨同心人民至上#"
+    }
+  }
+}
