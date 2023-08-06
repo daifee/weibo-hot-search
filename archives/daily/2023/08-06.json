@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691291813536,
+  "endTime": 1691292830283,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -107,6 +107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2032292,
+      "num": 2032292,
+      "word": "TFBOYS从场馆里出来看粉丝",
+      "onboard_time": 1691286702,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2005131,
+      "num": 2005131,
+      "word": "内娱不可复制的成功",
+      "onboard_time": 1691290236,
+      "rank": 5,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1940638,
       "num": 1940638,
       "word": "石家庄震感",
@@ -121,14 +137,6 @@
       "onboard_time": 1691261446,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1754295,
-      "num": 1754295,
-      "word": "TFBOYS从场馆里出来看粉丝",
-      "onboard_time": 1691286702,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1661719,
@@ -187,6 +195,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1336072,
+      "num": 1336072,
+      "word": "陈晓谭松韵李斯丹妮出发驰援黑龙江",
+      "onboard_time": 1691290959,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1334936,
       "num": 1334936,
       "word": "日本男子吃白饭咸菜20年存467万",
@@ -217,14 +233,6 @@
       "onboard_time": 1691278773,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1163926,
-      "num": 1163926,
-      "word": "内娱不可复制的成功",
-      "onboard_time": 1691290236,
-      "rank": 5,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1158562,
@@ -281,6 +289,14 @@
       "onboard_time": 1691279432,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 996781,
+      "num": 758610,
+      "word": "沪签",
+      "onboard_time": 1691290837,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 995648,
@@ -377,14 +393,6 @@
       "onboard_time": 1691247883,
       "rank": 7,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 736131,
-      "num": 736131,
-      "word": "陈晓谭松韵李斯丹妮出发驰援黑龙江",
-      "onboard_time": 1691290959,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 735934,
@@ -555,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 514749,
+      "num": 514749,
+      "word": "官方辟谣地震云",
+      "onboard_time": 1691281360,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507407,
       "num": 507407,
       "word": "周也演技",
@@ -571,6 +587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 487298,
+      "num": 487298,
+      "word": "LOL12周年表演赛阵容",
+      "onboard_time": 1691290300,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 486739,
       "num": 486739,
       "word": "王鹤棣再次错过迪丽热巴",
@@ -579,8 +603,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 471177,
-      "num": 471177,
+      "raw_hot": 481495,
+      "num": 481495,
       "word": "地震瞬间丈夫先安抚妻子后抱孩子撤离",
       "onboard_time": 1691290115,
       "rank": 15,
@@ -603,28 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 445793,
-      "num": 445793,
-      "word": "沪签",
-      "onboard_time": 1691290837,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441605,
       "num": 441605,
       "word": "已记录到余震56次",
       "onboard_time": 1691278652,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 434628,
-      "num": 434628,
-      "word": "LOL12周年表演赛阵容",
-      "onboard_time": 1691290300,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 428872,
@@ -651,12 +659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418026,
+      "num": 418026,
+      "word": "赵樱子新剧当老板娘",
+      "onboard_time": 1691291618,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417250,
       "num": 417250,
       "word": "陈牧驰一个人撑起一场直播",
       "onboard_time": 1691283398,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 403974,
+      "num": 403974,
+      "word": "时代峰峻19年VS23年",
+      "onboard_time": 1691289938,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 403688,
@@ -673,14 +697,6 @@
       "onboard_time": 1691240446,
       "rank": 29,
       "category": "美妆,幽默"
-    },
-    {
-      "raw_hot": 400213,
-      "num": 400213,
-      "word": "时代峰峻19年VS23年",
-      "onboard_time": 1691289938,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 395001,
@@ -883,20 +899,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278752,
+      "num": 278752,
+      "word": "当事人回应地震时老公折回搂自己避险",
+      "onboard_time": 1691291501,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274155,
       "num": 274155,
       "word": "山东德州消防救援支队已前往震中救援",
       "onboard_time": 1691277808,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273399,
-      "num": 273399,
-      "word": "赵樱子新剧当老板娘",
-      "onboard_time": 1691291618,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 260411,
@@ -921,6 +937,14 @@
       "onboard_time": 1691290115,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254629,
+      "num": 254629,
+      "word": "要不你们还是回去继承家产吧",
+      "onboard_time": 1691292760,
+      "rank": 40,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 254095,
@@ -1003,14 +1027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225641,
-      "num": 225641,
-      "word": "当事人回应地震时老公折回搂自己避险",
-      "onboard_time": 1691291501,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224452,
       "num": 195508,
       "word": "异人之下只有冯宝宝一个i人",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1691267298,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201399,
+      "num": 201399,
+      "word": "罗云熙英雄联盟国风代言人",
+      "onboard_time": 1691292218,
+      "rank": 47,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 197392,
@@ -1179,20 +1203,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132034,
+      "num": 407302,
+      "word": "酱油冰淇淋能有多上头",
+      "onboard_time": 1691290717,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 127706,
       "num": 246413,
       "word": "福宝自己戴发箍",
       "onboard_time": 1691235997,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127345,
-      "num": 407302,
-      "word": "酱油冰淇淋能有多上头",
-      "onboard_time": 1691290717,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 126425,
