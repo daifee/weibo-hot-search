@@ -1,0 +1,410 @@
+{
+  "runTime": 1691320416955,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14291317,
+        "num": 14291317,
+        "word": "TFBOYS官博急了",
+        "onboard_time": 1691319525,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 422710,
+        "num": 5203840,
+        "word": "中国选手将球拍借给无拍可用的对手",
+        "onboard_time": 1691309437,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 135951,
+        "num": 4574480,
+        "word": "地震来临时牢记生命三角法",
+        "onboard_time": 1691312136,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6298345,
+        "num": 3224608,
+        "word": "TFBOYS十年之约演唱会",
+        "onboard_time": 1691320248,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292371,
+        "num": 1576782,
+        "word": "地震发生他们的选择不是跑",
+        "onboard_time": 1691318684,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955568,
+        "num": 955568,
+        "word": "大妈踩在丹霞地貌上疯狂拍照",
+        "onboard_time": 1691315678,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268884,
+        "num": 790239,
+        "word": "老人敲击百万次后瓷盘出现一幅画",
+        "onboard_time": 1691306554,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747432,
+        "num": 747432,
+        "word": "要离职的人状态真的很不一样",
+        "onboard_time": 1691314660,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 663767,
+        "num": 663767,
+        "word": "桃花坞的文案到底是谁在写啊",
+        "onboard_time": 1691312502,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1036820,
+        "num": 655683,
+        "word": "网传郑州大学一领导要求员工无偿加班还威胁降薪",
+        "onboard_time": 1691314781,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2923265,
+        "num": 641579,
+        "word": "优酷客服回应网友有偿共享TFBOYS直播",
+        "onboard_time": 1691318020,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1602789,
+        "num": 631739,
+        "word": "让一让李飞来了",
+        "onboard_time": 1691314361,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2525417,
+        "num": 615354,
+        "word": "TFBOYS你们不是能站一起吗",
+        "onboard_time": 1691315078,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1508678,
+        "num": 599937,
+        "word": "腾讯会议",
+        "onboard_time": 1691317001,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 754677,
+        "num": 595956,
+        "word": "王俊凯今天蓝发",
+        "onboard_time": 1691311777,
+        "rank": 14,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 706400,
+        "num": 578892,
+        "word": "易烊千玺手上戴的是粉水晶",
+        "onboard_time": 1691311357,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 691976,
+        "num": 572311,
+        "word": "人在家心在西安",
+        "onboard_time": 1691318565,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 560861,
+        "num": 560861,
+        "word": "六公主认证长相思是现象级爆剧",
+        "onboard_time": 1691308597,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477812,
+        "num": 477812,
+        "word": "西安文旅的超级周末",
+        "onboard_time": 1691316581,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 425060,
+        "num": 425060,
+        "word": "山西吕梁重大刑事案件嫌犯被抓",
+        "onboard_time": 1691318201,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524399,
+        "num": 420959,
+        "word": "孤注一掷",
+        "onboard_time": 1691313521,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1903260,
+        "num": 419980,
+        "word": "TFBOYS曾说组合解散就重新一起出道",
+        "onboard_time": 1691311357,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 468978,
+        "num": 419883,
+        "word": "高铁上的大叔被女儿问尴尬了",
+        "onboard_time": 1691313701,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412290,
+        "num": 412290,
+        "word": "LNG对战EDG",
+        "onboard_time": 1691315746,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351121,
+        "num": 351121,
+        "word": "苹果回应地震预警",
+        "onboard_time": 1691306135,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 438366,
+        "num": 346661,
+        "word": "肖战变装视频是月下舞剑",
+        "onboard_time": 1691312919,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394448,
+        "num": 341799,
+        "word": "杨紫檀健次认真设计走位",
+        "onboard_time": 1691314660,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375724,
+        "num": 339113,
+        "word": "李莲花方多病彻底决裂",
+        "onboard_time": 1691314963,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335459,
+        "num": 335459,
+        "word": "四川村民捡到2米长完整蛇蜕",
+        "onboard_time": 1691317843,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335265,
+        "num": 335265,
+        "word": "kt",
+        "onboard_time": 1691317061,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 356506,
+        "num": 326057,
+        "word": "金晨抽烟镜头",
+        "onboard_time": 1691309674,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343247,
+        "num": 323142,
+        "word": "他们仨都笑了",
+        "onboard_time": 1691320373,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313325,
+        "num": 313325,
+        "word": "迪丽热巴兑换任安乐flag",
+        "onboard_time": 1691316703,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296060,
+        "num": 296060,
+        "word": "地震导致的次声波真的会跟人体器官共振",
+        "onboard_time": 1691318863,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277934,
+        "num": 277934,
+        "word": "李敏镐肿了",
+        "onboard_time": 1691298758,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271146,
+        "num": 271146,
+        "word": "夭柳的海外人气是nextlevel",
+        "onboard_time": 1691312857,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262174,
+        "num": 262174,
+        "word": "meiko",
+        "onboard_time": 1691313998,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226481,
+        "num": 226481,
+        "word": "有人看乐子 有人照镜子",
+        "onboard_time": 1691319586,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221885,
+        "num": 221885,
+        "word": "奶奶 185痞帅体育生咱稳稳拿下",
+        "onboard_time": 1691305415,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214618,
+        "num": 214618,
+        "word": "太阳系老了110万岁",
+        "onboard_time": 1691316880,
+        "rank": 39,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 265414,
+        "num": 214616,
+        "word": "安乐传彩蛋",
+        "onboard_time": 1691320008,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245246,
+        "num": 214614,
+        "word": "孤注一掷点映排片",
+        "onboard_time": 1691302236,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229694,
+        "num": 214611,
+        "word": "安居乐烨大婚",
+        "onboard_time": 1691319771,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217023,
+        "num": 214610,
+        "word": "张晚意第三部古偶",
+        "onboard_time": 1691312857,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202903,
+        "num": 214607,
+        "word": "陈浚铭 全场最开心的人",
+        "onboard_time": 1691315020,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198609,
+        "num": 214605,
+        "word": "安乐传",
+        "onboard_time": 1691319887,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196635,
+        "num": 214604,
+        "word": "旭旭宝宝",
+        "onboard_time": 1691319708,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169900,
+        "num": 214602,
+        "word": "当中年领导用上了Air Pods",
+        "onboard_time": 1691302714,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167395,
+        "num": 214598,
+        "word": "年轻人为什么不爱吃零食了",
+        "onboard_time": 1691300676,
+        "rank": 48,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 136515,
+        "num": 214596,
+        "word": "当父母要用我的手机时",
+        "onboard_time": 1691320373,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#风雨同心人民至上#"
+    }
+  }
+}

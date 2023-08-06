@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691318036611,
+  "endTime": 1691320416955,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -9,6 +9,14 @@
       "onboard_time": 1691260773,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14291317,
+      "num": 14291317,
+      "word": "TFBOYS官博急了",
+      "onboard_time": 1691319525,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 11063759,
@@ -33,6 +41,14 @@
       "onboard_time": 1691261079,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6298345,
+      "num": 3224608,
+      "word": "TFBOYS十年之约演唱会",
+      "onboard_time": 1691276845,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 4983871,
@@ -105,6 +121,14 @@
       "onboard_time": 1691295940,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2923265,
+      "num": 641579,
+      "word": "优酷客服回应网友有偿共享TFBOYS直播",
+      "onboard_time": 1691318020,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2868630,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 1942101,
-      "num": 493829,
+      "num": 595956,
       "word": "王俊凯今天蓝发",
       "onboard_time": 1691311777,
       "rank": 13,
@@ -259,20 +283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1596490,
-      "num": 592246,
-      "word": "优酷客服回应网友有偿共享TFBOYS直播",
-      "onboard_time": 1691318020,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1590431,
       "num": 1590431,
       "word": "王俊凯王源易烊千玺同台比心",
       "onboard_time": 1691282021,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1508678,
+      "num": 599937,
+      "word": "腾讯会议",
+      "onboard_time": 1691317001,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 1466366,
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 1320946,
-      "num": 418156,
+      "num": 578892,
       "word": "易烊千玺手上戴的是粉水晶",
       "onboard_time": 1691311357,
       "rank": 20,
@@ -507,14 +531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 985539,
-      "num": 408852,
-      "word": "腾讯会议",
-      "onboard_time": 1691317001,
-      "rank": 23,
-      "category": "科技"
-    },
-    {
       "raw_hot": 973419,
       "num": 867416,
       "word": "薛之谦祝TFBOYS演唱会圆满成功",
@@ -537,6 +553,14 @@
       "onboard_time": 1691312919,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 955568,
+      "num": 955568,
+      "word": "大妈踩在丹霞地貌上疯狂拍照",
+      "onboard_time": 1691315678,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 912483,
@@ -593,14 +617,6 @@
       "onboard_time": 1691309674,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 854525,
-      "num": 854525,
-      "word": "TFBOYS十年之约演唱会",
-      "onboard_time": 1691276845,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 799388,
@@ -691,6 +707,14 @@
       "category": "美食,情感"
     },
     {
+      "raw_hot": 747432,
+      "num": 747432,
+      "word": "要离职的人状态真的很不一样",
+      "onboard_time": 1691314660,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 735934,
       "num": 425638,
       "word": "女子买3张卧铺带4娃乘车被要求补票",
@@ -723,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 719626,
-      "num": 719626,
-      "word": "大妈踩在丹霞地貌上疯狂拍照",
-      "onboard_time": 1691315678,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 702365,
       "num": 702365,
       "word": "救援队员返乡后哭诉再也不想参与",
@@ -739,12 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 678933,
-      "num": 678933,
-      "word": "要离职的人状态真的很不一样",
-      "onboard_time": 1691314660,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 691976,
+      "num": 572311,
+      "word": "人在家心在西安",
+      "onboard_time": 1691318565,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 659385,
@@ -772,7 +788,7 @@
     },
     {
       "raw_hot": 640414,
-      "num": 415399,
+      "num": 419883,
       "word": "高铁上的大叔被女儿问尴尬了",
       "onboard_time": 1691313701,
       "rank": 30,
@@ -1155,6 +1171,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425060,
+      "num": 425060,
+      "word": "山西吕梁重大刑事案件嫌犯被抓",
+      "onboard_time": 1691318201,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422710,
+      "num": 5203840,
+      "word": "中国选手将球拍借给无拍可用的对手",
+      "onboard_time": 1691309437,
+      "rank": 46,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 420922,
       "num": 420922,
       "word": "时代峰峻负责人称对TFBOYS有遗憾",
@@ -1339,14 +1371,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 371555,
-      "num": 2495120,
-      "word": "中国选手将球拍借给无拍可用的对手",
-      "onboard_time": 1691309437,
-      "rank": 46,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 368576,
       "num": 492604,
       "word": "火车站员工地震摇晃中拦停7趟火车",
@@ -1452,7 +1476,7 @@
     },
     {
       "raw_hot": 349533,
-      "num": 260289,
+      "num": 313325,
       "word": "迪丽热巴兑换任安乐flag",
       "onboard_time": 1691316703,
       "rank": 41,
@@ -1483,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343247,
+      "num": 323142,
+      "word": "他们仨都笑了",
+      "onboard_time": 1691320373,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 338845,
       "num": 266989,
       "word": "蒋依依节目中看到做过的高考题",
@@ -1505,6 +1537,22 @@
       "onboard_time": 1691243809,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335459,
+      "num": 335459,
+      "word": "四川村民捡到2米长完整蛇蜕",
+      "onboard_time": 1691317843,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335265,
+      "num": 335265,
+      "word": "kt",
+      "onboard_time": 1691317061,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 334592,
@@ -1643,6 +1691,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 296060,
+      "num": 296060,
+      "word": "地震导致的次声波真的会跟人体器官共振",
+      "onboard_time": 1691318863,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292371,
+      "num": 1576782,
+      "word": "地震发生他们的选择不是跑",
+      "onboard_time": 1691318684,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290270,
       "num": 249934,
       "word": "严浩翔被正式确诊为尔康",
@@ -1657,14 +1721,6 @@
       "onboard_time": 1691295639,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285855,
-      "num": 285855,
-      "word": "kt",
-      "onboard_time": 1691317061,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 285186,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1691305654,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265414,
+      "num": 214616,
+      "word": "安乐传彩蛋",
+      "onboard_time": 1691320008,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 263874,
@@ -1883,6 +1947,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229694,
+      "num": 214611,
+      "word": "安居乐烨大婚",
+      "onboard_time": 1691319771,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 226481,
+      "num": 226481,
+      "word": "有人看乐子 有人照镜子",
+      "onboard_time": 1691319586,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224452,
       "num": 195508,
       "word": "异人之下只有冯宝宝一个i人",
@@ -1923,6 +2003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214618,
+      "num": 218719,
+      "word": "太阳系老了110万岁",
+      "onboard_time": 1691316880,
+      "rank": 47,
+      "category": "自然"
+    },
+    {
       "raw_hot": 210703,
       "num": 210703,
       "word": "Ale单杀Scout",
@@ -1945,14 +2033,6 @@
       "onboard_time": 1691307574,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 209667,
-      "num": 218719,
-      "word": "太阳系老了110万岁",
-      "onboard_time": 1691316880,
-      "rank": 47,
-      "category": "自然"
     },
     {
       "raw_hot": 205198,
@@ -1987,12 +2067,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198609,
+      "num": 214605,
+      "word": "安乐传",
+      "onboard_time": 1691319887,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197392,
       "num": 197392,
       "word": "TFBOYS十周年",
       "onboard_time": 1691277508,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196635,
+      "num": 214604,
+      "word": "旭旭宝宝",
+      "onboard_time": 1691319708,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 196292,
@@ -2084,7 +2180,7 @@
     },
     {
       "raw_hot": 171371,
-      "num": 2280671,
+      "num": 4574480,
       "word": "地震来临时牢记生命三角法",
       "onboard_time": 1691312136,
       "rank": 2,
@@ -2104,14 +2200,6 @@
       "word": "大运会又一个显眼包出现了",
       "onboard_time": 1691242727,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152882,
-      "num": 209653,
-      "word": "四川村民捡到2米长完整蛇蜕",
-      "onboard_time": 1691317843,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2169,6 +2257,14 @@
       "onboard_time": 1691278049,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136515,
+      "num": 214596,
+      "word": "当父母要用我的手机时",
+      "onboard_time": 1691320373,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 135465,
