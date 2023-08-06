@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691357617488,
+  "endTime": 1691360084865,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -315,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207119,
+      "num": 72168,
+      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
+      "onboard_time": 1691356274,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196521,
       "num": 162560,
       "word": "不完美小孩",
@@ -435,20 +443,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126953,
-      "num": 52475,
-      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
-      "onboard_time": 1691356274,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 126298,
       "num": 817793,
       "word": "Scout拥抱JieJie",
       "onboard_time": 1691329401,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121787,
+      "num": 72165,
+      "word": "易烊千玺话筒",
+      "onboard_time": 1691359635,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 113895,
@@ -459,12 +467,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 109677,
+      "num": 109677,
+      "word": "钱塘江众多游客近距离观潮被卷入",
+      "onboard_time": 1691356754,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100496,
       "num": 817161,
       "word": "EDG",
       "onboard_time": 1691324220,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 78347,
+      "num": 72164,
+      "word": "有多少人走错过才会提醒得这么用心啊",
+      "onboard_time": 1691356693,
+      "rank": 30,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 72170,
+      "num": 72170,
+      "word": "安徽一高校录取通知书出现错字",
+      "onboard_time": 1691351354,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 46957,
@@ -483,12 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 38508,
-      "num": 52397,
-      "word": "安徽一高校录取通知书出现错字",
-      "onboard_time": 1691351354,
-      "rank": 34,
-      "category": "教育,社会新闻"
+      "raw_hot": 37559,
+      "num": 91085,
+      "word": "莲花楼杀我别用莲花刀",
+      "onboard_time": 1691351173,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 35327,
@@ -507,20 +539,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27897,
-      "num": 91085,
-      "word": "莲花楼杀我别用莲花刀",
-      "onboard_time": 1691351173,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 21710,
-      "num": 50582,
-      "word": "钱塘江众多游客近距离观潮被卷入",
-      "onboard_time": 1691356754,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 28654,
+      "num": 72159,
+      "word": "小企鹅们集体背着书包出来了",
+      "onboard_time": 1691356453,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 18031,

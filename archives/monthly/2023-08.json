@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691357617488,
+  "endTime": 1691360084865,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -12947,6 +12947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207119,
+      "num": 72168,
+      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
+      "onboard_time": 1691356274,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206972,
       "num": 206972,
       "word": "80后外卖员自学乐器3年上20次综艺",
@@ -15211,14 +15219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126953,
-      "num": 52475,
-      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
-      "onboard_time": 1691356274,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 126909,
       "num": 169157,
       "word": "恋与制作人",
@@ -15297,6 +15297,14 @@
       "onboard_time": 1690846108,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121787,
+      "num": 72165,
+      "word": "易烊千玺话筒",
+      "onboard_time": 1691359635,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 121481,
@@ -15448,6 +15456,14 @@
       "word": "暴雨洪涝后饮食安全指南",
       "onboard_time": 1691070455,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109677,
+      "num": 109677,
+      "word": "钱塘江众多游客近距离观潮被卷入",
+      "onboard_time": 1691356754,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -15779,6 +15795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78347,
+      "num": 72164,
+      "word": "有多少人走错过才会提醒得这么用心啊",
+      "onboard_time": 1691356693,
+      "rank": 30,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 76829,
       "num": 76829,
       "word": "爱吃折耳根和香菜的都沉默了",
@@ -15793,6 +15817,14 @@
       "onboard_time": 1691121759,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72170,
+      "num": 72170,
+      "word": "安徽一高校录取通知书出现错字",
+      "onboard_time": 1691351354,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 66957,
@@ -15947,12 +15979,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 38508,
-      "num": 52397,
-      "word": "安徽一高校录取通知书出现错字",
-      "onboard_time": 1691351354,
-      "rank": 34,
-      "category": "教育,社会新闻"
+      "raw_hot": 37559,
+      "num": 91085,
+      "word": "莲花楼杀我别用莲花刀",
+      "onboard_time": 1691351173,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 35367,
@@ -16043,19 +16075,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28654,
+      "num": 72159,
+      "word": "小企鹅们集体背着书包出来了",
+      "onboard_time": 1691356453,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27924,
       "num": 38856,
       "word": "这些剧里一帧一风景",
       "onboard_time": 1691003115,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 27897,
-      "num": 91085,
-      "word": "莲花楼杀我别用莲花刀",
-      "onboard_time": 1691351173,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -16105,14 +16137,6 @@
       "onboard_time": 1691172440,
       "rank": 40,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 21710,
-      "num": 50582,
-      "word": "钱塘江众多游客近距离观潮被卷入",
-      "onboard_time": 1691356754,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19762,
