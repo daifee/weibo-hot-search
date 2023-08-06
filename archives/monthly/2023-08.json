@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691354034007,
+  "endTime": 1691356401903,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -15755,6 +15755,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 82227,
+      "num": 52475,
+      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
+      "onboard_time": 1691356274,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 80528,
       "num": 96798,
       "word": "曾追过最久的明星",
@@ -15955,6 +15963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33236,
+      "num": 90976,
+      "word": "婚宴随完礼打包一桌菜",
+      "onboard_time": 1691352432,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31799,
       "num": 250608,
       "word": "淘宝斗地主大赛热度超过原神",
@@ -16019,14 +16035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28418,
-      "num": 90976,
-      "word": "婚宴随完礼打包一桌菜",
-      "onboard_time": 1691352432,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 27924,
       "num": 38856,
       "word": "这些剧里一帧一风景",
@@ -16041,6 +16049,14 @@
       "onboard_time": 1691351173,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27776,
+      "num": 52397,
+      "word": "安徽一高校录取通知书出现错字",
+      "onboard_time": 1691351354,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 27474,
@@ -16129,6 +16145,14 @@
       "onboard_time": 1690924032,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11503,
+      "num": 52269,
+      "word": "转学的小男孩被邀请回来参加毕业典礼",
+      "onboard_time": 1691356274,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

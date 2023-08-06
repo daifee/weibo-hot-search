@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691354034007,
+  "endTime": 1691356401903,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -459,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 82227,
+      "num": 52475,
+      "word": "徐峥陶虹带女儿看TFBOYS演唱会",
+      "onboard_time": 1691356274,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 46957,
       "num": 278537,
       "word": "RIIZE组合将不再是旷野世界观",
@@ -475,20 +483,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 33236,
+      "num": 90976,
+      "word": "婚宴随完礼打包一桌菜",
+      "onboard_time": 1691352432,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30034,
       "num": 162302,
       "word": "夏鸣星卡面",
       "onboard_time": 1691347517,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 28418,
-      "num": 90976,
-      "word": "婚宴随完礼打包一桌菜",
-      "onboard_time": 1691352432,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 27897,
@@ -499,12 +507,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27776,
+      "num": 52397,
+      "word": "安徽一高校录取通知书出现错字",
+      "onboard_time": 1691351354,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 18031,
       "num": 120315,
       "word": "乔治亚水族馆的海獭们",
       "onboard_time": 1691350394,
       "rank": 49,
       "category": "幽默,旅游"
+    },
+    {
+      "raw_hot": 11503,
+      "num": 52269,
+      "word": "转学的小男孩被邀请回来参加毕业典礼",
+      "onboard_time": 1691356274,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
