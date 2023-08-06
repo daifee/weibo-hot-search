@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691296428205,
+  "endTime": 1691298897641,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -75,6 +75,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 3005985,
+      "num": 3005985,
+      "word": "黄锐拿到票了",
+      "onboard_time": 1691295940,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2780722,
       "num": 2780722,
       "word": "地震云",
@@ -121,6 +129,14 @@
       "onboard_time": 1691286702,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2007592,
+      "num": 2007592,
+      "word": "TFBOYS电话",
+      "onboard_time": 1691297557,
+      "rank": 3,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1940638,
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1111553,
+      "num": 1111553,
+      "word": "檀健次相柳爆没爆",
+      "onboard_time": 1691295097,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1084109,
       "num": 485090,
       "word": "网购别再只看销量",
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 1001395,
-      "num": 766575,
+      "num": 800481,
       "word": "吉克隽逸腹沟",
       "onboard_time": 1691294260,
       "rank": 10,
@@ -305,14 +329,6 @@
       "onboard_time": 1691290837,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 995993,
-      "num": 995993,
-      "word": "黄锐拿到票了",
-      "onboard_time": 1691295940,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 995648,
@@ -427,8 +443,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731495,
+      "num": 419974,
+      "word": "迪丽热巴鞋底掉了",
+      "onboard_time": 1691295816,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 727917,
-      "num": 402195,
+      "num": 418564,
       "word": "山东地震为何震感传得这么远",
       "onboard_time": 1691292938,
       "rank": 20,
@@ -451,20 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 679312,
+      "num": 679312,
+      "word": "李敏镐肿了",
+      "onboard_time": 1691298758,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 675474,
+      "num": 340080,
+      "word": "韩国女高中生去小区理发店烫刘海",
+      "onboard_time": 1691297741,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 653204,
       "num": 653204,
       "word": "涿州",
       "onboard_time": 1691281837,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 645090,
-      "num": 645090,
-      "word": "檀健次相柳爆没爆",
-      "onboard_time": 1691295097,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 641608,
@@ -481,14 +513,6 @@
       "onboard_time": 1691292760,
       "rank": 40,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 613405,
-      "num": 402092,
-      "word": "迪丽热巴鞋底掉了",
-      "onboard_time": 1691295816,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 609227,
@@ -523,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593899,
+      "num": 593899,
+      "word": "贾樟柯也去看TFBOYS演唱会",
+      "onboard_time": 1691296117,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 581697,
       "num": 467491,
       "word": "王源脚脖子呢",
@@ -547,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 568745,
+      "num": 394187,
+      "word": "黄锐",
+      "onboard_time": 1691296117,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561224,
       "num": 561224,
       "word": "地震了",
@@ -561,6 +601,14 @@
       "onboard_time": 1691249920,
       "rank": 13,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 546710,
+      "num": 546710,
+      "word": "今晚四叶草是最开心的粉丝",
+      "onboard_time": 1691296360,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 535802,
@@ -593,6 +641,14 @@
       "onboard_time": 1691249505,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 521019,
+      "num": 654667,
+      "word": "K1178列车英雄班组每人奖励1万元",
+      "onboard_time": 1691294797,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518335,
@@ -683,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475079,
+      "num": 389164,
+      "word": "封神第一部票房破16亿",
+      "onboard_time": 1691298220,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467718,
       "num": 467718,
       "word": "TF三代将于明年暑假成团",
@@ -699,19 +763,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 449415,
-      "num": 401824,
-      "word": "贾樟柯也去看TFBOYS演唱会",
-      "onboard_time": 1691296117,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 441605,
       "num": 441605,
       "word": "已记录到余震56次",
       "onboard_time": 1691278652,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434748,
+      "num": 404363,
+      "word": "手机信号显示24小时1.7万人逆行进涿州",
+      "onboard_time": 1691296476,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -811,11 +875,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382398,
-      "num": 382398,
-      "word": "K1178列车英雄班组每人奖励1万元",
-      "onboard_time": 1691294797,
-      "rank": 38,
+      "raw_hot": 380893,
+      "num": 380893,
+      "word": "地震时夫妻同时惊醒护住宝宝",
+      "onboard_time": 1691295036,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -931,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 325136,
+      "num": 325136,
+      "word": "在郑州某座桥下",
+      "onboard_time": 1691297674,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 318392,
       "num": 250243,
       "word": "吴磊好小一只",
@@ -955,6 +1027,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 308800,
+      "num": 308800,
+      "word": "舞台2023青人vs创人",
+      "onboard_time": 1691296057,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306257,
       "num": 478805,
       "word": "茶颜悦色不支持点单取单两人同时排队",
@@ -971,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298443,
-      "num": 298443,
-      "word": "地震时夫妻同时惊醒护住宝宝",
-      "onboard_time": 1691295036,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296230,
       "num": 296230,
       "word": "手机地震预警怎么开",
@@ -993,6 +1065,14 @@
       "onboard_time": 1691235159,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288185,
+      "num": 288185,
+      "word": "男子被困玉米地几天获救哭成泪人",
+      "onboard_time": 1691295639,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282976,
@@ -1019,27 +1099,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277841,
-      "num": 277841,
-      "word": "黄锐",
-      "onboard_time": 1691296117,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274155,
       "num": 274155,
       "word": "山东德州消防救援支队已前往震中救援",
       "onboard_time": 1691277808,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271568,
-      "num": 271568,
-      "word": "男子被困玉米地几天获救哭成泪人",
-      "onboard_time": 1691295639,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1075,6 +1139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252061,
+      "num": 252061,
+      "word": "封神于适黄曦彦上你好星期六剧宣",
+      "onboard_time": 1691298638,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250597,
       "num": 250597,
       "word": "多条铁路线因地震停运",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1691245307,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247416,
+      "num": 247416,
+      "word": "黑龙江洪水",
+      "onboard_time": 1691297140,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246448,
@@ -1179,14 +1259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218324,
-      "num": 218324,
-      "word": "舞台2023青人vs创人",
-      "onboard_time": 1691296057,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205198,
       "num": 205198,
       "word": "TFBOYS歌迷提前24小时场外守候",
@@ -1209,14 +1281,6 @@
       "onboard_time": 1691294739,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198313,
-      "num": 198313,
-      "word": "今晚四叶草是最开心的粉丝",
-      "onboard_time": 1691296360,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 197392,
