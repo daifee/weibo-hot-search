@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691346829709,
+  "endTime": 1691349136177,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -13555,6 +13555,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 196521,
+      "num": 162560,
+      "word": "不完美小孩",
+      "onboard_time": 1691347937,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196501,
       "num": 228075,
       "word": "潜行者",
@@ -15993,6 +16001,14 @@
       "onboard_time": 1691171780,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 26821,
+      "num": 162302,
+      "word": "夏鸣星卡面",
+      "onboard_time": 1691347517,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 26393,
