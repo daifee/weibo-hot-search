@@ -1,0 +1,410 @@
+{
+  "runTime": 1691318036611,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3268309,
+        "num": 3268309,
+        "word": "TFBOYS曾说组合解散就重新一起出道",
+        "onboard_time": 1691311357,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 371555,
+        "num": 2490232,
+        "word": "中国选手将球拍借给无拍可用的对手",
+        "onboard_time": 1691309437,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 153270,
+        "num": 2231598,
+        "word": "地震来临时牢记生命三角法",
+        "onboard_time": 1691312136,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1981152,
+        "num": 1981152,
+        "word": "TFBOYS彩排时眼圈泛红",
+        "onboard_time": 1691307758,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321705,
+        "num": 1555291,
+        "word": "老人敲击百万次后瓷盘出现一幅画",
+        "onboard_time": 1691306554,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244720,
+        "num": 1244720,
+        "word": "网传郑州大学一领导要求员工无偿加班还威胁降薪",
+        "onboard_time": 1691314781,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 125354,
+        "num": 1033857,
+        "word": "救援队女队员瞒着家人千里驰援涿州",
+        "onboard_time": 1691316220,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970105,
+        "num": 970105,
+        "word": "桃花坞的文案到底是谁在写啊",
+        "onboard_time": 1691312502,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 778652,
+        "num": 778652,
+        "word": "肖战变装视频是月下舞剑",
+        "onboard_time": 1691312919,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 757257,
+        "num": 757257,
+        "word": "六公主认证长相思是现象级爆剧",
+        "onboard_time": 1691308597,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2534746,
+        "num": 754436,
+        "word": "TFBOYS你们不是能站一起吗",
+        "onboard_time": 1691315078,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2327843,
+        "num": 747328,
+        "word": "让一让李飞来了",
+        "onboard_time": 1691314361,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2235665,
+        "num": 746841,
+        "word": "TFBOYS这些年你们装什么啊",
+        "onboard_time": 1691315078,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719626,
+        "num": 719626,
+        "word": "大妈踩在丹霞地貌上疯狂拍照",
+        "onboard_time": 1691315678,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678933,
+        "num": 678933,
+        "word": "要离职的人状态真的很不一样",
+        "onboard_time": 1691314660,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1596490,
+        "num": 592246,
+        "word": "优酷客服回应网友有偿共享TFBOYS直播",
+        "onboard_time": 1691318020,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502210,
+        "num": 502210,
+        "word": "西安文旅的超级周末",
+        "onboard_time": 1691316581,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 484269,
+        "num": 484269,
+        "word": "苹果回应地震预警",
+        "onboard_time": 1691306135,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1214462,
+        "num": 460210,
+        "word": "王俊凯今天蓝发",
+        "onboard_time": 1691311777,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 418667,
+        "num": 418667,
+        "word": "meiko",
+        "onboard_time": 1691313998,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1190526,
+        "num": 418156,
+        "word": "易烊千玺手上戴的是粉水晶",
+        "onboard_time": 1691311357,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 640414,
+        "num": 415399,
+        "word": "高铁上的大叔被女儿问尴尬了",
+        "onboard_time": 1691313701,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 599729,
+        "num": 412048,
+        "word": "孤注一掷",
+        "onboard_time": 1691313521,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 985539,
+        "num": 408852,
+        "word": "腾讯会议",
+        "onboard_time": 1691317001,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 521141,
+        "num": 405952,
+        "word": "杨紫檀健次认真设计走位",
+        "onboard_time": 1691314660,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453306,
+        "num": 403746,
+        "word": "李莲花方多病彻底决裂",
+        "onboard_time": 1691314963,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402383,
+        "num": 402383,
+        "word": "LNG对战EDG",
+        "onboard_time": 1691315746,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 375147,
+        "num": 375147,
+        "word": "夭柳的海外人气是nextlevel",
+        "onboard_time": 1691312857,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306765,
+        "num": 306765,
+        "word": "当中年领导用上了Air Pods",
+        "onboard_time": 1691302714,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285855,
+        "num": 285855,
+        "word": "kt",
+        "onboard_time": 1691317061,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 370409,
+        "num": 283917,
+        "word": "李敏镐肿了",
+        "onboard_time": 1691298758,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367460,
+        "num": 276934,
+        "word": "金晨抽烟镜头",
+        "onboard_time": 1691309674,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354577,
+        "num": 272760,
+        "word": "武艺考试全科目零分",
+        "onboard_time": 1691306915,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353044,
+        "num": 266291,
+        "word": "张晚意第三部古偶",
+        "onboard_time": 1691312857,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349533,
+        "num": 260289,
+        "word": "迪丽热巴兑换任安乐flag",
+        "onboard_time": 1691316703,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257659,
+        "num": 257659,
+        "word": "年轻人为什么不爱吃零食了",
+        "onboard_time": 1691300676,
+        "rank": 35,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 227907,
+        "num": 227907,
+        "word": "山东地震",
+        "onboard_time": 1691260773,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215841,
+        "num": 215841,
+        "word": "奶奶 185痞帅体育生咱稳稳拿下",
+        "onboard_time": 1691305415,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210703,
+        "num": 210703,
+        "word": "Ale单杀Scout",
+        "onboard_time": 1691317304,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209667,
+        "num": 209667,
+        "word": "太阳系老了110万岁",
+        "onboard_time": 1691316880,
+        "rank": 39,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 298035,
+        "num": 209665,
+        "word": "孤注一掷点映排片",
+        "onboard_time": 1691302236,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277343,
+        "num": 209665,
+        "word": "陈浚铭 全场最开心的人",
+        "onboard_time": 1691315020,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272556,
+        "num": 209662,
+        "word": "孙怡一把推出王传君",
+        "onboard_time": 1691312198,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262976,
+        "num": 209661,
+        "word": "巨齿鲨",
+        "onboard_time": 1691313876,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192675,
+        "num": 209659,
+        "word": "小夭相柳偷偷藏不住",
+        "onboard_time": 1691311176,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188093,
+        "num": 209657,
+        "word": "殷寿说的是殷语",
+        "onboard_time": 1691314060,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159877,
+        "num": 209656,
+        "word": "孩子们去军事夏令营后",
+        "onboard_time": 1691316402,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157954,
+        "num": 209655,
+        "word": "五常市农田被淹水面连在一起",
+        "onboard_time": 1691311535,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152882,
+        "num": 209653,
+        "word": "四川村民捡到2米长完整蛇蜕",
+        "onboard_time": 1691317843,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146632,
+        "num": 209650,
+        "word": "苹果地震预警",
+        "onboard_time": 1691286343,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#把民族传统文化传承好发展好#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1690734004301,
-  "endTime": 1691316989411,
+  "endTime": 1691318036611,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -163,6 +163,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 3268309,
+      "num": 3268309,
+      "word": "TFBOYS曾说组合解散就重新一起出道",
+      "onboard_time": 1691311357,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3252167,
       "num": 355489,
       "word": "雪糕外形似避孕套被家长质疑",
@@ -224,14 +232,6 @@
       "word": "TFBOYS三人三字",
       "onboard_time": 1691115755,
       "rank": 12,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 2958721,
-      "num": 2958721,
-      "word": "TFBOYS曾说组合解散就重新一起出道",
-      "onboard_time": 1691311357,
-      "rank": 3,
       "category": "音乐"
     },
     {
@@ -411,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2534746,
+      "num": 754436,
+      "word": "TFBOYS你们不是能站一起吗",
+      "onboard_time": 1691315078,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2518684,
       "num": 2518684,
       "word": "中图网 25元一斤随便带走",
@@ -475,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2327843,
+      "num": 747328,
+      "word": "让一让李飞来了",
+      "onboard_time": 1691314361,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2298843,
       "num": 948127,
       "word": "女婴心脏扎进一根4厘米绣花针",
@@ -529,6 +545,14 @@
       "onboard_time": 1691121459,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2235665,
+      "num": 746841,
+      "word": "TFBOYS这些年你们装什么啊",
+      "onboard_time": 1691315078,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 2212618,
@@ -619,14 +643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2075198,
-      "num": 579125,
-      "word": "TFBOYS你们不是能站一起吗",
-      "onboard_time": 1691315078,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2067123,
       "num": 2067123,
       "word": "泰国人居然拍中国古装剧了",
@@ -689,14 +705,6 @@
       "onboard_time": 1690942472,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1983776,
-      "num": 574996,
-      "word": "让一让李飞来了",
-      "onboard_time": 1691314361,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 1980686,
@@ -971,14 +979,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1736312,
-      "num": 503843,
-      "word": "TFBOYS这些年你们装什么啊",
-      "onboard_time": 1691315078,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1733834,
       "num": 1733834,
       "word": "河北涿州急需大量船只转移群众",
@@ -1177,6 +1177,14 @@
       "onboard_time": 1690933470,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1596490,
+      "num": 592246,
+      "word": "优酷客服回应网友有偿共享TFBOYS直播",
+      "onboard_time": 1691318020,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1590431,
@@ -1708,7 +1716,7 @@
     },
     {
       "raw_hot": 1320946,
-      "num": 402841,
+      "num": 418156,
       "word": "易烊千玺手上戴的是粉水晶",
       "onboard_time": 1691311357,
       "rank": 20,
@@ -1929,6 +1937,14 @@
       "onboard_time": 1691151633,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1244720,
+      "num": 1244720,
+      "word": "网传郑州大学一领导要求员工无偿加班还威胁降薪",
+      "onboard_time": 1691314781,
+      "rank": 5,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1243213,
@@ -2329,14 +2345,6 @@
       "onboard_time": 1690733490,
       "rank": 45,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 1084635,
-      "num": 1084635,
-      "word": "网传郑州大学一领导要求员工无偿加班还威胁降薪",
-      "onboard_time": 1691314781,
-      "rank": 5,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1084109,
@@ -2769,6 +2777,14 @@
       "onboard_time": 1691033919,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 985539,
+      "num": 408852,
+      "word": "腾讯会议",
+      "onboard_time": 1691317001,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 985487,
@@ -4587,6 +4603,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 719626,
+      "num": 719626,
+      "word": "大妈踩在丹霞地貌上疯狂拍照",
+      "onboard_time": 1691315678,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717909,
       "num": 717909,
       "word": "小米捐赠2500万驰援北京河北暴雨救灾",
@@ -4873,6 +4897,14 @@
       "onboard_time": 1691236657,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 678933,
+      "num": 678933,
+      "word": "要离职的人状态真的很不一样",
+      "onboard_time": 1691314660,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 678669,
@@ -5219,6 +5251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640414,
+      "num": 415399,
+      "word": "高铁上的大叔被女儿问尴尬了",
+      "onboard_time": 1691313701,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 639907,
       "num": 639907,
       "word": "苏妲己 白月光",
@@ -5305,14 +5345,6 @@
       "onboard_time": 1691224536,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629028,
-      "num": 384262,
-      "word": "高铁上的大叔被女儿问尴尬了",
-      "onboard_time": 1691313701,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 628526,
@@ -6548,7 +6580,7 @@
     },
     {
       "raw_hot": 538908,
-      "num": 380516,
+      "num": 405952,
       "word": "杨紫檀健次认真设计走位",
       "onboard_time": 1691314660,
       "rank": 22,
@@ -7083,6 +7115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 502210,
+      "num": 502210,
+      "word": "西安文旅的超级周末",
+      "onboard_time": 1691316581,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 502095,
       "num": 492294,
       "word": "网友让邓为去补拍青簪行",
@@ -7377,14 +7417,6 @@
       "onboard_time": 1691303972,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 484224,
-      "num": 484224,
-      "word": "要离职的人状态真的很不一样",
-      "onboard_time": 1691314660,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 482372,
@@ -7812,7 +7844,7 @@
     },
     {
       "raw_hot": 454164,
-      "num": 306974,
+      "num": 375147,
       "word": "夭柳的海外人气是nextlevel",
       "onboard_time": 1691312857,
       "rank": 34,
@@ -7833,6 +7865,14 @@
       "onboard_time": 1690873051,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453306,
+      "num": 403746,
+      "word": "李莲花方多病彻底决裂",
+      "onboard_time": 1691314963,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 453288,
@@ -8305,14 +8345,6 @@
       "onboard_time": 1690977815,
       "rank": 16,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 423946,
-      "num": 321030,
-      "word": "李莲花方多病彻底决裂",
-      "onboard_time": 1691314963,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 422721,
@@ -9307,14 +9339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373214,
-      "num": 373214,
-      "word": "大妈踩在丹霞地貌上疯狂拍照",
-      "onboard_time": 1691315678,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372413,
       "num": 372413,
       "word": "待产孕妇在声声鼓励中登上冲锋舟",
@@ -9337,6 +9361,14 @@
       "onboard_time": 1691114076,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371555,
+      "num": 2495120,
+      "word": "中国选手将球拍借给无拍可用的对手",
+      "onboard_time": 1691309437,
+      "rank": 46,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 371315,
@@ -9612,7 +9644,7 @@
     },
     {
       "raw_hot": 356695,
-      "num": 236003,
+      "num": 266291,
       "word": "张晚意第三部古偶",
       "onboard_time": 1691312857,
       "rank": 35,
@@ -9825,6 +9857,14 @@
       "onboard_time": 1690957956,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349533,
+      "num": 260289,
+      "word": "迪丽热巴兑换任安乐flag",
+      "onboard_time": 1691316703,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 349372,
@@ -10441,6 +10481,14 @@
       "onboard_time": 1691217875,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 321705,
+      "num": 1555291,
+      "word": "老人敲击百万次后瓷盘出现一幅画",
+      "onboard_time": 1691306554,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320495,
@@ -11139,14 +11187,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 296591,
-      "num": 231479,
-      "word": "迪丽热巴兑换任安乐flag",
-      "onboard_time": 1691316703,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 296480,
       "num": 296480,
       "word": "赵丽颖周一上班照",
@@ -11265,14 +11305,6 @@
       "onboard_time": 1690945893,
       "rank": 40,
       "category": "影视,音乐"
-    },
-    {
-      "raw_hot": 292118,
-      "num": 2495120,
-      "word": "中国选手将球拍借给无拍可用的对手",
-      "onboard_time": 1691309437,
-      "rank": 46,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 291575,
@@ -11489,6 +11521,14 @@
       "onboard_time": 1690883734,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285855,
+      "num": 285855,
+      "word": "kt",
+      "onboard_time": 1691317061,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 285637,
@@ -12224,14 +12264,6 @@
       "word": "泰安震感",
       "onboard_time": 1691264066,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259942,
-      "num": 1194908,
-      "word": "老人敲击百万次后瓷盘出现一幅画",
-      "onboard_time": 1691306554,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -13403,14 +13435,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 222402,
-      "num": 232572,
-      "word": "西安文旅的超级周末",
-      "onboard_time": 1691316581,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 221735,
       "num": 215596,
       "word": "莲花楼空镜审美",
@@ -13859,6 +13883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210703,
+      "num": 210703,
+      "word": "Ale单杀Scout",
+      "onboard_time": 1691317304,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210683,
       "num": 217244,
       "word": "大叔留宿滞留旅客自己睡在院子里",
@@ -13937,6 +13969,14 @@
       "onboard_time": 1691224057,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209667,
+      "num": 218719,
+      "word": "太阳系老了110万岁",
+      "onboard_time": 1691316880,
+      "rank": 47,
+      "category": "自然"
     },
     {
       "raw_hot": 209134,
@@ -15491,14 +15531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178037,
-      "num": 218719,
-      "word": "太阳系老了110万岁",
-      "onboard_time": 1691316880,
-      "rank": 47,
-      "category": "自然"
-    },
-    {
       "raw_hot": 177842,
       "num": 2292217,
       "word": "CCTV国家公园",
@@ -16035,6 +16067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 152882,
+      "num": 209653,
+      "word": "四川村民捡到2米长完整蛇蜕",
+      "onboard_time": 1691317843,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152847,
       "num": 220519,
       "word": "在成都打车打到大熊猫了",
@@ -16436,7 +16476,7 @@
     },
     {
       "raw_hot": 129223,
-      "num": 529689,
+      "num": 1033857,
       "word": "救援队女队员瞒着家人千里驰援涿州",
       "onboard_time": 1691316220,
       "rank": 12,

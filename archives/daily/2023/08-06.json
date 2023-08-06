@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691316989411,
+  "endTime": 1691318036611,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -91,19 +91,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 3268309,
+      "num": 3268309,
+      "word": "TFBOYS曾说组合解散就重新一起出道",
+      "onboard_time": 1691311357,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3005985,
       "num": 3005985,
       "word": "黄锐拿到票了",
       "onboard_time": 1691295940,
       "rank": 7,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 2958721,
-      "num": 2958721,
-      "word": "TFBOYS曾说组合解散就重新一起出道",
-      "onboard_time": 1691311357,
-      "rank": 3,
       "category": "音乐"
     },
     {
@@ -139,10 +139,34 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2534746,
+      "num": 754436,
+      "word": "TFBOYS你们不是能站一起吗",
+      "onboard_time": 1691315078,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2473434,
       "num": 2473434,
       "word": "李敏镐肿了",
       "onboard_time": 1691298758,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2327843,
+      "num": 747328,
+      "word": "让一让李飞来了",
+      "onboard_time": 1691314361,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2235665,
+      "num": 746841,
+      "word": "TFBOYS这些年你们装什么啊",
+      "onboard_time": 1691315078,
       "rank": 13,
       "category": "艺人"
     },
@@ -161,14 +185,6 @@
       "onboard_time": 1691306915,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2075198,
-      "num": 579125,
-      "word": "TFBOYS你们不是能站一起吗",
-      "onboard_time": 1691315078,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2043523,
@@ -195,14 +211,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 1983776,
-      "num": 574996,
-      "word": "让一让李飞来了",
-      "onboard_time": 1691314361,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1942101,
       "num": 493829,
       "word": "王俊凯今天蓝发",
@@ -227,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1736312,
-      "num": 503843,
-      "word": "TFBOYS这些年你们装什么啊",
-      "onboard_time": 1691315078,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1661719,
       "num": 1661719,
       "word": "安崎自曝出道后失业到现在",
@@ -257,6 +257,14 @@
       "onboard_time": 1691303075,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1596490,
+      "num": 592246,
+      "word": "优酷客服回应网友有偿共享TFBOYS直播",
+      "onboard_time": 1691318020,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1590431,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 1320946,
-      "num": 402841,
+      "num": 418156,
       "word": "易烊千玺手上戴的是粉水晶",
       "onboard_time": 1691311357,
       "rank": 20,
@@ -345,6 +353,14 @@
       "onboard_time": 1691278831,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1244720,
+      "num": 1244720,
+      "word": "网传郑州大学一领导要求员工无偿加班还威胁降薪",
+      "onboard_time": 1691314781,
+      "rank": 5,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1214654,
@@ -409,14 +425,6 @@
       "onboard_time": 1691295097,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1084635,
-      "num": 1084635,
-      "word": "网传郑州大学一领导要求员工无偿加班还威胁降薪",
-      "onboard_time": 1691314781,
-      "rank": 5,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1084109,
@@ -497,6 +505,14 @@
       "onboard_time": 1691236901,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 985539,
+      "num": 408852,
+      "word": "腾讯会议",
+      "onboard_time": 1691317001,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 973419,
@@ -707,12 +723,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 719626,
+      "num": 719626,
+      "word": "大妈踩在丹霞地貌上疯狂拍照",
+      "onboard_time": 1691315678,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702365,
       "num": 702365,
       "word": "救援队员返乡后哭诉再也不想参与",
       "onboard_time": 1691253094,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678933,
+      "num": 678933,
+      "word": "要离职的人状态真的很不一样",
+      "onboard_time": 1691314660,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 659385,
@@ -739,8 +771,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 629028,
-      "num": 384262,
+      "raw_hot": 640414,
+      "num": 415399,
       "word": "高铁上的大叔被女儿问尴尬了",
       "onboard_time": 1691313701,
       "rank": 30,
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 538908,
-      "num": 380516,
+      "num": 405952,
       "word": "杨紫檀健次认真设计走位",
       "onboard_time": 1691314660,
       "rank": 22,
@@ -971,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 502210,
+      "num": 502210,
+      "word": "西安文旅的超级周末",
+      "onboard_time": 1691316581,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 498544,
       "num": 498544,
       "word": "meiko",
@@ -1027,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484224,
-      "num": 484224,
-      "word": "要离职的人状态真的很不一样",
-      "onboard_time": 1691314660,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 481524,
       "num": 401995,
       "word": "黑龙江五常发布防汛救援公告",
@@ -1076,10 +1108,18 @@
     },
     {
       "raw_hot": 454164,
-      "num": 306974,
+      "num": 375147,
       "word": "夭柳的海外人气是nextlevel",
       "onboard_time": 1691312857,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 453306,
+      "num": 403746,
+      "word": "李莲花方多病彻底决裂",
+      "onboard_time": 1691314963,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1113,14 +1153,6 @@
       "onboard_time": 1691246625,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 423946,
-      "num": 321030,
-      "word": "李莲花方多病彻底决裂",
-      "onboard_time": 1691314963,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 420922,
@@ -1307,12 +1339,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 373214,
-      "num": 373214,
-      "word": "大妈踩在丹霞地貌上疯狂拍照",
-      "onboard_time": 1691315678,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 371555,
+      "num": 2495120,
+      "word": "中国选手将球拍借给无拍可用的对手",
+      "onboard_time": 1691309437,
+      "rank": 46,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 368576,
@@ -1372,7 +1404,7 @@
     },
     {
       "raw_hot": 356695,
-      "num": 236003,
+      "num": 266291,
       "word": "张晚意第三部古偶",
       "onboard_time": 1691312857,
       "rank": 35,
@@ -1417,6 +1449,14 @@
       "onboard_time": 1691253870,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 349533,
+      "num": 260289,
+      "word": "迪丽热巴兑换任安乐flag",
+      "onboard_time": 1691316703,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 348078,
@@ -1507,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321705,
+      "num": 1555291,
+      "word": "老人敲击百万次后瓷盘出现一幅画",
+      "onboard_time": 1691306554,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320495,
       "num": 232352,
       "word": "相柳电话能打通",
@@ -1587,28 +1635,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 296591,
-      "num": 231479,
-      "word": "迪丽热巴兑换任安乐flag",
-      "onboard_time": 1691316703,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 296230,
       "num": 296230,
       "word": "手机地震预警怎么开",
       "onboard_time": 1691279072,
       "rank": 35,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 292118,
-      "num": 2495120,
-      "word": "中国选手将球拍借给无拍可用的对手",
-      "onboard_time": 1691309437,
-      "rank": 46,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 290270,
@@ -1625,6 +1657,14 @@
       "onboard_time": 1691295639,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285855,
+      "num": 285855,
+      "word": "kt",
+      "onboard_time": 1691317061,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 285186,
@@ -1707,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262976,
+      "num": 209661,
+      "word": "巨齿鲨",
+      "onboard_time": 1691313876,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262225,
       "num": 239363,
       "word": "王俊凯王源易烊千玺今日开屏",
@@ -1720,14 +1768,6 @@
       "word": "泰安震感",
       "onboard_time": 1691264066,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259942,
-      "num": 1194908,
-      "word": "老人敲击百万次后瓷盘出现一幅画",
-      "onboard_time": 1691306554,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1867,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222402,
-      "num": 232572,
-      "word": "西安文旅的超级周末",
-      "onboard_time": 1691316581,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 221241,
       "num": 221241,
       "word": "管水母",
@@ -1891,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210703,
+      "num": 210703,
+      "word": "Ale单杀Scout",
+      "onboard_time": 1691317304,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210659,
       "num": 210659,
       "word": "开播情景喜剧2今日开播",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1691307574,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 209667,
+      "num": 218719,
+      "word": "太阳系老了110万岁",
+      "onboard_time": 1691316880,
+      "rank": 47,
+      "category": "自然"
     },
     {
       "raw_hot": 205198,
@@ -2035,14 +2083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178037,
-      "num": 218719,
-      "word": "太阳系老了110万岁",
-      "onboard_time": 1691316880,
-      "rank": 47,
-      "category": "自然"
-    },
-    {
       "raw_hot": 171371,
       "num": 2280671,
       "word": "地震来临时牢记生命三角法",
@@ -2064,6 +2104,14 @@
       "word": "大运会又一个显眼包出现了",
       "onboard_time": 1691242727,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152882,
+      "num": 209653,
+      "word": "四川村民捡到2米长完整蛇蜕",
+      "onboard_time": 1691317843,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2156,7 +2204,7 @@
     },
     {
       "raw_hot": 129223,
-      "num": 529689,
+      "num": 1033857,
       "word": "救援队女队员瞒着家人千里驰援涿州",
       "onboard_time": 1691316220,
       "rank": 12,
