@@ -1,6 +1,6 @@
 {
   "startTime": 1691252388884,
-  "endTime": 1691321615484,
+  "endTime": 1691324947174,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -9,6 +9,14 @@
       "onboard_time": 1691260773,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17503460,
+      "num": 17503460,
+      "word": "TFBOYS十年之约演唱会",
+      "onboard_time": 1691276845,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 14810783,
@@ -33,14 +41,6 @@
       "onboard_time": 1691261079,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10244652,
-      "num": 3224608,
-      "word": "TFBOYS十年之约演唱会",
-      "onboard_time": 1691276845,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 6956736,
@@ -83,6 +83,22 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 4064462,
+      "num": 4064462,
+      "word": "青春修炼手册开场",
+      "onboard_time": 1691323619,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 4037305,
+      "num": 892771,
+      "word": "优酷直播",
+      "onboard_time": 1691323081,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3894504,
       "num": 3894504,
       "word": "河北震感",
@@ -123,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3114923,
+      "num": 836856,
+      "word": "王源好像小王子",
+      "onboard_time": 1691323619,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3005985,
       "num": 3005985,
       "word": "黄锐拿到票了",
@@ -139,11 +163,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2901576,
+      "num": 820342,
+      "word": "TFBOYS线上直播",
+      "onboard_time": 1691322897,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2868630,
       "num": 2868630,
       "word": "TFBOYS彩排时眼圈泛红",
       "onboard_time": 1691307758,
       "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 2838610,
+      "num": 738935,
+      "word": "他们仨都笑了",
+      "onboard_time": 1691320373,
+      "rank": 31,
       "category": "音乐"
     },
     {
@@ -179,12 +219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2503876,
+      "num": 681957,
+      "word": "主持人是蓝羽姐姐",
+      "onboard_time": 1691324281,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2473434,
       "num": 2473434,
       "word": "李敏镐肿了",
       "onboard_time": 1691298758,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2375259,
+      "num": 2375259,
+      "word": "迪丽热巴戒指",
+      "onboard_time": 1691323387,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2327843,
@@ -219,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2053540,
+      "num": 510687,
+      "word": "黄锐进场",
+      "onboard_time": 1691321330,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2043523,
       "num": 2043523,
       "word": "山东平原县地震10人受伤",
@@ -241,14 +305,6 @@
       "onboard_time": 1691297557,
       "rank": 3,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1981687,
-      "num": 523161,
-      "word": "他们仨都笑了",
-      "onboard_time": 1691320373,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 1942101,
@@ -281,14 +337,6 @@
       "onboard_time": 1691261446,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1766498,
-      "num": 510687,
-      "word": "黄锐进场",
-      "onboard_time": 1691321330,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 1661719,
@@ -363,6 +411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1352704,
+      "num": 1352704,
+      "word": "EDG",
+      "onboard_time": 1691324220,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1336072,
       "num": 1336072,
       "word": "陈晓谭松韵李斯丹妮出发驰援黑龙江",
@@ -409,6 +465,14 @@
       "onboard_time": 1691314781,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1235237,
+      "num": 1235237,
+      "word": "王楚然张晚意 娇藏",
+      "onboard_time": 1691322056,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1214654,
@@ -473,6 +537,14 @@
       "onboard_time": 1691295097,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1091327,
+      "num": 1091327,
+      "word": "LNG战胜EDG",
+      "onboard_time": 1691323081,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 1084109,
@@ -555,6 +627,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 988248,
+      "num": 404162,
+      "word": "男孩杀害邻居11岁女孩抛尸湘江",
+      "onboard_time": 1691323559,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 977678,
+      "num": 399943,
+      "word": "优酷投屏",
+      "onboard_time": 1691324340,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 973419,
       "num": 867416,
       "word": "薛之谦祝TFBOYS演唱会圆满成功",
@@ -585,6 +673,14 @@
       "onboard_time": 1691315678,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 939743,
+      "num": 939743,
+      "word": "LNG对战EDG",
+      "onboard_time": 1691315746,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 912483,
@@ -641,6 +737,22 @@
       "onboard_time": 1691309674,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 807687,
+      "num": 807687,
+      "word": "meiko",
+      "onboard_time": 1691313998,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 807000,
+      "num": 418740,
+      "word": "四叶草站起来了",
+      "onboard_time": 1691320730,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 799388,
@@ -771,12 +883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 713104,
-      "num": 418740,
-      "word": "四叶草站起来了",
-      "onboard_time": 1691320730,
-      "rank": 21,
-      "category": "音乐"
+      "raw_hot": 718196,
+      "num": 367652,
+      "word": "北京卫视",
+      "onboard_time": 1691323740,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 702365,
@@ -785,6 +897,14 @@
       "onboard_time": 1691253094,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694520,
+      "num": 366943,
+      "word": "直到25岁我才真正读完了中学",
+      "onboard_time": 1691323857,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 691976,
@@ -827,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 624829,
+      "num": 624829,
+      "word": "旭旭宝宝",
+      "onboard_time": 1691319708,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 618004,
       "num": 618004,
       "word": "要不你们还是回去继承家产吧",
@@ -849,14 +977,6 @@
       "onboard_time": 1691288562,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 603417,
-      "num": 603417,
-      "word": "LNG对战EDG",
-      "onboard_time": 1691315746,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 602996,
@@ -897,6 +1017,14 @@
       "onboard_time": 1691296117,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 592911,
+      "num": 363933,
+      "word": "张远破音",
+      "onboard_time": 1691322242,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 581697,
@@ -1067,14 +1195,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 498544,
-      "num": 498544,
-      "word": "meiko",
-      "onboard_time": 1691313998,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 493772,
       "num": 493772,
       "word": "痛苦的时候人甚至通过写来呼吸",
@@ -1088,6 +1208,14 @@
       "word": "TFBOYS夹起来了",
       "onboard_time": 1691222495,
       "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 489311,
+      "num": 349944,
+      "word": "池忆",
+      "onboard_time": 1691321876,
+      "rank": 41,
       "category": "音乐"
     },
     {
@@ -1147,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 477670,
-      "num": 477670,
-      "word": "旭旭宝宝",
-      "onboard_time": 1691319708,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 472793,
       "num": 363649,
       "word": "郑国霖评价杨紫",
@@ -1169,6 +1289,14 @@
       "onboard_time": 1691281237,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458739,
+      "num": 347985,
+      "word": "孤注一掷刷新中国影史点映单日票房纪录",
+      "onboard_time": 1691322541,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 454164,
@@ -1283,8 +1411,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 404842,
-      "num": 404842,
+      "raw_hot": 413508,
+      "num": 413508,
+      "word": "旭旭宝宝签约抖音",
+      "onboard_time": 1691323803,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 410182,
+      "num": 908221,
       "word": "地震导致的次声波真的会跟人体器官共振",
       "onboard_time": 1691318863,
       "rank": 33,
@@ -1339,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397234,
+      "num": 397234,
+      "word": "女生出生起14年每天抱毯睡用成絮状",
+      "onboard_time": 1691321390,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395001,
       "num": 395001,
       "word": "王俊凯王源易烊千玺青春修炼手册彩排",
@@ -1385,6 +1529,14 @@
       "onboard_time": 1691247466,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384599,
+      "num": 384599,
+      "word": "LNG晋级S13",
+      "onboard_time": 1691323387,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 380893,
@@ -1561,6 +1713,14 @@
       "onboard_time": 1691306074,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347997,
+      "num": 347997,
+      "word": "莲花楼",
+      "onboard_time": 1691253333,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 346353,
@@ -1779,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286460,
+      "num": 354466,
+      "word": "当i人男友有个e人女友",
+      "onboard_time": 1691320554,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285186,
       "num": 188172,
       "word": "长相思角色号全员更新",
@@ -1844,7 +2012,7 @@
     },
     {
       "raw_hot": 267620,
-      "num": 267620,
+      "num": 347976,
       "word": "内向其实也是一种天赋",
       "onboard_time": 1691320554,
       "rank": 38,
@@ -2051,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219763,
+      "num": 347964,
+      "word": "美国女足",
+      "onboard_time": 1691323803,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219149,
       "num": 219149,
       "word": "只有洛铭西受伤的世界达成了",
@@ -2059,20 +2235,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215599,
+      "num": 347925,
+      "word": "说她是恋爱脑吧又好像很会搞创收",
+      "onboard_time": 1691324520,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 214618,
       "num": 218719,
       "word": "太阳系老了110万岁",
       "onboard_time": 1691316880,
       "rank": 47,
       "category": "自然"
-    },
-    {
-      "raw_hot": 214180,
-      "num": 214180,
-      "word": "当i人男友有个e人女友",
-      "onboard_time": 1691320554,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 210703,
@@ -2203,14 +2379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182589,
-      "num": 201149,
-      "word": "女生出生起14年每天抱毯睡用成絮状",
-      "onboard_time": 1691321390,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181685,
       "num": 222342,
       "word": "孩子们去军事夏令营后",
@@ -2329,14 +2497,6 @@
       "onboard_time": 1691320373,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 135465,
-      "num": 135465,
-      "word": "莲花楼",
-      "onboard_time": 1691253333,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 135047,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1691324947174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 17503460,
+        "num": 17503460,
+        "word": "TFBOYS十年之约演唱会",
+        "onboard_time": 1691320248,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 4064462,
+        "num": 4064462,
+        "word": "青春修炼手册开场",
+        "onboard_time": 1691323619,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164595,
+        "num": 2960834,
+        "word": "地震来临时牢记生命三角法",
+        "onboard_time": 1691312136,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2375259,
+        "num": 2375259,
+        "word": "迪丽热巴戒指",
+        "onboard_time": 1691323387,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1352704,
+        "num": 1352704,
+        "word": "EDG",
+        "onboard_time": 1691324220,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1235237,
+        "num": 1235237,
+        "word": "王楚然张晚意 娇藏",
+        "onboard_time": 1691322056,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1091327,
+        "num": 1091327,
+        "word": "LNG战胜EDG",
+        "onboard_time": 1691323081,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 939743,
+        "num": 939743,
+        "word": "LNG对战EDG",
+        "onboard_time": 1691315746,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 592112,
+        "num": 919968,
+        "word": "大妈踩在丹霞地貌上疯狂拍照",
+        "onboard_time": 1691315678,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410182,
+        "num": 908221,
+        "word": "地震导致的次声波真的会跟人体器官共振",
+        "onboard_time": 1691318863,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4037305,
+        "num": 892771,
+        "word": "优酷直播",
+        "onboard_time": 1691323081,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11967722,
+        "num": 856897,
+        "word": "TFBOYS官博急了",
+        "onboard_time": 1691319525,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3114923,
+        "num": 836856,
+        "word": "王源好像小王子",
+        "onboard_time": 1691323619,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2901576,
+        "num": 820342,
+        "word": "TFBOYS线上直播",
+        "onboard_time": 1691322897,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 807687,
+        "num": 807687,
+        "word": "meiko",
+        "onboard_time": 1691313998,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2838610,
+        "num": 738935,
+        "word": "他们仨都笑了",
+        "onboard_time": 1691320373,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2503876,
+        "num": 681957,
+        "word": "主持人是蓝羽姐姐",
+        "onboard_time": 1691324281,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 624829,
+        "num": 624829,
+        "word": "旭旭宝宝",
+        "onboard_time": 1691319708,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 413508,
+        "num": 413508,
+        "word": "旭旭宝宝签约抖音",
+        "onboard_time": 1691323803,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 378635,
+        "num": 411820,
+        "word": "网传郑州大学一领导要求员工无偿加班还威胁降薪",
+        "onboard_time": 1691314781,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2053540,
+        "num": 410795,
+        "word": "黄锐进场",
+        "onboard_time": 1691321330,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1575059,
+        "num": 409033,
+        "word": "优酷客服回应网友有偿共享TFBOYS直播",
+        "onboard_time": 1691318020,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1162791,
+        "num": 406005,
+        "word": "易烊千玺手上戴的是粉水晶",
+        "onboard_time": 1691311357,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 988248,
+        "num": 404162,
+        "word": "男孩杀害邻居11岁女孩抛尸湘江",
+        "onboard_time": 1691323559,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302297,
+        "num": 403330,
+        "word": "山西吕梁重大刑事案件嫌犯被抓",
+        "onboard_time": 1691318201,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977678,
+        "num": 399943,
+        "word": "优酷投屏",
+        "onboard_time": 1691324340,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 955785,
+        "num": 398390,
+        "word": "让一让李飞来了",
+        "onboard_time": 1691314361,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 397234,
+        "num": 397234,
+        "word": "女生出生起14年每天抱毯睡用成絮状",
+        "onboard_time": 1691321390,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384599,
+        "num": 384599,
+        "word": "LNG晋级S13",
+        "onboard_time": 1691323387,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 370821,
+        "num": 370821,
+        "word": "要离职的人状态真的很不一样",
+        "onboard_time": 1691314660,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 807000,
+        "num": 370302,
+        "word": "四叶草站起来了",
+        "onboard_time": 1691320730,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 718196,
+        "num": 367652,
+        "word": "北京卫视",
+        "onboard_time": 1691323740,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694520,
+        "num": 366943,
+        "word": "直到25岁我才真正读完了中学",
+        "onboard_time": 1691323857,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 592911,
+        "num": 363933,
+        "word": "张远破音",
+        "onboard_time": 1691322242,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290596,
+        "num": 362539,
+        "word": "有人看乐子 有人照镜子",
+        "onboard_time": 1691319586,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 549407,
+        "num": 361370,
+        "word": "刘诗诗个人名义捐款",
+        "onboard_time": 1691320554,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281450,
+        "num": 359127,
+        "word": "中国选手将球拍借给无拍可用的对手",
+        "onboard_time": 1691309437,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 288354,
+        "num": 357946,
+        "word": "高铁上的大叔被女儿问尴尬了",
+        "onboard_time": 1691313701,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1356169,
+        "num": 356433,
+        "word": "TFBOYS搂肩",
+        "onboard_time": 1691320972,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286460,
+        "num": 354466,
+        "word": "当i人男友有个e人女友",
+        "onboard_time": 1691320554,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 504065,
+        "num": 353086,
+        "word": "王俊凯今天蓝发",
+        "onboard_time": 1691311777,
+        "rank": 40,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 489311,
+        "num": 349944,
+        "word": "池忆",
+        "onboard_time": 1691321876,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 482544,
+        "num": 348682,
+        "word": "孤注一掷",
+        "onboard_time": 1691313521,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347997,
+        "num": 347997,
+        "word": "莲花楼",
+        "onboard_time": 1691323440,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458739,
+        "num": 347985,
+        "word": "孤注一掷刷新中国影史点映单日票房纪录",
+        "onboard_time": 1691322541,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222224,
+        "num": 347976,
+        "word": "内向其实也是一种天赋",
+        "onboard_time": 1691320554,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 219763,
+        "num": 347964,
+        "word": "美国女足",
+        "onboard_time": 1691323803,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217129,
+        "num": 347944,
+        "word": "四川村民捡到2米长完整蛇蜕",
+        "onboard_time": 1691317843,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215599,
+        "num": 347925,
+        "word": "说她是恋爱脑吧又好像很会搞创收",
+        "onboard_time": 1691324520,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 211591,
+        "num": 347906,
+        "word": "地震发生他们的选择不是跑",
+        "onboard_time": 1691318684,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把民族传统文化传承好发展好#"
+    }
+  }
+}
