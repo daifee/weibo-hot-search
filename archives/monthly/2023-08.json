@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691295533975,
+  "endTime": 1691296428205,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2091,6 +2091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1001395,
+      "num": 766575,
+      "word": "吉克隽逸腹沟",
+      "onboard_time": 1691294260,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 997686,
       "num": 942534,
       "word": "封神发声明抵制偷漏瞒报票房行为",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1691290837,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 995993,
+      "num": 995993,
+      "word": "黄锐拿到票了",
+      "onboard_time": 1691295940,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 991457,
@@ -2955,14 +2971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 809343,
-      "num": 621251,
-      "word": "吉克隽逸腹沟",
-      "onboard_time": 1691294260,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 809153,
       "num": 426732,
       "word": "魏大勋李现工作室出图",
@@ -3225,6 +3233,14 @@
       "onboard_time": 1691247883,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 764006,
+      "num": 764006,
+      "word": "林俊杰驰援黑龙江",
+      "onboard_time": 1691295457,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 762606,
@@ -3547,6 +3563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 727917,
+      "num": 402195,
+      "word": "山东地震为何震感传得这么远",
+      "onboard_time": 1691292938,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727519,
       "num": 546511,
       "word": "导演们看看大码女演员吧",
@@ -3801,14 +3825,6 @@
       "onboard_time": 1690816419,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 690098,
-      "num": 388209,
-      "word": "山东地震为何震感传得这么远",
-      "onboard_time": 1691292938,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 690022,
@@ -4155,6 +4171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 645090,
+      "num": 645090,
+      "word": "檀健次相柳爆没爆",
+      "onboard_time": 1691295097,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 643382,
       "num": 583850,
       "word": "异人之下 中式恐怖",
@@ -4425,6 +4449,14 @@
       "onboard_time": 1690896160,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 613405,
+      "num": 402092,
+      "word": "迪丽热巴鞋底掉了",
+      "onboard_time": 1691295816,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 613358,
@@ -6027,6 +6059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 481524,
+      "num": 401995,
+      "word": "黑龙江五常发布防汛救援公告",
+      "onboard_time": 1691252431,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481495,
       "num": 481495,
       "word": "地震瞬间丈夫先安抚妻子后抱孩子撤离",
@@ -6441,6 +6481,14 @@
       "onboard_time": 1690935336,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 449415,
+      "num": 401824,
+      "word": "贾樟柯也去看TFBOYS演唱会",
+      "onboard_time": 1691296117,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 448396,
@@ -7059,6 +7107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 401713,
+      "num": 401713,
+      "word": "韩红爱心百人援龙江",
+      "onboard_time": 1691294978,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401249,
       "num": 326615,
       "word": "李飞开直播吧",
@@ -7307,8 +7363,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387117,
-      "num": 387117,
+      "raw_hot": 387302,
+      "num": 387302,
       "word": "猫咪被地震吓得口吐白沫",
       "onboard_time": 1691293836,
       "rank": 22,
@@ -7385,6 +7441,14 @@
       "onboard_time": 1691165436,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382398,
+      "num": 382398,
+      "word": "K1178列车英雄班组每人奖励1万元",
+      "onboard_time": 1691294797,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382294,
@@ -8267,14 +8331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 327835,
-      "num": 327835,
-      "word": "檀健次相柳爆没爆",
-      "onboard_time": 1691295097,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 327738,
       "num": 383374,
       "word": "约会时女生主动买单",
@@ -8579,14 +8635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 313845,
-      "num": 313845,
-      "word": "韩红爱心百人援龙江",
-      "onboard_time": 1691294978,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313154,
       "num": 213896,
       "word": "王俊凯王源易烊千玺喜欢你彩排",
@@ -8665,6 +8713,14 @@
       "onboard_time": 1690953996,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309357,
+      "num": 309357,
+      "word": "土笋冻居然属于海鲜",
+      "onboard_time": 1691294139,
+      "rank": 33,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 309348,
@@ -8929,6 +8985,14 @@
       "onboard_time": 1690967433,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298443,
+      "num": 298443,
+      "word": "地震时夫妻同时惊醒护住宝宝",
+      "onboard_time": 1691295036,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298149,
@@ -9251,14 +9315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 285226,
-      "num": 285226,
-      "word": "土笋冻居然属于海鲜",
-      "onboard_time": 1691294139,
-      "rank": 33,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 284984,
       "num": 279088,
       "word": "彭昱畅新剧4集哭了7次",
@@ -9401,6 +9457,14 @@
       "onboard_time": 1691108376,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277841,
+      "num": 277841,
+      "word": "黄锐",
+      "onboard_time": 1691296117,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 276853,
@@ -9569,6 +9633,14 @@
       "onboard_time": 1691061515,
       "rank": 19,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 271568,
+      "num": 271568,
+      "word": "男子被困玉米地几天获救哭成泪人",
+      "onboard_time": 1691295639,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270925,
@@ -9777,14 +9849,6 @@
       "onboard_time": 1690909044,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260584,
-      "num": 260584,
-      "word": "黑龙江五常发布防汛救援公告",
-      "onboard_time": 1691252431,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260411,
@@ -10113,14 +10177,6 @@
       "onboard_time": 1691041718,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246681,
-      "num": 246681,
-      "word": "K1178列车英雄班组每人奖励1万元",
-      "onboard_time": 1691294797,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246448,
@@ -10643,14 +10699,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 229190,
-      "num": 229190,
-      "word": "林俊杰驰援黑龙江",
-      "onboard_time": 1691295457,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228562,
       "num": 228562,
       "word": "封神榜",
@@ -10867,14 +10915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221349,
-      "num": 221349,
-      "word": "地震时夫妻同时惊醒护住宝宝",
-      "onboard_time": 1691295036,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221340,
       "num": 221340,
       "word": "孤注一掷导演给了张艺兴1个T的资料",
@@ -10971,6 +11011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219149,
+      "num": 219149,
+      "word": "只有洛铭西受伤的世界达成了",
+      "onboard_time": 1691296057,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219006,
       "num": 219006,
       "word": "6名涿州群众被困房顶72小时",
@@ -11009,6 +11057,14 @@
       "onboard_time": 1690937737,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218324,
+      "num": 218324,
+      "word": "舞台2023青人vs创人",
+      "onboard_time": 1691296057,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 218105,
@@ -11841,6 +11897,14 @@
       "onboard_time": 1690981957,
       "rank": 43,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 198313,
+      "num": 198313,
+      "word": "今晚四叶草是最开心的粉丝",
+      "onboard_time": 1691296360,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 198183,
