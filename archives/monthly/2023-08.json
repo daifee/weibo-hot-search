@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691338869031,
+  "endTime": 1691339741047,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3351808,
+      "num": 822574,
+      "word": "王俊凯王源看着易烊千玺笑",
+      "onboard_time": 1691338190,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3322665,
       "num": 1000270,
       "word": "陆虎老婆为王俊凯伴奏",
@@ -313,14 +321,6 @@
       "onboard_time": 1690861719,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3211828,
-      "num": 587803,
-      "word": "王俊凯王源看着易烊千玺笑",
-      "onboard_time": 1691338190,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 3162373,
@@ -731,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2173697,
+      "num": 821625,
+      "word": "易烊千玺太野了",
+      "onboard_time": 1691338190,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2163893,
       "num": 2163893,
       "word": "莲花楼丧尸案",
@@ -881,14 +889,6 @@
       "onboard_time": 1691019809,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1973515,
-      "num": 586293,
-      "word": "易烊千玺太野了",
-      "onboard_time": 1691338190,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 1969226,
@@ -1044,7 +1044,7 @@
     },
     {
       "raw_hot": 1812475,
-      "num": 584994,
+      "num": 821143,
       "word": "小虎队",
       "onboard_time": 1691337473,
       "rank": 25,
@@ -1817,6 +1817,14 @@
       "onboard_time": 1690847854,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1277579,
+      "num": 819868,
+      "word": "王源回应TFBOYS时隔两年没开演唱会",
+      "onboard_time": 1691339379,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 1276898,
@@ -3267,6 +3275,14 @@
       "category": "音乐,社会新闻"
     },
     {
+      "raw_hot": 875935,
+      "num": 875935,
+      "word": "gemini",
+      "onboard_time": 1691335752,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 875720,
       "num": 875720,
       "word": "微信回应看朋友圈会自动点赞",
@@ -3841,14 +3857,6 @@
       "onboard_time": 1690968576,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 774672,
-      "num": 774672,
-      "word": "gemini",
-      "onboard_time": 1691335752,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 773847,
@@ -6036,7 +6044,7 @@
     },
     {
       "raw_hot": 543687,
-      "num": 584711,
+      "num": 820577,
       "word": "部分网友称有偿共享TFBOYS直播屏幕",
       "onboard_time": 1691335930,
       "rank": 26,
@@ -12563,6 +12571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216269,
+      "num": 819335,
+      "word": "买了不一样的泳帽去河里游泳",
+      "onboard_time": 1691337239,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216260,
       "num": 216260,
       "word": "小伙错过末班车舍不得花十几块元打车",
@@ -12649,14 +12665,6 @@
       "onboard_time": 1691058100,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214366,
-      "num": 582746,
-      "word": "买了不一样的泳帽去河里游泳",
-      "onboard_time": 1691337239,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 214204,
@@ -14035,6 +14043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185812,
+      "num": 818398,
+      "word": "广末凉子私服",
+      "onboard_time": 1691337774,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 185772,
       "num": 204814,
       "word": "救援队救下洪水中的金毛",
@@ -14473,14 +14489,6 @@
       "onboard_time": 1691115935,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 166365,
-      "num": 580920,
-      "word": "广末凉子私服",
-      "onboard_time": 1691337774,
-      "rank": 42,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 166252,
