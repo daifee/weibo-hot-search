@@ -1,0 +1,410 @@
+{
+  "runTime": 1691451234232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1453886,
+        "num": 1453886,
+        "word": "福原爱被法院强制执行",
+        "onboard_time": 1691422363,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1077395,
+        "num": 1077395,
+        "word": "立秋",
+        "onboard_time": 1691449764,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21811,
+        "num": 869239,
+        "word": "汛情过后健康防护要点",
+        "onboard_time": 1691414378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818274,
+        "num": 818274,
+        "word": "嘎子哥该如何自证没有诈捐物资",
+        "onboard_time": 1691437934,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481310,
+        "num": 481310,
+        "word": "因为没见过大海他报了大连理工",
+        "onboard_time": 1691419784,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950493,
+        "num": 480408,
+        "word": "易烊千玺一朝回到解放前",
+        "onboard_time": 1691420679,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 478396,
+        "num": 478396,
+        "word": "zzr",
+        "onboard_time": 1691420919,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 451173,
+        "num": 451173,
+        "word": "为什么现在T恤领口越来越小了",
+        "onboard_time": 1691416659,
+        "rank": 7,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 432788,
+        "num": 432788,
+        "word": "济南七十二名泉全部喷涌",
+        "onboard_time": 1691449764,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 389160,
+        "num": 389160,
+        "word": "Prada把檀健次拍成维修工了",
+        "onboard_time": 1691420501,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310962,
+        "num": 310962,
+        "word": "八名游客被困青海无人区断水断食",
+        "onboard_time": 1691417320,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303251,
+        "num": 303251,
+        "word": "李到晛公司下禁令不让他跳tecktonik",
+        "onboard_time": 1691426789,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296342,
+        "num": 296342,
+        "word": "老妈蹄花",
+        "onboard_time": 1691449343,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 294985,
+        "num": 294985,
+        "word": "安倍国葬出席名单74%名字涂黑",
+        "onboard_time": 1691413297,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286794,
+        "num": 286794,
+        "word": "比跷二郎腿更坏的坐姿",
+        "onboard_time": 1691400519,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266405,
+        "num": 266405,
+        "word": "肖战玉骨遥开机vs杀青",
+        "onboard_time": 1691427565,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246829,
+        "num": 246829,
+        "word": "施柏宇方回应节目争议",
+        "onboard_time": 1691450969,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205669,
+        "num": 205669,
+        "word": "凌晨地震老师们跑着叫学生快到重影",
+        "onboard_time": 1691424873,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198853,
+        "num": 198853,
+        "word": "邓为从脖子红到耳朵",
+        "onboard_time": 1691412036,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184395,
+        "num": 184395,
+        "word": "王楚然新剧原著女主一直翻白眼",
+        "onboard_time": 1691405975,
+        "rank": 19,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 788453,
+        "num": 184381,
+        "word": "女主播年入50万花近三万相亲",
+        "onboard_time": 1691445375,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416708,
+        "num": 184369,
+        "word": "原来气血不足要忌口",
+        "onboard_time": 1691418882,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314465,
+        "num": 184361,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1691393379,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 184354,
+        "num": 184354,
+        "word": "男子喝笋汤发现碗内暗藏玄机",
+        "onboard_time": 1691436135,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209444,
+        "num": 180927,
+        "word": "秋天的第一杯奶茶",
+        "onboard_time": 1691450606,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176240,
+        "num": 176240,
+        "word": "千万别戴这种眼镜",
+        "onboard_time": 1691405855,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 173305,
+        "num": 173305,
+        "word": "如何找到自己的穿衣风格",
+        "onboard_time": 1691446577,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169360,
+        "num": 169360,
+        "word": "王一博泰国",
+        "onboard_time": 1691412578,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163839,
+        "num": 163839,
+        "word": "小哥每天自拍直到找到女朋友为止",
+        "onboard_time": 1691430079,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161348,
+        "num": 161348,
+        "word": "涂山璟头发丝都不能输给相柳",
+        "onboard_time": 1691419428,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156944,
+        "num": 156944,
+        "word": "新疆商户凌晨4点赶制2100份馕驰援涞水",
+        "onboard_time": 1691418643,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156827,
+        "num": 156827,
+        "word": "长相思梅林殉情",
+        "onboard_time": 1691412275,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154119,
+        "num": 154119,
+        "word": "虞书欣小兰花库存照腮红",
+        "onboard_time": 1691420860,
+        "rank": 32,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 146916,
+        "num": 146916,
+        "word": "人类有一种本能叫做预感离别",
+        "onboard_time": 1691425590,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 143822,
+        "num": 143822,
+        "word": "现在的小说是相当炸裂啊",
+        "onboard_time": 1691434275,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142866,
+        "num": 142866,
+        "word": "玱玹只听到了三个字",
+        "onboard_time": 1691416901,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142720,
+        "num": 142720,
+        "word": "美食核心技术外泄了",
+        "onboard_time": 1691448140,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136051,
+        "num": 136051,
+        "word": "韩国不让小孩进的咖啡店",
+        "onboard_time": 1691416420,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131815,
+        "num": 131815,
+        "word": "王俊凯又来秀操作了",
+        "onboard_time": 1691421278,
+        "rank": 38,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 130177,
+        "num": 130177,
+        "word": "Doinb",
+        "onboard_time": 1691419724,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126950,
+        "num": 126950,
+        "word": "周杰伦也没想到这是菊花台",
+        "onboard_time": 1691414618,
+        "rank": 40,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 126470,
+        "num": 126470,
+        "word": "射手座容易被误解的一面",
+        "onboard_time": 1691427866,
+        "rank": 41,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 117333,
+        "num": 117333,
+        "word": "福宝的妹妹们迎来暴风式成长",
+        "onboard_time": 1691446636,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113925,
+        "num": 113925,
+        "word": "TES发文告别S13",
+        "onboard_time": 1691417918,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111997,
+        "num": 111997,
+        "word": "易烊千玺大花轿直拍 被删",
+        "onboard_time": 1691400339,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102744,
+        "num": 102744,
+        "word": "他给的实在是太多了",
+        "onboard_time": 1691443994,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98110,
+        "num": 98110,
+        "word": "卡莎",
+        "onboard_time": 1691424158,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97204,
+        "num": 97204,
+        "word": "罗云熙还是好瘦",
+        "onboard_time": 1691422363,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96848,
+        "num": 96848,
+        "word": "胡夏张含韵Gemini梦幻组合",
+        "onboard_time": 1691430979,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87060,
+        "num": 96842,
+        "word": "边牧才是狗界的显眼包",
+        "onboard_time": 1691430142,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#唯有创新才能抢占先机#"
+    }
+  }
+}

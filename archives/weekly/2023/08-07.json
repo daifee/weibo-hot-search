@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691450161286,
+  "endTime": 1691451234232,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -595,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1077395,
+      "num": 1077395,
+      "word": "立秋",
+      "onboard_time": 1691449764,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1075109,
       "num": 590186,
       "word": "王俊凯西安出发路透",
@@ -745,6 +753,14 @@
       "onboard_time": 1691368660,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 818274,
+      "num": 818274,
+      "word": "嘎子哥该如何自证没有诈捐物资",
+      "onboard_time": 1691437934,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 816053,
@@ -1035,14 +1051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 623520,
-      "num": 623520,
-      "word": "嘎子哥该如何自证没有诈捐物资",
-      "onboard_time": 1691437934,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 622719,
       "num": 823392,
       "word": "迪丽热巴戒指",
@@ -1259,14 +1267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 530599,
-      "num": 530599,
-      "word": "立秋",
-      "onboard_time": 1691449764,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 521870,
       "num": 518739,
       "word": "刘耀文唯一一次赢是因为土豆",
@@ -1377,6 +1377,14 @@
       "onboard_time": 1691368419,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 481310,
+      "num": 481310,
+      "word": "因为没见过大海他报了大连理工",
+      "onboard_time": 1691419784,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475649,
@@ -1505,6 +1513,14 @@
       "onboard_time": 1691415160,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432788,
+      "num": 432788,
+      "word": "济南七十二名泉全部喷涌",
+      "onboard_time": 1691449764,
+      "rank": 17,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 429390,
@@ -1712,14 +1728,6 @@
       "word": "女子被未牵绳大狗拖拽在地撕咬",
       "onboard_time": 1691376334,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388467,
-      "num": 420555,
-      "word": "因为没见过大海他报了大连理工",
-      "onboard_time": 1691419784,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2051,6 +2059,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 296342,
+      "num": 296342,
+      "word": "老妈蹄花",
+      "onboard_time": 1691449343,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 295842,
       "num": 295842,
       "word": "小夭戏弄涂山璟",
@@ -2243,6 +2259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266405,
+      "num": 266405,
+      "word": "肖战玉骨遥开机vs杀青",
+      "onboard_time": 1691427565,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264227,
       "num": 819294,
       "word": "七时吉祥定档",
@@ -2323,6 +2347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246829,
+      "num": 246829,
+      "word": "施柏宇方回应节目争议",
+      "onboard_time": 1691450969,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246069,
       "num": 821893,
       "word": "旭旭宝宝签约抖音",
@@ -2361,14 +2393,6 @@
       "onboard_time": 1691387977,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 240913,
-      "num": 240913,
-      "word": "肖战玉骨遥开机vs杀青",
-      "onboard_time": 1691427565,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 236757,
@@ -2513,6 +2537,14 @@
       "onboard_time": 1691392057,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209444,
+      "num": 180927,
+      "word": "秋天的第一杯奶茶",
+      "onboard_time": 1691450606,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 208070,
@@ -2675,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184354,
+      "num": 184354,
+      "word": "男子喝笋汤发现碗内暗藏玄机",
+      "onboard_time": 1691436135,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182086,
       "num": 817365,
       "word": "曼城vs阿森纳",
@@ -2739,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173305,
+      "num": 173305,
+      "word": "如何找到自己的穿衣风格",
+      "onboard_time": 1691446577,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171265,
       "num": 818180,
       "word": "莲花楼预告悬疑感拉满了",
@@ -2755,12 +2803,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 163990,
-      "num": 163990,
-      "word": "济南七十二名泉全部喷涌",
-      "onboard_time": 1691449764,
-      "rank": 17,
-      "category": "旅游,社会新闻"
+      "raw_hot": 163839,
+      "num": 163839,
+      "word": "小哥每天自拍直到找到女朋友为止",
+      "onboard_time": 1691430079,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 162327,
@@ -2819,12 +2867,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143822,
+      "num": 143822,
+      "word": "现在的小说是相当炸裂啊",
+      "onboard_time": 1691434275,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143713,
       "num": 619219,
       "word": "地震来了他们没跑反而拿起电话",
       "onboard_time": 1691327712,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142720,
+      "num": 142720,
+      "word": "美食核心技术外泄了",
+      "onboard_time": 1691448140,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 142556,
@@ -2841,14 +2905,6 @@
       "onboard_time": 1691351173,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140488,
-      "num": 140488,
-      "word": "男子喝笋汤发现碗内暗藏玄机",
-      "onboard_time": 1691436135,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138448,
@@ -2891,14 +2947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 134184,
-      "num": 134184,
-      "word": "小哥每天自拍直到找到女朋友为止",
-      "onboard_time": 1691430079,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134161,
       "num": 91296,
       "word": "行星饭来看TFBOYS演唱会",
@@ -2923,28 +2971,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128696,
-      "num": 128696,
-      "word": "如何找到自己的穿衣风格",
-      "onboard_time": 1691446577,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 128096,
-      "num": 128096,
-      "word": "现在的小说是相当炸裂啊",
-      "onboard_time": 1691434275,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127296,
       "num": 817559,
       "word": "XYG状态",
       "onboard_time": 1691330060,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126470,
+      "num": 126470,
+      "word": "射手座容易被误解的一面",
+      "onboard_time": 1691427866,
+      "rank": 36,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 126298,
@@ -2977,6 +3017,14 @@
       "onboard_time": 1691360958,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117333,
+      "num": 117333,
+      "word": "福宝的妹妹们迎来暴风式成长",
+      "onboard_time": 1691446636,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113895,
@@ -3019,28 +3067,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 105530,
-      "num": 105530,
-      "word": "老妈蹄花",
-      "onboard_time": 1691449343,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 103506,
       "num": 103506,
       "word": "胡夏张含韵Gemini梦幻组合",
       "onboard_time": 1691430979,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102143,
-      "num": 102143,
-      "word": "射手座容易被误解的一面",
-      "onboard_time": 1691427866,
-      "rank": 36,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 99315,
@@ -3067,24 +3099,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 91353,
-      "num": 91353,
-      "word": "美食核心技术外泄了",
-      "onboard_time": 1691448140,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 89709,
-      "num": 89709,
-      "word": "福宝的妹妹们迎来暴风式成长",
-      "onboard_time": 1691446636,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82911,
-      "num": 82911,
+      "raw_hot": 87060,
+      "num": 96842,
       "word": "边牧才是狗界的显眼包",
       "onboard_time": 1691430142,
       "rank": 30,
