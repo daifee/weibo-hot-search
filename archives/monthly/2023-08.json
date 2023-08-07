@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691404471526,
+  "endTime": 1691406818963,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 2780162,
-      "num": 546524,
+      "num": 639877,
       "word": "易烊千玺大花轿直拍 被删",
       "onboard_time": 1691400339,
       "rank": 22,
@@ -780,7 +780,7 @@
     },
     {
       "raw_hot": 2223994,
-      "num": 682994,
+      "num": 728536,
       "word": "时代峰峻回应TFBOYS很少合体",
       "onboard_time": 1691397160,
       "rank": 7,
@@ -1596,7 +1596,7 @@
     },
     {
       "raw_hot": 1468348,
-      "num": 474563,
+      "num": 483167,
       "word": "一个姐姐离婚时发的朋友圈",
       "onboard_time": 1691393379,
       "rank": 34,
@@ -2531,6 +2531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1116285,
+      "num": 591603,
+      "word": "TFBOYS是在擦玻璃吗",
+      "onboard_time": 1691402439,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1114869,
       "num": 1114869,
       "word": "电影热烈抵制一切偷瞒票房行为",
@@ -2628,7 +2636,7 @@
     },
     {
       "raw_hot": 1091270,
-      "num": 499906,
+      "num": 500728,
       "word": "魔法城堡女主也去了TFBOYS演唱会",
       "onboard_time": 1691400161,
       "rank": 15,
@@ -2968,6 +2976,14 @@
       "word": "原著里小夭是自己游回去的",
       "onboard_time": 1691021676,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1003853,
+      "num": 1003853,
+      "word": "孤注一掷成中国影史点映票房冠军",
+      "onboard_time": 1691403340,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -3827,6 +3843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 842290,
+      "num": 842290,
+      "word": "王楚然新剧原著女主一直翻白眼",
+      "onboard_time": 1691405975,
+      "rank": 3,
+      "category": "艺人,影视"
+    },
+    {
       "raw_hot": 841262,
       "num": 2090849,
       "word": "杨紫是懂断更的",
@@ -4505,14 +4529,6 @@
       "onboard_time": 1691300676,
       "rank": 23,
       "category": "美食,情感"
-    },
-    {
-      "raw_hot": 750495,
-      "num": 467368,
-      "word": "TFBOYS是在擦玻璃吗",
-      "onboard_time": 1691402439,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 749652,
@@ -5267,6 +5283,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 668216,
+      "num": 333193,
+      "word": "千万别戴这种眼镜",
+      "onboard_time": 1691405855,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 667463,
+      "num": 667463,
+      "word": "TES对战WBG",
+      "onboard_time": 1691396257,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 666192,
       "num": 561245,
       "word": "蒋欣崩溃式哭戏",
@@ -5321,6 +5353,14 @@
       "onboard_time": 1691393197,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 658067,
+      "num": 658067,
+      "word": "小夭知道防风邶是相柳了",
+      "onboard_time": 1691404596,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 656366,
@@ -5443,6 +5483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 644286,
+      "num": 644286,
+      "word": "小龙虾和龙虾有什么区别",
+      "onboard_time": 1691400403,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 643382,
       "num": 583850,
       "word": "异人之下 中式恐怖",
@@ -5496,6 +5544,14 @@
       "word": "苏妲己 白月光",
       "onboard_time": 1691193210,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 639422,
+      "num": 639422,
+      "word": "大王姬脸红了",
+      "onboard_time": 1691404118,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -5843,14 +5899,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 604389,
-      "num": 522845,
-      "word": "小龙虾和龙虾有什么区别",
-      "onboard_time": 1691400403,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 602996,
       "num": 546710,
       "word": "今晚四叶草是最开心的粉丝",
@@ -5945,14 +5993,6 @@
       "onboard_time": 1690868433,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 594836,
-      "num": 594836,
-      "word": "孤注一掷成中国影史点映票房冠军",
-      "onboard_time": 1691403340,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 594678,
@@ -6243,14 +6283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 579985,
-      "num": 579985,
-      "word": "TES对战WBG",
-      "onboard_time": 1691396257,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 579584,
       "num": 524102,
       "word": "金晨演技",
@@ -6289,6 +6321,14 @@
       "onboard_time": 1691320554,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 573970,
+      "num": 573970,
+      "word": "莲花楼热度反超长相思",
+      "onboard_time": 1691406278,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 573359,
@@ -6449,6 +6489,14 @@
       "onboard_time": 1691263295,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561217,
+      "num": 477818,
+      "word": "李现反多巴胺穿搭",
+      "onboard_time": 1691403935,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 560734,
@@ -7043,6 +7091,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 521225,
+      "num": 521225,
+      "word": "警方回应男子当街猥亵喝断片女子",
+      "onboard_time": 1691404359,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521134,
       "num": 521134,
       "word": "小夭的三种婚后生活",
@@ -7340,7 +7396,7 @@
     },
     {
       "raw_hot": 500881,
-      "num": 393230,
+      "num": 462703,
       "word": "TFBOYS各家站姐出图",
       "onboard_time": 1691398838,
       "rank": 39,
@@ -7857,6 +7913,14 @@
       "onboard_time": 1691146356,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 469445,
+      "num": 469445,
+      "word": "广州emo",
+      "onboard_time": 1691404656,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467718,
@@ -8612,7 +8676,7 @@
     },
     {
       "raw_hot": 421662,
-      "num": 484114,
+      "num": 516119,
       "word": "舒兰常务副市长最后的语音在布置工作",
       "onboard_time": 1691399198,
       "rank": 19,
@@ -8808,6 +8872,14 @@
       "word": "莲花楼直播",
       "onboard_time": 1690967314,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 411917,
+      "num": 411917,
+      "word": "曾舜晞说莲花楼有两个结局",
+      "onboard_time": 1691405376,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -9619,14 +9691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 372580,
-      "num": 303243,
-      "word": "李现反多巴胺穿搭",
-      "onboard_time": 1691403935,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 372413,
       "num": 372413,
       "word": "待产孕妇在声声鼓励中登上冲锋舟",
@@ -10275,14 +10339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341930,
-      "num": 296405,
-      "word": "大王姬脸红了",
-      "onboard_time": 1691404118,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 340763,
       "num": 657128,
       "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
@@ -10579,6 +10635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326982,
+      "num": 326982,
+      "word": "王俊凯新歌回望",
+      "onboard_time": 1691405497,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 326947,
       "num": 230271,
       "word": "林一翻跳ENHYPEN的biteme",
@@ -10753,6 +10817,14 @@
       "onboard_time": 1691214934,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 319602,
+      "num": 319602,
+      "word": "TheShy",
+      "onboard_time": 1691406397,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 319587,
@@ -11681,6 +11753,14 @@
       "onboard_time": 1690986875,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 287751,
+      "num": 287751,
+      "word": "酒吧回应网传男子当街猥亵女子",
+      "onboard_time": 1691403759,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287679,
@@ -13379,22 +13459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229003,
-      "num": 229003,
-      "word": "警方回应男子当街猥亵喝断片女子",
-      "onboard_time": 1691404359,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228631,
-      "num": 228631,
-      "word": "酒吧回应网传男子当街猥亵女子",
-      "onboard_time": 1691403759,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228562,
       "num": 228562,
       "word": "封神榜",
@@ -14297,6 +14361,14 @@
       "onboard_time": 1691400816,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207302,
+      "num": 207302,
+      "word": "Rookie杰斯五杀",
+      "onboard_time": 1691406456,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 206972,
@@ -15827,6 +15899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174384,
+      "num": 207191,
+      "word": "英格兰女足4比2尼日利亚女足",
+      "onboard_time": 1691404958,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174079,
       "num": 901573,
       "word": "女排",
@@ -16313,6 +16393,14 @@
       "onboard_time": 1691230597,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151215,
+      "num": 336273,
+      "word": "消防员救援间隙收到妻子产房喜讯",
+      "onboard_time": 1691406695,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150620,
@@ -16833,6 +16921,14 @@
       "onboard_time": 1690857097,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118309,
+      "num": 677794,
+      "word": "游客扔遍地垃圾女子自发去海边捡拾",
+      "onboard_time": 1691405975,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118280,
@@ -17648,6 +17744,14 @@
       "word": "关注京津冀强降雨",
       "onboard_time": 1690915934,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26324,
+      "num": 596038,
+      "word": "消防员冷水里排涝脸上热汗不断",
+      "onboard_time": 1691406218,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
