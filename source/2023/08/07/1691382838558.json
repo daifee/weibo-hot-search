@@ -1,0 +1,410 @@
+{
+  "runTime": 1691382838558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628723,
+        "num": 1628723,
+        "word": "按摩椅能不能离开电影院",
+        "onboard_time": 1691378018,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702244,
+        "num": 702244,
+        "word": "爱宝双胞胎宝宝满月照",
+        "onboard_time": 1691380303,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121186,
+        "num": 695441,
+        "word": "防汛最新信息汇总",
+        "onboard_time": 1691378138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2578037,
+        "num": 694214,
+        "word": "月薪2万住不起如家汉庭",
+        "onboard_time": 1691375974,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 181613,
+        "num": 686778,
+        "word": "武警对舒兰受灾区域全力开展搜救",
+        "onboard_time": 1691377899,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3185178,
+        "num": 678675,
+        "word": "王源放下话筒之后还在唱",
+        "onboard_time": 1691380059,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1991911,
+        "num": 673122,
+        "word": "苍兰诀角色号醒了",
+        "onboard_time": 1691381204,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 901921,
+        "num": 663125,
+        "word": "孤注一掷点映中途暂停被观众怒斥",
+        "onboard_time": 1691376757,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 826677,
+        "num": 656612,
+        "word": "魏大勋忘记还麦的时候",
+        "onboard_time": 1691376757,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544345,
+        "num": 646720,
+        "word": "舒兰公职人员失联牺牲前奔赴一线画面",
+        "onboard_time": 1691378378,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2249106,
+        "num": 636734,
+        "word": "TFBOYS暂未确定巡演城市",
+        "onboard_time": 1691375498,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1901203,
+        "num": 631884,
+        "word": "领导们好像不爱吃火锅",
+        "onboard_time": 1691377537,
+        "rank": 11,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 1764436,
+        "num": 627995,
+        "word": "奚安娜",
+        "onboard_time": 1691378919,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2149828,
+        "num": 616762,
+        "word": "易烊千玺十周年演唱会单人机位",
+        "onboard_time": 1691380785,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233720,
+        "num": 612032,
+        "word": "地震时他们仨不约而同敲响邻居的门",
+        "onboard_time": 1691380844,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755746,
+        "num": 603310,
+        "word": "日本电梯真的很适合i人生存",
+        "onboard_time": 1691376215,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1831123,
+        "num": 598484,
+        "word": "蓝羽回应主持TFBOYS演唱会",
+        "onboard_time": 1691377716,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 593040,
+        "num": 593040,
+        "word": "迈阿密国际逆转淘汰达拉斯",
+        "onboard_time": 1691381324,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514589,
+        "num": 514589,
+        "word": "卡努",
+        "onboard_time": 1691375313,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1627618,
+        "num": 513925,
+        "word": "工作人员回应TFBOYS演唱会馆外有垃圾",
+        "onboard_time": 1691382464,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1407174,
+        "num": 511776,
+        "word": "女子生下一女婴3天后又产一子",
+        "onboard_time": 1691378198,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664143,
+        "num": 509630,
+        "word": "苍兰诀再登顶爱奇艺热度榜",
+        "onboard_time": 1691381503,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 990991,
+        "num": 507492,
+        "word": "TFBOYS快本的信",
+        "onboard_time": 1691329401,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 653266,
+        "num": 505524,
+        "word": "王楚然海棠笑春风出妆饭拍",
+        "onboard_time": 1691380962,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504988,
+        "num": 504988,
+        "word": "被保护得太好的人有什么特征",
+        "onboard_time": 1691377300,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 652401,
+        "num": 502891,
+        "word": "很难解释这是巧合还是故意",
+        "onboard_time": 1691379220,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 495967,
+        "num": 495967,
+        "word": "经常喝咖啡把命喝苦了",
+        "onboard_time": 1691381863,
+        "rank": 26,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 392199,
+        "num": 392199,
+        "word": "梅西进球",
+        "onboard_time": 1691375073,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 710053,
+        "num": 360123,
+        "word": "黑龙江省委书记称宁听骂声不听哭声",
+        "onboard_time": 1691377116,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536771,
+        "num": 352633,
+        "word": "所有的四叶草是来送他们的",
+        "onboard_time": 1691375432,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 458923,
+        "num": 346873,
+        "word": "大汉赋",
+        "onboard_time": 1691379881,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319708,
+        "num": 319708,
+        "word": "张艺兴金晨情头",
+        "onboard_time": 1691364576,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1362824,
+        "num": 316597,
+        "word": "易烊千玺夹得嗓子都冒烟了",
+        "onboard_time": 1691363487,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307205,
+        "num": 307205,
+        "word": "电影孤注一掷提档",
+        "onboard_time": 1691363365,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296056,
+        "num": 296056,
+        "word": "A股",
+        "onboard_time": 1691375613,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 486901,
+        "num": 292844,
+        "word": "TFBOYS官博急了",
+        "onboard_time": 1691319525,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305756,
+        "num": 291662,
+        "word": "薛之谦在线帮歌迷牵线",
+        "onboard_time": 1691377836,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288412,
+        "num": 288412,
+        "word": "这口臭绝对不是我的",
+        "onboard_time": 1691376395,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281729,
+        "num": 281729,
+        "word": "滔搏 报点",
+        "onboard_time": 1691368660,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247621,
+        "num": 247621,
+        "word": "尊重比孝顺更重要",
+        "onboard_time": 1691376994,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287993,
+        "num": 246729,
+        "word": "鹿晗武汉演唱会",
+        "onboard_time": 1691381503,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258037,
+        "num": 246349,
+        "word": "七时吉祥",
+        "onboard_time": 1691378739,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245198,
+        "num": 245198,
+        "word": "空调工裸辞写文6年获粉千万",
+        "onboard_time": 1691382343,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234314,
+        "num": 245149,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1691375193,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228029,
+        "num": 245080,
+        "word": "女子被未牵绳大狗拖拽在地撕咬",
+        "onboard_time": 1691376334,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225284,
+        "num": 245056,
+        "word": "重庆的猫啊那没事了",
+        "onboard_time": 1691368540,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213784,
+        "num": 244944,
+        "word": "时代少年团演唱会什么时候官宣",
+        "onboard_time": 1691375073,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173092,
+        "num": 244885,
+        "word": "迈阿密国际后防线",
+        "onboard_time": 1691378618,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169878,
+        "num": 244839,
+        "word": "十二星座一周运势",
+        "onboard_time": 1691376818,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167624,
+        "num": 244749,
+        "word": "毛不易献唱学爸片尾曲",
+        "onboard_time": 1691377836,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#风雨同心人民至上#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691382007863,
+  "endTime": 1691382838558,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -99,12 +99,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 2079435,
+      "raw_hot": 2149828,
       "num": 719391,
       "word": "易烊千玺十周年演唱会单人机位",
       "onboard_time": 1691380785,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1991911,
+      "num": 949150,
+      "word": "苍兰诀角色号醒了",
+      "onboard_time": 1691381204,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1901203,
+      "num": 719738,
+      "word": "领导们好像不爱吃火锅",
+      "onboard_time": 1691377537,
+      "rank": 32,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 1878396,
@@ -139,6 +155,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1628723,
+      "num": 1628723,
+      "word": "按摩椅能不能离开电影院",
+      "onboard_time": 1691378018,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1627618,
+      "num": 513925,
+      "word": "工作人员回应TFBOYS演唱会馆外有垃圾",
+      "onboard_time": 1691382464,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1604066,
       "num": 542183,
       "word": "所有的四叶草是来送他们的",
@@ -147,24 +179,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1544198,
-      "num": 719738,
-      "word": "领导们好像不爱吃火锅",
-      "onboard_time": 1691377537,
-      "rank": 32,
-      "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 1534652,
-      "num": 1534652,
-      "word": "按摩椅能不能离开电影院",
-      "onboard_time": 1691378018,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1442986,
-      "num": 471216,
+      "num": 511776,
       "word": "女子生下一女婴3天后又产一子",
       "onboard_time": 1691378198,
       "rank": 47,
@@ -240,14 +256,6 @@
       "word": "电影孤注一掷提档",
       "onboard_time": 1691363365,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 949150,
-      "num": 949150,
-      "word": "苍兰诀角色号醒了",
-      "onboard_time": 1691381204,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -331,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 755746,
+      "num": 718269,
+      "word": "日本电梯真的很适合i人生存",
+      "onboard_time": 1691376215,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 726401,
       "num": 726401,
       "word": "央视采访列车被困落坡岭细节太震撼",
@@ -340,19 +356,11 @@
     },
     {
       "raw_hot": 725367,
-      "num": 470801,
+      "num": 502891,
       "word": "很难解释这是巧合还是故意",
       "onboard_time": 1691379220,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 718269,
-      "num": 718269,
-      "word": "日本电梯真的很适合i人生存",
-      "onboard_time": 1691376215,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 709194,
@@ -363,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 702244,
+      "num": 702244,
+      "word": "爱宝双胞胎宝宝满月照",
+      "onboard_time": 1691380303,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698563,
       "num": 821458,
       "word": "原来穿高跟鞋从背后看是这样的",
@@ -371,12 +387,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 632571,
-      "num": 632571,
-      "word": "爱宝双胞胎宝宝满月照",
-      "onboard_time": 1691380303,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 664143,
+      "num": 509630,
+      "word": "苍兰诀再登顶爱奇艺热度榜",
+      "onboard_time": 1691381503,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 653266,
+      "num": 505524,
+      "word": "王楚然海棠笑春风出妆饭拍",
+      "onboard_time": 1691380962,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 622719,
@@ -385,6 +409,14 @@
       "onboard_time": 1691323387,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 593040,
+      "num": 593040,
+      "word": "迈阿密国际逆转淘汰达拉斯",
+      "onboard_time": 1691381324,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 588512,
@@ -451,6 +483,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 504988,
+      "num": 504988,
+      "word": "被保护得太好的人有什么特征",
+      "onboard_time": 1691377300,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 495967,
+      "num": 495967,
+      "word": "经常喝咖啡把命喝苦了",
+      "onboard_time": 1691381863,
+      "rank": 46,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 492034,
       "num": 424195,
       "word": "A股",
@@ -475,14 +523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 488732,
-      "num": 418007,
-      "word": "王楚然海棠笑春风出妆饭拍",
-      "onboard_time": 1691380962,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 483673,
       "num": 468008,
       "word": "涂山璟 智计无双细节点",
@@ -499,15 +539,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 470103,
-      "num": 470103,
-      "word": "被保护得太好的人有什么特征",
-      "onboard_time": 1691377300,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 455083,
+      "raw_hot": 458923,
       "num": 416444,
       "word": "大汉赋",
       "onboard_time": 1691379881,
@@ -539,14 +571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 420116,
-      "num": 420116,
-      "word": "迈阿密国际逆转淘汰达拉斯",
-      "onboard_time": 1691381324,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 418035,
       "num": 418035,
       "word": "XYG 比赛全程在联盟裁判监督下进行",
@@ -569,14 +593,6 @@
       "onboard_time": 1691375073,
       "rank": 18,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 405306,
-      "num": 405306,
-      "word": "苍兰诀再登顶爱奇艺热度榜",
-      "onboard_time": 1691381503,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 401080,
@@ -681,6 +697,14 @@
       "onboard_time": 1691378499,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287993,
+      "num": 246729,
+      "word": "鹿晗武汉演唱会",
+      "onboard_time": 1691381503,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 286771,
@@ -811,6 +835,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 245198,
+      "num": 245198,
+      "word": "空调工裸辞写文6年获粉千万",
+      "onboard_time": 1691382343,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241871,
       "num": 241871,
       "word": "年度小品莲花楼",
@@ -833,6 +865,14 @@
       "onboard_time": 1691375073,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233720,
+      "num": 718536,
+      "word": "地震时他们仨不约而同敲响邻居的门",
+      "onboard_time": 1691380844,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233094,
@@ -867,14 +907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219350,
-      "num": 219350,
-      "word": "经常喝咖啡把命喝苦了",
-      "onboard_time": 1691381863,
-      "rank": 46,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 218523,
       "num": 218523,
       "word": "怎么处理衣柜上偷看我的小老鼠",
@@ -892,19 +924,11 @@
     },
     {
       "raw_hot": 212260,
-      "num": 212260,
+      "num": 244749,
       "word": "毛不易献唱学爸片尾曲",
       "onboard_time": 1691377836,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 202032,
-      "num": 205805,
-      "word": "鹿晗武汉演唱会",
-      "onboard_time": 1691381503,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 196521,
@@ -955,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181613,
+      "num": 929097,
+      "word": "武警对舒兰受灾区域全力开展搜救",
+      "onboard_time": 1691377899,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177753,
       "num": 210468,
       "word": "G2夺冠",
@@ -977,14 +1009,6 @@
       "onboard_time": 1691313701,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173160,
-      "num": 929097,
-      "word": "武警对舒兰受灾区域全力开展搜救",
-      "onboard_time": 1691377899,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171265,
@@ -1067,14 +1091,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 128166,
-      "num": 718536,
-      "word": "地震时他们仨不约而同敲响邻居的门",
-      "onboard_time": 1691380844,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127296,
       "num": 817559,
       "word": "XYG状态",
@@ -1091,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121186,
+      "num": 944381,
+      "word": "防汛最新信息汇总",
+      "onboard_time": 1691378138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119719,
       "num": 151007,
       "word": "这凉茶让撒贝宁沉默岳云鹏流泪",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1691353093,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 113467,
-      "num": 944381,
-      "word": "防汛最新信息汇总",
-      "onboard_time": 1691378138,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112576,
