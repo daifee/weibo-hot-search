@@ -1,0 +1,410 @@
+{
+  "runTime": 1691399846623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1758501,
+        "num": 1758501,
+        "word": "优酷只有一部短剧在更",
+        "onboard_time": 1691396560,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1087530,
+        "num": 1087530,
+        "word": "中纪委曝光一台直线加速器回扣1600万",
+        "onboard_time": 1691389897,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50831,
+        "num": 929783,
+        "word": "舒兰公职人员失联牺牲前奔赴一线画面",
+        "onboard_time": 1691378378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833926,
+        "num": 833926,
+        "word": "杨幂再退出1家与嘉行老板合开公司",
+        "onboard_time": 1691392838,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397084,
+        "num": 677416,
+        "word": "门头沟区龙泉镇副镇长刘捷遇难",
+        "onboard_time": 1691394999,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2223994,
+        "num": 671378,
+        "word": "时代峰峻回应TFBOYS很少合体",
+        "onboard_time": 1691397160,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652399,
+        "num": 652399,
+        "word": "莲花楼央八收视",
+        "onboard_time": 1691397518,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579985,
+        "num": 579985,
+        "word": "TES对战WBG",
+        "onboard_time": 1691396257,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 521043,
+        "num": 521043,
+        "word": "宁波机场",
+        "onboard_time": 1691399261,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63093,
+        "num": 520965,
+        "word": "他们扛沙袋冒雨逆行的背影让人泪目",
+        "onboard_time": 1691383545,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2485631,
+        "num": 509705,
+        "word": "倒下的蛋糕 虚假中的真实",
+        "onboard_time": 1691391820,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1544729,
+        "num": 506729,
+        "word": "张艺凡偷偷看了李飞一眼",
+        "onboard_time": 1691398177,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1088227,
+        "num": 501514,
+        "word": "鸟姐自觉盖上了红盖头",
+        "onboard_time": 1691396976,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1040865,
+        "num": 492658,
+        "word": "TFBOYS父母坐在一起",
+        "onboard_time": 1691391396,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34281,
+        "num": 485427,
+        "word": "涿州孤岛救援12小时纪实",
+        "onboard_time": 1691398838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015813,
+        "num": 484824,
+        "word": "王楚然的手机壳",
+        "onboard_time": 1691388218,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1020552,
+        "num": 474566,
+        "word": "只有王源在吹蜡烛",
+        "onboard_time": 1691394941,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 473078,
+        "num": 473078,
+        "word": "华为15亿成立房地产公司",
+        "onboard_time": 1691387676,
+        "rank": 17,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 387740,
+        "num": 387740,
+        "word": "台风卡努大转弯或将登陆我国",
+        "onboard_time": 1691384323,
+        "rank": 18,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 190734,
+        "num": 382516,
+        "word": "舒兰常务副市长最后的语音在布置工作",
+        "onboard_time": 1691399198,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1232473,
+        "num": 378253,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1691393379,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 755857,
+        "num": 372074,
+        "word": "TFBOYS三人一车",
+        "onboard_time": 1691390499,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717440,
+        "num": 366518,
+        "word": "陈哲远和机场保洁撞衫",
+        "onboard_time": 1691398599,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 388338,
+        "num": 358497,
+        "word": "长期缺爱的人有什么表现",
+        "onboard_time": 1691397216,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358464,
+        "num": 358464,
+        "word": "男子花200元网购金毛拆开傻眼",
+        "onboard_time": 1691395661,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417361,
+        "num": 356763,
+        "word": "周冬雨素颜生活照",
+        "onboard_time": 1691398659,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 374565,
+        "num": 352547,
+        "word": "王源放下话筒之后还在唱",
+        "onboard_time": 1691380059,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 339742,
+        "num": 339742,
+        "word": "女子生下一女婴3天后又产一子",
+        "onboard_time": 1691378198,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320303,
+        "num": 320303,
+        "word": "早期kpop人出卡寄卡方式",
+        "onboard_time": 1691398419,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 346162,
+        "num": 320193,
+        "word": "王俊凯西安出发路透",
+        "onboard_time": 1691386420,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543155,
+        "num": 320087,
+        "word": "村委回应男孩性侵抛尸11岁女童",
+        "onboard_time": 1691385819,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339282,
+        "num": 320037,
+        "word": "TF三代让我们不顾一切单人海报",
+        "onboard_time": 1691393197,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319894,
+        "num": 319894,
+        "word": "月薪2万住不起如家汉庭",
+        "onboard_time": 1691375974,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 315072,
+        "num": 315072,
+        "word": "杨紫张晚意原声率",
+        "onboard_time": 1691397938,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303517,
+        "num": 309821,
+        "word": "卡利塔航空货机降落时滑出跑道",
+        "onboard_time": 1691399501,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306722,
+        "num": 306722,
+        "word": "张晚意辟谣演完古偶奖励自己拍正剧",
+        "onboard_time": 1691394040,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1387266,
+        "num": 306450,
+        "word": "TFBOYS团站关站",
+        "onboard_time": 1691389659,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305219,
+        "num": 305219,
+        "word": "易烊千玺出发北京",
+        "onboard_time": 1691399678,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286400,
+        "num": 286400,
+        "word": "领导们好像不爱吃火锅",
+        "onboard_time": 1691377537,
+        "rank": 38,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 500881,
+        "num": 284707,
+        "word": "TFBOYS各家站姐出图",
+        "onboard_time": 1691398838,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275941,
+        "num": 275941,
+        "word": "马立奥爷爷的礼物是每人一台车",
+        "onboard_time": 1691390978,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275017,
+        "num": 275017,
+        "word": "Somi回归",
+        "onboard_time": 1691399738,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268568,
+        "num": 268568,
+        "word": "檀健次黑发狼尾",
+        "onboard_time": 1691392779,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265298,
+        "num": 265298,
+        "word": "奚安娜",
+        "onboard_time": 1691378919,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253192,
+        "num": 253192,
+        "word": "王传君王大陆30秒演完孤注一掷",
+        "onboard_time": 1691384026,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238688,
+        "num": 238688,
+        "word": "接近碧桂园人士称被进驻传言不实",
+        "onboard_time": 1691392597,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 236014,
+        "num": 236014,
+        "word": "王一博出发泰国机场路透",
+        "onboard_time": 1691392175,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235002,
+        "num": 235002,
+        "word": "APP推送能不能别假装来信",
+        "onboard_time": 1691394579,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204468,
+        "num": 204468,
+        "word": "LPL",
+        "onboard_time": 1691398900,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187846,
+        "num": 203084,
+        "word": "正式确诊为互联网赶集人",
+        "onboard_time": 1691399738,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#7个数字揭秘大运会闭幕式#"
+    }
+  }
+}

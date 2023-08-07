@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691397272469,
+  "endTime": 1691399846623,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -115,6 +115,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 2223994,
+      "num": 671378,
+      "word": "时代峰峻回应TFBOYS很少合体",
+      "onboard_time": 1691397160,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2173697,
       "num": 821625,
       "word": "易烊千玺太野了",
@@ -187,6 +195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1758501,
+      "num": 1758501,
+      "word": "优酷只有一部短剧在更",
+      "onboard_time": 1691396560,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1634260,
       "num": 1634260,
       "word": "中纪委曝光一台直线加速器回扣1600万",
@@ -227,6 +243,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 1544729,
+      "num": 506729,
+      "word": "张艺凡偷偷看了李飞一眼",
+      "onboard_time": 1691398177,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1473722,
       "num": 745542,
       "word": "经常喝咖啡把命喝苦了",
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 1468348,
-      "num": 312188,
+      "num": 378253,
       "word": "一个姐姐离婚时发的朋友圈",
       "onboard_time": 1691393379,
       "rank": 34,
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 1165425,
-      "num": 364323,
+      "num": 474566,
       "word": "只有王源在吹蜡烛",
       "onboard_time": 1691394941,
       "rank": 17,
@@ -379,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1088227,
+      "num": 501514,
+      "word": "鸟姐自觉盖上了红盖头",
+      "onboard_time": 1691396976,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1075109,
       "num": 590186,
       "word": "王俊凯西安出发路透",
@@ -393,14 +425,6 @@
       "onboard_time": 1691363365,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1019394,
-      "num": 623576,
-      "word": "时代峰峻回应TFBOYS很少合体",
-      "onboard_time": 1691397160,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 947950,
@@ -555,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 717440,
+      "num": 366518,
+      "word": "陈哲远和机场保洁撞衫",
+      "onboard_time": 1691398599,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 709194,
       "num": 185320,
       "word": "徐峥陶虹带女儿看TFBOYS演唱会",
@@ -619,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 652399,
+      "num": 652399,
+      "word": "莲花楼央八收视",
+      "onboard_time": 1691397518,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 635249,
       "num": 590860,
       "word": "2013快男团综定档",
@@ -641,14 +681,6 @@
       "onboard_time": 1691382343,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 594947,
-      "num": 594947,
-      "word": "优酷只有一部短剧在更",
-      "onboard_time": 1691396560,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 593040,
@@ -691,8 +723,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 579985,
+      "num": 579985,
+      "word": "TES对战WBG",
+      "onboard_time": 1691396257,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 564215,
-      "num": 722138,
+      "num": 929783,
       "word": "舒兰公职人员失联牺牲前奔赴一线画面",
       "onboard_time": 1691378378,
       "rank": 19,
@@ -739,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521043,
+      "num": 521043,
+      "word": "宁波机场",
+      "onboard_time": 1691399261,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 517806,
       "num": 517806,
       "word": "于适成为姬发",
@@ -753,6 +801,14 @@
       "onboard_time": 1691377300,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 500881,
+      "num": 284707,
+      "word": "TFBOYS各家站姐出图",
+      "onboard_time": 1691398838,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 498477,
@@ -891,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 417361,
+      "num": 356763,
+      "word": "周冬雨素颜生活照",
+      "onboard_time": 1691398659,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 416589,
       "num": 469256,
       "word": "原来头发真的能晒变色",
@@ -900,7 +964,7 @@
     },
     {
       "raw_hot": 414487,
-      "num": 290115,
+      "num": 306722,
       "word": "张晚意辟谣演完古偶奖励自己拍正剧",
       "onboard_time": 1691394040,
       "rank": 26,
@@ -940,7 +1004,7 @@
     },
     {
       "raw_hot": 398108,
-      "num": 263596,
+      "num": 268568,
       "word": "檀健次黑发狼尾",
       "onboard_time": 1691392779,
       "rank": 33,
@@ -971,8 +1035,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388338,
+      "num": 358497,
+      "word": "长期缺爱的人有什么表现",
+      "onboard_time": 1691397216,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 373541,
-      "num": 275010,
+      "num": 358464,
       "word": "男子花200元网购金毛拆开傻眼",
       "onboard_time": 1691395661,
       "rank": 37,
@@ -1001,14 +1073,6 @@
       "onboard_time": 1691388637,
       "rank": 31,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 348091,
-      "num": 253638,
-      "word": "鸟姐自觉盖上了红盖头",
-      "onboard_time": 1691396976,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 340763,
@@ -1059,12 +1123,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320303,
+      "num": 320303,
+      "word": "早期kpop人出卡寄卡方式",
+      "onboard_time": 1691398419,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 318242,
       "num": 319845,
       "word": "多场医药学术会议宣布延期",
       "onboard_time": 1691388458,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315072,
+      "num": 315072,
+      "word": "杨紫张晚意原声率",
+      "onboard_time": 1691397938,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 312724,
@@ -1099,11 +1179,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305219,
+      "num": 305219,
+      "word": "易烊千玺出发北京",
+      "onboard_time": 1691399678,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 304328,
       "num": 718536,
       "word": "地震时他们仨不约而同敲响邻居的门",
       "onboard_time": 1691380844,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303517,
+      "num": 309821,
+      "word": "卡利塔航空货机降落时滑出跑道",
+      "onboard_time": 1691399501,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1113,14 +1209,6 @@
       "onboard_time": 1691396677,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299909,
-      "num": 299909,
-      "word": "TES对战WBG",
-      "onboard_time": 1691396257,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 298249,
@@ -1217,6 +1305,14 @@
       "onboard_time": 1691313521,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275017,
+      "num": 275017,
+      "word": "Somi回归",
+      "onboard_time": 1691399738,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 271236,
@@ -1451,20 +1547,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204468,
+      "num": 204468,
+      "word": "LPL",
+      "onboard_time": 1691398900,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204369,
       "num": 260630,
       "word": "台风",
       "onboard_time": 1691392657,
       "rank": 39,
       "category": "自然"
-    },
-    {
-      "raw_hot": 203198,
-      "num": 235358,
-      "word": "长期缺爱的人有什么表现",
-      "onboard_time": 1691397216,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 201067,
@@ -1523,12 +1619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190734,
+      "num": 382516,
+      "word": "舒兰常务副市长最后的语音在布置工作",
+      "onboard_time": 1691399198,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190551,
       "num": 212725,
       "word": "逛吃济州岛",
       "onboard_time": 1691370102,
       "rank": 37,
       "category": "美食,旅游"
+    },
+    {
+      "raw_hot": 187846,
+      "num": 203084,
+      "word": "正式确诊为互联网赶集人",
+      "onboard_time": 1691399738,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 185812,
@@ -1819,6 +1931,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 34281,
+      "num": 485427,
+      "word": "涿州孤岛救援12小时纪实",
+      "onboard_time": 1691398838,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30034,
       "num": 162302,
       "word": "夏鸣星卡面",
@@ -1852,6 +1972,9 @@
     },
     {
       "word": "#众志成城同舟共济#"
+    },
+    {
+      "word": "#7个数字揭秘大运会闭幕式#"
     }
   ]
 }
