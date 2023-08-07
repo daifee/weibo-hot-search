@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691403510722,
+  "endTime": 1691404471526,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -107,20 +107,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2780162,
+      "num": 546524,
+      "word": "易烊千玺大花轿直拍 被删",
+      "onboard_time": 1691400339,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2743510,
       "num": 938985,
       "word": "月薪2万住不起如家汉庭",
       "onboard_time": 1691375974,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 2660770,
-      "num": 546524,
-      "word": "易烊千玺大花轿直拍 被删",
-      "onboard_time": 1691400339,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 2223994,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1230236,
+      "num": 1146154,
+      "word": "比跷二郎腿更坏的坐姿",
+      "onboard_time": 1691400519,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1219258,
       "num": 894906,
       "word": "魏大勋忘记还麦的时候",
@@ -401,14 +409,6 @@
       "onboard_time": 1691392597,
       "rank": 1,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1146154,
-      "num": 1146154,
-      "word": "比跷二郎腿更坏的坐姿",
-      "onboard_time": 1691400519,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 1135765,
@@ -571,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 750495,
+      "num": 467368,
+      "word": "TFBOYS是在擦玻璃吗",
+      "onboard_time": 1691402439,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 747769,
       "num": 747769,
       "word": "TF三代让我们不顾一切单人海报",
@@ -617,14 +625,6 @@
       "onboard_time": 1691398599,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 711325,
-      "num": 467368,
-      "word": "TFBOYS是在擦玻璃吗",
-      "onboard_time": 1691402439,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 709194,
@@ -739,6 +739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 594836,
+      "num": 594836,
+      "word": "孤注一掷成中国影史点映票房冠军",
+      "onboard_time": 1691403340,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 593040,
       "num": 593040,
       "word": "迈阿密国际逆转淘汰达拉斯",
@@ -771,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 586069,
+      "num": 486805,
+      "word": "宁波机场通报货机偏出跑道事件",
+      "onboard_time": 1691402738,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 582574,
       "num": 299588,
       "word": "重庆的猫啊那没事了",
@@ -785,14 +801,6 @@
       "onboard_time": 1691396257,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 577607,
-      "num": 486805,
-      "word": "宁波机场通报货机偏出跑道事件",
-      "onboard_time": 1691402738,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 570075,
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 500881,
-      "num": 321554,
+      "num": 393230,
       "word": "TFBOYS各家站姐出图",
       "onboard_time": 1691398838,
       "rank": 39,
@@ -1019,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429390,
+      "num": 1152026,
+      "word": "五常宝宝凌晨转移一声没哭",
+      "onboard_time": 1691401840,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427242,
       "num": 820166,
       "word": "刘宪华贵阳",
@@ -1083,6 +1099,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 409079,
+      "num": 393567,
+      "word": "张晚意朋友圈背景图",
+      "onboard_time": 1691403036,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401080,
       "num": 822928,
       "word": "要离职的人状态真的很不一样",
@@ -1131,14 +1155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 393351,
-      "num": 1152026,
-      "word": "五常宝宝凌晨转移一声没哭",
-      "onboard_time": 1691401840,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392440,
       "num": 358497,
       "word": "长期缺爱的人有什么表现",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1691395661,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372580,
+      "num": 303243,
+      "word": "李现反多巴胺穿搭",
+      "onboard_time": 1691403935,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 362524,
@@ -1203,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341930,
+      "num": 296405,
+      "word": "大王姬脸红了",
+      "onboard_time": 1691404118,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340763,
       "num": 657128,
       "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
@@ -1215,22 +1247,6 @@
       "num": 247742,
       "word": "王俊凯到达泸州路透",
       "onboard_time": 1691396137,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 337227,
-      "num": 306510,
-      "word": "孤注一掷成中国影史点映票房冠军",
-      "onboard_time": 1691403340,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 335314,
-      "num": 306335,
-      "word": "张晚意朋友圈背景图",
-      "onboard_time": 1691403036,
       "rank": 36,
       "category": "艺人"
     },
@@ -1307,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306056,
+      "num": 306056,
+      "word": "英格兰女足",
+      "onboard_time": 1691401299,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305552,
       "num": 268178,
       "word": "嘎子哥否认诈捐物资",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1691378499,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295320,
-      "num": 295320,
-      "word": "英格兰女足",
-      "onboard_time": 1691401299,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 294369,
@@ -1531,7 +1547,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 248518,
+      "raw_hot": 250283,
       "num": 248518,
       "word": "巨齿鲨2首周末全球票房冠军",
       "onboard_time": 1691402679,
@@ -1624,6 +1640,22 @@
       "word": "夜晚1岁女童被困车内消防砸窗救人",
       "onboard_time": 1691363125,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229003,
+      "num": 229003,
+      "word": "警方回应男子当街猥亵喝断片女子",
+      "onboard_time": 1691404359,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228631,
+      "num": 228631,
+      "word": "酒吧回应网传男子当街猥亵女子",
+      "onboard_time": 1691403759,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1955,6 +1987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130804,
+      "num": 743677,
+      "word": "56岁救援队长连续施救4昼夜脚磨出3厘米血泡",
+      "onboard_time": 1691401840,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127296,
       "num": 817559,
       "word": "XYG状态",
@@ -1987,14 +2027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117627,
-      "num": 743677,
-      "word": "56岁救援队长连续施救4昼夜脚磨出3厘米血泡",
-      "onboard_time": 1691401840,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113895,
       "num": 81959,
       "word": "易烊千玺solo",
@@ -2017,6 +2049,14 @@
       "onboard_time": 1691391160,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106319,
+      "num": 469671,
+      "word": "福建传统民俗文化游神变装来了",
+      "onboard_time": 1691403818,
+      "rank": 6,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 100496,
@@ -2057,6 +2097,14 @@
       "onboard_time": 1691377899,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68119,
+      "num": 513441,
+      "word": "成都大运会文化输出这块拿捏了",
+      "onboard_time": 1691402439,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64502,
@@ -2115,14 +2163,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 41902,
-      "num": 513441,
-      "word": "成都大运会文化输出这块拿捏了",
-      "onboard_time": 1691402439,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30034,
       "num": 162302,
       "word": "夏鸣星卡面",
@@ -2137,6 +2177,14 @@
       "onboard_time": 1691350394,
       "rank": 49,
       "category": "幽默,旅游"
+    },
+    {
+      "raw_hot": 16462,
+      "num": 207962,
+      "word": "饿了么宣布为视障用户造节",
+      "onboard_time": 1691404177,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11503,
