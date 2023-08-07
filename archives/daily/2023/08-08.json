@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691442872075,
+  "endTime": 1691444018935,
   "band_list": [
     {
       "raw_hot": 1602658,
@@ -443,8 +443,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120607,
-      "num": 39467,
+      "raw_hot": 131273,
+      "num": 52850,
       "word": "嘎子哥该如何自证没有诈捐物资",
       "onboard_time": 1691437934,
       "rank": 30,
@@ -585,6 +585,14 @@
       "onboard_time": 1691436494,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 16778,
+      "num": 21249,
+      "word": "他给的实在是太多了",
+      "onboard_time": 1691443994,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 13414,

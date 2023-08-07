@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691442872075,
+  "endTime": 1691444018935,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -17507,6 +17507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131273,
+      "num": 52850,
+      "word": "嘎子哥该如何自证没有诈捐物资",
+      "onboard_time": 1691437934,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130887,
       "num": 222955,
       "word": "最值得去的40个国内旅行地",
@@ -17665,14 +17673,6 @@
       "onboard_time": 1691326749,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120607,
-      "num": 39467,
-      "word": "嘎子哥该如何自证没有诈捐物资",
-      "onboard_time": 1691437934,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 120595,
@@ -18681,6 +18681,14 @@
       "onboard_time": 1691004255,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 16778,
+      "num": 21249,
+      "word": "他给的实在是太多了",
+      "onboard_time": 1691443994,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 16462,
