@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691414426309,
+  "endTime": 1691415214466,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 2780162,
-      "num": 639877,
+      "num": 699253,
       "word": "易烊千玺大花轿直拍 被删",
       "onboard_time": 1691400339,
       "rank": 22,
@@ -1747,6 +1747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1430750,
+      "num": 1058272,
+      "word": "给女儿存了一笔分手费",
+      "onboard_time": 1691410893,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1418569,
       "num": 376100,
       "word": "王俊凯西安",
@@ -2091,14 +2099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1285735,
-      "num": 1058272,
-      "word": "给女儿存了一笔分手费",
-      "onboard_time": 1691410893,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 1282965,
       "num": 1282965,
       "word": "官方辟谣李立群杭州看病花费20万",
@@ -2395,6 +2395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1174890,
+      "num": 1016829,
+      "word": "长相思梅林殉情",
+      "onboard_time": 1691412275,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1167378,
       "num": 585266,
       "word": "第一次看到8月发7月行程",
@@ -2457,6 +2465,14 @@
       "onboard_time": 1691105548,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1155370,
+      "num": 992512,
+      "word": "TFBOYS是在擦玻璃吗",
+      "onboard_time": 1691402439,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 1154579,
@@ -2584,14 +2600,6 @@
       "word": "内娱最好哄的就是四叶草了",
       "onboard_time": 1691124041,
       "rank": 15,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 1116285,
-      "num": 992512,
-      "word": "TFBOYS是在擦玻璃吗",
-      "onboard_time": 1691402439,
-      "rank": 21,
       "category": "音乐"
     },
     {
@@ -2923,6 +2931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1032300,
+      "num": 593570,
+      "word": "安倍国葬出席名单74%名字涂黑",
+      "onboard_time": 1691413297,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1030286,
       "num": 1030286,
       "word": "发改委发布会",
@@ -2977,14 +2993,6 @@
       "onboard_time": 1691242908,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1016829,
-      "num": 1016829,
-      "word": "长相思梅林殉情",
-      "onboard_time": 1691412275,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 1015339,
@@ -3891,6 +3899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 850570,
+      "num": 850570,
+      "word": "邓为从脖子红到耳朵",
+      "onboard_time": 1691412036,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 848451,
       "num": 1046687,
       "word": "这是尊嘟假嘟 这是我微信余额",
@@ -4072,14 +4088,6 @@
       "word": "张晚意好会演",
       "onboard_time": 1691164065,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 811866,
-      "num": 811866,
-      "word": "邓为从脖子红到耳朵",
-      "onboard_time": 1691412036,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -5411,14 +5419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 663890,
-      "num": 426237,
-      "word": "安倍国葬出席名单74%名字涂黑",
-      "onboard_time": 1691413297,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 659385,
       "num": 659385,
       "word": "孤注一掷票房",
@@ -6315,6 +6315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585927,
+      "num": 538396,
+      "word": "封神第一部票房破17亿",
+      "onboard_time": 1691414259,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 585471,
       "num": 580615,
       "word": "七时吉祥",
@@ -6401,6 +6409,14 @@
       "onboard_time": 1691247947,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 579764,
+      "num": 579764,
+      "word": "JackeyLove",
+      "onboard_time": 1691414018,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 579584,
@@ -7555,6 +7571,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 499938,
+      "num": 499938,
+      "word": "2023日本最帅最美的初中生",
+      "onboard_time": 1691413055,
+      "rank": 27,
+      "category": "其它"
+    },
+    {
       "raw_hot": 499321,
       "num": 499321,
       "word": "拜托蒋依依是童星",
@@ -8052,7 +8076,7 @@
     },
     {
       "raw_hot": 468740,
-      "num": 799637,
+      "num": 820776,
       "word": "张雨霏女子50米自由泳夺金",
       "onboard_time": 1691410835,
       "rank": 39,
@@ -8123,14 +8147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 462885,
-      "num": 462885,
-      "word": "2023日本最帅最美的初中生",
-      "onboard_time": 1691413055,
-      "rank": 27,
-      "category": "其它"
-    },
-    {
       "raw_hot": 462767,
       "num": 356763,
       "word": "周冬雨素颜生活照",
@@ -8161,6 +8177,14 @@
       "onboard_time": 1691033437,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 462065,
+      "num": 462065,
+      "word": "周杰伦也没想到这是菊花台",
+      "onboard_time": 1691414618,
+      "rank": 25,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 461038,
@@ -9203,6 +9227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403571,
+      "num": 396296,
+      "word": "苏格兰一女子在自家后院喂了25年狐狸",
+      "onboard_time": 1691413418,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403207,
       "num": 392459,
       "word": "黑龙江",
@@ -9387,6 +9419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 394770,
+      "num": 394770,
+      "word": "为什么智齿不是每个人都长",
+      "onboard_time": 1691412095,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 394410,
       "num": 394410,
       "word": "自习室的大学生靠热点交流",
@@ -9401,14 +9441,6 @@
       "onboard_time": 1691145215,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 393583,
-      "num": 393583,
-      "word": "为什么智齿不是每个人都长",
-      "onboard_time": 1691412095,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 393096,
@@ -9593,6 +9625,14 @@
       "onboard_time": 1691293836,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387103,
+      "num": 334992,
+      "word": "TFBOYS演唱会后劲最大的一个视频",
+      "onboard_time": 1691414196,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 386160,
@@ -11187,6 +11227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314499,
+      "num": 314499,
+      "word": "檀健次微博开屏",
+      "onboard_time": 1691413174,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314436,
       "num": 320492,
       "word": "AG荣耀十一冠",
@@ -11241,6 +11289,14 @@
       "onboard_time": 1691362886,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312559,
+      "num": 312559,
+      "word": "涂山璟的笑容转移到玱玹的脸上了",
+      "onboard_time": 1691414858,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 312543,
@@ -11363,6 +11419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309177,
+      "num": 309177,
+      "word": "Doinb解说杯导师公布",
+      "onboard_time": 1691414196,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 308800,
       "num": 308800,
       "word": "舞台2023青人vs创人",
@@ -11371,20 +11435,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308658,
+      "num": 308658,
+      "word": "电影热烈的舞者今天拿到了世界冠军",
+      "onboard_time": 1691413297,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308304,
       "num": 295100,
       "word": "妲己的报应来得很突然",
       "onboard_time": 1691221957,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 308106,
-      "num": 308106,
-      "word": "JackeyLove",
-      "onboard_time": 1691414018,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 308051,
@@ -11731,6 +11795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295197,
+      "num": 295197,
+      "word": "滔搏",
+      "onboard_time": 1691413658,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295167,
       "num": 236109,
       "word": "萧亚轩在李玟追悼会痛哭",
@@ -11761,14 +11833,6 @@
       "onboard_time": 1691393317,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294016,
-      "num": 294016,
-      "word": "苏格兰一女子在自家后院喂了25年狐狸",
-      "onboard_time": 1691413418,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293930,
@@ -11963,14 +12027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288406,
-      "num": 288406,
-      "word": "电影热烈的舞者今天拿到了世界冠军",
-      "onboard_time": 1691413297,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 288402,
       "num": 231806,
       "word": "迪丽热巴泼水速度",
@@ -12097,14 +12153,6 @@
       "onboard_time": 1691368304,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285253,
-      "num": 285253,
-      "word": "封神第一部票房破17亿",
-      "onboard_time": 1691414259,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 285186,
@@ -12403,6 +12451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272654,
+      "num": 252723,
+      "word": "李莲花方多病故事线设定",
+      "onboard_time": 1691414499,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272481,
       "num": 220761,
       "word": "TFBOYS演唱会西安公交开3条免费摆渡线路",
@@ -12649,14 +12705,6 @@
       "onboard_time": 1691298638,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263823,
-      "num": 263823,
-      "word": "檀健次微博开屏",
-      "onboard_time": 1691413174,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 263414,
@@ -13467,14 +13515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237751,
-      "num": 237751,
-      "word": "Doinb解说杯导师公布",
-      "onboard_time": 1691414196,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 237687,
       "num": 237687,
       "word": "优酷带了四叶草挂件",
@@ -13699,6 +13739,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 231631,
+      "num": 231631,
+      "word": "王俊凯英雄联盟",
+      "onboard_time": 1691415100,
+      "rank": 47,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 231576,
       "num": 231576,
       "word": "RIIZE",
@@ -13779,12 +13827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229317,
-      "num": 229317,
-      "word": "TFBOYS演唱会后劲最大的一个视频",
-      "onboard_time": 1691414196,
+      "raw_hot": 229026,
+      "num": 229026,
+      "word": "沈腾一看就是没少上网",
+      "onboard_time": 1691415160,
       "rank": 48,
-      "category": "音乐"
+      "category": "综艺"
     },
     {
       "raw_hot": 228562,
@@ -15019,6 +15067,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 201399,
+      "num": 309864,
+      "word": "松花江发生今年1号洪水或将转移群众",
+      "onboard_time": 1691413596,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201249,
       "num": 228180,
       "word": "这令人窒息的爱啊",
@@ -16115,14 +16171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180430,
-      "num": 229168,
-      "word": "松花江发生今年1号洪水或将转移群众",
-      "onboard_time": 1691413596,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180299,
       "num": 191837,
       "word": "何浩楠带十个勤天回缙云老家",
@@ -16993,6 +17041,14 @@
       "onboard_time": 1691157640,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136524,
+      "num": 224074,
+      "word": "消费降级不丢人",
+      "onboard_time": 1691415160,
+      "rank": 49,
+      "category": "财经,幽默"
     },
     {
       "raw_hot": 136515,
@@ -18043,6 +18099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34619,
+      "num": 1067260,
+      "word": "汛情过后健康防护要点",
+      "onboard_time": 1691414378,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33654,
       "num": 289844,
       "word": "暴雨洪灾后的9个健康知识点",
@@ -18233,14 +18297,6 @@
       "onboard_time": 1691356274,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 5876,
-      "num": 1067260,
-      "word": "汛情过后健康防护要点",
-      "onboard_time": 1691414378,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
