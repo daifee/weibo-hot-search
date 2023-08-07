@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691421464287,
+  "endTime": 1691422438302,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -443,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1263648,
+      "num": 977512,
+      "word": "易烊千玺一朝回到解放前",
+      "onboard_time": 1691420679,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1230236,
       "num": 1146154,
       "word": "比跷二郎腿更坏的坐姿",
       "onboard_time": 1691400519,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1223509,
+      "num": 1223509,
+      "word": "Prada把檀健次拍成维修工了",
+      "onboard_time": 1691420501,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1219258,
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 939560,
+      "num": 720396,
+      "word": "虞书欣小兰花库存照腮红",
+      "onboard_time": 1691420860,
+      "rank": 16,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 915884,
       "num": 915884,
       "word": "孤注一掷点映中途暂停被观众怒斥",
@@ -657,6 +681,14 @@
       "onboard_time": 1691417918,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 879270,
+      "num": 488049,
+      "word": "原来气血不足要忌口",
+      "onboard_time": 1691418882,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 875935,
@@ -755,14 +787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 751548,
-      "num": 488049,
-      "word": "原来气血不足要忌口",
-      "onboard_time": 1691418882,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 747769,
       "num": 747769,
       "word": "TF三代让我们不顾一切单人海报",
@@ -859,22 +883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 696248,
-      "num": 696248,
-      "word": "虞书欣小兰花库存照腮红",
-      "onboard_time": 1691420860,
-      "rank": 16,
-      "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 691410,
-      "num": 691410,
-      "word": "Prada把檀健次拍成维修工了",
-      "onboard_time": 1691420501,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 691052,
       "num": 1076619,
       "word": "门头沟区龙泉镇副镇长刘捷遇难",
@@ -939,14 +947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 654136,
-      "num": 654136,
-      "word": "易烊千玺一朝回到解放前",
-      "onboard_time": 1691420679,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 653266,
       "num": 505524,
       "word": "王楚然海棠笑春风出妆饭拍",
@@ -995,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 623804,
+      "num": 623804,
+      "word": "孤注一掷 字幕组",
+      "onboard_time": 1691420321,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 622719,
       "num": 823392,
       "word": "迪丽热巴戒指",
@@ -1024,14 +1032,6 @@
       "word": "莲花楼调更",
       "onboard_time": 1691409634,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 601832,
-      "num": 457230,
-      "word": "孤注一掷 字幕组",
-      "onboard_time": 1691420321,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -1331,6 +1331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 475435,
+      "num": 435813,
+      "word": "长相思热度",
+      "onboard_time": 1691421278,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472191,
       "num": 472191,
       "word": "王俊凯新歌回望",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1691379881,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 454289,
+      "num": 454289,
+      "word": "王俊凯又来秀操作了",
+      "onboard_time": 1691421278,
+      "rank": 49,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 449381,
@@ -1763,14 +1779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342315,
-      "num": 282857,
-      "word": "长相思热度",
-      "onboard_time": 1691421278,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 341432,
       "num": 420254,
       "word": "新疆商户凌晨4点赶制2100份馕驰援涞水",
@@ -1857,6 +1865,14 @@
       "onboard_time": 1691388458,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315685,
+      "num": 208161,
+      "word": "罗云熙还是好瘦",
+      "onboard_time": 1691422363,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 315072,
@@ -2195,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260151,
+      "num": 1138210,
+      "word": "陆军某旅千人百车驰援舒兰",
+      "onboard_time": 1691420980,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256900,
       "num": 235338,
       "word": "有多少人走错过才会提醒得这么用心啊",
@@ -2321,14 +2345,6 @@
       "onboard_time": 1691363125,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222883,
-      "num": 222883,
-      "word": "王俊凯又来秀操作了",
-      "onboard_time": 1691421278,
-      "rank": 49,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 221828,
@@ -2936,14 +2952,6 @@
       "word": "消防员冷水里排涝脸上热汗不断",
       "onboard_time": 1691406218,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45940,
-      "num": 1138210,
-      "word": "陆军某旅千人百车驰援舒兰",
-      "onboard_time": 1691420980,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
