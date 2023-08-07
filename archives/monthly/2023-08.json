@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691393631553,
+  "endTime": 1691396479952,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2927316,
+      "num": 1019587,
+      "word": "倒下的蛋糕 虚假中的真实",
+      "onboard_time": 1691391820,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2923265,
       "num": 641579,
       "word": "优酷客服回应网友有偿共享TFBOYS直播",
@@ -728,14 +736,6 @@
       "word": "大家好我们是TFBOYS",
       "onboard_time": 1691327053,
       "rank": 35,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 2269920,
-      "num": 1019587,
-      "word": "倒下的蛋糕 虚假中的真实",
-      "onboard_time": 1691391820,
-      "rank": 12,
       "category": "音乐"
     },
     {
@@ -1291,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1634260,
+      "num": 1634260,
+      "word": "中纪委曝光一台直线加速器回扣1600万",
+      "onboard_time": 1691389897,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1628723,
       "num": 1628723,
       "word": "按摩椅能不能离开电影院",
@@ -1531,14 +1539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1496424,
-      "num": 1496424,
-      "word": "中纪委曝光一台直线加速器回扣1600万",
-      "onboard_time": 1691389897,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1484349,
       "num": 1484349,
       "word": "周扬青我不是艺人是网红",
@@ -1753,6 +1753,14 @@
       "onboard_time": 1691251000,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1366556,
+      "num": 292988,
+      "word": "一个姐姐离婚时发的朋友圈",
+      "onboard_time": 1691393379,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 1359680,
@@ -2297,6 +2305,14 @@
       "onboard_time": 1691200595,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1159105,
+      "num": 945286,
+      "word": "杨幂再退出1家与嘉行老板合开公司",
+      "onboard_time": 1691392838,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1158562,
@@ -2987,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 978016,
+      "num": 330079,
+      "word": "只有王源在吹蜡烛",
+      "onboard_time": 1691394941,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 976862,
       "num": 976862,
       "word": "封神直播",
@@ -3129,14 +3153,6 @@
       "onboard_time": 1691366977,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 945286,
-      "num": 945286,
-      "word": "杨幂再退出1家与嘉行老板合开公司",
-      "onboard_time": 1691392838,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 944745,
@@ -5755,6 +5771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597246,
+      "num": 597246,
+      "word": "门头沟区龙泉镇副镇长刘捷遇难",
+      "onboard_time": 1691394999,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597214,
       "num": 437642,
       "word": "小夭一秒钟八百个表情",
@@ -6025,6 +6049,14 @@
       "onboard_time": 1690952858,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 584036,
+      "num": 348327,
+      "word": "TF三代让我们不顾一切单人海报",
+      "onboard_time": 1691393197,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 583823,
@@ -7995,6 +8027,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 449381,
+      "num": 255506,
+      "word": "TFBOYS巡演标志没了",
+      "onboard_time": 1691394040,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 448396,
       "num": 448396,
       "word": "XYG能不能轮换",
@@ -8547,6 +8587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 414487,
+      "num": 259610,
+      "word": "张晚意辟谣演完古偶奖励自己拍正剧",
+      "onboard_time": 1691394040,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 413571,
       "num": 413571,
       "word": "东北菜会教训每一个嘴硬的人",
@@ -8801,6 +8849,14 @@
       "onboard_time": 1691123438,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 398108,
+      "num": 263596,
+      "word": "檀健次黑发狼尾",
+      "onboard_time": 1691392779,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 398045,
@@ -9649,14 +9705,6 @@
       "onboard_time": 1690967914,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 355385,
-      "num": 263596,
-      "word": "檀健次黑发狼尾",
-      "onboard_time": 1691392779,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 355317,
@@ -10619,6 +10667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 312769,
+      "num": 229832,
+      "word": "王俊凯到达泸州路透",
+      "onboard_time": 1691396137,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312724,
       "num": 235674,
       "word": "阎月明逝世",
@@ -11107,6 +11163,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 294369,
+      "num": 294369,
+      "word": "XYG律师声明",
+      "onboard_time": 1691393317,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 293930,
       "num": 293930,
       "word": "异人之下宝儿姐还原度",
@@ -11321,6 +11385,14 @@
       "onboard_time": 1691044357,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288010,
+      "num": 201889,
+      "word": "杨紫张晚意片场烧烤花絮",
+      "onboard_time": 1691393257,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 287993,
@@ -11771,6 +11843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269572,
+      "num": 269572,
+      "word": "中兴通讯",
+      "onboard_time": 1691392358,
+      "rank": 48,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 268901,
       "num": 245622,
       "word": "奶奶 185痞帅体育生咱稳稳拿下",
@@ -11873,14 +11953,6 @@
       "onboard_time": 1691320008,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264971,
-      "num": 264971,
-      "word": "中兴通讯",
-      "onboard_time": 1691392358,
-      "rank": 48,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 264903,
@@ -12225,6 +12297,14 @@
       "onboard_time": 1690892553,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251143,
+      "num": 251143,
+      "word": "真的会被山东的职场震撼到",
+      "onboard_time": 1691393078,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 251030,
@@ -12731,6 +12811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 236757,
+      "num": 236757,
+      "word": "APP推送能不能别假装来信",
+      "onboard_time": 1691394579,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236629,
       "num": 312838,
       "word": "成都的外国游客人均J人吧",
@@ -12817,6 +12905,14 @@
       "onboard_time": 1690888533,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235462,
+      "num": 201635,
+      "word": "TF三代演唱会校园风海报",
+      "onboard_time": 1691394702,
+      "rank": 44,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 235167,
@@ -12961,6 +13057,14 @@
       "onboard_time": 1691061934,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229732,
+      "num": 229732,
+      "word": "男子花200元网购金毛拆开傻眼",
+      "onboard_time": 1691395661,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229610,
@@ -13113,14 +13217,6 @@
       "onboard_time": 1691161080,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224640,
-      "num": 262800,
-      "word": "一个姐姐离婚时发的朋友圈",
-      "onboard_time": 1691393379,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 224126,
@@ -13643,14 +13739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212144,
-      "num": 261678,
-      "word": "XYG律师声明",
-      "onboard_time": 1691393317,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 212115,
       "num": 273299,
       "word": "仲夏日漫漫",
@@ -13745,14 +13833,6 @@
       "onboard_time": 1691159202,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210333,
-      "num": 210333,
-      "word": "TF三代让我们不顾一切单人海报",
-      "onboard_time": 1691393197,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 210247,
@@ -14507,14 +14587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196966,
-      "num": 196966,
-      "word": "真的会被山东的职场震撼到",
-      "onboard_time": 1691393078,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196943,
       "num": 196943,
       "word": "现代人了解一个人的方式",
@@ -15259,6 +15331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180457,
+      "num": 201563,
+      "word": "被洪水冲走的车会变成什么样",
+      "onboard_time": 1691392960,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180299,
       "num": 191837,
       "word": "何浩楠带十个勤天回缙云老家",
@@ -15385,6 +15465,14 @@
       "onboard_time": 1690818514,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175094,
+      "num": 201475,
+      "word": "TES对战WBG",
+      "onboard_time": 1691396257,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 174968,
@@ -15787,14 +15875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155461,
-      "num": 191616,
-      "word": "被洪水冲走的车会变成什么样",
-      "onboard_time": 1691392960,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154805,
       "num": 226967,
       "word": "大海也想摸猫猫",
@@ -16073,6 +16153,14 @@
       "onboard_time": 1691234676,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138448,
+      "num": 201349,
+      "word": "黑色粉底液测评",
+      "onboard_time": 1691395480,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 138367,
@@ -16891,6 +16979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72472,
+      "num": 1045608,
+      "word": "被大运会中国95后的自信狠狠拿捏",
+      "onboard_time": 1691377899,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66957,
       "num": 96389,
       "word": "心疼又好笑的车祸现场",
@@ -16899,19 +16995,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63855,
+      "num": 670132,
+      "word": "他们扛沙袋冒雨逆行的背影让人泪目",
+      "onboard_time": 1691383545,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62836,
       "num": 580477,
       "word": "男孩兼职救生员满脸骄傲讲述救人经历",
       "onboard_time": 1691391699,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62211,
-      "num": 670132,
-      "word": "他们扛沙袋冒雨逆行的背影让人泪目",
-      "onboard_time": 1691383545,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -16992,14 +17088,6 @@
       "word": "内马尔 王者归来",
       "onboard_time": 1691087595,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 48266,
-      "num": 1045608,
-      "word": "被大运会中国95后的自信狠狠拿捏",
-      "onboard_time": 1691377899,
-      "rank": 35,
       "category": "体育"
     },
     {

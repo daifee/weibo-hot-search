@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691393631553,
+  "endTime": 1691396479952,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -91,6 +91,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2927316,
+      "num": 1019587,
+      "word": "倒下的蛋糕 虚假中的真实",
+      "onboard_time": 1691391820,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2914197,
       "num": 822110,
       "word": "TFBOYS官博急了",
@@ -105,14 +113,6 @@
       "onboard_time": 1691375974,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 2269920,
-      "num": 1019587,
-      "word": "倒下的蛋糕 虚假中的真实",
-      "onboard_time": 1691391820,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 2173697,
@@ -187,6 +187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1634260,
+      "num": 1634260,
+      "word": "中纪委曝光一台直线加速器回扣1600万",
+      "onboard_time": 1691389897,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1628723,
       "num": 1628723,
       "word": "按摩椅能不能离开电影院",
@@ -219,14 +227,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 1496424,
-      "num": 1496424,
-      "word": "中纪委曝光一台直线加速器回扣1600万",
-      "onboard_time": 1691389897,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1473722,
       "num": 745542,
       "word": "经常喝咖啡把命喝苦了",
@@ -257,6 +257,14 @@
       "onboard_time": 1691364390,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1366556,
+      "num": 292988,
+      "word": "一个姐姐离婚时发的朋友圈",
+      "onboard_time": 1691393379,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 1343542,
@@ -331,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1159105,
+      "num": 945286,
+      "word": "杨幂再退出1家与嘉行老板合开公司",
+      "onboard_time": 1691392838,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1147519,
       "num": 1147519,
       "word": "接近碧桂园人士称被进驻传言不实",
@@ -371,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 978016,
+      "num": 330079,
+      "word": "只有王源在吹蜡烛",
+      "onboard_time": 1691394941,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 947950,
       "num": 947950,
       "word": "我突然意识到自己真的很好",
@@ -385,14 +409,6 @@
       "onboard_time": 1691366977,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 945286,
-      "num": 945286,
-      "word": "杨幂再退出1家与嘉行老板合开公司",
-      "onboard_time": 1691392838,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 944745,
@@ -603,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597246,
+      "num": 597246,
+      "word": "门头沟区龙泉镇副镇长刘捷遇难",
+      "onboard_time": 1691394999,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593040,
       "num": 593040,
       "word": "迈阿密国际逆转淘汰达拉斯",
@@ -633,6 +657,14 @@
       "onboard_time": 1691375073,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 584036,
+      "num": 348327,
+      "word": "TF三代让我们不顾一切单人海报",
+      "onboard_time": 1691393197,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 582574,
@@ -779,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 449381,
+      "num": 255506,
+      "word": "TFBOYS巡演标志没了",
+      "onboard_time": 1691394040,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 446513,
       "num": 446513,
       "word": "命运的齿轮开始生锈",
@@ -843,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 414487,
+      "num": 259610,
+      "word": "张晚意辟谣演完古偶奖励自己拍正剧",
+      "onboard_time": 1691394040,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 412407,
       "num": 412407,
       "word": "梅西4场6球",
@@ -875,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398108,
+      "num": 263596,
+      "word": "檀健次黑发狼尾",
+      "onboard_time": 1691392779,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 397821,
       "num": 397821,
       "word": "说不熟都是假的",
@@ -905,14 +961,6 @@
       "onboard_time": 1691389179,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 355385,
-      "num": 263596,
-      "word": "檀健次黑发狼尾",
-      "onboard_time": 1691392779,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 352889,
@@ -979,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312769,
+      "num": 229832,
+      "word": "王俊凯到达泸州路透",
+      "onboard_time": 1691396137,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312724,
       "num": 235674,
       "word": "阎月明逝世",
@@ -1035,11 +1091,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294369,
+      "num": 294369,
+      "word": "XYG律师声明",
+      "onboard_time": 1691393317,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292984,
       "num": 267233,
       "word": "长相思",
       "onboard_time": 1691384923,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288010,
+      "num": 201889,
+      "word": "杨紫张晚意片场烧烤花絮",
+      "onboard_time": 1691393257,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1115,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269572,
+      "num": 269572,
+      "word": "中兴通讯",
+      "onboard_time": 1691392358,
+      "rank": 48,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 267214,
       "num": 267214,
       "word": "十二星座一周运势",
@@ -1129,14 +1209,6 @@
       "onboard_time": 1691323440,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264971,
-      "num": 264971,
-      "word": "中兴通讯",
-      "onboard_time": 1691392358,
-      "rank": 48,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 264227,
@@ -1179,6 +1251,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 251143,
+      "num": 251143,
+      "word": "真的会被山东的职场震撼到",
+      "onboard_time": 1691393078,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246069,
       "num": 821893,
       "word": "旭旭宝宝签约抖音",
@@ -1211,12 +1291,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 236757,
+      "num": 236757,
+      "word": "APP推送能不能别假装来信",
+      "onboard_time": 1691394579,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235923,
       "num": 235923,
       "word": "安徽一高校录取通知书出现错字",
       "onboard_time": 1691351354,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 235462,
+      "num": 201635,
+      "word": "TF三代演唱会校园风海报",
+      "onboard_time": 1691394702,
+      "rank": 44,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 234876,
@@ -1235,20 +1331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229732,
+      "num": 229732,
+      "word": "男子花200元网购金毛拆开傻眼",
+      "onboard_time": 1691395661,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229431,
       "num": 229431,
       "word": "夜晚1岁女童被困车内消防砸窗救人",
       "onboard_time": 1691363125,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224640,
-      "num": 262800,
-      "word": "一个姐姐离婚时发的朋友圈",
-      "onboard_time": 1691393379,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 221828,
@@ -1291,14 +1387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212144,
-      "num": 261678,
-      "word": "XYG律师声明",
-      "onboard_time": 1691393317,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 212115,
       "num": 273299,
       "word": "仲夏日漫漫",
@@ -1313,14 +1401,6 @@
       "onboard_time": 1691392057,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210333,
-      "num": 210333,
-      "word": "TF三代让我们不顾一切单人海报",
-      "onboard_time": 1691393197,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 208070,
@@ -1361,14 +1441,6 @@
       "onboard_time": 1691389777,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196966,
-      "num": 196966,
-      "word": "真的会被山东的职场震撼到",
-      "onboard_time": 1691393078,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 196521,
@@ -1427,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180457,
+      "num": 201563,
+      "word": "被洪水冲走的车会变成什么样",
+      "onboard_time": 1691392960,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177753,
       "num": 210468,
       "word": "G2夺冠",
@@ -1451,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175094,
+      "num": 201475,
+      "word": "TES对战WBG",
+      "onboard_time": 1691396257,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171265,
       "num": 818180,
       "word": "莲花楼预告悬疑感拉满了",
@@ -1465,14 +1553,6 @@
       "onboard_time": 1691353574,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 155461,
-      "num": 191616,
-      "word": "被洪水冲走的车会变成什么样",
-      "onboard_time": 1691392960,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153484,
@@ -1521,6 +1601,14 @@
       "onboard_time": 1691351173,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138448,
+      "num": 201349,
+      "word": "黑色粉底液测评",
+      "onboard_time": 1691395480,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 138367,
@@ -1643,15 +1731,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 62836,
-      "num": 580477,
-      "word": "男孩兼职救生员满脸骄傲讲述救人经历",
-      "onboard_time": 1691391699,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 72472,
+      "num": 1045608,
+      "word": "被大运会中国95后的自信狠狠拿捏",
+      "onboard_time": 1691377899,
+      "rank": 35,
+      "category": "体育"
     },
     {
-      "raw_hot": 62211,
+      "raw_hot": 63855,
       "num": 670132,
       "word": "他们扛沙袋冒雨逆行的背影让人泪目",
       "onboard_time": 1691383545,
@@ -1659,12 +1747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48266,
-      "num": 1045608,
-      "word": "被大运会中国95后的自信狠狠拿捏",
-      "onboard_time": 1691377899,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 62836,
+      "num": 580477,
+      "word": "男孩兼职救生员满脸骄傲讲述救人经历",
+      "onboard_time": 1691391699,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46957,
