@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691426212626,
+  "endTime": 1691428483199,
   "band_list": [
     {
       "raw_hot": 1602658,
@@ -27,20 +27,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1182749,
+      "num": 1182749,
+      "word": "zzr",
+      "onboard_time": 1691420919,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1069126,
       "num": 364049,
       "word": "TFBOYS演唱会优酷最少进账6550万",
       "onboard_time": 1691418221,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 798967,
-      "num": 798967,
-      "word": "zzr",
-      "onboard_time": 1691420919,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 797525,
@@ -57,6 +57,14 @@
       "onboard_time": 1691420860,
       "rank": 10,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 639597,
+      "num": 639597,
+      "word": "卡莎",
+      "onboard_time": 1691424158,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 589206,
@@ -163,12 +171,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 439572,
-      "num": 439572,
-      "word": "卡莎",
-      "onboard_time": 1691424158,
-      "rank": 30,
-      "category": "游戏"
+      "raw_hot": 389859,
+      "num": 251630,
+      "word": "李到晛公司下禁令不让他跳tecktonik",
+      "onboard_time": 1691426789,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 377575,
@@ -347,6 +355,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190276,
+      "num": 190276,
+      "word": "人类有一种本能叫做预感离别",
+      "onboard_time": 1691425590,
+      "rank": 26,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 186478,
+      "num": 186478,
+      "word": "肖战玉骨遥开机vs杀青",
+      "onboard_time": 1691427565,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179025,
       "num": 236240,
       "word": "Capper直播",
@@ -368,6 +392,14 @@
       "word": "舒兰3名公职人员坐的车在水中被找到",
       "onboard_time": 1691410416,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166270,
+      "num": 235368,
+      "word": "凌晨地震老师们跑着叫学生快到重影",
+      "onboard_time": 1691424873,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -395,12 +427,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126989,
-      "num": 235368,
-      "word": "凌晨地震老师们跑着叫学生快到重影",
-      "onboard_time": 1691424873,
+      "raw_hot": 137380,
+      "num": 137380,
+      "word": "喜欢你舞台",
+      "onboard_time": 1691428165,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 134400,
+      "num": 134400,
+      "word": "TFBOYS不完美小孩的十年进化论",
+      "onboard_time": 1691428165,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 82516,
+      "num": 91723,
+      "word": "爱一个人并允许对方离开你的人生",
+      "onboard_time": 1691428344,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "情感"
     },
     {
       "raw_hot": 44607,
@@ -414,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#唯有创新才能抢占先机#"
+    },
+    {
+      "word": "#众志成城同舟共济#"
     }
   ]
 }

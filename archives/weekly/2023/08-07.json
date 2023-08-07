@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691426212626,
+  "endTime": 1691428483199,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -515,6 +515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1182749,
+      "num": 1182749,
+      "word": "zzr",
+      "onboard_time": 1691420919,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1165425,
       "num": 474566,
       "word": "只有王源在吹蜡烛",
@@ -755,14 +763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 798967,
-      "num": 798967,
-      "word": "zzr",
-      "onboard_time": 1691420919,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 795626,
       "num": 823414,
       "word": "鹿晗演唱会",
@@ -993,6 +993,14 @@
       "onboard_time": 1691417260,
       "rank": 22,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 639597,
+      "num": 639597,
+      "word": "卡莎",
+      "onboard_time": 1691424158,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 639422,
@@ -1443,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 439572,
-      "num": 439572,
-      "word": "卡莎",
-      "onboard_time": 1691424158,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 438269,
       "num": 310926,
       "word": "长相思卡点夭夭零六",
@@ -1673,6 +1673,14 @@
       "onboard_time": 1691411195,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389859,
+      "num": 251630,
+      "word": "李到晛公司下禁令不让他跳tecktonik",
+      "onboard_time": 1691426789,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 388760,
@@ -2587,6 +2595,14 @@
       "category": "美食,旅游"
     },
     {
+      "raw_hot": 190276,
+      "num": 190276,
+      "word": "人类有一种本能叫做预感离别",
+      "onboard_time": 1691425590,
+      "rank": 26,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 189913,
       "num": 219676,
       "word": "再乱的东西都逃不过妈妈的收纳",
@@ -2601,6 +2617,14 @@
       "onboard_time": 1691399738,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186478,
+      "num": 186478,
+      "word": "肖战玉骨遥开机vs杀青",
+      "onboard_time": 1691427565,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 185812,
@@ -2689,6 +2713,14 @@
       "onboard_time": 1691331255,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166270,
+      "num": 235368,
+      "word": "凌晨地震老师们跑着叫学生快到重影",
+      "onboard_time": 1691424873,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164739,
@@ -2787,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137380,
+      "num": 137380,
+      "word": "喜欢你舞台",
+      "onboard_time": 1691428165,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136252,
       "num": 818685,
       "word": "TES对战XYG",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1691314781,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 134400,
+      "num": 134400,
+      "word": "TFBOYS不完美小孩的十年进化论",
+      "onboard_time": 1691428165,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 134161,
@@ -2833,14 +2881,6 @@
       "onboard_time": 1691330060,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126989,
-      "num": 235368,
-      "word": "凌晨地震老师们跑着叫学生快到重影",
-      "onboard_time": 1691424873,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126298,
@@ -2929,6 +2969,14 @@
       "onboard_time": 1691349136,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 82516,
+      "num": 91723,
+      "word": "爱一个人并允许对方离开你的人生",
+      "onboard_time": 1691428344,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 72472,

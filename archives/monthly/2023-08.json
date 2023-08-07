@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691426212626,
+  "endTime": 1691428483199,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2459,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1182749,
+      "num": 1182749,
+      "word": "zzr",
+      "onboard_time": 1691420919,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1177532,
       "num": 1177532,
       "word": "六公主认证长相思是现象级爆剧",
@@ -4339,14 +4347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 798967,
-      "num": 798967,
-      "word": "zzr",
-      "onboard_time": 1691420919,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 798383,
       "num": 798383,
       "word": "娜然 袁泉的哈基米",
@@ -5785,6 +5785,14 @@
       "onboard_time": 1691193210,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 639597,
+      "num": 639597,
+      "word": "卡莎",
+      "onboard_time": 1691424158,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 639422,
@@ -8763,14 +8771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 439572,
-      "num": 439572,
-      "word": "卡莎",
-      "onboard_time": 1691424158,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 439471,
       "num": 384321,
       "word": "黄渤C位跳queenCard",
@@ -9753,6 +9753,14 @@
       "onboard_time": 1690967493,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389859,
+      "num": 251630,
+      "word": "李到晛公司下禁令不让他跳tecktonik",
+      "onboard_time": 1691426789,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 389620,
@@ -16059,6 +16067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190276,
+      "num": 190276,
+      "word": "人类有一种本能叫做预感离别",
+      "onboard_time": 1691425590,
+      "rank": 26,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 190072,
       "num": 195162,
       "word": "再看这种文案都不是感动了",
@@ -16217,6 +16233,14 @@
       "onboard_time": 1690945957,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 186478,
+      "num": 186478,
+      "word": "肖战玉骨遥开机vs杀青",
+      "onboard_time": 1691427565,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 186319,
@@ -16737,6 +16761,14 @@
       "onboard_time": 1691115935,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 166270,
+      "num": 235368,
+      "word": "凌晨地震老师们跑着叫学生快到重影",
+      "onboard_time": 1691424873,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166252,
@@ -17315,6 +17347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137380,
+      "num": 137380,
+      "word": "喜欢你舞台",
+      "onboard_time": 1691428165,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137004,
       "num": 216696,
       "word": "淘宝推出涿州图书专场",
@@ -17377,6 +17417,14 @@
       "onboard_time": 1690812099,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134400,
+      "num": 134400,
+      "word": "TFBOYS不完美小孩的十年进化论",
+      "onboard_time": 1691428165,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 134161,
@@ -17504,14 +17552,6 @@
       "word": "救援中搜救犬大显身手",
       "onboard_time": 1691328070,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126989,
-      "num": 235368,
-      "word": "凌晨地震老师们跑着叫学生快到重影",
-      "onboard_time": 1691424873,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -18129,6 +18169,14 @@
       "onboard_time": 1691056237,
       "rank": 28,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 82516,
+      "num": 91723,
+      "word": "爱一个人并允许对方离开你的人生",
+      "onboard_time": 1691428344,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 80528,
