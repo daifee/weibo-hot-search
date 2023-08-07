@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691435593295,
+  "endTime": 1691436824088,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -3099,8 +3099,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 38552,
-      "num": 38552,
+      "raw_hot": 42001,
+      "num": 42001,
       "word": "射手座容易被误解的一面",
       "onboard_time": 1691427866,
       "rank": 36,
@@ -3121,6 +3121,30 @@
       "onboard_time": 1691347517,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 27359,
+      "num": 30298,
+      "word": "TFBOYS heart",
+      "onboard_time": 1691429062,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 26784,
+      "num": 30133,
+      "word": "男子喝笋汤发现碗内暗藏玄机",
+      "onboard_time": 1691436135,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22883,
+      "num": 29846,
+      "word": "超导",
+      "onboard_time": 1691436494,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 18031,
