@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691408034203,
+  "endTime": 1691411622946,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1123,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1837059,
+      "num": 842290,
+      "word": "王楚然新剧原著女主一直翻白眼",
+      "onboard_time": 1691405975,
+      "rank": 3,
+      "category": "艺人,影视"
+    },
+    {
       "raw_hot": 1829605,
       "num": 1829605,
       "word": "成都给花花出了个冰淇淋",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1691120558,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1606241,
-      "num": 842290,
-      "word": "王楚然新剧原著女主一直翻白眼",
-      "onboard_time": 1691405975,
-      "rank": 3,
-      "category": "艺人,影视"
     },
     {
       "raw_hot": 1604066,
@@ -2073,6 +2073,14 @@
       "onboard_time": 1691074602,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1292253,
+      "num": 1292253,
+      "word": "夭璟吻戏已经是nextlevel了",
+      "onboard_time": 1691407114,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 1282965,
@@ -4267,6 +4275,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 781634,
+      "num": 343505,
+      "word": "千万别戴这种眼镜",
+      "onboard_time": 1691405855,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 781313,
       "num": 390642,
       "word": "网传广州12岁女孩被数人起哄猥亵",
@@ -5049,14 +5065,6 @@
       "onboard_time": 1691070097,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 697077,
-      "num": 343505,
-      "word": "千万别戴这种眼镜",
-      "onboard_time": 1691405855,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 691976,
@@ -5921,6 +5929,14 @@
       "onboard_time": 1691296360,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 602781,
+      "num": 602781,
+      "word": "莲花楼调更",
+      "onboard_time": 1691409634,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 601157,
@@ -7089,6 +7105,14 @@
       "onboard_time": 1690981536,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 521870,
+      "num": 332140,
+      "word": "刘耀文唯一一次赢是因为土豆",
+      "onboard_time": 1691407477,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 521836,
@@ -9035,6 +9059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404361,
+      "num": 404361,
+      "word": "舒兰3名公职人员坐的车在水中被找到",
+      "onboard_time": 1691410416,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404139,
       "num": 688911,
       "word": "王俊凯妈妈来看TFBOYS演唱会",
@@ -9491,6 +9523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 384798,
+      "num": 279556,
+      "word": "小夭认出了相柳",
+      "onboard_time": 1691407055,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384599,
       "num": 888456,
       "word": "LNG晋级S13",
@@ -9697,6 +9737,14 @@
       "onboard_time": 1691288498,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 374236,
+      "num": 278767,
+      "word": "涂山璟说哄好小夭了",
+      "onboard_time": 1691409876,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 373541,
@@ -9929,6 +9977,14 @@
       "onboard_time": 1690958315,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 360739,
+      "num": 226772,
+      "word": "邓为说不麻烦",
+      "onboard_time": 1691409155,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 360428,
@@ -10611,14 +10667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332140,
-      "num": 332140,
-      "word": "刘耀文唯一一次赢是因为土豆",
-      "onboard_time": 1691407477,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331376,
       "num": 331376,
       "word": "丫丫生日坐在竹子上干饭",
@@ -10665,6 +10713,14 @@
       "onboard_time": 1691112336,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327786,
+      "num": 277565,
+      "word": "去看脱发被医生夸了",
+      "onboard_time": 1691410057,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 327738,
@@ -10761,14 +10817,6 @@
       "onboard_time": 1690848397,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 323729,
-      "num": 323729,
-      "word": "夭璟吻戏已经是nextlevel了",
-      "onboard_time": 1691407114,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 323347,
@@ -11425,6 +11473,14 @@
       "onboard_time": 1691103742,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301284,
+      "num": 275439,
+      "word": "他居然还挑上了",
+      "onboard_time": 1691410356,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 300874,
@@ -12091,6 +12147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275943,
+      "num": 838346,
+      "word": "游客扔遍地垃圾女子自发去海边捡拾",
+      "onboard_time": 1691405975,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275835,
       "num": 317768,
       "word": "邓为终于戴耳钉了",
@@ -12113,6 +12177,14 @@
       "onboard_time": 1691123138,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275153,
+      "num": 275153,
+      "word": "温拿乐队正式解散",
+      "onboard_time": 1691407895,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 274744,
@@ -12235,12 +12307,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 271422,
+      "num": 271422,
+      "word": "给女儿存了一笔分手费",
+      "onboard_time": 1691410893,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 270925,
       "num": 270925,
       "word": "爱豆小卡应该有更多功能",
       "onboard_time": 1690967433,
       "rank": 38,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 270703,
+      "num": 282987,
+      "word": "张雨霏九金王",
+      "onboard_time": 1691411195,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 270292,
@@ -12281,6 +12369,14 @@
       "onboard_time": 1690961673,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268258,
+      "num": 268258,
+      "word": "龚俊回应看谁都深情",
+      "onboard_time": 1691409454,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 267648,
@@ -12699,14 +12795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252840,
-      "num": 252840,
-      "word": "温拿乐队正式解散",
-      "onboard_time": 1691407895,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252310,
       "num": 252310,
       "word": "告五人巡演",
@@ -12800,14 +12888,6 @@
       "word": "山东地震多地收到预警",
       "onboard_time": 1691277869,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249871,
-      "num": 838346,
-      "word": "游客扔遍地垃圾女子自发去海边捡拾",
-      "onboard_time": 1691405975,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -14883,6 +14963,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 199182,
+      "num": 229460,
+      "word": "张雨霏女子50米自由泳夺金",
+      "onboard_time": 1691410835,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199161,
       "num": 258533,
       "word": "没有一口成都饭是白吃的",
@@ -16595,6 +16683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142556,
+      "num": 226282,
+      "word": "善良是这世上最珍贵的东西",
+      "onboard_time": 1691411557,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142541,
       "num": 115679,
       "word": "你的25岁是什么样的",
@@ -16785,6 +16881,14 @@
       "onboard_time": 1691220399,
       "rank": 46,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 132528,
+      "num": 225827,
+      "word": "方形西瓜",
+      "onboard_time": 1691411313,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 132109,
@@ -17041,6 +17145,14 @@
       "onboard_time": 1690818334,
       "rank": 39,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 117017,
+      "num": 304635,
+      "word": "涿州一对父子水灾中救助村民超300人",
+      "onboard_time": 1691409634,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115527,

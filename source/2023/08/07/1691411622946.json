@@ -1,0 +1,410 @@
+{
+  "runTime": 1691411622946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1397016,
+        "num": 1397016,
+        "word": "莲花楼热度反超长相思",
+        "onboard_time": 1691406278,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1292253,
+        "num": 1292253,
+        "word": "夭璟吻戏已经是nextlevel了",
+        "onboard_time": 1691407114,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32297,
+        "num": 1014236,
+        "word": "舒兰公职人员失联牺牲前奔赴一线画面",
+        "onboard_time": 1691378378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853482,
+        "num": 853482,
+        "word": "孤注一掷成中国影史点映票房冠军",
+        "onboard_time": 1691403340,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 602781,
+        "num": 602781,
+        "word": "莲花楼调更",
+        "onboard_time": 1691409634,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1381917,
+        "num": 514613,
+        "word": "时代峰峻回应TFBOYS很少合体",
+        "onboard_time": 1691397160,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404361,
+        "num": 404361,
+        "word": "舒兰3名公职人员坐的车在水中被找到",
+        "onboard_time": 1691410416,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275943,
+        "num": 343571,
+        "word": "游客扔遍地垃圾女子自发去海边捡拾",
+        "onboard_time": 1691405975,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337636,
+        "num": 337636,
+        "word": "TES对战WBG",
+        "onboard_time": 1691396257,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 320526,
+        "num": 320526,
+        "word": "TheShy",
+        "onboard_time": 1691406397,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1837059,
+        "num": 317083,
+        "word": "王楚然新剧原著女主一直翻白眼",
+        "onboard_time": 1691405975,
+        "rank": 10,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 1258769,
+        "num": 316366,
+        "word": "易烊千玺大花轿直拍 被删",
+        "onboard_time": 1691400339,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 708172,
+        "num": 314783,
+        "word": "比跷二郎腿更坏的坐姿",
+        "onboard_time": 1691400519,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308999,
+        "num": 308999,
+        "word": "警方回应男子当街猥亵喝断片女子",
+        "onboard_time": 1691404359,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117017,
+        "num": 304635,
+        "word": "涿州一对父子水灾中救助村民超300人",
+        "onboard_time": 1691409634,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1077504,
+        "num": 296762,
+        "word": "TFBOYS是在擦玻璃吗",
+        "onboard_time": 1691402439,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 524542,
+        "num": 290259,
+        "word": "小夭知道防风邶是相柳了",
+        "onboard_time": 1691404596,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521870,
+        "num": 288092,
+        "word": "刘耀文唯一一次赢是因为土豆",
+        "onboard_time": 1691407477,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283108,
+        "num": 283108,
+        "word": "广州emo",
+        "onboard_time": 1691404656,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270703,
+        "num": 282987,
+        "word": "张雨霏九金王",
+        "onboard_time": 1691411195,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 781634,
+        "num": 282308,
+        "word": "千万别戴这种眼镜",
+        "onboard_time": 1691405855,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 700439,
+        "num": 281648,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1691393379,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 493398,
+        "num": 280912,
+        "word": "TFBOYS各家站姐出图",
+        "onboard_time": 1691398838,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 404077,
+        "num": 280645,
+        "word": "女子便秘10多天体内取出40斤大便",
+        "onboard_time": 1691406818,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384798,
+        "num": 279556,
+        "word": "小夭认出了相柳",
+        "onboard_time": 1691407055,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363959,
+        "num": 279106,
+        "word": "莲花楼阎王娶亲案",
+        "onboard_time": 1691407234,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374236,
+        "num": 278767,
+        "word": "涂山璟说哄好小夭了",
+        "onboard_time": 1691409876,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353035,
+        "num": 277667,
+        "word": "倒下的蛋糕 虚假中的真实",
+        "onboard_time": 1691391820,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327786,
+        "num": 277565,
+        "word": "去看脱发被医生夸了",
+        "onboard_time": 1691410057,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234148,
+        "num": 276627,
+        "word": "中纪委曝光一台直线加速器回扣1600万",
+        "onboard_time": 1691389897,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346577,
+        "num": 276110,
+        "word": "魔法城堡女主也去了TFBOYS演唱会",
+        "onboard_time": 1691400161,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301284,
+        "num": 275439,
+        "word": "他居然还挑上了",
+        "onboard_time": 1691410356,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275153,
+        "num": 275153,
+        "word": "温拿乐队正式解散",
+        "onboard_time": 1691407895,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281230,
+        "num": 273478,
+        "word": "王俊凯新歌回望",
+        "onboard_time": 1691405497,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271422,
+        "num": 271422,
+        "word": "给女儿存了一笔分手费",
+        "onboard_time": 1691410893,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 268258,
+        "num": 268258,
+        "word": "龚俊回应看谁都深情",
+        "onboard_time": 1691409454,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265833,
+        "num": 265833,
+        "word": "李现反多巴胺穿搭",
+        "onboard_time": 1691403935,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253477,
+        "num": 253477,
+        "word": "村委回应男孩性侵抛尸11岁女童",
+        "onboard_time": 1691385819,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231036,
+        "num": 231036,
+        "word": "张晚意朋友圈背景图",
+        "onboard_time": 1691403036,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199182,
+        "num": 229460,
+        "word": "张雨霏女子50米自由泳夺金",
+        "onboard_time": 1691410835,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228519,
+        "num": 228519,
+        "word": "莲花楼",
+        "onboard_time": 1691407538,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198027,
+        "num": 228401,
+        "word": "易烊千玺出发北京",
+        "onboard_time": 1691399678,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335058,
+        "num": 228082,
+        "word": "大王姬脸红了",
+        "onboard_time": 1691404118,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188707,
+        "num": 227768,
+        "word": "女子生下一女婴3天后又产一子",
+        "onboard_time": 1691378198,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177069,
+        "num": 227547,
+        "word": "WBG",
+        "onboard_time": 1691407114,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164138,
+        "num": 227245,
+        "word": "舒兰常务副市长最后的语音在布置工作",
+        "onboard_time": 1691399198,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360739,
+        "num": 226772,
+        "word": "邓为说不麻烦",
+        "onboard_time": 1691409155,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145141,
+        "num": 226569,
+        "word": "五常宝宝凌晨转移一声没哭",
+        "onboard_time": 1691401840,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142556,
+        "num": 226282,
+        "word": "善良是这世上最珍贵的东西",
+        "onboard_time": 1691411557,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132528,
+        "num": 225827,
+        "word": "方形西瓜",
+        "onboard_time": 1691411313,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#众志成城同舟共济#"
+    }
+  }
+}
