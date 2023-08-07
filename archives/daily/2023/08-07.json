@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691392549980,
+  "endTime": 1691393631553,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 3175702,
-      "num": 804408,
+      "num": 936009,
       "word": "TFBOYS团站关站",
       "onboard_time": 1691389659,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 2269920,
+      "num": 1019587,
+      "word": "倒下的蛋糕 虚假中的真实",
+      "onboard_time": 1691391820,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2173697,
       "num": 821625,
       "word": "易烊千玺太野了",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1964559,
-      "num": 602616,
+      "num": 669139,
       "word": "王楚然的手机壳",
       "onboard_time": 1691388218,
       "rank": 14,
@@ -211,6 +219,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 1496424,
+      "num": 1496424,
+      "word": "中纪委曝光一台直线加速器回扣1600万",
+      "onboard_time": 1691389897,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1473722,
       "num": 745542,
       "word": "经常喝咖啡把命喝苦了",
@@ -249,6 +265,14 @@
       "onboard_time": 1691364576,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1323883,
+      "num": 668817,
+      "word": "TFBOYS父母坐在一起",
+      "onboard_time": 1691391396,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 1320385,
@@ -307,12 +331,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1169125,
-      "num": 582291,
-      "word": "倒下的蛋糕 虚假中的真实",
-      "onboard_time": 1691391820,
-      "rank": 12,
-      "category": "音乐"
+      "raw_hot": 1147519,
+      "num": 1147519,
+      "word": "接近碧桂园人士称被进驻传言不实",
+      "onboard_time": 1691392597,
+      "rank": 1,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1135765,
@@ -331,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1091101,
-      "num": 542526,
-      "word": "TFBOYS父母坐在一起",
-      "onboard_time": 1691391396,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1075109,
       "num": 590186,
       "word": "王俊凯西安出发路透",
@@ -355,14 +371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 951912,
-      "num": 951912,
-      "word": "中纪委曝光一台直线加速器回扣1600万",
-      "onboard_time": 1691389897,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 947950,
       "num": 947950,
       "word": "我突然意识到自己真的很好",
@@ -377,6 +385,14 @@
       "onboard_time": 1691366977,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 945286,
+      "num": 945286,
+      "word": "杨幂再退出1家与嘉行老板合开公司",
+      "onboard_time": 1691392838,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 944745,
@@ -499,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 718137,
+      "num": 718137,
+      "word": "马立奥爷爷的礼物是每人一台车",
+      "onboard_time": 1691390978,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 709194,
       "num": 185320,
       "word": "徐峥陶虹带女儿看TFBOYS演唱会",
@@ -539,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 658135,
+      "num": 493197,
+      "word": "希望TFBOYS不要忘记四叶草",
+      "onboard_time": 1691393197,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 653266,
       "num": 505524,
       "word": "王楚然海棠笑春风出妆饭拍",
@@ -552,14 +584,6 @@
       "word": "2013快男团综定档",
       "onboard_time": 1691385221,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 635193,
-      "num": 635193,
-      "word": "马立奥爷爷的礼物是每人一台车",
-      "onboard_time": 1691390978,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -683,6 +707,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 498477,
+      "num": 498477,
+      "word": "张晚意说杨紫性格招人喜欢",
+      "onboard_time": 1691390020,
+      "rank": 49,
+      "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 492590,
+      "num": 467694,
+      "word": "王一博出发泰国机场路透",
+      "onboard_time": 1691392175,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 492034,
       "num": 424195,
       "word": "A股",
@@ -721,14 +761,6 @@
       "onboard_time": 1691366196,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 474789,
-      "num": 474789,
-      "word": "张晚意说杨紫性格招人喜欢",
-      "onboard_time": 1691390020,
-      "rank": 49,
-      "category": "影视,艺人"
     },
     {
       "raw_hot": 460282,
@@ -804,7 +836,7 @@
     },
     {
       "raw_hot": 416589,
-      "num": 433536,
+      "num": 469256,
       "word": "原来头发真的能晒变色",
       "onboard_time": 1691388517,
       "rank": 33,
@@ -873,6 +905,14 @@
       "onboard_time": 1691389179,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 355385,
+      "num": 263596,
+      "word": "檀健次黑发狼尾",
+      "onboard_time": 1691392779,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 352889,
@@ -1091,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264971,
+      "num": 264971,
+      "word": "中兴通讯",
+      "onboard_time": 1691392358,
+      "rank": 48,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 264227,
       "num": 819294,
       "word": "七时吉祥定档",
@@ -1129,14 +1177,6 @@
       "onboard_time": 1691356693,
       "rank": 30,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 251455,
-      "num": 251455,
-      "word": "王一博出发泰国机场路透",
-      "onboard_time": 1691392175,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 246069,
@@ -1203,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224640,
+      "num": 262800,
+      "word": "一个姐姐离婚时发的朋友圈",
+      "onboard_time": 1691393379,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 221828,
       "num": 221828,
       "word": "流鼻血时别再仰头了",
@@ -1243,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212144,
+      "num": 261678,
+      "word": "XYG律师声明",
+      "onboard_time": 1691393317,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212115,
       "num": 273299,
       "word": "仲夏日漫漫",
@@ -1251,12 +1307,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211239,
+      "num": 261096,
+      "word": "进入大厂后失去了对生活的热爱",
+      "onboard_time": 1691392057,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 210333,
+      "num": 210333,
+      "word": "TF三代让我们不顾一切单人海报",
+      "onboard_time": 1691393197,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208070,
       "num": 208070,
       "word": "李莲花一招制敌角丽谯",
       "onboard_time": 1691389238,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204369,
+      "num": 260630,
+      "word": "台风",
+      "onboard_time": 1691392657,
+      "rank": 39,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 201067,
+      "num": 201067,
+      "word": "张杰未live巡回演唱会",
+      "onboard_time": 1691393078,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 199161,
@@ -1273,6 +1361,14 @@
       "onboard_time": 1691389777,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196966,
+      "num": 196966,
+      "word": "真的会被山东的职场震撼到",
+      "onboard_time": 1691393078,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 196521,
@@ -1371,6 +1467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155461,
+      "num": 191616,
+      "word": "被洪水冲走的车会变成什么样",
+      "onboard_time": 1691392960,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153484,
       "num": 818752,
       "word": "地震导致的次声波真的会跟人体器官共振",
@@ -1385,14 +1489,6 @@
       "onboard_time": 1691315678,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152155,
-      "num": 219722,
-      "word": "进入大厂后失去了对生活的热爱",
-      "onboard_time": 1691392057,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 149381,
@@ -1433,14 +1529,6 @@
       "onboard_time": 1691390139,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136638,
-      "num": 217924,
-      "word": "中兴通讯",
-      "onboard_time": 1691392358,
-      "rank": 48,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 136252,
@@ -1555,12 +1643,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 62836,
+      "num": 580477,
+      "word": "男孩兼职救生员满脸骄傲讲述救人经历",
+      "onboard_time": 1691391699,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62211,
-      "num": 615504,
+      "num": 670132,
       "word": "他们扛沙袋冒雨逆行的背影让人泪目",
       "onboard_time": 1691383545,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48266,
+      "num": 1045608,
+      "word": "被大运会中国95后的自信狠狠拿捏",
+      "onboard_time": 1691377899,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 46957,
@@ -1579,28 +1683,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 31110,
-      "num": 543864,
-      "word": "男孩兼职救生员满脸骄傲讲述救人经历",
-      "onboard_time": 1691391699,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30034,
       "num": 162302,
       "word": "夏鸣星卡面",
       "onboard_time": 1691347517,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27478,
-      "num": 827159,
-      "word": "被大运会中国95后的自信狠狠拿捏",
-      "onboard_time": 1691377899,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 18031,
