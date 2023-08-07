@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691411622946,
+  "endTime": 1691412567276,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 2223994,
-      "num": 817123,
+      "num": 896094,
       "word": "时代峰峻回应TFBOYS很少合体",
       "onboard_time": 1691397160,
       "rank": 7,
@@ -179,7 +179,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1837059,
+      "raw_hot": 1871360,
       "num": 842290,
       "word": "王楚然新剧原著女主一直翻白眼",
       "onboard_time": 1691405975,
@@ -347,6 +347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1312832,
+      "num": 1312832,
+      "word": "夭璟吻戏已经是nextlevel了",
+      "onboard_time": 1691407114,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1307674,
       "num": 819868,
       "word": "王源回应TFBOYS时隔两年没开演唱会",
@@ -361,14 +369,6 @@
       "onboard_time": 1691385819,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1292253,
-      "num": 1292253,
-      "word": "夭璟吻戏已经是nextlevel了",
-      "onboard_time": 1691407114,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 1266157,
@@ -481,6 +481,14 @@
       "onboard_time": 1691396976,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1077966,
+      "num": 1077966,
+      "word": "TES对战WBG",
+      "onboard_time": 1691396257,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 1075109,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 781634,
-      "num": 343505,
+      "num": 359407,
       "word": "千万别戴这种眼镜",
       "onboard_time": 1691405855,
       "rank": 30,
@@ -683,12 +691,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 706960,
+      "num": 301463,
+      "word": "给女儿存了一笔分手费",
+      "onboard_time": 1691410893,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 704028,
       "num": 704028,
       "word": "错觉式分手",
       "onboard_time": 1691385399,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 702651,
+      "num": 702651,
+      "word": "舒兰3名公职人员坐的车在水中被找到",
+      "onboard_time": 1691410416,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 698563,
@@ -737,14 +761,6 @@
       "onboard_time": 1691397518,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 667463,
-      "num": 667463,
-      "word": "TES对战WBG",
-      "onboard_time": 1691396257,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 664143,
@@ -819,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 593958,
+      "num": 593958,
+      "word": "TheShy",
+      "onboard_time": 1691406397,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 593040,
       "num": 593040,
       "word": "迈阿密国际逆转淘汰达拉斯",
@@ -851,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 586941,
+      "num": 586941,
+      "word": "WBG",
+      "onboard_time": 1691407114,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 586069,
       "num": 486805,
       "word": "宁波机场通报货机偏出跑道事件",
@@ -873,6 +905,14 @@
       "onboard_time": 1691399678,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 568325,
+      "num": 462703,
+      "word": "TFBOYS各家站姐出图",
+      "onboard_time": 1691398838,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 564215,
@@ -940,7 +980,7 @@
     },
     {
       "raw_hot": 521870,
-      "num": 332140,
+      "num": 518739,
       "word": "刘耀文唯一一次赢是因为土豆",
       "onboard_time": 1691407477,
       "rank": 32,
@@ -985,14 +1025,6 @@
       "onboard_time": 1691377300,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 500881,
-      "num": 462703,
-      "word": "TFBOYS各家站姐出图",
-      "onboard_time": 1691398838,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 498477,
@@ -1049,14 +1081,6 @@
       "onboard_time": 1691366196,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 470124,
-      "num": 470124,
-      "word": "TheShy",
-      "onboard_time": 1691406397,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 469445,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1691384264,
       "rank": 36,
       "category": "影视,综艺"
+    },
+    {
+      "raw_hot": 438161,
+      "num": 347594,
+      "word": "邓为从脖子红到耳朵",
+      "onboard_time": 1691412036,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 436092,
@@ -1235,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404361,
-      "num": 404361,
-      "word": "舒兰3名公职人员坐的车在水中被找到",
-      "onboard_time": 1691410416,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401080,
       "num": 822928,
       "word": "要离职的人状态真的很不一样",
@@ -1299,6 +1323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 391957,
+      "num": 631067,
+      "word": "张雨霏九金王",
+      "onboard_time": 1691411195,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388760,
       "num": 367485,
       "word": "女子被未牵绳大狗拖拽在地撕咬",
@@ -1315,8 +1347,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374704,
+      "num": 300367,
+      "word": "他居然还挑上了",
+      "onboard_time": 1691410356,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 374236,
-      "num": 278767,
+      "num": 336285,
       "word": "涂山璟说哄好小夭了",
       "onboard_time": 1691409876,
       "rank": 26,
@@ -1329,6 +1369,22 @@
       "onboard_time": 1691395661,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366218,
+      "num": 366218,
+      "word": "张雨霏女子50米自由泳夺金",
+      "onboard_time": 1691410835,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 364544,
+      "num": 364544,
+      "word": "TES先下一城",
+      "onboard_time": 1691412095,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 362524,
@@ -1412,7 +1468,7 @@
     },
     {
       "raw_hot": 327786,
-      "num": 277565,
+      "num": 311213,
       "word": "去看脱发被医生夸了",
       "onboard_time": 1691410057,
       "rank": 28,
@@ -1449,14 +1505,6 @@
       "onboard_time": 1691376994,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 319269,
-      "num": 319269,
-      "word": "WBG",
-      "onboard_time": 1691407114,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 318242,
@@ -1529,14 +1577,6 @@
       "onboard_time": 1691396677,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301284,
-      "num": 275439,
-      "word": "他居然还挑上了",
-      "onboard_time": 1691410356,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 298249,
@@ -1619,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284769,
+      "num": 284769,
+      "word": "长相思梅林殉情",
+      "onboard_time": 1691412275,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281420,
       "num": 281420,
       "word": "七时吉祥",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1691321390,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279821,
+      "num": 279821,
+      "word": "温拿乐队正式解散",
+      "onboard_time": 1691407895,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 277430,
@@ -1659,22 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275153,
-      "num": 275153,
-      "word": "温拿乐队正式解散",
-      "onboard_time": 1691407895,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 271422,
-      "num": 271422,
-      "word": "给女儿存了一笔分手费",
-      "onboard_time": 1691410893,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 271236,
       "num": 117069,
       "word": "黄锐",
@@ -1689,14 +1729,6 @@
       "onboard_time": 1691330772,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270703,
-      "num": 282987,
-      "word": "张雨霏九金王",
-      "onboard_time": 1691411195,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 269572,
@@ -1771,6 +1803,22 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 256139,
+      "num": 256139,
+      "word": "夭柳党集体按暂停",
+      "onboard_time": 1691412158,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255222,
+      "num": 255222,
+      "word": "朴宰范好像被山歌封了喉",
+      "onboard_time": 1691411976,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251143,
       "num": 251143,
       "word": "真的会被山东的职场震撼到",
@@ -1801,6 +1849,14 @@
       "onboard_time": 1691340754,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 244337,
+      "num": 231374,
+      "word": "张艺兴王传君体型差",
+      "onboard_time": 1691411976,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 241871,
@@ -1867,6 +1923,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 231784,
+      "num": 231784,
+      "word": "为什么智齿不是每个人都长",
+      "onboard_time": 1691412095,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229431,
       "num": 229431,
       "word": "夜晚1岁女童被困车内消防砸窗救人",
@@ -1931,6 +1995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211841,
+      "num": 211841,
+      "word": "不小心把伯邑考给吃了",
+      "onboard_time": 1691412158,
+      "rank": 44,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 211239,
       "num": 261096,
       "word": "进入大厂后失去了对生活的热爱",
@@ -1993,14 +2065,6 @@
       "onboard_time": 1691393078,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 199182,
-      "num": 229460,
-      "word": "张雨霏女子50米自由泳夺金",
-      "onboard_time": 1691410835,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 199161,
@@ -2091,6 +2155,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 185731,
+      "num": 209127,
+      "word": "李冰洁八金王",
+      "onboard_time": 1691411735,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182086,
       "num": 817365,
       "word": "曼城vs阿森纳",
@@ -2104,6 +2176,14 @@
       "word": "武警对舒兰受灾区域全力开展搜救",
       "onboard_time": 1691377899,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181532,
+      "num": 534166,
+      "word": "涿州一对父子水灾中救助村民超300人",
+      "onboard_time": 1691409634,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2161,6 +2241,14 @@
       "onboard_time": 1691353574,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162327,
+      "num": 200286,
+      "word": "什么能给一名山东父亲造成最大打击",
+      "onboard_time": 1691411796,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 161212,
@@ -2313,14 +2401,6 @@
       "onboard_time": 1691360958,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117017,
-      "num": 304635,
-      "word": "涿州一对父子水灾中救助村民超300人",
-      "onboard_time": 1691409634,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113895,
