@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691382838558,
+  "endTime": 1691385359376,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -64,6 +64,14 @@
       "word": "TFBOYS暂未确定巡演城市",
       "onboard_time": 1691375498,
       "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 3174708,
+      "num": 674358,
+      "word": "工作人员回应TFBOYS演唱会馆外有垃圾",
+      "onboard_time": 1691382464,
+      "rank": 19,
       "category": "音乐"
     },
     {
@@ -163,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1627618,
-      "num": 513925,
-      "word": "工作人员回应TFBOYS演唱会馆外有垃圾",
-      "onboard_time": 1691382464,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1604066,
       "num": 542183,
       "word": "所有的四叶草是来送他们的",
@@ -193,6 +193,14 @@
       "onboard_time": 1691364390,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1360092,
+      "num": 665784,
+      "word": "经常喝咖啡把命喝苦了",
+      "onboard_time": 1691381863,
+      "rank": 46,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 1343542,
@@ -259,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1018230,
+      "num": 354643,
+      "word": "黄锐进没进场",
+      "onboard_time": 1691384982,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 947950,
       "num": 947950,
       "word": "我突然意识到自己真的很好",
@@ -289,6 +305,14 @@
       "onboard_time": 1691376757,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 900431,
+      "num": 334693,
+      "word": "王俊凯十周年演唱会单人机位",
+      "onboard_time": 1691384026,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 891301,
@@ -347,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 740858,
+      "num": 740858,
+      "word": "爱宝双胞胎宝宝满月照",
+      "onboard_time": 1691380303,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726401,
       "num": 726401,
       "word": "央视采访列车被困落坡岭细节太震撼",
@@ -369,14 +401,6 @@
       "onboard_time": 1691356274,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 702244,
-      "num": 702244,
-      "word": "爱宝双胞胎宝宝满月照",
-      "onboard_time": 1691380303,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 698563,
@@ -411,12 +435,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 596578,
+      "num": 596578,
+      "word": "王传君王大陆30秒演完孤注一掷",
+      "onboard_time": 1691384026,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 593040,
       "num": 593040,
       "word": "迈阿密国际逆转淘汰达拉斯",
       "onboard_time": 1691381324,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 592799,
+      "num": 324970,
+      "word": "长相思厦门快闪",
+      "onboard_time": 1691383785,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 588512,
@@ -433,6 +473,14 @@
       "onboard_time": 1691375073,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 587902,
+      "num": 587902,
+      "word": "空调工裸辞写文6年获粉千万",
+      "onboard_time": 1691382343,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 582574,
@@ -489,14 +537,6 @@
       "onboard_time": 1691377300,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 495967,
-      "num": 495967,
-      "word": "经常喝咖啡把命喝苦了",
-      "onboard_time": 1691381863,
-      "rank": 46,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 492034,
@@ -611,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396903,
+      "num": 346161,
+      "word": "便利店偷听八卦发现正主是自己",
+      "onboard_time": 1691383848,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 388760,
       "num": 367485,
       "word": "女子被未牵绳大狗拖拽在地撕咬",
@@ -619,12 +667,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380137,
+      "num": 380137,
+      "word": "台风卡努大转弯或将登陆我国",
+      "onboard_time": 1691384323,
+      "rank": 18,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 352889,
       "num": 352889,
       "word": "薛之谦在线帮歌迷牵线",
       "onboard_time": 1691377836,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 351220,
+      "num": 222557,
+      "word": "长相思卡点夭夭零六",
+      "onboard_time": 1691384264,
+      "rank": 36,
+      "category": "影视,综艺"
+    },
+    {
+      "raw_hot": 345444,
+      "num": 222299,
+      "word": "王传君特别感谢艳芬女士",
+      "onboard_time": 1691385042,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 343389,
+      "num": 221206,
+      "word": "朴叙俊拒绝戴发箍",
+      "onboard_time": 1691384802,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 340763,
@@ -683,6 +763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306509,
+      "num": 220967,
+      "word": "乐队的夏天3超级乐迷官宣",
+      "onboard_time": 1691383605,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 304328,
+      "num": 718536,
+      "word": "地震时他们仨不约而同敲响邻居的门",
+      "onboard_time": 1691380844,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298249,
       "num": 822342,
       "word": "广州80岁名医逝世当天仍在出门诊",
@@ -697,6 +793,14 @@
       "onboard_time": 1691378499,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292984,
+      "num": 220374,
+      "word": "长相思",
+      "onboard_time": 1691384923,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 287993,
@@ -835,14 +939,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 245198,
-      "num": 245198,
-      "word": "空调工裸辞写文6年获粉千万",
-      "onboard_time": 1691382343,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241871,
       "num": 241871,
       "word": "年度小品莲花楼",
@@ -865,14 +961,6 @@
       "onboard_time": 1691375073,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233720,
-      "num": 718536,
-      "word": "地震时他们仨不约而同敲响邻居的门",
-      "onboard_time": 1691380844,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233094,
@@ -1169,6 +1257,14 @@
       "onboard_time": 1691349136,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 62211,
+      "num": 377621,
+      "word": "他们扛沙袋冒雨逆行的背影让人泪目",
+      "onboard_time": 1691383545,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46957,
