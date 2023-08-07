@@ -1,0 +1,410 @@
+{
+  "runTime": 1691375527916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 944745,
+        "num": 1177659,
+        "word": "强降雨已致舒兰14人遇难",
+        "onboard_time": 1691371298,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042576,
+        "num": 1042576,
+        "word": "电影孤注一掷提档",
+        "onboard_time": 1691363365,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182500,
+        "num": 803970,
+        "word": "河段水位上升官兵们冒雨垒筑沙袋",
+        "onboard_time": 1691368304,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3075318,
+        "num": 802758,
+        "word": "TFBOYS暂未确定巡演城市",
+        "onboard_time": 1691375498,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 796668,
+        "num": 796668,
+        "word": "原来真的有人一运动就过敏",
+        "onboard_time": 1691367578,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1284851,
+        "num": 745192,
+        "word": "张艺兴金晨情头",
+        "onboard_time": 1691364576,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 640225,
+        "num": 640225,
+        "word": "滔搏 报点",
+        "onboard_time": 1691368660,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 813609,
+        "num": 633805,
+        "word": "高校1.31亿科研经费成果转化率为0",
+        "onboard_time": 1691333233,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 613437,
+        "num": 613437,
+        "word": "时代少年团演唱会什么时候官宣",
+        "onboard_time": 1691375073,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 419894,
+        "num": 419894,
+        "word": "命运的齿轮开始生锈",
+        "onboard_time": 1691363125,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1453150,
+        "num": 419655,
+        "word": "所有的四叶草是来送他们的",
+        "onboard_time": 1691375432,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390243,
+        "num": 390243,
+        "word": "梅西进球",
+        "onboard_time": 1691375073,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360335,
+        "num": 360335,
+        "word": "涂山璟 智计无双细节点",
+        "onboard_time": 1691368419,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1395081,
+        "num": 335671,
+        "word": "TFBOYS快本的信",
+        "onboard_time": 1691329401,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295158,
+        "num": 295158,
+        "word": "央视采访列车被困落坡岭细节太震撼",
+        "onboard_time": 1691365233,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290825,
+        "num": 290825,
+        "word": "本周狗屎运排行榜",
+        "onboard_time": 1691366196,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1386518,
+        "num": 286311,
+        "word": "王俊凯王源看着易烊千玺笑",
+        "onboard_time": 1691338190,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278586,
+        "num": 278586,
+        "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
+        "onboard_time": 1691363728,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241647,
+        "num": 276132,
+        "word": "黑龙江吉林抗洪压力较大",
+        "onboard_time": 1691375073,
+        "rank": 18,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 1053671,
+        "num": 272060,
+        "word": "TFBOYS官博急了",
+        "onboard_time": 1691319525,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 427536,
+        "num": 265492,
+        "word": "重庆的猫啊那没事了",
+        "onboard_time": 1691368540,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308973,
+        "num": 260535,
+        "word": "35岁后最舒服的生活状态",
+        "onboard_time": 1691367701,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 843180,
+        "num": 255343,
+        "word": "薛之谦团队都去了TFBOYS演唱会",
+        "onboard_time": 1691364390,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254046,
+        "num": 254046,
+        "word": "地震来临前被狗狗拖走了",
+        "onboard_time": 1691366799,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226635,
+        "num": 253922,
+        "word": "XYG 比赛全程在联盟裁判监督下进行",
+        "onboard_time": 1691367280,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 669947,
+        "num": 252283,
+        "word": "TFBOYS十年之约演唱会",
+        "onboard_time": 1691320248,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 331536,
+        "num": 251713,
+        "word": "于适成为姬发",
+        "onboard_time": 1691368179,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323459,
+        "num": 250499,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1691375193,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 462205,
+        "num": 249948,
+        "word": "易烊千玺太野了",
+        "onboard_time": 1691338190,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248944,
+        "num": 248944,
+        "word": "原来穿高跟鞋从背后看是这样的",
+        "onboard_time": 1691332810,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229431,
+        "num": 229431,
+        "word": "夜晚1岁女童被困车内消防砸窗救人",
+        "onboard_time": 1691363125,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2870541,
+        "num": 229071,
+        "word": "易烊千玺夹得嗓子都冒烟了",
+        "onboard_time": 1691363487,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218178,
+        "num": 218178,
+        "word": "怎么处理衣柜上偷看我的小老鼠",
+        "onboard_time": 1691363125,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 215410,
+        "num": 215410,
+        "word": "十个勤天",
+        "onboard_time": 1691375073,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1080527,
+        "num": 215360,
+        "word": "十周年蛋糕塌了",
+        "onboard_time": 1691332398,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201364,
+        "num": 214933,
+        "word": "地震给我们提了个醒",
+        "onboard_time": 1691364993,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177959,
+        "num": 214509,
+        "word": "要学会大大方方的表达自己的情绪",
+        "onboard_time": 1691340754,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 159515,
+        "num": 214051,
+        "word": "卡努",
+        "onboard_time": 1691375313,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158716,
+        "num": 213641,
+        "word": "年度小品莲花楼",
+        "onboard_time": 1691367819,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150926,
+        "num": 213488,
+        "word": "梅西4场6球",
+        "onboard_time": 1691375254,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139885,
+        "num": 212985,
+        "word": "流鼻血时别再仰头了",
+        "onboard_time": 1691363909,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139602,
+        "num": 212725,
+        "word": "逛吃济州岛",
+        "onboard_time": 1691370102,
+        "rank": 41,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 138494,
+        "num": 212483,
+        "word": "安徽一高校录取通知书出现错字",
+        "onboard_time": 1691351354,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 125815,
+        "num": 211891,
+        "word": "钱塘江众多游客近距离观潮被卷入",
+        "onboard_time": 1691356754,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114411,
+        "num": 211807,
+        "word": "吉林舒兰3名失联公职人员确认牺牲",
+        "onboard_time": 1691331008,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113027,
+        "num": 211184,
+        "word": "王楚然张晚意 娇藏",
+        "onboard_time": 1691322056,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112576,
+        "num": 210906,
+        "word": "达拉斯vs迈阿密国际",
+        "onboard_time": 1691375313,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110391,
+        "num": 210468,
+        "word": "G2夺冠",
+        "onboard_time": 1691364330,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108271,
+        "num": 210412,
+        "word": "有多少人走错过才会提醒得这么用心啊",
+        "onboard_time": 1691356693,
+        "rank": 48,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 104020,
+        "num": 209841,
+        "word": "莲花楼杀我别用莲花刀",
+        "onboard_time": 1691351173,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#风雨同心人民至上#"
+    }
+  }
+}

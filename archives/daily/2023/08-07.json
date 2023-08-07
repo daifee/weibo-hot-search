@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691372704568,
+  "endTime": 1691375527916,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -51,6 +51,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3075318,
+      "num": 802758,
+      "word": "TFBOYS暂未确定巡演城市",
+      "onboard_time": 1691375498,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2914197,
       "num": 822110,
       "word": "TFBOYS官博急了",
@@ -88,6 +96,14 @@
       "word": "王俊凯回望",
       "onboard_time": 1691326396,
       "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1453150,
+      "num": 419655,
+      "word": "所有的四叶草是来送他们的",
+      "onboard_time": 1691375432,
+      "rank": 10,
       "category": "音乐"
     },
     {
@@ -139,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1042576,
+      "num": 1042576,
+      "word": "电影孤注一掷提档",
+      "onboard_time": 1691363365,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 947950,
       "num": 947950,
       "word": "我突然意识到自己真的很好",
@@ -155,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 944745,
+      "num": 1177659,
+      "word": "强降雨已致舒兰14人遇难",
+      "onboard_time": 1691371298,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 875935,
       "num": 875935,
       "word": "gemini",
@@ -169,14 +201,6 @@
       "onboard_time": 1691368660,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 829657,
-      "num": 829657,
-      "word": "强降雨已致舒兰14人遇难",
-      "onboard_time": 1691371298,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 795626,
@@ -219,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 613437,
+      "num": 613437,
+      "word": "时代少年团演唱会什么时候官宣",
+      "onboard_time": 1691375073,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 588512,
       "num": 823195,
       "word": "直到25岁我才真正读完了中学",
@@ -227,16 +259,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 585257,
-      "num": 585257,
-      "word": "电影孤注一掷提档",
-      "onboard_time": 1691363365,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 582574,
-      "num": 260556,
+      "num": 265492,
       "word": "重庆的猫啊那没事了",
       "onboard_time": 1691368540,
       "rank": 20,
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 532620,
-      "num": 257634,
+      "num": 260535,
       "word": "35岁后最舒服的生活状态",
       "onboard_time": 1691367701,
       "rank": 23,
@@ -340,11 +364,19 @@
     },
     {
       "raw_hot": 400820,
-      "num": 247548,
+      "num": 254046,
       "word": "地震来临前被狗狗拖走了",
       "onboard_time": 1691366799,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390243,
+      "num": 390243,
+      "word": "梅西进球",
+      "onboard_time": 1691375073,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 340763,
@@ -361,6 +393,14 @@
       "onboard_time": 1691333426,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323459,
+      "num": 250499,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1691375193,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 323445,
@@ -515,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241647,
+      "num": 276132,
+      "word": "黑龙江吉林抗洪压力较大",
+      "onboard_time": 1691375073,
+      "rank": 18,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 235923,
       "num": 235923,
       "word": "安徽一高校录取通知书出现错字",
@@ -523,8 +571,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 224092,
-      "num": 224092,
+      "raw_hot": 229431,
+      "num": 229431,
       "word": "夜晚1岁女童被困车内消防砸窗救人",
       "onboard_time": 1691363125,
       "rank": 42,
@@ -547,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218178,
+      "num": 218178,
+      "word": "怎么处理衣柜上偷看我的小老鼠",
+      "onboard_time": 1691363125,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 216269,
       "num": 819335,
       "word": "买了不一样的泳帽去河里游泳",
@@ -555,12 +611,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201510,
-      "num": 209788,
-      "word": "怎么处理衣柜上偷看我的小老鼠",
-      "onboard_time": 1691363125,
-      "rank": 38,
-      "category": "幽默,情感"
+      "raw_hot": 215410,
+      "num": 215410,
+      "word": "十个勤天",
+      "onboard_time": 1691375073,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 196521,
@@ -572,7 +628,7 @@
     },
     {
       "raw_hot": 190551,
-      "num": 209782,
+      "num": 212725,
       "word": "逛吃济州岛",
       "onboard_time": 1691370102,
       "rank": 37,
@@ -596,7 +652,7 @@
     },
     {
       "raw_hot": 177753,
-      "num": 209768,
+      "num": 210468,
       "word": "G2夺冠",
       "onboard_time": 1691364330,
       "rank": 39,
@@ -635,6 +691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159515,
+      "num": 214051,
+      "word": "卡努",
+      "onboard_time": 1691375313,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153484,
       "num": 818752,
       "word": "地震导致的次声波真的会跟人体器官共振",
@@ -649,6 +713,14 @@
       "onboard_time": 1691315678,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150926,
+      "num": 213488,
+      "word": "梅西4场6球",
+      "onboard_time": 1691375254,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 144791,
@@ -668,7 +740,7 @@
     },
     {
       "raw_hot": 141029,
-      "num": 209736,
+      "num": 209841,
       "word": "莲花楼杀我别用莲花刀",
       "onboard_time": 1691351173,
       "rank": 37,
@@ -729,6 +801,14 @@
       "onboard_time": 1691353093,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112576,
+      "num": 210906,
+      "word": "达拉斯vs迈阿密国际",
+      "onboard_time": 1691375313,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 100496,
