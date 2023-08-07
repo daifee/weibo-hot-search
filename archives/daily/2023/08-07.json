@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691364830903,
+  "endTime": 1691371318710,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3851646,
+      "num": 826872,
+      "word": "易烊千玺夹得嗓子都冒烟了",
+      "onboard_time": 1691363487,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3351808,
       "num": 822574,
       "word": "王俊凯王源看着易烊千玺笑",
@@ -48,14 +56,6 @@
       "word": "TFBOYS官博急了",
       "onboard_time": 1691319525,
       "rank": 16,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 2221076,
-      "num": 320839,
-      "word": "易烊千玺夹得嗓子都冒烟了",
-      "onboard_time": 1691363487,
-      "rank": 29,
       "category": "音乐"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1433456,
-      "num": 235051,
+      "num": 432967,
       "word": "薛之谦团队都去了TFBOYS演唱会",
       "onboard_time": 1691364390,
       "rank": 13,
@@ -107,8 +107,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1285528,
+      "num": 824751,
+      "word": "张艺兴金晨情头",
+      "onboard_time": 1691364576,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1211270,
-      "num": 1211270,
+      "num": 1379409,
       "word": "高校1.31亿科研经费成果转化率为0",
       "onboard_time": 1691333233,
       "rank": 1,
@@ -131,11 +139,35 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 946449,
+      "num": 259025,
+      "word": "下个火爆的TFBOYS在哪里",
+      "onboard_time": 1691366977,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 928606,
+      "num": 928606,
+      "word": "原来真的有人一运动就过敏",
+      "onboard_time": 1691367578,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 875935,
       "num": 875935,
       "word": "gemini",
       "onboard_time": 1691335752,
       "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 798117,
+      "num": 798117,
+      "word": "滔搏 报点",
+      "onboard_time": 1691368660,
+      "rank": 5,
       "category": "游戏"
     },
     {
@@ -145,6 +177,14 @@
       "onboard_time": 1691332871,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 726401,
+      "num": 726401,
+      "word": "央视采访列车被困落坡岭细节太震撼",
+      "onboard_time": 1691365233,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709194,
@@ -187,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570927,
+      "num": 257476,
+      "word": "重庆的猫啊那没事了",
+      "onboard_time": 1691368540,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 543687,
       "num": 820577,
       "word": "部分网友称有偿共享TFBOYS直播屏幕",
@@ -211,6 +259,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483673,
+      "num": 255240,
+      "word": "涂山璟 智计无双细节点",
+      "onboard_time": 1691368419,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 482845,
+      "num": 251647,
+      "word": "35岁后最舒服的生活状态",
+      "onboard_time": 1691367701,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 475649,
+      "num": 475649,
+      "word": "本周狗屎运排行榜",
+      "onboard_time": 1691366196,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 446513,
+      "num": 446513,
+      "word": "命运的齿轮开始生锈",
+      "onboard_time": 1691363125,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 436092,
       "num": 820460,
       "word": "王楚然张晚意 娇藏",
@@ -227,12 +307,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 418035,
+      "num": 418035,
+      "word": "XYG 比赛全程在联盟裁判监督下进行",
+      "onboard_time": 1691367280,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 401080,
       "num": 822928,
       "word": "要离职的人状态真的很不一样",
       "onboard_time": 1691314660,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 400820,
+      "num": 247548,
+      "word": "地震来临前被狗狗拖走了",
+      "onboard_time": 1691366799,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337274,
+      "num": 657128,
+      "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
+      "onboard_time": 1691363728,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324584,
@@ -256,6 +360,14 @@
       "word": "孤注一掷刷新中国影史点映单日票房纪录",
       "onboard_time": 1691322541,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 312904,
+      "num": 246208,
+      "word": "于适成为姬发",
+      "onboard_time": 1691368179,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -347,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263414,
+      "num": 242422,
+      "word": "地震给我们提了个醒",
+      "onboard_time": 1691364993,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256900,
       "num": 235338,
       "word": "有多少人走错过才会提醒得这么用心啊",
       "onboard_time": 1691356693,
       "rank": 30,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 248853,
+      "num": 835667,
+      "word": "河段水位上升官兵们冒雨垒筑沙袋",
+      "onboard_time": 1691368304,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246069,
@@ -371,6 +499,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 241871,
+      "num": 241871,
+      "word": "年度小品莲花楼",
+      "onboard_time": 1691367819,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235923,
       "num": 235923,
       "word": "安徽一高校录取通知书出现错字",
@@ -379,12 +515,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 234992,
-      "num": 234992,
-      "word": "命运的齿轮开始生锈",
+      "raw_hot": 224092,
+      "num": 224092,
+      "word": "夜晚1岁女童被困车内消防砸窗救人",
       "onboard_time": 1691363125,
-      "rank": 43,
-      "category": "幽默"
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221828,
+      "num": 221828,
+      "word": "流鼻血时别再仰头了",
+      "onboard_time": 1691363909,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219440,
@@ -403,12 +547,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205542,
-      "num": 657128,
-      "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
-      "onboard_time": 1691363728,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 201510,
+      "num": 209788,
+      "word": "怎么处理衣柜上偷看我的小老鼠",
+      "onboard_time": 1691363125,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 196521,
@@ -419,12 +563,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 187476,
-      "num": 163518,
-      "word": "流鼻血时别再仰头了",
-      "onboard_time": 1691363909,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 190551,
+      "num": 209782,
+      "word": "逛吃济州岛",
+      "onboard_time": 1691370102,
+      "rank": 37,
+      "category": "美食,旅游"
     },
     {
       "raw_hot": 185812,
@@ -441,6 +585,14 @@
       "onboard_time": 1691334289,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177753,
+      "num": 209768,
+      "word": "G2夺冠",
+      "onboard_time": 1691364330,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 177660,
@@ -491,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153150,
-      "num": 153150,
-      "word": "张艺兴金晨情头",
-      "onboard_time": 1691364576,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 144791,
       "num": 817284,
       "word": "现在就出发",
@@ -513,6 +657,14 @@
       "onboard_time": 1691327712,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141029,
+      "num": 209736,
+      "word": "莲花楼杀我别用莲花刀",
+      "onboard_time": 1691351173,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 136252,
@@ -539,12 +691,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 133416,
-      "num": 151053,
-      "word": "莲花楼杀我别用莲花刀",
-      "onboard_time": 1691351173,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 129919,
+      "num": 209680,
+      "word": "强降雨已致舒兰14人遇难",
+      "onboard_time": 1691371298,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127296,
@@ -579,28 +731,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 107464,
-      "num": 150972,
-      "word": "夜晚1岁女童被困车内消防砸窗救人",
-      "onboard_time": 1691363125,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100496,
       "num": 817161,
       "word": "EDG",
       "onboard_time": 1691324220,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 100446,
-      "num": 150920,
-      "word": "怎么处理衣柜上偷看我的小老鼠",
-      "onboard_time": 1691363125,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 99315,
