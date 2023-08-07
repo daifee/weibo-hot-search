@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691412567276,
+  "endTime": 1691414426309,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 1468348,
-      "num": 483167,
+      "num": 583241,
       "word": "一个姐姐离婚时发的朋友圈",
       "onboard_time": 1691393379,
       "rank": 34,
@@ -323,12 +323,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1435154,
+      "num": 1435154,
+      "word": "夭璟吻戏已经是nextlevel了",
+      "onboard_time": 1691407114,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1433456,
       "num": 432967,
       "word": "薛之谦团队都去了TFBOYS演唱会",
       "onboard_time": 1691364390,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1414400,
+      "num": 797895,
+      "word": "王一博泰国",
+      "onboard_time": 1691412578,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1343542,
@@ -347,14 +363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1312832,
-      "num": 1312832,
-      "word": "夭璟吻戏已经是nextlevel了",
-      "onboard_time": 1691407114,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1307674,
       "num": 819868,
       "word": "王源回应TFBOYS时隔两年没开演唱会",
@@ -369,6 +377,14 @@
       "onboard_time": 1691385819,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1285735,
+      "num": 1058272,
+      "word": "给女儿存了一笔分手费",
+      "onboard_time": 1691410893,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 1266157,
@@ -419,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1189102,
+      "num": 1189102,
+      "word": "WBG战胜TES",
+      "onboard_time": 1691412578,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1165425,
       "num": 474566,
       "word": "只有王源在吹蜡烛",
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 1116285,
-      "num": 591603,
+      "num": 992512,
       "word": "TFBOYS是在擦玻璃吗",
       "onboard_time": 1691402439,
       "rank": 21,
@@ -512,6 +536,14 @@
       "word": "电影孤注一掷提档",
       "onboard_time": 1691363365,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1016829,
+      "num": 1016829,
+      "word": "长相思梅林殉情",
+      "onboard_time": 1691412275,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -579,6 +611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 811866,
+      "num": 811866,
+      "word": "邓为从脖子红到耳朵",
+      "onboard_time": 1691412036,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 809752,
       "num": 809752,
       "word": "华为15亿成立房地产公司",
@@ -620,7 +660,7 @@
     },
     {
       "raw_hot": 781634,
-      "num": 359407,
+      "num": 560721,
       "word": "千万别戴这种眼镜",
       "onboard_time": 1691405855,
       "rank": 30,
@@ -648,6 +688,14 @@
       "word": "爱宝双胞胎宝宝满月照",
       "onboard_time": 1691380303,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729772,
+      "num": 1031915,
+      "word": "舒兰3名公职人员坐的车在水中被找到",
+      "onboard_time": 1691410416,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -691,28 +739,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 706960,
-      "num": 301463,
-      "word": "给女儿存了一笔分手费",
-      "onboard_time": 1691410893,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 704028,
       "num": 704028,
       "word": "错觉式分手",
       "onboard_time": 1691385399,
       "rank": 34,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 702651,
-      "num": 702651,
-      "word": "舒兰3名公职人员坐的车在水中被找到",
-      "onboard_time": 1691410416,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 698563,
@@ -769,6 +801,14 @@
       "onboard_time": 1691381503,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 663890,
+      "num": 426237,
+      "word": "安倍国葬出席名单74%名字涂黑",
+      "onboard_time": 1691413297,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658135,
@@ -835,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 600826,
+      "num": 600826,
+      "word": "WBG挺进资格赛下一轮",
+      "onboard_time": 1691412638,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 593958,
       "num": 593958,
       "word": "TheShy",
@@ -891,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582659,
+      "num": 582659,
+      "word": "不小心把伯邑考给吃了",
+      "onboard_time": 1691412158,
+      "rank": 44,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 582574,
       "num": 299588,
       "word": "重庆的猫啊那没事了",
@@ -908,7 +964,7 @@
     },
     {
       "raw_hot": 568325,
-      "num": 462703,
+      "num": 466705,
       "word": "TFBOYS各家站姐出图",
       "onboard_time": 1691398838,
       "rank": 39,
@@ -988,7 +1044,7 @@
     },
     {
       "raw_hot": 521225,
-      "num": 521225,
+      "num": 595870,
       "word": "警方回应男子当街猥亵喝断片女子",
       "onboard_time": 1691404359,
       "rank": 46,
@@ -1083,12 +1139,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 472191,
+      "num": 472191,
+      "word": "王俊凯新歌回望",
+      "onboard_time": 1691405497,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 469445,
       "num": 469445,
       "word": "广州emo",
       "onboard_time": 1691404656,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468740,
+      "num": 799637,
+      "word": "张雨霏女子50米自由泳夺金",
+      "onboard_time": 1691410835,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 462885,
+      "num": 462885,
+      "word": "2023日本最帅最美的初中生",
+      "onboard_time": 1691413055,
+      "rank": 27,
+      "category": "其它"
     },
     {
       "raw_hot": 462767,
@@ -1147,14 +1227,6 @@
       "category": "影视,综艺"
     },
     {
-      "raw_hot": 438161,
-      "num": 347594,
-      "word": "邓为从脖子红到耳朵",
-      "onboard_time": 1691412036,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 436092,
       "num": 820460,
       "word": "王楚然张晚意 娇藏",
@@ -1185,6 +1257,14 @@
       "onboard_time": 1691334692,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 425992,
+      "num": 425992,
+      "word": "夭柳党集体按暂停",
+      "onboard_time": 1691412158,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 421662,
@@ -1315,6 +1395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 393583,
+      "num": 393583,
+      "word": "为什么智齿不是每个人都长",
+      "onboard_time": 1691412095,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 392440,
       "num": 358497,
       "word": "长期缺爱的人有什么表现",
@@ -1369,14 +1457,6 @@
       "onboard_time": 1691395661,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 366218,
-      "num": 366218,
-      "word": "张雨霏女子50米自由泳夺金",
-      "onboard_time": 1691410835,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 364544,
@@ -1459,20 +1539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332712,
-      "num": 332712,
-      "word": "王俊凯新歌回望",
-      "onboard_time": 1691405497,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 327786,
       "num": 311213,
       "word": "去看脱发被医生夸了",
       "onboard_time": 1691410057,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 325272,
+      "num": 325272,
+      "word": "滔博",
+      "onboard_time": 1691413658,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 324584,
@@ -1537,6 +1617,14 @@
       "onboard_time": 1691356754,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308106,
+      "num": 308106,
+      "word": "JackeyLove",
+      "onboard_time": 1691414018,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 306509,
@@ -1611,11 +1699,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294016,
+      "num": 294016,
+      "word": "苏格兰一女子在自家后院喂了25年狐狸",
+      "onboard_time": 1691413418,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292984,
       "num": 267233,
       "word": "长相思",
       "onboard_time": 1691384923,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288406,
+      "num": 288406,
+      "word": "电影热烈的舞者今天拿到了世界冠军",
+      "onboard_time": 1691413297,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -1659,11 +1763,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284769,
-      "num": 284769,
-      "word": "长相思梅林殉情",
-      "onboard_time": 1691412275,
-      "rank": 34,
+      "raw_hot": 285253,
+      "num": 285253,
+      "word": "封神第一部票房破17亿",
+      "onboard_time": 1691414259,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1779,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263823,
+      "num": 263823,
+      "word": "檀健次微博开屏",
+      "onboard_time": 1691413174,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 263414,
       "num": 242422,
       "word": "地震给我们提了个醒",
@@ -1801,14 +1913,6 @@
       "onboard_time": 1691356693,
       "rank": 30,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 256139,
-      "num": 256139,
-      "word": "夭柳党集体按暂停",
-      "onboard_time": 1691412158,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 255222,
@@ -1875,6 +1979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 237751,
+      "num": 237751,
+      "word": "Doinb解说杯导师公布",
+      "onboard_time": 1691414196,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 236757,
       "num": 238089,
       "word": "APP推送能不能别假装来信",
@@ -1923,20 +2035,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 231784,
-      "num": 231784,
-      "word": "为什么智齿不是每个人都长",
-      "onboard_time": 1691412095,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 229431,
       "num": 229431,
       "word": "夜晚1岁女童被困车内消防砸窗救人",
       "onboard_time": 1691363125,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229317,
+      "num": 229317,
+      "word": "TFBOYS演唱会后劲最大的一个视频",
+      "onboard_time": 1691414196,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 221828,
@@ -1993,14 +2105,6 @@
       "onboard_time": 1691385578,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211841,
-      "num": 211841,
-      "word": "不小心把伯邑考给吃了",
-      "onboard_time": 1691412158,
-      "rank": 44,
-      "category": "幽默,影视"
     },
     {
       "raw_hot": 211239,
@@ -2184,6 +2288,14 @@
       "word": "涿州一对父子水灾中救助村民超300人",
       "onboard_time": 1691409634,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180430,
+      "num": 229168,
+      "word": "松花江发生今年1号洪水或将转移群众",
+      "onboard_time": 1691413596,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2571,12 +2683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13564,
+      "num": 309503,
+      "word": "7个数字揭秘大运会闭幕式",
+      "onboard_time": 1691414196,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11503,
       "num": 52269,
       "word": "转学的小男孩被邀请回来参加毕业典礼",
       "onboard_time": 1691356274,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 5876,
+      "num": 1067260,
+      "word": "汛情过后健康防护要点",
+      "onboard_time": 1691414378,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
