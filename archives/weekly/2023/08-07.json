@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691396479952,
+  "endTime": 1691397272469,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -83,19 +83,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3136211,
+      "num": 1019587,
+      "word": "倒下的蛋糕 虚假中的真实",
+      "onboard_time": 1691391820,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3014058,
       "num": 778008,
       "word": "蓝羽回应主持TFBOYS演唱会",
       "onboard_time": 1691377716,
       "rank": 10,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 2927316,
-      "num": 1019587,
-      "word": "倒下的蛋糕 虚假中的真实",
-      "onboard_time": 1691391820,
-      "rank": 12,
       "category": "音乐"
     },
     {
@@ -243,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1468348,
+      "num": 312188,
+      "word": "一个姐姐离婚时发的朋友圈",
+      "onboard_time": 1691393379,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1442986,
       "num": 511776,
       "word": "女子生下一女婴3天后又产一子",
       "onboard_time": 1691378198,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1436923,
+      "num": 668817,
+      "word": "TFBOYS父母坐在一起",
+      "onboard_time": 1691391396,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 1433456,
@@ -259,28 +275,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1366556,
-      "num": 292988,
-      "word": "一个姐姐离婚时发的朋友圈",
-      "onboard_time": 1691393379,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 1343542,
       "num": 850677,
       "word": "张艺兴金晨情头",
       "onboard_time": 1691364576,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1323883,
-      "num": 668817,
-      "word": "TFBOYS父母坐在一起",
-      "onboard_time": 1691391396,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 1320385,
@@ -339,8 +339,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1165425,
+      "num": 364323,
+      "word": "只有王源在吹蜡烛",
+      "onboard_time": 1691394941,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1159105,
-      "num": 945286,
+      "num": 1030305,
       "word": "杨幂再退出1家与嘉行老板合开公司",
       "onboard_time": 1691392838,
       "rank": 4,
@@ -387,12 +395,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 978016,
-      "num": 330079,
-      "word": "只有王源在吹蜡烛",
-      "onboard_time": 1691394941,
-      "rank": 17,
-      "category": "音乐"
+      "raw_hot": 1019394,
+      "num": 623576,
+      "word": "时代峰峻回应TFBOYS很少合体",
+      "onboard_time": 1691397160,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 947950,
@@ -507,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 747769,
+      "num": 747769,
+      "word": "TF三代让我们不顾一切单人海报",
+      "onboard_time": 1691393197,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 740858,
       "num": 740858,
       "word": "爱宝双胞胎宝宝满月照",
@@ -561,6 +577,14 @@
       "onboard_time": 1691332810,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 691052,
+      "num": 1076619,
+      "word": "门头沟区龙泉镇副镇长刘捷遇难",
+      "onboard_time": 1691394999,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 679875,
@@ -619,12 +643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 597246,
-      "num": 597246,
-      "word": "门头沟区龙泉镇副镇长刘捷遇难",
-      "onboard_time": 1691394999,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 594947,
+      "num": 594947,
+      "word": "优酷只有一部短剧在更",
+      "onboard_time": 1691396560,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 593040,
@@ -657,14 +681,6 @@
       "onboard_time": 1691375073,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 584036,
-      "num": 348327,
-      "word": "TF三代让我们不顾一切单人海报",
-      "onboard_time": 1691393197,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 582574,
@@ -884,7 +900,7 @@
     },
     {
       "raw_hot": 414487,
-      "num": 259610,
+      "num": 290115,
       "word": "张晚意辟谣演完古偶奖励自己拍正剧",
       "onboard_time": 1691394040,
       "rank": 26,
@@ -955,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373541,
+      "num": 275010,
+      "word": "男子花200元网购金毛拆开傻眼",
+      "onboard_time": 1691395661,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360318,
       "num": 421375,
       "word": "XYG 景诗你这么会报点",
@@ -979,12 +1003,28 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 348091,
+      "num": 253638,
+      "word": "鸟姐自觉盖上了红盖头",
+      "onboard_time": 1691396976,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 340763,
       "num": 657128,
       "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
       "onboard_time": 1691363728,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338226,
+      "num": 247742,
+      "word": "王俊凯到达泸州路透",
+      "onboard_time": 1691396137,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 324584,
@@ -1027,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312769,
-      "num": 229832,
-      "word": "王俊凯到达泸州路透",
-      "onboard_time": 1691396137,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 312724,
       "num": 235674,
       "word": "阎月明逝世",
@@ -1075,6 +1107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301434,
+      "num": 237170,
+      "word": "闵玧其将入伍",
+      "onboard_time": 1691396677,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 299909,
+      "num": 299909,
+      "word": "TES对战WBG",
+      "onboard_time": 1691396257,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298249,
       "num": 822342,
       "word": "广州80岁名医逝世当天仍在出门诊",
@@ -1108,7 +1156,7 @@
     },
     {
       "raw_hot": 288010,
-      "num": 201889,
+      "num": 234677,
       "word": "杨紫张晚意片场烧烤花絮",
       "onboard_time": 1691393257,
       "rank": 40,
@@ -1292,7 +1340,7 @@
     },
     {
       "raw_hot": 236757,
-      "num": 236757,
+      "num": 238089,
       "word": "APP推送能不能别假装来信",
       "onboard_time": 1691394579,
       "rank": 29,
@@ -1328,14 +1376,6 @@
       "word": "他们没说话但加油声震耳欲聋",
       "onboard_time": 1691378859,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229732,
-      "num": 229732,
-      "word": "男子花200元网购金毛拆开傻眼",
-      "onboard_time": 1691395661,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1419,6 +1459,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 203198,
+      "num": 235358,
+      "word": "长期缺爱的人有什么表现",
+      "onboard_time": 1691397216,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201067,
       "num": 201067,
       "word": "张杰未live巡回演唱会",
@@ -1441,6 +1489,14 @@
       "onboard_time": 1691389777,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198602,
+      "num": 233618,
+      "word": "被洪水冲走的车会变成什么样",
+      "onboard_time": 1691392960,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196521,
@@ -1499,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180457,
-      "num": 201563,
-      "word": "被洪水冲走的车会变成什么样",
-      "onboard_time": 1691392960,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177753,
       "num": 210468,
       "word": "G2夺冠",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1691313701,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175094,
-      "num": 201475,
-      "word": "TES对战WBG",
-      "onboard_time": 1691396257,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 171265,
@@ -1739,7 +1779,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63855,
+      "raw_hot": 64502,
       "num": 670132,
       "word": "他们扛沙袋冒雨逆行的背影让人泪目",
       "onboard_time": 1691383545,
@@ -1752,6 +1792,14 @@
       "word": "男孩兼职救生员满脸骄傲讲述救人经历",
       "onboard_time": 1691391699,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52055,
+      "num": 228031,
+      "word": "子弟兵帮河北涿州群众重建家园",
+      "onboard_time": 1691397216,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1801,6 +1849,9 @@
     },
     {
       "word": "#唯有创新才能抢占先机#"
+    },
+    {
+      "word": "#众志成城同舟共济#"
     }
   ]
 }
