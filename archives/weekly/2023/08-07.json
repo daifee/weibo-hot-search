@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691433252222,
+  "endTime": 1691435593295,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -3051,6 +3051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59381,
+      "num": 51319,
+      "word": "小哥每天自拍直到找到女朋友为止",
+      "onboard_time": 1691430079,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52088,
       "num": 547408,
       "word": "总有坚毅的背影替我们负重前行",
@@ -3065,14 +3073,6 @@
       "onboard_time": 1691397216,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51319,
-      "num": 51319,
-      "word": "小哥每天自拍直到找到女朋友为止",
-      "onboard_time": 1691430079,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 46957,
@@ -3097,6 +3097,22 @@
       "onboard_time": 1691388397,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 38552,
+      "num": 38552,
+      "word": "射手座容易被误解的一面",
+      "onboard_time": 1691427866,
+      "rank": 36,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 37804,
+      "num": 37804,
+      "word": "祝绪丹古风撑伞",
+      "onboard_time": 1691434817,
+      "rank": 40,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 30034,
