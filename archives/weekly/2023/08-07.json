@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691432424569,
+  "endTime": 1691433252222,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -2947,6 +2947,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 103506,
+      "num": 103506,
+      "word": "胡夏张含韵Gemini梦幻组合",
+      "onboard_time": 1691430979,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99315,
       "num": 150911,
       "word": "小企鹅们集体背着书包出来了",
@@ -2971,14 +2979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 87006,
-      "num": 87006,
-      "word": "胡夏张含韵Gemini梦幻组合",
-      "onboard_time": 1691430979,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 82516,
       "num": 91723,
       "word": "爱一个人并允许对方离开你的人生",
@@ -2995,8 +2995,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 78424,
-      "num": 77022,
+      "raw_hot": 78666,
+      "num": 78666,
       "word": "边牧才是狗界的显眼包",
       "onboard_time": 1691430142,
       "rank": 30,
@@ -3065,6 +3065,14 @@
       "onboard_time": 1691397216,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51319,
+      "num": 51319,
+      "word": "小哥每天自拍直到找到女朋友为止",
+      "onboard_time": 1691430079,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 46957,
