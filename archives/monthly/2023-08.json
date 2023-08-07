@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691389302226,
+  "endTime": 1691390083896,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1003,6 +1003,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1923984,
+      "num": 526667,
+      "word": "TFBOYS团站关站",
+      "onboard_time": 1691389659,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1921440,
       "num": 1921440,
       "word": "官方确认重庆事业单位考试有人作弊",
@@ -1275,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1618786,
+      "num": 590592,
+      "word": "碧桂园",
+      "onboard_time": 1691387860,
+      "rank": 11,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1616535,
       "num": 1616535,
       "word": "法国网红爬中国香港68楼天台后坠亡",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1691120558,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1604497,
+      "num": 590326,
+      "word": "王楚然的手机壳",
+      "onboard_time": 1691388218,
+      "rank": 14,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1604066,
@@ -1508,7 +1532,7 @@
     },
     {
       "raw_hot": 1473722,
-      "num": 674057,
+      "num": 745542,
       "word": "经常喝咖啡把命喝苦了",
       "onboard_time": 1691381863,
       "rank": 46,
@@ -1899,6 +1923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1306536,
+      "num": 529031,
+      "word": "村委回应男孩性侵抛尸11岁女童",
+      "onboard_time": 1691385819,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1305870,
       "num": 1305870,
       "word": "想当兵的体育生18岁成人礼却纹了大花臂",
@@ -2281,14 +2313,6 @@
       "onboard_time": 1691070938,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1146800,
-      "num": 529031,
-      "word": "村委回应男孩性侵抛尸11岁女童",
-      "onboard_time": 1691385819,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1145721,
@@ -2713,14 +2737,6 @@
       "onboard_time": 1690842137,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1024855,
-      "num": 590592,
-      "word": "碧桂园",
-      "onboard_time": 1691387860,
-      "rank": 11,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1024415,
@@ -3515,14 +3531,6 @@
       "category": "音乐,社会新闻"
     },
     {
-      "raw_hot": 878273,
-      "num": 590326,
-      "word": "王楚然的手机壳",
-      "onboard_time": 1691388218,
-      "rank": 14,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 875935,
       "num": 875935,
       "word": "gemini",
@@ -4049,6 +4057,14 @@
       "onboard_time": 1691058817,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 788140,
+      "num": 788140,
+      "word": "华为15亿成立房地产公司",
+      "onboard_time": 1691387676,
+      "rank": 18,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 786783,
@@ -4787,6 +4803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 704028,
+      "num": 704028,
+      "word": "错觉式分手",
+      "onboard_time": 1691385399,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 703824,
       "num": 609668,
       "word": "王一博26岁主演票房破26亿",
@@ -4881,14 +4905,6 @@
       "onboard_time": 1691247466,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 686221,
-      "num": 591080,
-      "word": "错觉式分手",
-      "onboard_time": 1691385399,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 685618,
@@ -5809,14 +5825,6 @@
       "onboard_time": 1691145516,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 590020,
-      "num": 590020,
-      "word": "华为15亿成立房地产公司",
-      "onboard_time": 1691387676,
-      "rank": 18,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 589912,
@@ -6779,6 +6787,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 521134,
+      "num": 521134,
+      "word": "小夭的三种婚后生活",
+      "onboard_time": 1691386360,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521019,
       "num": 654667,
       "word": "K1178列车英雄班组每人奖励1万元",
@@ -7105,14 +7121,6 @@
       "onboard_time": 1691056176,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 496893,
-      "num": 496893,
-      "word": "小夭的三种婚后生活",
-      "onboard_time": 1691386360,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 496826,
@@ -8387,6 +8395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 416589,
+      "num": 416589,
+      "word": "原来头发真的能晒变色",
+      "onboard_time": 1691388517,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 416288,
       "num": 416288,
       "word": "你的iPhone一天要充几次电",
@@ -9435,6 +9451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360318,
+      "num": 360318,
+      "word": "XYG 景诗你这么会报点",
+      "onboard_time": 1691389179,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 360119,
       "num": 337625,
       "word": "魏大勋被粉丝送粉丝",
@@ -9649,6 +9673,14 @@
       "onboard_time": 1691109277,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350251,
+      "num": 350251,
+      "word": "那英叫高叶大嫂",
+      "onboard_time": 1691388637,
+      "rank": 31,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 349810,
@@ -10339,6 +10371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318242,
+      "num": 319845,
+      "word": "多场医药学术会议宣布延期",
+      "onboard_time": 1691388458,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318154,
       "num": 318154,
       "word": "小夭的三个男人乐子真多",
@@ -10491,6 +10531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311938,
+      "num": 311938,
+      "word": "邓为版狂野男孩",
+      "onboard_time": 1691389659,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311745,
       "num": 311745,
       "word": "李玟灵堂成紫色花海",
@@ -10635,14 +10683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307211,
-      "num": 307211,
-      "word": "那英叫高叶大嫂",
-      "onboard_time": 1691388637,
-      "rank": 31,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 307139,
       "num": 234560,
       "word": "全员加速中",
@@ -10761,14 +10801,6 @@
       "onboard_time": 1691128172,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303409,
-      "num": 303409,
-      "word": "原来头发真的能晒变色",
-      "onboard_time": 1691388517,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 303147,
@@ -11603,14 +11635,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 271656,
-      "num": 319845,
-      "word": "多场医药学术会议宣布延期",
-      "onboard_time": 1691388458,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270925,
       "num": 270925,
       "word": "爱豆小卡应该有更多功能",
@@ -12420,7 +12444,7 @@
     },
     {
       "raw_hot": 241344,
-      "num": 226769,
+      "num": 235223,
       "word": "张艺兴巡演抢票",
       "onboard_time": 1691387977,
       "rank": 40,
@@ -14139,6 +14163,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 199161,
+      "num": 206238,
+      "word": "没有一口成都饭是白吃的",
+      "onboard_time": 1691386718,
+      "rank": 49,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 199085,
       "num": 199085,
       "word": "周雨彤镜头下的七斋",
@@ -14153,6 +14185,14 @@
       "onboard_time": 1691165901,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198933,
+      "num": 198933,
+      "word": "表达观点时的i人和e人",
+      "onboard_time": 1691389777,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 198612,
@@ -14915,14 +14955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184093,
-      "num": 206352,
-      "word": "XYG 景诗你这么会报点",
-      "onboard_time": 1691389179,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183837,
       "num": 183837,
       "word": "东方风云榜",
@@ -15249,6 +15281,14 @@
       "onboard_time": 1690806272,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170237,
+      "num": 198842,
+      "word": "张晚意说杨紫性格招人喜欢",
+      "onboard_time": 1691390020,
+      "rank": 49,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 170042,
@@ -15585,14 +15625,6 @@
       "onboard_time": 1691151873,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155869,
-      "num": 206238,
-      "word": "没有一口成都饭是白吃的",
-      "onboard_time": 1691386718,
-      "rank": 49,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 154805,
@@ -16684,7 +16716,7 @@
     },
     {
       "raw_hot": 62211,
-      "num": 500299,
+      "num": 527846,
       "word": "他们扛沙袋冒雨逆行的背影让人泪目",
       "onboard_time": 1691383545,
       "rank": 19,
@@ -16803,6 +16835,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 43670,
+      "num": 288230,
+      "word": "把OOTD做成多巴胺壁纸",
+      "onboard_time": 1691388397,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 42292,
       "num": 75239,
       "word": "HAPPYMARKDAY",
@@ -16833,14 +16873,6 @@
       "onboard_time": 1691132435,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34707,
-      "num": 288230,
-      "word": "把OOTD做成多巴胺壁纸",
-      "onboard_time": 1691388397,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 33654,

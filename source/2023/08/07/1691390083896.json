@@ -1,0 +1,410 @@
+{
+  "runTime": 1691390083896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1534203,
+        "num": 1534203,
+        "word": "台风卡努大转弯或将登陆我国",
+        "onboard_time": 1691384323,
+        "rank": 0,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 788140,
+        "num": 788140,
+        "word": "华为15亿成立房地产公司",
+        "onboard_time": 1691387676,
+        "rank": 1,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 75543,
+        "num": 748092,
+        "word": "防汛最新信息汇总",
+        "onboard_time": 1691378138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1217231,
+        "num": 747227,
+        "word": "月薪2万住不起如家汉庭",
+        "onboard_time": 1691375974,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 745542,
+        "num": 745542,
+        "word": "经常喝咖啡把命喝苦了",
+        "onboard_time": 1691381863,
+        "rank": 4,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 704028,
+        "num": 704028,
+        "word": "错觉式分手",
+        "onboard_time": 1691385399,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 585668,
+        "num": 585668,
+        "word": "王传君王大陆30秒演完孤注一掷",
+        "onboard_time": 1691384026,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 721132,
+        "num": 568875,
+        "word": "苍兰诀角色号醒了",
+        "onboard_time": 1691381204,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528695,
+        "num": 528695,
+        "word": "2013快男团综定档",
+        "onboard_time": 1691385221,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47754,
+        "num": 527846,
+        "word": "他们扛沙袋冒雨逆行的背影让人泪目",
+        "onboard_time": 1691383545,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1923984,
+        "num": 526667,
+        "word": "TFBOYS团站关站",
+        "onboard_time": 1691389659,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1618786,
+        "num": 526096,
+        "word": "碧桂园",
+        "onboard_time": 1691387860,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1604497,
+        "num": 523995,
+        "word": "王楚然的手机壳",
+        "onboard_time": 1691388218,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1248288,
+        "num": 523559,
+        "word": "王源放下话筒之后还在唱",
+        "onboard_time": 1691380059,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 808461,
+        "num": 521957,
+        "word": "奚安娜",
+        "onboard_time": 1691378919,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521134,
+        "num": 521134,
+        "word": "小夭的三种婚后生活",
+        "onboard_time": 1691386360,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 987147,
+        "num": 518133,
+        "word": "王俊凯西安出发路透",
+        "onboard_time": 1691386420,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511968,
+        "num": 511968,
+        "word": "领导们好像不爱吃火锅",
+        "onboard_time": 1691377537,
+        "rank": 17,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 456361,
+        "num": 456361,
+        "word": "按摩椅能不能离开电影院",
+        "onboard_time": 1691378018,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605122,
+        "num": 451026,
+        "word": "黄锐进没进场",
+        "onboard_time": 1691384982,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 701560,
+        "num": 450121,
+        "word": "女子生下一女婴3天后又产一子",
+        "onboard_time": 1691378198,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984956,
+        "num": 443948,
+        "word": "易烊千玺幕后实录",
+        "onboard_time": 1691387499,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 416589,
+        "num": 416589,
+        "word": "原来头发真的能晒变色",
+        "onboard_time": 1691388517,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360318,
+        "num": 360318,
+        "word": "XYG 景诗你这么会报点",
+        "onboard_time": 1691389179,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 409926,
+        "num": 358940,
+        "word": "TFBOYS暂未确定巡演城市",
+        "onboard_time": 1691375498,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191273,
+        "num": 351987,
+        "word": "舒兰公职人员失联牺牲前奔赴一线画面",
+        "onboard_time": 1691378378,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350251,
+        "num": 350251,
+        "word": "那英叫高叶大嫂",
+        "onboard_time": 1691388637,
+        "rank": 26,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 2262276,
+        "num": 343257,
+        "word": "工作人员回应TFBOYS演唱会馆外有垃圾",
+        "onboard_time": 1691382464,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321630,
+        "num": 321630,
+        "word": "王传君特别感谢艳芬女士",
+        "onboard_time": 1691385042,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318242,
+        "num": 318242,
+        "word": "多场医药学术会议宣布延期",
+        "onboard_time": 1691388458,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404652,
+        "num": 318183,
+        "word": "蓝羽回应主持TFBOYS演唱会",
+        "onboard_time": 1691377716,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1306536,
+        "num": 318137,
+        "word": "村委回应男孩性侵抛尸11岁女童",
+        "onboard_time": 1691385819,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314783,
+        "num": 314783,
+        "word": "朴叙俊拒绝戴发箍",
+        "onboard_time": 1691384802,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311938,
+        "num": 311938,
+        "word": "邓为版狂野男孩",
+        "onboard_time": 1691389659,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43670,
+        "num": 270559,
+        "word": "把OOTD做成多巴胺壁纸",
+        "onboard_time": 1691388397,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 267972,
+        "num": 267972,
+        "word": "封神",
+        "onboard_time": 1691387018,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263650,
+        "num": 263650,
+        "word": "空调工裸辞写文6年获粉千万",
+        "onboard_time": 1691382343,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247582,
+        "num": 247582,
+        "word": "王楚然海棠笑春风出妆饭拍",
+        "onboard_time": 1691380962,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238905,
+        "num": 238905,
+        "word": "长相思卡点夭夭零六",
+        "onboard_time": 1691384264,
+        "rank": 38,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 235223,
+        "num": 235223,
+        "word": "张艺兴巡演抢票",
+        "onboard_time": 1691387977,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226376,
+        "num": 226376,
+        "word": "孤注一掷点映中途暂停被观众怒斥",
+        "onboard_time": 1691376757,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206530,
+        "num": 206530,
+        "word": "便利店偷听八卦发现正主是自己",
+        "onboard_time": 1691383848,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202803,
+        "num": 202803,
+        "word": "李莲花一招制敌角丽谯",
+        "onboard_time": 1691389238,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202590,
+        "num": 202590,
+        "word": "被保护得太好的人有什么特征",
+        "onboard_time": 1691377300,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201623,
+        "num": 201623,
+        "word": "长相思",
+        "onboard_time": 1691384923,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193182,
+        "num": 199740,
+        "word": "爱宝双胞胎宝宝满月照",
+        "onboard_time": 1691380303,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199161,
+        "num": 199161,
+        "word": "没有一口成都饭是白吃的",
+        "onboard_time": 1691386718,
+        "rank": 46,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 198933,
+        "num": 198933,
+        "word": "表达观点时的i人和e人",
+        "onboard_time": 1691389777,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354308,
+        "num": 198900,
+        "word": "王俊凯十周年演唱会单人机位",
+        "onboard_time": 1691384026,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170237,
+        "num": 198842,
+        "word": "张晚意说杨紫性格招人喜欢",
+        "onboard_time": 1691390020,
+        "rank": 49,
+        "category": "影视,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#唯有创新才能抢占先机#"
+    }
+  }
+}
