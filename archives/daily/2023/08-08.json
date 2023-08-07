@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691439437818,
+  "endTime": 1691440443736,
   "band_list": [
     {
       "raw_hot": 1602658,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96013,
+      "num": 30095,
+      "word": "嘎子哥该如何自证没有诈捐物资",
+      "onboard_time": 1691437934,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82516,
       "num": 91723,
       "word": "爱一个人并允许对方离开你的人生",
@@ -481,14 +489,6 @@
       "onboard_time": 1691430142,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 69134,
-      "num": 30095,
-      "word": "嘎子哥该如何自证没有诈捐物资",
-      "onboard_time": 1691437934,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 59381,
@@ -531,6 +531,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 40264,
+      "num": 29930,
+      "word": "现在的小说是相当炸裂啊",
+      "onboard_time": 1691434275,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 37804,
       "num": 37804,
       "word": "祝绪丹古风撑伞",
@@ -545,14 +553,6 @@
       "onboard_time": 1691331008,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32851,
-      "num": 29930,
-      "word": "现在的小说是相当炸裂啊",
-      "onboard_time": 1691434275,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 28490,
