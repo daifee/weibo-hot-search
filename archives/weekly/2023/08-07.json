@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691444018935,
+  "endTime": 1691446524313,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -2483,6 +2483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209178,
+      "num": 98026,
+      "word": "嘎子哥该如何自证没有诈捐物资",
+      "onboard_time": 1691437934,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208070,
       "num": 208070,
       "word": "李莲花一招制敌角丽谯",
@@ -2867,14 +2875,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 131273,
-      "num": 52850,
-      "word": "嘎子哥该如何自证没有诈捐物资",
-      "onboard_time": 1691437934,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130804,
       "num": 743677,
       "word": "56岁救援队长连续施救4昼夜脚磨出3厘米血泡",
@@ -2897,6 +2897,14 @@
       "onboard_time": 1691329401,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121201,
+      "num": 44495,
+      "word": "女主播年入50万花近三万相亲",
+      "onboard_time": 1691445375,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121186,
@@ -3068,7 +3076,7 @@
     },
     {
       "raw_hot": 55502,
-      "num": 30133,
+      "num": 44422,
       "word": "男子喝笋汤发现碗内暗藏玄机",
       "onboard_time": 1691436135,
       "rank": 48,
@@ -3089,6 +3097,14 @@
       "onboard_time": 1691397216,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48794,
+      "num": 48794,
+      "word": "现在的小说是相当炸裂啊",
+      "onboard_time": 1691434275,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 46957,
@@ -3123,20 +3139,28 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 40264,
-      "num": 29930,
-      "word": "现在的小说是相当炸裂啊",
-      "onboard_time": 1691434275,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 37804,
-      "num": 37804,
+      "num": 38602,
       "word": "祝绪丹古风撑伞",
       "onboard_time": 1691434817,
       "rank": 40,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 32997,
+      "num": 38706,
+      "word": "易烊千玺读信",
+      "onboard_time": 1691326150,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 31641,
+      "num": 38673,
+      "word": "他给的实在是太多了",
+      "onboard_time": 1691443994,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 30034,
@@ -3145,14 +3169,6 @@
       "onboard_time": 1691347517,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 28490,
-      "num": 30264,
-      "word": "易烊千玺读信",
-      "onboard_time": 1691326150,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 27359,
@@ -3179,14 +3195,6 @@
       "category": "幽默,旅游"
     },
     {
-      "raw_hot": 16778,
-      "num": 21249,
-      "word": "他给的实在是太多了",
-      "onboard_time": 1691443994,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 16462,
       "num": 207962,
       "word": "饿了么宣布为视障用户造节",
@@ -3195,7 +3203,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13564,
+      "raw_hot": 15029,
       "num": 617524,
       "word": "7个数字揭秘大运会闭幕式",
       "onboard_time": 1691414196,
