@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691428483199,
+  "endTime": 1691429660659,
   "band_list": [
     {
       "raw_hot": 1602658,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 389859,
-      "num": 251630,
+      "num": 364519,
       "word": "李到晛公司下禁令不让他跳tecktonik",
       "onboard_time": 1691426789,
       "rank": 10,
@@ -315,6 +315,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226545,
+      "num": 190276,
+      "word": "人类有一种本能叫做预感离别",
+      "onboard_time": 1691425590,
+      "rank": 26,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 221025,
+      "num": 221025,
+      "word": "肖战玉骨遥开机vs杀青",
+      "onboard_time": 1691427565,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212947,
       "num": 237136,
       "word": "新疆商户凌晨4点赶制2100份馕驰援涞水",
@@ -352,22 +368,6 @@
       "word": "为李莲花流泪",
       "onboard_time": 1691424334,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 190276,
-      "num": 190276,
-      "word": "人类有一种本能叫做预感离别",
-      "onboard_time": 1691425590,
-      "rank": 26,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 186478,
-      "num": 186478,
-      "word": "肖战玉骨遥开机vs杀青",
-      "onboard_time": 1691427565,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -419,20 +419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145346,
+      "num": 151660,
+      "word": "喜欢你舞台",
+      "onboard_time": 1691428165,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 141791,
       "num": 235523,
       "word": "WBG战胜TES",
       "onboard_time": 1691412578,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137380,
-      "num": 137380,
-      "word": "喜欢你舞台",
-      "onboard_time": 1691428165,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 134400,
@@ -451,10 +451,34 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82197,
+      "num": 82197,
+      "word": "莲花楼信息量",
+      "onboard_time": 1691429481,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 80116,
+      "num": 80116,
+      "word": "王俊凯新歌回望",
+      "onboard_time": 1691405497,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 44607,
       "num": 780927,
       "word": "汛情过后健康防护要点",
       "onboard_time": 1691414378,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12855,
+      "num": 617524,
+      "word": "7个数字揭秘大运会闭幕式",
+      "onboard_time": 1691414196,
       "rank": 2,
       "category": "社会新闻"
     }

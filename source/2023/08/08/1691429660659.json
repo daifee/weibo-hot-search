@@ -1,0 +1,410 @@
+{
+  "runTime": 1691429660659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1046647,
+        "num": 1046647,
+        "word": "zzr",
+        "onboard_time": 1691420919,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 716613,
+        "num": 716613,
+        "word": "福原爱被法院强制执行",
+        "onboard_time": 1691422363,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12855,
+        "num": 617524,
+        "word": "7个数字揭秘大运会闭幕式",
+        "onboard_time": 1691414196,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557380,
+        "num": 557380,
+        "word": "卡莎",
+        "onboard_time": 1691424158,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62197,
+        "num": 440486,
+        "word": "陆军某旅千人百车驰援舒兰",
+        "onboard_time": 1691420980,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742502,
+        "num": 417490,
+        "word": "易烊千玺一朝回到解放前",
+        "onboard_time": 1691420679,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364519,
+        "num": 364519,
+        "word": "李到晛公司下禁令不让他跳tecktonik",
+        "onboard_time": 1691426789,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335685,
+        "num": 335685,
+        "word": "Prada把檀健次拍成维修工了",
+        "onboard_time": 1691420501,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266129,
+        "num": 266129,
+        "word": "为什么现在T恤领口越来越小了",
+        "onboard_time": 1691416659,
+        "rank": 8,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 242670,
+        "num": 242670,
+        "word": "邓为从脖子红到耳朵",
+        "onboard_time": 1691412036,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232362,
+        "num": 232362,
+        "word": "比跷二郎腿更坏的坐姿",
+        "onboard_time": 1691400519,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222270,
+        "num": 222270,
+        "word": "王楚然新剧原著女主一直翻白眼",
+        "onboard_time": 1691405975,
+        "rank": 11,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 221025,
+        "num": 221025,
+        "word": "肖战玉骨遥开机vs杀青",
+        "onboard_time": 1691427565,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219810,
+        "num": 219810,
+        "word": "易烊千玺大花轿直拍 被删",
+        "onboard_time": 1691400339,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202683,
+        "num": 202683,
+        "word": "安倍国葬出席名单74%名字涂黑",
+        "onboard_time": 1691413297,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200147,
+        "num": 200147,
+        "word": "虞书欣小兰花库存照腮红",
+        "onboard_time": 1691420860,
+        "rank": 15,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 177145,
+        "num": 177145,
+        "word": "长相思梅林殉情",
+        "onboard_time": 1691412275,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161507,
+        "num": 161507,
+        "word": "王俊凯又来秀操作了",
+        "onboard_time": 1691421278,
+        "rank": 17,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 151966,
+        "num": 151966,
+        "word": "涂山璟头发丝都不能输给相柳",
+        "onboard_time": 1691419428,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141838,
+        "num": 151952,
+        "word": "韩国不让小孩进的咖啡店",
+        "onboard_time": 1691416420,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445693,
+        "num": 151843,
+        "word": "TFBOYS演唱会优酷最少进账6550万",
+        "onboard_time": 1691418221,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249198,
+        "num": 151800,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1691393379,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 226545,
+        "num": 151686,
+        "word": "人类有一种本能叫做预感离别",
+        "onboard_time": 1691425590,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 145346,
+        "num": 151660,
+        "word": "喜欢你舞台",
+        "onboard_time": 1691428165,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175266,
+        "num": 151592,
+        "word": "原来气血不足要忌口",
+        "onboard_time": 1691418882,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162630,
+        "num": 151483,
+        "word": "千万别戴这种眼镜",
+        "onboard_time": 1691405855,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 151469,
+        "num": 151469,
+        "word": "TES发文告别S13",
+        "onboard_time": 1691417918,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142479,
+        "num": 142479,
+        "word": "玱玹只听到了三个字",
+        "onboard_time": 1691416901,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112720,
+        "num": 133346,
+        "word": "八名游客被困青海无人区断水断食",
+        "onboard_time": 1691417320,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110739,
+        "num": 133172,
+        "word": "凌晨地震老师们跑着叫学生快到重影",
+        "onboard_time": 1691424873,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133057,
+        "num": 133057,
+        "word": "孤注一掷成中国影史点映票房冠军",
+        "onboard_time": 1691403340,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130556,
+        "num": 130556,
+        "word": "周杰伦也没想到这是菊花台",
+        "onboard_time": 1691414618,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 128784,
+        "num": 128784,
+        "word": "孤注一掷 字幕组",
+        "onboard_time": 1691420321,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128112,
+        "num": 128112,
+        "word": "Doinb",
+        "onboard_time": 1691419724,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118367,
+        "num": 118367,
+        "word": "王一博泰国",
+        "onboard_time": 1691412578,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118255,
+        "num": 118255,
+        "word": "莲花楼",
+        "onboard_time": 1691407538,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115735,
+        "num": 115735,
+        "word": "罗云熙还是好瘦",
+        "onboard_time": 1691422363,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105987,
+        "num": 105987,
+        "word": "新疆商户凌晨4点赶制2100份馕驰援涞水",
+        "onboard_time": 1691418643,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101784,
+        "num": 101784,
+        "word": "时代峰峻回应TFBOYS很少合体",
+        "onboard_time": 1691397160,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100004,
+        "num": 100004,
+        "word": "因为没见过大海他报了大连理工",
+        "onboard_time": 1691419784,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100141,
+        "num": 99577,
+        "word": "TFBOYS不完美小孩的十年进化论",
+        "onboard_time": 1691428165,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94456,
+        "num": 94456,
+        "word": "为李莲花流泪",
+        "onboard_time": 1691424334,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101333,
+        "num": 93785,
+        "word": "TFBOYS演唱会后劲最大的一个视频",
+        "onboard_time": 1691414196,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91655,
+        "num": 91655,
+        "word": "WBG战胜TES",
+        "onboard_time": 1691412578,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84901,
+        "num": 84901,
+        "word": "孙阳好帅",
+        "onboard_time": 1691422898,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83508,
+        "num": 83508,
+        "word": "我的睡前的烦恼vs别人的睡前烦恼",
+        "onboard_time": 1691422599,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 82197,
+        "num": 82197,
+        "word": "莲花楼信息量",
+        "onboard_time": 1691429481,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82104,
+        "num": 82104,
+        "word": "封神第一部票房破17亿",
+        "onboard_time": 1691414259,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80933,
+        "num": 80933,
+        "word": "消费降级不丢人",
+        "onboard_time": 1691415160,
+        "rank": 48,
+        "category": "财经,幽默"
+      },
+      {
+        "raw_hot": 80116,
+        "num": 80116,
+        "word": "王俊凯新歌回望",
+        "onboard_time": 1691405497,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#众志成城同舟共济#"
+    }
+  }
+}
