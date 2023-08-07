@@ -1,0 +1,410 @@
+{
+  "runTime": 1691417759259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1824705,
+        "num": 1824705,
+        "word": "安倍国葬出席名单74%名字涂黑",
+        "onboard_time": 1691413297,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402540,
+        "num": 1402540,
+        "word": "长相思梅林殉情",
+        "onboard_time": 1691412275,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61011,
+        "num": 1267860,
+        "word": "汛情过后健康防护要点",
+        "onboard_time": 1691414378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145831,
+        "num": 1145831,
+        "word": "给女儿存了一笔分手费",
+        "onboard_time": 1691410893,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 466597,
+        "num": 982021,
+        "word": "舒兰3名公职人员坐的车在水中被找到",
+        "onboard_time": 1691410416,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1543008,
+        "num": 979084,
+        "word": "TFBOYS是在擦玻璃吗",
+        "onboard_time": 1691402439,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 961606,
+        "num": 961606,
+        "word": "王俊凯英雄联盟",
+        "onboard_time": 1691415100,
+        "rank": 6,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 828328,
+        "num": 828328,
+        "word": "夭璟吻戏已经是nextlevel了",
+        "onboard_time": 1691407114,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 816053,
+        "num": 816053,
+        "word": "封神第一部票房破17亿",
+        "onboard_time": 1691414259,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 808888,
+        "num": 808888,
+        "word": "周杰伦也没想到这是菊花台",
+        "onboard_time": 1691414618,
+        "rank": 9,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1119769,
+        "num": 808355,
+        "word": "王楚然新剧原著女主一直翻白眼",
+        "onboard_time": 1691405975,
+        "rank": 10,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 925949,
+        "num": 802781,
+        "word": "易烊千玺大花轿直拍 被删",
+        "onboard_time": 1691400339,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 796296,
+        "num": 796296,
+        "word": "王一博泰国",
+        "onboard_time": 1691412578,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 751761,
+        "num": 751761,
+        "word": "邓为从脖子红到耳朵",
+        "onboard_time": 1691412036,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98968,
+        "num": 748690,
+        "word": "兰蔻直播",
+        "onboard_time": 1691416839,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 746894,
+        "num": 746894,
+        "word": "孤注一掷成中国影史点映票房冠军",
+        "onboard_time": 1691403340,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 656372,
+        "num": 656372,
+        "word": "JackeyLove",
+        "onboard_time": 1691414018,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 650522,
+        "num": 650522,
+        "word": "玱玹只听到了三个字",
+        "onboard_time": 1691416901,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587264,
+        "num": 587264,
+        "word": "为什么现在T恤领口越来越小了",
+        "onboard_time": 1691416659,
+        "rank": 18,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 428750,
+        "num": 559352,
+        "word": "苏格兰一女子在自家后院喂了25年狐狸",
+        "onboard_time": 1691413418,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712504,
+        "num": 554163,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1691393379,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 588605,
+        "num": 550928,
+        "word": "时代峰峻回应TFBOYS很少合体",
+        "onboard_time": 1691397160,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546458,
+        "num": 546458,
+        "word": "赵今麦新造型",
+        "onboard_time": 1691417260,
+        "rank": 22,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 525002,
+        "num": 525002,
+        "word": "罗云熙陈都灵英雄联盟工作室出图",
+        "onboard_time": 1691416119,
+        "rank": 23,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 494767,
+        "num": 520942,
+        "word": "千万别戴这种眼镜",
+        "onboard_time": 1691405855,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 520855,
+        "num": 520855,
+        "word": "张艺兴演技",
+        "onboard_time": 1691416659,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514370,
+        "num": 514370,
+        "word": "TFBOYS演唱会后劲最大的一个视频",
+        "onboard_time": 1691414196,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 478483,
+        "num": 478483,
+        "word": "比跷二郎腿更坏的坐姿",
+        "onboard_time": 1691400519,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398950,
+        "num": 459623,
+        "word": "韩国不让小孩进的咖啡店",
+        "onboard_time": 1691416420,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308248,
+        "num": 448503,
+        "word": "松花江发生今年1号洪水或将转移群众",
+        "onboard_time": 1691413596,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445556,
+        "num": 445556,
+        "word": "涂山璟的笑容转移到玱玹的脸上了",
+        "onboard_time": 1691414858,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434080,
+        "num": 434080,
+        "word": "沈腾一看就是没少上网",
+        "onboard_time": 1691415160,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412891,
+        "num": 412891,
+        "word": "2023日本最帅最美的初中生",
+        "onboard_time": 1691413055,
+        "rank": 32,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 402366,
+        "num": 402366,
+        "word": "WBG战胜TES",
+        "onboard_time": 1691412578,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271831,
+        "num": 397850,
+        "word": "消费降级不丢人",
+        "onboard_time": 1691415160,
+        "rank": 34,
+        "category": "财经,幽默"
+      },
+      {
+        "raw_hot": 266495,
+        "num": 397670,
+        "word": "警方回应男子当街猥亵喝断片女子",
+        "onboard_time": 1691404359,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397659,
+        "num": 397659,
+        "word": "莲花楼阎王娶亲案",
+        "onboard_time": 1691407234,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373026,
+        "num": 373026,
+        "word": "王俊凯新歌回望",
+        "onboard_time": 1691405497,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364575,
+        "num": 364575,
+        "word": "莲花楼热度",
+        "onboard_time": 1691416059,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349925,
+        "num": 349925,
+        "word": "为什么智齿不是每个人都长",
+        "onboard_time": 1691412095,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336124,
+        "num": 336124,
+        "word": "半熟男女",
+        "onboard_time": 1691417380,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328306,
+        "num": 328306,
+        "word": "看蒋欣飙戏不敢呼吸",
+        "onboard_time": 1691417079,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318866,
+        "num": 318866,
+        "word": "Doinb解说杯导师公布",
+        "onboard_time": 1691414196,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298658,
+        "num": 298658,
+        "word": "田曦薇即将进组大奉打更人",
+        "onboard_time": 1691417680,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283718,
+        "num": 283718,
+        "word": "莲花楼",
+        "onboard_time": 1691407538,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283086,
+        "num": 283086,
+        "word": "檀健次微博开屏",
+        "onboard_time": 1691413174,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273818,
+        "num": 273818,
+        "word": "EDG",
+        "onboard_time": 1691414979,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217850,
+        "num": 273732,
+        "word": "意想不到的东西出现在博物馆了",
+        "onboard_time": 1691415399,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201947,
+        "num": 257775,
+        "word": "张雨霏女子50米自由泳夺金",
+        "onboard_time": 1691410835,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157952,
+        "num": 246250,
+        "word": "八名游客被困青海无人区断水断食",
+        "onboard_time": 1691417320,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#唯有创新才能抢占先机#"
+    }
+  }
+}

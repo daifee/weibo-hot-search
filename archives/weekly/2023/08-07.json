@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691415214466,
+  "endTime": 1691417759259,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2780162,
-      "num": 699253,
+      "num": 802781,
       "word": "易烊千玺大花轿直拍 被删",
       "onboard_time": 1691400339,
       "rank": 22,
@@ -185,6 +185,14 @@
       "onboard_time": 1691405975,
       "rank": 3,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 1824705,
+      "num": 1824705,
+      "word": "安倍国葬出席名单74%名字涂黑",
+      "onboard_time": 1691413297,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1815938,
@@ -275,6 +283,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 1543008,
+      "num": 992512,
+      "word": "TFBOYS是在擦玻璃吗",
+      "onboard_time": 1691402439,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1476893,
       "num": 1476893,
       "word": "莲花楼热度反超长相思",
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 1430750,
-      "num": 1058272,
+      "num": 1145831,
       "word": "给女儿存了一笔分手费",
       "onboard_time": 1691410893,
       "rank": 34,
@@ -353,6 +369,14 @@
       "onboard_time": 1691412578,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1402540,
+      "num": 1402540,
+      "word": "长相思梅林殉情",
+      "onboard_time": 1691412275,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 1343542,
@@ -443,14 +467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1174890,
-      "num": 1016829,
-      "word": "长相思梅林殉情",
-      "onboard_time": 1691412275,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1165425,
       "num": 474566,
       "word": "只有王源在吹蜡烛",
@@ -465,14 +481,6 @@
       "onboard_time": 1691392838,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1155370,
-      "num": 992512,
-      "word": "TFBOYS是在擦玻璃吗",
-      "onboard_time": 1691402439,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 1147519,
@@ -547,12 +555,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1032300,
-      "num": 593570,
-      "word": "安倍国葬出席名单74%名字涂黑",
-      "onboard_time": 1691413297,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 961606,
+      "num": 961606,
+      "word": "王俊凯英雄联盟",
+      "onboard_time": 1691415100,
+      "rank": 47,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 947950,
@@ -627,12 +635,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 816053,
+      "num": 816053,
+      "word": "封神第一部票房破17亿",
+      "onboard_time": 1691414259,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 809752,
       "num": 809752,
       "word": "华为15亿成立房地产公司",
       "onboard_time": 1691387676,
       "rank": 18,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 808888,
+      "num": 808888,
+      "word": "周杰伦也没想到这是菊花台",
+      "onboard_time": 1691414618,
+      "rank": 25,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 808851,
@@ -819,11 +843,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 656372,
+      "num": 656372,
+      "word": "JackeyLove",
+      "onboard_time": 1691414018,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 653266,
       "num": 505524,
       "word": "王楚然海棠笑春风出妆饭拍",
       "onboard_time": 1691380962,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 650522,
+      "num": 650522,
+      "word": "玱玹只听到了三个字",
+      "onboard_time": 1691416901,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -923,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 587264,
+      "num": 587264,
+      "word": "为什么现在T恤领口越来越小了",
+      "onboard_time": 1691416659,
+      "rank": 18,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 586941,
       "num": 586941,
       "word": "WBG",
@@ -939,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 585927,
-      "num": 538396,
-      "word": "封神第一部票房破17亿",
-      "onboard_time": 1691414259,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 582659,
       "num": 582659,
       "word": "不小心把伯邑考给吃了",
@@ -961,14 +1001,6 @@
       "onboard_time": 1691368540,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 579764,
-      "num": 579764,
-      "word": "JackeyLove",
-      "onboard_time": 1691414018,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 570075,
@@ -1019,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546458,
+      "num": 546458,
+      "word": "赵今麦新造型",
+      "onboard_time": 1691417260,
+      "rank": 22,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 545433,
       "num": 545433,
       "word": "内蒙古一货车冲进集市已致3死",
@@ -1051,6 +1091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 525002,
+      "num": 525002,
+      "word": "罗云熙陈都灵英雄联盟工作室出图",
+      "onboard_time": 1691416119,
+      "rank": 23,
+      "category": "作品衍生,游戏"
+    },
+    {
       "raw_hot": 521870,
       "num": 518739,
       "word": "刘耀文唯一一次赢是因为土豆",
@@ -1075,12 +1123,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 520855,
+      "num": 520855,
+      "word": "张艺兴演技",
+      "onboard_time": 1691416659,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 517806,
       "num": 517806,
       "word": "于适成为姬发",
       "onboard_time": 1691368179,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 514370,
+      "num": 514370,
+      "word": "TFBOYS演唱会后劲最大的一个视频",
+      "onboard_time": 1691414196,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 505020,
@@ -1195,14 +1259,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 462065,
-      "num": 462065,
-      "word": "周杰伦也没想到这是菊花台",
-      "onboard_time": 1691414618,
-      "rank": 25,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 460282,
       "num": 319600,
       "word": "TFBOYS十周年蛋糕原本的样子",
@@ -1233,6 +1289,14 @@
       "onboard_time": 1691363125,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 445556,
+      "num": 445556,
+      "word": "涂山璟的笑容转移到玱玹的脸上了",
+      "onboard_time": 1691414858,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 443380,
@@ -1267,11 +1331,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434080,
+      "num": 434080,
+      "word": "沈腾一看就是没少上网",
+      "onboard_time": 1691415160,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429390,
       "num": 1195065,
       "word": "五常宝宝凌晨转移一声没哭",
       "onboard_time": 1691401840,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428750,
+      "num": 559352,
+      "word": "苏格兰一女子在自家后院喂了25年狐狸",
+      "onboard_time": 1691413418,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1316,7 +1396,7 @@
     },
     {
       "raw_hot": 417409,
-      "num": 358054,
+      "num": 397659,
       "word": "莲花楼阎王娶亲案",
       "onboard_time": 1691407234,
       "rank": 26,
@@ -1371,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 403571,
-      "num": 396296,
-      "word": "苏格兰一女子在自家后院喂了25年狐狸",
-      "onboard_time": 1691413418,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401080,
       "num": 822928,
       "word": "要离职的人状态真的很不一样",
@@ -1392,6 +1464,14 @@
       "word": "地震来临前被狗狗拖走了",
       "onboard_time": 1691366799,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398950,
+      "num": 459623,
+      "word": "韩国不让小孩进的咖啡店",
+      "onboard_time": 1691416420,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1459,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387103,
-      "num": 334992,
-      "word": "TFBOYS演唱会后劲最大的一个视频",
-      "onboard_time": 1691414196,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 384798,
       "num": 279556,
       "word": "小夭认出了相柳",
@@ -1497,6 +1569,14 @@
       "onboard_time": 1691395661,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364575,
+      "num": 364575,
+      "word": "莲花楼热度",
+      "onboard_time": 1691416059,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 364544,
@@ -1579,6 +1659,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336124,
+      "num": 336124,
+      "word": "半熟男女",
+      "onboard_time": 1691417380,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 328306,
+      "num": 328306,
+      "word": "看蒋欣飙戏不敢呼吸",
+      "onboard_time": 1691417079,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327786,
       "num": 311213,
       "word": "去看脱发被医生夸了",
@@ -1627,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 318866,
+      "num": 318866,
+      "word": "Doinb解说杯导师公布",
+      "onboard_time": 1691414196,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 318242,
       "num": 319845,
       "word": "多场医药学术会议宣布延期",
@@ -1659,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312559,
-      "num": 312559,
-      "word": "涂山璟的笑容转移到玱玹的脸上了",
-      "onboard_time": 1691414858,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 312543,
       "num": 312543,
       "word": "钱塘江众多游客近距离观潮被卷入",
@@ -1675,20 +1771,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309177,
-      "num": 309177,
-      "word": "Doinb解说杯导师公布",
-      "onboard_time": 1691414196,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 308658,
       "num": 308658,
       "word": "电影热烈的舞者今天拿到了世界冠军",
       "onboard_time": 1691413297,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308248,
+      "num": 448503,
+      "word": "松花江发生今年1号洪水或将转移群众",
+      "onboard_time": 1691413596,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306509,
@@ -1729,6 +1825,14 @@
       "onboard_time": 1691396677,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298658,
+      "num": 298658,
+      "word": "田曦薇即将进组大奉打更人",
+      "onboard_time": 1691417680,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 298249,
@@ -1867,12 +1971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273818,
+      "num": 817161,
+      "word": "EDG",
+      "onboard_time": 1691324220,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 272654,
       "num": 252723,
       "word": "李莲花方多病故事线设定",
       "onboard_time": 1691414499,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271831,
+      "num": 397850,
+      "word": "消费降级不丢人",
+      "onboard_time": 1691415160,
+      "rank": 49,
+      "category": "财经,幽默"
     },
     {
       "raw_hot": 271236,
@@ -1953,14 +2073,6 @@
       "onboard_time": 1691378618,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 260194,
-      "num": 817161,
-      "word": "EDG",
-      "onboard_time": 1691324220,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 256900,
@@ -2083,28 +2195,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 231631,
-      "num": 231631,
-      "word": "王俊凯英雄联盟",
-      "onboard_time": 1691415100,
-      "rank": 47,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 229431,
       "num": 229431,
       "word": "夜晚1岁女童被困车内消防砸窗救人",
       "onboard_time": 1691363125,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229026,
-      "num": 229026,
-      "word": "沈腾一看就是没少上网",
-      "onboard_time": 1691415160,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 221828,
@@ -2137,6 +2233,14 @@
       "onboard_time": 1691363125,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 217850,
+      "num": 273732,
+      "word": "意想不到的东西出现在博物馆了",
+      "onboard_time": 1691415399,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 216269,
@@ -2217,14 +2321,6 @@
       "onboard_time": 1691399979,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 201399,
-      "num": 309864,
-      "word": "松花江发生今年1号洪水或将转移群众",
-      "onboard_time": 1691413596,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201067,
@@ -2427,6 +2523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157952,
+      "num": 246250,
+      "word": "八名游客被困青海无人区断水断食",
+      "onboard_time": 1691417320,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153484,
       "num": 818752,
       "word": "地震导致的次声波真的会跟人体器官共振",
@@ -2497,14 +2601,6 @@
       "onboard_time": 1691390139,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136524,
-      "num": 224074,
-      "word": "消费降级不丢人",
-      "onboard_time": 1691415160,
-      "rank": 49,
-      "category": "财经,幽默"
     },
     {
       "raw_hot": 136252,
@@ -2619,6 +2715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98968,
+      "num": 748690,
+      "word": "兰蔻直播",
+      "onboard_time": 1691416839,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 91752,
       "num": 150900,
       "word": "婚宴随完礼打包一桌菜",
@@ -2675,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61011,
+      "num": 1267860,
+      "word": "汛情过后健康防护要点",
+      "onboard_time": 1691414378,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52088,
       "num": 547408,
       "word": "总有坚毅的背影替我们负重前行",
@@ -2713,14 +2825,6 @@
       "onboard_time": 1691388397,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 34619,
-      "num": 1067260,
-      "word": "汛情过后健康防护要点",
-      "onboard_time": 1691414378,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30034,
