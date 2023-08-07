@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691447607092,
+  "endTime": 1691450161286,
   "band_list": [
     {
       "raw_hot": 1602658,
@@ -43,6 +43,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 911406,
+      "num": 279686,
+      "word": "女主播年入50万花近三万相亲",
+      "onboard_time": 1691445375,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 797525,
       "num": 797525,
       "word": "Doinb",
@@ -67,6 +75,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 623520,
+      "num": 623520,
+      "word": "嘎子哥该如何自证没有诈捐物资",
+      "onboard_time": 1691437934,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589206,
       "num": 363577,
       "word": "原来气血不足要忌口",
@@ -89,6 +105,14 @@
       "onboard_time": 1691421278,
       "rank": 7,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 530599,
+      "num": 530599,
+      "word": "立秋",
+      "onboard_time": 1691449764,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518913,
@@ -179,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388467,
+      "num": 388467,
+      "word": "因为没见过大海他报了大连理工",
+      "onboard_time": 1691419784,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377575,
       "num": 361463,
       "word": "罗云熙还是好瘦",
@@ -235,14 +267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289874,
-      "num": 130120,
-      "word": "女主播年入50万花近三万相亲",
-      "onboard_time": 1691445375,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277517,
       "num": 277517,
       "word": "周杰伦也没想到这是菊花台",
@@ -291,14 +315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 260743,
-      "num": 284448,
-      "word": "因为没见过大海他报了大连理工",
-      "onboard_time": 1691419784,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251784,
       "num": 251784,
       "word": "TFBOYS演唱会后劲最大的一个视频",
@@ -307,20 +323,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 251611,
-      "num": 128835,
-      "word": "嘎子哥该如何自证没有诈捐物资",
-      "onboard_time": 1691437934,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246417,
       "num": 682822,
       "word": "陆军某旅千人百车驰援舒兰",
       "onboard_time": 1691420980,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240913,
+      "num": 240913,
+      "word": "肖战玉骨遥开机vs杀青",
+      "onboard_time": 1691427565,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 237202,
@@ -339,12 +355,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 221025,
-      "num": 221025,
-      "word": "肖战玉骨遥开机vs杀青",
-      "onboard_time": 1691427565,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 218377,
+      "num": 235368,
+      "word": "凌晨地震老师们跑着叫学生快到重影",
+      "onboard_time": 1691424873,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212947,
@@ -411,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166270,
-      "num": 235368,
-      "word": "凌晨地震老师们跑着叫学生快到重影",
-      "onboard_time": 1691424873,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 163990,
+      "num": 163990,
+      "word": "济南七十二名泉全部喷涌",
+      "onboard_time": 1691449764,
+      "rank": 17,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 153394,
@@ -451,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140488,
+      "num": 140488,
+      "word": "男子喝笋汤发现碗内暗藏玄机",
+      "onboard_time": 1691436135,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134400,
       "num": 134400,
       "word": "TFBOYS不完美小孩的十年进化论",
@@ -459,12 +483,84 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134184,
+      "num": 134184,
+      "word": "小哥每天自拍直到找到女朋友为止",
+      "onboard_time": 1691430079,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 128696,
+      "num": 128696,
+      "word": "如何找到自己的穿衣风格",
+      "onboard_time": 1691446577,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128096,
+      "num": 128096,
+      "word": "现在的小说是相当炸裂啊",
+      "onboard_time": 1691434275,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111205,
+      "num": 111205,
+      "word": "他给的实在是太多了",
+      "onboard_time": 1691443994,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 105530,
+      "num": 105530,
+      "word": "老妈蹄花",
+      "onboard_time": 1691449343,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 103506,
       "num": 103506,
       "word": "胡夏张含韵Gemini梦幻组合",
       "onboard_time": 1691430979,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102143,
+      "num": 102143,
+      "word": "射手座容易被误解的一面",
+      "onboard_time": 1691427866,
+      "rank": 36,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 91353,
+      "num": 91353,
+      "word": "美食核心技术外泄了",
+      "onboard_time": 1691448140,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 89709,
+      "num": 89709,
+      "word": "福宝的妹妹们迎来暴风式成长",
+      "onboard_time": 1691446636,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82911,
+      "num": 82911,
+      "word": "边牧才是狗界的显眼包",
+      "onboard_time": 1691430142,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 82516,
@@ -491,46 +587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 78666,
-      "num": 78666,
-      "word": "边牧才是狗界的显眼包",
-      "onboard_time": 1691430142,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 69275,
-      "num": 62515,
-      "word": "男子喝笋汤发现碗内暗藏玄机",
-      "onboard_time": 1691436135,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64506,
-      "num": 64506,
-      "word": "现在的小说是相当炸裂啊",
-      "onboard_time": 1691434275,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 61982,
-      "num": 61982,
-      "word": "小哥每天自拍直到找到女朋友为止",
-      "onboard_time": 1691430079,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 60169,
-      "num": 60169,
-      "word": "他给的实在是太多了",
-      "onboard_time": 1691443994,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 53777,
       "num": 53777,
       "word": "罗云熙陈都灵英雄联盟工作室出图",
@@ -539,28 +595,12 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 49289,
-      "num": 49289,
-      "word": "射手座容易被误解的一面",
-      "onboard_time": 1691427866,
-      "rank": 36,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 44607,
       "num": 780927,
       "word": "汛情过后健康防护要点",
       "onboard_time": 1691414378,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42265,
-      "num": 42265,
-      "word": "如何找到自己的穿衣风格",
-      "onboard_time": 1691446577,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 37804,
