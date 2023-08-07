@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691386432800,
+  "endTime": 1691389302226,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1580057,
+      "num": 1580057,
+      "word": "台风卡努大转弯或将登陆我国",
+      "onboard_time": 1691384323,
+      "rank": 18,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 1473722,
       "num": 674057,
       "word": "经常喝咖啡把命喝苦了",
@@ -209,6 +217,14 @@
       "onboard_time": 1691364576,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1320385,
+      "num": 590423,
+      "word": "易烊千玺幕后实录",
+      "onboard_time": 1691387499,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 1307674,
@@ -251,8 +267,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1146800,
+      "num": 529031,
+      "word": "村委回应男孩性侵抛尸11岁女童",
+      "onboard_time": 1691385819,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1135765,
-      "num": 482064,
+      "num": 499932,
       "word": "黄锐进没进场",
       "onboard_time": 1691384982,
       "rank": 23,
@@ -267,12 +291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1075109,
+      "num": 590186,
+      "word": "王俊凯西安出发路透",
+      "onboard_time": 1691386420,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1042576,
       "num": 1042576,
       "word": "电影孤注一掷提档",
       "onboard_time": 1691363365,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1024855,
+      "num": 590592,
+      "word": "碧桂园",
+      "onboard_time": 1691387860,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 947950,
@@ -321,6 +361,14 @@
       "onboard_time": 1691377116,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 878273,
+      "num": 590326,
+      "word": "王楚然的手机壳",
+      "onboard_time": 1691388218,
+      "rank": 14,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 875935,
@@ -379,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 730175,
-      "num": 730175,
-      "word": "台风卡努大转弯或将登陆我国",
-      "onboard_time": 1691384323,
-      "rank": 18,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 726401,
       "num": 726401,
       "word": "央视采访列车被困落坡岭细节太震撼",
@@ -401,14 +441,6 @@
       "onboard_time": 1691379220,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 714168,
-      "num": 342075,
-      "word": "王俊凯西安出发路透",
-      "onboard_time": 1691386420,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 709194,
@@ -427,6 +459,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 686221,
+      "num": 591080,
+      "word": "错觉式分手",
+      "onboard_time": 1691385399,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 679875,
+      "num": 596578,
+      "word": "王传君王大陆30秒演完孤注一掷",
+      "onboard_time": 1691384026,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 664143,
       "num": 509630,
       "word": "苍兰诀再登顶爱奇艺热度榜",
@@ -441,6 +489,14 @@
       "onboard_time": 1691380962,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 635249,
+      "num": 590860,
+      "word": "2013快男团综定档",
+      "onboard_time": 1691385221,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 622719,
@@ -459,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 597375,
-      "num": 596578,
-      "word": "王传君王大陆30秒演完孤注一掷",
-      "onboard_time": 1691384026,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 593040,
       "num": 593040,
       "word": "迈阿密国际逆转淘汰达拉斯",
@@ -481,6 +529,14 @@
       "onboard_time": 1691383785,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 590020,
+      "num": 590020,
+      "word": "华为15亿成立房地产公司",
+      "onboard_time": 1691387676,
+      "rank": 18,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 588512,
@@ -516,7 +572,7 @@
     },
     {
       "raw_hot": 547167,
-      "num": 347931,
+      "num": 382174,
       "word": "王传君特别感谢艳芬女士",
       "onboard_time": 1691385042,
       "rank": 37,
@@ -547,14 +603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 529031,
-      "num": 529031,
-      "word": "村委回应男孩性侵抛尸11岁女童",
-      "onboard_time": 1691385819,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 517806,
       "num": 517806,
       "word": "于适成为姬发",
@@ -569,6 +617,14 @@
       "onboard_time": 1691377300,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 496893,
+      "num": 496893,
+      "word": "小夭的三种婚后生活",
+      "onboard_time": 1691386360,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 492034,
@@ -595,14 +651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 489057,
-      "num": 340132,
-      "word": "2013快男团综定档",
-      "onboard_time": 1691385221,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 483673,
       "num": 468008,
       "word": "涂山璟 智计无双细节点",
@@ -617,6 +665,14 @@
       "onboard_time": 1691366196,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 460282,
+      "num": 319600,
+      "word": "TFBOYS十周年蛋糕原本的样子",
+      "onboard_time": 1691387559,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 458923,
@@ -636,7 +692,7 @@
     },
     {
       "raw_hot": 443380,
-      "num": 335735,
+      "num": 347631,
       "word": "朴叙俊拒绝戴发箍",
       "onboard_time": 1691384802,
       "rank": 40,
@@ -787,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307211,
+      "num": 307211,
+      "word": "那英叫高叶大嫂",
+      "onboard_time": 1691388637,
+      "rank": 31,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 306509,
       "num": 257798,
       "word": "乐队的夏天3超级乐迷官宣",
@@ -801,6 +865,14 @@
       "onboard_time": 1691380844,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303409,
+      "num": 303409,
+      "word": "原来头发真的能晒变色",
+      "onboard_time": 1691388517,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 298249,
@@ -867,12 +939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277430,
+      "num": 277430,
+      "word": "封神",
+      "onboard_time": 1691387018,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276703,
       "num": 819654,
       "word": "孤注一掷",
       "onboard_time": 1691313521,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271656,
+      "num": 319845,
+      "word": "多场医药学术会议宣布延期",
+      "onboard_time": 1691388458,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271236,
@@ -971,12 +1059,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240140,
-      "num": 317550,
-      "word": "错觉式分手",
-      "onboard_time": 1691385399,
-      "rank": 34,
-      "category": "情感,幽默"
+      "raw_hot": 241344,
+      "num": 226769,
+      "word": "张艺兴巡演抢票",
+      "onboard_time": 1691387977,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 235923,
@@ -1059,10 +1147,10 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 205457,
-      "num": 249757,
-      "word": "小夭的三种婚后生活",
-      "onboard_time": 1691386360,
+      "raw_hot": 208070,
+      "num": 208070,
+      "word": "李莲花一招制敌角丽谯",
+      "onboard_time": 1691389238,
       "rank": 44,
       "category": "影视"
     },
@@ -1105,6 +1193,14 @@
       "onboard_time": 1691337774,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 184093,
+      "num": 206352,
+      "word": "XYG 景诗你这么会报点",
+      "onboard_time": 1691389179,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 182086,
@@ -1161,6 +1257,14 @@
       "onboard_time": 1691353574,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155869,
+      "num": 206238,
+      "word": "没有一口成都饭是白吃的",
+      "onboard_time": 1691386718,
+      "rank": 49,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 153484,
@@ -1316,7 +1420,7 @@
     },
     {
       "raw_hot": 62211,
-      "num": 377621,
+      "num": 500299,
       "word": "他们扛沙袋冒雨逆行的背影让人泪目",
       "onboard_time": 1691383545,
       "rank": 19,
@@ -1329,6 +1433,14 @@
       "onboard_time": 1691345658,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34707,
+      "num": 288230,
+      "word": "把OOTD做成多巴胺壁纸",
+      "onboard_time": 1691388397,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 30034,
