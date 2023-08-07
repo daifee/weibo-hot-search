@@ -1,0 +1,410 @@
+{
+  "runTime": 1691403510722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1266157,
+        "num": 1266157,
+        "word": "宁波机场",
+        "onboard_time": 1691399261,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393351,
+        "num": 1152026,
+        "word": "五常宝宝凌晨转移一声没哭",
+        "onboard_time": 1691401840,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121746,
+        "num": 1146660,
+        "word": "舒兰公职人员失联牺牲前奔赴一线画面",
+        "onboard_time": 1691378378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146154,
+        "num": 1146154,
+        "word": "比跷二郎腿更坏的坐姿",
+        "onboard_time": 1691400519,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117627,
+        "num": 743677,
+        "word": "56岁救援队长连续施救4昼夜脚磨出3厘米血泡",
+        "onboard_time": 1691401840,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557857,
+        "num": 557857,
+        "word": "莲花楼央八收视",
+        "onboard_time": 1691397518,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52088,
+        "num": 547408,
+        "word": "总有坚毅的背影替我们负重前行",
+        "onboard_time": 1691401840,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2660770,
+        "num": 546524,
+        "word": "易烊千玺大花轿直拍 被删",
+        "onboard_time": 1691400339,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 545433,
+        "num": 545433,
+        "word": "内蒙古一货车冲进集市已致3死",
+        "onboard_time": 1691400581,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194973,
+        "num": 539929,
+        "word": "门头沟区龙泉镇副镇长刘捷遇难",
+        "onboard_time": 1691394999,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1473642,
+        "num": 538099,
+        "word": "时代峰峻回应TFBOYS很少合体",
+        "onboard_time": 1691397160,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1132053,
+        "num": 530526,
+        "word": "倒下的蛋糕 虚假中的真实",
+        "onboard_time": 1691391820,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 604389,
+        "num": 522845,
+        "word": "小龙虾和龙虾有什么区别",
+        "onboard_time": 1691400403,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1161336,
+        "num": 519196,
+        "word": "张艺凡偷偷看了李飞一眼",
+        "onboard_time": 1691398177,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41902,
+        "num": 513441,
+        "word": "成都大运会文化输出这块拿捏了",
+        "onboard_time": 1691402439,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595191,
+        "num": 508764,
+        "word": "王楚然的手机壳",
+        "onboard_time": 1691388218,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1091270,
+        "num": 499906,
+        "word": "魔法城堡女主也去了TFBOYS演唱会",
+        "onboard_time": 1691400161,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 589929,
+        "num": 494039,
+        "word": "Somi回归",
+        "onboard_time": 1691399738,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 577607,
+        "num": 486805,
+        "word": "宁波机场通报货机偏出跑道事件",
+        "onboard_time": 1691402738,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413691,
+        "num": 484114,
+        "word": "舒兰常务副市长最后的语音在布置工作",
+        "onboard_time": 1691399198,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928879,
+        "num": 474563,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1691393379,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 711325,
+        "num": 467368,
+        "word": "TFBOYS是在擦玻璃吗",
+        "onboard_time": 1691402439,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 576062,
+        "num": 464537,
+        "word": "鸟姐自觉盖上了红盖头",
+        "onboard_time": 1691396976,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 460279,
+        "num": 460279,
+        "word": "中纪委曝光一台直线加速器回扣1600万",
+        "onboard_time": 1691389897,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556233,
+        "num": 449827,
+        "word": "易烊千玺出发北京",
+        "onboard_time": 1691399678,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436929,
+        "num": 436929,
+        "word": "陈哲远和机场保洁撞衫",
+        "onboard_time": 1691398599,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 435218,
+        "num": 435218,
+        "word": "夭柳摘面具名场面",
+        "onboard_time": 1691400519,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442059,
+        "num": 430980,
+        "word": "TFBOYS父母坐在一起",
+        "onboard_time": 1691391396,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 863095,
+        "num": 378085,
+        "word": "优酷只有一部短剧在更",
+        "onboard_time": 1691396560,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323797,
+        "num": 323797,
+        "word": "TES对战WBG",
+        "onboard_time": 1691396257,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 412105,
+        "num": 321554,
+        "word": "TFBOYS各家站姐出图",
+        "onboard_time": 1691398838,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 391092,
+        "num": 317408,
+        "word": "杨幂再退出1家与嘉行老板合开公司",
+        "onboard_time": 1691392838,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382768,
+        "num": 312432,
+        "word": "只有王源在吹蜡烛",
+        "onboard_time": 1691394941,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 344405,
+        "num": 310262,
+        "word": "村委回应男孩性侵抛尸11岁女童",
+        "onboard_time": 1691385819,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307296,
+        "num": 307296,
+        "word": "女子生下一女婴3天后又产一子",
+        "onboard_time": 1691378198,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337227,
+        "num": 306510,
+        "word": "孤注一掷成中国影史点映票房冠军",
+        "onboard_time": 1691403340,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335314,
+        "num": 306335,
+        "word": "张晚意朋友圈背景图",
+        "onboard_time": 1691403036,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301792,
+        "num": 301792,
+        "word": "早期kpop人出卡寄卡方式",
+        "onboard_time": 1691398419,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 295320,
+        "num": 295320,
+        "word": "英格兰女足",
+        "onboard_time": 1691401299,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277930,
+        "num": 277930,
+        "word": "卡利塔航空货机降落时滑出跑道",
+        "onboard_time": 1691399501,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328941,
+        "num": 272724,
+        "word": "周冬雨素颜生活照",
+        "onboard_time": 1691398659,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 321796,
+        "num": 270513,
+        "word": "虞书欣苍兰诀片场拍的林柏叡",
+        "onboard_time": 1691400101,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263903,
+        "num": 263903,
+        "word": "电影热烈献给不被看到的我们",
+        "onboard_time": 1691402561,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254954,
+        "num": 254954,
+        "word": "王俊凯西安出发路透",
+        "onboard_time": 1691386420,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253709,
+        "num": 253709,
+        "word": "TF算不算是00后最后的共同记忆",
+        "onboard_time": 1691400219,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248518,
+        "num": 248518,
+        "word": "巨齿鲨2首周末全球票房冠军",
+        "onboard_time": 1691402679,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243654,
+        "num": 243654,
+        "word": "长期缺爱的人有什么表现",
+        "onboard_time": 1691397216,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231846,
+        "num": 231846,
+        "word": "家里只剩下沙发和床了",
+        "onboard_time": 1691401480,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 189913,
+        "num": 219676,
+        "word": "再乱的东西都逃不过妈妈的收纳",
+        "onboard_time": 1691403097,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186398,
+        "num": 212910,
+        "word": "月薪2万住不起如家汉庭",
+        "onboard_time": 1691375974,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#众志成城同舟共济#"
+    }
+  }
+}

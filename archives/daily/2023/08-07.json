@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691400842311,
+  "endTime": 1691403510722,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -115,6 +115,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 2660770,
+      "num": 546524,
+      "word": "易烊千玺大花轿直拍 被删",
+      "onboard_time": 1691400339,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2223994,
       "num": 682994,
       "word": "时代峰峻回应TFBOYS很少合体",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1815938,
-      "num": 506729,
+      "num": 519196,
       "word": "张艺凡偷偷看了李飞一眼",
       "onboard_time": 1691398177,
       "rank": 11,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 1468348,
-      "num": 378253,
+      "num": 474563,
       "word": "一个姐姐离婚时发的朋友圈",
       "onboard_time": 1691393379,
       "rank": 34,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1266157,
+      "num": 1266157,
+      "word": "宁波机场",
+      "onboard_time": 1691399261,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1219258,
       "num": 894906,
       "word": "魏大勋忘记还麦的时候",
@@ -387,6 +403,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1146154,
+      "num": 1146154,
+      "word": "比跷二郎腿更坏的坐姿",
+      "onboard_time": 1691400519,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1135765,
       "num": 499932,
       "word": "黄锐进没进场",
@@ -395,20 +419,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1118901,
-      "num": 1118901,
-      "word": "宁波机场",
-      "onboard_time": 1691399261,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1096321,
       "num": 1096321,
       "word": "原来真的有人一运动就过敏",
       "onboard_time": 1691367578,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1091270,
+      "num": 499906,
+      "word": "魔法城堡女主也去了TFBOYS演唱会",
+      "onboard_time": 1691400161,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 1088227,
@@ -433,14 +457,6 @@
       "onboard_time": 1691363365,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 975987,
-      "num": 431108,
-      "word": "魔法城堡女主也去了TFBOYS演唱会",
-      "onboard_time": 1691400161,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 947950,
@@ -596,11 +612,19 @@
     },
     {
       "raw_hot": 717440,
-      "num": 366518,
+      "num": 436929,
       "word": "陈哲远和机场保洁撞衫",
       "onboard_time": 1691398599,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 711325,
+      "num": 467368,
+      "word": "TFBOYS是在擦玻璃吗",
+      "onboard_time": 1691402439,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 709194,
@@ -633,14 +657,6 @@
       "onboard_time": 1691394999,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 690579,
-      "num": 343410,
-      "word": "易烊千玺大花轿直拍 被删",
-      "onboard_time": 1691400339,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 682846,
@@ -715,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604389,
+      "num": 522845,
+      "word": "小龙虾和龙虾有什么区别",
+      "onboard_time": 1691400403,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 593040,
       "num": 593040,
       "word": "迈阿密国际逆转淘汰达拉斯",
@@ -763,8 +787,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 577607,
+      "num": 486805,
+      "word": "宁波机场通报货机偏出跑道事件",
+      "onboard_time": 1691402738,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570075,
-      "num": 321095,
+      "num": 449827,
       "word": "易烊千玺出发北京",
       "onboard_time": 1691399678,
       "rank": 37,
@@ -772,7 +804,7 @@
     },
     {
       "raw_hot": 564215,
-      "num": 929783,
+      "num": 1146660,
       "word": "舒兰公职人员失联牺牲前奔赴一线画面",
       "onboard_time": 1691378378,
       "rank": 19,
@@ -792,6 +824,14 @@
       "word": "卡利塔航空货机降落时滑出跑道",
       "onboard_time": 1691399501,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545433,
+      "num": 545433,
+      "word": "内蒙古一货车冲进集市已致3死",
+      "onboard_time": 1691400581,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -844,7 +884,7 @@
     },
     {
       "raw_hot": 500881,
-      "num": 284707,
+      "num": 321554,
       "word": "TFBOYS各家站姐出图",
       "onboard_time": 1691398838,
       "rank": 39,
@@ -971,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435218,
+      "num": 435218,
+      "word": "夭柳摘面具名场面",
+      "onboard_time": 1691400519,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427242,
       "num": 820166,
       "word": "刘宪华贵阳",
@@ -980,7 +1028,7 @@
     },
     {
       "raw_hot": 421662,
-      "num": 421662,
+      "num": 484114,
       "word": "舒兰常务副市长最后的语音在布置工作",
       "onboard_time": 1691399198,
       "rank": 19,
@@ -1083,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 393351,
+      "num": 1152026,
+      "word": "五常宝宝凌晨转移一声没哭",
+      "onboard_time": 1691401840,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392440,
       "num": 358497,
       "word": "长期缺爱的人有什么表现",
@@ -1163,12 +1219,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329696,
-      "num": 304576,
-      "word": "夭柳摘面具名场面",
-      "onboard_time": 1691400519,
+      "raw_hot": 337227,
+      "num": 306510,
+      "word": "孤注一掷成中国影史点映票房冠军",
+      "onboard_time": 1691403340,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335314,
+      "num": 306335,
+      "word": "张晚意朋友圈背景图",
+      "onboard_time": 1691403036,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 324584,
@@ -1275,20 +1339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297076,
-      "num": 297076,
-      "word": "内蒙古一货车冲进集市已致3死",
-      "onboard_time": 1691400581,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295537,
       "num": 295537,
       "word": "emolab",
       "onboard_time": 1691378499,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295320,
+      "num": 295320,
+      "word": "英格兰女足",
+      "onboard_time": 1691401299,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 294369,
@@ -1353,14 +1417,6 @@
       "onboard_time": 1691321390,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280456,
-      "num": 280456,
-      "word": "比跷二郎腿更坏的坐姿",
-      "onboard_time": 1691400519,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 277430,
@@ -1435,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263903,
+      "num": 263903,
+      "word": "电影热烈献给不被看到的我们",
+      "onboard_time": 1691402561,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263414,
       "num": 242422,
       "word": "地震给我们提了个醒",
@@ -1465,6 +1529,14 @@
       "onboard_time": 1691393078,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248518,
+      "num": 248518,
+      "word": "巨齿鲨2首周末全球票房冠军",
+      "onboard_time": 1691402679,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 246069,
@@ -1539,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231846,
+      "num": 231846,
+      "word": "家里只剩下沙发和床了",
+      "onboard_time": 1691401480,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 229431,
       "num": 229431,
       "word": "夜晚1岁女童被困车内消防砸窗救人",
@@ -1553,14 +1633,6 @@
       "onboard_time": 1691363909,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220711,
-      "num": 220711,
-      "word": "小龙虾和龙虾有什么区别",
-      "onboard_time": 1691400403,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 219440,
@@ -1713,6 +1785,14 @@
       "onboard_time": 1691370102,
       "rank": 37,
       "category": "美食,旅游"
+    },
+    {
+      "raw_hot": 189913,
+      "num": 219676,
+      "word": "再乱的东西都逃不过妈妈的收纳",
+      "onboard_time": 1691403097,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 187846,
@@ -1907,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117627,
+      "num": 743677,
+      "word": "56岁救援队长连续施救4昼夜脚磨出3厘米血泡",
+      "onboard_time": 1691401840,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113895,
       "num": 81959,
       "word": "易烊千玺solo",
@@ -1995,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52088,
+      "num": 547408,
+      "word": "总有坚毅的背影替我们负重前行",
+      "onboard_time": 1691401840,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52055,
       "num": 228031,
       "word": "子弟兵帮河北涿州群众重建家园",
@@ -2017,6 +2113,14 @@
       "onboard_time": 1691388397,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 41902,
+      "num": 513441,
+      "word": "成都大运会文化输出这块拿捏了",
+      "onboard_time": 1691402439,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30034,
