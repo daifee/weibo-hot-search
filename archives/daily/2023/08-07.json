@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691385359376,
+  "endTime": 1691386432800,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -59,19 +59,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3211062,
+      "num": 674358,
+      "word": "工作人员回应TFBOYS演唱会馆外有垃圾",
+      "onboard_time": 1691382464,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3201269,
       "num": 802758,
       "word": "TFBOYS暂未确定巡演城市",
       "onboard_time": 1691375498,
       "rank": 3,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 3174708,
-      "num": 674358,
-      "word": "工作人员回应TFBOYS演唱会馆外有垃圾",
-      "onboard_time": 1691382464,
-      "rank": 19,
       "category": "音乐"
     },
     {
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1473722,
+      "num": 674057,
+      "word": "经常喝咖啡把命喝苦了",
+      "onboard_time": 1691381863,
+      "rank": 46,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 1442986,
       "num": 511776,
       "word": "女子生下一女婴3天后又产一子",
@@ -193,14 +201,6 @@
       "onboard_time": 1691364390,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1360092,
-      "num": 665784,
-      "word": "经常喝咖啡把命喝苦了",
-      "onboard_time": 1691381863,
-      "rank": 46,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 1343542,
@@ -251,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1135765,
+      "num": 482064,
+      "word": "黄锐进没进场",
+      "onboard_time": 1691384982,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1096321,
       "num": 1096321,
       "word": "原来真的有人一运动就过敏",
@@ -265,14 +273,6 @@
       "onboard_time": 1691363365,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1018230,
-      "num": 354643,
-      "word": "黄锐进没进场",
-      "onboard_time": 1691384982,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 947950,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 900431,
-      "num": 334693,
+      "num": 336726,
       "word": "王俊凯十周年演唱会单人机位",
       "onboard_time": 1691384026,
       "rank": 26,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730175,
+      "num": 730175,
+      "word": "台风卡努大转弯或将登陆我国",
+      "onboard_time": 1691384323,
+      "rank": 18,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 726401,
       "num": 726401,
       "word": "央视采访列车被困落坡岭细节太震撼",
@@ -393,6 +401,14 @@
       "onboard_time": 1691379220,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 714168,
+      "num": 342075,
+      "word": "王俊凯西安出发路透",
+      "onboard_time": 1691386420,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 709194,
@@ -435,7 +451,15 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 596578,
+      "raw_hot": 616695,
+      "num": 616695,
+      "word": "空调工裸辞写文6年获粉千万",
+      "onboard_time": 1691382343,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597375,
       "num": 596578,
       "word": "王传君王大陆30秒演完孤注一掷",
       "onboard_time": 1691384026,
@@ -475,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 587902,
-      "num": 587902,
-      "word": "空调工裸辞写文6年获粉千万",
-      "onboard_time": 1691382343,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 582574,
       "num": 299588,
       "word": "重庆的猫啊那没事了",
@@ -497,6 +513,14 @@
       "onboard_time": 1691378378,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547167,
+      "num": 347931,
+      "word": "王传君特别感谢艳芬女士",
+      "onboard_time": 1691385042,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 543687,
@@ -521,6 +545,14 @@
       "onboard_time": 1691359635,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 529031,
+      "num": 529031,
+      "word": "村委回应男孩性侵抛尸11岁女童",
+      "onboard_time": 1691385819,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517806,
@@ -563,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 489057,
+      "num": 340132,
+      "word": "2013快男团综定档",
+      "onboard_time": 1691385221,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483673,
       "num": 468008,
       "word": "涂山璟 智计无双细节点",
@@ -593,6 +633,22 @@
       "onboard_time": 1691363125,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 443380,
+      "num": 335735,
+      "word": "朴叙俊拒绝戴发箍",
+      "onboard_time": 1691384802,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 438269,
+      "num": 310926,
+      "word": "长相思卡点夭夭零六",
+      "onboard_time": 1691384264,
+      "rank": 36,
+      "category": "影视,综艺"
     },
     {
       "raw_hot": 436092,
@@ -667,44 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380137,
-      "num": 380137,
-      "word": "台风卡努大转弯或将登陆我国",
-      "onboard_time": 1691384323,
-      "rank": 18,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 352889,
       "num": 352889,
       "word": "薛之谦在线帮歌迷牵线",
       "onboard_time": 1691377836,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 351220,
-      "num": 222557,
-      "word": "长相思卡点夭夭零六",
-      "onboard_time": 1691384264,
-      "rank": 36,
-      "category": "影视,综艺"
-    },
-    {
-      "raw_hot": 345444,
-      "num": 222299,
-      "word": "王传君特别感谢艳芬女士",
-      "onboard_time": 1691385042,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 343389,
-      "num": 221206,
-      "word": "朴叙俊拒绝戴发箍",
-      "onboard_time": 1691384802,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 340763,
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 306509,
-      "num": 220967,
+      "num": 257798,
       "word": "乐队的夏天3超级乐迷官宣",
       "onboard_time": 1691383605,
       "rank": 41,
@@ -796,7 +820,7 @@
     },
     {
       "raw_hot": 292984,
-      "num": 220374,
+      "num": 267233,
       "word": "长相思",
       "onboard_time": 1691384923,
       "rank": 42,
@@ -947,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240140,
+      "num": 317550,
+      "word": "错觉式分手",
+      "onboard_time": 1691385399,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 235923,
       "num": 235923,
       "word": "安徽一高校录取通知书出现错字",
@@ -1016,6 +1048,22 @@
       "word": "毛不易献唱学爸片尾曲",
       "onboard_time": 1691377836,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212115,
+      "num": 273299,
+      "word": "仲夏日漫漫",
+      "onboard_time": 1691385578,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 205457,
+      "num": 249757,
+      "word": "小夭的三种婚后生活",
+      "onboard_time": 1691386360,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1128,6 +1176,14 @@
       "word": "大妈踩在丹霞地貌上疯狂拍照",
       "onboard_time": 1691315678,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149381,
+      "num": 238669,
+      "word": "吉林舒兰灾情",
+      "onboard_time": 1691386360,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

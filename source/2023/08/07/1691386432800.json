@@ -1,0 +1,410 @@
+{
+  "runTime": 1691386432800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 846210,
+        "num": 1291637,
+        "word": "按摩椅能不能离开电影院",
+        "onboard_time": 1691378018,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730175,
+        "num": 730175,
+        "word": "台风卡努大转弯或将登陆我国",
+        "onboard_time": 1691384323,
+        "rank": 1,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 83293,
+        "num": 704478,
+        "word": "防汛最新信息汇总",
+        "onboard_time": 1691378138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1659191,
+        "num": 680259,
+        "word": "月薪2万住不起如家汉庭",
+        "onboard_time": 1691375974,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1473722,
+        "num": 674057,
+        "word": "经常喝咖啡把命喝苦了",
+        "onboard_time": 1691381863,
+        "rank": 4,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 3211062,
+        "num": 622344,
+        "word": "工作人员回应TFBOYS演唱会馆外有垃圾",
+        "onboard_time": 1691382464,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 621643,
+        "num": 621643,
+        "word": "爱宝双胞胎宝宝满月照",
+        "onboard_time": 1691380303,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1194512,
+        "num": 621471,
+        "word": "苍兰诀角色号醒了",
+        "onboard_time": 1691381204,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 616695,
+        "num": 616695,
+        "word": "空调工裸辞写文6年获粉千万",
+        "onboard_time": 1691382343,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327135,
+        "num": 601062,
+        "word": "舒兰公职人员失联牺牲前奔赴一线画面",
+        "onboard_time": 1691378378,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2151325,
+        "num": 587506,
+        "word": "王源放下话筒之后还在唱",
+        "onboard_time": 1691380059,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1311137,
+        "num": 567733,
+        "word": "奚安娜",
+        "onboard_time": 1691378919,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1133498,
+        "num": 548919,
+        "word": "领导们好像不爱吃火锅",
+        "onboard_time": 1691377537,
+        "rank": 12,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 1291521,
+        "num": 533988,
+        "word": "TFBOYS暂未确定巡演城市",
+        "onboard_time": 1691375498,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 529031,
+        "num": 529031,
+        "word": "村委回应男孩性侵抛尸11岁女童",
+        "onboard_time": 1691385819,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597375,
+        "num": 519508,
+        "word": "王传君王大陆30秒演完孤注一掷",
+        "onboard_time": 1691384026,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1135765,
+        "num": 482064,
+        "word": "黄锐进没进场",
+        "onboard_time": 1691384982,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 389088,
+        "num": 389088,
+        "word": "日本电梯真的很适合i人生存",
+        "onboard_time": 1691376215,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353553,
+        "num": 353553,
+        "word": "迈阿密国际逆转淘汰达拉斯",
+        "onboard_time": 1691381324,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58432,
+        "num": 353089,
+        "word": "他们扛沙袋冒雨逆行的背影让人泪目",
+        "onboard_time": 1691383545,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011382,
+        "num": 350637,
+        "word": "易烊千玺十周年演唱会单人机位",
+        "onboard_time": 1691380785,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 916563,
+        "num": 349543,
+        "word": "女子生下一女婴3天后又产一子",
+        "onboard_time": 1691378198,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547167,
+        "num": 347931,
+        "word": "王传君特别感谢艳芬女士",
+        "onboard_time": 1691385042,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874957,
+        "num": 347288,
+        "word": "蓝羽回应主持TFBOYS演唱会",
+        "onboard_time": 1691377716,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354582,
+        "num": 345085,
+        "word": "被保护得太好的人有什么特征",
+        "onboard_time": 1691377300,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 540117,
+        "num": 344655,
+        "word": "王楚然海棠笑春风出妆饭拍",
+        "onboard_time": 1691380962,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 714168,
+        "num": 342075,
+        "word": "王俊凯西安出发路透",
+        "onboard_time": 1691386420,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489148,
+        "num": 341503,
+        "word": "孤注一掷点映中途暂停被观众怒斥",
+        "onboard_time": 1691376757,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 489057,
+        "num": 340132,
+        "word": "2013快男团综定档",
+        "onboard_time": 1691385221,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 624340,
+        "num": 338143,
+        "word": "TFBOYS快本的信",
+        "onboard_time": 1691329401,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 623316,
+        "num": 336726,
+        "word": "王俊凯十周年演唱会单人机位",
+        "onboard_time": 1691384026,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 443380,
+        "num": 335735,
+        "word": "朴叙俊拒绝戴发箍",
+        "onboard_time": 1691384802,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334517,
+        "num": 334517,
+        "word": "便利店偷听八卦发现正主是自己",
+        "onboard_time": 1691383848,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 667736,
+        "num": 329654,
+        "word": "易烊千玺夹得嗓子都冒烟了",
+        "onboard_time": 1691363487,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240140,
+        "num": 317550,
+        "word": "错觉式分手",
+        "onboard_time": 1691385399,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 438269,
+        "num": 310926,
+        "word": "长相思卡点夭夭零六",
+        "onboard_time": 1691384264,
+        "rank": 35,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 385930,
+        "num": 301479,
+        "word": "苍兰诀再登顶爱奇艺热度榜",
+        "onboard_time": 1691381503,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433971,
+        "num": 295273,
+        "word": "长相思厦门快闪",
+        "onboard_time": 1691383785,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338774,
+        "num": 285545,
+        "word": "魏大勋忘记还麦的时候",
+        "onboard_time": 1691376757,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212115,
+        "num": 273299,
+        "word": "仲夏日漫漫",
+        "onboard_time": 1691385578,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267233,
+        "num": 267233,
+        "word": "长相思",
+        "onboard_time": 1691384923,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257798,
+        "num": 257798,
+        "word": "乐队的夏天3超级乐迷官宣",
+        "onboard_time": 1691383605,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208496,
+        "num": 255325,
+        "word": "A股",
+        "onboard_time": 1691375613,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184899,
+        "num": 253112,
+        "word": "地震时他们仨不约而同敲响邻居的门",
+        "onboard_time": 1691380844,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205457,
+        "num": 249757,
+        "word": "小夭的三种婚后生活",
+        "onboard_time": 1691386360,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182419,
+        "num": 248656,
+        "word": "滔搏 报点",
+        "onboard_time": 1691368660,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161712,
+        "num": 243568,
+        "word": "梅西进球",
+        "onboard_time": 1691375073,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153323,
+        "num": 239955,
+        "word": "这口臭绝对不是我的",
+        "onboard_time": 1691376395,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149381,
+        "num": 238669,
+        "word": "吉林舒兰灾情",
+        "onboard_time": 1691386360,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145764,
+        "num": 236000,
+        "word": "卡努",
+        "onboard_time": 1691375313,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#唯有创新才能抢占先机#"
+    }
+  }
+}
