@@ -1,0 +1,410 @@
+{
+  "runTime": 1691400842311,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1691232,
+        "num": 1691232,
+        "word": "优酷只有一部短剧在更",
+        "onboard_time": 1691396560,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1118901,
+        "num": 1118901,
+        "word": "宁波机场",
+        "onboard_time": 1691399261,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120262,
+        "num": 873817,
+        "word": "舒兰公职人员失联牺牲前奔赴一线画面",
+        "onboard_time": 1691378378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685938,
+        "num": 685938,
+        "word": "杨幂再退出1家与嘉行老板合开公司",
+        "onboard_time": 1691392838,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302562,
+        "num": 683053,
+        "word": "门头沟区龙泉镇副镇长刘捷遇难",
+        "onboard_time": 1691394999,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2005412,
+        "num": 682994,
+        "word": "时代峰峻回应TFBOYS很少合体",
+        "onboard_time": 1691397160,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682846,
+        "num": 682846,
+        "word": "Somi回归",
+        "onboard_time": 1691399738,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 679699,
+        "num": 679699,
+        "word": "莲花楼央八收视",
+        "onboard_time": 1691397518,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462567,
+        "num": 462567,
+        "word": "TES对战WBG",
+        "onboard_time": 1691396257,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61450,
+        "num": 462108,
+        "word": "他们扛沙袋冒雨逆行的背影让人泪目",
+        "onboard_time": 1691383545,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1908542,
+        "num": 453602,
+        "word": "倒下的蛋糕 虚假中的真实",
+        "onboard_time": 1691391820,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1815938,
+        "num": 448994,
+        "word": "张艺凡偷偷看了李飞一眼",
+        "onboard_time": 1691398177,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 882634,
+        "num": 447399,
+        "word": "中纪委曝光一台直线加速器回扣1600万",
+        "onboard_time": 1691389897,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546848,
+        "num": 440425,
+        "word": "卡利塔航空货机降落时滑出跑道",
+        "onboard_time": 1691399501,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61467,
+        "num": 439217,
+        "word": "涿州孤岛救援12小时纪实",
+        "onboard_time": 1691398838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975987,
+        "num": 431108,
+        "word": "魔法城堡女主也去了TFBOYS演唱会",
+        "onboard_time": 1691400161,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 918941,
+        "num": 427635,
+        "word": "鸟姐自觉盖上了红盖头",
+        "onboard_time": 1691396976,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 902192,
+        "num": 421985,
+        "word": "王楚然的手机壳",
+        "onboard_time": 1691388218,
+        "rank": 17,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 421662,
+        "num": 421662,
+        "word": "舒兰常务副市长最后的语音在布置工作",
+        "onboard_time": 1691399198,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362524,
+        "num": 362524,
+        "word": "早期kpop人出卡寄卡方式",
+        "onboard_time": 1691398419,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1061619,
+        "num": 357809,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1691393379,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 901827,
+        "num": 355580,
+        "word": "TFBOYS父母坐在一起",
+        "onboard_time": 1691391396,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 690579,
+        "num": 343410,
+        "word": "易烊千玺大花轿直拍 被删",
+        "onboard_time": 1691400339,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392440,
+        "num": 336859,
+        "word": "长期缺爱的人有什么表现",
+        "onboard_time": 1691397216,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 809780,
+        "num": 332235,
+        "word": "只有王源在吹蜡烛",
+        "onboard_time": 1691394941,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 668630,
+        "num": 328288,
+        "word": "陈哲远和机场保洁撞衫",
+        "onboard_time": 1691398599,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 570075,
+        "num": 321095,
+        "word": "易烊千玺出发北京",
+        "onboard_time": 1691399678,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317069,
+        "num": 317069,
+        "word": "女子生下一女婴3天后又产一子",
+        "onboard_time": 1691378198,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309709,
+        "num": 309709,
+        "word": "男子花200元网购金毛拆开傻眼",
+        "onboard_time": 1691395661,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305324,
+        "num": 305324,
+        "word": "华为15亿成立房地产公司",
+        "onboard_time": 1691387676,
+        "rank": 29,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 557733,
+        "num": 305309,
+        "word": "TFBOYS三人一车",
+        "onboard_time": 1691390499,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475468,
+        "num": 305184,
+        "word": "村委回应男孩性侵抛尸11岁女童",
+        "onboard_time": 1691385819,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462767,
+        "num": 304991,
+        "word": "周冬雨素颜生活照",
+        "onboard_time": 1691398659,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 397710,
+        "num": 304834,
+        "word": "虞书欣苍兰诀片场拍的林柏叡",
+        "onboard_time": 1691400101,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347656,
+        "num": 304720,
+        "word": "TF算不算是00后最后的共同记忆",
+        "onboard_time": 1691400219,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329696,
+        "num": 304576,
+        "word": "夭柳摘面具名场面",
+        "onboard_time": 1691400519,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304528,
+        "num": 304528,
+        "word": "台风卡努大转弯或将登陆我国",
+        "onboard_time": 1691384323,
+        "rank": 36,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 297330,
+        "num": 297330,
+        "word": "月薪2万住不起如家汉庭",
+        "onboard_time": 1691375974,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 297076,
+        "num": 297076,
+        "word": "内蒙古一货车冲进集市已致3死",
+        "onboard_time": 1691400581,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280456,
+        "num": 280456,
+        "word": "比跷二郎腿更坏的坐姿",
+        "onboard_time": 1691400519,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323124,
+        "num": 263843,
+        "word": "王俊凯西安出发路透",
+        "onboard_time": 1691386420,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244076,
+        "num": 244076,
+        "word": "杨紫张晚意原声率",
+        "onboard_time": 1691397938,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220711,
+        "num": 220711,
+        "word": "小龙虾和龙虾有什么区别",
+        "onboard_time": 1691400403,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184960,
+        "num": 219458,
+        "word": "TF三代让我们不顾一切单人海报",
+        "onboard_time": 1691393197,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310219,
+        "num": 219447,
+        "word": "王源放下话筒之后还在唱",
+        "onboard_time": 1691380059,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219229,
+        "num": 219229,
+        "word": "领导们好像不爱吃火锅",
+        "onboard_time": 1691377537,
+        "rank": 45,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 214221,
+        "num": 214221,
+        "word": "王传君王大陆30秒演完孤注一掷",
+        "onboard_time": 1691384026,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214218,
+        "num": 214218,
+        "word": "张晚意辟谣演完古偶奖励自己拍正剧",
+        "onboard_time": 1691394040,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207358,
+        "num": 207358,
+        "word": "一眼惊艳的中式志怪美学",
+        "onboard_time": 1691400816,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204154,
+        "num": 204154,
+        "word": "领导发个表情研究了半小时",
+        "onboard_time": 1691399979,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#唯有创新才能抢占先机#"
+    }
+  }
+}
