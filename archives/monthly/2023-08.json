@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691406818963,
+  "endTime": 1691408034203,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -780,7 +780,7 @@
     },
     {
       "raw_hot": 2223994,
-      "num": 728536,
+      "num": 817123,
       "word": "时代峰峻回应TFBOYS很少合体",
       "onboard_time": 1691397160,
       "rank": 7,
@@ -1267,6 +1267,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 1726567,
+      "num": 409443,
+      "word": "女子便秘10多天体内取出40斤大便",
+      "onboard_time": 1691406818,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1703303,
       "num": 818869,
       "word": "舒兰村民发现一具遗体",
@@ -1401,6 +1409,14 @@
       "onboard_time": 1691120558,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1606241,
+      "num": 842290,
+      "word": "王楚然新剧原著女主一直翻白眼",
+      "onboard_time": 1691405975,
+      "rank": 3,
+      "category": "艺人,影视"
     },
     {
       "raw_hot": 1604066,
@@ -1577,6 +1593,14 @@
       "onboard_time": 1690974694,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1476893,
+      "num": 1476893,
+      "word": "莲花楼热度反超长相思",
+      "onboard_time": 1691406278,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1473722,
@@ -2779,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1059647,
+      "num": 1059647,
+      "word": "孤注一掷成中国影史点映票房冠军",
+      "onboard_time": 1691403340,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1058749,
       "num": 1058749,
       "word": "涿州目前全域停水部分停电",
@@ -2976,14 +3008,6 @@
       "word": "原著里小夭是自己游回去的",
       "onboard_time": 1691021676,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1003853,
-      "num": 1003853,
-      "word": "孤注一掷成中国影史点映票房冠军",
-      "onboard_time": 1691403340,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -3841,14 +3865,6 @@
       "onboard_time": 1691223458,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 842290,
-      "num": 842290,
-      "word": "王楚然新剧原著女主一直翻白眼",
-      "onboard_time": 1691405975,
-      "rank": 3,
-      "category": "艺人,影视"
     },
     {
       "raw_hot": 841262,
@@ -5035,6 +5051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 697077,
+      "num": 343505,
+      "word": "千万别戴这种眼镜",
+      "onboard_time": 1691405855,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 691976,
       "num": 572311,
       "word": "人在家心在西安",
@@ -5097,6 +5121,14 @@
       "onboard_time": 1691247466,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 687305,
+      "num": 687305,
+      "word": "小夭知道防风邶是相柳了",
+      "onboard_time": 1691404596,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 685618,
@@ -5283,14 +5315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 668216,
-      "num": 333193,
-      "word": "千万别戴这种眼镜",
-      "onboard_time": 1691405855,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 667463,
       "num": 667463,
       "word": "TES对战WBG",
@@ -5353,14 +5377,6 @@
       "onboard_time": 1691393197,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 658067,
-      "num": 658067,
-      "word": "小夭知道防风邶是相柳了",
-      "onboard_time": 1691404596,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 656366,
@@ -6321,14 +6337,6 @@
       "onboard_time": 1691320554,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 573970,
-      "num": 573970,
-      "word": "莲花楼热度反超长相思",
-      "onboard_time": 1691406278,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 573359,
@@ -7915,6 +7923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 470124,
+      "num": 470124,
+      "word": "TheShy",
+      "onboard_time": 1691406397,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 469445,
       "num": 469445,
       "word": "广州emo",
@@ -8564,7 +8580,7 @@
     },
     {
       "raw_hot": 429390,
-      "num": 1152026,
+      "num": 1195065,
       "word": "五常宝宝凌晨转移一声没哭",
       "onboard_time": 1691401840,
       "rank": 1,
@@ -8776,6 +8792,14 @@
       "word": "赵樱子新剧当老板娘",
       "onboard_time": 1691291618,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 417409,
+      "num": 358054,
+      "word": "莲花楼阎王娶亲案",
+      "onboard_time": 1691407234,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -9947,6 +9971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 358368,
+      "num": 358368,
+      "word": "日本网友心中的国漫天花板",
+      "onboard_time": 1691406875,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 357931,
       "num": 357931,
       "word": "早晨起床不要空腹喝酸奶",
@@ -10555,6 +10587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332712,
+      "num": 332712,
+      "word": "王俊凯新歌回望",
+      "onboard_time": 1691405497,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 332188,
       "num": 356597,
       "word": "JDG先下一城",
@@ -10569,6 +10609,14 @@
       "onboard_time": 1690944696,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332140,
+      "num": 332140,
+      "word": "刘耀文唯一一次赢是因为土豆",
+      "onboard_time": 1691407477,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 331376,
@@ -10633,14 +10681,6 @@
       "onboard_time": 1691219196,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 326982,
-      "num": 326982,
-      "word": "王俊凯新歌回望",
-      "onboard_time": 1691405497,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 326947,
@@ -10721,6 +10761,14 @@
       "onboard_time": 1690848397,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 323729,
+      "num": 323729,
+      "word": "夭璟吻戏已经是nextlevel了",
+      "onboard_time": 1691407114,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 323347,
@@ -10819,14 +10867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 319602,
-      "num": 319602,
-      "word": "TheShy",
-      "onboard_time": 1691406397,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 319587,
       "num": 295039,
       "word": "璟收的密报是夭柳cp粉写的吧",
@@ -10841,6 +10881,14 @@
       "onboard_time": 1691134718,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 319269,
+      "num": 319269,
+      "word": "WBG",
+      "onboard_time": 1691407114,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 318954,
@@ -11473,6 +11521,14 @@
       "onboard_time": 1691279072,
       "rank": 35,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 295842,
+      "num": 295842,
+      "word": "小夭戏弄涂山璟",
+      "onboard_time": 1691407538,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 295579,
@@ -12643,6 +12699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252840,
+      "num": 252840,
+      "word": "温拿乐队正式解散",
+      "onboard_time": 1691407895,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252310,
       "num": 252310,
       "word": "告五人巡演",
@@ -12736,6 +12800,14 @@
       "word": "山东地震多地收到预警",
       "onboard_time": 1691277869,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249871,
+      "num": 838346,
+      "word": "游客扔遍地垃圾女子自发去海边捡拾",
+      "onboard_time": 1691405975,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -13721,6 +13793,14 @@
       "onboard_time": 1691306794,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221194,
+      "num": 221194,
+      "word": "张炯敏直播",
+      "onboard_time": 1691407114,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 220972,
@@ -15275,6 +15355,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 191875,
+      "num": 740281,
+      "word": "消防员救援间隙收到妻子产房喜讯",
+      "onboard_time": 1691406695,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191858,
       "num": 191858,
       "word": "封神纪录片",
@@ -15867,6 +15955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176207,
+      "num": 190366,
+      "word": "沾满泥巴的手签收了985高校录取通知书",
+      "onboard_time": 1691407655,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 176051,
       "num": 206648,
       "word": "国外版男生女生向前冲",
@@ -16187,6 +16283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161212,
+      "num": 190364,
+      "word": "MISSING和Elk同框",
+      "onboard_time": 1691408015,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161119,
       "num": 5430855,
       "word": "大运会又一个显眼包出现了",
@@ -16393,14 +16497,6 @@
       "onboard_time": 1691230597,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151215,
-      "num": 336273,
-      "word": "消防员救援间隙收到妻子产房喜讯",
-      "onboard_time": 1691406695,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150620,
@@ -16921,14 +17017,6 @@
       "onboard_time": 1690857097,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118309,
-      "num": 677794,
-      "word": "游客扔遍地垃圾女子自发去海边捡拾",
-      "onboard_time": 1691405975,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118280,
@@ -17587,6 +17675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46180,
+      "num": 596038,
+      "word": "消防员冷水里排涝脸上热汗不断",
+      "onboard_time": 1691406218,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44983,
       "num": 576467,
       "word": "试飞员4个字描述新型战机发动机",
@@ -17744,14 +17840,6 @@
       "word": "关注京津冀强降雨",
       "onboard_time": 1690915934,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26324,
-      "num": 596038,
-      "word": "消防员冷水里排涝脸上热汗不断",
-      "onboard_time": 1691406218,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691406818963,
+  "endTime": 1691408034203,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 2223994,
-      "num": 728536,
+      "num": 817123,
       "word": "时代峰峻回应TFBOYS很少合体",
       "onboard_time": 1691397160,
       "rank": 7,
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1726567,
+      "num": 409443,
+      "word": "女子便秘10多天体内取出40斤大便",
+      "onboard_time": 1691406818,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1634260,
       "num": 1634260,
       "word": "中纪委曝光一台直线加速器回扣1600万",
@@ -243,6 +251,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1606241,
+      "num": 842290,
+      "word": "王楚然新剧原著女主一直翻白眼",
+      "onboard_time": 1691405975,
+      "rank": 3,
+      "category": "艺人,影视"
+    },
+    {
       "raw_hot": 1604066,
       "num": 542183,
       "word": "所有的四叶草是来送他们的",
@@ -257,6 +273,14 @@
       "onboard_time": 1691384323,
       "rank": 18,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 1476893,
+      "num": 1476893,
+      "word": "莲花楼热度反超长相思",
+      "onboard_time": 1691406278,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1473722,
@@ -459,19 +483,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1059647,
+      "num": 1059647,
+      "word": "孤注一掷成中国影史点映票房冠军",
+      "onboard_time": 1691403340,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1042576,
       "num": 1042576,
       "word": "电影孤注一掷提档",
       "onboard_time": 1691363365,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1003853,
-      "num": 1003853,
-      "word": "孤注一掷成中国影史点映票房冠军",
-      "onboard_time": 1691403340,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -529,14 +553,6 @@
       "onboard_time": 1691335752,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 842290,
-      "num": 842290,
-      "word": "王楚然新剧原著女主一直翻白眼",
-      "onboard_time": 1691405975,
-      "rank": 3,
-      "category": "艺人,影视"
     },
     {
       "raw_hot": 839083,
@@ -667,12 +683,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 697077,
+      "num": 343505,
+      "word": "千万别戴这种眼镜",
+      "onboard_time": 1691405855,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 691052,
       "num": 1076619,
       "word": "门头沟区龙泉镇副镇长刘捷遇难",
       "onboard_time": 1691394999,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687305,
+      "num": 687305,
+      "word": "小夭知道防风邶是相柳了",
+      "onboard_time": 1691404596,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 682846,
@@ -699,14 +731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 668216,
-      "num": 333193,
-      "word": "千万别戴这种眼镜",
-      "onboard_time": 1691405855,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 667463,
       "num": 667463,
       "word": "TES对战WBG",
@@ -729,14 +753,6 @@
       "onboard_time": 1691393197,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 658067,
-      "num": 658067,
-      "word": "小夭知道防风邶是相柳了",
-      "onboard_time": 1691404596,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 653266,
@@ -835,14 +851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 573970,
-      "num": 573970,
-      "word": "莲花楼热度反超长相思",
-      "onboard_time": 1691406278,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 570075,
       "num": 449827,
       "word": "易烊千玺出发北京",
@@ -939,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 505020,
+      "num": 819517,
+      "word": "莲花楼",
+      "onboard_time": 1691323440,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 504988,
       "num": 504988,
       "word": "被保护得太好的人有什么特征",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1691366196,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 470124,
+      "num": 470124,
+      "word": "TheShy",
+      "onboard_time": 1691406397,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 469445,
@@ -1092,7 +1116,7 @@
     },
     {
       "raw_hot": 429390,
-      "num": 1152026,
+      "num": 1195065,
       "word": "五常宝宝凌晨转移一声没哭",
       "onboard_time": 1691401840,
       "rank": 1,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1691367280,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 417409,
+      "num": 358054,
+      "word": "莲花楼阎王娶亲案",
+      "onboard_time": 1691407234,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 416589,
@@ -1267,6 +1299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358368,
+      "num": 358368,
+      "word": "日本网友心中的国漫天花板",
+      "onboard_time": 1691406875,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 352889,
       "num": 352889,
       "word": "薛之谦在线帮歌迷牵线",
@@ -1307,12 +1347,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326982,
-      "num": 326982,
+      "raw_hot": 332712,
+      "num": 332712,
       "word": "王俊凯新歌回望",
       "onboard_time": 1691405497,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 332140,
+      "num": 332140,
+      "word": "刘耀文唯一一次赢是因为土豆",
+      "onboard_time": 1691407477,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 324584,
@@ -1321,6 +1369,14 @@
       "onboard_time": 1691333426,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323729,
+      "num": 323729,
+      "word": "夭璟吻戏已经是nextlevel了",
+      "onboard_time": 1691407114,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 323445,
@@ -1347,11 +1403,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 319602,
-      "num": 319602,
-      "word": "TheShy",
-      "onboard_time": 1691406397,
-      "rank": 35,
+      "raw_hot": 319269,
+      "num": 319269,
+      "word": "WBG",
+      "onboard_time": 1691407114,
+      "rank": 34,
       "category": "游戏"
     },
     {
@@ -1433,6 +1489,14 @@
       "onboard_time": 1691328070,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295842,
+      "num": 295842,
+      "word": "小夭戏弄涂山璟",
+      "onboard_time": 1691407538,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 295537,
@@ -1563,14 +1627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 267054,
-      "num": 819517,
-      "word": "莲花楼",
-      "onboard_time": 1691323440,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 264227,
       "num": 819294,
       "word": "七时吉祥定档",
@@ -1619,6 +1675,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 252840,
+      "num": 252840,
+      "word": "温拿乐队正式解散",
+      "onboard_time": 1691407895,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251143,
       "num": 251143,
       "word": "真的会被山东的职场震撼到",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1691402679,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249871,
+      "num": 838346,
+      "word": "游客扔遍地垃圾女子自发去海边捡拾",
+      "onboard_time": 1691405975,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246069,
@@ -1729,6 +1801,14 @@
       "onboard_time": 1691363909,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221194,
+      "num": 221194,
+      "word": "张炯敏直播",
+      "onboard_time": 1691407114,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 219440,
@@ -1883,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191875,
+      "num": 740281,
+      "word": "消防员救援间隙收到妻子产房喜讯",
+      "onboard_time": 1691406695,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190551,
       "num": 212725,
       "word": "逛吃济州岛",
@@ -1955,6 +2043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176207,
+      "num": 190366,
+      "word": "沾满泥巴的手签收了985高校录取通知书",
+      "onboard_time": 1691407655,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 174384,
       "num": 207191,
       "word": "英格兰女足4比2尼日利亚女足",
@@ -1979,6 +2075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161212,
+      "num": 190364,
+      "word": "MISSING和Elk同框",
+      "onboard_time": 1691408015,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153484,
       "num": 818752,
       "word": "地震导致的次声波真的会跟人体器官共振",
@@ -1992,14 +2096,6 @@
       "word": "大妈踩在丹霞地貌上疯狂拍照",
       "onboard_time": 1691315678,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151215,
-      "num": 336273,
-      "word": "消防员救援间隙收到妻子产房喜讯",
-      "onboard_time": 1691406695,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2113,14 +2209,6 @@
       "onboard_time": 1691360958,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118309,
-      "num": 677794,
-      "word": "游客扔遍地垃圾女子自发去海边捡拾",
-      "onboard_time": 1691405975,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113895,
@@ -2251,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46180,
+      "num": 596038,
+      "word": "消防员冷水里排涝脸上热汗不断",
+      "onboard_time": 1691406218,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43670,
       "num": 288230,
       "word": "把OOTD做成多巴胺壁纸",
@@ -2265,14 +2361,6 @@
       "onboard_time": 1691347517,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26324,
-      "num": 596038,
-      "word": "消防员冷水里排涝脸上热汗不断",
-      "onboard_time": 1691406218,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18031,

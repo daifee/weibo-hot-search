@@ -1,0 +1,410 @@
+{
+  "runTime": 1691408034203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1476893,
+        "num": 1476893,
+        "word": "莲花楼热度反超长相思",
+        "onboard_time": 1691406278,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323849,
+        "num": 1195065,
+        "word": "五常宝宝凌晨转移一声没哭",
+        "onboard_time": 1691401840,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59250,
+        "num": 1087261,
+        "word": "舒兰公职人员失联牺牲前奔赴一线画面",
+        "onboard_time": 1691378378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059647,
+        "num": 1059647,
+        "word": "孤注一掷成中国影史点映票房冠军",
+        "onboard_time": 1691403340,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249871,
+        "num": 838346,
+        "word": "游客扔遍地垃圾女子自发去海边捡拾",
+        "onboard_time": 1691405975,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1551645,
+        "num": 817123,
+        "word": "时代峰峻回应TFBOYS很少合体",
+        "onboard_time": 1691397160,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191875,
+        "num": 740281,
+        "word": "消防员救援间隙收到妻子产房喜讯",
+        "onboard_time": 1691406695,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687305,
+        "num": 687305,
+        "word": "小夭知道防风邶是相柳了",
+        "onboard_time": 1691404596,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470124,
+        "num": 470124,
+        "word": "TheShy",
+        "onboard_time": 1691406397,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 613438,
+        "num": 468860,
+        "word": "大王姬脸红了",
+        "onboard_time": 1691404118,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1866426,
+        "num": 467540,
+        "word": "易烊千玺大花轿直拍 被删",
+        "onboard_time": 1691400339,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1606241,
+        "num": 466168,
+        "word": "王楚然新剧原著女主一直翻白眼",
+        "onboard_time": 1691405975,
+        "rank": 11,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 872664,
+        "num": 465265,
+        "word": "比跷二郎腿更坏的坐姿",
+        "onboard_time": 1691400519,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1049418,
+        "num": 463961,
+        "word": "TFBOYS是在擦玻璃吗",
+        "onboard_time": 1691402439,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46180,
+        "num": 462970,
+        "word": "消防员冷水里排涝脸上热汗不断",
+        "onboard_time": 1691406218,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509585,
+        "num": 462019,
+        "word": "倒下的蛋糕 虚假中的真实",
+        "onboard_time": 1691391820,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 620029,
+        "num": 460006,
+        "word": "魔法城堡女主也去了TFBOYS演唱会",
+        "onboard_time": 1691400161,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 459545,
+        "num": 459545,
+        "word": "小龙虾和龙虾有什么区别",
+        "onboard_time": 1691400403,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 424162,
+        "num": 424162,
+        "word": "宁波机场",
+        "onboard_time": 1691399261,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209215,
+        "num": 420049,
+        "word": "舒兰常务副市长最后的语音在布置工作",
+        "onboard_time": 1691399198,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1726567,
+        "num": 409443,
+        "word": "女子便秘10多天体内取出40斤大便",
+        "onboard_time": 1691406818,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747714,
+        "num": 397658,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1691393379,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 505020,
+        "num": 379280,
+        "word": "莲花楼",
+        "onboard_time": 1691407538,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425212,
+        "num": 364499,
+        "word": "TFBOYS各家站姐出图",
+        "onboard_time": 1691398838,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 358368,
+        "num": 358368,
+        "word": "日本网友心中的国漫天花板",
+        "onboard_time": 1691406875,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 422058,
+        "num": 358246,
+        "word": "李现反多巴胺穿搭",
+        "onboard_time": 1691403935,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 417409,
+        "num": 358054,
+        "word": "莲花楼阎王娶亲案",
+        "onboard_time": 1691407234,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357735,
+        "num": 357735,
+        "word": "警方回应男子当街猥亵喝断片女子",
+        "onboard_time": 1691404359,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348736,
+        "num": 348736,
+        "word": "广州emo",
+        "onboard_time": 1691404656,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344892,
+        "num": 344892,
+        "word": "TES对战WBG",
+        "onboard_time": 1691396257,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 697077,
+        "num": 343505,
+        "word": "千万别戴这种眼镜",
+        "onboard_time": 1691405855,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 332712,
+        "num": 332712,
+        "word": "王俊凯新歌回望",
+        "onboard_time": 1691405497,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332140,
+        "num": 332140,
+        "word": "刘耀文唯一一次赢是因为土豆",
+        "onboard_time": 1691407477,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323729,
+        "num": 323729,
+        "word": "夭璟吻戏已经是nextlevel了",
+        "onboard_time": 1691407114,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319269,
+        "num": 319269,
+        "word": "WBG",
+        "onboard_time": 1691407114,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305894,
+        "num": 305894,
+        "word": "中纪委曝光一台直线加速器回扣1600万",
+        "onboard_time": 1691389897,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296608,
+        "num": 296608,
+        "word": "易烊千玺出发北京",
+        "onboard_time": 1691399678,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295842,
+        "num": 295842,
+        "word": "小夭戏弄涂山璟",
+        "onboard_time": 1691407538,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293588,
+        "num": 293588,
+        "word": "村委回应男孩性侵抛尸11岁女童",
+        "onboard_time": 1691385819,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292167,
+        "num": 292167,
+        "word": "曾舜晞说莲花楼有两个结局",
+        "onboard_time": 1691405376,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280631,
+        "num": 280631,
+        "word": "张晚意朋友圈背景图",
+        "onboard_time": 1691403036,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252840,
+        "num": 252840,
+        "word": "温拿乐队正式解散",
+        "onboard_time": 1691407895,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240565,
+        "num": 240565,
+        "word": "王楚然的手机壳",
+        "onboard_time": 1691388218,
+        "rank": 42,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 228018,
+        "num": 228018,
+        "word": "女子生下一女婴3天后又产一子",
+        "onboard_time": 1691378198,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221194,
+        "num": 221194,
+        "word": "张炯敏直播",
+        "onboard_time": 1691407114,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218357,
+        "num": 218357,
+        "word": "酒吧回应网传男子当街猥亵女子",
+        "onboard_time": 1691403759,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213526,
+        "num": 213526,
+        "word": "Somi回归",
+        "onboard_time": 1691399738,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190374,
+        "num": 190374,
+        "word": "Rookie杰斯五杀",
+        "onboard_time": 1691406456,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176207,
+        "num": 190366,
+        "word": "沾满泥巴的手签收了985高校录取通知书",
+        "onboard_time": 1691407655,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 161212,
+        "num": 190364,
+        "word": "MISSING和Elk同框",
+        "onboard_time": 1691408015,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#众志成城同舟共济#"
+    }
+  }
+}
