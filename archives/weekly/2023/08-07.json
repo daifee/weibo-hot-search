@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691379243045,
+  "endTime": 1691382007863,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -43,6 +43,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3373740,
+      "num": 922670,
+      "word": "王源放下话筒之后还在唱",
+      "onboard_time": 1691380059,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3351808,
       "num": 850653,
       "word": "王俊凯王源看着易烊千玺笑",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 2743510,
-      "num": 836205,
+      "num": 938985,
       "word": "月薪2万住不起如家汉庭",
       "onboard_time": 1691375974,
       "rank": 41,
@@ -88,6 +96,14 @@
       "word": "易烊千玺太野了",
       "onboard_time": 1691338190,
       "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 2079435,
+      "num": 719391,
+      "word": "易烊千玺十周年演唱会单人机位",
+      "onboard_time": 1691380785,
+      "rank": 13,
       "category": "音乐"
     },
     {
@@ -107,6 +123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1794522,
+      "num": 720741,
+      "word": "奚安娜",
+      "onboard_time": 1691378919,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1770705,
       "num": 820343,
       "word": "王俊凯回望",
@@ -121,6 +145,30 @@
       "onboard_time": 1691375432,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1544198,
+      "num": 719738,
+      "word": "领导们好像不爱吃火锅",
+      "onboard_time": 1691377537,
+      "rank": 32,
+      "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 1534652,
+      "num": 1534652,
+      "word": "按摩椅能不能离开电影院",
+      "onboard_time": 1691378018,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1442986,
+      "num": 471216,
+      "word": "女子生下一女婴3天后又产一子",
+      "onboard_time": 1691378198,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1433456,
@@ -148,7 +196,7 @@
     },
     {
       "raw_hot": 1219258,
-      "num": 748618,
+      "num": 894906,
       "word": "魏大勋忘记还麦的时候",
       "onboard_time": 1691376757,
       "rank": 6,
@@ -187,19 +235,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1043430,
-      "num": 334995,
-      "word": "女子生下一女婴3天后又产一子",
-      "onboard_time": 1691378198,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1042576,
       "num": 1042576,
       "word": "电影孤注一掷提档",
       "onboard_time": 1691363365,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 949150,
+      "num": 949150,
+      "word": "苍兰诀角色号醒了",
+      "onboard_time": 1691381204,
+      "rank": 1,
       "category": "影视"
     },
     {
@@ -225,6 +273,14 @@
       "onboard_time": 1691371298,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 915884,
+      "num": 915884,
+      "word": "孤注一掷点映中途暂停被观众怒斥",
+      "onboard_time": 1691376757,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 891301,
@@ -275,28 +331,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 750701,
-      "num": 646303,
-      "word": "按摩椅能不能离开电影院",
-      "onboard_time": 1691378018,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 741771,
-      "num": 741771,
-      "word": "孤注一掷点映中途暂停被观众怒斥",
-      "onboard_time": 1691376757,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 726401,
       "num": 726401,
       "word": "央视采访列车被困落坡岭细节太震撼",
       "onboard_time": 1691365233,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 725367,
+      "num": 470801,
+      "word": "很难解释这是巧合还是故意",
+      "onboard_time": 1691379220,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 718269,
+      "num": 718269,
+      "word": "日本电梯真的很适合i人生存",
+      "onboard_time": 1691376215,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 709194,
@@ -307,20 +363,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 698782,
-      "num": 698782,
-      "word": "日本电梯真的很适合i人生存",
-      "onboard_time": 1691376215,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 698563,
       "num": 821458,
       "word": "原来穿高跟鞋从背后看是这样的",
       "onboard_time": 1691332810,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 632571,
+      "num": 632571,
+      "word": "爱宝双胞胎宝宝满月照",
+      "onboard_time": 1691380303,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622719,
@@ -355,20 +411,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 564215,
+      "num": 722138,
+      "word": "舒兰公职人员失联牺牲前奔赴一线画面",
+      "onboard_time": 1691378378,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543687,
       "num": 820577,
       "word": "部分网友称有偿共享TFBOYS直播屏幕",
       "onboard_time": 1691335930,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 540190,
-      "num": 322289,
-      "word": "领导们好像不爱吃火锅",
-      "onboard_time": 1691377537,
-      "rank": 32,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 532620,
@@ -412,19 +468,19 @@
     },
     {
       "raw_hot": 490275,
-      "num": 331487,
+      "num": 365929,
       "word": "这口臭绝对不是我的",
       "onboard_time": 1691376395,
       "rank": 31,
       "category": "幽默"
     },
     {
-      "raw_hot": 487419,
-      "num": 265363,
-      "word": "很难解释这是巧合还是故意",
-      "onboard_time": 1691379220,
-      "rank": 37,
-      "category": "作品衍生"
+      "raw_hot": 488732,
+      "num": 418007,
+      "word": "王楚然海棠笑春风出妆饭拍",
+      "onboard_time": 1691380962,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 483673,
@@ -443,12 +499,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 459820,
-      "num": 327153,
-      "word": "奚安娜",
-      "onboard_time": 1691378919,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 470103,
+      "num": 470103,
+      "word": "被保护得太好的人有什么特征",
+      "onboard_time": 1691377300,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 455083,
+      "num": 416444,
+      "word": "大汉赋",
+      "onboard_time": 1691379881,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 446513,
@@ -467,20 +531,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 430445,
-      "num": 336366,
-      "word": "被保护得太好的人有什么特征",
-      "onboard_time": 1691377300,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 427242,
       "num": 820166,
       "word": "刘宪华贵阳",
       "onboard_time": 1691334692,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 420116,
+      "num": 420116,
+      "word": "迈阿密国际逆转淘汰达拉斯",
+      "onboard_time": 1691381324,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 418035,
@@ -491,12 +555,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 412407,
+      "num": 412407,
+      "word": "梅西4场6球",
+      "onboard_time": 1691375254,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 409079,
       "num": 409079,
       "word": "黑龙江吉林抗洪压力较大",
       "onboard_time": 1691375073,
       "rank": 18,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 405306,
+      "num": 405306,
+      "word": "苍兰诀再登顶爱奇艺热度榜",
+      "onboard_time": 1691381503,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 401080,
@@ -521,6 +601,14 @@
       "onboard_time": 1691376334,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352889,
+      "num": 352889,
+      "word": "薛之谦在线帮歌迷牵线",
+      "onboard_time": 1691377836,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 340763,
@@ -609,6 +697,14 @@
       "onboard_time": 1691368304,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281420,
+      "num": 281420,
+      "word": "七时吉祥",
+      "onboard_time": 1691378739,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 280628,
@@ -723,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241668,
-      "num": 241668,
-      "word": "七时吉祥",
-      "onboard_time": 1691378739,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 235923,
       "num": 235923,
       "word": "安徽一高校录取通知书出现错字",
@@ -763,22 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225214,
-      "num": 225214,
-      "word": "梅西4场6球",
-      "onboard_time": 1691375254,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 223041,
-      "num": 223041,
-      "word": "薛之谦在线帮歌迷牵线",
-      "onboard_time": 1691377836,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 221828,
       "num": 221828,
       "word": "流鼻血时别再仰头了",
@@ -793,6 +865,14 @@
       "onboard_time": 1691327891,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219350,
+      "num": 219350,
+      "word": "经常喝咖啡把命喝苦了",
+      "onboard_time": 1691381863,
+      "rank": 46,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 218523,
@@ -819,12 +899,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198690,
-      "num": 335687,
-      "word": "舒兰公职人员失联牺牲前奔赴一线画面",
-      "onboard_time": 1691378378,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 202032,
+      "num": 205805,
+      "word": "鹿晗武汉演唱会",
+      "onboard_time": 1691381503,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 196521,
@@ -897,6 +977,14 @@
       "onboard_time": 1691313701,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173160,
+      "num": 929097,
+      "word": "武警对舒兰受灾区域全力开展搜救",
+      "onboard_time": 1691377899,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171265,
@@ -979,6 +1067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128166,
+      "num": 718536,
+      "word": "地震时他们仨不约而同敲响邻居的门",
+      "onboard_time": 1691380844,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127296,
       "num": 817559,
       "word": "XYG状态",
@@ -993,14 +1089,6 @@
       "onboard_time": 1691329401,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123256,
-      "num": 819016,
-      "word": "武警对舒兰受灾区域全力开展搜救",
-      "onboard_time": 1691377899,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119719,
@@ -1019,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113467,
+      "num": 944381,
+      "word": "防汛最新信息汇总",
+      "onboard_time": 1691378138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112576,
       "num": 210906,
       "word": "达拉斯vs迈阿密国际",
@@ -1033,14 +1129,6 @@
       "onboard_time": 1691324220,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99340,
-      "num": 862751,
-      "word": "防汛最新信息汇总",
-      "onboard_time": 1691378138,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99315,
