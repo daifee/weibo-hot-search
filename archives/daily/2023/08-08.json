@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691440443736,
+  "endTime": 1691442872075,
   "band_list": [
     {
       "raw_hot": 1602658,
@@ -443,20 +443,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120607,
+      "num": 39467,
+      "word": "嘎子哥该如何自证没有诈捐物资",
+      "onboard_time": 1691437934,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103506,
       "num": 103506,
       "word": "胡夏张含韵Gemini梦幻组合",
       "onboard_time": 1691430979,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96013,
-      "num": 30095,
-      "word": "嘎子哥该如何自证没有诈捐物资",
-      "onboard_time": 1691437934,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 82516,
@@ -571,20 +571,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 26529,
+      "num": 26944,
+      "word": "TFBOYS十年之约演唱会",
+      "onboard_time": 1691320248,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 22883,
       "num": 29846,
       "word": "超导",
       "onboard_time": 1691436494,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 22249,
-      "num": 26944,
-      "word": "TFBOYS十年之约演唱会",
-      "onboard_time": 1691320248,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 13414,

@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691440443736,
+  "endTime": 1691442872075,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -17667,6 +17667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120607,
+      "num": 39467,
+      "word": "嘎子哥该如何自证没有诈捐物资",
+      "onboard_time": 1691437934,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120595,
       "num": 768403,
       "word": "兰蔻直播",
@@ -18025,14 +18033,6 @@
       "onboard_time": 1691205514,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96013,
-      "num": 30095,
-      "word": "嘎子哥该如何自证没有诈捐物资",
-      "onboard_time": 1691437934,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 95550,
