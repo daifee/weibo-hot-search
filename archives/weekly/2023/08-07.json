@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691425287978,
+  "endTime": 1691426212626,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -307,8 +307,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1489466,
-      "num": 1489466,
+      "raw_hot": 1521954,
+      "num": 1521954,
       "word": "福原爱被法院强制执行",
       "onboard_time": 1691422363,
       "rank": 0,
@@ -753,6 +753,14 @@
       "onboard_time": 1691375193,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 798967,
+      "num": 798967,
+      "word": "zzr",
+      "onboard_time": 1691420919,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 795626,
@@ -1435,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439572,
+      "num": 439572,
+      "word": "卡莎",
+      "onboard_time": 1691424158,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 438269,
       "num": 310926,
       "word": "长相思卡点夭夭零六",
@@ -1771,14 +1787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 353601,
-      "num": 353601,
-      "word": "zzr",
-      "onboard_time": 1691420919,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 352889,
       "num": 352889,
       "word": "薛之谦在线帮歌迷牵线",
@@ -2091,14 +2099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283689,
-      "num": 283689,
-      "word": "卡莎",
-      "onboard_time": 1691424158,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 281420,
       "num": 281420,
       "word": "七时吉祥",
@@ -2145,6 +2145,14 @@
       "onboard_time": 1691405975,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275602,
+      "num": 275602,
+      "word": "我的睡前的烦恼vs别人的睡前烦恼",
+      "onboard_time": 1691422599,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 273818,
@@ -2201,14 +2209,6 @@
       "onboard_time": 1691376818,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 265046,
-      "num": 265046,
-      "word": "我的睡前的烦恼vs别人的睡前烦恼",
-      "onboard_time": 1691422599,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 264227,

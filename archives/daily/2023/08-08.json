@@ -1,18 +1,18 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691425287978,
+  "endTime": 1691426212626,
   "band_list": [
     {
       "raw_hot": 1602658,
-      "num": 603198,
+      "num": 607521,
       "word": "易烊千玺一朝回到解放前",
       "onboard_time": 1691420679,
       "rank": 5,
       "category": "音乐"
     },
     {
-      "raw_hot": 1489466,
-      "num": 1489466,
+      "raw_hot": 1521954,
+      "num": 1521954,
       "word": "福原爱被法院强制执行",
       "onboard_time": 1691422363,
       "rank": 0,
@@ -33,6 +33,14 @@
       "onboard_time": 1691418221,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 798967,
+      "num": 798967,
+      "word": "zzr",
+      "onboard_time": 1691420919,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 797525,
@@ -83,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510641,
+      "num": 362062,
+      "word": "一个姐姐离婚时发的朋友圈",
+      "onboard_time": 1691393379,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 508307,
       "num": 484234,
       "word": "易烊千玺大花轿直拍 被删",
       "onboard_time": 1691400339,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 493055,
-      "num": 362062,
-      "word": "一个姐姐离婚时发的朋友圈",
-      "onboard_time": 1691393379,
-      "rank": 23,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 487432,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 466723,
-      "num": 366764,
+      "num": 394824,
       "word": "长相思梅林殉情",
       "onboard_time": 1691412275,
       "rank": 18,
@@ -153,6 +161,14 @@
       "onboard_time": 1691400519,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 439572,
+      "num": 439572,
+      "word": "卡莎",
+      "onboard_time": 1691424158,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 377575,
@@ -195,16 +211,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 353601,
-      "num": 353601,
-      "word": "zzr",
-      "onboard_time": 1691420919,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 323597,
-      "num": 323597,
+      "num": 330713,
       "word": "TES发文告别S13",
       "onboard_time": 1691417918,
       "rank": 27,
@@ -217,14 +225,6 @@
       "onboard_time": 1691421278,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 283689,
-      "num": 283689,
-      "word": "卡莎",
-      "onboard_time": 1691424158,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 277517,
@@ -251,8 +251,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265046,
-      "num": 265046,
+      "raw_hot": 275602,
+      "num": 275602,
       "word": "我的睡前的烦恼vs别人的睡前烦恼",
       "onboard_time": 1691422599,
       "rank": 34,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 246417,
-      "num": 647973,
+      "num": 682822,
       "word": "陆军某旅千人百车驰援舒兰",
       "onboard_time": 1691420980,
       "rank": 4,
@@ -379,6 +379,14 @@
       "category": "财经,幽默"
     },
     {
+      "raw_hot": 151116,
+      "num": 195568,
+      "word": "时代峰峻回应TFBOYS很少合体",
+      "onboard_time": 1691397160,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141791,
       "num": 235523,
       "word": "WBG战胜TES",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 44607,
-      "num": 746710,
+      "num": 780927,
       "word": "汛情过后健康防护要点",
       "onboard_time": 1691414378,
       "rank": 2,
