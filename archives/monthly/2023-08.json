@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691446524313,
+  "endTime": 1691447607092,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -12267,6 +12267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289874,
+      "num": 130120,
+      "word": "女主播年入50万花近三万相亲",
+      "onboard_time": 1691445375,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289331,
       "num": 289331,
       "word": "张惠妹上海",
@@ -13305,6 +13313,14 @@
       "onboard_time": 1691067757,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251611,
+      "num": 128835,
+      "word": "嘎子哥该如何自证没有诈捐物资",
+      "onboard_time": 1691437934,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 251309,
@@ -14937,14 +14953,6 @@
       "onboard_time": 1691224057,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209178,
-      "num": 98026,
-      "word": "嘎子哥该如何自证没有诈捐物资",
-      "onboard_time": 1691437934,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 209134,
@@ -17659,14 +17667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121201,
-      "num": 44495,
-      "word": "女主播年入50万花近三万相亲",
-      "onboard_time": 1691445375,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121186,
       "num": 944381,
       "word": "防汛最新信息汇总",
@@ -18259,6 +18259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69275,
+      "num": 62515,
+      "word": "男子喝笋汤发现碗内暗藏玄机",
+      "onboard_time": 1691436135,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68119,
       "num": 513441,
       "word": "成都大运会文化输出这块拿捏了",
@@ -18275,6 +18283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64506,
+      "num": 64506,
+      "word": "现在的小说是相当炸裂啊",
+      "onboard_time": 1691434275,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64502,
       "num": 670132,
       "word": "他们扛沙袋冒雨逆行的背影让人泪目",
@@ -18289,6 +18305,14 @@
       "onboard_time": 1691391699,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61982,
+      "num": 61982,
+      "word": "小哥每天自拍直到找到女朋友为止",
+      "onboard_time": 1691430079,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 61716,
@@ -18323,12 +18347,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 59381,
-      "num": 51319,
-      "word": "小哥每天自拍直到找到女朋友为止",
-      "onboard_time": 1691430079,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 60169,
+      "num": 60169,
+      "word": "他给的实在是太多了",
+      "onboard_time": 1691443994,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 57920,
@@ -18345,14 +18369,6 @@
       "onboard_time": 1690970434,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 55502,
-      "num": 44422,
-      "word": "男子喝笋汤发现碗内暗藏玄机",
-      "onboard_time": 1691436135,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54951,
@@ -18419,12 +18435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48794,
-      "num": 48794,
-      "word": "现在的小说是相当炸裂啊",
-      "onboard_time": 1691434275,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 49289,
+      "num": 49289,
+      "word": "射手座容易被误解的一面",
+      "onboard_time": 1691427866,
+      "rank": 36,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 48210,
@@ -18483,12 +18499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42001,
-      "num": 42001,
-      "word": "射手座容易被误解的一面",
-      "onboard_time": 1691427866,
-      "rank": 36,
-      "category": "情感,网红"
+      "raw_hot": 42265,
+      "num": 42265,
+      "word": "如何找到自己的穿衣风格",
+      "onboard_time": 1691446577,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 41603,
@@ -18545,14 +18561,6 @@
       "onboard_time": 1691174957,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 31641,
-      "num": 38673,
-      "word": "他给的实在是太多了",
-      "onboard_time": 1691443994,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 30962,
@@ -18699,6 +18707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 16584,
+      "num": 617524,
+      "word": "7个数字揭秘大运会闭幕式",
+      "onboard_time": 1691414196,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16462,
       "num": 207962,
       "word": "饿了么宣布为视障用户造节",
@@ -18712,14 +18728,6 @@
       "word": "有一种友谊是相差46岁的忘年交",
       "onboard_time": 1690924032,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15029,
-      "num": 617524,
-      "word": "7个数字揭秘大运会闭幕式",
-      "onboard_time": 1691414196,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
