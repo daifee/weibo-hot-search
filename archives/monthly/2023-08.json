@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691371318710,
+  "endTime": 1691372704568,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 3351808,
-      "num": 822574,
+      "num": 850653,
       "word": "王俊凯王源看着易烊千玺笑",
       "onboard_time": 1691338190,
       "rank": 13,
@@ -1651,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1343542,
+      "num": 850677,
+      "word": "张艺兴金晨情头",
+      "onboard_time": 1691364576,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1337952,
       "num": 1144678,
       "word": "被CardiB扔话筒当事人已报案",
@@ -1825,14 +1833,6 @@
       "onboard_time": 1691074602,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1285528,
-      "num": 824751,
-      "word": "张艺兴金晨情头",
-      "onboard_time": 1691364576,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 1282965,
@@ -2297,6 +2297,14 @@
       "onboard_time": 1691046274,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1096321,
+      "num": 1096321,
+      "word": "原来真的有人一运动就过敏",
+      "onboard_time": 1691367578,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1096196,
@@ -3027,14 +3035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 928606,
-      "num": 928606,
-      "word": "原来真的有人一运动就过敏",
-      "onboard_time": 1691367578,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 928083,
       "num": 928083,
       "word": "王传君戏份",
@@ -3491,6 +3491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 839083,
+      "num": 839083,
+      "word": "滔搏 报点",
+      "onboard_time": 1691368660,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 838807,
       "num": 838807,
       "word": "迪丽热巴回应综艺计划",
@@ -3553,6 +3561,14 @@
       "onboard_time": 1691241348,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 829657,
+      "num": 829657,
+      "word": "强降雨已致舒兰14人遇难",
+      "onboard_time": 1691371298,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 829505,
@@ -3769,14 +3785,6 @@
       "onboard_time": 1691019446,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 798117,
-      "num": 798117,
-      "word": "滔搏 报点",
-      "onboard_time": 1691368660,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 796557,
@@ -5659,6 +5667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 582574,
+      "num": 260556,
+      "word": "重庆的猫啊那没事了",
+      "onboard_time": 1691368540,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 582195,
       "num": 582195,
       "word": "养猫人不适合穿破洞裤",
@@ -5776,14 +5792,6 @@
       "word": "小金毛居然是臭的",
       "onboard_time": 1690961494,
       "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 570927,
-      "num": 257476,
-      "word": "重庆的猫啊那没事了",
-      "onboard_time": 1691368540,
-      "rank": 20,
       "category": "幽默"
     },
     {
@@ -6283,6 +6291,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 532620,
+      "num": 257634,
+      "word": "35岁后最舒服的生活状态",
+      "onboard_time": 1691367701,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 532568,
       "num": 161806,
       "word": "易烊千玺话筒",
@@ -6480,6 +6496,14 @@
       "word": "迪丽热巴帝梓元白发婚服",
       "onboard_time": 1691282201,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 517806,
+      "num": 517806,
+      "word": "于适成为姬发",
+      "onboard_time": 1691368179,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -7012,19 +7036,11 @@
     },
     {
       "raw_hot": 483673,
-      "num": 255240,
+      "num": 468008,
       "word": "涂山璟 智计无双细节点",
       "onboard_time": 1691368419,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 482845,
-      "num": 251647,
-      "word": "35岁后最舒服的生活状态",
-      "onboard_time": 1691367701,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 482372,
@@ -9403,6 +9419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340763,
+      "num": 657128,
+      "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
+      "onboard_time": 1691363728,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340418,
       "num": 340418,
       "word": "刷屏全网的乘务员接受采访时落泪了",
@@ -9489,14 +9513,6 @@
       "onboard_time": 1691116295,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 337274,
-      "num": 657128,
-      "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
-      "onboard_time": 1691363728,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336911,
@@ -10025,14 +10041,6 @@
       "onboard_time": 1691227475,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 312904,
-      "num": 246208,
-      "word": "于适成为姬发",
-      "onboard_time": 1691368179,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 312724,
@@ -10777,6 +10785,14 @@
       "onboard_time": 1691059774,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285560,
+      "num": 859743,
+      "word": "河段水位上升官兵们冒雨垒筑沙袋",
+      "onboard_time": 1691368304,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285186,
@@ -11648,14 +11664,6 @@
       "word": "牺牲消防员墓前摆了他生前爱吃的棒棒糖",
       "onboard_time": 1691304273,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248853,
-      "num": 835667,
-      "word": "河段水位上升官兵们冒雨垒筑沙袋",
-      "onboard_time": 1691368304,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -15448,14 +15456,6 @@
       "word": "暴雨来临书记劝说居民搬离危险区",
       "onboard_time": 1690873232,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129919,
-      "num": 209680,
-      "word": "强降雨已致舒兰14人遇难",
-      "onboard_time": 1691371298,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
