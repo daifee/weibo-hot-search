@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691471735489,
+  "endTime": 1691472830936,
   "band_list": [
     {
       "raw_hot": 2234731,
@@ -59,6 +59,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1591502,
+      "num": 1591502,
+      "word": "嫡谋 杨紫龚俊",
+      "onboard_time": 1691470602,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1521954,
       "num": 1521954,
       "word": "福原爱被法院强制执行",
@@ -75,8 +83,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1421216,
+      "num": 594899,
+      "word": "赵丽颖第一次发儿子想想",
+      "onboard_time": 1691472217,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1389360,
-      "num": 1030095,
+      "num": 1048822,
       "word": "TFBOYS演唱会带动4.16亿旅游收入",
       "onboard_time": 1691460272,
       "rank": 16,
@@ -99,12 +115,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1244330,
-      "num": 1244330,
-      "word": "嫡谋 杨紫龚俊",
-      "onboard_time": 1691470602,
-      "rank": 1,
-      "category": "影视"
+      "raw_hot": 1292924,
+      "num": 1292924,
+      "word": "万达高级副总裁刘海波被公安带走",
+      "onboard_time": 1691470362,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1205865,
@@ -203,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 958532,
+      "num": 958532,
+      "word": "很喜欢今年的8月8",
+      "onboard_time": 1691470780,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 915531,
       "num": 915531,
       "word": "玱玹终于有点像疯子了",
@@ -225,14 +249,6 @@
       "onboard_time": 1691460692,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 903225,
-      "num": 630435,
-      "word": "万达高级副总裁刘海波被公安带走",
-      "onboard_time": 1691470362,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 840106,
@@ -259,20 +275,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 797300,
+      "num": 627053,
+      "word": "晋江大大们都好美",
+      "onboard_time": 1691470538,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 732467,
       "num": 908130,
       "word": "不小心把芒果弄璋了",
       "onboard_time": 1691464475,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 692482,
-      "num": 627053,
-      "word": "晋江大大们都好美",
-      "onboard_time": 1691470538,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 681712,
@@ -339,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 584633,
+      "num": 584633,
+      "word": "外地人被内蒙人吃肉吓到了",
+      "onboard_time": 1691468316,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 581825,
       "num": 581825,
       "word": "檀健次夸有杨紫的地方不会冷场",
@@ -385,14 +409,6 @@
       "onboard_time": 1691467657,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 540017,
-      "num": 540017,
-      "word": "外地人被内蒙人吃肉吓到了",
-      "onboard_time": 1691468316,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 527691,
@@ -457,14 +473,6 @@
       "onboard_time": 1691400339,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 503561,
-      "num": 503561,
-      "word": "很喜欢今年的8月8",
-      "onboard_time": 1691470780,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 494692,
@@ -755,6 +763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 332369,
+      "num": 332369,
+      "word": "暑期档看不过来了",
+      "onboard_time": 1691471739,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323597,
       "num": 330713,
       "word": "TES发文告别S13",
@@ -800,6 +816,14 @@
       "word": "檀健次长相思一秒变脸",
       "onboard_time": 1691459853,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 302602,
+      "num": 284914,
+      "word": "大鹏王一博亮相热烈泰国首映",
+      "onboard_time": 1691471620,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -859,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284914,
-      "num": 284914,
-      "word": "大鹏王一博亮相热烈泰国首映",
-      "onboard_time": 1691471620,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 282475,
       "num": 302377,
       "word": "用不完的肥皂头子怎么处理",
@@ -921,6 +937,14 @@
       "onboard_time": 1691422599,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 271797,
+      "num": 271797,
+      "word": "司机成功预判了碰瓷大爷的预判",
+      "onboard_time": 1691471440,
+      "rank": 38,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 268574,
@@ -1043,14 +1067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234522,
-      "num": 234522,
-      "word": "司机成功预判了碰瓷大爷的预判",
-      "onboard_time": 1691471440,
-      "rank": 38,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 233315,
       "num": 233315,
       "word": "小夭说防风邶是狗狗邶",
@@ -1155,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204285,
+      "num": 204285,
+      "word": "卡芙卡",
+      "onboard_time": 1691472458,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202411,
       "num": 236936,
       "word": "莲花楼阎王娶亲案",
@@ -1196,7 +1220,7 @@
     },
     {
       "raw_hot": 198553,
-      "num": 198553,
+      "num": 199974,
       "word": "适合演霸总的男演员",
       "onboard_time": 1691471559,
       "rank": 48,
@@ -1219,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189723,
+      "num": 199995,
+      "word": "全职高手3动画",
+      "onboard_time": 1691471739,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 189528,
       "num": 189528,
       "word": "男子喝笋汤发现碗内暗藏玄机",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1691460994,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181990,
+      "num": 199976,
+      "word": "热烈",
+      "onboard_time": 1691472698,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 181825,
@@ -1281,6 +1321,14 @@
       "onboard_time": 1691415160,
       "rank": 47,
       "category": "财经,幽默"
+    },
+    {
+      "raw_hot": 152405,
+      "num": 199951,
+      "word": "双胞胎满月爱宝可以放松一些了",
+      "onboard_time": 1691472819,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151116,
@@ -1428,7 +1476,7 @@
     },
     {
       "raw_hot": 51001,
-      "num": 1085167,
+      "num": 1311472,
       "word": "暴雨洪涝防疫指南",
       "onboard_time": 1691463935,
       "rank": 2,
