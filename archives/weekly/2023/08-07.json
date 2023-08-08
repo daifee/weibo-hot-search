@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691489859117,
+  "endTime": 1691490820557,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -731,12 +731,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1147938,
+      "num": 1147938,
+      "word": "Meiko打字15",
+      "onboard_time": 1691489134,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1147519,
       "num": 1147519,
       "word": "接近碧桂园人士称被进驻传言不实",
       "onboard_time": 1691392597,
       "rank": 1,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1142271,
+      "num": 1142271,
+      "word": "10岁白血病小女孩离世前嫁给男友",
+      "onboard_time": 1691486737,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135765,
@@ -803,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1079947,
-      "num": 1079947,
-      "word": "Meiko打字15",
-      "onboard_time": 1691489134,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1077966,
       "num": 1077966,
       "word": "TES对战WBG",
@@ -851,14 +859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1052267,
-      "num": 1052267,
-      "word": "10岁白血病小女孩离世前嫁给男友",
-      "onboard_time": 1691486737,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1042576,
       "num": 1042576,
       "word": "电影孤注一掷提档",
@@ -881,6 +881,14 @@
       "onboard_time": 1691479118,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1010256,
+      "num": 1010256,
+      "word": "张小凡黑化入魔",
+      "onboard_time": 1691488422,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 999158,
@@ -1259,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 726852,
-      "num": 726852,
-      "word": "张小凡黑化入魔",
-      "onboard_time": 1691488422,
-      "rank": 16,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 726401,
       "num": 726401,
       "word": "央视采访列车被困落坡岭细节太震撼",
@@ -1313,6 +1313,14 @@
       "onboard_time": 1691398599,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 710237,
+      "num": 710237,
+      "word": "爱奇艺",
+      "onboard_time": 1691489674,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 709194,
@@ -1731,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562183,
+      "num": 562183,
+      "word": "张杰巡演北京鸟巢站官宣",
+      "onboard_time": 1691488663,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 561217,
       "num": 477818,
       "word": "李现反多巴胺穿搭",
@@ -1755,6 +1771,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 550121,
+      "num": 550121,
+      "word": "SMTOWN艺人要走光了",
+      "onboard_time": 1691489197,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549462,
       "num": 486329,
       "word": "弟弟暑假工两个月成为公司骨干",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1691467657,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 547935,
+      "num": 547935,
+      "word": "女朋友让我续费会员",
+      "onboard_time": 1691488535,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 547167,
@@ -1913,14 +1945,6 @@
       "onboard_time": 1691467599,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 506279,
-      "num": 506279,
-      "word": "张杰巡演北京鸟巢站官宣",
-      "onboard_time": 1691488663,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 505020,
@@ -2131,14 +2155,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 457001,
-      "num": 457001,
-      "word": "女朋友让我续费会员",
-      "onboard_time": 1691488535,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 455222,
       "num": 455222,
       "word": "刘亦菲抹胸蝴蝶结粉裙",
@@ -2283,14 +2299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 424875,
-      "num": 424875,
-      "word": "SMTOWN艺人要走光了",
-      "onboard_time": 1691489197,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 424355,
       "num": 361862,
       "word": "在村里小卖部打印的准考证",
@@ -2308,7 +2316,7 @@
     },
     {
       "raw_hot": 422668,
-      "num": 1071901,
+      "num": 1144456,
       "word": "山东多家医院推出免费自助厨房",
       "onboard_time": 1691484759,
       "rank": 18,
@@ -2427,6 +2435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 404269,
+      "num": 1606629,
+      "word": "小朋友在医院角落一口气跳舞2小时",
+      "onboard_time": 1691484396,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401080,
       "num": 822928,
       "word": "要离职的人状态真的很不一样",
@@ -2505,14 +2521,6 @@
       "onboard_time": 1691383848,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 395453,
-      "num": 1606629,
-      "word": "小朋友在医院角落一口气跳舞2小时",
-      "onboard_time": 1691484396,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394770,
@@ -2713,6 +2721,14 @@
       "onboard_time": 1691377836,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 350524,
+      "num": 350524,
+      "word": "在银行自尊心低到谷底",
+      "onboard_time": 1691489434,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 350251,
@@ -3571,6 +3587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 240398,
+      "num": 240398,
+      "word": "王一博说不可以但是笑了",
+      "onboard_time": 1691490575,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239448,
       "num": 239448,
       "word": "听说很好吃第三季官宣",
@@ -3723,22 +3747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224141,
-      "num": 224141,
-      "word": "在银行自尊心低到谷底",
-      "onboard_time": 1691489434,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 222866,
-      "num": 222866,
-      "word": "爱奇艺",
-      "onboard_time": 1691489674,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 222064,
       "num": 208745,
       "word": "边伯贤直播",
@@ -3865,6 +3873,14 @@
       "onboard_time": 1691385578,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211950,
+      "num": 211950,
+      "word": "稚楚关于融梗抄袭发声",
+      "onboard_time": 1691490634,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211239,
@@ -4331,6 +4347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167285,
+      "num": 194052,
+      "word": "Tabe他真的我哭死",
+      "onboard_time": 1691490575,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164739,
       "num": 82021,
       "word": "王源对十年前自己说的话",
@@ -4531,6 +4555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130823,
+      "num": 1042458,
+      "word": "永远会被中国人的团结互助感动",
+      "onboard_time": 1691490034,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130804,
       "num": 743677,
       "word": "56岁救援队长连续施救4昼夜脚磨出3厘米血泡",
@@ -4715,6 +4747,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 73948,
+      "num": 753670,
+      "word": "用成都打开成都",
+      "onboard_time": 1691488839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73031,
+      "num": 1299847,
+      "word": "我在国门一线",
+      "onboard_time": 1691489019,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72472,
       "num": 1045608,
       "word": "被大运会中国95后的自信狠狠拿捏",
@@ -4779,35 +4827,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60443,
+      "num": 935280,
+      "word": "空中俯瞰消防在五常洪水中一路逆行",
+      "onboard_time": 1691484698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58599,
       "num": 668068,
       "word": "子弟兵蹚淤泥推舟为村民送物资",
       "onboard_time": 1691468800,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57689,
-      "num": 1299847,
-      "word": "我在国门一线",
-      "onboard_time": 1691489019,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56949,
-      "num": 753670,
-      "word": "用成都打开成都",
-      "onboard_time": 1691488839,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55859,
-      "num": 935280,
-      "word": "空中俯瞰消防在五常洪水中一路逆行",
-      "onboard_time": 1691484698,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
