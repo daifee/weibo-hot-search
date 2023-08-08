@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691458968114,
+  "endTime": 1691461867192,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -121,6 +121,14 @@
       "onboard_time": 1691375974,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 2234731,
+      "num": 586397,
+      "word": "知名网红疑被前任闺蜜偷家",
+      "onboard_time": 1691457574,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2223994,
@@ -307,14 +315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1587769,
-      "num": 586397,
-      "word": "知名网红疑被前任闺蜜偷家",
-      "onboard_time": 1691457574,
-      "rank": 11,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1580057,
       "num": 1580057,
       "word": "台风卡努大转弯或将登陆我国",
@@ -353,6 +353,14 @@
       "onboard_time": 1691381863,
       "rank": 46,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 1472090,
+      "num": 558570,
+      "word": "张艺凡方放节目争议片段回应",
+      "onboard_time": 1691458593,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1469400,
@@ -667,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1043102,
+      "num": 474301,
+      "word": "黄锐 人太多没进场",
+      "onboard_time": 1691460212,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1042576,
       "num": 1042576,
       "word": "电影孤注一掷提档",
@@ -689,6 +705,14 @@
       "onboard_time": 1691419724,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 976759,
+      "num": 497835,
+      "word": "高三老师付费请学生看TFBOYS演唱会直播",
+      "onboard_time": 1691459552,
+      "rank": 13,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 959727,
@@ -971,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 707586,
+      "num": 450798,
+      "word": "TFBOYS演唱会带动4.16亿旅游收入",
+      "onboard_time": 1691460272,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 704028,
       "num": 704028,
       "word": "错觉式分手",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1691399738,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 681712,
+      "num": 681712,
+      "word": "王传君 不像演的",
+      "onboard_time": 1691460093,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 679875,
@@ -1203,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 589028,
+      "num": 589028,
+      "word": "杨紫包场孤注一掷",
+      "onboard_time": 1691460692,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 588512,
       "num": 823195,
       "word": "直到25岁我才真正读完了中学",
@@ -1281,14 +1329,6 @@
       "onboard_time": 1691403935,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 558570,
-      "num": 558570,
-      "word": "张艺凡方放节目争议片段回应",
-      "onboard_time": 1691458593,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 558019,
@@ -1819,6 +1859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 397805,
+      "num": 397805,
+      "word": "朴叙俊回应拒绝戴发箍",
+      "onboard_time": 1691460155,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397710,
       "num": 304834,
       "word": "虞书欣苍兰诀片场拍的林柏叡",
@@ -1884,7 +1932,7 @@
     },
     {
       "raw_hot": 377699,
-      "num": 293399,
+      "num": 360934,
       "word": "伯贤成立个人公司",
       "onboard_time": 1691457574,
       "rank": 25,
@@ -1987,6 +2035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353956,
+      "num": 353956,
+      "word": "媒体评嘎子哥回应捐物资作假",
+      "onboard_time": 1691459072,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 352889,
       "num": 352889,
       "word": "薛之谦在线帮歌迷牵线",
@@ -2075,6 +2131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 322350,
+      "num": 322350,
+      "word": "金泰亨solo出道曲",
+      "onboard_time": 1691458952,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 320560,
       "num": 820013,
       "word": "孤注一掷刷新中国影史点映单日票房纪录",
@@ -2147,6 +2211,14 @@
       "category": "财经,幽默"
     },
     {
+      "raw_hot": 310022,
+      "num": 310022,
+      "word": "张元英接发了",
+      "onboard_time": 1691460873,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308658,
       "num": 308658,
       "word": "电影热烈的舞者今天拿到了世界冠军",
@@ -2203,6 +2275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301234,
+      "num": 301234,
+      "word": "檀健次长相思一秒变脸",
+      "onboard_time": 1691459853,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 299517,
+      "num": 299517,
+      "word": "泰国人用王一博当签证表格模板",
+      "onboard_time": 1691461654,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298249,
       "num": 822342,
       "word": "广州80岁名医逝世当天仍在出门诊",
@@ -2217,6 +2305,14 @@
       "onboard_time": 1691419966,
       "rank": 37,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 296522,
+      "num": 236505,
+      "word": "大肚娃娃是相柳对小夭的一往情深",
+      "onboard_time": 1691459672,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 296342,
@@ -2275,6 +2371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292908,
+      "num": 398744,
+      "word": "李玟老公申请死因调查",
+      "onboard_time": 1691461775,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 288010,
       "num": 234677,
       "word": "杨紫张晚意片场烧烤花絮",
@@ -2313,6 +2417,14 @@
       "onboard_time": 1691368304,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282475,
+      "num": 302377,
+      "word": "用不完的肥皂头子怎么处理",
+      "onboard_time": 1691460031,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 281420,
@@ -2579,12 +2691,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239260,
+      "num": 236141,
+      "word": "夭璟互相吃醋",
+      "onboard_time": 1691459313,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236757,
       "num": 238089,
       "word": "APP推送能不能别假装来信",
       "onboard_time": 1691394579,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236566,
+      "num": 236566,
+      "word": "立秋吃什么",
+      "onboard_time": 1691460692,
+      "rank": 34,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 235923,
@@ -2643,8 +2771,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226559,
-      "num": 226559,
+      "raw_hot": 226678,
+      "num": 226678,
       "word": "十个勤天直播",
       "onboard_time": 1691457934,
       "rank": 35,
@@ -2891,14 +3019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191359,
-      "num": 161596,
-      "word": "金泰亨solo出道曲",
-      "onboard_time": 1691458952,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 190551,
       "num": 212725,
       "word": "逛吃济州岛",
@@ -2945,6 +3065,14 @@
       "onboard_time": 1691411735,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182616,
+      "num": 182616,
+      "word": "大连理工喊小姚9月一起看海",
+      "onboard_time": 1691460994,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182086,
@@ -3057,6 +3185,14 @@
       "onboard_time": 1691408015,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156334,
+      "num": 179666,
+      "word": "北京奥运会",
+      "onboard_time": 1691461654,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 153484,
@@ -3233,6 +3369,14 @@
       "onboard_time": 1691329401,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122374,
+      "num": 397906,
+      "word": "受台风卡努影响东北防汛任务艰巨",
+      "onboard_time": 1691461355,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121186,

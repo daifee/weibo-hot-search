@@ -1,7 +1,15 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691458968114,
+  "endTime": 1691461867192,
   "band_list": [
+    {
+      "raw_hot": 2234731,
+      "num": 586397,
+      "word": "知名网红疑被前任闺蜜偷家",
+      "onboard_time": 1691457574,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
     {
       "raw_hot": 2205201,
       "num": 642619,
@@ -27,20 +35,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1587769,
-      "num": 586397,
-      "word": "知名网红疑被前任闺蜜偷家",
-      "onboard_time": 1691457574,
-      "rank": 11,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1521954,
       "num": 1521954,
       "word": "福原爱被法院强制执行",
       "onboard_time": 1691422363,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1472090,
+      "num": 558570,
+      "word": "张艺凡方放节目争议片段回应",
+      "onboard_time": 1691458593,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1381954,
@@ -99,6 +107,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1043102,
+      "num": 474301,
+      "word": "黄锐 人太多没进场",
+      "onboard_time": 1691460212,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 976759,
+      "num": 497835,
+      "word": "高三老师付费请学生看TFBOYS演唱会直播",
+      "onboard_time": 1691459552,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 959727,
       "num": 959727,
       "word": "日本中文教材把精髓掌握了",
@@ -137,6 +161,22 @@
       "onboard_time": 1691419724,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 707586,
+      "num": 450798,
+      "word": "TFBOYS演唱会带动4.16亿旅游收入",
+      "onboard_time": 1691460272,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 681712,
+      "num": 681712,
+      "word": "王传君 不像演的",
+      "onboard_time": 1691460093,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 665816,
@@ -187,20 +227,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 589028,
+      "num": 589028,
+      "word": "杨紫包场孤注一掷",
+      "onboard_time": 1691460692,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 576767,
       "num": 576767,
       "word": "为什么现在T恤领口越来越小了",
       "onboard_time": 1691416659,
       "rank": 6,
       "category": "时尚,幽默"
-    },
-    {
-      "raw_hot": 558570,
-      "num": 558570,
-      "word": "张艺凡方放节目争议片段回应",
-      "onboard_time": 1691458593,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 558019,
@@ -355,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 397805,
+      "num": 397805,
+      "word": "朴叙俊回应拒绝戴发箍",
+      "onboard_time": 1691460155,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389859,
       "num": 364519,
       "word": "李到晛公司下禁令不让他跳tecktonik",
@@ -364,7 +412,7 @@
     },
     {
       "raw_hot": 377699,
-      "num": 293399,
+      "num": 360934,
       "word": "伯贤成立个人公司",
       "onboard_time": 1691457574,
       "rank": 25,
@@ -411,6 +459,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 353956,
+      "num": 353956,
+      "word": "媒体评嘎子哥回应捐物资作假",
+      "onboard_time": 1691459072,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 348965,
       "num": 296698,
       "word": "费翔天选纣王",
@@ -425,6 +481,46 @@
       "onboard_time": 1691417918,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 322350,
+      "num": 322350,
+      "word": "金泰亨solo出道曲",
+      "onboard_time": 1691458952,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 310022,
+      "num": 310022,
+      "word": "张元英接发了",
+      "onboard_time": 1691460873,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 301234,
+      "num": 301234,
+      "word": "檀健次长相思一秒变脸",
+      "onboard_time": 1691459853,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 299517,
+      "num": 299517,
+      "word": "泰国人用王一博当签证表格模板",
+      "onboard_time": 1691461654,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 296522,
+      "num": 236505,
+      "word": "大肚娃娃是相柳对小夭的一往情深",
+      "onboard_time": 1691459672,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 296342,
@@ -443,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292908,
+      "num": 398744,
+      "word": "李玟老公申请死因调查",
+      "onboard_time": 1691461775,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 292839,
       "num": 292839,
       "word": "长相思",
@@ -457,6 +561,14 @@
       "onboard_time": 1691421278,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282475,
+      "num": 302377,
+      "word": "用不完的肥皂头子怎么处理",
+      "onboard_time": 1691460031,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 277517,
@@ -563,12 +675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239260,
+      "num": 236141,
+      "word": "夭璟互相吃醋",
+      "onboard_time": 1691459313,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237202,
       "num": 237202,
       "word": "莲花楼",
       "onboard_time": 1691407538,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236566,
+      "num": 236566,
+      "word": "立秋吃什么",
+      "onboard_time": 1691460692,
+      "rank": 34,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 229736,
@@ -579,8 +707,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226559,
-      "num": 226559,
+      "raw_hot": 226678,
+      "num": 226678,
       "word": "十个勤天直播",
       "onboard_time": 1691457934,
       "rank": 35,
@@ -675,19 +803,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191359,
-      "num": 161596,
-      "word": "金泰亨solo出道曲",
-      "onboard_time": 1691458952,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 189528,
       "num": 189528,
       "word": "男子喝笋汤发现碗内暗藏玄机",
       "onboard_time": 1691436135,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182616,
+      "num": 182616,
+      "word": "大连理工喊小姚9月一起看海",
+      "onboard_time": 1691460994,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -729,6 +857,14 @@
       "onboard_time": 1691410416,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156334,
+      "num": 179666,
+      "word": "北京奥运会",
+      "onboard_time": 1691461654,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 153394,
@@ -801,6 +937,14 @@
       "onboard_time": 1691428165,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122374,
+      "num": 397906,
+      "word": "受台风卡努影响东北防汛任务艰巨",
+      "onboard_time": 1691461355,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117333,
