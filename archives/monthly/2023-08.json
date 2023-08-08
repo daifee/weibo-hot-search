@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691505242594,
+  "endTime": 1691507866358,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1531,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1623404,
+      "num": 1623404,
+      "word": "长相思第二季有檀健次吗",
+      "onboard_time": 1691504621,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1618786,
       "num": 590592,
       "word": "碧桂园",
@@ -2092,7 +2100,7 @@
     },
     {
       "raw_hot": 1388390,
-      "num": 537428,
+      "num": 1331013,
       "word": "FoFo 对不起让大家失望了",
       "onboard_time": 1691503779,
       "rank": 17,
@@ -2185,6 +2193,14 @@
       "onboard_time": 1691324220,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1352283,
+      "num": 1352283,
+      "word": "女子2百多网购却被花呗扣款3千多",
+      "onboard_time": 1691505223,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1351546,
@@ -4091,6 +4107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 916312,
+      "num": 2090932,
+      "word": "封神票房",
+      "onboard_time": 1690932324,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 915884,
       "num": 915884,
       "word": "孤注一掷点映中途暂停被观众怒斥",
@@ -4121,14 +4145,6 @@
       "onboard_time": 1691153495,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 911516,
-      "num": 2090932,
-      "word": "封神票房",
-      "onboard_time": 1690932324,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 911406,
@@ -4393,6 +4409,14 @@
       "onboard_time": 1691414618,
       "rank": 25,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 871179,
+      "num": 871179,
+      "word": "泰娱的风吹到青岛了",
+      "onboard_time": 1691504023,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 871007,
@@ -4737,14 +4761,6 @@
       "onboard_time": 1691414259,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 814479,
-      "num": 814479,
-      "word": "泰娱的风吹到青岛了",
-      "onboard_time": 1691504023,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 814224,
@@ -5547,6 +5563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 731516,
+      "num": 731516,
+      "word": "Uzi赛后哭了",
+      "onboard_time": 1691506120,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 731495,
       "num": 444052,
       "word": "迪丽热巴鞋底掉了",
@@ -5601,6 +5625,14 @@
       "onboard_time": 1691365233,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 725465,
+      "num": 398267,
+      "word": "爷爷花45元请我吃了一顿大餐",
+      "onboard_time": 1691505161,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 725367,
@@ -6579,14 +6611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628813,
-      "num": 628813,
-      "word": "长相思第二季有檀健次吗",
-      "onboard_time": 1691504621,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 628526,
       "num": 628526,
       "word": "马杨马君妍新疆爱情故事",
@@ -6841,6 +6865,14 @@
       "onboard_time": 1691494115,
       "rank": 26,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 611701,
+      "num": 578156,
+      "word": "迪丽热巴手写信",
+      "onboard_time": 1691505041,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 610225,
@@ -9179,6 +9211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 478714,
+      "num": 478714,
+      "word": "肖战背任敏深蹲花絮",
+      "onboard_time": 1691505638,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478551,
       "num": 478551,
       "word": "李立群团队否认在杭州看病花了20万",
@@ -10195,6 +10235,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 422697,
+      "num": 422697,
+      "word": "Bin哥晒和TheShy合照",
+      "onboard_time": 1691505703,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 422668,
       "num": 1144456,
       "word": "山东多家医院推出免费自助厨房",
@@ -10577,14 +10625,6 @@
       "onboard_time": 1691153796,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 404825,
-      "num": 404825,
-      "word": "迪丽热巴手写信",
-      "onboard_time": 1691505041,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 404783,
@@ -11217,6 +11257,14 @@
       "onboard_time": 1691297140,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380386,
+      "num": 380386,
+      "word": "辞掉了父母眼中的铁饭碗",
+      "onboard_time": 1691505940,
+      "rank": 23,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 380134,
@@ -12379,6 +12427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334524,
+      "num": 334524,
+      "word": "G2喊话TheShy河道见",
+      "onboard_time": 1691504501,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 334387,
       "num": 334387,
       "word": "赵雷爆红背后",
@@ -12635,6 +12691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322470,
+      "num": 322470,
+      "word": "老天爱笨小孩",
+      "onboard_time": 1691506599,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 322350,
       "num": 322350,
       "word": "金泰亨solo出道曲",
@@ -12825,14 +12889,6 @@
       "onboard_time": 1690797214,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315635,
-      "num": 315635,
-      "word": "G2喊话TheShy河道见",
-      "onboard_time": 1691504501,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 315553,
@@ -13595,14 +13651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 293959,
-      "num": 293959,
-      "word": "女子2百多网购却被花呗扣款3千多",
-      "onboard_time": 1691505223,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293930,
       "num": 293930,
       "word": "异人之下宝儿姐还原度",
@@ -13777,6 +13825,14 @@
       "onboard_time": 1690853016,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288936,
+      "num": 288936,
+      "word": "王一博跟电影热烈说再见",
+      "onboard_time": 1691507200,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 288781,
@@ -14081,6 +14137,14 @@
       "onboard_time": 1691407895,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279623,
+      "num": 279623,
+      "word": "成毅蹭曾舜晞的貂穿",
+      "onboard_time": 1691504981,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 279584,
@@ -15059,6 +15123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250078,
+      "num": 250078,
+      "word": "晋江文学城第五届作者大会",
+      "onboard_time": 1691506659,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 250058,
       "num": 250058,
       "word": "邓为边洗衣服边唱屋顶着火",
@@ -15835,14 +15907,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 231008,
-      "num": 231008,
-      "word": "成毅蹭曾舜晞的貂穿",
-      "onboard_time": 1691504981,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 230862,
       "num": 230862,
       "word": "于适杭州路演去不去",
@@ -16024,14 +16088,6 @@
       "word": "搬家在扫把杆里面发现了钱",
       "onboard_time": 1691452470,
       "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 226059,
-      "num": 226059,
-      "word": "爷爷花45元请我吃了一顿大餐",
-      "onboard_time": 1691505161,
-      "rank": 45,
       "category": "幽默"
     },
     {
@@ -17923,6 +17979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193514,
+      "num": 214175,
+      "word": "成都大运会主火炬熄灭",
+      "onboard_time": 1691507021,
+      "rank": 46,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 193480,
       "num": 193480,
       "word": "最值钱的商品是空间",
@@ -18569,6 +18633,14 @@
       "onboard_time": 1691454035,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181806,
+      "num": 214130,
+      "word": "NCT2023第七感成员将发表新歌",
+      "onboard_time": 1691507737,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 181685,
@@ -20652,7 +20724,7 @@
     },
     {
       "raw_hot": 57377,
-      "num": 1312701,
+      "num": 1333635,
       "word": "致敬洪水中每位伸出援手的人",
       "onboard_time": 1691502038,
       "rank": 2,
