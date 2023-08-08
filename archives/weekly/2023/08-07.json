@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691529299588,
+  "endTime": 1691530438008,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -5395,6 +5395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109390,
+      "num": 59103,
+      "word": "新生儿长2颗牙43天内先后被拔掉",
+      "onboard_time": 1691521755,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107921,
       "num": 644579,
       "word": "他们关键时刻冲得上去豁得出来",
@@ -5425,14 +5433,6 @@
       "onboard_time": 1691356453,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98360,
-      "num": 59103,
-      "word": "新生儿长2颗牙43天内先后被拔掉",
-      "onboard_time": 1691521755,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94318,
@@ -5707,6 +5707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32908,
+      "num": 31256,
+      "word": "2个动作瘦腰腹",
+      "onboard_time": 1691528653,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32050,
       "num": 36267,
       "word": "小夭外爷一段话diss了三个男人",
@@ -5731,6 +5739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 25341,
+      "num": 35752,
+      "word": "殷桃露马甲线",
+      "onboard_time": 1691525773,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25148,
       "num": 228258,
       "word": "范丞丞在神抢手请你喝奶茶",
@@ -5747,20 +5763,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 22405,
-      "num": 35752,
-      "word": "殷桃露马甲线",
-      "onboard_time": 1691525773,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 19666,
-      "num": 25934,
-      "word": "2个动作瘦腰腹",
-      "onboard_time": 1691528653,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 20717,
+      "num": 31217,
+      "word": "女朋友生气时的统一模板",
+      "onboard_time": 1691526912,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 18031,
