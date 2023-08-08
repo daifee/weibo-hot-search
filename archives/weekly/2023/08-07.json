@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691469239929,
+  "endTime": 1691471735489,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 2155419,
-      "num": 1036445,
+      "num": 1084363,
       "word": "李玟老公申请死因调查",
       "onboard_time": 1691461775,
       "rank": 18,
@@ -273,6 +273,14 @@
       "onboard_time": 1691406818,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1720423,
+      "num": 1720423,
+      "word": "刘涛演妈祖之前请示过妈祖",
+      "onboard_time": 1691468980,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 1658454,
@@ -531,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1244330,
+      "num": 1244330,
+      "word": "嫡谋 杨紫龚俊",
+      "onboard_time": 1691470602,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1230236,
       "num": 1146154,
       "word": "比跷二郎腿更坏的坐姿",
@@ -755,6 +771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 989278,
+      "num": 639382,
+      "word": "王鹤棣去苍兰诀一周年聚餐了吗",
+      "onboard_time": 1691470061,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 981323,
       "num": 981323,
       "word": "Doinb",
@@ -835,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 903225,
+      "num": 630435,
+      "word": "万达高级副总裁刘海波被公安带走",
+      "onboard_time": 1691470362,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 900431,
       "num": 336726,
       "word": "王俊凯十周年演唱会单人机位",
@@ -889,6 +921,14 @@
       "onboard_time": 1691412036,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 840106,
+      "num": 497809,
+      "word": "女孩18岁成人礼被男友带去吸毒",
+      "onboard_time": 1691469820,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 839083,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1691332810,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 692482,
+      "num": 627053,
+      "word": "晋江大大们都好美",
+      "onboard_time": 1691470538,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 691052,
@@ -1355,6 +1403,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 581825,
+      "num": 581825,
+      "word": "檀健次夸有杨紫的地方不会冷场",
+      "onboard_time": 1691469400,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 575692,
+      "num": 490533,
+      "word": "魏大勋你好星期六",
+      "onboard_time": 1691470061,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 570075,
       "num": 449827,
       "word": "易烊千玺出发北京",
@@ -1395,8 +1459,16 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 549462,
+      "num": 486329,
+      "word": "弟弟暑假工两个月成为公司骨干",
+      "onboard_time": 1691468078,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 548813,
-      "num": 420904,
+      "num": 502540,
       "word": "封神第一部删减",
       "onboard_time": 1691467657,
       "rank": 21,
@@ -1441,6 +1513,14 @@
       "onboard_time": 1691335930,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 540017,
+      "num": 540017,
+      "word": "外地人被内蒙人吃肉吓到了",
+      "onboard_time": 1691468316,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 536287,
@@ -1563,6 +1643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 503561,
+      "num": 503561,
+      "word": "很喜欢今年的8月8",
+      "onboard_time": 1691470780,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 499938,
       "num": 499938,
       "word": "2023日本最帅最美的初中生",
@@ -1585,14 +1673,6 @@
       "onboard_time": 1691461654,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493833,
-      "num": 413266,
-      "word": "弟弟暑假工两个月成为公司骨干",
-      "onboard_time": 1691468078,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 492590,
@@ -1753,14 +1833,6 @@
       "onboard_time": 1691460692,
       "rank": 34,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 456454,
-      "num": 313136,
-      "word": "刘涛演妈祖之前请示过妈祖",
-      "onboard_time": 1691468980,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 449381,
@@ -2427,6 +2499,14 @@
       "category": "财经,幽默"
     },
     {
+      "raw_hot": 308837,
+      "num": 308837,
+      "word": "夏天的垃圾一定要及时扔掉",
+      "onboard_time": 1691468800,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 308658,
       "num": 308658,
       "word": "电影热烈的舞者今天拿到了世界冠军",
@@ -2497,14 +2577,6 @@
       "onboard_time": 1691396677,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299840,
-      "num": 299840,
-      "word": "外地人被内蒙人吃肉吓到了",
-      "onboard_time": 1691468316,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 298249,
@@ -2641,6 +2713,14 @@
       "onboard_time": 1691368304,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284914,
+      "num": 284914,
+      "word": "大鹏王一博亮相热烈泰国首映",
+      "onboard_time": 1691471620,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 282475,
@@ -2801,14 +2881,6 @@
       "onboard_time": 1691457934,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264554,
-      "num": 264554,
-      "word": "夏天的垃圾一定要及时扔掉",
-      "onboard_time": 1691468800,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 264227,
@@ -3011,6 +3083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234522,
+      "num": 234522,
+      "word": "司机成功预判了碰瓷大爷的预判",
+      "onboard_time": 1691471440,
+      "rank": 38,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 233315,
       "num": 233315,
       "word": "小夭说防风邶是狗狗邶",
@@ -3033,6 +3113,14 @@
       "onboard_time": 1691463516,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232021,
+      "num": 232021,
+      "word": "张杰实体专辑",
+      "onboard_time": 1691469762,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 231846,
@@ -3163,6 +3251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210343,
+      "num": 210343,
+      "word": "乐队的夏天",
+      "onboard_time": 1691471259,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209708,
       "num": 209708,
       "word": "立秋民间有贴秋膘咬秋晒秋习俗",
@@ -3243,6 +3339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201294,
+      "num": 201294,
+      "word": "热烈泰国首映礼",
+      "onboard_time": 1691471201,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201067,
       "num": 201067,
       "word": "张杰未live巡回演唱会",
@@ -3281,6 +3385,14 @@
       "onboard_time": 1691392960,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198553,
+      "num": 198553,
+      "word": "适合演霸总的男演员",
+      "onboard_time": 1691471559,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 196521,
@@ -3851,6 +3963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58599,
+      "num": 668068,
+      "word": "子弟兵蹚淤泥推舟为村民送物资",
+      "onboard_time": 1691468800,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52088,
       "num": 547408,
       "word": "总有坚毅的背影替我们负重前行",
@@ -3868,7 +3988,7 @@
     },
     {
       "raw_hot": 51001,
-      "num": 1037005,
+      "num": 1085167,
       "word": "暴雨洪涝防疫指南",
       "onboard_time": 1691463935,
       "rank": 2,
@@ -3888,14 +4008,6 @@
       "word": "消防员冷水里排涝脸上热汗不断",
       "onboard_time": 1691406218,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45519,
-      "num": 424180,
-      "word": "子弟兵蹚淤泥推舟为村民送物资",
-      "onboard_time": 1691468800,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
