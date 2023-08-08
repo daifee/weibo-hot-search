@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691514973169,
+  "endTime": 1691516033765,
   "band_list": [
     {
       "raw_hot": 1269442,
@@ -411,8 +411,16 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 102918,
-      "num": 102918,
+      "raw_hot": 129283,
+      "num": 129283,
+      "word": "送养小猫时突然理解了嫁妆的意义",
+      "onboard_time": 1691514145,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 127391,
+      "num": 127391,
       "word": "河南近百亿灾后重建资金出问题",
       "onboard_time": 1691513009,
       "rank": 39,
@@ -435,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69838,
-      "num": 100240,
-      "word": "送养小猫时突然理解了嫁妆的意义",
-      "onboard_time": 1691514145,
-      "rank": 49,
-      "category": "幽默,情感"
+      "raw_hot": 64219,
+      "num": 80738,
+      "word": "无用的谎言",
+      "onboard_time": 1691515222,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 34444,
