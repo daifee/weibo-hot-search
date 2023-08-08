@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691462438037,
+  "endTime": 1691464629812,
   "band_list": [
     {
       "raw_hot": 2234731,
@@ -17,6 +17,14 @@
       "onboard_time": 1691453013,
       "rank": 10,
       "category": "其它"
+    },
+    {
+      "raw_hot": 2155419,
+      "num": 727070,
+      "word": "李玟老公申请死因调查",
+      "onboard_time": 1691461775,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1979865,
@@ -67,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1205865,
+      "num": 497835,
+      "word": "高三老师付费请学生看TFBOYS演唱会直播",
+      "onboard_time": 1691459552,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1182749,
       "num": 1182749,
       "word": "zzr",
@@ -91,19 +107,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1113278,
-      "num": 727070,
-      "word": "李玟老公申请死因调查",
-      "onboard_time": 1691461775,
-      "rank": 18,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1109524,
-      "num": 497835,
-      "word": "高三老师付费请学生看TFBOYS演唱会直播",
-      "onboard_time": 1691459552,
-      "rank": 13,
+      "raw_hot": 1117180,
+      "num": 710188,
+      "word": "TFBOYS演唱会带动4.16亿旅游收入",
+      "onboard_time": 1691460272,
+      "rank": 16,
       "category": "社会新闻,艺人"
     },
     {
@@ -155,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 863710,
-      "num": 710188,
-      "word": "TFBOYS演唱会带动4.16亿旅游收入",
-      "onboard_time": 1691460272,
-      "rank": 16,
-      "category": "社会新闻,艺人"
+      "raw_hot": 904220,
+      "num": 794542,
+      "word": "杨紫包场孤注一掷",
+      "onboard_time": 1691460692,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 818274,
@@ -177,14 +185,6 @@
       "onboard_time": 1691419724,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 794542,
-      "num": 794542,
-      "word": "杨紫包场孤注一掷",
-      "onboard_time": 1691460692,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 681712,
@@ -259,6 +259,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 527691,
+      "num": 368718,
+      "word": "北京奥运会",
+      "onboard_time": 1691461654,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 526295,
       "num": 526295,
       "word": "看了三喜马立奥才知道的事",
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 481680,
+      "num": 481680,
+      "word": "朴叙俊回应拒绝戴发箍",
+      "onboard_time": 1691460155,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481310,
       "num": 481310,
       "word": "因为没见过大海他报了大连理工",
@@ -329,6 +345,14 @@
       "onboard_time": 1691405975,
       "rank": 12,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 475639,
+      "num": 475639,
+      "word": "Sunny与SMTOWN到期不续约",
+      "onboard_time": 1691462557,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 472453,
@@ -371,6 +395,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 437254,
+      "num": 485754,
+      "word": "受台风卡努影响东北防汛任务艰巨",
+      "onboard_time": 1691461355,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436738,
+      "num": 436738,
+      "word": "谢谢你成都",
+      "onboard_time": 1691462075,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432788,
       "num": 432788,
       "word": "济南七十二名泉全部喷涌",
@@ -385,6 +425,14 @@
       "onboard_time": 1691457994,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 429050,
+      "num": 361789,
+      "word": "台风兰恩已生成",
+      "onboard_time": 1691463335,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420442,
@@ -403,20 +451,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 404512,
-      "num": 404512,
-      "word": "朴叙俊回应拒绝戴发箍",
-      "onboard_time": 1691460155,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 400371,
       "num": 319200,
       "word": "为什么婴儿很困却反抗哄睡",
       "onboard_time": 1691451447,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 394648,
+      "num": 394648,
+      "word": "立秋吃什么",
+      "onboard_time": 1691460692,
+      "rank": 34,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 389859,
@@ -491,6 +539,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347972,
+      "num": 347972,
+      "word": "张元英接发了",
+      "onboard_time": 1691460873,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 345303,
+      "num": 345303,
+      "word": "为什么年轻人越来越不想回家了",
+      "onboard_time": 1691463394,
+      "rank": 24,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 323597,
       "num": 330713,
       "word": "TES发文告别S13",
@@ -507,14 +571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 312898,
-      "num": 312898,
-      "word": "张元英接发了",
-      "onboard_time": 1691460873,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 304012,
       "num": 301234,
       "word": "檀健次长相思一秒变脸",
@@ -524,7 +580,7 @@
     },
     {
       "raw_hot": 296522,
-      "num": 236505,
+      "num": 249388,
       "word": "大肚娃娃是相柳对小夭的一往情深",
       "onboard_time": 1691459672,
       "rank": 35,
@@ -611,6 +667,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 267383,
+      "num": 267383,
+      "word": "人不到礼一定要到哦",
+      "onboard_time": 1691461955,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266405,
       "num": 266405,
       "word": "肖战玉骨遥开机vs杀青",
@@ -635,12 +699,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263608,
-      "num": 263608,
-      "word": "立秋吃什么",
-      "onboard_time": 1691460692,
-      "rank": 34,
-      "category": "社会新闻,美食"
+      "raw_hot": 263711,
+      "num": 263711,
+      "word": "刷了无数遍还很爱的剧",
+      "onboard_time": 1691463335,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 262482,
@@ -691,12 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240939,
-      "num": 225506,
-      "word": "北京奥运会",
-      "onboard_time": 1691461654,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 239448,
+      "num": 239448,
+      "word": "听说很好吃第三季官宣",
+      "onboard_time": 1691462795,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 239260,
@@ -713,6 +777,14 @@
       "onboard_time": 1691407538,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232712,
+      "num": 232712,
+      "word": "综艺童话",
+      "onboard_time": 1691463516,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 229736,
@@ -771,6 +843,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 209696,
+      "num": 209696,
+      "word": "陈钰琪方逸伦献唱大运会",
+      "onboard_time": 1691464534,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209444,
       "num": 180927,
       "word": "秋天的第一杯奶茶",
@@ -779,19 +859,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206014,
-      "num": 397906,
-      "word": "受台风卡努影响东北防汛任务艰巨",
-      "onboard_time": 1691461355,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202411,
       "num": 236936,
       "word": "莲花楼阎王娶亲案",
       "onboard_time": 1691407234,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201957,
+      "num": 201957,
+      "word": "七时吉祥1V1情劫预告",
+      "onboard_time": 1691462075,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -803,12 +883,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200978,
-      "num": 200978,
-      "word": "谢谢你成都",
-      "onboard_time": 1691462075,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 198962,
+      "num": 201801,
+      "word": "动漫大赏2023",
+      "onboard_time": 1691463696,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 196936,
@@ -881,6 +961,22 @@
       "onboard_time": 1691410416,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169461,
+      "num": 201167,
+      "word": "地球46亿年历史浓缩在8分钟里",
+      "onboard_time": 1691464055,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167039,
+      "num": 200707,
+      "word": "不小心把芒果弄璋了",
+      "onboard_time": 1691464475,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 153394,
@@ -1043,6 +1139,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 34937,
+      "num": 547779,
+      "word": "暴雨洪涝防疫指南",
+      "onboard_time": 1691463935,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33564,
       "num": 38645,
       "word": "吉林舒兰3名失联公职人员确认牺牲",
@@ -1097,6 +1201,9 @@
     },
     {
       "word": "#众志成城同舟共济#"
+    },
+    {
+      "word": "#他们关键时刻冲得上去豁得出来#"
     }
   ]
 }

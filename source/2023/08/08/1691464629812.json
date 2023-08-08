@@ -1,0 +1,410 @@
+{
+  "runTime": 1691464629812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 709686,
+        "num": 969812,
+        "word": "大连理工回应挖姜男孩被录取",
+        "onboard_time": 1691456255,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 548180,
+        "num": 548180,
+        "word": "王传君 不像演的",
+        "onboard_time": 1691460093,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34937,
+        "num": 547779,
+        "word": "暴雨洪涝防疫指南",
+        "onboard_time": 1691463935,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2155419,
+        "num": 540876,
+        "word": "李玟老公申请死因调查",
+        "onboard_time": 1691461775,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1165507,
+        "num": 534803,
+        "word": "王鹤棣 本座回来了",
+        "onboard_time": 1691451751,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1117180,
+        "num": 528197,
+        "word": "TFBOYS演唱会带动4.16亿旅游收入",
+        "onboard_time": 1691460272,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 904220,
+        "num": 526459,
+        "word": "杨紫包场孤注一掷",
+        "onboard_time": 1691460692,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522916,
+        "num": 522916,
+        "word": "立秋",
+        "onboard_time": 1691449764,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486466,
+        "num": 486466,
+        "word": "BLACKPINK 续约",
+        "onboard_time": 1691452833,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437254,
+        "num": 485754,
+        "word": "受台风卡努影响东北防汛任务艰巨",
+        "onboard_time": 1691461355,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1667167,
+        "num": 485012,
+        "word": "知名网红疑被前任闺蜜偷家",
+        "onboard_time": 1691457574,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1298894,
+        "num": 483781,
+        "word": "痛经的人是不易受孕体质吗",
+        "onboard_time": 1691453013,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 981248,
+        "num": 483243,
+        "word": "张艺凡方放节目争议片段回应",
+        "onboard_time": 1691458593,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 820283,
+        "num": 482472,
+        "word": "黄锐 人太多没进场",
+        "onboard_time": 1691460212,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 481680,
+        "num": 481680,
+        "word": "朴叙俊回应拒绝戴发箍",
+        "onboard_time": 1691460155,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475639,
+        "num": 475639,
+        "word": "Sunny与SMTOWN到期不续约",
+        "onboard_time": 1691462557,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438437,
+        "num": 438437,
+        "word": "易烊千玺一朝回到解放前",
+        "onboard_time": 1691420679,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 436738,
+        "num": 436738,
+        "word": "谢谢你成都",
+        "onboard_time": 1691462075,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394648,
+        "num": 394648,
+        "word": "立秋吃什么",
+        "onboard_time": 1691460692,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 383819,
+        "num": 383819,
+        "word": "日本中文教材把精髓掌握了",
+        "onboard_time": 1691451509,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 527691,
+        "num": 368718,
+        "word": "北京奥运会",
+        "onboard_time": 1691461654,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457149,
+        "num": 363053,
+        "word": "泰国人用王一博当签证表格模板",
+        "onboard_time": 1691461654,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429050,
+        "num": 361789,
+        "word": "台风兰恩已生成",
+        "onboard_time": 1691463335,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347972,
+        "num": 347972,
+        "word": "张元英接发了",
+        "onboard_time": 1691460873,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345303,
+        "num": 345303,
+        "word": "为什么年轻人越来越不想回家了",
+        "onboard_time": 1691463394,
+        "rank": 24,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 313470,
+        "num": 313470,
+        "word": "媒体评嘎子哥回应捐物资作假",
+        "onboard_time": 1691459072,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 306072,
+        "num": 306072,
+        "word": "伯贤成立个人公司",
+        "onboard_time": 1691457574,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299737,
+        "num": 299737,
+        "word": "檀健次长相思一秒变脸",
+        "onboard_time": 1691459853,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285750,
+        "num": 285750,
+        "word": "TFBOYS演唱会效应",
+        "onboard_time": 1691455537,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294462,
+        "num": 282767,
+        "word": "玱玹终于有点像疯子了",
+        "onboard_time": 1691454395,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267405,
+        "num": 267405,
+        "word": "久坐之后才懂练腹有多重要",
+        "onboard_time": 1691452051,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1205865,
+        "num": 267401,
+        "word": "高三老师付费请学生看TFBOYS演唱会直播",
+        "onboard_time": 1691459552,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 267383,
+        "num": 267383,
+        "word": "人不到礼一定要到哦",
+        "onboard_time": 1691461955,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263711,
+        "num": 263711,
+        "word": "刷了无数遍还很爱的剧",
+        "onboard_time": 1691463335,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249388,
+        "num": 249388,
+        "word": "大肚娃娃是相柳对小夭的一往情深",
+        "onboard_time": 1691459672,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245179,
+        "num": 245179,
+        "word": "看了三喜马立奥才知道的事",
+        "onboard_time": 1691456376,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239448,
+        "num": 239448,
+        "word": "听说很好吃第三季官宣",
+        "onboard_time": 1691462795,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232712,
+        "num": 232712,
+        "word": "综艺童话",
+        "onboard_time": 1691463516,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232322,
+        "num": 232322,
+        "word": "金泰亨solo出道曲",
+        "onboard_time": 1691458952,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209696,
+        "num": 209696,
+        "word": "陈钰琪方逸伦献唱大运会",
+        "onboard_time": 1691464534,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223774,
+        "num": 208961,
+        "word": "虞书欣工作室为小兰花庆生",
+        "onboard_time": 1691457994,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207585,
+        "num": 207585,
+        "word": "为什么婴儿很困却反抗哄睡",
+        "onboard_time": 1691451447,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205365,
+        "num": 205365,
+        "word": "孤注一掷",
+        "onboard_time": 1691457274,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201957,
+        "num": 201957,
+        "word": "七时吉祥1V1情劫预告",
+        "onboard_time": 1691462075,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198962,
+        "num": 201801,
+        "word": "动漫大赏2023",
+        "onboard_time": 1691463696,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 203898,
+        "num": 201505,
+        "word": "孤注一掷预测票房38亿",
+        "onboard_time": 1691452295,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169461,
+        "num": 201167,
+        "word": "地球46亿年历史浓缩在8分钟里",
+        "onboard_time": 1691464055,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167039,
+        "num": 200707,
+        "word": "不小心把芒果弄璋了",
+        "onboard_time": 1691464475,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158040,
+        "num": 200398,
+        "word": "用不完的肥皂头子怎么处理",
+        "onboard_time": 1691460031,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132794,
+        "num": 200127,
+        "word": "原来气血不足要忌口",
+        "onboard_time": 1691418882,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#他们关键时刻冲得上去豁得出来#"
+    }
+  }
+}
