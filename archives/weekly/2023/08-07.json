@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691523232994,
+  "endTime": 1691525873314,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -5491,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78868,
+      "num": 59103,
+      "word": "新生儿长2颗牙43天内先后被拔掉",
+      "onboard_time": 1691521755,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76012,
       "num": 2445244,
       "word": "我在国门一线",
@@ -5520,14 +5528,6 @@
       "word": "成都大运会文化输出这块拿捏了",
       "onboard_time": 1691402439,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67712,
-      "num": 36287,
-      "word": "新生儿长2颗牙43天内先后被拔掉",
-      "onboard_time": 1691521755,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5707,20 +5707,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32050,
+      "num": 35909,
+      "word": "小夭外爷一段话diss了三个男人",
+      "onboard_time": 1691522354,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 30034,
       "num": 162302,
       "word": "夏鸣星卡面",
       "onboard_time": 1691347517,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29604,
-      "num": 31045,
-      "word": "小夭外爷一段话diss了三个男人",
-      "onboard_time": 1691522354,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 27359,
@@ -5753,6 +5753,14 @@
       "onboard_time": 1691350394,
       "rank": 49,
       "category": "幽默,旅游"
+    },
+    {
+      "raw_hot": 16704,
+      "num": 35752,
+      "word": "殷桃露马甲线",
+      "onboard_time": 1691525773,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 16584,

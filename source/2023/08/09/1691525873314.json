@@ -1,0 +1,410 @@
+{
+  "runTime": 1691525873314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 210275,
+        "num": 210275,
+        "word": "脏脏包为什么现在没人吃了",
+        "onboard_time": 1691510911,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142750,
+        "num": 142750,
+        "word": "Uzi",
+        "onboard_time": 1691510318,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11688,
+        "num": 83457,
+        "word": "洪水过后居家消毒要注意什么",
+        "onboard_time": 1691508937,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80588,
+        "num": 80588,
+        "word": "太平公主是上官婉儿葬礼的主持者",
+        "onboard_time": 1691511391,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80334,
+        "num": 80334,
+        "word": "女子2百多网购却被花呗扣款3千多",
+        "onboard_time": 1691505223,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70708,
+        "num": 70708,
+        "word": "魔法少女小圆即将上线",
+        "onboard_time": 1691519538,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 67899,
+        "num": 67899,
+        "word": "王一博说我已经做好了演员的工作",
+        "onboard_time": 1691508937,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67652,
+        "num": 67652,
+        "word": "长相思第二季有檀健次吗",
+        "onboard_time": 1691504621,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60051,
+        "num": 60051,
+        "word": "试管婴儿与妈妈孕期的所有针管合影",
+        "onboard_time": 1691498203,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59991,
+        "num": 59991,
+        "word": "一只熊猫走出了老虎的气势",
+        "onboard_time": 1691511751,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78868,
+        "num": 59103,
+        "word": "新生儿长2颗牙43天内先后被拔掉",
+        "onboard_time": 1691521755,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53030,
+        "num": 53030,
+        "word": "全职高手 哥几个是不是又整容了",
+        "onboard_time": 1691495496,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 52302,
+        "num": 52302,
+        "word": "选秀学员撞脸迪丽热巴",
+        "onboard_time": 1691497235,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43153,
+        "num": 43153,
+        "word": "杨紫回应小夭相柳是不是相爱",
+        "onboard_time": 1691501381,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42977,
+        "num": 42977,
+        "word": "影院回应孤注一掷中途停播退票",
+        "onboard_time": 1691502579,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41450,
+        "num": 41450,
+        "word": "起猛了看见帕梅拉在练八段锦",
+        "onboard_time": 1691497177,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38476,
+        "num": 38476,
+        "word": "上海外滩偶遇戚薇",
+        "onboard_time": 1691500840,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36913,
+        "num": 36913,
+        "word": "老板在自家工厂被1.5万个奶酪压死",
+        "onboard_time": 1691497418,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36327,
+        "num": 36327,
+        "word": "河南近百亿灾后重建资金出问题",
+        "onboard_time": 1691513009,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32050,
+        "num": 35909,
+        "word": "小夭外爷一段话diss了三个男人",
+        "onboard_time": 1691522354,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44689,
+        "num": 35884,
+        "word": "送养小猫时突然理解了嫁妆的意义",
+        "onboard_time": 1691514145,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 38782,
+        "num": 35839,
+        "word": "如何减掉肚子上的游泳圈",
+        "onboard_time": 1691517978,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35790,
+        "num": 35790,
+        "word": "阔腿裤最干净的上厕所方式",
+        "onboard_time": 1691483377,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31842,
+        "num": 35790,
+        "word": "EDG下路菜啊",
+        "onboard_time": 1691487696,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30052,
+        "num": 35788,
+        "word": "Uzi无缘S13",
+        "onboard_time": 1691498802,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29972,
+        "num": 35787,
+        "word": "赵丽颖第一次发儿子想想",
+        "onboard_time": 1691472217,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29200,
+        "num": 35785,
+        "word": "FoFo 对不起让大家失望了",
+        "onboard_time": 1691503779,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28839,
+        "num": 35784,
+        "word": "迪丽热巴手写信",
+        "onboard_time": 1691505041,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28475,
+        "num": 35781,
+        "word": "泰娱的风吹到青岛了",
+        "onboard_time": 1691504023,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27371,
+        "num": 35781,
+        "word": "张晚意 极品模王",
+        "onboard_time": 1691499582,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26894,
+        "num": 35780,
+        "word": "爷爷花45元请我吃了一顿大餐",
+        "onboard_time": 1691505161,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26607,
+        "num": 35777,
+        "word": "WBG战胜EDG",
+        "onboard_time": 1691498802,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26330,
+        "num": 35777,
+        "word": "第一次看封神质子团跳操",
+        "onboard_time": 1691501021,
+        "rank": 32,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 25310,
+        "num": 35774,
+        "word": "张智霖吴镇宇小学生对话",
+        "onboard_time": 1691513306,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25268,
+        "num": 35773,
+        "word": "孤注一掷票房破7亿",
+        "onboard_time": 1691500600,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24793,
+        "num": 35771,
+        "word": "哪吒托殷郊这里居然是真人",
+        "onboard_time": 1691513426,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24319,
+        "num": 35770,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1691517140,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24194,
+        "num": 35769,
+        "word": "WBG我看不懂",
+        "onboard_time": 1691491536,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23894,
+        "num": 35767,
+        "word": "封神票房",
+        "onboard_time": 1691503479,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23699,
+        "num": 35765,
+        "word": "Meiko打字15",
+        "onboard_time": 1691489134,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22802,
+        "num": 35764,
+        "word": "崔胜澈直播呢",
+        "onboard_time": 1691497596,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22368,
+        "num": 35764,
+        "word": "Uzi赛后哭了",
+        "onboard_time": 1691506120,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22333,
+        "num": 35761,
+        "word": "辞掉了父母眼中的铁饭碗",
+        "onboard_time": 1691505940,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 21408,
+        "num": 35761,
+        "word": "王鹤棣用脖子背包袱",
+        "onboard_time": 1691497659,
+        "rank": 43,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 21113,
+        "num": 35758,
+        "word": "杭州面包店有多卷",
+        "onboard_time": 1691496936,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20130,
+        "num": 35758,
+        "word": "檀健次海报花絮",
+        "onboard_time": 1691517019,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19804,
+        "num": 35756,
+        "word": "刘青松哭了",
+        "onboard_time": 1691499941,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18768,
+        "num": 35754,
+        "word": "Bin哥晒和TheShy合照",
+        "onboard_time": 1691505703,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17679,
+        "num": 35752,
+        "word": "莲花楼加更礼",
+        "onboard_time": 1691485118,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16704,
+        "num": 35752,
+        "word": "殷桃露马甲线",
+        "onboard_time": 1691525773,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会纪念短片#"
+    }
+  }
+}

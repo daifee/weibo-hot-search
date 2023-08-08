@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691523232994,
+  "endTime": 1691525873314,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -20675,6 +20675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78868,
+      "num": 59103,
+      "word": "新生儿长2颗牙43天内先后被拔掉",
+      "onboard_time": 1691521755,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76829,
       "num": 76829,
       "word": "爱吃折耳根和香菜的都沉默了",
@@ -20720,14 +20728,6 @@
       "word": "成都大运会文化输出这块拿捏了",
       "onboard_time": 1691402439,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67712,
-      "num": 36287,
-      "word": "新生儿长2颗牙43天内先后被拔掉",
-      "onboard_time": 1691521755,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -21051,6 +21051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32050,
+      "num": 35909,
+      "word": "小夭外爷一段话diss了三个男人",
+      "onboard_time": 1691522354,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 31799,
       "num": 250608,
       "word": "淘宝斗地主大赛热度超过原神",
@@ -21097,14 +21105,6 @@
       "onboard_time": 1691058633,
       "rank": 38,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 29604,
-      "num": 31045,
-      "word": "小夭外爷一段话diss了三个男人",
-      "onboard_time": 1691522354,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 29145,
@@ -21225,6 +21225,14 @@
       "onboard_time": 1691004255,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 16704,
+      "num": 35752,
+      "word": "殷桃露马甲线",
+      "onboard_time": 1691525773,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 16584,

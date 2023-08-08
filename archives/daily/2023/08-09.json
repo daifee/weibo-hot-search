@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691523232994,
+  "endTime": 1691525873314,
   "band_list": [
     {
       "raw_hot": 1269442,
@@ -451,19 +451,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78868,
+      "num": 59103,
+      "word": "新生儿长2颗牙43天内先后被拔掉",
+      "onboard_time": 1691521755,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73657,
       "num": 444617,
       "word": "东北汉子被子弟兵感动哽咽",
       "onboard_time": 1691496697,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67712,
-      "num": 36287,
-      "word": "新生儿长2颗牙43天内先后被拔掉",
-      "onboard_time": 1691521755,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -499,12 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29604,
-      "num": 31045,
+      "raw_hot": 32050,
+      "num": 35909,
       "word": "小夭外爷一段话diss了三个男人",
       "onboard_time": 1691522354,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 16704,
+      "num": 35752,
+      "word": "殷桃露马甲线",
+      "onboard_time": 1691525773,
+      "rank": 49,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
