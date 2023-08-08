@@ -1,0 +1,410 @@
+{
+  "runTime": 1691489859117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2351559,
+        "num": 2351559,
+        "word": "EDG下路菜啊",
+        "onboard_time": 1691487696,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 395453,
+        "num": 1606629,
+        "word": "小朋友在医院角落一口气跳舞2小时",
+        "onboard_time": 1691484396,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57689,
+        "num": 1299847,
+        "word": "我在国门一线",
+        "onboard_time": 1691489019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079947,
+        "num": 1079947,
+        "word": "Meiko打字15",
+        "onboard_time": 1691489134,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350339,
+        "num": 1071901,
+        "word": "山东多家医院推出免费自助厨房",
+        "onboard_time": 1691484759,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1071203,
+        "num": 1071203,
+        "word": "中国邮政是懂奶茶取名的",
+        "onboard_time": 1691481218,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130227,
+        "num": 1065327,
+        "word": "很高兴认识你成都",
+        "onboard_time": 1691488237,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059973,
+        "num": 1059973,
+        "word": "阔腿裤最干净的上厕所方式",
+        "onboard_time": 1691483377,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1052267,
+        "num": 1052267,
+        "word": "10岁白血病小女孩离世前嫁给男友",
+        "onboard_time": 1691486737,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55859,
+        "num": 935280,
+        "word": "空中俯瞰消防在五常洪水中一路逆行",
+        "onboard_time": 1691484698,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2504250,
+        "num": 895074,
+        "word": "选秀真的来了",
+        "onboard_time": 1691483075,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 835951,
+        "num": 835951,
+        "word": "EDG对战WBG",
+        "onboard_time": 1691486620,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 783441,
+        "num": 783441,
+        "word": "赵丽颖第一次发儿子想想",
+        "onboard_time": 1691472217,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782443,
+        "num": 782443,
+        "word": "小夭也没有见过真正的涂山璟",
+        "onboard_time": 1691484575,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56949,
+        "num": 753670,
+        "word": "用成都打开成都",
+        "onboard_time": 1691488839,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729616,
+        "num": 729616,
+        "word": "莲花楼加更礼",
+        "onboard_time": 1691485118,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 726852,
+        "num": 726852,
+        "word": "张小凡黑化入魔",
+        "onboard_time": 1691488422,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 698288,
+        "num": 698288,
+        "word": "Uzi别惦记泽丽了",
+        "onboard_time": 1691488535,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 644398,
+        "num": 644398,
+        "word": "王一博说刘敏涛和自己妈妈气质很像",
+        "onboard_time": 1691487097,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506279,
+        "num": 506279,
+        "word": "张杰巡演北京鸟巢站官宣",
+        "onboard_time": 1691488663,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 505233,
+        "num": 505233,
+        "word": "朱正廷或将当李权哲导师",
+        "onboard_time": 1691484516,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457001,
+        "num": 457001,
+        "word": "女朋友让我续费会员",
+        "onboard_time": 1691488535,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 455222,
+        "num": 455222,
+        "word": "刘亦菲抹胸蝴蝶结粉裙",
+        "onboard_time": 1691485598,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439240,
+        "num": 439240,
+        "word": "大S工作室发律师声明",
+        "onboard_time": 1691474318,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424875,
+        "num": 424875,
+        "word": "SMTOWN艺人要走光了",
+        "onboard_time": 1691489197,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420725,
+        "num": 420725,
+        "word": "执着于双休的原因",
+        "onboard_time": 1691482236,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 393662,
+        "num": 393662,
+        "word": "外国人看巨齿鲨2后遗症",
+        "onboard_time": 1691483557,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375033,
+        "num": 375033,
+        "word": "碧桂园",
+        "onboard_time": 1691478696,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351584,
+        "num": 351584,
+        "word": "迪丽热巴工作室换了头像",
+        "onboard_time": 1691476117,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329297,
+        "num": 329297,
+        "word": "海王式恋爱",
+        "onboard_time": 1691485539,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1241962,
+        "num": 322184,
+        "word": "TFBOYS演唱会 99块钱的直播爸爸唱了98块",
+        "onboard_time": 1691481519,
+        "rank": 30,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 298278,
+        "num": 298278,
+        "word": "易烊千玺究竟被吓到多少次",
+        "onboard_time": 1691477977,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297248,
+        "num": 297248,
+        "word": "中国芭比有自己的肯",
+        "onboard_time": 1691483977,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 554739,
+        "num": 296793,
+        "word": "易烊千玺踉跄后扶了王源的腰",
+        "onboard_time": 1691479297,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295642,
+        "num": 295642,
+        "word": "幸好乌尔善没用原来的剧本",
+        "onboard_time": 1691480917,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261035,
+        "num": 261035,
+        "word": "今年出生人口或低于900万",
+        "onboard_time": 1691476536,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251219,
+        "num": 251219,
+        "word": "立秋的第一顿大餐吃什么",
+        "onboard_time": 1691479421,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247729,
+        "num": 247729,
+        "word": "女孩18岁成人礼被男友带去吸毒",
+        "onboard_time": 1691469820,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246328,
+        "num": 246328,
+        "word": "TF一代二代三代四代演唱会官宣时间",
+        "onboard_time": 1691479118,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233695,
+        "num": 233695,
+        "word": "宋茜在机场教瑜伽",
+        "onboard_time": 1691484998,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224141,
+        "num": 224141,
+        "word": "在银行自尊心低到谷底",
+        "onboard_time": 1691489434,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234129,
+        "num": 224135,
+        "word": "TFBOYS十周年演唱会台本",
+        "onboard_time": 1691480559,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222866,
+        "num": 222866,
+        "word": "爱奇艺",
+        "onboard_time": 1691489674,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213024,
+        "num": 213024,
+        "word": "孤注一掷票房破6亿",
+        "onboard_time": 1691484698,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195975,
+        "num": 195975,
+        "word": "朱一龙立秋背影照",
+        "onboard_time": 1691488839,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188456,
+        "num": 188456,
+        "word": "边伯贤开设个人公司原因",
+        "onboard_time": 1691486437,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187593,
+        "num": 187593,
+        "word": "仙剑3动画一眼万年预告",
+        "onboard_time": 1691483618,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 186520,
+        "num": 186520,
+        "word": "苍兰诀聚餐合照",
+        "onboard_time": 1691477677,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181814,
+        "num": 181814,
+        "word": "很喜欢今年的8月8",
+        "onboard_time": 1691470780,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178379,
+        "num": 178379,
+        "word": "莲花楼",
+        "onboard_time": 1691465676,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会纪念短片#"
+    }
+  }
+}

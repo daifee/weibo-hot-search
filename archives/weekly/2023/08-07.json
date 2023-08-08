@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691487229189,
+  "endTime": 1691489859117,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 3284243,
-      "num": 571866,
+      "num": 895074,
       "word": "选秀真的来了",
       "onboard_time": 1691483075,
       "rank": 16,
@@ -132,11 +132,19 @@
     },
     {
       "raw_hot": 2612303,
-      "num": 594899,
+      "num": 783441,
       "word": "赵丽颖第一次发儿子想想",
       "onboard_time": 1691472217,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2351559,
+      "num": 2351559,
+      "word": "EDG下路菜啊",
+      "onboard_time": 1691487696,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 2234731,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 1515223,
-      "num": 845543,
+      "num": 1059973,
       "word": "阔腿裤最干净的上厕所方式",
       "onboard_time": 1691483377,
       "rank": 33,
@@ -795,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1079947,
+      "num": 1079947,
+      "word": "Meiko打字15",
+      "onboard_time": 1691489134,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1077966,
       "num": 1077966,
       "word": "TES对战WBG",
@@ -833,6 +849,14 @@
       "onboard_time": 1691403340,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1052267,
+      "num": 1052267,
+      "word": "10岁白血病小女孩离世前嫁给男友",
+      "onboard_time": 1691486737,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1042576,
@@ -1059,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 835951,
+      "num": 835951,
+      "word": "EDG对战WBG",
+      "onboard_time": 1691486620,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 831754,
       "num": 409445,
       "word": "法图麦穿了李咏8年前衣服",
@@ -1155,6 +1187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 782443,
+      "num": 782443,
+      "word": "小夭也没有见过真正的涂山璟",
+      "onboard_time": 1691484575,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 781634,
       "num": 560721,
       "word": "千万别戴这种眼镜",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1691410416,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 726852,
+      "num": 726852,
+      "word": "张小凡黑化入魔",
+      "onboard_time": 1691488422,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 726401,
@@ -1291,12 +1339,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 692063,
-      "num": 692063,
-      "word": "小夭也没有见过真正的涂山璟",
-      "onboard_time": 1691484575,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 698288,
+      "num": 698288,
+      "word": "Uzi别惦记泽丽了",
+      "onboard_time": 1691488535,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 691052,
@@ -1417,6 +1465,14 @@
       "onboard_time": 1691414196,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 644398,
+      "num": 644398,
+      "word": "王一博说刘敏涛和自己妈妈气质很像",
+      "onboard_time": 1691487097,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 644286,
@@ -1859,6 +1915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 506279,
+      "num": 506279,
+      "word": "张杰巡演北京鸟巢站官宣",
+      "onboard_time": 1691488663,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 505020,
       "num": 819517,
       "word": "莲花楼",
@@ -1956,7 +2020,7 @@
     },
     {
       "raw_hot": 481954,
-      "num": 275511,
+      "num": 329297,
       "word": "海王式恋爱",
       "onboard_time": 1691485539,
       "rank": 33,
@@ -2065,6 +2129,22 @@
       "onboard_time": 1691460692,
       "rank": 34,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 457001,
+      "num": 457001,
+      "word": "女朋友让我续费会员",
+      "onboard_time": 1691488535,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 455222,
+      "num": 455222,
+      "word": "刘亦菲抹胸蝴蝶结粉裙",
+      "onboard_time": 1691485598,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 449381,
@@ -2203,6 +2283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424875,
+      "num": 424875,
+      "word": "SMTOWN艺人要走光了",
+      "onboard_time": 1691489197,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424355,
       "num": 361862,
       "word": "在村里小卖部打印的准考证",
@@ -2220,7 +2308,7 @@
     },
     {
       "raw_hot": 422668,
-      "num": 422668,
+      "num": 1071901,
       "word": "山东多家医院推出免费自助厨房",
       "onboard_time": 1691484759,
       "rank": 18,
@@ -2241,14 +2329,6 @@
       "onboard_time": 1691399198,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421089,
-      "num": 421089,
-      "word": "刘亦菲抹胸蝴蝶结粉裙",
-      "onboard_time": 1691485598,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 420442,
@@ -2427,6 +2507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 395453,
+      "num": 1606629,
+      "word": "小朋友在医院角落一口气跳舞2小时",
+      "onboard_time": 1691484396,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394770,
       "num": 394770,
       "word": "为什么智齿不是每个人都长",
@@ -2593,14 +2681,6 @@
       "onboard_time": 1691406875,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 356542,
-      "num": 275490,
-      "word": "10岁白血病小女孩离世前嫁给男友",
-      "onboard_time": 1691486737,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356512,
@@ -2803,14 +2883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 313172,
-      "num": 534312,
-      "word": "小朋友在医院角落一口气跳舞2小时",
-      "onboard_time": 1691484396,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312724,
       "num": 235674,
       "word": "阎月明逝世",
@@ -2833,14 +2905,6 @@
       "onboard_time": 1691415160,
       "rank": 49,
       "category": "财经,幽默"
-    },
-    {
-      "raw_hot": 309613,
-      "num": 309613,
-      "word": "EDG对战WBG",
-      "onboard_time": 1691486620,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 308837,
@@ -3659,6 +3723,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224141,
+      "num": 224141,
+      "word": "在银行自尊心低到谷底",
+      "onboard_time": 1691489434,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 222866,
+      "num": 222866,
+      "word": "爱奇艺",
+      "onboard_time": 1691489674,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222064,
       "num": 208745,
       "word": "边伯贤直播",
@@ -3867,14 +3947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204668,
-      "num": 204668,
-      "word": "王一博说刘敏涛和自己妈妈气质很像",
-      "onboard_time": 1691487097,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204468,
       "num": 204468,
       "word": "LPL",
@@ -4001,6 +4073,14 @@
       "onboard_time": 1691347937,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195975,
+      "num": 195975,
+      "word": "朱一龙立秋背影照",
+      "onboard_time": 1691488839,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 194963,
@@ -4459,6 +4539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130227,
+      "num": 1065327,
+      "word": "很高兴认识你成都",
+      "onboard_time": 1691488237,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129268,
       "num": 197545,
       "word": "我的美食日记",
@@ -4699,6 +4787,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57689,
+      "num": 1299847,
+      "word": "我在国门一线",
+      "onboard_time": 1691489019,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56949,
+      "num": 753670,
+      "word": "用成都打开成都",
+      "onboard_time": 1691488839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55859,
+      "num": 935280,
+      "word": "空中俯瞰消防在五常洪水中一路逆行",
+      "onboard_time": 1691484698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52088,
       "num": 547408,
       "word": "总有坚毅的背影替我们负重前行",
@@ -4720,14 +4832,6 @@
       "word": "暴雨洪涝防疫指南",
       "onboard_time": 1691463935,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49999,
-      "num": 573027,
-      "word": "空中俯瞰消防在五常洪水中一路逆行",
-      "onboard_time": 1691484698,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4858,6 +4962,9 @@
     },
     {
       "word": "#他们关键时刻冲得上去豁得出来#"
+    },
+    {
+      "word": "#成都大运会纪念短片#"
     }
   ]
 }
