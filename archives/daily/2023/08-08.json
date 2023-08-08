@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691490820557,
+  "endTime": 1691493237604,
   "band_list": [
     {
       "raw_hot": 3284243,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2612303,
-      "num": 783441,
+      "num": 785941,
       "word": "赵丽颖第一次发儿子想想",
       "onboard_time": 1691472217,
       "rank": 10,
@@ -387,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 895740,
+      "num": 855628,
+      "word": "酷酷的滕骗不了张艺兴一点",
+      "onboard_time": 1691491115,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 859658,
       "num": 420494,
       "word": "卡琳娜收到婚纱的反应",
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 814725,
+      "num": 814725,
+      "word": "爱奇艺",
+      "onboard_time": 1691489674,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 797525,
       "num": 797525,
       "word": "Doinb",
@@ -497,14 +513,6 @@
       "onboard_time": 1691474560,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 710237,
-      "num": 710237,
-      "word": "爱奇艺",
-      "onboard_time": 1691489674,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 698288,
@@ -587,12 +595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 632574,
+      "num": 632574,
+      "word": "稚楚关于融梗抄袭发声",
+      "onboard_time": 1691490634,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 632119,
       "num": 371257,
       "word": "别再劝女朋友多喝热水了",
       "onboard_time": 1691481039,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 614908,
+      "num": 614908,
+      "word": "SMTOWN艺人要走光了",
+      "onboard_time": 1691489197,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 610205,
@@ -691,14 +715,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 550121,
-      "num": 550121,
-      "word": "SMTOWN艺人要走光了",
-      "onboard_time": 1691489197,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 549462,
       "num": 486329,
       "word": "弟弟暑假工两个月成为公司骨干",
@@ -761,6 +777,14 @@
       "onboard_time": 1691413297,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514827,
+      "num": 514827,
+      "word": "WBG我看不懂",
+      "onboard_time": 1691491536,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 514260,
@@ -995,12 +1019,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 420451,
+      "num": 420451,
+      "word": "在银行自尊心低到谷底",
+      "onboard_time": 1691489434,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 420442,
       "num": 327781,
       "word": "井川里予蓝发",
       "onboard_time": 1691455178,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 412480,
+      "num": 412480,
+      "word": "我在村里找到了月薪15000的工作",
+      "onboard_time": 1691490873,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408579,
@@ -1115,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363505,
+      "num": 363505,
+      "word": "王一博说不可以但是笑了",
+      "onboard_time": 1691490575,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362748,
       "num": 362748,
       "word": "王俊凯英雄联盟",
@@ -1147,14 +1195,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 350524,
-      "num": 350524,
-      "word": "在银行自尊心低到谷底",
-      "onboard_time": 1691489434,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 349052,
       "num": 349052,
       "word": "五月天广州 诺亚方舟",
@@ -1177,6 +1217,22 @@
       "onboard_time": 1691460873,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 340167,
+      "num": 340167,
+      "word": "王传君担心会被女性观众喷死",
+      "onboard_time": 1691492615,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 335962,
+      "num": 335962,
+      "word": "长相思",
+      "onboard_time": 1691454815,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 325423,
@@ -1312,14 +1368,6 @@
       "word": "恶鬼大结局",
       "onboard_time": 1691467839,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 292839,
-      "num": 292839,
-      "word": "长相思",
-      "onboard_time": 1691454815,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -1531,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254251,
+      "num": 1042458,
+      "word": "永远会被中国人的团结互助感动",
+      "onboard_time": 1691490034,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252798,
       "num": 252798,
       "word": "上班要是能有寒暑假就好了",
@@ -1545,6 +1601,14 @@
       "onboard_time": 1691475397,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252129,
+      "num": 252129,
+      "word": "孤注一掷独家幕后记录",
+      "onboard_time": 1691491536,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 251784,
@@ -1579,14 +1643,6 @@
       "category": "时尚,幽默"
     },
     {
-      "raw_hot": 240398,
-      "num": 240398,
-      "word": "王一博说不可以但是笑了",
-      "onboard_time": 1691490575,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 239448,
       "num": 239448,
       "word": "听说很好吃第三季官宣",
@@ -1617,6 +1673,14 @@
       "onboard_time": 1691407538,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234960,
+      "num": 234960,
+      "word": "Tabe他真的我哭死",
+      "onboard_time": 1691490575,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 233315,
@@ -1761,14 +1825,6 @@
       "onboard_time": 1691479715,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211950,
-      "num": 211950,
-      "word": "稚楚关于融梗抄袭发声",
-      "onboard_time": 1691490634,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210343,
@@ -2019,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181296,
+      "num": 192337,
+      "word": "郑在玹新歌上线",
+      "onboard_time": 1691492018,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179025,
       "num": 236240,
       "word": "Capper直播",
@@ -2033,6 +2097,14 @@
       "onboard_time": 1691414259,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173683,
+      "num": 192318,
+      "word": "让人惊叹的TWICE出道发行的专辑数",
+      "onboard_time": 1691492378,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 173305,
@@ -2051,12 +2123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167285,
-      "num": 194052,
-      "word": "Tabe他真的我哭死",
-      "onboard_time": 1691490575,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 165811,
+      "num": 192306,
+      "word": "对夏天的库存照说拜拜",
+      "onboard_time": 1691492792,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 163467,
@@ -2073,6 +2145,14 @@
       "onboard_time": 1691480019,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 158160,
+      "num": 192295,
+      "word": "帝王蟹馒头",
+      "onboard_time": 1691493155,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 153394,
@@ -2155,14 +2235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 130823,
-      "num": 1042458,
-      "word": "永远会被中国人的团结互助感动",
-      "onboard_time": 1691490034,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130227,
       "num": 1065327,
       "word": "很高兴认识你成都",
@@ -2243,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 81202,
+      "num": 623242,
+      "word": "妻子记录老公30秒救回落海母子",
+      "onboard_time": 1691492436,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80116,
       "num": 80116,
       "word": "王俊凯新歌回望",
@@ -2251,19 +2331,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74334,
+      "num": 1299847,
+      "word": "我在国门一线",
+      "onboard_time": 1691489019,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73948,
       "num": 753670,
       "word": "用成都打开成都",
       "onboard_time": 1691488839,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73031,
-      "num": 1299847,
-      "word": "我在国门一线",
-      "onboard_time": 1691489019,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2275,20 +2355,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 62724,
+      "num": 935280,
+      "word": "空中俯瞰消防在五常洪水中一路逆行",
+      "onboard_time": 1691484698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62131,
       "num": 208317,
       "word": "立秋第一杯奶茶是饿了么免单给的",
       "onboard_time": 1691474438,
       "rank": 39,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 60443,
-      "num": 935280,
-      "word": "空中俯瞰消防在五常洪水中一路逆行",
-      "onboard_time": 1691484698,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58599,
