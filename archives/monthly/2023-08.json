@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691451234232,
+  "endTime": 1691457552609,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2205201,
+      "num": 642619,
+      "word": "痛经的人是不易受孕体质吗",
+      "onboard_time": 1691453013,
+      "rank": 10,
+      "category": "其它"
+    },
+    {
       "raw_hot": 2196049,
       "num": 2196049,
       "word": "我的人间烟火 树立正能量",
@@ -985,6 +993,14 @@
       "onboard_time": 1691019809,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1979865,
+      "num": 961666,
+      "word": "王鹤棣 本座回来了",
+      "onboard_time": 1691451751,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1969226,
@@ -1873,6 +1889,14 @@
       "onboard_time": 1691076939,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1381954,
+      "num": 1381954,
+      "word": "立秋",
+      "onboard_time": 1691449764,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1380406,
@@ -2787,6 +2811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1086387,
+      "num": 961353,
+      "word": "久坐之后才懂练腹有多重要",
+      "onboard_time": 1691452051,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1084109,
       "num": 485090,
       "word": "网购别再只看销量",
@@ -2851,14 +2883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1077395,
-      "num": 1077395,
-      "word": "立秋",
-      "onboard_time": 1691449764,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1076204,
       "num": 1076204,
       "word": "长相思一家五口",
@@ -2881,6 +2905,14 @@
       "onboard_time": 1691216496,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1072431,
+      "num": 1072431,
+      "word": "BLACKPINK 续约",
+      "onboard_time": 1691452833,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1070785,
@@ -3331,6 +3363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 959727,
+      "num": 959727,
+      "word": "日本中文教材把精髓掌握了",
+      "onboard_time": 1691451509,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 958552,
       "num": 958552,
       "word": "肖战变装视频是月下舞剑",
@@ -3651,6 +3691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 915531,
+      "num": 915531,
+      "word": "玱玹终于有点像疯子了",
+      "onboard_time": 1691454395,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 913663,
       "num": 913663,
       "word": "村民称很多人没把泄洪通知当回事",
@@ -3668,7 +3716,7 @@
     },
     {
       "raw_hot": 911406,
-      "num": 279686,
+      "num": 335481,
       "word": "女主播年入50万花近三万相亲",
       "onboard_time": 1691445375,
       "rank": 30,
@@ -5563,6 +5611,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 665816,
+      "num": 665816,
+      "word": "TFBOYS演唱会效应",
+      "onboard_time": 1691455537,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 665150,
       "num": 421067,
       "word": "小伙使用酒店毛巾后被确诊淋病",
@@ -5657,6 +5713,14 @@
       "onboard_time": 1691380962,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 652859,
+      "num": 652859,
+      "word": "巨齿鲨那么大能把暑假作业吃了吗",
+      "onboard_time": 1691455958,
+      "rank": 8,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 652496,
@@ -5835,12 +5899,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 637443,
+      "num": 637443,
+      "word": "施柏宇方回应节目争议",
+      "onboard_time": 1691450969,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 637343,
       "num": 537982,
       "word": "魏大勋扫楼生图状态",
       "onboard_time": 1691047233,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 636895,
+      "num": 636895,
+      "word": "大连理工回应挖姜男孩被录取",
+      "onboard_time": 1691456255,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 635249,
@@ -8059,6 +8139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 486049,
+      "num": 486049,
+      "word": "孤注一掷预测票房38亿",
+      "onboard_time": 1691452295,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 485822,
       "num": 485822,
       "word": "汉文帝霸陵殉葬坑发现大熊猫骨骼",
@@ -9123,6 +9211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 420442,
+      "num": 327781,
+      "word": "井川里予蓝发",
+      "onboard_time": 1691455178,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 420160,
       "num": 238662,
       "word": "吴京从此以后又多了一个身份",
@@ -9539,6 +9635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400371,
+      "num": 319200,
+      "word": "为什么婴儿很困却反抗哄睡",
+      "onboard_time": 1691451447,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 400160,
       "num": 628875,
       "word": "涿州受困者趴泡沫箱漂浮一夜求生",
@@ -9713,6 +9817,14 @@
       "onboard_time": 1690958432,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392532,
+      "num": 302273,
+      "word": "看了三喜马立奥才知道的事",
+      "onboard_time": 1691456376,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 392440,
@@ -10728,6 +10840,14 @@
       "word": "这是彭昱畅不是张楚岚",
       "onboard_time": 1691123317,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 348965,
+      "num": 296698,
+      "word": "费翔天选纣王",
+      "onboard_time": 1691456556,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -12115,6 +12235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295507,
+      "num": 295507,
+      "word": "苍兰诀一周年主题派对",
+      "onboard_time": 1691454517,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295197,
       "num": 295197,
       "word": "滔搏",
@@ -12665,6 +12793,14 @@
       "onboard_time": 1690949857,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276265,
+      "num": 272964,
+      "word": "吴宣仪新剧撕开心机女真面目",
+      "onboard_time": 1691453917,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 275977,
@@ -13219,6 +13355,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 257067,
+      "num": 239391,
+      "word": "莲花楼央视频追剧日历",
+      "onboard_time": 1691454035,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256900,
       "num": 235338,
       "word": "有多少人走错过才会提醒得这么用心啊",
@@ -13339,6 +13483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252798,
+      "num": 252798,
+      "word": "上班要是能有寒暑假就好了",
+      "onboard_time": 1691451930,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252310,
       "num": 252310,
       "word": "告五人巡演",
@@ -13451,6 +13603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248868,
+      "num": 238490,
+      "word": "种地吧",
+      "onboard_time": 1691453917,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248086,
       "num": 248086,
       "word": "薛之谦福州",
@@ -13505,14 +13665,6 @@
       "onboard_time": 1691017281,
       "rank": 33,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 246829,
-      "num": 246829,
-      "word": "施柏宇方回应节目争议",
-      "onboard_time": 1691450969,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 246798,
@@ -14155,6 +14307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229736,
+      "num": 229736,
+      "word": "小哥每天自拍直到找到女朋友为止",
+      "onboard_time": 1691430079,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229610,
       "num": 229610,
       "word": "菠萝香菜肥牛",
@@ -14265,6 +14425,14 @@
       "onboard_time": 1690943433,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 226116,
+      "num": 226116,
+      "word": "搬家在扫把杆里面发现了钱",
+      "onboard_time": 1691452470,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 225856,
@@ -14401,6 +14569,14 @@
       "onboard_time": 1691312136,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222064,
+      "num": 208745,
+      "word": "边伯贤直播",
+      "onboard_time": 1691452653,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 221828,
@@ -14985,6 +15161,14 @@
       "onboard_time": 1691307574,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 209708,
+      "num": 209708,
+      "word": "立秋民间有贴秋膘咬秋晒秋习俗",
+      "onboard_time": 1691457094,
+      "rank": 39,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 209680,
@@ -16187,6 +16371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189528,
+      "num": 189528,
+      "word": "男子喝笋汤发现碗内暗藏玄机",
+      "onboard_time": 1691436135,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189256,
       "num": 189256,
       "word": "闪耀暖暖",
@@ -16395,14 +16587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184354,
-      "num": 184354,
-      "word": "男子喝笋汤发现碗内暗藏玄机",
-      "onboard_time": 1691436135,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183837,
       "num": 183837,
       "word": "东方风云榜",
@@ -16505,6 +16689,14 @@
       "onboard_time": 1690974394,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181825,
+      "num": 181825,
+      "word": "BLACKPINK出道七周年",
+      "onboard_time": 1691454035,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 181685,
@@ -16937,14 +17129,6 @@
       "onboard_time": 1691114018,
       "rank": 49,
       "category": "幽默,科技"
-    },
-    {
-      "raw_hot": 163839,
-      "num": 163839,
-      "word": "小哥每天自拍直到找到女朋友为止",
-      "onboard_time": 1691430079,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 163691,
@@ -18001,6 +18185,14 @@
       "onboard_time": 1691403818,
       "rank": 6,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 105248,
+      "num": 644579,
+      "word": "他们关键时刻冲得上去豁得出来",
+      "onboard_time": 1691451691,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103556,

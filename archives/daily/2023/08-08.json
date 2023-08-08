@@ -1,10 +1,26 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691451234232,
+  "endTime": 1691457552609,
   "band_list": [
     {
+      "raw_hot": 2205201,
+      "num": 642619,
+      "word": "痛经的人是不易受孕体质吗",
+      "onboard_time": 1691453013,
+      "rank": 10,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 1979865,
+      "num": 961666,
+      "word": "王鹤棣 本座回来了",
+      "onboard_time": 1691451751,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1602658,
-      "num": 607521,
+      "num": 640422,
       "word": "易烊千玺一朝回到解放前",
       "onboard_time": 1691420679,
       "rank": 5,
@@ -17,6 +33,14 @@
       "onboard_time": 1691422363,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1381954,
+      "num": 1381954,
+      "word": "立秋",
+      "onboard_time": 1691449764,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1313411,
@@ -35,12 +59,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1077395,
-      "num": 1077395,
-      "word": "立秋",
-      "onboard_time": 1691449764,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 1086387,
+      "num": 961353,
+      "word": "久坐之后才懂练腹有多重要",
+      "onboard_time": 1691452051,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1072431,
+      "num": 1072431,
+      "word": "BLACKPINK 续约",
+      "onboard_time": 1691452833,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1069126,
@@ -51,8 +83,24 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 959727,
+      "num": 959727,
+      "word": "日本中文教材把精髓掌握了",
+      "onboard_time": 1691451509,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 915531,
+      "num": 915531,
+      "word": "玱玹终于有点像疯子了",
+      "onboard_time": 1691454395,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 911406,
-      "num": 279686,
+      "num": 335481,
       "word": "女主播年入50万花近三万相亲",
       "onboard_time": 1691445375,
       "rank": 30,
@@ -75,6 +123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 665816,
+      "num": 665816,
+      "word": "TFBOYS演唱会效应",
+      "onboard_time": 1691455537,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 662263,
       "num": 487423,
       "word": "虞书欣小兰花库存照腮红",
@@ -83,12 +139,36 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 652859,
+      "num": 652859,
+      "word": "巨齿鲨那么大能把暑假作业吃了吗",
+      "onboard_time": 1691455958,
+      "rank": 8,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 639597,
       "num": 639597,
       "word": "卡莎",
       "onboard_time": 1691424158,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 637443,
+      "num": 637443,
+      "word": "施柏宇方回应节目争议",
+      "onboard_time": 1691450969,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 636895,
+      "num": 636895,
+      "word": "大连理工回应挖姜男孩被录取",
+      "onboard_time": 1691456255,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 589206,
@@ -145,6 +225,14 @@
       "onboard_time": 1691416420,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486049,
+      "num": 486049,
+      "word": "孤注一掷预测票房38亿",
+      "onboard_time": 1691452295,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 481310,
@@ -211,6 +299,38 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 420442,
+      "num": 327781,
+      "word": "井川里予蓝发",
+      "onboard_time": 1691455178,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 408579,
+      "num": 323688,
+      "word": "孤注一掷",
+      "onboard_time": 1691457274,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 400371,
+      "num": 319200,
+      "word": "为什么婴儿很困却反抗哄睡",
+      "onboard_time": 1691451447,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 392532,
+      "num": 302273,
+      "word": "看了三喜马立奥才知道的事",
+      "onboard_time": 1691456376,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389859,
       "num": 364519,
       "word": "李到晛公司下禁令不让他跳tecktonik",
@@ -259,6 +379,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 348965,
+      "num": 296698,
+      "word": "费翔天选纣王",
+      "onboard_time": 1691456556,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323597,
       "num": 330713,
       "word": "TES发文告别S13",
@@ -273,6 +401,22 @@
       "onboard_time": 1691449343,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 295507,
+      "num": 295507,
+      "word": "苍兰诀一周年主题派对",
+      "onboard_time": 1691454517,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 292839,
+      "num": 292839,
+      "word": "长相思",
+      "onboard_time": 1691454815,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 292533,
@@ -304,6 +448,14 @@
       "word": "邓为从脖子红到耳朵",
       "onboard_time": 1691412036,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276265,
+      "num": 272964,
+      "word": "吴宣仪新剧撕开心机女真面目",
+      "onboard_time": 1691453917,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -339,6 +491,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 257067,
+      "num": 239391,
+      "word": "莲花楼央视频追剧日历",
+      "onboard_time": 1691454035,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 252798,
+      "num": 252798,
+      "word": "上班要是能有寒暑假就好了",
+      "onboard_time": 1691451930,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251784,
       "num": 251784,
       "word": "TFBOYS演唱会后劲最大的一个视频",
@@ -347,11 +515,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 246829,
-      "num": 246829,
-      "word": "施柏宇方回应节目争议",
-      "onboard_time": 1691450969,
-      "rank": 16,
+      "raw_hot": 248868,
+      "num": 238490,
+      "word": "种地吧",
+      "onboard_time": 1691453917,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -371,12 +539,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229736,
+      "num": 229736,
+      "word": "小哥每天自拍直到找到女朋友为止",
+      "onboard_time": 1691430079,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226545,
       "num": 190276,
       "word": "人类有一种本能叫做预感离别",
       "onboard_time": 1691425590,
       "rank": 26,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 226116,
+      "num": 226116,
+      "word": "搬家在扫把杆里面发现了钱",
+      "onboard_time": 1691452470,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 222064,
+      "num": 208745,
+      "word": "边伯贤直播",
+      "onboard_time": 1691452653,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 218377,
@@ -393,6 +585,14 @@
       "onboard_time": 1691418643,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209708,
+      "num": 209708,
+      "word": "立秋民间有贴秋膘咬秋晒秋习俗",
+      "onboard_time": 1691457094,
+      "rank": 39,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 209444,
@@ -435,12 +635,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184354,
-      "num": 184354,
+      "raw_hot": 189528,
+      "num": 189528,
       "word": "男子喝笋汤发现碗内暗藏玄机",
       "onboard_time": 1691436135,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181825,
+      "num": 181825,
+      "word": "BLACKPINK出道七周年",
+      "onboard_time": 1691454035,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 179025,
@@ -473,14 +681,6 @@
       "onboard_time": 1691410416,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163839,
-      "num": 163839,
-      "word": "小哥每天自拍直到找到女朋友为止",
-      "onboard_time": 1691430079,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 153394,
@@ -563,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105248,
+      "num": 644579,
+      "word": "他们关键时刻冲得上去豁得出来",
+      "onboard_time": 1691451691,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103506,
       "num": 103506,
       "word": "胡夏张含韵Gemini梦幻组合",
@@ -612,7 +820,7 @@
     },
     {
       "raw_hot": 44607,
-      "num": 869239,
+      "num": 962956,
       "word": "汛情过后健康防护要点",
       "onboard_time": 1691414378,
       "rank": 2,
