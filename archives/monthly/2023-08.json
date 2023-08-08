@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691507866358,
+  "endTime": 1691508849704,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1931,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1452179,
+      "num": 1452179,
+      "word": "女子2百多网购却被花呗扣款3千多",
+      "onboard_time": 1691505223,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1449794,
       "num": 1449794,
       "word": "林萧你",
@@ -2193,14 +2201,6 @@
       "onboard_time": 1691324220,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1352283,
-      "num": 1352283,
-      "word": "女子2百多网购却被花呗扣款3千多",
-      "onboard_time": 1691505223,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1351546,
@@ -4787,6 +4787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 813255,
+      "num": 398267,
+      "word": "爷爷花45元请我吃了一顿大餐",
+      "onboard_time": 1691505161,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 811092,
       "num": 558586,
       "word": "TFBOYS的相视一笑",
@@ -5251,6 +5259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 758208,
+      "num": 758208,
+      "word": "Uzi赛后哭了",
+      "onboard_time": 1691506120,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 757676,
       "num": 2091092,
       "word": "莲花楼",
@@ -5563,14 +5579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 731516,
-      "num": 731516,
-      "word": "Uzi赛后哭了",
-      "onboard_time": 1691506120,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 731495,
       "num": 444052,
       "word": "迪丽热巴鞋底掉了",
@@ -5625,14 +5633,6 @@
       "onboard_time": 1691365233,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 725465,
-      "num": 398267,
-      "word": "爷爷花45元请我吃了一顿大餐",
-      "onboard_time": 1691505161,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 725367,
@@ -11531,6 +11531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368997,
+      "num": 368997,
+      "word": "王一博跟电影热烈说再见",
+      "onboard_time": 1691507200,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368576,
       "num": 492604,
       "word": "火车站员工地震摇晃中拦停7趟火车",
@@ -11857,6 +11865,14 @@
       "onboard_time": 1690934131,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355426,
+      "num": 355426,
+      "word": "老天爱笨小孩",
+      "onboard_time": 1691506599,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 355404,
@@ -12691,14 +12707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322470,
-      "num": 322470,
-      "word": "老天爱笨小孩",
-      "onboard_time": 1691506599,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 322350,
       "num": 322350,
       "word": "金泰亨solo出道曲",
@@ -13315,6 +13323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305028,
+      "num": 305028,
+      "word": "成毅蹭曾舜晞的貂穿",
+      "onboard_time": 1691504981,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304351,
       "num": 246921,
       "word": "第一眼就喜欢的人",
@@ -13827,14 +13843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288936,
-      "num": 288936,
-      "word": "王一博跟电影热烈说再见",
-      "onboard_time": 1691507200,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 288781,
       "num": 368749,
       "word": "三星发布会",
@@ -14137,14 +14145,6 @@
       "onboard_time": 1691407895,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279623,
-      "num": 279623,
-      "word": "成毅蹭曾舜晞的貂穿",
-      "onboard_time": 1691504981,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 279584,
@@ -15243,6 +15243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246727,
+      "num": 246727,
+      "word": "吴镇宇费曼唱KTV",
+      "onboard_time": 1691508635,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246448,
       "num": 246448,
       "word": "金龟子王宁设宴庆结婚35周年",
@@ -16041,6 +16049,14 @@
       "onboard_time": 1691215654,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227300,
+      "num": 227300,
+      "word": "成都大运会主火炬熄灭",
+      "onboard_time": 1691507021,
+      "rank": 46,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 227031,
@@ -17979,14 +17995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193514,
-      "num": 214175,
-      "word": "成都大运会主火炬熄灭",
-      "onboard_time": 1691507021,
-      "rank": 46,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 193480,
       "num": 193480,
       "word": "最值钱的商品是空间",
@@ -18065,6 +18073,14 @@
       "onboard_time": 1691037405,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192631,
+      "num": 214130,
+      "word": "NCT2023第七感成员将发表新歌",
+      "onboard_time": 1691507737,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 192317,
@@ -18633,14 +18649,6 @@
       "onboard_time": 1691454035,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181806,
-      "num": 214130,
-      "word": "NCT2023第七感成员将发表新歌",
-      "onboard_time": 1691507737,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 181685,
