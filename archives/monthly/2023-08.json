@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691480028801,
+  "endTime": 1691482867576,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1363,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1684437,
+      "num": 1684437,
+      "word": "今年出生人口或低于900万",
+      "onboard_time": 1691476536,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1679187,
       "num": 610224,
       "word": "费翔 胸大的苦恼",
@@ -2019,14 +2027,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1355070,
-      "num": 1355070,
-      "word": "今年出生人口或低于900万",
-      "onboard_time": 1691476536,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1352708,
       "num": 1352708,
       "word": "林俊杰上海抢票",
@@ -2593,6 +2593,14 @@
       "onboard_time": 1691420919,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1179128,
+      "num": 363211,
+      "word": "易烊千玺踉跄后扶了王源的腰",
+      "onboard_time": 1691479297,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 1177532,
@@ -3227,12 +3235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1023525,
+      "num": 354865,
+      "word": "TF一代二代三代四代演唱会官宣时间",
+      "onboard_time": 1691479118,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1022323,
       "num": 606407,
       "word": "TFBOYS彩排喜欢你",
       "onboard_time": 1691236235,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1019601,
+      "num": 358624,
+      "word": "TFBOYS演唱会 99块钱的直播爸爸唱了98块",
+      "onboard_time": 1691481519,
+      "rank": 17,
+      "category": "幽默,音乐"
     },
     {
       "raw_hot": 1019315,
@@ -5107,6 +5131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742563,
+      "num": 358205,
+      "word": "中国邮政是懂奶茶取名的",
+      "onboard_time": 1691481218,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740858,
       "num": 740858,
       "word": "爱宝双胞胎宝宝满月照",
@@ -5723,14 +5755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 680545,
-      "num": 313345,
-      "word": "TF一代二代三代四代演唱会官宣时间",
-      "onboard_time": 1691479118,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 679875,
       "num": 596578,
       "word": "王传君王大陆30秒演完孤注一掷",
@@ -6019,6 +6043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 648157,
+      "num": 648157,
+      "word": "幸好乌尔善没用原来的剧本",
+      "onboard_time": 1691480917,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 647832,
       "num": 647832,
       "word": "TF四代 北京",
@@ -6209,6 +6241,14 @@
       "onboard_time": 1690879173,
       "rank": 12,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 632119,
+      "num": 352729,
+      "word": "别再劝女朋友多喝热水了",
+      "onboard_time": 1691481039,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 631677,
@@ -6571,14 +6611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 598621,
-      "num": 278935,
-      "word": "易烊千玺踉跄后扶了王源的腰",
-      "onboard_time": 1691479297,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 598485,
       "num": 598485,
       "word": "迪丽热巴帝梓元白发上线",
@@ -6905,6 +6937,14 @@
       "onboard_time": 1691230835,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 585395,
+      "num": 585395,
+      "word": "碧桂园两笔美元债票息未付",
+      "onboard_time": 1691478635,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 584727,
@@ -7433,6 +7473,14 @@
       "onboard_time": 1690974271,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 551157,
+      "num": 551157,
+      "word": "立秋的第一顿大餐吃什么",
+      "onboard_time": 1691479421,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 549462,
@@ -9707,14 +9755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419856,
-      "num": 419856,
-      "word": "碧桂园两笔美元债票息未付",
-      "onboard_time": 1691478635,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419511,
       "num": 557651,
       "word": "红米",
@@ -10443,6 +10483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388393,
+      "num": 388393,
+      "word": "TFBOYS十周年演唱会台本",
+      "onboard_time": 1691480559,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 388370,
       "num": 274053,
       "word": "李飞这个夏天赢麻了",
@@ -10665,6 +10713,14 @@
       "onboard_time": 1691200894,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 378327,
+      "num": 350533,
+      "word": "于适真把我帅到了",
+      "onboard_time": 1691481875,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 377699,
@@ -12659,6 +12715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302019,
+      "num": 302019,
+      "word": "大鹏王一博和泰国资方合照",
+      "onboard_time": 1691481936,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301701,
       "num": 301701,
       "word": "莲花楼片头曲好有江湖味",
@@ -12753,6 +12817,22 @@
       "onboard_time": 1691313701,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298698,
+      "num": 359382,
+      "word": "李莲花佛性",
+      "onboard_time": 1691481157,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 298530,
+      "num": 298530,
+      "word": "赵丽颖的视频都要愣一下",
+      "onboard_time": 1691479957,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 298149,
@@ -13595,6 +13675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272084,
+      "num": 272084,
+      "word": "詹青云庞颖为我经过风暴作词",
+      "onboard_time": 1691481756,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272046,
       "num": 272046,
       "word": "强降雨造成河北540703人受灾",
@@ -13665,6 +13753,14 @@
       "onboard_time": 1690961673,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268712,
+      "num": 268712,
+      "word": "张艺兴说孤注一掷很有意义",
+      "onboard_time": 1691480735,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 268574,
@@ -14307,14 +14403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248326,
-      "num": 248326,
-      "word": "立秋的第一顿大餐吃什么",
-      "onboard_time": 1691479421,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 248086,
       "num": 248086,
       "word": "薛之谦福州",
@@ -14745,6 +14833,14 @@
       "onboard_time": 1690894657,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237771,
+      "num": 237771,
+      "word": "提前刀死每个爱相柳的观众",
+      "onboard_time": 1691481039,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 237687,
@@ -15387,6 +15483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221194,
+      "num": 260774,
+      "word": "中国海警公布依法处置菲船只视频",
+      "onboard_time": 1691482055,
+      "rank": 37,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 220972,
       "num": 220972,
       "word": "八一建军节主题片无畏",
@@ -15771,6 +15875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213056,
+      "num": 213056,
+      "word": "七时吉祥主打一个历劫",
+      "onboard_time": 1691480795,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212807,
       "num": 212807,
       "word": "乐队的夏天3乐队阵容",
@@ -15784,6 +15896,14 @@
       "word": "毛球说相柳又要夸我了",
       "onboard_time": 1691197595,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212393,
+      "num": 212393,
+      "word": "王一博说泰语",
+      "onboard_time": 1691479715,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -16971,14 +17091,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193803,
-      "num": 193803,
-      "word": "王一博说泰语",
-      "onboard_time": 1691479715,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193764,
       "num": 222604,
       "word": "小夭拒绝相柳渡气",
@@ -17347,14 +17459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187844,
-      "num": 187844,
-      "word": "赵丽颖的视频都要愣一下",
-      "onboard_time": 1691479957,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187373,
       "num": 187373,
       "word": "西安城的易烊千玺照片",
@@ -17489,6 +17593,14 @@
       "onboard_time": 1690946614,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184046,
+      "num": 254485,
+      "word": "执着于双休的原因",
+      "onboard_time": 1691482236,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 183837,
@@ -18145,6 +18257,14 @@
       "onboard_time": 1690855054,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160712,
+      "num": 160712,
+      "word": "立秋文案",
+      "onboard_time": 1691480019,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 160050,
@@ -18833,6 +18953,14 @@
       "onboard_time": 1691132015,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123667,
+      "num": 160073,
+      "word": "诡秘之主动画小丑篇预告",
+      "onboard_time": 1691481096,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 122963,
@@ -19699,6 +19827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44312,
+      "num": 361040,
+      "word": "了不起的中国茶",
+      "onboard_time": 1691481638,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 43854,
       "num": 43854,
       "word": "lk99",
@@ -19753,6 +19889,14 @@
       "onboard_time": 1691132435,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34686,
+      "num": 586271,
+      "word": "今天是第15个全民健身日",
+      "onboard_time": 1691462974,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 33654,

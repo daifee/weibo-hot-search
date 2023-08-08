@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691480028801,
+  "endTime": 1691482867576,
   "band_list": [
     {
       "raw_hot": 2612303,
@@ -49,6 +49,14 @@
       "onboard_time": 1691468980,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1684437,
+      "num": 1684437,
+      "word": "今年出生人口或低于900万",
+      "onboard_time": 1691476536,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1615023,
@@ -123,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1355070,
-      "num": 1355070,
-      "word": "今年出生人口或低于900万",
-      "onboard_time": 1691476536,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1313411,
       "num": 737892,
       "word": "Prada把檀健次拍成维修工了",
@@ -155,12 +155,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1203315,
+      "num": 420068,
+      "word": "碧桂园",
+      "onboard_time": 1691478696,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1182749,
       "num": 1182749,
       "word": "zzr",
       "onboard_time": 1691420919,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1179128,
+      "num": 363211,
+      "word": "易烊千玺踉跄后扶了王源的腰",
+      "onboard_time": 1691479297,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 1158265,
@@ -225,6 +241,22 @@
       "onboard_time": 1691476117,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1023525,
+      "num": 354865,
+      "word": "TF一代二代三代四代演唱会官宣时间",
+      "onboard_time": 1691479118,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1019601,
+      "num": 358624,
+      "word": "TFBOYS演唱会 99块钱的直播爸爸唱了98块",
+      "onboard_time": 1691481519,
+      "rank": 17,
+      "category": "幽默,音乐"
     },
     {
       "raw_hot": 999158,
@@ -355,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 742563,
+      "num": 358205,
+      "word": "中国邮政是懂奶茶取名的",
+      "onboard_time": 1691481218,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732467,
       "num": 908130,
       "word": "不小心把芒果弄璋了",
@@ -377,14 +417,6 @@
       "onboard_time": 1691460093,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 680545,
-      "num": 313345,
-      "word": "TF一代二代三代四代演唱会官宣时间",
-      "onboard_time": 1691479118,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 667809,
@@ -419,12 +451,12 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 642492,
-      "num": 420068,
-      "word": "碧桂园",
-      "onboard_time": 1691478696,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 648157,
+      "num": 648157,
+      "word": "幸好乌尔善没用原来的剧本",
+      "onboard_time": 1691480917,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 639597,
@@ -443,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 598621,
-      "num": 278935,
-      "word": "易烊千玺踉跄后扶了王源的腰",
-      "onboard_time": 1691479297,
-      "rank": 25,
-      "category": "音乐"
+      "raw_hot": 632119,
+      "num": 352729,
+      "word": "别再劝女朋友多喝热水了",
+      "onboard_time": 1691481039,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 590855,
@@ -483,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 585395,
+      "num": 585395,
+      "word": "碧桂园两笔美元债票息未付",
+      "onboard_time": 1691478635,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584633,
       "num": 584633,
       "word": "外地人被内蒙人吃肉吓到了",
@@ -513,6 +553,14 @@
       "onboard_time": 1691421278,
       "rank": 7,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 551157,
+      "num": 551157,
+      "word": "立秋的第一顿大餐吃什么",
+      "onboard_time": 1691479421,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 549462,
@@ -779,14 +827,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 419856,
-      "num": 419856,
-      "word": "碧桂园两笔美元债票息未付",
-      "onboard_time": 1691478635,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 408579,
       "num": 323688,
       "word": "孤注一掷",
@@ -835,12 +875,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 388393,
+      "num": 388393,
+      "word": "TFBOYS十周年演唱会台本",
+      "onboard_time": 1691480559,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 388004,
       "num": 388004,
       "word": "暑期档看不过来了",
       "onboard_time": 1691471739,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378327,
+      "num": 350533,
+      "word": "于适真把我帅到了",
+      "onboard_time": 1691481875,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 377699,
@@ -995,6 +1051,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302019,
+      "num": 302019,
+      "word": "大鹏王一博和泰国资方合照",
+      "onboard_time": 1691481936,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 298698,
+      "num": 359382,
+      "word": "李莲花佛性",
+      "onboard_time": 1691481157,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 298530,
+      "num": 298530,
+      "word": "赵丽颖的视频都要愣一下",
+      "onboard_time": 1691479957,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296522,
       "num": 249388,
       "word": "大肚娃娃是相柳对小夭的一往情深",
@@ -1115,12 +1195,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 272084,
+      "num": 272084,
+      "word": "詹青云庞颖为我经过风暴作词",
+      "onboard_time": 1691481756,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271797,
       "num": 271797,
       "word": "司机成功预判了碰瓷大爷的预判",
       "onboard_time": 1691471440,
       "rank": 38,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 268712,
+      "num": 268712,
+      "word": "张艺兴说孤注一掷很有意义",
+      "onboard_time": 1691480735,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 268574,
@@ -1235,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248326,
-      "num": 248326,
-      "word": "立秋的第一顿大餐吃什么",
-      "onboard_time": 1691479421,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 246417,
       "num": 682822,
       "word": "陆军某旅千人百车驰援舒兰",
@@ -1272,6 +1360,14 @@
       "word": "夭璟互相吃醋",
       "onboard_time": 1691459313,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237771,
+      "num": 237771,
+      "word": "提前刀死每个爱相柳的观众",
+      "onboard_time": 1691481039,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1347,12 +1443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221194,
+      "num": 260774,
+      "word": "中国海警公布依法处置菲船只视频",
+      "onboard_time": 1691482055,
+      "rank": 37,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 218377,
       "num": 235368,
       "word": "凌晨地震老师们跑着叫学生快到重影",
       "onboard_time": 1691424873,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213056,
+      "num": 213056,
+      "word": "七时吉祥主打一个历劫",
+      "onboard_time": 1691480795,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 212947,
@@ -1369,6 +1481,14 @@
       "onboard_time": 1691473962,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212393,
+      "num": 212393,
+      "word": "王一博说泰语",
+      "onboard_time": 1691479715,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 210343,
@@ -1515,14 +1635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193803,
-      "num": 193803,
-      "word": "王一博说泰语",
-      "onboard_time": 1691479715,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189723,
       "num": 199995,
       "word": "全职高手3动画",
@@ -1555,12 +1667,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 187844,
-      "num": 187844,
-      "word": "赵丽颖的视频都要愣一下",
-      "onboard_time": 1691479957,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 184046,
+      "num": 254485,
+      "word": "执着于双休的原因",
+      "onboard_time": 1691482236,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 183210,
@@ -1633,6 +1745,14 @@
       "onboard_time": 1691477377,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 160712,
+      "num": 160712,
+      "word": "立秋文案",
+      "onboard_time": 1691480019,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 153394,
@@ -1713,6 +1833,14 @@
       "onboard_time": 1691428165,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123667,
+      "num": 160073,
+      "word": "诡秘之主动画小丑篇预告",
+      "onboard_time": 1691481096,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 117333,
@@ -1819,12 +1947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44312,
+      "num": 361040,
+      "word": "了不起的中国茶",
+      "onboard_time": 1691481638,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 37804,
       "num": 38602,
       "word": "祝绪丹古风撑伞",
       "onboard_time": 1691434817,
       "rank": 40,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 34686,
+      "num": 586271,
+      "word": "今天是第15个全民健身日",
+      "onboard_time": 1691462974,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 33564,

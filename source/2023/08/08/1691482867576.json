@@ -1,0 +1,410 @@
+{
+  "runTime": 1691482867576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1684437,
+        "num": 1684437,
+        "word": "今年出生人口或低于900万",
+        "onboard_time": 1691476536,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648157,
+        "num": 648157,
+        "word": "幸好乌尔善没用原来的剧本",
+        "onboard_time": 1691480917,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34686,
+        "num": 586271,
+        "word": "今天是第15个全民健身日",
+        "onboard_time": 1691462974,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 585395,
+        "num": 585395,
+        "word": "碧桂园两笔美元债票息未付",
+        "onboard_time": 1691478635,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551157,
+        "num": 551157,
+        "word": "立秋的第一顿大餐吃什么",
+        "onboard_time": 1691479421,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 526007,
+        "num": 526007,
+        "word": "嫡谋 杨紫龚俊",
+        "onboard_time": 1691470602,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388393,
+        "num": 388393,
+        "word": "TFBOYS十周年演唱会台本",
+        "onboard_time": 1691480559,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 382808,
+        "num": 382808,
+        "word": "很喜欢今年的8月8",
+        "onboard_time": 1691470780,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366458,
+        "num": 366458,
+        "word": "第一次omakase吃了纸巾",
+        "onboard_time": 1691476117,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39227,
+        "num": 365967,
+        "word": "子弟兵蹚淤泥推舟为村民送物资",
+        "onboard_time": 1691468800,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1378397,
+        "num": 365470,
+        "word": "赵丽颖第一次发儿子想想",
+        "onboard_time": 1691472217,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1203315,
+        "num": 364491,
+        "word": "碧桂园",
+        "onboard_time": 1691478696,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179128,
+        "num": 363211,
+        "word": "易烊千玺踉跄后扶了王源的腰",
+        "onboard_time": 1691479297,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 780646,
+        "num": 362754,
+        "word": "大S工作室发律师声明",
+        "onboard_time": 1691474318,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44312,
+        "num": 361040,
+        "word": "了不起的中国茶",
+        "onboard_time": 1691481638,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1159611,
+        "num": 360660,
+        "word": "易烊千玺究竟被吓到多少次",
+        "onboard_time": 1691477977,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298698,
+        "num": 359382,
+        "word": "李莲花佛性",
+        "onboard_time": 1691481157,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1019601,
+        "num": 358624,
+        "word": "TFBOYS演唱会 99块钱的直播爸爸唱了98块",
+        "onboard_time": 1691481519,
+        "rank": 17,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 742563,
+        "num": 358205,
+        "word": "中国邮政是懂奶茶取名的",
+        "onboard_time": 1691481218,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717586,
+        "num": 356814,
+        "word": "迪丽热巴工作室换了头像",
+        "onboard_time": 1691476117,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297342,
+        "num": 355979,
+        "word": "那可是晋江的三块钱",
+        "onboard_time": 1691476718,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1023525,
+        "num": 354865,
+        "word": "TF一代二代三代四代演唱会官宣时间",
+        "onboard_time": 1691479118,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 699569,
+        "num": 353695,
+        "word": "卡琳娜收到婚纱的反应",
+        "onboard_time": 1691477318,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688933,
+        "num": 353505,
+        "word": "苍兰诀聚餐合照",
+        "onboard_time": 1691477677,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 632119,
+        "num": 352729,
+        "word": "别再劝女朋友多喝热水了",
+        "onboard_time": 1691481039,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427828,
+        "num": 351379,
+        "word": "法图麦穿了李咏8年前衣服",
+        "onboard_time": 1691475457,
+        "rank": 25,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 378327,
+        "num": 350533,
+        "word": "于适真把我帅到了",
+        "onboard_time": 1691481875,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27103,
+        "num": 349704,
+        "word": "暴雨洪涝防疫指南",
+        "onboard_time": 1691463935,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349125,
+        "num": 349125,
+        "word": "万达高级副总裁刘海波被公安带走",
+        "onboard_time": 1691470362,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345473,
+        "num": 345473,
+        "word": "女孩18岁成人礼被男友带去吸毒",
+        "onboard_time": 1691469820,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333451,
+        "num": 333451,
+        "word": "请杨紫来精装修我的房子",
+        "onboard_time": 1691475818,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302019,
+        "num": 302019,
+        "word": "大鹏王一博和泰国资方合照",
+        "onboard_time": 1691481936,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300308,
+        "num": 300308,
+        "word": "刘涛演妈祖之前请示过妈祖",
+        "onboard_time": 1691468980,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298530,
+        "num": 298530,
+        "word": "赵丽颖的视频都要愣一下",
+        "onboard_time": 1691479957,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249333,
+        "num": 274668,
+        "word": "弟弟暑假工两个月成为公司骨干",
+        "onboard_time": 1691468078,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272084,
+        "num": 272084,
+        "word": "詹青云庞颖为我经过风暴作词",
+        "onboard_time": 1691481756,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268712,
+        "num": 268712,
+        "word": "张艺兴说孤注一掷很有意义",
+        "onboard_time": 1691480735,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221194,
+        "num": 260774,
+        "word": "中国海警公布依法处置菲船只视频",
+        "onboard_time": 1691482055,
+        "rank": 37,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 205123,
+        "num": 255554,
+        "word": "痛经的人是不易受孕体质吗",
+        "onboard_time": 1691453013,
+        "rank": 38,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 184046,
+        "num": 254485,
+        "word": "执着于双休的原因",
+        "onboard_time": 1691482236,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 254287,
+        "num": 254287,
+        "word": "时代峰峻",
+        "onboard_time": 1691475515,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237771,
+        "num": 237771,
+        "word": "提前刀死每个爱相柳的观众",
+        "onboard_time": 1691481039,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233252,
+        "num": 233252,
+        "word": "原来春晓医疗的电话真的能打通",
+        "onboard_time": 1691478157,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213056,
+        "num": 213056,
+        "word": "七时吉祥主打一个历劫",
+        "onboard_time": 1691480795,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212393,
+        "num": 212393,
+        "word": "王一博说泰语",
+        "onboard_time": 1691479715,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176238,
+        "num": 176238,
+        "word": "减肥期晚上出门风险有多大",
+        "onboard_time": 1691475397,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165201,
+        "num": 165201,
+        "word": "原来测过敏源这么痛",
+        "onboard_time": 1691477075,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160712,
+        "num": 160712,
+        "word": "立秋文案",
+        "onboard_time": 1691480019,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 135109,
+        "num": 160592,
+        "word": "全家吃菌仅女子一人中毒",
+        "onboard_time": 1691473717,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123667,
+        "num": 160073,
+        "word": "诡秘之主动画小丑篇预告",
+        "onboard_time": 1691481096,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#他们关键时刻冲得上去豁得出来#"
+    }
+  }
+}
