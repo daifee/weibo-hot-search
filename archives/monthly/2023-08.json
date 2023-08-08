@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691526868352,
+  "endTime": 1691529299588,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -20435,6 +20435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98360,
+      "num": 59103,
+      "word": "新生儿长2颗牙43天内先后被拔掉",
+      "onboard_time": 1691521755,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97333,
       "num": 97333,
       "word": "不是说竹子宁折不弯吗",
@@ -20544,14 +20552,6 @@
       "word": "积水中黑龙江消防员片刻不停救援",
       "onboard_time": 1691208875,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89621,
-      "num": 59103,
-      "word": "新生儿长2颗牙43天内先后被拔掉",
-      "onboard_time": 1691521755,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -21195,7 +21195,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20396,
+      "raw_hot": 22405,
       "num": 35752,
       "word": "殷桃露马甲线",
       "onboard_time": 1691525773,
@@ -21217,6 +21217,14 @@
       "onboard_time": 1691177355,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 19666,
+      "num": 25934,
+      "word": "2个动作瘦腰腹",
+      "onboard_time": 1691528653,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 18031,
@@ -21249,6 +21257,14 @@
       "onboard_time": 1691404177,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15966,
+      "num": 25923,
+      "word": "买车时一定要避开的坑",
+      "onboard_time": 1691529253,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 15792,

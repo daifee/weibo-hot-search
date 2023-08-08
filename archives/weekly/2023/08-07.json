@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691526868352,
+  "endTime": 1691529299588,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -5427,6 +5427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98360,
+      "num": 59103,
+      "word": "新生儿长2颗牙43天内先后被拔掉",
+      "onboard_time": 1691521755,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94318,
       "num": 818964,
       "word": "女护士车祸离世捐献器官救人",
@@ -5449,14 +5457,6 @@
       "onboard_time": 1691349136,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 89621,
-      "num": 59103,
-      "word": "新生儿长2颗牙43天内先后被拔掉",
-      "onboard_time": 1691521755,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87060,
@@ -5747,12 +5747,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 20396,
+      "raw_hot": 22405,
       "num": 35752,
       "word": "殷桃露马甲线",
       "onboard_time": 1691525773,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19666,
+      "num": 25934,
+      "word": "2个动作瘦腰腹",
+      "onboard_time": 1691528653,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 18031,
@@ -5777,6 +5785,14 @@
       "onboard_time": 1691404177,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15966,
+      "num": 25923,
+      "word": "买车时一定要避开的坑",
+      "onboard_time": 1691529253,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 11503,
