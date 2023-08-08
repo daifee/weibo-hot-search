@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691500793231,
+  "endTime": 1691501636430,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -121,6 +121,14 @@
       "onboard_time": 1691377716,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2954293,
+      "num": 1649208,
+      "word": "消防员邓超同志被评定为烈士",
+      "onboard_time": 1691495074,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2914197,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1532189,
+      "num": 1407218,
+      "word": "女孩疑在TFBOYS演唱会门口遭逃单",
+      "onboard_time": 1691500366,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1529444,
       "num": 569261,
       "word": "大S工作室发律师声明",
@@ -627,6 +643,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 1343877,
+      "num": 1343877,
+      "word": "试管婴儿与妈妈孕期的所有针管合影",
+      "onboard_time": 1691498203,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1343542,
       "num": 850677,
       "word": "张艺兴金晨情头",
@@ -689,14 +713,6 @@
       "onboard_time": 1691477977,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1236320,
-      "num": 1236320,
-      "word": "试管婴儿与妈妈孕期的所有针管合影",
-      "onboard_time": 1691498203,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1230236,
@@ -859,6 +875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1104499,
+      "num": 1104499,
+      "word": "刘青松哭了",
+      "onboard_time": 1691499941,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1099990,
       "num": 1099990,
       "word": "WBG我看不懂",
@@ -1011,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 986354,
+      "num": 986354,
+      "word": "杨紫直播",
+      "onboard_time": 1691497716,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 983431,
       "num": 983431,
       "word": "莲花楼加更礼",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1691420860,
       "rank": 16,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 929494,
-      "num": 929494,
-      "word": "杨紫直播",
-      "onboard_time": 1691497716,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 915884,
@@ -1243,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 818652,
-      "num": 818652,
-      "word": "刘青松哭了",
-      "onboard_time": 1691499941,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 818274,
       "num": 818274,
       "word": "嘎子哥该如何自证没有诈捐物资",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1691405855,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 764015,
+      "num": 764015,
+      "word": "崔胜澈直播呢",
+      "onboard_time": 1691497596,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 758530,
@@ -1491,12 +1515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 685383,
-      "num": 685383,
-      "word": "崔胜澈直播呢",
-      "onboard_time": 1691497596,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 684575,
+      "num": 684575,
+      "word": "王传君担心会被女性观众喷死",
+      "onboard_time": 1691492615,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 682846,
@@ -1763,14 +1787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 602913,
-      "num": 602913,
-      "word": "王传君担心会被女性观众喷死",
-      "onboard_time": 1691492615,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 602781,
       "num": 602781,
       "word": "莲花楼调更",
@@ -1955,20 +1971,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 558823,
-      "num": 436431,
-      "word": "女孩疑在TFBOYS演唱会门口遭逃单",
-      "onboard_time": 1691500366,
-      "rank": 33,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 558019,
       "num": 558019,
       "word": "王俊凯又来秀操作了",
       "onboard_time": 1691421278,
       "rank": 49,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 555689,
+      "num": 555689,
+      "word": "张晚意 极品模王",
+      "onboard_time": 1691499582,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 551157,
@@ -2105,6 +2121,14 @@
       "onboard_time": 1691407477,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521732,
+      "num": 521732,
+      "word": "第一次看封神质子团跳操",
+      "onboard_time": 1691501021,
+      "rank": 24,
+      "category": "体育,影视"
     },
     {
       "raw_hot": 521225,
@@ -2339,14 +2363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 470499,
-      "num": 470499,
-      "word": "张晚意 极品模王",
-      "onboard_time": 1691499582,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 469445,
       "num": 469445,
       "word": "广州emo",
@@ -2369,6 +2385,14 @@
       "onboard_time": 1691398659,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 461914,
+      "num": 461914,
+      "word": "上海外滩偶遇戚薇",
+      "onboard_time": 1691500840,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 460282,
@@ -2419,6 +2443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 447898,
+      "num": 447898,
+      "word": "孤注一掷票房破7亿",
+      "onboard_time": 1691500600,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 446513,
       "num": 446513,
       "word": "命运的齿轮开始生锈",
@@ -2435,12 +2467,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445503,
+      "num": 445503,
+      "word": "LPL出征S13全员披风上阵",
+      "onboard_time": 1691501082,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 443380,
       "num": 347631,
       "word": "朴叙俊拒绝戴发箍",
       "onboard_time": 1691384802,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441010,
+      "num": 441010,
+      "word": "杨紫回应小夭相柳是不是相爱",
+      "onboard_time": 1691501381,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 438269,
@@ -2473,6 +2521,14 @@
       "onboard_time": 1691322056,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 435913,
+      "num": 435913,
+      "word": "爱德朱 至少过程是美好的",
+      "onboard_time": 1691500600,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 435218,
@@ -3091,14 +3147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332835,
-      "num": 332835,
-      "word": "爱德朱 至少过程是美好的",
-      "onboard_time": 1691500600,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 327786,
       "num": 311213,
       "word": "去看脱发被医生夸了",
@@ -3459,12 +3507,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 292952,
-      "num": 292952,
-      "word": "孤注一掷票房破7亿",
-      "onboard_time": 1691500600,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 293926,
+      "num": 293926,
+      "word": "杨千嬅演唱会躺着唱歌",
+      "onboard_time": 1691501303,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 288010,
@@ -4811,6 +4859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150280,
+      "num": 1000448,
+      "word": "东北汉子被子弟兵感动哽咽",
+      "onboard_time": 1691496697,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149381,
       "num": 238669,
       "word": "吉林舒兰灾情",
@@ -4849,14 +4905,6 @@
       "onboard_time": 1691330829,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143870,
-      "num": 1000448,
-      "word": "东北汉子被子弟兵感动哽咽",
-      "onboard_time": 1691496697,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143822,
@@ -5099,6 +5147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94318,
+      "num": 818964,
+      "word": "女护士车祸离世捐献器官救人",
+      "onboard_time": 1691499701,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91752,
       "num": 150900,
       "word": "婚宴随完礼打包一桌菜",
@@ -5271,14 +5327,6 @@
       "num": 596038,
       "word": "消防员冷水里排涝脸上热汗不断",
       "onboard_time": 1691406218,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43970,
-      "num": 818964,
-      "word": "女护士车祸离世捐献器官救人",
-      "onboard_time": 1691499701,
       "rank": 14,
       "category": "社会新闻"
     },
