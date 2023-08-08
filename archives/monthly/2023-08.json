@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691498930018,
+  "endTime": 1691500793231,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -595,6 +595,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2645043,
+      "num": 2645043,
+      "word": "WBG战胜EDG",
+      "onboard_time": 1691498802,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 2629428,
+      "num": 965099,
+      "word": "孕期出轨产业链的恶劣现象",
+      "onboard_time": 1691495735,
+      "rank": 10,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 2612303,
       "num": 785941,
       "word": "赵丽颖第一次发儿子想想",
@@ -707,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2427842,
+      "num": 2427842,
+      "word": "Uzi无缘S13",
+      "onboard_time": 1691498802,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2391660,
       "num": 2391660,
       "word": "B站崩了",
@@ -737,6 +761,14 @@
       "onboard_time": 1691155658,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2339621,
+      "num": 950321,
+      "word": "选秀学员撞脸迪丽热巴",
+      "onboard_time": 1691497235,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2327843,
@@ -995,14 +1027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 2044706,
-      "num": 913881,
-      "word": "孕期出轨产业链的恶劣现象",
-      "onboard_time": 1691495735,
-      "rank": 10,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 2043523,
       "num": 2043523,
       "word": "山东平原县地震10人受伤",
@@ -1211,14 +1235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1846307,
-      "num": 1846307,
-      "word": "WBG战胜EDG",
-      "onboard_time": 1691498802,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1841711,
       "num": 1841711,
       "word": "河南震感",
@@ -1401,14 +1417,6 @@
       "onboard_time": 1691468980,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1715722,
-      "num": 913877,
-      "word": "选秀学员撞脸迪丽热巴",
-      "onboard_time": 1691497235,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1703303,
@@ -2513,6 +2521,14 @@
       "onboard_time": 1691119295,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1236320,
+      "num": 1236320,
+      "word": "试管婴儿与妈妈孕期的所有针管合影",
+      "onboard_time": 1691498203,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1230236,
@@ -3923,6 +3939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 929494,
+      "num": 929494,
+      "word": "杨紫直播",
+      "onboard_time": 1691497716,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 929187,
       "num": 782840,
       "word": "CoCo 走好",
@@ -4649,6 +4673,14 @@
       "onboard_time": 1690897898,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 818652,
+      "num": 818652,
+      "word": "刘青松哭了",
+      "onboard_time": 1691499941,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 818274,
@@ -5779,14 +5811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 701189,
-      "num": 701189,
-      "word": "Uzi无缘S13",
-      "onboard_time": 1691498802,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 700890,
       "num": 700890,
       "word": "不要轻易介入他人的因果",
@@ -5889,6 +5913,14 @@
       "onboard_time": 1690987177,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 685383,
+      "num": 685383,
+      "word": "崔胜澈直播呢",
+      "onboard_time": 1691497596,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 685115,
@@ -6755,6 +6787,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 610225,
+      "num": 610225,
+      "word": "TheShy时隔四年重返世界赛",
+      "onboard_time": 1691499582,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 610205,
       "num": 610205,
       "word": "外国人看巨齿鲨2后遗症",
@@ -6833,6 +6873,14 @@
       "onboard_time": 1691296360,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 602913,
+      "num": 602913,
+      "word": "王传君担心会被女性观众喷死",
+      "onboard_time": 1691492615,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 602781,
@@ -7443,14 +7491,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 569472,
-      "num": 569472,
-      "word": "崔胜澈直播呢",
-      "onboard_time": 1691497596,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 568745,
       "num": 407912,
       "word": "黄锐",
@@ -7561,6 +7601,14 @@
       "onboard_time": 1691240386,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 558823,
+      "num": 436431,
+      "word": "女孩疑在TFBOYS演唱会门口遭逃单",
+      "onboard_time": 1691500366,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 558723,
@@ -8179,14 +8227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 523066,
-      "num": 523066,
-      "word": "杨紫直播",
-      "onboard_time": 1691497716,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 522949,
       "num": 367532,
       "word": "从睡姿判断情侣关系",
@@ -8289,14 +8329,6 @@
       "onboard_time": 1691135073,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 520068,
-      "num": 487026,
-      "word": "王传君担心会被女性观众喷死",
-      "onboard_time": 1691492615,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 519960,
@@ -8843,6 +8875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 488372,
+      "num": 488372,
+      "word": "起猛了看见帕梅拉在练八段锦",
+      "onboard_time": 1691497177,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488315,
       "num": 488315,
       "word": "打工而已我又不是来改造自己的",
@@ -8961,14 +9001,6 @@
       "onboard_time": 1691058033,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 482154,
-      "num": 482154,
-      "word": "起猛了看见帕梅拉在练八段锦",
-      "onboard_time": 1691497177,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 482150,
@@ -9185,6 +9217,14 @@
       "onboard_time": 1691146356,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 470499,
+      "num": 470499,
+      "word": "张晚意 极品模王",
+      "onboard_time": 1691499582,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 469445,
@@ -10083,14 +10123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 422178,
-      "num": 422178,
-      "word": "试管婴儿与妈妈孕期的所有针管合影",
-      "onboard_time": 1691498203,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422154,
       "num": 1623559,
       "word": "涿州一饭店借烛光为200名救援人员做饭",
@@ -10963,6 +10995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386440,
+      "num": 386440,
+      "word": "丫丫贴秋膘",
+      "onboard_time": 1691497535,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386160,
       "num": 386160,
       "word": "吴艳妮女子百米栏摘银",
@@ -11385,6 +11425,14 @@
       "onboard_time": 1691231138,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367052,
+      "num": 367052,
+      "word": "李莲花爱情亲情友情都没了",
+      "onboard_time": 1691499282,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 364575,
@@ -12011,6 +12059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342287,
+      "num": 342287,
+      "word": "杭州面包店有多卷",
+      "onboard_time": 1691496936,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 342018,
       "num": 376140,
       "word": "门头沟",
@@ -12139,14 +12195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335941,
-      "num": 335941,
-      "word": "丫丫贴秋膘",
-      "onboard_time": 1691497535,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 335831,
       "num": 277357,
       "word": "4D影厅的受众到底是谁",
@@ -12249,6 +12297,14 @@
       "onboard_time": 1691236477,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332835,
+      "num": 332835,
+      "word": "爱德朱 至少过程是美好的",
+      "onboard_time": 1691500600,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 332188,
@@ -12553,6 +12609,14 @@
       "onboard_time": 1691214934,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 320136,
+      "num": 320136,
+      "word": "王鹤棣用脖子背包袱",
+      "onboard_time": 1691497659,
+      "rank": 43,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 319587,
@@ -13203,14 +13267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300712,
-      "num": 300712,
-      "word": "王鹤棣用脖子背包袱",
-      "onboard_time": 1691497659,
-      "rank": 43,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 300708,
       "num": 300708,
       "word": "余华听说有人过上了自己小说里的生活",
@@ -13457,6 +13513,14 @@
       "onboard_time": 1691156019,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292952,
+      "num": 292952,
+      "word": "孤注一掷票房破7亿",
+      "onboard_time": 1691500600,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 292918,
@@ -13849,14 +13913,6 @@
       "onboard_time": 1691234315,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281081,
-      "num": 281081,
-      "word": "杭州面包店有多卷",
-      "onboard_time": 1691496936,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 281050,
@@ -19219,6 +19275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143870,
+      "num": 1000448,
+      "word": "东北汉子被子弟兵感动哽咽",
+      "onboard_time": 1691496697,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143822,
       "num": 143822,
       "word": "现在的小说是相当炸裂啊",
@@ -20115,14 +20179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92081,
-      "num": 913936,
-      "word": "东北汉子被子弟兵感动哽咽",
-      "onboard_time": 1691496697,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91979,
       "num": 1149348,
       "word": "暴雨洪水过后的安全及防疫提醒",
@@ -20292,7 +20348,7 @@
     },
     {
       "raw_hot": 76012,
-      "num": 2227410,
+      "num": 2445244,
       "word": "我在国门一线",
       "onboard_time": 1691489019,
       "rank": 2,
@@ -20527,6 +20583,14 @@
       "num": 576467,
       "word": "试飞员4个字描述新型战机发动机",
       "onboard_time": 1691233296,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43970,
+      "num": 818964,
+      "word": "女护士车祸离世捐献器官救人",
+      "onboard_time": 1691499701,
       "rank": 14,
       "category": "社会新闻"
     },
