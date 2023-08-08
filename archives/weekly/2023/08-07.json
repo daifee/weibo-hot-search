@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691475676320,
+  "endTime": 1691476453851,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1529444,
+      "num": 466284,
+      "word": "大S工作室发律师声明",
+      "onboard_time": 1691474318,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1523959,
       "num": 1133073,
       "word": "TFBOYS演唱会优酷最少进账6550万",
@@ -425,14 +433,6 @@
       "onboard_time": 1691393379,
       "rank": 34,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 1466636,
-      "num": 466284,
-      "word": "大S工作室发律师声明",
-      "onboard_time": 1691474318,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1442986,
@@ -1107,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 723044,
+      "num": 445877,
+      "word": "谁给倪妮做的发型",
+      "onboard_time": 1691474560,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 718137,
       "num": 718137,
       "word": "马立奥爷爷的礼物是每人一台车",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1691414018,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 654001,
+      "num": 419783,
+      "word": "时代峰峻",
+      "onboard_time": 1691475515,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 653266,
@@ -1387,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 589189,
+      "num": 394295,
+      "word": "法图麦穿了李咏8年前衣服",
+      "onboard_time": 1691475457,
+      "rank": 28,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 588512,
       "num": 823195,
       "word": "直到25岁我才真正读完了中学",
@@ -1433,14 +1457,6 @@
       "onboard_time": 1691468316,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 583974,
-      "num": 445877,
-      "word": "谁给倪妮做的发型",
-      "onboard_time": 1691474560,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 582659,
@@ -1955,6 +1971,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 430855,
+      "num": 232069,
+      "word": "迪丽热巴工作室换了头像",
+      "onboard_time": 1691476117,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430333,
       "num": 430333,
       "word": "虞书欣工作室为小兰花庆生",
@@ -2171,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397015,
+      "num": 272337,
+      "word": "时代少年团楼外楼演唱会官宣",
+      "onboard_time": 1691474978,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 396903,
       "num": 346161,
       "word": "便利店偷听八卦发现正主是自己",
@@ -2193,6 +2225,14 @@
       "onboard_time": 1691397216,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 392416,
+      "num": 261310,
+      "word": "请杨紫来精装修我的房子",
+      "onboard_time": 1691475818,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 391957,
@@ -2352,14 +2392,6 @@
       "word": "薛之谦在线帮歌迷牵线",
       "onboard_time": 1691377836,
       "rank": 41,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 350976,
-      "num": 272337,
-      "word": "时代少年团楼外楼演唱会官宣",
-      "onboard_time": 1691474978,
-      "rank": 23,
       "category": "音乐"
     },
     {
@@ -2995,14 +3027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262914,
-      "num": 262914,
-      "word": "法图麦穿了李咏8年前衣服",
-      "onboard_time": 1691475457,
-      "rank": 28,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 262478,
       "num": 262478,
       "word": "迈阿密国际后防线",
@@ -3017,14 +3041,6 @@
       "onboard_time": 1691420980,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259379,
-      "num": 208650,
-      "word": "时代峰峻",
-      "onboard_time": 1691475515,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 257067,
@@ -3243,6 +3259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225018,
+      "num": 225018,
+      "word": "刘涛胡歌陈龙合影梦回琅琊榜",
+      "onboard_time": 1691476055,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222064,
       "num": 208745,
       "word": "边伯贤直播",
@@ -3388,7 +3412,7 @@
     },
     {
       "raw_hot": 204552,
-      "num": 208350,
+      "num": 213536,
       "word": "减肥期晚上出门风险有多大",
       "onboard_time": 1691475397,
       "rank": 36,
@@ -3435,6 +3459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202071,
+      "num": 215067,
+      "word": "第一次omakase吃了纸巾",
+      "onboard_time": 1691476117,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201957,
       "num": 201957,
       "word": "七时吉祥1V1情劫预告",
@@ -3457,6 +3489,14 @@
       "onboard_time": 1691393078,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200733,
+      "num": 208311,
+      "word": "亚洲超星团",
+      "onboard_time": 1691475278,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 199161,
@@ -3523,14 +3563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193462,
-      "num": 208311,
-      "word": "亚洲超星团",
-      "onboard_time": 1691475278,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192069,
       "num": 192069,
       "word": "谢谢山西饸饹面",
@@ -3571,6 +3603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 189588,
+      "num": 204134,
+      "word": "新天龙八部手游将上线",
+      "onboard_time": 1691476177,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189528,
       "num": 189528,
       "word": "男子喝笋汤发现碗内暗藏玄机",
@@ -3585,6 +3625,14 @@
       "onboard_time": 1691399738,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187057,
+      "num": 204123,
+      "word": "乐队的夏天3乐队阵容",
+      "onboard_time": 1691473962,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 185812,
@@ -3713,6 +3761,14 @@
       "onboard_time": 1691331255,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170632,
+      "num": 204074,
+      "word": "K396次列车救援微纪录片",
+      "onboard_time": 1691476296,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164739,
@@ -4091,6 +4147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62131,
+      "num": 208317,
+      "word": "立秋第一杯奶茶是饿了么免单给的",
+      "onboard_time": 1691474438,
+      "rank": 39,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 61467,
       "num": 485427,
       "word": "涿州孤岛救援12小时纪实",
@@ -4129,14 +4193,6 @@
       "onboard_time": 1691397216,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51071,
-      "num": 208317,
-      "word": "立秋第一杯奶茶是饿了么免单给的",
-      "onboard_time": 1691474438,
-      "rank": 39,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 51001,
