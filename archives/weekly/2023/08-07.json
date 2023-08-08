@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691525873314,
+  "endTime": 1691526868352,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -5451,6 +5451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89621,
+      "num": 59103,
+      "word": "新生儿长2颗牙43天内先后被拔掉",
+      "onboard_time": 1691521755,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87060,
       "num": 96842,
       "word": "边牧才是狗界的显眼包",
@@ -5488,14 +5496,6 @@
       "word": "如何减掉肚子上的游泳圈",
       "onboard_time": 1691517978,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78868,
-      "num": 59103,
-      "word": "新生儿长2颗牙43天内先后被拔掉",
-      "onboard_time": 1691521755,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5708,7 +5708,7 @@
     },
     {
       "raw_hot": 32050,
-      "num": 35909,
+      "num": 36267,
       "word": "小夭外爷一段话diss了三个男人",
       "onboard_time": 1691522354,
       "rank": 39,
@@ -5747,20 +5747,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 20396,
+      "num": 35752,
+      "word": "殷桃露马甲线",
+      "onboard_time": 1691525773,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18031,
       "num": 120315,
       "word": "乔治亚水族馆的海獭们",
       "onboard_time": 1691350394,
       "rank": 49,
       "category": "幽默,旅游"
-    },
-    {
-      "raw_hot": 16704,
-      "num": 35752,
-      "word": "殷桃露马甲线",
-      "onboard_time": 1691525773,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 16584,
