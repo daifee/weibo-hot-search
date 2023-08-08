@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691483657206,
+  "endTime": 1691486179088,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -121,6 +121,14 @@
       "onboard_time": 1691375974,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 2729848,
+      "num": 543473,
+      "word": "选秀真的来了",
+      "onboard_time": 1691483075,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 2612303,
@@ -275,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1745598,
+      "num": 1745598,
+      "word": "中国邮政是懂奶茶取名的",
+      "onboard_time": 1691481218,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1726567,
       "num": 409443,
       "word": "女子便秘10多天体内取出40斤大便",
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 1529444,
-      "num": 479108,
+      "num": 536927,
       "word": "大S工作室发律师声明",
       "onboard_time": 1691474318,
       "rank": 11,
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1376234,
+      "num": 524459,
+      "word": "TFBOYS演唱会 99块钱的直播爸爸唱了98块",
+      "onboard_time": 1691481519,
+      "rank": 17,
+      "category": "幽默,音乐"
+    },
+    {
       "raw_hot": 1343542,
       "num": 850677,
       "word": "张艺兴金晨情头",
@@ -545,14 +569,6 @@
       "onboard_time": 1691416420,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1319733,
-      "num": 524459,
-      "word": "TFBOYS演唱会 99块钱的直播爸爸唱了98块",
-      "onboard_time": 1691481519,
-      "rank": 17,
-      "category": "幽默,音乐"
     },
     {
       "raw_hot": 1313411,
@@ -587,8 +603,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1266128,
+      "num": 845543,
+      "word": "阔腿裤最干净的上厕所方式",
+      "onboard_time": 1691483377,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1264572,
-      "num": 421532,
+      "num": 455422,
       "word": "易烊千玺究竟被吓到多少次",
       "onboard_time": 1691477977,
       "rank": 20,
@@ -796,7 +820,7 @@
     },
     {
       "raw_hot": 1060342,
-      "num": 426063,
+      "num": 457130,
       "word": "迪丽热巴工作室换了头像",
       "onboard_time": 1691476117,
       "rank": 30,
@@ -825,14 +849,6 @@
       "onboard_time": 1691416659,
       "rank": 18,
       "category": "时尚,幽默"
-    },
-    {
-      "raw_hot": 1028402,
-      "num": 1028402,
-      "word": "中国邮政是懂奶茶取名的",
-      "onboard_time": 1691481218,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1023525,
@@ -865,6 +881,14 @@
       "onboard_time": 1691470061,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 983431,
+      "num": 983431,
+      "word": "莲花楼加更礼",
+      "onboard_time": 1691485118,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 981323,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1691477677,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 820711,
+      "num": 820711,
+      "word": "朱正廷或将当李权哲导师",
+      "onboard_time": 1691484516,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 818274,
@@ -1427,14 +1459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 626874,
-      "num": 388598,
-      "word": "选秀真的来了",
-      "onboard_time": 1691483075,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 623804,
       "num": 623804,
       "word": "孤注一掷 字幕组",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1691382343,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 610205,
+      "num": 610205,
+      "word": "外国人看巨齿鲨2后遗症",
+      "onboard_time": 1691483557,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 602781,
@@ -1667,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 547364,
+      "num": 547364,
+      "word": "执着于双休的原因",
+      "onboard_time": 1691482236,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 547167,
       "num": 382174,
       "word": "王传君特别感谢艳芬女士",
@@ -1713,6 +1753,14 @@
       "onboard_time": 1691416119,
       "rank": 23,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 532984,
+      "num": 532984,
+      "word": "小夭也没有见过真正的涂山璟",
+      "onboard_time": 1691484575,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 532620,
@@ -2163,6 +2211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 422668,
+      "num": 422668,
+      "word": "山东多家医院推出免费自助厨房",
+      "onboard_time": 1691484759,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422278,
       "num": 422278,
       "word": "那可是晋江的三块钱",
@@ -2459,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366704,
+      "num": 366704,
+      "word": "刘亦菲抹胸蝴蝶结粉裙",
+      "onboard_time": 1691485598,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 364575,
       "num": 364575,
       "word": "莲花楼热度",
@@ -2707,6 +2771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 312998,
+      "num": 288258,
+      "word": "宋茜在机场教瑜伽",
+      "onboard_time": 1691484998,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312724,
       "num": 235674,
       "word": "阎月明逝世",
@@ -2833,6 +2905,14 @@
       "onboard_time": 1691396677,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300493,
+      "num": 300493,
+      "word": "中国芭比有自己的肯",
+      "onboard_time": 1691483977,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 298698,
@@ -3059,12 +3139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275853,
+      "num": 534312,
+      "word": "小朋友在医院角落一口气跳舞2小时",
+      "onboard_time": 1691484396,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275602,
       "num": 275602,
       "word": "我的睡前的烦恼vs别人的睡前烦恼",
       "onboard_time": 1691422599,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 275539,
+      "num": 275539,
+      "word": "仙剑3动画一眼万年预告",
+      "onboard_time": 1691483618,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 273818,
@@ -3137,6 +3233,14 @@
       "onboard_time": 1691464655,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268277,
+      "num": 268277,
+      "word": "海王式恋爱",
+      "onboard_time": 1691485539,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 268258,
@@ -3235,6 +3339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260959,
+      "num": 260959,
+      "word": "刘亦菲玫瑰故事白衣路透",
+      "onboard_time": 1691484698,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 260151,
       "num": 1138210,
       "word": "陆军某旅千人百车驰援舒兰",
@@ -3280,14 +3392,6 @@
       "word": "相机千万别和樟脑丸放一起",
       "onboard_time": 1691477195,
       "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 253887,
-      "num": 253887,
-      "word": "阔腿裤最干净的上厕所方式",
-      "onboard_time": 1691483377,
-      "rank": 33,
       "category": "幽默"
     },
     {
@@ -3435,14 +3539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233767,
-      "num": 254485,
-      "word": "执着于双休的原因",
-      "onboard_time": 1691482236,
-      "rank": 39,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 233315,
       "num": 233315,
       "word": "小夭说防风邶是狗狗邶",
@@ -3531,6 +3627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224784,
+      "num": 224784,
+      "word": "陈牧驰流水的上衣铁打的大裤衩",
+      "onboard_time": 1691484036,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222064,
       "num": 208745,
       "word": "边伯贤直播",
@@ -3579,6 +3683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217929,
+      "num": 217929,
+      "word": "杨超越新剧七世标题",
+      "onboard_time": 1691486019,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217850,
       "num": 273732,
       "word": "意想不到的东西出现在博物馆了",
@@ -3593,6 +3705,14 @@
       "onboard_time": 1691337239,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213105,
+      "num": 213105,
+      "word": "孤注一掷票房破6亿",
+      "onboard_time": 1691484698,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 213056,
@@ -3851,12 +3971,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194672,
+      "num": 194672,
+      "word": "不良人7预告",
+      "onboard_time": 1691485598,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 194538,
       "num": 208117,
       "word": "剑网3",
       "onboard_time": 1691378499,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192939,
+      "num": 192939,
+      "word": "眷思量第二季预告",
+      "onboard_time": 1691484998,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 192069,
@@ -3955,14 +4091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184426,
-      "num": 184426,
-      "word": "仙剑3动画一眼万年预告",
-      "onboard_time": 1691483618,
-      "rank": 46,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 183210,
       "num": 208332,
       "word": "雪糕届真的太内卷了",
@@ -4017,6 +4145,14 @@
       "onboard_time": 1691409634,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180088,
+      "num": 191427,
+      "word": "心理医生对你说过哪些印象深刻的话",
+      "onboard_time": 1691485776,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 177753,
@@ -4587,6 +4723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32383,
+      "num": 545664,
+      "word": "空中俯瞰消防在五常洪水中一路逆行",
+      "onboard_time": 1691484698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30034,
       "num": 162302,
       "word": "夏鸣星卡面",
@@ -4632,6 +4776,14 @@
       "word": "饿了么宣布为视障用户造节",
       "onboard_time": 1691404177,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16237,
+      "num": 228258,
+      "word": "范丞丞在神抢手请你喝奶茶",
+      "onboard_time": 1691485238,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
