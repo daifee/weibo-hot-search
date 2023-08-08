@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691476453851,
+  "endTime": 1691478917197,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 1529444,
-      "num": 466284,
+      "num": 479108,
       "word": "大S工作室发律师声明",
       "onboard_time": 1691474318,
       "rank": 11,
@@ -659,6 +659,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1155786,
+      "num": 1155786,
+      "word": "第一次omakase吃了纸巾",
+      "onboard_time": 1691476117,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1147519,
       "num": 1147519,
       "word": "接近碧桂园人士称被进驻传言不实",
@@ -760,6 +768,14 @@
       "word": "孤注一掷成中国影史点映票房冠军",
       "onboard_time": 1691403340,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1045190,
+      "num": 426063,
+      "word": "迪丽热巴工作室换了头像",
+      "onboard_time": 1691476117,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -963,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 831754,
+      "num": 409445,
+      "word": "法图麦穿了李咏8年前衣服",
+      "onboard_time": 1691475457,
+      "rank": 28,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 818274,
       "num": 818274,
       "word": "嘎子哥该如何自证没有诈捐物资",
@@ -1033,6 +1057,30 @@
       "onboard_time": 1691405855,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 773850,
+      "num": 368193,
+      "word": "苍兰诀聚餐合照",
+      "onboard_time": 1691477677,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 771406,
+      "num": 367771,
+      "word": "卡琳娜收到婚纱的反应",
+      "onboard_time": 1691477318,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 758530,
+      "num": 673950,
+      "word": "时代峰峻",
+      "onboard_time": 1691475515,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 755746,
@@ -1203,6 +1251,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 676517,
+      "num": 676517,
+      "word": "今年出生人口或低于900万",
+      "onboard_time": 1691476536,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667809,
+      "num": 667809,
+      "word": "请杨紫来精装修我的房子",
+      "onboard_time": 1691475818,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 665816,
       "num": 665816,
       "word": "TFBOYS演唱会效应",
@@ -1233,14 +1297,6 @@
       "onboard_time": 1691414018,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 654001,
-      "num": 419783,
-      "word": "时代峰峻",
-      "onboard_time": 1691475515,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 653266,
@@ -1388,7 +1444,7 @@
     },
     {
       "raw_hot": 590855,
-      "num": 277902,
+      "num": 299937,
       "word": "全家吃菌仅女子一人中毒",
       "onboard_time": 1691473717,
       "rank": 20,
@@ -1401,14 +1457,6 @@
       "onboard_time": 1691470061,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 589189,
-      "num": 394295,
-      "word": "法图麦穿了李咏8年前衣服",
-      "onboard_time": 1691475457,
-      "rank": 28,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 588512,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1691469400,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 581594,
+      "num": 321784,
+      "word": "易烊千玺究竟被吓到多少次",
+      "onboard_time": 1691477977,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 570075,
@@ -1971,14 +2027,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 430855,
-      "num": 232069,
-      "word": "迪丽热巴工作室换了头像",
-      "onboard_time": 1691476117,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 430333,
       "num": 430333,
       "word": "虞书欣工作室为小兰花庆生",
@@ -2227,14 +2275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 392416,
-      "num": 261310,
-      "word": "请杨紫来精装修我的房子",
-      "onboard_time": 1691475818,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 391957,
       "num": 631067,
       "word": "张雨霏九金王",
@@ -2249,6 +2289,14 @@
       "onboard_time": 1691426789,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389409,
+      "num": 305079,
+      "word": "原来测过敏源这么痛",
+      "onboard_time": 1691477075,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 388760,
@@ -2361,6 +2409,14 @@
       "onboard_time": 1691389179,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 359320,
+      "num": 359320,
+      "word": "那可是晋江的三块钱",
+      "onboard_time": 1691476718,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 358368,
@@ -2867,6 +2923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277405,
+      "num": 277405,
+      "word": "原来春晓医疗的电话真的能打通",
+      "onboard_time": 1691478157,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276265,
       "num": 272964,
       "word": "吴宣仪新剧撕开心机女真面目",
@@ -3067,6 +3131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 254952,
+      "num": 254952,
+      "word": "相机千万别和樟脑丸放一起",
+      "onboard_time": 1691477195,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252798,
       "num": 252798,
       "word": "上班要是能有寒暑假就好了",
@@ -3113,6 +3185,14 @@
       "onboard_time": 1691340754,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 244709,
+      "num": 244709,
+      "word": "减肥期晚上出门风险有多大",
+      "onboard_time": 1691475397,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 244337,
@@ -3331,6 +3411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212807,
+      "num": 212807,
+      "word": "乐队的夏天3乐队阵容",
+      "onboard_time": 1691473962,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212260,
       "num": 244749,
       "word": "毛不易献唱学爸片尾曲",
@@ -3411,12 +3499,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204552,
-      "num": 213536,
-      "word": "减肥期晚上出门风险有多大",
-      "onboard_time": 1691475397,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 204994,
+      "num": 204994,
+      "word": "K396次列车救援微纪录片",
+      "onboard_time": 1691476296,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204468,
@@ -3459,20 +3547,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202071,
-      "num": 215067,
-      "word": "第一次omakase吃了纸巾",
-      "onboard_time": 1691476117,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 201957,
       "num": 201957,
       "word": "七时吉祥1V1情劫预告",
       "onboard_time": 1691462075,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201564,
+      "num": 201564,
+      "word": "鸢染烟纱",
+      "onboard_time": 1691477977,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 201294,
@@ -3489,6 +3577,14 @@
       "onboard_time": 1691393078,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201026,
+      "num": 201026,
+      "word": "我穿潮牌就是这样子的",
+      "onboard_time": 1691478459,
+      "rank": 43,
+      "category": "时尚,幽默"
     },
     {
       "raw_hot": 200733,
@@ -3545,6 +3641,14 @@
       "onboard_time": 1691347937,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195437,
+      "num": 201023,
+      "word": "碧桂园两笔美元债票息未付",
+      "onboard_time": 1691478635,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194963,
@@ -3625,14 +3729,6 @@
       "onboard_time": 1691399738,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187057,
-      "num": 204123,
-      "word": "乐队的夏天3乐队阵容",
-      "onboard_time": 1691473962,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 185812,
@@ -3763,20 +3859,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170632,
-      "num": 204074,
-      "word": "K396次列车救援微纪录片",
-      "onboard_time": 1691476296,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164739,
       "num": 82021,
       "word": "王源对十年前自己说的话",
       "onboard_time": 1691353574,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163467,
+      "num": 200985,
+      "word": "晋江作者大会",
+      "onboard_time": 1691477377,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 162327,
