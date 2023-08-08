@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691532978185,
+  "endTime": 1691534036730,
   "band_list": [
     {
       "raw_hot": 1269442,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 492696,
-      "num": 378044,
+      "num": 478173,
       "word": "脏脏包为什么现在没人吃了",
       "onboard_time": 1691510911,
       "rank": 25,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282498,
+      "num": 111782,
+      "word": "新生儿长2颗牙43天内先后被拔掉",
+      "onboard_time": 1691521755,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281711,
       "num": 281711,
       "word": "Bin哥晒和TheShy合照",
@@ -289,14 +297,6 @@
       "onboard_time": 1691487696,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201965,
-      "num": 87625,
-      "word": "新生儿长2颗牙43天内先后被拔掉",
-      "onboard_time": 1691521755,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199590,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100524,
+      "num": 70972,
+      "word": "如何减掉肚子上的游泳圈",
+      "onboard_time": 1691517978,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92469,
       "num": 100314,
       "word": "崔胜澈直播呢",
@@ -451,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81793,
-      "num": 70972,
-      "word": "如何减掉肚子上的游泳圈",
-      "onboard_time": 1691517978,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 77113,
+      "num": 77113,
+      "word": "小夭外爷一段话diss了三个男人",
+      "onboard_time": 1691522354,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 73657,
@@ -467,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68311,
+      "num": 56099,
+      "word": "2个动作瘦腰腹",
+      "onboard_time": 1691528653,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64219,
       "num": 80738,
       "word": "无用的谎言",
       "onboard_time": 1691515222,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 61194,
+      "num": 56425,
+      "word": "女朋友生气时的统一模板",
+      "onboard_time": 1691526912,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 55681,
@@ -483,32 +507,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 55399,
-      "num": 55399,
-      "word": "小夭外爷一段话diss了三个男人",
-      "onboard_time": 1691522354,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 53288,
-      "num": 45002,
-      "word": "2个动作瘦腰腹",
-      "onboard_time": 1691528653,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 52205,
-      "num": 45027,
-      "word": "女朋友生气时的统一模板",
-      "onboard_time": 1691526912,
-      "rank": 41,
-      "category": "幽默,情感"
+      "raw_hot": 41275,
+      "num": 56086,
+      "word": "殷桃露马甲线",
+      "onboard_time": 1691525773,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 38358,
-      "num": 54209,
+      "num": 56059,
       "word": "崩坏星穹铁道",
       "onboard_time": 1691517140,
       "rank": 49,
@@ -521,14 +529,6 @@
       "onboard_time": 1691508937,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32122,
-      "num": 44984,
-      "word": "殷桃露马甲线",
-      "onboard_time": 1691525773,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 21737,
