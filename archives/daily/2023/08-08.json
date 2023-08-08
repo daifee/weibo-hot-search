@@ -1,10 +1,10 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691468371557,
+  "endTime": 1691469239929,
   "band_list": [
     {
       "raw_hot": 2234731,
-      "num": 587790,
+      "num": 851869,
       "word": "知名网红疑被前任闺蜜偷家",
       "onboard_time": 1691457574,
       "rank": 11,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2205201,
-      "num": 642619,
+      "num": 839854,
       "word": "痛经的人是不易受孕体质吗",
       "onboard_time": 1691453013,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2155419,
-      "num": 837483,
+      "num": 1036445,
       "word": "李玟老公申请死因调查",
       "onboard_time": 1691461775,
       "rank": 18,
@@ -33,6 +33,14 @@
       "onboard_time": 1691451751,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1615023,
+      "num": 1615023,
+      "word": "妈妈越过外孙先拥抱自己的女儿",
+      "onboard_time": 1691465796,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1602658,
@@ -52,19 +60,19 @@
     },
     {
       "raw_hot": 1472090,
-      "num": 558570,
+      "num": 725990,
       "word": "张艺凡方放节目争议片段回应",
       "onboard_time": 1691458593,
       "rank": 13,
       "category": "综艺"
     },
     {
-      "raw_hot": 1460161,
-      "num": 1460161,
-      "word": "妈妈越过外孙先拥抱自己的女儿",
-      "onboard_time": 1691465796,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 1389360,
+      "num": 1030095,
+      "word": "TFBOYS演唱会带动4.16亿旅游收入",
+      "onboard_time": 1691460272,
+      "rank": 16,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1381954,
@@ -81,14 +89,6 @@
       "onboard_time": 1691420501,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1234863,
-      "num": 799906,
-      "word": "TFBOYS演唱会带动4.16亿旅游收入",
-      "onboard_time": 1691460272,
-      "rank": 16,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1205865,
@@ -115,8 +115,16 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1126193,
+      "num": 1126193,
+      "word": "为什么现在电影票这么贵",
+      "onboard_time": 1691466036,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1118675,
-      "num": 518609,
+      "num": 603106,
       "word": "黄锐 人太多没进场",
       "onboard_time": 1691460212,
       "rank": 14,
@@ -144,6 +152,22 @@
       "word": "TFBOYS演唱会优酷最少进账6550万",
       "onboard_time": 1691418221,
       "rank": 20,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 999158,
+      "num": 999158,
+      "word": "现在仙侠都流行到七生七世了",
+      "onboard_time": 1691465434,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 993871,
+      "num": 993871,
+      "word": "鹿晗武汉演唱会官宣嘉宾",
+      "onboard_time": 1691467419,
+      "rank": 12,
       "category": "音乐"
     },
     {
@@ -179,14 +203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 863548,
-      "num": 863548,
-      "word": "为什么现在电影票这么贵",
-      "onboard_time": 1691466036,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 818274,
       "num": 818274,
       "word": "嘎子哥该如何自证没有诈捐物资",
@@ -203,24 +219,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 792731,
-      "num": 546398,
-      "word": "鹿晗武汉演唱会官宣嘉宾",
-      "onboard_time": 1691467419,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 790840,
-      "num": 790840,
-      "word": "现在仙侠都流行到七生七世了",
-      "onboard_time": 1691465434,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 732467,
-      "num": 732467,
+      "num": 908130,
       "word": "不小心把芒果弄璋了",
       "onboard_time": 1691464475,
       "rank": 47,
@@ -283,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 587092,
+      "num": 587092,
+      "word": "起猛了看到宿舍进了牛魔王",
+      "onboard_time": 1691465615,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 576767,
       "num": 576767,
       "word": "为什么现在T恤领口越来越小了",
@@ -297,6 +305,14 @@
       "onboard_time": 1691421278,
       "rank": 7,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 548813,
+      "num": 420904,
+      "word": "封神第一部删减",
+      "onboard_time": 1691467657,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 527691,
@@ -316,11 +332,19 @@
     },
     {
       "raw_hot": 524359,
-      "num": 377702,
+      "num": 409626,
       "word": "为什么年轻人越来越不想回家了",
       "onboard_time": 1691463394,
       "rank": 24,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 520958,
+      "num": 520958,
+      "word": "BLACKPINK练习生旧照",
+      "onboard_time": 1691467839,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 518913,
@@ -331,11 +355,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 513292,
-      "num": 513292,
-      "word": "起猛了看到宿舍进了牛魔王",
-      "onboard_time": 1691465615,
-      "rank": 49,
+      "raw_hot": 514260,
+      "num": 417542,
+      "word": "再也不跟实习生玩了",
+      "onboard_time": 1691467599,
+      "rank": 31,
       "category": "幽默"
     },
     {
@@ -361,6 +385,14 @@
       "onboard_time": 1691461654,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493833,
+      "num": 413266,
+      "word": "弟弟暑假工两个月成为公司骨干",
+      "onboard_time": 1691468078,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 491163,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 474695,
-      "num": 430671,
+      "num": 452623,
       "word": "台风兰恩已生成",
       "onboard_time": 1691463335,
       "rank": 22,
@@ -467,6 +499,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 456454,
+      "num": 313136,
+      "word": "刘涛演妈祖之前请示过妈祖",
+      "onboard_time": 1691468980,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 453664,
       "num": 453664,
       "word": "比跷二郎腿更坏的坐姿",
@@ -475,16 +515,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 438896,
-      "num": 364850,
-      "word": "封神第一部删减",
-      "onboard_time": 1691467657,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 437254,
-      "num": 597776,
+      "num": 852364,
       "word": "受台风卡努影响东北防汛任务艰巨",
       "onboard_time": 1691461355,
       "rank": 19,
@@ -515,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427542,
+      "num": 427542,
+      "word": "李雪琴为孤注一掷主题曲作词",
+      "onboard_time": 1691468559,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424355,
       "num": 361862,
       "word": "在村里小卖部打印的准考证",
@@ -537,6 +577,14 @@
       "onboard_time": 1691457274,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 405980,
+      "num": 405980,
+      "word": "不建议把挂式空调装在床头",
+      "onboard_time": 1691468258,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 400371,
@@ -651,14 +699,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 322338,
-      "num": 322338,
-      "word": "再也不跟实习生玩了",
-      "onboard_time": 1691467599,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 314049,
       "num": 314049,
       "word": "光遇",
@@ -681,6 +721,14 @@
       "onboard_time": 1691459853,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 299840,
+      "num": 299840,
+      "word": "外地人被内蒙人吃肉吓到了",
+      "onboard_time": 1691468316,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 296522,
@@ -803,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267238,
+      "num": 267238,
+      "word": "杨超越丁禹兮好多吻戏",
+      "onboard_time": 1691467716,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266405,
       "num": 266405,
       "word": "肖战玉骨遥开机vs杀青",
@@ -817,6 +873,14 @@
       "onboard_time": 1691457934,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264554,
+      "num": 264554,
+      "word": "夏天的垃圾一定要及时扔掉",
+      "onboard_time": 1691468800,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 263800,
@@ -881,14 +945,6 @@
       "onboard_time": 1691420980,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241734,
-      "num": 241734,
-      "word": "杨超越丁禹兮好多吻戏",
-      "onboard_time": 1691467716,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 239448,
@@ -963,28 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220812,
-      "num": 228180,
-      "word": "弟弟暑假工两个月成为公司骨干",
-      "onboard_time": 1691468078,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218377,
       "num": 235368,
       "word": "凌晨地震老师们跑着叫学生快到重影",
       "onboard_time": 1691424873,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217408,
-      "num": 228179,
-      "word": "不建议把挂式空调装在床头",
-      "onboard_time": 1691468258,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 212947,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1691436135,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183753,
-      "num": 228177,
-      "word": "外地人被内蒙人吃肉吓到了",
-      "onboard_time": 1691468316,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 182616,
@@ -1276,10 +1308,18 @@
     },
     {
       "raw_hot": 51001,
-      "num": 857456,
+      "num": 1037005,
       "word": "暴雨洪涝防疫指南",
       "onboard_time": 1691463935,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45519,
+      "num": 424180,
+      "word": "子弟兵蹚淤泥推舟为村民送物资",
+      "onboard_time": 1691468800,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
