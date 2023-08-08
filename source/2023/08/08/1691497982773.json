@@ -1,0 +1,410 @@
+{
+  "runTime": 1691497982773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3924217,
+        "num": 3924217,
+        "word": "邓超同志被评定为烈士",
+        "onboard_time": 1691495074,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096032,
+        "num": 1096032,
+        "word": "相柳哭了",
+        "onboard_time": 1691493452,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53050,
+        "num": 916127,
+        "word": "我在国门一线",
+        "onboard_time": 1691489019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784917,
+        "num": 784917,
+        "word": "年薪百万哭穷",
+        "onboard_time": 1691494057,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 666052,
+        "num": 666052,
+        "word": "涂山璟喊小夭姐姐",
+        "onboard_time": 1691495255,
+        "rank": 4,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 683216,
+        "num": 650443,
+        "word": "TFBOYS演唱会绝世大刀",
+        "onboard_time": 1691495134,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 611785,
+        "num": 611785,
+        "word": "成都大运会闭幕式",
+        "onboard_time": 1691494115,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 604261,
+        "num": 604261,
+        "word": "封神主创团做客刘畊宏直播间",
+        "onboard_time": 1691493334,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 591638,
+        "num": 591638,
+        "word": "EDG下路菜啊",
+        "onboard_time": 1691487696,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39300,
+        "num": 581641,
+        "word": "空中俯瞰消防在五常洪水中一路逆行",
+        "onboard_time": 1691484698,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1924051,
+        "num": 580077,
+        "word": "孕期出轨产业链的恶劣现象",
+        "onboard_time": 1691495735,
+        "rank": 10,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1234927,
+        "num": 579688,
+        "word": "选秀学员撞脸迪丽热巴",
+        "onboard_time": 1691497235,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578511,
+        "num": 578511,
+        "word": "全职高手 哥几个是不是又整容了",
+        "onboard_time": 1691495496,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 575172,
+        "num": 575172,
+        "word": "赵丽颖第一次发儿子想想",
+        "onboard_time": 1691472217,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540629,
+        "num": 540629,
+        "word": "内娱权谋男主脸",
+        "onboard_time": 1691496458,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514949,
+        "num": 514949,
+        "word": "EDG对战WBG",
+        "onboard_time": 1691486620,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 537783,
+        "num": 514493,
+        "word": "夭柳同床相柳往后退了",
+        "onboard_time": 1691494835,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505610,
+        "num": 505610,
+        "word": "酷酷的滕骗不了张艺兴一点",
+        "onboard_time": 1691491115,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488847,
+        "num": 488847,
+        "word": "权恩妃 初一位",
+        "onboard_time": 1691494776,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72112,
+        "num": 432905,
+        "word": "东北汉子被子弟兵感动哽咽",
+        "onboard_time": 1691496697,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880813,
+        "num": 430203,
+        "word": "阔腿裤最干净的上厕所方式",
+        "onboard_time": 1691483377,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 425834,
+        "num": 425834,
+        "word": "莲花楼加更礼",
+        "onboard_time": 1691485118,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402526,
+        "num": 402526,
+        "word": "时代少年团上楼了",
+        "onboard_time": 1691496335,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 402283,
+        "num": 402283,
+        "word": "10岁白血病小女孩离世前嫁给男友",
+        "onboard_time": 1691486737,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393393,
+        "num": 393393,
+        "word": "Meiko打字15",
+        "onboard_time": 1691489134,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 392764,
+        "num": 392764,
+        "word": "王传君担心会被女性观众喷死",
+        "onboard_time": 1691492615,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378790,
+        "num": 378790,
+        "word": "老板在自家工厂被1.5万个奶酪压死",
+        "onboard_time": 1691497418,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376595,
+        "num": 376595,
+        "word": "选秀真的来了",
+        "onboard_time": 1691483075,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326484,
+        "num": 326484,
+        "word": "杨幂沈阳出发",
+        "onboard_time": 1691494776,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320763,
+        "num": 320763,
+        "word": "哈佛教授称可能发现外星人存在证据",
+        "onboard_time": 1691496758,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872012,
+        "num": 318171,
+        "word": "TFBOYS演唱会 99块钱的直播爸爸唱了98块",
+        "onboard_time": 1691481519,
+        "rank": 30,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 312915,
+        "num": 312915,
+        "word": "妻子记录老公30秒救回落海母子",
+        "onboard_time": 1691492436,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311204,
+        "num": 311204,
+        "word": "WBG我看不懂",
+        "onboard_time": 1691491536,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 404828,
+        "num": 306407,
+        "word": "易烊千玺踉跄后扶了王源的腰",
+        "onboard_time": 1691479297,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300292,
+        "num": 300292,
+        "word": "杨紫直播",
+        "onboard_time": 1691497716,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290441,
+        "num": 290441,
+        "word": "崔胜澈直播呢",
+        "onboard_time": 1691497596,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282175,
+        "num": 282175,
+        "word": "我在村里找到了月薪15000的工作",
+        "onboard_time": 1691490873,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279480,
+        "num": 279480,
+        "word": "SMTOWN艺人要走光了",
+        "onboard_time": 1691489197,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244123,
+        "num": 244123,
+        "word": "起猛了看见帕梅拉在练八段锦",
+        "onboard_time": 1691497177,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213969,
+        "num": 213969,
+        "word": "王一博说不可以但是笑了",
+        "onboard_time": 1691490575,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213373,
+        "num": 213373,
+        "word": "杭州面包店有多卷",
+        "onboard_time": 1691496936,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 208268,
+        "num": 208268,
+        "word": "大S工作室发律师声明",
+        "onboard_time": 1691474318,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204415,
+        "num": 204415,
+        "word": "Uzi别惦记泽丽了",
+        "onboard_time": 1691488535,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201080,
+        "num": 201080,
+        "word": "王鹤棣用脖子背包袱",
+        "onboard_time": 1691497659,
+        "rank": 43,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 198771,
+        "num": 198771,
+        "word": "乐队的夏天3",
+        "onboard_time": 1691496515,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195580,
+        "num": 195580,
+        "word": "爱奇艺",
+        "onboard_time": 1691489674,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191846,
+        "num": 191846,
+        "word": "丫丫贴秋膘",
+        "onboard_time": 1691497535,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191105,
+        "num": 191105,
+        "word": "孤注一掷独家幕后记录",
+        "onboard_time": 1691491536,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185180,
+        "num": 185180,
+        "word": "帝王蟹馒头",
+        "onboard_time": 1691493155,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181992,
+        "num": 185173,
+        "word": "碧桂园",
+        "onboard_time": 1691478696,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#他们关键时刻冲得上去豁得出来#"
+    }
+  }
+}

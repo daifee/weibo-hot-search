@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691494437192,
+  "endTime": 1691497982773,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -193,6 +193,14 @@
       "onboard_time": 1691323081,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3924217,
+      "num": 3924217,
+      "word": "邓超同志被评定为烈士",
+      "onboard_time": 1691495074,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3894504,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1691317001,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1924051,
+      "num": 580077,
+      "word": "孕期出轨产业链的恶劣现象",
+      "onboard_time": 1691495735,
+      "rank": 10,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1921440,
@@ -2459,6 +2475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1234927,
+      "num": 579688,
+      "word": "选秀学员撞脸迪丽热巴",
+      "onboard_time": 1691497235,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1230236,
       "num": 1146154,
       "word": "比跷二郎腿更坏的坐姿",
@@ -2968,6 +2992,14 @@
       "word": "恭迎大王姬回归",
       "onboard_time": 1690874734,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1096032,
+      "num": 1096032,
+      "word": "相柳哭了",
+      "onboard_time": 1691493452,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -3995,14 +4027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 910053,
-      "num": 910053,
-      "word": "相柳哭了",
-      "onboard_time": 1691493452,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 906671,
       "num": 906671,
       "word": "小夭才是真疯批",
@@ -4873,6 +4897,14 @@
       "onboard_time": 1691043033,
       "rank": 38,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 784917,
+      "num": 784917,
+      "word": "年薪百万哭穷",
+      "onboard_time": 1691494057,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 782443,
@@ -5827,6 +5859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 683216,
+      "num": 650443,
+      "word": "TFBOYS演唱会绝世大刀",
+      "onboard_time": 1691495134,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 682846,
       "num": 682846,
       "word": "Somi回归",
@@ -6017,6 +6057,14 @@
       "onboard_time": 1691066432,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 666052,
+      "num": 666052,
+      "word": "涂山璟喊小夭姐姐",
+      "onboard_time": 1691495255,
+      "rank": 4,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 665883,
@@ -6651,6 +6699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611785,
+      "num": 611785,
+      "word": "成都大运会闭幕式",
+      "onboard_time": 1691494115,
+      "rank": 26,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 610205,
       "num": 610205,
       "word": "外国人看巨齿鲨2后遗症",
@@ -6713,6 +6769,14 @@
       "onboard_time": 1691119597,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 604261,
+      "num": 604261,
+      "word": "封神主创团做客刘畊宏直播间",
+      "onboard_time": 1691493334,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 602996,
@@ -7193,6 +7257,14 @@
       "onboard_time": 1691232156,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 578511,
+      "num": 578511,
+      "word": "全职高手 哥几个是不是又整容了",
+      "onboard_time": 1691495496,
+      "rank": 12,
+      "category": "动漫"
     },
     {
       "raw_hot": 575974,
@@ -7747,6 +7819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 540629,
+      "num": 540629,
+      "word": "内娱权谋男主脸",
+      "onboard_time": 1691496458,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 540540,
       "num": 540540,
       "word": "杨紫工作室招募令",
@@ -7792,6 +7872,14 @@
       "word": "杨紫檀健次认真设计走位",
       "onboard_time": 1691314660,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 537783,
+      "num": 514493,
+      "word": "夭柳同床相柳往后退了",
+      "onboard_time": 1691494835,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -8689,6 +8777,14 @@
       "onboard_time": 1690904316,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 488847,
+      "num": 488847,
+      "word": "权恩妃 初一位",
+      "onboard_time": 1691494776,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 488559,
@@ -10363,6 +10459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 402526,
+      "num": 402526,
+      "word": "时代少年团上楼了",
+      "onboard_time": 1691496335,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 401713,
       "num": 401713,
       "word": "韩红爱心百人援龙江",
@@ -10945,6 +11049,14 @@
       "onboard_time": 1690946555,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378790,
+      "num": 378790,
+      "word": "老板在自家工厂被1.5万个奶酪压死",
+      "onboard_time": 1691497418,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378468,
@@ -11859,14 +11971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340777,
-      "num": 340777,
-      "word": "成都大运会闭幕式",
-      "onboard_time": 1691494115,
-      "rank": 26,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 340763,
       "num": 657128,
       "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
@@ -12067,14 +12171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 334354,
-      "num": 334354,
-      "word": "封神主创团做客刘畊宏直播间",
-      "onboard_time": 1691493334,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 333355,
       "num": 333355,
       "word": "把音乐分享到朋友圈的原因",
@@ -12193,6 +12289,14 @@
       "onboard_time": 1690980757,
       "rank": 19,
       "category": "自然"
+    },
+    {
+      "raw_hot": 326484,
+      "num": 326484,
+      "word": "杨幂沈阳出发",
+      "onboard_time": 1691494776,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 325753,
@@ -12353,6 +12457,14 @@
       "onboard_time": 1691324520,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 320763,
+      "num": 320763,
+      "word": "哈佛教授称可能发现外星人存在证据",
+      "onboard_time": 1691496758,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320495,
@@ -13067,6 +13179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300292,
+      "num": 300292,
+      "word": "杨紫直播",
+      "onboard_time": 1691497716,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300111,
       "num": 233478,
       "word": "明天见",
@@ -13361,6 +13481,14 @@
       "onboard_time": 1690842076,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 290441,
+      "num": 290441,
+      "word": "崔胜澈直播呢",
+      "onboard_time": 1691497596,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 290251,
@@ -14915,6 +15043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244123,
+      "num": 244123,
+      "word": "起猛了看见帕梅拉在练八段锦",
+      "onboard_time": 1691497177,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243968,
       "num": 209407,
       "word": "方多病你别丢下李莲花",
@@ -16227,6 +16363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213373,
+      "num": 213373,
+      "word": "杭州面包店有多卷",
+      "onboard_time": 1691496936,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 213196,
       "num": 213196,
       "word": "直击河北涿州大马村救援现场",
@@ -16553,14 +16697,6 @@
       "onboard_time": 1691024917,
       "rank": 47,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 207906,
-      "num": 207906,
-      "word": "年薪百万哭穷",
-      "onboard_time": 1691494057,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 207793,
@@ -16971,6 +17107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201080,
+      "num": 201080,
+      "word": "王鹤棣用脖子背包袱",
+      "onboard_time": 1691497659,
+      "rank": 43,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 201067,
       "num": 201067,
       "word": "张杰未live巡回演唱会",
@@ -17121,6 +17265,14 @@
       "onboard_time": 1691389777,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198771,
+      "num": 198771,
+      "word": "乐队的夏天3",
+      "onboard_time": 1691496515,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 198612,
@@ -17625,6 +17777,14 @@
       "onboard_time": 1691146413,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191846,
+      "num": 191846,
+      "word": "丫丫贴秋膘",
+      "onboard_time": 1691497535,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191812,
@@ -20113,6 +20273,14 @@
       "onboard_time": 1691377899,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72112,
+      "num": 432905,
+      "word": "东北汉子被子弟兵感动哽咽",
+      "onboard_time": 1691496697,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68119,
