@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691457552609,
+  "endTime": 1691458968114,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1979865,
-      "num": 961666,
+      "num": 1073120,
       "word": "王鹤棣 本座回来了",
       "onboard_time": 1691451751,
       "rank": 3,
@@ -305,6 +305,14 @@
       "onboard_time": 1691420679,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1587769,
+      "num": 586397,
+      "word": "知名网红疑被前任闺蜜偷家",
+      "onboard_time": 1691457574,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1580057,
@@ -561,6 +569,14 @@
       "onboard_time": 1691392838,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1158265,
+      "num": 1158265,
+      "word": "大连理工回应挖姜男孩被录取",
+      "onboard_time": 1691456255,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1147519,
@@ -1107,14 +1123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 636895,
-      "num": 636895,
-      "word": "大连理工回应挖姜男孩被录取",
-      "onboard_time": 1691456255,
-      "rank": 13,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 635249,
       "num": 590860,
       "word": "2013快男团综定档",
@@ -1275,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 558570,
+      "num": 558570,
+      "word": "张艺凡方放节目争议片段回应",
+      "onboard_time": 1691458593,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 558019,
       "num": 558019,
       "word": "王俊凯又来秀操作了",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1691359635,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 526295,
+      "num": 526295,
+      "word": "看了三喜马立奥才知道的事",
+      "onboard_time": 1691456376,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 521870,
@@ -1611,6 +1635,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 430333,
+      "num": 430333,
+      "word": "虞书欣工作室为小兰花庆生",
+      "onboard_time": 1691457994,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429390,
       "num": 1195065,
       "word": "五常宝宝凌晨转移一声没哭",
@@ -1811,14 +1843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 392532,
-      "num": 302273,
-      "word": "看了三喜马立奥才知道的事",
-      "onboard_time": 1691456376,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 392440,
       "num": 358497,
       "word": "长期缺爱的人有什么表现",
@@ -1857,6 +1881,14 @@
       "onboard_time": 1691407055,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 377699,
+      "num": 293399,
+      "word": "伯贤成立个人公司",
+      "onboard_time": 1691457574,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 377575,
@@ -2611,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226559,
+      "num": 226559,
+      "word": "十个勤天直播",
+      "onboard_time": 1691457934,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226545,
       "num": 190276,
       "word": "人类有一种本能叫做预感离别",
@@ -2851,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191359,
+      "num": 161596,
+      "word": "金泰亨solo出道曲",
+      "onboard_time": 1691458952,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190551,
       "num": 212725,
       "word": "逛吃济州岛",
@@ -3035,12 +3083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149046,
+      "num": 149046,
+      "word": "八旬奶奶团为全社区老人主动上班",
+      "onboard_time": 1691458714,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145346,
       "num": 151660,
       "word": "喜欢你舞台",
       "onboard_time": 1691428165,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145162,
+      "num": 145162,
+      "word": "射手座容易被误解的一面",
+      "onboard_time": 1691427866,
+      "rank": 36,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 144791,
@@ -3163,14 +3227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126470,
-      "num": 126470,
-      "word": "射手座容易被误解的一面",
-      "onboard_time": 1691427866,
-      "rank": 36,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 126298,
       "num": 817793,
       "word": "Scout拥抱JieJie",
@@ -3243,20 +3299,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107921,
+      "num": 644579,
+      "word": "他们关键时刻冲得上去豁得出来",
+      "onboard_time": 1691451691,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106319,
       "num": 469671,
       "word": "福建传统民俗文化游神变装来了",
       "onboard_time": 1691403818,
       "rank": 6,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 105248,
-      "num": 644579,
-      "word": "他们关键时刻冲得上去豁得出来",
-      "onboard_time": 1691451691,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103506,

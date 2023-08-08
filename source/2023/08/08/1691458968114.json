@@ -1,0 +1,410 @@
+{
+  "runTime": 1691458968114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1221163,
+        "num": 1221163,
+        "word": "立秋",
+        "onboard_time": 1691449764,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158265,
+        "num": 1158265,
+        "word": "大连理工回应挖姜男孩被录取",
+        "onboard_time": 1691456255,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 29185,
+        "num": 1090008,
+        "word": "汛情过后健康防护要点",
+        "onboard_time": 1691414378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1820650,
+        "num": 1073120,
+        "word": "王鹤棣 本座回来了",
+        "onboard_time": 1691451751,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1037659,
+        "num": 1037659,
+        "word": "BLACKPINK 续约",
+        "onboard_time": 1691452833,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 880247,
+        "num": 880247,
+        "word": "日本中文教材把精髓掌握了",
+        "onboard_time": 1691451509,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 823158,
+        "num": 823158,
+        "word": "玱玹终于有点像疯子了",
+        "onboard_time": 1691454395,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 670571,
+        "num": 670571,
+        "word": "久坐之后才懂练腹有多重要",
+        "onboard_time": 1691452051,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 649275,
+        "num": 649275,
+        "word": "TFBOYS演唱会效应",
+        "onboard_time": 1691455537,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107921,
+        "num": 644462,
+        "word": "他们关键时刻冲得上去豁得出来",
+        "onboard_time": 1691451691,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1981126,
+        "num": 625379,
+        "word": "痛经的人是不易受孕体质吗",
+        "onboard_time": 1691453013,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1587769,
+        "num": 586397,
+        "word": "知名网红疑被前任闺蜜偷家",
+        "onboard_time": 1691457574,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 831206,
+        "num": 578784,
+        "word": "易烊千玺一朝回到解放前",
+        "onboard_time": 1691420679,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 558570,
+        "num": 558570,
+        "word": "张艺凡方放节目争议片段回应",
+        "onboard_time": 1691458593,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526295,
+        "num": 526295,
+        "word": "看了三喜马立奥才知道的事",
+        "onboard_time": 1691456376,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494669,
+        "num": 494669,
+        "word": "巨齿鲨那么大能把暑假作业吃了吗",
+        "onboard_time": 1691455958,
+        "rank": 15,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 492695,
+        "num": 492695,
+        "word": "施柏宇方回应节目争议",
+        "onboard_time": 1691450969,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430333,
+        "num": 430333,
+        "word": "虞书欣工作室为小兰花庆生",
+        "onboard_time": 1691457994,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394134,
+        "num": 394134,
+        "word": "孤注一掷预测票房38亿",
+        "onboard_time": 1691452295,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320199,
+        "num": 320199,
+        "word": "因为没见过大海他报了大连理工",
+        "onboard_time": 1691419784,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387375,
+        "num": 309201,
+        "word": "井川里予蓝发",
+        "onboard_time": 1691455178,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 387232,
+        "num": 307142,
+        "word": "女主播年入50万花近三万相亲",
+        "onboard_time": 1691445375,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323721,
+        "num": 303633,
+        "word": "为什么婴儿很困却反抗哄睡",
+        "onboard_time": 1691451447,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294280,
+        "num": 294280,
+        "word": "为什么现在T恤领口越来越小了",
+        "onboard_time": 1691416659,
+        "rank": 23,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 296590,
+        "num": 293758,
+        "word": "原来气血不足要忌口",
+        "onboard_time": 1691418882,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377699,
+        "num": 293399,
+        "word": "伯贤成立个人公司",
+        "onboard_time": 1691457574,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343717,
+        "num": 292416,
+        "word": "孤注一掷",
+        "onboard_time": 1691457274,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332334,
+        "num": 291992,
+        "word": "Prada把檀健次拍成维修工了",
+        "onboard_time": 1691420501,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291421,
+        "num": 291421,
+        "word": "福原爱被法院强制执行",
+        "onboard_time": 1691422363,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249067,
+        "num": 249067,
+        "word": "zzr",
+        "onboard_time": 1691420919,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 325239,
+        "num": 246895,
+        "word": "嘎子哥该如何自证没有诈捐物资",
+        "onboard_time": 1691437934,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311525,
+        "num": 246510,
+        "word": "费翔天选纣王",
+        "onboard_time": 1691456556,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231881,
+        "num": 231881,
+        "word": "长相思",
+        "onboard_time": 1691454815,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231648,
+        "num": 231648,
+        "word": "莲花楼央视频追剧日历",
+        "onboard_time": 1691454035,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228752,
+        "num": 228752,
+        "word": "小哥每天自拍直到找到女朋友为止",
+        "onboard_time": 1691430079,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226559,
+        "num": 226559,
+        "word": "十个勤天直播",
+        "onboard_time": 1691457934,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181492,
+        "num": 181492,
+        "word": "一个姐姐离婚时发的朋友圈",
+        "onboard_time": 1691393379,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 178347,
+        "num": 178347,
+        "word": "老妈蹄花",
+        "onboard_time": 1691449343,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168860,
+        "num": 168860,
+        "word": "上班要是能有寒暑假就好了",
+        "onboard_time": 1691451930,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164128,
+        "num": 164128,
+        "word": "八名游客被困青海无人区断水断食",
+        "onboard_time": 1691417320,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225071,
+        "num": 163796,
+        "word": "吴宣仪新剧撕开心机女真面目",
+        "onboard_time": 1691453917,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206271,
+        "num": 163402,
+        "word": "苍兰诀一周年主题派对",
+        "onboard_time": 1691454517,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198235,
+        "num": 162674,
+        "word": "种地吧",
+        "onboard_time": 1691453917,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195725,
+        "num": 161894,
+        "word": "虞书欣小兰花库存照腮红",
+        "onboard_time": 1691420860,
+        "rank": 43,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 191359,
+        "num": 161596,
+        "word": "金泰亨solo出道曲",
+        "onboard_time": 1691458952,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182897,
+        "num": 161015,
+        "word": "肖战玉骨遥开机vs杀青",
+        "onboard_time": 1691427565,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160618,
+        "num": 160618,
+        "word": "搬家在扫把杆里面发现了钱",
+        "onboard_time": 1691452470,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153665,
+        "num": 153665,
+        "word": "济南七十二名泉全部喷涌",
+        "onboard_time": 1691449764,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 149046,
+        "num": 149046,
+        "word": "八旬奶奶团为全社区老人主动上班",
+        "onboard_time": 1691458714,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145162,
+        "num": 145162,
+        "word": "射手座容易被误解的一面",
+        "onboard_time": 1691427866,
+        "rank": 49,
+        "category": "情感,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#众志成城同舟共济#"
+    }
+  }
+}
