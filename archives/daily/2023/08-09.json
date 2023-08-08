@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691522035013,
+  "endTime": 1691523232994,
   "band_list": [
     {
       "raw_hot": 1269442,
@@ -419,20 +419,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 128427,
+      "num": 128427,
+      "word": "魔法少女小圆即将上线",
+      "onboard_time": 1691519538,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 127391,
       "num": 127391,
       "word": "河南近百亿灾后重建资金出问题",
       "onboard_time": 1691513009,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114537,
-      "num": 114537,
-      "word": "魔法少女小圆即将上线",
-      "onboard_time": 1691519538,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 92469,
@@ -456,6 +456,14 @@
       "word": "东北汉子被子弟兵感动哽咽",
       "onboard_time": 1691496697,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67712,
+      "num": 36287,
+      "word": "新生儿长2颗牙43天内先后被拔掉",
+      "onboard_time": 1691521755,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -491,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26047,
-      "num": 36287,
-      "word": "新生儿长2颗牙43天内先后被拔掉",
-      "onboard_time": 1691521755,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 29604,
+      "num": 31045,
+      "word": "小夭外爷一段话diss了三个男人",
+      "onboard_time": 1691522354,
+      "rank": 39,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
@@ -505,6 +513,9 @@
     },
     {
       "word": "#成都大运会纪念短片#"
+    },
+    {
+      "word": "#成都大运会闭幕式MV#"
     }
   ]
 }

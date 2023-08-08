@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691522035013,
+  "endTime": 1691523232994,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -5291,6 +5291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128427,
+      "num": 128427,
+      "word": "魔法少女小圆即将上线",
+      "onboard_time": 1691519538,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 127391,
       "num": 127391,
       "word": "河南近百亿灾后重建资金出问题",
@@ -5353,14 +5361,6 @@
       "onboard_time": 1691446636,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114537,
-      "num": 114537,
-      "word": "魔法少女小圆即将上线",
-      "onboard_time": 1691519538,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 113895,
@@ -5520,6 +5520,14 @@
       "word": "成都大运会文化输出这块拿捏了",
       "onboard_time": 1691402439,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67712,
+      "num": 36287,
+      "word": "新生儿长2颗牙43天内先后被拔掉",
+      "onboard_time": 1691521755,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5707,20 +5715,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29604,
+      "num": 31045,
+      "word": "小夭外爷一段话diss了三个男人",
+      "onboard_time": 1691522354,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 27359,
       "num": 30298,
       "word": "TFBOYS heart",
       "onboard_time": 1691429062,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 26047,
-      "num": 36287,
-      "word": "新生儿长2颗牙43天内先后被拔掉",
-      "onboard_time": 1691521755,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25148,
