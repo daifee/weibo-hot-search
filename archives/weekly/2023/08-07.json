@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691464629812,
+  "endTime": 1691465635002,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -619,6 +619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1131844,
+      "num": 710188,
+      "word": "TFBOYS演唱会带动4.16亿旅游收入",
+      "onboard_time": 1691460272,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1122094,
       "num": 1122094,
       "word": "玱玹只听到了三个字",
@@ -633,14 +641,6 @@
       "onboard_time": 1691460212,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1117180,
-      "num": 710188,
-      "word": "TFBOYS演唱会带动4.16亿旅游收入",
-      "onboard_time": 1691460272,
-      "rank": 16,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1096321,
@@ -1412,7 +1412,7 @@
     },
     {
       "raw_hot": 527691,
-      "num": 368718,
+      "num": 387754,
       "word": "北京奥运会",
       "onboard_time": 1691461654,
       "rank": 47,
@@ -1531,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491163,
+      "num": 491163,
+      "word": "40岁的佟丽娅舞蹈演绎女性枷锁",
+      "onboard_time": 1691465254,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 490275,
       "num": 365929,
       "word": "这口臭绝对不是我的",
@@ -1553,6 +1561,14 @@
       "onboard_time": 1691368419,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 481775,
+      "num": 377702,
+      "word": "为什么年轻人越来越不想回家了",
+      "onboard_time": 1691463394,
+      "rank": 24,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 481680,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1691421278,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 474695,
+      "num": 363461,
+      "word": "台风兰恩已生成",
+      "onboard_time": 1691463335,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472191,
@@ -1641,6 +1665,14 @@
       "onboard_time": 1691379881,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458054,
+      "num": 458054,
+      "word": "立秋吃什么",
+      "onboard_time": 1691460692,
+      "rank": 34,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 449381,
@@ -1744,14 +1776,6 @@
       "word": "五常宝宝凌晨转移一声没哭",
       "onboard_time": 1691401840,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429050,
-      "num": 361789,
-      "word": "台风兰恩已生成",
-      "onboard_time": 1691463335,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1947,14 +1971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 394648,
-      "num": 394648,
-      "word": "立秋吃什么",
-      "onboard_time": 1691460692,
-      "rank": 34,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 392440,
       "num": 358497,
       "word": "长期缺爱的人有什么表现",
@@ -2147,14 +2163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345303,
-      "num": 345303,
-      "word": "为什么年轻人越来越不想回家了",
-      "onboard_time": 1691463394,
-      "rank": 24,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 341432,
       "num": 420254,
       "word": "新疆商户凌晨4点赶制2100份馕驰援涞水",
@@ -2243,6 +2251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 318554,
+      "num": 318554,
+      "word": "不小心把芒果弄璋了",
+      "onboard_time": 1691464475,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318242,
       "num": 319845,
       "word": "多场医药学术会议宣布延期",
@@ -2329,6 +2345,14 @@
       "onboard_time": 1691390678,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305358,
+      "num": 305358,
+      "word": "人不到礼一定要到哦",
+      "onboard_time": 1691461955,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 304328,
@@ -2467,6 +2491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285659,
+      "num": 285659,
+      "word": "综艺童话阵容官宣",
+      "onboard_time": 1691465075,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285560,
       "num": 859743,
       "word": "河段水位上升官兵们冒雨垒筑沙袋",
@@ -2579,20 +2611,20 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 268574,
+      "num": 268574,
+      "word": "金晨安娜剧照",
+      "onboard_time": 1691464655,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268258,
       "num": 268258,
       "word": "龚俊回应看谁都深情",
       "onboard_time": 1691409454,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 267383,
-      "num": 267383,
-      "word": "人不到礼一定要到哦",
-      "onboard_time": 1691461955,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 267214,
@@ -2707,6 +2739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251387,
+      "num": 251387,
+      "word": "现在仙侠都流行到七生七世了",
+      "onboard_time": 1691465434,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251143,
       "num": 251143,
       "word": "真的会被山东的职场震撼到",
@@ -2723,12 +2763,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250058,
+      "num": 250058,
+      "word": "在村里小卖部打印的准考证",
+      "onboard_time": 1691465135,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248868,
       "num": 238490,
       "word": "种地吧",
       "onboard_time": 1691453917,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248839,
+      "num": 248839,
+      "word": "地球46亿年历史浓缩在8分钟里",
+      "onboard_time": 1691464055,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246069,
@@ -2939,6 +2995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215715,
+      "num": 215715,
+      "word": "五月天广州 诺亚方舟",
+      "onboard_time": 1691465555,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212260,
       "num": 244749,
       "word": "毛不易献唱学爸片尾曲",
@@ -3060,7 +3124,7 @@
     },
     {
       "raw_hot": 198962,
-      "num": 201801,
+      "num": 201828,
       "word": "动漫大赏2023",
       "onboard_time": 1691463696,
       "rank": 44,
@@ -3267,22 +3331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169461,
-      "num": 201167,
-      "word": "地球46亿年历史浓缩在8分钟里",
-      "onboard_time": 1691464055,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167039,
-      "num": 200707,
-      "word": "不小心把芒果弄璋了",
-      "onboard_time": 1691464475,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164739,
       "num": 82021,
       "word": "王源对十年前自己说的话",
@@ -3377,6 +3425,14 @@
       "onboard_time": 1691327712,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142801,
+      "num": 201488,
+      "word": "起猛了看到宿舍进了牛魔王",
+      "onboard_time": 1691465615,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 142720,
@@ -3699,6 +3755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43881,
+      "num": 615062,
+      "word": "暴雨洪涝防疫指南",
+      "onboard_time": 1691463935,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43670,
       "num": 288230,
       "word": "把OOTD做成多巴胺壁纸",
@@ -3713,14 +3777,6 @@
       "onboard_time": 1691434817,
       "rank": 40,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 34937,
-      "num": 547779,
-      "word": "暴雨洪涝防疫指南",
-      "onboard_time": 1691463935,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32997,
