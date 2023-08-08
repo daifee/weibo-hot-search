@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691508849704,
+  "endTime": 1691511734314,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -1523,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 722927,
+      "num": 822223,
+      "word": "Uzi",
+      "onboard_time": 1691326034,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 719842,
       "num": 719842,
       "word": "老板在自家工厂被1.5万个奶酪压死",
@@ -1848,6 +1856,14 @@
       "word": "外国人看巨齿鲨2后遗症",
       "onboard_time": 1691483557,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 604831,
+      "num": 277897,
+      "word": "王一博说我已经做好了演员的工作",
+      "onboard_time": 1691508937,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -2417,6 +2433,14 @@
       "onboard_time": 1691419784,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480793,
+      "num": 480793,
+      "word": "河南回应近百亿灾后重建资金出问题",
+      "onboard_time": 1691508877,
+      "rank": 7,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 478714,
@@ -3683,14 +3707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286771,
-      "num": 822223,
-      "word": "Uzi",
-      "onboard_time": 1691326034,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 285659,
       "num": 285659,
       "word": "综艺童话阵容官宣",
@@ -3841,6 +3857,14 @@
       "onboard_time": 1691363547,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 269743,
+      "num": 269743,
+      "word": "脏脏包为什么现在没人吃了",
+      "onboard_time": 1691510911,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 269572,
@@ -4051,6 +4075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251823,
+      "num": 251823,
+      "word": "吴镇宇费曼唱KTV",
+      "onboard_time": 1691508635,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251143,
       "num": 251143,
       "word": "真的会被山东的职场震撼到",
@@ -4081,14 +4113,6 @@
       "onboard_time": 1691453917,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246727,
-      "num": 246727,
-      "word": "吴镇宇费曼唱KTV",
-      "onboard_time": 1691508635,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 246069,
@@ -4832,6 +4856,14 @@
       "word": "国际猫咪日",
       "onboard_time": 1691483075,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186326,
+      "num": 186326,
+      "word": "太平公主是上官婉儿葬礼的主持者",
+      "onboard_time": 1691511391,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -5579,6 +5611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 31594,
+      "num": 844063,
+      "word": "洪水过后居家消毒要注意什么",
+      "onboard_time": 1691508937,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30034,
       "num": 162302,
       "word": "夏鸣星卡面",
@@ -5672,6 +5712,9 @@
     },
     {
       "word": "#成都大运会闭幕式MV#"
+    },
+    {
+      "word": "#和成都大运会说88#"
     }
   ]
 }
