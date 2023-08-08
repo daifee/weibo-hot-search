@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691461867192,
+  "endTime": 1691462438037,
   "band_list": [
     {
       "raw_hot": 2234731,
@@ -83,6 +83,30 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1118675,
+      "num": 508819,
+      "word": "黄锐 人太多没进场",
+      "onboard_time": 1691460212,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1113278,
+      "num": 727070,
+      "word": "李玟老公申请死因调查",
+      "onboard_time": 1691461775,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1109524,
+      "num": 497835,
+      "word": "高三老师付费请学生看TFBOYS演唱会直播",
+      "onboard_time": 1691459552,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1086387,
       "num": 961353,
       "word": "久坐之后才懂练腹有多重要",
@@ -105,22 +129,6 @@
       "onboard_time": 1691418221,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1043102,
-      "num": 474301,
-      "word": "黄锐 人太多没进场",
-      "onboard_time": 1691460212,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 976759,
-      "num": 497835,
-      "word": "高三老师付费请学生看TFBOYS演唱会直播",
-      "onboard_time": 1691459552,
-      "rank": 13,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 959727,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 863710,
+      "num": 710188,
+      "word": "TFBOYS演唱会带动4.16亿旅游收入",
+      "onboard_time": 1691460272,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 818274,
       "num": 818274,
       "word": "嘎子哥该如何自证没有诈捐物资",
@@ -163,12 +179,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 707586,
-      "num": 450798,
-      "word": "TFBOYS演唱会带动4.16亿旅游收入",
-      "onboard_time": 1691460272,
-      "rank": 16,
-      "category": "社会新闻,艺人"
+      "raw_hot": 794542,
+      "num": 794542,
+      "word": "杨紫包场孤注一掷",
+      "onboard_time": 1691460692,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 681712,
@@ -227,14 +243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 589028,
-      "num": 589028,
-      "word": "杨紫包场孤注一掷",
-      "onboard_time": 1691460692,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 576767,
       "num": 576767,
       "word": "为什么现在T恤领口越来越小了",
@@ -281,6 +289,14 @@
       "onboard_time": 1691400339,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 494692,
+      "num": 379131,
+      "word": "泰国人用王一博当签证表格模板",
+      "onboard_time": 1691461654,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 487432,
@@ -387,20 +403,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404512,
+      "num": 404512,
+      "word": "朴叙俊回应拒绝戴发箍",
+      "onboard_time": 1691460155,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400371,
       "num": 319200,
       "word": "为什么婴儿很困却反抗哄睡",
       "onboard_time": 1691451447,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 397805,
-      "num": 397805,
-      "word": "朴叙俊回应拒绝戴发箍",
-      "onboard_time": 1691460155,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 389859,
@@ -491,28 +507,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 310022,
-      "num": 310022,
+      "raw_hot": 312898,
+      "num": 312898,
       "word": "张元英接发了",
       "onboard_time": 1691460873,
       "rank": 28,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 301234,
+      "raw_hot": 304012,
       "num": 301234,
       "word": "檀健次长相思一秒变脸",
       "onboard_time": 1691459853,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 299517,
-      "num": 299517,
-      "word": "泰国人用王一博当签证表格模板",
-      "onboard_time": 1691461654,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 296522,
@@ -537,14 +545,6 @@
       "onboard_time": 1691454517,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 292908,
-      "num": 398744,
-      "word": "李玟老公申请死因调查",
-      "onboard_time": 1691461775,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 292839,
@@ -619,12 +619,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264855,
+      "num": 226678,
+      "word": "十个勤天直播",
+      "onboard_time": 1691457934,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263800,
       "num": 263800,
       "word": "孤注一掷成中国影史点映票房冠军",
       "onboard_time": 1691403340,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263608,
+      "num": 263608,
+      "word": "立秋吃什么",
+      "onboard_time": 1691460692,
+      "rank": 34,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 262482,
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240939,
+      "num": 225506,
+      "word": "北京奥运会",
+      "onboard_time": 1691461654,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239260,
       "num": 236141,
       "word": "夭璟互相吃醋",
@@ -691,28 +715,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236566,
-      "num": 236566,
-      "word": "立秋吃什么",
-      "onboard_time": 1691460692,
-      "rank": 34,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 229736,
       "num": 229736,
       "word": "小哥每天自拍直到找到女朋友为止",
       "onboard_time": 1691430079,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226678,
-      "num": 226678,
-      "word": "十个勤天直播",
-      "onboard_time": 1691457934,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 226545,
@@ -771,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206014,
+      "num": 397906,
+      "word": "受台风卡努影响东北防汛任务艰巨",
+      "onboard_time": 1691461355,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202411,
       "num": 236936,
       "word": "莲花楼阎王娶亲案",
@@ -785,6 +801,14 @@
       "onboard_time": 1691417380,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200978,
+      "num": 200978,
+      "word": "谢谢你成都",
+      "onboard_time": 1691462075,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196936,
@@ -859,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156334,
-      "num": 179666,
-      "word": "北京奥运会",
-      "onboard_time": 1691461654,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153394,
       "num": 235564,
       "word": "消费降级不丢人",
@@ -937,14 +953,6 @@
       "onboard_time": 1691428165,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 122374,
-      "num": 397906,
-      "word": "受台风卡努影响东北防汛任务艰巨",
-      "onboard_time": 1691461355,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117333,
