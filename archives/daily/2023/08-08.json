@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691504128266,
+  "endTime": 1691505242594,
   "band_list": [
     {
       "raw_hot": 4360592,
@@ -203,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1531733,
+      "num": 1531733,
+      "word": "杨紫回应小夭相柳是不是相爱",
+      "onboard_time": 1691501381,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1529444,
       "num": 569261,
       "word": "大S工作室发律师声明",
       "onboard_time": 1691474318,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1527244,
-      "num": 1527244,
-      "word": "杨紫回应小夭相柳是不是相爱",
-      "onboard_time": 1691501381,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 1521954,
@@ -249,6 +249,14 @@
       "onboard_time": 1691460272,
       "rank": 16,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1388390,
+      "num": 537428,
+      "word": "FoFo 对不起让大家失望了",
+      "onboard_time": 1691503779,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 1381954,
@@ -507,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 911516,
+      "num": 911516,
+      "word": "封神票房",
+      "onboard_time": 1691503479,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 911406,
       "num": 335481,
       "word": "女主播年入50万花近三万相亲",
@@ -593,6 +609,14 @@
       "onboard_time": 1691437934,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 814479,
+      "num": 814479,
+      "word": "泰娱的风吹到青岛了",
+      "onboard_time": 1691504023,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 810089,
@@ -715,14 +739,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 665689,
-      "num": 665689,
-      "word": "封神票房",
-      "onboard_time": 1691503479,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 662263,
       "num": 487423,
       "word": "虞书欣小兰花库存照腮红",
@@ -777,6 +793,14 @@
       "onboard_time": 1691481039,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 628813,
+      "num": 628813,
+      "word": "长相思第二季有檀健次吗",
+      "onboard_time": 1691504621,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 615052,
@@ -979,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 535739,
+      "num": 535739,
+      "word": "玱玹中毒毒发",
+      "onboard_time": 1691504259,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 527691,
       "num": 387754,
       "word": "北京奥运会",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1691467599,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 510955,
-      "num": 510955,
-      "word": "FoFo 对不起让大家失望了",
-      "onboard_time": 1691503779,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 510641,
@@ -1355,6 +1379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 404825,
+      "num": 404825,
+      "word": "迪丽热巴手写信",
+      "onboard_time": 1691505041,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404269,
       "num": 1606629,
       "word": "小朋友在医院角落一口气跳舞2小时",
@@ -1456,6 +1488,14 @@
       "word": "王一博说不可以但是笑了",
       "onboard_time": 1691490575,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 369421,
+      "num": 369421,
+      "word": "影院回应孤注一掷中途停播退票",
+      "onboard_time": 1691502579,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1603,20 +1643,20 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 315635,
+      "num": 315635,
+      "word": "G2喊话TheShy河道见",
+      "onboard_time": 1691504501,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 314049,
       "num": 314049,
       "word": "光遇",
       "onboard_time": 1691467778,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 310667,
-      "num": 310667,
-      "word": "影院回应孤注一掷中途停播退票",
-      "onboard_time": 1691502579,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 308837,
@@ -1723,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293959,
+      "num": 293959,
+      "word": "女子2百多网购却被花呗扣款3千多",
+      "onboard_time": 1691505223,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293926,
       "num": 293926,
       "word": "杨千嬅演唱会躺着唱歌",
@@ -1817,6 +1865,14 @@
       "onboard_time": 1691483618,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 273919,
+      "num": 273919,
+      "word": "Ale今年辛苦了",
+      "onboard_time": 1691502579,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 272084,
@@ -1915,14 +1971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 259593,
-      "num": 259593,
-      "word": "Ale今年辛苦了",
-      "onboard_time": 1691502579,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 259269,
       "num": 282445,
       "word": "中国海警公布依法处置菲船只视频",
@@ -1984,14 +2032,6 @@
       "word": "TFBOYS演唱会后劲最大的一个视频",
       "onboard_time": 1691414196,
       "rank": 37,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 250716,
-      "num": 250716,
-      "word": "泰娱的风吹到青岛了",
-      "onboard_time": 1691504023,
-      "rank": 44,
       "category": "音乐"
     },
     {
@@ -2099,6 +2139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231008,
+      "num": 231008,
+      "word": "成毅蹭曾舜晞的貂穿",
+      "onboard_time": 1691504981,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230110,
       "num": 230110,
       "word": "十个勤天 缙云仙都",
@@ -2136,6 +2184,14 @@
       "word": "搬家在扫把杆里面发现了钱",
       "onboard_time": 1691452470,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226059,
+      "num": 226059,
+      "word": "爷爷花45元请我吃了一顿大餐",
+      "onboard_time": 1691505161,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -2225,6 +2281,14 @@
       "onboard_time": 1691479715,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210380,
+      "num": 210380,
+      "word": "TTG甜甜糕星元",
+      "onboard_time": 1691504981,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 210343,
@@ -2827,6 +2891,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 53392,
+      "num": 588329,
+      "word": "重庆龙麻子奔赴涞水救灾",
+      "onboard_time": 1691503240,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51001,
       "num": 1311472,
       "word": "暴雨洪涝防疫指南",
@@ -2889,14 +2961,6 @@
       "onboard_time": 1691320248,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 26215,
-      "num": 588329,
-      "word": "重庆龙麻子奔赴涞水救灾",
-      "onboard_time": 1691503240,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25148,
