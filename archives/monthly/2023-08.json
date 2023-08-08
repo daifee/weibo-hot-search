@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691511734314,
+  "endTime": 1691512686077,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -3827,6 +3827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 953026,
+      "num": 2362208,
+      "word": "Uzi",
+      "onboard_time": 1691326034,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 952170,
       "num": 952170,
       "word": "Xiaohu阿水杀疯了",
@@ -4929,14 +4937,6 @@
       "onboard_time": 1691244108,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 799037,
-      "num": 2362208,
-      "word": "Uzi",
-      "onboard_time": 1691326034,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 798383,
@@ -8619,6 +8619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 506879,
+      "num": 506879,
+      "word": "太平公主是上官婉儿葬礼的主持者",
+      "onboard_time": 1691511391,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506480,
       "num": 506480,
       "word": "长相思受众有多广",
@@ -9569,6 +9577,14 @@
       "onboard_time": 1690989936,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 456760,
+      "num": 269743,
+      "word": "脏脏包为什么现在没人吃了",
+      "onboard_time": 1691510911,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 456456,
@@ -14475,14 +14491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269743,
-      "num": 269743,
-      "word": "脏脏包为什么现在没人吃了",
-      "onboard_time": 1691510911,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 269572,
       "num": 269572,
       "word": "中兴通讯",
@@ -17907,6 +17915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195279,
+      "num": 195279,
+      "word": "一只熊猫走出了老虎的气势",
+      "onboard_time": 1691511751,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195270,
       "num": 195270,
       "word": "直击天灵盖的旅行",
@@ -18457,14 +18473,6 @@
       "onboard_time": 1690945957,
       "rank": 44,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 186326,
-      "num": 186326,
-      "word": "太平公主是上官婉儿葬礼的主持者",
-      "onboard_time": 1691511391,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186319,
@@ -20955,6 +20963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34444,
+      "num": 847793,
+      "word": "洪水过后居家消毒要注意什么",
+      "onboard_time": 1691508937,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33654,
       "num": 289844,
       "word": "暴雨洪灾后的9个健康知识点",
@@ -20977,14 +20993,6 @@
       "onboard_time": 1691174957,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 31594,
-      "num": 844063,
-      "word": "洪水过后居家消毒要注意什么",
-      "onboard_time": 1691508937,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30962,

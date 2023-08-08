@@ -1,0 +1,410 @@
+{
+  "runTime": 1691512686077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1038180,
+        "num": 1038180,
+        "word": "女子2百多网购却被花呗扣款3千多",
+        "onboard_time": 1691505223,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953026,
+        "num": 953026,
+        "word": "Uzi",
+        "onboard_time": 1691510318,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34444,
+        "num": 847793,
+        "word": "洪水过后居家消毒要注意什么",
+        "onboard_time": 1691508937,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846996,
+        "num": 846996,
+        "word": "长相思第二季有檀健次吗",
+        "onboard_time": 1691504621,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 582383,
+        "num": 582383,
+        "word": "试管婴儿与妈妈孕期的所有针管合影",
+        "onboard_time": 1691498203,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506879,
+        "num": 506879,
+        "word": "太平公主是上官婉儿葬礼的主持者",
+        "onboard_time": 1691511391,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460162,
+        "num": 460162,
+        "word": "起猛了看见帕梅拉在练八段锦",
+        "onboard_time": 1691497177,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457811,
+        "num": 457811,
+        "word": "河南回应近百亿灾后重建资金出问题",
+        "onboard_time": 1691508877,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 445940,
+        "num": 445940,
+        "word": "杨紫回应小夭相柳是不是相爱",
+        "onboard_time": 1691501381,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73417,
+        "num": 444617,
+        "word": "东北汉子被子弟兵感动哽咽",
+        "onboard_time": 1691496697,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832110,
+        "num": 444353,
+        "word": "选秀学员撞脸迪丽热巴",
+        "onboard_time": 1691497235,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444003,
+        "num": 444003,
+        "word": "Uzi赛后哭了",
+        "onboard_time": 1691506120,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 343883,
+        "num": 343883,
+        "word": "上海外滩偶遇戚薇",
+        "onboard_time": 1691500840,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321888,
+        "num": 321888,
+        "word": "全职高手 哥几个是不是又整容了",
+        "onboard_time": 1691495496,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 316894,
+        "num": 316894,
+        "word": "FoFo 对不起让大家失望了",
+        "onboard_time": 1691503779,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300627,
+        "num": 300627,
+        "word": "封神票房",
+        "onboard_time": 1691503479,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281614,
+        "num": 281614,
+        "word": "泰娱的风吹到青岛了",
+        "onboard_time": 1691504023,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265928,
+        "num": 265928,
+        "word": "影院回应孤注一掷中途停播退票",
+        "onboard_time": 1691502579,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264264,
+        "num": 264264,
+        "word": "WBG战胜EDG",
+        "onboard_time": 1691498802,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250076,
+        "num": 250076,
+        "word": "第一次看封神质子团跳操",
+        "onboard_time": 1691501021,
+        "rank": 19,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 576183,
+        "num": 249554,
+        "word": "阔腿裤最干净的上厕所方式",
+        "onboard_time": 1691483377,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 495686,
+        "num": 248920,
+        "word": "王一博说我已经做好了演员的工作",
+        "onboard_time": 1691508937,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456760,
+        "num": 247947,
+        "word": "脏脏包为什么现在没人吃了",
+        "onboard_time": 1691510911,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 423039,
+        "num": 246654,
+        "word": "爷爷花45元请我吃了一顿大餐",
+        "onboard_time": 1691505161,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246558,
+        "num": 246558,
+        "word": "张晚意 极品模王",
+        "onboard_time": 1691499582,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237323,
+        "num": 237323,
+        "word": "孤注一掷票房破7亿",
+        "onboard_time": 1691500600,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225513,
+        "num": 225513,
+        "word": "迪丽热巴手写信",
+        "onboard_time": 1691505041,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211494,
+        "num": 211494,
+        "word": "辞掉了父母眼中的铁饭碗",
+        "onboard_time": 1691505940,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 210774,
+        "num": 210774,
+        "word": "莲花楼加更礼",
+        "onboard_time": 1691485118,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202520,
+        "num": 202520,
+        "word": "吴镇宇费曼唱KTV",
+        "onboard_time": 1691508635,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201411,
+        "num": 201411,
+        "word": "老天爱笨小孩",
+        "onboard_time": 1691506599,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197568,
+        "num": 197568,
+        "word": "赵丽颖第一次发儿子想想",
+        "onboard_time": 1691472217,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196466,
+        "num": 196466,
+        "word": "Bin哥晒和TheShy合照",
+        "onboard_time": 1691505703,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195279,
+        "num": 195279,
+        "word": "一只熊猫走出了老虎的气势",
+        "onboard_time": 1691511751,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190316,
+        "num": 190316,
+        "word": "EDG下路菜啊",
+        "onboard_time": 1691487696,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177035,
+        "num": 177035,
+        "word": "王鹤棣用脖子背包袱",
+        "onboard_time": 1691497659,
+        "rank": 35,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 165903,
+        "num": 165903,
+        "word": "Uzi无缘S13",
+        "onboard_time": 1691498802,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162930,
+        "num": 162930,
+        "word": "王一博跟电影热烈说再见",
+        "onboard_time": 1691507200,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159554,
+        "num": 159554,
+        "word": "Meiko打字15",
+        "onboard_time": 1691489134,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157170,
+        "num": 157170,
+        "word": "LPL出征S13全员披风上阵",
+        "onboard_time": 1691501082,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154376,
+        "num": 154376,
+        "word": "肖战背任敏深蹲花絮",
+        "onboard_time": 1691505638,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152956,
+        "num": 152956,
+        "word": "老板在自家工厂被1.5万个奶酪压死",
+        "onboard_time": 1691497418,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146620,
+        "num": 146620,
+        "word": "成毅蹭曾舜晞的貂穿",
+        "onboard_time": 1691504981,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146266,
+        "num": 146266,
+        "word": "封神主创团做客刘畊宏直播间",
+        "onboard_time": 1691493334,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138810,
+        "num": 146266,
+        "word": "杭州面包店有多卷",
+        "onboard_time": 1691496936,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133098,
+        "num": 146264,
+        "word": "刘青松哭了",
+        "onboard_time": 1691499941,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130343,
+        "num": 146262,
+        "word": "玱玹中毒毒发",
+        "onboard_time": 1691504259,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128149,
+        "num": 146260,
+        "word": "WBG我看不懂",
+        "onboard_time": 1691491536,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117275,
+        "num": 146258,
+        "word": "G2喊话TheShy河道见",
+        "onboard_time": 1691504501,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110131,
+        "num": 146257,
+        "word": "晋江文学城第五届作者大会",
+        "onboard_time": 1691506659,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#和成都大运会说88#"
+    }
+  }
+}
