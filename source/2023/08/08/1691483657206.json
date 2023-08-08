@@ -1,0 +1,410 @@
+{
+  "runTime": 1691483657206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1483726,
+        "num": 1483726,
+        "word": "今年出生人口或低于900万",
+        "onboard_time": 1691476536,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028402,
+        "num": 1028402,
+        "word": "中国邮政是懂奶茶取名的",
+        "onboard_time": 1691481218,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23573,
+        "num": 899578,
+        "word": "今天是第15个全民健身日",
+        "onboard_time": 1691462974,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 825649,
+        "num": 825649,
+        "word": "幸好乌尔善没用原来的剧本",
+        "onboard_time": 1691480917,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529908,
+        "num": 529908,
+        "word": "碧桂园两笔美元债票息未付",
+        "onboard_time": 1691478635,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1319733,
+        "num": 524459,
+        "word": "TFBOYS演唱会 99块钱的直播爸爸唱了98块",
+        "onboard_time": 1691481519,
+        "rank": 5,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 516555,
+        "num": 516555,
+        "word": "立秋的第一顿大餐吃什么",
+        "onboard_time": 1691479421,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 416585,
+        "num": 416585,
+        "word": "很喜欢今年的8月8",
+        "onboard_time": 1691470780,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414422,
+        "num": 414422,
+        "word": "嫡谋 杨紫龚俊",
+        "onboard_time": 1691470602,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41653,
+        "num": 411899,
+        "word": "子弟兵蹚淤泥推舟为村民送物资",
+        "onboard_time": 1691468800,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400067,
+        "num": 409253,
+        "word": "赵丽颖第一次发儿子想想",
+        "onboard_time": 1691472217,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1225925,
+        "num": 405686,
+        "word": "易烊千玺踉跄后扶了王源的腰",
+        "onboard_time": 1691479297,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1145929,
+        "num": 402603,
+        "word": "碧桂园",
+        "onboard_time": 1691478696,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915046,
+        "num": 397109,
+        "word": "易烊千玺究竟被吓到多少次",
+        "onboard_time": 1691477977,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64857,
+        "num": 395644,
+        "word": "了不起的中国茶",
+        "onboard_time": 1691481638,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 726089,
+        "num": 391956,
+        "word": "大S工作室发律师声明",
+        "onboard_time": 1691474318,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626874,
+        "num": 388598,
+        "word": "选秀真的来了",
+        "onboard_time": 1691483075,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570812,
+        "num": 383782,
+        "word": "苍兰诀聚餐合照",
+        "onboard_time": 1691477677,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567982,
+        "num": 381781,
+        "word": "卡琳娜收到婚纱的反应",
+        "onboard_time": 1691477318,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560443,
+        "num": 375578,
+        "word": "迪丽热巴工作室换了头像",
+        "onboard_time": 1691476117,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 842684,
+        "num": 373580,
+        "word": "TF一代二代三代四代演唱会官宣时间",
+        "onboard_time": 1691479118,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 531045,
+        "num": 371257,
+        "word": "别再劝女朋友多喝热水了",
+        "onboard_time": 1691481039,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423839,
+        "num": 366024,
+        "word": "TFBOYS十周年演唱会台本",
+        "onboard_time": 1691480559,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364711,
+        "num": 364711,
+        "word": "第一次omakase吃了纸巾",
+        "onboard_time": 1691476117,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387010,
+        "num": 357697,
+        "word": "于适真把我帅到了",
+        "onboard_time": 1691481875,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348405,
+        "num": 348405,
+        "word": "女孩18岁成人礼被男友带去吸毒",
+        "onboard_time": 1691469820,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318824,
+        "num": 318824,
+        "word": "法图麦穿了李咏8年前衣服",
+        "onboard_time": 1691475457,
+        "rank": 26,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 307542,
+        "num": 307542,
+        "word": "大鹏王一博和泰国资方合照",
+        "onboard_time": 1691481936,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297991,
+        "num": 297991,
+        "word": "万达高级副总裁刘海波被公安带走",
+        "onboard_time": 1691470362,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259269,
+        "num": 282445,
+        "word": "中国海警公布依法处置菲船只视频",
+        "onboard_time": 1691482055,
+        "rank": 29,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 274540,
+        "num": 274540,
+        "word": "请杨紫来精装修我的房子",
+        "onboard_time": 1691475818,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270260,
+        "num": 270260,
+        "word": "刘涛演妈祖之前请示过妈祖",
+        "onboard_time": 1691468980,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263502,
+        "num": 263502,
+        "word": "赵丽颖的视频都要愣一下",
+        "onboard_time": 1691479957,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253887,
+        "num": 253887,
+        "word": "阔腿裤最干净的上厕所方式",
+        "onboard_time": 1691483377,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249018,
+        "num": 249018,
+        "word": "弟弟暑假工两个月成为公司骨干",
+        "onboard_time": 1691468078,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241842,
+        "num": 241842,
+        "word": "李莲花佛性",
+        "onboard_time": 1691481157,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241386,
+        "num": 241386,
+        "word": "原来春晓医疗的电话真的能打通",
+        "onboard_time": 1691478157,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233767,
+        "num": 233767,
+        "word": "执着于双休的原因",
+        "onboard_time": 1691482236,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 233580,
+        "num": 233580,
+        "word": "那可是晋江的三块钱",
+        "onboard_time": 1691476718,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203139,
+        "num": 230233,
+        "word": "痛经的人是不易受孕体质吗",
+        "onboard_time": 1691453013,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 237846,
+        "num": 229963,
+        "word": "张艺兴说孤注一掷很有意义",
+        "onboard_time": 1691480735,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235250,
+        "num": 229638,
+        "word": "提前刀死每个爱相柳的观众",
+        "onboard_time": 1691481039,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229115,
+        "num": 229115,
+        "word": "封神有自产自销的缺德换头",
+        "onboard_time": 1691480674,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221905,
+        "num": 221905,
+        "word": "詹青云庞颖为我经过风暴作词",
+        "onboard_time": 1691481756,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199988,
+        "num": 199988,
+        "word": "时代峰峻",
+        "onboard_time": 1691475515,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187582,
+        "num": 187582,
+        "word": "国际猫咪日",
+        "onboard_time": 1691483075,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184426,
+        "num": 184426,
+        "word": "仙剑3动画一眼万年预告",
+        "onboard_time": 1691483618,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 166493,
+        "num": 184241,
+        "word": "原来测过敏源这么痛",
+        "onboard_time": 1691477075,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151623,
+        "num": 182494,
+        "word": "立秋文案",
+        "onboard_time": 1691480019,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 144373,
+        "num": 180914,
+        "word": "全家吃菌仅女子一人中毒",
+        "onboard_time": 1691473717,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#他们关键时刻冲得上去豁得出来#"
+    }
+  }
+}
