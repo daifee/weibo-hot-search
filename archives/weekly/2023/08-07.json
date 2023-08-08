@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691472830936,
+  "endTime": 1691475676320,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -121,6 +121,14 @@
       "onboard_time": 1691375974,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 2612303,
+      "num": 594899,
+      "word": "赵丽颖第一次发儿子想想",
+      "onboard_time": 1691472217,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2234731,
@@ -355,6 +363,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 1557819,
+      "num": 1557819,
+      "word": "万达高级副总裁刘海波被公安带走",
+      "onboard_time": 1691470362,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1523959,
       "num": 1133073,
       "word": "TFBOYS演唱会优酷最少进账6550万",
@@ -411,6 +427,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1466636,
+      "num": 466284,
+      "word": "大S工作室发律师声明",
+      "onboard_time": 1691474318,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1442986,
       "num": 511776,
       "word": "女子生下一女婴3天后又产一子",
@@ -465,14 +489,6 @@
       "onboard_time": 1691415100,
       "rank": 47,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 1421216,
-      "num": 594899,
-      "word": "赵丽颖第一次发儿子想想",
-      "onboard_time": 1691472217,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1414400,
@@ -544,14 +560,6 @@
       "word": "村委回应男孩性侵抛尸11岁女童",
       "onboard_time": 1691385819,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1292924,
-      "num": 1292924,
-      "word": "万达高级副总裁刘海波被公安带走",
-      "onboard_time": 1691470362,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1363,6 +1371,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 590855,
+      "num": 277902,
+      "word": "全家吃菌仅女子一人中毒",
+      "onboard_time": 1691473717,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589641,
+      "num": 589641,
+      "word": "魏大勋你好星期六",
+      "onboard_time": 1691470061,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588512,
       "num": 823195,
       "word": "直到25岁我才真正读完了中学",
@@ -1411,6 +1435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 583974,
+      "num": 445877,
+      "word": "谁给倪妮做的发型",
+      "onboard_time": 1691474560,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 582659,
       "num": 582659,
       "word": "不小心把伯邑考给吃了",
@@ -1433,14 +1465,6 @@
       "onboard_time": 1691469400,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 575692,
-      "num": 490533,
-      "word": "魏大勋你好星期六",
-      "onboard_time": 1691470061,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 570075,
@@ -2195,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388004,
+      "num": 388004,
+      "word": "暑期档看不过来了",
+      "onboard_time": 1691471739,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384798,
       "num": 279556,
       "word": "小夭认出了相柳",
@@ -2323,6 +2355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350976,
+      "num": 272337,
+      "word": "时代少年团楼外楼演唱会官宣",
+      "onboard_time": 1691474978,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 350251,
       "num": 350251,
       "word": "那英叫高叶大嫂",
@@ -2385,14 +2425,6 @@
       "onboard_time": 1691396137,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 332369,
-      "num": 332369,
-      "word": "暑期档看不过来了",
-      "onboard_time": 1691471739,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 327786,
@@ -2537,6 +2569,14 @@
       "onboard_time": 1691413596,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308212,
+      "num": 267469,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1691473657,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 306509,
@@ -2771,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279584,
+      "num": 279584,
+      "word": "周深捐赠救援物资今晨抵达五常",
+      "onboard_time": 1691472878,
+      "rank": 19,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 278847,
       "num": 278847,
       "word": "地球46亿年历史浓缩在8分钟里",
@@ -2947,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262914,
+      "num": 262914,
+      "word": "法图麦穿了李咏8年前衣服",
+      "onboard_time": 1691475457,
+      "rank": 28,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 262478,
       "num": 262478,
       "word": "迈阿密国际后防线",
@@ -2961,6 +3017,14 @@
       "onboard_time": 1691420980,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259379,
+      "num": 208650,
+      "word": "时代峰峻",
+      "onboard_time": 1691475515,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 257067,
@@ -3323,6 +3387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204552,
+      "num": 208350,
+      "word": "减肥期晚上出门风险有多大",
+      "onboard_time": 1691475397,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204468,
       "num": 204468,
       "word": "LPL",
@@ -3340,7 +3412,7 @@
     },
     {
       "raw_hot": 204285,
-      "num": 204285,
+      "num": 208260,
       "word": "卡芙卡",
       "onboard_time": 1691472458,
       "rank": 38,
@@ -3353,6 +3425,14 @@
       "onboard_time": 1691399979,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203881,
+      "num": 208345,
+      "word": "亚洲超星团选手首亮相",
+      "onboard_time": 1691474919,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 201957,
@@ -3443,6 +3523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193462,
+      "num": 208311,
+      "word": "亚洲超星团",
+      "onboard_time": 1691475278,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192069,
       "num": 192069,
       "word": "谢谢山西饸饹面",
@@ -3513,6 +3601,14 @@
       "onboard_time": 1691411735,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183210,
+      "num": 208332,
+      "word": "雪糕届真的太内卷了",
+      "onboard_time": 1691473120,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 182616,
@@ -4033,6 +4129,14 @@
       "onboard_time": 1691397216,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51071,
+      "num": 208317,
+      "word": "立秋第一杯奶茶是饿了么免单给的",
+      "onboard_time": 1691474438,
+      "rank": 39,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 51001,

@@ -1,7 +1,15 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691472830936,
+  "endTime": 1691475676320,
   "band_list": [
+    {
+      "raw_hot": 2612303,
+      "num": 594899,
+      "word": "赵丽颖第一次发儿子想想",
+      "onboard_time": 1691472217,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2234731,
       "num": 851869,
@@ -67,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1557819,
+      "num": 1557819,
+      "word": "万达高级副总裁刘海波被公安带走",
+      "onboard_time": 1691470362,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1521954,
       "num": 1521954,
       "word": "福原爱被法院强制执行",
@@ -83,11 +99,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1421216,
-      "num": 594899,
-      "word": "赵丽颖第一次发儿子想想",
-      "onboard_time": 1691472217,
-      "rank": 10,
+      "raw_hot": 1466636,
+      "num": 466284,
+      "word": "大S工作室发律师声明",
+      "onboard_time": 1691474318,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -113,14 +129,6 @@
       "onboard_time": 1691420501,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1292924,
-      "num": 1292924,
-      "word": "万达高级副总裁刘海波被公安带走",
-      "onboard_time": 1691470362,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1205865,
@@ -339,6 +347,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590855,
+      "num": 277902,
+      "word": "全家吃菌仅女子一人中毒",
+      "onboard_time": 1691473717,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589641,
+      "num": 589641,
+      "word": "魏大勋你好星期六",
+      "onboard_time": 1691470061,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 589206,
       "num": 363577,
       "word": "原来气血不足要忌口",
@@ -363,6 +387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 583974,
+      "num": 445877,
+      "word": "谁给倪妮做的发型",
+      "onboard_time": 1691474560,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 581825,
       "num": 581825,
       "word": "檀健次夸有杨紫的地方不会冷场",
@@ -377,14 +409,6 @@
       "onboard_time": 1691416659,
       "rank": 6,
       "category": "时尚,幽默"
-    },
-    {
-      "raw_hot": 575692,
-      "num": 490533,
-      "word": "魏大勋你好星期六",
-      "onboard_time": 1691470061,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 558019,
@@ -683,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388004,
+      "num": 388004,
+      "word": "暑期档看不过来了",
+      "onboard_time": 1691471739,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377699,
       "num": 360934,
       "word": "伯贤成立个人公司",
@@ -739,6 +771,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 350976,
+      "num": 272337,
+      "word": "时代少年团楼外楼演唱会官宣",
+      "onboard_time": 1691474978,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 349052,
       "num": 349052,
       "word": "五月天广州 诺亚方舟",
@@ -761,14 +801,6 @@
       "onboard_time": 1691460873,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 332369,
-      "num": 332369,
-      "word": "暑期档看不过来了",
-      "onboard_time": 1691471739,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 323597,
@@ -801,6 +833,14 @@
       "onboard_time": 1691468800,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308212,
+      "num": 267469,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1691473657,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 305358,
@@ -889,6 +929,14 @@
       "onboard_time": 1691460031,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279584,
+      "num": 279584,
+      "word": "周深捐赠救援物资今晨抵达五常",
+      "onboard_time": 1691472878,
+      "rank": 19,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 278847,
@@ -995,12 +1043,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262914,
+      "num": 262914,
+      "word": "法图麦穿了李咏8年前衣服",
+      "onboard_time": 1691475457,
+      "rank": 28,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 262482,
       "num": 262482,
       "word": "王一博泰国",
       "onboard_time": 1691412578,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259379,
+      "num": 208650,
+      "word": "时代峰峻",
+      "onboard_time": 1691475515,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 257067,
@@ -1171,12 +1235,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204552,
+      "num": 208350,
+      "word": "减肥期晚上出门风险有多大",
+      "onboard_time": 1691475397,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204285,
-      "num": 204285,
+      "num": 208260,
       "word": "卡芙卡",
       "onboard_time": 1691472458,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203881,
+      "num": 208345,
+      "word": "亚洲超星团选手首亮相",
+      "onboard_time": 1691474919,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 202411,
@@ -1243,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193462,
+      "num": 208311,
+      "word": "亚洲超星团",
+      "onboard_time": 1691475278,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189723,
       "num": 199995,
       "word": "全职高手3动画",
@@ -1257,6 +1345,14 @@
       "onboard_time": 1691436135,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183210,
+      "num": 208332,
+      "word": "雪糕届真的太内卷了",
+      "onboard_time": 1691473120,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 182616,
@@ -1473,6 +1569,14 @@
       "onboard_time": 1691416119,
       "rank": 44,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 51071,
+      "num": 208317,
+      "word": "立秋第一杯奶茶是饿了么免单给的",
+      "onboard_time": 1691474438,
+      "rank": 39,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 51001,

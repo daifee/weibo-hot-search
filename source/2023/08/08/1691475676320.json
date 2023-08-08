@@ -1,0 +1,410 @@
+{
+  "runTime": 1691475676320,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557819,
+        "num": 1557819,
+        "word": "万达高级副总裁刘海波被公安带走",
+        "onboard_time": 1691470362,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224995,
+        "num": 1224995,
+        "word": "嫡谋 杨紫龚俊",
+        "onboard_time": 1691470602,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40668,
+        "num": 974910,
+        "word": "暴雨洪涝防疫指南",
+        "onboard_time": 1691463935,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922194,
+        "num": 922194,
+        "word": "很喜欢今年的8月8",
+        "onboard_time": 1691470780,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 898034,
+        "num": 898034,
+        "word": "刘涛演妈祖之前请示过妈祖",
+        "onboard_time": 1691468980,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 816975,
+        "num": 816975,
+        "word": "TFBOYS演唱会带动4.16亿旅游收入",
+        "onboard_time": 1691460272,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 589641,
+        "num": 589641,
+        "word": "魏大勋你好星期六",
+        "onboard_time": 1691470061,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550888,
+        "num": 550888,
+        "word": "李玟老公申请死因调查",
+        "onboard_time": 1691461775,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480991,
+        "num": 480991,
+        "word": "外地人被内蒙人吃肉吓到了",
+        "onboard_time": 1691468316,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 50289,
+        "num": 475566,
+        "word": "子弟兵蹚淤泥推舟为村民送物资",
+        "onboard_time": 1691468800,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2612303,
+        "num": 472163,
+        "word": "赵丽颖第一次发儿子想想",
+        "onboard_time": 1691472217,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1466636,
+        "num": 466284,
+        "word": "大S工作室发律师声明",
+        "onboard_time": 1691474318,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682302,
+        "num": 456128,
+        "word": "王鹤棣去苍兰诀一周年聚餐了吗",
+        "onboard_time": 1691470061,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 679858,
+        "num": 452882,
+        "word": "晋江大大们都好美",
+        "onboard_time": 1691470538,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 448308,
+        "num": 448308,
+        "word": "知名网红疑被前任闺蜜偷家",
+        "onboard_time": 1691457574,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 583974,
+        "num": 445877,
+        "word": "谁给倪妮做的发型",
+        "onboard_time": 1691474560,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407807,
+        "num": 407807,
+        "word": "痛经的人是不易受孕体质吗",
+        "onboard_time": 1691453013,
+        "rank": 16,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 388004,
+        "num": 388004,
+        "word": "暑期档看不过来了",
+        "onboard_time": 1691471739,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344158,
+        "num": 344158,
+        "word": "妈妈越过外孙先拥抱自己的女儿",
+        "onboard_time": 1691465796,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279584,
+        "num": 279584,
+        "word": "周深捐赠救援物资今晨抵达五常",
+        "onboard_time": 1691472878,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 590855,
+        "num": 277902,
+        "word": "全家吃菌仅女子一人中毒",
+        "onboard_time": 1691473717,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577598,
+        "num": 276360,
+        "word": "女孩18岁成人礼被男友带去吸毒",
+        "onboard_time": 1691469820,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387878,
+        "num": 274521,
+        "word": "弟弟暑假工两个月成为公司骨干",
+        "onboard_time": 1691468078,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 350976,
+        "num": 272337,
+        "word": "时代少年团楼外楼演唱会官宣",
+        "onboard_time": 1691474978,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251339,
+        "num": 271595,
+        "word": "司机成功预判了碰瓷大爷的预判",
+        "onboard_time": 1691471440,
+        "rank": 24,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 283061,
+        "num": 270016,
+        "word": "檀健次夸有杨紫的地方不会冷场",
+        "onboard_time": 1691469400,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308212,
+        "num": 267469,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1691473657,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266370,
+        "num": 266370,
+        "word": "封神第一部删减",
+        "onboard_time": 1691467657,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262914,
+        "num": 262914,
+        "word": "法图麦穿了李咏8年前衣服",
+        "onboard_time": 1691475457,
+        "rank": 28,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 245295,
+        "num": 245295,
+        "word": "不建议把挂式空调装在床头",
+        "onboard_time": 1691468258,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371283,
+        "num": 243283,
+        "word": "高三老师付费请学生看TFBOYS演唱会直播",
+        "onboard_time": 1691459552,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 234325,
+        "num": 234325,
+        "word": "鹿晗武汉演唱会官宣嘉宾",
+        "onboard_time": 1691467419,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208672,
+        "num": 208672,
+        "word": "李雪琴为孤注一掷主题曲作词",
+        "onboard_time": 1691468559,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259379,
+        "num": 208650,
+        "word": "时代峰峻",
+        "onboard_time": 1691475515,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208613,
+        "num": 208613,
+        "word": "现在仙侠都流行到七生七世了",
+        "onboard_time": 1691465434,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208358,
+        "num": 208358,
+        "word": "泰国人用王一博当签证表格模板",
+        "onboard_time": 1691461654,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204552,
+        "num": 208350,
+        "word": "减肥期晚上出门风险有多大",
+        "onboard_time": 1691475397,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203881,
+        "num": 208345,
+        "word": "亚洲超星团选手首亮相",
+        "onboard_time": 1691474919,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183210,
+        "num": 208332,
+        "word": "雪糕届真的太内卷了",
+        "onboard_time": 1691473120,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51071,
+        "num": 208317,
+        "word": "立秋第一杯奶茶是饿了么免单给的",
+        "onboard_time": 1691474438,
+        "rank": 39,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 193462,
+        "num": 208311,
+        "word": "亚洲超星团",
+        "onboard_time": 1691475278,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200592,
+        "num": 208302,
+        "word": "王鹤棣 本座回来了",
+        "onboard_time": 1691451751,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198948,
+        "num": 208287,
+        "word": "张艺凡方放节目争议片段回应",
+        "onboard_time": 1691458593,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177775,
+        "num": 208281,
+        "word": "夏天的垃圾一定要及时扔掉",
+        "onboard_time": 1691468800,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174549,
+        "num": 208260,
+        "word": "卡芙卡",
+        "onboard_time": 1691472458,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168893,
+        "num": 208256,
+        "word": "孤注一掷",
+        "onboard_time": 1691457274,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165792,
+        "num": 208236,
+        "word": "BLACKPINK练习生旧照",
+        "onboard_time": 1691467839,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161998,
+        "num": 208230,
+        "word": "大鹏王一博亮相热烈泰国首映",
+        "onboard_time": 1691471620,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161821,
+        "num": 208216,
+        "word": "台风兰恩已生成",
+        "onboard_time": 1691463335,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147349,
+        "num": 208214,
+        "word": "再也不跟实习生玩了",
+        "onboard_time": 1691467599,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#众志成城同舟共济#"
+    }
+  }
+}
