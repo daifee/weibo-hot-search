@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691530438008,
+  "endTime": 1691532978185,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -17427,6 +17427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201965,
+      "num": 87625,
+      "word": "新生儿长2颗牙43天内先后被拔掉",
+      "onboard_time": 1691521755,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201957,
       "num": 201957,
       "word": "七时吉祥1V1情劫预告",
@@ -20251,14 +20259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109390,
-      "num": 59103,
-      "word": "新生儿长2颗牙43天内先后被拔掉",
-      "onboard_time": 1691521755,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108866,
       "num": 1420244,
       "word": "有人民的地方就有子弟兵",
@@ -20851,6 +20851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 55399,
+      "num": 55399,
+      "word": "小夭外爷一段话diss了三个男人",
+      "onboard_time": 1691522354,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54951,
       "num": 2158513,
       "word": "暴雨天气10个安全指南",
@@ -20881,6 +20889,22 @@
       "onboard_time": 1690974032,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53288,
+      "num": 45002,
+      "word": "2个动作瘦腰腹",
+      "onboard_time": 1691528653,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52205,
+      "num": 45027,
+      "word": "女朋友生气时的统一模板",
+      "onboard_time": 1691526912,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 52088,
@@ -21051,20 +21075,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32908,
-      "num": 31256,
-      "word": "2个动作瘦腰腹",
-      "onboard_time": 1691528653,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32050,
-      "num": 36267,
-      "word": "小夭外爷一段话diss了三个男人",
-      "onboard_time": 1691522354,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 32122,
+      "num": 44984,
+      "word": "殷桃露马甲线",
+      "onboard_time": 1691525773,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 31799,
@@ -21187,14 +21203,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 25341,
-      "num": 35752,
-      "word": "殷桃露马甲线",
-      "onboard_time": 1691525773,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25290,
       "num": 33201,
       "word": "黑龙江尚志市暴雨",
@@ -21211,12 +21219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20717,
-      "num": 31217,
-      "word": "女朋友生气时的统一模板",
-      "onboard_time": 1691526912,
-      "rank": 41,
-      "category": "幽默,情感"
+      "raw_hot": 21737,
+      "num": 44921,
+      "word": "其实钱没被偷",
+      "onboard_time": 1691524512,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 19762,

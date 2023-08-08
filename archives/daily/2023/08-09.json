@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691530438008,
+  "endTime": 1691532978185,
   "band_list": [
     {
       "raw_hot": 1269442,
@@ -291,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201965,
+      "num": 87625,
+      "word": "新生儿长2颗牙43天内先后被拔掉",
+      "onboard_time": 1691521755,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199590,
       "num": 199590,
       "word": "Uzi无缘S13",
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109390,
-      "num": 59103,
-      "word": "新生儿长2颗牙43天内先后被拔掉",
-      "onboard_time": 1691521755,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92469,
       "num": 100314,
       "word": "崔胜澈直播呢",
@@ -483,6 +483,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 55399,
+      "num": 55399,
+      "word": "小夭外爷一段话diss了三个男人",
+      "onboard_time": 1691522354,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 53288,
+      "num": 45002,
+      "word": "2个动作瘦腰腹",
+      "onboard_time": 1691528653,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52205,
+      "num": 45027,
+      "word": "女朋友生气时的统一模板",
+      "onboard_time": 1691526912,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 38358,
       "num": 54209,
       "word": "崩坏星穹铁道",
@@ -499,36 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32908,
-      "num": 31256,
-      "word": "2个动作瘦腰腹",
-      "onboard_time": 1691528653,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32050,
-      "num": 36267,
-      "word": "小夭外爷一段话diss了三个男人",
-      "onboard_time": 1691522354,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 25341,
-      "num": 35752,
+      "raw_hot": 32122,
+      "num": 44984,
       "word": "殷桃露马甲线",
       "onboard_time": 1691525773,
       "rank": 49,
       "category": "艺人"
     },
     {
-      "raw_hot": 20717,
-      "num": 31217,
-      "word": "女朋友生气时的统一模板",
-      "onboard_time": 1691526912,
-      "rank": 41,
-      "category": "幽默,情感"
+      "raw_hot": 21737,
+      "num": 44921,
+      "word": "其实钱没被偷",
+      "onboard_time": 1691524512,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 15966,
