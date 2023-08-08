@@ -1,0 +1,410 @@
+{
+  "runTime": 1691480028801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1355070,
+        "num": 1355070,
+        "word": "今年出生人口或低于900万",
+        "onboard_time": 1691476536,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674539,
+        "num": 674539,
+        "word": "嫡谋 杨紫龚俊",
+        "onboard_time": 1691470602,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32798,
+        "num": 641034,
+        "word": "暴雨洪涝防疫指南",
+        "onboard_time": 1691463935,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867000,
+        "num": 640011,
+        "word": "第一次omakase吃了纸巾",
+        "onboard_time": 1691476117,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 632992,
+        "num": 632992,
+        "word": "请杨紫来精装修我的房子",
+        "onboard_time": 1691475818,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494136,
+        "num": 494136,
+        "word": "很喜欢今年的8月8",
+        "onboard_time": 1691470780,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 843274,
+        "num": 486416,
+        "word": "万达高级副总裁刘海波被公安带走",
+        "onboard_time": 1691470362,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466377,
+        "num": 466377,
+        "word": "刘涛演妈祖之前请示过妈祖",
+        "onboard_time": 1691468980,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422278,
+        "num": 422278,
+        "word": "那可是晋江的三块钱",
+        "onboard_time": 1691476718,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43864,
+        "num": 422053,
+        "word": "子弟兵蹚淤泥推舟为村民送物资",
+        "onboard_time": 1691468800,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1600097,
+        "num": 421766,
+        "word": "赵丽颖第一次发儿子想想",
+        "onboard_time": 1691472217,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1264572,
+        "num": 421532,
+        "word": "易烊千玺究竟被吓到多少次",
+        "onboard_time": 1691477977,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1060342,
+        "num": 421209,
+        "word": "迪丽热巴工作室换了头像",
+        "onboard_time": 1691476117,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 670616,
+        "num": 421177,
+        "word": "时代峰峻",
+        "onboard_time": 1691475515,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1044870,
+        "num": 420861,
+        "word": "大S工作室发律师声明",
+        "onboard_time": 1691474318,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859658,
+        "num": 420494,
+        "word": "卡琳娜收到婚纱的反应",
+        "onboard_time": 1691477318,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821392,
+        "num": 420250,
+        "word": "苍兰诀聚餐合照",
+        "onboard_time": 1691477677,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 642492,
+        "num": 420068,
+        "word": "碧桂园",
+        "onboard_time": 1691478696,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419856,
+        "num": 419856,
+        "word": "碧桂园两笔美元债票息未付",
+        "onboard_time": 1691478635,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321445,
+        "num": 321445,
+        "word": "TFBOYS演唱会带动4.16亿旅游收入",
+        "onboard_time": 1691460272,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 780980,
+        "num": 321286,
+        "word": "法图麦穿了李咏8年前衣服",
+        "onboard_time": 1691475457,
+        "rank": 20,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 415827,
+        "num": 319316,
+        "word": "女孩18岁成人礼被男友带去吸毒",
+        "onboard_time": 1691469820,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680545,
+        "num": 313345,
+        "word": "TF一代二代三代四代演唱会官宣时间",
+        "onboard_time": 1691479118,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305371,
+        "num": 305371,
+        "word": "原来测过敏源这么痛",
+        "onboard_time": 1691477075,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283996,
+        "num": 283996,
+        "word": "痛经的人是不易受孕体质吗",
+        "onboard_time": 1691453013,
+        "rank": 24,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 598621,
+        "num": 278935,
+        "word": "易烊千玺踉跄后扶了王源的腰",
+        "onboard_time": 1691479297,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 425673,
+        "num": 275724,
+        "word": "谁给倪妮做的发型",
+        "onboard_time": 1691474560,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355933,
+        "num": 275182,
+        "word": "原来春晓医疗的电话真的能打通",
+        "onboard_time": 1691478157,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267378,
+        "num": 267378,
+        "word": "全家吃菌仅女子一人中毒",
+        "onboard_time": 1691473717,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263913,
+        "num": 263913,
+        "word": "外地人被内蒙人吃肉吓到了",
+        "onboard_time": 1691468316,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 310535,
+        "num": 263547,
+        "word": "晋江大大们都好美",
+        "onboard_time": 1691470538,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 262016,
+        "num": 262016,
+        "word": "张雨绮赤脚红裙大片",
+        "onboard_time": 1691479176,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252755,
+        "num": 252755,
+        "word": "减肥期晚上出门风险有多大",
+        "onboard_time": 1691475397,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248326,
+        "num": 248326,
+        "word": "立秋的第一顿大餐吃什么",
+        "onboard_time": 1691479421,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245313,
+        "num": 245313,
+        "word": "我穿潮牌就是这样子的",
+        "onboard_time": 1691478459,
+        "rank": 34,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 243441,
+        "num": 243441,
+        "word": "王鹤棣去苍兰诀一周年聚餐了吗",
+        "onboard_time": 1691470061,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242345,
+        "num": 242345,
+        "word": "弟弟暑假工两个月成为公司骨干",
+        "onboard_time": 1691468078,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225368,
+        "num": 225368,
+        "word": "知名网红疑被前任闺蜜偷家",
+        "onboard_time": 1691457574,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 212810,
+        "num": 212810,
+        "word": "时代少年团楼外楼演唱会官宣",
+        "onboard_time": 1691474978,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205959,
+        "num": 205959,
+        "word": "马龙的乒乓时间",
+        "onboard_time": 1691479478,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201163,
+        "num": 201163,
+        "word": "相机千万别和樟脑丸放一起",
+        "onboard_time": 1691477195,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203853,
+        "num": 200540,
+        "word": "高三老师付费请学生看TFBOYS演唱会直播",
+        "onboard_time": 1691459552,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 199890,
+        "num": 199890,
+        "word": "妈妈越过外孙先拥抱自己的女儿",
+        "onboard_time": 1691465796,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193803,
+        "num": 193803,
+        "word": "王一博说泰语",
+        "onboard_time": 1691479715,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190392,
+        "num": 190392,
+        "word": "刘涛胡歌陈龙合影梦回琅琊榜",
+        "onboard_time": 1691476055,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188418,
+        "num": 188418,
+        "word": "宋亚轩欢迎大家来俺们山东玩",
+        "onboard_time": 1691479836,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187844,
+        "num": 187844,
+        "word": "赵丽颖的视频都要愣一下",
+        "onboard_time": 1691479957,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187688,
+        "num": 187688,
+        "word": "封神第一部删减",
+        "onboard_time": 1691467657,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187618,
+        "num": 187618,
+        "word": "鸢染烟纱",
+        "onboard_time": 1691477977,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182507,
+        "num": 182507,
+        "word": "K396次列车救援微纪录片",
+        "onboard_time": 1691476296,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#他们关键时刻冲得上去豁得出来#"
+    }
+  }
+}

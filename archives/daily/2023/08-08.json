@@ -1,6 +1,6 @@
 {
   "startTime": 1691425287978,
-  "endTime": 1691478917197,
+  "endTime": 1691480028801,
   "band_list": [
     {
       "raw_hot": 2612303,
@@ -123,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1355070,
+      "num": 1355070,
+      "word": "今年出生人口或低于900万",
+      "onboard_time": 1691476536,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1313411,
       "num": 737892,
       "word": "Prada把檀健次拍成维修工了",
       "onboard_time": 1691420501,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1264572,
+      "num": 421532,
+      "word": "易烊千玺究竟被吓到多少次",
+      "onboard_time": 1691477977,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 1205865,
@@ -203,7 +219,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1045190,
+      "raw_hot": 1060342,
       "num": 426063,
       "word": "迪丽热巴工作室换了头像",
       "onboard_time": 1691476117,
@@ -275,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 859658,
+      "num": 420494,
+      "word": "卡琳娜收到婚纱的反应",
+      "onboard_time": 1691477318,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 840106,
       "num": 497809,
       "word": "女孩18岁成人礼被男友带去吸毒",
@@ -289,6 +313,14 @@
       "onboard_time": 1691475457,
       "rank": 28,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 821392,
+      "num": 420250,
+      "word": "苍兰诀聚餐合照",
+      "onboard_time": 1691477677,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 818274,
@@ -313,22 +345,6 @@
       "onboard_time": 1691470538,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 773850,
-      "num": 368193,
-      "word": "苍兰诀聚餐合照",
-      "onboard_time": 1691477677,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 771406,
-      "num": 367771,
-      "word": "卡琳娜收到婚纱的反应",
-      "onboard_time": 1691477318,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 758530,
@@ -363,12 +379,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 676517,
-      "num": 676517,
-      "word": "今年出生人口或低于900万",
-      "onboard_time": 1691476536,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 680545,
+      "num": 313345,
+      "word": "TF一代二代三代四代演唱会官宣时间",
+      "onboard_time": 1691479118,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 667809,
@@ -403,6 +419,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 642492,
+      "num": 420068,
+      "word": "碧桂园",
+      "onboard_time": 1691478696,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639597,
       "num": 639597,
       "word": "卡莎",
@@ -417,6 +441,14 @@
       "onboard_time": 1691450969,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 598621,
+      "num": 278935,
+      "word": "易烊千玺踉跄后扶了王源的腰",
+      "onboard_time": 1691479297,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 590855,
@@ -465,14 +497,6 @@
       "onboard_time": 1691469400,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 581594,
-      "num": 321784,
-      "word": "易烊千玺究竟被吓到多少次",
-      "onboard_time": 1691477977,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 576767,
@@ -739,12 +763,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 422278,
+      "num": 422278,
+      "word": "那可是晋江的三块钱",
+      "onboard_time": 1691476718,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 420442,
       "num": 327781,
       "word": "井川里予蓝发",
       "onboard_time": 1691455178,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 419856,
+      "num": 419856,
+      "word": "碧桂园两笔美元债票息未付",
+      "onboard_time": 1691478635,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408579,
@@ -788,7 +828,7 @@
     },
     {
       "raw_hot": 389409,
-      "num": 305079,
+      "num": 305371,
       "word": "原来测过敏源这么痛",
       "onboard_time": 1691477075,
       "rank": 23,
@@ -843,20 +883,20 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 359320,
-      "num": 359320,
-      "word": "那可是晋江的三块钱",
-      "onboard_time": 1691476718,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 356782,
       "num": 356782,
       "word": "千万别戴这种眼镜",
       "onboard_time": 1691405855,
       "rank": 25,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 355933,
+      "num": 277405,
+      "word": "原来春晓医疗的电话真的能打通",
+      "onboard_time": 1691478157,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 353965,
@@ -1051,14 +1091,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 277405,
-      "num": 277405,
-      "word": "原来春晓医疗的电话真的能打通",
-      "onboard_time": 1691478157,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 276477,
       "num": 276477,
       "word": "邓为从脖子红到耳朵",
@@ -1147,6 +1179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262016,
+      "num": 262016,
+      "word": "张雨绮赤脚红裙大片",
+      "onboard_time": 1691479176,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 257067,
       "num": 239391,
       "word": "莲花楼央视频追剧日历",
@@ -1171,20 +1211,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252755,
+      "num": 252755,
+      "word": "减肥期晚上出门风险有多大",
+      "onboard_time": 1691475397,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251784,
       "num": 251784,
       "word": "TFBOYS演唱会后劲最大的一个视频",
       "onboard_time": 1691414196,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 250887,
-      "num": 250887,
-      "word": "碧桂园",
-      "onboard_time": 1691478696,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248868,
@@ -1195,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248326,
+      "num": 248326,
+      "word": "立秋的第一顿大餐吃什么",
+      "onboard_time": 1691479421,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 246417,
       "num": 682822,
       "word": "陆军某旅千人百车驰援舒兰",
@@ -1203,12 +1251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244709,
-      "num": 244709,
-      "word": "减肥期晚上出门风险有多大",
-      "onboard_time": 1691475397,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 245313,
+      "num": 245313,
+      "word": "我穿潮牌就是这样子的",
+      "onboard_time": 1691478459,
+      "rank": 43,
+      "category": "时尚,幽默"
     },
     {
       "raw_hot": 239448,
@@ -1355,6 +1403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205959,
+      "num": 205959,
+      "word": "马龙的乒乓时间",
+      "onboard_time": 1691479478,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204994,
       "num": 204994,
       "word": "K396次列车救援微纪录片",
@@ -1419,14 +1475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201026,
-      "num": 201026,
-      "word": "我穿潮牌就是这样子的",
-      "onboard_time": 1691478459,
-      "rank": 43,
-      "category": "时尚,幽默"
-    },
-    {
       "raw_hot": 200733,
       "num": 208311,
       "word": "亚洲超星团",
@@ -1459,18 +1507,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195437,
-      "num": 201023,
-      "word": "碧桂园两笔美元债票息未付",
-      "onboard_time": 1691478635,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194963,
       "num": 236458,
       "word": "为李莲花流泪",
       "onboard_time": 1691424334,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193803,
+      "num": 193803,
+      "word": "王一博说泰语",
+      "onboard_time": 1691479715,
       "rank": 43,
       "category": "影视"
     },
@@ -1497,6 +1545,22 @@
       "onboard_time": 1691436135,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188418,
+      "num": 188418,
+      "word": "宋亚轩欢迎大家来俺们山东玩",
+      "onboard_time": 1691479836,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 187844,
+      "num": 187844,
+      "word": "赵丽颖的视频都要愣一下",
+      "onboard_time": 1691479957,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 183210,
