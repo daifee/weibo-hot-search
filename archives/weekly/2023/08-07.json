@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691493237604,
+  "endTime": 1691494437192,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -875,6 +875,14 @@
       "category": "时尚,幽默"
     },
     {
+      "raw_hot": 1031296,
+      "num": 966597,
+      "word": "酷酷的滕骗不了张艺兴一点",
+      "onboard_time": 1691491115,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1023525,
       "num": 373580,
       "word": "TF一代二代三代四代演唱会官宣时间",
@@ -1003,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 910053,
+      "num": 910053,
+      "word": "相柳哭了",
+      "onboard_time": 1691493452,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 904220,
       "num": 794542,
       "word": "杨紫包场孤注一掷",
@@ -1017,14 +1033,6 @@
       "onboard_time": 1691384026,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 895740,
-      "num": 855628,
-      "word": "酷酷的滕骗不了张艺兴一点",
-      "onboard_time": 1691491115,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 891301,
@@ -1091,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 839222,
+      "num": 839222,
+      "word": "爱奇艺",
+      "onboard_time": 1691489674,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 839083,
       "num": 839083,
       "word": "滔搏 报点",
@@ -1152,14 +1168,6 @@
       "word": "封神第一部票房破17亿",
       "onboard_time": 1691414259,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 814725,
-      "num": 814725,
-      "word": "爱奇艺",
-      "onboard_time": 1691489674,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -1947,6 +1955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 520068,
+      "num": 476988,
+      "word": "王传君担心会被女性观众喷死",
+      "onboard_time": 1691492615,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 517806,
       "num": 517806,
       "word": "于适成为姬发",
@@ -2123,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472891,
+      "num": 995823,
+      "word": "妻子记录老公30秒救回落海母子",
+      "onboard_time": 1691492436,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472191,
       "num": 472191,
       "word": "王俊凯新歌回望",
@@ -2177,6 +2201,14 @@
       "onboard_time": 1691460692,
       "rank": 34,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 456065,
+      "num": 456065,
+      "word": "在银行自尊心低到谷底",
+      "onboard_time": 1691489434,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 455222,
@@ -2361,14 +2393,6 @@
       "onboard_time": 1691399198,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 420451,
-      "num": 420451,
-      "word": "在银行自尊心低到谷底",
-      "onboard_time": 1691489434,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 420442,
@@ -2667,6 +2691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373717,
+      "num": 373717,
+      "word": "王一博说不可以但是笑了",
+      "onboard_time": 1691490575,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373541,
       "num": 358464,
       "word": "男子花200元网购金毛拆开傻眼",
@@ -2696,14 +2728,6 @@
       "word": "孙阳好帅",
       "onboard_time": 1691422898,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 363505,
-      "num": 363505,
-      "word": "王一博说不可以但是笑了",
-      "onboard_time": 1691490575,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -2811,12 +2835,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343977,
+      "num": 343977,
+      "word": "长相思",
+      "onboard_time": 1691384923,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341432,
       "num": 420254,
       "word": "新疆商户凌晨4点赶制2100份馕驰援涞水",
       "onboard_time": 1691418643,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340777,
+      "num": 340777,
+      "word": "成都大运会闭幕式",
+      "onboard_time": 1691494115,
+      "rank": 26,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 340763,
@@ -2827,14 +2867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340167,
-      "num": 340167,
-      "word": "王传君担心会被女性观众喷死",
-      "onboard_time": 1691492615,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 338226,
       "num": 247742,
       "word": "王俊凯到达泸州路透",
@@ -2843,11 +2875,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335962,
-      "num": 335962,
-      "word": "长相思",
-      "onboard_time": 1691384923,
-      "rank": 42,
+      "raw_hot": 334354,
+      "num": 334354,
+      "word": "封神主创团做客刘畊宏直播间",
+      "onboard_time": 1691493334,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -3659,6 +3691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239412,
+      "num": 239412,
+      "word": "帝王蟹馒头",
+      "onboard_time": 1691493155,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 239260,
       "num": 236141,
       "word": "夭璟互相吃醋",
@@ -3987,6 +4027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207906,
+      "num": 207906,
+      "word": "年薪百万哭穷",
+      "onboard_time": 1691494057,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207358,
       "num": 207358,
       "word": "一眼惊艳的中式志怪美学",
@@ -4153,6 +4201,14 @@
       "onboard_time": 1691488839,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195441,
+      "num": 207847,
+      "word": "这是在拍霸道总裁还是玛丽苏",
+      "onboard_time": 1691493452,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 194963,
@@ -4411,6 +4467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171877,
+      "num": 207809,
+      "word": "TTG发布严正声明",
+      "onboard_time": 1691494418,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171265,
       "num": 818180,
       "word": "莲花楼预告悬疑感拉满了",
@@ -4465,14 +4529,6 @@
       "onboard_time": 1691480019,
       "rank": 47,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 158160,
-      "num": 192295,
-      "word": "帝王蟹馒头",
-      "onboard_time": 1691493155,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 153484,
@@ -4803,6 +4859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85917,
+      "num": 935280,
+      "word": "空中俯瞰消防在五常洪水中一路逆行",
+      "onboard_time": 1691484698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82516,
       "num": 91723,
       "word": "爱一个人并允许对方离开你的人生",
@@ -4819,15 +4883,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 81202,
-      "num": 623242,
-      "word": "妻子记录老公30秒救回落海母子",
-      "onboard_time": 1691492436,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74334,
+      "raw_hot": 76012,
       "num": 1299847,
       "word": "我在国门一线",
       "onboard_time": 1691489019,
@@ -4880,14 +4936,6 @@
       "word": "男孩兼职救生员满脸骄傲讲述救人经历",
       "onboard_time": 1691391699,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62724,
-      "num": 935280,
-      "word": "空中俯瞰消防在五常洪水中一路逆行",
-      "onboard_time": 1691484698,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -5057,6 +5105,14 @@
       "onboard_time": 1691356274,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11282,
+      "num": 636242,
+      "word": "饿了么承包一整个秋天的奶茶",
+      "onboard_time": 1691494238,
+      "rank": 14,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
