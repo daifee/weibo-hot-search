@@ -1,0 +1,410 @@
+{
+  "runTime": 1691620433609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 456481,
+        "num": 456481,
+        "word": "四川山东两地凌晨地震",
+        "onboard_time": 1691600724,
+        "rank": 0,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 340039,
+        "num": 340039,
+        "word": "jiejie",
+        "onboard_time": 1691598510,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3323,
+        "num": 314090,
+        "word": "立秋大运会闭幕秋分亚运会开幕",
+        "onboard_time": 1691555445,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293146,
+        "num": 293146,
+        "word": "优酷 泼天的富贵",
+        "onboard_time": 1691590057,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259264,
+        "num": 259264,
+        "word": "43岁女子当榜一大哥骗女主播66万",
+        "onboard_time": 1691611215,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218968,
+        "num": 218968,
+        "word": "李相夷剑断人亡",
+        "onboard_time": 1691587056,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205300,
+        "num": 205300,
+        "word": "男子捡到超大野生菌一锅炖不下",
+        "onboard_time": 1691599167,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121944,
+        "num": 121944,
+        "word": "爱奇艺10部热度值破万的剧集",
+        "onboard_time": 1691589758,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119623,
+        "num": 119623,
+        "word": "同事桌上突然贴的标语",
+        "onboard_time": 1691597791,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 110386,
+        "num": 110386,
+        "word": "怪不得耳鼻咽喉分在同一个科室",
+        "onboard_time": 1691585672,
+        "rank": 9,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 174100,
+        "num": 108751,
+        "word": "女子地铁强行要人给女儿让座被拒大骂",
+        "onboard_time": 1691600484,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107108,
+        "num": 107108,
+        "word": "一名殡葬专业学生的课表",
+        "onboard_time": 1691585914,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93824,
+        "num": 93824,
+        "word": "胡锡进 北京这场大暴雨超出认知",
+        "onboard_time": 1691589097,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86650,
+        "num": 86650,
+        "word": "唯二正确的睡姿",
+        "onboard_time": 1691600304,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84637,
+        "num": 84637,
+        "word": "中央财政紧急预拨10亿元",
+        "onboard_time": 1691579555,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 79552,
+        "num": 79552,
+        "word": "Jennie疑似与YG解约",
+        "onboard_time": 1691590840,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79441,
+        "num": 79441,
+        "word": "大鹏为自己和王一博辟谣了",
+        "onboard_time": 1691579855,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68959,
+        "num": 68959,
+        "word": "莲花楼破万",
+        "onboard_time": 1691584955,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66932,
+        "num": 66932,
+        "word": "相柳和小夭告别",
+        "onboard_time": 1691599167,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67516,
+        "num": 66802,
+        "word": "莲花楼大结局你满意吗",
+        "onboard_time": 1691592939,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 822925,
+        "num": 66043,
+        "word": "原配街头打小三扒其胸衣",
+        "onboard_time": 1691596711,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122618,
+        "num": 65526,
+        "word": "雷军宣布将于8月14日举办年度演讲",
+        "onboard_time": 1691618174,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 113935,
+        "num": 65030,
+        "word": "裸考考上了意大利的公务员",
+        "onboard_time": 1691578115,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109880,
+        "num": 64483,
+        "word": "浙江多家公立医院重复收费",
+        "onboard_time": 1691618836,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100853,
+        "num": 64099,
+        "word": "工资不高又要经常熬夜的工作",
+        "onboard_time": 1691590658,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63951,
+        "num": 63951,
+        "word": "都是王菲玩剩下的",
+        "onboard_time": 1691580515,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80110,
+        "num": 62940,
+        "word": "为什么煮出来的红豆粥是这样",
+        "onboard_time": 1691593480,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 69266,
+        "num": 62051,
+        "word": "网友给王诗龄P眉毛",
+        "onboard_time": 1691584774,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60944,
+        "num": 60944,
+        "word": "刚出生一个月的小水獭有多萌",
+        "onboard_time": 1691581416,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56108,
+        "num": 56108,
+        "word": "王传君拜佛名场面",
+        "onboard_time": 1691605996,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54945,
+        "num": 54945,
+        "word": "王濛被冻结股权445万",
+        "onboard_time": 1691567376,
+        "rank": 30,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 53444,
+        "num": 53444,
+        "word": "我已经没兴趣给别人留个好印象了",
+        "onboard_time": 1691591321,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 50471,
+        "num": 50471,
+        "word": "迪丽热巴说到底是谁在跟我抢票",
+        "onboard_time": 1691585615,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49926,
+        "num": 49926,
+        "word": "笛飞声 角丽谯",
+        "onboard_time": 1691589039,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49092,
+        "num": 49092,
+        "word": "中戏教授说王一博进步非常大",
+        "onboard_time": 1691587359,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48166,
+        "num": 48166,
+        "word": "去泰国尽量别用信用卡",
+        "onboard_time": 1691580215,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 48002,
+        "num": 48002,
+        "word": "徐明浩 SEVENTEEN团综",
+        "onboard_time": 1691594198,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47636,
+        "num": 47636,
+        "word": "韩男团中国线下签售cut",
+        "onboard_time": 1691596473,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40544,
+        "num": 47636,
+        "word": "杨迪问快乐向前冲想干嘛",
+        "onboard_time": 1691611634,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40434,
+        "num": 47636,
+        "word": "邓为直播衣服是不是穿反了",
+        "onboard_time": 1691597014,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37797,
+        "num": 47636,
+        "word": "最怕别人问我哪个学校的",
+        "onboard_time": 1691590418,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37601,
+        "num": 47636,
+        "word": "网友的鞋是相柳变的",
+        "onboard_time": 1691599944,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37481,
+        "num": 47636,
+        "word": "徐杰",
+        "onboard_time": 1691579915,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36770,
+        "num": 47636,
+        "word": "丰隆成夭璟play的一环了",
+        "onboard_time": 1691593959,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34783,
+        "num": 47636,
+        "word": "宋威龙穿JK",
+        "onboard_time": 1691593240,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33817,
+        "num": 47636,
+        "word": "G社拍的王鹤棣",
+        "onboard_time": 1691609835,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33769,
+        "num": 47636,
+        "word": "相柳杀了防风邶",
+        "onboard_time": 1691595694,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31576,
+        "num": 47636,
+        "word": "DK",
+        "onboard_time": 1691592880,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29938,
+        "num": 47636,
+        "word": "杨幂又戴桃子耳环了",
+        "onboard_time": 1691616134,
+        "rank": 48,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 28116,
+        "num": 47636,
+        "word": "莲花楼",
+        "onboard_time": 1691569714,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#将调查研究发扬光大#"
+    }
+  }
+}
