@@ -1,0 +1,410 @@
+{
+  "runTime": 1691551029659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2814569,
+        "num": 3129138,
+        "word": "北京特大暴雨已致33人遇难",
+        "onboard_time": 1691548117,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1426221,
+        "num": 1426221,
+        "word": "重案六组这编剧也太超前了",
+        "onboard_time": 1691543977,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48153,
+        "num": 1190383,
+        "word": "洪水过后居家消毒要注意什么",
+        "onboard_time": 1691508937,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1989054,
+        "num": 1171495,
+        "word": "游客发现重庆一寺庙供奉日本邪神",
+        "onboard_time": 1691545416,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1102834,
+        "num": 1102834,
+        "word": "郑州也忍不住了",
+        "onboard_time": 1691549556,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 813658,
+        "num": 813658,
+        "word": "花呗回应女子网购2百多却被扣款3千多",
+        "onboard_time": 1691538392,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 798652,
+        "num": 798652,
+        "word": "医药代表称不敢进医院",
+        "onboard_time": 1691547154,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726799,
+        "num": 726799,
+        "word": "起猛了看到杨紫魏大勋演夫妻",
+        "onboard_time": 1691546016,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 686371,
+        "num": 686371,
+        "word": "马立奥综艺挨揍第一人",
+        "onboard_time": 1691549314,
+        "rank": 8,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 83666,
+        "num": 635901,
+        "word": "紧握的手是子弟兵给的安全感",
+        "onboard_time": 1691539114,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625648,
+        "num": 625648,
+        "word": "取消公摊是大势所趋吗",
+        "onboard_time": 1691542180,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 516143,
+        "num": 516143,
+        "word": "涂山璟千面狐狸",
+        "onboard_time": 1691546195,
+        "rank": 11,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 471448,
+        "num": 471448,
+        "word": "内娱天生的电影脸",
+        "onboard_time": 1691544935,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464224,
+        "num": 464224,
+        "word": "奚安娜",
+        "onboard_time": 1691542596,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457135,
+        "num": 457135,
+        "word": "王俊凯回望",
+        "onboard_time": 1691546974,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 449082,
+        "num": 449082,
+        "word": "费翔专治恋爱脑",
+        "onboard_time": 1691545480,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403610,
+        "num": 403610,
+        "word": "永夜星河",
+        "onboard_time": 1691549438,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363922,
+        "num": 363922,
+        "word": "菏泽地震",
+        "onboard_time": 1691538392,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347086,
+        "num": 347086,
+        "word": "男子喜得双胞胎民警加班办入户",
+        "onboard_time": 1691539776,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330500,
+        "num": 330500,
+        "word": "相柳提醒涂山璟找防风意映",
+        "onboard_time": 1691550035,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1041358,
+        "num": 330165,
+        "word": "男子强奸13岁女孩致死案二审维持死刑",
+        "onboard_time": 1691544218,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756693,
+        "num": 329039,
+        "word": "男子涉嫌常年性侵害继女",
+        "onboard_time": 1691548234,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402731,
+        "num": 327938,
+        "word": "突然知道怎么存钱了",
+        "onboard_time": 1691547996,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345395,
+        "num": 327274,
+        "word": "莲花楼婚礼变葬礼",
+        "onboard_time": 1691545835,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326421,
+        "num": 326421,
+        "word": "为什么理发店洗头油的慢",
+        "onboard_time": 1691538450,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314581,
+        "num": 314581,
+        "word": "金晨谈第一次演荷官",
+        "onboard_time": 1691545717,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293909,
+        "num": 293909,
+        "word": "Uzi",
+        "onboard_time": 1691510318,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289206,
+        "num": 289206,
+        "word": "虞书欣永夜星河进组",
+        "onboard_time": 1691548476,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281053,
+        "num": 281053,
+        "word": "王菲精灵感",
+        "onboard_time": 1691548956,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273073,
+        "num": 273073,
+        "word": "你喝的咖啡暴露了你的职业",
+        "onboard_time": 1691539052,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 349232,
+        "num": 271746,
+        "word": "现在回家总要开灯啊",
+        "onboard_time": 1691548234,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266676,
+        "num": 266676,
+        "word": "玱玹被强吻",
+        "onboard_time": 1691541342,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265535,
+        "num": 265535,
+        "word": "河北监狱服刑人员视频会见APP收费",
+        "onboard_time": 1691542239,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246908,
+        "num": 246908,
+        "word": "女儿无缘大学后她送51个孩子上大学",
+        "onboard_time": 1691550396,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 223824,
+        "num": 223824,
+        "word": "今年已有159名医院院长书记被查",
+        "onboard_time": 1691549314,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220451,
+        "num": 220451,
+        "word": "原来巨齿鲨也是恋爱脑",
+        "onboard_time": 1691545655,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214500,
+        "num": 214500,
+        "word": "Lisa直播说中文",
+        "onboard_time": 1691546314,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203805,
+        "num": 203805,
+        "word": "碧桂园",
+        "onboard_time": 1691542659,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203751,
+        "num": 203751,
+        "word": "欢迎来到梦乐园",
+        "onboard_time": 1691550157,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197625,
+        "num": 203745,
+        "word": "北京通报特大暴雨灾情",
+        "onboard_time": 1691549856,
+        "rank": 39,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 194751,
+        "num": 203730,
+        "word": "杭州人是懂亚运氛围的",
+        "onboard_time": 1691550157,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194399,
+        "num": 203724,
+        "word": "费曼被吴镇宇揍",
+        "onboard_time": 1691538690,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183726,
+        "num": 203714,
+        "word": "北京发布会现场为洪涝灾害遇难者默哀",
+        "onboard_time": 1691549495,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182851,
+        "num": 203698,
+        "word": "杨紫认证爆亿思",
+        "onboard_time": 1691543797,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179517,
+        "num": 203683,
+        "word": "千万不要把枕头放洗衣机里洗",
+        "onboard_time": 1691542540,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177308,
+        "num": 203679,
+        "word": "BLG世界赛首胜",
+        "onboard_time": 1691542058,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171507,
+        "num": 203669,
+        "word": "张巾 恋爱脑",
+        "onboard_time": 1691546915,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158309,
+        "num": 203648,
+        "word": "脏脏包为什么现在没人吃了",
+        "onboard_time": 1691510911,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131089,
+        "num": 203643,
+        "word": "薛之谦郭顶合照",
+        "onboard_time": 1691548055,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130511,
+        "num": 203634,
+        "word": "方多病智商上线了",
+        "onboard_time": 1691549253,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会纪念短片#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691548873897,
+  "endTime": 1691551029659,
   "band_list": [
+    {
+      "raw_hot": 2814569,
+      "num": 3129138,
+      "word": "北京特大暴雨已致33人遇难",
+      "onboard_time": 1691548117,
+      "rank": 16,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 2171062,
       "num": 2171062,
@@ -17,14 +25,6 @@
       "onboard_time": 1691545416,
       "rank": 42,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 1838053,
-      "num": 1838053,
-      "word": "北京特大暴雨已致33人遇难",
-      "onboard_time": 1691548117,
-      "rank": 16,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1686531,
@@ -51,6 +51,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1426221,
+      "num": 1426221,
+      "word": "重案六组这编剧也太超前了",
+      "onboard_time": 1691543977,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1402384,
       "num": 1402384,
       "word": "脏脏包为什么现在没人吃了",
@@ -65,14 +73,6 @@
       "onboard_time": 1691544634,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1306602,
-      "num": 1306602,
-      "word": "重案六组这编剧也太超前了",
-      "onboard_time": 1691543977,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 1269442,
@@ -97,6 +97,14 @@
       "onboard_time": 1691542596,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1102834,
+      "num": 1102834,
+      "word": "郑州也忍不住了",
+      "onboard_time": 1691549556,
+      "rank": 4,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1084861,
@@ -139,12 +147,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 798652,
+      "num": 798652,
+      "word": "医药代表称不敢进医院",
+      "onboard_time": 1691547154,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756693,
+      "num": 329039,
+      "word": "男子涉嫌常年性侵害继女",
+      "onboard_time": 1691548234,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754950,
       "num": 289161,
       "word": "新生儿长2颗牙43天内先后被拔掉",
       "onboard_time": 1691521755,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 726799,
+      "num": 726799,
+      "word": "起猛了看到杨紫魏大勋演夫妻",
+      "onboard_time": 1691546016,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 721639,
@@ -163,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 693182,
-      "num": 693182,
-      "word": "起猛了看到杨紫魏大勋演夫妻",
-      "onboard_time": 1691546016,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 686371,
+      "num": 686371,
+      "word": "马立奥综艺挨揍第一人",
+      "onboard_time": 1691549314,
+      "rank": 8,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 680863,
@@ -180,7 +212,7 @@
     },
     {
       "raw_hot": 662853,
-      "num": 319625,
+      "num": 326421,
       "word": "为什么理发店洗头油的慢",
       "onboard_time": 1691538450,
       "rank": 21,
@@ -283,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 516143,
+      "num": 516143,
+      "word": "涂山璟千面狐狸",
+      "onboard_time": 1691546195,
+      "rank": 13,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 514162,
       "num": 514162,
       "word": "王俊凯回望",
@@ -297,14 +337,6 @@
       "onboard_time": 1691508877,
       "rank": 7,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 476685,
-      "num": 318323,
-      "word": "医药代表称不敢进医院",
-      "onboard_time": 1691547154,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 475051,
@@ -363,12 +395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 405788,
-      "num": 405788,
-      "word": "涂山璟千面狐狸",
-      "onboard_time": 1691546195,
-      "rank": 13,
-      "category": "影视,艺人"
+      "raw_hot": 403610,
+      "num": 403610,
+      "word": "永夜星河",
+      "onboard_time": 1691549438,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 402731,
+      "num": 327938,
+      "word": "突然知道怎么存钱了",
+      "onboard_time": 1691547996,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 401175,
@@ -427,12 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 352490,
-      "num": 316223,
-      "word": "男子涉嫌常年性侵害继女",
+      "raw_hot": 349232,
+      "num": 271746,
+      "word": "现在回家总要开灯啊",
       "onboard_time": 1691548234,
-      "rank": 43,
-      "category": "社会新闻"
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 346221,
@@ -443,12 +483,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 333571,
-      "num": 287559,
-      "word": "突然知道怎么存钱了",
-      "onboard_time": 1691547996,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 345395,
+      "num": 327274,
+      "word": "莲花楼婚礼变葬礼",
+      "onboard_time": 1691545835,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 330500,
+      "num": 330500,
+      "word": "相柳提醒涂山璟找防风意映",
+      "onboard_time": 1691550035,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 325875,
@@ -523,14 +571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 292762,
-      "num": 292762,
-      "word": "莲花楼婚礼变葬礼",
-      "onboard_time": 1691545835,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 291517,
       "num": 272709,
       "word": "辞掉了父母眼中的铁饭碗",
@@ -544,6 +584,14 @@
       "word": "孤注一掷票房破7亿",
       "onboard_time": 1691500600,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 289206,
+      "num": 289206,
+      "word": "虞书欣永夜星河进组",
+      "onboard_time": 1691548476,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -561,6 +609,14 @@
       "onboard_time": 1691541940,
       "rank": 30,
       "category": "音乐,音乐"
+    },
+    {
+      "raw_hot": 281053,
+      "num": 281053,
+      "word": "王菲精灵感",
+      "onboard_time": 1691548956,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 280851,
@@ -643,6 +699,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 246908,
+      "num": 246908,
+      "word": "女儿无缘大学后她送51个孩子上大学",
+      "onboard_time": 1691550396,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 246558,
       "num": 246558,
       "word": "张晚意 极品模王",
@@ -691,12 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223209,
-      "num": 223209,
-      "word": "现在回家总要开灯啊",
-      "onboard_time": 1691548234,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 223824,
+      "num": 223824,
+      "word": "今年已有159名医院院长书记被查",
+      "onboard_time": 1691549314,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223143,
@@ -755,19 +819,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211598,
-      "num": 211598,
-      "word": "虞书欣永夜星河进组",
-      "onboard_time": 1691548476,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 209305,
       "num": 209305,
       "word": "EDG下路菜啊",
       "onboard_time": 1691487696,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 203751,
+      "num": 203751,
+      "word": "欢迎来到梦乐园",
+      "onboard_time": 1691550157,
+      "rank": 38,
       "category": "游戏"
     },
     {
@@ -795,6 +859,22 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 197625,
+      "num": 203745,
+      "word": "北京通报特大暴雨灾情",
+      "onboard_time": 1691549856,
+      "rank": 39,
+      "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 194751,
+      "num": 203730,
+      "word": "杭州人是懂亚运氛围的",
+      "onboard_time": 1691550157,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191788,
       "num": 179174,
       "word": "当一场电影里买票的都是i人",
@@ -816,6 +896,14 @@
       "word": "小男孩到派出所让民警送他去孤儿院",
       "onboard_time": 1691536403,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183726,
+      "num": 203714,
+      "word": "北京发布会现场为洪涝灾害遇难者默哀",
+      "onboard_time": 1691549495,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -852,7 +940,7 @@
     },
     {
       "raw_hot": 169852,
-      "num": 169852,
+      "num": 203643,
       "word": "薛之谦郭顶合照",
       "onboard_time": 1691548055,
       "rank": 45,
@@ -971,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130511,
+      "num": 203634,
+      "word": "方多病智商上线了",
+      "onboard_time": 1691549253,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129929,
       "num": 129929,
       "word": "母子将蛇谎称成黑鱼想带上火车",
@@ -988,7 +1084,7 @@
     },
     {
       "raw_hot": 116122,
-      "num": 538342,
+      "num": 635901,
       "word": "紧握的手是子弟兵给的安全感",
       "onboard_time": 1691539114,
       "rank": 9,
