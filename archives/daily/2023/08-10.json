@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691615720428,
+  "endTime": 1691616830424,
   "band_list": [
     {
       "raw_hot": 2247846,
@@ -419,20 +419,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133155,
+      "num": 46431,
+      "word": "43岁女子当榜一大哥骗女主播66万",
+      "onboard_time": 1691611215,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130699,
       "num": 206361,
       "word": "最怕别人问我哪个学校的",
       "onboard_time": 1691590418,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119871,
-      "num": 46431,
-      "word": "43岁女子当榜一大哥骗女主播66万",
-      "onboard_time": 1691611215,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117832,
@@ -531,8 +531,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12607,
-      "num": 21272,
+      "raw_hot": 26973,
+      "num": 26973,
+      "word": "杨幂又戴桃子耳环了",
+      "onboard_time": 1691616134,
+      "rank": 31,
+      "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 19652,
+      "num": 26741,
       "word": "卡芙卡上线",
       "onboard_time": 1691615594,
       "rank": 49,

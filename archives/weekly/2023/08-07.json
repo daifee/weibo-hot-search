@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691615720428,
+  "endTime": 1691616830424,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -7883,6 +7883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133155,
+      "num": 46431,
+      "word": "43岁女子当榜一大哥骗女主播66万",
+      "onboard_time": 1691611215,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132528,
       "num": 225827,
       "word": "方形西瓜",
@@ -8001,14 +8009,6 @@
       "onboard_time": 1691416839,
       "rank": 14,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 119871,
-      "num": 46431,
-      "word": "43岁女子当榜一大哥骗女主播66万",
-      "onboard_time": 1691611215,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119719,
@@ -8515,6 +8515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 26973,
+      "num": 26973,
+      "word": "杨幂又戴桃子耳环了",
+      "onboard_time": 1691616134,
+      "rank": 31,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 25148,
       "num": 228258,
       "word": "范丞丞在神抢手请你喝奶茶",
@@ -8539,6 +8547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19652,
+      "num": 26741,
+      "word": "卡芙卡上线",
+      "onboard_time": 1691615594,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 18031,
       "num": 120315,
       "word": "乔治亚水族馆的海獭们",
@@ -8561,14 +8577,6 @@
       "onboard_time": 1691404177,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12607,
-      "num": 21272,
-      "word": "卡芙卡上线",
-      "onboard_time": 1691615594,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 11503,
