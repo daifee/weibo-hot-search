@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691590639025,
+  "endTime": 1691591765706,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -73,6 +73,14 @@
       "onboard_time": 1691483075,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3238883,
+      "num": 3238883,
+      "word": "优酷 泼天的富贵",
+      "onboard_time": 1691590057,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 3211062,
@@ -491,8 +499,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1664200,
-      "num": 1664200,
+      "raw_hot": 1679171,
+      "num": 1679171,
       "word": "一名殡葬专业学生的课表",
       "onboard_time": 1691585914,
       "rank": 16,
@@ -720,6 +728,14 @@
       "word": "莲花楼热度反超长相思",
       "onboard_time": 1691406278,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1474905,
+      "num": 1474905,
+      "word": "爱奇艺10部热度值破万的剧集",
+      "onboard_time": 1691589758,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -1041,14 +1057,6 @@
       "onboard_time": 1691459552,
       "rank": 13,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1202944,
-      "num": 1202944,
-      "word": "爱奇艺10部热度值破万的剧集",
-      "onboard_time": 1691589758,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1199292,
@@ -1459,14 +1467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 981315,
-      "num": 981315,
-      "word": "优酷 泼天的富贵",
-      "onboard_time": 1691590057,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 979848,
       "num": 979848,
       "word": "张晚意撞到柱子都变形",
@@ -1545,6 +1545,14 @@
       "onboard_time": 1691420860,
       "rank": 16,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 924322,
+      "num": 924322,
+      "word": "Jennie疑似与YG解约",
+      "onboard_time": 1691590840,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 916312,
@@ -2043,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 738309,
+      "num": 738309,
+      "word": "怪不得耳鼻咽喉分在同一个科室",
+      "onboard_time": 1691585672,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 737852,
       "num": 737852,
       "word": "7月广东新增报告115例猴痘病例",
@@ -2203,6 +2219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 704997,
+      "num": 339843,
+      "word": "长相思好狠的心",
+      "onboard_time": 1691587298,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 704932,
       "num": 548977,
       "word": "百度崩了",
@@ -2241,14 +2265,6 @@
       "onboard_time": 1691564794,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 692665,
-      "num": 692665,
-      "word": "怪不得耳鼻咽喉分在同一个科室",
-      "onboard_time": 1691585672,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 691052,
@@ -2339,6 +2355,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 669885,
+      "num": 315858,
+      "word": "工资不高又要经常熬夜的工作",
+      "onboard_time": 1691590658,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667809,
       "num": 667809,
       "word": "请杨紫来精装修我的房子",
@@ -2409,14 +2433,6 @@
       "onboard_time": 1691414018,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 656280,
-      "num": 278578,
-      "word": "长相思好狠的心",
-      "onboard_time": 1691587298,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 653266,
@@ -3531,6 +3547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 463316,
+      "num": 291400,
+      "word": "夭璟",
+      "onboard_time": 1691590180,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 462767,
       "num": 356763,
       "word": "周冬雨素颜生活照",
@@ -4620,7 +4644,7 @@
     },
     {
       "raw_hot": 331110,
-      "num": 245128,
+      "num": 248604,
       "word": "白敬亭潮男穿搭",
       "onboard_time": 1691588857,
       "rank": 31,
@@ -4649,6 +4673,14 @@
       "onboard_time": 1691538090,
       "rank": 26,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 325710,
+      "num": 325710,
+      "word": "椰树直播间全员跳广场舞",
+      "onboard_time": 1691586816,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325423,
@@ -4761,6 +4793,14 @@
       "onboard_time": 1691388458,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317935,
+      "num": 262381,
+      "word": "严浩翔说丁哥你把我手机甩飞了",
+      "onboard_time": 1691591199,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 317341,
@@ -5043,6 +5083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297513,
+      "num": 297513,
+      "word": "原来裤子这里是这么用的",
+      "onboard_time": 1691588378,
+      "rank": 34,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 297252,
       "num": 297252,
       "word": "罗云熙和Doinb搭档打比赛",
@@ -5179,6 +5227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287015,
+      "num": 287015,
+      "word": "胡锡进 北京这场大暴雨超出认知",
+      "onboard_time": 1691589097,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285659,
       "num": 285659,
       "word": "综艺童话阵容官宣",
@@ -5192,14 +5248,6 @@
       "word": "河段水位上升官兵们冒雨垒筑沙袋",
       "onboard_time": 1691368304,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285104,
-      "num": 285104,
-      "word": "椰树直播间全员跳广场舞",
-      "onboard_time": 1691586816,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -5265,6 +5313,14 @@
       "onboard_time": 1691472878,
       "rank": 19,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 278877,
+      "num": 203992,
+      "word": "成毅的破万舞什么时候跳",
+      "onboard_time": 1691588920,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 278847,
@@ -5417,6 +5473,14 @@
       "onboard_time": 1691409454,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267550,
+      "num": 267550,
+      "word": "不是所有蔬果都适合放冰箱",
+      "onboard_time": 1691588017,
+      "rank": 29,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 267238,
@@ -5707,6 +5771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248798,
+      "num": 223292,
+      "word": "杨超越今天发了10条微博",
+      "onboard_time": 1691589936,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248295,
       "num": 248295,
       "word": "大鹏说很心疼王一博",
@@ -5720,14 +5792,6 @@
       "word": "四川雅安一河道涨水已致7人遇难",
       "onboard_time": 1691563474,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247547,
-      "num": 244966,
-      "word": "胡锡进 北京这场大暴雨超出认知",
-      "onboard_time": 1691589097,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -5747,14 +5811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 245618,
-      "num": 227826,
-      "word": "夭璟",
-      "onboard_time": 1691590180,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245575,
       "num": 637634,
       "word": "要学会大大方方的表达自己的情绪",
@@ -5769,14 +5825,6 @@
       "onboard_time": 1691478459,
       "rank": 43,
       "category": "时尚,幽默"
-    },
-    {
-      "raw_hot": 245239,
-      "num": 245239,
-      "word": "不是所有蔬果都适合放冰箱",
-      "onboard_time": 1691588017,
-      "rank": 29,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 244337,
@@ -5947,14 +5995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 235534,
-      "num": 235534,
-      "word": "原来裤子这里是这么用的",
-      "onboard_time": 1691588378,
-      "rank": 34,
-      "category": "幽默,时尚"
-    },
-    {
       "raw_hot": 235462,
       "num": 201635,
       "word": "TF三代演唱会校园风海报",
@@ -6083,12 +6123,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228119,
+      "num": 202766,
+      "word": "陈牧驰念战友的来信",
+      "onboard_time": 1691591321,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227300,
       "num": 227300,
       "word": "成都大运会主火炬熄灭",
       "onboard_time": 1691507021,
       "rank": 46,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 227114,
+      "num": 227114,
+      "word": "最怕别人问我哪个学校的",
+      "onboard_time": 1691590418,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 226667,
@@ -6145,14 +6201,6 @@
       "onboard_time": 1691567437,
       "rank": 42,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 223292,
-      "num": 223292,
-      "word": "杨超越今天发了10条微博",
-      "onboard_time": 1691589936,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 223119,
@@ -6595,6 +6643,14 @@
       "category": "音乐,音乐"
     },
     {
+      "raw_hot": 204218,
+      "num": 204218,
+      "word": "佛山DRG七连胜",
+      "onboard_time": 1691591500,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204154,
       "num": 204154,
       "word": "领导发个表情研究了半小时",
@@ -6625,6 +6681,14 @@
       "onboard_time": 1691550157,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202141,
+      "num": 202141,
+      "word": "角丽谯强制爱",
+      "onboard_time": 1691591259,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 201957,
@@ -6804,7 +6868,7 @@
     },
     {
       "raw_hot": 195967,
-      "num": 1407894,
+      "num": 1483930,
       "word": "预拨10亿元对蓄滞洪区水毁损失予以补偿",
       "onboard_time": 1691587056,
       "rank": 2,
@@ -7051,6 +7115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185089,
+      "num": 194841,
+      "word": "眨眼看天花板看见蒙娜丽莎",
+      "onboard_time": 1691591441,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184802,
       "num": 222913,
       "word": "原来空调里面这么脏",
@@ -7251,6 +7323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170903,
+      "num": 194815,
+      "word": "我已经没兴趣给别人留个好印象了",
+      "onboard_time": 1691591321,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 169852,
       "num": 203643,
       "word": "薛之谦郭顶合照",
@@ -7315,12 +7395,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162132,
-      "num": 218981,
-      "word": "最怕别人问我哪个学校的",
-      "onboard_time": 1691590418,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 161671,
+      "num": 381557,
+      "word": "男子夜钓被鱼拖下水民警追4公里救出",
+      "onboard_time": 1691589697,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161212,
@@ -8025,14 +8105,6 @@
       "onboard_time": 1691517019,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 53568,
-      "num": 381557,
-      "word": "男子夜钓被鱼拖下水民警追4公里救出",
-      "onboard_time": 1691589697,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53392,
