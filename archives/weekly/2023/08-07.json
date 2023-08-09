@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691606181299,
+  "endTime": 1691608456843,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -8139,6 +8139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87682,
+      "num": 87682,
+      "word": "王传君拜佛名场面",
+      "onboard_time": 1691605996,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 87060,
       "num": 96842,
       "word": "边牧才是狗界的显眼包",
@@ -8417,14 +8425,6 @@
       "onboard_time": 1691388397,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 41585,
-      "num": 41585,
-      "word": "王传君拜佛名场面",
-      "onboard_time": 1691605996,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 41275,
