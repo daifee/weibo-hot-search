@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691545433377,
+  "endTime": 1691548274647,
   "band_list": [
     {
       "raw_hot": 2171062,
@@ -11,8 +11,16 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1836883,
+      "num": 1836883,
+      "word": "游客发现重庆一寺庙供奉日本邪神",
+      "onboard_time": 1691545416,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 1686531,
-      "num": 317460,
+      "num": 333441,
       "word": "鹿晗腋下管理",
       "onboard_time": 1691541819,
       "rank": 20,
@@ -27,12 +35,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1432777,
+      "num": 1432777,
+      "word": "取消公摊是大势所趋吗",
+      "onboard_time": 1691542180,
+      "rank": 3,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1402384,
       "num": 1402384,
       "word": "脏脏包为什么现在没人吃了",
       "onboard_time": 1691510911,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1352936,
+      "num": 345589,
+      "word": "Somi和泫雅亲嘴了",
+      "onboard_time": 1691544634,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1306602,
+      "num": 1306602,
+      "word": "重案六组这编剧也太超前了",
+      "onboard_time": 1691543977,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 1269442,
@@ -43,16 +75,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1213315,
-      "num": 1213315,
-      "word": "取消公摊是大势所趋吗",
-      "onboard_time": 1691542180,
-      "rank": 3,
-      "category": "社会新闻,财经"
+      "raw_hot": 1161817,
+      "num": 342759,
+      "word": "男子强奸13岁女孩致死案二审维持死刑",
+      "onboard_time": 1691544218,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135135,
-      "num": 465795,
+      "num": 487117,
       "word": "奚安娜",
       "onboard_time": 1691542596,
       "rank": 10,
@@ -67,36 +99,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1069586,
-      "num": 1069586,
-      "word": "重案六组这编剧也太超前了",
-      "onboard_time": 1691543977,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1051421,
       "num": 1051421,
       "word": "长相思第二季有檀健次吗",
       "onboard_time": 1691504621,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1027585,
-      "num": 317006,
-      "word": "男子强奸13岁女孩致死案二审维持死刑",
-      "onboard_time": 1691544218,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 934322,
-      "num": 316766,
-      "word": "Somi和泫雅亲嘴了",
-      "onboard_time": 1691544634,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 911719,
@@ -147,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693182,
+      "num": 693182,
+      "word": "起猛了看到杨紫魏大勋演夫妻",
+      "onboard_time": 1691546016,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 662853,
-      "num": 316274,
+      "num": 319625,
       "word": "为什么理发店洗头油的慢",
       "onboard_time": 1691538450,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662201,
+      "num": 662201,
+      "word": "内娱天生的电影脸",
+      "onboard_time": 1691544935,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 643023,
@@ -243,6 +267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 524814,
+      "num": 524814,
+      "word": "费翔专治恋爱脑",
+      "onboard_time": 1691545480,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480793,
       "num": 480793,
       "word": "河南回应近百亿灾后重建资金出问题",
@@ -275,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 455132,
+      "num": 317339,
+      "word": "医药代表称不敢进医院",
+      "onboard_time": 1691547154,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439153,
       "num": 439153,
       "word": "一只熊猫走出了老虎的气势",
@@ -299,20 +339,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 417224,
-      "num": 417224,
-      "word": "内娱天生的电影脸",
-      "onboard_time": 1691544935,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 410744,
       "num": 287907,
       "word": "纽约顶级女医生枪杀幼子后自尽",
       "onboard_time": 1691537607,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405788,
+      "num": 405788,
+      "word": "涂山璟千面狐狸",
+      "onboard_time": 1691546195,
+      "rank": 13,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 401175,
@@ -329,6 +369,30 @@
       "onboard_time": 1691538271,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400584,
+      "num": 400584,
+      "word": "王俊凯回望",
+      "onboard_time": 1691546974,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 396632,
+      "num": 396632,
+      "word": "金晨谈第一次演荷官",
+      "onboard_time": 1691545717,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 391318,
+      "num": 391318,
+      "word": "北京特大暴雨已致33人遇难",
+      "onboard_time": 1691548117,
+      "rank": 16,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 382426,
@@ -379,6 +443,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 322917,
+      "num": 307220,
+      "word": "Lisa直播说中文",
+      "onboard_time": 1691546314,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321888,
       "num": 321888,
       "word": "全职高手 哥几个是不是又整容了",
@@ -393,6 +465,14 @@
       "onboard_time": 1691514145,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 304492,
+      "num": 304492,
+      "word": "原来巨齿鲨也是恋爱脑",
+      "onboard_time": 1691545655,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 296878,
@@ -465,6 +545,14 @@
       "onboard_time": 1691501021,
       "rank": 19,
       "category": "体育,影视"
+    },
+    {
+      "raw_hot": 276238,
+      "num": 276238,
+      "word": "莲花楼婚礼变葬礼",
+      "onboard_time": 1691545835,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 270337,
@@ -545,6 +633,14 @@
       "onboard_time": 1691497418,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239586,
+      "num": 239586,
+      "word": "张巾 恋爱脑",
+      "onboard_time": 1691546915,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 237001,
@@ -659,14 +755,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 196746,
-      "num": 196746,
-      "word": "游客发现重庆一寺庙供奉日本邪神",
-      "onboard_time": 1691545416,
-      "rank": 42,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 191788,
       "num": 179174,
       "word": "当一场电影里买票的都是i人",
@@ -707,12 +795,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178225,
+      "num": 178225,
+      "word": "突然知道怎么存钱了",
+      "onboard_time": 1691547996,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174795,
       "num": 174795,
       "word": "玱玹中毒毒发",
       "onboard_time": 1691504259,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173414,
+      "num": 173414,
+      "word": "男子涉嫌常年性侵害继女",
+      "onboard_time": 1691548234,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173074,
@@ -769,6 +873,14 @@
       "onboard_time": 1691493334,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157613,
+      "num": 157613,
+      "word": "现在回家总要开灯啊",
+      "onboard_time": 1691548234,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 154928,
@@ -851,7 +963,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 115457,
+      "raw_hot": 116122,
       "num": 488174,
       "word": "紧握的手是子弟兵给的安全感",
       "onboard_time": 1691539114,
@@ -892,7 +1004,7 @@
     },
     {
       "raw_hot": 87021,
-      "num": 1217800,
+      "num": 1411558,
       "word": "洪水过后居家消毒要注意什么",
       "onboard_time": 1691508937,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691545433377,
+  "endTime": 1691548274647,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -323,6 +323,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 1836883,
+      "num": 1836883,
+      "word": "游客发现重庆一寺庙供奉日本邪神",
+      "onboard_time": 1691545416,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 1824705,
       "num": 1824705,
       "word": "安倍国葬出席名单74%名字涂黑",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 1686531,
-      "num": 317460,
+      "num": 333441,
       "word": "鹿晗腋下管理",
       "onboard_time": 1691541819,
       "rank": 20,
@@ -643,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1432777,
+      "num": 1432777,
+      "word": "取消公摊是大势所趋吗",
+      "onboard_time": 1691542180,
+      "rank": 3,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1430764,
       "num": 1430764,
       "word": "长相思梅林殉情",
@@ -715,6 +731,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 1352936,
+      "num": 345589,
+      "word": "Somi和泫雅亲嘴了",
+      "onboard_time": 1691544634,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1343542,
       "num": 850677,
       "word": "张艺兴金晨情头",
@@ -753,6 +777,14 @@
       "onboard_time": 1691339379,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1306602,
+      "num": 1306602,
+      "word": "重案六组这编剧也太超前了",
+      "onboard_time": 1691543977,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 1306536,
@@ -801,14 +833,6 @@
       "onboard_time": 1691376757,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1213315,
-      "num": 1213315,
-      "word": "取消公摊是大势所趋吗",
-      "onboard_time": 1691542180,
-      "rank": 3,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1211270,
@@ -865,6 +889,14 @@
       "onboard_time": 1691394941,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1161817,
+      "num": 342759,
+      "word": "男子强奸13岁女孩致死案二审维持死刑",
+      "onboard_time": 1691544218,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1159105,
@@ -1035,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1069586,
-      "num": 1069586,
-      "word": "重案六组这编剧也太超前了",
-      "onboard_time": 1691543977,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1060342,
       "num": 457130,
       "word": "迪丽热巴工作室换了头像",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1691491115,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1027585,
-      "num": 317006,
-      "word": "男子强奸13岁女孩致死案二审维持死刑",
-      "onboard_time": 1691544218,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1023525,
@@ -1201,14 +1217,6 @@
       "onboard_time": 1691420860,
       "rank": 16,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 934322,
-      "num": 316766,
-      "word": "Somi和泫雅亲嘴了",
-      "onboard_time": 1691544634,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 916312,
@@ -1683,6 +1691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 693182,
+      "num": 693182,
+      "word": "起猛了看到杨紫魏大勋演夫妻",
+      "onboard_time": 1691546016,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 691052,
       "num": 1076619,
       "word": "门头沟区龙泉镇副镇长刘捷遇难",
@@ -1772,11 +1788,19 @@
     },
     {
       "raw_hot": 662853,
-      "num": 316274,
+      "num": 319625,
       "word": "为什么理发店洗头油的慢",
       "onboard_time": 1691538450,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662201,
+      "num": 662201,
+      "word": "内娱天生的电影脸",
+      "onboard_time": 1691544935,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 658135,
@@ -2363,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524814,
+      "num": 524814,
+      "word": "费翔专治恋爱脑",
+      "onboard_time": 1691545480,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 524359,
       "num": 409626,
       "word": "为什么年轻人越来越不想回家了",
@@ -2723,6 +2755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 455132,
+      "num": 317339,
+      "word": "医药代表称不敢进医院",
+      "onboard_time": 1691547154,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449381,
       "num": 255506,
       "word": "TFBOYS巡演标志没了",
@@ -2971,14 +3011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 417224,
-      "num": 417224,
-      "word": "内娱天生的电影脸",
-      "onboard_time": 1691544935,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 416589,
       "num": 469256,
       "word": "原来头发真的能晒变色",
@@ -3057,6 +3089,14 @@
       "onboard_time": 1691468258,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 405788,
+      "num": 405788,
+      "word": "涂山璟千面狐狸",
+      "onboard_time": 1691546195,
+      "rank": 13,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 404269,
@@ -3163,6 +3203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 396632,
+      "num": 396632,
+      "word": "金晨谈第一次演荷官",
+      "onboard_time": 1691545717,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395833,
       "num": 395833,
       "word": "杨紫策划的长相思团综",
@@ -3193,6 +3241,14 @@
       "onboard_time": 1691411195,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 391318,
+      "num": 391318,
+      "word": "北京特大暴雨已致33人遇难",
+      "onboard_time": 1691548117,
+      "rank": 16,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 389859,
@@ -3587,6 +3643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 322917,
+      "num": 307220,
+      "word": "Lisa直播说中文",
+      "onboard_time": 1691546314,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322350,
       "num": 322350,
       "word": "金泰亨solo出道曲",
@@ -3776,6 +3840,14 @@
       "word": "成毅蹭曾舜晞的貂穿",
       "onboard_time": 1691504981,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 304492,
+      "num": 304492,
+      "word": "原来巨齿鲨也是恋爱脑",
+      "onboard_time": 1691545655,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -4039,6 +4111,14 @@
       "num": 272964,
       "word": "吴宣仪新剧撕开心机女真面目",
       "onboard_time": 1691453917,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276238,
+      "num": 276238,
+      "word": "莲花楼婚礼变葬礼",
+      "onboard_time": 1691545835,
       "rank": 31,
       "category": "影视"
     },
@@ -4457,6 +4537,14 @@
       "onboard_time": 1691387977,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 239586,
+      "num": 239586,
+      "word": "张巾 恋爱脑",
+      "onboard_time": 1691546915,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 239448,
@@ -5051,14 +5139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196746,
-      "num": 196746,
-      "word": "游客发现重庆一寺庙供奉日本邪神",
-      "onboard_time": 1691545416,
-      "rank": 42,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 196521,
       "num": 162560,
       "word": "不完美小孩",
@@ -5323,6 +5403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178225,
+      "num": 178225,
+      "word": "突然知道怎么存钱了",
+      "onboard_time": 1691547996,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177753,
       "num": 210468,
       "word": "G2夺冠",
@@ -5369,6 +5457,14 @@
       "onboard_time": 1691492378,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173414,
+      "num": 173414,
+      "word": "男子涉嫌常年性侵害继女",
+      "onboard_time": 1691548234,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173305,
@@ -5465,6 +5561,14 @@
       "onboard_time": 1691541097,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157613,
+      "num": 157613,
+      "word": "现在回家总要开灯啊",
+      "onboard_time": 1691548234,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 154928,
@@ -5763,7 +5867,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115457,
+      "raw_hot": 116122,
       "num": 488174,
       "word": "紧握的手是子弟兵给的安全感",
       "onboard_time": 1691539114,
@@ -5892,7 +5996,7 @@
     },
     {
       "raw_hot": 87021,
-      "num": 1217800,
+      "num": 1411558,
       "word": "洪水过后居家消毒要注意什么",
       "onboard_time": 1691508937,
       "rank": 2,
