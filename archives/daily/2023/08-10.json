@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691613261516,
+  "endTime": 1691615720428,
   "band_list": [
     {
       "raw_hot": 2247846,
@@ -427,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119871,
+      "num": 46431,
+      "word": "43岁女子当榜一大哥骗女主播66万",
+      "onboard_time": 1691611215,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117832,
       "num": 217929,
       "word": "比亚迪发布会",
@@ -507,14 +515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 60530,
-      "num": 37877,
-      "word": "43岁女子当榜一大哥骗女主播66万",
-      "onboard_time": 1691611215,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38693,
       "num": 38693,
       "word": "G社拍的王鹤棣",
@@ -523,12 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31028,
+      "raw_hot": 34781,
       "num": 37784,
       "word": "杨迪问快乐向前冲想干嘛",
       "onboard_time": 1691611634,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12607,
+      "num": 21272,
+      "word": "卡芙卡上线",
+      "onboard_time": 1691615594,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 4863,
