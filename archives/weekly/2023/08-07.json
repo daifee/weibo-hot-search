@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691579671312,
+  "endTime": 1691580846149,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -299,6 +299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2071000,
+      "num": 2071000,
+      "word": "虞书欣凌妙妙造型",
+      "onboard_time": 1691577395,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2047353,
       "num": 1614819,
       "word": "第一次见角色吃演员红利",
@@ -465,14 +473,6 @@
       "onboard_time": 1691476536,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1676323,
-      "num": 1676323,
-      "word": "虞书欣凌妙妙造型",
-      "onboard_time": 1691577395,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1658454,
@@ -923,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1224262,
+      "num": 1224262,
+      "word": "院长被抓后该院人均就医成本降1400元",
+      "onboard_time": 1691576434,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1219258,
       "num": 894906,
       "word": "魏大勋忘记还麦的时候",
@@ -1155,14 +1163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1090920,
-      "num": 1090920,
-      "word": "院长被抓后该院人均就医成本降1400元",
-      "onboard_time": 1691576434,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1088227,
       "num": 501514,
       "word": "鸟姐自觉盖上了红盖头",
@@ -1209,6 +1209,14 @@
       "onboard_time": 1691452833,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1066353,
+      "num": 1066353,
+      "word": "大鹏为自己和王一博辟谣了",
+      "onboard_time": 1691579855,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1060342,
@@ -1360,6 +1368,14 @@
       "word": "张晚意撞到柱子都变形",
       "onboard_time": 1691552440,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 975829,
+      "num": 975829,
+      "word": "黑莲花",
+      "onboard_time": 1691577994,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -1521,14 +1537,6 @@
       "onboard_time": 1691335752,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 874977,
-      "num": 874977,
-      "word": "黑莲花",
-      "onboard_time": 1691577994,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 871640,
@@ -2347,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 634123,
+      "num": 634123,
+      "word": "娜扎说可以美女不可以笨蛋",
+      "onboard_time": 1691576318,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 632574,
       "num": 632574,
       "word": "稚楚关于融梗抄袭发声",
@@ -2419,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 615878,
+      "num": 615878,
+      "word": "小夭误会相柳",
+      "onboard_time": 1691579196,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 615052,
       "num": 615052,
       "word": "全职高手 哥几个是不是又整容了",
@@ -2465,14 +2489,6 @@
       "onboard_time": 1691483557,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 610004,
-      "num": 610004,
-      "word": "娜扎说可以美女不可以笨蛋",
-      "onboard_time": 1691576318,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 604831,
@@ -2556,7 +2572,7 @@
     },
     {
       "raw_hot": 589438,
-      "num": 1690678,
+      "num": 1711540,
       "word": "4名学生考上211村委每人奖1万",
       "onboard_time": 1691571639,
       "rank": 14,
@@ -2737,6 +2753,14 @@
       "onboard_time": 1691539052,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 558600,
+      "num": 659751,
+      "word": "中央财政紧急预拨10亿元",
+      "onboard_time": 1691579555,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 558019,
@@ -4219,6 +4243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350937,
+      "num": 350937,
+      "word": "徐杰",
+      "onboard_time": 1691579915,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350655,
       "num": 389102,
       "word": "五月天成都",
@@ -4339,6 +4371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337231,
+      "num": 337231,
+      "word": "涂山璟说小夭太诱人了",
+      "onboard_time": 1691580334,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334524,
       "num": 334524,
       "word": "G2喊话TheShy河道见",
@@ -4417,6 +4457,14 @@
       "onboard_time": 1691458952,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321177,
+      "num": 321177,
+      "word": "DK对战T1",
+      "onboard_time": 1691572598,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 320763,
@@ -4555,6 +4603,14 @@
       "category": "财经,幽默"
     },
     {
+      "raw_hot": 309370,
+      "num": 309370,
+      "word": "都是王菲玩剩下的",
+      "onboard_time": 1691580515,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308837,
       "num": 308837,
       "word": "夏天的垃圾一定要及时扔掉",
@@ -4681,6 +4737,14 @@
       "onboard_time": 1691483977,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 300411,
+      "num": 300411,
+      "word": "夭璟的吻不再是蜻蜓点水了",
+      "onboard_time": 1691580156,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 298698,
@@ -5171,6 +5235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262739,
+      "num": 262739,
+      "word": "封神第一部如何票房逆袭",
+      "onboard_time": 1691579797,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262514,
       "num": 262514,
       "word": "河南近百亿灾后重建资金出问题",
@@ -5217,14 +5289,6 @@
       "onboard_time": 1691420980,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259647,
-      "num": 259647,
-      "word": "DK对战T1",
-      "onboard_time": 1691572598,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 259269,
@@ -5409,6 +5473,14 @@
       "onboard_time": 1691323803,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245927,
+      "num": 245927,
+      "word": "去泰国尽量别用信用卡",
+      "onboard_time": 1691580215,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 245575,
@@ -5891,6 +5963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214098,
+      "num": 214098,
+      "word": "丰隆无妻徒刑",
+      "onboard_time": 1691580454,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213105,
       "num": 213105,
       "word": "孤注一掷票房破6亿",
@@ -6033,14 +6113,6 @@
       "onboard_time": 1691450606,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 208951,
-      "num": 208951,
-      "word": "小夭误会相柳",
-      "onboard_time": 1691579196,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 208437,
@@ -6227,6 +6299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200810,
+      "num": 200810,
+      "word": "刘耀文wink完就害羞",
+      "onboard_time": 1691580515,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200733,
       "num": 208311,
       "word": "亚洲超星团",
@@ -6281,6 +6361,14 @@
       "onboard_time": 1691496515,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198765,
+      "num": 198765,
+      "word": "余华老师真的不内耗",
+      "onboard_time": 1691579254,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198602,
@@ -6579,14 +6667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184282,
-      "num": 184282,
-      "word": "余华老师真的不内耗",
-      "onboard_time": 1691579254,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184174,
       "num": 184174,
       "word": "小男孩到派出所让民警送他去孤儿院",
@@ -6705,14 +6785,6 @@
       "onboard_time": 1691404958,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173911,
-      "num": 173911,
-      "word": "中央财政紧急预拨10亿元",
-      "onboard_time": 1691579555,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 173683,
@@ -6908,7 +6980,7 @@
     },
     {
       "raw_hot": 152275,
-      "num": 618288,
+      "num": 855618,
       "word": "比亚迪第500万辆新能源汽车下线",
       "onboard_time": 1691577817,
       "rank": 13,
@@ -7595,6 +7667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 31591,
+      "num": 634436,
+      "word": "民警蹬15公里三轮帮受伤大爷送车",
+      "onboard_time": 1691579314,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30034,
       "num": 162302,
       "word": "夏鸣星卡面",
@@ -7656,14 +7736,6 @@
       "word": "饿了么宣布为视障用户造节",
       "onboard_time": 1691404177,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13312,
-      "num": 613202,
-      "word": "民警蹬15公里三轮帮受伤大爷送车",
-      "onboard_time": 1691579314,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

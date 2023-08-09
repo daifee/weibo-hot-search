@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691579671312,
+  "endTime": 1691580846149,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -43,6 +43,14 @@
       "category": "体育,财经"
     },
     {
+      "raw_hot": 2071000,
+      "num": 2071000,
+      "word": "虞书欣凌妙妙造型",
+      "onboard_time": 1691577395,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2047353,
       "num": 1614819,
       "word": "第一次见角色吃演员红利",
@@ -73,14 +81,6 @@
       "onboard_time": 1691541819,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1676323,
-      "num": 1676323,
-      "word": "虞书欣凌妙妙造型",
-      "onboard_time": 1691577395,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1655873,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1224262,
+      "num": 1224262,
+      "word": "院长被抓后该院人均就医成本降1400元",
+      "onboard_time": 1691576434,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1210832,
       "num": 1201723,
       "word": "医药反腐",
@@ -227,20 +235,20 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 1090920,
-      "num": 1090920,
-      "word": "院长被抓后该院人均就医成本降1400元",
-      "onboard_time": 1691576434,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1084861,
       "num": 1084861,
       "word": "Uzi",
       "onboard_time": 1691510318,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1066353,
+      "num": 1066353,
+      "word": "大鹏为自己和王一博辟谣了",
+      "onboard_time": 1691579855,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1055592,
@@ -299,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 975829,
+      "num": 975829,
+      "word": "黑莲花",
+      "onboard_time": 1691577994,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 952649,
       "num": 909135,
       "word": "医院采购47万药医生回扣拿15万",
@@ -329,14 +345,6 @@
       "onboard_time": 1691575776,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 874977,
-      "num": 874977,
-      "word": "黑莲花",
-      "onboard_time": 1691577994,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 871620,
@@ -643,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 634123,
+      "num": 634123,
+      "word": "娜扎说可以美女不可以笨蛋",
+      "onboard_time": 1691576318,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 630860,
       "num": 630860,
       "word": "宋雨琦真的在舞台上发光",
@@ -675,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 610004,
-      "num": 610004,
-      "word": "娜扎说可以美女不可以笨蛋",
-      "onboard_time": 1691576318,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 615878,
+      "num": 615878,
+      "word": "小夭误会相柳",
+      "onboard_time": 1691579196,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 604831,
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 589438,
-      "num": 1690678,
+      "num": 1711540,
       "word": "4名学生考上211村委每人奖1万",
       "onboard_time": 1691571639,
       "rank": 14,
@@ -761,6 +777,14 @@
       "onboard_time": 1691539052,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 558600,
+      "num": 659751,
+      "word": "中央财政紧急预拨10亿元",
+      "onboard_time": 1691579555,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 557331,
@@ -1163,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350937,
+      "num": 350937,
+      "word": "徐杰",
+      "onboard_time": 1691579915,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350655,
       "num": 389102,
       "word": "五月天成都",
@@ -1211,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337231,
+      "num": 337231,
+      "word": "涂山璟说小夭太诱人了",
+      "onboard_time": 1691580334,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325875,
       "num": 315179,
       "word": "外国游客吐槽西湖矿泉水6元1瓶太贵",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1691495496,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 321177,
+      "num": 321177,
+      "word": "DK对战T1",
+      "onboard_time": 1691572598,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 317341,
@@ -1275,12 +1323,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 309370,
+      "num": 309370,
+      "word": "都是王菲玩剩下的",
+      "onboard_time": 1691580515,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308243,
       "num": 308243,
       "word": "三只猫忽然叼着玩具进入警戒模式",
       "onboard_time": 1691558196,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300411,
+      "num": 300411,
+      "word": "夭璟的吻不再是蜻蜓点水了",
+      "onboard_time": 1691580156,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 298374,
@@ -1451,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262739,
+      "num": 262739,
+      "word": "封神第一部如何票房逆袭",
+      "onboard_time": 1691579797,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262514,
       "num": 262514,
       "word": "河南近百亿灾后重建资金出问题",
@@ -1465,14 +1537,6 @@
       "onboard_time": 1691565879,
       "rank": 43,
       "category": "幽默,美妆"
-    },
-    {
-      "raw_hot": 259647,
-      "num": 259647,
-      "word": "DK对战T1",
-      "onboard_time": 1691572598,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 259463,
@@ -1569,6 +1633,14 @@
       "onboard_time": 1691497418,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245927,
+      "num": 245927,
+      "word": "去泰国尽量别用信用卡",
+      "onboard_time": 1691580215,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 244067,
@@ -1787,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214098,
+      "num": 214098,
+      "word": "丰隆无妻徒刑",
+      "onboard_time": 1691580454,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212491,
       "num": 212491,
       "word": "雇佣人生 人人都是工具",
@@ -1841,14 +1921,6 @@
       "onboard_time": 1691487696,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208951,
-      "num": 208951,
-      "word": "小夭误会相柳",
-      "onboard_time": 1691579196,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 208437,
@@ -1923,6 +1995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200810,
+      "num": 200810,
+      "word": "刘耀文wink完就害羞",
+      "onboard_time": 1691580515,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200078,
       "num": 200078,
       "word": "真正的释怀是什么感觉",
@@ -1953,6 +2033,14 @@
       "onboard_time": 1691557959,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198765,
+      "num": 198765,
+      "word": "余华老师真的不内耗",
+      "onboard_time": 1691579254,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198423,
@@ -2059,14 +2147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184282,
-      "num": 184282,
-      "word": "余华老师真的不内耗",
-      "onboard_time": 1691579254,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184174,
       "num": 184174,
       "word": "小男孩到派出所让民警送他去孤儿院",
@@ -2105,14 +2185,6 @@
       "onboard_time": 1691504259,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173911,
-      "num": 173911,
-      "word": "中央财政紧急预拨10亿元",
-      "onboard_time": 1691579555,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 173074,
@@ -2236,7 +2308,7 @@
     },
     {
       "raw_hot": 152275,
-      "num": 618288,
+      "num": 855618,
       "word": "比亚迪第500万辆新能源汽车下线",
       "onboard_time": 1691577817,
       "rank": 13,
@@ -2451,20 +2523,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31591,
+      "num": 634436,
+      "word": "民警蹬15公里三轮帮受伤大爷送车",
+      "onboard_time": 1691579314,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21737,
       "num": 44921,
       "word": "其实钱没被偷",
       "onboard_time": 1691524512,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13312,
-      "num": 613202,
-      "word": "民警蹬15公里三轮帮受伤大爷送车",
-      "onboard_time": 1691579314,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1691580846149,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2071000,
+        "num": 2071000,
+        "word": "虞书欣凌妙妙造型",
+        "onboard_time": 1691577395,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381825,
+        "num": 1711540,
+        "word": "4名学生考上211村委每人奖1万",
+        "onboard_time": 1691571639,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39173,
+        "num": 1456083,
+        "word": "洪涝灾害发生后注意卫生安全",
+        "onboard_time": 1691572297,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1410302,
+        "num": 1410302,
+        "word": "杨洋韩立",
+        "onboard_time": 1691571519,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171801,
+        "num": 1269991,
+        "word": "舒兰群众立秋为抗洪武警包10000多饺子",
+        "onboard_time": 1691574639,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1224262,
+        "num": 1224262,
+        "word": "院长被抓后该院人均就医成本降1400元",
+        "onboard_time": 1691576434,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118398,
+        "num": 1088673,
+        "word": "男子开新买的铲车帮村民清淤",
+        "onboard_time": 1691574639,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1069250,
+        "num": 1069250,
+        "word": "第一次见角色吃演员红利",
+        "onboard_time": 1691568939,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1066353,
+        "num": 1066353,
+        "word": "大鹏为自己和王一博辟谣了",
+        "onboard_time": 1691579855,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 975829,
+        "num": 975829,
+        "word": "黑莲花",
+        "onboard_time": 1691577994,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 869566,
+        "num": 869566,
+        "word": "休息羞耻",
+        "onboard_time": 1691565635,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 138253,
+        "num": 855618,
+        "word": "比亚迪第500万辆新能源汽车下线",
+        "onboard_time": 1691577817,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844306,
+        "num": 844306,
+        "word": "人被热死有多痛苦",
+        "onboard_time": 1691575776,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 558600,
+        "num": 659751,
+        "word": "中央财政紧急预拨10亿元",
+        "onboard_time": 1691579555,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 31591,
+        "num": 634436,
+        "word": "民警蹬15公里三轮帮受伤大爷送车",
+        "onboard_time": 1691579314,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634123,
+        "num": 634123,
+        "word": "娜扎说可以美女不可以笨蛋",
+        "onboard_time": 1691576318,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 621252,
+        "num": 621252,
+        "word": "王濛被冻结股权445万",
+        "onboard_time": 1691567376,
+        "rank": 16,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 615878,
+        "num": 615878,
+        "word": "小夭误会相柳",
+        "onboard_time": 1691579196,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355105,
+        "num": 355105,
+        "word": "孟宴臣午睡",
+        "onboard_time": 1691567978,
+        "rank": 18,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 353063,
+        "num": 353063,
+        "word": "猫没抓到老鼠主人放监控给它们看",
+        "onboard_time": 1691575596,
+        "rank": 19,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 987666,
+        "num": 352327,
+        "word": "李飞已经当上爷爷了",
+        "onboard_time": 1691573979,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 973490,
+        "num": 352157,
+        "word": "裸考考上了意大利的公务员",
+        "onboard_time": 1691578115,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350937,
+        "num": 350937,
+        "word": "徐杰",
+        "onboard_time": 1691579915,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601710,
+        "num": 348167,
+        "word": "TF很懂孟女",
+        "onboard_time": 1691576557,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337231,
+        "num": 337231,
+        "word": "涂山璟说小夭太诱人了",
+        "onboard_time": 1691580334,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332090,
+        "num": 332090,
+        "word": "黄晓明被蒋欣扇巴掌戏",
+        "onboard_time": 1691572118,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321177,
+        "num": 321177,
+        "word": "DK对战T1",
+        "onboard_time": 1691572598,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309370,
+        "num": 309370,
+        "word": "都是王菲玩剩下的",
+        "onboard_time": 1691580515,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300411,
+        "num": 300411,
+        "word": "夭璟的吻不再是蜻蜓点水了",
+        "onboard_time": 1691580156,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103387,
+        "num": 280206,
+        "word": "双胞胎暴雨中降生被起名定海神针",
+        "onboard_time": 1691559279,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271951,
+        "num": 271951,
+        "word": "当妈妈不知道发小暗恋的人是我时",
+        "onboard_time": 1691577035,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262739,
+        "num": 262739,
+        "word": "封神第一部如何票房逆袭",
+        "onboard_time": 1691579797,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262185,
+        "num": 262185,
+        "word": "7月广东新增报告115例猴痘病例",
+        "onboard_time": 1691565937,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259012,
+        "num": 259012,
+        "word": "学计算机的人好像情绪都特稳定",
+        "onboard_time": 1691573320,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245927,
+        "num": 245927,
+        "word": "去泰国尽量别用信用卡",
+        "onboard_time": 1691580215,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 245875,
+        "num": 245875,
+        "word": "杨幂说我绝不回头",
+        "onboard_time": 1691564373,
+        "rank": 35,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 240433,
+        "num": 240433,
+        "word": "长相思有自己的辰亦儒",
+        "onboard_time": 1691572899,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218045,
+        "num": 218045,
+        "word": "肖战片场施法手势教学",
+        "onboard_time": 1691574878,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216517,
+        "num": 216517,
+        "word": "39岁老公被优化了",
+        "onboard_time": 1691568459,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214098,
+        "num": 214098,
+        "word": "丰隆无妻徒刑",
+        "onboard_time": 1691580454,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213172,
+        "num": 213172,
+        "word": "王濛工作室回应传言",
+        "onboard_time": 1691576015,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212664,
+        "num": 212664,
+        "word": "孤注一掷导演说张艺兴是剧组表率",
+        "onboard_time": 1691577634,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207793,
+        "num": 207793,
+        "word": "TF一代二代三代彩发造型",
+        "onboard_time": 1691574221,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200810,
+        "num": 200810,
+        "word": "刘耀文wink完就害羞",
+        "onboard_time": 1691580515,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198765,
+        "num": 198765,
+        "word": "余华老师真的不内耗",
+        "onboard_time": 1691579254,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176055,
+        "num": 176055,
+        "word": "时代少年团表情好丰富",
+        "onboard_time": 1691576674,
+        "rank": 45,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 176004,
+        "num": 176004,
+        "word": "终于知道蓝色口红都卖给谁了",
+        "onboard_time": 1691571456,
+        "rank": 46,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 171421,
+        "num": 171421,
+        "word": "莲花楼",
+        "onboard_time": 1691569714,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170069,
+        "num": 170069,
+        "word": "男子强奸13岁女孩致死案二审维持死刑",
+        "onboard_time": 1691544218,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191811,
+        "num": 169532,
+        "word": "檀健次早期这钱不好挣啊",
+        "onboard_time": 1691576256,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#不打扰就是最好的保护#"
+    }
+  }
+}
