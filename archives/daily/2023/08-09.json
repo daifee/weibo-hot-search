@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691577346022,
+  "endTime": 1691579671312,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2303580,
-      "num": 617790,
+      "num": 873816,
       "word": "休息羞耻",
       "onboard_time": 1691565635,
       "rank": 29,
@@ -73,6 +73,14 @@
       "onboard_time": 1691541819,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1676323,
+      "num": 1676323,
+      "word": "虞书欣凌妙妙造型",
+      "onboard_time": 1691577395,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1655873,
@@ -219,12 +227,28 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 1090920,
+      "num": 1090920,
+      "word": "院长被抓后该院人均就医成本降1400元",
+      "onboard_time": 1691576434,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1084861,
       "num": 1084861,
       "word": "Uzi",
       "onboard_time": 1691510318,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1055592,
+      "num": 380301,
+      "word": "裸考考上了意大利的公务员",
+      "onboard_time": 1691578115,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1051421,
@@ -297,6 +321,22 @@
       "onboard_time": 1691538690,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 891052,
+      "num": 891052,
+      "word": "人被热死有多痛苦",
+      "onboard_time": 1691575776,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 874977,
+      "num": 874977,
+      "word": "黑莲花",
+      "onboard_time": 1691577994,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 871620,
@@ -547,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660930,
+      "num": 365118,
+      "word": "TF很懂孟女",
+      "onboard_time": 1691576557,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660555,
       "num": 388326,
       "word": "原来酒店是可以讲价的",
@@ -627,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610004,
+      "num": 610004,
+      "word": "娜扎说可以美女不可以笨蛋",
+      "onboard_time": 1691576318,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 604831,
       "num": 388427,
       "word": "王一博说我已经做好了演员的工作",
@@ -643,16 +699,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594784,
-      "num": 594784,
-      "word": "人被热死有多痛苦",
-      "onboard_time": 1691575776,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 589438,
-      "num": 1624383,
+      "num": 1690678,
       "word": "4名学生考上211村委每人奖1万",
       "onboard_time": 1691571639,
       "rank": 14,
@@ -737,14 +785,6 @@
       "onboard_time": 1691556764,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 529231,
-      "num": 365118,
-      "word": "TF很懂孟女",
-      "onboard_time": 1691576557,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 526368,
@@ -1075,14 +1115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377752,
-      "num": 377752,
-      "word": "院长被抓后该院人均就医成本降1400元",
-      "onboard_time": 1691576434,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377053,
       "num": 377053,
       "word": "女儿无缘大学后她送51个孩子上大学",
@@ -1107,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365886,
+      "num": 365886,
+      "word": "猫没抓到老鼠主人放监控给它们看",
+      "onboard_time": 1691575596,
+      "rank": 40,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 360322,
       "num": 343767,
       "word": "一个男人到40岁都没明白很多事情",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1691552859,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 349645,
-      "num": 278076,
-      "word": "猫没抓到老鼠主人放监控给它们看",
-      "onboard_time": 1691575596,
-      "rank": 40,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 347639,
@@ -1177,14 +1209,6 @@
       "onboard_time": 1691558437,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 329661,
-      "num": 329661,
-      "word": "娜扎说可以美女不可以笨蛋",
-      "onboard_time": 1691576318,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 325875,
@@ -1257,6 +1281,14 @@
       "onboard_time": 1691558196,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 298374,
+      "num": 298374,
+      "word": "当妈妈不知道发小暗恋的人是我时",
+      "onboard_time": 1691577035,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 298285,
@@ -1361,6 +1393,14 @@
       "onboard_time": 1691541940,
       "rank": 30,
       "category": "音乐,音乐"
+    },
+    {
+      "raw_hot": 281057,
+      "num": 281057,
+      "word": "长相思",
+      "onboard_time": 1691578536,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 281053,
@@ -1507,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247351,
+      "num": 247351,
+      "word": "杨紫对相柳防风邶有檀健次滤镜",
+      "onboard_time": 1691577276,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246558,
       "num": 246558,
       "word": "张晚意 极品模王",
@@ -1579,6 +1627,14 @@
       "category": "影视,美妆"
     },
     {
+      "raw_hot": 239089,
+      "num": 239089,
+      "word": "孤注一掷导演说张艺兴是剧组表率",
+      "onboard_time": 1691577634,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237001,
       "num": 237001,
       "word": "外卖员被撞倒地好心大哥帮其遮掩",
@@ -1617,14 +1673,6 @@
       "onboard_time": 1691569235,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225903,
-      "num": 225903,
-      "word": "当妈妈不知道发小暗恋的人是我时",
-      "onboard_time": 1691577035,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 224469,
@@ -1763,6 +1811,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 210050,
+      "num": 210050,
+      "word": "时代少年团表情好丰富",
+      "onboard_time": 1691576674,
+      "rank": 37,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 210032,
       "num": 210032,
       "word": "售后好的影视cp",
@@ -1785,6 +1841,14 @@
       "onboard_time": 1691487696,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208951,
+      "num": 208951,
+      "word": "小夭误会相柳",
+      "onboard_time": 1691579196,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 208437,
@@ -1825,14 +1889,6 @@
       "onboard_time": 1691553519,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204643,
-      "num": 204643,
-      "word": "时代少年团表情好丰富",
-      "onboard_time": 1691576674,
-      "rank": 37,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 204474,
@@ -1916,7 +1972,7 @@
     },
     {
       "raw_hot": 197857,
-      "num": 1090882,
+      "num": 1091914,
       "word": "男子开新买的铲车帮村民清淤",
       "onboard_time": 1691574639,
       "rank": 6,
@@ -2003,6 +2059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184282,
+      "num": 184282,
+      "word": "余华老师真的不内耗",
+      "onboard_time": 1691579254,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184174,
       "num": 184174,
       "word": "小男孩到派出所让民警送他去孤儿院",
@@ -2035,14 +2099,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178230,
-      "num": 178230,
-      "word": "杨紫对相柳防风邶有檀健次滤镜",
-      "onboard_time": 1691577276,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 174795,
       "num": 174795,
       "word": "玱玹中毒毒发",
@@ -2051,12 +2107,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173911,
+      "num": 173911,
+      "word": "中央财政紧急预拨10亿元",
+      "onboard_time": 1691579555,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 173074,
       "num": 173074,
       "word": "洪水中从天而降一袋救命疫苗",
       "onboard_time": 1691536343,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172101,
+      "num": 172101,
+      "word": "张译热烈观后感",
+      "onboard_time": 1691578115,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 169852,
@@ -2160,6 +2232,14 @@
       "word": "暴雨洪灾中的守护者",
       "onboard_time": 1691541881,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152275,
+      "num": 618288,
+      "word": "比亚迪第500万辆新能源汽车下线",
+      "onboard_time": 1691577817,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2316,7 +2396,7 @@
     },
     {
       "raw_hot": 71413,
-      "num": 1616186,
+      "num": 1679081,
       "word": "洪涝灾害发生后注意卫生安全",
       "onboard_time": 1691572297,
       "rank": 2,
@@ -2377,6 +2457,14 @@
       "onboard_time": 1691524512,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13312,
+      "num": 613202,
+      "word": "民警蹬15公里三轮帮受伤大爷送车",
+      "onboard_time": 1691579314,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
