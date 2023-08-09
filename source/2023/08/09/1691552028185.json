@@ -1,0 +1,410 @@
+{
+  "runTime": 1691552028185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369947,
+        "num": 1369947,
+        "word": "重案六组这编剧也太超前了",
+        "onboard_time": 1691543977,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1035365,
+        "num": 1035365,
+        "word": "医药代表称不敢进医院",
+        "onboard_time": 1691547154,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43677,
+        "num": 816972,
+        "word": "洪水过后居家消毒要注意什么",
+        "onboard_time": 1691508937,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2210767,
+        "num": 798772,
+        "word": "北京特大暴雨已致33人遇难",
+        "onboard_time": 1691548117,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 734669,
+        "num": 734669,
+        "word": "马立奥综艺挨揍第一人",
+        "onboard_time": 1691549314,
+        "rank": 4,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 1678816,
+        "num": 728435,
+        "word": "游客发现重庆一寺庙供奉日本邪神",
+        "onboard_time": 1691545416,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 717433,
+        "num": 717433,
+        "word": "花呗回应女子网购2百多却被扣款3千多",
+        "onboard_time": 1691538392,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 597698,
+        "num": 597698,
+        "word": "起猛了看到杨紫魏大勋演夫妻",
+        "onboard_time": 1691546016,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492667,
+        "num": 492667,
+        "word": "取消公摊是大势所趋吗",
+        "onboard_time": 1691542180,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 81392,
+        "num": 464221,
+        "word": "紧握的手是子弟兵给的安全感",
+        "onboard_time": 1691539114,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1481459,
+        "num": 457829,
+        "word": "郑州也忍不住了",
+        "onboard_time": 1691549556,
+        "rank": 10,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 449366,
+        "num": 449366,
+        "word": "奚安娜",
+        "onboard_time": 1691542596,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424563,
+        "num": 424563,
+        "word": "现在回家总要开灯啊",
+        "onboard_time": 1691548234,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424056,
+        "num": 424056,
+        "word": "王俊凯回望",
+        "onboard_time": 1691546974,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 420666,
+        "num": 420666,
+        "word": "费翔专治恋爱脑",
+        "onboard_time": 1691545480,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410528,
+        "num": 410528,
+        "word": "涂山璟千面狐狸",
+        "onboard_time": 1691546195,
+        "rank": 15,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 377053,
+        "num": 377053,
+        "word": "女儿无缘大学后她送51个孩子上大学",
+        "onboard_time": 1691550396,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 377780,
+        "num": 376214,
+        "word": "相柳提醒涂山璟找防风意映",
+        "onboard_time": 1691550035,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368129,
+        "num": 368129,
+        "word": "永夜星河",
+        "onboard_time": 1691549438,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331742,
+        "num": 331742,
+        "word": "内娱天生的电影脸",
+        "onboard_time": 1691544935,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1001586,
+        "num": 331027,
+        "word": "男子强奸13岁女孩致死案二审维持死刑",
+        "onboard_time": 1691544218,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732894,
+        "num": 326538,
+        "word": "男子涉嫌常年性侵害继女",
+        "onboard_time": 1691548234,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660555,
+        "num": 323661,
+        "word": "原来酒店是可以讲价的",
+        "onboard_time": 1691551117,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 440380,
+        "num": 321908,
+        "word": "腾讯视频9号开放日",
+        "onboard_time": 1691551117,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418562,
+        "num": 319220,
+        "word": "突然知道怎么存钱了",
+        "onboard_time": 1691547996,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316670,
+        "num": 316670,
+        "word": "男子喜得双胞胎民警加班办入户",
+        "onboard_time": 1691539776,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313289,
+        "num": 313289,
+        "word": "为什么理发店洗头油的慢",
+        "onboard_time": 1691538450,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309638,
+        "num": 309638,
+        "word": "菏泽地震",
+        "onboard_time": 1691538392,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299097,
+        "num": 299097,
+        "word": "Uzi",
+        "onboard_time": 1691510318,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281133,
+        "num": 281133,
+        "word": "虞书欣永夜星河进组",
+        "onboard_time": 1691548476,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278831,
+        "num": 278831,
+        "word": "得知撞人需赔20万男子秒离婚净身出户",
+        "onboard_time": 1691551898,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277653,
+        "num": 277653,
+        "word": "今年已有159名医院院长书记被查",
+        "onboard_time": 1691549314,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273108,
+        "num": 273108,
+        "word": "莲花楼婚礼变葬礼",
+        "onboard_time": 1691545835,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267771,
+        "num": 267771,
+        "word": "你喝的咖啡暴露了你的职业",
+        "onboard_time": 1691539052,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 257170,
+        "num": 257170,
+        "word": "孤注一掷众生海报",
+        "onboard_time": 1691551479,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255986,
+        "num": 255986,
+        "word": "女儿不需要报销妈妈感慨自己没用了",
+        "onboard_time": 1691551538,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254340,
+        "num": 254340,
+        "word": "金晨谈第一次演荷官",
+        "onboard_time": 1691545717,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233454,
+        "num": 233454,
+        "word": "河北监狱服刑人员视频会见APP收费",
+        "onboard_time": 1691542239,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224190,
+        "num": 224190,
+        "word": "王菲精灵感",
+        "onboard_time": 1691548956,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218337,
+        "num": 218337,
+        "word": "玱玹被强吻",
+        "onboard_time": 1691541342,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215037,
+        "num": 215037,
+        "word": "王俊凯新歌没标注唱片公司",
+        "onboard_time": 1691551657,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214060,
+        "num": 214060,
+        "word": "碧桂园",
+        "onboard_time": 1691542659,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207452,
+        "num": 207452,
+        "word": "熊想翻墙结果把墙给踹坏了",
+        "onboard_time": 1691551479,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204270,
+        "num": 207450,
+        "word": "王俊凯新歌对话十年前的自己",
+        "onboard_time": 1691551241,
+        "rank": 43,
+        "category": "音乐,音乐"
+      },
+      {
+        "raw_hot": 191184,
+        "num": 207446,
+        "word": "檀健次相柳主题曲等不到的等待",
+        "onboard_time": 1691551241,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190707,
+        "num": 207437,
+        "word": "西出玉门",
+        "onboard_time": 1691551301,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184493,
+        "num": 207436,
+        "word": "Lisa直播说中文",
+        "onboard_time": 1691546314,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182699,
+        "num": 207430,
+        "word": "费曼被吴镇宇揍",
+        "onboard_time": 1691538690,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181601,
+        "num": 207427,
+        "word": "北京发布会现场为洪涝灾害遇难者默哀",
+        "onboard_time": 1691549495,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175739,
+        "num": 207417,
+        "word": "原来巨齿鲨也是恋爱脑",
+        "onboard_time": 1691545655,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#和成都大运会说88#"
+    }
+  }
+}

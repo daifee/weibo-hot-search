@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691551029659,
+  "endTime": 1691552028185,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -41,6 +41,14 @@
       "onboard_time": 1691538392,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1481459,
+      "num": 1102834,
+      "word": "郑州也忍不住了",
+      "onboard_time": 1691549556,
+      "rank": 4,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1432777,
@@ -99,14 +107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1102834,
-      "num": 1102834,
-      "word": "郑州也忍不住了",
-      "onboard_time": 1691549556,
-      "rank": 4,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 1084861,
       "num": 1084861,
       "word": "Uzi",
@@ -121,6 +121,14 @@
       "onboard_time": 1691504621,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1035365,
+      "num": 1035365,
+      "word": "医药代表称不敢进医院",
+      "onboard_time": 1691547154,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 911719,
@@ -147,14 +155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 798652,
-      "num": 798652,
-      "word": "医药代表称不敢进医院",
-      "onboard_time": 1691547154,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 756693,
       "num": 329039,
       "word": "男子涉嫌常年性侵害继女",
@@ -169,6 +169,14 @@
       "onboard_time": 1691521755,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734669,
+      "num": 734669,
+      "word": "马立奥综艺挨揍第一人",
+      "onboard_time": 1691549314,
+      "rank": 8,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 726799,
@@ -195,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 686371,
-      "num": 686371,
-      "word": "马立奥综艺挨揍第一人",
-      "onboard_time": 1691549314,
-      "rank": 8,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 680863,
       "num": 680863,
       "word": "内娱天生的电影脸",
@@ -217,6 +217,14 @@
       "onboard_time": 1691538450,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660555,
+      "num": 323661,
+      "word": "原来酒店是可以讲价的",
+      "onboard_time": 1691551117,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 643023,
@@ -363,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 440380,
+      "num": 321908,
+      "word": "腾讯视频9号开放日",
+      "onboard_time": 1691551117,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439153,
       "num": 439153,
       "word": "一只熊猫走出了老虎的气势",
@@ -387,6 +403,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 424563,
+      "num": 424563,
+      "word": "现在回家总要开灯啊",
+      "onboard_time": 1691548234,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 418562,
+      "num": 327938,
+      "word": "突然知道怎么存钱了",
+      "onboard_time": 1691547996,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 410744,
       "num": 287907,
       "word": "纽约顶级女医生枪杀幼子后自尽",
@@ -401,14 +433,6 @@
       "onboard_time": 1691549438,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 402731,
-      "num": 327938,
-      "word": "突然知道怎么存钱了",
-      "onboard_time": 1691547996,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 401175,
@@ -459,20 +483,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 377780,
+      "num": 376214,
+      "word": "相柳提醒涂山璟找防风意映",
+      "onboard_time": 1691550035,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 377053,
+      "num": 377053,
+      "word": "女儿无缘大学后她送51个孩子上大学",
+      "onboard_time": 1691550396,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 354301,
       "num": 354301,
       "word": "陈哲远新剧接吻开大",
       "onboard_time": 1691540377,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 349232,
-      "num": 271746,
-      "word": "现在回家总要开灯啊",
-      "onboard_time": 1691548234,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 346221,
@@ -488,14 +520,6 @@
       "word": "莲花楼婚礼变葬礼",
       "onboard_time": 1691545835,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 330500,
-      "num": 330500,
-      "word": "相柳提醒涂山璟找防风意映",
-      "onboard_time": 1691550035,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -627,6 +651,22 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 278831,
+      "num": 278831,
+      "word": "得知撞人需赔20万男子秒离婚净身出户",
+      "onboard_time": 1691551898,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277653,
+      "num": 277653,
+      "word": "今年已有159名医院院长书记被查",
+      "onboard_time": 1691549314,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270337,
       "num": 270337,
       "word": "于适三次跳舞考核没过不会是真的吧",
@@ -657,6 +697,22 @@
       "onboard_time": 1691543324,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257170,
+      "num": 257170,
+      "word": "孤注一掷众生海报",
+      "onboard_time": 1691551479,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255986,
+      "num": 255986,
+      "word": "女儿不需要报销妈妈感慨自己没用了",
+      "onboard_time": 1691551538,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253071,
@@ -697,14 +753,6 @@
       "onboard_time": 1691542421,
       "rank": 34,
       "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 246908,
-      "num": 246908,
-      "word": "女儿无缘大学后她送51个孩子上大学",
-      "onboard_time": 1691550396,
-      "rank": 33,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 246558,
@@ -755,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223824,
-      "num": 223824,
-      "word": "今年已有159名医院院长书记被查",
-      "onboard_time": 1691549314,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223143,
       "num": 223143,
       "word": "肖战背任敏深蹲花絮",
@@ -803,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215037,
+      "num": 215037,
+      "word": "王俊凯新歌没标注唱片公司",
+      "onboard_time": 1691551657,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214491,
       "num": 214491,
       "word": "赵丽颖第一次发儿子想想",
@@ -825,6 +873,22 @@
       "onboard_time": 1691487696,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207452,
+      "num": 207452,
+      "word": "熊想翻墙结果把墙给踹坏了",
+      "onboard_time": 1691551479,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 204270,
+      "num": 207450,
+      "word": "王俊凯新歌对话十年前的自己",
+      "onboard_time": 1691551241,
+      "rank": 43,
+      "category": "音乐,音乐"
     },
     {
       "raw_hot": 203751,
@@ -883,6 +947,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191184,
+      "num": 207446,
+      "word": "檀健次相柳主题曲等不到的等待",
+      "onboard_time": 1691551241,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190707,
+      "num": 207437,
+      "word": "西出玉门",
+      "onboard_time": 1691551301,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184493,
       "num": 184102,
       "word": "小夭外爷一段话diss了三个男人",
@@ -900,7 +980,7 @@
     },
     {
       "raw_hot": 183726,
-      "num": 203714,
+      "num": 207427,
       "word": "北京发布会现场为洪涝灾害遇难者默哀",
       "onboard_time": 1691549495,
       "rank": 42,
