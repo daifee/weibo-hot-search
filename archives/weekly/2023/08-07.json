@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691599238394,
+  "endTime": 1691601337241,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -977,6 +977,14 @@
       "onboard_time": 1691385819,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1303845,
+      "num": 1303845,
+      "word": "jiejie",
+      "onboard_time": 1691598510,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 1266157,
@@ -4763,14 +4771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 327777,
-      "num": 327777,
-      "word": "jiejie",
-      "onboard_time": 1691598510,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 326484,
       "num": 326484,
       "word": "杨幂沈阳出发",
@@ -5313,6 +5313,14 @@
       "onboard_time": 1691501303,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292406,
+      "num": 292406,
+      "word": "男子捡到超大野生菌一锅炖不下",
+      "onboard_time": 1691599167,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291262,
@@ -6065,6 +6073,14 @@
       "onboard_time": 1691555322,
       "rank": 42,
       "category": "影视,美妆"
+    },
+    {
+      "raw_hot": 241280,
+      "num": 241280,
+      "word": "同事桌上突然贴的标语",
+      "onboard_time": 1691597791,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 239448,
@@ -7499,14 +7515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 169005,
-      "num": 206245,
-      "word": "同事桌上突然贴的标语",
-      "onboard_time": 1691597791,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 167869,
       "num": 167869,
       "word": "百度网盘回应崩了",
@@ -7529,6 +7537,14 @@
       "onboard_time": 1691492792,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164870,
+      "num": 164870,
+      "word": "相柳和小夭告别",
+      "onboard_time": 1691599167,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 164739,
@@ -7657,6 +7673,14 @@
       "onboard_time": 1691577817,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150733,
+      "num": 150733,
+      "word": "网友的鞋是相柳变的",
+      "onboard_time": 1691599944,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 150280,
@@ -7931,14 +7955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123889,
-      "num": 163948,
-      "word": "相柳和小夭告别",
-      "onboard_time": 1691599167,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 123667,
       "num": 160073,
       "word": "诡秘之主动画小丑篇预告",
@@ -8051,6 +8067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100091,
+      "num": 147179,
+      "word": "女子地铁强行要人给女儿让座被拒大骂",
+      "onboard_time": 1691600484,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99315,
       "num": 150911,
       "word": "小企鹅们集体背着书包出来了",
@@ -8152,14 +8176,6 @@
       "word": "你的每个瞬间他都小心收藏",
       "onboard_time": 1691560835,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78542,
-      "num": 162367,
-      "word": "男子捡到超大野生菌一锅炖不下",
-      "onboard_time": 1691599167,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -8273,6 +8289,14 @@
       "onboard_time": 1691414378,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58761,
+      "num": 147048,
+      "word": "四川山东两地凌晨地震",
+      "onboard_time": 1691600724,
+      "rank": 49,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 58599,
