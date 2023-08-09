@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691566450032,
+  "endTime": 1691569328055,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -17,6 +17,14 @@
       "onboard_time": 1691538392,
       "rank": 0,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2107350,
+      "num": 550958,
+      "word": "休息羞耻",
+      "onboard_time": 1691565635,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 2040541,
@@ -49,6 +57,14 @@
       "onboard_time": 1691538392,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1630634,
+      "num": 1630634,
+      "word": "王濛被冻结股权445万",
+      "onboard_time": 1691567376,
+      "rank": 0,
+      "category": "体育,财经"
     },
     {
       "raw_hot": 1623131,
@@ -131,7 +147,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1201723,
+      "raw_hot": 1210832,
       "num": 1201723,
       "word": "医药反腐",
       "onboard_time": 1691558737,
@@ -161,6 +177,14 @@
       "onboard_time": 1691557179,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1103628,
+      "num": 1103628,
+      "word": "杨幂说我绝不回头",
+      "onboard_time": 1691564373,
+      "rank": 20,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 1084861,
@@ -211,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 952649,
+      "num": 909135,
+      "word": "医院采购47万药医生回扣拿15万",
+      "onboard_time": 1691563834,
+      "rank": 16,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 942777,
       "num": 668876,
       "word": "小朋友用电话手表拍白鹿",
@@ -227,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 909135,
-      "num": 909135,
-      "word": "医院采购47万药医生回扣拿15万",
-      "onboard_time": 1691563834,
-      "rank": 16,
-      "category": "社会新闻,财经"
+      "raw_hot": 911360,
+      "num": 911360,
+      "word": "孟宴臣午睡",
+      "onboard_time": 1691567978,
+      "rank": 3,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 871620,
@@ -249,14 +281,6 @@
       "onboard_time": 1691497235,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 849773,
-      "num": 849773,
-      "word": "杨幂说我绝不回头",
-      "onboard_time": 1691564373,
-      "rank": 20,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 849115,
@@ -305,6 +329,14 @@
       "onboard_time": 1691560835,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 766763,
+      "num": 766763,
+      "word": "王楚然张晚意娇藏改名",
+      "onboard_time": 1691567558,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 763279,
@@ -395,12 +427,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 694957,
+      "num": 694957,
+      "word": "长相思三位男主的第一次",
+      "onboard_time": 1691564794,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 683466,
       "num": 388542,
       "word": "得知撞人需赔20万男子秒离婚净身出户",
       "onboard_time": 1691551898,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681680,
+      "num": 538097,
+      "word": "陈牧驰哭了",
+      "onboard_time": 1691567437,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 680863,
@@ -425,6 +473,14 @@
       "onboard_time": 1691551117,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 645052,
+      "num": 645052,
+      "word": "7月广东新增报告115例猴痘病例",
+      "onboard_time": 1691565937,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 643023,
@@ -491,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 608615,
-      "num": 608615,
-      "word": "长相思三位男主的第一次",
-      "onboard_time": 1691564794,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 604831,
       "num": 388427,
       "word": "王一博说我已经做好了演员的工作",
@@ -513,6 +561,14 @@
       "onboard_time": 1691542659,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583038,
+      "num": 583038,
+      "word": "没认出这是张艺凡",
+      "onboard_time": 1691564914,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 577099,
@@ -560,14 +616,6 @@
       "word": "黄晓明还是那个打字速度",
       "onboard_time": 1691556764,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 540309,
-      "num": 540309,
-      "word": "没认出这是张艺凡",
-      "onboard_time": 1691564914,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -619,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487359,
+      "num": 487359,
+      "word": "7月中国内地新增报告491例猴痘确诊病例",
+      "onboard_time": 1691565214,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483057,
       "num": 483057,
       "word": "不要跟男朋友去涂石膏娃娃",
@@ -659,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462726,
+      "num": 462726,
+      "word": "王姬杀了他们三个吧",
+      "onboard_time": 1691565693,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460780,
       "num": 315750,
       "word": "千万不要把枕头放洗衣机里洗",
@@ -689,6 +753,14 @@
       "onboard_time": 1691511751,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 435223,
+      "num": 435223,
+      "word": "拔掉57颗牙是什么样的体验",
+      "onboard_time": 1691567316,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 434874,
@@ -745,6 +817,14 @@
       "onboard_time": 1691549438,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 402790,
+      "num": 402790,
+      "word": "39岁老公被优化了",
+      "onboard_time": 1691568459,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 401175,
@@ -827,14 +907,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 354416,
-      "num": 354416,
-      "word": "王姬杀了他们三个吧",
-      "onboard_time": 1691565693,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 354301,
       "num": 354301,
       "word": "陈哲远新剧接吻开大",
@@ -859,18 +931,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 345733,
-      "num": 345733,
-      "word": "休息羞耻",
-      "onboard_time": 1691565635,
-      "rank": 29,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 345395,
       "num": 327274,
       "word": "莲花楼婚礼变葬礼",
       "onboard_time": 1691545835,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 339937,
+      "num": 339937,
+      "word": "第一次见角色吃演员红利",
+      "onboard_time": 1691568939,
       "rank": 31,
       "category": "影视"
     },
@@ -931,12 +1003,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312280,
+      "num": 312280,
+      "word": "曝边伯贤将明年1月离开SMTOWN",
+      "onboard_time": 1691568159,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308243,
       "num": 308243,
       "word": "三只猫忽然叼着玩具进入警戒模式",
       "onboard_time": 1691558196,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300054,
+      "num": 300054,
+      "word": "张艺兴回复王子异说谢谢bro",
+      "onboard_time": 1691568878,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 298285,
@@ -1041,22 +1129,6 @@
       "onboard_time": 1691501021,
       "rank": 19,
       "category": "体育,影视"
-    },
-    {
-      "raw_hot": 279432,
-      "num": 279432,
-      "word": "7月广东新增报告115例猴痘病例",
-      "onboard_time": 1691565937,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272466,
-      "num": 272466,
-      "word": "7月中国内地新增报告491例猴痘确诊病例",
-      "onboard_time": 1691565214,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270337,
@@ -1211,6 +1283,14 @@
       "category": "影视,美妆"
     },
     {
+      "raw_hot": 241114,
+      "num": 241114,
+      "word": "这下发量少的人有救了",
+      "onboard_time": 1691565879,
+      "rank": 43,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 237001,
       "num": 237001,
       "word": "外卖员被撞倒地好心大哥帮其遮掩",
@@ -1235,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233480,
+      "num": 233480,
+      "word": "密逃再现范丞丞个人战名场面",
+      "onboard_time": 1691569116,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232579,
       "num": 232579,
       "word": "男生带67只猫狗跨3400公里搬家",
@@ -1257,6 +1345,14 @@
       "onboard_time": 1691559757,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223392,
+      "num": 223392,
+      "word": "国漫也有自己的queencard女团了",
+      "onboard_time": 1691567437,
+      "rank": 42,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 223143,
@@ -1323,20 +1419,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213716,
-      "num": 213716,
-      "word": "这下发量少的人有救了",
-      "onboard_time": 1691565879,
-      "rank": 43,
-      "category": "幽默,美妆"
-    },
-    {
       "raw_hot": 212491,
       "num": 212491,
       "word": "雇佣人生 人人都是工具",
       "onboard_time": 1691558258,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212155,
+      "num": 212155,
+      "word": "张子枫颓废风",
+      "onboard_time": 1691566356,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 210032,
@@ -1352,6 +1448,14 @@
       "word": "EDG下路菜啊",
       "onboard_time": 1691487696,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 208437,
+      "num": 208437,
+      "word": "开启KPL逐梦回忆",
+      "onboard_time": 1691568997,
+      "rank": 45,
       "category": "游戏"
     },
     {
@@ -1403,12 +1507,28 @@
       "category": "音乐,音乐"
     },
     {
+      "raw_hot": 203782,
+      "num": 203782,
+      "word": "相柳困在回忆里",
+      "onboard_time": 1691569116,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203751,
       "num": 203751,
       "word": "欢迎来到梦乐园",
       "onboard_time": 1691550157,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203080,
+      "num": 203080,
+      "word": "檀健次用相柳本音表白小夭",
+      "onboard_time": 1691568519,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 200078,
@@ -1475,20 +1595,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194999,
+      "num": 203121,
+      "word": "殷郊 一款老姜严选",
+      "onboard_time": 1691569235,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194751,
       "num": 203730,
       "word": "杭州人是懂亚运氛围的",
       "onboard_time": 1691550157,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193189,
-      "num": 193189,
-      "word": "张子枫颓废风",
-      "onboard_time": 1691566356,
-      "rank": 48,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 191788,
@@ -1651,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157020,
+      "num": 431117,
+      "word": "小米将发布全新MIX折叠屏",
+      "onboard_time": 1691566055,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 156035,
       "num": 361157,
       "word": "00后情侣敲诈勒索企业获利50余万",
@@ -1801,14 +1929,6 @@
       "onboard_time": 1691560835,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77310,
-      "num": 273779,
-      "word": "小米将发布全新MIX折叠屏",
-      "onboard_time": 1691566055,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 75300,

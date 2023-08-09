@@ -1,0 +1,410 @@
+{
+  "runTime": 1691569328055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1630634,
+        "num": 1630634,
+        "word": "王濛被冻结股权445万",
+        "onboard_time": 1691567376,
+        "rank": 0,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 1103628,
+        "num": 1103628,
+        "word": "杨幂说我绝不回头",
+        "onboard_time": 1691564373,
+        "rank": 1,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 61308,
+        "num": 972427,
+        "word": "立秋大运会闭幕秋分亚运会开幕",
+        "onboard_time": 1691555445,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 911360,
+        "num": 911360,
+        "word": "孟宴臣午睡",
+        "onboard_time": 1691567978,
+        "rank": 3,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 1210832,
+        "num": 866089,
+        "word": "医药反腐",
+        "onboard_time": 1691558737,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766763,
+        "num": 766763,
+        "word": "王楚然张晚意娇藏改名",
+        "onboard_time": 1691567558,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 694957,
+        "num": 694957,
+        "word": "长相思三位男主的第一次",
+        "onboard_time": 1691564794,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 952649,
+        "num": 692126,
+        "word": "医院采购47万药医生回扣拿15万",
+        "onboard_time": 1691563834,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 645052,
+        "num": 645052,
+        "word": "7月广东新增报告115例猴痘病例",
+        "onboard_time": 1691565937,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583038,
+        "num": 583038,
+        "word": "没认出这是张艺凡",
+        "onboard_time": 1691564914,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2107350,
+        "num": 550958,
+        "word": "休息羞耻",
+        "onboard_time": 1691565635,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 681680,
+        "num": 538097,
+        "word": "陈牧驰哭了",
+        "onboard_time": 1691567437,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670984,
+        "num": 535344,
+        "word": "TFBOYS为王俊凯新歌做宣传",
+        "onboard_time": 1691558857,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 511932,
+        "num": 511932,
+        "word": "拿铁效应",
+        "onboard_time": 1691563834,
+        "rank": 13,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 230940,
+        "num": 490781,
+        "word": "双胞胎暴雨中降生被起名定海神针",
+        "onboard_time": 1691559279,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487359,
+        "num": 487359,
+        "word": "7月中国内地新增报告491例猴痘确诊病例",
+        "onboard_time": 1691565214,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486380,
+        "num": 486380,
+        "word": "娜扎回应关评论",
+        "onboard_time": 1691565034,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462726,
+        "num": 462726,
+        "word": "王姬杀了他们三个吧",
+        "onboard_time": 1691565693,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435223,
+        "num": 435223,
+        "word": "拔掉57颗牙是什么样的体验",
+        "onboard_time": 1691567316,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432129,
+        "num": 432129,
+        "word": "倪妮白宇勾手吻",
+        "onboard_time": 1691560717,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628202,
+        "num": 431939,
+        "word": "小朋友用电话手表拍白鹿",
+        "onboard_time": 1691562277,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 157020,
+        "num": 431117,
+        "word": "小米将发布全新MIX折叠屏",
+        "onboard_time": 1691566055,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 434460,
+        "num": 431086,
+        "word": "我的电脑壁纸被领导发朋友圈了",
+        "onboard_time": 1691553882,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430890,
+        "num": 430890,
+        "word": "女儿不需要报销妈妈感慨自己没用了",
+        "onboard_time": 1691551538,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422345,
+        "num": 422345,
+        "word": "张晋蔡少芬为张镐濂拉票",
+        "onboard_time": 1691565278,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402790,
+        "num": 402790,
+        "word": "39岁老公被优化了",
+        "onboard_time": 1691568459,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401021,
+        "num": 401021,
+        "word": "不要跟男朋友去涂石膏娃娃",
+        "onboard_time": 1691564314,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 385923,
+        "num": 385923,
+        "word": "曺圭贤去打了九价疫苗",
+        "onboard_time": 1691556700,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353327,
+        "num": 353327,
+        "word": "男子强奸13岁女孩致死案二审维持死刑",
+        "onboard_time": 1691544218,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346775,
+        "num": 346775,
+        "word": "能不能好好设计卫生巾的护翼",
+        "onboard_time": 1691554239,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345118,
+        "num": 345118,
+        "word": "A股",
+        "onboard_time": 1691562755,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 339937,
+        "num": 339937,
+        "word": "第一次见角色吃演员红利",
+        "onboard_time": 1691568939,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312280,
+        "num": 312280,
+        "word": "曝边伯贤将明年1月离开SMTOWN",
+        "onboard_time": 1691568159,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300054,
+        "num": 300054,
+        "word": "张艺兴回复王子异说谢谢bro",
+        "onboard_time": 1691568878,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284105,
+        "num": 284105,
+        "word": "李现捐款100万驰援黑龙江灾区",
+        "onboard_time": 1691559577,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268190,
+        "num": 268190,
+        "word": "雅安",
+        "onboard_time": 1691557179,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262571,
+        "num": 262571,
+        "word": "于适微博简介",
+        "onboard_time": 1691560835,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248455,
+        "num": 248455,
+        "word": "重案六组这编剧也太超前了",
+        "onboard_time": 1691543977,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241114,
+        "num": 241114,
+        "word": "这下发量少的人有救了",
+        "onboard_time": 1691565879,
+        "rank": 38,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 233480,
+        "num": 233480,
+        "word": "密逃再现范丞丞个人战名场面",
+        "onboard_time": 1691569116,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228603,
+        "num": 228603,
+        "word": "中国风终于吹到了国漫",
+        "onboard_time": 1691561197,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 223749,
+        "num": 223749,
+        "word": "宋雨琦真的在舞台上发光",
+        "onboard_time": 1691561856,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223392,
+        "num": 223392,
+        "word": "国漫也有自己的queencard女团了",
+        "onboard_time": 1691567437,
+        "rank": 42,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 221839,
+        "num": 221839,
+        "word": "得知撞人需赔20万男子秒离婚净身出户",
+        "onboard_time": 1691551898,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212155,
+        "num": 212155,
+        "word": "张子枫颓废风",
+        "onboard_time": 1691566356,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 208437,
+        "num": 208437,
+        "word": "开启KPL逐梦回忆",
+        "onboard_time": 1691568997,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204947,
+        "num": 204947,
+        "word": "王鹤棣 娇兰",
+        "onboard_time": 1691556884,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203782,
+        "num": 203782,
+        "word": "相柳困在回忆里",
+        "onboard_time": 1691569116,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194999,
+        "num": 203121,
+        "word": "殷郊 一款老姜严选",
+        "onboard_time": 1691569235,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203080,
+        "num": 203080,
+        "word": "檀健次用相柳本音表白小夭",
+        "onboard_time": 1691568519,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动建设平等有序的多极世界#"
+    }
+  }
+}
