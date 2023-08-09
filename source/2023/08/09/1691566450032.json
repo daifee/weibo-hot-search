@@ -1,0 +1,410 @@
+{
+  "runTime": 1691566450032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1201723,
+        "num": 1201723,
+        "word": "医药反腐",
+        "onboard_time": 1691558737,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174390,
+        "num": 1174390,
+        "word": "女儿不需要报销妈妈感慨自己没用了",
+        "onboard_time": 1691551538,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67896,
+        "num": 1026532,
+        "word": "立秋大运会闭幕秋分亚运会开幕",
+        "onboard_time": 1691555445,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 909135,
+        "num": 909135,
+        "word": "医院采购47万药医生回扣拿15万",
+        "onboard_time": 1691563834,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 849773,
+        "num": 849773,
+        "word": "杨幂说我绝不回头",
+        "onboard_time": 1691564373,
+        "rank": 4,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 838680,
+        "num": 838680,
+        "word": "拿铁效应",
+        "onboard_time": 1691563834,
+        "rank": 5,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 745160,
+        "num": 745160,
+        "word": "中国风终于吹到了国漫",
+        "onboard_time": 1691561197,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 709595,
+        "num": 709595,
+        "word": "倪妮白宇勾手吻",
+        "onboard_time": 1691560717,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 701796,
+        "num": 701796,
+        "word": "A股",
+        "onboard_time": 1691562755,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 670091,
+        "num": 670091,
+        "word": "曺圭贤去打了九价疫苗",
+        "onboard_time": 1691556700,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 942777,
+        "num": 668876,
+        "word": "小朋友用电话手表拍白鹿",
+        "onboard_time": 1691562277,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 914733,
+        "num": 667675,
+        "word": "雅安",
+        "onboard_time": 1691557179,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905138,
+        "num": 665258,
+        "word": "TFBOYS为王俊凯新歌做宣传",
+        "onboard_time": 1691558857,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 414565,
+        "num": 660717,
+        "word": "双胞胎暴雨中降生被起名定海神针",
+        "onboard_time": 1691559279,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53047,
+        "num": 658974,
+        "word": "拾荒残障小伙向涿州灾区捐献物资",
+        "onboard_time": 1691564432,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709611,
+        "num": 657100,
+        "word": "能不能好好设计卫生巾的护翼",
+        "onboard_time": 1691554239,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 655731,
+        "num": 655731,
+        "word": "李现捐款100万驰援黑龙江灾区",
+        "onboard_time": 1691559577,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636328,
+        "num": 636328,
+        "word": "于适微博简介",
+        "onboard_time": 1691560835,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 618724,
+        "num": 618724,
+        "word": "娜扎回应关评论",
+        "onboard_time": 1691565034,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608615,
+        "num": 608615,
+        "word": "长相思三位男主的第一次",
+        "onboard_time": 1691564794,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604548,
+        "num": 604548,
+        "word": "宋雨琦真的在舞台上发光",
+        "onboard_time": 1691561856,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 540309,
+        "num": 540309,
+        "word": "没认出这是张艺凡",
+        "onboard_time": 1691564914,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490056,
+        "num": 490056,
+        "word": "张晋蔡少芬为张镐濂拉票",
+        "onboard_time": 1691565278,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483057,
+        "num": 483057,
+        "word": "不要跟男朋友去涂石膏娃娃",
+        "onboard_time": 1691564314,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 432842,
+        "num": 432842,
+        "word": "我的电脑壁纸被领导发朋友圈了",
+        "onboard_time": 1691553882,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387050,
+        "num": 387050,
+        "word": "男子强奸13岁女孩致死案二审维持死刑",
+        "onboard_time": 1691544218,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371220,
+        "num": 371220,
+        "word": "玱玹被作为禁毒警示案例",
+        "onboard_time": 1691555860,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156035,
+        "num": 361157,
+        "word": "00后情侣敲诈勒索企业获利50余万",
+        "onboard_time": 1691564974,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354416,
+        "num": 354416,
+        "word": "王姬杀了他们三个吧",
+        "onboard_time": 1691565693,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345733,
+        "num": 345733,
+        "word": "休息羞耻",
+        "onboard_time": 1691565635,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 341398,
+        "num": 341398,
+        "word": "重案六组这编剧也太超前了",
+        "onboard_time": 1691543977,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286740,
+        "num": 286740,
+        "word": "HYBE下半年艺人回归阵容",
+        "onboard_time": 1691562873,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282084,
+        "num": 282084,
+        "word": "王鹤棣 娇兰",
+        "onboard_time": 1691556884,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279432,
+        "num": 279432,
+        "word": "7月广东新增报告115例猴痘病例",
+        "onboard_time": 1691565937,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277288,
+        "num": 277288,
+        "word": "长相思观众是懂总结的",
+        "onboard_time": 1691564253,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77310,
+        "num": 273779,
+        "word": "小米将发布全新MIX折叠屏",
+        "onboard_time": 1691566055,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 272466,
+        "num": 272466,
+        "word": "7月中国内地新增报告491例猴痘确诊病例",
+        "onboard_time": 1691565214,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256922,
+        "num": 256922,
+        "word": "邓为认证涂山璟是纯爱战狐",
+        "onboard_time": 1691555741,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241466,
+        "num": 241466,
+        "word": "四川一河流突涨有人员伤亡",
+        "onboard_time": 1691562632,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236321,
+        "num": 236321,
+        "word": "用胸毛给女友做抱枕",
+        "onboard_time": 1691556341,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 236264,
+        "num": 236264,
+        "word": "得知撞人需赔20万男子秒离婚净身出户",
+        "onboard_time": 1691551898,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233592,
+        "num": 233592,
+        "word": "姬发和殷郊 e人领养i人",
+        "onboard_time": 1691564613,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215984,
+        "num": 215984,
+        "word": "奚安娜",
+        "onboard_time": 1691542596,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213716,
+        "num": 213716,
+        "word": "这下发量少的人有救了",
+        "onboard_time": 1691565879,
+        "rank": 43,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 207089,
+        "num": 207089,
+        "word": "男子涉嫌常年性侵害继女",
+        "onboard_time": 1691548234,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204278,
+        "num": 204278,
+        "word": "四川雅安一河道涨水已致7人遇难",
+        "onboard_time": 1691563474,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200876,
+        "num": 200876,
+        "word": "医药代表称不敢进医院",
+        "onboard_time": 1691547154,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198423,
+        "num": 198423,
+        "word": "盟固利",
+        "onboard_time": 1691565576,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193189,
+        "num": 193189,
+        "word": "张子枫颓废风",
+        "onboard_time": 1691566356,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 188827,
+        "num": 188827,
+        "word": "N盟固利",
+        "onboard_time": 1691566298,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动建设平等有序的多极世界#"
+    }
+  }
+}

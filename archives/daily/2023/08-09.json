@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691565369970,
+  "endTime": 1691566450032,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1574609,
-      "num": 625242,
+      "num": 665258,
       "word": "TFBOYS为王俊凯新歌做宣传",
       "onboard_time": 1691558857,
       "rank": 13,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1201723,
+      "num": 1201723,
+      "word": "医药反腐",
+      "onboard_time": 1691558737,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1164077,
       "num": 402052,
       "word": "男子强奸13岁女孩致死案二审维持死刑",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 1133072,
-      "num": 631594,
+      "num": 667675,
       "word": "雅安",
       "onboard_time": 1691557179,
       "rank": 30,
@@ -203,12 +211,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 942777,
+      "num": 668876,
+      "word": "小朋友用电话手表拍白鹿",
+      "onboard_time": 1691562277,
+      "rank": 34,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 911719,
       "num": 456170,
       "word": "费曼被吴镇宇揍",
       "onboard_time": 1691538690,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 909135,
+      "num": 909135,
+      "word": "医院采购47万药医生回扣拿15万",
+      "onboard_time": 1691563834,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 871620,
@@ -227,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 849773,
+      "num": 849773,
+      "word": "杨幂说我绝不回头",
+      "onboard_time": 1691564373,
+      "rank": 20,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 849115,
       "num": 849115,
       "word": "王鹤棣 娇兰",
@@ -241,6 +273,14 @@
       "onboard_time": 1691553882,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 838680,
+      "num": 838680,
+      "word": "拿铁效应",
+      "onboard_time": 1691563834,
+      "rank": 17,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 806941,
@@ -259,24 +299,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 792056,
-      "num": 617789,
-      "word": "小朋友用电话手表拍白鹿",
-      "onboard_time": 1691562277,
-      "rank": 34,
-      "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 783044,
-      "num": 783044,
-      "word": "医药反腐",
-      "onboard_time": 1691558737,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 768454,
-      "num": 608583,
+      "num": 636328,
       "word": "于适微博简介",
       "onboard_time": 1691560835,
       "rank": 17,
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701796,
+      "num": 701796,
+      "word": "A股",
+      "onboard_time": 1691562755,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 683466,
       "num": 388542,
       "word": "得知撞人需赔20万男子秒离婚净身出户",
@@ -377,14 +409,6 @@
       "onboard_time": 1691544935,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 673561,
-      "num": 673561,
-      "word": "A股",
-      "onboard_time": 1691562755,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 662853,
@@ -459,12 +483,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 606522,
-      "num": 606522,
-      "word": "医院采购47万药医生回扣拿15万",
-      "onboard_time": 1691563834,
-      "rank": 16,
-      "category": "社会新闻,财经"
+      "raw_hot": 618724,
+      "num": 618724,
+      "word": "娜扎回应关评论",
+      "onboard_time": 1691565034,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 608615,
+      "num": 608615,
+      "word": "长相思三位男主的第一次",
+      "onboard_time": 1691564794,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 604831,
@@ -489,14 +521,6 @@
       "onboard_time": 1691483377,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 573762,
-      "num": 573762,
-      "word": "拿铁效应",
-      "onboard_time": 1691563834,
-      "rank": 17,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 570976,
@@ -539,12 +563,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 526933,
-      "num": 440951,
-      "word": "杨幂说我绝不回头",
-      "onboard_time": 1691564373,
-      "rank": 20,
-      "category": "综艺,综艺"
+      "raw_hot": 540309,
+      "num": 540309,
+      "word": "没认出这是张艺凡",
+      "onboard_time": 1691564914,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 516143,
@@ -585,6 +609,22 @@
       "onboard_time": 1691554662,
       "rank": 48,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 490056,
+      "num": 490056,
+      "word": "张晋蔡少芬为张镐濂拉票",
+      "onboard_time": 1691565278,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 483057,
+      "num": 483057,
+      "word": "不要跟男朋友去涂石膏娃娃",
+      "onboard_time": 1691564314,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 480793,
@@ -656,14 +696,6 @@
       "word": "终于知道为什么叫狗尾巴草了",
       "onboard_time": 1691540981,
       "rank": 24,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 429380,
-      "num": 429380,
-      "word": "不要跟男朋友去涂石膏娃娃",
-      "onboard_time": 1691564314,
-      "rank": 22,
       "category": "幽默"
     },
     {
@@ -795,11 +827,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 363403,
-      "num": 363403,
-      "word": "没认出这是张艺凡",
-      "onboard_time": 1691564914,
-      "rank": 25,
+      "raw_hot": 354416,
+      "num": 354416,
+      "word": "王姬杀了他们三个吧",
+      "onboard_time": 1691565693,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -819,20 +851,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 347093,
-      "num": 347093,
-      "word": "娜扎回应关评论",
-      "onboard_time": 1691565034,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 346221,
       "num": 346221,
       "word": "封神票房",
       "onboard_time": 1691503479,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345733,
+      "num": 345733,
+      "word": "休息羞耻",
+      "onboard_time": 1691565635,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 345395,
@@ -848,14 +880,6 @@
       "word": "邓为涂山璟登顶角色吸粉榜",
       "onboard_time": 1691558437,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 331187,
-      "num": 331187,
-      "word": "长相思三位男主的第一次",
-      "onboard_time": 1691564794,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -1019,6 +1043,22 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 279432,
+      "num": 279432,
+      "word": "7月广东新增报告115例猴痘病例",
+      "onboard_time": 1691565937,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272466,
+      "num": 272466,
+      "word": "7月中国内地新增报告491例猴痘确诊病例",
+      "onboard_time": 1691565214,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270337,
       "num": 270337,
       "word": "于适三次跳舞考核没过不会是真的吧",
@@ -1147,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241466,
+      "num": 241466,
+      "word": "四川一河流突涨有人员伤亡",
+      "onboard_time": 1691562632,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241406,
       "num": 241406,
       "word": "西出玉门",
@@ -1185,14 +1233,6 @@
       "onboard_time": 1691542180,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233412,
-      "num": 233412,
-      "word": "四川一河流突涨有人员伤亡",
-      "onboard_time": 1691562632,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232579,
@@ -1251,14 +1291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220115,
-      "num": 220115,
-      "word": "张晋蔡少芬为张镐濂拉票",
-      "onboard_time": 1691565278,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219104,
       "num": 219104,
       "word": "多场医药学术会议宣布延期",
@@ -1291,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213716,
+      "num": 213716,
+      "word": "这下发量少的人有救了",
+      "onboard_time": 1691565879,
+      "rank": 43,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 212491,
       "num": 212491,
       "word": "雇佣人生 人人都是工具",
@@ -1321,14 +1361,6 @@
       "onboard_time": 1691562513,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 207979,
-      "num": 207979,
-      "word": "7月中国内地新增报告491例猴痘确诊病例",
-      "onboard_time": 1691565214,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207452,
@@ -1411,6 +1443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198423,
+      "num": 198423,
+      "word": "盟固利",
+      "onboard_time": 1691565576,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197875,
       "num": 201717,
       "word": "爱合 别侮辱我的Lisa",
@@ -1443,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193189,
+      "num": 193189,
+      "word": "张子枫颓废风",
+      "onboard_time": 1691566356,
+      "rank": 48,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 191788,
       "num": 179174,
       "word": "当一场电影里买票的都是i人",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1691551241,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188827,
+      "num": 188827,
+      "word": "N盟固利",
+      "onboard_time": 1691566298,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 185294,
@@ -1595,6 +1651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156035,
+      "num": 361157,
+      "word": "00后情侣敲诈勒索企业获利50余万",
+      "onboard_time": 1691564974,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154928,
       "num": 154928,
       "word": "暴雨洪灾中的守护者",
@@ -1649,14 +1713,6 @@
       "onboard_time": 1691507021,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 137440,
-      "num": 302541,
-      "word": "00后情侣敲诈勒索企业获利50余万",
-      "onboard_time": 1691564974,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131681,
@@ -1747,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77310,
+      "num": 273779,
+      "word": "小米将发布全新MIX折叠屏",
+      "onboard_time": 1691566055,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 75300,
       "num": 1369229,
       "word": "立秋大运会闭幕秋分亚运会开幕",
@@ -1787,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53047,
+      "num": 658974,
+      "word": "拾荒残障小伙向涿州灾区捐献物资",
+      "onboard_time": 1691564432,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41275,
       "num": 56086,
       "word": "殷桃露马甲线",
@@ -1801,14 +1873,6 @@
       "onboard_time": 1691517140,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 25966,
-      "num": 612640,
-      "word": "拾荒残障小伙向涿州灾区捐献物资",
-      "onboard_time": 1691564432,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21737,
