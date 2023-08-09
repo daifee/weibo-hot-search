@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691591765706,
+  "endTime": 1691594398586,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -315,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3300996,
+      "num": 3300996,
+      "word": "优酷 泼天的富贵",
+      "onboard_time": 1691590057,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3284243,
       "num": 895074,
       "word": "选秀真的来了",
@@ -345,14 +353,6 @@
       "onboard_time": 1690895497,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3238883,
-      "num": 3238883,
-      "word": "优酷 泼天的富贵",
-      "onboard_time": 1691590057,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 3233719,
@@ -2827,6 +2827,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1234549,
+      "num": 1234549,
+      "word": "Jennie疑似与YG解约",
+      "onboard_time": 1691590840,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1230236,
       "num": 1146154,
       "word": "比跷二郎腿更坏的坐姿",
@@ -3545,6 +3553,14 @@
       "onboard_time": 1691396257,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1077479,
+      "num": 385193,
+      "word": "工资不高又要经常熬夜的工作",
+      "onboard_time": 1691590658,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1076204,
@@ -4451,20 +4467,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 924322,
-      "num": 924322,
-      "word": "Jennie疑似与YG解约",
-      "onboard_time": 1691590840,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 924313,
       "num": 924313,
       "word": "小夭涂山璟一吻定情",
       "onboard_time": 1690980634,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 922476,
+      "num": 922476,
+      "word": "DK",
+      "onboard_time": 1691592880,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 921828,
@@ -5083,6 +5099,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 838671,
+      "num": 838671,
+      "word": "曾舜晞跳queencard",
+      "onboard_time": 1691592820,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 838609,
       "num": 377042,
       "word": "1岁宝宝半夜栽进床边水桶溺亡",
@@ -5636,7 +5660,7 @@
     },
     {
       "raw_hot": 774985,
-      "num": 363118,
+      "num": 378462,
       "word": "黑莲花男主",
       "onboard_time": 1691587896,
       "rank": 40,
@@ -5692,7 +5716,7 @@
     },
     {
       "raw_hot": 767404,
-      "num": 358144,
+      "num": 374906,
       "word": "笛飞声 角丽谯",
       "onboard_time": 1691589039,
       "rank": 17,
@@ -6532,7 +6556,7 @@
     },
     {
       "raw_hot": 704997,
-      "num": 339843,
+      "num": 425919,
       "word": "长相思好狠的心",
       "onboard_time": 1691587298,
       "rank": 36,
@@ -6899,14 +6923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 669885,
-      "num": 315858,
-      "word": "工资不高又要经常熬夜的工作",
-      "onboard_time": 1691590658,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 669316,
       "num": 669316,
       "word": "好久没见都有嘴的男女主了",
@@ -7104,6 +7120,14 @@
       "word": "涂山璟的神识小狐狸",
       "onboard_time": 1691066675,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 649260,
+      "num": 449734,
+      "word": "檀健次在看长相思",
+      "onboard_time": 1691592762,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -7800,6 +7824,14 @@
       "word": "杨超越发了87个自己",
       "onboard_time": 1691583032,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 601558,
+      "num": 400730,
+      "word": "宋威龙穿JK",
+      "onboard_time": 1691593240,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -8939,6 +8971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540347,
+      "num": 381371,
+      "word": "莲花楼大结局你满意吗",
+      "onboard_time": 1691592939,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 540288,
       "num": 540288,
       "word": "内娱生图免检的明星",
@@ -8985,6 +9025,14 @@
       "onboard_time": 1691494835,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 537366,
+      "num": 380404,
+      "word": "SMTOWN回应不知道边伯贤开公司",
+      "onboard_time": 1691592520,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 536850,
@@ -10476,7 +10524,7 @@
     },
     {
       "raw_hot": 463316,
-      "num": 291400,
+      "num": 341834,
       "word": "夭璟",
       "onboard_time": 1691590180,
       "rank": 40,
@@ -10976,6 +11024,14 @@
       "word": "洪水中4个月大婴儿被直升机吊起",
       "onboard_time": 1690979137,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440012,
+      "num": 440012,
+      "word": "胡锡进 北京这场大暴雨超出认知",
+      "onboard_time": 1691589097,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -12139,6 +12195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 393648,
+      "num": 382474,
+      "word": "为什么煮出来的红豆粥是这样",
+      "onboard_time": 1691593480,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 393096,
       "num": 262754,
       "word": "贾乃亮六万斤大米驰援灾区",
@@ -12571,6 +12635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 378225,
+      "num": 378225,
+      "word": "徐明浩 SEVENTEEN团综",
+      "onboard_time": 1691594198,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377780,
       "num": 376214,
       "word": "相柳提醒涂山璟找防风意映",
@@ -12753,6 +12825,14 @@
       "onboard_time": 1690894295,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372278,
+      "num": 380050,
+      "word": "我已经没兴趣给别人留个好印象了",
+      "onboard_time": 1691591321,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 372136,
@@ -14260,7 +14340,7 @@
     },
     {
       "raw_hot": 317935,
-      "num": 262381,
+      "num": 314758,
       "word": "严浩翔说丁哥你把我手机甩飞了",
       "onboard_time": 1691591199,
       "rank": 31,
@@ -14336,6 +14416,14 @@
       "word": "肖战片场施法手势教学",
       "onboard_time": 1691574878,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 315472,
+      "num": 315472,
+      "word": "丰隆成夭璟play的一环了",
+      "onboard_time": 1691593959,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -15036,7 +15124,7 @@
     },
     {
       "raw_hot": 297513,
-      "num": 297513,
+      "num": 315004,
       "word": "原来裤子这里是这么用的",
       "onboard_time": 1691588378,
       "rank": 34,
@@ -15331,6 +15419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289741,
+      "num": 375041,
+      "word": "哑舍动画画风",
+      "onboard_time": 1691593240,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 289331,
       "num": 289331,
       "word": "张惠妹上海",
@@ -15457,14 +15553,6 @@
       "onboard_time": 1690977515,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287015,
-      "num": 287015,
-      "word": "胡锡进 北京这场大暴雨超出认知",
-      "onboard_time": 1691589097,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286865,
@@ -16116,7 +16204,7 @@
     },
     {
       "raw_hot": 267550,
-      "num": 267550,
+      "num": 281193,
       "word": "不是所有蔬果都适合放冰箱",
       "onboard_time": 1691588017,
       "rank": 29,
@@ -17876,7 +17964,7 @@
     },
     {
       "raw_hot": 227114,
-      "num": 227114,
+      "num": 271598,
       "word": "最怕别人问我哪个学校的",
       "onboard_time": 1691590418,
       "rank": 47,
@@ -17921,6 +18009,14 @@
       "onboard_time": 1691425590,
       "rank": 26,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 226340,
+      "num": 381557,
+      "word": "男子夜钓被鱼拖下水民警追4公里救出",
+      "onboard_time": 1691589697,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226148,
@@ -19368,6 +19464,14 @@
       "word": "欢迎来到梦乐园",
       "onboard_time": 1691550157,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 203658,
+      "num": 275261,
+      "word": "京城大师赛",
+      "onboard_time": 1691593480,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -21243,14 +21347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170903,
-      "num": 194815,
-      "word": "我已经没兴趣给别人留个好印象了",
-      "onboard_time": 1691591321,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 170042,
       "num": 170042,
       "word": "大运会国乒女团vs日本女团",
@@ -21529,14 +21625,6 @@
       "onboard_time": 1690993528,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161671,
-      "num": 381557,
-      "word": "男子夜钓被鱼拖下水民警追4公里救出",
-      "onboard_time": 1691589697,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161371,
@@ -22017,6 +22105,14 @@
       "onboard_time": 1691105066,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142429,
+      "num": 271038,
+      "word": "努力的意义究竟是什么",
+      "onboard_time": 1691592820,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 142361,
