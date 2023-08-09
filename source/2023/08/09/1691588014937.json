@@ -1,0 +1,410 @@
+{
+  "runTime": 1691588014937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1736655,
+        "num": 1736655,
+        "word": "莲花楼破万",
+        "onboard_time": 1691584955,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1495967,
+        "num": 1495967,
+        "word": "去泰国尽量别用信用卡",
+        "onboard_time": 1691580215,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 161406,
+        "num": 1317382,
+        "word": "预拨10亿元对蓄滞洪区水毁损失予以补偿",
+        "onboard_time": 1691587056,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261689,
+        "num": 1261689,
+        "word": "李相夷剑断人亡",
+        "onboard_time": 1691587056,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1090434,
+        "num": 1090434,
+        "word": "北大教授称我国目前收入水平还是太低",
+        "onboard_time": 1691585914,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 914576,
+        "num": 914576,
+        "word": "小夭扮回玟小六",
+        "onboard_time": 1691586275,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 905708,
+        "num": 905708,
+        "word": "一名殡葬专业学生的课表",
+        "onboard_time": 1691585914,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 881934,
+        "num": 881934,
+        "word": "莲花楼结局",
+        "onboard_time": 1691582017,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 625108,
+        "num": 625108,
+        "word": "虞书欣凌妙妙造型",
+        "onboard_time": 1691577395,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 520405,
+        "num": 520405,
+        "word": "刚出生一个月的小水獭有多萌",
+        "onboard_time": 1691581416,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1347287,
+        "num": 519502,
+        "word": "迪丽热巴说到底是谁在跟我抢票",
+        "onboard_time": 1691585615,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50738,
+        "num": 510254,
+        "word": "哪一瞬间让你为中国汽车自豪",
+        "onboard_time": 1691586275,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152582,
+        "num": 510204,
+        "word": "都是王菲玩剩下的",
+        "onboard_time": 1691580515,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507358,
+        "num": 507358,
+        "word": "中央财政紧急预拨10亿元",
+        "onboard_time": 1691579555,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 139346,
+        "num": 499830,
+        "word": "男童见老人路边啃食果皮赠其西瓜",
+        "onboard_time": 1691586034,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499608,
+        "num": 499608,
+        "word": "骆旭东被追记个人一等功",
+        "onboard_time": 1691582736,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553257,
+        "num": 498118,
+        "word": "中戏教授说王一博进步非常大",
+        "onboard_time": 1691587359,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 541905,
+        "num": 497583,
+        "word": "涂山璟说小夭太诱人了",
+        "onboard_time": 1691580334,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507832,
+        "num": 494843,
+        "word": "成毅好牛的50秒",
+        "onboard_time": 1691584354,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508727,
+        "num": 492798,
+        "word": "第一次见角色吃演员红利",
+        "onboard_time": 1691568939,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1077717,
+        "num": 490661,
+        "word": "网友给王诗龄P眉毛",
+        "onboard_time": 1691584774,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609510,
+        "num": 489532,
+        "word": "裸考考上了意大利的公务员",
+        "onboard_time": 1691578115,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 488762,
+        "num": 488762,
+        "word": "怪不得耳鼻咽喉分在同一个科室",
+        "onboard_time": 1691585672,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 443670,
+        "num": 443670,
+        "word": "kt",
+        "onboard_time": 1691586275,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 345856,
+        "num": 440825,
+        "word": "院长被抓后该院人均就医成本降1400元",
+        "onboard_time": 1691576434,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466058,
+        "num": 440648,
+        "word": "长相思明天加更两集",
+        "onboard_time": 1691586095,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459406,
+        "num": 440603,
+        "word": "大鹏为自己和王一博辟谣了",
+        "onboard_time": 1691579855,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440226,
+        "num": 440226,
+        "word": "杨超越发了87个自己",
+        "onboard_time": 1691583032,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387040,
+        "num": 387040,
+        "word": "赤水丰隆给了涂山璟一拳",
+        "onboard_time": 1691585312,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340430,
+        "num": 340430,
+        "word": "王濛被冻结股权445万",
+        "onboard_time": 1691567376,
+        "rank": 29,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 385509,
+        "num": 333893,
+        "word": "莲花楼",
+        "onboard_time": 1691569714,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315772,
+        "num": 315772,
+        "word": "李飞已经当上爷爷了",
+        "onboard_time": 1691573979,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280324,
+        "num": 280324,
+        "word": "徐杰",
+        "onboard_time": 1691579915,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274162,
+        "num": 274162,
+        "word": "比亚迪发布会",
+        "onboard_time": 1691582255,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 264913,
+        "num": 264913,
+        "word": "椰树直播间全员跳广场舞",
+        "onboard_time": 1691586816,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287890,
+        "num": 264760,
+        "word": "孟宴臣午睡",
+        "onboard_time": 1691567978,
+        "rank": 35,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 356361,
+        "num": 259960,
+        "word": "长相思好狠的心",
+        "onboard_time": 1691587298,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202191,
+        "num": 256503,
+        "word": "不小心把雪糕放生了",
+        "onboard_time": 1691584593,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189570,
+        "num": 253502,
+        "word": "与世无争的水豚",
+        "onboard_time": 1691587537,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186359,
+        "num": 250041,
+        "word": "猫猫的嘴被熏成了TypeC",
+        "onboard_time": 1691581835,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248509,
+        "num": 248509,
+        "word": "黑莲花男主",
+        "onboard_time": 1691587896,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226356,
+        "num": 226356,
+        "word": "孤注一掷导演说张艺兴是剧组表率",
+        "onboard_time": 1691577634,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212989,
+        "num": 212989,
+        "word": "封神第一部如何票房逆袭",
+        "onboard_time": 1691579797,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211104,
+        "num": 211104,
+        "word": "李莲花夺命三刀",
+        "onboard_time": 1691587896,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208666,
+        "num": 208666,
+        "word": "心动的信号",
+        "onboard_time": 1691581775,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173924,
+        "num": 208559,
+        "word": "人被热死有多痛苦",
+        "onboard_time": 1691575776,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165916,
+        "num": 208220,
+        "word": "余华老师真的不内耗",
+        "onboard_time": 1691579254,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155865,
+        "num": 207660,
+        "word": "7月广东新增报告115例猴痘病例",
+        "onboard_time": 1691565937,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155622,
+        "num": 207170,
+        "word": "原来空调里面这么脏",
+        "onboard_time": 1691587776,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131411,
+        "num": 206657,
+        "word": "猕猴桃雪梨黄瓜汁",
+        "onboard_time": 1691587537,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#将调查研究发扬光大#"
+    }
+  }
+}
