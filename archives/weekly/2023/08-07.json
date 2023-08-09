@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691570134484,
+  "endTime": 1691572667442,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -320,6 +320,14 @@
       "word": "王鹤棣 本座回来了",
       "onboard_time": 1691451751,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1969678,
+      "num": 858323,
+      "word": "第一次见角色吃演员红利",
+      "onboard_time": 1691568939,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1411,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 906231,
+      "num": 906231,
+      "word": "杨洋韩立",
+      "onboard_time": 1691571519,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 904220,
       "num": 794542,
       "word": "杨紫包场孤注一掷",
@@ -1563,20 +1579,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 829987,
-      "num": 829987,
-      "word": "第一次见角色吃演员红利",
-      "onboard_time": 1691568939,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 825649,
       "num": 825649,
       "word": "幸好乌尔善没用原来的剧本",
       "onboard_time": 1691480917,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 823916,
+      "num": 823916,
+      "word": "舒兰因公牺牲副市长没记完的笔记",
+      "onboard_time": 1691570680,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821392,
@@ -1900,7 +1916,7 @@
     },
     {
       "raw_hot": 724510,
-      "num": 402790,
+      "num": 405001,
       "word": "39岁老公被优化了",
       "onboard_time": 1691568459,
       "rank": 25,
@@ -1961,6 +1977,14 @@
       "onboard_time": 1691356274,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 704932,
+      "num": 548977,
+      "word": "百度崩了",
+      "onboard_time": 1691571279,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 704028,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1691414196,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 644634,
+      "num": 644634,
+      "word": "毒贩一月连搬三次家被堵在电梯",
+      "onboard_time": 1691570078,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644398,
@@ -3043,6 +3075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478380,
+      "num": 478380,
+      "word": "拔掉57颗牙是什么样的体验",
+      "onboard_time": 1691567316,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 475649,
       "num": 475649,
       "word": "本周狗屎运排行榜",
@@ -3081,14 +3121,6 @@
       "onboard_time": 1691463335,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473638,
-      "num": 473638,
-      "word": "拔掉57颗牙是什么样的体验",
-      "onboard_time": 1691567316,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 472891,
@@ -3187,6 +3219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 452562,
+      "num": 290411,
+      "word": "邓为檀健次微博出圈战报",
+      "onboard_time": 1691572477,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449381,
       "num": 255506,
       "word": "TFBOYS巡演标志没了",
@@ -3257,6 +3297,14 @@
       "onboard_time": 1691461355,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436958,
+      "num": 436958,
+      "word": "曝边伯贤将明年1月离开SMTOWN",
+      "onboard_time": 1691568159,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 436738,
@@ -3539,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408710,
+      "num": 408710,
+      "word": "黄晓明被蒋欣扇巴掌戏",
+      "onboard_time": 1691572118,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408579,
       "num": 819654,
       "word": "孤注一掷",
@@ -3803,14 +3859,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 380235,
-      "num": 347968,
-      "word": "曝边伯贤将明年1月离开SMTOWN",
-      "onboard_time": 1691568159,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 377780,
       "num": 376214,
       "word": "相柳提醒涂山璟找防风意映",
@@ -3875,6 +3923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372572,
+      "num": 372572,
+      "word": "密逃再现范丞丞个人战名场面",
+      "onboard_time": 1691569116,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369421,
       "num": 369421,
       "word": "影院回应孤注一掷中途停播退票",
@@ -3896,6 +3952,14 @@
       "word": "李莲花爱情亲情友情都没了",
       "onboard_time": 1691499282,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 366392,
+      "num": 366392,
+      "word": "闫妮微醺体质女演员",
+      "onboard_time": 1691570619,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -3937,6 +4001,14 @@
       "onboard_time": 1691409155,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 360322,
+      "num": 282393,
+      "word": "一个男人到40岁都没明白很多事情",
+      "onboard_time": 1691571096,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 360318,
@@ -4019,6 +4091,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 349567,
+      "num": 275884,
+      "word": "终于知道蓝色口红都卖给谁了",
+      "onboard_time": 1691571456,
+      "rank": 32,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 349052,
       "num": 349052,
       "word": "五月天广州 诺亚方舟",
@@ -4059,6 +4139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344501,
+      "num": 344501,
+      "word": "邓为直播",
+      "onboard_time": 1691571938,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343977,
       "num": 343977,
       "word": "长相思",
@@ -4091,6 +4179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340463,
+      "num": 340463,
+      "word": "张艺兴回复王子异说谢谢bro",
+      "onboard_time": 1691568878,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339388,
       "num": 339388,
       "word": "邓为涂山璟登顶角色吸粉榜",
@@ -4115,20 +4211,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 331557,
+      "num": 268777,
+      "word": "于适邓为互为正缘",
+      "onboard_time": 1691571397,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327786,
       "num": 311213,
       "word": "去看脱发被医生夸了",
       "onboard_time": 1691410057,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 327253,
-      "num": 327253,
-      "word": "密逃再现范丞丞个人战名场面",
-      "onboard_time": 1691569116,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 326484,
@@ -4217,14 +4313,6 @@
       "onboard_time": 1691376994,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 320354,
-      "num": 320354,
-      "word": "张艺兴回复王子异说谢谢bro",
-      "onboard_time": 1691568878,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 320136,
@@ -4689,6 +4777,14 @@
       "onboard_time": 1691464055,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277814,
+      "num": 265744,
+      "word": "8.9分华语爱情片巅峰",
+      "onboard_time": 1691570319,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 277430,
@@ -5171,6 +5267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243238,
+      "num": 243238,
+      "word": "专家解读7月猴痘病例突增原因",
+      "onboard_time": 1691570379,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241871,
       "num": 241871,
       "word": "年度小品莲花楼",
@@ -5459,6 +5563,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 223119,
+      "num": 223119,
+      "word": "相柳别听是夹子",
+      "onboard_time": 1691570136,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223110,
       "num": 223110,
       "word": "莲花楼角丽谯疯批病娇感",
@@ -5553,6 +5665,14 @@
       "onboard_time": 1691337239,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216183,
+      "num": 216183,
+      "word": "DK对战T1",
+      "onboard_time": 1691572598,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 214331,
@@ -6339,14 +6459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172192,
-      "num": 172192,
-      "word": "毒贩一月连搬三次家被堵在电梯",
-      "onboard_time": 1691570078,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171877,
       "num": 207809,
       "word": "TTG发布严正声明",
@@ -6851,6 +6963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99107,
+      "num": 453807,
+      "word": "4名学生考上211村委每人奖1万",
+      "onboard_time": 1691571639,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94318,
       "num": 818964,
       "word": "女护士车祸离世捐献器官救人",
@@ -7211,6 +7331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19504,
+      "num": 860157,
+      "word": "洪涝灾害发生后注意卫生安全",
+      "onboard_time": 1691572297,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18031,
       "num": 120315,
       "word": "乔治亚水族馆的海獭们",
@@ -7278,6 +7406,9 @@
     },
     {
       "word": "#推动建设平等有序的多极世界#"
+    },
+    {
+      "word": "#不打扰就是最好的保护#"
     }
   ]
 }
