@@ -1,0 +1,410 @@
+{
+  "runTime": 1691545433377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1952487,
+        "num": 1952487,
+        "word": "花呗回应女子网购2百多却被扣款3千多",
+        "onboard_time": 1691538392,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1263306,
+        "num": 1263306,
+        "word": "菏泽地震",
+        "onboard_time": 1691538392,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81773,
+        "num": 1217800,
+        "word": "洪水过后居家消毒要注意什么",
+        "onboard_time": 1691508937,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213315,
+        "num": 1213315,
+        "word": "取消公摊是大势所趋吗",
+        "onboard_time": 1691542180,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1069586,
+        "num": 1069586,
+        "word": "重案六组这编剧也太超前了",
+        "onboard_time": 1691543977,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 641276,
+        "num": 641276,
+        "word": "玱玹被强吻",
+        "onboard_time": 1691541342,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 635512,
+        "num": 635512,
+        "word": "河北监狱服刑人员视频会见APP收费",
+        "onboard_time": 1691542239,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549931,
+        "num": 549931,
+        "word": "男子喜得双胞胎民警加班办入户",
+        "onboard_time": 1691539776,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491224,
+        "num": 491224,
+        "word": "脏脏包为什么现在没人吃了",
+        "onboard_time": 1691510911,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115457,
+        "num": 480401,
+        "word": "紧握的手是子弟兵给的安全感",
+        "onboard_time": 1691539114,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1135135,
+        "num": 460862,
+        "word": "奚安娜",
+        "onboard_time": 1691542596,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 752238,
+        "num": 448859,
+        "word": "杨幂唐嫣TFBOYS早期视频",
+        "onboard_time": 1691540558,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 632457,
+        "num": 430135,
+        "word": "费曼被吴镇宇揍",
+        "onboard_time": 1691538690,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421796,
+        "num": 421796,
+        "word": "日本网友对排放核污水的看法",
+        "onboard_time": 1691539414,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417224,
+        "num": 417224,
+        "word": "内娱天生的电影脸",
+        "onboard_time": 1691544935,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 569139,
+        "num": 412033,
+        "word": "碧桂园",
+        "onboard_time": 1691542659,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397366,
+        "num": 397366,
+        "word": "Uzi",
+        "onboard_time": 1691510318,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 382426,
+        "num": 382426,
+        "word": "杨紫认证爆亿思",
+        "onboard_time": 1691543797,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324704,
+        "num": 324704,
+        "word": "花儿与少年5网传阵容",
+        "onboard_time": 1691538271,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317688,
+        "num": 317688,
+        "word": "陈哲远新剧接吻开大",
+        "onboard_time": 1691540377,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1686531,
+        "num": 317460,
+        "word": "鹿晗腋下管理",
+        "onboard_time": 1691541819,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1027585,
+        "num": 317006,
+        "word": "男子强奸13岁女孩致死案二审维持死刑",
+        "onboard_time": 1691544218,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934322,
+        "num": 316766,
+        "word": "Somi和泫雅亲嘴了",
+        "onboard_time": 1691544634,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578647,
+        "num": 316274,
+        "word": "为什么理发店洗头油的慢",
+        "onboard_time": 1691538450,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507174,
+        "num": 316090,
+        "word": "你喝的咖啡暴露了你的职业",
+        "onboard_time": 1691539052,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 358716,
+        "num": 315750,
+        "word": "千万不要把枕头放洗衣机里洗",
+        "onboard_time": 1691542540,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327993,
+        "num": 315341,
+        "word": "终于知道为什么叫狗尾巴草了",
+        "onboard_time": 1691540981,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315179,
+        "num": 315179,
+        "word": "外国游客吐槽西湖矿泉水6元1瓶太贵",
+        "onboard_time": 1691538090,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 291762,
+        "num": 291762,
+        "word": "一只熊猫走出了老虎的气势",
+        "onboard_time": 1691511751,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281740,
+        "num": 281740,
+        "word": "送养小猫时突然理解了嫁妆的意义",
+        "onboard_time": 1691514145,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 279776,
+        "num": 279776,
+        "word": "BLG世界赛首胜",
+        "onboard_time": 1691542058,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278419,
+        "num": 278419,
+        "word": "杨紫谈长相思梅林殉情",
+        "onboard_time": 1691539175,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276138,
+        "num": 276138,
+        "word": "纽约顶级女医生枪杀幼子后自尽",
+        "onboard_time": 1691537607,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266533,
+        "num": 266533,
+        "word": "7岁男孩跳进石灰石堆玩后死亡",
+        "onboard_time": 1691535801,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257541,
+        "num": 257541,
+        "word": "EDG超话",
+        "onboard_time": 1691543324,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234508,
+        "num": 234508,
+        "word": "王一博晒与大鹏合照",
+        "onboard_time": 1691542180,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226446,
+        "num": 226446,
+        "word": "薛之谦音乐节",
+        "onboard_time": 1691541940,
+        "rank": 36,
+        "category": "音乐,音乐"
+      },
+      {
+        "raw_hot": 210532,
+        "num": 210532,
+        "word": "试管婴儿与妈妈孕期的所有针管合影",
+        "onboard_time": 1691498203,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207476,
+        "num": 207476,
+        "word": "马杨马君妍嗑到了",
+        "onboard_time": 1691540678,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202899,
+        "num": 202899,
+        "word": "于适三次跳舞考核没过不会是真的吧",
+        "onboard_time": 1691537848,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 201962,
+        "num": 201962,
+        "word": "大鹏说很心疼王一博",
+        "onboard_time": 1691542421,
+        "rank": 40,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 200078,
+        "num": 200078,
+        "word": "真正的释怀是什么感觉",
+        "onboard_time": 1691544037,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196746,
+        "num": 196746,
+        "word": "游客发现重庆一寺庙供奉日本邪神",
+        "onboard_time": 1691545416,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 186506,
+        "num": 186506,
+        "word": "莲花楼角丽谯疯批病娇感",
+        "onboard_time": 1691539959,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176595,
+        "num": 176595,
+        "word": "男生带67只猫狗跨3400公里搬家",
+        "onboard_time": 1691535740,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174875,
+        "num": 174875,
+        "word": "闻榴莲把脑门扎了个爱心洞",
+        "onboard_time": 1691540859,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169866,
+        "num": 169866,
+        "word": "太平公主是上官婉儿葬礼的主持者",
+        "onboard_time": 1691511391,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159883,
+        "num": 159883,
+        "word": "长相思第二季有檀健次吗",
+        "onboard_time": 1691504621,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151620,
+        "num": 151620,
+        "word": "张艺兴最喜欢的小怪兽",
+        "onboard_time": 1691541097,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145034,
+        "num": 145034,
+        "word": "新生儿长2颗牙43天内先后被拔掉",
+        "onboard_time": 1691521755,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会纪念短片#"
+    }
+  }
+}

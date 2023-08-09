@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691544185137,
+  "endTime": 1691545433377,
   "band_list": [
     {
       "raw_hot": 2171062,
@@ -11,20 +11,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1686531,
+      "num": 317460,
+      "word": "鹿晗腋下管理",
+      "onboard_time": 1691541819,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1655873,
       "num": 1655873,
       "word": "菏泽地震",
       "onboard_time": 1691538392,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1511760,
-      "num": 293771,
-      "word": "鹿晗腋下管理",
-      "onboard_time": 1691541819,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 1402384,
@@ -43,7 +43,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1106490,
+      "raw_hot": 1213315,
+      "num": 1213315,
+      "word": "取消公摊是大势所趋吗",
+      "onboard_time": 1691542180,
+      "rank": 3,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1135135,
       "num": 465795,
       "word": "奚安娜",
       "onboard_time": 1691542596,
@@ -59,12 +67,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1069586,
+      "num": 1069586,
+      "word": "重案六组这编剧也太超前了",
+      "onboard_time": 1691543977,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1051421,
       "num": 1051421,
       "word": "长相思第二季有檀健次吗",
       "onboard_time": 1691504621,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1027585,
+      "num": 317006,
+      "word": "男子强奸13岁女孩致死案二审维持死刑",
+      "onboard_time": 1691544218,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934322,
+      "num": 316766,
+      "word": "Somi和泫雅亲嘴了",
+      "onboard_time": 1691544634,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 911719,
@@ -84,19 +116,11 @@
     },
     {
       "raw_hot": 800909,
-      "num": 440137,
+      "num": 448859,
       "word": "杨幂唐嫣TFBOYS早期视频",
       "onboard_time": 1691540558,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 767155,
-      "num": 767155,
-      "word": "取消公摊是大势所趋吗",
-      "onboard_time": 1691542180,
-      "rank": 3,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 754950,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 662853,
-      "num": 292734,
+      "num": 316274,
       "word": "为什么理发店洗头油的慢",
       "onboard_time": 1691538450,
       "rank": 21,
@@ -136,6 +160,22 @@
       "word": "试管婴儿与妈妈孕期的所有针管合影",
       "onboard_time": 1691498203,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641276,
+      "num": 641276,
+      "word": "玱玹被强吻",
+      "onboard_time": 1691541342,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 635512,
+      "num": 635512,
+      "word": "河北监狱服刑人员视频会见APP收费",
+      "onboard_time": 1691542239,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -153,14 +193,6 @@
       "onboard_time": 1691505161,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 622494,
-      "num": 622494,
-      "word": "玱玹被强吻",
-      "onboard_time": 1691541342,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 604831,
@@ -204,19 +236,11 @@
     },
     {
       "raw_hot": 559841,
-      "num": 291006,
+      "num": 316090,
       "word": "你喝的咖啡暴露了你的职业",
       "onboard_time": 1691539052,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 505597,
-      "num": 412167,
-      "word": "河北监狱服刑人员视频会见APP收费",
-      "onboard_time": 1691542239,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 480793,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 460780,
-      "num": 289981,
+      "num": 315750,
       "word": "千万不要把枕头放洗衣机里洗",
       "onboard_time": 1691542540,
       "rank": 23,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 434874,
-      "num": 289253,
+      "num": 315341,
       "word": "终于知道为什么叫狗尾巴草了",
       "onboard_time": 1691540981,
       "rank": 24,
@@ -273,6 +297,14 @@
       "onboard_time": 1691503779,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 417224,
+      "num": 417224,
+      "word": "内娱天生的电影脸",
+      "onboard_time": 1691544935,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 410744,
@@ -297,6 +329,14 @@
       "onboard_time": 1691538271,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382426,
+      "num": 382426,
+      "word": "杨紫认证爆亿思",
+      "onboard_time": 1691543797,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 381105,
@@ -332,7 +372,7 @@
     },
     {
       "raw_hot": 325875,
-      "num": 287095,
+      "num": 315179,
       "word": "外国游客吐槽西湖矿泉水6元1瓶太贵",
       "onboard_time": 1691538090,
       "rank": 26,
@@ -451,6 +491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 257541,
+      "num": 257541,
+      "word": "EDG超话",
+      "onboard_time": 1691543324,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251823,
       "num": 251823,
       "word": "吴镇宇费曼唱KTV",
@@ -515,12 +563,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234649,
-      "num": 234649,
-      "word": "重案六组这编剧也太超前了",
-      "onboard_time": 1691543977,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 234508,
+      "num": 234508,
+      "word": "王一博晒与大鹏合照",
+      "onboard_time": 1691542180,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 232579,
@@ -563,22 +611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218238,
-      "num": 218238,
-      "word": "王一博晒与大鹏合照",
-      "onboard_time": 1691542180,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 216000,
-      "num": 216000,
-      "word": "杨紫认证爆亿思",
-      "onboard_time": 1691543797,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 214491,
       "num": 214491,
       "word": "赵丽颖第一次发儿子想想",
@@ -595,20 +627,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213774,
-      "num": 213774,
-      "word": "EDG超话",
-      "onboard_time": 1691543324,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 209305,
       "num": 209305,
       "word": "EDG下路菜啊",
       "onboard_time": 1691487696,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200078,
+      "num": 200078,
+      "word": "真正的释怀是什么感觉",
+      "onboard_time": 1691544037,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 199590,
@@ -625,6 +657,14 @@
       "onboard_time": 1691497659,
       "rank": 36,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 196746,
+      "num": 196746,
+      "word": "游客发现重庆一寺庙供奉日本邪神",
+      "onboard_time": 1691545416,
+      "rank": 42,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 191788,
@@ -681,14 +721,6 @@
       "onboard_time": 1691536343,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172708,
-      "num": 172708,
-      "word": "真正的释怀是什么感觉",
-      "onboard_time": 1691544037,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 167429,
@@ -819,20 +851,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 115457,
+      "num": 488174,
+      "word": "紧握的手是子弟兵给的安全感",
+      "onboard_time": 1691539114,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105178,
       "num": 105178,
       "word": "女朋友生气时的统一模板",
       "onboard_time": 1691526912,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 94929,
-      "num": 488174,
-      "word": "紧握的手是子弟兵给的安全感",
-      "onboard_time": 1691539114,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93417,
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 87021,
-      "num": 964949,
+      "num": 1217800,
       "word": "洪水过后居家消毒要注意什么",
       "onboard_time": 1691508937,
       "rank": 2,
