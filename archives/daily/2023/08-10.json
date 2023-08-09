@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691620433609,
+  "endTime": 1691622983215,
   "band_list": [
     {
       "raw_hot": 2247846,
@@ -25,6 +25,14 @@
       "onboard_time": 1691598510,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1124805,
+      "num": 735779,
+      "word": "四川山东两地凌晨地震",
+      "onboard_time": 1691600724,
+      "rank": 49,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 919864,
@@ -67,6 +75,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 572581,
+      "num": 572581,
+      "word": "43岁女子当榜一大哥骗女主播66万",
+      "onboard_time": 1691611215,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571080,
       "num": 571080,
       "word": "韩男团中国线下签售cut",
@@ -107,12 +123,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 456481,
-      "num": 456481,
-      "word": "四川山东两地凌晨地震",
-      "onboard_time": 1691600724,
+      "raw_hot": 440902,
+      "num": 440902,
+      "word": "男子捡到超大野生菌一锅炖不下",
+      "onboard_time": 1691599167,
       "rank": 49,
-      "category": "自然,社会新闻"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437059,
@@ -147,20 +163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380301,
+      "num": 235695,
+      "word": "女子地铁强行要人给女儿让座被拒大骂",
+      "onboard_time": 1691600484,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372759,
       "num": 321427,
       "word": "宋威龙穿JK",
       "onboard_time": 1691593240,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348216,
-      "num": 292406,
-      "word": "男子捡到超大野生菌一锅炖不下",
-      "onboard_time": 1691599167,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348055,
@@ -219,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289626,
+      "num": 289626,
+      "word": "同事桌上突然贴的标语",
+      "onboard_time": 1691597791,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 285502,
       "num": 241692,
       "word": "都是王菲玩剩下的",
@@ -259,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259264,
-      "num": 259264,
-      "word": "43岁女子当榜一大哥骗女主播66万",
-      "onboard_time": 1691611215,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254958,
       "num": 219731,
       "word": "SMTOWN回应不知道边伯贤开公司",
@@ -275,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241280,
-      "num": 241280,
-      "word": "同事桌上突然贴的标语",
-      "onboard_time": 1691597791,
-      "rank": 47,
-      "category": "幽默,情感"
+      "raw_hot": 248798,
+      "num": 143344,
+      "word": "浙江多家公立医院重复收费",
+      "onboard_time": 1691618836,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241114,
@@ -363,20 +379,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187328,
-      "num": 182734,
-      "word": "女子地铁强行要人给女儿让座被拒大骂",
-      "onboard_time": 1691600484,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186703,
       "num": 206543,
       "word": "大鹏为自己和王一博辟谣了",
       "onboard_time": 1691579855,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172643,
+      "num": 142750,
+      "word": "雷军宣布将于8月14日举办年度演讲",
+      "onboard_time": 1691618174,
+      "rank": 23,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 167709,
@@ -427,20 +443,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132302,
+      "num": 132302,
+      "word": "王传君拜佛名场面",
+      "onboard_time": 1691605996,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130699,
       "num": 206361,
       "word": "最怕别人问我哪个学校的",
       "onboard_time": 1691590418,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122618,
-      "num": 65526,
-      "word": "雷军宣布将于8月14日举办年度演讲",
-      "onboard_time": 1691618174,
-      "rank": 23,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 117832,
@@ -459,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109880,
-      "num": 64483,
-      "word": "浙江多家公立医院重复收费",
-      "onboard_time": 1691618836,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 106565,
+      "num": 103287,
+      "word": "你们两口子怎么聊到一起的",
+      "onboard_time": 1691622322,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 103530,
@@ -483,16 +499,8 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 100205,
-      "num": 87682,
-      "word": "王传君拜佛名场面",
-      "onboard_time": 1691605996,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 92564,
-      "num": 95295,
+      "num": 96191,
       "word": "笛飞声 角丽谯",
       "onboard_time": 1691589039,
       "rank": 41,
@@ -531,16 +539,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 55372,
-      "num": 50571,
+      "raw_hot": 56421,
+      "num": 96059,
       "word": "杨幂又戴桃子耳环了",
       "onboard_time": 1691616134,
       "rank": 31,
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 40544,
-      "num": 47636,
+      "raw_hot": 53953,
+      "num": 96040,
       "word": "杨迪问快乐向前冲想干嘛",
       "onboard_time": 1691611634,
       "rank": 43,
@@ -563,7 +571,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 4863,
+      "raw_hot": 7458,
       "num": 809265,
       "word": "立秋大运会闭幕秋分亚运会开幕",
       "onboard_time": 1691555445,
