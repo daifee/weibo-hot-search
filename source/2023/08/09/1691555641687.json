@@ -1,0 +1,410 @@
+{
+  "runTime": 1691555641687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1920889,
+        "num": 1920889,
+        "word": "医药代表称不敢进医院",
+        "onboard_time": 1691547154,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1420714,
+        "num": 1420714,
+        "word": "女儿不需要报销妈妈感慨自己没用了",
+        "onboard_time": 1691551538,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15025,
+        "num": 1369229,
+        "word": "立秋大运会闭幕秋分亚运会开幕",
+        "onboard_time": 1691555445,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1443544,
+        "num": 1356266,
+        "word": "北京特大暴雨已致33人遇难",
+        "onboard_time": 1691548117,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1332549,
+        "num": 1332549,
+        "word": "重案六组这编剧也太超前了",
+        "onboard_time": 1691543977,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 899714,
+        "num": 899714,
+        "word": "雷军写的代码",
+        "onboard_time": 1691553882,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 882731,
+        "num": 882731,
+        "word": "张晚意撞到柱子都变形",
+        "onboard_time": 1691552440,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 712747,
+        "num": 712747,
+        "word": "花呗回应女子网购2百多却被扣款3千多",
+        "onboard_time": 1691538392,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 617111,
+        "num": 617111,
+        "word": "马立奥综艺挨揍第一人",
+        "onboard_time": 1691549314,
+        "rank": 8,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 56257,
+        "num": 531518,
+        "word": "紧握的手是子弟兵给的安全感",
+        "onboard_time": 1691539114,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514068,
+        "num": 514068,
+        "word": "现在回家总要开灯啊",
+        "onboard_time": 1691548234,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 479683,
+        "num": 479683,
+        "word": "相柳为什么变卑微了",
+        "onboard_time": 1691552977,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436364,
+        "num": 436364,
+        "word": "费翔专治恋爱脑",
+        "onboard_time": 1691545480,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462017,
+        "num": 425933,
+        "word": "起猛了看到杨紫魏大勋演夫妻",
+        "onboard_time": 1691546016,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167371,
+        "num": 405349,
+        "word": "星穹铁道卡芙卡",
+        "onboard_time": 1691553641,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 399341,
+        "num": 399341,
+        "word": "文俊辉官宣加盟听说很好吃3",
+        "onboard_time": 1691554121,
+        "rank": 15,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 376797,
+        "num": 376797,
+        "word": "取消公摊是大势所趋吗",
+        "onboard_time": 1691542180,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 376243,
+        "num": 376243,
+        "word": "今年已有159名医院院长书记被查",
+        "onboard_time": 1691549314,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362305,
+        "num": 376175,
+        "word": "奚安娜",
+        "onboard_time": 1691542596,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350655,
+        "num": 375404,
+        "word": "五月天成都",
+        "onboard_time": 1691552859,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1008674,
+        "num": 374909,
+        "word": "男子强奸13岁女孩致死案二审维持死刑",
+        "onboard_time": 1691544218,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774133,
+        "num": 374167,
+        "word": "我的电脑壁纸被领导发朋友圈了",
+        "onboard_time": 1691553882,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 719966,
+        "num": 373890,
+        "word": "郑州也忍不住了",
+        "onboard_time": 1691549556,
+        "rank": 22,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 642374,
+        "num": 373179,
+        "word": "得知撞人需赔20万男子秒离婚净身出户",
+        "onboard_time": 1691551898,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514216,
+        "num": 372545,
+        "word": "秋天第一杯奶茶爆单致骑手商家产冲突",
+        "onboard_time": 1691554538,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 446238,
+        "num": 371992,
+        "word": "原来酒店是可以讲价的",
+        "onboard_time": 1691551117,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 377948,
+        "num": 371679,
+        "word": "男子涉嫌常年性侵害继女",
+        "onboard_time": 1691548234,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371413,
+        "num": 371413,
+        "word": "金晨把头像换成安娜",
+        "onboard_time": 1691553400,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 370640,
+        "num": 370640,
+        "word": "长相思毛不易还没开始唱",
+        "onboard_time": 1691553160,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369575,
+        "num": 369575,
+        "word": "你喝的咖啡暴露了你的职业",
+        "onboard_time": 1691539052,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1023417,
+        "num": 369365,
+        "word": "游客发现重庆一寺庙供奉日本邪神",
+        "onboard_time": 1691545416,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 366417,
+        "num": 366417,
+        "word": "突然知道怎么存钱了",
+        "onboard_time": 1691547996,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334356,
+        "num": 334356,
+        "word": "伊能静写给儿子的长信",
+        "onboard_time": 1691552082,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314920,
+        "num": 314920,
+        "word": "胡夏说我目前单身",
+        "onboard_time": 1691554662,
+        "rank": 33,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 291553,
+        "num": 291553,
+        "word": "相柳提醒涂山璟找防风意映",
+        "onboard_time": 1691550035,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286479,
+        "num": 286479,
+        "word": "女儿无缘大学后她送51个孩子上大学",
+        "onboard_time": 1691550396,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 266405,
+        "num": 266405,
+        "word": "晕车的克星终于找到了",
+        "onboard_time": 1691552258,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262049,
+        "num": 262049,
+        "word": "腾讯视频9号开放日",
+        "onboard_time": 1691551117,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243043,
+        "num": 243043,
+        "word": "Uzi",
+        "onboard_time": 1691510318,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242232,
+        "num": 242232,
+        "word": "碧桂园",
+        "onboard_time": 1691542659,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241406,
+        "num": 241406,
+        "word": "西出玉门",
+        "onboard_time": 1691551301,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238858,
+        "num": 238858,
+        "word": "菏泽地震",
+        "onboard_time": 1691538392,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232262,
+        "num": 232262,
+        "word": "倪妮蝎尾眼妆",
+        "onboard_time": 1691555322,
+        "rank": 42,
+        "category": "影视,美妆"
+      },
+      {
+        "raw_hot": 221969,
+        "num": 221969,
+        "word": "费曼被吴镇宇揍",
+        "onboard_time": 1691538690,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221718,
+        "num": 221718,
+        "word": "唐三为i做e",
+        "onboard_time": 1691555262,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 53345,
+        "num": 210216,
+        "word": "环境减灾二号06星成功发射",
+        "onboard_time": 1691555080,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206000,
+        "num": 206000,
+        "word": "十个勤天金牌销售实锤",
+        "onboard_time": 1691553519,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199937,
+        "num": 199937,
+        "word": "莲花楼婚礼变葬礼",
+        "onboard_time": 1691545835,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196770,
+        "num": 196770,
+        "word": "虞书欣永夜星河进组",
+        "onboard_time": 1691548476,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193739,
+        "num": 196763,
+        "word": "孤注一掷众生海报",
+        "onboard_time": 1691551479,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会闭幕式MV#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691554819873,
+  "endTime": 1691555641687,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -27,8 +27,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 1877868,
-      "num": 1877868,
+      "raw_hot": 1920889,
+      "num": 1920889,
       "word": "医药代表称不敢进医院",
       "onboard_time": 1691547154,
       "rank": 26,
@@ -83,6 +83,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1420714,
+      "num": 1420714,
+      "word": "女儿不需要报销妈妈感慨自己没用了",
+      "onboard_time": 1691551538,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1402384,
       "num": 1402384,
       "word": "脏脏包为什么现在没人吃了",
@@ -123,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1108714,
-      "num": 1108714,
-      "word": "女儿不需要报销妈妈感慨自己没用了",
-      "onboard_time": 1691551538,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1084861,
       "num": 1084861,
       "word": "Uzi",
@@ -155,6 +155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 899714,
+      "num": 899714,
+      "word": "雷军写的代码",
+      "onboard_time": 1691553882,
+      "rank": 12,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 882731,
+      "num": 882731,
+      "word": "张晚意撞到柱子都变形",
+      "onboard_time": 1691552440,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 853265,
       "num": 444353,
       "word": "选秀学员撞脸迪丽热巴",
@@ -169,6 +185,14 @@
       "onboard_time": 1691540558,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 774133,
+      "num": 388473,
+      "word": "我的电脑壁纸被领导发朋友圈了",
+      "onboard_time": 1691553882,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 756693,
@@ -251,14 +275,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 651491,
-      "num": 651491,
-      "word": "张晚意撞到柱子都变形",
-      "onboard_time": 1691552440,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 643023,
       "num": 643023,
       "word": "试管婴儿与妈妈孕期的所有针管合影",
@@ -315,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 596956,
-      "num": 388473,
-      "word": "我的电脑壁纸被领导发朋友圈了",
-      "onboard_time": 1691553882,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 577099,
       "num": 275751,
       "word": "阔腿裤最干净的上厕所方式",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 559841,
-      "num": 344363,
+      "num": 369575,
       "word": "你喝的咖啡暴露了你的职业",
       "onboard_time": 1691539052,
       "rank": 22,
@@ -371,6 +379,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 514216,
+      "num": 372545,
+      "word": "秋天第一杯奶茶爆单致骑手商家产冲突",
+      "onboard_time": 1691554538,
+      "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 514162,
       "num": 514162,
       "word": "王俊凯回望",
@@ -379,8 +395,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 484560,
-      "num": 484560,
+      "raw_hot": 514068,
+      "num": 514068,
       "word": "现在回家总要开灯啊",
       "onboard_time": 1691548234,
       "rank": 49,
@@ -393,6 +409,14 @@
       "onboard_time": 1691508877,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 479683,
+      "num": 479683,
+      "word": "相柳为什么变卑微了",
+      "onboard_time": 1691552977,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 475051,
@@ -419,14 +443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 456088,
-      "num": 456088,
-      "word": "雷军写的代码",
-      "onboard_time": 1691553882,
-      "rank": 12,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 441374,
       "num": 388243,
       "word": "金晨把头像换成安娜",
@@ -449,14 +465,6 @@
       "onboard_time": 1691511751,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 437443,
-      "num": 437443,
-      "word": "相柳为什么变卑微了",
-      "onboard_time": 1691552977,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 434874,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 418562,
-      "num": 362260,
+      "num": 366417,
       "word": "突然知道怎么存钱了",
       "onboard_time": 1691547996,
       "rank": 42,
@@ -529,6 +537,14 @@
       "onboard_time": 1691538271,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399341,
+      "num": 399341,
+      "word": "文俊辉官宣加盟听说很好吃3",
+      "onboard_time": 1691554121,
+      "rank": 34,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 396632,
@@ -595,20 +611,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350655,
+      "num": 389102,
+      "word": "五月天成都",
+      "onboard_time": 1691552859,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 346221,
       "num": 346221,
       "word": "封神票房",
       "onboard_time": 1691503479,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 345733,
-      "num": 389102,
-      "word": "五月天成都",
-      "onboard_time": 1691552859,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 345395,
@@ -659,12 +675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 301443,
-      "num": 301443,
-      "word": "文俊辉官宣加盟听说很好吃3",
-      "onboard_time": 1691554121,
-      "rank": 34,
-      "category": "综艺,综艺"
+      "raw_hot": 314920,
+      "num": 314920,
+      "word": "胡夏说我目前单身",
+      "onboard_time": 1691554662,
+      "rank": 48,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 298285,
@@ -721,14 +737,6 @@
       "onboard_time": 1691500600,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 290800,
-      "num": 290800,
-      "word": "秋天第一杯奶茶爆单致骑手商家产冲突",
-      "onboard_time": 1691554538,
-      "rank": 36,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 289206,
@@ -867,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241406,
+      "num": 241406,
+      "word": "西出玉门",
+      "onboard_time": 1691551301,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237001,
       "num": 237001,
       "word": "外卖员被撞倒地好心大哥帮其遮掩",
@@ -897,6 +913,14 @@
       "onboard_time": 1691535740,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232262,
+      "num": 232262,
+      "word": "倪妮蝎尾眼妆",
+      "onboard_time": 1691555322,
+      "rank": 42,
+      "category": "影视,美妆"
     },
     {
       "raw_hot": 224469,
@@ -939,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221718,
+      "num": 221718,
+      "word": "唐三为i做e",
+      "onboard_time": 1691555262,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 219104,
       "num": 219104,
       "word": "多场医药学术会议宣布延期",
@@ -963,14 +995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213700,
-      "num": 213700,
-      "word": "西出玉门",
-      "onboard_time": 1691551301,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 209305,
       "num": 209305,
       "word": "EDG下路菜啊",
@@ -987,12 +1011,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 206919,
-      "num": 206919,
-      "word": "胡夏说我目前单身",
-      "onboard_time": 1691554662,
-      "rank": 48,
-      "category": "综艺,艺人"
+      "raw_hot": 206000,
+      "num": 206000,
+      "word": "十个勤天金牌销售实锤",
+      "onboard_time": 1691553519,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 204270,
@@ -1139,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167371,
+      "num": 420595,
+      "word": "星穹铁道卡芙卡",
+      "onboard_time": 1691553641,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159599,
       "num": 159599,
       "word": "大宋少年志2还是那么好看",
@@ -1275,14 +1307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115916,
-      "num": 420595,
-      "word": "星穹铁道卡芙卡",
-      "onboard_time": 1691553641,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 105178,
       "num": 105178,
       "word": "女朋友生气时的统一模板",
@@ -1347,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 53345,
+      "num": 210216,
+      "word": "环境减灾二号06星成功发射",
+      "onboard_time": 1691555080,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41275,
       "num": 56086,
       "word": "殷桃露马甲线",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1691524512,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15025,
+      "num": 1369229,
+      "word": "立秋大运会闭幕秋分亚运会开幕",
+      "onboard_time": 1691555445,
+      "rank": 2,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
