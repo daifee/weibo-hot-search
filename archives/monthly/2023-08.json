@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691562130619,
+  "endTime": 1691562909275,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1780,7 +1780,7 @@
     },
     {
       "raw_hot": 1574609,
-      "num": 488069,
+      "num": 539918,
       "word": "TFBOYS为王俊凯新歌做宣传",
       "onboard_time": 1691558857,
       "rank": 13,
@@ -3059,6 +3059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1133072,
+      "num": 631594,
+      "word": "雅安",
+      "onboard_time": 1691557179,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1131584,
       "num": 335636,
       "word": "哇唧唧哇简介没看见肖战",
@@ -3289,14 +3297,6 @@
       "onboard_time": 1691452051,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1086324,
-      "num": 631594,
-      "word": "雅安",
-      "onboard_time": 1691557179,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1084861,
@@ -3609,6 +3609,14 @@
       "onboard_time": 1691236235,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1020577,
+      "num": 1020577,
+      "word": "李现捐款100万驰援黑龙江灾区",
+      "onboard_time": 1691559577,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1019315,
@@ -4001,14 +4009,6 @@
       "onboard_time": 1691146114,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 952130,
-      "num": 952130,
-      "word": "李现捐款100万驰援黑龙江灾区",
-      "onboard_time": 1691559577,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 950122,
@@ -5619,6 +5619,14 @@
       "category": "美食,情感"
     },
     {
+      "raw_hot": 750021,
+      "num": 750021,
+      "word": "倪妮白宇勾手吻",
+      "onboard_time": 1691560717,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 749652,
       "num": 749652,
       "word": "边伯贤入住汉南洞UNVillage",
@@ -5760,6 +5768,14 @@
       "word": "女子买3张卧铺带4娃乘车被要求补票",
       "onboard_time": 1691278592,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735400,
+      "num": 735400,
+      "word": "双胞胎暴雨中降生被起名定海神针",
+      "onboard_time": 1691559279,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -6241,6 +6257,14 @@
       "onboard_time": 1690942710,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 689541,
+      "num": 518145,
+      "word": "于适微博简介",
+      "onboard_time": 1691560835,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 688968,
@@ -6905,14 +6929,6 @@
       "onboard_time": 1690855592,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 631542,
-      "num": 631542,
-      "word": "倪妮白宇勾手吻",
-      "onboard_time": 1691560717,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 631109,
@@ -8003,14 +8019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563162,
-      "num": 486655,
-      "word": "双胞胎暴雨中降生被起名定海神针",
-      "onboard_time": 1691559279,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 562350,
       "num": 562350,
       "word": "快乐大本营官微改名湖南卫视综艺",
@@ -9091,6 +9099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 504971,
+      "num": 504971,
+      "word": "中国风终于吹到了国漫",
+      "onboard_time": 1691561197,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 503978,
       "num": 503978,
       "word": "张踩玲婆婆",
@@ -9513,14 +9529,6 @@
       "onboard_time": 1691303972,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 484003,
-      "num": 484003,
-      "word": "于适微博简介",
-      "onboard_time": 1691560835,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 483673,
@@ -12041,6 +12049,14 @@
       "onboard_time": 1691288498,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 374325,
+      "num": 374325,
+      "word": "宋雨琦真的在舞台上发光",
+      "onboard_time": 1691561856,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 374236,
@@ -15051,14 +15067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273642,
-      "num": 273642,
-      "word": "中国风终于吹到了国漫",
-      "onboard_time": 1691561197,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 273562,
       "num": 273562,
       "word": "长相思角色号好会营业",
@@ -16731,6 +16739,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 231709,
+      "num": 231709,
+      "word": "小朋友用电话手表拍白鹿",
+      "onboard_time": 1691562277,
+      "rank": 34,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 231576,
       "num": 231576,
       "word": "RIIZE",
@@ -17899,6 +17915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208187,
+      "num": 208187,
+      "word": "濯海破浪",
+      "onboard_time": 1691562513,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208174,
       "num": 208174,
       "word": "周深你好生活",
@@ -17976,6 +18000,14 @@
       "word": "这结局太虐了",
       "onboard_time": 1690960055,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 206596,
+      "num": 206596,
+      "word": "我发现我在变得内核稳定",
+      "onboard_time": 1691562333,
+      "rank": 40,
       "category": "情感"
     },
     {
@@ -18121,6 +18153,14 @@
       "onboard_time": 1691113178,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204474,
+      "num": 204474,
+      "word": "过桥米线那个桥我自己过",
+      "onboard_time": 1691559878,
+      "rank": 38,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 204397,
@@ -18515,14 +18555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198988,
-      "num": 198988,
-      "word": "过桥米线那个桥我自己过",
-      "onboard_time": 1691559878,
-      "rank": 38,
-      "category": "幽默,美食"
-    },
-    {
       "raw_hot": 198962,
       "num": 201828,
       "word": "动漫大赏2023",
@@ -18680,14 +18712,6 @@
       "word": "TFBOYS十周年",
       "onboard_time": 1691277508,
       "rank": 31,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 197369,
-      "num": 197369,
-      "word": "宋雨琦真的在舞台上发光",
-      "onboard_time": 1691561856,
-      "rank": 39,
       "category": "音乐"
     },
     {
@@ -19159,6 +19183,14 @@
       "num": 243743,
       "word": "重塑南京",
       "onboard_time": 1691248244,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191013,
+      "num": 201737,
+      "word": "四川一河流突涨有人员伤亡",
+      "onboard_time": 1691562632,
       "rank": 43,
       "category": "社会新闻"
     },
@@ -20147,6 +20179,14 @@
       "category": "幽默,科技"
     },
     {
+      "raw_hot": 164013,
+      "num": 201734,
+      "word": "高温天男子冲了个凉水澡后身亡",
+      "onboard_time": 1691562333,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163691,
       "num": 163691,
       "word": "爸爸当家直播",
@@ -20667,6 +20707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142316,
+      "num": 201717,
+      "word": "爱合 别侮辱我的Lisa",
+      "onboard_time": 1691562813,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142280,
       "num": 142280,
       "word": "直击南昌八一广场升旗仪式现场",
@@ -20737,6 +20785,14 @@
       "onboard_time": 1691390139,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138036,
+      "num": 201711,
+      "word": "HYBE下半年艺人回归阵容",
+      "onboard_time": 1691562873,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 137004,
@@ -21731,6 +21787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80395,
+      "num": 506315,
+      "word": "你的每个瞬间他都小心收藏",
+      "onboard_time": 1691560835,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79654,
       "num": 79473,
       "word": "田曦薇齐刘海卷发",
@@ -22001,14 +22065,6 @@
       "onboard_time": 1691087595,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50213,
-      "num": 485841,
-      "word": "你的每个瞬间他都小心收藏",
-      "onboard_time": 1691560835,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48210,

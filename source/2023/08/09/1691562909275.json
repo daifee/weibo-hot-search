@@ -1,0 +1,410 @@
+{
+  "runTime": 1691562909275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1256837,
+        "num": 1256837,
+        "word": "女儿不需要报销妈妈感慨自己没用了",
+        "onboard_time": 1691551538,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1020577,
+        "num": 1020577,
+        "word": "李现捐款100万驰援黑龙江灾区",
+        "onboard_time": 1691559577,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56488,
+        "num": 819141,
+        "word": "立秋大运会闭幕秋分亚运会开幕",
+        "onboard_time": 1691555445,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1163642,
+        "num": 793030,
+        "word": "曺圭贤去打了九价疫苗",
+        "onboard_time": 1691556700,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750021,
+        "num": 750021,
+        "word": "倪妮白宇勾手吻",
+        "onboard_time": 1691560717,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 735400,
+        "num": 735400,
+        "word": "双胞胎暴雨中降生被起名定海神针",
+        "onboard_time": 1691559279,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600485,
+        "num": 600485,
+        "word": "医药反腐",
+        "onboard_time": 1691558737,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588597,
+        "num": 588597,
+        "word": "重案六组这编剧也太超前了",
+        "onboard_time": 1691543977,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 577194,
+        "num": 577194,
+        "word": "医药代表称不敢进医院",
+        "onboard_time": 1691547154,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539991,
+        "num": 539991,
+        "word": "王鹤棣 娇兰",
+        "onboard_time": 1691556884,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1302130,
+        "num": 539918,
+        "word": "TFBOYS为王俊凯新歌做宣传",
+        "onboard_time": 1691558857,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1133072,
+        "num": 531552,
+        "word": "雅安",
+        "onboard_time": 1691557179,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934393,
+        "num": 521658,
+        "word": "能不能好好设计卫生巾的护翼",
+        "onboard_time": 1691554239,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 689541,
+        "num": 518145,
+        "word": "于适微博简介",
+        "onboard_time": 1691560835,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80395,
+        "num": 506315,
+        "word": "你的每个瞬间他都小心收藏",
+        "onboard_time": 1691560835,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504971,
+        "num": 504971,
+        "word": "中国风终于吹到了国漫",
+        "onboard_time": 1691561197,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 480159,
+        "num": 480159,
+        "word": "黄晓明还是那个打字速度",
+        "onboard_time": 1691556764,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460922,
+        "num": 460922,
+        "word": "玱玹被作为禁毒警示案例",
+        "onboard_time": 1691555860,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388421,
+        "num": 388421,
+        "word": "唐三为i做e",
+        "onboard_time": 1691555262,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 403510,
+        "num": 386872,
+        "word": "邓为认证涂山璟是纯爱战狐",
+        "onboard_time": 1691555741,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571117,
+        "num": 381692,
+        "word": "我的电脑壁纸被领导发朋友圈了",
+        "onboard_time": 1691553882,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 559727,
+        "num": 380956,
+        "word": "男子强奸13岁女孩致死案二审维持死刑",
+        "onboard_time": 1691544218,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399445,
+        "num": 377391,
+        "word": "用胸毛给女友做抱枕",
+        "onboard_time": 1691556341,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 374325,
+        "num": 374325,
+        "word": "宋雨琦真的在舞台上发光",
+        "onboard_time": 1691561856,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321760,
+        "num": 321760,
+        "word": "得知撞人需赔20万男子秒离婚净身出户",
+        "onboard_time": 1691551898,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316428,
+        "num": 316428,
+        "word": "邓为涂山璟登顶角色吸粉榜",
+        "onboard_time": 1691558437,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292255,
+        "num": 292255,
+        "word": "突然知道怎么存钱了",
+        "onboard_time": 1691547996,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285566,
+        "num": 285566,
+        "word": "三只猫忽然叼着玩具进入警戒模式",
+        "onboard_time": 1691558196,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285559,
+        "num": 285559,
+        "word": "张晚意撞到柱子都变形",
+        "onboard_time": 1691552440,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275208,
+        "num": 275208,
+        "word": "花呗回应女子网购2百多却被扣款3千多",
+        "onboard_time": 1691538392,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 270874,
+        "num": 270874,
+        "word": "北京特大暴雨已致33人遇难",
+        "onboard_time": 1691548117,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 259492,
+        "num": 259492,
+        "word": "奚安娜",
+        "onboard_time": 1691542596,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243301,
+        "num": 243301,
+        "word": "原来酒店是可以讲价的",
+        "onboard_time": 1691551117,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 242407,
+        "num": 242407,
+        "word": "男子涉嫌常年性侵害继女",
+        "onboard_time": 1691548234,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231709,
+        "num": 231709,
+        "word": "小朋友用电话手表拍白鹿",
+        "onboard_time": 1691562277,
+        "rank": 34,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 230147,
+        "num": 230147,
+        "word": "郑州也忍不住了",
+        "onboard_time": 1691549556,
+        "rank": 35,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 222465,
+        "num": 222465,
+        "word": "封神",
+        "onboard_time": 1691559757,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217523,
+        "num": 217523,
+        "word": "袁泉杨紫穿拖鞋放烟花",
+        "onboard_time": 1691559159,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212659,
+        "num": 212659,
+        "word": "秋天第一杯奶茶爆单致骑手商家产冲突",
+        "onboard_time": 1691554538,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 208187,
+        "num": 208187,
+        "word": "濯海破浪",
+        "onboard_time": 1691562513,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206596,
+        "num": 206596,
+        "word": "我发现我在变得内核稳定",
+        "onboard_time": 1691562333,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204474,
+        "num": 204474,
+        "word": "过桥米线那个桥我自己过",
+        "onboard_time": 1691559878,
+        "rank": 41,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 201743,
+        "num": 201743,
+        "word": "TangoZ重新定义CityWalk",
+        "onboard_time": 1691559636,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191013,
+        "num": 201737,
+        "word": "四川一河流突涨有人员伤亡",
+        "onboard_time": 1691562632,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164013,
+        "num": 201734,
+        "word": "高温天男子冲了个凉水澡后身亡",
+        "onboard_time": 1691562333,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163993,
+        "num": 201731,
+        "word": "马立奥综艺挨揍第一人",
+        "onboard_time": 1691549314,
+        "rank": 45,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 163399,
+        "num": 201725,
+        "word": "A股",
+        "onboard_time": 1691562755,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142316,
+        "num": 201717,
+        "word": "爱合 别侮辱我的Lisa",
+        "onboard_time": 1691562813,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138036,
+        "num": 201711,
+        "word": "HYBE下半年艺人回归阵容",
+        "onboard_time": 1691562873,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127798,
+        "num": 201709,
+        "word": "莲花楼婚礼变葬礼",
+        "onboard_time": 1691545835,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会闭幕式MV#"
+    }
+  }
+}
