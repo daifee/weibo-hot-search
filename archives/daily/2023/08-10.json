@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691622983215,
+  "endTime": 1691624036643,
   "band_list": [
     {
       "raw_hot": 2247846,
@@ -27,7 +27,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1124805,
+      "raw_hot": 1213109,
       "num": 735779,
       "word": "四川山东两地凌晨地震",
       "onboard_time": 1691600724,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 489838,
+      "num": 489838,
+      "word": "男子捡到超大野生菌一锅炖不下",
+      "onboard_time": 1691599167,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485620,
       "num": 485620,
       "word": "迪丽热巴说到底是谁在跟我抢票",
@@ -123,11 +131,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 440902,
-      "num": 440902,
-      "word": "男子捡到超大野生菌一锅炖不下",
-      "onboard_time": 1691599167,
-      "rank": 49,
+      "raw_hot": 482711,
+      "num": 263315,
+      "word": "女子地铁强行要人给女儿让座被拒大骂",
+      "onboard_time": 1691600484,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -161,14 +169,6 @@
       "onboard_time": 1691584774,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380301,
-      "num": 235695,
-      "word": "女子地铁强行要人给女儿让座被拒大骂",
-      "onboard_time": 1691600484,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372759,
@@ -243,6 +243,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 288546,
+      "num": 288546,
+      "word": "唯二正确的睡姿",
+      "onboard_time": 1691600304,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285502,
       "num": 241692,
       "word": "都是王菲玩剩下的",
@@ -257,6 +265,22 @@
       "onboard_time": 1691581416,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 283116,
+      "num": 179743,
+      "word": "你们两口子怎么聊到一起的",
+      "onboard_time": 1691622322,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 281787,
+      "num": 177575,
+      "word": "浙江多家公立医院重复收费",
+      "onboard_time": 1691618836,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273324,
@@ -291,22 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248798,
-      "num": 143344,
-      "word": "浙江多家公立医院重复收费",
-      "onboard_time": 1691618836,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241114,
-      "num": 241114,
-      "word": "唯二正确的睡姿",
-      "onboard_time": 1691600304,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240442,
       "num": 218927,
       "word": "长相思小夭的金山",
@@ -321,6 +329,22 @@
       "onboard_time": 1691580215,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 233486,
+      "num": 172991,
+      "word": "雷军宣布将于8月14日举办年度演讲",
+      "onboard_time": 1691618174,
+      "rank": 23,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 228070,
+      "num": 228070,
+      "word": "王传君拜佛名场面",
+      "onboard_time": 1691605996,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 226695,
@@ -355,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211604,
+      "num": 211604,
+      "word": "莲花楼结局是HE还是BE",
+      "onboard_time": 1691623165,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208950,
       "num": 208950,
       "word": "小夭扮回玟小六",
@@ -368,6 +400,14 @@
       "word": "中戏教授说王一博进步非常大",
       "onboard_time": 1691587359,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201618,
+      "num": 201618,
+      "word": "相柳和小夭告别",
+      "onboard_time": 1691599167,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -387,28 +427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172643,
-      "num": 142750,
-      "word": "雷军宣布将于8月14日举办年度演讲",
-      "onboard_time": 1691618174,
-      "rank": 23,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 167709,
       "num": 218375,
       "word": "北大教授称我国目前收入水平还是太低",
       "onboard_time": 1691585914,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 164870,
-      "num": 164870,
-      "word": "相柳和小夭告别",
-      "onboard_time": 1691599167,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 150733,
@@ -427,6 +451,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 141012,
+      "num": 141012,
+      "word": "厦门打雷",
+      "onboard_time": 1691623646,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138907,
       "num": 147973,
       "word": "莲花楼",
@@ -441,14 +473,6 @@
       "onboard_time": 1691592820,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132302,
-      "num": 132302,
-      "word": "王传君拜佛名场面",
-      "onboard_time": 1691605996,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 130699,
@@ -475,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106565,
-      "num": 103287,
-      "word": "你们两口子怎么聊到一起的",
-      "onboard_time": 1691622322,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 103530,
       "num": 147105,
       "word": "黑莲花男主",
@@ -499,8 +515,8 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 92564,
-      "num": 96191,
+      "raw_hot": 98048,
+      "num": 98048,
       "word": "笛飞声 角丽谯",
       "onboard_time": 1691589039,
       "rank": 41,
@@ -529,6 +545,14 @@
       "onboard_time": 1691577634,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 65620,
+      "num": 80587,
+      "word": "雅典娜",
+      "onboard_time": 1691624007,
+      "rank": 49,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 61295,
@@ -571,7 +595,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 7458,
+      "raw_hot": 9361,
       "num": 809265,
       "word": "立秋大运会闭幕秋分亚运会开幕",
       "onboard_time": 1691555445,
