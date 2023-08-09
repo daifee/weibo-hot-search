@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691609623829,
+  "endTime": 1691612287721,
   "band_list": [
     {
       "raw_hot": 2247846,
@@ -505,6 +505,30 @@
       "onboard_time": 1691603778,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38693,
+      "num": 38693,
+      "word": "G社拍的王鹤棣",
+      "onboard_time": 1691609835,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32823,
+      "num": 37877,
+      "word": "43岁女子当榜一大哥骗女主播66万",
+      "onboard_time": 1691611215,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23259,
+      "num": 37730,
+      "word": "杨迪问快乐向前冲想干嘛",
+      "onboard_time": 1691611634,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 4863,

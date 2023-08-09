@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691609623829,
+  "endTime": 1691612287721,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -8435,6 +8435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38693,
+      "num": 38693,
+      "word": "G社拍的王鹤棣",
+      "onboard_time": 1691609835,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38358,
       "num": 56059,
       "word": "崩坏星穹铁道",
@@ -8467,6 +8475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32823,
+      "num": 37877,
+      "word": "43岁女子当榜一大哥骗女主播66万",
+      "onboard_time": 1691611215,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31591,
       "num": 634436,
       "word": "民警蹬15公里三轮帮受伤大爷送车",
@@ -8497,6 +8513,14 @@
       "onboard_time": 1691485238,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23259,
+      "num": 37730,
+      "word": "杨迪问快乐向前冲想干嘛",
+      "onboard_time": 1691611634,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 22883,
