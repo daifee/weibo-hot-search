@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/10 00:24:47 ~ 2023/08/10 02:22:11
+本榜单时间：2023/08/10 00:24:47 ~ 2023/08/10 02:36:21
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@ SMTOWN回应不知道边伯贤开公司（热度：254958）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23SK%E8%A6%81%E6%9C%89%E5%B0%8F%E5%B0%8FSK%E4%BA%86%23" target="weibo">
 SK要有小小SK了（热度：61295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E6%8B%9C%E4%BD%9B%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
+王传君拜佛名场面（热度：41585）
 </a>
 </li>
 

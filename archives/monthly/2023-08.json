@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691605331179,
+  "endTime": 1691606181299,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -23729,6 +23729,14 @@
       "onboard_time": 1690860634,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41585,
+      "num": 41585,
+      "word": "王传君拜佛名场面",
+      "onboard_time": 1691605996,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 41366,
