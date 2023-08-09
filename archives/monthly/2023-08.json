@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691573656335,
+  "endTime": 1691576318461,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -547,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2760758,
+      "num": 2760758,
+      "word": "杨洋韩立",
+      "onboard_time": 1691571519,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2752541,
       "num": 1322213,
       "word": "北京顶奢酒店被暴雨冲走了",
@@ -1068,7 +1076,7 @@
     },
     {
       "raw_hot": 2047353,
-      "num": 1205808,
+      "num": 1614819,
       "word": "第一次见角色吃演员红利",
       "onboard_time": 1691568939,
       "rank": 31,
@@ -1241,14 +1249,6 @@
       "onboard_time": 1690976974,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1911908,
-      "num": 1911908,
-      "word": "杨洋韩立",
-      "onboard_time": 1691571519,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1909425,
@@ -3137,6 +3137,14 @@
       "onboard_time": 1690879894,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1124749,
+      "num": 392048,
+      "word": "李飞已经当上爷爷了",
+      "onboard_time": 1691573979,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1122698,
@@ -7755,6 +7763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 589438,
+      "num": 1624383,
+      "word": "4名学生考上211村委每人奖1万",
+      "onboard_time": 1691571639,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589358,
       "num": 505491,
       "word": "美国8岁女孩失踪48年悬案",
@@ -8131,6 +8147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 570037,
+      "num": 300580,
+      "word": "TF一代二代三代彩发造型",
+      "onboard_time": 1691574221,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 569842,
       "num": 569842,
       "word": "到手的驾照还没捂热就废了",
@@ -8337,6 +8361,14 @@
       "onboard_time": 1691242064,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557331,
+      "num": 528765,
+      "word": "邓为直播",
+      "onboard_time": 1691571938,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 556586,
@@ -9195,6 +9227,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 513701,
+      "num": 510094,
+      "word": "长相思有自己的辰亦儒",
+      "onboard_time": 1691572899,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512452,
       "num": 512452,
       "word": "胡夏说我目前单身",
@@ -9217,6 +9257,14 @@
       "onboard_time": 1691195854,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510557,
+      "num": 510557,
+      "word": "相柳出演猎罪图鉴",
+      "onboard_time": 1691573617,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 509822,
@@ -10331,6 +10379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453187,
+      "num": 453187,
+      "word": "莲花楼有自己的年世兰",
+      "onboard_time": 1691573198,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452872,
       "num": 1471551,
       "word": "小猫头卡老鼠洞消防员憋笑救援",
@@ -10953,14 +11009,6 @@
       "onboard_time": 1691480559,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 423421,
-      "num": 423421,
-      "word": "邓为直播",
-      "onboard_time": 1691571938,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 422721,
@@ -11673,6 +11721,14 @@
       "onboard_time": 1691545717,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 396631,
+      "num": 396631,
+      "word": "学计算机的人好像情绪都特稳定",
+      "onboard_time": 1691573320,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 395833,
@@ -13307,14 +13363,6 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 335781,
-      "num": 335781,
-      "word": "莲花楼有自己的年世兰",
-      "onboard_time": 1691573198,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 335655,
       "num": 255297,
       "word": "女子20分钟连喝4瓶水后死亡",
@@ -13699,6 +13747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321555,
+      "num": 263230,
+      "word": "人被热死有多痛苦",
+      "onboard_time": 1691575776,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 321514,
       "num": 1134879,
       "word": "说她是恋爱脑吧又好像很会搞创收",
@@ -13971,6 +14027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 313353,
+      "num": 313353,
+      "word": "这是女生努力的意义",
+      "onboard_time": 1691573797,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313154,
       "num": 213896,
       "word": "王俊凯王源易烊千玺喜欢你彩排",
@@ -14033,14 +14097,6 @@
       "onboard_time": 1691415160,
       "rank": 49,
       "category": "财经,幽默"
-    },
-    {
-      "raw_hot": 310217,
-      "num": 310217,
-      "word": "长相思有自己的辰亦儒",
-      "onboard_time": 1691572899,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 310188,
@@ -14483,6 +14539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300411,
+      "num": 300411,
+      "word": "王濛工作室回应传言",
+      "onboard_time": 1691576015,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300111,
       "num": 233478,
       "word": "明天见",
@@ -14545,6 +14609,14 @@
       "onboard_time": 1691148573,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 297519,
+      "num": 297519,
+      "word": "TFBOYS三人专辑都未标注唱片公司",
+      "onboard_time": 1691573502,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 297252,
@@ -14705,6 +14777,14 @@
       "onboard_time": 1690808673,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 293232,
+      "num": 293232,
+      "word": "肖战片场施法手势教学",
+      "onboard_time": 1691574878,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 293213,
@@ -15907,14 +15987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259740,
-      "num": 526535,
-      "word": "4名学生考上211村委每人奖1万",
-      "onboard_time": 1691571639,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259590,
       "num": 259590,
       "word": "原来鞋子还有一片装",
@@ -16121,6 +16193,14 @@
       "onboard_time": 1690888172,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253073,
+      "num": 253073,
+      "word": "成毅曾舜晞凌晨四点边吃炒饭边化妆",
+      "onboard_time": 1691575653,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 253071,
@@ -16603,6 +16683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241763,
+      "num": 241763,
+      "word": "DK对战T1",
+      "onboard_time": 1691572598,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241719,
       "num": 241719,
       "word": "李凯尔首秀",
@@ -16953,14 +17041,6 @@
       "onboard_time": 1691159319,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235677,
-      "num": 235677,
-      "word": "DK对战T1",
-      "onboard_time": 1691572598,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 235659,
@@ -17339,14 +17419,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 226521,
-      "num": 226521,
-      "word": "TFBOYS三人专辑都未标注唱片公司",
-      "onboard_time": 1691573502,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 226148,
       "num": 226148,
       "word": "刘耀文严浩翔贺峻霖银发",
@@ -17512,6 +17584,14 @@
       "word": "莲花楼角丽谯疯批病娇感",
       "onboard_time": 1691539959,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 223045,
+      "num": 223045,
+      "word": "孤注一掷票房破8亿",
+      "onboard_time": 1691573918,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -17947,12 +18027,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215499,
+      "num": 215499,
+      "word": "猫没抓到老鼠主人放监控给它们看",
+      "onboard_time": 1691575596,
+      "rank": 40,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 215009,
       "num": 215009,
       "word": "热烈路演岳阳",
       "onboard_time": 1691053716,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214816,
+      "num": 214816,
+      "word": "胡锡进 雅安河道为何会突然涨水",
+      "onboard_time": 1691572721,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214618,
@@ -18115,6 +18211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211771,
+      "num": 1386930,
+      "word": "舒兰群众立秋为抗洪武警包10000多饺子",
+      "onboard_time": 1691574639,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 211570,
       "num": 211570,
       "word": "国乒女团大运会夺冠",
@@ -18264,6 +18368,14 @@
       "word": "热烈结局 理想化",
       "onboard_time": 1691224057,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 209643,
+      "num": 209643,
+      "word": "长相思直播",
+      "onboard_time": 1691574939,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -18425,14 +18537,6 @@
       "onboard_time": 1690978898,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 206849,
-      "num": 206849,
-      "word": "胡锡进 雅安河道为何会突然涨水",
-      "onboard_time": 1691572721,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206818,
@@ -18667,14 +18771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203894,
-      "num": 203894,
-      "word": "相柳出演猎罪图鉴",
-      "onboard_time": 1691573617,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203881,
       "num": 208345,
       "word": "亚洲超星团选手首亮相",
@@ -18729,14 +18825,6 @@
       "onboard_time": 1691292218,
       "rank": 47,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 203512,
-      "num": 203512,
-      "word": "学计算机的人好像情绪都特稳定",
-      "onboard_time": 1691573320,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 203360,
@@ -19235,6 +19323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197033,
+      "num": 197033,
+      "word": "长相思粉丝极限四选一",
+      "onboard_time": 1691575479,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197025,
       "num": 197025,
       "word": "中餐厅",
@@ -19601,6 +19697,14 @@
       "onboard_time": 1691406695,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191864,
+      "num": 1090882,
+      "word": "男子开新买的铲车帮村民清淤",
+      "onboard_time": 1691574639,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 191858,
@@ -20491,6 +20595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169320,
+      "num": 169320,
+      "word": "檀健次早期这钱不好挣啊",
+      "onboard_time": 1691576256,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169105,
       "num": 190350,
       "word": "全员加速中卧底剧透",
@@ -20545,6 +20657,14 @@
       "onboard_time": 1691051015,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167869,
+      "num": 167869,
+      "word": "百度网盘回应崩了",
+      "onboard_time": 1691573918,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 167415,
@@ -22348,7 +22468,7 @@
     },
     {
       "raw_hot": 71413,
-      "num": 1311141,
+      "num": 1616186,
       "word": "洪涝灾害发生后注意卫生安全",
       "onboard_time": 1691572297,
       "rank": 2,
