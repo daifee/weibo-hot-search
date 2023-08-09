@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691584523591,
+  "endTime": 1691585546059,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -65,6 +65,14 @@
       "onboard_time": 1691545416,
       "rank": 42,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 2009853,
+      "num": 2009853,
+      "word": "莲花楼破万",
+      "onboard_time": 1691584955,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1920889,
@@ -139,8 +147,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1445787,
-      "num": 1445787,
+      "raw_hot": 1448535,
+      "num": 1448535,
       "word": "骆旭东被追记个人一等功",
       "onboard_time": 1691582736,
       "rank": 1,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1212573,
+      "num": 1212573,
+      "word": "莲花楼结局",
+      "onboard_time": 1691582017,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1210832,
       "num": 1201723,
       "word": "医药反腐",
@@ -219,20 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1132530,
+      "num": 1132530,
+      "word": "去泰国尽量别用信用卡",
+      "onboard_time": 1691580215,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 1126895,
+      "num": 650326,
+      "word": "都是王菲玩剩下的",
+      "onboard_time": 1691580515,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1124749,
       "num": 392048,
       "word": "李飞已经当上爷爷了",
       "onboard_time": 1691573979,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1118069,
-      "num": 1118069,
-      "word": "去泰国尽量别用信用卡",
-      "onboard_time": 1691580215,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 1108119,
@@ -321,14 +345,6 @@
       "onboard_time": 1691554239,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 983994,
-      "num": 649820,
-      "word": "都是王菲玩剩下的",
-      "onboard_time": 1691580515,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 979848,
@@ -425,14 +441,6 @@
       "onboard_time": 1691563834,
       "rank": 17,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 835569,
-      "num": 835569,
-      "word": "莲花楼结局",
-      "onboard_time": 1691582017,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 823916,
@@ -608,6 +616,14 @@
       "word": "长相思三位男主的第一次",
       "onboard_time": 1691564794,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 684326,
+      "num": 684326,
+      "word": "莲花楼",
+      "onboard_time": 1691569714,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -827,14 +843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 567187,
-      "num": 567187,
-      "word": "莲花楼",
-      "onboard_time": 1691569714,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 563941,
       "num": 563941,
       "word": "杨紫回应小夭相柳是不是相爱",
@@ -1011,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 469581,
+      "num": 469581,
+      "word": "成毅好牛的50秒",
+      "onboard_time": 1691584354,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 465004,
       "num": 321343,
       "word": "丰隆 等着我们感情升温吧",
@@ -1083,6 +1099,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 434014,
+      "num": 241094,
+      "word": "莲花楼番外",
+      "onboard_time": 1691584474,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 430892,
+      "num": 430892,
+      "word": "刚出生一个月的小水獭有多萌",
+      "onboard_time": 1691581416,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 428931,
       "num": 428931,
       "word": "FoFo 对不起让大家失望了",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1691549314,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410766,
+      "num": 240773,
+      "word": "夭璟全机位吻戏纯享版",
+      "onboard_time": 1691582736,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 410744,
@@ -1147,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400751,
+      "num": 217437,
+      "word": "网友给王诗龄P眉毛",
+      "onboard_time": 1691584774,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399341,
       "num": 399341,
       "word": "文俊辉官宣加盟听说很好吃3",
@@ -1161,14 +1209,6 @@
       "onboard_time": 1691545717,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 392594,
-      "num": 392594,
-      "word": "刚出生一个月的小水獭有多萌",
-      "onboard_time": 1691581416,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 388015,
@@ -1515,12 +1555,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284374,
-      "num": 213343,
+      "raw_hot": 287033,
+      "num": 214288,
       "word": "心动的信号",
       "onboard_time": 1691581775,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285077,
+      "num": 213720,
+      "word": "赤水丰隆给了涂山璟一拳",
+      "onboard_time": 1691585312,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 281711,
@@ -1595,14 +1643,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 267004,
-      "num": 212977,
-      "word": "成毅好牛的50秒",
-      "onboard_time": 1691584354,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 265758,
       "num": 265758,
       "word": "姬发和殷郊 e人领养i人",
@@ -1633,6 +1673,14 @@
       "onboard_time": 1691506599,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 258230,
+      "num": 329606,
+      "word": "线下榜一大姐直接上台打赏演员",
+      "onboard_time": 1691580695,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 257541,
@@ -1681,14 +1729,6 @@
       "onboard_time": 1691540678,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248666,
-      "num": 329606,
-      "word": "线下榜一大姐直接上台打赏演员",
-      "onboard_time": 1691580695,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 248295,
@@ -1835,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231166,
+      "num": 212749,
+      "word": "大鹏回复张译",
+      "onboard_time": 1691581595,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226667,
       "num": 226667,
       "word": "殷郊 一款老姜严选",
@@ -1915,8 +1963,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219776,
-      "num": 219776,
+      "raw_hot": 222471,
+      "num": 222471,
       "word": "猫猫的嘴被熏成了TypeC",
       "onboard_time": 1691581835,
       "rank": 33,
@@ -2083,14 +2131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205123,
-      "num": 208349,
-      "word": "莲花楼番外",
-      "onboard_time": 1691584474,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204474,
       "num": 204474,
       "word": "过桥米线那个桥我自己过",
@@ -2228,7 +2268,7 @@
     },
     {
       "raw_hot": 191973,
-      "num": 211533,
+      "num": 212268,
       "word": "洗衣机洗出一锅米饭",
       "onboard_time": 1691582137,
       "rank": 38,
@@ -2249,6 +2289,14 @@
       "onboard_time": 1691551241,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190795,
+      "num": 216380,
+      "word": "不小心把雪糕放生了",
+      "onboard_time": 1691584593,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 188827,
@@ -2380,7 +2428,7 @@
     },
     {
       "raw_hot": 161126,
-      "num": 208294,
+      "num": 211605,
       "word": "父母给新生儿送的两件礼物",
       "onboard_time": 1691583032,
       "rank": 49,
@@ -2507,6 +2555,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 138232,
+      "num": 211276,
+      "word": "不花钱就可以得到的快乐",
+      "onboard_time": 1691584053,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131681,
       "num": 131681,
       "word": "牛牛我啊在消防员面前丢尽脸啦",
@@ -2529,6 +2585,14 @@
       "onboard_time": 1691537426,
       "rank": 33,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 129379,
+      "num": 211015,
+      "word": "小男孩对着意见箱跳Flower",
+      "onboard_time": 1691584712,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 128427,
@@ -2603,6 +2667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74739,
+      "num": 537716,
+      "word": "帕金森大叔自力更生摆摊卖棕编",
+      "onboard_time": 1691582435,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73657,
       "num": 444617,
       "word": "东北汉子被子弟兵感动哽咽",
@@ -2640,14 +2712,6 @@
       "word": "环境减灾二号06星成功发射",
       "onboard_time": 1691555080,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53121,
-      "num": 537716,
-      "word": "帕金森大叔自力更生摆摊卖棕编",
-      "onboard_time": 1691582435,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

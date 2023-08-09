@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691584523591,
+  "endTime": 1691585546059,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1131,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2009853,
+      "num": 2009853,
+      "word": "莲花楼破万",
+      "onboard_time": 1691584955,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2007592,
       "num": 2007592,
       "word": "TFBOYS电话",
@@ -2083,6 +2091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1448535,
+      "num": 1448535,
+      "word": "骆旭东被追记个人一等功",
+      "onboard_time": 1691582736,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1447888,
       "num": 1447888,
       "word": "BLACKPINK与YG续约合约金约15亿韩元",
@@ -2097,14 +2113,6 @@
       "onboard_time": 1691122477,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1445787,
-      "num": 1445787,
-      "word": "骆旭东被追记个人一等功",
-      "onboard_time": 1691582736,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1444805,
@@ -2827,6 +2835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1212573,
+      "num": 1212573,
+      "word": "莲花楼结局",
+      "onboard_time": 1691582017,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1211270,
       "num": 4543041,
       "word": "高校1.31亿科研经费成果转化率为0",
@@ -3131,6 +3147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1132530,
+      "num": 1132530,
+      "word": "去泰国尽量别用信用卡",
+      "onboard_time": 1691580215,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1131584,
       "num": 335636,
       "word": "哇唧唧哇简介没看见肖战",
@@ -3145,6 +3169,14 @@
       "onboard_time": 1691304214,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1126895,
+      "num": 650326,
+      "word": "都是王菲玩剩下的",
+      "onboard_time": 1691580515,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 1126193,
@@ -3217,14 +3249,6 @@
       "onboard_time": 1691460212,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1118069,
-      "num": 1118069,
-      "word": "去泰国尽量别用信用卡",
-      "onboard_time": 1691580215,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 1117455,
@@ -3961,14 +3985,6 @@
       "onboard_time": 1691200355,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 983994,
-      "num": 649820,
-      "word": "都是王菲玩剩下的",
-      "onboard_time": 1691580515,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 983431,
@@ -5017,14 +5033,6 @@
       "onboard_time": 1690899877,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 835569,
-      "num": 835569,
-      "word": "莲花楼结局",
-      "onboard_time": 1691582017,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 835431,
@@ -10235,6 +10243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 469581,
+      "num": 469581,
+      "word": "成毅好牛的50秒",
+      "onboard_time": 1691584354,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 469445,
       "num": 469445,
       "word": "广州emo",
@@ -10971,6 +10987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434014,
+      "num": 241094,
+      "word": "莲花楼番外",
+      "onboard_time": 1691584474,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 433932,
       "num": 433932,
       "word": "时代少年团上楼了",
@@ -11009,6 +11033,14 @@
       "onboard_time": 1691035960,
       "rank": 43,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 430892,
+      "num": 430892,
+      "word": "刚出生一个月的小水獭有多萌",
+      "onboard_time": 1691581416,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 430870,
@@ -11507,6 +11539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410766,
+      "num": 240773,
+      "word": "夭璟全机位吻戏纯享版",
+      "onboard_time": 1691582736,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410744,
       "num": 287907,
       "word": "纽约顶级女医生枪杀幼子后自尽",
@@ -11747,6 +11787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400751,
+      "num": 217437,
+      "word": "网友给王诗龄P眉毛",
+      "onboard_time": 1691584774,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400371,
       "num": 319200,
       "word": "为什么婴儿很困却反抗哄睡",
@@ -11969,14 +12017,6 @@
       "onboard_time": 1690958432,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 392594,
-      "num": 392594,
-      "word": "刚出生一个月的小水獭有多萌",
-      "onboard_time": 1691581416,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 392440,
@@ -15243,6 +15283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287033,
+      "num": 240458,
+      "word": "心动的信号",
+      "onboard_time": 1690977515,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286865,
       "num": 299206,
       "word": "大鹏晒与黄渤王一博合照",
@@ -15323,6 +15371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285077,
+      "num": 213720,
+      "word": "赤水丰隆给了涂山璟一拳",
+      "onboard_time": 1691585312,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284984,
       "num": 279088,
       "word": "彭昱畅新剧4集哭了7次",
@@ -15345,14 +15401,6 @@
       "onboard_time": 1691051915,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 284374,
-      "num": 240458,
-      "word": "心动的信号",
-      "onboard_time": 1690977515,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 284132,
@@ -15915,14 +15963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267004,
-      "num": 212977,
-      "word": "成毅好牛的50秒",
-      "onboard_time": 1691584354,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 266828,
       "num": 189030,
       "word": "长相思非演员粉的观众都是被什么吸引来",
@@ -16240,6 +16280,14 @@
       "word": "夏天会痛击每个厕所摸鱼人",
       "onboard_time": 1691137055,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 258230,
+      "num": 329606,
+      "word": "线下榜一大姐直接上台打赏演员",
+      "onboard_time": 1691580695,
+      "rank": 24,
       "category": "幽默"
     },
     {
@@ -16609,14 +16657,6 @@
       "onboard_time": 1691453917,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248666,
-      "num": 329606,
-      "word": "线下榜一大姐直接上台打赏演员",
-      "onboard_time": 1691580695,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 248295,
@@ -17475,6 +17515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 231166,
+      "num": 212749,
+      "word": "大鹏回复张译",
+      "onboard_time": 1691581595,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230862,
       "num": 230862,
       "word": "于适杭州路演去不去",
@@ -17851,6 +17899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222471,
+      "num": 222471,
+      "word": "猫猫的嘴被熏成了TypeC",
+      "onboard_time": 1691581835,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222469,
       "num": 222469,
       "word": "抹茶芝士奶豆腐",
@@ -17993,14 +18049,6 @@
       "onboard_time": 1691073460,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219776,
-      "num": 219776,
-      "word": "猫猫的嘴被熏成了TypeC",
-      "onboard_time": 1691581835,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 219763,
@@ -18937,14 +18985,6 @@
       "onboard_time": 1691267298,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205123,
-      "num": 208349,
-      "word": "莲花楼番外",
-      "onboard_time": 1691584474,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 204994,
@@ -19996,7 +20036,7 @@
     },
     {
       "raw_hot": 191973,
-      "num": 211533,
+      "num": 212268,
       "word": "洗衣机洗出一锅米饭",
       "onboard_time": 1691582137,
       "rank": 38,
@@ -20097,6 +20137,14 @@
       "onboard_time": 1691042373,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 190795,
+      "num": 216380,
+      "word": "不小心把雪糕放生了",
+      "onboard_time": 1691584593,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 190793,
@@ -21196,7 +21244,7 @@
     },
     {
       "raw_hot": 161126,
-      "num": 208294,
+      "num": 211605,
       "word": "父母给新生儿送的两件礼物",
       "onboard_time": 1691583032,
       "rank": 49,
@@ -21739,6 +21787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138232,
+      "num": 211276,
+      "word": "不花钱就可以得到的快乐",
+      "onboard_time": 1691584053,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137004,
       "num": 216696,
       "word": "淘宝推出涿州图书专场",
@@ -21953,6 +22009,14 @@
       "onboard_time": 1691537426,
       "rank": 33,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 129379,
+      "num": 211015,
+      "word": "小男孩对着意见箱跳Flower",
+      "onboard_time": 1691584712,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 129268,
@@ -22771,6 +22835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74739,
+      "num": 537716,
+      "word": "帕金森大叔自力更生摆摊卖棕编",
+      "onboard_time": 1691582435,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73948,
       "num": 753670,
       "word": "用成都打开成都",
@@ -22968,14 +23040,6 @@
       "word": "环境减灾二号06星成功发射",
       "onboard_time": 1691555080,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53121,
-      "num": 537716,
-      "word": "帕金森大叔自力更生摆摊卖棕编",
-      "onboard_time": 1691582435,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
