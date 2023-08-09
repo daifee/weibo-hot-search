@@ -1,0 +1,410 @@
+{
+  "runTime": 1691602432993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1312567,
+        "num": 1312567,
+        "word": "jiejie",
+        "onboard_time": 1691598510,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 629182,
+        "num": 629182,
+        "word": "优酷 泼天的富贵",
+        "onboard_time": 1691590057,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3692,
+        "num": 450152,
+        "word": "立秋大运会闭幕秋分亚运会开幕",
+        "onboard_time": 1691555445,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385942,
+        "num": 385942,
+        "word": "李相夷剑断人亡",
+        "onboard_time": 1691587056,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315867,
+        "num": 315867,
+        "word": "Jennie疑似与YG解约",
+        "onboard_time": 1691590840,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353722,
+        "num": 280044,
+        "word": "莲花楼破万",
+        "onboard_time": 1691584955,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243933,
+        "num": 243933,
+        "word": "一名殡葬专业学生的课表",
+        "onboard_time": 1691585914,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242270,
+        "num": 242270,
+        "word": "韩男团中国线下签售cut",
+        "onboard_time": 1691596473,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201514,
+        "num": 233524,
+        "word": "中央财政紧急预拨10亿元",
+        "onboard_time": 1691579555,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 155083,
+        "num": 228665,
+        "word": "徐杰",
+        "onboard_time": 1691579915,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348216,
+        "num": 227442,
+        "word": "男子捡到超大野生菌一锅炖不下",
+        "onboard_time": 1691599167,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225997,
+        "num": 225997,
+        "word": "爱奇艺10部热度值破万的剧集",
+        "onboard_time": 1691589758,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206444,
+        "num": 206444,
+        "word": "同事桌上突然贴的标语",
+        "onboard_time": 1691597791,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 191383,
+        "num": 191383,
+        "word": "迪丽热巴说到底是谁在跟我抢票",
+        "onboard_time": 1691585615,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182734,
+        "num": 182734,
+        "word": "女子地铁强行要人给女儿让座被拒大骂",
+        "onboard_time": 1691600484,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181596,
+        "num": 181596,
+        "word": "怪不得耳鼻咽喉分在同一个科室",
+        "onboard_time": 1691585672,
+        "rank": 15,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 173906,
+        "num": 173906,
+        "word": "徐明浩 SEVENTEEN团综",
+        "onboard_time": 1691594198,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151982,
+        "num": 151982,
+        "word": "四川山东两地凌晨地震",
+        "onboard_time": 1691600724,
+        "rank": 17,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 148725,
+        "num": 148725,
+        "word": "相柳和小夭告别",
+        "onboard_time": 1691599167,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148199,
+        "num": 148199,
+        "word": "DK",
+        "onboard_time": 1691592880,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1372380,
+        "num": 147763,
+        "word": "原配街头打小三扒其胸衣",
+        "onboard_time": 1691596711,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178581,
+        "num": 146279,
+        "word": "裸考考上了意大利的公务员",
+        "onboard_time": 1691578115,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176777,
+        "num": 143235,
+        "word": "网友给王诗龄P眉毛",
+        "onboard_time": 1691584774,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168945,
+        "num": 141712,
+        "word": "工资不高又要经常熬夜的工作",
+        "onboard_time": 1691590658,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140834,
+        "num": 140834,
+        "word": "邓为直播衣服是不是穿反了",
+        "onboard_time": 1691597014,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137784,
+        "num": 137784,
+        "word": "莲花楼大结局你满意吗",
+        "onboard_time": 1691592939,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134307,
+        "num": 134307,
+        "word": "都是王菲玩剩下的",
+        "onboard_time": 1691580515,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127358,
+        "num": 127358,
+        "word": "相柳杀了防风邶",
+        "onboard_time": 1691595694,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121696,
+        "num": 121696,
+        "word": "莲花楼",
+        "onboard_time": 1691569714,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114073,
+        "num": 114073,
+        "word": "刚出生一个月的小水獭有多萌",
+        "onboard_time": 1691581416,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147028,
+        "num": 113533,
+        "word": "网友的鞋是相柳变的",
+        "onboard_time": 1691599944,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109560,
+        "num": 109560,
+        "word": "王濛被冻结股权445万",
+        "onboard_time": 1691567376,
+        "rank": 31,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 102141,
+        "num": 102141,
+        "word": "宋威龙穿JK",
+        "onboard_time": 1691593240,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101971,
+        "num": 101971,
+        "word": "大鹏为自己和王一博辟谣了",
+        "onboard_time": 1691579855,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97533,
+        "num": 97533,
+        "word": "去泰国尽量别用信用卡",
+        "onboard_time": 1691580215,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 98018,
+        "num": 97023,
+        "word": "虞书欣凌妙妙造型",
+        "onboard_time": 1691577395,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96365,
+        "num": 96365,
+        "word": "丰隆成夭璟play的一环了",
+        "onboard_time": 1691593959,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87319,
+        "num": 95429,
+        "word": "为什么煮出来的红豆粥是这样",
+        "onboard_time": 1691593480,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84454,
+        "num": 95347,
+        "word": "唯二正确的睡姿",
+        "onboard_time": 1691600304,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69071,
+        "num": 95312,
+        "word": "哑舍动画画风",
+        "onboard_time": 1691593240,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 95297,
+        "num": 95297,
+        "word": "黑莲花男主",
+        "onboard_time": 1691587896,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92564,
+        "num": 95295,
+        "word": "笛飞声 角丽谯",
+        "onboard_time": 1691589039,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90849,
+        "num": 95286,
+        "word": "檀健次在看长相思",
+        "onboard_time": 1691592762,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68613,
+        "num": 95282,
+        "word": "胡锡进 北京这场大暴雨超出认知",
+        "onboard_time": 1691589097,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92534,
+        "num": 95277,
+        "word": "莲花楼自来水",
+        "onboard_time": 1691595694,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89720,
+        "num": 95267,
+        "word": "SMTOWN回应不知道边伯贤开公司",
+        "onboard_time": 1691592520,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68212,
+        "num": 95258,
+        "word": "我已经没兴趣给别人留个好印象了",
+        "onboard_time": 1691591321,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 63676,
+        "num": 95254,
+        "word": "最怕别人问我哪个学校的",
+        "onboard_time": 1691590418,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59365,
+        "num": 95251,
+        "word": "院长被抓后该院人均就医成本降1400元",
+        "onboard_time": 1691576434,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50835,
+        "num": 95244,
+        "word": "原来裤子这里是这么用的",
+        "onboard_time": 1691588378,
+        "rank": 49,
+        "category": "幽默,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动建设平等有序的多极世界#"
+    }
+  }
+}

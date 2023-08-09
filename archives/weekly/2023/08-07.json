@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691601337241,
+  "endTime": 1691602432993,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -963,6 +963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1312567,
+      "num": 1312567,
+      "word": "jiejie",
+      "onboard_time": 1691598510,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1307674,
       "num": 819868,
       "word": "王源回应TFBOYS时隔两年没开演唱会",
@@ -977,14 +985,6 @@
       "onboard_time": 1691385819,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1303845,
-      "num": 1303845,
-      "word": "jiejie",
-      "onboard_time": 1691598510,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 1266157,
@@ -4651,6 +4651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348216,
+      "num": 292406,
+      "word": "男子捡到超大野生菌一锅炖不下",
+      "onboard_time": 1691599167,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347972,
       "num": 347972,
       "word": "张元英接发了",
@@ -5313,14 +5321,6 @@
       "onboard_time": 1691501303,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 292406,
-      "num": 292406,
-      "word": "男子捡到超大野生菌一锅炖不下",
-      "onboard_time": 1691599167,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291262,
@@ -7347,6 +7347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182734,
+      "num": 182734,
+      "word": "女子地铁强行要人给女儿让座被拒大骂",
+      "onboard_time": 1691600484,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182690,
       "num": 542738,
       "word": "男童见老人路边啃食果皮赠其西瓜",
@@ -7673,6 +7681,14 @@
       "onboard_time": 1691577817,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151982,
+      "num": 151982,
+      "word": "四川山东两地凌晨地震",
+      "onboard_time": 1691600724,
+      "rank": 49,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 150733,
@@ -8067,14 +8083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100091,
-      "num": 147179,
-      "word": "女子地铁强行要人给女儿让座被拒大骂",
-      "onboard_time": 1691600484,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99315,
       "num": 150911,
       "word": "小企鹅们集体背着书包出来了",
@@ -8153,6 +8161,14 @@
       "onboard_time": 1691586275,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84454,
+      "num": 95347,
+      "word": "唯二正确的睡姿",
+      "onboard_time": 1691600304,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 82516,
@@ -8289,14 +8305,6 @@
       "onboard_time": 1691414378,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58761,
-      "num": 147048,
-      "word": "四川山东两地凌晨地震",
-      "onboard_time": 1691600724,
-      "rank": 49,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 58599,
