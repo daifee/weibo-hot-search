@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691585546059,
+  "endTime": 1691587299356,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -43,6 +43,14 @@
       "category": "体育,财经"
     },
     {
+      "raw_hot": 2157719,
+      "num": 2157719,
+      "word": "莲花楼破万",
+      "onboard_time": 1691584955,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2071000,
       "num": 2071000,
       "word": "虞书欣凌妙妙造型",
@@ -65,14 +73,6 @@
       "onboard_time": 1691545416,
       "rank": 42,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 2009853,
-      "num": 2009853,
-      "word": "莲花楼破万",
-      "onboard_time": 1691584955,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1920889,
@@ -179,12 +179,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1347162,
+      "num": 1347162,
+      "word": "去泰国尽量别用信用卡",
+      "onboard_time": 1691580215,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 1287063,
+      "num": 555546,
+      "word": "迪丽热巴说到底是谁在跟我抢票",
+      "onboard_time": 1691585615,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1269442,
       "num": 1269442,
       "word": "女子2百多网购却被花呗扣款3千多",
       "onboard_time": 1691505223,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1260121,
+      "num": 650326,
+      "word": "都是王菲玩剩下的",
+      "onboard_time": 1691580515,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 1224262,
@@ -235,22 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1132530,
-      "num": 1132530,
-      "word": "去泰国尽量别用信用卡",
-      "onboard_time": 1691580215,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 1126895,
-      "num": 650326,
-      "word": "都是王菲玩剩下的",
-      "onboard_time": 1691580515,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1124749,
       "num": 392048,
       "word": "李飞已经当上爷爷了",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 1055592,
-      "num": 380301,
+      "num": 446703,
       "word": "裸考考上了意大利的公务员",
       "onboard_time": 1691578115,
       "rank": 20,
@@ -361,6 +369,14 @@
       "onboard_time": 1691577994,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 959196,
+      "num": 517141,
+      "word": "网友给王诗龄P眉毛",
+      "onboard_time": 1691584774,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 952649,
@@ -523,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 745120,
+      "num": 745120,
+      "word": "北大教授称我国目前收入水平还是太低",
+      "onboard_time": 1691585914,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 737852,
       "num": 737852,
       "word": "7月广东新增报告115例猴痘病例",
@@ -609,6 +633,14 @@
       "onboard_time": 1691562755,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 701086,
+      "num": 701086,
+      "word": "小夭扮回玟小六",
+      "onboard_time": 1691586275,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 694957,
@@ -763,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 608882,
+      "num": 554800,
+      "word": "成毅好牛的50秒",
+      "onboard_time": 1691584354,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 604831,
       "num": 388427,
       "word": "王一博说我已经做好了演员的工作",
@@ -867,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 555969,
+      "num": 555969,
+      "word": "刚出生一个月的小水獭有多萌",
+      "onboard_time": 1691581416,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 545904,
       "num": 545904,
       "word": "费翔专治恋爱脑",
@@ -883,12 +931,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 534106,
+      "num": 534106,
+      "word": "一名殡葬专业学生的课表",
+      "onboard_time": 1691585914,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 526368,
       "num": 526368,
       "word": "终于知道蓝色口红都卖给谁了",
       "onboard_time": 1691571456,
       "rank": 32,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 520599,
+      "num": 520599,
+      "word": "长相思明天加更两集",
+      "onboard_time": 1691586095,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 516143,
@@ -1019,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 469581,
-      "num": 469581,
-      "word": "成毅好牛的50秒",
-      "onboard_time": 1691584354,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 465004,
       "num": 321343,
       "word": "丰隆 等着我们感情升温吧",
@@ -1051,11 +1107,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 457653,
+      "num": 286247,
+      "word": "怪不得耳鼻咽喉分在同一个科室",
+      "onboard_time": 1691585672,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 453187,
       "num": 453187,
       "word": "莲花楼有自己的年世兰",
       "onboard_time": 1691573198,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 442977,
+      "num": 442977,
+      "word": "李相夷剑断人亡",
+      "onboard_time": 1691587056,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -1105,14 +1177,6 @@
       "onboard_time": 1691584474,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 430892,
-      "num": 430892,
-      "word": "刚出生一个月的小水獭有多萌",
-      "onboard_time": 1691581416,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 428931,
@@ -1185,14 +1249,6 @@
       "onboard_time": 1691538271,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 400751,
-      "num": 217437,
-      "word": "网友给王诗龄P眉毛",
-      "onboard_time": 1691584774,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 399341,
@@ -1291,6 +1347,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 365023,
+      "num": 285204,
+      "word": "赤水丰隆给了涂山璟一拳",
+      "onboard_time": 1691585312,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360322,
       "num": 343767,
       "word": "一个男人到40岁都没明白很多事情",
@@ -1321,6 +1385,14 @@
       "onboard_time": 1691571397,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346904,
+      "num": 346904,
+      "word": "kt",
+      "onboard_time": 1691586275,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 346221,
@@ -1561,14 +1633,6 @@
       "onboard_time": 1691581775,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285077,
-      "num": 213720,
-      "word": "赤水丰隆给了涂山璟一拳",
-      "onboard_time": 1691585312,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 281711,
@@ -1843,6 +1907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237016,
+      "num": 237016,
+      "word": "看小夭的四种人",
+      "onboard_time": 1691586936,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237001,
       "num": 237001,
       "word": "外卖员被撞倒地好心大哥帮其遮掩",
@@ -2049,6 +2121,22 @@
       "onboard_time": 1691574639,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 211158,
+      "num": 216380,
+      "word": "不小心把雪糕放生了",
+      "onboard_time": 1691584593,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 210781,
+      "num": 210781,
+      "word": "椰树直播间全员跳广场舞",
+      "onboard_time": 1691586816,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210050,
@@ -2289,14 +2377,6 @@
       "onboard_time": 1691551241,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190795,
-      "num": 216380,
-      "word": "不小心把雪糕放生了",
-      "onboard_time": 1691584593,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 188827,
@@ -2651,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84685,
+      "num": 542738,
+      "word": "男童见老人路边啃食果皮赠其西瓜",
+      "onboard_time": 1691586034,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80395,
       "num": 506315,
       "word": "你的每个瞬间他都小心收藏",
@@ -2683,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72576,
+      "num": 1048258,
+      "word": "预拨10亿元对蓄滞洪区水毁损失予以补偿",
+      "onboard_time": 1691587056,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71413,
       "num": 1679081,
       "word": "洪涝灾害发生后注意卫生安全",
@@ -2712,6 +2808,14 @@
       "word": "环境减灾二号06星成功发射",
       "onboard_time": 1691555080,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53242,
+      "num": 517693,
+      "word": "哪一瞬间让你为中国汽车自豪",
+      "onboard_time": 1691586275,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
