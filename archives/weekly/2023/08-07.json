@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691558159933,
+  "endTime": 1691559229305,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1596348,
+      "num": 1596348,
+      "word": "女儿不需要报销妈妈感慨自己没用了",
+      "onboard_time": 1691551538,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1591502,
       "num": 1591502,
       "word": "嫡谋 杨紫龚俊",
@@ -545,14 +553,6 @@
       "onboard_time": 1691384323,
       "rank": 18,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 1565999,
-      "num": 1565999,
-      "word": "女儿不需要报销妈妈感慨自己没用了",
-      "onboard_time": 1691551538,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1557819,
@@ -601,6 +601,14 @@
       "onboard_time": 1691483377,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1511801,
+      "num": 1336603,
+      "word": "曺圭贤去打了九价疫苗",
+      "onboard_time": 1691556700,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1481459,
@@ -793,14 +801,6 @@
       "onboard_time": 1691364576,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1336603,
-      "num": 1336603,
-      "word": "曺圭贤去打了九价疫苗",
-      "onboard_time": 1691556700,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1320385,
@@ -1379,6 +1379,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 871620,
+      "num": 871620,
+      "word": "唐三为i做e",
+      "onboard_time": 1691555262,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 871179,
       "num": 871179,
       "word": "泰娱的风吹到青岛了",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1691556884,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 847015,
-      "num": 847015,
-      "word": "唐三为i做e",
-      "onboard_time": 1691555262,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 843504,
@@ -1803,6 +1803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 706350,
+      "num": 669112,
+      "word": "能不能好好设计卫生巾的护翼",
+      "onboard_time": 1691554239,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 704028,
       "num": 704028,
       "word": "错觉式分手",
@@ -2065,6 +2073,22 @@
       "onboard_time": 1691481039,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 631594,
+      "num": 631594,
+      "word": "雅安",
+      "onboard_time": 1691557179,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625857,
+      "num": 625857,
+      "word": "邓为认证涂山璟是纯爱战狐",
+      "onboard_time": 1691555741,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 623804,
@@ -2379,14 +2403,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 559184,
-      "num": 505253,
-      "word": "邓为认证涂山璟是纯爱战狐",
-      "onboard_time": 1691555741,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 558019,
       "num": 558019,
       "word": "王俊凯又来秀操作了",
@@ -2691,14 +2707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 494120,
-      "num": 494120,
-      "word": "能不能好好设计卫生巾的护翼",
-      "onboard_time": 1691554239,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 492590,
       "num": 467694,
       "word": "王一博出发泰国机场路透",
@@ -2761,6 +2769,14 @@
       "onboard_time": 1691452295,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 486017,
+      "num": 486017,
+      "word": "TFBOYS为王俊凯新歌做宣传",
+      "onboard_time": 1691558857,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 483673,
@@ -3328,6 +3344,14 @@
       "word": "永夜星河",
       "onboard_time": 1691549438,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 402841,
+      "num": 402841,
+      "word": "黄晓明还是那个打字速度",
+      "onboard_time": 1691556764,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -4011,6 +4035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 313409,
+      "num": 313409,
+      "word": "邓为涂山璟登顶角色吸粉榜",
+      "onboard_time": 1691558437,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312724,
       "num": 235674,
       "word": "阎月明逝世",
@@ -4105,14 +4137,6 @@
       "onboard_time": 1691461955,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 305246,
-      "num": 305246,
-      "word": "雅安",
-      "onboard_time": 1691557179,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305028,
@@ -4313,14 +4337,6 @@
       "onboard_time": 1691403759,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286920,
-      "num": 286920,
-      "word": "黄晓明还是那个打字速度",
-      "onboard_time": 1691556764,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 285659,
@@ -5163,6 +5179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218330,
+      "num": 218330,
+      "word": "乌尔善工地版头像",
+      "onboard_time": 1691558258,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217929,
       "num": 217929,
       "word": "杨超越新剧七世标题",
@@ -5217,6 +5241,14 @@
       "onboard_time": 1691473962,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212491,
+      "num": 212491,
+      "word": "雇佣人生 人人都是工具",
+      "onboard_time": 1691558258,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 212393,
@@ -5524,7 +5556,7 @@
     },
     {
       "raw_hot": 196457,
-      "num": 196457,
+      "num": 208751,
       "word": "优酷会员11周年",
       "onboard_time": 1691557420,
       "rank": 43,
@@ -5633,6 +5665,14 @@
       "onboard_time": 1691551241,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191113,
+      "num": 211748,
+      "word": "医药反腐",
+      "onboard_time": 1691558737,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190551,
@@ -5875,6 +5915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172480,
+      "num": 210072,
+      "word": "三只猫忽然叼着玩具进入警戒模式",
+      "onboard_time": 1691558196,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171877,
       "num": 207809,
       "word": "TTG发布严正声明",
@@ -5969,6 +6017,14 @@
       "onboard_time": 1691541097,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159306,
+      "num": 208169,
+      "word": "袁泉杨紫穿拖鞋放烟花",
+      "onboard_time": 1691559159,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 154928,
