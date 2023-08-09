@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691580846149,
+  "endTime": 1691584523591,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2099,6 +2099,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1445787,
+      "num": 1445787,
+      "word": "骆旭东被追记个人一等功",
+      "onboard_time": 1691582736,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1444805,
       "num": 1444805,
       "word": "江苏人的身份证",
@@ -3211,6 +3219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1118069,
+      "num": 1118069,
+      "word": "去泰国尽量别用信用卡",
+      "onboard_time": 1691580215,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1117455,
       "num": 597603,
       "word": "内娱最好哄的就是四叶草了",
@@ -3707,6 +3723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1022027,
+      "num": 1022027,
+      "word": "涂山璟说小夭太诱人了",
+      "onboard_time": 1691580334,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1020577,
       "num": 1020577,
       "word": "李现捐款100万驰援黑龙江灾区",
@@ -3937,6 +3961,14 @@
       "onboard_time": 1691200355,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 983994,
+      "num": 649820,
+      "word": "都是王菲玩剩下的",
+      "onboard_time": 1691580515,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 983431,
@@ -4851,6 +4883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 853048,
+      "num": 853048,
+      "word": "中央财政紧急预拨10亿元",
+      "onboard_time": 1691579555,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 852487,
       "num": 510056,
       "word": "张大大也去看TFBOYS演唱会吗",
@@ -4977,6 +5017,14 @@
       "onboard_time": 1690899877,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 835569,
+      "num": 835569,
+      "word": "莲花楼结局",
+      "onboard_time": 1691582017,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 835431,
@@ -7611,6 +7659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 602163,
+      "num": 366819,
+      "word": "杨超越发了87个自己",
+      "onboard_time": 1691583032,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 601157,
       "num": 601157,
       "word": "迪丽热巴檀健次白发造型",
@@ -8059,6 +8115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 582208,
+      "num": 582208,
+      "word": "徐杰",
+      "onboard_time": 1691579915,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 582195,
       "num": 582195,
       "word": "养猫人不适合穿破洞裤",
@@ -8393,14 +8457,6 @@
       "onboard_time": 1691066675,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 558600,
-      "num": 659751,
-      "word": "中央财政紧急预拨10亿元",
-      "onboard_time": 1691579555,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 558496,
@@ -9233,6 +9289,14 @@
       "onboard_time": 1691284478,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515709,
+      "num": 515709,
+      "word": "丰隆无妻徒刑",
+      "onboard_time": 1691580454,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 515430,
@@ -10225,6 +10289,14 @@
       "onboard_time": 1690846168,
       "rank": 25,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 465004,
+      "num": 321343,
+      "word": "丰隆 等着我们感情升温吧",
+      "onboard_time": 1691582435,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 465003,
@@ -11899,6 +11971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392594,
+      "num": 392594,
+      "word": "刚出生一个月的小水獭有多萌",
+      "onboard_time": 1691581416,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 392440,
       "num": 358497,
       "word": "长期缺爱的人有什么表现",
@@ -13043,14 +13123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 350937,
-      "num": 350937,
-      "word": "徐杰",
-      "onboard_time": 1691579915,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 350773,
       "num": 243952,
       "word": "张惠妹北京",
@@ -13323,6 +13395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341876,
+      "num": 341876,
+      "word": "比亚迪发布会",
+      "onboard_time": 1691582255,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 341432,
       "num": 420254,
       "word": "新疆商户凌晨4点赶制2100份馕驰援涞水",
@@ -13449,14 +13529,6 @@
       "onboard_time": 1691116295,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 337231,
-      "num": 337231,
-      "word": "涂山璟说小夭太诱人了",
-      "onboard_time": 1691580334,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 336911,
@@ -13721,6 +13793,14 @@
       "onboard_time": 1691413658,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 325203,
+      "num": 325203,
+      "word": "李玟二姐刊登谢启",
+      "onboard_time": 1691582137,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 325165,
@@ -14259,14 +14339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309370,
-      "num": 309370,
-      "word": "都是王菲玩剩下的",
-      "onboard_time": 1691580515,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309357,
       "num": 309357,
       "word": "土笋冻居然属于海鲜",
@@ -14536,6 +14608,14 @@
       "word": "檀健次长相思一秒变脸",
       "onboard_time": 1691459853,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 303714,
+      "num": 303714,
+      "word": "封神第一部如何票房逆袭",
+      "onboard_time": 1691579797,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -15267,6 +15347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284374,
+      "num": 240458,
+      "word": "心动的信号",
+      "onboard_time": 1690977515,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284132,
       "num": 284132,
       "word": "玉玲珑是苏妲己吧",
@@ -15827,6 +15915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267004,
+      "num": 212977,
+      "word": "成毅好牛的50秒",
+      "onboard_time": 1691584354,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266828,
       "num": 189030,
       "word": "长相思非演员粉的观众都是被什么吸引来",
@@ -15984,14 +16080,6 @@
       "word": "没有人告诉我邓为这么好笑",
       "onboard_time": 1690978834,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 262739,
-      "num": 262739,
-      "word": "封神第一部如何票房逆袭",
-      "onboard_time": 1691579797,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -16523,6 +16611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248666,
+      "num": 329606,
+      "word": "线下榜一大姐直接上台打赏演员",
+      "onboard_time": 1691580695,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248295,
       "num": 248295,
       "word": "大鹏说很心疼王一博",
@@ -16665,14 +16761,6 @@
       "onboard_time": 1690961856,
       "rank": 35,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 245927,
-      "num": 245927,
-      "word": "去泰国尽量别用信用卡",
-      "onboard_time": 1691580215,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 245907,
@@ -16859,6 +16947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241613,
+      "num": 303935,
+      "word": "余华老师真的不内耗",
+      "onboard_time": 1691579254,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241527,
       "num": 241527,
       "word": "长安三万里都火到了什么圈",
@@ -16929,14 +17025,6 @@
       "onboard_time": 1691067274,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 240458,
-      "num": 240458,
-      "word": "心动的信号",
-      "onboard_time": 1690977515,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 240413,
@@ -17907,6 +17995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219776,
+      "num": 219776,
+      "word": "猫猫的嘴被熏成了TypeC",
+      "onboard_time": 1691581835,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219763,
       "num": 347964,
       "word": "美国女足",
@@ -18107,6 +18203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216349,
+      "num": 209259,
+      "word": "檀健次相柳微表情",
+      "onboard_time": 1691584474,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216269,
       "num": 819335,
       "word": "买了不一样的泳帽去河里游泳",
@@ -18203,6 +18307,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 214500,
+      "num": 208508,
+      "word": "涂山璟小夭烟火吻",
+      "onboard_time": 1691584172,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214463,
       "num": 214463,
       "word": "不是每个人都适合竞争",
@@ -18233,14 +18345,6 @@
       "onboard_time": 1690942530,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214098,
-      "num": 214098,
-      "word": "丰隆无妻徒刑",
-      "onboard_time": 1691580454,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 213994,
@@ -18611,6 +18715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208359,
+      "num": 208359,
+      "word": "杨超越祥云仙子观云台",
+      "onboard_time": 1691584114,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208319,
       "num": 209962,
       "word": "松鼠会用它们的尾巴当做伞",
@@ -18825,6 +18937,14 @@
       "onboard_time": 1691267298,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205123,
+      "num": 208349,
+      "word": "莲花楼番外",
+      "onboard_time": 1691584474,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 204994,
@@ -19305,14 +19425,6 @@
       "onboard_time": 1691496515,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198765,
-      "num": 198765,
-      "word": "余华老师真的不内耗",
-      "onboard_time": 1691579254,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198612,
@@ -19881,6 +19993,14 @@
       "onboard_time": 1691193270,
       "rank": 42,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 191973,
+      "num": 211533,
+      "word": "洗衣机洗出一锅米饭",
+      "onboard_time": 1691582137,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 191875,
@@ -20739,6 +20859,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 172188,
+      "num": 208322,
+      "word": "KSG对战TES",
+      "onboard_time": 1691583213,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172101,
       "num": 172101,
       "word": "张译热烈观后感",
@@ -21065,6 +21193,14 @@
       "onboard_time": 1691408015,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161126,
+      "num": 208294,
+      "word": "父母给新生儿送的两件礼物",
+      "onboard_time": 1691583032,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 161119,
@@ -22832,6 +22968,14 @@
       "word": "环境减灾二号06星成功发射",
       "onboard_time": 1691555080,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53121,
+      "num": 537716,
+      "word": "帕金森大叔自力更生摆摊卖棕编",
+      "onboard_time": 1691582435,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

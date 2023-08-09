@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691580846149,
+  "endTime": 1691584523591,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -139,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1445787,
+      "num": 1445787,
+      "word": "骆旭东被追记个人一等功",
+      "onboard_time": 1691582736,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1432777,
       "num": 1432777,
       "word": "取消公摊是大势所趋吗",
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1118069,
+      "num": 1118069,
+      "word": "去泰国尽量别用信用卡",
+      "onboard_time": 1691580215,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1108119,
       "num": 1108119,
       "word": "杨幂说我绝不回头",
@@ -275,6 +291,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1022027,
+      "num": 1022027,
+      "word": "涂山璟说小夭太诱人了",
+      "onboard_time": 1691580334,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1020577,
       "num": 1020577,
       "word": "李现捐款100万驰援黑龙江灾区",
@@ -297,6 +321,14 @@
       "onboard_time": 1691554239,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 983994,
+      "num": 649820,
+      "word": "都是王菲玩剩下的",
+      "onboard_time": 1691580515,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 979848,
@@ -363,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 853048,
+      "num": 853048,
+      "word": "中央财政紧急预拨10亿元",
+      "onboard_time": 1691579555,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 849115,
       "num": 849115,
       "word": "王鹤棣 娇兰",
@@ -385,6 +425,14 @@
       "onboard_time": 1691563834,
       "rank": 17,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 835569,
+      "num": 835569,
+      "word": "莲花楼结局",
+      "onboard_time": 1691582017,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 823916,
@@ -715,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602163,
+      "num": 366819,
+      "word": "杨超越发了87个自己",
+      "onboard_time": 1691583032,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 589438,
       "num": 1711540,
       "word": "4名学生考上211村委每人奖1万",
@@ -737,6 +793,14 @@
       "onboard_time": 1691564914,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 582208,
+      "num": 582208,
+      "word": "徐杰",
+      "onboard_time": 1691579915,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 577099,
@@ -763,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 567187,
+      "num": 567187,
+      "word": "莲花楼",
+      "onboard_time": 1691569714,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 563941,
       "num": 563941,
       "word": "杨紫回应小夭相柳是不是相爱",
@@ -777,14 +849,6 @@
       "onboard_time": 1691539052,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 558600,
-      "num": 659751,
-      "word": "中央财政紧急预拨10亿元",
-      "onboard_time": 1691579555,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 557331,
@@ -825,6 +889,14 @@
       "onboard_time": 1691546195,
       "rank": 13,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 515709,
+      "num": 515709,
+      "word": "丰隆无妻徒刑",
+      "onboard_time": 1691580454,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 514216,
@@ -939,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 465004,
+      "num": 321343,
+      "word": "丰隆 等着我们感情升温吧",
+      "onboard_time": 1691582435,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 462726,
       "num": 462726,
       "word": "王姬杀了他们三个吧",
@@ -953,14 +1033,6 @@
       "onboard_time": 1691542540,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 454590,
-      "num": 454590,
-      "word": "莲花楼",
-      "onboard_time": 1691569714,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 453187,
@@ -1091,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392594,
+      "num": 392594,
+      "word": "刚出生一个月的小水獭有多萌",
+      "onboard_time": 1691581416,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 388015,
       "num": 388015,
       "word": "长相思毛不易还没开始唱",
@@ -1187,14 +1267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 350937,
-      "num": 350937,
-      "word": "徐杰",
-      "onboard_time": 1691579915,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 350655,
       "num": 389102,
       "word": "五月天成都",
@@ -1227,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341876,
+      "num": 341876,
+      "word": "比亚迪发布会",
+      "onboard_time": 1691582255,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 340463,
       "num": 340463,
       "word": "张艺兴回复王子异说谢谢bro",
@@ -1243,20 +1323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 337231,
-      "num": 337231,
-      "word": "涂山璟说小夭太诱人了",
-      "onboard_time": 1691580334,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325875,
       "num": 315179,
       "word": "外国游客吐槽西湖矿泉水6元1瓶太贵",
       "onboard_time": 1691538090,
       "rank": 26,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 325203,
+      "num": 325203,
+      "word": "李玟二姐刊登谢启",
+      "onboard_time": 1691582137,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 322917,
@@ -1323,20 +1403,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 309370,
-      "num": 309370,
-      "word": "都是王菲玩剩下的",
-      "onboard_time": 1691580515,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 308243,
       "num": 308243,
       "word": "三只猫忽然叼着玩具进入警戒模式",
       "onboard_time": 1691558196,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 303714,
+      "num": 303714,
+      "word": "封神第一部如何票房逆袭",
+      "onboard_time": 1691579797,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 300411,
@@ -1435,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284374,
+      "num": 213343,
+      "word": "心动的信号",
+      "onboard_time": 1691581775,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281711,
       "num": 281711,
       "word": "Bin哥晒和TheShy合照",
@@ -1507,19 +1595,19 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 267004,
+      "num": 212977,
+      "word": "成毅好牛的50秒",
+      "onboard_time": 1691584354,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265758,
       "num": 265758,
       "word": "姬发和殷郊 e人领养i人",
       "onboard_time": 1691564613,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 262739,
-      "num": 262739,
-      "word": "封神第一部如何票房逆袭",
-      "onboard_time": 1691579797,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -1595,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248666,
+      "num": 329606,
+      "word": "线下榜一大姐直接上台打赏演员",
+      "onboard_time": 1691580695,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248295,
       "num": 248295,
       "word": "大鹏说很心疼王一博",
@@ -1635,14 +1731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245927,
-      "num": 245927,
-      "word": "去泰国尽量别用信用卡",
-      "onboard_time": 1691580215,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 244067,
       "num": 228182,
       "word": "张碧晨上海演唱会官宣",
@@ -1672,6 +1760,14 @@
       "word": "专家解读7月猴痘病例突增原因",
       "onboard_time": 1691570379,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241613,
+      "num": 303935,
+      "word": "余华老师真的不内耗",
+      "onboard_time": 1691579254,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1819,6 +1915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219776,
+      "num": 219776,
+      "word": "猫猫的嘴被熏成了TypeC",
+      "onboard_time": 1691581835,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219104,
       "num": 219104,
       "word": "多场医药学术会议宣布延期",
@@ -1835,12 +1939,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216349,
+      "num": 209259,
+      "word": "檀健次相柳微表情",
+      "onboard_time": 1691584474,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214816,
       "num": 214816,
       "word": "胡锡进 雅安河道为何会突然涨水",
       "onboard_time": 1691572721,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214500,
+      "num": 208508,
+      "word": "涂山璟小夭烟火吻",
+      "onboard_time": 1691584172,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 214491,
@@ -1857,14 +1977,6 @@
       "onboard_time": 1691540859,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 214098,
-      "num": 214098,
-      "word": "丰隆无妻徒刑",
-      "onboard_time": 1691580454,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 212491,
@@ -1931,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208359,
+      "num": 208359,
+      "word": "杨超越祥云仙子观云台",
+      "onboard_time": 1691584114,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208187,
       "num": 208187,
       "word": "濯海破浪",
@@ -1961,6 +2081,14 @@
       "onboard_time": 1691553519,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205123,
+      "num": 208349,
+      "word": "莲花楼番外",
+      "onboard_time": 1691584474,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 204474,
@@ -2035,14 +2163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198765,
-      "num": 198765,
-      "word": "余华老师真的不内耗",
-      "onboard_time": 1691579254,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198423,
       "num": 198423,
       "word": "盟固利",
@@ -2105,6 +2225,14 @@
       "onboard_time": 1691550157,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191973,
+      "num": 211533,
+      "word": "洗衣机洗出一锅米饭",
+      "onboard_time": 1691582137,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 191788,
@@ -2195,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172188,
+      "num": 208322,
+      "word": "KSG对战TES",
+      "onboard_time": 1691583213,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172101,
       "num": 172101,
       "word": "张译热烈观后感",
@@ -2241,6 +2377,14 @@
       "onboard_time": 1691562333,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161126,
+      "num": 208294,
+      "word": "父母给新生儿送的两件礼物",
+      "onboard_time": 1691583032,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 159599,
@@ -2496,6 +2640,14 @@
       "word": "环境减灾二号06星成功发射",
       "onboard_time": 1691555080,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53121,
+      "num": 537716,
+      "word": "帕金森大叔自力更生摆摊卖棕编",
+      "onboard_time": 1691582435,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
