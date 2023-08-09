@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691562909275,
+  "endTime": 1691565369970,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 1574609,
-      "num": 539918,
+      "num": 625242,
       "word": "TFBOYS为王俊凯新歌做宣传",
       "onboard_time": 1691558857,
       "rank": 13,
@@ -948,7 +948,7 @@
     },
     {
       "raw_hot": 1164077,
-      "num": 388938,
+      "num": 402052,
       "word": "男子强奸13岁女孩致死案二审维持死刑",
       "onboard_time": 1691544218,
       "rank": 21,
@@ -1452,7 +1452,7 @@
     },
     {
       "raw_hot": 843504,
-      "num": 388473,
+      "num": 439928,
       "word": "我的电脑壁纸被领导发朋友圈了",
       "onboard_time": 1691553882,
       "rank": 24,
@@ -1571,6 +1571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 806941,
+      "num": 806941,
+      "word": "中国风终于吹到了国漫",
+      "onboard_time": 1691561197,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 800909,
       "num": 448859,
       "word": "杨幂唐嫣TFBOYS早期视频",
@@ -1603,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 792056,
+      "num": 617789,
+      "word": "小朋友用电话手表拍白鹿",
+      "onboard_time": 1691562277,
+      "rank": 34,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 786783,
       "num": 621009,
       "word": "时代少年团演唱会什么时候官宣",
@@ -1619,6 +1635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 783044,
+      "num": 783044,
+      "word": "医药反腐",
+      "onboard_time": 1691558737,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782443,
       "num": 782443,
       "word": "小夭也没有见过真正的涂山璟",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1691405855,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 768454,
+      "num": 608583,
+      "word": "于适微博简介",
+      "onboard_time": 1691560835,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 764015,
@@ -1875,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 689541,
-      "num": 518145,
-      "word": "于适微博简介",
-      "onboard_time": 1691560835,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 687305,
       "num": 687305,
       "word": "小夭知道防风邶是相柳了",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1691482236,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 673561,
+      "num": 673561,
+      "word": "A股",
+      "onboard_time": 1691375613,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 667809,
@@ -2123,6 +2155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 630860,
+      "num": 630860,
+      "word": "宋雨琦真的在舞台上发光",
+      "onboard_time": 1691561856,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 625857,
       "num": 625857,
       "word": "邓为认证涂山璟是纯爱战狐",
@@ -2145,14 +2185,6 @@
       "onboard_time": 1691323387,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 621453,
-      "num": 621453,
-      "word": "医药反腐",
-      "onboard_time": 1691558737,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 621262,
@@ -2217,6 +2249,14 @@
       "onboard_time": 1691483557,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 606522,
+      "num": 606522,
+      "word": "医院采购47万药医生回扣拿15万",
+      "onboard_time": 1691563834,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 604831,
@@ -2385,6 +2425,14 @@
       "onboard_time": 1691469400,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 573762,
+      "num": 573762,
+      "word": "拿铁效应",
+      "onboard_time": 1691563834,
+      "rank": 17,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 570976,
@@ -2603,6 +2651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 526933,
+      "num": 440951,
+      "word": "杨幂说我绝不回头",
+      "onboard_time": 1691564373,
+      "rank": 20,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 526295,
       "num": 526295,
       "word": "看了三喜马立奥才知道的事",
@@ -2731,14 +2787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 504971,
-      "num": 504971,
-      "word": "中国风终于吹到了国漫",
-      "onboard_time": 1691561197,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 499938,
       "num": 499938,
       "word": "2023日本最帅最美的初中生",
@@ -2777,14 +2825,6 @@
       "onboard_time": 1691392175,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 492034,
-      "num": 424195,
-      "word": "A股",
-      "onboard_time": 1691375613,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 491255,
@@ -3169,6 +3209,14 @@
       "onboard_time": 1691401840,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429380,
+      "num": 429380,
+      "word": "不要跟男朋友去涂石膏娃娃",
+      "onboard_time": 1691564314,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 428750,
@@ -3667,14 +3715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 374325,
-      "num": 374325,
-      "word": "宋雨琦真的在舞台上发光",
-      "onboard_time": 1691561856,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 374236,
       "num": 336285,
       "word": "涂山璟说哄好小夭了",
@@ -3744,6 +3784,14 @@
       "word": "孙阳好帅",
       "onboard_time": 1691422898,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 363403,
+      "num": 363403,
+      "word": "没认出这是张艺凡",
+      "onboard_time": 1691564914,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -3875,6 +3923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347093,
+      "num": 347093,
+      "word": "娜扎回应关评论",
+      "onboard_time": 1691565034,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345395,
       "num": 327274,
       "word": "莲花楼婚礼变葬礼",
@@ -3937,6 +3993,14 @@
       "onboard_time": 1691504501,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 331187,
+      "num": 331187,
+      "word": "长相思三位男主的第一次",
+      "onboard_time": 1691564794,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 327786,
@@ -4065,6 +4129,14 @@
       "onboard_time": 1691514145,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 316181,
+      "num": 316181,
+      "word": "HYBE下半年艺人回归阵容",
+      "onboard_time": 1691562873,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 316177,
@@ -4379,6 +4451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289055,
+      "num": 285199,
+      "word": "长相思观众是懂总结的",
+      "onboard_time": 1691564253,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288010,
       "num": 234677,
       "word": "杨紫张晚意片场烧烤花絮",
@@ -4635,6 +4715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265758,
+      "num": 265758,
+      "word": "姬发和殷郊 e人领养i人",
+      "onboard_time": 1691564613,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264855,
       "num": 226678,
       "word": "十个勤天直播",
@@ -4883,6 +4971,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 248254,
+      "num": 248254,
+      "word": "四川雅安一河道涨水已致7人遇难",
+      "onboard_time": 1691563474,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246069,
       "num": 821893,
       "word": "旭旭宝宝签约抖音",
@@ -5059,6 +5155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233412,
+      "num": 233412,
+      "word": "四川一河流突涨有人员伤亡",
+      "onboard_time": 1691562632,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233315,
       "num": 233315,
       "word": "小夭说防风邶是狗狗邶",
@@ -5113,14 +5217,6 @@
       "onboard_time": 1691401480,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 231709,
-      "num": 231709,
-      "word": "小朋友用电话手表拍白鹿",
-      "onboard_time": 1691562277,
-      "rank": 34,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 230110,
@@ -5233,6 +5329,14 @@
       "onboard_time": 1691407114,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220115,
+      "num": 220115,
+      "word": "张晋蔡少芬为张镐濂拉票",
+      "onboard_time": 1691565278,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 219440,
@@ -5387,6 +5491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210032,
+      "num": 210032,
+      "word": "售后好的影视cp",
+      "onboard_time": 1691564373,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209708,
       "num": 209708,
       "word": "立秋民间有贴秋膘咬秋晒秋习俗",
@@ -5425,6 +5537,14 @@
       "onboard_time": 1691389238,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207979,
+      "num": 207979,
+      "word": "7月中国内地新增报告491例猴痘确诊病例",
+      "onboard_time": 1691565214,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207452,
@@ -5651,6 +5771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197875,
+      "num": 201717,
+      "word": "爱合 别侮辱我的Lisa",
+      "onboard_time": 1691562813,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197625,
       "num": 203745,
       "word": "北京通报特大暴雨灾情",
@@ -5779,14 +5907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191013,
-      "num": 201737,
-      "word": "四川一河流突涨有人员伤亡",
-      "onboard_time": 1691562632,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190551,
       "num": 212725,
       "word": "逛吃济州岛",
@@ -5873,6 +5993,14 @@
       "onboard_time": 1691411735,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185294,
+      "num": 197167,
+      "word": "盘点近几年暑期档爆剧",
+      "onboard_time": 1691565091,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 184493,
@@ -6259,14 +6387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142316,
-      "num": 201717,
-      "word": "爱合 别侮辱我的Lisa",
-      "onboard_time": 1691562813,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141029,
       "num": 209841,
       "word": "莲花楼杀我别用莲花刀",
@@ -6291,12 +6411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138036,
-      "num": 201711,
-      "word": "HYBE下半年艺人回归阵容",
-      "onboard_time": 1691562873,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 137440,
+      "num": 302541,
+      "word": "00后情侣敲诈勒索企业获利50余万",
+      "onboard_time": 1691564974,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136252,
@@ -6857,6 +6977,14 @@
       "onboard_time": 1691429062,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25966,
+      "num": 612640,
+      "word": "拾荒残障小伙向涿州灾区捐献物资",
+      "onboard_time": 1691564432,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25148,

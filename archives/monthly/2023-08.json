@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691562909275,
+  "endTime": 1691565369970,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1780,7 +1780,7 @@
     },
     {
       "raw_hot": 1574609,
-      "num": 539918,
+      "num": 625242,
       "word": "TFBOYS为王俊凯新歌做宣传",
       "onboard_time": 1691558857,
       "rank": 13,
@@ -2908,7 +2908,7 @@
     },
     {
       "raw_hot": 1164077,
-      "num": 388938,
+      "num": 402052,
       "word": "男子强奸13岁女孩致死案二审维持死刑",
       "onboard_time": 1691544218,
       "rank": 21,
@@ -4764,7 +4764,7 @@
     },
     {
       "raw_hot": 843504,
-      "num": 388473,
+      "num": 439928,
       "word": "我的电脑壁纸被领导发朋友圈了",
       "onboard_time": 1691553882,
       "rank": 24,
@@ -5067,6 +5067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 806941,
+      "num": 806941,
+      "word": "中国风终于吹到了国漫",
+      "onboard_time": 1691561197,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 803772,
       "num": 507536,
       "word": "北京卫视",
@@ -5203,6 +5211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 792056,
+      "num": 617789,
+      "word": "小朋友用电话手表拍白鹿",
+      "onboard_time": 1691562277,
+      "rank": 34,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 791461,
       "num": 791461,
       "word": "石家庄暴雨",
@@ -5265,6 +5281,14 @@
       "onboard_time": 1691494057,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 783044,
+      "num": 783044,
+      "word": "医药反腐",
+      "onboard_time": 1691558737,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 782443,
@@ -5369,6 +5393,14 @@
       "onboard_time": 1691287418,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 768454,
+      "num": 608583,
+      "word": "于适微博简介",
+      "onboard_time": 1691560835,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 767873,
@@ -6259,14 +6291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 689541,
-      "num": 518145,
-      "word": "于适微博简介",
-      "onboard_time": 1691560835,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 688968,
       "num": 688968,
       "word": "著名制片人邓细斌去世",
@@ -6457,6 +6481,14 @@
       "onboard_time": 1691022034,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 673561,
+      "num": 673561,
+      "word": "A股",
+      "onboard_time": 1691119597,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 673423,
@@ -6939,6 +6971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 630860,
+      "num": 630860,
+      "word": "宋雨琦真的在舞台上发光",
+      "onboard_time": 1691561856,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 630125,
       "num": 630125,
       "word": "中图网库房被淹近百人被困",
@@ -7025,14 +7065,6 @@
       "onboard_time": 1691021736,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 621453,
-      "num": 621453,
-      "word": "医药反腐",
-      "onboard_time": 1691558737,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 621265,
@@ -7291,20 +7323,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 606522,
+      "num": 606522,
+      "word": "医院采购47万药医生回扣拿15万",
+      "onboard_time": 1691563834,
+      "rank": 16,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 606109,
       "num": 606109,
       "word": "费翔公主抱娜然",
       "onboard_time": 1691073817,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 605940,
-      "num": 605940,
-      "word": "A股",
-      "onboard_time": 1691119597,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 604831,
@@ -7849,6 +7881,14 @@
       "onboard_time": 1691320554,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 573762,
+      "num": 573762,
+      "word": "拿铁效应",
+      "onboard_time": 1691563834,
+      "rank": 17,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 573359,
@@ -8667,6 +8707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526933,
+      "num": 440951,
+      "word": "杨幂说我绝不回头",
+      "onboard_time": 1691564373,
+      "rank": 20,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 526883,
       "num": 526883,
       "word": "乌尔善严选",
@@ -9097,14 +9145,6 @@
       "onboard_time": 1691107052,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 504971,
-      "num": 504971,
-      "word": "中国风终于吹到了国漫",
-      "onboard_time": 1691561197,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 503978,
@@ -10603,6 +10643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429380,
+      "num": 429380,
+      "word": "不要跟男朋友去涂石膏娃娃",
+      "onboard_time": 1691564314,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 428750,
       "num": 646490,
       "word": "苏格兰一女子在自家后院喂了25年狐狸",
@@ -12051,14 +12099,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 374325,
-      "num": 374325,
-      "word": "宋雨琦真的在舞台上发光",
-      "onboard_time": 1691561856,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 374236,
       "num": 336285,
       "word": "涂山璟说哄好小夭了",
@@ -12289,6 +12329,14 @@
       "onboard_time": 1691317843,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363403,
+      "num": 363403,
+      "word": "没认出这是张艺凡",
+      "onboard_time": 1691564914,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 362770,
@@ -12747,6 +12795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347093,
+      "num": 347093,
+      "word": "娜扎回应关评论",
+      "onboard_time": 1691565034,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346680,
       "num": 346680,
       "word": "假如二郎神近视了",
@@ -13153,6 +13209,14 @@
       "onboard_time": 1691032118,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331187,
+      "num": 331187,
+      "word": "长相思三位男主的第一次",
+      "onboard_time": 1691564794,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 330548,
@@ -13569,6 +13633,14 @@
       "onboard_time": 1690797214,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316181,
+      "num": 316181,
+      "word": "HYBE下半年艺人回归阵容",
+      "onboard_time": 1691562873,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 316177,
@@ -14547,6 +14619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289055,
+      "num": 285199,
+      "word": "长相思观众是懂总结的",
+      "onboard_time": 1691564253,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289016,
       "num": 340213,
       "word": "4架陆航直升机赴门头沟开展空投救援",
@@ -15339,6 +15419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265758,
+      "num": 265758,
+      "word": "姬发和殷郊 e人领养i人",
+      "onboard_time": 1691564613,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265414,
       "num": 248890,
       "word": "安乐传彩蛋",
@@ -15961,6 +16049,14 @@
       "onboard_time": 1691542421,
       "rank": 34,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 248254,
+      "num": 248254,
+      "word": "四川雅安一河道涨水已致7人遇难",
+      "onboard_time": 1691563474,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248086,
@@ -16667,6 +16763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233412,
+      "num": 233412,
+      "word": "四川一河流突涨有人员伤亡",
+      "onboard_time": 1691562632,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233315,
       "num": 233315,
       "word": "小夭说防风邶是狗狗邶",
@@ -16737,14 +16841,6 @@
       "onboard_time": 1691401480,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 231709,
-      "num": 231709,
-      "word": "小朋友用电话手表拍白鹿",
-      "onboard_time": 1691562277,
-      "rank": 34,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 231576,
@@ -17241,6 +17337,14 @@
       "onboard_time": 1691159319,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220115,
+      "num": 220115,
+      "word": "张晋蔡少芬为张镐濂拉票",
+      "onboard_time": 1691565278,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 220075,
@@ -17795,6 +17899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210032,
+      "num": 210032,
+      "word": "售后好的影视cp",
+      "onboard_time": 1691564373,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209804,
       "num": 309348,
       "word": "谢永强妈是我的周五发言人",
@@ -17945,6 +18057,14 @@
       "onboard_time": 1691024917,
       "rank": 47,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 207979,
+      "num": 207979,
+      "word": "7月中国内地新增报告491例猴痘确诊病例",
+      "onboard_time": 1691565214,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207793,
@@ -18691,6 +18811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197875,
+      "num": 201717,
+      "word": "爱合 别侮辱我的Lisa",
+      "onboard_time": 1691562813,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197625,
       "num": 203745,
       "word": "北京通报特大暴雨灾情",
@@ -19187,14 +19315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191013,
-      "num": 201737,
-      "word": "四川一河流突涨有人员伤亡",
-      "onboard_time": 1691562632,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191009,
       "num": 191009,
       "word": "TFBOYS新歌8月5日上线",
@@ -19520,6 +19640,14 @@
       "word": "莲花楼一字诗",
       "onboard_time": 1691140172,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185294,
+      "num": 197167,
+      "word": "盘点近几年暑期档爆剧",
+      "onboard_time": 1691565091,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -20707,14 +20835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142316,
-      "num": 201717,
-      "word": "爱合 别侮辱我的Lisa",
-      "onboard_time": 1691562813,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142280,
       "num": 142280,
       "word": "直击南昌八一广场升旗仪式现场",
@@ -20787,12 +20907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138036,
-      "num": 201711,
-      "word": "HYBE下半年艺人回归阵容",
-      "onboard_time": 1691562873,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 137440,
+      "num": 302541,
+      "word": "00后情侣敲诈勒索企业获利50余万",
+      "onboard_time": 1691564974,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137004,
@@ -22296,6 +22416,14 @@
       "word": "市监局回应市民避灾遇酒店涨价",
       "onboard_time": 1691087655,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25966,
+      "num": 612640,
+      "word": "拾荒残障小伙向涿州灾区捐献物资",
+      "onboard_time": 1691564432,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
