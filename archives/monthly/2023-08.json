@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691594398586,
+  "endTime": 1691595254261,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2284,7 +2284,7 @@
     },
     {
       "raw_hot": 1409334,
-      "num": 555546,
+      "num": 755281,
       "word": "迪丽热巴说到底是谁在跟我抢票",
       "onboard_time": 1691585615,
       "rank": 10,
@@ -4259,6 +4259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 949830,
+      "num": 949830,
+      "word": "DK",
+      "onboard_time": 1691592880,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 949473,
       "num": 927830,
       "word": "六岁相柳怒扔奶瓶",
@@ -4473,14 +4481,6 @@
       "onboard_time": 1690980634,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 922476,
-      "num": 922476,
-      "word": "DK",
-      "onboard_time": 1691592880,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 921828,
@@ -5939,6 +5939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752016,
+      "num": 752016,
+      "word": "檀健次在看长相思",
+      "onboard_time": 1691592762,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 751100,
       "num": 406942,
       "word": "被离职问老板尊嘟假嘟",
@@ -6009,6 +6017,14 @@
       "onboard_time": 1691393197,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 747434,
+      "num": 747434,
+      "word": "徐明浩 SEVENTEEN团综",
+      "onboard_time": 1691594198,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 747432,
@@ -6883,6 +6899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 674307,
+      "num": 407054,
+      "word": "宋威龙穿JK",
+      "onboard_time": 1691593240,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 673423,
       "num": 673423,
       "word": "河北暴雨",
@@ -7120,14 +7144,6 @@
       "word": "涂山璟的神识小狐狸",
       "onboard_time": 1691066675,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 649260,
-      "num": 449734,
-      "word": "檀健次在看长相思",
-      "onboard_time": 1691592762,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -7827,14 +7843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 601558,
-      "num": 400730,
-      "word": "宋威龙穿JK",
-      "onboard_time": 1691593240,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 601157,
       "num": 601157,
       "word": "迪丽热巴檀健次白发造型",
@@ -8001,6 +8009,14 @@
       "onboard_time": 1690940014,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591532,
+      "num": 382474,
+      "word": "为什么煮出来的红豆粥是这样",
+      "onboard_time": 1691593480,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 591396,
@@ -10915,6 +10931,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 445597,
+      "num": 765830,
+      "word": "胡锡进 北京这场大暴雨超出认知",
+      "onboard_time": 1691589097,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445556,
       "num": 445556,
       "word": "涂山璟的笑容转移到玱玹的脸上了",
@@ -11024,14 +11048,6 @@
       "word": "洪水中4个月大婴儿被直升机吊起",
       "onboard_time": 1690979137,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440012,
-      "num": 440012,
-      "word": "胡锡进 北京这场大暴雨超出认知",
-      "onboard_time": 1691589097,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -11411,6 +11427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 423403,
+      "num": 380050,
+      "word": "我已经没兴趣给别人留个好印象了",
+      "onboard_time": 1691591321,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 422721,
       "num": 391307,
       "word": "原来小猫也会用离开来试探爱",
@@ -11697,6 +11721,14 @@
       "onboard_time": 1691375254,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 412179,
+      "num": 309291,
+      "word": "长相思小夭的金山",
+      "onboard_time": 1691593719,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 412002,
@@ -12195,14 +12227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 393648,
-      "num": 382474,
-      "word": "为什么煮出来的红豆粥是这样",
-      "onboard_time": 1691593480,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 393096,
       "num": 262754,
       "word": "贾乃亮六万斤大米驰援灾区",
@@ -12635,14 +12659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 378225,
-      "num": 378225,
-      "word": "徐明浩 SEVENTEEN团综",
-      "onboard_time": 1691594198,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 377780,
       "num": 376214,
       "word": "相柳提醒涂山璟找防风意映",
@@ -12825,14 +12841,6 @@
       "onboard_time": 1690894295,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372278,
-      "num": 380050,
-      "word": "我已经没兴趣给别人留个好印象了",
-      "onboard_time": 1691591321,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 372136,
@@ -16204,7 +16212,7 @@
     },
     {
       "raw_hot": 267550,
-      "num": 281193,
+      "num": 302819,
       "word": "不是所有蔬果都适合放冰箱",
       "onboard_time": 1691588017,
       "rank": 29,
@@ -16932,7 +16940,7 @@
     },
     {
       "raw_hot": 248798,
-      "num": 223292,
+      "num": 262915,
       "word": "杨超越今天发了10条微博",
       "onboard_time": 1691589936,
       "rank": 44,
@@ -21963,6 +21971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150201,
+      "num": 262437,
+      "word": "仰韶文化的双孔石铲",
+      "onboard_time": 1691594497,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149979,
       "num": 213955,
       "word": "大运会周恺男单金牌",
@@ -22001,6 +22017,14 @@
       "onboard_time": 1691073160,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146173,
+      "num": 271038,
+      "word": "努力的意义究竟是什么",
+      "onboard_time": 1691592820,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 145346,
@@ -22105,14 +22129,6 @@
       "onboard_time": 1691105066,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142429,
-      "num": 271038,
-      "word": "努力的意义究竟是什么",
-      "onboard_time": 1691592820,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 142361,
