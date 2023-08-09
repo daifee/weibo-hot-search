@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691555641687,
+  "endTime": 1691558159933,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -59,6 +59,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1565999,
+      "num": 1565999,
+      "word": "女儿不需要报销妈妈感慨自己没用了",
+      "onboard_time": 1691551538,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1481459,
       "num": 1102834,
       "word": "郑州也忍不住了",
@@ -83,14 +91,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1420714,
-      "num": 1420714,
-      "word": "女儿不需要报销妈妈感慨自己没用了",
-      "onboard_time": 1691551538,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1402384,
       "num": 1402384,
       "word": "脏脏包为什么现在没人吃了",
@@ -105,6 +105,14 @@
       "onboard_time": 1691544634,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1336603,
+      "num": 1336603,
+      "word": "曺圭贤去打了九价疫苗",
+      "onboard_time": 1691556700,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1269442,
@@ -147,28 +155,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 911719,
-      "num": 456170,
-      "word": "费曼被吴镇宇揍",
-      "onboard_time": 1691538690,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 899714,
-      "num": 899714,
+      "raw_hot": 1041541,
+      "num": 1041541,
       "word": "雷军写的代码",
       "onboard_time": 1691553882,
       "rank": 12,
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 882731,
-      "num": 882731,
+      "raw_hot": 979848,
+      "num": 979848,
       "word": "张晚意撞到柱子都变形",
       "onboard_time": 1691552440,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 911719,
+      "num": 456170,
+      "word": "费曼被吴镇宇揍",
+      "onboard_time": 1691538690,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 853265,
@@ -179,6 +187,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 849115,
+      "num": 849115,
+      "word": "王鹤棣 娇兰",
+      "onboard_time": 1691556884,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 847015,
+      "num": 847015,
+      "word": "唐三为i做e",
+      "onboard_time": 1691555262,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 843504,
+      "num": 388473,
+      "word": "我的电脑壁纸被领导发朋友圈了",
+      "onboard_time": 1691553882,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 800909,
       "num": 448859,
       "word": "杨幂唐嫣TFBOYS早期视频",
@@ -187,12 +219,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 774133,
-      "num": 388473,
-      "word": "我的电脑壁纸被领导发朋友圈了",
-      "onboard_time": 1691553882,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 763279,
+      "num": 763279,
+      "word": "玱玹被作为禁毒警示案例",
+      "onboard_time": 1691555860,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 761658,
+      "num": 385970,
+      "word": "用胸毛给女友做抱枕",
+      "onboard_time": 1691556341,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 756693,
@@ -363,6 +403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 559184,
+      "num": 505253,
+      "word": "邓为认证涂山璟是纯爱战狐",
+      "onboard_time": 1691555741,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 545904,
       "num": 545904,
       "word": "费翔专治恋爱脑",
@@ -380,7 +428,7 @@
     },
     {
       "raw_hot": 514216,
-      "num": 372545,
+      "num": 385865,
       "word": "秋天第一杯奶茶爆单致骑手商家产冲突",
       "onboard_time": 1691554538,
       "rank": 36,
@@ -400,6 +448,22 @@
       "word": "现在回家总要开灯啊",
       "onboard_time": 1691548234,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 512452,
+      "num": 512452,
+      "word": "胡夏说我目前单身",
+      "onboard_time": 1691554662,
+      "rank": 48,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 494120,
+      "num": 494120,
+      "word": "能不能好好设计卫生巾的护翼",
+      "onboard_time": 1691554239,
+      "rank": 13,
       "category": "情感"
     },
     {
@@ -492,7 +556,7 @@
     },
     {
       "raw_hot": 418562,
-      "num": 366417,
+      "num": 385818,
       "word": "突然知道怎么存钱了",
       "onboard_time": 1691547996,
       "rank": 42,
@@ -675,12 +739,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314920,
-      "num": 314920,
-      "word": "胡夏说我目前单身",
-      "onboard_time": 1691554662,
-      "rank": 48,
-      "category": "综艺,艺人"
+      "raw_hot": 305246,
+      "num": 305246,
+      "word": "雅安",
+      "onboard_time": 1691557179,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298285,
@@ -744,6 +808,14 @@
       "word": "虞书欣永夜星河进组",
       "onboard_time": 1691548476,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286920,
+      "num": 286920,
+      "word": "黄晓明还是那个打字速度",
+      "onboard_time": 1691556764,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -883,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241303,
+      "num": 241303,
+      "word": "倪妮蝎尾眼妆",
+      "onboard_time": 1691555322,
+      "rank": 42,
+      "category": "影视,美妆"
+    },
+    {
       "raw_hot": 237001,
       "num": 237001,
       "word": "外卖员被撞倒地好心大哥帮其遮掩",
@@ -913,14 +993,6 @@
       "onboard_time": 1691535740,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232262,
-      "num": 232262,
-      "word": "倪妮蝎尾眼妆",
-      "onboard_time": 1691555322,
-      "rank": 42,
-      "category": "影视,美妆"
     },
     {
       "raw_hot": 224469,
@@ -961,14 +1033,6 @@
       "onboard_time": 1691485118,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221718,
-      "num": 221718,
-      "word": "唐三为i做e",
-      "onboard_time": 1691555262,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 219104,
@@ -1059,12 +1123,28 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 199234,
+      "num": 199234,
+      "word": "TTG甜甜糕转身预告",
+      "onboard_time": 1691557959,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197625,
       "num": 203745,
       "word": "北京通报特大暴雨灾情",
       "onboard_time": 1691549856,
       "rank": 39,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 196457,
+      "num": 196457,
+      "word": "优酷会员11周年",
+      "onboard_time": 1691557420,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 194751,
@@ -1347,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75300,
+      "num": 1369229,
+      "word": "立秋大运会闭幕秋分亚运会开幕",
+      "onboard_time": 1691555445,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73657,
       "num": 444617,
       "word": "东北汉子被子弟兵感动哽咽",
@@ -1401,14 +1489,6 @@
       "onboard_time": 1691524512,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15025,
-      "num": 1369229,
-      "word": "立秋大运会闭幕秋分亚运会开幕",
-      "onboard_time": 1691555445,
-      "rank": 2,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -1420,6 +1500,9 @@
     },
     {
       "word": "#成都大运会闭幕式MV#"
+    },
+    {
+      "word": "#推动建设平等有序的多极世界#"
     }
   ]
 }
