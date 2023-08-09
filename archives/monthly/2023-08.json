@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691602432993,
+  "endTime": 1691605331179,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -12763,6 +12763,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 376227,
+      "num": 376227,
+      "word": "四川山东两地凌晨地震",
+      "onboard_time": 1691600724,
+      "rank": 49,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 376226,
       "num": 229302,
       "word": "异人之下只有冯宝宝一个i人",
@@ -17411,6 +17419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241114,
+      "num": 241114,
+      "word": "唯二正确的睡姿",
+      "onboard_time": 1691600304,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240923,
       "num": 2090536,
       "word": "莲花楼预告悬疑感拉满了",
@@ -20811,6 +20827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187328,
+      "num": 182734,
+      "word": "女子地铁强行要人给女儿让座被拒大骂",
+      "onboard_time": 1691600484,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187053,
       "num": 236324,
       "word": "悉尼上空现CoCoLee云朵字",
@@ -21065,14 +21089,6 @@
       "onboard_time": 1691137355,
       "rank": 37,
       "category": "科技"
-    },
-    {
-      "raw_hot": 182734,
-      "num": 182734,
-      "word": "女子地铁强行要人给女儿让座被拒大骂",
-      "onboard_time": 1691600484,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182690,
@@ -22001,14 +22017,6 @@
       "onboard_time": 1691219316,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151982,
-      "num": 151982,
-      "word": "四川山东两地凌晨地震",
-      "onboard_time": 1691600724,
-      "rank": 49,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 151857,
@@ -23291,20 +23299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84454,
-      "num": 95347,
-      "word": "唯二正确的睡姿",
-      "onboard_time": 1691600304,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 83506,
       "num": 749773,
       "word": "这种长着眼睛的子弹是反恐利器",
       "onboard_time": 1690952439,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83362,
+      "num": 83362,
+      "word": "成毅谢谢所有的所有",
+      "onboard_time": 1691603058,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 83142,
@@ -23497,6 +23505,14 @@
       "onboard_time": 1691398838,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61295,
+      "num": 74618,
+      "word": "SK要有小小SK了",
+      "onboard_time": 1691603778,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 61011,

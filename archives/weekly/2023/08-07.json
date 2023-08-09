@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691602432993,
+  "endTime": 1691605331179,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -4427,6 +4427,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 376227,
+      "num": 376227,
+      "word": "四川山东两地凌晨地震",
+      "onboard_time": 1691600724,
+      "rank": 49,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 374704,
       "num": 300367,
       "word": "他居然还挑上了",
@@ -6083,6 +6091,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 241114,
+      "num": 241114,
+      "word": "唯二正确的睡姿",
+      "onboard_time": 1691600304,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239448,
       "num": 239448,
       "word": "听说很好吃第三季官宣",
@@ -7275,6 +7291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187328,
+      "num": 182734,
+      "word": "女子地铁强行要人给女儿让座被拒大骂",
+      "onboard_time": 1691600484,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185812,
       "num": 818398,
       "word": "广末凉子私服",
@@ -7345,14 +7369,6 @@
       "onboard_time": 1691473120,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 182734,
-      "num": 182734,
-      "word": "女子地铁强行要人给女儿让座被拒大骂",
-      "onboard_time": 1691600484,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182690,
@@ -7681,14 +7697,6 @@
       "onboard_time": 1691577817,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151982,
-      "num": 151982,
-      "word": "四川山东两地凌晨地震",
-      "onboard_time": 1691600724,
-      "rank": 49,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 150733,
@@ -8163,12 +8171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84454,
-      "num": 95347,
-      "word": "唯二正确的睡姿",
-      "onboard_time": 1691600304,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 83362,
+      "num": 83362,
+      "word": "成毅谢谢所有的所有",
+      "onboard_time": 1691603058,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 82516,
@@ -8297,6 +8305,14 @@
       "onboard_time": 1691398838,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61295,
+      "num": 74618,
+      "word": "SK要有小小SK了",
+      "onboard_time": 1691603778,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 61011,

@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691602432993,
+  "endTime": 1691605331179,
   "band_list": [
     {
       "raw_hot": 2247846,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376227,
+      "num": 376227,
+      "word": "四川山东两地凌晨地震",
+      "onboard_time": 1691600724,
+      "rank": 49,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 372759,
       "num": 321427,
       "word": "宋威龙穿JK",
@@ -267,6 +275,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 241114,
+      "num": 241114,
+      "word": "唯二正确的睡姿",
+      "onboard_time": 1691600304,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240442,
       "num": 218927,
       "word": "长相思小夭的金山",
@@ -339,20 +355,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187328,
+      "num": 182734,
+      "word": "女子地铁强行要人给女儿让座被拒大骂",
+      "onboard_time": 1691600484,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186703,
       "num": 206543,
       "word": "大鹏为自己和王一博辟谣了",
       "onboard_time": 1691579855,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182734,
-      "num": 182734,
-      "word": "女子地铁强行要人给女儿让座被拒大骂",
-      "onboard_time": 1691600484,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167709,
@@ -369,14 +385,6 @@
       "onboard_time": 1691599167,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151982,
-      "num": 151982,
-      "word": "四川山东两地凌晨地震",
-      "onboard_time": 1691600724,
-      "rank": 49,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 150733,
@@ -467,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84454,
-      "num": 95347,
-      "word": "唯二正确的睡姿",
-      "onboard_time": 1691600304,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 83362,
+      "num": 83362,
+      "word": "成毅谢谢所有的所有",
+      "onboard_time": 1691603058,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 72093,
@@ -481,6 +489,14 @@
       "onboard_time": 1691577634,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 61295,
+      "num": 74618,
+      "word": "SK要有小小SK了",
+      "onboard_time": 1691603778,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 4863,
