@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691588014937,
+  "endTime": 1691590639025,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -83,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1808980,
+      "num": 1808980,
+      "word": "李相夷剑断人亡",
+      "onboard_time": 1691587056,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1686531,
       "num": 333441,
       "word": "鹿晗腋下管理",
       "onboard_time": 1691541819,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1664200,
+      "num": 1664200,
+      "word": "一名殡葬专业学生的课表",
+      "onboard_time": 1691585914,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 1655873,
@@ -105,6 +121,14 @@
       "onboard_time": 1691551657,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1602592,
+      "num": 517141,
+      "word": "网友给王诗龄P眉毛",
+      "onboard_time": 1691584774,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1596348,
@@ -129,6 +153,14 @@
       "onboard_time": 1691556700,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1502269,
+      "num": 1090434,
+      "word": "北大教授称我国目前收入水平还是太低",
+      "onboard_time": 1691585914,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1495967,
@@ -171,6 +203,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1409334,
+      "num": 555546,
+      "word": "迪丽热巴说到底是谁在跟我抢票",
+      "onboard_time": 1691585615,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1402384,
       "num": 1402384,
       "word": "脏脏包为什么现在没人吃了",
@@ -187,28 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1347287,
-      "num": 555546,
-      "word": "迪丽热巴说到底是谁在跟我抢票",
-      "onboard_time": 1691585615,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1269442,
       "num": 1269442,
       "word": "女子2百多网购却被花呗扣款3千多",
       "onboard_time": 1691505223,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1261689,
-      "num": 1261689,
-      "word": "李相夷剑断人亡",
-      "onboard_time": 1691587056,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 1260121,
@@ -241,6 +265,14 @@
       "onboard_time": 1691558737,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1202944,
+      "num": 1202944,
+      "word": "爱奇艺10部热度值破万的剧集",
+      "onboard_time": 1691589758,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1164077,
@@ -291,28 +323,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 1090434,
-      "num": 1090434,
-      "word": "北大教授称我国目前收入水平还是太低",
-      "onboard_time": 1691585914,
-      "rank": 4,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1084861,
       "num": 1084861,
       "word": "Uzi",
       "onboard_time": 1691510318,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1077717,
-      "num": 517141,
-      "word": "网友给王诗龄P眉毛",
-      "onboard_time": 1691584774,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 1066353,
@@ -379,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 981315,
+      "num": 981315,
+      "word": "优酷 泼天的富贵",
+      "onboard_time": 1691590057,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 979848,
       "num": 979848,
       "word": "张晚意撞到柱子都变形",
@@ -411,6 +435,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 914992,
+      "num": 914992,
+      "word": "中戏教授说王一博进步非常大",
+      "onboard_time": 1691587359,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 914576,
       "num": 914576,
       "word": "小夭扮回玟小六",
@@ -425,14 +457,6 @@
       "onboard_time": 1691538690,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 905708,
-      "num": 905708,
-      "word": "一名殡葬专业学生的课表",
-      "onboard_time": 1691585914,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 891052,
@@ -515,12 +539,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 774985,
+      "num": 363118,
+      "word": "黑莲花男主",
+      "onboard_time": 1691587896,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 768454,
       "num": 636328,
       "word": "于适微博简介",
       "onboard_time": 1691560835,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 767404,
+      "num": 358144,
+      "word": "笛飞声 角丽谯",
+      "onboard_time": 1691589039,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 766763,
@@ -667,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 692665,
+      "num": 692665,
+      "word": "怪不得耳鼻咽喉分在同一个科室",
+      "onboard_time": 1691585672,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 684326,
       "num": 684326,
       "word": "莲花楼",
@@ -721,6 +769,14 @@
       "onboard_time": 1691551117,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 656280,
+      "num": 278578,
+      "word": "长相思好狠的心",
+      "onboard_time": 1691587298,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 644634,
@@ -931,14 +987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 553257,
-      "num": 498118,
-      "word": "中戏教授说王一博进步非常大",
-      "onboard_time": 1691587359,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 545904,
       "num": 545904,
       "word": "费翔专治恋爱脑",
@@ -1049,14 +1097,6 @@
       "onboard_time": 1691565278,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 488762,
-      "num": 488762,
-      "word": "怪不得耳鼻咽喉分在同一个科室",
-      "onboard_time": 1691585672,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 483057,
@@ -1379,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356361,
-      "num": 259960,
-      "word": "长相思好狠的心",
-      "onboard_time": 1691587298,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 354301,
       "num": 354301,
       "word": "陈哲远新剧接吻开大",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1691558437,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331110,
+      "num": 245128,
+      "word": "白敬亭潮男穿搭",
+      "onboard_time": 1691588857,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 325875,
@@ -1651,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285104,
+      "num": 285104,
+      "word": "椰树直播间全员跳广场舞",
+      "onboard_time": 1691586816,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281711,
       "num": 281711,
       "word": "Bin哥晒和TheShy合照",
@@ -1729,14 +1777,6 @@
       "onboard_time": 1691564613,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264913,
-      "num": 264913,
-      "word": "椰树直播间全员跳广场舞",
-      "onboard_time": 1691586816,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262514,
@@ -1819,14 +1859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248509,
-      "num": 248509,
-      "word": "黑莲花男主",
-      "onboard_time": 1691587896,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 248295,
       "num": 248295,
       "word": "大鹏说很心疼王一博",
@@ -1840,6 +1872,14 @@
       "word": "四川雅安一河道涨水已致7人遇难",
       "onboard_time": 1691563474,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247547,
+      "num": 244966,
+      "word": "胡锡进 北京这场大暴雨超出认知",
+      "onboard_time": 1691589097,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1867,6 +1907,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245618,
+      "num": 227826,
+      "word": "夭璟",
+      "onboard_time": 1691590180,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245239,
+      "num": 245239,
+      "word": "不是所有蔬果都适合放冰箱",
+      "onboard_time": 1691588017,
+      "rank": 29,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 244067,
       "num": 228182,
       "word": "张碧晨上海演唱会官宣",
@@ -1881,6 +1937,14 @@
       "onboard_time": 1691559159,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243950,
+      "num": 239089,
+      "word": "孤注一掷导演说张艺兴是剧组表率",
+      "onboard_time": 1691577634,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 243507,
@@ -1931,14 +1995,6 @@
       "category": "影视,美妆"
     },
     {
-      "raw_hot": 239089,
-      "num": 239089,
-      "word": "孤注一掷导演说张艺兴是剧组表率",
-      "onboard_time": 1691577634,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 237016,
       "num": 237016,
       "word": "看小夭的四种人",
@@ -1961,6 +2017,14 @@
       "onboard_time": 1691513306,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235534,
+      "num": 235534,
+      "word": "原来裤子这里是这么用的",
+      "onboard_time": 1691588378,
+      "rank": 34,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 234508,
@@ -2017,6 +2081,14 @@
       "onboard_time": 1691567437,
       "rank": 42,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 223292,
+      "num": 223292,
+      "word": "杨超越今天发了10条微博",
+      "onboard_time": 1691589936,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 223143,
@@ -2371,6 +2443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195967,
+      "num": 1407894,
+      "word": "预拨10亿元对蓄滞洪区水毁损失予以补偿",
+      "onboard_time": 1691587056,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195508,
       "num": 195508,
       "word": "檀健次早期这钱不好挣啊",
@@ -2387,12 +2467,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192932,
+      "num": 229562,
+      "word": "当吞噬星空冲破二次元",
+      "onboard_time": 1691589879,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191973,
       "num": 212268,
       "word": "洗衣机洗出一锅米饭",
       "onboard_time": 1691582137,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191887,
+      "num": 225185,
+      "word": "drg对战eStar",
+      "onboard_time": 1691589936,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 191788,
@@ -2435,6 +2531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184802,
+      "num": 222913,
+      "word": "原来空调里面这么脏",
+      "onboard_time": 1691587776,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184493,
       "num": 184102,
       "word": "小夭外爷一段话diss了三个男人",
@@ -2456,6 +2560,14 @@
       "word": "北京发布会现场为洪涝灾害遇难者默哀",
       "onboard_time": 1691549495,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182690,
+      "num": 542738,
+      "word": "男童见老人路边啃食果皮赠其西瓜",
+      "onboard_time": 1691586034,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2547,12 +2659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161406,
-      "num": 1317382,
-      "word": "预拨10亿元对蓄滞洪区水毁损失予以补偿",
-      "onboard_time": 1691587056,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 162132,
+      "num": 218981,
+      "word": "最怕别人问我哪个学校的",
+      "onboard_time": 1691590418,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 161126,
@@ -2619,14 +2731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155622,
-      "num": 207170,
-      "word": "原来空调里面这么脏",
-      "onboard_time": 1691587776,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154928,
       "num": 154928,
       "word": "暴雨洪灾中的守护者",
@@ -2689,14 +2793,6 @@
       "onboard_time": 1691507021,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 139346,
-      "num": 542738,
-      "word": "男童见老人路边啃食果皮赠其西瓜",
-      "onboard_time": 1691586034,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138232,
@@ -2803,6 +2899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84724,
+      "num": 517693,
+      "word": "哪一瞬间让你为中国汽车自豪",
+      "onboard_time": 1691586275,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80395,
       "num": 506315,
       "word": "你的每个瞬间他都小心收藏",
@@ -2859,19 +2963,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 53568,
+      "num": 381557,
+      "word": "男子夜钓被鱼拖下水民警追4公里救出",
+      "onboard_time": 1691589697,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53345,
       "num": 1100327,
       "word": "环境减灾二号06星成功发射",
       "onboard_time": 1691555080,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53242,
-      "num": 517693,
-      "word": "哪一瞬间让你为中国汽车自豪",
-      "onboard_time": 1691586275,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
