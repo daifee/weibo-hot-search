@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691572667442,
+  "endTime": 1691573656335,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2303580,
-      "num": 586241,
+      "num": 595807,
       "word": "休息羞耻",
       "onboard_time": 1691565635,
       "rank": 29,
@@ -35,6 +35,14 @@
       "category": "体育,财经"
     },
     {
+      "raw_hot": 2047353,
+      "num": 1205808,
+      "word": "第一次见角色吃演员红利",
+      "onboard_time": 1691568939,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2040541,
       "num": 2040541,
       "word": "游客发现重庆一寺庙供奉日本邪神",
@@ -43,20 +51,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 1969678,
-      "num": 858323,
-      "word": "第一次见角色吃演员红利",
-      "onboard_time": 1691568939,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1920889,
       "num": 1920889,
       "word": "医药代表称不敢进医院",
       "onboard_time": 1691547154,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1911908,
+      "num": 1911908,
+      "word": "杨洋韩立",
+      "onboard_time": 1691571519,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1686531,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 988939,
+      "num": 988939,
+      "word": "黄晓明被蒋欣扇巴掌戏",
+      "onboard_time": 1691572118,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 985041,
       "num": 669112,
       "word": "能不能好好设计卫生巾的护翼",
@@ -273,14 +289,6 @@
       "onboard_time": 1691538690,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 906231,
-      "num": 906231,
-      "word": "杨洋韩立",
-      "onboard_time": 1691571519,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 871620,
@@ -432,6 +440,14 @@
       "word": "起猛了看到杨紫魏大勋演夫妻",
       "onboard_time": 1691546016,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 725567,
+      "num": 594835,
+      "word": "邓为檀健次微博出圈战报",
+      "onboard_time": 1691572477,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -667,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 526368,
+      "num": 526368,
+      "word": "终于知道蓝色口红都卖给谁了",
+      "onboard_time": 1691571456,
+      "rank": 32,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 516143,
       "num": 516143,
       "word": "涂山璟千面狐狸",
@@ -795,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 452562,
-      "num": 290411,
-      "word": "邓为檀健次微博出圈战报",
-      "onboard_time": 1691572477,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 441374,
       "num": 388243,
       "word": "金晨把头像换成安娜",
@@ -851,6 +867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 423421,
+      "num": 423421,
+      "word": "邓为直播",
+      "onboard_time": 1691571938,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419159,
       "num": 419159,
       "word": "伊能静写给儿子的长信",
@@ -881,14 +905,6 @@
       "onboard_time": 1691537607,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408710,
-      "num": 408710,
-      "word": "黄晓明被蒋欣扇巴掌戏",
-      "onboard_time": 1691572118,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 403610,
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 360322,
-      "num": 282393,
+      "num": 343767,
       "word": "一个男人到40岁都没明白很多事情",
       "onboard_time": 1691571096,
       "rank": 31,
@@ -1027,12 +1043,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 349567,
-      "num": 275884,
-      "word": "终于知道蓝色口红都卖给谁了",
-      "onboard_time": 1691571456,
-      "rank": 32,
-      "category": "美妆,艺人"
+      "raw_hot": 347639,
+      "num": 347639,
+      "word": "于适邓为互为正缘",
+      "onboard_time": 1691571397,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 346221,
@@ -1048,14 +1064,6 @@
       "word": "莲花楼婚礼变葬礼",
       "onboard_time": 1691545835,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 344501,
-      "num": 344501,
-      "word": "邓为直播",
-      "onboard_time": 1691571938,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -1075,11 +1083,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331557,
-      "num": 268777,
-      "word": "于适邓为互为正缘",
-      "onboard_time": 1691571397,
-      "rank": 33,
+      "raw_hot": 335781,
+      "num": 335781,
+      "word": "莲花楼有自己的年世兰",
+      "onboard_time": 1691573198,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1128,6 +1136,14 @@
       "word": "原来巨齿鲨也是恋爱脑",
       "onboard_time": 1691545655,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 310217,
+      "num": 310217,
+      "word": "长相思有自己的辰亦儒",
+      "onboard_time": 1691572899,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1291,6 +1307,14 @@
       "category": "幽默,美妆"
     },
     {
+      "raw_hot": 259740,
+      "num": 526535,
+      "word": "4名学生考上211村委每人奖1万",
+      "onboard_time": 1691571639,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259463,
       "num": 259463,
       "word": "老天爱笨小孩",
@@ -1379,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244067,
+      "num": 228182,
+      "word": "张碧晨上海演唱会官宣",
+      "onboard_time": 1691572297,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 244015,
       "num": 244015,
       "word": "袁泉杨紫穿拖鞋放烟花",
@@ -1435,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235677,
+      "num": 235677,
+      "word": "DK对战T1",
+      "onboard_time": 1691572598,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235655,
       "num": 235655,
       "word": "张智霖吴镇宇小学生对话",
@@ -1465,6 +1505,14 @@
       "onboard_time": 1691569235,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226521,
+      "num": 226521,
+      "word": "TFBOYS三人专辑都未标注唱片公司",
+      "onboard_time": 1691573502,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 224469,
@@ -1547,14 +1595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216183,
-      "num": 216183,
-      "word": "DK对战T1",
-      "onboard_time": 1691572598,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 214491,
       "num": 214491,
       "word": "赵丽颖第一次发儿子想想",
@@ -1627,6 +1667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206849,
+      "num": 206849,
+      "word": "胡锡进 雅安河道为何会突然涨水",
+      "onboard_time": 1691572721,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206596,
       "num": 206596,
       "word": "我发现我在变得内核稳定",
@@ -1659,6 +1707,14 @@
       "category": "音乐,音乐"
     },
     {
+      "raw_hot": 203894,
+      "num": 203894,
+      "word": "相柳出演猎罪图鉴",
+      "onboard_time": 1691573617,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203782,
       "num": 203782,
       "word": "相柳困在回忆里",
@@ -1673,6 +1729,14 @@
       "onboard_time": 1691550157,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203512,
+      "num": 203512,
+      "word": "学计算机的人好像情绪都特稳定",
+      "onboard_time": 1691573320,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 200078,
@@ -2027,14 +2091,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 99107,
-      "num": 453807,
-      "word": "4名学生考上211村委每人奖1万",
-      "onboard_time": 1691571639,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93417,
       "num": 93417,
       "word": "买车时一定要避开的坑",
@@ -2088,6 +2144,14 @@
       "word": "东北汉子被子弟兵感动哽咽",
       "onboard_time": 1691496697,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71413,
+      "num": 1311141,
+      "word": "洪涝灾害发生后注意卫生安全",
+      "onboard_time": 1691572297,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2145,14 +2209,6 @@
       "onboard_time": 1691524512,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19504,
-      "num": 860157,
-      "word": "洪涝灾害发生后注意卫生安全",
-      "onboard_time": 1691572297,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
