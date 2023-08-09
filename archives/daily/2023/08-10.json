@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691608456843,
+  "endTime": 1691609623829,
   "band_list": [
     {
       "raw_hot": 2247846,
@@ -459,6 +459,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 100205,
+      "num": 87682,
+      "word": "王传君拜佛名场面",
+      "onboard_time": 1691605996,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 92564,
       "num": 95295,
       "word": "笛飞声 角丽谯",
@@ -473,14 +481,6 @@
       "onboard_time": 1691589697,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87682,
-      "num": 87682,
-      "word": "王传君拜佛名场面",
-      "onboard_time": 1691605996,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 83362,
