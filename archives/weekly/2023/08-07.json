@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691569328055,
+  "endTime": 1691570134484,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2303580,
+      "num": 586241,
+      "word": "休息羞耻",
+      "onboard_time": 1691565635,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 2234731,
       "num": 851869,
       "word": "知名网红疑被前任闺蜜偷家",
@@ -259,6 +267,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 2167958,
+      "num": 2167958,
+      "word": "王濛被冻结股权445万",
+      "onboard_time": 1691567376,
+      "rank": 0,
+      "category": "体育,财经"
+    },
+    {
       "raw_hot": 2155419,
       "num": 1084363,
       "word": "李玟老公申请死因调查",
@@ -273,14 +289,6 @@
       "onboard_time": 1691380785,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2107350,
-      "num": 550958,
-      "word": "休息羞耻",
-      "onboard_time": 1691565635,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 2046703,
@@ -473,14 +481,6 @@
       "onboard_time": 1691389897,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1630634,
-      "num": 1630634,
-      "word": "王濛被冻结股权445万",
-      "onboard_time": 1691567376,
-      "rank": 0,
-      "category": "体育,财经"
     },
     {
       "raw_hot": 1628723,
@@ -1067,20 +1067,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1108119,
+      "num": 1108119,
+      "word": "杨幂说我绝不回头",
+      "onboard_time": 1691564373,
+      "rank": 20,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 1104499,
       "num": 1104499,
       "word": "刘青松哭了",
       "onboard_time": 1691499941,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1103628,
-      "num": 1103628,
-      "word": "杨幂说我绝不回头",
-      "onboard_time": 1691564373,
-      "rank": 20,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 1099990,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1691493452,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1093513,
+      "num": 1093513,
+      "word": "孟宴臣午睡",
+      "onboard_time": 1691567978,
+      "rank": 3,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 1091270,
@@ -1403,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 911360,
-      "num": 911360,
-      "word": "孟宴臣午睡",
-      "onboard_time": 1691567978,
-      "rank": 3,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 904220,
       "num": 794542,
       "word": "杨紫包场孤注一掷",
@@ -1561,6 +1561,14 @@
       "onboard_time": 1691495134,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 829987,
+      "num": 829987,
+      "word": "第一次见角色吃演员红利",
+      "onboard_time": 1691568939,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 825649,
@@ -1811,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737852,
+      "num": 737852,
+      "word": "7月广东新增报告115例猴痘病例",
+      "onboard_time": 1691565937,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 735400,
       "num": 735400,
       "word": "双胞胎暴雨中降生被起名定海神针",
@@ -1881,6 +1897,14 @@
       "onboard_time": 1691419428,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 724510,
+      "num": 402790,
+      "word": "39岁老公被优化了",
+      "onboard_time": 1691568459,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 723044,
@@ -2012,7 +2036,7 @@
     },
     {
       "raw_hot": 681680,
-      "num": 538097,
+      "num": 549476,
       "word": "陈牧驰哭了",
       "onboard_time": 1691567437,
       "rank": 11,
@@ -2137,14 +2161,6 @@
       "onboard_time": 1691414196,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 645052,
-      "num": 645052,
-      "word": "7月广东新增报告115例猴痘病例",
-      "onboard_time": 1691565937,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 644398,
@@ -2843,6 +2859,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 512084,
+      "num": 512084,
+      "word": "7月中国内地新增报告491例猴痘确诊病例",
+      "onboard_time": 1691565214,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505020,
       "num": 819517,
       "word": "莲花楼",
@@ -2945,14 +2969,6 @@
       "onboard_time": 1691497177,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 487359,
-      "num": 487359,
-      "word": "7月中国内地新增报告491例猴痘确诊病例",
-      "onboard_time": 1691565214,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486049,
@@ -3065,6 +3081,14 @@
       "onboard_time": 1691463335,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473638,
+      "num": 473638,
+      "word": "拔掉57颗牙是什么样的体验",
+      "onboard_time": 1691567316,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 472891,
@@ -3257,14 +3281,6 @@
       "onboard_time": 1691500600,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 435223,
-      "num": 435223,
-      "word": "拔掉57颗牙是什么样的体验",
-      "onboard_time": 1691567316,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 435218,
@@ -3555,14 +3571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 402790,
-      "num": 402790,
-      "word": "39岁老公被优化了",
-      "onboard_time": 1691568459,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 401175,
       "num": 401175,
       "word": "杨紫谈长相思梅林殉情",
@@ -3771,6 +3779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383900,
+      "num": 350883,
+      "word": "杨洋新剧斗笠造型",
+      "onboard_time": 1691569416,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382426,
       "num": 382426,
       "word": "杨紫认证爆亿思",
@@ -3785,6 +3801,14 @@
       "onboard_time": 1691505940,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 380235,
+      "num": 347968,
+      "word": "曝边伯贤将明年1月离开SMTOWN",
+      "onboard_time": 1691568159,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 377780,
@@ -4067,14 +4091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339937,
-      "num": 339937,
-      "word": "第一次见角色吃演员红利",
-      "onboard_time": 1691568939,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 339388,
       "num": 339388,
       "word": "邓为涂山璟登顶角色吸粉榜",
@@ -4105,6 +4121,14 @@
       "onboard_time": 1691410057,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327253,
+      "num": 327253,
+      "word": "密逃再现范丞丞个人战名场面",
+      "onboard_time": 1691569116,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 326484,
@@ -4195,6 +4219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320354,
+      "num": 320354,
+      "word": "张艺兴回复王子异说谢谢bro",
+      "onboard_time": 1691568878,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320136,
       "num": 320136,
       "word": "王鹤棣用脖子背包袱",
@@ -4281,14 +4313,6 @@
       "onboard_time": 1691356754,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312280,
-      "num": 312280,
-      "word": "曝边伯贤将明年1月离开SMTOWN",
-      "onboard_time": 1691568159,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 310690,
@@ -4425,14 +4449,6 @@
       "onboard_time": 1691483977,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 300054,
-      "num": 300054,
-      "word": "张艺兴回复王子异说谢谢bro",
-      "onboard_time": 1691568878,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 298698,
@@ -4731,6 +4747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273559,
+      "num": 273559,
+      "word": "檀健次用相柳本音表白小夭",
+      "onboard_time": 1691568519,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272654,
       "num": 252723,
       "word": "李莲花方多病故事线设定",
@@ -4897,6 +4921,14 @@
       "onboard_time": 1691378618,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262252,
+      "num": 262252,
+      "word": "这下发量少的人有救了",
+      "onboard_time": 1691565879,
+      "rank": 43,
+      "category": "幽默,美妆"
     },
     {
       "raw_hot": 262016,
@@ -5179,14 +5211,6 @@
       "category": "影视,美妆"
     },
     {
-      "raw_hot": 241114,
-      "num": 241114,
-      "word": "这下发量少的人有救了",
-      "onboard_time": 1691565879,
-      "rank": 43,
-      "category": "幽默,美妆"
-    },
-    {
       "raw_hot": 239448,
       "num": 239448,
       "word": "听说很好吃第三季官宣",
@@ -5283,14 +5307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233480,
-      "num": 233480,
-      "word": "密逃再现范丞丞个人战名场面",
-      "onboard_time": 1691569116,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233315,
       "num": 233315,
       "word": "小夭说防风邶是狗狗邶",
@@ -5385,6 +5401,14 @@
       "onboard_time": 1691507021,
       "rank": 46,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 226667,
+      "num": 226667,
+      "word": "殷郊 一款老姜严选",
+      "onboard_time": 1691569235,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 226545,
@@ -5811,14 +5835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203080,
-      "num": 203080,
-      "word": "檀健次用相柳本音表白小夭",
-      "onboard_time": 1691568519,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 201957,
       "num": 201957,
       "word": "七时吉祥1V1情劫预告",
@@ -5977,14 +5993,6 @@
       "onboard_time": 1691493452,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194999,
-      "num": 203121,
-      "word": "殷郊 一款老姜严选",
-      "onboard_time": 1691569235,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 194963,
@@ -6328,6 +6336,14 @@
       "word": "洪水中从天而降一袋救命疫苗",
       "onboard_time": 1691536343,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172192,
+      "num": 172192,
+      "word": "毒贩一月连搬三次家被堵在电梯",
+      "onboard_time": 1691570078,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -7052,7 +7068,7 @@
     },
     {
       "raw_hot": 53345,
-      "num": 210216,
+      "num": 1100327,
       "word": "环境减灾二号06星成功发射",
       "onboard_time": 1691555080,
       "rank": 45,

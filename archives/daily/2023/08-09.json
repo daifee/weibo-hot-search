@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691569328055,
+  "endTime": 1691570134484,
   "band_list": [
     {
       "raw_hot": 2814569,
@@ -11,6 +11,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2303580,
+      "num": 586241,
+      "word": "休息羞耻",
+      "onboard_time": 1691565635,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 2171062,
       "num": 2171062,
       "word": "花呗回应女子网购2百多却被扣款3千多",
@@ -19,12 +27,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 2107350,
-      "num": 550958,
-      "word": "休息羞耻",
-      "onboard_time": 1691565635,
-      "rank": 29,
-      "category": "幽默,情感"
+      "raw_hot": 2167958,
+      "num": 2167958,
+      "word": "王濛被冻结股权445万",
+      "onboard_time": 1691567376,
+      "rank": 0,
+      "category": "体育,财经"
     },
     {
       "raw_hot": 2040541,
@@ -57,14 +65,6 @@
       "onboard_time": 1691538392,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1630634,
-      "num": 1630634,
-      "word": "王濛被冻结股权445万",
-      "onboard_time": 1691567376,
-      "rank": 0,
-      "category": "体育,财经"
     },
     {
       "raw_hot": 1623131,
@@ -179,12 +179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1103628,
-      "num": 1103628,
+      "raw_hot": 1108119,
+      "num": 1108119,
       "word": "杨幂说我绝不回头",
       "onboard_time": 1691564373,
       "rank": 20,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 1093513,
+      "num": 1093513,
+      "word": "孟宴臣午睡",
+      "onboard_time": 1691567978,
+      "rank": 3,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 1084861,
@@ -259,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 911360,
-      "num": 911360,
-      "word": "孟宴臣午睡",
-      "onboard_time": 1691567978,
-      "rank": 3,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 871620,
       "num": 871620,
       "word": "唐三为i做e",
@@ -305,6 +305,14 @@
       "onboard_time": 1691563834,
       "rank": 17,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 829987,
+      "num": 829987,
+      "word": "第一次见角色吃演员红利",
+      "onboard_time": 1691568939,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 806941,
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 737852,
+      "num": 737852,
+      "word": "7月广东新增报告115例猴痘病例",
+      "onboard_time": 1691565937,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 735400,
       "num": 735400,
       "word": "双胞胎暴雨中降生被起名定海神针",
@@ -401,6 +417,14 @@
       "onboard_time": 1691546016,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 724510,
+      "num": 402790,
+      "word": "39岁老公被优化了",
+      "onboard_time": 1691568459,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 721639,
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 681680,
-      "num": 538097,
+      "num": 549476,
       "word": "陈牧驰哭了",
       "onboard_time": 1691567437,
       "rank": 11,
@@ -473,14 +497,6 @@
       "onboard_time": 1691551117,
       "rank": 22,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 645052,
-      "num": 645052,
-      "word": "7月广东新增报告115例猴痘病例",
-      "onboard_time": 1691565937,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 643023,
@@ -659,20 +675,20 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 512084,
+      "num": 512084,
+      "word": "7月中国内地新增报告491例猴痘确诊病例",
+      "onboard_time": 1691565214,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490056,
       "num": 490056,
       "word": "张晋蔡少芬为张镐濂拉票",
       "onboard_time": 1691565278,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 487359,
-      "num": 487359,
-      "word": "7月中国内地新增报告491例猴痘确诊病例",
-      "onboard_time": 1691565214,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483057,
@@ -707,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473638,
+      "num": 473638,
+      "word": "拔掉57颗牙是什么样的体验",
+      "onboard_time": 1691567316,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 471359,
       "num": 471359,
       "word": "起猛了看见帕梅拉在练八段锦",
@@ -731,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 454590,
+      "num": 454590,
+      "word": "莲花楼",
+      "onboard_time": 1691569714,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 441374,
       "num": 388243,
       "word": "金晨把头像换成安娜",
@@ -753,14 +785,6 @@
       "onboard_time": 1691511751,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 435223,
-      "num": 435223,
-      "word": "拔掉57颗牙是什么样的体验",
-      "onboard_time": 1691567316,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 434874,
@@ -819,14 +843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 402790,
-      "num": 402790,
-      "word": "39岁老公被优化了",
-      "onboard_time": 1691568459,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 401175,
       "num": 401175,
       "word": "杨紫谈长相思梅林殉情",
@@ -867,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383900,
+      "num": 350883,
+      "word": "杨洋新剧斗笠造型",
+      "onboard_time": 1691569416,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382426,
       "num": 382426,
       "word": "杨紫认证爆亿思",
@@ -880,6 +904,14 @@
       "word": "上海外滩偶遇戚薇",
       "onboard_time": 1691500840,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 380235,
+      "num": 347968,
+      "word": "曝边伯贤将明年1月离开SMTOWN",
+      "onboard_time": 1691568159,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -939,20 +971,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339937,
-      "num": 339937,
-      "word": "第一次见角色吃演员红利",
-      "onboard_time": 1691568939,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 339388,
       "num": 339388,
       "word": "邓为涂山璟登顶角色吸粉榜",
       "onboard_time": 1691558437,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327253,
+      "num": 327253,
+      "word": "密逃再现范丞丞个人战名场面",
+      "onboard_time": 1691569116,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 325875,
@@ -979,6 +1011,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 320354,
+      "num": 320354,
+      "word": "张艺兴回复王子异说谢谢bro",
+      "onboard_time": 1691568878,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317341,
       "num": 286533,
       "word": "送养小猫时突然理解了嫁妆的意义",
@@ -1003,28 +1043,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 312280,
-      "num": 312280,
-      "word": "曝边伯贤将明年1月离开SMTOWN",
-      "onboard_time": 1691568159,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 308243,
       "num": 308243,
       "word": "三只猫忽然叼着玩具进入警戒模式",
       "onboard_time": 1691558196,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 300054,
-      "num": 300054,
-      "word": "张艺兴回复王子异说谢谢bro",
-      "onboard_time": 1691568878,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 298285,
@@ -1131,6 +1155,14 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 273559,
+      "num": 273559,
+      "word": "檀健次用相柳本音表白小夭",
+      "onboard_time": 1691568519,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270337,
       "num": 270337,
       "word": "于适三次跳舞考核没过不会是真的吧",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1691513009,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262252,
+      "num": 262252,
+      "word": "这下发量少的人有救了",
+      "onboard_time": 1691565879,
+      "rank": 43,
+      "category": "幽默,美妆"
     },
     {
       "raw_hot": 259463,
@@ -1283,14 +1323,6 @@
       "category": "影视,美妆"
     },
     {
-      "raw_hot": 241114,
-      "num": 241114,
-      "word": "这下发量少的人有救了",
-      "onboard_time": 1691565879,
-      "rank": 43,
-      "category": "幽默,美妆"
-    },
-    {
       "raw_hot": 237001,
       "num": 237001,
       "word": "外卖员被撞倒地好心大哥帮其遮掩",
@@ -1315,20 +1347,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233480,
-      "num": 233480,
-      "word": "密逃再现范丞丞个人战名场面",
-      "onboard_time": 1691569116,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232579,
       "num": 232579,
       "word": "男生带67只猫狗跨3400公里搬家",
       "onboard_time": 1691535740,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226667,
+      "num": 226667,
+      "word": "殷郊 一款老姜严选",
+      "onboard_time": 1691569235,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 224469,
@@ -1523,14 +1555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203080,
-      "num": 203080,
-      "word": "檀健次用相柳本音表白小夭",
-      "onboard_time": 1691568519,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200078,
       "num": 200078,
       "word": "真正的释怀是什么感觉",
@@ -1592,14 +1616,6 @@
       "word": "优酷会员11周年",
       "onboard_time": 1691557420,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 194999,
-      "num": 203121,
-      "word": "殷郊 一款老姜严选",
-      "onboard_time": 1691569235,
-      "rank": 48,
       "category": "影视"
     },
     {
@@ -1696,6 +1712,14 @@
       "word": "洪水中从天而降一袋救命疫苗",
       "onboard_time": 1691536343,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172192,
+      "num": 172192,
+      "word": "毒贩一月连搬三次家被堵在电梯",
+      "onboard_time": 1691570078,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1964,7 +1988,7 @@
     },
     {
       "raw_hot": 53345,
-      "num": 210216,
+      "num": 1100327,
       "word": "环境减灾二号06星成功发射",
       "onboard_time": 1691555080,
       "rank": 45,
