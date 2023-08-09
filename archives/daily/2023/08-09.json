@@ -1,6 +1,6 @@
 {
   "startTime": 1691511734314,
-  "endTime": 1691548274647,
+  "endTime": 1691548873897,
   "band_list": [
     {
       "raw_hot": 2171062,
@@ -11,12 +11,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1836883,
-      "num": 1836883,
+      "raw_hot": 2040541,
+      "num": 2040541,
       "word": "游客发现重庆一寺庙供奉日本邪神",
       "onboard_time": 1691545416,
       "rank": 42,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1838053,
+      "num": 1838053,
+      "word": "北京特大暴雨已致33人遇难",
+      "onboard_time": 1691548117,
+      "rank": 16,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1686531,
@@ -75,7 +83,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1161817,
+      "raw_hot": 1164077,
       "num": 342759,
       "word": "男子强奸13岁女孩致死案二审维持死刑",
       "onboard_time": 1691544218,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1135135,
-      "num": 487117,
+      "num": 537924,
       "word": "奚安娜",
       "onboard_time": 1691542596,
       "rank": 10,
@@ -163,20 +171,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 680863,
+      "num": 680863,
+      "word": "内娱天生的电影脸",
+      "onboard_time": 1691544935,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 662853,
       "num": 319625,
       "word": "为什么理发店洗头油的慢",
       "onboard_time": 1691538450,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 662201,
-      "num": 662201,
-      "word": "内娱天生的电影脸",
-      "onboard_time": 1691544935,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 643023,
@@ -267,12 +275,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 524814,
-      "num": 524814,
+      "raw_hot": 545904,
+      "num": 545904,
       "word": "费翔专治恋爱脑",
       "onboard_time": 1691545480,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 514162,
+      "num": 514162,
+      "word": "王俊凯回望",
+      "onboard_time": 1691546974,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 480793,
@@ -281,6 +297,14 @@
       "onboard_time": 1691508877,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 476685,
+      "num": 318323,
+      "word": "医药代表称不敢进医院",
+      "onboard_time": 1691547154,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475051,
@@ -305,14 +329,6 @@
       "onboard_time": 1691542540,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 455132,
-      "num": 317339,
-      "word": "医药代表称不敢进医院",
-      "onboard_time": 1691547154,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439153,
@@ -371,28 +387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 400584,
-      "num": 400584,
-      "word": "王俊凯回望",
-      "onboard_time": 1691546974,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 396632,
       "num": 396632,
       "word": "金晨谈第一次演荷官",
       "onboard_time": 1691545717,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 391318,
-      "num": 391318,
-      "word": "北京特大暴雨已致33人遇难",
-      "onboard_time": 1691548117,
-      "rank": 16,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 382426,
@@ -427,12 +427,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 352490,
+      "num": 316223,
+      "word": "男子涉嫌常年性侵害继女",
+      "onboard_time": 1691548234,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346221,
       "num": 346221,
       "word": "封神票房",
       "onboard_time": 1691503479,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333571,
+      "num": 287559,
+      "word": "突然知道怎么存钱了",
+      "onboard_time": 1691547996,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 325875,
@@ -467,8 +483,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 304492,
-      "num": 304492,
+      "raw_hot": 316177,
+      "num": 316177,
       "word": "原来巨齿鲨也是恋爱脑",
       "onboard_time": 1691545655,
       "rank": 30,
@@ -505,6 +521,14 @@
       "onboard_time": 1691542058,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292762,
+      "num": 292762,
+      "word": "莲花楼婚礼变葬礼",
+      "onboard_time": 1691545835,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 291517,
@@ -547,14 +571,6 @@
       "category": "体育,影视"
     },
     {
-      "raw_hot": 276238,
-      "num": 276238,
-      "word": "莲花楼婚礼变葬礼",
-      "onboard_time": 1691545835,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 270337,
       "num": 270337,
       "word": "于适三次跳舞考核没过不会是真的吧",
@@ -585,6 +601,14 @@
       "onboard_time": 1691543324,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 253071,
+      "num": 253071,
+      "word": "张巾 恋爱脑",
+      "onboard_time": 1691546915,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 251823,
@@ -635,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239586,
-      "num": 239586,
-      "word": "张巾 恋爱脑",
-      "onboard_time": 1691546915,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237001,
       "num": 237001,
       "word": "外卖员被撞倒地好心大哥帮其遮掩",
@@ -673,6 +689,14 @@
       "onboard_time": 1691535740,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223209,
+      "num": 223209,
+      "word": "现在回家总要开灯啊",
+      "onboard_time": 1691548234,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 223143,
@@ -707,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219104,
+      "num": 219104,
+      "word": "多场医药学术会议宣布延期",
+      "onboard_time": 1691548417,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214491,
       "num": 214491,
       "word": "赵丽颖第一次发儿子想想",
@@ -721,6 +753,14 @@
       "onboard_time": 1691540859,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211598,
+      "num": 211598,
+      "word": "虞书欣永夜星河进组",
+      "onboard_time": 1691548476,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 209305,
@@ -795,14 +835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178225,
-      "num": 178225,
-      "word": "突然知道怎么存钱了",
-      "onboard_time": 1691547996,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 174795,
       "num": 174795,
       "word": "玱玹中毒毒发",
@@ -811,20 +843,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173414,
-      "num": 173414,
-      "word": "男子涉嫌常年性侵害继女",
-      "onboard_time": 1691548234,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173074,
       "num": 173074,
       "word": "洪水中从天而降一袋救命疫苗",
       "onboard_time": 1691536343,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169852,
+      "num": 169852,
+      "word": "薛之谦郭顶合照",
+      "onboard_time": 1691548055,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 167429,
@@ -873,14 +905,6 @@
       "onboard_time": 1691493334,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157613,
-      "num": 157613,
-      "word": "现在回家总要开灯啊",
-      "onboard_time": 1691548234,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 154928,
@@ -964,7 +988,7 @@
     },
     {
       "raw_hot": 116122,
-      "num": 488174,
+      "num": 538342,
       "word": "紧握的手是子弟兵给的安全感",
       "onboard_time": 1691539114,
       "rank": 9,
