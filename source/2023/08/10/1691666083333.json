@@ -1,0 +1,410 @@
+{
+  "runTime": 1691666083333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1611267,
+        "num": 1611267,
+        "word": "刘星那是我姐",
+        "onboard_time": 1691661093,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 831916,
+        "num": 831916,
+        "word": "我不是药神白血病少年饰演者成了捐髓者",
+        "onboard_time": 1691652274,
+        "rank": 1,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 76986,
+        "num": 732145,
+        "word": "大熊猫的爱情我们来守护",
+        "onboard_time": 1691655935,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2707927,
+        "num": 731860,
+        "word": "梅林殉情",
+        "onboard_time": 1691664214,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542665,
+        "num": 729843,
+        "word": "终于可以乘高铁去荔波了",
+        "onboard_time": 1691662714,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 727853,
+        "num": 727853,
+        "word": "湖南一女子与镇干部水库游泳溺亡",
+        "onboard_time": 1691658635,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324027,
+        "num": 722675,
+        "word": "3岁女孩走丢告诉民警她叫小美女",
+        "onboard_time": 1691654075,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719924,
+        "num": 719924,
+        "word": "肖战演的手抖",
+        "onboard_time": 1691661754,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604201,
+        "num": 604201,
+        "word": "芭莎再现孟宴臣",
+        "onboard_time": 1691662414,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244021,
+        "num": 598637,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 834149,
+        "num": 597839,
+        "word": "儿子手机上的支付宝存了15万",
+        "onboard_time": 1691649622,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 594037,
+        "num": 594037,
+        "word": "刘诗诗行走的山茶花",
+        "onboard_time": 1691663674,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191519,
+        "num": 537083,
+        "word": "如何看待美特斯邦威破产式捐赠",
+        "onboard_time": 1691663614,
+        "rank": 12,
+        "category": "财经,社会议题"
+      },
+      {
+        "raw_hot": 164922,
+        "num": 536836,
+        "word": "湖南卫健委与中南大学成立联合调查组",
+        "onboard_time": 1691648793,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 17405,
+        "num": 536770,
+        "word": "救援队长称最大的心愿是换台车好好救人",
+        "onboard_time": 1691665234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536721,
+        "num": 536721,
+        "word": "爸爸当家",
+        "onboard_time": 1691657795,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477467,
+        "num": 477467,
+        "word": "摩羯这个星座太苦了",
+        "onboard_time": 1691657374,
+        "rank": 16,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 447985,
+        "num": 447985,
+        "word": "新东方",
+        "onboard_time": 1691662295,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 443094,
+        "num": 443094,
+        "word": "长相思",
+        "onboard_time": 1691663193,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439441,
+        "num": 439441,
+        "word": "七时吉祥",
+        "onboard_time": 1691664574,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 905342,
+        "num": 439029,
+        "word": "女幼师疑出轨学生家长被抓当街游行",
+        "onboard_time": 1691656774,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799542,
+        "num": 434595,
+        "word": "补完牙把舌头当棉花咬了一小时",
+        "onboard_time": 1691663374,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 773693,
+        "num": 428608,
+        "word": "因为太瘦工作没了",
+        "onboard_time": 1691663974,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 597039,
+        "num": 427245,
+        "word": "上海一小区垃圾站惊现男尸",
+        "onboard_time": 1691663016,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424835,
+        "num": 424835,
+        "word": "欧阳娜娜演张艺凡师姐",
+        "onboard_time": 1691663433,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366548,
+        "num": 366548,
+        "word": "莲花楼是古装探案悬疑剧",
+        "onboard_time": 1691665474,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333021,
+        "num": 333021,
+        "word": "饶雪漫 造成误会很抱歉",
+        "onboard_time": 1691647294,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326954,
+        "num": 326954,
+        "word": "代号鸢",
+        "onboard_time": 1691664694,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 315719,
+        "num": 315719,
+        "word": "ENHYPEN去哪了",
+        "onboard_time": 1691665055,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296012,
+        "num": 296012,
+        "word": "王源炸毛了",
+        "onboard_time": 1691643456,
+        "rank": 29,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 295857,
+        "num": 295857,
+        "word": "湘雅三院孟婕已停诊",
+        "onboard_time": 1691648734,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274059,
+        "num": 274059,
+        "word": "徐明浩直播",
+        "onboard_time": 1691663854,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268696,
+        "num": 268696,
+        "word": "年轻人的体检报告",
+        "onboard_time": 1691653533,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 265950,
+        "num": 265950,
+        "word": "长相思主演角色籍贯",
+        "onboard_time": 1691662233,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261673,
+        "num": 261673,
+        "word": "无痕西瓜吃法",
+        "onboard_time": 1691661995,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 256847,
+        "num": 256847,
+        "word": "地震局回应大量燕子夜间漫天飞舞",
+        "onboard_time": 1691658873,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253993,
+        "num": 253993,
+        "word": "邓为被迫放弃潮到风湿",
+        "onboard_time": 1691657617,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241601,
+        "num": 241601,
+        "word": "封神第一部票房破18亿",
+        "onboard_time": 1691650232,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240836,
+        "num": 240836,
+        "word": "向佐嘲笑壮壮妈成为壮壮妈",
+        "onboard_time": 1691651074,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228561,
+        "num": 228561,
+        "word": "何泓姗董思成新剧预告亲了5次",
+        "onboard_time": 1691663555,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222645,
+        "num": 222645,
+        "word": "体重280斤店员被殴打拒不还手",
+        "onboard_time": 1691656233,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216255,
+        "num": 216255,
+        "word": "桐华说长相思不是悲剧",
+        "onboard_time": 1691656356,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215110,
+        "num": 215110,
+        "word": "谁说我家女儿要出嫁",
+        "onboard_time": 1691665594,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211667,
+        "num": 211667,
+        "word": "邓为见面会",
+        "onboard_time": 1691650473,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207054,
+        "num": 207054,
+        "word": "网传乳腺外科医师搜出1.5亿不实",
+        "onboard_time": 1691659656,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180948,
+        "num": 207045,
+        "word": "莲花楼打戏美学",
+        "onboard_time": 1691666015,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175563,
+        "num": 206985,
+        "word": "封神",
+        "onboard_time": 1691649274,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164964,
+        "num": 206966,
+        "word": "男篮徐杰",
+        "onboard_time": 1691648373,
+        "rank": 47,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 157353,
+        "num": 206928,
+        "word": "时代少年团特权码",
+        "onboard_time": 1691650174,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155714,
+        "num": 206909,
+        "word": "MCD",
+        "onboard_time": 1691664635,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#将调查研究发扬光大#"
+    }
+  }
+}

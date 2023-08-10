@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691663757010,
+  "endTime": 1691666083333,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -185,6 +185,14 @@
       "onboard_time": 1691375974,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 2707927,
+      "num": 731860,
+      "word": "梅林殉情",
+      "onboard_time": 1691664214,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2645043,
@@ -2291,6 +2299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 799542,
+      "num": 434595,
+      "word": "补完牙把舌头当棉花咬了一小时",
+      "onboard_time": 1691663374,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 797300,
       "num": 627053,
       "word": "晋江大大们都好美",
@@ -2369,6 +2385,14 @@
       "onboard_time": 1691587896,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 773693,
+      "num": 428608,
+      "word": "因为太瘦工作没了",
+      "onboard_time": 1691663974,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 768454,
@@ -2665,6 +2689,14 @@
       "onboard_time": 1691511391,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 719924,
+      "num": 719924,
+      "word": "肖战演的手抖",
+      "onboard_time": 1691661754,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 719842,
@@ -3259,6 +3291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 604201,
+      "num": 604201,
+      "word": "芭莎再现孟宴臣",
+      "onboard_time": 1691662414,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 602781,
       "num": 602781,
       "word": "莲花楼调更",
@@ -3289,6 +3329,22 @@
       "onboard_time": 1691644773,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597039,
+      "num": 427245,
+      "word": "上海一小区垃圾站惊现男尸",
+      "onboard_time": 1691663016,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594037,
+      "num": 594037,
+      "word": "刘诗诗行走的山茶花",
+      "onboard_time": 1691663674,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 593958,
@@ -3739,6 +3795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 542665,
+      "num": 729843,
+      "word": "终于可以乘高铁去荔波了",
+      "onboard_time": 1691662714,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 541083,
       "num": 484919,
       "word": "黄晓明还是那个打字速度",
@@ -3835,14 +3899,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 522009,
-      "num": 522009,
-      "word": "肖战演的手抖",
-      "onboard_time": 1691661754,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 521870,
       "num": 518739,
       "word": "刘耀文唯一一次赢是因为土豆",
@@ -3905,14 +3961,6 @@
       "onboard_time": 1691586095,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 518064,
-      "num": 279703,
-      "word": "上海一小区垃圾站惊现男尸",
-      "onboard_time": 1691663016,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 517806,
@@ -4411,14 +4459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 451221,
-      "num": 342275,
-      "word": "补完牙把舌头当棉花咬了一小时",
-      "onboard_time": 1691663374,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 451135,
       "num": 495705,
       "word": "医疗反腐",
@@ -4441,6 +4481,14 @@
       "onboard_time": 1691394040,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 447985,
+      "num": 447985,
+      "word": "新东方",
+      "onboard_time": 1691662295,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 446513,
@@ -4504,6 +4552,14 @@
       "word": "腾讯视频9号开放日",
       "onboard_time": 1691551117,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 439441,
+      "num": 439441,
+      "word": "七时吉祥",
+      "onboard_time": 1691378739,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -4673,6 +4729,14 @@
       "onboard_time": 1691412158,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 424835,
+      "num": 424835,
+      "word": "欧阳娜娜演张艺凡师姐",
+      "onboard_time": 1691663433,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 424747,
@@ -5323,6 +5387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366548,
+      "num": 366548,
+      "word": "莲花楼是古装探案悬疑剧",
+      "onboard_time": 1691665474,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366392,
       "num": 366392,
       "word": "闫妮微醺体质女演员",
@@ -5465,14 +5537,6 @@
       "onboard_time": 1691506599,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 354333,
-      "num": 354333,
-      "word": "芭莎再现孟宴臣",
-      "onboard_time": 1691662414,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 354304,
@@ -5673,6 +5737,14 @@
       "onboard_time": 1691410057,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 326954,
+      "num": 326954,
+      "word": "代号鸢",
+      "onboard_time": 1691664694,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 326689,
@@ -5905,6 +5977,14 @@
       "onboard_time": 1691545655,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315719,
+      "num": 315719,
+      "word": "ENHYPEN去哪了",
+      "onboard_time": 1691665055,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 315538,
@@ -6475,14 +6555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281420,
-      "num": 281420,
-      "word": "七时吉祥",
-      "onboard_time": 1691378739,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 281392,
       "num": 281392,
       "word": "薛之谦音乐节",
@@ -6547,14 +6619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278609,
-      "num": 278609,
-      "word": "新东方",
-      "onboard_time": 1691662295,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 277814,
       "num": 265744,
       "word": "8.9分华语爱情片巅峰",
@@ -6593,6 +6657,14 @@
       "onboard_time": 1691483618,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 274059,
+      "num": 274059,
+      "word": "徐明浩直播",
+      "onboard_time": 1691663854,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 273919,
@@ -6883,14 +6955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 258140,
-      "num": 258140,
-      "word": "终于可以乘高铁去荔波了",
-      "onboard_time": 1691662714,
-      "rank": 43,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 257541,
       "num": 257541,
       "word": "EDG超话",
@@ -7033,14 +7097,6 @@
       "onboard_time": 1691506659,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 249184,
-      "num": 249184,
-      "word": "欧阳娜娜演张艺凡师姐",
-      "onboard_time": 1691663433,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 248868,
@@ -7475,6 +7531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228561,
+      "num": 228561,
+      "word": "何泓姗董思成新剧预告亲了5次",
+      "onboard_time": 1691663555,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228119,
       "num": 202766,
       "word": "陈牧驰念战友的来信",
@@ -7785,6 +7849,14 @@
       "onboard_time": 1691643217,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215110,
+      "num": 215110,
+      "word": "谁说我家女儿要出嫁",
+      "onboard_time": 1691665594,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 214816,
@@ -8427,14 +8499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195691,
-      "num": 195691,
-      "word": "何泓姗董思成新剧预告亲了5次",
-      "onboard_time": 1691663555,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195508,
       "num": 195508,
       "word": "檀健次早期这钱不好挣啊",
@@ -8505,14 +8569,6 @@
       "onboard_time": 1691637572,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193529,
-      "num": 193529,
-      "word": "刘诗诗行走的山茶花",
-      "onboard_time": 1691663674,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 193376,
@@ -8609,6 +8665,14 @@
       "onboard_time": 1691536584,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191519,
+      "num": 537083,
+      "word": "如何看待美特斯邦威破产式捐赠",
+      "onboard_time": 1691663614,
+      "rank": 48,
+      "category": "财经,社会议题"
     },
     {
       "raw_hot": 191184,
@@ -8873,6 +8937,14 @@
       "onboard_time": 1691492018,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180948,
+      "num": 207045,
+      "word": "莲花楼打戏美学",
+      "onboard_time": 1691666015,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 179973,
@@ -9171,20 +9243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155714,
+      "num": 206909,
+      "word": "MCD",
+      "onboard_time": 1691664635,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154928,
       "num": 154928,
       "word": "暴雨洪灾中的守护者",
       "onboard_time": 1691541881,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153751,
-      "num": 173258,
-      "word": "如何看待美特斯邦威破产式捐赠",
-      "onboard_time": 1691663614,
-      "rank": 48,
-      "category": "财经,社会议题"
     },
     {
       "raw_hot": 153484,
@@ -10169,6 +10241,14 @@
       "onboard_time": 1691350394,
       "rank": 49,
       "category": "幽默,旅游"
+    },
+    {
+      "raw_hot": 17405,
+      "num": 536770,
+      "word": "救援队长称最大的心愿是换台车好好救人",
+      "onboard_time": 1691665234,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16584,
