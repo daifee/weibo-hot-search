@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691662736930,
+  "endTime": 1691663757010,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -611,6 +611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1664060,
+      "num": 1664060,
+      "word": "刘星那是我姐",
+      "onboard_time": 1691661093,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1658454,
       "num": 1109633,
       "word": "TFBOYS是在擦玻璃吗",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1691387499,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1320228,
-      "num": 1320228,
-      "word": "刘星那是我姐",
-      "onboard_time": 1691661093,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1319913,
@@ -3315,6 +3315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 592264,
+      "num": 592264,
+      "word": "长相思",
+      "onboard_time": 1691384923,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591532,
       "num": 382474,
       "word": "为什么煮出来的红豆粥是这样",
@@ -3827,6 +3835,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 522009,
+      "num": 522009,
+      "word": "肖战演的手抖",
+      "onboard_time": 1691661754,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521870,
       "num": 518739,
       "word": "刘耀文唯一一次赢是因为土豆",
@@ -3889,6 +3905,14 @@
       "onboard_time": 1691586095,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 518064,
+      "num": 279703,
+      "word": "上海一小区垃圾站惊现男尸",
+      "onboard_time": 1691663016,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517806,
@@ -3980,7 +4004,7 @@
     },
     {
       "raw_hot": 504999,
-      "num": 769108,
+      "num": 823062,
       "word": "3岁女孩走丢告诉民警她叫小美女",
       "onboard_time": 1691654075,
       "rank": 17,
@@ -4387,20 +4411,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 451221,
+      "num": 342275,
+      "word": "补完牙把舌头当棉花咬了一小时",
+      "onboard_time": 1691663374,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 451135,
       "num": 495705,
       "word": "医疗反腐",
       "onboard_time": 1691624308,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450965,
-      "num": 325952,
-      "word": "肖战演的手抖",
-      "onboard_time": 1691661754,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 449492,
@@ -5443,6 +5467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 354333,
+      "num": 354333,
+      "word": "芭莎再现孟宴臣",
+      "onboard_time": 1691662414,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354304,
       "num": 354304,
       "word": "曾黎王冰冰同框",
@@ -5552,14 +5584,6 @@
       "word": "莲花楼婚礼变葬礼",
       "onboard_time": 1691545835,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 343977,
-      "num": 343977,
-      "word": "长相思",
-      "onboard_time": 1691384923,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -5793,6 +5817,14 @@
       "onboard_time": 1691496758,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320649,
+      "num": 320649,
+      "word": "无痕西瓜吃法",
+      "onboard_time": 1691661995,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 320560,
@@ -6275,6 +6307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292235,
+      "num": 292235,
+      "word": "长相思主演角色籍贯",
+      "onboard_time": 1691662233,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291262,
       "num": 254181,
       "word": "邓为直播衣服是不是穿反了",
@@ -6505,6 +6545,14 @@
       "onboard_time": 1691464055,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278609,
+      "num": 278609,
+      "word": "新东方",
+      "onboard_time": 1691662295,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 277814,
@@ -6779,6 +6827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261235,
+      "num": 261235,
+      "word": "长相思哈基米随主人",
+      "onboard_time": 1691662111,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260959,
       "num": 260959,
       "word": "刘亦菲玫瑰故事白衣路透",
@@ -6825,6 +6881,14 @@
       "onboard_time": 1691580695,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258140,
+      "num": 258140,
+      "word": "终于可以乘高铁去荔波了",
+      "onboard_time": 1691662714,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 257541,
@@ -6969,6 +7033,14 @@
       "onboard_time": 1691506659,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249184,
+      "num": 249184,
+      "word": "欧阳娜娜演张艺凡师姐",
+      "onboard_time": 1691663433,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 248868,
@@ -8179,14 +8251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201019,
-      "num": 201019,
-      "word": "长相思哈基米随主人",
-      "onboard_time": 1691662111,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200810,
       "num": 200810,
       "word": "刘耀文wink完就害羞",
@@ -8363,6 +8427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195691,
+      "num": 195691,
+      "word": "何泓姗董思成新剧预告亲了5次",
+      "onboard_time": 1691663555,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195508,
       "num": 195508,
       "word": "檀健次早期这钱不好挣啊",
@@ -8433,6 +8505,14 @@
       "onboard_time": 1691637572,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193529,
+      "num": 193529,
+      "word": "刘诗诗行走的山茶花",
+      "onboard_time": 1691663674,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193376,
@@ -8747,14 +8827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182189,
-      "num": 182189,
-      "word": "无痕西瓜吃法",
-      "onboard_time": 1691661995,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 182086,
       "num": 817365,
       "word": "曼城vs阿森纳",
@@ -8803,20 +8875,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180460,
-      "num": 180460,
-      "word": "长相思主演角色籍贯",
-      "onboard_time": 1691662233,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 179973,
       "num": 179973,
       "word": "中学讲座称被性骚扰是因女生风骚",
       "onboard_time": 1691628218,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177793,
+      "num": 177793,
+      "word": "四代女团队内视觉百慕大",
+      "onboard_time": 1691663734,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177753,
@@ -8833,22 +8905,6 @@
       "onboard_time": 1691321579,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177569,
-      "num": 177569,
-      "word": "终于可以乘高铁去荔波了",
-      "onboard_time": 1691662714,
-      "rank": 43,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 177523,
-      "num": 177523,
-      "word": "芭莎再现孟宴臣",
-      "onboard_time": 1691662414,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177168,
@@ -9121,6 +9177,14 @@
       "onboard_time": 1691541881,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153751,
+      "num": 173258,
+      "word": "如何看待美特斯邦威破产式捐赠",
+      "onboard_time": 1691663614,
+      "rank": 48,
+      "category": "财经,社会议题"
     },
     {
       "raw_hot": 153484,
@@ -9595,6 +9659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101893,
+      "num": 483213,
+      "word": "杭州82岁奶奶跳绳22年圈粉无数",
+      "onboard_time": 1691661693,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99315,
       "num": 150911,
       "word": "小企鹅们集体背着书包出来了",
@@ -9953,14 +10025,6 @@
       "onboard_time": 1691345658,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46709,
-      "num": 483213,
-      "word": "杭州82岁奶奶跳绳22年圈粉无数",
-      "onboard_time": 1691661693,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46180,
