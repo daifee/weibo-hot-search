@@ -1,0 +1,410 @@
+{
+  "runTime": 1691642034152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2429806,
+        "num": 2429806,
+        "word": "湘雅三医院9名医务人员联名举报科主任",
+        "onboard_time": 1691627496,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1999673,
+        "num": 1999673,
+        "word": "杭州新东方全面停课",
+        "onboard_time": 1691634033,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43059,
+        "num": 1620236,
+        "word": "盘点大运会舞台上的国风蜀韵",
+        "onboard_time": 1691636135,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1434454,
+        "num": 1434454,
+        "word": "女孩因上学爱转笔设计出可以转的杯子",
+        "onboard_time": 1691632172,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952790,
+        "num": 952790,
+        "word": "长相思双生大片",
+        "onboard_time": 1691638654,
+        "rank": 4,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 950533,
+        "num": 950533,
+        "word": "韩国台风",
+        "onboard_time": 1691639014,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781981,
+        "num": 781981,
+        "word": "李雪琴汪苏泷去了王鹤棣家炸串店",
+        "onboard_time": 1691631511,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 659842,
+        "num": 659842,
+        "word": "长相思今晚是梅林殉情",
+        "onboard_time": 1691633253,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 651899,
+        "num": 651899,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 571286,
+        "num": 571286,
+        "word": "EDG向TheShy道歉",
+        "onboard_time": 1691633673,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 604785,
+        "num": 570416,
+        "word": "王俊凯网吧直播",
+        "onboard_time": 1691629775,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561547,
+        "num": 561547,
+        "word": "莲花楼有第二部吗",
+        "onboard_time": 1691637392,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 555409,
+        "num": 555409,
+        "word": "张柏芝港风大波浪",
+        "onboard_time": 1691639673,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 493687,
+        "num": 493687,
+        "word": "唐嫣念无双妆造没有换",
+        "onboard_time": 1691634634,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477915,
+        "num": 477915,
+        "word": "文旅部公布恢复出境团队游第3批名单",
+        "onboard_time": 1691641054,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457915,
+        "num": 457915,
+        "word": "Amber一个包随身带7年",
+        "onboard_time": 1691636135,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450603,
+        "num": 450603,
+        "word": "网红称要让补课行为在浙江断根",
+        "onboard_time": 1691641176,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 435171,
+        "num": 435171,
+        "word": "国漫五大白发",
+        "onboard_time": 1691639074,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 433305,
+        "num": 433305,
+        "word": "原来高铁有这么多冷知识",
+        "onboard_time": 1691625151,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394739,
+        "num": 394739,
+        "word": "相柳别哭喂你吃螺蛳粉",
+        "onboard_time": 1691636135,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 749638,
+        "num": 394548,
+        "word": "赵丽颖吊带紫裙",
+        "onboard_time": 1691638412,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722852,
+        "num": 394221,
+        "word": "为什么川菜重油却很少有胖子",
+        "onboard_time": 1691633073,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412416,
+        "num": 394013,
+        "word": "檀健次说选角期少不了流言蜚语",
+        "onboard_time": 1691640695,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393727,
+        "num": 393727,
+        "word": "小伙住宾馆发现抽屉里有10万纸币",
+        "onboard_time": 1691633913,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379721,
+        "num": 379721,
+        "word": "王者荣耀瑶",
+        "onboard_time": 1691629536,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 318664,
+        "num": 318664,
+        "word": "吉娘娘将回归维密秀",
+        "onboard_time": 1691636493,
+        "rank": 25,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 317336,
+        "num": 317336,
+        "word": "Lisa穿泳装",
+        "onboard_time": 1691625632,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288131,
+        "num": 288131,
+        "word": "12岁女孩自学建模实现手办自由",
+        "onboard_time": 1691637692,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274084,
+        "num": 274084,
+        "word": "SM称不知道伯贤成立个人公司",
+        "onboard_time": 1691635296,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269115,
+        "num": 269115,
+        "word": "长相思今天剧照有糖",
+        "onboard_time": 1691637635,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260364,
+        "num": 260364,
+        "word": "e人与i人的坐姿",
+        "onboard_time": 1691641597,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259877,
+        "num": 259877,
+        "word": "女子给婴儿哺乳被阻空乘称起飞时不可进食",
+        "onboard_time": 1691626233,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250021,
+        "num": 250021,
+        "word": "看金晨被扎手戏幻痛了",
+        "onboard_time": 1691634813,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246818,
+        "num": 246818,
+        "word": "铁头",
+        "onboard_time": 1691638832,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 240746,
+        "num": 240746,
+        "word": "近视的人别吃太多甜食",
+        "onboard_time": 1691626594,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227951,
+        "num": 227951,
+        "word": "优酷 泼天的富贵",
+        "onboard_time": 1691590057,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222667,
+        "num": 222667,
+        "word": "福岛核电站高辐射沙袋靠近一小时可致命",
+        "onboard_time": 1691633553,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221067,
+        "num": 221067,
+        "word": "张艺兴电影吃马桶纸是真吃",
+        "onboard_time": 1691641836,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217633,
+        "num": 217633,
+        "word": "吴京曾提到有演员因角色小而放弃封神",
+        "onboard_time": 1691624668,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214214,
+        "num": 214214,
+        "word": "郭子凡在敖子逸蒋依依身后孤单",
+        "onboard_time": 1691637870,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206074,
+        "num": 206074,
+        "word": "李维嘉土味情话好油",
+        "onboard_time": 1691641958,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203828,
+        "num": 203828,
+        "word": "谁抢到了lauv成都场",
+        "onboard_time": 1691641358,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203344,
+        "num": 203344,
+        "word": "i人不会被电话诈骗的原因",
+        "onboard_time": 1691641537,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202325,
+        "num": 202325,
+        "word": "龚俊版恐龙扛狼",
+        "onboard_time": 1691641958,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192850,
+        "num": 202325,
+        "word": "杭州新东方回应停课",
+        "onboard_time": 1691641415,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199388,
+        "num": 202324,
+        "word": "县城整治医药腐败403人主动退赃",
+        "onboard_time": 1691627076,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193439,
+        "num": 202324,
+        "word": "Lisa入驻2023亚洲名人堂",
+        "onboard_time": 1691625695,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 192894,
+        "num": 202323,
+        "word": "孤注一掷",
+        "onboard_time": 1691632052,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180019,
+        "num": 202323,
+        "word": "台风卡努",
+        "onboard_time": 1691631335,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178165,
+        "num": 202322,
+        "word": "刚出月子的爱宝胖出双下巴",
+        "onboard_time": 1691628756,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#越织越密的中国高铁网将送上更多惊喜#"
+    }
+  }
+}

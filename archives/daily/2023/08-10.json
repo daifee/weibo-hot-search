@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691641223051,
+  "endTime": 1691642034152,
   "band_list": [
     {
       "raw_hot": 3138717,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1334132,
-      "num": 569112,
+      "num": 570416,
       "word": "王俊凯网吧直播",
       "onboard_time": 1691629775,
       "rank": 12,
@@ -131,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 952790,
+      "num": 952790,
+      "word": "长相思双生大片",
+      "onboard_time": 1691638654,
+      "rank": 5,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 919864,
       "num": 919864,
       "word": "一名殡葬专业学生的课表",
@@ -155,14 +163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 848734,
-      "num": 848734,
-      "word": "长相思双生大片",
-      "onboard_time": 1691638654,
-      "rank": 5,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 821243,
       "num": 821243,
       "word": "王者荣耀瑶",
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 759772,
-      "num": 347416,
+      "num": 394548,
       "word": "赵丽颖吊带紫裙",
       "onboard_time": 1691638412,
       "rank": 24,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 730086,
-      "num": 381263,
+      "num": 394221,
       "word": "为什么川菜重油却很少有胖子",
       "onboard_time": 1691633073,
       "rank": 20,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 651899,
+      "num": 651899,
+      "word": "女子翻看去世爸爸手机后破防了",
+      "onboard_time": 1691640574,
+      "rank": 33,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 647323,
       "num": 563133,
       "word": "刚出月子的爱宝胖出双下巴",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 646650,
-      "num": 381159,
+      "num": 393727,
       "word": "小伙住宾馆发现抽屉里有10万纸币",
       "onboard_time": 1691633913,
       "rank": 21,
@@ -307,12 +315,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 553028,
-      "num": 553028,
+      "raw_hot": 561547,
+      "num": 561547,
       "word": "莲花楼有第二部吗",
       "onboard_time": 1691637392,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 555409,
+      "num": 555409,
+      "word": "张柏芝港风大波浪",
+      "onboard_time": 1691639673,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 540245,
@@ -329,14 +345,6 @@
       "onboard_time": 1691589758,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 529398,
-      "num": 529398,
-      "word": "张柏芝港风大波浪",
-      "onboard_time": 1691639673,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 521616,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477915,
+      "num": 477915,
+      "word": "文旅部公布恢复出境团队游第3批名单",
+      "onboard_time": 1691641054,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467798,
       "num": 467798,
       "word": "看金晨被扎手戏幻痛了",
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450603,
+      "num": 450603,
+      "word": "网红称要让补课行为在浙江断根",
+      "onboard_time": 1691641176,
+      "rank": 39,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 449492,
       "num": 449492,
       "word": "莲花楼团员跳团建舞蹈还差成毅",
@@ -449,6 +473,14 @@
       "onboard_time": 1691592762,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 435171,
+      "num": 435171,
+      "word": "国漫五大白发",
+      "onboard_time": 1691639074,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 429230,
@@ -475,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412416,
+      "num": 394013,
+      "word": "檀健次说选角期少不了流言蜚语",
+      "onboard_time": 1691640695,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 407700,
       "num": 407700,
       "word": "怪不得耳鼻咽喉分在同一个科室",
@@ -497,14 +537,6 @@
       "onboard_time": 1691624007,
       "rank": 49,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 399518,
-      "num": 399518,
-      "word": "国漫五大白发",
-      "onboard_time": 1691639074,
-      "rank": 17,
-      "category": "动漫"
     },
     {
       "raw_hot": 396549,
@@ -747,20 +779,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269655,
-      "num": 269655,
-      "word": "檀健次说选角期少不了流言蜚语",
-      "onboard_time": 1691640695,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 269463,
       "num": 269463,
       "word": "胡锡进 北京这场大暴雨超出认知",
       "onboard_time": 1691589097,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260364,
+      "num": 260364,
+      "word": "e人与i人的坐姿",
+      "onboard_time": 1691641597,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 258002,
@@ -785,14 +817,6 @@
       "onboard_time": 1691638832,
       "rank": 31,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 245901,
-      "num": 245901,
-      "word": "女子翻看去世爸爸手机后破防了",
-      "onboard_time": 1691640574,
-      "rank": 33,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 245088,
@@ -873,6 +897,14 @@
       "onboard_time": 1691591321,
       "rank": 29,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 221067,
+      "num": 221067,
+      "word": "张艺兴电影吃马桶纸是真吃",
+      "onboard_time": 1691641836,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 220225,
@@ -963,12 +995,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202256,
-      "num": 202256,
-      "word": "网红称要让补课行为在浙江断根",
-      "onboard_time": 1691641176,
-      "rank": 39,
-      "category": "社会新闻,网红"
+      "raw_hot": 206074,
+      "num": 206074,
+      "word": "李维嘉土味情话好油",
+      "onboard_time": 1691641958,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203828,
+      "num": 203828,
+      "word": "谁抢到了lauv成都场",
+      "onboard_time": 1691641358,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 203344,
+      "num": 203344,
+      "word": "i人不会被电话诈骗的原因",
+      "onboard_time": 1691641537,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 202325,
+      "num": 202325,
+      "word": "龚俊版恐龙扛狼",
+      "onboard_time": 1691641958,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 201618,
@@ -1027,6 +1083,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192894,
+      "num": 202323,
+      "word": "孤注一掷",
+      "onboard_time": 1691632052,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192850,
+      "num": 202325,
+      "word": "杭州新东方回应停课",
+      "onboard_time": 1691641415,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192400,
       "num": 192400,
       "word": "乌斯怀亚 好像世界的尽头",
@@ -1064,14 +1136,6 @@
       "word": "大鹏为自己和王一博辟谣了",
       "onboard_time": 1691579855,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 185361,
-      "num": 185361,
-      "word": "孤注一掷",
-      "onboard_time": 1691632052,
-      "rank": 41,
       "category": "影视"
     },
     {
