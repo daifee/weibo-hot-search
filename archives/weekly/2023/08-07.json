@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691674661523,
+  "endTime": 1691677021400,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -867,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1504737,
+      "num": 561884,
+      "word": "尊嘟假嘟",
+      "onboard_time": 1691674477,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1502269,
       "num": 1090434,
       "word": "北大教授称我国目前收入水平还是太低",
@@ -1163,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1313516,
+      "num": 1313516,
+      "word": "相柳小夭37年原著描写",
+      "onboard_time": 1691672914,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1313411,
       "num": 1223509,
       "word": "Prada把檀健次拍成维修工了",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1691385819,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1288797,
+      "num": 553678,
+      "word": "杨超越演技",
+      "onboard_time": 1691675138,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1266157,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1691384982,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1133097,
+      "num": 545880,
+      "word": "黄晓明喊话蒋欣真的不能再哭了",
+      "onboard_time": 1691674174,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 1133072,
@@ -1931,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 928983,
+      "num": 539742,
+      "word": "建议梅林这一段换个BGM",
+      "onboard_time": 1691672796,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 916312,
       "num": 916312,
       "word": "封神票房",
@@ -2041,14 +2081,6 @@
       "onboard_time": 1691575776,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 884014,
-      "num": 1096659,
-      "word": "相柳小夭37年原著描写",
-      "onboard_time": 1691672914,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 882048,
@@ -2507,14 +2539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 765678,
-      "num": 539742,
-      "word": "建议梅林这一段换个BGM",
-      "onboard_time": 1691672796,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 764015,
       "num": 764015,
       "word": "崔胜澈直播呢",
@@ -2769,6 +2793,14 @@
       "onboard_time": 1691568459,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 723693,
+      "num": 363219,
+      "word": "19岁男生送外卖撞车被家人骂去死",
+      "onboard_time": 1691674958,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 723044,
@@ -3081,6 +3113,14 @@
       "onboard_time": 1691414018,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 654803,
+      "num": 362738,
+      "word": "邓紫棋 薛之谦嘉宾",
+      "onboard_time": 1691675317,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 653266,
@@ -3563,6 +3603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 586976,
+      "num": 360807,
+      "word": "第一次见六个人平番的剧",
+      "onboard_time": 1691673995,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 586941,
       "num": 586941,
       "word": "WBG",
@@ -3648,6 +3696,14 @@
       "word": "檀健次夸有杨紫的地方不会冷场",
       "onboard_time": 1691469400,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 575400,
+      "num": 359948,
+      "word": "现在这么流行水下接吻吗",
+      "onboard_time": 1691674116,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -3913,6 +3969,14 @@
       "onboard_time": 1691417680,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544503,
+      "num": 544503,
+      "word": "在新疆连玩10天有多爽",
+      "onboard_time": 1691675679,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 543959,
@@ -4827,6 +4891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431009,
+      "num": 341834,
+      "word": "周深深深感谢你9周年演唱会",
+      "onboard_time": 1691676398,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 430333,
       "num": 430333,
       "word": "虞书欣工作室为小兰花庆生",
@@ -5603,6 +5675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364097,
+      "num": 364097,
+      "word": "Faker含金量",
+      "onboard_time": 1691675437,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 363695,
       "num": 363695,
       "word": "原来臣妾先去更衣是这个意思",
@@ -5809,14 +5889,6 @@
       "onboard_time": 1691666377,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 345596,
-      "num": 316089,
-      "word": "现在这么流行水下接吻吗",
-      "onboard_time": 1691674116,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 345584,
@@ -6395,14 +6467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302753,
-      "num": 302753,
-      "word": "黄晓明喊话蒋欣真的不能再哭了",
-      "onboard_time": 1691674174,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 302602,
       "num": 284914,
       "word": "大鹏王一博亮相热烈泰国首映",
@@ -6417,6 +6481,14 @@
       "onboard_time": 1691396677,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300625,
+      "num": 251314,
+      "word": "金晨浅跳个舞庆祝票房10亿",
+      "onboard_time": 1691676519,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 300493,
@@ -6465,6 +6537,14 @@
       "onboard_time": 1691552258,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 298258,
+      "num": 298258,
+      "word": "去意大利旅行要知道的防诈提醒",
+      "onboard_time": 1691671714,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 298249,
@@ -6585,14 +6665,6 @@
       "onboard_time": 1691542058,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 293986,
-      "num": 293986,
-      "word": "第一次见六个人平番的剧",
-      "onboard_time": 1691673995,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 293926,
@@ -6979,14 +7051,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 269380,
-      "num": 269380,
-      "word": "去意大利旅行要知道的防诈提醒",
-      "onboard_time": 1691671714,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 268712,
       "num": 268712,
       "word": "张艺兴说孤注一掷很有意义",
@@ -7249,6 +7313,14 @@
       "onboard_time": 1691356693,
       "rank": 30,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 255683,
+      "num": 255683,
+      "word": "金毛偷亲宝宝却把宝宝吓哭了",
+      "onboard_time": 1691674778,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 255222,
@@ -7865,6 +7937,14 @@
       "onboard_time": 1691670873,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226406,
+      "num": 226406,
+      "word": "火真不是涂山璟放的",
+      "onboard_time": 1691676638,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 226340,
@@ -8665,14 +8745,6 @@
       "onboard_time": 1691648012,
       "rank": 36,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 199306,
-      "num": 199306,
-      "word": "尊嘟假嘟",
-      "onboard_time": 1691674477,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 199234,
@@ -9803,6 +9875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137509,
+      "num": 807676,
+      "word": "紧急下达15.05亿元水利救灾资金",
+      "onboard_time": 1691673636,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136252,
       "num": 818685,
       "word": "TES对战XYG",
@@ -9849,6 +9929,14 @@
       "onboard_time": 1691411313,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132034,
+      "num": 209346,
+      "word": "只要肯吃苦 就会吃苦",
+      "onboard_time": 1691676938,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 131681,
@@ -10051,14 +10139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108998,
-      "num": 807676,
-      "word": "紧急下达15.05亿元水利救灾资金",
-      "onboard_time": 1691673636,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107921,
       "num": 644579,
       "word": "他们关键时刻冲得上去豁得出来",
@@ -10161,6 +10241,14 @@
       "onboard_time": 1691508937,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86414,
+      "num": 441017,
+      "word": "张凌赫体验500年前的露营",
+      "onboard_time": 1691676038,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 85917,

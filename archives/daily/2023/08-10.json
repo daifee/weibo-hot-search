@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691674661523,
+  "endTime": 1691677021400,
   "band_list": [
     {
       "raw_hot": 3970595,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1504737,
+      "num": 561884,
+      "word": "尊嘟假嘟",
+      "onboard_time": 1691674477,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1485607,
       "num": 1479289,
       "word": "女子从小诊断为真两性畸形无法正常工作",
@@ -227,12 +235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1313516,
+      "num": 1313516,
+      "word": "相柳小夭37年原著描写",
+      "onboard_time": 1691672914,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1312567,
       "num": 1312567,
       "word": "jiejie",
       "onboard_time": 1691598510,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1288797,
+      "num": 553678,
+      "word": "杨超越演技",
+      "onboard_time": 1691675138,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1245949,
@@ -288,6 +312,14 @@
       "word": "陈都灵没跳又好像跳了",
       "onboard_time": 1691643037,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1133097,
+      "num": 545880,
+      "word": "黄晓明喊话蒋欣真的不能再哭了",
+      "onboard_time": 1691674174,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -371,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 928983,
+      "num": 539742,
+      "word": "建议梅林这一段换个BGM",
+      "onboard_time": 1691672796,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 919864,
       "num": 919864,
       "word": "一名殡葬专业学生的课表",
@@ -393,14 +433,6 @@
       "onboard_time": 1691653533,
       "rank": 8,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 884014,
-      "num": 1096659,
-      "word": "相柳小夭37年原著描写",
-      "onboard_time": 1691672914,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 882048,
@@ -539,14 +571,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 765678,
-      "num": 539742,
-      "word": "建议梅林这一段换个BGM",
-      "onboard_time": 1691672796,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 759772,
       "num": 442786,
       "word": "赵丽颖吊带紫裙",
@@ -595,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 723693,
+      "num": 363219,
+      "word": "19岁男生送外卖撞车被家人骂去死",
+      "onboard_time": 1691674958,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721665,
       "num": 721665,
       "word": "Jennie疑似与YG解约",
@@ -641,6 +673,14 @@
       "onboard_time": 1691656595,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 654803,
+      "num": 362738,
+      "word": "邓紫棋 薛之谦嘉宾",
+      "onboard_time": 1691675317,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 647323,
@@ -755,11 +795,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 586976,
+      "num": 360807,
+      "word": "第一次见六个人平番的剧",
+      "onboard_time": 1691673995,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 582125,
       "num": 567134,
       "word": "相柳别哭喂你吃螺蛳粉",
       "onboard_time": 1691636135,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 575400,
+      "num": 359948,
+      "word": "现在这么流行水下接吻吗",
+      "onboard_time": 1691674116,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -849,6 +905,14 @@
       "onboard_time": 1691629656,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544503,
+      "num": 544503,
+      "word": "在新疆连玩10天有多爽",
+      "onboard_time": 1691675679,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 543959,
@@ -1059,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431009,
+      "num": 341834,
+      "word": "周深深深感谢你9周年演唱会",
+      "onboard_time": 1691676398,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 429230,
       "num": 534453,
       "word": "中央财政紧急预拨10亿元",
@@ -1219,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364097,
+      "num": 364097,
+      "word": "Faker含金量",
+      "onboard_time": 1691675437,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 363695,
       "num": 363695,
       "word": "原来臣妾先去更衣是这个意思",
@@ -1289,14 +1369,6 @@
       "onboard_time": 1691666377,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 345596,
-      "num": 316089,
-      "word": "现在这么流行水下接吻吗",
-      "onboard_time": 1691674116,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 345584,
@@ -1459,12 +1531,20 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 302753,
-      "num": 302753,
-      "word": "黄晓明喊话蒋欣真的不能再哭了",
-      "onboard_time": 1691674174,
-      "rank": 33,
+      "raw_hot": 300625,
+      "num": 251314,
+      "word": "金晨浅跳个舞庆祝票房10亿",
+      "onboard_time": 1691676519,
+      "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298258,
+      "num": 298258,
+      "word": "去意大利旅行要知道的防诈提醒",
+      "onboard_time": 1691671714,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 295002,
@@ -1481,14 +1561,6 @@
       "onboard_time": 1691669073,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293986,
-      "num": 293986,
-      "word": "第一次见六个人平番的剧",
-      "onboard_time": 1691673995,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 293546,
@@ -1651,14 +1723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269380,
-      "num": 269380,
-      "word": "去意大利旅行要知道的防诈提醒",
-      "onboard_time": 1691671714,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 266535,
       "num": 246948,
       "word": "一人之下电影也有三部吗",
@@ -1721,6 +1785,14 @@
       "onboard_time": 1691670273,
       "rank": 33,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 255683,
+      "num": 255683,
+      "word": "金毛偷亲宝宝却把宝宝吓哭了",
+      "onboard_time": 1691674778,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 254958,
@@ -1865,6 +1937,14 @@
       "onboard_time": 1691670873,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226406,
+      "num": 226406,
+      "word": "火真不是涂山璟放的",
+      "onboard_time": 1691676638,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 225172,
@@ -2113,14 +2193,6 @@
       "onboard_time": 1691648012,
       "rank": 36,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 199306,
-      "num": 199306,
-      "word": "尊嘟假嘟",
-      "onboard_time": 1691674477,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 197564,
@@ -2403,6 +2475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137509,
+      "num": 807676,
+      "word": "紧急下达15.05亿元水利救灾资金",
+      "onboard_time": 1691673636,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136115,
       "num": 218559,
       "word": "努力的意义究竟是什么",
@@ -2417,6 +2497,14 @@
       "onboard_time": 1691670814,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132034,
+      "num": 209346,
+      "word": "只要肯吃苦 就会吃苦",
+      "onboard_time": 1691676938,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 130885,
@@ -2475,14 +2563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108998,
-      "num": 807676,
-      "word": "紧急下达15.05亿元水利救灾资金",
-      "onboard_time": 1691673636,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103530,
       "num": 147105,
       "word": "黑莲花男主",
@@ -2521,6 +2601,14 @@
       "onboard_time": 1691589697,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86414,
+      "num": 441017,
+      "word": "张凌赫体验500年前的露营",
+      "onboard_time": 1691676038,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 83362,

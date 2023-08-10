@@ -1,0 +1,410 @@
+{
+  "runTime": 1691677021400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1313516,
+        "num": 1313516,
+        "word": "相柳小夭37年原著描写",
+        "onboard_time": 1691672914,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585156,
+        "num": 585156,
+        "word": "莲花楼为什么火了",
+        "onboard_time": 1691667516,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137509,
+        "num": 585156,
+        "word": "紧急下达15.05亿元水利救灾资金",
+        "onboard_time": 1691673636,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3189588,
+        "num": 570728,
+        "word": "梅林殉情",
+        "onboard_time": 1691664214,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1504737,
+        "num": 561884,
+        "word": "尊嘟假嘟",
+        "onboard_time": 1691674477,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1288797,
+        "num": 553678,
+        "word": "杨超越演技",
+        "onboard_time": 1691675138,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1133097,
+        "num": 545880,
+        "word": "黄晓明喊话蒋欣真的不能再哭了",
+        "onboard_time": 1691674174,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544503,
+        "num": 544503,
+        "word": "在新疆连玩10天有多爽",
+        "onboard_time": 1691675679,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 499965,
+        "num": 499965,
+        "word": "湖南一女子与镇干部水库游泳溺亡",
+        "onboard_time": 1691658635,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306416,
+        "num": 495115,
+        "word": "舒兰救灾失联公职人员张郅昭牺牲",
+        "onboard_time": 1691671295,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1559023,
+        "num": 480178,
+        "word": "赵丽颖的文案是尊嘟假嘟吧",
+        "onboard_time": 1691671233,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 928983,
+        "num": 476141,
+        "word": "建议梅林这一段换个BGM",
+        "onboard_time": 1691672796,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 877431,
+        "num": 459720,
+        "word": "王源易烊千玺同时为王俊凯回望宣传",
+        "onboard_time": 1691666737,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169640,
+        "num": 448023,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 86414,
+        "num": 441017,
+        "word": "张凌赫体验500年前的露营",
+        "onboard_time": 1691676038,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 806996,
+        "num": 430169,
+        "word": "长相思导演",
+        "onboard_time": 1691670814,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532060,
+        "num": 421376,
+        "word": "儿子手机上的支付宝存了15万",
+        "onboard_time": 1691649622,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410885,
+        "num": 410885,
+        "word": "谁说我家女儿要出嫁",
+        "onboard_time": 1691665594,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364097,
+        "num": 364097,
+        "word": "Faker含金量",
+        "onboard_time": 1691675437,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277723,
+        "num": 363791,
+        "word": "我不是药神白血病少年饰演者成了捐髓者",
+        "onboard_time": 1691652274,
+        "rank": 19,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 723693,
+        "num": 363219,
+        "word": "19岁男生送外卖撞车被家人骂去死",
+        "onboard_time": 1691674958,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654803,
+        "num": 362738,
+        "word": "邓紫棋 薛之谦嘉宾",
+        "onboard_time": 1691675317,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 654153,
+        "num": 362456,
+        "word": "网友好像他们仨play的一环",
+        "onboard_time": 1691669252,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 417469,
+        "num": 361711,
+        "word": "女幼师疑出轨学生家长被抓当街游行",
+        "onboard_time": 1691656774,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371737,
+        "num": 360944,
+        "word": "上海一小区垃圾站惊现男尸",
+        "onboard_time": 1691663016,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586976,
+        "num": 360807,
+        "word": "第一次见六个人平番的剧",
+        "onboard_time": 1691673995,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575400,
+        "num": 359948,
+        "word": "现在这么流行水下接吻吗",
+        "onboard_time": 1691674116,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502799,
+        "num": 359579,
+        "word": "孤注一掷票房破10亿",
+        "onboard_time": 1691671233,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359356,
+        "num": 359356,
+        "word": "因为太瘦工作没了",
+        "onboard_time": 1691663974,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 344527,
+        "num": 344527,
+        "word": "他在伤害你时已经权衡利弊了",
+        "onboard_time": 1691670034,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1576814,
+        "num": 342183,
+        "word": "邓为演技差点意思",
+        "onboard_time": 1691670034,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431009,
+        "num": 341834,
+        "word": "周深深深感谢你9周年演唱会",
+        "onboard_time": 1691676398,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 368053,
+        "num": 341681,
+        "word": "长月烬明登上阿里财报",
+        "onboard_time": 1691672618,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332157,
+        "num": 332157,
+        "word": "补完牙把舌头当棉花咬了一小时",
+        "onboard_time": 1691663374,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298258,
+        "num": 298258,
+        "word": "去意大利旅行要知道的防诈提醒",
+        "onboard_time": 1691671714,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 338247,
+        "num": 297999,
+        "word": "七时吉祥",
+        "onboard_time": 1691664574,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314210,
+        "num": 297884,
+        "word": "成毅舞剑",
+        "onboard_time": 1691673636,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297630,
+        "num": 297630,
+        "word": "摩羯这个星座太苦了",
+        "onboard_time": 1691657374,
+        "rank": 37,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 255683,
+        "num": 255683,
+        "word": "金毛偷亲宝宝却把宝宝吓哭了",
+        "onboard_time": 1691674778,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175814,
+        "num": 251755,
+        "word": "隔夜蛋糕怎么更好吃了",
+        "onboard_time": 1691669614,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300625,
+        "num": 251314,
+        "word": "金晨浅跳个舞庆祝票房10亿",
+        "onboard_time": 1691676519,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285062,
+        "num": 251035,
+        "word": "刘诗诗行走的山茶花",
+        "onboard_time": 1691663674,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250357,
+        "num": 250357,
+        "word": "于适向费翔告状",
+        "onboard_time": 1691672376,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226406,
+        "num": 226406,
+        "word": "火真不是涂山璟放的",
+        "onboard_time": 1691676638,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219799,
+        "num": 219799,
+        "word": "杨天真cos玉真公主",
+        "onboard_time": 1691673273,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175406,
+        "num": 219346,
+        "word": "小米王化回应用户倒卖门票",
+        "onboard_time": 1691670273,
+        "rank": 45,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 149519,
+        "num": 215698,
+        "word": "T1战胜KT",
+        "onboard_time": 1691670094,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148926,
+        "num": 215300,
+        "word": "库尔图瓦十字韧带重伤",
+        "onboard_time": 1691670814,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134657,
+        "num": 212994,
+        "word": "jiejie",
+        "onboard_time": 1691676938,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132034,
+        "num": 209346,
+        "word": "只要肯吃苦 就会吃苦",
+        "onboard_time": 1691676938,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
