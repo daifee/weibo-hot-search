@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691680730275,
+  "endTime": 1691681660231,
   "band_list": [
     {
       "raw_hot": 3970595,
@@ -387,19 +387,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1028807,
+      "num": 1028807,
+      "word": "封神路演主持人道歉",
+      "onboard_time": 1691678920,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1003837,
       "num": 1003837,
       "word": "吴京曾提到有演员因角色小而放弃封神",
       "onboard_time": 1691624668,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1002589,
-      "num": 1002589,
-      "word": "封神路演主持人道歉",
-      "onboard_time": 1691678920,
-      "rank": 6,
       "category": "影视"
     },
     {
@@ -747,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 634733,
+      "num": 634733,
+      "word": "董璇都演婆婆了",
+      "onboard_time": 1691678799,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 631436,
       "num": 631436,
       "word": "徐明浩 SEVENTEEN团综",
@@ -777,14 +785,6 @@
       "onboard_time": 1691626594,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 615778,
-      "num": 615778,
-      "word": "董璇都演婆婆了",
-      "onboard_time": 1691678799,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 604300,
@@ -820,7 +820,7 @@
     },
     {
       "raw_hot": 597074,
-      "num": 399388,
+      "num": 400529,
       "word": "涂山璟烧焦了",
       "onboard_time": 1691678260,
       "rank": 20,
@@ -995,12 +995,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 531659,
+      "num": 393635,
+      "word": "长相思观众好卷",
+      "onboard_time": 1691681137,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 530482,
       "num": 530482,
       "word": "爱奇艺10部热度值破万的剧集",
       "onboard_time": 1691589758,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 525282,
+      "num": 282655,
+      "word": "为什么会有月经同步现象",
+      "onboard_time": 1691680838,
+      "rank": 31,
+      "category": "其它"
     },
     {
       "raw_hot": 521616,
@@ -1124,7 +1140,7 @@
     },
     {
       "raw_hot": 452904,
-      "num": 398755,
+      "num": 399840,
       "word": "手镯有了黄金没看见",
       "onboard_time": 1691678142,
       "rank": 22,
@@ -1275,8 +1291,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 399762,
-      "num": 399762,
+      "raw_hot": 401140,
+      "num": 401140,
       "word": "高三的我记录每一支笔的死因",
       "onboard_time": 1691677119,
       "rank": 37,
@@ -1305,6 +1321,14 @@
       "onboard_time": 1691631272,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 384719,
+      "num": 384719,
+      "word": "甲骨文的屎字太形象了",
+      "onboard_time": 1691679880,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 384313,
@@ -1531,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325559,
+      "num": 280553,
+      "word": "莲花楼原著立意",
+      "onboard_time": 1691681320,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324666,
       "num": 253560,
       "word": "莲花楼大结局你满意吗",
@@ -1617,14 +1649,6 @@
       "onboard_time": 1691650473,
       "rank": 27,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 298453,
-      "num": 298453,
-      "word": "甲骨文的屎字太形象了",
-      "onboard_time": 1691679880,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 298258,
@@ -1731,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285067,
+      "num": 285067,
+      "word": "结婚好的话还用催啊",
+      "onboard_time": 1691679341,
+      "rank": 33,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 283616,
       "num": 338852,
       "word": "金毛偷亲宝宝却把宝宝吓哭了",
@@ -1803,14 +1835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272564,
-      "num": 272564,
-      "word": "结婚好的话还用催啊",
-      "onboard_time": 1691679341,
-      "rank": 33,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 272170,
       "num": 272170,
       "word": "刘宪华 just be me",
@@ -1833,6 +1857,14 @@
       "onboard_time": 1691669915,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264422,
+      "num": 264422,
+      "word": "理记 这波医疗反腐漏网的几乎不可能",
+      "onboard_time": 1691679762,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263579,
@@ -1900,7 +1932,7 @@
     },
     {
       "raw_hot": 253875,
-      "num": 219259,
+      "num": 240845,
       "word": "于适做引体向上问电影频道观众满意吗",
       "onboard_time": 1691680120,
       "rank": 43,
@@ -2027,14 +2059,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226726,
-      "num": 257937,
-      "word": "理记 这波医疗反腐漏网的几乎不可能",
-      "onboard_time": 1691679762,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226695,
       "num": 292488,
       "word": "徐杰",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1691624187,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218273,
+      "num": 218273,
+      "word": "柳岩怎么瘦了这么多",
+      "onboard_time": 1691681561,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218140,
@@ -2283,6 +2315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202253,
+      "num": 678848,
+      "word": "夫妻俩义务上门帮失能老人洗澡",
+      "onboard_time": 1691679100,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201618,
       "num": 201618,
       "word": "相柳和小夭告别",
@@ -2313,14 +2353,6 @@
       "onboard_time": 1691648012,
       "rank": 36,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 198326,
-      "num": 678848,
-      "word": "夫妻俩义务上门帮失能老人洗澡",
-      "onboard_time": 1691679100,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197564,
@@ -2467,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182118,
+      "num": 217912,
+      "word": "幼时她抱着他从医院走回家乡",
+      "onboard_time": 1691681440,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179973,
       "num": 179973,
       "word": "中学讲座称被性骚扰是因女生风骚",
@@ -2601,6 +2641,14 @@
       "onboard_time": 1691623646,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139810,
+      "num": 217080,
+      "word": "阿杰 声线变了更多是表演范畴",
+      "onboard_time": 1691681617,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 138907,
@@ -2803,6 +2851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 60731,
+      "num": 261697,
+      "word": "多家车企响应比亚迪王传福泪撒发布会",
+      "onboard_time": 1691679880,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57903,
       "num": 1527568,
       "word": "痛别暴雨洪灾中牺牲的英雄",
@@ -2857,14 +2913,6 @@
       "onboard_time": 1691609835,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38536,
-      "num": 257547,
-      "word": "多家车企响应比亚迪王传福泪撒发布会",
-      "onboard_time": 1691679880,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35508,
