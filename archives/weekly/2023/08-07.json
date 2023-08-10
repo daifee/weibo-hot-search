@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691673918144,
+  "endTime": 1691674661523,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3970595,
-      "num": 751981,
+      "num": 801241,
       "word": "梅林殉情",
       "onboard_time": 1691664214,
       "rank": 3,
@@ -1124,7 +1124,7 @@
     },
     {
       "raw_hot": 1332660,
-      "num": 548624,
+      "num": 752728,
       "word": "长相思导演",
       "onboard_time": 1691670814,
       "rank": 41,
@@ -2043,6 +2043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 884014,
+      "num": 1096659,
+      "word": "相柳小夭37年原著描写",
+      "onboard_time": 1691672914,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 882048,
       "num": 882048,
       "word": "EDG向TheShy道歉",
@@ -2496,6 +2504,14 @@
       "word": "王楚然张晚意娇藏改名",
       "onboard_time": 1691567558,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 765678,
+      "num": 539742,
+      "word": "建议梅林这一段换个BGM",
+      "onboard_time": 1691672796,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -3632,14 +3648,6 @@
       "word": "檀健次夸有杨紫的地方不会冷场",
       "onboard_time": 1691469400,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 576497,
-      "num": 206173,
-      "word": "相柳小夭37年原著描写",
-      "onboard_time": 1691672914,
-      "rank": 46,
       "category": "影视"
     },
     {
@@ -5803,6 +5811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 345596,
+      "num": 316089,
+      "word": "现在这么流行水下接吻吗",
+      "onboard_time": 1691674116,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345584,
       "num": 345584,
       "word": "余情 七时吉祥bgm",
@@ -5816,6 +5832,14 @@
       "word": "莲花楼婚礼变葬礼",
       "onboard_time": 1691545835,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 344168,
+      "num": 325282,
+      "word": "于适向费翔告状",
+      "onboard_time": 1691672376,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -5899,6 +5923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330533,
+      "num": 315525,
+      "word": "成毅舞剑",
+      "onboard_time": 1691673636,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 329058,
       "num": 329058,
       "word": "薛之谦演唱会",
@@ -5977,14 +6009,6 @@
       "onboard_time": 1691484998,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 325282,
-      "num": 325282,
-      "word": "于适向费翔告状",
-      "onboard_time": 1691672376,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 325272,
@@ -6371,6 +6395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302753,
+      "num": 302753,
+      "word": "黄晓明喊话蒋欣真的不能再哭了",
+      "onboard_time": 1691674174,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302602,
       "num": 284914,
       "word": "大鹏王一博亮相热烈泰国首映",
@@ -6555,12 +6587,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 293986,
+      "num": 293986,
+      "word": "第一次见六个人平番的剧",
+      "onboard_time": 1691673995,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293926,
       "num": 293926,
       "word": "杨千嬅演唱会躺着唱歌",
       "onboard_time": 1691501303,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 293546,
+      "num": 293546,
+      "word": "杨天真cos玉真公主",
+      "onboard_time": 1691673273,
+      "rank": 34,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 292318,
@@ -7731,14 +7779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229520,
-      "num": 229520,
-      "word": "杨天真cos玉真公主",
-      "onboard_time": 1691673273,
-      "rank": 34,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 229431,
       "num": 229431,
       "word": "夜晚1岁女童被困车内消防砸窗救人",
@@ -8243,14 +8283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211137,
-      "num": 211137,
-      "word": "成毅舞剑",
-      "onboard_time": 1691673636,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211104,
       "num": 211104,
       "word": "李莲花夺命三刀",
@@ -8635,6 +8667,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 199306,
+      "num": 199306,
+      "word": "尊嘟假嘟",
+      "onboard_time": 1691674477,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199234,
       "num": 199234,
       "word": "TTG甜甜糕转身预告",
@@ -8843,6 +8883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193777,
+      "num": 361617,
+      "word": "淘宝用户规模优势持续扩大",
+      "onboard_time": 1691672433,
+      "rank": 14,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 193677,
       "num": 193677,
       "word": "原神fes",
@@ -8905,14 +8953,6 @@
       "onboard_time": 1691507737,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 192426,
-      "num": 361617,
-      "word": "淘宝用户规模优势持续扩大",
-      "onboard_time": 1691672433,
-      "rank": 14,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 192400,
@@ -9051,6 +9091,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 188728,
+      "num": 206217,
+      "word": "梅派传人董飞表示男旦不是娘娘腔",
+      "onboard_time": 1691673816,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188519,
       "num": 188519,
       "word": "王鹤润跳queencard",
@@ -9089,14 +9137,6 @@
       "onboard_time": 1691664635,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185866,
-      "num": 206217,
-      "word": "梅派传人董飞表示男旦不是娘娘腔",
-      "onboard_time": 1691673816,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185812,
@@ -10011,6 +10051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108998,
+      "num": 807676,
+      "word": "紧急下达15.05亿元水利救灾资金",
+      "onboard_time": 1691673636,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107921,
       "num": 644579,
       "word": "他们关键时刻冲得上去豁得出来",
@@ -10488,14 +10536,6 @@
       "word": "救援队长称最大的心愿是换台车好好救人",
       "onboard_time": 1691665234,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34834,
-      "num": 640046,
-      "word": "紧急下达15.05亿元水利救灾资金",
-      "onboard_time": 1691673636,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

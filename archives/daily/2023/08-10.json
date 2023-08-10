@@ -1,10 +1,10 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691673918144,
+  "endTime": 1691674661523,
   "band_list": [
     {
       "raw_hot": 3970595,
-      "num": 751981,
+      "num": 801241,
       "word": "梅林殉情",
       "onboard_time": 1691664214,
       "rank": 3,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1332660,
-      "num": 548624,
+      "num": 752728,
       "word": "长相思导演",
       "onboard_time": 1691670814,
       "rank": 41,
@@ -395,6 +395,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 884014,
+      "num": 1096659,
+      "word": "相柳小夭37年原著描写",
+      "onboard_time": 1691672914,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 882048,
       "num": 882048,
       "word": "EDG向TheShy道歉",
@@ -529,6 +537,14 @@
       "onboard_time": 1691663974,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 765678,
+      "num": 539742,
+      "word": "建议梅林这一段换个BGM",
+      "onboard_time": 1691672796,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 759772,
@@ -744,14 +760,6 @@
       "word": "相柳别哭喂你吃螺蛳粉",
       "onboard_time": 1691636135,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 576497,
-      "num": 206173,
-      "word": "相柳小夭37年原著描写",
-      "onboard_time": 1691672914,
-      "rank": 46,
       "category": "影视"
     },
     {
@@ -1283,11 +1291,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 345596,
+      "num": 316089,
+      "word": "现在这么流行水下接吻吗",
+      "onboard_time": 1691674116,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345584,
       "num": 345584,
       "word": "余情 七时吉祥bgm",
       "onboard_time": 1691672255,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 344168,
+      "num": 325282,
+      "word": "于适向费翔告状",
+      "onboard_time": 1691672376,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1304,6 +1328,14 @@
       "word": "曾舜晞跳queencard",
       "onboard_time": 1691592820,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 330533,
+      "num": 315525,
+      "word": "成毅舞剑",
+      "onboard_time": 1691673636,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1344,14 +1376,6 @@
       "word": "莲花楼自来水",
       "onboard_time": 1691595694,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 325282,
-      "num": 325282,
-      "word": "于适向费翔告状",
-      "onboard_time": 1691672376,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -1435,6 +1459,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 302753,
+      "num": 302753,
+      "word": "黄晓明喊话蒋欣真的不能再哭了",
+      "onboard_time": 1691674174,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295002,
       "num": 295002,
       "word": "肖顺尧拒绝教王鹤润跳舞",
@@ -1449,6 +1481,22 @@
       "onboard_time": 1691669073,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293986,
+      "num": 293986,
+      "word": "第一次见六个人平番的剧",
+      "onboard_time": 1691673995,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 293546,
+      "num": 293546,
+      "word": "杨天真cos玉真公主",
+      "onboard_time": 1691673273,
+      "rank": 34,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 292318,
@@ -1779,14 +1827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 229520,
-      "num": 229520,
-      "word": "杨天真cos玉真公主",
-      "onboard_time": 1691673273,
-      "rank": 34,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 228561,
       "num": 228561,
       "word": "何泓姗董思成新剧预告亲了5次",
@@ -1987,14 +2027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 211137,
-      "num": 211137,
-      "word": "成毅舞剑",
-      "onboard_time": 1691673636,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210596,
       "num": 210596,
       "word": "原来电影热烈的故事是真实存在的",
@@ -2083,6 +2115,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 199306,
+      "num": 199306,
+      "word": "尊嘟假嘟",
+      "onboard_time": 1691674477,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197564,
       "num": 603283,
       "word": "如何看待美特斯邦威破产式捐赠",
@@ -2113,6 +2153,14 @@
       "onboard_time": 1691598271,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193777,
+      "num": 361617,
+      "word": "淘宝用户规模优势持续扩大",
+      "onboard_time": 1691672433,
+      "rank": 14,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 193677,
@@ -2147,14 +2195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192426,
-      "num": 361617,
-      "word": "淘宝用户规模优势持续扩大",
-      "onboard_time": 1691672433,
-      "rank": 14,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 192400,
       "num": 192400,
       "word": "乌斯怀亚 好像世界的尽头",
@@ -2179,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188728,
+      "num": 206217,
+      "word": "梅派传人董飞表示男旦不是娘娘腔",
+      "onboard_time": 1691673816,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188519,
       "num": 188519,
       "word": "王鹤润跳queencard",
@@ -2201,14 +2249,6 @@
       "onboard_time": 1691579855,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 185866,
-      "num": 206217,
-      "word": "梅派传人董飞表示男旦不是娘娘腔",
-      "onboard_time": 1691673816,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185088,
@@ -2435,6 +2475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108998,
+      "num": 807676,
+      "word": "紧急下达15.05亿元水利救灾资金",
+      "onboard_time": 1691673636,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103530,
       "num": 147105,
       "word": "黑莲花男主",
@@ -2584,14 +2632,6 @@
       "word": "救援队长称最大的心愿是换台车好好救人",
       "onboard_time": 1691665234,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34834,
-      "num": 640046,
-      "word": "紧急下达15.05亿元水利救灾资金",
-      "onboard_time": 1691673636,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
