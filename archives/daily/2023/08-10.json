@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691642034152,
+  "endTime": 1691644562644,
   "band_list": [
     {
       "raw_hot": 3138717,
@@ -59,6 +59,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1621881,
+      "num": 1274749,
+      "word": "e人与i人的坐姿",
+      "onboard_time": 1691641597,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1467929,
+      "num": 940504,
+      "word": "王源炸毛了",
+      "onboard_time": 1691643456,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1385786,
+      "num": 1385786,
+      "word": "网红称要让补课行为在浙江断根",
+      "onboard_time": 1691641176,
+      "rank": 39,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1334132,
       "num": 570416,
       "word": "王俊凯网吧直播",
@@ -99,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1099236,
+      "num": 1099236,
+      "word": "陈都灵没跳又好像跳了",
+      "onboard_time": 1691643037,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1043942,
       "num": 1043942,
       "word": "长相思今晚是梅林殉情",
@@ -129,6 +161,30 @@
       "onboard_time": 1691624668,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 989491,
+      "num": 989491,
+      "word": "张艺兴电影吃马桶纸是真吃",
+      "onboard_time": 1691641836,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 979868,
+      "num": 979868,
+      "word": "小夭血染梅林",
+      "onboard_time": 1691642918,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 971324,
+      "num": 971324,
+      "word": "女子翻看去世爸爸手机后破防了",
+      "onboard_time": 1691640574,
+      "rank": 33,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 952790,
@@ -163,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 854923,
+      "num": 854923,
+      "word": "文旅部公布恢复出境团队游第3批名单",
+      "onboard_time": 1691641054,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 821243,
       "num": 821243,
       "word": "王者荣耀瑶",
@@ -172,7 +236,7 @@
     },
     {
       "raw_hot": 759772,
-      "num": 394548,
+      "num": 442786,
       "word": "赵丽颖吊带紫裙",
       "onboard_time": 1691638412,
       "rank": 24,
@@ -204,7 +268,7 @@
     },
     {
       "raw_hot": 730086,
-      "num": 394221,
+      "num": 447945,
       "word": "为什么川菜重油却很少有胖子",
       "onboard_time": 1691633073,
       "rank": 20,
@@ -219,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 651899,
-      "num": 651899,
-      "word": "女子翻看去世爸爸手机后破防了",
-      "onboard_time": 1691640574,
-      "rank": 33,
-      "category": "社会新闻,情感"
+      "raw_hot": 670079,
+      "num": 670079,
+      "word": "檀健次说选角期少不了流言蜚语",
+      "onboard_time": 1691640695,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 647323,
@@ -403,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477915,
-      "num": 477915,
-      "word": "文旅部公布恢复出境团队游第3批名单",
-      "onboard_time": 1691641054,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 467798,
       "num": 467798,
       "word": "看金晨被扎手戏幻痛了",
@@ -435,20 +491,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452926,
+      "num": 452926,
+      "word": "没有J人能走出P人的房间",
+      "onboard_time": 1691642378,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 451135,
       "num": 495705,
       "word": "医疗反腐",
       "onboard_time": 1691624308,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450603,
-      "num": 450603,
-      "word": "网红称要让补课行为在浙江断根",
-      "onboard_time": 1691641176,
-      "rank": 39,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 449492,
@@ -507,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412416,
-      "num": 394013,
-      "word": "檀健次说选角期少不了流言蜚语",
-      "onboard_time": 1691640695,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 407700,
       "num": 407700,
       "word": "怪不得耳鼻咽喉分在同一个科室",
@@ -563,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364239,
+      "num": 364239,
+      "word": "刘宇宁七时吉祥守护主题曲",
+      "onboard_time": 1691643037,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363695,
       "num": 363695,
       "word": "原来臣妾先去更衣是这个意思",
@@ -576,6 +632,14 @@
       "word": "张晚意柳舟记出妆",
       "onboard_time": 1691634156,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 358152,
+      "num": 358152,
+      "word": "龚俊版恐龙扛狼",
+      "onboard_time": 1691641958,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -683,12 +747,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292318,
+      "num": 292318,
+      "word": "i人不会被电话诈骗的原因",
+      "onboard_time": 1691641537,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291262,
       "num": 254181,
       "word": "邓为直播衣服是不是穿反了",
       "onboard_time": 1691597014,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291027,
+      "num": 291027,
+      "word": "小米手环8 Pro",
+      "onboard_time": 1691642855,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 289626,
@@ -779,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272170,
+      "num": 272170,
+      "word": "刘宪华 just be me",
+      "onboard_time": 1691643336,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 269463,
       "num": 269463,
       "word": "胡锡进 北京这场大暴雨超出认知",
@@ -787,12 +875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260364,
-      "num": 260364,
-      "word": "e人与i人的坐姿",
-      "onboard_time": 1691641597,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 260663,
+      "num": 260663,
+      "word": "李维嘉土味情话好油",
+      "onboard_time": 1691641958,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 258002,
@@ -875,6 +963,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 231449,
+      "num": 231449,
+      "word": "TTG多巴胺写真",
+      "onboard_time": 1691643516,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228070,
       "num": 228070,
       "word": "王传君拜佛名场面",
@@ -899,11 +995,11 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 221067,
-      "num": 221067,
-      "word": "张艺兴电影吃马桶纸是真吃",
-      "onboard_time": 1691641836,
-      "rank": 37,
+      "raw_hot": 222251,
+      "num": 222251,
+      "word": "孤注一掷中的隐藏细节",
+      "onboard_time": 1691644175,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -931,12 +1027,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217783,
+      "num": 216530,
+      "word": "孤注一掷",
+      "onboard_time": 1691632052,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217515,
       "num": 217515,
       "word": "虞书欣凌妙妙造型",
       "onboard_time": 1691577395,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215870,
+      "num": 215870,
+      "word": "原神林尼",
+      "onboard_time": 1691643217,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 213600,
@@ -995,12 +1107,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206074,
-      "num": 206074,
-      "word": "李维嘉土味情话好油",
-      "onboard_time": 1691641958,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 206185,
+      "num": 206185,
+      "word": "杭州新东方回应停课",
+      "onboard_time": 1691641415,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203828,
@@ -1009,22 +1121,6 @@
       "onboard_time": 1691641358,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 203344,
-      "num": 203344,
-      "word": "i人不会被电话诈骗的原因",
-      "onboard_time": 1691641537,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 202325,
-      "num": 202325,
-      "word": "龚俊版恐龙扛狼",
-      "onboard_time": 1691641958,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 201618,
@@ -1083,22 +1179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192894,
-      "num": 202323,
-      "word": "孤注一掷",
-      "onboard_time": 1691632052,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 192850,
-      "num": 202325,
-      "word": "杭州新东方回应停课",
-      "onboard_time": 1691641415,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192400,
       "num": 192400,
       "word": "乌斯怀亚 好像世界的尽头",
@@ -1155,12 +1235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177187,
+      "num": 177187,
+      "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
+      "onboard_time": 1691644474,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176983,
       "num": 176983,
       "word": "龙皓晨登上神印王座",
       "onboard_time": 1691636073,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176486,
+      "num": 176486,
+      "word": "龚俊是懂安利的",
+      "onboard_time": 1691643217,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 172654,
@@ -1345,6 +1441,14 @@
       "onboard_time": 1691609835,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31310,
+      "num": 575995,
+      "word": "雷军是社恐型e人",
+      "onboard_time": 1691643637,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19652,

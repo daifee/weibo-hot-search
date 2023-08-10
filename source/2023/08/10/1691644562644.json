@@ -1,0 +1,410 @@
+{
+  "runTime": 1691644562644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2061100,
+        "num": 2061100,
+        "word": "湘雅三医院9名医务人员联名举报科主任",
+        "onboard_time": 1691627496,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1385786,
+        "num": 1385786,
+        "word": "网红称要让补课行为在浙江断根",
+        "onboard_time": 1691641176,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 32417,
+        "num": 1276747,
+        "word": "盘点大运会舞台上的国风蜀韵",
+        "onboard_time": 1691636135,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1621881,
+        "num": 1274749,
+        "word": "e人与i人的坐姿",
+        "onboard_time": 1691641597,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1272484,
+        "num": 1272484,
+        "word": "杭州新东方全面停课",
+        "onboard_time": 1691634033,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099236,
+        "num": 1099236,
+        "word": "陈都灵没跳又好像跳了",
+        "onboard_time": 1691643037,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 989491,
+        "num": 989491,
+        "word": "张艺兴电影吃马桶纸是真吃",
+        "onboard_time": 1691641836,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 979868,
+        "num": 979868,
+        "word": "小夭血染梅林",
+        "onboard_time": 1691642918,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 971324,
+        "num": 971324,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 957216,
+        "num": 957216,
+        "word": "女孩因上学爱转笔设计出可以转的杯子",
+        "onboard_time": 1691632172,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1467929,
+        "num": 940504,
+        "word": "王源炸毛了",
+        "onboard_time": 1691643456,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 854923,
+        "num": 854923,
+        "word": "文旅部公布恢复出境团队游第3批名单",
+        "onboard_time": 1691641054,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670079,
+        "num": 670079,
+        "word": "檀健次说选角期少不了流言蜚语",
+        "onboard_time": 1691640695,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 631319,
+        "num": 631319,
+        "word": "长相思双生大片",
+        "onboard_time": 1691638654,
+        "rank": 13,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 31310,
+        "num": 575995,
+        "word": "雷军是社恐型e人",
+        "onboard_time": 1691643637,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559343,
+        "num": 559343,
+        "word": "韩国台风",
+        "onboard_time": 1691639014,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484538,
+        "num": 484538,
+        "word": "长相思今晚是梅林殉情",
+        "onboard_time": 1691633253,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479758,
+        "num": 479758,
+        "word": "张柏芝港风大波浪",
+        "onboard_time": 1691639673,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 452926,
+        "num": 452926,
+        "word": "没有J人能走出P人的房间",
+        "onboard_time": 1691642378,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 451620,
+        "num": 451620,
+        "word": "李雪琴汪苏泷去了王鹤棣家炸串店",
+        "onboard_time": 1691631511,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490604,
+        "num": 447945,
+        "word": "为什么川菜重油却很少有胖子",
+        "onboard_time": 1691633073,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 442786,
+        "num": 442786,
+        "word": "赵丽颖吊带紫裙",
+        "onboard_time": 1691638412,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383454,
+        "num": 383454,
+        "word": "EDG向TheShy道歉",
+        "onboard_time": 1691633673,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 364239,
+        "num": 364239,
+        "word": "刘宇宁七时吉祥守护主题曲",
+        "onboard_time": 1691643037,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361864,
+        "num": 361864,
+        "word": "王俊凯网吧直播",
+        "onboard_time": 1691629775,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358152,
+        "num": 358152,
+        "word": "龚俊版恐龙扛狼",
+        "onboard_time": 1691641958,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324946,
+        "num": 324946,
+        "word": "莲花楼有第二部吗",
+        "onboard_time": 1691637392,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311947,
+        "num": 311947,
+        "word": "唐嫣念无双妆造没有换",
+        "onboard_time": 1691634634,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293516,
+        "num": 293516,
+        "word": "原来高铁有这么多冷知识",
+        "onboard_time": 1691625151,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292318,
+        "num": 292318,
+        "word": "i人不会被电话诈骗的原因",
+        "onboard_time": 1691641537,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291027,
+        "num": 291027,
+        "word": "小米手环8 Pro",
+        "onboard_time": 1691642855,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 275666,
+        "num": 275666,
+        "word": "小伙住宾馆发现抽屉里有10万纸币",
+        "onboard_time": 1691633913,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272170,
+        "num": 272170,
+        "word": "刘宪华 just be me",
+        "onboard_time": 1691643336,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263081,
+        "num": 263081,
+        "word": "Lisa穿泳装",
+        "onboard_time": 1691625632,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260663,
+        "num": 260663,
+        "word": "李维嘉土味情话好油",
+        "onboard_time": 1691641958,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248115,
+        "num": 248115,
+        "word": "Amber一个包随身带7年",
+        "onboard_time": 1691636135,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231449,
+        "num": 231449,
+        "word": "TTG多巴胺写真",
+        "onboard_time": 1691643516,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226375,
+        "num": 226375,
+        "word": "国漫五大白发",
+        "onboard_time": 1691639074,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 222251,
+        "num": 222251,
+        "word": "孤注一掷中的隐藏细节",
+        "onboard_time": 1691644175,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217261,
+        "num": 217261,
+        "word": "王者荣耀瑶",
+        "onboard_time": 1691629536,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220845,
+        "num": 216581,
+        "word": "相柳别哭喂你吃螺蛳粉",
+        "onboard_time": 1691636135,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217783,
+        "num": 216530,
+        "word": "孤注一掷",
+        "onboard_time": 1691632052,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215870,
+        "num": 215870,
+        "word": "原神林尼",
+        "onboard_time": 1691643217,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206185,
+        "num": 206185,
+        "word": "杭州新东方回应停课",
+        "onboard_time": 1691641415,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194835,
+        "num": 194835,
+        "word": "女子给婴儿哺乳被阻空乘称起飞时不可进食",
+        "onboard_time": 1691626233,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184782,
+        "num": 184782,
+        "word": "吉娘娘将回归维密秀",
+        "onboard_time": 1691636493,
+        "rank": 45,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 177187,
+        "num": 177187,
+        "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
+        "onboard_time": 1691644474,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176486,
+        "num": 176486,
+        "word": "龚俊是懂安利的",
+        "onboard_time": 1691643217,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173658,
+        "num": 173658,
+        "word": "长相思今天剧照有糖",
+        "onboard_time": 1691637635,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172245,
+        "num": 172245,
+        "word": "铁头",
+        "onboard_time": 1691638832,
+        "rank": 49,
+        "category": "社会新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#越织越密的中国高铁网将送上更多惊喜#"
+    }
+  }
+}
