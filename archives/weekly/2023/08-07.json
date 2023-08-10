@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691681660231,
+  "endTime": 1691684545005,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -593,6 +593,14 @@
       "onboard_time": 1691641176,
       "rank": 39,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1731425,
+      "num": 532092,
+      "word": "为什么会有月经同步现象",
+      "onboard_time": 1691680838,
+      "rank": 31,
+      "category": "其它"
     },
     {
       "raw_hot": 1726567,
@@ -3235,6 +3243,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 641706,
+      "num": 641706,
+      "word": "长相思观众好卷",
+      "onboard_time": 1691681137,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 641276,
       "num": 641276,
       "word": "玱玹被强吻",
@@ -4123,14 +4139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 531659,
-      "num": 393635,
-      "word": "长相思观众好卷",
-      "onboard_time": 1691681137,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 527691,
       "num": 387754,
       "word": "北京奥运会",
@@ -4153,14 +4161,6 @@
       "onboard_time": 1691456376,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 525282,
-      "num": 282655,
-      "word": "为什么会有月经同步现象",
-      "onboard_time": 1691680838,
-      "rank": 31,
-      "category": "其它"
     },
     {
       "raw_hot": 524359,
@@ -4379,6 +4379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493959,
+      "num": 293956,
+      "word": "柳岩怎么瘦了这么多",
+      "onboard_time": 1691681561,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 492590,
       "num": 467694,
       "word": "王一博出发泰国机场路透",
@@ -4593,6 +4601,14 @@
       "onboard_time": 1691463335,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473907,
+      "num": 473907,
+      "word": "王一栩 七时吉祥致敬了苍兰诀",
+      "onboard_time": 1691681915,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 472891,
@@ -4955,6 +4971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 433258,
+      "num": 433258,
+      "word": "玱玹激动得不会说话了",
+      "onboard_time": 1691682277,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432788,
       "num": 432788,
       "word": "济南七十二名泉全部喷涌",
@@ -4985,6 +5009,14 @@
       "onboard_time": 1691457994,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 429842,
+      "num": 429842,
+      "word": "檀健次是懂缓解焦虑的",
+      "onboard_time": 1691683238,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 429390,
@@ -5283,6 +5315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 405503,
+      "num": 405503,
+      "word": "被马立奥笑惨了",
+      "onboard_time": 1691683477,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404269,
       "num": 1606629,
       "word": "小朋友在医院角落一口气跳舞2小时",
@@ -5531,12 +5571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386668,
+      "num": 384719,
+      "word": "甲骨文的屎字太形象了",
+      "onboard_time": 1691679880,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 386440,
       "num": 386440,
       "word": "丫丫贴秋膘",
       "onboard_time": 1691497535,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385867,
+      "num": 224651,
+      "word": "他妥协了但不多",
+      "onboard_time": 1691682097,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 385716,
@@ -5553,14 +5609,6 @@
       "onboard_time": 1691407055,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 384719,
-      "num": 384719,
-      "word": "甲骨文的屎字太形象了",
-      "onboard_time": 1691679880,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 384313,
@@ -5995,6 +6043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346491,
+      "num": 346491,
+      "word": "阿杰 声线变了更多是表演范畴",
+      "onboard_time": 1691681617,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 345584,
       "num": 345584,
       "word": "余情 七时吉祥bgm",
@@ -6089,6 +6145,14 @@
       "onboard_time": 1691504501,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 332115,
+      "num": 249823,
+      "word": "孙阳痞帅",
+      "onboard_time": 1691683594,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 331110,
@@ -6987,6 +7051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281500,
+      "num": 230056,
+      "word": "虞书欣落款隔壁的仙子小兰花",
+      "onboard_time": 1691683773,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281392,
       "num": 281392,
       "word": "薛之谦音乐节",
@@ -7260,7 +7332,7 @@
     },
     {
       "raw_hot": 264422,
-      "num": 264422,
+      "num": 551640,
       "word": "理记 这波医疗反腐漏网的几乎不可能",
       "onboard_time": 1691679762,
       "rank": 38,
@@ -7795,6 +7867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237288,
+      "num": 210848,
+      "word": "莲花楼女性角色刻画",
+      "onboard_time": 1691682396,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237016,
       "num": 237016,
       "word": "看小夭的四种人",
@@ -8235,6 +8315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 220066,
+      "num": 220066,
+      "word": "从此以后每天都是好日子",
+      "onboard_time": 1691682097,
+      "rank": 33,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 219777,
       "num": 219777,
       "word": "拜仁与热刺达成凯恩转会协议",
@@ -8296,14 +8384,6 @@
       "word": "乌尔善工地版头像",
       "onboard_time": 1691558258,
       "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 218273,
-      "num": 218273,
-      "word": "柳岩怎么瘦了这么多",
-      "onboard_time": 1691681561,
-      "rank": 44,
       "category": "作品衍生"
     },
     {
@@ -9723,6 +9803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165285,
+      "num": 188664,
+      "word": "此沙直播",
+      "onboard_time": 1691681677,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164739,
       "num": 82021,
       "word": "王源对十年前自己说的话",
@@ -9745,6 +9833,14 @@
       "onboard_time": 1691562333,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163642,
+      "num": 188220,
+      "word": "这其实也是焦虑的一种",
+      "onboard_time": 1691682757,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 163467,
@@ -10027,14 +10123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139810,
-      "num": 217080,
-      "word": "阿杰 声线变了更多是表演范畴",
-      "onboard_time": 1691681617,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 138448,
       "num": 201349,
       "word": "黑色粉底液测评",
@@ -10105,6 +10193,14 @@
       "onboard_time": 1691351476,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133801,
+      "num": 186468,
+      "word": "他有很多好朋友",
+      "onboard_time": 1691683356,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 132528,
@@ -10281,6 +10377,14 @@
       "onboard_time": 1691539114,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116105,
+      "num": 185247,
+      "word": "谭爷爷说花花不是洗白的",
+      "onboard_time": 1691684490,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 113895,
