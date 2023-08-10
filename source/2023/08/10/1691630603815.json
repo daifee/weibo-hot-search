@@ -1,0 +1,410 @@
+{
+  "runTime": 1691630603815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2755646,
+        "num": 2755646,
+        "word": "湘雅三医院9名医务人员联名举报科主任",
+        "onboard_time": 1691627496,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1786018,
+        "num": 1786018,
+        "word": "中国跌出泰国最大客源地",
+        "onboard_time": 1691624668,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 9206,
+        "num": 1202984,
+        "word": "立秋大运会闭幕秋分亚运会开幕",
+        "onboard_time": 1691555445,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2022166,
+        "num": 1169267,
+        "word": "吴费曼退出吴费曼这个身份",
+        "onboard_time": 1691625632,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1105656,
+        "num": 1105656,
+        "word": "原来高铁有这么多冷知识",
+        "onboard_time": 1691625151,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1003837,
+        "num": 1003837,
+        "word": "吴京曾提到有演员因角色小而放弃封神",
+        "onboard_time": 1691624668,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 853543,
+        "num": 853543,
+        "word": "jiejie",
+        "onboard_time": 1691598510,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 743098,
+        "num": 743098,
+        "word": "女子给婴儿哺乳被阻空乘称起飞时不可进食",
+        "onboard_time": 1691626233,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557197,
+        "num": 557197,
+        "word": "优酷 泼天的富贵",
+        "onboard_time": 1691590057,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521616,
+        "num": 521616,
+        "word": "Lisa入驻2023亚洲名人堂",
+        "onboard_time": 1691625695,
+        "rank": 9,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1043795,
+        "num": 520613,
+        "word": "官方通报讲座称性骚扰是因女生风骚",
+        "onboard_time": 1691626233,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745656,
+        "num": 510194,
+        "word": "Lisa穿泳装",
+        "onboard_time": 1691625632,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 799287,
+        "num": 507308,
+        "word": "王俊凯网吧直播",
+        "onboard_time": 1691629775,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647323,
+        "num": 495791,
+        "word": "刚出月子的爱宝胖出双下巴",
+        "onboard_time": 1691628756,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451135,
+        "num": 493845,
+        "word": "医疗反腐",
+        "onboard_time": 1691624308,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489317,
+        "num": 489317,
+        "word": "王者荣耀瑶",
+        "onboard_time": 1691629536,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 455191,
+        "num": 455191,
+        "word": "杨紫也是长相思书粉吧",
+        "onboard_time": 1691626715,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408194,
+        "num": 408194,
+        "word": "县城整治医药腐败403人主动退赃",
+        "onboard_time": 1691627076,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403857,
+        "num": 403857,
+        "word": "雅典娜",
+        "onboard_time": 1691624007,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 373117,
+        "num": 373117,
+        "word": "EDG全球冠军赛首胜",
+        "onboard_time": 1691630194,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 615908,
+        "num": 369804,
+        "word": "近视的人别吃太多甜食",
+        "onboard_time": 1691626594,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396549,
+        "num": 369773,
+        "word": "言承旭说不希望我的小孩不被需要",
+        "onboard_time": 1691629117,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363695,
+        "num": 363695,
+        "word": "原来臣妾先去更衣是这个意思",
+        "onboard_time": 1691626294,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349468,
+        "num": 349468,
+        "word": "费翔回应商务殷语",
+        "onboard_time": 1691627736,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321100,
+        "num": 321100,
+        "word": "蒲熠星写了一本书",
+        "onboard_time": 1691627616,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317278,
+        "num": 317278,
+        "word": "为什么有些人朋友圈发假定位",
+        "onboard_time": 1691627195,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311867,
+        "num": 311867,
+        "word": "工资不高又要经常熬夜的工作",
+        "onboard_time": 1691590658,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295002,
+        "num": 295002,
+        "word": "肖顺尧拒绝教王鹤润跳舞",
+        "onboard_time": 1691624368,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283002,
+        "num": 283002,
+        "word": "男子捡到超大野生菌一锅炖不下",
+        "onboard_time": 1691599167,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287595,
+        "num": 281646,
+        "word": "莲花楼结局是HE还是BE",
+        "onboard_time": 1691623165,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258002,
+        "num": 258002,
+        "word": "丰隆 等着我们感情升温吧",
+        "onboard_time": 1691582435,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245367,
+        "num": 245367,
+        "word": "邓为直播自己抓造型调光",
+        "onboard_time": 1691630015,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245088,
+        "num": 245088,
+        "word": "我只关心大概5个左右的人类",
+        "onboard_time": 1691626833,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 240603,
+        "num": 240603,
+        "word": "医生亲眼见到同学登上反腐通报",
+        "onboard_time": 1691624610,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235358,
+        "num": 235358,
+        "word": "莲花楼原著结局",
+        "onboard_time": 1691626536,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234637,
+        "num": 234637,
+        "word": "院方回应9名医务人员联名举报科主任",
+        "onboard_time": 1691630194,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234060,
+        "num": 234060,
+        "word": "女子地铁强行要人给女儿让座被拒大骂",
+        "onboard_time": 1691600484,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234004,
+        "num": 234004,
+        "word": "七时吉祥",
+        "onboard_time": 1691629656,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231567,
+        "num": 231567,
+        "word": "今起卡努将给东北带来强降雨",
+        "onboard_time": 1691628996,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218925,
+        "num": 218925,
+        "word": "长相思有自己的显眼包",
+        "onboard_time": 1691624187,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218140,
+        "num": 218140,
+        "word": "丁程鑫开车载时代少年团下班",
+        "onboard_time": 1691624910,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215175,
+        "num": 215175,
+        "word": "43岁女子当榜一大哥骗女主播66万",
+        "onboard_time": 1691611215,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213600,
+        "num": 213600,
+        "word": "无畏契约",
+        "onboard_time": 1691630134,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197244,
+        "num": 197244,
+        "word": "内娱补货你入坑了谁",
+        "onboard_time": 1691625995,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193677,
+        "num": 193677,
+        "word": "原神fes",
+        "onboard_time": 1691630254,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188519,
+        "num": 188519,
+        "word": "王鹤润跳queencard",
+        "onboard_time": 1691628339,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185745,
+        "num": 185745,
+        "word": "裸考考上了意大利的公务员",
+        "onboard_time": 1691578115,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185088,
+        "num": 185088,
+        "word": "大熊猫挖煤能有多卖力",
+        "onboard_time": 1691624308,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179973,
+        "num": 179973,
+        "word": "中学讲座称被性骚扰是因女生风骚",
+        "onboard_time": 1691628218,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172654,
+        "num": 172654,
+        "word": "6岁女孩突破投篮动作一气呵成",
+        "onboard_time": 1691628036,
+        "rank": 49,
+        "category": "社会新闻,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#不打扰就是最好的保护#"
+    }
+  }
+}
