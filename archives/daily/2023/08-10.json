@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691656515028,
+  "endTime": 1691659049048,
   "band_list": [
     {
       "raw_hot": 3138717,
@@ -107,6 +107,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1688203,
+      "num": 1358044,
+      "word": "网传乳腺外科医生家中搜出一点五亿",
+      "onboard_time": 1691654194,
+      "rank": 2,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1654246,
       "num": 1654246,
       "word": "女孩因上学爱转笔设计出可以转的杯子",
@@ -123,20 +131,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1542996,
+      "num": 702465,
+      "word": "体重280斤店员被殴打拒不还手",
+      "onboard_time": 1691656233,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1485607,
       "num": 1479289,
       "word": "女子从小诊断为真两性畸形无法正常工作",
       "onboard_time": 1691647050,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1358044,
-      "num": 1358044,
-      "word": "网传乳腺外科医生家中搜出一点五亿",
-      "onboard_time": 1691654194,
-      "rank": 2,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1334132,
@@ -161,6 +169,14 @@
       "onboard_time": 1691598510,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1288688,
+      "num": 491200,
+      "word": "女幼师疑出轨学生家长被抓当街游行",
+      "onboard_time": 1691656774,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1241785,
@@ -283,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 893684,
+      "num": 790193,
+      "word": "年轻人的体检报告",
+      "onboard_time": 1691653533,
+      "rank": 8,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 882048,
       "num": 882048,
       "word": "EDG向TheShy道歉",
@@ -307,7 +331,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 833699,
+      "raw_hot": 837441,
       "num": 833699,
       "word": "向佐嘲笑壮壮妈成为壮壮妈",
       "onboard_time": 1691651074,
@@ -331,12 +355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 790193,
-      "num": 790193,
-      "word": "年轻人的体检报告",
-      "onboard_time": 1691653533,
-      "rank": 8,
-      "category": "幽默,情感"
+      "raw_hot": 787659,
+      "num": 520782,
+      "word": "邓为被迫放弃潮到风湿",
+      "onboard_time": 1691657617,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 786585,
@@ -411,6 +435,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 710414,
+      "num": 710414,
+      "word": "桐华说长相思不是悲剧",
+      "onboard_time": 1691656356,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 701702,
+      "num": 701702,
+      "word": "帕梅拉 练出完美天鹅臂",
+      "onboard_time": 1691654674,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 698382,
+      "num": 698382,
+      "word": "摩羯这个星座太苦了",
+      "onboard_time": 1691657374,
+      "rank": 6,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 684363,
       "num": 535787,
       "word": "zzr和陈都灵好好嗑",
@@ -433,6 +481,14 @@
       "onboard_time": 1691628756,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647004,
+      "num": 647004,
+      "word": "虞书欣丁禹兮永夜星河出妆路透",
+      "onboard_time": 1691656595,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 646650,
@@ -603,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513770,
+      "num": 513770,
+      "word": "爸爸当家",
+      "onboard_time": 1691657795,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 508798,
       "num": 356527,
       "word": "时代少年团特权码",
@@ -657,14 +721,6 @@
       "onboard_time": 1691600484,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473907,
-      "num": 473907,
-      "word": "帕梅拉 练出完美天鹅臂",
-      "onboard_time": 1691654674,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 467798,
@@ -947,6 +1003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 326689,
+      "num": 326689,
+      "word": "邓为包场热烈",
+      "onboard_time": 1691656534,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326150,
       "num": 254857,
       "word": "相柳杀了防风邶",
@@ -1147,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274844,
+      "num": 268907,
+      "word": "湖南一女子与镇干部水库游泳溺亡",
+      "onboard_time": 1691658635,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273324,
       "num": 530745,
       "word": "王濛被冻结股权445万",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1691641958,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259266,
+      "num": 259266,
+      "word": "官方回应常州二院医生朱某兰被查",
+      "onboard_time": 1691656595,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258002,
@@ -1539,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195783,
-      "num": 211055,
-      "word": "桐华说长相思不是悲剧",
-      "onboard_time": 1691656356,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193822,
       "num": 206582,
       "word": "你会给莲花楼打几分",
@@ -1699,6 +1771,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 160258,
+      "num": 209853,
+      "word": "吴宣仪凡尔赛式秀身材",
+      "onboard_time": 1691658995,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153430,
       "num": 210606,
       "word": "电影的类型隐藏在字体中",
@@ -1715,14 +1795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149211,
-      "num": 210519,
-      "word": "体重280斤店员被殴打拒不还手",
-      "onboard_time": 1691656233,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147234,
       "num": 220133,
       "word": "原来裤子这里是这么用的",
@@ -1731,11 +1803,27 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 144749,
+      "num": 564258,
+      "word": "警察追捕小偷高中生霸气帮擒住",
+      "onboard_time": 1691654435,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141012,
       "num": 141012,
       "word": "厦门打雷",
       "onboard_time": 1691623646,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139010,
+      "num": 209346,
+      "word": "地震局回应大量燕子夜间漫天飞舞",
+      "onboard_time": 1691658873,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1755,20 +1843,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130885,
+      "num": 1104482,
+      "word": "大熊猫的爱情我们来守护",
+      "onboard_time": 1691655935,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130699,
       "num": 206361,
       "word": "最怕别人问我哪个学校的",
       "onboard_time": 1691590418,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119469,
-      "num": 564258,
-      "word": "警察追捕小偷高中生霸气帮擒住",
-      "onboard_time": 1691654435,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117832,
@@ -1867,14 +1955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 61181,
-      "num": 1104482,
-      "word": "大熊猫的爱情我们来守护",
-      "onboard_time": 1691655935,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60798,
       "num": 216476,
       "word": "小米自研龙骨转轴",
@@ -1888,6 +1968,14 @@
       "word": "痛别暴雨洪灾中牺牲的英雄",
       "onboard_time": 1691635953,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57713,
+      "num": 518279,
+      "word": "残障男子用低保买6件矿泉水送水站",
+      "onboard_time": 1691658036,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
