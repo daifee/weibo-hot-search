@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691632047047,
+  "endTime": 1691634990733,
   "band_list": [
     {
       "raw_hot": 3138717,
@@ -59,6 +59,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1241785,
+      "num": 1241785,
+      "word": "李雪琴汪苏泷去了王鹤棣家炸串店",
+      "onboard_time": 1691631511,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1213109,
       "num": 735779,
       "word": "四川山东两地凌晨地震",
@@ -91,12 +99,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 974133,
+      "num": 974133,
+      "word": "长相思今晚是梅林殉情",
+      "onboard_time": 1691633253,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 919864,
       "num": 919864,
       "word": "一名殡葬专业学生的课表",
       "onboard_time": 1691585914,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 867025,
+      "num": 867025,
+      "word": "女孩因上学爱转笔设计出可以转的杯子",
+      "onboard_time": 1691632172,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821243,
@@ -123,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742413,
+      "num": 742413,
+      "word": "EDG向TheShy道歉",
+      "onboard_time": 1691633673,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 734605,
       "num": 734605,
       "word": "李相夷剑断人亡",
@@ -137,6 +169,14 @@
       "onboard_time": 1691590840,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 700594,
+      "num": 381263,
+      "word": "为什么川菜重油却很少有胖子",
+      "onboard_time": 1691633073,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 647323,
@@ -171,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 583080,
+      "num": 381159,
+      "word": "小伙住宾馆发现抽屉里有10万纸币",
+      "onboard_time": 1691633913,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573025,
       "num": 573025,
       "word": "EDG全球冠军赛首胜",
@@ -193,6 +241,14 @@
       "onboard_time": 1691596473,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 567236,
+      "num": 567236,
+      "word": "台风卡努",
+      "onboard_time": 1691631335,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540245,
@@ -227,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 494892,
+      "num": 494892,
+      "word": "厄瓜多尔总统候选人被枪杀",
+      "onboard_time": 1691631695,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 489838,
       "num": 489838,
       "word": "男子捡到超大野生菌一锅炖不下",
@@ -259,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 455022,
+      "num": 455022,
+      "word": "杭州新东方全面停课",
+      "onboard_time": 1691634033,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451135,
       "num": 495705,
       "word": "医疗反腐",
@@ -275,14 +347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 432509,
-      "num": 432509,
-      "word": "李雪琴汪苏泷去了王鹤棣家炸串店",
-      "onboard_time": 1691631511,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 429230,
       "num": 534453,
       "word": "中央财政紧急预拨10亿元",
@@ -291,20 +355,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 418782,
+      "num": 418782,
+      "word": "邓为直播自己抓造型调光",
+      "onboard_time": 1691630015,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417217,
       "num": 417217,
       "word": "县城整治医药腐败403人主动退赃",
       "onboard_time": 1691627076,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408456,
-      "num": 408456,
-      "word": "邓为直播自己抓造型调光",
-      "onboard_time": 1691630015,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 407700,
@@ -339,6 +403,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387441,
+      "num": 387441,
+      "word": "唐嫣念无双妆造没有换",
+      "onboard_time": 1691634634,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 385716,
+      "num": 385716,
+      "word": "国漫哈基米",
+      "onboard_time": 1691631272,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 377068,
+      "num": 377068,
+      "word": "莲花楼团员跳团建舞蹈还差成毅",
+      "onboard_time": 1691633312,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372759,
       "num": 321427,
       "word": "宋威龙穿JK",
@@ -353,6 +441,14 @@
       "onboard_time": 1691626294,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 356397,
+      "num": 434316,
+      "word": "福岛核电站高辐射沙袋靠近一小时可致命",
+      "onboard_time": 1691633553,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349468,
@@ -425,6 +521,14 @@
       "onboard_time": 1691627195,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316494,
+      "num": 316494,
+      "word": "张晚意柳舟记出妆",
+      "onboard_time": 1691634156,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 304303,
@@ -531,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271008,
-      "num": 271008,
-      "word": "厄瓜多尔总统候选人被枪杀",
-      "onboard_time": 1691631695,
-      "rank": 29,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 269463,
       "num": 269463,
       "word": "胡锡进 北京这场大暴雨超出认知",
@@ -635,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224415,
-      "num": 224415,
-      "word": "台风卡努",
-      "onboard_time": 1691631335,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222853,
       "num": 222853,
       "word": "我已经没兴趣给别人留个好印象了",
@@ -707,12 +795,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204813,
-      "num": 204813,
-      "word": "国漫哈基米",
-      "onboard_time": 1691631272,
-      "rank": 37,
-      "category": "动漫"
+      "raw_hot": 202630,
+      "num": 202630,
+      "word": "站桩 找结构",
+      "onboard_time": 1691634694,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 201618,
@@ -720,6 +808,14 @@
       "word": "相柳和小夭告别",
       "onboard_time": 1691599167,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197996,
+      "num": 197996,
+      "word": "看金晨被扎手戏幻痛了",
+      "onboard_time": 1691634813,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -763,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185361,
+      "num": 185361,
+      "word": "孤注一掷",
+      "onboard_time": 1691632052,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185088,
       "num": 185088,
       "word": "大熊猫挖煤能有多卖力",
@@ -793,6 +897,14 @@
       "onboard_time": 1691585914,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 164745,
+      "num": 164745,
+      "word": "黄渤说每个家长都想有一个封神榜",
+      "onboard_time": 1691632411,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 150733,
