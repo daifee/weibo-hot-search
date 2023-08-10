@@ -1,0 +1,410 @@
+{
+  "runTime": 1691655712229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2220845,
+        "num": 2220845,
+        "word": "我不是药神白血病少年饰演者成了捐髓者",
+        "onboard_time": 1691652274,
+        "rank": 0,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 1098734,
+        "num": 1098734,
+        "word": "湘雅三院孟婕已停诊",
+        "onboard_time": 1691648734,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820760,
+        "num": 820760,
+        "word": "网传乳腺外科医生家中搜出一点五亿",
+        "onboard_time": 1691654194,
+        "rank": 2,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 941793,
+        "num": 817596,
+        "word": "邓为见面会",
+        "onboard_time": 1691650473,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 809855,
+        "num": 809855,
+        "word": "封神第一部票房破18亿",
+        "onboard_time": 1691650232,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 786585,
+        "num": 786585,
+        "word": "猫眼抢票",
+        "onboard_time": 1691653900,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 739665,
+        "num": 739665,
+        "word": "女子从小诊断为真两性畸形无法正常工作",
+        "onboard_time": 1691647050,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651963,
+        "num": 651963,
+        "word": "王一博 施华洛世奇",
+        "onboard_time": 1691648252,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 608172,
+        "num": 608172,
+        "word": "年轻人的体检报告",
+        "onboard_time": 1691653533,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 275832,
+        "num": 601301,
+        "word": "湖南卫健委与中南大学成立联合调查组",
+        "onboard_time": 1691648793,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1712247,
+        "num": 590554,
+        "word": "儿子手机上的支付宝存了15万",
+        "onboard_time": 1691649622,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45819,
+        "num": 574156,
+        "word": "我国成功发射1箭7星",
+        "onboard_time": 1691646332,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1299752,
+        "num": 564426,
+        "word": "饶雪漫 造成误会很抱歉",
+        "onboard_time": 1691647294,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 775268,
+        "num": 551245,
+        "word": "向佐嘲笑壮壮妈成为壮壮妈",
+        "onboard_time": 1691651074,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81116,
+        "num": 531718,
+        "word": "警察追捕小偷高中生霸气帮擒住",
+        "onboard_time": 1691654435,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690908,
+        "num": 530792,
+        "word": "导演让杨紫邓为深吻",
+        "onboard_time": 1691645494,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 673123,
+        "num": 516450,
+        "word": "18岁男孩52万卖掉上百万房子买摩托车",
+        "onboard_time": 1691645313,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 504999,
+        "num": 504999,
+        "word": "3岁女孩走丢告诉民警她叫小美女",
+        "onboard_time": 1691654075,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476064,
+        "num": 476064,
+        "word": "魏大勋时尚芭莎8月刊封面预告",
+        "onboard_time": 1691652335,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 471161,
+        "num": 471161,
+        "word": "e人与i人的坐姿",
+        "onboard_time": 1691641597,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376861,
+        "num": 376861,
+        "word": "zzr和陈都灵好好嗑",
+        "onboard_time": 1691645254,
+        "rank": 20,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 339957,
+        "num": 339957,
+        "word": "时代少年团特权码",
+        "onboard_time": 1691650174,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334686,
+        "num": 334686,
+        "word": "笛飞声1分钟砍了9刀",
+        "onboard_time": 1691651735,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331451,
+        "num": 331451,
+        "word": "网红称要让补课行为在浙江断根",
+        "onboard_time": 1691641176,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318534,
+        "num": 318534,
+        "word": "张艺兴演唱会BOOM舞台",
+        "onboard_time": 1691652156,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 311499,
+        "num": 311499,
+        "word": "结婚16年3个女儿都非亲生",
+        "onboard_time": 1691648972,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304847,
+        "num": 304847,
+        "word": "男篮徐杰",
+        "onboard_time": 1691648373,
+        "rank": 26,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 284349,
+        "num": 284349,
+        "word": "小夭血染梅林",
+        "onboard_time": 1691642918,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278742,
+        "num": 278742,
+        "word": "曾黎王冰冰同框",
+        "onboard_time": 1691651195,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272948,
+        "num": 272948,
+        "word": "王源炸毛了",
+        "onboard_time": 1691643456,
+        "rank": 29,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 252537,
+        "num": 252537,
+        "word": "阿Sa阿娇晒和你天下第一好表情包",
+        "onboard_time": 1691650295,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247167,
+        "num": 247167,
+        "word": "帕梅拉 练出完美天鹅臂",
+        "onboard_time": 1691654674,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235844,
+        "num": 235844,
+        "word": "檀健次说选角期少不了流言蜚语",
+        "onboard_time": 1691640695,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225544,
+        "num": 225544,
+        "word": "许光汉跳舞娘",
+        "onboard_time": 1691655517,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164594,
+        "num": 224100,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 224086,
+        "num": 224086,
+        "word": "朱玉兰",
+        "onboard_time": 1691651255,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219503,
+        "num": 219503,
+        "word": "心理咨询师给女性客户的真诚建议",
+        "onboard_time": 1691649575,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201125,
+        "num": 219167,
+        "word": "T杂志集齐TFBOYS",
+        "onboard_time": 1691647294,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219059,
+        "num": 219059,
+        "word": "韩剧超异能族",
+        "onboard_time": 1691653174,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212919,
+        "num": 212919,
+        "word": "邓为现场还原涂山璟喊姐姐",
+        "onboard_time": 1691655639,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206721,
+        "num": 206721,
+        "word": "张晚意北电毕业照",
+        "onboard_time": 1691648373,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203566,
+        "num": 203566,
+        "word": "汪苏泷郑州",
+        "onboard_time": 1691655094,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194289,
+        "num": 194289,
+        "word": "赵丽颖不会成为虎妈",
+        "onboard_time": 1691645494,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176381,
+        "num": 176381,
+        "word": "湘雅三医院9名医务人员联名举报科主任",
+        "onboard_time": 1691627496,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176279,
+        "num": 176279,
+        "word": "水库泄洪女子邀20余村民进家避难",
+        "onboard_time": 1691650594,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172376,
+        "num": 172376,
+        "word": "谢霆锋真不把我们当外人",
+        "onboard_time": 1691650473,
+        "rank": 45,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 172314,
+        "num": 172314,
+        "word": "学到了一种很新的夸人方式",
+        "onboard_time": 1691655036,
+        "rank": 46,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 165144,
+        "num": 165144,
+        "word": "陈都灵没跳又好像跳了",
+        "onboard_time": 1691643037,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161218,
+        "num": 161218,
+        "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
+        "onboard_time": 1691644474,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160130,
+        "num": 160130,
+        "word": "杨洋凡人修仙传逛灯会路透",
+        "onboard_time": 1691647112,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#将调查研究发扬光大#"
+    }
+  }
+}
