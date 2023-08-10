@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691645631720,
+  "endTime": 1691648518958,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -265,6 +265,14 @@
       "onboard_time": 1691397160,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2208182,
+      "num": 2208182,
+      "word": "18岁男孩52万卖掉上百万房子买摩托车",
+      "onboard_time": 1691645313,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2205201,
@@ -539,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1716219,
+      "num": 539850,
+      "word": "导演让杨紫邓为深吻",
+      "onboard_time": 1691645494,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1686531,
       "num": 333441,
       "word": "鹿晗腋下管理",
@@ -657,6 +673,14 @@
       "onboard_time": 1691375432,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1603624,
+      "num": 1012632,
+      "word": "饶雪漫 造成误会很抱歉",
+      "onboard_time": 1691647294,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1602658,
@@ -2107,6 +2131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 801138,
+      "num": 229028,
+      "word": "女子从小诊断为真两性畸形无法正常工作",
+      "onboard_time": 1691647050,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800909,
       "num": 448859,
       "word": "杨幂唐嫣TFBOYS早期视频",
@@ -2569,6 +2601,14 @@
       "onboard_time": 1691404596,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 684363,
+      "num": 521198,
+      "word": "zzr和陈都灵好好嗑",
+      "onboard_time": 1691645254,
+      "rank": 24,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 684326,
@@ -3065,6 +3105,14 @@
       "onboard_time": 1691412638,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 599203,
+      "num": 599203,
+      "word": "孟婕",
+      "onboard_time": 1691644773,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593958,
@@ -4043,6 +4091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 461313,
+      "num": 461313,
+      "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
+      "onboard_time": 1691644474,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460780,
       "num": 315750,
       "word": "千万不要把枕头放洗衣机里洗",
@@ -4353,6 +4409,14 @@
       "onboard_time": 1691412158,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 424747,
+      "num": 424747,
+      "word": "T杂志集齐TFBOYS",
+      "onboard_time": 1691647294,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 424355,
@@ -4835,6 +4899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384313,
+      "num": 368157,
+      "word": "赵丽颖不会成为虎妈",
+      "onboard_time": 1691645494,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383900,
       "num": 350883,
       "word": "杨洋新剧斗笠造型",
@@ -5107,14 +5179,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 353032,
-      "num": 353032,
-      "word": "孟婕",
-      "onboard_time": 1691644773,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352889,
       "num": 352889,
       "word": "薛之谦在线帮歌迷牵线",
@@ -5145,14 +5209,6 @@
       "onboard_time": 1691627736,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 349184,
-      "num": 349184,
-      "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
-      "onboard_time": 1691644474,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349052,
@@ -5193,14 +5249,6 @@
       "onboard_time": 1691571397,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 346793,
-      "num": 346793,
-      "word": "zzr和陈都灵好好嗑",
-      "onboard_time": 1691645254,
-      "rank": 24,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 345395,
@@ -5265,6 +5313,14 @@
       "onboard_time": 1691558437,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338690,
+      "num": 338690,
+      "word": "黄仁俊钟辰乐将录制国内综艺",
+      "onboard_time": 1691647412,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 338226,
@@ -5859,6 +5915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294890,
+      "num": 294890,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1691648194,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294816,
       "num": 294816,
       "word": "恶鬼大结局",
@@ -6187,14 +6251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273039,
-      "num": 273039,
-      "word": "18岁男孩52万卖掉上百万房子买摩托车",
-      "onboard_time": 1691645313,
-      "rank": 30,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 272654,
       "num": 252723,
       "word": "李莲花方多病故事线设定",
@@ -6352,6 +6408,14 @@
       "word": "刷了无数遍还很爱的剧",
       "onboard_time": 1691463335,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 263579,
+      "num": 263579,
+      "word": "杨洋凡人修仙传逛灯会路透",
+      "onboard_time": 1691647112,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -7219,6 +7283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217233,
+      "num": 217233,
+      "word": "敖子逸蒋依依校园剧来真的啊",
+      "onboard_time": 1691646632,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216349,
       "num": 209259,
       "word": "檀健次相柳微表情",
@@ -7345,6 +7417,14 @@
       "onboard_time": 1691385578,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211841,
+      "num": 211841,
+      "word": "王一博 施华洛世奇",
+      "onboard_time": 1691648252,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 211771,
@@ -7731,6 +7811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199867,
+      "num": 199867,
+      "word": "尤长靖寄语海外华裔青少年",
+      "onboard_time": 1691648012,
+      "rank": 36,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 199234,
       "num": 199234,
       "word": "TTG甜甜糕转身预告",
@@ -8043,14 +8131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190805,
-      "num": 190805,
-      "word": "导演让杨紫邓为深吻",
-      "onboard_time": 1691645494,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190551,
       "num": 212725,
       "word": "逛吃济州岛",
@@ -8161,6 +8241,14 @@
       "onboard_time": 1691483075,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186953,
+      "num": 186953,
+      "word": "张晚意北电毕业照",
+      "onboard_time": 1691648373,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 185812,
@@ -8347,14 +8435,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 176868,
-      "num": 176868,
-      "word": "赵丽颖不会成为虎妈",
-      "onboard_time": 1691645494,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176486,
       "num": 176486,
       "word": "龚俊是懂安利的",
@@ -8507,6 +8587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 162380,
+      "num": 162380,
+      "word": "唐嫣奶白小香风",
+      "onboard_time": 1691645915,
+      "rank": 43,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 162327,
       "num": 200286,
       "word": "什么能给一名山东父亲造成最大打击",
@@ -8561,6 +8649,14 @@
       "onboard_time": 1691566055,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 156123,
+      "num": 156123,
+      "word": "徐杰被曝出轨",
+      "onboard_time": 1691648373,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 156035,
@@ -8979,6 +9075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111147,
+      "num": 151967,
+      "word": "我想你用歌词应该怎么说",
+      "onboard_time": 1691646935,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107921,
       "num": 644579,
       "word": "他们关键时刻冲得上去豁得出来",
@@ -9265,6 +9369,14 @@
       "onboard_time": 1691468800,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57994,
+      "num": 481028,
+      "word": "梦回众神时代",
+      "onboard_time": 1691647232,
+      "rank": 14,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 57377,

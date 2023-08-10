@@ -1,0 +1,410 @@
+{
+  "runTime": 1691648518958,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2208182,
+        "num": 2208182,
+        "word": "18岁男孩52万卖掉上百万房子买摩托车",
+        "onboard_time": 1691645313,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1118467,
+        "num": 1118467,
+        "word": "网红称要让补课行为在浙江断根",
+        "onboard_time": 1691641176,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31052,
+        "num": 1013382,
+        "word": "盘点大运会舞台上的国风蜀韵",
+        "onboard_time": 1691636135,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1603624,
+        "num": 1012632,
+        "word": "饶雪漫 造成误会很抱歉",
+        "onboard_time": 1691647294,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1011134,
+        "num": 1011134,
+        "word": "湘雅三医院9名医务人员联名举报科主任",
+        "onboard_time": 1691627496,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823466,
+        "num": 823466,
+        "word": "小夭血染梅林",
+        "onboard_time": 1691642918,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 629795,
+        "num": 629795,
+        "word": "陈都灵没跳又好像跳了",
+        "onboard_time": 1691643037,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 624396,
+        "num": 624396,
+        "word": "张艺兴电影吃马桶纸是真吃",
+        "onboard_time": 1691641836,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 599203,
+        "num": 599203,
+        "word": "孟婕",
+        "onboard_time": 1691644773,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554302,
+        "num": 554302,
+        "word": "杭州新东方全面停课",
+        "onboard_time": 1691634033,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1716219,
+        "num": 539850,
+        "word": "导演让杨紫邓为深吻",
+        "onboard_time": 1691645494,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1100079,
+        "num": 531033,
+        "word": "王源炸毛了",
+        "onboard_time": 1691643456,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 684363,
+        "num": 521198,
+        "word": "zzr和陈都灵好好嗑",
+        "onboard_time": 1691645254,
+        "rank": 12,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 401977,
+        "num": 501088,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 57994,
+        "num": 481028,
+        "word": "梦回众神时代",
+        "onboard_time": 1691647232,
+        "rank": 14,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 667264,
+        "num": 464215,
+        "word": "e人与i人的坐姿",
+        "onboard_time": 1691641597,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 461313,
+        "num": 461313,
+        "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
+        "onboard_time": 1691644474,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452066,
+        "num": 452066,
+        "word": "没有J人能走出P人的房间",
+        "onboard_time": 1691642378,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424747,
+        "num": 424747,
+        "word": "T杂志集齐TFBOYS",
+        "onboard_time": 1691647294,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 374080,
+        "num": 374080,
+        "word": "檀健次说选角期少不了流言蜚语",
+        "onboard_time": 1691640695,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384313,
+        "num": 368157,
+        "word": "赵丽颖不会成为虎妈",
+        "onboard_time": 1691645494,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338690,
+        "num": 338690,
+        "word": "黄仁俊钟辰乐将录制国内综艺",
+        "onboard_time": 1691647412,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309478,
+        "num": 309478,
+        "word": "为什么川菜重油却很少有胖子",
+        "onboard_time": 1691633073,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306278,
+        "num": 306278,
+        "word": "文旅部公布恢复出境团队游第3批名单",
+        "onboard_time": 1691641054,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294890,
+        "num": 294890,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1691648194,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287950,
+        "num": 287950,
+        "word": "女孩因上学爱转笔设计出可以转的杯子",
+        "onboard_time": 1691632172,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263579,
+        "num": 263579,
+        "word": "杨洋凡人修仙传逛灯会路透",
+        "onboard_time": 1691647112,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239173,
+        "num": 239173,
+        "word": "小伙住宾馆发现抽屉里有10万纸币",
+        "onboard_time": 1691633913,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236223,
+        "num": 236223,
+        "word": "EDG向TheShy道歉",
+        "onboard_time": 1691633673,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231333,
+        "num": 231333,
+        "word": "刘宇宁七时吉祥守护主题曲",
+        "onboard_time": 1691643037,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 801138,
+        "num": 229028,
+        "word": "女子从小诊断为真两性畸形无法正常工作",
+        "onboard_time": 1691647050,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217689,
+        "num": 217689,
+        "word": "韩国台风",
+        "onboard_time": 1691639014,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217233,
+        "num": 217233,
+        "word": "敖子逸蒋依依校园剧来真的啊",
+        "onboard_time": 1691646632,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211841,
+        "num": 211841,
+        "word": "王一博 施华洛世奇",
+        "onboard_time": 1691648252,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 205719,
+        "num": 205719,
+        "word": "长相思双生大片",
+        "onboard_time": 1691638654,
+        "rank": 34,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 205316,
+        "num": 205316,
+        "word": "王俊凯网吧直播",
+        "onboard_time": 1691629775,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199867,
+        "num": 199867,
+        "word": "尤长靖寄语海外华裔青少年",
+        "onboard_time": 1691648012,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 193515,
+        "num": 193515,
+        "word": "张柏芝港风大波浪",
+        "onboard_time": 1691639673,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190165,
+        "num": 190165,
+        "word": "赵丽颖吊带紫裙",
+        "onboard_time": 1691638412,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189071,
+        "num": 189071,
+        "word": "莲花楼有第二部吗",
+        "onboard_time": 1691637392,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186953,
+        "num": 186953,
+        "word": "张晚意北电毕业照",
+        "onboard_time": 1691648373,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183558,
+        "num": 183558,
+        "word": "李雪琴汪苏泷去了王鹤棣家炸串店",
+        "onboard_time": 1691631511,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165711,
+        "num": 165711,
+        "word": "i人不会被电话诈骗的原因",
+        "onboard_time": 1691641537,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162380,
+        "num": 162380,
+        "word": "唐嫣奶白小香风",
+        "onboard_time": 1691645915,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 157530,
+        "num": 157530,
+        "word": "原神林尼",
+        "onboard_time": 1691643217,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157498,
+        "num": 157498,
+        "word": "龚俊版恐龙扛狼",
+        "onboard_time": 1691641958,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156446,
+        "num": 156446,
+        "word": "孤注一掷中的隐藏细节",
+        "onboard_time": 1691644175,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156123,
+        "num": 156123,
+        "word": "徐杰被曝出轨",
+        "onboard_time": 1691648373,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123142,
+        "num": 152319,
+        "word": "原来高铁有这么多冷知识",
+        "onboard_time": 1691625151,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111147,
+        "num": 151967,
+        "word": "我想你用歌词应该怎么说",
+        "onboard_time": 1691646935,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#将调查研究发扬光大#"
+    }
+  }
+}
