@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691671952402,
+  "endTime": 1691673918144,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -393,6 +393,14 @@
       "onboard_time": 1691577395,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2065816,
+      "num": 548831,
+      "word": "赵丽颖的文案是尊嘟假嘟吧",
+      "onboard_time": 1691671233,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2047353,
@@ -1115,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1332660,
+      "num": 548624,
+      "word": "长相思导演",
+      "onboard_time": 1691670814,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1328422,
       "num": 491200,
       "word": "女幼师疑出轨学生家长被抓当街游行",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1691580515,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1245949,
+      "num": 540704,
+      "word": "网友好像他们仨play的一环",
+      "onboard_time": 1691669252,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 1241785,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1691648734,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1177149,
-      "num": 540704,
-      "word": "网友好像他们仨play的一环",
-      "onboard_time": 1691669252,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 1165425,
@@ -1707,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1012260,
-      "num": 548831,
-      "word": "赵丽颖的文案是尊嘟假嘟吧",
-      "onboard_time": 1691671233,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1010256,
       "num": 1010256,
       "word": "张小凡黑化入魔",
@@ -1905,6 +1913,14 @@
       "onboard_time": 1691420860,
       "rank": 16,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 937700,
+      "num": 937700,
+      "word": "舒兰救灾失联公职人员张郅昭牺牲",
+      "onboard_time": 1691671295,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 935419,
@@ -3035,14 +3051,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 659611,
-      "num": 659611,
-      "word": "舒兰救灾失联公职人员张郅昭牺牲",
-      "onboard_time": 1691671295,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 658135,
       "num": 493197,
       "word": "希望TFBOYS不要忘记四叶草",
@@ -3387,6 +3395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 603248,
+      "num": 419886,
+      "word": "孤注一掷票房破10亿",
+      "onboard_time": 1691671233,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 602781,
       "num": 602781,
       "word": "莲花楼调更",
@@ -3616,6 +3632,14 @@
       "word": "檀健次夸有杨紫的地方不会冷场",
       "onboard_time": 1691469400,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 576497,
+      "num": 206173,
+      "word": "相柳小夭37年原著描写",
+      "onboard_time": 1691672914,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -4331,6 +4355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481360,
+      "num": 351338,
+      "word": "他在伤害你时已经权衡利弊了",
+      "onboard_time": 1691670034,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 481310,
       "num": 481310,
       "word": "因为没见过大海他报了大连理工",
@@ -4345,6 +4377,14 @@
       "onboard_time": 1691508877,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 479831,
+      "num": 350581,
+      "word": "长月烬明登上阿里财报",
+      "onboard_time": 1691672618,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 479683,
@@ -4537,14 +4577,6 @@
       "onboard_time": 1691489434,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 455291,
-      "num": 419886,
-      "word": "孤注一掷票房破10亿",
-      "onboard_time": 1691671233,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 455222,
@@ -5731,14 +5763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 348574,
-      "num": 348574,
-      "word": "他在伤害你时已经权衡利弊了",
-      "onboard_time": 1691670034,
-      "rank": 38,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 347972,
       "num": 347972,
       "word": "张元英接发了",
@@ -5777,6 +5801,14 @@
       "onboard_time": 1691666377,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 345584,
+      "num": 345584,
+      "word": "余情 七时吉祥bgm",
+      "onboard_time": 1691672255,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 345395,
@@ -5945,6 +5977,14 @@
       "onboard_time": 1691484998,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325282,
+      "num": 325282,
+      "word": "于适向费翔告状",
+      "onboard_time": 1691672376,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 325272,
@@ -6891,6 +6931,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 269380,
+      "num": 269380,
+      "word": "去意大利旅行要知道的防诈提醒",
+      "onboard_time": 1691671714,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 268712,
       "num": 268712,
       "word": "张艺兴说孤注一掷很有意义",
@@ -7683,6 +7731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229520,
+      "num": 229520,
+      "word": "杨天真cos玉真公主",
+      "onboard_time": 1691673273,
+      "rank": 34,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 229431,
       "num": 229431,
       "word": "夜晚1岁女童被困车内消防砸窗救人",
@@ -7705,6 +7761,14 @@
       "onboard_time": 1691663555,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228158,
+      "num": 228158,
+      "word": "库尔图瓦十字韧带重伤",
+      "onboard_time": 1691670814,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 228119,
@@ -7859,14 +7923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222635,
-      "num": 222635,
-      "word": "库尔图瓦十字韧带重伤",
-      "onboard_time": 1691670814,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 222471,
       "num": 250041,
       "word": "猫猫的嘴被熏成了TypeC",
@@ -7889,14 +7945,6 @@
       "onboard_time": 1691452653,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221998,
-      "num": 212606,
-      "word": "长相思导演",
-      "onboard_time": 1691670814,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 221828,
@@ -8195,6 +8243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211137,
+      "num": 211137,
+      "word": "成毅舞剑",
+      "onboard_time": 1691673636,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211104,
       "num": 211104,
       "word": "李莲花夺命三刀",
@@ -8312,6 +8368,14 @@
       "word": "李莲花一招制敌角丽谯",
       "onboard_time": 1691389238,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207701,
+      "num": 207701,
+      "word": "王一博热烈最难忘的一场戏",
+      "onboard_time": 1691671714,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -8481,22 +8545,6 @@
       "onboard_time": 1691593480,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203530,
-      "num": 203530,
-      "word": "去意大利旅行要知道的防诈提醒",
-      "onboard_time": 1691671714,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 203427,
-      "num": 203427,
-      "word": "王一博热烈最难忘的一场戏",
-      "onboard_time": 1691671714,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 202141,
@@ -8859,6 +8907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192426,
+      "num": 361617,
+      "word": "淘宝用户规模优势持续扩大",
+      "onboard_time": 1691672433,
+      "rank": 14,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 192400,
       "num": 192400,
       "word": "乌斯怀亚 好像世界的尽头",
@@ -9033,6 +9089,14 @@
       "onboard_time": 1691664635,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185866,
+      "num": 206217,
+      "word": "梅派传人董飞表示男旦不是娘娘腔",
+      "onboard_time": 1691673816,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185812,
@@ -9401,6 +9465,14 @@
       "onboard_time": 1691477377,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163369,
+      "num": 206143,
+      "word": "阴阳师手游",
+      "onboard_time": 1691673756,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 162380,
@@ -10416,6 +10488,14 @@
       "word": "救援队长称最大的心愿是换台车好好救人",
       "onboard_time": 1691665234,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34834,
+      "num": 640046,
+      "word": "紧急下达15.05亿元水利救灾资金",
+      "onboard_time": 1691673636,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

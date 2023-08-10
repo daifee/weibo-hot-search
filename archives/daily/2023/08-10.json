@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691671952402,
+  "endTime": 1691673918144,
   "band_list": [
     {
       "raw_hot": 3970595,
@@ -73,6 +73,14 @@
       "onboard_time": 1691634033,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2065816,
+      "num": 548831,
+      "word": "赵丽颖的文案是尊嘟假嘟吧",
+      "onboard_time": 1691671233,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2022166,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1332660,
+      "num": 548624,
+      "word": "长相思导演",
+      "onboard_time": 1691670814,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1328422,
       "num": 491200,
       "word": "女幼师疑出轨学生家长被抓当街游行",
@@ -217,6 +233,14 @@
       "onboard_time": 1691598510,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1245949,
+      "num": 540704,
+      "word": "网友好像他们仨play的一环",
+      "onboard_time": 1691669252,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 1241785,
@@ -259,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1177149,
-      "num": 540704,
-      "word": "网友好像他们仨play的一环",
-      "onboard_time": 1691669252,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1153737,
       "num": 1153737,
       "word": "陈都灵没跳又好像跳了",
@@ -307,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1012260,
-      "num": 548831,
-      "word": "赵丽颖的文案是尊嘟假嘟吧",
-      "onboard_time": 1691671233,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1003837,
       "num": 1003837,
       "word": "吴京曾提到有演员因角色小而放弃封神",
@@ -345,6 +353,14 @@
       "onboard_time": 1691638654,
       "rank": 5,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 937700,
+      "num": 937700,
+      "word": "舒兰救灾失联公职人员张郅昭牺牲",
+      "onboard_time": 1691671295,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 935419,
@@ -611,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 659611,
-      "num": 659611,
-      "word": "舒兰救灾失联公职人员张郅昭牺牲",
-      "onboard_time": 1691671295,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 647323,
       "num": 563133,
       "word": "刚出月子的爱宝胖出双下巴",
@@ -691,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 603248,
+      "num": 419886,
+      "word": "孤注一掷票房破10亿",
+      "onboard_time": 1691671233,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 599203,
       "num": 599203,
       "word": "孟婕",
@@ -728,6 +744,14 @@
       "word": "相柳别哭喂你吃螺蛳粉",
       "onboard_time": 1691636135,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 576497,
+      "num": 206173,
+      "word": "相柳小夭37年原著描写",
+      "onboard_time": 1691672914,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -923,6 +947,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481360,
+      "num": 351338,
+      "word": "他在伤害你时已经权衡利弊了",
+      "onboard_time": 1691670034,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 479831,
+      "num": 350581,
+      "word": "长月烬明登上阿里财报",
+      "onboard_time": 1691672618,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467798,
       "num": 467798,
       "word": "看金晨被扎手戏幻痛了",
@@ -945,14 +985,6 @@
       "onboard_time": 1691644474,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455291,
-      "num": 419886,
-      "word": "孤注一掷票房破10亿",
-      "onboard_time": 1691671233,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 455191,
@@ -1227,14 +1259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 348574,
-      "num": 348574,
-      "word": "他在伤害你时已经权衡利弊了",
-      "onboard_time": 1691670034,
-      "rank": 38,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 348055,
       "num": 255544,
       "word": "裸考考上了意大利的公务员",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1691666377,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 345584,
+      "num": 345584,
+      "word": "余情 七时吉祥bgm",
+      "onboard_time": 1691672255,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 335428,
@@ -1312,6 +1344,14 @@
       "word": "莲花楼自来水",
       "onboard_time": 1691595694,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 325282,
+      "num": 325282,
+      "word": "于适向费翔告状",
+      "onboard_time": 1691672376,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1563,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269380,
+      "num": 269380,
+      "word": "去意大利旅行要知道的防诈提醒",
+      "onboard_time": 1691671714,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 266535,
       "num": 246948,
       "word": "一人之下电影也有三部吗",
@@ -1731,12 +1779,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229520,
+      "num": 229520,
+      "word": "杨天真cos玉真公主",
+      "onboard_time": 1691673273,
+      "rank": 34,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 228561,
       "num": 228561,
       "word": "何泓姗董思成新剧预告亲了5次",
       "onboard_time": 1691663555,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228158,
+      "num": 228158,
+      "word": "库尔图瓦十字韧带重伤",
+      "onboard_time": 1691670814,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 228070,
@@ -1795,27 +1859,11 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 222635,
-      "num": 222635,
-      "word": "库尔图瓦十字韧带重伤",
-      "onboard_time": 1691670814,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 222251,
       "num": 222251,
       "word": "孤注一掷中的隐藏细节",
       "onboard_time": 1691644175,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 221998,
-      "num": 212606,
-      "word": "长相思导演",
-      "onboard_time": 1691670814,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1939,6 +1987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211137,
+      "num": 211137,
+      "word": "成毅舞剑",
+      "onboard_time": 1691673636,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210596,
       "num": 210596,
       "word": "原来电影热烈的故事是真实存在的",
@@ -1960,6 +2016,14 @@
       "word": "赤水丰隆追夭记",
       "onboard_time": 1691637995,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207701,
+      "num": 207701,
+      "word": "王一博热烈最难忘的一场戏",
+      "onboard_time": 1691671714,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -1993,22 +2057,6 @@
       "onboard_time": 1691641358,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 203530,
-      "num": 203530,
-      "word": "去意大利旅行要知道的防诈提醒",
-      "onboard_time": 1691671714,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 203427,
-      "num": 203427,
-      "word": "王一博热烈最难忘的一场戏",
-      "onboard_time": 1691671714,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 201618,
@@ -2099,6 +2147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192426,
+      "num": 361617,
+      "word": "淘宝用户规模优势持续扩大",
+      "onboard_time": 1691672433,
+      "rank": 14,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 192400,
       "num": 192400,
       "word": "乌斯怀亚 好像世界的尽头",
@@ -2145,6 +2201,14 @@
       "onboard_time": 1691579855,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185866,
+      "num": 206217,
+      "word": "梅派传人董飞表示男旦不是娘娘腔",
+      "onboard_time": 1691673816,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185088,
@@ -2233,6 +2297,14 @@
       "onboard_time": 1691658036,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163369,
+      "num": 206143,
+      "word": "阴阳师手游",
+      "onboard_time": 1691673756,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 162380,
@@ -2512,6 +2584,14 @@
       "word": "救援队长称最大的心愿是换台车好好救人",
       "onboard_time": 1691665234,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34834,
+      "num": 640046,
+      "word": "紧急下达15.05亿元水利救灾资金",
+      "onboard_time": 1691673636,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
