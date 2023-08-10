@@ -1,10 +1,10 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691630603815,
+  "endTime": 1691632047047,
   "band_list": [
     {
-      "raw_hot": 2755646,
-      "num": 2755646,
+      "raw_hot": 3138717,
+      "num": 3138717,
       "word": "湘雅三医院9名医务人员联名举报科主任",
       "onboard_time": 1691627496,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1334132,
+      "num": 569112,
+      "word": "王俊凯网吧直播",
+      "onboard_time": 1691629775,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1312567,
       "num": 1312567,
       "word": "jiejie",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1043795,
-      "num": 520613,
+      "num": 569059,
       "word": "官方通报讲座称性骚扰是因女生风骚",
       "onboard_time": 1691626233,
       "rank": 10,
@@ -91,16 +99,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 799287,
-      "num": 507308,
-      "word": "王俊凯网吧直播",
-      "onboard_time": 1691629775,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 821243,
+      "num": 821243,
+      "word": "王者荣耀瑶",
+      "onboard_time": 1691629536,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 745656,
-      "num": 510194,
+      "num": 567083,
       "word": "Lisa穿泳装",
       "onboard_time": 1691625632,
       "rank": 11,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 647323,
-      "num": 495791,
+      "num": 563133,
       "word": "刚出月子的爱宝胖出双下巴",
       "onboard_time": 1691628756,
       "rank": 13,
@@ -156,11 +164,19 @@
     },
     {
       "raw_hot": 615908,
-      "num": 369804,
+      "num": 414093,
       "word": "近视的人别吃太多甜食",
       "onboard_time": 1691626594,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 573025,
+      "num": 573025,
+      "word": "EDG全球冠军赛首胜",
+      "onboard_time": 1691630194,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 572581,
@@ -219,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489317,
-      "num": 489317,
-      "word": "王者荣耀瑶",
-      "onboard_time": 1691629536,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 485620,
       "num": 485620,
       "word": "迪丽热巴说到底是谁在跟我抢票",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 451135,
-      "num": 493845,
+      "num": 495705,
       "word": "医疗反腐",
       "onboard_time": 1691624308,
       "rank": 14,
@@ -267,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 432509,
+      "num": 432509,
+      "word": "李雪琴汪苏泷去了王鹤棣家炸串店",
+      "onboard_time": 1691631511,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429230,
       "num": 534453,
       "word": "中央财政紧急预拨10亿元",
@@ -275,12 +291,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 408194,
-      "num": 408194,
+      "raw_hot": 417217,
+      "num": 417217,
       "word": "县城整治医药腐败403人主动退赃",
       "onboard_time": 1691627076,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408456,
+      "num": 408456,
+      "word": "邓为直播自己抓造型调光",
+      "onboard_time": 1691630015,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 407700,
@@ -313,14 +337,6 @@
       "onboard_time": 1691629117,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373117,
-      "num": 373117,
-      "word": "EDG全球冠军赛首胜",
-      "onboard_time": 1691630194,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 372759,
@@ -385,6 +401,14 @@
       "onboard_time": 1691592939,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322436,
+      "num": 322436,
+      "word": "院方回应9名医务人员联名举报科主任",
+      "onboard_time": 1691630194,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321100,
@@ -483,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277605,
+      "num": 277605,
+      "word": "七时吉祥",
+      "onboard_time": 1691629656,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273324,
       "num": 530745,
       "word": "王濛被冻结股权445万",
@@ -497,6 +529,14 @@
       "onboard_time": 1691593959,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271008,
+      "num": 271008,
+      "word": "厄瓜多尔总统候选人被枪杀",
+      "onboard_time": 1691631695,
+      "rank": 29,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 269463,
@@ -520,14 +560,6 @@
       "word": "SMTOWN回应不知道边伯贤开公司",
       "onboard_time": 1691592520,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 245367,
-      "num": 245367,
-      "word": "邓为直播自己抓造型调光",
-      "onboard_time": 1691630015,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -555,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236545,
+      "num": 236545,
+      "word": "今起卡努将给东北带来强降雨",
+      "onboard_time": 1691628996,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235977,
       "num": 245968,
       "word": "去泰国尽量别用信用卡",
@@ -563,27 +603,11 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 235358,
-      "num": 235358,
+      "raw_hot": 235794,
+      "num": 235794,
       "word": "莲花楼原著结局",
       "onboard_time": 1691626536,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 234637,
-      "num": 234637,
-      "word": "院方回应9名医务人员联名举报科主任",
-      "onboard_time": 1691630194,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234004,
-      "num": 234004,
-      "word": "七时吉祥",
-      "onboard_time": 1691629656,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -593,14 +617,6 @@
       "onboard_time": 1691618174,
       "rank": 23,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 231567,
-      "num": 231567,
-      "word": "今起卡努将给东北带来强降雨",
-      "onboard_time": 1691628996,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228070,
@@ -617,6 +633,14 @@
       "onboard_time": 1691579915,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224415,
+      "num": 224415,
+      "word": "台风卡努",
+      "onboard_time": 1691631335,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222853,
@@ -681,6 +705,14 @@
       "onboard_time": 1691587359,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204813,
+      "num": 204813,
+      "word": "国漫哈基米",
+      "onboard_time": 1691631272,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 201618,
@@ -915,7 +947,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 9361,
+      "raw_hot": 9424,
       "num": 1202984,
       "word": "立秋大运会闭幕秋分亚运会开幕",
       "onboard_time": 1691555445,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1691632047047,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3138717,
+        "num": 3138717,
+        "word": "湘雅三医院9名医务人员联名举报科主任",
+        "onboard_time": 1691627496,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407459,
+        "num": 1407459,
+        "word": "中国跌出泰国最大客源地",
+        "onboard_time": 1691624668,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 9424,
+        "num": 1155617,
+        "word": "立秋大运会闭幕秋分亚运会开幕",
+        "onboard_time": 1691555445,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1655544,
+        "num": 1105916,
+        "word": "吴费曼退出吴费曼这个身份",
+        "onboard_time": 1691625632,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 946053,
+        "num": 946053,
+        "word": "吴京曾提到有演员因角色小而放弃封神",
+        "onboard_time": 1691624668,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821243,
+        "num": 821243,
+        "word": "王者荣耀瑶",
+        "onboard_time": 1691629536,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 729350,
+        "num": 729350,
+        "word": "原来高铁有这么多冷知识",
+        "onboard_time": 1691625151,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 704687,
+        "num": 704687,
+        "word": "女子给婴儿哺乳被阻空乘称起飞时不可进食",
+        "onboard_time": 1691626233,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573025,
+        "num": 573025,
+        "word": "EDG全球冠军赛首胜",
+        "onboard_time": 1691630194,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 570300,
+        "num": 570300,
+        "word": "jiejie",
+        "onboard_time": 1691598510,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1334132,
+        "num": 569112,
+        "word": "王俊凯网吧直播",
+        "onboard_time": 1691629775,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 814358,
+        "num": 569059,
+        "word": "官方通报讲座称性骚扰是因女生风骚",
+        "onboard_time": 1691626233,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652316,
+        "num": 567083,
+        "word": "Lisa穿泳装",
+        "onboard_time": 1691625632,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563133,
+        "num": 563133,
+        "word": "刚出月子的爱宝胖出双下巴",
+        "onboard_time": 1691628756,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265938,
+        "num": 495705,
+        "word": "医疗反腐",
+        "onboard_time": 1691624308,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490782,
+        "num": 490782,
+        "word": "优酷 泼天的富贵",
+        "onboard_time": 1691590057,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437485,
+        "num": 437485,
+        "word": "杨紫也是长相思书粉吧",
+        "onboard_time": 1691626715,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432509,
+        "num": 432509,
+        "word": "李雪琴汪苏泷去了王鹤棣家炸串店",
+        "onboard_time": 1691631511,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420025,
+        "num": 420025,
+        "word": "Lisa入驻2023亚洲名人堂",
+        "onboard_time": 1691625695,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 417217,
+        "num": 417217,
+        "word": "县城整治医药腐败403人主动退赃",
+        "onboard_time": 1691627076,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610399,
+        "num": 414093,
+        "word": "近视的人别吃太多甜食",
+        "onboard_time": 1691626594,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 408456,
+        "num": 408456,
+        "word": "邓为直播自己抓造型调光",
+        "onboard_time": 1691630015,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322436,
+        "num": 322436,
+        "word": "院方回应9名医务人员联名举报科主任",
+        "onboard_time": 1691630194,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318120,
+        "num": 318120,
+        "word": "原来臣妾先去更衣是这个意思",
+        "onboard_time": 1691626294,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302694,
+        "num": 302694,
+        "word": "言承旭说不希望我的小孩不被需要",
+        "onboard_time": 1691629117,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285636,
+        "num": 285636,
+        "word": "费翔回应商务殷语",
+        "onboard_time": 1691627736,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279028,
+        "num": 279028,
+        "word": "蒲熠星写了一本书",
+        "onboard_time": 1691627616,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277605,
+        "num": 277605,
+        "word": "七时吉祥",
+        "onboard_time": 1691629656,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271699,
+        "num": 271699,
+        "word": "雅典娜",
+        "onboard_time": 1691624007,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 271008,
+        "num": 271008,
+        "word": "厄瓜多尔总统候选人被枪杀",
+        "onboard_time": 1691631695,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 270270,
+        "num": 270270,
+        "word": "为什么有些人朋友圈发假定位",
+        "onboard_time": 1691627195,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268147,
+        "num": 268147,
+        "word": "工资不高又要经常熬夜的工作",
+        "onboard_time": 1691590658,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236545,
+        "num": 236545,
+        "word": "今起卡努将给东北带来强降雨",
+        "onboard_time": 1691628996,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235794,
+        "num": 235794,
+        "word": "莲花楼原著结局",
+        "onboard_time": 1691626536,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232405,
+        "num": 232405,
+        "word": "我只关心大概5个左右的人类",
+        "onboard_time": 1691626833,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 224415,
+        "num": 224415,
+        "word": "台风卡努",
+        "onboard_time": 1691631335,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205921,
+        "num": 205921,
+        "word": "肖顺尧拒绝教王鹤润跳舞",
+        "onboard_time": 1691624368,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204813,
+        "num": 204813,
+        "word": "国漫哈基米",
+        "onboard_time": 1691631272,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 201837,
+        "num": 201837,
+        "word": "丰隆 等着我们感情升温吧",
+        "onboard_time": 1691582435,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200372,
+        "num": 200372,
+        "word": "医生亲眼见到同学登上反腐通报",
+        "onboard_time": 1691624610,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193541,
+        "num": 193541,
+        "word": "男子捡到超大野生菌一锅炖不下",
+        "onboard_time": 1691599167,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179733,
+        "num": 179733,
+        "word": "女子地铁强行要人给女儿让座被拒大骂",
+        "onboard_time": 1691600484,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179506,
+        "num": 179506,
+        "word": "中学讲座称被性骚扰是因女生风骚",
+        "onboard_time": 1691628218,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169698,
+        "num": 169698,
+        "word": "莲花楼结局是HE还是BE",
+        "onboard_time": 1691623165,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166480,
+        "num": 166480,
+        "word": "6岁女孩突破投篮动作一气呵成",
+        "onboard_time": 1691628036,
+        "rank": 44,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 166537,
+        "num": 166463,
+        "word": "莲花楼破万",
+        "onboard_time": 1691584955,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166254,
+        "num": 166254,
+        "word": "王鹤润跳queencard",
+        "onboard_time": 1691628339,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161554,
+        "num": 161554,
+        "word": "长相思有自己的显眼包",
+        "onboard_time": 1691624187,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153989,
+        "num": 153989,
+        "word": "43岁女子当榜一大哥骗女主播66万",
+        "onboard_time": 1691611215,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152887,
+        "num": 152887,
+        "word": "丁程鑫开车载时代少年团下班",
+        "onboard_time": 1691624910,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动建设平等有序的多极世界#"
+    }
+  }
+}
