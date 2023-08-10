@@ -1,0 +1,410 @@
+{
+  "runTime": 1691678120891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1207289,
+        "num": 1207289,
+        "word": "相柳小夭37年原著描写",
+        "onboard_time": 1691672914,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1181266,
+        "num": 1181266,
+        "word": "在新疆连玩10天有多爽",
+        "onboard_time": 1691675679,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 116744,
+        "num": 1170299,
+        "word": "紧急下达15.05亿元水利救灾资金",
+        "onboard_time": 1691673636,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3202783,
+        "num": 1160113,
+        "word": "梅林殉情",
+        "onboard_time": 1691664214,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1589297,
+        "num": 1156181,
+        "word": "尊嘟假嘟",
+        "onboard_time": 1691674477,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1288755,
+        "num": 1140222,
+        "word": "杨超越演技",
+        "onboard_time": 1691675138,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1132856,
+        "num": 1132856,
+        "word": "黄晓明喊话蒋欣真的不能再哭了",
+        "onboard_time": 1691674174,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1116856,
+        "num": 1116856,
+        "word": "吴倩离婚后真是人间清醒",
+        "onboard_time": 1691677300,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466275,
+        "num": 979712,
+        "word": "湖南一女子与镇干部水库游泳溺亡",
+        "onboard_time": 1691658635,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242923,
+        "num": 898945,
+        "word": "我不是药神白血病少年饰演者成了捐髓者",
+        "onboard_time": 1691652274,
+        "rank": 9,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 1242072,
+        "num": 895543,
+        "word": "赵丽颖的文案是尊嘟假嘟吧",
+        "onboard_time": 1691671233,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 888990,
+        "num": 888990,
+        "word": "建议梅林这一段换个BGM",
+        "onboard_time": 1691672796,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163944,
+        "num": 877537,
+        "word": "舒兰救灾失联公职人员张郅昭牺牲",
+        "onboard_time": 1691671295,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154889,
+        "num": 872967,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 90802,
+        "num": 871568,
+        "word": "张凌赫体验500年前的露营",
+        "onboard_time": 1691676038,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 871022,
+        "num": 871022,
+        "word": "王源易烊千玺同时为王俊凯回望宣传",
+        "onboard_time": 1691666737,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 701857,
+        "num": 701857,
+        "word": "邓紫棋 薛之谦嘉宾",
+        "onboard_time": 1691675317,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 495114,
+        "num": 495114,
+        "word": "儿子手机上的支付宝存了15万",
+        "onboard_time": 1691649622,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399004,
+        "num": 399004,
+        "word": "jiejie",
+        "onboard_time": 1691676938,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 379858,
+        "num": 379858,
+        "word": "谁说我家女儿要出嫁",
+        "onboard_time": 1691665594,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 702006,
+        "num": 379827,
+        "word": "19岁男生送外卖撞车被家人骂去死",
+        "onboard_time": 1691674958,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588534,
+        "num": 379743,
+        "word": "长相思导演",
+        "onboard_time": 1691670814,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579646,
+        "num": 379669,
+        "word": "第一次见六个人平番的剧",
+        "onboard_time": 1691673995,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385065,
+        "num": 379517,
+        "word": "因为太瘦工作没了",
+        "onboard_time": 1691663974,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 379479,
+        "num": 379479,
+        "word": "女幼师疑出轨学生家长被抓当街游行",
+        "onboard_time": 1691656774,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568748,
+        "num": 376175,
+        "word": "现在这么流行水下接吻吗",
+        "onboard_time": 1691674116,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534554,
+        "num": 370517,
+        "word": "金晨浅跳个舞庆祝票房10亿",
+        "onboard_time": 1691676519,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471797,
+        "num": 368199,
+        "word": "网友好像他们仨play的一环",
+        "onboard_time": 1691669252,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 360322,
+        "num": 360322,
+        "word": "Faker含金量",
+        "onboard_time": 1691675437,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 355696,
+        "num": 355696,
+        "word": "上海一小区垃圾站惊现男尸",
+        "onboard_time": 1691663016,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1440244,
+        "num": 355274,
+        "word": "邓为演技差点意思",
+        "onboard_time": 1691670034,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429857,
+        "num": 354912,
+        "word": "孤注一掷票房破10亿",
+        "onboard_time": 1691671233,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400994,
+        "num": 354830,
+        "word": "周深深深感谢你9周年演唱会",
+        "onboard_time": 1691676398,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352339,
+        "num": 352339,
+        "word": "他在伤害你时已经权衡利弊了",
+        "onboard_time": 1691670034,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 283616,
+        "num": 338852,
+        "word": "金毛偷亲宝宝却把宝宝吓哭了",
+        "onboard_time": 1691674778,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 385221,
+        "num": 337746,
+        "word": "莲花楼为什么火了",
+        "onboard_time": 1691667516,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336430,
+        "num": 336430,
+        "word": "长月烬明登上阿里财报",
+        "onboard_time": 1691672618,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227213,
+        "num": 297712,
+        "word": "高三的我记录每一支笔的死因",
+        "onboard_time": 1691677119,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219079,
+        "num": 297100,
+        "word": "补完牙把舌头当棉花咬了一小时",
+        "onboard_time": 1691663374,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217694,
+        "num": 296902,
+        "word": "摩羯这个星座太苦了",
+        "onboard_time": 1691657374,
+        "rank": 39,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 296802,
+        "num": 296802,
+        "word": "七时吉祥",
+        "onboard_time": 1691664574,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289426,
+        "num": 289426,
+        "word": "成毅莲花楼6场打戏ootd",
+        "onboard_time": 1691677660,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263668,
+        "num": 263668,
+        "word": "刘诗诗行走的山茶花",
+        "onboard_time": 1691663674,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266007,
+        "num": 244199,
+        "word": "成毅舞剑",
+        "onboard_time": 1691673636,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220334,
+        "num": 220334,
+        "word": "七时吉祥原来是动画片",
+        "onboard_time": 1691676696,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176119,
+        "num": 219765,
+        "word": "去意大利旅行要知道的防诈提醒",
+        "onboard_time": 1691671714,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 154468,
+        "num": 218982,
+        "word": "小米王化回应用户倒卖门票",
+        "onboard_time": 1691670273,
+        "rank": 46,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 139240,
+        "num": 218213,
+        "word": "库尔图瓦十字韧带重伤",
+        "onboard_time": 1691670814,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135597,
+        "num": 217002,
+        "word": "隔夜蛋糕怎么更好吃了",
+        "onboard_time": 1691669614,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128139,
+        "num": 216067,
+        "word": "AG轮换轩染上场",
+        "onboard_time": 1691677962,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
