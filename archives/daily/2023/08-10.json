@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691638450782,
+  "endTime": 1691641223051,
   "band_list": [
     {
       "raw_hot": 3138717,
@@ -16,6 +16,14 @@
       "word": "原配街头打小三扒其胸衣",
       "onboard_time": 1691596711,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2161625,
+      "num": 2161625,
+      "word": "杭州新东方全面停课",
+      "onboard_time": 1691634033,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -48,14 +56,6 @@
       "word": "女孩因上学爱转笔设计出可以转的杯子",
       "onboard_time": 1691632172,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1622814,
-      "num": 1622814,
-      "word": "杭州新东方全面停课",
-      "onboard_time": 1691634033,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1041238,
+      "num": 1041238,
+      "word": "韩国台风",
+      "onboard_time": 1691639014,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1003837,
       "num": 1003837,
       "word": "吴京曾提到有演员因角色小而放弃封神",
@@ -147,12 +155,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 848734,
+      "num": 848734,
+      "word": "长相思双生大片",
+      "onboard_time": 1691638654,
+      "rank": 5,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 821243,
       "num": 821243,
       "word": "王者荣耀瑶",
       "onboard_time": 1691629536,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 759772,
+      "num": 347416,
+      "word": "赵丽颖吊带紫裙",
+      "onboard_time": 1691638412,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 745656,
@@ -179,20 +203,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 730086,
+      "num": 381263,
+      "word": "为什么川菜重油却很少有胖子",
+      "onboard_time": 1691633073,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 721665,
       "num": 721665,
       "word": "Jennie疑似与YG解约",
       "onboard_time": 1691590840,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 700594,
-      "num": 381263,
-      "word": "为什么川菜重油却很少有胖子",
-      "onboard_time": 1691633073,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 647323,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 638507,
-      "num": 479132,
+      "num": 501996,
       "word": "Amber一个包随身带7年",
       "onboard_time": 1691636135,
       "rank": 13,
@@ -283,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 553028,
+      "num": 553028,
+      "word": "莲花楼有第二部吗",
+      "onboard_time": 1691637392,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 540245,
       "num": 311867,
       "word": "工资不高又要经常熬夜的工作",
@@ -297,6 +329,14 @@
       "onboard_time": 1691589758,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 529398,
+      "num": 529398,
+      "word": "张柏芝港风大波浪",
+      "onboard_time": 1691639673,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 521616,
@@ -435,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411349,
-      "num": 286197,
-      "word": "莲花楼有第二部吗",
-      "onboard_time": 1691637392,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 407700,
       "num": 407700,
       "word": "怪不得耳鼻咽喉分在同一个科室",
@@ -465,6 +497,14 @@
       "onboard_time": 1691624007,
       "rank": 49,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 399518,
+      "num": 399518,
+      "word": "国漫五大白发",
+      "onboard_time": 1691639074,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 396549,
@@ -563,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321565,
-      "num": 285028,
-      "word": "赵丽颖吊带紫裙",
-      "onboard_time": 1691638412,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321100,
       "num": 321100,
       "word": "蒲熠星写了一本书",
@@ -593,6 +625,14 @@
       "onboard_time": 1691637870,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305474,
+      "num": 305474,
+      "word": "12岁女孩自学建模实现手办自由",
+      "onboard_time": 1691637692,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304303,
@@ -707,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269655,
+      "num": 269655,
+      "word": "檀健次说选角期少不了流言蜚语",
+      "onboard_time": 1691640695,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269463,
       "num": 269463,
       "word": "胡锡进 北京这场大暴雨超出认知",
@@ -729,6 +777,22 @@
       "onboard_time": 1691592520,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253481,
+      "num": 253481,
+      "word": "铁头",
+      "onboard_time": 1691638832,
+      "rank": 31,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 245901,
+      "num": 245901,
+      "word": "女子翻看去世爸爸手机后破防了",
+      "onboard_time": 1691640574,
+      "rank": 33,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 245088,
@@ -875,14 +939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208501,
-      "num": 208501,
-      "word": "12岁女孩自学建模实现手办自由",
-      "onboard_time": 1691637692,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208477,
       "num": 208477,
       "word": "赤水丰隆追夭记",
@@ -907,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202256,
+      "num": 202256,
+      "word": "网红称要让补课行为在浙江断根",
+      "onboard_time": 1691641176,
+      "rank": 39,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 201618,
       "num": 201618,
       "word": "相柳和小夭告别",
@@ -921,6 +985,14 @@
       "onboard_time": 1691625995,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196802,
+      "num": 196802,
+      "word": "唐九洲觉得苏培盛是完美男人",
+      "onboard_time": 1691638234,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 193822,
@@ -961,6 +1033,14 @@
       "onboard_time": 1691636912,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189839,
+      "num": 189839,
+      "word": "恢复旅行社出境团队旅游业务",
+      "onboard_time": 1691641054,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189205,
@@ -1017,14 +1097,6 @@
       "onboard_time": 1691636073,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 176288,
-      "num": 176288,
-      "word": "唐九洲觉得苏培盛是完美男人",
-      "onboard_time": 1691638234,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 172654,
@@ -1195,8 +1267,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42013,
-      "num": 1638460,
+      "raw_hot": 44861,
+      "num": 1786535,
       "word": "盘点大运会舞台上的国风蜀韵",
       "onboard_time": 1691636135,
       "rank": 2,
@@ -1244,6 +1316,9 @@
     },
     {
       "word": "#不打扰就是最好的保护#"
+    },
+    {
+      "word": "#越织越密的中国高铁网将送上更多惊喜#"
     }
   ]
 }
