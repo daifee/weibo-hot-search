@@ -1,0 +1,410 @@
+{
+  "runTime": 1691651740675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1883542,
+        "num": 1883542,
+        "word": "18岁男孩52万卖掉上百万房子买摩托车",
+        "onboard_time": 1691645313,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1581732,
+        "num": 1581732,
+        "word": "儿子手机上的支付宝存了15万",
+        "onboard_time": 1691649622,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52735,
+        "num": 1527568,
+        "word": "痛别暴雨洪灾中牺牲的英雄",
+        "onboard_time": 1691635953,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1479289,
+        "num": 1479289,
+        "word": "女子从小诊断为真两性畸形无法正常工作",
+        "onboard_time": 1691647050,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153436,
+        "num": 1153436,
+        "word": "湘雅三院孟婕已停诊",
+        "onboard_time": 1691648734,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830058,
+        "num": 830058,
+        "word": "邓为见面会",
+        "onboard_time": 1691650473,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776393,
+        "num": 776393,
+        "word": "王一博 施华洛世奇",
+        "onboard_time": 1691648252,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 734973,
+        "num": 734973,
+        "word": "男篮徐杰",
+        "onboard_time": 1691648373,
+        "rank": 7,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 622112,
+        "num": 622112,
+        "word": "湘雅三医院9名医务人员联名举报科主任",
+        "onboard_time": 1691627496,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543959,
+        "num": 543959,
+        "word": "湖南卫健委与中南大学成立联合调查组",
+        "onboard_time": 1691648793,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2474081,
+        "num": 539651,
+        "word": "饶雪漫 造成误会很抱歉",
+        "onboard_time": 1691647294,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1259788,
+        "num": 538237,
+        "word": "导演让杨紫邓为深吻",
+        "onboard_time": 1691645494,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 632057,
+        "num": 535787,
+        "word": "zzr和陈都灵好好嗑",
+        "onboard_time": 1691645254,
+        "rank": 12,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 530453,
+        "num": 530453,
+        "word": "王源炸毛了",
+        "onboard_time": 1691643456,
+        "rank": 13,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 507483,
+        "num": 507483,
+        "word": "e人与i人的坐姿",
+        "onboard_time": 1691641597,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431662,
+        "num": 431662,
+        "word": "张晚意北电毕业照",
+        "onboard_time": 1691648373,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408793,
+        "num": 408793,
+        "word": "网红称要让补课行为在浙江断根",
+        "onboard_time": 1691641176,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374235,
+        "num": 374235,
+        "word": "小夭血染梅林",
+        "onboard_time": 1691642918,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350684,
+        "num": 350684,
+        "word": "杭州新东方全面停课",
+        "onboard_time": 1691634033,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339493,
+        "num": 339493,
+        "word": "T杂志集齐TFBOYS",
+        "onboard_time": 1691647294,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 570236,
+        "num": 338119,
+        "word": "结婚16年3个女儿都非亲生",
+        "onboard_time": 1691648972,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508798,
+        "num": 336652,
+        "word": "时代少年团特权码",
+        "onboard_time": 1691650174,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 434740,
+        "num": 335491,
+        "word": "封神第一部票房破18亿",
+        "onboard_time": 1691650232,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432914,
+        "num": 332562,
+        "word": "向佐嘲笑壮壮妈成为壮壮妈",
+        "onboard_time": 1691651074,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419753,
+        "num": 331378,
+        "word": "阿Sa阿娇晒和你天下第一好表情包",
+        "onboard_time": 1691650295,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329602,
+        "num": 329602,
+        "word": "张艺兴电影吃马桶纸是真吃",
+        "onboard_time": 1691641836,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317652,
+        "num": 317652,
+        "word": "赵丽颖不会成为虎妈",
+        "onboard_time": 1691645494,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303889,
+        "num": 303889,
+        "word": "谢霆锋真不把我们当外人",
+        "onboard_time": 1691650473,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 298570,
+        "num": 298570,
+        "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
+        "onboard_time": 1691644474,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298506,
+        "num": 298506,
+        "word": "孟婕",
+        "onboard_time": 1691644773,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291380,
+        "num": 291380,
+        "word": "陈都灵没跳又好像跳了",
+        "onboard_time": 1691643037,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288097,
+        "num": 288097,
+        "word": "檀健次说选角期少不了流言蜚语",
+        "onboard_time": 1691640695,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282328,
+        "num": 282328,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1691648194,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242080,
+        "num": 242080,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 215410,
+        "num": 215410,
+        "word": "水库泄洪女子邀20余村民进家避难",
+        "onboard_time": 1691650594,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274188,
+        "num": 213980,
+        "word": "黄仁俊钟辰乐将录制国内综艺",
+        "onboard_time": 1691647412,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267233,
+        "num": 211430,
+        "word": "封神",
+        "onboard_time": 1691649274,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248787,
+        "num": 211123,
+        "word": "霉霉最新重录专辑",
+        "onboard_time": 1691649575,
+        "rank": 37,
+        "category": "音乐,音乐"
+      },
+      {
+        "raw_hot": 206992,
+        "num": 206992,
+        "word": "为什么川菜重油却很少有胖子",
+        "onboard_time": 1691633073,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183391,
+        "num": 183391,
+        "word": "EDG向TheShy道歉",
+        "onboard_time": 1691633673,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234667,
+        "num": 183342,
+        "word": "任嘉伦穿深V了",
+        "onboard_time": 1691650055,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 234437,
+        "num": 182040,
+        "word": "杨洋凡人修仙传逛灯会路透",
+        "onboard_time": 1691647112,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210222,
+        "num": 181038,
+        "word": "曾黎王冰冰同框",
+        "onboard_time": 1691651195,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205097,
+        "num": 179288,
+        "word": "沙漏",
+        "onboard_time": 1691651435,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179149,
+        "num": 179149,
+        "word": "没有J人能走出P人的房间",
+        "onboard_time": 1691642378,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162457,
+        "num": 162457,
+        "word": "心理咨询师给女性客户的真诚建议",
+        "onboard_time": 1691649575,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151013,
+        "num": 151013,
+        "word": "小伙住宾馆发现抽屉里有10万纸币",
+        "onboard_time": 1691633913,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139513,
+        "num": 139513,
+        "word": "韩国台风",
+        "onboard_time": 1691639014,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123585,
+        "num": 139488,
+        "word": "女孩因上学爱转笔设计出可以转的杯子",
+        "onboard_time": 1691632172,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116490,
+        "num": 139463,
+        "word": "朱玉兰",
+        "onboard_time": 1691651255,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#越织越密的中国高铁网将送上更多惊喜#"
+    }
+  }
+}

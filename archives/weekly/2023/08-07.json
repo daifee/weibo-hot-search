@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691649324543,
+  "endTime": 1691651740675,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -219,20 +219,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2474081,
+      "num": 1012632,
+      "word": "饶雪漫 造成误会很抱歉",
+      "onboard_time": 1691647294,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2427842,
       "num": 2427842,
       "word": "Uzi无缘S13",
       "onboard_time": 1691498802,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 2398540,
-      "num": 1012632,
-      "word": "饶雪漫 造成误会很抱歉",
-      "onboard_time": 1691647294,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 2339621,
@@ -723,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1581732,
+      "num": 1581732,
+      "word": "儿子手机上的支付宝存了15万",
+      "onboard_time": 1691649622,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1580057,
       "num": 1580057,
       "word": "台风卡努大转弯或将登陆我国",
@@ -817,6 +825,14 @@
       "onboard_time": 1691549556,
       "rank": 4,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1479289,
+      "num": 1479289,
+      "word": "女子从小诊断为真两性畸形无法正常工作",
+      "onboard_time": 1691647050,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1476893,
@@ -1291,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1153436,
+      "num": 1153436,
+      "word": "湘雅三院孟婕已停诊",
+      "onboard_time": 1691648734,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1147938,
       "num": 1147938,
       "word": "Meiko打字15",
@@ -1560,14 +1584,6 @@
       "word": "韩国台风",
       "onboard_time": 1691639014,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1038615,
-      "num": 520889,
-      "word": "女子从小诊断为真两性畸形无法正常工作",
-      "onboard_time": 1691647050,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2051,6 +2067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 830058,
+      "num": 830058,
+      "word": "邓为见面会",
+      "onboard_time": 1691650473,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 825649,
       "num": 825649,
       "word": "幸好乌尔善没用原来的剧本",
@@ -2209,6 +2233,14 @@
       "onboard_time": 1691405855,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 776393,
+      "num": 776393,
+      "word": "王一博 施华洛世奇",
+      "onboard_time": 1691648252,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 774985,
@@ -2393,6 +2425,14 @@
       "onboard_time": 1691559279,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734973,
+      "num": 734973,
+      "word": "男篮徐杰",
+      "onboard_time": 1691648373,
+      "rank": 7,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 734669,
@@ -2612,7 +2652,7 @@
     },
     {
       "raw_hot": 684363,
-      "num": 521198,
+      "num": 535787,
       "word": "zzr和陈都灵好好嗑",
       "onboard_time": 1691645254,
       "rank": 24,
@@ -3299,14 +3339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 578967,
-      "num": 578967,
-      "word": "王一博 施华洛世奇",
-      "onboard_time": 1691648252,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 573220,
       "num": 573220,
       "word": "台风卡努",
@@ -3353,6 +3385,14 @@
       "onboard_time": 1691496458,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 570236,
+      "num": 338119,
+      "word": "结婚16年3个女儿都非亲生",
+      "onboard_time": 1691648972,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570075,
@@ -3529,6 +3569,14 @@
       "onboard_time": 1691417680,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 543959,
+      "num": 543959,
+      "word": "湖南卫健委与中南大学成立联合调查组",
+      "onboard_time": 1691648793,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 543687,
@@ -3777,6 +3825,14 @@
       "onboard_time": 1691573617,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 508798,
+      "num": 336652,
+      "word": "时代少年团特权码",
+      "onboard_time": 1691650174,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 504988,
@@ -4347,6 +4403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 434740,
+      "num": 335491,
+      "word": "封神第一部票房破18亿",
+      "onboard_time": 1691650232,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434080,
       "num": 434080,
       "word": "沈腾一看就是没少上网",
@@ -4371,12 +4435,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 432914,
+      "num": 332562,
+      "word": "向佐嘲笑壮壮妈成为壮壮妈",
+      "onboard_time": 1691651074,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432788,
       "num": 432788,
       "word": "济南七十二名泉全部喷涌",
       "onboard_time": 1691449764,
       "rank": 17,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 431662,
+      "num": 431662,
+      "word": "张晚意北电毕业照",
+      "onboard_time": 1691648373,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 430333,
@@ -4497,6 +4577,14 @@
       "onboard_time": 1691455178,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 419753,
+      "num": 331378,
+      "word": "阿Sa阿娇晒和你天下第一好表情包",
+      "onboard_time": 1691650295,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 419159,
@@ -5371,14 +5459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 328150,
-      "num": 328150,
-      "word": "张晚意北电毕业照",
-      "onboard_time": 1691648373,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 327786,
       "num": 311213,
       "word": "去看脱发被医生夸了",
@@ -5785,6 +5865,14 @@
       "onboard_time": 1691459853,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 303889,
+      "num": 303889,
+      "word": "谢霆锋真不把我们当外人",
+      "onboard_time": 1691650473,
+      "rank": 27,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 303714,
@@ -6555,14 +6643,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 256087,
-      "num": 241451,
-      "word": "结婚16年3个女儿都非亲生",
-      "onboard_time": 1691648972,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255222,
       "num": 255222,
       "word": "朴宰范好像被山歌封了喉",
@@ -6691,6 +6771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248787,
+      "num": 211123,
+      "word": "霉霉最新重录专辑",
+      "onboard_time": 1691649575,
+      "rank": 37,
+      "category": "音乐,音乐"
+    },
+    {
       "raw_hot": 248295,
       "num": 248295,
       "word": "大鹏说很心疼王一博",
@@ -6809,14 +6897,6 @@
       "onboard_time": 1691579254,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241582,
-      "num": 241582,
-      "word": "湖南卫健委与中南大学成立联合调查组",
-      "onboard_time": 1691648793,
-      "rank": 29,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 241466,
@@ -6969,6 +7049,14 @@
       "onboard_time": 1691375073,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234667,
+      "num": 183342,
+      "word": "任嘉伦穿深V了",
+      "onboard_time": 1691650055,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 234508,
@@ -7355,11 +7443,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215831,
-      "num": 215831,
-      "word": "湘雅三院孟婕已停诊",
-      "onboard_time": 1691648734,
-      "rank": 33,
+      "raw_hot": 215410,
+      "num": 215410,
+      "word": "水库泄洪女子邀20余村民进家避难",
+      "onboard_time": 1691650594,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -7523,6 +7611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210222,
+      "num": 181038,
+      "word": "曾黎王冰冰同框",
+      "onboard_time": 1691651195,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210050,
       "num": 210050,
       "word": "时代少年团表情好丰富",
@@ -7673,6 +7769,14 @@
       "onboard_time": 1691479478,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205097,
+      "num": 179288,
+      "word": "沙漏",
+      "onboard_time": 1691651435,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 204994,
@@ -8627,6 +8731,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 162457,
+      "num": 162457,
+      "word": "心理咨询师给女性客户的真诚建议",
+      "onboard_time": 1691649575,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162380,
       "num": 162380,
       "word": "唐嫣奶白小香风",
@@ -9067,6 +9179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116490,
+      "num": 139463,
+      "word": "朱玉兰",
+      "onboard_time": 1691651255,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116122,
       "num": 635901,
       "word": "紧握的手是子弟兵给的安全感",
@@ -9464,6 +9584,14 @@
       "word": "拾荒残障小伙向涿州灾区捐献物资",
       "onboard_time": 1691564432,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52735,
+      "num": 1527568,
+      "word": "痛别暴雨洪灾中牺牲的英雄",
+      "onboard_time": 1691635953,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
