@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691667225841,
+  "endTime": 1691670958250,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3970595,
+      "num": 731860,
+      "word": "梅林殉情",
+      "onboard_time": 1691664214,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3851646,
       "num": 826872,
       "word": "易烊千玺夹得嗓子都冒烟了",
       "onboard_time": 1691363487,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3721421,
-      "num": 731860,
-      "word": "梅林殉情",
-      "onboard_time": 1691664214,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 3373740,
@@ -587,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1705947,
+      "num": 591109,
+      "word": "王源易烊千玺同时为王俊凯回望宣传",
+      "onboard_time": 1691666737,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1688203,
       "num": 1358044,
       "word": "网传乳腺外科医生家中搜出一点五亿",
@@ -785,6 +793,14 @@
       "onboard_time": 1691470362,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1557792,
+      "num": 485328,
+      "word": "邓为演技差点意思",
+      "onboard_time": 1691670034,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1542996,
@@ -1515,6 +1531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1088387,
+      "num": 247135,
+      "word": "网友好像他们仨play的一环",
+      "onboard_time": 1691669252,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1088227,
       "num": 501514,
       "word": "鸟姐自觉盖上了红盖头",
@@ -1875,6 +1899,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 935419,
+      "num": 246314,
+      "word": "杨紫演技值得一个热搜",
+      "onboard_time": 1691669193,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 916312,
       "num": 916312,
       "word": "封神票房",
@@ -2163,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 834021,
+      "num": 476587,
+      "word": "谁说我家女儿要出嫁",
+      "onboard_time": 1691665594,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 831754,
       "num": 409445,
       "word": "法图麦穿了李咏8年前衣服",
@@ -2217,6 +2257,14 @@
       "onboard_time": 1691484516,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 819668,
+      "num": 462276,
+      "word": "相柳你不要命了吗",
+      "onboard_time": 1691667574,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 818274,
@@ -2603,14 +2651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 731639,
-      "num": 591109,
-      "word": "王源易烊千玺同时为王俊凯回望宣传",
-      "onboard_time": 1691666737,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 730086,
       "num": 447945,
       "word": "为什么川菜重油却很少有胖子",
@@ -2737,6 +2777,14 @@
       "onboard_time": 1691539776,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710458,
+      "num": 275189,
+      "word": "小夭身世初现",
+      "onboard_time": 1691666555,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 709194,
@@ -2985,6 +3033,14 @@
       "onboard_time": 1691414018,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 654537,
+      "num": 237007,
+      "word": "莲花楼为什么火了",
+      "onboard_time": 1691667516,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 653266,
@@ -3891,6 +3947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 531179,
+      "num": 531179,
+      "word": "T1战胜KT",
+      "onboard_time": 1691670094,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 527691,
       "num": 387754,
       "word": "北京奥运会",
@@ -4707,14 +4771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 429892,
-      "num": 309593,
-      "word": "谁说我家女儿要出嫁",
-      "onboard_time": 1691665594,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 429390,
       "num": 1195065,
       "word": "五常宝宝凌晨转移一声没哭",
@@ -5155,6 +5211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396296,
+      "num": 228633,
+      "word": "陈意涵莲花楼破万福利舞蹈Liar",
+      "onboard_time": 1691669373,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395833,
       "num": 395833,
       "word": "杨紫策划的长相思团综",
@@ -5515,6 +5579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 359096,
+      "num": 228052,
+      "word": "薛之谦鸟巢彩排",
+      "onboard_time": 1691669133,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 358368,
       "num": 358368,
       "word": "日本网友心中的国漫天花板",
@@ -5761,6 +5833,14 @@
       "onboard_time": 1691648194,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 328550,
+      "num": 227644,
+      "word": "隔夜蛋糕怎么更好吃了",
+      "onboard_time": 1691669614,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 327786,
@@ -6379,6 +6459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294642,
+      "num": 226828,
+      "word": "R1SE小分队少年行合体",
+      "onboard_time": 1691669073,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294369,
       "num": 294369,
       "word": "XYG律师声明",
@@ -6683,14 +6771,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 275189,
-      "num": 275189,
-      "word": "小夭身世初现",
-      "onboard_time": 1691666555,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 274059,
       "num": 274059,
       "word": "徐明浩直播",
@@ -6825,6 +6905,14 @@
       "onboard_time": 1691376818,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 266535,
+      "num": 224163,
+      "word": "一人之下电影也有三部吗",
+      "onboard_time": 1691669915,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 266405,
@@ -7635,10 +7723,26 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226024,
+      "num": 226024,
+      "word": "小米王化回应用户倒卖门票",
+      "onboard_time": 1691670273,
+      "rank": 33,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 225172,
       "num": 225172,
       "word": "水库泄洪女子邀20余村民进家避难",
       "onboard_time": 1691650594,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225042,
+      "num": 225042,
+      "word": "小狗坠落江边主动配合好心人自救",
+      "onboard_time": 1691669013,
       "rank": 34,
       "category": "社会新闻"
     },
@@ -7739,6 +7843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221998,
+      "num": 212606,
+      "word": "长相思导演",
+      "onboard_time": 1691670814,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221828,
       "num": 221828,
       "word": "流鼻血时别再仰头了",
@@ -7753,6 +7865,14 @@
       "onboard_time": 1691407114,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220118,
+      "num": 220118,
+      "word": "在顺德牛奶还能这样吃",
+      "onboard_time": 1691667574,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 219777,
@@ -7849,6 +7969,14 @@
       "onboard_time": 1691646632,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216979,
+      "num": 216979,
+      "word": "他在伤害你时已经权衡利弊了",
+      "onboard_time": 1691670034,
+      "rank": 38,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 216823,
@@ -8193,6 +8321,14 @@
       "onboard_time": 1691479478,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205618,
+      "num": 205618,
+      "word": "NCTDREAM专辑后续曲初舞台",
+      "onboard_time": 1691670873,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 204994,
@@ -8619,6 +8755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193284,
+      "num": 193284,
+      "word": "DOTA2商城事故处理公告",
+      "onboard_time": 1691670695,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193012,
       "num": 193012,
       "word": "念无双",
@@ -8665,6 +8809,14 @@
       "onboard_time": 1691636912,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192155,
+      "num": 192155,
+      "word": "库尔图瓦十字韧带重伤",
+      "onboard_time": 1691670814,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 192069,
@@ -9675,6 +9827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115190,
+      "num": 199760,
+      "word": "网友在微博改的车正式发布",
+      "onboard_time": 1691670814,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113895,
       "num": 81959,
       "word": "易烊千玺solo",
@@ -10137,6 +10297,14 @@
       "onboard_time": 1691646332,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45055,
+      "num": 187307,
+      "word": "NASA局长称不希望中国率先载人登陆月球南极",
+      "onboard_time": 1691670935,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 44861,

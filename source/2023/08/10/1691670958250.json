@@ -1,0 +1,410 @@
+{
+  "runTime": 1691670958250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1096332,
+        "num": 1096332,
+        "word": "刘星那是我姐",
+        "onboard_time": 1691661093,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531179,
+        "num": 531179,
+        "word": "T1战胜KT",
+        "onboard_time": 1691670094,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64066,
+        "num": 525468,
+        "word": "大熊猫的爱情我们来守护",
+        "onboard_time": 1691655935,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3970595,
+        "num": 506106,
+        "word": "梅林殉情",
+        "onboard_time": 1691664214,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1557792,
+        "num": 485328,
+        "word": "邓为演技差点意思",
+        "onboard_time": 1691670034,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 834021,
+        "num": 476587,
+        "word": "谁说我家女儿要出嫁",
+        "onboard_time": 1691665594,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 819668,
+        "num": 462276,
+        "word": "相柳你不要命了吗",
+        "onboard_time": 1691667574,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 593241,
+        "num": 442198,
+        "word": "湖南一女子与镇干部水库游泳溺亡",
+        "onboard_time": 1691658635,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429710,
+        "num": 429710,
+        "word": "我不是药神白血病少年饰演者成了捐髓者",
+        "onboard_time": 1691652274,
+        "rank": 8,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 251077,
+        "num": 251077,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1705947,
+        "num": 249841,
+        "word": "王源易烊千玺同时为王俊凯回望宣传",
+        "onboard_time": 1691666737,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1088387,
+        "num": 247135,
+        "word": "网友好像他们仨play的一环",
+        "onboard_time": 1691669252,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 935419,
+        "num": 246314,
+        "word": "杨紫演技值得一个热搜",
+        "onboard_time": 1691669193,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 594726,
+        "num": 243158,
+        "word": "儿子手机上的支付宝存了15万",
+        "onboard_time": 1691649622,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142633,
+        "num": 241116,
+        "word": "湖南卫健委与中南大学成立联合调查组",
+        "onboard_time": 1691648793,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 710458,
+        "num": 238851,
+        "word": "小夭身世初现",
+        "onboard_time": 1691666555,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 654537,
+        "num": 237007,
+        "word": "莲花楼为什么火了",
+        "onboard_time": 1691667516,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545686,
+        "num": 233859,
+        "word": "七时吉祥",
+        "onboard_time": 1691664574,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376340,
+        "num": 232701,
+        "word": "摩羯这个星座太苦了",
+        "onboard_time": 1691657374,
+        "rank": 18,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 230686,
+        "num": 230686,
+        "word": "终于可以乘高铁去荔波了",
+        "onboard_time": 1691662714,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 798787,
+        "num": 230474,
+        "word": "女幼师疑出轨学生家长被抓当街游行",
+        "onboard_time": 1691656774,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537585,
+        "num": 230168,
+        "word": "因为太瘦工作没了",
+        "onboard_time": 1691663974,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 443867,
+        "num": 229917,
+        "word": "补完牙把舌头当棉花咬了一小时",
+        "onboard_time": 1691663374,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 422971,
+        "num": 229379,
+        "word": "上海一小区垃圾站惊现男尸",
+        "onboard_time": 1691663016,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400981,
+        "num": 228975,
+        "word": "刘诗诗行走的山茶花",
+        "onboard_time": 1691663674,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396296,
+        "num": 228633,
+        "word": "陈意涵莲花楼破万福利舞蹈Liar",
+        "onboard_time": 1691669373,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361763,
+        "num": 228368,
+        "word": "肖战演的手抖",
+        "onboard_time": 1691661754,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359096,
+        "num": 228052,
+        "word": "薛之谦鸟巢彩排",
+        "onboard_time": 1691669133,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328550,
+        "num": 227644,
+        "word": "隔夜蛋糕怎么更好吃了",
+        "onboard_time": 1691669614,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302829,
+        "num": 227138,
+        "word": "莲花楼是古装探案悬疑剧",
+        "onboard_time": 1691665474,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294642,
+        "num": 226828,
+        "word": "R1SE小分队少年行合体",
+        "onboard_time": 1691669073,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289157,
+        "num": 226723,
+        "word": "SEVENTEEN获日本金唱片百万认证",
+        "onboard_time": 1691666377,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268195,
+        "num": 226338,
+        "word": "芭莎再现孟宴臣",
+        "onboard_time": 1691662414,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226024,
+        "num": 226024,
+        "word": "小米王化回应用户倒卖门票",
+        "onboard_time": 1691670273,
+        "rank": 33,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 225042,
+        "num": 225042,
+        "word": "小狗坠落江边主动配合好心人自救",
+        "onboard_time": 1691669013,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266535,
+        "num": 224163,
+        "word": "一人之下电影也有三部吗",
+        "onboard_time": 1691669915,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227060,
+        "num": 223908,
+        "word": "爸爸当家",
+        "onboard_time": 1691657795,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220118,
+        "num": 220118,
+        "word": "在顺德牛奶还能这样吃",
+        "onboard_time": 1691667574,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216979,
+        "num": 216979,
+        "word": "他在伤害你时已经权衡利弊了",
+        "onboard_time": 1691670034,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 216533,
+        "num": 216533,
+        "word": "体重280斤店员被殴打拒不还手",
+        "onboard_time": 1691656233,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222565,
+        "num": 213514,
+        "word": "饶雪漫 造成误会很抱歉",
+        "onboard_time": 1691647294,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221998,
+        "num": 212606,
+        "word": "长相思导演",
+        "onboard_time": 1691670814,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205618,
+        "num": 205618,
+        "word": "NCTDREAM专辑后续曲初舞台",
+        "onboard_time": 1691670873,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115190,
+        "num": 199760,
+        "word": "网友在微博改的车正式发布",
+        "onboard_time": 1691670814,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194115,
+        "num": 194115,
+        "word": "欧阳娜娜演张艺凡师姐",
+        "onboard_time": 1691663433,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193759,
+        "num": 193759,
+        "word": "封神第一部票房破18亿",
+        "onboard_time": 1691650232,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193284,
+        "num": 193284,
+        "word": "DOTA2商城事故处理公告",
+        "onboard_time": 1691670695,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193060,
+        "num": 193060,
+        "word": "代号鸢",
+        "onboard_time": 1691664694,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192155,
+        "num": 192155,
+        "word": "库尔图瓦十字韧带重伤",
+        "onboard_time": 1691670814,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45055,
+        "num": 187307,
+        "word": "NASA局长称不希望中国率先载人登陆月球南极",
+        "onboard_time": 1691670935,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
