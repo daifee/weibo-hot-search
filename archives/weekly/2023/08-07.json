@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691637433324,
+  "endTime": 1691638450782,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1654246,
+      "num": 1654246,
+      "word": "女孩因上学爱转笔设计出可以转的杯子",
+      "onboard_time": 1691632172,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1638361,
       "num": 1638361,
       "word": "Uzi别惦记泽丽了",
@@ -593,6 +601,14 @@
       "onboard_time": 1691551657,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1622814,
+      "num": 1622814,
+      "word": "杭州新东方全面停课",
+      "onboard_time": 1691634033,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1618786,
@@ -721,14 +737,6 @@
       "onboard_time": 1691483377,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1513790,
-      "num": 1513790,
-      "word": "女孩因上学爱转笔设计出可以转的杯子",
-      "onboard_time": 1691632172,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1511801,
@@ -921,14 +929,6 @@
       "onboard_time": 1691510911,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1392439,
-      "num": 1392439,
-      "word": "杭州新东方全面停课",
-      "onboard_time": 1691634033,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1389360,
@@ -2731,6 +2731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 638507,
+      "num": 479132,
+      "word": "Amber一个包随身带7年",
+      "onboard_time": 1691636135,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 637443,
       "num": 637443,
       "word": "施柏宇方回应节目争议",
@@ -3116,7 +3124,7 @@
     },
     {
       "raw_hot": 582125,
-      "num": 471766,
+      "num": 567134,
       "word": "相柳别哭喂你吃螺蛳粉",
       "onboard_time": 1691636135,
       "rank": 11,
@@ -3699,14 +3707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 487333,
-      "num": 468634,
-      "word": "Amber一个包随身带7年",
-      "onboard_time": 1691636135,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 486049,
       "num": 486049,
       "word": "孤注一掷预测票房38亿",
@@ -3721,6 +3721,14 @@
       "onboard_time": 1691368419,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 483347,
+      "num": 483347,
+      "word": "SM称不知道伯贤成立个人公司",
+      "onboard_time": 1691635296,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 483057,
@@ -3795,14 +3803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 475801,
-      "num": 475801,
-      "word": "SM称不知道伯贤成立个人公司",
-      "onboard_time": 1691635296,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 475649,
       "num": 475649,
       "word": "本周狗屎运排行榜",
@@ -3875,20 +3875,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 467798,
+      "num": 467798,
+      "word": "看金晨被扎手戏幻痛了",
+      "onboard_time": 1691634813,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467643,
       "num": 467648,
       "word": "福岛核电站高辐射沙袋靠近一小时可致命",
       "onboard_time": 1691633553,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467538,
-      "num": 467538,
-      "word": "看金晨被扎手戏幻痛了",
-      "onboard_time": 1691634813,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 465004,
@@ -4033,6 +4033,14 @@
       "onboard_time": 1691414858,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 444405,
+      "num": 444405,
+      "word": "吉娘娘将回归维密秀",
+      "onboard_time": 1691636493,
+      "rank": 19,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 443670,
@@ -4392,6 +4400,14 @@
       "word": "曾舜晞说莲花楼有两个结局",
       "onboard_time": 1691405376,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 411349,
+      "num": 286197,
+      "word": "莲花楼有第二部吗",
+      "onboard_time": 1691637392,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -4915,14 +4931,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 357499,
-      "num": 357499,
-      "word": "吉娘娘将回归维密秀",
-      "onboard_time": 1691636493,
-      "rank": 19,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 356512,
       "num": 356512,
       "word": "看蒋欣飙戏不敢呼吸",
@@ -5235,6 +5243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 321565,
+      "num": 285028,
+      "word": "赵丽颖吊带紫裙",
+      "onboard_time": 1691638412,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321177,
       "num": 321177,
       "word": "DK对战T1",
@@ -5393,6 +5409,14 @@
       "onboard_time": 1691362886,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312575,
+      "num": 283780,
+      "word": "郭子凡在敖子逸蒋依依身后孤单",
+      "onboard_time": 1691637870,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 312543,
@@ -5825,6 +5849,14 @@
       "onboard_time": 1691460031,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282461,
+      "num": 282461,
+      "word": "长相思今天剧照有糖",
+      "onboard_time": 1691637635,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 281787,
@@ -7187,6 +7219,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208501,
+      "num": 208501,
+      "word": "12岁女孩自学建模实现手办自由",
+      "onboard_time": 1691637692,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208477,
+      "num": 208477,
+      "word": "赤水丰隆追夭记",
+      "onboard_time": 1691637995,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208437,
       "num": 208437,
       "word": "开启KPL逐梦回忆",
@@ -7369,14 +7417,6 @@
       "onboard_time": 1691593480,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203254,
-      "num": 203254,
-      "word": "莲花楼有第二部吗",
-      "onboard_time": 1691637392,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 202141,
@@ -7648,6 +7688,14 @@
       "word": "原神fes",
       "onboard_time": 1691630254,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 193651,
+      "num": 193651,
+      "word": "第五人格",
+      "onboard_time": 1691637572,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -8033,6 +8081,14 @@
       "onboard_time": 1691636073,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176288,
+      "num": 176288,
+      "word": "唐九洲觉得苏培盛是完美男人",
+      "onboard_time": 1691638234,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 176207,
@@ -8915,6 +8971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60798,
+      "num": 216476,
+      "word": "小米自研龙骨转轴",
+      "onboard_time": 1691637452,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 58599,
       "num": 668068,
       "word": "子弟兵蹚淤泥推舟为村民送物资",
@@ -9027,6 +9091,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 42013,
+      "num": 1638460,
+      "word": "盘点大运会舞台上的国风蜀韵",
+      "onboard_time": 1691636135,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41275,
       "num": 56086,
       "word": "殷桃露马甲线",
@@ -9065,14 +9137,6 @@
       "onboard_time": 1691462974,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34233,
-      "num": 1428397,
-      "word": "盘点大运会舞台上的国风蜀韵",
-      "onboard_time": 1691636135,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32997,
@@ -9163,8 +9227,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12237,
-      "num": 192617,
+      "raw_hot": 15341,
+      "num": 202144,
       "word": "现场直击2023快手光合创作者大会",
       "onboard_time": 1691636433,
       "rank": 39,
