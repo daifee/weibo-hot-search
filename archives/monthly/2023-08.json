@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691635486054,
+  "endTime": 1691637433324,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2011,6 +2011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1513790,
+      "num": 1513790,
+      "word": "女孩因上学爱转笔设计出可以转的杯子",
+      "onboard_time": 1691632172,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1513411,
       "num": 1513411,
       "word": "涂山璟退婚",
@@ -2360,6 +2368,14 @@
       "word": "北京首次动用1998年建成的滞洪水库蓄洪",
       "onboard_time": 1690855955,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1392439,
+      "num": 1392439,
+      "word": "杭州新东方全面停课",
+      "onboard_time": 1691634033,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -3771,6 +3787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1043942,
+      "num": 1043942,
+      "word": "长相思今晚是梅林殉情",
+      "onboard_time": 1691633253,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1043795,
       "num": 569059,
       "word": "官方通报讲座称性骚扰是因女生风骚",
@@ -3921,14 +3945,6 @@
       "onboard_time": 1690895857,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1017406,
-      "num": 1017406,
-      "word": "女孩因上学爱转笔设计出可以转的杯子",
-      "onboard_time": 1691632172,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1016995,
@@ -4232,14 +4248,6 @@
       "word": "杨紫回应朋友圈杨紫",
       "onboard_time": 1691128233,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 974133,
-      "num": 974133,
-      "word": "长相思今晚是梅林殉情",
-      "onboard_time": 1691633253,
-      "rank": 3,
       "category": "影视"
     },
     {
@@ -4899,6 +4907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 882048,
+      "num": 882048,
+      "word": "EDG向TheShy道歉",
+      "onboard_time": 1691633673,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 881761,
       "num": 881761,
       "word": "吴京烤串一看就没少练",
@@ -4921,6 +4937,14 @@
       "onboard_time": 1691305714,
       "rank": 36,
       "category": "音乐,社会新闻"
+    },
+    {
+      "raw_hot": 879681,
+      "num": 879681,
+      "word": "唐嫣念无双妆造没有换",
+      "onboard_time": 1691634634,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 879270,
@@ -5731,14 +5755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 780052,
-      "num": 780052,
-      "word": "唐嫣念无双妆造没有换",
-      "onboard_time": 1691634634,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 778789,
       "num": 270820,
       "word": "魏大勋扫楼",
@@ -6017,14 +6033,6 @@
       "onboard_time": 1691196576,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 755632,
-      "num": 755632,
-      "word": "EDG向TheShy道歉",
-      "onboard_time": 1691633673,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 755037,
@@ -6680,14 +6688,6 @@
       "word": "官方回应佳木斯建方舱医院",
       "onboard_time": 1690956274,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 709407,
-      "num": 709407,
-      "word": "杭州新东方全面停课",
-      "onboard_time": 1691634033,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -8497,6 +8497,14 @@
       "onboard_time": 1691114498,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 582125,
+      "num": 471766,
+      "word": "相柳别哭喂你吃螺蛳粉",
+      "onboard_time": 1691636135,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 582028,
@@ -10331,6 +10339,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 487333,
+      "num": 468634,
+      "word": "Amber一个包随身带7年",
+      "onboard_time": 1691636135,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487298,
       "num": 487298,
       "word": "LOL12周年表演赛阵容",
@@ -10603,6 +10619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 475801,
+      "num": 475801,
+      "word": "SM称不知道伯贤成立个人公司",
+      "onboard_time": 1691635296,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475649,
       "num": 475649,
       "word": "本周狗屎运排行榜",
@@ -10724,11 +10748,19 @@
     },
     {
       "raw_hot": 467643,
-      "num": 467643,
+      "num": 467648,
       "word": "福岛核电站高辐射沙袋靠近一小时可致命",
       "onboard_time": 1691633553,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467538,
+      "num": 467538,
+      "word": "看金晨被扎手戏幻痛了",
+      "onboard_time": 1691634813,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 466602,
@@ -11137,6 +11169,14 @@
       "onboard_time": 1690935336,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 449492,
+      "num": 449492,
+      "word": "莲花楼团员跳团建舞蹈还差成毅",
+      "onboard_time": 1691633312,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 449381,
@@ -12184,14 +12224,6 @@
       "word": "孤注一掷点映排片",
       "onboard_time": 1691302236,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 404639,
-      "num": 404639,
-      "word": "莲花楼团员跳团建舞蹈还差成毅",
-      "onboard_time": 1691633312,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -13523,6 +13555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357499,
+      "num": 357499,
+      "word": "吉娘娘将回归维密秀",
+      "onboard_time": 1691636493,
+      "rank": 19,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 357264,
       "num": 357264,
       "word": "洪水冲来2条狗女子领回精心饲养",
@@ -14313,14 +14353,6 @@
       "onboard_time": 1691223458,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329005,
-      "num": 329005,
-      "word": "看金晨被扎手戏幻痛了",
-      "onboard_time": 1691634813,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 328184,
@@ -19283,6 +19315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212600,
+      "num": 212600,
+      "word": "七时吉祥今日开播",
+      "onboard_time": 1691636552,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212491,
       "num": 212491,
       "word": "雇佣人生 人人都是工具",
@@ -19433,6 +19473,14 @@
       "onboard_time": 1691101157,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210596,
+      "num": 210596,
+      "word": "原来电影热烈的故事是真实存在的",
+      "onboard_time": 1691635534,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 210435,
@@ -20025,6 +20073,14 @@
       "onboard_time": 1690867895,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203254,
+      "num": 203254,
+      "word": "莲花楼有第二部吗",
+      "onboard_time": 1691637392,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 203025,
@@ -20867,6 +20923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193012,
+      "num": 193012,
+      "word": "念无双",
+      "onboard_time": 1691636912,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192958,
       "num": 192958,
       "word": "武警战士被急流冲倒时仍紧抱孩子",
@@ -20929,6 +20993,14 @@
       "onboard_time": 1691507737,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192400,
+      "num": 192400,
+      "word": "乌斯怀亚 好像世界的尽头",
+      "onboard_time": 1691636912,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 192317,
@@ -21187,6 +21259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189205,
+      "num": 200503,
+      "word": "一拍即合的我们",
+      "onboard_time": 1691031459,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189011,
       "num": 189011,
       "word": "苏醒王栎鑫最近一个月频繁见面",
@@ -21265,14 +21345,6 @@
       "onboard_time": 1690941629,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188038,
-      "num": 200503,
-      "word": "一拍即合的我们",
-      "onboard_time": 1691031459,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 187846,
@@ -21497,14 +21569,6 @@
       "onboard_time": 1691549495,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183726,
-      "num": 183726,
-      "word": "SM称不知道伯贤成立个人公司",
-      "onboard_time": 1691635296,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 183599,
@@ -21787,6 +21851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176983,
+      "num": 176983,
+      "word": "龙皓晨登上神印王座",
+      "onboard_time": 1691636073,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 176471,
       "num": 220307,
       "word": "Hero对战KSG",
@@ -22019,6 +22091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168157,
+      "num": 168157,
+      "word": "黄渤说每个家长都想有一个封神榜",
+      "onboard_time": 1691632411,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167869,
       "num": 167869,
       "word": "百度网盘回应崩了",
@@ -22097,14 +22177,6 @@
       "onboard_time": 1691037405,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164745,
-      "num": 164745,
-      "word": "黄渤说每个家长都想有一个封神榜",
-      "onboard_time": 1691632411,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 164739,
@@ -24307,6 +24379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34233,
+      "num": 1428397,
+      "word": "盘点大运会舞台上的国风蜀韵",
+      "onboard_time": 1691636135,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33654,
       "num": 289844,
       "word": "暴雨洪灾后的9个健康知识点",
@@ -24528,6 +24608,14 @@
       "word": "有一种友谊是相差46岁的忘年交",
       "onboard_time": 1690924032,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12237,
+      "num": 192617,
+      "word": "现场直击2023快手光合创作者大会",
+      "onboard_time": 1691636433,
+      "rank": 39,
       "category": "社会新闻"
     },
     {

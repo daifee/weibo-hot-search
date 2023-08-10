@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691635486054,
+  "endTime": 1691637433324,
   "band_list": [
     {
       "raw_hot": 3138717,
@@ -43,6 +43,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1513790,
+      "num": 1513790,
+      "word": "女孩因上学爱转笔设计出可以转的杯子",
+      "onboard_time": 1691632172,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1392439,
+      "num": 1392439,
+      "word": "杭州新东方全面停课",
+      "onboard_time": 1691634033,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1334132,
       "num": 569112,
       "word": "王俊凯网吧直播",
@@ -83,19 +99,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1043942,
+      "num": 1043942,
+      "word": "长相思今晚是梅林殉情",
+      "onboard_time": 1691633253,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1043795,
       "num": 569059,
       "word": "官方通报讲座称性骚扰是因女生风骚",
       "onboard_time": 1691626233,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1017406,
-      "num": 1017406,
-      "word": "女孩因上学爱转笔设计出可以转的杯子",
-      "onboard_time": 1691632172,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -107,14 +123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 974133,
-      "num": 974133,
-      "word": "长相思今晚是梅林殉情",
-      "onboard_time": 1691633253,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 919864,
       "num": 919864,
       "word": "一名殡葬专业学生的课表",
@@ -123,27 +131,27 @@
       "category": "情感"
     },
     {
-      "raw_hot": 821243,
-      "num": 821243,
-      "word": "王者荣耀瑶",
-      "onboard_time": 1691629536,
-      "rank": 15,
+      "raw_hot": 882048,
+      "num": 882048,
+      "word": "EDG向TheShy道歉",
+      "onboard_time": 1691633673,
+      "rank": 5,
       "category": "游戏"
     },
     {
-      "raw_hot": 780052,
-      "num": 780052,
+      "raw_hot": 879681,
+      "num": 879681,
       "word": "唐嫣念无双妆造没有换",
       "onboard_time": 1691634634,
       "rank": 17,
       "category": "影视"
     },
     {
-      "raw_hot": 755632,
-      "num": 755632,
-      "word": "EDG向TheShy道歉",
-      "onboard_time": 1691633673,
-      "rank": 5,
+      "raw_hot": 821243,
+      "num": 821243,
+      "word": "王者荣耀瑶",
+      "onboard_time": 1691629536,
+      "rank": 15,
       "category": "游戏"
     },
     {
@@ -177,14 +185,6 @@
       "onboard_time": 1691590840,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 709407,
-      "num": 709407,
-      "word": "杭州新东方全面停课",
-      "onboard_time": 1691634033,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 700594,
@@ -233,6 +233,14 @@
       "onboard_time": 1691626594,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 582125,
+      "num": 471766,
+      "word": "相柳别哭喂你吃螺蛳粉",
+      "onboard_time": 1691636135,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 573220,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487333,
+      "num": 468634,
+      "word": "Amber一个包随身带7年",
+      "onboard_time": 1691636135,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485620,
       "num": 485620,
       "word": "迪丽热巴说到底是谁在跟我抢票",
@@ -331,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475801,
+      "num": 475801,
+      "word": "SM称不知道伯贤成立个人公司",
+      "onboard_time": 1691635296,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467643,
-      "num": 467643,
+      "num": 467648,
       "word": "福岛核电站高辐射沙袋靠近一小时可致命",
       "onboard_time": 1691633553,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467538,
+      "num": 467538,
+      "word": "看金晨被扎手戏幻痛了",
+      "onboard_time": 1691634813,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 455191,
@@ -353,6 +385,14 @@
       "onboard_time": 1691624308,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449492,
+      "num": 449492,
+      "word": "莲花楼团员跳团建舞蹈还差成毅",
+      "onboard_time": 1691633312,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 437059,
@@ -403,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404639,
-      "num": 404639,
-      "word": "莲花楼团员跳团建舞蹈还差成毅",
-      "onboard_time": 1691633312,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 403857,
       "num": 403857,
       "word": "雅典娜",
@@ -459,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357499,
+      "num": 357499,
+      "word": "吉娘娘将回归维密秀",
+      "onboard_time": 1691636493,
+      "rank": 19,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 349468,
       "num": 349468,
       "word": "费翔回应商务殷语",
@@ -480,14 +520,6 @@
       "word": "曾舜晞跳queencard",
       "onboard_time": 1691592820,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 329005,
-      "num": 329005,
-      "word": "看金晨被扎手戏幻痛了",
-      "onboard_time": 1691634813,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -787,6 +819,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212600,
+      "num": 212600,
+      "word": "七时吉祥今日开播",
+      "onboard_time": 1691636552,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210596,
+      "num": 210596,
+      "word": "原来电影热烈的故事是真实存在的",
+      "onboard_time": 1691635534,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208950,
       "num": 208950,
       "word": "小夭扮回玟小六",
@@ -808,6 +856,14 @@
       "word": "中戏教授说王一博进步非常大",
       "onboard_time": 1691587359,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 203254,
+      "num": 203254,
+      "word": "莲花楼有第二部吗",
+      "onboard_time": 1691637392,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -843,6 +899,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193012,
+      "num": 193012,
+      "word": "念无双",
+      "onboard_time": 1691636912,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192400,
+      "num": 192400,
+      "word": "乌斯怀亚 好像世界的尽头",
+      "onboard_time": 1691636912,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189205,
+      "num": 189205,
+      "word": "一拍即合的我们",
+      "onboard_time": 1691636552,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188519,
       "num": 188519,
       "word": "王鹤润跳queencard",
@@ -875,20 +955,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183726,
-      "num": 183726,
-      "word": "SM称不知道伯贤成立个人公司",
-      "onboard_time": 1691635296,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179973,
       "num": 179973,
       "word": "中学讲座称被性骚扰是因女生风骚",
       "onboard_time": 1691628218,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176983,
+      "num": 176983,
+      "word": "龙皓晨登上神印王座",
+      "onboard_time": 1691636073,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 172654,
@@ -899,20 +979,20 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 168157,
+      "num": 168157,
+      "word": "黄渤说每个家长都想有一个封神榜",
+      "onboard_time": 1691632411,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167709,
       "num": 218375,
       "word": "北大教授称我国目前收入水平还是太低",
       "onboard_time": 1691585914,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 164745,
-      "num": 164745,
-      "word": "黄渤说每个家长都想有一个封神榜",
-      "onboard_time": 1691632411,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 150733,
@@ -1059,12 +1139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34233,
+      "num": 1428397,
+      "word": "盘点大运会舞台上的国风蜀韵",
+      "onboard_time": 1691636135,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19652,
       "num": 26741,
       "word": "卡芙卡上线",
       "onboard_time": 1691615594,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12237,
+      "num": 192617,
+      "word": "现场直击2023快手光合创作者大会",
+      "onboard_time": 1691636433,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9424,
