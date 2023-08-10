@@ -1,0 +1,410 @@
+{
+  "runTime": 1691652825669,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2343334,
+        "num": 2343334,
+        "word": "儿子手机上的支付宝存了15万",
+        "onboard_time": 1691649622,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1438391,
+        "num": 1438391,
+        "word": "18岁男孩52万卖掉上百万房子买摩托车",
+        "onboard_time": 1691645313,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 57903,
+        "num": 1300104,
+        "word": "痛别暴雨洪灾中牺牲的英雄",
+        "onboard_time": 1691635953,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1485607,
+        "num": 1269244,
+        "word": "女子从小诊断为真两性畸形无法正常工作",
+        "onboard_time": 1691647050,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1187515,
+        "num": 1187515,
+        "word": "邓为见面会",
+        "onboard_time": 1691650473,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1182310,
+        "num": 1182310,
+        "word": "湘雅三院孟婕已停诊",
+        "onboard_time": 1691648734,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833699,
+        "num": 833699,
+        "word": "向佐嘲笑壮壮妈成为壮壮妈",
+        "onboard_time": 1691651074,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680573,
+        "num": 680573,
+        "word": "王一博 施华洛世奇",
+        "onboard_time": 1691648252,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 577143,
+        "num": 577143,
+        "word": "封神第一部票房破18亿",
+        "onboard_time": 1691650232,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546906,
+        "num": 546906,
+        "word": "男篮徐杰",
+        "onboard_time": 1691648373,
+        "rank": 9,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 2144058,
+        "num": 534466,
+        "word": "饶雪漫 造成误会很抱歉",
+        "onboard_time": 1691647294,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1031081,
+        "num": 525644,
+        "word": "导演让杨紫邓为深吻",
+        "onboard_time": 1691645494,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498279,
+        "num": 498279,
+        "word": "zzr和陈都灵好好嗑",
+        "onboard_time": 1691645254,
+        "rank": 12,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 489741,
+        "num": 489741,
+        "word": "e人与i人的坐姿",
+        "onboard_time": 1691641597,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 483112,
+        "num": 483112,
+        "word": "湖南卫健委与中南大学成立联合调查组",
+        "onboard_time": 1691648793,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 469972,
+        "num": 469972,
+        "word": "湘雅三医院9名医务人员联名举报科主任",
+        "onboard_time": 1691627496,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443070,
+        "num": 443070,
+        "word": "王源炸毛了",
+        "onboard_time": 1691643456,
+        "rank": 16,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 366691,
+        "num": 366691,
+        "word": "阿Sa阿娇晒和你天下第一好表情包",
+        "onboard_time": 1691650295,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364427,
+        "num": 364427,
+        "word": "我不是药神白血病少年饰演者成了捐髓者",
+        "onboard_time": 1691652274,
+        "rank": 18,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 360333,
+        "num": 360333,
+        "word": "张晚意北电毕业照",
+        "onboard_time": 1691648373,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532298,
+        "num": 358735,
+        "word": "结婚16年3个女儿都非亲生",
+        "onboard_time": 1691648972,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418092,
+        "num": 356527,
+        "word": "时代少年团特权码",
+        "onboard_time": 1691650174,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354304,
+        "num": 354304,
+        "word": "曾黎王冰冰同框",
+        "onboard_time": 1691651195,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352493,
+        "num": 352493,
+        "word": "小夭血染梅林",
+        "onboard_time": 1691642918,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277130,
+        "num": 277130,
+        "word": "网红称要让补课行为在浙江断根",
+        "onboard_time": 1691641176,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347596,
+        "num": 275939,
+        "word": "笛飞声1分钟砍了9刀",
+        "onboard_time": 1691651735,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320959,
+        "num": 266658,
+        "word": "张艺兴演唱会BOOM舞台",
+        "onboard_time": 1691652156,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307808,
+        "num": 251530,
+        "word": "T杂志集齐TFBOYS",
+        "onboard_time": 1691647294,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 293688,
+        "num": 243401,
+        "word": "谢霆锋真不把我们当外人",
+        "onboard_time": 1691650473,
+        "rank": 28,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 239391,
+        "num": 239391,
+        "word": "心理咨询师给女性客户的真诚建议",
+        "onboard_time": 1691649575,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290715,
+        "num": 238664,
+        "word": "封神",
+        "onboard_time": 1691649274,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264718,
+        "num": 238382,
+        "word": "赵丽颖不会成为虎妈",
+        "onboard_time": 1691645494,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237927,
+        "num": 237927,
+        "word": "杭州新东方全面停课",
+        "onboard_time": 1691634033,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237122,
+        "num": 237122,
+        "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
+        "onboard_time": 1691644474,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225172,
+        "num": 225172,
+        "word": "水库泄洪女子邀20余村民进家避难",
+        "onboard_time": 1691650594,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261704,
+        "num": 224481,
+        "word": "檀健次说选角期少不了流言蜚语",
+        "onboard_time": 1691640695,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254400,
+        "num": 222487,
+        "word": "张艺兴电影吃马桶纸是真吃",
+        "onboard_time": 1691641836,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202758,
+        "num": 202758,
+        "word": "为什么川菜重油却很少有胖子",
+        "onboard_time": 1691633073,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200421,
+        "num": 200421,
+        "word": "孟婕",
+        "onboard_time": 1691644773,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198509,
+        "num": 198509,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 243108,
+        "num": 194817,
+        "word": "杨洋凡人修仙传逛灯会路透",
+        "onboard_time": 1691647112,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240074,
+        "num": 192493,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1691648194,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230277,
+        "num": 188577,
+        "word": "魏大勋时尚芭莎8月刊封面预告",
+        "onboard_time": 1691652335,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 216823,
+        "num": 184578,
+        "word": "沙漏",
+        "onboard_time": 1691651435,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215935,
+        "num": 179304,
+        "word": "黄仁俊钟辰乐将录制国内综艺",
+        "onboard_time": 1691647412,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179302,
+        "num": 179302,
+        "word": "朱玉兰",
+        "onboard_time": 1691651255,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162375,
+        "num": 162375,
+        "word": "EDG向TheShy道歉",
+        "onboard_time": 1691633673,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148201,
+        "num": 148201,
+        "word": "没有J人能走出P人的房间",
+        "onboard_time": 1691642378,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146298,
+        "num": 146298,
+        "word": "韩国台风",
+        "onboard_time": 1691639014,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127102,
+        "num": 145253,
+        "word": "小伙住宾馆发现抽屉里有10万纸币",
+        "onboard_time": 1691633913,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#越织越密的中国高铁网将送上更多惊喜#"
+    }
+  }
+}
