@@ -1,0 +1,410 @@
+{
+  "runTime": 1691703238864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 146763,
+        "num": 146763,
+        "word": "为解绑支付宝民警帮办45张证明",
+        "onboard_time": 1691691798,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84693,
+        "num": 84693,
+        "word": "在新疆连玩10天有多爽",
+        "onboard_time": 1691675679,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 12067,
+        "num": 80038,
+        "word": "亚运福利100多个景区公园免门票",
+        "onboard_time": 1691673273,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90443,
+        "num": 79818,
+        "word": "梅林殉情",
+        "onboard_time": 1691664214,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79443,
+        "num": 79443,
+        "word": "谭爷爷说花花不是洗白的",
+        "onboard_time": 1691684490,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61335,
+        "num": 61335,
+        "word": "吴倩离婚后真是人间清醒",
+        "onboard_time": 1691677300,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59826,
+        "num": 59826,
+        "word": "玱玹激动得不会说话了",
+        "onboard_time": 1691682277,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53892,
+        "num": 53892,
+        "word": "被马立奥笑惨了",
+        "onboard_time": 1691683477,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51126,
+        "num": 51126,
+        "word": "封神路演主持人道歉",
+        "onboard_time": 1691678920,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42701,
+        "num": 48369,
+        "word": "湖南一女子与镇干部水库游泳溺亡",
+        "onboard_time": 1691658635,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182274,
+        "num": 48361,
+        "word": "为什么会有月经同步现象",
+        "onboard_time": 1691680838,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 48341,
+        "num": 48341,
+        "word": "第一次见男女主历劫畜牲道",
+        "onboard_time": 1691678383,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44332,
+        "num": 44332,
+        "word": "从此以后每天都是好日子",
+        "onboard_time": 1691682097,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 26020,
+        "num": 44078,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 23734,
+        "num": 44006,
+        "word": "夫妻俩义务上门帮失能老人洗澡",
+        "onboard_time": 1691679100,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43935,
+        "num": 43935,
+        "word": "黄晓明喊话蒋欣真的不能再哭了",
+        "onboard_time": 1691674174,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37964,
+        "num": 37964,
+        "word": "檀健次是懂缓解焦虑的",
+        "onboard_time": 1691683238,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36367,
+        "num": 36367,
+        "word": "长相思观众好卷",
+        "onboard_time": 1691681137,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36011,
+        "num": 36011,
+        "word": "尊嘟假嘟",
+        "onboard_time": 1691674477,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33111,
+        "num": 35922,
+        "word": "儿子手机上的支付宝存了15万",
+        "onboard_time": 1691649622,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55421,
+        "num": 35915,
+        "word": "女幼师疑出轨学生家长被抓当街游行",
+        "onboard_time": 1691656774,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41878,
+        "num": 35881,
+        "word": "甲骨文的屎字太形象了",
+        "onboard_time": 1691679880,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35835,
+        "num": 35835,
+        "word": "焦虑的时候请反复阅读",
+        "onboard_time": 1691688560,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35743,
+        "num": 35743,
+        "word": "19岁男生送外卖撞车被家人骂去死",
+        "onboard_time": 1691674958,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33377,
+        "num": 33377,
+        "word": "柳岩怎么瘦了这么多",
+        "onboard_time": 1691681561,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30011,
+        "num": 30011,
+        "word": "赵丽颖的文案是尊嘟假嘟吧",
+        "onboard_time": 1691671233,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29219,
+        "num": 29219,
+        "word": "第一次见六个人平番的剧",
+        "onboard_time": 1691673995,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28615,
+        "num": 28615,
+        "word": "这其实也是焦虑的一种",
+        "onboard_time": 1691682757,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 26758,
+        "num": 26758,
+        "word": "王源易烊千玺同时为王俊凯回望宣传",
+        "onboard_time": 1691666737,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26748,
+        "num": 26748,
+        "word": "理记 这波医疗反腐漏网的几乎不可能",
+        "onboard_time": 1691679762,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86033,
+        "num": 26698,
+        "word": "邓为演技差点意思",
+        "onboard_time": 1691670034,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26516,
+        "num": 26516,
+        "word": "结婚好的话还用催啊",
+        "onboard_time": 1691679341,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 26483,
+        "num": 26483,
+        "word": "上海一小区垃圾站惊现男尸",
+        "onboard_time": 1691663016,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25420,
+        "num": 25420,
+        "word": "手镯有了黄金没看见",
+        "onboard_time": 1691678142,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25083,
+        "num": 25083,
+        "word": "莲花楼原著立意",
+        "onboard_time": 1691681320,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24890,
+        "num": 24890,
+        "word": "jiejie",
+        "onboard_time": 1691676938,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22798,
+        "num": 24885,
+        "word": "长相思",
+        "onboard_time": 1691663193,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24885,
+        "num": 24884,
+        "word": "董璇都演婆婆了",
+        "onboard_time": 1691678799,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24180,
+        "num": 24180,
+        "word": "他妥协了但不多",
+        "onboard_time": 1691682097,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 24401,
+        "num": 24164,
+        "word": "虞书欣落款隔壁的仙子小兰花",
+        "onboard_time": 1691683773,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23975,
+        "num": 23975,
+        "word": "金晨浅跳个舞庆祝票房10亿",
+        "onboard_time": 1691676519,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23089,
+        "num": 23089,
+        "word": "地质博物馆的石头美得很夸张",
+        "onboard_time": 1691699113,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 23485,
+        "num": 23064,
+        "word": "孙阳痞帅",
+        "onboard_time": 1691683594,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22936,
+        "num": 22936,
+        "word": "王一栩 七时吉祥致敬了苍兰诀",
+        "onboard_time": 1691681915,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22663,
+        "num": 22663,
+        "word": "小米王化回应用户倒卖门票",
+        "onboard_time": 1691670273,
+        "rank": 44,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 22313,
+        "num": 22313,
+        "word": "杨超越演技",
+        "onboard_time": 1691675138,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21759,
+        "num": 21759,
+        "word": "苏晓彤暴走萝莉",
+        "onboard_time": 1691700974,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19838,
+        "num": 21747,
+        "word": "阿杰 声线变了更多是表演范畴",
+        "onboard_time": 1691681617,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17505,
+        "num": 21676,
+        "word": "见面吧星朋友",
+        "onboard_time": 1691702593,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15798,
+        "num": 21660,
+        "word": "网友好像他们仨play的一环",
+        "onboard_time": 1691669252,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}

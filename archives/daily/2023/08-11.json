@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691702056230,
+  "endTime": 1691703238864,
   "band_list": [
     {
       "raw_hot": 1731425,
@@ -371,6 +371,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 146763,
+      "num": 146763,
+      "word": "为解绑支付宝民警帮办45张证明",
+      "onboard_time": 1691691798,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141448,
       "num": 187743,
       "word": "Faker含金量",
@@ -384,14 +392,6 @@
       "word": "夫妻俩义务上门帮失能老人洗澡",
       "onboard_time": 1691679100,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136743,
-      "num": 136743,
-      "word": "为解绑支付宝民警帮办45张证明",
-      "onboard_time": 1691691798,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 25063,
-      "num": 21274,
+      "num": 24885,
       "word": "长相思",
       "onboard_time": 1691663193,
       "rank": 45,
@@ -523,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 21759,
+      "num": 21759,
+      "word": "苏晓彤暴走萝莉",
+      "onboard_time": 1691700974,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 19306,
       "num": 310973,
       "word": "亚运福利100多个景区公园免门票",
@@ -531,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17292,
-      "num": 21540,
-      "word": "苏晓彤暴走萝莉",
-      "onboard_time": 1691700974,
+      "raw_hot": 17505,
+      "num": 21676,
+      "word": "见面吧星朋友",
+      "onboard_time": 1691702593,
       "rank": 48,
-      "category": "影视"
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
