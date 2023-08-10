@@ -1,0 +1,410 @@
+{
+  "runTime": 1691667225841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1228060,
+        "num": 1228060,
+        "word": "刘星那是我姐",
+        "onboard_time": 1691661093,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 710635,
+        "num": 710635,
+        "word": "我不是药神白血病少年饰演者成了捐髓者",
+        "onboard_time": 1691652274,
+        "rank": 1,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 70391,
+        "num": 685256,
+        "word": "大熊猫的爱情我们来守护",
+        "onboard_time": 1691655935,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3721421,
+        "num": 677563,
+        "word": "梅林殉情",
+        "onboard_time": 1691664214,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 538231,
+        "num": 665623,
+        "word": "终于可以乘高铁去荔波了",
+        "onboard_time": 1691662714,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 663146,
+        "num": 663146,
+        "word": "肖战演的手抖",
+        "onboard_time": 1691661754,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302591,
+        "num": 643480,
+        "word": "3岁女孩走丢告诉民警她叫小美女",
+        "onboard_time": 1691654075,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627080,
+        "num": 627080,
+        "word": "莲花楼是古装探案悬疑剧",
+        "onboard_time": 1691665474,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 612569,
+        "num": 612569,
+        "word": "湖南一女子与镇干部水库游泳溺亡",
+        "onboard_time": 1691658635,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225208,
+        "num": 612204,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 197564,
+        "num": 603283,
+        "word": "如何看待美特斯邦威破产式捐赠",
+        "onboard_time": 1691663614,
+        "rank": 10,
+        "category": "财经,社会议题"
+      },
+      {
+        "raw_hot": 815233,
+        "num": 596662,
+        "word": "儿子手机上的支付宝存了15万",
+        "onboard_time": 1691649622,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 731639,
+        "num": 591109,
+        "word": "王源易烊千玺同时为王俊凯回望宣传",
+        "onboard_time": 1691666737,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157527,
+        "num": 584882,
+        "word": "湖南卫健委与中南大学成立联合调查组",
+        "onboard_time": 1691648793,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 35508,
+        "num": 575549,
+        "word": "救援队长称最大的心愿是换台车好好救人",
+        "onboard_time": 1691665234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574702,
+        "num": 574702,
+        "word": "芭莎再现孟宴臣",
+        "onboard_time": 1691662414,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 546084,
+        "num": 546084,
+        "word": "七时吉祥",
+        "onboard_time": 1691664574,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517028,
+        "num": 517028,
+        "word": "刘诗诗行走的山茶花",
+        "onboard_time": 1691663674,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 469396,
+        "num": 469396,
+        "word": "爸爸当家",
+        "onboard_time": 1691657795,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439182,
+        "num": 439182,
+        "word": "新东方",
+        "onboard_time": 1691662295,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 931167,
+        "num": 428718,
+        "word": "女幼师疑出轨学生家长被抓当街游行",
+        "onboard_time": 1691656774,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775655,
+        "num": 417675,
+        "word": "因为太瘦工作没了",
+        "onboard_time": 1691663974,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 667143,
+        "num": 401637,
+        "word": "补完牙把舌头当棉花咬了一小时",
+        "onboard_time": 1691663374,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 560341,
+        "num": 393570,
+        "word": "上海一小区垃圾站惊现男尸",
+        "onboard_time": 1691663016,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387121,
+        "num": 387121,
+        "word": "摩羯这个星座太苦了",
+        "onboard_time": 1691657374,
+        "rank": 24,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 367778,
+        "num": 367778,
+        "word": "长相思",
+        "onboard_time": 1691663193,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347494,
+        "num": 347494,
+        "word": "SEVENTEEN获日本金唱片百万认证",
+        "onboard_time": 1691666377,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 337039,
+        "num": 337039,
+        "word": "欧阳娜娜演张艺凡师姐",
+        "onboard_time": 1691663433,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335428,
+        "num": 335428,
+        "word": "ENHYPEN去哪了",
+        "onboard_time": 1691665055,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315772,
+        "num": 315772,
+        "word": "饶雪漫 造成误会很抱歉",
+        "onboard_time": 1691647294,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429892,
+        "num": 309593,
+        "word": "谁说我家女儿要出嫁",
+        "onboard_time": 1691665594,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293361,
+        "num": 293361,
+        "word": "王源炸毛了",
+        "onboard_time": 1691643456,
+        "rank": 31,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 279996,
+        "num": 279996,
+        "word": "代号鸢",
+        "onboard_time": 1691664694,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275189,
+        "num": 275189,
+        "word": "小夭身世初现",
+        "onboard_time": 1691666555,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270783,
+        "num": 270783,
+        "word": "年轻人的体检报告",
+        "onboard_time": 1691653533,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 264946,
+        "num": 264946,
+        "word": "长相思主演角色籍贯",
+        "onboard_time": 1691662233,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237087,
+        "num": 237087,
+        "word": "湘雅三院孟婕已停诊",
+        "onboard_time": 1691648734,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224919,
+        "num": 224919,
+        "word": "封神第一部票房破18亿",
+        "onboard_time": 1691650232,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220844,
+        "num": 220844,
+        "word": "徐明浩直播",
+        "onboard_time": 1691663854,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215178,
+        "num": 215178,
+        "word": "无痕西瓜吃法",
+        "onboard_time": 1691661995,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214884,
+        "num": 214884,
+        "word": "何泓姗董思成新剧预告亲了5次",
+        "onboard_time": 1691663555,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213001,
+        "num": 213001,
+        "word": "向佐嘲笑壮壮妈成为壮壮妈",
+        "onboard_time": 1691651074,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207898,
+        "num": 212998,
+        "word": "体重280斤店员被殴打拒不还手",
+        "onboard_time": 1691656233,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200804,
+        "num": 212983,
+        "word": "莲花楼打戏美学",
+        "onboard_time": 1691666015,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196270,
+        "num": 212966,
+        "word": "邓为见面会",
+        "onboard_time": 1691650473,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187047,
+        "num": 212952,
+        "word": "MCD",
+        "onboard_time": 1691664635,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194017,
+        "num": 212938,
+        "word": "邓为被迫放弃潮到风湿",
+        "onboard_time": 1691657617,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165297,
+        "num": 212920,
+        "word": "网传乳腺外科医师搜出1.5亿不实",
+        "onboard_time": 1691659656,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160491,
+        "num": 212909,
+        "word": "地震局回应大量燕子夜间漫天飞舞",
+        "onboard_time": 1691658873,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155023,
+        "num": 212889,
+        "word": "男篮徐杰",
+        "onboard_time": 1691648373,
+        "rank": 49,
+        "category": "体育,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#将调查研究发扬光大#"
+    }
+  }
+}

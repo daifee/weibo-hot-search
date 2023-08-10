@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691666083333,
+  "endTime": 1691667225841,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -241,6 +241,14 @@
       "onboard_time": 1691236901,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3721421,
+      "num": 731860,
+      "word": "梅林殉情",
+      "onboard_time": 1691664214,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 3708419,
@@ -600,14 +608,6 @@
       "word": "猎罪图鉴2 加女主",
       "onboard_time": 1690933890,
       "rank": 0,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 2707927,
-      "num": 731860,
-      "word": "梅林殉情",
-      "onboard_time": 1691664214,
-      "rank": 3,
       "category": "影视"
     },
     {
@@ -6083,6 +6083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 775655,
+      "num": 428608,
+      "word": "因为太瘦工作没了",
+      "onboard_time": 1691663974,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 774985,
       "num": 378462,
       "word": "黑莲花男主",
@@ -6097,14 +6105,6 @@
       "onboard_time": 1691227176,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 773693,
-      "num": 428608,
-      "word": "因为太瘦工作没了",
-      "onboard_time": 1691663974,
-      "rank": 22,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 772197,
@@ -6689,6 +6689,14 @@
       "onboard_time": 1691226575,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 731639,
+      "num": 591109,
+      "word": "王源易烊千玺同时为王俊凯回望宣传",
+      "onboard_time": 1691666737,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 731495,
@@ -7977,6 +7985,14 @@
       "onboard_time": 1691107894,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 627080,
+      "num": 627080,
+      "word": "莲花楼是古装探案悬疑剧",
+      "onboard_time": 1691665474,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 626730,
@@ -12083,6 +12099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 429892,
+      "num": 309593,
+      "word": "谁说我家女儿要出嫁",
+      "onboard_time": 1691665594,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 429706,
       "num": 429706,
       "word": "当我让我妹给我蒸个馒头",
@@ -13859,14 +13883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 366548,
-      "num": 366548,
-      "word": "莲花楼是古装探案悬疑剧",
-      "onboard_time": 1691665474,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 366392,
       "num": 366392,
       "word": "闫妮微醺体质女演员",
@@ -14483,6 +14499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347494,
+      "num": 347494,
+      "word": "SEVENTEEN获日本金唱片百万认证",
+      "onboard_time": 1691666377,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 347467,
       "num": 347467,
       "word": "起猛了没想到相差46岁的友谊这么治愈",
@@ -14793,6 +14817,14 @@
       "onboard_time": 1691148333,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335428,
+      "num": 335428,
+      "word": "ENHYPEN去哪了",
+      "onboard_time": 1691665055,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 335421,
@@ -15449,14 +15481,6 @@
       "onboard_time": 1691545655,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 315719,
-      "num": 315719,
-      "word": "ENHYPEN去哪了",
-      "onboard_time": 1691665055,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 315553,
@@ -17121,6 +17145,14 @@
       "onboard_time": 1691123138,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275189,
+      "num": 275189,
+      "word": "小夭身世初现",
+      "onboard_time": 1691666555,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 274744,
@@ -20051,14 +20083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215110,
-      "num": 215110,
-      "word": "谁说我家女儿要出嫁",
-      "onboard_time": 1691665594,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 215009,
       "num": 215009,
       "word": "热烈路演岳阳",
@@ -21163,6 +21187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200804,
+      "num": 212983,
+      "word": "莲花楼打戏美学",
+      "onboard_time": 1691666015,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200733,
       "num": 208311,
       "word": "亚洲超星团",
@@ -21449,6 +21481,14 @@
       "onboard_time": 1691549856,
       "rank": 39,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 197564,
+      "num": 603283,
+      "word": "如何看待美特斯邦威破产式捐赠",
+      "onboard_time": 1691663614,
+      "rank": 48,
+      "category": "财经,社会议题"
     },
     {
       "raw_hot": 197480,
@@ -22035,14 +22075,6 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 191519,
-      "num": 537083,
-      "word": "如何看待美特斯邦威破产式捐赠",
-      "onboard_time": 1691663614,
-      "rank": 48,
-      "category": "财经,社会议题"
-    },
-    {
       "raw_hot": 191184,
       "num": 207446,
       "word": "檀健次相柳主题曲等不到的等待",
@@ -22313,6 +22345,14 @@
       "onboard_time": 1690799912,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 187047,
+      "num": 212952,
+      "word": "MCD",
+      "onboard_time": 1691664635,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 186883,
@@ -22665,14 +22705,6 @@
       "onboard_time": 1691492018,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 180948,
-      "num": 207045,
-      "word": "莲花楼打戏美学",
-      "onboard_time": 1691666015,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 180299,
@@ -23457,14 +23489,6 @@
       "onboard_time": 1691151873,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155714,
-      "num": 206909,
-      "word": "MCD",
-      "onboard_time": 1691664635,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 154928,
@@ -25443,6 +25467,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 35508,
+      "num": 575549,
+      "word": "救援队长称最大的心愿是换台车好好救人",
+      "onboard_time": 1691665234,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35367,
       "num": 556288,
       "word": "野挺有趣全员国风变装造型",
@@ -25649,14 +25681,6 @@
       "onboard_time": 1691350394,
       "rank": 49,
       "category": "幽默,旅游"
-    },
-    {
-      "raw_hot": 17405,
-      "num": 536770,
-      "word": "救援队长称最大的心愿是换台车好好救人",
-      "onboard_time": 1691665234,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16991,
