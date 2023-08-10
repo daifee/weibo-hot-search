@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691648518958,
+  "endTime": 1691649324543,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -779,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2398540,
+      "num": 1012632,
+      "word": "饶雪漫 造成误会很抱歉",
+      "onboard_time": 1691647294,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2391660,
       "num": 2391660,
       "word": "B站崩了",
@@ -825,6 +833,14 @@
       "onboard_time": 1691314361,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2310632,
+      "num": 2310632,
+      "word": "18岁男孩52万卖掉上百万房子买摩托车",
+      "onboard_time": 1691645313,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2303580,
@@ -929,14 +945,6 @@
       "onboard_time": 1690973317,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2208182,
-      "num": 2208182,
-      "word": "18岁男孩52万卖掉上百万房子买摩托车",
-      "onboard_time": 1691645313,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2205201,
@@ -1355,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1871609,
+      "num": 539850,
+      "word": "导演让杨紫邓为深吻",
+      "onboard_time": 1691645494,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1871360,
       "num": 842290,
       "word": "王楚然新剧原著女主一直翻白眼",
@@ -1595,14 +1611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1716219,
-      "num": 539850,
-      "word": "导演让杨紫邓为深吻",
-      "onboard_time": 1691645494,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1703303,
       "num": 818869,
       "word": "舒兰村民发现一具遗体",
@@ -1833,14 +1841,6 @@
       "onboard_time": 1691375432,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1603624,
-      "num": 1012632,
-      "word": "饶雪漫 造成误会很抱歉",
-      "onboard_time": 1691647294,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1602658,
@@ -2697,6 +2697,14 @@
       "onboard_time": 1691416420,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1316016,
+      "num": 396262,
+      "word": "徐杰被曝出轨",
+      "onboard_time": 1691648373,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 1313411,
@@ -3937,6 +3945,14 @@
       "onboard_time": 1690969959,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1038615,
+      "num": 520889,
+      "word": "女子从小诊断为真两性畸形无法正常工作",
+      "onboard_time": 1691647050,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1031296,
@@ -5673,14 +5689,6 @@
       "onboard_time": 1690974757,
       "rank": 39,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 801138,
-      "num": 229028,
-      "word": "女子从小诊断为真两性畸形无法正常工作",
-      "onboard_time": 1691647050,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 800909,
@@ -8705,6 +8713,14 @@
       "onboard_time": 1691232156,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 578967,
+      "num": 578967,
+      "word": "王一博 施华洛世奇",
+      "onboard_time": 1691648252,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 575974,
@@ -13539,6 +13555,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 365261,
+      "num": 365261,
+      "word": "黄仁俊钟辰乐将录制国内综艺",
+      "onboard_time": 1691647412,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364575,
       "num": 364575,
       "word": "莲花楼热度",
@@ -14355,14 +14379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338690,
-      "num": 338690,
-      "word": "黄仁俊钟辰乐将录制国内综艺",
-      "onboard_time": 1691647412,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 338407,
       "num": 230618,
       "word": "小夭相柳偷偷藏不住",
@@ -14579,11 +14595,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329058,
+      "num": 329058,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1691648194,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 328184,
       "num": 328184,
       "word": "鞠婧祎恋爱告急最新直拍",
       "onboard_time": 1691287597,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 328150,
+      "num": 328150,
+      "word": "张晚意北电毕业照",
+      "onboard_time": 1691648373,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -15905,14 +15937,6 @@
       "onboard_time": 1690876953,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 294890,
-      "num": 294890,
-      "word": "薛之谦演唱会",
-      "onboard_time": 1691648194,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 294816,
@@ -17419,6 +17443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256087,
+      "num": 241451,
+      "word": "结婚16年3个女儿都非亲生",
+      "onboard_time": 1691648972,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255387,
       "num": 255387,
       "word": "七时吉祥虎猪彩云海报",
@@ -18073,6 +18105,14 @@
       "onboard_time": 1691579254,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241582,
+      "num": 241582,
+      "word": "湖南卫健委与中南大学成立联合调查组",
+      "onboard_time": 1691648793,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 241527,
@@ -19483,6 +19523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215831,
+      "num": 215831,
+      "word": "湘雅三院孟婕已停诊",
+      "onboard_time": 1691648734,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215740,
       "num": 215740,
       "word": "长相思微博开分8.7",
@@ -19721,14 +19769,6 @@
       "onboard_time": 1691195433,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211841,
-      "num": 211841,
-      "word": "王一博 施华洛世奇",
-      "onboard_time": 1691648252,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 211771,
@@ -21771,14 +21811,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 186953,
-      "num": 186953,
-      "word": "张晚意北电毕业照",
-      "onboard_time": 1691648373,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186883,
       "num": 240181,
       "word": "JDG夺冠",
@@ -22289,6 +22321,14 @@
       "onboard_time": 1690818514,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175993,
+      "num": 175993,
+      "word": "于适单敬尧演绎殷寿苏全孝对手戏",
+      "onboard_time": 1691648914,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 174968,
@@ -22865,14 +22905,6 @@
       "onboard_time": 1691155540,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156123,
-      "num": 156123,
-      "word": "徐杰被曝出轨",
-      "onboard_time": 1691648373,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 156035,
@@ -24379,6 +24411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75613,
+      "num": 507545,
+      "word": "梦回众神时代",
+      "onboard_time": 1691647232,
+      "rank": 14,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 75300,
       "num": 1369229,
       "word": "立秋大运会闭幕秋分亚运会开幕",
@@ -24545,14 +24585,6 @@
       "onboard_time": 1691468800,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57994,
-      "num": 481028,
-      "word": "梦回众神时代",
-      "onboard_time": 1691647232,
-      "rank": 14,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 57920,
