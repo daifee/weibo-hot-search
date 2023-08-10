@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691706822800,
+  "endTime": 1691709359582,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -5715,6 +5715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 829818,
+      "num": 829818,
+      "word": "为解绑支付宝民警帮办45张证明",
+      "onboard_time": 1691691798,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829505,
       "num": 829505,
       "word": "姬发 伯邑考",
@@ -10611,6 +10619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 507525,
+      "num": 507525,
+      "word": "碧桂园上半年预亏450至550亿",
+      "onboard_time": 1691704935,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 507407,
       "num": 507407,
       "word": "周也演技",
@@ -14491,6 +14507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360014,
+      "num": 115368,
+      "word": "14岁华裔炫富网红LilTay离世",
+      "onboard_time": 1691708722,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359793,
       "num": 236215,
       "word": "相柳说涂山家的狐狸真没用",
@@ -15001,14 +15025,6 @@
       "onboard_time": 1691312198,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344245,
-      "num": 344245,
-      "word": "为解绑支付宝民警帮办45张证明",
-      "onboard_time": 1691691798,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344168,
@@ -23443,14 +23459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177679,
-      "num": 109143,
-      "word": "碧桂园上半年预亏450至550亿",
-      "onboard_time": 1691704935,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 177508,
       "num": 177508,
       "word": "于适说演员头发不属于自己属于角色",
@@ -25163,6 +25171,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 116837,
+      "num": 116837,
+      "word": "焦虑的时候请反复阅读",
+      "onboard_time": 1691688560,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116122,
       "num": 635901,
       "word": "紧握的手是子弟兵给的安全感",
@@ -25201,6 +25217,14 @@
       "onboard_time": 1691659115,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113239,
+      "num": 113239,
+      "word": "Jennie机场",
+      "onboard_time": 1691708785,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 112979,
@@ -25297,14 +25321,6 @@
       "onboard_time": 1691033382,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108700,
-      "num": 88276,
-      "word": "焦虑的时候请反复阅读",
-      "onboard_time": 1691688560,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 107921,
@@ -26011,6 +26027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57173,
+      "num": 57173,
+      "word": "苏晓彤暴走萝莉",
+      "onboard_time": 1691700974,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 56896,
       "num": 541743,
       "word": "安卓手机拍视频哪家强",
@@ -26195,6 +26219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44494,
+      "num": 539323,
+      "word": "亚运福利100多个景区公园免门票",
+      "onboard_time": 1691673273,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43854,
       "num": 43854,
       "word": "lk99",
@@ -26281,14 +26313,6 @@
       "onboard_time": 1691132435,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35236,
-      "num": 38149,
-      "word": "苏晓彤暴走萝莉",
-      "onboard_time": 1691700974,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 34686,
@@ -26489,14 +26513,6 @@
       "onboard_time": 1691524512,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21016,
-      "num": 310973,
-      "word": "亚运福利100多个景区公园免门票",
-      "onboard_time": 1691673273,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 19762,

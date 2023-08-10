@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691706822800,
+  "endTime": 1691709359582,
   "band_list": [
     {
       "raw_hot": 1731425,
@@ -41,6 +41,14 @@
       "onboard_time": 1691675679,
       "rank": 0,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 829818,
+      "num": 829818,
+      "word": "为解绑支付宝民警帮办45张证明",
+      "onboard_time": 1691691798,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 726495,
@@ -89,6 +97,14 @@
       "onboard_time": 1691678383,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 507525,
+      "num": 507525,
+      "word": "碧桂园上半年预亏450至550亿",
+      "onboard_time": 1691704935,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 493959,
@@ -163,20 +179,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 360014,
+      "num": 115368,
+      "word": "14岁华裔炫富网红LilTay离世",
+      "onboard_time": 1691708722,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352851,
       "num": 352851,
       "word": "孙阳痞帅",
       "onboard_time": 1691683594,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 344245,
-      "num": 344245,
-      "word": "为解绑支付宝民警帮办45张证明",
-      "onboard_time": 1691691798,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339536,
@@ -347,14 +363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177679,
-      "num": 109143,
-      "word": "碧桂园上半年预亏450至550亿",
-      "onboard_time": 1691704935,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 173700,
       "num": 166435,
       "word": "性感潘生",
@@ -435,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116837,
+      "num": 116837,
+      "word": "焦虑的时候请反复阅读",
+      "onboard_time": 1691688560,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116108,
       "num": 186149,
       "word": "我不是药神白血病少年饰演者成了捐髓者",
@@ -443,12 +459,12 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 108700,
-      "num": 88276,
-      "word": "焦虑的时候请反复阅读",
-      "onboard_time": 1691688560,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 113239,
+      "num": 113239,
+      "word": "Jennie机场",
+      "onboard_time": 1691708785,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 91969,
@@ -475,6 +491,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 69130,
+      "num": 69130,
+      "word": "第一次见六个人平番的剧",
+      "onboard_time": 1691673995,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 60631,
       "num": 718565,
       "word": "紧急下达15.05亿元水利救灾资金",
@@ -483,20 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51712,
-      "num": 51712,
-      "word": "第一次见六个人平番的剧",
-      "onboard_time": 1691673995,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 35236,
-      "num": 38149,
+      "raw_hot": 57173,
+      "num": 57173,
       "word": "苏晓彤暴走萝莉",
       "onboard_time": 1691700974,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 44494,
+      "num": 539323,
+      "word": "亚运福利100多个景区公园免门票",
+      "onboard_time": 1691673273,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 32236,
@@ -537,14 +561,6 @@
       "onboard_time": 1691693595,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 21016,
-      "num": 310973,
-      "word": "亚运福利100多个景区公园免门票",
-      "onboard_time": 1691673273,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 17505,
