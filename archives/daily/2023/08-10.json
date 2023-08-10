@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691634990733,
+  "endTime": 1691635486054,
   "band_list": [
     {
       "raw_hot": 3138717,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1017406,
+      "num": 1017406,
+      "word": "女孩因上学爱转笔设计出可以转的杯子",
+      "onboard_time": 1691632172,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1003837,
       "num": 1003837,
       "word": "吴京曾提到有演员因角色小而放弃封神",
@@ -115,19 +123,27 @@
       "category": "情感"
     },
     {
-      "raw_hot": 867025,
-      "num": 867025,
-      "word": "女孩因上学爱转笔设计出可以转的杯子",
-      "onboard_time": 1691632172,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 821243,
       "num": 821243,
       "word": "王者荣耀瑶",
       "onboard_time": 1691629536,
       "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 780052,
+      "num": 780052,
+      "word": "唐嫣念无双妆造没有换",
+      "onboard_time": 1691634634,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 755632,
+      "num": 755632,
+      "word": "EDG向TheShy道歉",
+      "onboard_time": 1691633673,
+      "rank": 5,
       "category": "游戏"
     },
     {
@@ -147,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 742413,
-      "num": 742413,
-      "word": "EDG向TheShy道歉",
-      "onboard_time": 1691633673,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 734605,
       "num": 734605,
       "word": "李相夷剑断人亡",
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 709407,
+      "num": 709407,
+      "word": "杭州新东方全面停课",
+      "onboard_time": 1691634033,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700594,
       "num": 381263,
       "word": "为什么川菜重油却很少有胖子",
@@ -184,6 +200,14 @@
       "word": "刚出月子的爱宝胖出双下巴",
       "onboard_time": 1691628756,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646650,
+      "num": 381159,
+      "word": "小伙住宾馆发现抽屉里有10万纸币",
+      "onboard_time": 1691633913,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -211,11 +235,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 583080,
-      "num": 381159,
-      "word": "小伙住宾馆发现抽屉里有10万纸币",
-      "onboard_time": 1691633913,
-      "rank": 21,
+      "raw_hot": 573220,
+      "num": 573220,
+      "word": "台风卡努",
+      "onboard_time": 1691631335,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -241,14 +265,6 @@
       "onboard_time": 1691596473,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 567236,
-      "num": 567236,
-      "word": "台风卡努",
-      "onboard_time": 1691631335,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 540245,
@@ -315,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467643,
+      "num": 467643,
+      "word": "福岛核电站高辐射沙袋靠近一小时可致命",
+      "onboard_time": 1691633553,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455191,
       "num": 455191,
       "word": "杨紫也是长相思书粉吧",
       "onboard_time": 1691626715,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 455022,
-      "num": 455022,
-      "word": "杭州新东方全面停课",
-      "onboard_time": 1691634033,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451135,
@@ -387,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404639,
+      "num": 404639,
+      "word": "莲花楼团员跳团建舞蹈还差成毅",
+      "onboard_time": 1691633312,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403857,
       "num": 403857,
       "word": "雅典娜",
@@ -403,28 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 387441,
-      "num": 387441,
-      "word": "唐嫣念无双妆造没有换",
-      "onboard_time": 1691634634,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 385716,
       "num": 385716,
       "word": "国漫哈基米",
       "onboard_time": 1691631272,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 377068,
-      "num": 377068,
-      "word": "莲花楼团员跳团建舞蹈还差成毅",
-      "onboard_time": 1691633312,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 372759,
@@ -443,12 +451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 356397,
-      "num": 434316,
-      "word": "福岛核电站高辐射沙袋靠近一小时可致命",
-      "onboard_time": 1691633553,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 362857,
+      "num": 362857,
+      "word": "张晚意柳舟记出妆",
+      "onboard_time": 1691634156,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 349468,
@@ -472,6 +480,14 @@
       "word": "曾舜晞跳queencard",
       "onboard_time": 1691592820,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 329005,
+      "num": 329005,
+      "word": "看金晨被扎手戏幻痛了",
+      "onboard_time": 1691634813,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -521,14 +537,6 @@
       "onboard_time": 1691627195,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 316494,
-      "num": 316494,
-      "word": "张晚意柳舟记出妆",
-      "onboard_time": 1691634156,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 304303,
@@ -787,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207411,
+      "num": 207411,
+      "word": "站桩 找结构",
+      "onboard_time": 1691634694,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206687,
       "num": 206687,
       "word": "中戏教授说王一博进步非常大",
@@ -795,27 +811,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202630,
-      "num": 202630,
-      "word": "站桩 找结构",
-      "onboard_time": 1691634694,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 201618,
       "num": 201618,
       "word": "相柳和小夭告别",
       "onboard_time": 1691599167,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 197996,
-      "num": 197996,
-      "word": "看金晨被扎手戏幻痛了",
-      "onboard_time": 1691634813,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -873,6 +873,14 @@
       "onboard_time": 1691624308,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183726,
+      "num": 183726,
+      "word": "SM称不知道伯贤成立个人公司",
+      "onboard_time": 1691635296,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 179973,

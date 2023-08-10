@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691634990733,
+  "endTime": 1691635486054,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -3923,6 +3923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1017406,
+      "num": 1017406,
+      "word": "女孩因上学爱转笔设计出可以转的杯子",
+      "onboard_time": 1691632172,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1016995,
       "num": 2228722,
       "word": "大运女篮中国队胜日本队夺冠",
@@ -5011,14 +5019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 867025,
-      "num": 867025,
-      "word": "女孩因上学爱转笔设计出可以转的杯子",
-      "onboard_time": 1691632172,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 863419,
       "num": 863419,
       "word": "当狐狸得知小六是王姬时的反应",
@@ -5731,6 +5731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780052,
+      "num": 780052,
+      "word": "唐嫣念无双妆造没有换",
+      "onboard_time": 1691634634,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 778789,
       "num": 270820,
       "word": "魏大勋扫楼",
@@ -6011,6 +6019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755632,
+      "num": 755632,
+      "word": "EDG向TheShy道歉",
+      "onboard_time": 1691633673,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 755037,
       "num": 755037,
       "word": "黄灿灿演的防风意映",
@@ -6185,14 +6201,6 @@
       "onboard_time": 1691626233,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742413,
-      "num": 742413,
-      "word": "EDG向TheShy道歉",
-      "onboard_time": 1691633673,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 740858,
@@ -6672,6 +6680,14 @@
       "word": "官方回应佳木斯建方舱医院",
       "onboard_time": 1690956274,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709407,
+      "num": 709407,
+      "word": "杭州新东方全面停课",
+      "onboard_time": 1691634033,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -7321,6 +7337,14 @@
       "onboard_time": 1691104343,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 646650,
+      "num": 381159,
+      "word": "小伙住宾馆发现抽屉里有10万纸币",
+      "onboard_time": 1691633913,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 646309,
@@ -8427,14 +8451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 583080,
-      "num": 381159,
-      "word": "小伙住宾馆发现抽屉里有10万纸币",
-      "onboard_time": 1691633913,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 583038,
       "num": 583038,
       "word": "没认出这是张艺凡",
@@ -8561,6 +8577,14 @@
       "onboard_time": 1691063854,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 573220,
+      "num": 573220,
+      "word": "台风卡努",
+      "onboard_time": 1690931783,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 573025,
@@ -8721,14 +8745,6 @@
       "onboard_time": 1690979556,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 567236,
-      "num": 567236,
-      "word": "台风卡努",
-      "onboard_time": 1690931783,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 566700,
@@ -10707,6 +10723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467643,
+      "num": 467643,
+      "word": "福岛核电站高辐射沙袋靠近一小时可致命",
+      "onboard_time": 1691633553,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466602,
       "num": 425113,
       "word": "为什么越来越多年轻人选择单身",
@@ -10953,14 +10977,6 @@
       "onboard_time": 1691626715,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 455022,
-      "num": 455022,
-      "word": "杭州新东方全面停课",
-      "onboard_time": 1691634033,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 454699,
@@ -12171,6 +12187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404639,
+      "num": 404639,
+      "word": "莲花楼团员跳团建舞蹈还差成毅",
+      "onboard_time": 1691633312,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404269,
       "num": 1606629,
       "word": "小朋友在医院角落一口气跳舞2小时",
@@ -12715,14 +12739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387441,
-      "num": 387441,
-      "word": "唐嫣念无双妆造没有换",
-      "onboard_time": 1691634634,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 387354,
       "num": 295915,
       "word": "鞠婧祎压轴出场",
@@ -13001,14 +13017,6 @@
       "onboard_time": 1691065416,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377068,
-      "num": 377068,
-      "word": "莲花楼团员跳团建舞蹈还差成毅",
-      "onboard_time": 1691633312,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 377053,
@@ -13371,6 +13379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362857,
+      "num": 362857,
+      "word": "张晚意柳舟记出妆",
+      "onboard_time": 1691634156,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362770,
       "num": 362770,
       "word": "90后小伙在涿州支起免费面摊",
@@ -13529,14 +13545,6 @@
       "onboard_time": 1691417079,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 356397,
-      "num": 434316,
-      "word": "福岛核电站高辐射沙袋靠近一小时可致命",
-      "onboard_time": 1691633553,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356266,
@@ -14307,6 +14315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329005,
+      "num": 329005,
+      "word": "看金晨被扎手戏幻痛了",
+      "onboard_time": 1691634813,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328184,
       "num": 328184,
       "word": "鞠婧祎恋爱告急最新直拍",
@@ -14753,14 +14769,6 @@
       "onboard_time": 1691627195,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 316494,
-      "num": 316494,
-      "word": "张晚意柳舟记出妆",
-      "onboard_time": 1691634156,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 316410,
@@ -19675,6 +19683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207411,
+      "num": 207411,
+      "word": "站桩 找结构",
+      "onboard_time": 1691634694,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207358,
       "num": 207358,
       "word": "一眼惊艳的中式志怪美学",
@@ -20041,14 +20057,6 @@
       "onboard_time": 1691154999,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202630,
-      "num": 202630,
-      "word": "站桩 找结构",
-      "onboard_time": 1691634694,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 202588,
@@ -20425,14 +20433,6 @@
       "onboard_time": 1691241707,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 197996,
-      "num": 197996,
-      "word": "看金晨被扎手戏幻痛了",
-      "onboard_time": 1691634813,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 197984,
@@ -21497,6 +21497,14 @@
       "onboard_time": 1691549495,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183726,
+      "num": 183726,
+      "word": "SM称不知道伯贤成立个人公司",
+      "onboard_time": 1691635296,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 183599,

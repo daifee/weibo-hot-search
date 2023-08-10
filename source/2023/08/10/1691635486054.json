@@ -1,0 +1,410 @@
+{
+  "runTime": 1691635486054,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2761884,
+        "num": 2761884,
+        "word": "湘雅三医院9名医务人员联名举报科主任",
+        "onboard_time": 1691627496,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1217401,
+        "num": 1217401,
+        "word": "李雪琴汪苏泷去了王鹤棣家炸串店",
+        "onboard_time": 1691631511,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8868,
+        "num": 1113306,
+        "word": "立秋大运会闭幕秋分亚运会开幕",
+        "onboard_time": 1691555445,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1017406,
+        "num": 1017406,
+        "word": "女孩因上学爱转笔设计出可以转的杯子",
+        "onboard_time": 1691632172,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963238,
+        "num": 963238,
+        "word": "长相思今晚是梅林殉情",
+        "onboard_time": 1691633253,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 780052,
+        "num": 780052,
+        "word": "唐嫣念无双妆造没有换",
+        "onboard_time": 1691634634,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 755632,
+        "num": 755632,
+        "word": "EDG向TheShy道歉",
+        "onboard_time": 1691633673,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 709407,
+        "num": 709407,
+        "word": "杭州新东方全面停课",
+        "onboard_time": 1691634033,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616701,
+        "num": 616701,
+        "word": "王者荣耀瑶",
+        "onboard_time": 1691629536,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 573220,
+        "num": 573220,
+        "word": "台风卡努",
+        "onboard_time": 1691631335,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866573,
+        "num": 568657,
+        "word": "王俊凯网吧直播",
+        "onboard_time": 1691629775,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 830827,
+        "num": 565420,
+        "word": "中国跌出泰国最大客源地",
+        "onboard_time": 1691624668,
+        "rank": 11,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 578597,
+        "num": 564210,
+        "word": "Lisa穿泳装",
+        "onboard_time": 1691625632,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561489,
+        "num": 561489,
+        "word": "吴京曾提到有演员因角色小而放弃封神",
+        "onboard_time": 1691624668,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467643,
+        "num": 467643,
+        "word": "福岛核电站高辐射沙袋靠近一小时可致命",
+        "onboard_time": 1691633553,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464831,
+        "num": 464831,
+        "word": "厄瓜多尔总统候选人被枪杀",
+        "onboard_time": 1691631695,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 404639,
+        "num": 404639,
+        "word": "莲花楼团员跳团建舞蹈还差成毅",
+        "onboard_time": 1691633312,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380777,
+        "num": 380777,
+        "word": "国漫哈基米",
+        "onboard_time": 1691631272,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 375048,
+        "num": 375048,
+        "word": "邓为直播自己抓造型调光",
+        "onboard_time": 1691630015,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362857,
+        "num": 362857,
+        "word": "张晚意柳舟记出妆",
+        "onboard_time": 1691634156,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 647552,
+        "num": 362539,
+        "word": "为什么川菜重油却很少有胖子",
+        "onboard_time": 1691633073,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 646650,
+        "num": 359490,
+        "word": "小伙住宾馆发现抽屉里有10万纸币",
+        "onboard_time": 1691633913,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353737,
+        "num": 353737,
+        "word": "原来高铁有这么多冷知识",
+        "onboard_time": 1691625151,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331375,
+        "num": 331375,
+        "word": "刚出月子的爱宝胖出双下巴",
+        "onboard_time": 1691628756,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329091,
+        "num": 329091,
+        "word": "优酷 泼天的富贵",
+        "onboard_time": 1691590057,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329005,
+        "num": 329005,
+        "word": "看金晨被扎手戏幻痛了",
+        "onboard_time": 1691634813,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316919,
+        "num": 316919,
+        "word": "官方通报讲座称性骚扰是因女生风骚",
+        "onboard_time": 1691626233,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304086,
+        "num": 304086,
+        "word": "女子给婴儿哺乳被阻空乘称起飞时不可进食",
+        "onboard_time": 1691626233,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255031,
+        "num": 255031,
+        "word": "EDG全球冠军赛首胜",
+        "onboard_time": 1691630194,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242473,
+        "num": 242473,
+        "word": "近视的人别吃太多甜食",
+        "onboard_time": 1691626594,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236007,
+        "num": 236007,
+        "word": "院方回应9名医务人员联名举报科主任",
+        "onboard_time": 1691630194,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234541,
+        "num": 234541,
+        "word": "jiejie",
+        "onboard_time": 1691598510,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215779,
+        "num": 215779,
+        "word": "县城整治医药腐败403人主动退赃",
+        "onboard_time": 1691627076,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209252,
+        "num": 209252,
+        "word": "Lisa入驻2023亚洲名人堂",
+        "onboard_time": 1691625695,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 207411,
+        "num": 207411,
+        "word": "站桩 找结构",
+        "onboard_time": 1691634694,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203881,
+        "num": 203881,
+        "word": "七时吉祥",
+        "onboard_time": 1691629656,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185549,
+        "num": 185549,
+        "word": "蒲熠星写了一本书",
+        "onboard_time": 1691627616,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184522,
+        "num": 184522,
+        "word": "为什么有些人朋友圈发假定位",
+        "onboard_time": 1691627195,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183726,
+        "num": 183726,
+        "word": "SM称不知道伯贤成立个人公司",
+        "onboard_time": 1691635296,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120524,
+        "num": 180319,
+        "word": "今起卡努将给东北带来强降雨",
+        "onboard_time": 1691628996,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180147,
+        "num": 180147,
+        "word": "言承旭说不希望我的小孩不被需要",
+        "onboard_time": 1691629117,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179360,
+        "num": 179360,
+        "word": "孤注一掷",
+        "onboard_time": 1691632052,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176123,
+        "num": 176123,
+        "word": "原来臣妾先去更衣是这个意思",
+        "onboard_time": 1691626294,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172457,
+        "num": 172457,
+        "word": "莲花楼原著结局",
+        "onboard_time": 1691626536,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169979,
+        "num": 169979,
+        "word": "工资不高又要经常熬夜的工作",
+        "onboard_time": 1691590658,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168559,
+        "num": 168559,
+        "word": "雅典娜",
+        "onboard_time": 1691624007,
+        "rank": 45,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 149612,
+        "num": 149612,
+        "word": "黄渤说每个家长都想有一个封神榜",
+        "onboard_time": 1691632411,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147840,
+        "num": 147840,
+        "word": "肖顺尧拒绝教王鹤润跳舞",
+        "onboard_time": 1691624368,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147375,
+        "num": 147375,
+        "word": "费翔回应商务殷语",
+        "onboard_time": 1691627736,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144433,
+        "num": 144433,
+        "word": "莲花楼破万",
+        "onboard_time": 1691584955,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#不打扰就是最好的保护#"
+    }
+  }
+}
