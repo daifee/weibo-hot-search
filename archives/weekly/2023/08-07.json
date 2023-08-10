@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691705707532,
+  "endTime": 1691706822800,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -6083,6 +6083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344245,
+      "num": 344245,
+      "word": "为解绑支付宝民警帮办45张证明",
+      "onboard_time": 1691691798,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344168,
       "num": 325282,
       "word": "于适向费翔告状",
@@ -7609,14 +7617,6 @@
       "onboard_time": 1691508635,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251545,
-      "num": 251545,
-      "word": "为解绑支付宝民警帮办45张证明",
-      "onboard_time": 1691691798,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251143,
@@ -9651,6 +9651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177679,
+      "num": 109143,
+      "word": "碧桂园上半年预亏450至550亿",
+      "onboard_time": 1691704935,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177660,
       "num": 820920,
       "word": "地震时值班铁路人喊拦停列车",
@@ -10923,14 +10931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45296,
-      "num": 45296,
-      "word": "碧桂园上半年预亏450至550亿",
-      "onboard_time": 1691704935,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 45055,
       "num": 187307,
       "word": "NASA局长称不希望中国率先载人登陆月球南极",
@@ -10995,6 +10995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35236,
+      "num": 38149,
+      "word": "苏晓彤暴走萝莉",
+      "onboard_time": 1691700974,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 34686,
       "num": 899578,
       "word": "今天是第15个全民健身日",
@@ -11043,12 +11051,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 27805,
-      "num": 32523,
-      "word": "苏晓彤暴走萝莉",
-      "onboard_time": 1691700974,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 28147,
+      "num": 38085,
+      "word": "地质博物馆的石头美得很夸张",
+      "onboard_time": 1691699113,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 27359,
@@ -11057,14 +11065,6 @@
       "onboard_time": 1691429062,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 25551,
-      "num": 32456,
-      "word": "地质博物馆的石头美得很夸张",
-      "onboard_time": 1691699113,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 25148,
@@ -11099,20 +11099,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21016,
+      "num": 310973,
+      "word": "亚运福利100多个景区公园免门票",
+      "onboard_time": 1691673273,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19652,
       "num": 26741,
       "word": "卡芙卡上线",
       "onboard_time": 1691615594,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19507,
-      "num": 310973,
-      "word": "亚运福利100多个景区公园免门票",
-      "onboard_time": 1691673273,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 18031,

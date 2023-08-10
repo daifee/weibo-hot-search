@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691705707532,
+  "endTime": 1691706822800,
   "band_list": [
     {
       "raw_hot": 1731425,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344245,
+      "num": 344245,
+      "word": "为解绑支付宝民警帮办45张证明",
+      "onboard_time": 1691691798,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339536,
       "num": 278609,
       "word": "赵丽颖的文案是尊嘟假嘟吧",
@@ -239,14 +247,6 @@
       "num": 551640,
       "word": "理记 这波医疗反腐漏网的几乎不可能",
       "onboard_time": 1691679762,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251545,
-      "num": 251545,
-      "word": "为解绑支付宝民警帮办45张证明",
-      "onboard_time": 1691691798,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -345,6 +345,14 @@
       "onboard_time": 1691674174,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177679,
+      "num": 109143,
+      "word": "碧桂园上半年预亏450至550亿",
+      "onboard_time": 1691704935,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 173700,
@@ -483,12 +491,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 45296,
-      "num": 45296,
-      "word": "碧桂园上半年预亏450至550亿",
-      "onboard_time": 1691704935,
-      "rank": 27,
-      "category": "财经"
+      "raw_hot": 35236,
+      "num": 38149,
+      "word": "苏晓彤暴走萝莉",
+      "onboard_time": 1691700974,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 32236,
@@ -507,16 +515,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 27805,
-      "num": 32523,
-      "word": "苏晓彤暴走萝莉",
-      "onboard_time": 1691700974,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 25551,
-      "num": 32456,
+      "raw_hot": 28147,
+      "num": 38085,
       "word": "地质博物馆的石头美得很夸张",
       "onboard_time": 1691699113,
       "rank": 49,
@@ -539,7 +539,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 19507,
+      "raw_hot": 21016,
       "num": 310973,
       "word": "亚运福利100多个景区公园免门票",
       "onboard_time": 1691673273,
