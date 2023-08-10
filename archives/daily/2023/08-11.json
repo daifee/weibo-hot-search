@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691709359582,
+  "endTime": 1691710426131,
   "band_list": [
     {
       "raw_hot": 1731425,
@@ -19,6 +19,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1167596,
+      "num": 269345,
+      "word": "14岁华裔炫富网红LilTay离世",
+      "onboard_time": 1691708722,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1016648,
       "num": 717018,
       "word": "吴倩离婚后真是人间清醒",
@@ -35,20 +43,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 887005,
+      "num": 887005,
+      "word": "为解绑支付宝民警帮办45张证明",
+      "onboard_time": 1691691798,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865665,
       "num": 865665,
       "word": "在新疆连玩10天有多爽",
       "onboard_time": 1691675679,
       "rank": 0,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 829818,
-      "num": 829818,
-      "word": "为解绑支付宝民警帮办45张证明",
-      "onboard_time": 1691691798,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 726495,
@@ -91,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524656,
+      "num": 524656,
+      "word": "碧桂园上半年预亏450至550亿",
+      "onboard_time": 1691704935,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 519794,
       "num": 519794,
       "word": "第一次见男女主历劫畜牲道",
       "onboard_time": 1691678383,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 507525,
-      "num": 507525,
-      "word": "碧桂园上半年预亏450至550亿",
-      "onboard_time": 1691704935,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 493959,
@@ -177,14 +185,6 @@
       "onboard_time": 1691681617,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 360014,
-      "num": 115368,
-      "word": "14岁华裔炫富网红LilTay离世",
-      "onboard_time": 1691708722,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352851,
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213168,
+      "num": 213168,
+      "word": "黄晓明喊话蒋欣真的不能再哭了",
+      "onboard_time": 1691674174,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210496,
       "num": 190685,
       "word": "孤注一掷票房破10亿",
@@ -347,20 +355,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197179,
+      "num": 153935,
+      "word": "Jennie机场",
+      "onboard_time": 1691708785,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194513,
       "num": 194513,
       "word": "高三的我记录每一支笔的死因",
       "onboard_time": 1691677119,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189190,
-      "num": 189190,
-      "word": "黄晓明喊话蒋欣真的不能再哭了",
-      "onboard_time": 1691674174,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 173700,
@@ -395,6 +403,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 142885,
+      "num": 142885,
+      "word": "五月天西安",
+      "onboard_time": 1691710285,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 141448,
       "num": 187743,
       "word": "Faker含金量",
@@ -427,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122916,
+      "num": 122916,
+      "word": "焦虑的时候请反复阅读",
+      "onboard_time": 1691688560,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121640,
       "num": 121640,
       "word": "网友好像他们仨play的一环",
@@ -443,14 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116837,
-      "num": 116837,
-      "word": "焦虑的时候请反复阅读",
-      "onboard_time": 1691688560,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116108,
       "num": 186149,
       "word": "我不是药神白血病少年饰演者成了捐髓者",
@@ -459,12 +475,12 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 113239,
-      "num": 113239,
-      "word": "Jennie机场",
-      "onboard_time": 1691708785,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 115012,
+      "num": 115012,
+      "word": "西安春浪音乐节取消",
+      "onboard_time": 1691710285,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 91969,
@@ -491,12 +507,36 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 69130,
-      "num": 69130,
+      "raw_hot": 88435,
+      "num": 88435,
       "word": "第一次见六个人平番的剧",
       "onboard_time": 1691673995,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 84183,
+      "num": 75995,
+      "word": "长相思",
+      "onboard_time": 1691663193,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 79738,
+      "num": 79738,
+      "word": "封神剧组质子狂练哪吒狂吃",
+      "onboard_time": 1691710165,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 77015,
+      "num": 77015,
+      "word": "伪装成导游实际在找练习生",
+      "onboard_time": 1691709867,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 60631,
@@ -507,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57975,
+      "num": 614874,
+      "word": "亚运福利100多个景区公园免门票",
+      "onboard_time": 1691673273,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57173,
       "num": 57173,
       "word": "苏晓彤暴走萝莉",
@@ -515,12 +563,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 44494,
-      "num": 539323,
-      "word": "亚运福利100多个景区公园免门票",
-      "onboard_time": 1691673273,
-      "rank": 2,
-      "category": "体育"
+      "raw_hot": 44138,
+      "num": 252082,
+      "word": "不愿看你们在洪水里手牵手",
+      "onboard_time": 1691710046,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32236,
@@ -545,14 +593,6 @@
       "onboard_time": 1691699113,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 25063,
-      "num": 24885,
-      "word": "长相思",
-      "onboard_time": 1691663193,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 24384,

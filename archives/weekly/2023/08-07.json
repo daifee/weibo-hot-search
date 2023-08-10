@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691709359582,
+  "endTime": 1691710426131,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -1427,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1167596,
+      "num": 269345,
+      "word": "14岁华裔炫富网红LilTay离世",
+      "onboard_time": 1691708722,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1165425,
       "num": 474566,
       "word": "只有王源在吹蜡烛",
@@ -2131,6 +2139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 887005,
+      "num": 887005,
+      "word": "为解绑支付宝民警帮办45张证明",
+      "onboard_time": 1691691798,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 882048,
       "num": 882048,
       "word": "EDG向TheShy道歉",
@@ -2337,14 +2353,6 @@
       "onboard_time": 1691495134,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 829818,
-      "num": 829818,
-      "word": "为解绑支付宝民警帮办45张证明",
-      "onboard_time": 1691691798,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 825649,
@@ -4187,6 +4195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524656,
+      "num": 524656,
+      "word": "碧桂园上半年预亏450至550亿",
+      "onboard_time": 1691704935,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 524359,
       "num": 409626,
       "word": "为什么年轻人越来越不想回家了",
@@ -4345,14 +4361,6 @@
       "onboard_time": 1691650174,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 507525,
-      "num": 507525,
-      "word": "碧桂园上半年预亏450至550亿",
-      "onboard_time": 1691704935,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 504999,
@@ -5913,14 +5921,6 @@
       "onboard_time": 1691389179,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 360014,
-      "num": 115368,
-      "word": "14岁华裔炫富网红LilTay离世",
-      "onboard_time": 1691708722,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 359096,
@@ -9123,6 +9123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197179,
+      "num": 153935,
+      "word": "Jennie机场",
+      "onboard_time": 1691708785,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197033,
       "num": 197033,
       "word": "长相思粉丝极限四选一",
@@ -10139,6 +10147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142885,
+      "num": 142885,
+      "word": "五月天西安",
+      "onboard_time": 1691710285,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142720,
       "num": 142720,
       "word": "美食核心技术外泄了",
@@ -10387,6 +10403,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 122916,
+      "num": 122916,
+      "word": "焦虑的时候请反复阅读",
+      "onboard_time": 1691688560,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121186,
       "num": 944381,
       "word": "防汛最新信息汇总",
@@ -10435,20 +10459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116837,
-      "num": 116837,
-      "word": "焦虑的时候请反复阅读",
-      "onboard_time": 1691688560,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116122,
       "num": 635901,
       "word": "紧握的手是子弟兵给的安全感",
       "onboard_time": 1691539114,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115012,
+      "num": 115012,
+      "word": "西安春浪音乐节取消",
+      "onboard_time": 1691710285,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 113895,
@@ -10465,14 +10489,6 @@
       "onboard_time": 1691659115,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113239,
-      "num": 113239,
-      "word": "Jennie机场",
-      "onboard_time": 1691708785,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 112576,
@@ -10675,6 +10691,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79738,
+      "num": 79738,
+      "word": "封神剧组质子狂练哪吒狂吃",
+      "onboard_time": 1691710165,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 77015,
+      "num": 77015,
+      "word": "伪装成导游实际在找练习生",
+      "onboard_time": 1691709867,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76012,
       "num": 2445244,
       "word": "我在国门一线",
@@ -10835,6 +10867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57975,
+      "num": 614874,
+      "word": "亚运福利100多个景区公园免门票",
+      "onboard_time": 1691673273,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57903,
       "num": 1527568,
       "word": "痛别暴雨洪灾中牺牲的英雄",
@@ -10971,12 +11011,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44494,
-      "num": 539323,
-      "word": "亚运福利100多个景区公园免门票",
-      "onboard_time": 1691673273,
-      "rank": 2,
-      "category": "体育"
+      "raw_hot": 44138,
+      "num": 252082,
+      "word": "不愿看你们在洪水里手牵手",
+      "onboard_time": 1691710046,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43670,
