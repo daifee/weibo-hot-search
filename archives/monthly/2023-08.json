@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691644562644,
+  "endTime": 1691645631720,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1483,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1779690,
+      "num": 940504,
+      "word": "王源炸毛了",
+      "onboard_time": 1691643456,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1771484,
       "num": 1771484,
       "word": "iPhone14被用户吐槽电池老化",
@@ -1529,6 +1537,14 @@
       "onboard_time": 1690867116,
       "rank": 10,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1744753,
+      "num": 1744753,
+      "word": "网红称要让补课行为在浙江断根",
+      "onboard_time": 1691641176,
+      "rank": 39,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1733834,
@@ -2155,14 +2171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1467929,
-      "num": 940504,
-      "word": "王源炸毛了",
-      "onboard_time": 1691643456,
-      "rank": 10,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 1466366,
       "num": 1466366,
       "word": "济南将迎大雨到暴雨",
@@ -2425,14 +2433,6 @@
       "onboard_time": 1691076939,
       "rank": 11,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1385786,
-      "num": 1385786,
-      "word": "网红称要让补课行为在浙江断根",
-      "onboard_time": 1691641176,
-      "rank": 39,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1381954,
@@ -3107,6 +3107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1194160,
+      "num": 1194160,
+      "word": "小夭血染梅林",
+      "onboard_time": 1691642918,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1189102,
       "num": 1189102,
       "word": "WBG战胜TES",
@@ -3249,6 +3257,14 @@
       "onboard_time": 1691286460,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1153737,
+      "num": 1153737,
+      "word": "陈都灵没跳又好像跳了",
+      "onboard_time": 1691643037,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1147938,
@@ -3497,14 +3513,6 @@
       "onboard_time": 1691491536,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1099236,
-      "num": 1099236,
-      "word": "陈都灵没跳又好像跳了",
-      "onboard_time": 1691643037,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1096909,
@@ -4249,14 +4257,6 @@
       "onboard_time": 1691419724,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 979868,
-      "num": 979868,
-      "word": "小夭血染梅林",
-      "onboard_time": 1691642918,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 979851,
@@ -7115,6 +7115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 677590,
+      "num": 677590,
+      "word": "檀健次说选角期少不了流言蜚语",
+      "onboard_time": 1691640695,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 676515,
       "num": 395696,
       "word": "男子合买彩票中790多万开奖没他",
@@ -7193,14 +7201,6 @@
       "onboard_time": 1691018544,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 670079,
-      "num": 670079,
-      "word": "檀健次说选角期少不了流言蜚语",
-      "onboard_time": 1691640695,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 669316,
@@ -8097,6 +8097,14 @@
       "onboard_time": 1691500840,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604300,
+      "num": 604300,
+      "word": "没有J人能走出P人的房间",
+      "onboard_time": 1691642378,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 604261,
@@ -11187,14 +11195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 452926,
-      "num": 452926,
-      "word": "没有J人能走出P人的房间",
-      "onboard_time": 1691642378,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 452872,
       "num": 1471551,
       "word": "小猫头卡老鼠洞消防员憋笑救援",
@@ -13867,6 +13867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 353032,
+      "num": 353032,
+      "word": "孟婕",
+      "onboard_time": 1691644773,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352889,
       "num": 352889,
       "word": "薛之谦在线帮歌迷牵线",
@@ -13987,6 +13995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349184,
+      "num": 349184,
+      "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
+      "onboard_time": 1691644474,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349052,
       "num": 349052,
       "word": "五月天广州 诺亚方舟",
@@ -14049,6 +14065,14 @@
       "onboard_time": 1690903416,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346793,
+      "num": 346793,
+      "word": "zzr和陈都灵好好嗑",
+      "onboard_time": 1691645254,
+      "rank": 24,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 346680,
@@ -16681,6 +16705,14 @@
       "onboard_time": 1691568519,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273039,
+      "num": 273039,
+      "word": "18岁男孩52万卖掉上百万房子买摩托车",
+      "onboard_time": 1691645313,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 272992,
@@ -21411,6 +21443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 190805,
+      "num": 190805,
+      "word": "导演让杨紫邓为深吻",
+      "onboard_time": 1691645494,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190793,
       "num": 190793,
       "word": "杨丞琳晒4inlove合照",
@@ -22107,14 +22147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177187,
-      "num": 177187,
-      "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
-      "onboard_time": 1691644474,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177065,
       "num": 201657,
       "word": "中国男篮小组赛三战全败",
@@ -22129,6 +22161,14 @@
       "onboard_time": 1691636073,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176868,
+      "num": 176868,
+      "word": "赵丽颖不会成为虎妈",
+      "onboard_time": 1691645494,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 176486,
@@ -24299,6 +24339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65857,
+      "num": 575995,
+      "word": "雷军是社恐型e人",
+      "onboard_time": 1691643637,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64857,
       "num": 395644,
       "word": "了不起的中国茶",
@@ -24695,14 +24743,6 @@
       "num": 634436,
       "word": "民警蹬15公里三轮帮受伤大爷送车",
       "onboard_time": 1691579314,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31310,
-      "num": 575995,
-      "word": "雷军是社恐型e人",
-      "onboard_time": 1691643637,
       "rank": 14,
       "category": "社会新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691644562644,
+  "endTime": 1691645631720,
   "band_list": [
     {
       "raw_hot": 3138717,
@@ -51,6 +51,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1779690,
+      "num": 940504,
+      "word": "王源炸毛了",
+      "onboard_time": 1691643456,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1744753,
+      "num": 1744753,
+      "word": "网红称要让补课行为在浙江断根",
+      "onboard_time": 1691641176,
+      "rank": 39,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1654246,
       "num": 1654246,
       "word": "女孩因上学爱转笔设计出可以转的杯子",
@@ -65,22 +81,6 @@
       "onboard_time": 1691641597,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1467929,
-      "num": 940504,
-      "word": "王源炸毛了",
-      "onboard_time": 1691643456,
-      "rank": 10,
-      "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1385786,
-      "num": 1385786,
-      "word": "网红称要让补课行为在浙江断根",
-      "onboard_time": 1691641176,
-      "rank": 39,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1334132,
@@ -115,20 +115,28 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 1194160,
+      "num": 1194160,
+      "word": "小夭血染梅林",
+      "onboard_time": 1691642918,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1153737,
+      "num": 1153737,
+      "word": "陈都灵没跳又好像跳了",
+      "onboard_time": 1691643037,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1105656,
       "num": 1105656,
       "word": "原来高铁有这么多冷知识",
       "onboard_time": 1691625151,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1099236,
-      "num": 1099236,
-      "word": "陈都灵没跳又好像跳了",
-      "onboard_time": 1691643037,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1043942,
@@ -168,14 +176,6 @@
       "word": "张艺兴电影吃马桶纸是真吃",
       "onboard_time": 1691641836,
       "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 979868,
-      "num": 979868,
-      "word": "小夭血染梅林",
-      "onboard_time": 1691642918,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -283,8 +283,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 670079,
-      "num": 670079,
+      "raw_hot": 677590,
+      "num": 677590,
       "word": "檀健次说选角期少不了流言蜚语",
       "onboard_time": 1691640695,
       "rank": 28,
@@ -336,6 +336,14 @@
       "word": "近视的人别吃太多甜食",
       "onboard_time": 1691626594,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 604300,
+      "num": 604300,
+      "word": "没有J人能走出P人的房间",
+      "onboard_time": 1691642378,
+      "rank": 18,
       "category": "情感"
     },
     {
@@ -491,14 +499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 452926,
-      "num": 452926,
-      "word": "没有J人能走出P人的房间",
-      "onboard_time": 1691642378,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 451135,
       "num": 495705,
       "word": "医疗反腐",
@@ -643,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353032,
+      "num": 353032,
+      "word": "孟婕",
+      "onboard_time": 1691644773,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349468,
       "num": 349468,
       "word": "费翔回应商务殷语",
@@ -651,12 +659,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349184,
+      "num": 349184,
+      "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
+      "onboard_time": 1691644474,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348055,
       "num": 255544,
       "word": "裸考考上了意大利的公务员",
       "onboard_time": 1691578115,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 346793,
+      "num": 346793,
+      "word": "zzr和陈都灵好好嗑",
+      "onboard_time": 1691645254,
+      "rank": 24,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 331876,
@@ -849,6 +873,14 @@
       "onboard_time": 1691567376,
       "rank": 9,
       "category": "体育,财经"
+    },
+    {
+      "raw_hot": 273039,
+      "num": 273039,
+      "word": "18岁男孩52万卖掉上百万房子买摩托车",
+      "onboard_time": 1691645313,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 272634,
@@ -1187,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190805,
+      "num": 190805,
+      "word": "导演让杨紫邓为深吻",
+      "onboard_time": 1691645494,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189839,
       "num": 189839,
       "word": "恢复旅行社出境团队旅游业务",
@@ -1235,20 +1275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177187,
-      "num": 177187,
-      "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
-      "onboard_time": 1691644474,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176983,
       "num": 176983,
       "word": "龙皓晨登上神印王座",
       "onboard_time": 1691636073,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176868,
+      "num": 176868,
+      "word": "赵丽颖不会成为虎妈",
+      "onboard_time": 1691645494,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 176486,
@@ -1395,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 65857,
+      "num": 575995,
+      "word": "雷军是社恐型e人",
+      "onboard_time": 1691643637,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61295,
       "num": 74618,
       "word": "SK要有小小SK了",
@@ -1441,14 +1489,6 @@
       "onboard_time": 1691609835,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31310,
-      "num": 575995,
-      "word": "雷军是社恐型e人",
-      "onboard_time": 1691643637,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19652,

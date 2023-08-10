@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691644562644,
+  "endTime": 1691645631720,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -483,6 +483,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1779690,
+      "num": 940504,
+      "word": "王源炸毛了",
+      "onboard_time": 1691643456,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1770705,
       "num": 820343,
       "word": "王俊凯回望",
@@ -505,6 +513,14 @@
       "onboard_time": 1691481218,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1744753,
+      "num": 1744753,
+      "word": "网红称要让补课行为在浙江断根",
+      "onboard_time": 1691641176,
+      "rank": 39,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1726567,
@@ -835,14 +851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1467929,
-      "num": 940504,
-      "word": "王源炸毛了",
-      "onboard_time": 1691643456,
-      "rank": 10,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 1452179,
       "num": 1452179,
       "word": "女子2百多网购却被花呗扣款3千多",
@@ -961,14 +969,6 @@
       "onboard_time": 1691503779,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1385786,
-      "num": 1385786,
-      "word": "网红称要让补课行为在浙江断根",
-      "onboard_time": 1691641176,
-      "rank": 39,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1381954,
@@ -1187,6 +1187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1194160,
+      "num": 1194160,
+      "word": "小夭血染梅林",
+      "onboard_time": 1691642918,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1189102,
       "num": 1189102,
       "word": "WBG战胜TES",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1691476117,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1153737,
+      "num": 1153737,
+      "word": "陈都灵没跳又好像跳了",
+      "onboard_time": 1691643037,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1147938,
@@ -1345,14 +1361,6 @@
       "onboard_time": 1691491536,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1099236,
-      "num": 1099236,
-      "word": "陈都灵没跳又好像跳了",
-      "onboard_time": 1691643037,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1096321,
@@ -1641,14 +1649,6 @@
       "onboard_time": 1691419724,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 979868,
-      "num": 979868,
-      "word": "小夭血染梅林",
-      "onboard_time": 1691642918,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 979848,
@@ -2635,6 +2635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 677590,
+      "num": 677590,
+      "word": "檀健次说选角期少不了流言蜚语",
+      "onboard_time": 1691640695,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 675012,
       "num": 675012,
       "word": "执着于双休的原因",
@@ -2648,14 +2656,6 @@
       "word": "宋威龙穿JK",
       "onboard_time": 1691593240,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 670079,
-      "num": 670079,
-      "word": "檀健次说选角期少不了流言蜚语",
-      "onboard_time": 1691640695,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -3025,6 +3025,14 @@
       "onboard_time": 1691500840,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604300,
+      "num": 604300,
+      "word": "没有J人能走出P人的房间",
+      "onboard_time": 1691642378,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 604261,
@@ -4099,14 +4107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 452926,
-      "num": 452926,
-      "word": "没有J人能走出P人的房间",
-      "onboard_time": 1691642378,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 451135,
       "num": 495705,
       "word": "医疗反腐",
@@ -5107,6 +5107,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 353032,
+      "num": 353032,
+      "word": "孟婕",
+      "onboard_time": 1691644773,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352889,
       "num": 352889,
       "word": "薛之谦在线帮歌迷牵线",
@@ -5137,6 +5145,14 @@
       "onboard_time": 1691627736,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 349184,
+      "num": 349184,
+      "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
+      "onboard_time": 1691644474,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349052,
@@ -5177,6 +5193,14 @@
       "onboard_time": 1691571397,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346793,
+      "num": 346793,
+      "word": "zzr和陈都灵好好嗑",
+      "onboard_time": 1691645254,
+      "rank": 24,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 345395,
@@ -6161,6 +6185,14 @@
       "onboard_time": 1691568519,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273039,
+      "num": 273039,
+      "word": "18岁男孩52万卖掉上百万房子买摩托车",
+      "onboard_time": 1691645313,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 272654,
@@ -8011,6 +8043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190805,
+      "num": 190805,
+      "word": "导演让杨紫邓为深吻",
+      "onboard_time": 1691645494,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190551,
       "num": 212725,
       "word": "逛吃济州岛",
@@ -8291,14 +8331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177187,
-      "num": 177187,
-      "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
-      "onboard_time": 1691644474,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177168,
       "num": 818938,
       "word": "高铁上的大叔被女儿问尴尬了",
@@ -8313,6 +8345,14 @@
       "onboard_time": 1691636073,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176868,
+      "num": 176868,
+      "word": "赵丽颖不会成为虎妈",
+      "onboard_time": 1691645494,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 176486,
@@ -9139,6 +9179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65857,
+      "num": 575995,
+      "word": "雷军是社恐型e人",
+      "onboard_time": 1691643637,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64857,
       "num": 395644,
       "word": "了不起的中国茶",
@@ -9383,14 +9431,6 @@
       "num": 634436,
       "word": "民警蹬15公里三轮帮受伤大爷送车",
       "onboard_time": 1691579314,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31310,
-      "num": 575995,
-      "word": "雷军是社恐型e人",
-      "onboard_time": 1691643637,
       "rank": 14,
       "category": "社会新闻"
     },
