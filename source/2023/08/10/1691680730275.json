@@ -1,0 +1,410 @@
+{
+  "runTime": 1691680730275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1703828,
+        "num": 1703828,
+        "word": "在新疆连玩10天有多爽",
+        "onboard_time": 1691675679,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1197038,
+        "num": 1197038,
+        "word": "改一下涂山璟的台词吧",
+        "onboard_time": 1691678620,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96669,
+        "num": 1128428,
+        "word": "紧急下达15.05亿元水利救灾资金",
+        "onboard_time": 1691673636,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2530440,
+        "num": 1125834,
+        "word": "梅林殉情",
+        "onboard_time": 1691664214,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2142985,
+        "num": 1124365,
+        "word": "吴倩离婚后真是人间清醒",
+        "onboard_time": 1691677300,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1121670,
+        "num": 1121670,
+        "word": "第一次见男女主历劫畜牲道",
+        "onboard_time": 1691678383,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1002589,
+        "num": 1002589,
+        "word": "封神路演主持人道歉",
+        "onboard_time": 1691678920,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 971170,
+        "num": 971170,
+        "word": "尊嘟假嘟",
+        "onboard_time": 1691674477,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 421503,
+        "num": 856301,
+        "word": "湖南一女子与镇干部水库游泳溺亡",
+        "onboard_time": 1691658635,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254780,
+        "num": 849156,
+        "word": "我不是药神白血病少年饰演者成了捐髓者",
+        "onboard_time": 1691652274,
+        "rank": 9,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 846670,
+        "num": 846670,
+        "word": "相柳小夭37年原著描写",
+        "onboard_time": 1691672914,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 763765,
+        "num": 763765,
+        "word": "杨超越演技",
+        "onboard_time": 1691675138,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 707197,
+        "num": 707197,
+        "word": "赵丽颖的文案是尊嘟假嘟吧",
+        "onboard_time": 1691671233,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198326,
+        "num": 678848,
+        "word": "夫妻俩义务上门帮失能老人洗澡",
+        "onboard_time": 1691679100,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108690,
+        "num": 671728,
+        "word": "女子翻看去世爸爸手机后破防了",
+        "onboard_time": 1691640574,
+        "rank": 14,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 665323,
+        "num": 665323,
+        "word": "王源易烊千玺同时为王俊凯回望宣传",
+        "onboard_time": 1691666737,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 615778,
+        "num": 615778,
+        "word": "董璇都演婆婆了",
+        "onboard_time": 1691678799,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531811,
+        "num": 531811,
+        "word": "jiejie",
+        "onboard_time": 1691676938,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 425469,
+        "num": 425469,
+        "word": "儿子手机上的支付宝存了15万",
+        "onboard_time": 1691649622,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399762,
+        "num": 399762,
+        "word": "高三的我记录每一支笔的死因",
+        "onboard_time": 1691677119,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 597074,
+        "num": 399388,
+        "word": "涂山璟烧焦了",
+        "onboard_time": 1691678260,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 593087,
+        "num": 399273,
+        "word": "黄晓明喊话蒋欣真的不能再哭了",
+        "onboard_time": 1691674174,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452904,
+        "num": 398755,
+        "word": "手镯有了黄金没看见",
+        "onboard_time": 1691678142,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423327,
+        "num": 398113,
+        "word": "19岁男生送外卖撞车被家人骂去死",
+        "onboard_time": 1691674958,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401883,
+        "num": 397810,
+        "word": "女幼师疑出轨学生家长被抓当街游行",
+        "onboard_time": 1691656774,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467182,
+        "num": 397592,
+        "word": "金晨浅跳个舞庆祝票房10亿",
+        "onboard_time": 1691676519,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427649,
+        "num": 397021,
+        "word": "邓紫棋 薛之谦嘉宾",
+        "onboard_time": 1691675317,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396736,
+        "num": 396736,
+        "word": "现在这么流行水下接吻吗",
+        "onboard_time": 1691674116,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346728,
+        "num": 346728,
+        "word": "上海一小区垃圾站惊现男尸",
+        "onboard_time": 1691663016,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371368,
+        "num": 341380,
+        "word": "七时吉祥原来是动画片",
+        "onboard_time": 1691676696,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1325820,
+        "num": 332029,
+        "word": "邓为演技差点意思",
+        "onboard_time": 1691670034,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320749,
+        "num": 320749,
+        "word": "第一次见六个人平番的剧",
+        "onboard_time": 1691673995,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298453,
+        "num": 298453,
+        "word": "甲骨文的屎字太形象了",
+        "onboard_time": 1691679880,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272564,
+        "num": 272564,
+        "word": "结婚好的话还用催啊",
+        "onboard_time": 1691679341,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 268119,
+        "num": 268119,
+        "word": "因为太瘦工作没了",
+        "onboard_time": 1691663974,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 306915,
+        "num": 265824,
+        "word": "成毅莲花楼6场打戏ootd",
+        "onboard_time": 1691677660,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303898,
+        "num": 264543,
+        "word": "孤注一掷票房破10亿",
+        "onboard_time": 1691671233,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260229,
+        "num": 260229,
+        "word": "Faker含金量",
+        "onboard_time": 1691675437,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226726,
+        "num": 257937,
+        "word": "理记 这波医疗反腐漏网的几乎不可能",
+        "onboard_time": 1691679762,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38536,
+        "num": 257547,
+        "word": "多家车企响应比亚迪王传福泪撒发布会",
+        "onboard_time": 1691679880,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257347,
+        "num": 257347,
+        "word": "网友好像他们仨play的一环",
+        "onboard_time": 1691669252,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257110,
+        "num": 257110,
+        "word": "周深深深感谢你9周年演唱会",
+        "onboard_time": 1691676398,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221660,
+        "num": 221660,
+        "word": "他在伤害你时已经权衡利弊了",
+        "onboard_time": 1691670034,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 253875,
+        "num": 219259,
+        "word": "于适做引体向上问电影频道观众满意吗",
+        "onboard_time": 1691680120,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216422,
+        "num": 216422,
+        "word": "刘诗诗行走的山茶花",
+        "onboard_time": 1691663674,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211570,
+        "num": 211570,
+        "word": "金毛偷亲宝宝却把宝宝吓哭了",
+        "onboard_time": 1691674778,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201214,
+        "num": 201214,
+        "word": "这城管人还怪好嘞",
+        "onboard_time": 1691679580,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200783,
+        "num": 200783,
+        "word": "谁说我家女儿要出嫁",
+        "onboard_time": 1691665594,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197170,
+        "num": 197170,
+        "word": "火真不是涂山璟放的",
+        "onboard_time": 1691676638,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192857,
+        "num": 195286,
+        "word": "胡锡进谈医药反腐",
+        "onboard_time": 1691680059,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#调查研究永远在路上#"
+    }
+  }
+}

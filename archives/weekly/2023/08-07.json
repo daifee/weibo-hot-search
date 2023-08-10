@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691678120891,
+  "endTime": 1691680730275,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -387,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2142985,
+      "num": 1124365,
+      "word": "吴倩离婚后真是人间清醒",
+      "onboard_time": 1691677300,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2071000,
       "num": 2071000,
       "word": "虞书欣凌妙妙造型",
@@ -609,6 +617,14 @@
       "onboard_time": 1691666737,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1703828,
+      "num": 1703828,
+      "word": "在新疆连玩10天有多爽",
+      "onboard_time": 1691675679,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 1688203,
@@ -1347,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1197038,
+      "num": 1197038,
+      "word": "改一下涂山璟的台词吧",
+      "onboard_time": 1691678620,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1195390,
       "num": 583554,
       "word": "易烊千玺说我们三个",
@@ -1393,14 +1417,6 @@
       "onboard_time": 1691648734,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1181266,
-      "num": 1181266,
-      "word": "在新疆连玩10天有多爽",
-      "onboard_time": 1691675679,
-      "rank": 7,
-      "category": "旅游"
     },
     {
       "raw_hot": 1165425,
@@ -1523,20 +1539,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1121670,
+      "num": 1121670,
+      "word": "第一次见男女主历劫畜牲道",
+      "onboard_time": 1691678383,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1118675,
       "num": 603106,
       "word": "黄锐 人太多没进场",
       "onboard_time": 1691460212,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1116856,
-      "num": 1116856,
-      "word": "吴倩离婚后真是人间清醒",
-      "onboard_time": 1691677300,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1108119,
@@ -1784,6 +1800,14 @@
       "word": "吴京曾提到有演员因角色小而放弃封神",
       "onboard_time": 1691624668,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1002589,
+      "num": 1002589,
+      "word": "封神路演主持人道歉",
+      "onboard_time": 1691678920,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -2812,7 +2836,7 @@
     },
     {
       "raw_hot": 723693,
-      "num": 379827,
+      "num": 398113,
       "word": "19岁男生送外卖撞车被家人骂去死",
       "onboard_time": 1691674958,
       "rank": 20,
@@ -3371,6 +3395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 615778,
+      "num": 615778,
+      "word": "董璇都演婆婆了",
+      "onboard_time": 1691678799,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 615052,
       "num": 615052,
       "word": "全职高手 哥几个是不是又整容了",
@@ -3505,6 +3537,14 @@
       "onboard_time": 1691644773,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597074,
+      "num": 399388,
+      "word": "涂山璟烧焦了",
+      "onboard_time": 1691678260,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 597039,
@@ -3716,7 +3756,7 @@
     },
     {
       "raw_hot": 575400,
-      "num": 376175,
+      "num": 396736,
       "word": "现在这么流行水下接吻吗",
       "onboard_time": 1691674116,
       "rank": 29,
@@ -4060,7 +4100,7 @@
     },
     {
       "raw_hot": 534554,
-      "num": 370517,
+      "num": 397592,
       "word": "金晨浅跳个舞庆祝票房10亿",
       "onboard_time": 1691676519,
       "rank": 40,
@@ -4691,6 +4731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452904,
+      "num": 398755,
+      "word": "手镯有了黄金没看见",
+      "onboard_time": 1691678142,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 451135,
       "num": 495705,
       "word": "医疗反腐",
@@ -5283,6 +5331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 399762,
+      "num": 399762,
+      "word": "高三的我记录每一支笔的死因",
+      "onboard_time": 1691677119,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399341,
       "num": 399341,
       "word": "文俊辉官宣加盟听说很好吃3",
@@ -5609,6 +5665,14 @@
       "onboard_time": 1691569116,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371368,
+      "num": 341380,
+      "word": "七时吉祥原来是动画片",
+      "onboard_time": 1691676696,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 369421,
@@ -6403,6 +6467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306915,
+      "num": 289426,
+      "word": "成毅莲花楼6场打戏ootd",
+      "onboard_time": 1691677660,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306509,
       "num": 257798,
       "word": "乐队的夏天3超级乐迷官宣",
@@ -6529,6 +6601,14 @@
       "onboard_time": 1691479957,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298453,
+      "num": 298453,
+      "word": "甲骨文的屎字太形象了",
+      "onboard_time": 1691679880,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 298374,
@@ -6745,14 +6825,6 @@
       "onboard_time": 1691597791,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 289426,
-      "num": 289426,
-      "word": "成毅莲花楼6场打戏ootd",
-      "onboard_time": 1691677660,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 289206,
@@ -7025,6 +7097,14 @@
       "onboard_time": 1691414499,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272564,
+      "num": 272564,
+      "word": "结婚好的话还用催啊",
+      "onboard_time": 1691679341,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 272170,
@@ -7361,6 +7441,14 @@
       "onboard_time": 1691490034,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253875,
+      "num": 219259,
+      "word": "于适做引体向上问电影频道观众满意吗",
+      "onboard_time": 1691680120,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 253481,
@@ -7923,20 +8011,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 227213,
-      "num": 297712,
-      "word": "高三的我记录每一支笔的死因",
-      "onboard_time": 1691677119,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 227114,
       "num": 271598,
       "word": "最怕别人问我哪个学校的",
       "onboard_time": 1691590418,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226726,
+      "num": 257937,
+      "word": "理记 这波医疗反腐漏网的几乎不可能",
+      "onboard_time": 1691679762,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226667,
@@ -8113,14 +8201,6 @@
       "onboard_time": 1691670695,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 220334,
-      "num": 220334,
-      "word": "七时吉祥原来是动画片",
-      "onboard_time": 1691676696,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 220118,
@@ -8731,6 +8811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201214,
+      "num": 201214,
+      "word": "这城管人还怪好嘞",
+      "onboard_time": 1691679580,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201067,
       "num": 201067,
       "word": "张杰未live巡回演唱会",
@@ -8841,6 +8929,14 @@
       "onboard_time": 1691565576,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 198326,
+      "num": 678848,
+      "word": "夫妻俩义务上门帮失能老人洗澡",
+      "onboard_time": 1691679100,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197875,
@@ -9041,6 +9137,14 @@
       "onboard_time": 1691589879,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 192857,
+      "num": 195286,
+      "word": "胡锡进谈医药反腐",
+      "onboard_time": 1691680059,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192780,
@@ -10643,6 +10747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38536,
+      "num": 257547,
+      "word": "多家车企响应比亚迪王传福泪撒发布会",
+      "onboard_time": 1691679880,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38358,
       "num": 56059,
       "word": "崩坏星穹铁道",
@@ -10826,6 +10938,9 @@
     },
     {
       "word": "#跟着总书记看中国#"
+    },
+    {
+      "word": "#调查研究永远在路上#"
     }
   ]
 }
