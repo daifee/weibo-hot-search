@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691659049048,
+  "endTime": 1691660053737,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2028,7 +2028,7 @@
     },
     {
       "raw_hot": 1542996,
-      "num": 702465,
+      "num": 867428,
       "word": "体重280斤店员被殴打拒不还手",
       "onboard_time": 1691656233,
       "rank": 48,
@@ -2699,6 +2699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1328422,
+      "num": 491200,
+      "word": "女幼师疑出轨学生家长被抓当街游行",
+      "onboard_time": 1691656774,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1325927,
       "num": 1325927,
       "word": "檀健次工作室宣发审美",
@@ -2841,14 +2849,6 @@
       "onboard_time": 1691074602,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1288688,
-      "num": 491200,
-      "word": "女幼师疑出轨学生家长被抓当街游行",
-      "onboard_time": 1691656774,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1282965,
@@ -5203,6 +5203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 870360,
+      "num": 870360,
+      "word": "桐华说长相思不是悲剧",
+      "onboard_time": 1691656356,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 869671,
       "num": 869671,
       "word": "长相思",
@@ -5217,6 +5225,14 @@
       "onboard_time": 1690947995,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 866022,
+      "num": 866022,
+      "word": "帕梅拉 练出完美天鹅臂",
+      "onboard_time": 1691654674,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 863419,
@@ -5385,6 +5401,14 @@
       "onboard_time": 1691469820,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 839101,
+      "num": 653233,
+      "word": "邓为被迫放弃潮到风湿",
+      "onboard_time": 1691657617,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 839083,
@@ -5609,6 +5633,14 @@
       "onboard_time": 1691414259,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 815686,
+      "num": 815686,
+      "word": "摩羯这个星座太苦了",
+      "onboard_time": 1691657374,
+      "rank": 6,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 814224,
@@ -5891,14 +5923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 787659,
-      "num": 520782,
-      "word": "邓为被迫放弃潮到风湿",
-      "onboard_time": 1691657617,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 786783,
       "num": 621009,
       "word": "时代少年团演唱会什么时候官宣",
@@ -5937,6 +5961,14 @@
       "onboard_time": 1691494057,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 783313,
+      "num": 783313,
+      "word": "爸爸当家",
+      "onboard_time": 1690892073,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 782443,
@@ -6939,14 +6971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 710414,
-      "num": 710414,
-      "word": "桐华说长相思不是悲剧",
-      "onboard_time": 1691656356,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 709194,
       "num": 185320,
       "word": "徐峥陶虹带女儿看TFBOYS演唱会",
@@ -7035,14 +7059,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 701702,
-      "num": 701702,
-      "word": "帕梅拉 练出完美天鹅臂",
-      "onboard_time": 1691654674,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 700890,
       "num": 700890,
       "word": "不要轻易介入他人的因果",
@@ -7057,14 +7073,6 @@
       "onboard_time": 1691143954,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 698382,
-      "num": 698382,
-      "word": "摩羯这个星座太苦了",
-      "onboard_time": 1691657374,
-      "rank": 6,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 697752,
@@ -7459,6 +7467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661308,
+      "num": 661308,
+      "word": "虞书欣丁禹兮永夜星河出妆路透",
+      "onboard_time": 1691656595,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 660930,
       "num": 365118,
       "word": "TF很懂孟女",
@@ -7616,14 +7632,6 @@
       "word": "演技进步最快的演员",
       "onboard_time": 1691104343,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 647004,
-      "num": 647004,
-      "word": "虞书欣丁禹兮永夜星河出妆路透",
-      "onboard_time": 1691656595,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -8177,14 +8185,6 @@
       "onboard_time": 1691047298,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 612697,
-      "num": 612697,
-      "word": "爸爸当家",
-      "onboard_time": 1690892073,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 611785,
@@ -9516,7 +9516,7 @@
     },
     {
       "raw_hot": 543959,
-      "num": 601301,
+      "num": 659080,
       "word": "湖南卫健委与中南大学成立联合调查组",
       "onboard_time": 1691648793,
       "rank": 29,
@@ -9529,6 +9529,14 @@
       "onboard_time": 1691335930,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 543668,
+      "num": 543668,
+      "word": "湖南一女子与镇干部水库游泳溺亡",
+      "onboard_time": 1691658635,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 542510,
@@ -16811,6 +16819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279850,
+      "num": 279850,
+      "word": "吴宣仪凡尔赛式秀身材",
+      "onboard_time": 1691658995,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279821,
       "num": 279821,
       "word": "温拿乐队正式解散",
@@ -16960,14 +16976,6 @@
       "word": "东莞两女子江边放生一袋鱼豆腐",
       "onboard_time": 1691123138,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274844,
-      "num": 268907,
-      "word": "湖南一女子与镇干部水库游泳溺亡",
-      "onboard_time": 1691658635,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -17697,6 +17705,14 @@
       "onboard_time": 1691199453,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256009,
+      "num": 256009,
+      "word": "网传乳腺外科医师搜出1.5亿不实",
+      "onboard_time": 1691659656,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255387,
@@ -19601,6 +19617,14 @@
       "onboard_time": 1691624187,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218813,
+      "num": 218813,
+      "word": "地震局回应大量燕子夜间漫天飞舞",
+      "onboard_time": 1691658873,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218563,
@@ -21619,6 +21643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193376,
+      "num": 205439,
+      "word": "热烈泰国口碑",
+      "onboard_time": 1691659474,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193305,
       "num": 318572,
       "word": "白鲨",
@@ -23107,14 +23139,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 160258,
-      "num": 209853,
-      "word": "吴宣仪凡尔赛式秀身材",
-      "onboard_time": 1691658995,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160050,
       "num": 230171,
       "word": "KPL",
@@ -23249,6 +23273,14 @@
       "onboard_time": 1691249386,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 154767,
+      "num": 644085,
+      "word": "残障男子用低保买6件矿泉水送水站",
+      "onboard_time": 1691658036,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154518,
@@ -23657,14 +23689,6 @@
       "onboard_time": 1691234676,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139010,
-      "num": 209346,
-      "word": "地震局回应大量燕子夜间漫天飞舞",
-      "onboard_time": 1691658873,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138448,
@@ -24185,6 +24209,14 @@
       "onboard_time": 1691353093,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113243,
+      "num": 205431,
+      "word": "人生是旷野不是轨道",
+      "onboard_time": 1691659115,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 112979,
@@ -24944,14 +24976,6 @@
       "word": "痛别暴雨洪灾中牺牲的英雄",
       "onboard_time": 1691635953,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57713,
-      "num": 518279,
-      "word": "残障男子用低保买6件矿泉水送水站",
-      "onboard_time": 1691658036,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

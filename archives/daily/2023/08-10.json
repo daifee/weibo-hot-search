@@ -1,6 +1,6 @@
 {
   "startTime": 1691598287793,
-  "endTime": 1691659049048,
+  "endTime": 1691660053737,
   "band_list": [
     {
       "raw_hot": 3138717,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1542996,
-      "num": 702465,
+      "num": 867428,
       "word": "体重280斤店员被殴打拒不还手",
       "onboard_time": 1691656233,
       "rank": 48,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1328422,
+      "num": 491200,
+      "word": "女幼师疑出轨学生家长被抓当街游行",
+      "onboard_time": 1691656774,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1316016,
       "num": 396262,
       "word": "徐杰被曝出轨",
@@ -169,14 +177,6 @@
       "onboard_time": 1691598510,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1288688,
-      "num": 491200,
-      "word": "女幼师疑出轨学生家长被抓当街游行",
-      "onboard_time": 1691656774,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1241785,
@@ -323,12 +323,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 870360,
+      "num": 870360,
+      "word": "桐华说长相思不是悲剧",
+      "onboard_time": 1691656356,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 866022,
+      "num": 866022,
+      "word": "帕梅拉 练出完美天鹅臂",
+      "onboard_time": 1691654674,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 854923,
       "num": 854923,
       "word": "文旅部公布恢复出境团队游第3批名单",
       "onboard_time": 1691641054,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 839101,
+      "num": 653233,
+      "word": "邓为被迫放弃潮到风湿",
+      "onboard_time": 1691657617,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 837441,
@@ -347,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 815686,
+      "num": 815686,
+      "word": "摩羯这个星座太苦了",
+      "onboard_time": 1691657374,
+      "rank": 6,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 809855,
       "num": 809855,
       "word": "封神第一部票房破18亿",
@@ -355,20 +387,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 787659,
-      "num": 520782,
-      "word": "邓为被迫放弃潮到风湿",
-      "onboard_time": 1691657617,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 786585,
       "num": 786585,
       "word": "猫眼抢票",
       "onboard_time": 1691653900,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 783313,
+      "num": 783313,
+      "word": "爸爸当家",
+      "onboard_time": 1691657795,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 776393,
@@ -435,30 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 710414,
-      "num": 710414,
-      "word": "桐华说长相思不是悲剧",
-      "onboard_time": 1691656356,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 701702,
-      "num": 701702,
-      "word": "帕梅拉 练出完美天鹅臂",
-      "onboard_time": 1691654674,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 698382,
-      "num": 698382,
-      "word": "摩羯这个星座太苦了",
-      "onboard_time": 1691657374,
-      "rank": 6,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 684363,
       "num": 535787,
       "word": "zzr和陈都灵好好嗑",
@@ -475,20 +483,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 661308,
+      "num": 661308,
+      "word": "虞书欣丁禹兮永夜星河出妆路透",
+      "onboard_time": 1691656595,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 647323,
       "num": 563133,
       "word": "刚出月子的爱宝胖出双下巴",
       "onboard_time": 1691628756,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 647004,
-      "num": 647004,
-      "word": "虞书欣丁禹兮永夜星河出妆路透",
-      "onboard_time": 1691656595,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 646650,
@@ -620,11 +628,19 @@
     },
     {
       "raw_hot": 543959,
-      "num": 601301,
+      "num": 659080,
       "word": "湖南卫健委与中南大学成立联合调查组",
       "onboard_time": 1691648793,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 543668,
+      "num": 543668,
+      "word": "湖南一女子与镇干部水库游泳溺亡",
+      "onboard_time": 1691658635,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540245,
@@ -657,14 +673,6 @@
       "onboard_time": 1691584955,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 513770,
-      "num": 513770,
-      "word": "爸爸当家",
-      "onboard_time": 1691657795,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 508798,
@@ -1203,20 +1211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279850,
+      "num": 279850,
+      "word": "吴宣仪凡尔赛式秀身材",
+      "onboard_time": 1691658995,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277605,
       "num": 277605,
       "word": "七时吉祥",
       "onboard_time": 1691629656,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274844,
-      "num": 268907,
-      "word": "湖南一女子与镇干部水库游泳溺亡",
-      "onboard_time": 1691658635,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273324,
@@ -1281,6 +1289,14 @@
       "onboard_time": 1691582435,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256009,
+      "num": 256009,
+      "word": "网传乳腺外科医师搜出1.5亿不实",
+      "onboard_time": 1691659656,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254958,
@@ -1467,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218813,
+      "num": 218813,
+      "word": "地震局回应大量燕子夜间漫天飞舞",
+      "onboard_time": 1691658873,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218140,
       "num": 218140,
       "word": "丁程鑫开车载时代少年团下班",
@@ -1643,6 +1667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193376,
+      "num": 205439,
+      "word": "热烈泰国口碑",
+      "onboard_time": 1691659474,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193012,
       "num": 193012,
       "word": "念无双",
@@ -1771,12 +1803,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 160258,
-      "num": 209853,
-      "word": "吴宣仪凡尔赛式秀身材",
-      "onboard_time": 1691658995,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 154767,
+      "num": 644085,
+      "word": "残障男子用低保买6件矿泉水送水站",
+      "onboard_time": 1691658036,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153430,
@@ -1816,14 +1848,6 @@
       "word": "厦门打雷",
       "onboard_time": 1691623646,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139010,
-      "num": 209346,
-      "word": "地震局回应大量燕子夜间漫天飞舞",
-      "onboard_time": 1691658873,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1873,6 +1897,14 @@
       "onboard_time": 1691576434,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113243,
+      "num": 205431,
+      "word": "人生是旷野不是轨道",
+      "onboard_time": 1691659115,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 111147,
@@ -1968,14 +2000,6 @@
       "word": "痛别暴雨洪灾中牺牲的英雄",
       "onboard_time": 1691635953,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57713,
-      "num": 518279,
-      "word": "残障男子用低保买6件矿泉水送水站",
-      "onboard_time": 1691658036,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
