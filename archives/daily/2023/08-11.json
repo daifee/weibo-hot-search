@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691738089915,
+  "endTime": 1691739230300,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -43,20 +43,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2475806,
+      "num": 2475806,
+      "word": "女工程师为出轨对象成为间谍17年",
+      "onboard_time": 1691734657,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2354410,
       "num": 2354410,
       "word": "国安机关破获美国中央情报局间谍案",
       "onboard_time": 1691711067,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2247642,
-      "num": 2247642,
-      "word": "女工程师为出轨对象成为间谍17年",
-      "onboard_time": 1691734657,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2075752,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 834300,
+      "num": 834300,
+      "word": "云合 长相思",
+      "onboard_time": 1691737237,
+      "rank": 13,
+      "category": "影视,科技"
+    },
+    {
       "raw_hot": 817213,
       "num": 817213,
       "word": "导游带团游故宫4小时全程倒着走",
@@ -427,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 630185,
+      "num": 630185,
+      "word": "莲花楼结局 慢刀子刮肉",
+      "onboard_time": 1691737416,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 610931,
       "num": 610931,
       "word": "喜茶原神联动",
@@ -539,14 +555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 486538,
-      "num": 486538,
-      "word": "云合 长相思",
-      "onboard_time": 1691737237,
-      "rank": 13,
-      "category": "影视,科技"
-    },
-    {
       "raw_hot": 481161,
       "num": 481161,
       "word": "小夭番外",
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438800,
+      "num": 289612,
+      "word": "周杰伦昆凌捐赠300万助力抗洪救灾",
+      "onboard_time": 1691738856,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426050,
       "num": 426050,
       "word": "唐嫣念无双或将换造型重拍",
@@ -641,14 +657,6 @@
       "onboard_time": 1691731717,
       "rank": 47,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 399340,
-      "num": 399340,
-      "word": "莲花楼结局 慢刀子刮肉",
-      "onboard_time": 1691737416,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 393580,
@@ -707,6 +715,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 374026,
+      "num": 333827,
+      "word": "男子创业赔42万又被分手11天没吃饭",
+      "onboard_time": 1691735615,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371509,
       "num": 371509,
       "word": "建议学校都按照这个标准来分配宿舍",
@@ -731,14 +747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 360674,
-      "num": 306836,
-      "word": "男子创业赔42万又被分手11天没吃饭",
-      "onboard_time": 1691735615,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356921,
       "num": 356921,
       "word": "比起催婚的亲戚真的很暖心了",
@@ -753,6 +761,14 @@
       "onboard_time": 1691683594,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350997,
+      "num": 350997,
+      "word": "卡琳娜cos仆人",
+      "onboard_time": 1691738257,
+      "rank": 17,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 350133,
@@ -779,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 341171,
+      "num": 341171,
+      "word": "起猛了看见顾廷烨当外室",
+      "onboard_time": 1691736756,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339536,
       "num": 278609,
       "word": "赵丽颖的文案是尊嘟假嘟吧",
@@ -792,6 +816,30 @@
       "word": "刘诗诗星光鎏金裙",
       "onboard_time": 1691723790,
       "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 332775,
+      "num": 332775,
+      "word": "封神第一部延长上映",
+      "onboard_time": 1691737956,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 329983,
+      "num": 329983,
+      "word": "曾舜晞录好六有种见家长的感觉",
+      "onboard_time": 1691737597,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 327839,
+      "num": 327839,
+      "word": "Lisa穿比基尼好辣",
+      "onboard_time": 1691738556,
+      "rank": 25,
       "category": "作品衍生,时尚"
     },
     {
@@ -811,14 +859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 312737,
-      "num": 312737,
-      "word": "起猛了看见顾廷烨当外室",
-      "onboard_time": 1691736756,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 311772,
       "num": 311772,
       "word": "发现间谍行为拨打12339",
@@ -835,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307646,
+      "num": 327891,
+      "word": "猪的体脂率可能比你还低",
+      "onboard_time": 1691738015,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306910,
       "num": 306910,
       "word": "相柳你就真的这么爱吗",
@@ -849,6 +897,22 @@
       "onboard_time": 1691716234,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299710,
+      "num": 299710,
+      "word": "凯恩加盟拜仁",
+      "onboard_time": 1691737597,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298905,
+      "num": 298905,
+      "word": "新研究确定先有鸡还是先有蛋",
+      "onboard_time": 1691736815,
+      "rank": 33,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 295318,
@@ -891,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289676,
+      "num": 299346,
+      "word": "中央财政已下达防汛救灾资金77.38亿元",
+      "onboard_time": 1691737055,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289348,
       "num": 289348,
       "word": "男孩点4盘蚊香睡觉中毒",
@@ -921,14 +993,6 @@
       "onboard_time": 1691681320,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 283302,
-      "num": 283302,
-      "word": "曾舜晞录好六有种见家长的感觉",
-      "onboard_time": 1691737597,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 281831,
@@ -1059,6 +1123,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 258075,
+      "num": 258075,
+      "word": "电影封神第一部的礼仪课程",
+      "onboard_time": 1691736935,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257683,
       "num": 257683,
       "word": "万茜演的妈妈好窒息",
@@ -1107,22 +1179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244615,
-      "num": 299346,
-      "word": "中央财政已下达防汛救灾资金77.38亿元",
-      "onboard_time": 1691737055,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243995,
-      "num": 243995,
-      "word": "凯恩加盟拜仁",
-      "onboard_time": 1691737597,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 242710,
       "num": 242710,
       "word": "鹿晗演唱会",
@@ -1137,14 +1193,6 @@
       "onboard_time": 1691717132,
       "rank": 34,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 241125,
-      "num": 224576,
-      "word": "电影封神第一部的礼仪课程",
-      "onboard_time": 1691736935,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 239154,
@@ -1177,14 +1225,6 @@
       "onboard_time": 1691725114,
       "rank": 10,
       "category": "美食"
-    },
-    {
-      "raw_hot": 234071,
-      "num": 234071,
-      "word": "新研究确定先有鸡还是先有蛋",
-      "onboard_time": 1691736815,
-      "rank": 33,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 227094,
@@ -1251,11 +1291,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211831,
-      "num": 211831,
-      "word": "封神第一部延长上映",
-      "onboard_time": 1691737956,
-      "rank": 37,
+      "raw_hot": 211013,
+      "num": 211013,
+      "word": "白日梦我",
+      "onboard_time": 1691738796,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1273,6 +1313,14 @@
       "onboard_time": 1691723673,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208201,
+      "num": 208201,
+      "word": "宣璐也在看长相思",
+      "onboard_time": 1691738556,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 207797,
@@ -1379,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194791,
+      "num": 194791,
+      "word": "凯恩 here we go",
+      "onboard_time": 1691738496,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194513,
       "num": 194513,
       "word": "高三的我记录每一支笔的死因",
@@ -1393,6 +1449,14 @@
       "onboard_time": 1691723854,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190519,
+      "num": 190519,
+      "word": "逆水寒手游启动",
+      "onboard_time": 1691739097,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 190156,
@@ -1513,6 +1577,14 @@
       "onboard_time": 1691681677,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163674,
+      "num": 163674,
+      "word": "120斤重的00后战士背了70斤物资",
+      "onboard_time": 1691739097,
+      "rank": 48,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 163642,
@@ -1641,14 +1713,6 @@
       "onboard_time": 1691710285,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 114530,
-      "num": 204668,
-      "word": "猪的体脂率可能比你还低",
-      "onboard_time": 1691738015,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111082,

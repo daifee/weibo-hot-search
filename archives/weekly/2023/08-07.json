@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691738089915,
+  "endTime": 1691739230300,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -275,6 +275,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2475806,
+      "num": 2475806,
+      "word": "女工程师为出轨对象成为间谍17年",
+      "onboard_time": 1691734657,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2474081,
       "num": 1012632,
       "word": "饶雪漫 造成误会很抱歉",
@@ -336,14 +344,6 @@
       "word": "原配街头打小三扒其胸衣",
       "onboard_time": 1691596711,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2247642,
-      "num": 2247642,
-      "word": "女工程师为出轨对象成为间谍17年",
-      "onboard_time": 1691734657,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2579,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 834300,
+      "num": 834300,
+      "word": "云合 长相思",
+      "onboard_time": 1691737237,
+      "rank": 13,
+      "category": "影视,科技"
+    },
+    {
       "raw_hot": 834021,
       "num": 722673,
       "word": "谁说我家女儿要出嫁",
@@ -3697,6 +3705,14 @@
       "onboard_time": 1691561856,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 630185,
+      "num": 630185,
+      "word": "莲花楼结局 慢刀子刮肉",
+      "onboard_time": 1691737416,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 627080,
@@ -4899,14 +4915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 486538,
-      "num": 486538,
-      "word": "云合 长相思",
-      "onboard_time": 1691737237,
-      "rank": 13,
-      "category": "影视,科技"
-    },
-    {
       "raw_hot": 486049,
       "num": 486049,
       "word": "孤注一掷预测票房38亿",
@@ -5377,6 +5385,14 @@
       "onboard_time": 1691511751,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438800,
+      "num": 289612,
+      "word": "周杰伦昆凌捐赠300万助力抗洪救灾",
+      "onboard_time": 1691738856,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 438269,
@@ -5915,14 +5931,6 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 399340,
-      "num": 399340,
-      "word": "莲花楼结局 慢刀子刮肉",
-      "onboard_time": 1691737416,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 398854,
       "num": 398854,
       "word": "Capper直播",
@@ -6259,6 +6267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374026,
+      "num": 333827,
+      "word": "男子创业赔42万又被分手11天没吃饭",
+      "onboard_time": 1691735615,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374010,
       "num": 374010,
       "word": "隔夜蛋糕怎么更好吃了",
@@ -6443,14 +6459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 360674,
-      "num": 306836,
-      "word": "男子创业赔42万又被分手11天没吃饭",
-      "onboard_time": 1691735615,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360322,
       "num": 343767,
       "word": "一个男人到40岁都没明白很多事情",
@@ -6561,6 +6569,14 @@
       "onboard_time": 1691683594,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350997,
+      "num": 350997,
+      "word": "卡琳娜cos仆人",
+      "onboard_time": 1691738257,
+      "rank": 17,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 350251,
@@ -6707,6 +6723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341171,
+      "num": 341171,
+      "word": "起猛了看见顾廷烨当外室",
+      "onboard_time": 1691736756,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340763,
       "num": 657128,
       "word": "北部战区陆军第78集团军某旅紧急驰援舒兰",
@@ -6763,6 +6787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 332775,
+      "num": 332775,
+      "word": "封神第一部延长上映",
+      "onboard_time": 1691737956,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331110,
       "num": 248604,
       "word": "白敬亭潮男穿搭",
@@ -6779,12 +6811,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329983,
+      "num": 329983,
+      "word": "曾舜晞录好六有种见家长的感觉",
+      "onboard_time": 1691737597,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329058,
       "num": 329058,
       "word": "薛之谦演唱会",
       "onboard_time": 1691648194,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327839,
+      "num": 327839,
+      "word": "Lisa穿比基尼好辣",
+      "onboard_time": 1691738556,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 327786,
@@ -7107,14 +7155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 312737,
-      "num": 312737,
-      "word": "起猛了看见顾廷烨当外室",
-      "onboard_time": 1691736756,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 312724,
       "num": 235674,
       "word": "阎月明逝世",
@@ -7201,6 +7241,14 @@
       "onboard_time": 1691473657,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 307646,
+      "num": 327891,
+      "word": "猪的体脂率可能比你还低",
+      "onboard_time": 1691738015,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307542,
@@ -7345,6 +7393,22 @@
       "onboard_time": 1691580156,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 299710,
+      "num": 299710,
+      "word": "凯恩加盟拜仁",
+      "onboard_time": 1691737597,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298905,
+      "num": 298905,
+      "word": "新研究确定先有鸡还是先有蛋",
+      "onboard_time": 1691736815,
+      "rank": 33,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 298698,
@@ -7595,6 +7659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289676,
+      "num": 299346,
+      "word": "中央财政已下达防汛救灾资金77.38亿元",
+      "onboard_time": 1691737055,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289626,
       "num": 289626,
       "word": "同事桌上突然贴的标语",
@@ -7721,14 +7793,6 @@
       "onboard_time": 1691674778,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 283302,
-      "num": 283302,
-      "word": "曾舜晞录好六有种见家长的感觉",
-      "onboard_time": 1691737597,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 283116,
@@ -8299,6 +8363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 258075,
+      "num": 258075,
+      "word": "电影封神第一部的礼仪课程",
+      "onboard_time": 1691736935,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258045,
       "num": 258045,
       "word": "小狗坠落江边主动配合好心人自救",
@@ -8579,14 +8651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244615,
-      "num": 299346,
-      "word": "中央财政已下达防汛救灾资金77.38亿元",
-      "onboard_time": 1691737055,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244337,
       "num": 231374,
       "word": "张艺兴王传君体型差",
@@ -8609,14 +8673,6 @@
       "onboard_time": 1691559159,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243995,
-      "num": 243995,
-      "word": "凯恩加盟拜仁",
-      "onboard_time": 1691737597,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 243950,
@@ -8697,14 +8753,6 @@
       "onboard_time": 1691555322,
       "rank": 42,
       "category": "影视,美妆"
-    },
-    {
-      "raw_hot": 241125,
-      "num": 224576,
-      "word": "电影封神第一部的礼仪课程",
-      "onboard_time": 1691736935,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 240603,
@@ -8865,14 +8913,6 @@
       "onboard_time": 1691725114,
       "rank": 10,
       "category": "美食"
-    },
-    {
-      "raw_hot": 234071,
-      "num": 234071,
-      "word": "新研究确定先有鸡还是先有蛋",
-      "onboard_time": 1691736815,
-      "rank": 33,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 233486,
@@ -9475,14 +9515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 211831,
-      "num": 211831,
-      "word": "封神第一部延长上映",
-      "onboard_time": 1691737956,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211809,
       "num": 211809,
       "word": "AG对战TTG",
@@ -9520,6 +9552,14 @@
       "word": "李莲花夺命三刀",
       "onboard_time": 1691587896,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211013,
+      "num": 211013,
+      "word": "白日梦我",
+      "onboard_time": 1691738796,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -9616,6 +9656,14 @@
       "word": "杨超越祥云仙子观云台",
       "onboard_time": 1691584114,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208201,
+      "num": 208201,
+      "word": "宣璐也在看长相思",
+      "onboard_time": 1691738556,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -10179,6 +10227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194791,
+      "num": 194791,
+      "word": "凯恩 here we go",
+      "onboard_time": 1691738496,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194751,
       "num": 203730,
       "word": "杭州人是懂亚运氛围的",
@@ -10361,6 +10417,14 @@
       "onboard_time": 1691370102,
       "rank": 37,
       "category": "美食,旅游"
+    },
+    {
+      "raw_hot": 190519,
+      "num": 190519,
+      "word": "逆水寒手游启动",
+      "onboard_time": 1691739097,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 190156,
@@ -10969,6 +11033,14 @@
       "onboard_time": 1691562333,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163674,
+      "num": 163674,
+      "word": "120斤重的00后战士背了70斤物资",
+      "onboard_time": 1691739097,
+      "rank": 48,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 163642,
@@ -11593,14 +11665,6 @@
       "onboard_time": 1691710285,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 114530,
-      "num": 204668,
-      "word": "猪的体脂率可能比你还低",
-      "onboard_time": 1691738015,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113895,
