@@ -1,0 +1,410 @@
+{
+  "runTime": 1691741992423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2444656,
+        "num": 2444656,
+        "word": "女工程师为出轨对象成为间谍17年",
+        "onboard_time": 1691734657,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1373382,
+        "num": 1373382,
+        "word": "医药代表性贿赂医生",
+        "onboard_time": 1691734176,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 59270,
+        "num": 1237479,
+        "word": "分秒必争空降输电铁塔超硬核",
+        "onboard_time": 1691739997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1700211,
+        "num": 1208293,
+        "word": "新冠三阳的人开始陆续出现",
+        "onboard_time": 1691733156,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1121512,
+        "num": 1121512,
+        "word": "白日梦我",
+        "onboard_time": 1691738796,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 877663,
+        "num": 877663,
+        "word": "周杰伦昆凌捐赠300万助力抗洪救灾",
+        "onboard_time": 1691738856,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 877219,
+        "num": 877219,
+        "word": "周深演唱会票价",
+        "onboard_time": 1691729918,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 790039,
+        "num": 790039,
+        "word": "猪的体脂率可能比你还低",
+        "onboard_time": 1691738015,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785503,
+        "num": 785503,
+        "word": "雷军建议大家少刷手机",
+        "onboard_time": 1691740536,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 573928,
+        "num": 573928,
+        "word": "周冬雨刘昊然浴室戏",
+        "onboard_time": 1691728177,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 701484,
+        "num": 561443,
+        "word": "Lisa穿比基尼好辣",
+        "onboard_time": 1691738556,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 539196,
+        "num": 539196,
+        "word": "缅甸柬埔寨来抢中国游客了",
+        "onboard_time": 1691724634,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530004,
+        "num": 530004,
+        "word": "杨紫回应哭戏被夸",
+        "onboard_time": 1691739875,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492642,
+        "num": 492642,
+        "word": "莲花楼结局 慢刀子刮肉",
+        "onboard_time": 1691737416,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495240,
+        "num": 492160,
+        "word": "云合 长相思",
+        "onboard_time": 1691737237,
+        "rank": 14,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 473808,
+        "num": 473808,
+        "word": "乌克兰称只要俄罗斯撤军愿意谈判",
+        "onboard_time": 1691740237,
+        "rank": 15,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 473538,
+        "num": 473538,
+        "word": "发现了一个很爽的旅行方式",
+        "onboard_time": 1691730397,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 458154,
+        "num": 458154,
+        "word": "院长忏悔白大褂被染成金黄色",
+        "onboard_time": 1691739394,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430064,
+        "num": 430064,
+        "word": "卡琳娜cos仆人",
+        "onboard_time": 1691738257,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 388345,
+        "num": 388345,
+        "word": "檀健次直播",
+        "onboard_time": 1691736034,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706302,
+        "num": 383305,
+        "word": "于正 邓为",
+        "onboard_time": 1691726136,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354957,
+        "num": 354957,
+        "word": "Faker遭到谋杀通知",
+        "onboard_time": 1691730338,
+        "rank": 21,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 351192,
+        "num": 351192,
+        "word": "封神第一部延长上映",
+        "onboard_time": 1691737956,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339746,
+        "num": 339746,
+        "word": "以前没觉得杨蒙恩这么不好看啊",
+        "onboard_time": 1691740659,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309247,
+        "num": 309247,
+        "word": "120斤重的00后战士背了70斤物资",
+        "onboard_time": 1691739097,
+        "rank": 24,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 331589,
+        "num": 305847,
+        "word": "李湘看王诗龄的眼神",
+        "onboard_time": 1691711670,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301185,
+        "num": 301185,
+        "word": "檀健次说相柳这一生没有BE",
+        "onboard_time": 1691732733,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300614,
+        "num": 300614,
+        "word": "男子要女孩微信被拒后对其爸爸动手",
+        "onboard_time": 1691729561,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297350,
+        "num": 297350,
+        "word": "唐嫣首部仙侠剧女主",
+        "onboard_time": 1691724153,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260924,
+        "num": 260924,
+        "word": "男子创业赔42万又被分手11天没吃饭",
+        "onboard_time": 1691735615,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289253,
+        "num": 260307,
+        "word": "黄景瑜帮老人推轮椅",
+        "onboard_time": 1691738978,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254260,
+        "num": 254260,
+        "word": "白日梦我首发预告",
+        "onboard_time": 1691741255,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253891,
+        "num": 253891,
+        "word": "起猛了看见顾廷烨当外室",
+        "onboard_time": 1691736756,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236503,
+        "num": 236503,
+        "word": "警方回应醉酒18岁女生疑被性侵",
+        "onboard_time": 1691732796,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235426,
+        "num": 235426,
+        "word": "新研究确定先有鸡还是先有蛋",
+        "onboard_time": 1691736815,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 220341,
+        "num": 220341,
+        "word": "孤注一掷",
+        "onboard_time": 1691731059,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217650,
+        "num": 217650,
+        "word": "A股",
+        "onboard_time": 1691722832,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216506,
+        "num": 216506,
+        "word": "向佐郭碧婷新电影",
+        "onboard_time": 1691733156,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204088,
+        "num": 204088,
+        "word": "凯恩加盟拜仁",
+        "onboard_time": 1691737597,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195703,
+        "num": 204087,
+        "word": "中央财政已下达防汛救灾资金77.38亿元",
+        "onboard_time": 1691737055,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215642,
+        "num": 204087,
+        "word": "电影花千骨陈都灵赖美云演母女",
+        "onboard_time": 1691724815,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214258,
+        "num": 204086,
+        "word": "长相思市占率破30%",
+        "onboard_time": 1691741739,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208394,
+        "num": 204086,
+        "word": "曾舜晞录好六有种见家长的感觉",
+        "onboard_time": 1691737597,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194513,
+        "num": 204085,
+        "word": "花千骨",
+        "onboard_time": 1691728238,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189271,
+        "num": 204084,
+        "word": "微博夭玹表情",
+        "onboard_time": 1691739458,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150940,
+        "num": 204084,
+        "word": "男子偷拍裙底被路人一招按在地上",
+        "onboard_time": 1691736156,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139994,
+        "num": 204082,
+        "word": "投资90多亿的医院突然申请注销",
+        "onboard_time": 1691731717,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 131603,
+        "num": 204082,
+        "word": "男子胖到238斤5分钟大脑关机一次",
+        "onboard_time": 1691724454,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116975,
+        "num": 204081,
+        "word": "凯恩 here we go",
+        "onboard_time": 1691738496,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114049,
+        "num": 204081,
+        "word": "小狗进地铁蹭空调被安保耐心劝离",
+        "onboard_time": 1691741917,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#调查研究永远在路上#"
+    }
+  }
+}

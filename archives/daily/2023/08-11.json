@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691739230300,
+  "endTime": 1691741992423,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1121512,
+      "num": 1121512,
+      "word": "白日梦我",
+      "onboard_time": 1691738796,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1089379,
       "num": 1060816,
       "word": "向佐郭碧婷新电影",
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 877663,
+      "num": 877663,
+      "word": "周杰伦昆凌捐赠300万助力抗洪救灾",
+      "onboard_time": 1691738856,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 875385,
       "num": 875385,
       "word": "暑期档最佳男主角",
@@ -329,6 +345,22 @@
       "onboard_time": 1691727096,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 790039,
+      "num": 790039,
+      "word": "猪的体脂率可能比你还低",
+      "onboard_time": 1691738015,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785503,
+      "num": 785503,
+      "word": "雷军建议大家少刷手机",
+      "onboard_time": 1691740536,
+      "rank": 8,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 782138,
@@ -401,6 +433,14 @@
       "onboard_time": 1691678920,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 701484,
+      "num": 561443,
+      "word": "Lisa穿比基尼好辣",
+      "onboard_time": 1691738556,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 698983,
@@ -507,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530004,
+      "num": 530004,
+      "word": "杨紫回应哭戏被夸",
+      "onboard_time": 1691739875,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 529442,
       "num": 529442,
       "word": "韩版想见你首支预告",
@@ -587,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473808,
+      "num": 473808,
+      "word": "乌克兰称只要俄罗斯撤军愿意谈判",
+      "onboard_time": 1691740237,
+      "rank": 15,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 471956,
       "num": 627563,
       "word": "尊嘟假嘟",
@@ -601,6 +657,14 @@
       "onboard_time": 1691682277,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458154,
+      "num": 458154,
+      "word": "院长忏悔白大褂被染成金黄色",
+      "onboard_time": 1691739394,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450394,
@@ -619,12 +683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438800,
-      "num": 289612,
-      "word": "周杰伦昆凌捐赠300万助力抗洪救灾",
-      "onboard_time": 1691738856,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 430064,
+      "num": 430064,
+      "word": "卡琳娜cos仆人",
+      "onboard_time": 1691738257,
+      "rank": 17,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 426050,
@@ -763,12 +827,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 350997,
-      "num": 350997,
-      "word": "卡琳娜cos仆人",
-      "onboard_time": 1691738257,
-      "rank": 17,
-      "category": "游戏,网红"
+      "raw_hot": 351192,
+      "num": 351192,
+      "word": "封神第一部延长上映",
+      "onboard_time": 1691737956,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 350133,
@@ -803,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339746,
+      "num": 339746,
+      "word": "以前没觉得杨蒙恩这么不好看啊",
+      "onboard_time": 1691740659,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339536,
       "num": 278609,
       "word": "赵丽颖的文案是尊嘟假嘟吧",
@@ -819,28 +891,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 332775,
-      "num": 332775,
-      "word": "封神第一部延长上映",
-      "onboard_time": 1691737956,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 329983,
       "num": 329983,
       "word": "曾舜晞录好六有种见家长的感觉",
       "onboard_time": 1691737597,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327839,
-      "num": 327839,
-      "word": "Lisa穿比基尼好辣",
-      "onboard_time": 1691738556,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 315496,
@@ -875,12 +931,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 307646,
-      "num": 327891,
-      "word": "猪的体脂率可能比你还低",
-      "onboard_time": 1691738015,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 309247,
+      "num": 309247,
+      "word": "120斤重的00后战士背了70斤物资",
+      "onboard_time": 1691739097,
+      "rank": 48,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 306910,
@@ -969,6 +1025,14 @@
       "onboard_time": 1691716174,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289253,
+      "num": 260307,
+      "word": "黄景瑜帮老人推轮椅",
+      "onboard_time": 1691738978,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 287817,
@@ -1147,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254260,
+      "num": 254260,
+      "word": "白日梦我首发预告",
+      "onboard_time": 1691741255,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254163,
       "num": 551640,
       "word": "理记 这波医疗反腐漏网的几乎不可能",
@@ -1267,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214258,
+      "num": 204086,
+      "word": "长相思市占率破30%",
+      "onboard_time": 1691741739,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213960,
       "num": 213960,
       "word": "考古封神质子姜文焕",
@@ -1288,14 +1368,6 @@
       "word": "黄晓明喊话蒋欣真的不能再哭了",
       "onboard_time": 1691674174,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 211013,
-      "num": 211013,
-      "word": "白日梦我",
-      "onboard_time": 1691738796,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -1428,7 +1500,7 @@
     },
     {
       "raw_hot": 194791,
-      "num": 194791,
+      "num": 204081,
       "word": "凯恩 here we go",
       "onboard_time": 1691738496,
       "rank": 38,
@@ -1472,6 +1544,14 @@
       "word": "燃冬",
       "onboard_time": 1691726376,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189271,
+      "num": 204084,
+      "word": "微博夭玹表情",
+      "onboard_time": 1691739458,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1577,14 +1657,6 @@
       "onboard_time": 1691681677,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163674,
-      "num": 163674,
-      "word": "120斤重的00后战士背了70斤物资",
-      "onboard_time": 1691739097,
-      "rank": 48,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 163642,
@@ -1715,6 +1787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114049,
+      "num": 204081,
+      "word": "小狗进地铁蹭空调被安保耐心劝离",
+      "onboard_time": 1691741917,
+      "rank": 49,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 111082,
       "num": 317945,
       "word": "雷军说不用非进大厂",
@@ -1807,6 +1887,14 @@
       "num": 718565,
       "word": "紧急下达15.05亿元水利救灾资金",
       "onboard_time": 1691673636,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59270,
+      "num": 1237479,
+      "word": "分秒必争空降输电铁塔超硬核",
+      "onboard_time": 1691739997,
       "rank": 2,
       "category": "社会新闻"
     },
