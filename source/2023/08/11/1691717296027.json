@@ -1,0 +1,410 @@
+{
+  "runTime": 1691717296027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796042,
+        "num": 1796042,
+        "word": "国安机关破获美国中央情报局间谍案",
+        "onboard_time": 1691711067,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1201478,
+        "num": 1201478,
+        "word": "清洁工被碾身亡案司机获国家赔偿",
+        "onboard_time": 1691711972,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80285,
+        "num": 1155657,
+        "word": "亚运福利100多个景区公园免门票",
+        "onboard_time": 1691673273,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1132213,
+        "num": 1132213,
+        "word": "下班后微信办公算加班吗",
+        "onboard_time": 1691712394,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 849869,
+        "num": 849869,
+        "word": "警方通报280斤店员被打拒不还手",
+        "onboard_time": 1691712394,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707804,
+        "num": 707804,
+        "word": "暑期档最佳男主角",
+        "onboard_time": 1691711850,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 687340,
+        "num": 687340,
+        "word": "幸亏过路女司机凌晨多看了两眼",
+        "onboard_time": 1691712995,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686646,
+        "num": 686646,
+        "word": "跑步真的可能会暴富",
+        "onboard_time": 1691713895,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 666521,
+        "num": 666521,
+        "word": "杨玏封神演技",
+        "onboard_time": 1691714254,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 632751,
+        "num": 632751,
+        "word": "碧桂园提出四大自救措施",
+        "onboard_time": 1691711551,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 2658701,
+        "num": 609854,
+        "word": "李湘看王诗龄的眼神",
+        "onboard_time": 1691711670,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1738822,
+        "num": 577338,
+        "word": "湘雅三院举报信内容值得玩味",
+        "onboard_time": 1691712873,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755963,
+        "num": 566418,
+        "word": "为什么会有月经同步现象",
+        "onboard_time": 1691680838,
+        "rank": 12,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 471974,
+        "num": 471974,
+        "word": "小夭番外",
+        "onboard_time": 1691713235,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463966,
+        "num": 463966,
+        "word": "谭爷爷说花花不是洗白的",
+        "onboard_time": 1691684490,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 451354,
+        "num": 451354,
+        "word": "为解绑支付宝民警帮办45张证明",
+        "onboard_time": 1691691798,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421545,
+        "num": 421545,
+        "word": "吉林黑龙江暴雨",
+        "onboard_time": 1691713055,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371509,
+        "num": 371509,
+        "word": "建议学校都按照这个标准来分配宿舍",
+        "onboard_time": 1691712394,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 335852,
+        "num": 335852,
+        "word": "柳岩怎么瘦了这么多",
+        "onboard_time": 1691681561,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304779,
+        "num": 304779,
+        "word": "老人戴仨戒指肿胀到戒指陷肉里",
+        "onboard_time": 1691716234,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320927,
+        "num": 301146,
+        "word": "骗子不骗用卡通头像的人",
+        "onboard_time": 1691710888,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288653,
+        "num": 288653,
+        "word": "甲骨文的屎字太形象了",
+        "onboard_time": 1691679880,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280828,
+        "num": 280828,
+        "word": "男孩点4盘蚊香睡觉中毒",
+        "onboard_time": 1691716174,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261180,
+        "num": 261180,
+        "word": "于适晒蓉宝",
+        "onboard_time": 1691712394,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 260849,
+        "num": 260849,
+        "word": "我惩罚讨厌司机的方式",
+        "onboard_time": 1691713656,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 257693,
+        "num": 257693,
+        "word": "吴倩离婚后真是人间清醒",
+        "onboard_time": 1691677300,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252908,
+        "num": 252908,
+        "word": "卡努今夜进入辽宁或者消散",
+        "onboard_time": 1691714135,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240658,
+        "num": 240658,
+        "word": "玱玹激动得不会说话了",
+        "onboard_time": 1691682277,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223738,
+        "num": 223738,
+        "word": "被马立奥笑惨了",
+        "onboard_time": 1691683477,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213960,
+        "num": 213960,
+        "word": "考古封神质子姜文焕",
+        "onboard_time": 1691715815,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396347,
+        "num": 213219,
+        "word": "导游带团游故宫4小时全程倒着走",
+        "onboard_time": 1691716592,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 325373,
+        "num": 210772,
+        "word": "邓为演技差点意思",
+        "onboard_time": 1691670034,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202950,
+        "num": 202950,
+        "word": "灯神的心脏",
+        "onboard_time": 1691716772,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 207984,
+        "num": 202561,
+        "word": "小夭并非靠别人幸存",
+        "onboard_time": 1691715156,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202022,
+        "num": 202022,
+        "word": "国家安全机关对曾某某采取强制措施",
+        "onboard_time": 1691717132,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 200294,
+        "num": 200294,
+        "word": "发现间谍行为拨打12339",
+        "onboard_time": 1691716894,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 194378,
+        "num": 194378,
+        "word": "结婚好的话还用催啊",
+        "onboard_time": 1691679341,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 192141,
+        "num": 192141,
+        "word": "第一次见男女主历劫畜牲道",
+        "onboard_time": 1691678383,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190156,
+        "num": 190156,
+        "word": "海绵女孩这个拥抱父亲等了21年",
+        "onboard_time": 1691715873,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192123,
+        "num": 189920,
+        "word": "赵雅芝再现白娘子施法手势",
+        "onboard_time": 1691716954,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187650,
+        "num": 187650,
+        "word": "在新疆连玩10天有多爽",
+        "onboard_time": 1691675679,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 180377,
+        "num": 180377,
+        "word": "Jennie机场",
+        "onboard_time": 1691708785,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178936,
+        "num": 178936,
+        "word": "张艺兴阿拉丁神兴来了",
+        "onboard_time": 1691712213,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176937,
+        "num": 176937,
+        "word": "不同姿势对脊柱的压力",
+        "onboard_time": 1691714735,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175102,
+        "num": 175102,
+        "word": "第一次见这么炸裂的旅行打卡",
+        "onboard_time": 1691715156,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 172563,
+        "num": 172563,
+        "word": "大爷含泪说三大纪律八项注意都传下来了",
+        "onboard_time": 1691712812,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164692,
+        "num": 164692,
+        "word": "封神路演主持人道歉",
+        "onboard_time": 1691678920,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159969,
+        "num": 159969,
+        "word": "莲花楼原著立意",
+        "onboard_time": 1691681320,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159505,
+        "num": 159505,
+        "word": "Ravi和Nafla被判刑",
+        "onboard_time": 1691710589,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154935,
+        "num": 154935,
+        "word": "原神",
+        "onboard_time": 1691717252,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}

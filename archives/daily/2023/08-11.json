@@ -1,10 +1,10 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691716088209,
+  "endTime": 1691717296027,
   "band_list": [
     {
       "raw_hot": 2766015,
-      "num": 606413,
+      "num": 609854,
       "word": "李湘看王诗龄的眼神",
       "onboard_time": 1691711670,
       "rank": 10,
@@ -19,20 +19,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1738822,
+      "num": 604241,
+      "word": "湘雅三院举报信内容值得玩味",
+      "onboard_time": 1691712873,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1731425,
       "num": 603454,
       "word": "为什么会有月经同步现象",
       "onboard_time": 1691680838,
       "rank": 10,
       "category": "其它"
-    },
-    {
-      "raw_hot": 1619987,
-      "num": 604241,
-      "word": "湘雅三院举报信内容值得玩味",
-      "onboard_time": 1691712873,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1430421,
@@ -65,6 +65,14 @@
       "onboard_time": 1691712394,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1132213,
+      "num": 1132213,
+      "word": "下班后微信办公算加班吗",
+      "onboard_time": 1691712394,
+      "rank": 6,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1016648,
@@ -115,14 +123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 756593,
-      "num": 756593,
-      "word": "下班后微信办公算加班吗",
-      "onboard_time": 1691712394,
-      "rank": 6,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 741185,
       "num": 741185,
       "word": "幸亏过路女司机凌晨多看了两眼",
@@ -163,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 686646,
+      "num": 686646,
+      "word": "跑步真的可能会暴富",
+      "onboard_time": 1691713895,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 641706,
       "num": 641706,
       "word": "长相思观众好卷",
@@ -185,14 +193,6 @@
       "onboard_time": 1691704935,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 521061,
-      "num": 521061,
-      "word": "跑步真的可能会暴富",
-      "onboard_time": 1691713895,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 519794,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396347,
+      "num": 213219,
+      "word": "导游带团游故宫4小时全程倒着走",
+      "onboard_time": 1691716592,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 386668,
       "num": 326686,
       "word": "甲骨文的屎字太形象了",
@@ -283,20 +291,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 371509,
+      "num": 371509,
+      "word": "建议学校都按照这个标准来分配宿舍",
+      "onboard_time": 1691712394,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 363818,
       "num": 363818,
       "word": "阿杰 声线变了更多是表演范畴",
       "onboard_time": 1691681617,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 362506,
-      "num": 362506,
-      "word": "建议学校都按照这个标准来分配宿舍",
-      "onboard_time": 1691712394,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 352851,
@@ -331,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304779,
+      "num": 304779,
+      "word": "老人戴仨戒指肿胀到戒指陷肉里",
+      "onboard_time": 1691716234,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294432,
       "num": 356682,
       "word": "儿子手机上的支付宝存了15万",
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280828,
+      "num": 280828,
+      "word": "男孩点4盘蚊香睡觉中毒",
+      "onboard_time": 1691716174,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279448,
       "num": 279448,
       "word": "卡努今夜进入辽宁或者消散",
@@ -377,6 +401,14 @@
       "onboard_time": 1691712394,
       "rank": 25,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 260849,
+      "num": 260849,
+      "word": "我惩罚讨厌司机的方式",
+      "onboard_time": 1691713656,
+      "rank": 27,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 259371,
@@ -401,14 +433,6 @@
       "onboard_time": 1691679762,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245511,
-      "num": 245511,
-      "word": "我惩罚讨厌司机的方式",
-      "onboard_time": 1691713656,
-      "rank": 27,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 244949,
@@ -467,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213960,
+      "num": 213960,
+      "word": "考古封神质子姜文焕",
+      "onboard_time": 1691715815,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213916,
       "num": 213916,
       "word": "结婚好的话还用催啊",
@@ -491,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202950,
+      "num": 202950,
+      "word": "灯神的心脏",
+      "onboard_time": 1691716772,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 202738,
       "num": 202738,
       "word": "张艺兴阿拉丁神兴来了",
@@ -505,6 +545,22 @@
       "onboard_time": 1691714735,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202022,
+      "num": 202022,
+      "word": "国家安全机关对曾某某采取强制措施",
+      "onboard_time": 1691717132,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 200294,
+      "num": 200294,
+      "word": "发现间谍行为拨打12339",
+      "onboard_time": 1691716894,
+      "rank": 35,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 198949,
@@ -547,20 +603,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192123,
+      "num": 189920,
+      "word": "赵雅芝再现白娘子施法手势",
+      "onboard_time": 1691716954,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190156,
+      "num": 190156,
+      "word": "海绵女孩这个拥抱父亲等了21年",
+      "onboard_time": 1691715873,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188384,
       "num": 188384,
       "word": "第一次见这么炸裂的旅行打卡",
       "onboard_time": 1691715156,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 186047,
-      "num": 186047,
-      "word": "海绵女孩这个拥抱父亲等了21年",
-      "onboard_time": 1691715873,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180861,
@@ -603,12 +667,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 157675,
-      "num": 157675,
-      "word": "考古封神质子姜文焕",
-      "onboard_time": 1691715815,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 154935,
+      "num": 154935,
+      "word": "原神",
+      "onboard_time": 1691717252,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 142885,
