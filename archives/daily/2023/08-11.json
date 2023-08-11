@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691757987177,
+  "endTime": 1691759929916,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -8,6 +8,14 @@
       "word": "缅甸柬埔寨来抢中国游客了",
       "onboard_time": 1691724634,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3769520,
+      "num": 466173,
+      "word": "中国已成为全球生育率最低的国家之一",
+      "onboard_time": 1691755055,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -43,14 +51,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2495756,
-      "num": 466173,
-      "word": "中国已成为全球生育率最低的国家之一",
-      "onboard_time": 1691755055,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2475806,
       "num": 2475806,
       "word": "女工程师为出轨对象成为间谍17年",
@@ -65,6 +65,14 @@
       "onboard_time": 1691711067,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2196927,
+      "num": 2196927,
+      "word": "SHE时隔四年再合体",
+      "onboard_time": 1691757696,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 2125761,
@@ -89,6 +97,14 @@
       "onboard_time": 1691740536,
       "rank": 8,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1887181,
+      "num": 1887181,
+      "word": "成毅跳queencard 认真中带着幽默",
+      "onboard_time": 1691759497,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1795183,
@@ -235,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1145856,
+      "num": 508906,
+      "word": "疑李玟生前与二姐争吵音频曝光",
+      "onboard_time": 1691759077,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1131485,
       "num": 1131485,
       "word": "张晚意给毛不易交作业",
@@ -249,6 +273,14 @@
       "onboard_time": 1691738796,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1111029,
+      "num": 312891,
+      "word": "肖战终于穿背带裤了",
+      "onboard_time": 1691757758,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1099094,
@@ -595,8 +627,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 643589,
-      "num": 643589,
+      "raw_hot": 643618,
+      "num": 643618,
       "word": "和天秤座相处要多一点耐心",
       "onboard_time": 1691754934,
       "rank": 6,
@@ -644,7 +676,7 @@
     },
     {
       "raw_hot": 602117,
-      "num": 365554,
+      "num": 488972,
       "word": "陈赫 等邓超开场呢",
       "onboard_time": 1691756436,
       "rank": 25,
@@ -713,6 +745,22 @@
       "onboard_time": 1691739875,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 547922,
+      "num": 467831,
+      "word": "Lisa行程",
+      "onboard_time": 1691756679,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 546952,
+      "num": 546952,
+      "word": "如果有朋友突然临时约你",
+      "onboard_time": 1691757515,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 544934,
@@ -795,14 +843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 485403,
-      "num": 348168,
-      "word": "Lisa行程",
-      "onboard_time": 1691756679,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 484061,
       "num": 484061,
       "word": "肖战为任敏擦泪好温柔",
@@ -873,14 +913,6 @@
       "onboard_time": 1691674477,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 470760,
-      "num": 337376,
-      "word": "SHE时隔四年再合体",
-      "onboard_time": 1691757696,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 461960,
@@ -1091,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 362036,
+      "num": 362036,
+      "word": "西安文旅局回应多场演出取消",
+      "onboard_time": 1691759317,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356921,
       "num": 356921,
       "word": "比起催婚的亲戚真的很暖心了",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1691728541,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 346881,
+      "num": 310597,
+      "word": "谭爷爷说花花本来就比以前长得白了",
+      "onboard_time": 1691756792,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345499,
@@ -1179,14 +1227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326500,
-      "num": 309154,
-      "word": "谭爷爷说花花本来就比以前长得白了",
-      "onboard_time": 1691756792,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322465,
       "num": 322465,
       "word": "男孩进店叫醒午休老板没购物狂道歉",
@@ -1201,14 +1241,6 @@
       "onboard_time": 1691743239,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 321583,
-      "num": 307719,
-      "word": "肖战终于穿背带裤了",
-      "onboard_time": 1691757758,
-      "rank": 25,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 317534,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1691683773,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309956,
+      "num": 309956,
+      "word": "田馥甄演唱会",
+      "onboard_time": 1691759737,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 309247,
@@ -1307,6 +1347,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 295844,
+      "num": 534587,
+      "word": "多名医保局长被调查",
+      "onboard_time": 1691756256,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295318,
       "num": 295318,
       "word": "导游日薪上千为何还紧缺",
@@ -1329,6 +1377,14 @@
       "onboard_time": 1691743658,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 292422,
+      "num": 310452,
+      "word": "调查显示医生月工资1600元起步",
+      "onboard_time": 1691758961,
+      "rank": 24,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 291192,
@@ -1739,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225168,
+      "num": 216790,
+      "word": "GGbond也来看鹿晗演唱会了",
+      "onboard_time": 1691759497,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 223946,
       "num": 223946,
       "word": "从此以后每天都是好日子",
@@ -1763,20 +1827,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 217271,
-      "num": 305917,
-      "word": "多名医保局长被调查",
-      "onboard_time": 1691756256,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216308,
       "num": 229248,
       "word": "LCK",
       "onboard_time": 1691750317,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216284,
+      "num": 216284,
+      "word": "孤注一掷票房破12亿",
+      "onboard_time": 1691759918,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 215937,
@@ -1907,6 +1971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205632,
+      "num": 205632,
+      "word": "何泓姗新剧意外扑倒董思成",
+      "onboard_time": 1691759136,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205285,
       "num": 226838,
       "word": "五月天重庆宣不宣",
@@ -1939,12 +2011,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202087,
+      "num": 202087,
+      "word": "鹿晗重启周五之约",
+      "onboard_time": 1691759558,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200847,
       "num": 200847,
       "word": "金晨要拍古装了",
       "onboard_time": 1691747137,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200767,
+      "num": 229175,
+      "word": "别让父母一个人去医院",
+      "onboard_time": 1691759436,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 198949,
@@ -1979,12 +2067,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196374,
+      "num": 225971,
+      "word": "今天星期五",
+      "onboard_time": 1691759558,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195318,
       "num": 195318,
       "word": "赵雅芝再现白娘子施法手势",
       "onboard_time": 1691716954,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195107,
+      "num": 225471,
+      "word": "高温天气不要把车停在树下",
+      "onboard_time": 1691759436,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 194791,
@@ -2171,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177743,
+      "num": 216292,
+      "word": "XYG对战DYG",
+      "onboard_time": 1691759799,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173870,
       "num": 197794,
       "word": "日本女足vs瑞典女足",
@@ -2192,14 +2304,6 @@
       "word": "他有很多好朋友",
       "onboard_time": 1691683356,
       "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 167635,
-      "num": 207699,
-      "word": "如果有朋友突然临时约你",
-      "onboard_time": 1691757515,
-      "rank": 39,
       "category": "情感,幽默"
     },
     {
@@ -2331,12 +2435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138004,
+      "num": 202078,
+      "word": "万能的蒜蓉酱",
+      "onboard_time": 1691759259,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 137929,
       "num": 204706,
       "word": "因为发脾气爸爸的游戏搭子被罚站半小时",
       "onboard_time": 1691734900,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136197,
+      "num": 202074,
+      "word": "两个细腻又善良的人相遇了",
+      "onboard_time": 1691759918,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 134119,
@@ -2523,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67678,
+      "num": 405974,
+      "word": "被兵哥哥自带的秩序感惊到了",
+      "onboard_time": 1691758837,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60631,
       "num": 718565,
       "word": "紧急下达15.05亿元水利救灾资金",
@@ -2548,7 +2676,7 @@
     },
     {
       "raw_hot": 54761,
-      "num": 1100934,
+      "num": 1236402,
       "word": "大戏看北京",
       "onboard_time": 1691755295,
       "rank": 2,
