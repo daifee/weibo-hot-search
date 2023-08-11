@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691785010921,
+  "endTime": 1691786034696,
   "band_list": [
     {
       "raw_hot": 1352754,
@@ -484,11 +484,19 @@
     },
     {
       "raw_hot": 101411,
-      "num": 45669,
+      "num": 59651,
       "word": "女子吃2口汉堡赶高铁过敏险休克",
       "onboard_time": 1691781797,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91994,
+      "num": 59333,
+      "word": "被于正说像梁朝伟的新人演员生图",
+      "onboard_time": 1691784194,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 65032,
@@ -497,14 +505,6 @@
       "onboard_time": 1691777837,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 44061,
-      "num": 44061,
-      "word": "被于正说像梁朝伟的新人演员生图",
-      "onboard_time": 1691784194,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 36897,

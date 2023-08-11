@@ -1,0 +1,410 @@
+{
+  "runTime": 1691786034696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 98916,
+        "num": 98916,
+        "word": "张杰开不起玩笑说到做到",
+        "onboard_time": 1691761960,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95218,
+        "num": 95218,
+        "word": "长相思发了小夭梅林分轨文件",
+        "onboard_time": 1691768138,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11857,
+        "num": 74079,
+        "word": "洪水来临时哪些地方是危险地带",
+        "onboard_time": 1691761000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73663,
+        "num": 73663,
+        "word": "程潇妈妈得了乳腺癌",
+        "onboard_time": 1691764541,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63107,
+        "num": 63107,
+        "word": "成毅跳queencard 认真中带着幽默",
+        "onboard_time": 1691759497,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60252,
+        "num": 60252,
+        "word": "央视网文娱评长月烬明",
+        "onboard_time": 1691761181,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49473,
+        "num": 60215,
+        "word": "大爷高铁上戴耳机喝白酒全程安静",
+        "onboard_time": 1691753196,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42725,
+        "num": 60145,
+        "word": "北理工宿舍分配统计mbti",
+        "onboard_time": 1691763101,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 39685,
+        "num": 60058,
+        "word": "卡琳娜cos绝世唐门",
+        "onboard_time": 1691765203,
+        "rank": 8,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 38127,
+        "num": 59933,
+        "word": "调查显示医生月工资1600元起步",
+        "onboard_time": 1691758961,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 145137,
+        "num": 59803,
+        "word": "吴宣仪希望衣服尺码再小一点",
+        "onboard_time": 1691767239,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111793,
+        "num": 59696,
+        "word": "疑李玟生前与二姐争吵音频曝光",
+        "onboard_time": 1691759077,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93699,
+        "num": 59651,
+        "word": "女子吃2口汉堡赶高铁过敏险休克",
+        "onboard_time": 1691781797,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41976,
+        "num": 59503,
+        "word": "医药代表性贿赂医生",
+        "onboard_time": 1691734176,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 30255,
+        "num": 59445,
+        "word": "女工程师为出轨对象成为间谍17年",
+        "onboard_time": 1691734657,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91994,
+        "num": 59333,
+        "word": "被于正说像梁朝伟的新人演员生图",
+        "onboard_time": 1691784194,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46142,
+        "num": 59234,
+        "word": "吴倩选择武大是因为离家近",
+        "onboard_time": 1691766401,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40487,
+        "num": 59176,
+        "word": "很好又被邓为拿捏了",
+        "onboard_time": 1691761119,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34216,
+        "num": 59046,
+        "word": "女子弄丢150元向丈夫哭诉被暖心安慰",
+        "onboard_time": 1691760465,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32788,
+        "num": 58989,
+        "word": "跟射手座恋爱全凭运气",
+        "onboard_time": 1691766283,
+        "rank": 19,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 43758,
+        "num": 58894,
+        "word": "盒马山姆商战杀疯了",
+        "onboard_time": 1691763820,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 42732,
+        "num": 58700,
+        "word": "00年带98年的实习生",
+        "onboard_time": 1691767180,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40388,
+        "num": 58651,
+        "word": "私服好看的明星",
+        "onboard_time": 1691772808,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37766,
+        "num": 58549,
+        "word": "SHE时隔四年再合体",
+        "onboard_time": 1691757696,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37136,
+        "num": 58424,
+        "word": "女子请分居丈夫家人吃饭3死1伤",
+        "onboard_time": 1691764541,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37020,
+        "num": 58344,
+        "word": "令我不知不觉变穷的习惯",
+        "onboard_time": 1691770593,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 31338,
+        "num": 58248,
+        "word": "金晨孤注一掷被删戏份",
+        "onboard_time": 1691748574,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30786,
+        "num": 58193,
+        "word": "在一个平静的午后你关掉了少儿频道",
+        "onboard_time": 1691767962,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29891,
+        "num": 58117,
+        "word": "如何恰到好处的称呼另一半",
+        "onboard_time": 1691768858,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 28720,
+        "num": 57969,
+        "word": "高瀚宇说鹿晗一场比一场壮",
+        "onboard_time": 1691768501,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45685,
+        "num": 57895,
+        "word": "你梦想中的荷官和现实中的荷官",
+        "onboard_time": 1691776280,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31044,
+        "num": 57790,
+        "word": "西安文旅局回应多场演出取消",
+        "onboard_time": 1691759317,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28709,
+        "num": 57665,
+        "word": "有些猫生来就是要做老板的",
+        "onboard_time": 1691774246,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 28617,
+        "num": 57608,
+        "word": "和天秤座相处要多一点耐心",
+        "onboard_time": 1691754934,
+        "rank": 33,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 28058,
+        "num": 57464,
+        "word": "绿衣小夭是长相思最美妆造吗",
+        "onboard_time": 1691764600,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28012,
+        "num": 57432,
+        "word": "严艺丹兑现莲花楼破万一口嗦虾",
+        "onboard_time": 1691764420,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27929,
+        "num": 57343,
+        "word": "新冠三阳的人开始陆续出现",
+        "onboard_time": 1691733156,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27786,
+        "num": 57153,
+        "word": "莲花楼queencard101",
+        "onboard_time": 1691767962,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26524,
+        "num": 57070,
+        "word": "2023下半年待播剧",
+        "onboard_time": 1691769337,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27566,
+        "num": 56972,
+        "word": "用防窥膜的重要性",
+        "onboard_time": 1691767180,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27252,
+        "num": 56901,
+        "word": "三国杀输了",
+        "onboard_time": 1691765203,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26786,
+        "num": 56770,
+        "word": "田馥甄唱了路过人间",
+        "onboard_time": 1691767838,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26612,
+        "num": 56673,
+        "word": "鹿晗武汉演唱会",
+        "onboard_time": 1691756315,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26333,
+        "num": 56663,
+        "word": "凯恩 抓马",
+        "onboard_time": 1691763281,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25936,
+        "num": 56472,
+        "word": "liz再染金发",
+        "onboard_time": 1691772627,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25522,
+        "num": 56454,
+        "word": "白日梦我定档",
+        "onboard_time": 1691767361,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24828,
+        "num": 56344,
+        "word": "王一博或不再常驻这就是街舞",
+        "onboard_time": 1691761239,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24432,
+        "num": 56192,
+        "word": "我永远喜欢我自己",
+        "onboard_time": 1691772929,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 22231,
+        "num": 56109,
+        "word": "任泽平建议帮帮碧桂园",
+        "onboard_time": 1691768619,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21958,
+        "num": 56063,
+        "word": "夭璟批现状",
+        "onboard_time": 1691766223,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路大道同行#"
+    }
+  }
+}
