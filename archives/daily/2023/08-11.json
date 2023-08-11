@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691763274635,
+  "endTime": 1691764431406,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -227,16 +227,24 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1322466,
-      "num": 1322466,
+      "raw_hot": 1334976,
+      "num": 1334976,
       "word": "西安文旅局回应多场演出取消",
       "onboard_time": 1691759317,
       "rank": 17,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1274295,
-      "num": 1274295,
+      "raw_hot": 1333310,
+      "num": 1333310,
+      "word": "央视网文娱评长月烬明",
+      "onboard_time": 1691761181,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1309809,
+      "num": 1309809,
       "word": "长相思梅林统一了剧粉",
       "onboard_time": 1691761119,
       "rank": 4,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 880822,
+      "num": 439393,
+      "word": "张杰开不起玩笑说到做到",
+      "onboard_time": 1691761960,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 877663,
       "num": 877663,
       "word": "周杰伦昆凌捐赠300万助力抗洪救灾",
@@ -441,14 +457,6 @@
       "onboard_time": 1691675679,
       "rank": 0,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 862069,
-      "num": 862069,
-      "word": "央视网文娱评长月烬明",
-      "onboard_time": 1691761181,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 846486,
@@ -507,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 792154,
-      "num": 431152,
-      "word": "张杰开不起玩笑说到做到",
-      "onboard_time": 1691761960,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 790039,
       "num": 790039,
       "word": "猪的体脂率可能比你还低",
@@ -545,6 +545,14 @@
       "onboard_time": 1691749959,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 773427,
+      "num": 541834,
+      "word": "金秋天长发",
+      "onboard_time": 1691763762,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 751029,
@@ -643,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 693142,
+      "num": 693142,
+      "word": "别让父母一个人去医院",
+      "onboard_time": 1691759436,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 678758,
       "num": 678758,
       "word": "原来上班摸鱼是有科学依据的",
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 617319,
-      "num": 351266,
+      "num": 358957,
       "word": "金晨孤注一掷被删戏份",
       "onboard_time": 1691748574,
       "rank": 25,
@@ -729,14 +745,6 @@
       "onboard_time": 1691757515,
       "rank": 39,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 602447,
-      "num": 602447,
-      "word": "别让父母一个人去医院",
-      "onboard_time": 1691759436,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 602117,
@@ -771,20 +779,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 573487,
+      "num": 564860,
+      "word": "何泓姗新剧意外扑倒董思成",
+      "onboard_time": 1691759136,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 569095,
       "num": 569095,
       "word": "货车爆胎一车生猪屁股都热红了",
       "onboard_time": 1691717913,
       "rank": 15,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 564860,
-      "num": 564860,
-      "word": "何泓姗新剧意外扑倒董思成",
-      "onboard_time": 1691759136,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 564286,
@@ -843,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 534266,
+      "num": 514399,
+      "word": "刘恋好迷人",
+      "onboard_time": 1691763461,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529442,
       "num": 529442,
       "word": "韩版想见你首支预告",
@@ -889,6 +905,22 @@
       "onboard_time": 1691730037,
       "rank": 25,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 517948,
+      "num": 517948,
+      "word": "调查显示医生月工资1600元起步",
+      "onboard_time": 1691758961,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 513613,
+      "num": 513613,
+      "word": "北理工宿舍分配统计mbti",
+      "onboard_time": 1691763101,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 500709,
@@ -987,14 +1019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 462757,
-      "num": 462757,
-      "word": "调查显示医生月工资1600元起步",
-      "onboard_time": 1691758961,
-      "rank": 24,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 461960,
       "num": 461960,
       "word": "玱玹激动得不会说话了",
@@ -1068,7 +1092,7 @@
     },
     {
       "raw_hot": 426863,
-      "num": 352862,
+      "num": 353039,
       "word": "鹿晗重启周五之约",
       "onboard_time": 1691759558,
       "rank": 44,
@@ -1123,6 +1147,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 394007,
+      "num": 394007,
+      "word": "盒马山姆商战杀疯了",
+      "onboard_time": 1691763820,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 393580,
       "num": 345074,
       "word": "大学生翻拍巴啦啦小魔仙",
@@ -1132,7 +1164,7 @@
     },
     {
       "raw_hot": 391597,
-      "num": 262433,
+      "num": 288151,
       "word": "爱分享生活的赵丽颖回来了",
       "onboard_time": 1691761061,
       "rank": 27,
@@ -1172,7 +1204,7 @@
     },
     {
       "raw_hot": 384764,
-      "num": 239966,
+      "num": 305515,
       "word": "这个8月流行三人合体",
       "onboard_time": 1691762563,
       "rank": 30,
@@ -1353,6 +1385,14 @@
       "onboard_time": 1691756256,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335555,
+      "num": 335555,
+      "word": "凯恩 抓马",
+      "onboard_time": 1691763281,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 329983,
@@ -1545,6 +1585,14 @@
       "onboard_time": 1691738978,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289041,
+      "num": 218590,
+      "word": "孤注一掷登顶暑期档很劲报",
+      "onboard_time": 1691763461,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 287817,
@@ -1779,6 +1827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257985,
+      "num": 257985,
+      "word": "女子弄丢150元向丈夫哭诉被暖心安慰",
+      "onboard_time": 1691760465,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257683,
       "num": 257683,
       "word": "万茜演的妈妈好窒息",
@@ -1883,20 +1939,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 241763,
+      "num": 215845,
+      "word": "以前追剧vs现在追剧",
+      "onboard_time": 1691764360,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240651,
       "num": 240651,
       "word": "钢铁侠蜘蛛侠来鹿晗演唱会了",
       "onboard_time": 1691756679,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 240130,
-      "num": 240130,
-      "word": "女子弄丢150元向丈夫哭诉被暖心安慰",
-      "onboard_time": 1691760465,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239154,
@@ -2475,20 +2531,20 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 160708,
+      "num": 215549,
+      "word": "利物浦 凯塞多",
+      "onboard_time": 1691763580,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158426,
       "num": 196056,
       "word": "黄曦彦练过2个月杨戬枪法",
       "onboard_time": 1691746901,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155152,
-      "num": 237498,
-      "word": "北理工宿舍分配统计mbti",
-      "onboard_time": 1691763101,
-      "rank": 39,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 153822,
@@ -2507,6 +2563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151145,
+      "num": 214872,
+      "word": "热心车队有条件免费救援车辆",
+      "onboard_time": 1691763879,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150491,
       "num": 182964,
       "word": "最靠谱的防晒霜",
@@ -2521,6 +2585,14 @@
       "onboard_time": 1691755655,
       "rank": 43,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 145605,
+      "num": 214215,
+      "word": "女骑手回应还手机被送秋天第一杯奶茶",
+      "onboard_time": 1691764126,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144893,
@@ -2851,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38005,
+      "num": 569084,
+      "word": "武警清淤消杀后衣服被汗水浸透",
+      "onboard_time": 1691762502,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32236,
       "num": 44189,
       "word": "I人不要和E人一起旅游",
@@ -2897,14 +2977,6 @@
       "onboard_time": 1691702593,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16873,
-      "num": 569084,
-      "word": "武警清淤消杀后衣服被汗水浸透",
-      "onboard_time": 1691762502,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
