@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691775232815,
+  "endTime": 1691778002977,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -12115,6 +12115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167359,
+      "num": 167359,
+      "word": "出道8年依旧适合可爱风的NCTDREAM",
+      "onboard_time": 1691776161,
+      "rank": 6,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 166836,
       "num": 166836,
       "word": "当代人不看武侠小说",
@@ -12625,6 +12633,14 @@
       "onboard_time": 1691673636,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136491,
+      "num": 100371,
+      "word": "你梦想中的荷官和现实中的荷官",
+      "onboard_time": 1691776280,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 136252,
@@ -13313,6 +13329,14 @@
       "onboard_time": 1691643637,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65032,
+      "num": 100367,
+      "word": "莲花楼原声配乐大碟已上线",
+      "onboard_time": 1691777837,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 64857,

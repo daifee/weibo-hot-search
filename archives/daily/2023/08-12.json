@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691775232815,
+  "endTime": 1691778002977,
   "band_list": [
     {
       "raw_hot": 1352754,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167359,
+      "num": 167359,
+      "word": "出道8年依旧适合可爱风的NCTDREAM",
+      "onboard_time": 1691776161,
+      "rank": 6,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 146507,
       "num": 221637,
       "word": "走路久了为什么脚会变黄",
@@ -409,6 +417,14 @@
       "onboard_time": 1691759436,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136491,
+      "num": 100371,
+      "word": "你梦想中的荷官和现实中的荷官",
+      "onboard_time": 1691776280,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 130844,
@@ -465,6 +481,14 @@
       "onboard_time": 1691774246,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 65032,
+      "num": 100367,
+      "word": "莲花楼原声配乐大碟已上线",
+      "onboard_time": 1691777837,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 36897,

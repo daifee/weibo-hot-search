@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/12 00:19:18 ~ 2023/08/12 01:33:52
+本榜单时间：2023/08/12 00:19:18 ~ 2023/08/12 02:20:02
 </p>
 </blockquote>
 <p>
@@ -309,6 +309,12 @@ liz再染金发（热度：246276）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E9%81%938%E5%B9%B4%E4%BE%9D%E6%97%A7%E9%80%82%E5%90%88%E5%8F%AF%E7%88%B1%E9%A3%8E%E7%9A%84NCTDREAM%23" target="weibo">
+出道8年依旧适合可爱风的NCTDREAM（热度：167359）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B0%E8%B7%AF%E4%B9%85%E4%BA%86%E4%B8%BA%E4%BB%80%E4%B9%88%E8%84%9A%E4%BC%9A%E5%8F%98%E9%BB%84%23" target="weibo">
 走路久了为什么脚会变黄（热度：146507）
 </a>
@@ -317,6 +323,12 @@ liz再染金发（热度：246276）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E7%88%B6%E6%AF%8D%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8E%BB%E5%8C%BB%E9%99%A2%23" target="weibo">
 别让父母一个人去医院（热度：139507）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%A2%A6%E6%83%B3%E4%B8%AD%E7%9A%84%E8%8D%B7%E5%AE%98%E5%92%8C%E7%8E%B0%E5%AE%9E%E4%B8%AD%E7%9A%84%E8%8D%B7%E5%AE%98%23" target="weibo">
+你梦想中的荷官和现实中的荷官（热度：136491）
 </a>
 </li>
 
@@ -359,6 +371,12 @@ Nova heart（热度：107860）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%9B%E7%8C%AB%E7%94%9F%E6%9D%A5%E5%B0%B1%E6%98%AF%E8%A6%81%E5%81%9A%E8%80%81%E6%9D%BF%E7%9A%84%23" target="weibo">
 有些猫生来就是要做老板的（热度：106480）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%8E%9F%E5%A3%B0%E9%85%8D%E4%B9%90%E5%A4%A7%E7%A2%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF%23" target="weibo">
+莲花楼原声配乐大碟已上线（热度：65032）
 </a>
 </li>
 
