@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691749031484,
+  "endTime": 1691750014579,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2195,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1573246,
+      "num": 1447559,
+      "word": "医药代表性贿赂医生",
+      "onboard_time": 1691734176,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1569919,
       "num": 821831,
       "word": "金星说周迅才叫演员国际章只是个明星",
@@ -2513,14 +2521,6 @@
       "onboard_time": 1691122477,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1447559,
-      "num": 1447559,
-      "word": "医药代表性贿赂医生",
-      "onboard_time": 1691734176,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1444805,
@@ -6499,6 +6499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 789688,
+      "num": 789688,
+      "word": "金晨荷官发牌",
+      "onboard_time": 1691747437,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 789523,
       "num": 789523,
       "word": "肖战顺毛白背心",
@@ -7443,14 +7451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 722852,
-      "num": 722852,
-      "word": "金晨荷官发牌",
-      "onboard_time": 1691747437,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 722659,
       "num": 722659,
       "word": "马立奥四岁父母仍在暧昧期",
@@ -7697,6 +7697,14 @@
       "onboard_time": 1691571279,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 704918,
+      "num": 704918,
+      "word": "碧桂园管理层致歉",
+      "onboard_time": 1691747796,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 704429,
@@ -7977,6 +7985,14 @@
       "onboard_time": 1691723070,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 678700,
+      "num": 678700,
+      "word": "周翊然一天官宣两部剧",
+      "onboard_time": 1691748158,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 678669,
@@ -8723,14 +8739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 622492,
-      "num": 622492,
-      "word": "碧桂园管理层致歉",
-      "onboard_time": 1691747796,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 621525,
       "num": 621525,
       "word": "堂堂大王姬为什么不能拥有4个男人",
@@ -8827,6 +8835,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 617319,
+      "num": 350027,
+      "word": "金晨孤注一掷被删戏份",
+      "onboard_time": 1691748574,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 617199,
       "num": 617199,
       "word": "檀健次和工作室都极爱相柳",
@@ -8913,6 +8929,14 @@
       "onboard_time": 1691023117,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614293,
+      "num": 1390520,
+      "word": "小狗进地铁蹭空调被安保耐心劝离",
+      "onboard_time": 1691741917,
+      "rank": 49,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 614149,
@@ -9417,14 +9441,6 @@
       "onboard_time": 1691032781,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 589071,
-      "num": 1390520,
-      "word": "小狗进地铁蹭空调被安保耐心劝离",
-      "onboard_time": 1691741917,
-      "rank": 49,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 588690,
@@ -12315,6 +12331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 459162,
+      "num": 459162,
+      "word": "高叶狂飙后首部电视剧",
+      "onboard_time": 1691749716,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 459090,
       "num": 357987,
       "word": "长相思一个饭桌7场戏",
@@ -13017,14 +13041,6 @@
       "onboard_time": 1691449764,
       "rank": 17,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 431842,
-      "num": 431842,
-      "word": "周翊然一天官宣两部剧",
-      "onboard_time": 1691748158,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 431662,
@@ -14835,6 +14851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373157,
+      "num": 373157,
+      "word": "魏无羡出品的代驾",
+      "onboard_time": 1691747796,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372572,
       "num": 372572,
       "word": "密逃再现范丞丞个人战名场面",
@@ -15289,14 +15313,6 @@
       "onboard_time": 1691192426,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 357389,
-      "num": 337211,
-      "word": "金晨孤注一掷被删戏份",
-      "onboard_time": 1691748574,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 357264,
@@ -16457,6 +16473,14 @@
       "onboard_time": 1691065533,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322465,
+      "num": 322465,
+      "word": "男孩进店叫醒午休老板没购物狂道歉",
+      "onboard_time": 1691748458,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322436,
@@ -19211,14 +19235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262359,
-      "num": 226115,
-      "word": "魏无羡出品的代驾",
-      "onboard_time": 1691747796,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 262252,
       "num": 262252,
       "word": "这下发量少的人有救了",
@@ -21835,6 +21851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215013,
+      "num": 215013,
+      "word": "时代少年团演唱会抢票",
+      "onboard_time": 1691749959,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215009,
       "num": 215009,
       "word": "热烈路演岳阳",
@@ -22273,6 +22297,14 @@
       "onboard_time": 1690880374,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208991,
+      "num": 191572,
+      "word": "魏大勋捧脸照",
+      "onboard_time": 1691749716,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 208955,
@@ -23163,6 +23195,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 199738,
+      "num": 308882,
+      "word": "大学生也开始用上电话手表了",
+      "onboard_time": 1691749656,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199234,
       "num": 199234,
       "word": "TTG甜甜糕转身预告",
@@ -24011,12 +24051,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191677,
+      "num": 196136,
+      "word": "GEN对战HLE",
+      "onboard_time": 1691746717,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191572,
       "num": 205672,
       "word": "宝贝合拍挑战",
       "onboard_time": 1691068656,
       "rank": 47,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 191523,
+      "num": 191523,
+      "word": "张杰帮你们把坏天气都踢走",
+      "onboard_time": 1691749296,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 191184,
@@ -24185,6 +24241,14 @@
       "onboard_time": 1691436135,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189283,
+      "num": 216197,
+      "word": "当你散步忘带小狗出门",
+      "onboard_time": 1691749536,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 189271,
@@ -25635,14 +25699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155099,
-      "num": 196136,
-      "word": "GEN对战HLE",
-      "onboard_time": 1691746717,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 154928,
       "num": 154928,
       "word": "暴雨洪灾中的守护者",
@@ -25915,7 +25971,7 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 144830,
+      "raw_hot": 144893,
       "num": 1386573,
       "word": "跳桥救人外卖小哥成亚运志愿者",
       "onboard_time": 1691747677,
@@ -26113,14 +26169,6 @@
       "onboard_time": 1691234676,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138545,
-      "num": 196101,
-      "word": "男孩进店叫醒午休老板没购物狂道歉",
-      "onboard_time": 1691748458,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138448,
@@ -27187,6 +27235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87647,
+      "num": 1095678,
+      "word": "98后白衣天使跪地20多分钟抢救昏迷老人",
+      "onboard_time": 1691748877,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87525,
       "num": 87525,
       "word": "马立奥玩游戏淘汰了三喜",
@@ -27417,6 +27473,14 @@
       "onboard_time": 1691377899,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71953,
+      "num": 614039,
+      "word": "84岁老人风雨无阻打卡图书馆30载",
+      "onboard_time": 1691748038,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71413,
@@ -27811,14 +27875,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 42491,
-      "num": 347279,
-      "word": "98后白衣天使跪地20多分钟抢救昏迷老人",
-      "onboard_time": 1691748877,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42292,
       "num": 75239,
       "word": "HAPPYMARKDAY",
@@ -27873,14 +27929,6 @@
       "onboard_time": 1691434817,
       "rank": 40,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 37688,
-      "num": 498655,
-      "word": "84岁老人风雨无阻打卡图书馆30载",
-      "onboard_time": 1691748038,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35508,
