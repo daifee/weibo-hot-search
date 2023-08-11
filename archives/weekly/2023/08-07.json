@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691734848948,
+  "endTime": 1691735618491,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -257,6 +257,14 @@
       "onboard_time": 1691472217,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2584287,
+      "num": 2584287,
+      "word": "新冠三阳的人开始陆续出现",
+      "onboard_time": 1691733156,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2535028,
@@ -531,14 +539,6 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 1893469,
-      "num": 1893469,
-      "word": "新冠三阳的人开始陆续出现",
-      "onboard_time": 1691733156,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1878396,
       "num": 820722,
       "word": "李飞和黄锐在台下belike",
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 1795183,
-      "num": 691400,
+      "num": 856533,
       "word": "男子要女孩微信被拒后对其爸爸动手",
       "onboard_time": 1691729561,
       "rank": 15,
@@ -1780,7 +1780,7 @@
     },
     {
       "raw_hot": 1089379,
-      "num": 594966,
+      "num": 1060816,
       "word": "向佐郭碧婷新电影",
       "onboard_time": 1691733156,
       "rank": 11,
@@ -2211,12 +2211,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 929009,
+      "num": 929009,
+      "word": "医药代表性贿赂医生",
+      "onboard_time": 1691734176,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 928983,
       "num": 888990,
       "word": "建议梅林这一段换个BGM",
       "onboard_time": 1691672796,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 921967,
+      "num": 921967,
+      "word": "韩国2万亿刺激生育为何失败了",
+      "onboard_time": 1691732254,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 916312,
@@ -2283,8 +2299,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 907829,
-      "num": 907829,
+      "raw_hot": 909093,
+      "num": 909093,
       "word": "发现了一个很爽的旅行方式",
       "onboard_time": 1691730397,
       "rank": 39,
@@ -2425,14 +2441,6 @@
       "onboard_time": 1691654674,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 860834,
-      "num": 860834,
-      "word": "韩国2万亿刺激生育为何失败了",
-      "onboard_time": 1691732254,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 859658,
@@ -2795,6 +2803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 782138,
+      "num": 782138,
+      "word": "檀健次说相柳这一生没有BE",
+      "onboard_time": 1691732733,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 781634,
       "num": 560721,
       "word": "千万别戴这种眼镜",
@@ -2961,14 +2977,6 @@
       "onboard_time": 1691594198,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 746481,
-      "num": 746481,
-      "word": "檀健次说相柳这一生没有BE",
-      "onboard_time": 1691732733,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 745656,
@@ -3289,6 +3297,14 @@
       "onboard_time": 1691332810,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 698117,
+      "num": 698117,
+      "word": "女工程师为出轨对象成为间谍17年",
+      "onboard_time": 1691734657,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 694957,
@@ -5811,14 +5827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 401670,
-      "num": 401670,
-      "word": "医药代表性贿赂医生",
-      "onboard_time": 1691734176,
-      "rank": 21,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 401370,
       "num": 401370,
       "word": "爱宝双胞胎幼崽睁眼了",
@@ -7009,6 +7017,14 @@
       "onboard_time": 1691574878,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315496,
+      "num": 315496,
+      "word": "你好星期六",
+      "onboard_time": 1691734476,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 315472,
@@ -8235,6 +8251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257683,
+      "num": 257683,
+      "word": "万茜演的妈妈好窒息",
+      "onboard_time": 1691733814,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257558,
       "num": 257558,
       "word": "小米王化回应用户倒卖门票",
@@ -8433,14 +8457,6 @@
       "onboard_time": 1691649575,
       "rank": 37,
       "category": "音乐,音乐"
-    },
-    {
-      "raw_hot": 248330,
-      "num": 248330,
-      "word": "女工程师为出轨对象成为间谍17年",
-      "onboard_time": 1691734657,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248295,
@@ -8705,14 +8721,6 @@
       "onboard_time": 1691351354,
       "rank": 34,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 235813,
-      "num": 235813,
-      "word": "你好星期六",
-      "onboard_time": 1691734476,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 235794,
@@ -9219,14 +9227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 217329,
-      "num": 192509,
-      "word": "万茜演的妈妈好窒息",
-      "onboard_time": 1691733814,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217233,
       "num": 217233,
       "word": "敖子逸蒋依依校园剧来真的啊",
@@ -9536,6 +9536,14 @@
       "word": "李莲花一招制敌角丽谯",
       "onboard_time": 1691389238,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207797,
+      "num": 162132,
+      "word": "张艺兴解读潘生价值观",
+      "onboard_time": 1691734836,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -10371,6 +10379,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 188381,
+      "num": 161815,
+      "word": "这才是莲花楼的结局",
+      "onboard_time": 1691735375,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187846,
       "num": 203084,
       "word": "正式确诊为互联网赶集人",
@@ -10931,14 +10947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157030,
-      "num": 157030,
-      "word": "张艺兴解读潘生价值观",
-      "onboard_time": 1691734836,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 157020,
       "num": 431117,
       "word": "小米将发布全新MIX折叠屏",
@@ -11395,6 +11403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120805,
+      "num": 157459,
+      "word": "因为发脾气爸爸的游戏搭子被罚站半小时",
+      "onboard_time": 1691734900,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120595,
       "num": 768403,
       "word": "兰蔻直播",
@@ -11531,20 +11547,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 104220,
+      "num": 154678,
+      "word": "厦门草船借箭式收集烧烤竹签",
+      "onboard_time": 1691734057,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103506,
       "num": 103506,
       "word": "胡夏张含韵Gemini梦幻组合",
       "onboard_time": 1691430979,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103301,
-      "num": 151034,
-      "word": "厦门草船借箭式收集烧烤竹签",
-      "onboard_time": 1691734057,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101893,

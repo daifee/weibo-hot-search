@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691734848948,
+  "endTime": 1691735618491,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -35,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2584287,
+      "num": 2584287,
+      "word": "新冠三阳的人开始陆续出现",
+      "onboard_time": 1691733156,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2354410,
       "num": 2354410,
       "word": "国安机关破获美国中央情报局间谍案",
@@ -51,16 +59,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1893469,
-      "num": 1893469,
-      "word": "新冠三阳的人开始陆续出现",
-      "onboard_time": 1691733156,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1795183,
-      "num": 691400,
+      "num": 856533,
       "word": "男子要女孩微信被拒后对其爸爸动手",
       "onboard_time": 1691729561,
       "rank": 15,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1089379,
-      "num": 594966,
+      "num": 1060816,
       "word": "向佐郭碧婷新电影",
       "onboard_time": 1691733156,
       "rank": 11,
@@ -235,8 +235,24 @@
       "category": "财经"
     },
     {
-      "raw_hot": 907829,
-      "num": 907829,
+      "raw_hot": 929009,
+      "num": 929009,
+      "word": "医药代表性贿赂医生",
+      "onboard_time": 1691734176,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 921967,
+      "num": 921967,
+      "word": "韩国2万亿刺激生育为何失败了",
+      "onboard_time": 1691732254,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 909093,
+      "num": 909093,
       "word": "发现了一个很爽的旅行方式",
       "onboard_time": 1691730397,
       "rank": 39,
@@ -265,14 +281,6 @@
       "onboard_time": 1691675679,
       "rank": 0,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 860834,
-      "num": 860834,
-      "word": "韩国2万亿刺激生育为何失败了",
-      "onboard_time": 1691732254,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 846486,
@@ -307,19 +315,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 782138,
+      "num": 782138,
+      "word": "檀健次说相柳这一生没有BE",
+      "onboard_time": 1691732733,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 751029,
       "num": 751029,
       "word": "灼灼风流定档",
       "onboard_time": 1691722171,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 746481,
-      "num": 746481,
-      "word": "檀健次说相柳这一生没有BE",
-      "onboard_time": 1691732733,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -385,6 +393,14 @@
       "onboard_time": 1691684490,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 698117,
+      "num": 698117,
+      "word": "女工程师为出轨对象成为间谍17年",
+      "onboard_time": 1691734657,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 678758,
@@ -595,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 401670,
-      "num": 401670,
-      "word": "医药代表性贿赂医生",
-      "onboard_time": 1691734176,
-      "rank": 21,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 401370,
       "num": 401370,
       "word": "爱宝双胞胎幼崽睁眼了",
@@ -753,6 +761,14 @@
       "onboard_time": 1691723790,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 315496,
+      "num": 315496,
+      "word": "你好星期六",
+      "onboard_time": 1691734476,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 311772,
@@ -987,6 +1003,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 257683,
+      "num": 257683,
+      "word": "万茜演的妈妈好窒息",
+      "onboard_time": 1691733814,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257507,
       "num": 257507,
       "word": "jiejie",
@@ -1017,14 +1041,6 @@
       "onboard_time": 1691720313,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 248330,
-      "num": 248330,
-      "word": "女工程师为出轨对象成为间谍17年",
-      "onboard_time": 1691734657,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244949,
@@ -1067,14 +1083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 235813,
-      "num": 235813,
-      "word": "你好星期六",
-      "onboard_time": 1691734476,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235648,
       "num": 210174,
       "word": "邓紫棋 薛之谦嘉宾",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1691678142,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217329,
-      "num": 192509,
-      "word": "万茜演的妈妈好窒息",
-      "onboard_time": 1691733814,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 215937,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1691723673,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207797,
+      "num": 162132,
+      "word": "张艺兴解读潘生价值观",
+      "onboard_time": 1691734836,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 207455,
@@ -1307,6 +1315,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 188381,
+      "num": 161815,
+      "word": "这才是莲花楼的结局",
+      "onboard_time": 1691735375,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186718,
       "num": 186718,
       "word": "绝地追击缉毒战士山洪遇难",
@@ -1403,14 +1419,6 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 157030,
-      "num": 157030,
-      "word": "张艺兴解读潘生价值观",
-      "onboard_time": 1691734836,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 150491,
       "num": 182964,
       "word": "最靠谱的防晒霜",
@@ -1475,6 +1483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120805,
+      "num": 157459,
+      "word": "因为发脾气爸爸的游戏搭子被罚站半小时",
+      "onboard_time": 1691734900,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117674,
       "num": 117674,
       "word": "于适蒋奇明 我的阿勒泰",
@@ -1507,8 +1523,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 103301,
-      "num": 151034,
+      "raw_hot": 104220,
+      "num": 154678,
       "word": "厦门草船借箭式收集烧烤竹签",
       "onboard_time": 1691734057,
       "rank": 49,
@@ -1587,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72218,
+      "num": 1774056,
+      "word": "我在国门一线",
+      "onboard_time": 1691734357,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60631,
       "num": 718565,
       "word": "紧急下达15.05亿元水利救灾资金",
@@ -1608,14 +1632,6 @@
       "word": "不愿看你们在洪水里手牵手",
       "onboard_time": 1691710046,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37227,
-      "num": 1774056,
-      "word": "我在国门一线",
-      "onboard_time": 1691734357,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
