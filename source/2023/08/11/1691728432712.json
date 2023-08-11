@@ -1,0 +1,410 @@
+{
+  "runTime": 1691728432712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3888568,
+        "num": 3888568,
+        "word": "缅甸柬埔寨来抢中国游客了",
+        "onboard_time": 1691724634,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1643134,
+        "num": 1643134,
+        "word": "唐嫣首部仙侠剧女主",
+        "onboard_time": 1691724153,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16679,
+        "num": 1517853,
+        "word": "亚运福利100多个景区公园免门票",
+        "onboard_time": 1691673273,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1480119,
+        "num": 1480119,
+        "word": "电影花千骨陈都灵赖美云演母女",
+        "onboard_time": 1691724815,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 846486,
+        "num": 846486,
+        "word": "男子胖到238斤5分钟大脑关机一次",
+        "onboard_time": 1691724454,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800967,
+        "num": 800967,
+        "word": "女孩考611分暑假为全村孩子讲功课",
+        "onboard_time": 1691721932,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 725576,
+        "num": 725576,
+        "word": "中式教育给中国孩子带来了什么",
+        "onboard_time": 1691726797,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 725439,
+        "num": 725439,
+        "word": "张晚意梅林戏份被删改",
+        "onboard_time": 1691718211,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 667168,
+        "num": 667168,
+        "word": "李玟二姐声明",
+        "onboard_time": 1691724512,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581580,
+        "num": 581580,
+        "word": "七时吉祥长相思共享爹爹",
+        "onboard_time": 1691725836,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234507,
+        "num": 581493,
+        "word": "原神喜茶好喝",
+        "onboard_time": 1691725114,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2865017,
+        "num": 581340,
+        "word": "于正 邓为",
+        "onboard_time": 1691726136,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1457635,
+        "num": 581080,
+        "word": "李湘看王诗龄的眼神",
+        "onboard_time": 1691711670,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447694,
+        "num": 580973,
+        "word": "河北暴雨洪水死亡29人",
+        "onboard_time": 1691720072,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360795,
+        "num": 580683,
+        "word": "国安机关破获美国中央情报局间谍案",
+        "onboard_time": 1691711067,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 580615,
+        "num": 580615,
+        "word": "母校竟成诈骗窝点",
+        "onboard_time": 1691727096,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 564419,
+        "num": 564419,
+        "word": "湘雅三院举报信内容值得玩味",
+        "onboard_time": 1691712873,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509731,
+        "num": 509731,
+        "word": "周冬雨刘昊然浴室戏",
+        "onboard_time": 1691728177,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470390,
+        "num": 470390,
+        "word": "原来上班摸鱼是有科学依据的",
+        "onboard_time": 1691723070,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 470322,
+        "num": 470322,
+        "word": "A股",
+        "onboard_time": 1691722832,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 426050,
+        "num": 426050,
+        "word": "唐嫣念无双或将换造型重拍",
+        "onboard_time": 1691726498,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413927,
+        "num": 413927,
+        "word": "五月天成都",
+        "onboard_time": 1691723373,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 368686,
+        "num": 368686,
+        "word": "爱宝双胞胎幼崽睁眼了",
+        "onboard_time": 1691724874,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366450,
+        "num": 366450,
+        "word": "恒大地产已资不抵债",
+        "onboard_time": 1691717554,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 356921,
+        "num": 356921,
+        "word": "比起催婚的亲戚真的很暖心了",
+        "onboard_time": 1691725358,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 336922,
+        "num": 336922,
+        "word": "韩版想见你首支预告",
+        "onboard_time": 1691722112,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320303,
+        "num": 320303,
+        "word": "灼灼风流定档",
+        "onboard_time": 1691722171,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311482,
+        "num": 311482,
+        "word": "念无双官宣",
+        "onboard_time": 1691721632,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306297,
+        "num": 306297,
+        "word": "刘诗诗星光鎏金裙",
+        "onboard_time": 1691723790,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 278177,
+        "num": 278177,
+        "word": "床就是人类的无线充电器",
+        "onboard_time": 1691720371,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287817,
+        "num": 275134,
+        "word": "周翊然皇子造型",
+        "onboard_time": 1691727460,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267439,
+        "num": 267439,
+        "word": "下班后微信办公算加班吗",
+        "onboard_time": 1691712394,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 256317,
+        "num": 256317,
+        "word": "租房真的要好好看合同",
+        "onboard_time": 1691726737,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243629,
+        "num": 243629,
+        "word": "花千骨",
+        "onboard_time": 1691728238,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242414,
+        "num": 242414,
+        "word": "骗子不骗用卡通头像的人",
+        "onboard_time": 1691710888,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238805,
+        "num": 238805,
+        "word": "于适胸肌夹话筒",
+        "onboard_time": 1691718452,
+        "rank": 35,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 229144,
+        "num": 229144,
+        "word": "碧桂园提出四大自救措施",
+        "onboard_time": 1691711551,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 214022,
+        "num": 214022,
+        "word": "货车爆胎一车生猪屁股都热红了",
+        "onboard_time": 1691717913,
+        "rank": 37,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 204479,
+        "num": 204479,
+        "word": "导游带团游故宫4小时全程倒着走",
+        "onboard_time": 1691716592,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 196217,
+        "num": 196217,
+        "word": "李莲花 爱似流星",
+        "onboard_time": 1691719891,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191615,
+        "num": 191615,
+        "word": "新加坡外长因未打领带向王毅道歉",
+        "onboard_time": 1691728177,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185703,
+        "num": 185703,
+        "word": "薛之谦北京演唱会",
+        "onboard_time": 1691725054,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183018,
+        "num": 183018,
+        "word": "秦海璐刘涛友情",
+        "onboard_time": 1691720313,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179274,
+        "num": 183015,
+        "word": "相柳你就真的这么爱吗",
+        "onboard_time": 1691717314,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177076,
+        "num": 183007,
+        "word": "乐队的夏天",
+        "onboard_time": 1691722052,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172070,
+        "num": 182996,
+        "word": "燃冬",
+        "onboard_time": 1691726376,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163156,
+        "num": 182978,
+        "word": "张学友成都演唱会官宣",
+        "onboard_time": 1691722771,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153445,
+        "num": 182976,
+        "word": "胡一天保你胡一天",
+        "onboard_time": 1691718032,
+        "rank": 47,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 150491,
+        "num": 182964,
+        "word": "最靠谱的防晒霜",
+        "onboard_time": 1691724993,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 149680,
+        "num": 182952,
+        "word": "跑步真的可能会暴富",
+        "onboard_time": 1691713895,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#分秒必争空降输电铁塔超硬核#"
+    }
+  }
+}
