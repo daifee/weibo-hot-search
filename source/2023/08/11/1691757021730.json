@@ -1,0 +1,410 @@
+{
+  "runTime": 1691757021730,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1500531,
+        "num": 1500531,
+        "word": "高叶狂飙后首部电视剧",
+        "onboard_time": 1691749716,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1097038,
+        "num": 1097038,
+        "word": "王鹤棣终于演了西装暴徒",
+        "onboard_time": 1691744380,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54761,
+        "num": 1028446,
+        "word": "大戏看北京",
+        "onboard_time": 1691755295,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988018,
+        "num": 988018,
+        "word": "大爷高铁上戴耳机喝白酒全程安静",
+        "onboard_time": 1691753196,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929455,
+        "num": 929455,
+        "word": "女工程师为出轨对象成为间谍17年",
+        "onboard_time": 1691734657,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664331,
+        "num": 664331,
+        "word": "林俊杰演唱会抢票",
+        "onboard_time": 1691751576,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 615952,
+        "num": 615952,
+        "word": "和天秤座相处要多一点耐心",
+        "onboard_time": 1691754934,
+        "rank": 6,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 557612,
+        "num": 557612,
+        "word": "赵丽颖到底在过哪个季节",
+        "onboard_time": 1691743717,
+        "rank": 7,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 518753,
+        "num": 518753,
+        "word": "浙江今年出了名女飞行学员",
+        "onboard_time": 1691752055,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479426,
+        "num": 479426,
+        "word": "李莲花特别厉害",
+        "onboard_time": 1691754756,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1390426,
+        "num": 466173,
+        "word": "中国已成为全球生育率最低的国家之一",
+        "onboard_time": 1691755055,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837077,
+        "num": 461698,
+        "word": "医药代表性贿赂医生",
+        "onboard_time": 1691734176,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 451228,
+        "num": 451228,
+        "word": "长相思",
+        "onboard_time": 1691751097,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154385,
+        "num": 440673,
+        "word": "雷军建议大家少刷手机",
+        "onboard_time": 1691740536,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 98451,
+        "num": 436845,
+        "word": "女孩疑被诱骗跑进加油站求助逃脱",
+        "onboard_time": 1691755234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433871,
+        "num": 433871,
+        "word": "赵丽颖回应在过哪个季节",
+        "onboard_time": 1691750317,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412180,
+        "num": 412180,
+        "word": "有些照片截一下就好看了",
+        "onboard_time": 1691750138,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405012,
+        "num": 405012,
+        "word": "妲己用一句话让太子破防",
+        "onboard_time": 1691755295,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404318,
+        "num": 404318,
+        "word": "华为上半年销售收入3109亿元",
+        "onboard_time": 1691752176,
+        "rank": 18,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 389284,
+        "num": 389284,
+        "word": "鹿晗武汉演唱会",
+        "onboard_time": 1691756315,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 663479,
+        "num": 388052,
+        "word": "新冠三阳的人开始陆续出现",
+        "onboard_time": 1691733156,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384239,
+        "num": 384239,
+        "word": "周翊然一天官宣两部剧",
+        "onboard_time": 1691748158,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346967,
+        "num": 346967,
+        "word": "杨紫从来不用假发套",
+        "onboard_time": 1691745760,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345410,
+        "num": 345410,
+        "word": "哈登郭艾伦单挑",
+        "onboard_time": 1691753618,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330939,
+        "num": 330939,
+        "word": "毛不易回复张晚意",
+        "onboard_time": 1691750435,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294343,
+        "num": 294343,
+        "word": "陈赫 等邓超开场呢",
+        "onboard_time": 1691756436,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281593,
+        "num": 281593,
+        "word": "中餐厅",
+        "onboard_time": 1691755713,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261457,
+        "num": 261457,
+        "word": "假如长相思弹幕有声音",
+        "onboard_time": 1691754035,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236507,
+        "num": 261283,
+        "word": "长沙一小区给业主发60万元现金",
+        "onboard_time": 1691751695,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210434,
+        "num": 261252,
+        "word": "在自习室被留了纸条",
+        "onboard_time": 1691753914,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 261238,
+        "num": 261238,
+        "word": "金晨孤注一掷被删戏份",
+        "onboard_time": 1691748574,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247567,
+        "num": 247567,
+        "word": "七时吉祥",
+        "onboard_time": 1691752476,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245442,
+        "num": 245442,
+        "word": "魏无羡出品的代驾",
+        "onboard_time": 1691747796,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234476,
+        "num": 234476,
+        "word": "Lisa行程",
+        "onboard_time": 1691756679,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207926,
+        "num": 233144,
+        "word": "把西瓜皮吃成透明的也是技术",
+        "onboard_time": 1691751996,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232996,
+        "num": 232996,
+        "word": "于正 邓为",
+        "onboard_time": 1691726136,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223825,
+        "num": 223825,
+        "word": "活死人嘉宾GNZ48",
+        "onboard_time": 1691754875,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181340,
+        "num": 223229,
+        "word": "小狗进地铁蹭空调被安保耐心劝离",
+        "onboard_time": 1691741917,
+        "rank": 37,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 168106,
+        "num": 222981,
+        "word": "碧桂园管理层致歉",
+        "onboard_time": 1691747796,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151573,
+        "num": 222958,
+        "word": "KPL",
+        "onboard_time": 1691754156,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222941,
+        "num": 222941,
+        "word": "檀健次直播",
+        "onboard_time": 1691736034,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208439,
+        "num": 208439,
+        "word": "鹿晗银白狼奔",
+        "onboard_time": 1691756857,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197407,
+        "num": 208428,
+        "word": "Lisa穿比基尼好辣",
+        "onboard_time": 1691738556,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150491,
+        "num": 208406,
+        "word": "泡泡收益分配表",
+        "onboard_time": 1691755655,
+        "rank": 43,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 194132,
+        "num": 208401,
+        "word": "玱玹眼神",
+        "onboard_time": 1691750975,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145518,
+        "num": 208378,
+        "word": "谭爷爷说花花本来就比以前长得白了",
+        "onboard_time": 1691756792,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139070,
+        "num": 208352,
+        "word": "大学生也开始用上电话手表了",
+        "onboard_time": 1691749656,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134363,
+        "num": 208342,
+        "word": "男孩进店叫醒午休老板没购物狂道歉",
+        "onboard_time": 1691748458,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132065,
+        "num": 208321,
+        "word": "多名医保局长被调查",
+        "onboard_time": 1691756256,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114627,
+        "num": 208301,
+        "word": "当你散步忘带小狗出门",
+        "onboard_time": 1691749536,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#调查研究永远在路上#"
+    }
+  }
+}

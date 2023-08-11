@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691753621781,
+  "endTime": 1691757021730,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1390426,
+      "num": 466173,
+      "word": "中国已成为全球生育率最低的国家之一",
+      "onboard_time": 1691755055,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1265299,
       "num": 1265299,
       "word": "清洁工被碾身亡案司机获国家赔偿",
@@ -288,6 +296,14 @@
       "word": "新加坡外长因未打领带向王毅道歉",
       "onboard_time": 1691728177,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 988018,
+      "num": 988018,
+      "word": "大爷高铁上戴耳机喝白酒全程安静",
+      "onboard_time": 1691753196,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -563,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664331,
+      "num": 664331,
+      "word": "林俊杰演唱会抢票",
+      "onboard_time": 1691751576,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 655239,
       "num": 655239,
       "word": "种地吧导演组开拍前把所有农活干了一遍",
@@ -593,6 +617,14 @@
       "onboard_time": 1691748574,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 615952,
+      "num": 615952,
+      "word": "和天秤座相处要多一点耐心",
+      "onboard_time": 1691754934,
+      "rank": 6,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 614293,
@@ -715,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518753,
+      "num": 644735,
+      "word": "浙江今年出了名女飞行学员",
+      "onboard_time": 1691752055,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518486,
       "num": 518486,
       "word": "1000万人都收到了丁禹兮发的猪",
@@ -769,6 +809,14 @@
       "onboard_time": 1691713055,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479426,
+      "num": 479426,
+      "word": "李莲花特别厉害",
+      "onboard_time": 1691754756,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 475337,
@@ -827,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 451228,
+      "num": 451228,
+      "word": "长相思",
+      "onboard_time": 1691663193,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 450394,
       "num": 450394,
       "word": "李向哲公布无犯罪记录证明",
@@ -875,12 +931,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411593,
-      "num": 411593,
-      "word": "长相思",
-      "onboard_time": 1691663193,
-      "rank": 45,
+      "raw_hot": 405012,
+      "num": 405012,
+      "word": "妲己用一句话让太子破防",
+      "onboard_time": 1691755295,
+      "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404318,
+      "num": 404318,
+      "word": "华为上半年销售收入3109亿元",
+      "onboard_time": 1691752176,
+      "rank": 45,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 401370,
@@ -905,6 +969,14 @@
       "onboard_time": 1691728897,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389284,
+      "num": 389284,
+      "word": "鹿晗武汉演唱会",
+      "onboard_time": 1691756315,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 386668,
@@ -995,14 +1067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 358068,
-      "num": 644735,
-      "word": "浙江今年出了名女飞行学员",
-      "onboard_time": 1691752055,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356921,
       "num": 356921,
       "word": "比起催婚的亲戚真的很暖心了",
@@ -1049,6 +1113,14 @@
       "onboard_time": 1691710888,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 345410,
+      "num": 345410,
+      "word": "哈登郭艾伦单挑",
+      "onboard_time": 1691753618,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 341171,
@@ -1187,14 +1259,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 296723,
-      "num": 296723,
-      "word": "华为上半年销售收入3109亿元",
-      "onboard_time": 1691752176,
-      "rank": 45,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 295318,
       "num": 295318,
       "word": "导游日薪上千为何还紧缺",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1691649622,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 294343,
+      "num": 294343,
+      "word": "陈赫 等邓超开场呢",
+      "onboard_time": 1691756436,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 293656,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1691718093,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281593,
+      "num": 281593,
+      "word": "中餐厅",
+      "onboard_time": 1691755713,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 281168,
@@ -1427,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261457,
+      "num": 261457,
+      "word": "假如长相思弹幕有声音",
+      "onboard_time": 1691754035,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260849,
       "num": 260849,
       "word": "我惩罚讨厌司机的方式",
@@ -1507,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247567,
+      "num": 247567,
+      "word": "七时吉祥",
+      "onboard_time": 1691752476,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247405,
       "num": 227172,
       "word": "夭柳党想看什么自己剪",
@@ -1529,14 +1625,6 @@
       "onboard_time": 1691715156,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243822,
-      "num": 241257,
-      "word": "林俊杰演唱会抢票",
-      "onboard_time": 1691751576,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 242710,
@@ -1595,6 +1683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 234476,
+      "num": 234476,
+      "word": "Lisa行程",
+      "onboard_time": 1691756679,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227094,
       "num": 227094,
       "word": "19岁男生送外卖撞车被家人骂去死",
@@ -1603,20 +1699,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226439,
-      "num": 226439,
-      "word": "七时吉祥",
-      "onboard_time": 1691752476,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223946,
       "num": 223946,
       "word": "从此以后每天都是好日子",
       "onboard_time": 1691682097,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 223825,
+      "num": 223825,
+      "word": "活死人嘉宾GNZ48",
+      "onboard_time": 1691754875,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 220195,
@@ -1683,6 +1779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210434,
+      "num": 261252,
+      "word": "在自习室被留了纸条",
+      "onboard_time": 1691753914,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 210129,
       "num": 197855,
       "word": "黄曦彦剧透封神姜文焕没有死",
@@ -1699,8 +1803,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208439,
+      "num": 208439,
+      "word": "鹿晗银白狼奔",
+      "onboard_time": 1691756857,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208375,
-      "num": 232010,
+      "num": 233144,
       "word": "把西瓜皮吃成透明的也是技术",
       "onboard_time": 1691751996,
       "rank": 39,
@@ -2099,6 +2211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151573,
+      "num": 222958,
+      "word": "KPL",
+      "onboard_time": 1691754156,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150491,
       "num": 182964,
       "word": "最靠谱的防晒霜",
@@ -2107,11 +2227,19 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 145564,
-      "num": 205719,
-      "word": "大爷高铁上戴耳机喝白酒全程安静",
-      "onboard_time": 1691753196,
-      "rank": 46,
+      "raw_hot": 150491,
+      "num": 208406,
+      "word": "泡泡收益分配表",
+      "onboard_time": 1691755655,
+      "rank": 43,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 145518,
+      "num": 208378,
+      "word": "谭爷爷说花花本来就比以前长得白了",
+      "onboard_time": 1691756792,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2179,6 +2307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 132065,
+      "num": 208321,
+      "word": "多名医保局长被调查",
+      "onboard_time": 1691756256,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127754,
       "num": 122365,
       "word": "李莲花偷偷开锁时的表情",
@@ -2241,6 +2377,14 @@
       "onboard_time": 1691730995,
       "rank": 27,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 98451,
+      "num": 436845,
+      "word": "女孩疑被诱骗跑进加油站求助逃脱",
+      "onboard_time": 1691755234,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92786,
@@ -2361,6 +2505,14 @@
       "onboard_time": 1691700974,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 54761,
+      "num": 1028446,
+      "word": "大戏看北京",
+      "onboard_time": 1691755295,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47107,

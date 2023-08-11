@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691753621781,
+  "endTime": 1691757021730,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -1267,6 +1267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1390426,
+      "num": 466173,
+      "word": "中国已成为全球生育率最低的国家之一",
+      "onboard_time": 1691755055,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1389360,
       "num": 1048822,
       "word": "TFBOYS演唱会带动4.16亿旅游收入",
@@ -2121,6 +2129,14 @@
       "onboard_time": 1691572118,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 988018,
+      "num": 988018,
+      "word": "大爷高铁上戴耳机喝白酒全程安静",
+      "onboard_time": 1691753196,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 986354,
@@ -3611,6 +3627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 664331,
+      "num": 664331,
+      "word": "林俊杰演唱会抢票",
+      "onboard_time": 1691751576,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 664143,
       "num": 509630,
       "word": "苍兰诀再登顶爱奇艺热度榜",
@@ -3921,6 +3945,14 @@
       "onboard_time": 1691382343,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615952,
+      "num": 615952,
+      "word": "和天秤座相处要多一点耐心",
+      "onboard_time": 1691754934,
+      "rank": 6,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 615908,
@@ -4867,6 +4899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518753,
+      "num": 644735,
+      "word": "浙江今年出了名女飞行学员",
+      "onboard_time": 1691752055,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518486,
       "num": 518486,
       "word": "1000万人都收到了丁禹兮发的猪",
@@ -5224,6 +5264,14 @@
       "word": "相柳为什么变卑微了",
       "onboard_time": 1691552977,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 479426,
+      "num": 479426,
+      "word": "李莲花特别厉害",
+      "onboard_time": 1691754756,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -6067,6 +6115,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 405012,
+      "num": 405012,
+      "word": "妲己用一句话让太子破防",
+      "onboard_time": 1691755295,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 404318,
+      "num": 404318,
+      "word": "华为上半年销售收入3109亿元",
+      "onboard_time": 1691752176,
+      "rank": 45,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 404269,
       "num": 1606629,
       "word": "小朋友在医院角落一口气跳舞2小时",
@@ -6297,6 +6361,14 @@
       "onboard_time": 1691477075,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 389284,
+      "num": 389284,
+      "word": "鹿晗武汉演唱会",
+      "onboard_time": 1691381503,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 388760,
@@ -6739,14 +6811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358068,
-      "num": 644735,
-      "word": "浙江今年出了名女飞行学员",
-      "onboard_time": 1691752055,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356921,
       "num": 356921,
       "word": "比起催婚的亲戚真的很暖心了",
@@ -6929,6 +6993,14 @@
       "onboard_time": 1691710888,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 345410,
+      "num": 345410,
+      "word": "哈登郭艾伦单挑",
+      "onboard_time": 1691753618,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 345395,
@@ -7747,14 +7819,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 296723,
-      "num": 296723,
-      "word": "华为上半年销售收入3109亿元",
-      "onboard_time": 1691752176,
-      "rank": 45,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 296522,
       "num": 249388,
       "word": "大肚娃娃是相柳对小夭的一往情深",
@@ -7841,6 +7905,14 @@
       "onboard_time": 1691393317,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294343,
+      "num": 294343,
+      "word": "陈赫 等邓超开场呢",
+      "onboard_time": 1691756436,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 294105,
@@ -8003,14 +8075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287993,
-      "num": 246729,
-      "word": "鹿晗武汉演唱会",
-      "onboard_time": 1691381503,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 287817,
       "num": 275134,
       "word": "周翊然皇子造型",
@@ -8129,6 +8193,14 @@
       "onboard_time": 1691575653,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281593,
+      "num": 281593,
+      "word": "中餐厅",
+      "onboard_time": 1691755713,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 281392,
@@ -8611,6 +8683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261457,
+      "num": 261457,
+      "word": "假如长相思弹幕有声音",
+      "onboard_time": 1691754035,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261235,
       "num": 261235,
       "word": "长相思哈基米随主人",
@@ -9027,14 +9107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243822,
-      "num": 241257,
-      "word": "林俊杰演唱会抢票",
-      "onboard_time": 1691751576,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 243507,
       "num": 243507,
       "word": "TangoZ重新定义CityWalk",
@@ -9273,6 +9345,14 @@
       "onboard_time": 1691725114,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 234476,
+      "num": 234476,
+      "word": "Lisa行程",
+      "onboard_time": 1691756679,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 233486,
@@ -9529,6 +9609,14 @@
       "onboard_time": 1691682097,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 223825,
+      "num": 223825,
+      "word": "活死人嘉宾GNZ48",
+      "onboard_time": 1691754875,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 223392,
@@ -9931,6 +10019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210434,
+      "num": 261252,
+      "word": "在自习室被留了纸条",
+      "onboard_time": 1691753914,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 210380,
       "num": 210380,
       "word": "TTG甜甜糕星元",
@@ -10011,6 +10107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208439,
+      "num": 208439,
+      "word": "鹿晗银白狼奔",
+      "onboard_time": 1691756857,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208437,
       "num": 208437,
       "word": "开启KPL逐梦回忆",
@@ -10020,7 +10124,7 @@
     },
     {
       "raw_hot": 208375,
-      "num": 232010,
+      "num": 233144,
       "word": "把西瓜皮吃成透明的也是技术",
       "onboard_time": 1691751996,
       "rank": 39,
@@ -11667,6 +11771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151573,
+      "num": 222958,
+      "word": "KPL",
+      "onboard_time": 1691754156,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150733,
       "num": 150733,
       "word": "网友的鞋是相柳变的",
@@ -11681,6 +11793,14 @@
       "onboard_time": 1691724993,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 150491,
+      "num": 208406,
+      "word": "泡泡收益分配表",
+      "onboard_time": 1691755655,
+      "rank": 43,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 150280,
@@ -11731,11 +11851,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145564,
-      "num": 205719,
-      "word": "大爷高铁上戴耳机喝白酒全程安静",
-      "onboard_time": 1691753196,
-      "rank": 46,
+      "raw_hot": 145518,
+      "num": 208378,
+      "word": "谭爷爷说花花本来就比以前长得白了",
+      "onboard_time": 1691756792,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -11953,6 +12073,14 @@
       "onboard_time": 1691411313,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132065,
+      "num": 208321,
+      "word": "多名医保局长被调查",
+      "onboard_time": 1691756256,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132034,
@@ -12265,6 +12393,14 @@
       "onboard_time": 1691356453,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98451,
+      "num": 436845,
+      "word": "女孩疑被诱骗跑进加油站求助逃脱",
+      "onboard_time": 1691755234,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94318,
@@ -12649,6 +12785,14 @@
       "onboard_time": 1691517019,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 54761,
+      "num": 1028446,
+      "word": "大戏看北京",
+      "onboard_time": 1691755295,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53953,
