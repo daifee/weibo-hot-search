@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691710426131,
+  "endTime": 1691716088209,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -187,6 +187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2766015,
+      "num": 606413,
+      "word": "李湘看王诗龄的眼神",
+      "onboard_time": 1691711670,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2760758,
       "num": 2760758,
       "word": "杨洋韩立",
@@ -249,6 +257,14 @@
       "onboard_time": 1691498802,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2354410,
+      "num": 2354410,
+      "word": "国安机关破获美国中央情报局间谍案",
+      "onboard_time": 1691711067,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2343334,
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 1731425,
-      "num": 532092,
+      "num": 603454,
       "word": "为什么会有月经同步现象",
       "onboard_time": 1691680838,
       "rank": 31,
@@ -745,6 +761,14 @@
       "onboard_time": 1691641597,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1619987,
+      "num": 604241,
+      "word": "湘雅三院举报信内容值得玩味",
+      "onboard_time": 1691712873,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1618786,
@@ -1251,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1265299,
+      "num": 1265299,
+      "word": "清洁工被碾身亡案司机获国家赔偿",
+      "onboard_time": 1691711972,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1264572,
       "num": 455422,
       "word": "易烊千玺究竟被吓到多少次",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1691643037,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1150828,
+      "num": 1150828,
+      "word": "警方通报280斤店员被打拒不还手",
+      "onboard_time": 1691712394,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1147938,
@@ -2179,6 +2219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 875385,
+      "num": 875385,
+      "word": "暑期档最佳男主角",
+      "onboard_time": 1691711850,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 871640,
       "num": 871640,
       "word": "周杰伦也没想到这是菊花台",
@@ -2265,6 +2313,14 @@
       "onboard_time": 1691556884,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 843533,
+      "num": 843533,
+      "word": "杨玏封神演技",
+      "onboard_time": 1691714254,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 843504,
@@ -2659,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756593,
+      "num": 756593,
+      "word": "下班后微信办公算加班吗",
+      "onboard_time": 1691712394,
+      "rank": 6,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 755746,
       "num": 718269,
       "word": "日本电梯真的很适合i人生存",
@@ -2719,6 +2783,14 @@
       "num": 743098,
       "word": "女子给婴儿哺乳被阻空乘称起飞时不可进食",
       "onboard_time": 1691626233,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741185,
+      "num": 741185,
+      "word": "幸亏过路女司机凌晨多看了两眼",
+      "onboard_time": 1691712995,
       "rank": 7,
       "category": "社会新闻"
     },
@@ -2801,6 +2873,14 @@
       "onboard_time": 1691410416,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 728746,
+      "num": 728746,
+      "word": "碧桂园提出四大自救措施",
+      "onboard_time": 1691711551,
+      "rank": 8,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 727550,
@@ -4251,6 +4331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521061,
+      "num": 521061,
+      "word": "跑步真的可能会暴富",
+      "onboard_time": 1691713895,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 520958,
       "num": 520958,
       "word": "BLACKPINK练习生旧照",
@@ -4420,7 +4508,7 @@
     },
     {
       "raw_hot": 493959,
-      "num": 312583,
+      "num": 395392,
       "word": "柳岩怎么瘦了这么多",
       "onboard_time": 1691681561,
       "rank": 44,
@@ -4563,12 +4651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481161,
+      "num": 481161,
+      "word": "小夭番外",
+      "onboard_time": 1691713235,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480793,
       "num": 480793,
       "word": "河南回应近百亿灾后重建资金出问题",
       "onboard_time": 1691508877,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 480676,
+      "num": 480676,
+      "word": "吉林黑龙江暴雨",
+      "onboard_time": 1691713055,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479831,
@@ -5899,6 +6003,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 362506,
+      "num": 362506,
+      "word": "建议学校都按照这个标准来分配宿舍",
+      "onboard_time": 1691712394,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 360739,
       "num": 226772,
       "word": "邓为说不麻烦",
@@ -6097,6 +6209,14 @@
       "onboard_time": 1691672255,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345499,
+      "num": 345499,
+      "word": "骗子不骗用卡通头像的人",
+      "onboard_time": 1691710888,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 345395,
@@ -7139,6 +7259,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 279448,
+      "num": 279448,
+      "word": "卡努今夜进入辽宁或者消散",
+      "onboard_time": 1691714135,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278877,
       "num": 203992,
       "word": "成毅的破万舞什么时候跳",
@@ -7225,6 +7353,14 @@
       "onboard_time": 1691568519,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273195,
+      "num": 273195,
+      "word": "于适晒蓉宝",
+      "onboard_time": 1691712394,
+      "rank": 25,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 272654,
@@ -7739,6 +7875,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 245511,
+      "num": 245511,
+      "word": "我惩罚讨厌司机的方式",
+      "onboard_time": 1691713656,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 245313,
       "num": 245313,
       "word": "我穿潮牌就是这样子的",
@@ -7753,6 +7897,14 @@
       "onboard_time": 1691626833,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 244949,
+      "num": 244949,
+      "word": "小夭并非靠别人幸存",
+      "onboard_time": 1691715156,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 244337,
@@ -8915,6 +9067,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202738,
+      "num": 202738,
+      "word": "张艺兴阿拉丁神兴来了",
+      "onboard_time": 1691712213,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 202357,
+      "num": 202357,
+      "word": "不同姿势对脊柱的压力",
+      "onboard_time": 1691714735,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202253,
       "num": 678848,
       "word": "夫妻俩义务上门帮失能老人洗澡",
@@ -9083,6 +9251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 198390,
+      "num": 198390,
+      "word": "Ravi和Nafla被判刑",
+      "onboard_time": 1691710589,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197875,
       "num": 201717,
       "word": "爱合 别侮辱我的Lisa",
@@ -9124,7 +9300,7 @@
     },
     {
       "raw_hot": 197179,
-      "num": 153935,
+      "num": 196047,
       "word": "Jennie机场",
       "onboard_time": 1691708785,
       "rank": 32,
@@ -9475,6 +9651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188384,
+      "num": 188384,
+      "word": "第一次见这么炸裂的旅行打卡",
+      "onboard_time": 1691715156,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 187846,
       "num": 203084,
       "word": "正式确诊为互联网赶集人",
@@ -9497,6 +9681,14 @@
       "onboard_time": 1691664635,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186047,
+      "num": 186047,
+      "word": "海绵女孩这个拥抱父亲等了21年",
+      "onboard_time": 1691715873,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185812,
@@ -9649,6 +9841,14 @@
       "onboard_time": 1691492018,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180861,
+      "num": 180861,
+      "word": "大爷含泪说三大纪律八项注意都传下来了",
+      "onboard_time": 1691712812,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179973,
@@ -9968,6 +10168,14 @@
       "word": "张艺兴最喜欢的小怪兽",
       "onboard_time": 1691541097,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 157675,
+      "num": 157675,
+      "word": "考古封神质子姜文焕",
+      "onboard_time": 1691715815,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -10587,6 +10795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92786,
+      "num": 1169409,
+      "word": "亚运福利100多个景区公园免门票",
+      "onboard_time": 1691673273,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91752,
       "num": 150900,
       "word": "婚宴随完礼打包一桌菜",
@@ -10865,14 +11081,6 @@
       "onboard_time": 1691468800,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57975,
-      "num": 614874,
-      "word": "亚运福利100多个景区公园免门票",
-      "onboard_time": 1691673273,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 57903,
