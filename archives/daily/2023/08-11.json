@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691717296027,
+  "endTime": 1691719166304,
   "band_list": [
     {
       "raw_hot": 2766015,
@@ -35,6 +35,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1654701,
+      "num": 1654701,
+      "word": "下班后微信办公算加班吗",
+      "onboard_time": 1691712394,
+      "rank": 6,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1430421,
       "num": 717543,
       "word": "梅林殉情",
@@ -67,14 +75,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1132213,
-      "num": 1132213,
-      "word": "下班后微信办公算加班吗",
-      "onboard_time": 1691712394,
-      "rank": 6,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 1016648,
       "num": 717018,
       "word": "吴倩离婚后真是人间清醒",
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 961361,
-      "num": 242042,
+      "num": 263534,
       "word": "邓为演技差点意思",
       "onboard_time": 1691670034,
       "rank": 30,
@@ -121,6 +121,22 @@
       "onboard_time": 1691714254,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 803273,
+      "num": 458678,
+      "word": "导游带团游故宫4小时全程倒着走",
+      "onboard_time": 1691716592,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 743353,
+      "num": 743353,
+      "word": "跑步真的可能会暴富",
+      "onboard_time": 1691713895,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 741185,
@@ -163,18 +179,26 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 686646,
-      "num": 686646,
-      "word": "跑步真的可能会暴富",
-      "onboard_time": 1691713895,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 641706,
       "num": 641706,
       "word": "长相思观众好卷",
       "onboard_time": 1691681137,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 579831,
+      "num": 579831,
+      "word": "恒大地产已资不抵债",
+      "onboard_time": 1691717554,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 549105,
+      "num": 549105,
+      "word": "张晚意梅林戏份被删改",
+      "onboard_time": 1691718211,
       "rank": 6,
       "category": "影视"
     },
@@ -259,12 +283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 396347,
-      "num": 213219,
-      "word": "导游带团游故宫4小时全程倒着走",
-      "onboard_time": 1691716592,
-      "rank": 30,
-      "category": "旅游,社会新闻"
+      "raw_hot": 459926,
+      "num": 428617,
+      "word": "货车爆胎一车生猪屁股都热红了",
+      "onboard_time": 1691717913,
+      "rank": 15,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 386668,
@@ -331,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311772,
+      "num": 311772,
+      "word": "发现间谍行为拨打12339",
+      "onboard_time": 1691716894,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 311311,
       "num": 311311,
       "word": "虞书欣落款隔壁的仙子小兰花",
@@ -361,6 +393,22 @@
       "onboard_time": 1691656774,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287691,
+      "num": 287691,
+      "word": "胡一天保你胡一天",
+      "onboard_time": 1691718032,
+      "rank": 21,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 285984,
+      "num": 285984,
+      "word": "佘诗曼新片现代版农夫与蛇",
+      "onboard_time": 1691717492,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 283669,
@@ -395,12 +443,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276347,
+      "num": 276347,
+      "word": "相柳你就真的这么爱吗",
+      "onboard_time": 1691717314,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273195,
       "num": 273195,
       "word": "于适晒蓉宝",
       "onboard_time": 1691712394,
       "rank": 25,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 269944,
+      "num": 269944,
+      "word": "官方回应女子与镇干部夜泳溺亡",
+      "onboard_time": 1691718093,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264494,
+      "num": 264494,
+      "word": "一路朝阳定档",
+      "onboard_time": 1691718093,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 260849,
@@ -411,12 +483,44 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 259973,
+      "num": 259973,
+      "word": "原神",
+      "onboard_time": 1691717252,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 259375,
+      "num": 259375,
+      "word": "孤注一掷主创跳小熊舞",
+      "onboard_time": 1691718513,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259371,
       "num": 223308,
       "word": "董璇都演婆婆了",
       "onboard_time": 1691678799,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259041,
+      "num": 259041,
+      "word": "李向哲公布无犯罪记录证明",
+      "onboard_time": 1691718693,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258087,
+      "num": 258087,
+      "word": "灯神的心脏",
+      "onboard_time": 1691716772,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 257507,
@@ -441,6 +545,14 @@
       "onboard_time": 1691715156,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 237399,
+      "num": 237399,
+      "word": "于适胸肌夹话筒",
+      "onboard_time": 1691718452,
+      "rank": 38,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 237288,
@@ -523,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202950,
-      "num": 202950,
-      "word": "灯神的心脏",
-      "onboard_time": 1691716772,
-      "rank": 32,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 202738,
       "num": 202738,
       "word": "张艺兴阿拉丁神兴来了",
@@ -552,14 +656,6 @@
       "word": "国家安全机关对曾某某采取强制措施",
       "onboard_time": 1691717132,
       "rank": 34,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 200294,
-      "num": 200294,
-      "word": "发现间谍行为拨打12339",
-      "onboard_time": 1691716894,
-      "rank": 35,
       "category": "国内要闻"
     },
     {
@@ -595,20 +691,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195318,
+      "num": 195318,
+      "word": "赵雅芝再现白娘子施法手势",
+      "onboard_time": 1691716954,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194513,
       "num": 194513,
       "word": "高三的我记录每一支笔的死因",
       "onboard_time": 1691677119,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192123,
-      "num": 189920,
-      "word": "赵雅芝再现白娘子施法手势",
-      "onboard_time": 1691716954,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 190156,
@@ -625,6 +721,14 @@
       "onboard_time": 1691715156,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 181744,
+      "num": 181744,
+      "word": "机器人救回3名海上遇险游客",
+      "onboard_time": 1691717852,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 180861,
@@ -665,14 +769,6 @@
       "onboard_time": 1691682757,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 154935,
-      "num": 154935,
-      "word": "原神",
-      "onboard_time": 1691717252,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 142885,

@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691717296027,
+  "endTime": 1691719166304,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -713,6 +713,14 @@
       "onboard_time": 1691538392,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1654701,
+      "num": 1654701,
+      "word": "下班后微信办公算加班吗",
+      "onboard_time": 1691712394,
+      "rank": 6,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1654246,
@@ -1569,14 +1577,6 @@
       "onboard_time": 1691557179,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1132213,
-      "num": 1132213,
-      "word": "下班后微信办公算加班吗",
-      "onboard_time": 1691712394,
-      "rank": 6,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1126193,
@@ -2539,6 +2539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 803273,
+      "num": 458678,
+      "word": "导游带团游故宫4小时全程倒着走",
+      "onboard_time": 1691716592,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 800909,
       "num": 448859,
       "word": "杨幂唐嫣TFBOYS早期视频",
@@ -2777,6 +2785,14 @@
       "onboard_time": 1691625632,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 743353,
+      "num": 743353,
+      "word": "跑步真的可能会暴富",
+      "onboard_time": 1691713895,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 743098,
@@ -3097,14 +3113,6 @@
       "onboard_time": 1691404596,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 686646,
-      "num": 686646,
-      "word": "跑步真的可能会暴富",
-      "onboard_time": 1691713895,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 684363,
@@ -3883,6 +3891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 579831,
+      "num": 579831,
+      "word": "恒大地产已资不抵债",
+      "onboard_time": 1691717554,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 575400,
       "num": 396736,
       "word": "现在这么流行水下接吻吗",
@@ -4089,6 +4105,14 @@
       "onboard_time": 1691468078,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 549105,
+      "num": 549105,
+      "word": "张晚意梅林戏份被删改",
+      "onboard_time": 1691718211,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 548813,
@@ -4875,6 +4899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 459926,
+      "num": 428617,
+      "word": "货车爆胎一车生猪屁股都热红了",
+      "onboard_time": 1691717913,
+      "rank": 15,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 458923,
       "num": 416444,
       "word": "大汉赋",
@@ -5609,14 +5641,6 @@
       "onboard_time": 1691629117,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 396347,
-      "num": 213219,
-      "word": "导游带团游故宫4小时全程倒着走",
-      "onboard_time": 1691716592,
-      "rank": 30,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 396296,
@@ -6667,6 +6691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311772,
+      "num": 311772,
+      "word": "发现间谍行为拨打12339",
+      "onboard_time": 1691716894,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 311311,
       "num": 311311,
       "word": "虞书欣落款隔壁的仙子小兰花",
@@ -7139,6 +7171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287691,
+      "num": 287691,
+      "word": "胡一天保你胡一天",
+      "onboard_time": 1691718032,
+      "rank": 21,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 287595,
       "num": 281646,
       "word": "莲花楼结局是HE还是BE",
@@ -7153,6 +7193,14 @@
       "onboard_time": 1691581775,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285984,
+      "num": 285984,
+      "word": "佘诗曼新片现代版农夫与蛇",
+      "onboard_time": 1691717492,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 285659,
@@ -7315,6 +7363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276347,
+      "num": 276347,
+      "word": "相柳你就真的这么爱吗",
+      "onboard_time": 1691717314,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276265,
       "num": 272964,
       "word": "吴宣仪新剧撕开心机女真面目",
@@ -7435,6 +7491,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 269944,
+      "num": 269944,
+      "word": "官方回应女子与镇干部夜泳溺亡",
+      "onboard_time": 1691718093,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269572,
       "num": 269572,
       "word": "中兴通讯",
@@ -7521,6 +7585,14 @@
       "onboard_time": 1691457934,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264494,
+      "num": 264494,
+      "word": "一路朝阳定档",
+      "onboard_time": 1691718093,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 264422,
@@ -7651,6 +7723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259973,
+      "num": 259973,
+      "word": "原神",
+      "onboard_time": 1691717252,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 259375,
+      "num": 259375,
+      "word": "孤注一掷主创跳小熊舞",
+      "onboard_time": 1691718513,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259269,
       "num": 282445,
       "word": "中国海警公布依法处置菲船只视频",
@@ -7667,12 +7755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259041,
+      "num": 259041,
+      "word": "李向哲公布无犯罪记录证明",
+      "onboard_time": 1691718693,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258230,
       "num": 329606,
       "word": "线下榜一大姐直接上台打赏演员",
       "onboard_time": 1691580695,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258087,
+      "num": 258087,
+      "word": "灯神的心脏",
+      "onboard_time": 1691716772,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 258045,
@@ -8073,6 +8177,14 @@
       "onboard_time": 1691481039,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 237399,
+      "num": 237399,
+      "word": "于适胸肌夹话筒",
+      "onboard_time": 1691718452,
+      "rank": 38,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 237288,
@@ -9099,14 +9211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202950,
-      "num": 202950,
-      "word": "灯神的心脏",
-      "onboard_time": 1691716772,
-      "rank": 32,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 202738,
       "num": 202738,
       "word": "张艺兴阿拉丁神兴来了",
@@ -9217,14 +9321,6 @@
       "onboard_time": 1691475278,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200294,
-      "num": 200294,
-      "word": "发现间谍行为拨打12339",
-      "onboard_time": 1691716894,
-      "rank": 35,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 200078,
@@ -9427,6 +9523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195318,
+      "num": 195318,
+      "word": "赵雅芝再现白娘子施法手势",
+      "onboard_time": 1691716954,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194963,
       "num": 236458,
       "word": "为李莲花流泪",
@@ -9553,14 +9657,6 @@
       "onboard_time": 1691636912,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 192123,
-      "num": 189920,
-      "word": "赵雅芝再现白娘子施法手势",
-      "onboard_time": 1691716954,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 192069,
@@ -9881,6 +9977,14 @@
       "onboard_time": 1691454035,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181744,
+      "num": 181744,
+      "word": "机器人救回3名海上遇险游客",
+      "onboard_time": 1691717852,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 181613,
@@ -10249,14 +10353,6 @@
       "onboard_time": 1691564974,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154935,
-      "num": 154935,
-      "word": "原神",
-      "onboard_time": 1691717252,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 154928,
