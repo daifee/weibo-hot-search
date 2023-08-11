@@ -1,0 +1,410 @@
+{
+  "runTime": 1691732024773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2075752,
+        "num": 2075752,
+        "word": "周深演唱会票价",
+        "onboard_time": 1691729918,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1438695,
+        "num": 1438695,
+        "word": "Faker遭到谋杀通知",
+        "onboard_time": 1691730338,
+        "rank": 1,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 13196,
+        "num": 971681,
+        "word": "亚运福利100多个景区公园免门票",
+        "onboard_time": 1691673273,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2647870,
+        "num": 963346,
+        "word": "周冬雨刘昊然浴室戏",
+        "onboard_time": 1691728177,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2396227,
+        "num": 949751,
+        "word": "缅甸柬埔寨来抢中国游客了",
+        "onboard_time": 1691724634,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911747,
+        "num": 911747,
+        "word": "电影花千骨陈都灵赖美云演母女",
+        "onboard_time": 1691724815,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 789545,
+        "num": 789545,
+        "word": "唐嫣首部仙侠剧女主",
+        "onboard_time": 1691724153,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 728231,
+        "num": 728231,
+        "word": "怦然心动20岁 恋综天花板",
+        "onboard_time": 1691729317,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535374,
+        "num": 723556,
+        "word": "中式教育给中国孩子带来了什么",
+        "onboard_time": 1691726797,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 462148,
+        "num": 706884,
+        "word": "男子胖到238斤5分钟大脑关机一次",
+        "onboard_time": 1691724454,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140482,
+        "num": 693205,
+        "word": "今天谁抢到原神喜茶了",
+        "onboard_time": 1691730279,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1276059,
+        "num": 691400,
+        "word": "男子要女孩微信被拒后对其爸爸动手",
+        "onboard_time": 1691729561,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994972,
+        "num": 669846,
+        "word": "新加坡外长因未打领带向王毅道歉",
+        "onboard_time": 1691728177,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208332,
+        "num": 657255,
+        "word": "河北暴雨洪水死亡29人",
+        "onboard_time": 1691720072,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203118,
+        "num": 645466,
+        "word": "国安机关破获美国中央情报局间谍案",
+        "onboard_time": 1691711067,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 957308,
+        "num": 642446,
+        "word": "李湘看王诗龄的眼神",
+        "onboard_time": 1691711670,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632299,
+        "num": 632299,
+        "word": "母校竟成诈骗窝点",
+        "onboard_time": 1691727096,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 597384,
+        "num": 597384,
+        "word": "杨紫邓为梅林原声现场",
+        "onboard_time": 1691729617,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518486,
+        "num": 518486,
+        "word": "1000万人都收到了丁禹兮发的猪",
+        "onboard_time": 1691730037,
+        "rank": 18,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 556125,
+        "num": 510507,
+        "word": "原来我嗑的不是夭柳",
+        "onboard_time": 1691729079,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2134563,
+        "num": 509788,
+        "word": "于正 邓为",
+        "onboard_time": 1691726136,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477680,
+        "num": 477680,
+        "word": "发现了一个很爽的旅行方式",
+        "onboard_time": 1691730397,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 469890,
+        "num": 469890,
+        "word": "花千骨",
+        "onboard_time": 1691728238,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388147,
+        "num": 388147,
+        "word": "女孩考611分暑假为全村孩子讲功课",
+        "onboard_time": 1691721932,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 368380,
+        "num": 368380,
+        "word": "湘雅三院举报信内容值得玩味",
+        "onboard_time": 1691712873,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380576,
+        "num": 360101,
+        "word": "张晚意梅林戏份被删改",
+        "onboard_time": 1691718211,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345074,
+        "num": 345074,
+        "word": "大学生翻拍巴啦啦小魔仙",
+        "onboard_time": 1691728897,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111082,
+        "num": 317945,
+        "word": "雷军说不用非进大厂",
+        "onboard_time": 1691730995,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 310327,
+        "num": 310327,
+        "word": "郭晓婷鲛人泪妆",
+        "onboard_time": 1691728541,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 295318,
+        "num": 295318,
+        "word": "导游日薪上千为何还紧缺",
+        "onboard_time": 1691729438,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365529,
+        "num": 291820,
+        "word": "于适不拍戏就在家复习是吧",
+        "onboard_time": 1691731236,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300669,
+        "num": 286503,
+        "word": "李玟二姐声明",
+        "onboard_time": 1691724512,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258267,
+        "num": 258267,
+        "word": "唐嫣念无双或将换造型重拍",
+        "onboard_time": 1691726498,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249801,
+        "num": 249801,
+        "word": "A股",
+        "onboard_time": 1691722832,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245246,
+        "num": 245246,
+        "word": "七时吉祥长相思共享爹爹",
+        "onboard_time": 1691725836,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239154,
+        "num": 239154,
+        "word": "孤注一掷",
+        "onboard_time": 1691731059,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234833,
+        "num": 234833,
+        "word": "这手是吃了多少打印机",
+        "onboard_time": 1691728721,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222452,
+        "num": 222452,
+        "word": "爱宝双胞胎幼崽睁眼了",
+        "onboard_time": 1691724874,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212457,
+        "num": 219062,
+        "word": "比起催婚的亲戚真的很暖心了",
+        "onboard_time": 1691725358,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 210034,
+        "num": 217538,
+        "word": "恒大地产已资不抵债",
+        "onboard_time": 1691717554,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230133,
+        "num": 217482,
+        "word": "景甜你人还怪好的嘞",
+        "onboard_time": 1691729498,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216492,
+        "num": 216492,
+        "word": "周翊然皇子造型",
+        "onboard_time": 1691727460,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215937,
+        "num": 215937,
+        "word": "何泓姗两部剧定档",
+        "onboard_time": 1691731717,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211670,
+        "num": 211670,
+        "word": "汪苏泷被李雪琴吐槽三寻宝藏",
+        "onboard_time": 1691731418,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209975,
+        "num": 209975,
+        "word": "租房真的要好好看合同",
+        "onboard_time": 1691726737,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196127,
+        "num": 209970,
+        "word": "五月天成都",
+        "onboard_time": 1691723373,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189218,
+        "num": 209958,
+        "word": "医疗反腐重创了谁",
+        "onboard_time": 1691731597,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160817,
+        "num": 209951,
+        "word": "投资90多亿的医院突然申请注销",
+        "onboard_time": 1691731717,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 146524,
+        "num": 209945,
+        "word": "骗子不骗用卡通头像的人",
+        "onboard_time": 1691710888,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128137,
+        "num": 209931,
+        "word": "下班后微信办公算加班吗",
+        "onboard_time": 1691712394,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#调查研究永远在路上#"
+    }
+  }
+}

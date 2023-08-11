@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691730924353,
+  "endTime": 1691732024773,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -20,14 +20,14 @@
     },
     {
       "raw_hot": 2766015,
-      "num": 619815,
+      "num": 642446,
       "word": "李湘看王诗龄的眼神",
       "onboard_time": 1691711670,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 2627854,
+      "raw_hot": 2647870,
       "num": 1115702,
       "word": "周冬雨刘昊然浴室戏",
       "onboard_time": 1691728177,
@@ -41,6 +41,14 @@
       "onboard_time": 1691711067,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2075752,
+      "num": 2075752,
+      "word": "周深演唱会票价",
+      "onboard_time": 1691729918,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1738822,
@@ -99,12 +107,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1438695,
+      "num": 1438695,
+      "word": "Faker遭到谋杀通知",
+      "onboard_time": 1691730338,
+      "rank": 8,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 1430421,
       "num": 717543,
       "word": "梅林殉情",
       "onboard_time": 1691664214,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1276059,
+      "num": 691400,
+      "word": "男子要女孩微信被拒后对其爸爸动手",
+      "onboard_time": 1691729561,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1265299,
@@ -129,14 +153,6 @@
       "onboard_time": 1691708722,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1156959,
-      "num": 1156959,
-      "word": "周深演唱会票价",
-      "onboard_time": 1691729918,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1150828,
@@ -169,6 +185,14 @@
       "onboard_time": 1691723373,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 994972,
+      "num": 669846,
+      "word": "新加坡外长因未打领带向王毅道歉",
+      "onboard_time": 1691728177,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 961361,
@@ -243,14 +267,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 807697,
-      "num": 237340,
-      "word": "新加坡外长因未打领带向王毅道歉",
-      "onboard_time": 1691728177,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 802295,
       "num": 802295,
       "word": "母校竟成诈骗窝点",
@@ -291,6 +307,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 728231,
+      "num": 728231,
+      "word": "怦然心动20岁 恋综天花板",
+      "onboard_time": 1691729317,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 726495,
       "num": 726495,
       "word": "改一下涂山璟的台词吧",
@@ -315,28 +339,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 707301,
-      "num": 547485,
-      "word": "怦然心动20岁 恋综天花板",
-      "onboard_time": 1691729317,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 698983,
       "num": 698983,
       "word": "谭爷爷说花花不是洗白的",
       "onboard_time": 1691684490,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 690519,
-      "num": 528444,
-      "word": "男子要女孩微信被拒后对其爸爸动手",
-      "onboard_time": 1691729561,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 678758,
@@ -371,20 +379,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 597384,
+      "num": 597384,
+      "word": "杨紫邓为梅林原声现场",
+      "onboard_time": 1691729617,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 581580,
       "num": 581580,
       "word": "七时吉祥长相思共享爹爹",
       "onboard_time": 1691725836,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 574439,
-      "num": 574439,
-      "word": "Faker遭到谋杀通知",
-      "onboard_time": 1691730338,
-      "rank": 8,
-      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 569095,
@@ -401,6 +409,14 @@
       "onboard_time": 1691720371,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 556125,
+      "num": 527963,
+      "word": "原来我嗑的不是夭柳",
+      "onboard_time": 1691729079,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 553961,
@@ -428,18 +444,10 @@
     },
     {
       "raw_hot": 528749,
-      "num": 364636,
+      "num": 469890,
       "word": "花千骨",
       "onboard_time": 1691728238,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 527963,
-      "num": 527963,
-      "word": "原来我嗑的不是夭柳",
-      "onboard_time": 1691729079,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -457,6 +465,14 @@
       "onboard_time": 1691678383,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 518486,
+      "num": 518486,
+      "word": "1000万人都收到了丁禹兮发的猪",
+      "onboard_time": 1691730037,
+      "rank": 25,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 493959,
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477680,
+      "num": 477680,
+      "word": "发现了一个很爽的旅行方式",
+      "onboard_time": 1691730397,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 475337,
       "num": 475337,
       "word": "檀健次是懂缓解焦虑的",
@@ -505,14 +529,6 @@
       "onboard_time": 1691674477,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 465485,
-      "num": 338252,
-      "word": "杨紫邓为梅林原声现场",
-      "onboard_time": 1691729617,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 461960,
@@ -539,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 409926,
-      "num": 273482,
-      "word": "1000万人都收到了丁禹兮发的猪",
-      "onboard_time": 1691730037,
-      "rank": 25,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 401370,
       "num": 401370,
       "word": "爱宝双胞胎幼崽睁眼了",
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 393580,
-      "num": 271835,
+      "num": 345074,
       "word": "大学生翻拍巴啦啦小魔仙",
       "onboard_time": 1691728897,
       "rank": 27,
@@ -611,6 +619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 365529,
+      "num": 291820,
+      "word": "于适不拍戏就在家复习是吧",
+      "onboard_time": 1691731236,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363818,
       "num": 363818,
       "word": "阿杰 声线变了更多是表演范畴",
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 348650,
-      "num": 235758,
+      "num": 310327,
       "word": "郭晓婷鲛人泪妆",
       "onboard_time": 1691728541,
       "rank": 32,
@@ -699,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295318,
+      "num": 295318,
+      "word": "导游日薪上千为何还紧缺",
+      "onboard_time": 1691729438,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294432,
       "num": 356682,
       "word": "儿子手机上的支付宝存了15万",
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 290245,
-      "num": 230779,
+      "num": 234833,
       "word": "这手是吃了多少打印机",
       "onboard_time": 1691728721,
       "rank": 36,
@@ -827,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269870,
-      "num": 269870,
-      "word": "导游日薪上千为何还紧缺",
-      "onboard_time": 1691729438,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267546,
       "num": 230657,
       "word": "景甜你人还怪好的嘞",
@@ -939,6 +955,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 239154,
+      "num": 239154,
+      "word": "孤注一掷",
+      "onboard_time": 1691731059,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237288,
       "num": 210848,
       "word": "莲花楼女性角色刻画",
@@ -963,14 +987,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 227177,
-      "num": 227177,
-      "word": "发现了一个很爽的旅行方式",
-      "onboard_time": 1691730397,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 227094,
       "num": 227094,
       "word": "19岁男生送外卖撞车被家人骂去死",
@@ -993,6 +1009,14 @@
       "onboard_time": 1691678142,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215937,
+      "num": 215937,
+      "word": "何泓姗两部剧定档",
+      "onboard_time": 1691731717,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 215128,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1691674174,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211670,
+      "num": 211670,
+      "word": "汪苏泷被李雪琴吐槽三寻宝藏",
+      "onboard_time": 1691731418,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 210496,
@@ -1155,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189218,
+      "num": 209958,
+      "word": "医疗反腐重创了谁",
+      "onboard_time": 1691731597,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188384,
       "num": 188384,
       "word": "第一次见这么炸裂的旅行打卡",
@@ -1204,7 +1244,7 @@
     },
     {
       "raw_hot": 178944,
-      "num": 233900,
+      "num": 693205,
       "word": "今天谁抢到原神喜茶了",
       "onboard_time": 1691730279,
       "rank": 34,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1691722890,
       "rank": 48,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 160817,
+      "num": 209951,
+      "word": "投资90多亿的医院突然申请注销",
+      "onboard_time": 1691731717,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 150491,
@@ -1345,6 +1393,14 @@
       "onboard_time": 1691710285,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 111082,
+      "num": 317945,
+      "word": "雷军说不用非进大厂",
+      "onboard_time": 1691730995,
+      "rank": 27,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 92786,
