@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691732024773,
+  "endTime": 1691734848948,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2647870,
-      "num": 1115702,
+      "num": 1691917,
       "word": "周冬雨刘昊然浴室戏",
       "onboard_time": 1691728177,
       "rank": 17,
@@ -49,6 +49,22 @@
       "onboard_time": 1691729918,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1893469,
+      "num": 1893469,
+      "word": "新冠三阳的人开始陆续出现",
+      "onboard_time": 1691733156,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1795183,
+      "num": 691400,
+      "word": "男子要女孩微信被拒后对其爸爸动手",
+      "onboard_time": 1691729561,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1738822,
@@ -123,14 +139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1276059,
-      "num": 691400,
-      "word": "男子要女孩微信被拒后对其爸爸动手",
-      "onboard_time": 1691729561,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1265299,
       "num": 1265299,
       "word": "清洁工被碾身亡案司机获国家赔偿",
@@ -161,6 +169,14 @@
       "onboard_time": 1691712394,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1089379,
+      "num": 594966,
+      "word": "向佐郭碧婷新电影",
+      "onboard_time": 1691733156,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1044493,
@@ -219,6 +235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 907829,
+      "num": 907829,
+      "word": "发现了一个很爽的旅行方式",
+      "onboard_time": 1691730397,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 887005,
       "num": 887005,
       "word": "为解绑支付宝民警帮办45张证明",
@@ -241,6 +265,14 @@
       "onboard_time": 1691675679,
       "rank": 0,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 860834,
+      "num": 860834,
+      "word": "韩国2万亿刺激生育为何失败了",
+      "onboard_time": 1691732254,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 846486,
@@ -280,6 +312,14 @@
       "word": "灼灼风流定档",
       "onboard_time": 1691722171,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 746481,
+      "num": 746481,
+      "word": "檀健次说相柳这一生没有BE",
+      "onboard_time": 1691732733,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -499,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477680,
-      "num": 477680,
-      "word": "发现了一个很爽的旅行方式",
-      "onboard_time": 1691730397,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 475337,
       "num": 475337,
       "word": "檀健次是懂缓解焦虑的",
@@ -555,12 +587,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417805,
+      "num": 417805,
+      "word": "任泉街头蒙面直播",
+      "onboard_time": 1691733037,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 401670,
+      "num": 401670,
+      "word": "医药代表性贿赂医生",
+      "onboard_time": 1691734176,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 401370,
       "num": 401370,
       "word": "爱宝双胞胎幼崽睁眼了",
       "onboard_time": 1691724874,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399483,
+      "num": 466677,
+      "word": "投资90多亿的医院突然申请注销",
+      "onboard_time": 1691731717,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 393580,
@@ -601,6 +657,14 @@
       "onboard_time": 1691666737,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 383923,
+      "num": 383923,
+      "word": "警方回应醉酒18岁女生疑被性侵",
+      "onboard_time": 1691732796,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382610,
@@ -649,6 +713,14 @@
       "onboard_time": 1691683594,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350133,
+      "num": 350133,
+      "word": "成毅打语音电话挥手再见",
+      "onboard_time": 1691732856,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 348650,
@@ -875,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261892,
+      "num": 261892,
+      "word": "汪苏泷被李雪琴吐槽三寻宝藏",
+      "onboard_time": 1691731418,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260849,
       "num": 260849,
       "word": "我惩罚讨厌司机的方式",
@@ -939,12 +1019,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248330,
+      "num": 248330,
+      "word": "女工程师为出轨对象成为间谍17年",
+      "onboard_time": 1691734657,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244949,
       "num": 244949,
       "word": "小夭并非靠别人幸存",
       "onboard_time": 1691715156,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242710,
+      "num": 242710,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1691732139,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 242056,
@@ -969,6 +1065,14 @@
       "onboard_time": 1691682396,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235813,
+      "num": 235813,
+      "word": "你好星期六",
+      "onboard_time": 1691734476,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 235648,
@@ -1011,6 +1115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217329,
+      "num": 192509,
+      "word": "万茜演的妈妈好窒息",
+      "onboard_time": 1691733814,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215937,
       "num": 215937,
       "word": "何泓姗两部剧定档",
@@ -1049,14 +1161,6 @@
       "onboard_time": 1691674174,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211670,
-      "num": 211670,
-      "word": "汪苏泷被李雪琴吐槽三寻宝藏",
-      "onboard_time": 1691731418,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 210496,
@@ -1299,12 +1403,12 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 160817,
-      "num": 209951,
-      "word": "投资90多亿的医院突然申请注销",
-      "onboard_time": 1691731717,
-      "rank": 47,
-      "category": "社会新闻,财经"
+      "raw_hot": 157030,
+      "num": 157030,
+      "word": "张艺兴解读潘生价值观",
+      "onboard_time": 1691734836,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 150491,
@@ -1403,6 +1507,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 103301,
+      "num": 151034,
+      "word": "厦门草船借箭式收集烧烤竹签",
+      "onboard_time": 1691734057,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92786,
       "num": 1517853,
       "word": "亚运福利100多个景区公园免门票",
@@ -1496,6 +1608,14 @@
       "word": "不愿看你们在洪水里手牵手",
       "onboard_time": 1691710046,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37227,
+      "num": 1774056,
+      "word": "我在国门一线",
+      "onboard_time": 1691734357,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1691734848948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1893469,
+        "num": 1893469,
+        "word": "新冠三阳的人开始陆续出现",
+        "onboard_time": 1691733156,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1881315,
+        "num": 1881315,
+        "word": "周深演唱会票价",
+        "onboard_time": 1691729918,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37227,
+        "num": 1774056,
+        "word": "我在国门一线",
+        "onboard_time": 1691734357,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1916902,
+        "num": 1754151,
+        "word": "缅甸柬埔寨来抢中国游客了",
+        "onboard_time": 1691724634,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1691917,
+        "num": 1691917,
+        "word": "周冬雨刘昊然浴室戏",
+        "onboard_time": 1691728177,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1201993,
+        "num": 1201993,
+        "word": "Faker遭到谋杀通知",
+        "onboard_time": 1691730338,
+        "rank": 5,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 907829,
+        "num": 907829,
+        "word": "发现了一个很爽的旅行方式",
+        "onboard_time": 1691730397,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 860834,
+        "num": 860834,
+        "word": "韩国2万亿刺激生育为何失败了",
+        "onboard_time": 1691732254,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746481,
+        "num": 746481,
+        "word": "檀健次说相柳这一生没有BE",
+        "onboard_time": 1691732733,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 600709,
+        "num": 600709,
+        "word": "新加坡外长因未打领带向王毅道歉",
+        "onboard_time": 1691728177,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1795183,
+        "num": 596252,
+        "word": "男子要女孩微信被拒后对其爸爸动手",
+        "onboard_time": 1691729561,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089379,
+        "num": 594966,
+        "word": "向佐郭碧婷新电影",
+        "onboard_time": 1691733156,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588125,
+        "num": 588125,
+        "word": "李湘看王诗龄的眼神",
+        "onboard_time": 1691711670,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468251,
+        "num": 468251,
+        "word": "怦然心动20岁 恋综天花板",
+        "onboard_time": 1691729317,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399483,
+        "num": 466677,
+        "word": "投资90多亿的医院突然申请注销",
+        "onboard_time": 1691731717,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 465470,
+        "num": 465470,
+        "word": "电影花千骨陈都灵赖美云演母女",
+        "onboard_time": 1691724815,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453777,
+        "num": 453777,
+        "word": "杨紫邓为梅林原声现场",
+        "onboard_time": 1691729617,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428803,
+        "num": 428803,
+        "word": "1000万人都收到了丁禹兮发的猪",
+        "onboard_time": 1691730037,
+        "rank": 17,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 117888,
+        "num": 418575,
+        "word": "国安机关破获美国中央情报局间谍案",
+        "onboard_time": 1691711067,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 417805,
+        "num": 417805,
+        "word": "任泉街头蒙面直播",
+        "onboard_time": 1691733037,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1287835,
+        "num": 411041,
+        "word": "于正 邓为",
+        "onboard_time": 1691726136,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401670,
+        "num": 401670,
+        "word": "医药代表性贿赂医生",
+        "onboard_time": 1691734176,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 397705,
+        "num": 397705,
+        "word": "唐嫣首部仙侠剧女主",
+        "onboard_time": 1691724153,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383923,
+        "num": 383923,
+        "word": "警方回应醉酒18岁女生疑被性侵",
+        "onboard_time": 1691732796,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314000,
+        "num": 367123,
+        "word": "A股",
+        "onboard_time": 1691722832,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 358502,
+        "num": 358502,
+        "word": "原来我嗑的不是夭柳",
+        "onboard_time": 1691729079,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350133,
+        "num": 350133,
+        "word": "成毅打语音电话挥手再见",
+        "onboard_time": 1691732856,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338254,
+        "num": 338254,
+        "word": "花千骨",
+        "onboard_time": 1691728238,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264295,
+        "num": 264295,
+        "word": "男子胖到238斤5分钟大脑关机一次",
+        "onboard_time": 1691724454,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223877,
+        "num": 262762,
+        "word": "中式教育给中国孩子带来了什么",
+        "onboard_time": 1691726797,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 311503,
+        "num": 262659,
+        "word": "于适不拍戏就在家复习是吧",
+        "onboard_time": 1691731236,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261892,
+        "num": 261892,
+        "word": "汪苏泷被李雪琴吐槽三寻宝藏",
+        "onboard_time": 1691731418,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248330,
+        "num": 248330,
+        "word": "女工程师为出轨对象成为间谍17年",
+        "onboard_time": 1691734657,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200835,
+        "num": 245741,
+        "word": "湘雅三院举报信内容值得玩味",
+        "onboard_time": 1691712873,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244035,
+        "num": 244035,
+        "word": "母校竟成诈骗窝点",
+        "onboard_time": 1691727096,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242710,
+        "num": 242710,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1691732139,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235813,
+        "num": 235813,
+        "word": "你好星期六",
+        "onboard_time": 1691734476,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202200,
+        "num": 202200,
+        "word": "女孩考611分暑假为全村孩子讲功课",
+        "onboard_time": 1691721932,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 201878,
+        "num": 201878,
+        "word": "导游日薪上千为何还紧缺",
+        "onboard_time": 1691729438,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171062,
+        "num": 192689,
+        "word": "这手是吃了多少打印机",
+        "onboard_time": 1691728721,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217329,
+        "num": 192509,
+        "word": "万茜演的妈妈好窒息",
+        "onboard_time": 1691733814,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187368,
+        "num": 187368,
+        "word": "张晚意梅林戏份被删改",
+        "onboard_time": 1691718211,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180059,
+        "num": 180059,
+        "word": "大学生翻拍巴啦啦小魔仙",
+        "onboard_time": 1691728897,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165970,
+        "num": 165970,
+        "word": "李玟二姐声明",
+        "onboard_time": 1691724512,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158927,
+        "num": 158927,
+        "word": "爱宝双胞胎幼崽睁眼了",
+        "onboard_time": 1691724874,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157030,
+        "num": 157030,
+        "word": "张艺兴解读潘生价值观",
+        "onboard_time": 1691734836,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132758,
+        "num": 156308,
+        "word": "今天谁抢到原神喜茶了",
+        "onboard_time": 1691730279,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126087,
+        "num": 154134,
+        "word": "医疗反腐重创了谁",
+        "onboard_time": 1691731597,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110525,
+        "num": 153755,
+        "word": "租房真的要好好看合同",
+        "onboard_time": 1691726737,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103301,
+        "num": 151034,
+        "word": "厦门草船借箭式收集烧烤竹签",
+        "onboard_time": 1691734057,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#分秒必争空降输电铁塔超硬核#"
+    }
+  }
+}
