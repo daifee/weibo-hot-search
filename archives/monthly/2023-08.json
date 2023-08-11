@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691741992423,
+  "endTime": 1691742840579,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -3225,6 +3225,14 @@
       "onboard_time": 1691151633,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1246350,
+      "num": 1246350,
+      "word": "雷军建议大家少刷手机",
+      "onboard_time": 1691740536,
+      "rank": 8,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1245949,
@@ -6475,14 +6483,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 785503,
-      "num": 785503,
-      "word": "雷军建议大家少刷手机",
-      "onboard_time": 1691740536,
-      "rank": 8,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 784917,
       "num": 784917,
       "word": "年薪百万哭穷",
@@ -7579,6 +7579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 710192,
+      "num": 561443,
+      "word": "Lisa穿比基尼好辣",
+      "onboard_time": 1691738556,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 709194,
       "num": 185320,
       "word": "徐峥陶虹带女儿看TFBOYS演唱会",
@@ -7665,14 +7673,6 @@
       "onboard_time": 1691675317,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 701484,
-      "num": 561443,
-      "word": "Lisa穿比基尼好辣",
-      "onboard_time": 1691738556,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 700890,
@@ -10187,6 +10187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 552318,
+      "num": 552318,
+      "word": "杨紫回应哭戏被夸",
+      "onboard_time": 1691739875,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 552207,
       "num": 385823,
       "word": "河北",
@@ -10593,14 +10601,6 @@
       "onboard_time": 1691203115,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 530004,
-      "num": 530004,
-      "word": "杨紫回应哭戏被夸",
-      "onboard_time": 1691739875,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 529442,
@@ -11931,20 +11931,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474248,
+      "num": 474248,
+      "word": "乌克兰称只要俄罗斯撤军愿意谈判",
+      "onboard_time": 1691740237,
+      "rank": 15,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 473907,
       "num": 473907,
       "word": "王一栩 七时吉祥致敬了苍兰诀",
       "onboard_time": 1691681915,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 473808,
-      "num": 473808,
-      "word": "乌克兰称只要俄罗斯撤军愿意谈判",
-      "onboard_time": 1691740237,
-      "rank": 15,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 472891,
@@ -14763,6 +14763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371719,
+      "num": 371719,
+      "word": "以前没觉得杨蒙恩这么不好看啊",
+      "onboard_time": 1691740659,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 371509,
       "num": 371509,
       "word": "建议学校都按照这个标准来分配宿舍",
@@ -14897,6 +14905,14 @@
       "onboard_time": 1691575596,
       "rank": 40,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 365535,
+      "num": 365535,
+      "word": "杭州女生获奖百万哭着感谢张大大",
+      "onboard_time": 1691742699,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 365529,
@@ -15801,14 +15817,6 @@
       "onboard_time": 1691146052,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 339746,
-      "num": 339746,
-      "word": "以前没觉得杨蒙恩这么不好看啊",
-      "onboard_time": 1691740659,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 339388,
@@ -18419,6 +18427,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 276669,
+      "num": 276669,
+      "word": "长相思市占率破30%",
+      "onboard_time": 1691741739,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276414,
       "num": 284737,
       "word": "涿州多名受困婴儿被救出",
@@ -18600,6 +18616,14 @@
       "word": "李莲花方多病故事线设定",
       "onboard_time": 1691414499,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 272581,
+      "num": 272581,
+      "word": "白日梦我首发预告",
+      "onboard_time": 1691741255,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -19441,14 +19465,6 @@
       "onboard_time": 1690853132,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254260,
-      "num": 254260,
-      "word": "白日梦我首发预告",
-      "onboard_time": 1691741255,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 254251,
@@ -21715,14 +21731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214258,
-      "num": 204086,
-      "word": "长相思市占率破30%",
-      "onboard_time": 1691741739,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214204,
       "num": 224047,
       "word": "大理双廊古镇",
@@ -22009,6 +22017,14 @@
       "onboard_time": 1690942772,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210129,
+      "num": 197855,
+      "word": "黄曦彦剧透封神姜文焕没有死",
+      "onboard_time": 1691742760,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 210110,
@@ -22545,6 +22561,14 @@
       "onboard_time": 1691472458,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204281,
+      "num": 204281,
+      "word": "小狗进地铁蹭空调被安保耐心劝离",
+      "onboard_time": 1691741917,
+      "rank": 49,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 204270,
@@ -25011,6 +25035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167222,
+      "num": 197794,
+      "word": "日本女足vs瑞典女足",
+      "onboard_time": 1691742218,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166836,
       "num": 166836,
       "word": "当代人不看武侠小说",
@@ -26473,14 +26505,6 @@
       "onboard_time": 1690844782,
       "rank": 31,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 114049,
-      "num": 204081,
-      "word": "小狗进地铁蹭空调被安保耐心劝离",
-      "onboard_time": 1691741917,
-      "rank": 49,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 113895,
