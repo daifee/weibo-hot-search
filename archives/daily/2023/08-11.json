@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691745338850,
+  "endTime": 1691746432447,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -163,12 +163,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1377426,
-      "num": 1377426,
+      "raw_hot": 1414311,
+      "num": 1414311,
       "word": "杭州女生获奖百万哭着感谢张大大",
       "onboard_time": 1691742699,
       "rank": 21,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1303882,
+      "num": 1303882,
+      "word": "王鹤棣终于演了西装暴徒",
+      "onboard_time": 1691744380,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1265299,
@@ -203,11 +211,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1131485,
+      "num": 1131485,
+      "word": "张晚意给毛不易交作业",
+      "onboard_time": 1691744199,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1121512,
       "num": 1121512,
       "word": "白日梦我",
       "onboard_time": 1691738796,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1099094,
+      "num": 1041373,
+      "word": "杨紫从来不用假发套",
+      "onboard_time": 1691745760,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -219,20 +243,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1088416,
+      "num": 1088416,
+      "word": "赵丽颖到底在过哪个季节",
+      "onboard_time": 1691743717,
+      "rank": 6,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 1044493,
       "num": 1044493,
       "word": "女孩考611分暑假为全村孩子讲功课",
       "onboard_time": 1691721932,
       "rank": 5,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1043161,
-      "num": 1043161,
-      "word": "张晚意给毛不易交作业",
-      "onboard_time": 1691744199,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1016648,
@@ -257,14 +281,6 @@
       "onboard_time": 1691728177,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 978662,
-      "num": 978662,
-      "word": "赵丽颖到底在过哪个季节",
-      "onboard_time": 1691743717,
-      "rank": 6,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 961361,
@@ -371,6 +387,14 @@
       "category": "影视,科技"
     },
     {
+      "raw_hot": 828680,
+      "num": 828680,
+      "word": "沈腾摔倒然后李莲花",
+      "onboard_time": 1691744078,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 817213,
       "num": 817213,
       "word": "导游带团游故宫4小时全程倒着走",
@@ -427,28 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 730381,
-      "num": 730381,
-      "word": "沈腾摔倒然后李莲花",
-      "onboard_time": 1691744078,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 728746,
       "num": 728746,
       "word": "碧桂园提出四大自救措施",
       "onboard_time": 1691711551,
       "rank": 8,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 728492,
-      "num": 383525,
-      "word": "王鹤棣终于演了西装暴徒",
-      "onboard_time": 1691744380,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 728231,
@@ -651,6 +659,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 484061,
+      "num": 484061,
+      "word": "肖战为任敏擦泪好温柔",
+      "onboard_time": 1691743717,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 481801,
+      "num": 481801,
+      "word": "种地吧导演组开拍前把所有农活干了一遍",
+      "onboard_time": 1691745341,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481161,
       "num": 481161,
       "word": "小夭番外",
@@ -771,14 +795,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 398799,
-      "num": 398799,
-      "word": "肖战为任敏擦泪好温柔",
-      "onboard_time": 1691743717,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 393580,
       "num": 345074,
       "word": "大学生翻拍巴啦啦小魔仙",
@@ -835,8 +851,8 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 377103,
-      "num": 377103,
+      "raw_hot": 381123,
+      "num": 381123,
       "word": "小狗进地铁蹭空调被安保耐心劝离",
       "onboard_time": 1691741917,
       "rank": 49,
@@ -971,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317534,
+      "num": 291001,
+      "word": "周也更像王传君那伙的",
+      "onboard_time": 1691744739,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315496,
       "num": 315496,
       "word": "你好星期六",
@@ -1059,20 +1083,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 293656,
+      "num": 293656,
+      "word": "我妈给我找了份铲屎的工作",
+      "onboard_time": 1691743658,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291192,
       "num": 311437,
       "word": "女幼师疑出轨学生家长被抓当街游行",
       "onboard_time": 1691656774,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291001,
-      "num": 291001,
-      "word": "周也更像王传君那伙的",
-      "onboard_time": 1691744739,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 290245,
@@ -1329,6 +1353,22 @@
       "onboard_time": 1691720313,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247405,
+      "num": 227172,
+      "word": "夭柳党想看什么自己剪",
+      "onboard_time": 1691745277,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245047,
+      "num": 245047,
+      "word": "发现间谍行为该打几几几",
+      "onboard_time": 1691743717,
+      "rank": 34,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 244949,
@@ -1595,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194706,
+      "num": 194706,
+      "word": "王一博刘敏涛比心",
+      "onboard_time": 1691745819,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194513,
       "num": 194513,
       "word": "高三的我记录每一支笔的死因",
@@ -1667,14 +1715,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 187232,
-      "num": 202106,
-      "word": "发现间谍行为该打几几几",
-      "onboard_time": 1691743717,
-      "rank": 34,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 186718,
       "num": 186718,
       "word": "绝地追击缉毒战士山洪遇难",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1691725054,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185444,
+      "num": 196090,
+      "word": "显眼包们的花式玩法",
+      "onboard_time": 1691745699,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 181744,
@@ -1731,12 +1779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174165,
-      "num": 174165,
-      "word": "夭柳党想看什么自己剪",
-      "onboard_time": 1691745277,
-      "rank": 44,
-      "category": "影视"
+      "raw_hot": 173870,
+      "num": 197794,
+      "word": "日本女足vs瑞典女足",
+      "onboard_time": 1691742218,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 173700,
@@ -1753,22 +1801,6 @@
       "onboard_time": 1691683356,
       "rank": 47,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 167546,
-      "num": 188305,
-      "word": "我妈给我找了份铲屎的工作",
-      "onboard_time": 1691743658,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 167222,
-      "num": 197794,
-      "word": "日本女足vs瑞典女足",
-      "onboard_time": 1691742218,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 166836,
@@ -2043,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 47107,
+      "num": 481973,
+      "word": "登上国际舞台的农民画有多惊艳",
+      "onboard_time": 1691744496,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44138,
       "num": 252082,
       "word": "不愿看你们在洪水里手牵手",
@@ -2081,14 +2121,6 @@
       "onboard_time": 1691693595,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 21103,
-      "num": 432006,
-      "word": "登上国际舞台的农民画有多惊艳",
-      "onboard_time": 1691744496,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17505,
