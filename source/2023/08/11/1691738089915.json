@@ -1,0 +1,410 @@
+{
+  "runTime": 1691738089915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3216435,
+        "num": 3216435,
+        "word": "新冠三阳的人开始陆续出现",
+        "onboard_time": 1691733156,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2247642,
+        "num": 2247642,
+        "word": "女工程师为出轨对象成为间谍17年",
+        "onboard_time": 1691734657,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74008,
+        "num": 1685345,
+        "word": "我在国门一线",
+        "onboard_time": 1691734357,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1447559,
+        "num": 1447559,
+        "word": "医药代表性贿赂医生",
+        "onboard_time": 1691734176,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1190870,
+        "num": 1190870,
+        "word": "周深演唱会票价",
+        "onboard_time": 1691729918,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1034901,
+        "num": 1034901,
+        "word": "缅甸柬埔寨来抢中国游客了",
+        "onboard_time": 1691724634,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034320,
+        "num": 1034320,
+        "word": "周冬雨刘昊然浴室戏",
+        "onboard_time": 1691728177,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628271,
+        "num": 628271,
+        "word": "韩国2万亿刺激生育为何失败了",
+        "onboard_time": 1691732254,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604931,
+        "num": 604931,
+        "word": "Faker遭到谋杀通知",
+        "onboard_time": 1691730338,
+        "rank": 8,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 574922,
+        "num": 574922,
+        "word": "发现了一个很爽的旅行方式",
+        "onboard_time": 1691730397,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 753671,
+        "num": 562020,
+        "word": "男子要女孩微信被拒后对其爸爸动手",
+        "onboard_time": 1691729561,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547758,
+        "num": 547758,
+        "word": "檀健次说相柳这一生没有BE",
+        "onboard_time": 1691732733,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 520882,
+        "num": 520882,
+        "word": "A股",
+        "onboard_time": 1691722832,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 486538,
+        "num": 486538,
+        "word": "云合 长相思",
+        "onboard_time": 1691737237,
+        "rank": 13,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 454043,
+        "num": 454043,
+        "word": "李湘看王诗龄的眼神",
+        "onboard_time": 1691711670,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450238,
+        "num": 450238,
+        "word": "檀健次直播",
+        "onboard_time": 1691736034,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444568,
+        "num": 444568,
+        "word": "向佐郭碧婷新电影",
+        "onboard_time": 1691733156,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399340,
+        "num": 399340,
+        "word": "莲花楼结局 慢刀子刮肉",
+        "onboard_time": 1691737416,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312737,
+        "num": 312737,
+        "word": "起猛了看见顾廷烨当外室",
+        "onboard_time": 1691736756,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313180,
+        "num": 312051,
+        "word": "这才是莲花楼的结局",
+        "onboard_time": 1691735375,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 992449,
+        "num": 308976,
+        "word": "于正 邓为",
+        "onboard_time": 1691726136,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360674,
+        "num": 306836,
+        "word": "男子创业赔42万又被分手11天没吃饭",
+        "onboard_time": 1691735615,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303147,
+        "num": 303147,
+        "word": "电影花千骨陈都灵赖美云演母女",
+        "onboard_time": 1691724815,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250499,
+        "num": 299993,
+        "word": "警方回应醉酒18岁女生疑被性侵",
+        "onboard_time": 1691732796,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244615,
+        "num": 299346,
+        "word": "中央财政已下达防汛救灾资金77.38亿元",
+        "onboard_time": 1691737055,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299065,
+        "num": 299065,
+        "word": "唐嫣首部仙侠剧女主",
+        "onboard_time": 1691724153,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293725,
+        "num": 293725,
+        "word": "1000万人都收到了丁禹兮发的猪",
+        "onboard_time": 1691730037,
+        "rank": 26,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 283302,
+        "num": 283302,
+        "word": "曾舜晞录好六有种见家长的感觉",
+        "onboard_time": 1691737597,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266745,
+        "num": 266745,
+        "word": "花千骨",
+        "onboard_time": 1691728238,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243995,
+        "num": 243995,
+        "word": "凯恩加盟拜仁",
+        "onboard_time": 1691737597,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237390,
+        "num": 237390,
+        "word": "新加坡外长因未打领带向王毅道歉",
+        "onboard_time": 1691728177,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255991,
+        "num": 236621,
+        "word": "成毅打语音电话挥手再见",
+        "onboard_time": 1691732856,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246543,
+        "num": 236425,
+        "word": "怦然心动20岁 恋综天花板",
+        "onboard_time": 1691729317,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234071,
+        "num": 234071,
+        "word": "新研究确定先有鸡还是先有蛋",
+        "onboard_time": 1691736815,
+        "rank": 33,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 226324,
+        "num": 226324,
+        "word": "投资90多亿的医院突然申请注销",
+        "onboard_time": 1691731717,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 241125,
+        "num": 224576,
+        "word": "电影封神第一部的礼仪课程",
+        "onboard_time": 1691736935,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214504,
+        "num": 214504,
+        "word": "你好星期六",
+        "onboard_time": 1691734476,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211831,
+        "num": 211831,
+        "word": "封神第一部延长上映",
+        "onboard_time": 1691737956,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207772,
+        "num": 207772,
+        "word": "男子偷拍裙底被路人一招按在地上",
+        "onboard_time": 1691736156,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194296,
+        "num": 205034,
+        "word": "男子胖到238斤5分钟大脑关机一次",
+        "onboard_time": 1691724454,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204797,
+        "num": 204797,
+        "word": "春浪音乐节",
+        "onboard_time": 1691737115,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186425,
+        "num": 204786,
+        "word": "乐队的夏天3先导片",
+        "onboard_time": 1691736815,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177750,
+        "num": 204768,
+        "word": "于适不拍戏就在家复习是吧",
+        "onboard_time": 1691731236,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176008,
+        "num": 204760,
+        "word": "任泉街头蒙面直播",
+        "onboard_time": 1691733037,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153822,
+        "num": 204751,
+        "word": "听歌时的离谱空耳",
+        "onboard_time": 1691736998,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144373,
+        "num": 204731,
+        "word": "厦门草船借箭式收集烧烤竹签",
+        "onboard_time": 1691734057,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137929,
+        "num": 204706,
+        "word": "因为发脾气爸爸的游戏搭子被罚站半小时",
+        "onboard_time": 1691734900,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137275,
+        "num": 204697,
+        "word": "女孩考611分暑假为全村孩子讲功课",
+        "onboard_time": 1691721932,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 124085,
+        "num": 204674,
+        "word": "爱宝双胞胎幼崽睁眼了",
+        "onboard_time": 1691724874,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114530,
+        "num": 204668,
+        "word": "猪的体脂率可能比你还低",
+        "onboard_time": 1691738015,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#分秒必争空降输电铁塔超硬核#"
+    }
+  }
+}

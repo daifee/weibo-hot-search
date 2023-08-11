@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691735618491,
+  "endTime": 1691738089915,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -8,6 +8,14 @@
       "word": "缅甸柬埔寨来抢中国游客了",
       "onboard_time": 1691724634,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3216435,
+      "num": 3216435,
+      "word": "新冠三阳的人开始陆续出现",
+      "onboard_time": 1691733156,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -35,20 +43,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2584287,
-      "num": 2584287,
-      "word": "新冠三阳的人开始陆续出现",
-      "onboard_time": 1691733156,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2354410,
       "num": 2354410,
       "word": "国安机关破获美国中央情报局间谍案",
       "onboard_time": 1691711067,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2247642,
+      "num": 2247642,
+      "word": "女工程师为出轨对象成为间谍17年",
+      "onboard_time": 1691734657,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2075752,
@@ -121,6 +129,14 @@
       "onboard_time": 1691724815,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1447559,
+      "num": 1447559,
+      "word": "医药代表性贿赂医生",
+      "onboard_time": 1691734176,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1438695,
@@ -233,14 +249,6 @@
       "onboard_time": 1691717554,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 929009,
-      "num": 929009,
-      "word": "医药代表性贿赂医生",
-      "onboard_time": 1691734176,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 921967,
@@ -395,14 +403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 698117,
-      "num": 698117,
-      "word": "女工程师为出轨对象成为间谍17年",
-      "onboard_time": 1691734657,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 678758,
       "num": 678758,
       "word": "原来上班摸鱼是有科学依据的",
@@ -539,6 +539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 486538,
+      "num": 486538,
+      "word": "云合 长相思",
+      "onboard_time": 1691737237,
+      "rank": 13,
+      "category": "影视,科技"
+    },
+    {
       "raw_hot": 481161,
       "num": 481161,
       "word": "小夭番外",
@@ -595,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450238,
+      "num": 450238,
+      "word": "檀健次直播",
+      "onboard_time": 1691736034,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426050,
       "num": 426050,
       "word": "唐嫣念无双或将换造型重拍",
@@ -625,6 +641,14 @@
       "onboard_time": 1691731717,
       "rank": 47,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 399340,
+      "num": 399340,
+      "word": "莲花楼结局 慢刀子刮肉",
+      "onboard_time": 1691737416,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 393580,
@@ -707,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 360674,
+      "num": 306836,
+      "word": "男子创业赔42万又被分手11天没吃饭",
+      "onboard_time": 1691735615,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356921,
       "num": 356921,
       "word": "比起催婚的亲戚真的很暖心了",
@@ -769,6 +801,22 @@
       "onboard_time": 1691734476,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313180,
+      "num": 312051,
+      "word": "这才是莲花楼的结局",
+      "onboard_time": 1691735375,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 312737,
+      "num": 312737,
+      "word": "起猛了看见顾廷烨当外室",
+      "onboard_time": 1691736756,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 311772,
@@ -873,6 +921,14 @@
       "onboard_time": 1691681320,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283302,
+      "num": 283302,
+      "word": "曾舜晞录好六有种见家长的感觉",
+      "onboard_time": 1691737597,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 281831,
@@ -1051,6 +1107,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244615,
+      "num": 299346,
+      "word": "中央财政已下达防汛救灾资金77.38亿元",
+      "onboard_time": 1691737055,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243995,
+      "num": 243995,
+      "word": "凯恩加盟拜仁",
+      "onboard_time": 1691737597,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242710,
       "num": 242710,
       "word": "鹿晗演唱会",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1691717132,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 241125,
+      "num": 224576,
+      "word": "电影封神第一部的礼仪课程",
+      "onboard_time": 1691736935,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 239154,
@@ -1097,6 +1177,14 @@
       "onboard_time": 1691725114,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 234071,
+      "num": 234071,
+      "word": "新研究确定先有鸡还是先有蛋",
+      "onboard_time": 1691736815,
+      "rank": 33,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 227094,
@@ -1163,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211831,
+      "num": 211831,
+      "word": "封神第一部延长上映",
+      "onboard_time": 1691737956,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210496,
       "num": 190685,
       "word": "孤注一掷票房破10亿",
@@ -1187,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207772,
+      "num": 207772,
+      "word": "男子偷拍裙底被路人一招按在地上",
+      "onboard_time": 1691736156,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207455,
       "num": 207455,
       "word": "念无双首发海报",
@@ -1208,6 +1312,14 @@
       "word": "五月天重庆宣不宣",
       "onboard_time": 1691729258,
       "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 204797,
+      "num": 204797,
+      "word": "春浪音乐节",
+      "onboard_time": 1691737115,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -1315,20 +1427,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 188381,
-      "num": 161815,
-      "word": "这才是莲花楼的结局",
-      "onboard_time": 1691735375,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 186718,
       "num": 186718,
       "word": "绝地追击缉毒战士山洪遇难",
       "onboard_time": 1691720612,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186425,
+      "num": 204786,
+      "word": "乐队的夏天3先导片",
+      "onboard_time": 1691736815,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 185703,
@@ -1419,12 +1531,28 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 153822,
+      "num": 204751,
+      "word": "听歌时的离谱空耳",
+      "onboard_time": 1691736998,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150491,
       "num": 182964,
       "word": "最靠谱的防晒霜",
       "onboard_time": 1691724993,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 144373,
+      "num": 204731,
+      "word": "厦门草船借箭式收集烧烤竹签",
+      "onboard_time": 1691734057,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142885,
@@ -1448,6 +1576,14 @@
       "word": "夫妻俩义务上门帮失能老人洗澡",
       "onboard_time": 1691679100,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137929,
+      "num": 204706,
+      "word": "因为发脾气爸爸的游戏搭子被罚站半小时",
+      "onboard_time": 1691734900,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1483,14 +1619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120805,
-      "num": 157459,
-      "word": "因为发脾气爸爸的游戏搭子被罚站半小时",
-      "onboard_time": 1691734900,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117674,
       "num": 117674,
       "word": "于适蒋奇明 我的阿勒泰",
@@ -1515,20 +1643,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114530,
+      "num": 204668,
+      "word": "猪的体脂率可能比你还低",
+      "onboard_time": 1691738015,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111082,
       "num": 317945,
       "word": "雷军说不用非进大厂",
       "onboard_time": 1691730995,
       "rank": 27,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 104220,
-      "num": 154678,
-      "word": "厦门草船借箭式收集烧烤竹签",
-      "onboard_time": 1691734057,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92786,
@@ -1603,7 +1731,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 72218,
+      "raw_hot": 74008,
       "num": 1774056,
       "word": "我在国门一线",
       "onboard_time": 1691734357,
