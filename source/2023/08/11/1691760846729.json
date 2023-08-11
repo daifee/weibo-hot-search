@@ -1,0 +1,410 @@
+{
+  "runTime": 1691760846729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3602624,
+        "num": 3602624,
+        "word": "成毅跳queencard 认真中带着幽默",
+        "onboard_time": 1691759497,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1665458,
+        "num": 1665458,
+        "word": "SHE时隔四年再合体",
+        "onboard_time": 1691757696,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35096,
+        "num": 1098014,
+        "word": "大戏看北京",
+        "onboard_time": 1691755295,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1021215,
+        "num": 1021215,
+        "word": "女工程师为出轨对象成为间谍17年",
+        "onboard_time": 1691734657,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804423,
+        "num": 804423,
+        "word": "高叶狂飙后首部电视剧",
+        "onboard_time": 1691749716,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 743892,
+        "num": 743892,
+        "word": "西安文旅局回应多场演出取消",
+        "onboard_time": 1691759317,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705496,
+        "num": 705496,
+        "word": "大爷高铁上戴耳机喝白酒全程安静",
+        "onboard_time": 1691753196,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642696,
+        "num": 642696,
+        "word": "王鹤棣终于演了西装暴徒",
+        "onboard_time": 1691744380,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 636168,
+        "num": 636168,
+        "word": "和天秤座相处要多一点耐心",
+        "onboard_time": 1691754934,
+        "rank": 8,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 597979,
+        "num": 597979,
+        "word": "如果有朋友突然临时约你",
+        "onboard_time": 1691757515,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 2153429,
+        "num": 564852,
+        "word": "疑李玟生前与二姐争吵音频曝光",
+        "onboard_time": 1691759077,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518173,
+        "num": 518173,
+        "word": "陈赫 等邓超开场呢",
+        "onboard_time": 1691756436,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 473180,
+        "num": 473180,
+        "word": "Lisa行程",
+        "onboard_time": 1691756679,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468019,
+        "num": 468019,
+        "word": "医药代表性贿赂医生",
+        "onboard_time": 1691734176,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 116032,
+        "num": 399524,
+        "word": "被兵哥哥自带的秩序感惊到了",
+        "onboard_time": 1691758837,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379958,
+        "num": 379958,
+        "word": "鹿晗武汉演唱会",
+        "onboard_time": 1691756315,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353400,
+        "num": 353400,
+        "word": "谭爷爷说花花本来就比以前长得白了",
+        "onboard_time": 1691756792,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378833,
+        "num": 352862,
+        "word": "鹿晗重启周五之约",
+        "onboard_time": 1691759558,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 351671,
+        "num": 351671,
+        "word": "别让父母一个人去医院",
+        "onboard_time": 1691759436,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346814,
+        "num": 346814,
+        "word": "有些照片截一下就好看了",
+        "onboard_time": 1691750138,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1046687,
+        "num": 345275,
+        "word": "肖战终于穿背带裤了",
+        "onboard_time": 1691757758,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 544827,
+        "num": 341557,
+        "word": "孤注一掷票房破12亿",
+        "onboard_time": 1691759918,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355331,
+        "num": 340072,
+        "word": "调查显示医生月工资1600元起步",
+        "onboard_time": 1691758961,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 349883,
+        "num": 336167,
+        "word": "新冠三阳的人开始陆续出现",
+        "onboard_time": 1691733156,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335892,
+        "num": 335892,
+        "word": "多名医保局长被调查",
+        "onboard_time": 1691756256,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369870,
+        "num": 331366,
+        "word": "田馥甄演唱会",
+        "onboard_time": 1691759737,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 393334,
+        "num": 326497,
+        "word": "何泓姗新剧意外扑倒董思成",
+        "onboard_time": 1691759136,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339444,
+        "num": 321408,
+        "word": "赵丽颖到底在过哪个季节",
+        "onboard_time": 1691743717,
+        "rank": 27,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 339246,
+        "num": 315385,
+        "word": "杨紫从来不用假发套",
+        "onboard_time": 1691745760,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234852,
+        "num": 306662,
+        "word": "高温天气不要把车停在树下",
+        "onboard_time": 1691759436,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306003,
+        "num": 306003,
+        "word": "檀健次被相柳的面具捂出痱子了",
+        "onboard_time": 1691760465,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295544,
+        "num": 295544,
+        "word": "李莲花特别厉害",
+        "onboard_time": 1691754756,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233494,
+        "num": 292305,
+        "word": "走路久了为什么脚会变黄",
+        "onboard_time": 1691760578,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 214354,
+        "num": 291660,
+        "word": "哈登郭艾伦单挑",
+        "onboard_time": 1691753618,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187891,
+        "num": 291162,
+        "word": "XYG对战DYG",
+        "onboard_time": 1691759799,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291042,
+        "num": 291042,
+        "word": "长相思",
+        "onboard_time": 1691751097,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255745,
+        "num": 255745,
+        "word": "金晨孤注一掷被删戏份",
+        "onboard_time": 1691748574,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2912064,
+        "num": 251493,
+        "word": "中国已成为全球生育率最低的国家之一",
+        "onboard_time": 1691755055,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242621,
+        "num": 242621,
+        "word": "GGbond也来看鹿晗演唱会了",
+        "onboard_time": 1691759497,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160131,
+        "num": 239772,
+        "word": "今天星期五",
+        "onboard_time": 1691759558,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237899,
+        "num": 237899,
+        "word": "中国好声音",
+        "onboard_time": 1691760216,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224383,
+        "num": 224383,
+        "word": "时影与朱颜师徒决裂",
+        "onboard_time": 1691760760,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221272,
+        "num": 221272,
+        "word": "妲己用一句话让太子破防",
+        "onboard_time": 1691755295,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156292,
+        "num": 219563,
+        "word": "华为上半年销售收入3109亿元",
+        "onboard_time": 1691752176,
+        "rank": 43,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 218829,
+        "num": 218829,
+        "word": "钢铁侠蜘蛛侠来鹿晗演唱会了",
+        "onboard_time": 1691756679,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142041,
+        "num": 218814,
+        "word": "把西瓜皮吃成透明的也是技术",
+        "onboard_time": 1691751996,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140456,
+        "num": 218794,
+        "word": "浙江今年出了名女飞行学员",
+        "onboard_time": 1691752055,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139226,
+        "num": 218786,
+        "word": "两个细腻又善良的人相遇了",
+        "onboard_time": 1691759918,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124392,
+        "num": 218775,
+        "word": "雷军建议大家少刷手机",
+        "onboard_time": 1691740536,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 112218,
+        "num": 218746,
+        "word": "女子弄丢150元向丈夫哭诉被暖心安慰",
+        "onboard_time": 1691760465,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#调查研究永远在路上#"
+    }
+  }
+}

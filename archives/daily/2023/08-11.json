@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691759929916,
+  "endTime": 1691760846729,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -17,6 +17,14 @@
       "onboard_time": 1691755055,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3602624,
+      "num": 3602624,
+      "word": "成毅跳queencard 认真中带着幽默",
+      "onboard_time": 1691759497,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 3216435,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2153429,
+      "num": 564852,
+      "word": "疑李玟生前与二姐争吵音频曝光",
+      "onboard_time": 1691759077,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2125761,
       "num": 2125761,
       "word": "高叶狂飙后首部电视剧",
@@ -97,14 +113,6 @@
       "onboard_time": 1691740536,
       "rank": 8,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 1887181,
-      "num": 1887181,
-      "word": "成毅跳queencard 认真中带着幽默",
-      "onboard_time": 1691759497,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1795183,
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1145856,
-      "num": 508906,
-      "word": "疑李玟生前与二姐争吵音频曝光",
-      "onboard_time": 1691759077,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1131485,
       "num": 1131485,
       "word": "张晚意给毛不易交作业",
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1111029,
-      "num": 312891,
+      "num": 345275,
       "word": "肖战终于穿背带裤了",
       "onboard_time": 1691757758,
       "rank": 25,
@@ -507,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 743892,
+      "num": 743892,
+      "word": "西安文旅局回应多场演出取消",
+      "onboard_time": 1691759317,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 743353,
       "num": 743353,
       "word": "跑步真的可能会暴富",
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 602117,
-      "num": 488972,
+      "num": 518173,
       "word": "陈赫 等邓超开场呢",
       "onboard_time": 1691756436,
       "rank": 25,
@@ -689,6 +697,14 @@
       "onboard_time": 1691750317,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597979,
+      "num": 597979,
+      "word": "如果有朋友突然临时约你",
+      "onboard_time": 1691757515,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 597384,
@@ -748,19 +764,11 @@
     },
     {
       "raw_hot": 547922,
-      "num": 467831,
+      "num": 473180,
       "word": "Lisa行程",
       "onboard_time": 1691756679,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 546952,
-      "num": 546952,
-      "word": "如果有朋友突然临时约你",
-      "onboard_time": 1691757515,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 544934,
@@ -769,6 +777,14 @@
       "onboard_time": 1691683477,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 544827,
+      "num": 341557,
+      "word": "孤注一掷票房破12亿",
+      "onboard_time": 1691759918,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 529442,
@@ -1035,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393334,
+      "num": 326497,
+      "word": "何泓姗新剧意外扑倒董思成",
+      "onboard_time": 1691759136,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 386668,
       "num": 326686,
       "word": "甲骨文的屎字太形象了",
@@ -1083,6 +1107,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 378833,
+      "num": 352862,
+      "word": "鹿晗重启周五之约",
+      "onboard_time": 1691759558,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 374026,
       "num": 333827,
       "word": "男子创业赔42万又被分手11天没吃饭",
@@ -1107,6 +1139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 369870,
+      "num": 331366,
+      "word": "田馥甄演唱会",
+      "onboard_time": 1691759737,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 365529,
       "num": 291820,
       "word": "于适不拍戏就在家复习是吧",
@@ -1123,14 +1163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 362036,
-      "num": 362036,
-      "word": "西安文旅局回应多场演出取消",
-      "onboard_time": 1691759317,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356921,
       "num": 356921,
       "word": "比起催婚的亲戚真的很暖心了",
@@ -1139,12 +1171,36 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 355331,
+      "num": 340072,
+      "word": "调查显示医生月工资1600元起步",
+      "onboard_time": 1691758961,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 353400,
+      "num": 353400,
+      "word": "谭爷爷说花花本来就比以前长得白了",
+      "onboard_time": 1691756792,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352851,
       "num": 352851,
       "word": "孙阳痞帅",
       "onboard_time": 1691683594,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 351671,
+      "num": 351671,
+      "word": "别让父母一个人去医院",
+      "onboard_time": 1691759436,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 351192,
@@ -1169,14 +1225,6 @@
       "onboard_time": 1691728541,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 346881,
-      "num": 310597,
-      "word": "谭爷爷说花花本来就比以前长得白了",
-      "onboard_time": 1691756792,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345499,
@@ -1217,6 +1265,14 @@
       "onboard_time": 1691723790,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 335892,
+      "num": 534587,
+      "word": "多名医保局长被调查",
+      "onboard_time": 1691756256,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329983,
@@ -1283,14 +1339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 309956,
-      "num": 309956,
-      "word": "田馥甄演唱会",
-      "onboard_time": 1691759737,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 309247,
       "num": 309247,
       "word": "120斤重的00后战士背了70斤物资",
@@ -1304,6 +1352,14 @@
       "word": "相柳你就真的这么爱吗",
       "onboard_time": 1691717314,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 306003,
+      "num": 306003,
+      "word": "檀健次被相柳的面具捂出痱子了",
+      "onboard_time": 1691760465,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1347,14 +1403,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 295844,
-      "num": 534587,
-      "word": "多名医保局长被调查",
-      "onboard_time": 1691756256,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295318,
       "num": 295318,
       "word": "导游日薪上千为何还紧缺",
@@ -1377,14 +1425,6 @@
       "onboard_time": 1691743658,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 292422,
-      "num": 310452,
-      "word": "调查显示医生月工资1600元起步",
-      "onboard_time": 1691758961,
-      "rank": 24,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 291192,
@@ -1731,6 +1771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 242621,
+      "num": 242621,
+      "word": "GGbond也来看鹿晗演唱会了",
+      "onboard_time": 1691759497,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 242449,
       "num": 246892,
       "word": "当你散步忘带小狗出门",
@@ -1763,6 +1811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237899,
+      "num": 237899,
+      "word": "中国好声音",
+      "onboard_time": 1691760216,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237288,
       "num": 210848,
       "word": "莲花楼女性角色刻画",
@@ -1779,12 +1835,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 234852,
+      "num": 306662,
+      "word": "高温天气不要把车停在树下",
+      "onboard_time": 1691759436,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234507,
       "num": 581493,
       "word": "原神喜茶好喝",
       "onboard_time": 1691725114,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 233494,
+      "num": 292305,
+      "word": "走路久了为什么脚会变黄",
+      "onboard_time": 1691760578,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 227094,
@@ -1795,12 +1867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225168,
-      "num": 216790,
-      "word": "GGbond也来看鹿晗演唱会了",
-      "onboard_time": 1691759497,
-      "rank": 37,
-      "category": "音乐"
+      "raw_hot": 224383,
+      "num": 224383,
+      "word": "时影与朱颜师徒决裂",
+      "onboard_time": 1691760760,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 223946,
@@ -1833,14 +1905,6 @@
       "onboard_time": 1691750317,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 216284,
-      "num": 216284,
-      "word": "孤注一掷票房破12亿",
-      "onboard_time": 1691759918,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 215937,
@@ -1971,14 +2035,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205632,
-      "num": 205632,
-      "word": "何泓姗新剧意外扑倒董思成",
-      "onboard_time": 1691759136,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 205285,
       "num": 226838,
       "word": "五月天重庆宣不宣",
@@ -2011,28 +2067,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202087,
-      "num": 202087,
-      "word": "鹿晗重启周五之约",
-      "onboard_time": 1691759558,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 200847,
       "num": 200847,
       "word": "金晨要拍古装了",
       "onboard_time": 1691747137,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200767,
-      "num": 229175,
-      "word": "别让父母一个人去医院",
-      "onboard_time": 1691759436,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 198949,
@@ -2068,7 +2108,7 @@
     },
     {
       "raw_hot": 196374,
-      "num": 225971,
+      "num": 239772,
       "word": "今天星期五",
       "onboard_time": 1691759558,
       "rank": 33,
@@ -2081,14 +2121,6 @@
       "onboard_time": 1691716954,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195107,
-      "num": 225471,
-      "word": "高温天气不要把车停在树下",
-      "onboard_time": 1691759436,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 194791,
@@ -2211,6 +2243,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 187891,
+      "num": 291162,
+      "word": "XYG对战DYG",
+      "onboard_time": 1691759799,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186718,
       "num": 186718,
       "word": "绝地追击缉毒战士山洪遇难",
@@ -2273,14 +2313,6 @@
       "onboard_time": 1691730279,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177743,
-      "num": 216292,
-      "word": "XYG对战DYG",
-      "onboard_time": 1691759799,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 173870,
@@ -2427,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139226,
+      "num": 218786,
+      "word": "两个细腻又善良的人相遇了",
+      "onboard_time": 1691759918,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138118,
       "num": 467249,
       "word": "夫妻俩义务上门帮失能老人洗澡",
@@ -2449,14 +2489,6 @@
       "onboard_time": 1691734900,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136197,
-      "num": 202074,
-      "word": "两个细腻又善良的人相遇了",
-      "onboard_time": 1691759918,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 134119,
@@ -2523,6 +2555,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 116032,
+      "num": 405974,
+      "word": "被兵哥哥自带的秩序感惊到了",
+      "onboard_time": 1691758837,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115012,
       "num": 115012,
       "word": "西安春浪音乐节取消",
@@ -2535,6 +2575,14 @@
       "num": 207299,
       "word": "爱在落坡岭",
       "onboard_time": 1691757034,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112218,
+      "num": 218746,
+      "word": "女子弄丢150元向丈夫哭诉被暖心安慰",
+      "onboard_time": 1691760465,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -2641,14 +2689,6 @@
       "onboard_time": 1691751695,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67678,
-      "num": 405974,
-      "word": "被兵哥哥自带的秩序感惊到了",
-      "onboard_time": 1691758837,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60631,
