@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691793224880,
+  "endTime": 1691795735227,
   "band_list": [
     {
       "raw_hot": 1352754,
@@ -121,6 +121,14 @@
       "onboard_time": 1691764600,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 483384,
+      "num": 192652,
+      "word": "被于正说像梁朝伟的新人演员生图",
+      "onboard_time": 1691784194,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 432841,
@@ -251,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276508,
+      "num": 276508,
+      "word": "霸王茶姬",
+      "onboard_time": 1691795001,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 268719,
       "num": 268719,
       "word": "和天秤座相处要多一点耐心",
@@ -267,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254400,
+      "num": 192539,
+      "word": "你梦想中的荷官和现实中的荷官",
+      "onboard_time": 1691776280,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251829,
       "num": 251829,
       "word": "金晨孤注一掷被删戏份",
       "onboard_time": 1691748574,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 251038,
-      "num": 100561,
-      "word": "被于正说像梁朝伟的新人演员生图",
-      "onboard_time": 1691784194,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 246276,
@@ -363,6 +379,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 208544,
+      "num": 119925,
+      "word": "潘玮柏终于抢回了李在溪",
+      "onboard_time": 1691786775,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207087,
       "num": 207087,
       "word": "那英听康士坦的歌是华晨宇推荐的",
@@ -379,20 +403,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 192746,
+      "num": 252345,
+      "word": "在一个平静的午后你关掉了少儿频道",
+      "onboard_time": 1691767962,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 192530,
+      "num": 192530,
+      "word": "会骑马的女演员",
+      "onboard_time": 1691795482,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191492,
       "num": 253076,
       "word": "女子弄丢150元向丈夫哭诉被暖心安慰",
       "onboard_time": 1691760465,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188000,
-      "num": 252345,
-      "word": "在一个平静的午后你关掉了少儿频道",
-      "onboard_time": 1691767962,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 170706,
@@ -427,20 +459,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138561,
-      "num": 100371,
-      "word": "你梦想中的荷官和现实中的荷官",
-      "onboard_time": 1691776280,
-      "rank": 30,
+      "raw_hot": 134746,
+      "num": 119201,
+      "word": "严艺丹兑现莲花楼破万一口嗦虾",
+      "onboard_time": 1691764420,
+      "rank": 40,
       "category": "影视"
     },
     {
-      "raw_hot": 134934,
-      "num": 94286,
-      "word": "潘玮柏终于抢回了李在溪",
-      "onboard_time": 1691786775,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 131574,
+      "num": 119083,
+      "word": "女子吃2口汉堡赶高铁过敏险休克",
+      "onboard_time": 1691781797,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130844,
@@ -467,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121524,
-      "num": 116272,
-      "word": "严艺丹兑现莲花楼破万一口嗦虾",
-      "onboard_time": 1691764420,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 115434,
       "num": 205216,
       "word": "我永远喜欢我自己",
@@ -491,20 +515,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106480,
-      "num": 106480,
+      "raw_hot": 107171,
+      "num": 107171,
       "word": "有些猫生来就是要做老板的",
       "onboard_time": 1691774246,
       "rank": 45,
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 101411,
-      "num": 97555,
-      "word": "女子吃2口汉堡赶高铁过敏险休克",
-      "onboard_time": 1691781797,
-      "rank": 49,
+      "raw_hot": 101912,
+      "num": 120222,
+      "word": "他跳下去瞬间被无数双手紧紧抓住",
+      "onboard_time": 1691795001,
+      "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88112,
+      "num": 88112,
+      "word": "凌晨收摊烧烤摊主用洗衣粉给地面去油",
+      "onboard_time": 1691795542,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85334,
+      "num": 85334,
+      "word": "吴倩聊坐月子细节",
+      "onboard_time": 1691795602,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 72415,
+      "num": 72415,
+      "word": "封神质子团用东北话说台词",
+      "onboard_time": 1691791397,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 65032,
@@ -515,15 +563,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 50470,
-      "num": 50470,
-      "word": "封神质子团用东北话说台词",
-      "onboard_time": 1691791397,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 36897,
+      "raw_hot": 45814,
       "num": 1087552,
       "word": "洪水来临时哪些地方是危险地带",
       "onboard_time": 1691761000,
