@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691774065537,
+  "endTime": 1691775232815,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -6379,6 +6379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411501,
+      "num": 269893,
+      "word": "私服好看的明星",
+      "onboard_time": 1691772808,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 410766,
       "num": 240773,
       "word": "夭璟全机位吻戏纯享版",
@@ -8313,14 +8321,6 @@
       "onboard_time": 1691624368,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 294912,
-      "num": 237450,
-      "word": "私服好看的明星",
-      "onboard_time": 1691772808,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 294816,
@@ -13009,6 +13009,22 @@
       "onboard_time": 1691451691,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107860,
+      "num": 107860,
+      "word": "Nova heart",
+      "onboard_time": 1691771730,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106480,
+      "num": 106480,
+      "word": "有些猫生来就是要做老板的",
+      "onboard_time": 1691774246,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 106319,
