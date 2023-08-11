@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691720398586,
+  "endTime": 1691721232907,
   "band_list": [
     {
       "raw_hot": 2766015,
@@ -43,6 +43,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1640704,
+      "num": 1640704,
+      "word": "河北暴雨洪水死亡29人",
+      "onboard_time": 1691720072,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1430421,
       "num": 717543,
       "word": "梅林殉情",
@@ -57,6 +65,14 @@
       "onboard_time": 1691711972,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1245066,
+      "num": 1245066,
+      "word": "张晚意梅林戏份被删改",
+      "onboard_time": 1691718211,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1167596,
@@ -75,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1127811,
-      "num": 1127811,
-      "word": "张晚意梅林戏份被删改",
-      "onboard_time": 1691718211,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1016648,
       "num": 717018,
       "word": "吴倩离婚后真是人间清醒",
@@ -99,7 +107,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 887796,
+      "raw_hot": 949349,
       "num": 887796,
       "word": "恒大地产已资不抵债",
       "onboard_time": 1691717554,
@@ -195,14 +203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 690077,
-      "num": 506759,
-      "word": "河北暴雨洪水死亡29人",
-      "onboard_time": 1691720072,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 641706,
       "num": 641706,
       "word": "长相思观众好卷",
@@ -219,7 +219,7 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 551047,
+      "raw_hot": 553961,
       "num": 551047,
       "word": "于适胸肌夹话筒",
       "onboard_time": 1691718452,
@@ -233,6 +233,14 @@
       "onboard_time": 1691683477,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 528624,
+      "num": 528624,
+      "word": "喜茶原神联动",
+      "onboard_time": 1691719712,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 524656,
@@ -323,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386614,
+      "num": 386614,
+      "word": "李莲花 爱似流星",
+      "onboard_time": 1691719891,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385867,
       "num": 224651,
       "word": "他妥协了但不多",
@@ -339,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 382610,
+      "num": 382610,
+      "word": "胡一天保你胡一天",
+      "onboard_time": 1691718032,
+      "rank": 21,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 371509,
       "num": 371509,
       "word": "建议学校都按照这个标准来分配宿舍",
@@ -353,14 +377,6 @@
       "onboard_time": 1691681617,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358791,
-      "num": 358791,
-      "word": "胡一天保你胡一天",
-      "onboard_time": 1691718032,
-      "rank": 21,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 352851,
@@ -419,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297585,
-      "num": 297585,
-      "word": "喜茶原神联动",
-      "onboard_time": 1691719712,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 294432,
       "num": 356682,
       "word": "儿子手机上的支付宝存了15万",
@@ -440,6 +448,22 @@
       "word": "女幼师疑出轨学生家长被抓当街游行",
       "onboard_time": 1691656774,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289718,
+      "num": 289718,
+      "word": "余华莫言首档合体综艺",
+      "onboard_time": 1691719291,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 289348,
+      "num": 289348,
+      "word": "男孩点4盘蚊香睡觉中毒",
+      "onboard_time": 1691716174,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -483,28 +507,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280828,
-      "num": 280828,
-      "word": "男孩点4盘蚊香睡觉中毒",
-      "onboard_time": 1691716174,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279448,
       "num": 279448,
       "word": "卡努今夜进入辽宁或者消散",
       "onboard_time": 1691714135,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274838,
-      "num": 274838,
-      "word": "李莲花 爱似流星",
-      "onboard_time": 1691719891,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 273195,
@@ -523,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263840,
-      "num": 263840,
-      "word": "余华莫言首档合体综艺",
-      "onboard_time": 1691719291,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 266449,
+      "num": 266449,
+      "word": "秦海璐刘涛友情",
+      "onboard_time": 1691720313,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 260849,
@@ -579,12 +587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249418,
+      "num": 249418,
+      "word": "七时吉祥家猪变野猪",
+      "onboard_time": 1691720313,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244949,
       "num": 244949,
       "word": "小夭并非靠别人幸存",
       "onboard_time": 1691715156,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242056,
+      "num": 242056,
+      "word": "国家安全机关对曾某某采取强制措施",
+      "onboard_time": 1691717132,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 237288,
@@ -611,20 +635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224135,
-      "num": 224135,
-      "word": "国家安全机关对曾某某采取强制措施",
-      "onboard_time": 1691717132,
-      "rank": 34,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 223946,
       "num": 223946,
       "word": "从此以后每天都是好日子",
       "onboard_time": 1691682097,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 220685,
+      "num": 220685,
+      "word": "床就是人类的无线充电器",
+      "onboard_time": 1691720371,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 220195,
@@ -673,6 +697,14 @@
       "onboard_time": 1691671233,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207216,
+      "num": 207216,
+      "word": "河北暴雨洪水还有16人失联",
+      "onboard_time": 1691720612,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202738,
@@ -755,6 +787,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 186718,
+      "num": 186718,
+      "word": "绝地追击缉毒战士山洪遇难",
+      "onboard_time": 1691720612,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181744,
       "num": 181744,
       "word": "机器人救回3名海上遇险游客",
@@ -769,14 +809,6 @@
       "onboard_time": 1691712812,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180773,
-      "num": 180773,
-      "word": "秦海璐刘涛友情",
-      "onboard_time": 1691720313,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 173700,
@@ -809,22 +841,6 @@
       "onboard_time": 1691682757,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 160661,
-      "num": 160661,
-      "word": "七时吉祥家猪变野猪",
-      "onboard_time": 1691720313,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 158145,
-      "num": 158145,
-      "word": "床就是人类的无线充电器",
-      "onboard_time": 1691720371,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 142885,
@@ -908,7 +924,7 @@
     },
     {
       "raw_hot": 92786,
-      "num": 1169409,
+      "num": 1320453,
       "word": "亚运福利100多个景区公园免门票",
       "onboard_time": 1691673273,
       "rank": 2,

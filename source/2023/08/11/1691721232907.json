@@ -1,0 +1,410 @@
+{
+  "runTime": 1691721232907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1640704,
+        "num": 1640704,
+        "word": "河北暴雨洪水死亡29人",
+        "onboard_time": 1691720072,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1419207,
+        "num": 1419207,
+        "word": "下班后微信办公算加班吗",
+        "onboard_time": 1691712394,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 40943,
+        "num": 1320453,
+        "word": "亚运福利100多个景区公园免门票",
+        "onboard_time": 1691673273,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1245066,
+        "num": 1245066,
+        "word": "张晚意梅林戏份被删改",
+        "onboard_time": 1691718211,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 690177,
+        "num": 690177,
+        "word": "导游带团游故宫4小时全程倒着走",
+        "onboard_time": 1691716592,
+        "rank": 4,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 949349,
+        "num": 654985,
+        "word": "恒大地产已资不抵债",
+        "onboard_time": 1691717554,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 556837,
+        "num": 556837,
+        "word": "国安机关破获美国中央情报局间谍案",
+        "onboard_time": 1691711067,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 528624,
+        "num": 528624,
+        "word": "喜茶原神联动",
+        "onboard_time": 1691719712,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 513424,
+        "num": 513424,
+        "word": "货车爆胎一车生猪屁股都热红了",
+        "onboard_time": 1691717913,
+        "rank": 8,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 445040,
+        "num": 445040,
+        "word": "跑步真的可能会暴富",
+        "onboard_time": 1691713895,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1872401,
+        "num": 434174,
+        "word": "李湘看王诗龄的眼神",
+        "onboard_time": 1691711670,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 950907,
+        "num": 428639,
+        "word": "湘雅三院举报信内容值得玩味",
+        "onboard_time": 1691712873,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553961,
+        "num": 426738,
+        "word": "于适胸肌夹话筒",
+        "onboard_time": 1691718452,
+        "rank": 12,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 412921,
+        "num": 412921,
+        "word": "清洁工被碾身亡案司机获国家赔偿",
+        "onboard_time": 1691711972,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386614,
+        "num": 386614,
+        "word": "李莲花 爱似流星",
+        "onboard_time": 1691719891,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384942,
+        "num": 384942,
+        "word": "李向哲公布无犯罪记录证明",
+        "onboard_time": 1691718693,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382610,
+        "num": 382610,
+        "word": "胡一天保你胡一天",
+        "onboard_time": 1691718032,
+        "rank": 16,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 333245,
+        "num": 333245,
+        "word": "幸亏过路女司机凌晨多看了两眼",
+        "onboard_time": 1691712995,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315476,
+        "num": 315476,
+        "word": "柳岩怎么瘦了这么多",
+        "onboard_time": 1691681561,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308713,
+        "num": 308713,
+        "word": "为什么会有月经同步现象",
+        "onboard_time": 1691680838,
+        "rank": 19,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 304437,
+        "num": 304437,
+        "word": "发现间谍行为拨打12339",
+        "onboard_time": 1691716894,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 294958,
+        "num": 294958,
+        "word": "警方通报280斤店员被打拒不还手",
+        "onboard_time": 1691712394,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290386,
+        "num": 290386,
+        "word": "相柳你就真的这么爱吗",
+        "onboard_time": 1691717314,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289718,
+        "num": 289718,
+        "word": "余华莫言首档合体综艺",
+        "onboard_time": 1691719291,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289348,
+        "num": 289348,
+        "word": "男孩点4盘蚊香睡觉中毒",
+        "onboard_time": 1691716174,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288121,
+        "num": 288121,
+        "word": "碧桂园提出四大自救措施",
+        "onboard_time": 1691711551,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 267774,
+        "num": 267774,
+        "word": "官方回应女子与镇干部夜泳溺亡",
+        "onboard_time": 1691718093,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266449,
+        "num": 266449,
+        "word": "秦海璐刘涛友情",
+        "onboard_time": 1691720313,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264499,
+        "num": 264499,
+        "word": "谭爷爷说花花不是洗白的",
+        "onboard_time": 1691684490,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260558,
+        "num": 260558,
+        "word": "一路朝阳定档",
+        "onboard_time": 1691718093,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259272,
+        "num": 259272,
+        "word": "杨玏封神演技",
+        "onboard_time": 1691714254,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249418,
+        "num": 249418,
+        "word": "七时吉祥家猪变野猪",
+        "onboard_time": 1691720313,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242218,
+        "num": 242218,
+        "word": "邓为演技差点意思",
+        "onboard_time": 1691670034,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242056,
+        "num": 242056,
+        "word": "国家安全机关对曾某某采取强制措施",
+        "onboard_time": 1691717132,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 239459,
+        "num": 239459,
+        "word": "暑期档最佳男主角",
+        "onboard_time": 1691711850,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238825,
+        "num": 238825,
+        "word": "骗子不骗用卡通头像的人",
+        "onboard_time": 1691710888,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237055,
+        "num": 237055,
+        "word": "原神",
+        "onboard_time": 1691717252,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225187,
+        "num": 225187,
+        "word": "孤注一掷主创跳小熊舞",
+        "onboard_time": 1691718513,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222201,
+        "num": 222201,
+        "word": "老人戴仨戒指肿胀到戒指陷肉里",
+        "onboard_time": 1691716234,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220685,
+        "num": 220685,
+        "word": "床就是人类的无线充电器",
+        "onboard_time": 1691720371,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207216,
+        "num": 207216,
+        "word": "河北暴雨洪水还有16人失联",
+        "onboard_time": 1691720612,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205014,
+        "num": 205014,
+        "word": "小夭番外",
+        "onboard_time": 1691713235,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199460,
+        "num": 199460,
+        "word": "灯神的心脏",
+        "onboard_time": 1691716772,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 194948,
+        "num": 194948,
+        "word": "佘诗曼新片现代版农夫与蛇",
+        "onboard_time": 1691717492,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186718,
+        "num": 186718,
+        "word": "绝地追击缉毒战士山洪遇难",
+        "onboard_time": 1691720612,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183676,
+        "num": 183676,
+        "word": "被马立奥笑惨了",
+        "onboard_time": 1691683477,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178396,
+        "num": 178396,
+        "word": "吴倩离婚后真是人间清醒",
+        "onboard_time": 1691677300,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175458,
+        "num": 175458,
+        "word": "Jennie机场",
+        "onboard_time": 1691708785,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174288,
+        "num": 174288,
+        "word": "甲骨文的屎字太形象了",
+        "onboard_time": 1691679880,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163492,
+        "num": 163492,
+        "word": "建议学校都按照这个标准来分配宿舍",
+        "onboard_time": 1691712394,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
