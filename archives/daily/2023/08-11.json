@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691728432712,
+  "endTime": 1691730924353,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -25,6 +25,14 @@
       "onboard_time": 1691711670,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2627854,
+      "num": 1115702,
+      "word": "周冬雨刘昊然浴室戏",
+      "onboard_time": 1691728177,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 2354410,
@@ -121,6 +129,14 @@
       "onboard_time": 1691708722,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1156959,
+      "num": 1156959,
+      "word": "周深演唱会票价",
+      "onboard_time": 1691729918,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1150828,
@@ -227,6 +243,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 807697,
+      "num": 237340,
+      "word": "新加坡外长因未打领带向王毅道歉",
+      "onboard_time": 1691728177,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 802295,
+      "num": 802295,
+      "word": "母校竟成诈骗窝点",
+      "onboard_time": 1691727096,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 751029,
       "num": 751029,
       "word": "灼灼风流定档",
@@ -283,12 +315,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 707301,
+      "num": 547485,
+      "word": "怦然心动20岁 恋综天花板",
+      "onboard_time": 1691729317,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 698983,
       "num": 698983,
       "word": "谭爷爷说花花不是洗白的",
       "onboard_time": 1691684490,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 690519,
+      "num": 528444,
+      "word": "男子要女孩微信被拒后对其爸爸动手",
+      "onboard_time": 1691729561,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 678758,
@@ -331,12 +379,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 580615,
-      "num": 580615,
-      "word": "母校竟成诈骗窝点",
-      "onboard_time": 1691727096,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 574439,
+      "num": 574439,
+      "word": "Faker遭到谋杀通知",
+      "onboard_time": 1691730338,
+      "rank": 8,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 569095,
@@ -379,6 +427,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 528749,
+      "num": 364636,
+      "word": "花千骨",
+      "onboard_time": 1691728238,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 527963,
+      "num": 527963,
+      "word": "原来我嗑的不是夭柳",
+      "onboard_time": 1691729079,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 524656,
       "num": 524656,
       "word": "碧桂园上半年预亏450至550亿",
@@ -392,14 +456,6 @@
       "word": "第一次见男女主历劫畜牲道",
       "onboard_time": 1691678383,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 509731,
-      "num": 509731,
-      "word": "周冬雨刘昊然浴室戏",
-      "onboard_time": 1691728177,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -451,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 465485,
+      "num": 338252,
+      "word": "杨紫邓为梅林原声现场",
+      "onboard_time": 1691729617,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 461960,
       "num": 461960,
       "word": "玱玹激动得不会说话了",
@@ -475,12 +539,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409926,
+      "num": 273482,
+      "word": "1000万人都收到了丁禹兮发的猪",
+      "onboard_time": 1691730037,
+      "rank": 25,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 401370,
       "num": 401370,
       "word": "爱宝双胞胎幼崽睁眼了",
       "onboard_time": 1691724874,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393580,
+      "num": 271835,
+      "word": "大学生翻拍巴啦啦小魔仙",
+      "onboard_time": 1691728897,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 386668,
@@ -555,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348650,
+      "num": 235758,
+      "word": "郭晓婷鲛人泪妆",
+      "onboard_time": 1691728541,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 345499,
       "num": 345499,
       "word": "骗子不骗用卡通头像的人",
@@ -625,6 +713,14 @@
       "onboard_time": 1691656774,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290245,
+      "num": 230779,
+      "word": "这手是吃了多少打印机",
+      "onboard_time": 1691728721,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 289718,
@@ -707,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 275190,
+      "num": 275190,
+      "word": "租房真的要好好看合同",
+      "onboard_time": 1691726737,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273195,
       "num": 273195,
       "word": "于适晒蓉宝",
@@ -721,6 +825,22 @@
       "onboard_time": 1691718093,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269870,
+      "num": 269870,
+      "word": "导游日薪上千为何还紧缺",
+      "onboard_time": 1691729438,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267546,
+      "num": 230657,
+      "word": "景甜你人还怪好的嘞",
+      "onboard_time": 1691729498,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 266449,
@@ -779,20 +899,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 256317,
-      "num": 256317,
-      "word": "租房真的要好好看合同",
-      "onboard_time": 1691726737,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254163,
       "num": 551640,
       "word": "理记 这波医疗反腐漏网的几乎不可能",
       "onboard_time": 1691679762,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249588,
+      "num": 227112,
+      "word": "25小时恋爱开播",
+      "onboard_time": 1691728960,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 249418,
@@ -808,14 +928,6 @@
       "word": "小夭并非靠别人幸存",
       "onboard_time": 1691715156,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 243629,
-      "num": 243629,
-      "word": "花千骨",
-      "onboard_time": 1691728238,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -849,6 +961,14 @@
       "onboard_time": 1691725114,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 227177,
+      "num": 227177,
+      "word": "发现了一个很爽的旅行方式",
+      "onboard_time": 1691730397,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 227094,
@@ -939,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205285,
+      "num": 226838,
+      "word": "五月天重庆宣不宣",
+      "onboard_time": 1691729258,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202738,
       "num": 202738,
       "word": "张艺兴阿拉丁神兴来了",
@@ -1011,14 +1139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191615,
-      "num": 191615,
-      "word": "新加坡外长因未打领带向王毅道歉",
-      "onboard_time": 1691728177,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190156,
       "num": 190156,
       "word": "海绵女孩这个拥抱父亲等了21年",
@@ -1072,6 +1192,22 @@
       "word": "大爷含泪说三大纪律八项注意都传下来了",
       "onboard_time": 1691712812,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179669,
+      "num": 226479,
+      "word": "战至巅峰",
+      "onboard_time": 1691730758,
+      "rank": 44,
+      "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 178944,
+      "num": 233900,
+      "word": "今天谁抢到原神喜茶了",
+      "onboard_time": 1691730279,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
