@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691764431406,
+  "endTime": 1691767008988,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -491,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2102526,
+      "num": 1208360,
+      "word": "程潇妈妈得了乳腺癌",
+      "onboard_time": 1691764541,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2075752,
       "num": 2075752,
       "word": "周深演唱会票价",
@@ -752,6 +760,14 @@
       "word": "念无双官宣",
       "onboard_time": 1691721632,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1713214,
+      "num": 1713214,
+      "word": "央视网文娱评长月烬明",
+      "onboard_time": 1691761181,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -1371,14 +1387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1333310,
-      "num": 1333310,
-      "word": "央视网文娱评长月烬明",
-      "onboard_time": 1691761181,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1332660,
       "num": 752728,
       "word": "长相思导演",
@@ -1641,6 +1649,14 @@
       "onboard_time": 1691642918,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1190805,
+      "num": 1190805,
+      "word": "北理工宿舍分配统计mbti",
+      "onboard_time": 1691763101,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1189102,
@@ -2379,6 +2395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 924802,
+      "num": 924802,
+      "word": "绿衣小夭是长相思最美妆造吗",
+      "onboard_time": 1691764600,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 921967,
       "num": 921967,
       "word": "韩国2万亿刺激生育为何失败了",
@@ -2524,7 +2548,7 @@
     },
     {
       "raw_hot": 880822,
-      "num": 439393,
+      "num": 541014,
       "word": "张杰开不起玩笑说到做到",
       "onboard_time": 1691761960,
       "rank": 21,
@@ -2625,6 +2649,14 @@
       "onboard_time": 1691477318,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 859437,
+      "num": 404868,
+      "word": "盒马山姆商战杀疯了",
+      "onboard_time": 1691763820,
+      "rank": 23,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 857917,
@@ -3073,6 +3105,14 @@
       "onboard_time": 1691763762,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 769865,
+      "num": 769865,
+      "word": "卡琳娜cos绝世唐门",
+      "onboard_time": 1691765203,
+      "rank": 8,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 768454,
@@ -3809,6 +3849,14 @@
       "onboard_time": 1691455958,
       "rank": 8,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 652098,
+      "num": 426475,
+      "word": "吴倩选择武大是因为离家近",
+      "onboard_time": 1691766401,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 647323,
@@ -5123,14 +5171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 513613,
-      "num": 513613,
-      "word": "北理工宿舍分配统计mbti",
-      "onboard_time": 1691763101,
-      "rank": 39,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 512452,
       "num": 512452,
       "word": "胡夏说我目前单身",
@@ -5177,6 +5217,14 @@
       "onboard_time": 1691377300,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 500723,
+      "num": 346572,
+      "word": "严艺丹兑现莲花楼破万一口嗦虾",
+      "onboard_time": 1691764420,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 500709,
@@ -5409,6 +5457,14 @@
       "onboard_time": 1691508877,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 480766,
+      "num": 480766,
+      "word": "三国杀输了",
+      "onboard_time": 1691765203,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 480676,
@@ -5819,6 +5875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 442479,
+      "num": 336678,
+      "word": "橘子海",
+      "onboard_time": 1691765443,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441374,
       "num": 388243,
       "word": "金晨把头像换成安娜",
@@ -5945,6 +6009,14 @@
       "onboard_time": 1691449764,
       "rank": 17,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 432779,
+      "num": 331077,
+      "word": "夭璟批现状",
+      "onboard_time": 1691766223,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 431662,
@@ -6129,6 +6201,14 @@
       "onboard_time": 1691552082,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418855,
+      "num": 401326,
+      "word": "女子请分居丈夫家人吃饭3死1伤",
+      "onboard_time": 1691764541,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418782,
@@ -6505,14 +6585,6 @@
       "onboard_time": 1691412095,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 394007,
-      "num": 394007,
-      "word": "盒马山姆商战杀疯了",
-      "onboard_time": 1691763820,
-      "rank": 23,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 393580,
@@ -8308,7 +8380,7 @@
     },
     {
       "raw_hot": 289041,
-      "num": 218590,
+      "num": 225723,
       "word": "孤注一掷登顶暑期档很劲报",
       "onboard_time": 1691763461,
       "rank": 40,
@@ -8353,6 +8425,14 @@
       "onboard_time": 1691623165,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287063,
+      "num": 229954,
+      "word": "那英听康士坦的歌是华晨宇推荐的",
+      "onboard_time": 1691766882,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 287033,
@@ -8401,6 +8481,14 @@
       "onboard_time": 1691674778,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 283223,
+      "num": 283223,
+      "word": "跟射手座恋爱全凭运气",
+      "onboard_time": 1691766283,
+      "rank": 32,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 283116,
@@ -9400,6 +9488,14 @@
       "word": "专家解读7月猴痘病例突增原因",
       "onboard_time": 1691570379,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242671,
+      "num": 242671,
+      "word": "女骑手回应还手机被送秋天第一杯奶茶",
+      "onboard_time": 1691764126,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -12203,14 +12299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145605,
-      "num": 214215,
-      "word": "女骑手回应还手机被送秋天第一杯奶茶",
-      "onboard_time": 1691764126,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145346,
       "num": 151660,
       "word": "喜欢你舞台",
@@ -12329,6 +12417,14 @@
       "onboard_time": 1691744799,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139621,
+      "num": 222498,
+      "word": "这一刻 思念有了痕迹",
+      "onboard_time": 1691765021,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 139226,
@@ -12609,6 +12705,14 @@
       "onboard_time": 1691378138,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121132,
+      "num": 222393,
+      "word": "飞鸟动物园的头牌是只猫",
+      "onboard_time": 1691765862,
+      "rank": 49,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 120595,
