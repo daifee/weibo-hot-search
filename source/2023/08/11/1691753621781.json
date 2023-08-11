@@ -1,0 +1,410 @@
+{
+  "runTime": 1691753621781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2125761,
+        "num": 2125761,
+        "word": "高叶狂飙后首部电视剧",
+        "onboard_time": 1691749716,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498114,
+        "num": 1160227,
+        "word": "长沙一小区给业主发60万元现金",
+        "onboard_time": 1691751695,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27817,
+        "num": 988375,
+        "word": "全国文化中心建设十件大事喊你来投票",
+        "onboard_time": 1691752534,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944634,
+        "num": 944634,
+        "word": "王鹤棣终于演了西装暴徒",
+        "onboard_time": 1691744380,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471199,
+        "num": 810965,
+        "word": "小狗进地铁蹭空调被安保耐心劝离",
+        "onboard_time": 1691741917,
+        "rank": 4,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 808523,
+        "num": 808523,
+        "word": "赵丽颖到底在过哪个季节",
+        "onboard_time": 1691743717,
+        "rank": 5,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 358068,
+        "num": 644735,
+        "word": "浙江今年出了名女飞行学员",
+        "onboard_time": 1691752055,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1432700,
+        "num": 627163,
+        "word": "医药代表性贿赂医生",
+        "onboard_time": 1691734176,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 585789,
+        "num": 585789,
+        "word": "周翊然一天官宣两部剧",
+        "onboard_time": 1691748158,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540171,
+        "num": 540171,
+        "word": "女工程师为出轨对象成为间谍17年",
+        "onboard_time": 1691734657,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619653,
+        "num": 498763,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1691749959,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 601470,
+        "num": 491367,
+        "word": "赵丽颖回应在过哪个季节",
+        "onboard_time": 1691750317,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454530,
+        "num": 454530,
+        "word": "毛不易回复张晚意",
+        "onboard_time": 1691750435,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336213,
+        "num": 447286,
+        "word": "雷军建议大家少刷手机",
+        "onboard_time": 1691740536,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 69204,
+        "num": 444149,
+        "word": "哈登点名郭艾伦",
+        "onboard_time": 1691751695,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443346,
+        "num": 443346,
+        "word": "有些照片截一下就好看了",
+        "onboard_time": 1691750138,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429094,
+        "num": 429094,
+        "word": "金晨荷官发牌",
+        "onboard_time": 1691747437,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411593,
+        "num": 411593,
+        "word": "长相思",
+        "onboard_time": 1691751097,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407888,
+        "num": 407888,
+        "word": "碧桂园管理层致歉",
+        "onboard_time": 1691747796,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398428,
+        "num": 398428,
+        "word": "魏无羡出品的代驾",
+        "onboard_time": 1691747796,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 640085,
+        "num": 393672,
+        "word": "新冠三阳的人开始陆续出现",
+        "onboard_time": 1691733156,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456211,
+        "num": 351266,
+        "word": "金晨孤注一掷被删戏份",
+        "onboard_time": 1691748574,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422858,
+        "num": 345993,
+        "word": "杨紫从来不用假发套",
+        "onboard_time": 1691745760,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306392,
+        "num": 306392,
+        "word": "男孩进店叫醒午休老板没购物狂道歉",
+        "onboard_time": 1691748458,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296723,
+        "num": 296723,
+        "word": "华为上半年销售收入3109亿元",
+        "onboard_time": 1691752176,
+        "rank": 24,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 386991,
+        "num": 293363,
+        "word": "于正 邓为",
+        "onboard_time": 1691726136,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271983,
+        "num": 271983,
+        "word": "大学生也开始用上电话手表了",
+        "onboard_time": 1691749656,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265878,
+        "num": 265878,
+        "word": "魏大勋捧脸照",
+        "onboard_time": 1691749716,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 260224,
+        "num": 260224,
+        "word": "檀健次直播",
+        "onboard_time": 1691736034,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242449,
+        "num": 246892,
+        "word": "当你散步忘带小狗出门",
+        "onboard_time": 1691749536,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245310,
+        "num": 245310,
+        "word": "种地吧导演组开拍前把所有农活干了一遍",
+        "onboard_time": 1691745341,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244367,
+        "num": 244367,
+        "word": "玱玹眼神",
+        "onboard_time": 1691750975,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241257,
+        "num": 241257,
+        "word": "林俊杰演唱会抢票",
+        "onboard_time": 1691751576,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208375,
+        "num": 232010,
+        "word": "把西瓜皮吃成透明的也是技术",
+        "onboard_time": 1691751996,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205514,
+        "num": 229248,
+        "word": "LCK",
+        "onboard_time": 1691750317,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228367,
+        "num": 228367,
+        "word": "张杰帮你们把坏天气都踢走",
+        "onboard_time": 1691749296,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226439,
+        "num": 226439,
+        "word": "七时吉祥",
+        "onboard_time": 1691752476,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189957,
+        "num": 221899,
+        "word": "哈登中国行",
+        "onboard_time": 1691752476,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183168,
+        "num": 220999,
+        "word": "发现了一个很爽的旅行方式",
+        "onboard_time": 1691730397,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 159147,
+        "num": 220907,
+        "word": "Faker遭到谋杀通知",
+        "onboard_time": 1691730338,
+        "rank": 39,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 220870,
+        "num": 220870,
+        "word": "沈腾摔倒然后李莲花",
+        "onboard_time": 1691744078,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215749,
+        "num": 215749,
+        "word": "周杰伦昆凌捐赠300万助力抗洪救灾",
+        "onboard_time": 1691738856,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208986,
+        "num": 208986,
+        "word": "白日梦我",
+        "onboard_time": 1691738796,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205726,
+        "num": 205726,
+        "word": "张杰深圳演唱会",
+        "onboard_time": 1691752597,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202065,
+        "num": 205725,
+        "word": "Lisa穿比基尼好辣",
+        "onboard_time": 1691738556,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192314,
+        "num": 205721,
+        "word": "2023截至目前TikTok人气最高男团歌曲",
+        "onboard_time": 1691751876,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145564,
+        "num": 205719,
+        "word": "大爷高铁上戴耳机喝白酒全程安静",
+        "onboard_time": 1691753196,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128520,
+        "num": 205717,
+        "word": "发现间谍行为该打几几几",
+        "onboard_time": 1691743717,
+        "rank": 47,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 118580,
+        "num": 205714,
+        "word": "北京地铁开通时光列车穿越6个年代",
+        "onboard_time": 1691751457,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114863,
+        "num": 205714,
+        "word": "缅甸柬埔寨来抢中国游客了",
+        "onboard_time": 1691724634,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#调查研究永远在路上#"
+    }
+  }
+}
