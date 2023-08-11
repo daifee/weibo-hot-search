@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691767008988,
+  "endTime": 1691768036161,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -3115,6 +3115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1310666,
+      "num": 1310666,
+      "word": "吴倩选择武大是因为离家近",
+      "onboard_time": 1691766401,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1309809,
       "num": 1309809,
       "word": "长相思梅林统一了剧粉",
@@ -5827,6 +5835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 868988,
+      "num": 322047,
+      "word": "00年带98年的实习生",
+      "onboard_time": 1691767180,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 867940,
       "num": 867940,
       "word": "北京本次降雨为140年来最大降雨",
@@ -6729,6 +6745,14 @@
       "onboard_time": 1691286037,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 778919,
+      "num": 458765,
+      "word": "吴宣仪希望衣服尺码再小一点",
+      "onboard_time": 1691767239,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 778789,
@@ -8489,14 +8513,6 @@
       "onboard_time": 1690951237,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 652098,
-      "num": 426475,
-      "word": "吴倩选择武大是因为离家近",
-      "onboard_time": 1691766401,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 651196,
@@ -10355,6 +10371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557700,
+      "num": 331077,
+      "word": "夭璟批现状",
+      "onboard_time": 1691766223,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 557331,
       "num": 528765,
       "word": "邓为直播",
@@ -10689,6 +10713,14 @@
       "onboard_time": 1691335930,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 543089,
+      "num": 310408,
+      "word": "白日梦我定档",
+      "onboard_time": 1691767361,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 542665,
@@ -13379,14 +13411,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 432779,
-      "num": 331077,
-      "word": "夭璟批现状",
-      "onboard_time": 1691766223,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 431662,
       "num": 431662,
       "word": "张晚意北电毕业照",
@@ -13681,6 +13705,14 @@
       "onboard_time": 1691399198,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421557,
+      "num": 421557,
+      "word": "跟射手座恋爱全凭运气",
+      "onboard_time": 1691766283,
+      "rank": 32,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 420909,
@@ -17323,6 +17355,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 314007,
+      "num": 241990,
+      "word": "蒲熠星的猫好欧",
+      "onboard_time": 1691767361,
+      "rank": 36,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 313891,
+      "num": 240366,
+      "word": "田馥甄唱了路过人间",
+      "onboard_time": 1691767838,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 313353,
       "num": 313353,
       "word": "这是女生努力的意义",
@@ -17779,6 +17827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303893,
+      "num": 229954,
+      "word": "那英听康士坦的歌是华晨宇推荐的",
+      "onboard_time": 1691766882,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303889,
       "num": 303889,
       "word": "谢霆锋真不把我们当外人",
@@ -17809,6 +17865,14 @@
       "onboard_time": 1690884573,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302940,
+      "num": 302940,
+      "word": "用防窥膜的重要性",
+      "onboard_time": 1691767180,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 302915,
@@ -18627,14 +18691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287063,
-      "num": 229954,
-      "word": "那英听康士坦的歌是华晨宇推荐的",
-      "onboard_time": 1691766882,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287033,
       "num": 240458,
       "word": "心动的信号",
@@ -18785,14 +18841,6 @@
       "onboard_time": 1691674778,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 283223,
-      "num": 283223,
-      "word": "跟射手座恋爱全凭运气",
-      "onboard_time": 1691766283,
-      "rank": 32,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 283116,
@@ -19137,6 +19185,14 @@
       "onboard_time": 1691123138,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275319,
+      "num": 214235,
+      "word": "莲花楼queencard101",
+      "onboard_time": 1691767962,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 275190,
