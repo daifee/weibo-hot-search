@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691719166304,
+  "endTime": 1691720398586,
   "band_list": [
     {
       "raw_hot": 2766015,
@@ -35,8 +35,8 @@
       "category": "其它"
     },
     {
-      "raw_hot": 1654701,
-      "num": 1654701,
+      "raw_hot": 1666631,
+      "num": 1666631,
       "word": "下班后微信办公算加班吗",
       "onboard_time": 1691712394,
       "rank": 6,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1127811,
+      "num": 1127811,
+      "word": "张晚意梅林戏份被删改",
+      "onboard_time": 1691718211,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1016648,
       "num": 717018,
       "word": "吴倩离婚后真是人间清醒",
@@ -89,6 +97,14 @@
       "onboard_time": 1691670034,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 887796,
+      "num": 887796,
+      "word": "恒大地产已资不抵债",
+      "onboard_time": 1691717554,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 887005,
@@ -123,8 +139,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 803273,
-      "num": 458678,
+      "raw_hot": 817213,
+      "num": 817213,
       "word": "导游带团游故宫4小时全程倒着走",
       "onboard_time": 1691716592,
       "rank": 30,
@@ -179,6 +195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 690077,
+      "num": 506759,
+      "word": "河北暴雨洪水死亡29人",
+      "onboard_time": 1691720072,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641706,
       "num": 641706,
       "word": "长相思观众好卷",
@@ -187,20 +211,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 579831,
-      "num": 579831,
-      "word": "恒大地产已资不抵债",
-      "onboard_time": 1691717554,
-      "rank": 5,
-      "category": "财经"
+      "raw_hot": 569095,
+      "num": 569095,
+      "word": "货车爆胎一车生猪屁股都热红了",
+      "onboard_time": 1691717913,
+      "rank": 15,
+      "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 549105,
-      "num": 549105,
-      "word": "张晚意梅林戏份被删改",
-      "onboard_time": 1691718211,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 551047,
+      "num": 551047,
+      "word": "于适胸肌夹话筒",
+      "onboard_time": 1691718452,
+      "rank": 38,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 544934,
@@ -283,12 +307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 459926,
-      "num": 428617,
-      "word": "货车爆胎一车生猪屁股都热红了",
-      "onboard_time": 1691717913,
-      "rank": 15,
-      "category": "社会新闻,幽默"
+      "raw_hot": 450394,
+      "num": 450394,
+      "word": "李向哲公布无犯罪记录证明",
+      "onboard_time": 1691718693,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 386668,
@@ -331,6 +355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358791,
+      "num": 358791,
+      "word": "胡一天保你胡一天",
+      "onboard_time": 1691718032,
+      "rank": 21,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 352851,
       "num": 352851,
       "word": "孙阳痞帅",
@@ -371,12 +403,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306910,
+      "num": 306910,
+      "word": "相柳你就真的这么爱吗",
+      "onboard_time": 1691717314,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304779,
       "num": 304779,
       "word": "老人戴仨戒指肿胀到戒指陷肉里",
       "onboard_time": 1691716234,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297585,
+      "num": 297585,
+      "word": "喜茶原神联动",
+      "onboard_time": 1691719712,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 294432,
@@ -395,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287691,
-      "num": 287691,
-      "word": "胡一天保你胡一天",
-      "onboard_time": 1691718032,
-      "rank": 21,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 285984,
       "num": 285984,
       "word": "佘诗曼新片现代版农夫与蛇",
@@ -419,12 +459,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281831,
+      "num": 281831,
+      "word": "一路朝阳定档",
+      "onboard_time": 1691718093,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281168,
       "num": 593478,
       "word": "湖南一女子与镇干部水库游泳溺亡",
       "onboard_time": 1691658635,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280907,
+      "num": 280907,
+      "word": "原神",
+      "onboard_time": 1691717252,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 280828,
@@ -443,11 +499,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276347,
-      "num": 276347,
-      "word": "相柳你就真的这么爱吗",
-      "onboard_time": 1691717314,
-      "rank": 25,
+      "raw_hot": 274838,
+      "num": 274838,
+      "word": "李莲花 爱似流星",
+      "onboard_time": 1691719891,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -459,20 +515,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 269944,
-      "num": 269944,
+      "raw_hot": 271444,
+      "num": 271444,
       "word": "官方回应女子与镇干部夜泳溺亡",
       "onboard_time": 1691718093,
       "rank": 27,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264494,
-      "num": 264494,
-      "word": "一路朝阳定档",
-      "onboard_time": 1691718093,
-      "rank": 29,
-      "category": "影视"
+      "raw_hot": 263840,
+      "num": 263840,
+      "word": "余华莫言首档合体综艺",
+      "onboard_time": 1691719291,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 260849,
@@ -481,14 +537,6 @@
       "onboard_time": 1691713656,
       "rank": 27,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 259973,
-      "num": 259973,
-      "word": "原神",
-      "onboard_time": 1691717252,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 259375,
@@ -505,14 +553,6 @@
       "onboard_time": 1691678799,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259041,
-      "num": 259041,
-      "word": "李向哲公布无犯罪记录证明",
-      "onboard_time": 1691718693,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 258087,
@@ -547,14 +587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237399,
-      "num": 237399,
-      "word": "于适胸肌夹话筒",
-      "onboard_time": 1691718452,
-      "rank": 38,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 237288,
       "num": 210848,
       "word": "莲花楼女性角色刻画",
@@ -577,6 +609,14 @@
       "onboard_time": 1691674958,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224135,
+      "num": 224135,
+      "word": "国家安全机关对曾某某采取强制措施",
+      "onboard_time": 1691717132,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 223946,
@@ -649,14 +689,6 @@
       "onboard_time": 1691714735,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202022,
-      "num": 202022,
-      "word": "国家安全机关对曾某某采取强制措施",
-      "onboard_time": 1691717132,
-      "rank": 34,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 198949,
@@ -739,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180773,
+      "num": 180773,
+      "word": "秦海璐刘涛友情",
+      "onboard_time": 1691720313,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173700,
       "num": 166435,
       "word": "性感潘生",
@@ -769,6 +809,22 @@
       "onboard_time": 1691682757,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 160661,
+      "num": 160661,
+      "word": "七时吉祥家猪变野猪",
+      "onboard_time": 1691720313,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 158145,
+      "num": 158145,
+      "word": "床就是人类的无线充电器",
+      "onboard_time": 1691720371,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 142885,
