@@ -1,6 +1,6 @@
 {
   "startTime": 1691684545005,
-  "endTime": 1691757021730,
+  "endTime": 1691757987177,
   "band_list": [
     {
       "raw_hot": 3888568,
@@ -41,6 +41,14 @@
       "onboard_time": 1691728177,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2495756,
+      "num": 466173,
+      "word": "中国已成为全球生育率最低的国家之一",
+      "onboard_time": 1691755055,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2475806,
@@ -193,14 +201,6 @@
       "onboard_time": 1691744380,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1390426,
-      "num": 466173,
-      "word": "中国已成为全球生育率最低的国家之一",
-      "onboard_time": 1691755055,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1265299,
@@ -595,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 643589,
+      "num": 643589,
+      "word": "和天秤座相处要多一点耐心",
+      "onboard_time": 1691754934,
+      "rank": 6,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 641706,
       "num": 641706,
       "word": "长相思观众好卷",
@@ -619,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 615952,
-      "num": 615952,
-      "word": "和天秤座相处要多一点耐心",
-      "onboard_time": 1691754934,
-      "rank": 6,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 614293,
       "num": 1740568,
       "word": "小狗进地铁蹭空调被安保耐心劝离",
@@ -641,6 +641,14 @@
       "onboard_time": 1691719712,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 602117,
+      "num": 365554,
+      "word": "陈赫 等邓超开场呢",
+      "onboard_time": 1691756436,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 601470,
@@ -763,6 +771,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 500709,
+      "num": 500709,
+      "word": "鹿晗武汉演唱会",
+      "onboard_time": 1691756315,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 498114,
       "num": 1160227,
       "word": "长沙一小区给业主发60万元现金",
@@ -777,6 +793,14 @@
       "onboard_time": 1691681561,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 485403,
+      "num": 348168,
+      "word": "Lisa行程",
+      "onboard_time": 1691756679,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 484061,
@@ -849,6 +873,14 @@
       "onboard_time": 1691674477,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 470760,
+      "num": 337376,
+      "word": "SHE时隔四年再合体",
+      "onboard_time": 1691757696,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 461960,
@@ -969,14 +1001,6 @@
       "onboard_time": 1691728897,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 389284,
-      "num": 389284,
-      "word": "鹿晗武汉演唱会",
-      "onboard_time": 1691756315,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 386668,
@@ -1155,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326500,
+      "num": 309154,
+      "word": "谭爷爷说花花本来就比以前长得白了",
+      "onboard_time": 1691756792,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322465,
       "num": 322465,
       "word": "男孩进店叫醒午休老板没购物狂道歉",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1691743239,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 321583,
+      "num": 307719,
+      "word": "肖战终于穿背带裤了",
+      "onboard_time": 1691757758,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 317534,
@@ -1235,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301638,
+      "num": 301638,
+      "word": "鹿晗银白狼奔",
+      "onboard_time": 1691756857,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 299880,
       "num": 299880,
       "word": "魏大勋捧脸照",
@@ -1273,14 +1321,6 @@
       "onboard_time": 1691649622,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 294343,
-      "num": 294343,
-      "word": "陈赫 等邓超开场呢",
-      "onboard_time": 1691756436,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 293656,
@@ -1651,6 +1691,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 240651,
+      "num": 240651,
+      "word": "钢铁侠蜘蛛侠来鹿晗演唱会了",
+      "onboard_time": 1691756679,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239154,
       "num": 239154,
       "word": "孤注一掷",
@@ -1683,14 +1731,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 234476,
-      "num": 234476,
-      "word": "Lisa行程",
-      "onboard_time": 1691756679,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227094,
       "num": 227094,
       "word": "19岁男生送外卖撞车被家人骂去死",
@@ -1721,6 +1761,14 @@
       "onboard_time": 1691678142,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217271,
+      "num": 305917,
+      "word": "多名医保局长被调查",
+      "onboard_time": 1691756256,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216308,
@@ -1803,16 +1851,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208439,
-      "num": 208439,
-      "word": "鹿晗银白狼奔",
-      "onboard_time": 1691756857,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 208375,
-      "num": 233144,
+      "num": 240292,
       "word": "把西瓜皮吃成透明的也是技术",
       "onboard_time": 1691751996,
       "rank": 39,
@@ -2155,6 +2195,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 167635,
+      "num": 207699,
+      "word": "如果有朋友突然临时约你",
+      "onboard_time": 1691757515,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 166836,
       "num": 166836,
       "word": "当代人不看武侠小说",
@@ -2235,14 +2283,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 145518,
-      "num": 208378,
-      "word": "谭爷爷说花花本来就比以前长得白了",
-      "onboard_time": 1691756792,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144893,
       "num": 1386573,
       "word": "跳桥救人外卖小哥成亚运志愿者",
@@ -2307,11 +2347,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 132065,
-      "num": 208321,
-      "word": "多名医保局长被调查",
-      "onboard_time": 1691756256,
-      "rank": 48,
+      "raw_hot": 130491,
+      "num": 436845,
+      "word": "女孩疑被诱骗跑进加油站求助逃脱",
+      "onboard_time": 1691755234,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2371,20 +2411,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114508,
+      "num": 207299,
+      "word": "爱在落坡岭",
+      "onboard_time": 1691757034,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111082,
       "num": 317945,
       "word": "雷军说不用非进大厂",
       "onboard_time": 1691730995,
       "rank": 27,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 98451,
-      "num": 436845,
-      "word": "女孩疑被诱骗跑进加油站求助逃脱",
-      "onboard_time": 1691755234,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92786,
@@ -2508,7 +2548,7 @@
     },
     {
       "raw_hot": 54761,
-      "num": 1028446,
+      "num": 1100934,
       "word": "大戏看北京",
       "onboard_time": 1691755295,
       "rank": 2,
