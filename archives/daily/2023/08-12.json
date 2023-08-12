@@ -1,10 +1,10 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691811223391,
+  "endTime": 1691813930638,
   "band_list": [
     {
       "raw_hot": 2459545,
-      "num": 1065844,
+      "num": 1300198,
       "word": "娜扎为什么接这种广告",
       "onboard_time": 1691805516,
       "rank": 5,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2209710,
-      "num": 1065382,
+      "num": 1230448,
       "word": "医生说曾黎顶多30岁",
       "onboard_time": 1691802516,
       "rank": 10,
@@ -35,12 +35,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1777370,
+      "num": 1777370,
+      "word": "哥 成钢他会改的",
+      "onboard_time": 1691811399,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1716973,
       "num": 1716973,
       "word": "刘浩存把丁程鑫撩到耳朵都红了",
       "onboard_time": 1691809476,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1714089,
+      "num": 1714089,
+      "word": "宿舍用了9000度电是什么体验",
+      "onboard_time": 1691806475,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 1352754,
@@ -123,14 +139,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1063489,
-      "num": 1063489,
-      "word": "宿舍用了9000度电是什么体验",
-      "onboard_time": 1691806475,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 884510,
       "num": 569608,
       "word": "鹿晗时隔六年再发星期五",
@@ -195,12 +203,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 611923,
-      "num": 611923,
+      "raw_hot": 643829,
+      "num": 643829,
       "word": "莲花楼唯一一个恋爱脑",
       "onboard_time": 1691808456,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 631703,
+      "num": 631703,
+      "word": "六公主说王一博像一个宝藏",
+      "onboard_time": 1691810916,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 609546,
+      "num": 609546,
+      "word": "妈妈过于前卫是什么体验",
+      "onboard_time": 1691811399,
+      "rank": 12,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 592738,
@@ -251,6 +275,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 554975,
+      "num": 554975,
+      "word": "奶茶奶盖有多不健康",
+      "onboard_time": 1691812059,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 549879,
       "num": 686939,
       "word": "梅西球童是贝克汉姆女儿",
@@ -265,6 +297,14 @@
       "onboard_time": 1691766283,
       "rank": 7,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 529970,
+      "num": 529970,
+      "word": "雅安",
+      "onboard_time": 1691810256,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527377,
@@ -339,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 460823,
+      "num": 460823,
+      "word": "复活后的殷郊",
+      "onboard_time": 1691812416,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 435101,
       "num": 435101,
       "word": "陈赫说鹿晗在五哈群发半裸健身照",
@@ -379,12 +427,36 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 420430,
+      "num": 420430,
+      "word": "感觉檀健次下一秒要晕过去",
+      "onboard_time": 1691812537,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416811,
+      "num": 416811,
+      "word": "罗翔 真正的爱是扶级而上的",
+      "onboard_time": 1691812597,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 413815,
       "num": 265875,
       "word": "很好又被邓为拿捏了",
       "onboard_time": 1691761119,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 411907,
+      "num": 411907,
+      "word": "苍兰诀到底算不算爆",
+      "onboard_time": 1691811877,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 411501,
@@ -451,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382321,
+      "num": 382321,
+      "word": "罗云熙好会挑剧本",
+      "onboard_time": 1691813017,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380768,
       "num": 380768,
       "word": "Ella晒SHE合影",
@@ -475,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 372793,
+      "num": 573977,
+      "word": "杭州亚运电竞门票销售8月14日启动",
+      "onboard_time": 1691809417,
+      "rank": 14,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 367740,
       "num": 351127,
       "word": "2023下半年待播剧",
@@ -489,6 +577,14 @@
       "onboard_time": 1691810137,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 365644,
+      "num": 365644,
+      "word": "为什么现在的奶茶这么贵",
+      "onboard_time": 1691810677,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 364573,
@@ -555,14 +651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 346111,
-      "num": 412691,
-      "word": "雅安",
-      "onboard_time": 1691810256,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337660,
       "num": 267611,
       "word": "相柳的救兵来了",
@@ -592,6 +680,14 @@
       "word": "你梦想中的荷官和现实中的荷官",
       "onboard_time": 1691776280,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314636,
+      "num": 314636,
+      "word": "长相思 全民制作人",
+      "onboard_time": 1691813678,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -640,6 +736,14 @@
       "word": "长相思梅林统一了剧粉",
       "onboard_time": 1691761119,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 280712,
+      "num": 257380,
+      "word": "相柳 一个狗啃过的碗",
+      "onboard_time": 1691813198,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -707,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249973,
+      "num": 326591,
+      "word": "上海129元的自助餐",
+      "onboard_time": 1691813317,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 246276,
       "num": 232095,
       "word": "liz再染金发",
@@ -763,14 +875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234781,
-      "num": 234781,
-      "word": "为什么现在的奶茶这么贵",
-      "onboard_time": 1691810677,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 234344,
       "num": 261090,
       "word": "如何恰到好处的称呼另一半",
@@ -819,14 +923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 229426,
-      "num": 573977,
-      "word": "杭州亚运电竞门票销售8月14日启动",
-      "onboard_time": 1691809417,
-      "rank": 14,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 229178,
       "num": 229178,
       "word": "高叶狂飙后首部电视剧",
@@ -844,10 +940,18 @@
     },
     {
       "raw_hot": 225381,
-      "num": 225381,
+      "num": 344098,
       "word": "官方答医院不听从孕妇堕胎意愿相关",
       "onboard_time": 1691802456,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225103,
+      "num": 292522,
+      "word": "千万不能买短乘长",
+      "onboard_time": 1691813376,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -907,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215735,
+      "num": 215735,
+      "word": "于适魏大勋早期同框",
+      "onboard_time": 1691811756,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214178,
       "num": 214178,
       "word": "山东的山指的是哪座山",
@@ -955,12 +1067,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201787,
-      "num": 201787,
-      "word": "六公主说王一博像一个宝藏",
-      "onboard_time": 1691810916,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 200491,
+      "num": 208910,
+      "word": "周深回应巡演",
+      "onboard_time": 1691812777,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200075,
+      "num": 248599,
+      "word": "小偷自己都觉得好丟人",
+      "onboard_time": 1691813017,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 199764,
@@ -1067,6 +1187,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 162441,
+      "num": 208828,
+      "word": "宫崎骏新作剧照公开",
+      "onboard_time": 1691813918,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 157941,
       "num": 157941,
       "word": "中国人有自己的蛋挞",
@@ -1129,6 +1257,14 @@
       "onboard_time": 1691759436,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136646,
+      "num": 1317470,
+      "word": "人气旺起来消费火起来经济活起来",
+      "onboard_time": 1691810076,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134746,
@@ -1239,14 +1375,6 @@
       "num": 1087552,
       "word": "洪水来临时哪些地方是危险地带",
       "onboard_time": 1691761000,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83458,
-      "num": 1066595,
-      "word": "人气旺起来消费火起来经济活起来",
-      "onboard_time": 1691810076,
       "rank": 2,
       "category": "社会新闻"
     },

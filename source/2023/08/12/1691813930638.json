@@ -1,0 +1,410 @@
+{
+  "runTime": 1691813930638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1777370,
+        "num": 1777370,
+        "word": "哥 成钢他会改的",
+        "onboard_time": 1691811399,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1714089,
+        "num": 1714089,
+        "word": "宿舍用了9000度电是什么体验",
+        "onboard_time": 1691806475,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136646,
+        "num": 1317470,
+        "word": "人气旺起来消费火起来经济活起来",
+        "onboard_time": 1691810076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1887233,
+        "num": 1300198,
+        "word": "娜扎为什么接这种广告",
+        "onboard_time": 1691805516,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1272706,
+        "num": 1272706,
+        "word": "刘浩存把丁程鑫撩到耳朵都红了",
+        "onboard_time": 1691809476,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1230448,
+        "num": 1230448,
+        "word": "医生说曾黎顶多30岁",
+        "onboard_time": 1691802516,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685129,
+        "num": 685129,
+        "word": "肾好不好睡一觉就知道了",
+        "onboard_time": 1691796025,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 651096,
+        "num": 651096,
+        "word": "我好像删到电脑的大动脉了",
+        "onboard_time": 1691796205,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 459653,
+        "num": 645898,
+        "word": "妻子实名举报医生老公每年药品回扣十几万",
+        "onboard_time": 1691797709,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333929,
+        "num": 644393,
+        "word": "梅西球童是贝克汉姆女儿",
+        "onboard_time": 1691805275,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643829,
+        "num": 643829,
+        "word": "莲花楼唯一一个恋爱脑",
+        "onboard_time": 1691808456,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 631703,
+        "num": 631703,
+        "word": "六公主说王一博像一个宝藏",
+        "onboard_time": 1691810916,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 609546,
+        "num": 609546,
+        "word": "妈妈过于前卫是什么体验",
+        "onboard_time": 1691811399,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 372793,
+        "num": 560844,
+        "word": "杭州亚运电竞门票销售8月14日启动",
+        "onboard_time": 1691809417,
+        "rank": 13,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 302893,
+        "num": 556488,
+        "word": "产妇给孩子取名中国人感谢援阿医疗队",
+        "onboard_time": 1691804675,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 554975,
+        "num": 554975,
+        "word": "奶茶奶盖有多不健康",
+        "onboard_time": 1691812059,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 529970,
+        "num": 529970,
+        "word": "雅安",
+        "onboard_time": 1691810256,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478447,
+        "num": 478447,
+        "word": "李雪琴的北大真是没白上",
+        "onboard_time": 1691800894,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460823,
+        "num": 460823,
+        "word": "复活后的殷郊",
+        "onboard_time": 1691812416,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445132,
+        "num": 445132,
+        "word": "夭璟夭柳夭玹三家的现状",
+        "onboard_time": 1691808038,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478243,
+        "num": 444990,
+        "word": "被男子骗至家中杀害奸尸女子家属发声",
+        "onboard_time": 1691798371,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444106,
+        "num": 444106,
+        "word": "那英 你不吹牛能死吗",
+        "onboard_time": 1691797113,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420430,
+        "num": 420430,
+        "word": "感觉檀健次下一秒要晕过去",
+        "onboard_time": 1691812537,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416811,
+        "num": 416811,
+        "word": "罗翔 真正的爱是扶级而上的",
+        "onboard_time": 1691812597,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 411907,
+        "num": 411907,
+        "word": "苍兰诀到底算不算爆",
+        "onboard_time": 1691811877,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382321,
+        "num": 382321,
+        "word": "罗云熙好会挑剧本",
+        "onboard_time": 1691813017,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365644,
+        "num": 365644,
+        "word": "为什么现在的奶茶这么贵",
+        "onboard_time": 1691810677,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 351676,
+        "num": 351676,
+        "word": "张艺兴被孙红雷骗金条能念叨一辈子",
+        "onboard_time": 1691806717,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345830,
+        "num": 345830,
+        "word": "霸王茶姬",
+        "onboard_time": 1691795001,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177293,
+        "num": 344098,
+        "word": "官方答医院不听从孕妇堕胎意愿相关",
+        "onboard_time": 1691802456,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343271,
+        "num": 343271,
+        "word": "小夭梅林重新剪辑了",
+        "onboard_time": 1691810137,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249973,
+        "num": 326591,
+        "word": "上海129元的自助餐",
+        "onboard_time": 1691813317,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 314636,
+        "num": 314636,
+        "word": "长相思 全民制作人",
+        "onboard_time": 1691813678,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225103,
+        "num": 292522,
+        "word": "千万不能买短乘长",
+        "onboard_time": 1691813376,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284468,
+        "num": 284468,
+        "word": "邓为演技",
+        "onboard_time": 1691805457,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257628,
+        "num": 257628,
+        "word": "金智秀AllEYESONME首舞台",
+        "onboard_time": 1691808215,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280712,
+        "num": 257380,
+        "word": "相柳 一个狗啃过的碗",
+        "onboard_time": 1691813198,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256070,
+        "num": 256070,
+        "word": "赵丽颖给粉丝报销路费",
+        "onboard_time": 1691805877,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200075,
+        "num": 248599,
+        "word": "小偷自己都觉得好丟人",
+        "onboard_time": 1691813017,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196937,
+        "num": 247254,
+        "word": "不剃腋毛有错吗",
+        "onboard_time": 1691805816,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246798,
+        "num": 246798,
+        "word": "魏大勋演我嗑cp",
+        "onboard_time": 1691809537,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238821,
+        "num": 238821,
+        "word": "杨紫成毅迪丽热巴肖战曾舜晞檀健次V榜破9",
+        "onboard_time": 1691802757,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215735,
+        "num": 215735,
+        "word": "于适魏大勋早期同框",
+        "onboard_time": 1691811756,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208941,
+        "num": 208941,
+        "word": "陈赫说鹿晗在五哈群发半裸健身照",
+        "onboard_time": 1691805759,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200491,
+        "num": 208910,
+        "word": "周深回应巡演",
+        "onboard_time": 1691812777,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170473,
+        "num": 208872,
+        "word": "家庭自卑就是这样来的",
+        "onboard_time": 1691800113,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162441,
+        "num": 208828,
+        "word": "宫崎骏新作剧照公开",
+        "onboard_time": 1691813918,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156905,
+        "num": 208773,
+        "word": "妈妈把我的衣服给狗穿了",
+        "onboard_time": 1691803959,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152638,
+        "num": 208662,
+        "word": "梅西连续5场破门",
+        "onboard_time": 1691808275,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145778,
+        "num": 208625,
+        "word": "床底异动女子机智报警发现是地震",
+        "onboard_time": 1691807436,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以青春的活力促进世界和平与发展#"
+    }
+  }
+}
