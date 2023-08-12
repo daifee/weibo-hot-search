@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691828330981,
+  "endTime": 1691829242723,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1449,6 +1449,14 @@
       "onboard_time": 1691381204,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1982546,
+      "num": 1982546,
+      "word": "缅甸旅游业苦等中国游客重返",
+      "onboard_time": 1691826096,
+      "rank": 1,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1980686,
@@ -3121,14 +3129,6 @@
       "onboard_time": 1691046876,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1322760,
-      "num": 1322760,
-      "word": "缅甸旅游业苦等中国游客重返",
-      "onboard_time": 1691826096,
-      "rank": 1,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1321901,
@@ -5627,6 +5627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 909962,
+      "num": 909962,
+      "word": "张艺兴突然哭了",
+      "onboard_time": 1691825919,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 909350,
       "num": 909350,
       "word": "爸爸当家",
@@ -5913,14 +5921,6 @@
       "onboard_time": 1691761960,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 880678,
-      "num": 880678,
-      "word": "张艺兴突然哭了",
-      "onboard_time": 1691825919,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 879681,
@@ -7451,6 +7451,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 747897,
+      "num": 747897,
+      "word": "杨紫选剧本",
+      "onboard_time": 1691826517,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 747769,
       "num": 747769,
       "word": "TF三代让我们不顾一切单人海报",
@@ -8265,14 +8273,6 @@
       "onboard_time": 1691318565,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 691687,
-      "num": 691687,
-      "word": "杨紫选剧本",
-      "onboard_time": 1691826517,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 691052,
@@ -9867,6 +9867,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 594150,
+      "num": 521740,
+      "word": "胡锡进 湘雅三医院在发生什么",
+      "onboard_time": 1691825733,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594037,
       "num": 594037,
       "word": "刘诗诗行走的山茶花",
@@ -10225,14 +10233,6 @@
       "onboard_time": 1691133876,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 582681,
-      "num": 521740,
-      "word": "胡锡进 湘雅三医院在发生什么",
-      "onboard_time": 1691825733,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 582659,
@@ -11947,6 +11947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 507499,
+      "num": 507499,
+      "word": "玱玹丰隆穷疯了",
+      "onboard_time": 1691827895,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 507407,
       "num": 507407,
       "word": "周也演技",
@@ -13081,6 +13089,14 @@
       "onboard_time": 1691590180,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 462916,
+      "num": 462916,
+      "word": "T1",
+      "onboard_time": 1691823456,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 462767,
@@ -14483,14 +14499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 416500,
-      "num": 416500,
-      "word": "T1",
-      "onboard_time": 1691823456,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 416288,
       "num": 416288,
       "word": "你的iPhone一天要充几次电",
@@ -14979,6 +14987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400003,
+      "num": 400003,
+      "word": "李相夷没死成毅快社死了",
+      "onboard_time": 1691828075,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399877,
       "num": 399877,
       "word": "孤注一掷官宣第二轮点映",
@@ -15177,6 +15193,14 @@
       "onboard_time": 1691412095,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 394503,
+      "num": 394503,
+      "word": "WB",
+      "onboard_time": 1691825856,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 394410,
@@ -15417,14 +15441,6 @@
       "onboard_time": 1691767838,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 387571,
-      "num": 387571,
-      "word": "WB",
-      "onboard_time": 1691825856,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 387547,
@@ -16603,14 +16619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355581,
-      "num": 249874,
-      "word": "玱玹丰隆穷疯了",
-      "onboard_time": 1691827895,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 355426,
       "num": 355426,
       "word": "老天爱笨小孩",
@@ -16833,6 +16841,14 @@
       "onboard_time": 1691732856,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350059,
+      "num": 249871,
+      "word": "长相思是真听劝",
+      "onboard_time": 1691828318,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 349971,
@@ -18107,6 +18123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315798,
+      "num": 219356,
+      "word": "当你开始为工作而花钱以后",
+      "onboard_time": 1691827595,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 315553,
       "num": 315553,
       "word": "印度餐厅 玛莎拉味儿都很香",
@@ -18337,6 +18361,14 @@
       "onboard_time": 1691040337,
       "rank": 27,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 311383,
+      "num": 219200,
+      "word": "朱志鑫戴唇环",
+      "onboard_time": 1691828676,
+      "rank": 32,
+      "category": "音乐,综艺"
     },
     {
       "raw_hot": 311320,
@@ -21171,6 +21203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254512,
+      "num": 254512,
+      "word": "医疗反腐 改革医务人员薪酬体系",
+      "onboard_time": 1691828437,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254487,
       "num": 1422188,
       "word": "4架陆航直升机赴门头沟地区执行空投转运任务",
@@ -23451,7 +23491,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 217589,
+      "raw_hot": 217687,
       "num": 228088,
       "word": "萌兰打小就乐于助熊",
       "onboard_time": 1691827656,
@@ -23923,14 +23963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 211323,
-      "num": 203291,
-      "word": "李相夷没死成毅快社死了",
-      "onboard_time": 1691828075,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211290,
       "num": 211290,
       "word": "莲花楼的卧龙凤雏",
@@ -24347,14 +24379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 207379,
-      "num": 207379,
-      "word": "当你开始为工作而花钱以后",
-      "onboard_time": 1691827595,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 207358,
       "num": 207358,
       "word": "一眼惊艳的中式志怪美学",
@@ -24665,6 +24689,14 @@
       "onboard_time": 1691474919,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203840,
+      "num": 203840,
+      "word": "拜仁",
+      "onboard_time": 1691828735,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 203828,
@@ -25456,6 +25488,14 @@
       "word": "潜行者",
       "onboard_time": 1691072437,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196480,
+      "num": 186381,
+      "word": "连续四年吃成毅的席",
+      "onboard_time": 1691828915,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -26435,6 +26475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187021,
+      "num": 187021,
+      "word": "男生骑行1476公里报到国防科大",
+      "onboard_time": 1691828437,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 186883,
       "num": 240181,
       "word": "JDG夺冠",
@@ -27323,6 +27371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 167697,
+      "num": 167697,
+      "word": "这家日系法餐在上海竟然能火",
+      "onboard_time": 1691829097,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167415,
       "num": 167415,
       "word": "陈烁 身为普通人的骄傲",
@@ -27787,6 +27843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156575,
+      "num": 156575,
+      "word": "男子回应汽车爆燃前拉出昏迷司机",
+      "onboard_time": 1691828196,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156035,
       "num": 361157,
       "word": "00后情侣敲诈勒索企业获利50余万",
@@ -27865,14 +27929,6 @@
       "onboard_time": 1691800714,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154037,
-      "num": 154037,
-      "word": "男子回应汽车爆燃前拉出昏迷司机",
-      "onboard_time": 1691828196,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153822,
@@ -27993,14 +28049,6 @@
       "onboard_time": 1691230597,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151445,
-      "num": 151445,
-      "word": "长相思是真听劝",
-      "onboard_time": 1691828318,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 151145,
@@ -28788,7 +28836,7 @@
     },
     {
       "raw_hot": 128005,
-      "num": 992222,
+      "num": 1015294,
       "word": "从七只到九千多只中国朱鹮保护成为世界范例",
       "onboard_time": 1691809896,
       "rank": 41,
