@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691858024479,
+  "endTime": 1691860378196,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -14779,6 +14779,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 423954,
+      "num": 217189,
+      "word": "檀健次 美瞳",
+      "onboard_time": 1691857899,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423839,
       "num": 388393,
       "word": "TFBOYS十周年演唱会台本",
@@ -17905,6 +17913,14 @@
       "onboard_time": 1691363728,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340488,
+      "num": 340488,
+      "word": "疯批王姬小夭上线",
+      "onboard_time": 1691858432,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 340463,
@@ -26731,6 +26747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194860,
+      "num": 194860,
+      "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
+      "onboard_time": 1691859569,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 194825,
       "num": 224115,
       "word": "栓Q哥自学16年英语追爱外国女子",
@@ -27721,14 +27745,6 @@
       "onboard_time": 1691068956,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185578,
-      "num": 127349,
-      "word": "檀健次 美瞳",
-      "onboard_time": 1691857899,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 185501,
@@ -29347,6 +29363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149567,
+      "num": 126897,
+      "word": "余宇涵撩衣服",
+      "onboard_time": 1691859926,
+      "rank": 35,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 149046,
       "num": 149046,
       "word": "八旬奶奶团为全社区老人主动上班",
@@ -30121,6 +30145,14 @@
       "onboard_time": 1691203832,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124482,
+      "num": 124482,
+      "word": "给我家猫看它说都是演的",
+      "onboard_time": 1691858850,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 124465,
@@ -32008,6 +32040,14 @@
       "word": "现场直击2023快手光合创作者大会",
       "onboard_time": 1691636433,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13373,
+      "num": 481516,
+      "word": "退伍老兵敬礼送别抗洪官兵",
+      "onboard_time": 1691845122,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
