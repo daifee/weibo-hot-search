@@ -1,0 +1,410 @@
+{
+  "runTime": 1691802416721,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2249178,
+        "num": 2249178,
+        "word": "妻子实名举报医生老公每年药品回扣十几万",
+        "onboard_time": 1691797709,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067492,
+        "num": 1067492,
+        "word": "霸王茶姬",
+        "onboard_time": 1691795001,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91232,
+        "num": 1011221,
+        "word": "洪水来临时哪些地方是危险地带",
+        "onboard_time": 1691761000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1742724,
+        "num": 1001206,
+        "word": "李雪琴的北大真是没白上",
+        "onboard_time": 1691800894,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1301834,
+        "num": 907231,
+        "word": "肾好不好睡一觉就知道了",
+        "onboard_time": 1691796025,
+        "rank": 4,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1110222,
+        "num": 862292,
+        "word": "那英 你不吹牛能死吗",
+        "onboard_time": 1691797113,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822370,
+        "num": 822370,
+        "word": "我好像删到电脑的大动脉了",
+        "onboard_time": 1691796205,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 577276,
+        "num": 577276,
+        "word": "医院院长贪腐将成捆的现金提回家",
+        "onboard_time": 1691797829,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575928,
+        "num": 575928,
+        "word": "吴倩聊坐月子细节",
+        "onboard_time": 1691795602,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349913,
+        "num": 535433,
+        "word": "盒马山姆商战杀疯了",
+        "onboard_time": 1691763820,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1231566,
+        "num": 535423,
+        "word": "被男子骗至家中杀害奸尸女子家属发声",
+        "onboard_time": 1691798371,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884510,
+        "num": 535369,
+        "word": "鹿晗时隔六年再发星期五",
+        "onboard_time": 1691797829,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534415,
+        "num": 534415,
+        "word": "吴宣仪希望衣服尺码再小一点",
+        "onboard_time": 1691767239,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478524,
+        "num": 478524,
+        "word": "家庭自卑就是这样来的",
+        "onboard_time": 1691800113,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329854,
+        "num": 404479,
+        "word": "卡努已在辽宁庄河沿海登陆",
+        "onboard_time": 1691798611,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388429,
+        "num": 388429,
+        "word": "吴昕大侦探不是白去的",
+        "onboard_time": 1691796505,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471476,
+        "num": 387458,
+        "word": "张艺兴说粉丝迟早会走",
+        "onboard_time": 1691798011,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 380768,
+        "num": 380768,
+        "word": "Ella晒SHE合影",
+        "onboard_time": 1691799272,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376002,
+        "num": 376002,
+        "word": "莲花楼即将上星央1",
+        "onboard_time": 1691796686,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372993,
+        "num": 372993,
+        "word": "小夭梅林遭杀害三个男人的表情",
+        "onboard_time": 1691801497,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361105,
+        "num": 361105,
+        "word": "婚礼前分手男方要求女方退还八宝粥",
+        "onboard_time": 1691798371,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 335109,
+        "num": 335109,
+        "word": "第一次见鞠婧祎表情管理失败",
+        "onboard_time": 1691796325,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323525,
+        "num": 323525,
+        "word": "长相思发了小夭梅林分轨文件",
+        "onboard_time": 1691768138,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288192,
+        "num": 288192,
+        "word": "00年带98年的实习生",
+        "onboard_time": 1691767180,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254820,
+        "num": 278261,
+        "word": "原来萌兰小时候就帮熊越狱",
+        "onboard_time": 1691800415,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273584,
+        "num": 273584,
+        "word": "赵露思迪士尼游玩背影照",
+        "onboard_time": 1691799332,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272615,
+        "num": 272615,
+        "word": "刘宪华就差报潘玮柏身份证了",
+        "onboard_time": 1691799875,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272176,
+        "num": 272176,
+        "word": "疑李玟生前与二姐争吵音频曝光",
+        "onboard_time": 1691759077,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242598,
+        "num": 242598,
+        "word": "凌晨收摊烧烤摊主用洗衣粉给地面去油",
+        "onboard_time": 1691795542,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238741,
+        "num": 238741,
+        "word": "西安秦岭山洪已造成2死16失联",
+        "onboard_time": 1691801733,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272054,
+        "num": 237326,
+        "word": "程潇妈妈得了乳腺癌",
+        "onboard_time": 1691764541,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252469,
+        "num": 230639,
+        "word": "被杨紫的这段采访激励到了",
+        "onboard_time": 1691801852,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221297,
+        "num": 221297,
+        "word": "肖顺尧跳了queencard",
+        "onboard_time": 1691799452,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220652,
+        "num": 220652,
+        "word": "长相思让观众上桌",
+        "onboard_time": 1691796806,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214178,
+        "num": 214178,
+        "word": "山东的山指的是哪座山",
+        "onboard_time": 1691797468,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211290,
+        "num": 211290,
+        "word": "莲花楼的卧龙凤雏",
+        "onboard_time": 1691798851,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199764,
+        "num": 199764,
+        "word": "光与夜之恋",
+        "onboard_time": 1691801497,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173792,
+        "num": 173792,
+        "word": "凯恩",
+        "onboard_time": 1691799692,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172966,
+        "num": 172966,
+        "word": "女子请分居丈夫家人吃饭3死1伤",
+        "onboard_time": 1691764541,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172147,
+        "num": 172147,
+        "word": "改善富贵包的小妙招",
+        "onboard_time": 1691800595,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166124,
+        "num": 166124,
+        "word": "调查显示医生月工资1600元起步",
+        "onboard_time": 1691758961,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 165238,
+        "num": 165238,
+        "word": "成毅跳queencard 认真中带着幽默",
+        "onboard_time": 1691759497,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161209,
+        "num": 161209,
+        "word": "吴倩选择武大是因为离家近",
+        "onboard_time": 1691766401,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158588,
+        "num": 158588,
+        "word": "一年级的家长你们还好吗",
+        "onboard_time": 1691799633,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 157941,
+        "num": 157941,
+        "word": "中国人有自己的蛋挞",
+        "onboard_time": 1691798973,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156389,
+        "num": 156389,
+        "word": "杨超越哭着读信",
+        "onboard_time": 1691802336,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155031,
+        "num": 155031,
+        "word": "大张伟终于想起来自己是歌手了",
+        "onboard_time": 1691797046,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154039,
+        "num": 154039,
+        "word": "吴京日记本正着看vs反着看",
+        "onboard_time": 1691800714,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109626,
+        "num": 150195,
+        "word": "医药代表性贿赂医生",
+        "onboard_time": 1691734176,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 107252,
+        "num": 149199,
+        "word": "我愣是没想到这是个馒头",
+        "onboard_time": 1691798308,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路大道同行#"
+    }
+  }
+}

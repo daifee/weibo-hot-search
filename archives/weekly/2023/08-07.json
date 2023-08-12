@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691796833577,
+  "endTime": 1691802416721,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -363,6 +363,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 2249178,
+      "num": 2249178,
+      "word": "妻子实名举报医生老公每年药品回扣十几万",
+      "onboard_time": 1691797709,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2247846,
       "num": 257960,
       "word": "原配街头打小三扒其胸衣",
@@ -721,6 +729,14 @@
       "onboard_time": 1691641176,
       "rank": 39,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1742724,
+      "num": 1001206,
+      "word": "李雪琴的北大真是没白上",
+      "onboard_time": 1691800894,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1738822,
@@ -1364,7 +1380,7 @@
     },
     {
       "raw_hot": 1352754,
-      "num": 472554,
+      "num": 534415,
       "word": "吴宣仪希望衣服尺码再小一点",
       "onboard_time": 1691767239,
       "rank": 11,
@@ -1491,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1301834,
+      "num": 907231,
+      "word": "肾好不好睡一觉就知道了",
+      "onboard_time": 1691796025,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1288797,
       "num": 1140222,
       "word": "杨超越演技",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1691590840,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1231566,
+      "num": 535423,
+      "word": "被男子骗至家中杀害奸尸女子家属发声",
+      "onboard_time": 1691798371,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1230236,
@@ -1899,6 +1931,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1110222,
+      "num": 862292,
+      "word": "那英 你不吹牛能死吗",
+      "onboard_time": 1691797113,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1108119,
       "num": 1108119,
       "word": "杨幂说我绝不回头",
@@ -2033,6 +2073,14 @@
       "onboard_time": 1691452833,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1067492,
+      "num": 1067492,
+      "word": "霸王茶姬",
+      "onboard_time": 1691795001,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 1066353,
@@ -2563,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 884510,
+      "num": 535369,
+      "word": "鹿晗时隔六年再发星期五",
+      "onboard_time": 1691797829,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 882048,
       "num": 882048,
       "word": "EDG向TheShy道歉",
@@ -2609,14 +2665,6 @@
       "onboard_time": 1691335752,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 875644,
-      "num": 344138,
-      "word": "霸王茶姬",
-      "onboard_time": 1691795001,
-      "rank": 6,
-      "category": "美食"
     },
     {
       "raw_hot": 875385,
@@ -2692,7 +2740,7 @@
     },
     {
       "raw_hot": 859437,
-      "num": 404868,
+      "num": 535433,
       "word": "盒马山姆商战杀疯了",
       "onboard_time": 1691763820,
       "rank": 23,
@@ -2873,6 +2921,14 @@
       "onboard_time": 1691570680,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822370,
+      "num": 822370,
+      "word": "我好像删到电脑的大动脉了",
+      "onboard_time": 1691796205,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 821392,
@@ -4571,6 +4627,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 577276,
+      "num": 577276,
+      "word": "医院院长贪腐将成捆的现金提回家",
+      "onboard_time": 1691797829,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575928,
+      "num": 575928,
+      "word": "吴倩聊坐月子细节",
+      "onboard_time": 1691795602,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 575400,
       "num": 396736,
       "word": "现在这么流行水下接吻吗",
@@ -4641,14 +4713,6 @@
       "onboard_time": 1691658873,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570339,
-      "num": 132790,
-      "word": "肾好不好睡一觉就知道了",
-      "onboard_time": 1691796025,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 570236,
@@ -5587,6 +5651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478524,
+      "num": 478524,
+      "word": "家庭自卑就是这样来的",
+      "onboard_time": 1691800113,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 478380,
       "num": 478380,
       "word": "拔掉57颗牙是什么样的体验",
@@ -5672,6 +5744,14 @@
       "word": "王俊凯新歌回望",
       "onboard_time": 1691405497,
       "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 471476,
+      "num": 387458,
+      "word": "张艺兴说粉丝迟早会走",
+      "onboard_time": 1691798011,
+      "rank": 16,
       "category": "音乐"
     },
     {
@@ -6193,14 +6273,6 @@
       "onboard_time": 1691647294,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 424361,
-      "num": 224853,
-      "word": "吴倩聊坐月子细节",
-      "onboard_time": 1691795602,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 424355,
@@ -6731,6 +6803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388429,
+      "num": 388429,
+      "word": "吴昕大侦探不是白去的",
+      "onboard_time": 1691796505,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388015,
       "num": 388015,
       "word": "长相思毛不易还没开始唱",
@@ -6883,6 +6963,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 380768,
+      "num": 380768,
+      "word": "Ella晒SHE合影",
+      "onboard_time": 1691799272,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380386,
       "num": 380386,
       "word": "辞掉了父母眼中的铁饭碗",
@@ -6939,6 +7027,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 376002,
+      "num": 376002,
+      "word": "莲花楼即将上星央1",
+      "onboard_time": 1691796686,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 374704,
       "num": 300367,
       "word": "他居然还挑上了",
@@ -6985,6 +7081,14 @@
       "onboard_time": 1691395661,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372993,
+      "num": 372993,
+      "word": "小夭梅林遭杀害三个男人的表情",
+      "onboard_time": 1691801497,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 372572,
@@ -7177,6 +7281,14 @@
       "onboard_time": 1691398419,
       "rank": 28,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 361105,
+      "num": 361105,
+      "word": "婚礼前分手男方要求女方退还八宝粥",
+      "onboard_time": 1691798371,
+      "rank": 20,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 360873,
@@ -7547,6 +7659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335109,
+      "num": 335109,
+      "word": "第一次见鞠婧祎表情管理失败",
+      "onboard_time": 1691796325,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 334524,
       "num": 334524,
       "word": "G2喊话TheShy河道见",
@@ -7577,6 +7697,14 @@
       "onboard_time": 1691737597,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329854,
+      "num": 404479,
+      "word": "卡努已在辽宁庄河沿海登陆",
+      "onboard_time": 1691798611,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329058,
@@ -8859,6 +8987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273584,
+      "num": 273584,
+      "word": "赵露思迪士尼游玩背影照",
+      "onboard_time": 1691799332,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273559,
       "num": 273559,
       "word": "檀健次用相柳本音表白小夭",
@@ -8889,6 +9025,14 @@
       "onboard_time": 1691414499,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272615,
+      "num": 272615,
+      "word": "刘宪华就差报潘玮柏身份证了",
+      "onboard_time": 1691799875,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 272581,
@@ -9251,14 +9395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258651,
-      "num": 132730,
-      "word": "我好像删到电脑的大动脉了",
-      "onboard_time": 1691796205,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 258230,
       "num": 329606,
       "word": "线下榜一大姐直接上台打赏演员",
@@ -9371,6 +9507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254820,
+      "num": 278261,
+      "word": "原来萌兰小时候就帮熊越狱",
+      "onboard_time": 1691800415,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254251,
       "num": 1042458,
       "word": "永远会被中国人的团结互助感动",
@@ -9417,6 +9561,14 @@
       "onboard_time": 1691475397,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252469,
+      "num": 230639,
+      "word": "被杨紫的这段采访激励到了",
+      "onboard_time": 1691801852,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252129,
@@ -9667,6 +9819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 242598,
+      "num": 242598,
+      "word": "凌晨收摊烧烤摊主用洗衣粉给地面去油",
+      "onboard_time": 1691795542,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242449,
       "num": 246892,
       "word": "当你散步忘带小狗出门",
@@ -9785,6 +9945,14 @@
       "onboard_time": 1691459313,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238741,
+      "num": 238741,
+      "word": "西安秦岭山洪已造成2死16失联",
+      "onboard_time": 1691801733,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237899,
@@ -10275,6 +10443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221297,
+      "num": 221297,
+      "word": "肖顺尧跳了queencard",
+      "onboard_time": 1691799452,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221194,
       "num": 221194,
       "word": "张炯敏直播",
@@ -10289,6 +10465,14 @@
       "onboard_time": 1691670695,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220652,
+      "num": 220652,
+      "word": "长相思让观众上桌",
+      "onboard_time": 1691796806,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 220131,
@@ -10475,6 +10659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214178,
+      "num": 214178,
+      "word": "山东的山指的是哪座山",
+      "onboard_time": 1691797468,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213960,
       "num": 213960,
       "word": "考古封神质子姜文焕",
@@ -10577,6 +10769,14 @@
       "onboard_time": 1691574639,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 211290,
+      "num": 211290,
+      "word": "莲花楼的卧龙凤雏",
+      "onboard_time": 1691798851,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 211239,
@@ -11121,6 +11321,14 @@
       "onboard_time": 1691648012,
       "rank": 36,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 199764,
+      "num": 199764,
+      "word": "光与夜之恋",
+      "onboard_time": 1691801497,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 199234,
@@ -11763,14 +11971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186959,
-      "num": 186959,
-      "word": "凌晨收摊烧烤摊主用洗衣粉给地面去油",
-      "onboard_time": 1691795542,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186718,
       "num": 186718,
       "word": "绝地追击缉毒战士山洪遇难",
@@ -12083,6 +12283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173792,
+      "num": 173792,
+      "word": "凯恩",
+      "onboard_time": 1691799692,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173700,
       "num": 166435,
       "word": "性感潘生",
@@ -12145,6 +12353,14 @@
       "onboard_time": 1691583213,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172147,
+      "num": 172147,
+      "word": "改善富贵包的小妙招",
+      "onboard_time": 1691800595,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 172101,
@@ -12371,12 +12587,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158588,
+      "num": 158588,
+      "word": "一年级的家长你们还好吗",
+      "onboard_time": 1691799633,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 158426,
       "num": 196056,
       "word": "黄曦彦练过2个月杨戬枪法",
       "onboard_time": 1691746901,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157941,
+      "num": 157941,
+      "word": "中国人有自己的蛋挞",
+      "onboard_time": 1691798973,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 157020,
@@ -12387,6 +12619,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 156389,
+      "num": 156389,
+      "word": "杨超越哭着读信",
+      "onboard_time": 1691802336,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156035,
       "num": 361157,
       "word": "00后情侣敲诈勒索企业获利50余万",
@@ -12395,12 +12635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155031,
+      "num": 155031,
+      "word": "大张伟终于想起来自己是歌手了",
+      "onboard_time": 1691797046,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154928,
       "num": 154928,
       "word": "暴雨洪灾中的守护者",
       "onboard_time": 1691541881,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154039,
+      "num": 154039,
+      "word": "吴京日记本正着看vs反着看",
+      "onboard_time": 1691800714,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 153822,
@@ -12739,14 +12995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135547,
-      "num": 135547,
-      "word": "第一次见鞠婧祎表情管理失败",
-      "onboard_time": 1691796325,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 135369,
       "num": 817960,
       "word": "网传郑州大学一领导要求员工无偿加班还威胁降薪",
@@ -12793,14 +13041,6 @@
       "onboard_time": 1691411313,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 132223,
-      "num": 132223,
-      "word": "吴昕大侦探不是白去的",
-      "onboard_time": 1691796505,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 132034,
@@ -12987,14 +13227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121413,
-      "num": 121413,
-      "word": "莲花楼即将上星央1",
-      "onboard_time": 1691796686,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 121186,
       "num": 944381,
       "word": "防汛最新信息汇总",
@@ -13163,6 +13395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107252,
+      "num": 149199,
+      "word": "我愣是没想到这是个馒头",
+      "onboard_time": 1691798308,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107171,
       "num": 107171,
       "word": "有些猫生来就是要做老板的",
@@ -13211,14 +13451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 98814,
-      "num": 98814,
-      "word": "长相思让观众上桌",
-      "onboard_time": 1691796806,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 94318,
       "num": 818964,
       "word": "女护士车祸离世捐献器官救人",
@@ -13257,6 +13489,14 @@
       "onboard_time": 1691349136,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 91232,
+      "num": 1087552,
+      "word": "洪水来临时哪些地方是危险地带",
+      "onboard_time": 1691761000,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90802,
@@ -13623,14 +13863,6 @@
       "num": 1236402,
       "word": "大戏看北京",
       "onboard_time": 1691755295,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54685,
-      "num": 1087552,
-      "word": "洪水来临时哪些地方是危险地带",
-      "onboard_time": 1691761000,
       "rank": 2,
       "category": "社会新闻"
     },
