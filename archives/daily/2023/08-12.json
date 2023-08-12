@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691814833025,
+  "endTime": 1691817273491,
   "band_list": [
     {
       "raw_hot": 2459545,
@@ -41,6 +41,14 @@
       "onboard_time": 1691811399,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1847327,
+      "num": 667086,
+      "word": "质疑 理解 成为",
+      "onboard_time": 1691814518,
+      "rank": 34,
+      "category": "情感,影视"
     },
     {
       "raw_hot": 1716973,
@@ -171,11 +179,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 762378,
+      "num": 762378,
+      "word": "罗翔 真正的爱是扶级而上的",
+      "onboard_time": 1691812597,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 749342,
       "num": 749342,
       "word": "邓为演技",
       "onboard_time": 1691805457,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 737430,
+      "num": 659864,
+      "word": "内娱骨相皮相都优越的明星",
+      "onboard_time": 1691814698,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -211,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 655531,
+      "num": 655531,
+      "word": "赵雅芝 想叫我妈",
+      "onboard_time": 1691815838,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 643829,
       "num": 643829,
       "word": "莲花楼唯一一个恋爱脑",
@@ -219,12 +251,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 634256,
-      "num": 634256,
-      "word": "罗翔 真正的爱是扶级而上的",
-      "onboard_time": 1691812597,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 635637,
+      "num": 635637,
+      "word": "原著小夭成为王母",
+      "onboard_time": 1691815721,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 631703,
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 486298,
-      "num": 684475,
+      "num": 685521,
       "word": "邓亚萍辟谣",
       "onboard_time": 1691814216,
       "rank": 8,
@@ -411,8 +443,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 454260,
-      "num": 454260,
+      "raw_hot": 456510,
+      "num": 456510,
       "word": "长相思 全民制作人",
       "onboard_time": 1691813678,
       "rank": 32,
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 434495,
-      "num": 326591,
+      "num": 337975,
       "word": "上海129元的自助餐",
       "onboard_time": 1691813317,
       "rank": 31,
@@ -723,12 +755,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315108,
+      "num": 269055,
+      "word": "景甜新剧因为秋裤认出冯绍峰",
+      "onboard_time": 1691816435,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313625,
       "num": 313625,
       "word": "被杨紫的这段采访激励到了",
       "onboard_time": 1691801852,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312667,
+      "num": 347717,
+      "word": "消防员抓了只龙头鹿身的动物",
+      "onboard_time": 1691815539,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311320,
@@ -739,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301377,
-      "num": 301377,
-      "word": "质疑 理解 成为",
-      "onboard_time": 1691814518,
-      "rank": 34,
-      "category": "情感,影视"
+      "raw_hot": 308036,
+      "num": 266059,
+      "word": "宋轶格子衫半身裙",
+      "onboard_time": 1691816618,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 301289,
@@ -897,14 +945,6 @@
       "onboard_time": 1691795542,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241384,
-      "num": 241384,
-      "word": "内娱骨相皮相都优越的明星",
-      "onboard_time": 1691814698,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 239009,
@@ -1115,6 +1155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202199,
+      "num": 202199,
+      "word": "张靓颖又唱OST了",
+      "onboard_time": 1691816979,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200491,
       "num": 208910,
       "word": "周深回应巡演",
@@ -1171,6 +1219,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192158,
+      "num": 192158,
+      "word": "王奕回应泪崩",
+      "onboard_time": 1691816979,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191795,
+      "num": 191795,
+      "word": "全员加速中",
+      "onboard_time": 1691816922,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191492,
       "num": 253076,
       "word": "女子弄丢150元向丈夫哭诉被暖心安慰",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1691799633,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 183312,
+      "num": 224075,
+      "word": "日复一日上班让自己灵气减少了",
+      "onboard_time": 1691817039,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 180330,
@@ -1241,6 +1313,14 @@
       "onboard_time": 1691813918,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 158762,
+      "num": 204412,
+      "word": "伤妈1000自损800",
+      "onboard_time": 1691814818,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 157941,
@@ -1305,14 +1385,6 @@
       "onboard_time": 1691759436,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 139361,
-      "num": 204412,
-      "word": "伤妈1000自损800",
-      "onboard_time": 1691814818,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 136646,
