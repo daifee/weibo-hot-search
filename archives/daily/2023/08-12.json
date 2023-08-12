@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691817273491,
+  "endTime": 1691818423616,
   "band_list": [
     {
       "raw_hot": 2459545,
@@ -35,20 +35,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2133527,
+      "num": 667086,
+      "word": "质疑 理解 成为",
+      "onboard_time": 1691814518,
+      "rank": 34,
+      "category": "情感,影视"
+    },
+    {
       "raw_hot": 2082525,
       "num": 2082525,
       "word": "哥 成钢他会改的",
       "onboard_time": 1691811399,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1847327,
-      "num": 667086,
-      "word": "质疑 理解 成为",
-      "onboard_time": 1691814518,
-      "rank": 34,
-      "category": "情感,影视"
     },
     {
       "raw_hot": 1716973,
@@ -211,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 710421,
+      "num": 710421,
+      "word": "赵雅芝 想叫我妈",
+      "onboard_time": 1691815838,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688253,
       "num": 688253,
       "word": "央视网文娱评长月烬明",
@@ -235,12 +243,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 655531,
-      "num": 655531,
-      "word": "赵雅芝 想叫我妈",
-      "onboard_time": 1691815838,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 650041,
+      "num": 635637,
+      "word": "原著小夭成为王母",
+      "onboard_time": 1691815721,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 643829,
@@ -248,14 +256,6 @@
       "word": "莲花楼唯一一个恋爱脑",
       "onboard_time": 1691808456,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 635637,
-      "num": 635637,
-      "word": "原著小夭成为王母",
-      "onboard_time": 1691815721,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 484376,
+      "num": 484376,
+      "word": "于适 巩俐",
+      "onboard_time": 1691817817,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 483992,
       "num": 239990,
       "word": "被于正说像梁朝伟的新人演员生图",
@@ -499,6 +507,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 428838,
+      "num": 428838,
+      "word": "消防员抓了只龙头鹿身的动物",
+      "onboard_time": 1691815539,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420430,
       "num": 420430,
       "word": "感觉檀健次下一秒要晕过去",
@@ -528,6 +544,22 @@
       "word": "私服好看的明星",
       "onboard_time": 1691772808,
       "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 411207,
+      "num": 411207,
+      "word": "封神 诚意",
+      "onboard_time": 1691817637,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 400969,
+      "num": 400969,
+      "word": "宋轶格子衫半身裙",
+      "onboard_time": 1691816618,
+      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -756,7 +788,7 @@
     },
     {
       "raw_hot": 315108,
-      "num": 269055,
+      "num": 294839,
       "word": "景甜新剧因为秋裤认出冯绍峰",
       "onboard_time": 1691816435,
       "rank": 30,
@@ -771,28 +803,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 312667,
-      "num": 347717,
-      "word": "消防员抓了只龙头鹿身的动物",
-      "onboard_time": 1691815539,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311320,
       "num": 311320,
       "word": "檀健次南京",
       "onboard_time": 1691806357,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308036,
-      "num": 266059,
-      "word": "宋轶格子衫半身裙",
-      "onboard_time": 1691816618,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 301289,
@@ -873,6 +889,14 @@
       "onboard_time": 1691754934,
       "rank": 19,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 262087,
+      "num": 251799,
+      "word": "全员加速中",
+      "onboard_time": 1691816922,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 255523,
@@ -961,6 +985,22 @@
       "onboard_time": 1691808576,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236175,
+      "num": 236175,
+      "word": "孤注一掷点映机制引争议",
+      "onboard_time": 1691818236,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 235892,
+      "num": 235892,
+      "word": "张靓颖又唱OST了",
+      "onboard_time": 1691816979,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 234344,
@@ -1083,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219335,
+      "num": 247819,
+      "word": "上了大学不给孩子买手机可以吗",
+      "onboard_time": 1691817877,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218578,
       "num": 178369,
       "word": "杨超越哭着读信",
@@ -1155,14 +1203,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 202199,
-      "num": 202199,
-      "word": "张靓颖又唱OST了",
-      "onboard_time": 1691816979,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 200491,
       "num": 208910,
       "word": "周深回应巡演",
@@ -1227,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191795,
-      "num": 191795,
-      "word": "全员加速中",
-      "onboard_time": 1691816922,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191492,
       "num": 253076,
       "word": "女子弄丢150元向丈夫哭诉被暖心安慰",
@@ -1260,7 +1292,7 @@
     },
     {
       "raw_hot": 183312,
-      "num": 224075,
+      "num": 236635,
       "word": "日复一日上班让自己灵气减少了",
       "onboard_time": 1691817039,
       "rank": 38,
@@ -1273,6 +1305,14 @@
       "onboard_time": 1691808215,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 174786,
+      "num": 235006,
+      "word": "因为做饭太多被妈妈数落了",
+      "onboard_time": 1691817997,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 173792,
@@ -1316,7 +1356,7 @@
     },
     {
       "raw_hot": 158762,
-      "num": 204412,
+      "num": 234083,
       "word": "伤妈1000自损800",
       "onboard_time": 1691814818,
       "rank": 48,
