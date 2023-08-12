@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691868813998,
+  "endTime": 1691871326170,
   "band_list": [
     {
       "raw_hot": 1680984,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131771,
+      "num": 60826,
+      "word": "18岁女生回应遭网约车司机性侵",
+      "onboard_time": 1691868316,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122560,
       "num": 141560,
       "word": "CD26",
@@ -433,6 +441,14 @@
       "onboard_time": 1691854121,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117647,
+      "num": 117647,
+      "word": "相柳 仙品",
+      "onboard_time": 1691867297,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 107369,
@@ -499,14 +515,6 @@
       "category": "科技,艺人"
     },
     {
-      "raw_hot": 72006,
-      "num": 72006,
-      "word": "相柳 仙品",
-      "onboard_time": 1691867297,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 60054,
       "num": 60054,
       "word": "排球少年 我推呢",
@@ -531,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30208,
+      "num": 30208,
+      "word": "这才是现实版孤注一掷",
+      "onboard_time": 1691868856,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 28270,
       "num": 35385,
       "word": "偶像梦幻祭八周年笑话合集",
@@ -539,12 +555,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 26027,
-      "num": 30742,
-      "word": "18岁女生回应遭网约车司机性侵",
-      "onboard_time": 1691868316,
+      "raw_hot": 26837,
+      "num": 26837,
+      "word": "小学生发明能骑的行李箱获金奖",
+      "onboard_time": 1691870355,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 23381,
+      "num": 26221,
+      "word": "原来这三种行为就是霸总行为",
+      "onboard_time": 1691871075,
       "rank": 48,
-      "category": "社会新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 17555,
