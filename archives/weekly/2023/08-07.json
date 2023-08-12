@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691860378196,
+  "endTime": 1691861619027,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -5121,6 +5121,14 @@
       "onboard_time": 1691473717,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589849,
+      "num": 589849,
+      "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
+      "onboard_time": 1691859569,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 589641,
@@ -13083,6 +13091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204877,
+      "num": 204877,
+      "word": "张艺兴2023大航海巡演",
+      "onboard_time": 1691861005,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204797,
       "num": 204797,
       "word": "春浪音乐节",
@@ -13641,14 +13657,6 @@
       "onboard_time": 1691424334,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194860,
-      "num": 194860,
-      "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
-      "onboard_time": 1691859569,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 194825,
@@ -15379,6 +15387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136891,
+      "num": 136891,
+      "word": "给我家猫看它说都是演的",
+      "onboard_time": 1691858850,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136646,
       "num": 1317470,
       "word": "人气旺起来消费火起来经济活起来",
@@ -15625,14 +15641,6 @@
       "onboard_time": 1691329401,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124482,
-      "num": 124482,
-      "word": "给我家猫看它说都是演的",
-      "onboard_time": 1691858850,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 124465,
@@ -16539,6 +16547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40839,
+      "num": 73649,
+      "word": "对女孩子来说重要的三件事",
+      "onboard_time": 1691861605,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 38693,
       "num": 47636,
       "word": "G社拍的王鹤棣",
@@ -16699,6 +16715,14 @@
       "category": "幽默,旅游"
     },
     {
+      "raw_hot": 17555,
+      "num": 549839,
+      "word": "退伍老兵敬礼送别抗洪官兵",
+      "onboard_time": 1691845122,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17505,
       "num": 21676,
       "word": "见面吧星朋友",
@@ -16728,14 +16752,6 @@
       "word": "现场直击2023快手光合创作者大会",
       "onboard_time": 1691636433,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13373,
-      "num": 481516,
-      "word": "退伍老兵敬礼送别抗洪官兵",
-      "onboard_time": 1691845122,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

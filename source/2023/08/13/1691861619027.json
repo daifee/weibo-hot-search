@@ -1,0 +1,410 @@
+{
+  "runTime": 1691861619027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 805254,
+        "num": 805254,
+        "word": "各大医院书记院长被抓后痛哭流涕",
+        "onboard_time": 1691839057,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589849,
+        "num": 589849,
+        "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
+        "onboard_time": 1691859569,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 17555,
+        "num": 549839,
+        "word": "退伍老兵敬礼送别抗洪官兵",
+        "onboard_time": 1691845122,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717916,
+        "num": 546902,
+        "word": "张杰谢娜",
+        "onboard_time": 1691848542,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 512290,
+        "num": 512290,
+        "word": "家长吐槽暑假40天孩子开销五六万",
+        "onboard_time": 1691853283,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336355,
+        "num": 336355,
+        "word": "长相思男主爆红后综艺首秀",
+        "onboard_time": 1691845962,
+        "rank": 5,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 284149,
+        "num": 284149,
+        "word": "小猪因洪水被饿10天瘦成S形身材",
+        "onboard_time": 1691852265,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289906,
+        "num": 273397,
+        "word": "疯批王姬小夭上线",
+        "onboard_time": 1691858432,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260955,
+        "num": 260955,
+        "word": "难怪我结不了婚",
+        "onboard_time": 1691844279,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 260264,
+        "num": 260264,
+        "word": "国家一级演员苏孝林被立案调查",
+        "onboard_time": 1691847283,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 676564,
+        "num": 252072,
+        "word": "孟美岐 审视我的人还没放下",
+        "onboard_time": 1691852744,
+        "rank": 10,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 213374,
+        "num": 213374,
+        "word": "七时吉祥 改编",
+        "onboard_time": 1691854545,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211361,
+        "num": 211361,
+        "word": "原来这张表情包是喜羊羊遗照",
+        "onboard_time": 1691846080,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134071,
+        "num": 210205,
+        "word": "这7人在被困列车上成立了临时党支部",
+        "onboard_time": 1691843014,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61816,
+        "num": 209533,
+        "word": "一对双胞胎展示同款举手睡姿",
+        "onboard_time": 1691838637,
+        "rank": 14,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 209380,
+        "num": 209380,
+        "word": "18岁女孩被性侵涉事网约车未备案",
+        "onboard_time": 1691852505,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204877,
+        "num": 204877,
+        "word": "张艺兴2023大航海巡演",
+        "onboard_time": 1691861005,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204352,
+        "num": 204352,
+        "word": "每天喝无糖饮料发生了什么变化",
+        "onboard_time": 1691846261,
+        "rank": 17,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 199159,
+        "num": 199159,
+        "word": "HYBE大楼前现状",
+        "onboard_time": 1691852926,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195358,
+        "num": 195358,
+        "word": "杨紫泼水 孟子义2.0",
+        "onboard_time": 1691851728,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194777,
+        "num": 194777,
+        "word": "孙红雷张艺兴",
+        "onboard_time": 1691849748,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 341444,
+        "num": 184806,
+        "word": "檀健次 美瞳",
+        "onboard_time": 1691857899,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169323,
+        "num": 169323,
+        "word": "张杰演唱会cue孟宴臣",
+        "onboard_time": 1691853822,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173838,
+        "num": 165824,
+        "word": "杨紫这次选择了相柳",
+        "onboard_time": 1691844880,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144319,
+        "num": 156516,
+        "word": "女儿腺样体肥大父母拒手术13岁身高仅133",
+        "onboard_time": 1691840919,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155180,
+        "num": 155180,
+        "word": "封神榜",
+        "onboard_time": 1691854962,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146371,
+        "num": 146371,
+        "word": "邓为被说撞脸六小龄童",
+        "onboard_time": 1691850766,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143660,
+        "num": 143660,
+        "word": "去西藏玩不要戴空顶遮阳帽",
+        "onboard_time": 1691841516,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141109,
+        "num": 141109,
+        "word": "李雪琴在王鹤棣魏大勋之间做选择",
+        "onboard_time": 1691846621,
+        "rank": 28,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 138687,
+        "num": 138687,
+        "word": "25岁86个好友什么水平",
+        "onboard_time": 1691844160,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322638,
+        "num": 138650,
+        "word": "唐悠悠你现在真的成黑老大的女人了",
+        "onboard_time": 1691846860,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138122,
+        "num": 138122,
+        "word": "阮经天出车祸",
+        "onboard_time": 1691835519,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136891,
+        "num": 136891,
+        "word": "给我家猫看它说都是演的",
+        "onboard_time": 1691858850,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136090,
+        "num": 136090,
+        "word": "黄子韬怎么一直惹徐艺洋生气",
+        "onboard_time": 1691841460,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111379,
+        "num": 130802,
+        "word": "现在大学生都开始消费降级了吗",
+        "onboard_time": 1691850047,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127986,
+        "num": 127986,
+        "word": "纹身店 银饰店",
+        "onboard_time": 1691844039,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119896,
+        "num": 119896,
+        "word": "范丞丞上厕所也接视频",
+        "onboard_time": 1691854302,
+        "rank": 36,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 92974,
+        "num": 92974,
+        "word": "男子为亡妻销户时泪流满面亲吻照片",
+        "onboard_time": 1691846621,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87824,
+        "num": 87824,
+        "word": "栓Q哥自学16年英语追爱外国女子",
+        "onboard_time": 1691851425,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 87253,
+        "num": 87253,
+        "word": "为什么贡品要插三根香",
+        "onboard_time": 1691853524,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107655,
+        "num": 87049,
+        "word": "于适这一分钟白说了",
+        "onboard_time": 1691853404,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107369,
+        "num": 85493,
+        "word": "欧阳娜娜背影臀腰比",
+        "onboard_time": 1691832097,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 105133,
+        "num": 83038,
+        "word": "张杰唱了谢娜最喜欢的想见你",
+        "onboard_time": 1691852682,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101137,
+        "num": 82291,
+        "word": "长相思三个男主都在拍古装剧",
+        "onboard_time": 1691853343,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104628,
+        "num": 81066,
+        "word": "张杰自己画的饼自己圆",
+        "onboard_time": 1691854302,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 80072,
+        "num": 80072,
+        "word": "CD26",
+        "onboard_time": 1691856576,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 75379,
+        "num": 75379,
+        "word": "现实版盗墓笔记",
+        "onboard_time": 1691845362,
+        "rank": 46,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 73659,
+        "num": 73659,
+        "word": "当我问妈妈结婚有什么好处时",
+        "onboard_time": 1691848366,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45708,
+        "num": 73653,
+        "word": "我和小朋友理发时的区别",
+        "onboard_time": 1691854121,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40839,
+        "num": 73649,
+        "word": "对女孩子来说重要的三件事",
+        "onboard_time": 1691861605,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#回望二万五千里长征路#"
+    }
+  }
+}
