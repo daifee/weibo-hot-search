@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691879628376,
+  "endTime": 1691882105445,
   "band_list": [
     {
       "raw_hot": 1680984,
@@ -99,6 +99,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 541459,
+      "num": 195103,
+      "word": "18岁女生回应遭网约车司机性侵",
+      "onboard_time": 1691868316,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505091,
       "num": 505091,
       "word": "小猪因洪水被饿10天瘦成S形身材",
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349679,
+      "num": 349679,
+      "word": "李雪琴在王鹤棣魏大勋之间做选择",
+      "onboard_time": 1691846621,
+      "rank": 32,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 340488,
       "num": 340488,
       "word": "疯批王姬小夭上线",
@@ -219,14 +235,6 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 278205,
-      "num": 107898,
-      "word": "18岁女生回应遭网约车司机性侵",
-      "onboard_time": 1691868316,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270832,
       "num": 270832,
       "word": "现在大学生都开始消费降级了吗",
@@ -257,14 +265,6 @@
       "onboard_time": 1691853404,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247917,
-      "num": 239237,
-      "word": "李雪琴在王鹤棣魏大勋之间做选择",
-      "onboard_time": 1691846621,
-      "rank": 32,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 234964,
@@ -305,6 +305,14 @@
       "onboard_time": 1691861005,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203671,
+      "num": 203671,
+      "word": "小学生发明能骑的行李箱获金奖",
+      "onboard_time": 1691870355,
+      "rank": 43,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 196588,
@@ -451,14 +459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116562,
-      "num": 116562,
-      "word": "小学生发明能骑的行李箱获金奖",
-      "onboard_time": 1691870355,
-      "rank": 43,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 107369,
       "num": 85493,
       "word": "欧阳娜娜背影臀腰比",
@@ -507,6 +507,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 88107,
+      "num": 80879,
+      "word": "网友骂人可以斯文到什么程度",
+      "onboard_time": 1691881340,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 87443,
       "num": 141527,
       "word": "自制草莓糖浆",
@@ -521,6 +529,22 @@
       "onboard_time": 1691855082,
       "rank": 49,
       "category": "科技,艺人"
+    },
+    {
+      "raw_hot": 75629,
+      "num": 75629,
+      "word": "中国男篮vs德国男篮",
+      "onboard_time": 1691881340,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72525,
+      "num": 72525,
+      "word": "李沁终于终于想起微博密码了",
+      "onboard_time": 1691881520,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 60054,
@@ -539,10 +563,42 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54285,
+      "num": 54285,
+      "word": "黄渤妈妈路演现场鸡娃",
+      "onboard_time": 1691881219,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 51019,
       "num": 828214,
       "word": "琵琶与古诗词邂逅有多浪漫",
       "onboard_time": 1691845241,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47209,
+      "num": 47209,
+      "word": "小女孩扮演医生给狗子看病",
+      "onboard_time": 1691882061,
+      "rank": 48,
+      "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 45429,
+      "num": 45429,
+      "word": "蝉女",
+      "onboard_time": 1691845362,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 30443,
+      "num": 549839,
+      "word": "退伍老兵敬礼送别抗洪官兵",
+      "onboard_time": 1691845122,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -577,14 +633,6 @@
       "onboard_time": 1691871075,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17555,
-      "num": 549839,
-      "word": "退伍老兵敬礼送别抗洪官兵",
-      "onboard_time": 1691845122,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
