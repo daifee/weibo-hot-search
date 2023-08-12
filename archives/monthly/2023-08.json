@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691824418149,
+  "endTime": 1691825627632,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -3523,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1219757,
+      "num": 447958,
+      "word": "肖战怎么忍受单肩背带裤的",
+      "onboard_time": 1691823338,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1219258,
       "num": 894906,
       "word": "魏大勋忘记还麦的时候",
@@ -5819,6 +5827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 886662,
+      "num": 417751,
+      "word": "吴宣仪 打不倒我的只会让我越来越强大",
+      "onboard_time": 1691824055,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 885173,
       "num": 885173,
       "word": "中药奶茶",
@@ -6057,14 +6073,6 @@
       "onboard_time": 1691122780,
       "rank": 21,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 860857,
-      "num": 447958,
-      "word": "肖战怎么忍受单肩背带裤的",
-      "onboard_time": 1691823338,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 859658,
@@ -7251,6 +7259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756534,
+      "num": 756534,
+      "word": "封神第一部票房破19亿",
+      "onboard_time": 1691821056,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 755746,
       "num": 718269,
       "word": "日本电梯真的很适合i人生存",
@@ -7473,14 +7489,6 @@
       "onboard_time": 1691626233,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 741555,
-      "num": 741555,
-      "word": "封神第一部票房破19亿",
-      "onboard_time": 1691821056,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 741185,
@@ -8620,7 +8628,7 @@
     },
     {
       "raw_hot": 664925,
-      "num": 593507,
+      "num": 619476,
       "word": "娜扎经纪人为接广告道歉",
       "onboard_time": 1691814459,
       "rank": 25,
@@ -10251,6 +10259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 580015,
+      "num": 580015,
+      "word": "饭制版梅林殉情",
+      "onboard_time": 1691822855,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 579584,
       "num": 524102,
       "word": "金晨演技",
@@ -10897,6 +10913,14 @@
       "onboard_time": 1691131895,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552109,
+      "num": 416532,
+      "word": "连名带姓",
+      "onboard_time": 1691824895,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 551995,
@@ -13315,6 +13339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452639,
+      "num": 416988,
+      "word": "考完驾照是不是不能骑电动车了",
+      "onboard_time": 1691822978,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452561,
       "num": 452561,
       "word": "TF家族三代考核排名",
@@ -13673,14 +13705,6 @@
       "onboard_time": 1691511751,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 439016,
-      "num": 439016,
-      "word": "饭制版梅林殉情",
-      "onboard_time": 1691822855,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 438706,
@@ -14401,6 +14425,14 @@
       "onboard_time": 1691388517,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 416500,
+      "num": 416500,
+      "word": "T1",
+      "onboard_time": 1691823456,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 416288,
@@ -16299,14 +16331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 361904,
-      "num": 361904,
-      "word": "T1",
-      "onboard_time": 1691823456,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 361492,
       "num": 361492,
       "word": "Angelababy教贝克汉姆说中文",
@@ -17059,14 +17083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341298,
-      "num": 341298,
-      "word": "考完驾照是不是不能骑电动车了",
-      "onboard_time": 1691822978,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341171,
       "num": 341171,
       "word": "起猛了看见顾廷烨当外室",
@@ -17737,6 +17753,14 @@
       "onboard_time": 1691217875,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 321998,
+      "num": 265187,
+      "word": "其实可以直接买个电脑防窥屏的",
+      "onboard_time": 1691824357,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 321705,
@@ -22843,6 +22867,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 223902,
+      "num": 223902,
+      "word": "周也的剧本太费男主了",
+      "onboard_time": 1691825196,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223825,
       "num": 223825,
       "word": "活死人嘉宾GNZ48",
@@ -23403,6 +23435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216654,
+      "num": 216654,
+      "word": "TF三代演唱会全员蓝发",
+      "onboard_time": 1691824595,
+      "rank": 36,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 216531,
       "num": 216531,
       "word": "牺牲蓝天队员家属拒绝接受捐款",
@@ -23641,14 +23681,6 @@
       "onboard_time": 1691168129,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213244,
-      "num": 213244,
-      "word": "吴宣仪 打不倒我的只会让我越来越强大",
-      "onboard_time": 1691824055,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 213196,
@@ -24561,6 +24593,14 @@
       "onboard_time": 1691550157,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203744,
+      "num": 203744,
+      "word": "TF家族三代演唱会",
+      "onboard_time": 1691825014,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 203658,
@@ -25593,6 +25633,14 @@
       "onboard_time": 1691723854,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193499,
+      "num": 206574,
+      "word": "视频一下子就高级起来了",
+      "onboard_time": 1691825136,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 193480,
@@ -27835,14 +27883,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 150545,
-      "num": 181297,
-      "word": "其实可以直接买个电脑防窥屏的",
-      "onboard_time": 1691824357,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 150491,
       "num": 182964,
       "word": "最靠谱的防晒霜",
@@ -28129,6 +28169,14 @@
       "onboard_time": 1691623646,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141008,
+      "num": 170424,
+      "word": "吐鲁番的小导游超越认知的懂事",
+      "onboard_time": 1691825434,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 140719,
@@ -29251,6 +29299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97582,
+      "num": 735545,
+      "word": "从七只到九千多只中国朱鹮保护成为世界范例",
+      "onboard_time": 1691809896,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97333,
       "num": 97333,
       "word": "不是说竹子宁折不弯吗",
@@ -29673,6 +29729,14 @@
       "onboard_time": 1691572297,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69954,
+      "num": 466004,
+      "word": "半个NBA都来淘宝了",
+      "onboard_time": 1691823636,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 69204,
@@ -30155,14 +30219,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 36040,
-      "num": 735545,
-      "word": "从七只到九千多只中国朱鹮保护成为世界范例",
-      "onboard_time": 1691809896,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35508,
       "num": 575549,
       "word": "救援队长称最大的心愿是换台车好好救人",
@@ -30184,14 +30240,6 @@
       "word": "今天是第15个全民健身日",
       "onboard_time": 1691462974,
       "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 33683,
-      "num": 466004,
-      "word": "半个NBA都来淘宝了",
-      "onboard_time": 1691823636,
-      "rank": 14,
       "category": "体育"
     },
     {

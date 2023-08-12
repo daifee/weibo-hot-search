@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691824418149,
+  "endTime": 1691825627632,
   "band_list": [
     {
       "raw_hot": 2459545,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1219757,
+      "num": 447958,
+      "word": "肖战怎么忍受单肩背带裤的",
+      "onboard_time": 1691823338,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1207231,
       "num": 813438,
       "word": "于适 巩俐",
@@ -179,20 +187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 886662,
+      "num": 417751,
+      "word": "吴宣仪 打不倒我的只会让我越来越强大",
+      "onboard_time": 1691824055,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 884510,
       "num": 569608,
       "word": "鹿晗时隔六年再发星期五",
       "onboard_time": 1691797829,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 860857,
-      "num": 447958,
-      "word": "肖战怎么忍受单肩背带裤的",
-      "onboard_time": 1691823338,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 837523,
@@ -227,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 756534,
+      "num": 756534,
+      "word": "封神第一部票房破19亿",
+      "onboard_time": 1691821056,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 752859,
       "num": 752859,
       "word": "离职是上班提还是下班提",
@@ -240,14 +256,6 @@
       "word": "邓为演技",
       "onboard_time": 1691805457,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 741555,
-      "num": 741555,
-      "word": "封神第一部票房破19亿",
-      "onboard_time": 1691821056,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 664925,
-      "num": 593507,
+      "num": 619476,
       "word": "娜扎经纪人为接广告道歉",
       "onboard_time": 1691814459,
       "rank": 25,
@@ -371,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 580015,
+      "num": 580015,
+      "word": "饭制版梅林殉情",
+      "onboard_time": 1691822855,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 577276,
       "num": 597292,
       "word": "医院院长贪腐将成捆的现金提回家",
@@ -401,6 +417,14 @@
       "onboard_time": 1691763101,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 552109,
+      "num": 416532,
+      "word": "连名带姓",
+      "onboard_time": 1691824895,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 549879,
@@ -547,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452639,
+      "num": 416988,
+      "word": "考完驾照是不是不能骑电动车了",
+      "onboard_time": 1691822978,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447436,
       "num": 447436,
       "word": "左航蓝发",
@@ -560,14 +592,6 @@
       "word": "央视网文娱评封神第一部",
       "onboard_time": 1691822736,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 439016,
-      "num": 439016,
-      "word": "饭制版梅林殉情",
-      "onboard_time": 1691822855,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -625,6 +649,14 @@
       "onboard_time": 1691812537,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416500,
+      "num": 416500,
+      "word": "T1",
+      "onboard_time": 1691823456,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 413815,
@@ -827,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361904,
-      "num": 361904,
-      "word": "T1",
-      "onboard_time": 1691823456,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 361105,
       "num": 361105,
       "word": "婚礼前分手男方要求女方退还八宝粥",
@@ -891,14 +915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 341298,
-      "num": 341298,
-      "word": "考完驾照是不是不能骑电动车了",
-      "onboard_time": 1691822978,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337660,
       "num": 267611,
       "word": "相柳的救兵来了",
@@ -921,6 +937,14 @@
       "onboard_time": 1691798611,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321998,
+      "num": 265187,
+      "word": "其实可以直接买个电脑防窥屏的",
+      "onboard_time": 1691824357,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 319710,
@@ -1291,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223902,
+      "num": 223902,
+      "word": "周也的剧本太费男主了",
+      "onboard_time": 1691825196,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223373,
       "num": 223373,
       "word": "肖战终于穿背带裤了",
@@ -1331,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216654,
+      "num": 216654,
+      "word": "TF三代演唱会全员蓝发",
+      "onboard_time": 1691824595,
+      "rank": 36,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 216001,
       "num": 264601,
       "word": "小偷自己都觉得好丟人",
@@ -1363,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213244,
-      "num": 213244,
-      "word": "吴宣仪 打不倒我的只会让我越来越强大",
-      "onboard_time": 1691824055,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211290,
       "num": 211290,
       "word": "莲花楼的卧龙凤雏",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1691734176,
       "rank": 34,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 203744,
+      "num": 203744,
+      "word": "TF家族三代演唱会",
+      "onboard_time": 1691825014,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 203481,
@@ -1472,6 +1512,14 @@
       "word": "天选倒霉蛋的一天",
       "onboard_time": 1691823699,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 193499,
+      "num": 206574,
+      "word": "视频一下子就高级起来了",
+      "onboard_time": 1691825136,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -1635,14 +1683,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 150545,
-      "num": 181297,
-      "word": "其实可以直接买个电脑防窥屏的",
-      "onboard_time": 1691824357,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146591,
       "num": 146591,
       "word": "这辆电瓶车是叫淑慧吗",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1691760578,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 141008,
+      "num": 170424,
+      "word": "吐鲁番的小导游超越认知的懂事",
+      "onboard_time": 1691825434,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 139507,
@@ -1779,6 +1827,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 97582,
+      "num": 735545,
+      "word": "从七只到九千多只中国朱鹮保护成为世界范例",
+      "onboard_time": 1691809896,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91232,
       "num": 1087552,
       "word": "洪水来临时哪些地方是危险地带",
@@ -1795,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 69954,
+      "num": 466004,
+      "word": "半个NBA都来淘宝了",
+      "onboard_time": 1691823636,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65032,
       "num": 100367,
       "word": "莲花楼原声配乐大碟已上线",
@@ -1809,22 +1873,6 @@
       "onboard_time": 1691820038,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36040,
-      "num": 735545,
-      "word": "从七只到九千多只中国朱鹮保护成为世界范例",
-      "onboard_time": 1691809896,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33683,
-      "num": 466004,
-      "word": "半个NBA都来淘宝了",
-      "onboard_time": 1691823636,
-      "rank": 14,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
