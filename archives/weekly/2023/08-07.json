@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691850827834,
+  "endTime": 1691853294651,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -265,6 +265,14 @@
       "onboard_time": 1691375974,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 2689921,
+      "num": 2689921,
+      "word": "杨紫泼水 孟子义2.0",
+      "onboard_time": 1691851728,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2647870,
@@ -2371,6 +2379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1050183,
+      "num": 394909,
+      "word": "邓为被说撞脸六小龄童",
+      "onboard_time": 1691850766,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1047204,
       "num": 1047204,
       "word": "25岁86个好友什么水平",
@@ -2857,6 +2873,14 @@
       "onboard_time": 1691460692,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 903732,
+      "num": 263874,
+      "word": "鹿晗张艺兴刘雨昕演唱会人气",
+      "onboard_time": 1691851487,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 900431,
@@ -4281,6 +4305,14 @@
       "onboard_time": 1691839359,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 678783,
+      "num": 678783,
+      "word": "现在大学生都开始消费降级了吗",
+      "onboard_time": 1691850047,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 678758,
@@ -5955,6 +5987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 514797,
+      "num": 372895,
+      "word": "Angelababy说种菜的肥料是小海绵的尿",
+      "onboard_time": 1691851606,
+      "rank": 21,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 514260,
       "num": 417542,
       "word": "再也不跟实习生玩了",
@@ -6747,6 +6787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453809,
+      "num": 453809,
+      "word": "郑秀妍芝芙去了Amber演唱会",
+      "onboard_time": 1691851425,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 453187,
       "num": 453187,
       "word": "莲花楼有自己的年世兰",
@@ -7347,6 +7395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 416143,
+      "num": 368828,
+      "word": "小猪因洪水被饿10天瘦成S形身材",
+      "onboard_time": 1691852265,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414743,
       "num": 414743,
       "word": "今年已有159名医院院长书记被查",
@@ -7769,6 +7825,14 @@
       "onboard_time": 1691761061,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390741,
+      "num": 293631,
+      "word": "孟美岐 审视我的人还没放下",
+      "onboard_time": 1691852744,
+      "rank": 25,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 389859,
@@ -8611,6 +8675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349844,
+      "num": 292913,
+      "word": "张真源把专业涂脸上",
+      "onboard_time": 1691852744,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349694,
       "num": 281061,
       "word": "央视818晚会首发阵容",
@@ -8731,6 +8803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344250,
+      "num": 270905,
+      "word": "张杰唱了谢娜最喜欢的想见你",
+      "onboard_time": 1691852682,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 344168,
       "num": 325282,
       "word": "于适向费翔告状",
@@ -8747,14 +8827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342375,
-      "num": 354369,
-      "word": "现在大学生都开始消费降级了吗",
-      "onboard_time": 1691850047,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 342287,
       "num": 342287,
       "word": "杭州面包店有多卷",
@@ -8764,7 +8836,7 @@
     },
     {
       "raw_hot": 342123,
-      "num": 199795,
+      "num": 228574,
       "word": "魏大勋秦霄贤看得好认真",
       "onboard_time": 1691849207,
       "rank": 41,
@@ -9217,6 +9289,14 @@
       "onboard_time": 1691820876,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 319280,
+      "num": 269793,
+      "word": "张惠妹上海",
+      "onboard_time": 1691851786,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 319112,
@@ -9691,6 +9771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300214,
+      "num": 268655,
+      "word": "HYBE大楼前现状",
+      "onboard_time": 1691852926,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299880,
       "num": 299880,
       "word": "魏大勋捧脸照",
@@ -9841,6 +9929,14 @@
       "onboard_time": 1691413658,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295088,
+      "num": 353786,
+      "word": "当我问妈妈结婚有什么好处时",
+      "onboard_time": 1691848366,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 295002,
@@ -10123,6 +10219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285832,
+      "num": 285832,
+      "word": "18岁女孩被性侵涉事网约车未备案",
+      "onboard_time": 1691852505,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285659,
       "num": 285659,
       "word": "综艺童话阵容官宣",
@@ -10177,14 +10281,6 @@
       "onboard_time": 1691674778,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 283188,
-      "num": 193935,
-      "word": "邓为被说撞脸六小龄童",
-      "onboard_time": 1691850766,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 283116,
@@ -10297,14 +10393,6 @@
       "onboard_time": 1691833776,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280244,
-      "num": 353786,
-      "word": "当我问妈妈结婚有什么好处时",
-      "onboard_time": 1691848366,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 279850,
@@ -10561,6 +10649,14 @@
       "onboard_time": 1691471440,
       "rank": 38,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 271614,
+      "num": 271614,
+      "word": "宁清首冠",
+      "onboard_time": 1691851304,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 271590,
@@ -12060,7 +12156,7 @@
     },
     {
       "raw_hot": 223545,
-      "num": 223545,
+      "num": 224872,
       "word": "女生对男友的头发有多执着",
       "onboard_time": 1691848845,
       "rank": 46,
@@ -14075,6 +14171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184980,
+      "num": 226032,
+      "word": "浙江队",
+      "onboard_time": 1691852505,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184802,
       "num": 222913,
       "word": "原来空调里面这么脏",
@@ -14497,6 +14601,14 @@
       "onboard_time": 1691829097,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 167639,
+      "num": 224115,
+      "word": "栓Q哥自学16年英语追爱外国女子",
+      "onboard_time": 1691851425,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 167486,
@@ -14937,6 +15049,14 @@
       "onboard_time": 1691846440,
       "rank": 48,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 147581,
+      "num": 223393,
+      "word": "狼队飞车",
+      "onboard_time": 1691851846,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 146591,

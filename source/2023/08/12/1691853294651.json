@@ -1,0 +1,410 @@
+{
+  "runTime": 1691853294651,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2689921,
+        "num": 2689921,
+        "word": "杨紫泼水 孟子义2.0",
+        "onboard_time": 1691851728,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1305592,
+        "num": 1305592,
+        "word": "长相思男主爆红后综艺首秀",
+        "onboard_time": 1691845962,
+        "rank": 1,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 66526,
+        "num": 1259109,
+        "word": "琵琶与古诗词邂逅有多浪漫",
+        "onboard_time": 1691845241,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2808987,
+        "num": 1258062,
+        "word": "张杰谢娜",
+        "onboard_time": 1691848542,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1248385,
+        "num": 1248385,
+        "word": "国家一级演员苏孝林被立案调查",
+        "onboard_time": 1691847283,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1184805,
+        "num": 1184805,
+        "word": "孙红雷张艺兴",
+        "onboard_time": 1691849748,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1016356,
+        "num": 1016356,
+        "word": "去西藏玩不要戴空顶遮阳帽",
+        "onboard_time": 1691841516,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 900660,
+        "num": 900660,
+        "word": "唐悠悠你现在真的成黑老大的女人了",
+        "onboard_time": 1691846860,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 861106,
+        "num": 861106,
+        "word": "各大医院书记院长被抓后痛哭流涕",
+        "onboard_time": 1691839057,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678783,
+        "num": 678783,
+        "word": "现在大学生都开始消费降级了吗",
+        "onboard_time": 1691850047,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 654086,
+        "num": 654086,
+        "word": "杨紫这次选择了相柳",
+        "onboard_time": 1691844880,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579656,
+        "num": 579656,
+        "word": "每天喝无糖饮料发生了什么变化",
+        "onboard_time": 1691846261,
+        "rank": 11,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 496548,
+        "num": 496548,
+        "word": "难怪我结不了婚",
+        "onboard_time": 1691844279,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 279433,
+        "num": 477886,
+        "word": "这7人在被困列车上成立了临时党支部",
+        "onboard_time": 1691843014,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143102,
+        "num": 474076,
+        "word": "一对双胞胎展示同款举手睡姿",
+        "onboard_time": 1691838637,
+        "rank": 14,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 473270,
+        "num": 473270,
+        "word": "李雪琴在王鹤棣魏大勋之间做选择",
+        "onboard_time": 1691846621,
+        "rank": 15,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 453809,
+        "num": 453809,
+        "word": "郑秀妍芝芙去了Amber演唱会",
+        "onboard_time": 1691851425,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 439564,
+        "num": 439564,
+        "word": "赵丽颖珍珠项链耳钉",
+        "onboard_time": 1691849388,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 404410,
+        "num": 404410,
+        "word": "黄晓明发文告别方嘉树",
+        "onboard_time": 1691848304,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398989,
+        "num": 398989,
+        "word": "原来这张表情包是喜羊羊遗照",
+        "onboard_time": 1691846080,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1050183,
+        "num": 394909,
+        "word": "邓为被说撞脸六小龄童",
+        "onboard_time": 1691850766,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514797,
+        "num": 372895,
+        "word": "Angelababy说种菜的肥料是小海绵的尿",
+        "onboard_time": 1691851606,
+        "rank": 21,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 416143,
+        "num": 368828,
+        "word": "小猪因洪水被饿10天瘦成S形身材",
+        "onboard_time": 1691852265,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341239,
+        "num": 341239,
+        "word": "女儿腺样体肥大父母拒手术13岁身高仅133",
+        "onboard_time": 1691840919,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295088,
+        "num": 295088,
+        "word": "当我问妈妈结婚有什么好处时",
+        "onboard_time": 1691848366,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 390741,
+        "num": 293631,
+        "word": "孟美岐 审视我的人还没放下",
+        "onboard_time": 1691852744,
+        "rank": 25,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 383725,
+        "num": 293622,
+        "word": "黄子韬怎么一直惹徐艺洋生气",
+        "onboard_time": 1691841460,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349844,
+        "num": 292913,
+        "word": "张真源把专业涂脸上",
+        "onboard_time": 1691852744,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285832,
+        "num": 285832,
+        "word": "18岁女孩被性侵涉事网约车未备案",
+        "onboard_time": 1691852505,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271614,
+        "num": 271614,
+        "word": "宁清首冠",
+        "onboard_time": 1691851304,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344250,
+        "num": 270905,
+        "word": "张杰唱了谢娜最喜欢的想见你",
+        "onboard_time": 1691852682,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323528,
+        "num": 270565,
+        "word": "阮经天出车祸",
+        "onboard_time": 1691835519,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319280,
+        "num": 269793,
+        "word": "张惠妹上海",
+        "onboard_time": 1691851786,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300214,
+        "num": 268655,
+        "word": "HYBE大楼前现状",
+        "onboard_time": 1691852926,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268503,
+        "num": 268503,
+        "word": "现实版盗墓笔记",
+        "onboard_time": 1691845362,
+        "rank": 34,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 295721,
+        "num": 264842,
+        "word": "蝉女",
+        "onboard_time": 1691845362,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 903732,
+        "num": 263874,
+        "word": "鹿晗张艺兴刘雨昕演唱会人气",
+        "onboard_time": 1691851487,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258356,
+        "num": 258356,
+        "word": "男子为亡妻销户时泪流满面亲吻照片",
+        "onboard_time": 1691846621,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240201,
+        "num": 240201,
+        "word": "25岁86个好友什么水平",
+        "onboard_time": 1691844160,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231114,
+        "num": 231114,
+        "word": "谭松韵蓝色抹胸花朵裙",
+        "onboard_time": 1691844880,
+        "rank": 39,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 294122,
+        "num": 230843,
+        "word": "井川里予晒与卡琳娜合照",
+        "onboard_time": 1691847582,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283299,
+        "num": 229698,
+        "word": "白日梦我原著党两眼一黑",
+        "onboard_time": 1691838580,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282412,
+        "num": 229305,
+        "word": "孟美岐挑战安崎输了",
+        "onboard_time": 1691838219,
+        "rank": 42,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 275100,
+        "num": 228574,
+        "word": "魏大勋秦霄贤看得好认真",
+        "onboard_time": 1691849207,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272669,
+        "num": 227734,
+        "word": "纹身店 银饰店",
+        "onboard_time": 1691844039,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243200,
+        "num": 227011,
+        "word": "59岁法医因抑郁症女孩一句话哭了",
+        "onboard_time": 1691831616,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184980,
+        "num": 226032,
+        "word": "浙江队",
+        "onboard_time": 1691852505,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175307,
+        "num": 224872,
+        "word": "女生对男友的头发有多执着",
+        "onboard_time": 1691848845,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167639,
+        "num": 224115,
+        "word": "栓Q哥自学16年英语追爱外国女子",
+        "onboard_time": 1691851425,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 147581,
+        "num": 223393,
+        "word": "狼队飞车",
+        "onboard_time": 1691851846,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以青春的活力促进世界和平与发展#"
+    }
+  }
+}
