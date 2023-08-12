@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691861619027,
+  "endTime": 1691864314904,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -4563,6 +4563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647300,
+      "num": 647300,
+      "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
+      "onboard_time": 1691859569,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 646650,
       "num": 393727,
       "word": "小伙住宾馆发现抽屉里有10万纸币",
@@ -5121,14 +5129,6 @@
       "onboard_time": 1691473717,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 589849,
-      "num": 589849,
-      "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
-      "onboard_time": 1691859569,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 589641,
@@ -15907,6 +15907,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 103726,
+      "num": 103726,
+      "word": "对女孩子来说重要的三件事",
+      "onboard_time": 1691861605,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 103506,
       "num": 103506,
       "word": "胡夏张含韵Gemini梦幻组合",
@@ -16467,6 +16475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48655,
+      "num": 48655,
+      "word": "凯塞多",
+      "onboard_time": 1691862921,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47107,
       "num": 481973,
       "word": "登上国际舞台的农民画有多惊艳",
@@ -16545,14 +16561,6 @@
       "onboard_time": 1691525773,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40839,
-      "num": 73649,
-      "word": "对女孩子来说重要的三件事",
-      "onboard_time": 1691861605,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 38693,

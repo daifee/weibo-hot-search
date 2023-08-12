@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691861619027,
+  "endTime": 1691864314904,
   "band_list": [
     {
       "raw_hot": 1680984,
@@ -67,20 +67,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 647300,
+      "num": 647300,
+      "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
+      "onboard_time": 1691859569,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 597799,
       "num": 597799,
       "word": "唐悠悠你现在真的成黑老大的女人了",
       "onboard_time": 1691846860,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 589849,
-      "num": 589849,
-      "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
-      "onboard_time": 1691859569,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 581152,
@@ -451,6 +451,22 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 103726,
+      "num": 103726,
+      "word": "对女孩子来说重要的三件事",
+      "onboard_time": 1691861605,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 102878,
+      "num": 102878,
+      "word": "井川里予晒与卡琳娜合照",
+      "onboard_time": 1691847582,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98569,
       "num": 141597,
       "word": "硬核特辣火锅",
@@ -483,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40839,
-      "num": 73649,
-      "word": "对女孩子来说重要的三件事",
-      "onboard_time": 1691861605,
-      "rank": 49,
-      "category": "情感,幽默"
+      "raw_hot": 48655,
+      "num": 48655,
+      "word": "凯塞多",
+      "onboard_time": 1691862921,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 17555,

@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691861619027,
+  "endTime": 1691864314904,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -9235,6 +9235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647300,
+      "num": 647300,
+      "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
+      "onboard_time": 1691859569,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 647117,
       "num": 417473,
       "word": "演技进步最快的演员",
@@ -10361,14 +10369,6 @@
       "onboard_time": 1691136814,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 589849,
-      "num": 589849,
-      "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
-      "onboard_time": 1691859569,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 589641,
@@ -30651,6 +30651,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 103726,
+      "num": 103726,
+      "word": "对女孩子来说重要的三件事",
+      "onboard_time": 1691861605,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 103556,
       "num": 95826,
       "word": "玱玹打不过防风意映",
@@ -31587,6 +31595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48655,
+      "num": 48655,
+      "word": "凯塞多",
+      "onboard_time": 1691862921,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48210,
       "num": 1401476,
       "word": "个人如何做好灾后防疫",
@@ -31713,14 +31729,6 @@
       "onboard_time": 1691525773,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40839,
-      "num": 73649,
-      "word": "对女孩子来说重要的三件事",
-      "onboard_time": 1691861605,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 38693,
