@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691821159271,
+  "endTime": 1691822035568,
   "band_list": [
     {
       "raw_hot": 2459545,
@@ -155,6 +155,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 994829,
+      "num": 432522,
+      "word": "邓为大学没毕业",
+      "onboard_time": 1691821178,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 904769,
+      "num": 904769,
+      "word": "上了大学不给孩子买手机可以吗",
+      "onboard_time": 1691817877,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 884510,
       "num": 569608,
       "word": "鹿晗时隔六年再发星期五",
@@ -169,14 +185,6 @@
       "onboard_time": 1691802757,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 813263,
-      "num": 813263,
-      "word": "上了大学不给孩子买手机可以吗",
-      "onboard_time": 1691817877,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 811338,
@@ -200,6 +208,14 @@
       "word": "罗翔 真正的爱是扶级而上的",
       "onboard_time": 1691812597,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 752859,
+      "num": 752859,
+      "word": "离职是上班提还是下班提",
+      "onboard_time": 1691818721,
+      "rank": 6,
       "category": "情感"
     },
     {
@@ -235,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 710235,
-      "num": 710235,
-      "word": "离职是上班提还是下班提",
-      "onboard_time": 1691818721,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 688253,
       "num": 688253,
       "word": "央视网文娱评长月烬明",
@@ -259,12 +267,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 675798,
+      "num": 675798,
+      "word": "因为做饭太多被妈妈数落了",
+      "onboard_time": 1691817997,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 675483,
       "num": 675483,
       "word": "家庭自卑就是这样来的",
       "onboard_time": 1691800113,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 675419,
+      "num": 426682,
+      "word": "林凯回应撞脸肖战邓为",
+      "onboard_time": 1691820217,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 664925,
+      "num": 424624,
+      "word": "娜扎经纪人为接广告道歉",
+      "onboard_time": 1691814459,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 650041,
@@ -305,14 +337,6 @@
       "onboard_time": 1691811399,
       "rank": 12,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 599153,
-      "num": 599153,
-      "word": "因为做饭太多被妈妈数落了",
-      "onboard_time": 1691817997,
-      "rank": 43,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 592738,
@@ -361,6 +385,14 @@
       "onboard_time": 1691763101,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 553090,
+      "num": 553090,
+      "word": "封神第一部票房破19亿",
+      "onboard_time": 1691821056,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 549879,
@@ -595,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 404222,
-      "num": 404222,
-      "word": "林凯回应撞脸肖战邓为",
-      "onboard_time": 1691820217,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 400969,
       "num": 400969,
       "word": "宋轶格子衫半身裙",
@@ -681,14 +705,6 @@
       "onboard_time": 1691818236,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 379195,
-      "num": 379195,
-      "word": "娜扎经纪人为接广告道歉",
-      "onboard_time": 1691814459,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 376002,
@@ -875,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296130,
+      "num": 296130,
+      "word": "打篮球是最好的医美",
+      "onboard_time": 1691820998,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295379,
       "num": 261870,
       "word": "女子请分居丈夫家人吃饭3死1伤",
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 282359,
-      "num": 215018,
+      "num": 243012,
       "word": "张晚意仪态",
       "onboard_time": 1691819316,
       "rank": 30,
@@ -993,6 +1017,14 @@
       "onboard_time": 1691800415,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252459,
+      "num": 252459,
+      "word": "宋亚轩张真源贺峻霖加速之城合照",
+      "onboard_time": 1691820759,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 251829,
@@ -1115,14 +1147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 230296,
-      "num": 202584,
-      "word": "宋亚轩张真源贺峻霖加速之城合照",
-      "onboard_time": 1691820759,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229178,
       "num": 229178,
       "word": "高叶狂飙后首部电视剧",
@@ -1140,7 +1164,7 @@
     },
     {
       "raw_hot": 225912,
-      "num": 165823,
+      "num": 203539,
       "word": "封神彪子原来是乔家里的戚成钢",
       "onboard_time": 1691820696,
       "rank": 41,
@@ -1227,20 +1251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214204,
+      "num": 214204,
+      "word": "孤注一掷",
+      "onboard_time": 1691818596,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214178,
       "num": 214178,
       "word": "山东的山指的是哪座山",
       "onboard_time": 1691797468,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212069,
-      "num": 165376,
-      "word": "孤注一掷",
-      "onboard_time": 1691818596,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 211290,
@@ -1283,12 +1307,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203445,
-      "num": 163741,
-      "word": "封神第一部票房破19亿",
-      "onboard_time": 1691821056,
-      "rank": 44,
-      "category": "影视"
+      "raw_hot": 201838,
+      "num": 244794,
+      "word": "会发光的蕨",
+      "onboard_time": 1691821719,
+      "rank": 33,
+      "category": "自然"
     },
     {
       "raw_hot": 200491,
@@ -1371,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190053,
+      "num": 220734,
+      "word": "一胎二胎孕反应一样吗",
+      "onboard_time": 1691820876,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 187913,
       "num": 187913,
       "word": "中二就是汪东城的统治区吧",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1691768619,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168529,
-      "num": 168529,
-      "word": "打篮球是最好的医美",
-      "onboard_time": 1691820998,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 167359,
@@ -1659,19 +1683,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 44504,
+      "num": 544158,
+      "word": "男童掉落池塘幸得路人及时救起",
+      "onboard_time": 1691820038,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36040,
       "num": 196897,
       "word": "从七只到九千多只中国朱鹮保护成为世界范例",
       "onboard_time": 1691809896,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25081,
-      "num": 544158,
-      "word": "男童掉落池塘幸得路人及时救起",
-      "onboard_time": 1691820038,
-      "rank": 14,
       "category": "社会新闻"
     }
   ],

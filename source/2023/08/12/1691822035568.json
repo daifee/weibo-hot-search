@@ -1,0 +1,410 @@
+{
+  "runTime": 1691822035568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153762,
+        "num": 1153762,
+        "word": "妻子实名举报医生老公每年药品回扣十几万",
+        "onboard_time": 1691797709,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904769,
+        "num": 904769,
+        "word": "上了大学不给孩子买手机可以吗",
+        "onboard_time": 1691817877,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70119,
+        "num": 764954,
+        "word": "人气旺起来消费火起来经济活起来",
+        "onboard_time": 1691810076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1667455,
+        "num": 759560,
+        "word": "娜扎为什么接这种广告",
+        "onboard_time": 1691805516,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 752859,
+        "num": 752859,
+        "word": "离职是上班提还是下班提",
+        "onboard_time": 1691818721,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 715431,
+        "num": 715431,
+        "word": "哥 成钢他会改的",
+        "onboard_time": 1691811399,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 675798,
+        "num": 675798,
+        "word": "因为做饭太多被妈妈数落了",
+        "onboard_time": 1691817997,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 614022,
+        "num": 614022,
+        "word": "孤注一掷 安娜",
+        "onboard_time": 1691819197,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553090,
+        "num": 553090,
+        "word": "封神第一部票房破19亿",
+        "onboard_time": 1691821056,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434178,
+        "num": 434178,
+        "word": "消防员抓了只龙头鹿身的动物",
+        "onboard_time": 1691815539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1534595,
+        "num": 433449,
+        "word": "质疑 理解 成为",
+        "onboard_time": 1691814518,
+        "rank": 10,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 994829,
+        "num": 432522,
+        "word": "邓为大学没毕业",
+        "onboard_time": 1691821178,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229967,
+        "num": 431074,
+        "word": "产妇给孩子取名中国人感谢援阿医疗队",
+        "onboard_time": 1691804675,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 150204,
+        "num": 429210,
+        "word": "邓亚萍辟谣",
+        "onboard_time": 1691814216,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44504,
+        "num": 427336,
+        "word": "男童掉落池塘幸得路人及时救起",
+        "onboard_time": 1691820038,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675419,
+        "num": 426682,
+        "word": "林凯回应撞脸肖战邓为",
+        "onboard_time": 1691820217,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664925,
+        "num": 424624,
+        "word": "娜扎经纪人为接广告道歉",
+        "onboard_time": 1691814459,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509478,
+        "num": 423116,
+        "word": "医生说曾黎顶多30岁",
+        "onboard_time": 1691802516,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423089,
+        "num": 423089,
+        "word": "原著小夭成为王母",
+        "onboard_time": 1691815721,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375934,
+        "num": 375934,
+        "word": "封神 诚意",
+        "onboard_time": 1691817637,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1030383,
+        "num": 369107,
+        "word": "于适 巩俐",
+        "onboard_time": 1691817817,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355729,
+        "num": 355729,
+        "word": "宿舍用了9000度电是什么体验",
+        "onboard_time": 1691806475,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354460,
+        "num": 354460,
+        "word": "杨紫回应痛不郁生",
+        "onboard_time": 1691819436,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344190,
+        "num": 344190,
+        "word": "肾好不好睡一觉就知道了",
+        "onboard_time": 1691796025,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 299630,
+        "num": 299630,
+        "word": "奶茶奶盖有多不健康",
+        "onboard_time": 1691812059,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 334074,
+        "num": 299493,
+        "word": "刘浩存把丁程鑫撩到耳朵都红了",
+        "onboard_time": 1691809476,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314717,
+        "num": 297875,
+        "word": "孤注一掷点映机制引争议",
+        "onboard_time": 1691818236,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313354,
+        "num": 297372,
+        "word": "李雪琴的北大真是没白上",
+        "onboard_time": 1691800894,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296130,
+        "num": 296130,
+        "word": "打篮球是最好的医美",
+        "onboard_time": 1691820998,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192139,
+        "num": 284400,
+        "word": "罗翔 真正的爱是扶级而上的",
+        "onboard_time": 1691812597,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283911,
+        "num": 283911,
+        "word": "内娱骨相皮相都优越的明星",
+        "onboard_time": 1691814698,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270433,
+        "num": 270433,
+        "word": "宋轶格子衫半身裙",
+        "onboard_time": 1691816618,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252459,
+        "num": 252459,
+        "word": "宋亚轩张真源贺峻霖加速之城合照",
+        "onboard_time": 1691820759,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201838,
+        "num": 244794,
+        "word": "会发光的蕨",
+        "onboard_time": 1691821719,
+        "rank": 33,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 189027,
+        "num": 243694,
+        "word": "我好像删到电脑的大动脉了",
+        "onboard_time": 1691796205,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243012,
+        "num": 243012,
+        "word": "张晚意仪态",
+        "onboard_time": 1691819316,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190616,
+        "num": 230054,
+        "word": "上海129元的自助餐",
+        "onboard_time": 1691813317,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226883,
+        "num": 226883,
+        "word": "长相思 全民制作人",
+        "onboard_time": 1691813678,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190053,
+        "num": 220734,
+        "word": "一胎二胎孕反应一样吗",
+        "onboard_time": 1691820876,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 183581,
+        "num": 220725,
+        "word": "被男子骗至家中杀害奸尸女子家属发声",
+        "onboard_time": 1691798371,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220719,
+        "num": 220719,
+        "word": "赵雅芝 想叫我妈",
+        "onboard_time": 1691815838,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218780,
+        "num": 218780,
+        "word": "景甜新剧因为秋裤认出冯绍峰",
+        "onboard_time": 1691816435,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214204,
+        "num": 214204,
+        "word": "孤注一掷",
+        "onboard_time": 1691818596,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209339,
+        "num": 209339,
+        "word": "小夭梅林重新剪辑了",
+        "onboard_time": 1691810137,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205820,
+        "num": 205820,
+        "word": "封神",
+        "onboard_time": 1691820337,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203539,
+        "num": 203539,
+        "word": "封神彪子原来是乔家里的戚成钢",
+        "onboard_time": 1691820696,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164552,
+        "num": 164552,
+        "word": "妈妈过于前卫是什么体验",
+        "onboard_time": 1691811399,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 161609,
+        "num": 161609,
+        "word": "霸王茶姬",
+        "onboard_time": 1691795001,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141101,
+        "num": 161605,
+        "word": "千万不能买短乘长",
+        "onboard_time": 1691813376,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140510,
+        "num": 161605,
+        "word": "雅安",
+        "onboard_time": 1691810256,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路大道同行#"
+    }
+  }
+}
