@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691813930638,
+  "endTime": 1691814833025,
   "band_list": [
     {
       "raw_hot": 2459545,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1777370,
-      "num": 1777370,
+      "raw_hot": 2082525,
+      "num": 2082525,
       "word": "哥 成钢他会改的",
       "onboard_time": 1691811399,
       "rank": 0,
@@ -163,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 773020,
+      "num": 773020,
+      "word": "奶茶奶盖有多不健康",
+      "onboard_time": 1691812059,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 749342,
       "num": 749342,
       "word": "邓为演技",
@@ -211,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 634256,
+      "num": 634256,
+      "word": "罗翔 真正的爱是扶级而上的",
+      "onboard_time": 1691812597,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 631703,
       "num": 631703,
       "word": "六公主说王一博像一个宝藏",
@@ -219,8 +235,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 609546,
-      "num": 609546,
+      "raw_hot": 623226,
+      "num": 623226,
       "word": "妈妈过于前卫是什么体验",
       "onboard_time": 1691811399,
       "rank": 12,
@@ -275,14 +291,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 554975,
-      "num": 554975,
-      "word": "奶茶奶盖有多不健康",
-      "onboard_time": 1691812059,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 549879,
       "num": 686939,
       "word": "梅西球童是贝克汉姆女儿",
@@ -323,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 506669,
+      "num": 506669,
+      "word": "复活后的殷郊",
+      "onboard_time": 1691812416,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 504173,
       "num": 504173,
       "word": "小夭梅林遭杀害三个男人的表情",
@@ -355,6 +371,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 486298,
+      "num": 684475,
+      "word": "邓亚萍辟谣",
+      "onboard_time": 1691814216,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 483992,
       "num": 239990,
       "word": "被于正说像梁朝伟的新人演员生图",
@@ -379,11 +403,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 460823,
-      "num": 460823,
-      "word": "复活后的殷郊",
-      "onboard_time": 1691812416,
-      "rank": 18,
+      "raw_hot": 456731,
+      "num": 456731,
+      "word": "罗云熙好会挑剧本",
+      "onboard_time": 1691813017,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 454260,
+      "num": 454260,
+      "word": "长相思 全民制作人",
+      "onboard_time": 1691813678,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -401,6 +433,14 @@
       "onboard_time": 1691804375,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434495,
+      "num": 326591,
+      "word": "上海129元的自助餐",
+      "onboard_time": 1691813317,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 432841,
@@ -433,14 +473,6 @@
       "onboard_time": 1691812537,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 416811,
-      "num": 416811,
-      "word": "罗翔 真正的爱是扶级而上的",
-      "onboard_time": 1691812597,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 413815,
@@ -523,19 +555,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382321,
-      "num": 382321,
-      "word": "罗云熙好会挑剧本",
-      "onboard_time": 1691813017,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 380768,
       "num": 380768,
       "word": "Ella晒SHE合影",
       "onboard_time": 1691799272,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 379195,
+      "num": 379195,
+      "word": "娜扎经纪人为接广告道歉",
+      "onboard_time": 1691814459,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -545,6 +577,14 @@
       "onboard_time": 1691796686,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375642,
+      "num": 375642,
+      "word": "孟子义泼宋威龙",
+      "onboard_time": 1691814097,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 372891,
@@ -683,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314636,
-      "num": 314636,
-      "word": "长相思 全民制作人",
-      "onboard_time": 1691813678,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 313625,
       "num": 313625,
       "word": "被杨紫的这段采访激励到了",
@@ -705,6 +737,14 @@
       "onboard_time": 1691806357,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301377,
+      "num": 301377,
+      "word": "质疑 理解 成为",
+      "onboard_time": 1691814518,
+      "rank": 34,
+      "category": "情感,影视"
     },
     {
       "raw_hot": 301289,
@@ -740,7 +780,7 @@
     },
     {
       "raw_hot": 280712,
-      "num": 257380,
+      "num": 264235,
       "word": "相柳 一个狗啃过的碗",
       "onboard_time": 1691813198,
       "rank": 36,
@@ -769,6 +809,14 @@
       "onboard_time": 1691799875,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271498,
+      "num": 292522,
+      "word": "千万不能买短乘长",
+      "onboard_time": 1691813376,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268719,
@@ -811,14 +859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249973,
-      "num": 326591,
-      "word": "上海129元的自助餐",
-      "onboard_time": 1691813317,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 246276,
       "num": 232095,
       "word": "liz再染金发",
@@ -857,6 +897,14 @@
       "onboard_time": 1691795542,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241384,
+      "num": 241384,
+      "word": "内娱骨相皮相都优越的明星",
+      "onboard_time": 1691814698,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 239009,
@@ -947,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225103,
-      "num": 292522,
-      "word": "千万不能买短乘长",
-      "onboard_time": 1691813376,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225038,
       "num": 213079,
       "word": "莲花楼对称美学",
@@ -1009,6 +1049,14 @@
       "onboard_time": 1691802336,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216001,
+      "num": 264601,
+      "word": "小偷自己都觉得好丟人",
+      "onboard_time": 1691813017,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 215735,
@@ -1075,14 +1123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200075,
-      "num": 248599,
-      "word": "小偷自己都觉得好丟人",
-      "onboard_time": 1691813017,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199764,
       "num": 199764,
       "word": "光与夜之恋",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1691810796,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197646,
+      "num": 207026,
+      "word": "绘旅人红线牵",
+      "onboard_time": 1691814159,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 195654,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1691759436,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139361,
+      "num": 204412,
+      "word": "伤妈1000自损800",
+      "onboard_time": 1691814818,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 136646,

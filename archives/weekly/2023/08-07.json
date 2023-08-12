@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691813930638,
+  "endTime": 1691814833025,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2082525,
+      "num": 2082525,
+      "word": "哥 成钢他会改的",
+      "onboard_time": 1691811399,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2075752,
       "num": 2075752,
       "word": "周深演唱会票价",
@@ -721,14 +729,6 @@
       "onboard_time": 1691643456,
       "rank": 10,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1777370,
-      "num": 1777370,
-      "word": "哥 成钢他会改的",
-      "onboard_time": 1691811399,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1770705,
@@ -3251,6 +3251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 773020,
+      "num": 773020,
+      "word": "奶茶奶盖有多不健康",
+      "onboard_time": 1691812059,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 769865,
       "num": 769865,
       "word": "卡琳娜cos绝世唐门",
@@ -4171,6 +4179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 634256,
+      "num": 634256,
+      "word": "罗翔 真正的爱是扶级而上的",
+      "onboard_time": 1691812597,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 634123,
       "num": 634123,
       "word": "娜扎说可以美女不可以笨蛋",
@@ -4241,6 +4257,14 @@
       "onboard_time": 1691420321,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 623226,
+      "num": 623226,
+      "word": "妈妈过于前卫是什么体验",
+      "onboard_time": 1691811399,
+      "rank": 12,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 622719,
@@ -4369,14 +4393,6 @@
       "onboard_time": 1691483557,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 609546,
-      "num": 609546,
-      "word": "妈妈过于前卫是什么体验",
-      "onboard_time": 1691811399,
-      "rank": 12,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 608882,
@@ -4979,14 +4995,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 554975,
-      "num": 554975,
-      "word": "奶茶奶盖有多不健康",
-      "onboard_time": 1691812059,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 553961,
       "num": 551047,
       "word": "于适胸肌夹话筒",
@@ -5467,6 +5475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 506669,
+      "num": 506669,
+      "word": "复活后的殷郊",
+      "onboard_time": 1691812416,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 504999,
       "num": 823062,
       "word": "3岁女孩走丢告诉民警她叫小美女",
@@ -5641,6 +5657,14 @@
       "onboard_time": 1691803959,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 486298,
+      "num": 684475,
+      "word": "邓亚萍辟谣",
+      "onboard_time": 1691814216,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 486049,
@@ -5987,14 +6011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460823,
-      "num": 460823,
-      "word": "复活后的殷郊",
-      "onboard_time": 1691812416,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 460780,
       "num": 315750,
       "word": "千万不要把枕头放洗衣机里洗",
@@ -6035,6 +6051,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 456731,
+      "num": 456731,
+      "word": "罗云熙好会挑剧本",
+      "onboard_time": 1691813017,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 456065,
       "num": 456065,
       "word": "在银行自尊心低到谷底",
@@ -6064,6 +6088,14 @@
       "word": "毛不易回复张晚意",
       "onboard_time": 1691750435,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 454260,
+      "num": 454260,
+      "word": "长相思 全民制作人",
+      "onboard_time": 1691813678,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -6305,6 +6337,14 @@
       "onboard_time": 1691804375,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434495,
+      "num": 326591,
+      "word": "上海129元的自助餐",
+      "onboard_time": 1691813317,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 434080,
@@ -6609,14 +6649,6 @@
       "onboard_time": 1691627076,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416811,
-      "num": 416811,
-      "word": "罗翔 真正的爱是扶级而上的",
-      "onboard_time": 1691812597,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 416589,
@@ -7163,14 +7195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 382321,
-      "num": 382321,
-      "word": "罗云熙好会挑剧本",
-      "onboard_time": 1691813017,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 381278,
       "num": 381278,
       "word": "走路久了为什么脚会变黄",
@@ -7201,6 +7225,14 @@
       "onboard_time": 1691659656,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379195,
+      "num": 379195,
+      "word": "娜扎经纪人为接广告道歉",
+      "onboard_time": 1691814459,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 377780,
@@ -7249,6 +7281,14 @@
       "onboard_time": 1691796686,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375642,
+      "num": 375642,
+      "word": "孟子义泼宋威龙",
+      "onboard_time": 1691814097,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 374704,
@@ -8307,14 +8347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314636,
-      "num": 314636,
-      "word": "长相思 全民制作人",
-      "onboard_time": 1691813678,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 314499,
       "num": 314499,
       "word": "檀健次微博开屏",
@@ -8609,6 +8641,14 @@
       "onboard_time": 1691396677,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301377,
+      "num": 301377,
+      "word": "质疑 理解 成为",
+      "onboard_time": 1691814518,
+      "rank": 34,
+      "category": "情感,影视"
     },
     {
       "raw_hot": 301289,
@@ -9148,7 +9188,7 @@
     },
     {
       "raw_hot": 280712,
-      "num": 257380,
+      "num": 264235,
       "word": "相柳 一个狗啃过的碗",
       "onboard_time": 1691813198,
       "rank": 36,
@@ -9409,6 +9449,14 @@
       "onboard_time": 1691760940,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 271498,
+      "num": 292522,
+      "word": "千万不能买短乘长",
+      "onboard_time": 1691813376,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271444,
@@ -9947,14 +9995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 249973,
-      "num": 326591,
-      "word": "上海129元的自助餐",
-      "onboard_time": 1691813317,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 249588,
       "num": 227112,
       "word": "25小时恋爱开播",
@@ -10224,6 +10264,14 @@
       "word": "西出玉门",
       "onboard_time": 1691551301,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 241384,
+      "num": 241384,
+      "word": "内娱骨相皮相都优越的明星",
+      "onboard_time": 1691814698,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -10683,14 +10731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225103,
-      "num": 292522,
-      "word": "千万不能买短乘长",
-      "onboard_time": 1691813376,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225038,
       "num": 213079,
       "word": "莲花楼对称美学",
@@ -11016,6 +11056,14 @@
       "word": "买了不一样的泳帽去河里游泳",
       "onboard_time": 1691337239,
       "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 216001,
+      "num": 264601,
+      "word": "小偷自己都觉得好丟人",
+      "onboard_time": 1691813017,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -11731,14 +11779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 200075,
-      "num": 248599,
-      "word": "小偷自己都觉得好丟人",
-      "onboard_time": 1691813017,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199867,
       "num": 199867,
       "word": "尤长靖寄语海外华裔青少年",
@@ -11849,6 +11889,14 @@
       "onboard_time": 1691574639,
       "rank": 6,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 197646,
+      "num": 207026,
+      "word": "绘旅人红线牵",
+      "onboard_time": 1691814159,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 197625,
@@ -13401,6 +13449,14 @@
       "onboard_time": 1691765021,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139361,
+      "num": 204412,
+      "word": "伤妈1000自损800",
+      "onboard_time": 1691814818,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 139226,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1691814833025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2082525,
+        "num": 2082525,
+        "word": "哥 成钢他会改的",
+        "onboard_time": 1691811399,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1597856,
+        "num": 1597856,
+        "word": "宿舍用了9000度电是什么体验",
+        "onboard_time": 1691806475,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123025,
+        "num": 1313955,
+        "word": "人气旺起来消费火起来经济活起来",
+        "onboard_time": 1691810076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1858263,
+        "num": 1299060,
+        "word": "娜扎为什么接这种广告",
+        "onboard_time": 1691805516,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1198187,
+        "num": 1198187,
+        "word": "医生说曾黎顶多30岁",
+        "onboard_time": 1691802516,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1129834,
+        "num": 1129834,
+        "word": "刘浩存把丁程鑫撩到耳朵都红了",
+        "onboard_time": 1691809476,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 780871,
+        "num": 780871,
+        "word": "肾好不好睡一觉就知道了",
+        "onboard_time": 1691796025,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 773020,
+        "num": 773020,
+        "word": "奶茶奶盖有多不健康",
+        "onboard_time": 1691812059,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 486298,
+        "num": 684475,
+        "word": "邓亚萍辟谣",
+        "onboard_time": 1691814216,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450117,
+        "num": 651151,
+        "word": "妻子实名举报医生老公每年药品回扣十几万",
+        "onboard_time": 1691797709,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634256,
+        "num": 634256,
+        "word": "罗翔 真正的爱是扶级而上的",
+        "onboard_time": 1691812597,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 623226,
+        "num": 623226,
+        "word": "妈妈过于前卫是什么体验",
+        "onboard_time": 1691811399,
+        "rank": 11,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 585789,
+        "num": 585789,
+        "word": "六公主说王一博像一个宝藏",
+        "onboard_time": 1691810916,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546807,
+        "num": 546807,
+        "word": "莲花楼唯一一个恋爱脑",
+        "onboard_time": 1691808456,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310205,
+        "num": 511303,
+        "word": "杭州亚运电竞门票销售8月14日启动",
+        "onboard_time": 1691809417,
+        "rank": 14,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 506669,
+        "num": 506669,
+        "word": "复活后的殷郊",
+        "onboard_time": 1691812416,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500773,
+        "num": 500773,
+        "word": "我好像删到电脑的大动脉了",
+        "onboard_time": 1691796205,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 486501,
+        "num": 486501,
+        "word": "雅安",
+        "onboard_time": 1691810256,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458324,
+        "num": 458324,
+        "word": "李雪琴的北大真是没白上",
+        "onboard_time": 1691800894,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289895,
+        "num": 457271,
+        "word": "梅西球童是贝克汉姆女儿",
+        "onboard_time": 1691805275,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456731,
+        "num": 456731,
+        "word": "罗云熙好会挑剧本",
+        "onboard_time": 1691813017,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454260,
+        "num": 454260,
+        "word": "长相思 全民制作人",
+        "onboard_time": 1691813678,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432123,
+        "num": 432123,
+        "word": "被男子骗至家中杀害奸尸女子家属发声",
+        "onboard_time": 1691798371,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404059,
+        "num": 404059,
+        "word": "那英 你不吹牛能死吗",
+        "onboard_time": 1691797113,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382732,
+        "num": 382732,
+        "word": "感觉檀健次下一秒要晕过去",
+        "onboard_time": 1691812537,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379195,
+        "num": 379195,
+        "word": "娜扎经纪人为接广告道歉",
+        "onboard_time": 1691814459,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375642,
+        "num": 375642,
+        "word": "孟子义泼宋威龙",
+        "onboard_time": 1691814097,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372914,
+        "num": 372914,
+        "word": "夭璟夭柳夭玹三家的现状",
+        "onboard_time": 1691808038,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309656,
+        "num": 309656,
+        "word": "为什么现在的奶茶这么贵",
+        "onboard_time": 1691810677,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 277524,
+        "num": 309291,
+        "word": "产妇给孩子取名中国人感谢援阿医疗队",
+        "onboard_time": 1691804675,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 434495,
+        "num": 309091,
+        "word": "上海129元的自助餐",
+        "onboard_time": 1691813317,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 361016,
+        "num": 308751,
+        "word": "苍兰诀到底算不算爆",
+        "onboard_time": 1691811877,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345931,
+        "num": 308360,
+        "word": "小夭梅林重新剪辑了",
+        "onboard_time": 1691810137,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308003,
+        "num": 308003,
+        "word": "霸王茶姬",
+        "onboard_time": 1691795001,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 301377,
+        "num": 301377,
+        "word": "质疑 理解 成为",
+        "onboard_time": 1691814518,
+        "rank": 34,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 293462,
+        "num": 293462,
+        "word": "张艺兴被孙红雷骗金条能念叨一辈子",
+        "onboard_time": 1691806717,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271498,
+        "num": 271498,
+        "word": "千万不能买短乘长",
+        "onboard_time": 1691813376,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267146,
+        "num": 267146,
+        "word": "邓为演技",
+        "onboard_time": 1691805457,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216001,
+        "num": 264601,
+        "word": "小偷自己都觉得好丟人",
+        "onboard_time": 1691813017,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264235,
+        "num": 264235,
+        "word": "相柳 一个狗啃过的碗",
+        "onboard_time": 1691813198,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254469,
+        "num": 254469,
+        "word": "赵丽颖给粉丝报销路费",
+        "onboard_time": 1691805877,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241384,
+        "num": 241384,
+        "word": "内娱骨相皮相都优越的明星",
+        "onboard_time": 1691814698,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225073,
+        "num": 225073,
+        "word": "魏大勋演我嗑cp",
+        "onboard_time": 1691809537,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209768,
+        "num": 209768,
+        "word": "杨紫成毅迪丽热巴肖战曾舜晞檀健次V榜破9",
+        "onboard_time": 1691802757,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207972,
+        "num": 207972,
+        "word": "金智秀AllEYESONME首舞台",
+        "onboard_time": 1691808215,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197646,
+        "num": 207026,
+        "word": "绘旅人红线牵",
+        "onboard_time": 1691814159,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173769,
+        "num": 206624,
+        "word": "官方答医院不听从孕妇堕胎意愿相关",
+        "onboard_time": 1691802456,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168849,
+        "num": 205856,
+        "word": "不剃腋毛有错吗",
+        "onboard_time": 1691805816,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139361,
+        "num": 204412,
+        "word": "伤妈1000自损800",
+        "onboard_time": 1691814818,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123716,
+        "num": 203154,
+        "word": "梅西连续5场破门",
+        "onboard_time": 1691808275,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路大道同行#"
+    }
+  }
+}
