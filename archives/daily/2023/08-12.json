@@ -1,10 +1,10 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691810169711,
+  "endTime": 1691811223391,
   "band_list": [
     {
       "raw_hot": 2459545,
-      "num": 834384,
+      "num": 1065844,
       "word": "娜扎为什么接这种广告",
       "onboard_time": 1691805516,
       "rank": 5,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2209710,
-      "num": 870946,
+      "num": 1065382,
       "word": "医生说曾黎顶多30岁",
       "onboard_time": 1691802516,
       "rank": 10,
@@ -32,6 +32,14 @@
       "word": "李雪琴的北大真是没白上",
       "onboard_time": 1691800894,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1716973,
+      "num": 1716973,
+      "word": "刘浩存把丁程鑫撩到耳朵都红了",
+      "onboard_time": 1691809476,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -115,6 +123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1063489,
+      "num": 1063489,
+      "word": "宿舍用了9000度电是什么体验",
+      "onboard_time": 1691806475,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 884510,
       "num": 569608,
       "word": "鹿晗时隔六年再发星期五",
@@ -139,14 +155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 799109,
-      "num": 799109,
-      "word": "刘浩存把丁程鑫撩到耳朵都红了",
-      "onboard_time": 1691809476,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 749342,
       "num": 749342,
       "word": "邓为演技",
@@ -169,14 +177,6 @@
       "onboard_time": 1691761181,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 682319,
-      "num": 682319,
-      "word": "宿舍用了9000度电是什么体验",
-      "onboard_time": 1691806475,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 678583,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 573863,
+      "num": 573863,
+      "word": "夭璟夭柳夭玹三家的现状",
+      "onboard_time": 1691808038,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 573326,
       "num": 573326,
       "word": "北理工宿舍分配统计mbti",
@@ -257,14 +265,6 @@
       "onboard_time": 1691766283,
       "rank": 7,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 539577,
-      "num": 539577,
-      "word": "夭璟夭柳夭玹三家的现状",
-      "onboard_time": 1691808038,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 527377,
@@ -435,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 386628,
+      "num": 386628,
+      "word": "魏大勋演我嗑cp",
+      "onboard_time": 1691809537,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384647,
       "num": 482883,
       "word": "西安文旅局回应多场演出取消",
@@ -472,6 +480,14 @@
       "word": "2023下半年待播剧",
       "onboard_time": 1691769337,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 367148,
+      "num": 367148,
+      "word": "小夭梅林重新剪辑了",
+      "onboard_time": 1691810137,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -523,12 +539,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349694,
+      "num": 281061,
+      "word": "央视818晚会首发阵容",
+      "onboard_time": 1691809359,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349500,
       "num": 258313,
       "word": "SHE时隔四年再合体",
       "onboard_time": 1691757696,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 346111,
+      "num": 412691,
+      "word": "雅安",
+      "onboard_time": 1691810256,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337660,
+      "num": 267611,
+      "word": "相柳的救兵来了",
+      "onboard_time": 1691809476,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 335109,
@@ -571,28 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311107,
-      "num": 281061,
-      "word": "央视818晚会首发阵容",
-      "onboard_time": 1691809359,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301289,
       "num": 301289,
       "word": "长相思小夭梅林分轨文件违规",
       "onboard_time": 1691804436,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 296153,
-      "num": 259105,
-      "word": "魏大勋演我嗑cp",
-      "onboard_time": 1691809537,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 295379,
@@ -739,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234781,
+      "num": 234781,
+      "word": "为什么现在的奶茶这么贵",
+      "onboard_time": 1691810677,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 234344,
       "num": 261090,
       "word": "如何恰到好处的称呼另一半",
@@ -763,6 +795,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 231269,
+      "num": 231269,
+      "word": "赵丽颖南京线下活动取消",
+      "onboard_time": 1691809417,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231222,
       "num": 231222,
       "word": "橘子海",
@@ -777,6 +817,14 @@
       "onboard_time": 1691807616,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229426,
+      "num": 573977,
+      "word": "杭州亚运电竞门票销售8月14日启动",
+      "onboard_time": 1691809417,
+      "rank": 14,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 229178,
@@ -843,14 +891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 220889,
-      "num": 193911,
-      "word": "赵丽颖南京线下活动取消",
-      "onboard_time": 1691809417,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220652,
       "num": 220652,
       "word": "长相思让观众上桌",
@@ -880,14 +920,6 @@
       "word": "莲花楼的卧龙凤雏",
       "onboard_time": 1691798851,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 209842,
-      "num": 188215,
-      "word": "相柳的救兵来了",
-      "onboard_time": 1691809476,
-      "rank": 45,
       "category": "影视"
     },
     {
@@ -923,12 +955,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201787,
+      "num": 201787,
+      "word": "六公主说王一博像一个宝藏",
+      "onboard_time": 1691810916,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199764,
       "num": 199764,
       "word": "光与夜之恋",
       "onboard_time": 1691801497,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199555,
+      "num": 199555,
+      "word": "暗杀风暴剧组好多影帝",
+      "onboard_time": 1691810796,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 195654,
@@ -977,14 +1025,6 @@
       "onboard_time": 1691799633,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 184682,
-      "num": 184682,
-      "word": "小夭梅林重新剪辑了",
-      "onboard_time": 1691810137,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 180330,
@@ -1059,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152734,
+      "num": 152734,
+      "word": "男子买完可乐回去路上顺手救人",
+      "onboard_time": 1691810440,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 146591,
       "num": 146591,
       "word": "这辆电瓶车是叫淑慧吗",
@@ -1131,6 +1179,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 122386,
+      "num": 152702,
+      "word": "台风卡努已停止编号",
+      "onboard_time": 1691810496,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116559,
       "num": 146363,
       "word": "东北地区多地有大到暴雨",
@@ -1187,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83458,
+      "num": 1066595,
+      "word": "人气旺起来消费火起来经济活起来",
+      "onboard_time": 1691810076,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72415,
       "num": 72415,
       "word": "封神质子团用东北话说台词",
@@ -1209,14 +1273,6 @@
       "onboard_time": 1691809896,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12784,
-      "num": 796430,
-      "word": "人气旺起来消费火起来经济活起来",
-      "onboard_time": 1691810076,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1225,6 +1281,9 @@
     },
     {
       "word": "#一带一路大道同行#"
+    },
+    {
+      "word": "#以青春的活力促进世界和平与发展#"
     }
   ]
 }
