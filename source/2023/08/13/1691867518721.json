@@ -1,0 +1,410 @@
+{
+  "runTime": 1691867518721,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 284984,
+        "num": 284984,
+        "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
+        "onboard_time": 1691859569,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 158731,
+        "num": 158731,
+        "word": "各大医院书记院长被抓后痛哭流涕",
+        "onboard_time": 1691839057,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11914,
+        "num": 145628,
+        "word": "退伍老兵敬礼送别抗洪官兵",
+        "onboard_time": 1691845122,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246310,
+        "num": 145152,
+        "word": "张杰谢娜",
+        "onboard_time": 1691848542,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143579,
+        "num": 143579,
+        "word": "每天喝无糖饮料发生了什么变化",
+        "onboard_time": 1691846261,
+        "rank": 4,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 137900,
+        "num": 137900,
+        "word": "长相思男主爆红后综艺首秀",
+        "onboard_time": 1691845962,
+        "rank": 5,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 114415,
+        "num": 114415,
+        "word": "原来这张表情包是喜羊羊遗照",
+        "onboard_time": 1691846080,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106137,
+        "num": 106137,
+        "word": "刘雨昕广州",
+        "onboard_time": 1691865799,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104960,
+        "num": 104960,
+        "word": "国家一级演员苏孝林被立案调查",
+        "onboard_time": 1691847283,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 96923,
+        "num": 96923,
+        "word": "难怪我结不了婚",
+        "onboard_time": 1691844279,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 294209,
+        "num": 94907,
+        "word": "孟美岐 审视我的人还没放下",
+        "onboard_time": 1691852744,
+        "rank": 10,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 91893,
+        "num": 91893,
+        "word": "家长吐槽暑假40天孩子开销五六万",
+        "onboard_time": 1691853283,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85196,
+        "num": 85196,
+        "word": "18岁女孩被性侵涉事网约车未备案",
+        "onboard_time": 1691852505,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56682,
+        "num": 82240,
+        "word": "这7人在被困列车上成立了临时党支部",
+        "onboard_time": 1691843014,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35144,
+        "num": 81411,
+        "word": "一对双胞胎展示同款举手睡姿",
+        "onboard_time": 1691838637,
+        "rank": 14,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 81399,
+        "num": 81399,
+        "word": "孙红雷张艺兴",
+        "onboard_time": 1691849748,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81356,
+        "num": 81356,
+        "word": "杨紫这次选择了相柳",
+        "onboard_time": 1691844880,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71534,
+        "num": 71534,
+        "word": "疯批王姬小夭上线",
+        "onboard_time": 1691858432,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69331,
+        "num": 69331,
+        "word": "HYBE大楼前现状",
+        "onboard_time": 1691852926,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69302,
+        "num": 69302,
+        "word": "七时吉祥 改编",
+        "onboard_time": 1691854545,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68472,
+        "num": 68472,
+        "word": "黄子韬怎么一直惹徐艺洋生气",
+        "onboard_time": 1691841460,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66554,
+        "num": 66554,
+        "word": "檀健次 美瞳",
+        "onboard_time": 1691857899,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66130,
+        "num": 66130,
+        "word": "李雪琴在王鹤棣魏大勋之间做选择",
+        "onboard_time": 1691846621,
+        "rank": 22,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 60301,
+        "num": 60301,
+        "word": "对女孩子来说重要的三件事",
+        "onboard_time": 1691861605,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 60054,
+        "num": 60054,
+        "word": "排球少年 我推呢",
+        "onboard_time": 1691864420,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 65884,
+        "num": 59097,
+        "word": "杨紫泼水 孟子义2.0",
+        "onboard_time": 1691851728,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63226,
+        "num": 58394,
+        "word": "纹身店 银饰店",
+        "onboard_time": 1691844039,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61756,
+        "num": 58120,
+        "word": "邓为被说撞脸六小龄童",
+        "onboard_time": 1691850766,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57311,
+        "num": 57311,
+        "word": "25岁86个好友什么水平",
+        "onboard_time": 1691844160,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54103,
+        "num": 54103,
+        "word": "小猪因洪水被饿10天瘦成S形身材",
+        "onboard_time": 1691852265,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110050,
+        "num": 53920,
+        "word": "唐悠悠你现在真的成黑老大的女人了",
+        "onboard_time": 1691846860,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60844,
+        "num": 53728,
+        "word": "井川里予晒与卡琳娜合照",
+        "onboard_time": 1691847582,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53437,
+        "num": 53437,
+        "word": "女儿腺样体肥大父母拒手术13岁身高仅133",
+        "onboard_time": 1691840919,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51990,
+        "num": 51990,
+        "word": "Angelababy说种菜的肥料是小海绵的尿",
+        "onboard_time": 1691851606,
+        "rank": 33,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 48763,
+        "num": 48763,
+        "word": "给我家猫看它说都是演的",
+        "onboard_time": 1691858850,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44619,
+        "num": 44619,
+        "word": "栓Q哥自学16年英语追爱外国女子",
+        "onboard_time": 1691851425,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 44594,
+        "num": 44594,
+        "word": "去西藏玩不要戴空顶遮阳帽",
+        "onboard_time": 1691841516,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43567,
+        "num": 43567,
+        "word": "相柳 仙品",
+        "onboard_time": 1691867297,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42120,
+        "num": 42120,
+        "word": "现在大学生都开始消费降级了吗",
+        "onboard_time": 1691850047,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41689,
+        "num": 41689,
+        "word": "白日梦我原著党两眼一黑",
+        "onboard_time": 1691838580,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40478,
+        "num": 40478,
+        "word": "张杰自己画的饼自己圆",
+        "onboard_time": 1691854302,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39574,
+        "num": 39574,
+        "word": "欧阳娜娜背影臀腰比",
+        "onboard_time": 1691832097,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 39031,
+        "num": 39031,
+        "word": "于适这一分钟白说了",
+        "onboard_time": 1691853404,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38871,
+        "num": 38871,
+        "word": "为什么贡品要插三根香",
+        "onboard_time": 1691853524,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37819,
+        "num": 37819,
+        "word": "张杰唱了谢娜最喜欢的想见你",
+        "onboard_time": 1691852682,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36025,
+        "num": 36025,
+        "word": "凯塞多",
+        "onboard_time": 1691862921,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35681,
+        "num": 35681,
+        "word": "张杰演唱会cue孟宴臣",
+        "onboard_time": 1691853822,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33302,
+        "num": 35625,
+        "word": "男子为亡妻销户时泪流满面亲吻照片",
+        "onboard_time": 1691846621,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28687,
+        "num": 35501,
+        "word": "现实版盗墓笔记",
+        "onboard_time": 1691845362,
+        "rank": 48,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 28270,
+        "num": 35385,
+        "word": "偶像梦幻祭八周年笑话合集",
+        "onboard_time": 1691866936,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#致敬闻汛而动的你#"
+    }
+  }
+}

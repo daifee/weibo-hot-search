@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691865235776,
+  "endTime": 1691867518721,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -30643,6 +30643,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 106137,
+      "num": 106137,
+      "word": "刘雨昕广州",
+      "onboard_time": 1691865799,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105178,
       "num": 105178,
       "word": "女朋友生气时的统一模板",
@@ -31395,6 +31403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60054,
+      "num": 60054,
+      "word": "排球少年 我推呢",
+      "onboard_time": 1691864420,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 59278,
       "num": 440183,
       "word": "浙h180f7为你点赞",
@@ -31699,6 +31715,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 43567,
+      "num": 43567,
+      "word": "相柳 仙品",
+      "onboard_time": 1691867297,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 42292,
       "num": 75239,
       "word": "HAPPYMARKDAY",
@@ -31729,14 +31753,6 @@
       "onboard_time": 1691525773,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40382,
-      "num": 52246,
-      "word": "排球少年 我推呢",
-      "onboard_time": 1691864420,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 38693,
@@ -31889,6 +31905,14 @@
       "onboard_time": 1691695454,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28270,
+      "num": 35385,
+      "word": "偶像梦幻祭八周年笑话合集",
+      "onboard_time": 1691866936,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 28147,
