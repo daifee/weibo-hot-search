@@ -1,0 +1,410 @@
+{
+  "runTime": 1691844209993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1679319,
+        "num": 1679319,
+        "word": "各大医院书记院长被抓后痛哭流涕",
+        "onboard_time": 1691839057,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1187427,
+        "num": 1187427,
+        "word": "黄子韬怎么一直惹徐艺洋生气",
+        "onboard_time": 1691841460,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44569,
+        "num": 1107826,
+        "word": "致敬青春最美的样子",
+        "onboard_time": 1691829997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062965,
+        "num": 1062965,
+        "word": "白日梦我原著党两眼一黑",
+        "onboard_time": 1691838580,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 875276,
+        "num": 875276,
+        "word": "去西藏玩不要戴空顶遮阳帽",
+        "onboard_time": 1691841516,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 679685,
+        "num": 679685,
+        "word": "我的工资是这样组成的",
+        "onboard_time": 1691839359,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 508768,
+        "num": 508768,
+        "word": "原著中救了小夭的是小夭",
+        "onboard_time": 1691835699,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449286,
+        "num": 478913,
+        "word": "缅甸旅游业苦等中国游客重返",
+        "onboard_time": 1691826096,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 474089,
+        "num": 474089,
+        "word": "小夭让相柳拿镜子照照自己",
+        "onboard_time": 1691839299,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255795,
+        "num": 474037,
+        "word": "李嘉诚7折抛售新盘",
+        "onboard_time": 1691837441,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1742183,
+        "num": 473753,
+        "word": "阮经天出车祸",
+        "onboard_time": 1691835519,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1066523,
+        "num": 473416,
+        "word": "孟美岐挑战安崎输了",
+        "onboard_time": 1691838219,
+        "rank": 11,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 705411,
+        "num": 473087,
+        "word": "阮经天工作室称老板人没事",
+        "onboard_time": 1691843202,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228729,
+        "num": 472863,
+        "word": "这7人在被困列车上成立了临时党支部",
+        "onboard_time": 1691843014,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209112,
+        "num": 472390,
+        "word": "一对双胞胎展示同款举手睡姿",
+        "onboard_time": 1691838637,
+        "rank": 14,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 632787,
+        "num": 472111,
+        "word": "哪位明星是内娱的一股清流",
+        "onboard_time": 1691835937,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472060,
+        "num": 472060,
+        "word": "邓为大学没毕业",
+        "onboard_time": 1691821178,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391507,
+        "num": 391507,
+        "word": "王嘉尔开会开到长出胡子",
+        "onboard_time": 1691838219,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354543,
+        "num": 354543,
+        "word": "宋亚轩刘耀文大哥式逛街",
+        "onboard_time": 1691841639,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276158,
+        "num": 276158,
+        "word": "25岁86个好友什么水平",
+        "onboard_time": 1691844160,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 683522,
+        "num": 274634,
+        "word": "女儿腺样体肥大父母拒手术13岁身高仅133",
+        "onboard_time": 1691840919,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333063,
+        "num": 274019,
+        "word": "刘宇宁进组婵女",
+        "onboard_time": 1691843562,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272625,
+        "num": 272625,
+        "word": "奶奶把头发塞进男童鼻腔止血致休克",
+        "onboard_time": 1691830897,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262684,
+        "num": 262684,
+        "word": "华晨宇说LGD目标是总冠军",
+        "onboard_time": 1691838337,
+        "rank": 23,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 2150855,
+        "num": 262235,
+        "word": "这样查下去医院会不会瘫痪",
+        "onboard_time": 1691838637,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323957,
+        "num": 261925,
+        "word": "王一博一年三部电影都破8亿",
+        "onboard_time": 1691840679,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323403,
+        "num": 261611,
+        "word": "这个芭蕾女孩居然是沈梦辰",
+        "onboard_time": 1691836721,
+        "rank": 26,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 295211,
+        "num": 261053,
+        "word": "我二十多岁的时候一脚踹不出屁来",
+        "onboard_time": 1691841099,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260730,
+        "num": 260730,
+        "word": "猫德学院大战狮子猫",
+        "onboard_time": 1691842780,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284828,
+        "num": 243530,
+        "word": "祝绪丹慕瑶造型",
+        "onboard_time": 1691841879,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275452,
+        "num": 242838,
+        "word": "59岁法医因抑郁症女孩一句话哭了",
+        "onboard_time": 1691831616,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272877,
+        "num": 231824,
+        "word": "檀健次请你少做自己",
+        "onboard_time": 1691839599,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214552,
+        "num": 214552,
+        "word": "英仙座流星雨",
+        "onboard_time": 1691843202,
+        "rank": 32,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 206204,
+        "num": 206204,
+        "word": "AG",
+        "onboard_time": 1691843858,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195102,
+        "num": 195102,
+        "word": "成人牙齿再生或十年内实现",
+        "onboard_time": 1691834918,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 265642,
+        "num": 192866,
+        "word": "欧阳娜娜背影臀腰比",
+        "onboard_time": 1691832097,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 265129,
+        "num": 187671,
+        "word": "潜行者",
+        "onboard_time": 1691842780,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238253,
+        "num": 185091,
+        "word": "张艺兴演唱会巨型裸眼3D",
+        "onboard_time": 1691843619,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181801,
+        "num": 181801,
+        "word": "女孩险被诱骗到缅甸在加油站获救",
+        "onboard_time": 1691830897,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181254,
+        "num": 181254,
+        "word": "父母给孩子取名越来越离谱了",
+        "onboard_time": 1691833414,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 235484,
+        "num": 178951,
+        "word": "音乐剧猎罪图鉴有三个沈翊",
+        "onboard_time": 1691843739,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232901,
+        "num": 178889,
+        "word": "看着也不像肖战啊",
+        "onboard_time": 1691832635,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215290,
+        "num": 178294,
+        "word": "成毅还有3部待播剧",
+        "onboard_time": 1691844160,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176508,
+        "num": 176508,
+        "word": "胡锡进 刘宇轩是谁",
+        "onboard_time": 1691842235,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169828,
+        "num": 176422,
+        "word": "吵架的时候不要随便用手指人",
+        "onboard_time": 1691839719,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 204019,
+        "num": 176385,
+        "word": "纹身店 银饰店",
+        "onboard_time": 1691844039,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141868,
+        "num": 176289,
+        "word": "郑州婆媳相处好真实",
+        "onboard_time": 1691840979,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136076,
+        "num": 176210,
+        "word": "小伙一脚刹车为摔倒女子挡住水流",
+        "onboard_time": 1691842780,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131428,
+        "num": 176069,
+        "word": "陕西医疗反腐已处理937人",
+        "onboard_time": 1691843983,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124790,
+        "num": 175991,
+        "word": "全家22人从云南送小伙到国防科大报到",
+        "onboard_time": 1691829275,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#回望二万五千里长征路#"
+    }
+  }
+}
