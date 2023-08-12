@@ -1,0 +1,410 @@
+{
+  "runTime": 1691807634156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1183449,
+        "num": 1183449,
+        "word": "妻子实名举报医生老公每年药品回扣十几万",
+        "onboard_time": 1691797709,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845762,
+        "num": 845762,
+        "word": "我好像删到电脑的大动脉了",
+        "onboard_time": 1691796205,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58481,
+        "num": 843661,
+        "word": "洪水来临时哪些地方是危险地带",
+        "onboard_time": 1691761000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2241905,
+        "num": 825153,
+        "word": "娜扎为什么接这种广告",
+        "onboard_time": 1691805516,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1937881,
+        "num": 813115,
+        "word": "医生说曾黎顶多30岁",
+        "onboard_time": 1691802516,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1478648,
+        "num": 804217,
+        "word": "李雪琴的北大真是没白上",
+        "onboard_time": 1691800894,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 797488,
+        "num": 797488,
+        "word": "那英 你不吹牛能死吗",
+        "onboard_time": 1691797113,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766150,
+        "num": 766150,
+        "word": "肾好不好睡一觉就知道了",
+        "onboard_time": 1691796025,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 678495,
+        "num": 678495,
+        "word": "邓为演技",
+        "onboard_time": 1691805457,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 549879,
+        "num": 653532,
+        "word": "梅西球童是贝克汉姆女儿",
+        "onboard_time": 1691805275,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651974,
+        "num": 651974,
+        "word": "杨紫成毅迪丽热巴肖战曾舜晞檀健次V榜破9",
+        "onboard_time": 1691802757,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 592738,
+        "num": 592738,
+        "word": "赵丽颖给粉丝报销路费",
+        "onboard_time": 1691805877,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800723,
+        "num": 570775,
+        "word": "被男子骗至家中杀害奸尸女子家属发声",
+        "onboard_time": 1691798371,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405342,
+        "num": 530181,
+        "word": "产妇给孩子取名中国人感谢援阿医疗队",
+        "onboard_time": 1691804675,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 225243,
+        "num": 528367,
+        "word": "西安秦岭山洪已造成2死16失联",
+        "onboard_time": 1691801733,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528328,
+        "num": 528328,
+        "word": "张艺兴被孙红雷骗金条能念叨一辈子",
+        "onboard_time": 1691806717,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 493238,
+        "num": 493238,
+        "word": "不剃腋毛有错吗",
+        "onboard_time": 1691805816,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 435101,
+        "num": 435101,
+        "word": "陈赫说鹿晗在五哈群发半裸健身照",
+        "onboard_time": 1691805759,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 426591,
+        "num": 426591,
+        "word": "梅西让点",
+        "onboard_time": 1691804375,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409124,
+        "num": 409124,
+        "word": "家庭自卑就是这样来的",
+        "onboard_time": 1691800113,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415965,
+        "num": 403396,
+        "word": "宿舍用了9000度电是什么体验",
+        "onboard_time": 1691806475,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373486,
+        "num": 373486,
+        "word": "鹿晗时隔六年再发星期五",
+        "onboard_time": 1691797829,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365418,
+        "num": 365418,
+        "word": "霸王茶姬",
+        "onboard_time": 1691795001,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 327940,
+        "num": 327940,
+        "word": "小夭梅林遭杀害三个男人的表情",
+        "onboard_time": 1691801497,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276766,
+        "num": 319787,
+        "word": "妈妈把我的衣服给狗穿了",
+        "onboard_time": 1691803959,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316770,
+        "num": 316770,
+        "word": "长相思开创了一种新型追剧模式",
+        "onboard_time": 1691807136,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316544,
+        "num": 316544,
+        "word": "吴宣仪希望衣服尺码再小一点",
+        "onboard_time": 1691767239,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311320,
+        "num": 311320,
+        "word": "檀健次南京",
+        "onboard_time": 1691806357,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299914,
+        "num": 299914,
+        "word": "吴倩聊坐月子细节",
+        "onboard_time": 1691795602,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284769,
+        "num": 284769,
+        "word": "长相思小夭梅林分轨文件违规",
+        "onboard_time": 1691804436,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266951,
+        "num": 266951,
+        "word": "张艺兴说粉丝迟早会走",
+        "onboard_time": 1691798011,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244781,
+        "num": 244781,
+        "word": "张晚意任敏片场打雪仗",
+        "onboard_time": 1691806895,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231549,
+        "num": 231549,
+        "word": "医院院长贪腐将成捆的现金提回家",
+        "onboard_time": 1691797829,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216743,
+        "num": 216743,
+        "word": "一台售价33万美元的房车值不值",
+        "onboard_time": 1691803176,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213889,
+        "num": 213889,
+        "word": "00年带98年的实习生",
+        "onboard_time": 1691767180,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243138,
+        "num": 207824,
+        "word": "被于正说像梁朝伟的新人演员生图",
+        "onboard_time": 1691784194,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225038,
+        "num": 206048,
+        "word": "莲花楼对称美学",
+        "onboard_time": 1691805816,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196389,
+        "num": 196389,
+        "word": "婚礼前分手男方要求女方退还八宝粥",
+        "onboard_time": 1691798371,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 190672,
+        "num": 190672,
+        "word": "盒马山姆商战杀疯了",
+        "onboard_time": 1691763820,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 171973,
+        "num": 187145,
+        "word": "官方答医院不听从孕妇堕胎意愿相关",
+        "onboard_time": 1691802456,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201557,
+        "num": 185979,
+        "word": "内娱演技给美貌加成的演员",
+        "onboard_time": 1691807616,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191347,
+        "num": 185506,
+        "word": "Ella晒SHE合影",
+        "onboard_time": 1691799272,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184794,
+        "num": 184794,
+        "word": "第一次见鞠婧祎表情管理失败",
+        "onboard_time": 1691796325,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182071,
+        "num": 182071,
+        "word": "程潇妈妈得了乳腺癌",
+        "onboard_time": 1691764541,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168526,
+        "num": 168526,
+        "word": "被杨紫的这段采访激励到了",
+        "onboard_time": 1691801852,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165926,
+        "num": 165926,
+        "word": "莲花楼即将上星央1",
+        "onboard_time": 1691796686,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141912,
+        "num": 165924,
+        "word": "一年级的家长你们还好吗",
+        "onboard_time": 1691799633,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 137247,
+        "num": 165905,
+        "word": "床底异动女子机智报警发现是地震",
+        "onboard_time": 1691807436,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127880,
+        "num": 165894,
+        "word": "凌晨收摊烧烤摊主用洗衣粉给地面去油",
+        "onboard_time": 1691795542,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124606,
+        "num": 165876,
+        "word": "原来萌兰小时候就帮熊越狱",
+        "onboard_time": 1691800415,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#调查研究永远在路上#"
+    }
+  }
+}

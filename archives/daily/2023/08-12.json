@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691806715499,
+  "endTime": 1691807634156,
   "band_list": [
     {
       "raw_hot": 2249178,
@@ -9,6 +9,14 @@
       "onboard_time": 1691797709,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2241905,
+      "num": 834384,
+      "word": "娜扎为什么接这种广告",
+      "onboard_time": 1691805516,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2209710,
@@ -25,14 +33,6 @@
       "onboard_time": 1691800894,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1422551,
-      "num": 834384,
-      "word": "娜扎为什么接这种广告",
-      "onboard_time": 1691805516,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1352754,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 592738,
+      "num": 592738,
+      "word": "赵丽颖给粉丝报销路费",
+      "onboard_time": 1691805877,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 585387,
       "num": 524529,
       "word": "高瀚宇说鹿晗一场比一场壮",
@@ -203,12 +211,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 549879,
+      "num": 653532,
+      "word": "梅西球童是贝克汉姆女儿",
+      "onboard_time": 1691805275,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 539586,
       "num": 539586,
       "word": "跟射手座恋爱全凭运气",
       "onboard_time": 1691766283,
       "rank": 7,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 528328,
+      "num": 528328,
+      "word": "张艺兴被孙红雷骗金条能念叨一辈子",
+      "onboard_time": 1691806717,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 527377,
@@ -233,6 +257,14 @@
       "onboard_time": 1691801497,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 493238,
+      "num": 493238,
+      "word": "不剃腋毛有错吗",
+      "onboard_time": 1691805816,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 487873,
@@ -275,12 +307,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 462307,
-      "num": 462307,
-      "word": "梅西球童是贝克汉姆女儿",
-      "onboard_time": 1691805275,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 435101,
+      "num": 435101,
+      "word": "陈赫说鹿晗在五哈群发半裸健身照",
+      "onboard_time": 1691805759,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 434592,
@@ -308,19 +340,19 @@
     },
     {
       "raw_hot": 430018,
-      "num": 478227,
+      "num": 530181,
       "word": "产妇给孩子取名中国人感谢援阿医疗队",
       "onboard_time": 1691804675,
       "rank": 29,
       "category": "社会正能量"
     },
     {
-      "raw_hot": 414770,
-      "num": 414770,
-      "word": "赵丽颖给粉丝报销路费",
-      "onboard_time": 1691805877,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 415965,
+      "num": 403396,
+      "word": "宿舍用了9000度电是什么体验",
+      "onboard_time": 1691806475,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 413815,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 364453,
-      "num": 512346,
+      "num": 528367,
       "word": "西安秦岭山洪已造成2死16失联",
       "onboard_time": 1691801733,
       "rank": 29,
@@ -459,14 +491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 349278,
-      "num": 349278,
-      "word": "不剃腋毛有错吗",
-      "onboard_time": 1691805816,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 335109,
       "num": 335109,
       "word": "第一次见鞠婧祎表情管理失败",
@@ -483,19 +507,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325919,
-      "num": 325919,
-      "word": "陈赫说鹿晗在五哈群发半裸健身照",
-      "onboard_time": 1691805759,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 317761,
       "num": 317761,
       "word": "你梦想中的荷官和现实中的荷官",
       "onboard_time": 1691776280,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 316770,
+      "num": 316770,
+      "word": "长相思开创了一种新型追剧模式",
+      "onboard_time": 1691807136,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -505,6 +529,14 @@
       "onboard_time": 1691801852,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 311320,
+      "num": 311320,
+      "word": "檀健次南京",
+      "onboard_time": 1691806357,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 301289,
@@ -595,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244781,
+      "num": 244781,
+      "word": "张晚意任敏片场打雪仗",
+      "onboard_time": 1691806895,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244536,
       "num": 236709,
       "word": "一台售价33万美元的房车值不值",
@@ -683,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225038,
+      "num": 213079,
+      "word": "莲花楼对称美学",
+      "onboard_time": 1691805816,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224062,
       "num": 224062,
       "word": "相柳高冷不等于面瘫",
@@ -739,22 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214158,
-      "num": 214158,
-      "word": "檀健次南京",
-      "onboard_time": 1691806357,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 213079,
-      "num": 213079,
-      "word": "莲花楼对称美学",
-      "onboard_time": 1691805816,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211290,
       "num": 211290,
       "word": "莲花楼的卧龙凤雏",
@@ -793,6 +825,14 @@
       "onboard_time": 1691795903,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201557,
+      "num": 185979,
+      "word": "内娱演技给美貌加成的演员",
+      "onboard_time": 1691807616,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199764,
@@ -875,14 +915,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 165194,
-      "num": 200647,
-      "word": "宿舍用了9000度电是什么体验",
-      "onboard_time": 1691806475,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 157941,
       "num": 157941,
       "word": "中国人有自己的蛋挞",
@@ -937,6 +969,14 @@
       "onboard_time": 1691759436,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137247,
+      "num": 165905,
+      "word": "床底异动女子机智报警发现是地震",
+      "onboard_time": 1691807436,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134746,
