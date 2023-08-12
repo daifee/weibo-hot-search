@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691831661774,
+  "endTime": 1691832823516,
   "band_list": [
     {
       "raw_hot": 2459545,
@@ -81,6 +81,14 @@
       "onboard_time": 1691806475,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1402100,
+      "num": 698966,
+      "word": "网友评程潇喂许光汉吃东西像扔厨余垃圾",
+      "onboard_time": 1691830355,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1380938,
@@ -187,19 +195,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1058928,
-      "num": 698966,
-      "word": "网友评程潇喂许光汉吃东西像扔厨余垃圾",
-      "onboard_time": 1691830355,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 982125,
       "num": 982125,
       "word": "官方通报深圳南山医院医生刘某被举报",
       "onboard_time": 1691826874,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 945351,
+      "num": 333859,
+      "word": "奶奶把头发塞进男童鼻腔止血致休克",
+      "onboard_time": 1691830897,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -347,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 677782,
-      "num": 210775,
-      "word": "奶奶把头发塞进男童鼻腔止血致休克",
-      "onboard_time": 1691830897,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 675798,
       "num": 675798,
       "word": "因为做饭太多被妈妈数落了",
@@ -377,6 +377,14 @@
       "onboard_time": 1691814459,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663597,
+      "num": 663597,
+      "word": "全家22人从云南送小伙到国防科大报到",
+      "onboard_time": 1691829275,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659602,
@@ -433,6 +441,14 @@
       "onboard_time": 1691811399,
       "rank": 12,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 604982,
+      "num": 604982,
+      "word": "59岁法医因抑郁症女孩一句话哭了",
+      "onboard_time": 1691831616,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594150,
@@ -585,14 +601,6 @@
       "onboard_time": 1691805816,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 491569,
-      "num": 491569,
-      "word": "全家22人从云南送小伙到国防科大报到",
-      "onboard_time": 1691829275,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 491222,
@@ -755,8 +763,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 425766,
-      "num": 425766,
+      "raw_hot": 427905,
+      "num": 427905,
       "word": "长相思是真听劝",
       "onboard_time": 1691828318,
       "rank": 48,
@@ -899,8 +907,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381676,
-      "num": 381676,
+      "raw_hot": 383866,
+      "num": 383866,
       "word": "医疗反腐 改革医务人员薪酬体系",
       "onboard_time": 1691828437,
       "rank": 24,
@@ -921,6 +929,14 @@
       "onboard_time": 1691818236,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378814,
+      "num": 333423,
+      "word": "欧阳娜娜背影臀腰比",
+      "onboard_time": 1691832097,
+      "rank": 21,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 376002,
@@ -1083,12 +1099,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335749,
+      "num": 262170,
+      "word": "献血后经期会不会推迟",
+      "onboard_time": 1691831974,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 335109,
       "num": 335109,
       "word": "第一次见鞠婧祎表情管理失败",
       "onboard_time": 1691796325,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 334816,
+      "num": 334816,
+      "word": "女孩险被诱骗到缅甸在加油站获救",
+      "onboard_time": 1691830897,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332144,
+      "num": 332144,
+      "word": "孟子义在秦霄贤怀里害羞了",
+      "onboard_time": 1691831373,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 329854,
@@ -1100,7 +1140,7 @@
     },
     {
       "raw_hot": 327723,
-      "num": 216636,
+      "num": 279220,
       "word": "于适封神票房破19亿海报",
       "onboard_time": 1691829275,
       "rank": 27,
@@ -1251,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278138,
+      "num": 278138,
+      "word": "魏大勋模仿孟子义",
+      "onboard_time": 1691831676,
+      "rank": 28,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 273916,
       "num": 273584,
       "word": "赵露思迪士尼游玩背影照",
@@ -1331,14 +1379,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 253067,
-      "num": 208188,
-      "word": "孟子义在秦霄贤怀里害羞了",
-      "onboard_time": 1691831373,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252459,
       "num": 252459,
       "word": "宋亚轩张真源贺峻霖加速之城合照",
@@ -1363,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245200,
+      "num": 222337,
+      "word": "长相思",
+      "onboard_time": 1691751097,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244781,
       "num": 244781,
       "word": "张晚意任敏片场打雪仗",
@@ -1377,14 +1425,6 @@
       "onboard_time": 1691803176,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 243222,
-      "num": 222337,
-      "word": "长相思",
-      "onboard_time": 1691751097,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 242598,
@@ -1459,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231169,
+      "num": 201819,
+      "word": "檀健次戴了三个耳饰",
+      "onboard_time": 1691832517,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230796,
       "num": 230796,
       "word": "内娱演技给美貌加成的演员",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1691749716,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228663,
+      "num": 190449,
+      "word": "看着也不像肖战啊",
+      "onboard_time": 1691832635,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226882,
@@ -1579,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216744,
+      "num": 188218,
+      "word": "帮王姬娶亲",
+      "onboard_time": 1691832696,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216654,
       "num": 216654,
       "word": "TF三代演唱会全员蓝发",
@@ -1641,14 +1705,6 @@
       "onboard_time": 1691766882,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204904,
-      "num": 204904,
-      "word": "女孩险被诱骗到缅甸在加油站获救",
-      "onboard_time": 1691830897,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204668,
@@ -1739,6 +1795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197369,
+      "num": 197369,
+      "word": "发现一个买手机不花钱的办法",
+      "onboard_time": 1691831735,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197286,
       "num": 161286,
       "word": "宋亚轩清唱野子",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1691760465,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189537,
+      "num": 183799,
+      "word": "邓佳鑫牛仔造型",
+      "onboard_time": 1691832216,
+      "rank": 45,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 187913,
@@ -1899,14 +1971,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 159452,
-      "num": 159452,
-      "word": "59岁法医因抑郁症女孩一句话哭了",
-      "onboard_time": 1691831616,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158762,
       "num": 234083,
       "word": "伤妈1000自损800",
@@ -1969,6 +2033,14 @@
       "onboard_time": 1691810440,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 149615,
+      "num": 164162,
+      "word": "海洋里也有硬通货",
+      "onboard_time": 1691832635,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146591,
@@ -2155,7 +2227,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 47429,
+      "raw_hot": 59278,
+      "num": 440183,
+      "word": "浙h180f7为你点赞",
+      "onboard_time": 1691830897,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58575,
       "num": 699411,
       "word": "致敬青春最美的样子",
       "onboard_time": 1691829997,
@@ -2169,14 +2249,6 @@
       "onboard_time": 1691820038,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25979,
-      "num": 440183,
-      "word": "浙h180f7为你点赞",
-      "onboard_time": 1691830897,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2188,6 +2260,9 @@
     },
     {
       "word": "#以青春的活力促进世界和平与发展#"
+    },
+    {
+      "word": "#回望二万五千里长征路#"
     }
   ]
 }

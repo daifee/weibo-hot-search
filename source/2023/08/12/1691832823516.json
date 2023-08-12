@@ -1,0 +1,410 @@
+{
+  "runTime": 1691832823516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1102741,
+        "num": 1102741,
+        "word": "刘天池爆料质子团选拔",
+        "onboard_time": 1691825676,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 663597,
+        "num": 663597,
+        "word": "全家22人从云南送小伙到国防科大报到",
+        "onboard_time": 1691829275,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58575,
+        "num": 627174,
+        "word": "致敬青春最美的样子",
+        "onboard_time": 1691829997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1964346,
+        "num": 625403,
+        "word": "缅甸旅游业苦等中国游客重返",
+        "onboard_time": 1691826096,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1402100,
+        "num": 621659,
+        "word": "网友评程潇喂许光汉吃东西像扔厨余垃圾",
+        "onboard_time": 1691830355,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613153,
+        "num": 613153,
+        "word": "杨紫选剧本",
+        "onboard_time": 1691826517,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604982,
+        "num": 604982,
+        "word": "59岁法医因抑郁症女孩一句话哭了",
+        "onboard_time": 1691831616,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597697,
+        "num": 597697,
+        "word": "张艺兴突然哭了",
+        "onboard_time": 1691825919,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 543930,
+        "num": 543930,
+        "word": "玱玹丰隆穷疯了",
+        "onboard_time": 1691827895,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439740,
+        "num": 439740,
+        "word": "警方回应水果捞纠纷案件调查处理结果",
+        "onboard_time": 1691830237,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238058,
+        "num": 439701,
+        "word": "邓为大学没毕业",
+        "onboard_time": 1691821178,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778941,
+        "num": 435691,
+        "word": "娜扎为什么接这种广告",
+        "onboard_time": 1691805516,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 473047,
+        "num": 433371,
+        "word": "李相夷没死成毅快社死了",
+        "onboard_time": 1691828075,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354408,
+        "num": 430430,
+        "word": "官方通报深圳南山医院医生刘某被举报",
+        "onboard_time": 1691826874,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59278,
+        "num": 428272,
+        "word": "浙h180f7为你点赞",
+        "onboard_time": 1691830897,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427905,
+        "num": 427905,
+        "word": "长相思是真听劝",
+        "onboard_time": 1691828318,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383866,
+        "num": 383866,
+        "word": "医疗反腐 改革医务人员薪酬体系",
+        "onboard_time": 1691828437,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368687,
+        "num": 368687,
+        "word": "胡锡进 湘雅三医院在发生什么",
+        "onboard_time": 1691825733,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368490,
+        "num": 368490,
+        "word": "娜扎经纪人为接广告道歉",
+        "onboard_time": 1691814459,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334816,
+        "num": 334816,
+        "word": "女孩险被诱骗到缅甸在加油站获救",
+        "onboard_time": 1691830897,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945351,
+        "num": 333859,
+        "word": "奶奶把头发塞进男童鼻腔止血致休克",
+        "onboard_time": 1691830897,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378814,
+        "num": 333423,
+        "word": "欧阳娜娜背影臀腰比",
+        "onboard_time": 1691832097,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 332144,
+        "num": 332144,
+        "word": "孟子义在秦霄贤怀里害羞了",
+        "onboard_time": 1691831373,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288209,
+        "num": 288209,
+        "word": "T1",
+        "onboard_time": 1691823456,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215117,
+        "num": 287358,
+        "word": "质疑 理解 成为",
+        "onboard_time": 1691814518,
+        "rank": 24,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 327955,
+        "num": 284765,
+        "word": "连续四年吃成毅的席",
+        "onboard_time": 1691828915,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323397,
+        "num": 281841,
+        "word": "林凯回应撞脸肖战邓为",
+        "onboard_time": 1691820217,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305401,
+        "num": 279220,
+        "word": "于适封神票房破19亿海报",
+        "onboard_time": 1691829275,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278138,
+        "num": 278138,
+        "word": "魏大勋模仿孟子义",
+        "onboard_time": 1691831676,
+        "rank": 28,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 210654,
+        "num": 263333,
+        "word": "考完驾照是不是不能骑电动车了",
+        "onboard_time": 1691822978,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335749,
+        "num": 262170,
+        "word": "献血后经期会不会推迟",
+        "onboard_time": 1691831974,
+        "rank": 30,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 260860,
+        "num": 260860,
+        "word": "新地球",
+        "onboard_time": 1691827178,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259910,
+        "num": 259910,
+        "word": "哥 成钢他会改的",
+        "onboard_time": 1691811399,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213661,
+        "num": 213661,
+        "word": "当你开始为工作而花钱以后",
+        "onboard_time": 1691827595,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 207117,
+        "num": 207117,
+        "word": "WB",
+        "onboard_time": 1691825856,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245200,
+        "num": 206286,
+        "word": "长相思",
+        "onboard_time": 1691831856,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320192,
+        "num": 201860,
+        "word": "朱志鑫戴唇环",
+        "onboard_time": 1691828676,
+        "rank": 36,
+        "category": "音乐,综艺"
+      },
+      {
+        "raw_hot": 231169,
+        "num": 201819,
+        "word": "檀健次戴了三个耳饰",
+        "onboard_time": 1691832517,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197369,
+        "num": 197369,
+        "word": "发现一个买手机不花钱的办法",
+        "onboard_time": 1691831735,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190557,
+        "num": 190557,
+        "word": "肾好不好睡一觉就知道了",
+        "onboard_time": 1691796025,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 228663,
+        "num": 190449,
+        "word": "看着也不像肖战啊",
+        "onboard_time": 1691832635,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219678,
+        "num": 189173,
+        "word": "封神 诚意",
+        "onboard_time": 1691817637,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216744,
+        "num": 188218,
+        "word": "帮王姬娶亲",
+        "onboard_time": 1691832696,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211647,
+        "num": 186981,
+        "word": "张峻豪卷发",
+        "onboard_time": 1691830715,
+        "rank": 43,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 186939,
+        "num": 186939,
+        "word": "奶茶奶盖有多不健康",
+        "onboard_time": 1691812059,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189537,
+        "num": 183799,
+        "word": "邓佳鑫牛仔造型",
+        "onboard_time": 1691832216,
+        "rank": 45,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 174793,
+        "num": 174793,
+        "word": "上了大学不给孩子买手机可以吗",
+        "onboard_time": 1691817877,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164479,
+        "num": 164479,
+        "word": "离职是上班提还是下班提",
+        "onboard_time": 1691818721,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164372,
+        "num": 164372,
+        "word": "男生骑行1476公里报到国防科大",
+        "onboard_time": 1691828437,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 149615,
+        "num": 164162,
+        "word": "海洋里也有硬通货",
+        "onboard_time": 1691832635,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#回望二万五千里长征路#"
+    }
+  }
+}
