@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691818423616,
+  "endTime": 1691821159271,
   "band_list": [
     {
       "raw_hot": 2459545,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1207231,
+      "num": 813438,
+      "word": "于适 巩俐",
+      "onboard_time": 1691817817,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1176388,
       "num": 1176388,
       "word": "我好像删到电脑的大动脉了",
@@ -163,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 813263,
+      "num": 813263,
+      "word": "上了大学不给孩子买手机可以吗",
+      "onboard_time": 1691817877,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 811338,
       "num": 288192,
       "word": "00年带98年的实习生",
@@ -219,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 710235,
+      "num": 710235,
+      "word": "离职是上班提还是下班提",
+      "onboard_time": 1691818721,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 688253,
       "num": 688253,
       "word": "央视网文娱评长月烬明",
@@ -251,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 648200,
+      "num": 648200,
+      "word": "孤注一掷 安娜",
+      "onboard_time": 1691819197,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 643829,
       "num": 643829,
       "word": "莲花楼唯一一个恋爱脑",
@@ -273,6 +305,14 @@
       "onboard_time": 1691811399,
       "rank": 12,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 599153,
+      "num": 599153,
+      "word": "因为做饭太多被妈妈数落了",
+      "onboard_time": 1691817997,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 592738,
@@ -363,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 510852,
+      "num": 594987,
+      "word": "消防员抓了只龙头鹿身的动物",
+      "onboard_time": 1691815539,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506669,
       "num": 506669,
       "word": "复活后的殷郊",
@@ -387,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 491222,
+      "num": 491222,
+      "word": "封神 诚意",
+      "onboard_time": 1691817637,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 487873,
       "num": 356227,
       "word": "妈妈把我的衣服给狗穿了",
@@ -409,14 +465,6 @@
       "onboard_time": 1691814216,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 484376,
-      "num": 484376,
-      "word": "于适 巩俐",
-      "onboard_time": 1691817817,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 483992,
@@ -507,14 +555,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 428838,
-      "num": 428838,
-      "word": "消防员抓了只龙头鹿身的动物",
-      "onboard_time": 1691815539,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 420430,
       "num": 420430,
       "word": "感觉檀健次下一秒要晕过去",
@@ -547,12 +587,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 411207,
-      "num": 411207,
-      "word": "封神 诚意",
-      "onboard_time": 1691817637,
-      "rank": 18,
+      "raw_hot": 405737,
+      "num": 405737,
+      "word": "杨紫回应痛不郁生",
+      "onboard_time": 1691819436,
+      "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404222,
+      "num": 404222,
+      "word": "林凯回应撞脸肖战邓为",
+      "onboard_time": 1691820217,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 400969,
@@ -625,6 +673,14 @@
       "onboard_time": 1691799272,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379875,
+      "num": 379875,
+      "word": "孤注一掷点映机制引争议",
+      "onboard_time": 1691818236,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 379195,
@@ -835,11 +891,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284082,
+      "num": 284082,
+      "word": "封神",
+      "onboard_time": 1691820337,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282755,
       "num": 255827,
       "word": "长相思梅林统一了剧粉",
       "onboard_time": 1691761119,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282359,
+      "num": 215018,
+      "word": "张晚意仪态",
+      "onboard_time": 1691819316,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -987,14 +1059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 236175,
-      "num": 236175,
-      "word": "孤注一掷点映机制引争议",
-      "onboard_time": 1691818236,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 235892,
       "num": 235892,
       "word": "张靓颖又唱OST了",
@@ -1051,6 +1115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230296,
+      "num": 202584,
+      "word": "宋亚轩张真源贺峻霖加速之城合照",
+      "onboard_time": 1691820759,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229178,
       "num": 229178,
       "word": "高叶狂飙后首部电视剧",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1691733156,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225912,
+      "num": 165823,
+      "word": "封神彪子原来是乔家里的戚成钢",
+      "onboard_time": 1691820696,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 225381,
@@ -1123,14 +1203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219335,
-      "num": 247819,
-      "word": "上了大学不给孩子买手机可以吗",
-      "onboard_time": 1691817877,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 218578,
       "num": 178369,
       "word": "杨超越哭着读信",
@@ -1161,6 +1233,14 @@
       "onboard_time": 1691797468,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212069,
+      "num": 165376,
+      "word": "孤注一掷",
+      "onboard_time": 1691818596,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 211290,
@@ -1203,6 +1283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203445,
+      "num": 163741,
+      "word": "封神第一部票房破19亿",
+      "onboard_time": 1691821056,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200491,
       "num": 208910,
       "word": "周深回应巡演",
@@ -1233,6 +1321,14 @@
       "onboard_time": 1691814159,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197286,
+      "num": 161286,
+      "word": "宋亚轩清唱野子",
+      "onboard_time": 1691819919,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 195654,
@@ -1307,14 +1403,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 174786,
-      "num": 235006,
-      "word": "因为做饭太多被妈妈数落了",
-      "onboard_time": 1691817997,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 173792,
       "num": 173792,
       "word": "凯恩",
@@ -1337,6 +1425,14 @@
       "onboard_time": 1691768619,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168529,
+      "num": 168529,
+      "word": "打篮球是最好的医美",
+      "onboard_time": 1691820998,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 167359,
@@ -1568,6 +1664,14 @@
       "word": "从七只到九千多只中国朱鹮保护成为世界范例",
       "onboard_time": 1691809896,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25081,
+      "num": 544158,
+      "word": "男童掉落池塘幸得路人及时救起",
+      "onboard_time": 1691820038,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
