@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691846205268,
+  "endTime": 1691847221662,
   "band_list": [
     {
       "raw_hot": 2892097,
@@ -75,6 +75,14 @@
       "category": "情感,影视"
     },
     {
+      "raw_hot": 2130442,
+      "num": 2130442,
+      "word": "杨紫这次选择了相柳",
+      "onboard_time": 1691844880,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2082525,
       "num": 2082525,
       "word": "哥 成钢他会改的",
@@ -83,12 +91,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1884005,
-      "num": 1884005,
-      "word": "杨紫这次选择了相柳",
-      "onboard_time": 1691844880,
-      "rank": 0,
-      "category": "综艺"
+      "raw_hot": 1814247,
+      "num": 1814247,
+      "word": "去西藏玩不要戴空顶遮阳帽",
+      "onboard_time": 1691841516,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 1716973,
@@ -107,20 +115,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1706717,
+      "num": 645382,
+      "word": "薛之谦许嵩",
+      "onboard_time": 1691845962,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1679319,
       "num": 1679319,
       "word": "各大医院书记院长被抓后痛哭流涕",
       "onboard_time": 1691839057,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1518895,
-      "num": 1518895,
-      "word": "去西藏玩不要戴空顶遮阳帽",
-      "onboard_time": 1691841516,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 1469849,
@@ -153,6 +161,14 @@
       "onboard_time": 1691767239,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1351546,
+      "num": 1351546,
+      "word": "长相思男主爆红后综艺首秀",
+      "onboard_time": 1691845962,
+      "rank": 40,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 1334792,
@@ -193,6 +209,14 @@
       "onboard_time": 1691823338,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1214924,
+      "num": 1214924,
+      "word": "蝉女",
+      "onboard_time": 1691845362,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1207231,
@@ -283,14 +307,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1066492,
-      "num": 1066492,
-      "word": "蝉女",
-      "onboard_time": 1691845362,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1047204,
       "num": 1047204,
       "word": "25岁86个好友什么水平",
@@ -305,6 +321,14 @@
       "onboard_time": 1691826874,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 976589,
+      "num": 976589,
+      "word": "难怪我结不了婚",
+      "onboard_time": 1691844279,
+      "rank": 12,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 945351,
@@ -459,14 +483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 744570,
-      "num": 744570,
-      "word": "难怪我结不了婚",
-      "onboard_time": 1691844279,
-      "rank": 12,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 737430,
       "num": 659864,
       "word": "内娱骨相皮相都优越的明星",
@@ -619,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 645382,
-      "num": 645382,
-      "word": "薛之谦许嵩",
-      "onboard_time": 1691845962,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 643829,
       "num": 643829,
       "word": "莲花楼唯一一个恋爱脑",
@@ -777,6 +785,14 @@
       "onboard_time": 1691805275,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 549858,
+      "num": 327168,
+      "word": "李雪琴在王鹤棣魏大勋之间做选择",
+      "onboard_time": 1691846621,
+      "rank": 20,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 543658,
@@ -947,6 +963,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468922,
+      "num": 413971,
+      "word": "成毅还有3部待播剧",
+      "onboard_time": 1691844160,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 462740,
+      "num": 381134,
+      "word": "喻言天津",
+      "onboard_time": 1691845720,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458361,
       "num": 474037,
       "word": "李嘉诚7折抛售新盘",
@@ -1003,14 +1035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 437927,
-      "num": 413971,
-      "word": "成毅还有3部待播剧",
-      "onboard_time": 1691844160,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 435101,
       "num": 435101,
       "word": "陈赫说鹿晗在五哈群发半裸健身照",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1691765203,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 430915,
+      "num": 382413,
+      "word": "成毅长在曾舜晞的笑点上",
+      "onboard_time": 1691845362,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 430880,
@@ -1107,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410844,
+      "num": 270843,
+      "word": "唐悠悠你现在真的成黑老大的女人了",
+      "onboard_time": 1691846860,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405737,
       "num": 405737,
       "word": "杨紫回应痛不郁生",
@@ -1137,6 +1177,14 @@
       "onboard_time": 1691816618,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 400310,
+      "num": 766234,
+      "word": "陕西医疗反腐已处理937人",
+      "onboard_time": 1691843983,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394616,
@@ -1219,22 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382413,
-      "num": 382413,
-      "word": "成毅长在曾舜晞的笑点上",
-      "onboard_time": 1691845362,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 381134,
-      "num": 381134,
-      "word": "喻言天津",
-      "onboard_time": 1691845720,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 380768,
       "num": 380768,
       "word": "Ella晒SHE合影",
@@ -1297,6 +1329,14 @@
       "onboard_time": 1691838337,
       "rank": 36,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 367931,
+      "num": 234977,
+      "word": "张艺兴演唱会巨型裸眼3D",
+      "onboard_time": 1691843619,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 367740,
@@ -1379,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356010,
-      "num": 204774,
-      "word": "张艺兴演唱会巨型裸眼3D",
-      "onboard_time": 1691843619,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 354808,
       "num": 228118,
       "word": "杨紫檀健次都没听过邓为唱歌",
@@ -1427,6 +1459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349914,
+      "num": 349914,
+      "word": "原来这张表情包是喜羊羊遗照",
+      "onboard_time": 1691846080,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 349694,
       "num": 281061,
       "word": "央视818晚会首发阵容",
@@ -1444,7 +1484,7 @@
     },
     {
       "raw_hot": 347547,
-      "num": 196859,
+      "num": 212727,
       "word": "刘宇宁进组蝉女",
       "onboard_time": 1691843562,
       "rank": 37,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1691796325,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 333979,
+      "num": 227613,
+      "word": "每天喝无糖饮料发生了什么变化",
+      "onboard_time": 1691846261,
+      "rank": 33,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 333063,
@@ -1531,28 +1579,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 325956,
-      "num": 191176,
-      "word": "长相思男主爆红后综艺首秀",
-      "onboard_time": 1691845962,
-      "rank": 40,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 321998,
       "num": 265187,
       "word": "其实可以直接买个电脑防窥屏的",
       "onboard_time": 1691824357,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 321145,
-      "num": 766234,
-      "word": "陕西医疗反腐已处理937人",
-      "onboard_time": 1691843983,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319710,
@@ -1828,7 +1860,7 @@
     },
     {
       "raw_hot": 257423,
-      "num": 190894,
+      "num": 191742,
       "word": "张杰深圳演唱长相思主题曲",
       "onboard_time": 1691845841,
       "rank": 42,
@@ -1889,6 +1921,22 @@
       "onboard_time": 1691748574,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246801,
+      "num": 246801,
+      "word": "AG",
+      "onboard_time": 1691843858,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 246621,
+      "num": 191609,
+      "word": "杨迪范丞丞毛晓彤同台各辣各的",
+      "onboard_time": 1691847104,
+      "rank": 43,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 246276,
@@ -1977,14 +2025,6 @@
       "onboard_time": 1691833177,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236397,
-      "num": 236397,
-      "word": "AG",
-      "onboard_time": 1691843858,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 235892,
@@ -2515,8 +2555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191236,
-      "num": 191236,
+      "raw_hot": 191322,
+      "num": 191322,
       "word": "贵州荔波旅游",
       "onboard_time": 1691845060,
       "rank": 39,
@@ -2635,14 +2675,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 166873,
-      "num": 190404,
-      "word": "原来这张表情包是喜羊羊遗照",
-      "onboard_time": 1691846080,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162441,
       "num": 208828,
       "word": "宫崎骏新作剧照公开",
@@ -2739,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147846,
+      "num": 190626,
+      "word": "反向瀑布现象",
+      "onboard_time": 1691846440,
+      "rank": 48,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 146591,
       "num": 146591,
       "word": "这辆电瓶车是叫淑慧吗",
@@ -2753,6 +2793,14 @@
       "onboard_time": 1691760578,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 146461,
+      "num": 190295,
+      "word": "男子为亡妻销户时泪流满面亲吻照片",
+      "onboard_time": 1691846621,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141008,
@@ -2947,6 +2995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 64988,
+      "num": 1582131,
+      "word": "琵琶与古诗词邂逅有多浪漫",
+      "onboard_time": 1691845241,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59278,
       "num": 440183,
       "word": "浙h180f7为你点赞",
@@ -2968,14 +3024,6 @@
       "word": "男童掉落池塘幸得路人及时救起",
       "onboard_time": 1691820038,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41424,
-      "num": 1521002,
-      "word": "琵琶与古诗词邂逅有多浪漫",
-      "onboard_time": 1691845241,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

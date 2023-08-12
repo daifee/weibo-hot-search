@@ -1,0 +1,410 @@
+{
+  "runTime": 1691847221662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2130442,
+        "num": 2130442,
+        "word": "杨紫这次选择了相柳",
+        "onboard_time": 1691844880,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1814247,
+        "num": 1814247,
+        "word": "去西藏玩不要戴空顶遮阳帽",
+        "onboard_time": 1691841516,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64988,
+        "num": 1582131,
+        "word": "琵琶与古诗词邂逅有多浪漫",
+        "onboard_time": 1691845241,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1351546,
+        "num": 1351546,
+        "word": "长相思男主爆红后综艺首秀",
+        "onboard_time": 1691845962,
+        "rank": 3,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 1279243,
+        "num": 1279243,
+        "word": "各大医院书记院长被抓后痛哭流涕",
+        "onboard_time": 1691839057,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214924,
+        "num": 1214924,
+        "word": "蝉女",
+        "onboard_time": 1691845362,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 976589,
+        "num": 976589,
+        "word": "难怪我结不了婚",
+        "onboard_time": 1691844279,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 927617,
+        "num": 927617,
+        "word": "25岁86个好友什么水平",
+        "onboard_time": 1691844160,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 755936,
+        "num": 755936,
+        "word": "黄子韬怎么一直惹徐艺洋生气",
+        "onboard_time": 1691841460,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400310,
+        "num": 754256,
+        "word": "陕西医疗反腐已处理937人",
+        "onboard_time": 1691843983,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1087469,
+        "num": 754118,
+        "word": "阮经天出车祸",
+        "onboard_time": 1691835519,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 753743,
+        "num": 753743,
+        "word": "魏大勋去看了张杰演唱会",
+        "onboard_time": 1691844456,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 726601,
+        "num": 726601,
+        "word": "纹身店 银饰店",
+        "onboard_time": 1691844039,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260960,
+        "num": 650382,
+        "word": "这7人在被困列车上成立了临时党支部",
+        "onboard_time": 1691843014,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183926,
+        "num": 642776,
+        "word": "一对双胞胎展示同款举手睡姿",
+        "onboard_time": 1691838637,
+        "rank": 14,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 641538,
+        "num": 641538,
+        "word": "孟美岐挑战安崎输了",
+        "onboard_time": 1691838219,
+        "rank": 15,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 585915,
+        "num": 585915,
+        "word": "刘浩存hi6",
+        "onboard_time": 1691844219,
+        "rank": 16,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 577575,
+        "num": 577575,
+        "word": "白日梦我原著党两眼一黑",
+        "onboard_time": 1691838580,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349914,
+        "num": 349914,
+        "word": "原来这张表情包是喜羊羊遗照",
+        "onboard_time": 1691846080,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328993,
+        "num": 328993,
+        "word": "我的工资是这样组成的",
+        "onboard_time": 1691839359,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 549858,
+        "num": 327168,
+        "word": "李雪琴在王鹤棣魏大勋之间做选择",
+        "onboard_time": 1691846621,
+        "rank": 20,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 495807,
+        "num": 313467,
+        "word": "女儿腺样体肥大父母拒手术13岁身高仅133",
+        "onboard_time": 1691840919,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480564,
+        "num": 300228,
+        "word": "谭松韵蓝色抹胸花朵裙",
+        "onboard_time": 1691844880,
+        "rank": 22,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 468922,
+        "num": 288116,
+        "word": "成毅还有3部待播剧",
+        "onboard_time": 1691844160,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286537,
+        "num": 286537,
+        "word": "缅甸旅游业苦等中国游客重返",
+        "onboard_time": 1691826096,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 462740,
+        "num": 281104,
+        "word": "喻言天津",
+        "onboard_time": 1691845720,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430915,
+        "num": 271886,
+        "word": "成毅长在曾舜晞的笑点上",
+        "onboard_time": 1691845362,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410844,
+        "num": 270843,
+        "word": "唐悠悠你现在真的成黑老大的女人了",
+        "onboard_time": 1691846860,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251474,
+        "num": 251474,
+        "word": "奶奶把头发塞进男童鼻腔止血致休克",
+        "onboard_time": 1691830897,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246801,
+        "num": 246801,
+        "word": "AG",
+        "onboard_time": 1691843858,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 388391,
+        "num": 244205,
+        "word": "欧阳娜娜背影臀腰比",
+        "onboard_time": 1691832097,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 367931,
+        "num": 234977,
+        "word": "张艺兴演唱会巨型裸眼3D",
+        "onboard_time": 1691843619,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 344821,
+        "num": 228796,
+        "word": "阮经天工作室称老板人没事",
+        "onboard_time": 1691843202,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333979,
+        "num": 227613,
+        "word": "每天喝无糖饮料发生了什么变化",
+        "onboard_time": 1691846261,
+        "rank": 33,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 1706717,
+        "num": 218506,
+        "word": "薛之谦许嵩",
+        "onboard_time": 1691845962,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326677,
+        "num": 212727,
+        "word": "刘宇宁进组蝉女",
+        "onboard_time": 1691843562,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302117,
+        "num": 208869,
+        "word": "邓为大学没毕业",
+        "onboard_time": 1691821178,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202801,
+        "num": 202801,
+        "word": "小时候羡慕在高楼大厦工作的人",
+        "onboard_time": 1691845479,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193825,
+        "num": 193825,
+        "word": "成人牙齿再生或十年内实现",
+        "onboard_time": 1691834918,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 192349,
+        "num": 192349,
+        "word": "猫德学院大战狮子猫",
+        "onboard_time": 1691842780,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286600,
+        "num": 192202,
+        "word": "哪位明星是内娱的一股清流",
+        "onboard_time": 1691835937,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260533,
+        "num": 192038,
+        "word": "原著中救了小夭的是小夭",
+        "onboard_time": 1691835699,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252340,
+        "num": 191742,
+        "word": "张杰深圳演唱长相思主题曲",
+        "onboard_time": 1691845841,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246621,
+        "num": 191609,
+        "word": "杨迪范丞丞毛晓彤同台各辣各的",
+        "onboard_time": 1691847104,
+        "rank": 43,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 235647,
+        "num": 191467,
+        "word": "小夭让相柳拿镜子照照自己",
+        "onboard_time": 1691839299,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191322,
+        "num": 191322,
+        "word": "贵州荔波旅游",
+        "onboard_time": 1691845060,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 173646,
+        "num": 191133,
+        "word": "现实版盗墓笔记",
+        "onboard_time": 1691845362,
+        "rank": 46,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 154425,
+        "num": 190995,
+        "word": "AG对战狼队",
+        "onboard_time": 1691845720,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147846,
+        "num": 190626,
+        "word": "反向瀑布现象",
+        "onboard_time": 1691846440,
+        "rank": 48,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 146461,
+        "num": 190295,
+        "word": "男子为亡妻销户时泪流满面亲吻照片",
+        "onboard_time": 1691846621,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#回望二万五千里长征路#"
+    }
+  }
+}
