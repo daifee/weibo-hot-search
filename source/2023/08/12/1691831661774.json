@@ -1,0 +1,410 @@
+{
+  "runTime": 1691831661774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1227013,
+        "num": 1227013,
+        "word": "刘天池爆料质子团选拔",
+        "onboard_time": 1691825676,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 701268,
+        "num": 701268,
+        "word": "杨紫选剧本",
+        "onboard_time": 1691826517,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47429,
+        "num": 699411,
+        "word": "致敬青春最美的样子",
+        "onboard_time": 1691829997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2395539,
+        "num": 699182,
+        "word": "缅甸旅游业苦等中国游客重返",
+        "onboard_time": 1691826096,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1058928,
+        "num": 698966,
+        "word": "网友评程潇喂许光汉吃东西像扔厨余垃圾",
+        "onboard_time": 1691830355,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 698213,
+        "num": 698213,
+        "word": "张艺兴突然哭了",
+        "onboard_time": 1691825919,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628770,
+        "num": 628770,
+        "word": "玱玹丰隆穷疯了",
+        "onboard_time": 1691827895,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588725,
+        "num": 588725,
+        "word": "官方通报深圳南山医院医生刘某被举报",
+        "onboard_time": 1691826874,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513965,
+        "num": 513965,
+        "word": "胡锡进 湘雅三医院在发生什么",
+        "onboard_time": 1691825733,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491569,
+        "num": 491569,
+        "word": "全家22人从云南送小伙到国防科大报到",
+        "onboard_time": 1691829275,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1331515,
+        "num": 481822,
+        "word": "邓为大学没毕业",
+        "onboard_time": 1691821178,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808640,
+        "num": 479967,
+        "word": "娜扎为什么接这种广告",
+        "onboard_time": 1691805516,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 575204,
+        "num": 477181,
+        "word": "李相夷没死成毅快社死了",
+        "onboard_time": 1691828075,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471064,
+        "num": 471064,
+        "word": "警方回应水果捞纠纷案件调查处理结果",
+        "onboard_time": 1691830237,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25979,
+        "num": 440183,
+        "word": "浙h180f7为你点赞",
+        "onboard_time": 1691830897,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425766,
+        "num": 425766,
+        "word": "长相思是真听劝",
+        "onboard_time": 1691828318,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404798,
+        "num": 404798,
+        "word": "娜扎经纪人为接广告道歉",
+        "onboard_time": 1691814459,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381676,
+        "num": 381676,
+        "word": "医疗反腐 改革医务人员薪酬体系",
+        "onboard_time": 1691828437,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342073,
+        "num": 342073,
+        "word": "T1",
+        "onboard_time": 1691823456,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 324295,
+        "num": 324295,
+        "word": "WB",
+        "onboard_time": 1691825856,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 370878,
+        "num": 305674,
+        "word": "朱志鑫戴唇环",
+        "onboard_time": 1691828676,
+        "rank": 20,
+        "category": "音乐,综艺"
+      },
+      {
+        "raw_hot": 359398,
+        "num": 302348,
+        "word": "连续四年吃成毅的席",
+        "onboard_time": 1691828915,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282420,
+        "num": 282420,
+        "word": "考完驾照是不是不能骑电动车了",
+        "onboard_time": 1691822978,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257553,
+        "num": 257553,
+        "word": "质疑 理解 成为",
+        "onboard_time": 1691814518,
+        "rank": 23,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 219506,
+        "num": 219506,
+        "word": "奶茶奶盖有多不健康",
+        "onboard_time": 1691812059,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 354317,
+        "num": 218359,
+        "word": "哥 成钢他会改的",
+        "onboard_time": 1691811399,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339955,
+        "num": 217104,
+        "word": "林凯回应撞脸肖战邓为",
+        "onboard_time": 1691820217,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327723,
+        "num": 216636,
+        "word": "于适封神票房破19亿海报",
+        "onboard_time": 1691829275,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213321,
+        "num": 213321,
+        "word": "妻子实名举报医生老公每年药品回扣十几万",
+        "onboard_time": 1691797709,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210829,
+        "num": 210829,
+        "word": "肾好不好睡一觉就知道了",
+        "onboard_time": 1691796025,
+        "rank": 29,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 677782,
+        "num": 210775,
+        "word": "奶奶把头发塞进男童鼻腔止血致休克",
+        "onboard_time": 1691830897,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305504,
+        "num": 210095,
+        "word": "新地球",
+        "onboard_time": 1691827178,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266090,
+        "num": 209324,
+        "word": "张峻豪卷发",
+        "onboard_time": 1691830715,
+        "rank": 32,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 254749,
+        "num": 208766,
+        "word": "舍不得莲花楼探案三人组",
+        "onboard_time": 1691831136,
+        "rank": 33,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 208322,
+        "num": 208322,
+        "word": "上了大学不给孩子买手机可以吗",
+        "onboard_time": 1691817877,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253067,
+        "num": 208188,
+        "word": "孟子义在秦霄贤怀里害羞了",
+        "onboard_time": 1691831373,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237268,
+        "num": 207663,
+        "word": "吴宣仪 打不倒我的只会让我越来越强大",
+        "onboard_time": 1691824055,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204904,
+        "num": 204904,
+        "word": "女孩险被诱骗到缅甸在加油站获救",
+        "onboard_time": 1691830897,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204362,
+        "num": 204362,
+        "word": "当你开始为工作而花钱以后",
+        "onboard_time": 1691827595,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 201685,
+        "num": 201685,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1691830957,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222773,
+        "num": 198749,
+        "word": "李相夷82s打戏大赏",
+        "onboard_time": 1691831197,
+        "rank": 40,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 233108,
+        "num": 195185,
+        "word": "医生说曾黎顶多30岁",
+        "onboard_time": 1691802516,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213663,
+        "num": 191995,
+        "word": "杨紫檀健次都没听过邓为唱歌",
+        "onboard_time": 1691826215,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211797,
+        "num": 190931,
+        "word": "封神 诚意",
+        "onboard_time": 1691817637,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204836,
+        "num": 185384,
+        "word": "檀健次把耳钉焊在耳朵上吧",
+        "onboard_time": 1691825974,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184560,
+        "num": 184560,
+        "word": "男生骑行1476公里报到国防科大",
+        "onboard_time": 1691828437,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195535,
+        "num": 184429,
+        "word": "饭制版梅林殉情",
+        "onboard_time": 1691822855,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183547,
+        "num": 183547,
+        "word": "离职是上班提还是下班提",
+        "onboard_time": 1691818721,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171101,
+        "num": 171101,
+        "word": "拜仁",
+        "onboard_time": 1691828735,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159452,
+        "num": 159452,
+        "word": "59岁法医因抑郁症女孩一句话哭了",
+        "onboard_time": 1691831616,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以青春的活力促进世界和平与发展#"
+    }
+  }
+}

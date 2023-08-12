@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691829242723,
+  "endTime": 1691831661774,
   "band_list": [
     {
       "raw_hot": 2459545,
@@ -9,6 +9,14 @@
       "onboard_time": 1691805516,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2395539,
+      "num": 1982546,
+      "word": "缅甸旅游业苦等中国游客重返",
+      "onboard_time": 1691826096,
+      "rank": 1,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 2252378,
@@ -57,14 +65,6 @@
       "onboard_time": 1691811399,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1982546,
-      "num": 1982546,
-      "word": "缅甸旅游业苦等中国游客重返",
-      "onboard_time": 1691826096,
-      "rank": 1,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1716973,
@@ -185,6 +185,14 @@
       "onboard_time": 1691795001,
       "rank": 6,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1058928,
+      "num": 698966,
+      "word": "网友评程潇喂许光汉吃东西像扔厨余垃圾",
+      "onboard_time": 1691830355,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 982125,
@@ -339,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 677782,
+      "num": 210775,
+      "word": "奶奶把头发塞进男童鼻腔止血致休克",
+      "onboard_time": 1691830897,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675798,
       "num": 675798,
       "word": "因为做饭太多被妈妈数落了",
@@ -403,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 628770,
+      "num": 628770,
+      "word": "玱玹丰隆穷疯了",
+      "onboard_time": 1691827895,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 623226,
       "num": 623226,
       "word": "妈妈过于前卫是什么体验",
@@ -457,6 +481,14 @@
       "onboard_time": 1691795602,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 575204,
+      "num": 477181,
+      "word": "李相夷没死成毅快社死了",
+      "onboard_time": 1691828075,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 573863,
@@ -531,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 507499,
-      "num": 507499,
-      "word": "玱玹丰隆穷疯了",
-      "onboard_time": 1691827895,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 506669,
       "num": 506669,
       "word": "复活后的殷郊",
@@ -561,6 +585,14 @@
       "onboard_time": 1691805816,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 491569,
+      "num": 491569,
+      "word": "全家22人从云南送小伙到国防科大报到",
+      "onboard_time": 1691829275,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491222,
@@ -617,6 +649,14 @@
       "onboard_time": 1691798011,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 471064,
+      "num": 471064,
+      "word": "警方回应水果捞纠纷案件调查处理结果",
+      "onboard_time": 1691830237,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462916,
@@ -715,6 +755,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 425766,
+      "num": 425766,
+      "word": "长相思是真听劝",
+      "onboard_time": 1691828318,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 420430,
       "num": 420430,
       "word": "感觉檀健次下一秒要晕过去",
@@ -777,14 +825,6 @@
       "onboard_time": 1691816618,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 400003,
-      "num": 400003,
-      "word": "李相夷没死成毅快社死了",
-      "onboard_time": 1691828075,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 394616,
@@ -859,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381676,
+      "num": 381676,
+      "word": "医疗反腐 改革医务人员薪酬体系",
+      "onboard_time": 1691828437,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380768,
       "num": 380768,
       "word": "Ella晒SHE合影",
@@ -905,6 +953,14 @@
       "onboard_time": 1691809417,
       "rank": 14,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 370878,
+      "num": 305674,
+      "word": "朱志鑫戴唇环",
+      "onboard_time": 1691828676,
+      "rank": 32,
+      "category": "音乐,综艺"
     },
     {
       "raw_hot": 367740,
@@ -963,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359398,
+      "num": 302348,
+      "word": "连续四年吃成毅的席",
+      "onboard_time": 1691828915,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358768,
       "num": 358768,
       "word": "大爷高铁上戴耳机喝白酒全程安静",
@@ -985,14 +1049,6 @@
       "onboard_time": 1691822135,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 350059,
-      "num": 249871,
-      "word": "长相思是真听劝",
-      "onboard_time": 1691828318,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 349971,
@@ -1043,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327723,
+      "num": 216636,
+      "word": "于适封神票房破19亿海报",
+      "onboard_time": 1691829275,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321998,
       "num": 265187,
       "word": "其实可以直接买个电脑防窥屏的",
@@ -1089,14 +1153,6 @@
       "onboard_time": 1691801852,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 311383,
-      "num": 219200,
-      "word": "朱志鑫戴唇环",
-      "onboard_time": 1691828676,
-      "rank": 32,
-      "category": "音乐,综艺"
     },
     {
       "raw_hot": 311320,
@@ -1227,6 +1283,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 266090,
+      "num": 209324,
+      "word": "张峻豪卷发",
+      "onboard_time": 1691830715,
+      "rank": 32,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 262087,
       "num": 251799,
       "word": "全员加速中",
@@ -1259,12 +1323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254512,
-      "num": 254512,
-      "word": "医疗反腐 改革医务人员薪酬体系",
-      "onboard_time": 1691828437,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 254749,
+      "num": 208766,
+      "word": "舍不得莲花楼探案三人组",
+      "onboard_time": 1691831136,
+      "rank": 33,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 253067,
+      "num": 208188,
+      "word": "孟子义在秦霄贤怀里害羞了",
+      "onboard_time": 1691831373,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 252459,
@@ -1459,6 +1531,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 222773,
+      "num": 198749,
+      "word": "李相夷82s打戏大赏",
+      "onboard_time": 1691831197,
+      "rank": 40,
+      "category": "影视,影视"
+    },
+    {
       "raw_hot": 222230,
       "num": 222230,
       "word": "薛之谦说李在溪说有种",
@@ -1563,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204904,
+      "num": 204904,
+      "word": "女孩险被诱骗到缅甸在加油站获救",
+      "onboard_time": 1691830897,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204668,
       "num": 256881,
       "word": "医药代表性贿赂医生",
@@ -1601,6 +1689,14 @@
       "onboard_time": 1691821719,
       "rank": 33,
       "category": "自然"
+    },
+    {
+      "raw_hot": 201685,
+      "num": 201685,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1691830957,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 200491,
@@ -1649,14 +1745,6 @@
       "onboard_time": 1691819919,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196480,
-      "num": 186381,
-      "word": "连续四年吃成毅的席",
-      "onboard_time": 1691828915,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 195654,
@@ -1809,6 +1897,14 @@
       "onboard_time": 1691813918,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 159452,
+      "num": 159452,
+      "word": "59岁法医因抑郁症女孩一句话哭了",
+      "onboard_time": 1691831616,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158762,
@@ -2059,10 +2155,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 47429,
+      "num": 699411,
+      "word": "致敬青春最美的样子",
+      "onboard_time": 1691829997,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44504,
       "num": 544158,
       "word": "男童掉落池塘幸得路人及时救起",
       "onboard_time": 1691820038,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25979,
+      "num": 440183,
+      "word": "浙h180f7为你点赞",
+      "onboard_time": 1691830897,
       "rank": 14,
       "category": "社会新闻"
     }
