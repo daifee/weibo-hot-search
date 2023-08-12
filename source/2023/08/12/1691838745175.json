@@ -1,0 +1,410 @@
+{
+  "runTime": 1691838745175,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 922052,
+        "num": 922052,
+        "word": "59岁法医因抑郁症女孩一句话哭了",
+        "onboard_time": 1691831616,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519128,
+        "num": 916215,
+        "word": "女孩险被诱骗到缅甸在加油站获救",
+        "onboard_time": 1691830897,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48885,
+        "num": 911093,
+        "word": "致敬青春最美的样子",
+        "onboard_time": 1691829997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2892097,
+        "num": 908652,
+        "word": "阮经天出车祸",
+        "onboard_time": 1691835519,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319588,
+        "num": 899791,
+        "word": "温州有个小区里的奶奶能共享",
+        "onboard_time": 1691836538,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925631,
+        "num": 891510,
+        "word": "缅甸旅游业苦等中国游客重返",
+        "onboard_time": 1691826096,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 315732,
+        "num": 885553,
+        "word": "全家22人从云南送小伙到国防科大报到",
+        "onboard_time": 1691829275,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883333,
+        "num": 883333,
+        "word": "这个芭蕾女孩居然是沈梦辰",
+        "onboard_time": 1691836721,
+        "rank": 7,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 846102,
+        "num": 846102,
+        "word": "原著中救了小夭的是小夭",
+        "onboard_time": 1691835699,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571932,
+        "num": 752158,
+        "word": "成人牙齿再生或十年内实现",
+        "onboard_time": 1691834918,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 944071,
+        "num": 749695,
+        "word": "哪位明星是内娱的一股清流",
+        "onboard_time": 1691835937,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741850,
+        "num": 741850,
+        "word": "网友评程潇喂许光汉吃东西像扔厨余垃圾",
+        "onboard_time": 1691830355,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732525,
+        "num": 732525,
+        "word": "邓为大学没毕业",
+        "onboard_time": 1691821178,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561841,
+        "num": 561841,
+        "word": "白日梦我",
+        "onboard_time": 1691835157,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150752,
+        "num": 553531,
+        "word": "警方回应水果捞纠纷案件调查处理结果",
+        "onboard_time": 1691830237,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578675,
+        "num": 552153,
+        "word": "魏大勋大学毕业照",
+        "onboard_time": 1691833236,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547184,
+        "num": 547184,
+        "word": "看着也不像肖战啊",
+        "onboard_time": 1691832635,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 543658,
+        "num": 543658,
+        "word": "外卖女骑手深夜被盗车后大哭系摆拍",
+        "onboard_time": 1691834016,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492546,
+        "num": 492546,
+        "word": "父母给孩子取名越来越离谱了",
+        "onboard_time": 1691833414,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 320972,
+        "num": 320972,
+        "word": "李嘉诚7折抛售新盘",
+        "onboard_time": 1691837441,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 428013,
+        "num": 314207,
+        "word": "奶奶把头发塞进男童鼻腔止血致休克",
+        "onboard_time": 1691830897,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411042,
+        "num": 313221,
+        "word": "娜扎为什么接这种广告",
+        "onboard_time": 1691805516,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410757,
+        "num": 305087,
+        "word": "孟美岐挑战安崎输了",
+        "onboard_time": 1691838219,
+        "rank": 22,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 290536,
+        "num": 290536,
+        "word": "献血后经期会不会推迟",
+        "onboard_time": 1691831974,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 232159,
+        "num": 232159,
+        "word": "T1",
+        "onboard_time": 1691823456,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 410376,
+        "num": 232136,
+        "word": "王嘉尔开会开到长出胡子",
+        "onboard_time": 1691838219,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403787,
+        "num": 231538,
+        "word": "张艺兴鹿晗刘雨昕彩排照",
+        "onboard_time": 1691833118,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352624,
+        "num": 231233,
+        "word": "高叶 刘恋是迷人女人的具体呈现",
+        "onboard_time": 1691835823,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350825,
+        "num": 230866,
+        "word": "黄仁俊直播",
+        "onboard_time": 1691837200,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230768,
+        "num": 230768,
+        "word": "印度女生因离家一天被父亲砍死",
+        "onboard_time": 1691833776,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341410,
+        "num": 230142,
+        "word": "小夭喊杀错人的原因",
+        "onboard_time": 1691833656,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329462,
+        "num": 228494,
+        "word": "王一博热烈票房破8亿海报",
+        "onboard_time": 1691836239,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328266,
+        "num": 228105,
+        "word": "欧阳娜娜背影臀腰比",
+        "onboard_time": 1691832097,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 216665,
+        "num": 216665,
+        "word": "GEN挺进夏决",
+        "onboard_time": 1691836420,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211014,
+        "num": 211014,
+        "word": "发现一个买手机不花钱的办法",
+        "onboard_time": 1691831735,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319112,
+        "num": 205932,
+        "word": "LESSERAFIM演唱会开场",
+        "onboard_time": 1691837499,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190896,
+        "num": 190896,
+        "word": "华晨宇说LGD目标是总冠军",
+        "onboard_time": 1691838337,
+        "rank": 36,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 188121,
+        "num": 188121,
+        "word": "澳大利亚女足首进世界杯四强",
+        "onboard_time": 1691836060,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187814,
+        "num": 187814,
+        "word": "医疗反腐 改革医务人员薪酬体系",
+        "onboard_time": 1691828437,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161321,
+        "num": 187729,
+        "word": "胡锡进 湘雅三医院在发生什么",
+        "onboard_time": 1691825733,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268926,
+        "num": 187708,
+        "word": "张艺兴突然哭了",
+        "onboard_time": 1691825919,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258375,
+        "num": 187538,
+        "word": "白日梦我原著党两眼一黑",
+        "onboard_time": 1691838580,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222015,
+        "num": 187494,
+        "word": "成毅上火嘴起泡了",
+        "onboard_time": 1691835278,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214445,
+        "num": 187365,
+        "word": "孤注一掷票房破14亿",
+        "onboard_time": 1691837979,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216281,
+        "num": 187263,
+        "word": "李相夷没死成毅快社死了",
+        "onboard_time": 1691828075,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209460,
+        "num": 187175,
+        "word": "哥 成钢他会改的",
+        "onboard_time": 1691811399,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190200,
+        "num": 187025,
+        "word": "于适封神票房破19亿海报",
+        "onboard_time": 1691829275,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152960,
+        "num": 186943,
+        "word": "这样查下去医院会不会瘫痪",
+        "onboard_time": 1691838637,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134678,
+        "num": 186889,
+        "word": "一对双胞胎展示同款举手睡姿",
+        "onboard_time": 1691838637,
+        "rank": 48,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 133003,
+        "num": 186738,
+        "word": "长沙夜市经济",
+        "onboard_time": 1691837082,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#回望二万五千里长征路#"
+    }
+  }
+}
