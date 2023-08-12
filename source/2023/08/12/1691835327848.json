@@ -1,0 +1,410 @@
+{
+  "runTime": 1691835327848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1361038,
+        "num": 1361038,
+        "word": "59岁法医因抑郁症女孩一句话哭了",
+        "onboard_time": 1691831616,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481362,
+        "num": 1329821,
+        "word": "全家22人从云南送小伙到国防科大报到",
+        "onboard_time": 1691829275,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52534,
+        "num": 1302128,
+        "word": "致敬青春最美的样子",
+        "onboard_time": 1691829997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1523444,
+        "num": 1259204,
+        "word": "缅甸旅游业苦等中国游客重返",
+        "onboard_time": 1691826096,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 428886,
+        "num": 1232327,
+        "word": "女孩险被诱骗到缅甸在加油站获救",
+        "onboard_time": 1691830897,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1209595,
+        "num": 1209595,
+        "word": "网友评程潇喂许光汉吃东西像扔厨余垃圾",
+        "onboard_time": 1691830355,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822839,
+        "num": 822839,
+        "word": "小夭喊杀错人的原因",
+        "onboard_time": 1691833656,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 729051,
+        "num": 729051,
+        "word": "献血后经期会不会推迟",
+        "onboard_time": 1691831974,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 714403,
+        "num": 714403,
+        "word": "刘天池爆料质子团选拔",
+        "onboard_time": 1691825676,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482912,
+        "num": 482912,
+        "word": "T1",
+        "onboard_time": 1691823456,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1036440,
+        "num": 478187,
+        "word": "邓为大学没毕业",
+        "onboard_time": 1691821178,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745712,
+        "num": 472379,
+        "word": "看着也不像肖战啊",
+        "onboard_time": 1691832635,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 648496,
+        "num": 462081,
+        "word": "娜扎为什么接这种广告",
+        "onboard_time": 1691805516,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 614640,
+        "num": 454475,
+        "word": "魏大勋大学毕业照",
+        "onboard_time": 1691833236,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278734,
+        "num": 447644,
+        "word": "警方回应水果捞纠纷案件调查处理结果",
+        "onboard_time": 1691830237,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445826,
+        "num": 445826,
+        "word": "张艺兴突然哭了",
+        "onboard_time": 1691825919,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426310,
+        "num": 426310,
+        "word": "父母给孩子取名越来越离谱了",
+        "onboard_time": 1691833414,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 401100,
+        "num": 401100,
+        "word": "帮王姬娶亲",
+        "onboard_time": 1691832696,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341653,
+        "num": 341653,
+        "word": "外卖女骑手深夜被盗车后大哭系摆拍",
+        "onboard_time": 1691834016,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292657,
+        "num": 292657,
+        "word": "成人牙齿再生或十年内实现",
+        "onboard_time": 1691834918,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 672379,
+        "num": 291424,
+        "word": "奶奶把头发塞进男童鼻腔止血致休克",
+        "onboard_time": 1691830897,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522438,
+        "num": 290848,
+        "word": "张艺兴鹿晗刘雨昕彩排照",
+        "onboard_time": 1691833118,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289879,
+        "num": 289879,
+        "word": "医疗反腐 改革医务人员薪酬体系",
+        "onboard_time": 1691828437,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447935,
+        "num": 289706,
+        "word": "欧阳娜娜背影臀腰比",
+        "onboard_time": 1691832097,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 283686,
+        "num": 283686,
+        "word": "发现一个买手机不花钱的办法",
+        "onboard_time": 1691831735,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114146,
+        "num": 283247,
+        "word": "电动车室内充电爆炸到燃烧仅3分钟",
+        "onboard_time": 1691834738,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365994,
+        "num": 281640,
+        "word": "白日梦我",
+        "onboard_time": 1691835157,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324524,
+        "num": 280477,
+        "word": "玱玹丰隆穷疯了",
+        "onboard_time": 1691827895,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242165,
+        "num": 278521,
+        "word": "胡锡进 湘雅三医院在发生什么",
+        "onboard_time": 1691825733,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318867,
+        "num": 277523,
+        "word": "李相夷没死成毅快社死了",
+        "onboard_time": 1691828075,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291963,
+        "num": 275526,
+        "word": "孟子义在秦霄贤怀里害羞了",
+        "onboard_time": 1691831373,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274860,
+        "num": 274860,
+        "word": "杨紫选剧本",
+        "onboard_time": 1691826517,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266897,
+        "num": 266897,
+        "word": "林凯回应撞脸肖战邓为",
+        "onboard_time": 1691820217,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266654,
+        "num": 266654,
+        "word": "印度女生因离家一天被父亲砍死",
+        "onboard_time": 1691833776,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266415,
+        "num": 266415,
+        "word": "人有两颗心 一颗贪心一颗不甘心",
+        "onboard_time": 1691834918,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259972,
+        "num": 259972,
+        "word": "虾滑肥牛响铃卷",
+        "onboard_time": 1691833295,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253524,
+        "num": 253524,
+        "word": "张泽禹演唱会上扭秧歌",
+        "onboard_time": 1691833177,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182774,
+        "num": 250586,
+        "word": "质疑 理解 成为",
+        "onboard_time": 1691814518,
+        "rank": 37,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 152713,
+        "num": 249207,
+        "word": "理想中的婚后生活是怎样的",
+        "onboard_time": 1691834375,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149585,
+        "num": 249189,
+        "word": "当你开始为工作而花钱以后",
+        "onboard_time": 1691827595,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 249175,
+        "num": 249175,
+        "word": "长相思是真听劝",
+        "onboard_time": 1691828318,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244459,
+        "num": 244459,
+        "word": "于适封神票房破19亿海报",
+        "onboard_time": 1691829275,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241639,
+        "num": 241639,
+        "word": "檀健次戴了三个耳饰",
+        "onboard_time": 1691832517,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236710,
+        "num": 236710,
+        "word": "虞书欣为粉丝准备礼物",
+        "onboard_time": 1691833177,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201564,
+        "num": 201564,
+        "word": "成毅上火嘴起泡了",
+        "onboard_time": 1691835278,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199617,
+        "num": 199617,
+        "word": "哥 成钢他会改的",
+        "onboard_time": 1691811399,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194600,
+        "num": 194600,
+        "word": "娜扎经纪人为接广告道歉",
+        "onboard_time": 1691814459,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193939,
+        "num": 193939,
+        "word": "崇应彪鄂顺姜文焕被删片段",
+        "onboard_time": 1691835278,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145927,
+        "num": 191084,
+        "word": "离职是上班提还是下班提",
+        "onboard_time": 1691818721,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133076,
+        "num": 189776,
+        "word": "肾好不好睡一觉就知道了",
+        "onboard_time": 1691796025,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#回望二万五千里长征路#"
+    }
+  }
+}
