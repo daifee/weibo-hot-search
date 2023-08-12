@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691853294651,
+  "endTime": 1691854428140,
   "band_list": [
     {
       "raw_hot": 3442463,
@@ -411,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 902087,
+      "num": 902087,
+      "word": "孟美岐 审视我的人还没放下",
+      "onboard_time": 1691852744,
+      "rank": 25,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 893870,
       "num": 453658,
       "word": "林凯回应撞脸肖战邓为",
@@ -497,6 +505,14 @@
       "onboard_time": 1691812059,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 772694,
+      "num": 772694,
+      "word": "18岁女孩被性侵涉事网约车未备案",
+      "onboard_time": 1691852505,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 771682,
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 678783,
-      "num": 678783,
+      "num": 821617,
       "word": "现在大学生都开始消费降级了吗",
       "onboard_time": 1691850047,
       "rank": 27,
@@ -1075,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 467183,
+      "num": 467183,
+      "word": "HYBE大楼前现状",
+      "onboard_time": 1691852926,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462740,
       "num": 381134,
       "word": "喻言天津",
@@ -1115,8 +1139,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 453809,
-      "num": 453809,
+      "raw_hot": 454414,
+      "num": 454414,
       "word": "郑秀妍芝芙去了Amber演唱会",
       "onboard_time": 1691851425,
       "rank": 16,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1691822736,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 437698,
+      "num": 437698,
+      "word": "张杰演唱会cue孟宴臣",
+      "onboard_time": 1691853822,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 435101,
@@ -1233,6 +1265,14 @@
       "onboard_time": 1691761119,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 413388,
+      "num": 357052,
+      "word": "于适这一分钟白说了",
+      "onboard_time": 1691853404,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 412959,
@@ -1331,14 +1371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 390741,
-      "num": 293631,
-      "word": "孟美岐 审视我的人还没放下",
-      "onboard_time": 1691852744,
-      "rank": 25,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 389737,
       "num": 389737,
       "word": "调查显示医生月工资1600元起步",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1691799272,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380101,
+      "num": 295233,
+      "word": "张杰唱了谢娜最喜欢的想见你",
+      "onboard_time": 1691852682,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 379875,
@@ -1531,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363106,
+      "num": 224664,
+      "word": "长相思三个男主都在拍古装剧",
+      "onboard_time": 1691853343,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361105,
       "num": 361105,
       "word": "婚礼前分手男方要求女方退还八宝粥",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1691843562,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 344250,
-      "num": 270905,
-      "word": "张杰唱了谢娜最喜欢的想见你",
-      "onboard_time": 1691852682,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 342799,
@@ -1859,19 +1899,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 300214,
-      "num": 268655,
-      "word": "HYBE大楼前现状",
-      "onboard_time": 1691852926,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295379,
       "num": 261870,
       "word": "女子请分居丈夫家人吃饭3死1伤",
       "onboard_time": 1691764541,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295254,
+      "num": 295254,
+      "word": "家长吐槽暑假40天孩子开销五六万",
+      "onboard_time": 1691853283,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1921,14 +1961,6 @@
       "onboard_time": 1691808275,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 285832,
-      "num": 285832,
-      "word": "18岁女孩被性侵涉事网约车未备案",
-      "onboard_time": 1691852505,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284082,
@@ -2179,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246031,
+      "num": 182878,
+      "word": "范丞丞上厕所也接视频",
+      "onboard_time": 1691854302,
+      "rank": 40,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 245200,
       "num": 222337,
       "word": "长相思",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1691734657,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237634,
+      "num": 182154,
+      "word": "张杰自己画的饼自己圆",
+      "onboard_time": 1691854302,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 236872,
@@ -2715,6 +2763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194825,
+      "num": 224115,
+      "word": "栓Q哥自学16年英语追爱外国女子",
+      "onboard_time": 1691851425,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 194811,
       "num": 223565,
       "word": "天选倒霉蛋的一天",
@@ -2875,6 +2931,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 175081,
+      "num": 175081,
+      "word": "为什么贡品要插三根香",
+      "onboard_time": 1691853524,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173792,
       "num": 173792,
       "word": "凯恩",
@@ -2921,14 +2985,6 @@
       "onboard_time": 1691829097,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 167639,
-      "num": 224115,
-      "word": "栓Q哥自学16年英语追爱外国女子",
-      "onboard_time": 1691851425,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 167486,
