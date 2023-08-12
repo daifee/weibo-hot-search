@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691867518721,
+  "endTime": 1691868813998,
   "band_list": [
     {
       "raw_hot": 1680984,
@@ -499,6 +499,14 @@
       "category": "科技,艺人"
     },
     {
+      "raw_hot": 72006,
+      "num": 72006,
+      "word": "相柳 仙品",
+      "onboard_time": 1691867297,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 60054,
       "num": 60054,
       "word": "排球少年 我推呢",
@@ -523,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43567,
-      "num": 43567,
-      "word": "相柳 仙品",
-      "onboard_time": 1691867297,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 28270,
       "num": 35385,
       "word": "偶像梦幻祭八周年笑话合集",
       "onboard_time": 1691866936,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 26027,
+      "num": 30742,
+      "word": "18岁女生回应遭网约车司机性侵",
+      "onboard_time": 1691868316,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17555,

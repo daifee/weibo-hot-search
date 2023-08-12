@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691867518721,
+  "endTime": 1691868813998,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -16211,6 +16211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72006,
+      "num": 72006,
+      "word": "相柳 仙品",
+      "onboard_time": 1691867297,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 71953,
       "num": 614039,
       "word": "84岁老人风雨无阻打卡图书馆30载",
@@ -16571,14 +16579,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 43567,
-      "num": 43567,
-      "word": "相柳 仙品",
-      "onboard_time": 1691867297,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 41275,
       "num": 56086,
       "word": "殷桃露马甲线",
@@ -16705,6 +16705,14 @@
       "onboard_time": 1691429062,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 26027,
+      "num": 30742,
+      "word": "18岁女生回应遭网约车司机性侵",
+      "onboard_time": 1691868316,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25148,

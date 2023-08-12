@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691867518721,
+  "endTime": 1691868813998,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -31243,6 +31243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72006,
+      "num": 72006,
+      "word": "相柳 仙品",
+      "onboard_time": 1691867297,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 71953,
       "num": 614039,
       "word": "84岁老人风雨无阻打卡图书馆30载",
@@ -31715,14 +31723,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 43567,
-      "num": 43567,
-      "word": "相柳 仙品",
-      "onboard_time": 1691867297,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 42292,
       "num": 75239,
       "word": "HAPPYMARKDAY",
@@ -31976,6 +31976,14 @@
       "word": "市监局回应市民避灾遇酒店涨价",
       "onboard_time": 1691087655,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26027,
+      "num": 30742,
+      "word": "18岁女生回应遭网约车司机性侵",
+      "onboard_time": 1691868316,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
