@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691822035568,
+  "endTime": 1691824418149,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1691049456,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2252378,
+      "num": 488757,
+      "word": "邓为大学没毕业",
+      "onboard_time": 1691821178,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2252270,
@@ -4867,14 +4875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 994829,
-      "num": 432522,
-      "word": "邓为大学没毕业",
-      "onboard_time": 1691821178,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 993871,
       "num": 993871,
       "word": "鹿晗武汉演唱会官宣嘉宾",
@@ -5723,6 +5723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 893870,
+      "num": 453658,
+      "word": "林凯回应撞脸肖战邓为",
+      "onboard_time": 1691820217,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 893684,
       "num": 790193,
       "word": "年轻人的体检报告",
@@ -6049,6 +6057,14 @@
       "onboard_time": 1691122780,
       "rank": 21,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 860857,
+      "num": 447958,
+      "word": "肖战怎么忍受单肩背带裤的",
+      "onboard_time": 1691823338,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 859658,
@@ -7459,6 +7475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741555,
+      "num": 741555,
+      "word": "封神第一部票房破19亿",
+      "onboard_time": 1691821056,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 741185,
       "num": 741185,
       "word": "幸亏过路女司机凌晨多看了两眼",
@@ -8467,14 +8491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 675419,
-      "num": 426682,
-      "word": "林凯回应撞脸肖战邓为",
-      "onboard_time": 1691820217,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 675012,
       "num": 675012,
       "word": "执着于双休的原因",
@@ -8604,7 +8620,7 @@
     },
     {
       "raw_hot": 664925,
-      "num": 424624,
+      "num": 593507,
       "word": "娜扎经纪人为接广告道歉",
       "onboard_time": 1691814459,
       "rank": 25,
@@ -10865,14 +10881,6 @@
       "onboard_time": 1690854936,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 553090,
-      "num": 553090,
-      "word": "封神第一部票房破19亿",
-      "onboard_time": 1691821056,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 552318,
@@ -13451,6 +13459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 447436,
+      "num": 447436,
+      "word": "左航蓝发",
+      "onboard_time": 1691822676,
+      "rank": 19,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 447422,
       "num": 274481,
       "word": "王一博包场孤注一掷",
@@ -13619,6 +13635,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 440690,
+      "num": 440690,
+      "word": "央视网文娱评封神第一部",
+      "onboard_time": 1691822736,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 440380,
       "num": 321908,
       "word": "腾讯视频9号开放日",
@@ -13649,6 +13673,14 @@
       "onboard_time": 1691511751,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 439016,
+      "num": 439016,
+      "word": "饭制版梅林殉情",
+      "onboard_time": 1691822855,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 438706,
@@ -14643,6 +14675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405436,
+      "num": 494924,
+      "word": "打篮球是最好的医美",
+      "onboard_time": 1691820998,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405378,
       "num": 329885,
       "word": "这是谁的防风邶",
@@ -15409,6 +15449,14 @@
       "onboard_time": 1691631272,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 385337,
+      "num": 314458,
+      "word": "张极蓝发",
+      "onboard_time": 1691822196,
+      "rank": 27,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 385051,
@@ -16251,6 +16299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 361904,
+      "num": 361904,
+      "word": "T1",
+      "onboard_time": 1691823456,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 361492,
       "num": 361492,
       "word": "Angelababy教贝克汉姆说中文",
@@ -16561,6 +16617,14 @@
       "onboard_time": 1691253870,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 353014,
+      "num": 311650,
+      "word": "69岁赵雅芝白娘子vs39岁赵雅芝白娘子",
+      "onboard_time": 1691822135,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 352889,
@@ -16992,6 +17056,14 @@
       "word": "新疆商户凌晨4点赶制2100份馕驰援涞水",
       "onboard_time": 1691418643,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341298,
+      "num": 341298,
+      "word": "考完驾照是不是不能骑电动车了",
+      "onboard_time": 1691822978,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -17753,6 +17825,14 @@
       "onboard_time": 1691497659,
       "rank": 43,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 319710,
+      "num": 319710,
+      "word": "一胎二胎孕反应一样吗",
+      "onboard_time": 1691820876,
+      "rank": 38,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 319587,
@@ -18859,14 +18939,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 296130,
-      "num": 296130,
-      "word": "打篮球是最好的医美",
-      "onboard_time": 1691820998,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 295842,
       "num": 295842,
       "word": "小夭戏弄涂山璟",
@@ -19091,6 +19163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291970,
+      "num": 291970,
+      "word": "苏新皓蓝发",
+      "onboard_time": 1691822318,
+      "rank": 30,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 291575,
       "num": 291575,
       "word": "河北暴雨救援",
@@ -19241,6 +19321,14 @@
       "onboard_time": 1691716174,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289342,
+      "num": 289342,
+      "word": "外卖小哥1分半拿黄子韬队一血",
+      "onboard_time": 1691821357,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 289331,
@@ -19545,6 +19633,14 @@
       "onboard_time": 1691034819,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 283636,
+      "num": 283636,
+      "word": "夏威夷",
+      "onboard_time": 1691822074,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283616,
@@ -23547,6 +23643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213244,
+      "num": 213244,
+      "word": "吴宣仪 打不倒我的只会让我越来越强大",
+      "onboard_time": 1691824055,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213196,
       "num": 213196,
       "word": "直击河北涿州大马村救援现场",
@@ -25355,6 +25459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194811,
+      "num": 223565,
+      "word": "天选倒霉蛋的一天",
+      "onboard_time": 1691823699,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194791,
       "num": 204081,
       "word": "凯恩 here we go",
@@ -25513,6 +25625,14 @@
       "onboard_time": 1691132674,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193155,
+      "num": 222670,
+      "word": "狗狗被蜜蜂蛰后嘴巴变翻盖了",
+      "onboard_time": 1691822615,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 193019,
@@ -25849,14 +25969,6 @@
       "onboard_time": 1691164840,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 190053,
-      "num": 220734,
-      "word": "一胎二胎孕反应一样吗",
-      "onboard_time": 1691820876,
-      "rank": 38,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 189957,
@@ -27721,6 +27833,14 @@
       "onboard_time": 1691017221,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 150545,
+      "num": 181297,
+      "word": "其实可以直接买个电脑防窥屏的",
+      "onboard_time": 1691824357,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 150491,
@@ -30036,7 +30156,7 @@
     },
     {
       "raw_hot": 36040,
-      "num": 196897,
+      "num": 735545,
       "word": "从七只到九千多只中国朱鹮保护成为世界范例",
       "onboard_time": 1691809896,
       "rank": 41,
@@ -30064,6 +30184,14 @@
       "word": "今天是第15个全民健身日",
       "onboard_time": 1691462974,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33683,
+      "num": 466004,
+      "word": "半个NBA都来淘宝了",
+      "onboard_time": 1691823636,
+      "rank": 14,
       "category": "体育"
     },
     {

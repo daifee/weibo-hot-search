@@ -1,0 +1,410 @@
+{
+  "runTime": 1691824418149,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1077191,
+        "num": 1077191,
+        "word": "妻子实名举报医生老公每年药品回扣十几万",
+        "onboard_time": 1691797709,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741555,
+        "num": 741555,
+        "word": "封神第一部票房破19亿",
+        "onboard_time": 1691821056,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35497,
+        "num": 735545,
+        "word": "从七只到九千多只中国朱鹮保护成为世界范例",
+        "onboard_time": 1691809896,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734745,
+        "num": 734745,
+        "word": "上了大学不给孩子买手机可以吗",
+        "onboard_time": 1691817877,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 641824,
+        "num": 641824,
+        "word": "离职是上班提还是下班提",
+        "onboard_time": 1691818721,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 593507,
+        "num": 593507,
+        "word": "娜扎经纪人为接广告道歉",
+        "onboard_time": 1691814459,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578581,
+        "num": 578581,
+        "word": "医生说曾黎顶多30岁",
+        "onboard_time": 1691802516,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537195,
+        "num": 537195,
+        "word": "因为做饭太多被妈妈数落了",
+        "onboard_time": 1691817997,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 501367,
+        "num": 501367,
+        "word": "孤注一掷 安娜",
+        "onboard_time": 1691819197,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405436,
+        "num": 494924,
+        "word": "打篮球是最好的医美",
+        "onboard_time": 1691820998,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2252378,
+        "num": 488757,
+        "word": "邓为大学没毕业",
+        "onboard_time": 1691821178,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1297036,
+        "num": 484044,
+        "word": "娜扎为什么接这种广告",
+        "onboard_time": 1691805516,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203197,
+        "num": 475361,
+        "word": "产妇给孩子取名中国人感谢援阿医疗队",
+        "onboard_time": 1691804675,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 129113,
+        "num": 470100,
+        "word": "邓亚萍辟谣",
+        "onboard_time": 1691814216,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33683,
+        "num": 466004,
+        "word": "半个NBA都来淘宝了",
+        "onboard_time": 1691823636,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 994980,
+        "num": 454918,
+        "word": "质疑 理解 成为",
+        "onboard_time": 1691814518,
+        "rank": 15,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 893870,
+        "num": 453658,
+        "word": "林凯回应撞脸肖战邓为",
+        "onboard_time": 1691820217,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448099,
+        "num": 448099,
+        "word": "哥 成钢他会改的",
+        "onboard_time": 1691811399,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 860857,
+        "num": 447958,
+        "word": "肖战怎么忍受单肩背带裤的",
+        "onboard_time": 1691823338,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447436,
+        "num": 447436,
+        "word": "左航蓝发",
+        "onboard_time": 1691822676,
+        "rank": 19,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 440690,
+        "num": 440690,
+        "word": "央视网文娱评封神第一部",
+        "onboard_time": 1691822736,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439016,
+        "num": 439016,
+        "word": "饭制版梅林殉情",
+        "onboard_time": 1691822855,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361904,
+        "num": 361904,
+        "word": "T1",
+        "onboard_time": 1691823456,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 341298,
+        "num": 341298,
+        "word": "考完驾照是不是不能骑电动车了",
+        "onboard_time": 1691822978,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319710,
+        "num": 319710,
+        "word": "一胎二胎孕反应一样吗",
+        "onboard_time": 1691820876,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 408241,
+        "num": 317863,
+        "word": "于适 巩俐",
+        "onboard_time": 1691817817,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56588,
+        "num": 317006,
+        "word": "人气旺起来消费火起来经济活起来",
+        "onboard_time": 1691810076,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385337,
+        "num": 314458,
+        "word": "张极蓝发",
+        "onboard_time": 1691822196,
+        "rank": 27,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 353014,
+        "num": 311650,
+        "word": "69岁赵雅芝白娘子vs39岁赵雅芝白娘子",
+        "onboard_time": 1691822135,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311355,
+        "num": 311355,
+        "word": "肾好不好睡一觉就知道了",
+        "onboard_time": 1691796025,
+        "rank": 29,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 291970,
+        "num": 291970,
+        "word": "苏新皓蓝发",
+        "onboard_time": 1691822318,
+        "rank": 30,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 289342,
+        "num": 289342,
+        "word": "外卖小哥1分半拿黄子韬队一血",
+        "onboard_time": 1691821357,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283855,
+        "num": 283855,
+        "word": "杨紫回应痛不郁生",
+        "onboard_time": 1691819436,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283636,
+        "num": 283636,
+        "word": "夏威夷",
+        "onboard_time": 1691822074,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266051,
+        "num": 266051,
+        "word": "消防员抓了只龙头鹿身的动物",
+        "onboard_time": 1691815539,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249663,
+        "num": 249663,
+        "word": "奶茶奶盖有多不健康",
+        "onboard_time": 1691812059,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 230244,
+        "num": 230244,
+        "word": "孤注一掷点映机制引争议",
+        "onboard_time": 1691818236,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225055,
+        "num": 225055,
+        "word": "李雪琴的北大真是没白上",
+        "onboard_time": 1691800894,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194811,
+        "num": 223565,
+        "word": "天选倒霉蛋的一天",
+        "onboard_time": 1691823699,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193155,
+        "num": 222670,
+        "word": "狗狗被蜜蜂蛰后嘴巴变翻盖了",
+        "onboard_time": 1691822615,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222428,
+        "num": 222428,
+        "word": "封神 诚意",
+        "onboard_time": 1691817637,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218970,
+        "num": 218970,
+        "word": "宋亚轩张真源贺峻霖加速之城合照",
+        "onboard_time": 1691820759,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213244,
+        "num": 213244,
+        "word": "吴宣仪 打不倒我的只会让我越来越强大",
+        "onboard_time": 1691824055,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213234,
+        "num": 213234,
+        "word": "张晚意仪态",
+        "onboard_time": 1691819316,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185498,
+        "num": 185498,
+        "word": "罗翔 真正的爱是扶级而上的",
+        "onboard_time": 1691812597,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210278,
+        "num": 185105,
+        "word": "原著小夭成为王母",
+        "onboard_time": 1691815721,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151649,
+        "num": 182384,
+        "word": "上海129元的自助餐",
+        "onboard_time": 1691813317,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150545,
+        "num": 181297,
+        "word": "其实可以直接买个电脑防窥屏的",
+        "onboard_time": 1691824357,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148478,
+        "num": 178735,
+        "word": "宿舍用了9000度电是什么体验",
+        "onboard_time": 1691806475,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144456,
+        "num": 177540,
+        "word": "被男子骗至家中杀害奸尸女子家属发声",
+        "onboard_time": 1691798371,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路大道同行#"
+    }
+  }
+}
