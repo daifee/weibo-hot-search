@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691825627632,
+  "endTime": 1691828330981,
   "band_list": [
     {
       "raw_hot": 2459545,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2252378,
-      "num": 488757,
+      "num": 532486,
       "word": "邓为大学没毕业",
       "onboard_time": 1691821178,
       "rank": 11,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1380938,
+      "num": 1380938,
+      "word": "刘天池爆料质子团选拔",
+      "onboard_time": 1691825676,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1352754,
       "num": 534415,
       "word": "吴宣仪希望衣服尺码再小一点",
@@ -89,6 +97,14 @@
       "onboard_time": 1691759077,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1322760,
+      "num": 1322760,
+      "word": "缅甸旅游业苦等中国游客重返",
+      "onboard_time": 1691826096,
+      "rank": 1,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1301834,
@@ -171,6 +187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 982125,
+      "num": 982125,
+      "word": "官方通报深圳南山医院医生刘某被举报",
+      "onboard_time": 1691826874,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904769,
       "num": 904769,
       "word": "上了大学不给孩子买手机可以吗",
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 886662,
-      "num": 417751,
+      "num": 517957,
       "word": "吴宣仪 打不倒我的只会让我越来越强大",
       "onboard_time": 1691824055,
       "rank": 42,
@@ -201,6 +225,14 @@
       "onboard_time": 1691797829,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 880678,
+      "num": 880678,
+      "word": "张艺兴突然哭了",
+      "onboard_time": 1691825919,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 837523,
@@ -283,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 691687,
+      "num": 691687,
+      "word": "杨紫选剧本",
+      "onboard_time": 1691826517,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 688253,
       "num": 688253,
       "word": "央视网文娱评长月烬明",
@@ -321,6 +361,14 @@
       "onboard_time": 1691814459,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 659602,
+      "num": 659602,
+      "word": "考完驾照是不是不能骑电动车了",
+      "onboard_time": 1691822978,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 650041,
@@ -377,6 +425,14 @@
       "onboard_time": 1691768501,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 582681,
+      "num": 521740,
+      "word": "胡锡进 湘雅三医院在发生什么",
+      "onboard_time": 1691825733,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580015,
@@ -555,6 +611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 456788,
+      "num": 353110,
+      "word": "新地球",
+      "onboard_time": 1691827178,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 456731,
       "num": 456731,
       "word": "罗云熙好会挑剧本",
@@ -569,14 +633,6 @@
       "onboard_time": 1691813678,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 452639,
-      "num": 416988,
-      "word": "考完驾照是不是不能骑电动车了",
-      "onboard_time": 1691822978,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447436,
@@ -683,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 411401,
+      "num": 333266,
+      "word": "檀健次把耳钉焊在耳朵上吧",
+      "onboard_time": 1691825974,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405737,
       "num": 405737,
       "word": "杨紫回应痛不郁生",
@@ -737,6 +801,14 @@
       "onboard_time": 1691767838,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 387571,
+      "num": 387571,
+      "word": "WB",
+      "onboard_time": 1691825856,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 386782,
@@ -881,6 +953,22 @@
       "onboard_time": 1691753196,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355581,
+      "num": 249874,
+      "word": "玱玹丰隆穷疯了",
+      "onboard_time": 1691827895,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 354808,
+      "num": 228118,
+      "word": "杨紫檀健次都没听过邓为唱歌",
+      "onboard_time": 1691826215,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 353014,
@@ -1363,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217589,
+      "num": 228088,
+      "word": "萌兰打小就乐于助熊",
+      "onboard_time": 1691827656,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216654,
       "num": 216654,
       "word": "TF三代演唱会全员蓝发",
@@ -1403,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211323,
+      "num": 203291,
+      "word": "李相夷没死成毅快社死了",
+      "onboard_time": 1691828075,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211290,
       "num": 211290,
       "word": "莲花楼的卧龙凤雏",
@@ -1417,6 +1521,14 @@
       "onboard_time": 1691786775,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207379,
+      "num": 207379,
+      "word": "当你开始为工作而花钱以后",
+      "onboard_time": 1691827595,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 207087,
@@ -1481,6 +1593,14 @@
       "onboard_time": 1691810796,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198918,
+      "num": 198918,
+      "word": "佛山DRG八连胜",
+      "onboard_time": 1691827357,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 197646,
@@ -1651,6 +1771,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 155667,
+      "num": 155667,
+      "word": "清润无感防晒推荐",
+      "onboard_time": 1691827056,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 155031,
       "num": 155031,
       "word": "大张伟终于想起来自己是歌手了",
@@ -1675,12 +1803,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154037,
+      "num": 154037,
+      "word": "男子回应汽车爆燃前拉出昏迷司机",
+      "onboard_time": 1691828196,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152734,
       "num": 152734,
       "word": "男子买完可乐回去路上顺手救人",
       "onboard_time": 1691810440,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 151445,
+      "num": 151445,
+      "word": "长相思是真听劝",
+      "onboard_time": 1691828318,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 146591,
@@ -1763,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128005,
+      "num": 992222,
+      "word": "从七只到九千多只中国朱鹮保护成为世界范例",
+      "onboard_time": 1691809896,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126737,
       "num": 132863,
       "word": "请大胆地去浪费时间",
@@ -1825,14 +1977,6 @@
       "onboard_time": 1691774246,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 97582,
-      "num": 735545,
-      "word": "从七只到九千多只中国朱鹮保护成为世界范例",
-      "onboard_time": 1691809896,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91232,
