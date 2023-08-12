@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691874774537,
+  "endTime": 1691876018304,
   "band_list": [
     {
       "raw_hot": 1680984,
@@ -576,6 +576,14 @@
       "word": "退伍老兵敬礼送别抗洪官兵",
       "onboard_time": 1691845122,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16247,
+      "num": 22767,
+      "word": "减灾避险实用安全指南",
+      "onboard_time": 1691829818,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
