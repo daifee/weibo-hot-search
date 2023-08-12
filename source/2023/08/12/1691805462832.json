@@ -1,0 +1,410 @@
+{
+  "runTime": 1691805462832,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1609680,
+        "num": 1609680,
+        "word": "妻子实名举报医生老公每年药品回扣十几万",
+        "onboard_time": 1691797709,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844851,
+        "num": 844851,
+        "word": "我好像删到电脑的大动脉了",
+        "onboard_time": 1691796205,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68536,
+        "num": 843739,
+        "word": "洪水来临时哪些地方是危险地带",
+        "onboard_time": 1691761000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2209710,
+        "num": 841689,
+        "word": "医生说曾黎顶多30岁",
+        "onboard_time": 1691802516,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2002216,
+        "num": 841073,
+        "word": "李雪琴的北大真是没白上",
+        "onboard_time": 1691800894,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1044145,
+        "num": 839128,
+        "word": "肾好不好睡一觉就知道了",
+        "onboard_time": 1691796025,
+        "rank": 5,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 837523,
+        "num": 837523,
+        "word": "杨紫成毅迪丽热巴肖战曾舜晞檀健次V榜破9",
+        "onboard_time": 1691802757,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 820329,
+        "num": 820329,
+        "word": "那英 你不吹牛能死吗",
+        "onboard_time": 1691797113,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 672226,
+        "num": 672226,
+        "word": "家庭自卑就是这样来的",
+        "onboard_time": 1691800113,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375298,
+        "num": 597292,
+        "word": "医院院长贪腐将成捆的现金提回家",
+        "onboard_time": 1691797829,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895584,
+        "num": 594442,
+        "word": "被男子骗至家中杀害奸尸女子家属发声",
+        "onboard_time": 1691798371,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579473,
+        "num": 579473,
+        "word": "霸王茶姬",
+        "onboard_time": 1691795001,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 569608,
+        "num": 569608,
+        "word": "鹿晗时隔六年再发星期五",
+        "onboard_time": 1691797829,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349286,
+        "num": 479676,
+        "word": "西安秦岭山洪已造成2死16失联",
+        "onboard_time": 1691801733,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305534,
+        "num": 474068,
+        "word": "盒马山姆商战杀疯了",
+        "onboard_time": 1691763820,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 472247,
+        "num": 472247,
+        "word": "小夭梅林遭杀害三个男人的表情",
+        "onboard_time": 1691801497,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425523,
+        "num": 425523,
+        "word": "吴宣仪希望衣服尺码再小一点",
+        "onboard_time": 1691767239,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396280,
+        "num": 396280,
+        "word": "吴倩聊坐月子细节",
+        "onboard_time": 1691795602,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365090,
+        "num": 365090,
+        "word": "张艺兴说粉丝迟早会走",
+        "onboard_time": 1691798011,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 359155,
+        "num": 359155,
+        "word": "梅西让点",
+        "onboard_time": 1691804375,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487873,
+        "num": 356227,
+        "word": "妈妈把我的衣服给狗穿了",
+        "onboard_time": 1691803959,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281172,
+        "num": 281172,
+        "word": "长相思小夭梅林分轨文件违规",
+        "onboard_time": 1691804436,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279809,
+        "num": 279809,
+        "word": "00年带98年的实习生",
+        "onboard_time": 1691767180,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278190,
+        "num": 278190,
+        "word": "婚礼前分手男方要求女方退还八宝粥",
+        "onboard_time": 1691798371,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 271055,
+        "num": 271055,
+        "word": "第一次见鞠婧祎表情管理失败",
+        "onboard_time": 1691796325,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257340,
+        "num": 257340,
+        "word": "被杨紫的这段采访激励到了",
+        "onboard_time": 1691801852,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252208,
+        "num": 252208,
+        "word": "Ella晒SHE合影",
+        "onboard_time": 1691799272,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249924,
+        "num": 249924,
+        "word": "疑李玟生前与二姐争吵音频曝光",
+        "onboard_time": 1691759077,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248271,
+        "num": 248271,
+        "word": "莲花楼即将上星央1",
+        "onboard_time": 1691796686,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233082,
+        "num": 233082,
+        "word": "产妇给孩子取名中国人感谢援阿医疗队",
+        "onboard_time": 1691804675,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 246142,
+        "num": 231009,
+        "word": "刘宪华就差报潘玮柏身份证了",
+        "onboard_time": 1691799875,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244536,
+        "num": 231009,
+        "word": "一台售价33万美元的房车值不值",
+        "onboard_time": 1691803176,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240575,
+        "num": 226791,
+        "word": "程潇妈妈得了乳腺癌",
+        "onboard_time": 1691764541,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221072,
+        "num": 221072,
+        "word": "官方答医院不听从孕妇堕胎意愿相关",
+        "onboard_time": 1691802456,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224065,
+        "num": 219161,
+        "word": "赵露思迪士尼游玩背影照",
+        "onboard_time": 1691799332,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188659,
+        "num": 188659,
+        "word": "原来萌兰小时候就帮熊越狱",
+        "onboard_time": 1691800415,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187395,
+        "num": 187395,
+        "word": "一年级的家长你们还好吗",
+        "onboard_time": 1691799633,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 178244,
+        "num": 178244,
+        "word": "梅西球童是贝克汉姆女儿",
+        "onboard_time": 1691805275,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169389,
+        "num": 169389,
+        "word": "吴昕大侦探不是白去的",
+        "onboard_time": 1691796505,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159498,
+        "num": 159498,
+        "word": "肖顺尧跳了queencard",
+        "onboard_time": 1691799452,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158325,
+        "num": 158325,
+        "word": "岳云鹏说信号不好不给师父报备了",
+        "onboard_time": 1691802937,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158300,
+        "num": 158300,
+        "word": "卡努已在辽宁庄河沿海登陆",
+        "onboard_time": 1691798611,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157684,
+        "num": 157684,
+        "word": "杨超越哭着读信",
+        "onboard_time": 1691802336,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154868,
+        "num": 154868,
+        "word": "当狗狗想吃蛋糕时的反应",
+        "onboard_time": 1691803959,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154687,
+        "num": 154687,
+        "word": "山东的山指的是哪座山",
+        "onboard_time": 1691797468,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152325,
+        "num": 152325,
+        "word": "莲花楼的卧龙凤雏",
+        "onboard_time": 1691798851,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148986,
+        "num": 148986,
+        "word": "凌晨收摊烧烤摊主用洗衣粉给地面去油",
+        "onboard_time": 1691795542,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148283,
+        "num": 148283,
+        "word": "被于正说像梁朝伟的新人演员生图",
+        "onboard_time": 1691784194,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146510,
+        "num": 146510,
+        "word": "成毅跳queencard 认真中带着幽默",
+        "onboard_time": 1691759497,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136844,
+        "num": 143465,
+        "word": "这辆电瓶车是叫淑慧吗",
+        "onboard_time": 1691802997,
+        "rank": 49,
+        "category": "幽默,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路大道同行#"
+    }
+  }
+}
