@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691844209993,
+  "endTime": 1691846205268,
   "band_list": [
     {
       "raw_hot": 2892097,
@@ -83,6 +83,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1884005,
+      "num": 1884005,
+      "word": "杨紫这次选择了相柳",
+      "onboard_time": 1691844880,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1716973,
       "num": 1716973,
       "word": "刘浩存把丁程鑫撩到耳朵都红了",
@@ -105,6 +113,14 @@
       "onboard_time": 1691839057,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1518895,
+      "num": 1518895,
+      "word": "去西藏玩不要戴空顶遮阳帽",
+      "onboard_time": 1691841516,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 1469849,
@@ -267,6 +283,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1066492,
+      "num": 1066492,
+      "word": "蝉女",
+      "onboard_time": 1691845362,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1047204,
+      "num": 1047204,
+      "word": "25岁86个好友什么水平",
+      "onboard_time": 1691844160,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 982125,
       "num": 982125,
       "word": "官方通报深圳南山医院医生刘某被举报",
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 945351,
-      "num": 396517,
+      "num": 413222,
       "word": "奶奶把头发塞进男童鼻腔止血致休克",
       "onboard_time": 1691830897,
       "rank": 30,
@@ -323,19 +355,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 875276,
-      "num": 875276,
-      "word": "去西藏玩不要戴空顶遮阳帽",
-      "onboard_time": 1691841516,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 847108,
       "num": 847108,
       "word": "原著中救了小夭的是小夭",
       "onboard_time": 1691835699,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 845168,
+      "num": 845168,
+      "word": "纹身店 银饰店",
+      "onboard_time": 1691844039,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -361,6 +393,14 @@
       "onboard_time": 1691767180,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 777439,
+      "num": 777439,
+      "word": "魏大勋去看了张杰演唱会",
+      "onboard_time": 1691844456,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 773020,
@@ -419,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 744570,
+      "num": 744570,
+      "word": "难怪我结不了婚",
+      "onboard_time": 1691844279,
+      "rank": 12,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 737430,
       "num": 659864,
       "word": "内娱骨相皮相都优越的明星",
@@ -452,7 +500,7 @@
     },
     {
       "raw_hot": 710916,
-      "num": 274634,
+      "num": 415884,
       "word": "女儿腺样体肥大父母拒手术13岁身高仅133",
       "onboard_time": 1691840919,
       "rank": 20,
@@ -489,6 +537,14 @@
       "onboard_time": 1691761181,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 682930,
+      "num": 682930,
+      "word": "刘浩存hi6",
+      "onboard_time": 1691844219,
+      "rank": 16,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 679685,
@@ -561,6 +617,14 @@
       "onboard_time": 1691819197,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 645382,
+      "num": 645382,
+      "word": "薛之谦许嵩",
+      "onboard_time": 1691845962,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 643829,
@@ -681,6 +745,14 @@
       "onboard_time": 1691834918,
       "rank": 19,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 567112,
+      "num": 415712,
+      "word": "谭松韵蓝色抹胸花朵裙",
+      "onboard_time": 1691844880,
+      "rank": 21,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 554534,
@@ -908,7 +980,7 @@
     },
     {
       "raw_hot": 447935,
-      "num": 369192,
+      "num": 379242,
       "word": "欧阳娜娜背影臀腰比",
       "onboard_time": 1691832097,
       "rank": 21,
@@ -928,6 +1000,14 @@
       "word": "央视网文娱评封神第一部",
       "onboard_time": 1691822736,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 437927,
+      "num": 413971,
+      "word": "成毅还有3部待播剧",
+      "onboard_time": 1691844160,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1139,6 +1219,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382413,
+      "num": 382413,
+      "word": "成毅长在曾舜晞的笑点上",
+      "onboard_time": 1691845362,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 381134,
+      "num": 381134,
+      "word": "喻言天津",
+      "onboard_time": 1691845720,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380768,
       "num": 380768,
       "word": "Ella晒SHE合影",
@@ -1283,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356010,
+      "num": 204774,
+      "word": "张艺兴演唱会巨型裸眼3D",
+      "onboard_time": 1691843619,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 354808,
       "num": 228118,
       "word": "杨紫檀健次都没听过邓为唱歌",
@@ -1337,6 +1441,14 @@
       "onboard_time": 1691757696,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 347547,
+      "num": 196859,
+      "word": "刘宇宁进组蝉女",
+      "onboard_time": 1691843562,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 342799,
@@ -1419,12 +1531,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325956,
+      "num": 191176,
+      "word": "长相思男主爆红后综艺首秀",
+      "onboard_time": 1691845962,
+      "rank": 40,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 321998,
       "num": 265187,
       "word": "其实可以直接买个电脑防窥屏的",
       "onboard_time": 1691824357,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 321145,
+      "num": 766234,
+      "word": "陕西医疗反腐已处理937人",
+      "onboard_time": 1691843983,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319710,
@@ -1611,14 +1739,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 276158,
-      "num": 276158,
-      "word": "25岁86个好友什么水平",
-      "onboard_time": 1691844160,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273916,
       "num": 273584,
       "word": "赵露思迪士尼游玩背影照",
@@ -1675,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265003,
+      "num": 737552,
+      "word": "这7人在被困列车上成立了临时党支部",
+      "onboard_time": 1691843014,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262087,
       "num": 251799,
       "word": "全员加速中",
@@ -1697,6 +1825,14 @@
       "onboard_time": 1691833295,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 257423,
+      "num": 190894,
+      "word": "张杰深圳演唱长相思主题曲",
+      "onboard_time": 1691845841,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 255523,
@@ -1812,7 +1948,7 @@
     },
     {
       "raw_hot": 239426,
-      "num": 577185,
+      "num": 734013,
       "word": "一对双胞胎展示同款举手睡姿",
       "onboard_time": 1691838637,
       "rank": 48,
@@ -1825,14 +1961,6 @@
       "onboard_time": 1691734657,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238253,
-      "num": 185091,
-      "word": "张艺兴演唱会巨型裸眼3D",
-      "onboard_time": 1691843619,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 236872,
@@ -1849,6 +1977,14 @@
       "onboard_time": 1691833177,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236397,
+      "num": 236397,
+      "word": "AG",
+      "onboard_time": 1691843858,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 235892,
@@ -1929,14 +2065,6 @@
       "onboard_time": 1691749716,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228729,
-      "num": 472863,
-      "word": "这7人在被困列车上成立了临时党支部",
-      "onboard_time": 1691843014,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226882,
@@ -2035,6 +2163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220373,
+      "num": 220373,
+      "word": "现实版盗墓笔记",
+      "onboard_time": 1691845362,
+      "rank": 32,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 218578,
       "num": 178369,
       "word": "杨超越哭着读信",
@@ -2081,14 +2217,6 @@
       "onboard_time": 1691811756,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215290,
-      "num": 178294,
-      "word": "成毅还有3部待播剧",
-      "onboard_time": 1691844160,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 214630,
@@ -2163,12 +2291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206204,
-      "num": 206204,
-      "word": "AG",
-      "onboard_time": 1691843858,
+      "raw_hot": 207039,
+      "num": 210390,
+      "word": "小时候羡慕在高楼大厦工作的人",
+      "onboard_time": 1691845479,
       "rank": 33,
-      "category": "游戏"
+      "category": "情感"
     },
     {
       "raw_hot": 205817,
@@ -2185,14 +2313,6 @@
       "onboard_time": 1691734176,
       "rank": 34,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 204019,
-      "num": 176385,
-      "word": "纹身店 银饰店",
-      "onboard_time": 1691844039,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 203995,
@@ -2347,6 +2467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193329,
+      "num": 193329,
+      "word": "AG对战狼队",
+      "onboard_time": 1691845720,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193155,
       "num": 222670,
       "word": "狗狗被蜜蜂蛰后嘴巴变翻盖了",
@@ -2385,6 +2513,14 @@
       "onboard_time": 1691760465,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191236,
+      "num": 191236,
+      "word": "贵州荔波旅游",
+      "onboard_time": 1691845060,
+      "rank": 39,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 189537,
@@ -2497,6 +2633,14 @@
       "onboard_time": 1691776161,
       "rank": 6,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 166873,
+      "num": 190404,
+      "word": "原来这张表情包是喜羊羊遗照",
+      "onboard_time": 1691846080,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 162441,
@@ -2656,14 +2800,6 @@
       "word": "女子吃2口汉堡赶高铁过敏险休克",
       "onboard_time": 1691781797,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131428,
-      "num": 176069,
-      "word": "陕西医疗反腐已处理937人",
-      "onboard_time": 1691843983,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2833,6 +2969,14 @@
       "onboard_time": 1691820038,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41424,
+      "num": 1521002,
+      "word": "琵琶与古诗词邂逅有多浪漫",
+      "onboard_time": 1691845241,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2847,6 +2991,9 @@
     },
     {
       "word": "#回望二万五千里长征路#"
+    },
+    {
+      "word": "#致敬闻汛而动的你#"
     }
   ]
 }
