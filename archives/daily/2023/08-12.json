@@ -1,6 +1,6 @@
 {
   "startTime": 1691770758464,
-  "endTime": 1691840019341,
+  "endTime": 1691843286581,
   "band_list": [
     {
       "raw_hot": 2892097,
@@ -25,6 +25,14 @@
       "onboard_time": 1691826096,
       "rank": 1,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 2272667,
+      "num": 1169861,
+      "word": "这样查下去医院会不会瘫痪",
+      "onboard_time": 1691838637,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2252378,
@@ -89,6 +97,14 @@
       "onboard_time": 1691806475,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1562331,
+      "num": 1562331,
+      "word": "各大医院书记院长被抓后痛哭流涕",
+      "onboard_time": 1691839057,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1469849,
@@ -171,12 +187,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1206086,
+      "num": 1113687,
+      "word": "孟美岐挑战安崎输了",
+      "onboard_time": 1691838219,
+      "rank": 22,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1205054,
+      "num": 1205054,
+      "word": "白日梦我原著党两眼一黑",
+      "onboard_time": 1691838580,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1176388,
       "num": 1176388,
       "word": "我好像删到电脑的大动脉了",
       "onboard_time": 1691796205,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1169165,
+      "num": 1169165,
+      "word": "黄子韬怎么一直惹徐艺洋生气",
+      "onboard_time": 1691841460,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1155091,
@@ -193,14 +233,6 @@
       "onboard_time": 1691768138,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1113687,
-      "num": 1113687,
-      "word": "孟美岐挑战安崎输了",
-      "onboard_time": 1691838219,
-      "rank": 22,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 1110222,
@@ -323,22 +355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 794475,
-      "num": 794475,
-      "word": "白日梦我原著党两眼一黑",
-      "onboard_time": 1691838580,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 778353,
-      "num": 778353,
-      "word": "这样查下去医院会不会瘫痪",
-      "onboard_time": 1691838637,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 773020,
       "num": 773020,
       "word": "奶茶奶盖有多不健康",
@@ -425,6 +441,14 @@
       "onboard_time": 1691835157,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 710916,
+      "num": 264301,
+      "word": "女儿腺样体肥大父母拒手术13岁身高仅133",
+      "onboard_time": 1691840919,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710421,
@@ -523,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 639979,
+      "num": 379856,
+      "word": "去西藏玩不要戴空顶遮阳帽",
+      "onboard_time": 1691841516,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 631703,
       "num": 631703,
       "word": "六公主说王一博像一个宝藏",
@@ -545,6 +577,14 @@
       "onboard_time": 1691811399,
       "rank": 12,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 614751,
+      "num": 614751,
+      "word": "我的工资是这样组成的",
+      "onboard_time": 1691839359,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 611574,
@@ -755,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 488289,
+      "num": 488289,
+      "word": "小夭让相柳拿镜子照照自己",
+      "onboard_time": 1691839299,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 487873,
       "num": 356227,
       "word": "妈妈把我的衣服给狗穿了",
@@ -897,14 +945,6 @@
       "onboard_time": 1691813317,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 434489,
-      "num": 434489,
-      "word": "各大医院书记院长被抓后痛哭流涕",
-      "onboard_time": 1691839057,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432841,
@@ -1147,6 +1187,14 @@
       "category": "音乐,综艺"
     },
     {
+      "raw_hot": 369875,
+      "num": 369875,
+      "word": "华晨宇说LGD目标是总冠军",
+      "onboard_time": 1691838337,
+      "rank": 36,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 367740,
       "num": 351127,
       "word": "2023下半年待播剧",
@@ -1275,6 +1323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 342799,
+      "num": 259933,
+      "word": "王一博一年三部电影都破8亿",
+      "onboard_time": 1691840679,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337660,
       "num": 267611,
       "word": "相柳的救兵来了",
@@ -1299,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330497,
+      "num": 248409,
+      "word": "我二十多岁的时候一脚踹不出屁来",
+      "onboard_time": 1691841099,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329854,
       "num": 404479,
       "word": "卡努已在辽宁庄河沿海登陆",
@@ -1313,6 +1377,14 @@
       "onboard_time": 1691836538,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329486,
+      "num": 228286,
+      "word": "宋亚轩刘耀文大哥式逛街",
+      "onboard_time": 1691841639,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 329462,
@@ -1363,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315808,
+      "num": 225414,
+      "word": "祝绪丹慕瑶造型",
+      "onboard_time": 1691841879,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315798,
       "num": 249189,
       "word": "当你开始为工作而花钱以后",
@@ -1375,14 +1455,6 @@
       "num": 294839,
       "word": "景甜新剧因为秋裤认出冯绍峰",
       "onboard_time": 1691816435,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 313799,
-      "num": 306053,
-      "word": "小夭让相柳拿镜子照照自己",
-      "onboard_time": 1691839299,
       "rank": 30,
       "category": "影视"
     },
@@ -1491,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281809,
+      "num": 195288,
+      "word": "阮经天工作室称老板人没事",
+      "onboard_time": 1691843202,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280712,
       "num": 264235,
       "word": "相柳 一个狗啃过的碗",
@@ -1569,14 +1649,6 @@
       "onboard_time": 1691830715,
       "rank": 32,
       "category": "音乐,时尚"
-    },
-    {
-      "raw_hot": 265221,
-      "num": 265221,
-      "word": "我的工资是这样组成的",
-      "onboard_time": 1691839359,
-      "rank": 35,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 262087,
@@ -1707,6 +1779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239426,
+      "num": 577185,
+      "word": "一对双胞胎展示同款举手睡姿",
+      "onboard_time": 1691838637,
+      "rank": 48,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 239009,
       "num": 377671,
       "word": "女工程师为出轨对象成为间谍17年",
@@ -1763,14 +1843,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 231556,
-      "num": 577185,
-      "word": "一对双胞胎展示同款举手睡姿",
-      "onboard_time": 1691838637,
-      "rank": 48,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 231269,
       "num": 231269,
       "word": "赵丽颖南京线下活动取消",
@@ -1795,12 +1867,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 229530,
-      "num": 307359,
-      "word": "华晨宇说LGD目标是总冠军",
-      "onboard_time": 1691838337,
-      "rank": 36,
-      "category": "游戏,艺人"
+      "raw_hot": 229917,
+      "num": 171252,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1691839119,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 229178,
@@ -1889,6 +1961,14 @@
       "onboard_time": 1691799452,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221145,
+      "num": 184166,
+      "word": "胡锡进 刘宇轩是谁",
+      "onboard_time": 1691842235,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220652,
@@ -2009,6 +2089,14 @@
       "onboard_time": 1691766882,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206750,
+      "num": 206750,
+      "word": "猫德学院大战狮子猫",
+      "onboard_time": 1691842780,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 205817,
@@ -2259,12 +2347,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182722,
+      "num": 182722,
+      "word": "郑州婆媳相处好真实",
+      "onboard_time": 1691840979,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180330,
       "num": 180330,
       "word": "湖南一企业带100万食品跨8省援吉抗汛",
       "onboard_time": 1691808215,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 174101,
+      "num": 174101,
+      "word": "这7人在被困列车上成立了临时党支部",
+      "onboard_time": 1691843014,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173792,
@@ -2289,6 +2393,14 @@
       "onboard_time": 1691800595,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171651,
+      "num": 171651,
+      "word": "吵架的时候不要随便用手指人",
+      "onboard_time": 1691839719,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 170706,
@@ -2395,6 +2507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149761,
+      "num": 169048,
+      "word": "小伙一脚刹车为摔倒女子挡住水流",
+      "onboard_time": 1691842780,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149615,
       "num": 164162,
       "word": "海洋里也有硬通货",
@@ -2441,6 +2561,14 @@
       "onboard_time": 1691810076,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136067,
+      "num": 168181,
+      "word": "英仙座流星雨",
+      "onboard_time": 1691843202,
+      "rank": 47,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 134746,
@@ -2505,6 +2633,14 @@
       "onboard_time": 1691794940,
       "rank": 29,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 124465,
+      "num": 167379,
+      "word": "DRG锁定胜者组",
+      "onboard_time": 1691841460,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 122386,
