@@ -1,0 +1,410 @@
+{
+  "runTime": 1691958821286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 304955,
+        "num": 304955,
+        "word": "熬夜熬的是甲状腺寿命",
+        "onboard_time": 1691938060,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85082,
+        "num": 85082,
+        "word": "内马尔",
+        "onboard_time": 1691952075,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9486,
+        "num": 84031,
+        "word": "巧妙散热让博物馆的热度细水长流",
+        "onboard_time": 1691934401,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85158,
+        "num": 83936,
+        "word": "BLACKPINK疑似又有人划水",
+        "onboard_time": 1691940400,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83482,
+        "num": 83482,
+        "word": "EDG",
+        "onboard_time": 1691954416,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71889,
+        "num": 71889,
+        "word": "F人和T人的区别",
+        "onboard_time": 1691954235,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65888,
+        "num": 65888,
+        "word": "8岁娃踢个易拉罐赔了18万",
+        "onboard_time": 1691939981,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64622,
+        "num": 64622,
+        "word": "云南地震",
+        "onboard_time": 1691932057,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64309,
+        "num": 64309,
+        "word": "孤注一掷票房断层第一",
+        "onboard_time": 1691937880,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55689,
+        "num": 55689,
+        "word": "六公主为什么如此关注封神",
+        "onboard_time": 1691939499,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77069,
+        "num": 55282,
+        "word": "三里屯太古里回应北区女生被偷拍",
+        "onboard_time": 1691932181,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 49636,
+        "num": 49636,
+        "word": "丽水一无人售瓜摊1天收入2000多元",
+        "onboard_time": 1691945429,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 42893,
+        "num": 42893,
+        "word": "大爷拿500枚1角硬币充值小姐姐12分钟清点完",
+        "onboard_time": 1691939499,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38781,
+        "num": 38781,
+        "word": "中国大妈翻章鱼小丸子手艺震惊日本",
+        "onboard_time": 1691930675,
+        "rank": 13,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 31432,
+        "num": 36794,
+        "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
+        "onboard_time": 1691918615,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36197,
+        "num": 36197,
+        "word": "Jennie演唱会扶栏杆差点摔下去",
+        "onboard_time": 1691948480,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34464,
+        "num": 34464,
+        "word": "吃完的荔枝核不要扔",
+        "onboard_time": 1691937341,
+        "rank": 16,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 33158,
+        "num": 33158,
+        "word": "榴莲内衣",
+        "onboard_time": 1691935543,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29792,
+        "num": 29792,
+        "word": "六公主马上去问杨玏了",
+        "onboard_time": 1691940160,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29326,
+        "num": 29326,
+        "word": "孙阳妈妈说儿子演得太坏了",
+        "onboard_time": 1691937341,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41906,
+        "num": 29031,
+        "word": "真有人会忙到一天不回消息吗",
+        "onboard_time": 1691940039,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 40371,
+        "num": 28794,
+        "word": "一个人住真的很爽",
+        "onboard_time": 1691935361,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26958,
+        "num": 26958,
+        "word": "杨紫羊了个羊通关后的反应",
+        "onboard_time": 1691922157,
+        "rank": 22,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 26598,
+        "num": 26598,
+        "word": "于适回应票房过20亿表演龙吸水",
+        "onboard_time": 1691943453,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26269,
+        "num": 26269,
+        "word": "沈腾问范丞丞的脸是靠打针吗",
+        "onboard_time": 1691929118,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26123,
+        "num": 26123,
+        "word": "如果你有个很少谈恋爱的朋友",
+        "onboard_time": 1691938122,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 25338,
+        "num": 25338,
+        "word": "邓为的厦门vlog",
+        "onboard_time": 1691939680,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24803,
+        "num": 24803,
+        "word": "杨玏曾说自己是北京四大名菜",
+        "onboard_time": 1691935903,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24321,
+        "num": 24321,
+        "word": "洛阳市中心医院一住院患者坠楼死亡",
+        "onboard_time": 1691935601,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24288,
+        "num": 24288,
+        "word": "周扬青蝴蝶吊带",
+        "onboard_time": 1691951237,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 73729,
+        "num": 24239,
+        "word": "杨超越账号被卡无法上线",
+        "onboard_time": 1691956395,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24092,
+        "num": 24092,
+        "word": "爷爷带着花花回家了",
+        "onboard_time": 1691935119,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 23890,
+        "num": 23890,
+        "word": "谢娜 大勋沉浸式大合唱他不懂",
+        "onboard_time": 1691932057,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23048,
+        "num": 23048,
+        "word": "檀健次一句话我掉三滴泪",
+        "onboard_time": 1691928815,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22210,
+        "num": 22210,
+        "word": "熊猫崽崽挺着小肚皮扶墙行走",
+        "onboard_time": 1691945966,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22194,
+        "num": 22194,
+        "word": "易梦玲仪态",
+        "onboard_time": 1691926656,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22138,
+        "num": 22138,
+        "word": "十年没有涨价的东西有什么",
+        "onboard_time": 1691922877,
+        "rank": 36,
+        "category": "情感,财经"
+      },
+      {
+        "raw_hot": 20900,
+        "num": 20900,
+        "word": "丁禹兮杨超越住一个小区",
+        "onboard_time": 1691937401,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20705,
+        "num": 20705,
+        "word": "中国男篮vs新西兰男篮",
+        "onboard_time": 1691936678,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20138,
+        "num": 20138,
+        "word": "没钱花和上班哪个更痛苦",
+        "onboard_time": 1691939141,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20075,
+        "num": 20075,
+        "word": "李凯尔",
+        "onboard_time": 1691941359,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19092,
+        "num": 19092,
+        "word": "王倦",
+        "onboard_time": 1691935722,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18890,
+        "num": 18890,
+        "word": "鹿晗系鞋带顺便飙了个高音",
+        "onboard_time": 1691944529,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18722,
+        "num": 18722,
+        "word": "谢娜魏大勋什么时候一起录节目",
+        "onboard_time": 1691931577,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18423,
+        "num": 18423,
+        "word": "杨超越是住山上吗",
+        "onboard_time": 1691943869,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17935,
+        "num": 17935,
+        "word": "就知道李莲花没死",
+        "onboard_time": 1691931337,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17851,
+        "num": 17851,
+        "word": "黄曦彦 大宋少年志",
+        "onboard_time": 1691939320,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17816,
+        "num": 17816,
+        "word": "韩雪打卡全球第一的冰淇淋店",
+        "onboard_time": 1691948061,
+        "rank": 47,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 17724,
+        "num": 17724,
+        "word": "汪苏泷 凤凰传奇",
+        "onboard_time": 1691934161,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14900,
+        "num": 17718,
+        "word": "切尔西",
+        "onboard_time": 1691940338,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国陆地探测四号01星发射成功#"
+    }
+  }
+}
