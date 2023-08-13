@@ -1,0 +1,410 @@
+{
+  "runTime": 1691894031425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2148289,
+        "num": 2148289,
+        "word": "身体缺啥脸上就长啥",
+        "onboard_time": 1691882542,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 938035,
+        "num": 938035,
+        "word": "安崎把自己的免死金牌给其他选手",
+        "onboard_time": 1691890535,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44969,
+        "num": 929614,
+        "word": "退伍老兵敬礼送别抗洪官兵",
+        "onboard_time": 1691845122,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926579,
+        "num": 926579,
+        "word": "四个显眼包狼尾发型",
+        "onboard_time": 1691889694,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 785881,
+        "num": 785881,
+        "word": "被流放27年的泰国王子突然回国",
+        "onboard_time": 1691882542,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 767200,
+        "num": 767200,
+        "word": "分享欲和报备是两回事",
+        "onboard_time": 1691888612,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 666898,
+        "num": 666898,
+        "word": "医院副院长被抓痛哭自己没法养老",
+        "onboard_time": 1691885489,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638610,
+        "num": 638610,
+        "word": "女生餐馆吃饭一抬头发现店家全午睡",
+        "onboard_time": 1691891133,
+        "rank": 7,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 560753,
+        "num": 560753,
+        "word": "夏威夷大火约100人跳太平洋逃生",
+        "onboard_time": 1691888612,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 548437,
+        "num": 548437,
+        "word": "顺产剖宫产花费上的区别",
+        "onboard_time": 1691887111,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1627589,
+        "num": 510341,
+        "word": "江浙沪独生女真的值得羡慕吗",
+        "onboard_time": 1691884047,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 791944,
+        "num": 509395,
+        "word": "魏大勋不是说我女朋友而是说她男朋友",
+        "onboard_time": 1691893294,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444244,
+        "num": 444244,
+        "word": "妻子成植物人7年丈夫不放弃唤醒她",
+        "onboard_time": 1691892214,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531912,
+        "num": 442704,
+        "word": "魏大勋的恋爱情商技能",
+        "onboard_time": 1691885006,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256361,
+        "num": 414504,
+        "word": "为啥有的眼科医生还选择戴眼镜",
+        "onboard_time": 1691884226,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399727,
+        "num": 399727,
+        "word": "杨紫说了啥把王鹤棣笑成这样",
+        "onboard_time": 1691885730,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396793,
+        "num": 396793,
+        "word": "邓为大笑",
+        "onboard_time": 1691882362,
+        "rank": 16,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 373165,
+        "num": 373165,
+        "word": "吴京说中国电影始终要往外走",
+        "onboard_time": 1691890594,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364815,
+        "num": 364815,
+        "word": "张杰谢娜",
+        "onboard_time": 1691848542,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352659,
+        "num": 352659,
+        "word": "许凯劝粉丝把钱用在正能量",
+        "onboard_time": 1691892335,
+        "rank": 19,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1060850,
+        "num": 348047,
+        "word": "男网红在泰国杀害男伴分尸被捕",
+        "onboard_time": 1691886211,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435615,
+        "num": 341313,
+        "word": "孙阳",
+        "onboard_time": 1691891914,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332968,
+        "num": 332968,
+        "word": "刘雨昕广州站演唱会上座率",
+        "onboard_time": 1691887051,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322055,
+        "num": 322055,
+        "word": "张艺兴演唱会应援棒不让带走",
+        "onboard_time": 1691882182,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289974,
+        "num": 289974,
+        "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
+        "onboard_time": 1691859569,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 285156,
+        "num": 285156,
+        "word": "欧洲人果然不会亚洲蹲",
+        "onboard_time": 1691891255,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279020,
+        "num": 279020,
+        "word": "医药反腐深入被查书记院长升至176位",
+        "onboard_time": 1691888133,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273453,
+        "num": 273453,
+        "word": "北舞上音双第一首秀舞台",
+        "onboard_time": 1691891977,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269106,
+        "num": 269106,
+        "word": "孟美岐 审视我的人还没放下",
+        "onboard_time": 1691852744,
+        "rank": 28,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 255729,
+        "num": 255729,
+        "word": "父母因孩子贪玩将其丢在机场走了",
+        "onboard_time": 1691888672,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254486,
+        "num": 254486,
+        "word": "苏醒王栎鑫陆虎和粉丝大合唱活该",
+        "onboard_time": 1691890656,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248015,
+        "num": 248015,
+        "word": "读大学的性价比越来越低了吗",
+        "onboard_time": 1691888374,
+        "rank": 31,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 243877,
+        "num": 243877,
+        "word": "去海边玩最好不要戴项链",
+        "onboard_time": 1691884286,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243506,
+        "num": 243506,
+        "word": "金晨近2年影视作品口碑",
+        "onboard_time": 1691893354,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242701,
+        "num": 242701,
+        "word": "留学生被英国大爷反向安利山东",
+        "onboard_time": 1691893114,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215250,
+        "num": 215250,
+        "word": "宝宝吃手被阻止气出表情包",
+        "onboard_time": 1691891377,
+        "rank": 35,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 210934,
+        "num": 210934,
+        "word": "18岁女生回应遭网约车司机性侵",
+        "onboard_time": 1691868316,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210777,
+        "num": 210777,
+        "word": "古天乐张智霖重现天地男儿经典动作",
+        "onboard_time": 1691893354,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204637,
+        "num": 204637,
+        "word": "网传泰安高铁站近9成是按摩椅",
+        "onboard_time": 1691889334,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204343,
+        "num": 204343,
+        "word": "成毅是靠什么爆火的",
+        "onboard_time": 1691886451,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196361,
+        "num": 196361,
+        "word": "碧桂园",
+        "onboard_time": 1691893714,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188060,
+        "num": 188060,
+        "word": "吴昕去看了Amber演唱会",
+        "onboard_time": 1691889036,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176734,
+        "num": 176734,
+        "word": "在日本吃个冰淇淋有多难",
+        "onboard_time": 1691885430,
+        "rank": 42,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 174302,
+        "num": 174302,
+        "word": "疯批王姬小夭上线",
+        "onboard_time": 1691858432,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158230,
+        "num": 158230,
+        "word": "家长吐槽暑假40天孩子开销五六万",
+        "onboard_time": 1691853283,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155610,
+        "num": 155610,
+        "word": "吉克隽逸好声音时期旧照",
+        "onboard_time": 1691890594,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153095,
+        "num": 153095,
+        "word": "C罗利雅得胜利首冠",
+        "onboard_time": 1691882604,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149706,
+        "num": 149706,
+        "word": "游客感慨西安人流量说这就是盛唐吗",
+        "onboard_time": 1691886451,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 143884,
+        "num": 143884,
+        "word": "科班和非科班出身的演员",
+        "onboard_time": 1691893897,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130221,
+        "num": 130221,
+        "word": "我 花下月的钱",
+        "onboard_time": 1691894013,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#回望二万五千里长征路#"
+    }
+  }
+}
