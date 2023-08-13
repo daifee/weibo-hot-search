@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691921780436,
+  "endTime": 1691922819177,
   "band_list": [
     {
       "raw_hot": 2539574,
@@ -115,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1335583,
+      "num": 1335583,
+      "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
+      "onboard_time": 1691918615,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1325418,
+      "num": 1325418,
+      "word": "李佳琦说防风邶整个大上头",
+      "onboard_time": 1691919334,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1282767,
       "num": 1282767,
       "word": "男朋友化妆堪比诈骗现场",
@@ -129,14 +145,6 @@
       "onboard_time": 1691899355,
       "rank": 20,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1189882,
-      "num": 1189882,
-      "word": "李佳琦说防风邶整个大上头",
-      "onboard_time": 1691919334,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1147859,
@@ -161,6 +169,14 @@
       "onboard_time": 1691905294,
       "rank": 4,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 1103534,
+      "num": 1103534,
+      "word": "内娱Queencard决赛圈",
+      "onboard_time": 1691921016,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 1093681,
@@ -275,14 +291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 884227,
-      "num": 884227,
-      "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
-      "onboard_time": 1691918615,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 874833,
       "num": 874833,
       "word": "王栎鑫为吴悠拼了",
@@ -315,8 +323,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 829413,
+      "num": 829413,
+      "word": "杨紫羊了个羊通关后的反应",
+      "onboard_time": 1691922157,
+      "rank": 8,
+      "category": "影视,游戏"
+    },
+    {
       "raw_hot": 821375,
-      "num": 699941,
+      "num": 720338,
       "word": "周也方否认孤注一掷片酬高于金晨",
       "onboard_time": 1691918196,
       "rank": 17,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 785330,
-      "num": 692524,
+      "num": 718357,
       "word": "郑恺苗苗被小朋友索要合照",
       "onboard_time": 1691919273,
       "rank": 12,
@@ -475,14 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 620989,
-      "num": 620989,
-      "word": "内娱Queencard决赛圈",
-      "onboard_time": 1691921016,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 619026,
       "num": 638501,
       "word": "夏威夷大火约100人跳太平洋逃生",
@@ -529,6 +537,14 @@
       "onboard_time": 1691894074,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567715,
+      "num": 567715,
+      "word": "Viper",
+      "onboard_time": 1691920957,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 562552,
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 512058,
-      "num": 347079,
+      "num": 409275,
       "word": "21岁到27岁消费观的变化",
       "onboard_time": 1691919039,
       "rank": 37,
@@ -756,11 +772,19 @@
     },
     {
       "raw_hot": 429066,
-      "num": 347062,
+      "num": 371295,
       "word": "邓为摸栏杆被烫手",
       "onboard_time": 1691918615,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 427307,
+      "num": 427307,
+      "word": "封神",
+      "onboard_time": 1691917654,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 426974,
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367247,
+      "num": 294776,
+      "word": "肖战张艺兴是大兴和大战",
+      "onboard_time": 1691921254,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 366833,
       "num": 366833,
       "word": "张艺兴演唱会应援棒不让带走",
@@ -947,16 +979,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348592,
-      "num": 348592,
-      "word": "Viper",
-      "onboard_time": 1691920957,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 348207,
-      "num": 1217723,
+      "num": 1328428,
       "word": "丈夫割草归来采一大把野花送妻子",
       "onboard_time": 1691918374,
       "rank": 1,
@@ -968,14 +992,6 @@
       "word": "杨超越新剧10集换了8套眼妆",
       "onboard_time": 1691908415,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 341444,
-      "num": 305745,
-      "word": "封神",
-      "onboard_time": 1691917654,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -1099,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305153,
+      "num": 269681,
+      "word": "小九别看 全是恶评",
+      "onboard_time": 1691921195,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 304728,
       "num": 270454,
       "word": "张杰唱了谢娜最喜欢的想见你",
@@ -1123,20 +1147,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 297978,
+      "num": 1281818,
+      "word": "山东一家三口同日登记捐献遗体器官",
+      "onboard_time": 1691920595,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297363,
       "num": 297363,
       "word": "原来这张表情包是喜羊羊遗照",
       "onboard_time": 1691846080,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 294776,
-      "num": 294776,
-      "word": "肖战张艺兴是大兴和大战",
-      "onboard_time": 1691921254,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 293714,
@@ -1387,6 +1411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231745,
+      "num": 269763,
+      "word": "普通人对钱一定要有概念",
+      "onboard_time": 1691921976,
+      "rank": 29,
+      "category": "财经,幽默"
+    },
+    {
       "raw_hot": 230080,
       "num": 230080,
       "word": "古天乐张智霖重现天地男儿经典动作",
@@ -1563,14 +1595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209953,
-      "num": 209953,
-      "word": "小九别看 全是恶评",
-      "onboard_time": 1691921195,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 209119,
       "num": 149917,
       "word": "张杰自己画的饼自己圆",
@@ -1600,6 +1624,14 @@
       "word": "孤注一掷阿才的颜值",
       "onboard_time": 1691900736,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204926,
+      "num": 181711,
+      "word": "清水镇的月光是否照拂在你身上",
+      "onboard_time": 1691922334,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1667,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199592,
+      "num": 181099,
+      "word": "严浩翔戴了一串钢珠",
+      "onboard_time": 1691921976,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198102,
       "num": 198102,
       "word": "檀健次微指全剧第一",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1691913996,
       "rank": 42,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 196998,
+      "num": 259171,
+      "word": "Hero反攻节奏",
+      "onboard_time": 1691922334,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 196718,
@@ -1777,14 +1825,6 @@
       "onboard_time": 1691907695,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191308,
-      "num": 921541,
-      "word": "山东一家三口同日登记捐献遗体器官",
-      "onboard_time": 1691920595,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191092,
@@ -1899,6 +1939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180018,
+      "num": 180018,
+      "word": "大爷之前可能在山东迷路了",
+      "onboard_time": 1691922575,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179964,
       "num": 195294,
       "word": "总有人为了你负重前行",
@@ -1940,7 +1988,7 @@
     },
     {
       "raw_hot": 172233,
-      "num": 1196407,
+      "num": 1325431,
       "word": "中国科考队发布亚洲最高树等身照",
       "onboard_time": 1691912435,
       "rank": 2,
@@ -2204,11 +2252,19 @@
     },
     {
       "raw_hot": 95141,
-      "num": 888275,
+      "num": 1139848,
       "word": "小马驹过马路马爸爸飞奔守护",
       "onboard_time": 1691917234,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91846,
+      "num": 271071,
+      "word": "JDGWBGLNG大乱斗",
+      "onboard_time": 1691922213,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 87443,
