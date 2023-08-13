@@ -1,0 +1,410 @@
+{
+  "runTime": 1691936012717,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2040390,
+        "num": 2040390,
+        "word": "云南地震",
+        "onboard_time": 1691932057,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1606056,
+        "num": 1606056,
+        "word": "三里屯太古里回应北区女生被偷拍",
+        "onboard_time": 1691932181,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 155685,
+        "num": 1460826,
+        "word": "05后就要开学报到了",
+        "onboard_time": 1691935241,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430108,
+        "num": 1430108,
+        "word": "汪苏泷 凤凰传奇",
+        "onboard_time": 1691934161,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1399607,
+        "num": 1399607,
+        "word": "杨紫羊了个羊通关后的反应",
+        "onboard_time": 1691922157,
+        "rank": 4,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 1363986,
+        "num": 1363986,
+        "word": "杨某人",
+        "onboard_time": 1691930855,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 864462,
+        "num": 864462,
+        "word": "周深演唱会",
+        "onboard_time": 1691935061,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 829951,
+        "num": 829951,
+        "word": "沈腾问范丞丞的脸是靠打针吗",
+        "onboard_time": 1691929118,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725677,
+        "num": 725677,
+        "word": "中国大妈翻章鱼小丸子手艺震惊日本",
+        "onboard_time": 1691930675,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 691339,
+        "num": 691339,
+        "word": "谢娜魏大勋什么时候一起录节目",
+        "onboard_time": 1691931577,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 624711,
+        "num": 624711,
+        "word": "爷爷最最最偏心小丸子啦",
+        "onboard_time": 1691928997,
+        "rank": 10,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 592351,
+        "num": 592351,
+        "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
+        "onboard_time": 1691918615,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561179,
+        "num": 561179,
+        "word": "这蛋糕不吃也罢",
+        "onboard_time": 1691931879,
+        "rank": 12,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 539490,
+        "num": 539490,
+        "word": "檀健次一句话我掉三滴泪",
+        "onboard_time": 1691928815,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306610,
+        "num": 528834,
+        "word": "中国驻卡拉奇总领馆要求巴方严惩凶手",
+        "onboard_time": 1691931457,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 521949,
+        "num": 521949,
+        "word": "马天宇提醒女生们小心被偷拍",
+        "onboard_time": 1691926236,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483326,
+        "num": 483326,
+        "word": "谢娜 大勋沉浸式大合唱他不懂",
+        "onboard_time": 1691932057,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444241,
+        "num": 444241,
+        "word": "张靓颖惊喜亮相薛之谦演唱会",
+        "onboard_time": 1691934820,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 415375,
+        "num": 415375,
+        "word": "龙吸水",
+        "onboard_time": 1691926056,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395150,
+        "num": 395150,
+        "word": "榴莲内衣",
+        "onboard_time": 1691935543,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 410404,
+        "num": 394347,
+        "word": "就知道李莲花没死",
+        "onboard_time": 1691931337,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392273,
+        "num": 392273,
+        "word": "十年没有涨价的东西有什么",
+        "onboard_time": 1691922877,
+        "rank": 21,
+        "category": "情感,财经"
+      },
+      {
+        "raw_hot": 377584,
+        "num": 377584,
+        "word": "王弘毅镜头下的杨紫",
+        "onboard_time": 1691930257,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376843,
+        "num": 376843,
+        "word": "西安泥石流已发现21名遇难者",
+        "onboard_time": 1691922877,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 352227,
+        "num": 352227,
+        "word": "上班快一年了感觉自己在玩过家家",
+        "onboard_time": 1691928456,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 365506,
+        "num": 350881,
+        "word": "封神主创票房20亿整活",
+        "onboard_time": 1691929476,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345637,
+        "num": 345637,
+        "word": "爸爸当家",
+        "onboard_time": 1691932602,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344751,
+        "num": 344751,
+        "word": "洛阳市中心医院一住院患者坠楼死亡",
+        "onboard_time": 1691935601,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342017,
+        "num": 342017,
+        "word": "回到2000",
+        "onboard_time": 1691934340,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 337935,
+        "num": 337935,
+        "word": "一个人住真的很爽",
+        "onboard_time": 1691935361,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341642,
+        "num": 336202,
+        "word": "七时吉祥开播3天全员BE",
+        "onboard_time": 1691929056,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329180,
+        "num": 329180,
+        "word": "张艺兴回复粉丝栓Q",
+        "onboard_time": 1691934461,
+        "rank": 31,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 325862,
+        "num": 325862,
+        "word": "真的不建议带猫拍婚纱照",
+        "onboard_time": 1691925036,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315759,
+        "num": 315759,
+        "word": "马嘉祺被时代少年团挤到床头",
+        "onboard_time": 1691926958,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312052,
+        "num": 312052,
+        "word": "给耶耶洗澡半个小时了还没打湿",
+        "onboard_time": 1691929535,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307532,
+        "num": 307532,
+        "word": "杨某人孤注一掷",
+        "onboard_time": 1691935722,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300058,
+        "num": 300058,
+        "word": "伯邑考的命也是命啊",
+        "onboard_time": 1691934461,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297374,
+        "num": 297374,
+        "word": "郑恺苗苗被小朋友索要合照",
+        "onboard_time": 1691919273,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280758,
+        "num": 280758,
+        "word": "21岁到27岁消费观的变化",
+        "onboard_time": 1691919039,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246952,
+        "num": 266410,
+        "word": "普通人对钱一定要有概念",
+        "onboard_time": 1691921976,
+        "rank": 39,
+        "category": "财经,幽默"
+      },
+      {
+        "raw_hot": 294712,
+        "num": 266038,
+        "word": "易梦玲仪态",
+        "onboard_time": 1691926656,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264614,
+        "num": 264614,
+        "word": "小夭妆造细节",
+        "onboard_time": 1691935061,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264413,
+        "num": 264413,
+        "word": "王倦",
+        "onboard_time": 1691935722,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240689,
+        "num": 240689,
+        "word": "女孩凌晨山顶哭诉讨厌现在的自己",
+        "onboard_time": 1691926236,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 220182,
+        "num": 235905,
+        "word": "央广网评医疗反腐",
+        "onboard_time": 1691932660,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 234676,
+        "num": 234676,
+        "word": "杨玏曾说自己是北京四大名菜",
+        "onboard_time": 1691935903,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225682,
+        "num": 225682,
+        "word": "我和朋友逛街 指指点点满意离去",
+        "onboard_time": 1691933619,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221576,
+        "num": 221576,
+        "word": "楚袅",
+        "onboard_time": 1691933681,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220495,
+        "num": 220495,
+        "word": "孙阳阿才",
+        "onboard_time": 1691933260,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200057,
+        "num": 211842,
+        "word": "热刺",
+        "onboard_time": 1691934702,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#大江焕新颜的新时代画卷#"
+    }
+  }
+}
