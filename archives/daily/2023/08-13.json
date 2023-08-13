@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691936012717,
+  "endTime": 1691937224936,
   "band_list": [
     {
       "raw_hot": 2539574,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1716199,
+      "num": 1606056,
+      "word": "三里屯太古里回应北区女生被偷拍",
+      "onboard_time": 1691932181,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1680984,
       "num": 827971,
       "word": "张杰谢娜",
@@ -112,14 +120,6 @@
       "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
       "onboard_time": 1691918615,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1606056,
-      "num": 1606056,
-      "word": "三里屯太古里回应北区女生被偷拍",
-      "onboard_time": 1691932181,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -209,6 +209,22 @@
       "onboard_time": 1691929118,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1185031,
+      "num": 1185031,
+      "word": "江苏盐城龙卷风2死15伤",
+      "onboard_time": 1691936203,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1176825,
+      "num": 599004,
+      "word": "榴莲内衣",
+      "onboard_time": 1691935543,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 1147859,
@@ -539,6 +555,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 706981,
+      "num": 706981,
+      "word": "洛阳市中心医院一住院患者坠楼死亡",
+      "onboard_time": 1691935601,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699873,
+      "num": 451682,
+      "word": "一个人住真的很爽",
+      "onboard_time": 1691935361,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 696104,
       "num": 696104,
       "word": "国家一级演员苏孝林被立案调查",
@@ -561,6 +593,14 @@
       "onboard_time": 1691885489,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669367,
+      "num": 448409,
+      "word": "王倦",
+      "onboard_time": 1691935722,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 668801,
@@ -787,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521778,
+      "num": 521778,
+      "word": "张靓颖惊喜亮相薛之谦演唱会",
+      "onboard_time": 1691934820,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 520234,
       "num": 337673,
       "word": "领导说我下班就像离职",
@@ -915,6 +963,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468348,
+      "num": 466877,
+      "word": "爸爸当家",
+      "onboard_time": 1691932602,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 465694,
+      "num": 465694,
+      "word": "杨玏曾说自己是北京四大名菜",
+      "onboard_time": 1691935903,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 465137,
       "num": 449801,
       "word": "范丞丞上厕所也接视频",
@@ -929,6 +993,14 @@
       "onboard_time": 1691841516,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 451838,
+      "num": 451838,
+      "word": "爷爷带着花花回家了",
+      "onboard_time": 1691935119,
+      "rank": 19,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 451609,
@@ -977,14 +1049,6 @@
       "onboard_time": 1691892214,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444241,
-      "num": 444241,
-      "word": "张靓颖惊喜亮相薛之谦演唱会",
-      "onboard_time": 1691934820,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 441581,
@@ -1092,7 +1156,7 @@
     },
     {
       "raw_hot": 407503,
-      "num": 350881,
+      "num": 361431,
       "word": "封神主创票房20亿整活",
       "onboard_time": 1691929476,
       "rank": 26,
@@ -1107,12 +1171,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 395150,
-      "num": 395150,
-      "word": "榴莲内衣",
-      "onboard_time": 1691935543,
-      "rank": 19,
-      "category": "幽默"
+      "raw_hot": 397761,
+      "num": 397761,
+      "word": "中国男篮vs新西兰男篮",
+      "onboard_time": 1691936678,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 394565,
@@ -1160,14 +1224,6 @@
       "word": "彭佳慧说古巨基是儿子控",
       "onboard_time": 1691917535,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 379686,
-      "num": 356913,
-      "word": "爸爸当家",
-      "onboard_time": 1691932602,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1267,6 +1323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 355947,
+      "num": 355947,
+      "word": "周深北京演唱会秒罄",
+      "onboard_time": 1691936324,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 354959,
       "num": 354959,
       "word": "金晨这几年是不是走事业运",
@@ -1315,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 344751,
-      "num": 344751,
-      "word": "洛阳市中心医院一住院患者坠楼死亡",
-      "onboard_time": 1691935601,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342017,
       "num": 342017,
       "word": "回到2000",
@@ -1353,14 +1409,6 @@
       "onboard_time": 1691924734,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337935,
-      "num": 337935,
-      "word": "一个人住真的很爽",
-      "onboard_time": 1691935361,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 336434,
@@ -1427,6 +1475,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 322563,
+      "num": 322563,
+      "word": "杨某人孤注一掷",
+      "onboard_time": 1691935722,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 319970,
       "num": 319970,
       "word": "每天喝无糖饮料发生了什么变化",
@@ -1489,14 +1545,6 @@
       "onboard_time": 1691888133,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307532,
-      "num": 307532,
-      "word": "杨某人孤注一掷",
-      "onboard_time": 1691935722,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 305391,
@@ -1635,6 +1683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 281760,
+      "num": 281760,
+      "word": "周也帮范丞丞扒拉吊床",
+      "onboard_time": 1691936260,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278384,
       "num": 264240,
       "word": "到家楼下感觉事情不简单",
@@ -1771,14 +1827,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 264413,
-      "num": 264413,
-      "word": "王倦",
-      "onboard_time": 1691935722,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 264304,
       "num": 264304,
       "word": "莲花楼你的好日子在后头",
@@ -1907,14 +1955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 234676,
-      "num": 234676,
-      "word": "杨玏曾说自己是北京四大名菜",
-      "onboard_time": 1691935903,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 234289,
       "num": 234289,
       "word": "云南双柏县4.4级地震",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1691932660,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 230357,
+      "num": 1460826,
+      "word": "05后就要开学报到了",
+      "onboard_time": 1691935241,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230080,
@@ -2177,6 +2225,14 @@
       "onboard_time": 1691900256,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207726,
+      "num": 207726,
+      "word": "盐城龙卷风",
+      "onboard_time": 1691936980,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207240,
@@ -2515,6 +2571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185665,
+      "num": 185665,
+      "word": "爷爷奶奶的猫怎么都这么乖",
+      "onboard_time": 1691937162,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 185211,
       "num": 185211,
       "word": "氧化的银饰这样处理",
@@ -2681,14 +2745,6 @@
       "onboard_time": 1691881520,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155685,
-      "num": 1460826,
-      "word": "05后就要开学报到了",
-      "onboard_time": 1691935241,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150257,

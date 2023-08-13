@@ -1,0 +1,410 @@
+{
+  "runTime": 1691937224936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1772238,
+        "num": 1772238,
+        "word": "云南地震",
+        "onboard_time": 1691932057,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1299181,
+        "num": 1299181,
+        "word": "杨紫羊了个羊通关后的反应",
+        "onboard_time": 1691922157,
+        "rank": 1,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 230357,
+        "num": 1186273,
+        "word": "05后就要开学报到了",
+        "onboard_time": 1691935241,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1716199,
+        "num": 1185830,
+        "word": "三里屯太古里回应北区女生被偷拍",
+        "onboard_time": 1691932181,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1185031,
+        "num": 1185031,
+        "word": "江苏盐城龙卷风2死15伤",
+        "onboard_time": 1691936203,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078144,
+        "num": 1078144,
+        "word": "杨某人",
+        "onboard_time": 1691930855,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1074162,
+        "num": 1074162,
+        "word": "汪苏泷 凤凰传奇",
+        "onboard_time": 1691934161,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 721196,
+        "num": 721196,
+        "word": "沈腾问范丞丞的脸是靠打针吗",
+        "onboard_time": 1691929118,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706981,
+        "num": 706981,
+        "word": "洛阳市中心医院一住院患者坠楼死亡",
+        "onboard_time": 1691935601,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614490,
+        "num": 614490,
+        "word": "中国大妈翻章鱼小丸子手艺震惊日本",
+        "onboard_time": 1691930675,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1176825,
+        "num": 599004,
+        "word": "榴莲内衣",
+        "onboard_time": 1691935543,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 569025,
+        "num": 569025,
+        "word": "谢娜魏大勋什么时候一起录节目",
+        "onboard_time": 1691931577,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 566455,
+        "num": 566455,
+        "word": "周深演唱会",
+        "onboard_time": 1691935061,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 521778,
+        "num": 521778,
+        "word": "张靓颖惊喜亮相薛之谦演唱会",
+        "onboard_time": 1691934820,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467122,
+        "num": 467122,
+        "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
+        "onboard_time": 1691918615,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468348,
+        "num": 466877,
+        "word": "爸爸当家",
+        "onboard_time": 1691932602,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465694,
+        "num": 465694,
+        "word": "杨玏曾说自己是北京四大名菜",
+        "onboard_time": 1691935903,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459129,
+        "num": 459129,
+        "word": "檀健次一句话我掉三滴泪",
+        "onboard_time": 1691928815,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457757,
+        "num": 457757,
+        "word": "爷爷最最最偏心小丸子啦",
+        "onboard_time": 1691928997,
+        "rank": 18,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 451838,
+        "num": 451838,
+        "word": "爷爷带着花花回家了",
+        "onboard_time": 1691935119,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 699873,
+        "num": 451682,
+        "word": "一个人住真的很爽",
+        "onboard_time": 1691935361,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 451161,
+        "num": 451161,
+        "word": "这蛋糕不吃也罢",
+        "onboard_time": 1691931879,
+        "rank": 21,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 669367,
+        "num": 448409,
+        "word": "王倦",
+        "onboard_time": 1691935722,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397761,
+        "num": 397761,
+        "word": "中国男篮vs新西兰男篮",
+        "onboard_time": 1691936678,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388333,
+        "num": 388333,
+        "word": "就知道李莲花没死",
+        "onboard_time": 1691931337,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387913,
+        "num": 387913,
+        "word": "谢娜 大勋沉浸式大合唱他不懂",
+        "onboard_time": 1691932057,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385051,
+        "num": 385051,
+        "word": "十年没有涨价的东西有什么",
+        "onboard_time": 1691922877,
+        "rank": 26,
+        "category": "情感,财经"
+      },
+      {
+        "raw_hot": 361431,
+        "num": 361431,
+        "word": "封神主创票房20亿整活",
+        "onboard_time": 1691929476,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355947,
+        "num": 355947,
+        "word": "周深北京演唱会秒罄",
+        "onboard_time": 1691936324,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326131,
+        "num": 326131,
+        "word": "张艺兴回复粉丝栓Q",
+        "onboard_time": 1691934461,
+        "rank": 29,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 322563,
+        "num": 322563,
+        "word": "杨某人孤注一掷",
+        "onboard_time": 1691935722,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 319752,
+        "num": 319752,
+        "word": "龙吸水",
+        "onboard_time": 1691926056,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315460,
+        "num": 315460,
+        "word": "马天宇提醒女生们小心被偷拍",
+        "onboard_time": 1691926236,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303920,
+        "num": 303920,
+        "word": "西安泥石流已发现21名遇难者",
+        "onboard_time": 1691922877,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 281760,
+        "num": 281760,
+        "word": "周也帮范丞丞扒拉吊床",
+        "onboard_time": 1691936260,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271586,
+        "num": 271586,
+        "word": "上班快一年了感觉自己在玩过家家",
+        "onboard_time": 1691928456,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 267484,
+        "num": 267484,
+        "word": "伯邑考的命也是命啊",
+        "onboard_time": 1691934461,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262462,
+        "num": 262462,
+        "word": "七时吉祥开播3天全员BE",
+        "onboard_time": 1691929056,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252746,
+        "num": 252746,
+        "word": "真的不建议带猫拍婚纱照",
+        "onboard_time": 1691925036,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229901,
+        "num": 252315,
+        "word": "21岁到27岁消费观的变化",
+        "onboard_time": 1691919039,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257651,
+        "num": 251683,
+        "word": "马嘉祺被时代少年团挤到床头",
+        "onboard_time": 1691926958,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255728,
+        "num": 250722,
+        "word": "王弘毅镜头下的杨紫",
+        "onboard_time": 1691930257,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253296,
+        "num": 249530,
+        "word": "郑恺苗苗被小朋友索要合照",
+        "onboard_time": 1691919273,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249368,
+        "num": 249368,
+        "word": "易梦玲仪态",
+        "onboard_time": 1691926656,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247016,
+        "num": 247016,
+        "word": "小夭妆造细节",
+        "onboard_time": 1691935061,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229246,
+        "num": 229246,
+        "word": "普通人对钱一定要有概念",
+        "onboard_time": 1691921976,
+        "rank": 45,
+        "category": "财经,幽默"
+      },
+      {
+        "raw_hot": 219309,
+        "num": 219309,
+        "word": "中国驻卡拉奇总领馆要求巴方严惩凶手",
+        "onboard_time": 1691931457,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 207726,
+        "num": 207726,
+        "word": "盐城龙卷风",
+        "onboard_time": 1691936980,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186856,
+        "num": 186856,
+        "word": "给耶耶洗澡半个小时了还没打湿",
+        "onboard_time": 1691929535,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185665,
+        "num": 185665,
+        "word": "爷爷奶奶的猫怎么都这么乖",
+        "onboard_time": 1691937162,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#大江焕新颜的新时代画卷#"
+    }
+  }
+}
