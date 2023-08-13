@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691915636471,
+  "endTime": 1691918071931,
   "band_list": [
     {
       "raw_hot": 2539574,
@@ -155,7 +155,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1026726,
+      "raw_hot": 1074234,
+      "num": 1074234,
+      "word": "停止内耗的五个小习惯",
+      "onboard_time": 1691912015,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1056556,
       "num": 827685,
       "word": "三十岁我从公务员岗位上辞职了",
       "onboard_time": 1691905294,
@@ -209,14 +217,6 @@
       "onboard_time": 1691899835,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 930227,
-      "num": 930227,
-      "word": "停止内耗的五个小习惯",
-      "onboard_time": 1691912015,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 927757,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 785165,
+      "num": 538635,
+      "word": "赵丽颖吊带小黑裙",
+      "onboard_time": 1691914536,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 775018,
       "num": 775018,
       "word": "长相思男主爆红后综艺首秀",
@@ -313,6 +321,14 @@
       "onboard_time": 1691897135,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 742905,
+      "num": 742905,
+      "word": "原著里相柳的外貌描写",
+      "onboard_time": 1691913996,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 696104,
@@ -419,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 606813,
-      "num": 538635,
-      "word": "赵丽颖吊带小黑裙",
-      "onboard_time": 1691914536,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 597799,
       "num": 597799,
       "word": "唐悠悠你现在真的成黑老大的女人了",
@@ -531,12 +539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 532603,
-      "num": 532603,
-      "word": "原著里相柳的外貌描写",
-      "onboard_time": 1691913996,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 521603,
+      "num": 426196,
+      "word": "淮上在晋江作者大会上的照片",
+      "onboard_time": 1691917296,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 520234,
@@ -577,6 +585,14 @@
       "onboard_time": 1691900615,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 487580,
+      "num": 438168,
+      "word": "变漂亮的冷知识",
+      "onboard_time": 1691914235,
+      "rank": 36,
+      "category": "情感,时尚"
     },
     {
       "raw_hot": 484842,
@@ -659,14 +675,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 438168,
-      "num": 438168,
-      "word": "变漂亮的冷知识",
-      "onboard_time": 1691914235,
-      "rank": 36,
-      "category": "情感,时尚"
-    },
-    {
       "raw_hot": 436402,
       "num": 436402,
       "word": "小夭染血含泪",
@@ -705,6 +713,14 @@
       "onboard_time": 1691890594,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 413824,
+      "num": 413824,
+      "word": "杨紫邓为檀健次同框",
+      "onboard_time": 1691913576,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 394565,
@@ -787,12 +803,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 363612,
+      "num": 363612,
+      "word": "挣钱和赚钱是两个概念",
+      "onboard_time": 1691913278,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 362124,
       "num": 362124,
       "word": "金晨近2年影视作品口碑",
       "onboard_time": 1691893354,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358392,
+      "num": 342259,
+      "word": "父母眼中的顶流明星",
+      "onboard_time": 1691914837,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 358372,
@@ -819,6 +851,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 349927,
+      "num": 349927,
+      "word": "外媒称瓜达尔港发生袭击事件",
+      "onboard_time": 1691915737,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347139,
       "num": 308370,
       "word": "杨超越新剧10集换了8套眼妆",
@@ -833,14 +873,6 @@
       "onboard_time": 1691858432,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 340473,
-      "num": 248940,
-      "word": "杨紫邓为檀健次同框",
-      "onboard_time": 1691913576,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 336434,
@@ -872,6 +904,30 @@
       "word": "赵露思吴磊星汉灿烂造型概念设计图",
       "onboard_time": 1691903314,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 327070,
+      "num": 248549,
+      "word": "杨紫魏大勋能二搭吗",
+      "onboard_time": 1691917416,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 321846,
+      "num": 232876,
+      "word": "男朋友化妆堪比诈骗现场",
+      "onboard_time": 1691917234,
+      "rank": 31,
+      "category": "幽默,美妆"
+    },
+    {
+      "raw_hot": 320247,
+      "num": 248503,
+      "word": "封神",
+      "onboard_time": 1691917654,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -923,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306907,
-      "num": 241203,
-      "word": "父母眼中的顶流明星",
-      "onboard_time": 1691914837,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305391,
       "num": 277286,
       "word": "长相思三个男主都在拍古装剧",
@@ -953,14 +1001,6 @@
       "onboard_time": 1691911658,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 299308,
-      "num": 299308,
-      "word": "挣钱和赚钱是两个概念",
-      "onboard_time": 1691913278,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 298466,
@@ -1011,6 +1051,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 286139,
+      "num": 248423,
+      "word": "王源低调给黑龙江捐款",
+      "onboard_time": 1691917296,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286027,
       "num": 286027,
       "word": "玱玹想和小夭长相守",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1691888374,
       "rank": 44,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 272295,
+      "num": 272295,
+      "word": "KT战胜HLE",
+      "onboard_time": 1691916337,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 270832,
@@ -1177,6 +1233,22 @@
       "onboard_time": 1691885550,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248815,
+      "num": 248815,
+      "word": "你有多久没有十点前睡觉了",
+      "onboard_time": 1691916277,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 248277,
+      "num": 248277,
+      "word": "早上一杯开机晚上一杯关机",
+      "onboard_time": 1691917234,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 247334,
@@ -1379,6 +1451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208843,
+      "num": 208843,
+      "word": "张泽禹张极翻跳yummy",
+      "onboard_time": 1691917897,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207869,
       "num": 207869,
       "word": "以闪亮之名",
@@ -1433,6 +1513,14 @@
       "onboard_time": 1691902956,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200904,
+      "num": 168867,
+      "word": "彭佳慧说古巨基是儿子控",
+      "onboard_time": 1691917535,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 200682,
@@ -1491,6 +1579,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 196718,
+      "num": 168858,
+      "word": "檀健次说爱一人就爱一人的全部",
+      "onboard_time": 1691912674,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196588,
       "num": 141940,
       "word": "张真源把专业涂脸上",
@@ -1539,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193785,
+      "num": 168844,
+      "word": "赵樱子最想合作的喜剧演员是贾玲",
+      "onboard_time": 1691917416,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192934,
       "num": 192934,
       "word": "宋亚轩跳完舞害羞了",
@@ -1553,6 +1657,14 @@
       "onboard_time": 1691905236,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191526,
+      "num": 175081,
+      "word": "杨紫替我们夭柳党圆梦了",
+      "onboard_time": 1691915255,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 191515,
@@ -1577,14 +1689,6 @@
       "onboard_time": 1691883807,
       "rank": 36,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 189622,
-      "num": 175081,
-      "word": "杨紫替我们夭柳党圆梦了",
-      "onboard_time": 1691915255,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 189592,
@@ -1867,6 +1971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113813,
+      "num": 168796,
+      "word": "流浪猫在雨天偷看室内宠物猫",
+      "onboard_time": 1691918015,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113808,
       "num": 113808,
       "word": "我国陆地探测四号01星发射成功",
@@ -2057,6 +2169,14 @@
       "onboard_time": 1691866936,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 26047,
+      "num": 420558,
+      "word": "小马驹过马路马爸爸飞奔守护",
+      "onboard_time": 1691917234,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23649,

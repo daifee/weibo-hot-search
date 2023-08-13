@@ -1,0 +1,410 @@
+{
+  "runTime": 1691918071931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1198550,
+        "num": 1198550,
+        "word": "王一博也救不了中国体育电影吗",
+        "onboard_time": 1691908656,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1074234,
+        "num": 1074234,
+        "word": "停止内耗的五个小习惯",
+        "onboard_time": 1691912015,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156620,
+        "num": 902587,
+        "word": "中国科考队发布亚洲最高树等身照",
+        "onboard_time": 1691912435,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103716,
+        "num": 877260,
+        "word": "举报补课网红称掉粉了",
+        "onboard_time": 1691911057,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 742905,
+        "num": 742905,
+        "word": "原著里相柳的外貌描写",
+        "onboard_time": 1691913996,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 703018,
+        "num": 703018,
+        "word": "郑恺苗苗奚梦瑶何猷君录制向山海出发",
+        "onboard_time": 1691913637,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608821,
+        "num": 608821,
+        "word": "封神票房",
+        "onboard_time": 1691913814,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579933,
+        "num": 579933,
+        "word": "莲花楼最新番外",
+        "onboard_time": 1691912914,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459930,
+        "num": 459930,
+        "word": "高密爆炸",
+        "onboard_time": 1691904335,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450914,
+        "num": 450914,
+        "word": "医疗反腐 医疗从业者的反应",
+        "onboard_time": 1691911175,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056556,
+        "num": 449604,
+        "word": "三十岁我从公务员岗位上辞职了",
+        "onboard_time": 1691905294,
+        "rank": 10,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 785165,
+        "num": 438745,
+        "word": "赵丽颖吊带小黑裙",
+        "onboard_time": 1691914536,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 536731,
+        "num": 431886,
+        "word": "魏大勋不是说我女朋友而是说她男朋友",
+        "onboard_time": 1691893294,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521603,
+        "num": 426196,
+        "word": "淮上在晋江作者大会上的照片",
+        "onboard_time": 1691917296,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26047,
+        "num": 420558,
+        "word": "小马驹过马路马爸爸飞奔守护",
+        "onboard_time": 1691917234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414143,
+        "num": 414143,
+        "word": "黄晓明特别想要一个女儿",
+        "onboard_time": 1691898033,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413824,
+        "num": 413824,
+        "word": "杨紫邓为檀健次同框",
+        "onboard_time": 1691913576,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381000,
+        "num": 381000,
+        "word": "14岁女儿做好一桌菜等妈妈反被指责",
+        "onboard_time": 1691905294,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363612,
+        "num": 363612,
+        "word": "挣钱和赚钱是两个概念",
+        "onboard_time": 1691913278,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349927,
+        "num": 349927,
+        "word": "外媒称瓜达尔港发生袭击事件",
+        "onboard_time": 1691915737,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487580,
+        "num": 345640,
+        "word": "变漂亮的冷知识",
+        "onboard_time": 1691914235,
+        "rank": 20,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 358392,
+        "num": 342259,
+        "word": "父母眼中的顶流明星",
+        "onboard_time": 1691914837,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328754,
+        "num": 328754,
+        "word": "杨幂不愧是林萧",
+        "onboard_time": 1691910996,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272295,
+        "num": 272295,
+        "word": "KT战胜HLE",
+        "onboard_time": 1691916337,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248815,
+        "num": 248815,
+        "word": "你有多久没有十点前睡觉了",
+        "onboard_time": 1691916277,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327070,
+        "num": 248549,
+        "word": "杨紫魏大勋能二搭吗",
+        "onboard_time": 1691917416,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320247,
+        "num": 248503,
+        "word": "封神",
+        "onboard_time": 1691917654,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286139,
+        "num": 248423,
+        "word": "王源低调给黑龙江捐款",
+        "onboard_time": 1691917296,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248277,
+        "num": 248277,
+        "word": "早上一杯开机晚上一杯关机",
+        "onboard_time": 1691917234,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233992,
+        "num": 233992,
+        "word": "无意识刷手机会导致大脑退化",
+        "onboard_time": 1691907574,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 325927,
+        "num": 233574,
+        "word": "母亲怀孕且瘫痪遭婆家嫌弃",
+        "onboard_time": 1691899355,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 321846,
+        "num": 232876,
+        "word": "男朋友化妆堪比诈骗现场",
+        "onboard_time": 1691917234,
+        "rank": 31,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 275919,
+        "num": 231522,
+        "word": "伊能静 手把手教底层女孩自救",
+        "onboard_time": 1691904996,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253458,
+        "num": 230718,
+        "word": "魏大勋说杨紫是真不得罪人",
+        "onboard_time": 1691908594,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229907,
+        "num": 229907,
+        "word": "体制内离职的人现在怎么样了",
+        "onboard_time": 1691898274,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208843,
+        "num": 208843,
+        "word": "张泽禹张极翻跳yummy",
+        "onboard_time": 1691917897,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207892,
+        "num": 207892,
+        "word": "内娱出品即王炸的明星",
+        "onboard_time": 1691911533,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206417,
+        "num": 206417,
+        "word": "金晨孤注一掷破16亿海报",
+        "onboard_time": 1691907936,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180209,
+        "num": 180209,
+        "word": "龙吸水 妈见打行为",
+        "onboard_time": 1691906854,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168870,
+        "num": 168870,
+        "word": "体型惊人的佛兰德巨兔",
+        "onboard_time": 1691910815,
+        "rank": 39,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 200904,
+        "num": 168867,
+        "word": "彭佳慧说古巨基是儿子控",
+        "onboard_time": 1691917535,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196718,
+        "num": 168858,
+        "word": "檀健次说爱一人就爱一人的全部",
+        "onboard_time": 1691912674,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193785,
+        "num": 168844,
+        "word": "赵樱子最想合作的喜剧演员是贾玲",
+        "onboard_time": 1691917416,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191526,
+        "num": 168843,
+        "word": "杨紫替我们夭柳党圆梦了",
+        "onboard_time": 1691915255,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176777,
+        "num": 168834,
+        "word": "张大大被犀利点评鞠躬14次",
+        "onboard_time": 1691912316,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174595,
+        "num": 168826,
+        "word": "孤注一掷",
+        "onboard_time": 1691911715,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154385,
+        "num": 168810,
+        "word": "原神",
+        "onboard_time": 1691909915,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145540,
+        "num": 168801,
+        "word": "女子吃菌出现幻觉 猫咪求登记结婚",
+        "onboard_time": 1691898333,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113813,
+        "num": 168796,
+        "word": "流浪猫在雨天偷看室内宠物猫",
+        "onboard_time": 1691918015,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108711,
+        "num": 168789,
+        "word": "8个月萌娃吃不成西红柿怒砸床单",
+        "onboard_time": 1691912499,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力解决群众的操心事烦心事#"
+    }
+  }
+}
