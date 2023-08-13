@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691926425829,
+  "endTime": 1691929681055,
   "band_list": [
     {
       "raw_hot": 2539574,
@@ -73,6 +73,14 @@
       "onboard_time": 1691884047,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1910410,
+      "num": 438868,
+      "word": "马天宇提醒女生们小心被偷拍",
+      "onboard_time": 1691926236,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1680984,
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 979109,
+      "num": 979109,
+      "word": "龙吸水",
+      "onboard_time": 1691926056,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 956249,
       "num": 470956,
       "word": "魏大勋的恋爱情商技能",
@@ -337,6 +353,14 @@
       "onboard_time": 1691888612,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 844279,
+      "num": 844279,
+      "word": "真的不建议带猫拍婚纱照",
+      "onboard_time": 1691925036,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 839656,
@@ -427,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 704569,
+      "num": 431003,
+      "word": "易梦玲仪态",
+      "onboard_time": 1691926656,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 696104,
       "num": 696104,
       "word": "国家一级演员苏孝林被立案调查",
@@ -513,6 +545,14 @@
       "onboard_time": 1691922877,
       "rank": 20,
       "category": "情感,财经"
+    },
+    {
+      "raw_hot": 625810,
+      "num": 429184,
+      "word": "马嘉祺被时代少年团挤到床头",
+      "onboard_time": 1691926958,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 625410,
@@ -625,14 +665,6 @@
       "onboard_time": 1691906854,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 553416,
-      "num": 553416,
-      "word": "龙吸水",
-      "onboard_time": 1691926056,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 549462,
@@ -827,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441581,
+      "num": 441581,
+      "word": "相柳说小夭倒是准时",
+      "onboard_time": 1691925635,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438404,
       "num": 344981,
       "word": "拉宏桑见帅哥",
@@ -905,6 +945,30 @@
       "onboard_time": 1691913576,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411268,
+      "num": 276406,
+      "word": "攒了一年多的头发",
+      "onboard_time": 1691928456,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 405492,
+      "num": 350705,
+      "word": "沈腾问范丞丞的脸是靠打针吗",
+      "onboard_time": 1691929118,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 403703,
+      "num": 403703,
+      "word": "女孩凌晨山顶哭诉讨厌现在的自己",
+      "onboard_time": 1691926236,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 394565,
@@ -987,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367619,
-      "num": 367619,
-      "word": "马天宇提醒女生们小心被偷拍",
-      "onboard_time": 1691926236,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 367247,
       "num": 354071,
       "word": "肖战张艺兴是大兴和大战",
@@ -1035,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 361032,
+      "num": 350429,
+      "word": "檀健次一句话我掉三滴泪",
+      "onboard_time": 1691928815,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358392,
       "num": 342259,
       "word": "父母眼中的顶流明星",
@@ -1059,14 +1123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354782,
-      "num": 354782,
-      "word": "真的不建议带猫拍婚纱照",
-      "onboard_time": 1691925036,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 352659,
       "num": 352659,
       "word": "许凯劝粉丝把钱用在正能量",
@@ -1075,12 +1131,28 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 350408,
+      "num": 350408,
+      "word": "陈卓璇裙子上开花了",
+      "onboard_time": 1691927377,
+      "rank": 23,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 349927,
       "num": 349927,
       "word": "外媒称瓜达尔港发生袭击事件",
       "onboard_time": 1691915737,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348815,
+      "num": 275200,
+      "word": "上班快一年了感觉自己在玩过家家",
+      "onboard_time": 1691928456,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 348207,
@@ -1105,14 +1177,6 @@
       "onboard_time": 1691923655,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 341203,
-      "num": 341203,
-      "word": "相柳说小夭倒是准时",
-      "onboard_time": 1691925635,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 340488,
@@ -1152,6 +1216,14 @@
       "word": "下班时间没回群消息被辞退了",
       "onboard_time": 1691902778,
       "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 331026,
+      "num": 274407,
+      "word": "正式确诊为哈基米",
+      "onboard_time": 1691927976,
+      "rank": 32,
       "category": "幽默"
     },
     {
@@ -1355,6 +1427,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 279638,
+      "num": 279638,
+      "word": "封神主创票房20亿整活",
+      "onboard_time": 1691929476,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278384,
+      "num": 264240,
+      "word": "到家楼下感觉事情不简单",
+      "onboard_time": 1691927620,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 275225,
       "num": 275225,
       "word": "游客感慨西安人流量说这就是盛唐吗",
@@ -1369,6 +1457,22 @@
       "onboard_time": 1691908177,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274128,
+      "num": 274128,
+      "word": "夏雨申公豹手势变魔术",
+      "onboard_time": 1691927915,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 274106,
+      "num": 262707,
+      "word": "现在就出发是个混综吧",
+      "onboard_time": 1691928336,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 273453,
@@ -1409,6 +1513,14 @@
       "onboard_time": 1691850047,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269156,
+      "num": 269156,
+      "word": "相柳",
+      "onboard_time": 1691925273,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 268752,
@@ -1489,14 +1601,6 @@
       "onboard_time": 1691896777,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258522,
-      "num": 258522,
-      "word": "相柳",
-      "onboard_time": 1691925273,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 258135,
@@ -1595,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228488,
+      "num": 228488,
+      "word": "没人能笑着从七时吉祥12集走出来",
+      "onboard_time": 1691926835,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228454,
       "num": 228454,
       "word": "网传泰安高铁站近9成是按摩椅",
@@ -1688,6 +1800,14 @@
       "word": "藤萍",
       "onboard_time": 1691909853,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 216351,
+      "num": 216351,
+      "word": "七时吉祥开播3天全员BE",
+      "onboard_time": 1691929056,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1827,6 +1947,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 204744,
+      "num": 278087,
+      "word": "大熊猫压断树枝火速逃离",
+      "onboard_time": 1691926477,
+      "rank": 28,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 203692,
       "num": 195439,
       "word": "汪苏泷新造型",
@@ -1880,6 +2008,14 @@
       "word": "相柳的爱是具有神性的",
       "onboard_time": 1691899474,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199065,
+      "num": 199065,
+      "word": "大宋少年志",
+      "onboard_time": 1691928939,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -2179,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175724,
+      "num": 198982,
+      "word": "爷爷最最最偏心小丸子啦",
+      "onboard_time": 1691928997,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 172303,
       "num": 141723,
       "word": "成毅长在曾舜晞的笑点上",
@@ -2259,20 +2403,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161862,
-      "num": 215576,
-      "word": "女孩凌晨山顶哭诉讨厌现在的自己",
-      "onboard_time": 1691926236,
-      "rank": 47,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 161350,
       "num": 151133,
       "word": "李沁终于终于想起微博密码了",
       "onboard_time": 1691881520,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152265,
+      "num": 198315,
+      "word": "给耶耶洗澡半个小时了还没打湿",
+      "onboard_time": 1691929535,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 150257,
+      "num": 197628,
+      "word": "爸爸为宝宝定制了专属私人电梯",
+      "onboard_time": 1691929175,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149567,
@@ -2489,6 +2641,14 @@
       "onboard_time": 1691855082,
       "rank": 49,
       "category": "科技,艺人"
+    },
+    {
+      "raw_hot": 82413,
+      "num": 1057244,
+      "word": "洪水过后小学的黑板报看到泪目",
+      "onboard_time": 1691912075,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82098,
