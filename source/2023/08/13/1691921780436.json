@@ -1,0 +1,410 @@
+{
+  "runTime": 1691921780436,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1282767,
+        "num": 1282767,
+        "word": "男朋友化妆堪比诈骗现场",
+        "onboard_time": 1691917234,
+        "rank": 0,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 348207,
+        "num": 1217723,
+        "word": "丈夫割草归来采一大把野花送妻子",
+        "onboard_time": 1691918374,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 147524,
+        "num": 1196407,
+        "word": "中国科考队发布亚洲最高树等身照",
+        "onboard_time": 1691912435,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1189882,
+        "num": 1189882,
+        "word": "李佳琦说防风邶整个大上头",
+        "onboard_time": 1691919334,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191308,
+        "num": 921541,
+        "word": "山东一家三口同日登记捐献遗体器官",
+        "onboard_time": 1691920595,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894417,
+        "num": 894417,
+        "word": "郑恺苗苗奚梦瑶何猷君录制向山海出发",
+        "onboard_time": 1691913637,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95141,
+        "num": 888275,
+        "word": "小马驹过马路马爸爸飞奔守护",
+        "onboard_time": 1691917234,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884227,
+        "num": 884227,
+        "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
+        "onboard_time": 1691918615,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810199,
+        "num": 810199,
+        "word": "王源低调给黑龙江捐款",
+        "onboard_time": 1691917296,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724736,
+        "num": 724736,
+        "word": "王一博也救不了中国体育电影吗",
+        "onboard_time": 1691908656,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 979841,
+        "num": 710743,
+        "word": "三十岁我从公务员岗位上辞职了",
+        "onboard_time": 1691905294,
+        "rank": 10,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 821375,
+        "num": 699941,
+        "word": "周也方否认孤注一掷片酬高于金晨",
+        "onboard_time": 1691918196,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 785330,
+        "num": 692524,
+        "word": "郑恺苗苗被小朋友索要合照",
+        "onboard_time": 1691919273,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670485,
+        "num": 670485,
+        "word": "淮上在晋江作者大会上的照片",
+        "onboard_time": 1691917296,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 661935,
+        "num": 661935,
+        "word": "举报补课网红称掉粉了",
+        "onboard_time": 1691911057,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 620989,
+        "num": 620989,
+        "word": "内娱Queencard决赛圈",
+        "onboard_time": 1691921016,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 456770,
+        "num": 456770,
+        "word": "停止内耗的五个小习惯",
+        "onboard_time": 1691912015,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429095,
+        "num": 429095,
+        "word": "赵丽颖吊带小黑裙",
+        "onboard_time": 1691914536,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 348592,
+        "num": 348592,
+        "word": "Viper",
+        "onboard_time": 1691920957,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 347467,
+        "num": 347467,
+        "word": "黄晓明特别想要一个女儿",
+        "onboard_time": 1691898033,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512058,
+        "num": 347079,
+        "word": "21岁到27岁消费观的变化",
+        "onboard_time": 1691919039,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 429066,
+        "num": 347062,
+        "word": "邓为摸栏杆被烫手",
+        "onboard_time": 1691918615,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346524,
+        "num": 346524,
+        "word": "14岁女儿做好一桌菜等妈妈反被指责",
+        "onboard_time": 1691905294,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329697,
+        "num": 329697,
+        "word": "张晚意偷偷减肥",
+        "onboard_time": 1691919394,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300190,
+        "num": 300190,
+        "word": "医疗反腐 医疗从业者的反应",
+        "onboard_time": 1691911175,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329678,
+        "num": 299520,
+        "word": "杨紫魏大勋能二搭吗",
+        "onboard_time": 1691917416,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303959,
+        "num": 298098,
+        "word": "莲花楼最新番外",
+        "onboard_time": 1691912914,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295493,
+        "num": 295493,
+        "word": "彭佳慧说古巨基是儿子控",
+        "onboard_time": 1691917535,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294776,
+        "num": 294776,
+        "word": "肖战张艺兴是大兴和大战",
+        "onboard_time": 1691921254,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221749,
+        "num": 221749,
+        "word": "Hero对战XYG",
+        "onboard_time": 1691919575,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291046,
+        "num": 221647,
+        "word": "封神",
+        "onboard_time": 1691917654,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283545,
+        "num": 218186,
+        "word": "原著里相柳的外貌描写",
+        "onboard_time": 1691913996,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278731,
+        "num": 214894,
+        "word": "魏大勋不是说我女朋友而是说她男朋友",
+        "onboard_time": 1691893294,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249616,
+        "num": 211293,
+        "word": "母亲怀孕且瘫痪遭婆家嫌弃",
+        "onboard_time": 1691899355,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 209953,
+        "num": 209953,
+        "word": "小九别看 全是恶评",
+        "onboard_time": 1691921195,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274859,
+        "num": 208236,
+        "word": "封神票房",
+        "onboard_time": 1691913814,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238477,
+        "num": 207806,
+        "word": "赵樱子最想合作的喜剧演员是贾玲",
+        "onboard_time": 1691917416,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206493,
+        "num": 206493,
+        "word": "早上一杯开机晚上一杯关机",
+        "onboard_time": 1691917234,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193202,
+        "num": 193202,
+        "word": "变漂亮的冷知识",
+        "onboard_time": 1691914235,
+        "rank": 38,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 192395,
+        "num": 192395,
+        "word": "高密爆炸",
+        "onboard_time": 1691904335,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226478,
+        "num": 191901,
+        "word": "孤注一掷",
+        "onboard_time": 1691911715,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188741,
+        "num": 188741,
+        "word": "挣钱和赚钱是两个概念",
+        "onboard_time": 1691913278,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188283,
+        "num": 188283,
+        "word": "韩素希给亲妹妹ins写的评论",
+        "onboard_time": 1691910996,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185468,
+        "num": 185468,
+        "word": "父母眼中的顶流明星",
+        "onboard_time": 1691914837,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185059,
+        "num": 185059,
+        "word": "外媒称瓜达尔港发生袭击事件",
+        "onboard_time": 1691915737,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181445,
+        "num": 181445,
+        "word": "金晨孤注一掷破16亿海报",
+        "onboard_time": 1691907936,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178053,
+        "num": 178053,
+        "word": "时尚芭莎",
+        "onboard_time": 1691918976,
+        "rank": 46,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 154132,
+        "num": 154132,
+        "word": "无意识刷手机会导致大脑退化",
+        "onboard_time": 1691907574,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 136828,
+        "num": 136828,
+        "word": "KT战胜HLE",
+        "onboard_time": 1691916337,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131849,
+        "num": 135791,
+        "word": "一棵树你都不放过",
+        "onboard_time": 1691921376,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国陆地探测四号01星发射成功#"
+    }
+  }
+}
