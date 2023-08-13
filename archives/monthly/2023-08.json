@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691943573453,
+  "endTime": 1691944456369,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -8980,7 +8980,7 @@
     },
     {
       "raw_hot": 706551,
-      "num": 466488,
+      "num": 633853,
       "word": "六公主马上去问杨玏了",
       "onboard_time": 1691940160,
       "rank": 18,
@@ -13483,6 +13483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496925,
+      "num": 496925,
+      "word": "赵睿",
+      "onboard_time": 1691942018,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496826,
       "num": 258084,
       "word": "王奕第二",
@@ -14665,14 +14673,6 @@
       "onboard_time": 1690856854,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 459490,
-      "num": 459490,
-      "word": "赵睿",
-      "onboard_time": 1691942018,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 459090,
@@ -21664,6 +21664,14 @@
       "word": "长相思主演角色籍贯",
       "onboard_time": 1691662233,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 292137,
+      "num": 262300,
+      "word": "于适回应票房过20亿表演龙吸水",
+      "onboard_time": 1691943453,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -29859,6 +29867,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 188648,
+      "num": 188648,
+      "word": "杨超越是住山上吗",
+      "onboard_time": 1691943869,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188530,
       "num": 213718,
       "word": "KSG对战Hero",
@@ -30963,6 +30979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170373,
+      "num": 170373,
+      "word": "切尔西vs利物浦",
+      "onboard_time": 1691943812,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170042,
       "num": 170042,
       "word": "大运会国乒女团vs日本女团",
@@ -31105,14 +31129,6 @@
       "onboard_time": 1691724754,
       "rank": 49,
       "category": "幽默,影视"
-    },
-    {
-      "raw_hot": 166693,
-      "num": 166693,
-      "word": "于适回应票房过20亿表演龙吸水",
-      "onboard_time": 1691943453,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 166621,
@@ -34523,6 +34539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31269,
+      "num": 726920,
+      "word": "巧妙散热让博物馆的热度细水长流",
+      "onboard_time": 1691934401,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30962,
       "num": 507345,
       "word": "男子被洪水围困消防员从天而降救援",
@@ -34641,14 +34665,6 @@
       "onboard_time": 1691429062,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 26479,
-      "num": 726920,
-      "word": "巧妙散热让博物馆的热度细水长流",
-      "onboard_time": 1691934401,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26393,

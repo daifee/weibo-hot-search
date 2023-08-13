@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691943573453,
+  "endTime": 1691944456369,
   "band_list": [
     {
       "raw_hot": 1666509,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 706551,
-      "num": 466488,
+      "num": 633853,
       "word": "六公主马上去问杨玏了",
       "onboard_time": 1691940160,
       "rank": 11,
@@ -91,6 +91,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 496925,
+      "num": 496925,
+      "word": "赵睿",
+      "onboard_time": 1691942018,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 471946,
       "num": 471946,
       "word": "云南地震",
@@ -105,14 +113,6 @@
       "onboard_time": 1691937341,
       "rank": 9,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 459490,
-      "num": 459490,
-      "word": "赵睿",
-      "onboard_time": 1691942018,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 432061,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292137,
+      "num": 262300,
+      "word": "于适回应票房过20亿表演龙吸水",
+      "onboard_time": 1691943453,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286818,
       "num": 286818,
       "word": "杨某人",
@@ -211,20 +219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257824,
+      "num": 257824,
+      "word": "檀健次一句话我掉三滴泪",
+      "onboard_time": 1691928815,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250980,
       "num": 409276,
       "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
       "onboard_time": 1691918615,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245152,
-      "num": 245152,
-      "word": "檀健次一句话我掉三滴泪",
-      "onboard_time": 1691928815,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 244889,
@@ -315,6 +323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188648,
+      "num": 188648,
+      "word": "杨超越是住山上吗",
+      "onboard_time": 1691943869,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186404,
       "num": 186404,
       "word": "iKON离开YG后的回归速度",
@@ -363,12 +379,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166693,
-      "num": 166693,
-      "word": "于适回应票房过20亿表演龙吸水",
-      "onboard_time": 1691943453,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 170373,
+      "num": 170373,
+      "word": "切尔西vs利物浦",
+      "onboard_time": 1691943812,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 163416,
@@ -387,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146549,
+      "num": 146549,
+      "word": "郑恺苗苗被小朋友索要合照",
+      "onboard_time": 1691919273,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133862,
       "num": 133862,
       "word": "05后就要开学报到了",
@@ -395,7 +419,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26479,
+      "raw_hot": 31269,
       "num": 726920,
       "word": "巧妙散热让博物馆的热度细水长流",
       "onboard_time": 1691934401,
