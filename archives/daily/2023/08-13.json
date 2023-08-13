@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691918071931,
+  "endTime": 1691919240038,
   "band_list": [
     {
       "raw_hot": 2539574,
@@ -139,6 +139,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1107115,
+      "num": 827685,
+      "word": "三十岁我从公务员岗位上辞职了",
+      "onboard_time": 1691905294,
+      "rank": 4,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 1093681,
+      "num": 1093681,
+      "word": "郑恺苗苗奚梦瑶何猷君录制向山海出发",
+      "onboard_time": 1691913637,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1093121,
       "num": 1093121,
       "word": "1976年唐山大地震前的征兆",
@@ -161,14 +177,6 @@
       "onboard_time": 1691912015,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1056556,
-      "num": 827685,
-      "word": "三十岁我从公务员岗位上辞职了",
-      "onboard_time": 1691905294,
-      "rank": 4,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 1010267,
@@ -243,6 +251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 899049,
+      "num": 899049,
+      "word": "淮上在晋江作者大会上的照片",
+      "onboard_time": 1691917296,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 876322,
+      "num": 347465,
+      "word": "男朋友化妆堪比诈骗现场",
+      "onboard_time": 1691917234,
+      "rank": 31,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 874833,
       "num": 874833,
       "word": "王栎鑫为吴悠拼了",
@@ -272,14 +296,6 @@
       "word": "许光汉表情",
       "onboard_time": 1691898694,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 824129,
-      "num": 824129,
-      "word": "郑恺苗苗奚梦瑶何猷君录制向山海出发",
-      "onboard_time": 1691913637,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -329,6 +345,14 @@
       "onboard_time": 1691913996,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 731712,
+      "num": 731712,
+      "word": "王源低调给黑龙江捐款",
+      "onboard_time": 1691917296,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 696104,
@@ -539,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 521603,
-      "num": 426196,
-      "word": "淮上在晋江作者大会上的照片",
-      "onboard_time": 1691917296,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 520234,
       "num": 337673,
       "word": "领导说我下班就像离职",
@@ -593,6 +609,14 @@
       "onboard_time": 1691914235,
       "rank": 36,
       "category": "情感,时尚"
+    },
+    {
+      "raw_hot": 487051,
+      "num": 324154,
+      "word": "周也方否认孤注一掷片酬高于金晨",
+      "onboard_time": 1691918196,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 484842,
@@ -691,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426974,
+      "num": 320374,
+      "word": "杨紫魏大勋能二搭吗",
+      "onboard_time": 1691917416,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423954,
       "num": 217189,
       "word": "檀健次 美瞳",
@@ -755,12 +787,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381600,
+      "num": 319407,
+      "word": "彭佳慧说古巨基是儿子控",
+      "onboard_time": 1691917535,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378348,
       "num": 212053,
       "word": "明天又多了三个陌生人",
       "onboard_time": 1691886990,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 375075,
+      "num": 375075,
+      "word": "挣钱和赚钱是两个概念",
+      "onboard_time": 1691913278,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 372277,
@@ -801,14 +849,6 @@
       "onboard_time": 1691904393,
       "rank": 27,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 363612,
-      "num": 363612,
-      "word": "挣钱和赚钱是两个概念",
-      "onboard_time": 1691913278,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 362124,
@@ -867,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341444,
+      "num": 305745,
+      "word": "封神",
+      "onboard_time": 1691917654,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340488,
       "num": 340488,
       "word": "疯批王姬小夭上线",
@@ -907,30 +955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327070,
-      "num": 248549,
-      "word": "杨紫魏大勋能二搭吗",
-      "onboard_time": 1691917416,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 321846,
-      "num": 232876,
-      "word": "男朋友化妆堪比诈骗现场",
-      "onboard_time": 1691917234,
-      "rank": 31,
-      "category": "幽默,美妆"
-    },
-    {
-      "raw_hot": 320247,
-      "num": 248503,
-      "word": "封神",
-      "onboard_time": 1691917654,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 319970,
       "num": 319970,
       "word": "每天喝无糖饮料发生了什么变化",
@@ -955,12 +979,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317698,
+      "num": 317698,
+      "word": "早上一杯开机晚上一杯关机",
+      "onboard_time": 1691917234,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315411,
       "num": 315411,
       "word": "1582年消失的十天去哪了",
       "onboard_time": 1691905713,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313762,
+      "num": 299124,
+      "word": "邓为摸栏杆被烫手",
+      "onboard_time": 1691918615,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 313758,
@@ -971,10 +1011,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313066,
+      "num": 298873,
+      "word": "赵樱子最想合作的喜剧演员是贾玲",
+      "onboard_time": 1691917416,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309876,
       "num": 309876,
       "word": "医药反腐深入被查书记院长升至176位",
       "onboard_time": 1691888133,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305524,
+      "num": 305524,
+      "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
+      "onboard_time": 1691918615,
       "rank": 28,
       "category": "社会新闻"
     },
@@ -1049,14 +1105,6 @@
       "onboard_time": 1691886148,
       "rank": 18,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 286139,
-      "num": 248423,
-      "word": "王源低调给黑龙江捐款",
-      "onboard_time": 1691917296,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 286027,
@@ -1243,14 +1291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 248277,
-      "num": 248277,
-      "word": "早上一杯开机晚上一杯关机",
-      "onboard_time": 1691917234,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 247334,
       "num": 286604,
       "word": "原神",
@@ -1395,6 +1435,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 213384,
+      "num": 208843,
+      "word": "张泽禹张极翻跳yummy",
+      "onboard_time": 1691917897,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212733,
       "num": 212733,
       "word": "C罗利雅得胜利首冠",
@@ -1449,14 +1497,6 @@
       "onboard_time": 1691854302,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 208843,
-      "num": 208843,
-      "word": "张泽禹张极翻跳yummy",
-      "onboard_time": 1691917897,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 207869,
@@ -1515,14 +1555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200904,
-      "num": 168867,
-      "word": "彭佳慧说古巨基是儿子控",
-      "onboard_time": 1691917535,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200682,
       "num": 200682,
       "word": "黄渤王一博对戏剧照",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1691906675,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198077,
+      "num": 198077,
+      "word": "21岁到27岁消费观的变化",
+      "onboard_time": 1691919039,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 197824,
@@ -1635,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193785,
-      "num": 168844,
-      "word": "赵樱子最想合作的喜剧演员是贾玲",
-      "onboard_time": 1691917416,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192934,
       "num": 192934,
       "word": "宋亚轩跳完舞害羞了",
@@ -1675,12 +1707,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191092,
+      "num": 191092,
+      "word": "流浪猫在雨天偷看室内宠物猫",
+      "onboard_time": 1691918015,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191052,
       "num": 455907,
       "word": "这7人在被困列车上成立了临时党支部",
       "onboard_time": 1691843014,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191026,
+      "num": 187846,
+      "word": "李莲花武打美学",
+      "onboard_time": 1691918374,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 190950,
@@ -1713,6 +1761,14 @@
       "onboard_time": 1691914235,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 188068,
+      "num": 188068,
+      "word": "和花花追空投的花式理由",
+      "onboard_time": 1691918436,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 187780,
@@ -1771,6 +1827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178872,
+      "num": 178872,
+      "word": "时尚芭莎",
+      "onboard_time": 1691918976,
+      "rank": 48,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 178504,
       "num": 178504,
       "word": "中国男篮vs德国男篮",
@@ -1825,6 +1889,14 @@
       "onboard_time": 1691907395,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171134,
+      "num": 171134,
+      "word": "谁教你这么喝苹果汁的",
+      "onboard_time": 1691918134,
+      "rank": 49,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 170656,
@@ -1971,14 +2043,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 113813,
-      "num": 168796,
-      "word": "流浪猫在雨天偷看室内宠物猫",
-      "onboard_time": 1691918015,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113808,
       "num": 113808,
       "word": "我国陆地探测四号01星发射成功",
@@ -2099,6 +2163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 62994,
+      "num": 420558,
+      "word": "小马驹过马路马爸爸飞奔守护",
+      "onboard_time": 1691917234,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60054,
       "num": 60054,
       "word": "排球少年 我推呢",
@@ -2169,14 +2241,6 @@
       "onboard_time": 1691866936,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 26047,
-      "num": 420558,
-      "word": "小马驹过马路马爸爸飞奔守护",
-      "onboard_time": 1691917234,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23649,
