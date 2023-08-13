@@ -1,0 +1,410 @@
+{
+  "runTime": 1691889122582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2487416,
+        "num": 2487416,
+        "word": "身体缺啥脸上就长啥",
+        "onboard_time": 1691882542,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1904543,
+        "num": 1904543,
+        "word": "江浙沪独生女真的值得羡慕吗",
+        "onboard_time": 1691884047,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59906,
+        "num": 1358226,
+        "word": "退伍老兵敬礼送别抗洪官兵",
+        "onboard_time": 1691845122,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006963,
+        "num": 1006963,
+        "word": "被流放27年的泰国王子突然回国",
+        "onboard_time": 1691882542,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 674862,
+        "num": 674862,
+        "word": "医院副院长被抓痛哭自己没法养老",
+        "onboard_time": 1691885489,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581451,
+        "num": 581451,
+        "word": "杨紫说了啥把王鹤棣笑成这样",
+        "onboard_time": 1691885730,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525337,
+        "num": 525337,
+        "word": "张杰谢娜",
+        "onboard_time": 1691848542,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 561580,
+        "num": 520651,
+        "word": "邓为大笑",
+        "onboard_time": 1691882362,
+        "rank": 7,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 514419,
+        "num": 514419,
+        "word": "去海边玩最好不要戴项链",
+        "onboard_time": 1691884286,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424818,
+        "num": 424818,
+        "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
+        "onboard_time": 1691859569,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 956249,
+        "num": 421917,
+        "word": "魏大勋的恋爱情商技能",
+        "onboard_time": 1691885006,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665017,
+        "num": 408515,
+        "word": "18岁女生回应遭网约车司机性侵",
+        "onboard_time": 1691868316,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387405,
+        "num": 387405,
+        "word": "顺产剖宫产花费上的区别",
+        "onboard_time": 1691887111,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385757,
+        "num": 385757,
+        "word": "为啥有的眼科医生还选择戴眼镜",
+        "onboard_time": 1691884226,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205985,
+        "num": 365958,
+        "word": "小学生发明能骑的行李箱获金奖",
+        "onboard_time": 1691870355,
+        "rank": 14,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 354662,
+        "num": 354662,
+        "word": "张艺兴演唱会应援棒不让带走",
+        "onboard_time": 1691882182,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349884,
+        "num": 349884,
+        "word": "孟美岐 审视我的人还没放下",
+        "onboard_time": 1691852744,
+        "rank": 16,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 329579,
+        "num": 329579,
+        "word": "家长吐槽暑假40天孩子开销五六万",
+        "onboard_time": 1691853283,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286551,
+        "num": 286551,
+        "word": "8游客挖蛤蜊被困获救时还拎着桶",
+        "onboard_time": 1691886148,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 275225,
+        "num": 275225,
+        "word": "游客感慨西安人流量说这就是盛唐吗",
+        "onboard_time": 1691886451,
+        "rank": 19,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1555918,
+        "num": 269763,
+        "word": "男网红在泰国杀害男伴分尸被捕",
+        "onboard_time": 1691886211,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317772,
+        "num": 268685,
+        "word": "成毅是靠什么爆火的",
+        "onboard_time": 1691886451,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263481,
+        "num": 263481,
+        "word": "国家一级演员苏孝林被立案调查",
+        "onboard_time": 1691847283,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 251286,
+        "num": 251286,
+        "word": "胡嘉欣女将军造型",
+        "onboard_time": 1691888071,
+        "rank": 23,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 250719,
+        "num": 250719,
+        "word": "刘雨昕广州站演唱会上座率",
+        "onboard_time": 1691887051,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241412,
+        "num": 241412,
+        "word": "金晨说给安娜换件新工服",
+        "onboard_time": 1691885550,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229011,
+        "num": 229011,
+        "word": "疯批王姬小夭上线",
+        "onboard_time": 1691858432,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218091,
+        "num": 218091,
+        "word": "小猪因洪水被饿10天瘦成S形身材",
+        "onboard_time": 1691852265,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217646,
+        "num": 217646,
+        "word": "医药反腐深入被查书记院长升至176位",
+        "onboard_time": 1691888133,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212733,
+        "num": 212733,
+        "word": "C罗利雅得胜利首冠",
+        "onboard_time": 1691882604,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378348,
+        "num": 212053,
+        "word": "明天又多了三个陌生人",
+        "onboard_time": 1691886990,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 265592,
+        "num": 211386,
+        "word": "在日本吃个冰淇淋有多难",
+        "onboard_time": 1691885430,
+        "rank": 31,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 210655,
+        "num": 210655,
+        "word": "网友骂人可以斯文到什么程度",
+        "onboard_time": 1691881340,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 207240,
+        "num": 207240,
+        "word": "宣璐民国大小姐造型",
+        "onboard_time": 1691887051,
+        "rank": 33,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 204763,
+        "num": 204763,
+        "word": "分享欲和报备是两回事",
+        "onboard_time": 1691888612,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200454,
+        "num": 200454,
+        "word": "杨紫荒岛共度余生檀健次邓为选了谁",
+        "onboard_time": 1691887953,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190950,
+        "num": 190950,
+        "word": "灵超签售会帮粉丝说李飞",
+        "onboard_time": 1691883807,
+        "rank": 36,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 189507,
+        "num": 189507,
+        "word": "李雪琴在王鹤棣魏大勋之间做选择",
+        "onboard_time": 1691846621,
+        "rank": 37,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 188988,
+        "num": 188988,
+        "word": "父母因孩子贪玩将其丢在机场走了",
+        "onboard_time": 1691888672,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187428,
+        "num": 187428,
+        "word": "夏威夷大火约100人跳太平洋逃生",
+        "onboard_time": 1691888612,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 186049,
+        "num": 186049,
+        "word": "工作人员回应泰安高铁站9成是按摩椅",
+        "onboard_time": 1691888434,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178504,
+        "num": 178504,
+        "word": "中国男篮vs德国男篮",
+        "onboard_time": 1691881340,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177155,
+        "num": 177155,
+        "word": "封神第一部",
+        "onboard_time": 1691883986,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171787,
+        "num": 171787,
+        "word": "白敬亭穿好厚",
+        "onboard_time": 1691883565,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164525,
+        "num": 164525,
+        "word": "读大学的性价比越来越低了吗",
+        "onboard_time": 1691888374,
+        "rank": 44,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 145676,
+        "num": 145676,
+        "word": "杨紫泼水 孟子义2.0",
+        "onboard_time": 1691851728,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141422,
+        "num": 141422,
+        "word": "在20公里外的小区遇见走丢一年的猫",
+        "onboard_time": 1691888313,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138669,
+        "num": 138669,
+        "word": "每天喝无糖饮料发生了什么变化",
+        "onboard_time": 1691846261,
+        "rank": 47,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 133396,
+        "num": 133396,
+        "word": "吴昕去看了Amber演唱会",
+        "onboard_time": 1691889036,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131486,
+        "num": 131486,
+        "word": "无心法师3开头的小妖怪是檀健次",
+        "onboard_time": 1691883025,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#回望二万五千里长征路#"
+    }
+  }
+}
