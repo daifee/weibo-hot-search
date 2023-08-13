@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691939710974,
+  "endTime": 1691940825090,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -499,6 +499,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 2215446,
+      "num": 2215446,
+      "word": "孤注一掷票房断层第一",
+      "onboard_time": 1691937880,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2212471,
       "num": 2212471,
       "word": "杨紫羊了个羊通关后的反应",
@@ -833,14 +841,6 @@
       "onboard_time": 1691405975,
       "rank": 3,
       "category": "艺人,影视"
-    },
-    {
-      "raw_hot": 1862867,
-      "num": 1862867,
-      "word": "孤注一掷票房断层第一",
-      "onboard_time": 1691937880,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1824705,
@@ -2748,7 +2748,7 @@
     },
     {
       "raw_hot": 1028177,
-      "num": 426379,
+      "num": 457915,
       "word": "熬夜熬的是甲状腺寿命",
       "onboard_time": 1691938060,
       "rank": 20,
@@ -3739,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823549,
+      "num": 823549,
+      "word": "六公主为什么如此关注封神",
+      "onboard_time": 1691939499,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 822839,
       "num": 822839,
       "word": "小夭喊杀错人的原因",
@@ -4716,7 +4724,7 @@
     },
     {
       "raw_hot": 699873,
-      "num": 451682,
+      "num": 457376,
       "word": "一个人住真的很爽",
       "onboard_time": 1691935361,
       "rank": 29,
@@ -5819,6 +5827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 587779,
+      "num": 574879,
+      "word": "黄曦彦 大宋少年志",
+      "onboard_time": 1691939320,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 587760,
       "num": 587760,
       "word": "LPL出征S13全员披风上阵",
@@ -6819,6 +6835,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 514575,
+      "num": 514575,
+      "word": "吃完的荔枝核不要扔",
+      "onboard_time": 1691937341,
+      "rank": 17,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 514419,
       "num": 514419,
       "word": "去海边玩最好不要戴项链",
@@ -7651,11 +7675,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 460570,
+      "num": 460570,
+      "word": "六公主马上去问杨玏了",
+      "onboard_time": 1691940160,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460282,
       "num": 319600,
       "word": "TFBOYS十周年蛋糕原本的样子",
       "onboard_time": 1691387559,
       "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 459435,
+      "num": 459435,
+      "word": "BLACKPINK疑似又有人划水",
+      "onboard_time": 1691940400,
+      "rank": 19,
       "category": "音乐"
     },
     {
@@ -8073,14 +8113,6 @@
       "onboard_time": 1691805759,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 434998,
-      "num": 434998,
-      "word": "吃完的荔枝核不要扔",
-      "onboard_time": 1691937341,
-      "rank": 17,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 434874,
@@ -8769,6 +8801,14 @@
       "onboard_time": 1691538271,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401026,
+      "num": 325924,
+      "word": "8岁娃踢个易拉罐赔了18万",
+      "onboard_time": 1691939981,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400969,
@@ -9547,6 +9587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366357,
+      "num": 366357,
+      "word": "大爷拿500枚1角硬币充值小姐姐12分钟清点完",
+      "onboard_time": 1691939499,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365886,
       "num": 365886,
       "word": "猫没抓到老鼠主人放监控给它们看",
@@ -9827,6 +9875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355554,
+      "num": 355554,
+      "word": "邓为的厦门vlog",
+      "onboard_time": 1691939680,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355426,
       "num": 355426,
       "word": "老天爱笨小孩",
@@ -10025,14 +10081,6 @@
       "onboard_time": 1691728541,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 348543,
-      "num": 348543,
-      "word": "黄曦彦 大宋少年志",
-      "onboard_time": 1691939320,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 348207,
@@ -10488,6 +10536,14 @@
       "word": "于适封神票房破19亿海报",
       "onboard_time": 1691829275,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 327643,
+      "num": 327643,
+      "word": "东伯侯之子fun了straight",
+      "onboard_time": 1691940218,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -11017,6 +11073,14 @@
       "onboard_time": 1691683773,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311113,
+      "num": 311113,
+      "word": "真有人会忙到一天不回消息吗",
+      "onboard_time": 1691940039,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 310690,
@@ -12001,6 +12065,14 @@
       "onboard_time": 1691714135,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279235,
+      "num": 279235,
+      "word": "李相夷舞功只剩一层了",
+      "onboard_time": 1691939499,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 279182,
@@ -13019,6 +13091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250537,
+      "num": 250537,
+      "word": "没钱花和上班哪个更痛苦",
+      "onboard_time": 1691939141,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250383,
       "num": 250383,
       "word": "金晨说给安娜换件新工服",
@@ -13257,14 +13337,6 @@
       "onboard_time": 1691559636,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243377,
-      "num": 243377,
-      "word": "李相夷舞功只剩一层了",
-      "onboard_time": 1691939499,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 243238,
@@ -13665,14 +13737,6 @@
       "onboard_time": 1691378859,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232971,
-      "num": 232971,
-      "word": "没钱花和上班哪个更痛苦",
-      "onboard_time": 1691939141,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 232809,
@@ -14259,14 +14323,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 220123,
-      "num": 220123,
-      "word": "大爷拿500枚1角硬币充值小姐姐12分钟清点完",
-      "onboard_time": 1691939499,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220118,
       "num": 220118,
       "word": "在顺德牛奶还能这样吃",
@@ -14851,28 +14907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208911,
-      "num": 208911,
-      "word": "邓为的厦门vlog",
-      "onboard_time": 1691939680,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208683,
       "num": 258529,
       "word": "女足",
       "onboard_time": 1691835823,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208547,
-      "num": 208547,
-      "word": "六公主为什么如此关注封神",
-      "onboard_time": 1691939499,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 208544,
@@ -15065,6 +15105,14 @@
       "onboard_time": 1691641415,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206179,
+      "num": 206179,
+      "word": "切尔西",
+      "onboard_time": 1691940338,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 206000,
@@ -15409,6 +15457,14 @@
       "onboard_time": 1691393078,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201044,
+      "num": 201044,
+      "word": "东北人叠动词",
+      "onboard_time": 1691939981,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 200847,
