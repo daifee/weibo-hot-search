@@ -1,0 +1,410 @@
+{
+  "runTime": 1691925146547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2127167,
+        "num": 2127167,
+        "word": "杨紫羊了个羊通关后的反应",
+        "onboard_time": 1691922157,
+        "rank": 0,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 295352,
+        "num": 1682966,
+        "word": "丈夫割草归来采一大把野花送妻子",
+        "onboard_time": 1691918374,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 137543,
+        "num": 1626811,
+        "word": "中国科考队发布亚洲最高树等身照",
+        "onboard_time": 1691912435,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1610880,
+        "num": 1610880,
+        "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
+        "onboard_time": 1691918615,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242414,
+        "num": 1505737,
+        "word": "山东一家三口同日登记捐献遗体器官",
+        "onboard_time": 1691920595,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1422453,
+        "num": 1422453,
+        "word": "西安泥石流已发现21名遇难者",
+        "onboard_time": 1691922877,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 86449,
+        "num": 1080140,
+        "word": "小马驹过马路马爸爸飞奔守护",
+        "onboard_time": 1691917234,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968760,
+        "num": 968760,
+        "word": "李佳琦说防风邶整个大上头",
+        "onboard_time": 1691919334,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 932423,
+        "num": 932423,
+        "word": "内娱Queencard决赛圈",
+        "onboard_time": 1691921016,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 694704,
+        "num": 694704,
+        "word": "封神第一部票房破20亿",
+        "onboard_time": 1691923596,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 682244,
+        "num": 682244,
+        "word": "三十岁我从公务员岗位上辞职了",
+        "onboard_time": 1691905294,
+        "rank": 10,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 806997,
+        "num": 658452,
+        "word": "陈牧驰 一辈子很快就会过去",
+        "onboard_time": 1691923957,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524839,
+        "num": 524839,
+        "word": "男朋友化妆堪比诈骗现场",
+        "onboard_time": 1691917234,
+        "rank": 12,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 495504,
+        "num": 495504,
+        "word": "郑恺苗苗被小朋友索要合照",
+        "onboard_time": 1691919273,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449401,
+        "num": 449401,
+        "word": "王一博也救不了中国体育电影吗",
+        "onboard_time": 1691908656,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91183,
+        "num": 435789,
+        "word": "JDGWBGLNG大乱斗",
+        "onboard_time": 1691922213,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 424305,
+        "num": 424305,
+        "word": "Viper",
+        "onboard_time": 1691920957,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 420163,
+        "num": 420163,
+        "word": "周也方否认孤注一掷片酬高于金晨",
+        "onboard_time": 1691918196,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416430,
+        "num": 416430,
+        "word": "SEVENTEEN先行曲将于8月16日公开",
+        "onboard_time": 1691924438,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390604,
+        "num": 390604,
+        "word": "举报补课网红称掉粉了",
+        "onboard_time": 1691911057,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 638586,
+        "num": 383474,
+        "word": "十年没有涨价的东西有什么",
+        "onboard_time": 1691922877,
+        "rank": 20,
+        "category": "情感,财经"
+      },
+      {
+        "raw_hot": 449137,
+        "num": 378221,
+        "word": "普通人对钱一定要有概念",
+        "onboard_time": 1691921976,
+        "rank": 21,
+        "category": "财经,幽默"
+      },
+      {
+        "raw_hot": 409449,
+        "num": 376581,
+        "word": "21岁到27岁消费观的变化",
+        "onboard_time": 1691919039,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365583,
+        "num": 365583,
+        "word": "严浩翔戴了一串钢珠",
+        "onboard_time": 1691921976,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364972,
+        "num": 364972,
+        "word": "封神",
+        "onboard_time": 1691917654,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354071,
+        "num": 354071,
+        "word": "肖战张艺兴是大兴和大战",
+        "onboard_time": 1691921254,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352444,
+        "num": 352444,
+        "word": "停止内耗的五个小习惯",
+        "onboard_time": 1691912015,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341817,
+        "num": 341817,
+        "word": "Hero战胜XYG",
+        "onboard_time": 1691923655,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 331836,
+        "num": 331836,
+        "word": "郑恺苗苗奚梦瑶何猷君录制向山海出发",
+        "onboard_time": 1691913637,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312830,
+        "num": 312830,
+        "word": "妈妈才是理想的旅游搭子",
+        "onboard_time": 1691923356,
+        "rank": 29,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 292023,
+        "num": 292023,
+        "word": "邓为摸栏杆被烫手",
+        "onboard_time": 1691918615,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291500,
+        "num": 291500,
+        "word": "暑假最受欢迎的男主",
+        "onboard_time": 1691922933,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283884,
+        "num": 283884,
+        "word": "黄晓明特别想要一个女儿",
+        "onboard_time": 1691898033,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281636,
+        "num": 281636,
+        "word": "赵丽颖吊带小黑裙",
+        "onboard_time": 1691914536,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264974,
+        "num": 264974,
+        "word": "淮上在晋江作者大会上的照片",
+        "onboard_time": 1691917296,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263026,
+        "num": 263026,
+        "word": "小九别看 全是恶评",
+        "onboard_time": 1691921195,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248982,
+        "num": 248982,
+        "word": "刘耀文素颜吃饭",
+        "onboard_time": 1691924793,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244690,
+        "num": 244690,
+        "word": "王源低调给黑龙江捐款",
+        "onboard_time": 1691917296,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232861,
+        "num": 232861,
+        "word": "母亲怀孕且瘫痪遭婆家嫌弃",
+        "onboard_time": 1691899355,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 198794,
+        "num": 198794,
+        "word": "医疗反腐 医疗从业者的反应",
+        "onboard_time": 1691911175,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240578,
+        "num": 198583,
+        "word": "时代少年团复盘全员加速中",
+        "onboard_time": 1691923056,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225047,
+        "num": 198002,
+        "word": "张晚意偷偷减肥",
+        "onboard_time": 1691919394,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217999,
+        "num": 197484,
+        "word": "封神票房",
+        "onboard_time": 1691913814,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216640,
+        "num": 197344,
+        "word": "莲花楼最新番外",
+        "onboard_time": 1691912914,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213414,
+        "num": 196852,
+        "word": "孤注一掷",
+        "onboard_time": 1691911715,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204752,
+        "num": 196308,
+        "word": "黄晓明好像老家亲戚",
+        "onboard_time": 1691925036,
+        "rank": 45,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 196150,
+        "num": 196150,
+        "word": "西安泥石流",
+        "onboard_time": 1691924256,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184576,
+        "num": 184576,
+        "word": "14岁女儿做好一桌菜等妈妈反被指责",
+        "onboard_time": 1691905294,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184342,
+        "num": 184342,
+        "word": "Hero对战XYG",
+        "onboard_time": 1691919575,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183709,
+        "num": 183709,
+        "word": "西安泥石流灾害仍有6人失联",
+        "onboard_time": 1691924856,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力解决群众的操心事烦心事#"
+    }
+  }
+}
