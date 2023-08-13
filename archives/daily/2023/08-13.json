@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691894031425,
+  "endTime": 1691896553011,
   "band_list": [
     {
       "raw_hot": 2487416,
@@ -9,6 +9,14 @@
       "onboard_time": 1691882542,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2065364,
+      "num": 509395,
+      "word": "魏大勋不是说我女朋友而是说她男朋友",
+      "onboard_time": 1691893294,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2008154,
@@ -48,6 +56,14 @@
       "word": "各大医院书记院长被抓后痛哭流涕",
       "onboard_time": 1691839057,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1203793,
+      "num": 403526,
+      "word": "碧桂园",
+      "onboard_time": 1691893714,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -99,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890357,
+      "num": 373011,
+      "word": "四大名著买了合订本是一种什么体验",
+      "onboard_time": 1691894554,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 860182,
       "num": 860182,
       "word": "分享欲和报备是两回事",
@@ -112,14 +136,6 @@
       "word": "杨紫泼水 孟子义2.0",
       "onboard_time": 1691851728,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 791944,
-      "num": 509395,
-      "word": "魏大勋不是说我女朋友而是说她男朋友",
-      "onboard_time": 1691893294,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -219,12 +235,28 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 560350,
+      "num": 560350,
+      "word": "邓为涂山璟V榜破9",
+      "onboard_time": 1691894854,
+      "rank": 5,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 549462,
       "num": 481613,
       "word": "张杰演唱会cue孟宴臣",
       "onboard_time": 1691853822,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 548225,
+      "num": 366577,
+      "word": "郑州某座桥下的佚名诗被涂掉了",
+      "onboard_time": 1691894074,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514419,
@@ -243,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484842,
+      "num": 242751,
+      "word": "简历上造假却得到了这份工作",
+      "onboard_time": 1691894794,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 478936,
       "num": 450785,
       "word": "七时吉祥 改编",
@@ -252,11 +292,19 @@
     },
     {
       "raw_hot": 475282,
-      "num": 341313,
+      "num": 459431,
       "word": "孙阳",
       "onboard_time": 1691891914,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 470027,
+      "num": 337673,
+      "word": "领导说我下班就像离职",
+      "onboard_time": 1691895575,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 465137,
@@ -355,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371206,
+      "num": 337043,
+      "word": "留学生被英国大爷反向安利山东",
+      "onboard_time": 1691893114,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370924,
       "num": 286747,
       "word": "父母因孩子贪玩将其丢在机场走了",
@@ -369,6 +425,14 @@
       "onboard_time": 1691882182,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 362124,
+      "num": 362124,
+      "word": "金晨近2年影视作品口碑",
+      "onboard_time": 1691893354,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 358372,
@@ -387,12 +451,28 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 341230,
+      "num": 341230,
+      "word": "小夭在海底的第30年",
+      "onboard_time": 1691895875,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340488,
       "num": 340488,
       "word": "疯批王姬小夭上线",
       "onboard_time": 1691858432,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335192,
+      "num": 335192,
+      "word": "虞书欣说终于见面啦",
+      "onboard_time": 1691894436,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 319970,
@@ -448,6 +528,14 @@
       "word": "原来这张表情包是喜羊羊遗照",
       "onboard_time": 1691846080,
       "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 288750,
+      "num": 288750,
+      "word": "一生气就爱把备注改成全名",
+      "onboard_time": 1691894133,
+      "rank": 26,
       "category": "幽默"
     },
     {
@@ -563,28 +651,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243506,
-      "num": 243506,
-      "word": "金晨近2年影视作品口碑",
-      "onboard_time": 1691893354,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 242701,
-      "num": 242701,
-      "word": "留学生被英国大爷反向安利山东",
-      "onboard_time": 1691893114,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234964,
       "num": 168160,
       "word": "郑秀妍芝芙去了Amber演唱会",
       "onboard_time": 1691851425,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230080,
+      "num": 230080,
+      "word": "古天乐张智霖重现天地男儿经典动作",
+      "onboard_time": 1691893354,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 228454,
@@ -611,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223970,
+      "num": 223970,
+      "word": "金晨这几年是不是走事业运",
+      "onboard_time": 1691896115,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219691,
       "num": 168104,
       "word": "黄子韬怎么一直惹徐艺洋生气",
@@ -627,20 +715,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212579,
+      "num": 212579,
+      "word": "杰森斯坦森想和吴京二搭喜剧",
+      "onboard_time": 1691894794,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211875,
       "num": 211875,
       "word": "阮经天出车祸",
       "onboard_time": 1691835519,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210777,
-      "num": 210777,
-      "word": "古天乐张智霖重现天地男儿经典动作",
-      "onboard_time": 1691893354,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 210655,
@@ -691,14 +779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196361,
-      "num": 196361,
-      "word": "碧桂园",
-      "onboard_time": 1691893714,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194871,
       "num": 141869,
       "word": "赵丽颖珍珠项链耳钉",
@@ -737,6 +817,22 @@
       "onboard_time": 1691851425,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 189073,
+      "num": 189073,
+      "word": "张杰演唱会重返鸟巢",
+      "onboard_time": 1691895514,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 187780,
+      "num": 187780,
+      "word": "科班和非科班出身的演员",
+      "onboard_time": 1691893897,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 186813,
@@ -819,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167709,
+      "num": 167709,
+      "word": "玱玹和涂山篌联合杀了璟",
+      "onboard_time": 1691896536,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165942,
       "num": 165942,
       "word": "陈绮贞林宥嘉詹雯婷现身重庆仙女山",
@@ -841,14 +945,6 @@
       "onboard_time": 1691859926,
       "rank": 35,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 143884,
-      "num": 143884,
-      "word": "科班和非科班出身的演员",
-      "onboard_time": 1691893897,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 142067,
