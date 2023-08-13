@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691961210469,
+  "endTime": 1691962424284,
   "band_list": [
     {
       "raw_hot": 1666509,
@@ -507,6 +507,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 86321,
+      "num": 49838,
+      "word": "杨超越账号被卡无法上线",
+      "onboard_time": 1691956395,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 81814,
       "num": 81814,
       "word": "F人和T人的区别",
@@ -515,20 +523,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 80021,
-      "num": 45796,
-      "word": "杨超越账号被卡无法上线",
-      "onboard_time": 1691956395,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 61968,
       "num": 50035,
       "word": "周扬青蝴蝶吊带",
       "onboard_time": 1691951237,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 35315,
+      "num": 28418,
+      "word": "张晚意邓为檀健次眼神戏对比",
+      "onboard_time": 1691961374,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 31269,
