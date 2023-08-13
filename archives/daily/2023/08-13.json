@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691907558245,
+  "endTime": 1691908420688,
   "band_list": [
     {
       "raw_hot": 2487416,
@@ -9,6 +9,14 @@
       "onboard_time": 1691882542,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2412356,
+      "num": 2412356,
+      "word": "高密爆炸",
+      "onboard_time": 1691904335,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2253245,
@@ -25,14 +33,6 @@
       "onboard_time": 1691893294,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2127813,
-      "num": 2127813,
-      "word": "高密爆炸",
-      "onboard_time": 1691904335,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2066053,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1093121,
+      "num": 1093121,
+      "word": "1976年唐山大地震前的征兆",
+      "onboard_time": 1691906077,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1077514,
       "num": 453356,
       "word": "伊能静 手把手教底层女孩自救",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1010267,
-      "num": 705275,
+      "num": 793421,
       "word": "网红举报补课称会出钱让更多人干",
       "onboard_time": 1691902655,
       "rank": 27,
@@ -137,6 +145,14 @@
       "onboard_time": 1691882542,
       "rank": 31,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 984495,
+      "num": 984495,
+      "word": "网友高铁站偶遇王冰冰",
+      "onboard_time": 1691905354,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 956249,
@@ -187,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 890633,
-      "num": 890633,
-      "word": "网友高铁站偶遇王冰冰",
-      "onboard_time": 1691905354,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 874833,
       "num": 874833,
       "word": "王栎鑫为吴悠拼了",
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 827685,
+      "num": 827685,
+      "word": "三十岁我从公务员岗位上辞职了",
+      "onboard_time": 1691905294,
+      "rank": 4,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 815679,
       "num": 815679,
       "word": "杨紫泼水 孟子义2.0",
@@ -251,28 +267,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 704581,
-      "num": 704581,
-      "word": "三十岁我从公务员岗位上辞职了",
-      "onboard_time": 1691905294,
-      "rank": 4,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 696104,
       "num": 696104,
       "word": "国家一级演员苏孝林被立案调查",
       "onboard_time": 1691847283,
       "rank": 6,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 680494,
-      "num": 435004,
-      "word": "1976年唐山大地震前的征兆",
-      "onboard_time": 1691906077,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 674862,
@@ -315,6 +315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 646767,
+      "num": 646767,
+      "word": "14岁女儿做好一桌菜等妈妈反被指责",
+      "onboard_time": 1691905294,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638610,
       "num": 638610,
       "word": "女生餐馆吃饭一抬头发现店家全午睡",
@@ -329,14 +337,6 @@
       "onboard_time": 1691888612,
       "rank": 39,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 618260,
-      "num": 618260,
-      "word": "14岁女儿做好一桌菜等妈妈反被指责",
-      "onboard_time": 1691905294,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 615293,
@@ -483,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 474170,
+      "num": 474170,
+      "word": "杨紫檀健次片场烧烤",
+      "onboard_time": 1691906319,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 465137,
       "num": 449801,
       "word": "范丞丞上厕所也接视频",
@@ -537,6 +545,14 @@
       "onboard_time": 1691898396,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 424462,
+      "num": 424462,
+      "word": "龙吸水 妈见打行为",
+      "onboard_time": 1691906854,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 423954,
@@ -683,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340130,
-      "num": 340130,
-      "word": "杨紫檀健次片场烧烤",
-      "onboard_time": 1691906319,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 335192,
       "num": 335192,
       "word": "虞书欣说终于见面啦",
@@ -705,6 +713,14 @@
       "onboard_time": 1691902778,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 330900,
+      "num": 363853,
+      "word": "赵露思吴磊星汉灿烂造型概念设计图",
+      "onboard_time": 1691903314,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 319970,
@@ -723,12 +739,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 317280,
-      "num": 363853,
-      "word": "赵露思吴磊星汉灿烂造型概念设计图",
-      "onboard_time": 1691903314,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 315411,
+      "num": 315411,
+      "word": "1582年消失的十天去哪了",
+      "onboard_time": 1691905713,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 313758,
@@ -745,14 +761,6 @@
       "onboard_time": 1691888133,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309652,
-      "num": 309652,
-      "word": "1582年消失的十天去哪了",
-      "onboard_time": 1691905713,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 305391,
@@ -833,6 +841,14 @@
       "onboard_time": 1691888374,
       "rank": 44,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 271918,
+      "num": 271918,
+      "word": "金晨孤注一掷破16亿海报",
+      "onboard_time": 1691907936,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 270832,
@@ -947,16 +963,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242625,
-      "num": 242625,
-      "word": "龙吸水 妈见打行为",
-      "onboard_time": 1691906854,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 236993,
-      "num": 236993,
+      "raw_hot": 239480,
+      "num": 239480,
       "word": "长得像刘昊然是种什么体验",
       "onboard_time": 1691907033,
       "rank": 32,
@@ -977,6 +985,14 @@
       "onboard_time": 1691893354,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229457,
+      "num": 229457,
+      "word": "宋亚轩靠着墙飙高音",
+      "onboard_time": 1691906319,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 228454,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1691903558,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 221695,
-      "num": 221695,
-      "word": "宋亚轩靠着墙飙高音",
-      "onboard_time": 1691906319,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 219927,
@@ -1179,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199637,
+      "num": 199637,
+      "word": "无意识刷手机会导致大脑退化",
+      "onboard_time": 1691907574,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 198102,
       "num": 198102,
       "word": "檀健次微指全剧第一",
@@ -1235,12 +1251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192564,
+      "num": 192564,
+      "word": "长相思的出圈程度",
+      "onboard_time": 1691908177,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191921,
       "num": 191921,
       "word": "张晚意你自求多福吧",
       "onboard_time": 1691905236,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191515,
+      "num": 191515,
+      "word": "赵雅芝撑伞梦回白娘子",
+      "onboard_time": 1691907695,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 191052,
@@ -1363,19 +1395,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171332,
+      "num": 171332,
+      "word": "病人家属医院门口免费送1吨牛奶",
+      "onboard_time": 1691907395,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170656,
       "num": 170656,
       "word": "男子为亡妻销户时泪流满面亲吻照片",
       "onboard_time": 1691846621,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168460,
-      "num": 168460,
-      "word": "病人家属医院门口免费送1吨牛奶",
-      "onboard_time": 1691907395,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1500,7 +1532,7 @@
     },
     {
       "raw_hot": 109173,
-      "num": 812144,
+      "num": 1018487,
       "word": "武警清淤后双手发白让人心疼",
       "onboard_time": 1691901516,
       "rank": 2,

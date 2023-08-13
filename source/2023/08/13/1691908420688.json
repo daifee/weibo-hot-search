@@ -1,0 +1,410 @@
+{
+  "runTime": 1691908420688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2412356,
+        "num": 2412356,
+        "word": "高密爆炸",
+        "onboard_time": 1691904335,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093121,
+        "num": 1093121,
+        "word": "1976年唐山大地震前的征兆",
+        "onboard_time": 1691906077,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99575,
+        "num": 1018487,
+        "word": "武警清淤后双手发白让人心疼",
+        "onboard_time": 1691901516,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984495,
+        "num": 984495,
+        "word": "网友高铁站偶遇王冰冰",
+        "onboard_time": 1691905354,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827685,
+        "num": 827685,
+        "word": "三十岁我从公务员岗位上辞职了",
+        "onboard_time": 1691905294,
+        "rank": 4,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 883852,
+        "num": 793421,
+        "word": "网红举报补课称会出钱让更多人干",
+        "onboard_time": 1691902655,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 646767,
+        "num": 646767,
+        "word": "14岁女儿做好一桌菜等妈妈反被指责",
+        "onboard_time": 1691905294,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474170,
+        "num": 474170,
+        "word": "杨紫檀健次片场烧烤",
+        "onboard_time": 1691906319,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449555,
+        "num": 449555,
+        "word": "玱玹和涂山篌联合杀了璟",
+        "onboard_time": 1691896536,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430409,
+        "num": 430409,
+        "word": "女子吃菌出现幻觉 猫咪求登记结婚",
+        "onboard_time": 1691898333,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132665,
+        "num": 430203,
+        "word": "体制内离职的人现在怎么样了",
+        "onboard_time": 1691898274,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1061266,
+        "num": 429620,
+        "word": "伊能静 手把手教底层女孩自救",
+        "onboard_time": 1691904996,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907443,
+        "num": 428923,
+        "word": "魏大勋不是说我女朋友而是说她男朋友",
+        "onboard_time": 1691893294,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 853233,
+        "num": 428798,
+        "word": "黄晓明特别想要一个女儿",
+        "onboard_time": 1691898033,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171801,
+        "num": 428301,
+        "word": "山东一烤鱼店燃气闪爆1死1伤",
+        "onboard_time": 1691905774,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427779,
+        "num": 427779,
+        "word": "追妻火葬场这种文火起来是有原因的",
+        "onboard_time": 1691901814,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424462,
+        "num": 424462,
+        "word": "龙吸水 妈见打行为",
+        "onboard_time": 1691906854,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 385590,
+        "num": 385590,
+        "word": "相柳穷到自己唱主题曲",
+        "onboard_time": 1691902956,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330900,
+        "num": 330900,
+        "word": "赵露思吴磊星汉灿烂造型概念设计图",
+        "onboard_time": 1691903314,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320445,
+        "num": 320445,
+        "word": "王栎鑫为吴悠拼了",
+        "onboard_time": 1691901995,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661955,
+        "num": 318596,
+        "word": "母亲怀孕且瘫痪遭婆家嫌弃",
+        "onboard_time": 1691899355,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 345675,
+        "num": 318139,
+        "word": "张婧仪纯欲风",
+        "onboard_time": 1691904393,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 315411,
+        "num": 315411,
+        "word": "1582年消失的十天去哪了",
+        "onboard_time": 1691905713,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301490,
+        "num": 301490,
+        "word": "张晚意对粉丝说不好意思我赶时间",
+        "onboard_time": 1691902178,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298712,
+        "num": 298712,
+        "word": "男网红在泰国杀害男伴分尸被捕",
+        "onboard_time": 1691886211,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271918,
+        "num": 271918,
+        "word": "金晨孤注一掷破16亿海报",
+        "onboard_time": 1691907936,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239480,
+        "num": 239480,
+        "word": "长得像刘昊然是种什么体验",
+        "onboard_time": 1691907033,
+        "rank": 26,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 229457,
+        "num": 229457,
+        "word": "宋亚轩靠着墙飙高音",
+        "onboard_time": 1691906319,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223799,
+        "num": 223799,
+        "word": "王鹤棣被杨紫泼水的反应",
+        "onboard_time": 1691900736,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222625,
+        "num": 222625,
+        "word": "下班时间没回群消息被辞退了",
+        "onboard_time": 1691902778,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219354,
+        "num": 219354,
+        "word": "网友质疑发展电动车是不是走错了",
+        "onboard_time": 1691900134,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212641,
+        "num": 212641,
+        "word": "中国的哪个小县城的名字好听",
+        "onboard_time": 1691897135,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207444,
+        "num": 207444,
+        "word": "金晨这几年是不是走事业运",
+        "onboard_time": 1691896115,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203653,
+        "num": 203653,
+        "word": "许光汉表情",
+        "onboard_time": 1691898694,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200074,
+        "num": 200074,
+        "word": "四大名著买了合订本是一种什么体验",
+        "onboard_time": 1691894554,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199854,
+        "num": 199854,
+        "word": "山东一大街发生爆炸有人受伤",
+        "onboard_time": 1691899835,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199637,
+        "num": 199637,
+        "word": "无意识刷手机会导致大脑退化",
+        "onboard_time": 1691907574,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 194076,
+        "num": 194076,
+        "word": "摊贩称被威胁不删视频影响孩子考公",
+        "onboard_time": 1691903979,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192564,
+        "num": 192564,
+        "word": "长相思的出圈程度",
+        "onboard_time": 1691908177,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191515,
+        "num": 191515,
+        "word": "赵雅芝撑伞梦回白娘子",
+        "onboard_time": 1691907695,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186010,
+        "num": 186010,
+        "word": "檀健次微指全剧第一",
+        "onboard_time": 1691906675,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179940,
+        "num": 179940,
+        "word": "宋亚轩跳完舞害羞了",
+        "onboard_time": 1691906376,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171332,
+        "num": 171332,
+        "word": "病人家属医院门口免费送1吨牛奶",
+        "onboard_time": 1691907395,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166273,
+        "num": 166273,
+        "word": "江浙沪独生女真的值得羡慕吗",
+        "onboard_time": 1691884047,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164820,
+        "num": 164820,
+        "word": "四个显眼包狼尾发型",
+        "onboard_time": 1691889694,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162259,
+        "num": 162259,
+        "word": "景甜不演御姐演甜妹了吗",
+        "onboard_time": 1691905114,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159917,
+        "num": 159917,
+        "word": "杭州一公司给全体员工发放千万奖励",
+        "onboard_time": 1691902837,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141699,
+        "num": 141699,
+        "word": "领导说我下班就像离职",
+        "onboard_time": 1691895575,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118521,
+        "num": 141249,
+        "word": "医学类的APP推荐",
+        "onboard_time": 1691905835,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 88980,
+        "num": 138937,
+        "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
+        "onboard_time": 1691859569,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国陆地探测四号01星发射成功#"
+    }
+  }
+}
