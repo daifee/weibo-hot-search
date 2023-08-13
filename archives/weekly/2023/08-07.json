@@ -1,6 +1,6 @@
 {
   "startTime": 1691338869031,
-  "endTime": 1691897626363,
+  "endTime": 1691900319281,
   "band_list": [
     {
       "raw_hot": 7376507,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 2182541,
-      "num": 509395,
+      "num": 667502,
       "word": "魏大勋不是说我女朋友而是说她男朋友",
       "onboard_time": 1691893294,
       "rank": 11,
@@ -635,12 +635,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2066053,
+      "num": 1149623,
+      "word": "黄晓明特别想要一个女儿",
+      "onboard_time": 1691898033,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2065816,
       "num": 895543,
       "word": "赵丽颖的文案是尊嘟假嘟吧",
       "onboard_time": 1691671233,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2049284,
+      "num": 2049284,
+      "word": "四大名著买了合订本是一种什么体验",
+      "onboard_time": 1691894554,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 2047353,
@@ -1124,7 +1140,7 @@
     },
     {
       "raw_hot": 1618786,
-      "num": 590592,
+      "num": 667260,
       "word": "碧桂园",
       "onboard_time": 1691387860,
       "rank": 11,
@@ -2075,6 +2091,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1154928,
+      "num": 1154928,
+      "word": "体制内离职的人现在怎么样了",
+      "onboard_time": 1691898274,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1153737,
       "num": 1153737,
       "word": "陈都灵没跳又好像跳了",
@@ -2091,20 +2115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1149648,
-      "num": 460186,
-      "word": "四大名著买了合订本是一种什么体验",
-      "onboard_time": 1691894554,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1147938,
       "num": 1147938,
       "word": "Meiko打字15",
       "onboard_time": 1691489134,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1147859,
+      "num": 1147859,
+      "word": "玱玹和涂山篌联合杀了璟",
+      "onboard_time": 1691896536,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 1147519,
@@ -3043,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 884634,
+      "num": 276331,
+      "word": "母亲怀孕且瘫痪遭婆家嫌弃",
+      "onboard_time": 1691899355,
+      "rank": 20,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 884510,
       "num": 569608,
       "word": "鹿晗时隔六年再发星期五",
@@ -3321,6 +3353,14 @@
       "onboard_time": 1691592820,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 838315,
+      "num": 838315,
+      "word": "许光汉表情",
+      "onboard_time": 1691898694,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 837523,
@@ -3817,6 +3857,14 @@
       "onboard_time": 1691376215,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 755579,
+      "num": 755579,
+      "word": "中国的哪个小县城的名字好听",
+      "onboard_time": 1691897135,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 754950,
@@ -4400,14 +4448,6 @@
       "word": "王传君王大陆30秒演完孤注一掷",
       "onboard_time": 1691384026,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 679730,
-      "num": 679730,
-      "word": "玱玹和涂山篌联合杀了璟",
-      "onboard_time": 1691896536,
-      "rank": 46,
       "category": "影视"
     },
     {
@@ -5460,7 +5500,7 @@
     },
     {
       "raw_hot": 575658,
-      "num": 575658,
+      "num": 672587,
       "word": "郑州某座桥下的佚名诗被涂掉了",
       "onboard_time": 1691894074,
       "rank": 16,
@@ -5817,6 +5857,14 @@
       "onboard_time": 1691467657,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 548419,
+      "num": 548419,
+      "word": "女子吃菌出现幻觉 猫咪求登记结婚",
+      "onboard_time": 1691898333,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547935,
@@ -7283,6 +7331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436402,
+      "num": 436402,
+      "word": "小夭染血含泪",
+      "onboard_time": 1691898396,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 436092,
       "num": 820460,
       "word": "王楚然张晚意 娇藏",
@@ -7537,6 +7593,14 @@
       "onboard_time": 1691591321,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 423251,
+      "num": 268355,
+      "word": "内娱火出圈的明星",
+      "onboard_time": 1691898452,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 422697,
@@ -8441,6 +8505,14 @@
       "onboard_time": 1691814097,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375349,
+      "num": 222484,
+      "word": "拉宏桑见帅哥",
+      "onboard_time": 1691899654,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 374704,
@@ -11443,6 +11515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260692,
+      "num": 260692,
+      "word": "莲花楼警示tips",
+      "onboard_time": 1691898814,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260663,
       "num": 260663,
       "word": "李维嘉土味情话好油",
@@ -11585,6 +11665,14 @@
       "onboard_time": 1691551479,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257142,
+      "num": 257142,
+      "word": "猫猫 吃饱饱不伤心",
+      "onboard_time": 1691896955,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 257067,
@@ -11867,12 +11955,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 245606,
-      "num": 245606,
-      "word": "中国的哪个小县城的名字好听",
-      "onboard_time": 1691897135,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 245895,
+      "num": 245895,
+      "word": "七时吉祥今日血婚",
+      "onboard_time": 1691899355,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 245575,
@@ -12823,6 +12911,14 @@
       "num": 184166,
       "word": "胡锡进 刘宇轩是谁",
       "onboard_time": 1691842235,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220972,
+      "num": 220972,
+      "word": "山东一大街发生爆炸有人受伤",
+      "onboard_time": 1691899835,
       "rank": 33,
       "category": "社会新闻"
     },
@@ -13875,6 +13971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200237,
+      "num": 200237,
+      "word": "审判剧版白日梦我",
+      "onboard_time": 1691897978,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200078,
       "num": 200078,
       "word": "真正的释怀是什么感觉",
@@ -13897,6 +14001,14 @@
       "onboard_time": 1691801497,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199678,
+      "num": 199678,
+      "word": "相柳的爱是具有神性的",
+      "onboard_time": 1691899474,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 199555,
@@ -14433,14 +14545,6 @@
       "onboard_time": 1691582137,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 191896,
-      "num": 191896,
-      "word": "猫猫 吃饱饱不伤心",
-      "onboard_time": 1691896955,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 191887,
@@ -15251,6 +15355,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 171275,
+      "num": 171275,
+      "word": "网友质疑发展电动车是不是走错了",
+      "onboard_time": 1691900134,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171265,
       "num": 818180,
       "word": "莲花楼预告悬疑感拉满了",
@@ -15377,6 +15489,14 @@
       "onboard_time": 1691658036,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164204,
+      "num": 164204,
+      "word": "以闪亮之名",
+      "onboard_time": 1691900256,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 164013,

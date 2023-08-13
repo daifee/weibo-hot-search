@@ -1,0 +1,410 @@
+{
+  "runTime": 1691900319281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2049284,
+        "num": 2049284,
+        "word": "四大名著买了合订本是一种什么体验",
+        "onboard_time": 1691894554,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1154928,
+        "num": 1154928,
+        "word": "体制内离职的人现在怎么样了",
+        "onboard_time": 1691898274,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14393,
+        "num": 1150136,
+        "word": "退伍老兵敬礼送别抗洪官兵",
+        "onboard_time": 1691845122,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2066053,
+        "num": 1149623,
+        "word": "黄晓明特别想要一个女儿",
+        "onboard_time": 1691898033,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1147859,
+        "num": 1147859,
+        "word": "玱玹和涂山篌联合杀了璟",
+        "onboard_time": 1691896536,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 838315,
+        "num": 838315,
+        "word": "许光汉表情",
+        "onboard_time": 1691898694,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 755579,
+        "num": 755579,
+        "word": "中国的哪个小县城的名字好听",
+        "onboard_time": 1691897135,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 679260,
+        "num": 679260,
+        "word": "身体缺啥脸上就长啥",
+        "onboard_time": 1691882542,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362736,
+        "num": 672587,
+        "word": "郑州某座桥下的佚名诗被涂掉了",
+        "onboard_time": 1691894074,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335043,
+        "num": 667702,
+        "word": "医院副院长被抓痛哭自己没法养老",
+        "onboard_time": 1691885489,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1777078,
+        "num": 667502,
+        "word": "魏大勋不是说我女朋友而是说她男朋友",
+        "onboard_time": 1691893294,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 667260,
+        "num": 667260,
+        "word": "碧桂园",
+        "onboard_time": 1691893714,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641084,
+        "num": 641084,
+        "word": "江浙沪独生女真的值得羡慕吗",
+        "onboard_time": 1691884047,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 550461,
+        "num": 550461,
+        "word": "小夭在海底的第30年",
+        "onboard_time": 1691895875,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248620,
+        "num": 548554,
+        "word": "夏威夷大火约100人跳太平洋逃生",
+        "onboard_time": 1691888612,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 548419,
+        "num": 548419,
+        "word": "女子吃菌出现幻觉 猫咪求登记结婚",
+        "onboard_time": 1691898333,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436402,
+        "num": 436402,
+        "word": "小夭染血含泪",
+        "onboard_time": 1691898396,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417294,
+        "num": 417294,
+        "word": "四个显眼包狼尾发型",
+        "onboard_time": 1691889694,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 288850,
+        "num": 288850,
+        "word": "被流放27年的泰国王子突然回国",
+        "onboard_time": 1691882542,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 279290,
+        "num": 279290,
+        "word": "邓为涂山璟V榜破9",
+        "onboard_time": 1691894854,
+        "rank": 19,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 884634,
+        "num": 276331,
+        "word": "母亲怀孕且瘫痪遭婆家嫌弃",
+        "onboard_time": 1691899355,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 786522,
+        "num": 273950,
+        "word": "男网红在泰国杀害男伴分尸被捕",
+        "onboard_time": 1691886211,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423251,
+        "num": 268355,
+        "word": "内娱火出圈的明星",
+        "onboard_time": 1691898452,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336854,
+        "num": 266935,
+        "word": "领导说我下班就像离职",
+        "onboard_time": 1691895575,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308433,
+        "num": 263725,
+        "word": "简历上造假却得到了这份工作",
+        "onboard_time": 1691894794,
+        "rank": 24,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 260692,
+        "num": 260692,
+        "word": "莲花楼警示tips",
+        "onboard_time": 1691898814,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257142,
+        "num": 257142,
+        "word": "猫猫 吃饱饱不伤心",
+        "onboard_time": 1691896955,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 245895,
+        "num": 245895,
+        "word": "七时吉祥今日血婚",
+        "onboard_time": 1691899355,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223400,
+        "num": 223400,
+        "word": "女生餐馆吃饭一抬头发现店家全午睡",
+        "onboard_time": 1691891133,
+        "rank": 28,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 155583,
+        "num": 222504,
+        "word": "为啥有的眼科医生还选择戴眼镜",
+        "onboard_time": 1691884226,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375349,
+        "num": 222484,
+        "word": "拉宏桑见帅哥",
+        "onboard_time": 1691899654,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 222459,
+        "num": 222459,
+        "word": "金晨这几年是不是走事业运",
+        "onboard_time": 1691896115,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221322,
+        "num": 221322,
+        "word": "王宽找的人居然是王安石",
+        "onboard_time": 1691897195,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220972,
+        "num": 220972,
+        "word": "山东一大街发生爆炸有人受伤",
+        "onboard_time": 1691899835,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212395,
+        "num": 212395,
+        "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
+        "onboard_time": 1691859569,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 209779,
+        "num": 209779,
+        "word": "虞书欣说终于见面啦",
+        "onboard_time": 1691894436,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206941,
+        "num": 206941,
+        "word": "安崎把自己的免死金牌给其他选手",
+        "onboard_time": 1691890535,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201760,
+        "num": 201760,
+        "word": "杰森斯坦森想和吴京二搭喜剧",
+        "onboard_time": 1691894794,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200237,
+        "num": 200237,
+        "word": "审判剧版白日梦我",
+        "onboard_time": 1691897978,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199678,
+        "num": 199678,
+        "word": "相柳的爱是具有神性的",
+        "onboard_time": 1691899474,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192509,
+        "num": 192509,
+        "word": "孙阳",
+        "onboard_time": 1691891914,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191928,
+        "num": 191928,
+        "word": "张艺兴演唱会应援棒不让带走",
+        "onboard_time": 1691882182,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186272,
+        "num": 186272,
+        "word": "留学生被英国大爷反向安利山东",
+        "onboard_time": 1691893114,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173682,
+        "num": 173682,
+        "word": "植物人父亲用尽全力给儿子盖被子",
+        "onboard_time": 1691896777,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173271,
+        "num": 173271,
+        "word": "金晨近2年影视作品口碑",
+        "onboard_time": 1691893354,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171275,
+        "num": 171275,
+        "word": "网友质疑发展电动车是不是走错了",
+        "onboard_time": 1691900134,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170738,
+        "num": 170738,
+        "word": "长安三万里票房破17亿",
+        "onboard_time": 1691897015,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169253,
+        "num": 169253,
+        "word": "张杰谢娜",
+        "onboard_time": 1691848542,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164204,
+        "num": 164204,
+        "word": "以闪亮之名",
+        "onboard_time": 1691900256,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120011,
+        "num": 164048,
+        "word": "在日本吃个冰淇淋有多难",
+        "onboard_time": 1691885430,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#致敬闻汛而动的你#"
+    }
+  }
+}

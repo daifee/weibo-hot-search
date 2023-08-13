@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691897626363,
+  "endTime": 1691900319281,
   "band_list": [
     {
       "raw_hot": 2487416,
@@ -12,11 +12,27 @@
     },
     {
       "raw_hot": 2182541,
-      "num": 509395,
+      "num": 667502,
       "word": "魏大勋不是说我女朋友而是说她男朋友",
       "onboard_time": 1691893294,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2066053,
+      "num": 1149623,
+      "word": "黄晓明特别想要一个女儿",
+      "onboard_time": 1691898033,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2049284,
+      "num": 2049284,
+      "word": "四大名著买了合订本是一种什么体验",
+      "onboard_time": 1691894554,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 2008154,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 1377992,
-      "num": 462444,
+      "num": 667260,
       "word": "碧桂园",
       "onboard_time": 1691893714,
       "rank": 40,
@@ -67,12 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1149648,
-      "num": 460186,
-      "word": "四大名著买了合订本是一种什么体验",
-      "onboard_time": 1691894554,
-      "rank": 15,
+      "raw_hot": 1154928,
+      "num": 1154928,
+      "word": "体制内离职的人现在怎么样了",
+      "onboard_time": 1691898274,
+      "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1147859,
+      "num": 1147859,
+      "word": "玱玹和涂山篌联合杀了璟",
+      "onboard_time": 1691896536,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 1006963,
@@ -123,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 884634,
+      "num": 276331,
+      "word": "母亲怀孕且瘫痪遭婆家嫌弃",
+      "onboard_time": 1691899355,
+      "rank": 20,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 860182,
       "num": 860182,
       "word": "分享欲和报备是两回事",
@@ -137,6 +169,14 @@
       "onboard_time": 1691895875,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 838315,
+      "num": 838315,
+      "word": "许光汉表情",
+      "onboard_time": 1691898694,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 815679,
@@ -155,20 +195,20 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 755579,
+      "num": 755579,
+      "word": "中国的哪个小县城的名字好听",
+      "onboard_time": 1691897135,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 696104,
       "num": 696104,
       "word": "国家一级演员苏孝林被立案调查",
       "onboard_time": 1691847283,
       "rank": 6,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 679730,
-      "num": 679730,
-      "word": "玱玹和涂山篌联合杀了璟",
-      "onboard_time": 1691896536,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 674862,
@@ -244,7 +284,7 @@
     },
     {
       "raw_hot": 575658,
-      "num": 575658,
+      "num": 672587,
       "word": "郑州某座桥下的佚名诗被涂掉了",
       "onboard_time": 1691894074,
       "rank": 16,
@@ -273,6 +313,14 @@
       "onboard_time": 1691853822,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 548419,
+      "num": 548419,
+      "word": "女子吃菌出现幻觉 猫咪求登记结婚",
+      "onboard_time": 1691898333,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520234,
@@ -355,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436402,
+      "num": 436402,
+      "word": "小夭染血含泪",
+      "onboard_time": 1691898396,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423954,
       "num": 217189,
       "word": "檀健次 美瞳",
       "onboard_time": 1691857899,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423251,
+      "num": 268355,
+      "word": "内娱火出圈的明星",
+      "onboard_time": 1691898452,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 419378,
@@ -409,6 +473,14 @@
       "onboard_time": 1691886990,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 375349,
+      "num": 222484,
+      "word": "拉宏桑见帅哥",
+      "onboard_time": 1691899654,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 372277,
@@ -651,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260692,
+      "num": 260692,
+      "word": "莲花楼警示tips",
+      "onboard_time": 1691898814,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260301,
       "num": 260301,
       "word": "植物人父亲用尽全力给儿子盖被子",
@@ -667,6 +747,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 257142,
+      "num": 257142,
+      "word": "猫猫 吃饱饱不伤心",
+      "onboard_time": 1691896955,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 250383,
       "num": 250383,
       "word": "金晨说给安娜换件新工服",
@@ -675,12 +763,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245606,
-      "num": 245606,
-      "word": "中国的哪个小县城的名字好听",
-      "onboard_time": 1691897135,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 245895,
+      "num": 245895,
+      "word": "七时吉祥今日血婚",
+      "onboard_time": 1691899355,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 234964,
@@ -737,6 +825,14 @@
       "onboard_time": 1691897015,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220972,
+      "num": 220972,
+      "word": "山东一大街发生爆炸有人受伤",
+      "onboard_time": 1691899835,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219691,
@@ -811,6 +907,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200237,
+      "num": 200237,
+      "word": "审判剧版白日梦我",
+      "onboard_time": 1691897978,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199678,
+      "num": 199678,
+      "word": "相柳的爱是具有神性的",
+      "onboard_time": 1691899474,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196588,
       "num": 141940,
       "word": "张真源把专业涂脸上",
@@ -841,14 +953,6 @@
       "onboard_time": 1691888434,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191896,
-      "num": 191896,
-      "word": "猫猫 吃饱饱不伤心",
-      "onboard_time": 1691896955,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 191052,
@@ -963,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171275,
+      "num": 171275,
+      "word": "网友质疑发展电动车是不是走错了",
+      "onboard_time": 1691900134,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170656,
       "num": 170656,
       "word": "男子为亡妻销户时泪流满面亲吻照片",
@@ -977,6 +1089,14 @@
       "onboard_time": 1691890178,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164204,
+      "num": 164204,
+      "word": "以闪亮之名",
+      "onboard_time": 1691900256,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 161350,
