@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691958821286,
+  "endTime": 1691961210469,
   "band_list": [
     {
       "raw_hot": 1666509,
@@ -475,20 +475,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108944,
+      "num": 108944,
+      "word": "EDG",
+      "onboard_time": 1691954416,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105030,
       "num": 105030,
       "word": "熊猫崽崽挺着小肚皮扶墙行走",
       "onboard_time": 1691945966,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104369,
-      "num": 104369,
-      "word": "EDG",
-      "onboard_time": 1691954416,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 101159,
@@ -515,8 +515,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 73729,
-      "num": 25855,
+      "raw_hot": 80021,
+      "num": 45796,
       "word": "杨超越账号被卡无法上线",
       "onboard_time": 1691956395,
       "rank": 30,

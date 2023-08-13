@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691958821286,
+  "endTime": 1691961210469,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -33883,6 +33883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80021,
+      "num": 45796,
+      "word": "杨超越账号被卡无法上线",
+      "onboard_time": 1691956395,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 79738,
       "num": 79738,
       "word": "封神剧组质子狂练哪吒狂吃",
@@ -33977,14 +33985,6 @@
       "onboard_time": 1691121759,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73729,
-      "num": 25855,
-      "word": "杨超越账号被卡无法上线",
-      "onboard_time": 1691956395,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 72472,
