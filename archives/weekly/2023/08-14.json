@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691955210807,
+  "endTime": 1691957751553,
   "band_list": [
     {
       "raw_hot": 1666509,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104369,
+      "num": 104369,
+      "word": "EDG",
+      "onboard_time": 1691954416,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101159,
       "num": 101159,
       "word": "谢娜 大勋沉浸式大合唱他不懂",
@@ -499,6 +507,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 81814,
+      "num": 81814,
+      "word": "F人和T人的区别",
+      "onboard_time": 1691954235,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 61968,
       "num": 50035,
       "word": "周扬青蝴蝶吊带",
@@ -507,12 +523,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 48431,
-      "num": 48431,
-      "word": "EDG",
-      "onboard_time": 1691954416,
-      "rank": 13,
-      "category": "游戏"
+      "raw_hot": 61075,
+      "num": 25855,
+      "word": "杨超越账号被卡无法上线",
+      "onboard_time": 1691956395,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 31269,
@@ -521,14 +537,6 @@
       "onboard_time": 1691934401,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28331,
-      "num": 28331,
-      "word": "F人和T人的区别",
-      "onboard_time": 1691954235,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 26691,
@@ -553,6 +561,9 @@
     },
     {
       "word": "#我国陆地探测四号01星发射成功#"
+    },
+    {
+      "word": "#大江焕新颜的新时代画卷#"
     }
   ]
 }
