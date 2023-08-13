@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691968530539,
+  "endTime": 1691969629686,
   "band_list": [
     {
       "raw_hot": 1666509,
@@ -11,20 +11,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1643909,
+      "num": 1643909,
+      "word": "熬夜熬的是甲状腺寿命",
+      "onboard_time": 1691938060,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1507462,
       "num": 1507462,
       "word": "孤注一掷票房断层第一",
       "onboard_time": 1691937880,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1372735,
-      "num": 1372735,
-      "word": "熬夜熬的是甲状腺寿命",
-      "onboard_time": 1691938060,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1123748,
@@ -73,6 +73,30 @@
       "onboard_time": 1691941057,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 623152,
+      "num": 121574,
+      "word": "肝好不好看眼睛就知道了",
+      "onboard_time": 1691968646,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 620399,
+      "num": 547203,
+      "word": "杨超越账号被卡无法上线",
+      "onboard_time": 1691956395,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 603439,
+      "num": 603439,
+      "word": "大爷拿500枚1角硬币充值小姐姐12分钟清点完",
+      "onboard_time": 1691939499,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543298,
@@ -131,36 +155,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 401945,
+      "num": 401945,
+      "word": "丽水一无人售瓜摊1天收入2000多元",
+      "onboard_time": 1691945429,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 391911,
       "num": 391911,
       "word": "黄曦彦 大宋少年志",
       "onboard_time": 1691939320,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 385884,
-      "num": 385884,
-      "word": "杨超越账号被卡无法上线",
-      "onboard_time": 1691956395,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 378502,
-      "num": 378502,
-      "word": "大爷拿500枚1角硬币充值小姐姐12分钟清点完",
-      "onboard_time": 1691939499,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343881,
-      "num": 343881,
-      "word": "丽水一无人售瓜摊1天收入2000多元",
-      "onboard_time": 1691945429,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 331461,
@@ -187,20 +195,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 317517,
+      "num": 317517,
+      "word": "内马尔",
+      "onboard_time": 1691952075,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314732,
       "num": 292881,
       "word": "一个人住真的很爽",
       "onboard_time": 1691935361,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 314662,
-      "num": 314662,
-      "word": "内马尔",
-      "onboard_time": 1691952075,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 312087,
@@ -219,12 +227,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 298953,
+      "num": 298953,
+      "word": "中国大妈翻章鱼小丸子手艺震惊日本",
+      "onboard_time": 1691930675,
+      "rank": 36,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 292137,
       "num": 262300,
       "word": "于适回应票房过20亿表演龙吸水",
       "onboard_time": 1691943453,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290651,
+      "num": 290651,
+      "word": "EDG",
+      "onboard_time": 1691954416,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 286818,
@@ -275,6 +299,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245254,
+      "num": 245254,
+      "word": "熊猫崽崽挺着小肚皮扶墙行走",
+      "onboard_time": 1691945966,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245243,
+      "num": 121528,
+      "word": "原来这些都是气血不足的表现",
+      "onboard_time": 1691968945,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244889,
       "num": 244889,
       "word": "杨玏曾说自己是北京四大名菜",
@@ -289,6 +329,14 @@
       "onboard_time": 1691937341,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240725,
+      "num": 121185,
+      "word": "为什么商场的一楼没有卫生间",
+      "onboard_time": 1691968945,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 235274,
@@ -315,14 +363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 218892,
-      "num": 218892,
-      "word": "中国大妈翻章鱼小丸子手艺震惊日本",
-      "onboard_time": 1691930675,
-      "rank": 36,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 218871,
       "num": 218871,
       "word": "江苏盐城龙卷风2死15伤",
@@ -339,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206157,
+      "num": 206157,
+      "word": "BLG与EDG携手晋级八强",
+      "onboard_time": 1691969366,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205918,
       "num": 205918,
       "word": "丁禹兮杨超越住一个小区",
@@ -353,14 +401,6 @@
       "onboard_time": 1691939499,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191843,
-      "num": 191843,
-      "word": "EDG",
-      "onboard_time": 1691954416,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 190437,
@@ -403,6 +443,14 @@
       "category": "情感,财经"
     },
     {
+      "raw_hot": 183073,
+      "num": 169798,
+      "word": "张晚意邓为檀健次眼神戏对比",
+      "onboard_time": 1691961374,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181155,
       "num": 181155,
       "word": "谢娜魏大勋什么时候一起录节目",
@@ -427,8 +475,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173165,
-      "num": 150522,
+      "raw_hot": 176447,
+      "num": 166624,
       "word": "隔着屏幕闻到临沂炒鸡味了",
       "onboard_time": 1691968404,
       "rank": 21,
@@ -443,19 +491,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164378,
+      "num": 164378,
+      "word": "经典刑侦剧为什么百看不厌",
+      "onboard_time": 1691946264,
+      "rank": 35,
+      "category": "影视,情感"
+    },
+    {
       "raw_hot": 163416,
       "num": 145629,
       "word": "封神主创票房20亿整活",
       "onboard_time": 1691929476,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 161342,
-      "num": 149347,
-      "word": "张晚意邓为檀健次眼神戏对比",
-      "onboard_time": 1691961374,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -475,22 +523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152026,
-      "num": 152026,
-      "word": "熊猫崽崽挺着小肚皮扶墙行走",
-      "onboard_time": 1691945966,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147894,
-      "num": 147894,
-      "word": "经典刑侦剧为什么百看不厌",
-      "onboard_time": 1691946264,
-      "rank": 35,
-      "category": "影视,情感"
-    },
-    {
       "raw_hot": 146549,
       "num": 146549,
       "word": "郑恺苗苗被小朋友索要合照",
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 120845,
-      "num": 76371,
+      "num": 87807,
       "word": "韩雪打卡全球第一的冰淇淋店",
       "onboard_time": 1691948061,
       "rank": 20,
@@ -523,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105076,
+      "num": 105076,
+      "word": "谢娜 大勋沉浸式大合唱他不懂",
+      "onboard_time": 1691932057,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104527,
       "num": 104527,
       "word": "特大号周杰伦到呼和浩特啦",
@@ -531,28 +571,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 101159,
-      "num": 101159,
-      "word": "谢娜 大勋沉浸式大合唱他不懂",
-      "onboard_time": 1691932057,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 81814,
-      "num": 81814,
-      "word": "F人和T人的区别",
-      "onboard_time": 1691954235,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 63486,
-      "num": 63486,
+      "raw_hot": 103198,
+      "num": 103198,
       "word": "无畏契约洛杉矶全球冠军赛",
       "onboard_time": 1691968344,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94263,
+      "num": 94263,
+      "word": "F人和T人的区别",
+      "onboard_time": 1691954235,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 61968,
@@ -563,7 +595,7 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 43373,
+      "raw_hot": 53763,
       "num": 726920,
       "word": "巧妙散热让博物馆的热度细水长流",
       "onboard_time": 1691934401,
