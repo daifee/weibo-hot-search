@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691966027441,
+  "endTime": 1691968530539,
   "band_list": [
     {
       "raw_hot": 1666509,
@@ -19,8 +19,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1133302,
-      "num": 1133302,
+      "raw_hot": 1372735,
+      "num": 1372735,
       "word": "熬夜熬的是甲状腺寿命",
       "onboard_time": 1691938060,
       "rank": 20,
@@ -57,6 +57,14 @@
       "onboard_time": 1691922157,
       "rank": 4,
       "category": "影视,游戏"
+    },
+    {
+      "raw_hot": 648422,
+      "num": 648422,
+      "word": "8岁娃踢个易拉罐赔了18万",
+      "onboard_time": 1691939981,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631268,
@@ -123,20 +131,36 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 432061,
-      "num": 307327,
-      "word": "8岁娃踢个易拉罐赔了18万",
-      "onboard_time": 1691939981,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391911,
       "num": 391911,
       "word": "黄曦彦 大宋少年志",
       "onboard_time": 1691939320,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 385884,
+      "num": 385884,
+      "word": "杨超越账号被卡无法上线",
+      "onboard_time": 1691956395,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 378502,
+      "num": 378502,
+      "word": "大爷拿500枚1角硬币充值小姐姐12分钟清点完",
+      "onboard_time": 1691939499,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343881,
+      "num": 343881,
+      "word": "丽水一无人售瓜摊1天收入2000多元",
+      "onboard_time": 1691945429,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 331461,
@@ -155,14 +179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326161,
-      "num": 326161,
-      "word": "大爷拿500枚1角硬币充值小姐姐12分钟清点完",
-      "onboard_time": 1691939499,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326126,
       "num": 326126,
       "word": "爷爷带着花花回家了",
@@ -177,6 +193,14 @@
       "onboard_time": 1691935361,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 314662,
+      "num": 314662,
+      "word": "内马尔",
+      "onboard_time": 1691952075,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 312087,
@@ -291,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218892,
+      "num": 218892,
+      "word": "中国大妈翻章鱼小丸子手艺震惊日本",
+      "onboard_time": 1691930675,
+      "rank": 36,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 218871,
       "num": 218871,
       "word": "江苏盐城龙卷风2死15伤",
@@ -305,14 +337,6 @@
       "onboard_time": 1691939141,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213149,
-      "num": 213149,
-      "word": "中国大妈翻章鱼小丸子手艺震惊日本",
-      "onboard_time": 1691930675,
-      "rank": 36,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 205918,
@@ -331,12 +355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199529,
-      "num": 199529,
-      "word": "内马尔",
-      "onboard_time": 1691952075,
-      "rank": 1,
-      "category": "体育"
+      "raw_hot": 191843,
+      "num": 191843,
+      "word": "EDG",
+      "onboard_time": 1691954416,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 190437,
@@ -395,20 +419,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 177170,
-      "num": 177170,
-      "word": "杨超越账号被卡无法上线",
-      "onboard_time": 1691956395,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176456,
       "num": 176456,
       "word": "王倦",
       "onboard_time": 1691935722,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173165,
+      "num": 150522,
+      "word": "隔着屏幕闻到临沂炒鸡味了",
+      "onboard_time": 1691968404,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 170373,
@@ -427,12 +451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161910,
-      "num": 161910,
-      "word": "丽水一无人售瓜摊1天收入2000多元",
-      "onboard_time": 1691945429,
-      "rank": 9,
-      "category": "社会新闻,财经"
+      "raw_hot": 161342,
+      "num": 149347,
+      "word": "张晚意邓为檀健次眼神戏对比",
+      "onboard_time": 1691961374,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 157620,
@@ -449,6 +473,22 @@
       "onboard_time": 1691926656,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152026,
+      "num": 152026,
+      "word": "熊猫崽崽挺着小肚皮扶墙行走",
+      "onboard_time": 1691945966,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147894,
+      "num": 147894,
+      "word": "经典刑侦剧为什么百看不厌",
+      "onboard_time": 1691946264,
+      "rank": 35,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 146549,
@@ -483,28 +523,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 108944,
-      "num": 108944,
-      "word": "EDG",
-      "onboard_time": 1691954416,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 105030,
-      "num": 105030,
-      "word": "熊猫崽崽挺着小肚皮扶墙行走",
-      "onboard_time": 1691945966,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101989,
-      "num": 73903,
-      "word": "张晚意邓为檀健次眼神戏对比",
-      "onboard_time": 1691961374,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 104527,
+      "num": 104527,
+      "word": "特大号周杰伦到呼和浩特啦",
+      "onboard_time": 1691965821,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 101159,
@@ -515,20 +539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88479,
-      "num": 88479,
-      "word": "经典刑侦剧为什么百看不厌",
-      "onboard_time": 1691946264,
-      "rank": 35,
-      "category": "影视,情感"
-    },
-    {
       "raw_hot": 81814,
       "num": 81814,
       "word": "F人和T人的区别",
       "onboard_time": 1691954235,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63486,
+      "num": 63486,
+      "word": "无畏契约洛杉矶全球冠军赛",
+      "onboard_time": 1691968344,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 61968,
@@ -539,20 +563,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 31269,
+      "raw_hot": 43373,
       "num": 726920,
       "word": "巧妙散热让博物馆的热度细水长流",
       "onboard_time": 1691934401,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31153,
-      "num": 31153,
-      "word": "特大号周杰伦到呼和浩特啦",
-      "onboard_time": 1691965821,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 26691,
