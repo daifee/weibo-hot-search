@@ -1,0 +1,410 @@
+{
+  "runTime": 1691904825322,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2097504,
+        "num": 2097504,
+        "word": "体制内离职的人现在怎么样了",
+        "onboard_time": 1691898274,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 874833,
+        "num": 874833,
+        "word": "王栎鑫为吴悠拼了",
+        "onboard_time": 1691901995,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109173,
+        "num": 680394,
+        "word": "武警清淤后双手发白让人心疼",
+        "onboard_time": 1691901516,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936182,
+        "num": 676563,
+        "word": "山东一大街发生爆炸有人受伤",
+        "onboard_time": 1691899835,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666339,
+        "num": 666339,
+        "word": "女子吃菌出现幻觉 猫咪求登记结婚",
+        "onboard_time": 1691898333,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645911,
+        "num": 645911,
+        "word": "玱玹和涂山篌联合杀了璟",
+        "onboard_time": 1691896536,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 615293,
+        "num": 615293,
+        "word": "追妻火葬场这种文火起来是有原因的",
+        "onboard_time": 1691901814,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 614494,
+        "num": 614494,
+        "word": "四大名著买了合订本是一种什么体验",
+        "onboard_time": 1691894554,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 561938,
+        "num": 561938,
+        "word": "王鹤棣被杨紫泼水的反应",
+        "onboard_time": 1691900736,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559129,
+        "num": 559129,
+        "word": "网红举报补课称会出钱让更多人干",
+        "onboard_time": 1691902655,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1391013,
+        "num": 546207,
+        "word": "黄晓明特别想要一个女儿",
+        "onboard_time": 1691898033,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1312061,
+        "num": 515556,
+        "word": "魏大勋不是说我女朋友而是说她男朋友",
+        "onboard_time": 1691893294,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480423,
+        "num": 480423,
+        "word": "相柳穷到自己唱主题曲",
+        "onboard_time": 1691902956,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208569,
+        "num": 453490,
+        "word": "夏威夷大火约100人跳太平洋逃生",
+        "onboard_time": 1691888612,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 98613,
+        "num": 452469,
+        "word": "为啥有的眼科医生还选择戴眼镜",
+        "onboard_time": 1691884226,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451609,
+        "num": 451609,
+        "word": "网友质疑发展电动车是不是走错了",
+        "onboard_time": 1691900134,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433481,
+        "num": 433481,
+        "word": "许光汉表情",
+        "onboard_time": 1691898694,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374082,
+        "num": 374082,
+        "word": "中国的哪个小县城的名字好听",
+        "onboard_time": 1691897135,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333216,
+        "num": 333216,
+        "word": "下班时间没回群消息被辞退了",
+        "onboard_time": 1691902778,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313944,
+        "num": 313944,
+        "word": "金晨这几年是不是走事业运",
+        "onboard_time": 1691896115,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 992091,
+        "num": 313659,
+        "word": "母亲怀孕且瘫痪遭婆家嫌弃",
+        "onboard_time": 1691899355,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 511101,
+        "num": 312285,
+        "word": "男网红在泰国杀害男伴分尸被捕",
+        "onboard_time": 1691886211,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491633,
+        "num": 311050,
+        "word": "蜜雪冰城做动画了",
+        "onboard_time": 1691900615,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 450259,
+        "num": 309970,
+        "word": "张晚意对粉丝说不好意思我赶时间",
+        "onboard_time": 1691902178,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309855,
+        "num": 309855,
+        "word": "赵露思吴磊星汉灿烂造型概念设计图",
+        "onboard_time": 1691903314,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289460,
+        "num": 289460,
+        "word": "拉宏桑见帅哥",
+        "onboard_time": 1691899654,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 282208,
+        "num": 282208,
+        "word": "江浙沪独生女真的值得羡慕吗",
+        "onboard_time": 1691884047,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266942,
+        "num": 266942,
+        "word": "张婧仪纯欲风",
+        "onboard_time": 1691904393,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 263339,
+        "num": 263339,
+        "word": "身体缺啥脸上就长啥",
+        "onboard_time": 1691882542,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262833,
+        "num": 262833,
+        "word": "小夭染血含泪",
+        "onboard_time": 1691898396,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261805,
+        "num": 261805,
+        "word": "杭州一公司给全体员工发放千万奖励",
+        "onboard_time": 1691902837,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256416,
+        "num": 256416,
+        "word": "四个显眼包狼尾发型",
+        "onboard_time": 1691889694,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 248953,
+        "num": 248953,
+        "word": "什么行业会在凌晨飞机上加班",
+        "onboard_time": 1691900855,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243255,
+        "num": 243255,
+        "word": "领导说我下班就像离职",
+        "onboard_time": 1691895575,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241233,
+        "num": 241233,
+        "word": "碧桂园",
+        "onboard_time": 1691893714,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221804,
+        "num": 221804,
+        "word": "高密爆炸",
+        "onboard_time": 1691904335,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220419,
+        "num": 220419,
+        "word": "内娱火出圈的明星",
+        "onboard_time": 1691898452,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215676,
+        "num": 215676,
+        "word": "摊贩称被威胁不删视频影响孩子考公",
+        "onboard_time": 1691903979,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214461,
+        "num": 214461,
+        "word": "周翊然不知道工作室换头像",
+        "onboard_time": 1691903196,
+        "rank": 38,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 213143,
+        "num": 213143,
+        "word": "七时吉祥今日血婚",
+        "onboard_time": 1691899355,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187682,
+        "num": 187682,
+        "word": "孤注一掷的后遗症",
+        "onboard_time": 1691902956,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163382,
+        "num": 163382,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1691903558,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155931,
+        "num": 155931,
+        "word": "小夭在海底的第30年",
+        "onboard_time": 1691895875,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151611,
+        "num": 151611,
+        "word": "孙阳",
+        "onboard_time": 1691891914,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149621,
+        "num": 149621,
+        "word": "医院副院长被抓痛哭自己没法养老",
+        "onboard_time": 1691885489,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146799,
+        "num": 146799,
+        "word": "莲花楼警示tips",
+        "onboard_time": 1691898814,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145452,
+        "num": 145452,
+        "word": "氧化的银饰这样处理",
+        "onboard_time": 1691901936,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 138820,
+        "num": 138820,
+        "word": "安崎把自己的免死金牌给其他选手",
+        "onboard_time": 1691890535,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138263,
+        "num": 138263,
+        "word": "黄渤王一博对戏剧照",
+        "onboard_time": 1691903437,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69802,
+        "num": 137992,
+        "word": "iPhone14Pro用户抱怨电池容量大幅下滑",
+        "onboard_time": 1691859569,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#致敬闻汛而动的你#"
+    }
+  }
+}

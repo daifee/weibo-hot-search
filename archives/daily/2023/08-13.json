@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691903666513,
+  "endTime": 1691904825322,
   "band_list": [
     {
       "raw_hot": 2487416,
@@ -131,19 +131,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 936182,
+      "num": 811806,
+      "word": "山东一大街发生爆炸有人受伤",
+      "onboard_time": 1691899835,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927757,
       "num": 469031,
       "word": "18岁女孩被性侵涉事网约车未备案",
       "onboard_time": 1691852505,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 927402,
-      "num": 811806,
-      "word": "山东一大街发生爆炸有人受伤",
-      "onboard_time": 1691899835,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -161,6 +161,14 @@
       "onboard_time": 1691853283,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874833,
+      "num": 874833,
+      "word": "王栎鑫为吴悠拼了",
+      "onboard_time": 1691901995,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 860182,
@@ -191,14 +199,6 @@
       "num": 815679,
       "word": "杨紫泼水 孟子义2.0",
       "onboard_time": 1691851728,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 802827,
-      "num": 802827,
-      "word": "王栎鑫为吴悠拼了",
-      "onboard_time": 1691901995,
       "rank": 4,
       "category": "综艺"
     },
@@ -243,19 +243,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 666339,
+      "num": 679838,
+      "word": "女子吃菌出现幻觉 猫咪求登记结婚",
+      "onboard_time": 1691898333,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665017,
       "num": 462837,
       "word": "18岁女生回应遭网约车司机性侵",
       "onboard_time": 1691868316,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653303,
-      "num": 679838,
-      "word": "女子吃菌出现幻觉 猫咪求登记结婚",
-      "onboard_time": 1691898333,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -281,6 +281,14 @@
       "onboard_time": 1691888612,
       "rank": 39,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 615293,
+      "num": 615293,
+      "word": "追妻火葬场这种文火起来是有原因的",
+      "onboard_time": 1691901814,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 597799,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561938,
+      "num": 561938,
+      "word": "王鹤棣被杨紫泼水的反应",
+      "onboard_time": 1691900736,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 561580,
       "num": 520651,
       "word": "邓为大笑",
@@ -331,20 +347,20 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 559129,
+      "num": 559129,
+      "word": "网红举报补课称会出钱让更多人干",
+      "onboard_time": 1691902655,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 549462,
       "num": 481613,
       "word": "张杰演唱会cue孟宴臣",
       "onboard_time": 1691853822,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 548874,
-      "num": 548874,
-      "word": "王鹤棣被杨紫泼水的反应",
-      "onboard_time": 1691900736,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 547135,
@@ -379,12 +395,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491633,
+      "num": 424713,
+      "word": "蜜雪冰城做动画了",
+      "onboard_time": 1691900615,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 484842,
       "num": 298344,
       "word": "简历上造假却得到了这份工作",
       "onboard_time": 1691894794,
       "rank": 30,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 480423,
+      "num": 480423,
+      "word": "相柳穷到自己唱主题曲",
+      "onboard_time": 1691902956,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 478936,
@@ -419,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 451609,
+      "num": 451609,
+      "word": "网友质疑发展电动车是不是走错了",
+      "onboard_time": 1691900134,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447639,
       "num": 447639,
       "word": "HYBE大楼前现状",
@@ -432,14 +472,6 @@
       "word": "妻子成植物人7年丈夫不放弃唤醒她",
       "onboard_time": 1691892214,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 443925,
-      "num": 443925,
-      "word": "网友质疑发展电动车是不是走错了",
-      "onboard_time": 1691900134,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -457,22 +489,6 @@
       "onboard_time": 1691898396,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 432121,
-      "num": 432121,
-      "word": "追妻火葬场这种文火起来是有原因的",
-      "onboard_time": 1691901814,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 424713,
-      "num": 424713,
-      "word": "蜜雪冰城做动画了",
-      "onboard_time": 1691900615,
-      "rank": 26,
-      "category": "动漫"
     },
     {
       "raw_hot": 423954,
@@ -619,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333216,
+      "num": 333216,
+      "word": "下班时间没回群消息被辞退了",
+      "onboard_time": 1691902778,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 319970,
       "num": 319970,
       "word": "每天喝无糖饮料发生了什么变化",
@@ -651,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309855,
+      "num": 309855,
+      "word": "赵露思吴磊星汉灿烂造型概念设计图",
+      "onboard_time": 1691903314,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305391,
       "num": 277286,
       "word": "长相思三个男主都在拍古装剧",
@@ -665,14 +697,6 @@
       "onboard_time": 1691852682,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 300142,
-      "num": 300142,
-      "word": "网红举报补课称会出钱让更多人干",
-      "onboard_time": 1691902655,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 298466,
@@ -755,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266942,
+      "num": 266942,
+      "word": "张婧仪纯欲风",
+      "onboard_time": 1691904393,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 266343,
       "num": 283798,
       "word": "女儿腺样体肥大父母拒手术13岁身高仅133",
@@ -793,6 +825,14 @@
       "onboard_time": 1691890656,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261805,
+      "num": 261805,
+      "word": "杭州一公司给全体员工发放千万奖励",
+      "onboard_time": 1691902837,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260692,
@@ -883,14 +923,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 225414,
-      "num": 196140,
-      "word": "相柳穷到自己唱主题曲",
-      "onboard_time": 1691902956,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 224198,
       "num": 224198,
       "word": "杨紫荒岛共度余生檀健次邓为选了谁",
@@ -915,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221804,
+      "num": 221804,
+      "word": "高密爆炸",
+      "onboard_time": 1691904335,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219691,
       "num": 168104,
       "word": "黄子韬怎么一直惹徐艺洋生气",
@@ -923,20 +963,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219589,
-      "num": 219589,
-      "word": "下班时间没回群消息被辞退了",
-      "onboard_time": 1691902778,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 215676,
+      "num": 215676,
+      "word": "摊贩称被威胁不删视频影响孩子考公",
+      "onboard_time": 1691903979,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 212736,
-      "num": 212736,
-      "word": "杭州一公司给全体员工发放千万奖励",
-      "onboard_time": 1691902837,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 214461,
+      "num": 214461,
+      "word": "周翊然不知道工作室换头像",
+      "onboard_time": 1691903196,
+      "rank": 38,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 212733,
@@ -1051,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196707,
-      "num": 196707,
-      "word": "周翊然不知道工作室换头像",
-      "onboard_time": 1691903196,
-      "rank": 38,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 196588,
       "num": 141940,
       "word": "张真源把专业涂脸上",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1691849388,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 194465,
-      "num": 194465,
-      "word": "赵露思吴磊星汉灿烂造型概念设计图",
-      "onboard_time": 1691903314,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 194254,
@@ -1339,6 +1363,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 109173,
+      "num": 812144,
+      "word": "武警清淤后双手发白让人心疼",
+      "onboard_time": 1691901516,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107369,
       "num": 85493,
       "word": "欧阳娜娜背影臀腰比",
@@ -1353,14 +1385,6 @@
       "onboard_time": 1691865799,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 105574,
-      "num": 812144,
-      "word": "武警清淤后双手发白让人心疼",
-      "onboard_time": 1691901516,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105154,
