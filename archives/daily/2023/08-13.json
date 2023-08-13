@@ -1,7 +1,15 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691910818217,
+  "endTime": 1691912019725,
   "band_list": [
+    {
+      "raw_hot": 2539574,
+      "num": 2539574,
+      "word": "王一博也救不了中国体育电影吗",
+      "onboard_time": 1691908656,
+      "rank": 1,
+      "category": "影视"
+    },
     {
       "raw_hot": 2487416,
       "num": 2487416,
@@ -33,14 +41,6 @@
       "onboard_time": 1691893294,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2175772,
-      "num": 2175772,
-      "word": "王一博也救不了中国体育电影吗",
-      "onboard_time": 1691908656,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 2066053,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1107570,
+      "num": 1107570,
+      "word": "无意识刷手机会导致大脑退化",
+      "onboard_time": 1691907574,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1093121,
       "num": 1093121,
       "word": "1976年唐山大地震前的征兆",
@@ -177,14 +185,6 @@
       "onboard_time": 1691885006,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 952078,
-      "num": 952078,
-      "word": "无意识刷手机会导致大脑退化",
-      "onboard_time": 1691907574,
-      "rank": 36,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 938035,
@@ -563,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444988,
+      "num": 370473,
+      "word": "杨幂不愧是林萧",
+      "onboard_time": 1691910996,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444244,
       "num": 444244,
       "word": "妻子成植物人7年丈夫不放弃唤醒她",
@@ -585,6 +593,14 @@
       "onboard_time": 1691898396,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 427216,
+      "num": 427216,
+      "word": "高密燃气闪爆已致2死2伤",
+      "onboard_time": 1691911476,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423954,
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369463,
+      "num": 369463,
+      "word": "举报补课网红称掉粉了",
+      "onboard_time": 1691911057,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 366833,
       "num": 366833,
       "word": "张艺兴演唱会应援棒不让带走",
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 347139,
-      "num": 297139,
+      "num": 308370,
       "word": "杨超越新剧10集换了8套眼妆",
       "onboard_time": 1691908415,
       "rank": 21,
@@ -737,6 +761,14 @@
       "onboard_time": 1691858432,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336434,
+      "num": 320131,
+      "word": "韩素希给亲妹妹ins写的评论",
+      "onboard_time": 1691910996,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 335192,
@@ -841,6 +873,14 @@
       "onboard_time": 1691907033,
       "rank": 32,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 291705,
+      "num": 291705,
+      "word": "假如相柳赶到了梅林",
+      "onboard_time": 1691909436,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 288750,
@@ -955,6 +995,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 264304,
+      "num": 264304,
+      "word": "莲花楼你的好日子在后头",
+      "onboard_time": 1691908893,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262329,
       "num": 262329,
       "word": "苏醒王栎鑫陆虎和粉丝大合唱活该",
@@ -1011,14 +1059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254525,
-      "num": 254525,
-      "word": "莲花楼你的好日子在后头",
-      "onboard_time": 1691908893,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 250383,
       "num": 250383,
       "word": "金晨说给安娜换件新工服",
@@ -1027,20 +1067,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 250223,
-      "num": 250223,
-      "word": "假如相柳赶到了梅林",
-      "onboard_time": 1691909436,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 247334,
-      "num": 247334,
+      "num": 286604,
       "word": "原神",
       "onboard_time": 1691909915,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238462,
+      "num": 238462,
+      "word": "孤注一掷",
+      "onboard_time": 1691911715,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 236080,
+      "num": 236080,
+      "word": "医疗反腐 医疗从业者的反应",
+      "onboard_time": 1691911175,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234964,
@@ -1131,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219501,
+      "num": 219501,
+      "word": "藤萍",
+      "onboard_time": 1691909853,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215993,
       "num": 437299,
       "word": "山东一烤鱼店燃气闪爆1死1伤",
@@ -1139,20 +1195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215699,
+      "num": 215699,
+      "word": "李莲花 绝世武姬",
+      "onboard_time": 1691911658,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214461,
       "num": 214461,
       "word": "周翊然不知道工作室换头像",
       "onboard_time": 1691903196,
       "rank": 38,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 214457,
-      "num": 214457,
-      "word": "藤萍",
-      "onboard_time": 1691909853,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 212733,
@@ -1259,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199884,
+      "num": 199884,
+      "word": "体型惊人的佛兰德巨兔",
+      "onboard_time": 1691910815,
+      "rank": 37,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 199678,
       "num": 199678,
       "word": "相柳的爱是具有神性的",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1691906675,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197824,
+      "num": 172529,
+      "word": "丁程鑫极限转腰",
+      "onboard_time": 1691910579,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 196588,
@@ -1427,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178357,
+      "num": 172086,
+      "word": "内娱出品即王炸的明星",
+      "onboard_time": 1691911533,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177155,
       "num": 177155,
       "word": "封神第一部",
@@ -1475,12 +1555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168190,
+      "num": 168190,
+      "word": "老人买牛肉面山东大哥帮结账",
+      "onboard_time": 1691910034,
+      "rank": 40,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 165942,
       "num": 165942,
       "word": "陈绮贞林宥嘉詹雯婷现身重庆仙女山",
       "onboard_time": 1691890178,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 165733,
+      "num": 165733,
+      "word": "魏大勋古早韩系烟熏妆",
+      "onboard_time": 1691911776,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 161350,
@@ -1499,28 +1595,12 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 148144,
-      "num": 148144,
-      "word": "老人买牛肉面山东大哥帮结账",
-      "onboard_time": 1691910034,
-      "rank": 40,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 145695,
       "num": 145695,
       "word": "医学类的APP推荐",
       "onboard_time": 1691905835,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 143103,
-      "num": 143103,
-      "word": "丁程鑫极限转腰",
-      "onboard_time": 1691910579,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 142067,
@@ -1620,7 +1700,7 @@
     },
     {
       "raw_hot": 109173,
-      "num": 1018487,
+      "num": 1402716,
       "word": "武警清淤后双手发白让人心疼",
       "onboard_time": 1691901516,
       "rank": 2,
@@ -1707,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81335,
+      "num": 388636,
+      "word": "民警公主抱孕妇奔走百米送上救护车",
+      "onboard_time": 1691910097,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79493,
       "num": 79493,
       "word": "六公主连播独行月球流浪地球",
@@ -1769,14 +1857,6 @@
       "onboard_time": 1691868856,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28487,
-      "num": 388636,
-      "word": "民警公主抱孕妇奔走百米送上救护车",
-      "onboard_time": 1691910097,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28270,
