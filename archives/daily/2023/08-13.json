@@ -1,6 +1,6 @@
 {
   "startTime": 1691857162423,
-  "endTime": 1691896553011,
+  "endTime": 1691897626363,
   "band_list": [
     {
       "raw_hot": 2487416,
@@ -11,7 +11,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2065364,
+      "raw_hot": 2182541,
       "num": 509395,
       "word": "魏大勋不是说我女朋友而是说她男朋友",
       "onboard_time": 1691893294,
@@ -51,6 +51,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 1377992,
+      "num": 462444,
+      "word": "碧桂园",
+      "onboard_time": 1691893714,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1370375,
       "num": 1370375,
       "word": "各大医院书记院长被抓后痛哭流涕",
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1203793,
-      "num": 403526,
-      "word": "碧桂园",
-      "onboard_time": 1691893714,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 1149648,
+      "num": 460186,
+      "word": "四大名著买了合订本是一种什么体验",
+      "onboard_time": 1691894554,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 1006963,
@@ -115,20 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 890357,
-      "num": 373011,
-      "word": "四大名著买了合订本是一种什么体验",
-      "onboard_time": 1691894554,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 860182,
       "num": 860182,
       "word": "分享欲和报备是两回事",
       "onboard_time": 1691888612,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 839656,
+      "num": 839656,
+      "word": "小夭在海底的第30年",
+      "onboard_time": 1691895875,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 815679,
@@ -153,6 +161,14 @@
       "onboard_time": 1691847283,
       "rank": 6,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 679730,
+      "num": 679730,
+      "word": "玱玹和涂山篌联合杀了璟",
+      "onboard_time": 1691896536,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 674862,
@@ -227,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 575658,
+      "num": 575658,
+      "word": "郑州某座桥下的佚名诗被涂掉了",
+      "onboard_time": 1691894074,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561580,
       "num": 520651,
       "word": "邓为大笑",
@@ -251,12 +275,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 548225,
-      "num": 366577,
-      "word": "郑州某座桥下的佚名诗被涂掉了",
-      "onboard_time": 1691894074,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 520234,
+      "num": 337673,
+      "word": "领导说我下班就像离职",
+      "onboard_time": 1691895575,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 514419,
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 484842,
-      "num": 242751,
+      "num": 298344,
       "word": "简历上造假却得到了这份工作",
       "onboard_time": 1691894794,
       "rank": 30,
@@ -297,14 +321,6 @@
       "onboard_time": 1691891914,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 470027,
-      "num": 337673,
-      "word": "领导说我下班就像离职",
-      "onboard_time": 1691895575,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 465137,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 385757,
-      "num": 414504,
+      "num": 456887,
       "word": "为啥有的眼科医生还选择戴眼镜",
       "onboard_time": 1691884226,
       "rank": 13,
@@ -451,20 +467,20 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 341230,
-      "num": 341230,
-      "word": "小夭在海底的第30年",
-      "onboard_time": 1691895875,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 340488,
       "num": 340488,
       "word": "疯批王姬小夭上线",
       "onboard_time": 1691858432,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339570,
+      "num": 294626,
+      "word": "金晨这几年是不是走事业运",
+      "onboard_time": 1691896115,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 335192,
@@ -635,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260301,
+      "num": 260301,
+      "word": "植物人父亲用尽全力给儿子盖被子",
+      "onboard_time": 1691896777,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258135,
       "num": 258135,
       "word": "胡嘉欣女将军造型",
@@ -649,6 +673,14 @@
       "onboard_time": 1691885550,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245606,
+      "num": 245606,
+      "word": "中国的哪个小县城的名字好听",
+      "onboard_time": 1691897135,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 234964,
@@ -675,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227059,
+      "num": 227059,
+      "word": "王宽找的人居然是王安石",
+      "onboard_time": 1691897195,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225760,
       "num": 365958,
       "word": "小学生发明能骑的行李箱获金奖",
@@ -691,12 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223970,
-      "num": 223970,
-      "word": "金晨这几年是不是走事业运",
-      "onboard_time": 1691896115,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 222274,
+      "num": 222274,
+      "word": "长安三万里票房破17亿",
+      "onboard_time": 1691897015,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 219691,
@@ -763,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202864,
+      "num": 202864,
+      "word": "吴京拍戏经验不浪费一点",
+      "onboard_time": 1691897255,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196588,
       "num": 141940,
       "word": "张真源把专业涂脸上",
@@ -793,6 +841,14 @@
       "onboard_time": 1691888434,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191896,
+      "num": 191896,
+      "word": "猫猫 吃饱饱不伤心",
+      "onboard_time": 1691896955,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 191052,
@@ -913,14 +969,6 @@
       "onboard_time": 1691846621,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167709,
-      "num": 167709,
-      "word": "玱玹和涂山篌联合杀了璟",
-      "onboard_time": 1691896536,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 165942,
