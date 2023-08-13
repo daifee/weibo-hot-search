@@ -1,0 +1,410 @@
+{
+  "runTime": 1691915636471,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1587247,
+        "num": 1587247,
+        "word": "王一博也救不了中国体育电影吗",
+        "onboard_time": 1691908656,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 930227,
+        "num": 930227,
+        "word": "停止内耗的五个小习惯",
+        "onboard_time": 1691912015,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172233,
+        "num": 846327,
+        "word": "中国科考队发布亚洲最高树等身照",
+        "onboard_time": 1691912435,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1393365,
+        "num": 838647,
+        "word": "举报补课网红称掉粉了",
+        "onboard_time": 1691911057,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 824129,
+        "num": 824129,
+        "word": "郑恺苗苗奚梦瑶何猷君录制向山海出发",
+        "onboard_time": 1691913637,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 886757,
+        "num": 792789,
+        "word": "高密爆炸",
+        "onboard_time": 1691904335,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692782,
+        "num": 692782,
+        "word": "封神票房",
+        "onboard_time": 1691913814,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 625410,
+        "num": 625410,
+        "word": "莲花楼最新番外",
+        "onboard_time": 1691912914,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556241,
+        "num": 556241,
+        "word": "医疗反腐 医疗从业者的反应",
+        "onboard_time": 1691911175,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549618,
+        "num": 549618,
+        "word": "杨幂不愧是林萧",
+        "onboard_time": 1691910996,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1004543,
+        "num": 546091,
+        "word": "三十岁我从公务员岗位上辞职了",
+        "onboard_time": 1691905294,
+        "rank": 10,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 624708,
+        "num": 541332,
+        "word": "魏大勋不是说我女朋友而是说她男朋友",
+        "onboard_time": 1691893294,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606813,
+        "num": 538635,
+        "word": "赵丽颖吊带小黑裙",
+        "onboard_time": 1691914536,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 535751,
+        "num": 535751,
+        "word": "黄晓明特别想要一个女儿",
+        "onboard_time": 1691898033,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52061,
+        "num": 532766,
+        "word": "女子溺水昏迷医学生跪地紧急抢救",
+        "onboard_time": 1691913637,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532603,
+        "num": 532603,
+        "word": "原著里相柳的外貌描写",
+        "onboard_time": 1691913996,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452753,
+        "num": 452753,
+        "word": "无意识刷手机会导致大脑退化",
+        "onboard_time": 1691907574,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 438168,
+        "num": 438168,
+        "word": "变漂亮的冷知识",
+        "onboard_time": 1691914235,
+        "rank": 17,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 426112,
+        "num": 426112,
+        "word": "魏大勋说杨紫是真不得罪人",
+        "onboard_time": 1691908594,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406169,
+        "num": 406169,
+        "word": "高密燃气闪爆已致2死2伤",
+        "onboard_time": 1691911476,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385721,
+        "num": 385721,
+        "word": "张大大被犀利点评鞠躬14次",
+        "onboard_time": 1691912316,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346959,
+        "num": 346959,
+        "word": "伊能静 手把手教底层女孩自救",
+        "onboard_time": 1691904996,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299308,
+        "num": 299308,
+        "word": "挣钱和赚钱是两个概念",
+        "onboard_time": 1691913278,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280183,
+        "num": 280183,
+        "word": "体制内离职的人现在怎么样了",
+        "onboard_time": 1691898274,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260120,
+        "num": 260120,
+        "word": "14岁女儿做好一桌菜等妈妈反被指责",
+        "onboard_time": 1691905294,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340473,
+        "num": 248940,
+        "word": "杨紫邓为檀健次同框",
+        "onboard_time": 1691913576,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318932,
+        "num": 243117,
+        "word": "内娱出品即王炸的明星",
+        "onboard_time": 1691911533,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306907,
+        "num": 241203,
+        "word": "父母眼中的顶流明星",
+        "onboard_time": 1691914837,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229908,
+        "num": 229908,
+        "word": "体型惊人的佛兰德巨兔",
+        "onboard_time": 1691910815,
+        "rank": 28,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 217271,
+        "num": 217271,
+        "word": "龙吸水 妈见打行为",
+        "onboard_time": 1691906854,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 425712,
+        "num": 212578,
+        "word": "母亲怀孕且瘫痪遭婆家嫌弃",
+        "onboard_time": 1691899355,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 274709,
+        "num": 207682,
+        "word": "李莲花 绝世武姬",
+        "onboard_time": 1691911658,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251856,
+        "num": 203365,
+        "word": "金晨孤注一掷破16亿海报",
+        "onboard_time": 1691907936,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219361,
+        "num": 199516,
+        "word": "玱玹和涂山篌联合杀了璟",
+        "onboard_time": 1691896536,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194967,
+        "num": 194967,
+        "word": "原神",
+        "onboard_time": 1691909915,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210031,
+        "num": 194701,
+        "word": "檀健次你的福气在后头",
+        "onboard_time": 1691914777,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200301,
+        "num": 191335,
+        "word": "张拿铁直面中西文化冲击",
+        "onboard_time": 1691915136,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 186286,
+        "num": 186286,
+        "word": "女子吃菌出现幻觉 猫咪求登记结婚",
+        "onboard_time": 1691898333,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177922,
+        "num": 177922,
+        "word": "8个月萌娃吃不成西红柿怒砸床单",
+        "onboard_time": 1691912499,
+        "rank": 38,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 148389,
+        "num": 177564,
+        "word": "中国的哪个小县城的名字好听",
+        "onboard_time": 1691897135,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190477,
+        "num": 175647,
+        "word": "汪苏泷新造型",
+        "onboard_time": 1691914475,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189622,
+        "num": 175081,
+        "word": "杨紫替我们夭柳党圆梦了",
+        "onboard_time": 1691915255,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183122,
+        "num": 173537,
+        "word": "假如相柳赶到了梅林",
+        "onboard_time": 1691909436,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181093,
+        "num": 172861,
+        "word": "孤注一掷",
+        "onboard_time": 1691911715,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179835,
+        "num": 170779,
+        "word": "韩素希给亲妹妹ins写的评论",
+        "onboard_time": 1691910996,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170358,
+        "num": 170358,
+        "word": "制片人回应山河表里能否播出",
+        "onboard_time": 1691913094,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136810,
+        "num": 169981,
+        "word": "海外观众评价斗破苍穹",
+        "onboard_time": 1691914235,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138841,
+        "num": 167452,
+        "word": "全靠同行衬托的电视剧",
+        "onboard_time": 1691913996,
+        "rank": 47,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 113693,
+        "num": 165206,
+        "word": "男网红在泰国杀害男伴分尸被捕",
+        "onboard_time": 1691886211,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108700,
+        "num": 163161,
+        "word": "潜意识发来的求救信号",
+        "onboard_time": 1691914055,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#致敬闻汛而动的你#"
+    }
+  }
+}
