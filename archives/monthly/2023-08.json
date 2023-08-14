@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692040383955,
+  "endTime": 1692041625106,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -37187,6 +37187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31738,
+      "num": 31738,
+      "word": "金晨划草排吼出怒音",
+      "onboard_time": 1692041354,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31659,
       "num": 31659,
       "word": "封神是懂选角的",
@@ -37347,6 +37355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26164,
+      "num": 32340,
+      "word": "适合在家做的练背教程",
+      "onboard_time": 1692038176,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26125,
       "num": 28944,
       "word": "市监局回应市民避灾遇酒店涨价",
@@ -37387,20 +37403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25035,
-      "num": 32340,
-      "word": "适合在家做的练背教程",
-      "onboard_time": 1692038176,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 24384,
       "num": 33090,
       "word": "上海贝果三明治逛吃特辑",
       "onboard_time": 1691693595,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 24380,
+      "num": 29078,
+      "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
+      "onboard_time": 1692040395,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 23649,
@@ -37419,12 +37435,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22322,
+      "num": 29039,
+      "word": "带癌生存五年的概率提高至40.5%",
+      "onboard_time": 1692041295,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21737,
       "num": 44921,
       "word": "其实钱没被偷",
       "onboard_time": 1691524512,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 21665,
+      "num": 29021,
+      "word": "癌症的早期信号与预防",
+      "onboard_time": 1692041295,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19762,

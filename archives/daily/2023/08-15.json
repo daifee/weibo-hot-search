@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692040383955,
+  "endTime": 1692041625106,
   "band_list": [
     {
       "raw_hot": 1878349,
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31738,
+      "num": 31738,
+      "word": "金晨划草排吼出怒音",
+      "onboard_time": 1692041354,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26892,
       "num": 32635,
       "word": "周杰伦 送上大家一张三宝爸的帅照",
@@ -499,12 +507,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25035,
+      "raw_hot": 26164,
       "num": 32340,
       "word": "适合在家做的练背教程",
       "onboard_time": 1692038176,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24380,
+      "num": 29078,
+      "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
+      "onboard_time": 1692040395,
+      "rank": 42,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 22322,
+      "num": 29039,
+      "word": "带癌生存五年的概率提高至40.5%",
+      "onboard_time": 1692041295,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21665,
+      "num": 29021,
+      "word": "癌症的早期信号与预防",
+      "onboard_time": 1692041295,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15073,
