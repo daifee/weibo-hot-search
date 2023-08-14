@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691994854110,
+  "endTime": 1691997307103,
   "band_list": [
     {
       "raw_hot": 2028603,
@@ -107,12 +107,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1508692,
+      "num": 1508692,
+      "word": "什么是开水房",
+      "onboard_time": 1691992293,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1507462,
       "num": 1507462,
       "word": "孤注一掷票房断层第一",
       "onboard_time": 1691937880,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1483569,
+      "num": 1307244,
+      "word": "涿州51岁瘫痪男子家中溺亡",
+      "onboard_time": 1691992594,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1424426,
@@ -147,14 +163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1307244,
-      "num": 1307244,
-      "word": "涿州51岁瘫痪男子家中溺亡",
-      "onboard_time": 1691992594,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1264764,
       "num": 1264764,
       "word": "为什么电影院的最佳位置没人选",
@@ -177,6 +185,14 @@
       "onboard_time": 1691984559,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1187727,
+      "num": 1187727,
+      "word": "终于有晚会请孟子义唱歌了",
+      "onboard_time": 1691994695,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 1153000,
@@ -259,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 859167,
-      "num": 427752,
-      "word": "什么是开水房",
-      "onboard_time": 1691992293,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 854956,
       "num": 854956,
       "word": "调查称大三甲医生每天工作超10小时",
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728363,
+      "num": 728363,
+      "word": "为什么钱叫米",
+      "onboard_time": 1691994994,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 726279,
       "num": 716264,
       "word": "长相思全员晒重逢请帖",
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648310,
+      "num": 467801,
+      "word": "冯绍峰的女主运",
+      "onboard_time": 1691996435,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 645244,
       "num": 645244,
       "word": "小夭 灭霸",
@@ -435,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591775,
+      "num": 591775,
+      "word": "魏大勋说不能困在一个角色里",
+      "onboard_time": 1691993252,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 585751,
       "num": 585751,
       "word": "长相思今晚点映收官",
       "onboard_time": 1691975076,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 559829,
+      "num": 332540,
+      "word": "为什么大家都不背精致包包了",
+      "onboard_time": 1691995653,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 548627,
@@ -547,11 +587,27 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 469069,
+      "num": 469069,
+      "word": "邓为拍前为涂山璟写人物小传",
+      "onboard_time": 1691995114,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 466585,
-      "num": 326880,
+      "num": 331649,
       "word": "网传山东多名男子被一女子砍伤",
       "onboard_time": 1691992534,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465415,
+      "num": 465415,
+      "word": "真正导致医疗腐败的根源是什么",
+      "onboard_time": 1691993914,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -569,14 +625,6 @@
       "onboard_time": 1691988162,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444778,
-      "num": 444778,
-      "word": "魏大勋说不能困在一个角色里",
-      "onboard_time": 1691993252,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 442164,
@@ -601,6 +649,14 @@
       "onboard_time": 1691981733,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438083,
+      "num": 438083,
+      "word": "陈瑾演完魏大勋妈妈演秦岚婆婆",
+      "onboard_time": 1691995535,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 436636,
@@ -747,12 +803,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365796,
+      "num": 330225,
+      "word": "今晚夭璟批璟不发音",
+      "onboard_time": 1691996136,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 359884,
+      "num": 329904,
+      "word": "游客称在黄山拍到神秘黄色动物",
+      "onboard_time": 1691994634,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357582,
       "num": 357582,
       "word": "韩国人学会中文气泡音了",
       "onboard_time": 1691973036,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 356436,
+      "num": 329197,
+      "word": "邓为公主抱李一桐路透",
+      "onboard_time": 1691995595,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 355627,
+      "num": 328881,
+      "word": "胡歌刘涛陈龙一个屋开三个直播",
+      "onboard_time": 1691996016,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 346354,
@@ -811,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328502,
+      "num": 328502,
+      "word": "李到晛今日入伍",
+      "onboard_time": 1691995775,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328092,
       "num": 328092,
       "word": "热烈",
@@ -867,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302786,
+      "num": 302786,
+      "word": "吴世勋是要来进货吗",
+      "onboard_time": 1691996973,
+      "rank": 30,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 302268,
       "num": 248113,
       "word": "鹿晗系鞋带顺便飙了个高音",
@@ -880,6 +984,14 @@
       "word": "张晚意邓为檀健次眼神戏对比",
       "onboard_time": 1691961374,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 299774,
+      "num": 299774,
+      "word": "你敢经历结婚冷静期吗",
+      "onboard_time": 1691994274,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -923,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290304,
+      "num": 290304,
+      "word": "张艺兴听到观众说吞的是金晨用的纸",
+      "onboard_time": 1691995895,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286818,
       "num": 286818,
       "word": "杨某人",
@@ -931,20 +1051,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286800,
+      "num": 177139,
+      "word": "莲花楼要散架了",
+      "onboard_time": 1691996855,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285773,
       "num": 285773,
       "word": "张靓颖晒与薛之谦合照",
       "onboard_time": 1691970450,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 280489,
-      "num": 249512,
-      "word": "真正导致医疗腐败的根源是什么",
-      "onboard_time": 1691993914,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280218,
@@ -968,6 +1088,14 @@
       "word": "乌尔善说杨玏身上有古风",
       "onboard_time": 1691980649,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276470,
+      "num": 176060,
+      "word": "肖战片场转玉箫",
+      "onboard_time": 1691994634,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1025,6 +1153,14 @@
       "onboard_time": 1691939680,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258152,
+      "num": 160902,
+      "word": "马杨马君妍额头吻",
+      "onboard_time": 1691996794,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 257824,
@@ -1235,20 +1371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211520,
-      "num": 170675,
-      "word": "终于有晚会请孟子义唱歌了",
-      "onboard_time": 1691994695,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 211517,
-      "num": 169786,
-      "word": "肖战片场转玉箫",
-      "onboard_time": 1691994634,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 206484,
+      "num": 206484,
+      "word": "情妇成立公司揽医院工程",
+      "onboard_time": 1691996914,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205918,
@@ -1312,14 +1440,6 @@
       "word": "暑期档哪部剧最让你上头",
       "onboard_time": 1691980112,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 197364,
-      "num": 166214,
-      "word": "你敢经历结婚冷静期吗",
-      "onboard_time": 1691994274,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -1451,6 +1571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 172435,
+      "num": 172435,
+      "word": "当了四年老师上岸公务员的感受",
+      "onboard_time": 1691997157,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 170373,
       "num": 170373,
       "word": "切尔西vs利物浦",
@@ -1563,6 +1691,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 118569,
+      "num": 440512,
+      "word": "救援队泡恶臭污水里帮涿州排积水",
+      "onboard_time": 1691994097,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109424,
       "num": 109424,
       "word": "电影圈看好谁的发展",
@@ -1651,10 +1787,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37045,
-      "num": 440512,
-      "word": "救援队泡恶臭污水里帮涿州排积水",
-      "onboard_time": 1691994097,
+      "raw_hot": 30702,
+      "num": 465638,
+      "word": "湖南6名小伙在海浪中救出6名溺水者",
+      "onboard_time": 1691996496,
       "rank": 14,
       "category": "社会新闻"
     },

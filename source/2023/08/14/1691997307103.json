@@ -1,0 +1,410 @@
+{
+  "runTime": 1691997307103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1508692,
+        "num": 1508692,
+        "word": "什么是开水房",
+        "onboard_time": 1691992293,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1187727,
+        "num": 1187727,
+        "word": "终于有晚会请孟子义唱歌了",
+        "onboard_time": 1691994695,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161765,
+        "num": 737840,
+        "word": "每个博物馆都有一个显眼包",
+        "onboard_time": 1691986120,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1483569,
+        "num": 735037,
+        "word": "涿州51岁瘫痪男子家中溺亡",
+        "onboard_time": 1691992594,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728363,
+        "num": 728363,
+        "word": "为什么钱叫米",
+        "onboard_time": 1691994994,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 720593,
+        "num": 720593,
+        "word": "当你被缅甸语专业录取",
+        "onboard_time": 1691986241,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 627845,
+        "num": 627845,
+        "word": "马立奥好可爱",
+        "onboard_time": 1691991994,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591775,
+        "num": 591775,
+        "word": "魏大勋说不能困在一个角色里",
+        "onboard_time": 1691993252,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 517039,
+        "num": 517039,
+        "word": "有医院院长收受100套房",
+        "onboard_time": 1691981436,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469069,
+        "num": 469069,
+        "word": "邓为拍前为涂山璟写人物小传",
+        "onboard_time": 1691995114,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 917784,
+        "num": 468723,
+        "word": "张艺兴前往医院就诊",
+        "onboard_time": 1691984917,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648310,
+        "num": 467801,
+        "word": "冯绍峰的女主运",
+        "onboard_time": 1691996435,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151049,
+        "num": 467424,
+        "word": "加拿大山火已烧了几个月",
+        "onboard_time": 1691971774,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121024,
+        "num": 466154,
+        "word": "网攻武汉地震监测中心黑手锁定",
+        "onboard_time": 1691981733,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30702,
+        "num": 465638,
+        "word": "湖南6名小伙在海浪中救出6名溺水者",
+        "onboard_time": 1691996496,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465415,
+        "num": 465415,
+        "word": "真正导致医疗腐败的根源是什么",
+        "onboard_time": 1691993914,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462280,
+        "num": 462280,
+        "word": "EXO来见中国爱丽了",
+        "onboard_time": 1691988762,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438083,
+        "num": 438083,
+        "word": "陈瑾演完魏大勋妈妈演秦岚婆婆",
+        "onboard_time": 1691995535,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435751,
+        "num": 435751,
+        "word": "长相思第二季",
+        "onboard_time": 1691979512,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332790,
+        "num": 332790,
+        "word": "刘同 好像很多人进入一个人生误区",
+        "onboard_time": 1691991034,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 559829,
+        "num": 332540,
+        "word": "为什么大家都不背精致包包了",
+        "onboard_time": 1691995653,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434563,
+        "num": 332044,
+        "word": "女生微缩2厘米八宝饭粒粒可见",
+        "onboard_time": 1691984737,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382801,
+        "num": 331649,
+        "word": "网传山东多名男子被一女子砍伤",
+        "onboard_time": 1691992534,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374726,
+        "num": 330675,
+        "word": "中国警察让孤注一掷导演不要害怕",
+        "onboard_time": 1691993195,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365796,
+        "num": 330225,
+        "word": "今晚夭璟批璟不发音",
+        "onboard_time": 1691996136,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359884,
+        "num": 329904,
+        "word": "游客称在黄山拍到神秘黄色动物",
+        "onboard_time": 1691994634,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356436,
+        "num": 329197,
+        "word": "邓为公主抱李一桐路透",
+        "onboard_time": 1691995595,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355627,
+        "num": 328881,
+        "word": "胡歌刘涛陈龙一个屋开三个直播",
+        "onboard_time": 1691996016,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328502,
+        "num": 328502,
+        "word": "李到晛今日入伍",
+        "onboard_time": 1691995775,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313716,
+        "num": 313716,
+        "word": "爸爸当家2",
+        "onboard_time": 1691991875,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302786,
+        "num": 302786,
+        "word": "吴世勋是要来进货吗",
+        "onboard_time": 1691996973,
+        "rank": 30,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 299774,
+        "num": 299774,
+        "word": "你敢经历结婚冷静期吗",
+        "onboard_time": 1691994274,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290304,
+        "num": 290304,
+        "word": "张艺兴听到观众说吞的是金晨用的纸",
+        "onboard_time": 1691995895,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206484,
+        "num": 206484,
+        "word": "情妇成立公司揽医院工程",
+        "onboard_time": 1691996914,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178344,
+        "num": 178344,
+        "word": "你希望调休取消吗",
+        "onboard_time": 1691986841,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286800,
+        "num": 177139,
+        "word": "莲花楼要散架了",
+        "onboard_time": 1691996855,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276470,
+        "num": 176060,
+        "word": "肖战片场转玉箫",
+        "onboard_time": 1691994634,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276610,
+        "num": 175236,
+        "word": "费翔姥姥 相亲面试",
+        "onboard_time": 1691986841,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172435,
+        "num": 172435,
+        "word": "当了四年老师上岸公务员的感受",
+        "onboard_time": 1691997157,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 162751,
+        "num": 162751,
+        "word": "仅4%受访年轻人几乎不熬夜",
+        "onboard_time": 1691980892,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258152,
+        "num": 160902,
+        "word": "马杨马君妍额头吻",
+        "onboard_time": 1691996794,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252410,
+        "num": 158595,
+        "word": "张碧晨也去看了张艺兴演唱会",
+        "onboard_time": 1691982094,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210265,
+        "num": 156696,
+        "word": "长相思全员晒重逢请帖",
+        "onboard_time": 1691985940,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204088,
+        "num": 152811,
+        "word": "EXO青岛",
+        "onboard_time": 1691977292,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152395,
+        "num": 152395,
+        "word": "男子吃见手青中毒以为撞了人吓得报警",
+        "onboard_time": 1691988162,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137510,
+        "num": 151812,
+        "word": "A股",
+        "onboard_time": 1691977594,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127812,
+        "num": 151253,
+        "word": "为什么电影院的最佳位置没人选",
+        "onboard_time": 1691982454,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121511,
+        "num": 150736,
+        "word": "内马尔 沙特",
+        "onboard_time": 1691982514,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118569,
+        "num": 149944,
+        "word": "救援队泡恶臭污水里帮涿州排积水",
+        "onboard_time": 1691994097,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83832,
+        "num": 149393,
+        "word": "时尚芭莎别太懂孟女",
+        "onboard_time": 1691986602,
+        "rank": 49,
+        "category": "时尚,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力解决群众的操心事烦心事#"
+    }
+  }
+}
