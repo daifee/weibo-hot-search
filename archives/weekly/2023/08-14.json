@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691987621164,
+  "endTime": 1691990128358,
   "band_list": [
     {
       "raw_hot": 2028603,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1577209,
+      "num": 1328935,
+      "word": "魏大勋耳骨夹",
+      "onboard_time": 1691986059,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1538369,
       "num": 1538369,
       "word": "加拿大山火已烧了几个月",
@@ -83,12 +91,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1509758,
+      "num": 1166459,
+      "word": "当你被缅甸语专业录取",
+      "onboard_time": 1691986241,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1507462,
       "num": 1507462,
       "word": "孤注一掷票房断层第一",
       "onboard_time": 1691937880,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1424426,
+      "num": 1424426,
+      "word": "你希望调休取消吗",
+      "onboard_time": 1691986841,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1387604,
@@ -115,14 +139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1328935,
-      "num": 1328935,
-      "word": "魏大勋耳骨夹",
-      "onboard_time": 1691986059,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 1264764,
       "num": 1264764,
       "word": "为什么电影院的最佳位置没人选",
@@ -147,12 +163,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1166459,
-      "num": 1166459,
-      "word": "当你被缅甸语专业录取",
-      "onboard_time": 1691986241,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 1153000,
+      "num": 662130,
+      "word": "费翔姥姥 相亲面试",
+      "onboard_time": 1691986841,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1139072,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 910386,
-      "num": 784430,
+      "num": 817711,
       "word": "玱玹是大娘子养大的吧",
       "onboard_time": 1691985579,
       "rank": 18,
@@ -267,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 766472,
-      "num": 390137,
-      "word": "费翔姥姥 相亲面试",
-      "onboard_time": 1691986841,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 746931,
       "num": 547203,
       "word": "杨超越账号被卡无法上线",
@@ -289,6 +297,14 @@
       "onboard_time": 1691985337,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 726279,
+      "num": 700199,
+      "word": "长相思全员晒重逢请帖",
+      "onboard_time": 1691985940,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 723604,
@@ -312,14 +328,6 @@
       "word": "六公主马上去问杨玏了",
       "onboard_time": 1691940160,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 700199,
-      "num": 700199,
-      "word": "长相思全员晒重逢请帖",
-      "onboard_time": 1691985940,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -377,6 +385,14 @@
       "onboard_time": 1691982514,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 606178,
+      "num": 606178,
+      "word": "EXO来见中国爱丽了",
+      "onboard_time": 1691988762,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 603439,
@@ -459,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 492187,
-      "num": 492187,
-      "word": "你希望调休取消吗",
-      "onboard_time": 1691986841,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 474049,
       "num": 474049,
       "word": "李雪琴 我特别期待30岁",
@@ -499,6 +507,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 445797,
+      "num": 445797,
+      "word": "男子吃见手青中毒以为撞了人吓得报警",
+      "onboard_time": 1691988162,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442164,
       "num": 442164,
       "word": "孤注一掷周也为什么笑",
@@ -529,6 +545,14 @@
       "onboard_time": 1691982996,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 425912,
+      "num": 399089,
+      "word": "消失的她再次延长上映",
+      "onboard_time": 1691987562,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 418851,
@@ -571,12 +595,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 400089,
+      "num": 400089,
+      "word": "时尚芭莎别太懂孟女",
+      "onboard_time": 1691986602,
+      "rank": 49,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 391911,
       "num": 391911,
       "word": "黄曦彦 大宋少年志",
       "onboard_time": 1691939320,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 391770,
+      "num": 391770,
+      "word": "凤凰传奇你们自己的演唱会呢",
+      "onboard_time": 1691989420,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 389070,
@@ -603,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374142,
+      "num": 322228,
+      "word": "周杰伦呼和浩特",
+      "onboard_time": 1691989299,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370783,
       "num": 370783,
       "word": "BLG与EDG携手晋级八强",
@@ -611,20 +659,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 369566,
+      "num": 319059,
+      "word": "央视818晚会全阵容",
+      "onboard_time": 1691988283,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369058,
       "num": 306813,
       "word": "孟宴臣的总裁内核和霸道无关",
       "onboard_time": 1691983655,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 358765,
-      "num": 358765,
-      "word": "时尚芭莎别太懂孟女",
-      "onboard_time": 1691986602,
-      "rank": 49,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 357582,
@@ -924,7 +972,7 @@
     },
     {
       "raw_hot": 253142,
-      "num": 253142,
+      "num": 258790,
       "word": "恋与制作人异域美男",
       "onboard_time": 1691983174,
       "rank": 37,
@@ -1051,14 +1099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221940,
-      "num": 221940,
-      "word": "消失的她再次延长上映",
-      "onboard_time": 1691987562,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219741,
       "num": 219741,
       "word": "她的讲述字字血泪她们还在等待道歉",
@@ -1131,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200980,
+      "num": 1521703,
+      "word": "每个博物馆都有一个显眼包",
+      "onboard_time": 1691986120,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200935,
       "num": 200935,
       "word": "李相夷舞功只剩一层了",
@@ -1145,6 +1193,14 @@
       "onboard_time": 1691980112,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194544,
+      "num": 237993,
+      "word": "此沙 碧欧泉",
+      "onboard_time": 1691989898,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 190785,
@@ -1233,14 +1289,6 @@
       "onboard_time": 1691973817,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 177234,
-      "num": 1521703,
-      "word": "每个博物馆都有一个显眼包",
-      "onboard_time": 1691986120,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177164,
@@ -1339,6 +1387,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141265,
+      "num": 237411,
+      "word": "家人用镜头记录男孩每天上学的背影",
+      "onboard_time": 1691989659,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 140645,
+      "num": 237048,
+      "word": "为给女友买限量玩具打印200页资料复习",
+      "onboard_time": 1691988762,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133862,
       "num": 133862,
       "word": "05后就要开学报到了",
@@ -1423,6 +1487,14 @@
       "num": 787486,
       "word": "两路人遇女孩溺水下河接力救上岸",
       "onboard_time": 1691985700,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32093,
+      "num": 635933,
+      "word": "男孩饮品洒地铁家长以身作则清理",
+      "onboard_time": 1691989237,
       "rank": 14,
       "category": "社会新闻"
     },
