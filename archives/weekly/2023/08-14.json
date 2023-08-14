@@ -1,10 +1,10 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692011599093,
+  "endTime": 1692012823351,
   "band_list": [
     {
-      "raw_hot": 2451131,
-      "num": 2451131,
+      "raw_hot": 2682653,
+      "num": 2682653,
       "word": "檀健次从倒数第一到全国第一",
       "onboard_time": 1692007718,
       "rank": 20,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1047330,
+      "num": 1047330,
+      "word": "长相思结局",
+      "onboard_time": 1692010656,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1005681,
       "num": 1005681,
       "word": "EXO来见中国爱丽了",
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 827315,
+      "num": 827315,
+      "word": "张晚意邓为你们不要再吵了",
+      "onboard_time": 1692009877,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 817293,
       "num": 817293,
       "word": "为什么商场的一楼没有卫生间",
@@ -475,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 728106,
-      "num": 728106,
-      "word": "张晚意邓为你们不要再吵了",
-      "onboard_time": 1692009877,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 726279,
       "num": 716264,
       "word": "长相思全员晒重逢请帖",
@@ -529,6 +537,14 @@
       "onboard_time": 1691940160,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 689927,
+      "num": 689927,
+      "word": "上海社保缴费基数下限调整为7310元",
+      "onboard_time": 1692007119,
+      "rank": 23,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 686021,
@@ -587,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 642264,
-      "num": 642264,
-      "word": "上海社保缴费基数下限调整为7310元",
-      "onboard_time": 1692007119,
-      "rank": 23,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 639671,
       "num": 639671,
       "word": "小夭妈妈为夭柳抗大旗",
@@ -643,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 592954,
-      "num": 592954,
-      "word": "长相思结局",
-      "onboard_time": 1692010656,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 591775,
       "num": 591775,
       "word": "魏大勋说不能困在一个角色里",
@@ -667,12 +667,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570702,
+      "num": 570702,
+      "word": "刘敏涛被王一博送的炖牛肉打动",
+      "onboard_time": 1692011554,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 565238,
-      "num": 651267,
+      "num": 692461,
       "word": "中方强烈谴责恐怖主义行径",
       "onboard_time": 1692002134,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 562338,
+      "num": 562338,
+      "word": "刘宪华的点评是节目最大亮点",
+      "onboard_time": 1692010897,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 559829,
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438890,
+      "num": 438890,
+      "word": "檀健次 相柳有点浪漫",
+      "onboard_time": 1692011195,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438083,
       "num": 438083,
       "word": "陈瑾演完魏大勋妈妈演秦岚婆婆",
@@ -1003,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 391109,
+      "num": 391109,
+      "word": "爸妈阴阳人是有一套的",
+      "onboard_time": 1692008016,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 389070,
       "num": 389070,
       "word": "周一美式",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1691997157,
       "rank": 38,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 375137,
-      "num": 375137,
-      "word": "爸妈阴阳人是有一套的",
-      "onboard_time": 1692008016,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 374142,
@@ -1105,14 +1129,6 @@
       "onboard_time": 1692005080,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 358333,
-      "num": 358333,
-      "word": "刘宪华的点评是节目最大亮点",
-      "onboard_time": 1692010897,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 357582,
@@ -1203,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333548,
+      "num": 333548,
+      "word": "马立奥三喜为啥世纪大战",
+      "onboard_time": 1692011613,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331461,
       "num": 331461,
       "word": "洛阳市中心医院一住院患者坠楼死亡",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1691995775,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328381,
+      "num": 328381,
+      "word": "捞人捞到偷外卖的",
+      "onboard_time": 1692008258,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 328092,
@@ -1251,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320027,
+      "num": 320027,
+      "word": "真的不理解现在的雨衣",
+      "onboard_time": 1692008677,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 317517,
       "num": 317517,
       "word": "内马尔",
@@ -1272,14 +1312,6 @@
       "word": "一个人住真的很爽",
       "onboard_time": 1691935361,
       "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 314510,
-      "num": 314510,
-      "word": "捞人捞到偷外卖的",
-      "onboard_time": 1692008258,
-      "rank": 40,
       "category": "幽默"
     },
     {
@@ -1331,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299056,
-      "num": 295827,
-      "word": "檀健次 相柳有点浪漫",
-      "onboard_time": 1692011195,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 298953,
       "num": 298953,
       "word": "中国大妈翻章鱼小丸子手艺震惊日本",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1692010236,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 297756,
+      "num": 297756,
+      "word": "玱玹涂山璟拌嘴修罗场",
+      "onboard_time": 1692010301,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 296542,
@@ -1532,7 +1564,7 @@
     },
     {
       "raw_hot": 268976,
-      "num": 645080,
+      "num": 690623,
       "word": "医药反腐",
       "onboard_time": 1691999499,
       "rank": 47,
@@ -1545,14 +1577,6 @@
       "onboard_time": 1691972678,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 268062,
-      "num": 268062,
-      "word": "真的不理解现在的雨衣",
-      "onboard_time": 1692008677,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 267962,
@@ -1739,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240330,
+      "num": 240330,
+      "word": "原神4.0",
+      "onboard_time": 1692011733,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 239253,
       "num": 239253,
       "word": "未定事件簿联名",
@@ -1827,6 +1859,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 223017,
+      "num": 223017,
+      "word": "这就是i人的愤怒吗",
+      "onboard_time": 1692010779,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219741,
       "num": 219741,
       "word": "她的讲述字字血泪她们还在等待道歉",
@@ -1841,14 +1881,6 @@
       "onboard_time": 1691936203,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217914,
-      "num": 217914,
-      "word": "这就是i人的愤怒吗",
-      "onboard_time": 1692010779,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 216164,
@@ -1873,6 +1905,22 @@
       "onboard_time": 1691983536,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211544,
+      "num": 211544,
+      "word": "一下楼就看到了姐姐",
+      "onboard_time": 1692012454,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206027,
+      "num": 206027,
+      "word": "48岁大姐成功应聘月薪3万麻将主播",
+      "onboard_time": 1692012454,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205918,
@@ -1923,11 +1971,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202221,
+      "num": 202221,
+      "word": "小米发布会",
+      "onboard_time": 1692012573,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 201908,
       "num": 201908,
       "word": "找到了用卡通头像的好处",
       "onboard_time": 1691974897,
       "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 201802,
+      "num": 201802,
+      "word": "女性的生理周期belike",
+      "onboard_time": 1692012034,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -1961,14 +2025,6 @@
       "onboard_time": 1691980112,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196433,
-      "num": 196433,
-      "word": "刘敏涛被王一博送的炖牛肉打动",
-      "onboard_time": 1692011554,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 194544,
@@ -2137,6 +2193,14 @@
       "onboard_time": 1691968404,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 170764,
+      "num": 170764,
+      "word": "全国卷高考英语听力朗读者",
+      "onboard_time": 1692012755,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 170373,
@@ -2353,6 +2417,14 @@
       "onboard_time": 1691989237,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84163,
+      "num": 170254,
+      "word": "K60至尊版性能之王",
+      "onboard_time": 1692012698,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 83224,
