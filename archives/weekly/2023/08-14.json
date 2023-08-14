@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691975381204,
+  "endTime": 1691976573602,
   "band_list": [
     {
       "raw_hot": 1931060,
@@ -9,6 +9,14 @@
       "onboard_time": 1691971414,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1902994,
+      "num": 466091,
+      "word": "kimi侧脸",
+      "onboard_time": 1691974417,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1666509,
@@ -25,14 +33,6 @@
       "onboard_time": 1691938060,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1607775,
-      "num": 441532,
-      "word": "kimi侧脸",
-      "onboard_time": 1691974417,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1538369,
@@ -115,6 +115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 722730,
+      "num": 335356,
+      "word": "中秋国庆可拼17天长假",
+      "onboard_time": 1691975076,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706551,
       "num": 633853,
       "word": "六公主马上去问杨玏了",
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585751,
+      "num": 585751,
+      "word": "长相思今晚点映收官",
+      "onboard_time": 1691975076,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 543298,
       "num": 543298,
       "word": "李凯尔",
@@ -177,6 +193,14 @@
       "onboard_time": 1691936678,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 511512,
+      "num": 457092,
+      "word": "赵樱子马甲线",
+      "onboard_time": 1691975676,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 509813,
@@ -219,12 +243,28 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 466866,
+      "num": 466866,
+      "word": "李雪琴 我特别期待30岁",
+      "onboard_time": 1691972014,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461421,
       "num": 429805,
       "word": "三里屯太古里回应北区女生被偷拍",
       "onboard_time": 1691932181,
       "rank": 13,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 442164,
+      "num": 442164,
+      "word": "孤注一掷周也为什么笑",
+      "onboard_time": 1691972194,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 436636,
@@ -235,11 +275,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 431120,
-      "num": 431120,
-      "word": "孤注一掷周也为什么笑",
-      "onboard_time": 1691972194,
-      "rank": 15,
+      "raw_hot": 418851,
+      "num": 317163,
+      "word": "钟汉良秦岚新剧杀青",
+      "onboard_time": 1691975313,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -259,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406681,
+      "num": 316289,
+      "word": "小夭 灭霸",
+      "onboard_time": 1691975735,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401945,
       "num": 401945,
       "word": "丽水一无人售瓜摊1天收入2000多元",
@@ -275,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 391844,
+      "num": 315733,
+      "word": "邓为微博粉丝破四百万",
+      "onboard_time": 1691975676,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370783,
       "num": 370783,
       "word": "BLG与EDG携手晋级八强",
@@ -283,12 +339,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 349190,
-      "num": 349190,
-      "word": "李雪琴 我特别期待30岁",
-      "onboard_time": 1691972014,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 349238,
+      "num": 349238,
+      "word": "韩国人学会中文气泡音了",
+      "onboard_time": 1691973036,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 336878,
@@ -299,16 +355,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335356,
-      "num": 335356,
-      "word": "中秋国庆可拼17天长假",
-      "onboard_time": 1691975076,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333640,
-      "num": 434926,
+      "num": 454220,
       "word": "熊猫崽崽挺着小肚皮扶墙行走",
       "onboard_time": 1691945966,
       "rank": 48,
@@ -337,14 +385,6 @@
       "onboard_time": 1691935119,
       "rank": 18,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 321685,
-      "num": 321685,
-      "word": "韩国人学会中文气泡音了",
-      "onboard_time": 1691973036,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 317517,
@@ -475,12 +515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254197,
+      "num": 254197,
+      "word": "给宠物看爪相",
+      "onboard_time": 1691975676,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250980,
       "num": 409276,
       "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
       "onboard_time": 1691918615,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249692,
+      "num": 249692,
+      "word": "张大大和成龙言承旭有同一个女主角",
+      "onboard_time": 1691976212,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244889,
@@ -505,14 +561,6 @@
       "onboard_time": 1691939141,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 241716,
-      "num": 241716,
-      "word": "长相思今晚点映收官",
-      "onboard_time": 1691975076,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 241219,
@@ -587,6 +635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201908,
+      "num": 201908,
+      "word": "找到了用卡通头像的好处",
+      "onboard_time": 1691974897,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200935,
       "num": 200935,
       "word": "李相夷舞功只剩一层了",
@@ -611,12 +667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187654,
-      "num": 187654,
-      "word": "钟汉良秦岚新剧杀青",
-      "onboard_time": 1691975313,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 187976,
+      "num": 449225,
+      "word": "张陆在太空对妻子唱人间星河无一不是你",
+      "onboard_time": 1691975615,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186404,
@@ -683,14 +739,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 173735,
-      "num": 173735,
-      "word": "找到了用卡通头像的好处",
-      "onboard_time": 1691974897,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 170373,
       "num": 170373,
       "word": "切尔西vs利物浦",
@@ -729,6 +777,14 @@
       "onboard_time": 1691929476,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161332,
+      "num": 161332,
+      "word": "医生称极少贪腐代表不了辛苦的群体",
+      "onboard_time": 1691976514,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157620,
