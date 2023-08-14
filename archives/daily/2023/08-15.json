@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692041625106,
+  "endTime": 1692044231920,
   "band_list": [
     {
       "raw_hot": 1878349,
@@ -451,6 +451,22 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 72346,
+      "num": 44670,
+      "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
+      "onboard_time": 1692040395,
+      "rank": 42,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 60899,
+      "num": 34542,
+      "word": "癌症的早期信号与预防",
+      "onboard_time": 1692041295,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51287,
       "num": 41375,
       "word": "邓为对角色的把握",
@@ -499,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29824,
+      "num": 29824,
+      "word": "SEVENTEEN拍摄HPV疫苗广告",
+      "onboard_time": 1692042553,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26892,
       "num": 32635,
       "word": "周杰伦 送上大家一张三宝爸的帅照",
@@ -515,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24380,
-      "num": 29078,
-      "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
-      "onboard_time": 1692040395,
-      "rank": 42,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 22322,
       "num": 29039,
       "word": "带癌生存五年的概率提高至40.5%",
@@ -531,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21665,
-      "num": 29021,
-      "word": "癌症的早期信号与预防",
-      "onboard_time": 1692041295,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 21275,
+      "num": 21275,
+      "word": "懒人快速换被罩的方法",
+      "onboard_time": 1692041714,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 15073,
