@@ -1,0 +1,410 @@
+{
+  "runTime": 1692048822570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 154180,
+        "num": 154180,
+        "word": "涂山璟和小夭分手 真哭了",
+        "onboard_time": 1692026257,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99021,
+        "num": 99021,
+        "word": "卫星地图看缅甸KK园区",
+        "onboard_time": 1692024941,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8857,
+        "num": 92516,
+        "word": "子弟兵在抗洪一线",
+        "onboard_time": 1692019180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91799,
+        "num": 91799,
+        "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
+        "onboard_time": 1692040395,
+        "rank": 3,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 81799,
+        "num": 81799,
+        "word": "杭州女白领被骗回家当厂妹火了",
+        "onboard_time": 1692022420,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75851,
+        "num": 75851,
+        "word": "涂山璟再度解锁四爱play",
+        "onboard_time": 1692030211,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74099,
+        "num": 74099,
+        "word": "这样的豆浆千万别再喝了",
+        "onboard_time": 1692027455,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61876,
+        "num": 61876,
+        "word": "长相思结局",
+        "onboard_time": 1692010656,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58868,
+        "num": 58868,
+        "word": "立秋后一定要补气血",
+        "onboard_time": 1692022539,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48635,
+        "num": 48635,
+        "word": "3人偷渡到缅甸搞诈骗却因文化低被拒收",
+        "onboard_time": 1692016775,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78377,
+        "num": 44700,
+        "word": "小红书",
+        "onboard_time": 1692025539,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 56748,
+        "num": 43533,
+        "word": "癌症在我国已经熬成慢性病",
+        "onboard_time": 1692003336,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38525,
+        "num": 38525,
+        "word": "TVB自古不产傻白甜",
+        "onboard_time": 1692018760,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32311,
+        "num": 37165,
+        "word": "大熊猫思嘉对公主床爱不释手",
+        "onboard_time": 1692033921,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 20524,
+        "num": 36453,
+        "word": "警犬找到走失男童获奖小红花",
+        "onboard_time": 1692023442,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36253,
+        "num": 36253,
+        "word": "他现在甚至都懒得张口了",
+        "onboard_time": 1692014974,
+        "rank": 15,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 35795,
+        "num": 35795,
+        "word": "港媒曝周润发不听医嘱继续跑步",
+        "onboard_time": 1692013356,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34261,
+        "num": 34261,
+        "word": "盗月社内蒙吃肉 有人却差点饿死",
+        "onboard_time": 1692026378,
+        "rank": 17,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 34063,
+        "num": 34063,
+        "word": "18岁的施瓦辛格和同龄同学",
+        "onboard_time": 1692024881,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33122,
+        "num": 33122,
+        "word": "檀健次从倒数第一到全国第一",
+        "onboard_time": 1692007718,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155418,
+        "num": 32172,
+        "word": "亲眼目睹父亲当街杀母亲女孩发声",
+        "onboard_time": 1692018880,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52390,
+        "num": 31548,
+        "word": "癌症的早期信号与预防",
+        "onboard_time": 1692041295,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30431,
+        "num": 30431,
+        "word": "千万别因为这话在那感动半天",
+        "onboard_time": 1692015335,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 30024,
+        "num": 30024,
+        "word": "相柳 将军帐",
+        "onboard_time": 1692026679,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29573,
+        "num": 29573,
+        "word": "真的不要轻易卖掉小孩的宠物",
+        "onboard_time": 1692017019,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29309,
+        "num": 29309,
+        "word": "SEVENTEEN拍摄HPV疫苗广告",
+        "onboard_time": 1692042553,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28934,
+        "num": 28934,
+        "word": "内娱cp感强的演员",
+        "onboard_time": 1692031407,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28168,
+        "num": 28168,
+        "word": "时代少年团 巴黎卡诗",
+        "onboard_time": 1692029373,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 27116,
+        "num": 27116,
+        "word": "无痛背书法",
+        "onboard_time": 1692029671,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26724,
+        "num": 26724,
+        "word": "檀健次 相柳有点浪漫",
+        "onboard_time": 1692011195,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46721,
+        "num": 26629,
+        "word": "王传君 这届的观众真难带",
+        "onboard_time": 1692046094,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32526,
+        "num": 26538,
+        "word": "适合在家做的练背教程",
+        "onboard_time": 1692038176,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29761,
+        "num": 26419,
+        "word": "入境旅客因照片像别人找到失散双胞胎兄弟",
+        "onboard_time": 1692047172,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26294,
+        "num": 26294,
+        "word": "贾乃亮为贾冰发了6条微博",
+        "onboard_time": 1692033442,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25174,
+        "num": 25174,
+        "word": "女子记录打无痛分娩针过程给老公看",
+        "onboard_time": 1692026020,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22763,
+        "num": 22763,
+        "word": "早C晚A",
+        "onboard_time": 1692018760,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 22500,
+        "num": 22500,
+        "word": "刘涛一次性发了36张图",
+        "onboard_time": 1692004118,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22107,
+        "num": 22107,
+        "word": "新疆好像没有预制菜",
+        "onboard_time": 1692021881,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 21660,
+        "num": 21660,
+        "word": "韩红结束义诊众人列队送别",
+        "onboard_time": 1692036496,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21570,
+        "num": 21570,
+        "word": "48岁大姐成功应聘月薪3万麻将主播",
+        "onboard_time": 1692012454,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20478,
+        "num": 20478,
+        "word": "金晨划草排吼出怒音",
+        "onboard_time": 1692041354,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19989,
+        "num": 19989,
+        "word": "李兰迪被学士帽砸破头",
+        "onboard_time": 1692021398,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19936,
+        "num": 19936,
+        "word": "刘宪华的点评是节目最大亮点",
+        "onboard_time": 1692010897,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19398,
+        "num": 19398,
+        "word": "嗑cp也是一种恋爱脑",
+        "onboard_time": 1692014016,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19282,
+        "num": 19282,
+        "word": "带癌生存五年的概率提高至40.5%",
+        "onboard_time": 1692041295,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19104,
+        "num": 19104,
+        "word": "EXO青岛签售会生图",
+        "onboard_time": 1692022721,
+        "rank": 45,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 19016,
+        "num": 19016,
+        "word": "孙红雷评价张艺兴已成一方霸主",
+        "onboard_time": 1692016358,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18708,
+        "num": 18708,
+        "word": "爸爸当家2收官长文",
+        "onboard_time": 1692014796,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17856,
+        "num": 17856,
+        "word": "边伯贤repo",
+        "onboard_time": 1692021220,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17040,
+        "num": 17830,
+        "word": "封神 把一切简化为做成一件事",
+        "onboard_time": 1692027395,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#让湿地公园成为人民群众共享的绿色空间#"
+    }
+  }
+}

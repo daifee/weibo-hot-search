@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692047674502,
+  "endTime": 1692048822570,
   "band_list": [
     {
       "raw_hot": 2948368,
@@ -3051,8 +3051,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91701,
-      "num": 44670,
+      "raw_hot": 91799,
+      "num": 91799,
       "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
       "onboard_time": 1692040395,
       "rank": 42,
@@ -3163,6 +3163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 46721,
+      "num": 26629,
+      "word": "王传君 这届的观众真难带",
+      "onboard_time": 1692046094,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 44360,
       "num": 44360,
       "word": "韩红结束义诊众人列队送别",
@@ -3179,20 +3187,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 36565,
-      "num": 25958,
-      "word": "王传君 这届的观众真难带",
-      "onboard_time": 1692046094,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 32943,
       "num": 32943,
       "word": "SEVENTEEN拍摄HPV疫苗广告",
       "onboard_time": 1692042553,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32526,
+      "num": 32340,
+      "word": "适合在家做的练背教程",
+      "onboard_time": 1692038176,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 31904,
@@ -3211,6 +3219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29761,
+      "num": 26419,
+      "word": "入境旅客因照片像别人找到失散双胞胎兄弟",
+      "onboard_time": 1692047172,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27987,
       "num": 522270,
       "word": "洪水后战士们一家一家问能帮忙干什么",
@@ -3225,14 +3241,6 @@
       "onboard_time": 1691950218,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 26164,
-      "num": 32340,
-      "word": "适合在家做的练背教程",
-      "onboard_time": 1692038176,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 25238,
