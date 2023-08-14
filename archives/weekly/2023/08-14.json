@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691997307103,
+  "endTime": 1691998428366,
   "band_list": [
     {
       "raw_hot": 2028603,
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1103623,
+      "num": 1103623,
+      "word": "冯绍峰的女主运",
+      "onboard_time": 1691996435,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1005681,
       "num": 1005681,
       "word": "EXO来见中国爱丽了",
@@ -273,6 +281,14 @@
       "onboard_time": 1691984737,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 893941,
+      "num": 459482,
+      "word": "吴世勋是要来进货吗",
+      "onboard_time": 1691996973,
+      "rank": 30,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 854956,
@@ -339,20 +355,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 737152,
+      "num": 737152,
+      "word": "为什么钱叫米",
+      "onboard_time": 1691994994,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 736515,
       "num": 736515,
       "word": "王鹤棣和六个导演飙戏",
       "onboard_time": 1691985337,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 728363,
-      "num": 728363,
-      "word": "为什么钱叫米",
-      "onboard_time": 1691994994,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 726279,
@@ -411,20 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 648310,
-      "num": 467801,
-      "word": "冯绍峰的女主运",
-      "onboard_time": 1691996435,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 645244,
       "num": 645244,
       "word": "小夭 灭霸",
       "onboard_time": 1691975735,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 640024,
+      "num": 455035,
+      "word": "情妇成立公司揽医院工程",
+      "onboard_time": 1691996914,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 639671,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 559829,
-      "num": 332540,
+      "num": 407841,
       "word": "为什么大家都不背精致包包了",
       "onboard_time": 1691995653,
       "rank": 20,
@@ -563,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 490376,
+      "num": 490376,
+      "word": "邓为拍前为涂山璟写人物小传",
+      "onboard_time": 1691995114,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 474049,
       "num": 474049,
       "word": "李雪琴 我特别期待30岁",
@@ -585,14 +609,6 @@
       "onboard_time": 1691937341,
       "rank": 9,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 469069,
-      "num": 469069,
-      "word": "邓为拍前为涂山璟写人物小传",
-      "onboard_time": 1691995114,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 466585,
@@ -683,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 419031,
+      "num": 419031,
+      "word": "经纪人王力威退股肖战工作室",
+      "onboard_time": 1691997396,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418851,
       "num": 317163,
       "word": "钟汉良秦岚新剧杀青",
@@ -723,6 +747,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404521,
+      "num": 326905,
+      "word": "以后简历上有的写了",
+      "onboard_time": 1691997396,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 403124,
+      "num": 403124,
+      "word": "今晚夭璟批璟不发音",
+      "onboard_time": 1691996136,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401945,
       "num": 401945,
       "word": "丽水一无人售瓜摊1天收入2000多元",
@@ -737,6 +777,14 @@
       "onboard_time": 1691986602,
       "rank": 49,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 393665,
+      "num": 393665,
+      "word": "莲花楼要散架了",
+      "onboard_time": 1691996855,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 391911,
@@ -803,16 +851,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365796,
-      "num": 330225,
-      "word": "今晚夭璟批璟不发音",
-      "onboard_time": 1691996136,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 359884,
-      "num": 329904,
+      "num": 343033,
       "word": "游客称在黄山拍到神秘黄色动物",
       "onboard_time": 1691994634,
       "rank": 25,
@@ -828,7 +868,7 @@
     },
     {
       "raw_hot": 356436,
-      "num": 329197,
+      "num": 347378,
       "word": "邓为公主抱李一桐路透",
       "onboard_time": 1691995595,
       "rank": 26,
@@ -840,6 +880,14 @@
       "word": "胡歌刘涛陈龙一个屋开三个直播",
       "onboard_time": 1691996016,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 353773,
+      "num": 349945,
+      "word": "TF三代全员校园风造型",
+      "onboard_time": 1691997755,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -899,12 +947,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328502,
+      "raw_hot": 331279,
       "num": 328502,
       "word": "李到晛今日入伍",
       "onboard_time": 1691995775,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330578,
+      "num": 330578,
+      "word": "当了四年老师上岸公务员的感受",
+      "onboard_time": 1691997157,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 328092,
@@ -963,14 +1019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302786,
-      "num": 302786,
-      "word": "吴世勋是要来进货吗",
-      "onboard_time": 1691996973,
-      "rank": 30,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 302268,
       "num": 248113,
       "word": "鹿晗系鞋带顺便飙了个高音",
@@ -993,6 +1041,14 @@
       "onboard_time": 1691994274,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 299337,
+      "num": 299337,
+      "word": "马杨马君妍额头吻",
+      "onboard_time": 1691996794,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 298953,
@@ -1051,12 +1107,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 286800,
-      "num": 177139,
-      "word": "莲花楼要散架了",
-      "onboard_time": 1691996855,
+      "raw_hot": 286245,
+      "num": 286245,
+      "word": "小S和伍佰的经典对手戏",
+      "onboard_time": 1691997575,
       "rank": 35,
-      "category": "影视"
+      "category": "艺人"
     },
     {
       "raw_hot": 285773,
@@ -1092,7 +1148,7 @@
     },
     {
       "raw_hot": 276470,
-      "num": 176060,
+      "num": 193320,
       "word": "肖战片场转玉箫",
       "onboard_time": 1691994634,
       "rank": 41,
@@ -1105,6 +1161,14 @@
       "onboard_time": 1691985880,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270962,
+      "num": 193472,
+      "word": "张晚意老了belike",
+      "onboard_time": 1691997816,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 269238,
@@ -1153,14 +1217,6 @@
       "onboard_time": 1691939680,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258152,
-      "num": 160902,
-      "word": "马杨马君妍额头吻",
-      "onboard_time": 1691996794,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 257824,
@@ -1339,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219352,
+      "num": 192943,
+      "word": "此沙凹了很久拍了三张",
+      "onboard_time": 1691998177,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218871,
       "num": 218871,
       "word": "江苏盐城龙卷风2死15伤",
@@ -1369,14 +1433,6 @@
       "onboard_time": 1691983536,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206484,
-      "num": 206484,
-      "word": "情妇成立公司揽医院工程",
-      "onboard_time": 1691996914,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205918,
@@ -1435,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199236,
+      "num": 199236,
+      "word": "i人和e人的背包区别在哪里",
+      "onboard_time": 1691998116,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199054,
       "num": 199054,
       "word": "暑期档哪部剧最让你上头",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1691975615,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187783,
+      "num": 193749,
+      "word": "现在是钎城时间",
+      "onboard_time": 1691998235,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 186404,
@@ -1571,14 +1643,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 172435,
-      "num": 172435,
-      "word": "当了四年老师上岸公务员的感受",
-      "onboard_time": 1691997157,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 170373,
       "num": 170373,
       "word": "切尔西vs利物浦",
@@ -1649,6 +1713,14 @@
       "onboard_time": 1691919273,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144144,
+      "num": 192812,
+      "word": "谁懂那种朋友回礼很便宜的感觉",
+      "onboard_time": 1691997996,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 141265,
@@ -1747,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83224,
+      "num": 465638,
+      "word": "湖南6名小伙在海浪中救出6名溺水者",
+      "onboard_time": 1691996496,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77765,
       "num": 1487290,
       "word": "巧妙散热让博物馆的热度细水长流",
@@ -1783,14 +1863,6 @@
       "num": 787486,
       "word": "两路人遇女孩溺水下河接力救上岸",
       "onboard_time": 1691985700,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30702,
-      "num": 465638,
-      "word": "湖南6名小伙在海浪中救出6名溺水者",
-      "onboard_time": 1691996496,
       "rank": 14,
       "category": "社会新闻"
     },
