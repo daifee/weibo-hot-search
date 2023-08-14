@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692023629734,
+  "endTime": 1692026133298,
   "band_list": [
     {
       "raw_hot": 2948368,
@@ -275,6 +275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1188644,
+      "num": 1188644,
+      "word": "涂山璟你否认啊",
+      "onboard_time": 1692021642,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1187727,
       "num": 1187727,
       "word": "终于有晚会请孟子义唱歌了",
@@ -315,6 +323,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1087840,
+      "num": 1087840,
+      "word": "杭州女白领被骗回家当厂妹火了",
+      "onboard_time": 1692022420,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1059892,
       "num": 481091,
       "word": "边伯贤 青岛胶东机场",
@@ -353,14 +369,6 @@
       "onboard_time": 1691982335,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 982894,
-      "num": 982894,
-      "word": "涂山璟你否认啊",
-      "onboard_time": 1692021642,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 982169,
@@ -489,6 +497,14 @@
       "onboard_time": 1692002075,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 801549,
+      "num": 801549,
+      "word": "EXO青岛签售会生图",
+      "onboard_time": 1692022721,
+      "rank": 13,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 797474,
@@ -651,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 670555,
+      "num": 243950,
+      "word": "小红书",
+      "onboard_time": 1692025539,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 670326,
       "num": 670326,
       "word": "杨紫羊了个羊通关后的反应",
@@ -763,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 609988,
-      "num": 609988,
-      "word": "杭州女白领被骗回家当厂妹火了",
-      "onboard_time": 1692022420,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603439,
       "num": 603439,
       "word": "大爷拿500枚1角硬币充值小姐姐12分钟清点完",
@@ -835,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 575594,
+      "num": 540656,
+      "word": "相柳成全小夭涂山璟",
+      "onboard_time": 1692022661,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 575243,
       "num": 539132,
       "word": "kpop小卡炸裂的卡背",
@@ -891,12 +915,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 558706,
-      "num": 558706,
-      "word": "EXO青岛签售会生图",
-      "onboard_time": 1692022721,
-      "rank": 13,
-      "category": "音乐,时尚"
+      "raw_hot": 558330,
+      "num": 558330,
+      "word": "一加定价",
+      "onboard_time": 1692024399,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 548627,
@@ -1003,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 496081,
+      "num": 496081,
+      "word": "四美颜选",
+      "onboard_time": 1692025119,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 495232,
       "num": 495232,
       "word": "孙红雷评价张艺兴已成一方霸主",
@@ -1083,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469225,
+      "num": 469225,
+      "word": "立秋后一定要补气血",
+      "onboard_time": 1692022539,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466585,
       "num": 331649,
       "word": "网传山东多名男子被一女子砍伤",
@@ -1107,6 +1147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 461878,
+      "num": 461878,
+      "word": "甲状腺结节的科普",
+      "onboard_time": 1692024759,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461421,
       "num": 429805,
       "word": "三里屯太古里回应北区女生被偷拍",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1691972194,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 441733,
+      "num": 241079,
+      "word": "18岁的施瓦辛格和同龄同学",
+      "onboard_time": 1692024881,
+      "rank": 31,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 441556,
@@ -1449,6 +1505,14 @@
       "onboard_time": 1691990256,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 341827,
+      "num": 234888,
+      "word": "卫星地图看缅甸KK园区",
+      "onboard_time": 1692024941,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337948,
@@ -2139,6 +2203,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 232561,
+      "num": 232561,
+      "word": "电影前任4英年早婚",
+      "onboard_time": 1692025717,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231560,
       "num": 231560,
       "word": "时尚芭莎拍的钟汉良秦岚",
@@ -2240,6 +2312,14 @@
       "word": "官方回应老年人早晚高峰乘地铁不免费",
       "onboard_time": 1691970270,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215367,
+      "num": 451881,
+      "word": "警犬找到走失男童获奖小红花",
+      "onboard_time": 1692023442,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2515,6 +2595,14 @@
       "category": "情感,财经"
     },
     {
+      "raw_hot": 181719,
+      "num": 181719,
+      "word": "反腐风暴下的医院",
+      "onboard_time": 1692026020,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181607,
       "num": 181607,
       "word": "PEL夏决倒计时3天",
@@ -2611,20 +2699,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169891,
+      "num": 169891,
+      "word": "女子记录打无痛分娩针过程给老公看",
+      "onboard_time": 1692026020,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169383,
       "num": 169383,
       "word": "全家凑不出一个正常人",
       "onboard_time": 1691970570,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166425,
-      "num": 281235,
-      "word": "警犬找到走失男童获奖小红花",
-      "onboard_time": 1692023442,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166102,
@@ -2809,6 +2897,14 @@
       "onboard_time": 1691994097,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116947,
+      "num": 254446,
+      "word": "郭帆和狗聊了一宿",
+      "onboard_time": 1692024640,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 109424,
