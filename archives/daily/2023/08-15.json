@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692054946125,
+  "endTime": 1692056028143,
   "band_list": [
     {
       "raw_hot": 1878349,
@@ -43,11 +43,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 790957,
+      "raw_hot": 851653,
       "num": 776503,
       "word": "亲眼目睹父亲当街杀母亲女孩发声",
       "onboard_time": 1692018880,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 768649,
+      "num": 768649,
+      "word": "日本战败投降78周年",
+      "onboard_time": 1692054622,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -59,20 +67,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 718436,
+      "num": 718436,
+      "word": "王传君 这届的观众真难带",
+      "onboard_time": 1692046094,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 690528,
+      "num": 690528,
+      "word": "杭州女白领被骗回家当厂妹火了",
+      "onboard_time": 1692022420,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617633,
       "num": 545059,
       "word": "涂山璟再度解锁四爱play",
       "onboard_time": 1692030211,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 604352,
-      "num": 604352,
-      "word": "杭州女白领被骗回家当厂妹火了",
-      "onboard_time": 1692022420,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 508718,
@@ -89,14 +105,6 @@
       "onboard_time": 1692014974,
       "rank": 9,
       "category": "幽默,音乐"
-    },
-    {
-      "raw_hot": 476164,
-      "num": 476164,
-      "word": "王传君 这届的观众真难带",
-      "onboard_time": 1692046094,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 454700,
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396357,
+      "num": 396357,
+      "word": "日本投降签字仪式结束于9时18分",
+      "onboard_time": 1692054804,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385547,
       "num": 385547,
       "word": "EXO青岛签售会生图",
@@ -163,8 +179,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296927,
-      "num": 249123,
+      "raw_hot": 306757,
+      "num": 306757,
       "word": "癌症在我国已经熬成慢性病",
       "onboard_time": 1692003336,
       "rank": 24,
@@ -179,11 +195,35 @@
       "category": "科技"
     },
     {
+      "raw_hot": 286001,
+      "num": 127524,
+      "word": "男子花150美元买狗结果是巴西老鼠",
+      "onboard_time": 1692054444,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 285464,
       "num": 285464,
       "word": "李兰迪被学士帽砸破头",
       "onboard_time": 1692021398,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282813,
+      "num": 282813,
+      "word": "小夭用三次吻诠释有多爱涂山璟",
+      "onboard_time": 1692054926,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276002,
+      "num": 276002,
+      "word": "唐嫣念无双妆造换了",
+      "onboard_time": 1692055225,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -227,12 +267,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244540,
+      "num": 244540,
+      "word": "弟弟被拐41年后和哥哥手牵手回家",
+      "onboard_time": 1692054081,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240975,
       "num": 240975,
       "word": "甲状腺结节的科普",
       "onboard_time": 1692024759,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240023,
+      "num": 240023,
+      "word": "马杨马君妍结婚证",
+      "onboard_time": 1692054742,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221188,
+      "num": 190970,
+      "word": "偶遇张颂文考科三",
+      "onboard_time": 1692054622,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 219492,
@@ -267,20 +331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207778,
-      "num": 207778,
-      "word": "日本战败投降78周年",
-      "onboard_time": 1692054622,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198566,
       "num": 198566,
       "word": "互联网女儿况三喜",
       "onboard_time": 1692019838,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186434,
+      "num": 127490,
+      "word": "原来高铁票里面有金属线圈",
+      "onboard_time": 1692055225,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 183885,
@@ -315,20 +379,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178159,
-      "num": 145612,
-      "word": "癌症的早期信号与预防",
-      "onboard_time": 1692041295,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171312,
-      "num": 171312,
+      "raw_hot": 179743,
+      "num": 179743,
       "word": "韩红结束义诊众人列队送别",
       "onboard_time": 1692036496,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178159,
+      "num": 170068,
+      "word": "癌症的早期信号与预防",
+      "onboard_time": 1692041295,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169419,
@@ -395,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144490,
+      "num": 144490,
+      "word": "一个人如果突然关了微信运动",
+      "onboard_time": 1692055886,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144337,
       "num": 126121,
       "word": "贾乃亮为贾冰发了6条微博",
@@ -443,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125263,
+      "num": 125263,
+      "word": "萌兰闷头干饭无视妹妹疯狂敲窗",
+      "onboard_time": 1692047354,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124796,
       "num": 124796,
       "word": "檀健次 相柳有点浪漫",
@@ -457,6 +537,14 @@
       "onboard_time": 1692012815,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121004,
+      "num": 121004,
+      "word": "我啥档次啊也配跟你埋一个坟",
+      "onboard_time": 1692055827,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 120102,
@@ -475,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117378,
-      "num": 117378,
-      "word": "萌兰闷头干饭无视妹妹疯狂敲窗",
-      "onboard_time": 1692047354,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 117548,
+      "num": 117548,
+      "word": "涂山璟的命运",
+      "onboard_time": 1692055466,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 117112,
@@ -499,36 +587,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108116,
-      "num": 108116,
-      "word": "弟弟被拐41年后和哥哥手牵手回家",
-      "onboard_time": 1692054081,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103994,
-      "num": 99964,
-      "word": "男子花150美元买狗结果是巴西老鼠",
-      "onboard_time": 1692054444,
-      "rank": 30,
-      "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 94808,
-      "num": 94808,
-      "word": "日本投降签字仪式结束于9时18分",
-      "onboard_time": 1692054804,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94085,
-      "num": 94085,
+      "raw_hot": 110332,
+      "num": 110332,
       "word": "SEVENTEEN拍摄HPV疫苗广告",
       "onboard_time": 1692042553,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103532,
+      "num": 103532,
+      "word": "没想到拧个瓶盖把手整骨折了",
+      "onboard_time": 1692055225,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 102030,
+      "num": 102030,
+      "word": "王阳高叶合作了",
+      "onboard_time": 1692055646,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 95828,
+      "num": 95828,
+      "word": "王嘉尔真的在上班啊",
+      "onboard_time": 1692056008,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 91799,
@@ -539,28 +627,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 82228,
-      "num": 82228,
-      "word": "偶遇张颂文考科三",
-      "onboard_time": 1692054622,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71413,
       "num": 71413,
       "word": "带癌生存五年的概率提高至40.5%",
       "onboard_time": 1692041295,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65049,
-      "num": 65049,
-      "word": "小夭用三次吻诠释有多爱涂山璟",
-      "onboard_time": 1692054926,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 51287,
@@ -611,20 +683,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30995,
+      "num": 732460,
+      "word": "子弟兵在抗洪一线",
+      "onboard_time": 1692019180,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27401,
       "num": 32635,
       "word": "周杰伦 送上大家一张三宝爸的帅照",
       "onboard_time": 1692005319,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27121,
-      "num": 487280,
-      "word": "子弟兵在抗洪一线",
-      "onboard_time": 1692019180,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21275,

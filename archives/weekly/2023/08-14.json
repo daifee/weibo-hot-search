@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692054946125,
+  "endTime": 1692056028143,
   "band_list": [
     {
       "raw_hot": 2948368,
@@ -571,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 768649,
+      "num": 768649,
+      "word": "日本战败投降78周年",
+      "onboard_time": 1692054622,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 756018,
       "num": 489479,
       "word": "雷军建议不要给年轻人建议",
@@ -633,6 +641,14 @@
       "onboard_time": 1692014314,
       "rank": 8,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 718436,
+      "num": 718436,
+      "word": "王传君 这届的观众真难带",
+      "onboard_time": 1692046094,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 717383,
@@ -1123,14 +1139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 476164,
-      "num": 476164,
-      "word": "王传君 这届的观众真难带",
-      "onboard_time": 1692046094,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 474049,
       "num": 474049,
       "word": "李雪琴 我特别期待30岁",
@@ -1400,6 +1408,14 @@
       "word": "入境旅客因照片像别人找到失散双胞胎兄弟",
       "onboard_time": 1692047172,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396357,
+      "num": 396357,
+      "word": "日本投降签字仪式结束于9时18分",
+      "onboard_time": 1692054804,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1899,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286001,
+      "num": 127524,
+      "word": "男子花150美元买狗结果是巴西老鼠",
+      "onboard_time": 1692054444,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 285969,
       "num": 280109,
       "word": "i人和e人的背包区别在哪里",
@@ -1921,6 +1945,14 @@
       "onboard_time": 1692021339,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282813,
+      "num": 282813,
+      "word": "小夭用三次吻诠释有多爱涂山璟",
+      "onboard_time": 1692054926,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 280745,
@@ -1968,6 +2000,14 @@
       "word": "肖战片场转玉箫",
       "onboard_time": 1691994634,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276002,
+      "num": 276002,
+      "word": "唐嫣念无双妆造换了",
+      "onboard_time": 1692055225,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -2203,6 +2243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 244540,
+      "num": 244540,
+      "word": "弟弟被拐41年后和哥哥手牵手回家",
+      "onboard_time": 1692054081,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244294,
       "num": 537666,
       "word": "19岁战士说听百姓说辛苦了就是动力",
@@ -2241,6 +2289,14 @@
       "onboard_time": 1692011733,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240023,
+      "num": 240023,
+      "word": "马杨马君妍结婚证",
+      "onboard_time": 1692054742,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 239253,
@@ -2363,6 +2419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221188,
+      "num": 190970,
+      "word": "偶遇张颂文考科三",
+      "onboard_time": 1692054622,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219741,
       "num": 219741,
       "word": "她的讲述字字血泪她们还在等待道歉",
@@ -2457,14 +2521,6 @@
       "onboard_time": 1692018880,
       "rank": 46,
       "category": "科技,时尚"
-    },
-    {
-      "raw_hot": 207778,
-      "num": 207778,
-      "word": "日本战败投降78周年",
-      "onboard_time": 1692054622,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205918,
@@ -2651,6 +2707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186434,
+      "num": 127490,
+      "word": "原来高铁票里面有金属线圈",
+      "onboard_time": 1692055225,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186404,
       "num": 186404,
       "word": "iKON离开YG后的回归速度",
@@ -2739,8 +2803,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179743,
+      "num": 179743,
+      "word": "韩红结束义诊众人列队送别",
+      "onboard_time": 1692036496,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178159,
-      "num": 145612,
+      "num": 170068,
       "word": "癌症的早期信号与预防",
       "onboard_time": 1692041295,
       "rank": 48,
@@ -2785,14 +2857,6 @@
       "onboard_time": 1692021339,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 171312,
-      "num": 171312,
-      "word": "韩红结束义诊众人列队送别",
-      "onboard_time": 1692036496,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 170373,
@@ -2931,6 +2995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144490,
+      "num": 144490,
+      "word": "一个人如果突然关了微信运动",
+      "onboard_time": 1692055886,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144337,
       "num": 126121,
       "word": "贾乃亮为贾冰发了6条微博",
@@ -3019,11 +3091,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125263,
+      "num": 125263,
+      "word": "萌兰闷头干饭无视妹妹疯狂敲窗",
+      "onboard_time": 1692047354,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124265,
       "num": 197369,
       "word": "领导说老了不中用了怎么回",
       "onboard_time": 1692019600,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 121004,
+      "num": 121004,
+      "word": "我啥档次啊也配跟你埋一个坟",
+      "onboard_time": 1692055827,
+      "rank": 35,
       "category": "幽默"
     },
     {
@@ -3043,12 +3131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117378,
-      "num": 117378,
-      "word": "萌兰闷头干饭无视妹妹疯狂敲窗",
-      "onboard_time": 1692047354,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 117548,
+      "num": 117548,
+      "word": "涂山璟的命运",
+      "onboard_time": 1692055466,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 116947,
@@ -3059,20 +3147,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 110332,
+      "num": 110332,
+      "word": "SEVENTEEN拍摄HPV疫苗广告",
+      "onboard_time": 1692042553,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109424,
       "num": 109424,
       "word": "电影圈看好谁的发展",
       "onboard_time": 1691946386,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 108116,
-      "num": 108116,
-      "word": "弟弟被拐41年后和哥哥手牵手回家",
-      "onboard_time": 1692054081,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105076,
@@ -3091,12 +3179,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 103994,
-      "num": 99964,
-      "word": "男子花150美元买狗结果是巴西老鼠",
-      "onboard_time": 1692054444,
-      "rank": 30,
-      "category": "社会新闻,幽默"
+      "raw_hot": 103532,
+      "num": 103532,
+      "word": "没想到拧个瓶盖把手整骨折了",
+      "onboard_time": 1692055225,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 103198,
@@ -3107,6 +3195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102030,
+      "num": 102030,
+      "word": "王阳高叶合作了",
+      "onboard_time": 1692055646,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 99374,
       "num": 1700159,
       "word": "子弟兵高温下抢通道路清除淤泥",
@@ -3115,12 +3211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94808,
-      "num": 94808,
-      "word": "日本投降签字仪式结束于9时18分",
-      "onboard_time": 1692054804,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 95828,
+      "num": 95828,
+      "word": "王嘉尔真的在上班啊",
+      "onboard_time": 1692056008,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 94263,
@@ -3129,14 +3225,6 @@
       "onboard_time": 1691954235,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 94085,
-      "num": 94085,
-      "word": "SEVENTEEN拍摄HPV疫苗广告",
-      "onboard_time": 1692042553,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 91799,
@@ -3179,14 +3267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82228,
-      "num": 82228,
-      "word": "偶遇张颂文考科三",
-      "onboard_time": 1692054622,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77765,
       "num": 1487290,
       "word": "巧妙散热让博物馆的热度细水长流",
@@ -3217,14 +3297,6 @@
       "onboard_time": 1692041295,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65049,
-      "num": 65049,
-      "word": "小夭用三次吻诠释有多爱涂山璟",
-      "onboard_time": 1692054926,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 62381,
@@ -3291,19 +3363,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30995,
+      "num": 732460,
+      "word": "子弟兵在抗洪一线",
+      "onboard_time": 1692019180,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27987,
       "num": 522270,
       "word": "洪水后战士们一家一家问能帮忙干什么",
       "onboard_time": 1691972614,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27121,
-      "num": 487280,
-      "word": "子弟兵在抗洪一线",
-      "onboard_time": 1692019180,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
