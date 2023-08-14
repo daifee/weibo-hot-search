@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691994077166,
+  "endTime": 1691994854110,
   "band_list": [
     {
       "raw_hot": 2028603,
@@ -25,6 +25,14 @@
       "onboard_time": 1691974417,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1874958,
+      "num": 1389625,
+      "word": "瑞幸不会是蜜雪动画的反派boss吧",
+      "onboard_time": 1691991693,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 1858664,
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1389625,
-      "num": 1389625,
-      "word": "瑞幸不会是蜜雪动画的反派boss吧",
-      "onboard_time": 1691991693,
-      "rank": 0,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1387604,
       "num": 1387604,
       "word": "医生称极少贪腐代表不了辛苦的群体",
@@ -145,6 +145,14 @@
       "onboard_time": 1691977292,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1307244,
+      "num": 1307244,
+      "word": "涿州51岁瘫痪男子家中溺亡",
+      "onboard_time": 1691992594,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1264764,
@@ -193,14 +201,6 @@
       "onboard_time": 1691939499,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1038569,
-      "num": 306526,
-      "word": "涿州51岁瘫痪男子家中溺亡",
-      "onboard_time": 1691992594,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1005681,
@@ -257,6 +257,14 @@
       "onboard_time": 1691984737,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 859167,
+      "num": 427752,
+      "word": "什么是开水房",
+      "onboard_time": 1691992293,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 854956,
@@ -403,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 633779,
-      "num": 290526,
-      "word": "什么是开水房",
-      "onboard_time": 1691992293,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 631268,
       "num": 631268,
       "word": "周琦",
@@ -483,12 +483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517284,
+      "num": 517284,
+      "word": "刘同 好像很多人进入一个人生误区",
+      "onboard_time": 1691991034,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 509813,
       "num": 509813,
       "word": "喜剧还得是小沈阳",
       "onboard_time": 1691971172,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 500130,
+      "num": 343084,
+      "word": "中国警察让孤注一掷导演不要害怕",
+      "onboard_time": 1691993195,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499220,
@@ -531,6 +547,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 466585,
+      "num": 326880,
+      "word": "网传山东多名男子被一女子砍伤",
+      "onboard_time": 1691992534,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461421,
       "num": 429805,
       "word": "三里屯太古里回应北区女生被偷拍",
@@ -539,20 +563,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 455271,
-      "num": 285535,
-      "word": "刘同 好像很多人进入一个人生误区",
-      "onboard_time": 1691991034,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 445797,
       "num": 445797,
       "word": "男子吃见手青中毒以为撞了人吓得报警",
       "onboard_time": 1691988162,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444778,
+      "num": 444778,
+      "word": "魏大勋说不能困在一个角色里",
+      "onboard_time": 1691993252,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 442164,
@@ -595,14 +619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 429492,
-      "num": 271565,
-      "word": "网传山东多名男子被一女子砍伤",
-      "onboard_time": 1691992534,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 425912,
       "num": 399089,
       "word": "消失的她再次延长上映",
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 410606,
-      "num": 269677,
+      "num": 389040,
       "word": "爸爸当家2",
       "onboard_time": 1691991875,
       "rank": 22,
@@ -673,14 +689,6 @@
       "onboard_time": 1691939320,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 391739,
-      "num": 227871,
-      "word": "中国警察让孤注一掷导演不要害怕",
-      "onboard_time": 1691993195,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389070,
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 344433,
-      "num": 267753,
+      "num": 323216,
       "word": "薛之谦去鸟巢的路走了18年",
       "onboard_time": 1691990256,
       "rank": 32,
@@ -777,14 +785,6 @@
       "onboard_time": 1691972133,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 336033,
-      "num": 267476,
-      "word": "魏大勋说不能困在一个角色里",
-      "onboard_time": 1691993252,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 334800,
@@ -937,6 +937,14 @@
       "onboard_time": 1691970450,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280489,
+      "num": 249512,
+      "word": "真正导致医疗腐败的根源是什么",
+      "onboard_time": 1691993914,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280218,
@@ -1211,11 +1219,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212289,
+      "num": 212289,
+      "word": "柳夭璟能量输送圈",
+      "onboard_time": 1691993853,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211783,
       "num": 211783,
       "word": "杨玏看于适的眼神",
       "onboard_time": 1691983536,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211520,
+      "num": 170675,
+      "word": "终于有晚会请孟子义唱歌了",
+      "onboard_time": 1691994695,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 211517,
+      "num": 169786,
+      "word": "肖战片场转玉箫",
+      "onboard_time": 1691994634,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1280,6 +1312,14 @@
       "word": "暑期档哪部剧最让你上头",
       "onboard_time": 1691980112,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197364,
+      "num": 166214,
+      "word": "你敢经历结婚冷静期吗",
+      "onboard_time": 1691994274,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1433,14 +1473,6 @@
       "onboard_time": 1691970570,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167007,
-      "num": 175116,
-      "word": "真正导致医疗腐败的根源是什么",
-      "onboard_time": 1691993914,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164378,
@@ -1619,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37045,
+      "num": 440512,
+      "word": "救援队泡恶臭污水里帮涿州排积水",
+      "onboard_time": 1691994097,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26691,
       "num": 48862,
       "word": "站立式过山车",
@@ -1644,6 +1684,9 @@
     },
     {
       "word": "#大江焕新颜的新时代画卷#"
+    },
+    {
+      "word": "#让湿地公园成为人民群众共享的绿色空间#"
     }
   ]
 }
