@@ -1,7 +1,15 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691984042630,
+  "endTime": 1691986786917,
   "band_list": [
+    {
+      "raw_hot": 1973117,
+      "num": 1973117,
+      "word": "有医院院长收受100套房",
+      "onboard_time": 1691981436,
+      "rank": 16,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1931060,
       "num": 1931060,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1902994,
-      "num": 659506,
+      "num": 697342,
       "word": "kimi侧脸",
       "onboard_time": 1691974417,
       "rank": 10,
@@ -25,6 +33,14 @@
       "onboard_time": 1691980892,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1826015,
+      "num": 702304,
+      "word": "张艺兴前往医院就诊",
+      "onboard_time": 1691984917,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1666509,
@@ -59,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1513286,
+      "num": 1513286,
+      "word": "张碧晨也去看了张艺兴演唱会",
+      "onboard_time": 1691982094,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1507462,
       "num": 1507462,
       "word": "孤注一掷票房断层第一",
@@ -84,11 +108,19 @@
     },
     {
       "raw_hot": 1333784,
-      "num": 646416,
+      "num": 680661,
       "word": "EXO青岛",
       "onboard_time": 1691977292,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1264764,
+      "num": 1264764,
+      "word": "为什么电影院的最佳位置没人选",
+      "onboard_time": 1691982454,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 1227037,
@@ -97,6 +129,14 @@
       "onboard_time": 1691970931,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1194643,
+      "num": 1194643,
+      "word": "魏大勋杂志秒没",
+      "onboard_time": 1691984559,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1139072,
@@ -115,28 +155,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1002486,
-      "num": 1002486,
-      "word": "有医院院长收受100套房",
-      "onboard_time": 1691981436,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 992334,
-      "num": 656671,
+      "num": 685661,
       "word": "下颌线与下颚线的区别",
       "onboard_time": 1691982335,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 982694,
-      "num": 982694,
-      "word": "张碧晨也去看了张艺兴演唱会",
-      "onboard_time": 1691982094,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 966035,
@@ -145,6 +169,14 @@
       "onboard_time": 1691977594,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 921512,
+      "num": 681543,
+      "word": "成毅为什么叫傅诗淇",
+      "onboard_time": 1691982996,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 901842,
@@ -171,12 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 827945,
+      "num": 538365,
+      "word": "女生微缩2厘米八宝饭粒粒可见",
+      "onboard_time": 1691984737,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817293,
       "num": 817293,
       "word": "为什么商场的一楼没有卫生间",
       "onboard_time": 1691968945,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 773724,
+      "num": 525188,
+      "word": "毛晓彤庆余年2红衣造型",
+      "onboard_time": 1691983655,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 746931,
@@ -187,8 +235,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 737707,
+      "num": 737707,
+      "word": "耳水不平衡是什么",
+      "onboard_time": 1691985520,
+      "rank": 7,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 726944,
-      "num": 482078,
+      "num": 722889,
       "word": "中秋国庆可拼17天长假",
       "onboard_time": 1691975076,
       "rank": 26,
@@ -219,12 +275,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 685295,
-      "num": 685295,
-      "word": "为什么电影院的最佳位置没人选",
-      "onboard_time": 1691982454,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 702418,
+      "num": 702418,
+      "word": "王鹤棣和六个导演飙戏",
+      "onboard_time": 1691985337,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 670326,
@@ -243,20 +299,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 656220,
+      "num": 656220,
+      "word": "玱玹是大娘子养大的吧",
+      "onboard_time": 1691985579,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 648422,
       "num": 648422,
       "word": "8岁娃踢个易拉罐赔了18万",
       "onboard_time": 1691939981,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 645846,
-      "num": 645846,
-      "word": "成毅为什么叫傅诗淇",
-      "onboard_time": 1691982996,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 645244,
@@ -404,7 +460,7 @@
     },
     {
       "raw_hot": 440938,
-      "num": 647989,
+      "num": 689172,
       "word": "网攻武汉地震监测中心黑手锁定",
       "onboard_time": 1691981733,
       "rank": 13,
@@ -420,11 +476,19 @@
     },
     {
       "raw_hot": 435739,
-      "num": 435739,
+      "num": 483249,
       "word": "熬夜但睡眠充足伤肝吗",
       "onboard_time": 1691982996,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 434367,
+      "num": 309805,
+      "word": "长相思全员晒重逢请帖",
+      "onboard_time": 1691985940,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 418851,
@@ -443,12 +507,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414656,
+      "num": 414656,
+      "word": "魏大勋耳骨夹",
+      "onboard_time": 1691986059,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 411950,
       "num": 411950,
       "word": "于适的保镖是拦于适的",
       "onboard_time": 1691970389,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410247,
+      "num": 410247,
+      "word": "杨紫邓为片场跳舞",
+      "onboard_time": 1691985398,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 402516,
+      "num": 307474,
+      "word": "当你被缅甸语专业录取",
+      "onboard_time": 1691986241,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 401945,
@@ -497,6 +585,14 @@
       "onboard_time": 1691969366,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 369058,
+      "num": 306813,
+      "word": "孟宴臣的总裁内核和霸道无关",
+      "onboard_time": 1691983655,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 357582,
@@ -579,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317158,
+      "num": 317158,
+      "word": "动车临停8分钟送患病旅客就医",
+      "onboard_time": 1691984378,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314732,
       "num": 292881,
       "word": "一个人住真的很爽",
@@ -619,6 +723,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 294602,
+      "num": 294602,
+      "word": "伊能静谈如何爱自己",
+      "onboard_time": 1691986361,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293500,
       "num": 293500,
       "word": "白桃星座",
@@ -657,6 +769,14 @@
       "onboard_time": 1691970450,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280218,
+      "num": 251492,
+      "word": "张艺兴谈和王传君二搭",
+      "onboard_time": 1691984500,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 280002,
@@ -731,11 +851,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256244,
-      "num": 256244,
-      "word": "毛晓彤庆余年2红衣造型",
-      "onboard_time": 1691983655,
-      "rank": 32,
+      "raw_hot": 257563,
+      "num": 250982,
+      "word": "看七时吉祥被创飞了",
+      "onboard_time": 1691984681,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -755,11 +875,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253142,
+      "num": 253142,
+      "word": "恋与制作人异域美男",
+      "onboard_time": 1691983174,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250980,
       "num": 409276,
       "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
       "onboard_time": 1691918615,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249459,
+      "num": 249459,
+      "word": "六旬大爷叼烟下水救人上岸烟没湿",
+      "onboard_time": 1691985880,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -827,12 +963,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236012,
-      "num": 236012,
-      "word": "恋与制作人异域美男",
-      "onboard_time": 1691983174,
-      "rank": 37,
+      "raw_hot": 239253,
+      "num": 239253,
+      "word": "未定事件簿联名",
+      "onboard_time": 1691983055,
+      "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235690,
+      "num": 235690,
+      "word": "诗意的她",
+      "onboard_time": 1691985940,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235274,
@@ -841,14 +985,6 @@
       "onboard_time": 1691940338,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234145,
-      "num": 234145,
-      "word": "孟宴臣的总裁内核和霸道无关",
-      "onboard_time": 1691983655,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 231560,
@@ -907,6 +1043,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210323,
+      "num": 210323,
+      "word": "王鹤棣戴面具好像阿祖",
+      "onboard_time": 1691986301,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207609,
+      "num": 207609,
+      "word": "时尚芭莎别太懂孟女",
+      "onboard_time": 1691986602,
+      "rank": 49,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 205918,
       "num": 205918,
       "word": "丁禹兮杨超越住一个小区",
@@ -961,14 +1113,6 @@
       "onboard_time": 1691980112,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192164,
-      "num": 192164,
-      "word": "未定事件簿联名",
-      "onboard_time": 1691983055,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 190785,
@@ -1203,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102314,
+      "num": 1521703,
+      "word": "每个博物馆都有一个显眼包",
+      "onboard_time": 1691986120,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94263,
       "num": 94263,
       "word": "F人和T人的区别",
@@ -1233,6 +1385,14 @@
       "onboard_time": 1691951237,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 38283,
+      "num": 686220,
+      "word": "两路人遇女孩溺水下河接力救上岸",
+      "onboard_time": 1691985700,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26691,
