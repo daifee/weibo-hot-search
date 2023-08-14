@@ -1,10 +1,10 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691986786917,
+  "endTime": 1691987621164,
   "band_list": [
     {
-      "raw_hot": 1973117,
-      "num": 1973117,
+      "raw_hot": 2028603,
+      "num": 2028603,
       "word": "有医院院长收受100套房",
       "onboard_time": 1691981436,
       "rank": 16,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1902994,
-      "num": 697342,
+      "num": 793024,
       "word": "kimi侧脸",
       "onboard_time": 1691974417,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1858664,
+      "num": 796428,
+      "word": "张艺兴前往医院就诊",
+      "onboard_time": 1691984917,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1836000,
@@ -33,14 +41,6 @@
       "onboard_time": 1691980892,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1826015,
-      "num": 702304,
-      "word": "张艺兴前往医院就诊",
-      "onboard_time": 1691984917,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1666509,
@@ -108,11 +108,19 @@
     },
     {
       "raw_hot": 1333784,
-      "num": 680661,
+      "num": 716612,
       "word": "EXO青岛",
       "onboard_time": 1691977292,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1328935,
+      "num": 1328935,
+      "word": "魏大勋耳骨夹",
+      "onboard_time": 1691986059,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1264764,
@@ -137,6 +145,14 @@
       "onboard_time": 1691984559,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1166459,
+      "num": 1166459,
+      "word": "当你被缅甸语专业录取",
+      "onboard_time": 1691986241,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1139072,
@@ -172,11 +188,19 @@
     },
     {
       "raw_hot": 921512,
-      "num": 681543,
+      "num": 782056,
       "word": "成毅为什么叫傅诗淇",
       "onboard_time": 1691982996,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 910386,
+      "num": 784430,
+      "word": "玱玹是大娘子养大的吧",
+      "onboard_time": 1691985579,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 901842,
@@ -185,6 +209,14 @@
       "onboard_time": 1691968646,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 894041,
+      "num": 710222,
+      "word": "女生微缩2厘米八宝饭粒粒可见",
+      "onboard_time": 1691984737,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 854956,
@@ -203,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 827945,
-      "num": 538365,
-      "word": "女生微缩2厘米八宝饭粒粒可见",
-      "onboard_time": 1691984737,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 817293,
       "num": 817293,
       "word": "为什么商场的一楼没有卫生间",
@@ -219,12 +243,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 797474,
+      "num": 797474,
+      "word": "耳水不平衡是什么",
+      "onboard_time": 1691985520,
+      "rank": 7,
+      "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 780333,
+      "num": 780333,
+      "word": "中秋国庆可拼17天长假",
+      "onboard_time": 1691975076,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773724,
-      "num": 525188,
+      "num": 636297,
       "word": "毛晓彤庆余年2红衣造型",
       "onboard_time": 1691983655,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 766472,
+      "num": 390137,
+      "word": "费翔姥姥 相亲面试",
+      "onboard_time": 1691986841,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 746931,
@@ -235,20 +283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 737707,
-      "num": 737707,
-      "word": "耳水不平衡是什么",
-      "onboard_time": 1691985520,
-      "rank": 7,
-      "category": "社会新闻,音乐"
-    },
-    {
-      "raw_hot": 726944,
-      "num": 722889,
-      "word": "中秋国庆可拼17天长假",
-      "onboard_time": 1691975076,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 736515,
+      "num": 736515,
+      "word": "王鹤棣和六个导演飙戏",
+      "onboard_time": 1691985337,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 723604,
@@ -275,12 +315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 702418,
-      "num": 702418,
-      "word": "王鹤棣和六个导演飙戏",
-      "onboard_time": 1691985337,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 700199,
+      "num": 700199,
+      "word": "长相思全员晒重逢请帖",
+      "onboard_time": 1691985940,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 670326,
@@ -296,14 +336,6 @@
       "word": "乌尔善说封神后续有伯邑考戏份",
       "onboard_time": 1691971473,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 656220,
-      "num": 656220,
-      "word": "玱玹是大娘子养大的吧",
-      "onboard_time": 1691985579,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -379,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 541050,
+      "num": 487730,
+      "word": "小夭妈妈为夭柳扛大旗",
+      "onboard_time": 1691981915,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 536872,
       "num": 536872,
       "word": "赵樱子马甲线",
@@ -417,6 +457,14 @@
       "onboard_time": 1691942018,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 492187,
+      "num": 492187,
+      "word": "你希望调休取消吗",
+      "onboard_time": 1691986841,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474049,
@@ -460,7 +508,7 @@
     },
     {
       "raw_hot": 440938,
-      "num": 689172,
+      "num": 789138,
       "word": "网攻武汉地震监测中心黑手锁定",
       "onboard_time": 1691981733,
       "rank": 13,
@@ -483,14 +531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 434367,
-      "num": 309805,
-      "word": "长相思全员晒重逢请帖",
-      "onboard_time": 1691985940,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 418851,
       "num": 317163,
       "word": "钟汉良秦岚新剧杀青",
@@ -507,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414656,
-      "num": 414656,
-      "word": "魏大勋耳骨夹",
-      "onboard_time": 1691986059,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 411950,
       "num": 411950,
       "word": "于适的保镖是拦于适的",
@@ -529,14 +561,6 @@
       "onboard_time": 1691985398,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 402516,
-      "num": 307474,
-      "word": "当你被缅甸语专业录取",
-      "onboard_time": 1691986241,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 401945,
@@ -593,6 +617,14 @@
       "onboard_time": 1691983655,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358765,
+      "num": 358765,
+      "word": "时尚芭莎别太懂孟女",
+      "onboard_time": 1691986602,
+      "rank": 49,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 357582,
@@ -657,6 +689,14 @@
       "onboard_time": 1691935119,
       "rank": 18,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 324374,
+      "num": 324374,
+      "word": "王鹤棣戴面具好像阿祖",
+      "onboard_time": 1691986301,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 321448,
@@ -795,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271241,
+      "num": 271241,
+      "word": "六旬大爷叼烟下水救人上岸烟没湿",
+      "onboard_time": 1691985880,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269238,
       "num": 269238,
       "word": "薛之谦说在我回来之前见字如面",
@@ -888,14 +936,6 @@
       "word": "男子要女孩微信被拒后对其爸爸动手视频警情通报",
       "onboard_time": 1691918615,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249459,
-      "num": 249459,
-      "word": "六旬大爷叼烟下水救人上岸烟没湿",
-      "onboard_time": 1691985880,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1011,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221940,
+      "num": 221940,
+      "word": "消失的她再次延长上映",
+      "onboard_time": 1691987562,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219741,
       "num": 219741,
       "word": "她的讲述字字血泪她们还在等待道歉",
@@ -1041,22 +1089,6 @@
       "onboard_time": 1691983536,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210323,
-      "num": 210323,
-      "word": "王鹤棣戴面具好像阿祖",
-      "onboard_time": 1691986301,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207609,
-      "num": 207609,
-      "word": "时尚芭莎别太懂孟女",
-      "onboard_time": 1691986602,
-      "rank": 49,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 205918,
@@ -1203,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177234,
+      "num": 1521703,
+      "word": "每个博物馆都有一个显眼包",
+      "onboard_time": 1691986120,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177164,
       "num": 193046,
       "word": "长沙街头上百把遮阳伞义务上岗",
@@ -1347,14 +1387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 102314,
-      "num": 1521703,
-      "word": "每个博物馆都有一个显眼包",
-      "onboard_time": 1691986120,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94263,
       "num": 94263,
       "word": "F人和T人的区别",
@@ -1387,8 +1419,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 38283,
-      "num": 686220,
+      "raw_hot": 53924,
+      "num": 787486,
       "word": "两路人遇女孩溺水下河接力救上岸",
       "onboard_time": 1691985700,
       "rank": 14,
