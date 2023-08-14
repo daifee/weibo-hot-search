@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691983011473,
+  "endTime": 1691984042630,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1724,7 +1724,7 @@
     },
     {
       "raw_hot": 1902994,
-      "num": 620895,
+      "num": 659506,
       "word": "kimi侧脸",
       "onboard_time": 1691974417,
       "rank": 10,
@@ -1800,6 +1800,14 @@
       "word": "河南震感",
       "onboard_time": 1691261446,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1836000,
+      "num": 1836000,
+      "word": "仅4%受访年轻人几乎不熬夜",
+      "onboard_time": 1691980892,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2755,14 +2763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1500375,
-      "num": 1500375,
-      "word": "仅4%受访年轻人几乎不熬夜",
-      "onboard_time": 1691980892,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1495967,
       "num": 1495967,
       "word": "去泰国尽量别用信用卡",
@@ -3428,7 +3428,7 @@
     },
     {
       "raw_hot": 1333784,
-      "num": 585837,
+      "num": 646416,
       "word": "EXO青岛",
       "onboard_time": 1691977292,
       "rank": 11,
@@ -5435,6 +5435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1002486,
+      "num": 1002486,
+      "word": "有医院院长收受100套房",
+      "onboard_time": 1691981436,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1001565,
       "num": 452113,
       "word": "哥哥1万元偷卖妹妹房子给女儿",
@@ -5497,6 +5505,14 @@
       "onboard_time": 1691467419,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 992334,
+      "num": 656671,
+      "word": "下颌线与下颚线的区别",
+      "onboard_time": 1691982335,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 991457,
@@ -5601,6 +5617,14 @@
       "onboard_time": 1691485118,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 982694,
+      "num": 982694,
+      "word": "张碧晨也去看了张艺兴演唱会",
+      "onboard_time": 1691982094,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 982449,
@@ -8955,6 +8979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 717383,
+      "num": 717383,
+      "word": "薛之谦唱了3天念谦友哭了3天",
+      "onboard_time": 1691981311,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 717083,
       "num": 717083,
       "word": "北京动物园",
@@ -8992,14 +9024,6 @@
       "word": "和TFBOYS共赴十年约定",
       "onboard_time": 1690900481,
       "rank": 13,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 715262,
-      "num": 715262,
-      "word": "薛之谦唱了3天念谦友哭了3天",
-      "onboard_time": 1691981311,
-      "rank": 8,
       "category": "音乐"
     },
     {
@@ -9345,6 +9369,14 @@
       "onboard_time": 1690987177,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 685295,
+      "num": 685295,
+      "word": "为什么电影院的最佳位置没人选",
+      "onboard_time": 1691982454,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 685115,
@@ -10043,6 +10075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 645846,
+      "num": 645846,
+      "word": "成毅为什么叫傅诗淇",
+      "onboard_time": 1691982996,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645658,
       "num": 518696,
       "word": "黄子韬说只有鹿晗能让我取消行程",
@@ -10184,6 +10224,14 @@
       "word": "苏妲己 白月光",
       "onboard_time": 1691193210,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 639671,
+      "num": 639671,
+      "word": "小夭妈妈为夭柳抗大旗",
+      "onboard_time": 1691981915,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -10633,6 +10681,14 @@
       "onboard_time": 1691298220,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 616250,
+      "num": 616250,
+      "word": "内马尔 沙特",
+      "onboard_time": 1691982514,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 615908,
@@ -11851,14 +11907,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 569143,
-      "num": 569143,
-      "word": "小夭妈妈为夭柳抗大旗",
-      "onboard_time": 1691981915,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 569095,
       "num": 569095,
       "word": "货车爆胎一车生猪屁股都热红了",
@@ -11921,14 +11969,6 @@
       "onboard_time": 1691194173,
       "rank": 21,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 565333,
-      "num": 565333,
-      "word": "下颌线与下颚线的区别",
-      "onboard_time": 1691982335,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 564286,
@@ -12113,14 +12153,6 @@
       "onboard_time": 1691085018,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558055,
-      "num": 558055,
-      "word": "张碧晨也去看了张艺兴演唱会",
-      "onboard_time": 1691982094,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 558019,
@@ -12427,6 +12459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 548627,
+      "num": 548627,
+      "word": "张天爱官宣前任4",
+      "onboard_time": 1691982572,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547935,
       "num": 547935,
       "word": "女朋友让我续费会员",
@@ -12441,14 +12481,6 @@
       "onboard_time": 1691756679,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 547793,
-      "num": 547793,
-      "word": "有医院院长收受100套房",
-      "onboard_time": 1691981436,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 547167,
@@ -15523,6 +15555,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 440938,
+      "num": 647989,
+      "word": "网攻武汉地震监测中心黑手锁定",
+      "onboard_time": 1691981733,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440690,
       "num": 440690,
       "word": "央视网文娱评封神第一部",
@@ -15665,6 +15705,14 @@
       "onboard_time": 1691500600,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 435739,
+      "num": 435739,
+      "word": "熬夜但睡眠充足伤肝吗",
+      "onboard_time": 1691982996,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 435419,
@@ -16417,14 +16465,6 @@
       "onboard_time": 1691319586,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 415063,
-      "num": 559028,
-      "word": "网攻武汉地震监测中心黑手锁定",
-      "onboard_time": 1691981733,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414743,
@@ -17659,6 +17699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384344,
+      "num": 276335,
+      "word": "董宇辉的读书顺序",
+      "onboard_time": 1691982454,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384313,
       "num": 368157,
       "word": "赵丽颖不会成为虎妈",
@@ -18883,14 +18931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 355319,
-      "num": 355319,
-      "word": "为什么电影院的最佳位置没人选",
-      "onboard_time": 1691982454,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 355317,
       "num": 355317,
       "word": "魏大勋蒲熠星张颜齐黄子弘凡扫楼",
@@ -19329,6 +19369,14 @@
       "onboard_time": 1690902338,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 346354,
+      "num": 346354,
+      "word": "刘雅瑟前任4相亲人设是陶白白吧",
+      "onboard_time": 1691982636,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 346353,
@@ -19784,14 +19832,6 @@
       "word": "能理解为什么涂山璟是官配了",
       "onboard_time": 1691230955,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 335375,
-      "num": 335375,
-      "word": "张天爱官宣前任4",
-      "onboard_time": 1691982572,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -23643,14 +23683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265663,
-      "num": 265663,
-      "word": "董宇辉的读书顺序",
-      "onboard_time": 1691982454,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265592,
       "num": 226573,
       "word": "在日本吃个冰淇淋有多难",
@@ -23755,6 +23787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263895,
+      "num": 263895,
+      "word": "央媒呼吁让医疗回归治病救人初心",
+      "onboard_time": 1691980354,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263874,
       "num": 263874,
       "word": "封神于适黄曦彦上你好星期六剧宣",
@@ -23769,14 +23809,6 @@
       "onboard_time": 1691463335,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 263705,
-      "num": 263705,
-      "word": "央媒呼吁让医疗回归治病救人初心",
-      "onboard_time": 1691980354,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263579,
@@ -24259,6 +24291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256244,
+      "num": 256244,
+      "word": "毛晓彤庆余年2红衣造型",
+      "onboard_time": 1691983655,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255792,
       "num": 255792,
       "word": "什么行业会在凌晨飞机上加班",
@@ -24635,12 +24675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249418,
-      "num": 249418,
-      "word": "内马尔 沙特",
-      "onboard_time": 1691982514,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 249326,
+      "num": 249326,
+      "word": "假如小夭统一大荒把四个全娶了",
+      "onboard_time": 1691982874,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 248930,
@@ -25563,6 +25603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236012,
+      "num": 236012,
+      "word": "恋与制作人异域美男",
+      "onboard_time": 1691983174,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235965,
       "num": 235965,
       "word": "tabe不抢大树",
@@ -25747,6 +25795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234145,
+      "num": 234145,
+      "word": "孟宴臣的总裁内核和霸道无关",
+      "onboard_time": 1691983655,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233871,
       "num": 640779,
       "word": "四川熊猫长得都太有特点了",
@@ -25865,6 +25921,14 @@
       "onboard_time": 1690816715,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231560,
+      "num": 231560,
+      "word": "时尚芭莎拍的钟汉良秦岚",
+      "onboard_time": 1691982698,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 231449,
@@ -26121,14 +26185,6 @@
       "onboard_time": 1691507021,
       "rank": 46,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 227250,
-      "num": 227250,
-      "word": "刘雅瑟前任4相亲人设是陶白白吧",
-      "onboard_time": 1691982636,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 227114,
@@ -27171,14 +27227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215970,
-      "num": 215970,
-      "word": "熬夜但睡眠充足伤肝吗",
-      "onboard_time": 1691982996,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 215944,
       "num": 215944,
       "word": "三个男主对小夭的感情",
@@ -27249,14 +27297,6 @@
       "onboard_time": 1691155364,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215414,
-      "num": 215414,
-      "word": "成毅为什么叫傅诗淇",
-      "onboard_time": 1691982996,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 215009,
@@ -27545,6 +27585,14 @@
       "onboard_time": 1691671836,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211783,
+      "num": 211783,
+      "word": "杨玏看于适的眼神",
+      "onboard_time": 1691983536,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 211771,
@@ -29123,14 +29171,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 198297,
-      "num": 198297,
-      "word": "时尚芭莎拍的钟汉良秦岚",
-      "onboard_time": 1691982698,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 198236,
       "num": 198236,
       "word": "TTG对战eStar",
@@ -29987,6 +30027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192164,
+      "num": 192164,
+      "word": "未定事件簿联名",
+      "onboard_time": 1691983055,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192158,
       "num": 192158,
       "word": "王奕回应泪崩",
@@ -30249,14 +30297,6 @@
       "onboard_time": 1691164840,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 190068,
-      "num": 190068,
-      "word": "假如小夭统一大荒把四个全娶了",
-      "onboard_time": 1691982874,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 189957,
@@ -34619,6 +34659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72543,
+      "num": 646646,
+      "word": "TheShy出题",
+      "onboard_time": 1691982035,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 72472,
       "num": 1045608,
       "word": "被大运会中国95后的自信狠狠拿捏",
@@ -35137,14 +35185,6 @@
       "onboard_time": 1691388397,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 42411,
-      "num": 558117,
-      "word": "TheShy出题",
-      "onboard_time": 1691982035,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 42292,
