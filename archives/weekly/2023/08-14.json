@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692017228288,
+  "endTime": 1692019172528,
   "band_list": [
     {
       "raw_hot": 2682653,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1530469,
-      "num": 858309,
+      "num": 1203132,
       "word": "港媒曝周润发不听医嘱继续跑步",
       "onboard_time": 1692013356,
       "rank": 3,
@@ -187,6 +187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1481486,
+      "num": 1432366,
+      "word": "长相思结局",
+      "onboard_time": 1692010656,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1441010,
+      "num": 1441010,
+      "word": "他现在甚至都懒得张口了",
+      "onboard_time": 1692014974,
+      "rank": 19,
+      "category": "幽默,音乐"
+    },
+    {
       "raw_hot": 1424426,
       "num": 1424426,
       "word": "你希望调休取消吗",
@@ -195,19 +211,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1420351,
-      "num": 1047330,
-      "word": "长相思结局",
-      "onboard_time": 1692010656,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1387604,
       "num": 1387604,
       "word": "医生称极少贪腐代表不了辛苦的群体",
       "onboard_time": 1691976514,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1358899,
+      "num": 1358899,
+      "word": "3人偷渡到缅甸搞诈骗却因文化低被拒收",
+      "onboard_time": 1692016775,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -419,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 846672,
-      "num": 846672,
-      "word": "他现在甚至都懒得张口了",
-      "onboard_time": 1692014974,
-      "rank": 19,
-      "category": "幽默,音乐"
-    },
-    {
       "raw_hot": 827315,
       "num": 827315,
       "word": "张晚意邓为你们不要再吵了",
@@ -537,6 +545,14 @@
       "onboard_time": 1691997396,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 719568,
+      "num": 625104,
+      "word": "北京故宫旅游的现状",
+      "onboard_time": 1692014314,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 717383,
@@ -659,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 625104,
-      "num": 625104,
-      "word": "北京故宫旅游的现状",
-      "onboard_time": 1692014314,
-      "rank": 8,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 621726,
       "num": 621726,
       "word": "游客称在黄山拍到神秘黄色动物",
@@ -697,6 +705,14 @@
       "onboard_time": 1692012034,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 592490,
+      "num": 592490,
+      "word": "邓为拍长相思中暑晕倒",
+      "onboard_time": 1692015397,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 591775,
@@ -731,20 +747,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 567169,
+      "num": 567169,
+      "word": "爸爸当家2收官长文",
+      "onboard_time": 1692014796,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 565238,
       "num": 692461,
       "word": "中方强烈谴责恐怖主义行径",
       "onboard_time": 1692002134,
       "rank": 13,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 562903,
-      "num": 562903,
-      "word": "爸爸当家2收官长文",
-      "onboard_time": 1692014796,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 562338,
@@ -827,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 506869,
+      "num": 372829,
+      "word": "总裁办公室变员工托儿所",
+      "onboard_time": 1692016775,
+      "rank": 28,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 504827,
       "num": 805703,
       "word": "国务院安委会挂牌督办齐齐哈尔体育馆事故",
@@ -851,8 +875,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 495232,
+      "num": 495232,
+      "word": "孙红雷评价张艺兴已成一方霸主",
+      "onboard_time": 1692016358,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 492905,
-      "num": 383124,
+      "num": 444877,
       "word": "嗑cp也是一种恋爱脑",
       "onboard_time": 1692014016,
       "rank": 21,
@@ -1019,14 +1051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 428462,
-      "num": 297095,
-      "word": "孙红雷评价张艺兴已成一方霸主",
-      "onboard_time": 1692016358,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 425912,
       "num": 399089,
       "word": "消失的她再次延长上映",
@@ -1084,7 +1108,7 @@
     },
     {
       "raw_hot": 406866,
-      "num": 406866,
+      "num": 466323,
       "word": "小米发布会",
       "onboard_time": 1692012573,
       "rank": 40,
@@ -1203,8 +1227,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 366416,
-      "num": 297210,
+      "raw_hot": 368200,
+      "num": 368200,
       "word": "适龙吸水",
       "onboard_time": 1692015697,
       "rank": 28,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1691996016,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 354408,
-      "num": 293868,
-      "word": "3人偷渡到缅甸搞诈骗却因文化低被拒收",
-      "onboard_time": 1692016775,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353773,
@@ -1355,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328838,
+      "num": 328838,
+      "word": "时代少年团直播",
+      "onboard_time": 1692018518,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328381,
       "num": 328381,
       "word": "捞人捞到偷外卖的",
@@ -1393,6 +1417,14 @@
       "onboard_time": 1691981795,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320992,
+      "num": 320992,
+      "word": "真的不要轻易卖掉小孩的宠物",
+      "onboard_time": 1692017019,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 320027,
@@ -1635,14 +1667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 278987,
-      "num": 278987,
-      "word": "总裁办公室变员工托儿所",
-      "onboard_time": 1692016775,
-      "rank": 28,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 276854,
       "num": 1164904,
       "word": "消防员救了个奶声奶气的卡手娃",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1691994634,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276325,
+      "num": 276325,
+      "word": "亲眼目睹父亲当街杀母亲女孩发声",
+      "onboard_time": 1692018880,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274336,
@@ -1832,6 +1864,14 @@
       "word": "假如小夭统一大荒把四个全娶了",
       "onboard_time": 1691982874,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 249030,
+      "num": 249030,
+      "word": "文无期下线",
+      "onboard_time": 1692017979,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -2011,6 +2051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221305,
+      "num": 221305,
+      "word": "央视818晚会请的人都好会唱",
+      "onboard_time": 1692016598,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219741,
       "num": 219741,
       "word": "她的讲述字字血泪她们还在等待道歉",
@@ -2051,12 +2099,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211644,
+      "num": 211644,
+      "word": "早C晚A",
+      "onboard_time": 1692018760,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 211544,
       "num": 211544,
       "word": "一下楼就看到了姐姐",
       "onboard_time": 1692012454,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209982,
+      "num": 209982,
+      "word": "广东人有自己的防晒方式",
+      "onboard_time": 1692017257,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 209954,
@@ -2067,12 +2131,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209392,
-      "num": 209392,
-      "word": "央视818晚会请的人都好会唱",
-      "onboard_time": 1692016598,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 207075,
+      "num": 207075,
+      "word": "如果毛球会说话",
+      "onboard_time": 1692018760,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 205918,
@@ -2168,6 +2232,14 @@
       "word": "杨超越原声台词",
       "onboard_time": 1692014736,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194761,
+      "num": 194761,
+      "word": "一路朝阳",
+      "onboard_time": 1692018039,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -2299,6 +2371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180949,
+      "num": 180949,
+      "word": "老板娘连续仨月免费接纳农民工纳凉",
+      "onboard_time": 1692016299,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180580,
       "num": 180580,
       "word": "马嘉祺被时代少年团挤到床头",
@@ -2347,6 +2427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 174213,
+      "num": 174213,
+      "word": "TVB自古不产傻白甜",
+      "onboard_time": 1692018760,
+      "rank": 49,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 170373,
       "num": 170373,
       "word": "切尔西vs利物浦",
@@ -2377,14 +2465,6 @@
       "onboard_time": 1692008320,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165757,
-      "num": 165757,
-      "word": "老板娘连续仨月免费接纳农民工纳凉",
-      "onboard_time": 1692016299,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164378,
@@ -2459,14 +2539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144437,
-      "num": 149074,
-      "word": "真的不要轻易卖掉小孩的宠物",
-      "onboard_time": 1692017019,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143565,
       "num": 190043,
       "word": "年轻孩子的第一次重大打击",
@@ -2513,6 +2585,14 @@
       "onboard_time": 1692017019,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137161,
+      "num": 183398,
+      "word": "徕卡认证的折叠屏",
+      "onboard_time": 1692018880,
+      "rank": 46,
+      "category": "科技,时尚"
     },
     {
       "raw_hot": 135299,
@@ -2601,6 +2681,14 @@
       "onboard_time": 1691954235,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87660,
+      "num": 189427,
+      "word": "文咏珊重现沙滩名场面",
+      "onboard_time": 1692019000,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 85838,
