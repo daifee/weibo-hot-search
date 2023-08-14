@@ -1,0 +1,410 @@
+{
+  "runTime": 1691978505221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1417381,
+        "num": 1417381,
+        "word": "张学友演唱会因耳水不平衡跌倒",
+        "onboard_time": 1691971414,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1177039,
+        "num": 1177039,
+        "word": "加拿大山火已烧了几个月",
+        "onboard_time": 1691971774,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58770,
+        "num": 1084625,
+        "word": "巧妙散热让博物馆的热度细水长流",
+        "onboard_time": 1691934401,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038473,
+        "num": 1038473,
+        "word": "特斯拉降价",
+        "onboard_time": 1691973096,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 897364,
+        "num": 897364,
+        "word": "熬夜熬的是甲状腺寿命",
+        "onboard_time": 1691938060,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785001,
+        "num": 785001,
+        "word": "A股",
+        "onboard_time": 1691977594,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 772901,
+        "num": 772901,
+        "word": "医生称极少贪腐代表不了辛苦的群体",
+        "onboard_time": 1691976514,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589206,
+        "num": 589206,
+        "word": "小夭 灭霸",
+        "onboard_time": 1691975735,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 583070,
+        "num": 583070,
+        "word": "为什么商场的一楼没有卫生间",
+        "onboard_time": 1691968945,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 578522,
+        "num": 578522,
+        "word": "长相思今晚点映收官",
+        "onboard_time": 1691975076,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1744071,
+        "num": 570918,
+        "word": "kimi侧脸",
+        "onboard_time": 1691974417,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1024148,
+        "num": 566570,
+        "word": "EXO青岛",
+        "onboard_time": 1691977292,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 757805,
+        "num": 558883,
+        "word": "邓为微博粉丝破四百万",
+        "onboard_time": 1691975676,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239767,
+        "num": 547701,
+        "word": "熊猫崽崽挺着小肚皮扶墙行走",
+        "onboard_time": 1691945966,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191391,
+        "num": 537666,
+        "word": "19岁战士说听百姓说辛苦了就是动力",
+        "onboard_time": 1691977953,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536872,
+        "num": 536872,
+        "word": "赵樱子马甲线",
+        "onboard_time": 1691975676,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474049,
+        "num": 474049,
+        "word": "李雪琴 我特别期待30岁",
+        "onboard_time": 1691972014,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408211,
+        "num": 408211,
+        "word": "BLACKPINK疑似又有人划水",
+        "onboard_time": 1691940400,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 397383,
+        "num": 397383,
+        "word": "调查称大三甲医生每天工作超10小时",
+        "onboard_time": 1691971713,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357582,
+        "num": 357582,
+        "word": "韩国人学会中文气泡音了",
+        "onboard_time": 1691973036,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 734255,
+        "num": 357514,
+        "word": "雷佳音老婆晒与女儿合照",
+        "onboard_time": 1691970931,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726944,
+        "num": 357340,
+        "word": "中秋国庆可拼17天长假",
+        "onboard_time": 1691975076,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356469,
+        "num": 356469,
+        "word": "乌尔善说封神后续有伯邑考戏份",
+        "onboard_time": 1691971473,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 668522,
+        "num": 356165,
+        "word": "肝好不好看眼睛就知道了",
+        "onboard_time": 1691968646,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355359,
+        "num": 355359,
+        "word": "杨超越账号被卡无法上线",
+        "onboard_time": 1691956395,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337948,
+        "num": 337948,
+        "word": "张大大和成龙言承旭有同一个女主角",
+        "onboard_time": 1691976212,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305926,
+        "num": 305926,
+        "word": "钟汉良秦岚新剧杀青",
+        "onboard_time": 1691975313,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289536,
+        "num": 289536,
+        "word": "妈妈吃冰西瓜加咖啡进急诊了",
+        "onboard_time": 1691970389,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287466,
+        "num": 287466,
+        "word": "原来这些都是气血不足的表现",
+        "onboard_time": 1691968945,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283745,
+        "num": 283745,
+        "word": "孤注一掷周也为什么笑",
+        "onboard_time": 1691972194,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257482,
+        "num": 257482,
+        "word": "薛之谦说在我回来之前见字如面",
+        "onboard_time": 1691976755,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259437,
+        "num": 253918,
+        "word": "孤注一掷票房断层第一",
+        "onboard_time": 1691937880,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239628,
+        "num": 239628,
+        "word": "喜剧还得是小沈阳",
+        "onboard_time": 1691971172,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222387,
+        "num": 222387,
+        "word": "给宠物看爪相",
+        "onboard_time": 1691975676,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213799,
+        "num": 213799,
+        "word": "BLG与EDG携手晋级八强",
+        "onboard_time": 1691969366,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219973,
+        "num": 210644,
+        "word": "莲花楼原作者也在嗑一家三口吗",
+        "onboard_time": 1691977234,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206633,
+        "num": 206633,
+        "word": "三里屯太古里回应北区女生被偷拍",
+        "onboard_time": 1691932181,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 204435,
+        "num": 204435,
+        "word": "白桃星座",
+        "onboard_time": 1691972316,
+        "rank": 37,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 203334,
+        "num": 203334,
+        "word": "于适的保镖是拦于适的",
+        "onboard_time": 1691970389,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197906,
+        "num": 197906,
+        "word": "周一美式",
+        "onboard_time": 1691977473,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181114,
+        "num": 181114,
+        "word": "北京开了20年的非网红肥肠火锅",
+        "onboard_time": 1691974297,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173776,
+        "num": 173776,
+        "word": "张晚意邓为檀健次眼神戏对比",
+        "onboard_time": 1691961374,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173720,
+        "num": 173720,
+        "word": "国内很多城市都在国外火了",
+        "onboard_time": 1691972678,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159388,
+        "num": 173229,
+        "word": "张陆在太空对妻子唱人间星河无一不是你",
+        "onboard_time": 1691975615,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172973,
+        "num": 172973,
+        "word": "邓为vlog的女友视角",
+        "onboard_time": 1691972133,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172110,
+        "num": 172110,
+        "word": "大爷拿500枚1角硬币充值小姐姐12分钟清点完",
+        "onboard_time": 1691939499,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171226,
+        "num": 171226,
+        "word": "真有人会忙到一天不回消息吗",
+        "onboard_time": 1691940039,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 160835,
+        "num": 160835,
+        "word": "六公主为什么如此关注封神",
+        "onboard_time": 1691939499,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155967,
+        "num": 155967,
+        "word": "恩佐全场最佳",
+        "onboard_time": 1691973634,
+        "rank": 48,
+        "category": "体育,体育"
+      },
+      {
+        "raw_hot": 155372,
+        "num": 155372,
+        "word": "于适回应票房过20亿表演龙吸水",
+        "onboard_time": 1691943453,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#大江焕新颜的新时代画卷#"
+    }
+  }
+}

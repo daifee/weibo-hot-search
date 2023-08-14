@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691976573602,
+  "endTime": 1691978505221,
   "band_list": [
     {
       "raw_hot": 1931060,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1902994,
-      "num": 466091,
+      "num": 570918,
       "word": "kimi侧脸",
       "onboard_time": 1691974417,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1024148,
+      "num": 566570,
+      "word": "EXO青岛",
+      "onboard_time": 1691977292,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 901842,
       "num": 356624,
       "word": "肝好不好看眼睛就知道了",
@@ -99,6 +107,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 785001,
+      "num": 785001,
+      "word": "A股",
+      "onboard_time": 1691977594,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 772901,
+      "num": 772901,
+      "word": "医生称极少贪腐代表不了辛苦的群体",
+      "onboard_time": 1691976514,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757805,
+      "num": 558883,
+      "word": "邓为微博粉丝破四百万",
+      "onboard_time": 1691975676,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746931,
       "num": 547203,
       "word": "杨超越账号被卡无法上线",
@@ -107,20 +139,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 726944,
+      "num": 357340,
+      "word": "中秋国庆可拼17天长假",
+      "onboard_time": 1691975076,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 723604,
       "num": 469826,
       "word": "榴莲内衣",
       "onboard_time": 1691935543,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 722730,
-      "num": 335356,
-      "word": "中秋国庆可拼17天长假",
-      "onboard_time": 1691975076,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 706551,
@@ -171,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589206,
+      "num": 589206,
+      "word": "小夭 灭霸",
+      "onboard_time": 1691975735,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 585751,
       "num": 585751,
       "word": "长相思今晚点映收官",
@@ -187,20 +227,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 536872,
+      "num": 536872,
+      "word": "赵樱子马甲线",
+      "onboard_time": 1691975676,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 528718,
       "num": 528718,
       "word": "中国男篮vs新西兰男篮",
       "onboard_time": 1691936678,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 511512,
-      "num": 457092,
-      "word": "赵樱子马甲线",
-      "onboard_time": 1691975676,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 509813,
@@ -227,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 474049,
+      "num": 474049,
+      "word": "李雪琴 我特别期待30岁",
+      "onboard_time": 1691972014,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471946,
       "num": 471946,
       "word": "云南地震",
@@ -241,14 +289,6 @@
       "onboard_time": 1691937341,
       "rank": 9,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 466866,
-      "num": 466866,
-      "word": "李雪琴 我特别期待30岁",
-      "onboard_time": 1691972014,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 461421,
@@ -299,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406681,
-      "num": 316289,
-      "word": "小夭 灭霸",
-      "onboard_time": 1691975735,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 401945,
       "num": 401945,
       "word": "丽水一无人售瓜摊1天收入2000多元",
@@ -323,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 391844,
-      "num": 315733,
-      "word": "邓为微博粉丝破四百万",
-      "onboard_time": 1691975676,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370783,
       "num": 370783,
       "word": "BLG与EDG携手晋级八强",
@@ -339,12 +363,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 349238,
-      "num": 349238,
+      "raw_hot": 357582,
+      "num": 357582,
       "word": "韩国人学会中文气泡音了",
       "onboard_time": 1691973036,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 337948,
+      "num": 337948,
+      "word": "张大大和成龙言承旭有同一个女主角",
+      "onboard_time": 1691976212,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 336878,
@@ -356,7 +388,7 @@
     },
     {
       "raw_hot": 333640,
-      "num": 454220,
+      "num": 547701,
       "word": "熊猫崽崽挺着小肚皮扶墙行走",
       "onboard_time": 1691945966,
       "rank": 48,
@@ -515,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257482,
+      "num": 257482,
+      "word": "薛之谦说在我回来之前见字如面",
+      "onboard_time": 1691976755,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 254197,
       "num": 254197,
       "word": "给宠物看爪相",
@@ -529,14 +569,6 @@
       "onboard_time": 1691918615,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249692,
-      "num": 249692,
-      "word": "张大大和成龙言承旭有同一个女主角",
-      "onboard_time": 1691976212,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244889,
@@ -595,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219973,
+      "num": 210644,
+      "word": "莲花楼原作者也在嗑一家三口吗",
+      "onboard_time": 1691977234,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218871,
       "num": 218871,
       "word": "江苏盐城龙卷风2死15伤",
@@ -649,6 +689,22 @@
       "onboard_time": 1691939499,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197906,
+      "num": 197906,
+      "word": "周一美式",
+      "onboard_time": 1691977473,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 191391,
+      "num": 537666,
+      "word": "19岁战士说听百姓说辛苦了就是动力",
+      "onboard_time": 1691977953,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190437,
@@ -777,14 +833,6 @@
       "onboard_time": 1691929476,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161332,
-      "num": 161332,
-      "word": "医生称极少贪腐代表不了辛苦的群体",
-      "onboard_time": 1691976514,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157620,
