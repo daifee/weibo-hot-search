@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692045246090,
+  "endTime": 1692047674502,
   "band_list": [
     {
       "raw_hot": 2948368,
@@ -3051,7 +3051,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91224,
+      "raw_hot": 91701,
       "num": 44670,
       "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
       "onboard_time": 1692040395,
@@ -3177,6 +3177,14 @@
       "onboard_time": 1692036439,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 36565,
+      "num": 25958,
+      "word": "王传君 这届的观众真难带",
+      "onboard_time": 1692046094,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 32943,
