@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691998428366,
+  "endTime": 1692001231305,
   "band_list": [
     {
       "raw_hot": 2028603,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1424990,
+      "num": 511216,
+      "word": "情妇成立公司揽医院工程",
+      "onboard_time": 1691996914,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1424426,
       "num": 1424426,
       "word": "你希望调休取消吗",
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1214781,
+      "num": 1214781,
+      "word": "冯绍峰的女主运",
+      "onboard_time": 1691996435,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1194643,
       "num": 1194643,
       "word": "魏大勋杂志秒没",
@@ -219,12 +235,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1103623,
-      "num": 1103623,
-      "word": "冯绍峰的女主运",
-      "onboard_time": 1691996435,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 1107432,
+      "num": 508248,
+      "word": "吴世勋是要来进货吗",
+      "onboard_time": 1691996973,
+      "rank": 30,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1059892,
+      "num": 481091,
+      "word": "边伯贤 青岛胶东机场",
+      "onboard_time": 1691998714,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1005681,
@@ -283,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 893941,
-      "num": 459482,
-      "word": "吴世勋是要来进货吗",
-      "onboard_time": 1691996973,
-      "rank": 30,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 854956,
       "num": 854956,
       "word": "调查称大三甲医生每天工作超10小时",
@@ -347,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 756018,
+      "num": 489479,
+      "word": "雷军建议不要给年轻人建议",
+      "onboard_time": 1691999976,
+      "rank": 15,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 746931,
       "num": 547203,
       "word": "杨超越账号被卡无法上线",
@@ -385,6 +409,14 @@
       "onboard_time": 1691935543,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 723172,
+      "num": 723172,
+      "word": "经纪人王力威退股肖战工作室",
+      "onboard_time": 1691997396,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 717383,
@@ -433,14 +465,6 @@
       "onboard_time": 1691975735,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 640024,
-      "num": 455035,
-      "word": "情妇成立公司揽医院工程",
-      "onboard_time": 1691996914,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 639671,
@@ -499,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 559561,
+      "num": 559561,
+      "word": "莲花楼要散架了",
+      "onboard_time": 1691996855,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 548627,
       "num": 548627,
       "word": "张天爱官宣前任4",
@@ -537,6 +569,14 @@
       "onboard_time": 1691936678,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 521186,
+      "num": 521186,
+      "word": "游客称在黄山拍到神秘黄色动物",
+      "onboard_time": 1691994634,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517284,
@@ -587,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 480816,
+      "num": 480816,
+      "word": "封神剧组 一群人同行的青春",
+      "onboard_time": 1691999499,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 474049,
       "num": 474049,
       "word": "李雪琴 我特别期待30岁",
@@ -620,7 +668,7 @@
     },
     {
       "raw_hot": 465415,
-      "num": 465415,
+      "num": 503218,
       "word": "真正导致医疗腐败的根源是什么",
       "onboard_time": 1691993914,
       "rank": 46,
@@ -691,20 +739,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 428291,
+      "num": 326905,
+      "word": "以后简历上有的写了",
+      "onboard_time": 1691997396,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 425912,
       "num": 399089,
       "word": "消失的她再次延长上映",
       "onboard_time": 1691987562,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 419031,
-      "num": 419031,
-      "word": "经纪人王力威退股肖战工作室",
-      "onboard_time": 1691997396,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 418851,
@@ -747,14 +795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 404521,
-      "num": 326905,
-      "word": "以后简历上有的写了",
-      "onboard_time": 1691997396,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 403124,
       "num": 403124,
       "word": "今晚夭璟批璟不发音",
@@ -777,14 +817,6 @@
       "onboard_time": 1691986602,
       "rank": 49,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 393665,
-      "num": 393665,
-      "word": "莲花楼要散架了",
-      "onboard_time": 1691996855,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 391911,
@@ -851,12 +883,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 359884,
-      "num": 343033,
-      "word": "游客称在黄山拍到神秘黄色动物",
-      "onboard_time": 1691994634,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 366585,
+      "num": 330578,
+      "word": "当了四年老师上岸公务员的感受",
+      "onboard_time": 1691997157,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 357582,
@@ -955,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330578,
-      "num": 330578,
-      "word": "当了四年老师上岸公务员的感受",
-      "onboard_time": 1691997157,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 328092,
       "num": 328092,
       "word": "热烈",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1691984378,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316107,
+      "num": 269188,
+      "word": "杨紫凑齐三大类型的爆剧",
+      "onboard_time": 1692000216,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 314732,
@@ -1115,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285969,
+      "num": 269079,
+      "word": "i人和e人的背包区别在哪里",
+      "onboard_time": 1691998116,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 285773,
       "num": 285773,
       "word": "张靓颖晒与薛之谦合照",
@@ -1164,11 +1204,19 @@
     },
     {
       "raw_hot": 270962,
-      "num": 193472,
+      "num": 219240,
       "word": "张晚意老了belike",
       "onboard_time": 1691997816,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269734,
+      "num": 269734,
+      "word": "年轻人选择放弃社保的理由",
+      "onboard_time": 1692000638,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269238,
@@ -1193,6 +1241,14 @@
       "onboard_time": 1691938122,
       "rank": 26,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 265447,
+      "num": 265447,
+      "word": "王源出发长沙路透",
+      "onboard_time": 1692000638,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 263895,
@@ -1275,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249018,
+      "num": 249018,
+      "word": "中国电信无故多扣费",
+      "onboard_time": 1691998897,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247782,
       "num": 247782,
       "word": "莲花楼原作者也在嗑一家三口吗",
@@ -1339,6 +1403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238228,
+      "num": 223177,
+      "word": "此沙凹了很久拍了三张",
+      "onboard_time": 1691998177,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235690,
       "num": 235690,
       "word": "诗意的她",
@@ -1387,20 +1459,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223252,
+      "num": 223252,
+      "word": "谁懂那种朋友回礼很便宜的感觉",
+      "onboard_time": 1691997996,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 219741,
       "num": 219741,
       "word": "她的讲述字字血泪她们还在等待道歉",
       "onboard_time": 1691981311,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219352,
-      "num": 192943,
-      "word": "此沙凹了很久拍了三张",
-      "onboard_time": 1691998177,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 218871,
@@ -1491,20 +1563,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199236,
-      "num": 199236,
-      "word": "i人和e人的背包区别在哪里",
-      "onboard_time": 1691998116,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199054,
       "num": 199054,
       "word": "暑期档哪部剧最让你上头",
       "onboard_time": 1691980112,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198560,
+      "num": 198560,
+      "word": "朱一龙消失的她最新片场照",
+      "onboard_time": 1692000454,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196555,
+      "num": 196555,
+      "word": "内马尔或本周上演沙特首秀",
+      "onboard_time": 1692000156,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 194544,
@@ -1556,7 +1636,7 @@
     },
     {
       "raw_hot": 187783,
-      "num": 193749,
+      "num": 195366,
       "word": "现在是钎城时间",
       "onboard_time": 1691998235,
       "rank": 39,
@@ -1609,6 +1689,14 @@
       "onboard_time": 1691973817,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177894,
+      "num": 196086,
+      "word": "医药反腐",
+      "onboard_time": 1691999499,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177164,
@@ -1713,14 +1801,6 @@
       "onboard_time": 1691919273,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144144,
-      "num": 192812,
-      "word": "谁懂那种朋友回礼很便宜的感觉",
-      "onboard_time": 1691997996,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 141265,
@@ -1864,6 +1944,22 @@
       "word": "两路人遇女孩溺水下河接力救上岸",
       "onboard_time": 1691985700,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44750,
+      "num": 493557,
+      "word": "男子骑车被大坑绊倒隔天返回修补",
+      "onboard_time": 1692000037,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27987,
+      "num": 522270,
+      "word": "洪水后战士们一家一家问能帮忙干什么",
+      "onboard_time": 1691972614,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
