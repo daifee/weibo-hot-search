@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692034437086,
+  "endTime": 1692037217479,
   "band_list": [
     {
       "raw_hot": 2948368,
@@ -3051,6 +3051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87784,
+      "num": 159190,
+      "word": "大熊猫思嘉对公主床爱不释手",
+      "onboard_time": 1692033921,
+      "rank": 14,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 87660,
       "num": 360547,
       "word": "文咏珊重现沙滩名场面",
@@ -3131,12 +3139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31560,
-      "num": 159190,
-      "word": "大熊猫思嘉对公主床爱不释手",
-      "onboard_time": 1692033921,
-      "rank": 14,
-      "category": "社会新闻,情感"
+      "raw_hot": 44093,
+      "num": 44093,
+      "word": "韩红结束义诊众人列队送别",
+      "onboard_time": 1692036496,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39783,
+      "num": 39783,
+      "word": "看着十分满足的切蛋糕大赏",
+      "onboard_time": 1692036439,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 27987,
@@ -3163,7 +3179,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 9367,
+      "raw_hot": 15073,
       "num": 347875,
       "word": "子弟兵在抗洪一线",
       "onboard_time": 1692019180,

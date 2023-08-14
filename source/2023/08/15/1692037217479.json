@@ -1,0 +1,410 @@
+{
+  "runTime": 1692037217479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 429824,
+        "num": 429824,
+        "word": "涂山璟和小夭分手 真哭了",
+        "onboard_time": 1692026257,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267838,
+        "num": 267838,
+        "word": "这样的豆浆千万别再喝了",
+        "onboard_time": 1692027455,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15073,
+        "num": 237859,
+        "word": "子弟兵在抗洪一线",
+        "onboard_time": 1692019180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293274,
+        "num": 235493,
+        "word": "涂山璟再度解锁四爱play",
+        "onboard_time": 1692030211,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225676,
+        "num": 225676,
+        "word": "卫星地图看缅甸KK园区",
+        "onboard_time": 1692024941,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192162,
+        "num": 192162,
+        "word": "长相思结局",
+        "onboard_time": 1692010656,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165429,
+        "num": 165429,
+        "word": "杭州女白领被骗回家当厂妹火了",
+        "onboard_time": 1692022420,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149803,
+        "num": 149803,
+        "word": "他现在甚至都懒得张口了",
+        "onboard_time": 1692014974,
+        "rank": 7,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 147705,
+        "num": 147705,
+        "word": "檀健次从倒数第一到全国第一",
+        "onboard_time": 1692007718,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139542,
+        "num": 139542,
+        "word": "3人偷渡到缅甸搞诈骗却因文化低被拒收",
+        "onboard_time": 1692016775,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393953,
+        "num": 129681,
+        "word": "小红书",
+        "onboard_time": 1692025539,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 117408,
+        "num": 117408,
+        "word": "相柳 将军帐",
+        "onboard_time": 1692026679,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104630,
+        "num": 104630,
+        "word": "EXO青岛签售会生图",
+        "onboard_time": 1692022721,
+        "rank": 12,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 87784,
+        "num": 104283,
+        "word": "大熊猫思嘉对公主床爱不释手",
+        "onboard_time": 1692033921,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 42906,
+        "num": 104246,
+        "word": "警犬找到走失男童获奖小红花",
+        "onboard_time": 1692023442,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111642,
+        "num": 104240,
+        "word": "檀健次 相柳有点浪漫",
+        "onboard_time": 1692011195,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104230,
+        "num": 104230,
+        "word": "盗月社内蒙吃肉 有人却差点饿死",
+        "onboard_time": 1692026378,
+        "rank": 16,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 102966,
+        "num": 102966,
+        "word": "癌症在我国已经熬成慢性病",
+        "onboard_time": 1692003336,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97057,
+        "num": 100803,
+        "word": "TVB自古不产傻白甜",
+        "onboard_time": 1692018760,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84938,
+        "num": 100683,
+        "word": "爸爸当家2收官长文",
+        "onboard_time": 1692014796,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386845,
+        "num": 100683,
+        "word": "亲眼目睹父亲当街杀母亲女孩发声",
+        "onboard_time": 1692018880,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100666,
+        "num": 100666,
+        "word": "时代少年团 巴黎卡诗",
+        "onboard_time": 1692029373,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 97136,
+        "num": 97136,
+        "word": "贾乃亮为贾冰发了6条微博",
+        "onboard_time": 1692033442,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89033,
+        "num": 89033,
+        "word": "内娱cp感强的演员",
+        "onboard_time": 1692031407,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83073,
+        "num": 83073,
+        "word": "千万别因为这话在那感动半天",
+        "onboard_time": 1692015335,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 79768,
+        "num": 79768,
+        "word": "真的不要轻易卖掉小孩的宠物",
+        "onboard_time": 1692017019,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71046,
+        "num": 71046,
+        "word": "四美颜选",
+        "onboard_time": 1692025119,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65663,
+        "num": 65663,
+        "word": "女子记录打无痛分娩针过程给老公看",
+        "onboard_time": 1692026020,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62218,
+        "num": 62218,
+        "word": "嗑cp也是一种恋爱脑",
+        "onboard_time": 1692014016,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61570,
+        "num": 61570,
+        "word": "港媒曝周润发不听医嘱继续跑步",
+        "onboard_time": 1692013356,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60583,
+        "num": 60583,
+        "word": "你坚信自己马上能转运的时候",
+        "onboard_time": 1692030809,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 60075,
+        "num": 60075,
+        "word": "新疆好像没有预制菜",
+        "onboard_time": 1692021881,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 59641,
+        "num": 59641,
+        "word": "无痛背书法",
+        "onboard_time": 1692029671,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59417,
+        "num": 59417,
+        "word": "早C晚A",
+        "onboard_time": 1692018760,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 58955,
+        "num": 58955,
+        "word": "立秋后一定要补气血",
+        "onboard_time": 1692022539,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54360,
+        "num": 54360,
+        "word": "18岁的施瓦辛格和同龄同学",
+        "onboard_time": 1692024881,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53239,
+        "num": 53239,
+        "word": "封神 把一切简化为做成一件事",
+        "onboard_time": 1692027395,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50102,
+        "num": 50102,
+        "word": "互联网女儿况三喜",
+        "onboard_time": 1692019838,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48629,
+        "num": 48629,
+        "word": "李兰迪被学士帽砸破头",
+        "onboard_time": 1692021398,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48081,
+        "num": 48081,
+        "word": "一加定价",
+        "onboard_time": 1692024399,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 47350,
+        "num": 47350,
+        "word": "48岁大姐成功应聘月薪3万麻将主播",
+        "onboard_time": 1692012454,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46506,
+        "num": 46506,
+        "word": "内马尔加盟利雅得新月",
+        "onboard_time": 1692008856,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45499,
+        "num": 45499,
+        "word": "刘涛一次性发了36张图",
+        "onboard_time": 1692004118,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44545,
+        "num": 44545,
+        "word": "孙红雷评价张艺兴已成一方霸主",
+        "onboard_time": 1692016358,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44093,
+        "num": 44093,
+        "word": "韩红结束义诊众人列队送别",
+        "onboard_time": 1692036496,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42782,
+        "num": 42782,
+        "word": "涂山璟你否认啊",
+        "onboard_time": 1692021642,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42696,
+        "num": 42696,
+        "word": "边伯贤repo",
+        "onboard_time": 1692021220,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40096,
+        "num": 40096,
+        "word": "孤注一掷删减戏份",
+        "onboard_time": 1692012815,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39783,
+        "num": 39783,
+        "word": "看着十分满足的切蛋糕大赏",
+        "onboard_time": 1692036439,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 39068,
+        "num": 39783,
+        "word": "电影前任4英年早婚",
+        "onboard_time": 1692025717,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#第一个全国生态日#"
+    }
+  }
+}
