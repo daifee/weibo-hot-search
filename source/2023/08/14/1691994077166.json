@@ -1,0 +1,410 @@
+{
+  "runTime": 1691994077166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1389625,
+        "num": 1389625,
+        "word": "瑞幸不会是蜜雪动画的反派boss吧",
+        "onboard_time": 1691991693,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1172306,
+        "num": 1172306,
+        "word": "有医院院长收受100套房",
+        "onboard_time": 1691981436,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145013,
+        "num": 983497,
+        "word": "每个博物馆都有一个显眼包",
+        "onboard_time": 1691986120,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942093,
+        "num": 942093,
+        "word": "EXO来见中国爱丽了",
+        "onboard_time": 1691988762,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 853595,
+        "num": 853595,
+        "word": "马立奥好可爱",
+        "onboard_time": 1691991994,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 827580,
+        "num": 827580,
+        "word": "当你被缅甸语专业录取",
+        "onboard_time": 1691986241,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 795511,
+        "num": 795511,
+        "word": "你希望调休取消吗",
+        "onboard_time": 1691986841,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561632,
+        "num": 561632,
+        "word": "张碧晨也去看了张艺兴演唱会",
+        "onboard_time": 1691982094,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 449217,
+        "num": 449217,
+        "word": "长相思第二季",
+        "onboard_time": 1691979512,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320170,
+        "num": 320170,
+        "word": "仅4%受访年轻人几乎不熬夜",
+        "onboard_time": 1691980892,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1228839,
+        "num": 318325,
+        "word": "张艺兴前往医院就诊",
+        "onboard_time": 1691984917,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1083760,
+        "num": 312205,
+        "word": "魏大勋耳骨夹",
+        "onboard_time": 1691986059,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1038569,
+        "num": 306526,
+        "word": "涿州51岁瘫痪男子家中溺亡",
+        "onboard_time": 1691992594,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710217,
+        "num": 305025,
+        "word": "费翔姥姥 相亲面试",
+        "onboard_time": 1691986841,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199619,
+        "num": 297789,
+        "word": "网攻武汉地震监测中心黑手锁定",
+        "onboard_time": 1691981733,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633779,
+        "num": 290526,
+        "word": "什么是开水房",
+        "onboard_time": 1691992293,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455271,
+        "num": 285535,
+        "word": "刘同 好像很多人进入一个人生误区",
+        "onboard_time": 1691991034,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422253,
+        "num": 284237,
+        "word": "长相思全员晒重逢请帖",
+        "onboard_time": 1691985940,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374747,
+        "num": 278071,
+        "word": "凤凰传奇你们自己的演唱会呢",
+        "onboard_time": 1691989420,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274856,
+        "num": 274856,
+        "word": "中秋国庆可拼17天长假",
+        "onboard_time": 1691975076,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607973,
+        "num": 273295,
+        "word": "女生微缩2厘米八宝饭粒粒可见",
+        "onboard_time": 1691984737,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429492,
+        "num": 271565,
+        "word": "网传山东多名男子被一女子砍伤",
+        "onboard_time": 1691992534,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410606,
+        "num": 269677,
+        "word": "爸爸当家2",
+        "onboard_time": 1691991875,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344433,
+        "num": 267753,
+        "word": "薛之谦去鸟巢的路走了18年",
+        "onboard_time": 1691990256,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 267551,
+        "num": 267551,
+        "word": "男子吃见手青中毒以为撞了人吓得报警",
+        "onboard_time": 1691988162,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336033,
+        "num": 267476,
+        "word": "魏大勋说不能困在一个角色里",
+        "onboard_time": 1691993252,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276490,
+        "num": 267342,
+        "word": "毛晓彤庆余年2红衣造型",
+        "onboard_time": 1691983655,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265195,
+        "num": 265195,
+        "word": "王鹤棣戴面具好像阿祖",
+        "onboard_time": 1691986301,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258969,
+        "num": 258969,
+        "word": "加拿大山火已烧了几个月",
+        "onboard_time": 1691971774,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228779,
+        "num": 228779,
+        "word": "为什么电影院的最佳位置没人选",
+        "onboard_time": 1691982454,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391739,
+        "num": 227871,
+        "word": "中国警察让孤注一掷导演不要害怕",
+        "onboard_time": 1691993195,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264217,
+        "num": 223288,
+        "word": "周杰伦呼和浩特",
+        "onboard_time": 1691989299,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260650,
+        "num": 212865,
+        "word": "消失的她再次延长上映",
+        "onboard_time": 1691987562,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258963,
+        "num": 210912,
+        "word": "玱玹是大娘子养大的吧",
+        "onboard_time": 1691985579,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207297,
+        "num": 207297,
+        "word": "时尚芭莎别太懂孟女",
+        "onboard_time": 1691986602,
+        "rank": 34,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 231783,
+        "num": 205820,
+        "word": "kimi侧脸",
+        "onboard_time": 1691974417,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226482,
+        "num": 196622,
+        "word": "QueencardMV播放量破2亿",
+        "onboard_time": 1691990914,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221768,
+        "num": 193292,
+        "word": "EXO青岛",
+        "onboard_time": 1691977292,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187110,
+        "num": 187110,
+        "word": "下颌线与下颚线的区别",
+        "onboard_time": 1691982335,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62381,
+        "num": 179398,
+        "word": "武警战士离别前留下一封封感谢信",
+        "onboard_time": 1691993977,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215738,
+        "num": 179003,
+        "word": "成毅为什么叫傅诗淇",
+        "onboard_time": 1691982996,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190074,
+        "num": 178249,
+        "word": "央视818晚会全阵容",
+        "onboard_time": 1691988283,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176647,
+        "num": 176647,
+        "word": "友人恋爱后患得患失你会觉得有点烦",
+        "onboard_time": 1691991517,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165482,
+        "num": 175784,
+        "word": "A股",
+        "onboard_time": 1691977594,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180648,
+        "num": 175731,
+        "word": "涂山璟角色号一直没有关注相柳",
+        "onboard_time": 1691981311,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175198,
+        "num": 175198,
+        "word": "王鹤棣和六个导演飙戏",
+        "onboard_time": 1691985337,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167007,
+        "num": 175116,
+        "word": "真正导致医疗腐败的根源是什么",
+        "onboard_time": 1691993914,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160111,
+        "num": 173927,
+        "word": "内马尔 沙特",
+        "onboard_time": 1691982514,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159686,
+        "num": 173640,
+        "word": "熬夜但睡眠充足伤肝吗",
+        "onboard_time": 1691982996,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135299,
+        "num": 172462,
+        "word": "野外快速生火小技巧",
+        "onboard_time": 1691992955,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#大江焕新颜的新时代画卷#"
+    }
+  }
+}
