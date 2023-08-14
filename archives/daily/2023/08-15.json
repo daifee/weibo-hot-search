@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692051311875,
+  "endTime": 1692052425945,
   "band_list": [
     {
       "raw_hot": 1878349,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235095,
+      "num": 83390,
+      "word": "王传君 这届的观众真难带",
+      "onboard_time": 1692046094,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219492,
       "num": 219492,
       "word": "无痛背书法",
@@ -257,6 +265,14 @@
       "onboard_time": 1692019838,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186889,
+      "num": 81646,
+      "word": "入境旅客因照片像别人找到失散双胞胎兄弟",
+      "onboard_time": 1692047172,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183885,
@@ -379,14 +395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131356,
-      "num": 83390,
-      "word": "王传君 这届的观众真难带",
-      "onboard_time": 1692046094,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129273,
       "num": 129273,
       "word": "48岁大姐成功应聘月薪3万麻将主播",
@@ -443,19 +451,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 114022,
+      "num": 61817,
+      "word": "癌症的早期信号与预防",
+      "onboard_time": 1692041295,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113089,
       "num": 398269,
       "word": "警犬找到走失男童获奖小红花",
       "onboard_time": 1692023442,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95975,
-      "num": 67006,
-      "word": "入境旅客因照片像别人找到失散双胞胎兄弟",
-      "onboard_time": 1692047172,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -475,12 +483,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 82113,
-      "num": 51085,
-      "word": "癌症的早期信号与预防",
-      "onboard_time": 1692041295,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 62051,
+      "num": 62051,
+      "word": "韩红结束义诊众人列队送别",
+      "onboard_time": 1692036496,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 51287,
@@ -491,11 +499,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 44360,
-      "num": 44360,
-      "word": "韩红结束义诊众人列队送别",
-      "onboard_time": 1692036496,
-      "rank": 44,
+      "raw_hot": 43308,
+      "num": 43308,
+      "word": "SEVENTEEN拍摄HPV疫苗广告",
+      "onboard_time": 1692042553,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -515,12 +523,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 35456,
-      "num": 35456,
-      "word": "SEVENTEEN拍摄HPV疫苗广告",
-      "onboard_time": 1692042553,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 34782,
+      "num": 34782,
+      "word": "带癌生存五年的概率提高至40.5%",
+      "onboard_time": 1692041295,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32526,
@@ -531,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31910,
+      "num": 31910,
+      "word": "金晨划草排吼出怒音",
+      "onboard_time": 1692041354,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31904,
       "num": 40765,
       "word": "切尔西1比1利物浦",
@@ -539,28 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31738,
-      "num": 31738,
-      "word": "金晨划草排吼出怒音",
-      "onboard_time": 1692041354,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 28715,
-      "num": 29039,
-      "word": "带癌生存五年的概率提高至40.5%",
-      "onboard_time": 1692041295,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26892,
+      "raw_hot": 27401,
       "num": 32635,
       "word": "周杰伦 送上大家一张三宝爸的帅照",
       "onboard_time": 1692005319,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23506,
+      "num": 31835,
+      "word": "萌兰闷头干饭无视妹妹疯狂敲窗",
+      "onboard_time": 1692047354,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21275,
