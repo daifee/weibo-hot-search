@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692012823351,
+  "endTime": 1692016304968,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2731,6 +2731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1530469,
+      "num": 738688,
+      "word": "港媒曝周润发不听医嘱继续跑步",
+      "onboard_time": 1692013356,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1529472,
       "num": 523300,
       "word": "魔法城堡",
@@ -3264,6 +3272,14 @@
       "word": "玱玹原著娶了九个老婆",
       "onboard_time": 1690878935,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1394686,
+      "num": 1047330,
+      "word": "长相思结局",
+      "onboard_time": 1692010656,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -5281,14 +5297,6 @@
       "onboard_time": 1691850766,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1047330,
-      "num": 1047330,
-      "word": "长相思结局",
-      "onboard_time": 1692010656,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 1047204,
@@ -9675,6 +9683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 687504,
+      "num": 687504,
+      "word": "全国卷高考英语听力朗读者",
+      "onboard_time": 1692012755,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 687321,
       "num": 687321,
       "word": "整个合照里最拘束的三位",
@@ -9889,6 +9905,14 @@
       "onboard_time": 1691640695,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 677435,
+      "num": 677435,
+      "word": "48岁大姐成功应聘月薪3万麻将主播",
+      "onboard_time": 1692012454,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677426,
@@ -11451,6 +11475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 596127,
+      "num": 383293,
+      "word": "女性的生理周期belike",
+      "onboard_time": 1692012034,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 596116,
       "num": 371247,
       "word": "过于频繁洗手后的变化",
@@ -11979,6 +12011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 579710,
+      "num": 579710,
+      "word": "北京故宫旅游的现状",
+      "onboard_time": 1692014314,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 579584,
       "num": 524102,
       "word": "金晨演技",
@@ -11993,6 +12033,14 @@
       "onboard_time": 1691797829,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576255,
+      "num": 570702,
+      "word": "刘敏涛被王一博送的炖牛肉打动",
+      "onboard_time": 1692011554,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 575974,
@@ -12033,6 +12081,14 @@
       "onboard_time": 1691674116,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 575243,
+      "num": 468832,
+      "word": "kpop小卡炸裂的卡背",
+      "onboard_time": 1692013656,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 575204,
@@ -12177,14 +12233,6 @@
       "onboard_time": 1691040816,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 570702,
-      "num": 570702,
-      "word": "刘敏涛被王一博送的炖牛肉打动",
-      "onboard_time": 1692011554,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 570679,
@@ -13803,6 +13851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 513883,
+      "num": 413434,
+      "word": "爸爸当家2收官长文",
+      "onboard_time": 1692014796,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513821,
       "num": 513821,
       "word": "可以喝的西瓜",
@@ -14329,6 +14385,14 @@
       "onboard_time": 1691126915,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 492905,
+      "num": 383124,
+      "word": "嗑cp也是一种恋爱脑",
+      "onboard_time": 1692014016,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 492590,
@@ -17299,6 +17363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 406866,
+      "num": 406866,
+      "word": "小米发布会",
+      "onboard_time": 1692012573,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 405980,
       "num": 405980,
       "word": "不建议把挂式空调装在床头",
@@ -17945,6 +18017,14 @@
       "onboard_time": 1691426789,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389683,
+      "num": 389683,
+      "word": "他现在甚至都懒得张口了",
+      "onboard_time": 1692014974,
+      "rank": 19,
+      "category": "幽默,音乐"
     },
     {
       "raw_hot": 389620,
@@ -19888,6 +19968,14 @@
       "word": "费翔回应商务殷语",
       "onboard_time": 1691627736,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 349455,
+      "num": 328864,
+      "word": "八命相柳",
+      "onboard_time": 1692014974,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -21931,6 +22019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308642,
+      "num": 207667,
+      "word": "夭璟喂药静夜坐主桌",
+      "onboard_time": 1692015636,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308304,
       "num": 295100,
       "word": "妲己的报应来得很突然",
@@ -22569,6 +22665,14 @@
       "onboard_time": 1691419966,
       "rank": 37,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 297210,
+      "num": 297210,
+      "word": "适龙吸水",
+      "onboard_time": 1692015697,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 296659,
@@ -24409,6 +24513,14 @@
       "onboard_time": 1691409454,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267907,
+      "num": 204367,
+      "word": "立威廉新车开一半引擎冒烟",
+      "onboard_time": 1692015877,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 267648,
@@ -28779,6 +28891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209954,
+      "num": 203471,
+      "word": "孤注一掷删减戏份",
+      "onboard_time": 1692012815,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209804,
       "num": 309348,
       "word": "谢永强妈是我的周五发言人",
@@ -29147,6 +29267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206743,
+      "num": 206743,
+      "word": "千万别因为这话在那感动半天",
+      "onboard_time": 1692015335,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 206596,
       "num": 206596,
       "word": "我发现我在变得内核稳定",
@@ -29176,14 +29304,6 @@
       "word": "杭州新东方回应停课",
       "onboard_time": 1691641415,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206027,
-      "num": 206027,
-      "word": "48岁大姐成功应聘月薪3万麻将主播",
-      "onboard_time": 1692012454,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -29691,14 +29811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202221,
-      "num": 202221,
-      "word": "小米发布会",
-      "onboard_time": 1692012573,
-      "rank": 40,
-      "category": "科技"
-    },
-    {
       "raw_hot": 202187,
       "num": 202187,
       "word": "这世界破破烂烂总有人在缝缝补补",
@@ -29753,14 +29865,6 @@
       "onboard_time": 1691821719,
       "rank": 33,
       "category": "自然"
-    },
-    {
-      "raw_hot": 201802,
-      "num": 201802,
-      "word": "女性的生理周期belike",
-      "onboard_time": 1692012034,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 201685,
@@ -30184,6 +30288,14 @@
       "word": "适合演霸总的男演员",
       "onboard_time": 1691471559,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198512,
+      "num": 181099,
+      "word": "杨超越原声台词",
+      "onboard_time": 1692014736,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -32187,6 +32299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181607,
+      "num": 181607,
+      "word": "PEL夏决倒计时3天",
+      "onboard_time": 1692015575,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181548,
       "num": 1623848,
       "word": "收到地震预警之后该怎么做",
@@ -32721,14 +32841,6 @@
       "onboard_time": 1690806272,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 170764,
-      "num": 170764,
-      "word": "全国卷高考英语听力朗读者",
-      "onboard_time": 1692012755,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 170706,
@@ -33345,6 +33457,14 @@
       "onboard_time": 1691798973,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157878,
+      "num": 157878,
+      "word": "榴莲皮拿捏哈基米",
+      "onboard_time": 1692016056,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 157620,
@@ -34028,7 +34148,7 @@
     },
     {
       "raw_hot": 140590,
-      "num": 496387,
+      "num": 746720,
       "word": "我国再次成功发射一箭五星",
       "onboard_time": 1692001297,
       "rank": 40,
@@ -34073,6 +34193,14 @@
       "onboard_time": 1691234676,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139411,
+      "num": 139411,
+      "word": "这个人会魔法",
+      "onboard_time": 1692014855,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 139226,

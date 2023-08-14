@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692012823351,
+  "endTime": 1692016304968,
   "band_list": [
     {
       "raw_hot": 2682653,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1530469,
+      "num": 738688,
+      "word": "港媒曝周润发不听医嘱继续跑步",
+      "onboard_time": 1692013356,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1513286,
       "num": 1513286,
       "word": "张碧晨也去看了张艺兴演唱会",
@@ -185,6 +193,14 @@
       "onboard_time": 1691986841,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1394686,
+      "num": 1047330,
+      "word": "长相思结局",
+      "onboard_time": 1692010656,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1387604,
@@ -289,14 +305,6 @@
       "onboard_time": 1691998714,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1047330,
-      "num": 1047330,
-      "word": "长相思结局",
-      "onboard_time": 1692010656,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 1005681,
@@ -547,12 +555,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 687504,
+      "num": 687504,
+      "word": "全国卷高考英语听力朗读者",
+      "onboard_time": 1692012755,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 686021,
       "num": 686021,
       "word": "内马尔加盟利雅得新月",
       "onboard_time": 1692008856,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 677435,
+      "num": 677435,
+      "word": "48岁大姐成功应聘月薪3万麻将主播",
+      "onboard_time": 1692012454,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 670326,
@@ -651,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596127,
+      "num": 383293,
+      "word": "女性的生理周期belike",
+      "onboard_time": 1692012034,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 591775,
       "num": 591775,
       "word": "魏大勋说不能困在一个角色里",
@@ -667,12 +699,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 570702,
+      "raw_hot": 579710,
+      "num": 579710,
+      "word": "北京故宫旅游的现状",
+      "onboard_time": 1692014314,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 576255,
       "num": 570702,
       "word": "刘敏涛被王一博送的炖牛肉打动",
       "onboard_time": 1692011554,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 575243,
+      "num": 468832,
+      "word": "kpop小卡炸裂的卡背",
+      "onboard_time": 1692013656,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 565238,
@@ -755,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 513883,
+      "num": 413434,
+      "word": "爸爸当家2收官长文",
+      "onboard_time": 1692014796,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509813,
       "num": 509813,
       "word": "喜剧还得是小沈阳",
@@ -785,6 +841,14 @@
       "onboard_time": 1691942018,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 492905,
+      "num": 383124,
+      "word": "嗑cp也是一种恋爱脑",
+      "onboard_time": 1692014016,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 490376,
@@ -995,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406866,
+      "num": 406866,
+      "word": "小米发布会",
+      "onboard_time": 1692012573,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 403124,
       "num": 403124,
       "word": "今晚夭璟批璟不发音",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1692008016,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 389683,
+      "num": 389683,
+      "word": "他现在甚至都懒得张口了",
+      "onboard_time": 1692014974,
+      "rank": 19,
+      "category": "幽默,音乐"
     },
     {
       "raw_hot": 389070,
@@ -1161,6 +1241,14 @@
       "onboard_time": 1691997755,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349455,
+      "num": 328864,
+      "word": "八命相柳",
+      "onboard_time": 1692014974,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 348590,
@@ -1323,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308642,
+      "num": 207667,
+      "word": "夭璟喂药静夜坐主桌",
+      "onboard_time": 1692015636,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302268,
       "num": 248113,
       "word": "鹿晗系鞋带顺便飙了个高音",
@@ -1383,6 +1479,14 @@
       "num": 297756,
       "word": "玱玹涂山璟拌嘴修罗场",
       "onboard_time": 1692010301,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 297210,
+      "num": 297210,
+      "word": "适龙吸水",
+      "onboard_time": 1692015697,
       "rank": 28,
       "category": "影视"
     },
@@ -1585,6 +1689,14 @@
       "onboard_time": 1691938122,
       "rank": 26,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 267907,
+      "num": 204367,
+      "word": "立威廉新车开一半引擎冒烟",
+      "onboard_time": 1692015877,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 265447,
@@ -1915,12 +2027,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206027,
-      "num": 206027,
-      "word": "48岁大姐成功应聘月薪3万麻将主播",
-      "onboard_time": 1692012454,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 209954,
+      "num": 203471,
+      "word": "孤注一掷删减戏份",
+      "onboard_time": 1692012815,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206743,
+      "num": 206743,
+      "word": "千万别因为这话在那感动半天",
+      "onboard_time": 1692015335,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 205918,
@@ -1971,27 +2091,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202221,
-      "num": 202221,
-      "word": "小米发布会",
-      "onboard_time": 1692012573,
-      "rank": 40,
-      "category": "科技"
-    },
-    {
       "raw_hot": 201908,
       "num": 201908,
       "word": "找到了用卡通头像的好处",
       "onboard_time": 1691974897,
       "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 201802,
-      "num": 201802,
-      "word": "女性的生理周期belike",
-      "onboard_time": 1692012034,
-      "rank": 41,
       "category": "情感"
     },
     {
@@ -2024,6 +2128,14 @@
       "word": "暑期档哪部剧最让你上头",
       "onboard_time": 1691980112,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198512,
+      "num": 181099,
+      "word": "杨超越原声台词",
+      "onboard_time": 1692014736,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -2139,6 +2251,14 @@
       "category": "情感,财经"
     },
     {
+      "raw_hot": 181607,
+      "num": 181607,
+      "word": "PEL夏决倒计时3天",
+      "onboard_time": 1692015575,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181155,
       "num": 181155,
       "word": "谢娜魏大勋什么时候一起录节目",
@@ -2195,14 +2315,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 170764,
-      "num": 170764,
-      "word": "全国卷高考英语听力朗读者",
-      "onboard_time": 1692012755,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 170373,
       "num": 170373,
       "word": "切尔西vs利物浦",
@@ -2257,6 +2369,14 @@
       "onboard_time": 1691978613,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157878,
+      "num": 157878,
+      "word": "榴莲皮拿捏哈基米",
+      "onboard_time": 1692016056,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 157620,
@@ -2316,11 +2436,19 @@
     },
     {
       "raw_hot": 140590,
-      "num": 496387,
+      "num": 746720,
       "word": "我国再次成功发射一箭五星",
       "onboard_time": 1692001297,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139411,
+      "num": 139411,
+      "word": "这个人会魔法",
+      "onboard_time": 1692014855,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 135299,
