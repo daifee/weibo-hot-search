@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692037217479,
+  "endTime": 1692038047850,
   "band_list": [
     {
       "raw_hot": 2948368,
@@ -3139,8 +3139,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44093,
-      "num": 44093,
+      "raw_hot": 51287,
+      "num": 41375,
+      "word": "邓为对角色的把握",
+      "onboard_time": 1692034819,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 44360,
+      "num": 44360,
       "word": "韩红结束义诊众人列队送别",
       "onboard_time": 1692036496,
       "rank": 44,
@@ -3153,6 +3161,14 @@
       "onboard_time": 1692036439,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 31904,
+      "num": 40765,
+      "word": "切尔西1比1利物浦",
+      "onboard_time": 1692037996,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 27987,
