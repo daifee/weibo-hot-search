@@ -1,0 +1,410 @@
+{
+  "runTime": 1692004591746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 956112,
+        "num": 956112,
+        "word": "癌症在我国已经熬成慢性病",
+        "onboard_time": 1692003336,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947122,
+        "num": 947122,
+        "word": "冯绍峰的女主运",
+        "onboard_time": 1691996435,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99374,
+        "num": 829070,
+        "word": "子弟兵高温下抢通道路清除淤泥",
+        "onboard_time": 1692001477,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803752,
+        "num": 803752,
+        "word": "叶童回应白发显老",
+        "onboard_time": 1692002075,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776451,
+        "num": 776451,
+        "word": "中国警察让孤注一掷导演不要害怕",
+        "onboard_time": 1691993195,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 676525,
+        "num": 676525,
+        "word": "刘涛一次性发了36张图",
+        "onboard_time": 1692004118,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577667,
+        "num": 577667,
+        "word": "什么是开水房",
+        "onboard_time": 1691992293,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 557212,
+        "num": 557212,
+        "word": "当你被缅甸语专业录取",
+        "onboard_time": 1691986241,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 555561,
+        "num": 555561,
+        "word": "游客称在黄山拍到神秘黄色动物",
+        "onboard_time": 1691994634,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268976,
+        "num": 553004,
+        "word": "医药反腐",
+        "onboard_time": 1691999499,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1756900,
+        "num": 535955,
+        "word": "年轻人选择放弃社保的理由",
+        "onboard_time": 1692000638,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277819,
+        "num": 532342,
+        "word": "情妇成立公司揽医院工程",
+        "onboard_time": 1691996914,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952381,
+        "num": 517391,
+        "word": "小沈阳晒女儿与薛之谦合照",
+        "onboard_time": 1692002858,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 565238,
+        "num": 507598,
+        "word": "中方强烈谴责恐怖主义行径",
+        "onboard_time": 1692002134,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 140590,
+        "num": 496387,
+        "word": "我国再次成功发射一箭五星",
+        "onboard_time": 1692001297,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741637,
+        "num": 481766,
+        "word": "吴世勋是要来进货吗",
+        "onboard_time": 1691996973,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 597434,
+        "num": 477940,
+        "word": "边伯贤 青岛胶东机场",
+        "onboard_time": 1691998714,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470002,
+        "num": 470002,
+        "word": "马立奥爸爸当家面试视频",
+        "onboard_time": 1692002498,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443010,
+        "num": 443010,
+        "word": "有医院院长收受100套房",
+        "onboard_time": 1691981436,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421006,
+        "num": 421006,
+        "word": "经纪人王力威退股肖战工作室",
+        "onboard_time": 1691997396,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405418,
+        "num": 405418,
+        "word": "以后简历上有的写了",
+        "onboard_time": 1691997396,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367271,
+        "num": 367271,
+        "word": "为什么大家都不背精致包包了",
+        "onboard_time": 1691995653,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365428,
+        "num": 365428,
+        "word": "贾玲的过客又多了一个",
+        "onboard_time": 1692003336,
+        "rank": 22,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 339802,
+        "num": 339802,
+        "word": "莲花楼要散架了",
+        "onboard_time": 1691996855,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321625,
+        "num": 321625,
+        "word": "女生微缩2厘米八宝饭粒粒可见",
+        "onboard_time": 1691984737,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324271,
+        "num": 314169,
+        "word": "EXO来见中国爱丽了",
+        "onboard_time": 1691988762,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303583,
+        "num": 303583,
+        "word": "杨紫凑齐三大类型的爆剧",
+        "onboard_time": 1692000216,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294696,
+        "num": 294696,
+        "word": "马立奥邀请肖杰况盛一起亲一个",
+        "onboard_time": 1692003515,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276389,
+        "num": 276389,
+        "word": "当了四年老师上岸公务员的感受",
+        "onboard_time": 1691997157,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 272703,
+        "num": 272703,
+        "word": "亚运会",
+        "onboard_time": 1692002498,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279443,
+        "num": 272483,
+        "word": "长相思第二季",
+        "onboard_time": 1691979512,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271314,
+        "num": 271314,
+        "word": "朱一龙消失的她最新片场照",
+        "onboard_time": 1692000454,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267122,
+        "num": 267122,
+        "word": "大姐卖10元盒饭35个菜随便吃",
+        "onboard_time": 1692003936,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252642,
+        "num": 252642,
+        "word": "今晚夭璟批璟不发音",
+        "onboard_time": 1691996136,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224756,
+        "num": 224756,
+        "word": "内马尔或本周上演沙特首秀",
+        "onboard_time": 1692000156,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249114,
+        "num": 219342,
+        "word": "张艺兴前往医院就诊",
+        "onboard_time": 1691984917,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241173,
+        "num": 219075,
+        "word": "长相思全员晒重逢请帖",
+        "onboard_time": 1691985940,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212700,
+        "num": 212700,
+        "word": "i人和e人的背包区别在哪里",
+        "onboard_time": 1691998116,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205681,
+        "num": 205681,
+        "word": "网传山东多名男子被一女子砍伤",
+        "onboard_time": 1691992534,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197369,
+        "num": 197369,
+        "word": "为什么钱叫米",
+        "onboard_time": 1691994994,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235714,
+        "num": 193235,
+        "word": "大张伟演唱会歌单",
+        "onboard_time": 1692004238,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232264,
+        "num": 190989,
+        "word": "此沙凹了很久拍了三张",
+        "onboard_time": 1691998177,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187403,
+        "num": 187403,
+        "word": "OST红白喜事组合",
+        "onboard_time": 1692002075,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193130,
+        "num": 186682,
+        "word": "封神剧组 一群人同行的青春",
+        "onboard_time": 1691999499,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185637,
+        "num": 185637,
+        "word": "雷军称努力不是万能的",
+        "onboard_time": 1692003037,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172325,
+        "num": 172325,
+        "word": "王源出发长沙路透",
+        "onboard_time": 1692000638,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153167,
+        "num": 153167,
+        "word": "中国电信无故多扣费",
+        "onboard_time": 1691998897,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135705,
+        "num": 152172,
+        "word": "谁懂那种朋友回礼很便宜的感觉",
+        "onboard_time": 1691997996,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 122505,
+        "num": 151981,
+        "word": "高一男生花光39万积蓄打赏主播",
+        "onboard_time": 1692004418,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82056,
+        "num": 151972,
+        "word": "现在是钎城时间",
+        "onboard_time": 1691998235,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
