@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1691978505221,
+  "endTime": 1691979640055,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -3483,6 +3483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1315656,
+      "num": 566570,
+      "word": "EXO青岛",
+      "onboard_time": 1691977292,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1313516,
       "num": 1313516,
       "word": "相柳小夭37年原著描写",
@@ -4923,6 +4931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1075748,
+      "num": 1075748,
+      "word": "医生称极少贪腐代表不了辛苦的群体",
+      "onboard_time": 1691976514,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1075109,
       "num": 590186,
       "word": "王俊凯西安出发路透",
@@ -5225,14 +5241,6 @@
       "onboard_time": 1691208576,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1024148,
-      "num": 566570,
-      "word": "EXO青岛",
-      "onboard_time": 1691977292,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 1023525,
@@ -5699,6 +5707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 966035,
+      "num": 966035,
+      "word": "A股",
+      "onboard_time": 1691119597,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 964965,
       "num": 832459,
       "word": "当中年领导用上了Air Pods",
@@ -5721,14 +5737,6 @@
       "onboard_time": 1691451509,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 959212,
-      "num": 959212,
-      "word": "A股",
-      "onboard_time": 1691119597,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 958552,
@@ -6915,6 +6923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 852252,
+      "num": 558883,
+      "word": "邓为微博粉丝破四百万",
+      "onboard_time": 1691975676,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 850570,
       "num": 850570,
       "word": "邓为从脖子红到耳朵",
@@ -7891,14 +7907,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 772901,
-      "num": 772901,
-      "word": "医生称极少贪腐代表不了辛苦的群体",
-      "onboard_time": 1691976514,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 772197,
       "num": 772197,
       "word": "感谢老天送我一个情绪稳定的女儿",
@@ -8105,14 +8113,6 @@
       "onboard_time": 1691506120,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 757805,
-      "num": 558883,
-      "word": "邓为微博粉丝破四百万",
-      "onboard_time": 1691975676,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 757676,
@@ -10019,6 +10019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 645244,
+      "num": 645244,
+      "word": "小夭 灭霸",
+      "onboard_time": 1691975735,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 644634,
       "num": 644634,
       "word": "毒贩一月连搬三次家被堵在电梯",
@@ -11233,14 +11241,6 @@
       "onboard_time": 1691032781,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 589206,
-      "num": 589206,
-      "word": "小夭 灭霸",
-      "onboard_time": 1691975735,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 588690,
@@ -19979,6 +19979,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 329078,
+      "num": 329078,
+      "word": "周一美式",
+      "onboard_time": 1691977473,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 329058,
       "num": 329058,
       "word": "薛之谦演唱会",
@@ -23299,6 +23307,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 269238,
+      "num": 269238,
+      "word": "薛之谦说在我回来之前见字如面",
+      "onboard_time": 1691976755,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 269156,
       "num": 269156,
       "word": "相柳",
@@ -24035,14 +24051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 257482,
-      "num": 257482,
-      "word": "薛之谦说在我回来之前见字如面",
-      "onboard_time": 1691976755,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 257423,
       "num": 191742,
       "word": "张杰深圳演唱长相思主题曲",
@@ -24577,6 +24585,14 @@
       "onboard_time": 1690956455,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247782,
+      "num": 247782,
+      "word": "莲花楼原作者也在嗑一家三口吗",
+      "onboard_time": 1691977234,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 247405,
@@ -26603,14 +26619,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 219973,
-      "num": 210644,
-      "word": "莲花楼原作者也在嗑一家三口吗",
-      "onboard_time": 1691977234,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219927,
       "num": 219927,
       "word": "摊贩称被威胁不删视频影响孩子考公",
@@ -26952,6 +26960,14 @@
       "word": "官方回应老年人早晚高峰乘地铁不免费",
       "onboard_time": 1691970270,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216138,
+      "num": 537666,
+      "word": "19岁战士说听百姓说辛苦了就是动力",
+      "onboard_time": 1691977953,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -29003,14 +29019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197906,
-      "num": 197906,
-      "word": "周一美式",
-      "onboard_time": 1691977473,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 197875,
       "num": 201717,
       "word": "爱合 别侮辱我的Lisa",
@@ -29161,6 +29169,14 @@
       "onboard_time": 1691060194,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196888,
+      "num": 196888,
+      "word": "丁禹兮演的中悲大悲超大悲",
+      "onboard_time": 1691979272,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 196802,
@@ -29755,6 +29771,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 192315,
+      "num": 192315,
+      "word": "长相思第二季",
+      "onboard_time": 1691979512,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192314,
       "num": 205721,
       "word": "2023截至目前TikTok人气最高男团歌曲",
@@ -29905,14 +29929,6 @@
       "onboard_time": 1691907695,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191391,
-      "num": 537666,
-      "word": "19岁战士说听百姓说辛苦了就是动力",
-      "onboard_time": 1691977953,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191322,
@@ -30321,6 +30337,14 @@
       "onboard_time": 1691808940,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187905,
+      "num": 173731,
+      "word": "米卡唱的always",
+      "onboard_time": 1691979512,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 187891,
@@ -32209,6 +32233,14 @@
       "onboard_time": 1691763879,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150925,
+      "num": 150925,
+      "word": "被问还有其他offer吗要怎么回答",
+      "onboard_time": 1691978613,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 150733,

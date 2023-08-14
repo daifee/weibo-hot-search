@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1691978505221,
+  "endTime": 1691979640055,
   "band_list": [
     {
       "raw_hot": 1931060,
@@ -51,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1315656,
+      "num": 566570,
+      "word": "EXO青岛",
+      "onboard_time": 1691977292,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1227037,
       "num": 358865,
       "word": "雷佳音老婆晒与女儿合照",
@@ -75,12 +83,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1024148,
-      "num": 566570,
-      "word": "EXO青岛",
-      "onboard_time": 1691977292,
-      "rank": 11,
-      "category": "音乐"
+      "raw_hot": 1075748,
+      "num": 1075748,
+      "word": "医生称极少贪腐代表不了辛苦的群体",
+      "onboard_time": 1691976514,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 966035,
+      "num": 966035,
+      "word": "A股",
+      "onboard_time": 1691977594,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 901842,
@@ -99,36 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 852252,
+      "num": 558883,
+      "word": "邓为微博粉丝破四百万",
+      "onboard_time": 1691975676,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 817293,
       "num": 817293,
       "word": "为什么商场的一楼没有卫生间",
       "onboard_time": 1691968945,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 785001,
-      "num": 785001,
-      "word": "A股",
-      "onboard_time": 1691977594,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 772901,
-      "num": 772901,
-      "word": "医生称极少贪腐代表不了辛苦的群体",
-      "onboard_time": 1691976514,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757805,
-      "num": 558883,
-      "word": "邓为微博粉丝破四百万",
-      "onboard_time": 1691975676,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 746931,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645244,
+      "num": 645244,
+      "word": "小夭 灭霸",
+      "onboard_time": 1691975735,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 631268,
       "num": 631268,
       "word": "周琦",
@@ -201,14 +209,6 @@
       "onboard_time": 1691939499,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 589206,
-      "num": 589206,
-      "word": "小夭 灭霸",
-      "onboard_time": 1691975735,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 585751,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329078,
+      "num": 329078,
+      "word": "周一美式",
+      "onboard_time": 1691977473,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 328092,
       "num": 328092,
       "word": "热烈",
@@ -507,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269238,
+      "num": 269238,
+      "word": "薛之谦说在我回来之前见字如面",
+      "onboard_time": 1691976755,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 268262,
       "num": 268262,
       "word": "国内很多城市都在国外火了",
@@ -547,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257482,
-      "num": 257482,
-      "word": "薛之谦说在我回来之前见字如面",
-      "onboard_time": 1691976755,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 254197,
       "num": 254197,
       "word": "给宠物看爪相",
@@ -569,6 +577,14 @@
       "onboard_time": 1691918615,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247782,
+      "num": 247782,
+      "word": "莲花楼原作者也在嗑一家三口吗",
+      "onboard_time": 1691977234,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 244889,
@@ -627,14 +643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219973,
-      "num": 210644,
-      "word": "莲花楼原作者也在嗑一家三口吗",
-      "onboard_time": 1691977234,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 218871,
       "num": 218871,
       "word": "江苏盐城龙卷风2死15伤",
@@ -648,6 +656,14 @@
       "word": "官方回应老年人早晚高峰乘地铁不免费",
       "onboard_time": 1691970270,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216138,
+      "num": 537666,
+      "word": "19岁战士说听百姓说辛苦了就是动力",
+      "onboard_time": 1691977953,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -691,20 +707,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197906,
-      "num": 197906,
-      "word": "周一美式",
-      "onboard_time": 1691977473,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 196888,
+      "num": 196888,
+      "word": "丁禹兮演的中悲大悲超大悲",
+      "onboard_time": 1691979272,
+      "rank": 35,
+      "category": "影视"
     },
     {
-      "raw_hot": 191391,
-      "num": 537666,
-      "word": "19岁战士说听百姓说辛苦了就是动力",
-      "onboard_time": 1691977953,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 192315,
+      "num": 192315,
+      "word": "长相思第二季",
+      "onboard_time": 1691979512,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 190437,
@@ -729,6 +745,14 @@
       "onboard_time": 1691975615,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187905,
+      "num": 173731,
+      "word": "米卡唱的always",
+      "onboard_time": 1691979512,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 186404,
@@ -849,6 +873,14 @@
       "onboard_time": 1691926656,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150925,
+      "num": 150925,
+      "word": "被问还有其他offer吗要怎么回答",
+      "onboard_time": 1691978613,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 146549,
