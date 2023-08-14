@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692052425945,
+  "endTime": 1692054946125,
   "band_list": [
     {
       "raw_hot": 1878349,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 776503,
+      "raw_hot": 790957,
       "num": 776503,
       "word": "亲眼目睹父亲当街杀母亲女孩发声",
       "onboard_time": 1692018880,
@@ -67,8 +67,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 582209,
-      "num": 582209,
+      "raw_hot": 604352,
+      "num": 604352,
       "word": "杭州女白领被骗回家当厂妹火了",
       "onboard_time": 1692022420,
       "rank": 7,
@@ -89,6 +89,14 @@
       "onboard_time": 1692014974,
       "rank": 9,
       "category": "幽默,音乐"
+    },
+    {
+      "raw_hot": 476164,
+      "num": 476164,
+      "word": "王传君 这届的观众真难带",
+      "onboard_time": 1692046094,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 454700,
@@ -123,6 +131,14 @@
       "category": "美食,旅游"
     },
     {
+      "raw_hot": 396565,
+      "num": 396565,
+      "word": "入境旅客因照片像别人找到失散双胞胎兄弟",
+      "onboard_time": 1692047172,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385547,
       "num": 385547,
       "word": "EXO青岛签售会生图",
@@ -145,6 +161,14 @@
       "onboard_time": 1692021642,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296927,
+      "num": 249123,
+      "word": "癌症在我国已经熬成慢性病",
+      "onboard_time": 1692003336,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293085,
@@ -195,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249123,
-      "num": 249123,
-      "word": "癌症在我国已经熬成慢性病",
-      "onboard_time": 1692003336,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244966,
       "num": 244966,
       "word": "爸爸当家2收官长文",
@@ -217,14 +233,6 @@
       "onboard_time": 1692024759,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235095,
-      "num": 83390,
-      "word": "王传君 这届的观众真难带",
-      "onboard_time": 1692046094,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 219492,
@@ -259,20 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207778,
+      "num": 207778,
+      "word": "日本战败投降78周年",
+      "onboard_time": 1692054622,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198566,
       "num": 198566,
       "word": "互联网女儿况三喜",
       "onboard_time": 1692019838,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186889,
-      "num": 81646,
-      "word": "入境旅客因照片像别人找到失散双胞胎兄弟",
-      "onboard_time": 1692047172,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183885,
@@ -305,6 +313,22 @@
       "onboard_time": 1692026020,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178159,
+      "num": 145612,
+      "word": "癌症的早期信号与预防",
+      "onboard_time": 1692041295,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171312,
+      "num": 171312,
+      "word": "韩红结束义诊众人列队送别",
+      "onboard_time": 1692036496,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 169419,
@@ -347,12 +371,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 146624,
+      "num": 159190,
+      "word": "大熊猫思嘉对公主床爱不释手",
+      "onboard_time": 1692033921,
+      "rank": 14,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 146007,
       "num": 146007,
       "word": "早C晚A",
       "onboard_time": 1692018760,
       "rank": 40,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 144783,
+      "num": 144783,
+      "word": "48岁大姐成功应聘月薪3万麻将主播",
+      "onboard_time": 1692012454,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144337,
@@ -395,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129273,
-      "num": 129273,
-      "word": "48岁大姐成功应聘月薪3万麻将主播",
-      "onboard_time": 1692012454,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126613,
       "num": 126613,
       "word": "中国警察让孤注一掷导演不要害怕",
@@ -443,20 +475,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117378,
+      "num": 117378,
+      "word": "萌兰闷头干饭无视妹妹疯狂敲窗",
+      "onboard_time": 1692047354,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117112,
       "num": 117112,
       "word": "刘敏涛被王一博送的炖牛肉打动",
       "onboard_time": 1692011554,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 114022,
-      "num": 61817,
-      "word": "癌症的早期信号与预防",
-      "onboard_time": 1692041295,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113089,
@@ -467,6 +499,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108116,
+      "num": 108116,
+      "word": "弟弟被拐41年后和哥哥手牵手回家",
+      "onboard_time": 1692054081,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103994,
+      "num": 99964,
+      "word": "男子花150美元买狗结果是巴西老鼠",
+      "onboard_time": 1692054444,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 94808,
+      "num": 94808,
+      "word": "日本投降签字仪式结束于9时18分",
+      "onboard_time": 1692054804,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94085,
+      "num": 94085,
+      "word": "SEVENTEEN拍摄HPV疫苗广告",
+      "onboard_time": 1692042553,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91799,
       "num": 91799,
       "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
@@ -475,20 +539,28 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 87784,
-      "num": 159190,
-      "word": "大熊猫思嘉对公主床爱不释手",
-      "onboard_time": 1692033921,
-      "rank": 14,
-      "category": "社会新闻,情感"
+      "raw_hot": 82228,
+      "num": 82228,
+      "word": "偶遇张颂文考科三",
+      "onboard_time": 1692054622,
+      "rank": 38,
+      "category": "艺人"
     },
     {
-      "raw_hot": 62051,
-      "num": 62051,
-      "word": "韩红结束义诊众人列队送别",
-      "onboard_time": 1692036496,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 71413,
+      "num": 71413,
+      "word": "带癌生存五年的概率提高至40.5%",
+      "onboard_time": 1692041295,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65049,
+      "num": 65049,
+      "word": "小夭用三次吻诠释有多爱涂山璟",
+      "onboard_time": 1692054926,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 51287,
@@ -497,14 +569,6 @@
       "onboard_time": 1692034819,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 43308,
-      "num": 43308,
-      "word": "SEVENTEEN拍摄HPV疫苗广告",
-      "onboard_time": 1692042553,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 42696,
@@ -521,14 +585,6 @@
       "onboard_time": 1692036439,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 34782,
-      "num": 34782,
-      "word": "带癌生存五年的概率提高至40.5%",
-      "onboard_time": 1692041295,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32526,
@@ -563,11 +619,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23506,
-      "num": 31835,
-      "word": "萌兰闷头干饭无视妹妹疯狂敲窗",
-      "onboard_time": 1692047354,
-      "rank": 49,
+      "raw_hot": 27121,
+      "num": 487280,
+      "word": "子弟兵在抗洪一线",
+      "onboard_time": 1692019180,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -577,14 +633,6 @@
       "onboard_time": 1692041714,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15073,
-      "num": 347875,
-      "word": "子弟兵在抗洪一线",
-      "onboard_time": 1692019180,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12446,

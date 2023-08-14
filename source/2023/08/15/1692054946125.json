@@ -1,0 +1,410 @@
+{
+  "runTime": 1692054946125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 853234,
+        "num": 853234,
+        "word": "涂山璟和小夭分手 真哭了",
+        "onboard_time": 1692026257,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604352,
+        "num": 604352,
+        "word": "杭州女白领被骗回家当厂妹火了",
+        "onboard_time": 1692022420,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27121,
+        "num": 487280,
+        "word": "子弟兵在抗洪一线",
+        "onboard_time": 1692019180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476164,
+        "num": 476164,
+        "word": "王传君 这届的观众真难带",
+        "onboard_time": 1692046094,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467683,
+        "num": 467683,
+        "word": "卫星地图看缅甸KK园区",
+        "onboard_time": 1692024941,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423255,
+        "num": 423255,
+        "word": "这样的豆浆千万别再喝了",
+        "onboard_time": 1692027455,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396565,
+        "num": 396565,
+        "word": "入境旅客因照片像别人找到失散双胞胎兄弟",
+        "onboard_time": 1692047172,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301500,
+        "num": 301500,
+        "word": "立秋后一定要补气血",
+        "onboard_time": 1692022539,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261469,
+        "num": 261469,
+        "word": "涂山璟再度解锁四爱play",
+        "onboard_time": 1692030211,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243629,
+        "num": 243629,
+        "word": "3人偷渡到缅甸搞诈骗却因文化低被拒收",
+        "onboard_time": 1692016775,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383155,
+        "num": 242274,
+        "word": "小红书",
+        "onboard_time": 1692025539,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 296927,
+        "num": 240945,
+        "word": "癌症在我国已经熬成慢性病",
+        "onboard_time": 1692003336,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230867,
+        "num": 230867,
+        "word": "长相思结局",
+        "onboard_time": 1692010656,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207778,
+        "num": 207778,
+        "word": "日本战败投降78周年",
+        "onboard_time": 1692054622,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188392,
+        "num": 188392,
+        "word": "18岁的施瓦辛格和同龄同学",
+        "onboard_time": 1692024881,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171312,
+        "num": 171312,
+        "word": "韩红结束义诊众人列队送别",
+        "onboard_time": 1692036496,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168373,
+        "num": 168373,
+        "word": "TVB自古不产傻白甜",
+        "onboard_time": 1692018760,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158037,
+        "num": 158037,
+        "word": "相柳 将军帐",
+        "onboard_time": 1692026679,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151594,
+        "num": 151594,
+        "word": "港媒曝周润发不听医嘱继续跑步",
+        "onboard_time": 1692013356,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146624,
+        "num": 146624,
+        "word": "大熊猫思嘉对公主床爱不释手",
+        "onboard_time": 1692033921,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 790957,
+        "num": 145745,
+        "word": "亲眼目睹父亲当街杀母亲女孩发声",
+        "onboard_time": 1692018880,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178159,
+        "num": 145612,
+        "word": "癌症的早期信号与预防",
+        "onboard_time": 1692041295,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144783,
+        "num": 144783,
+        "word": "48岁大姐成功应聘月薪3万麻将主播",
+        "onboard_time": 1692012454,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132898,
+        "num": 132898,
+        "word": "千万别因为这话在那感动半天",
+        "onboard_time": 1692015335,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 123978,
+        "num": 123978,
+        "word": "女子记录打无痛分娩针过程给老公看",
+        "onboard_time": 1692026020,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117378,
+        "num": 117378,
+        "word": "萌兰闷头干饭无视妹妹疯狂敲窗",
+        "onboard_time": 1692047354,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111220,
+        "num": 111220,
+        "word": "真的不要轻易卖掉小孩的宠物",
+        "onboard_time": 1692017019,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108116,
+        "num": 108116,
+        "word": "弟弟被拐41年后和哥哥手牵手回家",
+        "onboard_time": 1692054081,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104148,
+        "num": 104148,
+        "word": "无痛背书法",
+        "onboard_time": 1692029671,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101021,
+        "num": 101021,
+        "word": "盗月社内蒙吃肉 有人却差点饿死",
+        "onboard_time": 1692026378,
+        "rank": 29,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 103994,
+        "num": 99964,
+        "word": "男子花150美元买狗结果是巴西老鼠",
+        "onboard_time": 1692054444,
+        "rank": 30,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 98388,
+        "num": 98388,
+        "word": "早C晚A",
+        "onboard_time": 1692018760,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 97619,
+        "num": 97619,
+        "word": "内娱cp感强的演员",
+        "onboard_time": 1692031407,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94808,
+        "num": 94808,
+        "word": "日本投降签字仪式结束于9时18分",
+        "onboard_time": 1692054804,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94085,
+        "num": 94085,
+        "word": "SEVENTEEN拍摄HPV疫苗广告",
+        "onboard_time": 1692042553,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91129,
+        "num": 91129,
+        "word": "EXO青岛签售会生图",
+        "onboard_time": 1692022721,
+        "rank": 35,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 88781,
+        "num": 88781,
+        "word": "新疆好像没有预制菜",
+        "onboard_time": 1692021881,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86280,
+        "num": 86280,
+        "word": "时代少年团 巴黎卡诗",
+        "onboard_time": 1692029373,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 82228,
+        "num": 82228,
+        "word": "偶遇张颂文考科三",
+        "onboard_time": 1692054622,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81592,
+        "num": 81592,
+        "word": "刘宪华的点评是节目最大亮点",
+        "onboard_time": 1692010897,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78954,
+        "num": 78954,
+        "word": "相柳成全小夭涂山璟",
+        "onboard_time": 1692022661,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77666,
+        "num": 77666,
+        "word": "檀健次从倒数第一到全国第一",
+        "onboard_time": 1692007718,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77034,
+        "num": 77034,
+        "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
+        "onboard_time": 1692040395,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 72935,
+        "num": 72935,
+        "word": "他现在甚至都懒得张口了",
+        "onboard_time": 1692014974,
+        "rank": 43,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 71413,
+        "num": 71413,
+        "word": "带癌生存五年的概率提高至40.5%",
+        "onboard_time": 1692041295,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71246,
+        "num": 71246,
+        "word": "李兰迪被学士帽砸破头",
+        "onboard_time": 1692021398,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70840,
+        "num": 70840,
+        "word": "电影前任4英年早婚",
+        "onboard_time": 1692025717,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65134,
+        "num": 65134,
+        "word": "四美颜选",
+        "onboard_time": 1692025119,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65049,
+        "num": 65049,
+        "word": "小夭用三次吻诠释有多爱涂山璟",
+        "onboard_time": 1692054926,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63410,
+        "num": 63410,
+        "word": "孙红雷评价张艺兴已成一方霸主",
+        "onboard_time": 1692016358,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#让湿地公园成为人民群众共享的绿色空间#"
+    }
+  }
+}
