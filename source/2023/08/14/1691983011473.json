@@ -1,0 +1,410 @@
+{
+  "runTime": 1691983011473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1535224,
+        "num": 1535224,
+        "word": "长相思第二季",
+        "onboard_time": 1691979512,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1500375,
+        "num": 1500375,
+        "word": "仅4%受访年轻人几乎不熬夜",
+        "onboard_time": 1691980892,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28889,
+        "num": 1378290,
+        "word": "巧妙散热让博物馆的热度细水长流",
+        "onboard_time": 1691934401,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356539,
+        "num": 1356539,
+        "word": "前任4定档",
+        "onboard_time": 1691979813,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1327534,
+        "num": 1327534,
+        "word": "医生称极少贪腐代表不了辛苦的群体",
+        "onboard_time": 1691976514,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827721,
+        "num": 827721,
+        "word": "A股",
+        "onboard_time": 1691977594,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 804931,
+        "num": 804931,
+        "word": "加拿大山火已烧了几个月",
+        "onboard_time": 1691971774,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802221,
+        "num": 802221,
+        "word": "张学友演唱会因耳水不平衡跌倒",
+        "onboard_time": 1691971414,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 715262,
+        "num": 715262,
+        "word": "薛之谦唱了3天念谦友哭了3天",
+        "onboard_time": 1691981311,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 569143,
+        "num": 569143,
+        "word": "小夭妈妈为夭柳抗大旗",
+        "onboard_time": 1691981915,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1339682,
+        "num": 568765,
+        "word": "kimi侧脸",
+        "onboard_time": 1691974417,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 967600,
+        "num": 567264,
+        "word": "EXO青岛",
+        "onboard_time": 1691977292,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 565333,
+        "num": 565333,
+        "word": "下颌线与下颚线的区别",
+        "onboard_time": 1691982335,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415063,
+        "num": 559028,
+        "word": "网攻武汉地震监测中心黑手锁定",
+        "onboard_time": 1691981733,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42411,
+        "num": 558117,
+        "word": "TheShy出题",
+        "onboard_time": 1691982035,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 558055,
+        "num": 558055,
+        "word": "张碧晨也去看了张艺兴演唱会",
+        "onboard_time": 1691982094,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 547793,
+        "num": 547793,
+        "word": "有医院院长收受100套房",
+        "onboard_time": 1691981436,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495373,
+        "num": 495373,
+        "word": "熬夜熬的是甲状腺寿命",
+        "onboard_time": 1691938060,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482078,
+        "num": 482078,
+        "word": "中秋国庆可拼17天长假",
+        "onboard_time": 1691975076,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475412,
+        "num": 475412,
+        "word": "特斯拉降价",
+        "onboard_time": 1691973096,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 512069,
+        "num": 453906,
+        "word": "肝好不好看眼睛就知道了",
+        "onboard_time": 1691968646,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392058,
+        "num": 392058,
+        "word": "雷佳音老婆晒与女儿合照",
+        "onboard_time": 1691970931,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384457,
+        "num": 384457,
+        "word": "涂山璟角色号一直没有关注相柳",
+        "onboard_time": 1691981311,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355319,
+        "num": 355319,
+        "word": "为什么电影院的最佳位置没人选",
+        "onboard_time": 1691982454,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335375,
+        "num": 335375,
+        "word": "张天爱官宣前任4",
+        "onboard_time": 1691982572,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329146,
+        "num": 329146,
+        "word": "邓为微博粉丝破四百万",
+        "onboard_time": 1691975676,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321798,
+        "num": 321798,
+        "word": "为什么商场的一楼没有卫生间",
+        "onboard_time": 1691968945,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321448,
+        "num": 321448,
+        "word": "医生薪酬改革艰难推进",
+        "onboard_time": 1691981795,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310832,
+        "num": 310832,
+        "word": "小夭 灭霸",
+        "onboard_time": 1691975735,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280002,
+        "num": 280002,
+        "word": "游客手拉手下海搜寻走失女孩",
+        "onboard_time": 1691980053,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279168,
+        "num": 279168,
+        "word": "乌尔善说杨玏身上有古风",
+        "onboard_time": 1691980649,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271026,
+        "num": 271026,
+        "word": "BLACKPINK疑似又有人划水",
+        "onboard_time": 1691940400,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265663,
+        "num": 265663,
+        "word": "董宇辉的读书顺序",
+        "onboard_time": 1691982454,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263705,
+        "num": 263705,
+        "word": "央媒呼吁让医疗回归治病救人初心",
+        "onboard_time": 1691980354,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254374,
+        "num": 254374,
+        "word": "封神",
+        "onboard_time": 1691981495,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249418,
+        "num": 249418,
+        "word": "内马尔 沙特",
+        "onboard_time": 1691982514,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247387,
+        "num": 247387,
+        "word": "莲花楼原作者也在嗑一家三口吗",
+        "onboard_time": 1691977234,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235522,
+        "num": 235522,
+        "word": "周一美式",
+        "onboard_time": 1691977473,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227250,
+        "num": 227250,
+        "word": "刘雅瑟前任4相亲人设是陶白白吧",
+        "onboard_time": 1691982636,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219741,
+        "num": 219741,
+        "word": "她的讲述字字血泪她们还在等待道歉",
+        "onboard_time": 1691981311,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218055,
+        "num": 218055,
+        "word": "赵樱子马甲线",
+        "onboard_time": 1691975676,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215970,
+        "num": 215970,
+        "word": "熬夜但睡眠充足伤肝吗",
+        "onboard_time": 1691982996,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215414,
+        "num": 215414,
+        "word": "成毅为什么叫傅诗淇",
+        "onboard_time": 1691982996,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213710,
+        "num": 213710,
+        "word": "乌尔善说封神后续有伯邑考戏份",
+        "onboard_time": 1691971473,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206075,
+        "num": 206075,
+        "word": "原来这些都是气血不足的表现",
+        "onboard_time": 1691968945,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198297,
+        "num": 198297,
+        "word": "时尚芭莎拍的钟汉良秦岚",
+        "onboard_time": 1691982698,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177164,
+        "num": 193046,
+        "word": "长沙街头上百把遮阳伞义务上岗",
+        "onboard_time": 1691980473,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190785,
+        "num": 190785,
+        "word": "张新成新剧演的是话痨吧",
+        "onboard_time": 1691982035,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190068,
+        "num": 190068,
+        "word": "假如小夭统一大荒把四个全娶了",
+        "onboard_time": 1691982874,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179490,
+        "num": 179490,
+        "word": "丁禹兮演的中悲大悲超大悲",
+        "onboard_time": 1691979272,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国陆地探测四号01星发射成功#"
+    }
+  }
+}
