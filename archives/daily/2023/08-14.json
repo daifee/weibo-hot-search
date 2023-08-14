@@ -1,7 +1,15 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692009225444,
+  "endTime": 1692011599093,
   "band_list": [
+    {
+      "raw_hot": 2451131,
+      "num": 2451131,
+      "word": "檀健次从倒数第一到全国第一",
+      "onboard_time": 1692007718,
+      "rank": 20,
+      "category": "影视"
+    },
     {
       "raw_hot": 2347880,
       "num": 2347880,
@@ -291,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1005116,
-      "num": 1005116,
-      "word": "檀健次从倒数第一到全国第一",
-      "onboard_time": 1692007718,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 992334,
       "num": 685661,
       "word": "下颌线与下颚线的区别",
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728106,
+      "num": 728106,
+      "word": "张晚意邓为你们不要再吵了",
+      "onboard_time": 1692009877,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 726279,
       "num": 716264,
       "word": "长相思全员晒重逢请帖",
@@ -521,6 +529,14 @@
       "onboard_time": 1691940160,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 686021,
+      "num": 686021,
+      "word": "内马尔加盟利雅得新月",
+      "onboard_time": 1692008856,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 670326,
@@ -571,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 642264,
+      "num": 642264,
+      "word": "上海社保缴费基数下限调整为7310元",
+      "onboard_time": 1692007119,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 639671,
       "num": 639671,
       "word": "小夭妈妈为夭柳抗大旗",
@@ -619,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592954,
+      "num": 592954,
+      "word": "长相思结局",
+      "onboard_time": 1692010656,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591775,
       "num": 591775,
       "word": "魏大勋说不能困在一个角色里",
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 565238,
-      "num": 644807,
+      "num": 651267,
       "word": "中方强烈谴责恐怖主义行径",
       "onboard_time": 1692002134,
       "rank": 13,
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 504827,
-      "num": 787448,
+      "num": 805703,
       "word": "国务院安委会挂牌督办齐齐哈尔体育馆事故",
       "onboard_time": 1692005918,
       "rank": 9,
@@ -747,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 484235,
+      "num": 484235,
+      "word": "你fun的可是straight",
+      "onboard_time": 1692008079,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483803,
       "num": 483803,
       "word": "哈登炮轰莫雷是骗子",
@@ -760,14 +800,6 @@
       "word": "封神剧组 一群人同行的青春",
       "onboard_time": 1691999499,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 477702,
-      "num": 477702,
-      "word": "你fun的可是straight",
-      "onboard_time": 1692008079,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -1003,12 +1035,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 377973,
-      "num": 377973,
-      "word": "上海社保缴费基数下限调整为7310元",
-      "onboard_time": 1692007119,
-      "rank": 23,
-      "category": "社会新闻,财经"
+      "raw_hot": 375137,
+      "num": 375137,
+      "word": "爸妈阴阳人是有一套的",
+      "onboard_time": 1692008016,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 374142,
@@ -1075,6 +1107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 358333,
+      "num": 358333,
+      "word": "刘宪华的点评是节目最大亮点",
+      "onboard_time": 1692010897,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357582,
       "num": 357582,
       "word": "韩国人学会中文气泡音了",
@@ -1107,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348590,
+      "num": 1714518,
+      "word": "爷爷授课18年不收费说有退休工资",
+      "onboard_time": 1692006638,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 346354,
       "num": 346354,
       "word": "刘雅瑟前任4相亲人设是陶白白吧",
@@ -1121,14 +1169,6 @@
       "onboard_time": 1691990256,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 340202,
-      "num": 1632730,
-      "word": "爷爷授课18年不收费说有退休工资",
-      "onboard_time": 1692006638,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 337948,
@@ -1235,6 +1275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314510,
+      "num": 314510,
+      "word": "捞人捞到偷外卖的",
+      "onboard_time": 1692008258,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312087,
       "num": 312087,
       "word": "东伯侯之子fun了straight",
@@ -1283,12 +1331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299056,
+      "num": 295827,
+      "word": "檀健次 相柳有点浪漫",
+      "onboard_time": 1692011195,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298953,
       "num": 298953,
       "word": "中国大妈翻章鱼小丸子手艺震惊日本",
       "onboard_time": 1691930675,
       "rank": 36,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 297884,
+      "num": 297884,
+      "word": "小米MIXFold3",
+      "onboard_time": 1692010236,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 296542,
@@ -1443,14 +1507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273752,
-      "num": 273752,
-      "word": "内马尔加盟利雅得新月",
-      "onboard_time": 1692008856,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271241,
       "num": 271241,
       "word": "六旬大爷叼烟下水救人上岸烟没湿",
@@ -1476,7 +1532,7 @@
     },
     {
       "raw_hot": 268976,
-      "num": 643969,
+      "num": 645080,
       "word": "医药反腐",
       "onboard_time": 1691999499,
       "rank": 47,
@@ -1491,20 +1547,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268062,
+      "num": 268062,
+      "word": "真的不理解现在的雨衣",
+      "onboard_time": 1692008677,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 267962,
       "num": 267962,
       "word": "如果你有个很少谈恋爱的朋友",
       "onboard_time": 1691938122,
       "rank": 26,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 267741,
-      "num": 267741,
-      "word": "爸妈阴阳人是有一套的",
-      "onboard_time": 1692008016,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 265447,
@@ -1593,6 +1649,14 @@
       "onboard_time": 1691983174,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 251880,
+      "num": 251880,
+      "word": "看完封神把水杯换了",
+      "onboard_time": 1692009277,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 250980,
@@ -1779,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217914,
+      "num": 217914,
+      "word": "这就是i人的愤怒吗",
+      "onboard_time": 1692010779,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216164,
       "num": 216164,
       "word": "官方回应老年人早晚高峰乘地铁不免费",
@@ -1803,14 +1875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208645,
-      "num": 208645,
-      "word": "捞人捞到偷外卖的",
-      "onboard_time": 1692008258,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 205918,
       "num": 205918,
       "word": "丁禹兮杨超越住一个小区",
@@ -1833,6 +1897,14 @@
       "onboard_time": 1691973634,
       "rank": 39,
       "category": "体育,体育"
+    },
+    {
+      "raw_hot": 202943,
+      "num": 202943,
+      "word": "原神那维莱特",
+      "onboard_time": 1692010414,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 202818,
@@ -1891,12 +1963,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198381,
-      "num": 198381,
-      "word": "真的不理解现在的雨衣",
-      "onboard_time": 1692008677,
-      "rank": 42,
-      "category": "幽默,情感"
+      "raw_hot": 196433,
+      "num": 196433,
+      "word": "刘敏涛被王一博送的炖牛肉打动",
+      "onboard_time": 1692011554,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194544,
