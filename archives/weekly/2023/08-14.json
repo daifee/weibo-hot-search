@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692044231920,
+  "endTime": 1692045246090,
   "band_list": [
     {
       "raw_hot": 2948368,
@@ -3051,6 +3051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91224,
+      "num": 44670,
+      "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
+      "onboard_time": 1692040395,
+      "rank": 42,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 87784,
       "num": 159190,
       "word": "大熊猫思嘉对公主床爱不释手",
@@ -3115,14 +3123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 72346,
-      "num": 44670,
-      "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
-      "onboard_time": 1692040395,
-      "rank": 42,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 62381,
       "num": 179398,
       "word": "武警战士离别前留下一封封感谢信",
@@ -3179,6 +3179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 32943,
+      "num": 32943,
+      "word": "SEVENTEEN拍摄HPV疫苗广告",
+      "onboard_time": 1692042553,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31904,
       "num": 40765,
       "word": "切尔西1比1利物浦",
@@ -3193,14 +3201,6 @@
       "onboard_time": 1692041354,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29824,
-      "num": 29824,
-      "word": "SEVENTEEN拍摄HPV疫苗广告",
-      "onboard_time": 1692042553,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 27987,

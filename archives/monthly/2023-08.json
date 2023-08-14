@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692044231920,
+  "endTime": 1692045246090,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -36115,6 +36115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91224,
+      "num": 44670,
+      "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
+      "onboard_time": 1692040395,
+      "rank": 42,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 90978,
       "num": 216068,
       "word": "积水中黑龙江消防员片刻不停救援",
@@ -36529,14 +36537,6 @@
       "onboard_time": 1691791397,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 72346,
-      "num": 44670,
-      "word": "去年我国遭遇网络电信诈骗总金额超2万亿",
-      "onboard_time": 1692040395,
-      "rank": 42,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 71953,
@@ -37179,6 +37179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32943,
+      "num": 32943,
+      "word": "SEVENTEEN拍摄HPV疫苗广告",
+      "onboard_time": 1692042553,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32236,
       "num": 44189,
       "word": "I人不要和E人一起旅游",
@@ -37257,14 +37265,6 @@
       "onboard_time": 1691347517,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29824,
-      "num": 29824,
-      "word": "SEVENTEEN拍摄HPV疫苗广告",
-      "onboard_time": 1692042553,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 29771,
