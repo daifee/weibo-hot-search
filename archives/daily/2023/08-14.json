@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692022530213,
+  "endTime": 1692023629734,
   "band_list": [
     {
       "raw_hot": 2948368,
@@ -51,6 +51,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1921118,
+      "num": 1921118,
+      "word": "长相思结局",
+      "onboard_time": 1692010656,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1902994,
       "num": 793024,
       "word": "kimi侧脸",
@@ -89,14 +97,6 @@
       "onboard_time": 1692000638,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1730699,
-      "num": 1730699,
-      "word": "长相思结局",
-      "onboard_time": 1692010656,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 1666509,
@@ -323,20 +323,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1020684,
+      "num": 417778,
+      "word": "亲眼目睹父亲当街杀母亲女孩发声",
+      "onboard_time": 1692018880,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1005681,
       "num": 1005681,
       "word": "EXO来见中国爱丽了",
       "onboard_time": 1691988762,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1001707,
-      "num": 405461,
-      "word": "亲眼目睹父亲当街杀母亲女孩发声",
-      "onboard_time": 1692018880,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 998006,
@@ -353,6 +353,14 @@
       "onboard_time": 1691982335,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 982894,
+      "num": 982894,
+      "word": "涂山璟你否认啊",
+      "onboard_time": 1692021642,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 982169,
@@ -409,6 +417,14 @@
       "onboard_time": 1691968646,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 898466,
+      "num": 898466,
+      "word": "李兰迪被学士帽砸破头",
+      "onboard_time": 1692021398,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 894041,
@@ -523,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 744635,
-      "num": 744635,
-      "word": "李兰迪被学士帽砸破头",
-      "onboard_time": 1692021398,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 737152,
       "num": 737152,
       "word": "为什么钱叫米",
@@ -611,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 696951,
+      "num": 696951,
+      "word": "小米平板",
+      "onboard_time": 1692021642,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 689927,
       "num": 689927,
       "word": "上海社保缴费基数下限调整为7310元",
@@ -659,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 663257,
+      "num": 663257,
+      "word": "互联网女儿况三喜",
+      "onboard_time": 1692019838,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 649333,
       "num": 649333,
       "word": "大姐卖10元盒饭35个菜随便吃",
@@ -697,14 +721,6 @@
       "onboard_time": 1691981915,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 638422,
-      "num": 638422,
-      "word": "互联网女儿况三喜",
-      "onboard_time": 1692019838,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 633250,
@@ -747,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 609988,
+      "num": 609988,
+      "word": "杭州女白领被骗回家当厂妹火了",
+      "onboard_time": 1692022420,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603439,
       "num": 603439,
       "word": "大爷拿500枚1角硬币充值小姐姐12分钟清点完",
@@ -785,6 +809,14 @@
       "onboard_time": 1691993252,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 589089,
+      "num": 410307,
+      "word": "新疆好像没有预制菜",
+      "onboard_time": 1692021881,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 585751,
@@ -859,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 558706,
+      "num": 558706,
+      "word": "EXO青岛签售会生图",
+      "onboard_time": 1692022721,
+      "rank": 13,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 548627,
       "num": 548627,
       "word": "张天爱官宣前任4",
@@ -883,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 536916,
+      "num": 536916,
+      "word": "TVB自古不产傻白甜",
+      "onboard_time": 1692018760,
+      "rank": 49,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 536872,
       "num": 536872,
       "word": "赵樱子马甲线",
@@ -905,14 +953,6 @@
       "onboard_time": 1691991034,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 517121,
-      "num": 472392,
-      "word": "涂山璟你否认啊",
-      "onboard_time": 1692021642,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 512234,
@@ -969,14 +1009,6 @@
       "onboard_time": 1692016358,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 493257,
-      "num": 493257,
-      "word": "小米平板",
-      "onboard_time": 1692021642,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 492905,
@@ -1075,14 +1107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 462972,
-      "num": 462972,
-      "word": "TVB自古不产傻白甜",
-      "onboard_time": 1692018760,
-      "rank": 49,
-      "category": "幽默,影视"
-    },
-    {
       "raw_hot": 461421,
       "num": 429805,
       "word": "三里屯太古里回应北区女生被偷拍",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1691987562,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422493,
+      "num": 422493,
+      "word": "红米K60至尊版",
+      "onboard_time": 1692022059,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 422240,
@@ -1419,14 +1451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 340328,
-      "num": 340328,
-      "word": "红米K60至尊版",
-      "onboard_time": 1692022059,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 337948,
       "num": 337948,
       "word": "张大大和成龙言承旭有同一个女主角",
@@ -1481,14 +1505,6 @@
       "onboard_time": 1691995775,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329679,
-      "num": 329679,
-      "word": "新疆好像没有预制菜",
-      "onboard_time": 1692021881,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 328381,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1692015636,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308410,
+      "num": 325753,
+      "word": "七夕礼物参考",
+      "onboard_time": 1692022002,
+      "rank": 43,
+      "category": "时尚,幽默"
     },
     {
       "raw_hot": 302268,
@@ -2203,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217590,
+      "num": 217590,
+      "word": "杨超越丁禹兮有自己的三生三世",
+      "onboard_time": 1692023204,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216164,
       "num": 216164,
       "word": "官方回应老年人早晚高峰乘地铁不免费",
@@ -2379,14 +2411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192738,
-      "num": 192738,
-      "word": "七夕礼物参考",
-      "onboard_time": 1692022002,
-      "rank": 43,
-      "category": "时尚,幽默"
-    },
-    {
       "raw_hot": 190785,
       "num": 190785,
       "word": "张新成新剧演的是话痨吧",
@@ -2489,14 +2513,6 @@
       "onboard_time": 1691922877,
       "rank": 42,
       "category": "情感,财经"
-    },
-    {
-      "raw_hot": 181702,
-      "num": 181702,
-      "word": "杭州女白领被骗回家当厂妹火了",
-      "onboard_time": 1692022420,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181607,
@@ -2603,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166425,
+      "num": 281235,
+      "word": "警犬找到走失男童获奖小红花",
+      "onboard_time": 1692023442,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166102,
       "num": 166102,
       "word": "逆水寒手游",
@@ -2633,6 +2657,14 @@
       "onboard_time": 1691978613,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161618,
+      "num": 161618,
+      "word": "早退时碰到同样早退的领导",
+      "onboard_time": 1692022963,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 160604,
