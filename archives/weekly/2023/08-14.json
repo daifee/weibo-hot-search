@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692117387456,
+  "endTime": 1692119672031,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -2273,6 +2273,14 @@
       "onboard_time": 1692087039,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 449440,
+      "num": 183036,
+      "word": "纯爱战士永远第一",
+      "onboard_time": 1692116730,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 449059,
@@ -5115,14 +5123,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 172073,
-      "num": 172073,
-      "word": "纯爱战士永远第一",
-      "onboard_time": 1692116730,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 171268,
       "num": 171268,
       "word": "檀健次相柳不卖水产的原因",
@@ -5459,6 +5459,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 118754,
+      "num": 118754,
+      "word": "王鹤棣黄志玮一起打球",
+      "onboard_time": 1692119005,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118569,
       "num": 440512,
       "word": "救援队泡恶臭污水里帮涿州排积水",
@@ -5633,6 +5641,14 @@
       "onboard_time": 1692012698,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 83398,
+      "num": 95003,
+      "word": "周深灼灼风流主题曲",
+      "onboard_time": 1692118108,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 83224,
@@ -5851,7 +5867,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 9020,
+      "raw_hot": 11240,
       "num": 1077619,
       "word": "绿色出游守护祖国大好河山",
       "onboard_time": 1692101804,
