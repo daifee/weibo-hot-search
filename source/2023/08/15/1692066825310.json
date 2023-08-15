@@ -1,0 +1,410 @@
+{
+  "runTime": 1692066825310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1933559,
+        "num": 1933559,
+        "word": "缅甸",
+        "onboard_time": 1692057756,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425148,
+        "num": 1425148,
+        "word": "以为是休息实际在耗气血的行为",
+        "onboard_time": 1692055525,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 34035,
+        "num": 1130947,
+        "word": "子弟兵在抗洪一线",
+        "onboard_time": 1692019180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109845,
+        "num": 1109845,
+        "word": "伊甸园字幕组解散",
+        "onboard_time": 1692064954,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 971543,
+        "num": 971543,
+        "word": "男子接完诈骗电话卡里多出14万",
+        "onboard_time": 1692064174,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665351,
+        "num": 665351,
+        "word": "涂山璟和小夭分手 真哭了",
+        "onboard_time": 1692026257,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601267,
+        "num": 601267,
+        "word": "一个人如果突然关了微信运动",
+        "onboard_time": 1692055886,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 576139,
+        "num": 576139,
+        "word": "王大陆发长文感恩孤注一掷剧组",
+        "onboard_time": 1692062314,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504342,
+        "num": 504342,
+        "word": "女货车司机月入2万在车里住2年",
+        "onboard_time": 1692064174,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379116,
+        "num": 493093,
+        "word": "今天为3500万同胞发一条微博",
+        "onboard_time": 1692062498,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1613512,
+        "num": 492584,
+        "word": "梁田自曝遭性骚扰",
+        "onboard_time": 1692057272,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568792,
+        "num": 491970,
+        "word": "我啥档次啊也配跟你埋一个坟",
+        "onboard_time": 1692055827,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490881,
+        "num": 490881,
+        "word": "玱玹也要哭出个名分来",
+        "onboard_time": 1692065315,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224323,
+        "num": 487354,
+        "word": "日本投降签字仪式结束于9时18分",
+        "onboard_time": 1692054804,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160005,
+        "num": 486517,
+        "word": "夏威夷大火约1300人失踪",
+        "onboard_time": 1692057932,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486443,
+        "num": 486443,
+        "word": "金晨微指破亿",
+        "onboard_time": 1692062735,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428709,
+        "num": 428709,
+        "word": "降息",
+        "onboard_time": 1692065853,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 426002,
+        "num": 426002,
+        "word": "815",
+        "onboard_time": 1692064115,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369031,
+        "num": 369031,
+        "word": "向佐一口气带5个娃过暑假",
+        "onboard_time": 1692063574,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367642,
+        "num": 367642,
+        "word": "长相思全员告别角色",
+        "onboard_time": 1692060576,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634877,
+        "num": 365945,
+        "word": "马来西亚男子性侵两女儿致怀孕被判702年",
+        "onboard_time": 1692059978,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431138,
+        "num": 365347,
+        "word": "质疑紫米理解紫米成为紫米",
+        "onboard_time": 1692064774,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358173,
+        "num": 358173,
+        "word": "亲眼目睹父亲当街杀母亲女孩发声",
+        "onboard_time": 1692018880,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341817,
+        "num": 341817,
+        "word": "为什么很多公司选择15号发工资",
+        "onboard_time": 1692060637,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318081,
+        "num": 318081,
+        "word": "只有i人才懂much为封神做e的伟大",
+        "onboard_time": 1692059256,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291817,
+        "num": 291817,
+        "word": "唐嫣念无双妆造换了",
+        "onboard_time": 1692055225,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284570,
+        "num": 284570,
+        "word": "陈冰薛之谦的新歌脏等了5年",
+        "onboard_time": 1692065616,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281574,
+        "num": 281574,
+        "word": "刘宇宁肖战今日开屏",
+        "onboard_time": 1692063935,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280460,
+        "num": 280460,
+        "word": "弟弟中暑我妈给他做的绿豆汤",
+        "onboard_time": 1692057633,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265523,
+        "num": 265523,
+        "word": "电影院里最令人反感的行为",
+        "onboard_time": 1692063096,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 585107,
+        "num": 264996,
+        "word": "刘楚恬文化课成绩",
+        "onboard_time": 1692061418,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263507,
+        "num": 263507,
+        "word": "黄渤说王一博比雷小米听话",
+        "onboard_time": 1692064537,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262643,
+        "num": 262643,
+        "word": "檀健次安慰粉丝别哭啦乖",
+        "onboard_time": 1692065915,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254584,
+        "num": 254584,
+        "word": "四六级",
+        "onboard_time": 1692066159,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251126,
+        "num": 251126,
+        "word": "如果你问邓为演技舒适区是什么",
+        "onboard_time": 1692065735,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235479,
+        "num": 235479,
+        "word": "无意中摸过什么不该摸的东西",
+        "onboard_time": 1692066333,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230898,
+        "num": 230898,
+        "word": "火车上不认识的四个人一起看电影",
+        "onboard_time": 1692056428,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218237,
+        "num": 218237,
+        "word": "广州人至暗时刻",
+        "onboard_time": 1692060698,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205381,
+        "num": 205381,
+        "word": "志愿军",
+        "onboard_time": 1692066696,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204986,
+        "num": 204986,
+        "word": "王嘉尔真的在上班啊",
+        "onboard_time": 1692056008,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199927,
+        "num": 199927,
+        "word": "婆婆被猫咬取戒指时消防员帮吹气",
+        "onboard_time": 1692059439,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252855,
+        "num": 198255,
+        "word": "长相思相柳封神瞬间",
+        "onboard_time": 1692058715,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195149,
+        "num": 195149,
+        "word": "为什么这么多人喜欢圆形挡脸",
+        "onboard_time": 1692063035,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183144,
+        "num": 183144,
+        "word": "为什么猫容易成为厕所搭子",
+        "onboard_time": 1692061118,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180506,
+        "num": 180506,
+        "word": "青年人城镇调查失业率将暂停发布",
+        "onboard_time": 1692066814,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171696,
+        "num": 171696,
+        "word": "马杨马君妍结婚证",
+        "onboard_time": 1692054742,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171268,
+        "num": 171268,
+        "word": "檀健次相柳不卖水产的原因",
+        "onboard_time": 1692066696,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154244,
+        "num": 154244,
+        "word": "胡锡进 说夏威夷大火是人祸相当够格",
+        "onboard_time": 1692060758,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139431,
+        "num": 153352,
+        "word": "螺蛳粉里放什么菜最好吃",
+        "onboard_time": 1692058777,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124642,
+        "num": 153097,
+        "word": "600元点了12道菜",
+        "onboard_time": 1692059256,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#第一个全国生态日#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692066036057,
+  "endTime": 1692066825310,
   "band_list": [
     {
       "raw_hot": 2657173,
@@ -59,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1109845,
+      "num": 1109845,
+      "word": "伊甸园字幕组解散",
+      "onboard_time": 1692064954,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1073372,
       "num": 475377,
       "word": "小红书",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1060766,
-      "num": 341910,
+      "num": 365945,
       "word": "马来西亚男子性侵两女儿致怀孕被判702年",
       "onboard_time": 1692059978,
       "rank": 20,
@@ -80,6 +88,14 @@
       "word": "这样的豆浆千万别再喝了",
       "onboard_time": 1692027455,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 971543,
+      "num": 971543,
+      "word": "男子接完诈骗电话卡里多出14万",
+      "onboard_time": 1692064174,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -97,14 +113,6 @@
       "onboard_time": 1692062314,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 868164,
-      "num": 868164,
-      "word": "男子接完诈骗电话卡里多出14万",
-      "onboard_time": 1692064174,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 851653,
@@ -171,14 +179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 652000,
-      "num": 652000,
-      "word": "伊甸园字幕组解散",
-      "onboard_time": 1692064954,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 617633,
       "num": 545059,
       "word": "涂山璟再度解锁四爱play",
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 509533,
-      "num": 449062,
+      "num": 486443,
       "word": "金晨微指破亿",
       "onboard_time": 1692062735,
       "rank": 39,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504342,
+      "num": 504342,
+      "word": "女货车司机月入2万在车里住2年",
+      "onboard_time": 1692064174,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494930,
       "num": 494930,
       "word": "他现在甚至都懒得张口了",
@@ -251,12 +259,12 @@
       "category": "幽默,音乐"
     },
     {
-      "raw_hot": 490152,
-      "num": 490152,
-      "word": "女货车司机月入2万在车里住2年",
-      "onboard_time": 1692064174,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 490881,
+      "num": 490881,
+      "word": "玱玹也要哭出个名分来",
+      "onboard_time": 1692065315,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 455154,
@@ -299,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431138,
+      "num": 365347,
+      "word": "质疑紫米理解紫米成为紫米",
+      "onboard_time": 1692064774,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 428709,
+      "num": 428709,
+      "word": "降息",
+      "onboard_time": 1692065853,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 427954,
       "num": 427954,
       "word": "封神 把一切简化为做成一件事",
@@ -313,14 +337,6 @@
       "onboard_time": 1692064115,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416225,
-      "num": 341538,
-      "word": "质疑紫米理解紫米成为紫米",
-      "onboard_time": 1692064774,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 407690,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 376408,
-      "num": 333628,
+      "num": 369031,
       "word": "向佐一口气带5个娃过暑假",
       "onboard_time": 1692063574,
       "rank": 24,
@@ -435,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303849,
-      "num": 303849,
-      "word": "玱玹也要哭出个名分来",
-      "onboard_time": 1692065315,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 303005,
       "num": 303005,
       "word": "偶遇张颂文考科三",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 302270,
-      "num": 276027,
+      "num": 281574,
       "word": "刘宇宁肖战今日开屏",
       "onboard_time": 1692063935,
       "rank": 25,
@@ -497,6 +505,14 @@
       "onboard_time": 1692056248,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284570,
+      "num": 284570,
+      "word": "陈冰薛之谦的新歌脏等了5年",
+      "onboard_time": 1692065616,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 282813,
@@ -563,6 +579,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265523,
+      "num": 265523,
+      "word": "电影院里最令人反感的行为",
+      "onboard_time": 1692063096,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 262643,
+      "num": 262643,
+      "word": "檀健次安慰粉丝别哭啦乖",
+      "onboard_time": 1692065915,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257739,
       "num": 257739,
       "word": "600元点了12道菜",
@@ -587,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254584,
+      "num": 254584,
+      "word": "四六级",
+      "onboard_time": 1692066159,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 252848,
       "num": 252848,
       "word": "港媒曝周润发不听医嘱继续跑步",
@@ -595,20 +635,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251126,
+      "num": 251126,
+      "word": "如果你问邓为演技舒适区是什么",
+      "onboard_time": 1692065735,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250173,
       "num": 250173,
       "word": "为什么猫容易成为厕所搭子",
       "onboard_time": 1692061118,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 248671,
-      "num": 248671,
-      "word": "电影院里最令人反感的行为",
-      "onboard_time": 1692063096,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 244966,
@@ -651,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235479,
+      "num": 235479,
+      "word": "无意中摸过什么不该摸的东西",
+      "onboard_time": 1692066333,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219492,
       "num": 219492,
       "word": "无痛背书法",
@@ -683,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208596,
-      "num": 208596,
-      "word": "陈冰薛之谦的新歌脏等了5年",
-      "onboard_time": 1692065616,
-      "rank": 35,
-      "category": "音乐"
+      "raw_hot": 205381,
+      "num": 205381,
+      "word": "志愿军",
+      "onboard_time": 1692066696,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 203129,
@@ -723,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197966,
-      "num": 197966,
-      "word": "如果你问邓为演技舒适区是什么",
-      "onboard_time": 1692065735,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191411,
       "num": 191411,
       "word": "李昀锐跳queencard",
@@ -763,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180506,
+      "num": 180506,
+      "word": "青年人城镇调查失业率将暂停发布",
+      "onboard_time": 1692066814,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179844,
       "num": 179844,
       "word": "反腐风暴下的医院",
@@ -777,6 +825,14 @@
       "onboard_time": 1692036496,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171268,
+      "num": 171268,
+      "word": "檀健次相柳不卖水产的原因",
+      "onboard_time": 1692066696,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 169419,
@@ -801,14 +857,6 @@
       "onboard_time": 1692014016,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159232,
-      "num": 159232,
-      "word": "檀健次安慰粉丝别哭啦乖",
-      "onboard_time": 1692065915,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 153219,
@@ -881,14 +929,6 @@
       "onboard_time": 1692005617,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 137878,
-      "num": 137878,
-      "word": "降息",
-      "onboard_time": 1692065853,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 136937,
