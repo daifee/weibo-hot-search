@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692076521003,
+  "endTime": 1692077637077,
   "band_list": [
     {
       "raw_hot": 3125154,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1292743,
-      "num": 297814,
+      "num": 417762,
       "word": "日本男子患无精症妻子接受公公捐精",
       "onboard_time": 1692074381,
       "rank": 30,
@@ -147,6 +147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1112048,
+      "num": 1112048,
+      "word": "张子枫志愿军吃土豆镜头",
+      "onboard_time": 1692073659,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1092315,
       "num": 1092315,
       "word": "目前大部分毕业生已经落实就业去向",
@@ -179,16 +187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1005044,
-      "num": 1005044,
-      "word": "张子枫志愿军吃土豆镜头",
-      "onboard_time": 1692073659,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 992156,
-      "num": 625709,
+      "num": 627875,
       "word": "虞书欣的裙子可以玩连连看了",
       "onboard_time": 1692073241,
       "rank": 22,
@@ -235,11 +235,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 871176,
+      "num": 409915,
+      "word": "照身份证千万别把眼睛睁太大",
+      "onboard_time": 1692076121,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 851653,
       "num": 776503,
       "word": "亲眼目睹父亲当街杀母亲女孩发声",
       "onboard_time": 1692018880,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 819683,
+      "num": 819683,
+      "word": "尹锡悦父亲去世",
+      "onboard_time": 1692075879,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -307,6 +323,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 662895,
+      "num": 662895,
+      "word": "邓为只是比桐华更爱涂山璟罢了",
+      "onboard_time": 1692076538,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 628038,
+      "num": 628038,
+      "word": "魏大勋演的毛岸英",
+      "onboard_time": 1692076238,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 626549,
+      "num": 626549,
+      "word": "做饭的坏习惯可能导致家庭癌",
+      "onboard_time": 1692074262,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617633,
       "num": 545059,
       "word": "涂山璟再度解锁四爱play",
@@ -329,14 +369,6 @@
       "onboard_time": 1692055225,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 607750,
-      "num": 297504,
-      "word": "做饭的坏习惯可能导致家庭癌",
-      "onboard_time": 1692074262,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 593177,
@@ -395,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 548044,
+      "num": 548044,
+      "word": "朴春自拍",
+      "onboard_time": 1692076598,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541052,
       "num": 757924,
       "word": "日本投降签字仪式结束于9时18分",
@@ -444,7 +484,7 @@
     },
     {
       "raw_hot": 501828,
-      "num": 525738,
+      "num": 546479,
       "word": "20岁汕头男生失联数日疑被骗至缅甸",
       "onboard_time": 1692072880,
       "rank": 24,
@@ -520,14 +560,6 @@
       "word": "今天为3500万同胞发一条微博",
       "onboard_time": 1692062498,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435449,
-      "num": 508201,
-      "word": "尹锡悦父亲去世",
-      "onboard_time": 1692075879,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -619,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387588,
+      "num": 387588,
+      "word": "景甜冯绍峰藏头诗互动",
+      "onboard_time": 1692077078,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385547,
       "num": 385547,
       "word": "EXO青岛签售会生图",
@@ -633,6 +673,14 @@
       "onboard_time": 1692060576,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384517,
+      "num": 384517,
+      "word": "人不在了房子会老得特别快",
+      "onboard_time": 1692075460,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 384085,
@@ -667,14 +715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 375992,
-      "num": 294892,
-      "word": "照身份证千万别把眼睛睁太大",
-      "onboard_time": 1692076121,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 373798,
       "num": 373798,
       "word": "范丞丞要害纸贴在了要害部位",
@@ -699,12 +739,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 353199,
-      "num": 285653,
-      "word": "人不在了房子会老得特别快",
-      "onboard_time": 1692075460,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 353805,
+      "num": 353805,
+      "word": "孤注一掷代码都是真的",
+      "onboard_time": 1692076421,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 347341,
@@ -771,19 +811,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316991,
+      "num": 316991,
+      "word": "小夭一句嫂嫂创飞了两个人",
+      "onboard_time": 1692077257,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310548,
       "num": 310548,
       "word": "涂山璟你否认啊",
       "onboard_time": 1692021642,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 309110,
-      "num": 309110,
-      "word": "魏大勋演的毛岸英",
-      "onboard_time": 1692076238,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -963,6 +1003,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 267464,
+      "num": 267464,
+      "word": "严浩翔说这次是一首温柔的歌",
+      "onboard_time": 1692077317,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 267447,
       "num": 267447,
       "word": "相柳成全小夭涂山璟",
@@ -1000,6 +1048,14 @@
       "word": "封神长尾效应",
       "onboard_time": 1692072762,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 258891,
+      "num": 258891,
+      "word": "邓为涂山璟的狐狸乐园",
+      "onboard_time": 1692076777,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -1067,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250659,
+      "num": 250659,
+      "word": "小狐疯狂上分",
+      "onboard_time": 1692076361,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250173,
       "num": 250173,
       "word": "为什么猫容易成为厕所搭子",
@@ -1099,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242612,
+      "num": 242612,
+      "word": "没认出这是朱亚文",
+      "onboard_time": 1692077438,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240975,
       "num": 240975,
       "word": "甲状腺结节的科普",
@@ -1115,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239982,
-      "num": 239982,
-      "word": "孤注一掷代码都是真的",
-      "onboard_time": 1692076421,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 239914,
       "num": 239914,
       "word": "朱一龙李想",
@@ -1137,14 +1201,6 @@
       "onboard_time": 1692074626,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 231911,
-      "num": 231911,
-      "word": "小狐疯狂上分",
-      "onboard_time": 1692076361,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 227578,
@@ -1273,6 +1329,14 @@
       "onboard_time": 1692058415,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190515,
+      "num": 190515,
+      "word": "恋与制作人六大非遗联动",
+      "onboard_time": 1692076658,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 186053,
@@ -1643,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28574,
+      "num": 546062,
+      "word": "男子跌进急流中3名城管合力施救",
+      "onboard_time": 1692075641,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27401,
       "num": 32635,
       "word": "周杰伦 送上大家一张三宝爸的帅照",
@@ -1657,14 +1729,6 @@
       "onboard_time": 1692041714,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16146,
-      "num": 507551,
-      "word": "男子跌进急流中3名城管合力施救",
-      "onboard_time": 1692075641,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12446,
