@@ -1,0 +1,410 @@
+{
+  "runTime": 1692070427377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2753793,
+        "num": 2753793,
+        "word": "张杰电话",
+        "onboard_time": 1692067117,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2015135,
+        "num": 2015135,
+        "word": "大脑为什么删除2岁前的记忆",
+        "onboard_time": 1692067536,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109719,
+        "num": 1585189,
+        "word": "8K镜头带你看遍大美中国",
+        "onboard_time": 1692067416,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1552185,
+        "num": 1552185,
+        "word": "Doinb下跪道歉",
+        "onboard_time": 1692066875,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1170663,
+        "num": 1170663,
+        "word": "易烊千玺去看薛之谦演唱会",
+        "onboard_time": 1692068378,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1121616,
+        "num": 1121616,
+        "word": "缅甸",
+        "onboard_time": 1692057756,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143006,
+        "num": 1095716,
+        "word": "青年人城镇调查失业率将暂停发布",
+        "onboard_time": 1692066814,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973559,
+        "num": 973559,
+        "word": "为什么全身脸部的皮肤最差",
+        "onboard_time": 1692068440,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 957137,
+        "num": 957137,
+        "word": "以为是休息实际在耗气血的行为",
+        "onboard_time": 1692055525,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 907899,
+        "num": 907899,
+        "word": "伊甸园字幕组解散",
+        "onboard_time": 1692064954,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1110356,
+        "num": 896591,
+        "word": "梁田自曝遭性骚扰",
+        "onboard_time": 1692057272,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766122,
+        "num": 766122,
+        "word": "降息",
+        "onboard_time": 1692065853,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252469,
+        "num": 757924,
+        "word": "日本投降签字仪式结束于9时18分",
+        "onboard_time": 1692054804,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158872,
+        "num": 754409,
+        "word": "今天为3500万同胞发一条微博",
+        "onboard_time": 1692062498,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34587,
+        "num": 754272,
+        "word": "东京审判818次唇枪舌战判决书1213页",
+        "onboard_time": 1692069338,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754223,
+        "num": 754223,
+        "word": "目前大部分毕业生已经落实就业去向",
+        "onboard_time": 1692068378,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 618601,
+        "num": 618601,
+        "word": "男子接完诈骗电话卡里多出14万",
+        "onboard_time": 1692064174,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591283,
+        "num": 591283,
+        "word": "玱玹也要哭出个名分来",
+        "onboard_time": 1692065315,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382555,
+        "num": 510531,
+        "word": "向佐一口气带5个娃过暑假",
+        "onboard_time": 1692063574,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508554,
+        "num": 508554,
+        "word": "邓为会自己给涂山璟上怜爱buff",
+        "onboard_time": 1692067235,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 593177,
+        "num": 486504,
+        "word": "四六级",
+        "onboard_time": 1692066159,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 428753,
+        "num": 428753,
+        "word": "杨紫上了台词课",
+        "onboard_time": 1692066934,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405580,
+        "num": 405580,
+        "word": "马来西亚男子性侵两女儿致怀孕被判702年",
+        "onboard_time": 1692059978,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403078,
+        "num": 403078,
+        "word": "涂山璟和小夭分手 真哭了",
+        "onboard_time": 1692026257,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383282,
+        "num": 383282,
+        "word": "陈凯歌拍戏40年没这么难过",
+        "onboard_time": 1692068440,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373798,
+        "num": 373798,
+        "word": "范丞丞要害纸贴在了要害部位",
+        "onboard_time": 1692068797,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349849,
+        "num": 349849,
+        "word": "王俊凯小卷毛",
+        "onboard_time": 1692069638,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 317843,
+        "num": 317843,
+        "word": "无意中摸过什么不该摸的东西",
+        "onboard_time": 1692066333,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296177,
+        "num": 296177,
+        "word": "7月全国城镇调查失业率为5.3%",
+        "onboard_time": 1692068378,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 272819,
+        "num": 272819,
+        "word": "为什么很多公司选择15号发工资",
+        "onboard_time": 1692060637,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258849,
+        "num": 258849,
+        "word": "毛不易你这么会接梗不要命啦",
+        "onboard_time": 1692069518,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256076,
+        "num": 256076,
+        "word": "一个人如果突然关了微信运动",
+        "onboard_time": 1692055886,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248253,
+        "num": 248253,
+        "word": "质疑紫米理解紫米成为紫米",
+        "onboard_time": 1692064774,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241565,
+        "num": 241565,
+        "word": "我啥档次啊也配跟你埋一个坟",
+        "onboard_time": 1692055827,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226837,
+        "num": 226837,
+        "word": "中国男篮加油",
+        "onboard_time": 1692067296,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219582,
+        "num": 219582,
+        "word": "815",
+        "onboard_time": 1692064115,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211810,
+        "num": 211810,
+        "word": "涂山璟既要又要",
+        "onboard_time": 1692070060,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211188,
+        "num": 211188,
+        "word": "女货车司机月入2万在车里住2年",
+        "onboard_time": 1692064174,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205413,
+        "num": 205413,
+        "word": "朱一龙李想",
+        "onboard_time": 1692069638,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202217,
+        "num": 202217,
+        "word": "张颂文术后强忍疼痛拍戏",
+        "onboard_time": 1692069760,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202465,
+        "num": 202192,
+        "word": "志愿军里的魏大勋",
+        "onboard_time": 1692069638,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202165,
+        "num": 202165,
+        "word": "精致穷",
+        "onboard_time": 1692070116,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 192583,
+        "num": 192583,
+        "word": "00后小学课本中的意难平",
+        "onboard_time": 1692069338,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193501,
+        "num": 190448,
+        "word": "亲眼目睹父亲当街杀母亲女孩发声",
+        "onboard_time": 1692018880,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181565,
+        "num": 181565,
+        "word": "金晨微指破亿",
+        "onboard_time": 1692062735,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178905,
+        "num": 178905,
+        "word": "刘宇宁肖战今日开屏",
+        "onboard_time": 1692063935,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177613,
+        "num": 177613,
+        "word": "王大陆发长文感恩孤注一掷剧组",
+        "onboard_time": 1692062314,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177224,
+        "num": 177224,
+        "word": "刘楚恬文化课成绩",
+        "onboard_time": 1692061418,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175205,
+        "num": 175205,
+        "word": "女子卖1000斤土豆倒欠2000斤",
+        "onboard_time": 1692070299,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169371,
+        "num": 169371,
+        "word": "小夭到底更爱相柳还是涂山璟",
+        "onboard_time": 1692070360,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天是首个全国生态日#"
+    }
+  }
+}
