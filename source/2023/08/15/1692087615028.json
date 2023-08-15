@@ -1,0 +1,410 @@
+{
+  "runTime": 1692087615028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2045109,
+        "num": 2045109,
+        "word": "银行卡内突然到账14.8万",
+        "onboard_time": 1692084639,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1334390,
+        "num": 1334390,
+        "word": "张艺兴是国家话剧院演员",
+        "onboard_time": 1692083619,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40335,
+        "num": 1128658,
+        "word": "人类全程护送藏羚羊回家画面太暖了",
+        "onboard_time": 1692087162,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1929012,
+        "num": 1102119,
+        "word": "日媒曝福原爱或将面临国际通缉",
+        "onboard_time": 1692085901,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1054461,
+        "num": 1054461,
+        "word": "李玟患乳腺癌仍坚持录完好声音",
+        "onboard_time": 1692081515,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790089,
+        "num": 790089,
+        "word": "播一部火一部的明星",
+        "onboard_time": 1692080074,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 773484,
+        "num": 773484,
+        "word": "大脑为什么删除2岁前的记忆",
+        "onboard_time": 1692067536,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579822,
+        "num": 579822,
+        "word": "爸爸当家 新疆恋综",
+        "onboard_time": 1692085421,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513072,
+        "num": 513072,
+        "word": "侯雯元 删不完根本删不完",
+        "onboard_time": 1692083138,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449457,
+        "num": 449457,
+        "word": "世界上最大的兔子",
+        "onboard_time": 1692084878,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1990730,
+        "num": 448456,
+        "word": "韩国首尔",
+        "onboard_time": 1692079895,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082634,
+        "num": 445148,
+        "word": "韩国女艺人称在日本演出被多人袭胸",
+        "onboard_time": 1692083258,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676506,
+        "num": 442709,
+        "word": "常州分尸案嫌疑人已落网",
+        "onboard_time": 1692082478,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370061,
+        "num": 439883,
+        "word": "退休干部招募敢死队密谋暴力行动",
+        "onboard_time": 1692079297,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174009,
+        "num": 438191,
+        "word": "为什么高铁座位没有E",
+        "onboard_time": 1692071860,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558573,
+        "num": 435605,
+        "word": "Angelababy与小海绵现身机场",
+        "onboard_time": 1692084937,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501210,
+        "num": 432222,
+        "word": "景甜冯绍峰藏头诗互动",
+        "onboard_time": 1692077078,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430937,
+        "num": 430937,
+        "word": "椰果不是椰肉是细菌产物",
+        "onboard_time": 1692085840,
+        "rank": 17,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 404529,
+        "num": 404529,
+        "word": "小夭一句嫂嫂创飞了两个人",
+        "onboard_time": 1692077257,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382635,
+        "num": 382635,
+        "word": "一英国人长期感染新冠导致腿变蓝",
+        "onboard_time": 1692080436,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466377,
+        "num": 377923,
+        "word": "没想到离职半年还能背锅",
+        "onboard_time": 1692085600,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 403267,
+        "num": 373508,
+        "word": "日本男子患无精症妻子接受公公捐精",
+        "onboard_time": 1692074381,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354623,
+        "num": 354623,
+        "word": "缅甸五星级酒店300多元都没人去",
+        "onboard_time": 1692083440,
+        "rank": 22,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 352006,
+        "num": 352006,
+        "word": "照身份证千万别把眼睛睁太大",
+        "onboard_time": 1692076121,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318331,
+        "num": 318331,
+        "word": "四六级",
+        "onboard_time": 1692066159,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 315006,
+        "num": 315006,
+        "word": "Ella时隔9年再拍新剧",
+        "onboard_time": 1692082962,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312783,
+        "num": 312783,
+        "word": "11岁男孩6年为去世父母还清欠款",
+        "onboard_time": 1692082836,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306956,
+        "num": 306956,
+        "word": "孤注一掷 删减",
+        "onboard_time": 1692086799,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296327,
+        "num": 296327,
+        "word": "做饭的坏习惯可能导致家庭癌",
+        "onboard_time": 1692074262,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288529,
+        "num": 288529,
+        "word": "李玟老公最后一份公开声明",
+        "onboard_time": 1692081937,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258800,
+        "num": 258800,
+        "word": "为什么全身脸部的皮肤最差",
+        "onboard_time": 1692068440,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253375,
+        "num": 253375,
+        "word": "张子枫脏脏包造型",
+        "onboard_time": 1692084878,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246762,
+        "num": 246762,
+        "word": "马嘉祺 EP",
+        "onboard_time": 1692087039,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230762,
+        "num": 230762,
+        "word": "这就是莲花楼标准结局",
+        "onboard_time": 1692085178,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226239,
+        "num": 226239,
+        "word": "易烊千玺去看薛之谦演唱会",
+        "onboard_time": 1692068378,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221924,
+        "num": 221924,
+        "word": "张杰电话",
+        "onboard_time": 1692067117,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216197,
+        "num": 216197,
+        "word": "华晨宇十周年鸟巢演唱会官宣",
+        "onboard_time": 1692082719,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212553,
+        "num": 212553,
+        "word": "热烈中被删减的片段",
+        "onboard_time": 1692086678,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209241,
+        "num": 209241,
+        "word": "邓为只是比桐华更爱涂山璟罢了",
+        "onboard_time": 1692076538,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206098,
+        "num": 206098,
+        "word": "A股",
+        "onboard_time": 1692078759,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206048,
+        "num": 206048,
+        "word": "金莎05年MV里的造型",
+        "onboard_time": 1692082538,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205026,
+        "num": 205026,
+        "word": "AI修复78年前中国民众欢庆日本投降",
+        "onboard_time": 1692086617,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 199156,
+        "num": 199156,
+        "word": "取已故丈夫190万银行存款遭拒",
+        "onboard_time": 1692070839,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198891,
+        "num": 198891,
+        "word": "历次A股印花税调整后上证指数表现",
+        "onboard_time": 1692086564,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197041,
+        "num": 197041,
+        "word": "北京顺义1.5级地震",
+        "onboard_time": 1692082362,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196981,
+        "num": 196981,
+        "word": "马立奥说自己可笑死了",
+        "onboard_time": 1692086499,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176084,
+        "num": 176084,
+        "word": "防小猫咪拆家的纯狱风装修",
+        "onboard_time": 1692086019,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167660,
+        "num": 167660,
+        "word": "朴春自拍",
+        "onboard_time": 1692076598,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165546,
+        "num": 165546,
+        "word": "人不在了房子会老得特别快",
+        "onboard_time": 1692075460,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150725,
+        "num": 150725,
+        "word": "答题卡这名字太不吉利",
+        "onboard_time": 1692087579,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天是首个全国生态日#"
+    }
+  }
+}
