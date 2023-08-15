@@ -1,7 +1,23 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692081229955,
+  "endTime": 1692083709900,
   "band_list": [
+    {
+      "raw_hot": 3389639,
+      "num": 3389639,
+      "word": "韩国首尔",
+      "onboard_time": 1692079895,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3198834,
+      "num": 1524551,
+      "word": "中国总和生育率已跌至1.09",
+      "onboard_time": 1692079116,
+      "rank": 5,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3125154,
       "num": 3125154,
@@ -33,14 +49,6 @@
       "onboard_time": 1692057272,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2161783,
-      "num": 2161783,
-      "word": "韩国首尔",
-      "onboard_time": 1692079895,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2011692,
@@ -83,20 +91,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1524551,
-      "num": 1524551,
-      "word": "中国总和生育率已跌至1.09",
-      "onboard_time": 1692079116,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1392687,
       "num": 1392687,
       "word": "3人偷渡到缅甸搞诈骗却因文化低被拒收",
       "onboard_time": 1692016775,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1347047,
+      "num": 1347047,
+      "word": "李玟患乳腺癌仍坚持录完好声音",
+      "onboard_time": 1692081515,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1340381,
@@ -169,6 +177,14 @@
       "onboard_time": 1692068378,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1120209,
+      "num": 1120209,
+      "word": "播一部火一部的明星",
+      "onboard_time": 1692080074,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 1112048,
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 792382,
+      "num": 792382,
+      "word": "韩国又现恐吓邮件称炸毁首尔市政府",
+      "onboard_time": 1692080855,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 768649,
       "num": 768649,
       "word": "日本战败投降78周年",
@@ -352,6 +376,14 @@
       "word": "做饭的坏习惯可能导致家庭癌",
       "onboard_time": 1692074262,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685619,
+      "num": 580030,
+      "word": "一英国人长期感染新冠导致腿变蓝",
+      "onboard_time": 1692080436,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -451,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562833,
+      "num": 562833,
+      "word": "常州分尸案嫌疑人已落网",
+      "onboard_time": 1692082478,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553354,
       "num": 553354,
       "word": "王俊凯小卷毛",
@@ -489,6 +529,14 @@
       "onboard_time": 1692054804,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539843,
+      "num": 479805,
+      "word": "李玟老公最后一份公开声明",
+      "onboard_time": 1692081937,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 525228,
@@ -555,11 +603,19 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 469368,
-      "num": 469368,
-      "word": "韩国又现恐吓邮件称炸毁首尔市政府",
-      "onboard_time": 1692080855,
-      "rank": 15,
+      "raw_hot": 480762,
+      "num": 480762,
+      "word": "退休干部招募敢死队密谋暴力行动",
+      "onboard_time": 1692079297,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479800,
+      "num": 479800,
+      "word": "北京顺义1.5级地震",
+      "onboard_time": 1692082362,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -624,14 +680,6 @@
       "word": "孤注一掷代码都是真的",
       "onboard_time": 1692076421,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 431527,
-      "num": 431527,
-      "word": "播一部火一部的明星",
-      "onboard_time": 1692080074,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -707,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 399539,
-      "num": 399539,
-      "word": "退休干部招募敢死队密谋暴力行动",
-      "onboard_time": 1692079297,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 396565,
       "num": 396565,
       "word": "入境旅客因照片像别人找到失散双胞胎兄弟",
@@ -737,6 +777,14 @@
       "onboard_time": 1692056008,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388582,
+      "num": 388582,
+      "word": "侯雯元 删不完根本删不完",
+      "onboard_time": 1692083138,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 385547,
@@ -811,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358746,
+      "num": 286162,
+      "word": "黄宗泽 谁说健康的食物没有味道的",
+      "onboard_time": 1692081764,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358360,
       "num": 358360,
       "word": "NCT文泰一因骨折无法参加演唱会",
@@ -859,14 +915,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 328848,
-      "num": 328848,
-      "word": "一英国人长期感染新冠导致腿变蓝",
-      "onboard_time": 1692080436,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328184,
       "num": 572900,
       "word": "夏威夷大火约1300人失踪",
@@ -891,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312071,
+      "num": 312071,
+      "word": "华晨宇十周年鸟巢演唱会官宣",
+      "onboard_time": 1692082719,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 310548,
       "num": 310548,
       "word": "涂山璟你否认啊",
@@ -913,6 +969,14 @@
       "onboard_time": 1692003336,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304632,
+      "num": 304632,
+      "word": "韩国女艺人称在日本演出被多人袭胸",
+      "onboard_time": 1692083258,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 303005,
@@ -977,6 +1041,14 @@
       "onboard_time": 1692021398,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285306,
+      "num": 285306,
+      "word": "金莎05年MV里的造型",
+      "onboard_time": 1692082538,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 285242,
@@ -1096,6 +1168,14 @@
       "word": "相柳成全小夭涂山璟",
       "onboard_time": 1692022661,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265668,
+      "num": 265668,
+      "word": "Ella时隔9年再拍新剧",
+      "onboard_time": 1692082962,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1243,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247621,
+      "num": 247621,
+      "word": "张艺兴官宣MALLSTARS总决赛阵容",
+      "onboard_time": 1692081456,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244966,
       "num": 244966,
       "word": "爸爸当家2收官长文",
@@ -1347,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207783,
+      "num": 207783,
+      "word": "张艺兴是国家话剧院演员",
+      "onboard_time": 1692083619,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205381,
       "num": 205381,
       "word": "志愿军",
@@ -1427,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192925,
+      "num": 192925,
+      "word": "摩羯座恋爱误区",
+      "onboard_time": 1692080255,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192653,
       "num": 192653,
       "word": "夏威夷",
@@ -1448,6 +1552,14 @@
       "word": "恋与制作人六大非遗联动",
       "onboard_time": 1692076658,
       "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 186942,
+      "num": 186942,
+      "word": "星穹铁道镜流",
+      "onboard_time": 1692082719,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -1547,14 +1659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162677,
-      "num": 162677,
-      "word": "摩羯座恋爱误区",
-      "onboard_time": 1692080255,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153219,
       "num": 153219,
       "word": "萌兰闷头干饭无视妹妹疯狂敲窗",
@@ -1619,12 +1723,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141301,
+      "num": 479805,
+      "word": "11岁男孩6年为去世父母还清欠款",
+      "onboard_time": 1692082836,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139492,
       "num": 139492,
       "word": "长相思直播",
       "onboard_time": 1692005617,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137184,
+      "num": 170009,
+      "word": "缅甸五星级酒店300多元都没人去",
+      "onboard_time": 1692083440,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 136937,
