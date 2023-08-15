@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692110031090,
+  "endTime": 1692112537625,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1859194,
-      "num": 388524,
+      "num": 429955,
       "word": "于适龙吸水",
       "onboard_time": 1692108821,
       "rank": 25,
@@ -323,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1110727,
+      "num": 1110727,
+      "word": "马立奥告别爸爸当家2",
+      "onboard_time": 1692108341,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1092315,
       "num": 1092315,
       "word": "目前大部分毕业生已经落实就业去向",
@@ -361,14 +369,6 @@
       "onboard_time": 1692059978,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1058883,
-      "num": 1058883,
-      "word": "马立奥告别爸爸当家2",
-      "onboard_time": 1692108341,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1014167,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 822106,
-      "num": 385918,
+      "num": 423937,
       "word": "易烊千玺新专辑 发货",
       "onboard_time": 1692107382,
       "rank": 11,
@@ -577,6 +577,14 @@
       "onboard_time": 1692046094,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 715718,
+      "num": 715718,
+      "word": "少帮主 自家兄弟",
+      "onboard_time": 1692108701,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 711783,
@@ -723,19 +731,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 612712,
-      "num": 612712,
-      "word": "少帮主 自家兄弟",
-      "onboard_time": 1692108701,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 608071,
       "num": 608071,
       "word": "六公主 水中贵族",
       "onboard_time": 1692095380,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 600080,
+      "num": 600080,
+      "word": "孤注一掷实时票房破20亿",
+      "onboard_time": 1692106482,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -801,14 +809,6 @@
       "onboard_time": 1692089141,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 560524,
-      "num": 384640,
-      "word": "孤注一掷实时票房破20亿",
-      "onboard_time": 1692106482,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 553354,
@@ -1043,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 464362,
+      "num": 375234,
+      "word": "柳岩瘦下来的状态",
+      "onboard_time": 1692109844,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462584,
       "num": 462584,
       "word": "张杰演唱会",
@@ -1155,20 +1163,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442633,
+      "num": 391257,
+      "word": "王鹤润替角丽谯圆梦了",
+      "onboard_time": 1692108882,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 436242,
+      "num": 436242,
+      "word": "人不像周迅但精神状态像",
+      "onboard_time": 1692106006,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 436132,
+      "num": 367153,
+      "word": "Capper直播",
+      "onboard_time": 1692110202,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431138,
       "num": 365347,
       "word": "质疑紫米理解紫米成为紫米",
       "onboard_time": 1692064774,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 429371,
-      "num": 379428,
-      "word": "人不像周迅但精神状态像",
-      "onboard_time": 1692106006,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 428753,
@@ -1299,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 390202,
+      "num": 390202,
+      "word": "90后姑娘摆摊卖热卤一晚最多卖5000元",
+      "onboard_time": 1692111461,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386228,
       "num": 386228,
       "word": "Ella时隔9年再拍新剧",
@@ -1352,14 +1384,6 @@
       "word": "陈牧驰不要哭 要拍戏拍到八十岁",
       "onboard_time": 1692058234,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 380496,
-      "num": 379091,
-      "word": "王鹤润替角丽谯圆梦了",
-      "onboard_time": 1692108882,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -1555,6 +1579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 315602,
+      "num": 298783,
+      "word": "热烈成中国影史国产体育片票房冠军",
+      "onboard_time": 1692110802,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312783,
       "num": 542929,
       "word": "11岁男孩6年为去世父母还清欠款",
@@ -1635,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301252,
+      "num": 301252,
+      "word": "男人最好的医美 电竞说唱乐队",
+      "onboard_time": 1692108401,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 296529,
       "num": 282641,
       "word": "黄渤与十个勤天的相遇",
@@ -1673,6 +1713,14 @@
       "onboard_time": 1692071503,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 286188,
+      "num": 418175,
+      "word": "大熊猫母女吃笋像大小号复制粘贴",
+      "onboard_time": 1692109003,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286001,
@@ -1811,14 +1859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270927,
-      "num": 270927,
-      "word": "男人最好的医美 电竞说唱乐队",
-      "onboard_time": 1692108401,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 268062,
       "num": 267670,
       "word": "杨紫直播背景",
@@ -1945,6 +1985,14 @@
       "onboard_time": 1692026020,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256359,
+      "num": 256359,
+      "word": "爱乐之都 猎罪图鉴售后",
+      "onboard_time": 1692112120,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 256143,
@@ -2172,19 +2220,11 @@
     },
     {
       "raw_hot": 225522,
-      "num": 383955,
+      "num": 415489,
       "word": "8000年前的陶片留着锅巴",
       "onboard_time": 1692109663,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225329,
-      "num": 225329,
-      "word": "柳岩瘦下来的状态",
-      "onboard_time": 1692109844,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 219492,
@@ -2291,6 +2331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206271,
+      "num": 200009,
+      "word": "热烈",
+      "onboard_time": 1692112181,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205381,
       "num": 205381,
       "word": "志愿军",
@@ -2329,6 +2377,14 @@
       "onboard_time": 1692069638,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202227,
+      "num": 202227,
+      "word": "与患有ADHD女友的日常",
+      "onboard_time": 1692110321,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 202172,
@@ -2401,6 +2457,14 @@
       "onboard_time": 1692088059,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193335,
+      "num": 193335,
+      "word": "黄渤跳蛇舞",
+      "onboard_time": 1692110561,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 193304,
@@ -2595,6 +2659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162953,
+      "num": 162953,
+      "word": "酒后言语骚扰算性骚扰吗",
+      "onboard_time": 1692111040,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159392,
       "num": 191665,
       "word": "实测8家品牌饮品加冰量",
@@ -2753,14 +2825,6 @@
       "onboard_time": 1692012815,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 120650,
-      "num": 387092,
-      "word": "大熊猫母女吃笋像大小号复制粘贴",
-      "onboard_time": 1692109003,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120102,
@@ -3050,6 +3114,9 @@
     },
     {
       "word": "#推进人与自然和谐共生的现代化#"
+    },
+    {
+      "word": "#用色卡打开美丽中国#"
     }
   ]
 }
