@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692095622693,
+  "endTime": 1692097995024,
   "band_list": [
     {
       "raw_hot": 3389639,
@@ -371,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 857441,
+      "num": 539832,
+      "word": "八种容易烂脸的食物",
+      "onboard_time": 1692095974,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 851653,
       "num": 776503,
       "word": "亲眼目睹父亲当街杀母亲女孩发声",
@@ -553,6 +561,14 @@
       "onboard_time": 1692055225,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 608071,
+      "num": 608071,
+      "word": "六公主 水中贵族",
+      "onboard_time": 1692095380,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 587924,
@@ -763,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499854,
+      "num": 499854,
+      "word": "马立奥长得好快",
+      "onboard_time": 1692096037,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 499571,
       "num": 1777894,
       "word": "妈妈将自己和龙凤胎用水枪印墙上",
@@ -832,6 +856,14 @@
       "word": "向佐一口气带5个娃过暑假",
       "onboard_time": 1692063574,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 455632,
+      "num": 455632,
+      "word": "马嘉祺丁程鑫贺峻霖三人行vlog",
+      "onboard_time": 1692095916,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -939,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417783,
+      "num": 417783,
+      "word": "杨紫浮夸型走戏",
+      "onboard_time": 1692094598,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415153,
       "num": 415153,
       "word": "陈凯歌拍戏40年没这么难过",
@@ -1016,14 +1056,6 @@
       "word": "涂山璟最珍贵的内核",
       "onboard_time": 1692094057,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 393182,
-      "num": 338910,
-      "word": "杨紫浮夸型走戏",
-      "onboard_time": 1692094598,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -1387,12 +1419,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 283337,
+      "num": 233466,
+      "word": "视觉中国客服回应告知名摄影师侵权",
+      "onboard_time": 1692096695,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282813,
       "num": 282813,
       "word": "小夭用三次吻诠释有多爱涂山璟",
       "onboard_time": 1692054926,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282376,
+      "num": 282376,
+      "word": "质子团早期",
+      "onboard_time": 1692097117,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 282359,
@@ -1497,14 +1545,6 @@
       "onboard_time": 1692063096,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 263700,
-      "num": 263700,
-      "word": "六公主 水中贵族",
-      "onboard_time": 1692095380,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 262981,
@@ -1643,6 +1683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250684,
+      "num": 250684,
+      "word": "成毅肖顺尧还原当年今日名场面",
+      "onboard_time": 1692097297,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250659,
       "num": 250659,
       "word": "小狐疯狂上分",
@@ -1731,6 +1779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233478,
+      "num": 233478,
+      "word": "陈乔恩眼镜蛇手",
+      "onboard_time": 1692095561,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233399,
       "num": 233399,
       "word": "大张伟演唱会",
@@ -1755,6 +1811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227713,
+      "num": 227713,
+      "word": "古天乐张智霖吴镇宇新片尺度好大",
+      "onboard_time": 1692096879,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227578,
       "num": 227578,
       "word": "中国男篮加油",
@@ -1772,7 +1836,7 @@
     },
     {
       "raw_hot": 216934,
-      "num": 602723,
+      "num": 987073,
       "word": "儿子一把抱起出差回来的老爸转圈圈",
       "onboard_time": 1692093038,
       "rank": 13,
@@ -1832,6 +1896,14 @@
       "word": "猴崽带甜甜糕回城",
       "onboard_time": 1692084169,
       "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 206396,
+      "num": 206396,
+      "word": "2023PEL夏决应援",
+      "onboard_time": 1692097176,
+      "rank": 37,
       "category": "游戏"
     },
     {
@@ -2043,6 +2115,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179517,
+      "num": 179517,
+      "word": "火树贴脸开大",
+      "onboard_time": 1692097898,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178849,
+      "num": 178849,
+      "word": "姐的高跟鞋功力已是next level",
+      "onboard_time": 1692096276,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175774,
       "num": 175774,
       "word": "在飞机上被逮捕的小猫咪",
@@ -2096,6 +2184,30 @@
       "word": "嗑cp也是一种恋爱脑",
       "onboard_time": 1692014016,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 165607,
+      "num": 165607,
+      "word": "原神",
+      "onboard_time": 1692097536,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 165127,
+      "num": 165127,
+      "word": "北上广的青旅里挤满找不到工作的人",
+      "onboard_time": 1692097961,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161666,
+      "num": 161666,
+      "word": "北极兔偷偷藏不住",
+      "onboard_time": 1692097961,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -2457,6 +2569,14 @@
       "onboard_time": 1692041714,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13526,
+      "num": 511234,
+      "word": "三代治沙人用百年时间把沙海变绿洲",
+      "onboard_time": 1692097297,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12446,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1692097995024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1392529,
+        "num": 1392529,
+        "word": "女子戴玉镯10年关节变形成手铐",
+        "onboard_time": 1692089919,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482850,
+        "num": 1104988,
+        "word": "妈妈将自己和龙凤胎用水枪印墙上",
+        "onboard_time": 1692090461,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50910,
+        "num": 1061350,
+        "word": "人类全程护送藏羚羊回家画面太暖了",
+        "onboard_time": 1692087162,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059296,
+        "num": 1059296,
+        "word": "日媒曝福原爱或将面临国际通缉",
+        "onboard_time": 1692085901,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 387697,
+        "num": 1036820,
+        "word": "山东2元炒菜摊主回应走红",
+        "onboard_time": 1692094238,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014643,
+        "num": 1014643,
+        "word": "仅有14%的科室主任副主任年收入超过20万元",
+        "onboard_time": 1692088965,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204123,
+        "num": 987073,
+        "word": "儿子一把抱起出差回来的老爸转圈圈",
+        "onboard_time": 1692093038,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966505,
+        "num": 966505,
+        "word": "自己拍的照片被视觉中国告侵权",
+        "onboard_time": 1692091840,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608071,
+        "num": 608071,
+        "word": "六公主 水中贵族",
+        "onboard_time": 1692095380,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540278,
+        "num": 540278,
+        "word": "银行卡内突然到账14.8万",
+        "onboard_time": 1692084639,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857441,
+        "num": 539832,
+        "word": "八种容易烂脸的食物",
+        "onboard_time": 1692095974,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 667010,
+        "num": 532419,
+        "word": "魏大勋方维权起诉",
+        "onboard_time": 1692091182,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628176,
+        "num": 526062,
+        "word": "刘若英西安演唱会 取消",
+        "onboard_time": 1692091418,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182754,
+        "num": 517566,
+        "word": "退休干部招募敢死队密谋暴力行动",
+        "onboard_time": 1692079297,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13526,
+        "num": 511234,
+        "word": "三代治沙人用百年时间把沙海变绿洲",
+        "onboard_time": 1692097297,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569638,
+        "num": 503536,
+        "word": "五月天西安演唱会还开不开",
+        "onboard_time": 1692093817,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 499854,
+        "num": 499854,
+        "word": "马立奥长得好快",
+        "onboard_time": 1692096037,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455632,
+        "num": 455632,
+        "word": "马嘉祺丁程鑫贺峻霖三人行vlog",
+        "onboard_time": 1692095916,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417783,
+        "num": 417783,
+        "word": "杨紫浮夸型走戏",
+        "onboard_time": 1692094598,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412071,
+        "num": 412071,
+        "word": "大宋少年志2豆瓣开分8.3",
+        "onboard_time": 1692094539,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351724,
+        "num": 351724,
+        "word": "张艺兴是国家话剧院演员",
+        "onboard_time": 1692083619,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339205,
+        "num": 339205,
+        "word": "涂山璟最珍贵的内核",
+        "onboard_time": 1692094057,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332126,
+        "num": 332126,
+        "word": "独居女子床边发现烟头吓到报警",
+        "onboard_time": 1692092138,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317099,
+        "num": 317099,
+        "word": "四六级成绩",
+        "onboard_time": 1692090338,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 303576,
+        "num": 303576,
+        "word": "缅甸五星级酒店300多元都没人去",
+        "onboard_time": 1692083440,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 282376,
+        "num": 282376,
+        "word": "质子团早期",
+        "onboard_time": 1692097117,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250684,
+        "num": 250684,
+        "word": "成毅肖顺尧还原当年今日名场面",
+        "onboard_time": 1692097297,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237888,
+        "num": 237888,
+        "word": "男子为制止女友大喊亲吻被咬断舌头",
+        "onboard_time": 1692088119,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234107,
+        "num": 234107,
+        "word": "吐鲁番多名游客突然头发直立如刺猬",
+        "onboard_time": 1692089979,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233478,
+        "num": 233478,
+        "word": "陈乔恩眼镜蛇手",
+        "onboard_time": 1692095561,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283337,
+        "num": 233466,
+        "word": "视觉中国客服回应告知名摄影师侵权",
+        "onboard_time": 1692096695,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230379,
+        "num": 230379,
+        "word": "没想到离职半年还能背锅",
+        "onboard_time": 1692085600,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228265,
+        "num": 228265,
+        "word": "猎罪图鉴编剧谈退出第二季",
+        "onboard_time": 1692089081,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227713,
+        "num": 227713,
+        "word": "古天乐张智霖吴镇宇新片尺度好大",
+        "onboard_time": 1692096879,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217622,
+        "num": 217622,
+        "word": "日本男子患无精症妻子接受公公捐精",
+        "onboard_time": 1692074381,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215311,
+        "num": 215311,
+        "word": "李玟患乳腺癌仍坚持录完好声音",
+        "onboard_time": 1692081515,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214135,
+        "num": 214135,
+        "word": "莲花楼豆瓣开分8.0",
+        "onboard_time": 1692089859,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206396,
+        "num": 206396,
+        "word": "2023PEL夏决应援",
+        "onboard_time": 1692097176,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186650,
+        "num": 186650,
+        "word": "大脑为什么删除2岁前的记忆",
+        "onboard_time": 1692067536,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181475,
+        "num": 181475,
+        "word": "山东大哥小摊11元能炒3个菜",
+        "onboard_time": 1692093038,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179517,
+        "num": 179517,
+        "word": "火树贴脸开大",
+        "onboard_time": 1692097898,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178849,
+        "num": 178849,
+        "word": "姐的高跟鞋功力已是next level",
+        "onboard_time": 1692096276,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176428,
+        "num": 176428,
+        "word": "宁静无糖芭比妆",
+        "onboard_time": 1692092378,
+        "rank": 42,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 167066,
+        "num": 167066,
+        "word": "西班牙女足2比1瑞典女足",
+        "onboard_time": 1692095017,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165650,
+        "num": 165650,
+        "word": "韩国女艺人在日本演出遭性骚扰",
+        "onboard_time": 1692083258,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165607,
+        "num": 165607,
+        "word": "原神",
+        "onboard_time": 1692097536,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165127,
+        "num": 165127,
+        "word": "北上广的青旅里挤满找不到工作的人",
+        "onboard_time": 1692097961,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164479,
+        "num": 164479,
+        "word": "为什么吃辣椒后会流鼻涕",
+        "onboard_time": 1692094297,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161666,
+        "num": 161666,
+        "word": "北极兔偷偷藏不住",
+        "onboard_time": 1692097961,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160724,
+        "num": 160724,
+        "word": "李玟老公最后一份公开声明",
+        "onboard_time": 1692081937,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在首个全国生态日之际作出重要指示#"
+    }
+  }
+}
