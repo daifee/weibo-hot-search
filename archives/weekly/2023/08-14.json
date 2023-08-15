@@ -1,7 +1,15 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692097995024,
+  "endTime": 1692099231205,
   "band_list": [
+    {
+      "raw_hot": 5217490,
+      "num": 551815,
+      "word": "青你2杜紫怡曝tangoz性骚扰",
+      "onboard_time": 1692098559,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3389639,
       "num": 3389639,
@@ -411,6 +419,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1277494,
+      "num": 1277494,
+      "word": "自己拍的照片被视觉中国告侵权",
+      "onboard_time": 1692091840,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1264764,
       "num": 1264764,
       "word": "为什么电影院的最佳位置没人选",
@@ -539,14 +555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1142096,
-      "num": 1142096,
-      "word": "自己拍的照片被视觉中国告侵权",
-      "onboard_time": 1692091840,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1139072,
       "num": 1139072,
       "word": "特斯拉降价",
@@ -649,6 +657,14 @@
       "onboard_time": 1691988762,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1000280,
+      "num": 551671,
+      "word": "八种容易烂脸的食物",
+      "onboard_time": 1692095974,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 998006,
@@ -795,20 +811,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 872726,
+      "num": 872726,
+      "word": "火树贴脸开大",
+      "onboard_time": 1692097898,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 871176,
       "num": 409915,
       "word": "照身份证千万别把眼睛睁太大",
       "onboard_time": 1692076121,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 857441,
-      "num": 539832,
-      "word": "八种容易烂脸的食物",
-      "onboard_time": 1692095974,
-      "rank": 10,
-      "category": "美食"
     },
     {
       "raw_hot": 855680,
@@ -2187,6 +2203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417006,
+      "num": 417006,
+      "word": "北极兔偷偷藏不住",
+      "onboard_time": 1692097961,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 415153,
       "num": 415153,
       "word": "陈凯歌拍戏40年没这么难过",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1691986602,
       "rank": 49,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 400074,
+      "num": 400074,
+      "word": "内娱新晋颜霸",
+      "onboard_time": 1692098138,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 396565,
@@ -2739,6 +2771,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 326706,
+      "num": 278670,
+      "word": "我以为的30岁vs实际的30岁",
+      "onboard_time": 1692098196,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 326126,
       "num": 326126,
       "word": "爷爷带着花花回家了",
@@ -2875,6 +2915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308488,
+      "num": 308488,
+      "word": "视觉中国客服回应告知名摄影师侵权",
+      "onboard_time": 1692096695,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308410,
       "num": 325753,
       "word": "七夕礼物参考",
@@ -2913,6 +2961,14 @@
       "onboard_time": 1691944529,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 301981,
+      "num": 301981,
+      "word": "成毅肖顺尧还原当年今日名场面",
+      "onboard_time": 1692097297,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 301877,
@@ -3137,14 +3193,6 @@
       "onboard_time": 1692065616,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 283337,
-      "num": 233466,
-      "word": "视觉中国客服回应告知名摄影师侵权",
-      "onboard_time": 1692096695,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283101,
@@ -3459,6 +3507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258500,
+      "num": 258500,
+      "word": "视觉中国创始人称是误会",
+      "onboard_time": 1692099097,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 257837,
       "num": 257837,
       "word": "成毅劝架是赶着去蛇窟",
@@ -3609,14 +3665,6 @@
       "onboard_time": 1691918615,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250684,
-      "num": 250684,
-      "word": "成毅肖顺尧还原当年今日名场面",
-      "onboard_time": 1692097297,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 250659,
@@ -3795,6 +3843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237122,
+      "num": 237122,
+      "word": "江苏警方通报女子被分尸",
+      "onboard_time": 1692099097,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235714,
       "num": 199850,
       "word": "大张伟演唱会歌单",
@@ -3873,6 +3929,14 @@
       "onboard_time": 1692085178,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228287,
+      "num": 228287,
+      "word": "北上广的青旅里挤满找不到工作的人",
+      "onboard_time": 1692097961,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228209,
@@ -4041,6 +4105,14 @@
       "onboard_time": 1692012454,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210497,
+      "num": 210497,
+      "word": "心动的信号",
+      "onboard_time": 1692098978,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 209982,
@@ -4531,14 +4603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179517,
-      "num": 179517,
-      "word": "火树贴脸开大",
-      "onboard_time": 1692097898,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178849,
       "num": 178849,
       "word": "姐的高跟鞋功力已是next level",
@@ -4667,14 +4731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 165127,
-      "num": 165127,
-      "word": "北上广的青旅里挤满找不到工作的人",
-      "onboard_time": 1692097961,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164378,
       "num": 164378,
       "word": "经典刑侦剧为什么百看不厌",
@@ -4697,14 +4753,6 @@
       "onboard_time": 1691978613,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161666,
-      "num": 161666,
-      "word": "北极兔偷偷藏不住",
-      "onboard_time": 1692097961,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 161618,
@@ -5211,6 +5259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31314,
+      "num": 549589,
+      "word": "三代治沙人用百年时间把沙海变绿洲",
+      "onboard_time": 1692097297,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28574,
       "num": 546062,
       "word": "男子跌进急流中3名城管合力施救",
@@ -5257,14 +5313,6 @@
       "onboard_time": 1692041714,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13526,
-      "num": 511234,
-      "word": "三代治沙人用百年时间把沙海变绿洲",
-      "onboard_time": 1692097297,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
