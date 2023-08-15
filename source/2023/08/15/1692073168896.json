@@ -1,0 +1,410 @@
+{
+  "runTime": 1692073168896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3125154,
+        "num": 3125154,
+        "word": "大脑为什么删除2岁前的记忆",
+        "onboard_time": 1692067536,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2185409,
+        "num": 2185409,
+        "word": "张杰电话",
+        "onboard_time": 1692067117,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107898,
+        "num": 1799208,
+        "word": "8K镜头带你看遍大美中国",
+        "onboard_time": 1692067416,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1782945,
+        "num": 1782945,
+        "word": "取已故丈夫190万银行存款遭拒",
+        "onboard_time": 1692070839,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183705,
+        "num": 1183705,
+        "word": "为什么全身脸部的皮肤最差",
+        "onboard_time": 1692068440,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1340381,
+        "num": 1174015,
+        "word": "国家统计局强调当前中国经济不存在通缩",
+        "onboard_time": 1692070541,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1092315,
+        "num": 1092315,
+        "word": "目前大部分毕业生已经落实就业去向",
+        "onboard_time": 1692068378,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 988385,
+        "num": 988385,
+        "word": "易烊千玺去看薛之谦演唱会",
+        "onboard_time": 1692068378,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 910170,
+        "num": 910170,
+        "word": "涂山璟既要又要",
+        "onboard_time": 1692070060,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 581642,
+        "num": 581642,
+        "word": "缅甸",
+        "onboard_time": 1692057756,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790971,
+        "num": 581000,
+        "word": "为什么高铁座位没有E",
+        "onboard_time": 1692071860,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773902,
+        "num": 578598,
+        "word": "梁田自曝遭性骚扰",
+        "onboard_time": 1692057272,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560183,
+        "num": 560183,
+        "word": "青年人城镇调查失业率将暂停发布",
+        "onboard_time": 1692066814,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236324,
+        "num": 558061,
+        "word": "日本投降签字仪式结束于9时18分",
+        "onboard_time": 1692054804,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94057,
+        "num": 557973,
+        "word": "96岁退休教师免费辅导学生23年",
+        "onboard_time": 1692072041,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557950,
+        "num": 557950,
+        "word": "以为是休息实际在耗气血的行为",
+        "onboard_time": 1692055525,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 553354,
+        "num": 553354,
+        "word": "王俊凯小卷毛",
+        "onboard_time": 1692069638,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 462601,
+        "num": 462601,
+        "word": "四六级",
+        "onboard_time": 1692066159,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 422409,
+        "num": 422409,
+        "word": "马立奥真的太有意思了",
+        "onboard_time": 1692071436,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415153,
+        "num": 415153,
+        "word": "陈凯歌拍戏40年没这么难过",
+        "onboard_time": 1692068440,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 856342,
+        "num": 414410,
+        "word": "Doinb下跪道歉",
+        "onboard_time": 1692066875,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 614686,
+        "num": 413888,
+        "word": "女子卖1000斤土豆倒欠2000斤",
+        "onboard_time": 1692070299,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481881,
+        "num": 412944,
+        "word": "精致穷",
+        "onboard_time": 1692070116,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 409730,
+        "num": 409730,
+        "word": "降息",
+        "onboard_time": 1692065853,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188046,
+        "num": 407805,
+        "word": "20岁汕头男生失联数日疑被骗至缅甸",
+        "onboard_time": 1692072880,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405970,
+        "num": 405970,
+        "word": "玱玹也要哭出个名分来",
+        "onboard_time": 1692065315,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396013,
+        "num": 396013,
+        "word": "张颂文术后强忍疼痛拍戏",
+        "onboard_time": 1692069760,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401141,
+        "num": 395765,
+        "word": "邓为谈和杨紫对手戏",
+        "onboard_time": 1692071619,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378699,
+        "num": 378699,
+        "word": "马来西亚男子性侵两女儿致怀孕被判702年",
+        "onboard_time": 1692059978,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358073,
+        "num": 358073,
+        "word": "范丞丞要害纸贴在了要害部位",
+        "onboard_time": 1692068797,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431219,
+        "num": 356103,
+        "word": "余秀华 我知道怎么过情关了",
+        "onboard_time": 1692072161,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350395,
+        "num": 350395,
+        "word": "夭玹帝后枕膝",
+        "onboard_time": 1692071564,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347295,
+        "num": 347295,
+        "word": "杨玏封神路演最大受害者",
+        "onboard_time": 1692070599,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328844,
+        "num": 328844,
+        "word": "男子接完诈骗电话卡里多出14万",
+        "onboard_time": 1692064174,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292986,
+        "num": 292986,
+        "word": "山东一村连续7年给准大学生发助学金",
+        "onboard_time": 1692072103,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 291632,
+        "num": 291632,
+        "word": "向佐一口气带5个娃过暑假",
+        "onboard_time": 1692063574,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287920,
+        "num": 287920,
+        "word": "蔡依林长沙",
+        "onboard_time": 1692071503,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284965,
+        "num": 284965,
+        "word": "NCT文泰一因骨折无法参加演唱会",
+        "onboard_time": 1692072581,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284628,
+        "num": 284628,
+        "word": "邓为会自己给涂山璟上怜爱buff",
+        "onboard_time": 1692067235,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152198,
+        "num": 281669,
+        "word": "今天为3500万同胞发一条微博",
+        "onboard_time": 1692062498,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279021,
+        "num": 279021,
+        "word": "为什么很多公司选择15号发工资",
+        "onboard_time": 1692060637,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278192,
+        "num": 278192,
+        "word": "黄仁俊钟辰乐回国了",
+        "onboard_time": 1692071922,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269288,
+        "num": 269288,
+        "word": "7月全国城镇调查失业率为5.3%",
+        "onboard_time": 1692068378,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 253053,
+        "num": 253053,
+        "word": "张晚意名品演技",
+        "onboard_time": 1692071503,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239914,
+        "num": 239914,
+        "word": "朱一龙李想",
+        "onboard_time": 1692069638,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212640,
+        "num": 212640,
+        "word": "无意中摸过什么不该摸的东西",
+        "onboard_time": 1692066333,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212613,
+        "num": 212613,
+        "word": "毛不易你这么会接梗不要命啦",
+        "onboard_time": 1692069518,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197486,
+        "num": 197486,
+        "word": "魏大勋说战友再见",
+        "onboard_time": 1692070481,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196155,
+        "num": 196155,
+        "word": "封神长尾效应",
+        "onboard_time": 1692072762,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192653,
+        "num": 192653,
+        "word": "夏威夷",
+        "onboard_time": 1692072880,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第一个全国生态日#"
+    }
+  }
+}

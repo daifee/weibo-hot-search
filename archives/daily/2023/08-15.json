@@ -1,7 +1,15 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692070427377,
+  "endTime": 1692073168896,
   "band_list": [
+    {
+      "raw_hot": 3125154,
+      "num": 3125154,
+      "word": "大脑为什么删除2岁前的记忆",
+      "onboard_time": 1692067536,
+      "rank": 7,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3006733,
       "num": 3006733,
@@ -27,14 +35,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2015135,
-      "num": 2015135,
-      "word": "大脑为什么删除2岁前的记忆",
-      "onboard_time": 1692067536,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1891434,
       "num": 1891434,
       "word": "以为是休息实际在耗气血的行为",
@@ -49,6 +49,14 @@
       "onboard_time": 1692026257,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1782945,
+      "num": 1782945,
+      "word": "取已故丈夫190万银行存款遭拒",
+      "onboard_time": 1692070839,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1716373,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1340381,
+      "num": 1174015,
+      "word": "国家统计局强调当前中国经济不存在通缩",
+      "onboard_time": 1692070541,
+      "rank": 5,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1258724,
       "num": 1258724,
       "word": "伊甸园字幕组解散",
@@ -91,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1183705,
+      "num": 1183705,
+      "word": "为什么全身脸部的皮肤最差",
+      "onboard_time": 1692068440,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1176771,
       "num": 1176771,
       "word": "一个人如果突然关了微信运动",
@@ -105,6 +129,14 @@
       "onboard_time": 1692068378,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1092315,
+      "num": 1092315,
+      "word": "目前大部分毕业生已经落实就业去向",
+      "onboard_time": 1692068378,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1073372,
@@ -131,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 973559,
-      "num": 973559,
-      "word": "为什么全身脸部的皮肤最差",
-      "onboard_time": 1692068440,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 971543,
       "num": 971543,
       "word": "男子接完诈骗电话卡里多出14万",
@@ -153,6 +177,14 @@
       "onboard_time": 1692024941,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910170,
+      "num": 910170,
+      "word": "涂山璟既要又要",
+      "onboard_time": 1692070060,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 900187,
@@ -179,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790971,
+      "num": 581000,
+      "word": "为什么高铁座位没有E",
+      "onboard_time": 1692071860,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 768649,
       "num": 768649,
       "word": "日本战败投降78周年",
@@ -193,14 +233,6 @@
       "onboard_time": 1692055827,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 754223,
-      "num": 754223,
-      "word": "目前大部分毕业生已经落实就业去向",
-      "onboard_time": 1692068378,
-      "rank": 27,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 749667,
@@ -259,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 614686,
+      "num": 413888,
+      "word": "女子卖1000斤土豆倒欠2000斤",
+      "onboard_time": 1692070299,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613018,
       "num": 613018,
       "word": "原来高铁票里面有金属线圈",
@@ -289,6 +329,14 @@
       "onboard_time": 1692055225,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 553354,
+      "num": 553354,
+      "word": "王俊凯小卷毛",
+      "onboard_time": 1692069638,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 552637,
@@ -347,6 +395,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 481881,
+      "num": 412944,
+      "word": "精致穷",
+      "onboard_time": 1692070116,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 456391,
       "num": 510531,
       "word": "向佐一口气带5个娃过暑假",
@@ -395,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431219,
+      "num": 356103,
+      "word": "余秀华 我知道怎么过情关了",
+      "onboard_time": 1692072161,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431138,
       "num": 365347,
       "word": "质疑紫米理解紫米成为紫米",
@@ -427,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422409,
+      "num": 422409,
+      "word": "马立奥真的太有意思了",
+      "onboard_time": 1692071436,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 415153,
+      "num": 415153,
+      "word": "陈凯歌拍戏40年没这么难过",
+      "onboard_time": 1692068440,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 407690,
       "num": 407690,
       "word": "盗月社内蒙吃肉 有人却差点饿死",
@@ -435,12 +515,28 @@
       "category": "美食,旅游"
     },
     {
+      "raw_hot": 401141,
+      "num": 395765,
+      "word": "邓为谈和杨紫对手戏",
+      "onboard_time": 1692071619,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396565,
       "num": 396565,
       "word": "入境旅客因照片像别人找到失散双胞胎兄弟",
       "onboard_time": 1692047172,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396013,
+      "num": 396013,
+      "word": "张颂文术后强忍疼痛拍戏",
+      "onboard_time": 1692069760,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 394492,
@@ -475,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 383282,
-      "num": 383282,
-      "word": "陈凯歌拍戏40年没这么难过",
-      "onboard_time": 1692068440,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 380937,
       "num": 380937,
       "word": "陈牧驰不要哭 要拍戏拍到八十岁",
@@ -515,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349849,
-      "num": 349849,
-      "word": "王俊凯小卷毛",
-      "onboard_time": 1692069638,
-      "rank": 26,
-      "category": "作品衍生,时尚"
+      "raw_hot": 350395,
+      "num": 350395,
+      "word": "夭玹帝后枕膝",
+      "onboard_time": 1692071564,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 347341,
@@ -529,6 +617,14 @@
       "onboard_time": 1692022539,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347295,
+      "num": 347295,
+      "word": "杨玏封神路演最大受害者",
+      "onboard_time": 1692070599,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 345560,
@@ -595,12 +691,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 292986,
+      "num": 292986,
+      "word": "山东一村连续7年给准大学生发助学金",
+      "onboard_time": 1692072103,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 291486,
       "num": 291486,
       "word": "广州人至暗时刻",
       "onboard_time": 1692060698,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 287920,
+      "num": 287920,
+      "word": "蔡依林长沙",
+      "onboard_time": 1692071503,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 286001,
@@ -625,6 +737,14 @@
       "onboard_time": 1692056248,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284965,
+      "num": 284965,
+      "word": "NCT文泰一因骨折无法参加演唱会",
+      "onboard_time": 1692072581,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 284570,
@@ -657,6 +777,14 @@
       "onboard_time": 1692064537,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278192,
+      "num": 278192,
+      "word": "黄仁俊钟辰乐回国了",
+      "onboard_time": 1692071922,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 277631,
@@ -747,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253053,
+      "num": 253053,
+      "word": "张晚意名品演技",
+      "onboard_time": 1692071503,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252848,
       "num": 252848,
       "word": "港媒曝周润发不听医嘱继续跑步",
@@ -811,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239914,
+      "num": 239914,
+      "word": "朱一龙李想",
+      "onboard_time": 1692069638,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227578,
       "num": 227578,
       "word": "中国男篮加油",
@@ -851,22 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211810,
-      "num": 211810,
-      "word": "涂山璟既要又要",
-      "onboard_time": 1692070060,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 205413,
-      "num": 205413,
-      "word": "朱一龙李想",
-      "onboard_time": 1692069638,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 205381,
       "num": 205381,
       "word": "志愿军",
@@ -889,22 +1017,6 @@
       "onboard_time": 1692069638,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 202217,
-      "num": 202217,
-      "word": "张颂文术后强忍疼痛拍戏",
-      "onboard_time": 1692069760,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 202165,
-      "num": 202165,
-      "word": "精致穷",
-      "onboard_time": 1692070116,
-      "rank": 41,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 200059,
@@ -939,6 +1051,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197486,
+      "num": 197486,
+      "word": "魏大勋说战友再见",
+      "onboard_time": 1692070481,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196155,
+      "num": 196155,
+      "word": "封神长尾效应",
+      "onboard_time": 1692072762,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193844,
       "num": 180358,
       "word": "夭柳抱上了",
@@ -947,12 +1075,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192653,
+      "num": 192653,
+      "word": "夏威夷",
+      "onboard_time": 1692072880,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191411,
       "num": 191411,
       "word": "李昀锐跳queencard",
       "onboard_time": 1692058415,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188046,
+      "num": 407805,
+      "word": "20岁汕头男生失联数日疑被骗至缅甸",
+      "onboard_time": 1692072880,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186053,
@@ -1001,14 +1145,6 @@
       "onboard_time": 1692036496,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175205,
-      "num": 175205,
-      "word": "女子卖1000斤土豆倒欠2000斤",
-      "onboard_time": 1692070299,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171268,
@@ -1212,7 +1348,7 @@
     },
     {
       "raw_hot": 110595,
-      "num": 1585189,
+      "num": 1799208,
       "word": "8K镜头带你看遍大美中国",
       "onboard_time": 1692067416,
       "rank": 2,
@@ -1241,6 +1377,14 @@
       "onboard_time": 1692055646,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 94057,
+      "num": 557973,
+      "word": "96岁退休教师免费辅导学生23年",
+      "onboard_time": 1692072041,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91799,
