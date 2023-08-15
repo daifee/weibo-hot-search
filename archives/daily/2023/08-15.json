@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692087615028,
+  "endTime": 1692088436442,
   "band_list": [
     {
       "raw_hot": 3389639,
@@ -51,12 +51,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2045109,
-      "num": 2045109,
+      "raw_hot": 2286631,
+      "num": 2286631,
       "word": "银行卡内突然到账14.8万",
       "onboard_time": 1692084639,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2285389,
+      "num": 1102119,
+      "word": "日媒曝福原爱或将面临国际通缉",
+      "onboard_time": 1692085901,
+      "rank": 3,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 2011692,
@@ -65,14 +73,6 @@
       "onboard_time": 1692070839,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1929012,
-      "num": 1102119,
-      "word": "日媒曝福原爱或将面临国际通缉",
-      "onboard_time": 1692085901,
-      "rank": 3,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1891434,
@@ -523,20 +523,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570056,
+      "num": 500538,
+      "word": "Angelababy与小海绵现身机场",
+      "onboard_time": 1692084937,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568959,
       "num": 568959,
       "word": "唐嫣念无双妆造换了",
       "onboard_time": 1692055225,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 558573,
-      "num": 435605,
-      "word": "Angelababy与小海绵现身机场",
-      "onboard_time": 1692084937,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 553354,
@@ -595,12 +595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538037,
+      "num": 384185,
+      "word": "没想到离职半年还能背锅",
+      "onboard_time": 1692085600,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 525228,
       "num": 525228,
       "word": "余秀华 我知道怎么过情关了",
       "onboard_time": 1692072161,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515562,
+      "num": 515562,
+      "word": "世界上最大的兔子",
+      "onboard_time": 1692084878,
+      "rank": 9,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 509533,
@@ -675,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 466377,
-      "num": 377923,
-      "word": "没想到离职半年还能背锅",
-      "onboard_time": 1692085600,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 462584,
       "num": 462584,
       "word": "张杰演唱会",
@@ -715,6 +723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 454940,
+      "num": 454940,
+      "word": "椰果不是椰肉是细菌产物",
+      "onboard_time": 1692085840,
+      "rank": 17,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 454700,
       "num": 454700,
       "word": "相柳 将军帐",
@@ -739,12 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 449457,
-      "num": 449457,
-      "word": "世界上最大的兔子",
-      "onboard_time": 1692084878,
-      "rank": 9,
-      "category": "幽默,情感"
+      "raw_hot": 450578,
+      "num": 450578,
+      "word": "马嘉祺 EP",
+      "onboard_time": 1692087039,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 449059,
@@ -761,14 +777,6 @@
       "onboard_time": 1692064774,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 430937,
-      "num": 430937,
-      "word": "椰果不是椰肉是细菌产物",
-      "onboard_time": 1692085840,
-      "rank": 17,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 428753,
@@ -915,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378262,
+      "num": 378262,
+      "word": "缅甸五星级酒店300多元都没人去",
+      "onboard_time": 1692083440,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 378097,
       "num": 352949,
       "word": "无意中摸过什么不该摸的东西",
@@ -953,14 +969,6 @@
       "onboard_time": 1692072581,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 354623,
-      "num": 354623,
-      "word": "缅甸五星级酒店300多元都没人去",
-      "onboard_time": 1692083440,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 347341,
@@ -1003,6 +1011,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 329760,
+      "num": 264074,
+      "word": "男子为制止女友大喊亲吻被咬断舌头",
+      "onboard_time": 1692088119,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328184,
       "num": 572900,
       "word": "夏威夷大火约1300人失踪",
@@ -1043,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311971,
+      "num": 311971,
+      "word": "孤注一掷 删减",
+      "onboard_time": 1692086799,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310548,
       "num": 310548,
       "word": "涂山璟你否认啊",
@@ -1056,14 +1080,6 @@
       "word": "杨玏 陈牧驰原地起飞发射那种",
       "onboard_time": 1692073722,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 306956,
-      "num": 306956,
-      "word": "孤注一掷 删减",
-      "onboard_time": 1692086799,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -1427,12 +1443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246762,
-      "num": 246762,
-      "word": "马嘉祺 EP",
-      "onboard_time": 1692087039,
-      "rank": 32,
-      "category": "音乐"
+      "raw_hot": 247316,
+      "num": 247316,
+      "word": "历次A股印花税调整后上证指数表现",
+      "onboard_time": 1692086564,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 244966,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1692014796,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244745,
+      "num": 244745,
+      "word": "答题卡这名字太不吉利",
+      "onboard_time": 1692087579,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 244540,
@@ -1619,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198891,
-      "num": 198891,
-      "word": "历次A股印花税调整后上证指数表现",
-      "onboard_time": 1692086564,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 198837,
       "num": 198837,
       "word": "一路朝阳好看吗",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1692086499,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193404,
+      "num": 193404,
+      "word": "张雨绮蓝色美人鱼",
+      "onboard_time": 1692088059,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 193304,
@@ -1715,6 +1739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184327,
+      "num": 184327,
+      "word": "防小猫咪拆家的纯狱风装修",
+      "onboard_time": 1692086019,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183885,
       "num": 183885,
       "word": "刘涛一次性发了36张图",
@@ -1753,14 +1785,6 @@
       "onboard_time": 1692036496,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176084,
-      "num": 176084,
-      "word": "防小猫咪拆家的纯狱风装修",
-      "onboard_time": 1692086019,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 175774,
@@ -1825,14 +1849,6 @@
       "onboard_time": 1692028054,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150725,
-      "num": 150725,
-      "word": "答题卡这名字太不吉利",
-      "onboard_time": 1692087579,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 149595,
@@ -2043,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71483,
+      "num": 1128658,
+      "word": "人类全程护送藏羚羊回家画面太暖了",
+      "onboard_time": 1692087162,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71413,
       "num": 71413,
       "word": "带癌生存五年的概率提高至40.5%",
@@ -2073,14 +2097,6 @@
       "onboard_time": 1692021220,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 40335,
-      "num": 1128658,
-      "word": "人类全程护送藏羚羊回家画面太暖了",
-      "onboard_time": 1692087162,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39783,
@@ -2131,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27759,
+      "num": 465253,
+      "word": "什么才是安全的汽车",
+      "onboard_time": 1692085540,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27401,
       "num": 32635,
       "word": "周杰伦 送上大家一张三宝爸的帅照",
@@ -2164,6 +2188,9 @@
     },
     {
       "word": "#今天是首个全国生态日#"
+    },
+    {
+      "word": "#习近平在首个全国生态日之际作出重要指示#"
     }
   ]
 }
