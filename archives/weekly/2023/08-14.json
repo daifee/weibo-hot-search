@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692080449515,
+  "endTime": 1692081229955,
   "band_list": [
     {
       "raw_hot": 3125154,
@@ -57,6 +57,14 @@
       "onboard_time": 1692004118,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2161783,
+      "num": 2161783,
+      "word": "韩国首尔",
+      "onboard_time": 1692079895,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2028603,
@@ -217,6 +225,14 @@
       "onboard_time": 1692013356,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1524551,
+      "num": 1524551,
+      "word": "中国总和生育率已跌至1.09",
+      "onboard_time": 1692079116,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1513286,
@@ -795,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 761221,
-      "num": 761221,
-      "word": "中国总和生育率已跌至1.09",
-      "onboard_time": 1692079116,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 760870,
       "num": 579193,
       "word": "我啥档次啊也配跟你埋一个坟",
@@ -832,6 +840,14 @@
       "word": "杨超越账号被卡无法上线",
       "onboard_time": 1691956395,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 737843,
+      "num": 737843,
+      "word": "小夭一句嫂嫂创飞了两个人",
+      "onboard_time": 1692077257,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -929,22 +945,6 @@
       "onboard_time": 1691940160,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 702332,
-      "num": 702332,
-      "word": "小夭一句嫂嫂创飞了两个人",
-      "onboard_time": 1692077257,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 699289,
-      "num": 699289,
-      "word": "韩国首尔",
-      "onboard_time": 1692079895,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 696951,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1692021881,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 587924,
+      "num": 587924,
+      "word": "卫健委回应阜外医院徐波腐败案",
+      "onboard_time": 1692079656,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585751,
@@ -1539,14 +1547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 488522,
-      "num": 538689,
-      "word": "卫健委回应阜外医院徐波腐败案",
-      "onboard_time": 1692079656,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 484235,
       "num": 484235,
       "word": "你fun的可是straight",
@@ -1609,6 +1609,14 @@
       "onboard_time": 1692002498,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 469368,
+      "num": 469368,
+      "word": "韩国又现恐吓邮件称炸毁首尔市政府",
+      "onboard_time": 1692080855,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466585,
@@ -1779,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 431527,
+      "num": 431527,
+      "word": "播一部火一部的明星",
+      "onboard_time": 1692080074,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431138,
       "num": 365347,
       "word": "质疑紫米理解紫米成为紫米",
@@ -1945,6 +1961,14 @@
       "onboard_time": 1691986602,
       "rank": 49,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 399539,
+      "num": 399539,
+      "word": "退休干部招募敢死队密谋暴力行动",
+      "onboard_time": 1692079297,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396565,
@@ -2275,14 +2299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 333911,
-      "num": 333911,
-      "word": "退休干部招募敢死队密谋暴力行动",
-      "onboard_time": 1692079297,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333640,
       "num": 547701,
       "word": "熊猫崽崽挺着小肚皮扶墙行走",
@@ -2313,6 +2329,14 @@
       "onboard_time": 1691995775,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328848,
+      "num": 328848,
+      "word": "一英国人长期感染新冠导致腿变蓝",
+      "onboard_time": 1692080436,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328381,
@@ -3043,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256143,
+      "num": 256143,
+      "word": "玉骨遥暑假剧集热度TOP1",
+      "onboard_time": 1692078876,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255052,
       "num": 255052,
       "word": "邓紫棋15岁时第一次见薛之谦",
@@ -3139,14 +3171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 249336,
-      "num": 249336,
-      "word": "播一部火一部的明星",
-      "onboard_time": 1692080074,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 249326,
       "num": 249326,
       "word": "假如小夭统一大荒把四个全娶了",
@@ -3217,14 +3241,6 @@
       "onboard_time": 1691974297,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243421,
-      "num": 243421,
-      "word": "玉骨遥暑假剧集热度TOP1",
-      "onboard_time": 1692078876,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 243265,
@@ -3331,20 +3347,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232820,
+      "num": 232820,
+      "word": "吴世勋谢谢下次见",
+      "onboard_time": 1692078397,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231560,
       "num": 231560,
       "word": "时尚芭莎拍的钟汉良秦岚",
       "onboard_time": 1691982698,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 231005,
-      "num": 231005,
-      "word": "吴世勋谢谢下次见",
-      "onboard_time": 1692078397,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 230834,
@@ -3987,14 +4003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167554,
-      "num": 167554,
-      "word": "一英国人长期感染新冠导致腿变蓝",
-      "onboard_time": 1692080436,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166840,
       "num": 158740,
       "word": "内娱cp感强的演员",
@@ -4035,6 +4043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162677,
+      "num": 162677,
+      "word": "摩羯座恋爱误区",
+      "onboard_time": 1692080255,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161618,
       "num": 161618,
       "word": "早退时碰到同样早退的领导",
@@ -4048,14 +4064,6 @@
       "word": "社恐体验中最难受的地方",
       "onboard_time": 1692016416,
       "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 157957,
-      "num": 157957,
-      "word": "摩羯座恋爱误区",
-      "onboard_time": 1692080255,
-      "rank": 47,
       "category": "情感"
     },
     {
@@ -4227,7 +4235,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125382,
+      "raw_hot": 127308,
       "num": 149874,
       "word": "曙光英雄",
       "onboard_time": 1692077917,
@@ -4363,6 +4371,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 90024,
+      "num": 538260,
+      "word": "父子把流浪大叔带回家接力照顾42年",
+      "onboard_time": 1692079236,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87660,
       "num": 360547,
       "word": "文咏珊重现沙滩名场面",
@@ -4441,14 +4457,6 @@
       "onboard_time": 1691951237,
       "rank": 33,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 58107,
-      "num": 538260,
-      "word": "父子把流浪大叔带回家接力照顾42年",
-      "onboard_time": 1692079236,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56816,

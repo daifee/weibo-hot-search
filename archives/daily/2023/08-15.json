@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692080449515,
+  "endTime": 1692081229955,
   "band_list": [
     {
       "raw_hot": 3125154,
@@ -33,6 +33,14 @@
       "onboard_time": 1692057272,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2161783,
+      "num": 2161783,
+      "word": "韩国首尔",
+      "onboard_time": 1692079895,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2011692,
@@ -73,6 +81,14 @@
       "onboard_time": 1692066875,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1524551,
+      "num": 1524551,
+      "word": "中国总和生育率已跌至1.09",
+      "onboard_time": 1692079116,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1392687,
@@ -275,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 761221,
-      "num": 761221,
-      "word": "中国总和生育率已跌至1.09",
-      "onboard_time": 1692079116,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 760870,
       "num": 579193,
       "word": "我啥档次啊也配跟你埋一个坟",
@@ -297,6 +305,14 @@
       "onboard_time": 1692061418,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 737843,
+      "num": 737843,
+      "word": "小夭一句嫂嫂创飞了两个人",
+      "onboard_time": 1692077257,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 735412,
@@ -321,22 +337,6 @@
       "onboard_time": 1692065315,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 702332,
-      "num": 702332,
-      "word": "小夭一句嫂嫂创飞了两个人",
-      "onboard_time": 1692077257,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 699289,
-      "num": 699289,
-      "word": "韩国首尔",
-      "onboard_time": 1692079895,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 690528,
@@ -417,6 +417,14 @@
       "onboard_time": 1692066159,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 587924,
+      "num": 587924,
+      "word": "卫健委回应阜外医院徐波腐败案",
+      "onboard_time": 1692079656,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585507,
@@ -539,20 +547,20 @@
       "category": "幽默,音乐"
     },
     {
-      "raw_hot": 488522,
-      "num": 538689,
-      "word": "卫健委回应阜外医院徐波腐败案",
-      "onboard_time": 1692079656,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 481881,
       "num": 459600,
       "word": "精致穷",
       "onboard_time": 1692070116,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 469368,
+      "num": 469368,
+      "word": "韩国又现恐吓邮件称炸毁首尔市政府",
+      "onboard_time": 1692080855,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462584,
@@ -616,6 +624,14 @@
       "word": "孤注一掷代码都是真的",
       "onboard_time": 1692076421,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 431527,
+      "num": 431527,
+      "word": "播一部火一部的明星",
+      "onboard_time": 1692080074,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -689,6 +705,14 @@
       "onboard_time": 1692071619,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 399539,
+      "num": 399539,
+      "word": "退休干部招募敢死队密谋暴力行动",
+      "onboard_time": 1692079297,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396565,
@@ -835,11 +859,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 333911,
-      "num": 333911,
-      "word": "退休干部招募敢死队密谋暴力行动",
-      "onboard_time": 1692079297,
-      "rank": 24,
+      "raw_hot": 328848,
+      "num": 328848,
+      "word": "一英国人长期感染新冠导致腿变蓝",
+      "onboard_time": 1692080436,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1155,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256143,
+      "num": 256143,
+      "word": "玉骨遥暑假剧集热度TOP1",
+      "onboard_time": 1692078876,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253994,
       "num": 253994,
       "word": "夭柳抱上了",
@@ -1211,14 +1243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 249336,
-      "num": 249336,
-      "word": "播一部火一部的明星",
-      "onboard_time": 1692080074,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 244966,
       "num": 244966,
       "word": "爸爸当家2收官长文",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1692054081,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243421,
-      "num": 243421,
-      "word": "玉骨遥暑假剧集热度TOP1",
-      "onboard_time": 1692078876,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 243019,
@@ -1283,8 +1299,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 231005,
-      "num": 231005,
+      "raw_hot": 232820,
+      "num": 232820,
       "word": "吴世勋谢谢下次见",
       "onboard_time": 1692078397,
       "rank": 34,
@@ -1515,14 +1531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167554,
-      "num": 167554,
-      "word": "一英国人长期感染新冠导致腿变蓝",
-      "onboard_time": 1692080436,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166840,
       "num": 158740,
       "word": "内娱cp感强的演员",
@@ -1539,8 +1547,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157957,
-      "num": 157957,
+      "raw_hot": 162677,
+      "num": 162677,
       "word": "摩羯座恋爱误区",
       "onboard_time": 1692080255,
       "rank": 47,
@@ -1651,20 +1659,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127308,
+      "num": 149874,
+      "word": "曙光英雄",
+      "onboard_time": 1692077917,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126613,
       "num": 126613,
       "word": "中国警察让孤注一掷导演不要害怕",
       "onboard_time": 1691993195,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125382,
-      "num": 149874,
-      "word": "曙光英雄",
-      "onboard_time": 1692077917,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 124796,
@@ -1763,19 +1771,19 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 90024,
+      "num": 538260,
+      "word": "父子把流浪大叔带回家接力照顾42年",
+      "onboard_time": 1692079236,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71413,
       "num": 71413,
       "word": "带癌生存五年的概率提高至40.5%",
       "onboard_time": 1692041295,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58107,
-      "num": 538260,
-      "word": "父子把流浪大叔带回家接力照顾42年",
-      "onboard_time": 1692079236,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
