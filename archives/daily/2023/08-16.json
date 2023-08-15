@@ -1,6 +1,6 @@
 {
   "startTime": 1692116466090,
-  "endTime": 1692126777441,
+  "endTime": 1692128022584,
   "band_list": [
     {
       "raw_hot": 2596799,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71929,
+      "num": 52186,
+      "word": "女子称带3娃买4张票登机被拒",
+      "onboard_time": 1692125536,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64703,
       "num": 94938,
       "word": "谁抢到林俊杰门票",
@@ -475,15 +483,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35161,
-      "num": 35161,
+      "raw_hot": 38957,
+      "num": 38957,
       "word": "8分钟剖析檀健次演相柳",
       "onboard_time": 1692125116,
       "rank": 33,
       "category": "影视"
     },
     {
-      "raw_hot": 30448,
+      "raw_hot": 33852,
       "num": 37325,
       "word": "终于知道怎么挑新鲜蔬菜了",
       "onboard_time": 1692123617,
@@ -507,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28655,
-      "num": 28655,
-      "word": "女子称带3娃买4张票登机被拒",
-      "onboard_time": 1692125536,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 25863,
+      "num": 25863,
+      "word": "与涂山璟携手共赏大荒",
+      "onboard_time": 1692127335,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 11240,
