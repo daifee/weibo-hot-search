@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692061735826,
+  "endTime": 1692062930703,
   "band_list": [
     {
       "raw_hot": 2657173,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1882805,
-      "num": 1882805,
+      "raw_hot": 1891434,
+      "num": 1891434,
       "word": "以为是休息实际在耗气血的行为",
       "onboard_time": 1692055525,
       "rank": 1,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760870,
+      "num": 579193,
+      "word": "我啥档次啊也配跟你埋一个坟",
+      "onboard_time": 1692055827,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 735412,
       "num": 735412,
       "word": "长相思结局",
@@ -123,16 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 630908,
-      "num": 579193,
-      "word": "我啥档次啊也配跟你埋一个坟",
-      "onboard_time": 1692055827,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 626979,
-      "num": 626979,
+      "raw_hot": 665923,
+      "num": 665923,
       "word": "弟弟中暑我妈给他做的绿豆汤",
       "onboard_time": 1692057633,
       "rank": 5,
@@ -179,7 +179,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 521062,
+      "raw_hot": 551648,
+      "num": 500674,
+      "word": "刘楚恬文化课成绩",
+      "onboard_time": 1692061418,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 541052,
       "num": 596271,
       "word": "日本投降签字仪式结束于9时18分",
       "onboard_time": 1692054804,
@@ -203,6 +211,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 454979,
+      "num": 454979,
+      "word": "火车上不认识的四个人一起看电影",
+      "onboard_time": 1692056428,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 454700,
       "num": 454700,
       "word": "相柳 将军帐",
@@ -219,12 +235,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 440999,
-      "num": 440999,
-      "word": "火车上不认识的四个人一起看电影",
-      "onboard_time": 1692056428,
-      "rank": 16,
-      "category": "幽默"
+      "raw_hot": 443003,
+      "num": 353124,
+      "word": "为什么很多公司选择15号发工资",
+      "onboard_time": 1692060637,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 427954,
@@ -232,6 +248,14 @@
       "word": "封神 把一切简化为做成一件事",
       "onboard_time": 1692027395,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 412863,
+      "num": 412863,
+      "word": "王大陆发长文感恩孤注一掷剧组",
+      "onboard_time": 1692062314,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -323,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309658,
+      "num": 309658,
+      "word": "长相思全员告别角色",
+      "onboard_time": 1692060576,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306757,
       "num": 306757,
       "word": "癌症在我国已经熬成慢性病",
@@ -345,6 +377,14 @@
       "onboard_time": 1692024399,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 291486,
+      "num": 291486,
+      "word": "广州人至暗时刻",
+      "onboard_time": 1692060698,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 286001,
@@ -379,20 +419,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281016,
-      "num": 281016,
-      "word": "长相思全员告别角色",
-      "onboard_time": 1692060576,
-      "rank": 29,
+      "raw_hot": 282359,
+      "num": 282359,
+      "word": "婆婆被猫咬取戒指时消防员帮吹气",
+      "onboard_time": 1692059439,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277631,
+      "num": 277631,
+      "word": "小夭从来不是他们的第一选择",
+      "onboard_time": 1692061059,
+      "rank": 44,
       "category": "影视"
     },
     {
-      "raw_hot": 269291,
-      "num": 269291,
-      "word": "刘楚恬文化课成绩",
-      "onboard_time": 1692061418,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 268062,
+      "num": 267670,
+      "word": "杨紫直播背景",
+      "onboard_time": 1692059799,
+      "rank": 31,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 267820,
@@ -403,44 +451,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 267670,
-      "num": 267670,
-      "word": "杨紫直播背景",
-      "onboard_time": 1692059799,
-      "rank": 31,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 267447,
       "num": 267447,
       "word": "相柳成全小夭涂山璟",
       "onboard_time": 1692022661,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266858,
-      "num": 266858,
-      "word": "广州人至暗时刻",
-      "onboard_time": 1692060698,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 264449,
-      "num": 264449,
-      "word": "为什么很多公司选择15号发工资",
-      "onboard_time": 1692060637,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 257937,
-      "num": 257545,
-      "word": "婆婆被猫咬取戒指时消防员帮吹气",
-      "onboard_time": 1692059439,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257739,
@@ -475,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250173,
+      "num": 250173,
+      "word": "为什么猫容易成为厕所搭子",
+      "onboard_time": 1692061118,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244966,
       "num": 244966,
       "word": "爸爸当家2收官长文",
@@ -489,6 +513,14 @@
       "onboard_time": 1692054081,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243019,
+      "num": 243019,
+      "word": "国产剧美惨强的角色",
+      "onboard_time": 1692061838,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 240975,
@@ -515,14 +547,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 216857,
-      "num": 181099,
-      "word": "小夭从来不是他们的第一选择",
-      "onboard_time": 1692061059,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216547,
       "num": 216547,
       "word": "TVB自古不产傻白甜",
@@ -539,14 +563,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 213782,
-      "num": 213782,
-      "word": "为什么猫容易成为厕所搭子",
-      "onboard_time": 1692061118,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 212958,
       "num": 212958,
       "word": "18岁的施瓦辛格和同龄同学",
@@ -555,12 +571,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207059,
+      "num": 207059,
+      "word": "金晨微指破亿",
+      "onboard_time": 1692062735,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203129,
       "num": 203129,
       "word": "螺蛳粉里放什么菜最好吃",
       "onboard_time": 1692058777,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 200059,
+      "num": 200059,
+      "word": "胡锡进 说夏威夷大火是人祸相当够格",
+      "onboard_time": 1692060758,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198837,
+      "num": 198837,
+      "word": "一路朝阳好看吗",
+      "onboard_time": 1692062673,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 198566,
@@ -577,14 +617,6 @@
       "onboard_time": 1692058415,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187836,
-      "num": 187836,
-      "word": "胡锡进 说夏威夷大火是人祸相当够格",
-      "onboard_time": 1692060758,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183885,
@@ -675,6 +707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 147949,
+      "num": 147949,
+      "word": "年轻的二次元",
+      "onboard_time": 1692062195,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146624,
       "num": 159190,
       "word": "大熊猫思嘉对公主床爱不释手",
@@ -713,6 +753,14 @@
       "onboard_time": 1692005617,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139010,
+      "num": 495241,
+      "word": "今天为3500万同胞发一条微博",
+      "onboard_time": 1692062498,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136937,

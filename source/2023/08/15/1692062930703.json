@@ -1,0 +1,410 @@
+{
+  "runTime": 1692062930703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2429428,
+        "num": 2429428,
+        "word": "缅甸",
+        "onboard_time": 1692057756,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1891434,
+        "num": 1891434,
+        "word": "以为是休息实际在耗气血的行为",
+        "onboard_time": 1692055525,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 48280,
+        "num": 1211292,
+        "word": "子弟兵在抗洪一线",
+        "onboard_time": 1692019180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965393,
+        "num": 965393,
+        "word": "涂山璟和小夭分手 真哭了",
+        "onboard_time": 1692026257,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 920735,
+        "num": 920735,
+        "word": "一个人如果突然关了微信运动",
+        "onboard_time": 1692055886,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 665923,
+        "num": 665923,
+        "word": "弟弟中暑我妈给他做的绿豆汤",
+        "onboard_time": 1692057633,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 573762,
+        "num": 573762,
+        "word": "长相思相柳封神瞬间",
+        "onboard_time": 1692058715,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 541052,
+        "num": 541052,
+        "word": "日本投降签字仪式结束于9时18分",
+        "onboard_time": 1692054804,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513476,
+        "num": 513476,
+        "word": "王传君 这届的观众真难带",
+        "onboard_time": 1692046094,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506538,
+        "num": 506538,
+        "word": "唐嫣念无双妆造换了",
+        "onboard_time": 1692055225,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2387562,
+        "num": 505767,
+        "word": "梁田自曝遭性骚扰",
+        "onboard_time": 1692057272,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760870,
+        "num": 502159,
+        "word": "我啥档次啊也配跟你埋一个坟",
+        "onboard_time": 1692055827,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 551648,
+        "num": 500674,
+        "word": "刘楚恬文化课成绩",
+        "onboard_time": 1692061418,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288760,
+        "num": 496626,
+        "word": "夏威夷大火约1300人失踪",
+        "onboard_time": 1692057932,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139010,
+        "num": 495241,
+        "word": "今天为3500万同胞发一条微博",
+        "onboard_time": 1692062498,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493417,
+        "num": 493417,
+        "word": "湖北宜昌山体岩石崩塌致7人死亡",
+        "onboard_time": 1692059859,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454979,
+        "num": 454979,
+        "word": "火车上不认识的四个人一起看电影",
+        "onboard_time": 1692056428,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427142,
+        "num": 427142,
+        "word": "原来高铁票里面有金属线圈",
+        "onboard_time": 1692055225,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412863,
+        "num": 412863,
+        "word": "王大陆发长文感恩孤注一掷剧组",
+        "onboard_time": 1692062314,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356705,
+        "num": 356705,
+        "word": "王嘉尔真的在上班啊",
+        "onboard_time": 1692056008,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1683043,
+        "num": 354125,
+        "word": "男子性侵两女儿致怀孕被判702年",
+        "onboard_time": 1692059978,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630331,
+        "num": 353721,
+        "word": "亲眼目睹父亲当街杀母亲女孩发声",
+        "onboard_time": 1692018880,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443003,
+        "num": 353124,
+        "word": "为什么很多公司选择15号发工资",
+        "onboard_time": 1692060637,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351253,
+        "num": 351253,
+        "word": "陈牧驰不要哭 要拍戏拍到八十岁",
+        "onboard_time": 1692058234,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352172,
+        "num": 346541,
+        "word": "玱玹 你怎么知道我是个疯子",
+        "onboard_time": 1692057272,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320510,
+        "num": 320510,
+        "word": "只有i人才懂much为封神做e的伟大",
+        "onboard_time": 1692059256,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309658,
+        "num": 309658,
+        "word": "长相思全员告别角色",
+        "onboard_time": 1692060576,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291486,
+        "num": 291486,
+        "word": "广州人至暗时刻",
+        "onboard_time": 1692060698,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282359,
+        "num": 282359,
+        "word": "婆婆被猫咬取戒指时消防员帮吹气",
+        "onboard_time": 1692059439,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277631,
+        "num": 277631,
+        "word": "小夭从来不是他们的第一选择",
+        "onboard_time": 1692061059,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275680,
+        "num": 275680,
+        "word": "卫星地图看缅甸KK园区",
+        "onboard_time": 1692024941,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265001,
+        "num": 265001,
+        "word": "马杨马君妍结婚证",
+        "onboard_time": 1692054742,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262971,
+        "num": 262971,
+        "word": "杭州女白领被骗回家当厂妹火了",
+        "onboard_time": 1692022420,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258051,
+        "num": 258051,
+        "word": "这样的豆浆千万别再喝了",
+        "onboard_time": 1692027455,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250173,
+        "num": 250173,
+        "word": "为什么猫容易成为厕所搭子",
+        "onboard_time": 1692061118,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243019,
+        "num": 243019,
+        "word": "国产剧美惨强的角色",
+        "onboard_time": 1692061838,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227275,
+        "num": 227275,
+        "word": "偶遇张颂文考科三",
+        "onboard_time": 1692054622,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223625,
+        "num": 223625,
+        "word": "网红铁头称蹭流量是假未来带货是真",
+        "onboard_time": 1692056248,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215448,
+        "num": 215448,
+        "word": "长期坚持这几件事能有什么效果",
+        "onboard_time": 1692058957,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207059,
+        "num": 207059,
+        "word": "金晨微指破亿",
+        "onboard_time": 1692062735,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201003,
+        "num": 201003,
+        "word": "癌症的早期信号与预防",
+        "onboard_time": 1692041295,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200603,
+        "num": 200603,
+        "word": "600元点了12道菜",
+        "onboard_time": 1692059256,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200059,
+        "num": 200059,
+        "word": "胡锡进 说夏威夷大火是人祸相当够格",
+        "onboard_time": 1692060758,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198837,
+        "num": 198837,
+        "word": "一路朝阳好看吗",
+        "onboard_time": 1692062673,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190723,
+        "num": 190723,
+        "word": "立秋后一定要补气血",
+        "onboard_time": 1692022539,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268062,
+        "num": 183527,
+        "word": "杨紫直播背景",
+        "onboard_time": 1692059799,
+        "rank": 45,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 174993,
+        "num": 174993,
+        "word": "男子花150美元买狗结果是巴西老鼠",
+        "onboard_time": 1692054444,
+        "rank": 46,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 166749,
+        "num": 166749,
+        "word": "李昀锐跳queencard",
+        "onboard_time": 1692058415,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163101,
+        "num": 163101,
+        "word": "螺蛳粉里放什么菜最好吃",
+        "onboard_time": 1692058777,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147949,
+        "num": 147949,
+        "word": "年轻的二次元",
+        "onboard_time": 1692062195,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#让湿地公园成为人民群众共享的绿色空间#"
+    }
+  }
+}
