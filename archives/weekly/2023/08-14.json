@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692130628925,
+  "endTime": 1692131645447,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -5811,20 +5811,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43522,
+      "num": 41502,
+      "word": "央视曾评视觉中国把法务做成销售",
+      "onboard_time": 1692123918,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42774,
       "num": 42774,
       "word": "8分钟剖析檀健次演相柳",
       "onboard_time": 1692125116,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 41502,
-      "num": 41502,
-      "word": "央视曾评视觉中国把法务做成销售",
-      "onboard_time": 1692123918,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39783,
@@ -5945,6 +5945,14 @@
       "onboard_time": 1692041714,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20258,
+      "num": 20694,
+      "word": "原生家庭对性格和习惯的塑造",
+      "onboard_time": 1692131113,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 11240,
