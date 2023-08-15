@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692077637077,
+  "endTime": 1692080449515,
   "band_list": [
     {
       "raw_hot": 3125154,
@@ -121,6 +121,14 @@
       "onboard_time": 1692071860,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1206840,
+      "num": 1206840,
+      "word": "景甜冯绍峰藏头诗互动",
+      "onboard_time": 1692077078,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 1183705,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761221,
+      "num": 761221,
+      "word": "中国总和生育率已跌至1.09",
+      "onboard_time": 1692079116,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760870,
       "num": 579193,
       "word": "我啥档次啊也配跟你埋一个坟",
@@ -307,11 +323,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 702332,
+      "num": 702332,
+      "word": "小夭一句嫂嫂创飞了两个人",
+      "onboard_time": 1692077257,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 699289,
+      "num": 699289,
+      "word": "韩国首尔",
+      "onboard_time": 1692079895,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690528,
       "num": 690528,
       "word": "杭州女白领被骗回家当厂妹火了",
       "onboard_time": 1692022420,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690354,
+      "num": 690354,
+      "word": "做饭的坏习惯可能导致家庭癌",
+      "onboard_time": 1692074262,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -339,20 +379,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 626549,
-      "num": 626549,
-      "word": "做饭的坏习惯可能导致家庭癌",
-      "onboard_time": 1692074262,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 617633,
       "num": 545059,
       "word": "涂山璟再度解锁四爱play",
       "onboard_time": 1692030211,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 615599,
+      "num": 615599,
+      "word": "A股",
+      "onboard_time": 1692078759,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 614686,
@@ -499,6 +539,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 488522,
+      "num": 538689,
+      "word": "卫健委回应阜外医院徐波腐败案",
+      "onboard_time": 1692079656,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481881,
       "num": 459600,
       "word": "精致穷",
@@ -563,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449059,
+      "num": 449059,
+      "word": "孤注一掷代码都是真的",
+      "onboard_time": 1692076421,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431138,
       "num": 365347,
       "word": "质疑紫米理解紫米成为紫米",
@@ -619,6 +675,14 @@
       "category": "美食,旅游"
     },
     {
+      "raw_hot": 406713,
+      "num": 406713,
+      "word": "海关查获10个袋鼠睾丸工艺品钥匙扣",
+      "onboard_time": 1692077917,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401141,
       "num": 400537,
       "word": "邓为谈和杨紫对手戏",
@@ -649,14 +713,6 @@
       "onboard_time": 1692056008,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387588,
-      "num": 387588,
-      "word": "景甜冯绍峰藏头诗互动",
-      "onboard_time": 1692077078,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 385547,
@@ -739,14 +795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 353805,
-      "num": 353805,
-      "word": "孤注一掷代码都是真的",
-      "onboard_time": 1692076421,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 347341,
       "num": 347341,
       "word": "立秋后一定要补气血",
@@ -787,6 +835,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 333911,
+      "num": 333911,
+      "word": "退休干部招募敢死队密谋暴力行动",
+      "onboard_time": 1692079297,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328184,
       "num": 572900,
       "word": "夏威夷大火约1300人失踪",
@@ -808,14 +864,6 @@
       "word": "姜王后是希望殷郊留在自己身边的",
       "onboard_time": 1692075521,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 316991,
-      "num": 316991,
-      "word": "小夭一句嫂嫂创飞了两个人",
-      "onboard_time": 1692077257,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -857,6 +905,14 @@
       "onboard_time": 1692063935,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301877,
+      "num": 301877,
+      "word": "没认出这是朱亚文",
+      "onboard_time": 1692077438,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 293085,
@@ -1043,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260669,
+      "num": 260669,
+      "word": "小奶狗被自己打嗝整生气了",
+      "onboard_time": 1692078335,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 259575,
       "num": 259575,
       "word": "封神长尾效应",
@@ -1123,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251052,
+      "num": 251052,
+      "word": "涂山璟 工具人",
+      "onboard_time": 1692078697,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250659,
       "num": 250659,
       "word": "小狐疯狂上分",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1692061118,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 249336,
+      "num": 249336,
+      "word": "播一部火一部的明星",
+      "onboard_time": 1692080074,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 244966,
@@ -1155,19 +1235,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243421,
+      "num": 243421,
+      "word": "玉骨遥暑假剧集热度TOP1",
+      "onboard_time": 1692078876,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243019,
       "num": 243019,
       "word": "国产剧美惨强的角色",
       "onboard_time": 1692061838,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 242612,
-      "num": 242612,
-      "word": "没认出这是朱亚文",
-      "onboard_time": 1692077438,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -1201,6 +1281,14 @@
       "onboard_time": 1692074626,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231005,
+      "num": 231005,
+      "word": "吴世勋谢谢下次见",
+      "onboard_time": 1692078397,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 227578,
@@ -1315,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193304,
+      "num": 193304,
+      "word": "初中时的本子里写满了杨洋",
+      "onboard_time": 1692079535,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192653,
       "num": 192653,
       "word": "夏威夷",
@@ -1387,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175774,
+      "num": 175774,
+      "word": "在飞机上被逮捕的小猫咪",
+      "onboard_time": 1692077797,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171268,
       "num": 171268,
       "word": "檀健次相柳不卖水产的原因",
@@ -1411,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167554,
+      "num": 167554,
+      "word": "一英国人长期感染新冠导致腿变蓝",
+      "onboard_time": 1692080436,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166840,
       "num": 158740,
       "word": "内娱cp感强的演员",
@@ -1425,6 +1537,14 @@
       "onboard_time": 1692014016,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157957,
+      "num": 157957,
+      "word": "摩羯座恋爱误区",
+      "onboard_time": 1692080255,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 153219,
@@ -1539,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125382,
+      "num": 149874,
+      "word": "曙光英雄",
+      "onboard_time": 1692077917,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124796,
       "num": 124796,
       "word": "檀健次 相柳有点浪漫",
@@ -1640,6 +1768,14 @@
       "word": "带癌生存五年的概率提高至40.5%",
       "onboard_time": 1692041295,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58107,
+      "num": 538260,
+      "word": "父子把流浪大叔带回家接力照顾42年",
+      "onboard_time": 1692079236,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
