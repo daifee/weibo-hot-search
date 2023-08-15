@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692116466090,
+  "endTime": 1692117387456,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -11027,6 +11027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 653439,
+      "num": 653439,
+      "word": "请理解一下我不回消息的原因",
+      "onboard_time": 1692112659,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 653266,
       "num": 505524,
       "word": "王楚然海棠笑春风出妆饭拍",
@@ -12721,14 +12729,6 @@
       "onboard_time": 1691975076,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 585648,
-      "num": 585648,
-      "word": "请理解一下我不回消息的原因",
-      "onboard_time": 1692112659,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 585507,
@@ -30779,6 +30779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215646,
+      "num": 190895,
+      "word": "当影视剧里不起眼的女孩摘掉眼镜后",
+      "onboard_time": 1692115893,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215592,
       "num": 215592,
       "word": "拜仁绝杀利物浦",
@@ -35515,6 +35523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172073,
+      "num": 172073,
+      "word": "纯爱战士永远第一",
+      "onboard_time": 1692116730,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171877,
       "num": 207809,
       "word": "TTG发布严正声明",
@@ -35665,14 +35681,6 @@
       "onboard_time": 1690809814,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168612,
-      "num": 168612,
-      "word": "当影视剧里不起眼的女孩摘掉眼镜后",
-      "onboard_time": 1692115893,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 168461,
@@ -36779,6 +36787,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 144802,
+      "num": 144802,
+      "word": "新型citydrink",
+      "onboard_time": 1692114995,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144749,
       "num": 564258,
       "word": "警察追捕小偷高中生霸气帮擒住",
@@ -37571,14 +37587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126881,
-      "num": 126881,
-      "word": "新型citydrink",
-      "onboard_time": 1692114995,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 126737,
       "num": 132863,
       "word": "请大胆地去浪费时间",
@@ -38017,6 +38025,14 @@
       "onboard_time": 1691391160,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112079,
+      "num": 138817,
+      "word": "陈凯歌对电影的敬畏心",
+      "onboard_time": 1692114394,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 111999,
@@ -40091,18 +40107,18 @@
       "category": "美食"
     },
     {
-      "raw_hot": 6043,
-      "num": 1204413,
-      "word": "暑期防溺水安全指南",
-      "onboard_time": 1691901096,
+      "raw_hot": 9020,
+      "num": 1077619,
+      "word": "绿色出游守护祖国大好河山",
+      "onboard_time": 1692101804,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5900,
-      "num": 1077619,
-      "word": "绿色出游守护祖国大好河山",
-      "onboard_time": 1692101804,
+      "raw_hot": 6043,
+      "num": 1204413,
+      "word": "暑期防溺水安全指南",
+      "onboard_time": 1691901096,
       "rank": 2,
       "category": "社会新闻"
     }
