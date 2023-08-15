@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692092038490,
+  "endTime": 1692094632710,
   "band_list": [
     {
       "raw_hot": 3389639,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2345903,
-      "num": 1102119,
+      "num": 1628031,
       "word": "日媒曝福原爱或将面临国际通缉",
       "onboard_time": 1692085901,
       "rank": 3,
@@ -113,6 +113,14 @@
       "onboard_time": 1692066159,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1586488,
+      "num": 519978,
+      "word": "女子戴玉镯10年关节变形成手铐",
+      "onboard_time": 1692089919,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1552185,
@@ -227,12 +235,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1122853,
-      "num": 519978,
-      "word": "女子戴玉镯10年关节变形成手铐",
-      "onboard_time": 1692089919,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 1157738,
+      "num": 1157738,
+      "word": "刘若英西安演唱会 取消",
+      "onboard_time": 1692091418,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 1112048,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1037443,
+      "num": 1037443,
+      "word": "自己拍的照片被视觉中国告侵权",
+      "onboard_time": 1692091840,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1014167,
       "num": 1014167,
       "word": "常州分尸案嫌疑人已落网",
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 905634,
+      "num": 518608,
+      "word": "魏大勋方维权起诉",
+      "onboard_time": 1692091182,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 900187,
       "num": 900187,
       "word": "降息",
@@ -353,14 +377,6 @@
       "onboard_time": 1692018880,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 842583,
-      "num": 518608,
-      "word": "魏大勋方维权起诉",
-      "onboard_time": 1692091182,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 840527,
@@ -457,6 +473,14 @@
       "onboard_time": 1692065315,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 690718,
+      "num": 435776,
+      "word": "五月天西安演唱会还开不开",
+      "onboard_time": 1692093817,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 690528,
@@ -651,12 +675,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 537147,
-      "num": 587808,
-      "word": "刘若英西安演唱会 取消",
-      "onboard_time": 1692091418,
-      "rank": 8,
-      "category": "音乐"
+      "raw_hot": 535994,
+      "num": 370483,
+      "word": "独居女子床边发现烟头吓到报警",
+      "onboard_time": 1692092138,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535601,
@@ -859,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 438229,
+      "num": 1777894,
+      "word": "妈妈将自己和龙凤胎用水枪印墙上",
+      "onboard_time": 1692090461,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431138,
       "num": 365347,
       "word": "质疑紫米理解紫米成为紫米",
@@ -1051,20 +1083,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371192,
-      "num": 371192,
-      "word": "妈妈将自己和龙凤胎用水枪印墙上",
-      "onboard_time": 1692090461,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367538,
       "num": 367538,
       "word": "冯绍峰演黄海冰女婿",
       "onboard_time": 1692073425,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364688,
+      "num": 364688,
+      "word": "宁静无糖芭比妆",
+      "onboard_time": 1692092378,
+      "rank": 21,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 358746,
@@ -1107,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337536,
+      "num": 337536,
+      "word": "黄仁俊直播",
+      "onboard_time": 1692093638,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337194,
       "num": 337194,
       "word": "相柳向小夭伸出的手终于没有落下",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1692072103,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 331182,
+      "num": 331182,
+      "word": "涂山璟最珍贵的内核",
+      "onboard_time": 1692094057,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 328184,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1692021642,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308518,
+      "num": 1178403,
+      "word": "山东大哥小摊11元能炒3个菜",
+      "onboard_time": 1692093038,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307737,
@@ -1675,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216341,
+      "num": 371176,
+      "word": "山东2元炒菜摊主回应走红",
+      "onboard_time": 1692094238,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215867,
       "num": 215867,
       "word": "取外卖看到的人脸可能也是乌龙",
@@ -1707,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210490,
+      "num": 438491,
+      "word": "儿子一把抱起出差回来的老爸转圈圈",
+      "onboard_time": 1692093038,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209799,
       "num": 209799,
       "word": "摩羯座恋爱误区",
@@ -1737,14 +1809,6 @@
       "onboard_time": 1692086617,
       "rank": 41,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 203188,
-      "num": 203188,
-      "word": "自己拍的照片被视觉中国告侵权",
-      "onboard_time": 1692091840,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203129,
@@ -1817,6 +1881,14 @@
       "onboard_time": 1692086499,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195469,
+      "num": 195469,
+      "word": "今天是首个全国生态日",
+      "onboard_time": 1692093878,
+      "rank": 39,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 193404,
@@ -1899,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182755,
+      "num": 182755,
+      "word": "为什么吃辣椒后会流鼻涕",
+      "onboard_time": 1692094297,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181261,
       "num": 181261,
       "word": "真的不要轻易卖掉小孩的宠物",
@@ -1931,12 +2011,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177396,
+      "num": 177396,
+      "word": "大宋少年志2豆瓣开分8.3",
+      "onboard_time": 1692094539,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 176259,
+      "num": 176259,
+      "word": "杨紫浮夸型走戏",
+      "onboard_time": 1692094598,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175774,
       "num": 175774,
       "word": "在飞机上被逮捕的小猫咪",
       "onboard_time": 1692077797,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173724,
+      "num": 173724,
+      "word": "认识的人踩我雷点",
+      "onboard_time": 1692093339,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 171268,
@@ -2196,7 +2300,7 @@
     },
     {
       "raw_hot": 91826,
-      "num": 1128658,
+      "num": 1676886,
       "word": "人类全程护送藏羚羊回家画面太暖了",
       "onboard_time": 1692087162,
       "rank": 2,
@@ -2241,6 +2345,14 @@
       "onboard_time": 1692034819,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 44439,
+      "num": 436402,
+      "word": "孕妇突然临盆列车搭建临时产房",
+      "onboard_time": 1692093638,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42696,
