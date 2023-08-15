@@ -1,0 +1,410 @@
+{
+  "runTime": 1692084823077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1447245,
+        "num": 1447245,
+        "word": "李玟患乳腺癌仍坚持录完好声音",
+        "onboard_time": 1692081515,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014167,
+        "num": 1014167,
+        "word": "常州分尸案嫌疑人已落网",
+        "onboard_time": 1692082478,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61821,
+        "num": 960665,
+        "word": "8K镜头带你看遍大美中国",
+        "onboard_time": 1692067416,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2939177,
+        "num": 960351,
+        "word": "韩国首尔",
+        "onboard_time": 1692079895,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205193,
+        "num": 960170,
+        "word": "播一部火一部的明星",
+        "onboard_time": 1692080074,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 957469,
+        "num": 957469,
+        "word": "大脑为什么删除2岁前的记忆",
+        "onboard_time": 1692067536,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944745,
+        "num": 944745,
+        "word": "张艺兴是国家话剧院演员",
+        "onboard_time": 1692083619,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711783,
+        "num": 711783,
+        "word": "一英国人长期感染新冠导致腿变蓝",
+        "onboard_time": 1692080436,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706079,
+        "num": 706079,
+        "word": "景甜冯绍峰藏头诗互动",
+        "onboard_time": 1692077078,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553241,
+        "num": 553241,
+        "word": "侯雯元 删不完根本删不完",
+        "onboard_time": 1692083138,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 817271,
+        "num": 552795,
+        "word": "韩国女艺人称在日本演出被多人袭胸",
+        "onboard_time": 1692083258,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549859,
+        "num": 549859,
+        "word": "小夭一句嫂嫂创飞了两个人",
+        "onboard_time": 1692077257,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467182,
+        "num": 545996,
+        "word": "退休干部招募敢死队密谋暴力行动",
+        "onboard_time": 1692079297,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183753,
+        "num": 544215,
+        "word": "卫健委回应阜外医院徐波腐败案",
+        "onboard_time": 1692079656,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276617,
+        "num": 542929,
+        "word": "11岁男孩6年为去世父母还清欠款",
+        "onboard_time": 1692082836,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542823,
+        "num": 542823,
+        "word": "李玟老公最后一份公开声明",
+        "onboard_time": 1692081937,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535509,
+        "num": 535509,
+        "word": "韩国又现恐吓邮件称炸毁首尔市政府",
+        "onboard_time": 1692080855,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428856,
+        "num": 428856,
+        "word": "做饭的坏习惯可能导致家庭癌",
+        "onboard_time": 1692074262,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411907,
+        "num": 411907,
+        "word": "张杰电话",
+        "onboard_time": 1692067117,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386228,
+        "num": 386228,
+        "word": "Ella时隔9年再拍新剧",
+        "onboard_time": 1692082962,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 619329,
+        "num": 382831,
+        "word": "日本男子患无精症妻子接受公公捐精",
+        "onboard_time": 1692074381,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470981,
+        "num": 382511,
+        "word": "照身份证千万别把眼睛睁太大",
+        "onboard_time": 1692076121,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376191,
+        "num": 376191,
+        "word": "北京顺义1.5级地震",
+        "onboard_time": 1692082362,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330548,
+        "num": 330548,
+        "word": "黄宗泽 谁说健康的食物没有味道的",
+        "onboard_time": 1692081764,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319698,
+        "num": 319698,
+        "word": "华晨宇十周年鸟巢演唱会官宣",
+        "onboard_time": 1692082719,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 314107,
+        "num": 314107,
+        "word": "四六级",
+        "onboard_time": 1692066159,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 301798,
+        "num": 301798,
+        "word": "取已故丈夫190万银行存款遭拒",
+        "onboard_time": 1692070839,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294388,
+        "num": 294388,
+        "word": "缅甸五星级酒店300多元都没人去",
+        "onboard_time": 1692083440,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 294054,
+        "num": 294054,
+        "word": "A股",
+        "onboard_time": 1692078759,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 282270,
+        "num": 282270,
+        "word": "为什么全身脸部的皮肤最差",
+        "onboard_time": 1692068440,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275999,
+        "num": 275999,
+        "word": "邓为只是比桐华更爱涂山璟罢了",
+        "onboard_time": 1692076538,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269785,
+        "num": 269785,
+        "word": "易烊千玺去看薛之谦演唱会",
+        "onboard_time": 1692068378,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257155,
+        "num": 257155,
+        "word": "金莎05年MV里的造型",
+        "onboard_time": 1692082538,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242347,
+        "num": 242347,
+        "word": "朴春自拍",
+        "onboard_time": 1692076598,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224513,
+        "num": 224513,
+        "word": "张艺兴官宣MALLSTARS总决赛阵容",
+        "onboard_time": 1692081456,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223177,
+        "num": 223177,
+        "word": "人不在了房子会老得特别快",
+        "onboard_time": 1692075460,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216077,
+        "num": 216077,
+        "word": "虞书欣的裙子可以玩连连看了",
+        "onboard_time": 1692073241,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2283934,
+        "num": 215581,
+        "word": "中国总和生育率已跌至1.09",
+        "onboard_time": 1692079116,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209799,
+        "num": 209799,
+        "word": "摩羯座恋爱误区",
+        "onboard_time": 1692080255,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207738,
+        "num": 207738,
+        "word": "猴崽带甜甜糕回城",
+        "onboard_time": 1692084169,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190919,
+        "num": 190919,
+        "word": "海关查获10个袋鼠睾丸工艺品钥匙扣",
+        "onboard_time": 1692077917,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188417,
+        "num": 188417,
+        "word": "张子枫志愿军吃土豆镜头",
+        "onboard_time": 1692073659,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183004,
+        "num": 183004,
+        "word": "玱玹长相守名场面在第二季",
+        "onboard_time": 1692075221,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178436,
+        "num": 178436,
+        "word": "银行卡内突然到账14.8万",
+        "onboard_time": 1692084639,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178226,
+        "num": 178226,
+        "word": "为什么高铁座位没有E",
+        "onboard_time": 1692071860,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176549,
+        "num": 176549,
+        "word": "孤注一掷代码都是真的",
+        "onboard_time": 1692076421,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166158,
+        "num": 166158,
+        "word": "吴世勋谢谢下次见",
+        "onboard_time": 1692078397,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166144,
+        "num": 166144,
+        "word": "玉骨遥暑假剧集热度TOP1",
+        "onboard_time": 1692078876,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152680,
+        "num": 152680,
+        "word": "魏大勋演的毛岸英",
+        "onboard_time": 1692076238,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148156,
+        "num": 148156,
+        "word": "涂山璟 工具人",
+        "onboard_time": 1692078697,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#第一个全国生态日#"
+    }
+  }
+}
