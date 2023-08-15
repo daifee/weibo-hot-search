@@ -1,0 +1,410 @@
+{
+  "runTime": 1692141338159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1064915,
+        "num": 1064915,
+        "word": "自己拍的照片被视觉中国告侵权",
+        "onboard_time": 1692091840,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777608,
+        "num": 777608,
+        "word": "哈登震惊于中国卖货速度",
+        "onboard_time": 1692133633,
+        "rank": 1,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 21482,
+        "num": 721967,
+        "word": "绿色出游守护祖国大好河山",
+        "onboard_time": 1692101804,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685854,
+        "num": 685854,
+        "word": "女子称带3娃买4张票登机被拒",
+        "onboard_time": 1692125536,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582700,
+        "num": 582700,
+        "word": "北京为何成了茶饮荒漠",
+        "onboard_time": 1692138018,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339845,
+        "num": 339845,
+        "word": "怕孩子长大压力大父亲掐死双胞胎儿子",
+        "onboard_time": 1692105584,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253383,
+        "num": 253383,
+        "word": "蒲熠星 祝各位此行无憾",
+        "onboard_time": 1692101621,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244540,
+        "num": 244540,
+        "word": "央视曾评视觉中国把法务做成销售",
+        "onboard_time": 1692123918,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236193,
+        "num": 236193,
+        "word": "单亲妈妈卖房给儿子买婚房被拉黑",
+        "onboard_time": 1692103962,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234931,
+        "num": 234931,
+        "word": "问长相思我花钱花在哪",
+        "onboard_time": 1692135016,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218085,
+        "num": 218085,
+        "word": "于适龙吸水",
+        "onboard_time": 1692108821,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209742,
+        "num": 209742,
+        "word": "仅有14%的科室主任副主任年收入超过20万元",
+        "onboard_time": 1692088965,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187753,
+        "num": 187753,
+        "word": "女子戴玉镯10年关节变形成手铐",
+        "onboard_time": 1692089919,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94759,
+        "num": 184480,
+        "word": "大熊猫母女吃笋像大小号复制粘贴",
+        "onboard_time": 1692109003,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68515,
+        "num": 183069,
+        "word": "8000年前的陶片留着锅巴",
+        "onboard_time": 1692109663,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182961,
+        "num": 182961,
+        "word": "人不像周迅但精神状态像",
+        "onboard_time": 1692106006,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163828,
+        "num": 163828,
+        "word": "90后姑娘摆摊卖热卤一晚最多卖5000元",
+        "onboard_time": 1692111461,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161107,
+        "num": 161107,
+        "word": "日媒曝福原爱或将面临国际通缉",
+        "onboard_time": 1692085901,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 337675,
+        "num": 160111,
+        "word": "保姆9个月偷走雇主163瓶茅台",
+        "onboard_time": 1692140481,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157196,
+        "num": 157196,
+        "word": "视觉中国创始人称是误会",
+        "onboard_time": 1692099097,
+        "rank": 19,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 365071,
+        "num": 157193,
+        "word": "江苏警方通报女子被分尸",
+        "onboard_time": 1692099097,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290211,
+        "num": 157190,
+        "word": "驼背终于有救了",
+        "onboard_time": 1692112777,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189215,
+        "num": 157182,
+        "word": "我以为的30岁vs实际的30岁",
+        "onboard_time": 1692098196,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 179457,
+        "num": 157170,
+        "word": "当影视剧里不起眼的女孩摘掉眼镜后",
+        "onboard_time": 1692115893,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157170,
+        "num": 157169,
+        "word": "白敬亭向东北灾区捐赠物资",
+        "onboard_time": 1692140782,
+        "rank": 24,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 138263,
+        "num": 138263,
+        "word": "韩剧国民死刑投票",
+        "onboard_time": 1692113916,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137583,
+        "num": 137583,
+        "word": "补血对于女性来说都是必要的",
+        "onboard_time": 1692129195,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123505,
+        "num": 123505,
+        "word": "独居女子床边发现烟头吓到报警",
+        "onboard_time": 1692092138,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119834,
+        "num": 119834,
+        "word": "八种容易烂脸的食物",
+        "onboard_time": 1692095974,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117541,
+        "num": 117541,
+        "word": "多所高校将延长研究生学制",
+        "onboard_time": 1692100663,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 115256,
+        "num": 115256,
+        "word": "王一博长空之王多地公益放映",
+        "onboard_time": 1692122718,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111906,
+        "num": 111906,
+        "word": "杨玏 早知道不来了",
+        "onboard_time": 1692099639,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109450,
+        "num": 109450,
+        "word": "马立奥告别爸爸当家2",
+        "onboard_time": 1692108341,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108500,
+        "num": 108500,
+        "word": "初空带资进组改剧本",
+        "onboard_time": 1692138978,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103289,
+        "num": 103289,
+        "word": "纯爱战士永远第一",
+        "onboard_time": 1692116730,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102453,
+        "num": 102453,
+        "word": "原生家庭对性格和习惯的塑造",
+        "onboard_time": 1692131113,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100684,
+        "num": 100684,
+        "word": "一个快速入睡的办法",
+        "onboard_time": 1692102280,
+        "rank": 36,
+        "category": "其它,情感"
+      },
+      {
+        "raw_hot": 99858,
+        "num": 99858,
+        "word": "山东大哥物美价廉经营18年突然走红",
+        "onboard_time": 1692141324,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 82507,
+        "num": 82507,
+        "word": "魏大勋方维权起诉",
+        "onboard_time": 1692091182,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82397,
+        "num": 82397,
+        "word": "柳岩瘦下来的状态",
+        "onboard_time": 1692109844,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78870,
+        "num": 78870,
+        "word": "相柳对小夭句句不提爱",
+        "onboard_time": 1692104742,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78066,
+        "num": 78066,
+        "word": "孤注一掷实时票房破20亿",
+        "onboard_time": 1692106482,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71944,
+        "num": 71944,
+        "word": "水瓶座讨厌被窥探",
+        "onboard_time": 1692114814,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70398,
+        "num": 70398,
+        "word": "请理解一下我不回消息的原因",
+        "onboard_time": 1692112659,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 69532,
+        "num": 69532,
+        "word": "8分钟剖析檀健次演相柳",
+        "onboard_time": 1692125116,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65448,
+        "num": 69532,
+        "word": "易烊千玺新专辑 发货",
+        "onboard_time": 1692107382,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65179,
+        "num": 69523,
+        "word": "王鹤棣黄志玮一起打球",
+        "onboard_time": 1692119005,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61889,
+        "num": 69513,
+        "word": "与患有ADHD女友的日常",
+        "onboard_time": 1692110321,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 60025,
+        "num": 69509,
+        "word": "当你有个香港朋友",
+        "onboard_time": 1692120322,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58263,
+        "num": 69501,
+        "word": "广东一医院设备未发货先支付货款1.2亿",
+        "onboard_time": 1692141324,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#用色卡打开美丽中国#"
+    }
+  }
+}

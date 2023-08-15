@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692138826500,
+  "endTime": 1692141338159,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -1035,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777608,
+      "num": 777608,
+      "word": "哈登震惊于中国卖货速度",
+      "onboard_time": 1692133633,
+      "rank": 29,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 776451,
       "num": 776451,
       "word": "中国警察让孤注一掷导演不要害怕",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1692008856,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 685854,
+      "num": 685854,
+      "word": "女子称带3娃买4张票登机被拒",
+      "onboard_time": 1692125536,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684868,
@@ -1585,6 +1601,14 @@
       "onboard_time": 1692071564,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 582700,
+      "num": 582700,
+      "word": "北京为何成了茶饮荒漠",
+      "onboard_time": 1692138018,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 579822,
@@ -2955,6 +2979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 337675,
+      "num": 160111,
+      "word": "保姆9个月偷走雇主163瓶茅台",
+      "onboard_time": 1692140481,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337536,
       "num": 337536,
       "word": "黄仁俊直播",
@@ -3057,14 +3089,6 @@
       "onboard_time": 1691937223,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327170,
-      "num": 327170,
-      "word": "哈登震惊于中国卖货速度",
-      "onboard_time": 1692133633,
-      "rank": 29,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 327115,
@@ -3537,14 +3561,6 @@
       "onboard_time": 1692065616,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 283444,
-      "num": 92222,
-      "word": "女子称带3娃买4张票登机被拒",
-      "onboard_time": 1692125536,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283101,
@@ -4139,6 +4155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244540,
+      "num": 244540,
+      "word": "央视曾评视觉中国把法务做成销售",
+      "onboard_time": 1692123918,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244294,
       "num": 537666,
       "word": "19岁战士说听百姓说辛苦了就是动力",
@@ -4257,6 +4281,14 @@
       "onboard_time": 1691940338,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234931,
+      "num": 234931,
+      "word": "问长相思我花钱花在哪",
+      "onboard_time": 1692135016,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 234505,
@@ -5283,6 +5315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157170,
+      "num": 157169,
+      "word": "白敬亭向东北灾区捐赠物资",
+      "onboard_time": 1692140782,
+      "rank": 24,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 155385,
       "num": 155385,
       "word": "易梦玲仪态",
@@ -5403,6 +5443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137583,
+      "num": 137583,
+      "word": "补血对于女性来说都是必要的",
+      "onboard_time": 1692129195,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 137230,
       "num": 275272,
       "word": "皮肤黝黑的嘶哑大哥提起救援队哽咽了",
@@ -5459,14 +5507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127786,
-      "num": 92025,
-      "word": "问长相思我花钱花在哪",
-      "onboard_time": 1692135016,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 127308,
       "num": 149874,
       "word": "曙光英雄",
@@ -5481,14 +5521,6 @@
       "onboard_time": 1692019600,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123790,
-      "num": 91808,
-      "word": "央视曾评视觉中国把法务做成销售",
-      "onboard_time": 1692123918,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120845,
@@ -5523,6 +5555,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 115256,
+      "num": 115256,
+      "word": "王一博长空之王多地公益放映",
+      "onboard_time": 1692122718,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 113003,
       "num": 2082193,
       "word": "8K镜头带你看遍大美中国",
@@ -5552,6 +5592,14 @@
       "word": "电影圈看好谁的发展",
       "onboard_time": 1691946386,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 108500,
+      "num": 108500,
+      "word": "初空带资进组改剧本",
+      "onboard_time": 1692138978,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -5595,6 +5643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102453,
+      "num": 102453,
+      "word": "原生家庭对性格和习惯的塑造",
+      "onboard_time": 1692131113,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102030,
       "num": 102030,
       "word": "王阳高叶合作了",
@@ -5609,6 +5665,14 @@
       "onboard_time": 1692120322,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99858,
+      "num": 99858,
+      "word": "山东大哥物美价廉经营18年突然走红",
+      "onboard_time": 1692141324,
+      "rank": 37,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 99374,
@@ -5731,14 +5795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75542,
-      "num": 75542,
-      "word": "原生家庭对性格和习惯的塑造",
-      "onboard_time": 1692131113,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 72543,
       "num": 646646,
       "word": "TheShy出题",
@@ -5753,6 +5809,14 @@
       "onboard_time": 1692041295,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69532,
+      "num": 69532,
+      "word": "8分钟剖析檀健次演相柳",
+      "onboard_time": 1692125116,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 66535,
@@ -5795,6 +5859,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 58263,
+      "num": 69501,
+      "word": "广东一医院设备未发货先支付货款1.2亿",
+      "onboard_time": 1692141324,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56816,
       "num": 1522420,
       "word": "子弟兵在抗洪一线",
@@ -5819,14 +5891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 54520,
-      "num": 54520,
-      "word": "王一博长空之王多地公益放映",
-      "onboard_time": 1692122718,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 53924,
       "num": 787486,
       "word": "两路人遇女孩溺水下河接力救上岸",
@@ -5835,35 +5899,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53796,
-      "num": 53796,
-      "word": "补血对于女性来说都是必要的",
-      "onboard_time": 1692129195,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 51287,
       "num": 41375,
       "word": "邓为对角色的把握",
       "onboard_time": 1692034819,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 43090,
-      "num": 43090,
-      "word": "北京为何成了茶饮荒漠",
-      "onboard_time": 1692138018,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42774,
-      "num": 42774,
-      "word": "8分钟剖析檀健次演相柳",
-      "onboard_time": 1692125116,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -5979,20 +6019,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21482,
+      "num": 1077619,
+      "word": "绿色出游守护祖国大好河山",
+      "onboard_time": 1692101804,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21275,
       "num": 21275,
       "word": "懒人快速换被罩的方法",
       "onboard_time": 1692041714,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11893,
-      "num": 1077619,
-      "word": "绿色出游守护祖国大好河山",
-      "onboard_time": 1692101804,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
