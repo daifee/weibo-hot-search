@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692103585754,
+  "endTime": 1692105530974,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -7379,6 +7379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 876695,
+      "num": 876695,
+      "word": "吴泽林好惨",
+      "onboard_time": 1692102766,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 875935,
       "num": 875935,
       "word": "gemini",
@@ -10292,7 +10300,7 @@
     },
     {
       "raw_hot": 689545,
-      "num": 411337,
+      "num": 570463,
       "word": "我以为的30岁vs实际的30岁",
       "onboard_time": 1692098196,
       "rank": 30,
@@ -10369,14 +10377,6 @@
       "onboard_time": 1691645254,
       "rank": 24,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 684161,
-      "num": 559734,
-      "word": "吴泽林好惨",
-      "onboard_time": 1692102766,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 683466,
@@ -10848,6 +10848,14 @@
       "word": "TF很懂孟女",
       "onboard_time": 1691576557,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 660698,
+      "num": 617299,
+      "word": "沙一汀 人在旅游",
+      "onboard_time": 1692103001,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -11697,6 +11705,14 @@
       "onboard_time": 1691027259,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618097,
+      "num": 618097,
+      "word": "多所高校将延长研究生学制",
+      "onboard_time": 1692100663,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 618004,
@@ -12971,14 +12987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 572015,
-      "num": 572015,
-      "word": "多所高校将延长研究生学制",
-      "onboard_time": 1692100663,
-      "rank": 15,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 571932,
       "num": 752158,
       "word": "成人牙齿再生或十年内实现",
@@ -13561,6 +13569,14 @@
       "onboard_time": 1691499582,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 555561,
+      "num": 555561,
+      "word": "成毅直播",
+      "onboard_time": 1692104320,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 555409,
@@ -15507,6 +15523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 490353,
+      "num": 571549,
+      "word": "夭柳悲剧就是没有如果",
+      "onboard_time": 1692104203,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 490275,
       "num": 365929,
       "word": "这口臭绝对不是我的",
@@ -15940,7 +15964,7 @@
     },
     {
       "raw_hot": 480762,
-      "num": 574887,
+      "num": 617682,
       "word": "退休干部招募敢死队密谋暴力行动",
       "onboard_time": 1692079297,
       "rank": 24,
@@ -18091,6 +18115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420040,
+      "num": 420040,
+      "word": "单亲妈妈卖房给儿子买婚房被拉黑",
+      "onboard_time": 1692103962,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419957,
       "num": 318404,
       "word": "女子称回家发现陌生男在里面住了几天",
@@ -18121,6 +18153,14 @@
       "onboard_time": 1691890594,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419348,
+      "num": 419348,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1692102823,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 419285,
@@ -18449,14 +18489,6 @@
       "onboard_time": 1691811877,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 411863,
-      "num": 411863,
-      "word": "沙一汀 人在旅游",
-      "onboard_time": 1692103001,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 411597,
@@ -19217,6 +19249,14 @@
       "onboard_time": 1691931457,
       "rank": 14,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 394002,
+      "num": 394002,
+      "word": "丰隆角色号拉黑涂山璟",
+      "onboard_time": 1692104681,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 393692,
@@ -20441,6 +20481,14 @@
       "onboard_time": 1690868554,
       "rank": 22,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 368083,
+      "num": 368083,
+      "word": "一个快速入睡的办法",
+      "onboard_time": 1692102280,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 368023,
@@ -25219,14 +25267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 283714,
-      "num": 283714,
-      "word": "黄子弘凡直播",
-      "onboard_time": 1692102823,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 283686,
       "num": 355990,
       "word": "发现一个买手机不花钱的办法",
@@ -26187,6 +26227,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 270297,
+      "num": 270297,
+      "word": "相柳对小夭句句不提爱",
+      "onboard_time": 1692104742,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270292,
       "num": 265969,
       "word": "密室大逃脱大神版",
@@ -26417,14 +26465,6 @@
       "onboard_time": 1691427565,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266164,
-      "num": 266164,
-      "word": "一个快速入睡的办法",
-      "onboard_time": 1692102280,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 266090,
@@ -28073,6 +28113,14 @@
       "onboard_time": 1691577634,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243867,
+      "num": 243867,
+      "word": "ZB1演唱会",
+      "onboard_time": 1692103302,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 243745,
@@ -31155,6 +31203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208939,
+      "num": 208939,
+      "word": "长相思德塔文指数走势",
+      "onboard_time": 1692105401,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208904,
       "num": 208904,
       "word": "13岁特殊少年有一条228米专属道路",
@@ -31233,14 +31289,6 @@
       "onboard_time": 1691568997,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208387,
-      "num": 208387,
-      "word": "ZB1演唱会",
-      "onboard_time": 1692103302,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 208375,
@@ -38859,6 +38907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59466,
+      "num": 1453550,
+      "word": "画中画看长江沿线非遗",
+      "onboard_time": 1692101981,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59278,
       "num": 440183,
       "word": "浙h180f7为你点赞",
@@ -39035,6 +39091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52231,
+      "num": 617491,
+      "word": "成都一火车站上演9分钟生死营救",
+      "onboard_time": 1692104445,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52088,
       "num": 547408,
       "word": "总有坚毅的背影替我们负重前行",
@@ -39099,12 +39163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48946,
-      "num": 1340538,
-      "word": "画中画看长江沿线非遗",
-      "onboard_time": 1692101981,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 49464,
+      "num": 618029,
+      "word": "华晨宇火星人海岛团建",
+      "onboard_time": 1692103661,
+      "rank": 10,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 48210,
