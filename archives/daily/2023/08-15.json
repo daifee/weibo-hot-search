@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692105530974,
+  "endTime": 1692106428892,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -8,6 +8,14 @@
       "word": "青你2杜紫怡曝tangoz性骚扰",
       "onboard_time": 1692098559,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5439650,
+      "num": 1145290,
+      "word": "tangoz报警",
+      "onboard_time": 1692105645,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -419,20 +427,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 889502,
+      "num": 889502,
+      "word": "吴泽林好惨",
+      "onboard_time": 1692102766,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 880422,
       "num": 880422,
       "word": "王大陆发长文感恩孤注一掷剧组",
       "onboard_time": 1692062314,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 876695,
-      "num": 876695,
-      "word": "吴泽林好惨",
-      "onboard_time": 1692102766,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 871176,
@@ -627,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 622436,
+      "num": 555561,
+      "word": "成毅直播",
+      "onboard_time": 1692104320,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 618097,
       "num": 618097,
       "word": "多所高校将延长研究生学制",
@@ -707,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 572497,
+      "num": 572497,
+      "word": "怕孩子长大压力大父亲掐死双胞胎儿子",
+      "onboard_time": 1692105584,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570056,
       "num": 500538,
       "word": "Angelababy与小海绵现身机场",
@@ -736,14 +760,6 @@
       "word": "偶遇撒贝宁一家四口爬山",
       "onboard_time": 1692089141,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 555561,
-      "num": 555561,
-      "word": "成毅直播",
-      "onboard_time": 1692104320,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -809,6 +825,14 @@
       "onboard_time": 1692085600,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 537361,
+      "num": 537361,
+      "word": "单亲妈妈卖房给儿子买婚房被拉黑",
+      "onboard_time": 1692103962,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535994,
@@ -907,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495531,
+      "num": 571549,
+      "word": "夭柳悲剧就是没有如果",
+      "onboard_time": 1692104203,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494930,
       "num": 494930,
       "word": "他现在甚至都懒得张口了",
@@ -915,12 +947,12 @@
       "category": "幽默,音乐"
     },
     {
-      "raw_hot": 490353,
-      "num": 571549,
-      "word": "夭柳悲剧就是没有如果",
-      "onboard_time": 1692104203,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 489716,
+      "num": 489716,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1692102823,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 484868,
@@ -953,6 +985,14 @@
       "onboard_time": 1692082362,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470835,
+      "num": 470835,
+      "word": "jelly pop",
+      "onboard_time": 1692105521,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 462584,
@@ -1059,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440720,
+      "num": 440720,
+      "word": "丰隆角色号拉黑涂山璟",
+      "onboard_time": 1692104681,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431138,
       "num": 365347,
       "word": "质疑紫米理解紫米成为紫米",
@@ -1097,22 +1145,6 @@
       "onboard_time": 1692071436,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 420040,
-      "num": 420040,
-      "word": "单亲妈妈卖房给儿子买婚房被拉黑",
-      "onboard_time": 1692103962,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419348,
-      "num": 419348,
-      "word": "黄子弘凡直播",
-      "onboard_time": 1692102823,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 417783,
@@ -1201,14 +1233,6 @@
       "onboard_time": 1692056008,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 394002,
-      "num": 394002,
-      "word": "丰隆角色号拉黑涂山璟",
-      "onboard_time": 1692104681,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 393187,
@@ -1345,6 +1369,14 @@
       "onboard_time": 1692072581,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 347472,
+      "num": 347472,
+      "word": "相柳对小夭句句不提爱",
+      "onboard_time": 1692104742,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 347341,
@@ -1683,11 +1715,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270297,
-      "num": 270297,
-      "word": "相柳对小夭句句不提爱",
-      "onboard_time": 1692104742,
-      "rank": 31,
+      "raw_hot": 271767,
+      "num": 271767,
+      "word": "邓为涂山璟继任族长剧照",
+      "onboard_time": 1692106062,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -2035,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224500,
+      "num": 224500,
+      "word": "我的特长 磕出一整根百醇的芯",
+      "onboard_time": 1692105822,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219492,
       "num": 219492,
       "word": "无痛背书法",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1692090882,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215252,
+      "num": 215252,
+      "word": "不同类型的犬系男友",
+      "onboard_time": 1692106122,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 214082,
@@ -2123,12 +2171,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207102,
+      "num": 207102,
+      "word": "人不像周迅但精神状态像",
+      "onboard_time": 1692106006,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206396,
       "num": 206396,
       "word": "2023PEL夏决应援",
       "onboard_time": 1692097176,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205955,
+      "num": 205955,
+      "word": "黄渤与十个勤天的相遇",
+      "onboard_time": 1692105584,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 205381,
@@ -2427,6 +2491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159392,
+      "num": 159392,
+      "word": "实测8家品牌饮品加冰量",
+      "onboard_time": 1692106422,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 153219,
       "num": 153219,
       "word": "萌兰闷头干饭无视妹妹疯狂敲窗",
@@ -2667,6 +2739,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 91180,
+      "num": 617491,
+      "word": "成都一火车站上演9分钟生死营救",
+      "onboard_time": 1692104445,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90024,
       "num": 538260,
       "word": "父子把流浪大叔带回家接力照顾42年",
@@ -2683,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66535,
+      "num": 618029,
+      "word": "华晨宇火星人海岛团建",
+      "onboard_time": 1692103661,
+      "rank": 10,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 65510,
       "num": 570347,
       "word": "孕妇突然临盆列车搭建临时产房",
@@ -2691,7 +2779,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59466,
+      "raw_hot": 63941,
       "num": 1453550,
       "word": "画中画看长江沿线非遗",
       "onboard_time": 1692101981,
@@ -2707,28 +2795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52231,
-      "num": 617491,
-      "word": "成都一火车站上演9分钟生死营救",
-      "onboard_time": 1692104445,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51287,
       "num": 41375,
       "word": "邓为对角色的把握",
       "onboard_time": 1692034819,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 49464,
-      "num": 618029,
-      "word": "华晨宇火星人海岛团建",
-      "onboard_time": 1692103661,
-      "rank": 10,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 42696,
