@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692102631078,
+  "endTime": 1692103585754,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -57,6 +57,14 @@
       "onboard_time": 1692057272,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2585792,
+      "num": 2585792,
+      "word": "蒲熠星 祝各位此行无憾",
+      "onboard_time": 1692101621,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2345903,
@@ -139,14 +147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1460828,
-      "num": 1460828,
-      "word": "蒲熠星 祝各位此行无憾",
-      "onboard_time": 1692101621,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1447245,
       "num": 1447245,
       "word": "李玟患乳腺癌仍坚持录完好声音",
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1211048,
+      "num": 641319,
+      "word": "江苏警方通报女子被分尸",
+      "onboard_time": 1692099097,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1206840,
       "num": 1206840,
       "word": "景甜冯绍峰藏头诗互动",
@@ -267,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1165012,
+      "num": 1165012,
+      "word": "谁抢到林俊杰门票",
+      "onboard_time": 1692101981,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1162629,
       "num": 1162629,
       "word": "韩聪 我决定退出米兰周期所有赛事",
@@ -289,14 +305,6 @@
       "onboard_time": 1692073659,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1108409,
-      "num": 641319,
-      "word": "江苏警方通报女子被分尸",
-      "onboard_time": 1692099097,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1092315,
@@ -371,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 978327,
-      "num": 978327,
-      "word": "谁抢到林俊杰门票",
-      "onboard_time": 1692101981,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 971543,
       "num": 971543,
       "word": "男子接完诈骗电话卡里多出14万",
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912105,
+      "num": 912105,
+      "word": "杨玏 早知道不来了",
+      "onboard_time": 1692099639,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 905634,
       "num": 847411,
       "word": "魏大勋方维权起诉",
@@ -409,14 +417,6 @@
       "onboard_time": 1692065853,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 884345,
-      "num": 884345,
-      "word": "杨玏 早知道不来了",
-      "onboard_time": 1692099639,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 880422,
@@ -563,6 +563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689545,
+      "num": 411337,
+      "word": "我以为的30岁vs实际的30岁",
+      "onboard_time": 1692098196,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 684161,
+      "num": 559734,
+      "word": "吴泽林好惨",
+      "onboard_time": 1692102766,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665923,
       "num": 665923,
       "word": "弟弟中暑我妈给他做的绿豆汤",
@@ -587,12 +603,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 629950,
-      "num": 342083,
-      "word": "我以为的30岁vs实际的30岁",
-      "onboard_time": 1692098196,
-      "rank": 30,
-      "category": "情感,幽默"
+      "raw_hot": 640985,
+      "num": 627504,
+      "word": "涂山璟深情告白小夭",
+      "onboard_time": 1692099575,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 628038,
@@ -600,14 +616,6 @@
       "word": "魏大勋演的毛岸英",
       "onboard_time": 1692076238,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 627504,
-      "num": 627504,
-      "word": "涂山璟深情告白小夭",
-      "onboard_time": 1692099575,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -681,6 +689,14 @@
       "onboard_time": 1692058715,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 572015,
+      "num": 572015,
+      "word": "多所高校将延长研究生学制",
+      "onboard_time": 1692100663,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 570056,
@@ -819,14 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 510803,
-      "num": 510803,
-      "word": "多所高校将延长研究生学制",
-      "onboard_time": 1692100663,
-      "rank": 15,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 509533,
       "num": 486443,
       "word": "金晨微指破亿",
@@ -931,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 460362,
+      "num": 408158,
+      "word": "内娱新晋颜霸",
+      "onboard_time": 1692098138,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458751,
       "num": 458751,
       "word": "韩国女艺人在日本演出遭性骚扰",
@@ -1019,14 +1035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 447085,
-      "num": 400074,
-      "word": "内娱新晋颜霸",
-      "onboard_time": 1692098138,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431138,
       "num": 365347,
       "word": "质疑紫米理解紫米成为紫米",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1692068440,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 411863,
+      "num": 411863,
+      "word": "沙一汀 人在旅游",
+      "onboard_time": 1692103001,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 409056,
@@ -1539,6 +1555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 283714,
+      "num": 283714,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1692102823,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282813,
       "num": 282813,
       "word": "小夭用三次吻诠释有多爱涂山璟",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1692022661,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266164,
+      "num": 266164,
+      "word": "一个快速入睡的办法",
+      "onboard_time": 1692102280,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 265523,
@@ -2027,6 +2059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208387,
+      "num": 208387,
+      "word": "ZB1演唱会",
+      "onboard_time": 1692103302,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207738,
       "num": 207738,
       "word": "猴崽带甜甜糕回城",
@@ -2288,14 +2328,6 @@
       "word": "认识的人踩我雷点",
       "onboard_time": 1692093339,
       "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 171686,
-      "num": 171686,
-      "word": "一个快速入睡的办法",
-      "onboard_time": 1692102280,
-      "rank": 46,
       "category": "幽默,情感"
     },
     {
@@ -2627,6 +2659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 48946,
+      "num": 1340538,
+      "word": "画中画看长江沿线非遗",
+      "onboard_time": 1692101981,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42696,
       "num": 42696,
       "word": "边伯贤repo",
@@ -2641,6 +2681,14 @@
       "onboard_time": 1692036439,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 35498,
+      "num": 532810,
+      "word": "高三女生骑车摔晕店家顾客暖心帮忙",
+      "onboard_time": 1692102766,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34587,
@@ -2680,14 +2728,6 @@
       "word": "三代治沙人用百年时间把沙海变绿洲",
       "onboard_time": 1692097297,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30578,
-      "num": 1340538,
-      "word": "画中画看长江沿线非遗",
-      "onboard_time": 1692101981,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
