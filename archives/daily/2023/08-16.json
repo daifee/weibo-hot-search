@@ -1,6 +1,6 @@
 {
   "startTime": 1692116466090,
-  "endTime": 1692141338159,
+  "endTime": 1692142430044,
   "band_list": [
     {
       "raw_hot": 2596799,
@@ -19,24 +19,32 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1064915,
-      "num": 1064915,
+      "raw_hot": 1141950,
+      "num": 1141950,
       "word": "自己拍的照片被视觉中国告侵权",
       "onboard_time": 1692091840,
       "rank": 3,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 777608,
-      "num": 777608,
+      "raw_hot": 961558,
+      "num": 961558,
       "word": "哈登震惊于中国卖货速度",
       "onboard_time": 1692133633,
       "rank": 29,
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 685854,
-      "num": 685854,
+      "raw_hot": 869020,
+      "num": 869020,
+      "word": "北京为何成了茶饮荒漠",
+      "onboard_time": 1692138018,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833357,
+      "num": 833357,
       "word": "女子称带3娃买4张票登机被拒",
       "onboard_time": 1692125536,
       "rank": 47,
@@ -57,14 +65,6 @@
       "onboard_time": 1692112659,
       "rank": 5,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 582700,
-      "num": 582700,
-      "word": "北京为何成了茶饮荒漠",
-      "onboard_time": 1692138018,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 574938,
@@ -88,6 +88,14 @@
       "word": "江苏警方通报女子被分尸",
       "onboard_time": 1692099097,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538084,
+      "num": 174881,
+      "word": "保姆9个月偷走雇主163瓶茅台",
+      "onboard_time": 1692140481,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -155,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337675,
-      "num": 160111,
-      "word": "保姆9个月偷走雇主163瓶茅台",
-      "onboard_time": 1692140481,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326105,
       "num": 326105,
       "word": "八种容易烂脸的食物",
@@ -185,6 +185,14 @@
       "onboard_time": 1692113916,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307484,
+      "num": 307484,
+      "word": "央视曾评视觉中国把法务做成销售",
+      "onboard_time": 1692123918,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298567,
@@ -219,6 +227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271645,
+      "num": 271645,
+      "word": "单亲妈妈卖房给儿子买婚房被拉黑",
+      "onboard_time": 1692103962,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262996,
+      "num": 262996,
+      "word": "问长相思我花钱花在哪",
+      "onboard_time": 1692135016,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260137,
       "num": 259228,
       "word": "一个快速入睡的办法",
@@ -235,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247781,
+      "num": 247781,
+      "word": "仅有14%的科室主任副主任年收入超过20万元",
+      "onboard_time": 1692088965,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246130,
       "num": 246130,
       "word": "日媒曝福原爱或将面临国际通缉",
@@ -243,44 +275,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 244540,
-      "num": 244540,
-      "word": "央视曾评视觉中国把法务做成销售",
-      "onboard_time": 1692123918,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239376,
       "num": 239376,
       "word": "王鹤润替角丽谯圆梦了",
       "onboard_time": 1692108882,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 236193,
-      "num": 236193,
-      "word": "单亲妈妈卖房给儿子买婚房被拉黑",
-      "onboard_time": 1692103962,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234931,
-      "num": 234931,
-      "word": "问长相思我花钱花在哪",
-      "onboard_time": 1692135016,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 221357,
-      "num": 221357,
-      "word": "仅有14%的科室主任副主任年收入超过20万元",
-      "onboard_time": 1692088965,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217786,
@@ -297,6 +297,14 @@
       "onboard_time": 1692110802,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216813,
+      "num": 216813,
+      "word": "白敬亭向东北灾区捐赠物资",
+      "onboard_time": 1692140782,
+      "rank": 24,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 215646,
@@ -355,12 +363,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186064,
-      "num": 186064,
+      "raw_hot": 186528,
+      "num": 186528,
       "word": "视觉中国创始人称是误会",
       "onboard_time": 1692099097,
       "rank": 40,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 173827,
+      "num": 173827,
+      "word": "补血对于女性来说都是必要的",
+      "onboard_time": 1692129195,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 164966,
+      "num": 164966,
+      "word": "广东一医院设备未发货先支付货款1.2亿",
+      "onboard_time": 1692141324,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164268,
@@ -387,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157170,
-      "num": 157169,
-      "word": "白敬亭向东北灾区捐赠物资",
-      "onboard_time": 1692140782,
-      "rank": 24,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 144802,
       "num": 144802,
       "word": "新型citydrink",
@@ -419,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141426,
+      "num": 141426,
+      "word": "山东大哥物美价廉经营18年突然走红",
+      "onboard_time": 1692141324,
+      "rank": 37,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 141132,
       "num": 326751,
       "word": "大熊猫母女吃笋像大小号复制粘贴",
@@ -435,19 +459,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137583,
-      "num": 137583,
-      "word": "补血对于女性来说都是必要的",
-      "onboard_time": 1692129195,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 126045,
       "num": 126045,
       "word": "邓为涂山璟继任族长剧照",
       "onboard_time": 1692106062,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 125558,
+      "num": 125558,
+      "word": "王一博长空之王多地公益放映",
+      "onboard_time": 1692122718,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -459,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115256,
-      "num": 115256,
-      "word": "王一博长空之王多地公益放映",
-      "onboard_time": 1692122718,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 112079,
       "num": 138817,
       "word": "陈凯歌对电影的敬畏心",
@@ -475,16 +491,24 @@
       "category": "影视"
     },
     {
-      "raw_hot": 108500,
-      "num": 108500,
+      "raw_hot": 110169,
+      "num": 110169,
       "word": "初空带资进组改剧本",
       "onboard_time": 1692138978,
       "rank": 33,
       "category": "影视"
     },
     {
-      "raw_hot": 102453,
-      "num": 102453,
+      "raw_hot": 107365,
+      "num": 107365,
+      "word": "SEVENTEEN日专先行曲MV公开",
+      "onboard_time": 1692141928,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 103726,
+      "num": 103726,
       "word": "原生家庭对性格和习惯的塑造",
       "onboard_time": 1692131113,
       "rank": 43,
@@ -497,14 +521,6 @@
       "onboard_time": 1692120322,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99858,
-      "num": 99858,
-      "word": "山东大哥物美价廉经营18年突然走红",
-      "onboard_time": 1692141324,
-      "rank": 37,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 97986,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 69532,
-      "num": 69532,
+      "num": 78017,
       "word": "8分钟剖析檀健次演相柳",
       "onboard_time": 1692125116,
       "rank": 33,
@@ -553,14 +569,6 @@
       "onboard_time": 1692101981,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 58263,
-      "num": 69501,
-      "word": "广东一医院设备未发货先支付货款1.2亿",
-      "onboard_time": 1692141324,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56579,
@@ -603,7 +611,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 21482,
+      "raw_hot": 21746,
       "num": 1077619,
       "word": "绿色出游守护祖国大好河山",
       "onboard_time": 1692101804,
