@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692128022584,
+  "endTime": 1692130628925,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -37955,6 +37955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114419,
+      "num": 52186,
+      "word": "女子称带3娃买4张票登机被拒",
+      "onboard_time": 1692125536,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114181,
       "num": 114181,
       "word": "今天把祝福献给人民子弟兵",
@@ -39059,14 +39067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71929,
-      "num": 52186,
-      "word": "女子称带3娃买4张票登机被拒",
-      "onboard_time": 1692125536,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71413,
       "num": 1679081,
       "word": "洪涝灾害发生后注意卫生安全",
@@ -39651,6 +39651,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 42774,
+      "num": 42774,
+      "word": "8分钟剖析檀健次演相柳",
+      "onboard_time": 1692125116,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 42292,
       "num": 75239,
       "word": "HAPPYMARKDAY",
@@ -39664,6 +39672,14 @@
       "word": "青春主场梦想正当燃",
       "onboard_time": 1690860634,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41502,
+      "num": 41502,
+      "word": "央视曾评视觉中国把法务做成销售",
+      "onboard_time": 1692123918,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -39689,14 +39705,6 @@
       "onboard_time": 1692036439,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 38957,
-      "num": 38957,
-      "word": "8分钟剖析檀健次演相柳",
-      "onboard_time": 1692125116,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 38693,
@@ -39889,14 +39897,6 @@
       "onboard_time": 1691157401,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 28846,
-      "num": 28846,
-      "word": "央视曾评视觉中国把法务做成销售",
-      "onboard_time": 1692123918,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28800,
