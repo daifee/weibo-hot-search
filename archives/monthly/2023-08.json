@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692099231205,
+  "endTime": 1692102631078,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 10375516,
+      "num": 10375516,
+      "word": "青你2杜紫怡曝tangoz性骚扰",
+      "onboard_time": 1692098559,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9602069,
       "num": 9602069,
       "word": "时代峰峻全家福",
@@ -105,14 +113,6 @@
       "onboard_time": 1691331008,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5217490,
-      "num": 551815,
-      "word": "青你2杜紫怡曝tangoz性骚扰",
-      "onboard_time": 1692098559,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 4983871,
@@ -3155,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1460828,
+      "num": 1460828,
+      "word": "蒲熠星 祝各位此行无憾",
+      "onboard_time": 1692101621,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1459290,
       "num": 1459290,
       "word": "中国女婿见非洲丈母娘很害羞",
@@ -3939,6 +3947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1298762,
+      "num": 1298762,
+      "word": "火树贴脸开大",
+      "onboard_time": 1692097898,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1297257,
       "num": 1297257,
       "word": "震中现场",
@@ -4699,6 +4715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1162629,
+      "num": 1162629,
+      "word": "韩聪 我决定退出米兰周期所有赛事",
+      "onboard_time": 1692100481,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1159755,
       "num": 1159755,
       "word": "沈梦辰听到林允吐了的反应",
@@ -5113,6 +5137,14 @@
       "onboard_time": 1691797113,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1108409,
+      "num": 641319,
+      "word": "江苏警方通报女子被分尸",
+      "onboard_time": 1692099097,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1108119,
@@ -6004,7 +6036,7 @@
     },
     {
       "raw_hot": 1000280,
-      "num": 551671,
+      "num": 637542,
       "word": "八种容易烂脸的食物",
       "onboard_time": 1692095974,
       "rank": 10,
@@ -6249,6 +6281,14 @@
       "onboard_time": 1691926056,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 978327,
+      "num": 978327,
+      "word": "谁抢到林俊杰门票",
+      "onboard_time": 1692101981,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 976862,
@@ -7251,6 +7291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 884345,
+      "num": 884345,
+      "word": "杨玏 早知道不来了",
+      "onboard_time": 1692099639,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 883087,
       "num": 883087,
       "word": "封神第一部票房破20亿",
@@ -7385,14 +7433,6 @@
       "onboard_time": 1691227958,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 872726,
-      "num": 872726,
-      "word": "火树贴脸开大",
-      "onboard_time": 1692097898,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 871640,
@@ -11147,6 +11187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 641683,
+      "num": 641683,
+      "word": "视觉中国创始人称是误会",
+      "onboard_time": 1692099097,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 641608,
       "num": 641608,
       "word": "长相思断更檀健次喂饭",
@@ -11387,6 +11435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629950,
+      "num": 342083,
+      "word": "我以为的30岁vs实际的30岁",
+      "onboard_time": 1692098196,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 629118,
       "num": 992458,
       "word": "大妈误会卖肉老板中暑为其刮痧10分钟",
@@ -11424,6 +11480,14 @@
       "word": "魏大勋演的毛岸英",
       "onboard_time": 1692076238,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 627504,
+      "num": 627504,
+      "word": "涂山璟深情告白小夭",
+      "onboard_time": 1692099575,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -14819,6 +14883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510803,
+      "num": 510803,
+      "word": "多所高校将延长研究生学制",
+      "onboard_time": 1692100663,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 510557,
       "num": 510557,
       "word": "相柳出演猎罪图鉴",
@@ -17003,6 +17075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447085,
+      "num": 400074,
+      "word": "内娱新晋颜霸",
+      "onboard_time": 1692098138,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446768,
       "num": 446768,
       "word": "8月份十二星座的注意事项",
@@ -18865,14 +18945,6 @@
       "onboard_time": 1691986602,
       "rank": 49,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 400074,
-      "num": 400074,
-      "word": "内娱新晋颜霸",
-      "onboard_time": 1692098138,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 399877,
@@ -22417,14 +22489,6 @@
       "onboard_time": 1690980757,
       "rank": 19,
       "category": "自然"
-    },
-    {
-      "raw_hot": 326706,
-      "num": 278670,
-      "word": "我以为的30岁vs实际的30岁",
-      "onboard_time": 1692098196,
-      "rank": 30,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 326689,
@@ -26387,6 +26451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265497,
+      "num": 265497,
+      "word": "当Somi本人遇到 AI Somi",
+      "onboard_time": 1692099696,
+      "rank": 23,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 265447,
       "num": 265447,
       "word": "王源出发长沙路透",
@@ -26873,14 +26945,6 @@
       "onboard_time": 1692069518,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258500,
-      "num": 258500,
-      "word": "视觉中国创始人称是误会",
-      "onboard_time": 1692099097,
-      "rank": 34,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 258230,
@@ -28483,14 +28547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237122,
-      "num": 237122,
-      "word": "江苏警方通报女子被分尸",
-      "onboard_time": 1692099097,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237016,
       "num": 237016,
       "word": "看小夭的四种人",
@@ -28857,6 +28913,14 @@
       "onboard_time": 1691378859,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232925,
+      "num": 232925,
+      "word": "我经过风暴",
+      "onboard_time": 1692101383,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 232820,
@@ -34019,6 +34083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187659,
+      "num": 187659,
+      "word": "曲靖初入森林的新人体验",
+      "onboard_time": 1692101861,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187582,
       "num": 187582,
       "word": "国际猫咪日",
@@ -34505,6 +34577,14 @@
       "onboard_time": 1691681440,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182075,
+      "num": 182075,
+      "word": "潘生的好朋友一眼识破求救信息",
+      "onboard_time": 1692101082,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 182067,
@@ -35105,6 +35185,14 @@
       "onboard_time": 1691883565,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171686,
+      "num": 171686,
+      "word": "一个快速入睡的办法",
+      "onboard_time": 1692102280,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 171651,
@@ -39256,6 +39344,14 @@
       "word": "男子被洪水围困消防员从天而降救援",
       "onboard_time": 1690871014,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30578,
+      "num": 1340538,
+      "word": "画中画看长江沿线非遗",
+      "onboard_time": 1692101981,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
