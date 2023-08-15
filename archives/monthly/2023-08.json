@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692112537625,
+  "endTime": 1692113630306,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -851,20 +851,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2594886,
+      "num": 2594886,
+      "word": "蒲熠星 祝各位此行无憾",
+      "onboard_time": 1692101621,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2590802,
       "num": 832216,
       "word": "TFBOYS染了同一发色",
       "onboard_time": 1691145875,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2585792,
-      "num": 2585792,
-      "word": "蒲熠星 祝各位此行无憾",
-      "onboard_time": 1692101621,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 2582959,
@@ -10971,6 +10971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 656281,
+      "num": 656281,
+      "word": "90后姑娘摆摊卖热卤一晚最多卖5000元",
+      "onboard_time": 1692111461,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656061,
       "num": 400391,
       "word": "TF三代穿四叶草上衣",
@@ -16747,6 +16755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458703,
+      "num": 292848,
+      "word": "驼背终于有救了",
+      "onboard_time": 1692112777,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 458373,
       "num": 458373,
       "word": "Faker回归首发",
@@ -17356,7 +17372,7 @@
     },
     {
       "raw_hot": 442633,
-      "num": 391257,
+      "num": 406555,
       "word": "王鹤润替角丽谯圆梦了",
       "onboard_time": 1692108882,
       "rank": 28,
@@ -19489,14 +19505,6 @@
       "onboard_time": 1690967493,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 390202,
-      "num": 390202,
-      "word": "90后姑娘摆摊卖热卤一晚最多卖5000元",
-      "onboard_time": 1692111461,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389859,
@@ -27971,6 +27979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248057,
+      "num": 248057,
+      "word": "平时要假装自己不追星的原因",
+      "onboard_time": 1692113078,
+      "rank": 35,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 247839,
       "num": 247839,
       "word": "乌克兰丈母娘感叹上海是童话世界",
@@ -28481,6 +28497,14 @@
       "onboard_time": 1690940975,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241476,
+      "num": 241476,
+      "word": "请理解一下我不回消息的原因",
+      "onboard_time": 1692112659,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 241466,
@@ -30467,6 +30491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217977,
+      "num": 217977,
+      "word": "与患有ADHD女友的日常",
+      "onboard_time": 1692110321,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 217929,
       "num": 217929,
       "word": "杨超越新剧七世标题",
@@ -32289,14 +32321,6 @@
       "onboard_time": 1691679100,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202227,
-      "num": 202227,
-      "word": "与患有ADHD女友的日常",
-      "onboard_time": 1692110321,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 202187,

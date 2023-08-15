@@ -1,6 +1,6 @@
 {
   "startTime": 1692029963631,
-  "endTime": 1692112537625,
+  "endTime": 1692113630306,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2585792,
-      "num": 2585792,
+      "raw_hot": 2594886,
+      "num": 2594886,
       "word": "蒲熠星 祝各位此行无憾",
       "onboard_time": 1692101621,
       "rank": 1,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656281,
+      "num": 656281,
+      "word": "90后姑娘摆摊卖热卤一晚最多卖5000元",
+      "onboard_time": 1692111461,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641683,
       "num": 641683,
       "word": "视觉中国创始人称是误会",
@@ -1083,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458703,
+      "num": 292848,
+      "word": "驼背终于有救了",
+      "onboard_time": 1692112777,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 456391,
       "num": 510531,
       "word": "向佐一口气带5个娃过暑假",
@@ -1164,7 +1180,7 @@
     },
     {
       "raw_hot": 442633,
-      "num": 391257,
+      "num": 406555,
       "word": "王鹤润替角丽谯圆梦了",
       "onboard_time": 1692108882,
       "rank": 28,
@@ -1321,14 +1337,6 @@
       "onboard_time": 1692094057,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 390202,
-      "num": 390202,
-      "word": "90后姑娘摆摊卖热卤一晚最多卖5000元",
-      "onboard_time": 1692111461,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386228,
@@ -2075,6 +2083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248057,
+      "num": 248057,
+      "word": "平时要假装自己不追星的原因",
+      "onboard_time": 1692113078,
+      "rank": 35,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 247621,
       "num": 247621,
       "word": "张艺兴官宣MALLSTARS总决赛阵容",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1692089621,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241476,
+      "num": 241476,
+      "word": "请理解一下我不回消息的原因",
+      "onboard_time": 1692112659,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 240975,
@@ -2233,6 +2257,14 @@
       "onboard_time": 1692029671,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 217977,
+      "num": 217977,
+      "word": "与患有ADHD女友的日常",
+      "onboard_time": 1692110321,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 216934,
@@ -2377,14 +2409,6 @@
       "onboard_time": 1692069638,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 202227,
-      "num": 202227,
-      "word": "与患有ADHD女友的日常",
-      "onboard_time": 1692110321,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 202172,
