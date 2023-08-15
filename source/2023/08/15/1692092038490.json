@@ -1,0 +1,410 @@
+{
+  "runTime": 1692092038490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2029725,
+        "num": 2029725,
+        "word": "仅有14%的科室主任副主任年收入超过20万元",
+        "onboard_time": 1692088965,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754618,
+        "num": 754618,
+        "word": "张艺兴是国家话剧院演员",
+        "onboard_time": 1692083619,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79744,
+        "num": 753503,
+        "word": "人类全程护送藏羚羊回家画面太暖了",
+        "onboard_time": 1692087162,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2056909,
+        "num": 739182,
+        "word": "日媒曝福原爱或将面临国际通缉",
+        "onboard_time": 1692085901,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1010244,
+        "num": 715399,
+        "word": "四六级",
+        "onboard_time": 1692066159,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1475777,
+        "num": 711514,
+        "word": "银行卡内突然到账14.8万",
+        "onboard_time": 1692084639,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701191,
+        "num": 701191,
+        "word": "猎罪图鉴编剧谈退出第二季",
+        "onboard_time": 1692089081,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 630978,
+        "num": 630978,
+        "word": "大脑为什么删除2岁前的记忆",
+        "onboard_time": 1692067536,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537147,
+        "num": 587808,
+        "word": "刘若英西安演唱会 取消",
+        "onboard_time": 1692091418,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 520209,
+        "num": 520209,
+        "word": "李玟患乳腺癌仍坚持录完好声音",
+        "onboard_time": 1692081515,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1122853,
+        "num": 519978,
+        "word": "女子戴玉镯10年关节变形成手铐",
+        "onboard_time": 1692089919,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842583,
+        "num": 518608,
+        "word": "魏大勋方维权起诉",
+        "onboard_time": 1692091182,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296810,
+        "num": 518133,
+        "word": "退休干部招募敢死队密谋暴力行动",
+        "onboard_time": 1692079297,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244034,
+        "num": 517218,
+        "word": "为什么高铁座位没有E",
+        "onboard_time": 1692071860,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103631,
+        "num": 516240,
+        "word": "他多看一眼七秒钟救下一条生命",
+        "onboard_time": 1692090039,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840527,
+        "num": 514698,
+        "word": "四六级成绩",
+        "onboard_time": 1692090338,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 547748,
+        "num": 513594,
+        "word": "偶遇撒贝宁一家四口爬山",
+        "onboard_time": 1692089141,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218305,
+        "num": 513324,
+        "word": "你喝的奶茶有身份证吗",
+        "onboard_time": 1692089621,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512642,
+        "num": 512642,
+        "word": "长相思豆瓣开分7.6",
+        "onboard_time": 1692089799,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507222,
+        "num": 507222,
+        "word": "播一部火一部的明星",
+        "onboard_time": 1692080074,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519580,
+        "num": 498781,
+        "word": "男子为制止女友大喊亲吻被咬断舌头",
+        "onboard_time": 1692088119,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484868,
+        "num": 484868,
+        "word": "莲花楼豆瓣开分8.0",
+        "onboard_time": 1692089859,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403389,
+        "num": 403389,
+        "word": "梁田回应被性骚扰为何不报警",
+        "onboard_time": 1692089321,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398402,
+        "num": 398402,
+        "word": "爸爸当家 新疆恋综",
+        "onboard_time": 1692085421,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382797,
+        "num": 382797,
+        "word": "吐鲁番多名游客突然头发直立如刺猬",
+        "onboard_time": 1692089979,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371192,
+        "num": 371192,
+        "word": "妈妈将自己和龙凤胎用水枪印墙上",
+        "onboard_time": 1692090461,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360199,
+        "num": 360199,
+        "word": "马嘉祺 EP",
+        "onboard_time": 1692087039,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 359935,
+        "num": 359935,
+        "word": "韩国女艺人在日本演出遭性骚扰",
+        "onboard_time": 1692083258,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346940,
+        "num": 346940,
+        "word": "没想到离职半年还能背锅",
+        "onboard_time": 1692085600,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343207,
+        "num": 343207,
+        "word": "缅甸五星级酒店300多元都没人去",
+        "onboard_time": 1692083440,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 330884,
+        "num": 330884,
+        "word": "世界上最大的兔子",
+        "onboard_time": 1692084878,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 320088,
+        "num": 320088,
+        "word": "Angelababy与小海绵现身机场",
+        "onboard_time": 1692084937,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279117,
+        "num": 279117,
+        "word": "日本男子患无精症妻子接受公公捐精",
+        "onboard_time": 1692074381,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265108,
+        "num": 265108,
+        "word": "答题卡这名字太不吉利",
+        "onboard_time": 1692087579,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260521,
+        "num": 260521,
+        "word": "椰果不是椰肉是细菌产物",
+        "onboard_time": 1692085840,
+        "rank": 34,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 257511,
+        "num": 257511,
+        "word": "莲花楼",
+        "onboard_time": 1692089679,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255142,
+        "num": 255142,
+        "word": "孤注一掷 删减",
+        "onboard_time": 1692086799,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234386,
+        "num": 234386,
+        "word": "Ella时隔9年再拍新剧",
+        "onboard_time": 1692082962,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225423,
+        "num": 225423,
+        "word": "照身份证千万别把眼睛睁太大",
+        "onboard_time": 1692076121,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224772,
+        "num": 224772,
+        "word": "侯雯元 删不完根本删不完",
+        "onboard_time": 1692083138,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215867,
+        "num": 215867,
+        "word": "取外卖看到的人脸可能也是乌龙",
+        "onboard_time": 1692090882,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203188,
+        "num": 203188,
+        "word": "自己拍的照片被视觉中国告侵权",
+        "onboard_time": 1692091840,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192785,
+        "num": 192785,
+        "word": "景甜冯绍峰藏头诗互动",
+        "onboard_time": 1692077078,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189619,
+        "num": 189619,
+        "word": "逆水寒",
+        "onboard_time": 1692090762,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180599,
+        "num": 180599,
+        "word": "11岁男孩6年为去世父母还清欠款",
+        "onboard_time": 1692082836,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179660,
+        "num": 179660,
+        "word": "小夭一句嫂嫂创飞了两个人",
+        "onboard_time": 1692077257,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174008,
+        "num": 174008,
+        "word": "历次A股印花税调整后上证指数表现",
+        "onboard_time": 1692086564,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167173,
+        "num": 167173,
+        "word": "为什么全身脸部的皮肤最差",
+        "onboard_time": 1692068440,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161113,
+        "num": 161113,
+        "word": "做饭的坏习惯可能导致家庭癌",
+        "onboard_time": 1692074262,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158769,
+        "num": 158769,
+        "word": "李玟老公最后一份公开声明",
+        "onboard_time": 1692081937,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#第一个全国生态日#"
+    }
+  }
+}
