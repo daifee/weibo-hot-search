@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692182018318,
+  "endTime": 1692184422507,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2211,6 +2211,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1775938,
+      "num": 1775938,
+      "word": "疑被贩卖缅北女大学生发声",
+      "onboard_time": 1692173137,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1771484,
       "num": 1771484,
       "word": "iPhone14被用户吐槽电池老化",
@@ -3121,6 +3129,14 @@
       "onboard_time": 1691585914,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1501930,
+      "num": 571242,
+      "word": "Angelababy张大大绝交视频",
+      "onboard_time": 1692180757,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1501552,
@@ -4881,14 +4897,6 @@
       "onboard_time": 1692068378,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1168826,
-      "num": 1168826,
-      "word": "疑被贩卖缅北女大学生发声",
-      "onboard_time": 1692173137,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1167596,
@@ -7307,14 +7315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 903251,
-      "num": 571242,
-      "word": "Angelababy张大大绝交视频",
-      "onboard_time": 1692180757,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 902994,
       "num": 902994,
       "word": "我朋友失恋了",
@@ -9651,6 +9651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 744811,
+      "num": 744811,
+      "word": "网红铁头称下个目标是衡水中学",
+      "onboard_time": 1692180277,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744282,
       "num": 744282,
       "word": "猎罪图鉴编剧谈退出第二季",
@@ -10777,6 +10785,14 @@
       "onboard_time": 1691645254,
       "rank": 24,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 684128,
+      "num": 684128,
+      "word": "成毅拇指外翻",
+      "onboard_time": 1692182437,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 683466,
@@ -12363,6 +12379,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 611870,
+      "num": 611870,
+      "word": "女朋友给我留的一半葡萄",
+      "onboard_time": 1692180637,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 611785,
       "num": 611785,
       "word": "成都大运会闭幕式",
@@ -13489,14 +13513,6 @@
       "onboard_time": 1691630194,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 572866,
-      "num": 572866,
-      "word": "网红铁头称下个目标是衡水中学",
-      "onboard_time": 1692180277,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 572581,
@@ -14945,14 +14961,6 @@
       "onboard_time": 1691161851,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 528099,
-      "num": 528099,
-      "word": "女朋友给我留的一半葡萄",
-      "onboard_time": 1692180637,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 527917,
@@ -22395,6 +22403,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 350280,
+      "num": 350280,
+      "word": "我认识 它叫知了猫",
+      "onboard_time": 1692180998,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 350251,
       "num": 350251,
       "word": "那英叫高叶大嫂",
@@ -25643,6 +25659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 294970,
+      "num": 294970,
+      "word": "温州男子讲述缅北惊魂500天",
+      "onboard_time": 1692182799,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294816,
       "num": 294816,
       "word": "恶鬼大结局",
@@ -25841,6 +25865,14 @@
       "onboard_time": 1691943453,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291983,
+      "num": 291983,
+      "word": "张艺兴工作室换头像",
+      "onboard_time": 1692182257,
+      "rank": 23,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 291970,
@@ -26617,6 +26649,14 @@
       "onboard_time": 1692059439,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282061,
+      "num": 282061,
+      "word": "肖战穿皮衣了",
+      "onboard_time": 1692183335,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 281983,
@@ -27771,6 +27811,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 265955,
+      "num": 265955,
+      "word": "唐禹哲披荆斩棘",
+      "onboard_time": 1692183694,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265835,
       "num": 265835,
       "word": "网友P的檀健次女装",
@@ -28169,6 +28217,14 @@
       "onboard_time": 1691061574,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261049,
+      "num": 261049,
+      "word": "黄仁俊钟辰乐杨迪复刻十二年前合照",
+      "onboard_time": 1692182018,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 261040,
@@ -30715,14 +30771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229051,
-      "num": 229051,
-      "word": "我认识 它叫知了猫",
-      "onboard_time": 1692180998,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 228561,
       "num": 228561,
       "word": "何泓姗董思成新剧预告亲了5次",
@@ -32427,6 +32475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211897,
+      "num": 211897,
+      "word": "公司的厕所很影响办公心情",
+      "onboard_time": 1692183393,
+      "rank": 37,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 211881,
       "num": 234410,
       "word": "学生问我的头像是荷兰猪吗",
@@ -34115,6 +34171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199902,
+      "num": 196865,
+      "word": "张云雷专访谈演唱会是幻想成真",
+      "onboard_time": 1692183335,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199867,
       "num": 199867,
       "word": "尤长靖寄语海外华裔青少年",
@@ -34137,6 +34201,14 @@
       "onboard_time": 1691899474,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199592,
+      "num": 230171,
+      "word": "KPL",
+      "onboard_time": 1690971395,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 199555,
@@ -35203,6 +35275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192820,
+      "num": 192820,
+      "word": "莲花楼琪琪恰恰蹦蹦拉拉",
+      "onboard_time": 1692184117,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192780,
       "num": 241808,
       "word": "女爱豆日常固定塑形流程",
@@ -35756,7 +35836,7 @@
     },
     {
       "raw_hot": 188936,
-      "num": 188936,
+      "num": 192772,
       "word": "玉骨遥海外观众",
       "onboard_time": 1692181897,
       "rank": 46,
@@ -37747,14 +37827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160050,
-      "num": 230171,
-      "word": "KPL",
-      "onboard_time": 1690971395,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 159631,
       "num": 221774,
       "word": "妈妈钱包里拿钱的手缓缓停下了",
@@ -39553,6 +39625,14 @@
       "onboard_time": 1692055466,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117537,
+      "num": 192743,
+      "word": "腾讯第二季度净利润261.71亿元",
+      "onboard_time": 1692184294,
+      "rank": 48,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 117333,
@@ -41473,6 +41553,14 @@
       "onboard_time": 1691434817,
       "rank": 40,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 37078,
+      "num": 479504,
+      "word": "男孩住敬老院15年考上大学",
+      "onboard_time": 1692183638,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35508,
