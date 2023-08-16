@@ -1,0 +1,410 @@
+{
+  "runTime": 1692196427182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1445104,
+        "num": 1445104,
+        "word": "你的微信和微博是俩人在运营吗",
+        "onboard_time": 1692193901,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1341793,
+        "num": 1341793,
+        "word": "在鸭血上发现的红唇",
+        "onboard_time": 1692192874,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34516,
+        "num": 998570,
+        "word": "初秋的乡间田野生机勃勃",
+        "onboard_time": 1692194800,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909644,
+        "num": 909644,
+        "word": "朋友圈快乐的内容消失了",
+        "onboard_time": 1692194081,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 862928,
+        "num": 862928,
+        "word": "被严重低估的两部古装剧",
+        "onboard_time": 1692187656,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 826636,
+        "num": 826636,
+        "word": "赵露思blingbling的",
+        "onboard_time": 1692193417,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755741,
+        "num": 755741,
+        "word": "马伯骞心动的信号",
+        "onboard_time": 1692192158,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735727,
+        "num": 735727,
+        "word": "长相思第二季能不能明天播啊",
+        "onboard_time": 1692187957,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381935,
+        "num": 733714,
+        "word": "国航回应网传CA1557航班因被劫取消",
+        "onboard_time": 1692190656,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297949,
+        "num": 733687,
+        "word": "涉诈嫌犯看孤注一掷被抓",
+        "onboard_time": 1692188135,
+        "rank": 9,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 1867921,
+        "num": 733687,
+        "word": "2岁幼童被父亲从楼上扔下致死",
+        "onboard_time": 1692192874,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733687,
+        "num": 733686,
+        "word": "翻斗花园小美",
+        "onboard_time": 1692191494,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730281,
+        "num": 730281,
+        "word": "Angelababy张大大绝交视频",
+        "onboard_time": 1692180757,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69203,
+        "num": 704199,
+        "word": "环卫工清理垃圾男子送百余个空瓶表感谢",
+        "onboard_time": 1692171760,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85448,
+        "num": 694844,
+        "word": "交警买空醉驾瓜农的一车西瓜",
+        "onboard_time": 1692194441,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688968,
+        "num": 688968,
+        "word": "余生工作人员说杨紫是娱乐圈最nice艺人",
+        "onboard_time": 1692188197,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 673240,
+        "num": 673240,
+        "word": "檀健次别唱了我自己哭",
+        "onboard_time": 1692193179,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514444,
+        "num": 514444,
+        "word": "封神第一部实时票房破21亿",
+        "onboard_time": 1692193838,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 664276,
+        "num": 511886,
+        "word": "涂山璟奶奶的药给相柳喝吧",
+        "onboard_time": 1692194681,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505009,
+        "num": 505009,
+        "word": "编剧回应李莲花去哪了",
+        "onboard_time": 1692195641,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 625306,
+        "num": 501417,
+        "word": "为什么现在住酒店退房不查房了",
+        "onboard_time": 1692192997,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 496314,
+        "num": 496314,
+        "word": "印度女孩约会彻夜未归遭父亲捅杀拖尸游街",
+        "onboard_time": 1692193538,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465057,
+        "num": 465057,
+        "word": "封神海报 自来水的亿把火",
+        "onboard_time": 1692195041,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463503,
+        "num": 463503,
+        "word": "涂山璟抱小夭像抱到了全世界",
+        "onboard_time": 1692194500,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386242,
+        "num": 386242,
+        "word": "整治MOBA游戏乱象",
+        "onboard_time": 1692192278,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 429332,
+        "num": 382067,
+        "word": "成毅邓为檀健次剧集吸粉榜TOP3",
+        "onboard_time": 1692194383,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429260,
+        "num": 369354,
+        "word": "鞠婧祎挂脖吊带",
+        "onboard_time": 1692191018,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 408208,
+        "num": 362774,
+        "word": "成毅拇指外翻",
+        "onboard_time": 1692182437,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343584,
+        "num": 343584,
+        "word": "疑被贩卖缅北女大学生发声",
+        "onboard_time": 1692173137,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310856,
+        "num": 310856,
+        "word": "拔了全口牙齿是什么体验",
+        "onboard_time": 1692195222,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1306399,
+        "num": 307346,
+        "word": "没想到家有儿女里也有海底捞",
+        "onboard_time": 1692190958,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378033,
+        "num": 304903,
+        "word": "有没有可能白鹿就是在拍戏",
+        "onboard_time": 1692194500,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365144,
+        "num": 304630,
+        "word": "莲花楼对于成毅的意义",
+        "onboard_time": 1692195882,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296999,
+        "num": 296999,
+        "word": "为什么爸妈对工作接受度那么高",
+        "onboard_time": 1692187595,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229612,
+        "num": 229612,
+        "word": "村会计骗村民身份证开卡给同学刷流水",
+        "onboard_time": 1692191795,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358184,
+        "num": 225254,
+        "word": "邓为涂山璟穿越了",
+        "onboard_time": 1692191857,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325429,
+        "num": 224552,
+        "word": "阿程哥",
+        "onboard_time": 1692193597,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306083,
+        "num": 221854,
+        "word": "盗墓笔记",
+        "onboard_time": 1692187776,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216682,
+        "num": 216682,
+        "word": "肠胃是情绪器官的铁证",
+        "onboard_time": 1692184656,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207988,
+        "num": 207988,
+        "word": "女朋友给我留的一半葡萄",
+        "onboard_time": 1692180637,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278561,
+        "num": 207076,
+        "word": "杨幂上身身材",
+        "onboard_time": 1692176499,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252862,
+        "num": 203795,
+        "word": "丁禹兮把赵露思的黄豆糕喂给杨超越",
+        "onboard_time": 1692184836,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227112,
+        "num": 202486,
+        "word": "TF三代演唱会饭拍生图",
+        "onboard_time": 1692196243,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216717,
+        "num": 200063,
+        "word": "肖战穿皮衣了",
+        "onboard_time": 1692183335,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197776,
+        "num": 197776,
+        "word": "家人手制凤冠霞帔八抬大轿送女出嫁",
+        "onboard_time": 1692195579,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176937,
+        "num": 197322,
+        "word": "雾山五行",
+        "onboard_time": 1692192399,
+        "rank": 45,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 167321,
+        "num": 196656,
+        "word": "腾讯第二季度净利润375.48亿元",
+        "onboard_time": 1692184294,
+        "rank": 46,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 166084,
+        "num": 196145,
+        "word": "一瞬间仿佛误入了油画里",
+        "onboard_time": 1692195160,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161099,
+        "num": 195539,
+        "word": "离开你谁还把我当小孩",
+        "onboard_time": 1692196243,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 131163,
+        "num": 194929,
+        "word": "走进医院才发现健康有多重要",
+        "onboard_time": 1692189456,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#生态文明的种子深植于心#"
+    }
+  }
+}

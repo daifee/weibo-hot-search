@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692195290543,
+  "endTime": 1692196427182,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -283,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1867921,
+      "num": 733687,
+      "word": "2岁幼童被父亲从楼上扔下致死",
+      "onboard_time": 1692192874,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1859194,
       "num": 429955,
       "word": "于适龙吸水",
@@ -345,14 +353,6 @@
       "onboard_time": 1692162044,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1723735,
-      "num": 525764,
-      "word": "2岁幼童被父亲从楼上扔下致死",
-      "onboard_time": 1692192874,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1716373,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 1542587,
-      "num": 525388,
+      "num": 688968,
       "word": "余生工作人员说杨紫是娱乐圈最nice艺人",
       "onboard_time": 1692188197,
       "rank": 16,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 1501930,
-      "num": 571242,
+      "num": 730281,
       "word": "Angelababy张大大绝交视频",
       "onboard_time": 1692180757,
       "rank": 30,
@@ -521,6 +521,14 @@
       "onboard_time": 1692081515,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1445104,
+      "num": 1445104,
+      "word": "你的微信和微博是俩人在运营吗",
+      "onboard_time": 1692193901,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 1441010,
@@ -609,6 +617,14 @@
       "onboard_time": 1692154475,
       "rank": 12,
       "category": "国内要闻,科技"
+    },
+    {
+      "raw_hot": 1341793,
+      "num": 1341793,
+      "word": "在鸭血上发现的红唇",
+      "onboard_time": 1692192874,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 1340381,
@@ -841,14 +857,6 @@
       "onboard_time": 1692091418,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1154046,
-      "num": 1154046,
-      "word": "在鸭血上发现的红唇",
-      "onboard_time": 1692192874,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 1153000,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1691985579,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 909644,
+      "num": 909644,
+      "word": "朋友圈快乐的内容消失了",
+      "onboard_time": 1692194081,
+      "rank": 17,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 905634,
@@ -1500,7 +1516,7 @@
     },
     {
       "raw_hot": 743663,
-      "num": 523279,
+      "num": 733686,
       "word": "翻斗花园小美",
       "onboard_time": 1692191494,
       "rank": 48,
@@ -1763,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 673240,
+      "num": 673240,
+      "word": "檀健次别唱了我自己哭",
+      "onboard_time": 1692193179,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 670326,
       "num": 670326,
       "word": "杨紫羊了个羊通关后的反应",
@@ -1792,6 +1816,14 @@
       "word": "乌尔善说封神后续有伯邑考戏份",
       "onboard_time": 1691971473,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 664276,
+      "num": 511886,
+      "word": "涂山璟奶奶的药给相柳喝吧",
+      "onboard_time": 1692194681,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -1939,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 625306,
+      "num": 501417,
+      "word": "为什么现在住酒店退房不查房了",
+      "onboard_time": 1692192997,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 622436,
       "num": 555561,
       "word": "成毅直播",
@@ -2000,14 +2040,6 @@
       "word": "原来高铁票里面有金属线圈",
       "onboard_time": 1692055225,
       "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 612940,
-      "num": 416680,
-      "word": "为什么现在住酒店退房不查房了",
-      "onboard_time": 1692192997,
-      "rank": 20,
       "category": "情感"
     },
     {
@@ -2539,14 +2571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 526368,
-      "num": 526368,
-      "word": "你的微信和微博是俩人在运营吗",
-      "onboard_time": 1692193901,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 525228,
       "num": 525228,
       "word": "余秀华 我知道怎么过情关了",
@@ -2568,14 +2592,6 @@
       "word": "邓为涂山璟穿越了",
       "onboard_time": 1692191857,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 519590,
-      "num": 454713,
-      "word": "檀健次别唱了我自己哭",
-      "onboard_time": 1692193179,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -2617,6 +2633,14 @@
       "onboard_time": 1692084878,
       "rank": 9,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 514444,
+      "num": 514444,
+      "word": "封神第一部实时票房破21亿",
+      "onboard_time": 1692193838,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 512642,
@@ -2672,6 +2696,14 @@
       "word": "李兰迪吵架戏嘴唇颤抖",
       "onboard_time": 1692188375,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 505009,
+      "num": 505009,
+      "word": "编剧回应李莲花去哪了",
+      "onboard_time": 1692195641,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -2745,6 +2777,14 @@
       "onboard_time": 1691942018,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 496314,
+      "num": 496314,
+      "word": "印度女孩约会彻夜未归遭父亲捅杀拖尸游街",
+      "onboard_time": 1692193538,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495531,
@@ -2939,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465057,
+      "num": 465057,
+      "word": "封神海报 自来水的亿把火",
+      "onboard_time": 1692195041,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 464362,
       "num": 375234,
       "word": "柳岩瘦下来的状态",
@@ -2953,6 +3001,14 @@
       "onboard_time": 1691997396,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 463503,
+      "num": 463503,
+      "word": "涂山璟抱小夭像抱到了全世界",
+      "onboard_time": 1692194500,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 462584,
@@ -3009,14 +3065,6 @@
       "onboard_time": 1692098138,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 459688,
-      "num": 459688,
-      "word": "朋友圈快乐的内容消失了",
-      "onboard_time": 1692194081,
-      "rank": 17,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 458751,
@@ -3195,14 +3243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440420,
-      "num": 410197,
-      "word": "印度女孩约会彻夜未归遭父亲捅杀拖尸游街",
-      "onboard_time": 1692193538,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438890,
       "num": 438890,
       "word": "檀健次 相柳有点浪漫",
@@ -3265,6 +3305,14 @@
       "onboard_time": 1692155913,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 429332,
+      "num": 382812,
+      "word": "成毅邓为檀健次剧集吸粉榜TOP3",
+      "onboard_time": 1692194383,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 428753,
@@ -3376,14 +3424,6 @@
       "word": "钟汉良秦岚新剧杀青",
       "onboard_time": 1691975313,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 418473,
-      "num": 418473,
-      "word": "封神第一部实时票房破21亿",
-      "onboard_time": 1692193838,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -3651,6 +3691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 386242,
+      "num": 386242,
+      "word": "整治MOBA游戏乱象",
+      "onboard_time": 1692192278,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 386228,
       "num": 386228,
       "word": "Ella时隔9年再拍新剧",
@@ -3723,14 +3771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 382812,
-      "num": 382812,
-      "word": "成毅邓为檀健次剧集吸粉榜TOP3",
-      "onboard_time": 1692194383,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 382797,
       "num": 382797,
       "word": "吐鲁番多名游客突然头发直立如刺猬",
@@ -3760,14 +3800,6 @@
       "word": "陈牧驰不要哭 要拍戏拍到八十岁",
       "onboard_time": 1692058234,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 380586,
-      "num": 380586,
-      "word": "涂山璟抱小夭像抱到了全世界",
-      "onboard_time": 1692194500,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -3809,6 +3841,14 @@
       "onboard_time": 1692066333,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 378033,
+      "num": 304903,
+      "word": "有没有可能白鹿就是在拍戏",
+      "onboard_time": 1692194500,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 374142,
@@ -3907,6 +3947,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 365144,
+      "num": 304630,
+      "word": "莲花楼对于成毅的意义",
+      "onboard_time": 1692195882,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364688,
       "num": 364688,
       "word": "宁静无糖芭比妆",
@@ -3993,14 +4041,6 @@
       "onboard_time": 1691973036,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 357304,
-      "num": 357304,
-      "word": "涂山璟奶奶的药给相柳喝吧",
-      "onboard_time": 1692194681,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 357158,
@@ -4169,14 +4209,6 @@
       "onboard_time": 1692095017,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335032,
-      "num": 280757,
-      "word": "有没有可能白鹿就是在拍戏",
-      "onboard_time": 1692194500,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 334800,
@@ -4467,6 +4499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310856,
+      "num": 310856,
+      "word": "拔了全口牙齿是什么体验",
+      "onboard_time": 1692195222,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 309928,
       "num": 309928,
       "word": "听说东北遍地是贾冰",
@@ -4659,6 +4699,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 297949,
+      "num": 733687,
+      "word": "涉诈嫌犯看孤注一掷被抓",
+      "onboard_time": 1692188135,
+      "rank": 37,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 297884,
       "num": 297884,
       "word": "小米MIXFold3",
@@ -4745,14 +4793,6 @@
       "onboard_time": 1692142888,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 293817,
-      "num": 526056,
-      "word": "涉诈嫌犯看孤注一掷被抓",
-      "onboard_time": 1692188135,
-      "rank": 37,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 293500,
@@ -4849,14 +4889,6 @@
       "onboard_time": 1691930855,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286657,
-      "num": 232925,
-      "word": "封神海报 自来水的亿把火",
-      "onboard_time": 1692195041,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 286245,
@@ -5859,14 +5891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 235421,
-      "num": 235421,
-      "word": "整治MOBA游戏乱象",
-      "onboard_time": 1692192278,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 235276,
       "num": 235276,
       "word": "中国科学家首次在人内心深处发现微塑料",
@@ -6025,6 +6049,14 @@
       "onboard_time": 1692067296,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227112,
+      "num": 202486,
+      "word": "TF三代演唱会饭拍生图",
+      "onboard_time": 1692196243,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 227103,
@@ -6699,6 +6731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197776,
+      "num": 197776,
+      "word": "家人手制凤冠霞帔八抬大轿送女出嫁",
+      "onboard_time": 1692195579,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197681,
       "num": 187970,
       "word": "暗杀风暴剧情在韩国真实上演",
@@ -6876,7 +6916,7 @@
     },
     {
       "raw_hot": 191645,
-      "num": 191645,
+      "num": 196145,
       "word": "一瞬间仿佛误入了油画里",
       "onboard_time": 1692195160,
       "rank": 39,
@@ -7443,6 +7483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161099,
+      "num": 195539,
+      "word": "离开你谁还把我当小孩",
+      "onboard_time": 1692196243,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 160604,
       "num": 160604,
       "word": "社恐体验中最难受的地方",
@@ -7529,14 +7577,6 @@
       "onboard_time": 1692185856,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151154,
-      "num": 167163,
-      "word": "拔了全口牙齿是什么体验",
-      "onboard_time": 1692195222,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 150853,
@@ -8035,6 +8075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85448,
+      "num": 694844,
+      "word": "交警买空醉驾瓜农的一车西瓜",
+      "onboard_time": 1692194441,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84166,
       "num": 253649,
       "word": "你接到原神的电话了吗",
@@ -8275,19 +8323,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34722,
-      "num": 523472,
-      "word": "交警买空醉驾瓜农的一车西瓜",
-      "onboard_time": 1692194441,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34587,
       "num": 754272,
       "word": "东京审判818次唇枪舌战判决书1213页",
       "onboard_time": 1692069338,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34516,
+      "num": 1056044,
+      "word": "初秋的乡间田野生机勃勃",
+      "onboard_time": 1692194800,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -8393,14 +8441,6 @@
       "onboard_time": 1692041714,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14677,
-      "num": 1056044,
-      "word": "初秋的乡间田野生机勃勃",
-      "onboard_time": 1692194800,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13532,
