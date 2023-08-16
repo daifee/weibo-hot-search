@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692159594240,
+  "endTime": 1692160446632,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -156,11 +156,19 @@
     },
     {
       "raw_hot": 2208790,
-      "num": 417191,
+      "num": 426318,
       "word": "陈思诚现身佟丽娅新片首映礼",
       "onboard_time": 1692143251,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2036768,
+      "num": 531662,
+      "word": "业内认可的95生第一梯队只有王鹤棣吴磊",
+      "onboard_time": 1692156877,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2029725,
@@ -193,6 +201,14 @@
       "onboard_time": 1692003336,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1945348,
+      "num": 1088650,
+      "word": "孙俪好薄",
+      "onboard_time": 1692158859,
+      "rank": 30,
+      "category": "影视,影视"
     },
     {
       "raw_hot": 1931060,
@@ -265,14 +281,6 @@
       "onboard_time": 1691980892,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1795037,
-      "num": 530562,
-      "word": "业内认可的95生第一梯队只有王鹤棣吴磊",
-      "onboard_time": 1692156877,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1756900,
@@ -1027,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 863544,
-      "num": 256413,
-      "word": "孙俪好薄",
-      "onboard_time": 1692158859,
-      "rank": 30,
-      "category": "影视,影视"
-    },
-    {
       "raw_hot": 860965,
       "num": 860965,
       "word": "去面试连对方的问题都听不太懂了",
@@ -1097,6 +1097,14 @@
       "onboard_time": 1692150933,
       "rank": 34,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 827456,
+      "num": 827456,
+      "word": "黄晓明3分钟讲了392个字一条过",
+      "onboard_time": 1692159701,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 827315,
@@ -1483,6 +1491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 664748,
+      "num": 664748,
+      "word": "杜紫怡给TangoZ投过票",
+      "onboard_time": 1692157778,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 664561,
       "num": 664561,
       "word": "乌尔善说封神后续有伯邑考戏份",
@@ -1785,14 +1801,6 @@
       "onboard_time": 1692143973,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 583478,
-      "num": 583478,
-      "word": "杜紫怡给TangoZ投过票",
-      "onboard_time": 1692157778,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 579822,
@@ -2556,7 +2564,7 @@
     },
     {
       "raw_hot": 451353,
-      "num": 405612,
+      "num": 426813,
       "word": "邢昭林新剧演蔡文静助理",
       "onboard_time": 1692158019,
       "rank": 21,
@@ -2689,6 +2697,14 @@
       "onboard_time": 1691982996,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 431370,
+      "num": 431370,
+      "word": "多家公司吐槽logo变成视觉中国版权图",
+      "onboard_time": 1692158618,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431138,
@@ -3739,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299005,
+      "num": 299005,
+      "word": "开始期待邓婵玉了",
+      "onboard_time": 1692159940,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298953,
       "num": 298953,
       "word": "中国大妈翻章鱼小丸子手艺震惊日本",
@@ -4219,6 +4243,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 267795,
+      "num": 267795,
+      "word": "孤注一掷金晨有多惨",
+      "onboard_time": 1692159641,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267464,
       "num": 267464,
       "word": "严浩翔说这次是一首温柔的歌",
@@ -4377,6 +4409,14 @@
       "onboard_time": 1691984681,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257427,
+      "num": 257427,
+      "word": "漫画家佐野菜见癌症去世",
+      "onboard_time": 1692159281,
+      "rank": 37,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 257030,
@@ -4544,14 +4584,6 @@
       "word": "中国电信无故多扣费",
       "onboard_time": 1691998897,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248636,
-      "num": 248636,
-      "word": "多家公司吐槽logo变成视觉中国版权图",
-      "onboard_time": 1692158618,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -4755,6 +4787,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 233765,
+      "num": 233765,
+      "word": "视觉中国",
+      "onboard_time": 1692144215,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233478,
       "num": 233478,
       "word": "陈乔恩眼镜蛇手",
@@ -4897,14 +4937,6 @@
       "onboard_time": 1692010779,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221447,
-      "num": 221447,
-      "word": "视觉中国",
-      "onboard_time": 1692144215,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221305,
@@ -5113,14 +5145,6 @@
       "onboard_time": 1692084169,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206622,
-      "num": 206622,
-      "word": "漫画家佐野菜见癌症去世",
-      "onboard_time": 1692159281,
-      "rank": 37,
-      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 206396,
@@ -5555,6 +5579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187134,
+      "num": 231692,
+      "word": "电影沙漏杀青",
+      "onboard_time": 1692158258,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186942,
       "num": 186942,
       "word": "星穹铁道镜流",
@@ -5644,7 +5676,7 @@
     },
     {
       "raw_hot": 181602,
-      "num": 193356,
+      "num": 230068,
       "word": "严浩翔新歌vocal",
       "onboard_time": 1692157598,
       "rank": 43,
@@ -5697,14 +5729,6 @@
       "onboard_time": 1692149976,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 179371,
-      "num": 188740,
-      "word": "电影沙漏杀青",
-      "onboard_time": 1692158258,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 178849,
@@ -5771,6 +5795,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 173485,
+      "num": 230290,
+      "word": "闫妮跳操有种微醺感",
+      "onboard_time": 1692160426,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171268,
       "num": 171268,
       "word": "檀健次相柳不卖水产的原因",
@@ -5817,6 +5849,14 @@
       "onboard_time": 1692141324,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166870,
+      "num": 229769,
+      "word": "林宥嘉郑州",
+      "onboard_time": 1692160363,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 166840,
@@ -6403,6 +6443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79992,
+      "num": 524289,
+      "word": "原神4.0版本更新 林尼",
+      "onboard_time": 1692158438,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79750,
       "num": 386426,
       "word": "杭州小伙20天减20斤捐造血干细胞",
@@ -6449,6 +6497,14 @@
       "onboard_time": 1692125116,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 66638,
+      "num": 443820,
+      "word": "原神枫丹正式启动",
+      "onboard_time": 1692158679,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 66535,
@@ -6499,14 +6555,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 61132,
-      "num": 435700,
-      "word": "原神枫丹正式启动",
-      "onboard_time": 1692158679,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 56816,
       "num": 1522420,
       "word": "子弟兵在抗洪一线",
@@ -6545,14 +6593,6 @@
       "onboard_time": 1692034819,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 49252,
-      "num": 498221,
-      "word": "原神4.0版本更新 林尼",
-      "onboard_time": 1692158438,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 39783,
