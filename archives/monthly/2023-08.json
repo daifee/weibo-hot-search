@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692216968763,
+  "endTime": 1692218035952,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -41491,6 +41491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 82917,
+      "num": 46415,
+      "word": "警方回应2岁幼童被父亲扔下楼致死",
+      "onboard_time": 1692212536,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82744,
       "num": 345364,
       "word": "能点亮多少光就发多少光",
@@ -41617,14 +41625,6 @@
       "onboard_time": 1691883084,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 79405,
-      "num": 46415,
-      "word": "警方回应2岁幼童被父亲扔下楼致死",
-      "onboard_time": 1692212536,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78651,
@@ -42515,6 +42515,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 36561,
+      "num": 43638,
+      "word": "get不到小夭射箭的人有难了",
+      "onboard_time": 1692212237,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 35508,
       "num": 575549,
       "word": "救援队长称最大的心愿是换台车好好救人",
@@ -42537,14 +42545,6 @@
       "onboard_time": 1691132435,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35037,
-      "num": 43638,
-      "word": "get不到小夭射箭的人有难了",
-      "onboard_time": 1692212237,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 34686,
@@ -42985,6 +42985,14 @@
       "onboard_time": 1691636433,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14758,
+      "num": 32898,
+      "word": "No Complaints严浩翔",
+      "onboard_time": 1692217874,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 13532,

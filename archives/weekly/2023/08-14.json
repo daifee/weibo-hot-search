@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692216968763,
+  "endTime": 1692218035952,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -8395,6 +8395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82917,
+      "num": 46415,
+      "word": "警方回应2岁幼童被父亲扔下楼致死",
+      "onboard_time": 1692212536,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81917,
       "num": 364662,
       "word": "两度患癌退休教师20年造林3800亩",
@@ -8424,14 +8432,6 @@
       "word": "杭州小伙20天减20斤捐造血干细胞",
       "onboard_time": 1692108103,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79405,
-      "num": 46415,
-      "word": "警方回应2岁幼童被父亲扔下楼致死",
-      "onboard_time": 1692212536,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -8683,20 +8683,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36561,
+      "num": 43638,
+      "word": "get不到小夭射箭的人有难了",
+      "onboard_time": 1692212237,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 35498,
       "num": 532810,
       "word": "高三女生骑车摔晕店家顾客暖心帮忙",
       "onboard_time": 1692102766,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35037,
-      "num": 43638,
-      "word": "get不到小夭射箭的人有难了",
-      "onboard_time": 1692212237,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 34587,
@@ -8817,6 +8817,14 @@
       "onboard_time": 1692041714,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14758,
+      "num": 32898,
+      "word": "No Complaints严浩翔",
+      "onboard_time": 1692217874,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 13532,
