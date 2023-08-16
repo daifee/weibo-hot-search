@@ -1,0 +1,410 @@
+{
+  "runTime": 1692153231330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2472860,
+        "num": 2472860,
+        "word": "海底捞可以洗头发了",
+        "onboard_time": 1692146855,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2346832,
+        "num": 2346832,
+        "word": "印度不再从中国进口手机",
+        "onboard_time": 1692148056,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 15968,
+        "num": 1643055,
+        "word": "绿色出游守护祖国大好河山",
+        "onboard_time": 1692101804,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1186416,
+        "num": 1186416,
+        "word": "在缅中企工作人员称不要妖魔化缅甸",
+        "onboard_time": 1692147156,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962334,
+        "num": 962334,
+        "word": "缅甸失联20岁男生已找到父亲发声",
+        "onboard_time": 1692148116,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880285,
+        "num": 880285,
+        "word": "中国国家天文吐槽视觉中国",
+        "onboard_time": 1692150814,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698819,
+        "num": 698819,
+        "word": "去面试连对方的问题都听不太懂了",
+        "onboard_time": 1692146436,
+        "rank": 6,
+        "category": "科技,社会议题"
+      },
+      {
+        "raw_hot": 679866,
+        "num": 679866,
+        "word": "丰隆房子塌了",
+        "onboard_time": 1692147455,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 615786,
+        "num": 615786,
+        "word": "披荆斩棘第三季官宣",
+        "onboard_time": 1692152733,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558158,
+        "num": 558158,
+        "word": "相柳躲过小夭的吻",
+        "onboard_time": 1692143068,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576538,
+        "num": 522077,
+        "word": "李承铉张智霖在哪一定都要见",
+        "onboard_time": 1692149018,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485124,
+        "num": 485124,
+        "word": "A股",
+        "onboard_time": 1692152674,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 453432,
+        "num": 453432,
+        "word": "夫胜宽 克拉们过得好吗",
+        "onboard_time": 1692152017,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319513,
+        "num": 420285,
+        "word": "摄影师要求视觉中国停止侵权",
+        "onboard_time": 1692152375,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211544,
+        "num": 417496,
+        "word": "纪念于敏",
+        "onboard_time": 1692148419,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415429,
+        "num": 415429,
+        "word": "女子称带3娃买4张票登机被拒",
+        "onboard_time": 1692125536,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396470,
+        "num": 396470,
+        "word": "中国损失印度1.8亿支进口手机订单",
+        "onboard_time": 1692150933,
+        "rank": 16,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 395445,
+        "num": 395445,
+        "word": "母亲获1次救命血儿子用340次回报",
+        "onboard_time": 1692148535,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325115,
+        "num": 325115,
+        "word": "现在距离2028年比2018年还近",
+        "onboard_time": 1692150694,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307293,
+        "num": 307293,
+        "word": "民工在偶像王一博面前跳舞",
+        "onboard_time": 1692145173,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1159743,
+        "num": 305820,
+        "word": "陈思诚现身佟丽娅新片首映礼",
+        "onboard_time": 1692143251,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452059,
+        "num": 302429,
+        "word": "为什么指甲上的月牙会这么大",
+        "onboard_time": 1692146917,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 322474,
+        "num": 301279,
+        "word": "吸肚子和收核心的区别",
+        "onboard_time": 1692143973,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298541,
+        "num": 298541,
+        "word": "tangoz曾说男生应挺身而出挡在女生前面",
+        "onboard_time": 1692143611,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298147,
+        "num": 298147,
+        "word": "铁头",
+        "onboard_time": 1692152017,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 257422,
+        "num": 257422,
+        "word": "志愿军一口气官宣了59个演员",
+        "onboard_time": 1692144873,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254209,
+        "num": 254209,
+        "word": "哈登震惊于中国卖货速度",
+        "onboard_time": 1692133633,
+        "rank": 26,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 238902,
+        "num": 238902,
+        "word": "保姆9个月偷走雇主163瓶茅台",
+        "onboard_time": 1692140481,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229405,
+        "num": 229405,
+        "word": "戴耳机别超过一小时",
+        "onboard_time": 1692146917,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226901,
+        "num": 226901,
+        "word": "森林进化论曲靖",
+        "onboard_time": 1692152614,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216196,
+        "num": 216196,
+        "word": "孤注一掷破20亿主创集体整活",
+        "onboard_time": 1692146795,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210593,
+        "num": 210593,
+        "word": "严浩翔小学跳广播体操",
+        "onboard_time": 1692153037,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208769,
+        "num": 208769,
+        "word": "原神",
+        "onboard_time": 1692153095,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197274,
+        "num": 197274,
+        "word": "女生家门口画五福临门邻居纷纷求画",
+        "onboard_time": 1692152674,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196640,
+        "num": 196640,
+        "word": "心动6女六撞脸宋妍霏",
+        "onboard_time": 1692143792,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185654,
+        "num": 185654,
+        "word": "好心人排队支持推拿养唐氏女的父亲",
+        "onboard_time": 1692151170,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180432,
+        "num": 180432,
+        "word": "驼背终于有救了",
+        "onboard_time": 1692112777,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172618,
+        "num": 172618,
+        "word": "自己拍的照片被视觉中国告侵权",
+        "onboard_time": 1692091840,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170651,
+        "num": 170651,
+        "word": "时代少年团去录歌了",
+        "onboard_time": 1692148656,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167040,
+        "num": 167040,
+        "word": "怕孩子长大压力大父亲掐死双胞胎儿子",
+        "onboard_time": 1692105584,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165404,
+        "num": 165404,
+        "word": "他的名字曾经绝密28年",
+        "onboard_time": 1692145534,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156246,
+        "num": 156246,
+        "word": "果然外甥像舅舅",
+        "onboard_time": 1692143251,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150987,
+        "num": 150987,
+        "word": "视觉中国",
+        "onboard_time": 1692144215,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150697,
+        "num": 150697,
+        "word": "以闪亮之名",
+        "onboard_time": 1692152973,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140542,
+        "num": 140542,
+        "word": "深圳人的至暗时刻",
+        "onboard_time": 1692149976,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140402,
+        "num": 140402,
+        "word": "梅西连续6场破门",
+        "onboard_time": 1692142888,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136814,
+        "num": 136814,
+        "word": "陈思诚看佟丽娅新片哭了",
+        "onboard_time": 1692144273,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133982,
+        "num": 133982,
+        "word": "杭州人花1元钱就能打辆公交车接驳地铁",
+        "onboard_time": 1692145058,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 37543,
+        "num": 132088,
+        "word": "原神微博表情",
+        "onboard_time": 1692153095,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131308,
+        "num": 131308,
+        "word": "于适龙吸水",
+        "onboard_time": 1692108821,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#用色卡打开美丽中国#"
+    }
+  }
+}

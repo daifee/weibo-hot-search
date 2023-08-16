@@ -1,6 +1,6 @@
 {
   "startTime": 1692116466090,
-  "endTime": 1692152442264,
+  "endTime": 1692153231330,
   "band_list": [
     {
       "raw_hot": 2827548,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 880285,
+      "num": 880285,
+      "word": "中国国家天文吐槽视觉中国",
+      "onboard_time": 1692150814,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 869020,
       "num": 869020,
       "word": "北京为何成了茶饮荒漠",
@@ -147,12 +155,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 611871,
-      "num": 611871,
-      "word": "中国国家天文吐槽视觉中国",
-      "onboard_time": 1692150814,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 615786,
+      "num": 615786,
+      "word": "披荆斩棘第三季官宣",
+      "onboard_time": 1692152733,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 584758,
@@ -251,12 +259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485124,
+      "num": 485124,
+      "word": "A股",
+      "onboard_time": 1692152674,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 468387,
       "num": 468387,
       "word": "怕孩子长大压力大父亲掐死双胞胎儿子",
       "onboard_time": 1692105584,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453432,
+      "num": 453432,
+      "word": "夫胜宽 克拉们过得好吗",
+      "onboard_time": 1692152017,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 449440,
@@ -355,6 +379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 325115,
+      "num": 325115,
+      "word": "现在距离2028年比2018年还近",
+      "onboard_time": 1692150694,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324184,
       "num": 324184,
       "word": "孤注一掷实时票房破20亿",
@@ -376,6 +408,14 @@
       "word": "央视曾评视觉中国把法务做成销售",
       "onboard_time": 1692123918,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319513,
+      "num": 420285,
+      "word": "摄影师要求视觉中国停止侵权",
+      "onboard_time": 1692152375,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -401,6 +441,14 @@
       "onboard_time": 1692100663,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 298147,
+      "num": 298147,
+      "word": "铁头",
+      "onboard_time": 1692152017,
+      "rank": 29,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 295098,
@@ -433,14 +481,6 @@
       "onboard_time": 1692129195,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 285008,
-      "num": 285008,
-      "word": "现在距离2028年比2018年还近",
-      "onboard_time": 1692150694,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 281765,
@@ -531,20 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225870,
-      "num": 225870,
-      "word": "夫胜宽 克拉们过得好吗",
-      "onboard_time": 1692152017,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 224281,
-      "num": 224281,
-      "word": "铁头",
-      "onboard_time": 1692152017,
+      "raw_hot": 226901,
+      "num": 226901,
+      "word": "森林进化论曲靖",
+      "onboard_time": 1692152614,
       "rank": 29,
-      "category": "社会新闻,网红"
+      "category": "综艺"
     },
     {
       "raw_hot": 218411,
@@ -595,6 +627,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210593,
+      "num": 210593,
+      "word": "严浩翔小学跳广播体操",
+      "onboard_time": 1692153037,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208769,
+      "num": 208769,
+      "word": "原神",
+      "onboard_time": 1692153095,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206243,
       "num": 206243,
       "word": "杭州人花1元钱就能打辆公交车接驳地铁",
@@ -625,6 +673,14 @@
       "onboard_time": 1692148595,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197274,
+      "num": 197274,
+      "word": "女生家门口画五福临门邻居纷纷求画",
+      "onboard_time": 1692152674,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193795,
@@ -739,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150697,
+      "num": 150697,
+      "word": "以闪亮之名",
+      "onboard_time": 1692152973,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148451,
       "num": 373608,
       "word": "大熊猫母女吃笋像大小号复制粘贴",
@@ -785,14 +849,6 @@
       "onboard_time": 1692104742,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 128067,
-      "num": 128067,
-      "word": "摄影师要求视觉中国停止侵权",
-      "onboard_time": 1692152375,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126045,
@@ -921,6 +977,14 @@
       "onboard_time": 1692120202,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 37543,
+      "num": 132088,
+      "word": "原神微博表情",
+      "onboard_time": 1692153095,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 33852,
