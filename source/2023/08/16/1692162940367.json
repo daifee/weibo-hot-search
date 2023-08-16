@@ -1,0 +1,410 @@
+{
+  "runTime": 1692162940367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1678362,
+        "num": 1678362,
+        "word": "茶百道 饿了么",
+        "onboard_time": 1692156394,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1389352,
+        "num": 1389352,
+        "word": "黄晓明3分钟讲了392个字一条过",
+        "onboard_time": 1692159701,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67413,
+        "num": 1042093,
+        "word": "亚运会游泳跳水田径门票今起实时销售",
+        "onboard_time": 1692155435,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1637515,
+        "num": 1007075,
+        "word": "孙俪好薄",
+        "onboard_time": 1692158859,
+        "rank": 3,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 903263,
+        "num": 903263,
+        "word": "披荆斩棘第三季官宣",
+        "onboard_time": 1692152733,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 816817,
+        "num": 816817,
+        "word": "多家公司吐槽logo变成视觉中国版权图",
+        "onboard_time": 1692158618,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581912,
+        "num": 581912,
+        "word": "曾舜晞田曦薇田耕纪跳舞花絮",
+        "onboard_time": 1692160483,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532586,
+        "num": 532586,
+        "word": "杜紫怡给TangoZ投过票",
+        "onboard_time": 1692157778,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 516412,
+        "num": 516412,
+        "word": "去面试连对方的问题都听不太懂了",
+        "onboard_time": 1692146436,
+        "rank": 8,
+        "category": "科技,社会议题"
+      },
+      {
+        "raw_hot": 511295,
+        "num": 511295,
+        "word": "央视曾称视觉中国为知识产权市场的毒瘤",
+        "onboard_time": 1692154475,
+        "rank": 9,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 1721303,
+        "num": 510064,
+        "word": "业内认可的95生第一梯队只有王鹤棣吴磊",
+        "onboard_time": 1692156877,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 775754,
+        "num": 501875,
+        "word": "网友偶遇黄多多",
+        "onboard_time": 1692162044,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687988,
+        "num": 494631,
+        "word": "缅甸失联20岁男生已找到父亲发声",
+        "onboard_time": 1692148116,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223021,
+        "num": 484369,
+        "word": "小象玩水鼻子快要甩掉了",
+        "onboard_time": 1692153995,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146134,
+        "num": 475277,
+        "word": "摄影师要求视觉中国停止侵权",
+        "onboard_time": 1692152375,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623266,
+        "num": 468590,
+        "word": "在缅中企工作人员称不要妖魔化缅甸",
+        "onboard_time": 1692147156,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461996,
+        "num": 461996,
+        "word": "开始期待邓婵玉了",
+        "onboard_time": 1692159940,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457711,
+        "num": 457711,
+        "word": "佟丽娅新片家暴是真的打吧",
+        "onboard_time": 1692161864,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434365,
+        "num": 434365,
+        "word": "视觉中国市值蒸发超3亿",
+        "onboard_time": 1692155496,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 427944,
+        "num": 427944,
+        "word": "将进酒抢票",
+        "onboard_time": 1692161022,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 680476,
+        "num": 423052,
+        "word": "民宿老板一晚被客人叫醒18次",
+        "onboard_time": 1692161443,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416603,
+        "num": 416603,
+        "word": "陈思诚现身佟丽娅新片首映礼",
+        "onboard_time": 1692143251,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405221,
+        "num": 405221,
+        "word": "我妈做的蜘蛛精早餐",
+        "onboard_time": 1692161142,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383606,
+        "num": 383606,
+        "word": "胡歌黄磊不虚此行对手戏",
+        "onboard_time": 1692160483,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315866,
+        "num": 315866,
+        "word": "漫画家佐野菜见癌症去世",
+        "onboard_time": 1692159281,
+        "rank": 24,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 327777,
+        "num": 315415,
+        "word": "娜扎的哈基米好可爱",
+        "onboard_time": 1692157659,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327058,
+        "num": 314991,
+        "word": "丰隆房子塌了",
+        "onboard_time": 1692147455,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308373,
+        "num": 308373,
+        "word": "孤注一掷金晨有多惨",
+        "onboard_time": 1692159641,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 538227,
+        "num": 306962,
+        "word": "闫妮跳操有种微醺感",
+        "onboard_time": 1692160426,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279913,
+        "num": 303254,
+        "word": "吸肚子和收核心的区别",
+        "onboard_time": 1692143973,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301570,
+        "num": 301570,
+        "word": "infinite澳门",
+        "onboard_time": 1692161262,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290282,
+        "num": 290282,
+        "word": "原来真正殉情的是相柳",
+        "onboard_time": 1692162584,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244140,
+        "num": 244140,
+        "word": "发现有些朋友挺适合当爱豆的",
+        "onboard_time": 1692161804,
+        "rank": 32,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 260498,
+        "num": 242405,
+        "word": "相柳躲过小夭的吻",
+        "onboard_time": 1692143068,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239900,
+        "num": 239900,
+        "word": "王者七夕松鹤新皮肤",
+        "onboard_time": 1692155913,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256328,
+        "num": 239006,
+        "word": "陈建州称要通过法律捍卫自身清白",
+        "onboard_time": 1692155794,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254681,
+        "num": 234434,
+        "word": "邢昭林新剧演蔡文静助理",
+        "onboard_time": 1692158019,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223710,
+        "num": 223710,
+        "word": "在下坂本",
+        "onboard_time": 1692161203,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 217329,
+        "num": 217329,
+        "word": "为什么指甲上的月牙会这么大",
+        "onboard_time": 1692146917,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 192585,
+        "num": 216212,
+        "word": "A股",
+        "onboard_time": 1692152674,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216072,
+        "num": 216072,
+        "word": "密室大逃脱",
+        "onboard_time": 1692162584,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198983,
+        "num": 198983,
+        "word": "金晨玫瑰耳环",
+        "onboard_time": 1692162463,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194590,
+        "num": 194590,
+        "word": "邓紫棋剪新刘海",
+        "onboard_time": 1692162284,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194276,
+        "num": 194276,
+        "word": "森林进化论曲靖",
+        "onboard_time": 1692152614,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191396,
+        "num": 191396,
+        "word": "封神",
+        "onboard_time": 1692153875,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187088,
+        "num": 187088,
+        "word": "缅北",
+        "onboard_time": 1692162766,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186182,
+        "num": 186182,
+        "word": "决战平安京",
+        "onboard_time": 1692162524,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182899,
+        "num": 186166,
+        "word": "视觉中国",
+        "onboard_time": 1692144215,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178361,
+        "num": 185981,
+        "word": "视觉中国商业版图盘点",
+        "onboard_time": 1692158076,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 169374,
+        "num": 185957,
+        "word": "女子被拐42年回家母亲已遗憾离世",
+        "onboard_time": 1692157536,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进人与自然和谐共生的现代化#"
+    }
+  }
+}
