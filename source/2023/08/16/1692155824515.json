@@ -1,0 +1,410 @@
+{
+  "runTime": 1692155824515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2504900,
+        "num": 2504900,
+        "word": "披荆斩棘第三季官宣",
+        "onboard_time": 1692152733,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1015272,
+        "num": 1015272,
+        "word": "中国国家天文吐槽视觉中国",
+        "onboard_time": 1692150814,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767998,
+        "num": 767998,
+        "word": "汪苏泷说抢不到票这事怪我",
+        "onboard_time": 1692153513,
+        "rank": 2,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 742377,
+        "num": 742377,
+        "word": "缅甸失联20岁男生已找到父亲发声",
+        "onboard_time": 1692148116,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664609,
+        "num": 664609,
+        "word": "封神",
+        "onboard_time": 1692153875,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 619346,
+        "num": 619346,
+        "word": "丰隆房子塌了",
+        "onboard_time": 1692147455,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 615794,
+        "num": 615794,
+        "word": "去面试连对方的问题都听不太懂了",
+        "onboard_time": 1692146436,
+        "rank": 6,
+        "category": "科技,社会议题"
+      },
+      {
+        "raw_hot": 517465,
+        "num": 517465,
+        "word": "原神",
+        "onboard_time": 1692153095,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 441975,
+        "num": 441975,
+        "word": "现在距离2028年比2018年还近",
+        "onboard_time": 1692150694,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401871,
+        "num": 440862,
+        "word": "摄影师要求视觉中国停止侵权",
+        "onboard_time": 1692152375,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47314,
+        "num": 437904,
+        "word": "原神微博表情",
+        "onboard_time": 1692153095,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1180054,
+        "num": 434081,
+        "word": "在缅中企工作人员称不要妖魔化缅甸",
+        "onboard_time": 1692147156,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891925,
+        "num": 430578,
+        "word": "央视曾称视觉中国为知识产权市场的毒瘤",
+        "onboard_time": 1692154475,
+        "rank": 12,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 538367,
+        "num": 427483,
+        "word": "A股",
+        "onboard_time": 1692152674,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 343513,
+        "num": 424865,
+        "word": "小象玩水鼻子快要甩掉了",
+        "onboard_time": 1692153995,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423523,
+        "num": 423523,
+        "word": "相柳躲过小夭的吻",
+        "onboard_time": 1692143068,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378200,
+        "num": 378200,
+        "word": "夫胜宽 克拉们过得好吗",
+        "onboard_time": 1692152017,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341657,
+        "num": 341657,
+        "word": "母亲获1次救命血儿子用340次回报",
+        "onboard_time": 1692148535,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339217,
+        "num": 339217,
+        "word": "吴施乐莲花楼全剧一共笑了三次",
+        "onboard_time": 1692154774,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336534,
+        "num": 336534,
+        "word": "李承铉张智霖在哪一定都要见",
+        "onboard_time": 1692149018,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 997502,
+        "num": 335591,
+        "word": "陈思诚现身佟丽娅新片首映礼",
+        "onboard_time": 1692143251,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411220,
+        "num": 334343,
+        "word": "蔡依林成都",
+        "onboard_time": 1692154475,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 337512,
+        "num": 333996,
+        "word": "吸肚子和收核心的区别",
+        "onboard_time": 1692143973,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332839,
+        "num": 332839,
+        "word": "为什么指甲上的月牙会这么大",
+        "onboard_time": 1692146917,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 309696,
+        "num": 309696,
+        "word": "森林进化论曲靖",
+        "onboard_time": 1692152614,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297640,
+        "num": 297640,
+        "word": "吴京背英文台词背出痛苦面具",
+        "onboard_time": 1692153571,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247195,
+        "num": 247195,
+        "word": "tangoz曾说男生应挺身而出挡在女生前面",
+        "onboard_time": 1692143611,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233737,
+        "num": 233737,
+        "word": "铁头",
+        "onboard_time": 1692152017,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 233268,
+        "num": 233268,
+        "word": "女生家门口画五福临门邻居纷纷求画",
+        "onboard_time": 1692152674,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225099,
+        "num": 225099,
+        "word": "原神电话",
+        "onboard_time": 1692155553,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49661,
+        "num": 209899,
+        "word": "亚运会游泳跳水田径门票今起实时销售",
+        "onboard_time": 1692155435,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207763,
+        "num": 207763,
+        "word": "视觉中国市值蒸发超3亿",
+        "onboard_time": 1692155496,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 205961,
+        "num": 205961,
+        "word": "电影奇迹少女终极预告",
+        "onboard_time": 1692153875,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202127,
+        "num": 202127,
+        "word": "民工在偶像王一博面前跳舞",
+        "onboard_time": 1692145173,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193071,
+        "num": 198811,
+        "word": "原神林尼",
+        "onboard_time": 1692155374,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1506136,
+        "num": 198664,
+        "word": "印度不再从中国进口手机",
+        "onboard_time": 1692148056,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 197080,
+        "num": 197080,
+        "word": "保姆9个月偷走雇主163瓶茅台",
+        "onboard_time": 1692140481,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193072,
+        "num": 193072,
+        "word": "严浩翔新歌NoComplaints",
+        "onboard_time": 1692154653,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192016,
+        "num": 192016,
+        "word": "孤注一掷破20亿主创集体整活",
+        "onboard_time": 1692146795,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135902,
+        "num": 188095,
+        "word": "敦煌飞天式轮滑太仙了",
+        "onboard_time": 1692154414,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 187784,
+        "num": 187784,
+        "word": "女子称带3娃买4张票登机被拒",
+        "onboard_time": 1692125536,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187659,
+        "num": 187659,
+        "word": "好听",
+        "onboard_time": 1692155794,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179287,
+        "num": 187647,
+        "word": "志愿军一口气官宣了59个演员",
+        "onboard_time": 1692144873,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162352,
+        "num": 187636,
+        "word": "视觉中国",
+        "onboard_time": 1692144215,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156096,
+        "num": 187633,
+        "word": "哈登震惊于中国卖货速度",
+        "onboard_time": 1692133633,
+        "rank": 44,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 155049,
+        "num": 187618,
+        "word": "陈建州称要通过法律捍卫自身清白",
+        "onboard_time": 1692155794,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151439,
+        "num": 187602,
+        "word": "戴耳机别超过一小时",
+        "onboard_time": 1692146917,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144461,
+        "num": 187592,
+        "word": "严浩翔小学跳广播体操",
+        "onboard_time": 1692153037,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143441,
+        "num": 187588,
+        "word": "心动6女六撞脸宋妍霏",
+        "onboard_time": 1692143792,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140822,
+        "num": 187573,
+        "word": "驼背终于有救了",
+        "onboard_time": 1692112777,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#用色卡打开美丽中国#"
+    }
+  }
+}
