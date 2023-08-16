@@ -1,7 +1,15 @@
 {
   "startTime": 1692116466090,
-  "endTime": 1692149303611,
+  "endTime": 1692151234980,
   "band_list": [
+    {
+      "raw_hot": 2827548,
+      "num": 2827548,
+      "word": "海底捞可以洗头发了",
+      "onboard_time": 1692146855,
+      "rank": 0,
+      "category": "情感"
+    },
     {
       "raw_hot": 2596799,
       "num": 2596799,
@@ -11,20 +19,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2537309,
-      "num": 2537309,
-      "word": "海底捞可以洗头发了",
-      "onboard_time": 1692146855,
-      "rank": 0,
-      "category": "情感"
-    },
-    {
       "raw_hot": 2208790,
       "num": 306635,
       "word": "陈思诚现身佟丽娅新片首映礼",
       "onboard_time": 1692143251,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2037571,
+      "num": 2037571,
+      "word": "印度不再从中国进口手机",
+      "onboard_time": 1692148056,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 1895845,
@@ -59,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1061645,
+      "num": 1061645,
+      "word": "缅甸失联20岁男生已找到父亲发声",
+      "onboard_time": 1692148116,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 946244,
       "num": 946244,
       "word": "女子称带3娃买4张票登机被拒",
       "onboard_time": 1692125536,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 885609,
-      "num": 431813,
-      "word": "印度不再从中国进口手机",
-      "onboard_time": 1692148056,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 869020,
@@ -83,16 +91,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 776970,
-      "num": 431739,
-      "word": "缅甸失联20岁男生已找到父亲发声",
-      "onboard_time": 1692148116,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 860965,
+      "num": 860965,
+      "word": "去面试连对方的问题都听不太懂了",
+      "onboard_time": 1692146436,
+      "rank": 32,
+      "category": "科技,社会议题"
     },
     {
-      "raw_hot": 732691,
-      "num": 430842,
+      "raw_hot": 788132,
+      "num": 788132,
       "word": "丰隆房子塌了",
       "onboard_time": 1692147455,
       "rank": 15,
@@ -105,6 +113,14 @@
       "onboard_time": 1692111461,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678096,
+      "num": 431212,
+      "word": "李承铉张智霖在哪一定都要见",
+      "onboard_time": 1692149018,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 653439,
@@ -121,14 +137,6 @@
       "onboard_time": 1692143068,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 604499,
-      "num": 396727,
-      "word": "去面试连对方的问题都听不太懂了",
-      "onboard_time": 1692146436,
-      "rank": 32,
-      "category": "科技,社会议题"
     },
     {
       "raw_hot": 584758,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540231,
+      "num": 305265,
+      "word": "为什么指甲上的月牙会这么大",
+      "onboard_time": 1692146917,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 538880,
       "num": 529543,
       "word": "他的名字曾经绝密28年",
@@ -219,20 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465178,
-      "num": 305265,
-      "word": "为什么指甲上的月牙会这么大",
-      "onboard_time": 1692146917,
-      "rank": 23,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 449440,
       "num": 183036,
       "word": "纯爱战士永远第一",
       "onboard_time": 1692116730,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 426888,
+      "num": 426888,
+      "word": "母亲获1次救命血儿子用340次回报",
+      "onboard_time": 1692148535,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421011,
@@ -355,14 +371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 303984,
-      "num": 303984,
-      "word": "李承铉张智霖在哪一定都要见",
-      "onboard_time": 1692149018,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298567,
       "num": 298567,
       "word": "多所高校将延长研究生学制",
@@ -401,6 +409,14 @@
       "onboard_time": 1692129195,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 283152,
+      "num": 283152,
+      "word": "王宽再也不能行礼了",
+      "onboard_time": 1692150337,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 281765,
@@ -483,11 +499,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 232980,
-      "num": 232980,
-      "word": "母亲获1次救命血儿子用340次回报",
-      "onboard_time": 1692148535,
-      "rank": 31,
+      "raw_hot": 237880,
+      "num": 397118,
+      "word": "纪念于敏",
+      "onboard_time": 1692148419,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -523,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213058,
+      "num": 201709,
+      "word": "现在距离2028年比2018年还近",
+      "onboard_time": 1692150694,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211326,
       "num": 211326,
       "word": "涂山璟深情告白小夭",
@@ -539,20 +563,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 204737,
+      "num": 204737,
+      "word": "中国国家天文吐槽视觉中国",
+      "onboard_time": 1692150814,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202971,
       "num": 202971,
       "word": "张艺兴版恐龙扛狼",
       "onboard_time": 1692144512,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202720,
-      "num": 397118,
-      "word": "纪念于敏",
-      "onboard_time": 1692148419,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199886,
@@ -611,12 +635,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187248,
+      "num": 187248,
+      "word": "中国损失印度1.8亿支进口手机订单",
+      "onboard_time": 1692150933,
+      "rank": 34,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 186528,
       "num": 186528,
       "word": "视觉中国创始人称是误会",
       "onboard_time": 1692099097,
       "rank": 40,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 179590,
+      "num": 179590,
+      "word": "深圳人的至暗时刻",
+      "onboard_time": 1692149976,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 169937,
@@ -721,6 +761,14 @@
       "onboard_time": 1692104742,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137000,
+      "num": 137000,
+      "word": "好心人排队支持推拿养唐氏女的父亲",
+      "onboard_time": 1692151170,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126045,
@@ -876,7 +924,7 @@
     },
     {
       "raw_hot": 21746,
-      "num": 1094406,
+      "num": 1439259,
       "word": "绿色出游守护祖国大好河山",
       "onboard_time": 1692101804,
       "rank": 2,
