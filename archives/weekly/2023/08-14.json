@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692190026557,
+  "endTime": 1692191976246,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -161,6 +161,14 @@
       "onboard_time": 1692084639,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2221979,
+      "num": 892896,
+      "word": "被严重低估的两部古装剧",
+      "onboard_time": 1692187656,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 2208790,
@@ -371,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1591348,
-      "num": 892896,
-      "word": "被严重低估的两部古装剧",
-      "onboard_time": 1692187656,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1586488,
       "num": 1548328,
       "word": "女子戴玉镯10年关节变形成手铐",
@@ -401,6 +401,14 @@
       "onboard_time": 1692066875,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1542587,
+      "num": 456848,
+      "word": "余生工作人员说杨紫是娱乐圈最nice艺人",
+      "onboard_time": 1692188197,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1538369,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1437538,
+      "num": 1437538,
+      "word": "长相思第二季能不能明天播啊",
+      "onboard_time": 1692187957,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1424426,
       "num": 1424426,
       "word": "你希望调休取消吗",
@@ -617,14 +633,6 @@
       "onboard_time": 1692074381,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1288730,
-      "num": 1288730,
-      "word": "长相思第二季能不能明天播啊",
-      "onboard_time": 1692187957,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1285124,
@@ -867,14 +875,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 1106197,
-      "num": 456848,
-      "word": "余生工作人员说杨紫是娱乐圈最nice艺人",
-      "onboard_time": 1692188197,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1092315,
       "num": 1092315,
       "word": "目前大部分毕业生已经落实就业去向",
@@ -961,6 +961,14 @@
       "onboard_time": 1691988762,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1003228,
+      "num": 372569,
+      "word": "没想到家有儿女里也有海底捞",
+      "onboard_time": 1692190958,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1000280,
@@ -1313,6 +1321,14 @@
       "onboard_time": 1692155794,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 811823,
+      "num": 362831,
+      "word": "国航回应网传CA1557航班因被劫取消",
+      "onboard_time": 1692190656,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 803752,
@@ -1771,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658215,
+      "num": 658215,
+      "word": "为什么爸妈对工作接受度那么高",
+      "onboard_time": 1692187595,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 653439,
       "num": 653439,
       "word": "请理解一下我不回消息的原因",
@@ -1841,14 +1865,6 @@
       "onboard_time": 1691981915,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 634022,
-      "num": 634022,
-      "word": "为什么爸妈对工作接受度那么高",
-      "onboard_time": 1692187595,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 633250,
@@ -2819,6 +2835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468379,
+      "num": 468379,
+      "word": "小夭只有玱玹了",
+      "onboard_time": 1692188497,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 466585,
       "num": 331649,
       "word": "网传山东多名男子被一女子砍伤",
@@ -3033,6 +3057,14 @@
       "onboard_time": 1691988162,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445264,
+      "num": 300009,
+      "word": "鞠婧祎挂脖吊带",
+      "onboard_time": 1692191018,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 442633,
@@ -3472,14 +3504,6 @@
       "word": "涂山璟最珍贵的内核",
       "onboard_time": 1692094057,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 392204,
-      "num": 392204,
-      "word": "小夭只有玱玹了",
-      "onboard_time": 1692188497,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -4355,6 +4379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306403,
+      "num": 384572,
+      "word": "腾讯第二季度净利润375.48亿元",
+      "onboard_time": 1692184294,
+      "rank": 24,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 305089,
       "num": 305089,
       "word": "丁程鑫严浩翔合照角落里是贺峻霖",
@@ -4627,14 +4659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289881,
-      "num": 328643,
-      "word": "腾讯第二季度净利润375.48亿元",
-      "onboard_time": 1692184294,
-      "rank": 24,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 289143,
       "num": 289143,
       "word": "答题卡这名字太不吉利",
@@ -4729,6 +4753,14 @@
       "onboard_time": 1691970450,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 285369,
+      "num": 285369,
+      "word": "走进医院才发现健康有多重要",
+      "onboard_time": 1692189456,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 285306,
@@ -5259,6 +5291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257291,
+      "num": 239658,
+      "word": "文韬银发脸链造型",
+      "onboard_time": 1692190176,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 257030,
       "num": 257030,
       "word": "长期坚持这几件事能有什么效果",
@@ -5401,6 +5441,22 @@
       "onboard_time": 1692061118,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250165,
+      "num": 236493,
+      "word": "周杰伦呼和浩特GoGoGo",
+      "onboard_time": 1692189639,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 250072,
+      "num": 250072,
+      "word": "涉诈嫌犯看孤注一掷被抓",
+      "onboard_time": 1692188135,
+      "rank": 37,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 249326,
@@ -5747,14 +5803,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 231348,
-      "num": 231348,
-      "word": "周杰伦呼和浩特GoGoGo",
-      "onboard_time": 1692189639,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 230834,
       "num": 213797,
       "word": "爱豆rapper中哪位是你的取向",
@@ -5849,14 +5897,6 @@
       "onboard_time": 1692166239,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223882,
-      "num": 223882,
-      "word": "涉诈嫌犯看孤注一掷被抓",
-      "onboard_time": 1692188135,
-      "rank": 37,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 223710,
@@ -6155,14 +6195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207209,
-      "num": 214601,
-      "word": "走进医院才发现健康有多重要",
-      "onboard_time": 1692189456,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 206396,
       "num": 206396,
       "word": "2023PEL夏决应援",
@@ -6257,6 +6289,14 @@
       "onboard_time": 1691973634,
       "rank": 39,
       "category": "体育,体育"
+    },
+    {
+      "raw_hot": 203867,
+      "num": 213823,
+      "word": "马杨光速变脸把我笑惨了",
+      "onboard_time": 1692189817,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 203626,
@@ -6475,6 +6515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197681,
+      "num": 187970,
+      "word": "暗杀风暴剧情在韩国真实上演",
+      "onboard_time": 1692191556,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197528,
       "num": 216636,
       "word": "一张图说明我到底有多懒",
@@ -6496,6 +6544,14 @@
       "word": "魏大勋说战友再见",
       "onboard_time": 1692070481,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197004,
+      "num": 187958,
+      "word": "邓为涂山璟穿越了",
+      "onboard_time": 1692191857,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -6627,6 +6683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192002,
+      "num": 192002,
+      "word": "雾山五行2收官",
+      "onboard_time": 1692190894,
+      "rank": 38,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 191847,
       "num": 191847,
       "word": "王鹤润的古装角色越演越狠",
@@ -6656,14 +6720,6 @@
       "word": "披荆斩棘第三季主题曲MV",
       "onboard_time": 1692168577,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 190986,
-      "num": 213823,
-      "word": "马杨光速变脸把我笑惨了",
-      "onboard_time": 1692189817,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -6728,6 +6784,14 @@
       "word": "水瓶座讨厌被窥探",
       "onboard_time": 1692114814,
       "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 187990,
+      "num": 187990,
+      "word": "别人暑假vs我的暑假",
+      "onboard_time": 1692190776,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -7195,6 +7259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161109,
+      "num": 183399,
+      "word": "翻斗花园小美",
+      "onboard_time": 1692191494,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160604,
       "num": 160604,
       "word": "社恐体验中最难受的地方",
@@ -7465,6 +7537,14 @@
       "onboard_time": 1691992955,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135125,
+      "num": 183233,
+      "word": "村会计骗村民身份证开卡给同学刷流水",
+      "onboard_time": 1692191795,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134147,
@@ -7976,6 +8056,14 @@
       "word": "30秒看308米长江大桥主塔拔地而起",
       "onboard_time": 1692155073,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43164,
+      "num": 364662,
+      "word": "两度患癌退休教师20年造林3800亩",
+      "onboard_time": 1692190838,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
