@@ -1,6 +1,6 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692227746792,
+  "endTime": 1692228816989,
   "band_list": [
     {
       "raw_hot": 1900252,
@@ -32,6 +32,14 @@
       "word": "2岁幼童被父亲从楼上扔下致死",
       "onboard_time": 1692192874,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656146,
+      "num": 656146,
+      "word": "奶奶接法国来电10岁乖孙帮转账",
+      "onboard_time": 1692197618,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -67,14 +75,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 516690,
-      "num": 516690,
-      "word": "奶奶接法国来电10岁乖孙帮转账",
-      "onboard_time": 1692197618,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 512879,
       "num": 435722,
       "word": "成毅经纪公司声明",
@@ -97,6 +97,14 @@
       "onboard_time": 1692199959,
       "rank": 15,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 444521,
+      "num": 444521,
+      "word": "萌兰把竹子妃全部打入冷宫",
+      "onboard_time": 1692227001,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442621,
@@ -131,6 +139,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 391874,
+      "num": 327243,
+      "word": "情侣花20元找带跑推21kg行李赶高铁",
+      "onboard_time": 1692227001,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352921,
+      "num": 312516,
+      "word": "她叫艺术家不叫明星",
+      "onboard_time": 1692227604,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346292,
       "num": 294611,
       "word": "突然找到上班的意义",
@@ -161,6 +185,14 @@
       "onboard_time": 1692192874,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 331070,
+      "num": 153210,
+      "word": "大学生毕业补贴",
+      "onboard_time": 1692227001,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 315358,
@@ -195,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281722,
+      "num": 281722,
+      "word": "山东大汉连交警都是温情的",
+      "onboard_time": 1692227065,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 279522,
       "num": 240560,
       "word": "没想到家有儿女里也有海底捞",
@@ -227,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246918,
+      "num": 246918,
+      "word": "涂山璟抱小夭像抱到了全世界",
+      "onboard_time": 1692194500,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241173,
       "num": 241173,
       "word": "封神海报 自来水的亿把火",
@@ -243,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227965,
-      "num": 227965,
-      "word": "涂山璟抱小夭像抱到了全世界",
-      "onboard_time": 1692194500,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 229838,
+      "num": 229838,
+      "word": "八一七稻米节",
+      "onboard_time": 1692228148,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 214411,
@@ -259,12 +307,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 213971,
-      "num": 242264,
-      "word": "萌兰把竹子妃全部打入冷宫",
-      "onboard_time": 1692227001,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 213920,
+      "num": 213920,
+      "word": "小夭把鱼丹紫还给涂山璟",
+      "onboard_time": 1692227065,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 211836,
@@ -315,14 +363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189671,
-      "num": 189671,
-      "word": "山东大汉连交警都是温情的",
-      "onboard_time": 1692227065,
-      "rank": 17,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 187862,
       "num": 166597,
       "word": "杨幂上身身材",
@@ -363,12 +403,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178579,
+      "num": 178579,
+      "word": "河南一律所向长安三万里导演发律师函",
+      "onboard_time": 1692227065,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175923,
       "num": 175923,
       "word": "闺蜜间这该死的分享欲",
       "onboard_time": 1692200795,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 171179,
+      "num": 171179,
+      "word": "曼城夺得欧洲超级杯冠军",
+      "onboard_time": 1692228026,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 168875,
@@ -403,22 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146635,
-      "num": 146635,
-      "word": "小夭把鱼丹紫还给涂山璟",
-      "onboard_time": 1692227065,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 146555,
-      "num": 146555,
-      "word": "情侣花20元找带跑推21kg行李赶高铁",
-      "onboard_time": 1692227001,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142072,
       "num": 142072,
       "word": "白鹿白色镂空吊带裙",
@@ -435,20 +475,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131503,
+      "num": 131503,
+      "word": "FNC输了",
+      "onboard_time": 1692228268,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127045,
       "num": 165623,
       "word": "离开你谁还把我当小孩",
       "onboard_time": 1692196243,
       "rank": 47,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 125238,
-      "num": 111216,
-      "word": "大学生毕业补贴",
-      "onboard_time": 1692227001,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 120850,
@@ -459,6 +499,38 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 120732,
+      "num": 120732,
+      "word": "IU毛线帽齐刘海",
+      "onboard_time": 1692211035,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 118355,
+      "num": 118355,
+      "word": "自从提了离职整个人开始放飞自我",
+      "onboard_time": 1692210737,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 117049,
+      "num": 117049,
+      "word": "防风邶拿的酒瓶是小六的吗",
+      "onboard_time": 1692228629,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 113667,
+      "num": 113667,
+      "word": "敦煌警察每年从沙漠挖百部手机",
+      "onboard_time": 1692228629,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108803,
       "num": 113488,
       "word": "角丽谯也顺便娶了方多病吧",
@@ -467,11 +539,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 105469,
-      "num": 105469,
-      "word": "河南一律所向长安三万里导演发律师函",
-      "onboard_time": 1692227065,
-      "rank": 33,
+      "raw_hot": 106930,
+      "num": 106930,
+      "word": "李昀锐多次NG内疚到快落泪",
+      "onboard_time": 1692228568,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -483,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102439,
+      "num": 102439,
+      "word": "Doinb周淑怡直播",
+      "onboard_time": 1692211516,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99065,
       "num": 165387,
       "word": "两地交警接力送男子成功接上断指",
@@ -491,44 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98064,
-      "num": 98064,
-      "word": "自从提了离职整个人开始放飞自我",
-      "onboard_time": 1692210737,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 96446,
       "num": 135919,
       "word": "宝宝第一次听到呼噜声被吓到起飞",
       "onboard_time": 1692202892,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96411,
-      "num": 96411,
-      "word": "IU毛线帽齐刘海",
-      "onboard_time": 1692211035,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 85430,
-      "num": 85430,
-      "word": "Doinb周淑怡直播",
-      "onboard_time": 1692211516,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 83644,
-      "num": 83644,
-      "word": "她叫艺术家不叫明星",
-      "onboard_time": 1692227604,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 82843,
@@ -619,7 +667,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 5376,
+      "raw_hot": 6523,
       "num": 1079619,
       "word": "亚运会游泳跳水田径门票今起实时销售",
       "onboard_time": 1692155435,
