@@ -1,6 +1,6 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692225227064,
+  "endTime": 1692227746792,
   "band_list": [
     {
       "raw_hot": 1900252,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 511071,
-      "num": 269729,
+      "num": 510135,
       "word": "焯水时这些东西一定要凉水下锅",
       "onboard_time": 1692202831,
       "rank": 48,
@@ -243,12 +243,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213340,
-      "num": 206260,
+      "raw_hot": 227965,
+      "num": 227965,
       "word": "涂山璟抱小夭像抱到了全世界",
       "onboard_time": 1692194500,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214411,
+      "num": 214411,
+      "word": "爸爸上班也靠忍",
+      "onboard_time": 1692202536,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 213971,
+      "num": 242264,
+      "word": "萌兰把竹子妃全部打入冷宫",
+      "onboard_time": 1692227001,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211836,
@@ -275,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201876,
+      "num": 201876,
+      "word": "警方回应2岁幼童被父亲扔下楼致死",
+      "onboard_time": 1692212536,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193217,
       "num": 193217,
       "word": "成毅 少抱怨多做事",
@@ -289,6 +313,14 @@
       "onboard_time": 1692200136,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189671,
+      "num": 189671,
+      "word": "山东大汉连交警都是温情的",
+      "onboard_time": 1692227065,
+      "rank": 17,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 187862,
@@ -315,20 +347,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179331,
+      "num": 179331,
+      "word": "疑被贩卖缅北女大学生发声",
+      "onboard_time": 1692173137,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179049,
       "num": 179049,
       "word": "XYG赛训组",
       "onboard_time": 1692199181,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175995,
-      "num": 175995,
-      "word": "爸爸上班也靠忍",
-      "onboard_time": 1692202536,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 175923,
@@ -355,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161461,
+      "num": 161461,
+      "word": "新手想减肥有救了",
+      "onboard_time": 1692205105,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151128,
       "num": 240670,
       "word": "翻斗花园小美",
@@ -363,11 +403,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148204,
-      "num": 166925,
-      "word": "疑被贩卖缅北女大学生发声",
-      "onboard_time": 1692173137,
-      "rank": 39,
+      "raw_hot": 146635,
+      "num": 146635,
+      "word": "小夭把鱼丹紫还给涂山璟",
+      "onboard_time": 1692227065,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146555,
+      "num": 146555,
+      "word": "情侣花20元找带跑推21kg行李赶高铁",
+      "onboard_time": 1692227001,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -387,20 +435,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137271,
-      "num": 113615,
-      "word": "新手想减肥有救了",
-      "onboard_time": 1692205105,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127045,
       "num": 165623,
       "word": "离开你谁还把我当小孩",
       "onboard_time": 1692196243,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 125238,
+      "num": 111216,
+      "word": "大学生毕业补贴",
+      "onboard_time": 1692227001,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 120850,
@@ -411,19 +459,19 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 110738,
-      "num": 110738,
-      "word": "警方回应2岁幼童被父亲扔下楼致死",
-      "onboard_time": 1692212536,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108803,
       "num": 113488,
       "word": "角丽谯也顺便娶了方多病吧",
       "onboard_time": 1692204030,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 105469,
+      "num": 105469,
+      "word": "河南一律所向长安三万里导演发律师函",
+      "onboard_time": 1692227065,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -443,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98064,
+      "num": 98064,
+      "word": "自从提了离职整个人开始放飞自我",
+      "onboard_time": 1692210737,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 96446,
       "num": 135919,
       "word": "宝宝第一次听到呼噜声被吓到起飞",
@@ -451,11 +507,51 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96411,
+      "num": 96411,
+      "word": "IU毛线帽齐刘海",
+      "onboard_time": 1692211035,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 85430,
+      "num": 85430,
+      "word": "Doinb周淑怡直播",
+      "onboard_time": 1692211516,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 83644,
+      "num": 83644,
+      "word": "她叫艺术家不叫明星",
+      "onboard_time": 1692227604,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 82843,
+      "num": 82843,
+      "word": "欧洲超级杯",
+      "onboard_time": 1692227304,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80939,
       "num": 80939,
       "word": "真正的赞美不是做得好才得到的",
       "onboard_time": 1692208818,
       "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 77702,
+      "num": 81788,
+      "word": "要和能充电的人在一起",
+      "onboard_time": 1692210137,
+      "rank": 43,
       "category": "情感,幽默"
     },
     {
@@ -475,12 +571,12 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 60919,
-      "num": 60919,
-      "word": "IU毛线帽齐刘海",
-      "onboard_time": 1692211035,
-      "rank": 19,
-      "category": "作品衍生,时尚"
+      "raw_hot": 66049,
+      "num": 81763,
+      "word": "货车起火18吨芒果烧熟了",
+      "onboard_time": 1692227727,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60087,
@@ -497,30 +593,6 @@
       "onboard_time": 1692209898,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 50198,
-      "num": 50198,
-      "word": "Doinb周淑怡直播",
-      "onboard_time": 1692211516,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 47348,
-      "num": 47348,
-      "word": "要和能充电的人在一起",
-      "onboard_time": 1692210137,
-      "rank": 43,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 46257,
-      "num": 46240,
-      "word": "自从提了离职整个人开始放飞自我",
-      "onboard_time": 1692210737,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 36561,
@@ -547,7 +619,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 4690,
+      "raw_hot": 5376,
       "num": 1079619,
       "word": "亚运会游泳跳水田径门票今起实时销售",
       "onboard_time": 1692155435,

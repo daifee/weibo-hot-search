@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692225227064,
+  "endTime": 1692227746792,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -2724,7 +2724,7 @@
     },
     {
       "raw_hot": 511071,
-      "num": 269729,
+      "num": 510135,
       "word": "焯水时这些东西一定要凉水下锅",
       "onboard_time": 1692202831,
       "rank": 48,
@@ -6435,12 +6435,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214411,
+      "num": 214411,
+      "word": "爸爸上班也靠忍",
+      "onboard_time": 1692202536,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 214091,
       "num": 214091,
       "word": "李莲花 你我有缘定会重逢",
       "onboard_time": 1692200017,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213971,
+      "num": 242264,
+      "word": "萌兰把竹子妃全部打入冷宫",
+      "onboard_time": 1692227001,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212553,
@@ -6793,6 +6809,14 @@
       "onboard_time": 1691974897,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201876,
+      "num": 201876,
+      "word": "警方回应2岁幼童被父亲扔下楼致死",
+      "onboard_time": 1692212536,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201452,
@@ -7187,6 +7211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189671,
+      "num": 189671,
+      "word": "山东大汉连交警都是温情的",
+      "onboard_time": 1692227065,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 189619,
       "num": 189619,
       "word": "逆水寒",
@@ -7555,14 +7587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175995,
-      "num": 175995,
-      "word": "爸爸上班也靠忍",
-      "onboard_time": 1692202536,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 175923,
       "num": 175923,
       "word": "闺蜜间这该死的分享欲",
@@ -7739,6 +7763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161461,
+      "num": 161461,
+      "word": "新手想减肥有救了",
+      "onboard_time": 1692205105,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160604,
       "num": 160604,
       "word": "社恐体验中最难受的地方",
@@ -7867,12 +7899,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 146635,
+      "num": 146635,
+      "word": "小夭把鱼丹紫还给涂山璟",
+      "onboard_time": 1692227065,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146624,
       "num": 159190,
       "word": "大熊猫思嘉对公主床爱不释手",
       "onboard_time": 1692033921,
       "rank": 14,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 146555,
+      "num": 146555,
+      "word": "情侣花20元找带跑推21kg行李赶高铁",
+      "onboard_time": 1692227001,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146549,
@@ -7995,14 +8043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137271,
-      "num": 113615,
-      "word": "新手想减肥有救了",
-      "onboard_time": 1692205105,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137230,
       "num": 275272,
       "word": "皮肤黝黑的嘶哑大哥提起救援队哽咽了",
@@ -8091,6 +8131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125238,
+      "num": 111216,
+      "word": "大学生毕业补贴",
+      "onboard_time": 1692227001,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 124265,
       "num": 197369,
       "word": "领导说老了不中用了怎么回",
@@ -8171,14 +8219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110738,
-      "num": 110738,
-      "word": "警方回应2岁幼童被父亲扔下楼致死",
-      "onboard_time": 1692212536,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110332,
       "num": 110332,
       "word": "SEVENTEEN拍摄HPV疫苗广告",
@@ -8217,6 +8257,14 @@
       "onboard_time": 1692141928,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 105469,
+      "num": 105469,
+      "word": "河南一律所向长安三万里导演发律师函",
+      "onboard_time": 1692227065,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 105076,
@@ -8291,6 +8339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98064,
+      "num": 98064,
+      "word": "自从提了离职整个人开始放飞自我",
+      "onboard_time": 1692210737,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 97986,
       "num": 97986,
       "word": "王者荣耀",
@@ -8305,6 +8361,14 @@
       "onboard_time": 1692202892,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96411,
+      "num": 96411,
+      "word": "IU毛线帽齐刘海",
+      "onboard_time": 1692211035,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 94263,
@@ -8371,6 +8435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85430,
+      "num": 85430,
+      "word": "Doinb周淑怡直播",
+      "onboard_time": 1692211516,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84166,
       "num": 253649,
       "word": "你接到原神的电话了吗",
@@ -8387,6 +8459,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 83644,
+      "num": 83644,
+      "word": "她叫艺术家不叫明星",
+      "onboard_time": 1692227604,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83398,
       "num": 95003,
       "word": "周深灼灼风流主题曲",
@@ -8401,6 +8481,14 @@
       "onboard_time": 1691996496,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82843,
+      "num": 82843,
+      "word": "欧洲超级杯",
+      "onboard_time": 1692227304,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 81917,
@@ -8441,6 +8529,14 @@
       "onboard_time": 1691934401,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77702,
+      "num": 81788,
+      "word": "要和能充电的人在一起",
+      "onboard_time": 1692210137,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 76200,
@@ -8515,6 +8611,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 66049,
+      "num": 81763,
+      "word": "货车起火18吨芒果烧熟了",
+      "onboard_time": 1692227727,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65512,
       "num": 1453550,
       "word": "画中画看长江沿线非遗",
@@ -8561,14 +8665,6 @@
       "onboard_time": 1691951237,
       "rank": 33,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 60919,
-      "num": 60919,
-      "word": "IU毛线帽齐刘海",
-      "onboard_time": 1692211035,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 60087,
@@ -8635,36 +8731,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 50198,
-      "num": 50198,
-      "word": "Doinb周淑怡直播",
-      "onboard_time": 1692211516,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 47348,
-      "num": 47348,
-      "word": "要和能充电的人在一起",
-      "onboard_time": 1692210137,
-      "rank": 43,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 46790,
       "num": 1001773,
       "word": "30秒看308米长江大桥主塔拔地而起",
       "onboard_time": 1692155073,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46257,
-      "num": 46240,
-      "word": "自从提了离职整个人开始放飞自我",
-      "onboard_time": 1692210737,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 39783,
