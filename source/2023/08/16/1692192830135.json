@@ -1,0 +1,410 @@
+{
+  "runTime": 1692192830135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1746167,
+        "num": 1746167,
+        "word": "没想到家有儿女里也有海底捞",
+        "onboard_time": 1692190958,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1256945,
+        "num": 1256945,
+        "word": "长相思第二季能不能明天播啊",
+        "onboard_time": 1692187957,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38171,
+        "num": 889555,
+        "word": "洪灾后不同场所消毒要点",
+        "onboard_time": 1692173859,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1989850,
+        "num": 886868,
+        "word": "被严重低估的两部古装剧",
+        "onboard_time": 1692187656,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 866695,
+        "num": 866695,
+        "word": "国航回应网传CA1557航班因被劫取消",
+        "onboard_time": 1692190656,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610339,
+        "num": 610339,
+        "word": "为什么爸妈对工作接受度那么高",
+        "onboard_time": 1692187595,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 593542,
+        "num": 593542,
+        "word": "丁禹兮把赵露思的黄豆糕喂给杨超越",
+        "onboard_time": 1692184836,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588601,
+        "num": 588601,
+        "word": "马伯骞心动的信号",
+        "onboard_time": 1692192158,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384474,
+        "num": 384474,
+        "word": "肠胃是情绪器官的铁证",
+        "onboard_time": 1692184656,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317989,
+        "num": 317989,
+        "word": "澳大利亚女足1比3英格兰女足",
+        "onboard_time": 1692188135,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1479402,
+        "num": 317910,
+        "word": "余生工作人员说杨紫是娱乐圈最nice艺人",
+        "onboard_time": 1692188197,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1109463,
+        "num": 317687,
+        "word": "Angelababy张大大绝交视频",
+        "onboard_time": 1692180757,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100426,
+        "num": 317406,
+        "word": "环卫工清理垃圾男子送百余个空瓶表感谢",
+        "onboard_time": 1692171760,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72626,
+        "num": 317019,
+        "word": "警方正调查女大学生疑被贩卖",
+        "onboard_time": 1692167740,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81917,
+        "num": 316788,
+        "word": "两度患癌退休教师20年造林3800亩",
+        "onboard_time": 1692190838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663060,
+        "num": 316367,
+        "word": "疑被贩卖缅北女大学生发声",
+        "onboard_time": 1692173137,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552084,
+        "num": 316062,
+        "word": "成毅拇指外翻",
+        "onboard_time": 1692182437,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492279,
+        "num": 315823,
+        "word": "邓为涂山璟穿越了",
+        "onboard_time": 1692191857,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348105,
+        "num": 315607,
+        "word": "翻斗花园小美",
+        "onboard_time": 1692191494,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391807,
+        "num": 315304,
+        "word": "小夭只有玱玹了",
+        "onboard_time": 1692188497,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 541612,
+        "num": 315002,
+        "word": "盗墓笔记",
+        "onboard_time": 1692187776,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 528192,
+        "num": 314767,
+        "word": "鞠婧祎挂脖吊带",
+        "onboard_time": 1692191018,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 314586,
+        "num": 314586,
+        "word": "女朋友给我留的一半葡萄",
+        "onboard_time": 1692180637,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302810,
+        "num": 302810,
+        "word": "腾讯第二季度净利润375.48亿元",
+        "onboard_time": 1692184294,
+        "rank": 23,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 279465,
+        "num": 299945,
+        "word": "走进医院才发现健康有多重要",
+        "onboard_time": 1692189456,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387901,
+        "num": 299838,
+        "word": "李兰迪吵架戏嘴唇颤抖",
+        "onboard_time": 1692188375,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299405,
+        "num": 299405,
+        "word": "tangoz曾因酒驾被当做典型案例",
+        "onboard_time": 1692184414,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342004,
+        "num": 299355,
+        "word": "网红铁头称下个目标是衡水中学",
+        "onboard_time": 1692180277,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297475,
+        "num": 297475,
+        "word": "杨幂上身身材",
+        "onboard_time": 1692176499,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275715,
+        "num": 275715,
+        "word": "涉诈嫌犯看孤注一掷被抓",
+        "onboard_time": 1692188135,
+        "rank": 29,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 289452,
+        "num": 274908,
+        "word": "涂山家没有丑的",
+        "onboard_time": 1692178598,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277442,
+        "num": 269948,
+        "word": "肖战穿皮衣了",
+        "onboard_time": 1692183335,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253770,
+        "num": 253770,
+        "word": "Doinb游戏ID失业菇菇",
+        "onboard_time": 1692187595,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246671,
+        "num": 246671,
+        "word": "周杰伦呼和浩特GoGoGo",
+        "onboard_time": 1692189639,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209011,
+        "num": 244324,
+        "word": "早上还是晚上洗头比较好",
+        "onboard_time": 1692187595,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244284,
+        "num": 244284,
+        "word": "林志颖综艺状态",
+        "onboard_time": 1692177400,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238501,
+        "num": 238501,
+        "word": "文韬银发脸链造型",
+        "onboard_time": 1692190176,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207980,
+        "num": 207980,
+        "word": "雾山五行",
+        "onboard_time": 1692192399,
+        "rank": 37,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 202295,
+        "num": 202295,
+        "word": "整治MOBA游戏乱象",
+        "onboard_time": 1692192278,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197986,
+        "num": 197986,
+        "word": "有人记得这种奶茶吗",
+        "onboard_time": 1692172720,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220197,
+        "num": 197972,
+        "word": "密室大逃脱大神版",
+        "onboard_time": 1692188375,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195892,
+        "num": 195892,
+        "word": "村会计骗村民身份证开卡给同学刷流水",
+        "onboard_time": 1692191795,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194285,
+        "num": 194285,
+        "word": "檀健次相柳三个头互相拍的",
+        "onboard_time": 1692192818,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186536,
+        "num": 186536,
+        "word": "暗杀风暴剧情在韩国真实上演",
+        "onboard_time": 1692191556,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193412,
+        "num": 186017,
+        "word": "杨幂是檀健次的伯乐",
+        "onboard_time": 1692177759,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185227,
+        "num": 185227,
+        "word": "丁程鑫严浩翔合照角落里是贺峻霖",
+        "onboard_time": 1692184778,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181138,
+        "num": 181138,
+        "word": "快递名用久了会变成真名",
+        "onboard_time": 1692173859,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177543,
+        "num": 177543,
+        "word": "BLACKPINK官宣首尔演唱会",
+        "onboard_time": 1692175778,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163741,
+        "num": 163741,
+        "word": "姑姑回应11岁女孩农村土房前自信跳舞",
+        "onboard_time": 1692176441,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142723,
+        "num": 163740,
+        "word": "公司的厕所很影响办公心情",
+        "onboard_time": 1692183393,
+        "rank": 49,
+        "category": "幽默,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#用色卡打开美丽中国#"
+    }
+  }
+}
