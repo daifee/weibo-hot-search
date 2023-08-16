@@ -1,6 +1,6 @@
 {
   "startTime": 1692116466090,
-  "endTime": 1692174029741,
+  "endTime": 1692174848289,
   "band_list": [
     {
       "raw_hot": 2827548,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2057771,
-      "num": 335563,
+      "num": 352065,
       "word": "22岁女大学生疑被贩卖缅北",
       "onboard_time": 1692162766,
       "rank": 10,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1172851,
+      "num": 1172851,
+      "word": "多家公司吐槽logo变成视觉中国版权图",
+      "onboard_time": 1692158618,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1141950,
       "num": 1141950,
       "word": "自己拍的照片被视觉中国告侵权",
@@ -168,14 +176,6 @@
       "word": "缅甸失联20岁男生已找到父亲发声",
       "onboard_time": 1692148116,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1026411,
-      "num": 1026411,
-      "word": "多家公司吐槽logo变成视觉中国版权图",
-      "onboard_time": 1692158618,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -267,6 +267,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 764795,
+      "num": 333442,
+      "word": "疑被贩卖缅北女大学生发声",
+      "onboard_time": 1692173137,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727165,
       "num": 727165,
       "word": "邓为商务价格比之前涨了快一半多",
@@ -355,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 614474,
+      "num": 329454,
+      "word": "杨幂说是周笔畅唯一的朋友",
+      "onboard_time": 1692172657,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612271,
       "num": 419731,
       "word": "张晚意穿这么多是不是有心事",
@@ -377,6 +393,14 @@
       "onboard_time": 1692160483,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 576800,
+      "num": 299281,
+      "word": "有人记得这种奶茶吗",
+      "onboard_time": 1692172720,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 574938,
@@ -409,14 +433,6 @@
       "onboard_time": 1692145173,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 560945,
-      "num": 299281,
-      "word": "有人记得这种奶茶吗",
-      "onboard_time": 1692172720,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 558912,
@@ -473,6 +489,14 @@
       "onboard_time": 1692140481,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530474,
+      "num": 289057,
+      "word": "王牌对王牌8即将开录",
+      "onboard_time": 1692172720,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 518448,
@@ -555,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455699,
+      "num": 455699,
+      "word": "长相思云合",
+      "onboard_time": 1692173137,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 453432,
       "num": 453432,
       "word": "夫胜宽 克拉们过得好吗",
@@ -585,22 +617,6 @@
       "onboard_time": 1692150694,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 434961,
-      "num": 329454,
-      "word": "杨幂说是周笔畅唯一的朋友",
-      "onboard_time": 1692172657,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 431357,
-      "num": 289057,
-      "word": "王牌对王牌8即将开录",
-      "onboard_time": 1692172720,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 429417,
@@ -691,6 +707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 403104,
+      "num": 403104,
+      "word": "那些偷外卖的人是什么心理",
+      "onboard_time": 1692171819,
+      "rank": 18,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 401893,
       "num": 283611,
       "word": "陈思诚看佟丽娅新片哭了",
@@ -705,6 +729,14 @@
       "onboard_time": 1692152375,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394692,
+      "num": 278444,
+      "word": "快递名用久了会变成真名",
+      "onboard_time": 1692173859,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 390687,
@@ -752,14 +784,6 @@
       "word": "封神榜是编造给姬发的谎言",
       "onboard_time": 1692171038,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 374644,
-      "num": 374644,
-      "word": "长相思云合",
-      "onboard_time": 1692173137,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -851,14 +875,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 329238,
-      "num": 329238,
-      "word": "疑被贩卖缅北女大学生发声",
-      "onboard_time": 1692173137,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326673,
       "num": 326673,
       "word": "抑郁是水溶性的",
@@ -939,14 +955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308477,
-      "num": 308477,
-      "word": "那些偷外卖的人是什么心理",
-      "onboard_time": 1692171819,
-      "rank": 18,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 308373,
       "num": 308373,
       "word": "孤注一掷金晨有多惨",
@@ -969,6 +977,14 @@
       "onboard_time": 1692100663,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 298256,
+      "num": 298256,
+      "word": "乌尔善锤于适脑壳",
+      "onboard_time": 1692173257,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 298147,
@@ -1051,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278444,
-      "num": 278444,
-      "word": "快递名用久了会变成真名",
-      "onboard_time": 1692173859,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 277399,
       "num": 277399,
       "word": "吴泽林好惨",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1692165881,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264835,
-      "num": 264835,
-      "word": "乌尔善锤于适脑壳",
-      "onboard_time": 1692173257,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 264776,
@@ -1225,6 +1225,14 @@
       "onboard_time": 1692144215,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233382,
+      "num": 212202,
+      "word": "涂山璟55S哭戏",
+      "onboard_time": 1692174516,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 233268,
@@ -1387,20 +1395,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203626,
+      "num": 203626,
+      "word": "开锁师傅终身难忘的一次经历",
+      "onboard_time": 1692173678,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202971,
       "num": 202971,
       "word": "张艺兴版恐龙扛狼",
       "onboard_time": 1692144512,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200939,
-      "num": 200939,
-      "word": "开锁师傅终身难忘的一次经历",
-      "onboard_time": 1692173678,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 200766,
@@ -1432,6 +1440,14 @@
       "word": "周深灼灼风流主题曲明明",
       "onboard_time": 1692159160,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199117,
+      "num": 199117,
+      "word": "成毅有双隐形翅膀",
+      "onboard_time": 1692174399,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1489,6 +1505,14 @@
       "onboard_time": 1692158978,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191847,
+      "num": 191847,
+      "word": "王鹤润的古装角色越演越狠",
+      "onboard_time": 1692173919,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 191585,
@@ -1571,14 +1595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183088,
-      "num": 183088,
-      "word": "王鹤润的古装角色越演越狠",
-      "onboard_time": 1692173919,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 181602,
       "num": 230068,
       "word": "严浩翔新歌vocal",
@@ -1649,6 +1665,14 @@
       "onboard_time": 1692147820,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151590,
+      "num": 191823,
+      "word": "有多少男生会认真护肤",
+      "onboard_time": 1692174033,
+      "rank": 46,
+      "category": "美妆,情感"
     },
     {
       "raw_hot": 150697,
@@ -1731,12 +1755,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 138167,
+      "num": 191811,
+      "word": "小学德育主任毫不犹豫跳水救人",
+      "onboard_time": 1692174337,
+      "rank": 48,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 137505,
       "num": 174003,
       "word": "环卫工清理垃圾男子送百余个空瓶表感谢",
       "onboard_time": 1692171760,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137156,
+      "num": 191802,
+      "word": "朝鲜称核战争是何时发动的问题",
+      "onboard_time": 1692174760,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 134147,
@@ -1851,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84166,
+      "num": 253649,
+      "word": "你接到原神的电话了吗",
+      "onboard_time": 1692173257,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 83398,
       "num": 95003,
       "word": "周深灼灼风流主题曲",
@@ -1907,12 +1955,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 58145,
-      "num": 253649,
-      "word": "你接到原神的电话了吗",
-      "onboard_time": 1692173257,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 61653,
+      "num": 555391,
+      "word": "洪灾后不同场所消毒要点",
+      "onboard_time": 1692173859,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56579,
@@ -1967,14 +2015,6 @@
       "num": 1780946,
       "word": "绿色出游守护祖国大好河山",
       "onboard_time": 1692101804,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16265,
-      "num": 533869,
-      "word": "洪灾后不同场所消毒要点",
-      "onboard_time": 1692173859,
       "rank": 2,
       "category": "社会新闻"
     },

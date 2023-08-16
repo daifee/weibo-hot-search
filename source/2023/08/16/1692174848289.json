@@ -1,0 +1,410 @@
+{
+  "runTime": 1692174848289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1172851,
+        "num": 1172851,
+        "word": "多家公司吐槽logo变成视觉中国版权图",
+        "onboard_time": 1692158618,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638561,
+        "num": 638561,
+        "word": "披荆斩棘第三季官宣",
+        "onboard_time": 1692152733,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61653,
+        "num": 555391,
+        "word": "洪灾后不同场所消毒要点",
+        "onboard_time": 1692173859,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854358,
+        "num": 548682,
+        "word": "一个老光棍苦了70年捡了个宝",
+        "onboard_time": 1692166421,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 538932,
+        "num": 538932,
+        "word": "警方正调查女大学生疑被贩卖",
+        "onboard_time": 1692167740,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455699,
+        "num": 455699,
+        "word": "长相思云合",
+        "onboard_time": 1692173137,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403775,
+        "num": 403775,
+        "word": "邓为商务价格比之前涨了快一半多",
+        "onboard_time": 1692167256,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403104,
+        "num": 403104,
+        "word": "那些偷外卖的人是什么心理",
+        "onboard_time": 1692171819,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 381226,
+        "num": 381226,
+        "word": "黄晓明3分钟讲了392个字一条过",
+        "onboard_time": 1692159701,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355178,
+        "num": 355178,
+        "word": "孙俪好薄",
+        "onboard_time": 1692158859,
+        "rank": 9,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 1896864,
+        "num": 352065,
+        "word": "22岁女大学生疑被贩卖缅北",
+        "onboard_time": 1692162766,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814493,
+        "num": 340456,
+        "word": "网友偶遇黄多多",
+        "onboard_time": 1692162044,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 764795,
+        "num": 333442,
+        "word": "疑被贩卖缅北女大学生发声",
+        "onboard_time": 1692173137,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614474,
+        "num": 326288,
+        "word": "杨幂说是周笔畅唯一的朋友",
+        "onboard_time": 1692172657,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601829,
+        "num": 318414,
+        "word": "青岛音乐节取消",
+        "onboard_time": 1692166719,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 500742,
+        "num": 313732,
+        "word": "张晚意穿这么多是不是有心事",
+        "onboard_time": 1692168940,
+        "rank": 15,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 308352,
+        "num": 308352,
+        "word": "17岁男孩街边痛哭民警自黑式安慰",
+        "onboard_time": 1692170021,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298256,
+        "num": 298256,
+        "word": "乌尔善锤于适脑壳",
+        "onboard_time": 1692173257,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84166,
+        "num": 250704,
+        "word": "你接到原神的电话了吗",
+        "onboard_time": 1692173257,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244944,
+        "num": 244944,
+        "word": "茶百道 饿了么",
+        "onboard_time": 1692156394,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 576800,
+        "num": 244702,
+        "word": "有人记得这种奶茶吗",
+        "onboard_time": 1692172720,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 530474,
+        "num": 242384,
+        "word": "王牌对王牌8即将开录",
+        "onboard_time": 1692172720,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475130,
+        "num": 240966,
+        "word": "男子多次猥亵强奸亲生女儿被判刑17年",
+        "onboard_time": 1692169780,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394692,
+        "num": 238626,
+        "word": "快递名用久了会变成真名",
+        "onboard_time": 1692173859,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340761,
+        "num": 237064,
+        "word": "男子举报48岁班主任勾引28岁妻子",
+        "onboard_time": 1692172235,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 327294,
+        "num": 236602,
+        "word": "美国女子遭前男友散布裸照获赔87.5亿",
+        "onboard_time": 1692166299,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292583,
+        "num": 233967,
+        "word": "关智斌毛利小五郎同款发型",
+        "onboard_time": 1692171997,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288396,
+        "num": 233434,
+        "word": "封神榜是编造给姬发的谎言",
+        "onboard_time": 1692171038,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374383,
+        "num": 231641,
+        "word": "赵今麦流苏吊带裙",
+        "onboard_time": 1692172117,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 267487,
+        "num": 229555,
+        "word": "原来真正殉情的是相柳",
+        "onboard_time": 1692162584,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228575,
+        "num": 228575,
+        "word": "杨紫迪丽热巴任敏婚服造型",
+        "onboard_time": 1692164622,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237158,
+        "num": 223140,
+        "word": "小夭第二季才知道玱玹爱她",
+        "onboard_time": 1692163184,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213383,
+        "num": 213383,
+        "word": "抑郁是水溶性的",
+        "onboard_time": 1692168278,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233382,
+        "num": 212202,
+        "word": "涂山璟55S哭戏",
+        "onboard_time": 1692174516,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207425,
+        "num": 207425,
+        "word": "运动1小时1周1个月会发生的变化",
+        "onboard_time": 1692163364,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211010,
+        "num": 207158,
+        "word": "张远官宣披荆斩棘cos汤姆猫",
+        "onboard_time": 1692172235,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203626,
+        "num": 203626,
+        "word": "开锁师傅终身难忘的一次经历",
+        "onboard_time": 1692173678,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231715,
+        "num": 203345,
+        "word": "内娱演技可以开班授课的明星",
+        "onboard_time": 1692171997,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175615,
+        "num": 201899,
+        "word": "民宿老板一晚被客人叫醒18次",
+        "onboard_time": 1692161443,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169086,
+        "num": 200456,
+        "word": "在缅中企工作人员称不要妖魔化缅甸",
+        "onboard_time": 1692147156,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209462,
+        "num": 199560,
+        "word": "再就业男团 披荆斩棘",
+        "onboard_time": 1692167679,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199117,
+        "num": 199117,
+        "word": "成毅有双隐形翅膀",
+        "onboard_time": 1692174399,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197133,
+        "num": 197133,
+        "word": "华晨宇的猫也要去鸟巢",
+        "onboard_time": 1692173737,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191847,
+        "num": 191847,
+        "word": "王鹤润的古装角色越演越狠",
+        "onboard_time": 1692173919,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177827,
+        "num": 191846,
+        "word": "杨幂气到和NPC飙戏",
+        "onboard_time": 1692169539,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153526,
+        "num": 191835,
+        "word": "杭州萧山辟谣转运珠式卖淫",
+        "onboard_time": 1692169000,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151590,
+        "num": 191823,
+        "word": "有多少男生会认真护肤",
+        "onboard_time": 1692174033,
+        "rank": 46,
+        "category": "美妆,情感"
+      },
+      {
+        "raw_hot": 141927,
+        "num": 191822,
+        "word": "A股",
+        "onboard_time": 1692152674,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138167,
+        "num": 191811,
+        "word": "小学德育主任毫不犹豫跳水救人",
+        "onboard_time": 1692174337,
+        "rank": 48,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 137156,
+        "num": 191802,
+        "word": "朝鲜称核战争是何时发动的问题",
+        "onboard_time": 1692174760,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#生态文明的种子深植于心#"
+    }
+  }
+}
