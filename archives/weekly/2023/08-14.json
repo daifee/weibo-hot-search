@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692200054977,
+  "endTime": 1692202875770,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -273,6 +273,14 @@
       "onboard_time": 1692055525,
       "rank": 1,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1887564,
+      "num": 1887564,
+      "word": "长安三万里致歉声明",
+      "onboard_time": 1692200795,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1878349,
@@ -1971,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 635914,
+      "num": 635914,
+      "word": "缅北失联20岁男生解救过程",
+      "onboard_time": 1692198338,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633250,
       "num": 633250,
       "word": "张艺兴提词器 栓Q",
@@ -2097,6 +2113,14 @@
       "onboard_time": 1692095380,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 604880,
+      "num": 604880,
+      "word": "心动6女二吃了男一给女一的早餐",
+      "onboard_time": 1692199060,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 603439,
@@ -2369,14 +2393,6 @@
       "onboard_time": 1692010897,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 559917,
-      "num": 559917,
-      "word": "缅北失联20岁男生解救过程",
-      "onboard_time": 1692198338,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 559874,
@@ -2681,6 +2697,14 @@
       "onboard_time": 1692193838,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 512879,
+      "num": 435722,
+      "word": "成毅经纪公司声明",
+      "onboard_time": 1692199899,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 512642,
@@ -3195,14 +3219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 453177,
-      "num": 453177,
-      "word": "心动6女二吃了男一给女一的早餐",
-      "onboard_time": 1692199060,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 451447,
       "num": 754409,
       "word": "今天为3500万同胞发一条微博",
@@ -3577,6 +3593,14 @@
       "onboard_time": 1692094238,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408007,
+      "num": 408007,
+      "word": "教小孩最好的方法就是夫妻聊天",
+      "onboard_time": 1692199959,
+      "rank": 15,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 407690,
@@ -4139,14 +4163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354059,
-      "num": 354059,
-      "word": "成毅经纪公司声明",
-      "onboard_time": 1692199899,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 353773,
       "num": 349945,
       "word": "TF三代全员校园风造型",
@@ -4185,6 +4201,14 @@
       "onboard_time": 1691982636,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346292,
+      "num": 294611,
+      "word": "突然找到上班的意义",
+      "onboard_time": 1692199839,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 345560,
@@ -4803,6 +4827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296841,
+      "num": 296841,
+      "word": "沈腾接梗太快了",
+      "onboard_time": 1692200495,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296542,
       "num": 1801097,
       "word": "男子球场晕倒4名打球医生合力抢救",
@@ -5129,6 +5161,14 @@
       "onboard_time": 1691980053,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279956,
+      "num": 279956,
+      "word": "明明为了生活而工作却因工作没有了生活",
+      "onboard_time": 1692200855,
+      "rank": 24,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 279569,
@@ -5747,6 +5787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 249469,
+      "num": 249469,
+      "word": "宋亚轩张真源贺峻霖你们在干什么",
+      "onboard_time": 1692200198,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249326,
       "num": 249326,
       "word": "假如小夭统一大荒把四个全娶了",
@@ -5937,14 +5985,6 @@
       "onboard_time": 1692011733,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240079,
-      "num": 281135,
-      "word": "突然找到上班的意义",
-      "onboard_time": 1692199839,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 239914,
@@ -6867,6 +6907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198122,
+      "num": 177945,
+      "word": "杨汝晴侯卓成",
+      "onboard_time": 1692202412,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197776,
       "num": 197776,
       "word": "家人手制凤冠霞帔八抬大轿送女出嫁",
@@ -7115,6 +7163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190071,
+      "num": 166731,
+      "word": "李一桐要做曾舜晞榜一大姐",
+      "onboard_time": 1692200136,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189619,
       "num": 189619,
       "word": "逆水寒",
@@ -7299,6 +7355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185779,
+      "num": 166288,
+      "word": "成毅 少抱怨多做事",
+      "onboard_time": 1692202654,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185637,
       "num": 185637,
       "word": "雷军称努力不是万能的",
@@ -7473,6 +7537,14 @@
       "onboard_time": 1692021339,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175923,
+      "num": 175923,
+      "word": "闺蜜间这该死的分享欲",
+      "onboard_time": 1692200795,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 175774,
@@ -7883,6 +7955,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 137818,
+      "num": 165768,
+      "word": "爸爸上班也靠忍",
+      "onboard_time": 1692202536,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 137695,
       "num": 479504,
       "word": "男孩住敬老院15年考上大学",
@@ -7977,6 +8057,14 @@
       "onboard_time": 1692122718,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125550,
+      "num": 165519,
+      "word": "焯水时这些东西一定要凉水下锅",
+      "onboard_time": 1692202831,
+      "rank": 48,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 124265,
