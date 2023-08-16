@@ -1,6 +1,6 @@
 {
   "startTime": 1692116466090,
-  "endTime": 1692174848289,
+  "endTime": 1692177354764,
   "band_list": [
     {
       "raw_hot": 2827548,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1439628,
+      "num": 1439628,
+      "word": "多家公司吐槽logo变成视觉中国版权图",
+      "onboard_time": 1692158618,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1389352,
       "num": 1389352,
       "word": "黄晓明3分钟讲了392个字一条过",
@@ -131,12 +139,28 @@
       "category": "国内要闻,科技"
     },
     {
+      "raw_hot": 1263767,
+      "num": 1263767,
+      "word": "BLACKPINK官宣首尔演唱会",
+      "onboard_time": 1692175778,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1245177,
       "num": 1245177,
       "word": "一个老光棍苦了70年捡了个宝",
       "onboard_time": 1692166421,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1240877,
+      "num": 1240877,
+      "word": "杨幂说是周笔畅唯一的朋友",
+      "onboard_time": 1692172657,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1221978,
@@ -155,11 +179,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1172851,
-      "num": 1172851,
-      "word": "多家公司吐槽logo变成视觉中国版权图",
-      "onboard_time": 1692158618,
-      "rank": 33,
+      "raw_hot": 1168826,
+      "num": 1168826,
+      "word": "疑被贩卖缅北女大学生发声",
+      "onboard_time": 1692173137,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -267,14 +291,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 764795,
-      "num": 333442,
-      "word": "疑被贩卖缅北女大学生发声",
-      "onboard_time": 1692173137,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 727165,
       "num": 727165,
       "word": "邓为商务价格比之前涨了快一半多",
@@ -363,20 +379,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 614474,
-      "num": 329454,
-      "word": "杨幂说是周笔畅唯一的朋友",
-      "onboard_time": 1692172657,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 612271,
       "num": 419731,
       "word": "张晚意穿这么多是不是有心事",
       "onboard_time": 1692168940,
       "rank": 17,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 589383,
+      "num": 589383,
+      "word": "王牌对王牌8即将开录",
+      "onboard_time": 1692172720,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 584758,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 576800,
-      "num": 299281,
+      "num": 329868,
       "word": "有人记得这种奶茶吗",
       "onboard_time": 1692172720,
       "rank": 20,
@@ -491,16 +507,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 530474,
-      "num": 289057,
-      "word": "王牌对王牌8即将开录",
-      "onboard_time": 1692172720,
-      "rank": 24,
+      "raw_hot": 522930,
+      "num": 417180,
+      "word": "杨幂上身身材",
+      "onboard_time": 1692176499,
+      "rank": 11,
       "category": "综艺"
     },
     {
       "raw_hot": 518448,
-      "num": 296520,
+      "num": 325051,
       "word": "男子多次猥亵强奸亲生女儿被判刑17年",
       "onboard_time": 1692169780,
       "rank": 30,
@@ -521,6 +537,14 @@
       "onboard_time": 1692153095,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 509646,
+      "num": 332087,
+      "word": "快递名用久了会变成真名",
+      "onboard_time": 1692173859,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 503474,
@@ -611,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 442949,
+      "num": 442949,
+      "word": "山东将全面落实带薪休假制度",
+      "onboard_time": 1692175778,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441975,
       "num": 441975,
       "word": "现在距离2028年比2018年还近",
@@ -641,6 +673,14 @@
       "onboard_time": 1692148535,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424902,
+      "num": 424902,
+      "word": "人间清醒的杨紫",
+      "onboard_time": 1692174997,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 422666,
@@ -731,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 394692,
-      "num": 278444,
-      "word": "快递名用久了会变成真名",
-      "onboard_time": 1692173859,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 390687,
       "num": 390687,
       "word": "娜扎的哈基米好可爱",
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 381502,
-      "num": 285397,
+      "num": 313139,
       "word": "男子举报48岁班主任勾引28岁妻子",
       "onboard_time": 1692172235,
       "rank": 26,
@@ -784,6 +816,14 @@
       "word": "封神榜是编造给姬发的谎言",
       "onboard_time": 1692171038,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 367346,
+      "num": 367346,
+      "word": "涂山璟55S哭戏",
+      "onboard_time": 1692174516,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -875,6 +915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 332358,
+      "num": 332358,
+      "word": "姑姑回应11岁女孩农村土房前自信跳舞",
+      "onboard_time": 1692176441,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326673,
       "num": 326673,
       "word": "抑郁是水溶性的",
@@ -913,6 +961,14 @@
       "onboard_time": 1692143792,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320048,
+      "num": 320048,
+      "word": "长相思五黑阵容",
+      "onboard_time": 1692176441,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 319906,
@@ -977,6 +1033,14 @@
       "onboard_time": 1692100663,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 298258,
+      "num": 275995,
+      "word": "卢伟冰 建议把精力都花在正经事上",
+      "onboard_time": 1692176018,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 298256,
@@ -1067,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277553,
+      "num": 277553,
+      "word": "张远官宣披荆斩棘cos汤姆猫",
+      "onboard_time": 1692172235,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277399,
       "num": 277399,
       "word": "吴泽林好惨",
@@ -1089,6 +1161,14 @@
       "onboard_time": 1692103962,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267018,
+      "num": 267018,
+      "word": "成毅有双隐形翅膀",
+      "onboard_time": 1692174399,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 266353,
@@ -1219,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234312,
+      "num": 234312,
+      "word": "有多少男生会认真护肤",
+      "onboard_time": 1692174033,
+      "rank": 46,
+      "category": "美妆,情感"
+    },
+    {
       "raw_hot": 233765,
       "num": 233765,
       "word": "视觉中国",
@@ -1227,20 +1315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233382,
-      "num": 212202,
-      "word": "涂山璟55S哭戏",
-      "onboard_time": 1692174516,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 233268,
       "num": 233268,
       "word": "女生家门口画五福临门邻居纷纷求画",
       "onboard_time": 1692152674,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231873,
+      "num": 231873,
+      "word": "天海祐希 你先下楼下楼再说",
+      "onboard_time": 1692175237,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 226789,
@@ -1273,14 +1361,6 @@
       "onboard_time": 1692161203,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 223078,
-      "num": 214441,
-      "word": "张远官宣披荆斩棘cos汤姆猫",
-      "onboard_time": 1692172235,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 220243,
@@ -1323,12 +1403,28 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 215801,
+      "num": 204690,
+      "word": "邓为练手势舞",
+      "onboard_time": 1692176919,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215646,
       "num": 190895,
       "word": "当影视剧里不起眼的女孩摘掉眼镜后",
       "onboard_time": 1692115893,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212206,
+      "num": 195693,
+      "word": "一加ace2pro价格",
+      "onboard_time": 1692176077,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 211326,
@@ -1411,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202462,
+      "num": 202462,
+      "word": "陆毅金丝眼镜白西装",
+      "onboard_time": 1692176378,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 200766,
       "num": 206964,
       "word": "王弘毅说邓为最不卷",
@@ -1440,14 +1544,6 @@
       "word": "周深灼灼风流主题曲明明",
       "onboard_time": 1692159160,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 199117,
-      "num": 199117,
-      "word": "成毅有双隐形翅膀",
-      "onboard_time": 1692174399,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1579,6 +1675,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 186513,
+      "num": 195706,
+      "word": "披荆斩棘",
+      "onboard_time": 1692175116,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186182,
       "num": 186182,
       "word": "决战平安京",
@@ -1667,12 +1771,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151590,
-      "num": 191823,
-      "word": "有多少男生会认真护肤",
-      "onboard_time": 1692174033,
+      "raw_hot": 150853,
+      "num": 195697,
+      "word": "谁教你这么吃泡面的",
+      "onboard_time": 1692175058,
       "rank": 46,
-      "category": "美妆,情感"
+      "category": "美食"
     },
     {
       "raw_hot": 150697,
@@ -1764,7 +1868,7 @@
     },
     {
       "raw_hot": 137505,
-      "num": 174003,
+      "num": 402831,
       "word": "环卫工清理垃圾男子送百余个空瓶表感谢",
       "onboard_time": 1692171760,
       "rank": 49,
@@ -1947,20 +2051,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 64287,
+      "num": 1246575,
+      "word": "洪灾后不同场所消毒要点",
+      "onboard_time": 1692173859,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63456,
       "num": 549985,
       "word": "原神微博表情",
       "onboard_time": 1692153095,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 61653,
-      "num": 555391,
-      "word": "洪灾后不同场所消毒要点",
-      "onboard_time": 1692173859,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56579,
@@ -2024,6 +2128,14 @@
       "word": "我国首部中国生态保护红线蓝皮书发布",
       "onboard_time": 1692173617,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10283,
+      "num": 391147,
+      "word": "8旬退休医生义诊24年不收费",
+      "onboard_time": 1692177159,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
