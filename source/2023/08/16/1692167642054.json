@@ -1,0 +1,410 @@
+{
+  "runTime": 1692167642054,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2699899,
+        "num": 2699899,
+        "word": "缅北",
+        "onboard_time": 1692162766,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944802,
+        "num": 944802,
+        "word": "原来真正殉情的是相柳",
+        "onboard_time": 1692162584,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67339,
+        "num": 926938,
+        "word": "亚运会游泳跳水田径门票今起实时销售",
+        "onboard_time": 1692155435,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 915863,
+        "num": 915863,
+        "word": "青岛音乐节取消",
+        "onboard_time": 1692166719,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 764220,
+        "num": 764220,
+        "word": "孙俪好薄",
+        "onboard_time": 1692158859,
+        "rank": 4,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 664478,
+        "num": 664478,
+        "word": "多家公司吐槽logo变成视觉中国版权图",
+        "onboard_time": 1692158618,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639132,
+        "num": 639132,
+        "word": "小夭第二季才知道玱玹爱她",
+        "onboard_time": 1692163184,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505971,
+        "num": 505971,
+        "word": "茶百道 饿了么",
+        "onboard_time": 1692156394,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 549237,
+        "num": 505453,
+        "word": "小夭和龙葵都是射手",
+        "onboard_time": 1692164741,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247029,
+        "num": 499084,
+        "word": "A股",
+        "onboard_time": 1692152674,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1568413,
+        "num": 498025,
+        "word": "网友偶遇黄多多",
+        "onboard_time": 1692162044,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657390,
+        "num": 493873,
+        "word": "业内认可的95生第一梯队只有王鹤棣吴磊",
+        "onboard_time": 1692156877,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 518839,
+        "num": 487247,
+        "word": "黄晓明3分钟讲了392个字一条过",
+        "onboard_time": 1692159701,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156416,
+        "num": 486339,
+        "word": "小象玩水鼻子快要甩掉了",
+        "onboard_time": 1692153995,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103733,
+        "num": 480401,
+        "word": "摄影师要求视觉中国停止侵权",
+        "onboard_time": 1692152375,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479502,
+        "num": 479502,
+        "word": "佟丽娅新片家暴是真的打吧",
+        "onboard_time": 1692161864,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442076,
+        "num": 478877,
+        "word": "披荆斩棘第三季官宣",
+        "onboard_time": 1692152733,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385213,
+        "num": 478008,
+        "word": "在缅中企工作人员称不要妖魔化缅甸",
+        "onboard_time": 1692147156,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277802,
+        "num": 477735,
+        "word": "缅甸失联20岁男生已找到父亲发声",
+        "onboard_time": 1692148116,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181890,
+        "num": 476798,
+        "word": "去面试连对方的问题都听不太懂了",
+        "onboard_time": 1692146436,
+        "rank": 19,
+        "category": "科技,社会议题"
+      },
+      {
+        "raw_hot": 716142,
+        "num": 476076,
+        "word": "美国女子遭前男友散布裸照获赔87.5亿",
+        "onboard_time": 1692166299,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475493,
+        "num": 475493,
+        "word": "杨紫迪丽热巴任敏婚服造型",
+        "onboard_time": 1692164622,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457182,
+        "num": 457182,
+        "word": "运动1小时1周1个月会发生的变化",
+        "onboard_time": 1692163364,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400389,
+        "num": 400389,
+        "word": "张晚意邓为模仿王弘毅脚滑",
+        "onboard_time": 1692165280,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390649,
+        "num": 390649,
+        "word": "民宿老板一晚被客人叫醒18次",
+        "onboard_time": 1692161443,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329673,
+        "num": 329673,
+        "word": "相柳刺杀失败30秒文学",
+        "onboard_time": 1692165340,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277985,
+        "num": 277985,
+        "word": "密室大逃脱",
+        "onboard_time": 1692162584,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266353,
+        "num": 266353,
+        "word": "杨幂cue工作室显眼包吃馒头",
+        "onboard_time": 1692165881,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235276,
+        "num": 235276,
+        "word": "中国科学家首次在人内心深处发现微塑料",
+        "onboard_time": 1692166839,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185540,
+        "num": 234123,
+        "word": "成熟的大人不会几天喜欢上一个人",
+        "onboard_time": 1692164081,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 465286,
+        "num": 234059,
+        "word": "一个老光棍苦了70年捡了个宝",
+        "onboard_time": 1692166421,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240878,
+        "num": 234026,
+        "word": "吴谨言还得是古装",
+        "onboard_time": 1692165399,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233940,
+        "num": 233940,
+        "word": "邓为商务价格比之前涨了快一半多",
+        "onboard_time": 1692167256,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224658,
+        "num": 224658,
+        "word": "还好涂山璟还有钱",
+        "onboard_time": 1692166239,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174064,
+        "num": 215957,
+        "word": "视觉中国市值蒸发超3亿",
+        "onboard_time": 1692155496,
+        "rank": 34,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 207418,
+        "num": 207418,
+        "word": "曾舜晞有三部8分作品",
+        "onboard_time": 1692167197,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191809,
+        "num": 207404,
+        "word": "虞书欣千金日常风",
+        "onboard_time": 1692164978,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 173573,
+        "num": 207371,
+        "word": "老虎也没想到有天突然就被开除了",
+        "onboard_time": 1692165579,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173205,
+        "num": 207320,
+        "word": "我妈做的蜘蛛精早餐",
+        "onboard_time": 1692161142,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145383,
+        "num": 207239,
+        "word": "上海合格考",
+        "onboard_time": 1692167317,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 189238,
+        "num": 207209,
+        "word": "杨迪暗示陈卓璇AA",
+        "onboard_time": 1692163485,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187785,
+        "num": 207138,
+        "word": "热播剧集角色吸粉榜排名",
+        "onboard_time": 1692167317,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189122,
+        "num": 207118,
+        "word": "金晨玫瑰耳环",
+        "onboard_time": 1692162463,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186589,
+        "num": 207083,
+        "word": "檀健次教科书式救场",
+        "onboard_time": 1692167317,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177526,
+        "num": 207038,
+        "word": "曾舜晞田曦薇田耕纪跳舞花絮",
+        "onboard_time": 1692160483,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175033,
+        "num": 206964,
+        "word": "王弘毅说邓为最不卷",
+        "onboard_time": 1692167562,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141675,
+        "num": 206900,
+        "word": "王者七夕松鹤新皮肤",
+        "onboard_time": 1692155913,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134147,
+        "num": 206876,
+        "word": "常州潮流嘉年华",
+        "onboard_time": 1692167378,
+        "rank": 47,
+        "category": "旅游,时尚"
+      },
+      {
+        "raw_hot": 133522,
+        "num": 206844,
+        "word": "视觉中国",
+        "onboard_time": 1692144215,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129925,
+        "num": 206801,
+        "word": "原神",
+        "onboard_time": 1692153095,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#用色卡打开美丽中国#"
+    }
+  }
+}

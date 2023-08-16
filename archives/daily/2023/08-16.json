@@ -1,6 +1,6 @@
 {
   "startTime": 1692116466090,
-  "endTime": 1692166865787,
+  "endTime": 1692167642054,
   "band_list": [
     {
       "raw_hot": 2827548,
@@ -17,6 +17,14 @@
       "onboard_time": 1692156394,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2699899,
+      "num": 2699899,
+      "word": "缅北",
+      "onboard_time": 1692162766,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2596799,
@@ -41,14 +49,6 @@
       "onboard_time": 1692148056,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2456405,
-      "num": 2456405,
-      "word": "缅北",
-      "onboard_time": 1692162766,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2208790,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 915863,
+      "num": 915863,
+      "word": "青岛音乐节取消",
+      "onboard_time": 1692166719,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 869020,
       "num": 869020,
       "word": "北京为何成了茶饮荒漠",
@@ -233,6 +241,14 @@
       "onboard_time": 1692155496,
       "rank": 31,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 716142,
+      "num": 476076,
+      "word": "美国女子遭前男友散布裸照获赔87.5亿",
+      "onboard_time": 1692166299,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 706293,
@@ -451,12 +467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 475493,
+      "num": 475493,
+      "word": "杨紫迪丽热巴任敏婚服造型",
+      "onboard_time": 1692164622,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 468387,
       "num": 468387,
       "word": "怕孩子长大压力大父亲掐死双胞胎儿子",
       "onboard_time": 1692105584,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465286,
+      "num": 234059,
+      "word": "一个老光棍苦了70年捡了个宝",
+      "onboard_time": 1692166421,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 461996,
@@ -467,8 +499,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 455088,
-      "num": 241520,
+      "raw_hot": 457182,
+      "num": 457182,
       "word": "运动1小时1周1个月会发生的变化",
       "onboard_time": 1692163364,
       "rank": 38,
@@ -497,14 +529,6 @@
       "onboard_time": 1692116730,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 447598,
-      "num": 239677,
-      "word": "杨紫迪丽热巴任敏婚服造型",
-      "onboard_time": 1692164622,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 441975,
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 422666,
-      "num": 220117,
+      "num": 400389,
       "word": "张晚意邓为模仿王弘毅脚滑",
       "onboard_time": 1692165280,
       "rank": 30,
@@ -820,7 +844,7 @@
     },
     {
       "raw_hot": 294622,
-      "num": 226552,
+      "num": 234026,
       "word": "吴谨言还得是古装",
       "onboard_time": 1692165399,
       "rank": 26,
@@ -883,20 +907,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266353,
+      "num": 266353,
+      "word": "杨幂cue工作室显眼包吃馒头",
+      "onboard_time": 1692165881,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264776,
       "num": 264776,
       "word": "为什么理发店门口要放三色灯",
       "onboard_time": 1692142528,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 263707,
-      "num": 223306,
-      "word": "杨幂cue工作室显眼包吃馒头",
-      "onboard_time": 1692165881,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 262996,
@@ -971,14 +995,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 241613,
-      "num": 218628,
-      "word": "美国女子遭前男友散布裸照获赔87.5亿",
-      "onboard_time": 1692166299,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239376,
       "num": 239376,
       "word": "王鹤润替角丽谯圆梦了",
@@ -995,20 +1011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235276,
+      "num": 235276,
+      "word": "中国科学家首次在人内心深处发现微塑料",
+      "onboard_time": 1692166839,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233940,
+      "num": 233940,
+      "word": "邓为商务价格比之前涨了快一半多",
+      "onboard_time": 1692167256,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233765,
       "num": 233765,
       "word": "视觉中国",
       "onboard_time": 1692144215,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233278,
-      "num": 206143,
-      "word": "青岛音乐节取消",
-      "onboard_time": 1692166719,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 233268,
@@ -1027,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224658,
+      "num": 224658,
+      "word": "还好涂山璟还有钱",
+      "onboard_time": 1692166239,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223710,
       "num": 223710,
       "word": "在下坂本",
@@ -1036,19 +1068,11 @@
     },
     {
       "raw_hot": 220243,
-      "num": 220243,
+      "num": 234123,
       "word": "成熟的大人不会几天喜欢上一个人",
       "onboard_time": 1692164081,
       "rank": 29,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 218470,
-      "num": 195946,
-      "word": "还好涂山璟还有钱",
-      "onboard_time": 1692166239,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 218411,
@@ -1091,22 +1115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215274,
-      "num": 215274,
-      "word": "一个老光棍苦了70年捡了个宝",
-      "onboard_time": 1692166421,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 211896,
-      "num": 211896,
-      "word": "中国科学家首次在人内心深处发现微塑料",
-      "onboard_time": 1692166839,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211326,
       "num": 211326,
       "word": "涂山璟深情告白小夭",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1692153037,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207418,
+      "num": 207418,
+      "word": "曾舜晞有三部8分作品",
+      "onboard_time": 1692167197,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206243,
@@ -1140,7 +1156,7 @@
     },
     {
       "raw_hot": 205667,
-      "num": 205667,
+      "num": 207371,
       "word": "老虎也没想到有天突然就被开除了",
       "onboard_time": 1692165579,
       "rank": 38,
@@ -1259,12 +1275,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187785,
+      "num": 207138,
+      "word": "热播剧集角色吸粉榜排名",
+      "onboard_time": 1692167317,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187134,
       "num": 231692,
       "word": "电影沙漏杀青",
       "onboard_time": 1692158258,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186589,
+      "num": 207083,
+      "word": "檀健次教科书式救场",
+      "onboard_time": 1692167317,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186528,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1692149976,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175033,
+      "num": 206964,
+      "word": "王弘毅说邓为最不卷",
+      "onboard_time": 1692167562,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 168715,
@@ -1379,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145383,
+      "num": 207239,
+      "word": "上海合格考",
+      "onboard_time": 1692167317,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 144802,
       "num": 144802,
       "word": "新型citydrink",
@@ -1433,6 +1481,14 @@
       "onboard_time": 1692155975,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 134147,
+      "num": 206876,
+      "word": "常州潮流嘉年华",
+      "onboard_time": 1692167378,
+      "rank": 47,
+      "category": "旅游,时尚"
     },
     {
       "raw_hot": 126045,
