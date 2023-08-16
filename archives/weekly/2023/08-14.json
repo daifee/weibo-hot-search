@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692185630097,
+  "endTime": 1692189075460,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -313,6 +313,14 @@
       "onboard_time": 1692000638,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1736657,
+      "num": 1736657,
+      "word": "丁禹兮把赵露思的黄豆糕喂给杨超越",
+      "onboard_time": 1692184836,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1725869,
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973444,
+      "num": 973444,
+      "word": "肠胃是情绪器官的铁证",
+      "onboard_time": 1692184656,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 971543,
       "num": 971543,
       "word": "男子接完诈骗电话卡里多出14万",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1692176441,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 876219,
+      "num": 876219,
+      "word": "长相思第二季能不能明天播啊",
+      "onboard_time": 1692187957,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 871176,
@@ -1435,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728952,
+      "num": 728952,
+      "word": "被严重低估的两部古装剧",
+      "onboard_time": 1692187656,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 727165,
       "num": 727165,
       "word": "邓为商务价格比之前涨了快一半多",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1691997396,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 721030,
+      "num": 368279,
+      "word": "公司的厕所很影响办公心情",
+      "onboard_time": 1692183393,
+      "rank": 37,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 719568,
@@ -1899,6 +1939,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 612235,
+      "num": 612235,
+      "word": "tangoz曾因酒驾被当做典型案例",
+      "onboard_time": 1692184414,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608071,
       "num": 608071,
       "word": "六公主 水中贵族",
@@ -2081,14 +2129,6 @@
       "onboard_time": 1692112777,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 572600,
-      "num": 572600,
-      "word": "丁禹兮把赵露思的黄豆糕喂给杨超越",
-      "onboard_time": 1692184836,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 570805,
@@ -2491,6 +2531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 507520,
+      "num": 354384,
+      "word": "盗墓笔记",
+      "onboard_time": 1692187776,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 506869,
       "num": 372829,
       "word": "总裁办公室变员工托儿所",
@@ -2843,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456848,
+      "num": 456848,
+      "word": "余生工作人员说杨紫是娱乐圈最nice艺人",
+      "onboard_time": 1692188197,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456391,
       "num": 510531,
       "word": "向佐一口气带5个娃过暑假",
@@ -3049,6 +3105,14 @@
       "onboard_time": 1691982996,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 433572,
+      "num": 433572,
+      "word": "为什么爸妈对工作接受度那么高",
+      "onboard_time": 1692187595,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 431138,
@@ -3627,14 +3691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 368279,
-      "num": 368279,
-      "word": "公司的厕所很影响办公心情",
-      "onboard_time": 1692183393,
-      "rank": 37,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 368200,
       "num": 368200,
       "word": "适龙吸水",
@@ -3705,6 +3761,14 @@
       "onboard_time": 1692163485,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363070,
+      "num": 363070,
+      "word": "Doinb游戏ID失业菇菇",
+      "onboard_time": 1692187595,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 359627,
@@ -3784,14 +3848,6 @@
       "word": "胡歌刘涛陈龙一个屋开三个直播",
       "onboard_time": 1691996016,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 354586,
-      "num": 354586,
-      "word": "tangoz曾因酒驾被当做典型案例",
-      "onboard_time": 1692184414,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -3977,14 +4033,6 @@
       "onboard_time": 1691995775,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330264,
-      "num": 330264,
-      "word": "肠胃是情绪器官的铁证",
-      "onboard_time": 1692184656,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 328381,
@@ -4283,6 +4331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305089,
+      "num": 305089,
+      "word": "丁程鑫严浩翔合照角落里是贺峻霖",
+      "onboard_time": 1692184778,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304043,
       "num": 304043,
       "word": "谁偷走了我的雪糕芯",
@@ -4547,6 +4603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289881,
+      "num": 328643,
+      "word": "腾讯第二季度净利润375.48亿元",
+      "onboard_time": 1692184294,
+      "rank": 24,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 289143,
       "num": 289143,
       "word": "答题卡这名字太不吉利",
@@ -4657,6 +4721,14 @@
       "onboard_time": 1692056248,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284825,
+      "num": 284825,
+      "word": "澳大利亚女足1比3英格兰女足",
+      "onboard_time": 1692188135,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 284570,
@@ -4779,6 +4851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278166,
+      "num": 278166,
+      "word": "李兰迪吵架戏嘴唇颤抖",
+      "onboard_time": 1692188375,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277631,
       "num": 277631,
       "word": "小夭从来不是他们的第一选择",
@@ -4857,6 +4937,14 @@
       "onboard_time": 1692074262,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272543,
+      "num": 272543,
+      "word": "早上还是晚上洗头比较好",
+      "onboard_time": 1692187595,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 271908,
@@ -5339,14 +5427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 247645,
-      "num": 247645,
-      "word": "丁程鑫严浩翔合照角落里是贺峻霖",
-      "onboard_time": 1692184778,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247621,
       "num": 247621,
       "word": "张艺兴官宣MALLSTARS总决赛阵容",
@@ -5683,6 +5763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228156,
+      "num": 228156,
+      "word": "小夭只有玱玹了",
+      "onboard_time": 1692188497,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227995,
       "num": 227995,
       "word": "沈腾问范丞丞的脸是靠打针吗",
@@ -5995,12 +6083,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209669,
+      "num": 209669,
+      "word": "涉诈嫌犯看孤注一掷被抓",
+      "onboard_time": 1692188135,
+      "rank": 37,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 209653,
       "num": 209653,
       "word": "檀健次教科书式救场",
       "onboard_time": 1692167317,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209353,
+      "num": 209353,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1692188375,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 208959,
@@ -6049,6 +6153,14 @@
       "onboard_time": 1692145058,
       "rank": 36,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 205982,
+      "num": 205982,
+      "word": "方程豹",
+      "onboard_time": 1692188257,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 205961,
@@ -6113,6 +6225,14 @@
       "onboard_time": 1692004657,
       "rank": 38,
       "category": "情感,动漫"
+    },
+    {
+      "raw_hot": 204314,
+      "num": 204314,
+      "word": "周深把铃芽之旅嘟嘟来了",
+      "onboard_time": 1692188015,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 204044,
@@ -6652,7 +6772,7 @@
     },
     {
       "raw_hot": 186513,
-      "num": 196263,
+      "num": 196300,
       "word": "披荆斩棘",
       "onboard_time": 1692175116,
       "rank": 44,
@@ -7003,6 +7123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163379,
+      "num": 196305,
+      "word": "徐滨签名照",
+      "onboard_time": 1692187717,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162953,
       "num": 162953,
       "word": "酒后言语骚扰算性骚扰吗",
@@ -7099,6 +7227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151744,
+      "num": 229038,
+      "word": "比亚迪方程豹发布会",
+      "onboard_time": 1692185856,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150853,
       "num": 195697,
       "word": "谁教你这么吃泡面的",
@@ -7112,6 +7248,14 @@
       "word": "以闪亮之名",
       "onboard_time": 1692152973,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 149924,
+      "num": 196290,
+      "word": "DYG锁定败者组",
+      "onboard_time": 1692187535,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -7737,6 +7881,14 @@
       "onboard_time": 1691951237,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 59471,
+      "num": 478410,
+      "word": "周淑怡认证doinb蘑菇本菇",
+      "onboard_time": 1692187237,
+      "rank": 14,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 56816,
