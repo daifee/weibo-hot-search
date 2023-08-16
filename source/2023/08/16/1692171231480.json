@@ -1,0 +1,410 @@
+{
+  "runTime": 1692171231480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1245177,
+        "num": 1245177,
+        "word": "一个老光棍苦了70年捡了个宝",
+        "onboard_time": 1692166421,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 859299,
+        "num": 859299,
+        "word": "多家公司吐槽logo变成视觉中国版权图",
+        "onboard_time": 1692158618,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46790,
+        "num": 858073,
+        "word": "30秒看308米长江大桥主塔拔地而起",
+        "onboard_time": 1692155073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2242426,
+        "num": 857995,
+        "word": "缅北",
+        "onboard_time": 1692162766,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090076,
+        "num": 857775,
+        "word": "青岛音乐节取消",
+        "onboard_time": 1692166719,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 857118,
+        "num": 857118,
+        "word": "警方正调查女大学生疑被贩卖",
+        "onboard_time": 1692167740,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727165,
+        "num": 727165,
+        "word": "邓为商务价格比之前涨了快一半多",
+        "onboard_time": 1692167256,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504597,
+        "num": 504597,
+        "word": "孙俪好薄",
+        "onboard_time": 1692158859,
+        "rank": 7,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 493479,
+        "num": 493479,
+        "word": "披荆斩棘第三季官宣",
+        "onboard_time": 1692152733,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452385,
+        "num": 452385,
+        "word": "原来真正殉情的是相柳",
+        "onboard_time": 1692162584,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 861469,
+        "num": 449869,
+        "word": "网友偶遇黄多多",
+        "onboard_time": 1692162044,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489710,
+        "num": 419731,
+        "word": "张晚意穿这么多是不是有心事",
+        "onboard_time": 1692168940,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 378531,
+        "num": 378531,
+        "word": "封神榜是编造给姬发的谎言",
+        "onboard_time": 1692171038,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128034,
+        "num": 363333,
+        "word": "小象玩水鼻子快要甩掉了",
+        "onboard_time": 1692153995,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120999,
+        "num": 359879,
+        "word": "原神角色 电话",
+        "onboard_time": 1692169240,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 357959,
+        "num": 357959,
+        "word": "小夭第二季才知道玱玹爱她",
+        "onboard_time": 1692163184,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351778,
+        "num": 351778,
+        "word": "黄晓明3分钟讲了392个字一条过",
+        "onboard_time": 1692159701,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306793,
+        "num": 306793,
+        "word": "茶百道 饿了么",
+        "onboard_time": 1692156394,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 265226,
+        "num": 265226,
+        "word": "17岁男孩街边痛哭民警自黑式安慰",
+        "onboard_time": 1692170021,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258849,
+        "num": 258849,
+        "word": "在缅中企工作人员称不要妖魔化缅甸",
+        "onboard_time": 1692147156,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559662,
+        "num": 257839,
+        "word": "美国女子遭前男友散布裸照获赔87.5亿",
+        "onboard_time": 1692166299,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518448,
+        "num": 256962,
+        "word": "男子多次猥亵强奸亲生女儿被判刑17年",
+        "onboard_time": 1692169780,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353460,
+        "num": 255625,
+        "word": "再就业男团 披荆斩棘",
+        "onboard_time": 1692167679,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350868,
+        "num": 254359,
+        "word": "杨紫迪丽热巴任敏婚服造型",
+        "onboard_time": 1692164622,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318098,
+        "num": 253864,
+        "word": "抑郁是水溶性的",
+        "onboard_time": 1692168278,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340253,
+        "num": 253126,
+        "word": "业内认可的95生第一梯队只有王鹤棣吴磊",
+        "onboard_time": 1692156877,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314185,
+        "num": 251531,
+        "word": "曾舜晞有三部8分作品",
+        "onboard_time": 1692167197,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288783,
+        "num": 250767,
+        "word": "电影孤注一掷在消费缅北恐惧吗",
+        "onboard_time": 1692169240,
+        "rank": 27,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 259122,
+        "num": 249060,
+        "word": "运动1小时1周1个月会发生的变化",
+        "onboard_time": 1692163364,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248734,
+        "num": 248734,
+        "word": "民宿老板一晚被客人叫醒18次",
+        "onboard_time": 1692161443,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280981,
+        "num": 248717,
+        "word": "杨幂气到和NPC飙戏",
+        "onboard_time": 1692169539,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249187,
+        "num": 248713,
+        "word": "小夭和龙葵都是射手",
+        "onboard_time": 1692164741,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248665,
+        "num": 248665,
+        "word": "A股",
+        "onboard_time": 1692152674,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 228749,
+        "num": 228749,
+        "word": "杭州萧山辟谣转运珠式卖淫",
+        "onboard_time": 1692169000,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226789,
+        "num": 226789,
+        "word": "一加发布会",
+        "onboard_time": 1692170799,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 223830,
+        "num": 223830,
+        "word": "杨幂cue工作室显眼包吃馒头",
+        "onboard_time": 1692165881,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208959,
+        "num": 208959,
+        "word": "原来大自然真的有魔法",
+        "onboard_time": 1692170856,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 206846,
+        "num": 206846,
+        "word": "檀健次教科书式救场",
+        "onboard_time": 1692167317,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200766,
+        "num": 200766,
+        "word": "王弘毅说邓为最不卷",
+        "onboard_time": 1692167562,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152099,
+        "num": 200522,
+        "word": "我妈做的蜘蛛精早餐",
+        "onboard_time": 1692161142,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200427,
+        "num": 200427,
+        "word": "封神训练营没有声乐课吗",
+        "onboard_time": 1692170620,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191110,
+        "num": 200427,
+        "word": "披荆斩棘第三季主题曲MV",
+        "onboard_time": 1692168577,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176846,
+        "num": 200427,
+        "word": "吴谨言还得是古装",
+        "onboard_time": 1692165399,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149136,
+        "num": 200426,
+        "word": "缅甸失联20岁男生已找到父亲发声",
+        "onboard_time": 1692148116,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162820,
+        "num": 200426,
+        "word": "封神",
+        "onboard_time": 1692153875,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160961,
+        "num": 200425,
+        "word": "佟丽娅新片家暴是真的打吧",
+        "onboard_time": 1692161864,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159368,
+        "num": 200425,
+        "word": "相柳刺杀失败30秒文学",
+        "onboard_time": 1692165340,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147792,
+        "num": 200425,
+        "word": "老虎也没想到有天突然就被开除了",
+        "onboard_time": 1692165579,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141340,
+        "num": 200425,
+        "word": "中国科学家首次在人内心深处发现微塑料",
+        "onboard_time": 1692166839,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119412,
+        "num": 200424,
+        "word": "成熟的大人不会几天喜欢上一个人",
+        "onboard_time": 1692164081,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#用色卡打开美丽中国#"
+    }
+  }
+}

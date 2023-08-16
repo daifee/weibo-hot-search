@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692170107919,
+  "endTime": 1692171231480,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1245177,
+      "num": 1245177,
+      "word": "一个老光棍苦了70年捡了个宝",
+      "onboard_time": 1692166421,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1238466,
       "num": 1238466,
       "word": "为什么高铁座位没有E",
@@ -915,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 981221,
-      "num": 981221,
-      "word": "一个老光棍苦了70年捡了个宝",
-      "onboard_time": 1692166421,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 980184,
       "num": 980184,
       "word": "这样的豆浆千万别再喝了",
@@ -1097,6 +1097,14 @@
       "onboard_time": 1692146436,
       "rank": 32,
       "category": "科技,社会议题"
+    },
+    {
+      "raw_hot": 857118,
+      "num": 857118,
+      "word": "警方正调查女大学生疑被贩卖",
+      "onboard_time": 1692167740,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 855680,
@@ -1291,14 +1299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 759572,
-      "num": 759572,
-      "word": "警方正调查女大学生疑被贩卖",
-      "onboard_time": 1692167740,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 756018,
       "num": 489479,
       "word": "雷军建议不要给年轻人建议",
@@ -1353,6 +1353,14 @@
       "onboard_time": 1691985337,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 727165,
+      "num": 727165,
+      "word": "邓为商务价格比之前涨了快一半多",
+      "onboard_time": 1692167256,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 726279,
@@ -1513,14 +1521,6 @@
       "onboard_time": 1692012755,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 686719,
-      "num": 686719,
-      "word": "邓为商务价格比之前涨了快一半多",
-      "onboard_time": 1692167256,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 686021,
@@ -2243,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518448,
+      "num": 265839,
+      "word": "男子多次猥亵强奸亲生女儿被判刑17年",
+      "onboard_time": 1692169780,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518034,
       "num": 304863,
       "word": "戴耳机别超过一小时",
@@ -2425,6 +2433,14 @@
       "onboard_time": 1692102823,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489710,
+      "num": 419731,
+      "word": "张晚意穿这么多是不是有心事",
+      "onboard_time": 1692168940,
+      "rank": 17,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 488438,
@@ -3275,6 +3291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378531,
+      "num": 378531,
+      "word": "封神榜是编造给姬发的谎言",
+      "onboard_time": 1692171038,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378335,
       "num": 378335,
       "word": "玱玹 你怎么知道我是个疯子",
@@ -3377,14 +3401,6 @@
       "onboard_time": 1692003336,
       "rank": 22,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 364733,
-      "num": 344568,
-      "word": "张晚意穿这么多是不是有心事",
-      "onboard_time": 1692168940,
-      "rank": 17,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 364688,
@@ -3497,6 +3513,14 @@
       "onboard_time": 1691997755,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353460,
+      "num": 312884,
+      "word": "再就业男团 披荆斩棘",
+      "onboard_time": 1692167679,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 348590,
@@ -3827,20 +3851,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314185,
+      "num": 273730,
+      "word": "曾舜晞有三部8分作品",
+      "onboard_time": 1692167197,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 313182,
       "num": 285929,
       "word": "韩剧国民死刑投票",
       "onboard_time": 1692113916,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 312884,
-      "num": 312884,
-      "word": "再就业男团 披荆斩棘",
-      "onboard_time": 1692167679,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 312783,
@@ -4155,6 +4179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 288783,
+      "num": 250767,
+      "word": "电影孤注一掷在消费缅北恐惧吗",
+      "onboard_time": 1692169240,
+      "rank": 33,
+      "category": "影视,情感"
+    },
+    {
       "raw_hot": 288683,
       "num": 288683,
       "word": "此沙凹了很久拍了三张",
@@ -4299,6 +4331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280981,
+      "num": 279885,
+      "word": "杨幂气到和NPC飙戏",
+      "onboard_time": 1692169539,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280745,
       "num": 245248,
       "word": "电影前任4英年早婚",
@@ -4321,14 +4361,6 @@
       "onboard_time": 1691980053,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279885,
-      "num": 279885,
-      "word": "杨幂气到和NPC飙戏",
-      "onboard_time": 1692169539,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 279569,
@@ -4417,22 +4449,6 @@
       "onboard_time": 1692000156,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273730,
-      "num": 273730,
-      "word": "曾舜晞有三部8分作品",
-      "onboard_time": 1692167197,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 273608,
-      "num": 265839,
-      "word": "男子多次猥亵强奸亲生女儿被判刑17年",
-      "onboard_time": 1692169780,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273026,
@@ -4553,6 +4569,14 @@
       "onboard_time": 1692000638,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265226,
+      "num": 265226,
+      "word": "17岁男孩街边痛哭民警自黑式安慰",
+      "onboard_time": 1692170021,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264776,
@@ -4891,14 +4915,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 246826,
-      "num": 246826,
-      "word": "电影孤注一掷在消费缅北恐惧吗",
-      "onboard_time": 1692169240,
-      "rank": 33,
-      "category": "影视,情感"
-    },
-    {
       "raw_hot": 246152,
       "num": 246152,
       "word": "原神电话",
@@ -5211,6 +5227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226789,
+      "num": 226789,
+      "word": "一加发布会",
+      "onboard_time": 1692170799,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 226634,
       "num": 196382,
       "word": "夭玹兄妹打戏",
@@ -5467,6 +5491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208959,
+      "num": 208959,
+      "word": "原来大自然真的有魔法",
+      "onboard_time": 1692170856,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 208939,
       "num": 208939,
       "word": "长相思德塔文指数走势",
@@ -5648,6 +5680,22 @@
       "word": "李相夷舞功只剩一层了",
       "onboard_time": 1691939499,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200766,
+      "num": 206964,
+      "word": "王弘毅说邓为最不卷",
+      "onboard_time": 1692167562,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200427,
+      "num": 200427,
+      "word": "封神训练营没有声乐课吗",
+      "onboard_time": 1692170620,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -5857,6 +5905,14 @@
       "onboard_time": 1692058415,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191110,
+      "num": 208013,
+      "word": "披荆斩棘第三季主题曲MV",
+      "onboard_time": 1692168577,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 190785,
@@ -6179,28 +6235,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175033,
-      "num": 206964,
-      "word": "王弘毅说邓为最不卷",
-      "onboard_time": 1692167562,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 173724,
       "num": 173724,
       "word": "认识的人踩我雷点",
       "onboard_time": 1692093339,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 173645,
-      "num": 208013,
-      "word": "披荆斩棘第三季主题曲MV",
-      "onboard_time": 1692168577,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 171268,
@@ -6611,6 +6651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120999,
+      "num": 359879,
+      "word": "原神角色 电话",
+      "onboard_time": 1692169240,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120845,
       "num": 87807,
       "word": "韩雪打卡全球第一的冰淇淋店",
@@ -6649,14 +6697,6 @@
       "onboard_time": 1692024640,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 114103,
-      "num": 207925,
-      "word": "17岁男孩街边痛哭民警自黑式安慰",
-      "onboard_time": 1692170021,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113135,
@@ -6963,14 +7003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63749,
-      "num": 351781,
-      "word": "原神角色 电话",
-      "onboard_time": 1692169240,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 63456,
       "num": 549985,
       "word": "原神微博表情",
@@ -7035,6 +7067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 46790,
+      "num": 1001773,
+      "word": "30秒看308米长江大桥主塔拔地而起",
+      "onboard_time": 1692155073,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39783,
       "num": 39783,
       "word": "看着十分满足的切蛋糕大赏",
@@ -7065,14 +7105,6 @@
       "onboard_time": 1692123617,
       "rank": 49,
       "category": "其它"
-    },
-    {
-      "raw_hot": 33163,
-      "num": 1001773,
-      "word": "30秒看308米长江大桥主塔拔地而起",
-      "onboard_time": 1692155073,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32526,
