@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/14 00:19:33 ~ 2023/08/17 05:33:59
+本榜单时间：2023/08/14 00:19:33 ~ 2023/08/17 06:15:17
 </p>
 </blockquote>
 <p>
@@ -6297,6 +6297,12 @@ K60至尊版性能之王（热度：84163）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%942%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%89%94%E4%B8%8B%E6%A5%BC%E8%87%B4%E6%AD%BB%23" target="weibo">
+警方回应2岁幼童被父亲扔下楼致死（热度：83925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%81%BC%E7%81%BC%E9%A3%8E%E6%B5%81%E4%B8%BB%E9%A2%98%E6%9B%B2%23" target="weibo">
 周深灼灼风流主题曲（热度：83398）
 </a>
@@ -6305,12 +6311,6 @@ K60至尊版性能之王（热度：84163）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%976%E5%90%8D%E5%B0%8F%E4%BC%99%E5%9C%A8%E6%B5%B7%E6%B5%AA%E4%B8%AD%E6%95%91%E5%87%BA6%E5%90%8D%E6%BA%BA%E6%B0%B4%E8%80%85%23" target="weibo">
 湖南6名小伙在海浪中救出6名溺水者（热度：83224）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%942%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%89%94%E4%B8%8B%E6%A5%BC%E8%87%B4%E6%AD%BB%23" target="weibo">
-警方回应2岁幼童被父亲扔下楼致死（热度：82917）
 </a>
 </li>
 
