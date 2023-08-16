@@ -1,10 +1,10 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692202875770,
+  "endTime": 1692203826037,
   "band_list": [
     {
-      "raw_hot": 1887564,
-      "num": 1887564,
+      "raw_hot": 1900252,
+      "num": 1900252,
       "word": "长安三万里致歉声明",
       "onboard_time": 1692200795,
       "rank": 0,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 819691,
-      "num": 439045,
+      "num": 456484,
       "word": "2岁幼童被父亲从楼上扔下致死",
       "onboard_time": 1692192874,
       "rank": 10,
@@ -83,8 +83,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453883,
+      "num": 453883,
+      "word": "教小孩最好的方法就是夫妻聊天",
+      "onboard_time": 1692199959,
+      "rank": 15,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 442621,
-      "num": 442621,
+      "num": 461377,
       "word": "被严重低估的两部古装剧",
       "onboard_time": 1692187656,
       "rank": 9,
@@ -113,14 +121,6 @@
       "onboard_time": 1692192997,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 408007,
-      "num": 408007,
-      "word": "教小孩最好的方法就是夫妻聊天",
-      "onboard_time": 1692199959,
-      "rank": 15,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 346292,
@@ -171,20 +171,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293357,
+      "num": 279956,
+      "word": "明明为了生活而工作却因工作没有了生活",
+      "onboard_time": 1692200855,
+      "rank": 24,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 290929,
       "num": 290929,
       "word": "长相思第二季能不能明天播啊",
       "onboard_time": 1692187957,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 279956,
-      "num": 279956,
-      "word": "明明为了生活而工作却因工作没有了生活",
-      "onboard_time": 1692200855,
-      "rank": 24,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 279522,
@@ -259,12 +259,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198122,
-      "num": 177945,
+      "raw_hot": 206013,
+      "num": 206013,
       "word": "杨汝晴侯卓成",
       "onboard_time": 1692202412,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193217,
+      "num": 193217,
+      "word": "成毅 少抱怨多做事",
+      "onboard_time": 1692202654,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 190071,
@@ -273,6 +281,14 @@
       "onboard_time": 1692200136,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188058,
+      "num": 188058,
+      "word": "焯水时这些东西一定要凉水下锅",
+      "onboard_time": 1692202831,
+      "rank": 48,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 187862,
@@ -291,11 +307,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185779,
-      "num": 166288,
-      "word": "成毅 少抱怨多做事",
-      "onboard_time": 1692202654,
-      "rank": 43,
+      "raw_hot": 185471,
+      "num": 185471,
+      "word": "内娱打戏仙品",
+      "onboard_time": 1692203370,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -305,6 +321,14 @@
       "onboard_time": 1692199181,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175995,
+      "num": 175995,
+      "word": "爸爸上班也靠忍",
+      "onboard_time": 1692202536,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 175923,
@@ -355,14 +379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137818,
-      "num": 165768,
-      "word": "爸爸上班也靠忍",
-      "onboard_time": 1692202536,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 127045,
       "num": 165623,
       "word": "离开你谁还把我当小孩",
@@ -371,16 +387,8 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 125550,
-      "num": 165519,
-      "word": "焯水时这些东西一定要凉水下锅",
-      "onboard_time": 1692202831,
-      "rank": 48,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 120850,
-      "num": 413970,
+      "num": 459673,
       "word": "小伙在珠峰向女友求婚",
       "onboard_time": 1692196601,
       "rank": 14,
@@ -395,7 +403,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4143,
+      "raw_hot": 78502,
+      "num": 135919,
+      "word": "宝宝第一次听到呼噜声被吓到起飞",
+      "onboard_time": 1692202892,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4690,
       "num": 1079619,
       "word": "亚运会游泳跳水田径门票今起实时销售",
       "onboard_time": 1692155435,
