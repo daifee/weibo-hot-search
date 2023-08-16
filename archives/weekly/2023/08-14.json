@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692196427182,
+  "endTime": 1692199023382,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -65,6 +65,14 @@
       "onboard_time": 1692146855,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2813327,
+      "num": 2813327,
+      "word": "你的微信和微博是俩人在运营吗",
+      "onboard_time": 1692193901,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 2807709,
@@ -523,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1445104,
-      "num": 1445104,
-      "word": "你的微信和微博是俩人在运营吗",
-      "onboard_time": 1692193901,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1441010,
       "num": 1441010,
       "word": "他现在甚至都懒得张口了",
@@ -971,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1049243,
+      "num": 909644,
+      "word": "朋友圈快乐的内容消失了",
+      "onboard_time": 1692194081,
+      "rank": 17,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1020684,
       "num": 776503,
       "word": "亲眼目睹父亲当街杀母亲女孩发声",
@@ -1139,14 +1147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 909644,
-      "num": 909644,
-      "word": "朋友圈快乐的内容消失了",
-      "onboard_time": 1692194081,
-      "rank": 17,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 905634,
       "num": 847411,
       "word": "魏大勋方维权起诉",
@@ -1193,6 +1193,14 @@
       "onboard_time": 1692021398,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 897000,
+      "num": 897000,
+      "word": "奶奶接法国来电10岁乖孙帮转账",
+      "onboard_time": 1692197618,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 896994,
@@ -1379,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 809986,
+      "num": 809986,
+      "word": "涂山璟奶奶的药给相柳喝吧",
+      "onboard_time": 1692194681,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 803752,
       "num": 803752,
       "word": "叶童回应白发显老",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1691985337,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 731400,
+      "num": 731400,
+      "word": "涂山璟 什么都抓不住了",
+      "onboard_time": 1692196961,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 727165,
@@ -1819,14 +1843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 664276,
-      "num": 511886,
-      "word": "涂山璟奶奶的药给相柳喝吧",
-      "onboard_time": 1692194681,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 664217,
       "num": 664217,
       "word": "涂山璟的哈基米被甜晕了",
@@ -1841,6 +1857,14 @@
       "onboard_time": 1692019838,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 663084,
+      "num": 663084,
+      "word": "莲花楼第二季剧本有了",
+      "onboard_time": 1692197501,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 662895,
@@ -2643,6 +2667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513955,
+      "num": 513955,
+      "word": "王传君不想女儿以为他是坏人",
+      "onboard_time": 1692198520,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512642,
       "num": 512642,
       "word": "长相思豆瓣开分7.6",
@@ -2897,6 +2929,14 @@
       "onboard_time": 1692082362,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476883,
+      "num": 476883,
+      "word": "整治MOBA游戏乱象",
+      "onboard_time": 1692192278,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 475493,
@@ -3243,6 +3283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439687,
+      "num": 439687,
+      "word": "XYG无缘季后赛",
+      "onboard_time": 1692198104,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 438890,
       "num": 438890,
       "word": "檀健次 相柳有点浪漫",
@@ -3297,6 +3345,14 @@
       "onboard_time": 1692064774,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 430534,
+      "num": 430534,
+      "word": "拔了全口牙齿是什么体验",
+      "onboard_time": 1692195222,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 429417,
@@ -3689,14 +3745,6 @@
       "onboard_time": 1691977473,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 386242,
-      "num": 386242,
-      "word": "整治MOBA游戏乱象",
-      "onboard_time": 1692192278,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 386228,
@@ -4315,6 +4363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323726,
+      "num": 323726,
+      "word": "缅北失联20岁男生解救过程",
+      "onboard_time": 1692198338,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323692,
       "num": 278607,
       "word": "关智斌毛利小五郎同款发型",
@@ -4497,14 +4553,6 @@
       "onboard_time": 1692086799,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 310856,
-      "num": 310856,
-      "word": "拔了全口牙齿是什么体验",
-      "onboard_time": 1692195222,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 309928,
@@ -4793,6 +4841,14 @@
       "onboard_time": 1692142888,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293963,
+      "num": 293963,
+      "word": "钟辰乐直播",
+      "onboard_time": 1692197501,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 293500,
@@ -5155,6 +5211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275360,
+      "num": 275360,
+      "word": "杨玏探头",
+      "onboard_time": 1692197562,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274336,
       "num": 372195,
       "word": "内马尔或本周上演沙特首秀",
@@ -5401,6 +5465,14 @@
       "onboard_time": 1692169000,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259882,
+      "num": 219815,
+      "word": "TF三代演唱会饭拍生图",
+      "onboard_time": 1692196243,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 259788,
@@ -5875,6 +5947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236264,
+      "num": 236264,
+      "word": "离开你谁还把我当小孩",
+      "onboard_time": 1692196243,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 235714,
       "num": 199850,
       "word": "大张伟演唱会歌单",
@@ -6051,14 +6131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227112,
-      "num": 202486,
-      "word": "TF三代演唱会饭拍生图",
-      "onboard_time": 1692196243,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 227103,
       "num": 212324,
       "word": "QueencardMV播放量破2亿",
@@ -6137,6 +6209,14 @@
       "onboard_time": 1692016598,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220408,
+      "num": 220408,
+      "word": "两地交警接力送男子成功接上断指",
+      "onboard_time": 1692198820,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220243,
@@ -6249,6 +6329,14 @@
       "onboard_time": 1692115893,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215577,
+      "num": 215577,
+      "word": "所以梁祝的故事是真的",
+      "onboard_time": 1692196780,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 215367,
@@ -6731,6 +6819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198134,
+      "num": 198134,
+      "word": "KSG锁定败者组",
+      "onboard_time": 1692198401,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197776,
       "num": 197776,
       "word": "家人手制凤冠霞帔八抬大轿送女出嫁",
@@ -7043,6 +7139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187687,
+      "num": 569216,
+      "word": "小伙在珠峰向女友求婚",
+      "onboard_time": 1692196601,
+      "rank": 13,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 187659,
       "num": 187659,
       "word": "曲靖初入森林的新人体验",
@@ -7097,6 +7201,14 @@
       "onboard_time": 1691937523,
       "rank": 40,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 186306,
+      "num": 186306,
+      "word": "从猫的眼神里看得出瓜是真的甜啊",
+      "onboard_time": 1692197081,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 186297,
@@ -7371,6 +7483,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 169628,
+      "num": 169628,
+      "word": "灵梦辅助首秀",
+      "onboard_time": 1692198999,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169383,
       "num": 169383,
       "word": "全家凑不出一个正常人",
@@ -7481,14 +7601,6 @@
       "onboard_time": 1692022963,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161099,
-      "num": 195539,
-      "word": "离开你谁还把我当小孩",
-      "onboard_time": 1692196243,
-      "rank": 48,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 160604,
@@ -8267,6 +8379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 55139,
+      "num": 1056044,
+      "word": "初秋的乡间田野生机勃勃",
+      "onboard_time": 1692194800,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54613,
       "num": 79583,
       "word": "莲花楼的探案莲盟",
@@ -8315,6 +8435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37900,
+      "num": 556055,
+      "word": "退役军人摆摊卖面为遇困者设免费餐",
+      "onboard_time": 1692198039,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35498,
       "num": 532810,
       "word": "高三女生骑车摔晕店家顾客暖心帮忙",
@@ -8328,14 +8456,6 @@
       "word": "东京审判818次唇枪舌战判决书1213页",
       "onboard_time": 1692069338,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34516,
-      "num": 1056044,
-      "word": "初秋的乡间田野生机勃勃",
-      "onboard_time": 1692194800,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
