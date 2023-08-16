@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692162940367,
+  "endTime": 1692164031685,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1852,7 +1852,7 @@
     },
     {
       "raw_hot": 1945348,
-      "num": 1088650,
+      "num": 1131962,
       "word": "孙俪好薄",
       "onboard_time": 1692158859,
       "rank": 30,
@@ -2801,6 +2801,14 @@
       "onboard_time": 1691282021,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1590173,
+      "num": 501875,
+      "word": "网友偶遇黄多多",
+      "onboard_time": 1692162044,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1589297,
@@ -4592,6 +4600,14 @@
       "word": "白日梦我原著党两眼一黑",
       "onboard_time": 1691838580,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1204431,
+      "num": 1204431,
+      "word": "原来真正殉情的是相柳",
+      "onboard_time": 1692162584,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -8955,14 +8971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 775754,
-      "num": 501875,
-      "word": "网友偶遇黄多多",
-      "onboard_time": 1692162044,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 775655,
       "num": 428608,
       "word": "因为太瘦工作没了",
@@ -9584,6 +9592,14 @@
       "word": "幸亏过路女司机凌晨多看了两眼",
       "onboard_time": 1691712995,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740877,
+      "num": 740877,
+      "word": "缅北",
+      "onboard_time": 1692162766,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -11816,6 +11832,14 @@
       "word": "魏大勋演的毛岸英",
       "onboard_time": 1692076238,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 627288,
+      "num": 457711,
+      "word": "佟丽娅新片家暴是真的打吧",
+      "onboard_time": 1692161864,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -17139,14 +17163,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 457711,
-      "num": 457711,
-      "word": "佟丽娅新片家暴是真的打吧",
-      "onboard_time": 1692161864,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 457468,
       "num": 355559,
       "word": "杨幂每年都有新梗火了",
@@ -19059,6 +19075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411395,
+      "num": 411395,
+      "word": "小夭第二季才知道玱玹爱她",
+      "onboard_time": 1692163184,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411387,
       "num": 411387,
       "word": "曾舜晞没来又好像来了",
@@ -19961,6 +19985,14 @@
       "onboard_time": 1691426789,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389689,
+      "num": 333287,
+      "word": "金晨玫瑰耳环",
+      "onboard_time": 1692162463,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 389620,
@@ -21329,6 +21361,14 @@
       "onboard_time": 1691681617,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 363754,
+      "num": 323380,
+      "word": "杨迪暗示陈卓璇AA",
+      "onboard_time": 1692163485,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 363710,
@@ -25480,14 +25520,6 @@
       "word": "张艺兴听到观众说吞的是金晨用的纸",
       "onboard_time": 1691995895,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 290282,
-      "num": 290282,
-      "word": "原来真正殉情的是相柳",
-      "onboard_time": 1692162584,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -30307,6 +30339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226634,
+      "num": 196382,
+      "word": "夭玹兄妹打戏",
+      "onboard_time": 1692163603,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226545,
       "num": 190276,
       "word": "人类有一种本能叫做预感离别",
@@ -33475,14 +33515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198983,
-      "num": 198983,
-      "word": "金晨玫瑰耳环",
-      "onboard_time": 1692162463,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 198962,
       "num": 201828,
       "word": "动漫大赏2023",
@@ -34212,7 +34244,7 @@
     },
     {
       "raw_hot": 194590,
-      "num": 194590,
+      "num": 196369,
       "word": "邓紫棋剪新刘海",
       "onboard_time": 1692162284,
       "rank": 42,
@@ -34289,6 +34321,14 @@
       "onboard_time": 1690975414,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193750,
+      "num": 196398,
+      "word": "运动1小时1周1个月会发生的变化",
+      "onboard_time": 1692163364,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193717,
@@ -35235,14 +35275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187088,
-      "num": 187088,
-      "word": "缅北",
-      "onboard_time": 1692162766,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187053,
       "num": 236324,
       "word": "悉尼上空现CoCoLee云朵字",
@@ -35537,6 +35569,14 @@
       "onboard_time": 1691536403,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184058,
+      "num": 196394,
+      "word": "星穹铁道托帕",
+      "onboard_time": 1692163007,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 183837,

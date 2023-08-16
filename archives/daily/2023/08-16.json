@@ -1,6 +1,6 @@
 {
   "startTime": 1692116466090,
-  "endTime": 1692162940367,
+  "endTime": 1692164031685,
   "band_list": [
     {
       "raw_hot": 2827548,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1945348,
-      "num": 1088650,
+      "num": 1131962,
       "word": "孙俪好薄",
       "onboard_time": 1692158859,
       "rank": 30,
@@ -81,6 +81,14 @@
       "onboard_time": 1692147156,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1590173,
+      "num": 501875,
+      "word": "网友偶遇黄多多",
+      "onboard_time": 1692162044,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1389352,
@@ -105,6 +113,14 @@
       "onboard_time": 1692133633,
       "rank": 29,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 1204431,
+      "num": 1204431,
+      "word": "原来真正殉情的是相柳",
+      "onboard_time": 1692162584,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 1141950,
@@ -203,20 +219,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 775754,
-      "num": 501875,
-      "word": "网友偶遇黄多多",
-      "onboard_time": 1692162044,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 771773,
       "num": 771773,
       "word": "视觉中国市值蒸发超3亿",
       "onboard_time": 1692155496,
       "rank": 31,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 740877,
+      "num": 740877,
+      "word": "缅北",
+      "onboard_time": 1692162766,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684868,
@@ -272,6 +288,14 @@
       "word": "相柳躲过小夭的吻",
       "onboard_time": 1692143068,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 627288,
+      "num": 457711,
+      "word": "佟丽娅新片家暴是真的打吧",
+      "onboard_time": 1692161864,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -427,14 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 457711,
-      "num": 457711,
-      "word": "佟丽娅新片家暴是真的打吧",
-      "onboard_time": 1692161864,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 453432,
       "num": 453432,
       "word": "夫胜宽 克拉们过得好吗",
@@ -523,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411395,
+      "num": 411395,
+      "word": "小夭第二季才知道玱玹爱她",
+      "onboard_time": 1692163184,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411220,
       "num": 334343,
       "word": "蔡依林成都",
@@ -563,6 +587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 389689,
+      "num": 333287,
+      "word": "金晨玫瑰耳环",
+      "onboard_time": 1692162463,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 383606,
       "num": 383606,
       "word": "胡歌黄磊不虚此行对手戏",
@@ -577,6 +609,22 @@
       "onboard_time": 1692147820,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 363866,
+      "num": 332998,
+      "word": "密室大逃脱",
+      "onboard_time": 1692162584,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 363754,
+      "num": 323380,
+      "word": "杨迪暗示陈卓璇AA",
+      "onboard_time": 1692163485,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 359176,
@@ -747,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290282,
-      "num": 290282,
-      "word": "原来真正殉情的是相柳",
-      "onboard_time": 1692162584,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 289091,
       "num": 289091,
       "word": "补血对于女性来说都是必要的",
@@ -899,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226634,
+      "num": 196382,
+      "word": "夭玹兄妹打戏",
+      "onboard_time": 1692163603,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223710,
       "num": 223710,
       "word": "在下坂本",
@@ -937,14 +985,6 @@
       "onboard_time": 1692140782,
       "rank": 24,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 216072,
-      "num": 216072,
-      "word": "密室大逃脱",
-      "onboard_time": 1692162584,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 215646,
@@ -1011,14 +1051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198983,
-      "num": 198983,
-      "word": "金晨玫瑰耳环",
-      "onboard_time": 1692162463,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 198881,
       "num": 198881,
       "word": "什么时候看到成毅玩游戏能不笑",
@@ -1028,7 +1060,7 @@
     },
     {
       "raw_hot": 194590,
-      "num": 194590,
+      "num": 196369,
       "word": "邓紫棋剪新刘海",
       "onboard_time": 1692162284,
       "rank": 42,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1692148656,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193750,
+      "num": 196398,
+      "word": "运动1小时1周1个月会发生的变化",
+      "onboard_time": 1692163364,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193480,
@@ -1107,14 +1147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187088,
-      "num": 187088,
-      "word": "缅北",
-      "onboard_time": 1692162766,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186528,
       "num": 186528,
       "word": "视觉中国创始人称是误会",
@@ -1128,6 +1160,14 @@
       "word": "决战平安京",
       "onboard_time": 1692162524,
       "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 184058,
+      "num": 196394,
+      "word": "星穹铁道托帕",
+      "onboard_time": 1692163007,
+      "rank": 39,
       "category": "游戏"
     },
     {

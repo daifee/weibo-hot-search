@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692162940367,
+  "endTime": 1692164031685,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1945348,
-      "num": 1088650,
+      "num": 1131962,
       "word": "孙俪好薄",
       "onboard_time": 1692158859,
       "rank": 30,
@@ -329,6 +329,14 @@
       "onboard_time": 1692147156,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1590173,
+      "num": 501875,
+      "word": "网友偶遇黄多多",
+      "onboard_time": 1692162044,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1586488,
@@ -624,6 +632,14 @@
       "word": "播一部火一部的明星",
       "onboard_time": 1692080074,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1204431,
+      "num": 1204431,
+      "word": "原来真正殉情的是相柳",
+      "onboard_time": 1692162584,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1219,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 775754,
-      "num": 501875,
-      "word": "网友偶遇黄多多",
-      "onboard_time": 1692162044,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 773724,
       "num": 636297,
       "word": "毛晓彤庆余年2红衣造型",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1692089081,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 740877,
+      "num": 740877,
+      "word": "缅北",
+      "onboard_time": 1692162766,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 737843,
@@ -1656,6 +1672,14 @@
       "word": "魏大勋演的毛岸英",
       "onboard_time": 1692076238,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 627288,
+      "num": 457711,
+      "word": "佟丽娅新片家暴是真的打吧",
+      "onboard_time": 1692161864,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -2547,14 +2571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 457711,
-      "num": 457711,
-      "word": "佟丽娅新片家暴是真的打吧",
-      "onboard_time": 1692161864,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 456391,
       "num": 510531,
       "word": "向佐一口气带5个娃过暑假",
@@ -2907,6 +2923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411395,
+      "num": 411395,
+      "word": "小夭第二季才知道玱玹爱她",
+      "onboard_time": 1692163184,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411220,
       "num": 334343,
       "word": "蔡依林成都",
@@ -3073,6 +3097,14 @@
       "onboard_time": 1692157659,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 389689,
+      "num": 333287,
+      "word": "金晨玫瑰耳环",
+      "onboard_time": 1692162463,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 389070,
@@ -3289,6 +3321,22 @@
       "onboard_time": 1692007119,
       "rank": 23,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 363866,
+      "num": 332998,
+      "word": "密室大逃脱",
+      "onboard_time": 1692162584,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 363754,
+      "num": 323380,
+      "word": "杨迪暗示陈卓璇AA",
+      "onboard_time": 1692163485,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 359627,
@@ -3976,14 +4024,6 @@
       "word": "张艺兴听到观众说吞的是金晨用的纸",
       "onboard_time": 1691995895,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 290282,
-      "num": 290282,
-      "word": "原来真正殉情的是相柳",
-      "onboard_time": 1692162584,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -4995,6 +5035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226634,
+      "num": 196382,
+      "word": "夭玹兄妹打戏",
+      "onboard_time": 1692163603,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225522,
       "num": 415489,
       "word": "8000年前的陶片留着锅巴",
@@ -5113,14 +5161,6 @@
       "onboard_time": 1691970270,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216072,
-      "num": 216072,
-      "word": "密室大逃脱",
-      "onboard_time": 1692162584,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 215867,
@@ -5443,14 +5483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198983,
-      "num": 198983,
-      "word": "金晨玫瑰耳环",
-      "onboard_time": 1692162463,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 198881,
       "num": 198881,
       "word": "什么时候看到成毅玩游戏能不笑",
@@ -5516,7 +5548,7 @@
     },
     {
       "raw_hot": 194590,
-      "num": 194590,
+      "num": 196369,
       "word": "邓紫棋剪新刘海",
       "onboard_time": 1692162284,
       "rank": 42,
@@ -5545,6 +5577,14 @@
       "onboard_time": 1692148656,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193750,
+      "num": 196398,
+      "word": "运动1小时1周1个月会发生的变化",
+      "onboard_time": 1692163364,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193404,
@@ -5707,14 +5747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187088,
-      "num": 187088,
-      "word": "缅北",
-      "onboard_time": 1692162766,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186942,
       "num": 186942,
       "word": "星穹铁道镜流",
@@ -5785,6 +5817,14 @@
       "onboard_time": 1692086019,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184058,
+      "num": 196394,
+      "word": "星穹铁道托帕",
+      "onboard_time": 1692163007,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 183812,
