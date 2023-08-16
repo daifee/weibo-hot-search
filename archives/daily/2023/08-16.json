@@ -1,6 +1,6 @@
 {
   "startTime": 1692116466090,
-  "endTime": 1692171231480,
+  "endTime": 1692174029741,
   "band_list": [
     {
       "raw_hot": 2827548,
@@ -57,6 +57,14 @@
       "onboard_time": 1692143251,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2057771,
+      "num": 335563,
+      "word": "22岁女大学生疑被贩卖缅北",
+      "onboard_time": 1692162766,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2036768,
@@ -347,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 612271,
+      "num": 419731,
+      "word": "张晚意穿这么多是不是有心事",
+      "onboard_time": 1692168940,
+      "rank": 17,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 584758,
       "num": 333996,
       "word": "吸肚子和收核心的区别",
@@ -393,6 +409,14 @@
       "onboard_time": 1692145173,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 560945,
+      "num": 299281,
+      "word": "有人记得这种奶茶吗",
+      "onboard_time": 1692172720,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 558912,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 518448,
-      "num": 265839,
+      "num": 296520,
       "word": "男子多次猥亵强奸亲生女儿被判刑17年",
       "onboard_time": 1692169780,
       "rank": 30,
@@ -481,14 +505,6 @@
       "onboard_time": 1692154774,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 489710,
-      "num": 419731,
-      "word": "张晚意穿这么多是不是有心事",
-      "onboard_time": 1692168940,
-      "rank": 17,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 488438,
@@ -571,6 +587,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 434961,
+      "num": 329454,
+      "word": "杨幂说是周笔畅唯一的朋友",
+      "onboard_time": 1692172657,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 431357,
+      "num": 289057,
+      "word": "王牌对王牌8即将开录",
+      "onboard_time": 1692172720,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429417,
       "num": 429417,
       "word": "王者七夕松鹤新皮肤",
@@ -635,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414474,
+      "num": 287172,
+      "word": "赵今麦流苏吊带裙",
+      "onboard_time": 1692172117,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 411220,
       "num": 334343,
       "word": "蔡依林成都",
@@ -691,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381502,
+      "num": 285397,
+      "word": "男子举报48岁班主任勾引28岁妻子",
+      "onboard_time": 1692172235,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 379656,
       "num": 379656,
       "word": "王倦你没有心",
@@ -704,6 +752,14 @@
       "word": "封神榜是编造给姬发的谎言",
       "onboard_time": 1692171038,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 374644,
+      "num": 374644,
+      "word": "长相思云合",
+      "onboard_time": 1692173137,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -728,6 +784,14 @@
       "word": "小象玩水鼻子快要甩掉了",
       "onboard_time": 1692153995,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358121,
+      "num": 358121,
+      "word": "17岁男孩街边痛哭民警自黑式安慰",
+      "onboard_time": 1692170021,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -787,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 329238,
+      "num": 329238,
+      "word": "疑被贩卖缅北女大学生发声",
+      "onboard_time": 1692173137,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326673,
       "num": 326673,
       "word": "抑郁是水溶性的",
@@ -809,6 +881,14 @@
       "onboard_time": 1692106482,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323692,
+      "num": 278607,
+      "word": "关智斌毛利小五郎同款发型",
+      "onboard_time": 1692171997,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 320825,
@@ -857,6 +937,14 @@
       "onboard_time": 1692113916,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308477,
+      "num": 308477,
+      "word": "那些偷外卖的人是什么心理",
+      "onboard_time": 1692171819,
+      "rank": 18,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 308373,
@@ -963,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278444,
+      "num": 278444,
+      "word": "快递名用久了会变成真名",
+      "onboard_time": 1692173859,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277399,
       "num": 277399,
       "word": "吴泽林好惨",
@@ -995,12 +1091,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265226,
-      "num": 265226,
-      "word": "17岁男孩街边痛哭民警自黑式安慰",
-      "onboard_time": 1692170021,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 264835,
+      "num": 264835,
+      "word": "乌尔善锤于适脑壳",
+      "onboard_time": 1692173257,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 264776,
@@ -1033,6 +1129,14 @@
       "onboard_time": 1692169000,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259239,
+      "num": 259239,
+      "word": "内娱演技可以开班授课的明星",
+      "onboard_time": 1692171997,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256981,
@@ -1163,6 +1267,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 223078,
+      "num": 214441,
+      "word": "张远官宣披荆斩棘cos汤姆猫",
+      "onboard_time": 1692172235,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220243,
       "num": 234123,
       "word": "成熟的大人不会几天喜欢上一个人",
@@ -1267,12 +1379,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204877,
+      "num": 204877,
+      "word": "华晨宇的猫也要去鸟巢",
+      "onboard_time": 1692173737,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202971,
       "num": 202971,
       "word": "张艺兴版恐龙扛狼",
       "onboard_time": 1692144512,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200939,
+      "num": 200939,
+      "word": "开锁师傅终身难忘的一次经历",
+      "onboard_time": 1692173678,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 200766,
@@ -1443,6 +1571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183088,
+      "num": 183088,
+      "word": "王鹤润的古装角色越演越狠",
+      "onboard_time": 1692173919,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181602,
       "num": 230068,
       "word": "严浩翔新歌vocal",
@@ -1593,6 +1729,14 @@
       "onboard_time": 1692155975,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 137505,
+      "num": 174003,
+      "word": "环卫工清理垃圾男子送百余个空瓶表感谢",
+      "onboard_time": 1692171760,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134147,
@@ -1763,6 +1907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 58145,
+      "num": 253649,
+      "word": "你接到原神的电话了吗",
+      "onboard_time": 1692173257,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56579,
       "num": 79590,
       "word": "陈嘉桦时光音乐会",
@@ -1817,6 +1969,22 @@
       "onboard_time": 1692101804,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16265,
+      "num": 533869,
+      "word": "洪灾后不同场所消毒要点",
+      "onboard_time": 1692173859,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13532,
+      "num": 213762,
+      "word": "我国首部中国生态保护红线蓝皮书发布",
+      "onboard_time": 1692173617,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1828,6 +1996,9 @@
     },
     {
       "word": "#用色卡打开美丽中国#"
+    },
+    {
+      "word": "#生态文明的种子深植于心#"
     }
   ]
 }
