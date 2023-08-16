@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692220443177,
+  "endTime": 1692221639051,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -42955,6 +42955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 16706,
+      "num": 32898,
+      "word": "No Complaints严浩翔",
+      "onboard_time": 1692217874,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 16584,
       "num": 617524,
       "word": "7个数字揭秘大运会闭幕式",
@@ -42985,14 +42993,6 @@
       "onboard_time": 1691636433,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14758,
-      "num": 32898,
-      "word": "No Complaints严浩翔",
-      "onboard_time": 1692217874,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 13532,
