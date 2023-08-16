@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692177354764,
+  "endTime": 1692178466794,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 2057771,
-      "num": 352065,
+      "num": 372366,
       "word": "22岁女大学生疑被贩卖缅北",
       "onboard_time": 1692162766,
       "rank": 10,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1398117,
+      "num": 1398117,
+      "word": "BLACKPINK官宣首尔演唱会",
+      "onboard_time": 1692175778,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1389352,
       "num": 1389352,
       "word": "黄晓明3分钟讲了392个字一条过",
@@ -593,14 +601,6 @@
       "onboard_time": 1691982454,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1263767,
-      "num": 1263767,
-      "word": "BLACKPINK官宣首尔演唱会",
-      "onboard_time": 1692175778,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1258724,
@@ -889,6 +889,14 @@
       "onboard_time": 1692018880,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1016277,
+      "num": 502867,
+      "word": "杨幂上身身材",
+      "onboard_time": 1692176499,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1015272,
@@ -1417,6 +1425,14 @@
       "onboard_time": 1691997396,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 720329,
+      "num": 720329,
+      "word": "姑姑回应11岁女孩农村土房前自信跳舞",
+      "onboard_time": 1692176441,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 719568,
@@ -1972,7 +1988,7 @@
     },
     {
       "raw_hot": 576800,
-      "num": 329868,
+      "num": 369602,
       "word": "有人记得这种奶茶吗",
       "onboard_time": 1692172720,
       "rank": 20,
@@ -2219,6 +2235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 540788,
+      "num": 540788,
+      "word": "山东将全面落实带薪休假制度",
+      "onboard_time": 1692175778,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538880,
       "num": 529543,
       "word": "他的名字曾经绝密28年",
@@ -2299,14 +2323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 522930,
-      "num": 417180,
-      "word": "杨幂上身身材",
-      "onboard_time": 1692176499,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 518448,
       "num": 325051,
       "word": "男子多次猥亵强奸亲生女儿被判刑17年",
@@ -2372,7 +2388,7 @@
     },
     {
       "raw_hot": 509646,
-      "num": 332087,
+      "num": 371048,
       "word": "快递名用久了会变成真名",
       "onboard_time": 1692173859,
       "rank": 29,
@@ -2385,6 +2401,14 @@
       "onboard_time": 1692062735,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 509013,
+      "num": 509013,
+      "word": "林志颖综艺状态",
+      "onboard_time": 1692177400,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 506869,
@@ -2433,6 +2457,14 @@
       "onboard_time": 1692072880,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500404,
+      "num": 500404,
+      "word": "赵丽颖 平和但又奋进",
+      "onboard_time": 1692177400,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 499854,
@@ -2699,6 +2731,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 461106,
+      "num": 461106,
+      "word": "人间清醒的杨紫",
+      "onboard_time": 1692174997,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460362,
       "num": 408158,
       "word": "内娱新晋颜霸",
@@ -2832,14 +2872,6 @@
       "word": "男子吃见手青中毒以为撞了人吓得报警",
       "onboard_time": 1691988162,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 442949,
-      "num": 442949,
-      "word": "山东将全面落实带薪休假制度",
-      "onboard_time": 1692175778,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -3003,11 +3035,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 424902,
-      "num": 424902,
-      "word": "人间清醒的杨紫",
-      "onboard_time": 1692174997,
-      "rank": 9,
+      "raw_hot": 422988,
+      "num": 422988,
+      "word": "长相思五黑阵容",
+      "onboard_time": 1692176441,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -3675,6 +3707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344507,
+      "num": 344507,
+      "word": "杨幂是檀健次的伯乐",
+      "onboard_time": 1692177759,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344433,
       "num": 323216,
       "word": "薛之谦去鸟巢的路走了18年",
@@ -3785,14 +3825,6 @@
       "onboard_time": 1692011613,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332358,
-      "num": 332358,
-      "word": "姑姑回应11岁女孩农村土房前自信跳舞",
-      "onboard_time": 1692176441,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331461,
@@ -3921,14 +3953,6 @@
       "onboard_time": 1692143792,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320048,
-      "num": 320048,
-      "word": "长相思五黑阵容",
-      "onboard_time": 1692176441,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 320027,
@@ -4179,20 +4203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299181,
+      "num": 374583,
+      "word": "卢伟冰 建议把精力都花在正经事上",
+      "onboard_time": 1692176018,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 298953,
       "num": 298953,
       "word": "中国大妈翻章鱼小丸子手艺震惊日本",
       "onboard_time": 1691930675,
       "rank": 36,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 298258,
-      "num": 275995,
-      "word": "卢伟冰 建议把精力都花在正经事上",
-      "onboard_time": 1692176018,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 298256,
@@ -4545,6 +4569,14 @@
       "onboard_time": 1691980649,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278938,
+      "num": 317509,
+      "word": "STAYC回归",
+      "onboard_time": 1692177878,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 278192,
@@ -5179,6 +5211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243018,
+      "num": 243018,
+      "word": "邓为练手势舞",
+      "onboard_time": 1692176919,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242009,
       "num": 513324,
       "word": "你喝的奶茶有身份证吗",
@@ -5299,6 +5339,14 @@
       "category": "美妆,情感"
     },
     {
+      "raw_hot": 233801,
+      "num": 231873,
+      "word": "天海祐希 你先下楼下楼再说",
+      "onboard_time": 1692175237,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233765,
       "num": 233765,
       "word": "视觉中国",
@@ -5344,14 +5392,6 @@
       "word": "吴世勋谢谢下次见",
       "onboard_time": 1692078397,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 231873,
-      "num": 231873,
-      "word": "天海祐希 你先下楼下楼再说",
-      "onboard_time": 1692175237,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -5441,6 +5481,14 @@
       "onboard_time": 1692163603,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225809,
+      "num": 225809,
+      "word": "Stocktrek已通知视觉中国下架戴建峰作品",
+      "onboard_time": 1692177638,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225522,
@@ -5587,14 +5635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215801,
-      "num": 204690,
-      "word": "邓为练手势舞",
-      "onboard_time": 1692176919,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215646,
       "num": 190895,
       "word": "当影视剧里不起眼的女孩摘掉眼镜后",
@@ -5617,6 +5657,14 @@
       "onboard_time": 1692106122,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213109,
+      "num": 213109,
+      "word": "当爸妈问为什么洗澡那么久",
+      "onboard_time": 1692178118,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 212553,
@@ -5875,6 +5923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202466,
+      "num": 202466,
+      "word": "视觉中国商业模式",
+      "onboard_time": 1692177519,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 202465,
       "num": 202192,
       "word": "志愿军里的魏大勋",
@@ -5929,6 +5985,14 @@
       "onboard_time": 1692167562,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200686,
+      "num": 200686,
+      "word": "谁来救救闫妮",
+      "onboard_time": 1692178118,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200427,
@@ -6289,6 +6353,14 @@
       "onboard_time": 1691937523,
       "rank": 40,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 186297,
+      "num": 186297,
+      "word": "莲花楼今日收官",
+      "onboard_time": 1692178240,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 186182,
@@ -6836,7 +6908,7 @@
     },
     {
       "raw_hot": 137505,
-      "num": 402831,
+      "num": 482127,
       "word": "环卫工清理垃圾男子送百余个空瓶表感谢",
       "onboard_time": 1692171760,
       "rank": 49,
@@ -7299,7 +7371,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64287,
+      "raw_hot": 65032,
       "num": 1246575,
       "word": "洪灾后不同场所消毒要点",
       "onboard_time": 1692173859,
@@ -7385,6 +7457,14 @@
       "onboard_time": 1692036439,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 39692,
+      "num": 482116,
+      "word": "8旬退休医生义诊24年不收费",
+      "onboard_time": 1692177159,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35498,
@@ -7513,14 +7593,6 @@
       "onboard_time": 1692173617,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10283,
-      "num": 391147,
-      "word": "8旬退休医生义诊24年不收费",
-      "onboard_time": 1692177159,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -7556,6 +7628,9 @@
     },
     {
       "word": "#生态文明的种子深植于心#"
+    },
+    {
+      "word": "#谱写新时代生态文明建设新篇章#"
     }
   ]
 }
