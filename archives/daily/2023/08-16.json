@@ -1,6 +1,6 @@
 {
   "startTime": 1692116466090,
-  "endTime": 1692192830135,
+  "endTime": 1692195290543,
   "band_list": [
     {
       "raw_hot": 2827548,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2221979,
-      "num": 892896,
+      "num": 1027706,
       "word": "被严重低估的两部古装剧",
       "onboard_time": 1692187656,
       "rank": 5,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1723735,
+      "num": 525764,
+      "word": "2岁幼童被父亲从楼上扔下致死",
+      "onboard_time": 1692192874,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1618968,
       "num": 1618968,
       "word": "在缅中企工作人员称不要妖魔化缅甸",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1542587,
-      "num": 456848,
+      "num": 525388,
       "word": "余生工作人员说杨紫是娱乐圈最nice艺人",
       "onboard_time": 1692188197,
       "rank": 16,
@@ -243,12 +251,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1154046,
+      "num": 1154046,
+      "word": "在鸭血上发现的红唇",
+      "onboard_time": 1692192874,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1141950,
       "num": 1141950,
       "word": "自己拍的照片被视觉中国告侵权",
       "onboard_time": 1692091840,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1116652,
+      "num": 1116652,
+      "word": "马伯骞心动的信号",
+      "onboard_time": 1692192158,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1061645,
@@ -273,6 +297,14 @@
       "onboard_time": 1692184656,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 969845,
+      "num": 969845,
+      "word": "赵露思blingbling的",
+      "onboard_time": 1692193417,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 958402,
@@ -395,6 +427,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 743663,
+      "num": 523279,
+      "word": "翻斗花园小美",
+      "onboard_time": 1692191494,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727165,
       "num": 727165,
       "word": "邓为商务价格比之前涨了快一半多",
@@ -515,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 612940,
+      "num": 416680,
+      "word": "为什么现在住酒店退房不查房了",
+      "onboard_time": 1692192997,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 612271,
       "num": 419731,
       "word": "张晚意穿这么多是不是有心事",
@@ -536,14 +584,6 @@
       "word": "王牌对王牌8即将开录",
       "onboard_time": 1692172720,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 588601,
-      "num": 588601,
-      "word": "马伯骞心动的信号",
-      "onboard_time": 1692192158,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -700,7 +740,7 @@
     },
     {
       "raw_hot": 528192,
-      "num": 314767,
+      "num": 407250,
       "word": "鞠婧祎挂脖吊带",
       "onboard_time": 1692191018,
       "rank": 25,
@@ -715,12 +755,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 526368,
+      "num": 526368,
+      "word": "你的微信和微博是俩人在运营吗",
+      "onboard_time": 1692193901,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 523282,
       "num": 207598,
       "word": "谁来救救闫妮",
       "onboard_time": 1692178118,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 522948,
+      "num": 522948,
+      "word": "邓为涂山璟穿越了",
+      "onboard_time": 1692191857,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 519590,
+      "num": 454713,
+      "word": "檀健次别唱了我自己哭",
+      "onboard_time": 1692193179,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 518448,
@@ -768,14 +832,6 @@
       "word": "吴施乐莲花楼全剧一共笑了三次",
       "onboard_time": 1692154774,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 492279,
-      "num": 315823,
-      "word": "邓为涂山璟穿越了",
-      "onboard_time": 1692191857,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -843,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459688,
+      "num": 459688,
+      "word": "朋友圈快乐的内容消失了",
+      "onboard_time": 1692194081,
+      "rank": 17,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 457182,
       "num": 457182,
       "word": "运动1小时1周1个月会发生的变化",
@@ -889,6 +953,14 @@
       "onboard_time": 1692150694,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 440420,
+      "num": 410197,
+      "word": "印度女孩约会彻夜未归遭父亲捅杀拖尸游街",
+      "onboard_time": 1692193538,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429417,
@@ -953,6 +1025,14 @@
       "onboard_time": 1692143611,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418473,
+      "num": 418473,
+      "word": "封神第一部实时票房破21亿",
+      "onboard_time": 1692193838,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 416608,
@@ -1051,6 +1131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 384377,
+      "num": 384377,
+      "word": "阿程哥",
+      "onboard_time": 1692193597,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 383606,
       "num": 383606,
       "word": "胡歌黄磊不虚此行对手戏",
@@ -1067,12 +1155,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 382812,
+      "num": 382812,
+      "word": "成毅邓为檀健次剧集吸粉榜TOP3",
+      "onboard_time": 1692194383,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 381502,
       "num": 313139,
       "word": "男子举报48岁班主任勾引28岁妻子",
       "onboard_time": 1692172235,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 380586,
+      "num": 380586,
+      "word": "涂山璟抱小夭像抱到了全世界",
+      "onboard_time": 1692194500,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 379656,
@@ -1139,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357304,
+      "num": 357304,
+      "word": "涂山璟奶奶的药给相柳喝吧",
+      "onboard_time": 1692194681,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354131,
       "num": 354131,
       "word": "李斯丹妮多久穿裙子",
@@ -1169,14 +1281,6 @@
       "onboard_time": 1692179978,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 348105,
-      "num": 315607,
-      "word": "翻斗花园小美",
-      "onboard_time": 1692191494,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346102,
@@ -1217,6 +1321,14 @@
       "onboard_time": 1692155794,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 335032,
+      "num": 280757,
+      "word": "有没有可能白鹿就是在拍戏",
+      "onboard_time": 1692194500,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 326673,
@@ -1435,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293817,
+      "num": 526056,
+      "word": "涉诈嫌犯看孤注一掷被抓",
+      "onboard_time": 1692188135,
+      "rank": 37,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 291983,
       "num": 291983,
       "word": "张艺兴工作室换头像",
@@ -1465,6 +1585,14 @@
       "onboard_time": 1692169240,
       "rank": 33,
       "category": "影视,情感"
+    },
+    {
+      "raw_hot": 286657,
+      "num": 232925,
+      "word": "封神海报 自来水的亿把火",
+      "onboard_time": 1692195041,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 285369,
@@ -1523,14 +1651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275715,
-      "num": 275715,
-      "word": "涉诈嫌犯看孤注一掷被抓",
-      "onboard_time": 1692188135,
-      "rank": 37,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 275398,
       "num": 275398,
       "word": "女子被拐42年回家母亲已遗憾离世",
@@ -1560,6 +1680,14 @@
       "word": "单亲妈妈卖房给儿子买婚房被拉黑",
       "onboard_time": 1692103962,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271423,
+      "num": 271423,
+      "word": "村会计骗村民身份证开卡给同学刷流水",
+      "onboard_time": 1692191795,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1633,6 +1761,14 @@
       "onboard_time": 1692169000,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259284,
+      "num": 194285,
+      "word": "檀健次相柳三个头互相拍的",
+      "onboard_time": 1692192818,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 259239,
@@ -1745,6 +1881,14 @@
       "onboard_time": 1692148419,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235421,
+      "num": 235421,
+      "word": "整治MOBA游戏乱象",
+      "onboard_time": 1692192278,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 235276,
@@ -1907,6 +2051,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 211924,
+      "num": 189995,
+      "word": "莲花楼不说再见",
+      "onboard_time": 1692195100,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211326,
       "num": 211326,
       "word": "涂山璟深情告白小夭",
@@ -2043,14 +2195,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 202295,
-      "num": 202295,
-      "word": "整治MOBA游戏乱象",
-      "onboard_time": 1692192278,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 200766,
       "num": 206964,
       "word": "王弘毅说邓为最不卷",
@@ -2131,14 +2275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195892,
-      "num": 195892,
-      "word": "村会计骗村民身份证开卡给同学刷流水",
-      "onboard_time": 1692191795,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194590,
       "num": 196369,
       "word": "邓紫棋剪新刘海",
@@ -2153,14 +2289,6 @@
       "onboard_time": 1692184957,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194285,
-      "num": 194285,
-      "word": "檀健次相柳三个头互相拍的",
-      "onboard_time": 1692192818,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 193795,
@@ -2217,6 +2345,14 @@
       "onboard_time": 1692173919,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191645,
+      "num": 191645,
+      "word": "一瞬间仿佛误入了油画里",
+      "onboard_time": 1692195160,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 191585,
@@ -2451,6 +2587,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 155447,
+      "num": 168188,
+      "word": "地铁口的翻译家先生",
+      "onboard_time": 1692194921,
+      "rank": 48,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 154699,
       "num": 154699,
       "word": "孤注一掷",
@@ -2465,6 +2609,14 @@
       "onboard_time": 1692185856,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151154,
+      "num": 167163,
+      "word": "拔了全口牙齿是什么体验",
+      "onboard_time": 1692195222,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 150853,
@@ -2819,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34722,
+      "num": 523472,
+      "word": "交警买空醉驾瓜农的一车西瓜",
+      "onboard_time": 1692194441,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33852,
       "num": 37506,
       "word": "终于知道怎么挑新鲜蔬菜了",
@@ -2847,6 +3007,14 @@
       "num": 1780946,
       "word": "绿色出游守护祖国大好河山",
       "onboard_time": 1692101804,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14677,
+      "num": 1056044,
+      "word": "初秋的乡间田野生机勃勃",
+      "onboard_time": 1692194800,
       "rank": 2,
       "category": "社会新闻"
     },
