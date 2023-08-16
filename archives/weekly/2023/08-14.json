@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692213182896,
+  "endTime": 1692214415044,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -8555,6 +8555,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 60919,
+      "num": 60919,
+      "word": "IU毛线帽齐刘海",
+      "onboard_time": 1692211035,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 60087,
       "num": 60087,
       "word": "李龙馥solo舞台",
@@ -8603,14 +8611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52476,
-      "num": 52476,
-      "word": "IU毛线帽齐刘海",
-      "onboard_time": 1692211035,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 51453,
       "num": 51453,
       "word": "黄子韬好黏马伯骞",
@@ -8625,6 +8625,14 @@
       "onboard_time": 1692034819,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 50198,
+      "num": 50198,
+      "word": "Doinb周淑怡直播",
+      "onboard_time": 1692211516,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 47348,
@@ -8643,20 +8651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46415,
+      "num": 46415,
+      "word": "警方回应2岁幼童被父亲扔下楼致死",
+      "onboard_time": 1692212536,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46257,
       "num": 43694,
       "word": "自从提了离职整个人开始放飞自我",
       "onboard_time": 1692210737,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 43724,
-      "num": 43724,
-      "word": "Doinb周淑怡直播",
-      "onboard_time": 1692211516,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 39783,
@@ -8681,6 +8689,14 @@
       "onboard_time": 1692102766,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35037,
+      "num": 43638,
+      "word": "get不到小夭射箭的人有难了",
+      "onboard_time": 1692212237,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 34587,
@@ -8723,14 +8739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31735,
-      "num": 43638,
-      "word": "get不到小夭射箭的人有难了",
-      "onboard_time": 1692212237,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 31314,
       "num": 549589,
       "word": "三代治沙人用百年时间把沙海变绿洲",
@@ -8744,14 +8752,6 @@
       "word": "男子跌进急流中3名城管合力施救",
       "onboard_time": 1692075641,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28338,
-      "num": 43600,
-      "word": "警方回应2岁幼童被父亲扔下楼致死",
-      "onboard_time": 1692212536,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -8801,6 +8801,14 @@
       "onboard_time": 1692101804,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21552,
+      "num": 34123,
+      "word": "于文文时光音乐会",
+      "onboard_time": 1692211696,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 21275,
