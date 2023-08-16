@@ -1,0 +1,410 @@
+{
+  "runTime": 1692149303611,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2537309,
+        "num": 2537309,
+        "word": "海底捞可以洗头发了",
+        "onboard_time": 1692146855,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1618968,
+        "num": 1618968,
+        "word": "在缅中企工作人员称不要妖魔化缅甸",
+        "onboard_time": 1692147156,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19970,
+        "num": 1094406,
+        "word": "绿色出游守护祖国大好河山",
+        "onboard_time": 1692101804,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829242,
+        "num": 829242,
+        "word": "哈登震惊于中国卖货速度",
+        "onboard_time": 1692133633,
+        "rank": 3,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 751740,
+        "num": 751740,
+        "word": "女子称带3娃买4张票登机被拒",
+        "onboard_time": 1692125536,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597558,
+        "num": 597558,
+        "word": "相柳躲过小夭的吻",
+        "onboard_time": 1692143068,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523996,
+        "num": 523996,
+        "word": "志愿军一口气官宣了59个演员",
+        "onboard_time": 1692144873,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497661,
+        "num": 497661,
+        "word": "民工在偶像王一博面前跳舞",
+        "onboard_time": 1692145173,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 486850,
+        "num": 486850,
+        "word": "自己拍的照片被视觉中国告侵权",
+        "onboard_time": 1692091840,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442849,
+        "num": 442849,
+        "word": "他的名字曾经绝密28年",
+        "onboard_time": 1692145534,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885609,
+        "num": 431813,
+        "word": "印度不再从中国进口手机",
+        "onboard_time": 1692148056,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 776970,
+        "num": 431739,
+        "word": "缅甸失联20岁男生已找到父亲发声",
+        "onboard_time": 1692148116,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732691,
+        "num": 430842,
+        "word": "丰隆房子塌了",
+        "onboard_time": 1692147455,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420260,
+        "num": 420260,
+        "word": "tangoz曾说男生应挺身而出挡在女生前面",
+        "onboard_time": 1692143611,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202720,
+        "num": 397118,
+        "word": "纪念于敏",
+        "onboard_time": 1692148419,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604499,
+        "num": 396727,
+        "word": "去面试连对方的问题都听不太懂了",
+        "onboard_time": 1692146436,
+        "rank": 15,
+        "category": "科技,社会议题"
+      },
+      {
+        "raw_hot": 379656,
+        "num": 379656,
+        "word": "王倦你没有心",
+        "onboard_time": 1692147820,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353508,
+        "num": 353508,
+        "word": "北京为何成了茶饮荒漠",
+        "onboard_time": 1692138018,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317854,
+        "num": 317854,
+        "word": "怕孩子长大压力大父亲掐死双胞胎儿子",
+        "onboard_time": 1692105584,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306687,
+        "num": 306687,
+        "word": "内马尔加盟利雅得新月",
+        "onboard_time": 1692143852,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1833826,
+        "num": 306635,
+        "word": "陈思诚现身佟丽娅新片首映礼",
+        "onboard_time": 1692143251,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484885,
+        "num": 306073,
+        "word": "吸肚子和收核心的区别",
+        "onboard_time": 1692143973,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460180,
+        "num": 305265,
+        "word": "为什么指甲上的月牙会这么大",
+        "onboard_time": 1692146917,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 375981,
+        "num": 304863,
+        "word": "戴耳机别超过一小时",
+        "onboard_time": 1692146917,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318961,
+        "num": 304214,
+        "word": "保姆9个月偷走雇主163瓶茅台",
+        "onboard_time": 1692140481,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303984,
+        "num": 303984,
+        "word": "李承铉张智霖在哪一定都要见",
+        "onboard_time": 1692149018,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298766,
+        "num": 298766,
+        "word": "孤注一掷破20亿主创集体整活",
+        "onboard_time": 1692146795,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271342,
+        "num": 271342,
+        "word": "心动6女六撞脸宋妍霏",
+        "onboard_time": 1692143792,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259226,
+        "num": 259226,
+        "word": "陈思诚看佟丽娅新片哭了",
+        "onboard_time": 1692144273,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254211,
+        "num": 254211,
+        "word": "梅西连续6场破门",
+        "onboard_time": 1692142888,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239624,
+        "num": 239624,
+        "word": "央视曾评视觉中国把法务做成销售",
+        "onboard_time": 1692123918,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232980,
+        "num": 232980,
+        "word": "母亲获1次救命血儿子用340次回报",
+        "onboard_time": 1692148535,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226704,
+        "num": 226704,
+        "word": "果然外甥像舅舅",
+        "onboard_time": 1692143251,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219706,
+        "num": 219706,
+        "word": "为什么理发店门口要放三色灯",
+        "onboard_time": 1692142528,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217741,
+        "num": 217741,
+        "word": "驼背终于有救了",
+        "onboard_time": 1692112777,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217427,
+        "num": 217427,
+        "word": "补血对于女性来说都是必要的",
+        "onboard_time": 1692129195,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211364,
+        "num": 211364,
+        "word": "蒲熠星 祝各位此行无憾",
+        "onboard_time": 1692101621,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198881,
+        "num": 198881,
+        "word": "什么时候看到成毅玩游戏能不笑",
+        "onboard_time": 1692148595,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193795,
+        "num": 193795,
+        "word": "时代少年团去录歌了",
+        "onboard_time": 1692148656,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193178,
+        "num": 193178,
+        "word": "于适龙吸水",
+        "onboard_time": 1692108821,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182975,
+        "num": 182975,
+        "word": "人不像周迅但精神状态像",
+        "onboard_time": 1692106006,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180124,
+        "num": 180124,
+        "word": "马立奥告别爸爸当家2",
+        "onboard_time": 1692108341,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170929,
+        "num": 170929,
+        "word": "张艺兴版恐龙扛狼",
+        "onboard_time": 1692144512,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169447,
+        "num": 169447,
+        "word": "杭州人花1元钱就能打辆公交车接驳地铁",
+        "onboard_time": 1692145058,
+        "rank": 43,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 159238,
+        "num": 159238,
+        "word": "韩剧国民死刑投票",
+        "onboard_time": 1692113916,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152815,
+        "num": 152815,
+        "word": "单亲妈妈卖房给儿子买婚房被拉黑",
+        "onboard_time": 1692103962,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152068,
+        "num": 152068,
+        "word": "问长相思我花钱花在哪",
+        "onboard_time": 1692135016,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150212,
+        "num": 150212,
+        "word": "江苏警方通报女子被分尸",
+        "onboard_time": 1692099097,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149413,
+        "num": 149413,
+        "word": "视觉中国",
+        "onboard_time": 1692144215,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140990,
+        "num": 140990,
+        "word": "白敬亭向东北灾区捐赠物资",
+        "onboard_time": 1692140782,
+        "rank": 49,
+        "category": "艺人,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#用色卡打开美丽中国#"
+    }
+  }
+}
