@@ -1,6 +1,6 @@
 {
   "startTime": 1692116466090,
-  "endTime": 1692155824515,
+  "endTime": 1692156844305,
   "band_list": [
     {
       "raw_hot": 2827548,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2208790,
-      "num": 335591,
+      "num": 364149,
       "word": "陈思诚现身佟丽娅新片首映礼",
       "onboard_time": 1692143251,
       "rank": 20,
@@ -57,6 +57,14 @@
       "onboard_time": 1692147156,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1256463,
+      "num": 1256463,
+      "word": "央视曾称视觉中国为知识产权市场的毒瘤",
+      "onboard_time": 1692154475,
+      "rank": 12,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 1221978,
@@ -91,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 958402,
+      "num": 958402,
+      "word": "汪苏泷说抢不到票这事怪我",
+      "onboard_time": 1692153513,
+      "rank": 2,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 946244,
       "num": 946244,
       "word": "女子称带3娃买4张票登机被拒",
       "onboard_time": 1692125536,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 891925,
-      "num": 430578,
-      "word": "央视曾称视觉中国为知识产权市场的毒瘤",
-      "onboard_time": 1692154475,
-      "rank": 12,
-      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 869020,
@@ -123,12 +131,28 @@
       "category": "科技,社会议题"
     },
     {
+      "raw_hot": 841191,
+      "num": 841191,
+      "word": "于适有商务了",
+      "onboard_time": 1692156218,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 839144,
       "num": 839144,
       "word": "中国损失印度1.8亿支进口手机订单",
       "onboard_time": 1692150933,
       "rank": 34,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 816330,
+      "num": 588115,
+      "word": "陈建州称要通过法律捍卫自身清白",
+      "onboard_time": 1692155794,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 788132,
@@ -139,14 +163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 767998,
-      "num": 767998,
-      "word": "汪苏泷说抢不到票这事怪我",
-      "onboard_time": 1692153513,
-      "rank": 2,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 684868,
       "num": 684868,
       "word": "90后姑娘摆摊卖热卤一晚最多卖5000元",
@@ -155,20 +171,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682958,
+      "num": 682958,
+      "word": "封神",
+      "onboard_time": 1692153875,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 678096,
       "num": 539154,
       "word": "李承铉张智霖在哪一定都要见",
       "onboard_time": 1692149018,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 664609,
-      "num": 664609,
-      "word": "封神",
-      "onboard_time": 1692153875,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 653439,
@@ -185,6 +201,14 @@
       "onboard_time": 1692143068,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 616094,
+      "num": 514922,
+      "word": "视觉中国市值蒸发超3亿",
+      "onboard_time": 1692155496,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 584758,
@@ -281,6 +305,14 @@
       "onboard_time": 1692153095,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 503474,
+      "num": 503474,
+      "word": "吴施乐莲花楼全剧一共笑了三次",
+      "onboard_time": 1692154774,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 488438,
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 401871,
-      "num": 440862,
+      "num": 530268,
       "word": "摄影师要求视觉中国停止侵权",
       "onboard_time": 1692152375,
       "rank": 48,
@@ -401,6 +433,14 @@
       "onboard_time": 1692147820,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359176,
+      "num": 566498,
+      "word": "小象玩水鼻子快要甩掉了",
+      "onboard_time": 1692153995,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351854,
@@ -419,6 +459,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 343947,
+      "num": 343947,
+      "word": "茶百道 饿了么",
+      "onboard_time": 1692156394,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 343773,
       "num": 343773,
       "word": "女子戴玉镯10年关节变形成手铐",
@@ -427,20 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343513,
-      "num": 424865,
-      "word": "小象玩水鼻子快要甩掉了",
-      "onboard_time": 1692153995,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 339973,
+      "num": 339973,
+      "word": "森林进化论曲靖",
+      "onboard_time": 1692152614,
+      "rank": 29,
+      "category": "综艺"
     },
     {
-      "raw_hot": 339217,
-      "num": 339217,
-      "word": "吴施乐莲花楼全剧一共笑了三次",
-      "onboard_time": 1692154774,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 337906,
+      "num": 337906,
+      "word": "好听",
+      "onboard_time": 1692155794,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 326105,
@@ -489,14 +537,6 @@
       "onboard_time": 1692113916,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309696,
-      "num": 309696,
-      "word": "森林进化论曲靖",
-      "onboard_time": 1692152614,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 298567,
@@ -603,6 +643,14 @@
       "category": "其它,情感"
     },
     {
+      "raw_hot": 259234,
+      "num": 259234,
+      "word": "王者七夕松鹤新皮肤",
+      "onboard_time": 1692155913,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249557,
       "num": 249557,
       "word": "柳岩瘦下来的状态",
@@ -617,6 +665,14 @@
       "onboard_time": 1692088965,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246152,
+      "num": 246152,
+      "word": "原神电话",
+      "onboard_time": 1692155553,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 246130,
@@ -649,14 +705,6 @@
       "onboard_time": 1692152674,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225099,
-      "num": 225099,
-      "word": "原神电话",
-      "onboard_time": 1692155553,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 218411,
@@ -713,14 +761,6 @@
       "onboard_time": 1692153037,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207763,
-      "num": 207763,
-      "word": "视觉中国市值蒸发超3亿",
-      "onboard_time": 1692155496,
-      "rank": 31,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 206243,
@@ -819,14 +859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187659,
-      "num": 187659,
-      "word": "好听",
-      "onboard_time": 1692155794,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 186528,
       "num": 186528,
       "word": "视觉中国创始人称是误会",
@@ -835,20 +867,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 186527,
+      "num": 187636,
+      "word": "视觉中国",
+      "onboard_time": 1692144215,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179590,
       "num": 179590,
       "word": "深圳人的至暗时刻",
       "onboard_time": 1692149976,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169937,
-      "num": 187636,
-      "word": "视觉中国",
-      "onboard_time": 1692144215,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168715,
@@ -891,14 +923,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 155049,
-      "num": 187618,
-      "word": "陈建州称要通过法律捍卫自身清白",
-      "onboard_time": 1692155794,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154699,
       "num": 154699,
       "word": "孤注一掷",
@@ -939,6 +963,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 142258,
+      "num": 188095,
+      "word": "敦煌飞天式轮滑太仙了",
+      "onboard_time": 1692154414,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 141746,
       "num": 141746,
       "word": "爱乐之都 猎罪图鉴售后",
@@ -963,12 +995,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135902,
-      "num": 188095,
-      "word": "敦煌飞天式轮滑太仙了",
-      "onboard_time": 1692154414,
-      "rank": 39,
-      "category": "旅游,社会新闻"
+      "raw_hot": 140157,
+      "num": 316770,
+      "word": "更适合中国宝宝的避暑纬度",
+      "onboard_time": 1692155975,
+      "rank": 27,
+      "category": "旅游"
     },
     {
       "raw_hot": 126045,
@@ -993,6 +1025,14 @@
       "onboard_time": 1692108401,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118628,
+      "num": 1046551,
+      "word": "亚运会游泳跳水田径门票今起实时销售",
+      "onboard_time": 1692155435,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 112079,
@@ -1083,6 +1123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 63456,
+      "num": 549985,
+      "word": "原神微博表情",
+      "onboard_time": 1692153095,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56579,
       "num": 79590,
       "word": "陈嘉桦时光音乐会",
@@ -1097,22 +1145,6 @@
       "onboard_time": 1692120202,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 49661,
-      "num": 209899,
-      "word": "亚运会游泳跳水田径门票今起实时销售",
-      "onboard_time": 1692155435,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 47314,
-      "num": 437904,
-      "word": "原神微博表情",
-      "onboard_time": 1692153095,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 33852,
