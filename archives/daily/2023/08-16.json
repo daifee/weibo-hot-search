@@ -1,6 +1,6 @@
 {
   "startTime": 1692116466090,
-  "endTime": 1692151234980,
+  "endTime": 1692152442264,
   "band_list": [
     {
       "raw_hot": 2827548,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2475436,
+      "num": 2475436,
+      "word": "印度不再从中国进口手机",
+      "onboard_time": 1692148056,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2208790,
       "num": 306635,
       "word": "陈思诚现身佟丽娅新片首映礼",
       "onboard_time": 1692143251,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2037571,
-      "num": 2037571,
-      "word": "印度不再从中国进口手机",
-      "onboard_time": 1692148056,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 1895845,
@@ -99,6 +99,14 @@
       "category": "科技,社会议题"
     },
     {
+      "raw_hot": 839144,
+      "num": 839144,
+      "word": "中国损失印度1.8亿支进口手机订单",
+      "onboard_time": 1692150933,
+      "rank": 34,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 788132,
       "num": 788132,
       "word": "丰隆房子塌了",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 678096,
-      "num": 431212,
+      "num": 539154,
       "word": "李承铉张智霖在哪一定都要见",
       "onboard_time": 1692149018,
       "rank": 25,
@@ -137,6 +145,14 @@
       "onboard_time": 1692143068,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 611871,
+      "num": 611871,
+      "word": "中国国家天文吐槽视觉中国",
+      "onboard_time": 1692150814,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 584758,
@@ -187,7 +203,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 540231,
+      "raw_hot": 544446,
       "num": 305265,
       "word": "为什么指甲上的月牙会这么大",
       "onboard_time": 1692146917,
@@ -217,6 +233,14 @@
       "onboard_time": 1692146917,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 488438,
+      "num": 488438,
+      "word": "王宽再也不能行礼了",
+      "onboard_time": 1692150337,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 485770,
@@ -411,12 +435,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 283152,
-      "num": 283152,
-      "word": "王宽再也不能行礼了",
-      "onboard_time": 1692150337,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 285008,
+      "num": 285008,
+      "word": "现在距离2028年比2018年还近",
+      "onboard_time": 1692150694,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 281765,
@@ -500,10 +524,34 @@
     },
     {
       "raw_hot": 237880,
-      "num": 397118,
+      "num": 424039,
       "word": "纪念于敏",
       "onboard_time": 1692148419,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225870,
+      "num": 225870,
+      "word": "夫胜宽 克拉们过得好吗",
+      "onboard_time": 1692152017,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224281,
+      "num": 224281,
+      "word": "铁头",
+      "onboard_time": 1692152017,
+      "rank": 29,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 218411,
+      "num": 218411,
+      "word": "好心人排队支持推拿养唐氏女的父亲",
+      "onboard_time": 1692151170,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -539,14 +587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213058,
-      "num": 201709,
-      "word": "现在距离2028年比2018年还近",
-      "onboard_time": 1692150694,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211326,
       "num": 211326,
       "word": "涂山璟深情告白小夭",
@@ -561,14 +601,6 @@
       "onboard_time": 1692145058,
       "rank": 36,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 204737,
-      "num": 204737,
-      "word": "中国国家天文吐槽视觉中国",
-      "onboard_time": 1692150814,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202971,
@@ -633,14 +665,6 @@
       "onboard_time": 1692104681,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187248,
-      "num": 187248,
-      "word": "中国损失印度1.8亿支进口手机订单",
-      "onboard_time": 1692150933,
-      "rank": 34,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 186528,
@@ -763,10 +787,10 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137000,
-      "num": 137000,
-      "word": "好心人排队支持推拿养唐氏女的父亲",
-      "onboard_time": 1692151170,
+      "raw_hot": 128067,
+      "num": 128067,
+      "word": "摄影师要求视觉中国停止侵权",
+      "onboard_time": 1692152375,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -924,7 +948,7 @@
     },
     {
       "raw_hot": 21746,
-      "num": 1439259,
+      "num": 1780946,
       "word": "绿色出游守护祖国大好河山",
       "onboard_time": 1692101804,
       "rank": 2,
