@@ -1,0 +1,410 @@
+{
+  "runTime": 1692282836238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1249221,
+        "num": 1249221,
+        "word": "女子凌晨被短信告知航班提前3.5小时起飞",
+        "onboard_time": 1692272376,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1095634,
+        "num": 1095634,
+        "word": "古天乐新片骂了33秒脏话",
+        "onboard_time": 1692281688,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9531,
+        "num": 804337,
+        "word": "这些灾后恢复的画面辛苦又感动",
+        "onboard_time": 1692246400,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652072,
+        "num": 652072,
+        "word": "火树直播",
+        "onboard_time": 1692277361,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601352,
+        "num": 601352,
+        "word": "电影志愿军致歉声明",
+        "onboard_time": 1692281388,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547884,
+        "num": 547884,
+        "word": "海底捞在家有儿女里出现也不奇怪",
+        "onboard_time": 1692273459,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 474357,
+        "num": 474357,
+        "word": "教育机构要求老师穿长裤的原因",
+        "onboard_time": 1692269920,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 449491,
+        "num": 449491,
+        "word": "火老师体面人",
+        "onboard_time": 1692279467,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437482,
+        "num": 437482,
+        "word": "被裤腰带勒出了荨麻疹",
+        "onboard_time": 1692279289,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259769,
+        "num": 434690,
+        "word": "男孩ATM机上捡现金反复向监控示意",
+        "onboard_time": 1692277960,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10137270,
+        "num": 430975,
+        "word": "李玟生前控诉中国好声音录音曝光",
+        "onboard_time": 1692278623,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907448,
+        "num": 427914,
+        "word": "中科院博士被骗至缅甸一年",
+        "onboard_time": 1692266320,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6079159,
+        "num": 422804,
+        "word": "李玟",
+        "onboard_time": 1692276880,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804270,
+        "num": 421530,
+        "word": "终于知道为什么医院的空调打那么低了",
+        "onboard_time": 1692280788,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55583,
+        "num": 418802,
+        "word": "男子骑电瓶车未戴头盔交警抱音响提醒",
+        "onboard_time": 1692280906,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632730,
+        "num": 413140,
+        "word": "于适给黄旭熙拍照旧图",
+        "onboard_time": 1692280728,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 542179,
+        "num": 410489,
+        "word": "今年看过最疯批的女人",
+        "onboard_time": 1692266140,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195208,
+        "num": 407737,
+        "word": "丫丫又圆润啦",
+        "onboard_time": 1692262841,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467349,
+        "num": 401619,
+        "word": "胡兵这身材不愧是首席超模",
+        "onboard_time": 1692279889,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400416,
+        "num": 400416,
+        "word": "初中设的自动回复忘记取消了",
+        "onboard_time": 1692276582,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 978177,
+        "num": 398968,
+        "word": "日本推出性同意APP",
+        "onboard_time": 1692275140,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896651,
+        "num": 397119,
+        "word": "马来西亚坠机已致10人死亡",
+        "onboard_time": 1692278501,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571334,
+        "num": 395938,
+        "word": "妈妈在欧洲患上了厕所焦虑症",
+        "onboard_time": 1692281388,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 466468,
+        "num": 394288,
+        "word": "少帮主",
+        "onboard_time": 1692281270,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393435,
+        "num": 393435,
+        "word": "张智霖你害怕吗",
+        "onboard_time": 1692282109,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329696,
+        "num": 329696,
+        "word": "SM新男团发型",
+        "onboard_time": 1692278806,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325190,
+        "num": 325190,
+        "word": "马伯骞回复赵露思芋泥香酥鸭管够",
+        "onboard_time": 1692268660,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321915,
+        "num": 321915,
+        "word": "和男朋友分手后平分手机",
+        "onboard_time": 1692274658,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320318,
+        "num": 320318,
+        "word": "考上研究生才敢说的大实话",
+        "onboard_time": 1692265299,
+        "rank": 28,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 302308,
+        "num": 302308,
+        "word": "刘宪华戴五条项链",
+        "onboard_time": 1692272739,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 286438,
+        "num": 286438,
+        "word": "广东人为什么喜欢用不锈钢",
+        "onboard_time": 1692281388,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286162,
+        "num": 286162,
+        "word": "当爸爸知道我涨工资后",
+        "onboard_time": 1692276160,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 280331,
+        "num": 280331,
+        "word": "应渊的老婆孩子全归相柳了",
+        "onboard_time": 1692269198,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265147,
+        "num": 265147,
+        "word": "七时吉祥停播一天",
+        "onboard_time": 1692275980,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252280,
+        "num": 252280,
+        "word": "相柳听到毛球叫邶的反应",
+        "onboard_time": 1692281928,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233500,
+        "num": 233500,
+        "word": "黄子弘凡粉色",
+        "onboard_time": 1692277842,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241527,
+        "num": 231523,
+        "word": "专家称咬人鱼类或从防鲨网破损处进入",
+        "onboard_time": 1692273039,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227761,
+        "num": 227761,
+        "word": "蔡依林穿了壮族服饰",
+        "onboard_time": 1692275980,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226845,
+        "num": 226845,
+        "word": "刘德华说刘嘉玲是梁朝伟i人",
+        "onboard_time": 1692271176,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219623,
+        "num": 219623,
+        "word": "猫德学院抓到狮子猫",
+        "onboard_time": 1692278681,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 217131,
+        "num": 217131,
+        "word": "爸爸在饭桌上跟亲戚说我不结婚",
+        "onboard_time": 1692274837,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207745,
+        "num": 207745,
+        "word": "榜一大姐直接上台打赏了",
+        "onboard_time": 1692282411,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207261,
+        "num": 207261,
+        "word": "张远披荆斩棘撞衫高贵妃和猪八戒",
+        "onboard_time": 1692282411,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200715,
+        "num": 207258,
+        "word": "2023暑期档票房中国影史同期第一名",
+        "onboard_time": 1692282229,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200339,
+        "num": 207240,
+        "word": "AG",
+        "onboard_time": 1692277300,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198451,
+        "num": 207222,
+        "word": "吴磊抽烟镜头",
+        "onboard_time": 1692261224,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193335,
+        "num": 207207,
+        "word": "odi",
+        "onboard_time": 1692278986,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190900,
+        "num": 207198,
+        "word": "女子坐飞机看到蟑螂趴在窗外",
+        "onboard_time": 1692268360,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188356,
+        "num": 207188,
+        "word": "WBG首日积分第一",
+        "onboard_time": 1692282528,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136773,
+        "num": 207171,
+        "word": "LGD满编吃鸡",
+        "onboard_time": 1692281447,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#南海开渔千帆竞发大场面#"
+    }
+  }
+}
