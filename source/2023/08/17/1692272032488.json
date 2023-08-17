@@ -1,0 +1,410 @@
+{
+  "runTime": 1692272032488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1419057,
+        "num": 1419057,
+        "word": "考上研究生才敢说的大实话",
+        "onboard_time": 1692265299,
+        "rank": 0,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 582450,
+        "num": 1356808,
+        "word": "2元炒菜哥称给我千千万也不在乎",
+        "onboard_time": 1692267997,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18336,
+        "num": 1288572,
+        "word": "这些灾后恢复的画面辛苦又感动",
+        "onboard_time": 1692246400,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3014259,
+        "num": 1199559,
+        "word": "中科院博士被骗至缅甸一年",
+        "onboard_time": 1692266320,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391977,
+        "num": 1114531,
+        "word": "丫丫又圆润啦",
+        "onboard_time": 1692262841,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108292,
+        "num": 1108292,
+        "word": "马伯骞回复赵露思芋泥香酥鸭管够",
+        "onboard_time": 1692268660,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226142,
+        "num": 815693,
+        "word": "丫丫咬着竹子上爬架继续啃",
+        "onboard_time": 1692260441,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760987,
+        "num": 760987,
+        "word": "佛山疾控通报发现新冠新毒株",
+        "onboard_time": 1692268538,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646425,
+        "num": 646425,
+        "word": "应渊的老婆孩子全归相柳了",
+        "onboard_time": 1692269198,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474263,
+        "num": 474263,
+        "word": "盗墓笔记 过年啦",
+        "onboard_time": 1692269622,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1028263,
+        "num": 463905,
+        "word": "今年看过最疯批的女人",
+        "onboard_time": 1692266140,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821587,
+        "num": 454630,
+        "word": "洪知秀机场",
+        "onboard_time": 1692269622,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 689231,
+        "num": 439073,
+        "word": "教育机构要求老师穿长裤的原因",
+        "onboard_time": 1692269920,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 576757,
+        "num": 433525,
+        "word": "没人发现杨紫这么厉害吗",
+        "onboard_time": 1692266140,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479621,
+        "num": 419518,
+        "word": "暑期档第一爆的角色",
+        "onboard_time": 1692265599,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415208,
+        "num": 415208,
+        "word": "北海被咬伤者称曾踩到软软的东西",
+        "onboard_time": 1692261581,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392458,
+        "num": 392458,
+        "word": "刘德华说刘嘉玲是梁朝伟i人",
+        "onboard_time": 1692271176,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383797,
+        "num": 383797,
+        "word": "考编失败的警犬还包分配",
+        "onboard_time": 1692265841,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339278,
+        "num": 339278,
+        "word": "陈立农diss宝石老舅",
+        "onboard_time": 1692250777,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337803,
+        "num": 337803,
+        "word": "余承恩温柔拒绝张雪迎",
+        "onboard_time": 1692270639,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598486,
+        "num": 336999,
+        "word": "吴磊抽烟镜头",
+        "onboard_time": 1692261224,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417088,
+        "num": 336206,
+        "word": "范丞丞版孟宴臣",
+        "onboard_time": 1692269622,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343354,
+        "num": 333108,
+        "word": "医生叫我控糖 朋友给我切了一片西瓜",
+        "onboard_time": 1692258822,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328583,
+        "num": 328583,
+        "word": "披荆斩棘有自己的男版那英",
+        "onboard_time": 1692269319,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325382,
+        "num": 325382,
+        "word": "女子坐飞机看到蟑螂趴在窗外",
+        "onboard_time": 1692268360,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300158,
+        "num": 300158,
+        "word": "上海彩虹",
+        "onboard_time": 1692267697,
+        "rank": 25,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 289416,
+        "num": 289416,
+        "word": "48岁男教师搂抱28岁家长监控曝光",
+        "onboard_time": 1692255761,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278048,
+        "num": 278048,
+        "word": "陈哲远给马伯骞评论",
+        "onboard_time": 1692267879,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267300,
+        "num": 267300,
+        "word": "谢娜吴昕维嘉群名",
+        "onboard_time": 1692248500,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234628,
+        "num": 234628,
+        "word": "当年看的时候没觉得这么尴尬",
+        "onboard_time": 1692267997,
+        "rank": 29,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 237726,
+        "num": 234097,
+        "word": "一个镜头测你有没有赌性",
+        "onboard_time": 1692269259,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232932,
+        "num": 232932,
+        "word": "王者荣耀",
+        "onboard_time": 1692268478,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212859,
+        "num": 212859,
+        "word": "负面情绪带来的阵痛只有90秒",
+        "onboard_time": 1692266917,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208139,
+        "num": 208139,
+        "word": "徐明浩的下颚线比我人生规划都清晰",
+        "onboard_time": 1692271900,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207384,
+        "num": 207384,
+        "word": "养老院回应男性护工长期猥亵90多岁老人",
+        "onboard_time": 1692265299,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198081,
+        "num": 207383,
+        "word": "00后都在考工程师",
+        "onboard_time": 1692271719,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195554,
+        "num": 207362,
+        "word": "中科院博士被骗至缅甸女友发声",
+        "onboard_time": 1692267818,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192065,
+        "num": 207357,
+        "word": "宋茜ELLE封面珠宝价格",
+        "onboard_time": 1692271058,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187897,
+        "num": 207335,
+        "word": "怎么记日语星期顺序",
+        "onboard_time": 1692271778,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186999,
+        "num": 207325,
+        "word": "TangoZ商标被驳回",
+        "onboard_time": 1692270341,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166522,
+        "num": 207319,
+        "word": "徐良初舞台 坏女孩",
+        "onboard_time": 1692259602,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164714,
+        "num": 207311,
+        "word": "七时吉祥道具工作人员道歉",
+        "onboard_time": 1692260563,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163093,
+        "num": 207299,
+        "word": "赵露思港风短发",
+        "onboard_time": 1692249815,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158985,
+        "num": 207277,
+        "word": "男子骚扰前任119和110都上门了",
+        "onboard_time": 1692264522,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158113,
+        "num": 207271,
+        "word": "芒果毛巾卷",
+        "onboard_time": 1692270700,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154919,
+        "num": 207256,
+        "word": "TangoZ再发文回应",
+        "onboard_time": 1692240698,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154348,
+        "num": 207246,
+        "word": "曝七时吉祥抄袭秦时明月",
+        "onboard_time": 1692252634,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151002,
+        "num": 207235,
+        "word": "17岁女孩为攒学费每天搬砖近10小时",
+        "onboard_time": 1692267456,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 142004,
+        "num": 207216,
+        "word": "崔胜澈暂停活动",
+        "onboard_time": 1692257263,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105765,
+        "num": 207209,
+        "word": "逆水寒",
+        "onboard_time": 1692266320,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#从生物多样性中感受自然之美#"
+    }
+  }
+}

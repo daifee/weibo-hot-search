@@ -1,6 +1,6 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692270815215,
+  "endTime": 1692272032488,
   "band_list": [
     {
       "raw_hot": 3689279,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1028263,
+      "num": 517207,
+      "word": "今年看过最疯批的女人",
+      "onboard_time": 1692266140,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 977219,
       "num": 977219,
       "word": "你的微信和微博是俩人在运营吗",
@@ -257,14 +265,6 @@
       "onboard_time": 1692269622,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 895346,
-      "num": 517207,
-      "word": "今年看过最疯批的女人",
-      "onboard_time": 1692266140,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 884313,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760987,
+      "num": 760987,
+      "word": "佛山疾控通报发现新冠新毒株",
+      "onboard_time": 1692268538,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707435,
       "num": 2554645,
       "word": "2元炒菜哥称给我千千万也不在乎",
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 689231,
+      "num": 439073,
+      "word": "教育机构要求老师穿长裤的原因",
+      "onboard_time": 1692269920,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 681370,
       "num": 469496,
       "word": "伯远叫檀健次相柳老师",
@@ -435,20 +451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 655489,
-      "num": 655489,
-      "word": "佛山疾控通报发现新冠新毒株",
-      "onboard_time": 1692268538,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 646860,
       "num": 646860,
       "word": "鸡蛋一天最多让吃几个",
       "onboard_time": 1692254196,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646425,
+      "num": 646425,
+      "word": "应渊的老婆孩子全归相柳了",
+      "onboard_time": 1692269198,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 640757,
@@ -571,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523147,
-      "num": 523147,
-      "word": "应渊的老婆孩子全归相柳了",
-      "onboard_time": 1692269198,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 521767,
       "num": 521767,
       "word": "唐禹哲非过没丑过",
@@ -649,6 +657,14 @@
       "onboard_time": 1692265841,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 474263,
+      "num": 474263,
+      "word": "盗墓笔记 过年啦",
+      "onboard_time": 1692269622,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 468204,
@@ -787,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417088,
+      "num": 336206,
+      "word": "范丞丞版孟宴臣",
+      "onboard_time": 1692269622,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414276,
       "num": 414276,
       "word": "乔家的儿女全员录ID祝开播两周年",
@@ -851,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392458,
+      "num": 392458,
+      "word": "刘德华说刘嘉玲是梁朝伟i人",
+      "onboard_time": 1692271176,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391963,
       "num": 446539,
       "word": "警察叔叔我们捡到一个小妹妹",
@@ -865,14 +897,6 @@
       "onboard_time": 1692227001,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 386127,
-      "num": 386127,
-      "word": "盗墓笔记 过年啦",
-      "onboard_time": 1692269622,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 383935,
@@ -916,7 +940,7 @@
     },
     {
       "raw_hot": 369547,
-      "num": 300426,
+      "num": 325382,
       "word": "女子坐飞机看到蟑螂趴在窗外",
       "onboard_time": 1692268360,
       "rank": 32,
@@ -947,22 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359895,
-      "num": 299791,
-      "word": "范丞丞版孟宴臣",
-      "onboard_time": 1692269622,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 355861,
-      "num": 236063,
-      "word": "教育机构要求老师穿长裤的原因",
-      "onboard_time": 1692269920,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 355476,
       "num": 269635,
       "word": "披荆斩棘",
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 353730,
-      "num": 228171,
+      "num": 328583,
       "word": "披荆斩棘有自己的男版那英",
       "onboard_time": 1692269319,
       "rank": 31,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1692249637,
       "rank": 25,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 337803,
+      "num": 337803,
+      "word": "余承恩温柔拒绝张雪迎",
+      "onboard_time": 1692270639,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 336978,
@@ -1603,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208139,
+      "num": 208139,
+      "word": "徐明浩的下颚线比我人生规划都清晰",
+      "onboard_time": 1692271900,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206763,
       "num": 224438,
       "word": "我和云工作只差一个望远镜",
@@ -1731,6 +1755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198081,
+      "num": 207383,
+      "word": "00后都在考工程师",
+      "onboard_time": 1692271719,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 193217,
       "num": 193217,
       "word": "成毅 少抱怨多做事",
@@ -1745,6 +1777,14 @@
       "onboard_time": 1692244958,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192065,
+      "num": 207357,
+      "word": "宋茜ELLE封面珠宝价格",
+      "onboard_time": 1692271058,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191434,
@@ -1843,6 +1883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187897,
+      "num": 207335,
+      "word": "怎么记日语星期顺序",
+      "onboard_time": 1692271778,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187862,
       "num": 166597,
       "word": "杨幂上身身材",
@@ -1857,6 +1905,14 @@
       "onboard_time": 1692193838,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186999,
+      "num": 207325,
+      "word": "TangoZ商标被驳回",
+      "onboard_time": 1692270341,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 185983,
@@ -1883,14 +1939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 179798,
-      "num": 203196,
-      "word": "TangoZ商标被驳回",
-      "onboard_time": 1692270341,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179331,
       "num": 179331,
       "word": "疑被贩卖缅北女大学生发声",
@@ -1913,14 +1961,6 @@
       "onboard_time": 1692227065,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 178549,
-      "num": 203184,
-      "word": "余承恩温柔拒绝张雪迎",
-      "onboard_time": 1692270639,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 177508,
@@ -2017,6 +2057,14 @@
       "onboard_time": 1692268119,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 158113,
+      "num": 207271,
+      "word": "芒果毛巾卷",
+      "onboard_time": 1692270700,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 156314,
@@ -2169,14 +2217,6 @@
       "onboard_time": 1692204030,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 106960,
-      "num": 203116,
-      "word": "芒果毛巾卷",
-      "onboard_time": 1692270700,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 106930,
