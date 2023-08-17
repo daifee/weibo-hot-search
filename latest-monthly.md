@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/01 00:22:33 ~ 2023/08/17 23:16:31
+本榜单时间：2023/08/01 00:22:33 ~ 2023/08/17 23:33:55
 </p>
 </blockquote>
 <p>
@@ -99,6 +99,12 @@ TFBOYS快本的信（热度：13782438）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%A3%B0%E6%98%8E%23" target="weibo">
+中国好声音声明（热度：8307415）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E9%9C%87%E6%84%9F%23" target="weibo">
 天津震感（热度：6956736）
 </a>
@@ -107,12 +113,6 @@ TFBOYS快本的信（热度：13782438）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E8%88%92%E5%85%B03%E5%90%8D%E5%A4%B1%E8%81%94%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%A1%AE%E8%AE%A4%E7%89%BA%E7%89%B2%23" target="weibo">
 吉林舒兰3名失联公职人员确认牺牲（热度：6929384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%A3%B0%E6%98%8E%23" target="weibo">
-中国好声音声明（热度：6879880）
 </a>
 </li>
 
