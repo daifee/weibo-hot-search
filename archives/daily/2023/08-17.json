@@ -1,7 +1,15 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692276399579,
+  "endTime": 1692278320384,
   "band_list": [
+    {
+      "raw_hot": 6960182,
+      "num": 468384,
+      "word": "李玟",
+      "onboard_time": 1692276880,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3689279,
       "num": 3689279,
@@ -27,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2100158,
-      "num": 2100158,
+      "raw_hot": 2280406,
+      "num": 2280406,
       "word": "女子凌晨被短信告知航班提前3.5小时起飞",
       "onboard_time": 1692272376,
       "rank": 11,
@@ -129,6 +137,14 @@
       "onboard_time": 1692266140,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1497024,
+      "num": 780025,
+      "word": "日本推出性同意APP",
+      "onboard_time": 1692275140,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1447103,
@@ -235,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1036060,
-      "num": 780025,
-      "word": "日本推出性同意APP",
-      "onboard_time": 1692275140,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 977219,
       "num": 977219,
       "word": "你的微信和微博是俩人在运营吗",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 903472,
-      "num": 465308,
+      "num": 899073,
       "word": "海底捞在家有儿女里出现也不奇怪",
       "onboard_time": 1692273459,
       "rank": 12,
@@ -539,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 605463,
+      "num": 605463,
+      "word": "七时吉祥停播一天",
+      "onboard_time": 1692275980,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 604880,
       "num": 604880,
       "word": "心动6女二吃了男一给女一的早餐",
@@ -611,20 +627,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 544142,
+      "num": 367714,
+      "word": "和男朋友分手后平分手机",
+      "onboard_time": 1692274658,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 543433,
       "num": 543433,
       "word": "莲花楼第二季剧本有了",
       "onboard_time": 1692197501,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 537396,
-      "num": 297758,
-      "word": "和男朋友分手后平分手机",
-      "onboard_time": 1692274658,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 533573,
@@ -731,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 473135,
+      "num": 473135,
+      "word": "火树直播",
+      "onboard_time": 1692277361,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 468204,
       "num": 468204,
       "word": "内娱天选校园剧女主",
@@ -755,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458025,
+      "num": 446015,
+      "word": "专家称咬人鱼类或从防鲨网破损处进入",
+      "onboard_time": 1692273039,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453883,
       "num": 453883,
       "word": "教小孩最好的方法就是夫妻聊天",
@@ -771,20 +803,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 451734,
+      "num": 367638,
+      "word": "当爸爸知道我涨工资后",
+      "onboard_time": 1692276160,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 447662,
       "num": 303918,
       "word": "初乳是什么",
       "onboard_time": 1692237274,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 446015,
-      "num": 446015,
-      "word": "专家称咬人鱼类或从防鲨网破损处进入",
-      "onboard_time": 1692273039,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444521,
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 420740,
-      "num": 295572,
+      "num": 348330,
       "word": "内娱睫毛精",
       "onboard_time": 1692274777,
       "rank": 36,
@@ -905,6 +937,14 @@
       "onboard_time": 1692270639,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415361,
+      "num": 367220,
+      "word": "谈了个很居家的女朋友",
+      "onboard_time": 1692276880,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 414276,
@@ -961,6 +1001,14 @@
       "onboard_time": 1692256120,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 393832,
+      "num": 250918,
+      "word": "初中设的自动回复忘记取消了",
+      "onboard_time": 1692276582,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 392534,
@@ -1035,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367165,
+      "num": 367165,
+      "word": "蔡依林穿了壮族服饰",
+      "onboard_time": 1692275980,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 366949,
       "num": 272090,
       "word": "为什么去旅游的人越来越多了",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1692255278,
       "rank": 22,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 348591,
+      "num": 348591,
+      "word": "黄子弘凡粉色",
+      "onboard_time": 1692277842,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 346292,
@@ -1171,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325363,
+      "num": 325363,
+      "word": "爸爸在饭桌上跟亲戚说我不结婚",
+      "onboard_time": 1692274837,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323876,
       "num": 323876,
       "word": "郑嘉颖叫叶祖新十弟",
@@ -1203,28 +1275,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 313398,
-      "num": 237307,
-      "word": "七时吉祥停播一天",
-      "onboard_time": 1692275980,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 310538,
       "num": 310538,
       "word": "恒大地产收到证监会立案告知书",
       "onboard_time": 1692232959,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308348,
-      "num": 225721,
-      "word": "爸爸在饭桌上跟亲戚说我不结婚",
-      "onboard_time": 1692274837,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 307554,
@@ -1292,7 +1348,7 @@
     },
     {
       "raw_hot": 296361,
-      "num": 225255,
+      "num": 351739,
       "word": "滔搏 太久没进季后赛",
       "onboard_time": 1692274959,
       "rank": 39,
@@ -1443,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269252,
+      "num": 368190,
+      "word": "AG",
+      "onboard_time": 1692277300,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267453,
       "num": 267453,
       "word": "辅警夜跑救了个被裸聊诈骗的小伙",
@@ -1529,6 +1593,14 @@
       "onboard_time": 1692200198,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248521,
+      "num": 248521,
+      "word": "在职场千万要警惕讨好感",
+      "onboard_time": 1692273944,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 246918,
@@ -1683,20 +1755,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222009,
+      "num": 222009,
+      "word": "亚运会",
+      "onboard_time": 1692275378,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220750,
       "num": 220750,
       "word": "整容到失去神格",
       "onboard_time": 1692256843,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219854,
-      "num": 219854,
-      "word": "蔡依林穿了壮族服饰",
-      "onboard_time": 1692275980,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 218980,
@@ -1747,20 +1819,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214097,
-      "num": 214097,
-      "word": "在职场千万要警惕讨好感",
-      "onboard_time": 1692273944,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 213920,
       "num": 213920,
       "word": "小夭把鱼丹紫还给涂山璟",
       "onboard_time": 1692227065,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213511,
+      "num": 213511,
+      "word": "崔秀彬直播",
+      "onboard_time": 1692277420,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 212796,
@@ -1939,6 +2011,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 199203,
+      "num": 204896,
+      "word": "森林进化论复盘直播",
+      "onboard_time": 1692277121,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199001,
       "num": 199001,
       "word": "无期迷途瑟琳审查",
@@ -1955,12 +2035,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 195773,
-      "num": 214090,
-      "word": "亚运会",
-      "onboard_time": 1692275378,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 193877,
+      "num": 204854,
+      "word": "选大学宿舍进化到这种程度了吗",
+      "onboard_time": 1692276761,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 193217,
@@ -1985,14 +2065,6 @@
       "onboard_time": 1692273817,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192076,
-      "num": 214087,
-      "word": "当爸爸知道我涨工资后",
-      "onboard_time": 1692276160,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 192065,
@@ -2331,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146564,
+      "num": 368072,
+      "word": "男孩ATM机上捡现金反复向监控示意",
+      "onboard_time": 1692277960,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142619,
       "num": 203149,
       "word": "吵架了还得说话的情侣",
@@ -2593,6 +2673,14 @@
       "onboard_time": 1692255761,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39966,
+      "num": 381403,
+      "word": "汶川导游买礼物送救援军人女儿",
+      "onboard_time": 1692277238,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37624,
