@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692249319664,
+  "endTime": 1692250428583,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2745,6 +2745,14 @@
       "onboard_time": 1691378018,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1627944,
+      "num": 659179,
+      "word": "谢娜吴昕维嘉群名",
+      "onboard_time": 1692248500,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1624105,
@@ -7835,14 +7843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 882793,
-      "num": 659179,
-      "word": "谢娜吴昕维嘉群名",
-      "onboard_time": 1692248500,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 882048,
       "num": 882048,
       "word": "EDG向TheShy道歉",
@@ -7977,6 +7977,14 @@
       "onboard_time": 1691227958,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 872390,
+      "num": 486291,
+      "word": "超级小桀",
+      "onboard_time": 1692248141,
+      "rank": 17,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 871640,
@@ -11699,14 +11707,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 657128,
-      "num": 486291,
-      "word": "超级小桀",
-      "onboard_time": 1692248141,
-      "rank": 17,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 656372,
       "num": 656372,
       "word": "JackeyLove",
@@ -13723,6 +13723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581943,
+      "num": 447547,
+      "word": "12306回应母亲带病儿买三张票",
+      "onboard_time": 1692248740,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581912,
       "num": 581912,
       "word": "曾舜晞田曦薇田耕纪跳舞花絮",
@@ -14931,20 +14939,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 545511,
+      "num": 545511,
+      "word": "阿斯巴甜换名字了",
+      "onboard_time": 1692244778,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 545433,
       "num": 545433,
       "word": "内蒙古一货车冲进集市已致3死",
       "onboard_time": 1691400581,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545358,
-      "num": 545358,
-      "word": "阿斯巴甜换名字了",
-      "onboard_time": 1692244778,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 545329,
@@ -16209,6 +16217,14 @@
       "onboard_time": 1691144314,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 505782,
+      "num": 544498,
+      "word": "高启盛也去披荆斩棘了",
+      "onboard_time": 1692247362,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 505635,
@@ -18555,6 +18571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 446449,
+      "num": 446449,
+      "word": "赵露思港风短发",
+      "onboard_time": 1692249815,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 446394,
       "num": 360820,
       "word": "离职同事在电脑里留给我的暗示",
@@ -19833,14 +19857,6 @@
       "onboard_time": 1691407234,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 417402,
-      "num": 544498,
-      "word": "高启盛也去披荆斩棘了",
-      "onboard_time": 1692247362,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 417250,
@@ -23723,6 +23739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 341508,
+      "num": 341508,
+      "word": "曾舜晞长文告别莲花楼",
+      "onboard_time": 1692249637,
+      "rank": 25,
+      "category": "艺人,影视"
+    },
+    {
       "raw_hot": 341432,
       "num": 420254,
       "word": "新疆商户凌晨4点赶制2100份馕驰援涞水",
@@ -24379,6 +24403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328123,
+      "num": 328123,
+      "word": "林俊杰北京",
+      "onboard_time": 1692249937,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 327890,
       "num": 327890,
       "word": "世界名画之陈牧驰救猫",
@@ -24633,6 +24665,22 @@
       "onboard_time": 1690848397,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 323876,
+      "num": 323876,
+      "word": "郑嘉颖叫叶祖新十弟",
+      "onboard_time": 1692249162,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 323732,
+      "num": 341703,
+      "word": "调查显示我国终身单身人群极少",
+      "onboard_time": 1692249219,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323692,
@@ -26811,6 +26859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292967,
+      "num": 266024,
+      "word": "中国警方官方在线给成毅辟谣",
+      "onboard_time": 1692246581,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292918,
       "num": 287702,
       "word": "夭璟吻戏完整版",
@@ -27041,14 +27097,6 @@
       "onboard_time": 1690966234,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289784,
-      "num": 266024,
-      "word": "中国警方官方在线给成毅辟谣",
-      "onboard_time": 1692246581,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 289741,
@@ -29091,14 +29139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264174,
-      "num": 264174,
-      "word": "12306回应母亲带病儿买三张票",
-      "onboard_time": 1692248740,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263903,
       "num": 263903,
       "word": "电影热烈献给不被看到的我们",
@@ -29745,6 +29785,14 @@
       "onboard_time": 1690867657,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256859,
+      "num": 231640,
+      "word": "谢娜羽毛吊带裙",
+      "onboard_time": 1692248861,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 256818,
@@ -32019,14 +32067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228738,
-      "num": 215170,
-      "word": "谢娜羽毛吊带裙",
-      "onboard_time": 1692248861,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228561,
       "num": 228561,
       "word": "何泓姗董思成新剧预告亲了5次",
@@ -32057,6 +32097,14 @@
       "onboard_time": 1691889334,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228375,
+      "num": 204852,
+      "word": "王耀庆披荆斩棘都是霸总文学",
+      "onboard_time": 1692249997,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 228287,
@@ -33475,14 +33523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215143,
-      "num": 215143,
-      "word": "郑嘉颖叫叶祖新十弟",
-      "onboard_time": 1692249162,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215048,
       "num": 215048,
       "word": "李荣浩天津",
@@ -34353,6 +34393,14 @@
       "onboard_time": 1692192399,
       "rank": 37,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 207941,
+      "num": 207941,
+      "word": "超市招聘牛肉试吃员需一天吃10斤",
+      "onboard_time": 1692250416,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207869,
@@ -40107,6 +40155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148048,
+      "num": 880541,
+      "word": "3条高铁新线即将开通",
+      "onboard_time": 1692246762,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147949,
       "num": 168572,
       "word": "年轻的二次元",
@@ -40307,14 +40363,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 143061,
-      "num": 880541,
-      "word": "3条高铁新线即将开通",
-      "onboard_time": 1692246762,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142885,
       "num": 142885,
       "word": "五月天西安",
@@ -40393,14 +40441,6 @@
       "onboard_time": 1692203609,
       "rank": 28,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 141998,
-      "num": 198970,
-      "word": "调查显示我国终身单身人群极少",
-      "onboard_time": 1692249219,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141465,
@@ -43179,6 +43219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53826,
+      "num": 475233,
+      "word": "张含韵蘑菇摇摆舞",
+      "onboard_time": 1692247239,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53392,
       "num": 588329,
       "word": "重庆龙麻子奔赴涞水救灾",
@@ -43209,14 +43257,6 @@
       "onboard_time": 1691564432,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52798,
-      "num": 475233,
-      "word": "张含韵蘑菇摇摆舞",
-      "onboard_time": 1692247239,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 52088,
@@ -43473,6 +43513,14 @@
       "onboard_time": 1691434817,
       "rank": 40,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 37624,
+      "num": 506369,
+      "word": "民警火场内徒手抢出泄漏液化气罐",
+      "onboard_time": 1692248441,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36561,
@@ -43944,14 +43992,6 @@
       "word": "饿了么宣布为视障用户造节",
       "onboard_time": 1691404177,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15892,
-      "num": 506369,
-      "word": "民警火场内徒手抢出泄漏液化气罐",
-      "onboard_time": 1692248441,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
