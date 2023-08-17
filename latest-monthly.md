@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/01 00:22:33 ~ 2023/08/17 21:18:40
+本榜单时间：2023/08/01 00:22:33 ~ 2023/08/17 21:33:42
 </p>
 </blockquote>
 <p>
@@ -81,14 +81,20 @@ TFBOYS快本的信（热度：13782438）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%23" target="weibo">
+李玟（热度：8687096）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%98%AF%E8%93%9D%E7%BE%BD%E5%A7%90%E5%A7%90%23" target="weibo">
 主持人是蓝羽姐姐（热度：8489512）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%23" target="weibo">
-李玟（热度：6960182）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%8E%A7%E8%AF%89%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89%23" target="weibo">
+李玟生前控诉中国好声音录音曝光（热度：8044702）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Doinb 罗云熙（热度：890708）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E5%90%91TheShy%E9%81%93%E6%AD%89%23" target="weibo">
 EDG向TheShy道歉（热度：882048）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E7%83%A4%E4%B8%B2%E4%B8%80%E7%9C%8B%E5%B0%B1%E6%B2%A1%E5%B0%91%E7%BB%83%23" target="weibo">
-吴京烤串一看就没少练（热度：881761）
 </a>
 </li>
 
