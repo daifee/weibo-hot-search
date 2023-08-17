@@ -1,6 +1,6 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692243239435,
+  "endTime": 1692245974420,
   "band_list": [
     {
       "raw_hot": 2301522,
@@ -17,6 +17,14 @@
       "onboard_time": 1692240698,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2088917,
+      "num": 354012,
+      "word": "姚晨胡先煦吻戏",
+      "onboard_time": 1692242194,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 1997120,
@@ -52,23 +60,15 @@
     },
     {
       "raw_hot": 1755525,
-      "num": 348138,
+      "num": 932665,
       "word": "林志颖参加披荆斩棘的原因",
       "onboard_time": 1692242013,
       "rank": 30,
       "category": "综艺"
     },
     {
-      "raw_hot": 1594185,
-      "num": 338225,
-      "word": "姚晨胡先煦吻戏",
-      "onboard_time": 1692242194,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1332588,
-      "num": 1332588,
+      "raw_hot": 1370019,
+      "num": 1370019,
       "word": "原来焯水不是简单煮一下",
       "onboard_time": 1692234697,
       "rank": 25,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 884313,
+      "num": 884313,
+      "word": "孤注一掷东南亚上映",
+      "onboard_time": 1692240875,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 841696,
       "num": 841696,
       "word": "小区解聘物业70岁爷爷无偿当管家",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 640757,
-      "num": 304865,
+      "num": 339092,
       "word": "当你生了个蚊子过敏的女儿",
       "onboard_time": 1692239555,
       "rank": 23,
@@ -219,6 +227,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 580385,
+      "num": 345504,
+      "word": "钟楚曦张云龙芭莎情侣大片",
+      "onboard_time": 1692243213,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 565976,
       "num": 565976,
       "word": "朋友圈快乐的内容消失了",
@@ -259,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 533168,
-      "num": 442143,
-      "word": "孤注一掷东南亚上映",
-      "onboard_time": 1692240875,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 531828,
+      "num": 342926,
+      "word": "居然有徐良",
+      "onboard_time": 1692245616,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 512879,
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417413,
+      "num": 342147,
+      "word": "TangoZ说包厢内没有监控",
+      "onboard_time": 1692241534,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413888,
       "num": 413888,
       "word": "白色橄榄树女主会是谁",
@@ -392,6 +416,22 @@
       "word": "为什么现在住酒店退房不查房了",
       "onboard_time": 1692192997,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 409064,
+      "num": 409064,
+      "word": "95后女生用竹子编手机壳",
+      "onboard_time": 1692242134,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408132,
+      "num": 337326,
+      "word": "阿斯巴甜换名字了",
+      "onboard_time": 1692244778,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -435,6 +475,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 368602,
+      "num": 341003,
+      "word": "老头乐刮蹭450万法拉利被索赔190元",
+      "onboard_time": 1692245378,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366949,
       "num": 272090,
       "word": "为什么去旅游的人越来越多了",
@@ -457,6 +505,14 @@
       "onboard_time": 1692199839,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 336978,
+      "num": 336978,
+      "word": "广州现大量残破玩偶呼吁保护动物",
+      "onboard_time": 1692244356,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333764,
@@ -488,6 +544,14 @@
       "word": "檀健次有效留白",
       "onboard_time": 1692236195,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 321183,
+      "num": 321183,
+      "word": "乔家的儿女全员录ID祝开播两周年",
+      "onboard_time": 1692245197,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -523,6 +587,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308091,
+      "num": 308091,
+      "word": "李莲花相柳 两个惨蛋的相互救赎",
+      "onboard_time": 1692245319,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 305133,
+      "num": 305133,
+      "word": "蒋依依敖子逸学院风造型",
+      "onboard_time": 1692244177,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 299348,
+      "num": 299348,
+      "word": "小夭外爷是红楼梦第一美男",
+      "onboard_time": 1692243036,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297586,
       "num": 268960,
       "word": "陈牧驰竟然穿过马面裙",
@@ -536,14 +624,6 @@
       "word": "蒲熠星发博说有人自林中坠落",
       "onboard_time": 1692238954,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 296878,
-      "num": 296878,
-      "word": "TangoZ说包厢内没有监控",
-      "onboard_time": 1692241534,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -587,6 +667,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 282075,
+      "num": 254119,
+      "word": "女子买3个座位被无座大爷骂哭",
+      "onboard_time": 1692245616,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281722,
       "num": 281722,
       "word": "山东大汉连交警都是温情的",
@@ -601,14 +689,6 @@
       "onboard_time": 1692190958,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 271643,
-      "num": 271643,
-      "word": "95后女生用竹子编手机壳",
-      "onboard_time": 1692242134,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269908,
@@ -667,6 +747,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 250818,
+      "num": 250818,
+      "word": "披荆斩棘全员组团出招",
+      "onboard_time": 1692239793,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249469,
       "num": 249469,
       "word": "宋亚轩张真源贺峻霖你们在干什么",
@@ -675,12 +763,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 247136,
-      "num": 247136,
-      "word": "披荆斩棘全员组团出招",
-      "onboard_time": 1692239793,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 248148,
+      "num": 248148,
+      "word": "邓为用外套给工作人员遮阳",
+      "onboard_time": 1692243815,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 246918,
@@ -755,12 +843,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 219899,
+      "num": 219899,
+      "word": "这漫画非画不可吗",
+      "onboard_time": 1692244958,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 218980,
       "num": 218980,
       "word": "成都4只退役搜救犬征集领养人",
       "onboard_time": 1692232839,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216270,
+      "num": 216270,
+      "word": "不小心被压成饼的兔兔",
+      "onboard_time": 1692245257,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 214411,
@@ -843,20 +947,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197951,
-      "num": 197951,
-      "word": "钟楚曦张云龙芭莎情侣大片",
-      "onboard_time": 1692243213,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 193217,
       "num": 193217,
       "word": "成毅 少抱怨多做事",
       "onboard_time": 1692202654,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192373,
+      "num": 192373,
+      "word": "伯远狂补往季披荆斩棘",
+      "onboard_time": 1692244958,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 191434,
@@ -889,6 +993,14 @@
       "onboard_time": 1692200136,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188271,
+      "num": 188271,
+      "word": "冒险岛",
+      "onboard_time": 1692243577,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 188085,
@@ -928,14 +1040,6 @@
       "word": "内娱打戏仙品",
       "onboard_time": 1692203370,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 184890,
-      "num": 184890,
-      "word": "小夭外爷是红楼梦第一美男",
-      "onboard_time": 1692243036,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1027,12 +1131,28 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 158347,
+      "num": 158347,
+      "word": "杨紫请承欢记剧组喝奶茶",
+      "onboard_time": 1692245920,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156314,
       "num": 156314,
       "word": "遇到神仙买家",
       "onboard_time": 1692243097,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156096,
+      "num": 348392,
+      "word": "三人行必有省钱之道",
+      "onboard_time": 1692240813,
+      "rank": 16,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 151128,
@@ -1081,14 +1201,6 @@
       "onboard_time": 1692196601,
       "rank": 14,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 120448,
-      "num": 321913,
-      "word": "三人行必有省钱之道",
-      "onboard_time": 1692240813,
-      "rank": 16,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 118355,
