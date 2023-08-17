@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692293644994,
+  "endTime": 1692296413894,
   "band_list": [
     {
       "raw_hot": 6798828,
@@ -433,6 +433,14 @@
       "onboard_time": 1692278681,
       "rank": 44,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 48699,
+      "num": 103839,
+      "word": "刘宪华戴五条项链",
+      "onboard_time": 1692272739,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 6748,
