@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692308039111,
+  "endTime": 1692310502552,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -44811,6 +44811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45235,
+      "num": 45235,
+      "word": "得了80块已经觉得这是破天的富贵了",
+      "onboard_time": 1692305234,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 45055,
       "num": 187307,
       "word": "NASA局长称不希望中国率先载人登陆月球南极",
@@ -44873,6 +44881,14 @@
       "onboard_time": 1691000715,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42001,
+      "num": 42001,
+      "word": "黑胡椒和白胡椒有什么区别",
+      "onboard_time": 1692305293,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 41603,
@@ -45099,14 +45115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31320,
-      "num": 34564,
-      "word": "得了80块已经觉得这是破天的富贵了",
-      "onboard_time": 1692305234,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 31314,
       "num": 549589,
       "word": "三代治沙人用百年时间把沙海变绿洲",
@@ -45291,20 +45299,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 25750,
-      "num": 34506,
-      "word": "黑胡椒和白胡椒有什么区别",
-      "onboard_time": 1692305293,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 25639,
       "num": 26205,
       "word": "京津冀降雨关注",
       "onboard_time": 1690914077,
       "rank": 44,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 25585,
+      "num": 108141,
+      "word": "小孩报喜不报忧的原因",
+      "onboard_time": 1692303016,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 25290,
@@ -45337,14 +45345,6 @@
       "onboard_time": 1691693595,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 23726,
-      "num": 108141,
-      "word": "小孩报喜不报忧的原因",
-      "onboard_time": 1692303016,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 23649,
@@ -45387,6 +45387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21317,
+      "num": 108905,
+      "word": "走出人生困顿",
+      "onboard_time": 1692301455,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 21275,
       "num": 21275,
       "word": "懒人快速换被罩的方法",
@@ -45417,14 +45425,6 @@
       "onboard_time": 1691615594,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19560,
-      "num": 108905,
-      "word": "走出人生困顿",
-      "onboard_time": 1692301455,
-      "rank": 41,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 18031,
