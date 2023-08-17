@@ -1,0 +1,410 @@
+{
+  "runTime": 1692315241016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 879346,
+        "num": 879346,
+        "word": "恒大在美国申请破产保护",
+        "onboard_time": 1692313886,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 812061,
+        "num": 812061,
+        "word": "女子凌晨被短信告知航班提前3.5小时起飞",
+        "onboard_time": 1692272376,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7819,
+        "num": 568780,
+        "word": "这些灾后恢复的画面辛苦又感动",
+        "onboard_time": 1692246400,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482150,
+        "num": 482150,
+        "word": "男子挂号因没听清楚被工作人员怼",
+        "onboard_time": 1692313282,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404526,
+        "num": 404526,
+        "word": "我不是药神白血病少年扮演者入院捐髓",
+        "onboard_time": 1692304574,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183324,
+        "num": 398093,
+        "word": "衡水中学校长称已注意到网红要打衡中",
+        "onboard_time": 1692286306,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 364107,
+        "num": 364107,
+        "word": "海底捞在家有儿女里出现也不奇怪",
+        "onboard_time": 1692273459,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334735,
+        "num": 334735,
+        "word": "初中设的自动回复忘记取消了",
+        "onboard_time": 1692276582,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319796,
+        "num": 319796,
+        "word": "古天乐新片骂了33秒脏话",
+        "onboard_time": 1692281688,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233580,
+        "num": 233580,
+        "word": "爸爸车祸昏迷7岁女儿变身小小顶梁柱",
+        "onboard_time": 1692313282,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256995,
+        "num": 232522,
+        "word": "中科院博士被骗至缅甸一年",
+        "onboard_time": 1692266320,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226933,
+        "num": 226933,
+        "word": "教育机构要求老师穿长裤的原因",
+        "onboard_time": 1692269920,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183669,
+        "num": 183669,
+        "word": "男孩ATM机上捡现金反复向监控示意",
+        "onboard_time": 1692277960,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183514,
+        "num": 183514,
+        "word": "被裤腰带勒出了荨麻疹",
+        "onboard_time": 1692279289,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182387,
+        "num": 182387,
+        "word": "相柳听到毛球叫邶的反应",
+        "onboard_time": 1692281928,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170809,
+        "num": 170809,
+        "word": "丫丫学会了萌兰的竹子打包技术",
+        "onboard_time": 1692284089,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168563,
+        "num": 168563,
+        "word": "咖啡变成了我舍不得喝的样子",
+        "onboard_time": 1692313345,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164997,
+        "num": 164997,
+        "word": "芭比是戳到日本大叔痛点了吗",
+        "onboard_time": 1692284386,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148603,
+        "num": 148603,
+        "word": "费翔 皮囊之下我们都是一样的",
+        "onboard_time": 1692298397,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137873,
+        "num": 137873,
+        "word": "丁禹兮杨超越直播",
+        "onboard_time": 1692285046,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2439788,
+        "num": 137871,
+        "word": "中国好声音声明",
+        "onboard_time": 1692284806,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364867,
+        "num": 134799,
+        "word": "终于知道为什么医院的空调打那么低了",
+        "onboard_time": 1692280788,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 941402,
+        "num": 134205,
+        "word": "李玟生前控诉中国好声音录音曝光",
+        "onboard_time": 1692278623,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312730,
+        "num": 132534,
+        "word": "妈妈在欧洲患上了厕所焦虑症",
+        "onboard_time": 1692281388,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334156,
+        "num": 129844,
+        "word": "李玟",
+        "onboard_time": 1692276880,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210611,
+        "num": 128855,
+        "word": "一模一样的小孩为啥要生两个",
+        "onboard_time": 1692285885,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182253,
+        "num": 126615,
+        "word": "马来西亚坠机已致10人死亡",
+        "onboard_time": 1692278501,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126544,
+        "num": 126544,
+        "word": "猫德学院抓到狮子猫",
+        "onboard_time": 1692278681,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 123945,
+        "num": 123945,
+        "word": "上海平价Omakase餐厅",
+        "onboard_time": 1692287504,
+        "rank": 28,
+        "category": "美食,时尚"
+      },
+      {
+        "raw_hot": 122997,
+        "num": 122997,
+        "word": "刘雨昕迪丽热巴同框旧照",
+        "onboard_time": 1692282892,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 487313,
+        "num": 122910,
+        "word": "男子为赚7000元参加药物试验老婆要离婚",
+        "onboard_time": 1692314549,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421425,
+        "num": 122583,
+        "word": "27岁女子蜜月同房后大出血险没命",
+        "onboard_time": 1692314668,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121975,
+        "num": 121975,
+        "word": "和男朋友分手后平分手机",
+        "onboard_time": 1692274658,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117764,
+        "num": 117764,
+        "word": "广东人为什么喜欢用不锈钢",
+        "onboard_time": 1692281388,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114763,
+        "num": 114763,
+        "word": "EDG八强赛对阵EG",
+        "onboard_time": 1692313645,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110670,
+        "num": 110670,
+        "word": "考上研究生才敢说的大实话",
+        "onboard_time": 1692265299,
+        "rank": 35,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 102846,
+        "num": 110669,
+        "word": "狗子跳海救落水儿童被呛水去世",
+        "onboard_time": 1692283908,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97404,
+        "num": 110667,
+        "word": "2023暑期四大TOP",
+        "onboard_time": 1692292584,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94750,
+        "num": 110664,
+        "word": "爸爸在饭桌上跟亲戚说我不结婚",
+        "onboard_time": 1692274837,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93008,
+        "num": 110663,
+        "word": "石凯新歌Romance",
+        "onboard_time": 1692313585,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88567,
+        "num": 110658,
+        "word": "马伯骞回复赵露思芋泥香酥鸭管够",
+        "onboard_time": 1692268660,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87383,
+        "num": 110657,
+        "word": "于适给黄旭熙拍照旧图",
+        "onboard_time": 1692280728,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86741,
+        "num": 110654,
+        "word": "女子坐飞机看到蟑螂趴在窗外",
+        "onboard_time": 1692268360,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86565,
+        "num": 110652,
+        "word": "今年看过最疯批的女人",
+        "onboard_time": 1692266140,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79578,
+        "num": 110651,
+        "word": "刘德华说刘嘉玲是梁朝伟i人",
+        "onboard_time": 1692271176,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78626,
+        "num": 110648,
+        "word": "张艺兴感谢被申奥导演坚定选择",
+        "onboard_time": 1692287321,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76056,
+        "num": 110645,
+        "word": "长时间滞缅重点地区会入黑名单",
+        "onboard_time": 1692297257,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74640,
+        "num": 110643,
+        "word": "得了80块已经觉得这是破天的富贵了",
+        "onboard_time": 1692305234,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73363,
+        "num": 110641,
+        "word": "无畏契约洛杉矶全球冠军赛",
+        "onboard_time": 1692313824,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73316,
+        "num": 110639,
+        "word": "BLG惜败DRX",
+        "onboard_time": 1692315150,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#南海开渔千帆竞发大场面#"
+    }
+  }
+}

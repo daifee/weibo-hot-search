@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692314166711,
+  "endTime": 1692315241016,
   "band_list": [
     {
       "raw_hot": 6798828,
@@ -35,8 +35,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 730181,
-      "num": 730181,
+      "raw_hot": 879346,
+      "num": 879346,
+      "word": "恒大在美国申请破产保护",
+      "onboard_time": 1692313886,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 812061,
+      "num": 812061,
       "word": "女子凌晨被短信告知航班提前3.5小时起飞",
       "onboard_time": 1692272376,
       "rank": 1,
@@ -59,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 487313,
+      "num": 122910,
+      "word": "男子为赚7000元参加药物试验老婆要离婚",
+      "onboard_time": 1692314549,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483524,
       "num": 483524,
       "word": "芭比是戳到日本大叔痛点了吗",
@@ -67,11 +83,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 482150,
+      "num": 482150,
+      "word": "男子挂号因没听清楚被工作人员怼",
+      "onboard_time": 1692313282,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426833,
       "num": 246492,
       "word": "马来西亚坠机已致10人死亡",
       "onboard_time": 1692278501,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421425,
+      "num": 122583,
+      "word": "27岁女子蜜月同房后大出血险没命",
+      "onboard_time": 1692314668,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -97,6 +129,14 @@
       "onboard_time": 1692285046,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404526,
+      "num": 404526,
+      "word": "我不是药神白血病少年扮演者入院捐髓",
+      "onboard_time": 1692304574,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389824,
@@ -235,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233580,
+      "num": 233580,
+      "word": "爸爸车祸昏迷7岁女儿变身小小顶梁柱",
+      "onboard_time": 1692313282,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229351,
       "num": 229351,
       "word": "王耀庆拍戏没穷过",
@@ -249,14 +297,6 @@
       "onboard_time": 1692279289,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208918,
-      "num": 208918,
-      "word": "我不是药神白血病少年扮演者入院捐髓",
-      "onboard_time": 1692304574,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206993,
@@ -315,12 +355,12 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 166702,
-      "num": 166702,
-      "word": "男子挂号因没听清楚被工作人员怼",
-      "onboard_time": 1692313282,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 168563,
+      "num": 168563,
+      "word": "咖啡变成了我舍不得喝的样子",
+      "onboard_time": 1692313345,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 165028,
@@ -329,14 +369,6 @@
       "onboard_time": 1692292584,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163519,
-      "num": 103423,
-      "word": "恒大在美国申请破产保护",
-      "onboard_time": 1692313886,
-      "rank": 30,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 162883,
@@ -363,6 +395,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 148603,
+      "num": 148603,
+      "word": "费翔 皮囊之下我们都是一样的",
+      "onboard_time": 1692298397,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140827,
       "num": 183793,
       "word": "女子坐飞机看到蟑螂趴在窗外",
@@ -377,14 +417,6 @@
       "onboard_time": 1692290669,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 137227,
-      "num": 137227,
-      "word": "费翔 皮囊之下我们都是一样的",
-      "onboard_time": 1692298397,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 135778,
@@ -411,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126544,
+      "num": 156288,
+      "word": "猫德学院抓到狮子猫",
+      "onboard_time": 1692278681,
+      "rank": 44,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 125803,
       "num": 183793,
       "word": "火老师体面人",
@@ -435,28 +475,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 103877,
-      "num": 103877,
-      "word": "爸爸车祸昏迷7岁女儿变身小小顶梁柱",
-      "onboard_time": 1692313282,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 114763,
+      "num": 114763,
+      "word": "EDG八强赛对阵EG",
+      "onboard_time": 1692313645,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 101384,
-      "num": 101384,
+      "num": 110663,
       "word": "石凯新歌Romance",
       "onboard_time": 1692313585,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 100171,
-      "num": 156288,
-      "word": "猫德学院抓到狮子猫",
-      "onboard_time": 1692278681,
-      "rank": 44,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 89741,
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 88601,
-      "num": 95602,
+      "num": 110651,
       "word": "刘德华说刘嘉玲是梁朝伟i人",
       "onboard_time": 1692271176,
       "rank": 36,
@@ -491,28 +523,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 78443,
-      "num": 95550,
-      "word": "咖啡变成了我舍不得喝的样子",
-      "onboard_time": 1692313345,
-      "rank": 38,
-      "category": "美食"
+      "raw_hot": 76056,
+      "num": 110645,
+      "word": "长时间滞缅重点地区会入黑名单",
+      "onboard_time": 1692297257,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 74403,
-      "num": 95351,
-      "word": "EDG八强赛对阵EG",
-      "onboard_time": 1692313645,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 73916,
-      "num": 95317,
+      "raw_hot": 74640,
+      "num": 110643,
       "word": "得了80块已经觉得这是破天的富贵了",
       "onboard_time": 1692305234,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73363,
+      "num": 110641,
+      "word": "无畏契约洛杉矶全球冠军赛",
+      "onboard_time": 1692313824,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 73316,
+      "num": 110639,
+      "word": "BLG惜败DRX",
+      "onboard_time": 1692315150,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 67906,
@@ -521,22 +561,6 @@
       "onboard_time": 1692305293,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 66342,
-      "num": 109921,
-      "word": "长时间滞缅重点地区会入黑名单",
-      "onboard_time": 1692297257,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60959,
-      "num": 95088,
-      "word": "无畏契约洛杉矶全球冠军赛",
-      "onboard_time": 1692313824,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 48699,
@@ -563,7 +587,7 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 7047,
+      "raw_hot": 7819,
       "num": 580368,
       "word": "这些灾后恢复的画面辛苦又感动",
       "onboard_time": 1692246400,
