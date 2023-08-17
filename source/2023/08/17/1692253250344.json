@@ -1,0 +1,410 @@
+{
+  "runTime": 1692253250344,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1223541,
+        "num": 1223541,
+        "word": "12306回应母亲带病儿买三张票",
+        "onboard_time": 1692248740,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790202,
+        "num": 790202,
+        "word": "超市招聘牛肉试吃员需一天吃10斤",
+        "onboard_time": 1692250416,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119466,
+        "num": 748458,
+        "word": "3条高铁新线即将开通",
+        "onboard_time": 1692246762,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1941939,
+        "num": 732213,
+        "word": "陈立农diss宝石老舅",
+        "onboard_time": 1692250777,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1335048,
+        "num": 673632,
+        "word": "谢娜吴昕维嘉群名",
+        "onboard_time": 1692248500,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 933943,
+        "num": 612559,
+        "word": "老头乐刮蹭450万法拉利被索赔190元",
+        "onboard_time": 1692245378,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863040,
+        "num": 558262,
+        "word": "调查显示我国终身单身人群极少",
+        "onboard_time": 1692249219,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541274,
+        "num": 541274,
+        "word": "曝七时吉祥抄袭秦时明月",
+        "onboard_time": 1692252634,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493906,
+        "num": 493906,
+        "word": "原来焯水不是简单煮一下",
+        "onboard_time": 1692234697,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 491791,
+        "num": 491791,
+        "word": "阿念一句话喊醒小夭",
+        "onboard_time": 1692250478,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 933328,
+        "num": 487178,
+        "word": "赵露思港风短发",
+        "onboard_time": 1692249815,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 720220,
+        "num": 481522,
+        "word": "超级小桀",
+        "onboard_time": 1692248141,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 694415,
+        "num": 471875,
+        "word": "王耀庆的朋友圈",
+        "onboard_time": 1692250897,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636524,
+        "num": 466729,
+        "word": "TangoZ再发文回应",
+        "onboard_time": 1692240698,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496080,
+        "num": 460500,
+        "word": "杜海涛秒变直角肩",
+        "onboard_time": 1692247062,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458189,
+        "num": 458189,
+        "word": "清华毕业半年被裁员",
+        "onboard_time": 1692234877,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457776,
+        "num": 457776,
+        "word": "林志颖参加披荆斩棘的原因",
+        "onboard_time": 1692242013,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400066,
+        "num": 400066,
+        "word": "姚晨胡先煦吻戏",
+        "onboard_time": 1692242194,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341466,
+        "num": 341466,
+        "word": "女子买3个座位被无座大爷骂哭",
+        "onboard_time": 1692245616,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299586,
+        "num": 299586,
+        "word": "阿斯巴甜换名字了",
+        "onboard_time": 1692244778,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391864,
+        "num": 295873,
+        "word": "披荆斩棘3全阵容官宣",
+        "onboard_time": 1692238774,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288629,
+        "num": 288629,
+        "word": "判决书上网致被性侵少女信息泄露",
+        "onboard_time": 1692247961,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352270,
+        "num": 286929,
+        "word": "关智斌上哥哥前进姐姐群取经",
+        "onboard_time": 1692251616,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278765,
+        "num": 278765,
+        "word": "当你生了个蚊子过敏的女儿",
+        "onboard_time": 1692239555,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 350703,
+        "num": 274654,
+        "word": "居然有徐良",
+        "onboard_time": 1692245616,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283095,
+        "num": 269507,
+        "word": "志愿军",
+        "onboard_time": 1692250539,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262321,
+        "num": 262321,
+        "word": "静夜眼里的夭玹璟柳",
+        "onboard_time": 1692251498,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251932,
+        "num": 251932,
+        "word": "北海一浴场突发不明鱼类伤人事件",
+        "onboard_time": 1692231094,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240284,
+        "num": 240284,
+        "word": "第一次感受到什么叫大湾区",
+        "onboard_time": 1692246460,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191844,
+        "num": 191844,
+        "word": "初乳是什么",
+        "onboard_time": 1692237274,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258052,
+        "num": 187907,
+        "word": "Lisa上了ins富豪榜",
+        "onboard_time": 1692236794,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245459,
+        "num": 187080,
+        "word": "林俊杰北京",
+        "onboard_time": 1692249937,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233703,
+        "num": 184856,
+        "word": "曾舜晞曾演过熊出没",
+        "onboard_time": 1692252277,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182255,
+        "num": 182255,
+        "word": "铁路部门对泰安站通报批评",
+        "onboard_time": 1692247782,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152957,
+        "num": 181550,
+        "word": "A股",
+        "onboard_time": 1692237335,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188876,
+        "num": 180909,
+        "word": "李莲花相柳 两个惨蛋的相互救赎",
+        "onboard_time": 1692245319,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183725,
+        "num": 180773,
+        "word": "杨紫请承欢记剧组喝奶茶",
+        "onboard_time": 1692245920,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183327,
+        "num": 179849,
+        "word": "莲花楼收官战报",
+        "onboard_time": 1692250897,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152629,
+        "num": 179335,
+        "word": "不小心被压成饼的兔兔",
+        "onboard_time": 1692245257,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149764,
+        "num": 178519,
+        "word": "博人传2全角色新造型",
+        "onboard_time": 1692252634,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177971,
+        "num": 177971,
+        "word": "唐禹哲非过没丑过",
+        "onboard_time": 1692253237,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161234,
+        "num": 161234,
+        "word": "谢娜羽毛吊带裙",
+        "onboard_time": 1692248861,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143526,
+        "num": 158090,
+        "word": "收到这种快递要小心了",
+        "onboard_time": 1692239972,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148131,
+        "num": 158007,
+        "word": "你想涩涩他想骗骗",
+        "onboard_time": 1692235716,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158007,
+        "num": 158006,
+        "word": "孤注一掷东南亚上映",
+        "onboard_time": 1692240875,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175437,
+        "num": 157865,
+        "word": "郑嘉颖叫叶祖新十弟",
+        "onboard_time": 1692249162,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133556,
+        "num": 157786,
+        "word": "2元炒菜哥称不想成为拉面哥",
+        "onboard_time": 1692252098,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129134,
+        "num": 157516,
+        "word": "广西北海侨港浴场暂停涉水活动",
+        "onboard_time": 1692251016,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118519,
+        "num": 157372,
+        "word": "国产生可乐vs日本生可乐",
+        "onboard_time": 1692253237,
+        "rank": 48,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 116863,
+        "num": 157202,
+        "word": "小区解聘物业70岁爷爷无偿当管家",
+        "onboard_time": 1692231573,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把解决实际问题作为制定改革方案的出发点#"
+    }
+  }
+}
