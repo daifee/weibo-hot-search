@@ -1,0 +1,410 @@
+{
+  "runTime": 1692268428465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3199823,
+        "num": 3199823,
+        "word": "中科院博士被骗至缅甸一年",
+        "onboard_time": 1692266320,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417382,
+        "num": 2431669,
+        "word": "丫丫咬着竹子上爬架继续啃",
+        "onboard_time": 1692260441,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26915,
+        "num": 2057368,
+        "word": "这些灾后恢复的画面辛苦又感动",
+        "onboard_time": 1692246400,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1944224,
+        "num": 1944224,
+        "word": "考上研究生才敢说的大实话",
+        "onboard_time": 1692265299,
+        "rank": 3,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 373711,
+        "num": 1220559,
+        "word": "丫丫又圆润啦",
+        "onboard_time": 1692262841,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980588,
+        "num": 980588,
+        "word": "北海被咬伤者称曾踩到软软的东西",
+        "onboard_time": 1692261581,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679399,
+        "num": 679399,
+        "word": "上海彩虹",
+        "onboard_time": 1692267697,
+        "rank": 6,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 563904,
+        "num": 563904,
+        "word": "陈立农diss宝石老舅",
+        "onboard_time": 1692250777,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458536,
+        "num": 458536,
+        "word": "男子骚扰前任119和110都上门了",
+        "onboard_time": 1692264522,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348738,
+        "num": 348738,
+        "word": "徐良初舞台 坏女孩",
+        "onboard_time": 1692259602,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 813015,
+        "num": 348222,
+        "word": "没人发现杨紫这么厉害吗",
+        "onboard_time": 1692266140,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 673516,
+        "num": 346789,
+        "word": "今年看过最疯批的女人",
+        "onboard_time": 1692266140,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 539211,
+        "num": 344820,
+        "word": "暑期档第一爆的角色",
+        "onboard_time": 1692265599,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372969,
+        "num": 343778,
+        "word": "考编失败的警犬还包分配",
+        "onboard_time": 1692265841,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56618,
+        "num": 342883,
+        "word": "泡泡玛特乐园门票 天猫",
+        "onboard_time": 1692266439,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 238106,
+        "num": 340698,
+        "word": "2元炒菜哥称给我千千万也不在乎",
+        "onboard_time": 1692267997,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340305,
+        "num": 340305,
+        "word": "谢娜吴昕维嘉群名",
+        "onboard_time": 1692248500,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303356,
+        "num": 303356,
+        "word": "TangoZ再发文回应",
+        "onboard_time": 1692240698,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299051,
+        "num": 299051,
+        "word": "曝七时吉祥抄袭秦时明月",
+        "onboard_time": 1692252634,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286445,
+        "num": 286445,
+        "word": "伯远 被前辈们的热情淹没",
+        "onboard_time": 1692262841,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1020625,
+        "num": 281514,
+        "word": "吴磊抽烟镜头",
+        "onboard_time": 1692261224,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356510,
+        "num": 275858,
+        "word": "养老院回应男性护工长期猥亵90多岁老人",
+        "onboard_time": 1692265299,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265513,
+        "num": 265513,
+        "word": "胡歌说幸好小尹找了吴磊来演",
+        "onboard_time": 1692259304,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264093,
+        "num": 264093,
+        "word": "赵露思港风短发",
+        "onboard_time": 1692249815,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 319443,
+        "num": 259050,
+        "word": "48岁男教师搂抱28岁家长监控曝光",
+        "onboard_time": 1692255761,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314292,
+        "num": 257446,
+        "word": "医生叫我控糖 朋友给我切了一片西瓜",
+        "onboard_time": 1692258822,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204242,
+        "num": 253615,
+        "word": "17岁女孩为攒学费每天搬砖近10小时",
+        "onboard_time": 1692267456,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 252418,
+        "num": 252418,
+        "word": "当小猫感觉气氛不对",
+        "onboard_time": 1692263318,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242424,
+        "num": 242424,
+        "word": "鸡蛋一天最多让吃几个",
+        "onboard_time": 1692254196,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227101,
+        "num": 242418,
+        "word": "陈哲远给马伯骞评论",
+        "onboard_time": 1692267879,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214393,
+        "num": 242412,
+        "word": "负面情绪带来的阵痛只有90秒",
+        "onboard_time": 1692266917,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201262,
+        "num": 242392,
+        "word": "崔胜澈暂停活动",
+        "onboard_time": 1692257263,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200514,
+        "num": 242387,
+        "word": "女子坐飞机看到蟑螂趴在窗外",
+        "onboard_time": 1692268360,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193545,
+        "num": 242373,
+        "word": "中科院博士被骗至缅甸女友发声",
+        "onboard_time": 1692267818,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192990,
+        "num": 242363,
+        "word": "邓超请看四个电影",
+        "onboard_time": 1692262001,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186977,
+        "num": 242341,
+        "word": "当年看的时候没觉得这么尴尬",
+        "onboard_time": 1692267997,
+        "rank": 35,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 185377,
+        "num": 242339,
+        "word": "婚礼视频存QQ空间10年突然消失",
+        "onboard_time": 1692261162,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176945,
+        "num": 242327,
+        "word": "原来真的有人一洗澡就过敏",
+        "onboard_time": 1692259361,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173688,
+        "num": 242306,
+        "word": "逆水寒",
+        "onboard_time": 1692266320,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172665,
+        "num": 242295,
+        "word": "伯远叫檀健次相柳老师",
+        "onboard_time": 1692259842,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169113,
+        "num": 242289,
+        "word": "王鹤棣西安之旅vlog",
+        "onboard_time": 1692265900,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166707,
+        "num": 242279,
+        "word": "张艺兴孤注一掷票房破22亿海报",
+        "onboard_time": 1692260082,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156205,
+        "num": 242260,
+        "word": "超市招聘牛肉试吃员需一天吃10斤",
+        "onboard_time": 1692250416,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152255,
+        "num": 242252,
+        "word": "创造营在张远微博团建了",
+        "onboard_time": 1692254677,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143343,
+        "num": 242240,
+        "word": "超级小桀",
+        "onboard_time": 1692248141,
+        "rank": 44,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 132311,
+        "num": 242223,
+        "word": "留学中介称资产10万以下是残疾家庭",
+        "onboard_time": 1692257922,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131894,
+        "num": 242212,
+        "word": "帮男友试穿他的新鞋",
+        "onboard_time": 1692268119,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 129654,
+        "num": 242201,
+        "word": "莲花楼",
+        "onboard_time": 1692264041,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127944,
+        "num": 242184,
+        "word": "张文宏被造谣妻子是医药代表",
+        "onboard_time": 1692255159,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126273,
+        "num": 242179,
+        "word": "孕妇地铁上挤到大妈被骂是猪",
+        "onboard_time": 1692254257,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把解决实际问题作为制定改革方案的出发点#"
+    }
+  }
+}
