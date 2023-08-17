@@ -1,10 +1,10 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692234451442,
+  "endTime": 1692235625706,
   "band_list": [
     {
-      "raw_hot": 2185386,
-      "num": 2185386,
+      "raw_hot": 2301522,
+      "num": 2301522,
       "word": "北海一浴场突发不明鱼类伤人事件",
       "onboard_time": 1692231094,
       "rank": 0,
@@ -49,6 +49,14 @@
       "onboard_time": 1692193901,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 967556,
+      "num": 967556,
+      "word": "给没到27岁的人一个浪漫建议",
+      "onboard_time": 1692233317,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 924892,
@@ -115,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 581295,
+      "num": 443705,
+      "word": "如果你是爱豆 不小心暴露在恋爱",
+      "onboard_time": 1692233799,
+      "rank": 24,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 565976,
       "num": 565976,
       "word": "朋友圈快乐的内容消失了",
@@ -139,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 542339,
+      "num": 276557,
+      "word": "清华毕业半年被裁员",
+      "onboard_time": 1692234877,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 512879,
       "num": 435722,
       "word": "成毅经纪公司声明",
@@ -155,6 +179,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 496315,
+      "num": 319579,
+      "word": "姑娘抢到50万大额存单有人拿600万赶来",
+      "onboard_time": 1692234218,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496060,
       "num": 496060,
       "word": "敦煌警察每年从沙漠挖百部手机",
@@ -163,8 +195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465194,
-      "num": 465194,
+      "raw_hot": 468204,
+      "num": 468204,
       "word": "内娱天选校园剧女主",
       "onboard_time": 1692230315,
       "rank": 12,
@@ -185,14 +217,6 @@
       "onboard_time": 1692199959,
       "rank": 15,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 445272,
-      "num": 445272,
-      "word": "给没到27岁的人一个浪漫建议",
-      "onboard_time": 1692233317,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 444521,
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 363859,
-      "num": 363859,
+      "num": 411274,
       "word": "电诈团伙盯上儿童手表",
       "onboard_time": 1692230735,
       "rank": 21,
@@ -289,6 +313,14 @@
       "onboard_time": 1692199839,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 346187,
+      "num": 319137,
+      "word": "大英博物馆部分黄金珠宝被盗",
+      "onboard_time": 1692233859,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338409,
@@ -315,20 +347,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333155,
-      "num": 333155,
-      "word": "如果你是爱豆 不小心暴露在恋爱",
-      "onboard_time": 1692233799,
-      "rank": 24,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 331442,
       "num": 331442,
       "word": "在鸭血上发现的红唇",
       "onboard_time": 1692192874,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320057,
+      "num": 320057,
+      "word": "西安一大学生失联疑被骗至缅甸",
+      "onboard_time": 1692229651,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317881,
@@ -347,20 +379,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 314237,
-      "num": 314237,
-      "word": "西安一大学生失联疑被骗至缅甸",
-      "onboard_time": 1692229651,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310538,
       "num": 310538,
       "word": "恒大地产收到证监会立案告知书",
       "onboard_time": 1692232959,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309439,
+      "num": 309439,
+      "word": "原来焯水不是简单煮一下",
+      "onboard_time": 1692234697,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 303835,
+      "num": 303835,
+      "word": "玱玹想把涂山璟的婚礼变葬礼",
+      "onboard_time": 1692234457,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 296841,
@@ -401,6 +441,14 @@
       "onboard_time": 1692190958,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266998,
+      "num": 266998,
+      "word": "WBG赛后语音",
+      "onboard_time": 1692234040,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 257705,
@@ -451,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243029,
-      "num": 243029,
-      "word": "姑娘抢到50万大额存单有人拿600万赶来",
-      "onboard_time": 1692234218,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241173,
       "num": 241173,
       "word": "封神海报 自来水的亿把火",
@@ -497,22 +537,6 @@
       "onboard_time": 1692231513,
       "rank": 40,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 225910,
-      "num": 225910,
-      "word": "WBG赛后语音",
-      "onboard_time": 1692234040,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 223985,
-      "num": 223985,
-      "word": "大英博物馆部分黄金珠宝被盗",
-      "onboard_time": 1692233859,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218980,
@@ -641,6 +665,14 @@
       "onboard_time": 1692200795,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 171866,
+      "num": 171866,
+      "word": "辅警夜跑救了个被裸聊诈骗的小伙",
+      "onboard_time": 1692235477,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171179,
