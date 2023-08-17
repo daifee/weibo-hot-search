@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692282836238,
+  "endTime": 1692285391678,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -25,6 +25,14 @@
       "onboard_time": 1692276880,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6879880,
+      "num": 6879880,
+      "word": "中国好声音声明",
+      "onboard_time": 1692284806,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 5439650,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1525248,
+      "num": 1525248,
+      "word": "古天乐新片骂了33秒脏话",
+      "onboard_time": 1692281688,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1513286,
       "num": 1513286,
       "word": "张碧晨也去看了张艺兴演唱会",
@@ -1145,14 +1161,6 @@
       "onboard_time": 1692255159,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1095634,
-      "num": 1095634,
-      "word": "古天乐新片骂了33秒脏话",
-      "onboard_time": 1692281688,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1094606,
@@ -1715,6 +1723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 820596,
+      "num": 421530,
+      "word": "终于知道为什么医院的空调打那么低了",
+      "onboard_time": 1692280788,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 819683,
       "num": 819683,
       "word": "尹锡悦父亲去世",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1692194681,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 804270,
-      "num": 421530,
-      "word": "终于知道为什么医院的空调打那么低了",
-      "onboard_time": 1692280788,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 803752,
@@ -1929,6 +1937,14 @@
       "onboard_time": 1692191494,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741124,
+      "num": 348972,
+      "word": "刘雨昕迪丽热巴同框旧照",
+      "onboard_time": 1692282892,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 737843,
@@ -2115,6 +2131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 703933,
+      "num": 703933,
+      "word": "电影志愿军致歉声明",
+      "onboard_time": 1692281388,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 700974,
       "num": 2431669,
       "word": "丫丫咬着竹子上爬架继续啃",
@@ -2185,6 +2209,14 @@
       "onboard_time": 1692250897,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 693626,
+      "num": 395938,
+      "word": "妈妈在欧洲患上了厕所焦虑症",
+      "onboard_time": 1692281388,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 693269,
@@ -2675,14 +2707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601352,
-      "num": 601352,
-      "word": "电影志愿军致歉声明",
-      "onboard_time": 1692281388,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 600161,
       "num": 600161,
       "word": "邓为拍长相思中暑晕倒",
@@ -2883,14 +2907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 571334,
-      "num": 395938,
-      "word": "妈妈在欧洲患上了厕所焦虑症",
-      "onboard_time": 1692281388,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 570805,
       "num": 570805,
       "word": "杨幂是檀健次的伯乐",
@@ -3043,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556893,
+      "num": 556893,
+      "word": "张智霖你害怕吗",
+      "onboard_time": 1692282109,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 556698,
       "num": 556698,
       "word": "小夭和龙葵都是射手",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1692175778,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539337,
+      "num": 539337,
+      "word": "相柳听到毛球叫邶的反应",
+      "onboard_time": 1692281928,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 538880,
@@ -4715,14 +4747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393435,
-      "num": 393435,
-      "word": "张智霖你害怕吗",
-      "onboard_time": 1692282109,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 393187,
       "num": 393187,
       "word": "涂山璟最珍贵的内核",
@@ -5003,6 +5027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373078,
+      "num": 274601,
+      "word": "安宥真剪头了",
+      "onboard_time": 1692284323,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370994,
       "num": 370994,
       "word": "杨紫凑齐三大类型的爆剧",
@@ -5073,6 +5105,14 @@
       "onboard_time": 1692102280,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 367685,
+      "num": 273626,
+      "word": "张远披荆斩棘撞衫高贵妃和猪八戒",
+      "onboard_time": 1692282411,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 367538,
@@ -5307,12 +5347,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 350558,
+      "num": 266124,
+      "word": "芭比是戳到日本大叔痛点了吗",
+      "onboard_time": 1692284386,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349509,
       "num": 306101,
       "word": "我的考研搭子是奶奶",
       "onboard_time": 1692255278,
       "rank": 22,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 348927,
+      "num": 272516,
+      "word": "丁禹兮杨超越直播",
+      "onboard_time": 1692285046,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 348590,
@@ -5785,6 +5841,14 @@
       "onboard_time": 1692082836,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312637,
+      "num": 312637,
+      "word": "广东人为什么喜欢用不锈钢",
+      "onboard_time": 1692281388,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 312087,
@@ -6329,14 +6393,6 @@
       "onboard_time": 1691930855,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286438,
-      "num": 286438,
-      "word": "广东人为什么喜欢用不锈钢",
-      "onboard_time": 1692281388,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 286245,
@@ -7219,12 +7275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252280,
-      "num": 252280,
-      "word": "相柳听到毛球叫邶的反应",
-      "onboard_time": 1692281928,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 252367,
+      "num": 252367,
+      "word": "榜一大姐直接上台打赏了",
+      "onboard_time": 1692282411,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 251880,
@@ -8299,28 +8355,12 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 207745,
-      "num": 207745,
-      "word": "榜一大姐直接上台打赏了",
-      "onboard_time": 1692282411,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 207738,
       "num": 207738,
       "word": "猴崽带甜甜糕回城",
       "onboard_time": 1692084169,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 207261,
-      "num": 207261,
-      "word": "张远披荆斩棘撞衫高贵妃和猪八戒",
-      "onboard_time": 1692282411,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 206763,
@@ -8555,6 +8595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202713,
+      "num": 215327,
+      "word": "王鹤棣不会扭脖子",
+      "onboard_time": 1692284444,
+      "rank": 43,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 202636,
       "num": 210288,
       "word": "六个增强核心的动作",
@@ -8601,6 +8649,14 @@
       "onboard_time": 1692108462,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202078,
+      "num": 269218,
+      "word": "丫丫学会了萌兰的竹子打包技术",
+      "onboard_time": 1692284089,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201908,
@@ -8660,7 +8716,7 @@
     },
     {
       "raw_hot": 200715,
-      "num": 207258,
+      "num": 215312,
       "word": "2023暑期档票房中国影史同期第一名",
       "onboard_time": 1692282229,
       "rank": 43,
@@ -8849,6 +8905,22 @@
       "onboard_time": 1692191556,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197563,
+      "num": 215317,
+      "word": "吴昕短发的N种花样",
+      "onboard_time": 1692285167,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 197560,
+      "num": 243350,
+      "word": "陌生人的隔空投送有多离谱",
+      "onboard_time": 1692284507,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 197528,
@@ -9212,7 +9284,7 @@
     },
     {
       "raw_hot": 188356,
-      "num": 207188,
+      "num": 215275,
       "word": "WBG首日积分第一",
       "onboard_time": 1692282528,
       "rank": 48,
@@ -9625,6 +9697,14 @@
       "onboard_time": 1692077797,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175691,
+      "num": 215298,
+      "word": "外国小伙被非遗打铁花圈粉现场拜师",
+      "onboard_time": 1692284147,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174482,
@@ -10459,6 +10539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 104316,
+      "num": 215293,
+      "word": "夏日减脂外卖吃什么",
+      "onboard_time": 1692284866,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 103726,
       "num": 103726,
       "word": "原生家庭对性格和习惯的塑造",
@@ -10936,6 +11024,14 @@
       "word": "30秒看308米长江大桥主塔拔地而起",
       "onboard_time": 1692155073,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44806,
+      "num": 344600,
+      "word": "重庆三对双胞胎考上北大",
+      "onboard_time": 1692284507,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

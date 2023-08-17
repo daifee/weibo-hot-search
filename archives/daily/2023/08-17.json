@@ -1,6 +1,6 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692282836238,
+  "endTime": 1692285391678,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -17,6 +17,14 @@
       "onboard_time": 1692276880,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6879880,
+      "num": 6879880,
+      "word": "中国好声音声明",
+      "onboard_time": 1692284806,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3689279,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1525248,
+      "num": 1525248,
+      "word": "古天乐新片骂了33秒脏话",
+      "onboard_time": 1692281688,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1497024,
       "num": 780025,
       "word": "日本推出性同意APP",
@@ -233,14 +249,6 @@
       "onboard_time": 1692255159,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1095634,
-      "num": 1095634,
-      "word": "古天乐新片骂了33秒脏话",
-      "onboard_time": 1692281688,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1094606,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 820596,
+      "num": 421530,
+      "word": "终于知道为什么医院的空调打那么低了",
+      "onboard_time": 1692280788,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 819691,
       "num": 456484,
       "word": "2岁幼童被父亲从楼上扔下致死",
@@ -377,14 +393,6 @@
       "onboard_time": 1692266140,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 804270,
-      "num": 421530,
-      "word": "终于知道为什么医院的空调打那么低了",
-      "onboard_time": 1692280788,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 790202,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741124,
+      "num": 348972,
+      "word": "刘雨昕迪丽热巴同框旧照",
+      "onboard_time": 1692282892,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 707435,
       "num": 2554645,
       "word": "2元炒菜哥称给我千千万也不在乎",
@@ -425,6 +441,14 @@
       "onboard_time": 1692258822,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 703933,
+      "num": 703933,
+      "word": "电影志愿军致歉声明",
+      "onboard_time": 1692281388,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 700974,
@@ -473,6 +497,14 @@
       "onboard_time": 1692250897,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 693626,
+      "num": 395938,
+      "word": "妈妈在欧洲患上了厕所焦虑症",
+      "onboard_time": 1692281388,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 681370,
@@ -611,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 601352,
-      "num": 601352,
-      "word": "电影志愿军致歉声明",
-      "onboard_time": 1692281388,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 595981,
       "num": 595981,
       "word": "玱玹想把涂山璟的婚礼变葬礼",
@@ -649,14 +673,6 @@
       "onboard_time": 1692233799,
       "rank": 24,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 571334,
-      "num": 395938,
-      "word": "妈妈在欧洲患上了厕所焦虑症",
-      "onboard_time": 1692281388,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 566854,
@@ -691,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556893,
+      "num": 556893,
+      "word": "张智霖你害怕吗",
+      "onboard_time": 1692282109,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 545511,
       "num": 545511,
       "word": "阿斯巴甜换名字了",
@@ -712,6 +736,14 @@
       "word": "莲花楼第二季剧本有了",
       "onboard_time": 1692197501,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 539337,
+      "num": 539337,
+      "word": "相柳听到毛球叫邶的反应",
+      "onboard_time": 1692281928,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1115,14 +1147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 393435,
-      "num": 393435,
-      "word": "张智霖你害怕吗",
-      "onboard_time": 1692282109,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 392534,
       "num": 392534,
       "word": "防风邶拿的酒瓶是小六的吗",
@@ -1179,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373078,
+      "num": 274601,
+      "word": "安宥真剪头了",
+      "onboard_time": 1692284323,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370233,
       "num": 277311,
       "word": "养老院回应男性护工长期猥亵90多岁老人",
@@ -1193,6 +1225,14 @@
       "onboard_time": 1692268360,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367685,
+      "num": 273626,
+      "word": "张远披荆斩棘撞衫高贵妃和猪八戒",
+      "onboard_time": 1692282411,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 367165,
@@ -1251,12 +1291,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350558,
+      "num": 266124,
+      "word": "芭比是戳到日本大叔痛点了吗",
+      "onboard_time": 1692284386,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349509,
       "num": 306101,
       "word": "我的考研搭子是奶奶",
       "onboard_time": 1692255278,
       "rank": 22,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 348927,
+      "num": 272516,
+      "word": "丁禹兮杨超越直播",
+      "onboard_time": 1692285046,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 346292,
@@ -1377,6 +1433,14 @@
       "onboard_time": 1692187776,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312637,
+      "num": 312637,
+      "word": "广东人为什么喜欢用不锈钢",
+      "onboard_time": 1692281388,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 310538,
@@ -1513,14 +1577,6 @@
       "onboard_time": 1692238116,
       "rank": 32,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 286438,
-      "num": 286438,
-      "word": "广东人为什么喜欢用不锈钢",
-      "onboard_time": 1692281388,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 283095,
@@ -1707,12 +1763,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 252280,
-      "num": 252280,
-      "word": "相柳听到毛球叫邶的反应",
-      "onboard_time": 1692281928,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 252367,
+      "num": 252367,
+      "word": "榜一大姐直接上台打赏了",
+      "onboard_time": 1692282411,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 250913,
@@ -2011,22 +2067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207745,
-      "num": 207745,
-      "word": "榜一大姐直接上台打赏了",
-      "onboard_time": 1692282411,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 207261,
-      "num": 207261,
-      "word": "张远披荆斩棘撞衫高贵妃和猪八戒",
-      "onboard_time": 1692282411,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206763,
       "num": 224438,
       "word": "我和云工作只差一个望远镜",
@@ -2123,6 +2163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202713,
+      "num": 215327,
+      "word": "王鹤棣不会扭脖子",
+      "onboard_time": 1692284444,
+      "rank": 43,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 202078,
+      "num": 269218,
+      "word": "丫丫学会了萌兰的竹子打包技术",
+      "onboard_time": 1692284089,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201876,
       "num": 201876,
       "word": "警方回应2岁幼童被父亲扔下楼致死",
@@ -2140,7 +2196,7 @@
     },
     {
       "raw_hot": 200715,
-      "num": 207258,
+      "num": 215312,
       "word": "2023暑期档票房中国影史同期第一名",
       "onboard_time": 1692282229,
       "rank": 43,
@@ -2217,6 +2273,22 @@
       "onboard_time": 1692271719,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 197563,
+      "num": 215317,
+      "word": "吴昕短发的N种花样",
+      "onboard_time": 1692285167,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 197560,
+      "num": 243350,
+      "word": "陌生人的隔空投送有多离谱",
+      "onboard_time": 1692284507,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 193217,
@@ -2332,7 +2404,7 @@
     },
     {
       "raw_hot": 188356,
-      "num": 207188,
+      "num": 215275,
       "word": "WBG首日积分第一",
       "onboard_time": 1692282528,
       "rank": 48,
@@ -2449,6 +2521,14 @@
       "onboard_time": 1692200795,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 175691,
+      "num": 215298,
+      "word": "外国小伙被非遗打铁花圈粉现场拜师",
+      "onboard_time": 1692284147,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171650,
@@ -2707,6 +2787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104316,
+      "num": 215293,
+      "word": "夏日减脂外卖吃什么",
+      "onboard_time": 1692284866,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 103656,
       "num": 113486,
       "word": "tangoz曾因酒驾被当做典型案例",
@@ -2855,6 +2943,14 @@
       "num": 396100,
       "word": "八旬老人手写信致谢公交驾驶员",
       "onboard_time": 1692259242,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44806,
+      "num": 344600,
+      "word": "重庆三对双胞胎考上北大",
+      "onboard_time": 1692284507,
       "rank": 14,
       "category": "社会新闻"
     },
