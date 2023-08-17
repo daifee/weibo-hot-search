@@ -1,6 +1,6 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692253250344,
+  "endTime": 1692254036413,
   "band_list": [
     {
       "raw_hot": 2301522,
@@ -35,8 +35,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1941939,
-      "num": 732213,
+      "raw_hot": 1975158,
+      "num": 867784,
       "word": "陈立农diss宝石老舅",
       "onboard_time": 1692250777,
       "rank": 3,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1627944,
-      "num": 673632,
+      "num": 836614,
       "word": "谢娜吴昕维嘉群名",
       "onboard_time": 1692248500,
       "rank": 6,
@@ -115,8 +115,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1223541,
-      "num": 1223541,
+      "raw_hot": 1244805,
+      "num": 1244805,
       "word": "12306回应母亲带病儿买三张票",
       "onboard_time": 1692248740,
       "rank": 33,
@@ -153,6 +153,14 @@
       "onboard_time": 1692245616,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 990279,
+      "num": 990279,
+      "word": "曝七时吉祥抄袭秦时明月",
+      "onboard_time": 1692252634,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 977219,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 863040,
-      "num": 558262,
+      "num": 739972,
       "word": "调查显示我国终身单身人群极少",
       "onboard_time": 1692249219,
       "rank": 49,
@@ -379,14 +387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 541274,
-      "num": 541274,
-      "word": "曝七时吉祥抄袭秦时明月",
-      "onboard_time": 1692252634,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 533573,
       "num": 533573,
       "word": "药企一年花费3200亿用于销售",
@@ -435,20 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496130,
+      "num": 496130,
+      "word": "阿念一句话喊醒小夭",
+      "onboard_time": 1692250478,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 496060,
       "num": 496060,
       "word": "敦煌警察每年从沙漠挖百部手机",
       "onboard_time": 1692228629,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 491791,
-      "num": 491791,
-      "word": "阿念一句话喊醒小夭",
-      "onboard_time": 1692250478,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 468204,
@@ -609,6 +609,14 @@
       "onboard_time": 1692246460,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 378071,
+      "num": 378071,
+      "word": "唐禹哲非过没丑过",
+      "onboard_time": 1692253237,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 375246,
@@ -1011,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241905,
+      "num": 241905,
+      "word": "曾舜晞曾演过熊出没",
+      "onboard_time": 1692252277,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241173,
       "num": 241173,
       "word": "封神海报 自来水的亿把火",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1692232540,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233703,
-      "num": 184856,
-      "word": "曾舜晞曾演过熊出没",
-      "onboard_time": 1692252277,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 229838,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1692241653,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203545,
+      "num": 203545,
+      "word": "国产生可乐vs日本生可乐",
+      "onboard_time": 1692253237,
+      "rank": 48,
+      "category": "其它"
     },
     {
       "raw_hot": 203006,
@@ -1332,7 +1348,7 @@
     },
     {
       "raw_hot": 183327,
-      "num": 179849,
+      "num": 203524,
       "word": "莲花楼收官战报",
       "onboard_time": 1692250897,
       "rank": 37,
@@ -1361,14 +1377,6 @@
       "onboard_time": 1692227065,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 177971,
-      "num": 177971,
-      "word": "唐禹哲非过没丑过",
-      "onboard_time": 1692253237,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 175923,
@@ -1459,8 +1467,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149764,
-      "num": 178519,
+      "raw_hot": 150754,
+      "num": 203515,
       "word": "博人传2全角色新造型",
       "onboard_time": 1692252634,
       "rank": 39,
@@ -1472,6 +1480,14 @@
       "word": "3条高铁新线即将开通",
       "onboard_time": 1692246762,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147372,
+      "num": 203501,
+      "word": "2元炒菜哥称不想成为拉面哥",
+      "onboard_time": 1692252098,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1491,11 +1507,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 133556,
-      "num": 157786,
-      "word": "2元炒菜哥称不想成为拉面哥",
-      "onboard_time": 1692252098,
-      "rank": 46,
+      "raw_hot": 135896,
+      "num": 203495,
+      "word": "上海冰雹",
+      "onboard_time": 1692253714,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1508,7 +1524,7 @@
     },
     {
       "raw_hot": 129134,
-      "num": 157516,
+      "num": 203490,
       "word": "广西北海侨港浴场暂停涉水活动",
       "onboard_time": 1692251016,
       "rank": 47,
@@ -1529,14 +1545,6 @@
       "onboard_time": 1692196601,
       "rank": 14,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 118519,
-      "num": 157372,
-      "word": "国产生可乐vs日本生可乐",
-      "onboard_time": 1692253237,
-      "rank": 48,
-      "category": "其它"
     },
     {
       "raw_hot": 118355,
