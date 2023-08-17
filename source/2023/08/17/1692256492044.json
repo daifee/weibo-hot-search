@@ -1,0 +1,410 @@
+{
+  "runTime": 1692256492044,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1563419,
+        "num": 1563419,
+        "word": "曝七时吉祥抄袭秦时明月",
+        "onboard_time": 1692252634,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 739592,
+        "num": 739592,
+        "word": "12306回应母亲带病儿买三张票",
+        "onboard_time": 1692248740,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129285,
+        "num": 658805,
+        "word": "3条高铁新线即将开通",
+        "onboard_time": 1692246762,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1630171,
+        "num": 639765,
+        "word": "陈立农diss宝石老舅",
+        "onboard_time": 1692250777,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 799684,
+        "num": 614411,
+        "word": "谢娜吴昕维嘉群名",
+        "onboard_time": 1692248500,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585094,
+        "num": 585094,
+        "word": "电影志愿军回应海报争议",
+        "onboard_time": 1692255698,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524162,
+        "num": 524162,
+        "word": "老头乐刮蹭450万法拉利被索赔190元",
+        "onboard_time": 1692245378,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521767,
+        "num": 521767,
+        "word": "唐禹哲非过没丑过",
+        "onboard_time": 1692253237,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 507369,
+        "num": 507369,
+        "word": "超市招聘牛肉试吃员需一天吃10斤",
+        "onboard_time": 1692250416,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495346,
+        "num": 495346,
+        "word": "鸡蛋一天最多让吃几个",
+        "onboard_time": 1692254196,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697451,
+        "num": 494438,
+        "word": "创造营在张远微博团建了",
+        "onboard_time": 1692254677,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569652,
+        "num": 494336,
+        "word": "赵露思港风短发",
+        "onboard_time": 1692249815,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 492703,
+        "num": 492703,
+        "word": "TangoZ再发文回应",
+        "onboard_time": 1692240698,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231653,
+        "num": 391232,
+        "word": "原来焯水不是简单煮一下",
+        "onboard_time": 1692234697,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 37608,
+        "num": 390584,
+        "word": "被姥姥养大的男孩从倒一逆袭上大学",
+        "onboard_time": 1692255698,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166786,
+        "num": 390147,
+        "word": "减脂期可以喝奶茶吗",
+        "onboard_time": 1692254795,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390123,
+        "num": 390123,
+        "word": "调查显示我国终身单身人群极少",
+        "onboard_time": 1692249219,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376545,
+        "num": 376545,
+        "word": "王耀庆的朋友圈",
+        "onboard_time": 1692250897,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328006,
+        "num": 328006,
+        "word": "阿念一句话喊醒小夭",
+        "onboard_time": 1692250478,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322104,
+        "num": 322104,
+        "word": "超级小桀",
+        "onboard_time": 1692248141,
+        "rank": 19,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 463077,
+        "num": 316956,
+        "word": "48岁男教师搂抱28岁家长监控曝光",
+        "onboard_time": 1692255761,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431173,
+        "num": 310172,
+        "word": "孕妇地铁上挤到大妈被骂是猪",
+        "onboard_time": 1692254257,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349509,
+        "num": 306101,
+        "word": "我的考研搭子是奶奶",
+        "onboard_time": 1692255278,
+        "rank": 22,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 299247,
+        "num": 299247,
+        "word": "张文宏被造谣妻子是医药代表",
+        "onboard_time": 1692255159,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270365,
+        "num": 270365,
+        "word": "林志颖参加披荆斩棘的原因",
+        "onboard_time": 1692242013,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260333,
+        "num": 260333,
+        "word": "杜海涛秒变直角肩",
+        "onboard_time": 1692247062,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250913,
+        "num": 250913,
+        "word": "国产生可乐vs日本生可乐",
+        "onboard_time": 1692253237,
+        "rank": 26,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 250576,
+        "num": 250576,
+        "word": "居然有徐良",
+        "onboard_time": 1692245616,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242478,
+        "num": 242478,
+        "word": "王丽坤又演恶女了吗",
+        "onboard_time": 1692255040,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226818,
+        "num": 226818,
+        "word": "姚晨胡先煦吻戏",
+        "onboard_time": 1692242194,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216235,
+        "num": 216235,
+        "word": "判决书上网致被性侵少女信息泄露",
+        "onboard_time": 1692247961,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210176,
+        "num": 210176,
+        "word": "上海冰雹",
+        "onboard_time": 1692253714,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206109,
+        "num": 206109,
+        "word": "当你生了个蚊子过敏的女儿",
+        "onboard_time": 1692239555,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198979,
+        "num": 198979,
+        "word": "疑似相柳小时候珍贵影像流出",
+        "onboard_time": 1692256120,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197086,
+        "num": 197086,
+        "word": "志愿军",
+        "onboard_time": 1692250539,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194772,
+        "num": 194772,
+        "word": "静夜眼里的夭玹璟柳",
+        "onboard_time": 1692251498,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205849,
+        "num": 194451,
+        "word": "披荆斩棘3全阵容官宣",
+        "onboard_time": 1692238774,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194147,
+        "num": 194147,
+        "word": "北海一浴场突发不明鱼类伤人事件",
+        "onboard_time": 1692231094,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193715,
+        "num": 193715,
+        "word": "阿斯巴甜换名字了",
+        "onboard_time": 1692244778,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182582,
+        "num": 182582,
+        "word": "Lisa上了ins富豪榜",
+        "onboard_time": 1692236794,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170937,
+        "num": 170937,
+        "word": "曾舜晞曾演过熊出没",
+        "onboard_time": 1692252277,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169569,
+        "num": 169569,
+        "word": "孤注一掷鸣谢名单有张颂文",
+        "onboard_time": 1692256241,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155852,
+        "num": 155852,
+        "word": "第一次感受到什么叫大湾区",
+        "onboard_time": 1692246460,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142074,
+        "num": 142074,
+        "word": "女子买3个座位被无座大爷骂哭",
+        "onboard_time": 1692245616,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142015,
+        "num": 142015,
+        "word": "林俊杰北京",
+        "onboard_time": 1692249937,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140735,
+        "num": 140735,
+        "word": "莲花楼收官战报",
+        "onboard_time": 1692250897,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137142,
+        "num": 137142,
+        "word": "杨紫请承欢记剧组喝奶茶",
+        "onboard_time": 1692245920,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129292,
+        "num": 129292,
+        "word": "A股",
+        "onboard_time": 1692237335,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114537,
+        "num": 123955,
+        "word": "初乳是什么",
+        "onboard_time": 1692237274,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40381,
+        "num": 123047,
+        "word": "村BA中国行",
+        "onboard_time": 1692255761,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写新时代生态文明建设新篇章#"
+    }
+  }
+}

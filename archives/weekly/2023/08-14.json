@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692254036413,
+  "endTime": 1692256492044,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -505,6 +505,14 @@
       "onboard_time": 1691986059,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1563419,
+      "num": 1563419,
+      "word": "曝七时吉祥抄袭秦时明月",
+      "onboard_time": 1692252634,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1552185,
@@ -1195,14 +1203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 990279,
-      "num": 990279,
-      "word": "曝七时吉祥抄袭秦时明月",
-      "onboard_time": 1692252634,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 982169,
       "num": 781056,
       "word": "周杰伦 送上大家一张三宝爸的帅照",
@@ -1292,7 +1292,7 @@
     },
     {
       "raw_hot": 933328,
-      "num": 487178,
+      "num": 494336,
       "word": "赵露思港风短发",
       "onboard_time": 1692249815,
       "rank": 18,
@@ -1947,6 +1947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 697451,
+      "num": 494438,
+      "word": "创造营在张远微博团建了",
+      "onboard_time": 1692254677,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696951,
       "num": 696951,
       "word": "小米平板",
@@ -2491,6 +2499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 585094,
+      "num": 585094,
+      "word": "电影志愿军回应海报争议",
+      "onboard_time": 1692255698,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 584758,
       "num": 333996,
       "word": "吸肚子和收核心的区别",
@@ -2963,6 +2979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521767,
+      "num": 521767,
+      "word": "唐禹哲非过没丑过",
+      "onboard_time": 1692253237,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 518448,
       "num": 325051,
       "word": "男子多次猥亵强奸亲生女儿被判刑17年",
@@ -3219,6 +3243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 495346,
+      "num": 495346,
+      "word": "鸡蛋一天最多让吃几个",
+      "onboard_time": 1692254196,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495232,
       "num": 495232,
       "word": "孙红雷评价张艺兴已成一方霸主",
@@ -3449,6 +3481,14 @@
       "onboard_time": 1692194500,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 463077,
+      "num": 316956,
+      "word": "48岁男教师搂抱28岁家长监控曝光",
+      "onboard_time": 1692255761,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462584,
@@ -3785,6 +3825,14 @@
       "onboard_time": 1691982996,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 431173,
+      "num": 310172,
+      "word": "孕妇地铁上挤到大妈被骂是猪",
+      "onboard_time": 1692254257,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431138,
@@ -4411,14 +4459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 378071,
-      "num": 378071,
-      "word": "唐禹哲非过没丑过",
-      "onboard_time": 1692253237,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 378033,
       "num": 304903,
       "word": "有没有可能白鹿就是在拍戏",
@@ -4721,6 +4761,14 @@
       "onboard_time": 1692179978,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 349509,
+      "num": 306101,
+      "word": "我的考研搭子是奶奶",
+      "onboard_time": 1692255278,
+      "rank": 22,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 348590,
@@ -5385,6 +5433,14 @@
       "onboard_time": 1691996794,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299247,
+      "num": 299247,
+      "word": "张文宏被造谣妻子是医药代表",
+      "onboard_time": 1692255159,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299181,
@@ -6539,6 +6595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250913,
+      "num": 250913,
+      "word": "国产生可乐vs日本生可乐",
+      "onboard_time": 1692253237,
+      "rank": 48,
+      "category": "其它"
+    },
+    {
       "raw_hot": 250659,
       "num": 250659,
       "word": "小狐疯狂上分",
@@ -6729,6 +6793,14 @@
       "onboard_time": 1692176919,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242478,
+      "num": 242478,
+      "word": "王丽坤又演恶女了吗",
+      "onboard_time": 1692255040,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 242009,
@@ -7395,6 +7467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210176,
+      "num": 210176,
+      "word": "上海冰雹",
+      "onboard_time": 1692253714,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209982,
       "num": 209982,
       "word": "广东人有自己的防晒方式",
@@ -7601,14 +7681,6 @@
       "onboard_time": 1692173678,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 203545,
-      "num": 203545,
-      "word": "国产生可乐vs日本生可乐",
-      "onboard_time": 1692253237,
-      "rank": 48,
-      "category": "其它"
     },
     {
       "raw_hot": 203274,
@@ -7841,6 +7913,14 @@
       "onboard_time": 1692248141,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198979,
+      "num": 198979,
+      "word": "疑似相柳小时候珍贵影像流出",
+      "onboard_time": 1692256120,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 198881,
@@ -8643,6 +8723,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 169569,
+      "num": 169569,
+      "word": "孤注一掷鸣谢名单有张颂文",
+      "onboard_time": 1692256241,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169383,
       "num": 169383,
       "word": "全家凑不出一个正常人",
@@ -8697,6 +8785,14 @@
       "onboard_time": 1692031407,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166786,
+      "num": 390147,
+      "word": "减脂期可以喝奶茶吗",
+      "onboard_time": 1692254795,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166102,
@@ -9105,14 +9201,6 @@
       "onboard_time": 1692030809,
       "rank": 39,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 135896,
-      "num": 203495,
-      "word": "上海冰雹",
-      "onboard_time": 1692253714,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135299,
@@ -9787,6 +9875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40381,
+      "num": 123047,
+      "word": "村BA中国行",
+      "onboard_time": 1692255761,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39783,
       "num": 39783,
       "word": "看着十分满足的切蛋糕大赏",
@@ -9807,6 +9903,14 @@
       "num": 506369,
       "word": "民警火场内徒手抢出泄漏液化气罐",
       "onboard_time": 1692248441,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37608,
+      "num": 390584,
+      "word": "被姥姥养大的男孩从倒一逆袭上大学",
+      "onboard_time": 1692255698,
       "rank": 14,
       "category": "社会新闻"
     },
