@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692311625432,
+  "endTime": 1692314166711,
   "band_list": [
     {
       "raw_hot": 6798828,
@@ -131,20 +131,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352866,
+      "num": 352866,
+      "word": "初中设的自动回复忘记取消了",
+      "onboard_time": 1692276582,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 342605,
       "num": 389760,
       "word": "教育机构要求老师穿长裤的原因",
       "onboard_time": 1692269920,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 312314,
-      "num": 312314,
-      "word": "初中设的自动回复忘记取消了",
-      "onboard_time": 1692276582,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 307251,
@@ -251,6 +251,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208918,
+      "num": 208918,
+      "word": "我不是药神白血病少年扮演者入院捐髓",
+      "onboard_time": 1692304574,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206993,
+      "num": 351707,
+      "word": "男孩ATM机上捡现金反复向监控示意",
+      "onboard_time": 1692277960,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205974,
       "num": 205974,
       "word": "代号鸢七夕语音萌晕",
@@ -299,12 +315,28 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 166702,
+      "num": 166702,
+      "word": "男子挂号因没听清楚被工作人员怼",
+      "onboard_time": 1692313282,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165028,
       "num": 156493,
       "word": "2023暑期四大TOP",
       "onboard_time": 1692292584,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163519,
+      "num": 103423,
+      "word": "恒大在美国申请破产保护",
+      "onboard_time": 1692313886,
+      "rank": 30,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 162883,
@@ -321,14 +353,6 @@
       "onboard_time": 1692274837,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156094,
-      "num": 351707,
-      "word": "男孩ATM机上捡现金反复向监控示意",
-      "onboard_time": 1692277960,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150303,
@@ -353,6 +377,14 @@
       "onboard_time": 1692290669,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137227,
+      "num": 137227,
+      "word": "费翔 皮囊之下我们都是一样的",
+      "onboard_time": 1692298397,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 135778,
@@ -403,12 +435,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103877,
+      "num": 103877,
+      "word": "爸爸车祸昏迷7岁女儿变身小小顶梁柱",
+      "onboard_time": 1692313282,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101384,
+      "num": 101384,
+      "word": "石凯新歌Romance",
+      "onboard_time": 1692313585,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 100171,
+      "num": 156288,
+      "word": "猫德学院抓到狮子猫",
+      "onboard_time": 1692278681,
+      "rank": 44,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 89741,
       "num": 183793,
       "word": "重庆三对双胞胎考上北大",
       "onboard_time": 1692284507,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88601,
+      "num": 95602,
+      "word": "刘德华说刘嘉玲是梁朝伟i人",
+      "onboard_time": 1692271176,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 85915,
@@ -427,28 +491,52 @@
       "category": "影视"
     },
     {
-      "raw_hot": 83597,
-      "num": 113358,
-      "word": "费翔 皮囊之下我们都是一样的",
-      "onboard_time": 1692298397,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 78443,
+      "num": 95550,
+      "word": "咖啡变成了我舍不得喝的样子",
+      "onboard_time": 1692313345,
+      "rank": 38,
+      "category": "美食"
     },
     {
-      "raw_hot": 76781,
-      "num": 156288,
-      "word": "猫德学院抓到狮子猫",
-      "onboard_time": 1692278681,
-      "rank": 44,
-      "category": "社会新闻,网红"
+      "raw_hot": 74403,
+      "num": 95351,
+      "word": "EDG八强赛对阵EG",
+      "onboard_time": 1692313645,
+      "rank": 42,
+      "category": "游戏"
     },
     {
-      "raw_hot": 49478,
-      "num": 49478,
+      "raw_hot": 73916,
+      "num": 95317,
       "word": "得了80块已经觉得这是破天的富贵了",
       "onboard_time": 1692305234,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67906,
+      "num": 95239,
+      "word": "黑胡椒和白胡椒有什么区别",
+      "onboard_time": 1692305293,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 66342,
+      "num": 109921,
+      "word": "长时间滞缅重点地区会入黑名单",
+      "onboard_time": 1692297257,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60959,
+      "num": 95088,
+      "word": "无畏契约洛杉矶全球冠军赛",
+      "onboard_time": 1692313824,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 48699,
@@ -457,30 +545,6 @@
       "onboard_time": 1692272739,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 48012,
-      "num": 48012,
-      "word": "黑胡椒和白胡椒有什么区别",
-      "onboard_time": 1692305293,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 39307,
-      "num": 47475,
-      "word": "我不是药神白血病少年扮演者入院捐髓",
-      "onboard_time": 1692304574,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33654,
-      "num": 109921,
-      "word": "长时间滞缅重点地区会入黑名单",
-      "onboard_time": 1692297257,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27933,
@@ -499,7 +563,7 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 6748,
+      "raw_hot": 7047,
       "num": 580368,
       "word": "这些灾后恢复的画面辛苦又感动",
       "onboard_time": 1692246400,
