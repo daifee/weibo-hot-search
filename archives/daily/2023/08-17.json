@@ -1,6 +1,6 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692246871151,
+  "endTime": 1692249319664,
   "band_list": [
     {
       "raw_hot": 2301522,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2299259,
-      "num": 461744,
+      "num": 493984,
       "word": "TangoZ再发文回应",
       "onboard_time": 1692240698,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2088917,
-      "num": 475876,
+      "num": 535484,
       "word": "姚晨胡先煦吻戏",
       "onboard_time": 1692242194,
       "rank": 14,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1997120,
-      "num": 506443,
+      "num": 527649,
       "word": "清华毕业半年被裁员",
       "onboard_time": 1692234877,
       "rank": 30,
@@ -49,6 +49,14 @@
       "onboard_time": 1692200795,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1855620,
+      "num": 1140837,
+      "word": "老头乐刮蹭450万法拉利被索赔190元",
+      "onboard_time": 1692245378,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1834294,
@@ -91,14 +99,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1140837,
-      "num": 1140837,
-      "word": "老头乐刮蹭450万法拉利被索赔190元",
-      "onboard_time": 1692245378,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1135083,
       "num": 1047205,
       "word": "Lisa上了ins富豪榜",
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 1119255,
-      "num": 465642,
+      "num": 512062,
       "word": "居然有徐良",
       "onboard_time": 1692245616,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1037944,
+      "num": 719959,
+      "word": "女子买3个座位被无座大爷骂哭",
+      "onboard_time": 1692245616,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 977219,
@@ -129,6 +137,14 @@
       "onboard_time": 1692193901,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 941770,
+      "num": 524177,
+      "word": "杜海涛秒变直角肩",
+      "onboard_time": 1692247062,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 924892,
@@ -147,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 882793,
+      "num": 659179,
+      "word": "谢娜吴昕维嘉群名",
+      "onboard_time": 1692248500,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 841696,
       "num": 841696,
       "word": "小区解聘物业70岁爷爷无偿当管家",
@@ -160,14 +184,6 @@
       "word": "2岁幼童被父亲从楼上扔下致死",
       "onboard_time": 1692192874,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 717917,
-      "num": 451409,
-      "word": "女子买3个座位被无座大爷骂哭",
-      "onboard_time": 1692245616,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -187,6 +203,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 657128,
+      "num": 486291,
+      "word": "超级小桀",
+      "onboard_time": 1692248141,
+      "rank": 17,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 656305,
+      "num": 656305,
+      "word": "李莲花相柳 两个惨蛋的相互救赎",
+      "onboard_time": 1692245319,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 656146,
       "num": 656146,
       "word": "奶奶接法国来电10岁乖孙帮转账",
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 640757,
-      "num": 425560,
+      "num": 450477,
       "word": "当你生了个蚊子过敏的女儿",
       "onboard_time": 1692239555,
       "rank": 23,
@@ -283,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545358,
+      "num": 545358,
+      "word": "阿斯巴甜换名字了",
+      "onboard_time": 1692244778,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 543433,
       "num": 543433,
       "word": "莲花楼第二季剧本有了",
@@ -321,14 +361,6 @@
       "onboard_time": 1692235716,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 504739,
-      "num": 504739,
-      "word": "李莲花相柳 两个惨蛋的相互救赎",
-      "onboard_time": 1692245319,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 496315,
@@ -395,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442492,
+      "num": 442492,
+      "word": "杨紫请承欢记剧组喝奶茶",
+      "onboard_time": 1692245920,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431172,
       "num": 431172,
       "word": "Angelababy张大大绝交视频",
@@ -427,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415151,
-      "num": 415151,
-      "word": "阿斯巴甜换名字了",
-      "onboard_time": 1692244778,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 417402,
+      "num": 544498,
+      "word": "高启盛也去披荆斩棘了",
+      "onboard_time": 1692247362,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 414276,
@@ -499,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383935,
+      "num": 383935,
+      "word": "第一次感受到什么叫大湾区",
+      "onboard_time": 1692246460,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 375246,
       "num": 375246,
       "word": "姜子牙2D片头动画美疯了",
@@ -515,12 +563,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 366262,
-      "num": 328790,
-      "word": "杨紫请承欢记剧组喝奶茶",
-      "onboard_time": 1692245920,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 364875,
+      "num": 376189,
+      "word": "判决书上网致被性侵少女信息泄露",
+      "onboard_time": 1692247961,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363859,
@@ -529,6 +577,14 @@
       "onboard_time": 1692230735,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355476,
+      "num": 269635,
+      "word": "披荆斩棘",
+      "onboard_time": 1692248861,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 346292,
@@ -691,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289784,
+      "num": 266024,
+      "word": "中国警方官方在线给成毅辟谣",
+      "onboard_time": 1692246581,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287197,
       "num": 270339,
       "word": "如果你年纪轻轻就懂得贪图享乐",
@@ -739,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270216,
-      "num": 277944,
-      "word": "第一次感受到什么叫大湾区",
-      "onboard_time": 1692246460,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 269908,
       "num": 162911,
       "word": "长安三万里被指与历史严重不符",
@@ -769,6 +825,22 @@
       "onboard_time": 1692234040,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266679,
+      "num": 253227,
+      "word": "谢娜陈乔恩友谊的小船要翻了",
+      "onboard_time": 1692247178,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264174,
+      "num": 264174,
+      "word": "12306回应母亲带病儿买三张票",
+      "onboard_time": 1692248740,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257705,
@@ -843,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239406,
+      "num": 239406,
+      "word": "张杰试着用竹编一个鸟巢",
+      "onboard_time": 1692245982,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 238725,
       "num": 238725,
       "word": "严艺丹为李莲花加写了人世太匆忙",
@@ -857,14 +937,6 @@
       "onboard_time": 1692237155,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236611,
-      "num": 236611,
-      "word": "中国警方官方在线给成毅辟谣",
-      "onboard_time": 1692246581,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 235592,
@@ -899,12 +971,52 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 228738,
+      "num": 215170,
+      "word": "谢娜羽毛吊带裙",
+      "onboard_time": 1692248861,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222284,
+      "num": 215162,
+      "word": "上帝视角看小夭涂山璟",
+      "onboard_time": 1692246822,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218980,
       "num": 218980,
       "word": "成都4只退役搜救犬征集领养人",
       "onboard_time": 1692232839,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215177,
+      "num": 215177,
+      "word": "铁路部门对泰安站通报批评",
+      "onboard_time": 1692247782,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215143,
+      "num": 215143,
+      "word": "郑嘉颖叫叶祖新十弟",
+      "onboard_time": 1692249162,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215048,
+      "num": 215048,
+      "word": "李荣浩天津",
+      "onboard_time": 1692248682,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 214411,
@@ -929,14 +1041,6 @@
       "onboard_time": 1692191018,
       "rank": 32,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 209134,
-      "num": 209134,
-      "word": "张杰试着用竹编一个鸟巢",
-      "onboard_time": 1692245982,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 206253,
@@ -995,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200411,
+      "num": 200411,
+      "word": "广西北海一浴场暂停涉水活动",
+      "onboard_time": 1692248798,
+      "rank": 45,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 199912,
       "num": 199912,
       "word": "电影我经过风暴今日上映",
@@ -1003,12 +1115,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199355,
-      "num": 199355,
-      "word": "上帝视角看小夭涂山璟",
-      "onboard_time": 1692246822,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 199001,
+      "num": 199001,
+      "word": "无期迷途瑟琳审查",
+      "onboard_time": 1692248141,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 193217,
@@ -1219,12 +1331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143061,
+      "num": 880541,
+      "word": "3条高铁新线即将开通",
+      "onboard_time": 1692246762,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142072,
       "num": 142072,
       "word": "白鹿白色镂空吊带裙",
       "onboard_time": 1692203609,
       "rank": 28,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 141998,
+      "num": 198970,
+      "word": "调查显示我国终身单身人群极少",
+      "onboard_time": 1692249219,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141114,
@@ -1371,6 +1499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 52798,
+      "num": 475233,
+      "word": "张含韵蘑菇摇摆舞",
+      "onboard_time": 1692247239,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51453,
       "num": 51453,
       "word": "黄子韬好黏马伯骞",
@@ -1411,20 +1547,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 15892,
+      "num": 506369,
+      "word": "民警火场内徒手抢出泄漏液化气罐",
+      "onboard_time": 1692248441,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11443,
       "num": 1096474,
       "word": "亚运会游泳跳水田径门票今起实时销售",
       "onboard_time": 1692155435,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6531,
-      "num": 880541,
-      "word": "3条高铁新线即将开通",
-      "onboard_time": 1692246762,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1692249319664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 998031,
+        "num": 998031,
+        "word": "原来焯水不是简单煮一下",
+        "onboard_time": 1692234697,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 779537,
+        "num": 779537,
+        "word": "披荆斩棘3全阵容官宣",
+        "onboard_time": 1692238774,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143061,
+        "num": 771831,
+        "word": "3条高铁新线即将开通",
+        "onboard_time": 1692246762,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1855620,
+        "num": 737631,
+        "word": "老头乐刮蹭450万法拉利被索赔190元",
+        "onboard_time": 1692245378,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037944,
+        "num": 719959,
+        "word": "女子买3个座位被无座大爷骂哭",
+        "onboard_time": 1692245616,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919949,
+        "num": 690373,
+        "word": "林志颖参加披荆斩棘的原因",
+        "onboard_time": 1692242013,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 882793,
+        "num": 659179,
+        "word": "谢娜吴昕维嘉群名",
+        "onboard_time": 1692248500,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656305,
+        "num": 656305,
+        "word": "李莲花相柳 两个惨蛋的相互救赎",
+        "onboard_time": 1692245319,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545358,
+        "num": 545358,
+        "word": "阿斯巴甜换名字了",
+        "onboard_time": 1692244778,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 417402,
+        "num": 544498,
+        "word": "高启盛也去披荆斩棘了",
+        "onboard_time": 1692247362,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1251425,
+        "num": 535484,
+        "word": "姚晨胡先煦吻戏",
+        "onboard_time": 1692242194,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1170221,
+        "num": 527649,
+        "word": "清华毕业半年被裁员",
+        "onboard_time": 1692234877,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 941770,
+        "num": 524177,
+        "word": "杜海涛秒变直角肩",
+        "onboard_time": 1692247062,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 886751,
+        "num": 512062,
+        "word": "居然有徐良",
+        "onboard_time": 1692245616,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15892,
+        "num": 506369,
+        "word": "民警火场内徒手抢出泄漏液化气罐",
+        "onboard_time": 1692248441,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416995,
+        "num": 497514,
+        "word": "孤注一掷东南亚上映",
+        "onboard_time": 1692240875,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 745439,
+        "num": 493984,
+        "word": "TangoZ再发文回应",
+        "onboard_time": 1692240698,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657128,
+        "num": 486291,
+        "word": "超级小桀",
+        "onboard_time": 1692248141,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 52798,
+        "num": 475233,
+        "word": "张含韵蘑菇摇摆舞",
+        "onboard_time": 1692247239,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439215,
+        "num": 468235,
+        "word": "北海一浴场突发不明鱼类伤人事件",
+        "onboard_time": 1692231094,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467942,
+        "num": 467942,
+        "word": "Lisa上了ins富豪榜",
+        "onboard_time": 1692236794,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450477,
+        "num": 450477,
+        "word": "当你生了个蚊子过敏的女儿",
+        "onboard_time": 1692239555,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 442492,
+        "num": 442492,
+        "word": "杨紫请承欢记剧组喝奶茶",
+        "onboard_time": 1692245920,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383935,
+        "num": 383935,
+        "word": "第一次感受到什么叫大湾区",
+        "onboard_time": 1692246460,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364875,
+        "num": 376189,
+        "word": "判决书上网致被性侵少女信息泄露",
+        "onboard_time": 1692247961,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372924,
+        "num": 372924,
+        "word": "玱玹想把涂山璟的婚礼变葬礼",
+        "onboard_time": 1692234457,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367594,
+        "num": 367594,
+        "word": "钟楚曦张云龙芭莎情侣大片",
+        "onboard_time": 1692243213,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 302741,
+        "num": 302741,
+        "word": "收到这种快递要小心了",
+        "onboard_time": 1692239972,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282138,
+        "num": 282138,
+        "word": "给没到27岁的人一个浪漫建议",
+        "onboard_time": 1692233317,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270691,
+        "num": 270691,
+        "word": "小区解聘物业70岁爷爷无偿当管家",
+        "onboard_time": 1692231573,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355476,
+        "num": 269635,
+        "word": "披荆斩棘",
+        "onboard_time": 1692248861,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315281,
+        "num": 267579,
+        "word": "乔家的儿女全员录ID祝开播两周年",
+        "onboard_time": 1692245197,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289784,
+        "num": 266024,
+        "word": "中国警方官方在线给成毅辟谣",
+        "onboard_time": 1692246581,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264174,
+        "num": 264174,
+        "word": "12306回应母亲带病儿买三张票",
+        "onboard_time": 1692248740,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257944,
+        "num": 257944,
+        "word": "初乳是什么",
+        "onboard_time": 1692237274,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266679,
+        "num": 253227,
+        "word": "谢娜陈乔恩友谊的小船要翻了",
+        "onboard_time": 1692247178,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247216,
+        "num": 247216,
+        "word": "不小心被压成饼的兔兔",
+        "onboard_time": 1692245257,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239406,
+        "num": 239406,
+        "word": "张杰试着用竹编一个鸟巢",
+        "onboard_time": 1692245982,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225411,
+        "num": 225411,
+        "word": "广州现大量残破玩偶呼吁保护动物",
+        "onboard_time": 1692244356,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215177,
+        "num": 215177,
+        "word": "铁路部门对泰安站通报批评",
+        "onboard_time": 1692247782,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228738,
+        "num": 215170,
+        "word": "谢娜羽毛吊带裙",
+        "onboard_time": 1692248861,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222284,
+        "num": 215162,
+        "word": "上帝视角看小夭涂山璟",
+        "onboard_time": 1692246822,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215143,
+        "num": 215143,
+        "word": "郑嘉颖叫叶祖新十弟",
+        "onboard_time": 1692249162,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215048,
+        "num": 215048,
+        "word": "李荣浩天津",
+        "onboard_time": 1692248682,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201059,
+        "num": 201059,
+        "word": "为什么去旅游的人越来越多了",
+        "onboard_time": 1692236794,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 200411,
+        "num": 200411,
+        "word": "广西北海一浴场暂停涉水活动",
+        "onboard_time": 1692248798,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 199001,
+        "num": 199001,
+        "word": "无期迷途瑟琳审查",
+        "onboard_time": 1692248141,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193575,
+        "num": 199001,
+        "word": "你想涩涩他想骗骗",
+        "onboard_time": 1692235716,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179799,
+        "num": 198984,
+        "word": "A股",
+        "onboard_time": 1692237335,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141998,
+        "num": 198970,
+        "word": "调查显示我国终身单身人群极少",
+        "onboard_time": 1692249219,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从生物多样性中感受自然之美#"
+    }
+  }
+}
