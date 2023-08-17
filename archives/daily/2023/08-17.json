@@ -1,7 +1,23 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692228816989,
+  "endTime": 1692234451442,
   "band_list": [
+    {
+      "raw_hot": 2185386,
+      "num": 2185386,
+      "word": "北海一浴场突发不明鱼类伤人事件",
+      "onboard_time": 1692231094,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1917556,
+      "num": 930915,
+      "word": "李雪琴 不要相信爱情要相信人格",
+      "onboard_time": 1692231335,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1900252,
       "num": 1900252,
@@ -19,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1134514,
+      "num": 483011,
+      "word": "她叫艺术家不叫明星",
+      "onboard_time": 1692227604,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 977219,
       "num": 977219,
       "word": "你的微信和微博是俩人在运营吗",
@@ -27,12 +51,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 924892,
+      "num": 924892,
+      "word": "泰缅边境诈骗窝点有员工超2万",
+      "onboard_time": 1692230072,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819691,
       "num": 456484,
       "word": "2岁幼童被父亲从楼上扔下致死",
       "onboard_time": 1692192874,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766418,
+      "num": 766418,
+      "word": "小区解聘物业70岁爷爷无偿当管家",
+      "onboard_time": 1692231573,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 696264,
+      "num": 696264,
+      "word": "大学生毕业补贴",
+      "onboard_time": 1692227001,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 656146,
@@ -51,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620521,
+      "num": 482070,
+      "word": "广西北海",
+      "onboard_time": 1692228809,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604880,
       "num": 604880,
       "word": "心动6女二吃了男一给女一的早餐",
@@ -65,6 +121,14 @@
       "onboard_time": 1692194081,
       "rank": 6,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 559760,
+      "num": 559760,
+      "word": "许家印被传离婚",
+      "onboard_time": 1692232179,
+      "rank": 8,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 543433,
@@ -91,12 +155,44 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 496060,
+      "num": 496060,
+      "word": "敦煌警察每年从沙漠挖百部手机",
+      "onboard_time": 1692228629,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465194,
+      "num": 465194,
+      "word": "内娱天选校园剧女主",
+      "onboard_time": 1692230315,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 461706,
+      "num": 461706,
+      "word": "你永远不知道堵车时第一辆车在干嘛",
+      "onboard_time": 1692229712,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 453883,
       "num": 453883,
       "word": "教小孩最好的方法就是夫妻聊天",
       "onboard_time": 1692199959,
       "rank": 15,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 445272,
+      "num": 445272,
+      "word": "给没到27岁的人一个浪漫建议",
+      "onboard_time": 1692233317,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 444521,
@@ -123,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 430641,
+      "num": 430641,
+      "word": "赛博哭坟涂山璟",
+      "onboard_time": 1692232301,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423846,
       "num": 423846,
       "word": "涂山璟 什么都抓不住了",
@@ -132,11 +236,35 @@
     },
     {
       "raw_hot": 411796,
-      "num": 296204,
+      "num": 361569,
       "word": "为什么现在住酒店退房不查房了",
       "onboard_time": 1692192997,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 404656,
+      "num": 404656,
+      "word": "爱宝双胞胎一个i熊一个e熊",
+      "onboard_time": 1692231757,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392534,
+      "num": 392534,
+      "word": "防风邶拿的酒瓶是小六的吗",
+      "onboard_time": 1692228629,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 391963,
+      "num": 446539,
+      "word": "警察叔叔我们捡到一个小妹妹",
+      "onboard_time": 1692231573,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391874,
@@ -147,20 +275,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352921,
-      "num": 312516,
-      "word": "她叫艺术家不叫明星",
-      "onboard_time": 1692227604,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 363859,
+      "num": 363859,
+      "word": "电诈团伙盯上儿童手表",
+      "onboard_time": 1692230735,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346292,
-      "num": 294611,
+      "num": 302081,
       "word": "突然找到上班的意义",
       "onboard_time": 1692199839,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 338409,
+      "num": 338409,
+      "word": "姜子牙2D片头动画美疯了",
+      "onboard_time": 1692231217,
+      "rank": 23,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 333764,
@@ -179,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333155,
+      "num": 333155,
+      "word": "如果你是爱豆 不小心暴露在恋爱",
+      "onboard_time": 1692233799,
+      "rank": 24,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 331442,
       "num": 331442,
       "word": "在鸭血上发现的红唇",
@@ -187,12 +331,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 331070,
-      "num": 153210,
-      "word": "大学生毕业补贴",
-      "onboard_time": 1692227001,
-      "rank": 31,
-      "category": "教育"
+      "raw_hot": 317881,
+      "num": 317881,
+      "word": "虎头蜂咬死蜜蜂霸占养殖箱伤人畜",
+      "onboard_time": 1692232899,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315358,
@@ -201,6 +345,22 @@
       "onboard_time": 1692187776,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314237,
+      "num": 314237,
+      "word": "西安一大学生失联疑被骗至缅甸",
+      "onboard_time": 1692229651,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310538,
+      "num": 310538,
+      "word": "恒大地产收到证监会立案告知书",
+      "onboard_time": 1692232959,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296841,
@@ -251,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255711,
+      "num": 255711,
+      "word": "阿念开启姐宝女生活",
+      "onboard_time": 1692233377,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253901,
       "num": 253901,
       "word": "拔了全口牙齿是什么体验",
@@ -275,6 +443,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246337,
+      "num": 246337,
+      "word": "视觉中国",
+      "onboard_time": 1692233377,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243029,
+      "num": 243029,
+      "word": "姑娘抢到50万大额存单有人拿600万赶来",
+      "onboard_time": 1692234218,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241173,
       "num": 241173,
       "word": "封神海报 自来水的亿把火",
@@ -291,12 +475,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235592,
+      "num": 235592,
+      "word": "丁程鑫张真源摸严浩翔腹肌",
+      "onboard_time": 1692232540,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229838,
       "num": 229838,
       "word": "八一七稻米节",
       "onboard_time": 1692228148,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 229161,
+      "num": 229161,
+      "word": "作者写作过程中发癫行为",
+      "onboard_time": 1692231513,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 225910,
+      "num": 225910,
+      "word": "WBG赛后语音",
+      "onboard_time": 1692234040,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 223985,
+      "num": 223985,
+      "word": "大英博物馆部分黄金珠宝被盗",
+      "onboard_time": 1692233859,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218980,
+      "num": 218980,
+      "word": "成都4只退役搜救犬征集领养人",
+      "onboard_time": 1692232839,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214411,
@@ -435,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168585,
+      "num": 168585,
+      "word": "IU毛线帽齐刘海",
+      "onboard_time": 1692211035,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 167041,
       "num": 167041,
       "word": "所以梁祝的故事是真的",
@@ -499,36 +731,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 120732,
-      "num": 120732,
-      "word": "IU毛线帽齐刘海",
-      "onboard_time": 1692211035,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 118355,
       "num": 118355,
       "word": "自从提了离职整个人开始放飞自我",
       "onboard_time": 1692210737,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 117049,
-      "num": 117049,
-      "word": "防风邶拿的酒瓶是小六的吗",
-      "onboard_time": 1692228629,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 113667,
-      "num": 113667,
-      "word": "敦煌警察每年从沙漠挖百部手机",
-      "onboard_time": 1692228629,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108803,
@@ -667,7 +875,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 6523,
+      "raw_hot": 11443,
       "num": 1079619,
       "word": "亚运会游泳跳水田径门票今起实时销售",
       "onboard_time": 1692155435,
