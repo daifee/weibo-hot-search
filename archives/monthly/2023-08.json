@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692289271013,
+  "endTime": 1692290216587,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2755,6 +2755,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 1655964,
+      "num": 1655964,
+      "word": "衡水中学校长称已注意到网红要打衡中",
+      "onboard_time": 1692286306,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1655873,
       "num": 1655873,
       "word": "菏泽地震",
@@ -3233,14 +3241,6 @@
       "onboard_time": 1691474318,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1526654,
-      "num": 1526654,
-      "word": "衡水中学校长称已注意到网红要打衡中",
-      "onboard_time": 1692286306,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1525248,
@@ -28803,6 +28803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279288,
+      "num": 242453,
+      "word": "上海平价Omakase餐厅",
+      "onboard_time": 1692287504,
+      "rank": 30,
+      "category": "美食,时尚"
+    },
+    {
       "raw_hot": 279236,
       "num": 279236,
       "word": "TFBOYS",
@@ -29132,7 +29140,7 @@
     },
     {
       "raw_hot": 274737,
-      "num": 244665,
+      "num": 259901,
       "word": "张艺兴感谢被申奥导演坚定选择",
       "onboard_time": 1692287321,
       "rank": 25,
@@ -31249,14 +31257,6 @@
       "onboard_time": 1691453917,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248831,
-      "num": 242453,
-      "word": "上海平价Omakase餐厅",
-      "onboard_time": 1692287504,
-      "rank": 30,
-      "category": "美食,时尚"
     },
     {
       "raw_hot": 248815,
@@ -35244,7 +35244,7 @@
     },
     {
       "raw_hot": 208833,
-      "num": 208833,
+      "num": 241914,
       "word": "快速切到别的APP冷静下来再回去看小说",
       "onboard_time": 1692285588,
       "rank": 37,
@@ -43497,6 +43497,14 @@
       "onboard_time": 1691954235,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94080,
+      "num": 177476,
+      "word": "难怪你俩会成为情侣",
+      "onboard_time": 1692289891,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 93587,
