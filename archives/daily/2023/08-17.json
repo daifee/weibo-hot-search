@@ -1,6 +1,6 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692242194224,
+  "endTime": 1692243239435,
   "band_list": [
     {
       "raw_hot": 2301522,
@@ -43,12 +43,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1661039,
-      "num": 1661039,
+      "raw_hot": 1834294,
+      "num": 1834294,
       "word": "披荆斩棘3全阵容官宣",
       "onboard_time": 1692238774,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1755525,
+      "num": 348138,
+      "word": "林志颖参加披荆斩棘的原因",
+      "onboard_time": 1692242013,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1594185,
+      "num": 338225,
+      "word": "姚晨胡先煦吻戏",
+      "onboard_time": 1692242194,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 1332588,
@@ -107,19 +123,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 841696,
+      "num": 841696,
+      "word": "小区解聘物业70岁爷爷无偿当管家",
+      "onboard_time": 1692231573,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819691,
       "num": 456484,
       "word": "2岁幼童被父亲从楼上扔下致死",
       "onboard_time": 1692192874,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 773646,
-      "num": 773646,
-      "word": "小区解聘物业70岁爷爷无偿当管家",
-      "onboard_time": 1692231573,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640757,
+      "num": 304865,
+      "word": "当你生了个蚊子过敏的女儿",
+      "onboard_time": 1692239555,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 635914,
       "num": 635914,
       "word": "缅北失联20岁男生解救过程",
@@ -163,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 609136,
-      "num": 275991,
-      "word": "当你生了个蚊子过敏的女儿",
-      "onboard_time": 1692239555,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 614962,
+      "num": 614962,
+      "word": "收到这种快递要小心了",
+      "onboard_time": 1692239972,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 604880,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 533168,
-      "num": 273272,
+      "num": 442143,
       "word": "孤注一掷东南亚上映",
       "onboard_time": 1692240875,
       "rank": 21,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 507866,
-      "num": 273199,
+      "num": 293395,
       "word": "你想涩涩他想骗骗",
       "onboard_time": 1692235716,
       "rank": 30,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 447662,
-      "num": 269517,
+      "num": 303918,
       "word": "初乳是什么",
       "onboard_time": 1692237274,
       "rank": 40,
@@ -371,14 +395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 405158,
-      "num": 405158,
-      "word": "收到这种快递要小心了",
-      "onboard_time": 1692239972,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 404656,
       "num": 404656,
       "word": "爱宝双胞胎一个i熊一个e熊",
@@ -425,14 +441,6 @@
       "onboard_time": 1692236794,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 364789,
-      "num": 246686,
-      "word": "林志颖参加披荆斩棘的原因",
-      "onboard_time": 1692242013,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 363859,
@@ -524,10 +532,18 @@
     },
     {
       "raw_hot": 297420,
-      "num": 267216,
+      "num": 268809,
       "word": "蒲熠星发博说有人自林中坠落",
       "onboard_time": 1692238954,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 296878,
+      "num": 296878,
+      "word": "TangoZ说包厢内没有监控",
+      "onboard_time": 1692241534,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 294096,
-      "num": 261899,
+      "num": 265147,
       "word": "外国女友要给6旬大爷寄80万美元",
       "onboard_time": 1692240032,
       "rank": 25,
@@ -584,6 +600,22 @@
       "word": "没想到家有儿女里也有海底捞",
       "onboard_time": 1692190958,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271643,
+      "num": 271643,
+      "word": "95后女生用竹子编手机壳",
+      "onboard_time": 1692242134,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269908,
+      "num": 162911,
+      "word": "长安三万里被指与历史严重不符",
+      "onboard_time": 1692242373,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -803,6 +835,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199912,
+      "num": 199912,
+      "word": "电影我经过风暴今日上映",
+      "onboard_time": 1692243213,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197951,
+      "num": 197951,
+      "word": "钟楚曦张云龙芭莎情侣大片",
+      "onboard_time": 1692243213,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193217,
       "num": 193217,
       "word": "成毅 少抱怨多做事",
@@ -816,6 +864,14 @@
       "word": "小夭失恋了",
       "onboard_time": 1692236494,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191322,
+      "num": 191322,
+      "word": "胡先煦周也新片i人e人恋爱",
+      "onboard_time": 1692242914,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -833,6 +889,14 @@
       "onboard_time": 1692200136,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188085,
+      "num": 188085,
+      "word": "以前还在嘲笑它现在报应来了",
+      "onboard_time": 1692241414,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 187862,
@@ -864,6 +928,14 @@
       "word": "内娱打戏仙品",
       "onboard_time": 1692203370,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184890,
+      "num": 184890,
+      "word": "小夭外爷是红楼梦第一美男",
+      "onboard_time": 1692243036,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -899,14 +971,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 172843,
-      "num": 172843,
-      "word": "以前还在嘲笑它现在报应来了",
-      "onboard_time": 1692241414,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171179,
       "num": 171179,
       "word": "曼城夺得欧洲超级杯冠军",
@@ -939,28 +1003,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163453,
-      "num": 163453,
-      "word": "TangoZ说包厢内没有监控",
-      "onboard_time": 1692241534,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161461,
       "num": 161461,
       "word": "新手想减肥有救了",
       "onboard_time": 1692205105,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160622,
-      "num": 160622,
-      "word": "95后女生用竹子编手机壳",
-      "onboard_time": 1692242134,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158973,
@@ -977,6 +1025,14 @@
       "onboard_time": 1692240760,
       "rank": 49,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 156314,
+      "num": 156314,
+      "word": "遇到神仙买家",
+      "onboard_time": 1692243097,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 151128,
@@ -1027,6 +1083,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 120448,
+      "num": 321913,
+      "word": "三人行必有省钱之道",
+      "onboard_time": 1692240813,
+      "rank": 16,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 118355,
       "num": 118355,
       "word": "自从提了离职整个人开始放飞自我",
@@ -1073,14 +1137,6 @@
       "onboard_time": 1692198820,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97212,
-      "num": 309188,
-      "word": "三人行必有省钱之道",
-      "onboard_time": 1692240813,
-      "rank": 16,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 96446,
