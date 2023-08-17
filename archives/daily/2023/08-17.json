@@ -1,21 +1,21 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692279222077,
+  "endTime": 1692281693852,
   "band_list": [
+    {
+      "raw_hot": 11321818,
+      "num": 8044702,
+      "word": "李玟生前控诉中国好声音录音曝光",
+      "onboard_time": 1692278623,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 8687096,
       "num": 468384,
       "word": "李玟",
       "onboard_time": 1692276880,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 8044702,
-      "num": 8044702,
-      "word": "李玟生前控诉中国好声音录音曝光",
-      "onboard_time": 1692278623,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 941650,
+      "num": 384222,
+      "word": "马来西亚坠机已致10人死亡",
+      "onboard_time": 1692278501,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 933328,
       "num": 494336,
       "word": "赵露思港风短发",
@@ -475,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 667281,
+      "num": 667281,
+      "word": "火树直播",
+      "onboard_time": 1692277361,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665523,
       "num": 503537,
       "word": "A股",
@@ -497,14 +513,6 @@
       "onboard_time": 1692197618,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 654192,
-      "num": 654192,
-      "word": "火树直播",
-      "onboard_time": 1692277361,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 646860,
@@ -683,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 515576,
+      "num": 366635,
+      "word": "胡兵这身材不愧是首席超模",
+      "onboard_time": 1692279889,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 512879,
       "num": 435722,
       "word": "成毅经纪公司声明",
@@ -747,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496030,
+      "num": 496030,
+      "word": "火老师体面人",
+      "onboard_time": 1692279467,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 487547,
       "num": 298713,
       "word": "内娱很会吐血的男明星",
@@ -771,20 +795,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 473464,
+      "num": 288476,
+      "word": "终于知道为什么医院的空调打那么低了",
+      "onboard_time": 1692280788,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 468204,
       "num": 468204,
       "word": "内娱天选校园剧女主",
       "onboard_time": 1692230315,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 462173,
-      "num": 384222,
-      "word": "马来西亚坠机已致10人死亡",
-      "onboard_time": 1692278501,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 461706,
@@ -841,6 +865,14 @@
       "onboard_time": 1692237274,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 446381,
+      "num": 446381,
+      "word": "被裤腰带勒出了荨麻疹",
+      "onboard_time": 1692279289,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 444521,
@@ -913,6 +945,14 @@
       "onboard_time": 1692196961,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 421738,
+      "num": 365613,
+      "word": "初中设的自动回复忘记取消了",
+      "onboard_time": 1692276582,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 420740,
@@ -1019,20 +1059,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399303,
+      "num": 323451,
+      "word": "SM新男团发型",
+      "onboard_time": 1692278806,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 398675,
       "num": 361453,
       "word": "疑似相柳小时候珍贵影像流出",
       "onboard_time": 1692256120,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 393832,
-      "num": 250918,
-      "word": "初中设的自动回复忘记取消了",
-      "onboard_time": 1692276582,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 392534,
@@ -1177,6 +1217,14 @@
       "onboard_time": 1692199839,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 346127,
+      "num": 346127,
+      "word": "于适给黄旭熙拍照旧图",
+      "onboard_time": 1692280728,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341508,
@@ -1419,6 +1467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 289429,
+      "num": 289429,
+      "word": "电影志愿军致歉声明",
+      "onboard_time": 1692281388,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287197,
       "num": 270339,
       "word": "如果你年纪轻轻就懂得贪图享乐",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1692250539,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283032,
+      "num": 390618,
+      "word": "男孩ATM机上捡现金反复向监控示意",
+      "onboard_time": 1692277960,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281722,
@@ -1499,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272877,
+      "num": 272877,
+      "word": "少帮主",
+      "onboard_time": 1692281270,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271475,
       "num": 384600,
       "word": "在职场千万要警惕讨好感",
@@ -1561,6 +1633,14 @@
       "onboard_time": 1692251498,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259357,
+      "num": 259357,
+      "word": "妈妈在欧洲患上了厕所焦虑症",
+      "onboard_time": 1692281388,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 257705,
@@ -1739,6 +1819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 233059,
+      "num": 233059,
+      "word": "广东人为什么喜欢用不锈钢",
+      "onboard_time": 1692281388,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229838,
       "num": 229838,
       "word": "八一七稻米节",
@@ -1771,20 +1859,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225408,
-      "num": 390618,
-      "word": "男孩ATM机上捡现金反复向监控示意",
-      "onboard_time": 1692277960,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 226158,
+      "num": 226158,
+      "word": "odi",
+      "onboard_time": 1692278986,
+      "rank": 39,
+      "category": "艺人"
     },
     {
-      "raw_hot": 224265,
-      "num": 224265,
-      "word": "SM新男团发型",
-      "onboard_time": 1692278806,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 224483,
+      "num": 224483,
+      "word": "猫德学院抓到狮子猫",
+      "onboard_time": 1692278681,
+      "rank": 40,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 222284,
@@ -1939,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205446,
+      "num": 205446,
+      "word": "杭州值得一逛的古街古巷",
+      "onboard_time": 1692281085,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 205352,
       "num": 214097,
       "word": "我上网不是为了来生气的",
@@ -2075,14 +2171,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 194978,
-      "num": 209221,
-      "word": "odi",
-      "onboard_time": 1692278986,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193217,
       "num": 193217,
       "word": "成毅 少抱怨多做事",
@@ -2113,14 +2201,6 @@
       "onboard_time": 1692271058,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 191753,
-      "num": 209219,
-      "word": "猫德学院抓到狮子猫",
-      "onboard_time": 1692278681,
-      "rank": 40,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 191434,
@@ -2313,6 +2393,14 @@
       "onboard_time": 1692200795,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 171650,
+      "num": 195308,
+      "word": "LGD满编吃鸡",
+      "onboard_time": 1692281447,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 171179,
@@ -2745,6 +2833,14 @@
       "onboard_time": 1692212237,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 23662,
+      "num": 371708,
+      "word": "男子骑电瓶车未戴头盔交警抱音响提醒",
+      "onboard_time": 1692280906,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21552,

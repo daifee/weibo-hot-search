@@ -1,7 +1,15 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692279222077,
+  "endTime": 1692281693852,
   "band_list": [
+    {
+      "raw_hot": 11321818,
+      "num": 8044702,
+      "word": "李玟生前控诉中国好声音录音曝光",
+      "onboard_time": 1692278623,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 10375516,
       "num": 10375516,
@@ -16,14 +24,6 @@
       "word": "李玟",
       "onboard_time": 1692276880,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 8044702,
-      "num": 8044702,
-      "word": "李玟生前控诉中国好声音录音曝光",
-      "onboard_time": 1692278623,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -1395,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 941650,
+      "num": 384222,
+      "word": "马来西亚坠机已致10人死亡",
+      "onboard_time": 1692278501,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 933328,
       "num": 494336,
       "word": "赵露思港风短发",
@@ -2283,6 +2291,14 @@
       "category": "影视,游戏"
     },
     {
+      "raw_hot": 667281,
+      "num": 667281,
+      "word": "火树直播",
+      "onboard_time": 1692277361,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665923,
       "num": 665923,
       "word": "弟弟中暑我妈给他做的绿豆汤",
@@ -2353,14 +2369,6 @@
       "onboard_time": 1692245319,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 654192,
-      "num": 654192,
-      "word": "火树直播",
-      "onboard_time": 1692277361,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 653439,
@@ -3283,6 +3291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 515576,
+      "num": 366635,
+      "word": "胡兵这身材不愧是首席超模",
+      "onboard_time": 1692279889,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515562,
       "num": 515562,
       "word": "世界上最大的兔子",
@@ -3507,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496030,
+      "num": 496030,
+      "word": "火老师体面人",
+      "onboard_time": 1692279467,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 495531,
       "num": 571549,
       "word": "夭柳悲剧就是没有如果",
@@ -3675,6 +3699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473464,
+      "num": 288476,
+      "word": "终于知道为什么医院的空调打那么低了",
+      "onboard_time": 1692280788,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 471946,
       "num": 471946,
       "word": "云南地震",
@@ -3785,14 +3817,6 @@
       "onboard_time": 1692107920,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 462173,
-      "num": 384222,
-      "word": "马来西亚坠机已致10人死亡",
-      "onboard_time": 1692278501,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 461996,
@@ -4009,6 +4033,14 @@
       "onboard_time": 1692237274,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 446381,
+      "num": 446381,
+      "word": "被裤腰带勒出了荨麻疹",
+      "onboard_time": 1692279289,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 445797,
@@ -4289,6 +4321,14 @@
       "onboard_time": 1692019660,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 421738,
+      "num": 365613,
+      "word": "初中设的自动回复忘记取消了",
+      "onboard_time": 1692276582,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 420740,
@@ -4595,6 +4635,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 399303,
+      "num": 323451,
+      "word": "SM新男团发型",
+      "onboard_time": 1692278806,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 398675,
       "num": 361453,
       "word": "疑似相柳小时候珍贵影像流出",
@@ -4625,14 +4673,6 @@
       "onboard_time": 1692056008,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 393832,
-      "num": 250918,
-      "word": "初中设的自动回复忘记取消了",
-      "onboard_time": 1692276582,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 393187,
@@ -5249,6 +5289,14 @@
       "onboard_time": 1692199839,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 346127,
+      "num": 346127,
+      "word": "于适给黄旭熙拍照旧图",
+      "onboard_time": 1692280728,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 345560,
@@ -6187,6 +6235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 289429,
+      "num": 289429,
+      "word": "电影志愿军致歉声明",
+      "onboard_time": 1692281388,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289143,
       "num": 289143,
       "word": "答题卡这名字太不吉利",
@@ -6337,6 +6393,14 @@
       "onboard_time": 1692066696,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283032,
+      "num": 390618,
+      "word": "男孩ATM机上捡现金反复向监控示意",
+      "onboard_time": 1692277960,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282813,
@@ -6593,6 +6657,14 @@
       "onboard_time": 1692074262,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272877,
+      "num": 272877,
+      "word": "少帮主",
+      "onboard_time": 1692281270,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 272543,
@@ -6913,6 +6985,14 @@
       "onboard_time": 1692072762,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259357,
+      "num": 259357,
+      "word": "妈妈在欧洲患上了厕所焦虑症",
+      "onboard_time": 1692281388,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 259284,
@@ -7595,6 +7675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233059,
+      "num": 233059,
+      "word": "广东人为什么喜欢用不锈钢",
+      "onboard_time": 1692281388,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232925,
       "num": 232925,
       "word": "我经过风暴",
@@ -7739,18 +7827,18 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226158,
+      "num": 226158,
+      "word": "odi",
+      "onboard_time": 1692278986,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225522,
       "num": 415489,
       "word": "8000年前的陶片留着锅巴",
       "onboard_time": 1692109663,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225408,
-      "num": 390618,
-      "word": "男孩ATM机上捡现金反复向监控示意",
-      "onboard_time": 1692277960,
       "rank": 19,
       "category": "社会新闻"
     },
@@ -7763,12 +7851,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224265,
-      "num": 224265,
-      "word": "SM新男团发型",
-      "onboard_time": 1692278806,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 224483,
+      "num": 224483,
+      "word": "猫德学院抓到狮子猫",
+      "onboard_time": 1692278681,
+      "rank": 40,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 223710,
@@ -8283,6 +8371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205446,
+      "num": 205446,
+      "word": "杭州值得一逛的古街古巷",
+      "onboard_time": 1692281085,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 205352,
       "num": 214097,
       "word": "我上网不是为了来生气的",
@@ -8755,14 +8851,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 194978,
-      "num": 209221,
-      "word": "odi",
-      "onboard_time": 1692278986,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194761,
       "num": 194761,
       "word": "一路朝阳",
@@ -8921,14 +9009,6 @@
       "onboard_time": 1692173919,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191753,
-      "num": 209219,
-      "word": "猫德学院抓到狮子猫",
-      "onboard_time": 1692278681,
-      "rank": 40,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 191645,
@@ -9505,6 +9585,14 @@
       "onboard_time": 1692093339,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 171650,
+      "num": 195308,
+      "word": "LGD满编吃鸡",
+      "onboard_time": 1692281447,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 171268,
@@ -10945,6 +11033,14 @@
       "onboard_time": 1691949979,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23662,
+      "num": 371708,
+      "word": "男子骑电瓶车未戴头盔交警抱音响提醒",
+      "onboard_time": 1692280906,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21746,
