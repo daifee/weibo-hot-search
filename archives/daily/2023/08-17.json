@@ -1,6 +1,6 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692264836981,
+  "endTime": 1692267417124,
   "band_list": [
     {
       "raw_hot": 2301522,
@@ -25,6 +25,14 @@
       "onboard_time": 1692242194,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2037984,
+      "num": 2037984,
+      "word": "考上研究生才敢说的大实话",
+      "onboard_time": 1692265299,
+      "rank": 0,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 1997120,
@@ -91,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1590793,
+      "num": 1590793,
+      "word": "中科院博士被骗至缅甸一年",
+      "onboard_time": 1692266320,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1563419,
       "num": 1563419,
       "word": "曝七时吉祥抄袭秦时明月",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1393024,
-      "num": 584613,
+      "num": 1266835,
       "word": "北海被咬伤者称曾踩到软软的东西",
       "onboard_time": 1692261581,
       "rank": 3,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 700974,
-      "num": 700974,
+      "num": 1694059,
       "word": "丫丫咬着竹子上爬架继续啃",
       "onboard_time": 1692260441,
       "rank": 9,
@@ -337,6 +353,14 @@
       "onboard_time": 1692259842,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 679294,
+      "num": 396705,
+      "word": "没人发现杨紫这么厉害吗",
+      "onboard_time": 1692266140,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 665523,
@@ -475,11 +499,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 544485,
+      "num": 259436,
+      "word": "暑期档第一爆的角色",
+      "onboard_time": 1692265599,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 543433,
       "num": 543433,
       "word": "莲花楼第二季剧本有了",
       "onboard_time": 1692197501,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 536158,
+      "num": 394729,
+      "word": "今年看过最疯批的女人",
+      "onboard_time": 1692266140,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -587,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448497,
+      "num": 448497,
+      "word": "男子骚扰前任119和110都上门了",
+      "onboard_time": 1692264522,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447662,
       "num": 303918,
       "word": "初乳是什么",
@@ -652,7 +700,7 @@
     },
     {
       "raw_hot": 425340,
-      "num": 425340,
+      "num": 1425682,
       "word": "丫丫又圆润啦",
       "onboard_time": 1692262841,
       "rank": 13,
@@ -785,6 +833,14 @@
       "onboard_time": 1692262001,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370233,
+      "num": 259224,
+      "word": "养老院回应男性护工长期猥亵90多岁老人",
+      "onboard_time": 1692265299,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366949,
@@ -929,6 +985,14 @@
       "onboard_time": 1692229651,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319891,
+      "num": 216264,
+      "word": "考编失败的警犬还包分配",
+      "onboard_time": 1692265841,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 317881,
@@ -1491,6 +1555,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 200119,
+      "num": 216259,
+      "word": "逆水寒",
+      "onboard_time": 1692266320,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199912,
       "num": 199912,
       "word": "电影我经过风暴今日上映",
@@ -1513,6 +1585,14 @@
       "onboard_time": 1692248141,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195044,
+      "num": 216251,
+      "word": "负面情绪带来的阵痛只有90秒",
+      "onboard_time": 1692266917,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 193217,
@@ -1555,8 +1635,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191172,
+      "num": 216238,
+      "word": "王鹤棣西安之旅vlog",
+      "onboard_time": 1692265900,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191081,
-      "num": 196103,
+      "num": 216213,
       "word": "孟子义三个词预告首唱舞台",
       "onboard_time": 1692262001,
       "rank": 38,
@@ -1843,6 +1931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137206,
+      "num": 216201,
+      "word": "8090后需要一座冒险岛",
+      "onboard_time": 1692263982,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131503,
       "num": 131503,
       "word": "FNC输了",
@@ -1867,28 +1963,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128146,
+      "num": 216142,
+      "word": "崔胜澈回应腿受伤",
+      "onboard_time": 1692264938,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127045,
       "num": 165623,
       "word": "离开你谁还把我当小孩",
       "onboard_time": 1692196243,
       "rank": 47,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 126717,
-      "num": 179946,
-      "word": "男子骚扰前任119和110都上门了",
-      "onboard_time": 1692264522,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123818,
-      "num": 208885,
-      "word": "8090后需要一座冒险岛",
-      "onboard_time": 1692263982,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 120850,
@@ -1952,6 +2040,14 @@
       "word": "宝宝第一次听到呼噜声被吓到起飞",
       "onboard_time": 1692202892,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91868,
+      "num": 869338,
+      "word": "七夕前的成都甜度爆棚",
+      "onboard_time": 1692265841,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -2044,7 +2140,7 @@
     },
     {
       "raw_hot": 41521,
-      "num": 628540,
+      "num": 1626871,
       "word": "这些灾后恢复的画面辛苦又感动",
       "onboard_time": 1692246400,
       "rank": 44,
@@ -2081,6 +2177,14 @@
       "onboard_time": 1692212237,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 30424,
+      "num": 349314,
+      "word": "泡泡玛特乐园门票 天猫",
+      "onboard_time": 1692266439,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 21552,
