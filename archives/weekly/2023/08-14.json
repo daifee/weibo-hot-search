@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692239635628,
+  "endTime": 1692242194224,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -169,6 +169,14 @@
       "onboard_time": 1692231094,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2299259,
+      "num": 370896,
+      "word": "TangoZ再发文回应",
+      "onboard_time": 1692240698,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2286631,
@@ -409,6 +417,14 @@
       "onboard_time": 1691940400,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1661039,
+      "num": 1661039,
+      "word": "披荆斩棘3全阵容官宣",
+      "onboard_time": 1692238774,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1643909,
@@ -1075,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1008223,
-      "num": 1008223,
-      "word": "披荆斩棘3全阵容官宣",
-      "onboard_time": 1692238774,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1005681,
       "num": 1005681,
       "word": "EXO来见中国爱丽了",
@@ -1555,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 773646,
+      "num": 773646,
+      "word": "小区解聘物业70岁爷爷无偿当管家",
+      "onboard_time": 1692231573,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772978,
       "num": 772978,
       "word": "成毅拇指外翻",
@@ -1576,14 +1592,6 @@
       "word": "日本战败投降78周年",
       "onboard_time": 1692054622,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 766418,
-      "num": 766418,
-      "word": "小区解聘物业70岁爷爷无偿当管家",
-      "onboard_time": 1692231573,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -2203,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609136,
+      "num": 275991,
+      "word": "当你生了个蚊子过敏的女儿",
+      "onboard_time": 1692239555,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 608071,
       "num": 608071,
       "word": "六公主 水中贵族",
@@ -2737,6 +2753,14 @@
       "onboard_time": 1692236617,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533168,
+      "num": 273272,
+      "word": "孤注一掷东南亚上映",
+      "onboard_time": 1692240875,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 528718,
@@ -3452,7 +3476,7 @@
     },
     {
       "raw_hot": 447662,
-      "num": 214416,
+      "num": 269517,
       "word": "初乳是什么",
       "onboard_time": 1692237274,
       "rank": 40,
@@ -3849,6 +3873,14 @@
       "onboard_time": 1692161142,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 405158,
+      "num": 405158,
+      "word": "收到这种快递要小心了",
+      "onboard_time": 1692239972,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 404656,
@@ -4305,6 +4337,14 @@
       "onboard_time": 1692195882,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364789,
+      "num": 246686,
+      "word": "林志颖参加披荆斩棘的原因",
+      "onboard_time": 1692242013,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 364688,
@@ -5139,6 +5179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297420,
+      "num": 267216,
+      "word": "蒲熠星发博说有人自林中坠落",
+      "onboard_time": 1692238954,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296841,
       "num": 296841,
       "word": "沈腾接梗太快了",
@@ -5209,6 +5257,14 @@
       "onboard_time": 1692142888,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294096,
+      "num": 261899,
+      "word": "外国女友要给6旬大爷寄80万美元",
+      "onboard_time": 1692240032,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293963,
@@ -5531,14 +5587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277635,
-      "num": 269636,
-      "word": "当你生了个蚊子过敏的女儿",
-      "onboard_time": 1692239555,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 277631,
       "num": 277631,
       "word": "小夭从来不是他们的第一选择",
@@ -5761,14 +5809,6 @@
       "onboard_time": 1692235477,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267216,
-      "num": 267216,
-      "word": "蒲熠星发博说有人自林中坠落",
-      "onboard_time": 1692238954,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 267018,
@@ -6059,6 +6099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254105,
+      "num": 254105,
+      "word": "你多久没给爸爸打电话了",
+      "onboard_time": 1692240275,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253994,
       "num": 253994,
       "word": "夭柳抱上了",
@@ -6225,6 +6273,14 @@
       "onboard_time": 1692086564,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 247136,
+      "num": 247136,
+      "word": "披荆斩棘全员组团出招",
+      "onboard_time": 1692239793,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 246337,
@@ -7107,6 +7163,14 @@
       "category": "情感,动漫"
     },
     {
+      "raw_hot": 204073,
+      "num": 204073,
+      "word": "东方风云榜",
+      "onboard_time": 1692241653,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204044,
       "num": 204044,
       "word": "恩佐全场最佳",
@@ -7145,6 +7209,14 @@
       "onboard_time": 1692058777,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 203006,
+      "num": 203006,
+      "word": "严浩翔回复时代少年团评论",
+      "onboard_time": 1692239555,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 202971,
@@ -7827,6 +7899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185983,
+      "num": 185983,
+      "word": "东方风云榜三十周年阵容官宣",
+      "onboard_time": 1692241114,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185637,
       "num": 185637,
       "word": "雷军称努力不是万能的",
@@ -8051,6 +8131,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 172843,
+      "num": 172843,
+      "word": "以前还在嘲笑它现在报应来了",
+      "onboard_time": 1692241414,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171268,
       "num": 171268,
       "word": "檀健次相柳不卖水产的原因",
@@ -8163,6 +8251,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 163453,
+      "num": 163453,
+      "word": "TangoZ说包厢内没有监控",
+      "onboard_time": 1692241534,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163416,
       "num": 145629,
       "word": "封神主创票房20亿整活",
@@ -8219,6 +8315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160622,
+      "num": 160622,
+      "word": "95后女生用竹子编手机壳",
+      "onboard_time": 1692242134,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160604,
       "num": 160604,
       "word": "社恐体验中最难受的地方",
@@ -8235,12 +8339,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 158973,
+      "num": 165269,
+      "word": "电影金手指全球定档",
+      "onboard_time": 1692240875,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158434,
       "num": 158434,
       "word": "女孩捡瓶子攒的60元捐给韩红基金会",
       "onboard_time": 1692147037,
       "rank": 46,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 158413,
+      "num": 158413,
+      "word": "AlanWalker黄霄雲新歌",
+      "onboard_time": 1692240760,
+      "rank": 49,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 157878,
@@ -8361,14 +8481,6 @@
       "onboard_time": 1691919273,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146262,
-      "num": 146262,
-      "word": "严浩翔回复时代少年团评论",
-      "onboard_time": 1692239555,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 145383,
@@ -8801,6 +8913,14 @@
       "onboard_time": 1692121820,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97212,
+      "num": 309188,
+      "word": "三人行必有省钱之道",
+      "onboard_time": 1692240813,
+      "rank": 16,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 96446,

@@ -1,6 +1,6 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692239635628,
+  "endTime": 1692242194224,
   "band_list": [
     {
       "raw_hot": 2301522,
@@ -9,6 +9,14 @@
       "onboard_time": 1692231094,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2299259,
+      "num": 370896,
+      "word": "TangoZ再发文回应",
+      "onboard_time": 1692240698,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1997120,
@@ -33,6 +41,14 @@
       "onboard_time": 1692200795,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1661039,
+      "num": 1661039,
+      "word": "披荆斩棘3全阵容官宣",
+      "onboard_time": 1692238774,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1332588,
@@ -75,14 +91,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1008223,
-      "num": 1008223,
-      "word": "披荆斩棘3全阵容官宣",
-      "onboard_time": 1692238774,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 977219,
       "num": 977219,
       "word": "你的微信和微博是俩人在运营吗",
@@ -107,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 766418,
-      "num": 766418,
+      "raw_hot": 773646,
+      "num": 773646,
       "word": "小区解聘物业70岁爷爷无偿当管家",
       "onboard_time": 1692231573,
       "rank": 5,
@@ -153,6 +161,14 @@
       "onboard_time": 1692228809,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609136,
+      "num": 275991,
+      "word": "当你生了个蚊子过敏的女儿",
+      "onboard_time": 1692239555,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 604880,
@@ -217,6 +233,14 @@
       "onboard_time": 1692236617,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533168,
+      "num": 273272,
+      "word": "孤注一掷东南亚上映",
+      "onboard_time": 1692240875,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 512879,
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 447662,
-      "num": 214416,
+      "num": 269517,
       "word": "初乳是什么",
       "onboard_time": 1692237274,
       "rank": 40,
@@ -347,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 405158,
+      "num": 405158,
+      "word": "收到这种快递要小心了",
+      "onboard_time": 1692239972,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 404656,
       "num": 404656,
       "word": "爱宝双胞胎一个i熊一个e熊",
@@ -393,6 +425,14 @@
       "onboard_time": 1692236794,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 364789,
+      "num": 246686,
+      "word": "林志颖参加披荆斩棘的原因",
+      "onboard_time": 1692242013,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 363859,
@@ -483,12 +523,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297420,
+      "num": 267216,
+      "word": "蒲熠星发博说有人自林中坠落",
+      "onboard_time": 1692238954,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296841,
       "num": 296841,
       "word": "沈腾接梗太快了",
       "onboard_time": 1692200495,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294096,
+      "num": 261899,
+      "word": "外国女友要给6旬大爷寄80万美元",
+      "onboard_time": 1692240032,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293357,
@@ -531,28 +587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 277635,
-      "num": 269636,
-      "word": "当你生了个蚊子过敏的女儿",
-      "onboard_time": 1692239555,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 267453,
       "num": 267453,
       "word": "辅警夜跑救了个被裸聊诈骗的小伙",
       "onboard_time": 1692235477,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267216,
-      "num": 267216,
-      "word": "蒲熠星发博说有人自林中坠落",
-      "onboard_time": 1692238954,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 266998,
@@ -579,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254105,
+      "num": 254105,
+      "word": "你多久没给爸爸打电话了",
+      "onboard_time": 1692240275,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253901,
       "num": 253901,
       "word": "拔了全口牙齿是什么体验",
@@ -593,6 +641,14 @@
       "onboard_time": 1692200198,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247136,
+      "num": 247136,
+      "word": "披荆斩棘全员组团出招",
+      "onboard_time": 1692239793,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 246918,
@@ -723,6 +779,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204073,
+      "num": 204073,
+      "word": "东方风云榜",
+      "onboard_time": 1692241653,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203006,
+      "num": 203006,
+      "word": "严浩翔回复时代少年团评论",
+      "onboard_time": 1692239555,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201876,
       "num": 201876,
       "word": "警方回应2岁幼童被父亲扔下楼致死",
@@ -779,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185983,
+      "num": 185983,
+      "word": "东方风云榜三十周年阵容官宣",
+      "onboard_time": 1692241114,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185471,
       "num": 185471,
       "word": "内娱打戏仙品",
@@ -819,6 +899,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 172843,
+      "num": 172843,
+      "word": "以前还在嘲笑它现在报应来了",
+      "onboard_time": 1692241414,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171179,
       "num": 171179,
       "word": "曼城夺得欧洲超级杯冠军",
@@ -851,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163453,
+      "num": 163453,
+      "word": "TangoZ说包厢内没有监控",
+      "onboard_time": 1692241534,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161461,
       "num": 161461,
       "word": "新手想减肥有救了",
@@ -859,20 +955,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160622,
+      "num": 160622,
+      "word": "95后女生用竹子编手机壳",
+      "onboard_time": 1692242134,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158973,
+      "num": 165269,
+      "word": "电影金手指全球定档",
+      "onboard_time": 1692240875,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 158413,
+      "num": 158413,
+      "word": "AlanWalker黄霄雲新歌",
+      "onboard_time": 1692240760,
+      "rank": 49,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 151128,
       "num": 240670,
       "word": "翻斗花园小美",
       "onboard_time": 1692191494,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146262,
-      "num": 146262,
-      "word": "严浩翔回复时代少年团评论",
-      "onboard_time": 1692239555,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 142072,
@@ -961,6 +1073,14 @@
       "onboard_time": 1692198820,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97212,
+      "num": 309188,
+      "word": "三人行必有省钱之道",
+      "onboard_time": 1692240813,
+      "rank": 16,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 96446,
@@ -1060,7 +1180,7 @@
     },
     {
       "raw_hot": 11443,
-      "num": 1079619,
+      "num": 1096474,
       "word": "亚运会游泳跳水田径门票今起实时销售",
       "onboard_time": 1692155435,
       "rank": 2,
