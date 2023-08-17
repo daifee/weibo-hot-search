@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692299593833,
+  "endTime": 1692300828232,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -43971,6 +43971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80084,
+      "num": 64062,
+      "word": "费翔 皮囊之下我们都是一样的",
+      "onboard_time": 1692298397,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79992,
       "num": 524289,
       "word": "原神4.0版本更新 林尼",
@@ -44859,14 +44867,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 42302,
-      "num": 42302,
-      "word": "费翔 皮囊之下我们都是一样的",
-      "onboard_time": 1692298397,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42292,
       "num": 75239,
       "word": "HAPPYMARKDAY",
@@ -45049,6 +45049,14 @@
       "onboard_time": 1691691618,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 32194,
+      "num": 43918,
+      "word": "长时间滞缅重点地区会入黑名单",
+      "onboard_time": 1692297257,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31910,
@@ -45313,14 +45321,6 @@
       "onboard_time": 1691693595,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 23903,
-      "num": 39992,
-      "word": "长时间滞缅重点地区会入黑名单",
-      "onboard_time": 1692297257,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23649,
