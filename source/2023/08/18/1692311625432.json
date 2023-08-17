@@ -1,0 +1,410 @@
+{
+  "runTime": 1692311625432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 248256,
+        "num": 338070,
+        "word": "女子凌晨被短信告知航班提前3.5小时起飞",
+        "onboard_time": 1692272376,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149205,
+        "num": 149205,
+        "word": "初中设的自动回复忘记取消了",
+        "onboard_time": 1692276582,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 3018,
+        "num": 140142,
+        "word": "这些灾后恢复的画面辛苦又感动",
+        "onboard_time": 1692246400,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136339,
+        "num": 136339,
+        "word": "古天乐新片骂了33秒脏话",
+        "onboard_time": 1692281688,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136253,
+        "num": 136253,
+        "word": "海底捞在家有儿女里出现也不奇怪",
+        "onboard_time": 1692273459,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1175861,
+        "num": 135557,
+        "word": "中国好声音声明",
+        "onboard_time": 1692284806,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627963,
+        "num": 134227,
+        "word": "衡水中学校长称已注意到网红要打衡中",
+        "onboard_time": 1692286306,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 131478,
+        "num": 131478,
+        "word": "教育机构要求老师穿长裤的原因",
+        "onboard_time": 1692269920,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107717,
+        "num": 107717,
+        "word": "丫丫学会了萌兰的竹子打包技术",
+        "onboard_time": 1692284089,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101160,
+        "num": 101160,
+        "word": "男孩ATM机上捡现金反复向监控示意",
+        "onboard_time": 1692277960,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132193,
+        "num": 97268,
+        "word": "中科院博士被骗至缅甸一年",
+        "onboard_time": 1692266320,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87741,
+        "num": 87741,
+        "word": "被裤腰带勒出了荨麻疹",
+        "onboard_time": 1692279289,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77084,
+        "num": 77084,
+        "word": "上海平价Omakase餐厅",
+        "onboard_time": 1692287504,
+        "rank": 12,
+        "category": "美食,时尚"
+      },
+      {
+        "raw_hot": 75871,
+        "num": 75871,
+        "word": "费翔 皮囊之下我们都是一样的",
+        "onboard_time": 1692298397,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73382,
+        "num": 73382,
+        "word": "芭比是戳到日本大叔痛点了吗",
+        "onboard_time": 1692284386,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69468,
+        "num": 69468,
+        "word": "相柳听到毛球叫邶的反应",
+        "onboard_time": 1692281928,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64758,
+        "num": 64758,
+        "word": "刘雨昕迪丽热巴同框旧照",
+        "onboard_time": 1692282892,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 64241,
+        "num": 64241,
+        "word": "广东人为什么喜欢用不锈钢",
+        "onboard_time": 1692281388,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62431,
+        "num": 62431,
+        "word": "考上研究生才敢说的大实话",
+        "onboard_time": 1692265299,
+        "rank": 18,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 55782,
+        "num": 62354,
+        "word": "丁禹兮杨超越直播",
+        "onboard_time": 1692285046,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436401,
+        "num": 61133,
+        "word": "李玟生前控诉中国好声音录音曝光",
+        "onboard_time": 1692278623,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156654,
+        "num": 60338,
+        "word": "终于知道为什么医院的空调打那么低了",
+        "onboard_time": 1692280788,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145426,
+        "num": 60000,
+        "word": "妈妈在欧洲患上了厕所焦虑症",
+        "onboard_time": 1692281388,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124499,
+        "num": 59533,
+        "word": "李玟",
+        "onboard_time": 1692276880,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95781,
+        "num": 58279,
+        "word": "马来西亚坠机已致10人死亡",
+        "onboard_time": 1692278501,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88823,
+        "num": 57825,
+        "word": "一模一样的小孩为啥要生两个",
+        "onboard_time": 1692285885,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57366,
+        "num": 57366,
+        "word": "爸爸在饭桌上跟亲戚说我不结婚",
+        "onboard_time": 1692274837,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56926,
+        "num": 56926,
+        "word": "和男朋友分手后平分手机",
+        "onboard_time": 1692274658,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52770,
+        "num": 52770,
+        "word": "2023暑期四大TOP",
+        "onboard_time": 1692292584,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49478,
+        "num": 49478,
+        "word": "得了80块已经觉得这是破天的富贵了",
+        "onboard_time": 1692305234,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49404,
+        "num": 49404,
+        "word": "女子坐飞机看到蟑螂趴在窗外",
+        "onboard_time": 1692268360,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48012,
+        "num": 48012,
+        "word": "黑胡椒和白胡椒有什么区别",
+        "onboard_time": 1692305293,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 47495,
+        "num": 47495,
+        "word": "今年看过最疯批的女人",
+        "onboard_time": 1692266140,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45499,
+        "num": 47493,
+        "word": "狗子跳海救落水儿童被呛水去世",
+        "onboard_time": 1692283908,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42827,
+        "num": 47488,
+        "word": "马伯骞回复赵露思芋泥香酥鸭管够",
+        "onboard_time": 1692268660,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41041,
+        "num": 47483,
+        "word": "于适给黄旭熙拍照旧图",
+        "onboard_time": 1692280728,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39913,
+        "num": 47477,
+        "word": "张艺兴感谢被申奥导演坚定选择",
+        "onboard_time": 1692287321,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39307,
+        "num": 47475,
+        "word": "我不是药神白血病少年扮演者入院捐髓",
+        "onboard_time": 1692304574,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37324,
+        "num": 47473,
+        "word": "猫德学院抓到狮子猫",
+        "onboard_time": 1692278681,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 33654,
+        "num": 47466,
+        "word": "长时间滞缅重点地区会入黑名单",
+        "onboard_time": 1692297257,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31872,
+        "num": 47462,
+        "word": "七时吉祥停播一天",
+        "onboard_time": 1692275980,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31676,
+        "num": 47458,
+        "word": "应渊的老婆孩子全归相柳了",
+        "onboard_time": 1692269198,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30730,
+        "num": 47453,
+        "word": "蔡依林穿了壮族服饰",
+        "onboard_time": 1692275980,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30152,
+        "num": 47449,
+        "word": "安宥真剪头了",
+        "onboard_time": 1692284323,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29634,
+        "num": 47446,
+        "word": "刘宪华戴五条项链",
+        "onboard_time": 1692272739,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29228,
+        "num": 47440,
+        "word": "难怪你俩会成为情侣",
+        "onboard_time": 1692289891,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 27933,
+        "num": 47437,
+        "word": "小孩报喜不报忧的原因",
+        "onboard_time": 1692303016,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 27770,
+        "num": 47431,
+        "word": "快速切到别的APP冷静下来再回去看小说",
+        "onboard_time": 1692285588,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26465,
+        "num": 47425,
+        "word": "张智霖你害怕吗",
+        "onboard_time": 1692282109,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23289,
+        "num": 47423,
+        "word": "代号鸢七夕语音萌晕",
+        "onboard_time": 1692288279,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#南海开渔千帆竞发大场面#"
+    }
+  }
+}
