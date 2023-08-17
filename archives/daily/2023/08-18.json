@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692292456262,
+  "endTime": 1692293644994,
   "band_list": [
     {
       "raw_hot": 6798828,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152698,
+      "num": 156493,
+      "word": "2023暑期四大TOP",
+      "onboard_time": 1692292584,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150303,
       "num": 183793,
       "word": "王鹤棣不会扭脖子",
@@ -339,20 +347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138794,
+      "num": 156476,
+      "word": "周杰伦呼和浩特",
+      "onboard_time": 1692290669,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135778,
       "num": 183793,
       "word": "榜一大姐直接上台打赏了",
       "onboard_time": 1692282411,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135663,
-      "num": 135663,
-      "word": "周杰伦呼和浩特",
-      "onboard_time": 1692290669,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 130697,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 83650,
-      "num": 100279,
+      "num": 156299,
       "word": "七时吉祥停播一天",
       "onboard_time": 1692275980,
       "rank": 43,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 76781,
-      "num": 100276,
+      "num": 156288,
       "word": "猫德学院抓到狮子猫",
       "onboard_time": 1692278681,
       "rank": 44,
