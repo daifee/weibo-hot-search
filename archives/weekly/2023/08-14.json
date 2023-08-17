@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692290216587,
+  "endTime": 1692292456262,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -9019,6 +9019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195701,
+      "num": 177476,
+      "word": "难怪你俩会成为情侣",
+      "onboard_time": 1692289891,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 195469,
       "num": 195469,
       "word": "今天是首个全国生态日",
@@ -10697,14 +10705,6 @@
       "onboard_time": 1691954235,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 94080,
-      "num": 177476,
-      "word": "难怪你俩会成为情侣",
-      "onboard_time": 1692289891,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 91868,

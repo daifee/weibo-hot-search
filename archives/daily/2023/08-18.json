@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692290216587,
+  "endTime": 1692292456262,
   "band_list": [
     {
       "raw_hot": 6798828,
@@ -267,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195701,
+      "num": 177476,
+      "word": "难怪你俩会成为情侣",
+      "onboard_time": 1692289891,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 190358,
       "num": 190358,
       "word": "少帮主",
@@ -307,7 +315,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 153831,
+      "raw_hot": 156094,
       "num": 351707,
       "word": "男孩ATM机上捡现金反复向监控示意",
       "onboard_time": 1692277960,
@@ -337,6 +345,14 @@
       "onboard_time": 1692282411,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135663,
+      "num": 135663,
+      "word": "周杰伦呼和浩特",
+      "onboard_time": 1692290669,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 130697,
@@ -379,14 +395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94080,
-      "num": 177476,
-      "word": "难怪你俩会成为情侣",
-      "onboard_time": 1692289891,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 89741,
       "num": 183793,
       "word": "重庆三对双胞胎考上北大",
@@ -401,6 +409,22 @@
       "onboard_time": 1692286185,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83650,
+      "num": 100279,
+      "word": "七时吉祥停播一天",
+      "onboard_time": 1692275980,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 76781,
+      "num": 100276,
+      "word": "猫德学院抓到狮子猫",
+      "onboard_time": 1692278681,
+      "rank": 44,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 6748,
