@@ -1,0 +1,410 @@
+{
+  "runTime": 1692246871151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1447103,
+        "num": 1447103,
+        "word": "原来焯水不是简单煮一下",
+        "onboard_time": 1692234697,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1140837,
+        "num": 1140837,
+        "word": "老头乐刮蹭450万法拉利被索赔190元",
+        "onboard_time": 1692245378,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6531,
+        "num": 880541,
+        "word": "3条高铁新线即将开通",
+        "onboard_time": 1692246762,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1528678,
+        "num": 854347,
+        "word": "林志颖参加披荆斩棘的原因",
+        "onboard_time": 1692242013,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 806658,
+        "num": 806658,
+        "word": "孤注一掷东南亚上映",
+        "onboard_time": 1692240875,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1054693,
+        "num": 701442,
+        "word": "披荆斩棘3全阵容官宣",
+        "onboard_time": 1692238774,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504739,
+        "num": 504739,
+        "word": "李莲花相柳 两个惨蛋的相互救赎",
+        "onboard_time": 1692245319,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487750,
+        "num": 487750,
+        "word": "收到这种快递要小心了",
+        "onboard_time": 1692239972,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 492059,
+        "num": 486481,
+        "word": "玱玹想把涂山璟的婚礼变葬礼",
+        "onboard_time": 1692234457,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478585,
+        "num": 478585,
+        "word": "小区解聘物业70岁爷爷无偿当管家",
+        "onboard_time": 1692231573,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1905468,
+        "num": 475876,
+        "word": "姚晨胡先煦吻戏",
+        "onboard_time": 1692242194,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1765271,
+        "num": 469139,
+        "word": "清华毕业半年被裁员",
+        "onboard_time": 1692234877,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1119255,
+        "num": 465642,
+        "word": "居然有徐良",
+        "onboard_time": 1692245616,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1011511,
+        "num": 461744,
+        "word": "TangoZ再发文回应",
+        "onboard_time": 1692240698,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126954,
+        "num": 455369,
+        "word": "三人行必有省钱之道",
+        "onboard_time": 1692240813,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 717917,
+        "num": 451409,
+        "word": "女子买3个座位被无座大爷骂哭",
+        "onboard_time": 1692245616,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634397,
+        "num": 442029,
+        "word": "Lisa上了ins富豪榜",
+        "onboard_time": 1692236794,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631819,
+        "num": 437038,
+        "word": "北海一浴场突发不明鱼类伤人事件",
+        "onboard_time": 1692231094,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583793,
+        "num": 433070,
+        "word": "钟楚曦张云龙芭莎情侣大片",
+        "onboard_time": 1692243213,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 361900,
+        "num": 426292,
+        "word": "95后女生用竹子编手机壳",
+        "onboard_time": 1692242134,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425560,
+        "num": 425560,
+        "word": "当你生了个蚊子过敏的女儿",
+        "onboard_time": 1692239555,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 415151,
+        "num": 415151,
+        "word": "阿斯巴甜换名字了",
+        "onboard_time": 1692244778,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414276,
+        "num": 414276,
+        "word": "乔家的儿女全员录ID祝开播两周年",
+        "onboard_time": 1692245197,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382976,
+        "num": 382976,
+        "word": "TangoZ说包厢内没有监控",
+        "onboard_time": 1692241534,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342655,
+        "num": 342655,
+        "word": "给没到27岁的人一个浪漫建议",
+        "onboard_time": 1692233317,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366262,
+        "num": 328790,
+        "word": "杨紫请承欢记剧组喝奶茶",
+        "onboard_time": 1692245920,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307642,
+        "num": 307642,
+        "word": "广州现大量残破玩偶呼吁保护动物",
+        "onboard_time": 1692244356,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291166,
+        "num": 291166,
+        "word": "披荆斩棘全员组团出招",
+        "onboard_time": 1692239793,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279433,
+        "num": 279433,
+        "word": "封神剧组高清怼脸拍",
+        "onboard_time": 1692246161,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270216,
+        "num": 277944,
+        "word": "第一次感受到什么叫大湾区",
+        "onboard_time": 1692246460,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328251,
+        "num": 277781,
+        "word": "这漫画非画不可吗",
+        "onboard_time": 1692244958,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 277546,
+        "num": 277546,
+        "word": "不小心被压成饼的兔兔",
+        "onboard_time": 1692245257,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275775,
+        "num": 275775,
+        "word": "小夭外爷是红楼梦第一美男",
+        "onboard_time": 1692243036,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264582,
+        "num": 264582,
+        "word": "初乳是什么",
+        "onboard_time": 1692237274,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273540,
+        "num": 261361,
+        "word": "邓为用外套给工作人员遮阳",
+        "onboard_time": 1692243815,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257768,
+        "num": 257768,
+        "word": "药企一年花费3200亿用于销售",
+        "onboard_time": 1692236617,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236611,
+        "num": 236611,
+        "word": "中国警方官方在线给成毅辟谣",
+        "onboard_time": 1692246581,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235170,
+        "num": 235170,
+        "word": "A股",
+        "onboard_time": 1692237335,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235024,
+        "num": 235024,
+        "word": "为什么去旅游的人越来越多了",
+        "onboard_time": 1692236794,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 229741,
+        "num": 229741,
+        "word": "她的城今日开播",
+        "onboard_time": 1692246644,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226416,
+        "num": 226416,
+        "word": "长安三万里致歉声明",
+        "onboard_time": 1692200795,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220517,
+        "num": 220517,
+        "word": "你想涩涩他想骗骗",
+        "onboard_time": 1692235716,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219314,
+        "num": 219314,
+        "word": "蒋依依敖子逸学院风造型",
+        "onboard_time": 1692244177,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209134,
+        "num": 209134,
+        "word": "张杰试着用竹编一个鸟巢",
+        "onboard_time": 1692245982,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24753,
+        "num": 206123,
+        "word": "这些灾后恢复的画面辛苦又感动",
+        "onboard_time": 1692246400,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204306,
+        "num": 204306,
+        "word": "infp的至暗时刻",
+        "onboard_time": 1692246400,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202137,
+        "num": 202137,
+        "word": "蒲熠星发博说有人自林中坠落",
+        "onboard_time": 1692238954,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201797,
+        "num": 201797,
+        "word": "姜子牙2D片头动画美疯了",
+        "onboard_time": 1692231217,
+        "rank": 47,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 199355,
+        "num": 199355,
+        "word": "上帝视角看小夭涂山璟",
+        "onboard_time": 1692246822,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192426,
+        "num": 192426,
+        "word": "西安一大学生失联疑被骗至缅甸",
+        "onboard_time": 1692229651,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从生物多样性中感受自然之美#"
+    }
+  }
+}
