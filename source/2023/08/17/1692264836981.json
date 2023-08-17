@@ -1,0 +1,410 @@
+{
+  "runTime": 1692264836981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 700974,
+        "num": 700974,
+        "word": "丫丫咬着竹子上爬架继续啃",
+        "onboard_time": 1692260441,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529375,
+        "num": 529375,
+        "word": "曝七时吉祥抄袭秦时明月",
+        "onboard_time": 1692252634,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39058,
+        "num": 516343,
+        "word": "这些灾后恢复的画面辛苦又感动",
+        "onboard_time": 1692246400,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1393024,
+        "num": 496498,
+        "word": "北海被咬伤者称曾踩到软软的东西",
+        "onboard_time": 1692261581,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794798,
+        "num": 467684,
+        "word": "陈立农diss宝石老舅",
+        "onboard_time": 1692250777,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631067,
+        "num": 447918,
+        "word": "徐良初舞台 坏女孩",
+        "onboard_time": 1692259602,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445293,
+        "num": 445293,
+        "word": "鸡蛋一天最多让吃几个",
+        "onboard_time": 1692254196,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515634,
+        "num": 439133,
+        "word": "谢娜吴昕维嘉群名",
+        "onboard_time": 1692248500,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425340,
+        "num": 425340,
+        "word": "丫丫又圆润啦",
+        "onboard_time": 1692262841,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316437,
+        "num": 423258,
+        "word": "超市招聘牛肉试吃员需一天吃10斤",
+        "onboard_time": 1692250416,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497485,
+        "num": 416464,
+        "word": "伯远叫檀健次相柳老师",
+        "onboard_time": 1692259842,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453503,
+        "num": 407315,
+        "word": "胡歌说幸好小尹找了吴磊来演",
+        "onboard_time": 1692259304,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442624,
+        "num": 405280,
+        "word": "伯远 被前辈们的热情淹没",
+        "onboard_time": 1692262841,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399613,
+        "num": 399613,
+        "word": "TangoZ再发文回应",
+        "onboard_time": 1692240698,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304208,
+        "num": 337475,
+        "word": "七时吉祥道具工作人员道歉",
+        "onboard_time": 1692260563,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332305,
+        "num": 332305,
+        "word": "崔胜澈暂停活动",
+        "onboard_time": 1692257263,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248855,
+        "num": 331999,
+        "word": "老头乐刮蹭450万法拉利被索赔190元",
+        "onboard_time": 1692245378,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222588,
+        "num": 328625,
+        "word": "12306回应母亲带病儿买三张票",
+        "onboard_time": 1692248740,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218582,
+        "num": 325293,
+        "word": "超级小桀",
+        "onboard_time": 1692248141,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 209008,
+        "num": 324473,
+        "word": "调查显示我国终身单身人群极少",
+        "onboard_time": 1692249219,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094606,
+        "num": 320411,
+        "word": "吴磊抽烟镜头",
+        "onboard_time": 1692261224,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517370,
+        "num": 318740,
+        "word": "医生叫我控糖 朋友给我切了一片西瓜",
+        "onboard_time": 1692258822,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443881,
+        "num": 317556,
+        "word": "48岁男教师搂抱28岁家长监控曝光",
+        "onboard_time": 1692255761,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315487,
+        "num": 315487,
+        "word": "原来真的有人一洗澡就过敏",
+        "onboard_time": 1692259361,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301703,
+        "num": 301703,
+        "word": "邓超请看四个电影",
+        "onboard_time": 1692262001,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277012,
+        "num": 277012,
+        "word": "当小猫感觉气氛不对",
+        "onboard_time": 1692263318,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274299,
+        "num": 274299,
+        "word": "赵露思港风短发",
+        "onboard_time": 1692249815,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 271338,
+        "num": 271338,
+        "word": "婚礼视频存QQ空间10年突然消失",
+        "onboard_time": 1692261162,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58147,
+        "num": 269281,
+        "word": "冒险岛玩家寻人启事",
+        "onboard_time": 1692263382,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267525,
+        "num": 267525,
+        "word": "张艺兴孤注一掷票房破22亿海报",
+        "onboard_time": 1692260082,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231464,
+        "num": 231464,
+        "word": "张文宏被造谣妻子是医药代表",
+        "onboard_time": 1692255159,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227747,
+        "num": 227747,
+        "word": "留学中介称资产10万以下是残疾家庭",
+        "onboard_time": 1692257922,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208881,
+        "num": 225088,
+        "word": "创造营在张远微博团建了",
+        "onboard_time": 1692254677,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206763,
+        "num": 224438,
+        "word": "我和云工作只差一个望远镜",
+        "onboard_time": 1692264340,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202497,
+        "num": 219509,
+        "word": "孕妇地铁上挤到大妈被骂是猪",
+        "onboard_time": 1692254257,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188360,
+        "num": 217106,
+        "word": "莲花楼",
+        "onboard_time": 1692264041,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187321,
+        "num": 213110,
+        "word": "唐禹哲非过没丑过",
+        "onboard_time": 1692253237,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186442,
+        "num": 212274,
+        "word": "志愿军",
+        "onboard_time": 1692250539,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123818,
+        "num": 208885,
+        "word": "8090后需要一座冒险岛",
+        "onboard_time": 1692263982,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177713,
+        "num": 204820,
+        "word": "整容到失去神格",
+        "onboard_time": 1692256843,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170582,
+        "num": 200909,
+        "word": "阿念一句话喊醒小夭",
+        "onboard_time": 1692250478,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169893,
+        "num": 199995,
+        "word": "我的考研搭子是奶奶",
+        "onboard_time": 1692255278,
+        "rank": 41,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 166585,
+        "num": 195104,
+        "word": "杜海涛秒变直角肩",
+        "onboard_time": 1692247062,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156115,
+        "num": 192820,
+        "word": "疑似相柳小时候珍贵影像流出",
+        "onboard_time": 1692256120,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144148,
+        "num": 190131,
+        "word": "孟子义三个词预告首唱舞台",
+        "onboard_time": 1692262001,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129100,
+        "num": 186732,
+        "word": "狗狗的情绪也太稳定了吧",
+        "onboard_time": 1692257684,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 128728,
+        "num": 183938,
+        "word": "姚晨胡先煦吻戏",
+        "onboard_time": 1692242194,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126717,
+        "num": 179946,
+        "word": "男子骚扰前任119和110都上门了",
+        "onboard_time": 1692264522,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121230,
+        "num": 179061,
+        "word": "杭州冰雹",
+        "onboard_time": 1692258287,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109351,
+        "num": 175146,
+        "word": "静夜眼里的夭玹璟柳",
+        "onboard_time": 1692251498,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#从生物多样性中感受自然之美#"
+    }
+  }
+}
