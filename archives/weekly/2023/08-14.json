@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692268428465,
+  "endTime": 1692270815215,
   "band_list": [
     {
       "raw_hot": 10375516,
@@ -19,19 +19,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3689279,
+      "num": 3689279,
+      "word": "中科院博士被骗至缅甸一年",
+      "onboard_time": 1692266320,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3389639,
       "num": 3389639,
       "word": "韩国首尔",
       "onboard_time": 1692079895,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3199823,
-      "num": 3199823,
-      "word": "中科院博士被骗至缅甸一年",
-      "onboard_time": 1692266320,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -923,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1205740,
+      "num": 1205740,
+      "word": "马伯骞回复赵露思芋泥香酥鸭管够",
+      "onboard_time": 1692268660,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1205193,
       "num": 1120209,
       "word": "播一部火一部的明星",
@@ -1419,6 +1427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 899814,
+      "num": 519747,
+      "word": "洪知秀机场",
+      "onboard_time": 1692269622,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 898466,
       "num": 898466,
       "word": "李兰迪被学士帽砸破头",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1692180277,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895346,
+      "num": 517207,
+      "word": "今年看过最疯批的女人",
+      "onboard_time": 1692266140,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 894041,
@@ -1652,7 +1676,7 @@
     },
     {
       "raw_hot": 813015,
-      "num": 396705,
+      "num": 507244,
       "word": "没人发现杨紫这么厉害吗",
       "onboard_time": 1692266140,
       "rank": 10,
@@ -1979,6 +2003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 707435,
+      "num": 2554645,
+      "word": "2元炒菜哥称给我千千万也不在乎",
+      "onboard_time": 1692267997,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706551,
       "num": 633853,
       "word": "六公主马上去问杨玏了",
@@ -2163,19 +2195,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 673516,
-      "num": 394729,
-      "word": "今年看过最疯批的女人",
-      "onboard_time": 1692266140,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 673240,
       "num": 673240,
       "word": "檀健次别唱了我自己哭",
       "onboard_time": 1692193179,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 670499,
+      "num": 502579,
+      "word": "暑期档第一爆的角色",
+      "onboard_time": 1692265599,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -2257,6 +2289,14 @@
       "onboard_time": 1692245319,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 655489,
+      "num": 655489,
+      "word": "佛山疾控通报发现新冠新毒株",
+      "onboard_time": 1692268538,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 653439,
@@ -2923,14 +2963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 544485,
-      "num": 344820,
-      "word": "暑期档第一爆的角色",
-      "onboard_time": 1692265599,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 544446,
       "num": 332839,
       "word": "为什么指甲上的月牙会这么大",
@@ -3097,6 +3129,14 @@
       "onboard_time": 1692178118,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 523147,
+      "num": 523147,
+      "word": "应渊的老婆孩子全归相柳了",
+      "onboard_time": 1692269198,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 522948,
@@ -3441,6 +3481,14 @@
       "onboard_time": 1692006518,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 483438,
+      "num": 483438,
+      "word": "考编失败的警犬还包分配",
+      "onboard_time": 1692265841,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 481881,
@@ -4483,6 +4531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386127,
+      "num": 386127,
+      "word": "盗墓笔记 过年啦",
+      "onboard_time": 1692269622,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 385460,
       "num": 385460,
       "word": "长相思全员告别角色",
@@ -4651,6 +4707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374896,
+      "num": 374896,
+      "word": "陈哲远给马伯骞评论",
+      "onboard_time": 1692267879,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374142,
       "num": 352354,
       "word": "周杰伦呼和浩特",
@@ -4665,14 +4729,6 @@
       "onboard_time": 1692068797,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 372969,
-      "num": 343778,
-      "word": "考编失败的警犬还包分配",
-      "onboard_time": 1692265841,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 370994,
@@ -4700,7 +4756,7 @@
     },
     {
       "raw_hot": 370233,
-      "num": 275858,
+      "num": 277311,
       "word": "养老院回应男性护工长期猥亵90多岁老人",
       "onboard_time": 1692265299,
       "rank": 22,
@@ -4713,6 +4769,14 @@
       "onboard_time": 1691988283,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369547,
+      "num": 300426,
+      "word": "女子坐飞机看到蟑螂趴在窗外",
+      "onboard_time": 1692268360,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369058,
@@ -4827,6 +4891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359895,
+      "num": 299791,
+      "word": "范丞丞版孟宴臣",
+      "onboard_time": 1692269622,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359627,
       "num": 330937,
       "word": "邓为涂山璟继任族长剧照",
@@ -4899,6 +4971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355861,
+      "num": 236063,
+      "word": "教育机构要求老师穿长裤的原因",
+      "onboard_time": 1692269920,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 355627,
       "num": 328881,
       "word": "胡歌刘涛陈龙一个屋开三个直播",
@@ -4929,6 +5009,14 @@
       "onboard_time": 1691997755,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353730,
+      "num": 228171,
+      "word": "披荆斩棘有自己的男版那英",
+      "onboard_time": 1692269319,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 353460,
@@ -5603,6 +5691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 301358,
+      "num": 301358,
+      "word": "当年看的时候没觉得这么尴尬",
+      "onboard_time": 1692267997,
+      "rank": 35,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 301252,
       "num": 301252,
       "word": "男人最好的医美 电竞说唱乐队",
@@ -5649,6 +5745,14 @@
       "onboard_time": 1692176018,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 299077,
+      "num": 299076,
+      "word": "一个镜头测你有没有赌性",
+      "onboard_time": 1692269259,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 298953,
@@ -7067,6 +7171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240457,
+      "num": 240457,
+      "word": "王者荣耀",
+      "onboard_time": 1692121820,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240330,
       "num": 240330,
       "word": "原神4.0",
@@ -7105,14 +7217,6 @@
       "onboard_time": 1692238414,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 238106,
-      "num": 340698,
-      "word": "2元炒菜哥称给我千千万也不在乎",
-      "onboard_time": 1692267997,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237880,
@@ -7361,14 +7465,6 @@
       "onboard_time": 1691990914,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 227101,
-      "num": 242418,
-      "word": "陈哲远给马伯骞评论",
-      "onboard_time": 1692267879,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 226789,
@@ -7657,6 +7753,14 @@
       "onboard_time": 1692227065,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212796,
+      "num": 242373,
+      "word": "中科院博士被骗至缅甸女友发声",
+      "onboard_time": 1692267818,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212553,
@@ -8115,14 +8219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200514,
-      "num": 242387,
-      "word": "女子坐飞机看到蟑螂趴在窗外",
-      "onboard_time": 1692268360,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200427,
       "num": 200427,
       "word": "封神训练营没有声乐课吗",
@@ -8377,14 +8473,6 @@
       "onboard_time": 1692148656,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193545,
-      "num": 242373,
-      "word": "中科院博士被骗至缅甸女友发声",
-      "onboard_time": 1692267818,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193404,
@@ -8715,14 +8803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186977,
-      "num": 242341,
-      "word": "当年看的时候没觉得这么尴尬",
-      "onboard_time": 1692267997,
-      "rank": 35,
-      "category": "幽默,影视"
-    },
-    {
       "raw_hot": 186942,
       "num": 186942,
       "word": "星穹铁道镜流",
@@ -8923,6 +9003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179798,
+      "num": 203196,
+      "word": "TangoZ商标被驳回",
+      "onboard_time": 1692270341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179743,
       "num": 179743,
       "word": "韩红结束义诊众人列队送别",
@@ -8961,6 +9049,14 @@
       "onboard_time": 1692227065,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178549,
+      "num": 203184,
+      "word": "余承恩温柔拒绝张雪迎",
+      "onboard_time": 1692270639,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 177508,
@@ -9267,6 +9363,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 158121,
+      "num": 242212,
+      "word": "帮男友试穿他的新鞋",
+      "onboard_time": 1692268119,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 157878,
       "num": 157878,
       "word": "榴莲皮拿捏哈基米",
@@ -9459,6 +9563,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 142619,
+      "num": 203149,
+      "word": "吵架了还得说话的情侣",
+      "onboard_time": 1692269561,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142258,
       "num": 188095,
       "word": "敦煌飞天式轮滑太仙了",
@@ -9617,14 +9729,6 @@
       "onboard_time": 1692072041,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131894,
-      "num": 242212,
-      "word": "帮男友试穿他的新鞋",
-      "onboard_time": 1692268119,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 131503,
@@ -9811,6 +9915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106960,
+      "num": 203116,
+      "word": "芒果毛巾卷",
+      "onboard_time": 1692270700,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 106930,
       "num": 106930,
       "word": "李昀锐多次NG内疚到快落泪",
@@ -9897,14 +10009,6 @@
       "onboard_time": 1692001477,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97986,
-      "num": 97986,
-      "word": "王者荣耀",
-      "onboard_time": 1692121820,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 96446,
