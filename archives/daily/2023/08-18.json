@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692296413894,
+  "endTime": 1692297246780,
   "band_list": [
     {
       "raw_hot": 6798828,
@@ -299,6 +299,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 165028,
+      "num": 156493,
+      "word": "2023暑期四大TOP",
+      "onboard_time": 1692292584,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162883,
       "num": 183794,
       "word": "Daddy退休后的愿望朴实无华",
@@ -321,14 +329,6 @@
       "onboard_time": 1692277960,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152698,
-      "num": 156493,
-      "word": "2023暑期四大TOP",
-      "onboard_time": 1692292584,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 150303,
@@ -454,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#把解决实际问题作为制定改革方案的出发点#"
+    },
+    {
+      "word": "#南海开渔千帆竞发大场面#"
     }
   ]
 }
