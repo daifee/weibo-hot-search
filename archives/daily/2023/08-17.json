@@ -1,6 +1,6 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692256492044,
+  "endTime": 1692260414288,
   "band_list": [
     {
       "raw_hot": 2301522,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1098754,
+      "num": 310448,
+      "word": "张文宏被造谣妻子是医药代表",
+      "onboard_time": 1692255159,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1037944,
       "num": 719959,
       "word": "女子买3个座位被无座大爷骂哭",
@@ -169,6 +177,14 @@
       "onboard_time": 1692193901,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 969015,
+      "num": 308729,
+      "word": "崔胜澈暂停活动",
+      "onboard_time": 1692257263,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 941770,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704957,
+      "num": 298762,
+      "word": "医生叫我控糖 朋友给我切了一片西瓜",
+      "onboard_time": 1692258822,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 697451,
       "num": 494438,
       "word": "创造营在张远微博团建了",
@@ -257,6 +281,14 @@
       "onboard_time": 1692227001,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 695308,
+      "num": 316956,
+      "word": "48岁男教师搂抱28岁家长监控曝光",
+      "onboard_time": 1692255761,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 694415,
@@ -321,6 +353,14 @@
       "onboard_time": 1692239972,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 614596,
+      "num": 614596,
+      "word": "鸡蛋一天最多让吃几个",
+      "onboard_time": 1692254196,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 604880,
@@ -475,28 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495346,
-      "num": 495346,
-      "word": "鸡蛋一天最多让吃几个",
-      "onboard_time": 1692254196,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468204,
       "num": 468204,
       "word": "内娱天选校园剧女主",
       "onboard_time": 1692230315,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 463077,
-      "num": 316956,
-      "word": "48岁男教师搂抱28岁家长监控曝光",
-      "onboard_time": 1692255761,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 461706,
@@ -627,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398675,
+      "num": 307125,
+      "word": "疑似相柳小时候珍贵影像流出",
+      "onboard_time": 1692256120,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392534,
       "num": 392534,
       "word": "防风邶拿的酒瓶是小六的吗",
@@ -649,6 +681,14 @@
       "onboard_time": 1692227001,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390660,
+      "num": 303967,
+      "word": "伯远叫檀健次相柳老师",
+      "onboard_time": 1692259842,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 383935,
@@ -827,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307554,
+      "num": 294574,
+      "word": "留学中介称资产10万以下是残疾家庭",
+      "onboard_time": 1692257922,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305133,
       "num": 305133,
       "word": "蒋依依敖子逸学院风造型",
@@ -841,14 +889,6 @@
       "onboard_time": 1692243036,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 299247,
-      "num": 299247,
-      "word": "张文宏被造谣妻子是医药代表",
-      "onboard_time": 1692255159,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297586,
@@ -881,6 +921,14 @@
       "onboard_time": 1692240032,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294017,
+      "num": 294017,
+      "word": "原来真的有人一洗澡就过敏",
+      "onboard_time": 1692259361,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 293357,
@@ -961,6 +1009,22 @@
       "onboard_time": 1692245257,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 276408,
+      "num": 276408,
+      "word": "胡歌说幸好小尹找了吴磊来演",
+      "onboard_time": 1692259304,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 275787,
+      "num": 275787,
+      "word": "徐良初舞台 坏女孩",
+      "onboard_time": 1692259602,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 273540,
@@ -1187,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220382,
+      "num": 220382,
+      "word": "综艺童话",
+      "onboard_time": 1692260322,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218980,
       "num": 218980,
       "word": "成都4只退役搜救犬征集领养人",
@@ -1224,6 +1296,14 @@
       "word": "小夭把鱼丹紫还给涂山璟",
       "onboard_time": 1692227065,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 213900,
+      "num": 213900,
+      "word": "张艺兴孤注一掷票房破22亿海报",
+      "onboard_time": 1692260082,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1283,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203510,
+      "num": 203510,
+      "word": "历史上真实的玄奘西行之路",
+      "onboard_time": 1692256723,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203006,
       "num": 203006,
       "word": "严浩翔回复时代少年团评论",
@@ -1315,20 +1403,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199716,
+      "num": 199716,
+      "word": "狗狗的情绪也太稳定了吧",
+      "onboard_time": 1692257684,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 199001,
       "num": 199001,
       "word": "无期迷途瑟琳审查",
       "onboard_time": 1692248141,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198979,
-      "num": 198979,
-      "word": "疑似相柳小时候珍贵影像流出",
-      "onboard_time": 1692256120,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 193217,
@@ -1361,6 +1449,30 @@
       "onboard_time": 1692242914,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191259,
+      "num": 191259,
+      "word": "杭州冰雹",
+      "onboard_time": 1692258287,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190994,
+      "num": 190994,
+      "word": "孤注一掷鸣谢名单有张颂文",
+      "onboard_time": 1692256241,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190493,
+      "num": 190493,
+      "word": "卢昱晓没选吴俊霆哭了",
+      "onboard_time": 1692258404,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 190272,
@@ -1459,6 +1571,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177508,
+      "num": 177508,
+      "word": "李莲花角色号告别plog",
+      "onboard_time": 1692259304,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 176569,
+      "num": 176569,
+      "word": "整容到失去神格",
+      "onboard_time": 1692256843,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175923,
       "num": 175923,
       "word": "闺蜜间这该死的分享欲",
@@ -1473,14 +1601,6 @@
       "onboard_time": 1692228026,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169569,
-      "num": 169569,
-      "word": "孤注一掷鸣谢名单有张颂文",
-      "onboard_time": 1692256241,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 168875,
@@ -1521,6 +1641,14 @@
       "onboard_time": 1692205105,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160877,
+      "num": 160877,
+      "word": "千万级UP主带你深入剖析缅北电诈",
+      "onboard_time": 1692260141,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158973,
@@ -1595,6 +1723,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 141855,
+      "num": 141855,
+      "word": "记者深入走访调查缅北现状",
+      "onboard_time": 1692258944,
+      "rank": 44,
+      "category": "国内要闻,社会新闻"
+    },
+    {
       "raw_hot": 141114,
       "num": 166126,
       "word": "XYG无缘季后赛",
@@ -1609,6 +1745,14 @@
       "onboard_time": 1692228268,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130433,
+      "num": 130433,
+      "word": "不到200卡奶茶点单",
+      "onboard_time": 1692258881,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 129134,
@@ -1793,6 +1937,14 @@
       "onboard_time": 1692212237,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 34837,
+      "num": 305836,
+      "word": "八旬老人手写信致谢公交驾驶员",
+      "onboard_time": 1692259242,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24753,
