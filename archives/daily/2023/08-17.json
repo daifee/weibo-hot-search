@@ -1,6 +1,6 @@
 {
   "startTime": 1692202875770,
-  "endTime": 1692272032488,
+  "endTime": 1692275461067,
   "band_list": [
     {
       "raw_hot": 3689279,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1536943,
+      "num": 517207,
+      "word": "今年看过最疯批的女人",
+      "onboard_time": 1692266140,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1447103,
       "num": 1447103,
       "word": "原来焯水不是简单煮一下",
@@ -128,6 +136,14 @@
       "word": "北海被咬伤者称曾踩到软软的东西",
       "onboard_time": 1692261581,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1319791,
+      "num": 408098,
+      "word": "女子凌晨被短信告知航班提前3.5小时起飞",
+      "onboard_time": 1692272376,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -203,20 +219,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1091078,
+      "num": 699023,
+      "word": "教育机构要求老师穿长裤的原因",
+      "onboard_time": 1692269920,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1037944,
       "num": 719959,
       "word": "女子买3个座位被无座大爷骂哭",
       "onboard_time": 1692245616,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1028263,
-      "num": 517207,
-      "word": "今年看过最疯批的女人",
-      "onboard_time": 1692266140,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 977219,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753760,
+      "num": 405643,
+      "word": "海底捞在家有儿女里出现也不奇怪",
+      "onboard_time": 1692273459,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 707435,
       "num": 2554645,
       "word": "2元炒菜哥称给我千千万也不在乎",
@@ -361,6 +385,14 @@
       "onboard_time": 1692260441,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698093,
+      "num": 698093,
+      "word": "森林进化论",
+      "onboard_time": 1692272798,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 697451,
@@ -393,14 +425,6 @@
       "onboard_time": 1692250897,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 689231,
-      "num": 439073,
-      "word": "教育机构要求老师穿长裤的原因",
-      "onboard_time": 1692269920,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 681370,
@@ -481,6 +505,14 @@
       "onboard_time": 1692198338,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634408,
+      "num": 401821,
+      "word": "刘宪华戴五条项链",
+      "onboard_time": 1692272739,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 620521,
@@ -611,6 +643,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 509739,
+      "num": 509739,
+      "word": "刘德华说刘嘉玲是梁朝伟i人",
+      "onboard_time": 1692271176,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 507866,
       "num": 293395,
       "word": "你想涩涩他想骗骗",
@@ -649,6 +689,14 @@
       "onboard_time": 1692228629,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487547,
+      "num": 298713,
+      "word": "内娱很会吐血的男明星",
+      "onboard_time": 1692274177,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 483438,
@@ -747,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 441401,
+      "num": 393705,
+      "word": "专家称咬人鱼类或从防鲨网破损处进入",
+      "onboard_time": 1692273039,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431173,
       "num": 310172,
       "word": "孕妇地铁上挤到大妈被骂是猪",
@@ -795,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 418135,
+      "num": 397975,
+      "word": "专家称北海咬人鱼类或为鳗鲡类鲀类",
+      "onboard_time": 1692272318,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417413,
       "num": 382976,
       "word": "TangoZ说包厢内没有监控",
@@ -804,10 +868,18 @@
     },
     {
       "raw_hot": 417088,
-      "num": 336206,
+      "num": 374267,
       "word": "范丞丞版孟宴臣",
       "onboard_time": 1692269622,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 416251,
+      "num": 416251,
+      "word": "余承恩温柔拒绝张雪迎",
+      "onboard_time": 1692270639,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -867,19 +939,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398202,
+      "num": 297758,
+      "word": "和男朋友分手后平分手机",
+      "onboard_time": 1692274658,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 392534,
       "num": 392534,
       "word": "防风邶拿的酒瓶是小六的吗",
       "onboard_time": 1692228629,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 392458,
-      "num": 392458,
-      "word": "刘德华说刘嘉玲是梁朝伟i人",
-      "onboard_time": 1692271176,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -1019,14 +1091,6 @@
       "category": "艺人,影视"
     },
     {
-      "raw_hot": 337803,
-      "num": 337803,
-      "word": "余承恩温柔拒绝张雪迎",
-      "onboard_time": 1692270639,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 336978,
       "num": 336978,
       "word": "广州现大量残破玩偶呼吁保护动物",
@@ -1128,6 +1192,14 @@
       "word": "恒大地产收到证监会立案告知书",
       "onboard_time": 1692232959,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310283,
+      "num": 262011,
+      "word": "日本推出性同意APP",
+      "onboard_time": 1692275140,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1233,6 +1305,14 @@
       "onboard_time": 1692187957,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289912,
+      "num": 289912,
+      "word": "秦霄贤签名照",
+      "onboard_time": 1692273516,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287197,
@@ -1403,6 +1483,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 249506,
+      "num": 293082,
+      "word": "小时候很反感长大后却很喜欢",
+      "onboard_time": 1692274117,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249469,
       "num": 249469,
       "word": "宋亚轩张真源贺峻霖你们在干什么",
@@ -1499,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234802,
+      "num": 234802,
+      "word": "权顺荣机场",
+      "onboard_time": 1692272916,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229838,
       "num": 229838,
       "word": "八一七稻米节",
@@ -1531,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223578,
+      "num": 223578,
+      "word": "爸爸在饭桌上跟亲戚说我不结婚",
+      "onboard_time": 1692274837,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222284,
       "num": 215162,
       "word": "上帝视角看小夭涂山璟",
@@ -1553,6 +1657,14 @@
       "onboard_time": 1692232839,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216891,
+      "num": 216891,
+      "word": "徐明浩的下颚线比我人生规划都清晰",
+      "onboard_time": 1692271900,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215177,
@@ -1611,20 +1723,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 210635,
+      "num": 210635,
+      "word": "内娱睫毛精",
+      "onboard_time": 1692274777,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210176,
       "num": 210176,
       "word": "上海冰雹",
       "onboard_time": 1692253714,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208139,
-      "num": 208139,
-      "word": "徐明浩的下颚线比我人生规划都清晰",
-      "onboard_time": 1692271900,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 206763,
@@ -1667,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205308,
+      "num": 205308,
+      "word": "在职场千万要警惕讨好感",
+      "onboard_time": 1692273944,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 204306,
       "num": 204306,
       "word": "infp的至暗时刻",
@@ -1707,12 +1827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202226,
+      "num": 205305,
+      "word": "滔搏 太久没进季后赛",
+      "onboard_time": 1692274959,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201876,
       "num": 201876,
       "word": "警方回应2岁幼童被父亲扔下楼致死",
       "onboard_time": 1692212536,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200673,
+      "num": 205301,
+      "word": "曾经用过哪些尴尬的网名",
+      "onboard_time": 1692275079,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 200411,
@@ -1763,6 +1899,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 195204,
+      "num": 205299,
+      "word": "爱你的人会想办法给你惊喜",
+      "onboard_time": 1692275438,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193217,
       "num": 193217,
       "word": "成毅 少抱怨多做事",
@@ -1777,6 +1921,14 @@
       "onboard_time": 1692244958,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192298,
+      "num": 205294,
+      "word": "男子将小狗从高楼抛下摔死并炫耀",
+      "onboard_time": 1692273817,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192065,
@@ -2019,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166541,
+      "num": 205275,
+      "word": "李佳琦直播",
+      "onboard_time": 1692275378,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 161461,
       "num": 161461,
       "word": "新手想减肥有救了",
@@ -2153,6 +2313,14 @@
       "onboard_time": 1692263982,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134793,
+      "num": 205269,
+      "word": "亚运会",
+      "onboard_time": 1692275378,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 131503,
