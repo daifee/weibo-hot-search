@@ -1,0 +1,410 @@
+{
+  "runTime": 1692361836810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1893398,
+        "num": 1893398,
+        "word": "医院回应穿刺失误致女童死亡",
+        "onboard_time": 1692357997,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1334349,
+        "num": 1334349,
+        "word": "信 其实我是想去姐姐的",
+        "onboard_time": 1692350378,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30735,
+        "num": 1103619,
+        "word": "上半年我国服务贸易总体平稳增长",
+        "onboard_time": 1692361236,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1512702,
+        "num": 1088091,
+        "word": "好声音寥寥数行回应就是对逝者的尊重吗",
+        "onboard_time": 1692356614,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1021193,
+        "num": 1021193,
+        "word": "打响取消公摊第一枪的为什么是合肥",
+        "onboard_time": 1692358355,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832944,
+        "num": 832944,
+        "word": "范丞丞玩梗关晓彤你叉叉",
+        "onboard_time": 1692357816,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 793742,
+        "num": 793742,
+        "word": "林志颖陆毅王耀庆是同龄人",
+        "onboard_time": 1692358474,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736867,
+        "num": 736867,
+        "word": "没十年相思病剪不出这玩意儿",
+        "onboard_time": 1692358474,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 720985,
+        "num": 720985,
+        "word": "九尾 倒霉蛋",
+        "onboard_time": 1692359254,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 466673,
+        "num": 697322,
+        "word": "质疑芒狗 理解芒狗 养芒狗",
+        "onboard_time": 1692341734,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 689244,
+        "num": 689244,
+        "word": "那英的妹妹这英",
+        "onboard_time": 1692361357,
+        "rank": 10,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 543444,
+        "num": 543444,
+        "word": "唐禹哲越长大越见外",
+        "onboard_time": 1692359796,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 516693,
+        "num": 516693,
+        "word": "涂山璟lookatme",
+        "onboard_time": 1692357334,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119495,
+        "num": 404696,
+        "word": "爸爸车祸后7岁小哭包变成顶梁柱",
+        "onboard_time": 1692330938,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90595,
+        "num": 361536,
+        "word": "女子奔丧途中救人一命",
+        "onboard_time": 1692360034,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354640,
+        "num": 354640,
+        "word": "赵丽颖蓝色星钻人鱼裙",
+        "onboard_time": 1692351517,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 333526,
+        "num": 333526,
+        "word": "杜紫怡回应tangoz声明",
+        "onboard_time": 1692354458,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272737,
+        "num": 272737,
+        "word": "东北人至暗时刻",
+        "onboard_time": 1692356315,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260264,
+        "num": 260264,
+        "word": "网红二驴账号被封禁",
+        "onboard_time": 1692350497,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182209,
+        "num": 259372,
+        "word": "菜摊边写作业的女孩被川大华西口腔录取",
+        "onboard_time": 1692352239,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 584548,
+        "num": 255674,
+        "word": "月经沾裤子上紧急处理方法",
+        "onboard_time": 1692342395,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368516,
+        "num": 254103,
+        "word": "刘亦菲的鞋有脚趾头",
+        "onboard_time": 1692355657,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326210,
+        "num": 250268,
+        "word": "鹿晗周五之约真的来了",
+        "onboard_time": 1692352538,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248547,
+        "num": 248547,
+        "word": "情侣全款买婚房原房主妻子将门焊死",
+        "onboard_time": 1692350559,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226274,
+        "num": 248525,
+        "word": "警方辟谣女孩为追星把第一次给黄牛",
+        "onboard_time": 1692352117,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306953,
+        "num": 248354,
+        "word": "王鹤棣特步直播",
+        "onboard_time": 1692360634,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294306,
+        "num": 248259,
+        "word": "古天乐毁容妆过敏",
+        "onboard_time": 1692349361,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288849,
+        "num": 248077,
+        "word": "Angelababy虞书欣今日活动生图",
+        "onboard_time": 1692349958,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190929,
+        "num": 248035,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1692360634,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177133,
+        "num": 247866,
+        "word": "孙悟空五行山下含泪吃安徽板面",
+        "onboard_time": 1692360456,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610535,
+        "num": 247783,
+        "word": "李玟姐姐称网传视频属实",
+        "onboard_time": 1692345461,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339480,
+        "num": 247630,
+        "word": "中国好声音母公司股价大跌",
+        "onboard_time": 1692334839,
+        "rank": 31,
+        "category": "综艺,财经"
+      },
+      {
+        "raw_hot": 278842,
+        "num": 247425,
+        "word": "小夭到底愿意和谁相伴一生",
+        "onboard_time": 1692360214,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275656,
+        "num": 247336,
+        "word": "华晨宇新专台湾销量7连冠",
+        "onboard_time": 1692359859,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175561,
+        "num": 247219,
+        "word": "缅甸华人称缅甸确实被妖魔化",
+        "onboard_time": 1692322957,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247156,
+        "num": 247156,
+        "word": "于适想象中的睡袍照",
+        "onboard_time": 1692361598,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159599,
+        "num": 246383,
+        "word": "大家情绪都好容易不稳定啊",
+        "onboard_time": 1692353077,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152314,
+        "num": 245556,
+        "word": "CPGZ",
+        "onboard_time": 1692360873,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 128414,
+        "num": 243866,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1692331181,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 75052,
+        "num": 242470,
+        "word": "长城上演中国速度",
+        "onboard_time": 1692361598,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241888,
+        "num": 241888,
+        "word": "檀健次回应如何演相柳",
+        "onboard_time": 1692358474,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236172,
+        "num": 236172,
+        "word": "李佳琦到底多大了啊",
+        "onboard_time": 1692350199,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221696,
+        "num": 221696,
+        "word": "张晚意被杨紫叫哥哥叫到崩溃",
+        "onboard_time": 1692349776,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217807,
+        "num": 217807,
+        "word": "马立奥上学路上的宝贝",
+        "onboard_time": 1692354997,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202999,
+        "num": 202999,
+        "word": "李嘉捷向好声音致歉",
+        "onboard_time": 1692328116,
+        "rank": 44,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 194342,
+        "num": 202994,
+        "word": "左立吼鑫仔别浪",
+        "onboard_time": 1692360936,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114549,
+        "num": 202975,
+        "word": "云上邮差",
+        "onboard_time": 1692360873,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111768,
+        "num": 202934,
+        "word": "警方通报主播直播时编造被绑架",
+        "onboard_time": 1692344020,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 109325,
+        "num": 202925,
+        "word": "燃灯校长点亮了求学的路",
+        "onboard_time": 1692360694,
+        "rank": 48,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 107698,
+        "num": 202893,
+        "word": "恒大就破产传闻发布澄清公告",
+        "onboard_time": 1692354218,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路大道同行#"
+    }
+  }
+}

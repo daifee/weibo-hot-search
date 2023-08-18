@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692358425607,
+  "endTime": 1692361836810,
   "band_list": [
     {
       "raw_hot": 8961367,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1893398,
+      "num": 1893398,
+      "word": "医院回应穿刺失误致女童死亡",
+      "onboard_time": 1692357997,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1889793,
       "num": 1889793,
       "word": "缅北受访者称噶腰子仅是段子",
@@ -161,6 +169,14 @@
       "onboard_time": 1692331181,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1512702,
+      "num": 1088091,
+      "word": "好声音寥寥数行回应就是对逝者的尊重吗",
+      "onboard_time": 1692356614,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1475061,
@@ -251,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1061826,
-      "num": 1061826,
-      "word": "好声音寥寥数行回应就是对逝者的尊重吗",
-      "onboard_time": 1692356614,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1057877,
       "num": 716500,
       "word": "杨超越演技",
@@ -273,6 +281,14 @@
       "onboard_time": 1692344380,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1021193,
+      "num": 1021193,
+      "word": "打响取消公摊第一枪的为什么是合肥",
+      "onboard_time": 1692358355,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1000512,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 832944,
+      "num": 832944,
+      "word": "范丞丞玩梗关晓彤你叉叉",
+      "onboard_time": 1692357816,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 832681,
       "num": 535896,
       "word": "鞠婧祎晕车",
@@ -371,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 793742,
+      "num": 793742,
+      "word": "林志颖陆毅王耀庆是同龄人",
+      "onboard_time": 1692358474,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 791384,
       "num": 629031,
       "word": "A股",
@@ -387,12 +419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 736867,
+      "num": 736867,
+      "word": "没十年相思病剪不出这玩意儿",
+      "onboard_time": 1692358474,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 732683,
       "num": 732683,
       "word": "那辛",
       "onboard_time": 1692353018,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 720985,
+      "num": 720985,
+      "word": "九尾 倒霉蛋",
+      "onboard_time": 1692359254,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 719734,
@@ -425,6 +473,14 @@
       "onboard_time": 1692341855,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 689244,
+      "num": 689244,
+      "word": "那英的妹妹这英",
+      "onboard_time": 1692361357,
+      "rank": 10,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 680656,
@@ -595,6 +651,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 543444,
+      "num": 543444,
+      "word": "唐禹哲越长大越见外",
+      "onboard_time": 1692359796,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 533353,
       "num": 381558,
       "word": "魏大勋和素人合影",
@@ -664,6 +728,14 @@
       "word": "金晨谈安娜",
       "onboard_time": 1692319060,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 516693,
+      "num": 516693,
+      "word": "涂山璟lookatme",
+      "onboard_time": 1692357334,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -979,14 +1051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 385935,
-      "num": 385935,
-      "word": "范丞丞玩梗关晓彤你叉叉",
-      "onboard_time": 1692357816,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 384838,
       "num": 384838,
       "word": "民警火场坚持进里屋发现酣睡老人",
@@ -1115,14 +1179,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 341538,
-      "num": 291563,
-      "word": "涂山璟lookatme",
-      "onboard_time": 1692357334,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 340654,
       "num": 287968,
       "word": "八大古装公子",
@@ -1187,6 +1243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 306953,
+      "num": 248354,
+      "word": "王鹤棣特步直播",
+      "onboard_time": 1692360634,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298078,
       "num": 298078,
       "word": "东北人至暗时刻",
@@ -1243,12 +1307,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278842,
+      "num": 247425,
+      "word": "小夭到底愿意和谁相伴一生",
+      "onboard_time": 1692360214,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278215,
       "num": 214887,
       "word": "赵露思复古油画大片",
       "onboard_time": 1692335559,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 275656,
+      "num": 247336,
+      "word": "华晨宇新专台湾销量7连冠",
+      "onboard_time": 1692359859,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 274737,
@@ -1411,6 +1491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247156,
+      "num": 247156,
+      "word": "于适想象中的睡袍照",
+      "onboard_time": 1692361598,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 243982,
       "num": 184547,
       "word": "苏见信真正想去的是姐姐",
@@ -1449,6 +1537,14 @@
       "onboard_time": 1692330580,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 241888,
+      "num": 241888,
+      "word": "檀健次回应如何演相柳",
+      "onboard_time": 1692358474,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 240742,
@@ -1739,6 +1835,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 194342,
+      "num": 202994,
+      "word": "左立吼鑫仔别浪",
+      "onboard_time": 1692360936,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194200,
       "num": 194200,
       "word": "刘宇端水的方式是劈叉",
@@ -1777,6 +1881,14 @@
       "onboard_time": 1692313345,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 190929,
+      "num": 248035,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1692360634,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 190358,
@@ -1825,6 +1937,14 @@
       "onboard_time": 1692352358,
       "rank": 45,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 177133,
+      "num": 247866,
+      "word": "孙悟空五行山下含泪吃安徽板面",
+      "onboard_time": 1692360456,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176627,
@@ -1899,6 +2019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152314,
+      "num": 245556,
+      "word": "CPGZ",
+      "onboard_time": 1692360873,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 150303,
       "num": 183793,
       "word": "王鹤棣不会扭脖子",
@@ -1929,14 +2057,6 @@
       "onboard_time": 1692329078,
       "rank": 49,
       "category": "其它"
-    },
-    {
-      "raw_hot": 141202,
-      "num": 201102,
-      "word": "打响取消公摊第一枪的为什么是合肥",
-      "onboard_time": 1692358355,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140827,
@@ -1985,14 +2105,6 @@
       "onboard_time": 1692269198,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 128865,
-      "num": 201093,
-      "word": "医院回应穿刺失误致女童死亡",
-      "onboard_time": 1692357997,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127580,
@@ -2051,6 +2163,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114549,
+      "num": 202975,
+      "word": "云上邮差",
+      "onboard_time": 1692360873,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 109325,
+      "num": 202925,
+      "word": "燃灯校长点亮了求学的路",
+      "onboard_time": 1692360694,
+      "rank": 48,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 107437,
       "num": 344283,
       "word": "这条裤子是来报恩的吧",
@@ -2073,6 +2201,14 @@
       "onboard_time": 1692313585,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 90595,
+      "num": 361536,
+      "word": "女子奔丧途中救人一命",
+      "onboard_time": 1692360034,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89741,
@@ -2129,6 +2265,14 @@
       "onboard_time": 1692297257,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75052,
+      "num": 242470,
+      "word": "长城上演中国速度",
+      "onboard_time": 1692361598,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 74640,
@@ -2219,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30735,
+      "num": 1103619,
+      "word": "上半年我国服务贸易总体平稳增长",
+      "onboard_time": 1692361236,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27933,
       "num": 108141,
       "word": "小孩报喜不报忧的原因",
@@ -2255,6 +2407,9 @@
     },
     {
       "word": "#亚洲首艘圆筒型海上油气加工厂船体完工#"
+    },
+    {
+      "word": "#一带一路大道同行#"
     }
   ]
 }
