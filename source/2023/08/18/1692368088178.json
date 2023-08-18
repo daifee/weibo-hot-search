@@ -1,0 +1,410 @@
+{
+  "runTime": 1692368088178,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1275267,
+        "num": 1275267,
+        "word": "打响取消公摊第一枪的为什么是合肥",
+        "onboard_time": 1692358355,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100262,
+        "num": 1100262,
+        "word": "中泰缅老警方合作打击赌诈集团",
+        "onboard_time": 1692364240,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36195,
+        "num": 995831,
+        "word": "上半年我国服务贸易总体平稳增长",
+        "onboard_time": 1692361236,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1728796,
+        "num": 995790,
+        "word": "何炅是半个娱乐圈的伯乐",
+        "onboard_time": 1692362435,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 985889,
+        "num": 985889,
+        "word": "卿卿日常紫薯精vs七时吉祥走地鸡",
+        "onboard_time": 1692365740,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 856870,
+        "num": 856870,
+        "word": "这歌坛还是被孟子义闯进去了",
+        "onboard_time": 1692366641,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670692,
+        "num": 670692,
+        "word": "睡觉时手机在枕边充电有多危险",
+        "onboard_time": 1692362376,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 617346,
+        "num": 617346,
+        "word": "邓为一套衣服拍了多少物料",
+        "onboard_time": 1692363821,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 605036,
+        "num": 605036,
+        "word": "医院回应穿刺失误致女童死亡",
+        "onboard_time": 1692357997,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512741,
+        "num": 512741,
+        "word": "周杰伦演唱会内场饭拍",
+        "onboard_time": 1692362678,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2566989,
+        "num": 506765,
+        "word": "一个月一次的避孕针是什么",
+        "onboard_time": 1692362801,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1416413,
+        "num": 504276,
+        "word": "那英的妹妹这英",
+        "onboard_time": 1692361357,
+        "rank": 11,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 625127,
+        "num": 501661,
+        "word": "好声音寥寥数行回应就是对逝者的尊重吗",
+        "onboard_time": 1692356614,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497819,
+        "num": 497819,
+        "word": "可以直接外穿的内衣",
+        "onboard_time": 1692363099,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 492970,
+        "num": 492970,
+        "word": "权顺荣腹肌",
+        "onboard_time": 1692366641,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 473944,
+        "num": 473944,
+        "word": "央视818晚会",
+        "onboard_time": 1692363880,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358918,
+        "num": 460089,
+        "word": "80岁奶奶被假孙子骗20万民警上门止付",
+        "onboard_time": 1692364842,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454997,
+        "num": 454997,
+        "word": "汪苏泷就让这大雨全都落下舞台",
+        "onboard_time": 1692367061,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315569,
+        "num": 448994,
+        "word": "质疑芒狗 理解芒狗 养芒狗",
+        "onboard_time": 1692341734,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 216872,
+        "num": 448332,
+        "word": "入警仅6天四川民警破案后一通炫耀",
+        "onboard_time": 1692360395,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574690,
+        "num": 448268,
+        "word": "张新成去看周杰伦演唱会",
+        "onboard_time": 1692366641,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 448165,
+        "num": 448165,
+        "word": "文俊辉直播",
+        "onboard_time": 1692365919,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569573,
+        "num": 444234,
+        "word": "内娱情绪稳定的明星",
+        "onboard_time": 1692366342,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440230,
+        "num": 440230,
+        "word": "女儿拒绝父亲给的蛋糕被父亲砸脸",
+        "onboard_time": 1692364599,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417739,
+        "num": 417739,
+        "word": "月经沾裤子上紧急处理方法",
+        "onboard_time": 1692342395,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429144,
+        "num": 392557,
+        "word": "杨坤不止一次吐槽过好声音",
+        "onboard_time": 1692367363,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363324,
+        "num": 363324,
+        "word": "范丞丞玩梗关晓彤你叉叉",
+        "onboard_time": 1692357816,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307274,
+        "num": 361478,
+        "word": "为什么这一次楼市救不动了",
+        "onboard_time": 1692364178,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 253075,
+        "num": 350161,
+        "word": "睡眠不足真的会变胖",
+        "onboard_time": 1692365500,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178125,
+        "num": 348763,
+        "word": "九尾 倒霉蛋",
+        "onboard_time": 1692359254,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 557127,
+        "num": 337274,
+        "word": "李玟姐姐称网传视频属实",
+        "onboard_time": 1692345461,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336815,
+        "num": 336815,
+        "word": "林志颖陆毅王耀庆是同龄人",
+        "onboard_time": 1692358474,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309059,
+        "num": 309059,
+        "word": "儿科医生朋友圈点赞多得滑不到底",
+        "onboard_time": 1692366342,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293707,
+        "num": 293707,
+        "word": "没十年相思病剪不出这玩意儿",
+        "onboard_time": 1692358474,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262217,
+        "num": 262217,
+        "word": "Angelababy蔡文姬拿MVP",
+        "onboard_time": 1692366822,
+        "rank": 34,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 257582,
+        "num": 257582,
+        "word": "刘亦菲的鞋有脚趾头",
+        "onboard_time": 1692355657,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171973,
+        "num": 257356,
+        "word": "网红二驴账号被封禁",
+        "onboard_time": 1692350497,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166166,
+        "num": 254267,
+        "word": "我在商场厕所最无助的瞬间",
+        "onboard_time": 1692363940,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160764,
+        "num": 253241,
+        "word": "情侣全款买婚房原房主妻子将门焊死",
+        "onboard_time": 1692350559,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155902,
+        "num": 251710,
+        "word": "警方辟谣女孩为追星把第一次给黄牛",
+        "onboard_time": 1692352117,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250384,
+        "num": 250384,
+        "word": "华晨宇黄发歪嘴笑",
+        "onboard_time": 1692366580,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233029,
+        "num": 233029,
+        "word": "赵丽颖蓝色星钻人鱼裙",
+        "onboard_time": 1692351517,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212396,
+        "num": 232992,
+        "word": "陆毅因为贝儿参加披荆斩棘",
+        "onboard_time": 1692340474,
+        "rank": 42,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 211926,
+        "num": 232958,
+        "word": "杜紫怡回应tangoz声明",
+        "onboard_time": 1692354458,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202778,
+        "num": 232894,
+        "word": "诺兰中国行",
+        "onboard_time": 1692363520,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146459,
+        "num": 232854,
+        "word": "省十四运今晚在洛阳开幕",
+        "onboard_time": 1692367301,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143379,
+        "num": 232825,
+        "word": "三斤的修狗两斤的反骨",
+        "onboard_time": 1692366038,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113500,
+        "num": 232775,
+        "word": "男子考科三遇暴雨冒雨绕车一周",
+        "onboard_time": 1692367660,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106484,
+        "num": 232751,
+        "word": "孙悟空五行山下含泪吃安徽板面",
+        "onboard_time": 1692360456,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100780,
+        "num": 232705,
+        "word": "早点下班之三个猪蹄",
+        "onboard_time": 1692366222,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚洲首艘圆筒型海上油气加工厂船体完工#"
+    }
+  }
+}

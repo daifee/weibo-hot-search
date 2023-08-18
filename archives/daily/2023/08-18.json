@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692365650751,
+  "endTime": 1692368088178,
   "band_list": [
     {
       "raw_hot": 8961367,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2566989,
+      "num": 538185,
+      "word": "一个月一次的避孕针是什么",
+      "onboard_time": 1692362801,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2297062,
       "num": 2297062,
       "word": "电影孤注一掷被指侵权",
@@ -97,14 +105,6 @@
       "onboard_time": 1692358355,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1932141,
-      "num": 538185,
-      "word": "一个月一次的避孕针是什么",
-      "onboard_time": 1692362801,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 1889793,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1656084,
-      "num": 415004,
+      "num": 417739,
       "word": "月经沾裤子上紧急处理方法",
       "onboard_time": 1692342395,
       "rank": 33,
@@ -267,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1100262,
+      "num": 1100262,
+      "word": "中泰缅老警方合作打击赌诈集团",
+      "onboard_time": 1692364240,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1097399,
       "num": 1097399,
       "word": "林志颖公开回应车祸经历",
@@ -281,14 +289,6 @@
       "onboard_time": 1692323317,
       "rank": 30,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1086469,
-      "num": 1086469,
-      "word": "中泰缅老警方合作打击赌诈集团",
-      "onboard_time": 1692364240,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1077572,
@@ -329,6 +329,14 @@
       "onboard_time": 1692328416,
       "rank": 48,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 985889,
+      "num": 985889,
+      "word": "卿卿日常紫薯精vs七时吉祥走地鸡",
+      "onboard_time": 1692365740,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 983204,
@@ -377,6 +385,14 @@
       "onboard_time": 1692304574,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 856870,
+      "num": 856870,
+      "word": "这歌坛还是被孟子义闯进去了",
+      "onboard_time": 1692366641,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 832944,
@@ -539,6 +555,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 670692,
+      "num": 670692,
+      "word": "睡觉时手机在枕边充电有多危险",
+      "onboard_time": 1692362376,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 660332,
       "num": 660332,
       "word": "李玟曾回应在好声音录制现场质问不公",
@@ -627,14 +651,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 602637,
-      "num": 602637,
-      "word": "睡觉时手机在枕边充电有多危险",
-      "onboard_time": 1692362376,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 591636,
       "num": 400711,
       "word": "成都偶遇张艺兴吃火锅",
@@ -659,12 +675,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 574690,
+      "num": 448268,
+      "word": "张新成去看周杰伦演唱会",
+      "onboard_time": 1692366641,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 572791,
       "num": 371197,
       "word": "一个人租房后才懂的事",
       "onboard_time": 1692334482,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 569573,
+      "num": 444234,
+      "word": "内娱情绪稳定的明星",
+      "onboard_time": 1692366342,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 557635,
@@ -827,12 +859,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497819,
+      "num": 497819,
+      "word": "可以直接外穿的内衣",
+      "onboard_time": 1692363099,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 497213,
       "num": 369830,
       "word": "终于知道为什么医院的空调打那么低了",
       "onboard_time": 1692280788,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 492970,
+      "num": 492970,
+      "word": "权顺荣腹肌",
+      "onboard_time": 1692366641,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 488577,
@@ -931,6 +979,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 454997,
+      "num": 454997,
+      "word": "汪苏泷就让这大雨全都落下舞台",
+      "onboard_time": 1692367061,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 448165,
+      "num": 448165,
+      "word": "文俊辉直播",
+      "onboard_time": 1692365919,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446898,
       "num": 398122,
       "word": "蛋糕真的越来越离谱了",
@@ -945,6 +1009,14 @@
       "onboard_time": 1692332921,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 440230,
+      "num": 440230,
+      "word": "女儿拒绝父亲给的蛋糕被父亲砸脸",
+      "onboard_time": 1692364599,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431564,
@@ -969,6 +1041,14 @@
       "onboard_time": 1692344020,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 429144,
+      "num": 392557,
+      "word": "杨坤不止一次吐槽过好声音",
+      "onboard_time": 1692367363,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 426833,
@@ -1107,14 +1187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 385727,
-      "num": 232244,
-      "word": "女儿拒绝父亲给的蛋糕被父亲砸脸",
-      "onboard_time": 1692364599,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384838,
       "num": 384838,
       "word": "民警火场坚持进里屋发现酣睡老人",
@@ -1188,7 +1260,7 @@
     },
     {
       "raw_hot": 366952,
-      "num": 366952,
+      "num": 448332,
       "word": "入警仅6天四川民警破案后一通炫耀",
       "onboard_time": 1692360395,
       "rank": 37,
@@ -1211,20 +1283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358918,
+      "num": 460089,
+      "word": "80岁奶奶被假孙子骗20万民警上门止付",
+      "onboard_time": 1692364842,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357137,
       "num": 357137,
       "word": "安宥真剪头了",
       "onboard_time": 1692284323,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 356455,
-      "num": 232253,
-      "word": "可以直接外穿的内衣",
-      "onboard_time": 1692363099,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 352866,
@@ -1313,6 +1385,22 @@
       "onboard_time": 1692327877,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309059,
+      "num": 309059,
+      "word": "儿科医生朋友圈点赞多得滑不到底",
+      "onboard_time": 1692366342,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307274,
+      "num": 361478,
+      "word": "为什么这一次楼市救不动了",
+      "onboard_time": 1692364178,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 307251,
@@ -1460,7 +1548,7 @@
     },
     {
       "raw_hot": 271934,
-      "num": 232250,
+      "num": 254267,
       "word": "我在商场厕所最无助的瞬间",
       "onboard_time": 1692363940,
       "rank": 33,
@@ -1515,6 +1603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262217,
+      "num": 262217,
+      "word": "Angelababy蔡文姬拿MVP",
+      "onboard_time": 1692366822,
+      "rank": 34,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 260644,
       "num": 243425,
       "word": "和男朋友分手后平分手机",
@@ -1555,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253075,
+      "num": 350161,
+      "word": "睡眠不足真的会变胖",
+      "onboard_time": 1692365500,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252827,
       "num": 290974,
       "word": "昨天的巨崩韩漫是躺床上画的",
@@ -1569,6 +1673,14 @@
       "onboard_time": 1692333220,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250384,
+      "num": 250384,
+      "word": "华晨宇黄发歪嘴笑",
+      "onboard_time": 1692366580,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 248356,
@@ -1755,14 +1867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 223277,
-      "num": 223277,
-      "word": "为什么这一次楼市救不动了",
-      "onboard_time": 1692364178,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 222519,
       "num": 234194,
       "word": "证监会研究适当延长A股交易时间",
@@ -1875,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202778,
+      "num": 232894,
+      "word": "诺兰中国行",
+      "onboard_time": 1692363520,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202702,
       "num": 202702,
       "word": "过几天能去垃圾桶里捡花了",
@@ -1955,28 +2067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198027,
-      "num": 221676,
-      "word": "80岁奶奶被假孙子骗20万民警上门止付",
-      "onboard_time": 1692364842,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197627,
       "num": 197627,
       "word": "18岁男生暑假打3份工送姑姑金耳饰",
       "onboard_time": 1692318759,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197338,
-      "num": 219850,
-      "word": "诺兰中国行",
-      "onboard_time": 1692363520,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 196368,
@@ -2227,12 +2323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146459,
+      "num": 232854,
+      "word": "省十四运今晚在洛阳开幕",
+      "onboard_time": 1692367301,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144174,
       "num": 213056,
       "word": "中国牌王的千术陷阱",
       "onboard_time": 1692329078,
       "rank": 49,
       "category": "其它"
+    },
+    {
+      "raw_hot": 143379,
+      "num": 232825,
+      "word": "三斤的修狗两斤的反骨",
+      "onboard_time": 1692366038,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 140827,
@@ -2323,14 +2435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 124114,
-      "num": 214241,
-      "word": "睡眠不足真的会变胖",
-      "onboard_time": 1692365500,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 123209,
       "num": 194494,
       "word": "迢迢聆音",
@@ -2363,6 +2467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 113500,
+      "num": 232775,
+      "word": "男子考科三遇暴雨冒雨绕车一周",
+      "onboard_time": 1692367660,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109325,
       "num": 202925,
       "word": "燃灯校长点亮了求学的路",
@@ -2393,6 +2505,14 @@
       "onboard_time": 1692313585,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100780,
+      "num": 232705,
+      "word": "早点下班之三个猪蹄",
+      "onboard_time": 1692366222,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 89741,
