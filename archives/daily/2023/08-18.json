@@ -1,7 +1,15 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692328605495,
+  "endTime": 1692329630167,
   "band_list": [
+    {
+      "raw_hot": 7503225,
+      "num": 7503225,
+      "word": "李嘉捷向好声音致歉",
+      "onboard_time": 1692328116,
+      "rank": 1,
+      "category": "综艺,综艺"
+    },
     {
       "raw_hot": 6798828,
       "num": 536784,
@@ -49,14 +57,6 @@
       "onboard_time": 1692323373,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1907252,
-      "num": 1907252,
-      "word": "李嘉捷向好声音致歉",
-      "onboard_time": 1692328116,
-      "rank": 1,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 1793181,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 943727,
+      "num": 457940,
+      "word": "李嘉捷",
+      "onboard_time": 1692328716,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 879346,
       "num": 879346,
       "word": "恒大在美国申请破产保护",
@@ -176,6 +184,14 @@
       "word": "女子凌晨被短信告知航班提前3.5小时起飞",
       "onboard_time": 1692272376,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777702,
+      "num": 777702,
+      "word": "缅北受访者称噶腰子仅是段子",
+      "onboard_time": 1692328116,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -217,6 +233,14 @@
       "onboard_time": 1692319419,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616593,
+      "num": 360737,
+      "word": "手里的淀粉肠突然就不香了",
+      "onboard_time": 1692328416,
+      "rank": 48,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 591636,
@@ -377,6 +401,14 @@
       "onboard_time": 1692320798,
       "rank": 46,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 435289,
+      "num": 435289,
+      "word": "杨洋告黑案将开庭",
+      "onboard_time": 1692329319,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 429499,
@@ -547,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316368,
+      "num": 344102,
+      "word": "打车上班到公司被颠成了9级伤残",
+      "onboard_time": 1692327877,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307251,
       "num": 307251,
       "word": "于适给黄旭熙拍照旧图",
@@ -601,14 +641,6 @@
       "onboard_time": 1692326016,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 278583,
-      "num": 296040,
-      "word": "缅北受访者称噶腰子仅是段子",
-      "onboard_time": 1692328116,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274737,
@@ -723,11 +755,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240413,
-      "num": 344102,
-      "word": "打车上班到公司被颠成了9级伤残",
-      "onboard_time": 1692327877,
-      "rank": 29,
+      "raw_hot": 239640,
+      "num": 239640,
+      "word": "医生称不能把矛盾转移给普通医生",
+      "onboard_time": 1692327517,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -736,6 +768,14 @@
       "word": "AlanWalker合作过的中国艺人",
       "onboard_time": 1692323795,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 231473,
+      "num": 214402,
+      "word": "赵丽颖沈阳",
+      "onboard_time": 1692329620,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -779,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209343,
+      "num": 213861,
+      "word": "知识怎么一下子进我脑子了",
+      "onboard_time": 1692329139,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205974,
       "num": 205974,
       "word": "代号鸢七夕语音萌晕",
@@ -800,14 +848,6 @@
       "word": "夫妻俩车祸后被困手握手互相打气",
       "onboard_time": 1692318276,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201463,
-      "num": 206847,
-      "word": "医生称不能把矛盾转移给普通医生",
-      "onboard_time": 1692327517,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -881,14 +921,6 @@
       "onboard_time": 1692283908,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184673,
-      "num": 206846,
-      "word": "手里的淀粉肠突然就不香了",
-      "onboard_time": 1692328416,
-      "rank": 48,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 183794,
@@ -993,6 +1025,14 @@
       "onboard_time": 1692298397,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144174,
+      "num": 213056,
+      "word": "中国牌王的千术陷阱",
+      "onboard_time": 1692329078,
+      "rank": 49,
+      "category": "其它"
     },
     {
       "raw_hot": 140827,
@@ -1107,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 77293,
+      "num": 1269608,
+      "word": "是中国建造更是中国设计",
+      "onboard_time": 1692327158,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76056,
       "num": 110645,
       "word": "长时间滞缅重点地区会入黑名单",
@@ -1139,20 +1187,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 56349,
-      "num": 1253673,
-      "word": "是中国建造更是中国设计",
-      "onboard_time": 1692327158,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48699,
       "num": 109025,
       "word": "刘宪华戴五条项链",
       "onboard_time": 1692272739,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 33729,
+      "num": 273988,
+      "word": "毛不易东北菜宣传大使",
+      "onboard_time": 1692327639,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 27933,
@@ -1169,14 +1217,6 @@
       "onboard_time": 1692301455,
       "rank": 41,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 14526,
-      "num": 273988,
-      "word": "毛不易东北菜宣传大使",
-      "onboard_time": 1692327639,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 14156,
