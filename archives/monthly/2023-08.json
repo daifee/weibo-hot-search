@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692389799871,
+  "endTime": 1692390837265,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -47267,6 +47267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41412,
+      "num": 40753,
+      "word": "孔雪儿自己化的妆",
+      "onboard_time": 1692388515,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41366,
       "num": 41366,
       "word": "封神彩蛋",
@@ -47315,12 +47323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37905,
-      "num": 37905,
-      "word": "孔雪儿自己化的妆",
-      "onboard_time": 1692388515,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 37939,
+      "num": 37939,
+      "word": "微博手机影像年",
+      "onboard_time": 1692389954,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 37804,
@@ -47729,6 +47737,14 @@
       "onboard_time": 1691693595,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 23673,
+      "num": 31337,
+      "word": "内娱最精打细算的明星",
+      "onboard_time": 1692390794,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 23649,
