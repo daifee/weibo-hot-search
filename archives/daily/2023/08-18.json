@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692333238902,
+  "endTime": 1692335728854,
   "band_list": [
     {
       "raw_hot": 8961367,
@@ -107,8 +107,24 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1538561,
+      "num": 1538561,
+      "word": "最难喝饮料排行榜",
+      "onboard_time": 1692331181,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1396744,
+      "num": 481845,
+      "word": "中国好声音母公司股价大跌",
+      "onboard_time": 1692334839,
+      "rank": 10,
+      "category": "综艺,财经"
+    },
+    {
       "raw_hot": 1326108,
-      "num": 858654,
+      "num": 1015328,
       "word": "杨洋告黑案将开庭",
       "onboard_time": 1692329319,
       "rank": 16,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1136771,
+      "num": 1136771,
+      "word": "于正张檬再次合作",
+      "onboard_time": 1692333462,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1093071,
       "num": 1093071,
       "word": "武大回应夫妻宿舍配有两张单人床",
@@ -151,6 +175,14 @@
       "num": 716500,
       "word": "杨超越演技",
       "onboard_time": 1692318759,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1030370,
+      "num": 1030370,
+      "word": "南风知我意",
+      "onboard_time": 1692334121,
       "rank": 3,
       "category": "影视"
     },
@@ -195,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868245,
+      "num": 868245,
+      "word": "六公主播宝莲灯怀念李玟",
+      "onboard_time": 1692335021,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 832681,
       "num": 535896,
       "word": "鞠婧祎晕车",
       "onboard_time": 1692327099,
       "rank": 13,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 830858,
-      "num": 830858,
-      "word": "最难喝饮料排行榜",
-      "onboard_time": 1692331181,
-      "rank": 7,
-      "category": "美食"
     },
     {
       "raw_hot": 812061,
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 509138,
-      "num": 266271,
+      "num": 483088,
       "word": "罗布泊究竟有多恐怖",
       "onboard_time": 1692331298,
       "rank": 31,
@@ -401,6 +433,14 @@
       "onboard_time": 1692326737,
       "rank": 22,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 484101,
+      "num": 484101,
+      "word": "网易最大缝合怪",
+      "onboard_time": 1692333582,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 483524,
@@ -459,12 +499,28 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 443770,
+      "num": 443770,
+      "word": "霍思燕杜江带嗯哼看学爸",
+      "onboard_time": 1692332921,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429499,
       "num": 530735,
       "word": "丫丫的炸毛耳朵好圆啊",
       "onboard_time": 1692325596,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427923,
+      "num": 320518,
+      "word": "李雪琴真的太会写影评了",
+      "onboard_time": 1692334541,
+      "rank": 21,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 426833,
@@ -619,12 +675,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 355676,
+      "num": 393666,
+      "word": "全国仍有超1400万人口承受极端通勤",
+      "onboard_time": 1692331059,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352866,
       "num": 352866,
       "word": "初中设的自动回复忘记取消了",
       "onboard_time": 1692276582,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 349503,
+      "num": 305206,
+      "word": "一个人租房后才懂的事",
+      "onboard_time": 1692334482,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 344725,
@@ -657,22 +729,6 @@
       "onboard_time": 1692322957,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327782,
-      "num": 393666,
-      "word": "全国仍有超1400万人口承受极端通勤",
-      "onboard_time": 1692331059,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324611,
-      "num": 252353,
-      "word": "霍思燕杜江带嗯哼看学爸",
-      "onboard_time": 1692332921,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 321329,
@@ -819,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257749,
+      "num": 257749,
+      "word": "90后花1万布置毛坯房该有的都有",
+      "onboard_time": 1692332382,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 256021,
       "num": 256021,
       "word": "深圳暴雨",
@@ -835,12 +899,12 @@
       "category": "动漫,幽默"
     },
     {
-      "raw_hot": 248441,
-      "num": 248441,
-      "word": "90后花1万布置毛坯房该有的都有",
-      "onboard_time": 1692332382,
+      "raw_hot": 251213,
+      "num": 211240,
+      "word": "封神",
+      "onboard_time": 1692333220,
       "rank": 47,
-      "category": "社会新闻,财经"
+      "category": "影视"
     },
     {
       "raw_hot": 248356,
@@ -857,6 +921,14 @@
       "onboard_time": 1692281388,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243689,
+      "num": 211110,
+      "word": "赵露思复古油画大片",
+      "onboard_time": 1692335559,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 243331,
@@ -977,14 +1049,6 @@
       "onboard_time": 1692288279,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205342,
-      "num": 205342,
-      "word": "封神",
-      "onboard_time": 1692333220,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 204906,
@@ -1259,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115865,
+      "num": 210647,
+      "word": "电动车的安全隐患",
+      "onboard_time": 1692335681,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114763,
       "num": 114763,
       "word": "EDG八强赛对阵EG",
@@ -1393,6 +1465,9 @@
     },
     {
       "word": "#南海开渔千帆竞发大场面#"
+    },
+    {
+      "word": "#习主席非洲之行#"
     }
   ]
 }

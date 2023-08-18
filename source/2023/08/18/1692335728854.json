@@ -1,0 +1,410 @@
+{
+  "runTime": 1692335728854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1538561,
+        "num": 1538561,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1692331181,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1136771,
+        "num": 1136771,
+        "word": "于正张檬再次合作",
+        "onboard_time": 1692333462,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62729,
+        "num": 1079340,
+        "word": "是中国建造更是中国设计",
+        "onboard_time": 1692327158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030370,
+        "num": 1030370,
+        "word": "南风知我意",
+        "onboard_time": 1692334121,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1015328,
+        "num": 1015328,
+        "word": "杨洋告黑案将开庭",
+        "onboard_time": 1692329319,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 868245,
+        "num": 868245,
+        "word": "六公主播宝莲灯怀念李玟",
+        "onboard_time": 1692335021,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1108302,
+        "num": 768989,
+        "word": "缅北受访者称噶腰子仅是段子",
+        "onboard_time": 1692328116,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548280,
+        "num": 548280,
+        "word": "电影孤注一掷被指侵权",
+        "onboard_time": 1692323373,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484101,
+        "num": 484101,
+        "word": "网易最大缝合怪",
+        "onboard_time": 1692333582,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 433736,
+        "num": 483088,
+        "word": "罗布泊究竟有多恐怖",
+        "onboard_time": 1692331298,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1396744,
+        "num": 481845,
+        "word": "中国好声音母公司股价大跌",
+        "onboard_time": 1692334839,
+        "rank": 10,
+        "category": "综艺,财经"
+      },
+      {
+        "raw_hot": 809190,
+        "num": 481233,
+        "word": "缅甸华人称缅甸确实被妖魔化",
+        "onboard_time": 1692322957,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523225,
+        "num": 479721,
+        "word": "Angelababy水蓝人鱼姬妆容",
+        "onboard_time": 1692332740,
+        "rank": 12,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 310397,
+        "num": 478076,
+        "word": "爸爸车祸后7岁小哭包变成顶梁柱",
+        "onboard_time": 1692330938,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220824,
+        "num": 476702,
+        "word": "丫丫的炸毛耳朵好圆啊",
+        "onboard_time": 1692325596,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476534,
+        "num": 476534,
+        "word": "王一栩抑郁症",
+        "onboard_time": 1692315270,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 469441,
+        "num": 469441,
+        "word": "披荆斩棘第三季开播",
+        "onboard_time": 1692331780,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443770,
+        "num": 443770,
+        "word": "霍思燕杜江带嗯哼看学爸",
+        "onboard_time": 1692332921,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355676,
+        "num": 355676,
+        "word": "全国仍有超1400万人口承受极端通勤",
+        "onboard_time": 1692331059,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336409,
+        "num": 336409,
+        "word": "武大回应夫妻宿舍配有两张单人床",
+        "onboard_time": 1692323317,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 567855,
+        "num": 332848,
+        "word": "手里的淀粉肠突然就不香了",
+        "onboard_time": 1692328416,
+        "rank": 20,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 427923,
+        "num": 320518,
+        "word": "李雪琴真的太会写影评了",
+        "onboard_time": 1692334541,
+        "rank": 21,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 419127,
+        "num": 313476,
+        "word": "陈牧驰 人肉遮阳伞",
+        "onboard_time": 1692329921,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349503,
+        "num": 305206,
+        "word": "一个人租房后才懂的事",
+        "onboard_time": 1692334482,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303941,
+        "num": 303941,
+        "word": "看小说和不看小说的都沉默了",
+        "onboard_time": 1692321334,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403309,
+        "num": 296137,
+        "word": "刘亦菲意式宫廷大片",
+        "onboard_time": 1692327099,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 372963,
+        "num": 292775,
+        "word": "朴志效solo",
+        "onboard_time": 1692332498,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278688,
+        "num": 278688,
+        "word": "王一栩再发长文",
+        "onboard_time": 1692324215,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257749,
+        "num": 257749,
+        "word": "90后花1万布置毛坯房该有的都有",
+        "onboard_time": 1692332382,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 234100,
+        "num": 234100,
+        "word": "王一博宝可梦卡牌代言人",
+        "onboard_time": 1692326737,
+        "rank": 29,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 7018115,
+        "num": 233682,
+        "word": "李嘉捷向好声音致歉",
+        "onboard_time": 1692328116,
+        "rank": 30,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 491067,
+        "num": 232736,
+        "word": "李嘉捷",
+        "onboard_time": 1692328716,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 974294,
+        "num": 231951,
+        "word": "中国好声音声明",
+        "onboard_time": 1692284806,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273013,
+        "num": 231716,
+        "word": "蒲熠星 这个故事是我100%的作品",
+        "onboard_time": 1692319296,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231107,
+        "num": 231107,
+        "word": "弟弟为救在缅甸哥哥又被骗电诈园区",
+        "onboard_time": 1692321097,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434744,
+        "num": 222807,
+        "word": "李玟生前控诉中国好声音录音曝光",
+        "onboard_time": 1692278623,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211768,
+        "num": 211768,
+        "word": "知识怎么一下子进我脑子了",
+        "onboard_time": 1692329139,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208656,
+        "num": 211758,
+        "word": "打车上班到公司被颠成了9级伤残",
+        "onboard_time": 1692327877,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208385,
+        "num": 211662,
+        "word": "蛋糕真的越来越离谱了",
+        "onboard_time": 1692320798,
+        "rank": 38,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 197891,
+        "num": 211593,
+        "word": "四川内江地震",
+        "onboard_time": 1692323614,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372028,
+        "num": 211478,
+        "word": "李玟",
+        "onboard_time": 1692276880,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269361,
+        "num": 211371,
+        "word": "赵丽颖沈阳",
+        "onboard_time": 1692329620,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268697,
+        "num": 211311,
+        "word": "杨超越恳请大家看看七时吉祥",
+        "onboard_time": 1692322893,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251213,
+        "num": 211240,
+        "word": "封神",
+        "onboard_time": 1692333220,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243689,
+        "num": 211110,
+        "word": "赵露思复古油画大片",
+        "onboard_time": 1692335559,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 985435,
+        "num": 211058,
+        "word": "娱乐圈男妲己",
+        "onboard_time": 1692322835,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192816,
+        "num": 210930,
+        "word": "LBL重启",
+        "onboard_time": 1692332200,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151473,
+        "num": 210872,
+        "word": "关于自杀的一些误解",
+        "onboard_time": 1692331661,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141635,
+        "num": 210727,
+        "word": "代号鸢",
+        "onboard_time": 1692330762,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115865,
+        "num": 210647,
+        "word": "电动车的安全隐患",
+        "onboard_time": 1692335681,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
