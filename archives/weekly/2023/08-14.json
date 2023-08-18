@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692329630167,
+  "endTime": 1692332393269,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8961367,
+      "num": 7503225,
+      "word": "李嘉捷向好声音致歉",
+      "onboard_time": 1692328116,
+      "rank": 1,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 8687096,
       "num": 525903,
       "word": "李玟",
@@ -33,14 +41,6 @@
       "onboard_time": 1692284806,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7503225,
-      "num": 7503225,
-      "word": "李嘉捷向好声音致歉",
-      "onboard_time": 1692328116,
-      "rank": 1,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 5439650,
@@ -417,6 +417,14 @@
       "onboard_time": 1692055525,
       "rank": 1,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1889793,
+      "num": 1889793,
+      "word": "缅北受访者称噶腰子仅是段子",
+      "onboard_time": 1692328116,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1878349,
@@ -963,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1276955,
+      "num": 690799,
+      "word": "杨洋告黑案将开庭",
+      "onboard_time": 1692329319,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1264764,
       "num": 1264764,
       "word": "为什么电影院的最佳位置没人选",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1691988762,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1000512,
+      "num": 360737,
+      "word": "手里的淀粉肠突然就不香了",
+      "onboard_time": 1692328416,
+      "rank": 48,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 1000280,
@@ -1987,14 +2011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 777702,
-      "num": 777702,
-      "word": "缅北受访者称噶腰子仅是段子",
-      "onboard_time": 1692328116,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 776451,
       "num": 776451,
       "word": "中国警察让孤注一掷导演不要害怕",
@@ -2236,7 +2252,7 @@
     },
     {
       "raw_hot": 713135,
-      "num": 383873,
+      "num": 598894,
       "word": "刘亦菲意式宫廷大片",
       "onboard_time": 1692327099,
       "rank": 21,
@@ -2473,6 +2489,14 @@
       "onboard_time": 1692259842,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 680656,
+      "num": 680656,
+      "word": "陈牧驰 人肉遮阳伞",
+      "onboard_time": 1692329921,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 680476,
@@ -2817,14 +2841,6 @@
       "onboard_time": 1692030211,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 616593,
-      "num": 360737,
-      "word": "手里的淀粉肠突然就不香了",
-      "onboard_time": 1692328416,
-      "rank": 48,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 616250,
@@ -3193,6 +3209,14 @@
       "onboard_time": 1692277842,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 565251,
+      "num": 497763,
+      "word": "披荆斩棘第三季开播",
+      "onboard_time": 1692331780,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 565238,
@@ -3641,6 +3665,14 @@
       "onboard_time": 1691991034,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 516467,
+      "num": 516467,
+      "word": "最难喝饮料排行榜",
+      "onboard_time": 1692331181,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 515576,
@@ -4275,6 +4307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460750,
+      "num": 266271,
+      "word": "罗布泊究竟有多恐怖",
+      "onboard_time": 1692331298,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460362,
       "num": 408158,
       "word": "内娱新晋颜霸",
@@ -4619,14 +4659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 435289,
-      "num": 435289,
-      "word": "杨洋告黑案将开庭",
-      "onboard_time": 1692329319,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431173,
       "num": 310172,
       "word": "孕妇地铁上挤到大妈被骂是猪",
@@ -4899,6 +4931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415016,
+      "num": 349524,
+      "word": "赵丽颖沈阳",
+      "onboard_time": 1692329620,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414474,
       "num": 287172,
       "word": "赵今麦流苏吊带裙",
@@ -5137,6 +5177,14 @@
       "onboard_time": 1692056008,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393313,
+      "num": 284864,
+      "word": "电影版红楼梦首支预告",
+      "onboard_time": 1692329258,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 393187,
@@ -5449,6 +5497,14 @@
       "onboard_time": 1692068797,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371319,
+      "num": 371319,
+      "word": "知识怎么一下子进我脑子了",
+      "onboard_time": 1692329139,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 370994,
@@ -5811,6 +5867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344725,
+      "num": 282540,
+      "word": "陈牧驰 正统音伤血脉",
+      "onboard_time": 1692330640,
+      "rank": 26,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 344433,
       "num": 323216,
       "word": "薛之谦去鸟巢的路走了18年",
@@ -5977,6 +6041,14 @@
       "onboard_time": 1691995775,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330043,
+      "num": 512047,
+      "word": "爸爸车祸后7岁小哭包变成顶梁柱",
+      "onboard_time": 1692330938,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328381,
@@ -7379,6 +7451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268139,
+      "num": 268139,
+      "word": "代号鸢",
+      "onboard_time": 1692330762,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268062,
       "num": 267670,
       "word": "杨紫直播背景",
@@ -7651,6 +7731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 257633,
+      "num": 257633,
+      "word": "全国仍有超1400万人口承受极端通勤",
+      "onboard_time": 1692331059,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257568,
       "num": 257568,
       "word": "为什么吃辣椒后会流鼻涕",
@@ -7721,6 +7809,14 @@
       "onboard_time": 1692078876,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256021,
+      "num": 256021,
+      "word": "深圳暴雨",
+      "onboard_time": 1692330401,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255711,
@@ -8075,6 +8171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241976,
+      "num": 216723,
+      "word": "张学友成都",
+      "onboard_time": 1692330580,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241905,
       "num": 241905,
       "word": "曾舜晞曾演过熊出没",
@@ -8355,14 +8459,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 231473,
-      "num": 214402,
-      "word": "赵丽颖沈阳",
-      "onboard_time": 1692329620,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230834,
       "num": 213797,
       "word": "爱豆rapper中哪位是你的取向",
@@ -8417,6 +8513,14 @@
       "onboard_time": 1692231513,
       "rank": 40,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 228406,
+      "num": 216307,
+      "word": "张学友成都演唱会",
+      "onboard_time": 1692332382,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 228375,
@@ -8937,14 +9041,6 @@
       "onboard_time": 1692167317,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209343,
-      "num": 213861,
-      "word": "知识怎么一下子进我脑子了",
-      "onboard_time": 1692329139,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 208959,
@@ -10291,6 +10387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179667,
+      "num": 215961,
+      "word": "关于自杀的一些误解",
+      "onboard_time": 1692331661,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179607,
       "num": 216586,
       "word": "当你被家附近学校录取",
@@ -10321,6 +10425,14 @@
       "onboard_time": 1692227065,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177857,
+      "num": 215771,
+      "word": "90后花1万布置毛坯房该有的都有",
+      "onboard_time": 1692332382,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 177508,
@@ -10433,6 +10545,14 @@
       "onboard_time": 1692323193,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 173536,
+      "num": 215474,
+      "word": "LBL重启",
+      "onboard_time": 1692332200,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 173057,

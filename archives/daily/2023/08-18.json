@@ -1,9 +1,9 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692329630167,
+  "endTime": 1692332393269,
   "band_list": [
     {
-      "raw_hot": 7503225,
+      "raw_hot": 8961367,
       "num": 7503225,
       "word": "李嘉捷向好声音致歉",
       "onboard_time": 1692328116,
@@ -59,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1889793,
+      "num": 1889793,
+      "word": "缅北受访者称噶腰子仅是段子",
+      "onboard_time": 1692328116,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1793181,
       "num": 1729233,
       "word": "弟弟为救在缅甸哥哥又被骗电诈园区",
@@ -99,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1276955,
+      "num": 690799,
+      "word": "杨洋告黑案将开庭",
+      "onboard_time": 1692329319,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1160181,
       "num": 394033,
       "word": "李玟",
@@ -137,6 +153,14 @@
       "onboard_time": 1692318759,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1000512,
+      "num": 360737,
+      "word": "手里的淀粉肠突然就不香了",
+      "onboard_time": 1692328416,
+      "rank": 48,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 970663,
@@ -187,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 777702,
-      "num": 777702,
-      "word": "缅北受访者称噶腰子仅是段子",
-      "onboard_time": 1692328116,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 719734,
       "num": 719734,
       "word": "黄渤小时候被父亲打得皮带都断了",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 713135,
-      "num": 383873,
+      "num": 598894,
       "word": "刘亦菲意式宫廷大片",
       "onboard_time": 1692327099,
       "rank": 21,
@@ -217,6 +233,14 @@
       "onboard_time": 1692323614,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 680656,
+      "num": 680656,
+      "word": "陈牧驰 人肉遮阳伞",
+      "onboard_time": 1692329921,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 651322,
@@ -235,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 616593,
-      "num": 360737,
-      "word": "手里的淀粉肠突然就不香了",
-      "onboard_time": 1692328416,
-      "rank": 48,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 591636,
       "num": 400711,
       "word": "成都偶遇张艺兴吃火锅",
@@ -257,6 +273,14 @@
       "onboard_time": 1692316773,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 565251,
+      "num": 497763,
+      "word": "披荆斩棘第三季开播",
+      "onboard_time": 1692331780,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 557635,
@@ -313,6 +337,14 @@
       "onboard_time": 1692319060,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 516467,
+      "num": 516467,
+      "word": "最难喝饮料排行榜",
+      "onboard_time": 1692331181,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 510550,
@@ -395,20 +427,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 460750,
+      "num": 266271,
+      "word": "罗布泊究竟有多恐怖",
+      "onboard_time": 1692331298,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446898,
       "num": 398122,
       "word": "蛋糕真的越来越离谱了",
       "onboard_time": 1692320798,
       "rank": 46,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 435289,
-      "num": 435289,
-      "word": "杨洋告黑案将开庭",
-      "onboard_time": 1692329319,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 429499,
@@ -443,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415016,
+      "num": 349524,
+      "word": "赵丽颖沈阳",
+      "onboard_time": 1692329620,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414277,
       "num": 359102,
       "word": "刘雨昕迪丽热巴同框旧照",
@@ -464,6 +504,14 @@
       "word": "长相思四人组解读修罗场名场面",
       "onboard_time": 1692324875,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 393313,
+      "num": 284864,
+      "word": "电影版红楼梦首支预告",
+      "onboard_time": 1692329258,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -523,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371319,
+      "num": 371319,
+      "word": "知识怎么一下子进我脑子了",
+      "onboard_time": 1692329139,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 363078,
       "num": 363078,
       "word": "姐的精神状态不就是大学生吗",
@@ -547,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 344725,
+      "num": 282540,
+      "word": "陈牧驰 正统音伤血脉",
+      "onboard_time": 1692330640,
+      "rank": 26,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 342605,
       "num": 389760,
       "word": "教育机构要求老师穿长裤的原因",
@@ -568,6 +632,14 @@
       "word": "男子养价值十多万的品种鱼都成了冻鱼",
       "onboard_time": 1692322957,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330043,
+      "num": 512047,
+      "word": "爸爸车祸后7岁小哭包变成顶梁柱",
+      "onboard_time": 1692330938,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -667,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268139,
+      "num": 268139,
+      "word": "代号鸢",
+      "onboard_time": 1692330762,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265968,
       "num": 244078,
       "word": "今年看过最疯批的女人",
@@ -697,6 +777,22 @@
       "onboard_time": 1692323076,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257633,
+      "num": 257633,
+      "word": "全国仍有超1400万人口承受极端通勤",
+      "onboard_time": 1692331059,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256021,
+      "num": 256021,
+      "word": "深圳暴雨",
+      "onboard_time": 1692330401,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252827,
@@ -747,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241976,
+      "num": 216723,
+      "word": "张学友成都",
+      "onboard_time": 1692330580,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240742,
       "num": 423944,
       "word": "爸爸车祸昏迷7岁女儿变身小小顶梁柱",
@@ -771,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231473,
-      "num": 214402,
-      "word": "赵丽颖沈阳",
-      "onboard_time": 1692329620,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230077,
       "num": 275198,
       "word": "打击教育来自父母的自卑",
@@ -793,6 +889,14 @@
       "onboard_time": 1692286663,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228406,
+      "num": 216307,
+      "word": "张学友成都演唱会",
+      "onboard_time": 1692332382,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 214583,
@@ -817,14 +921,6 @@
       "onboard_time": 1692319597,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209343,
-      "num": 213861,
-      "word": "知识怎么一下子进我脑子了",
-      "onboard_time": 1692329139,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 205974,
@@ -939,6 +1035,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 179667,
+      "num": 215961,
+      "word": "关于自杀的一些误解",
+      "onboard_time": 1692331661,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 177857,
+      "num": 215771,
+      "word": "90后花1万布置毛坯房该有的都有",
+      "onboard_time": 1692332382,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 176215,
       "num": 176215,
       "word": "孤注一掷",
@@ -969,6 +1081,14 @@
       "onboard_time": 1692323193,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 173536,
+      "num": 215474,
+      "word": "LBL重启",
+      "onboard_time": 1692332200,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 173057,
