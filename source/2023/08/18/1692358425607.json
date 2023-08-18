@@ -1,0 +1,410 @@
+{
+  "runTime": 1692358425607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1608149,
+        "num": 1608149,
+        "word": "信 其实我是想去姐姐的",
+        "onboard_time": 1692350378,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350522,
+        "num": 1216316,
+        "word": "菜摊边写作业的女孩被川大华西口腔录取",
+        "onboard_time": 1692352239,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 6316,
+        "num": 1081836,
+        "word": "中国式现代化的京津冀实践",
+        "onboard_time": 1692326914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1061826,
+        "num": 1061826,
+        "word": "好声音寥寥数行回应就是对逝者的尊重吗",
+        "onboard_time": 1692356614,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202783,
+        "num": 825671,
+        "word": "爸爸车祸后7岁小哭包变成顶梁柱",
+        "onboard_time": 1692330938,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609257,
+        "num": 609257,
+        "word": "质疑芒狗 理解芒狗 养芒狗",
+        "onboard_time": 1692341734,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 196925,
+        "num": 573331,
+        "word": "广东房东给租客挨家送龙眼",
+        "onboard_time": 1692352299,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557979,
+        "num": 557979,
+        "word": "古天乐毁容妆过敏",
+        "onboard_time": 1692349361,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 491066,
+        "num": 491066,
+        "word": "赵丽颖蓝色星钻人鱼裙",
+        "onboard_time": 1692351517,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 407486,
+        "num": 407486,
+        "word": "网红二驴账号被封禁",
+        "onboard_time": 1692350497,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862145,
+        "num": 407312,
+        "word": "杜紫怡回应tangoz声明",
+        "onboard_time": 1692354458,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706798,
+        "num": 401718,
+        "word": "李玟姐姐称网传视频属实",
+        "onboard_time": 1692345461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565553,
+        "num": 401239,
+        "word": "鹿晗周五之约真的来了",
+        "onboard_time": 1692352538,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166791,
+        "num": 395462,
+        "word": "警方通报主播直播时编造被绑架",
+        "onboard_time": 1692344020,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 44143,
+        "num": 394074,
+        "word": "男子日行20公里守护山林45年",
+        "onboard_time": 1692356495,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 528072,
+        "num": 389942,
+        "word": "那辛",
+        "onboard_time": 1692353018,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424199,
+        "num": 386586,
+        "word": "马立奥上学路上的宝贝",
+        "onboard_time": 1692354997,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385935,
+        "num": 385935,
+        "word": "范丞丞玩梗关晓彤你叉叉",
+        "onboard_time": 1692357816,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373246,
+        "num": 373246,
+        "word": "张晚意被杨紫叫哥哥叫到崩溃",
+        "onboard_time": 1692349776,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319330,
+        "num": 319330,
+        "word": "恒大就破产传闻发布澄清公告",
+        "onboard_time": 1692354218,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 652277,
+        "num": 317724,
+        "word": "月经沾裤子上紧急处理方法",
+        "onboard_time": 1692342395,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521598,
+        "num": 316607,
+        "word": "刘亦菲的鞋有脚趾头",
+        "onboard_time": 1692355657,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312953,
+        "num": 312953,
+        "word": "警方辟谣女孩为追星把第一次给黄牛",
+        "onboard_time": 1692352117,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299050,
+        "num": 299050,
+        "word": "缅甸华人称缅甸确实被妖魔化",
+        "onboard_time": 1692322957,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298078,
+        "num": 298078,
+        "word": "东北人至暗时刻",
+        "onboard_time": 1692356315,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341898,
+        "num": 293783,
+        "word": "Angelababy虞书欣今日活动生图",
+        "onboard_time": 1692349958,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341538,
+        "num": 291563,
+        "word": "涂山璟lookatme",
+        "onboard_time": 1692357334,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286414,
+        "num": 286414,
+        "word": "情侣全款买婚房原房主妻子将门焊死",
+        "onboard_time": 1692350559,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276704,
+        "num": 276704,
+        "word": "4岁女童因穿刺操作失误命丧手术台",
+        "onboard_time": 1692350018,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262767,
+        "num": 262767,
+        "word": "何同学拍的胶卷星空",
+        "onboard_time": 1692356136,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 471774,
+        "num": 262416,
+        "word": "李佳琦到底多大了啊",
+        "onboard_time": 1692350199,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 400244,
+        "num": 261628,
+        "word": "中国好声音母公司股价大跌",
+        "onboard_time": 1692334839,
+        "rank": 31,
+        "category": "综艺,财经"
+      },
+      {
+        "raw_hot": 258911,
+        "num": 258911,
+        "word": "大家情绪都好容易不稳定啊",
+        "onboard_time": 1692353077,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271958,
+        "num": 244756,
+        "word": "李嘉捷向好声音致歉",
+        "onboard_time": 1692328116,
+        "rank": 33,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 215570,
+        "num": 215570,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1692331181,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 243544,
+        "num": 215238,
+        "word": "八大古装公子",
+        "onboard_time": 1692353138,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237498,
+        "num": 215226,
+        "word": "成毅莲花楼被囚花絮",
+        "onboard_time": 1692354338,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211507,
+        "num": 211507,
+        "word": "以前上课偷看韩剧的方式",
+        "onboard_time": 1692353978,
+        "rank": 37,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 202486,
+        "num": 202486,
+        "word": "TTG锁定胜者组",
+        "onboard_time": 1692357275,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201706,
+        "num": 201706,
+        "word": "KPL",
+        "onboard_time": 1692358113,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211583,
+        "num": 201646,
+        "word": "孤注一掷张艺兴每件衣服都有故事",
+        "onboard_time": 1692351578,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201120,
+        "num": 201120,
+        "word": "披荆斩棘",
+        "onboard_time": 1692342455,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186717,
+        "num": 201118,
+        "word": "关于年龄的风向变了",
+        "onboard_time": 1692354279,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 173281,
+        "num": 201114,
+        "word": "陆毅因为贝儿参加披荆斩棘",
+        "onboard_time": 1692340474,
+        "rank": 43,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 167016,
+        "num": 201112,
+        "word": "南风知我意",
+        "onboard_time": 1692334121,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166610,
+        "num": 201107,
+        "word": "林俊杰 抢票",
+        "onboard_time": 1692341855,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141202,
+        "num": 201102,
+        "word": "打响取消公摊第一枪的为什么是合肥",
+        "onboard_time": 1692358355,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134725,
+        "num": 201098,
+        "word": "男子阳台吸烟跌到通风井多处摔伤",
+        "onboard_time": 1692352239,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133104,
+        "num": 201095,
+        "word": "小时候被大人的性冷淡风骗了",
+        "onboard_time": 1692337358,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 128865,
+        "num": 201093,
+        "word": "医院回应穿刺失误致女童死亡",
+        "onboard_time": 1692357997,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚洲首艘圆筒型海上油气加工厂船体完工#"
+    }
+  }
+}
