@@ -1,0 +1,410 @@
+{
+  "runTime": 1692400528849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1044953,
+        "num": 1044953,
+        "word": "雅典娜",
+        "onboard_time": 1692373059,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 752354,
+        "num": 752354,
+        "word": "睡觉时手机在枕边充电有多危险",
+        "onboard_time": 1692362376,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 27091,
+        "num": 574915,
+        "word": "中国国家太空实验室已正式运行",
+        "onboard_time": 1692361056,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474738,
+        "num": 474738,
+        "word": "周琦赵睿互换东家",
+        "onboard_time": 1692378149,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255726,
+        "num": 255726,
+        "word": "中泰缅老警方合作打击赌诈集团",
+        "onboard_time": 1692364240,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230275,
+        "num": 230275,
+        "word": "打响取消公摊第一枪的为什么是合肥",
+        "onboard_time": 1692358355,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215847,
+        "num": 215847,
+        "word": "卿卿日常紫薯精vs七时吉祥走地鸡",
+        "onboard_time": 1692365740,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214151,
+        "num": 214151,
+        "word": "儿科医生朋友圈点赞多得滑不到底",
+        "onboard_time": 1692366342,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196566,
+        "num": 196566,
+        "word": "檀健次怎么净想着爆自己料",
+        "onboard_time": 1692374077,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189041,
+        "num": 189041,
+        "word": "10元盒饭35个菜的大姐休息了",
+        "onboard_time": 1692368741,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285146,
+        "num": 173728,
+        "word": "一个月一次的避孕针是什么",
+        "onboard_time": 1692362801,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242322,
+        "num": 163978,
+        "word": "白鹿换风格了",
+        "onboard_time": 1692372400,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147553,
+        "num": 147553,
+        "word": "张新成周杰伦合唱你听得到",
+        "onboard_time": 1692372340,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146474,
+        "num": 146474,
+        "word": "赵睿",
+        "onboard_time": 1692379824,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143702,
+        "num": 143702,
+        "word": "林志颖陆毅王耀庆是同龄人",
+        "onboard_time": 1692358474,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172596,
+        "num": 143081,
+        "word": "医院回应穿刺失误致女童死亡",
+        "onboard_time": 1692357997,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136709,
+        "num": 136709,
+        "word": "可以直接外穿的内衣",
+        "onboard_time": 1692363099,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 115300,
+        "num": 115300,
+        "word": "王一博真的要去山里了",
+        "onboard_time": 1692372100,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113168,
+        "num": 113168,
+        "word": "贵州村BA颁奖现场奖品闹情绪了",
+        "onboard_time": 1692397938,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90931,
+        "num": 112453,
+        "word": "隔着屏幕都能感受到父女俩的喜悦",
+        "onboard_time": 1692375694,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337726,
+        "num": 109536,
+        "word": "15岁儿子才1米61父母痛悔之前没在意",
+        "onboard_time": 1692372100,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155582,
+        "num": 108627,
+        "word": "月经沾裤子上紧急处理方法",
+        "onboard_time": 1692342395,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142868,
+        "num": 106845,
+        "word": "女儿拒绝父亲给的蛋糕被父亲砸脸",
+        "onboard_time": 1692364599,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135171,
+        "num": 105048,
+        "word": "男子考科三遇暴雨冒雨绕车一周",
+        "onboard_time": 1692367660,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103660,
+        "num": 103660,
+        "word": "双子座的自保能力太强了",
+        "onboard_time": 1692373719,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118521,
+        "num": 103464,
+        "word": "果然教育具有延迟性",
+        "onboard_time": 1692369641,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118324,
+        "num": 100304,
+        "word": "潘生升职被关系户加塞",
+        "onboard_time": 1692372819,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115042,
+        "num": 99700,
+        "word": "内娱情绪稳定的明星",
+        "onboard_time": 1692366342,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95927,
+        "num": 95927,
+        "word": "睡眠不足真的会变胖",
+        "onboard_time": 1692365500,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92853,
+        "num": 92853,
+        "word": "没十年相思病剪不出这玩意儿",
+        "onboard_time": 1692358474,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 827554,
+        "num": 92364,
+        "word": "中国好声音赞助商遭网友喊话",
+        "onboard_time": 1692372041,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104739,
+        "num": 92038,
+        "word": "李玟姐姐称网传视频属实",
+        "onboard_time": 1692345461,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444786,
+        "num": 91881,
+        "word": "杨坤不止一次吐槽过好声音",
+        "onboard_time": 1692367363,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91001,
+        "num": 91001,
+        "word": "如何看待网红二驴被封禁",
+        "onboard_time": 1692391215,
+        "rank": 33,
+        "category": "网红,社会议题"
+      },
+      {
+        "raw_hot": 90242,
+        "num": 90242,
+        "word": "南风知我意是什么故事副本",
+        "onboard_time": 1692371922,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87977,
+        "num": 87977,
+        "word": "吴昕谈快乐家族之间的灵魂沟通",
+        "onboard_time": 1692370364,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87724,
+        "num": 87724,
+        "word": "何炅是半个娱乐圈的伯乐",
+        "onboard_time": 1692362435,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81678,
+        "num": 81678,
+        "word": "易烊千玺My Boo发行三周年",
+        "onboard_time": 1692374798,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 80519,
+        "num": 80519,
+        "word": "盗墓笔记 今天初一拜财神",
+        "onboard_time": 1692374916,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 77611,
+        "num": 77611,
+        "word": "周深绝了",
+        "onboard_time": 1692369764,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69430,
+        "num": 69430,
+        "word": "质疑芒狗 理解芒狗 养芒狗",
+        "onboard_time": 1692341734,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 68215,
+        "num": 68215,
+        "word": "蚊子为什么不叮别人只叮你",
+        "onboard_time": 1692382339,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58050,
+        "num": 58050,
+        "word": "程潇在中餐厅一天吃四餐",
+        "onboard_time": 1692392593,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56220,
+        "num": 56220,
+        "word": "取名真的不用顾及孩子感受吗",
+        "onboard_time": 1692372282,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53395,
+        "num": 53395,
+        "word": "孔雪儿自己化的妆",
+        "onboard_time": 1692388515,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52624,
+        "num": 52624,
+        "word": "范丞丞玩梗关晓彤你叉叉",
+        "onboard_time": 1692357816,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51671,
+        "num": 51671,
+        "word": "好声音寥寥数行回应就是对逝者的尊重吗",
+        "onboard_time": 1692356614,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50384,
+        "num": 50384,
+        "word": "韩剧假面女郎",
+        "onboard_time": 1692374378,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50037,
+        "num": 50037,
+        "word": "张杰一个人的KTV局",
+        "onboard_time": 1692382877,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45443,
+        "num": 50030,
+        "word": "杨颖不忍心拒绝小朋友合照要求的原因",
+        "onboard_time": 1692368322,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路大道同行#"
+    }
+  }
+}

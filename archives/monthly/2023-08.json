@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692398040339,
+  "endTime": 1692400528849,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -10483,6 +10483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752354,
+      "num": 752354,
+      "word": "睡觉时手机在枕边充电有多危险",
+      "onboard_time": 1692362376,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 752255,
       "num": 389840,
       "word": "杨幂和卖崽蛙合影",
@@ -12345,14 +12353,6 @@
       "onboard_time": 1691018544,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 670692,
-      "num": 670692,
-      "word": "睡觉时手机在枕边充电有多危险",
-      "onboard_time": 1692362376,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 670499,
@@ -45115,6 +45115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113168,
+      "num": 113168,
+      "word": "贵州村BA颁奖现场奖品闹情绪了",
+      "onboard_time": 1692397938,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113135,
       "num": 236095,
       "word": "医生回老家乡亲们排队来看病",
@@ -45867,11 +45875,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91001,
+      "num": 91001,
+      "word": "如何看待网红二驴被封禁",
+      "onboard_time": 1692391215,
+      "rank": 21,
+      "category": "网红,社会议题"
+    },
+    {
       "raw_hot": 90978,
       "num": 216068,
       "word": "积水中黑龙江消防员片刻不停救援",
       "onboard_time": 1691208875,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90931,
+      "num": 306629,
+      "word": "隔着屏幕都能感受到父女俩的喜悦",
+      "onboard_time": 1692375694,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -46129,14 +46153,6 @@
       "onboard_time": 1691056237,
       "rank": 28,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 82732,
-      "num": 306629,
-      "word": "隔着屏幕都能感受到父女俩的喜悦",
-      "onboard_time": 1692375694,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82516,
@@ -46491,6 +46507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68215,
+      "num": 68215,
+      "word": "蚊子为什么不叮别人只叮你",
+      "onboard_time": 1692382339,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68209,
       "num": 556055,
       "word": "退役军人摆摊卖面为遇困者设免费餐",
@@ -46683,14 +46707,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 61613,
-      "num": 57412,
-      "word": "如何看待网红二驴被封禁",
-      "onboard_time": 1692391215,
-      "rank": 21,
-      "category": "网红,社会议题"
-    },
-    {
       "raw_hot": 61467,
       "num": 485427,
       "word": "涿州孤岛救援12小时纪实",
@@ -46825,6 +46841,14 @@
       "onboard_time": 1692263382,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 58050,
+      "num": 58050,
+      "word": "程潇在中餐厅一天吃四餐",
+      "onboard_time": 1692392593,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 57920,
@@ -46984,6 +47008,14 @@
       "word": "张含韵蘑菇摇摆舞",
       "onboard_time": 1692247239,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 53395,
+      "num": 53395,
+      "word": "孔雪儿自己化的妆",
+      "onboard_time": 1692388515,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -47243,14 +47275,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 43594,
-      "num": 44859,
-      "word": "程潇在中餐厅一天吃四餐",
-      "onboard_time": 1692392593,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 42292,
       "num": 75239,
       "word": "HAPPYMARKDAY",
@@ -47281,14 +47305,6 @@
       "onboard_time": 1692246400,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41412,
-      "num": 44155,
-      "word": "孔雪儿自己化的妆",
-      "onboard_time": 1692388515,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 41366,
@@ -47529,14 +47545,6 @@
       "onboard_time": 1690871014,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30647,
-      "num": 43881,
-      "word": "蚊子为什么不叮别人只叮你",
-      "onboard_time": 1692382339,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 30348,
