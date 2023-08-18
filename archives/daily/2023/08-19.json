@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692393231432,
+  "endTime": 1692394434374,
   "band_list": [
     {
       "raw_hot": 2333538,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45278,
+      "num": 45278,
+      "word": "如何看待网红二驴被封禁",
+      "onboard_time": 1692391215,
+      "rank": 21,
+      "category": "网红,社会议题"
+    },
+    {
       "raw_hot": 44085,
       "num": 54275,
       "word": "暑期档念念不忘的角色",
@@ -484,19 +492,11 @@
     },
     {
       "raw_hot": 41412,
-      "num": 40753,
+      "num": 41053,
       "word": "孔雪儿自己化的妆",
       "onboard_time": 1692388515,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40656,
-      "num": 40656,
-      "word": "如何看待网红二驴被封禁",
-      "onboard_time": 1692391215,
-      "rank": 21,
-      "category": "网红,社会议题"
     },
     {
       "raw_hot": 37939,
@@ -515,24 +515,24 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 25061,
-      "num": 37724,
-      "word": "蚊子为什么不叮别人只叮你",
-      "onboard_time": 1692382339,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 24628,
-      "num": 33758,
+      "raw_hot": 34074,
+      "num": 41151,
       "word": "程潇在中餐厅一天吃四餐",
       "onboard_time": 1692392593,
       "rank": 35,
       "category": "综艺"
     },
     {
+      "raw_hot": 26558,
+      "num": 41033,
+      "word": "蚊子为什么不叮别人只叮你",
+      "onboard_time": 1692382339,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24065,
-      "num": 33604,
+      "num": 40966,
       "word": "内娱最精打细算的明星",
       "onboard_time": 1692390794,
       "rank": 38,
