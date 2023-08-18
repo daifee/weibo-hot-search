@@ -1,0 +1,410 @@
+{
+  "runTime": 1692351234589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 830868,
+        "num": 830868,
+        "word": "林志颖公开回应车祸经历",
+        "onboard_time": 1692343240,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1385916,
+        "num": 827233,
+        "word": "质疑芒狗 理解芒狗 养芒狗",
+        "onboard_time": 1692341734,
+        "rank": 1,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 20233,
+        "num": 815483,
+        "word": "中国式现代化的京津冀实践",
+        "onboard_time": 1692326914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1562884,
+        "num": 815372,
+        "word": "李玟姐姐称网传视频属实",
+        "onboard_time": 1692345461,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 814895,
+        "num": 814895,
+        "word": "张晚意被杨紫叫哥哥叫到崩溃",
+        "onboard_time": 1692349776,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 773926,
+        "num": 773926,
+        "word": "警方通报网传二驴直播被绑架",
+        "onboard_time": 1692346602,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544857,
+        "num": 544857,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1692331181,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 372671,
+        "num": 372671,
+        "word": "陆毅因为贝儿参加披荆斩棘",
+        "onboard_time": 1692340474,
+        "rank": 7,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 335828,
+        "num": 335828,
+        "word": "程耳王一博人鱼立项",
+        "onboard_time": 1692348759,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244903,
+        "num": 335362,
+        "word": "网红二驴账号被封禁",
+        "onboard_time": 1692350497,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1024407,
+        "num": 334814,
+        "word": "古天乐毁容妆过敏",
+        "onboard_time": 1692349361,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 932060,
+        "num": 334615,
+        "word": "李佳琦到底多大了啊",
+        "onboard_time": 1692350199,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 790099,
+        "num": 333611,
+        "word": "Angelababy虞书欣今日活动生图",
+        "onboard_time": 1692349958,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157835,
+        "num": 332978,
+        "word": "爸爸车祸后7岁小哭包变成顶梁柱",
+        "onboard_time": 1692330938,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74301,
+        "num": 332458,
+        "word": "丫丫的炸毛耳朵好圆啊",
+        "onboard_time": 1692325596,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697706,
+        "num": 331944,
+        "word": "中国好声音母公司股价大跌",
+        "onboard_time": 1692334839,
+        "rank": 15,
+        "category": "综艺,财经"
+      },
+      {
+        "raw_hot": 466969,
+        "num": 331357,
+        "word": "阿里影业喊话法庭见",
+        "onboard_time": 1692347140,
+        "rank": 16,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 417183,
+        "num": 331081,
+        "word": "YG没发权志龙生贺图",
+        "onboard_time": 1692348339,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330532,
+        "num": 330532,
+        "word": "缅甸华人称缅甸确实被妖魔化",
+        "onboard_time": 1692322957,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222496,
+        "num": 327934,
+        "word": "A股",
+        "onboard_time": 1692338678,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215730,
+        "num": 326292,
+        "word": "视觉中国称支持戴建峰报警",
+        "onboard_time": 1692341855,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1204842,
+        "num": 319260,
+        "word": "月经沾裤子上紧急处理方法",
+        "onboard_time": 1692342395,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551175,
+        "num": 318476,
+        "word": "4岁女童因穿刺操作失误命丧手术台",
+        "onboard_time": 1692350018,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314745,
+        "num": 314745,
+        "word": "南风知我意",
+        "onboard_time": 1692334121,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303798,
+        "num": 303798,
+        "word": "警方通报主播直播时编造被绑架",
+        "onboard_time": 1692344020,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 291096,
+        "num": 291096,
+        "word": "小时候被大人的性冷淡风骗了",
+        "onboard_time": 1692337358,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 273421,
+        "num": 273421,
+        "word": "张智霖胡杏儿新片拍婚纱照",
+        "onboard_time": 1692350559,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245665,
+        "num": 245665,
+        "word": "孤注一掷片方否认侵权",
+        "onboard_time": 1692346059,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245467,
+        "num": 245467,
+        "word": "夭玹的婚后日常",
+        "onboard_time": 1692343601,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508966,
+        "num": 245279,
+        "word": "折腰",
+        "onboard_time": 1692344380,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 608801,
+        "num": 243937,
+        "word": "信 其实我是想去姐姐的",
+        "onboard_time": 1692350378,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577260,
+        "num": 242697,
+        "word": "李嘉捷向好声音致歉",
+        "onboard_time": 1692328116,
+        "rank": 31,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 334448,
+        "num": 241853,
+        "word": "情侣全款买婚房原房主妻子将门焊死",
+        "onboard_time": 1692350559,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326775,
+        "num": 241523,
+        "word": "中国好声音声明",
+        "onboard_time": 1692284806,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240575,
+        "num": 240575,
+        "word": "妹妹误触了少儿模式退不出来了",
+        "onboard_time": 1692343542,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254352,
+        "num": 240089,
+        "word": "六公主播宝莲灯怀念李玟",
+        "onboard_time": 1692335021,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239450,
+        "num": 239450,
+        "word": "赵丽颖沈阳",
+        "onboard_time": 1692329620,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211938,
+        "num": 211938,
+        "word": "WBG和LGD是大小王",
+        "onboard_time": 1692346781,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172961,
+        "num": 207412,
+        "word": "证监会研究适当延长A股交易时间",
+        "onboard_time": 1692349539,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162251,
+        "num": 207369,
+        "word": "缅北受访者称噶腰子仅是段子",
+        "onboard_time": 1692328116,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207368,
+        "num": 207368,
+        "word": "张艺兴孤注一掷成都路演",
+        "onboard_time": 1692346842,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205988,
+        "num": 205988,
+        "word": "李玟曾回应在好声音录制现场质问不公",
+        "onboard_time": 1692338858,
+        "rank": 41,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 187433,
+        "num": 205188,
+        "word": "披荆斩棘",
+        "onboard_time": 1692342455,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179219,
+        "num": 204520,
+        "word": "林俊杰 抢票",
+        "onboard_time": 1692341855,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153350,
+        "num": 203657,
+        "word": "于正张檬再次合作",
+        "onboard_time": 1692333462,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136989,
+        "num": 202870,
+        "word": "95后女生开公司允许带娃上班",
+        "onboard_time": 1692343178,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133334,
+        "num": 201837,
+        "word": "一个人租房后才懂的事",
+        "onboard_time": 1692334482,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132965,
+        "num": 201070,
+        "word": "手里的淀粉肠突然就不香了",
+        "onboard_time": 1692328416,
+        "rank": 47,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 128257,
+        "num": 200211,
+        "word": "支持研究中止或部分中止ECFA对台关税优惠",
+        "onboard_time": 1692346358,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105337,
+        "num": 199725,
+        "word": "中国探险协会支持会员向视觉中国维权",
+        "onboard_time": 1692349119,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚洲首艘圆筒型海上油气加工厂船体完工#"
+    }
+  }
+}
