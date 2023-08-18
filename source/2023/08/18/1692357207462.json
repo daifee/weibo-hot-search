@@ -1,0 +1,410 @@
+{
+  "runTime": 1692357207462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1341864,
+        "num": 1341864,
+        "word": "信 其实我是想去姐姐的",
+        "onboard_time": 1692350378,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338141,
+        "num": 941312,
+        "word": "菜摊边写作业的女孩被川大华西口腔录取",
+        "onboard_time": 1692352239,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 7075,
+        "num": 859842,
+        "word": "中国式现代化的京津冀实践",
+        "onboard_time": 1692326914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809102,
+        "num": 809102,
+        "word": "古天乐毁容妆过敏",
+        "onboard_time": 1692349361,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255913,
+        "num": 712651,
+        "word": "爸爸车祸后7岁小哭包变成顶梁柱",
+        "onboard_time": 1692330938,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704000,
+        "num": 704000,
+        "word": "李玟姐姐称网传视频属实",
+        "onboard_time": 1692345461,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222390,
+        "num": 627933,
+        "word": "广东房东给租客挨家送龙眼",
+        "onboard_time": 1692352299,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623329,
+        "num": 623329,
+        "word": "质疑芒狗 理解芒狗 养芒狗",
+        "onboard_time": 1692341734,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 562607,
+        "num": 562607,
+        "word": "赵丽颖蓝色星钻人鱼裙",
+        "onboard_time": 1692351517,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 611642,
+        "num": 547274,
+        "word": "李佳琦到底多大了啊",
+        "onboard_time": 1692350199,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1077572,
+        "num": 541785,
+        "word": "杜紫怡回应tangoz声明",
+        "onboard_time": 1692354458,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667450,
+        "num": 519848,
+        "word": "鹿晗周五之约真的来了",
+        "onboard_time": 1692352538,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638929,
+        "num": 501300,
+        "word": "那辛",
+        "onboard_time": 1692353018,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103032,
+        "num": 485671,
+        "word": "张桂梅对学生的爱只增不减",
+        "onboard_time": 1692354038,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18622,
+        "num": 472923,
+        "word": "男子日行20公里守护山林45年",
+        "onboard_time": 1692356495,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 465418,
+        "num": 465418,
+        "word": "网红二驴账号被封禁",
+        "onboard_time": 1692350497,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429315,
+        "num": 429315,
+        "word": "张晚意被杨紫叫哥哥叫到崩溃",
+        "onboard_time": 1692349776,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417781,
+        "num": 417781,
+        "word": "Angelababy虞书欣今日活动生图",
+        "onboard_time": 1692349958,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 340358,
+        "num": 417664,
+        "word": "恒大就破产传闻发布澄清公告",
+        "onboard_time": 1692354218,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 324501,
+        "num": 416370,
+        "word": "缅甸华人称缅甸确实被妖魔化",
+        "onboard_time": 1692322957,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695816,
+        "num": 415004,
+        "word": "月经沾裤子上紧急处理方法",
+        "onboard_time": 1692342395,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427685,
+        "num": 414517,
+        "word": "刘亦菲的鞋有脚趾头",
+        "onboard_time": 1692355657,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413869,
+        "num": 413869,
+        "word": "马立奥上学路上的宝贝",
+        "onboard_time": 1692354997,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390213,
+        "num": 390213,
+        "word": "警方辟谣女孩为追星把第一次给黄牛",
+        "onboard_time": 1692352117,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338802,
+        "num": 338802,
+        "word": "情侣全款买婚房原房主妻子将门焊死",
+        "onboard_time": 1692350559,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381530,
+        "num": 334388,
+        "word": "好声音寥寥数行回应就是对逝者的尊重吗",
+        "onboard_time": 1692356614,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311612,
+        "num": 311612,
+        "word": "4岁女童因穿刺操作失误命丧手术台",
+        "onboard_time": 1692350018,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287968,
+        "num": 287968,
+        "word": "八大古装公子",
+        "onboard_time": 1692353138,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271573,
+        "num": 271573,
+        "word": "大家情绪都好容易不稳定啊",
+        "onboard_time": 1692353077,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254268,
+        "num": 254268,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1692331181,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 418820,
+        "num": 253588,
+        "word": "中国好声音母公司股价大跌",
+        "onboard_time": 1692334839,
+        "rank": 30,
+        "category": "综艺,财经"
+      },
+      {
+        "raw_hot": 268434,
+        "num": 251257,
+        "word": "何同学拍的胶卷星空",
+        "onboard_time": 1692356136,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 315710,
+        "num": 247224,
+        "word": "李嘉捷向好声音致歉",
+        "onboard_time": 1692328116,
+        "rank": 32,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 239028,
+        "num": 239028,
+        "word": "成毅莲花楼被囚花絮",
+        "onboard_time": 1692354338,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228181,
+        "num": 228181,
+        "word": "以前上课偷看韩剧的方式",
+        "onboard_time": 1692353978,
+        "rank": 34,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 216297,
+        "num": 216297,
+        "word": "孤注一掷张艺兴每件衣服都有故事",
+        "onboard_time": 1692351578,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208093,
+        "num": 208093,
+        "word": "关于年龄的风向变了",
+        "onboard_time": 1692354279,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 206432,
+        "num": 206432,
+        "word": "披荆斩棘",
+        "onboard_time": 1692342455,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192227,
+        "num": 206429,
+        "word": "男子阳台吸烟跌到通风井多处摔伤",
+        "onboard_time": 1692352239,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163716,
+        "num": 206413,
+        "word": "东北人至暗时刻",
+        "onboard_time": 1692356315,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181286,
+        "num": 206402,
+        "word": "林志颖公开回应车祸经历",
+        "onboard_time": 1692343240,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175414,
+        "num": 206392,
+        "word": "林俊杰 抢票",
+        "onboard_time": 1692341855,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174931,
+        "num": 206382,
+        "word": "南风知我意",
+        "onboard_time": 1692334121,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160578,
+        "num": 206376,
+        "word": "陆毅因为贝儿参加披荆斩棘",
+        "onboard_time": 1692340474,
+        "rank": 43,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 154111,
+        "num": 206358,
+        "word": "夭玹的婚后日常",
+        "onboard_time": 1692343601,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147284,
+        "num": 206355,
+        "word": "小时候被大人的性冷淡风骗了",
+        "onboard_time": 1692337358,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 138001,
+        "num": 206343,
+        "word": "A股",
+        "onboard_time": 1692338678,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130271,
+        "num": 206327,
+        "word": "妹妹误触了少儿模式退不出来了",
+        "onboard_time": 1692343542,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128328,
+        "num": 206323,
+        "word": "警方通报网传二驴直播被绑架",
+        "onboard_time": 1692346602,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123384,
+        "num": 206302,
+        "word": "菲律宾任命前外交部长为中国特使",
+        "onboard_time": 1692351159,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
