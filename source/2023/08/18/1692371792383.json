@@ -1,0 +1,410 @@
+{
+  "runTime": 1692371792383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1403305,
+        "num": 1403305,
+        "word": "周深绝了",
+        "onboard_time": 1692369764,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2011768,
+        "num": 1385416,
+        "word": "杨坤不止一次吐槽过好声音",
+        "onboard_time": 1692367363,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60169,
+        "num": 1223046,
+        "word": "中国国家太空实验室已正式运行",
+        "onboard_time": 1692361056,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1154792,
+        "num": 1154792,
+        "word": "杨颖不忍心拒绝小朋友合照要求的原因",
+        "onboard_time": 1692368322,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1120227,
+        "num": 1120227,
+        "word": "何炅是半个娱乐圈的伯乐",
+        "onboard_time": 1692362435,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716672,
+        "num": 716672,
+        "word": "卿卿日常紫薯精vs七时吉祥走地鸡",
+        "onboard_time": 1692365740,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 589142,
+        "num": 589142,
+        "word": "10元盒饭35个菜的大姐休息了",
+        "onboard_time": 1692368741,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562348,
+        "num": 562348,
+        "word": "打响取消公摊第一枪的为什么是合肥",
+        "onboard_time": 1692358355,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490705,
+        "num": 490705,
+        "word": "中泰缅老警方合作打击赌诈集团",
+        "onboard_time": 1692364240,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456549,
+        "num": 456549,
+        "word": "医院回应穿刺失误致女童死亡",
+        "onboard_time": 1692357997,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2160950,
+        "num": 455388,
+        "word": "一个月一次的避孕针是什么",
+        "onboard_time": 1692362801,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 481996,
+        "num": 444079,
+        "word": "长相思",
+        "onboard_time": 1692369941,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460145,
+        "num": 437092,
+        "word": "这歌坛还是被孟子义闯进去了",
+        "onboard_time": 1692366641,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296726,
+        "num": 427620,
+        "word": "儿科医生朋友圈点赞多得滑不到底",
+        "onboard_time": 1692366342,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22469,
+        "num": 423250,
+        "word": "民警开视频帮小学生追万元骗款",
+        "onboard_time": 1692370902,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417092,
+        "num": 417092,
+        "word": "睡觉时手机在枕边充电有多危险",
+        "onboard_time": 1692362376,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 368059,
+        "num": 368059,
+        "word": "可以直接外穿的内衣",
+        "onboard_time": 1692363099,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 348431,
+        "num": 348431,
+        "word": "汪苏泷就让这大雨全都落下舞台",
+        "onboard_time": 1692367061,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324462,
+        "num": 324462,
+        "word": "邓为一套衣服拍了多少物料",
+        "onboard_time": 1692363821,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316318,
+        "num": 316318,
+        "word": "质疑芒狗 理解芒狗 养芒狗",
+        "onboard_time": 1692341734,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 703081,
+        "num": 316021,
+        "word": "内娱情绪稳定的明星",
+        "onboard_time": 1692366342,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599029,
+        "num": 314618,
+        "word": "男子考科三遇暴雨冒雨绕车一周",
+        "onboard_time": 1692367660,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504557,
+        "num": 313733,
+        "word": "吴昕谈快乐家族之间的灵魂沟通",
+        "onboard_time": 1692370364,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482934,
+        "num": 312422,
+        "word": "月经沾裤子上紧急处理方法",
+        "onboard_time": 1692342395,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368744,
+        "num": 310312,
+        "word": "张新成去看周杰伦演唱会",
+        "onboard_time": 1692366641,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322308,
+        "num": 309264,
+        "word": "鹿晗与芦苇合照",
+        "onboard_time": 1692371081,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308949,
+        "num": 308949,
+        "word": "女儿拒绝父亲给的蛋糕被父亲砸脸",
+        "onboard_time": 1692364599,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273444,
+        "num": 273444,
+        "word": "果然教育具有延迟性",
+        "onboard_time": 1692369641,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265042,
+        "num": 265042,
+        "word": "范丞丞玩梗关晓彤你叉叉",
+        "onboard_time": 1692357816,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245703,
+        "num": 245703,
+        "word": "权顺荣腹肌",
+        "onboard_time": 1692366641,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1014880,
+        "num": 244981,
+        "word": "那英的妹妹这英",
+        "onboard_time": 1692361357,
+        "rank": 30,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 448383,
+        "num": 244457,
+        "word": "李玟姐姐称网传视频属实",
+        "onboard_time": 1692345461,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327128,
+        "num": 243657,
+        "word": "好声音寥寥数行回应就是对逝者的尊重吗",
+        "onboard_time": 1692356614,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240644,
+        "num": 240644,
+        "word": "你们馒头界是在搞科研吗",
+        "onboard_time": 1692369825,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235723,
+        "num": 235723,
+        "word": "为什么这一次楼市救不动了",
+        "onboard_time": 1692364178,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245344,
+        "num": 235208,
+        "word": "没十年相思病剪不出这玩意儿",
+        "onboard_time": 1692358474,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236794,
+        "num": 233714,
+        "word": "杜紫怡回应tangoz声明",
+        "onboard_time": 1692354458,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171303,
+        "num": 232938,
+        "word": "睡眠不足真的会变胖",
+        "onboard_time": 1692365500,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158055,
+        "num": 231870,
+        "word": "怪不得我喜欢吃垃圾食品",
+        "onboard_time": 1692368683,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153123,
+        "num": 230053,
+        "word": "入警仅6天四川民警破案后一通炫耀",
+        "onboard_time": 1692360395,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229800,
+        "num": 229800,
+        "word": "林志颖陆毅王耀庆是同龄人",
+        "onboard_time": 1692358474,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206752,
+        "num": 229495,
+        "word": "Angelababy蔡文姬拿MVP",
+        "onboard_time": 1692366822,
+        "rank": 41,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 187573,
+        "num": 229312,
+        "word": "刘宇清唱彼岸",
+        "onboard_time": 1692370902,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185459,
+        "num": 229114,
+        "word": "古天乐毁容妆过敏",
+        "onboard_time": 1692349361,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181342,
+        "num": 228753,
+        "word": "华晨宇黄发歪嘴笑",
+        "onboard_time": 1692366580,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130591,
+        "num": 228198,
+        "word": "九尾 倒霉蛋",
+        "onboard_time": 1692359254,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129125,
+        "num": 227846,
+        "word": "情侣全款买婚房原房主妻子将门焊死",
+        "onboard_time": 1692350559,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122055,
+        "num": 227769,
+        "word": "警方辟谣女孩为追星把第一次给黄牛",
+        "onboard_time": 1692352117,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120989,
+        "num": 227486,
+        "word": "80岁奶奶被假孙子骗20万民警上门止付",
+        "onboard_time": 1692364842,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118126,
+        "num": 226952,
+        "word": "网红二驴账号被封禁",
+        "onboard_time": 1692350497,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路大道同行#"
+    }
+  }
+}

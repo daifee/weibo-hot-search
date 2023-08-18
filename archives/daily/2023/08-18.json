@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692369225528,
+  "endTime": 1692371792383,
   "band_list": [
     {
       "raw_hot": 8961367,
@@ -105,6 +105,14 @@
       "onboard_time": 1692358355,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2011768,
+      "num": 1385416,
+      "word": "杨坤不止一次吐槽过好声音",
+      "onboard_time": 1692367363,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1889793,
@@ -227,20 +235,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1403305,
+      "num": 1403305,
+      "word": "周深绝了",
+      "onboard_time": 1692369764,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1326108,
       "num": 1015328,
       "word": "杨洋告黑案将开庭",
       "onboard_time": 1692329319,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1272501,
-      "num": 1272501,
-      "word": "杨坤不止一次吐槽过好声音",
-      "onboard_time": 1692367363,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 1246993,
@@ -264,6 +272,14 @@
       "word": "王一栩再发长文",
       "onboard_time": 1692324215,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1154792,
+      "num": 1154792,
+      "word": "杨颖不忍心拒绝小朋友合照要求的原因",
+      "onboard_time": 1692368322,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -419,14 +435,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 825233,
-      "num": 493683,
-      "word": "杨颖不忍心拒绝小朋友合照要求的原因",
-      "onboard_time": 1692368322,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 822662,
       "num": 822662,
       "word": "Angelababy虞书欣今日活动生图",
@@ -555,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 703081,
+      "num": 444234,
+      "word": "内娱情绪稳定的明星",
+      "onboard_time": 1692366342,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680656,
       "num": 680656,
       "word": "陈牧驰 人肉遮阳伞",
@@ -651,14 +667,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 624938,
-      "num": 444234,
-      "word": "内娱情绪稳定的明星",
-      "onboard_time": 1692366342,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 622710,
       "num": 547920,
       "word": "于适素颜",
@@ -675,6 +683,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 599029,
+      "num": 368781,
+      "word": "男子考科三遇暴雨冒雨绕车一周",
+      "onboard_time": 1692367660,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598161,
       "num": 598161,
       "word": "汪苏泷就让这大雨全都落下舞台",
@@ -689,6 +705,14 @@
       "onboard_time": 1692316955,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 589142,
+      "num": 589142,
+      "word": "10元盒饭35个菜的大姐休息了",
+      "onboard_time": 1692368741,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 578706,
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504557,
+      "num": 313733,
+      "word": "吴昕谈快乐家族之间的灵魂沟通",
+      "onboard_time": 1692370364,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501195,
       "num": 338802,
       "word": "情侣全款买婚房原房主妻子将门焊死",
@@ -945,6 +977,14 @@
       "onboard_time": 1692313282,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481996,
+      "num": 444079,
+      "word": "长相思",
+      "onboard_time": 1692369941,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 478665,
@@ -1267,14 +1307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 368781,
-      "num": 368781,
-      "word": "男子考科三遇暴雨冒雨绕车一周",
-      "onboard_time": 1692367660,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366952,
       "num": 448332,
       "word": "入警仅6天四川民警破案后一通炫耀",
@@ -1387,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322308,
+      "num": 309264,
+      "word": "鹿晗与芦苇合照",
+      "onboard_time": 1692371081,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321329,
       "num": 321329,
       "word": "好的睡眠质量是人生最好的财富",
@@ -1404,7 +1444,7 @@
     },
     {
       "raw_hot": 309059,
-      "num": 309059,
+      "num": 427620,
       "word": "儿科医生朋友圈点赞多得滑不到底",
       "onboard_time": 1692366342,
       "rank": 32,
@@ -1553,6 +1593,14 @@
       "onboard_time": 1692325959,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273444,
+      "num": 273444,
+      "word": "果然教育具有延迟性",
+      "onboard_time": 1692369641,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 273421,
@@ -1777,6 +1825,14 @@
       "onboard_time": 1692313282,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240644,
+      "num": 240644,
+      "word": "你们馒头界是在搞科研吗",
+      "onboard_time": 1692369825,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 239640,
@@ -2179,6 +2235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 187573,
+      "num": 229312,
+      "word": "刘宇清唱彼岸",
+      "onboard_time": 1692370902,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186820,
       "num": 186820,
       "word": "狗子跳海救落水儿童被呛水去世",
@@ -2291,14 +2355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163321,
-      "num": 273529,
-      "word": "10元盒饭35个菜的大姐休息了",
-      "onboard_time": 1692368741,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162883,
       "num": 183794,
       "word": "Daddy退休后的愿望朴实无华",
@@ -2313,6 +2369,14 @@
       "onboard_time": 1692274837,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158055,
+      "num": 231870,
+      "word": "怪不得我喜欢吃垃圾食品",
+      "onboard_time": 1692368683,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 152314,
@@ -2361,14 +2425,6 @@
       "onboard_time": 1692329078,
       "rank": 49,
       "category": "其它"
-    },
-    {
-      "raw_hot": 144028,
-      "num": 212534,
-      "word": "怪不得我喜欢吃垃圾食品",
-      "onboard_time": 1692368683,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 143379,
@@ -2643,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60169,
+      "num": 1223046,
+      "word": "中国国家太空实验室已正式运行",
+      "onboard_time": 1692361056,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59239,
       "num": 241132,
       "word": "张朝阳清华大学演讲",
@@ -2707,20 +2771,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29697,
-      "num": 1021999,
-      "word": "中国国家太空实验室已正式运行",
-      "onboard_time": 1692361056,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27933,
       "num": 108141,
       "word": "小孩报喜不报忧的原因",
       "onboard_time": 1692303016,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 22469,
+      "num": 423250,
+      "word": "民警开视频帮小学生追万元骗款",
+      "onboard_time": 1692370902,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21317,
