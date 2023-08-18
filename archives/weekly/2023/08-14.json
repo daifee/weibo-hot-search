@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692353825954,
+  "endTime": 1692354819633,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -1779,6 +1779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 897856,
+      "num": 897856,
+      "word": "信 其实我是想去姐姐的",
+      "onboard_time": 1692350378,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 897000,
       "num": 897000,
       "word": "奶奶接法国来电10岁乖孙帮转账",
@@ -1993,14 +2001,6 @@
       "onboard_time": 1692327099,
       "rank": 13,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 830278,
-      "num": 830278,
-      "word": "信 其实我是想去姐姐的",
-      "onboard_time": 1692350378,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 827315,
@@ -2219,6 +2219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 759119,
+      "num": 759119,
+      "word": "鹿晗周五之约真的来了",
+      "onboard_time": 1692352538,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 756018,
       "num": 489479,
       "word": "雷军建议不要给年轻人建议",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1691985337,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 732683,
+      "num": 732683,
+      "word": "那辛",
+      "onboard_time": 1692353018,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 731400,
@@ -2875,6 +2891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 644212,
+      "num": 644212,
+      "word": "网红二驴账号被封禁",
+      "onboard_time": 1692350497,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643440,
       "num": 643440,
       "word": "长相思",
@@ -2963,14 +2987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 630332,
-      "num": 630332,
-      "word": "鹿晗周五之约真的来了",
-      "onboard_time": 1692352538,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 628805,
       "num": 628805,
       "word": "陈楚生对李玖哲唱张镐哲的歌",
@@ -2993,14 +3009,6 @@
       "onboard_time": 1692161864,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 627006,
-      "num": 627006,
-      "word": "网红二驴账号被封禁",
-      "onboard_time": 1692350497,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625306,
@@ -3632,14 +3640,6 @@
       "word": "朴春自拍",
       "onboard_time": 1692076598,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 546279,
-      "num": 546279,
-      "word": "那辛",
-      "onboard_time": 1692353018,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -5187,6 +5187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422097,
+      "num": 422097,
+      "word": "杜紫怡回应tangoz声明",
+      "onboard_time": 1692354458,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421425,
       "num": 122583,
       "word": "27岁女子蜜月同房后大出血险没命",
@@ -5553,6 +5561,14 @@
       "onboard_time": 1692047172,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396214,
+      "num": 224495,
+      "word": "大家情绪都好容易不稳定啊",
+      "onboard_time": 1692353077,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 396013,
@@ -6321,6 +6337,14 @@
       "onboard_time": 1692249637,
       "rank": 25,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 340654,
+      "num": 243051,
+      "word": "八大古装公子",
+      "onboard_time": 1692353138,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 340259,
@@ -8611,14 +8635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 243051,
-      "num": 243051,
-      "word": "八大古装公子",
-      "onboard_time": 1692353138,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243019,
       "num": 243019,
       "word": "国产剧美惨强的角色",
@@ -8641,6 +8657,14 @@
       "onboard_time": 1692255040,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242245,
+      "num": 984876,
+      "word": "菜摊边写作业的女孩被川大华西口腔录取",
+      "onboard_time": 1692352239,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 242112,
@@ -9403,6 +9427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215049,
+      "num": 899259,
+      "word": "广东房东给租客挨家送龙眼",
+      "onboard_time": 1692352299,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215048,
       "num": 215048,
       "word": "李荣浩天津",
@@ -9473,14 +9505,6 @@
       "onboard_time": 1692323134,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212836,
-      "num": 212836,
-      "word": "大家情绪都好容易不稳定啊",
-      "onboard_time": 1692353077,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 212796,
@@ -9603,6 +9627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209734,
+      "num": 209734,
+      "word": "以前上课偷看韩剧的方式",
+      "onboard_time": 1692353978,
+      "rank": 35,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 209653,
       "num": 209653,
       "word": "檀健次教科书式救场",
@@ -9649,6 +9681,14 @@
       "onboard_time": 1692018880,
       "rank": 46,
       "category": "科技,时尚"
+    },
+    {
+      "raw_hot": 208619,
+      "num": 208619,
+      "word": "成毅莲花楼被囚花絮",
+      "onboard_time": 1692354338,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 207980,
@@ -10451,6 +10491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193056,
+      "num": 193056,
+      "word": "妈妈学会的地道英语",
+      "onboard_time": 1692354576,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 193022,
       "num": 193022,
       "word": "亚运会羽毛球门票",
@@ -10771,14 +10819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187480,
-      "num": 984876,
-      "word": "菜摊边写作业的女孩被川大华西口腔录取",
-      "onboard_time": 1692352239,
-      "rank": 4,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 187403,
       "num": 187403,
       "word": "OST红白喜事组合",
@@ -10953,6 +10993,14 @@
       "onboard_time": 1692250897,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182844,
+      "num": 182844,
+      "word": "恒大就破产传闻发布澄清公告",
+      "onboard_time": 1692354218,
+      "rank": 42,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 182075,
@@ -11289,6 +11337,14 @@
       "onboard_time": 1692031407,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166813,
+      "num": 166813,
+      "word": "关于年龄的风向变了",
+      "onboard_time": 1692354279,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 166786,
@@ -11803,14 +11859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135652,
-      "num": 899259,
-      "word": "广东房东给租客挨家送龙眼",
-      "onboard_time": 1692352299,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135299,
       "num": 172462,
       "word": "野外快速生火小技巧",
@@ -12239,6 +12287,14 @@
       "num": 538260,
       "word": "父子把流浪大叔带回家接力照顾42年",
       "onboard_time": 1692079236,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89067,
+      "num": 627085,
+      "word": "张桂梅对学生的爱只增不减",
+      "onboard_time": 1692354038,
       "rank": 14,
       "category": "社会新闻"
     },
