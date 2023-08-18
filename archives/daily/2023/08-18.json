@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692344033076,
+  "endTime": 1692346808351,
   "band_list": [
     {
       "raw_hot": 8961367,
@@ -25,6 +25,14 @@
       "onboard_time": 1692334839,
       "rank": 10,
       "category": "综艺,财经"
+    },
+    {
+      "raw_hot": 2903067,
+      "num": 2903067,
+      "word": "质疑芒狗 理解芒狗 养芒狗",
+      "onboard_time": 1692341734,
+      "rank": 10,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 2842188,
@@ -59,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2630498,
+      "num": 2630498,
+      "word": "李玟姐姐称网传视频属实",
+      "onboard_time": 1692345461,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2297062,
       "num": 2297062,
       "word": "电影孤注一掷被指侵权",
       "onboard_time": 1692323373,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2087399,
-      "num": 2087399,
-      "word": "质疑芒狗 理解芒狗 养芒狗",
-      "onboard_time": 1692341734,
-      "rank": 10,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 1889793,
@@ -123,6 +131,14 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 1615064,
+      "num": 352084,
+      "word": "月经沾裤子上紧急处理方法",
+      "onboard_time": 1692342395,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1567737,
       "num": 1567737,
       "word": "蒲熠星 这个故事是我100%的作品",
@@ -137,14 +153,6 @@
       "onboard_time": 1692331181,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1525354,
-      "num": 334883,
-      "word": "月经沾裤子上紧急处理方法",
-      "onboard_time": 1692342395,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1475061,
@@ -195,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1096809,
+      "num": 1073587,
+      "word": "林志颖公开回应车祸经历",
+      "onboard_time": 1692343240,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1093071,
       "num": 1093071,
       "word": "武大回应夫妻宿舍配有两张单人床",
@@ -216,6 +232,14 @@
       "word": "杨超越演技",
       "onboard_time": 1692318759,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1025307,
+      "num": 1025307,
+      "word": "折腰",
+      "onboard_time": 1692344380,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 705359,
-      "num": 332421,
+      "num": 357232,
       "word": "林俊杰 抢票",
       "onboard_time": 1692341855,
       "rank": 20,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 531673,
-      "num": 511605,
+      "num": 517788,
       "word": "视觉中国称支持戴建峰报警",
       "onboard_time": 1692341855,
       "rank": 34,
@@ -504,6 +528,14 @@
       "word": "金晨谈安娜",
       "onboard_time": 1692319060,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 510791,
+      "num": 445633,
+      "word": "孤注一掷片方否认侵权",
+      "onboard_time": 1692346059,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -601,6 +633,14 @@
       "onboard_time": 1692324335,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 469497,
+      "num": 345987,
+      "word": "妹妹误触了少儿模式退不出来了",
+      "onboard_time": 1692343542,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 463976,
@@ -715,6 +755,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399739,
+      "num": 336242,
+      "word": "夭玹的婚后日常",
+      "onboard_time": 1692343601,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 398755,
+      "num": 326871,
+      "word": "二驴",
+      "onboard_time": 1692344020,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 395683,
       "num": 395683,
       "word": "长相思四人组解读修罗场名场面",
@@ -769,6 +825,14 @@
       "onboard_time": 1692273459,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 381662,
+      "num": 381662,
+      "word": "何群是你吗",
+      "onboard_time": 1692342758,
+      "rank": 46,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 381544,
@@ -867,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 338594,
-      "num": 338594,
-      "word": "林志颖公开回应车祸经历",
-      "onboard_time": 1692343240,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333317,
       "num": 394226,
       "word": "男子养价值十多万的品种鱼都成了冻鱼",
@@ -897,14 +953,6 @@
       "onboard_time": 1692327877,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315167,
-      "num": 315167,
-      "word": "何群是你吗",
-      "onboard_time": 1692342758,
-      "rank": 46,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 307251,
@@ -1000,14 +1048,6 @@
       "word": "长相思大荒四大才子篇",
       "onboard_time": 1692325959,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 269848,
-      "num": 269848,
-      "word": "夭玹的婚后日常",
-      "onboard_time": 1692343601,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -1187,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231395,
-      "num": 231395,
-      "word": "妹妹误触了少儿模式退不出来了",
-      "onboard_time": 1692343542,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 230077,
       "num": 275198,
       "word": "打击教育来自父母的自卑",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1692286663,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229118,
+      "num": 229118,
+      "word": "LOL手游吸血鬼登场",
+      "onboard_time": 1692346059,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 228406,
@@ -1315,19 +1355,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201241,
-      "num": 201241,
-      "word": "二驴",
-      "onboard_time": 1692344020,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 200921,
       "num": 266597,
       "word": "Jeff的星空之旅称收到死亡威胁",
       "onboard_time": 1692338918,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200830,
+      "num": 211893,
+      "word": "支持研究中止或部分中止ECFA对台关税优惠",
+      "onboard_time": 1692346358,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1361,6 +1401,14 @@
       "onboard_time": 1692289891,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 195384,
+      "num": 209882,
+      "word": "WBG和LGD是大小王",
+      "onboard_time": 1692346781,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 194200,
@@ -1433,6 +1481,14 @@
       "onboard_time": 1692278681,
       "rank": 44,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 176627,
+      "num": 209861,
+      "word": "150的就业方向",
+      "onboard_time": 1692344078,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 176215,
@@ -1547,6 +1603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136496,
+      "num": 209804,
+      "word": "警方通报网传二驴直播被绑架",
+      "onboard_time": 1692346602,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135778,
       "num": 183793,
       "word": "榜一大姐直接上台打赏了",
@@ -1651,6 +1715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85708,
+      "num": 311030,
+      "word": "这条裤子是来报恩的吧",
+      "onboard_time": 1692345403,
+      "rank": 27,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 83650,
       "num": 156299,
       "word": "七时吉祥停播一天",
@@ -1731,6 +1803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 44416,
+      "num": 415416,
+      "word": "洪水后居民发现子弟兵烈日下帮扫院子",
+      "onboard_time": 1692345699,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41995,
       "num": 1624004,
       "word": "中国式现代化的京津冀实践",
@@ -1788,6 +1868,9 @@
     },
     {
       "word": "#习主席非洲之行#"
+    },
+    {
+      "word": "#亚洲首艘圆筒型海上油气加工厂船体完工#"
     }
   ]
 }
