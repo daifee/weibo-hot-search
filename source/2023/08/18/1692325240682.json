@@ -1,0 +1,410 @@
+{
+  "runTime": 1692325240682,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2253471,
+        "num": 2253471,
+        "word": "缅甸华人称缅甸确实被妖魔化",
+        "onboard_time": 1692322957,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1273158,
+        "num": 1273158,
+        "word": "电影孤注一掷被指侵权",
+        "onboard_time": 1692323373,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11094,
+        "num": 1162760,
+        "word": "这些灾后恢复的画面辛苦又感动",
+        "onboard_time": 1692246400,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1793181,
+        "num": 1162387,
+        "word": "弟弟为救在缅甸哥哥又被骗电诈园区",
+        "onboard_time": 1692321097,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1157800,
+        "num": 1157800,
+        "word": "王一栩再发长文",
+        "onboard_time": 1692324215,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821262,
+        "num": 821262,
+        "word": "蒲熠星 这个故事是我100%的作品",
+        "onboard_time": 1692319296,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 692189,
+        "num": 692189,
+        "word": "黄渤小时候被父亲打得皮带都断了",
+        "onboard_time": 1692323557,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 699813,
+        "num": 668176,
+        "word": "有人自林中坠落",
+        "onboard_time": 1692320318,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 600614,
+        "num": 600614,
+        "word": "四川内江地震",
+        "onboard_time": 1692323614,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355784,
+        "num": 596737,
+        "word": "年轻人脱发的四大原因",
+        "onboard_time": 1692322714,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2355738,
+        "num": 586277,
+        "word": "娱乐圈男妲己",
+        "onboard_time": 1692322835,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1577107,
+        "num": 580515,
+        "word": "王一栩抑郁症",
+        "onboard_time": 1692315270,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1025452,
+        "num": 568536,
+        "word": "网友发现自己小时候舞蹈老师是李佳琦",
+        "onboard_time": 1692317316,
+        "rank": 12,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 671311,
+        "num": 562873,
+        "word": "武大回应夫妻宿舍配有两张单人床",
+        "onboard_time": 1692323317,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 179651,
+        "num": 552718,
+        "word": "男孩ATM机上捡现金反复向监控示意",
+        "onboard_time": 1692277960,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547920,
+        "num": 547920,
+        "word": "于适素颜",
+        "onboard_time": 1692319419,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492571,
+        "num": 492571,
+        "word": "杨超越演技",
+        "onboard_time": 1692318759,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492503,
+        "num": 492503,
+        "word": "云之羽播出时间",
+        "onboard_time": 1692321156,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383804,
+        "num": 474780,
+        "word": "缅北失联20岁男生解救过程",
+        "onboard_time": 1692318157,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334779,
+        "num": 469088,
+        "word": "衡水中学校长称已注意到网红要打衡中",
+        "onboard_time": 1692286306,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1757705,
+        "num": 469075,
+        "word": "中国好声音声明",
+        "onboard_time": 1692284806,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463976,
+        "num": 463976,
+        "word": "看小说和不看小说的都沉默了",
+        "onboard_time": 1692321334,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 767311,
+        "num": 434448,
+        "word": "李玟生前控诉中国好声音录音曝光",
+        "onboard_time": 1692278623,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398122,
+        "num": 398122,
+        "word": "蛋糕真的越来越离谱了",
+        "onboard_time": 1692320798,
+        "rank": 23,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 333317,
+        "num": 394226,
+        "word": "男子养价值十多万的品种鱼都成了冻鱼",
+        "onboard_time": 1692322957,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440034,
+        "num": 394204,
+        "word": "杨超越恳请大家看看七时吉祥",
+        "onboard_time": 1692322893,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394033,
+        "num": 394033,
+        "word": "李玟",
+        "onboard_time": 1692276880,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344887,
+        "num": 344887,
+        "word": "七时吉祥为什么不火",
+        "onboard_time": 1692324335,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319597,
+        "num": 319597,
+        "word": "恒大在美国申请破产保护",
+        "onboard_time": 1692313886,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 263909,
+        "num": 263909,
+        "word": "高三男生1支笔战600场考试圆梦复旦",
+        "onboard_time": 1692318097,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 342055,
+        "num": 262904,
+        "word": "姐的精神状态不就是大学生吗",
+        "onboard_time": 1692324574,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314173,
+        "num": 262571,
+        "word": "金晨谈安娜",
+        "onboard_time": 1692319060,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276929,
+        "num": 261276,
+        "word": "成都偶遇张艺兴吃火锅",
+        "onboard_time": 1692316955,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259756,
+        "num": 259756,
+        "word": "不能相互打听工资",
+        "onboard_time": 1692316773,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195511,
+        "num": 195511,
+        "word": "好的睡眠质量是人生最好的财富",
+        "onboard_time": 1692320078,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268311,
+        "num": 195166,
+        "word": "假如相柳娶了青丘公主",
+        "onboard_time": 1692315753,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238562,
+        "num": 195097,
+        "word": "AlanWalker合作过的中国艺人",
+        "onboard_time": 1692323795,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222033,
+        "num": 195057,
+        "word": "长相思四人组解读修罗场名场面",
+        "onboard_time": 1692324875,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194689,
+        "num": 194689,
+        "word": "宝可梦",
+        "onboard_time": 1692324935,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178832,
+        "num": 194267,
+        "word": "男子为赚7000元参加药物试验老婆要离婚",
+        "onboard_time": 1692314549,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210529,
+        "num": 194244,
+        "word": "丁禹兮杨超越直播还原吻戏",
+        "onboard_time": 1692316172,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194200,
+        "num": 194200,
+        "word": "刘宇端水的方式是劈叉",
+        "onboard_time": 1692325113,
+        "rank": 41,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 189688,
+        "num": 189688,
+        "word": "李兰迪王皓醉酒对峙戏",
+        "onboard_time": 1692323076,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175174,
+        "num": 185884,
+        "word": "轿车路上起火他们仨都拎灭火器下车",
+        "onboard_time": 1692324097,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183588,
+        "num": 183588,
+        "word": "王大陆受伤妆好逼真",
+        "onboard_time": 1692323134,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176930,
+        "num": 176930,
+        "word": "妈妈收到女儿的金戒指红了眼眶",
+        "onboard_time": 1692316894,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175143,
+        "num": 175143,
+        "word": "终于知道为什么医院的空调打那么低了",
+        "onboard_time": 1692280788,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163754,
+        "num": 163754,
+        "word": "火鸡面的正确吃法",
+        "onboard_time": 1692325057,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162722,
+        "num": 162722,
+        "word": "我不是药神白血病少年扮演者入院捐髓",
+        "onboard_time": 1692304574,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161259,
+        "num": 161259,
+        "word": "吃西瓜皮的猫猫突然吃到西瓜肉",
+        "onboard_time": 1692321635,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#把解决实际问题作为制定改革方案的出发点#"
+    }
+  }
+}
