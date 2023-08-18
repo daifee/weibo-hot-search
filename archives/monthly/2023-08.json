@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692375663507,
+  "endTime": 1692376542184,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1971,6 +1971,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 2005215,
+      "num": 2005215,
+      "word": "雅典娜",
+      "onboard_time": 1691624007,
+      "rank": 49,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2004587,
       "num": 859254,
       "word": "魏大勋乌木沉香",
@@ -2721,14 +2729,6 @@
       "onboard_time": 1691761181,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1708750,
-      "num": 1708750,
-      "word": "雅典娜",
-      "onboard_time": 1691624007,
-      "rank": 49,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1706717,
@@ -17683,6 +17683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502837,
+      "num": 502837,
+      "word": "易烊千玺My Boo发行三周年",
+      "onboard_time": 1692374798,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502210,
       "num": 502210,
       "word": "西安文旅的超级周末",
@@ -17849,6 +17857,14 @@
       "onboard_time": 1690940014,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 496462,
+      "num": 496462,
+      "word": "檀健次怎么净想着爆自己料",
+      "onboard_time": 1692374077,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 496452,
@@ -18961,14 +18977,6 @@
       "onboard_time": 1691309074,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 472337,
-      "num": 472337,
-      "word": "檀健次怎么净想着爆自己料",
-      "onboard_time": 1692374077,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 472191,
@@ -31691,14 +31699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261673,
-      "num": 261673,
-      "word": "易烊千玺My Boo发行三周年",
-      "onboard_time": 1692374798,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 261457,
       "num": 261457,
       "word": "假如长相思弹幕有声音",
@@ -33531,6 +33531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240953,
+      "num": 232265,
+      "word": "张艺兴被粉丝夸可爱的反应",
+      "onboard_time": 1692374978,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240923,
       "num": 2090536,
       "word": "莲花楼预告悬疑感拉满了",
@@ -34377,14 +34385,6 @@
       "onboard_time": 1691502279,
       "rank": 47,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 232265,
-      "num": 232265,
-      "word": "张艺兴被粉丝夸可爱的反应",
-      "onboard_time": 1692374978,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 232027,
@@ -36355,6 +36355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214174,
+      "num": 214174,
+      "word": "韩剧假面女郎",
+      "onboard_time": 1692374378,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214091,
       "num": 214091,
       "word": "李莲花 你我有缘定会重逢",
@@ -36585,14 +36593,6 @@
       "onboard_time": 1691385578,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 212107,
-      "num": 212107,
-      "word": "韩剧假面女郎",
-      "onboard_time": 1692374378,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 212086,
@@ -37320,6 +37320,14 @@
       "word": "当你有个不要强的朋友",
       "onboard_time": 1691112159,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 206768,
+      "num": 218388,
+      "word": "双子座的自保能力太强了",
+      "onboard_time": 1692373719,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -38649,14 +38657,6 @@
       "onboard_time": 1691810796,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 199465,
-      "num": 212181,
-      "word": "双子座的自保能力太强了",
-      "onboard_time": 1692373719,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 199420,
@@ -41409,6 +41409,14 @@
       "onboard_time": 1692101082,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182071,
+      "num": 209547,
+      "word": "盗墓笔记 今天初一拜财神",
+      "onboard_time": 1692374916,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 182067,
@@ -45123,6 +45131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112823,
+      "num": 175872,
+      "word": "以前和现在去理发店的区别",
+      "onboard_time": 1692375036,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112576,
       "num": 210906,
       "word": "达拉斯vs迈阿密国际",
@@ -45417,14 +45433,6 @@
       "onboard_time": 1692284866,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 103883,
-      "num": 209547,
-      "word": "盗墓笔记 今天初一拜财神",
-      "onboard_time": 1692374916,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 103726,
@@ -46393,6 +46401,14 @@
       "onboard_time": 1691791397,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 72301,
+      "num": 306629,
+      "word": "隔着屏幕都能感受到父女俩的喜悦",
+      "onboard_time": 1692375694,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71953,

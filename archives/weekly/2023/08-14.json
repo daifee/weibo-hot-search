@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692375663507,
+  "endTime": 1692376542184,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2005215,
+      "num": 2005215,
+      "word": "雅典娜",
+      "onboard_time": 1692373059,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2000071,
       "num": 2000071,
       "word": "癌症在我国已经熬成慢性病",
@@ -649,14 +657,6 @@
       "onboard_time": 1692059978,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1708750,
-      "num": 1708750,
-      "word": "雅典娜",
-      "onboard_time": 1692373059,
-      "rank": 0,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1666509,
@@ -4419,6 +4419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 502837,
+      "num": 502837,
+      "word": "易烊千玺My Boo发行三周年",
+      "onboard_time": 1692374798,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502027,
       "num": 502027,
       "word": "杨玏封神路演最大受害者",
@@ -4473,6 +4481,14 @@
       "onboard_time": 1691942018,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 496462,
+      "num": 496462,
+      "word": "檀健次怎么净想着爆自己料",
+      "onboard_time": 1692374077,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 496315,
@@ -4753,14 +4769,6 @@
       "onboard_time": 1692324335,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 472337,
-      "num": 472337,
-      "word": "檀健次怎么净想着爆自己料",
-      "onboard_time": 1692374077,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 471946,
@@ -8571,14 +8579,6 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 261673,
-      "num": 261673,
-      "word": "易烊千玺My Boo发行三周年",
-      "onboard_time": 1692374798,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 261270,
       "num": 261270,
       "word": "Jennie演唱会扶栏杆差点摔下去",
@@ -9219,6 +9219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240953,
+      "num": 232265,
+      "word": "张艺兴被粉丝夸可爱的反应",
+      "onboard_time": 1692374978,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240742,
       "num": 423944,
       "word": "爸爸车祸昏迷7岁女儿变身小小顶梁柱",
@@ -9497,14 +9505,6 @@
       "onboard_time": 1692184294,
       "rank": 48,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 232265,
-      "num": 232265,
-      "word": "张艺兴被粉丝夸可爱的反应",
-      "onboard_time": 1692374978,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 231560,
@@ -10019,6 +10019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214174,
+      "num": 214174,
+      "word": "韩剧假面女郎",
+      "onboard_time": 1692374378,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214091,
       "num": 214091,
       "word": "李莲花 你我有缘定会重逢",
@@ -10089,14 +10097,6 @@
       "onboard_time": 1692176077,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 212107,
-      "num": 212107,
-      "word": "韩剧假面女郎",
-      "onboard_time": 1692374378,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 211924,
@@ -10257,6 +10257,14 @@
       "onboard_time": 1692084169,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206768,
+      "num": 218388,
+      "word": "双子座的自保能力太强了",
+      "onboard_time": 1692373719,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 206763,
@@ -10777,14 +10785,6 @@
       "onboard_time": 1692257684,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 199465,
-      "num": 212181,
-      "word": "双子座的自保能力太强了",
-      "onboard_time": 1692373719,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 199420,
@@ -11633,6 +11633,14 @@
       "onboard_time": 1692101082,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182071,
+      "num": 209547,
+      "word": "盗墓笔记 今天初一拜财神",
+      "onboard_time": 1692374916,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 181607,
@@ -12771,6 +12779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112823,
+      "num": 175872,
+      "word": "以前和现在去理发店的区别",
+      "onboard_time": 1692375036,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112079,
       "num": 138817,
       "word": "陈凯歌对电影的敬畏心",
@@ -12865,14 +12881,6 @@
       "onboard_time": 1692284866,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 103883,
-      "num": 209547,
-      "word": "盗墓笔记 今天初一拜财神",
-      "onboard_time": 1692374916,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 103726,
@@ -13209,6 +13217,14 @@
       "onboard_time": 1691982035,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72301,
+      "num": 306629,
+      "word": "隔着屏幕都能感受到父女俩的喜悦",
+      "onboard_time": 1692375694,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71413,
