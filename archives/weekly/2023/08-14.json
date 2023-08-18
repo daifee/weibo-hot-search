@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692322098827,
+  "endTime": 1692324013539,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -497,6 +497,14 @@
       "onboard_time": 1692184836,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1729233,
+      "num": 1729233,
+      "word": "弟弟为救在缅甸哥哥又被骗电诈园区",
+      "onboard_time": 1692321097,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1725869,
@@ -1171,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1112252,
+      "num": 370606,
+      "word": "娱乐圈男妲己",
+      "onboard_time": 1692322835,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1112048,
       "num": 1112048,
       "word": "张子枫志愿军吃土豆镜头",
@@ -1284,7 +1300,7 @@
     },
     {
       "raw_hot": 1057877,
-      "num": 591430,
+      "num": 716500,
       "word": "杨超越演技",
       "onboard_time": 1692318759,
       "rank": 3,
@@ -1404,7 +1420,7 @@
     },
     {
       "raw_hot": 970663,
-      "num": 532876,
+      "num": 951576,
       "word": "有人自林中坠落",
       "onboard_time": 1692320318,
       "rank": 26,
@@ -1905,6 +1921,14 @@
       "onboard_time": 1692147455,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 784530,
+      "num": 784530,
+      "word": "缅甸华人称缅甸确实被妖魔化",
+      "onboard_time": 1692322957,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 780333,
@@ -3043,6 +3067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 568171,
+      "num": 368272,
+      "word": "四川内江地震",
+      "onboard_time": 1692323614,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568128,
       "num": 354384,
       "word": "盗墓笔记",
@@ -3153,6 +3185,14 @@
       "onboard_time": 1692024399,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 557635,
+      "num": 557635,
+      "word": "云之羽播出时间",
+      "onboard_time": 1692321156,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 557478,
@@ -3779,6 +3819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 490009,
+      "num": 367762,
+      "word": "电影孤注一掷被指侵权",
+      "onboard_time": 1692323373,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 489716,
       "num": 489716,
       "word": "黄子弘凡直播",
@@ -3879,14 +3927,6 @@
       "num": 617682,
       "word": "退休干部招募敢死队密谋暴力行动",
       "onboard_time": 1692079297,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479989,
-      "num": 345467,
-      "word": "弟弟为救在缅甸哥哥又被骗电诈园区",
-      "onboard_time": 1692321097,
       "rank": 24,
       "category": "社会新闻"
     },
@@ -4292,7 +4332,7 @@
     },
     {
       "raw_hot": 446898,
-      "num": 340362,
+      "num": 366129,
       "word": "蛋糕真的越来越离谱了",
       "onboard_time": 1692320798,
       "rank": 46,
@@ -4553,6 +4593,14 @@
       "onboard_time": 1692262841,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425048,
+      "num": 364986,
+      "word": "看小说和不看小说的都沉默了",
+      "onboard_time": 1692321334,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 422988,
@@ -5195,12 +5243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376951,
-      "num": 376951,
-      "word": "云之羽播出时间",
-      "onboard_time": 1692321156,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 376519,
+      "num": 376519,
+      "word": "年轻人脱发的四大原因",
+      "onboard_time": 1692322714,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375246,
@@ -5539,6 +5587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352336,
+      "num": 352336,
+      "word": "杨超越恳请大家看看七时吉祥",
+      "onboard_time": 1692322893,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352270,
       "num": 286929,
       "word": "关智斌上哥哥前进姐姐群取经",
@@ -5737,6 +5793,14 @@
       "onboard_time": 1692011613,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332169,
+      "num": 328672,
+      "word": "武大回应夫妻宿舍配有两张单人床",
+      "onboard_time": 1692323317,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 331461,
@@ -5969,6 +6033,14 @@
       "onboard_time": 1692183935,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318451,
+      "num": 318451,
+      "word": "男子养价值十多万的品种鱼都成了冻鱼",
+      "onboard_time": 1692322957,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317881,
@@ -6417,14 +6489,6 @@
       "onboard_time": 1692002498,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 296153,
-      "num": 296153,
-      "word": "看小说和不看小说的都沉默了",
-      "onboard_time": 1692321334,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 294970,
@@ -7105,6 +7169,14 @@
       "onboard_time": 1691976755,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 269154,
+      "num": 269154,
+      "word": "黄渤小时候被父亲打得皮带都断了",
+      "onboard_time": 1692323557,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 268976,
@@ -8507,6 +8579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212852,
+      "num": 212852,
+      "word": "王大陆受伤妆好逼真",
+      "onboard_time": 1692323134,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212796,
       "num": 242373,
       "word": "中科院博士被骗至缅甸女友发声",
@@ -8859,6 +8939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203846,
+      "num": 203846,
+      "word": "李兰迪王皓醉酒对峙戏",
+      "onboard_time": 1692323076,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203626,
       "num": 203626,
       "word": "开锁师傅终身难忘的一次经历",
@@ -9105,6 +9193,14 @@
       "onboard_time": 1692060758,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199990,
+      "num": 199990,
+      "word": "于适工作室请日更",
+      "onboard_time": 1692322239,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 199912,
@@ -10059,6 +10155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175505,
+      "num": 175505,
+      "word": "AlanWalker合作过的中国艺人",
+      "onboard_time": 1692323795,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174482,
       "num": 216566,
       "word": "帕梅拉 最炫民族风",
@@ -10081,6 +10185,14 @@
       "onboard_time": 1692093339,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 173687,
+      "num": 173687,
+      "word": "金砖国家领导人第十五次会晤",
+      "onboard_time": 1692323193,
+      "rank": 46,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 173057,
