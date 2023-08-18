@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692382790187,
+  "endTime": 1692383644525,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -13459,6 +13459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54415,
+      "num": 54415,
+      "word": "张杰一个人的KTV局",
+      "onboard_time": 1692382877,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54380,
       "num": 504096,
       "word": "村BA中国行",
@@ -13539,6 +13547,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 44085,
+      "num": 54275,
+      "word": "暑期档念念不忘的角色",
+      "onboard_time": 1692383419,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 41995,
       "num": 1768080,
       "word": "中国式现代化的京津冀实践",
@@ -13595,20 +13611,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35630,
+      "num": 58368,
+      "word": "糊里糊涂又过一天",
+      "onboard_time": 1692380900,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 35498,
       "num": 532810,
       "word": "高三女生骑车摔晕店家顾客暖心帮忙",
       "onboard_time": 1692102766,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34834,
-      "num": 58368,
-      "word": "糊里糊涂又过一天",
-      "onboard_time": 1692380900,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 34587,
