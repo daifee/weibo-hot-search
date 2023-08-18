@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692347647294,
+  "endTime": 1692350159590,
   "band_list": [
     {
       "raw_hot": 8961367,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1656084,
-      "num": 352084,
+      "num": 358607,
       "word": "月经沾裤子上紧急处理方法",
       "onboard_time": 1692342395,
       "rank": 33,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804843,
+      "num": 804843,
+      "word": "警方通报网传二驴直播被绑架",
+      "onboard_time": 1692346602,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 791384,
       "num": 629031,
       "word": "A股",
@@ -475,6 +483,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 545168,
+      "num": 428374,
+      "word": "阿里影业喊话法庭见",
+      "onboard_time": 1692347140,
+      "rank": 34,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 533353,
       "num": 381558,
       "word": "魏大勋和素人合影",
@@ -569,6 +585,14 @@
       "onboard_time": 1692280788,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 495013,
+      "num": 428009,
+      "word": "古天乐毁容妆过敏",
+      "onboard_time": 1692349361,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 488577,
@@ -699,12 +723,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429353,
+      "num": 429353,
+      "word": "警方通报主播直播时编造被绑架",
+      "onboard_time": 1692344020,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 426833,
       "num": 246492,
       "word": "马来西亚坠机已致10人死亡",
       "onboard_time": 1692278501,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426733,
+      "num": 426733,
+      "word": "程耳王一博人鱼立项",
+      "onboard_time": 1692348759,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 423219,
+      "num": 423219,
+      "word": "YG没发权志龙生贺图",
+      "onboard_time": 1692348339,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 421425,
@@ -753,6 +801,14 @@
       "onboard_time": 1692330938,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403871,
+      "num": 403871,
+      "word": "张晚意被杨紫叫哥哥叫到崩溃",
+      "onboard_time": 1692349776,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 399739,
@@ -1115,14 +1171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257935,
-      "num": 257935,
-      "word": "警方通报网传二驴直播被绑架",
-      "onboard_time": 1692346602,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257749,
       "num": 365680,
       "word": "90后花1万布置毛坯房该有的都有",
@@ -1243,12 +1291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236963,
-      "num": 236963,
-      "word": "阿里影业喊话法庭见",
-      "onboard_time": 1692347140,
-      "rank": 34,
-      "category": "社会新闻,影视"
+      "raw_hot": 235292,
+      "num": 235292,
+      "word": "WBG和LGD是大小王",
+      "onboard_time": 1692346781,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 230077,
@@ -1291,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222519,
+      "num": 234194,
+      "word": "证监会研究适当延长A股交易时间",
+      "onboard_time": 1692349539,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 220674,
       "num": 193844,
       "word": "消失的痕迹开播",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1692323134,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211295,
+      "num": 211295,
+      "word": "Angelababy虞书欣今日活动生图",
+      "onboard_time": 1692349958,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210765,
@@ -1388,7 +1452,7 @@
     },
     {
       "raw_hot": 200830,
-      "num": 211893,
+      "num": 215500,
       "word": "支持研究中止或部分中止ECFA对台关税优惠",
       "onboard_time": 1692346358,
       "rank": 39,
@@ -1409,14 +1473,6 @@
       "onboard_time": 1692322239,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198337,
-      "num": 209882,
-      "word": "WBG和LGD是大小王",
-      "onboard_time": 1692346781,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 197627,
@@ -1603,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147082,
+      "num": 208079,
+      "word": "4岁女童因穿刺操作失误命丧手术台",
+      "onboard_time": 1692350018,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144174,
       "num": 213056,
       "word": "中国牌王的千术陷阱",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1692282411,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135690,
+      "num": 208076,
+      "word": "中国探险协会支持会员向视觉中国维权",
+      "onboard_time": 1692349119,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130697,

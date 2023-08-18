@@ -1,0 +1,410 @@
+{
+  "runTime": 1692350159590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 884088,
+        "num": 884088,
+        "word": "林志颖公开回应车祸经历",
+        "onboard_time": 1692343240,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1663466,
+        "num": 863719,
+        "word": "质疑芒狗 理解芒狗 养芒狗",
+        "onboard_time": 1692341734,
+        "rank": 1,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 21768,
+        "num": 805198,
+        "word": "中国式现代化的京津冀实践",
+        "onboard_time": 1692326914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2043777,
+        "num": 805166,
+        "word": "李玟姐姐称网传视频属实",
+        "onboard_time": 1692345461,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804843,
+        "num": 804843,
+        "word": "警方通报网传二驴直播被绑架",
+        "onboard_time": 1692346602,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685651,
+        "num": 685651,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1692331181,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 648321,
+        "num": 648321,
+        "word": "折腰",
+        "onboard_time": 1692344380,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 509418,
+        "num": 509418,
+        "word": "陆毅因为贝儿参加披荆斩棘",
+        "onboard_time": 1692340474,
+        "rank": 7,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 429353,
+        "num": 429353,
+        "word": "警方通报主播直播时编造被绑架",
+        "onboard_time": 1692344020,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229300,
+        "num": 429019,
+        "word": "视觉中国称支持戴建峰报警",
+        "onboard_time": 1692341855,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730666,
+        "num": 428647,
+        "word": "中国好声音母公司股价大跌",
+        "onboard_time": 1692334839,
+        "rank": 10,
+        "category": "综艺,财经"
+      },
+      {
+        "raw_hot": 545168,
+        "num": 428374,
+        "word": "阿里影业喊话法庭见",
+        "onboard_time": 1692347140,
+        "rank": 11,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 495013,
+        "num": 428009,
+        "word": "古天乐毁容妆过敏",
+        "onboard_time": 1692349361,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193029,
+        "num": 427453,
+        "word": "爸爸车祸后7岁小哭包变成顶梁柱",
+        "onboard_time": 1692330938,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101714,
+        "num": 426756,
+        "word": "丫丫的炸毛耳朵好圆啊",
+        "onboard_time": 1692325596,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426733,
+        "num": 426733,
+        "word": "程耳王一博人鱼立项",
+        "onboard_time": 1692348759,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423219,
+        "num": 423219,
+        "word": "YG没发权志龙生贺图",
+        "onboard_time": 1692348339,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403871,
+        "num": 403871,
+        "word": "张晚意被杨紫叫哥哥叫到崩溃",
+        "onboard_time": 1692349776,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367295,
+        "num": 367295,
+        "word": "缅甸华人称缅甸确实被妖魔化",
+        "onboard_time": 1692322957,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249852,
+        "num": 359945,
+        "word": "A股",
+        "onboard_time": 1692338678,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1353101,
+        "num": 358607,
+        "word": "月经沾裤子上紧急处理方法",
+        "onboard_time": 1692342395,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355286,
+        "num": 355286,
+        "word": "南风知我意",
+        "onboard_time": 1692334121,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331204,
+        "num": 331204,
+        "word": "孤注一掷片方否认侵权",
+        "onboard_time": 1692346059,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327342,
+        "num": 327342,
+        "word": "妹妹误触了少儿模式退不出来了",
+        "onboard_time": 1692343542,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316782,
+        "num": 316782,
+        "word": "小时候被大人的性冷淡风骗了",
+        "onboard_time": 1692337358,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 308984,
+        "num": 308984,
+        "word": "夭玹的婚后日常",
+        "onboard_time": 1692343601,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271972,
+        "num": 271972,
+        "word": "赵丽颖沈阳",
+        "onboard_time": 1692329620,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250219,
+        "num": 250219,
+        "word": "张艺兴孤注一掷成都路演",
+        "onboard_time": 1692346842,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235292,
+        "num": 235292,
+        "word": "WBG和LGD是大小王",
+        "onboard_time": 1692346781,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222519,
+        "num": 234194,
+        "word": "证监会研究适当延长A股交易时间",
+        "onboard_time": 1692349539,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 665944,
+        "num": 232877,
+        "word": "李嘉捷向好声音致歉",
+        "onboard_time": 1692328116,
+        "rank": 30,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 290395,
+        "num": 231034,
+        "word": "六公主播宝莲灯怀念李玟",
+        "onboard_time": 1692335021,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351237,
+        "num": 229853,
+        "word": "中国好声音声明",
+        "onboard_time": 1692284806,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186395,
+        "num": 228267,
+        "word": "缅北受访者称噶腰子仅是段子",
+        "onboard_time": 1692328116,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174791,
+        "num": 227482,
+        "word": "一个人租房后才懂的事",
+        "onboard_time": 1692334482,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226605,
+        "num": 226605,
+        "word": "李玟曾回应在好声音录制现场质问不公",
+        "onboard_time": 1692338858,
+        "rank": 35,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 225991,
+        "num": 225991,
+        "word": "何群是你吗",
+        "onboard_time": 1692342758,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173920,
+        "num": 216097,
+        "word": "95后女生开公司允许带娃上班",
+        "onboard_time": 1692343178,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161999,
+        "num": 215614,
+        "word": "手里的淀粉肠突然就不香了",
+        "onboard_time": 1692328416,
+        "rank": 38,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 152515,
+        "num": 215500,
+        "word": "支持研究中止或部分中止ECFA对台关税优惠",
+        "onboard_time": 1692346358,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215435,
+        "num": 215435,
+        "word": "庞颖詹青云 从女性视角出发",
+        "onboard_time": 1692341676,
+        "rank": 40,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 211295,
+        "num": 211295,
+        "word": "Angelababy虞书欣今日活动生图",
+        "onboard_time": 1692349958,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208462,
+        "num": 208462,
+        "word": "披荆斩棘",
+        "onboard_time": 1692342455,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208094,
+        "num": 208094,
+        "word": "林俊杰 抢票",
+        "onboard_time": 1692341855,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182567,
+        "num": 208089,
+        "word": "杨洋告黑案将开庭",
+        "onboard_time": 1692329319,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176080,
+        "num": 208088,
+        "word": "于正张檬再次合作",
+        "onboard_time": 1692333462,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147082,
+        "num": 208079,
+        "word": "4岁女童因穿刺操作失误命丧手术台",
+        "onboard_time": 1692350018,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135690,
+        "num": 208076,
+        "word": "中国探险协会支持会员向视觉中国维权",
+        "onboard_time": 1692349119,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135450,
+        "num": 208069,
+        "word": "150的就业方向",
+        "onboard_time": 1692344078,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133613,
+        "num": 208065,
+        "word": "感应式分手",
+        "onboard_time": 1692338316,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
