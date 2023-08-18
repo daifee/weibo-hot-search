@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692340433381,
+  "endTime": 1692342890687,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2321,6 +2321,14 @@
       "onboard_time": 1691398177,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1815507,
+      "num": 1815507,
+      "word": "陆毅因为贝儿参加披荆斩棘",
+      "onboard_time": 1692340474,
+      "rank": 0,
+      "category": "综艺,影视"
     },
     {
       "raw_hot": 1814247,
@@ -7323,6 +7331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 946418,
+      "num": 479066,
+      "word": "质疑芒狗 理解芒狗 养芒狗",
+      "onboard_time": 1692341734,
+      "rank": 10,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 946244,
       "num": 946244,
       "word": "女子称带3娃买4张票登机被拒",
@@ -11299,6 +11315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705359,
+      "num": 325486,
+      "word": "林俊杰 抢票",
+      "onboard_time": 1692341855,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 704997,
       "num": 425919,
       "word": "长相思好狠的心",
@@ -11793,6 +11817,14 @@
       "onboard_time": 1691384026,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 679836,
+      "num": 679836,
+      "word": "感应式分手",
+      "onboard_time": 1692338316,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 679699,
@@ -14537,6 +14569,14 @@
       "onboard_time": 1691795602,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 575794,
+      "num": 238709,
+      "word": "庞颖詹青云 从女性视角出发",
+      "onboard_time": 1692341676,
+      "rank": 31,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 575775,
@@ -17443,14 +17483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495562,
-      "num": 495562,
-      "word": "感应式分手",
-      "onboard_time": 1692338316,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 495531,
       "num": 571549,
       "word": "夭柳悲剧就是没有如果",
@@ -19041,6 +19073,14 @@
       "onboard_time": 1690940793,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 457279,
+      "num": 306930,
+      "word": "披荆斩棘",
+      "onboard_time": 1691147253,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 457182,
@@ -21979,6 +22019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395865,
+      "num": 395865,
+      "word": "马伯骞把魏哲鸣认成魏巡",
+      "onboard_time": 1692341914,
+      "rank": 15,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 395833,
       "num": 395833,
       "word": "杨紫策划的长相思团综",
@@ -22872,6 +22920,14 @@
       "word": "孤注一掷点映机制引争议",
       "onboard_time": 1691818236,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 379787,
+      "num": 379787,
+      "word": "网友建议王一栩看莲花楼",
+      "onboard_time": 1692340955,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -24267,14 +24323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355476,
-      "num": 269635,
-      "word": "披荆斩棘",
-      "onboard_time": 1691147253,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 355426,
       "num": 355426,
       "word": "老天爱笨小孩",
@@ -24729,6 +24777,14 @@
       "onboard_time": 1691460873,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 347707,
+      "num": 500727,
+      "word": "亚运会门票",
+      "onboard_time": 1692342455,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 347656,
@@ -25257,6 +25313,14 @@
       "onboard_time": 1691809476,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337607,
+      "num": 236158,
+      "word": "月经沾裤子上紧急处理方法",
+      "onboard_time": 1692342395,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337591,
@@ -27600,6 +27664,14 @@
       "word": "江苏一男子吃烧烤后感染戊肝",
       "onboard_time": 1691103742,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301298,
+      "num": 235971,
+      "word": "视觉中国称支持戴建峰报警",
+      "onboard_time": 1692341855,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -34635,6 +34707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220674,
+      "num": 193844,
+      "word": "消失的痕迹开播",
+      "onboard_time": 1692340655,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220652,
       "num": 220652,
       "word": "长相思让观众上桌",
@@ -37083,6 +37163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202702,
+      "num": 202702,
+      "word": "过几天能去垃圾桶里捡花了",
+      "onboard_time": 1692341135,
+      "rank": 38,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 202636,
       "num": 210288,
       "word": "六个增强核心的动作",
@@ -38777,6 +38865,14 @@
       "onboard_time": 1692154653,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193022,
+      "num": 193022,
+      "word": "亚运会羽毛球门票",
+      "onboard_time": 1692340834,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 193019,
@@ -40793,6 +40889,14 @@
       "onboard_time": 1692200795,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 175794,
+      "num": 189883,
+      "word": "何群是你吗",
+      "onboard_time": 1692342758,
+      "rank": 46,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 175774,
@@ -45932,7 +46036,7 @@
     },
     {
       "raw_hot": 40381,
-      "num": 123047,
+      "num": 399077,
       "word": "村BA中国行",
       "onboard_time": 1692255761,
       "rank": 49,
@@ -46128,6 +46232,14 @@
       "word": "民警蹬15公里三轮帮受伤大爷送车",
       "onboard_time": 1691579314,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31337,
+      "num": 1270398,
+      "word": "中国式现代化的京津冀实践",
+      "onboard_time": 1692326914,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -46529,6 +46641,14 @@
       "onboard_time": 1691494238,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 9105,
+      "num": 189868,
+      "word": "文件传输助手占了你多少内存",
+      "onboard_time": 1692342877,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6043,
