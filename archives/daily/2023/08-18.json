@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692325240682,
+  "endTime": 1692326022799,
   "band_list": [
     {
       "raw_hot": 6798828,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2729773,
+      "num": 586277,
+      "word": "娱乐圈男妲己",
+      "onboard_time": 1692322835,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2639784,
       "num": 580515,
       "word": "王一栩抑郁症",
@@ -27,16 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2355738,
-      "num": 586277,
-      "word": "娱乐圈男妲己",
-      "onboard_time": 1692322835,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2253471,
-      "num": 2253471,
+      "raw_hot": 2630128,
+      "num": 2630128,
       "word": "缅甸华人称缅甸确实被妖魔化",
       "onboard_time": 1692322957,
       "rank": 4,
@@ -83,8 +83,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1273158,
-      "num": 1273158,
+      "raw_hot": 1335285,
+      "num": 1335285,
       "word": "电影孤注一掷被指侵权",
       "onboard_time": 1692323373,
       "rank": 17,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 884603,
+      "num": 884603,
+      "word": "武大回应夫妻宿舍配有两张单人床",
+      "onboard_time": 1692323317,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 879346,
       "num": 879346,
       "word": "恒大在美国申请破产保护",
@@ -155,20 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 692189,
-      "num": 692189,
+      "raw_hot": 719734,
+      "num": 719734,
       "word": "黄渤小时候被父亲打得皮带都断了",
       "onboard_time": 1692323557,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 671311,
-      "num": 562873,
-      "word": "武大回应夫妻宿舍配有两张单人床",
-      "onboard_time": 1692323317,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 622710,
@@ -291,6 +291,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 473332,
+      "num": 394204,
+      "word": "杨超越恳请大家看看七时吉祥",
+      "onboard_time": 1692322893,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 473292,
+      "num": 363064,
+      "word": "七时吉祥为什么不火",
+      "onboard_time": 1692324335,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463976,
       "num": 463976,
       "word": "看小说和不看小说的都沉默了",
@@ -305,14 +321,6 @@
       "onboard_time": 1692320798,
       "rank": 46,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 440034,
-      "num": 394204,
-      "word": "杨超越恳请大家看看七时吉祥",
-      "onboard_time": 1692322893,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 426833,
@@ -395,6 +403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363078,
+      "num": 363078,
+      "word": "姐的精神状态不就是大学生吗",
+      "onboard_time": 1692324574,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362899,
+      "num": 362899,
+      "word": "长相思四人组解读修罗场名场面",
+      "onboard_time": 1692324875,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357137,
       "num": 357137,
       "word": "安宥真剪头了",
@@ -411,28 +435,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 344887,
-      "num": 344887,
-      "word": "七时吉祥为什么不火",
-      "onboard_time": 1692324335,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 342605,
       "num": 389760,
       "word": "教育机构要求老师穿长裤的原因",
       "onboard_time": 1692269920,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 342055,
-      "num": 262904,
-      "word": "姐的精神状态不就是大学生吗",
-      "onboard_time": 1692324574,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 340259,
@@ -587,8 +595,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239214,
+      "num": 239214,
+      "word": "宝可梦",
+      "onboard_time": 1692324935,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238562,
-      "num": 195097,
+      "num": 221353,
       "word": "AlanWalker合作过的中国艺人",
       "onboard_time": 1692323795,
       "rank": 45,
@@ -603,12 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222033,
-      "num": 195057,
-      "word": "长相思四人组解读修罗场名场面",
-      "onboard_time": 1692324875,
+      "raw_hot": 224587,
+      "num": 224587,
+      "word": "丫丫的炸毛耳朵好圆啊",
+      "onboard_time": 1692325596,
       "rank": 37,
-      "category": "影视"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214583,
@@ -651,7 +667,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 203846,
+      "raw_hot": 204676,
       "num": 203846,
       "word": "李兰迪王皓醉酒对峙戏",
       "onboard_time": 1692323076,
@@ -699,20 +715,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 194689,
-      "num": 194689,
-      "word": "宝可梦",
-      "onboard_time": 1692324935,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194200,
       "num": 194200,
       "word": "刘宇端水的方式是劈叉",
       "onboard_time": 1692325113,
       "rank": 41,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 191792,
+      "num": 191792,
+      "word": "受贿百套房医院院长庭审画面曝光",
+      "onboard_time": 1692325536,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191721,
@@ -729,6 +745,14 @@
       "onboard_time": 1692281270,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189455,
+      "num": 189455,
+      "word": "火鸡面的正确吃法",
+      "onboard_time": 1692325057,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 186820,
@@ -753,6 +777,14 @@
       "onboard_time": 1692278681,
       "rank": 44,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 176215,
+      "num": 176215,
+      "word": "孤注一掷",
+      "onboard_time": 1692325836,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 175174,
@@ -795,20 +827,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163754,
-      "num": 163754,
-      "word": "火鸡面的正确吃法",
-      "onboard_time": 1692325057,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 162883,
       "num": 183794,
       "word": "Daddy退休后的愿望朴实无华",
       "onboard_time": 1692288037,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161205,
+      "num": 161205,
+      "word": "长相思大荒四大才子篇",
+      "onboard_time": 1692325959,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 158480,
@@ -1012,7 +1044,7 @@
     },
     {
       "raw_hot": 14156,
-      "num": 1162760,
+      "num": 1173394,
       "word": "这些灾后恢复的画面辛苦又感动",
       "onboard_time": 1692246400,
       "rank": 2,
