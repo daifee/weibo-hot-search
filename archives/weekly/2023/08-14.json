@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692378863281,
+  "endTime": 1692380041744,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -12123,6 +12123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 159301,
+      "num": 141366,
+      "word": "和你心动七夕",
+      "onboard_time": 1692378745,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158973,
       "num": 165269,
       "word": "电影金手指全球定档",
@@ -13027,14 +13035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91030,
-      "num": 97472,
-      "word": "和你心动七夕",
-      "onboard_time": 1692378745,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 90744,
       "num": 484449,
       "word": "重庆三对双胞胎考上北大",
@@ -13193,6 +13193,14 @@
       "onboard_time": 1692327158,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76504,
+      "num": 96149,
+      "word": "Amber自制美食字典",
+      "onboard_time": 1692379943,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 76200,
