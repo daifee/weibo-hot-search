@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692396891228,
+  "endTime": 1692398040339,
   "band_list": [
     {
       "raw_hot": 2333538,
@@ -459,20 +459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61613,
+      "num": 57412,
+      "word": "如何看待网红二驴被封禁",
+      "onboard_time": 1692391215,
+      "rank": 21,
+      "category": "网红,社会议题"
+    },
+    {
       "raw_hot": 60996,
       "num": 60996,
       "word": "权顺荣腹肌",
       "onboard_time": 1692366641,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 59083,
-      "num": 47256,
-      "word": "如何看待网红二驴被封禁",
-      "onboard_time": 1692391215,
-      "rank": 21,
-      "category": "网红,社会议题"
     },
     {
       "raw_hot": 49672,
@@ -491,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43594,
+      "num": 44859,
+      "word": "程潇在中餐厅一天吃四餐",
+      "onboard_time": 1692392593,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41412,
       "num": 44155,
       "word": "孔雪儿自己化的妆",
@@ -507,14 +515,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 37261,
-      "num": 44859,
-      "word": "程潇在中餐厅一天吃四餐",
-      "onboard_time": 1692392593,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 35630,
       "num": 58368,
       "word": "糊里糊涂又过一天",
@@ -523,20 +523,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 30647,
+      "num": 43881,
+      "word": "蚊子为什么不叮别人只叮你",
+      "onboard_time": 1692382339,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26613,
       "num": 43969,
       "word": "内娱最精打细算的明星",
       "onboard_time": 1692390794,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26558,
-      "num": 43881,
-      "word": "蚊子为什么不叮别人只叮你",
-      "onboard_time": 1692382339,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 22009,
