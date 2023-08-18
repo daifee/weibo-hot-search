@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692332393269,
+  "endTime": 1692333238902,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -4307,6 +4307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1326108,
+      "num": 858654,
+      "word": "杨洋告黑案将开庭",
+      "onboard_time": 1692329319,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1325927,
       "num": 1325927,
       "word": "檀健次工作室宣发审美",
@@ -4561,14 +4569,6 @@
       "onboard_time": 1692091840,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1276955,
-      "num": 690799,
-      "word": "杨洋告黑案将开庭",
-      "onboard_time": 1692329319,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1276898,
@@ -6748,7 +6748,7 @@
     },
     {
       "raw_hot": 1000512,
-      "num": 360737,
+      "num": 386147,
       "word": "手里的淀粉肠突然就不香了",
       "onboard_time": 1692328416,
       "rank": 48,
@@ -8937,6 +8937,14 @@
       "onboard_time": 1691495134,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 830858,
+      "num": 830858,
+      "word": "最难喝饮料排行榜",
+      "onboard_time": 1692331181,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 829505,
@@ -12243,6 +12251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 658009,
+      "num": 658009,
+      "word": "披荆斩棘第三季开播",
+      "onboard_time": 1692331780,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 656372,
       "num": 656372,
       "word": "JackeyLove",
@@ -12737,6 +12753,14 @@
       "onboard_time": 1691047233,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 636426,
+      "num": 636426,
+      "word": "Angelababy水蓝人鱼姬妆容",
+      "onboard_time": 1692332740,
+      "rank": 6,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 635512,
@@ -14411,6 +14435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 577334,
+      "num": 402053,
+      "word": "朴志效solo",
+      "onboard_time": 1692332498,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 577276,
       "num": 597292,
       "word": "医院院长贪腐将成捆的现金提回家",
@@ -14857,14 +14889,6 @@
       "onboard_time": 1691194173,
       "rank": 21,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 565251,
-      "num": 497763,
-      "word": "披荆斩棘第三季开播",
-      "onboard_time": 1692331780,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 565238,
@@ -16563,14 +16587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 516467,
-      "num": 516467,
-      "word": "最难喝饮料排行榜",
-      "onboard_time": 1692331181,
-      "rank": 7,
-      "category": "美食"
-    },
-    {
       "raw_hot": 516344,
       "num": 454033,
       "word": "张婧仪的手机壳",
@@ -16873,6 +16889,14 @@
       "onboard_time": 1692062735,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 509138,
+      "num": 266271,
+      "word": "罗布泊究竟有多恐怖",
+      "onboard_time": 1692331298,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 508798,
@@ -18793,14 +18817,6 @@
       "onboard_time": 1691542540,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 460750,
-      "num": 266271,
-      "word": "罗布泊究竟有多恐怖",
-      "onboard_time": 1692331298,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 460362,
@@ -20916,7 +20932,7 @@
     },
     {
       "raw_hot": 415016,
-      "num": 349524,
+      "num": 366850,
       "word": "赵丽颖沈阳",
       "onboard_time": 1692329620,
       "rank": 41,
@@ -21240,6 +21256,14 @@
       "word": "山东2元炒菜摊主回应走红",
       "onboard_time": 1692094238,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408914,
+      "num": 512047,
+      "word": "爸爸车祸后7岁小哭包变成顶梁柱",
+      "onboard_time": 1692330938,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -21948,7 +21972,7 @@
     },
     {
       "raw_hot": 393313,
-      "num": 284864,
+      "num": 373668,
       "word": "电影版红楼梦首支预告",
       "onboard_time": 1692329258,
       "rank": 25,
@@ -23172,7 +23196,7 @@
     },
     {
       "raw_hot": 371319,
-      "num": 371319,
+      "num": 390912,
       "word": "知识怎么一下子进我脑子了",
       "onboard_time": 1692329139,
       "rank": 44,
@@ -25499,14 +25523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330043,
-      "num": 512047,
-      "word": "爸爸车祸后7岁小哭包变成顶梁柱",
-      "onboard_time": 1692330938,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329983,
       "num": 329983,
       "word": "曾舜晞录好六有种见家长的感觉",
@@ -25625,6 +25641,14 @@
       "onboard_time": 1691410057,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327782,
+      "num": 393666,
+      "word": "全国仍有超1400万人口承受极端通勤",
+      "onboard_time": 1692331059,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327769,
@@ -25841,6 +25865,14 @@
       "onboard_time": 1691069677,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 324611,
+      "num": 252353,
+      "word": "霍思燕杜江带嗯哼看学爸",
+      "onboard_time": 1692332921,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 324470,
@@ -30675,6 +30707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262265,
+      "num": 262265,
+      "word": "LBL重启",
+      "onboard_time": 1692332200,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262252,
       "num": 262252,
       "word": "这下发量少的人有救了",
@@ -31081,14 +31121,6 @@
       "onboard_time": 1691733814,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257633,
-      "num": 257633,
-      "word": "全国仍有超1400万人口承受极端通勤",
-      "onboard_time": 1692331059,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257568,
@@ -31841,6 +31873,14 @@
       "onboard_time": 1691649575,
       "rank": 37,
       "category": "音乐,音乐"
+    },
+    {
+      "raw_hot": 248441,
+      "num": 248441,
+      "word": "90后花1万布置毛坯房该有的都有",
+      "onboard_time": 1692332382,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 248295,
@@ -34097,6 +34137,14 @@
       "onboard_time": 1692161203,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 223706,
+      "num": 223706,
+      "word": "关于自杀的一些误解",
+      "onboard_time": 1692331661,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 223700,
@@ -38459,6 +38507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193638,
+      "num": 201782,
+      "word": "电影学爸今日上映",
+      "onboard_time": 1692332801,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193548,
       "num": 193548,
       "word": "电影燃冬预售开启",
@@ -40299,14 +40355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179667,
-      "num": 215961,
-      "word": "关于自杀的一些误解",
-      "onboard_time": 1692331661,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179618,
       "num": 405974,
       "word": "被兵哥哥自带的秩序感惊到了",
@@ -40417,14 +40465,6 @@
       "onboard_time": 1691304695,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177857,
-      "num": 215771,
-      "word": "90后花1万布置毛坯房该有的都有",
-      "onboard_time": 1692332382,
-      "rank": 47,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 177842,
@@ -40737,14 +40777,6 @@
       "onboard_time": 1691835762,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173536,
-      "num": 215474,
-      "word": "LBL重启",
-      "onboard_time": 1692332200,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 173305,

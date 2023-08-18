@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692332393269,
+  "endTime": 1692333238902,
   "band_list": [
     {
       "raw_hot": 8961367,
@@ -107,8 +107,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1276955,
-      "num": 690799,
+      "raw_hot": 1326108,
+      "num": 858654,
       "word": "杨洋告黑案将开庭",
       "onboard_time": 1692329319,
       "rank": 16,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1000512,
-      "num": 360737,
+      "num": 386147,
       "word": "手里的淀粉肠突然就不香了",
       "onboard_time": 1692328416,
       "rank": 48,
@@ -203,6 +203,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 830858,
+      "num": 830858,
+      "word": "最难喝饮料排行榜",
+      "onboard_time": 1692331181,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 812061,
       "num": 812061,
       "word": "女子凌晨被短信告知航班提前3.5小时起飞",
@@ -243,12 +251,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 658009,
+      "num": 658009,
+      "word": "披荆斩棘第三季开播",
+      "onboard_time": 1692331780,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 651322,
       "num": 651322,
       "word": "受贿百套房医院院长庭审画面曝光",
       "onboard_time": 1692325536,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636426,
+      "num": 636426,
+      "word": "Angelababy水蓝人鱼姬妆容",
+      "onboard_time": 1692332740,
+      "rank": 6,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 622710,
@@ -275,12 +299,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 565251,
-      "num": 497763,
-      "word": "披荆斩棘第三季开播",
-      "onboard_time": 1692331780,
+      "raw_hot": 577334,
+      "num": 402053,
+      "word": "朴志效solo",
+      "onboard_time": 1692332498,
       "rank": 13,
-      "category": "综艺"
+      "category": "音乐"
     },
     {
       "raw_hot": 557635,
@@ -339,19 +363,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 516467,
-      "num": 516467,
-      "word": "最难喝饮料排行榜",
-      "onboard_time": 1692331181,
-      "rank": 7,
-      "category": "美食"
-    },
-    {
       "raw_hot": 510550,
       "num": 366588,
       "word": "中科院博士被骗至缅甸一年",
       "onboard_time": 1692266320,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509138,
+      "num": 266271,
+      "word": "罗布泊究竟有多恐怖",
+      "onboard_time": 1692331298,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -427,14 +451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 460750,
-      "num": 266271,
-      "word": "罗布泊究竟有多恐怖",
-      "onboard_time": 1692331298,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 446898,
       "num": 398122,
       "word": "蛋糕真的越来越离谱了",
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 415016,
-      "num": 349524,
+      "num": 366850,
       "word": "赵丽颖沈阳",
       "onboard_time": 1692329620,
       "rank": 41,
@@ -499,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 408914,
+      "num": 512047,
+      "word": "爸爸车祸后7岁小哭包变成顶梁柱",
+      "onboard_time": 1692330938,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395683,
       "num": 395683,
       "word": "长相思四人组解读修罗场名场面",
@@ -508,7 +532,7 @@
     },
     {
       "raw_hot": 393313,
-      "num": 284864,
+      "num": 373668,
       "word": "电影版红楼梦首支预告",
       "onboard_time": 1692329258,
       "rank": 25,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 371319,
-      "num": 371319,
+      "num": 390912,
       "word": "知识怎么一下子进我脑子了",
       "onboard_time": 1692329139,
       "rank": 44,
@@ -635,12 +659,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330043,
-      "num": 512047,
-      "word": "爸爸车祸后7岁小哭包变成顶梁柱",
-      "onboard_time": 1692330938,
-      "rank": 9,
+      "raw_hot": 327782,
+      "num": 393666,
+      "word": "全国仍有超1400万人口承受极端通勤",
+      "onboard_time": 1692331059,
+      "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324611,
+      "num": 252353,
+      "word": "霍思燕杜江带嗯哼看学爸",
+      "onboard_time": 1692332921,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 321329,
@@ -763,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262265,
+      "num": 262265,
+      "word": "LBL重启",
+      "onboard_time": 1692332200,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 260644,
       "num": 243425,
       "word": "和男朋友分手后平分手机",
@@ -779,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257633,
-      "num": 257633,
-      "word": "全国仍有超1400万人口承受极端通勤",
-      "onboard_time": 1692331059,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256021,
       "num": 256021,
       "word": "深圳暴雨",
@@ -801,6 +833,14 @@
       "onboard_time": 1692327099,
       "rank": 34,
       "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 248441,
+      "num": 248441,
+      "word": "90后花1万布置毛坯房该有的都有",
+      "onboard_time": 1692332382,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 248356,
@@ -899,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 223706,
+      "num": 223706,
+      "word": "关于自杀的一些误解",
+      "onboard_time": 1692331661,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214583,
       "num": 247505,
       "word": "被裤腰带勒出了荨麻疹",
@@ -929,6 +977,14 @@
       "onboard_time": 1692288279,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205342,
+      "num": 205342,
+      "word": "封神",
+      "onboard_time": 1692333220,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 204906,
@@ -987,6 +1043,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 193638,
+      "num": 201782,
+      "word": "电影学爸今日上映",
+      "onboard_time": 1692332801,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191721,
       "num": 191721,
       "word": "咖啡变成了我舍不得喝的样子",
@@ -1035,22 +1099,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 179667,
-      "num": 215961,
-      "word": "关于自杀的一些误解",
-      "onboard_time": 1692331661,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 177857,
-      "num": 215771,
-      "word": "90后花1万布置毛坯房该有的都有",
-      "onboard_time": 1692332382,
-      "rank": 47,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 176215,
       "num": 176215,
       "word": "孤注一掷",
@@ -1081,14 +1129,6 @@
       "onboard_time": 1692323193,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 173536,
-      "num": 215474,
-      "word": "LBL重启",
-      "onboard_time": 1692332200,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 173057,
