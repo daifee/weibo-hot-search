@@ -1,6 +1,6 @@
 {
   "startTime": 1692289271013,
-  "endTime": 1692320905364,
+  "endTime": 1692322098827,
   "band_list": [
     {
       "raw_hot": 6798828,
@@ -43,20 +43,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1636871,
+      "num": 453156,
+      "word": "网友发现自己小时候舞蹈老师是李佳琦",
+      "onboard_time": 1692317316,
+      "rank": 11,
+      "category": "幽默,网红"
+    },
+    {
       "raw_hot": 1567737,
       "num": 1567737,
       "word": "蒲熠星 这个故事是我100%的作品",
       "onboard_time": 1692319296,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1561147,
-      "num": 453156,
-      "word": "网友发现自己小时候舞蹈老师是李佳琦",
-      "onboard_time": 1692317316,
-      "rank": 11,
-      "category": "幽默,网红"
     },
     {
       "raw_hot": 1160181,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1073624,
+      "num": 579328,
+      "word": "缅北失联20岁男生解救过程",
+      "onboard_time": 1692318157,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1057877,
       "num": 591430,
       "word": "杨超越演技",
@@ -75,12 +83,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 987512,
-      "num": 579328,
-      "word": "缅北失联20岁男生解救过程",
-      "onboard_time": 1692318157,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 970663,
+      "num": 532876,
+      "word": "有人自林中坠落",
+      "onboard_time": 1692320318,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 879346,
@@ -105,6 +113,22 @@
       "onboard_time": 1692272376,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622710,
+      "num": 397277,
+      "word": "于适素颜",
+      "onboard_time": 1692319419,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 591636,
+      "num": 400711,
+      "word": "成都偶遇张艺兴吃火锅",
+      "onboard_time": 1692316955,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 578706,
@@ -137,22 +161,6 @@
       "onboard_time": 1692314549,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528397,
-      "num": 400711,
-      "word": "成都偶遇张艺兴吃火锅",
-      "onboard_time": 1692316955,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 527705,
-      "num": 384509,
-      "word": "于适素颜",
-      "onboard_time": 1692319419,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 519110,
@@ -203,12 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479989,
+      "num": 345467,
+      "word": "弟弟为救在缅甸哥哥又被骗电诈园区",
+      "onboard_time": 1692321097,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478665,
       "num": 478665,
       "word": "高三男生1支笔战600场考试圆梦复旦",
       "onboard_time": 1692318097,
       "rank": 8,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 446898,
+      "num": 340362,
+      "word": "蛋糕真的越来越离谱了",
+      "onboard_time": 1692320798,
+      "rank": 46,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 426833,
@@ -283,12 +307,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 369764,
-      "num": 369764,
-      "word": "有人自林中坠落",
-      "onboard_time": 1692320318,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 376951,
+      "num": 376951,
+      "word": "云之羽播出时间",
+      "onboard_time": 1692321156,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 357137,
@@ -323,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321329,
+      "num": 321329,
+      "word": "好的睡眠质量是人生最好的财富",
+      "onboard_time": 1692320078,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307251,
       "num": 307251,
       "word": "于适给黄旭熙拍照旧图",
@@ -337,6 +369,22 @@
       "onboard_time": 1692315570,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 296153,
+      "num": 296153,
+      "word": "看小说和不看小说的都沉默了",
+      "onboard_time": 1692321334,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 291207,
+      "num": 291207,
+      "word": "贵州黎平火灾致9死2伤",
+      "onboard_time": 1692321275,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288364,
@@ -379,20 +427,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262556,
+      "num": 473765,
+      "word": "男孩ATM机上捡现金反复向监控示意",
+      "onboard_time": 1692277960,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260644,
       "num": 243425,
       "word": "和男朋友分手后平分手机",
       "onboard_time": 1692274658,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 260338,
-      "num": 473765,
-      "word": "男孩ATM机上捡现金反复向监控示意",
-      "onboard_time": 1692277960,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248356,
@@ -491,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200463,
+      "num": 200463,
+      "word": "白宇新剧智商担当",
+      "onboard_time": 1692320557,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197627,
       "num": 197627,
       "word": "18岁男生暑假打3份工送姑姑金耳饰",
@@ -505,22 +561,6 @@
       "onboard_time": 1692289891,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 193322,
-      "num": 193322,
-      "word": "好的睡眠质量是人生最好的财富",
-      "onboard_time": 1692320078,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 192928,
-      "num": 192928,
-      "word": "白宇新剧智商担当",
-      "onboard_time": 1692320557,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 191721,
@@ -563,12 +603,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 173941,
-      "num": 173941,
-      "word": "蛋糕真的越来越离谱了",
-      "onboard_time": 1692320798,
-      "rank": 46,
-      "category": "美食,幽默"
+      "raw_hot": 174482,
+      "num": 174482,
+      "word": "吃西瓜皮的猫猫突然吃到西瓜肉",
+      "onboard_time": 1692321635,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 173057,
