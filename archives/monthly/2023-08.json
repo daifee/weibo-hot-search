@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692383644525,
+  "endTime": 1692385986115,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -46651,6 +46651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62272,
+      "num": 62272,
+      "word": "张杰一个人的KTV局",
+      "onboard_time": 1692382877,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62131,
       "num": 208317,
       "word": "立秋第一杯奶茶是饿了么免单给的",
@@ -46937,14 +46945,6 @@
       "onboard_time": 1692120202,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 54415,
-      "num": 54415,
-      "word": "张杰一个人的KTV局",
-      "onboard_time": 1692382877,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 54380,
@@ -47728,6 +47728,14 @@
       "word": "原来这三种行为就是霸总行为",
       "onboard_time": 1691871075,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 22632,
+      "num": 35819,
+      "word": "蚊子为什么不叮别人只叮你",
+      "onboard_time": 1692382339,
+      "rank": 49,
       "category": "幽默"
     },
     {

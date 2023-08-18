@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692383644525,
+  "endTime": 1692385986115,
   "band_list": [
     {
       "raw_hot": 2333538,
@@ -451,20 +451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62272,
+      "num": 62272,
+      "word": "张杰一个人的KTV局",
+      "onboard_time": 1692382877,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60996,
       "num": 60996,
       "word": "权顺荣腹肌",
       "onboard_time": 1692366641,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 54415,
-      "num": 54415,
-      "word": "张杰一个人的KTV局",
-      "onboard_time": 1692382877,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 49672,
@@ -489,6 +489,14 @@
       "onboard_time": 1692380900,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 22632,
+      "num": 35819,
+      "word": "蚊子为什么不叮别人只叮你",
+      "onboard_time": 1692382339,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
