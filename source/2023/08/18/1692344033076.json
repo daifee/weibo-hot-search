@@ -1,0 +1,410 @@
+{
+  "runTime": 1692344033076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2087399,
+        "num": 2087399,
+        "word": "质疑芒狗 理解芒狗 养芒狗",
+        "onboard_time": 1692341734,
+        "rank": 0,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1854416,
+        "num": 1854416,
+        "word": "陆毅因为贝儿参加披荆斩棘",
+        "onboard_time": 1692340474,
+        "rank": 1,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 41995,
+        "num": 1624004,
+        "word": "中国式现代化的京津冀实践",
+        "onboard_time": 1692326914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1423384,
+        "num": 1423384,
+        "word": "中国好声音母公司股价大跌",
+        "onboard_time": 1692334839,
+        "rank": 3,
+        "category": "综艺,财经"
+      },
+      {
+        "raw_hot": 740595,
+        "num": 740595,
+        "word": "六公主播宝莲灯怀念李玟",
+        "onboard_time": 1692335021,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 706071,
+        "num": 706071,
+        "word": "南风知我意",
+        "onboard_time": 1692334121,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 596329,
+        "num": 596329,
+        "word": "感应式分手",
+        "onboard_time": 1692338316,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 526971,
+        "num": 526971,
+        "word": "马伯骞把魏哲鸣认成魏巡",
+        "onboard_time": 1692341914,
+        "rank": 7,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 455989,
+        "num": 524478,
+        "word": "亚运会门票",
+        "onboard_time": 1692342455,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287582,
+        "num": 522531,
+        "word": "爸爸车祸后7岁小哭包变成顶梁柱",
+        "onboard_time": 1692330938,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745002,
+        "num": 517612,
+        "word": "A股",
+        "onboard_time": 1692338678,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 621818,
+        "num": 513085,
+        "word": "庞颖詹青云 从女性视角出发",
+        "onboard_time": 1692341676,
+        "rank": 11,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 531673,
+        "num": 511605,
+        "word": "视觉中国称支持戴建峰报警",
+        "onboard_time": 1692341855,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147125,
+        "num": 506297,
+        "word": "丫丫的炸毛耳朵好圆啊",
+        "onboard_time": 1692325596,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54380,
+        "num": 504096,
+        "word": "村BA中国行",
+        "onboard_time": 1692255761,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501798,
+        "num": 501798,
+        "word": "最难喝饮料排行榜",
+        "onboard_time": 1692331181,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 445937,
+        "num": 445937,
+        "word": "杨洋告黑案将开庭",
+        "onboard_time": 1692329319,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431917,
+        "num": 431917,
+        "word": "缅甸华人称缅甸确实被妖魔化",
+        "onboard_time": 1692322957,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349723,
+        "num": 349723,
+        "word": "网友建议王一栩看莲花楼",
+        "onboard_time": 1692340955,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338594,
+        "num": 338594,
+        "word": "林志颖公开回应车祸经历",
+        "onboard_time": 1692343240,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1525354,
+        "num": 334883,
+        "word": "月经沾裤子上紧急处理方法",
+        "onboard_time": 1692342395,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614079,
+        "num": 332421,
+        "word": "林俊杰 抢票",
+        "onboard_time": 1692341855,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 418923,
+        "num": 323817,
+        "word": "小时候被大人的性冷淡风骗了",
+        "onboard_time": 1692337358,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 377179,
+        "num": 317441,
+        "word": "披荆斩棘",
+        "onboard_time": 1692342455,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315167,
+        "num": 315167,
+        "word": "何群是你吗",
+        "onboard_time": 1692342758,
+        "rank": 24,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 293484,
+        "num": 293484,
+        "word": "陈楚生对李玖哲唱张镐哲的歌",
+        "onboard_time": 1692339576,
+        "rank": 25,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 525406,
+        "num": 292491,
+        "word": "李玟曾回应在好声音录制现场质问不公",
+        "onboard_time": 1692338858,
+        "rank": 26,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 62553,
+        "num": 291714,
+        "word": "文件传输助手占了你多少内存",
+        "onboard_time": 1692342877,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291340,
+        "num": 291340,
+        "word": "于正张檬再次合作",
+        "onboard_time": 1692333462,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278711,
+        "num": 278711,
+        "word": "缅北受访者称噶腰子仅是段子",
+        "onboard_time": 1692328116,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166308,
+        "num": 276901,
+        "word": "李嘉捷向好声音致歉",
+        "onboard_time": 1692328116,
+        "rank": 30,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 274507,
+        "num": 274507,
+        "word": "95后女生开公司允许带娃上班",
+        "onboard_time": 1692343178,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516410,
+        "num": 272862,
+        "word": "中国好声音声明",
+        "onboard_time": 1692284806,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270313,
+        "num": 270313,
+        "word": "一个人租房后才懂的事",
+        "onboard_time": 1692334482,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269848,
+        "num": 269848,
+        "word": "夭玹的婚后日常",
+        "onboard_time": 1692343601,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260303,
+        "num": 260303,
+        "word": "张智霖上过披哥的自信",
+        "onboard_time": 1692343659,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246991,
+        "num": 246991,
+        "word": "刘亦菲意式宫廷大片",
+        "onboard_time": 1692327099,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231395,
+        "num": 231395,
+        "word": "妹妹误触了少儿模式退不出来了",
+        "onboard_time": 1692343542,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210469,
+        "num": 210469,
+        "word": "手里的淀粉肠突然就不香了",
+        "onboard_time": 1692328416,
+        "rank": 38,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 208808,
+        "num": 208808,
+        "word": "罗布泊究竟有多恐怖",
+        "onboard_time": 1692331298,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245074,
+        "num": 206956,
+        "word": "丁禹兮知道王彦霖有孩子的反应",
+        "onboard_time": 1692336338,
+        "rank": 40,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 237162,
+        "num": 206421,
+        "word": "宁安如梦什么时候播",
+        "onboard_time": 1692339215,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224355,
+        "num": 205882,
+        "word": "电影孤注一掷被指侵权",
+        "onboard_time": 1692323373,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204757,
+        "num": 204757,
+        "word": "赵丽颖沈阳",
+        "onboard_time": 1692329620,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201241,
+        "num": 201241,
+        "word": "二驴",
+        "onboard_time": 1692344020,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 185661,
+        "num": 185661,
+        "word": "文咏珊猫眼眼线",
+        "onboard_time": 1692339517,
+        "rank": 45,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 182449,
+        "num": 185646,
+        "word": "过几天能去垃圾桶里捡花了",
+        "onboard_time": 1692341135,
+        "rank": 46,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 157051,
+        "num": 185080,
+        "word": "全国仍有超1400万人口承受极端通勤",
+        "onboard_time": 1692331059,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235123,
+        "num": 184795,
+        "word": "李玟生前控诉中国好声音录音曝光",
+        "onboard_time": 1692278623,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243982,
+        "num": 184547,
+        "word": "苏见信真正想去的是姐姐",
+        "onboard_time": 1692343360,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
