@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692400528849,
+  "endTime": 1692401629052,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -2011,6 +2011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 869562,
+      "num": 869562,
+      "word": "睡觉时手机在枕边充电有多危险",
+      "onboard_time": 1692362376,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 869020,
       "num": 869020,
       "word": "北京为何成了茶饮荒漠",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1691999976,
       "rank": 15,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 752354,
-      "num": 752354,
-      "word": "睡觉时手机在枕边充电有多危险",
-      "onboard_time": 1692362376,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 750319,
@@ -11331,6 +11331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 189356,
+      "num": 189356,
+      "word": "医师节",
+      "onboard_time": 1692400763,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188977,
       "num": 188977,
       "word": "米卡唱的always",
@@ -11899,6 +11907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171524,
+      "num": 171524,
+      "word": "贵州村BA颁奖现场奖品闹情绪了",
+      "onboard_time": 1692397938,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171268,
       "num": 171268,
       "word": "檀健次相柳不卖水产的原因",
@@ -12321,6 +12337,14 @@
       "onboard_time": 1692298397,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148157,
+      "num": 108349,
+      "word": "抖音点赞变蜡烛",
+      "onboard_time": 1692401243,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 148048,
@@ -12779,14 +12803,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 113168,
-      "num": 113168,
-      "word": "贵州村BA颁奖现场奖品闹情绪了",
-      "onboard_time": 1692397938,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113135,
       "num": 236095,
       "word": "医生回老家乡亲们排队来看病",
@@ -12995,12 +13011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98248,
+      "num": 98248,
+      "word": "谢谢你生命守护人",
+      "onboard_time": 1692401062,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96446,
       "num": 135919,
       "word": "宝宝第一次听到呼噜声被吓到起飞",
       "onboard_time": 1692202892,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95362,
+      "num": 95362,
+      "word": "如何看待网红二驴被封禁",
+      "onboard_time": 1692391215,
+      "rank": 21,
+      "category": "网红,社会议题"
     },
     {
       "raw_hot": 94263,
@@ -13041,14 +13073,6 @@
       "onboard_time": 1692104445,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91001,
-      "num": 91001,
-      "word": "如何看待网红二驴被封禁",
-      "onboard_time": 1692391215,
-      "rank": 21,
-      "category": "网红,社会议题"
     },
     {
       "raw_hot": 90931,
@@ -13179,6 +13203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79884,
+      "num": 79884,
+      "word": "蚊子为什么不叮别人只叮你",
+      "onboard_time": 1692382339,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79750,
       "num": 386426,
       "word": "杭州小伙20天减20斤捐造血干细胞",
@@ -13291,14 +13323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68215,
-      "num": 68215,
-      "word": "蚊子为什么不叮别人只叮你",
-      "onboard_time": 1692382339,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 68209,
       "num": 556055,
       "word": "退役军人摆摊卖面为遇困者设免费餐",
@@ -13363,6 +13387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65457,
+      "num": 65457,
+      "word": "孔雪儿自己化的妆",
+      "onboard_time": 1692388515,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65032,
       "num": 1246575,
       "word": "洪灾后不同场所消毒要点",
@@ -13371,12 +13403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64763,
+      "num": 64763,
+      "word": "凯恩首秀传射",
+      "onboard_time": 1692401485,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63456,
       "num": 549985,
       "word": "原神微博表情",
       "onboard_time": 1692153095,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62803,
+      "num": 62803,
+      "word": "钓友被困河道消防再现神兵天降",
+      "onboard_time": 1692401424,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62553,
@@ -13520,14 +13568,6 @@
       "word": "张含韵蘑菇摇摆舞",
       "onboard_time": 1692247239,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 53395,
-      "num": 53395,
-      "word": "孔雪儿自己化的妆",
-      "onboard_time": 1692388515,
-      "rank": 26,
       "category": "艺人"
     },
     {

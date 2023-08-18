@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692400528849,
+  "endTime": 1692401629052,
   "band_list": [
     {
       "raw_hot": 2333538,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 869562,
+      "num": 869562,
+      "word": "睡觉时手机在枕边充电有多危险",
+      "onboard_time": 1692362376,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 779747,
       "num": 283454,
       "word": "15岁儿子才1米61父母痛悔之前没在意",
@@ -65,14 +73,6 @@
       "onboard_time": 1692369764,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 752354,
-      "num": 752354,
-      "word": "睡觉时手机在枕边充电有多危险",
-      "onboard_time": 1692362376,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 555441,
@@ -219,6 +219,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 275853,
+      "num": 308891,
+      "word": "儿科医生朋友圈点赞多得滑不到底",
+      "onboard_time": 1692366342,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260121,
       "num": 260121,
       "word": "内娱情绪稳定的明星",
@@ -233,14 +241,6 @@
       "onboard_time": 1692371081,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243386,
-      "num": 308891,
-      "word": "儿科医生朋友圈点赞多得滑不到底",
-      "onboard_time": 1692366342,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240953,
@@ -323,6 +323,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 189356,
+      "num": 189356,
+      "word": "医师节",
+      "onboard_time": 1692400763,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186938,
       "num": 211562,
       "word": "久诚诺言官宣当队友",
@@ -339,20 +347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171524,
+      "num": 171524,
+      "word": "贵州村BA颁奖现场奖品闹情绪了",
+      "onboard_time": 1692397938,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160057,
+      "num": 209694,
+      "word": "林志颖陆毅王耀庆是同龄人",
+      "onboard_time": 1692358474,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159301,
       "num": 141366,
       "word": "和你心动七夕",
       "onboard_time": 1692378745,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 158309,
-      "num": 209694,
-      "word": "林志颖陆毅王耀庆是同龄人",
-      "onboard_time": 1692358474,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 150909,
@@ -377,6 +393,14 @@
       "onboard_time": 1692367660,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148157,
+      "num": 108349,
+      "word": "抖音点赞变蜡烛",
+      "onboard_time": 1692401243,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 144747,
@@ -419,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 113168,
-      "num": 113168,
-      "word": "贵州村BA颁奖现场奖品闹情绪了",
-      "onboard_time": 1692397938,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112823,
       "num": 175872,
       "word": "以前和现在去理发店的区别",
@@ -443,8 +459,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91001,
-      "num": 91001,
+      "raw_hot": 98248,
+      "num": 98248,
+      "word": "谢谢你生命守护人",
+      "onboard_time": 1692401062,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95362,
+      "num": 95362,
       "word": "如何看待网红二驴被封禁",
       "onboard_time": 1692391215,
       "rank": 21,
@@ -459,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79884,
+      "num": 79884,
+      "word": "蚊子为什么不叮别人只叮你",
+      "onboard_time": 1692382339,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76504,
       "num": 96149,
       "word": "Amber自制美食字典",
@@ -467,12 +499,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68215,
-      "num": 68215,
-      "word": "蚊子为什么不叮别人只叮你",
-      "onboard_time": 1692382339,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 65457,
+      "num": 65457,
+      "word": "孔雪儿自己化的妆",
+      "onboard_time": 1692388515,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64763,
+      "num": 64763,
+      "word": "凯恩首秀传射",
+      "onboard_time": 1692401485,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62803,
+      "num": 62803,
+      "word": "钓友被困河道消防再现神兵天降",
+      "onboard_time": 1692401424,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62272,
@@ -497,14 +545,6 @@
       "onboard_time": 1692392593,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53395,
-      "num": 53395,
-      "word": "孔雪儿自己化的妆",
-      "onboard_time": 1692388515,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 49672,
