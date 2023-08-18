@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692315241016,
+  "endTime": 1692320905364,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -143,6 +143,14 @@
       "num": 896591,
       "word": "梁田自曝遭性骚扰",
       "onboard_time": 1692057272,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2639784,
+      "num": 463397,
+      "word": "王一栩抑郁症",
+      "onboard_time": 1692315270,
       "rank": 10,
       "category": "艺人"
     },
@@ -475,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1744682,
+      "num": 417836,
+      "word": "2年遭家暴16次女子被送精神病院治疗",
+      "onboard_time": 1692316172,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1736657,
       "num": 1736657,
       "word": "丁禹兮把赵露思的黄豆糕喂给杨超越",
@@ -563,12 +579,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1567737,
+      "num": 1567737,
+      "word": "蒲熠星 这个故事是我100%的作品",
+      "onboard_time": 1692319296,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1563419,
       "num": 1563419,
       "word": "曝七时吉祥抄袭秦时明月",
       "onboard_time": 1692252634,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1561147,
+      "num": 453156,
+      "word": "网友发现自己小时候舞蹈老师是李佳琦",
+      "onboard_time": 1692317316,
+      "rank": 11,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 1552185,
@@ -1243,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1057877,
+      "num": 591430,
+      "word": "杨超越演技",
+      "onboard_time": 1692318759,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1049243,
       "num": 909644,
       "word": "朋友圈快乐的内容消失了",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1692073241,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 987512,
+      "num": 635914,
+      "word": "缅北失联20岁男生解救过程",
+      "onboard_time": 1692198338,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 982169,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1692248141,
       "rank": 17,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 872171,
+      "num": 872171,
+      "word": "我不是药神白血病少年扮演者入院捐髓",
+      "onboard_time": 1692304574,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 871176,
@@ -2531,14 +2587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 635914,
-      "num": 635914,
-      "word": "缅北失联20岁男生解救过程",
-      "onboard_time": 1692198338,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 634408,
       "num": 456430,
       "word": "刘宪华戴五条项链",
@@ -2883,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 578706,
+      "num": 379701,
+      "word": "不能相互打听工资",
+      "onboard_time": 1692316773,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 577162,
       "num": 577162,
       "word": "长相思相柳封神瞬间",
@@ -3099,6 +3155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 554902,
+      "num": 554902,
+      "word": "假如相柳娶了青丘公主",
+      "onboard_time": 1692315753,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 553354,
       "num": 553354,
       "word": "王俊凯小卷毛",
@@ -3299,6 +3363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529304,
+      "num": 408038,
+      "word": "丁禹兮杨超越直播还原吻戏",
+      "onboard_time": 1692316172,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 529271,
+      "num": 375477,
+      "word": "男子为赚7000元参加药物试验老婆要离婚",
+      "onboard_time": 1692314549,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528718,
       "num": 528718,
       "word": "中国男篮vs新西兰男篮",
@@ -3307,12 +3387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 528397,
+      "num": 400711,
+      "word": "成都偶遇张艺兴吃火锅",
+      "onboard_time": 1692316955,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528192,
       "num": 407250,
       "word": "鞠婧祎挂脖吊带",
       "onboard_time": 1692191018,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 527705,
+      "num": 384509,
+      "word": "于适素颜",
+      "onboard_time": 1692319419,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 526629,
@@ -3353,6 +3449,14 @@
       "onboard_time": 1692253237,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 519110,
+      "num": 519110,
+      "word": "金晨谈安娜",
+      "onboard_time": 1692319060,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 518448,
@@ -3473,6 +3577,14 @@
       "onboard_time": 1692062735,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 507988,
+      "num": 507988,
+      "word": "妈妈收到女儿的金戒指红了眼眶",
+      "onboard_time": 1692316894,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507866,
@@ -3691,14 +3803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 487313,
-      "num": 122910,
-      "word": "男子为赚7000元参加药物试验老婆要离婚",
-      "onboard_time": 1692314549,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 484868,
       "num": 484868,
       "word": "莲花楼豆瓣开分8.0",
@@ -3777,6 +3881,14 @@
       "onboard_time": 1692082362,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478665,
+      "num": 478665,
+      "word": "高三男生1支笔战600场考试圆梦复旦",
+      "onboard_time": 1692318097,
+      "rank": 8,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 476883,
@@ -4699,14 +4811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404526,
-      "num": 404526,
-      "word": "我不是药神白血病少年扮演者入院捐髓",
-      "onboard_time": 1692304574,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 403845,
       "num": 373260,
       "word": "孙千露满背",
@@ -4979,6 +5083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 383123,
+      "num": 383123,
+      "word": "EDG惜败EG",
+      "onboard_time": 1692319117,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 382797,
       "num": 382797,
       "word": "吐鲁番多名游客突然头发直立如刺猬",
@@ -5129,6 +5241,14 @@
       "onboard_time": 1692265299,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369764,
+      "num": 369764,
+      "word": "有人自林中坠落",
+      "onboard_time": 1692320318,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 369566,
@@ -5473,6 +5593,14 @@
       "onboard_time": 1692249637,
       "rank": 25,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 340259,
+      "num": 340259,
+      "word": "陈妍希沈佳宜式证件照",
+      "onboard_time": 1692318938,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 340017,
@@ -5977,6 +6105,14 @@
       "onboard_time": 1692257922,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306991,
+      "num": 306991,
+      "word": "张杰KTV唱歌",
+      "onboard_time": 1692315570,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 306403,
@@ -7611,6 +7747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242112,
+      "num": 242112,
+      "word": "金珉奎刮胡子",
+      "onboard_time": 1692319476,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242009,
       "num": 513324,
       "word": "你喝的奶茶有身份证吗",
@@ -7641,6 +7785,14 @@
       "onboard_time": 1691937341,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240742,
+      "num": 423944,
+      "word": "爸爸车祸昏迷7岁女儿变身小小顶梁柱",
+      "onboard_time": 1692313282,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240583,
@@ -7817,14 +7969,6 @@
       "onboard_time": 1692175237,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233580,
-      "num": 233580,
-      "word": "爸爸车祸昏迷7岁女儿变身小小顶梁柱",
-      "onboard_time": 1692313282,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233478,
@@ -8379,6 +8523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210765,
+      "num": 210765,
+      "word": "孙阳还原扔衣服名场面",
+      "onboard_time": 1692319597,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210593,
       "num": 210593,
       "word": "严浩翔小学跳广播体操",
@@ -8763,6 +8915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 202235,
+      "num": 202235,
+      "word": "夫妻俩车祸后被困手握手互相打气",
+      "onboard_time": 1692318276,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202172,
       "num": 202172,
       "word": "京城大师赛",
@@ -9019,6 +9179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197627,
+      "num": 197627,
+      "word": "18岁男生暑假打3份工送姑姑金耳饰",
+      "onboard_time": 1692318759,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197560,
       "num": 243350,
       "word": "陌生人的隔空投送有多离谱",
@@ -9155,6 +9323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193322,
+      "num": 193322,
+      "word": "好的睡眠质量是人生最好的财富",
+      "onboard_time": 1692320078,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193304,
       "num": 193304,
       "word": "初中时的本子里写满了杨洋",
@@ -9185,6 +9361,14 @@
       "onboard_time": 1692155374,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192928,
+      "num": 192928,
+      "word": "白宇新剧智商担当",
+      "onboard_time": 1692320557,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 192653,
@@ -9241,6 +9425,14 @@
       "onboard_time": 1692173919,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191721,
+      "num": 191721,
+      "word": "咖啡变成了我舍不得喝的样子",
+      "onboard_time": 1692313345,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 191645,
@@ -9835,12 +10027,28 @@
       "category": "网红,音乐"
     },
     {
+      "raw_hot": 173941,
+      "num": 173941,
+      "word": "蛋糕真的越来越离谱了",
+      "onboard_time": 1692320798,
+      "rank": 46,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 173724,
       "num": 173724,
       "word": "认识的人踩我雷点",
       "onboard_time": 1692093339,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 173057,
+      "num": 173057,
+      "word": "120电话指导公交司机抢救晕厥老人",
+      "onboard_time": 1692318399,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171650,
@@ -9921,14 +10129,6 @@
       "onboard_time": 1692211035,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 168563,
-      "num": 168563,
-      "word": "咖啡变成了我舍不得喝的样子",
-      "onboard_time": 1692313345,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 167638,
@@ -10216,6 +10416,14 @@
       "word": "以闪亮之名",
       "onboard_time": 1692152973,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 149953,
+      "num": 149953,
+      "word": "BLG惜败DRX",
+      "onboard_time": 1692315150,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -10977,14 +11185,6 @@
       "onboard_time": 1692305234,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73316,
-      "num": 110639,
-      "word": "BLG惜败DRX",
-      "onboard_time": 1692315150,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 73303,
