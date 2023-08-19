@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692416020426,
+  "endTime": 1692418765103,
   "band_list": [
     {
       "raw_hot": 2606359,
@@ -43,7 +43,7 @@
       "category": "社会新闻,综艺"
     },
     {
-      "raw_hot": 1578787,
+      "raw_hot": 1650420,
       "num": 864412,
       "word": "杨紫张晚意情侣装",
       "onboard_time": 1692414514,
@@ -75,11 +75,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1371112,
+      "num": 255527,
+      "word": "妻子欲当网红改善生活遭丈夫反对并砸家",
+      "onboard_time": 1692415594,
+      "rank": 32,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1351722,
       "num": 1351722,
       "word": "央广网评长安三万里被批不符史实误导观众",
       "onboard_time": 1692408812,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1334096,
+      "num": 1334096,
+      "word": "长相思导演回应官配为什么不是男主",
+      "onboard_time": 1692415655,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -139,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1027459,
+      "num": 327251,
+      "word": "魏大勋李雪琴打一把伞",
+      "onboard_time": 1692415713,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 980356,
       "num": 480311,
       "word": "女生手术取出被戳进额头20年铅笔芯",
@@ -193,6 +217,14 @@
       "onboard_time": 1692413371,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 721607,
+      "num": 721607,
+      "word": "麻醉医生说请别叫我麻醉师",
+      "onboard_time": 1692415052,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 679902,
@@ -275,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 497401,
+      "num": 497401,
+      "word": "灼灼风流开播",
+      "onboard_time": 1692415773,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 496462,
       "num": 496462,
       "word": "檀健次怎么净想着爆自己料",
@@ -305,14 +345,6 @@
       "onboard_time": 1692414693,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 469317,
-      "num": 324616,
-      "word": "长相思导演回应官配为什么不是男主",
-      "onboard_time": 1692415655,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 466532,
@@ -371,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418494,
+      "num": 321375,
+      "word": "杨紫邓为十指相扣答题",
+      "onboard_time": 1692418234,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389623,
       "num": 389623,
       "word": "檀健次问相柳和沈翊选哪个",
@@ -403,14 +443,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 373839,
-      "num": 373839,
-      "word": "麻醉医生说请别叫我麻醉师",
-      "onboard_time": 1692415052,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372418,
       "num": 372418,
       "word": "沈梦辰的红烧肉征服了匈牙利人",
@@ -433,6 +465,14 @@
       "onboard_time": 1692342395,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334927,
+      "num": 197957,
+      "word": "魏大勋晒自己甜照",
+      "onboard_time": 1692416375,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 323365,
@@ -515,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305107,
+      "num": 305107,
+      "word": "邓为紫色毛绒爱心",
+      "onboard_time": 1692416256,
+      "rank": 15,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 303021,
       "num": 264159,
       "word": "我弟无意间写出一个完美逗号",
@@ -528,6 +576,14 @@
       "word": "杨紫你好星期六",
       "onboard_time": 1692411875,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297436,
+      "num": 297436,
+      "word": "张晚意清唱输了你赢了世界又如何",
+      "onboard_time": 1692418356,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -603,20 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259321,
-      "num": 259321,
-      "word": "魏大勋李雪琴打一把伞",
-      "onboard_time": 1692415713,
+      "raw_hot": 259656,
+      "num": 195305,
+      "word": "日本动画 中国电影分镜",
+      "onboard_time": 1692416856,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 255527,
-      "num": 255527,
-      "word": "妻子欲当网红改善生活遭丈夫反对并砸家",
-      "onboard_time": 1692415594,
-      "rank": 32,
-      "category": "社会新闻,情感"
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 250499,
@@ -627,12 +675,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244264,
+      "num": 202652,
+      "word": "NCTDREAM出发上海签售",
+      "onboard_time": 1692416673,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 243201,
+      "num": 201398,
+      "word": "余华老师真的太懂年轻人了",
+      "onboard_time": 1692416975,
+      "rank": 26,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 240953,
       "num": 232265,
       "word": "张艺兴被粉丝夸可爱的反应",
       "onboard_time": 1692374978,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240452,
+      "num": 200133,
+      "word": "健次走了相柳来了",
+      "onboard_time": 1692416433,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 233416,
@@ -683,14 +755,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 215477,
-      "num": 215477,
-      "word": "灼灼风流开播",
-      "onboard_time": 1692415773,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214174,
       "num": 214174,
       "word": "韩剧假面女郎",
@@ -713,6 +777,14 @@
       "onboard_time": 1692356614,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211431,
+      "num": 198979,
+      "word": "张智霖真人版地铁跑酷",
+      "onboard_time": 1692418057,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 209888,
@@ -779,6 +851,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 198663,
+      "num": 192897,
+      "word": "杨迪 你还缺我这个老夭",
+      "onboard_time": 1692418356,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197090,
       "num": 209547,
       "word": "盗墓笔记 今天初一拜财神",
@@ -795,12 +875,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194144,
+      "num": 194144,
+      "word": "显眼包出国玩了",
+      "onboard_time": 1692417933,
+      "rank": 32,
+      "category": "旅游,幽默"
+    },
+    {
       "raw_hot": 194065,
       "num": 205337,
       "word": "檀健次和他的怨种团队",
       "onboard_time": 1692412595,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192527,
+      "num": 192527,
+      "word": "95后失聪青年靠写字年入30万",
+      "onboard_time": 1692417333,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191951,
+      "num": 193258,
+      "word": "战至巅峰",
+      "onboard_time": 1692417513,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 189629,
@@ -921,6 +1025,14 @@
       "onboard_time": 1692378745,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156017,
+      "num": 156017,
+      "word": "全员加速中真假守能者剧透",
+      "onboard_time": 1692418715,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 154186,
@@ -1185,6 +1297,14 @@
       "onboard_time": 1692380900,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 33968,
+      "num": 935458,
+      "word": "谢谢你生命的守护者",
+      "onboard_time": 1692416315,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26613,

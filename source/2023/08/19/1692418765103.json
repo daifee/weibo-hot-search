@@ -1,0 +1,410 @@
+{
+  "runTime": 1692418765103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2045060,
+        "num": 2045060,
+        "word": "上海六院称已连夜处理窗口人员阴阳怪气事件",
+        "onboard_time": 1692412893,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1334096,
+        "num": 1334096,
+        "word": "长相思导演回应官配为什么不是男主",
+        "onboard_time": 1692415655,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33968,
+        "num": 935458,
+        "word": "谢谢你生命的守护者",
+        "onboard_time": 1692416315,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721607,
+        "num": 721607,
+        "word": "麻醉医生说请别叫我麻醉师",
+        "onboard_time": 1692415052,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635253,
+        "num": 635253,
+        "word": "央广网评长安三万里被批不符史实误导观众",
+        "onboard_time": 1692408812,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503530,
+        "num": 503530,
+        "word": "竟然从一个摄影镜头里看到了慌张",
+        "onboard_time": 1692406353,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 497401,
+        "num": 497401,
+        "word": "灼灼风流开播",
+        "onboard_time": 1692415773,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362298,
+        "num": 362298,
+        "word": "花花和圆润干妈第一次见面",
+        "onboard_time": 1692412773,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332172,
+        "num": 332172,
+        "word": "长相思剧组好六最强售后",
+        "onboard_time": 1692410139,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256406,
+        "num": 330265,
+        "word": "夏威夷大火废墟中有很多X字样",
+        "onboard_time": 1692407374,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1027459,
+        "num": 327251,
+        "word": "魏大勋李雪琴打一把伞",
+        "onboard_time": 1692415713,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 686538,
+        "num": 325600,
+        "word": "中国程序员拒写赌博程序遭拔14颗牙",
+        "onboard_time": 1692407257,
+        "rank": 11,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 426886,
+        "num": 322369,
+        "word": "张栋梁镜头下的林志颖张远徐良",
+        "onboard_time": 1692414693,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418494,
+        "num": 321375,
+        "word": "杨紫邓为十指相扣答题",
+        "onboard_time": 1692418234,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319793,
+        "num": 319793,
+        "word": "一个月一次的避孕针是什么",
+        "onboard_time": 1692362801,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305107,
+        "num": 305107,
+        "word": "邓为紫色毛绒爱心",
+        "onboard_time": 1692416256,
+        "rank": 15,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 297436,
+        "num": 297436,
+        "word": "张晚意清唱输了你赢了世界又如何",
+        "onboard_time": 1692418356,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236528,
+        "num": 236528,
+        "word": "女生手术取出被戳进额头20年铅笔芯",
+        "onboard_time": 1692404012,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218898,
+        "num": 218898,
+        "word": "XYG五人组首发",
+        "onboard_time": 1692414094,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210748,
+        "num": 210748,
+        "word": "妈妈当年放弃了自己的明星梦",
+        "onboard_time": 1692405754,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1650420,
+        "num": 210154,
+        "word": "杨紫张晚意情侣装",
+        "onboard_time": 1692414514,
+        "rank": 20,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 295653,
+        "num": 209330,
+        "word": "6个人帮薛凯琪吃瓜",
+        "onboard_time": 1692413314,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595010,
+        "num": 207582,
+        "word": "把微信状态当成朋友圈发",
+        "onboard_time": 1692413371,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 438860,
+        "num": 205911,
+        "word": "微信朋友圈的图片褪色了",
+        "onboard_time": 1692411693,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265417,
+        "num": 204620,
+        "word": "红色药丸 蓝色药丸",
+        "onboard_time": 1692401784,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244264,
+        "num": 202652,
+        "word": "NCTDREAM出发上海签售",
+        "onboard_time": 1692416673,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243201,
+        "num": 201398,
+        "word": "余华老师真的太懂年轻人了",
+        "onboard_time": 1692416975,
+        "rank": 26,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 240452,
+        "num": 200133,
+        "word": "健次走了相柳来了",
+        "onboard_time": 1692416433,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211431,
+        "num": 198979,
+        "word": "张智霖真人版地铁跑酷",
+        "onboard_time": 1692418057,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334927,
+        "num": 197957,
+        "word": "魏大勋晒自己甜照",
+        "onboard_time": 1692416375,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 762864,
+        "num": 195864,
+        "word": "李玟控诉中国好声音的音频是不是恶意剪辑",
+        "onboard_time": 1692404012,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259656,
+        "num": 195305,
+        "word": "日本动画 中国电影分镜",
+        "onboard_time": 1692416856,
+        "rank": 31,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 194144,
+        "num": 194144,
+        "word": "显眼包出国玩了",
+        "onboard_time": 1692417933,
+        "rank": 32,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 191951,
+        "num": 193258,
+        "word": "战至巅峰",
+        "onboard_time": 1692417513,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 653590,
+        "num": 193117,
+        "word": "知情人曝李玟摔倒后节目组没喊停",
+        "onboard_time": 1692402685,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198663,
+        "num": 192897,
+        "word": "杨迪 你还缺我这个老夭",
+        "onboard_time": 1692418356,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192527,
+        "num": 192527,
+        "word": "95后失聪青年靠写字年入30万",
+        "onboard_time": 1692417333,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343604,
+        "num": 192485,
+        "word": "薛佳凝晒与赵露思合照",
+        "onboard_time": 1692407257,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400518,
+        "num": 190339,
+        "word": "邓为垚了我吧",
+        "onboard_time": 1692412532,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353252,
+        "num": 187112,
+        "word": "中国好声音商标被判无效",
+        "onboard_time": 1692403710,
+        "rank": 39,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 234086,
+        "num": 185469,
+        "word": "雅典娜",
+        "onboard_time": 1692373059,
+        "rank": 40,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 184938,
+        "num": 184938,
+        "word": "曾黎素颜状态",
+        "onboard_time": 1692410975,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 182627,
+        "num": 182627,
+        "word": "男子被高压枪往身体打气结果肠子爆了",
+        "onboard_time": 1692402386,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1371112,
+        "num": 180215,
+        "word": "妻子欲当网红改善生活遭丈夫反对并砸家",
+        "onboard_time": 1692415594,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 164200,
+        "num": 164200,
+        "word": "男子手臂割伤幸好有他们接力护送",
+        "onboard_time": 1692413973,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157708,
+        "num": 157708,
+        "word": "丈夫逼妻子回家遭拒当街引爆手榴弹",
+        "onboard_time": 1692412055,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156330,
+        "num": 156330,
+        "word": "披荆斩棘哥哥怼脸拍",
+        "onboard_time": 1692415233,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156017,
+        "num": 156017,
+        "word": "全员加速中真假守能者剧透",
+        "onboard_time": 1692418715,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154403,
+        "num": 154403,
+        "word": "王大陆粉丝现场转粉孙阳",
+        "onboard_time": 1692414457,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130317,
+        "num": 154402,
+        "word": "EDG晋级全球冠军赛六强",
+        "onboard_time": 1692405514,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
