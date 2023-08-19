@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692470035771,
+  "endTime": 1692472331072,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -16193,6 +16193,14 @@
       "onboard_time": 1691951237,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 60982,
+      "num": 60982,
+      "word": "当年爆火的台偶剧歌曲",
+      "onboard_time": 1692462996,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 60169,
