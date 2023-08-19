@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692411460894,
+  "endTime": 1692412438056,
   "band_list": [
     {
       "raw_hot": 2606359,
@@ -35,20 +35,20 @@
       "category": "社会新闻,综艺"
     },
     {
+      "raw_hot": 1571043,
+      "num": 468669,
+      "word": "中国程序员拒写赌博程序遭拔14颗牙",
+      "onboard_time": 1692407257,
+      "rank": 30,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1554302,
       "num": 471748,
       "word": "一个月一次的避孕针是什么",
       "onboard_time": 1692362801,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1538395,
-      "num": 468669,
-      "word": "中国程序员拒写赌博程序遭拔14颗牙",
-      "onboard_time": 1692407257,
-      "rank": 30,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1375911,
@@ -59,8 +59,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1263021,
-      "num": 1263021,
+      "raw_hot": 1351722,
+      "num": 1351722,
       "word": "央广网评长安三万里被批不符史实误导观众",
       "onboard_time": 1692408812,
       "rank": 1,
@@ -73,6 +73,14 @@
       "onboard_time": 1692407257,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1209322,
+      "num": 1209322,
+      "word": "长相思剧组好六最强售后",
+      "onboard_time": 1692410139,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 1171230,
@@ -105,14 +113,6 @@
       "onboard_time": 1692406353,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1045376,
-      "num": 1045376,
-      "word": "长相思剧组好六最强售后",
-      "onboard_time": 1692410139,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 1030068,
@@ -177,6 +177,14 @@
       "onboard_time": 1692403469,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575911,
+      "num": 207327,
+      "word": "微信朋友圈的图片褪色了",
+      "onboard_time": 1692411693,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 569850,
@@ -251,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 458133,
+      "num": 448318,
+      "word": "杨紫古装仪态",
+      "onboard_time": 1692409473,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 455438,
       "num": 455438,
       "word": "东部战区位台岛周边海空联合演训",
@@ -265,14 +281,6 @@
       "onboard_time": 1692372340,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 448318,
-      "num": 448318,
-      "word": "杨紫古装仪态",
-      "onboard_time": 1692409473,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 442888,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383178,
+      "num": 206346,
+      "word": "曾黎素颜状态",
+      "onboard_time": 1692410975,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 372418,
       "num": 372418,
       "word": "沈梦辰的红烧肉征服了匈牙利人",
@@ -337,6 +353,14 @@
       "onboard_time": 1692342395,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323365,
+      "num": 323365,
+      "word": "网文主角 套个真实地名",
+      "onboard_time": 1692411036,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 322512,
@@ -403,6 +427,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 302006,
+      "num": 302006,
+      "word": "杨紫你好星期六",
+      "onboard_time": 1692411875,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297215,
+      "num": 203881,
+      "word": "hi6",
+      "onboard_time": 1692410614,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289563,
       "num": 289563,
       "word": "可以直接外穿的内衣",
@@ -451,28 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254196,
-      "num": 198389,
-      "word": "曾黎素颜状态",
-      "onboard_time": 1692410975,
-      "rank": 24,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 250499,
       "num": 250499,
       "word": "鹿晗与芦苇合照",
       "onboard_time": 1692371081,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249033,
-      "num": 196789,
-      "word": "hi6",
-      "onboard_time": 1692410614,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 240953,
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 215558,
-      "num": 190725,
+      "num": 198183,
       "word": "一座即将消失的猫岛",
       "onboard_time": 1692407971,
       "rank": 44,
@@ -537,6 +561,14 @@
       "onboard_time": 1692374378,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214132,
+      "num": 192465,
+      "word": "小鸟一家人居然在犀牛的角里筑巢",
+      "onboard_time": 1692410436,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213794,
@@ -579,14 +611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 204598,
-      "num": 177074,
-      "word": "小鸟一家人居然在犀牛的角里筑巢",
-      "onboard_time": 1692410436,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202173,
       "num": 202173,
       "word": "还得是杨千嬅",
@@ -603,6 +627,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 198620,
+      "num": 189847,
+      "word": "小夭大王姬又回来啦",
+      "onboard_time": 1692412414,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197090,
       "num": 209547,
       "word": "盗墓笔记 今天初一拜财神",
@@ -611,16 +643,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 196587,
-      "num": 177057,
-      "word": "网文主角 套个真实地名",
-      "onboard_time": 1692411036,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 191805,
-      "num": 191805,
+      "raw_hot": 195555,
+      "num": 195555,
       "word": "骗子开始伪装成外国美女了",
       "onboard_time": 1692401784,
       "rank": 34,
@@ -632,6 +656,14 @@
       "word": "医师节",
       "onboard_time": 1692400763,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187778,
+      "num": 187778,
+      "word": "10岁弟弟知道姐姐没有金戒指立马帮买",
+      "onboard_time": 1692411274,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -667,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179165,
+      "num": 179165,
+      "word": "丈夫逼妻子回家遭拒当街引爆手榴弹",
+      "onboard_time": 1692412055,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171881,
       "num": 171881,
       "word": "现代版商战",
@@ -681,6 +721,14 @@
       "onboard_time": 1692397938,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167815,
+      "num": 167815,
+      "word": "王鹤棣拍照每个姿势都有梗",
+      "onboard_time": 1692411758,
+      "rank": 40,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 163366,
@@ -753,6 +801,14 @@
       "onboard_time": 1692401243,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 145719,
+      "num": 160216,
+      "word": "为什么我们需要旅行",
+      "onboard_time": 1692412113,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 144747,

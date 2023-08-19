@@ -1,0 +1,410 @@
+{
+  "runTime": 1692412438056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1351722,
+        "num": 1351722,
+        "word": "央广网评长安三万里被批不符史实误导观众",
+        "onboard_time": 1692408812,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1209322,
+        "num": 1209322,
+        "word": "长相思剧组好六最强售后",
+        "onboard_time": 1692410139,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31491,
+        "num": 996938,
+        "word": "中国国家太空实验室已正式运行",
+        "onboard_time": 1692361056,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223127,
+        "num": 978722,
+        "word": "薛佳凝晒与赵露思合照",
+        "onboard_time": 1692407257,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 954196,
+        "num": 954196,
+        "word": "竟然从一个摄影镜头里看到了慌张",
+        "onboard_time": 1692406353,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 539211,
+        "num": 539211,
+        "word": "外国老友对黄晓明说因为你让我认识中国",
+        "onboard_time": 1692405514,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509242,
+        "num": 509242,
+        "word": "雅典娜",
+        "onboard_time": 1692373059,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 474686,
+        "num": 474686,
+        "word": "妈妈当年放弃了自己的明星梦",
+        "onboard_time": 1692405754,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 447507,
+        "num": 447507,
+        "word": "夏威夷大火废墟中有很多X字样",
+        "onboard_time": 1692407374,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 421453,
+        "num": 421453,
+        "word": "东部战区位台岛周边海空联合演训",
+        "onboard_time": 1692409595,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1571043,
+        "num": 417951,
+        "word": "中国程序员拒写赌博程序遭拔14颗牙",
+        "onboard_time": 1692407257,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 458133,
+        "num": 396428,
+        "word": "杨紫古装仪态",
+        "onboard_time": 1692409473,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 453817,
+        "num": 393109,
+        "word": "一个月一次的避孕针是什么",
+        "onboard_time": 1692362801,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429088,
+        "num": 373912,
+        "word": "女生手术取出被戳进额头20年铅笔芯",
+        "onboard_time": 1692404012,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365705,
+        "num": 365705,
+        "word": "李一桐摘面纱回眸镜头",
+        "onboard_time": 1692407314,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328357,
+        "num": 328357,
+        "word": "檀健次问相柳和沈翊选哪个",
+        "onboard_time": 1692408634,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323365,
+        "num": 323365,
+        "word": "网文主角 套个真实地名",
+        "onboard_time": 1692411036,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302006,
+        "num": 302006,
+        "word": "杨紫你好星期六",
+        "onboard_time": 1692411875,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292364,
+        "num": 292364,
+        "word": "结婚16年3孩均非亲生男子将起诉妻子",
+        "onboard_time": 1692403469,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210234,
+        "num": 210234,
+        "word": "EDG晋级全球冠军赛六强",
+        "onboard_time": 1692405514,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 779544,
+        "num": 209606,
+        "word": "红色药丸 蓝色药丸",
+        "onboard_time": 1692401784,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 575911,
+        "num": 207327,
+        "word": "微信朋友圈的图片褪色了",
+        "onboard_time": 1692411693,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383178,
+        "num": 206346,
+        "word": "曾黎素颜状态",
+        "onboard_time": 1692410975,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 297215,
+        "num": 203881,
+        "word": "hi6",
+        "onboard_time": 1692410614,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284378,
+        "num": 201932,
+        "word": "男子被高压枪往身体打气结果肠子爆了",
+        "onboard_time": 1692402386,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243885,
+        "num": 200647,
+        "word": "15岁儿子才1米61父母痛悔之前没在意",
+        "onboard_time": 1692372100,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213962,
+        "num": 200153,
+        "word": "我弟无意间写出一个完美逗号",
+        "onboard_time": 1692403410,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198478,
+        "num": 198478,
+        "word": "交警调控绿波远程导航助呕吐不止孩童送医",
+        "onboard_time": 1692408872,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 198183,
+        "num": 198183,
+        "word": "一座即将消失的猫岛",
+        "onboard_time": 1692407971,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 195555,
+        "num": 195555,
+        "word": "骗子开始伪装成外国美女了",
+        "onboard_time": 1692401784,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1530859,
+        "num": 195262,
+        "word": "知情人曝李玟摔倒后节目组没喊停",
+        "onboard_time": 1692402685,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214132,
+        "num": 192465,
+        "word": "小鸟一家人居然在犀牛的角里筑巢",
+        "onboard_time": 1692410436,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198620,
+        "num": 189847,
+        "word": "小夭大王姬又回来啦",
+        "onboard_time": 1692412414,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 881137,
+        "num": 189146,
+        "word": "李玟控诉中国好声音的音频是不是恶意剪辑",
+        "onboard_time": 1692404012,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187778,
+        "num": 187778,
+        "word": "10岁弟弟知道姐姐没有金戒指立马帮买",
+        "onboard_time": 1692411274,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180570,
+        "num": 180570,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1692404912,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533376,
+        "num": 180416,
+        "word": "中国好声音商标被判无效",
+        "onboard_time": 1692403710,
+        "rank": 36,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 179165,
+        "num": 179165,
+        "word": "丈夫逼妻子回家遭拒当街引爆手榴弹",
+        "onboard_time": 1692412055,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177497,
+        "num": 177497,
+        "word": "沈梦辰的红烧肉征服了匈牙利人",
+        "onboard_time": 1692406535,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175731,
+        "num": 175731,
+        "word": "周琦赵睿互换东家",
+        "onboard_time": 1692378149,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167815,
+        "num": 167815,
+        "word": "王鹤棣拍照每个姿势都有梗",
+        "onboard_time": 1692411758,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 165882,
+        "num": 165882,
+        "word": "现代版商战",
+        "onboard_time": 1692406774,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165131,
+        "num": 165131,
+        "word": "赵丽颖窗边背影照",
+        "onboard_time": 1692404912,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160226,
+        "num": 160226,
+        "word": "白鹿换风格了",
+        "onboard_time": 1692372400,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154901,
+        "num": 160224,
+        "word": "薛之谦把大屏镜头给了歌迷",
+        "onboard_time": 1692402386,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145719,
+        "num": 160216,
+        "word": "为什么我们需要旅行",
+        "onboard_time": 1692412113,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142101,
+        "num": 160211,
+        "word": "胡彦斌问胡兵和瞿颖合作心动过吗",
+        "onboard_time": 1692405575,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140645,
+        "num": 160203,
+        "word": "中国好声音赞助商遭网友喊话",
+        "onboard_time": 1692372041,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135186,
+        "num": 160198,
+        "word": "七时吉祥一世一席",
+        "onboard_time": 1692406834,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126041,
+        "num": 160190,
+        "word": "医师节",
+        "onboard_time": 1692400763,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚洲首艘圆筒型海上油气加工厂船体完工#"
+    }
+  }
+}
