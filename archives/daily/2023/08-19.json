@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692441244316,
+  "endTime": 1692443538830,
   "band_list": [
     {
       "raw_hot": 3165002,
@@ -51,12 +51,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2013945,
+      "num": 2013945,
+      "word": "久哲卸任Hero主教练",
+      "onboard_time": 1692442835,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2005215,
       "num": 2005215,
       "word": "雅典娜",
       "onboard_time": 1692373059,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1857739,
+      "num": 720294,
+      "word": "秦牛正威为不妥回复致歉",
+      "onboard_time": 1692441216,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1662766,
+      "num": 1662766,
+      "word": "玲花不喜欢别人叫她全名的原因",
+      "onboard_time": 1692439772,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1651504,
@@ -73,6 +97,14 @@
       "onboard_time": 1692414514,
       "rank": 15,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 1581400,
+      "num": 1581400,
+      "word": "长相思第二季的防风邶剧照",
+      "onboard_time": 1692441574,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1571043,
@@ -227,14 +259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1050912,
-      "num": 367255,
-      "word": "玲花不喜欢别人叫她全名的原因",
-      "onboard_time": 1692439772,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1030068,
       "num": 312636,
       "word": "白鹿换风格了",
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 959248,
-      "num": 959248,
+      "num": 1766782,
       "word": "爸爸4年暑假接送26岁女儿上下班",
       "onboard_time": 1692433114,
       "rank": 4,
@@ -281,6 +305,14 @@
       "onboard_time": 1692429873,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910677,
+      "num": 910677,
+      "word": "Ella说山支回来了",
+      "onboard_time": 1692442296,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 898259,
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 619123,
-      "num": 366582,
+      "num": 571856,
       "word": "曾志伟被曝住院动手术",
       "onboard_time": 1692440254,
       "rank": 16,
@@ -611,6 +643,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 452823,
+      "num": 452823,
+      "word": "你好星期六",
+      "onboard_time": 1692441574,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452760,
       "num": 452760,
       "word": "张新成周杰伦合唱你听得到",
@@ -667,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396665,
+      "num": 396665,
+      "word": "夭玹的笼",
+      "onboard_time": 1692442054,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392047,
       "num": 752370,
       "word": "张晚意演我看檀健次跳舞",
@@ -700,7 +748,7 @@
     },
     {
       "raw_hot": 383942,
-      "num": 294996,
+      "num": 330270,
       "word": "教练月光 真人真事改编大型连续剧",
       "onboard_time": 1692428493,
       "rank": 31,
@@ -716,7 +764,7 @@
     },
     {
       "raw_hot": 381804,
-      "num": 772195,
+      "num": 1243040,
       "word": "他拿了1瓶水放回来8提水",
       "onboard_time": 1692432574,
       "rank": 8,
@@ -771,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350521,
+      "num": 279636,
+      "word": "王玉雯王子奇一起追灼灼风流",
+      "onboard_time": 1692441334,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348998,
       "num": 297436,
       "word": "张晚意清唱输了你赢了世界又如何",
@@ -779,11 +835,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348753,
+      "num": 242470,
+      "word": "周深 更适合中国宝宝体质的私教老师",
+      "onboard_time": 1692442717,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348699,
       "num": 459216,
       "word": "甘肃一文物古建筑被改造成日式餐厅",
       "onboard_time": 1692419194,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348624,
+      "num": 1581730,
+      "word": "监控下医生向病人家属强行塞红包",
+      "onboard_time": 1692440254,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -955,6 +1027,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 303744,
+      "num": 241566,
+      "word": "冯绍峰45岁状态",
+      "onboard_time": 1692441216,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303021,
       "num": 264159,
       "word": "我弟无意间写出一个完美逗号",
@@ -1083,6 +1163,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267691,
+      "num": 239392,
+      "word": "秀才 一笑倾城",
+      "onboard_time": 1692442355,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 267011,
+      "num": 305902,
+      "word": "T1对战KT",
+      "onboard_time": 1692429454,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266818,
       "num": 266818,
       "word": "白敬亭刘昊然魏大勋明天见",
@@ -1179,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244478,
+      "num": 238401,
+      "word": "王阳cpu快烧没了",
+      "onboard_time": 1692441756,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244264,
       "num": 238600,
       "word": "NCTDREAM出发上海签售",
@@ -1219,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238333,
+      "num": 238333,
+      "word": "全员加速中",
+      "onboard_time": 1692441756,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237152,
       "num": 237152,
       "word": "烫金方",
@@ -1241,14 +1353,6 @@
       "onboard_time": 1692436773,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231003,
-      "num": 305902,
-      "word": "T1对战KT",
-      "onboard_time": 1692429454,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 229644,
@@ -1299,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217944,
+      "num": 217944,
+      "word": "黄子韬说红得靠命",
+      "onboard_time": 1692442417,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216408,
       "num": 216408,
       "word": "小夭视角与四位男主关系",
@@ -1321,6 +1433,14 @@
       "onboard_time": 1692407971,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 215194,
+      "num": 215194,
+      "word": "九大少年帝王",
+      "onboard_time": 1692443434,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 214540,
@@ -1353,14 +1473,6 @@
       "onboard_time": 1692356614,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211675,
-      "num": 367707,
-      "word": "监控下医生向病人家属强行塞红包",
-      "onboard_time": 1692440254,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211448,
@@ -1507,6 +1619,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 198398,
+      "num": 207876,
+      "word": "孟美岐舞台怪物登场",
+      "onboard_time": 1692443373,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197090,
       "num": 209547,
       "word": "盗墓笔记 今天初一拜财神",
@@ -1584,6 +1704,14 @@
       "word": "周深演唱会排练",
       "onboard_time": 1692437195,
       "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 190302,
+      "num": 207822,
+      "word": "周深北京演唱会",
+      "onboard_time": 1692443495,
+      "rank": 44,
       "category": "音乐"
     },
     {
@@ -1667,12 +1795,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182742,
-      "num": 206080,
-      "word": "冯绍峰45岁状态",
-      "onboard_time": 1692441216,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 181464,
+      "num": 227523,
+      "word": "在沙漠里化解了一次灭门惨案",
+      "onboard_time": 1692441334,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180354,
@@ -1731,6 +1859,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167774,
+      "num": 217829,
+      "word": "北京国安",
+      "onboard_time": 1692441873,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163881,
+      "num": 217660,
+      "word": "蓝猫路边生下7只崽",
+      "onboard_time": 1692443195,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163366,
       "num": 161320,
       "word": "刘诗诗车窗照",
@@ -1764,7 +1908,7 @@
     },
     {
       "raw_hot": 158705,
-      "num": 206073,
+      "num": 207717,
       "word": "Hero对战TES",
       "onboard_time": 1692438756,
       "rank": 40,
@@ -1779,20 +1923,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155682,
+      "num": 217288,
+      "word": "是e人撸猫才有的场面",
+      "onboard_time": 1692441634,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154186,
       "num": 154186,
       "word": "用TVB的方式打开防风邶",
       "onboard_time": 1692408333,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152782,
-      "num": 206071,
-      "word": "秦牛正威为不妥回复致歉",
-      "onboard_time": 1692441216,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 152165,
@@ -2091,6 +2235,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 96456,
+      "num": 207539,
+      "word": "TES战胜Hero",
+      "onboard_time": 1692443434,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95362,
       "num": 95362,
       "word": "如何看待网红二驴被封禁",
@@ -2156,7 +2308,7 @@
     },
     {
       "raw_hot": 67857,
-      "num": 799404,
+      "num": 1686353,
       "word": "今天第6个中国医师节",
       "onboard_time": 1692429512,
       "rank": 2,
