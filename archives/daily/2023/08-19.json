@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692410179073,
+  "endTime": 1692411460894,
   "band_list": [
     {
       "raw_hot": 2606359,
@@ -43,6 +43,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1538395,
+      "num": 468669,
+      "word": "中国程序员拒写赌博程序遭拔14颗牙",
+      "onboard_time": 1692407257,
+      "rank": 30,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1375911,
       "num": 1375911,
       "word": "周琦赵睿互换东家",
@@ -51,12 +59,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1332113,
-      "num": 411134,
-      "word": "中国程序员拒写赌博程序遭拔14颗牙",
+      "raw_hot": 1263021,
+      "num": 1263021,
+      "word": "央广网评长安三万里被批不符史实误导观众",
+      "onboard_time": 1692408812,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1230576,
+      "num": 1015306,
+      "word": "薛佳凝晒与赵露思合照",
       "onboard_time": 1692407257,
-      "rank": 30,
-      "category": "社会新闻,科技"
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1171230,
@@ -83,20 +99,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1085363,
-      "num": 571215,
-      "word": "薛佳凝晒与赵露思合照",
-      "onboard_time": 1692407257,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1066446,
-      "num": 926584,
+      "num": 1009731,
       "word": "竟然从一个摄影镜头里看到了慌张",
       "onboard_time": 1692406353,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1045376,
+      "num": 1045376,
+      "word": "长相思剧组好六最强售后",
+      "onboard_time": 1692410139,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 1030068,
@@ -129,14 +145,6 @@
       "onboard_time": 1692362376,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 785002,
-      "num": 785002,
-      "word": "央广网评长安三万里被批不符史实误导观众",
-      "onboard_time": 1692408812,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 779747,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521912,
+      "num": 521912,
+      "word": "妈妈当年放弃了自己的明星梦",
+      "onboard_time": 1692405754,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 502837,
       "num": 502837,
       "word": "易烊千玺My Boo发行三周年",
@@ -211,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481366,
+      "num": 481366,
+      "word": "夏威夷大火废墟中有很多X字样",
+      "onboard_time": 1692407374,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 477731,
       "num": 477731,
       "word": "赵睿",
@@ -219,28 +243,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 465968,
-      "num": 465968,
-      "word": "夏威夷大火废墟中有很多X字样",
-      "onboard_time": 1692407374,
-      "rank": 13,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 463976,
-      "num": 463976,
+      "raw_hot": 466532,
+      "num": 466532,
       "word": "李一桐摘面纱回眸镜头",
       "onboard_time": 1692407314,
       "rank": 19,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 455527,
-      "num": 455527,
-      "word": "妈妈当年放弃了自己的明星梦",
-      "onboard_time": 1692405754,
-      "rank": 31,
-      "category": "幽默,情感"
+      "raw_hot": 455438,
+      "num": 455438,
+      "word": "东部战区位台岛周边海空联合演训",
+      "onboard_time": 1692409595,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 452760,
@@ -249,6 +265,14 @@
       "onboard_time": 1692372340,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 448318,
+      "num": 448318,
+      "word": "杨紫古装仪态",
+      "onboard_time": 1692409473,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 442888,
@@ -313,14 +337,6 @@
       "onboard_time": 1692342395,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328956,
-      "num": 328956,
-      "word": "杨紫古装仪态",
-      "onboard_time": 1692409473,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 322512,
@@ -435,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254196,
+      "num": 198389,
+      "word": "曾黎素颜状态",
+      "onboard_time": 1692410975,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 250499,
       "num": 250499,
       "word": "鹿晗与芦苇合照",
       "onboard_time": 1692371081,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249033,
+      "num": 196789,
+      "word": "hi6",
+      "onboard_time": 1692410614,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 240953,
@@ -491,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215558,
+      "num": 190725,
+      "word": "一座即将消失的猫岛",
+      "onboard_time": 1692407971,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 214174,
       "num": 214174,
       "word": "韩剧假面女郎",
@@ -539,12 +579,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202995,
-      "num": 202995,
-      "word": "东部战区位台岛周边海空联合演训",
-      "onboard_time": 1692409595,
-      "rank": 29,
-      "category": "军事"
+      "raw_hot": 204598,
+      "num": 177074,
+      "word": "小鸟一家人居然在犀牛的角里筑巢",
+      "onboard_time": 1692410436,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202173,
@@ -571,20 +611,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 196587,
+      "num": 177057,
+      "word": "网文主角 套个真实地名",
+      "onboard_time": 1692411036,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191805,
       "num": 191805,
       "word": "骗子开始伪装成外国美女了",
       "onboard_time": 1692401784,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190725,
-      "num": 190725,
-      "word": "一座即将消失的猫岛",
-      "onboard_time": 1692407971,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 189356,
@@ -656,14 +696,6 @@
       "word": "孤注一掷票房破24亿",
       "onboard_time": 1692403950,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 160702,
-      "num": 160702,
-      "word": "长相思剧组好六最强售后",
-      "onboard_time": 1692410139,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -761,6 +793,14 @@
       "onboard_time": 1692372282,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135621,
+      "num": 135621,
+      "word": "感谢你们用生命守护了生命",
+      "onboard_time": 1692410313,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130624,
@@ -900,7 +940,7 @@
     },
     {
       "raw_hot": 51891,
-      "num": 1005950,
+      "num": 1016016,
       "word": "中国国家太空实验室已正式运行",
       "onboard_time": 1692361056,
       "rank": 26,
