@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692449004778,
+  "endTime": 1692451103842,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2890169,
+      "num": 1106255,
+      "word": "娃哈哈董事长女儿评论区",
+      "onboard_time": 1692445354,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2886524,
       "num": 2300655,
       "word": "易烊千玺说我们三个",
@@ -833,14 +841,6 @@
       "onboard_time": 1690933890,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2720811,
-      "num": 887979,
-      "word": "娃哈哈董事长女儿评论区",
-      "onboard_time": 1692445354,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2699899,
@@ -2179,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1938387,
+      "num": 1938387,
+      "word": "你好星期六",
+      "onboard_time": 1691734476,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1934782,
       "num": 599937,
       "word": "腾讯会议",
@@ -3443,6 +3451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1547516,
+      "num": 758623,
+      "word": "宗馥莉",
+      "onboard_time": 1692449677,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1546883,
       "num": 902087,
       "word": "孟美岐 审视我的人还没放下",
@@ -3921,14 +3937,6 @@
       "onboard_time": 1692234697,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1446422,
-      "num": 1446422,
-      "word": "你好星期六",
-      "onboard_time": 1691734476,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 1444805,
@@ -4801,6 +4809,14 @@
       "onboard_time": 1690950162,
       "rank": 24,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1302750,
+      "num": 1302750,
+      "word": "杨紫好忙但不知道在忙什么",
+      "onboard_time": 1692448297,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 1301834,
@@ -6313,6 +6329,14 @@
       "onboard_time": 1691844279,
       "rank": 12,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1097702,
+      "num": 387717,
+      "word": "谁能救救孟美岐",
+      "onboard_time": 1692447638,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1097399,
@@ -10443,14 +10467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 772629,
-      "num": 387717,
-      "word": "谁能救救孟美岐",
-      "onboard_time": 1692447638,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 772197,
       "num": 772197,
       "word": "感谢老天送我一个情绪稳定的女儿",
@@ -12745,6 +12761,14 @@
       "onboard_time": 1692265599,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 670398,
+      "num": 389400,
+      "word": "女子情绪不佳引燃物品造成火灾致其死亡",
+      "onboard_time": 1692446856,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 669714,
@@ -15321,6 +15345,14 @@
       "onboard_time": 1691232156,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 578963,
+      "num": 578963,
+      "word": "邓为你别太实诚了",
+      "onboard_time": 1692449858,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 578706,
@@ -23011,6 +23043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400461,
+      "num": 332052,
+      "word": "张晚意说脸颊比心是最新的",
+      "onboard_time": 1692448536,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400371,
       "num": 319200,
       "word": "为什么婴儿很困却反抗哄睡",
@@ -23089,6 +23129,14 @@
       "onboard_time": 1692428493,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 398814,
+      "num": 259550,
+      "word": "B站广告涉嫌用AI洗稿网易游戏",
+      "onboard_time": 1692450399,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398756,
@@ -23601,14 +23649,6 @@
       "onboard_time": 1691477075,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 389400,
-      "num": 389400,
-      "word": "女子情绪不佳引燃物品造成火灾致其死亡",
-      "onboard_time": 1692446856,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389281,
@@ -24185,14 +24225,6 @@
       "onboard_time": 1691297140,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380600,
-      "num": 355726,
-      "word": "杨紫好忙但不知道在忙什么",
-      "onboard_time": 1692448297,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 380386,
@@ -26075,6 +26107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349962,
+      "num": 275721,
+      "word": "檀健次教魏大勋跳舞",
+      "onboard_time": 1692449736,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349927,
       "num": 349927,
       "word": "外媒称瓜达尔港发生袭击事件",
@@ -26691,6 +26731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339025,
+      "num": 339025,
+      "word": "福宝又吃醋了爷爷喊出夹子音",
+      "onboard_time": 1692449677,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338964,
       "num": 338964,
       "word": "JDG与LNG决胜局",
@@ -27131,6 +27179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331302,
+      "num": 331302,
+      "word": "久哲发文回应",
+      "onboard_time": 1692450758,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331279,
       "num": 328502,
       "word": "李到晛今日入伍",
@@ -27489,6 +27545,14 @@
       "onboard_time": 1691413658,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 325229,
+      "num": 271711,
+      "word": "文俊辉跳了SEVENTEEN串烧",
+      "onboard_time": 1692448657,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 325203,
@@ -27913,14 +27977,6 @@
       "onboard_time": 1692123918,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319899,
-      "num": 319899,
-      "word": "张晚意说脸颊比心是最新的",
-      "onboard_time": 1692448536,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 319710,
@@ -31745,6 +31801,14 @@
       "onboard_time": 1692413973,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273880,
+      "num": 252808,
+      "word": "张晚意看到杨紫邓为同框的反应",
+      "onboard_time": 1692450818,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 273879,
@@ -35675,6 +35739,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 231753,
+      "num": 231753,
+      "word": "消防员是怎么忍住不笑的",
+      "onboard_time": 1692449499,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231675,
       "num": 231675,
       "word": "孤注一掷打破2023年连续破亿纪录",
@@ -36819,6 +36891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220974,
+      "num": 220974,
+      "word": "张艺兴袁娅维跳锅庄舞",
+      "onboard_time": 1692448657,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220972,
       "num": 220972,
       "word": "八一建军节主题片无畏",
@@ -37785,6 +37865,14 @@
       "onboard_time": 1692277420,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213394,
+      "num": 213394,
+      "word": "胡锡进 电诈的高超程度令人震惊",
+      "onboard_time": 1692448897,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213384,
@@ -39211,14 +39299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204201,
-      "num": 204201,
-      "word": "张艺兴袁娅维跳锅庄舞",
-      "onboard_time": 1692448657,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204176,
       "num": 194189,
       "word": "infinite演唱会",
@@ -40169,14 +40249,6 @@
       "onboard_time": 1692159160,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 199276,
-      "num": 199276,
-      "word": "文俊辉跳了SEVENTEEN串烧",
-      "onboard_time": 1692448657,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 199234,
@@ -41667,6 +41739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191841,
+      "num": 191841,
+      "word": "周深演唱会给粉丝的信好温暖",
+      "onboard_time": 1692450036,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191812,
       "num": 211055,
       "word": "什么是莲花楼",
@@ -41745,6 +41825,14 @@
       "onboard_time": 1691068656,
       "rank": 47,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 191564,
+      "num": 255209,
+      "word": "妻子背丈夫出诊30多年不离不弃",
+      "onboard_time": 1692450520,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 191526,
@@ -42939,6 +43027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183688,
+      "num": 183688,
+      "word": "王弘毅阳光开朗大男孩",
+      "onboard_time": 1692451000,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183599,
       "num": 183599,
       "word": "独家童话上线8天分账票房1000万",
@@ -43160,6 +43256,14 @@
       "word": "严浩翔新歌vocal",
       "onboard_time": 1692157598,
       "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 181589,
+      "num": 181589,
+      "word": "张信哲演唱会",
+      "onboard_time": 1691252975,
+      "rank": 42,
       "category": "音乐"
     },
     {
@@ -44955,6 +45059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154437,
+      "num": 176849,
+      "word": "那些年我们奇怪的收集癖好",
+      "onboard_time": 1692451059,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154270,
       "num": 239444,
       "word": "狼队对战TTG",
@@ -46603,14 +46715,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 126425,
-      "num": 126425,
-      "word": "张信哲演唱会",
-      "onboard_time": 1691252975,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 126395,
       "num": 199944,
       "word": "别人都知道但你不知道的事",
@@ -46999,14 +47103,6 @@
       "num": 210647,
       "word": "电动车的安全隐患",
       "onboard_time": 1692335681,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115674,
-      "num": 199114,
-      "word": "胡锡进 电诈的高超程度令人震惊",
-      "onboard_time": 1692448897,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -49217,6 +49313,14 @@
       "onboard_time": 1691087595,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49214,
+      "num": 335818,
+      "word": "司机连闯8个红灯送昏迷老人就医",
+      "onboard_time": 1692450036,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48506,
