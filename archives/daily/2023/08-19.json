@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692423223228,
+  "endTime": 1692425949548,
   "band_list": [
     {
       "raw_hot": 2606359,
@@ -16,6 +16,14 @@
       "word": "中国好声音赞助商遭网友喊话",
       "onboard_time": 1692372041,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2309086,
+      "num": 231118,
+      "word": "多位明星曝中国好声音内幕",
+      "onboard_time": 1692421474,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1692414514,
       "rank": 15,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 1632251,
-      "num": 231118,
-      "word": "多位明星曝中国好声音内幕",
-      "onboard_time": 1692421474,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 1571043,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1146091,
+      "num": 392776,
+      "word": "魏大勋听杨紫叫哥哥的表情",
+      "onboard_time": 1692422611,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1143344,
       "num": 1143344,
       "word": "外国老友对黄晓明说因为你让我认识中国",
@@ -161,6 +169,14 @@
       "onboard_time": 1692406353,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1057788,
+      "num": 454022,
+      "word": "金晨孤注一掷最惨的一段戏",
+      "onboard_time": 1692422193,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 1030068,
@@ -275,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 588562,
+      "num": 413025,
+      "word": "终于知道1TB手机是谁在用了",
+      "onboard_time": 1692422254,
+      "rank": 21,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 585980,
       "num": 585980,
       "word": "结婚16年3孩均非亲生男子将起诉妻子",
@@ -283,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579319,
+      "num": 579319,
+      "word": "东部战区位台岛演训长时段抵近慑压",
+      "onboard_time": 1692424352,
+      "rank": 1,
+      "category": "军事"
+    },
+    {
       "raw_hot": 572218,
       "num": 347596,
       "word": "小夭大王姬又回来啦",
       "onboard_time": 1692412414,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 571883,
+      "num": 284113,
+      "word": "越亲和的女生越容易被压榨",
+      "onboard_time": 1692424414,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 569850,
@@ -371,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490195,
+      "num": 375614,
+      "word": "玉剑美人陈都灵",
+      "onboard_time": 1692423334,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 481366,
       "num": 481366,
       "word": "夏威夷大火废墟中有很多X字样",
@@ -419,14 +467,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 454022,
-      "num": 454022,
-      "word": "金晨孤注一掷最惨的一段戏",
-      "onboard_time": 1692422193,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 452760,
       "num": 452760,
       "word": "张新成周杰伦合唱你听得到",
@@ -457,22 +497,6 @@
       "onboard_time": 1692371922,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 413025,
-      "num": 413025,
-      "word": "终于知道1TB手机是谁在用了",
-      "onboard_time": 1692422254,
-      "rank": 21,
-      "category": "科技,幽默"
-    },
-    {
-      "raw_hot": 392776,
-      "num": 392776,
-      "word": "魏大勋听杨紫叫哥哥的表情",
-      "onboard_time": 1692422611,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 389623,
@@ -507,6 +531,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 373749,
+      "num": 416716,
+      "word": "有六块腹肌的兔子",
+      "onboard_time": 1692421596,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 372418,
       "num": 372418,
       "word": "沈梦辰的红烧肉征服了匈牙利人",
@@ -528,6 +560,14 @@
       "word": "月经沾裤子上紧急处理方法",
       "onboard_time": 1692342395,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358420,
+      "num": 208582,
+      "word": "女子称花900买票看演唱会全程看不到人",
+      "onboard_time": 1692425313,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -596,7 +636,7 @@
     },
     {
       "raw_hot": 322264,
-      "num": 230378,
+      "num": 256288,
       "word": "奶奶不懂电脑但奶奶爱你",
       "onboard_time": 1692421293,
       "rank": 36,
@@ -691,20 +731,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292149,
+      "num": 292149,
+      "word": "你好星期六弥补了长相思意难平",
+      "onboard_time": 1692425074,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289563,
       "num": 289563,
       "word": "可以直接外穿的内衣",
       "onboard_time": 1692363099,
       "rank": 18,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 279406,
-      "num": 416716,
-      "word": "有六块腹肌的兔子",
-      "onboard_time": 1692421596,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 279196,
@@ -755,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273414,
+      "num": 273414,
+      "word": "张元英蓝色挂脖连衣裙造型",
+      "onboard_time": 1692422674,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 263981,
       "num": 263981,
       "word": "张智霖听到袁咏仪的反应",
@@ -785,6 +833,14 @@
       "onboard_time": 1692416856,
       "rank": 31,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 259268,
+      "num": 259268,
+      "word": "辞职后被新工作治愈了",
+      "onboard_time": 1692423455,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 250499,
@@ -833,6 +889,14 @@
       "onboard_time": 1692341734,
       "rank": 19,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 229536,
+      "num": 384382,
+      "word": "村民从家门口直飞北京看升旗是啥体验",
+      "onboard_time": 1692423455,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228624,
@@ -939,12 +1003,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207745,
+      "num": 207745,
+      "word": "周深演唱会倒计时",
+      "onboard_time": 1692424953,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206768,
       "num": 218388,
       "word": "双子座的自保能力太强了",
       "onboard_time": 1692373719,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205500,
+      "num": 205500,
+      "word": "大蘑菇音乐节",
+      "onboard_time": 1692425434,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 205426,
@@ -1009,14 +1089,6 @@
       "onboard_time": 1692401784,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194742,
-      "num": 201799,
-      "word": "张元英蓝色挂脖连衣裙造型",
-      "onboard_time": 1692422674,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 194065,
@@ -1307,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134956,
+      "num": 204915,
+      "word": "你能理解鸡娃的父母吗",
+      "onboard_time": 1692423812,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130624,
       "num": 130624,
       "word": "父母爱情的细节全藏在心机里",
@@ -1419,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75179,
+      "num": 204644,
+      "word": "樱木花道 911号码是多少",
+      "onboard_time": 1692425792,
+      "rank": 49,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 65457,
       "num": 65457,
       "word": "孔雪儿自己化的妆",
@@ -1465,6 +1553,14 @@
       "onboard_time": 1692392593,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55489,
+      "num": 376990,
+      "word": "医学生街头跪地半小时救昏迷老人",
+      "onboard_time": 1692424834,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51891,
