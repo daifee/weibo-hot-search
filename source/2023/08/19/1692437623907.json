@@ -1,0 +1,410 @@
+{
+  "runTime": 1692437623907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1490908,
+        "num": 1490908,
+        "word": "四川地震",
+        "onboard_time": 1692430834,
+        "rank": 0,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 838339,
+        "num": 838339,
+        "word": "爸爸4年暑假接送26岁女儿上下班",
+        "onboard_time": 1692433114,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48330,
+        "num": 751140,
+        "word": "今天第6个中国医师节",
+        "onboard_time": 1692429512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864421,
+        "num": 748258,
+        "word": "隔夜水不能喝的原因",
+        "onboard_time": 1692427594,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 737435,
+        "num": 737435,
+        "word": "花花急眼",
+        "onboard_time": 1692435574,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418825,
+        "num": 722215,
+        "word": "排球少年",
+        "onboard_time": 1692434135,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 310086,
+        "num": 681648,
+        "word": "他拿了1瓶水放回来8提水",
+        "onboard_time": 1692432574,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265263,
+        "num": 677826,
+        "word": "医生说的空腹究竟是多久",
+        "onboard_time": 1692428971,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251998,
+        "num": 643633,
+        "word": "东部战区位台岛演训长时段抵近慑压",
+        "onboard_time": 1692424352,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 245554,
+        "num": 600443,
+        "word": "如虎添毅",
+        "onboard_time": 1692436836,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1307347,
+        "num": 567873,
+        "word": "王丽坤化最淡的妆演恶女",
+        "onboard_time": 1692435157,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 852257,
+        "num": 556890,
+        "word": "檀健次胖过没丑过",
+        "onboard_time": 1692435215,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 778124,
+        "num": 533773,
+        "word": "解救被困缅甸的中科院博士",
+        "onboard_time": 1692429873,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506968,
+        "num": 506968,
+        "word": "长相思爆了对谁的影响最大",
+        "onboard_time": 1692430114,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43072,
+        "num": 466532,
+        "word": "白大褂是他们的战袍",
+        "onboard_time": 1692435695,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451207,
+        "num": 451207,
+        "word": "黄子韬左立姜潮徐艺洋鑫仔淘汰",
+        "onboard_time": 1692436536,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421938,
+        "num": 421938,
+        "word": "女子称花900买票看演唱会全程看不到人",
+        "onboard_time": 1692425313,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374711,
+        "num": 374711,
+        "word": "周深最没想到国外听过他唱歌",
+        "onboard_time": 1692432574,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328194,
+        "num": 328194,
+        "word": "一张银行卡最多能存多少钱",
+        "onboard_time": 1692426931,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327961,
+        "num": 327961,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1692437018,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 368705,
+        "num": 325633,
+        "word": "终于知道1TB手机是谁在用了",
+        "onboard_time": 1692422254,
+        "rank": 20,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 320393,
+        "num": 320393,
+        "word": "朱一龙路演",
+        "onboard_time": 1692436597,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319909,
+        "num": 319909,
+        "word": "Angelababy张大大聊和杨幂组队",
+        "onboard_time": 1692433537,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319169,
+        "num": 319169,
+        "word": "杨紫邓为打一把伞",
+        "onboard_time": 1692435455,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313164,
+        "num": 313164,
+        "word": "越亲和的女生越容易被压榨",
+        "onboard_time": 1692424414,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304140,
+        "num": 304140,
+        "word": "孤注一掷票房破25亿",
+        "onboard_time": 1692437195,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274033,
+        "num": 274033,
+        "word": "谁知道怎么跟理发师形容这个发型",
+        "onboard_time": 1692435814,
+        "rank": 26,
+        "category": "情感,美妆"
+      },
+      {
+        "raw_hot": 269792,
+        "num": 269792,
+        "word": "魏大勋听杨紫叫哥哥的表情",
+        "onboard_time": 1692422611,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259881,
+        "num": 259881,
+        "word": "黄子韬评价徐艺洋",
+        "onboard_time": 1692432456,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264481,
+        "num": 242056,
+        "word": "白敬亭刘昊然魏大勋明天见",
+        "onboard_time": 1692436176,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1144577,
+        "num": 237439,
+        "word": "多位明星曝中国好声音内幕",
+        "onboard_time": 1692421474,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222118,
+        "num": 222118,
+        "word": "公交车开一路我的脸丢一路",
+        "onboard_time": 1692434615,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218514,
+        "num": 218514,
+        "word": "孤注一掷打破2023年连续破亿纪录",
+        "onboard_time": 1692436773,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193997,
+        "num": 193997,
+        "word": "浙江一学校的军训是集体摸鱼",
+        "onboard_time": 1692426575,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 191404,
+        "num": 191404,
+        "word": "周深演唱会排练",
+        "onboard_time": 1692437195,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189411,
+        "num": 189411,
+        "word": "烫金方",
+        "onboard_time": 1692434193,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 179544,
+        "num": 179544,
+        "word": "宋亚轩说是尊嘟被我猜中喽",
+        "onboard_time": 1692431194,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177691,
+        "num": 177691,
+        "word": "熊猫花花到底有多宠粉",
+        "onboard_time": 1692430892,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177083,
+        "num": 177083,
+        "word": "相柳这是你吗",
+        "onboard_time": 1692432033,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176740,
+        "num": 176740,
+        "word": "商家回应售价2.7万玉镯实际价值两三百",
+        "onboard_time": 1692429454,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 176121,
+        "num": 176121,
+        "word": "教练月光 真人真事改编大型连续剧",
+        "onboard_time": 1692428493,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164178,
+        "num": 176114,
+        "word": "金晨孤注一掷最惨的一段戏",
+        "onboard_time": 1692422193,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163507,
+        "num": 176104,
+        "word": "成毅李莲花战报",
+        "onboard_time": 1692433355,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145615,
+        "num": 176095,
+        "word": "T1对战KT",
+        "onboard_time": 1692429454,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135784,
+        "num": 176080,
+        "word": "虞书欣和工作室比物料",
+        "onboard_time": 1692429572,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117226,
+        "num": 176077,
+        "word": "张元英蓝色挂脖连衣裙造型",
+        "onboard_time": 1692422674,
+        "rank": 45,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 114081,
+        "num": 176058,
+        "word": "知情人曝李玟摔倒后节目组没喊停",
+        "onboard_time": 1692402685,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110671,
+        "num": 176056,
+        "word": "马嘉祺问我是还是不是",
+        "onboard_time": 1692428734,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106655,
+        "num": 176036,
+        "word": "女孩晒姥爷寿宴超大餐桌",
+        "onboard_time": 1692434014,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105545,
+        "num": 176026,
+        "word": "上海六院称已连夜处理窗口人员阴阳怪气事件",
+        "onboard_time": 1692412893,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路大道同行#"
+    }
+  }
+}
