@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692466426259,
+  "endTime": 1692469101841,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -48515,6 +48515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91117,
+      "num": 98737,
+      "word": "是张智霖的脸也不行",
+      "onboard_time": 1692468500,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 90978,
       "num": 216068,
       "word": "积水中黑龙江消防员片刻不停救援",
@@ -48785,6 +48793,14 @@
       "onboard_time": 1691996496,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83171,
+      "num": 99062,
+      "word": "这次专家说得没错",
+      "onboard_time": 1692466585,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 83142,
