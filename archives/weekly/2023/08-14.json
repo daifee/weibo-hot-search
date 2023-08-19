@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692477240916,
+  "endTime": 1692479578621,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -16649,6 +16649,14 @@
       "onboard_time": 1692041714,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20509,
+      "num": 24979,
+      "word": "王ok守护李天责",
+      "onboard_time": 1692474256,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 16706,
