@@ -1,0 +1,410 @@
+{
+  "runTime": 1692473617691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 862031,
+        "num": 862031,
+        "word": "台湾当归",
+        "onboard_time": 1692461075,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 223251,
+        "num": 223251,
+        "word": "女生大专休学4年复读圆梦北影",
+        "onboard_time": 1692461734,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 8111,
+        "num": 172164,
+        "word": "东部战区位台岛周边海空联合演训",
+        "onboard_time": 1692409595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161409,
+        "num": 161409,
+        "word": "周杰伦看到自己05年演唱的票根",
+        "onboard_time": 1692460357,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124634,
+        "num": 124634,
+        "word": "周冬雨刘昊然隔得好远",
+        "onboard_time": 1692459277,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104498,
+        "num": 104498,
+        "word": "解救被困缅甸的中科院博士",
+        "onboard_time": 1692429873,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103906,
+        "num": 103906,
+        "word": "B站广告涉嫌用AI洗稿网易游戏",
+        "onboard_time": 1692450399,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81991,
+        "num": 81991,
+        "word": "800多赞的朋友圈长什么样",
+        "onboard_time": 1692451239,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77928,
+        "num": 77928,
+        "word": "电影消失的她",
+        "onboard_time": 1692452441,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74128,
+        "num": 74128,
+        "word": "山东一地让独居老人吃上免费午餐",
+        "onboard_time": 1692452021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180488,
+        "num": 74010,
+        "word": "谁能救救孟美岐",
+        "onboard_time": 1692447638,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83292,
+        "num": 73758,
+        "word": "秦牛正威为不妥回复致歉",
+        "onboard_time": 1692441216,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69666,
+        "num": 69666,
+        "word": "魏大勋赵今麦版鬼怪",
+        "onboard_time": 1692444394,
+        "rank": 12,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 68434,
+        "num": 68434,
+        "word": "幂式穿搭真的绝",
+        "onboard_time": 1692458143,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 67499,
+        "num": 67499,
+        "word": "隔夜水不能喝的原因",
+        "onboard_time": 1692427594,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63350,
+        "num": 63350,
+        "word": "吉林女生体制内离职打零工创业",
+        "onboard_time": 1692455322,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62527,
+        "num": 62527,
+        "word": "王鹤棣音乐节",
+        "onboard_time": 1692456521,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 57744,
+        "num": 57744,
+        "word": "长相思第二季",
+        "onboard_time": 1692443616,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55723,
+        "num": 55723,
+        "word": "热刺vs曼联",
+        "onboard_time": 1692469098,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54859,
+        "num": 54859,
+        "word": "杨紫好忙但不知道在忙什么",
+        "onboard_time": 1692448297,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83509,
+        "num": 54450,
+        "word": "葡萄的萄还能组什么词",
+        "onboard_time": 1692456281,
+        "rank": 20,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 60376,
+        "num": 54054,
+        "word": "活死人厂巡",
+        "onboard_time": 1692460716,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53550,
+        "num": 53550,
+        "word": "尤长靖哭了",
+        "onboard_time": 1692465985,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48693,
+        "num": 48693,
+        "word": "主人回应废柴表情包柴犬去世",
+        "onboard_time": 1692452919,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 48674,
+        "num": 48674,
+        "word": "人好像都会在20岁左右经历一次大改变",
+        "onboard_time": 1692458920,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52737,
+        "num": 47855,
+        "word": "张晚意看到杨紫邓为同框的反应",
+        "onboard_time": 1692450818,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50744,
+        "num": 47299,
+        "word": "Jennie美式甜心",
+        "onboard_time": 1692463774,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45501,
+        "num": 45501,
+        "word": "玲花不喜欢别人叫她全名的原因",
+        "onboard_time": 1692439772,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42137,
+        "num": 42137,
+        "word": "肚皮贴贴才是中年男人的浪漫",
+        "onboard_time": 1692459341,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41146,
+        "num": 41146,
+        "word": "男孩爬山引来知了爬满身",
+        "onboard_time": 1692458078,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152828,
+        "num": 41037,
+        "word": "多位明星曝中国好声音内幕",
+        "onboard_time": 1692421474,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50914,
+        "num": 40989,
+        "word": "是张智霖的脸也不行",
+        "onboard_time": 1692468500,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44987,
+        "num": 40781,
+        "word": "魏大勋泼李雪琴一杯水后在角落里自罚一杯",
+        "onboard_time": 1692457061,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40128,
+        "num": 40730,
+        "word": "放8个鸡蛋的蛋炒饭",
+        "onboard_time": 1692457001,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 37203,
+        "num": 40534,
+        "word": "这次专家说得没错",
+        "onboard_time": 1692466585,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43783,
+        "num": 40411,
+        "word": "长相思剧组hi6收视率",
+        "onboard_time": 1692451661,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40342,
+        "num": 40342,
+        "word": "杨千嬅演唱会",
+        "onboard_time": 1692463175,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40140,
+        "num": 40140,
+        "word": "当年爆火的台偶剧歌曲",
+        "onboard_time": 1692462996,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35801,
+        "num": 40140,
+        "word": "戴珍珠该穿什么",
+        "onboard_time": 1692456399,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 33456,
+        "num": 40122,
+        "word": "妻子背丈夫出诊30多年不离不弃",
+        "onboard_time": 1692450520,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 38474,
+        "num": 40117,
+        "word": "马立奥来北京啦",
+        "onboard_time": 1692445293,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37768,
+        "num": 40100,
+        "word": "你好星期六下周是莲花楼",
+        "onboard_time": 1692451600,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35660,
+        "num": 40090,
+        "word": "齐思钧 多谢卢少侠",
+        "onboard_time": 1692459399,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33748,
+        "num": 40076,
+        "word": "长相思第二季的防风邶剧照",
+        "onboard_time": 1692441574,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30363,
+        "num": 40058,
+        "word": "福宝又吃醋了爷爷喊出夹子音",
+        "onboard_time": 1692449677,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29088,
+        "num": 40050,
+        "word": "有这样的班主任我也能考上211",
+        "onboard_time": 1692457120,
+        "rank": 45,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 25670,
+        "num": 40039,
+        "word": "好一个落子无悔",
+        "onboard_time": 1692455621,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 25599,
+        "num": 40032,
+        "word": "林芝4.3级地震",
+        "onboard_time": 1692459341,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24845,
+        "num": 40022,
+        "word": "久哲发文回应",
+        "onboard_time": 1692450758,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20067,
+        "num": 40002,
+        "word": "属于北京国安球迷的浪漫",
+        "onboard_time": 1692460538,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
