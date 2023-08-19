@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692429251777,
+  "endTime": 1692430418974,
   "band_list": [
     {
       "raw_hot": 2606359,
@@ -33,6 +33,14 @@
       "onboard_time": 1692412893,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2041883,
+      "num": 2041883,
+      "word": "隔夜水不能喝的原因",
+      "onboard_time": 1692427594,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 2005215,
@@ -75,7 +83,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1497386,
+      "raw_hot": 1524953,
       "num": 303553,
       "word": "女子称花900买票看演唱会全程看不到人",
       "onboard_time": 1692425313,
@@ -225,14 +233,6 @@
       "onboard_time": 1692404012,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 880514,
-      "num": 880514,
-      "word": "隔夜水不能喝的原因",
-      "onboard_time": 1692427594,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 869562,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383942,
+      "num": 282331,
+      "word": "教练月光 真人真事改编大型连续剧",
+      "onboard_time": 1692428493,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 383178,
       "num": 307971,
       "word": "曾黎素颜状态",
@@ -617,6 +625,14 @@
       "onboard_time": 1692419194,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336239,
+      "num": 270198,
+      "word": "虞书欣和工作室比物料",
+      "onboard_time": 1692429572,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 334927,
@@ -731,6 +747,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 303850,
+      "num": 303850,
+      "word": "浙江一学校的军训是集体摸鱼",
+      "onboard_time": 1692426575,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 303021,
       "num": 264159,
       "word": "我弟无意间写出一个完美逗号",
@@ -763,14 +787,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 280056,
-      "num": 280056,
-      "word": "浙江一学校的军训是集体摸鱼",
-      "onboard_time": 1692426575,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 279196,
       "num": 279196,
       "word": "姬发捞殷郊 一种很新的夹娃娃",
@@ -795,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277547,
+      "num": 277547,
+      "word": "长相思爆了对谁的影响最大",
+      "onboard_time": 1692430114,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277496,
       "num": 277496,
       "word": "披荆斩棘的哥哥",
@@ -809,6 +833,22 @@
       "onboard_time": 1692366342,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275832,
+      "num": 227030,
+      "word": "医生说的空腹究竟是多久",
+      "onboard_time": 1692428971,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 275339,
+      "num": 275339,
+      "word": "马嘉祺问我是还是不是",
+      "onboard_time": 1692428734,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 273909,
@@ -851,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259954,
+      "num": 259954,
+      "word": "商家回应售价2.7万玉镯实际价值两三百",
+      "onboard_time": 1692429454,
+      "rank": 26,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 259656,
       "num": 205698,
       "word": "日本动画 中国电影分镜",
@@ -867,12 +915,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251925,
-      "num": 251925,
-      "word": "马嘉祺问我是还是不是",
-      "onboard_time": 1692428734,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 258588,
+      "num": 215692,
+      "word": "解救被困缅甸的中科院博士",
+      "onboard_time": 1692429873,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250499,
@@ -881,14 +929,6 @@
       "onboard_time": 1692371081,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247441,
-      "num": 247441,
-      "word": "教练月光 真人真事改编大型连续剧",
-      "onboard_time": 1692428493,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 244264,
@@ -923,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231003,
+      "num": 299454,
+      "word": "T1对战KT",
+      "onboard_time": 1692429454,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229644,
       "num": 286533,
       "word": "质疑芒狗 理解芒狗 养芒狗",
@@ -947,6 +995,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227374,
+      "num": 242374,
+      "word": "凤凰男爵",
+      "onboard_time": 1692429092,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223600,
+      "num": 238536,
+      "word": "封神现代版",
+      "onboard_time": 1692428854,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223032,
       "num": 223032,
       "word": "张馨予的盘头自画像",
@@ -963,11 +1027,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218567,
+      "num": 274743,
+      "word": "长相思之玱相思",
+      "onboard_time": 1692428072,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216408,
       "num": 216408,
       "word": "小夭视角与四位男主关系",
       "onboard_time": 1692422373,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 215607,
+      "num": 231021,
+      "word": "导演谈邓为表演方式",
+      "onboard_time": 1692429092,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -1075,6 +1155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206440,
+      "num": 251756,
+      "word": "徐静雨预测WBG夺冠",
+      "onboard_time": 1692427952,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205500,
       "num": 220692,
       "word": "大蘑菇音乐节",
@@ -1139,6 +1227,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 196254,
+      "num": 206436,
+      "word": "林墨白起大招一嘲三",
+      "onboard_time": 1692429332,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195555,
       "num": 205285,
       "word": "骗子开始伪装成外国美女了",
@@ -1179,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191175,
-      "num": 251756,
-      "word": "徐静雨预测WBG夺冠",
-      "onboard_time": 1692427952,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 189629,
       "num": 205302,
       "word": "王鹤棣拍照每个姿势都有梗",
@@ -1201,14 +1289,6 @@
       "onboard_time": 1692400763,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187116,
-      "num": 242374,
-      "word": "凤凰男爵",
-      "onboard_time": 1692429092,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 186938,
@@ -1323,14 +1403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162345,
-      "num": 240886,
-      "word": "长相思之玱相思",
-      "onboard_time": 1692428072,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160057,
       "num": 209694,
       "word": "林志颖陆毅王耀庆是同龄人",
@@ -1353,14 +1425,6 @@
       "onboard_time": 1692419256,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 154596,
-      "num": 238536,
-      "word": "封神现代版",
-      "onboard_time": 1692428854,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 154186,
@@ -1499,19 +1563,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133432,
-      "num": 231021,
-      "word": "导演谈邓为表演方式",
-      "onboard_time": 1692429092,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 133287,
-      "num": 227030,
-      "word": "医生说的空腹究竟是多久",
-      "onboard_time": 1692428971,
-      "rank": 45,
+      "raw_hot": 131092,
+      "num": 206432,
+      "word": "长大后发现比主角更沉默",
+      "onboard_time": 1692430114,
+      "rank": 38,
       "category": "情感"
     },
     {
@@ -1603,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98710,
+      "num": 206384,
+      "word": "推食指常做去湿热",
+      "onboard_time": 1692430232,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98248,
       "num": 98248,
       "word": "谢谢你生命守护人",
@@ -1667,12 +1731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76367,
+      "num": 285531,
+      "word": "辅警夜跑听到几个词劝阻裸聊诈骗",
+      "onboard_time": 1692428430,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65457,
       "num": 65457,
       "word": "孔雪儿自己化的妆",
       "onboard_time": 1692388515,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65150,
+      "num": 378133,
+      "word": "今天第6个中国医师节",
+      "onboard_time": 1692429512,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64763,
@@ -1753,14 +1833,6 @@
       "onboard_time": 1692380900,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 32284,
-      "num": 265310,
-      "word": "辅警夜跑听到几个词劝阻裸聊诈骗",
-      "onboard_time": 1692428430,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26613,

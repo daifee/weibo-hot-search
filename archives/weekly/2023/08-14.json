@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692429251777,
+  "endTime": 1692430418974,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -377,6 +377,14 @@
       "onboard_time": 1692162766,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2041883,
+      "num": 2041883,
+      "word": "隔夜水不能喝的原因",
+      "onboard_time": 1692427594,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 2037984,
@@ -875,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1524953,
+      "num": 303553,
+      "word": "女子称花900买票看演唱会全程看不到人",
+      "onboard_time": 1692425313,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1513286,
       "num": 1513286,
       "word": "张碧晨也去看了张艺兴演唱会",
@@ -921,14 +937,6 @@
       "onboard_time": 1692180757,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1497386,
-      "num": 303553,
-      "word": "女子称花900买票看演唱会全程看不到人",
-      "onboard_time": 1692425313,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1497024,
@@ -2129,14 +2137,6 @@
       "onboard_time": 1692240875,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 880514,
-      "num": 880514,
-      "word": "隔夜水不能喝的原因",
-      "onboard_time": 1692427594,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 880422,
@@ -6515,6 +6515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 383942,
+      "num": 282331,
+      "word": "教练月光 真人真事改编大型连续剧",
+      "onboard_time": 1692428493,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 383935,
       "num": 383935,
       "word": "第一次感受到什么叫大湾区",
@@ -7275,6 +7283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336239,
+      "num": 270198,
+      "word": "虞书欣和工作室比物料",
+      "onboard_time": 1692429572,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336113,
       "num": 336113,
       "word": "山东一村连续7年给准大学生发助学金",
@@ -7873,6 +7889,14 @@
       "onboard_time": 1692178779,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 303850,
+      "num": 303850,
+      "word": "浙江一学校的军训是集体摸鱼",
+      "onboard_time": 1692426575,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 303021,
@@ -8563,14 +8587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280056,
-      "num": 280056,
-      "word": "浙江一学校的军训是集体摸鱼",
-      "onboard_time": 1692426575,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 280002,
       "num": 280002,
       "word": "游客手拉手下海搜寻走失女孩",
@@ -8699,6 +8715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277547,
+      "num": 277547,
+      "word": "长相思爆了对谁的影响最大",
+      "onboard_time": 1692430114,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277546,
       "num": 277546,
       "word": "不小心被压成饼的兔兔",
@@ -8763,6 +8787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275832,
+      "num": 227030,
+      "word": "医生说的空腹究竟是多久",
+      "onboard_time": 1692428971,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275760,
       "num": 275760,
       "word": "为什么这么多人喜欢圆形挡脸",
@@ -8793,6 +8825,14 @@
       "onboard_time": 1692197562,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275339,
+      "num": 275339,
+      "word": "马嘉祺问我是还是不是",
+      "onboard_time": 1692428734,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 274737,
@@ -9243,6 +9283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259954,
+      "num": 259954,
+      "word": "商家回应售价2.7万玉镯实际价值两三百",
+      "onboard_time": 1692429454,
+      "rank": 26,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 259882,
       "num": 221943,
       "word": "TF三代演唱会饭拍生图",
@@ -9321,6 +9369,14 @@
       "onboard_time": 1692069518,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258588,
+      "num": 215692,
+      "word": "解救被困缅甸的中科院博士",
+      "onboard_time": 1692429873,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257837,
@@ -9531,14 +9587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251925,
-      "num": 251925,
-      "word": "马嘉祺问我是还是不是",
-      "onboard_time": 1692428734,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251880,
       "num": 251880,
       "word": "看完封神把水杯换了",
@@ -9681,14 +9729,6 @@
       "onboard_time": 1692178958,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247441,
-      "num": 247441,
-      "word": "教练月光 真人真事改编大型连续剧",
-      "onboard_time": 1692428493,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 247316,
@@ -10187,6 +10227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 231003,
+      "num": 299454,
+      "word": "T1对战KT",
+      "onboard_time": 1692429454,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230834,
       "num": 213797,
       "word": "爱豆rapper中哪位是你的取向",
@@ -10331,6 +10379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227374,
+      "num": 242374,
+      "word": "凤凰男爵",
+      "onboard_time": 1692429092,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227103,
       "num": 212324,
       "word": "QueencardMV播放量破2亿",
@@ -10425,6 +10481,14 @@
       "onboard_time": 1692365443,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223600,
+      "num": 238536,
+      "word": "封神现代版",
+      "onboard_time": 1692428854,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 223252,
@@ -10555,6 +10619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218567,
+      "num": 274743,
+      "word": "长相思之玱相思",
+      "onboard_time": 1692428072,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218411,
       "num": 218411,
       "word": "好心人排队支持推拿养唐氏女的父亲",
@@ -10656,6 +10728,14 @@
       "word": "当影视剧里不起眼的女孩摘掉眼镜后",
       "onboard_time": 1692115893,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 215607,
+      "num": 231021,
+      "word": "导演谈邓为表演方式",
+      "onboard_time": 1692429092,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -11049,6 +11129,14 @@
       "onboard_time": 1692263019,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206440,
+      "num": 251756,
+      "word": "徐静雨预测WBG夺冠",
+      "onboard_time": 1692427952,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 206396,
@@ -11779,6 +11867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196254,
+      "num": 206436,
+      "word": "林墨白起大招一嘲三",
+      "onboard_time": 1692429332,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196007,
       "num": 196007,
       "word": "原来剪刀式楼梯是这样的结构",
@@ -12091,14 +12187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191175,
-      "num": 251756,
-      "word": "徐静雨预测WBG夺冠",
-      "onboard_time": 1692427952,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 191172,
       "num": 242289,
       "word": "王鹤棣西安之旅vlog",
@@ -12345,14 +12433,6 @@
       "onboard_time": 1692158258,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187116,
-      "num": 242374,
-      "word": "凤凰男爵",
-      "onboard_time": 1692429092,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 186999,
@@ -13059,14 +13139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162345,
-      "num": 240886,
-      "word": "长相思之玱相思",
-      "onboard_time": 1692428072,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 162095,
       "num": 131167,
       "word": "王鹤棣黄志玮一起打球",
@@ -13225,14 +13297,6 @@
       "onboard_time": 1691926656,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 154596,
-      "num": 238536,
-      "word": "封神现代版",
-      "onboard_time": 1692428854,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 154186,
@@ -13691,22 +13755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133432,
-      "num": 231021,
-      "word": "导演谈邓为表演方式",
-      "onboard_time": 1692429092,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 133287,
-      "num": 227030,
-      "word": "医生说的空腹究竟是多久",
-      "onboard_time": 1692428971,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132534,
       "num": 160135,
       "word": "恋与制作人",
@@ -13745,6 +13793,14 @@
       "onboard_time": 1692352958,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 131092,
+      "num": 206432,
+      "word": "长大后发现比主角更沉默",
+      "onboard_time": 1692430114,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 130624,
@@ -14155,6 +14211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98710,
+      "num": 206384,
+      "word": "推食指常做去湿热",
+      "onboard_time": 1692430232,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98248,
       "num": 98248,
       "word": "谢谢你生命守护人",
@@ -14419,6 +14483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76367,
+      "num": 285531,
+      "word": "辅警夜跑听到几个词劝阻裸聊诈骗",
+      "onboard_time": 1692428430,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76200,
       "num": 493557,
       "word": "男子骑车被大坑绊倒隔天返回修补",
@@ -14561,6 +14633,14 @@
       "onboard_time": 1692388515,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65150,
+      "num": 378133,
+      "word": "今天第6个中国医师节",
+      "onboard_time": 1692429512,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65032,
@@ -14929,14 +15009,6 @@
       "onboard_time": 1692038176,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32284,
-      "num": 265310,
-      "word": "辅警夜跑听到几个词劝阻裸聊诈骗",
-      "onboard_time": 1692428430,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31910,
