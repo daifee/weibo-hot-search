@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692465257965,
+  "endTime": 1692466426259,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -267,7 +267,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249272,
+      "raw_hot": 250132,
       "num": 191334,
       "word": "Jennie美式甜心",
       "onboard_time": 1692463774,
@@ -371,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192287,
+      "num": 150179,
+      "word": "尤长靖哭了",
+      "onboard_time": 1692465985,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186544,
       "num": 186544,
       "word": "福宝又吃醋了爷爷喊出夹子音",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 168845,
-      "num": 124880,
+      "num": 135490,
       "word": "你好星期六下周是莲花楼",
       "onboard_time": 1692451600,
       "rank": 35,
@@ -427,6 +435,22 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 131272,
+      "num": 131272,
+      "word": "日本YTB播放量最多TOP20的韩国艺人",
+      "onboard_time": 1692466285,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124436,
+      "num": 124436,
+      "word": "电视剧莲花楼壁纸",
+      "onboard_time": 1692465389,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 121988,
       "num": 159211,
       "word": "久哲发文回应",
@@ -441,6 +465,14 @@
       "onboard_time": 1692452739,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55827,
+      "num": 114377,
+      "word": "大熊猫专心干饭被邻居吓一跳",
+      "onboard_time": 1692466226,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50944,

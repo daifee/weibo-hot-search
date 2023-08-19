@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692465257965,
+  "endTime": 1692466426259,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -10539,6 +10539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 250132,
+      "num": 191334,
+      "word": "Jennie美式甜心",
+      "onboard_time": 1692463774,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 249469,
       "num": 249469,
       "word": "宋亚轩张真源贺峻霖你们在干什么",
@@ -10553,14 +10561,6 @@
       "onboard_time": 1691982874,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 249272,
-      "num": 191334,
-      "word": "Jennie美式甜心",
-      "onboard_time": 1692463774,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 249030,
@@ -13267,6 +13267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192287,
+      "num": 150179,
+      "word": "尤长靖哭了",
+      "onboard_time": 1692465985,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192065,
       "num": 207357,
       "word": "宋茜ELLE封面珠宝价格",
@@ -15179,6 +15187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131272,
+      "num": 131272,
+      "word": "日本YTB播放量最多TOP20的韩国艺人",
+      "onboard_time": 1692466285,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131101,
       "num": 171380,
       "word": "芬兰的儿童教育",
@@ -15264,6 +15280,14 @@
       "word": "王一博长空之王多地公益放映",
       "onboard_time": 1692122718,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 124436,
+      "num": 124436,
+      "word": "电视剧莲花楼壁纸",
+      "onboard_time": 1692465389,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -16209,6 +16233,14 @@
       "onboard_time": 1692119842,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 55827,
+      "num": 114377,
+      "word": "大熊猫专心干饭被邻居吓一跳",
+      "onboard_time": 1692466226,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55583,

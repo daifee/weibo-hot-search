@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692465257965,
+  "endTime": 1692466426259,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -34267,6 +34267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250132,
+      "num": 191334,
+      "word": "Jennie美式甜心",
+      "onboard_time": 1692463774,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 250078,
       "num": 250078,
       "word": "晋江文学城第五届作者大会",
@@ -34329,14 +34337,6 @@
       "onboard_time": 1691982874,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 249272,
-      "num": 191334,
-      "word": "Jennie美式甜心",
-      "onboard_time": 1692463774,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 249030,
@@ -42075,6 +42075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192287,
+      "num": 150179,
+      "word": "尤长靖哭了",
+      "onboard_time": 1692465985,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192232,
       "num": 192232,
       "word": "阴阳师",
@@ -46955,6 +46963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 131272,
+      "num": 131272,
+      "word": "日本YTB播放量最多TOP20的韩国艺人",
+      "onboard_time": 1692466285,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131101,
       "num": 171380,
       "word": "芬兰的儿童教育",
@@ -47249,6 +47265,14 @@
       "onboard_time": 1691841460,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124436,
+      "num": 124436,
+      "word": "电视剧莲花楼壁纸",
+      "onboard_time": 1692465389,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 124265,
@@ -49617,6 +49641,14 @@
       "onboard_time": 1691616134,
       "rank": 31,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 55827,
+      "num": 114377,
+      "word": "大熊猫专心干饭被邻居吓一跳",
+      "onboard_time": 1692466226,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55681,
