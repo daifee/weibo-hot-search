@@ -1,0 +1,410 @@
+{
+  "runTime": 1692454404716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1657494,
+        "num": 1657494,
+        "word": "你好星期六",
+        "onboard_time": 1692441574,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1287909,
+        "num": 1287909,
+        "word": "800多赞的朋友圈长什么样",
+        "onboard_time": 1692451239,
+        "rank": 1,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 30568,
+        "num": 1173733,
+        "word": "今天第6个中国医师节",
+        "onboard_time": 1692429512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096269,
+        "num": 1096269,
+        "word": "你好星期六下周是莲花楼",
+        "onboard_time": 1692451600,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 834641,
+        "num": 834641,
+        "word": "魏大勋赵今麦版鬼怪",
+        "onboard_time": 1692444394,
+        "rank": 4,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 774227,
+        "num": 774227,
+        "word": "B站广告涉嫌用AI洗稿网易游戏",
+        "onboard_time": 1692450399,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758098,
+        "num": 758098,
+        "word": "杨紫好忙但不知道在忙什么",
+        "onboard_time": 1692448297,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425880,
+        "num": 425880,
+        "word": "山东一地让独居老人吃上免费午餐",
+        "onboard_time": 1692452021,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675152,
+        "num": 423549,
+        "word": "张晚意看到杨紫邓为同框的反应",
+        "onboard_time": 1692450818,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394387,
+        "num": 394387,
+        "word": "久哲发文回应",
+        "onboard_time": 1692450758,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2434594,
+        "num": 389790,
+        "word": "谁能救救孟美岐",
+        "onboard_time": 1692447638,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1545609,
+        "num": 379666,
+        "word": "宗馥莉",
+        "onboard_time": 1692449677,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669928,
+        "num": 376407,
+        "word": "秦牛正威为不妥回复致歉",
+        "onboard_time": 1692441216,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368325,
+        "num": 368325,
+        "word": "妻子背丈夫出诊30多年不离不弃",
+        "onboard_time": 1692450520,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 20115,
+        "num": 367537,
+        "word": "武警战士撤离市民从天黑送到天亮",
+        "onboard_time": 1692453642,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643968,
+        "num": 355934,
+        "word": "长相思剧组hi6收视率",
+        "onboard_time": 1692451661,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497715,
+        "num": 352515,
+        "word": "大宋探案局定档",
+        "onboard_time": 1692451481,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474552,
+        "num": 347538,
+        "word": "长相思第二季",
+        "onboard_time": 1692443616,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388541,
+        "num": 335057,
+        "word": "杜锋告别赵睿欢迎周琦",
+        "onboard_time": 1692452739,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334523,
+        "num": 334523,
+        "word": "福宝又吃醋了爷爷喊出夹子音",
+        "onboard_time": 1692449677,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2050734,
+        "num": 333505,
+        "word": "娃哈哈董事长女儿评论区",
+        "onboard_time": 1692445354,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721456,
+        "num": 333318,
+        "word": "电影消失的她",
+        "onboard_time": 1692452441,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408419,
+        "num": 325234,
+        "word": "赵露思近期风格",
+        "onboard_time": 1692452080,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315045,
+        "num": 315045,
+        "word": "隔夜水不能喝的原因",
+        "onboard_time": 1692427594,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297993,
+        "num": 297993,
+        "word": "主人回应废柴表情包柴犬去世",
+        "onboard_time": 1692452919,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 383062,
+        "num": 297228,
+        "word": "马立奥来北京啦",
+        "onboard_time": 1692445293,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330934,
+        "num": 296831,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1692437018,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317061,
+        "num": 296505,
+        "word": "玲花不喜欢别人叫她全名的原因",
+        "onboard_time": 1692439772,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291380,
+        "num": 291380,
+        "word": "解救被困缅甸的中科院博士",
+        "onboard_time": 1692429873,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287945,
+        "num": 287945,
+        "word": "您的厕所搭子前来报到",
+        "onboard_time": 1692453040,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900336,
+        "num": 281639,
+        "word": "多位明星曝中国好声音内幕",
+        "onboard_time": 1692421474,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297846,
+        "num": 279911,
+        "word": "尤长靖撮合那吾克热和张子豪现场加微信",
+        "onboard_time": 1692453040,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292403,
+        "num": 279183,
+        "word": "Ella说山支回来了",
+        "onboard_time": 1692442296,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260930,
+        "num": 260930,
+        "word": "女子情绪不佳引燃物品造成火灾致其死亡",
+        "onboard_time": 1692446856,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213681,
+        "num": 213681,
+        "word": "i人社交现状",
+        "onboard_time": 1692451962,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292345,
+        "num": 208660,
+        "word": "于文文的青春是周杰伦",
+        "onboard_time": 1692453880,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260503,
+        "num": 208164,
+        "word": "文俊辉跳了SEVENTEEN串烧",
+        "onboard_time": 1692448657,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202527,
+        "num": 202527,
+        "word": "蓝猫路边生下7只崽",
+        "onboard_time": 1692443195,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200175,
+        "num": 200175,
+        "word": "徐杰告别赵睿",
+        "onboard_time": 1692452800,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183407,
+        "num": 200170,
+        "word": "刚当教师时都不知道还有这些好东西",
+        "onboard_time": 1692444695,
+        "rank": 39,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 252125,
+        "num": 200166,
+        "word": "周深北京演唱会",
+        "onboard_time": 1692443495,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 330064,
+        "num": 200164,
+        "word": "长相思第二季的防风邶剧照",
+        "onboard_time": 1692441574,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232095,
+        "num": 200157,
+        "word": "严浩翔的耳骨夹",
+        "onboard_time": 1692453162,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201667,
+        "num": 200149,
+        "word": "佟丽娅 小猫玩偶",
+        "onboard_time": 1692452980,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175046,
+        "num": 200148,
+        "word": "胡锡进 电诈的高超程度令人震惊",
+        "onboard_time": 1692448897,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162842,
+        "num": 200139,
+        "word": "京沪大战",
+        "onboard_time": 1692444574,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157102,
+        "num": 200135,
+        "word": "久哲卸任Hero主教练",
+        "onboard_time": 1692442835,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131481,
+        "num": 200127,
+        "word": "工体TIFO",
+        "onboard_time": 1692454002,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130422,
+        "num": 200122,
+        "word": "利物浦vs伯恩茅斯",
+        "onboard_time": 1692454363,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376910,
+        "num": 200118,
+        "word": "刘波少爷哭了",
+        "onboard_time": 1692453579,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}

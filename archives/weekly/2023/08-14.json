@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692452031282,
+  "endTime": 1692454404716,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -265,6 +265,14 @@
       "onboard_time": 1692148056,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2434594,
+      "num": 389790,
+      "word": "谁能救救孟美岐",
+      "onboard_time": 1692447638,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 2347880,
@@ -681,14 +689,6 @@
       "onboard_time": 1692321097,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1779142,
-      "num": 387717,
-      "word": "谁能救救孟美岐",
-      "onboard_time": 1692447638,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 1775938,
@@ -1323,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1287909,
+      "num": 1287909,
+      "word": "800多赞的朋友圈长什么样",
+      "onboard_time": 1692451239,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1285124,
       "num": 475377,
       "word": "小红书",
@@ -1712,6 +1720,14 @@
       "word": "林志颖公开回应车祸经历",
       "onboard_time": 1692343240,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1096269,
+      "num": 1096269,
+      "word": "你好星期六下周是莲花楼",
+      "onboard_time": 1692451600,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -2683,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 774227,
+      "num": 774227,
+      "word": "B站广告涉嫌用AI洗稿网易游戏",
+      "onboard_time": 1692450399,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773724,
       "num": 636297,
       "word": "毛晓彤庆余年2红衣造型",
@@ -2899,14 +2923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 725791,
-      "num": 725791,
-      "word": "B站广告涉嫌用AI洗稿网易游戏",
-      "onboard_time": 1692450399,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 723604,
       "num": 469826,
       "word": "榴莲内衣",
@@ -2921,6 +2937,14 @@
       "onboard_time": 1691997396,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 721456,
+      "num": 333318,
+      "word": "电影消失的她",
+      "onboard_time": 1692452441,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 721030,
@@ -3307,6 +3331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 675152,
+      "num": 423549,
+      "word": "张晚意看到杨紫邓为同框的反应",
+      "onboard_time": 1692450818,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 675008,
       "num": 313164,
       "word": "越亲和的女生越容易被压榨",
@@ -3537,6 +3569,14 @@
       "onboard_time": 1692350497,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643968,
+      "num": 355934,
+      "word": "长相思剧组hi6收视率",
+      "onboard_time": 1692451661,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 643440,
@@ -4372,7 +4412,7 @@
     },
     {
       "raw_hot": 551644,
-      "num": 365052,
+      "num": 394387,
       "word": "久哲发文回应",
       "onboard_time": 1692450758,
       "rank": 21,
@@ -5035,6 +5075,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 497715,
+      "num": 352515,
+      "word": "大宋探案局定档",
+      "onboard_time": 1692451481,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 497401,
       "num": 497401,
       "word": "灼灼风流开播",
@@ -5192,14 +5240,6 @@
       "word": "内娱很会吐血的男明星",
       "onboard_time": 1692274177,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 485048,
-      "num": 354262,
-      "word": "张晚意看到杨紫邓为同框的反应",
-      "onboard_time": 1692450818,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -6163,6 +6203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425880,
+      "num": 425880,
+      "word": "山东一地让独居老人吃上免费午餐",
+      "onboard_time": 1692452021,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425340,
       "num": 1425682,
       "word": "丫丫又圆润啦",
@@ -6441,6 +6489,14 @@
       "onboard_time": 1692330938,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408419,
+      "num": 325234,
+      "word": "赵露思近期风格",
+      "onboard_time": 1692452080,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 407690,
@@ -6795,6 +6851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 388541,
+      "num": 335057,
+      "word": "杜锋告别赵睿欢迎周琦",
+      "onboard_time": 1692452739,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386707,
       "num": 386707,
       "word": "周深 更适合中国宝宝体质的私教老师",
@@ -6971,14 +7035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 379799,
-      "num": 263423,
-      "word": "800多赞的朋友圈长什么样",
-      "onboard_time": 1692451239,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 379787,
       "num": 379787,
       "word": "网友建议王一栩看莲花楼",
@@ -7033,6 +7089,14 @@
       "onboard_time": 1692194500,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376910,
+      "num": 200118,
+      "word": "刘波少爷哭了",
+      "onboard_time": 1692453579,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 376519,
@@ -7177,6 +7241,14 @@
       "onboard_time": 1692443856,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 368325,
+      "num": 376277,
+      "word": "妻子背丈夫出诊30多年不离不弃",
+      "onboard_time": 1692450520,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 368200,
@@ -8579,6 +8651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 297993,
+      "num": 297993,
+      "word": "主人回应废柴表情包柴犬去世",
+      "onboard_time": 1692452919,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 297949,
       "num": 733687,
       "word": "涉诈嫌犯看孤注一掷被抓",
@@ -8593,6 +8673,14 @@
       "onboard_time": 1692010236,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 297846,
+      "num": 279911,
+      "word": "尤长靖撮合那吾克热和张子豪现场加微信",
+      "onboard_time": 1692453040,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 297756,
@@ -8763,6 +8851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292345,
+      "num": 208660,
+      "word": "于文文的青春是周杰伦",
+      "onboard_time": 1692453880,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292137,
       "num": 262300,
       "word": "于适回应票房过20亿表演龙吸水",
@@ -8873,6 +8969,14 @@
       "onboard_time": 1692285885,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 287945,
+      "num": 287945,
+      "word": "您的厕所搭子前来报到",
+      "onboard_time": 1692453040,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287920,
@@ -9281,14 +9385,6 @@
       "onboard_time": 1692075280,
       "rank": 35,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 277060,
-      "num": 376277,
-      "word": "妻子背丈夫出诊30多年不离不弃",
-      "onboard_time": 1692450520,
-      "rank": 34,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 277012,
@@ -9747,14 +9843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265175,
-      "num": 262609,
-      "word": "长相思剧组hi6收视率",
-      "onboard_time": 1692451661,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 264776,
       "num": 264776,
       "word": "为什么理发店门口要放三色灯",
@@ -9833,14 +9921,6 @@
       "onboard_time": 1692366822,
       "rank": 34,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 261483,
-      "num": 261483,
-      "word": "大宋探案局定档",
-      "onboard_time": 1692451481,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 261270,
@@ -10883,6 +10963,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 232095,
+      "num": 200157,
+      "word": "严浩翔的耳骨夹",
+      "onboard_time": 1692453162,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231753,
       "num": 231753,
       "word": "消防员是怎么忍住不笑的",
@@ -11547,6 +11635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213681,
+      "num": 213681,
+      "word": "i人社交现状",
+      "onboard_time": 1692451962,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213511,
       "num": 213511,
       "word": "崔秀彬直播",
@@ -11833,14 +11929,6 @@
       "onboard_time": 1692428072,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 206849,
-      "num": 201324,
-      "word": "你好星期六下周是莲花楼",
-      "onboard_time": 1692451600,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 206768,
@@ -12243,14 +12331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201935,
-      "num": 201935,
-      "word": "i人社交现状",
-      "onboard_time": 1692451962,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 201908,
       "num": 201908,
       "word": "找到了用卡通头像的好处",
@@ -12281,6 +12361,14 @@
       "onboard_time": 1692183455,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201667,
+      "num": 200149,
+      "word": "佟丽娅 小猫玩偶",
+      "onboard_time": 1692452980,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 201452,
@@ -12417,6 +12505,14 @@
       "onboard_time": 1692026020,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200175,
+      "num": 200175,
+      "word": "徐杰告别赵睿",
+      "onboard_time": 1692452800,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 200119,
@@ -14747,6 +14843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131481,
+      "num": 200127,
+      "word": "工体TIFO",
+      "onboard_time": 1692454002,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131436,
       "num": 131436,
       "word": "陈乔恩眼鏡蛇手",
@@ -14777,6 +14881,14 @@
       "onboard_time": 1692258881,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 130422,
+      "num": 200122,
+      "word": "利物浦vs伯恩茅斯",
+      "onboard_time": 1692454363,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 129134,
@@ -16153,6 +16265,14 @@
       "onboard_time": 1692041714,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20115,
+      "num": 367537,
+      "word": "武警战士撤离市民从天黑送到天亮",
+      "onboard_time": 1692453642,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16706,
