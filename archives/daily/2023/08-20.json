@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692480841650,
+  "endTime": 1692483258530,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -491,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73417,
+      "num": 37522,
+      "word": "所有人隐藏亚轩是守能者",
+      "onboard_time": 1692480314,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60982,
       "num": 60982,
       "word": "当年爆火的台偶剧歌曲",
@@ -515,12 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29173,
-      "num": 28857,
-      "word": "所有人隐藏亚轩是守能者",
-      "onboard_time": 1692480314,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 43305,
+      "num": 41207,
+      "word": "西安出了手持折扇交通卡",
+      "onboard_time": 1692480735,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24963,
+      "num": 29767,
+      "word": "没有一口奶粉是白喝的",
+      "onboard_time": 1692482655,
+      "rank": 46,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 20509,
@@ -536,14 +552,6 @@
       "word": "看灭火后消防员喝水速度破防了",
       "onboard_time": 1692479593,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14574,
-      "num": 23238,
-      "word": "西安出了手持折扇交通卡",
-      "onboard_time": 1692480735,
-      "rank": 49,
       "category": "社会新闻"
     }
   ],
