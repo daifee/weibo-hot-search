@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692443538830,
+  "endTime": 1692444827668,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1959772,
+      "num": 720294,
+      "word": "秦牛正威为不妥回复致歉",
+      "onboard_time": 1692441216,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1945348,
       "num": 1131962,
       "word": "孙俪好薄",
@@ -584,14 +592,6 @@
       "word": "张艺兴前往医院就诊",
       "onboard_time": 1691984917,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1857739,
-      "num": 720294,
-      "word": "秦牛正威为不妥回复致歉",
-      "onboard_time": 1692441216,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1281,6 +1281,14 @@
       "onboard_time": 1692025539,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1281959,
+      "num": 1281959,
+      "word": "Ella说山支回来了",
+      "onboard_time": 1692442296,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1277494,
@@ -2099,14 +2107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 910677,
-      "num": 910677,
-      "word": "Ella说山支回来了",
-      "onboard_time": 1692442296,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 910386,
       "num": 817711,
       "word": "玱玹是大娘子养大的吧",
@@ -2609,6 +2609,14 @@
       "onboard_time": 1691975076,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779773,
+      "num": 779773,
+      "word": "你好星期六",
+      "onboard_time": 1692441574,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 779747,
@@ -5627,14 +5635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 452823,
-      "num": 452823,
-      "word": "你好星期六",
-      "onboard_time": 1692441574,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 452760,
       "num": 452760,
       "word": "张新成周杰伦合唱你听得到",
@@ -5835,6 +5835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 439038,
+      "num": 439038,
+      "word": "魏大勋赵今麦版鬼怪",
+      "onboard_time": 1692444394,
+      "rank": 17,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 438890,
       "num": 438890,
       "word": "檀健次 相柳有点浪漫",
@@ -5955,6 +5963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428992,
+      "num": 218260,
+      "word": "蓝猫路边生下7只崽",
+      "onboard_time": 1692443195,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 428758,
       "num": 384566,
       "word": "南风知我意是什么故事副本",
@@ -6001,6 +6017,14 @@
       "onboard_time": 1692064115,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427738,
+      "num": 427738,
+      "word": "九尾去看林俊杰演唱会了",
+      "onboard_time": 1692444034,
+      "rank": 18,
+      "category": "游戏,音乐"
     },
     {
       "raw_hot": 426888,
@@ -6451,6 +6475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 399234,
+      "num": 399234,
+      "word": "教练月光 真人真事改编大型连续剧",
+      "onboard_time": 1692428493,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 398755,
       "num": 346229,
       "word": "二驴",
@@ -6635,6 +6667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 386707,
+      "num": 386707,
+      "word": "周深 更适合中国宝宝体质的私教老师",
+      "onboard_time": 1692442717,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386228,
       "num": 386228,
       "word": "Ella时隔9年再拍新剧",
@@ -6707,14 +6747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 383942,
-      "num": 330270,
-      "word": "教练月光 真人真事改编大型连续剧",
-      "onboard_time": 1692428493,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 383935,
       "num": 383935,
       "word": "第一次感受到什么叫大湾区",
@@ -6772,7 +6804,7 @@
     },
     {
       "raw_hot": 381804,
-      "num": 1243040,
+      "num": 1299673,
       "word": "他拿了1瓶水放回来8提水",
       "onboard_time": 1692432574,
       "rank": 8,
@@ -6995,6 +7027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 368995,
+      "num": 368995,
+      "word": "T1锁定S13资格",
+      "onboard_time": 1692443856,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 368200,
       "num": 368200,
       "word": "适龙吸水",
@@ -7121,6 +7161,14 @@
       "onboard_time": 1692230735,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363791,
+      "num": 363791,
+      "word": "周深北京演唱会",
+      "onboard_time": 1692443495,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 363754,
@@ -7308,7 +7356,7 @@
     },
     {
       "raw_hot": 350521,
-      "num": 279636,
+      "num": 344381,
       "word": "王玉雯王子奇一起追灼灼风流",
       "onboard_time": 1692441334,
       "rank": 21,
@@ -7328,14 +7376,6 @@
       "word": "张晚意清唱输了你赢了世界又如何",
       "onboard_time": 1692418356,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 348753,
-      "num": 242470,
-      "word": "周深 更适合中国宝宝体质的私教老师",
-      "onboard_time": 1692442717,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -7513,6 +7553,14 @@
       "onboard_time": 1692244356,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336911,
+      "num": 214674,
+      "word": "少年涂山璟",
+      "onboard_time": 1692444335,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 336878,
@@ -8881,6 +8929,14 @@
       "onboard_time": 1692260322,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280059,
+      "num": 195005,
+      "word": "NCTDREAM签售",
+      "onboard_time": 1692444034,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 280002,
@@ -10291,6 +10347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240812,
+      "num": 217944,
+      "word": "黄子韬说红得靠命",
+      "onboard_time": 1692442417,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240742,
       "num": 423944,
       "word": "爸爸车祸昏迷7岁女儿变身小小顶梁柱",
@@ -10787,6 +10851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226187,
+      "num": 226187,
+      "word": "新手不建议用刀片刮胡子",
+      "onboard_time": 1692443735,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226158,
       "num": 226158,
       "word": "odi",
@@ -11017,14 +11089,6 @@
       "onboard_time": 1692110321,
       "rank": 39,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 217944,
-      "num": 217944,
-      "word": "黄子韬说红得靠命",
-      "onboard_time": 1692442417,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 217756,
@@ -11681,6 +11745,14 @@
       "onboard_time": 1692267456,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 204176,
+      "num": 194189,
+      "word": "infinite演唱会",
+      "onboard_time": 1692444276,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 204073,
@@ -12387,6 +12459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193966,
+      "num": 193966,
+      "word": "蔡依林福州演唱会",
+      "onboard_time": 1692443976,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193930,
       "num": 193930,
       "word": "灵梦辅助首秀",
@@ -12691,14 +12771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190302,
-      "num": 207822,
-      "word": "周深北京演唱会",
-      "onboard_time": 1692443495,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 190272,
       "num": 190272,
       "word": "韩国明星化妆室跟练版",
@@ -12833,6 +12905,14 @@
       "onboard_time": 1692167317,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187785,
+      "num": 227523,
+      "word": "在沙漠里化解了一次灭门惨案",
+      "onboard_time": 1692441334,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187783,
@@ -13075,6 +13155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184001,
+      "num": 194517,
+      "word": "刚当教师时都不知道还有这些好东西",
+      "onboard_time": 1692444695,
+      "rank": 39,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 183812,
       "num": 183812,
       "word": "十年没有涨价的东西有什么",
@@ -13121,14 +13209,6 @@
       "onboard_time": 1692157598,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 181464,
-      "num": 227523,
-      "word": "在沙漠里化解了一次灭门惨案",
-      "onboard_time": 1692441334,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181155,
@@ -13563,14 +13643,6 @@
       "category": "影视,情感"
     },
     {
-      "raw_hot": 163881,
-      "num": 217660,
-      "word": "蓝猫路边生下7只崽",
-      "onboard_time": 1692443195,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 163416,
       "num": 145629,
       "word": "封神主创票房20亿整活",
@@ -13835,6 +13907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152589,
+      "num": 193951,
+      "word": "京沪大战",
+      "onboard_time": 1692444574,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152418,
       "num": 152418,
       "word": "周深8月行程",
@@ -14057,6 +14137,14 @@
       "onboard_time": 1692269561,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142512,
+      "num": 193939,
+      "word": "华西教授想当厨师却拿上了手术刀",
+      "onboard_time": 1692444456,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142258,
@@ -15436,7 +15524,7 @@
     },
     {
       "raw_hot": 45882,
-      "num": 935458,
+      "num": 1655180,
       "word": "谢谢你生命的守护者",
       "onboard_time": 1692416315,
       "rank": 2,
@@ -15721,6 +15809,14 @@
       "onboard_time": 1692217874,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16166,
+      "num": 477475,
+      "word": "护士跪地20分钟抢救溺水昏迷男孩",
+      "onboard_time": 1692444574,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13532,

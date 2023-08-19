@@ -1,0 +1,410 @@
+{
+  "runTime": 1692444827668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1799225,
+        "num": 1799225,
+        "word": "久哲卸任Hero主教练",
+        "onboard_time": 1692442835,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 503141,
+        "num": 1683200,
+        "word": "爸爸4年暑假接送26岁女儿上下班",
+        "onboard_time": 1692433114,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8087,
+        "num": 1655180,
+        "word": "谢谢你生命的守护者",
+        "onboard_time": 1692416315,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1654507,
+        "num": 1654507,
+        "word": "玲花不喜欢别人叫她全名的原因",
+        "onboard_time": 1692439772,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325884,
+        "num": 1458837,
+        "word": "监控下医生向病人家属强行塞红包",
+        "onboard_time": 1692440254,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1327530,
+        "num": 1327530,
+        "word": "长相思第二季的防风邶剧照",
+        "onboard_time": 1692441574,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251097,
+        "num": 1299673,
+        "word": "他拿了1瓶水放回来8提水",
+        "onboard_time": 1692432574,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1281959,
+        "num": 1281959,
+        "word": "Ella说山支回来了",
+        "onboard_time": 1692442296,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 779773,
+        "num": 779773,
+        "word": "你好星期六",
+        "onboard_time": 1692441574,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607930,
+        "num": 607930,
+        "word": "长相思第二季",
+        "onboard_time": 1692443616,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1959772,
+        "num": 600018,
+        "word": "秦牛正威为不妥回复致歉",
+        "onboard_time": 1692441216,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571650,
+        "num": 571650,
+        "word": "四川地震",
+        "onboard_time": 1692430834,
+        "rank": 11,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 486234,
+        "num": 486234,
+        "word": "Cheems去汪星了",
+        "onboard_time": 1692439354,
+        "rank": 12,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 478248,
+        "num": 478248,
+        "word": "质疑左立理解左立成为左立",
+        "onboard_time": 1692439174,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16166,
+        "num": 477475,
+        "word": "护士跪地20分钟抢救溺水昏迷男孩",
+        "onboard_time": 1692444574,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476750,
+        "num": 476750,
+        "word": "解救被困缅甸的中科院博士",
+        "onboard_time": 1692429873,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442593,
+        "num": 442593,
+        "word": "曾志伟被曝住院动手术",
+        "onboard_time": 1692440254,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439038,
+        "num": 439038,
+        "word": "魏大勋赵今麦版鬼怪",
+        "onboard_time": 1692444394,
+        "rank": 17,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 427738,
+        "num": 427738,
+        "word": "九尾去看林俊杰演唱会了",
+        "onboard_time": 1692444034,
+        "rank": 18,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 399234,
+        "num": 399234,
+        "word": "教练月光 真人真事改编大型连续剧",
+        "onboard_time": 1692428493,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 386707,
+        "num": 386707,
+        "word": "周深 更适合中国宝宝体质的私教老师",
+        "onboard_time": 1692442717,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383015,
+        "num": 383015,
+        "word": "隔夜水不能喝的原因",
+        "onboard_time": 1692427594,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377566,
+        "num": 377566,
+        "word": "王丽坤化最淡的妆演恶女",
+        "onboard_time": 1692435157,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368995,
+        "num": 368995,
+        "word": "T1锁定S13资格",
+        "onboard_time": 1692443856,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245810,
+        "num": 366040,
+        "word": "一张银行卡最多能存多少钱",
+        "onboard_time": 1692426931,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363791,
+        "num": 363791,
+        "word": "周深北京演唱会",
+        "onboard_time": 1692443495,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361399,
+        "num": 361399,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1692437018,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 344381,
+        "num": 344381,
+        "word": "王玉雯王子奇一起追灼灼风流",
+        "onboard_time": 1692441334,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338506,
+        "num": 338506,
+        "word": "夭玹的笼",
+        "onboard_time": 1692442054,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226187,
+        "num": 226187,
+        "word": "新手不建议用刀片刮胡子",
+        "onboard_time": 1692443735,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 868135,
+        "num": 224457,
+        "word": "多位明星曝中国好声音内幕",
+        "onboard_time": 1692421474,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428992,
+        "num": 218260,
+        "word": "蓝猫路边生下7只崽",
+        "onboard_time": 1692443195,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336911,
+        "num": 214674,
+        "word": "少年涂山璟",
+        "onboard_time": 1692444335,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209757,
+        "num": 209757,
+        "word": "终于知道1TB手机是谁在用了",
+        "onboard_time": 1692422254,
+        "rank": 33,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 195159,
+        "num": 195159,
+        "word": "T1对战KT",
+        "onboard_time": 1692429454,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 332603,
+        "num": 195119,
+        "word": "檀健次胖过没丑过",
+        "onboard_time": 1692435215,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280059,
+        "num": 195005,
+        "word": "NCTDREAM签售",
+        "onboard_time": 1692444034,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279897,
+        "num": 194844,
+        "word": "冯绍峰45岁状态",
+        "onboard_time": 1692441216,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187785,
+        "num": 194717,
+        "word": "在沙漠里化解了一次灭门惨案",
+        "onboard_time": 1692441334,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184001,
+        "num": 194517,
+        "word": "刚当教师时都不知道还有这些好东西",
+        "onboard_time": 1692444695,
+        "rank": 39,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 241014,
+        "num": 194492,
+        "word": "秀才 一笑倾城",
+        "onboard_time": 1692442355,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 240812,
+        "num": 194261,
+        "word": "黄子韬说红得靠命",
+        "onboard_time": 1692442417,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204176,
+        "num": 194189,
+        "word": "infinite演唱会",
+        "onboard_time": 1692444276,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177940,
+        "num": 194084,
+        "word": "花花急眼",
+        "onboard_time": 1692435574,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193966,
+        "num": 193966,
+        "word": "蔡依林福州演唱会",
+        "onboard_time": 1692443976,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157513,
+        "num": 193959,
+        "word": "男子家全屋使用不锈钢家具惊呆女友",
+        "onboard_time": 1692438635,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152589,
+        "num": 193951,
+        "word": "京沪大战",
+        "onboard_time": 1692444574,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142512,
+        "num": 193939,
+        "word": "华西教授想当厨师却拿上了手术刀",
+        "onboard_time": 1692444456,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141989,
+        "num": 193922,
+        "word": "东部战区位台岛演训长时段抵近慑压",
+        "onboard_time": 1692424352,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 139084,
+        "num": 193911,
+        "word": "排球少年",
+        "onboard_time": 1692434135,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
