@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692461981618,
+  "endTime": 1692462938646,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -153,6 +153,14 @@
       "onboard_time": 1692105645,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5070233,
+      "num": 6320233,
+      "word": "台湾当归",
+      "onboard_time": 1692461075,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 4983871,
@@ -3505,14 +3513,6 @@
       "onboard_time": 1691020414,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1544890,
-      "num": 213362,
-      "word": "台湾当归",
-      "onboard_time": 1692461075,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1544582,
@@ -8883,6 +8883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 877519,
+      "num": 877519,
+      "word": "周杰伦看到自己05年演唱的票根",
+      "onboard_time": 1692460357,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 875935,
       "num": 875935,
       "word": "gemini",
@@ -9265,14 +9273,6 @@
       "onboard_time": 1691925036,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 853245,
-      "num": 853245,
-      "word": "周杰伦看到自己05年演唱的票根",
-      "onboard_time": 1692460357,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 853048,
@@ -22115,6 +22115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422225,
+      "num": 244678,
+      "word": "活死人厂巡",
+      "onboard_time": 1692460716,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 422154,
       "num": 1623559,
       "word": "涿州一饭店借烛光为200名救援人员做饭",
@@ -22889,14 +22897,6 @@
       "onboard_time": 1691929476,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 407180,
-      "num": 241131,
-      "word": "活死人厂巡",
-      "onboard_time": 1692460716,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 407123,
@@ -28795,6 +28795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312525,
+      "num": 243982,
+      "word": "人好像都会在20岁左右经历一次大改变",
+      "onboard_time": 1692458920,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312412,
       "num": 312412,
       "word": "王俊凯王源易烊千玺终于不用P合照了",
@@ -30011,6 +30019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296512,
+      "num": 296512,
+      "word": "女生大专休学4年复读圆梦北影",
+      "onboard_time": 1692461734,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 296361,
       "num": 351739,
       "word": "滔搏 太久没进季后赛",
@@ -30609,14 +30625,6 @@
       "onboard_time": 1691716174,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289348,
-      "num": 235093,
-      "word": "人好像都会在20岁左右经历一次大改变",
-      "onboard_time": 1692458920,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 289342,
@@ -33243,6 +33251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261018,
+      "num": 243642,
+      "word": "肚皮贴贴才是中年男人的浪漫",
+      "onboard_time": 1692459341,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260959,
       "num": 260959,
       "word": "刘亦菲玫瑰故事白衣路透",
@@ -33924,7 +33940,7 @@
     },
     {
       "raw_hot": 253937,
-      "num": 195425,
+      "num": 242520,
       "word": "齐思钧 多谢卢少侠",
       "onboard_time": 1692459399,
       "rank": 35,
@@ -34129,14 +34145,6 @@
       "onboard_time": 1691073399,
       "rank": 33,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 250948,
-      "num": 213735,
-      "word": "肚皮贴贴才是中年男人的浪漫",
-      "onboard_time": 1692459341,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 250913,
@@ -39387,6 +39395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205771,
+      "num": 142941,
+      "word": "舞台2023",
+      "onboard_time": 1692461973,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205726,
       "num": 205726,
       "word": "张杰深圳演唱会",
@@ -40809,6 +40825,14 @@
       "onboard_time": 1692014736,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198469,
+      "num": 142708,
+      "word": "王子浩首张个人EP",
+      "onboard_time": 1692462454,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 198423,
@@ -48425,14 +48449,6 @@
       "onboard_time": 1691349136,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 91338,
-      "num": 159200,
-      "word": "女生大专休学4年复读圆梦北影",
-      "onboard_time": 1692461734,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 91232,

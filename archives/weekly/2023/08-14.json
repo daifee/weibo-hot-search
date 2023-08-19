@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692461981618,
+  "endTime": 1692462938646,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -49,6 +49,14 @@
       "onboard_time": 1692105645,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5070233,
+      "num": 6320233,
+      "word": "台湾当归",
+      "onboard_time": 1692461075,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 3754310,
@@ -929,14 +937,6 @@
       "onboard_time": 1692066875,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1544890,
-      "num": 213362,
-      "word": "台湾当归",
-      "onboard_time": 1692461075,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1542587,
@@ -2371,6 +2371,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 877519,
+      "num": 877519,
+      "word": "周杰伦看到自己05年演唱的票根",
+      "onboard_time": 1692460357,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 872390,
       "num": 486291,
       "word": "超级小桀",
@@ -2481,14 +2489,6 @@
       "onboard_time": 1691991994,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 853245,
-      "num": 853245,
-      "word": "周杰伦看到自己05年演唱的票根",
-      "onboard_time": 1692460357,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 852257,
@@ -6379,6 +6379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422225,
+      "num": 244678,
+      "word": "活死人厂巡",
+      "onboard_time": 1692460716,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 421425,
       "num": 122583,
       "word": "27岁女子蜜月同房后大出血险没命",
@@ -6633,14 +6641,6 @@
       "onboard_time": 1692183335,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 407180,
-      "num": 241131,
-      "word": "活死人厂巡",
-      "onboard_time": 1692460716,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 406713,
@@ -8459,6 +8459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312525,
+      "num": 243982,
+      "word": "人好像都会在20岁左右经历一次大改变",
+      "onboard_time": 1692458920,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312087,
       "num": 312087,
       "word": "东伯侯之子fun了straight",
@@ -8899,6 +8907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296512,
+      "num": 296512,
+      "word": "女生大专休学4年复读圆梦北影",
+      "onboard_time": 1692461734,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 296361,
       "num": 351739,
       "word": "滔搏 太久没进季后赛",
@@ -9073,14 +9089,6 @@
       "onboard_time": 1692273516,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 289348,
-      "num": 235093,
-      "word": "人好像都会在20岁左右经历一次大改变",
-      "onboard_time": 1692458920,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 289143,
@@ -10091,6 +10099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261018,
+      "num": 243642,
+      "word": "肚皮贴贴才是中年男人的浪漫",
+      "onboard_time": 1692459341,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260669,
       "num": 260669,
       "word": "小奶狗被自己打嗝整生气了",
@@ -10372,7 +10388,7 @@
     },
     {
       "raw_hot": 253937,
-      "num": 195425,
+      "num": 242520,
       "word": "齐思钧 多谢卢少侠",
       "onboard_time": 1692459399,
       "rank": 35,
@@ -10473,14 +10489,6 @@
       "onboard_time": 1691918615,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250948,
-      "num": 213735,
-      "word": "肚皮贴贴才是中年男人的浪漫",
-      "onboard_time": 1692459341,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 250913,
@@ -12251,6 +12259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205771,
+      "num": 142941,
+      "word": "舞台2023",
+      "onboard_time": 1692461973,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205667,
       "num": 208049,
       "word": "老虎也没想到有天突然就被开除了",
@@ -12857,6 +12873,14 @@
       "onboard_time": 1692014736,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198469,
+      "num": 142708,
+      "word": "王子浩首张个人EP",
+      "onboard_time": 1692462454,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 198398,
@@ -15641,14 +15665,6 @@
       "onboard_time": 1692040395,
       "rank": 42,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 91338,
-      "num": 159200,
-      "word": "女生大专休学4年复读圆梦北影",
-      "onboard_time": 1692461734,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 91180,
