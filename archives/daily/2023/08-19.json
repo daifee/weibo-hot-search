@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692451103842,
+  "endTime": 1692452031282,
   "band_list": [
     {
       "raw_hot": 3165002,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2132239,
+      "num": 853472,
+      "word": "宗馥莉",
+      "onboard_time": 1692449677,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2095020,
       "num": 2095020,
       "word": "上海六院称已连夜处理窗口人员阴阳怪气事件",
@@ -96,6 +104,14 @@
       "word": "你好星期六",
       "onboard_time": 1692441574,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1779142,
+      "num": 387717,
+      "word": "谁能救救孟美岐",
+      "onboard_time": 1692447638,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -145,14 +161,6 @@
       "onboard_time": 1692362801,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1547516,
-      "num": 758623,
-      "word": "宗馥莉",
-      "onboard_time": 1692449677,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1524953,
@@ -280,14 +288,6 @@
       "word": "质疑左立理解左立成为左立",
       "onboard_time": 1692439174,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1097702,
-      "num": 387717,
-      "word": "谁能救救孟美岐",
-      "onboard_time": 1692447638,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -459,6 +459,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 725791,
+      "num": 725791,
+      "word": "B站广告涉嫌用AI洗稿网易游戏",
+      "onboard_time": 1692450399,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679902,
       "num": 380475,
       "word": "微信朋友圈的图片褪色了",
@@ -547,8 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578963,
-      "num": 578963,
+      "raw_hot": 584813,
+      "num": 584813,
       "word": "邓为你别太实诚了",
       "onboard_time": 1692449858,
       "rank": 7,
@@ -585,6 +593,14 @@
       "onboard_time": 1692372100,
       "rank": 2,
       "category": "影视"
+    },
+    {
+      "raw_hot": 551644,
+      "num": 365052,
+      "word": "久哲发文回应",
+      "onboard_time": 1692450758,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 538745,
@@ -673,6 +689,14 @@
       "onboard_time": 1692434135,
       "rank": 4,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 485048,
+      "num": 354262,
+      "word": "张晚意看到杨紫邓为同框的反应",
+      "onboard_time": 1692450818,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 483226,
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 400461,
-      "num": 332052,
+      "num": 348735,
       "word": "张晚意说脸颊比心是最新的",
       "onboard_time": 1692448536,
       "rank": 29,
@@ -841,14 +865,6 @@
       "onboard_time": 1692428493,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 398814,
-      "num": 259550,
-      "word": "B站广告涉嫌用AI洗稿网易游戏",
-      "onboard_time": 1692450399,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 397162,
@@ -915,12 +931,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 381917,
+      "num": 381917,
+      "word": "福宝又吃醋了爷爷喊出夹子音",
+      "onboard_time": 1692449677,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381804,
       "num": 1299673,
       "word": "他拿了1瓶水放回来8提水",
       "onboard_time": 1692432574,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379799,
+      "num": 263423,
+      "word": "800多赞的朋友圈长什么样",
+      "onboard_time": 1692451239,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 373749,
@@ -1051,14 +1083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339025,
-      "num": 339025,
-      "word": "福宝又吃醋了爷爷喊出夹子音",
-      "onboard_time": 1692449677,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336239,
       "num": 288938,
       "word": "虞书欣和工作室比物料",
@@ -1075,16 +1099,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331302,
-      "num": 331302,
-      "word": "久哲发文回应",
-      "onboard_time": 1692450758,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 325229,
-      "num": 271711,
+      "num": 318924,
       "word": "文俊辉跳了SEVENTEEN串烧",
       "onboard_time": 1692448657,
       "rank": 42,
@@ -1291,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282833,
+      "num": 282833,
+      "word": "成毅 游戏黑洞",
+      "onboard_time": 1692451779,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282823,
       "num": 222118,
       "word": "公交车开一路我的脸丢一路",
@@ -1339,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277060,
+      "num": 376277,
+      "word": "妻子背丈夫出诊30多年不离不弃",
+      "onboard_time": 1692450520,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 276443,
       "num": 276443,
       "word": "商家回应售价2.7万玉镯实际价值两三百",
@@ -1377,14 +1409,6 @@
       "onboard_time": 1692413973,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273880,
-      "num": 252808,
-      "word": "张晚意看到杨紫邓为同框的反应",
-      "onboard_time": 1692450818,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 273414,
@@ -1435,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265175,
+      "num": 262609,
+      "word": "长相思剧组hi6收视率",
+      "onboard_time": 1692451661,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263981,
       "num": 263981,
       "word": "张智霖听到袁咏仪的反应",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1692408872,
       "rank": 18,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 261483,
+      "num": 261483,
+      "word": "大宋探案局定档",
+      "onboard_time": 1692451481,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 260121,
@@ -1803,6 +1843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209077,
+      "num": 201604,
+      "word": "魏大勋自创土味情话",
+      "onboard_time": 1692451720,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208254,
       "num": 208254,
       "word": "我不是药神演员在等待捐髓中过生日",
@@ -1835,6 +1883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 206849,
+      "num": 201324,
+      "word": "你好星期六下周是莲花楼",
+      "onboard_time": 1692451600,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206768,
       "num": 218388,
       "word": "双子座的自保能力太强了",
@@ -1848,6 +1904,14 @@
       "word": "徐静雨预测WBG夺冠",
       "onboard_time": 1692427952,
       "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 205945,
+      "num": 205945,
+      "word": "JDE86上山了",
+      "onboard_time": 1692451481,
+      "rank": 37,
       "category": "游戏"
     },
     {
@@ -1899,12 +1963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201935,
+      "num": 201935,
+      "word": "i人社交现状",
+      "onboard_time": 1692451962,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201802,
       "num": 201802,
       "word": "我见过的最勇敢的人",
       "onboard_time": 1692422316,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 201005,
+      "num": 201005,
+      "word": "那些年我们奇怪的收集癖好",
+      "onboard_time": 1692451059,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 200412,
@@ -2011,28 +2091,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191951,
-      "num": 193258,
-      "word": "战至巅峰",
-      "onboard_time": 1692417513,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 191841,
-      "num": 191841,
+      "raw_hot": 191961,
+      "num": 191961,
       "word": "周深演唱会给粉丝的信好温暖",
       "onboard_time": 1692450036,
       "rank": 44,
       "category": "音乐"
     },
     {
-      "raw_hot": 191564,
-      "num": 255209,
-      "word": "妻子背丈夫出诊30多年不离不弃",
-      "onboard_time": 1692450520,
-      "rank": 34,
-      "category": "社会新闻,情感"
+      "raw_hot": 191951,
+      "num": 193258,
+      "word": "战至巅峰",
+      "onboard_time": 1692417513,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 191404,
@@ -2272,14 +2344,6 @@
       "word": "是e人撸猫才有的场面",
       "onboard_time": 1692441634,
       "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 154437,
-      "num": 176849,
-      "word": "那些年我们奇怪的收集癖好",
-      "onboard_time": 1692451059,
-      "rank": 49,
       "category": "幽默"
     },
     {
@@ -2627,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86386,
+      "num": 368821,
+      "word": "司机连闯8个红灯送昏迷老人就医",
+      "onboard_time": 1692450036,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85087,
       "num": 217790,
       "word": "用巧克力制作浴缸模型",
@@ -2744,14 +2816,6 @@
       "word": "中国国家太空实验室已正式运行",
       "onboard_time": 1692361056,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49214,
-      "num": 335818,
-      "word": "司机连闯8个红灯送昏迷老人就医",
-      "onboard_time": 1692450036,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
