@@ -1,7 +1,15 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692401629052,
+  "endTime": 1692407186427,
   "band_list": [
+    {
+      "raw_hot": 2606359,
+      "num": 2606359,
+      "word": "知情人曝李玟摔倒后节目组没喊停",
+      "onboard_time": 1692402685,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2333538,
       "num": 299531,
@@ -19,8 +27,16 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1638626,
+      "num": 609439,
+      "word": "中国好声音商标被判无效",
+      "onboard_time": 1692403710,
+      "rank": 3,
+      "category": "社会新闻,综艺"
+    },
+    {
       "raw_hot": 1554302,
-      "num": 314856,
+      "num": 352050,
       "word": "一个月一次的避孕针是什么",
       "onboard_time": 1692362801,
       "rank": 10,
@@ -51,12 +67,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 980356,
+      "num": 376427,
+      "word": "女生手术取出被戳进额头20年铅笔芯",
+      "onboard_time": 1692404012,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 965756,
+      "num": 254259,
+      "word": "红色药丸 蓝色药丸",
+      "onboard_time": 1692401784,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 869562,
       "num": 869562,
       "word": "睡觉时手机在枕边充电有多危险",
       "onboard_time": 1692362376,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 832146,
+      "num": 589995,
+      "word": "李玟控诉中国好声音的音频是不是恶意剪辑",
+      "onboard_time": 1692404012,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 779747,
@@ -73,6 +113,38 @@
       "onboard_time": 1692369764,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 680931,
+      "num": 363466,
+      "word": "外国老友对黄晓明说因为你让我认识中国",
+      "onboard_time": 1692405514,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 591262,
+      "num": 591262,
+      "word": "EDG晋级全球冠军赛六强",
+      "onboard_time": 1692405514,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 585980,
+      "num": 585980,
+      "word": "结婚16年3孩均非亲生男子将起诉妻子",
+      "onboard_time": 1692403469,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569850,
+      "num": 253370,
+      "word": "男子被高压枪往身体打气结果肠子爆了",
+      "onboard_time": 1692402386,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555441,
@@ -115,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 459766,
+      "num": 320561,
+      "word": "竟然从一个摄影镜头里看到了慌张",
+      "onboard_time": 1692406353,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 452760,
       "num": 452760,
       "word": "张新成周杰伦合唱你听得到",
@@ -139,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389167,
+      "num": 389167,
+      "word": "胡彦斌问胡兵和瞿颖合作心动过吗",
+      "onboard_time": 1692405575,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389125,
       "num": 389125,
       "word": "中泰缅老警方合作打击赌诈集团",
@@ -161,6 +249,14 @@
       "onboard_time": 1692342395,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349309,
+      "num": 199980,
+      "word": "妈妈当年放弃了自己的明星梦",
+      "onboard_time": 1692405754,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 322512,
@@ -203,12 +299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311023,
+      "num": 311023,
+      "word": "薛之谦把大屏镜头给了歌迷",
+      "onboard_time": 1692402386,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 308561,
       "num": 308561,
       "word": "10元盒饭35个菜的大姐休息了",
       "onboard_time": 1692368741,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303021,
+      "num": 250840,
+      "word": "我弟无意间写出一个完美逗号",
+      "onboard_time": 1692403410,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 289563,
@@ -219,8 +331,16 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 277496,
+      "num": 277496,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1692404912,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275853,
-      "num": 308891,
+      "num": 339504,
       "word": "儿科医生朋友圈点赞多得滑不到底",
       "onboard_time": 1692366342,
       "rank": 14,
@@ -233,6 +353,22 @@
       "onboard_time": 1692366342,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254708,
+      "num": 254708,
+      "word": "赵丽颖窗边背影照",
+      "onboard_time": 1692404912,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 250731,
+      "num": 250731,
+      "word": "沈梦辰的红烧肉征服了匈牙利人",
+      "onboard_time": 1692406535,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 250499,
@@ -265,6 +401,22 @@
       "onboard_time": 1692341734,
       "rank": 19,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 228624,
+      "num": 228624,
+      "word": "火神殷郊民间故事",
+      "onboard_time": 1692405815,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 223032,
+      "num": 223032,
+      "word": "张馨予的盘头自画像",
+      "onboard_time": 1692403830,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 222688,
@@ -315,12 +467,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202173,
+      "num": 202173,
+      "word": "还得是杨千嬅",
+      "onboard_time": 1692403950,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198688,
+      "num": 198688,
+      "word": "排球之日",
+      "onboard_time": 1692406474,
+      "rank": 33,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 197090,
       "num": 209547,
       "word": "盗墓笔记 今天初一拜财神",
       "onboard_time": 1692374916,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 191805,
+      "num": 191805,
+      "word": "骗子开始伪装成外国美女了",
+      "onboard_time": 1692401784,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189356,
@@ -339,6 +515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186209,
+      "num": 186209,
+      "word": "救命啊有人可以帮消防员打119吗",
+      "onboard_time": 1692401665,
+      "rank": 35,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 186183,
       "num": 209700,
       "word": "杜紫怡回应tangoz声明",
@@ -348,11 +532,27 @@
     },
     {
       "raw_hot": 171524,
-      "num": 171524,
+      "num": 333153,
       "word": "贵州村BA颁奖现场奖品闹情绪了",
       "onboard_time": 1692397938,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163134,
+      "num": 163134,
+      "word": "孤注一掷票房破24亿",
+      "onboard_time": 1692403950,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 161320,
+      "num": 161320,
+      "word": "刘诗诗车窗照",
+      "onboard_time": 1692406656,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 160057,
@@ -369,6 +569,22 @@
       "onboard_time": 1692378745,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153101,
+      "num": 153101,
+      "word": "我不是药神演员在等待捐髓中过生日",
+      "onboard_time": 1692406956,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 151994,
+      "num": 151994,
+      "word": "现代版商战",
+      "onboard_time": 1692406774,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 150909,
@@ -403,6 +619,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 145430,
+      "num": 145430,
+      "word": "七时吉祥一世一席",
+      "onboard_time": 1692406834,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144747,
       "num": 209642,
       "word": "这歌坛还是被孟子义闯进去了",
@@ -433,6 +657,14 @@
       "onboard_time": 1692365500,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127733,
+      "num": 127733,
+      "word": "外公收稻子外孙女坐盆中陪伴画面温馨",
+      "onboard_time": 1692406956,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 124105,
@@ -547,7 +779,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49672,
+      "raw_hot": 51891,
       "num": 784084,
       "word": "中国国家太空实验室已正式运行",
       "onboard_time": 1692361056,
