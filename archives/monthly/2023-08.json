@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692444827668,
+  "endTime": 1692448060488,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1043,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2548126,
+      "num": 887979,
+      "word": "娃哈哈董事长女儿评论区",
+      "onboard_time": 1692445354,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2540288,
       "num": 2540288,
       "word": "难哄官博发声明",
@@ -1300,7 +1308,7 @@
     },
     {
       "raw_hot": 2309086,
-      "num": 247592,
+      "num": 267620,
       "word": "多位明星曝中国好声音内幕",
       "onboard_time": 1692421474,
       "rank": 32,
@@ -2585,6 +2593,14 @@
       "onboard_time": 1690977336,
       "rank": 10,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1759533,
+      "num": 1759533,
+      "word": "魏大勋赵今麦版鬼怪",
+      "onboard_time": 1692444394,
+      "rank": 17,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 1758501,
@@ -5777,6 +5793,14 @@
       "onboard_time": 1691286460,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1153760,
+      "num": 1153760,
+      "word": "你好星期六",
+      "onboard_time": 1691734476,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 1153737,
@@ -10275,14 +10299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 779773,
-      "num": 779773,
-      "word": "你好星期六",
-      "onboard_time": 1691734476,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 779747,
       "num": 293948,
       "word": "15岁儿子才1米61父母痛悔之前没在意",
@@ -10785,6 +10801,14 @@
       "onboard_time": 1691521755,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 754767,
+      "num": 754767,
+      "word": "马立奥来北京啦",
+      "onboard_time": 1692445293,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 754448,
@@ -17067,6 +17091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531712,
+      "num": 531712,
+      "word": "无畏",
+      "onboard_time": 1692445775,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 531673,
       "num": 517788,
       "word": "视觉中国称支持戴建峰报警",
@@ -18987,6 +19019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483226,
+      "num": 483226,
+      "word": "蓝猫路边生下7只崽",
+      "onboard_time": 1692443195,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 483057,
       "num": 483057,
       "word": "不要跟男朋友去涂石膏娃娃",
@@ -20619,6 +20659,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 447742,
+      "num": 446131,
+      "word": "少年涂山璟",
+      "onboard_time": 1692444335,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 447662,
       "num": 303918,
       "word": "初乳是什么",
@@ -20649,6 +20697,14 @@
       "onboard_time": 1691117375,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447369,
+      "num": 447369,
+      "word": "久哲要去哪",
+      "onboard_time": 1692445955,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 446898,
@@ -20995,14 +21051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 439038,
-      "num": 439038,
-      "word": "魏大勋赵今麦版鬼怪",
-      "onboard_time": 1692444394,
-      "rank": 17,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 438890,
       "num": 438890,
       "word": "檀健次 相柳有点浪漫",
@@ -21121,6 +21169,14 @@
       "onboard_time": 1692106006,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 436144,
+      "num": 436144,
+      "word": "京沪大战",
+      "onboard_time": 1692444574,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 436132,
@@ -21465,14 +21521,6 @@
       "onboard_time": 1691918615,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 428992,
-      "num": 218260,
-      "word": "蓝猫路边生下7只崽",
-      "onboard_time": 1692443195,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 428758,
@@ -22779,6 +22827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403602,
+      "num": 399664,
+      "word": "新手不建议用刀片刮胡子",
+      "onboard_time": 1692443735,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 403389,
       "num": 403389,
       "word": "梁田回应被性骚扰为何不报警",
@@ -23625,6 +23681,14 @@
       "onboard_time": 1691471739,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 387717,
+      "num": 387717,
+      "word": "谁能救救孟美岐",
+      "onboard_time": 1692447638,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 387638,
@@ -26731,14 +26795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336911,
-      "num": 214674,
-      "word": "少年涂山璟",
-      "onboard_time": 1692444335,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 336878,
       "num": 336878,
       "word": "邓为vlog的女友视角",
@@ -26897,6 +26953,14 @@
       "onboard_time": 1691986301,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 334758,
+      "num": 334758,
+      "word": "刚当教师时都不知道还有这些好东西",
+      "onboard_time": 1692444695,
+      "rank": 39,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 334747,
@@ -27905,6 +27969,14 @@
       "onboard_time": 1691414196,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 318731,
+      "num": 318731,
+      "word": "大熊猫轮辉",
+      "onboard_time": 1692444995,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318611,
@@ -29265,6 +29337,14 @@
       "onboard_time": 1691025758,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 300464,
+      "num": 300464,
+      "word": "李马克苏州",
+      "onboard_time": 1692447514,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 300420,
@@ -32091,6 +32171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268459,
+      "num": 268459,
+      "word": "杨超越直球吻戏",
+      "onboard_time": 1692446197,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268434,
       "num": 262767,
       "word": "何同学拍的胶卷星空",
@@ -34299,6 +34387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 244053,
+      "num": 244053,
+      "word": "女子情绪不佳引燃物品造成火灾致其死亡",
+      "onboard_time": 1692446856,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244015,
       "num": 244015,
       "word": "袁泉杨紫穿拖鞋放烟花",
@@ -36083,14 +36179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226187,
-      "num": 226187,
-      "word": "新手不建议用刀片刮胡子",
-      "onboard_time": 1692443735,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 226158,
       "num": 226158,
       "word": "odi",
@@ -36289,6 +36377,14 @@
       "onboard_time": 1691805935,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224012,
+      "num": 224012,
+      "word": "贺峻霖把猎人转移给严浩翔",
+      "onboard_time": 1692446075,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 223991,
@@ -36593,6 +36689,14 @@
       "onboard_time": 1691452653,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221988,
+      "num": 221988,
+      "word": "小夭舞蹈solo",
+      "onboard_time": 1692447698,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 221832,
@@ -38401,6 +38505,14 @@
       "onboard_time": 1691925993,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208218,
+      "num": 196649,
+      "word": "刘宇溯首演会",
+      "onboard_time": 1692447455,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 208201,
@@ -40587,6 +40699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196655,
+      "num": 196655,
+      "word": "XYG对战RW",
+      "onboard_time": 1692447336,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196644,
       "num": 196644,
       "word": "毕业后的人生就像按了加速键",
@@ -42755,14 +42875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184001,
-      "num": 194517,
-      "word": "刚当教师时都不知道还有这些好东西",
-      "onboard_time": 1692444695,
-      "rank": 39,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 183756,
       "num": 275036,
       "word": "有时候开家长会真的挺无助的",
@@ -43473,6 +43585,14 @@
       "onboard_time": 1691053418,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174566,
+      "num": 174566,
+      "word": "韩国版越界的网友",
+      "onboard_time": 1692446435,
+      "rank": 47,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 174482,
@@ -44907,14 +45027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152589,
-      "num": 193951,
-      "word": "京沪大战",
-      "onboard_time": 1692444574,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152511,
       "num": 170539,
       "word": "外国人来成都顺便进点货",
@@ -45281,6 +45393,14 @@
       "onboard_time": 1691073160,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146270,
+      "num": 174523,
+      "word": "去平潭岛怎么玩",
+      "onboard_time": 1692447638,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 146173,
@@ -49047,6 +49167,14 @@
       "num": 396100,
       "word": "八旬老人手写信致谢公交驾驶员",
       "onboard_time": 1692259242,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48483,
+      "num": 449342,
+      "word": "大山东连红绿灯都好客",
+      "onboard_time": 1692446498,
       "rank": 14,
       "category": "社会新闻"
     },

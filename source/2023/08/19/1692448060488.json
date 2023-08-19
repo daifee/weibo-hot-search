@@ -1,0 +1,410 @@
+{
+  "runTime": 1692448060488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1759533,
+        "num": 1759533,
+        "word": "魏大勋赵今麦版鬼怪",
+        "onboard_time": 1692444394,
+        "rank": 0,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 1153760,
+        "num": 1153760,
+        "word": "你好星期六",
+        "onboard_time": 1692441574,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8833,
+        "num": 919896,
+        "word": "谢谢你生命的守护者",
+        "onboard_time": 1692416315,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2548126,
+        "num": 887979,
+        "word": "娃哈哈董事长女儿评论区",
+        "onboard_time": 1692445354,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839286,
+        "num": 839286,
+        "word": "玲花不喜欢别人叫她全名的原因",
+        "onboard_time": 1692439772,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 807675,
+        "num": 807675,
+        "word": "Ella说山支回来了",
+        "onboard_time": 1692442296,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 754767,
+        "num": 754767,
+        "word": "马立奥来北京啦",
+        "onboard_time": 1692445293,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685692,
+        "num": 685692,
+        "word": "久哲卸任Hero主教练",
+        "onboard_time": 1692442835,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 531712,
+        "num": 531712,
+        "word": "无畏",
+        "onboard_time": 1692445775,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 436462,
+        "num": 498407,
+        "word": "四川地震",
+        "onboard_time": 1692430834,
+        "rank": 9,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 1489693,
+        "num": 497607,
+        "word": "秦牛正威为不妥回复致歉",
+        "onboard_time": 1692441216,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746678,
+        "num": 491871,
+        "word": "长相思第二季的防风邶剧照",
+        "onboard_time": 1692441574,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483226,
+        "num": 483226,
+        "word": "蓝猫路边生下7只崽",
+        "onboard_time": 1692443195,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228446,
+        "num": 452384,
+        "word": "他拿了1瓶水放回来8提水",
+        "onboard_time": 1692432574,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48483,
+        "num": 449342,
+        "word": "大山东连红绿灯都好客",
+        "onboard_time": 1692446498,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571359,
+        "num": 448721,
+        "word": "长相思第二季",
+        "onboard_time": 1692443616,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447369,
+        "num": 447369,
+        "word": "久哲要去哪",
+        "onboard_time": 1692445955,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 447742,
+        "num": 446131,
+        "word": "少年涂山璟",
+        "onboard_time": 1692444335,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436144,
+        "num": 436144,
+        "word": "京沪大战",
+        "onboard_time": 1692444574,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402112,
+        "num": 402112,
+        "word": "九尾去看林俊杰演唱会了",
+        "onboard_time": 1692444034,
+        "rank": 19,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 403602,
+        "num": 399664,
+        "word": "新手不建议用刀片刮胡子",
+        "onboard_time": 1692443735,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387717,
+        "num": 387717,
+        "word": "谁能救救孟美岐",
+        "onboard_time": 1692447638,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341263,
+        "num": 341263,
+        "word": "解救被困缅甸的中科院博士",
+        "onboard_time": 1692429873,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334758,
+        "num": 334758,
+        "word": "刚当教师时都不知道还有这些好东西",
+        "onboard_time": 1692444695,
+        "rank": 23,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 330018,
+        "num": 330018,
+        "word": "爸爸4年暑假接送26岁女儿上下班",
+        "onboard_time": 1692433114,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323259,
+        "num": 323259,
+        "word": "周深北京演唱会",
+        "onboard_time": 1692443495,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318731,
+        "num": 318731,
+        "word": "大熊猫轮辉",
+        "onboard_time": 1692444995,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310513,
+        "num": 310513,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1692437018,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300464,
+        "num": 300464,
+        "word": "李马克苏州",
+        "onboard_time": 1692447514,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268459,
+        "num": 268459,
+        "word": "杨超越直球吻戏",
+        "onboard_time": 1692446197,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 870704,
+        "num": 267620,
+        "word": "多位明星曝中国好声音内幕",
+        "onboard_time": 1692421474,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265851,
+        "num": 265851,
+        "word": "隔夜水不能喝的原因",
+        "onboard_time": 1692427594,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244053,
+        "num": 244053,
+        "word": "女子情绪不佳引燃物品造成火灾致其死亡",
+        "onboard_time": 1692446856,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242089,
+        "num": 242089,
+        "word": "Cheems去汪星了",
+        "onboard_time": 1692439354,
+        "rank": 33,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 225154,
+        "num": 225154,
+        "word": "冯绍峰45岁状态",
+        "onboard_time": 1692441216,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224012,
+        "num": 224012,
+        "word": "贺峻霖把猎人转移给严浩翔",
+        "onboard_time": 1692446075,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221988,
+        "num": 221988,
+        "word": "小夭舞蹈solo",
+        "onboard_time": 1692447698,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220137,
+        "num": 220137,
+        "word": "周深 更适合中国宝宝体质的私教老师",
+        "onboard_time": 1692442717,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204288,
+        "num": 204288,
+        "word": "教练月光 真人真事改编大型连续剧",
+        "onboard_time": 1692428493,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196655,
+        "num": 196655,
+        "word": "XYG对战RW",
+        "onboard_time": 1692447336,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211927,
+        "num": 196652,
+        "word": "王丽坤化最淡的妆演恶女",
+        "onboard_time": 1692435157,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208218,
+        "num": 196649,
+        "word": "刘宇溯首演会",
+        "onboard_time": 1692447455,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196639,
+        "num": 196639,
+        "word": "檀健次胖过没丑过",
+        "onboard_time": 1692435215,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193350,
+        "num": 193350,
+        "word": "监控下医生向病人家属强行塞红包",
+        "onboard_time": 1692440254,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197001,
+        "num": 191194,
+        "word": "黄子韬说红得靠命",
+        "onboard_time": 1692442417,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194054,
+        "num": 188059,
+        "word": "NCTDREAM签售",
+        "onboard_time": 1692444034,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183427,
+        "num": 183427,
+        "word": "T1锁定S13资格",
+        "onboard_time": 1692443856,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174566,
+        "num": 174566,
+        "word": "韩国版越界的网友",
+        "onboard_time": 1692446435,
+        "rank": 47,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 159339,
+        "num": 174549,
+        "word": "一张银行卡最多能存多少钱",
+        "onboard_time": 1692426931,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146270,
+        "num": 174523,
+        "word": "去平潭岛怎么玩",
+        "onboard_time": 1692447638,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
