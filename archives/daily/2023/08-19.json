@@ -1,7 +1,15 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692430418974,
+  "endTime": 1692433102808,
   "band_list": [
+    {
+      "raw_hot": 3165002,
+      "num": 3165002,
+      "word": "四川地震",
+      "onboard_time": 1692430834,
+      "rank": 0,
+      "category": "社会新闻,社会新闻"
+    },
     {
       "raw_hot": 2606359,
       "num": 2606359,
@@ -27,20 +35,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2251894,
+      "num": 2041883,
+      "word": "隔夜水不能喝的原因",
+      "onboard_time": 1692427594,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2095020,
       "num": 2095020,
       "word": "上海六院称已连夜处理窗口人员阴阳怪气事件",
       "onboard_time": 1692412893,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2041883,
-      "num": 2041883,
-      "word": "隔夜水不能喝的原因",
-      "onboard_time": 1692427594,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 2005215,
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1012656,
+      "num": 286996,
+      "word": "长相思爆了对谁的影响最大",
+      "onboard_time": 1692430114,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 980356,
       "num": 480311,
       "word": "女生手术取出被戳进额头20年铅笔芯",
@@ -241,6 +257,14 @@
       "onboard_time": 1692362376,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 857715,
+      "num": 286514,
+      "word": "解救被困缅甸的中科院博士",
+      "onboard_time": 1692429873,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 847494,
@@ -281,6 +305,14 @@
       "onboard_time": 1692369764,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 752708,
+      "num": 752708,
+      "word": "内江4.2级地震",
+      "onboard_time": 1692431434,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 730828,
@@ -523,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 412616,
+      "num": 285594,
+      "word": "医生说的空腹究竟是多久",
+      "onboard_time": 1692428971,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 397162,
       "num": 397162,
       "word": "你好星期六弥补了长相思意难平",
@@ -556,7 +596,7 @@
     },
     {
       "raw_hot": 383942,
-      "num": 282331,
+      "num": 285328,
       "word": "教练月光 真人真事改编大型连续剧",
       "onboard_time": 1692428493,
       "rank": 31,
@@ -628,7 +668,7 @@
     },
     {
       "raw_hot": 336239,
-      "num": 270198,
+      "num": 281437,
       "word": "虞书欣和工作室比物料",
       "onboard_time": 1692429572,
       "rank": 23,
@@ -787,6 +827,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 288625,
+      "num": 285686,
+      "word": "封神现代版",
+      "onboard_time": 1692428854,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279196,
       "num": 279196,
       "word": "姬发捞殷郊 一种很新的夹娃娃",
@@ -811,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277547,
-      "num": 277547,
-      "word": "长相思爆了对谁的影响最大",
-      "onboard_time": 1692430114,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 277496,
       "num": 277496,
       "word": "披荆斩棘的哥哥",
@@ -827,20 +867,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276443,
+      "num": 276443,
+      "word": "商家回应售价2.7万玉镯实际价值两三百",
+      "onboard_time": 1692429454,
+      "rank": 26,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 275853,
       "num": 398160,
       "word": "儿科医生朋友圈点赞多得滑不到底",
       "onboard_time": 1692366342,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275832,
-      "num": 227030,
-      "word": "医生说的空腹究竟是多久",
-      "onboard_time": 1692428971,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 275339,
@@ -867,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265341,
+      "num": 265341,
+      "word": "黄子韬评价徐艺洋",
+      "onboard_time": 1692432456,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263981,
       "num": 263981,
       "word": "张智霖听到袁咏仪的反应",
@@ -891,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259954,
-      "num": 259954,
-      "word": "商家回应售价2.7万玉镯实际价值两三百",
-      "onboard_time": 1692429454,
-      "rank": 26,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 259656,
       "num": 205698,
       "word": "日本动画 中国电影分镜",
@@ -915,11 +955,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 258588,
-      "num": 215692,
-      "word": "解救被困缅甸的中科院博士",
-      "onboard_time": 1692429873,
-      "rank": 33,
+      "raw_hot": 258758,
+      "num": 258758,
+      "word": "导演谈邓为表演方式",
+      "onboard_time": 1692429092,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 256246,
+      "num": 287663,
+      "word": "熊猫花花到底有多宠粉",
+      "onboard_time": 1692430892,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -953,6 +1001,30 @@
       "onboard_time": 1692416433,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240001,
+      "num": 242374,
+      "word": "凤凰男爵",
+      "onboard_time": 1692429092,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238244,
+      "num": 238244,
+      "word": "宋亚轩说是尊嘟被我猜中喽",
+      "onboard_time": 1692431194,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 233489,
+      "num": 233489,
+      "word": "相柳这是你吗",
+      "onboard_time": 1692432033,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 233416,
@@ -995,22 +1067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227374,
-      "num": 242374,
-      "word": "凤凰男爵",
-      "onboard_time": 1692429092,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 223600,
-      "num": 238536,
-      "word": "封神现代版",
-      "onboard_time": 1692428854,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223032,
       "num": 223032,
       "word": "张馨予的盘头自画像",
@@ -1040,14 +1096,6 @@
       "word": "小夭视角与四位男主关系",
       "onboard_time": 1692422373,
       "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 215607,
-      "num": 231021,
-      "word": "导演谈邓为表演方式",
-      "onboard_time": 1692429092,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -1163,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205556,
+      "num": 232979,
+      "word": "周深最没想到国外听过他唱歌",
+      "onboard_time": 1692432574,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205500,
       "num": 220692,
       "word": "大蘑菇音乐节",
@@ -1179,12 +1235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202977,
+      "num": 287316,
+      "word": "他拿了1瓶水放回来8提水",
+      "onboard_time": 1692432574,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202941,
       "num": 202941,
       "word": "光与夜之恋",
       "onboard_time": 1692421055,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202887,
+      "num": 287079,
+      "word": "稀有巨型甲虫彩臂金龟现身广东",
+      "onboard_time": 1692431673,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202173,
@@ -1251,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194508,
+      "num": 232832,
+      "word": "逆水寒手游十年之约",
+      "onboard_time": 1692432214,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194065,
       "num": 205337,
       "word": "檀健次和他的怨种团队",
@@ -1297,6 +1377,14 @@
       "onboard_time": 1692374857,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186742,
+      "num": 232463,
+      "word": "王一博陈烁倒吊旋转五十多圈",
+      "onboard_time": 1692431974,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 186209,
@@ -1515,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139704,
+      "num": 230040,
+      "word": "男生收到心仪礼物的反应",
+      "onboard_time": 1692431673,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137968,
       "num": 209889,
       "word": "你们馒头界是在搞科研吗",
@@ -1539,6 +1635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135633,
+      "num": 229609,
+      "word": "长大后发现比主角更沉默",
+      "onboard_time": 1692430114,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135621,
       "num": 135621,
       "word": "感谢你们用生命守护了生命",
@@ -1561,14 +1665,6 @@
       "onboard_time": 1692423812,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131092,
-      "num": 206432,
-      "word": "长大后发现比主角更沉默",
-      "onboard_time": 1692430114,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 130624,
@@ -1748,7 +1844,7 @@
     },
     {
       "raw_hot": 65150,
-      "num": 378133,
+      "num": 395034,
       "word": "今天第6个中国医师节",
       "onboard_time": 1692429512,
       "rank": 2,
@@ -1761,6 +1857,14 @@
       "onboard_time": 1692401485,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63196,
+      "num": 286104,
+      "word": "退休女老师去世捐遗体成大体老师",
+      "onboard_time": 1692432033,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62803,
