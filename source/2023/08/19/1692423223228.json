@@ -1,0 +1,410 @@
+{
+  "runTime": 1692423223228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1030962,
+        "num": 1030962,
+        "word": "长相思导演回应官配为什么不是男主",
+        "onboard_time": 1692415655,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 712202,
+        "num": 712202,
+        "word": "麻醉医生说请别叫我麻醉师",
+        "onboard_time": 1692415052,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42142,
+        "num": 551785,
+        "word": "谢谢你生命的守护者",
+        "onboard_time": 1692416315,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498267,
+        "num": 498267,
+        "word": "央广网评长安三万里被批不符史实误导观众",
+        "onboard_time": 1692408812,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432986,
+        "num": 497975,
+        "word": "竟然从一个摄影镜头里看到了慌张",
+        "onboard_time": 1692406353,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280436,
+        "num": 492904,
+        "word": "妈妈当年放弃了自己的明星梦",
+        "onboard_time": 1692405754,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 254891,
+        "num": 487283,
+        "word": "灼灼风流开播",
+        "onboard_time": 1692415773,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241822,
+        "num": 486803,
+        "word": "花花和圆润干妈第一次见面",
+        "onboard_time": 1692412773,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230269,
+        "num": 481941,
+        "word": "男子手臂割伤幸好有他们接力护送",
+        "onboard_time": 1692413973,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214946,
+        "num": 476284,
+        "word": "全员加速中真假守能者剧透",
+        "onboard_time": 1692418715,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1350215,
+        "num": 472682,
+        "word": "魏大勋新综艺官宣",
+        "onboard_time": 1692419013,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1327765,
+        "num": 471713,
+        "word": "上海六院称已连夜处理窗口人员阴阳怪气事件",
+        "onboard_time": 1692412893,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742298,
+        "num": 467891,
+        "word": "杨紫邓为十指相扣答题",
+        "onboard_time": 1692418234,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557975,
+        "num": 462661,
+        "word": "宁艺卓回国后首个solo舞台",
+        "onboard_time": 1692422015,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348699,
+        "num": 459216,
+        "word": "甘肃一文物古建筑被改造成日式餐厅",
+        "onboard_time": 1692419194,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533022,
+        "num": 455199,
+        "word": "杨迪 你还缺我这个老夭",
+        "onboard_time": 1692418356,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454022,
+        "num": 454022,
+        "word": "金晨孤注一掷最惨的一段戏",
+        "onboard_time": 1692422193,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437003,
+        "num": 437003,
+        "word": "余华老师真的太懂年轻人了",
+        "onboard_time": 1692416975,
+        "rank": 17,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 388511,
+        "num": 422319,
+        "word": "中国程序员拒写赌博程序遭拔14颗牙",
+        "onboard_time": 1692407257,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 279406,
+        "num": 416716,
+        "word": "有六块腹肌的兔子",
+        "onboard_time": 1692421596,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 957504,
+        "num": 416230,
+        "word": "杨紫张晚意情侣装",
+        "onboard_time": 1692414514,
+        "rank": 20,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 413025,
+        "num": 413025,
+        "word": "终于知道1TB手机是谁在用了",
+        "onboard_time": 1692422254,
+        "rank": 21,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 392776,
+        "num": 392776,
+        "word": "魏大勋听杨紫叫哥哥的表情",
+        "onboard_time": 1692422611,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380475,
+        "num": 380475,
+        "word": "微信朋友圈的图片褪色了",
+        "onboard_time": 1692411693,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262375,
+        "num": 357406,
+        "word": "女生手术取出被戳进额头20年铅笔芯",
+        "onboard_time": 1692404012,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356398,
+        "num": 356398,
+        "word": "徐海乔被郭晓婷说恋爱脑",
+        "onboard_time": 1692421474,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263981,
+        "num": 263981,
+        "word": "张智霖听到袁咏仪的反应",
+        "onboard_time": 1692422373,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240762,
+        "num": 240762,
+        "word": "一个月一次的避孕针是什么",
+        "onboard_time": 1692362801,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240044,
+        "num": 240044,
+        "word": "张栋梁镜头下的林志颖张远徐良",
+        "onboard_time": 1692414693,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231221,
+        "num": 231221,
+        "word": "显眼包出国玩了",
+        "onboard_time": 1692417933,
+        "rank": 29,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 1632251,
+        "num": 231118,
+        "word": "多位明星曝中国好声音内幕",
+        "onboard_time": 1692421474,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322264,
+        "num": 230378,
+        "word": "奶奶不懂电脑但奶奶爱你",
+        "onboard_time": 1692421293,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 600270,
+        "num": 230321,
+        "word": "李玟控诉中国好声音的音频是不是恶意剪辑",
+        "onboard_time": 1692404012,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228363,
+        "num": 228363,
+        "word": "把微信状态当成朋友圈发",
+        "onboard_time": 1692413371,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 214540,
+        "num": 221866,
+        "word": "铅衣医生1年受强X光辐射700万次",
+        "onboard_time": 1692421774,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475137,
+        "num": 221718,
+        "word": "知情人曝李玟摔倒后节目组没喊停",
+        "onboard_time": 1692402685,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221392,
+        "num": 221392,
+        "word": "魏大勋李雪琴打一把伞",
+        "onboard_time": 1692415713,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216408,
+        "num": 216408,
+        "word": "小夭视角与四位男主关系",
+        "onboard_time": 1692422373,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233037,
+        "num": 213344,
+        "word": "中国好声音商标被判无效",
+        "onboard_time": 1692403710,
+        "rank": 38,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 201802,
+        "num": 201802,
+        "word": "我见过的最勇敢的人",
+        "onboard_time": 1692422316,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 194742,
+        "num": 201799,
+        "word": "张元英蓝色挂脖连衣裙造型",
+        "onboard_time": 1692422674,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193392,
+        "num": 201780,
+        "word": "红色药丸 蓝色药丸",
+        "onboard_time": 1692401784,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135361,
+        "num": 201765,
+        "word": "张译再演特工",
+        "onboard_time": 1692423033,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133566,
+        "num": 201738,
+        "word": "丈夫逼妻子回家遭拒当街引爆手榴弹",
+        "onboard_time": 1692412055,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129269,
+        "num": 201717,
+        "word": "任子威练习滑冰从小哭到大",
+        "onboard_time": 1692418893,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127614,
+        "num": 201697,
+        "word": "NCTDREAM出发上海签售",
+        "onboard_time": 1692416673,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124190,
+        "num": 201687,
+        "word": "中国医师节",
+        "onboard_time": 1692420813,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123095,
+        "num": 201675,
+        "word": "日本动画 中国电影分镜",
+        "onboard_time": 1692416856,
+        "rank": 47,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 117105,
+        "num": 201640,
+        "word": "我经过风暴各平台开分",
+        "onboard_time": 1692423214,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115347,
+        "num": 201625,
+        "word": "夏威夷大火废墟中有很多X字样",
+        "onboard_time": 1692407374,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚洲首艘圆筒型海上油气加工厂船体完工#"
+    }
+  }
+}
