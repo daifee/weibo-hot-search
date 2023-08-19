@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692412438056,
+  "endTime": 1692415008165,
   "band_list": [
     {
       "raw_hot": 2606359,
@@ -25,6 +25,14 @@
       "onboard_time": 1692373059,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1857097,
+      "num": 1857097,
+      "word": "上海六院称已连夜处理窗口人员阴阳怪气事件",
+      "onboard_time": 1692412893,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1651504,
@@ -155,11 +163,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774755,
+      "num": 347703,
+      "word": "邓为垚了我吧",
+      "onboard_time": 1692412532,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 769663,
       "num": 769663,
       "word": "周深绝了",
       "onboard_time": 1692369764,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 723950,
+      "num": 263040,
+      "word": "把微信状态当成朋友圈发",
+      "onboard_time": 1692413371,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 679902,
+      "num": 261934,
+      "word": "微信朋友圈的图片褪色了",
+      "onboard_time": 1692411693,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 627554,
+      "num": 627554,
+      "word": "6个人帮薛凯琪吃瓜",
+      "onboard_time": 1692413314,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -179,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 575911,
-      "num": 207327,
-      "word": "微信朋友圈的图片褪色了",
-      "onboard_time": 1692411693,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 572218,
+      "num": 347596,
+      "word": "小夭大王姬又回来啦",
+      "onboard_time": 1692412414,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 569850,
@@ -193,6 +233,14 @@
       "onboard_time": 1692402386,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563397,
+      "num": 347288,
+      "word": "杨紫张晚意情侣装",
+      "onboard_time": 1692414514,
+      "rank": 15,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 555441,
@@ -324,7 +372,7 @@
     },
     {
       "raw_hot": 383178,
-      "num": 206346,
+      "num": 258807,
       "word": "曾黎素颜状态",
       "onboard_time": 1692410975,
       "rank": 24,
@@ -352,6 +400,14 @@
       "word": "月经沾裤子上紧急处理方法",
       "onboard_time": 1692342395,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350720,
+      "num": 347509,
+      "word": "花花和圆润干妈第一次见面",
+      "onboard_time": 1692412773,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -395,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314796,
+      "num": 255507,
+      "word": "丈夫逼妻子回家遭拒当街引爆手榴弹",
+      "onboard_time": 1692412055,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312081,
       "num": 300781,
       "word": "医院回应穿刺失误致女童死亡",
@@ -436,7 +500,7 @@
     },
     {
       "raw_hot": 297215,
-      "num": 203881,
+      "num": 234351,
       "word": "hi6",
       "onboard_time": 1692410614,
       "rank": 25,
@@ -475,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264099,
+      "num": 264099,
+      "word": "XYG五人组首发",
+      "onboard_time": 1692414094,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262318,
       "num": 262318,
       "word": "交警调控绿波远程导航助呕吐不止孩童送医",
@@ -489,6 +561,14 @@
       "onboard_time": 1692366342,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255351,
+      "num": 255351,
+      "word": "男子手臂割伤幸好有他们接力护送",
+      "onboard_time": 1692413973,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250499,
@@ -548,7 +628,7 @@
     },
     {
       "raw_hot": 215558,
-      "num": 198183,
+      "num": 205197,
       "word": "一座即将消失的猫岛",
       "onboard_time": 1692407971,
       "rank": 44,
@@ -564,7 +644,7 @@
     },
     {
       "raw_hot": 214132,
-      "num": 192465,
+      "num": 205164,
       "word": "小鸟一家人居然在犀牛的角里筑巢",
       "onboard_time": 1692410436,
       "rank": 32,
@@ -576,6 +656,14 @@
       "word": "好声音寥寥数行回应就是对逝者的尊重吗",
       "onboard_time": 1692356614,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213332,
+      "num": 213332,
+      "word": "张栋梁镜头下的林志颖张远徐良",
+      "onboard_time": 1692414693,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -611,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205426,
+      "num": 205426,
+      "word": "10岁弟弟知道姐姐没有金戒指立马帮买",
+      "onboard_time": 1692411274,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202173,
       "num": 202173,
       "word": "还得是杨千嬅",
@@ -619,20 +715,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200412,
+      "num": 205402,
+      "word": "王大陆粉丝现场转粉孙阳",
+      "onboard_time": 1692414457,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198688,
       "num": 198688,
       "word": "排球之日",
       "onboard_time": 1692406474,
       "rank": 33,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 198620,
-      "num": 189847,
-      "word": "小夭大王姬又回来啦",
-      "onboard_time": 1692412414,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 197090,
@@ -644,11 +740,27 @@
     },
     {
       "raw_hot": 195555,
-      "num": 195555,
+      "num": 205285,
       "word": "骗子开始伪装成外国美女了",
       "onboard_time": 1692401784,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194065,
+      "num": 205337,
+      "word": "檀健次和他的怨种团队",
+      "onboard_time": 1692412595,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189629,
+      "num": 205302,
+      "word": "王鹤棣拍照每个姿势都有梗",
+      "onboard_time": 1692411758,
+      "rank": 40,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 189356,
@@ -656,14 +768,6 @@
       "word": "医师节",
       "onboard_time": 1692400763,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187778,
-      "num": 187778,
-      "word": "10岁弟弟知道姐姐没有金戒指立马帮买",
-      "onboard_time": 1692411274,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -699,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 179165,
-      "num": 179165,
-      "word": "丈夫逼妻子回家遭拒当街引爆手榴弹",
-      "onboard_time": 1692412055,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171881,
       "num": 171881,
       "word": "现代版商战",
@@ -723,12 +819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167815,
-      "num": 167815,
-      "word": "王鹤棣拍照每个姿势都有梗",
-      "onboard_time": 1692411758,
-      "rank": 40,
-      "category": "艺人,幽默"
+      "raw_hot": 169693,
+      "num": 205271,
+      "word": "这不是相柳和玟小六",
+      "onboard_time": 1692412532,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 163366,
@@ -996,7 +1092,7 @@
     },
     {
       "raw_hot": 51891,
-      "num": 1016016,
+      "num": 1043509,
       "word": "中国国家太空实验室已正式运行",
       "onboard_time": 1692361056,
       "rank": 26,
