@@ -1,0 +1,410 @@
+{
+  "runTime": 1692429251777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 880514,
+        "num": 880514,
+        "word": "隔夜水不能喝的原因",
+        "onboard_time": 1692427594,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 513956,
+        "num": 513956,
+        "word": "东部战区位台岛演训长时段抵近慑压",
+        "onboard_time": 1692424352,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 37159,
+        "num": 398696,
+        "word": "谢谢你生命的守护者",
+        "onboard_time": 1692416315,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1376438,
+        "num": 398042,
+        "word": "一张银行卡最多能存多少钱",
+        "onboard_time": 1692426931,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 538995,
+        "num": 398015,
+        "word": "竟然从一个摄影镜头里看到了慌张",
+        "onboard_time": 1692406353,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 397162,
+        "num": 397162,
+        "word": "你好星期六弥补了长相思意难平",
+        "onboard_time": 1692425074,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360140,
+        "num": 360140,
+        "word": "长相思导演回应官配为什么不是男主",
+        "onboard_time": 1692415655,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313825,
+        "num": 313825,
+        "word": "麻醉医生说请别叫我麻醉师",
+        "onboard_time": 1692415052,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280056,
+        "num": 280056,
+        "word": "浙江一学校的军训是集体摸鱼",
+        "onboard_time": 1692426575,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 274362,
+        "num": 274362,
+        "word": "央广网评长安三万里被批不符史实误导观众",
+        "onboard_time": 1692408812,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1497386,
+        "num": 274275,
+        "word": "女子称花900买票看演唱会全程看不到人",
+        "onboard_time": 1692425313,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008024,
+        "num": 270490,
+        "word": "魏大勋听杨紫叫哥哥的表情",
+        "onboard_time": 1692422611,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 642812,
+        "num": 267975,
+        "word": "金晨孤注一掷最惨的一段戏",
+        "onboard_time": 1692422193,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393765,
+        "num": 267207,
+        "word": "上海六院称已连夜处理窗口人员阴阳怪气事件",
+        "onboard_time": 1692412893,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32284,
+        "num": 265310,
+        "word": "辅警夜跑听到几个词劝阻裸聊诈骗",
+        "onboard_time": 1692428430,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391673,
+        "num": 262066,
+        "word": "玉剑美人陈都灵",
+        "onboard_time": 1692423334,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359825,
+        "num": 259952,
+        "word": "魏大勋新综艺官宣",
+        "onboard_time": 1692419013,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258642,
+        "num": 258642,
+        "word": "宁艺卓回国后首个solo舞台",
+        "onboard_time": 1692422015,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251925,
+        "num": 251925,
+        "word": "马嘉祺问我是还是不是",
+        "onboard_time": 1692428734,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191175,
+        "num": 251756,
+        "word": "徐静雨预测WBG夺冠",
+        "onboard_time": 1692427952,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 675008,
+        "num": 251205,
+        "word": "越亲和的女生越容易被压榨",
+        "onboard_time": 1692424414,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419722,
+        "num": 251138,
+        "word": "终于知道1TB手机是谁在用了",
+        "onboard_time": 1692422254,
+        "rank": 21,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 290778,
+        "num": 250770,
+        "word": "杨紫张晚意情侣装",
+        "onboard_time": 1692414514,
+        "rank": 22,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 268497,
+        "num": 250151,
+        "word": "微信朋友圈的图片褪色了",
+        "onboard_time": 1692411693,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211448,
+        "num": 249944,
+        "word": "赵丽颖穿得好保暖",
+        "onboard_time": 1692427472,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 207536,
+        "num": 249549,
+        "word": "王鹤棣港风隧道大片",
+        "onboard_time": 1692428072,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194082,
+        "num": 249069,
+        "word": "张元英蓝色挂脖连衣裙造型",
+        "onboard_time": 1692422674,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193884,
+        "num": 248758,
+        "word": "杨紫邓为十指相扣答题",
+        "onboard_time": 1692418234,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164553,
+        "num": 248543,
+        "word": "有六块腹肌的兔子",
+        "onboard_time": 1692421596,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159274,
+        "num": 247882,
+        "word": "辞职后被新工作治愈了",
+        "onboard_time": 1692423455,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1814785,
+        "num": 247592,
+        "word": "多位明星曝中国好声音内幕",
+        "onboard_time": 1692421474,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247441,
+        "num": 247441,
+        "word": "教练月光 真人真事改编大型连续剧",
+        "onboard_time": 1692428493,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 345885,
+        "num": 246591,
+        "word": "李玟控诉中国好声音的音频是不是恶意剪辑",
+        "onboard_time": 1692404012,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153012,
+        "num": 244223,
+        "word": "男子手臂割伤幸好有他们接力护送",
+        "onboard_time": 1692413973,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146395,
+        "num": 242897,
+        "word": "把微信状态当成朋友圈发",
+        "onboard_time": 1692413371,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 242662,
+        "num": 242662,
+        "word": "知情人曝李玟摔倒后节目组没喊停",
+        "onboard_time": 1692402685,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187116,
+        "num": 242374,
+        "word": "凤凰男爵",
+        "onboard_time": 1692429092,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162345,
+        "num": 240886,
+        "word": "长相思之玱相思",
+        "onboard_time": 1692428072,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154596,
+        "num": 238536,
+        "word": "封神现代版",
+        "onboard_time": 1692428854,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135820,
+        "num": 237746,
+        "word": "七夕回礼要价格一样吗",
+        "onboard_time": 1692427172,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143181,
+        "num": 235332,
+        "word": "长相思追剧总结",
+        "onboard_time": 1692427771,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111479,
+        "num": 234002,
+        "word": "KSG对战DYG",
+        "onboard_time": 1692427653,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142256,
+        "num": 231864,
+        "word": "张智霖听到袁咏仪的反应",
+        "onboard_time": 1692422373,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133432,
+        "num": 231021,
+        "word": "导演谈邓为表演方式",
+        "onboard_time": 1692429092,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125964,
+        "num": 229335,
+        "word": "空中第一视角看台岛周边演训",
+        "onboard_time": 1692427952,
+        "rank": 44,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 133287,
+        "num": 227030,
+        "word": "医生说的空腹究竟是多久",
+        "onboard_time": 1692428971,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127398,
+        "num": 226577,
+        "word": "花花和圆润干妈第一次见面",
+        "onboard_time": 1692412773,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125405,
+        "num": 224021,
+        "word": "中国程序员拒写赌博程序遭拔14颗牙",
+        "onboard_time": 1692407257,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 118513,
+        "num": 223134,
+        "word": "王一博陈烁海报拍摄花絮",
+        "onboard_time": 1692426692,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118128,
+        "num": 221711,
+        "word": "奶奶不懂电脑但奶奶爱你",
+        "onboard_time": 1692421293,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚洲首艘圆筒型海上油气加工厂船体完工#"
+    }
+  }
+}

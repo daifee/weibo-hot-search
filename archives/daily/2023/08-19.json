@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692426841068,
+  "endTime": 1692429251777,
   "band_list": [
     {
       "raw_hot": 2606359,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2309086,
-      "num": 231118,
+      "num": 247592,
       "word": "多位明星曝中国好声音内幕",
       "onboard_time": 1692421474,
       "rank": 32,
@@ -75,12 +75,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1497386,
+      "num": 303553,
+      "word": "女子称花900买票看演唱会全程看不到人",
+      "onboard_time": 1692425313,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1398575,
       "num": 472682,
       "word": "魏大勋新综艺官宣",
       "onboard_time": 1692419013,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1376438,
+      "num": 398042,
+      "word": "一张银行卡最多能存多少钱",
+      "onboard_time": 1692426931,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1375911,
@@ -211,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 880514,
+      "num": 880514,
+      "word": "隔夜水不能喝的原因",
+      "onboard_time": 1692427594,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 869562,
       "num": 869562,
       "word": "睡觉时手机在枕边充电有多危险",
@@ -275,12 +299,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 663730,
-      "num": 303553,
-      "word": "女子称花900买票看演唱会全程看不到人",
-      "onboard_time": 1692425313,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 675008,
+      "num": 284113,
+      "word": "越亲和的女生越容易被压榨",
+      "onboard_time": 1692424414,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 644222,
@@ -329,14 +353,6 @@
       "onboard_time": 1692412414,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 571883,
-      "num": 284113,
-      "word": "越亲和的女生越容易被压榨",
-      "onboard_time": 1692424414,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 569850,
@@ -507,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397162,
+      "num": 397162,
+      "word": "你好星期六弥补了长相思意难平",
+      "onboard_time": 1692425074,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389623,
       "num": 389623,
       "word": "檀健次问相柳和沈翊选哪个",
@@ -651,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319981,
-      "num": 319981,
-      "word": "你好星期六弥补了长相思意难平",
-      "onboard_time": 1692425074,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 319760,
       "num": 274712,
       "word": "吴昕谈快乐家族之间的灵魂沟通",
@@ -745,6 +761,14 @@
       "onboard_time": 1692363099,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 280056,
+      "num": 280056,
+      "word": "浙江一学校的军训是集体摸鱼",
+      "onboard_time": 1692426575,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 279196,
@@ -843,12 +867,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251925,
+      "num": 251925,
+      "word": "马嘉祺问我是还是不是",
+      "onboard_time": 1692428734,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250499,
       "num": 250499,
       "word": "鹿晗与芦苇合照",
       "onboard_time": 1692371081,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247441,
+      "num": 247441,
+      "word": "教练月光 真人真事改编大型连续剧",
+      "onboard_time": 1692428493,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 244264,
@@ -971,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211448,
+      "num": 249944,
+      "word": "赵丽颖穿得好保暖",
+      "onboard_time": 1692427472,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 211431,
       "num": 205822,
       "word": "张智霖真人版地铁跑酷",
@@ -1009,6 +1057,14 @@
       "onboard_time": 1692424953,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207536,
+      "num": 249549,
+      "word": "王鹤棣港风隧道大片",
+      "onboard_time": 1692428072,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206768,
@@ -1092,7 +1148,7 @@
     },
     {
       "raw_hot": 194972,
-      "num": 221343,
+      "num": 223134,
       "word": "王一博陈烁海报拍摄花絮",
       "onboard_time": 1692426692,
       "rank": 33,
@@ -1123,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191175,
+      "num": 251756,
+      "word": "徐静雨预测WBG夺冠",
+      "onboard_time": 1692427952,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189629,
       "num": 205302,
       "word": "王鹤棣拍照每个姿势都有梗",
@@ -1137,6 +1201,14 @@
       "onboard_time": 1692400763,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187116,
+      "num": 242374,
+      "word": "凤凰男爵",
+      "onboard_time": 1692429092,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 186938,
@@ -1251,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162345,
+      "num": 240886,
+      "word": "长相思之玱相思",
+      "onboard_time": 1692428072,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160057,
       "num": 209694,
       "word": "林志颖陆毅王耀庆是同龄人",
@@ -1273,6 +1353,14 @@
       "onboard_time": 1692419256,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154596,
+      "num": 238536,
+      "word": "封神现代版",
+      "onboard_time": 1692428854,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 154186,
@@ -1339,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143181,
+      "num": 235332,
+      "word": "长相思追剧总结",
+      "onboard_time": 1692427771,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140505,
       "num": 140505,
       "word": "这是医学生誓言",
@@ -1371,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135820,
+      "num": 237746,
+      "word": "七夕回礼要价格一样吗",
+      "onboard_time": 1692427172,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135621,
       "num": 135621,
       "word": "感谢你们用生命守护了生命",
@@ -1395,6 +1499,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133432,
+      "num": 231021,
+      "word": "导演谈邓为表演方式",
+      "onboard_time": 1692429092,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 133287,
+      "num": 227030,
+      "word": "医生说的空腹究竟是多久",
+      "onboard_time": 1692428971,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130624,
       "num": 130624,
       "word": "父母爱情的细节全藏在心机里",
@@ -1411,20 +1531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129804,
-      "num": 219216,
-      "word": "浙江一学校的军训是集体摸鱼",
-      "onboard_time": 1692426575,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 127733,
       "num": 127733,
       "word": "外公收稻子外孙女坐盆中陪伴画面温馨",
       "onboard_time": 1692406956,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 125964,
+      "num": 229335,
+      "word": "空中第一视角看台岛周边演训",
+      "onboard_time": 1692427952,
+      "rank": 44,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 125726,
@@ -1465,6 +1585,14 @@
       "onboard_time": 1692375036,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111479,
+      "num": 234002,
+      "word": "KSG对战DYG",
+      "onboard_time": 1692427653,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 107987,
@@ -1625,6 +1753,14 @@
       "onboard_time": 1692380900,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 32284,
+      "num": 265310,
+      "word": "辅警夜跑听到几个词劝阻裸聊诈骗",
+      "onboard_time": 1692428430,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26613,
