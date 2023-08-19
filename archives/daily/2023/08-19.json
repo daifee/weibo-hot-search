@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692434048292,
+  "endTime": 1692436451827,
   "band_list": [
     {
       "raw_hot": 3165002,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1524953,
-      "num": 303553,
+      "num": 324757,
       "word": "女子称花900买票看演唱会全程看不到人",
       "onboard_time": 1692425313,
       "rank": 31,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1012656,
-      "num": 304251,
+      "num": 327030,
       "word": "长相思爆了对谁的影响最大",
       "onboard_time": 1692430114,
       "rank": 18,
@@ -243,8 +243,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959248,
+      "num": 959248,
+      "word": "爸爸4年暑假接送26岁女儿上下班",
+      "onboard_time": 1692433114,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 957614,
-      "num": 303195,
+      "num": 327680,
       "word": "解救被困缅甸的中科院博士",
       "onboard_time": 1692429873,
       "rank": 33,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 675008,
-      "num": 289769,
+      "num": 304286,
       "word": "越亲和的女生越容易被压榨",
       "onboard_time": 1692424414,
       "rank": 21,
@@ -353,6 +361,14 @@
       "onboard_time": 1692413314,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 604806,
+      "num": 325756,
+      "word": "王丽坤化最淡的妆演恶女",
+      "onboard_time": 1692435157,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 591262,
@@ -475,6 +491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 492949,
+      "num": 492949,
+      "word": "排球少年",
+      "onboard_time": 1692434135,
+      "rank": 4,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 481366,
       "num": 481366,
       "word": "夏威夷大火废墟中有很多X字样",
@@ -483,12 +507,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 480944,
+      "num": 322429,
+      "word": "周深最没想到国外听过他唱歌",
+      "onboard_time": 1692432574,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 477731,
       "num": 477731,
       "word": "赵睿",
       "onboard_time": 1692379824,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 470503,
+      "num": 321437,
+      "word": "檀健次胖过没丑过",
+      "onboard_time": 1692435215,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 469989,
@@ -555,28 +595,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 422508,
-      "num": 422508,
-      "word": "爸爸4年暑假接送26岁女儿上下班",
-      "onboard_time": 1692433114,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419509,
-      "num": 297723,
+      "num": 331884,
       "word": "医生说的空腹究竟是多久",
       "onboard_time": 1692428971,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 397514,
-      "num": 295326,
-      "word": "周深最没想到国外听过他唱歌",
-      "onboard_time": 1692432574,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 397162,
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 357538,
-      "num": 291720,
+      "num": 309010,
       "word": "黄子韬评价徐艺洋",
       "onboard_time": 1692432456,
       "rank": 24,
@@ -696,6 +720,14 @@
       "word": "甘肃一文物古建筑被改造成日式餐厅",
       "onboard_time": 1692419194,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338855,
+      "num": 320039,
+      "word": "花花急眼",
+      "onboard_time": 1692435574,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -771,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318956,
+      "num": 299519,
+      "word": "Angelababy张大大聊和杨幂组队",
+      "onboard_time": 1692433537,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314796,
       "num": 283370,
       "word": "丈夫逼妻子回家遭拒当街引爆手榴弹",
@@ -820,7 +860,7 @@
     },
     {
       "raw_hot": 303850,
-      "num": 306431,
+      "num": 329183,
       "word": "浙江一学校的军训是集体摸鱼",
       "onboard_time": 1692426575,
       "rank": 43,
@@ -865,6 +905,14 @@
       "onboard_time": 1692428854,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282823,
+      "num": 220787,
+      "word": "公交车开一路我的脸丢一路",
+      "onboard_time": 1692434615,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 279196,
@@ -988,7 +1036,7 @@
     },
     {
       "raw_hot": 256246,
-      "num": 308434,
+      "num": 330422,
       "word": "熊猫花花到底有多宠粉",
       "onboard_time": 1692430892,
       "rank": 6,
@@ -1001,6 +1049,22 @@
       "onboard_time": 1692371081,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248631,
+      "num": 248631,
+      "word": "杨紫邓为打一把伞",
+      "onboard_time": 1692435455,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246849,
+      "num": 246849,
+      "word": "宋亚轩说是尊嘟被我猜中喽",
+      "onboard_time": 1692431194,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 244264,
@@ -1043,12 +1107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238244,
-      "num": 238244,
-      "word": "宋亚轩说是尊嘟被我猜中喽",
-      "onboard_time": 1692431194,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 237152,
+      "num": 237152,
+      "word": "烫金方",
+      "onboard_time": 1692434193,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 233416,
@@ -1291,14 +1355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199187,
-      "num": 219262,
-      "word": "Angelababy张大大聊和杨幂组队",
-      "onboard_time": 1692433537,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198688,
       "num": 198688,
       "word": "排球之日",
@@ -1371,8 +1427,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190692,
+      "num": 220441,
+      "word": "谁知道怎么跟理发师形容这个发型",
+      "onboard_time": 1692435814,
+      "rank": 32,
+      "category": "情感,美妆"
+    },
+    {
       "raw_hot": 189802,
-      "num": 219257,
+      "num": 219801,
       "word": "成毅李莲花战报",
       "onboard_time": 1692433355,
       "rank": 32,
@@ -1441,6 +1505,14 @@
       "onboard_time": 1692406834,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180875,
+      "num": 219632,
+      "word": "白敬亭刘昊然魏大勋明天见",
+      "onboard_time": 1692436176,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 180354,
@@ -1595,6 +1667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144800,
+      "num": 219194,
+      "word": "女孩晒姥爷寿宴超大餐桌",
+      "onboard_time": 1692434014,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144747,
       "num": 209642,
       "word": "这歌坛还是被孟子义闯进去了",
@@ -1609,6 +1689,14 @@
       "onboard_time": 1692427771,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140704,
+      "num": 217882,
+      "word": "这熊猫挂件跟真的一模一样",
+      "onboard_time": 1692434615,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140505,
@@ -1747,6 +1835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117159,
+      "num": 299552,
+      "word": "退休女老师去世捐遗体成大体老师",
+      "onboard_time": 1692432033,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116965,
       "num": 205009,
       "word": "上海文化之夜拟邀明星阵容",
@@ -1771,27 +1867,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 109617,
-      "num": 219194,
-      "word": "女孩晒姥爷寿宴超大餐桌",
-      "onboard_time": 1692434014,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107987,
       "num": 209575,
       "word": "交通事故单当事人那一栏是哈士奇",
       "onboard_time": 1692372761,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103433,
-      "num": 299552,
-      "word": "退休女老师去世捐遗体成大体老师",
-      "onboard_time": 1692432033,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1876,7 +1956,7 @@
     },
     {
       "raw_hot": 67857,
-      "num": 437486,
+      "num": 584357,
       "word": "今天第6个中国医师节",
       "onboard_time": 1692429512,
       "rank": 2,
@@ -1985,6 +2065,14 @@
       "onboard_time": 1692390135,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20525,
+      "num": 323437,
+      "word": "白大褂是他们的战袍",
+      "onboard_time": 1692435695,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
