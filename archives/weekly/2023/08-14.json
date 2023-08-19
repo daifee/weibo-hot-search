@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692454404716,
+  "endTime": 1692455624142,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1673428,
+      "num": 1673428,
+      "word": "800多赞的朋友圈长什么样",
+      "onboard_time": 1692451239,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1666509,
       "num": 711767,
       "word": "BLACKPINK疑似又有人划水",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1692074381,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1287909,
-      "num": 1287909,
-      "word": "800多赞的朋友圈长什么样",
-      "onboard_time": 1692451239,
-      "rank": 31,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 1285124,
@@ -2459,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 846033,
+      "num": 846033,
+      "word": "电影消失的她",
+      "onboard_time": 1692452441,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 845521,
       "num": 845521,
       "word": "麻醉医生说请别叫我麻醉师",
@@ -2937,14 +2945,6 @@
       "onboard_time": 1691997396,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 721456,
-      "num": 333318,
-      "word": "电影消失的她",
-      "onboard_time": 1692452441,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 721030,
@@ -3572,7 +3572,7 @@
     },
     {
       "raw_hot": 643968,
-      "num": 355934,
+      "num": 362892,
       "word": "长相思剧组hi6收视率",
       "onboard_time": 1692451661,
       "rank": 34,
@@ -5027,6 +5027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 502821,
+      "num": 349573,
+      "word": "刘波少爷哭了",
+      "onboard_time": 1692453579,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502027,
       "num": 502027,
       "word": "杨玏封神路演最大受害者",
@@ -5716,7 +5724,7 @@
     },
     {
       "raw_hot": 455438,
-      "num": 455438,
+      "num": 1124453,
       "word": "东部战区位台岛周边海空联合演训",
       "onboard_time": 1692409595,
       "rank": 29,
@@ -6451,6 +6459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 411058,
+      "num": 304870,
+      "word": "于文文的青春是周杰伦",
+      "onboard_time": 1692453880,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 410606,
       "num": 389040,
       "word": "爸爸当家2",
@@ -6852,7 +6868,7 @@
     },
     {
       "raw_hot": 388541,
-      "num": 335057,
+      "num": 347212,
       "word": "杜锋告别赵睿欢迎周琦",
       "onboard_time": 1692452739,
       "rank": 18,
@@ -7091,20 +7107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376910,
-      "num": 200118,
-      "word": "刘波少爷哭了",
-      "onboard_time": 1692453579,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376519,
       "num": 596737,
       "word": "年轻人脱发的四大原因",
       "onboard_time": 1692322714,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375817,
+      "num": 301730,
+      "word": "billkin",
+      "onboard_time": 1692455141,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 375335,
@@ -7163,6 +7179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 372513,
+      "num": 376277,
+      "word": "妻子背丈夫出诊30多年不离不弃",
+      "onboard_time": 1692450520,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 372418,
       "num": 372418,
       "word": "沈梦辰的红烧肉征服了匈牙利人",
@@ -7193,6 +7217,14 @@
       "onboard_time": 1691969366,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 370763,
+      "num": 279911,
+      "word": "尤长靖撮合那吾克热和张子豪现场加微信",
+      "onboard_time": 1692453040,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 370527,
@@ -7241,14 +7273,6 @@
       "onboard_time": 1692443856,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 368325,
-      "num": 376277,
-      "word": "妻子背丈夫出诊30多年不离不弃",
-      "onboard_time": 1692450520,
-      "rank": 34,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 368200,
@@ -7755,6 +7779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338974,
+      "num": 262516,
+      "word": "张晚意这纱防谁呢",
+      "onboard_time": 1692454540,
+      "rank": 32,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 337948,
       "num": 337948,
       "word": "张大大和成龙言承旭有同一个女主角",
@@ -7777,6 +7809,14 @@
       "onboard_time": 1692093638,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337371,
+      "num": 303941,
+      "word": "您的厕所搭子前来报到",
+      "onboard_time": 1692453040,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337194,
@@ -8563,6 +8603,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 301256,
+      "num": 301256,
+      "word": "主人回应废柴表情包柴犬去世",
+      "onboard_time": 1692452919,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 301252,
       "num": 301252,
       "word": "男人最好的医美 电竞说唱乐队",
@@ -8651,14 +8699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 297993,
-      "num": 297993,
-      "word": "主人回应废柴表情包柴犬去世",
-      "onboard_time": 1692452919,
-      "rank": 24,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 297949,
       "num": 733687,
       "word": "涉诈嫌犯看孤注一掷被抓",
@@ -8673,14 +8713,6 @@
       "onboard_time": 1692010236,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 297846,
-      "num": 279911,
-      "word": "尤长靖撮合那吾克热和张子豪现场加微信",
-      "onboard_time": 1692453040,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 297756,
@@ -8851,14 +8883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 292345,
-      "num": 208660,
-      "word": "于文文的青春是周杰伦",
-      "onboard_time": 1692453880,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 292137,
       "num": 262300,
       "word": "于适回应票房过20亿表演龙吸水",
@@ -8969,14 +8993,6 @@
       "onboard_time": 1692285885,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 287945,
-      "num": 287945,
-      "word": "您的厕所搭子前来报到",
-      "onboard_time": 1692453040,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287920,
@@ -10211,6 +10227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253809,
+      "num": 253809,
+      "word": "i人社交现状",
+      "onboard_time": 1692451962,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 253375,
       "num": 253375,
       "word": "张子枫脏脏包造型",
@@ -10441,6 +10465,14 @@
       "onboard_time": 1692155553,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245790,
+      "num": 211203,
+      "word": "严浩翔的耳骨夹",
+      "onboard_time": 1692453162,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 245554,
@@ -10961,14 +10993,6 @@
       "onboard_time": 1692184294,
       "rank": 48,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 232095,
-      "num": 200157,
-      "word": "严浩翔的耳骨夹",
-      "onboard_time": 1692453162,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 231753,
@@ -11619,6 +11643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213965,
+      "num": 213965,
+      "word": "吉林女生体制内离职打零工创业",
+      "onboard_time": 1692455322,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213920,
       "num": 213920,
       "word": "小夭把鱼丹紫还给涂山璟",
@@ -11633,14 +11665,6 @@
       "onboard_time": 1692336517,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213681,
-      "num": 213681,
-      "word": "i人社交现状",
-      "onboard_time": 1692451962,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 213511,
@@ -12371,6 +12395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201537,
+      "num": 211310,
+      "word": "中超",
+      "onboard_time": 1692454660,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201452,
       "num": 201452,
       "word": "XYG赛训组",
@@ -12508,7 +12540,7 @@
     },
     {
       "raw_hot": 200175,
-      "num": 200175,
+      "num": 210882,
       "word": "徐杰告别赵睿",
       "onboard_time": 1692452800,
       "rank": 38,
@@ -13065,6 +13097,14 @@
       "onboard_time": 1692195160,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191591,
+      "num": 211138,
+      "word": "利物浦vs伯恩茅斯",
+      "onboard_time": 1692454363,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 191585,
@@ -14307,6 +14347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154983,
+      "num": 210917,
+      "word": "交警让女子戴头盔救了她一命",
+      "onboard_time": 1692454779,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154186,
       "num": 154186,
       "word": "用TVB的方式打开防风邶",
@@ -14881,14 +14929,6 @@
       "onboard_time": 1692258881,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 130422,
-      "num": 200122,
-      "word": "利物浦vs伯恩茅斯",
-      "onboard_time": 1692454363,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 129134,
@@ -15771,6 +15811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64971,
+      "num": 367537,
+      "word": "武警战士撤离市民从天黑送到天亮",
+      "onboard_time": 1692453642,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64763,
       "num": 64763,
       "word": "凯恩首秀传射",
@@ -16265,14 +16313,6 @@
       "onboard_time": 1692041714,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20115,
-      "num": 367537,
-      "word": "武警战士撤离市民从天黑送到天亮",
-      "onboard_time": 1692453642,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16706,

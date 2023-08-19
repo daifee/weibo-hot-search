@@ -1,6 +1,6 @@
 {
   "startTime": 1692375663507,
-  "endTime": 1692454404716,
+  "endTime": 1692455624142,
   "band_list": [
     {
       "raw_hot": 3165002,
@@ -113,6 +113,14 @@
       "onboard_time": 1692441574,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1673428,
+      "num": 1673428,
+      "word": "800多赞的朋友圈长什么样",
+      "onboard_time": 1692451239,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 1662766,
@@ -233,14 +241,6 @@
       "onboard_time": 1692448297,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1287909,
-      "num": 1287909,
-      "word": "800多赞的朋友圈长什么样",
-      "onboard_time": 1692451239,
-      "rank": 31,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 1281959,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 846033,
+      "num": 846033,
+      "word": "电影消失的她",
+      "onboard_time": 1692452441,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 845521,
       "num": 845521,
       "word": "麻醉医生说请别叫我麻醉师",
@@ -483,14 +491,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 721456,
-      "num": 333318,
-      "word": "电影消失的她",
-      "onboard_time": 1692452441,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 679902,
       "num": 380475,
       "word": "微信朋友圈的图片褪色了",
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 643968,
-      "num": 355934,
+      "num": 362892,
       "word": "长相思剧组hi6收视率",
       "onboard_time": 1692451661,
       "rank": 34,
@@ -699,6 +699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 502821,
+      "num": 349573,
+      "word": "刘波少爷哭了",
+      "onboard_time": 1692453579,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 497715,
       "num": 352515,
       "word": "大宋探案局定档",
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 455438,
-      "num": 455438,
+      "num": 1124453,
       "word": "东部战区位台岛周边海空联合演训",
       "onboard_time": 1692409595,
       "rank": 29,
@@ -881,6 +889,14 @@
       "onboard_time": 1692428971,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 411058,
+      "num": 304870,
+      "word": "于文文的青春是周杰伦",
+      "onboard_time": 1692453880,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 408419,
@@ -972,7 +988,7 @@
     },
     {
       "raw_hot": 388541,
-      "num": 335057,
+      "num": 347212,
       "word": "杜锋告别赵睿欢迎周琦",
       "onboard_time": 1692452739,
       "rank": 18,
@@ -1011,12 +1027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376910,
-      "num": 200118,
-      "word": "刘波少爷哭了",
-      "onboard_time": 1692453579,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 375817,
+      "num": 301730,
+      "word": "billkin",
+      "onboard_time": 1692455141,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 373749,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1692421596,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 372513,
+      "num": 376277,
+      "word": "妻子背丈夫出诊30多年不离不弃",
+      "onboard_time": 1692450520,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 372418,
@@ -1043,20 +1067,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370763,
+      "num": 279911,
+      "word": "尤长靖撮合那吾克热和张子豪现场加微信",
+      "onboard_time": 1692453040,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368995,
       "num": 368995,
       "word": "T1锁定S13资格",
       "onboard_time": 1692443856,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 368325,
-      "num": 376277,
-      "word": "妻子背丈夫出诊30多年不离不弃",
-      "onboard_time": 1692450520,
-      "rank": 34,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 363791,
@@ -1153,6 +1177,22 @@
       "onboard_time": 1692437734,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338974,
+      "num": 262516,
+      "word": "张晚意这纱防谁呢",
+      "onboard_time": 1692454540,
+      "rank": 32,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 337371,
+      "num": 303941,
+      "word": "您的厕所搭子前来报到",
+      "onboard_time": 1692453040,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336239,
@@ -1355,20 +1395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297993,
-      "num": 297993,
+      "raw_hot": 301256,
+      "num": 301256,
       "word": "主人回应废柴表情包柴犬去世",
       "onboard_time": 1692452919,
       "rank": 24,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 297846,
-      "num": 279911,
-      "word": "尤长靖撮合那吾克热和张子豪现场加微信",
-      "onboard_time": 1692453040,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 297215,
@@ -1377,14 +1409,6 @@
       "onboard_time": 1692410614,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292345,
-      "num": 208660,
-      "word": "于文文的青春是周杰伦",
-      "onboard_time": 1692453880,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 289563,
@@ -1401,14 +1425,6 @@
       "onboard_time": 1692428854,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 287945,
-      "num": 287945,
-      "word": "您的厕所搭子前来报到",
-      "onboard_time": 1692453040,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282833,
@@ -1611,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253809,
+      "num": 253809,
+      "word": "i人社交现状",
+      "onboard_time": 1692451962,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250499,
       "num": 250499,
       "word": "鹿晗与芦苇合照",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1692431194,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245790,
+      "num": 211203,
+      "word": "严浩翔的耳骨夹",
+      "onboard_time": 1692453162,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 245554,
@@ -1713,14 +1745,6 @@
       "onboard_time": 1692369641,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 232095,
-      "num": 200157,
-      "word": "严浩翔的耳骨夹",
-      "onboard_time": 1692453162,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 231753,
@@ -1867,20 +1891,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213965,
+      "num": 213965,
+      "word": "吉林女生体制内离职打零工创业",
+      "onboard_time": 1692455322,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213794,
       "num": 213794,
       "word": "好声音寥寥数行回应就是对逝者的尊重吗",
       "onboard_time": 1692356614,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213681,
-      "num": 213681,
-      "word": "i人社交现状",
-      "onboard_time": 1692451962,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 213394,
@@ -2067,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201537,
+      "num": 211310,
+      "word": "中超",
+      "onboard_time": 1692454660,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201005,
       "num": 201005,
       "word": "那些年我们奇怪的收集癖好",
@@ -2084,7 +2116,7 @@
     },
     {
       "raw_hot": 200175,
-      "num": 200175,
+      "num": 210882,
       "word": "徐杰告别赵睿",
       "onboard_time": 1692452800,
       "rank": 38,
@@ -2201,6 +2233,14 @@
       "onboard_time": 1692417513,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191591,
+      "num": 211138,
+      "word": "利物浦vs伯恩茅斯",
+      "onboard_time": 1692454363,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 191404,
@@ -2443,6 +2483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154983,
+      "num": 210917,
+      "word": "交警让女子戴头盔救了她一命",
+      "onboard_time": 1692454779,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154186,
       "num": 154186,
       "word": "用TVB的方式打开防风邶",
@@ -2649,14 +2697,6 @@
       "onboard_time": 1692408457,
       "rank": 48,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 130422,
-      "num": 200122,
-      "word": "利物浦vs伯恩茅斯",
-      "onboard_time": 1692454363,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 129969,
@@ -2883,6 +2923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64971,
+      "num": 367537,
+      "word": "武警战士撤离市民从天黑送到天亮",
+      "onboard_time": 1692453642,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64763,
       "num": 64763,
       "word": "凯恩首秀传射",
@@ -2985,14 +3033,6 @@
       "onboard_time": 1692390135,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20115,
-      "num": 367537,
-      "word": "武警战士撤离市民从天黑送到天亮",
-      "onboard_time": 1692453642,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16166,
