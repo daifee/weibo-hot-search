@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692486911145,
+  "endTime": 1692488030639,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 671412,
+      "num": 671412,
+      "word": "刘昊然周冬雨",
+      "onboard_time": 1692487221,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 662653,
       "num": 662653,
       "word": "幂式穿搭真的绝",
@@ -107,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444680,
+      "num": 429293,
+      "word": "解救被困缅甸的中科院博士",
+      "onboard_time": 1692429873,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435596,
       "num": 247533,
       "word": "葡萄的萄还能组什么词",
       "onboard_time": 1692456281,
       "rank": 20,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 429293,
-      "num": 429293,
-      "word": "解救被困缅甸的中科院博士",
-      "onboard_time": 1692429873,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 422225,
@@ -307,12 +315,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236457,
+      "num": 176750,
+      "word": "第一次见女主说男主年老色衰的",
+      "onboard_time": 1692486862,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 230543,
+      "num": 230543,
+      "word": "颖儿拍付辛博看周杰伦演唱会",
+      "onboard_time": 1692486862,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219351,
       "num": 172226,
       "word": "长相思第二季的防风邶剧照",
       "onboard_time": 1692441574,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213703,
+      "num": 110308,
+      "word": "薛之谦与一家三口的幽默对话",
+      "onboard_time": 1692487041,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 213642,
@@ -419,6 +451,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173723,
+      "num": 137548,
+      "word": "境外诈骗目标多为教师医生等编制人员",
+      "onboard_time": 1692486320,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172469,
+      "num": 172469,
+      "word": "长相思第二季或将七夕播出",
+      "onboard_time": 1692487463,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 170514,
+      "num": 156074,
+      "word": "林俊杰被激光笔照眼",
+      "onboard_time": 1692487643,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 168845,
       "num": 135490,
       "word": "你好星期六下周是莲花楼",
@@ -433,6 +489,30 @@
       "onboard_time": 1692460538,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161184,
+      "num": 134633,
+      "word": "王鹤棣的蒙D奇",
+      "onboard_time": 1692487463,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147058,
+      "num": 133982,
+      "word": "周冬雨回应燃冬情感关系",
+      "onboard_time": 1692487344,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 142019,
+      "num": 110298,
+      "word": "秘鲁一11岁女童遭继父性侵堕胎被拒",
+      "onboard_time": 1692487584,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136988,
@@ -459,12 +539,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122909,
+      "num": 122909,
+      "word": "内娱天选仙侠剧男主",
+      "onboard_time": 1692487160,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121988,
       "num": 159211,
       "word": "久哲发文回应",
       "onboard_time": 1692450758,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106614,
+      "num": 106614,
+      "word": "西安出了手持折扇交通卡",
+      "onboard_time": 1692480735,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103659,
@@ -483,28 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95511,
-      "num": 95511,
-      "word": "西安出了手持折扇交通卡",
-      "onboard_time": 1692480735,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94907,
       "num": 94907,
       "word": "所有人隐藏亚轩是守能者",
       "onboard_time": 1692480314,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94639,
-      "num": 94639,
-      "word": "境外诈骗目标多为教师医生等编制人员",
-      "onboard_time": 1692486320,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91117,
@@ -515,6 +595,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89658,
+      "num": 89658,
+      "word": "西湖偶遇向佐郭碧婷",
+      "onboard_time": 1692487884,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89589,
+      "num": 89589,
+      "word": "巴黎街头看到这个纹身忍不住了",
+      "onboard_time": 1692487705,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 83281,
+      "num": 83281,
+      "word": "别催单外卖小哥可能正在指挥交通",
+      "onboard_time": 1692486981,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83171,
       "num": 99062,
       "word": "这次专家说得没错",
@@ -523,16 +627,32 @@
       "category": "情感"
     },
     {
-      "raw_hot": 80003,
-      "num": 80003,
+      "raw_hot": 83073,
+      "num": 83073,
+      "word": "台岛周边我舰抵近台舰",
+      "onboard_time": 1692487944,
+      "rank": 42,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 80088,
+      "num": 80088,
       "word": "第一次看海有点害羞",
       "onboard_time": 1692484638,
       "rank": 32,
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 75004,
+      "num": 75004,
+      "word": "Cheems去世",
+      "onboard_time": 1692488005,
+      "rank": 48,
+      "category": "其它"
+    },
+    {
       "raw_hot": 72093,
-      "num": 72093,
+      "num": 74698,
       "word": "没有一口奶粉是白喝的",
       "onboard_time": 1692482655,
       "rank": 46,
@@ -561,22 +681,6 @@
       "onboard_time": 1692409595,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49178,
-      "num": 47636,
-      "word": "颖儿拍付辛博看周杰伦演唱会",
-      "onboard_time": 1692486862,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 48000,
-      "num": 48000,
-      "word": "第一次见女主说男主年老色衰的",
-      "onboard_time": 1692486862,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 20509,

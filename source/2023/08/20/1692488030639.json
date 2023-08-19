@@ -1,0 +1,410 @@
+{
+  "runTime": 1692488030639,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3346114,
+        "num": 3346114,
+        "word": "台湾当归",
+        "onboard_time": 1692461075,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 671412,
+        "num": 671412,
+        "word": "刘昊然周冬雨",
+        "onboard_time": 1692487221,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23036,
+        "num": 557137,
+        "word": "东部战区位台岛周边海空联合演训",
+        "onboard_time": 1692409595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457360,
+        "num": 457360,
+        "word": "女生大专休学4年复读圆梦北影",
+        "onboard_time": 1692461734,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 328424,
+        "num": 328424,
+        "word": "周杰伦看到自己05年演唱的票根",
+        "onboard_time": 1692460357,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 444680,
+        "num": 324342,
+        "word": "解救被困缅甸的中科院博士",
+        "onboard_time": 1692429873,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270553,
+        "num": 270553,
+        "word": "魏大勋泼李雪琴一杯水后在角落里自罚一杯",
+        "onboard_time": 1692457061,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230543,
+        "num": 230543,
+        "word": "颖儿拍付辛博看周杰伦演唱会",
+        "onboard_time": 1692486862,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210798,
+        "num": 210798,
+        "word": "吉林女生体制内离职打零工创业",
+        "onboard_time": 1692455322,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178105,
+        "num": 178105,
+        "word": "幂式穿搭真的绝",
+        "onboard_time": 1692458143,
+        "rank": 9,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 236457,
+        "num": 176750,
+        "word": "第一次见女主说男主年老色衰的",
+        "onboard_time": 1692486862,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191947,
+        "num": 174722,
+        "word": "周冬雨刘昊然隔得好远",
+        "onboard_time": 1692459277,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172469,
+        "num": 172469,
+        "word": "长相思第二季或将七夕播出",
+        "onboard_time": 1692487463,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162913,
+        "num": 162913,
+        "word": "隔夜水不能喝的原因",
+        "onboard_time": 1692427594,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136805,
+        "num": 156743,
+        "word": "妻子背丈夫出诊30多年不离不弃",
+        "onboard_time": 1692450520,
+        "rank": 14,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 170514,
+        "num": 156074,
+        "word": "林俊杰被激光笔照眼",
+        "onboard_time": 1692487643,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155349,
+        "num": 155349,
+        "word": "谁能救救孟美岐",
+        "onboard_time": 1692447638,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149290,
+        "num": 149290,
+        "word": "B站广告涉嫌用AI洗稿网易游戏",
+        "onboard_time": 1692450399,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147514,
+        "num": 147514,
+        "word": "山东一地让独居老人吃上免费午餐",
+        "onboard_time": 1692452021,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139304,
+        "num": 139304,
+        "word": "戴珍珠该穿什么",
+        "onboard_time": 1692456399,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 225435,
+        "num": 138837,
+        "word": "葡萄的萄还能组什么词",
+        "onboard_time": 1692456281,
+        "rank": 20,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 173723,
+        "num": 137548,
+        "word": "境外诈骗目标多为教师医生等编制人员",
+        "onboard_time": 1692486320,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172202,
+        "num": 135815,
+        "word": "男孩爬山引来知了爬满身",
+        "onboard_time": 1692458078,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161184,
+        "num": 134633,
+        "word": "王鹤棣的蒙D奇",
+        "onboard_time": 1692487463,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147058,
+        "num": 133982,
+        "word": "周冬雨回应燃冬情感关系",
+        "onboard_time": 1692487344,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133197,
+        "num": 133197,
+        "word": "长相思第二季",
+        "onboard_time": 1692443616,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122909,
+        "num": 122909,
+        "word": "内娱天选仙侠剧男主",
+        "onboard_time": 1692487160,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113158,
+        "num": 113158,
+        "word": "肚皮贴贴才是中年男人的浪漫",
+        "onboard_time": 1692459341,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112521,
+        "num": 112521,
+        "word": "800多赞的朋友圈长什么样",
+        "onboard_time": 1692451239,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112259,
+        "num": 112259,
+        "word": "你好星期六下周是莲花楼",
+        "onboard_time": 1692451600,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452920,
+        "num": 110917,
+        "word": "多位明星曝中国好声音内幕",
+        "onboard_time": 1692421474,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213703,
+        "num": 110308,
+        "word": "薛之谦与一家三口的幽默对话",
+        "onboard_time": 1692487041,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142019,
+        "num": 110298,
+        "word": "秘鲁一11岁女童遭继父性侵堕胎被拒",
+        "onboard_time": 1692487584,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106614,
+        "num": 106614,
+        "word": "西安出了手持折扇交通卡",
+        "onboard_time": 1692480735,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100677,
+        "num": 100677,
+        "word": "王弘毅让张晚意让一让",
+        "onboard_time": 1692483138,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96699,
+        "num": 96699,
+        "word": "福宝又吃醋了爷爷喊出夹子音",
+        "onboard_time": 1692449677,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96543,
+        "num": 96543,
+        "word": "主人回应废柴表情包柴犬去世",
+        "onboard_time": 1692452919,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 90896,
+        "num": 90896,
+        "word": "玲花不喜欢别人叫她全名的原因",
+        "onboard_time": 1692439772,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89658,
+        "num": 89658,
+        "word": "西湖偶遇向佐郭碧婷",
+        "onboard_time": 1692487884,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89589,
+        "num": 89589,
+        "word": "巴黎街头看到这个纹身忍不住了",
+        "onboard_time": 1692487705,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84763,
+        "num": 84763,
+        "word": "王鹤棣音乐节",
+        "onboard_time": 1692456521,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83281,
+        "num": 83281,
+        "word": "别催单外卖小哥可能正在指挥交通",
+        "onboard_time": 1692486981,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83073,
+        "num": 83073,
+        "word": "台岛周边我舰抵近台舰",
+        "onboard_time": 1692487944,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 81995,
+        "num": 81995,
+        "word": "有这样的班主任我也能考上211",
+        "onboard_time": 1692457120,
+        "rank": 43,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 80959,
+        "num": 80959,
+        "word": "张晚意看到杨紫邓为同框的反应",
+        "onboard_time": 1692450818,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80088,
+        "num": 80088,
+        "word": "第一次看海有点害羞",
+        "onboard_time": 1692484638,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 76838,
+        "num": 76838,
+        "word": "放8个鸡蛋的蛋炒饭",
+        "onboard_time": 1692457001,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76581,
+        "num": 76581,
+        "word": "尤长靖哭了",
+        "onboard_time": 1692465985,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75004,
+        "num": 75004,
+        "word": "Cheems去世",
+        "onboard_time": 1692488005,
+        "rank": 48,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 63288,
+        "num": 74698,
+        "word": "没有一口奶粉是白喝的",
+        "onboard_time": 1692482655,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
