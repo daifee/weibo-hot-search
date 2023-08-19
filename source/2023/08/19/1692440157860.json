@@ -1,0 +1,410 @@
+{
+  "runTime": 1692440157860,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1172274,
+        "num": 1172274,
+        "word": "四川地震",
+        "onboard_time": 1692430834,
+        "rank": 0,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 642448,
+        "num": 822886,
+        "word": "爸爸4年暑假接送26岁女儿上下班",
+        "onboard_time": 1692433114,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47680,
+        "num": 799404,
+        "word": "今天第6个中国医师节",
+        "onboard_time": 1692429512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784158,
+        "num": 784158,
+        "word": "质疑左立理解左立成为左立",
+        "onboard_time": 1692439174,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327899,
+        "num": 772195,
+        "word": "他拿了1瓶水放回来8提水",
+        "onboard_time": 1692432574,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770442,
+        "num": 770442,
+        "word": "花花急眼",
+        "onboard_time": 1692435574,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197831,
+        "num": 766765,
+        "word": "浙江一学校的军训是集体摸鱼",
+        "onboard_time": 1692426575,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 629765,
+        "num": 761022,
+        "word": "隔夜水不能喝的原因",
+        "onboard_time": 1692427594,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376092,
+        "num": 752370,
+        "word": "张晚意演我看檀健次跳舞",
+        "onboard_time": 1692437915,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326655,
+        "num": 747538,
+        "word": "排球少年",
+        "onboard_time": 1692434135,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1082619,
+        "num": 743621,
+        "word": "王丽坤化最淡的妆演恶女",
+        "onboard_time": 1692435157,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 739382,
+        "num": 739382,
+        "word": "解救被困缅甸的中科院博士",
+        "onboard_time": 1692429873,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675305,
+        "num": 675305,
+        "word": "檀健次胖过没丑过",
+        "onboard_time": 1692435215,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470416,
+        "num": 470416,
+        "word": "黄子韬左立姜潮徐艺洋鑫仔淘汰",
+        "onboard_time": 1692436536,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38976,
+        "num": 399076,
+        "word": "9岁女孩患白血病11岁哥哥摆摊筹钱",
+        "onboard_time": 1692439236,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389624,
+        "num": 389624,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1692437018,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 374856,
+        "num": 374856,
+        "word": "一张银行卡最多能存多少钱",
+        "onboard_time": 1692426931,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297949,
+        "num": 297949,
+        "word": "长相思爆了对谁的影响最大",
+        "onboard_time": 1692430114,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293770,
+        "num": 293770,
+        "word": "杨紫邓为打一把伞",
+        "onboard_time": 1692435455,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290732,
+        "num": 290732,
+        "word": "医生说的空腹究竟是多久",
+        "onboard_time": 1692428971,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373915,
+        "num": 290710,
+        "word": "终于知道1TB手机是谁在用了",
+        "onboard_time": 1692422254,
+        "rank": 20,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 344983,
+        "num": 289760,
+        "word": "金晨孤注一掷25亿剧照",
+        "onboard_time": 1692437734,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288075,
+        "num": 288075,
+        "word": "越亲和的女生越容易被压榨",
+        "onboard_time": 1692424414,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266818,
+        "num": 266818,
+        "word": "白敬亭刘昊然魏大勋明天见",
+        "onboard_time": 1692436176,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265212,
+        "num": 265212,
+        "word": "男子家全屋使用不锈钢家具惊呆女友",
+        "onboard_time": 1692438635,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263219,
+        "num": 263219,
+        "word": "孤注一掷票房破25亿",
+        "onboard_time": 1692437195,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231675,
+        "num": 231675,
+        "word": "孤注一掷打破2023年连续破亿纪录",
+        "onboard_time": 1692436773,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220650,
+        "num": 220650,
+        "word": "玲花不喜欢别人叫她全名的原因",
+        "onboard_time": 1692439772,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215958,
+        "num": 215958,
+        "word": "演技带感的疯批男主",
+        "onboard_time": 1692438995,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211129,
+        "num": 211129,
+        "word": "女子称花900买票看演唱会全程看不到人",
+        "onboard_time": 1692425313,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1029320,
+        "num": 207211,
+        "word": "多位明星曝中国好声音内幕",
+        "onboard_time": 1692421474,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209092,
+        "num": 205256,
+        "word": "封神第一部票房破22亿",
+        "onboard_time": 1692439772,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300493,
+        "num": 204696,
+        "word": "Cheems去汪星了",
+        "onboard_time": 1692439354,
+        "rank": 32,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 203109,
+        "num": 203109,
+        "word": "朱一龙路演",
+        "onboard_time": 1692436597,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196668,
+        "num": 196668,
+        "word": "Angelababy张大大聊和杨幂组队",
+        "onboard_time": 1692433537,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189939,
+        "num": 189939,
+        "word": "东部战区位台岛演训长时段抵近慑压",
+        "onboard_time": 1692424352,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 186483,
+        "num": 186483,
+        "word": "尤长靖芭比粉西装",
+        "onboard_time": 1692439715,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171347,
+        "num": 171347,
+        "word": "T1对战KT",
+        "onboard_time": 1692429454,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167283,
+        "num": 167283,
+        "word": "谁知道怎么跟理发师形容这个发型",
+        "onboard_time": 1692435814,
+        "rank": 38,
+        "category": "情感,美妆"
+      },
+      {
+        "raw_hot": 165438,
+        "num": 165438,
+        "word": "如虎添毅",
+        "onboard_time": 1692436836,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153865,
+        "num": 165326,
+        "word": "Hero对战TES",
+        "onboard_time": 1692438756,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152454,
+        "num": 165191,
+        "word": "商家回应售价2.7万玉镯实际价值两三百",
+        "onboard_time": 1692429454,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 152000,
+        "num": 165126,
+        "word": "周深最没想到国外听过他唱歌",
+        "onboard_time": 1692432574,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143468,
+        "num": 165035,
+        "word": "黄子韬评价徐艺洋",
+        "onboard_time": 1692432456,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143272,
+        "num": 164923,
+        "word": "魏大勋听杨紫叫哥哥的表情",
+        "onboard_time": 1692422611,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142913,
+        "num": 164756,
+        "word": "公交车开一路我的脸丢一路",
+        "onboard_time": 1692434615,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136303,
+        "num": 164648,
+        "word": "周深演唱会排练",
+        "onboard_time": 1692437195,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128317,
+        "num": 164462,
+        "word": "教练月光 真人真事改编大型连续剧",
+        "onboard_time": 1692428493,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108466,
+        "num": 164391,
+        "word": "烫金方",
+        "onboard_time": 1692434193,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104893,
+        "num": 164224,
+        "word": "你好星期六弥补了长相思意难平",
+        "onboard_time": 1692425074,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
