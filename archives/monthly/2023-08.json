@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692440157860,
+  "endTime": 1692441244316,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -5915,6 +5915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1131627,
+      "num": 784158,
+      "word": "质疑左立理解左立成为左立",
+      "onboard_time": 1692439174,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1131584,
       "num": 335636,
       "word": "哇唧唧哇简介没看见肖战",
@@ -6721,6 +6729,14 @@
       "onboard_time": 1691192790,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1050912,
+      "num": 367255,
+      "word": "玲花不喜欢别人叫她全名的原因",
+      "onboard_time": 1692439772,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1050183,
@@ -10177,14 +10193,6 @@
       "onboard_time": 1691494057,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 784158,
-      "num": 784158,
-      "word": "质疑左立理解左立成为左立",
-      "onboard_time": 1692439174,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 782443,
@@ -13915,6 +13923,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 619123,
+      "num": 366582,
+      "word": "曾志伟被曝住院动手术",
+      "onboard_time": 1692440254,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619026,
       "num": 638501,
       "word": "夏威夷大火约100人跳太平洋逃生",
@@ -14561,6 +14577,14 @@
       "onboard_time": 1690868433,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 595052,
+      "num": 595052,
+      "word": "Cheems去汪星了",
+      "onboard_time": 1692439354,
+      "rank": 32,
+      "category": "网红,游戏"
     },
     {
       "raw_hot": 594678,
@@ -22739,6 +22763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 402069,
+      "num": 389624,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1692437018,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 401945,
       "num": 401945,
       "word": "丽水一无人售瓜摊1天收入2000多元",
@@ -23283,6 +23315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392047,
+      "num": 752370,
+      "word": "张晚意演我看檀健次跳舞",
+      "onboard_time": 1692437915,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391963,
       "num": 446539,
       "word": "警察叔叔我们捡到一个小妹妹",
@@ -23385,14 +23425,6 @@
       "onboard_time": 1692162463,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 389624,
-      "num": 389624,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1692437018,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 389623,
@@ -24257,14 +24289,6 @@
       "onboard_time": 1691249263,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 376092,
-      "num": 752370,
-      "word": "张晚意演我看檀健次跳舞",
-      "onboard_time": 1692437915,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 376024,
@@ -26180,7 +26204,7 @@
     },
     {
       "raw_hot": 344983,
-      "num": 289760,
+      "num": 301751,
       "word": "金晨孤注一掷25亿剧照",
       "onboard_time": 1692437734,
       "rank": 21,
@@ -29113,14 +29137,6 @@
       "onboard_time": 1691483977,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 300493,
-      "num": 204696,
-      "word": "Cheems去汪星了",
-      "onboard_time": 1692439354,
-      "rank": 32,
-      "category": "网红,游戏"
     },
     {
       "raw_hot": 300473,
@@ -36579,14 +36595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220650,
-      "num": 220650,
-      "word": "玲花不喜欢别人叫她全名的原因",
-      "onboard_time": 1692439772,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220545,
       "num": 200889,
       "word": "青岛音乐节",
@@ -37713,6 +37721,14 @@
       "onboard_time": 1691574639,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 211675,
+      "num": 367707,
+      "word": "监控下医生向病人家属强行塞红包",
+      "onboard_time": 1692440254,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211570,
@@ -41091,6 +41107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192837,
+      "num": 206082,
+      "word": "灼灼风流",
+      "onboard_time": 1692440316,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192780,
       "num": 241808,
       "word": "女爱豆日常固定塑形流程",
@@ -42228,7 +42252,7 @@
     },
     {
       "raw_hot": 186483,
-      "num": 186483,
+      "num": 206068,
       "word": "尤长靖芭比粉西装",
       "onboard_time": 1692439715,
       "rank": 36,
@@ -42641,6 +42665,14 @@
       "onboard_time": 1691473120,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182742,
+      "num": 206080,
+      "word": "冯绍峰45岁状态",
+      "onboard_time": 1692441216,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 182738,
@@ -44331,6 +44363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158705,
+      "num": 206073,
+      "word": "Hero对战TES",
+      "onboard_time": 1692438756,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158434,
       "num": 158434,
       "word": "女孩捡瓶子攒的60元捐给韩红基金会",
@@ -44579,14 +44619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153865,
-      "num": 165326,
-      "word": "Hero对战TES",
-      "onboard_time": 1692438756,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 153822,
       "num": 204751,
       "word": "听歌时的离谱空耳",
@@ -44649,6 +44681,14 @@
       "onboard_time": 1690966831,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152782,
+      "num": 206071,
+      "word": "秦牛正威为不妥回复致歉",
+      "onboard_time": 1692441216,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 152734,
@@ -45289,6 +45329,14 @@
       "onboard_time": 1692154414,
       "rank": 39,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 142129,
+      "num": 206069,
+      "word": "2023PEL夏决",
+      "onboard_time": 1692440675,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 142072,
@@ -46153,6 +46201,14 @@
       "onboard_time": 1692077917,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127281,
+      "num": 206065,
+      "word": "这是相柳剪的吧",
+      "onboard_time": 1692441096,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 126737,
@@ -48027,6 +48083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73357,
+      "num": 399076,
+      "word": "9岁女孩患白血病11岁哥哥摆摊筹钱",
+      "onboard_time": 1692439236,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73303,
       "num": 113470,
       "word": "监控下的世界有多离谱",
@@ -48975,14 +49039,6 @@
       "num": 482116,
       "word": "8旬退休医生义诊24年不收费",
       "onboard_time": 1692177159,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38976,
-      "num": 399076,
-      "word": "9岁女孩患白血病11岁哥哥摆摊筹钱",
-      "onboard_time": 1692439236,
       "rank": 14,
       "category": "社会新闻"
     },
