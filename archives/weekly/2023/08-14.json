@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692462938646,
+  "endTime": 1692465257965,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -43,20 +43,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7293759,
+      "num": 7963954,
+      "word": "台湾当归",
+      "onboard_time": 1692461075,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 5439650,
       "num": 1145290,
       "word": "tangoz报警",
       "onboard_time": 1692105645,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5070233,
-      "num": 6320233,
-      "word": "台湾当归",
-      "onboard_time": 1692461075,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 3754310,
@@ -4867,6 +4867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 521458,
+      "num": 521458,
+      "word": "女生大专休学4年复读圆梦北影",
+      "onboard_time": 1692461734,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 519110,
       "num": 519110,
       "word": "金晨谈安娜",
@@ -7539,6 +7547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360343,
+      "num": 360343,
+      "word": "当年暴火的台偶剧歌曲",
+      "onboard_time": 1692462996,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 359627,
       "num": 330937,
       "word": "邓为涂山璟继任族长剧照",
@@ -8905,14 +8921,6 @@
       "onboard_time": 1692105584,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 296512,
-      "num": 296512,
-      "word": "女生大专休学4年复读圆梦北影",
-      "onboard_time": 1692461734,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 296361,
@@ -10545,6 +10553,14 @@
       "onboard_time": 1691982874,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249272,
+      "num": 191334,
+      "word": "Jennie美式甜心",
+      "onboard_time": 1692463774,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 249030,
@@ -14089,6 +14105,14 @@
       "onboard_time": 1692284147,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175368,
+      "num": 175368,
+      "word": "杨千嬅演唱会",
+      "onboard_time": 1692463175,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 175174,
