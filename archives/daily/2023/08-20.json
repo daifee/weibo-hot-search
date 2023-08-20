@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692508465722,
+  "endTime": 1692509625172,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3165667,
+      "num": 3165667,
+      "word": "张伟丽",
+      "onboard_time": 1692500436,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2145851,
       "num": 2145851,
       "word": "Cheems去世",
@@ -43,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1947986,
+      "num": 463933,
+      "word": "刘亦菲胸前痣",
+      "onboard_time": 1692506193,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1947722,
       "num": 1947722,
       "word": "梅西",
@@ -57,22 +73,6 @@
       "onboard_time": 1692487221,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1872914,
-      "num": 463933,
-      "word": "刘亦菲胸前痣",
-      "onboard_time": 1692506193,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1869954,
-      "num": 1869954,
-      "word": "张伟丽",
-      "onboard_time": 1692500436,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 1640389,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1350933,
+      "num": 1350933,
+      "word": "游客被吸入水上乐园排水口身亡",
+      "onboard_time": 1692505238,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1319552,
       "num": 1079858,
       "word": "痞幼追星Angelababy",
@@ -129,14 +137,6 @@
       "onboard_time": 1692491369,
       "rank": 5,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1265025,
-      "num": 1265025,
-      "word": "游客被吸入水上乐园排水口身亡",
-      "onboard_time": 1692505238,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1122300,
@@ -171,6 +171,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 980923,
+      "num": 980923,
+      "word": "妈妈想女儿进厂女儿称不想拿死工资",
+      "onboard_time": 1692506676,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 964630,
       "num": 964630,
       "word": "以为是减脂实际在增肥的行为",
@@ -193,6 +201,14 @@
       "onboard_time": 1692499535,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 862364,
+      "num": 463859,
+      "word": "Jennie一口气发了32张照片",
+      "onboard_time": 1692506858,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 802718,
@@ -235,14 +251,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 706100,
-      "num": 463859,
-      "word": "Jennie一口气发了32张照片",
-      "onboard_time": 1692506858,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 703378,
       "num": 703378,
       "word": "韩国女生是天生就会化妆吗",
@@ -275,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 668656,
+      "num": 668656,
+      "word": "科学家预测本世纪末地球将重置人口数量",
+      "onboard_time": 1692506676,
+      "rank": 20,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 662653,
       "num": 662653,
       "word": "幂式穿搭真的绝",
@@ -283,20 +299,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 661771,
-      "num": 463821,
-      "word": "妈妈想女儿进厂女儿称不想拿死工资",
-      "onboard_time": 1692506676,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 636655,
       "num": 636655,
       "word": "吉林女生体制内离职打零工创业",
       "onboard_time": 1692455322,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627581,
+      "num": 627581,
+      "word": "这期好六是魏大勋爆火之前录制的",
+      "onboard_time": 1692504398,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 603962,
@@ -361,6 +377,14 @@
       "onboard_time": 1692492692,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 551214,
+      "num": 200875,
+      "word": "周菲戈说对不起李玟",
+      "onboard_time": 1692509377,
+      "rank": 34,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 546015,
@@ -467,14 +491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 474179,
-      "num": 463782,
-      "word": "这期好六是魏大勋爆火之前录制的",
-      "onboard_time": 1692504398,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 458467,
       "num": 458467,
       "word": "B站广告涉嫌用AI洗稿网易游戏",
@@ -499,7 +515,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442477,
+      "raw_hot": 442757,
       "num": 442477,
       "word": "张伟丽把莱莫斯按地上猛锤",
       "onboard_time": 1692507158,
@@ -547,14 +563,6 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 428674,
-      "num": 372247,
-      "word": "科学家预测本世纪末地球将重置人口数量",
-      "onboard_time": 1692506676,
-      "rank": 20,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 426740,
       "num": 408465,
       "word": "赵露思或将演万渣朝凰",
@@ -577,6 +585,14 @@
       "onboard_time": 1692494736,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393802,
+      "num": 393802,
+      "word": "今天这期你好星期六观后感",
+      "onboard_time": 1692507518,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 390186,
@@ -739,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 306184,
-      "num": 306184,
-      "word": "今天这期你好星期六观后感",
-      "onboard_time": 1692507518,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 298362,
       "num": 380609,
       "word": "隔夜水不能喝的原因",
@@ -777,6 +785,14 @@
       "onboard_time": 1692500135,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289518,
+      "num": 289518,
+      "word": "心脏也会得癌症",
+      "onboard_time": 1692508715,
+      "rank": 23,
+      "category": "其它"
     },
     {
       "raw_hot": 284596,
@@ -1187,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184768,
+      "num": 184768,
+      "word": "男子抢劫吓哭店员顾客挺身而出",
+      "onboard_time": 1692509139,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184254,
       "num": 184254,
       "word": "UFC",
@@ -1267,12 +1291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163270,
+      "num": 163270,
+      "word": "张伟丽说我来自中国",
+      "onboard_time": 1692509317,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161184,
       "num": 134633,
       "word": "王鹤棣的蒙D奇",
       "onboard_time": 1692487463,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160254,
+      "num": 160254,
+      "word": "安乐传剧组hi6收视率",
+      "onboard_time": 1692509563,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 159589,
@@ -1337,6 +1377,14 @@
       "onboard_time": 1692450758,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109188,
+      "num": 453049,
+      "word": "80后中医曾用4元钱药方治好高烧不退的病人",
+      "onboard_time": 1692507637,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106614,
@@ -1427,19 +1475,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52193,
+      "num": 1587718,
+      "word": "当高燃BGM配上开渔季",
+      "onboard_time": 1692508297,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51570,
       "num": 1820054,
       "word": "东部战区位台岛周边海空联合演训",
       "onboard_time": 1692409595,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42902,
-      "num": 453049,
-      "word": "80后中医曾用4元钱药方治好高烧不退的病人",
-      "onboard_time": 1692507637,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1456,14 +1504,6 @@
       "word": "看灭火后消防员喝水速度破防了",
       "onboard_time": 1692479593,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7895,
-      "num": 1513245,
-      "word": "当高燃BGM配上开渔季",
-      "onboard_time": 1692508297,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

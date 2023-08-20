@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692508465722,
+  "endTime": 1692509625172,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -105,6 +105,14 @@
       "onboard_time": 1692079116,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3165667,
+      "num": 3165667,
+      "word": "张伟丽",
+      "onboard_time": 1692500436,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 3165002,
@@ -555,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1947986,
+      "num": 463933,
+      "word": "刘亦菲胸前痣",
+      "onboard_time": 1692506193,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1947722,
       "num": 1947722,
       "word": "梅西",
@@ -665,22 +681,6 @@
       "onboard_time": 1691991693,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1872914,
-      "num": 463933,
-      "word": "刘亦菲胸前痣",
-      "onboard_time": 1692506193,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1869954,
-      "num": 1869954,
-      "word": "张伟丽",
-      "onboard_time": 1692500436,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 1867921,
@@ -1331,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1350933,
+      "num": 1350933,
+      "word": "游客被吸入水上乐园排水口身亡",
+      "onboard_time": 1692505238,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1346965,
       "num": 995739,
       "word": "青岛音乐节取消",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1692491369,
       "rank": 5,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1265025,
-      "num": 1265025,
-      "word": "游客被吸入水上乐园排水口身亡",
-      "onboard_time": 1692505238,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1264764,
@@ -2179,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 980923,
+      "num": 980923,
+      "word": "妈妈想女儿进厂女儿称不想拿死工资",
+      "onboard_time": 1692506676,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 980356,
       "num": 480311,
       "word": "女生手术取出被戳进额头20年铅笔芯",
@@ -2577,6 +2585,14 @@
       "onboard_time": 1692249219,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862364,
+      "num": 463859,
+      "word": "Jennie一口气发了32张照片",
+      "onboard_time": 1692506858,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 860965,
@@ -3323,14 +3339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 706100,
-      "num": 463859,
-      "word": "Jennie一口气发了32张照片",
-      "onboard_time": 1692506858,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 706047,
       "num": 706047,
       "word": "四川内江地震",
@@ -3651,6 +3659,14 @@
       "category": "影视,游戏"
     },
     {
+      "raw_hot": 668656,
+      "num": 668656,
+      "word": "科学家预测本世纪末地球将重置人口数量",
+      "onboard_time": 1692506676,
+      "rank": 20,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 667281,
       "num": 667281,
       "word": "火树直播",
@@ -3705,14 +3721,6 @@
       "onboard_time": 1692076538,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 661771,
-      "num": 463821,
-      "word": "妈妈想女儿进厂女儿称不想拿死工资",
-      "onboard_time": 1692506676,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 660698,
@@ -3961,6 +3969,14 @@
       "onboard_time": 1692076238,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 627581,
+      "num": 627581,
+      "word": "这期好六是魏大勋爆火之前录制的",
+      "onboard_time": 1692504398,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 627554,
@@ -4777,6 +4793,14 @@
       "onboard_time": 1692450758,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 551214,
+      "num": 200875,
+      "word": "周菲戈说对不起李玟",
+      "onboard_time": 1692509377,
+      "rank": 34,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 551175,
@@ -5851,14 +5875,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 474179,
-      "num": 463782,
-      "word": "这期好六是魏大勋爆火之前录制的",
-      "onboard_time": 1692504398,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 474173,
       "num": 440720,
       "word": "丰隆角色号拉黑涂山璟",
@@ -6395,6 +6411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442757,
+      "num": 442477,
+      "word": "张伟丽把莱莫斯按地上猛锤",
+      "onboard_time": 1692507158,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442633,
       "num": 406555,
       "word": "王鹤润替角丽谯圆梦了",
@@ -6417,14 +6441,6 @@
       "onboard_time": 1692245920,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 442477,
-      "num": 442477,
-      "word": "张伟丽把莱莫斯按地上猛锤",
-      "onboard_time": 1692507158,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 442164,
@@ -6665,14 +6681,6 @@
       "onboard_time": 1692066934,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 428674,
-      "num": 372247,
-      "word": "科学家预测本世纪末地球将重置人口数量",
-      "onboard_time": 1692506676,
-      "rank": 20,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 428410,
@@ -7312,6 +7320,14 @@
       "word": "王嘉尔真的在上班啊",
       "onboard_time": 1692056008,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 393802,
+      "num": 393802,
+      "word": "今天这期你好星期六观后感",
+      "onboard_time": 1692507518,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -9147,14 +9163,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 306184,
-      "num": 306184,
-      "word": "今天这期你好星期六观后感",
-      "onboard_time": 1692507518,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305133,
       "num": 305133,
       "word": "蒋依依敖子逸学院风造型",
@@ -9665,6 +9673,14 @@
       "onboard_time": 1692273516,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 289518,
+      "num": 289518,
+      "word": "心脏也会得癌症",
+      "onboard_time": 1692508715,
+      "rank": 23,
+      "category": "其它"
     },
     {
       "raw_hot": 289143,
@@ -14595,6 +14611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184768,
+      "num": 184768,
+      "word": "男子抢劫吓哭店员顾客挺身而出",
+      "onboard_time": 1692509139,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184764,
       "num": 184764,
       "word": "凯帕加盟皇马",
@@ -15251,6 +15275,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 163270,
+      "num": 163270,
+      "word": "张伟丽说我来自中国",
+      "onboard_time": 1692509317,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163134,
       "num": 163134,
       "word": "孤注一掷票房破24亿",
@@ -15321,6 +15353,14 @@
       "onboard_time": 1692016416,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160254,
+      "num": 160254,
+      "word": "安乐传剧组hi6收视率",
+      "onboard_time": 1692509563,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 159589,
@@ -16363,6 +16403,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 109188,
+      "num": 453049,
+      "word": "80后中医曾用4元钱药方治好高烧不退的病人",
+      "onboard_time": 1692507637,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108803,
       "num": 113488,
       "word": "角丽谯也顺便娶了方多病吧",
@@ -17235,6 +17283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52193,
+      "num": 1587718,
+      "word": "当高燃BGM配上开渔季",
+      "onboard_time": 1692508297,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52038,
       "num": 1585214,
       "word": "上半年我国服务贸易总体平稳增长",
@@ -17311,14 +17367,6 @@
       "num": 466532,
       "word": "白大褂是他们的战袍",
       "onboard_time": 1692435695,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42902,
-      "num": 453049,
-      "word": "80后中医曾用4元钱药方治好高烧不退的病人",
-      "onboard_time": 1692507637,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -17608,14 +17656,6 @@
       "word": "我国首部中国生态保护红线蓝皮书发布",
       "onboard_time": 1692173617,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7895,
-      "num": 1513245,
-      "word": "当高燃BGM配上开渔季",
-      "onboard_time": 1692508297,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

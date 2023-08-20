@@ -1,0 +1,410 @@
+{
+  "runTime": 1692509625172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3165667,
+        "num": 3165667,
+        "word": "张伟丽",
+        "onboard_time": 1692500436,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1871484,
+        "num": 1871484,
+        "word": "台湾当归",
+        "onboard_time": 1692461075,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 52193,
+        "num": 1587718,
+        "word": "当高燃BGM配上开渔季",
+        "onboard_time": 1692508297,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1350933,
+        "num": 1350933,
+        "word": "游客被吸入水上乐园排水口身亡",
+        "onboard_time": 1692505238,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158804,
+        "num": 1158804,
+        "word": "杨紫双手戴满了镯子",
+        "onboard_time": 1692503257,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 980923,
+        "num": 980923,
+        "word": "妈妈想女儿进厂女儿称不想拿死工资",
+        "onboard_time": 1692506676,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772693,
+        "num": 772693,
+        "word": "梅西",
+        "onboard_time": 1692495633,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668656,
+        "num": 668656,
+        "word": "科学家预测本世纪末地球将重置人口数量",
+        "onboard_time": 1692506676,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 627581,
+        "num": 627581,
+        "word": "这期好六是魏大勋爆火之前录制的",
+        "onboard_time": 1692504398,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432879,
+        "num": 432879,
+        "word": "张伟丽击败莱莫斯",
+        "onboard_time": 1692506619,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1947986,
+        "num": 430847,
+        "word": "刘亦菲胸前痣",
+        "onboard_time": 1692506193,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 862364,
+        "num": 429182,
+        "word": "Jennie一口气发了32张照片",
+        "onboard_time": 1692506858,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442757,
+        "num": 426884,
+        "word": "张伟丽把莱莫斯按地上猛锤",
+        "onboard_time": 1692507158,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419204,
+        "num": 419204,
+        "word": "向佐晒与郭碧婷比心合照",
+        "onboard_time": 1692501634,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109188,
+        "num": 416975,
+        "word": "80后中医曾用4元钱药方治好高烧不退的病人",
+        "onboard_time": 1692507637,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416637,
+        "num": 416637,
+        "word": "周冬雨变好看了",
+        "onboard_time": 1692502655,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413894,
+        "num": 413894,
+        "word": "贝克汉姆拥抱梅西",
+        "onboard_time": 1692504815,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393802,
+        "num": 393802,
+        "word": "今天这期你好星期六观后感",
+        "onboard_time": 1692507518,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374602,
+        "num": 374602,
+        "word": "真正的沙县小吃从未走出沙县",
+        "onboard_time": 1692499535,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 360882,
+        "num": 360882,
+        "word": "男子出门前闻到糊味回来家烧没了",
+        "onboard_time": 1692505361,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316619,
+        "num": 316619,
+        "word": "赵露思方否认出演万渣朝凤",
+        "onboard_time": 1692501756,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309609,
+        "num": 309609,
+        "word": "我的人间烟火剧组hi6收视率",
+        "onboard_time": 1692494437,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302972,
+        "num": 302972,
+        "word": "范丞丞给杨迪的朋友圈分组是同事",
+        "onboard_time": 1692499774,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289518,
+        "num": 289518,
+        "word": "心脏也会得癌症",
+        "onboard_time": 1692508715,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 282753,
+        "num": 282753,
+        "word": "Cheems去世",
+        "onboard_time": 1692488005,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 265022,
+        "num": 265022,
+        "word": "法老昨晚演出中做出回应",
+        "onboard_time": 1692503257,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248378,
+        "num": 248378,
+        "word": "没见过情绪这么稳定的人",
+        "onboard_time": 1692498452,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240965,
+        "num": 240965,
+        "word": "饭点是看马立奥的时间",
+        "onboard_time": 1692506556,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216830,
+        "num": 216830,
+        "word": "沈浪朱七七22年后二搭演夫妻",
+        "onboard_time": 1692503795,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213698,
+        "num": 213698,
+        "word": "一岁多的孩子高铁哭闹遭女子要求闭嘴",
+        "onboard_time": 1692489328,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4727795,
+        "num": 209780,
+        "word": "王泽鹏没第一时间站出来因为怯懦",
+        "onboard_time": 1692504398,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205066,
+        "num": 205066,
+        "word": "以为是减脂实际在增肥的行为",
+        "onboard_time": 1692489026,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1581716,
+        "num": 204877,
+        "word": "王泽鹏回应",
+        "onboard_time": 1692497736,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201125,
+        "num": 201125,
+        "word": "听说这裙子能测出男朋友审美",
+        "onboard_time": 1692499596,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 551214,
+        "num": 200875,
+        "word": "周菲戈说对不起李玟",
+        "onboard_time": 1692509377,
+        "rank": 34,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 198285,
+        "num": 198285,
+        "word": "沈梦辰你是懂气黄晓明的",
+        "onboard_time": 1692504274,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468556,
+        "num": 198262,
+        "word": "起底中国好声音背后母公司",
+        "onboard_time": 1692493897,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197257,
+        "num": 197257,
+        "word": "为什么睡够8小时还是很困",
+        "onboard_time": 1692497015,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197117,
+        "num": 197117,
+        "word": "女子称吃麻辣烫发现碗上爬满蛆虫",
+        "onboard_time": 1692500314,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195930,
+        "num": 195930,
+        "word": "萨摩耶 怎么这么大只还让人抱啊",
+        "onboard_time": 1692501875,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188108,
+        "num": 188108,
+        "word": "黑神话",
+        "onboard_time": 1692496117,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185365,
+        "num": 185365,
+        "word": "杨紫有三部9分作品",
+        "onboard_time": 1692498995,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184768,
+        "num": 184768,
+        "word": "男子抢劫吓哭店员顾客挺身而出",
+        "onboard_time": 1692509139,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174151,
+        "num": 174151,
+        "word": "梅西冠军奖杯数足坛历史第一",
+        "onboard_time": 1692503015,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173750,
+        "num": 173750,
+        "word": "猫不愿意和狗玩都是有原因的",
+        "onboard_time": 1692498517,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 163270,
+        "num": 163270,
+        "word": "张伟丽说我来自中国",
+        "onboard_time": 1692509317,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160254,
+        "num": 160254,
+        "word": "安乐传剧组hi6收视率",
+        "onboard_time": 1692509563,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156065,
+        "num": 156065,
+        "word": "东部战区位台岛演训长时段抵近慑压",
+        "onboard_time": 1692491554,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 150385,
+        "num": 150385,
+        "word": "美媒发现好莱坞电影被中国国产片爆杀",
+        "onboard_time": 1692492873,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150249,
+        "num": 150249,
+        "word": "华晨宇希忘号地铁全包车",
+        "onboard_time": 1692504036,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国成功在空间站发射微纳卫星#"
+    }
+  }
+}
