@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692563632287,
+  "endTime": 1692566003508,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -52084,7 +52084,7 @@
     },
     {
       "raw_hot": 59269,
-      "num": 25070,
+      "num": 27471,
       "word": "北京下雨",
       "onboard_time": 1692562216,
       "rank": 34,
@@ -53211,6 +53211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21597,
+      "num": 21597,
+      "word": "周洁琼陈宥维演情侣",
+      "onboard_time": 1692563833,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 21552,
       "num": 34123,
       "word": "于文文时光音乐会",
@@ -53251,6 +53259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19761,
+      "num": 21303,
+      "word": "蔡文静又直播了",
+      "onboard_time": 1692562934,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19737,
       "num": 33147,
       "word": "有一种收纳法叫妈妈",
@@ -53267,12 +53283,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18654,
-      "num": 21303,
-      "word": "蔡文静又直播了",
+      "raw_hot": 19179,
+      "num": 21299,
+      "word": "华晨宇PEL舞台打碟",
       "onboard_time": 1692562934,
-      "rank": 45,
-      "category": "艺人"
+      "rank": 48,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 18031,
@@ -53289,14 +53305,6 @@
       "onboard_time": 1691702593,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17389,
-      "num": 21299,
-      "word": "华晨宇PEL舞台打碟",
-      "onboard_time": 1692562934,
-      "rank": 48,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 16991,

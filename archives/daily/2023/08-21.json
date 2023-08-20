@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692563632287,
+  "endTime": 1692566003508,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 59269,
-      "num": 25070,
+      "num": 27471,
       "word": "北京下雨",
       "onboard_time": 1692562216,
       "rank": 34,
@@ -571,7 +571,15 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 18654,
+      "raw_hot": 21597,
+      "num": 21597,
+      "word": "周洁琼陈宥维演情侣",
+      "onboard_time": 1692563833,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 19761,
       "num": 21303,
       "word": "蔡文静又直播了",
       "onboard_time": 1692562934,
@@ -579,7 +587,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17389,
+      "raw_hot": 19179,
       "num": 21299,
       "word": "华晨宇PEL舞台打碟",
       "onboard_time": 1692562934,
