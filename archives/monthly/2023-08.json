@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692506026043,
+  "endTime": 1692508465722,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2411,6 +2411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1872914,
+      "num": 463933,
+      "word": "刘亦菲胸前痣",
+      "onboard_time": 1692506193,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1871609,
       "num": 562694,
       "word": "导演让杨紫邓为深吻",
@@ -2425,6 +2433,14 @@
       "onboard_time": 1691405975,
       "rank": 3,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 1869954,
+      "num": 1869954,
+      "word": "张伟丽",
+      "onboard_time": 1692500436,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 1868493,
@@ -5112,6 +5128,14 @@
       "word": "清洁工被碾身亡案司机获国家赔偿",
       "onboard_time": 1691711972,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1265025,
+      "num": 1265025,
+      "word": "游客被吸入水上乐园排水口身亡",
+      "onboard_time": 1692505238,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -12211,6 +12235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 706100,
+      "num": 463859,
+      "word": "Jennie一口气发了32张照片",
+      "onboard_time": 1692506858,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 706047,
       "num": 706047,
       "word": "四川内江地震",
@@ -13235,6 +13267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661771,
+      "num": 463821,
+      "word": "妈妈想女儿进厂女儿称不想拿死工资",
+      "onboard_time": 1692506676,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661308,
       "num": 661308,
       "word": "虞书欣丁禹兮永夜星河出妆路透",
@@ -13865,14 +13905,6 @@
       "onboard_time": 1692332740,
       "rank": 6,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 635875,
-      "num": 635875,
-      "word": "张伟丽",
-      "onboard_time": 1692500436,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 635512,
@@ -15121,14 +15153,6 @@
       "onboard_time": 1691072501,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 591340,
-      "num": 252219,
-      "word": "游客被吸入水上乐园排水口身亡",
-      "onboard_time": 1692505238,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591262,
@@ -16689,6 +16713,14 @@
       "onboard_time": 1691070455,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553990,
+      "num": 553990,
+      "word": "张伟丽击败莱莫斯",
+      "onboard_time": 1692506619,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 553961,
@@ -19988,7 +20020,7 @@
     },
     {
       "raw_hot": 474179,
-      "num": 370654,
+      "num": 463782,
       "word": "这期好六是魏大勋爆火之前录制的",
       "onboard_time": 1692504398,
       "rank": 21,
@@ -21459,6 +21491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442477,
+      "num": 442477,
+      "word": "张伟丽把莱莫斯按地上猛锤",
+      "onboard_time": 1692507158,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442352,
       "num": 291381,
       "word": "公司的下午茶400份螺蛳粉",
@@ -21745,6 +21785,14 @@
       "onboard_time": 1692106006,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 436210,
+      "num": 436210,
+      "word": "男子出门前闻到糊味回来家烧没了",
+      "onboard_time": 1692505361,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436144,
@@ -22121,6 +22169,14 @@
       "onboard_time": 1691413418,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428674,
+      "num": 372247,
+      "word": "科学家预测本世纪末地球将重置人口数量",
+      "onboard_time": 1692506676,
+      "rank": 20,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 428491,
@@ -27195,14 +27251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 343187,
-      "num": 343187,
-      "word": "男子出门前闻到糊味回来家烧没了",
-      "onboard_time": 1692505361,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343000,
       "num": 335951,
       "word": "气运联盟官宣胡宇桐退出",
@@ -29713,6 +29761,14 @@
       "onboard_time": 1692184294,
       "rank": 24,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 306184,
+      "num": 306184,
+      "word": "今天这期你好星期六观后感",
+      "onboard_time": 1692507518,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 306056,
@@ -34193,6 +34249,14 @@
       "onboard_time": 1691551479,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257158,
+      "num": 257158,
+      "word": "饭点是看马立奥的时间",
+      "onboard_time": 1692506556,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 257142,
@@ -41881,6 +41945,14 @@
       "onboard_time": 1691575479,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197008,
+      "num": 197008,
+      "word": "男子看房被困电梯2小时衣服湿透",
+      "onboard_time": 1692506736,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196998,
@@ -50867,6 +50939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42902,
+      "num": 453049,
+      "word": "80后中医曾用4元钱药方治好高烧不退的病人",
+      "onboard_time": 1692507637,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42292,
       "num": 75239,
       "word": "HAPPYMARKDAY",
@@ -51561,6 +51641,14 @@
       "onboard_time": 1691494238,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 7895,
+      "num": 1513245,
+      "word": "当高燃BGM配上开渔季",
+      "onboard_time": 1692508297,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6043,

@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692506026043,
+  "endTime": 1692508465722,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -59,6 +59,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1872914,
+      "num": 463933,
+      "word": "刘亦菲胸前痣",
+      "onboard_time": 1692506193,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1869954,
+      "num": 1869954,
+      "word": "张伟丽",
+      "onboard_time": 1692500436,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1640389,
       "num": 1640389,
       "word": "杨紫双手戴满了镯子",
@@ -113,6 +129,14 @@
       "onboard_time": 1692491369,
       "rank": 5,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1265025,
+      "num": 1265025,
+      "word": "游客被吸入水上乐园排水口身亡",
+      "onboard_time": 1692505238,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1122300,
@@ -211,6 +235,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 706100,
+      "num": 463859,
+      "word": "Jennie一口气发了32张照片",
+      "onboard_time": 1692506858,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703378,
       "num": 703378,
       "word": "韩国女生是天生就会化妆吗",
@@ -251,6 +283,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 661771,
+      "num": 463821,
+      "word": "妈妈想女儿进厂女儿称不想拿死工资",
+      "onboard_time": 1692506676,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636655,
       "num": 636655,
       "word": "吉林女生体制内离职打零工创业",
@@ -259,28 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 635875,
-      "num": 635875,
-      "word": "张伟丽",
-      "onboard_time": 1692500436,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 603962,
       "num": 603962,
       "word": "赵露思方否认出演万渣朝凤",
       "onboard_time": 1692501756,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 591340,
-      "num": 252219,
-      "word": "游客被吸入水上乐园排水口身亡",
-      "onboard_time": 1692505238,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 585605,
@@ -313,6 +337,14 @@
       "onboard_time": 1692498452,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 553990,
+      "num": 553990,
+      "word": "张伟丽击败莱莫斯",
+      "onboard_time": 1692506619,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 553308,
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 474179,
-      "num": 370654,
+      "num": 463782,
       "word": "这期好六是魏大勋爆火之前录制的",
       "onboard_time": 1692504398,
       "rank": 21,
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442477,
+      "num": 442477,
+      "word": "张伟丽把莱莫斯按地上猛锤",
+      "onboard_time": 1692507158,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 440017,
       "num": 440017,
       "word": "长相思第二季或将七夕播出",
@@ -491,12 +531,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 436210,
+      "num": 436210,
+      "word": "男子出门前闻到糊味回来家烧没了",
+      "onboard_time": 1692505361,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435596,
       "num": 316692,
       "word": "葡萄的萄还能组什么词",
       "onboard_time": 1692456281,
       "rank": 20,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 428674,
+      "num": 372247,
+      "word": "科学家预测本世纪末地球将重置人口数量",
+      "onboard_time": 1692506676,
+      "rank": 20,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 426740,
@@ -603,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343187,
-      "num": 343187,
-      "word": "男子出门前闻到糊味回来家烧没了",
-      "onboard_time": 1692505361,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336707,
       "num": 336707,
       "word": "一句有困难引来15个蛇头",
@@ -689,6 +737,14 @@
       "onboard_time": 1692492453,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306184,
+      "num": 306184,
+      "word": "今天这期你好星期六观后感",
+      "onboard_time": 1692507518,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 298362,
@@ -809,6 +865,14 @@
       "onboard_time": 1692448297,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257158,
+      "num": 257158,
+      "word": "饭点是看马立奥的时间",
+      "onboard_time": 1692506556,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 254778,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1692462454,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197008,
+      "num": 197008,
+      "word": "男子看房被困电梯2小时衣服湿透",
+      "onboard_time": 1692506736,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196148,
@@ -1363,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42902,
+      "num": 453049,
+      "word": "80后中医曾用4元钱药方治好高烧不退的病人",
+      "onboard_time": 1692507637,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20509,
       "num": 24979,
       "word": "王ok守护李天责",
@@ -1376,6 +1456,14 @@
       "word": "看灭火后消防员喝水速度破防了",
       "onboard_time": 1692479593,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7895,
+      "num": 1513245,
+      "word": "当高燃BGM配上开渔季",
+      "onboard_time": 1692508297,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
