@@ -1,0 +1,410 @@
+{
+  "runTime": 1692524038908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1428820,
+        "num": 1428820,
+        "word": "对象把我掉的头发做成了煤球精",
+        "onboard_time": 1692516757,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 876588,
+        "num": 876588,
+        "word": "董明珠称不招只想要多少工资的",
+        "onboard_time": 1692512314,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 58117,
+        "num": 778978,
+        "word": "子弟兵连续奋战抢修受损堤坝",
+        "onboard_time": 1692520417,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775647,
+        "num": 775647,
+        "word": "刘昊然被喊老公周冬雨的反应",
+        "onboard_time": 1692513034,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 702427,
+        "num": 702427,
+        "word": "景甜冯绍峰色差",
+        "onboard_time": 1692521673,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 668295,
+        "num": 668295,
+        "word": "GEN战胜T1",
+        "onboard_time": 1692522995,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 579991,
+        "num": 579991,
+        "word": "女子遭陌生男搭话称长了肿瘤一查真有",
+        "onboard_time": 1692514895,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501871,
+        "num": 501871,
+        "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+        "onboard_time": 1692523357,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487749,
+        "num": 492382,
+        "word": "游客被吸入水上乐园排水口身亡",
+        "onboard_time": 1692505238,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356529,
+        "num": 491682,
+        "word": "城际公交车在南京起火事件通报",
+        "onboard_time": 1692520894,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1080919,
+        "num": 491672,
+        "word": "张馨予上身身材",
+        "onboard_time": 1692514535,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491309,
+        "num": 491309,
+        "word": "台湾当归",
+        "onboard_time": 1692461075,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 489529,
+        "num": 489529,
+        "word": "郝蕾 永远靠自己",
+        "onboard_time": 1692517834,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463791,
+        "num": 463791,
+        "word": "黑神话悟空",
+        "onboard_time": 1692519335,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 451775,
+        "num": 451775,
+        "word": "王楚然的下一部现代剧",
+        "onboard_time": 1692523357,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412928,
+        "num": 412928,
+        "word": "马立奥早餐吃了两个汉堡",
+        "onboard_time": 1692519515,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404259,
+        "num": 404259,
+        "word": "王栎鑫被问0713能不一直绑定吗",
+        "onboard_time": 1692512853,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396240,
+        "num": 396240,
+        "word": "乌尔善曾说电视剧版封神不是高山是水沟",
+        "onboard_time": 1692514895,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394813,
+        "num": 394813,
+        "word": "韩剧moving",
+        "onboard_time": 1692522756,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153864,
+        "num": 381161,
+        "word": "男子飞无人机发现山洪救下3人",
+        "onboard_time": 1692513875,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824372,
+        "num": 380394,
+        "word": "日本女星藤咲凪自曝已是单亲母亲",
+        "onboard_time": 1692521314,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373318,
+        "num": 373318,
+        "word": "玱玹眼眶红了",
+        "onboard_time": 1692521973,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311173,
+        "num": 311173,
+        "word": "近视眼和甜食有关系",
+        "onboard_time": 1692518617,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 331367,
+        "num": 309539,
+        "word": "杨紫双手戴满了镯子",
+        "onboard_time": 1692503257,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307744,
+        "num": 307744,
+        "word": "当代年轻人把离职办成了婚礼",
+        "onboard_time": 1692522816,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330005,
+        "num": 290452,
+        "word": "Jennie一口气发了32张照片",
+        "onboard_time": 1692506858,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312247,
+        "num": 285174,
+        "word": "这居然是10后的发言",
+        "onboard_time": 1692517957,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260652,
+        "num": 260652,
+        "word": "星期三放假非常科学的理由",
+        "onboard_time": 1692515854,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 254984,
+        "num": 254984,
+        "word": "原来摔烂东西是可以不被责骂的",
+        "onboard_time": 1692518136,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252491,
+        "num": 252491,
+        "word": "被江西人的冰箱辣到了",
+        "onboard_time": 1692519874,
+        "rank": 29,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 2212122,
+        "num": 249671,
+        "word": "李玟生前录音叫不醒装睡的娱乐圈",
+        "onboard_time": 1692514416,
+        "rank": 30,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 344617,
+        "num": 248359,
+        "word": "订婚发生关系后第4天女孩控告强奸",
+        "onboard_time": 1692523897,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068570,
+        "num": 247929,
+        "word": "王泽鹏没第一时间站出来因为怯懦",
+        "onboard_time": 1692504398,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243022,
+        "num": 243022,
+        "word": "李莲花的衣柜",
+        "onboard_time": 1692517537,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 860406,
+        "num": 242929,
+        "word": "周菲戈说对不起李玟",
+        "onboard_time": 1692509377,
+        "rank": 34,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 240708,
+        "num": 240708,
+        "word": "听杨紫邓为说话得开2倍速",
+        "onboard_time": 1692522334,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403106,
+        "num": 235238,
+        "word": "王泽鹏回应",
+        "onboard_time": 1692497736,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222275,
+        "num": 222275,
+        "word": "GEN三连冠",
+        "onboard_time": 1692523053,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218994,
+        "num": 218994,
+        "word": "秀才宿舍",
+        "onboard_time": 1692514895,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219685,
+        "num": 216377,
+        "word": "原来智能马桶是这样助便的",
+        "onboard_time": 1692518676,
+        "rank": 39,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 239464,
+        "num": 213449,
+        "word": "许光汉和孙阳是大学同学",
+        "onboard_time": 1692518796,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224459,
+        "num": 211274,
+        "word": "全员加速中联动版定档",
+        "onboard_time": 1692521493,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209081,
+        "num": 209081,
+        "word": "友谊勋章获得者伊莎白逝世",
+        "onboard_time": 1692524013,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204984,
+        "num": 204984,
+        "word": "GEN夺冠",
+        "onboard_time": 1692523414,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202783,
+        "num": 202783,
+        "word": "建议不要和诈骗电话聊天",
+        "onboard_time": 1692523714,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194059,
+        "num": 194059,
+        "word": "AG",
+        "onboard_time": 1692520655,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192404,
+        "num": 192404,
+        "word": "战至巅峰2英雄池",
+        "onboard_time": 1692523714,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191355,
+        "num": 191355,
+        "word": "金毛 叫你别生二胎咯",
+        "onboard_time": 1692514293,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 190143,
+        "num": 190143,
+        "word": "孤注一掷进入国产片票房TOP20",
+        "onboard_time": 1692510997,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154583,
+        "num": 189423,
+        "word": "这可能是中国邮政最好的广告",
+        "onboard_time": 1692519455,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖扩容将为合作带来新活力#"
+    }
+  }
+}

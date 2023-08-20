@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692519495906,
+  "endTime": 1692524038908,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 3163546,
-      "num": 218868,
+      "num": 242929,
       "word": "周菲戈说对不起李玟",
       "onboard_time": 1692509377,
       "rank": 34,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2836933,
-      "num": 245450,
+      "num": 249671,
       "word": "李玟生前录音叫不醒装睡的娱乐圈",
       "onboard_time": 1692514416,
       "rank": 34,
@@ -113,6 +113,14 @@
       "onboard_time": 1692447638,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1428820,
+      "num": 1428820,
+      "word": "对象把我掉的头发做成了煤球精",
+      "onboard_time": 1692516757,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 1418760,
@@ -275,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 824372,
+      "num": 380394,
+      "word": "日本女星藤咲凪自曝已是单亲母亲",
+      "onboard_time": 1692521314,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 806711,
       "num": 630253,
       "word": "秀才宿舍",
@@ -339,6 +355,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 702427,
+      "num": 702427,
+      "word": "景甜冯绍峰色差",
+      "onboard_time": 1692521673,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 698985,
       "num": 698985,
       "word": "周冬雨变好看了",
@@ -361,6 +385,14 @@
       "onboard_time": 1692486862,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 668295,
+      "num": 668295,
+      "word": "GEN战胜T1",
+      "onboard_time": 1692522995,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 662653,
@@ -395,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 623379,
-      "num": 508278,
-      "word": "对象把我掉的头发做成了煤球精",
-      "onboard_time": 1692516757,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 615213,
       "num": 520390,
       "word": "丈夫反对妻子成网红把家全砸了",
@@ -432,6 +456,14 @@
       "word": "800多赞的朋友圈长什么样",
       "onboard_time": 1692451239,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579991,
+      "num": 579991,
+      "word": "女子遭陌生男搭话称长了肿瘤一查真有",
+      "onboard_time": 1692514895,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -531,6 +563,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 501871,
+      "num": 501871,
+      "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+      "onboard_time": 1692523357,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500193,
       "num": 500193,
       "word": "郝蕾 永远靠自己",
@@ -587,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 463791,
+      "num": 463791,
+      "word": "黑神话悟空",
+      "onboard_time": 1692519335,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 458467,
       "num": 458467,
       "word": "B站广告涉嫌用AI洗稿网易游戏",
@@ -601,6 +649,14 @@
       "onboard_time": 1692490471,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 451775,
+      "num": 451775,
+      "word": "王楚然的下一部现代剧",
+      "onboard_time": 1692523357,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 445489,
@@ -667,14 +723,6 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 429236,
-      "num": 509226,
-      "word": "女子遭陌生男搭话称长了肿瘤一查真有",
-      "onboard_time": 1692514895,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 426740,
       "num": 408465,
       "word": "赵露思或将演万渣朝凰",
@@ -705,6 +753,22 @@
       "onboard_time": 1692494736,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412928,
+      "num": 412928,
+      "word": "马立奥早餐吃了两个汉堡",
+      "onboard_time": 1692519515,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 394813,
+      "num": 394813,
+      "word": "韩剧moving",
+      "onboard_time": 1692522756,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 390186,
@@ -763,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373318,
+      "num": 373318,
+      "word": "玱玹眼眶红了",
+      "onboard_time": 1692521973,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373093,
       "num": 344842,
       "word": "邓为檀健次缺德动图",
@@ -793,6 +865,14 @@
       "onboard_time": 1692462996,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 356529,
+      "num": 491682,
+      "word": "城际公交车在南京起火事件通报",
+      "onboard_time": 1692520894,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354599,
@@ -841,6 +921,14 @@
       "onboard_time": 1692514535,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 344617,
+      "num": 248359,
+      "word": "订婚发生关系后第4天女孩控告强奸",
+      "onboard_time": 1692523897,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336707,
@@ -915,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 311173,
+      "num": 311173,
+      "word": "近视眼和甜食有关系",
+      "onboard_time": 1692518617,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 308458,
       "num": 308458,
       "word": "宝妈称孩子被水果店榴莲砸毁容",
@@ -929,6 +1025,14 @@
       "onboard_time": 1692497436,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307744,
+      "num": 307744,
+      "word": "当代年轻人把离职办成了婚礼",
+      "onboard_time": 1692522816,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306876,
@@ -1131,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252491,
+      "num": 252491,
+      "word": "被江西人的冰箱辣到了",
+      "onboard_time": 1692519874,
+      "rank": 29,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 251254,
       "num": 251254,
       "word": "中医用4元药方治好高烧不退病人",
@@ -1219,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240708,
+      "num": 240708,
+      "word": "听杨紫邓为说话得开2倍速",
+      "onboard_time": 1692522334,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240519,
       "num": 167709,
       "word": "黄子弘凡音乐剧",
@@ -1275,6 +1395,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224459,
+      "num": 211274,
+      "word": "全员加速中联动版定档",
+      "onboard_time": 1692521493,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222275,
+      "num": 222275,
+      "word": "GEN三连冠",
+      "onboard_time": 1692523053,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 219685,
+      "num": 216377,
+      "word": "原来智能马桶是这样助便的",
+      "onboard_time": 1692518676,
+      "rank": 38,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 219351,
       "num": 172226,
       "word": "长相思第二季的防风邶剧照",
@@ -1321,6 +1465,14 @@
       "onboard_time": 1692511713,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209081,
+      "num": 209081,
+      "word": "友谊勋章获得者伊莎白逝世",
+      "onboard_time": 1692524013,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209051,
@@ -1371,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204984,
+      "num": 204984,
+      "word": "GEN夺冠",
+      "onboard_time": 1692523414,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204657,
       "num": 199842,
       "word": "孤注一掷票房破26亿",
@@ -1393,6 +1553,14 @@
       "onboard_time": 1692452919,
       "rank": 34,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 202783,
+      "num": 202783,
+      "word": "建议不要和诈骗电话聊天",
+      "onboard_time": 1692523714,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 202302,
@@ -1425,14 +1593,6 @@
       "onboard_time": 1692516996,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 200761,
-      "num": 200761,
-      "word": "原来智能马桶是这样助便的",
-      "onboard_time": 1692518676,
-      "rank": 38,
-      "category": "科技,幽默"
     },
     {
       "raw_hot": 200539,
@@ -1507,6 +1667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194059,
+      "num": 194059,
+      "word": "AG",
+      "onboard_time": 1692520655,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192553,
       "num": 192553,
       "word": "热刺vs曼联",
@@ -1521,6 +1689,14 @@
       "onboard_time": 1692514836,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192404,
+      "num": 192404,
+      "word": "战至巅峰2英雄池",
+      "onboard_time": 1692523714,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 192287,
@@ -1579,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181949,
-      "num": 181949,
-      "word": "近视眼和甜食有关系",
-      "onboard_time": 1692518617,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 180103,
       "num": 180103,
       "word": "10岁男孩用50多支笔做花束送护士",
@@ -1643,14 +1811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170737,
-      "num": 170737,
-      "word": "黑神话悟空",
-      "onboard_time": 1692519335,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 168845,
       "num": 135490,
       "word": "你好星期六下周是莲花楼",
@@ -1699,20 +1859,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154583,
+      "num": 189423,
+      "word": "这可能是中国邮政最好的广告",
+      "onboard_time": 1692519455,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149588,
       "num": 149588,
       "word": "纳什维尔vs迈阿密国际",
       "onboard_time": 1692496355,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149092,
-      "num": 149092,
-      "word": "这可能是中国邮政最好的广告",
-      "onboard_time": 1692519455,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147873,
@@ -1873,6 +2033,14 @@
       "onboard_time": 1692462996,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 58117,
+      "num": 778978,
+      "word": "子弟兵连续奋战抢修受损堤坝",
+      "onboard_time": 1692520417,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55827,
