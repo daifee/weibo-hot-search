@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692542027077,
+  "endTime": 1692544501885,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -3651,6 +3651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1555939,
+      "num": 346202,
+      "word": "那辛朋友圈",
+      "onboard_time": 1692540766,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1555918,
       "num": 351653,
       "word": "男网红在泰国杀害男伴分尸被捕",
@@ -3931,14 +3939,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 1493088,
-      "num": 346202,
-      "word": "那辛朋友圈",
-      "onboard_time": 1692540766,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1488651,
       "num": 532342,
       "word": "情妇成立公司揽医院工程",
@@ -4121,6 +4121,14 @@
       "onboard_time": 1691582736,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1448469,
+      "num": 343020,
+      "word": "起底中国好声音背后灿星文化",
+      "onboard_time": 1692541005,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 1447888,
@@ -4353,14 +4361,6 @@
       "onboard_time": 1692512314,
       "rank": 49,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1412506,
-      "num": 343020,
-      "word": "起底中国好声音背后灿星文化",
-      "onboard_time": 1692541005,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 1409334,
@@ -5915,6 +5915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1184407,
+      "num": 325175,
+      "word": "武林外传预言好声音",
+      "onboard_time": 1692541669,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1183705,
       "num": 1183705,
       "word": "为什么全身脸部的皮肤最差",
@@ -6537,6 +6545,14 @@
       "onboard_time": 1692108341,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1110448,
+      "num": 1110448,
+      "word": "姜潮差点替黄子韬徐艺洋官宣",
+      "onboard_time": 1692540468,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1110222,
@@ -7424,6 +7440,14 @@
       "word": "长相思刚喜欢上的男人变成了我姐",
       "onboard_time": 1690895857,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1017369,
+      "num": 1017369,
+      "word": "皓衣行",
+      "onboard_time": 1692542208,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -9227,14 +9251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 876507,
-      "num": 876507,
-      "word": "姜潮差点替黄子韬徐艺洋官宣",
-      "onboard_time": 1692540468,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 875935,
       "num": 875935,
       "word": "gemini",
@@ -10241,6 +10257,14 @@
       "onboard_time": 1691414259,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 816019,
+      "num": 816019,
+      "word": "缅北诈骗人员自曝专盯单身公务员",
+      "onboard_time": 1692542803,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 815686,
@@ -11411,6 +11435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 751180,
+      "num": 405645,
+      "word": "金晨白举纲私联",
+      "onboard_time": 1692543044,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 751100,
       "num": 406942,
       "word": "被离职问老板尊嘟假嘟",
@@ -11497,6 +11529,14 @@
       "onboard_time": 1690883855,
       "rank": 14,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 749122,
+      "num": 325039,
+      "word": "黄旭熙说要第4次出道",
+      "onboard_time": 1692541789,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 747964,
@@ -12337,6 +12377,14 @@
       "onboard_time": 1692166299,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715828,
+      "num": 715828,
+      "word": "吃过最难吃的水果是什么",
+      "onboard_time": 1692541428,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 715718,
@@ -23267,14 +23315,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 418615,
-      "num": 325175,
-      "word": "武林外传预言好声音",
-      "onboard_time": 1692541669,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 418562,
       "num": 385818,
       "word": "突然知道怎么存钱了",
@@ -23873,6 +23913,14 @@
       "onboard_time": 1691929476,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 407274,
+      "num": 218786,
+      "word": "张真源说没有剧本",
+      "onboard_time": 1692543589,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 407123,
@@ -26851,6 +26899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359946,
+      "num": 210628,
+      "word": "当我姐发现自己曾拒绝过华为",
+      "onboard_time": 1692543404,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 359793,
       "num": 236215,
       "word": "相柳说涂山家的狐狸真没用",
@@ -27379,6 +27435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351386,
+      "num": 344517,
+      "word": "白敬亭尊嘟会穿",
+      "onboard_time": 1692539989,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351285,
       "num": 2495683,
       "word": "广州80岁名医逝世当天仍在出门诊",
@@ -27873,14 +27937,6 @@
       "onboard_time": 1692330640,
       "rank": 26,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 344517,
-      "num": 344517,
-      "word": "白敬亭尊嘟会穿",
-      "onboard_time": 1692539989,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 344465,
@@ -29057,14 +29113,6 @@
       "onboard_time": 1692000454,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 325039,
-      "num": 325039,
-      "word": "黄旭熙说要第4次出道",
-      "onboard_time": 1692541789,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 324935,
@@ -37011,6 +37059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238955,
+      "num": 209203,
+      "word": "魏大勋看沈腾范丞丞双人舞想报警",
+      "onboard_time": 1692543765,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238765,
       "num": 238765,
       "word": "大牙风波后首公开露面",
@@ -37113,6 +37169,14 @@
       "onboard_time": 1692513455,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 237595,
+      "num": 209017,
+      "word": "范丞丞刘昊然模仿孟宴臣许沁名场面",
+      "onboard_time": 1692544482,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 237591,
@@ -38736,6 +38800,14 @@
       "word": "这就是i人的愤怒吗",
       "onboard_time": 1692010779,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 222982,
+      "num": 328371,
+      "word": "古人给猫取名能多有诗意",
+      "onboard_time": 1692541127,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -40411,6 +40483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210233,
+      "num": 210233,
+      "word": "物业的心思总花不到正经地方",
+      "onboard_time": 1692544004,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210176,
       "num": 210176,
       "word": "上海冰雹",
@@ -41337,14 +41417,6 @@
       "onboard_time": 1691057019,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205204,
-      "num": 336300,
-      "word": "吃过最难吃的水果是什么",
-      "onboard_time": 1692541428,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 205198,
@@ -44707,6 +44779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189144,
+      "num": 209722,
+      "word": "一个刘海搞定所有脸型bug",
+      "onboard_time": 1692544064,
+      "rank": 38,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 189073,
       "num": 189073,
       "word": "张杰演唱会重返鸟巢",
@@ -44947,14 +45027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187820,
-      "num": 328371,
-      "word": "古人给猫取名能多有诗意",
-      "onboard_time": 1692541127,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187785,
       "num": 207138,
       "word": "热播剧集角色吸粉榜排名",
@@ -45009,6 +45081,14 @@
       "onboard_time": 1692101861,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187657,
+      "num": 208860,
+      "word": "如果96110来电一定要接",
+      "onboard_time": 1692542746,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187582,
@@ -47579,6 +47659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157434,
+      "num": 208659,
+      "word": "唐代女性陶俑的服饰",
+      "onboard_time": 1692543226,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 157084,
       "num": 157084,
       "word": "我和朋友维持友谊的方式belike",
@@ -48193,6 +48281,14 @@
       "onboard_time": 1692487344,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147056,
+      "num": 208313,
+      "word": "突发心梗 4个千万不能做和一定要做",
+      "onboard_time": 1692544482,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146994,
