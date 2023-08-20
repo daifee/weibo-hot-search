@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692544501885,
+  "endTime": 1692545618676,
   "band_list": [
     {
       "raw_hot": 11540250,
@@ -299,12 +299,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1184407,
+      "raw_hot": 1239242,
       "num": 325175,
       "word": "武林外传预言好声音",
       "onboard_time": 1692541669,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1222934,
+      "num": 1222934,
+      "word": "皓衣行",
+      "onboard_time": 1692542208,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1132165,
@@ -347,14 +355,6 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 1017369,
-      "num": 1017369,
-      "word": "皓衣行",
-      "onboard_time": 1692542208,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1010359,
       "num": 1010359,
       "word": "台岛周边我舰抵近台舰",
@@ -392,6 +392,14 @@
       "word": "男子赤裸上身抚摸亲吻香蕉姑娘雕塑",
       "onboard_time": 1692536383,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 924661,
+      "num": 924661,
+      "word": "缅北诈骗人员自曝专盯单身公务员",
+      "onboard_time": 1692542803,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 816019,
-      "num": 816019,
-      "word": "缅北诈骗人员自曝专盯单身公务员",
-      "onboard_time": 1692542803,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 806711,
       "num": 630253,
       "word": "秀才宿舍",
@@ -515,20 +515,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 764527,
+      "num": 764527,
+      "word": "金晨白举纲私联",
+      "onboard_time": 1692543044,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 760124,
       "num": 760124,
       "word": "去外省上大学的新生开始慌了",
       "onboard_time": 1692534761,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 751180,
-      "num": 405645,
-      "word": "金晨白举纲私联",
-      "onboard_time": 1692543044,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 749122,
@@ -729,6 +729,14 @@
       "onboard_time": 1692501756,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 603116,
+      "num": 359574,
+      "word": "当我姐发现自己曾拒绝过华为",
+      "onboard_time": 1692543404,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 585605,
@@ -979,6 +987,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 476844,
+      "num": 292531,
+      "word": "Angelababy去看林俊杰演唱会了",
+      "onboard_time": 1692544364,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 476257,
       "num": 476257,
       "word": "黑神话",
@@ -1115,6 +1131,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 427949,
+      "num": 347004,
+      "word": "范丞丞刘昊然模仿孟宴臣许沁名场面",
+      "onboard_time": 1692544482,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427082,
       "num": 2017516,
       "word": "接到96110来电千万不要挂",
@@ -1164,7 +1188,7 @@
     },
     {
       "raw_hot": 407274,
-      "num": 218786,
+      "num": 284479,
       "word": "张真源说没有剧本",
       "onboard_time": 1692543589,
       "rank": 23,
@@ -1339,12 +1363,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 359946,
-      "num": 210628,
-      "word": "当我姐发现自己曾拒绝过华为",
-      "onboard_time": 1692543404,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 358867,
+      "num": 271846,
+      "word": "突发心梗 4个千万不能做和一定要做",
+      "onboard_time": 1692544482,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356529,
@@ -1483,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323484,
+      "num": 262582,
+      "word": "周翊然直播",
+      "onboard_time": 1692544965,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321913,
       "num": 242909,
       "word": "鹿晗肌肉",
@@ -1497,6 +1529,14 @@
       "onboard_time": 1692504274,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316349,
+      "num": 271155,
+      "word": "一个刘海搞定所有脸型bug",
+      "onboard_time": 1692544064,
+      "rank": 38,
+      "category": "时尚,美妆"
     },
     {
       "raw_hot": 312525,
@@ -1995,14 +2035,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 237595,
-      "num": 209017,
-      "word": "范丞丞刘昊然模仿孟宴臣许沁名场面",
-      "onboard_time": 1692544482,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237531,
       "num": 237531,
       "word": "周杰伦演唱会",
@@ -2152,6 +2184,14 @@
       "word": "赖清德",
       "onboard_time": 1692492395,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217168,
+      "num": 267099,
+      "word": "如果96110来电一定要接",
+      "onboard_time": 1692542746,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2555,28 +2595,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 189144,
-      "num": 209722,
-      "word": "一个刘海搞定所有脸型bug",
-      "onboard_time": 1692544064,
-      "rank": 38,
-      "category": "时尚,美妆"
-    },
-    {
       "raw_hot": 187749,
       "num": 187749,
       "word": "PEL",
       "onboard_time": 1692526717,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187657,
-      "num": 208860,
-      "word": "如果96110来电一定要接",
-      "onboard_time": 1692542746,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186626,
@@ -2817,14 +2841,6 @@
       "onboard_time": 1692487344,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147056,
-      "num": 208313,
-      "word": "突发心梗 4个千万不能做和一定要做",
-      "onboard_time": 1692544482,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146994,
