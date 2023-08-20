@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692527628524,
+  "endTime": 1692529941143,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1975822,
+      "num": 1975822,
+      "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+      "onboard_time": 1692523357,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1947986,
       "num": 463933,
       "word": "刘亦菲胸前痣",
@@ -84,18 +92,10 @@
     },
     {
       "raw_hot": 1919622,
-      "num": 308804,
+      "num": 333303,
       "word": "订婚发生关系后第4天女孩控告强奸",
       "onboard_time": 1692523897,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1919421,
-      "num": 1919421,
-      "word": "医生吃面发现邻座女子长肿瘤提醒就医",
-      "onboard_time": 1692523357,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -347,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 793999,
+      "num": 793999,
+      "word": "为什么茉莉花茶要熬夜制作",
+      "onboard_time": 1692526175,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 784909,
       "num": 784909,
       "word": "乌尔善曾说电视剧版封神不是高山是水沟",
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 680747,
+      "num": 680747,
+      "word": "勋丞则麟",
+      "onboard_time": 1692527915,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 675883,
       "num": 675883,
       "word": "第一次见女主说男主年老色衰的",
@@ -465,6 +481,14 @@
       "onboard_time": 1692504398,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 626808,
+      "num": 327795,
+      "word": "王鹤棣要开个人咖啡品牌了",
+      "onboard_time": 1692526896,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 615213,
@@ -521,6 +545,14 @@
       "onboard_time": 1692498452,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 561046,
+      "num": 561046,
+      "word": "腐竹牛腩煲",
+      "onboard_time": 1692526533,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 553990,
@@ -611,14 +643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 499806,
-      "num": 499806,
-      "word": "为什么茉莉花茶要熬夜制作",
-      "onboard_time": 1692526175,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 498821,
       "num": 498821,
       "word": "找不到对象的可以报个老年团",
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 498609,
-      "num": 306357,
+      "num": 321896,
       "word": "建议不要和诈骗电话聊天",
       "onboard_time": 1692523714,
       "rank": 44,
@@ -699,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 454070,
+      "num": 454070,
+      "word": "业内评价莲花楼8分剧很不容易",
+      "onboard_time": 1692527614,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445489,
       "num": 393802,
       "word": "今天这期你好星期六观后感",
@@ -745,6 +777,14 @@
       "onboard_time": 1692498995,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 437955,
+      "num": 437955,
+      "word": "张云雷杨九郎合作十周年专场",
+      "onboard_time": 1692529114,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 436210,
@@ -803,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 404972,
-      "num": 303622,
-      "word": "王鹤棣要开个人咖啡品牌了",
-      "onboard_time": 1692526896,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 404880,
       "num": 404880,
       "word": "韩剧moving",
@@ -857,6 +889,14 @@
       "onboard_time": 1692492994,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377879,
+      "num": 377879,
+      "word": "王一博长空之王影院公映截止至8月27日",
+      "onboard_time": 1692526896,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 375824,
@@ -1003,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333599,
+      "num": 333599,
+      "word": "马伯庸和兵哥哥的合影",
+      "onboard_time": 1692527254,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333216,
       "num": 333216,
       "word": "邓为我是小夭的男朋友",
@@ -1035,12 +1083,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314495,
-      "num": 314495,
-      "word": "腐竹牛腩煲",
-      "onboard_time": 1692526533,
-      "rank": 18,
-      "category": "美食"
+      "raw_hot": 313463,
+      "num": 313463,
+      "word": "广州cp",
+      "onboard_time": 1692526835,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 312525,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1692499596,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312035,
+      "num": 687071,
+      "word": "小狐狸被投喂赖在居民区不走了",
+      "onboard_time": 1692528994,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311173,
@@ -1219,14 +1275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275863,
-      "num": 275863,
-      "word": "王一博长空之王影院公映截止至8月27日",
-      "onboard_time": 1692526896,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 273665,
       "num": 220623,
       "word": "周深演唱会哭了",
@@ -1323,6 +1371,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 251696,
+      "num": 251696,
+      "word": "cpp",
+      "onboard_time": 1692527734,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 251254,
       "num": 251254,
       "word": "中医用4元药方治好高烧不退病人",
@@ -1411,28 +1467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240809,
-      "num": 240809,
-      "word": "广州cp",
-      "onboard_time": 1692526835,
-      "rank": 31,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 240519,
       "num": 167709,
       "word": "黄子弘凡音乐剧",
       "onboard_time": 1692459277,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 240509,
-      "num": 240509,
-      "word": "马伯庸和兵哥哥的合影",
-      "onboard_time": 1692527254,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 238648,
@@ -1449,6 +1489,14 @@
       "onboard_time": 1692513455,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 236599,
+      "num": 236599,
+      "word": "内娱女明星短发造型",
+      "onboard_time": 1692526896,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234965,
@@ -1475,20 +1523,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 228538,
-      "num": 228538,
-      "word": "内娱女明星短发造型",
-      "onboard_time": 1692526896,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 226709,
       "num": 226709,
       "word": "华晨宇希忘号地铁全包车",
       "onboard_time": 1692504036,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226017,
+      "num": 226017,
+      "word": "95花生五大齁甜cp",
+      "onboard_time": 1692525576,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224459,
@@ -1523,12 +1571,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218366,
+      "num": 217209,
+      "word": "首档说唱真人秀要来了",
+      "onboard_time": 1692529534,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217490,
       "num": 217490,
       "word": "赖清德",
       "onboard_time": 1692492395,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215512,
+      "num": 237073,
+      "word": "爸爸奇招骗娃喝药儿子发现后一口干",
+      "onboard_time": 1692527855,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214168,
+      "num": 214168,
+      "word": "长空之王",
+      "onboard_time": 1692529773,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 213823,
@@ -1553,6 +1625,14 @@
       "onboard_time": 1692513875,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210325,
+      "num": 210325,
+      "word": "白鹿蛋糕裙盘发",
+      "onboard_time": 1692529715,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209334,
@@ -1625,6 +1705,14 @@
       "onboard_time": 1692513034,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205290,
+      "num": 205290,
+      "word": "这个村靠一村之力省下240万",
+      "onboard_time": 1692529894,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 204984,
@@ -1723,14 +1811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198054,
-      "num": 198054,
-      "word": "95花生五大齁甜cp",
-      "onboard_time": 1692525576,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 197008,
       "num": 197008,
       "word": "男子看房被困电梯2小时衣服湿透",
@@ -1779,6 +1859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193291,
+      "num": 215056,
+      "word": "白岩松说视觉中国该真正整改了",
+      "onboard_time": 1692528814,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192553,
       "num": 192553,
       "word": "热刺vs曼联",
@@ -1809,6 +1897,14 @@
       "onboard_time": 1692465985,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192071,
+      "num": 204590,
+      "word": "CPGZ05",
+      "onboard_time": 1692529593,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 191761,
@@ -1929,14 +2025,6 @@
       "onboard_time": 1692512253,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172344,
-      "num": 172344,
-      "word": "业内评价莲花楼8分剧很不容易",
-      "onboard_time": 1692527614,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 171913,
@@ -2073,6 +2161,14 @@
       "onboard_time": 1692466285,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124457,
+      "num": 243004,
+      "word": "爸爸低估了儿子的豪爽度",
+      "onboard_time": 1692529715,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 124436,
@@ -2223,6 +2319,14 @@
       "num": 347795,
       "word": "货车起火5教师秒变消防员奋勇灭火",
       "onboard_time": 1692511297,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27391,
+      "num": 445161,
+      "word": "多所高校宿舍床位可自选",
+      "onboard_time": 1692529295,
       "rank": 14,
       "category": "社会新闻"
     },

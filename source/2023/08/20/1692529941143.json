@@ -1,0 +1,410 @@
+{
+  "runTime": 1692529941143,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1975822,
+        "num": 1975822,
+        "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+        "onboard_time": 1692523357,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793999,
+        "num": 793999,
+        "word": "为什么茉莉花茶要熬夜制作",
+        "onboard_time": 1692526175,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42320,
+        "num": 701292,
+        "word": "子弟兵连续奋战抢修受损堤坝",
+        "onboard_time": 1692520417,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1156349,
+        "num": 698225,
+        "word": "王楚然的下一部现代剧",
+        "onboard_time": 1692523357,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312035,
+        "num": 687071,
+        "word": "小狐狸被投喂赖在居民区不走了",
+        "onboard_time": 1692528994,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680747,
+        "num": 680747,
+        "word": "勋丞则麟",
+        "onboard_time": 1692527915,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160738,
+        "num": 604297,
+        "word": "大熊猫喜乐学会钓鱼了",
+        "onboard_time": 1692524377,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564102,
+        "num": 564102,
+        "word": "董明珠称不招只想要多少工资的",
+        "onboard_time": 1692512314,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 561046,
+        "num": 561046,
+        "word": "腐竹牛腩煲",
+        "onboard_time": 1692526533,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172148,
+        "num": 555555,
+        "word": "城际公交车在南京起火事件通报",
+        "onboard_time": 1692520894,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551517,
+        "num": 551517,
+        "word": "张馨予上身身材",
+        "onboard_time": 1692514535,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479505,
+        "num": 479505,
+        "word": "刘昊然被喊老公周冬雨的反应",
+        "onboard_time": 1692513034,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159212,
+        "num": 463653,
+        "word": "男子飞无人机发现山洪救下3人",
+        "onboard_time": 1692513875,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454070,
+        "num": 454070,
+        "word": "业内评价莲花楼8分剧很不容易",
+        "onboard_time": 1692527614,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27391,
+        "num": 445161,
+        "word": "多所高校宿舍床位可自选",
+        "onboard_time": 1692529295,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443351,
+        "num": 443351,
+        "word": "FMVP",
+        "onboard_time": 1692524494,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 437955,
+        "num": 437955,
+        "word": "张云雷杨九郎合作十周年专场",
+        "onboard_time": 1692529114,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391708,
+        "num": 391708,
+        "word": "对象把我掉的头发做成了煤球精",
+        "onboard_time": 1692516757,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377879,
+        "num": 377879,
+        "word": "王一博长空之王影院公映截止至8月27日",
+        "onboard_time": 1692526896,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333599,
+        "num": 333599,
+        "word": "马伯庸和兵哥哥的合影",
+        "onboard_time": 1692527254,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1646415,
+        "num": 333303,
+        "word": "订婚发生关系后第4天女孩控告强奸",
+        "onboard_time": 1692523897,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626808,
+        "num": 327795,
+        "word": "王鹤棣要开个人咖啡品牌了",
+        "onboard_time": 1692526896,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452674,
+        "num": 321896,
+        "word": "建议不要和诈骗电话聊天",
+        "onboard_time": 1692523714,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313463,
+        "num": 313463,
+        "word": "广州cp",
+        "onboard_time": 1692526835,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 309778,
+        "num": 309778,
+        "word": "长相思相柳外传二三事",
+        "onboard_time": 1692524737,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290487,
+        "num": 290487,
+        "word": "游客被吸入水上乐园排水口身亡",
+        "onboard_time": 1692505238,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290416,
+        "num": 290416,
+        "word": "日本女星藤咲凪自曝已是单亲母亲",
+        "onboard_time": 1692521314,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251696,
+        "num": 251696,
+        "word": "cpp",
+        "onboard_time": 1692527734,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 244317,
+        "num": 244317,
+        "word": "韩剧moving",
+        "onboard_time": 1692522756,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124457,
+        "num": 243004,
+        "word": "爸爸低估了儿子的豪爽度",
+        "onboard_time": 1692529715,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1654124,
+        "num": 242951,
+        "word": "李玟生前录音叫不醒装睡的娱乐圈",
+        "onboard_time": 1692514416,
+        "rank": 30,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 242608,
+        "num": 242608,
+        "word": "杨紫双手戴满了镯子",
+        "onboard_time": 1692503257,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1385031,
+        "num": 240487,
+        "word": "长春一广播台声明不再与中国好声音合作",
+        "onboard_time": 1692525636,
+        "rank": 32,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 215512,
+        "num": 237073,
+        "word": "爸爸奇招骗娃喝药儿子发现后一口干",
+        "onboard_time": 1692527855,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942232,
+        "num": 236978,
+        "word": "王泽鹏没第一时间站出来因为怯懦",
+        "onboard_time": 1692504398,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236599,
+        "num": 236599,
+        "word": "内娱女明星短发造型",
+        "onboard_time": 1692526896,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 647771,
+        "num": 235419,
+        "word": "周菲戈说对不起李玟",
+        "onboard_time": 1692509377,
+        "rank": 36,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 226017,
+        "num": 226017,
+        "word": "95花生五大齁甜cp",
+        "onboard_time": 1692525576,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278615,
+        "num": 225244,
+        "word": "王泽鹏回应",
+        "onboard_time": 1692497736,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79264,
+        "num": 221313,
+        "word": "台湾当归",
+        "onboard_time": 1692461075,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 221193,
+        "num": 221193,
+        "word": "Jennie一口气发了32张照片",
+        "onboard_time": 1692506858,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217916,
+        "num": 217916,
+        "word": "王栎鑫被问0713能不一直绑定吗",
+        "onboard_time": 1692512853,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218366,
+        "num": 217209,
+        "word": "首档说唱真人秀要来了",
+        "onboard_time": 1692529534,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193291,
+        "num": 215056,
+        "word": "白岩松说视觉中国该真正整改了",
+        "onboard_time": 1692528814,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214168,
+        "num": 214168,
+        "word": "长空之王",
+        "onboard_time": 1692529773,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210325,
+        "num": 210325,
+        "word": "白鹿蛋糕裙盘发",
+        "onboard_time": 1692529715,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205290,
+        "num": 205290,
+        "word": "这个村靠一村之力省下240万",
+        "onboard_time": 1692529894,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192071,
+        "num": 204590,
+        "word": "CPGZ05",
+        "onboard_time": 1692529593,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 180292,
+        "num": 204432,
+        "word": "原来摔烂东西是可以不被责骂的",
+        "onboard_time": 1692518136,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168946,
+        "num": 204343,
+        "word": "当代年轻人把离职办成了婚礼",
+        "onboard_time": 1692522816,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖扩容将为合作带来新活力#"
+    }
+  }
+}
