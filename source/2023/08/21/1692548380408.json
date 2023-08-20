@@ -1,0 +1,410 @@
+{
+  "runTime": 1692548380408,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1026828,
+        "num": 1026828,
+        "word": "缅北诈骗人员自曝专盯单身公务员",
+        "onboard_time": 1692542803,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517820,
+        "num": 517820,
+        "word": "姜潮差点替黄子韬徐艺洋官宣",
+        "onboard_time": 1692540468,
+        "rank": 1,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 302018,
+        "num": 507287,
+        "word": "接到96110来电千万不要挂",
+        "onboard_time": 1692540526,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5200285,
+        "num": 507059,
+        "word": "浙江广电集团回应",
+        "onboard_time": 1692537463,
+        "rank": 3,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 505601,
+        "num": 505601,
+        "word": "金晨白举纲私联",
+        "onboard_time": 1692543044,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495342,
+        "num": 495342,
+        "word": "皓衣行",
+        "onboard_time": 1692542208,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412959,
+        "num": 412959,
+        "word": "Angelababy去看林俊杰演唱会了",
+        "onboard_time": 1692544364,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 374609,
+        "num": 374609,
+        "word": "吃过最难吃的水果是什么",
+        "onboard_time": 1692541428,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350616,
+        "num": 350616,
+        "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+        "onboard_time": 1692523357,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247756,
+        "num": 350589,
+        "word": "去外省上大学的新生开始慌了",
+        "onboard_time": 1692534761,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1206365,
+        "num": 343975,
+        "word": "研究表明乳房大小影响运动意愿",
+        "onboard_time": 1692534519,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701687,
+        "num": 337174,
+        "word": "当我姐发现自己曾拒绝过华为",
+        "onboard_time": 1692543404,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 625223,
+        "num": 332964,
+        "word": "突发心梗 4个千万不能做和一定要做",
+        "onboard_time": 1692544482,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590632,
+        "num": 323879,
+        "word": "娜然",
+        "onboard_time": 1692533077,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392624,
+        "num": 322089,
+        "word": "相柳这次有东方青苍",
+        "onboard_time": 1692546640,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390715,
+        "num": 311131,
+        "word": "一个刘海搞定所有脸型bug",
+        "onboard_time": 1692544064,
+        "rank": 15,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 310959,
+        "num": 310959,
+        "word": "正式确诊为雷小米",
+        "onboard_time": 1692538850,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308645,
+        "num": 308645,
+        "word": "范丞丞刘昊然模仿孟宴臣许沁名场面",
+        "onboard_time": 1692544482,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306119,
+        "num": 306119,
+        "word": "林俊杰听到脱掉的反应",
+        "onboard_time": 1692546219,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223286,
+        "num": 223286,
+        "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
+        "onboard_time": 1692532235,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931989,
+        "num": 219606,
+        "word": "订婚发生关系后第4天女孩控告强奸",
+        "onboard_time": 1692523897,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426958,
+        "num": 215269,
+        "word": "男子赤裸上身抚摸亲吻香蕉姑娘雕塑",
+        "onboard_time": 1692536383,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397987,
+        "num": 211605,
+        "word": "黄旭熙说要第4次出道",
+        "onboard_time": 1692541789,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281126,
+        "num": 208173,
+        "word": "段奥娟近期风格",
+        "onboard_time": 1692540167,
+        "rank": 23,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 280064,
+        "num": 202586,
+        "word": "到缅北第一天就被拉去参观水牢",
+        "onboard_time": 1692538069,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267598,
+        "num": 198364,
+        "word": "周翊然直播",
+        "onboard_time": 1692544965,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262761,
+        "num": 193619,
+        "word": "张真源说没有剧本",
+        "onboard_time": 1692543589,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229032,
+        "num": 187217,
+        "word": "娜扎芭比造型",
+        "onboard_time": 1692540228,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186741,
+        "num": 186741,
+        "word": "2 #大一新生如何用录取通知书买火车票",
+        "onboard_time": 1692547238,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180299,
+        "num": 180299,
+        "word": "七夕将至廉价求婚钻戒月销10万",
+        "onboard_time": 1692535841,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1202409,
+        "num": 179887,
+        "word": "武林外传预言好声音",
+        "onboard_time": 1692541669,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 870846,
+        "num": 177663,
+        "word": "那辛朋友圈",
+        "onboard_time": 1692540766,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441945,
+        "num": 176372,
+        "word": "王泽鹏没第一时间站出来因为怯懦",
+        "onboard_time": 1692504398,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174769,
+        "num": 174769,
+        "word": "如果96110来电一定要接",
+        "onboard_time": 1692542746,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409578,
+        "num": 174217,
+        "word": "长春一广播台声明不再与中国好声音合作",
+        "onboard_time": 1692525636,
+        "rank": 34,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 139869,
+        "num": 173181,
+        "word": "建议不要和诈骗电话聊天",
+        "onboard_time": 1692523714,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358094,
+        "num": 171865,
+        "word": "经纪人否认周华健退出中国好声音",
+        "onboard_time": 1692533077,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134718,
+        "num": 170000,
+        "word": "古人给猫取名能多有诗意",
+        "onboard_time": 1692541127,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325583,
+        "num": 168633,
+        "word": "李玟生前录音叫不醒装睡的娱乐圈",
+        "onboard_time": 1692514416,
+        "rank": 38,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 129455,
+        "num": 167553,
+        "word": "西汉姆联vs切尔西",
+        "onboard_time": 1692547115,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195205,
+        "num": 165882,
+        "word": "替全世界感到尴尬",
+        "onboard_time": 1692534038,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175414,
+        "num": 164429,
+        "word": "魏大勋听白敬亭叫哥哥的反应",
+        "onboard_time": 1692539147,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163549,
+        "num": 163549,
+        "word": "张新成的一滴泪",
+        "onboard_time": 1692544903,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145314,
+        "num": 163088,
+        "word": "慕光之城",
+        "onboard_time": 1692536261,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143163,
+        "num": 162326,
+        "word": "王楚然的下一部现代剧",
+        "onboard_time": 1692523357,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128212,
+        "num": 161887,
+        "word": "世界上军衔最高的狗",
+        "onboard_time": 1692547957,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 107199,
+        "num": 161394,
+        "word": "胡明轩",
+        "onboard_time": 1692537947,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43426,
+        "num": 161066,
+        "word": "大一新生如何用录取通知书买火车票",
+        "onboard_time": 1692540349,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107152,
+        "num": 160089,
+        "word": "吐鲁番西瓜好便宜",
+        "onboard_time": 1692545860,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98410,
+        "num": 159438,
+        "word": "山东车站买票身高",
+        "onboard_time": 1692541190,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中南友谊的彩虹之桥不断延伸#"
+    }
+  }
+}
