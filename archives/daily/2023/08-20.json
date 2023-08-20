@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692497992947,
+  "endTime": 1692498831970,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -9,6 +9,14 @@
       "onboard_time": 1692461075,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3316612,
+      "num": 245708,
+      "word": "王泽鹏回应",
+      "onboard_time": 1692497736,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 2145851,
@@ -75,6 +83,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1122300,
+      "num": 1122300,
+      "word": "我的人间烟火剧组hi6收视率",
+      "onboard_time": 1692494437,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1025099,
       "num": 1025099,
       "word": "杨紫邓为",
@@ -99,28 +115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 934992,
-      "num": 245708,
-      "word": "王泽鹏回应",
-      "onboard_time": 1692497736,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 893184,
-      "num": 893184,
-      "word": "我的人间烟火剧组hi6收视率",
-      "onboard_time": 1692494437,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 877519,
       "num": 877519,
       "word": "周杰伦看到自己05年演唱的票根",
       "onboard_time": 1692460357,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 842144,
+      "num": 842144,
+      "word": "为什么睡够8小时还是很困",
+      "onboard_time": 1692497015,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 801143,
@@ -339,14 +347,6 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 430224,
-      "num": 430224,
-      "word": "为什么睡够8小时还是很困",
-      "onboard_time": 1692497015,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 426740,
       "num": 408465,
       "word": "赵露思或将演万渣朝凰",
@@ -387,20 +387,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 380861,
+      "num": 380861,
+      "word": "魏大勋这是在干嘛",
+      "onboard_time": 1692492994,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372012,
       "num": 372012,
       "word": "长相思剧组hi6收视率",
       "onboard_time": 1692451661,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 363998,
-      "num": 363998,
-      "word": "魏大勋这是在干嘛",
-      "onboard_time": 1692492994,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 360343,
@@ -467,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307761,
+      "num": 231144,
+      "word": "那吾克热尤长靖飘向北方5年前vs5年后",
+      "onboard_time": 1692497436,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306876,
       "num": 244083,
       "word": "杨玏的身体里住着一个贾志国",
@@ -489,14 +497,6 @@
       "onboard_time": 1692456399,
       "rank": 17,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 288542,
-      "num": 231144,
-      "word": "那吾克热尤长靖飘向北方5年前vs5年后",
-      "onboard_time": 1692497436,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 284596,
@@ -563,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254778,
+      "num": 203622,
+      "word": "文咏珊回自己主场了",
+      "onboard_time": 1692496956,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253937,
       "num": 242520,
       "word": "齐思钧 多谢卢少侠",
@@ -576,6 +584,14 @@
       "word": "日本东京面临缺水危机",
       "onboard_time": 1692491793,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251254,
+      "num": 251254,
+      "word": "中医用4元药方治好高烧不退病人",
+      "onboard_time": 1692497195,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -667,14 +683,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 231860,
-      "num": 203622,
-      "word": "文咏珊回自己主场了",
-      "onboard_time": 1692496956,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 230543,
       "num": 230543,
       "word": "颖儿拍付辛博看周杰伦演唱会",
@@ -689,14 +697,6 @@
       "onboard_time": 1692441574,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218606,
-      "num": 218606,
-      "word": "中医用4元药方治好高烧不退病人",
-      "onboard_time": 1692497195,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217490,
@@ -731,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207568,
+      "num": 207568,
+      "word": "猫不愿意和狗玩都是有原因的",
+      "onboard_time": 1692498517,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 206371,
       "num": 375881,
       "word": "妻子背丈夫出诊30多年不离不弃",
@@ -747,12 +755,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204657,
+      "num": 199842,
+      "word": "孤注一掷票房破26亿",
+      "onboard_time": 1692498578,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203729,
       "num": 242230,
       "word": "主人回应废柴表情包柴犬去世",
       "onboard_time": 1692452919,
       "rank": 34,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 203002,
+      "num": 203002,
+      "word": "没见过情绪这么稳定的人",
+      "onboard_time": 1692498452,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 202302,

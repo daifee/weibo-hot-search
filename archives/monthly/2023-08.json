@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692497992947,
+  "endTime": 1692498831970,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -433,6 +433,14 @@
       "onboard_time": 1691328493,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3316612,
+      "num": 245708,
+      "word": "王泽鹏回应",
+      "onboard_time": 1692497736,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 3300996,
@@ -6163,6 +6171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1122300,
+      "num": 1122300,
+      "word": "我的人间烟火剧组hi6收视率",
+      "onboard_time": 1692494437,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1122094,
       "num": 1122094,
       "word": "玱玹只听到了三个字",
@@ -8139,14 +8155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 934992,
-      "num": 245708,
-      "word": "王泽鹏回应",
-      "onboard_time": 1692497736,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 934197,
       "num": 934197,
       "word": "许凯吓得把杨幂扔了",
@@ -8729,14 +8737,6 @@
       "onboard_time": 1691244169,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 893184,
-      "num": 893184,
-      "word": "我的人间烟火剧组hi6收视率",
-      "onboard_time": 1692494437,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 892685,
@@ -9473,6 +9473,14 @@
       "onboard_time": 1691553882,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 842144,
+      "num": 842144,
+      "word": "为什么睡够8小时还是很困",
+      "onboard_time": 1692497015,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 841696,
@@ -21859,14 +21867,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 430224,
-      "num": 430224,
-      "word": "为什么睡够8小时还是很困",
-      "onboard_time": 1692497015,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 430064,
       "num": 430064,
       "word": "卡琳娜cos仆人",
@@ -24667,6 +24667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380861,
+      "num": 380861,
+      "word": "魏大勋这是在干嘛",
+      "onboard_time": 1692492994,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380768,
       "num": 380768,
       "word": "Ella晒SHE合影",
@@ -25737,14 +25745,6 @@
       "onboard_time": 1690899460,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 363998,
-      "num": 363998,
-      "word": "魏大勋这是在干嘛",
-      "onboard_time": 1692492994,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 363859,
@@ -29379,6 +29379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 307761,
+      "num": 231144,
+      "word": "那吾克热尤长靖飘向北方5年前vs5年后",
+      "onboard_time": 1692497436,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307737,
       "num": 307737,
       "word": "杨玏 陈牧驰原地起飞发射那种",
@@ -31025,14 +31033,6 @@
       "onboard_time": 1691600304,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 288542,
-      "num": 231144,
-      "word": "那吾克热尤长靖飘向北方5年前vs5年后",
-      "onboard_time": 1692497436,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 288407,
@@ -34171,6 +34171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254778,
+      "num": 203622,
+      "word": "文咏珊回自己主场了",
+      "onboard_time": 1692496956,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254749,
       "num": 208766,
       "word": "舍不得莲花楼探案三人组",
@@ -34417,6 +34425,14 @@
       "onboard_time": 1690892553,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251254,
+      "num": 251254,
+      "word": "中医用4元药方治好高烧不退病人",
+      "onboard_time": 1692497195,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251143,
@@ -36435,14 +36451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231860,
-      "num": 203622,
-      "word": "文咏珊回自己主场了",
-      "onboard_time": 1692496956,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 231846,
       "num": 231846,
       "word": "家里只剩下沙发和床了",
@@ -37873,14 +37881,6 @@
       "onboard_time": 1691624187,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218606,
-      "num": 218606,
-      "word": "中医用4元药方治好高烧不退病人",
-      "onboard_time": 1692497195,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218578,
@@ -39515,6 +39515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207568,
+      "num": 207568,
+      "word": "猫不愿意和狗玩都是有原因的",
+      "onboard_time": 1692498517,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 207536,
       "num": 249549,
       "word": "王鹤棣港风隧道大片",
@@ -40003,6 +40011,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 204657,
+      "num": 199842,
+      "word": "孤注一掷票房破26亿",
+      "onboard_time": 1692498578,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204596,
       "num": 204596,
       "word": "用漫画的方式告别夏天",
@@ -40313,6 +40329,14 @@
       "onboard_time": 1692239555,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203002,
+      "num": 203002,
+      "word": "没见过情绪这么稳定的人",
+      "onboard_time": 1692498452,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 202971,
