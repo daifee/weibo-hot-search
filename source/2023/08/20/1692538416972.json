@@ -1,0 +1,410 @@
+{
+  "runTime": 1692538416972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11540250,
+        "num": 11540250,
+        "word": "浙江广电集团回应",
+        "onboard_time": 1692537463,
+        "rank": 0,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 1758379,
+        "num": 1758379,
+        "word": "替全世界感到尴尬",
+        "onboard_time": 1692534038,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50700,
+        "num": 1261747,
+        "word": "子弟兵连续奋战抢修受损堤坝",
+        "onboard_time": 1692520417,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1985650,
+        "num": 1168994,
+        "word": "骑手取餐途中得知孩子跳楼崩溃大哭",
+        "onboard_time": 1692532656,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857692,
+        "num": 857692,
+        "word": "歪歪 内蒙人血脉觉醒",
+        "onboard_time": 1692535539,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851509,
+        "num": 851509,
+        "word": "慕光之城",
+        "onboard_time": 1692536261,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 731699,
+        "num": 731699,
+        "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+        "onboard_time": 1692523357,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529432,
+        "num": 529432,
+        "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
+        "onboard_time": 1692532235,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504111,
+        "num": 504111,
+        "word": "张晚意42秒眼神戏一条过",
+        "onboard_time": 1692534217,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412974,
+        "num": 412974,
+        "word": "王一博乐华家族练舞vlog",
+        "onboard_time": 1692535659,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2814296,
+        "num": 410707,
+        "word": "研究表明乳房大小影响运动意愿",
+        "onboard_time": 1692534519,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1939964,
+        "num": 409122,
+        "word": "娜然",
+        "onboard_time": 1692533077,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189274,
+        "num": 407682,
+        "word": "爸爸低估了儿子的豪爽度",
+        "onboard_time": 1692529715,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174980,
+        "num": 405082,
+        "word": "白岩松说视觉中国该真正整改了",
+        "onboard_time": 1692528814,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108148,
+        "num": 401618,
+        "word": "3名教师联手救下流血昏迷男子",
+        "onboard_time": 1692536442,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747480,
+        "num": 400243,
+        "word": "去外省上大学的新生开始慌了",
+        "onboard_time": 1692534761,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398863,
+        "num": 398863,
+        "word": "林心如想当林志玲Akira亲家",
+        "onboard_time": 1692531815,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357936,
+        "num": 357936,
+        "word": "魏大勋趴着好乖",
+        "onboard_time": 1692535421,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343180,
+        "num": 343180,
+        "word": "奇瑞",
+        "onboard_time": 1692533137,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 329429,
+        "num": 329429,
+        "word": "中国男篮vs塞尔维亚男篮",
+        "onboard_time": 1692531517,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1418083,
+        "num": 328094,
+        "word": "订婚发生关系后第4天女孩控告强奸",
+        "onboard_time": 1692523897,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942891,
+        "num": 325930,
+        "word": "男子赤裸上身抚摸亲吻香蕉姑娘雕塑",
+        "onboard_time": 1692536383,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650130,
+        "num": 323134,
+        "word": "沈腾踢魏大勋",
+        "onboard_time": 1692536683,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576100,
+        "num": 322892,
+        "word": "杨紫直播",
+        "onboard_time": 1692535598,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404995,
+        "num": 319651,
+        "word": "七夕将至廉价求婚钻戒月销10万",
+        "onboard_time": 1692535841,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 401710,
+        "num": 318397,
+        "word": "金晨鼻子被狗揍了",
+        "onboard_time": 1692537763,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336633,
+        "num": 314613,
+        "word": "建议不要和诈骗电话聊天",
+        "onboard_time": 1692523714,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314268,
+        "num": 314268,
+        "word": "王鹤棣要开个人咖啡品牌了",
+        "onboard_time": 1692526896,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298783,
+        "num": 298783,
+        "word": "爷爷奶奶接了孙孙转身就走",
+        "onboard_time": 1692537284,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280758,
+        "num": 280758,
+        "word": "王楚然的下一部现代剧",
+        "onboard_time": 1692523357,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 862206,
+        "num": 280517,
+        "word": "李玟生前录音叫不醒装睡的娱乐圈",
+        "onboard_time": 1692514416,
+        "rank": 30,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 288774,
+        "num": 280095,
+        "word": "到缅北第一天就被拉去参观水牢",
+        "onboard_time": 1692538069,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736272,
+        "num": 278793,
+        "word": "长春一广播台声明不再与中国好声音合作",
+        "onboard_time": 1692525636,
+        "rank": 32,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 276257,
+        "num": 276257,
+        "word": "曾舜晞这种算什么水平",
+        "onboard_time": 1692535058,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 655249,
+        "num": 274095,
+        "word": "王泽鹏没第一时间站出来因为怯懦",
+        "onboard_time": 1692504398,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267800,
+        "num": 267800,
+        "word": "胡明轩",
+        "onboard_time": 1692537947,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 645522,
+        "num": 267556,
+        "word": "经纪人否认周华健退出中国好声音",
+        "onboard_time": 1692533077,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267149,
+        "num": 267149,
+        "word": "一路朝阳",
+        "onboard_time": 1692537947,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267589,
+        "num": 264578,
+        "word": "周菲戈说对不起李玟",
+        "onboard_time": 1692509377,
+        "rank": 38,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 260710,
+        "num": 260710,
+        "word": "沈腾被范丞丞魏大勋拿捏",
+        "onboard_time": 1692536321,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253488,
+        "num": 253488,
+        "word": "刘昊然被喊老公周冬雨的反应",
+        "onboard_time": 1692513034,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252594,
+        "num": 252594,
+        "word": "成毅好忙但不知道在忙什么",
+        "onboard_time": 1692536920,
+        "rank": 41,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 237531,
+        "num": 237531,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1692536383,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227207,
+        "num": 227207,
+        "word": "张馨予上身身材",
+        "onboard_time": 1692514535,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226635,
+        "num": 226635,
+        "word": "李凯尔",
+        "onboard_time": 1692534578,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223993,
+        "num": 223993,
+        "word": "尼格买提不熟勿que",
+        "onboard_time": 1692533316,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213073,
+        "num": 213073,
+        "word": "西班牙女足夺得世界杯冠军",
+        "onboard_time": 1692533557,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89924,
+        "num": 213053,
+        "word": "城际公交车在南京起火事件通报",
+        "onboard_time": 1692520894,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205605,
+        "num": 211311,
+        "word": "和平精英",
+        "onboard_time": 1692538127,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153769,
+        "num": 210632,
+        "word": "花花的下午茶",
+        "onboard_time": 1692531096,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国国家公园建设取得显著成效#"
+    }
+  }
+}
