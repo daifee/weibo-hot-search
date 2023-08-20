@@ -1,0 +1,410 @@
+{
+  "runTime": 1692535406516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1226490,
+        "num": 1226490,
+        "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+        "onboard_time": 1692523357,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702326,
+        "num": 702326,
+        "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
+        "onboard_time": 1692532235,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39046,
+        "num": 574459,
+        "word": "子弟兵连续奋战抢修受损堤坝",
+        "onboard_time": 1692520417,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2443524,
+        "num": 550107,
+        "word": "骑手取餐途中得知孩子跳楼崩溃大哭",
+        "onboard_time": 1692532656,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870304,
+        "num": 544615,
+        "word": "林心如想当林志玲Akira亲家",
+        "onboard_time": 1692531815,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524567,
+        "num": 524567,
+        "word": "王楚然的下一部现代剧",
+        "onboard_time": 1692523357,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521947,
+        "num": 521947,
+        "word": "西班牙女足夺得世界杯冠军",
+        "onboard_time": 1692533557,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 473926,
+        "num": 473926,
+        "word": "首档说唱真人秀要来了",
+        "onboard_time": 1692529534,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 889484,
+        "num": 473825,
+        "word": "经纪人否认周华健退出中国好声音",
+        "onboard_time": 1692533077,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384677,
+        "num": 471528,
+        "word": "爸爸低估了儿子的豪爽度",
+        "onboard_time": 1692529715,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2903849,
+        "num": 468644,
+        "word": "娜然",
+        "onboard_time": 1692533077,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1163241,
+        "num": 467338,
+        "word": "研究表明乳房大小影响运动意愿",
+        "onboard_time": 1692534519,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231735,
+        "num": 464004,
+        "word": "白岩松说视觉中国该真正整改了",
+        "onboard_time": 1692528814,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122171,
+        "num": 462167,
+        "word": "城际公交车在南京起火事件通报",
+        "onboard_time": 1692520894,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38564,
+        "num": 460431,
+        "word": "孩子走失民警领群众齐喊话寻找",
+        "onboard_time": 1692532835,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831059,
+        "num": 459065,
+        "word": "替全世界感到尴尬",
+        "onboard_time": 1692534038,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457973,
+        "num": 457973,
+        "word": "奇瑞",
+        "onboard_time": 1692533137,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 435486,
+        "num": 435486,
+        "word": "罗恩彼得琼斯去世",
+        "onboard_time": 1692532358,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362126,
+        "num": 362126,
+        "word": "王鹤棣要开个人咖啡品牌了",
+        "onboard_time": 1692526896,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357202,
+        "num": 357202,
+        "word": "中国男篮vs塞尔维亚男篮",
+        "onboard_time": 1692531517,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1530128,
+        "num": 357085,
+        "word": "订婚发生关系后第4天女孩控告强奸",
+        "onboard_time": 1692523897,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356401,
+        "num": 356401,
+        "word": "小狐狸被投喂赖在居民区不走了",
+        "onboard_time": 1692528994,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353587,
+        "num": 353587,
+        "word": "刘昊然被喊老公周冬雨的反应",
+        "onboard_time": 1692513034,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345986,
+        "num": 345986,
+        "word": "建议不要和诈骗电话聊天",
+        "onboard_time": 1692523714,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341106,
+        "num": 341106,
+        "word": "花花的下午茶",
+        "onboard_time": 1692531096,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 324367,
+        "num": 324367,
+        "word": "勋丞则麟",
+        "onboard_time": 1692527915,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293053,
+        "num": 293053,
+        "word": "张晚意42秒眼神戏一条过",
+        "onboard_time": 1692534217,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248211,
+        "num": 248211,
+        "word": "张馨予上身身材",
+        "onboard_time": 1692514535,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246997,
+        "num": 246997,
+        "word": "时代少年团睡前例行突击检查",
+        "onboard_time": 1692531815,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246389,
+        "num": 246389,
+        "word": "莲花楼长尾效应",
+        "onboard_time": 1692531096,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1083081,
+        "num": 236107,
+        "word": "李玟生前录音叫不醒装睡的娱乐圈",
+        "onboard_time": 1692514416,
+        "rank": 30,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 411118,
+        "num": 232905,
+        "word": "去外省上大学的新生开始慌了",
+        "onboard_time": 1692534761,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 842083,
+        "num": 229579,
+        "word": "王泽鹏没第一时间站出来因为怯懦",
+        "onboard_time": 1692504398,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217734,
+        "num": 217734,
+        "word": "她的城",
+        "onboard_time": 1692535118,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634846,
+        "num": 216425,
+        "word": "长春一广播台声明不再与中国好声音合作",
+        "onboard_time": 1692525636,
+        "rank": 34,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 215053,
+        "num": 215053,
+        "word": "白鹿蛋糕裙盘发",
+        "onboard_time": 1692529715,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365362,
+        "num": 215039,
+        "word": "周菲戈说对不起李玟",
+        "onboard_time": 1692509377,
+        "rank": 36,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 214355,
+        "num": 214355,
+        "word": "李凯尔",
+        "onboard_time": 1692534578,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214084,
+        "num": 214084,
+        "word": "尼格买提不熟勿que",
+        "onboard_time": 1692533316,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204244,
+        "num": 204244,
+        "word": "张云雷杨九郎合作十周年专场",
+        "onboard_time": 1692529114,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198628,
+        "num": 198628,
+        "word": "张远演了个情痴",
+        "onboard_time": 1692534761,
+        "rank": 40,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 194427,
+        "num": 194427,
+        "word": "业内评价莲花楼8分剧很不容易",
+        "onboard_time": 1692527614,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189921,
+        "num": 189921,
+        "word": "娜扎冷艳风造型",
+        "onboard_time": 1692533557,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186202,
+        "num": 186503,
+        "word": "TEC夏季赛总冠军",
+        "onboard_time": 1692534696,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186367,
+        "num": 186367,
+        "word": "董明珠称不招只想要多少工资的",
+        "onboard_time": 1692512314,
+        "rank": 44,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 184100,
+        "num": 184100,
+        "word": "曾舜晞这种算什么水平",
+        "onboard_time": 1692535058,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182908,
+        "num": 182908,
+        "word": "E人至爽时刻",
+        "onboard_time": 1692534999,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178017,
+        "num": 178017,
+        "word": "这个村靠一村之力省下240万",
+        "onboard_time": 1692529894,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175798,
+        "num": 175798,
+        "word": "和平饭店900元自助餐",
+        "onboard_time": 1692531155,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141921,
+        "num": 141921,
+        "word": "女足世界杯决赛",
+        "onboard_time": 1692530913,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}

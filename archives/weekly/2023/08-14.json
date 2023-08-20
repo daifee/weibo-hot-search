@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692534472008,
+  "endTime": 1692535406516,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2903849,
+      "num": 517815,
+      "word": "娜然",
+      "onboard_time": 1692533077,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2903067,
       "num": 2903067,
       "word": "质疑芒狗 理解芒狗 养芒狗",
@@ -307,20 +315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2476015,
-      "num": 517815,
-      "word": "娜然",
-      "onboard_time": 1692533077,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2475436,
       "num": 2475436,
       "word": "印度不再从中国进口手机",
       "onboard_time": 1692148056,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2443524,
+      "num": 873295,
+      "word": "骑手取餐途中得知孩子跳楼崩溃大哭",
+      "onboard_time": 1692532656,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2434594,
@@ -1347,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1384148,
-      "num": 873295,
-      "word": "骑手取餐途中得知孩子跳楼崩溃大哭",
-      "onboard_time": 1692532656,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1376438,
       "num": 398042,
       "word": "一张银行卡最多能存多少钱",
@@ -1801,6 +1801,14 @@
       "onboard_time": 1692101981,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1163241,
+      "num": 467338,
+      "word": "研究表明乳房大小影响运动意愿",
+      "onboard_time": 1692534519,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1162629,
@@ -2595,6 +2603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 889484,
+      "num": 851361,
+      "word": "经纪人否认周华健退出中国好声音",
+      "onboard_time": 1692533077,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 884313,
       "num": 884313,
       "word": "孤注一掷东南亚上映",
@@ -2795,14 +2811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 851361,
-      "num": 851361,
-      "word": "经纪人否认周华健退出中国好声音",
-      "onboard_time": 1692533077,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 847494,
       "num": 467891,
       "word": "杨紫邓为十指相扣答题",
@@ -2865,6 +2873,14 @@
       "onboard_time": 1692327099,
       "rank": 13,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 831059,
+      "num": 459065,
+      "word": "替全世界感到尴尬",
+      "onboard_time": 1692534038,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 827315,
@@ -3579,6 +3595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 702326,
+      "num": 702326,
+      "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
+      "onboard_time": 1692532235,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700974,
       "num": 2431669,
       "word": "丫丫咬着竹子上爬架继续啃",
@@ -3625,14 +3649,6 @@
       "onboard_time": 1692254677,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 697147,
-      "num": 697147,
-      "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
-      "onboard_time": 1692532235,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 696951,
@@ -5443,6 +5459,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 521947,
+      "num": 521947,
+      "word": "西班牙女足夺得世界杯冠军",
+      "onboard_time": 1692533557,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 521912,
       "num": 521912,
       "word": "妈妈当年放弃了自己的明星梦",
@@ -5881,14 +5905,6 @@
       "onboard_time": 1692279467,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 495924,
-      "num": 495924,
-      "word": "西班牙女足夺得世界杯冠军",
-      "onboard_time": 1692533557,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 495531,
@@ -6465,6 +6481,14 @@
       "onboard_time": 1692273039,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457973,
+      "num": 457973,
+      "word": "奇瑞",
+      "onboard_time": 1692533137,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 457279,
@@ -7115,14 +7139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 422951,
-      "num": 422951,
-      "word": "奇瑞",
-      "onboard_time": 1692533137,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 422666,
       "num": 400389,
       "word": "张晚意邓为模仿王弘毅脚滑",
@@ -7361,6 +7377,14 @@
       "onboard_time": 1692154475,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 411118,
+      "num": 232905,
+      "word": "去外省上大学的新生开始慌了",
+      "onboard_time": 1692534761,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 411058,
@@ -10115,6 +10139,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 293053,
+      "num": 293053,
+      "word": "张晚意42秒眼神戏一条过",
+      "onboard_time": 1692534217,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292967,
       "num": 266024,
       "word": "中国警方官方在线给成毅辟谣",
@@ -11281,14 +11313,6 @@
       "onboard_time": 1692366822,
       "rank": 34,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 261571,
-      "num": 261571,
-      "word": "替全世界感到尴尬",
-      "onboard_time": 1692534038,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 261270,
@@ -13083,6 +13107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217734,
+      "num": 217734,
+      "word": "她的城",
+      "onboard_time": 1692535118,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217590,
       "num": 217590,
       "word": "杨超越丁禹兮有自己的三生三世",
@@ -13289,6 +13321,14 @@
       "onboard_time": 1692200017,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214084,
+      "num": 214084,
+      "word": "尼格买提不熟勿que",
+      "onboard_time": 1692533316,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 213920,
@@ -14451,6 +14491,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 198628,
+      "num": 198628,
+      "word": "张远演了个情痴",
+      "onboard_time": 1692534761,
+      "rank": 40,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 198512,
       "num": 181099,
       "word": "杨超越原声台词",
@@ -14737,14 +14785,6 @@
       "onboard_time": 1692022306,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193968,
-      "num": 205261,
-      "word": "尼格买提不熟勿que",
-      "onboard_time": 1692533316,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 193966,
@@ -15091,14 +15131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190852,
-      "num": 205170,
-      "word": "张晚意42秒眼神戏一条过",
-      "onboard_time": 1692534217,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190785,
       "num": 190785,
       "word": "张新成新剧演的是话痨吧",
@@ -15153,6 +15185,14 @@
       "onboard_time": 1692200136,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189921,
+      "num": 204923,
+      "word": "娜扎冷艳风造型",
+      "onboard_time": 1692533557,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189802,
@@ -15427,6 +15467,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 186202,
+      "num": 186503,
+      "word": "TEC夏季赛总冠军",
+      "onboard_time": 1692534696,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186182,
       "num": 206571,
       "word": "决战平安京",
@@ -15531,6 +15579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184100,
+      "num": 184100,
+      "word": "曾舜晞这种算什么水平",
+      "onboard_time": 1692535058,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184058,
       "num": 196394,
       "word": "星穹铁道托帕",
@@ -15593,6 +15649,14 @@
       "onboard_time": 1692250897,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182908,
+      "num": 182908,
+      "word": "E人至爽时刻",
+      "onboard_time": 1692534999,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 182871,
@@ -15841,14 +15905,6 @@
       "onboard_time": 1692200795,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 175918,
-      "num": 204923,
-      "word": "娜扎冷艳风造型",
-      "onboard_time": 1692533557,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 175774,
@@ -18387,6 +18443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38564,
+      "num": 497612,
+      "word": "孩子走失民警领群众齐喊话寻找",
+      "onboard_time": 1692532835,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37939,
       "num": 37939,
       "word": "微博手机影像年",
@@ -18545,14 +18609,6 @@
       "onboard_time": 1692390794,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26422,
-      "num": 497612,
-      "word": "孩子走失民警领群众齐喊话寻找",
-      "onboard_time": 1692532835,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25863,

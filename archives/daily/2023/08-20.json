@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692534472008,
+  "endTime": 1692535406516,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -43,6 +43,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 2903849,
+      "num": 517815,
+      "word": "娜然",
+      "onboard_time": 1692533077,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2836933,
       "num": 260332,
       "word": "李玟生前录音叫不醒装睡的娱乐圈",
@@ -51,12 +59,12 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 2476015,
-      "num": 517815,
-      "word": "娜然",
-      "onboard_time": 1692533077,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 2443524,
+      "num": 873295,
+      "word": "骑手取餐途中得知孩子跳楼崩溃大哭",
+      "onboard_time": 1692532656,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2145851,
@@ -187,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1384148,
-      "num": 873295,
-      "word": "骑手取餐途中得知孩子跳楼崩溃大哭",
-      "onboard_time": 1692532656,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1364471,
       "num": 560022,
       "word": "张馨予上身身材",
@@ -241,6 +241,14 @@
       "onboard_time": 1692491369,
       "rank": 5,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1163241,
+      "num": 467338,
+      "word": "研究表明乳房大小影响运动意愿",
+      "onboard_time": 1692534519,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1132165,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889484,
+      "num": 851361,
+      "word": "经纪人否认周华健退出中国好声音",
+      "onboard_time": 1692533077,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 877519,
       "num": 877519,
       "word": "周杰伦看到自己05年演唱的票根",
@@ -339,11 +355,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 851361,
-      "num": 851361,
-      "word": "经纪人否认周华健退出中国好声音",
-      "onboard_time": 1692533077,
-      "rank": 4,
+      "raw_hot": 831059,
+      "num": 459065,
+      "word": "替全世界感到尴尬",
+      "onboard_time": 1692534038,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -451,20 +467,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 702326,
+      "num": 702326,
+      "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
+      "onboard_time": 1692532235,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698985,
       "num": 698985,
       "word": "周冬雨变好看了",
       "onboard_time": 1692502655,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 697147,
-      "num": 697147,
-      "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
-      "onboard_time": 1692532235,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 685966,
@@ -699,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521947,
+      "num": 521947,
+      "word": "西班牙女足夺得世界杯冠军",
+      "onboard_time": 1692533557,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 521458,
       "num": 521458,
       "word": "女生大专休学4年复读圆梦北影",
@@ -747,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495924,
-      "num": 495924,
-      "word": "西班牙女足夺得世界杯冠军",
-      "onboard_time": 1692533557,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 480000,
       "num": 439503,
       "word": "谁来救救成毅救救我",
@@ -801,6 +817,14 @@
       "onboard_time": 1692450399,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457973,
+      "num": 457973,
+      "word": "奇瑞",
+      "onboard_time": 1692533137,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 457072,
@@ -891,14 +915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 422951,
-      "num": 422951,
-      "word": "奇瑞",
-      "onboard_time": 1692533137,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 422225,
       "num": 244678,
       "word": "活死人厂巡",
@@ -929,6 +945,14 @@
       "onboard_time": 1692519515,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411118,
+      "num": 232905,
+      "word": "去外省上大学的新生开始慌了",
+      "onboard_time": 1692534761,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 404880,
@@ -1299,6 +1323,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 293053,
+      "num": 293053,
+      "word": "张晚意42秒眼神戏一条过",
+      "onboard_time": 1692534217,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292570,
       "num": 292570,
       "word": "戴珍珠该穿什么",
@@ -1433,14 +1465,6 @@
       "onboard_time": 1692531815,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 261571,
-      "num": 261571,
-      "word": "替全世界感到尴尬",
-      "onboard_time": 1692534038,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 261018,
@@ -1739,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217734,
+      "num": 217734,
+      "word": "她的城",
+      "onboard_time": 1692535118,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217490,
       "num": 217490,
       "word": "赖清德",
@@ -1753,6 +1785,22 @@
       "onboard_time": 1692527855,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214355,
+      "num": 214355,
+      "word": "李凯尔",
+      "onboard_time": 1692534578,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214084,
+      "num": 214084,
+      "word": "尼格买提不熟勿que",
+      "onboard_time": 1692533316,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 213823,
@@ -1939,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198628,
+      "num": 198628,
+      "word": "张远演了个情痴",
+      "onboard_time": 1692534761,
+      "rank": 40,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 198469,
       "num": 142708,
       "word": "王子浩首张个人EP",
@@ -2003,14 +2059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193968,
-      "num": 205261,
-      "word": "尼格买提不熟勿que",
-      "onboard_time": 1692533316,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192553,
       "num": 192553,
       "word": "热刺vs曼联",
@@ -2059,20 +2107,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190852,
-      "num": 205170,
-      "word": "张晚意42秒眼神戏一条过",
-      "onboard_time": 1692534217,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190532,
       "num": 190532,
       "word": "邓为先擦桌子后擦脸",
       "onboard_time": 1692489689,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189921,
+      "num": 204923,
+      "word": "娜扎冷艳风造型",
+      "onboard_time": 1692533557,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187749,
@@ -2091,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186202,
+      "num": 186503,
+      "word": "TEC夏季赛总冠军",
+      "onboard_time": 1692534696,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184768,
       "num": 184768,
       "word": "男子抢劫吓哭店员顾客挺身而出",
@@ -2105,6 +2161,14 @@
       "onboard_time": 1692504994,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184100,
+      "num": 184100,
+      "word": "曾舜晞这种算什么水平",
+      "onboard_time": 1692535058,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183948,
@@ -2129,6 +2193,14 @@
       "onboard_time": 1692452021,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182908,
+      "num": 182908,
+      "word": "E人至爽时刻",
+      "onboard_time": 1692534999,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 180103,
@@ -2161,14 +2233,6 @@
       "onboard_time": 1692515253,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175918,
-      "num": 204923,
-      "word": "娜扎冷艳风造型",
-      "onboard_time": 1692533557,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 175368,
@@ -2499,7 +2563,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26422,
+      "raw_hot": 38564,
       "num": 497612,
       "word": "孩子走失民警领群众齐喊话寻找",
       "onboard_time": 1692532835,
