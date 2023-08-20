@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692573309769,
+  "endTime": 1692574431384,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -11,8 +11,16 @@
       "category": "综艺,社会新闻"
     },
     {
-      "raw_hot": 1282322,
-      "num": 1282322,
+      "raw_hot": 1580829,
+      "num": 125379,
+      "word": "韩红",
+      "onboard_time": 1692572663,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1426720,
+      "num": 1426720,
       "word": "韩国知名网红擅自赴乌参战被判刑1年半",
       "onboard_time": 1692552203,
       "rank": 37,
@@ -35,20 +43,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1062568,
+      "num": 1062568,
+      "word": "央视调查甘肃天水古城",
+      "onboard_time": 1692572543,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1026828,
       "num": 1026828,
       "word": "缅北诈骗人员自曝专盯单身公务员",
       "onboard_time": 1692542803,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 996711,
-      "num": 104688,
-      "word": "韩红",
-      "onboard_time": 1692572663,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 931989,
@@ -67,8 +75,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 720755,
-      "num": 720755,
+      "raw_hot": 807306,
+      "num": 255969,
+      "word": "by2晒与Angelababy合照",
+      "onboard_time": 1692572964,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 782803,
+      "num": 782803,
       "word": "当我姐发现自己曾拒绝过华为",
       "onboard_time": 1692543404,
       "rank": 11,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 677990,
-      "num": 352911,
+      "num": 359177,
       "word": "突发心梗 4个千万不能做和一定要做",
       "onboard_time": 1692544482,
       "rank": 12,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 418824,
-      "num": 311131,
+      "num": 346140,
       "word": "一个刘海搞定所有脸型bug",
       "onboard_time": 1692544064,
       "rank": 15,
@@ -235,8 +251,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 302950,
+      "num": 302950,
+      "word": "EDG告别全球冠军赛",
+      "onboard_time": 1692572964,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 302018,
-      "num": 553321,
+      "num": 850075,
       "word": "接到96110来电千万不要挂",
       "onboard_time": 1692540526,
       "rank": 2,
@@ -251,20 +275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292256,
+      "num": 225613,
+      "word": "到缅北第一天就被拉去参观水牢",
+      "onboard_time": 1692538069,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281126,
       "num": 235597,
       "word": "段奥娟近期风格",
       "onboard_time": 1692540167,
       "rank": 23,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 280064,
-      "num": 225613,
-      "word": "到缅北第一天就被拉去参观水牢",
-      "onboard_time": 1692538069,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267598,
@@ -275,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263860,
+      "num": 254316,
+      "word": "南京公交车起火事件细节公布",
+      "onboard_time": 1692572543,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262761,
       "num": 214159,
       "word": "张真源说没有剧本",
@@ -283,12 +315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252161,
-      "num": 252161,
-      "word": "央视调查甘肃天水古城",
-      "onboard_time": 1692572543,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 251705,
+      "num": 124254,
+      "word": "原来我的专业考不了公务员",
+      "onboard_time": 1692573566,
+      "rank": 33,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 247756,
@@ -307,14 +339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 231891,
-      "num": 231891,
-      "word": "by2晒与Angelababy合照",
-      "onboard_time": 1692572964,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229032,
       "num": 187217,
       "word": "娜扎芭比造型",
@@ -331,12 +355,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209446,
+      "num": 209446,
+      "word": "浙江广电将调查核实",
+      "onboard_time": 1692573749,
+      "rank": 17,
+      "category": "综艺,社会新闻"
+    },
+    {
+      "raw_hot": 200224,
+      "num": 200224,
+      "word": "我国又破获一起美国CIA间谍案",
+      "onboard_time": 1692573990,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186741,
       "num": 186741,
       "word": "2 #大一新生如何用录取通知书买火车票",
       "onboard_time": 1692547238,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 180712,
+      "num": 180712,
+      "word": "安徽的省会是哪个城市",
+      "onboard_time": 1692572543,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180299,
@@ -387,16 +435,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158692,
-      "num": 123936,
-      "word": "EDG告别全球冠军赛",
-      "onboard_time": 1692572964,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 154700,
-      "num": 100718,
+      "raw_hot": 163412,
+      "num": 124070,
       "word": "起底中国好声音背后灿星文化",
       "onboard_time": 1692541005,
       "rank": 39,
@@ -451,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135236,
+      "num": 123415,
+      "word": "蔡文静你喝你的我吃我的",
+      "onboard_time": 1692573808,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134718,
       "num": 170000,
       "word": "古人给猫取名能多有诗意",
@@ -459,12 +507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128278,
-      "num": 118889,
-      "word": "安徽的省会是哪个城市",
-      "onboard_time": 1692572543,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 134560,
+      "num": 134560,
+      "word": "金泰妍感谢SMTOWN",
+      "onboard_time": 1692573688,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 127957,
@@ -475,11 +523,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116671,
-      "num": 116671,
-      "word": "南京公交车起火事件细节公布",
-      "onboard_time": 1692572543,
-      "rank": 25,
+      "raw_hot": 123362,
+      "num": 123362,
+      "word": "杨紫黑色丝绒西装",
+      "onboard_time": 1692570858,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 118971,
+      "num": 118971,
+      "word": "天津大爷点火测煤气罐漏气爆燃了",
+      "onboard_time": 1692566653,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -489,6 +545,14 @@
       "onboard_time": 1692552321,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110365,
+      "num": 110365,
+      "word": "我国高分十二号04星发射成功",
+      "onboard_time": 1692574289,
+      "rank": 39,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 107199,
@@ -505,22 +569,6 @@
       "onboard_time": 1692545860,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 105679,
-      "num": 105679,
-      "word": "天津大爷点火测煤气罐漏气爆燃了",
-      "onboard_time": 1692566653,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104921,
-      "num": 104921,
-      "word": "杨紫黑色丝绒西装",
-      "onboard_time": 1692570858,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 98410,
