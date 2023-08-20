@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692556442640,
+  "endTime": 1692558780229,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294197,
+      "num": 294197,
+      "word": "替全世界感到尴尬",
+      "onboard_time": 1692534038,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281126,
       "num": 235597,
       "word": "段奥娟近期风格",
@@ -281,14 +289,6 @@
       "onboard_time": 1692548975,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 232206,
-      "num": 232206,
-      "word": "替全世界感到尴尬",
-      "onboard_time": 1692534038,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 229032,
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30225,
+      "num": 35658,
+      "word": "银魂最帅的男人",
+      "onboard_time": 1692556697,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 29311,
       "num": 40300,
       "word": "没想到客厅也能成为酒吧平替",
@@ -523,7 +531,15 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 24851,
+      "raw_hot": 28822,
+      "num": 35441,
+      "word": "不同的天气你都在追的同一部剧",
+      "onboard_time": 1692557897,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 26339,
       "num": 39793,
       "word": "男子爬上香蕉姑娘雕塑抚摸亲吻当地派出所回应",
       "onboard_time": 1692554299,
