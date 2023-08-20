@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692502428813,
+  "endTime": 1692505144669,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -19,6 +19,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2884916,
+      "num": 267366,
+      "word": "王泽鹏没第一时间站出来因为怯懦",
+      "onboard_time": 1692504398,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2145851,
       "num": 2145851,
       "word": "Cheems去世",
@@ -35,11 +43,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1947722,
+      "num": 1947722,
+      "word": "梅西",
+      "onboard_time": 1692495633,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1901492,
       "num": 1721032,
       "word": "刘昊然周冬雨",
       "onboard_time": 1692487221,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1640389,
+      "num": 1640389,
+      "word": "杨紫双手戴满了镯子",
+      "onboard_time": 1692503257,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -67,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1319552,
+      "num": 1079858,
+      "word": "痞幼追星Angelababy",
+      "onboard_time": 1692499896,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1318217,
       "num": 1318217,
       "word": "电影消失的她",
@@ -81,14 +113,6 @@
       "onboard_time": 1692491369,
       "rank": 5,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1256879,
-      "num": 1079858,
-      "word": "痞幼追星Angelababy",
-      "onboard_time": 1692499896,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1122300,
@@ -123,14 +147,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 984519,
-      "num": 984519,
-      "word": "梅西",
-      "onboard_time": 1692495633,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 964630,
       "num": 964630,
       "word": "以为是减脂实际在增肥的行为",
@@ -147,20 +163,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 870407,
+      "num": 870407,
+      "word": "真正的沙县小吃从未走出沙县",
+      "onboard_time": 1692499535,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 802718,
+      "num": 590486,
+      "word": "向佐晒与郭碧婷比心合照",
+      "onboard_time": 1692501634,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 801143,
       "num": 551731,
       "word": "起底中国好声音背后母公司",
       "onboard_time": 1692493897,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 731662,
-      "num": 731662,
-      "word": "真正的沙县小吃从未走出沙县",
-      "onboard_time": 1692499535,
-      "rank": 10,
-      "category": "美食"
     },
     {
       "raw_hot": 728242,
@@ -195,6 +219,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 698985,
+      "num": 698985,
+      "word": "周冬雨变好看了",
+      "onboard_time": 1692502655,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 675883,
       "num": 675883,
       "word": "第一次见女主说男主年老色衰的",
@@ -219,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603962,
+      "num": 603962,
+      "word": "赵露思方否认出演万渣朝凤",
+      "onboard_time": 1692501756,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 585605,
       "num": 585605,
       "word": "林俊杰被激光笔照眼",
@@ -233,6 +273,14 @@
       "onboard_time": 1692451239,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571194,
+      "num": 571194,
+      "word": "张伟丽",
+      "onboard_time": 1692500436,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 568301,
@@ -281,6 +329,14 @@
       "onboard_time": 1692499774,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 538910,
+      "num": 538910,
+      "word": "梅西冠军奖杯数足坛历史第一",
+      "onboard_time": 1692503015,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 536168,
@@ -339,12 +395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477935,
+      "num": 477935,
+      "word": "孩子上幼儿园了的朋友问我整天在忙什么",
+      "onboard_time": 1692501275,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 476257,
       "num": 476257,
       "word": "黑神话",
       "onboard_time": 1692496117,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 474964,
+      "num": 474964,
+      "word": "法老昨晚演出中做出回应",
+      "onboard_time": 1692503257,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 458467,
@@ -395,14 +467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 438225,
-      "num": 438225,
-      "word": "赵露思方否认出演万渣朝凤",
-      "onboard_time": 1692501756,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 435596,
       "num": 316692,
       "word": "葡萄的萄还能组什么词",
@@ -425,14 +489,6 @@
       "onboard_time": 1692460716,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 422117,
-      "num": 422117,
-      "word": "向佐晒与郭碧婷比心合照",
-      "onboard_time": 1692501634,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 416477,
@@ -459,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385873,
+      "num": 385873,
+      "word": "贝克汉姆拥抱梅西",
+      "onboard_time": 1692504815,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381861,
       "num": 381861,
       "word": "刘亦菲对镜自拍",
@@ -475,12 +539,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377692,
+      "num": 370654,
+      "word": "这期好六是魏大勋爆火之前录制的",
+      "onboard_time": 1692504398,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372012,
       "num": 372012,
       "word": "长相思剧组hi6收视率",
       "onboard_time": 1692451661,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 365521,
+      "num": 365521,
+      "word": "梅西迈阿密国际首冠",
+      "onboard_time": 1692503137,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 360343,
@@ -513,14 +593,6 @@
       "onboard_time": 1692456462,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344441,
-      "num": 344441,
-      "word": "张伟丽",
-      "onboard_time": 1692500436,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 336707,
@@ -563,12 +635,12 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 316343,
-      "num": 266090,
-      "word": "孩子上幼儿园了的朋友问我整天在忙什么",
-      "onboard_time": 1692501275,
-      "rank": 31,
-      "category": "幽默,情感"
+      "raw_hot": 320681,
+      "num": 259340,
+      "word": "沈梦辰你是懂气黄晓明的",
+      "onboard_time": 1692504274,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 312525,
@@ -643,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281649,
+      "num": 281649,
+      "word": "萨摩耶 怎么这么大只还让人抱啊",
+      "onboard_time": 1692501875,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281604,
       "num": 242712,
       "word": "男孩爬山引来知了爬满身",
@@ -657,6 +737,14 @@
       "onboard_time": 1692455920,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 272524,
+      "num": 272524,
+      "word": "沈浪朱七七22年后二搭演夫妻",
+      "onboard_time": 1692503795,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 268887,
@@ -883,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207574,
+      "num": 207574,
+      "word": "华晨宇希忘号地铁全包车",
+      "onboard_time": 1692504036,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206371,
       "num": 375881,
       "word": "妻子背丈夫出诊30多年不离不弃",
@@ -913,6 +1009,14 @@
       "onboard_time": 1692452919,
       "rank": 34,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 203148,
+      "num": 203148,
+      "word": "张伟丽vs莱莫斯",
+      "onboard_time": 1692504695,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 202302,
@@ -1003,20 +1107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180103,
+      "num": 180103,
+      "word": "10岁男孩用50多支笔做花束送护士",
+      "onboard_time": 1692502237,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179699,
       "num": 179699,
       "word": "薛之谦说给外卖小哥的一些话",
       "onboard_time": 1692492031,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175507,
-      "num": 175507,
-      "word": "萨摩耶 怎么这么大只还让人抱啊",
-      "onboard_time": 1692501875,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 175368,
@@ -1075,12 +1179,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157989,
-      "num": 157989,
-      "word": "10岁男孩用50多支笔做花束送护士",
-      "onboard_time": 1692502237,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 156173,
+      "num": 156173,
+      "word": "UFC",
+      "onboard_time": 1692504994,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 149588,
@@ -1257,6 +1361,9 @@
     },
     {
       "word": "#金砖扩容将为合作带来新活力#"
+    },
+    {
+      "word": "#我国成功在空间站发射微纳卫星#"
     }
   ]
 }
