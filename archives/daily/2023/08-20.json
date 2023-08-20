@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692493909705,
+  "endTime": 1692495047973,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -20,15 +20,15 @@
     },
     {
       "raw_hot": 1901492,
-      "num": 1420978,
+      "num": 1493738,
       "word": "刘昊然周冬雨",
       "onboard_time": 1692487221,
       "rank": 1,
       "category": "影视"
     },
     {
-      "raw_hot": 1646124,
-      "num": 1646124,
+      "raw_hot": 1784745,
+      "num": 1784745,
       "word": "Cheems去世",
       "onboard_time": 1692488005,
       "rank": 48,
@@ -51,8 +51,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1362236,
-      "num": 1362236,
+      "raw_hot": 1401644,
+      "num": 1401644,
       "word": "一岁多的孩子高铁哭闹遭女子要求闭嘴",
       "onboard_time": 1692489328,
       "rank": 4,
@@ -67,12 +67,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1073536,
-      "num": 1073536,
+      "raw_hot": 1275325,
+      "num": 1275325,
       "word": "东部战区",
       "onboard_time": 1692491369,
       "rank": 5,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1025099,
+      "num": 1025099,
+      "word": "杨紫邓为",
+      "onboard_time": 1692488486,
+      "rank": 7,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 1010359,
@@ -83,16 +91,8 @@
       "category": "军事"
     },
     {
-      "raw_hot": 951254,
-      "num": 951254,
-      "word": "杨紫邓为",
-      "onboard_time": 1692488486,
-      "rank": 7,
-      "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 934818,
-      "num": 934818,
+      "raw_hot": 964630,
+      "num": 964630,
       "word": "以为是减脂实际在增肥的行为",
       "onboard_time": 1692489026,
       "rank": 8,
@@ -147,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 585476,
-      "num": 585476,
+      "raw_hot": 585605,
+      "num": 585605,
       "word": "林俊杰被激光笔照眼",
       "onboard_time": 1692487643,
       "rank": 15,
@@ -163,12 +163,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568301,
+      "num": 568301,
+      "word": "美媒发现好莱坞电影被中国国产片爆杀",
+      "onboard_time": 1692492873,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 551731,
+      "num": 551731,
+      "word": "起底中国好声音背后母公司",
+      "onboard_time": 1692493897,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546015,
       "num": 414648,
       "word": "王鹤棣音乐节",
       "onboard_time": 1692456521,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 537908,
+      "num": 537908,
+      "word": "董明珠回应落榜世界500强",
+      "onboard_time": 1692492212,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 536168,
+      "num": 536168,
+      "word": "王鹤棣听到李雪琴想选魏大勋的反应",
+      "onboard_time": 1692491733,
+      "rank": 13,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 534175,
@@ -187,12 +219,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 510161,
-      "num": 510161,
-      "word": "王鹤棣听到李雪琴想选魏大勋的反应",
-      "onboard_time": 1692491733,
-      "rank": 13,
-      "category": "综艺,艺人"
+      "raw_hot": 498053,
+      "num": 498053,
+      "word": "西湖偶遇向佐郭碧婷",
+      "onboard_time": 1692487884,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 480000,
@@ -203,12 +235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472042,
+      "num": 216947,
+      "word": "韩国女生是天生就会化妆吗",
+      "onboard_time": 1692493234,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 458467,
       "num": 458467,
       "word": "B站广告涉嫌用AI洗稿网易游戏",
       "onboard_time": 1692450399,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457072,
+      "num": 421266,
+      "word": "尤长靖北大硕士演唱会合唱昨日青空",
+      "onboard_time": 1692490471,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 444680,
@@ -235,14 +283,6 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 434890,
-      "num": 434890,
-      "word": "西湖偶遇向佐郭碧婷",
-      "onboard_time": 1692487884,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 422225,
       "num": 244678,
       "word": "活死人厂巡",
@@ -251,19 +291,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 421266,
-      "num": 421266,
-      "word": "尤长靖北大硕士演唱会合唱昨日青空",
-      "onboard_time": 1692490471,
-      "rank": 17,
-      "category": "音乐"
+      "raw_hot": 416064,
+      "num": 345083,
+      "word": "赵露思或将演万渣朝凰",
+      "onboard_time": 1692492031,
+      "rank": 21,
+      "category": "影视"
     },
     {
-      "raw_hot": 411651,
-      "num": 346897,
-      "word": "美媒发现好莱坞电影被中国国产片爆杀",
-      "onboard_time": 1692492873,
-      "rank": 20,
+      "raw_hot": 396255,
+      "num": 246811,
+      "word": "仙剑三是仙侠剧的巅峰吗",
+      "onboard_time": 1692492692,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -273,14 +313,6 @@
       "onboard_time": 1692444394,
       "rank": 12,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 386693,
-      "num": 345083,
-      "word": "赵露思或将演万渣朝凰",
-      "onboard_time": 1692492031,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 372012,
@@ -297,14 +329,6 @@
       "onboard_time": 1692462996,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 360285,
-      "num": 360285,
-      "word": "董明珠回应落榜世界500强",
-      "onboard_time": 1692492212,
-      "rank": 18,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 352605,
@@ -347,20 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322287,
-      "num": 246811,
-      "word": "仙剑三是仙侠剧的巅峰吗",
-      "onboard_time": 1692492692,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321913,
       "num": 242909,
       "word": "鹿晗肌肉",
       "onboard_time": 1692458020,
       "rank": 25,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 315245,
+      "num": 217433,
+      "word": "魏大勋这是在干嘛",
+      "onboard_time": 1692492994,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 312525,
@@ -395,12 +419,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 288531,
-      "num": 217433,
-      "word": "魏大勋这是在干嘛",
-      "onboard_time": 1692492994,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 286265,
+      "num": 209021,
+      "word": "我的人间烟火剧组hi6收视率",
+      "onboard_time": 1692494437,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 284596,
@@ -432,6 +456,14 @@
       "word": "billkin",
       "onboard_time": 1692455141,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 264628,
+      "num": 214320,
+      "word": "春楠叫赵丽颖赵满街",
+      "onboard_time": 1692491554,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -523,19 +555,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 240021,
-      "num": 216947,
-      "word": "韩国女生是天生就会化妆吗",
-      "onboard_time": 1692493234,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 238648,
       "num": 238648,
       "word": "张晚意看到杨紫邓为同框的反应",
       "onboard_time": 1692450818,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 234935,
+      "num": 185544,
+      "word": "黄子弘凡 唐朝诡事录之曼陀罗",
+      "onboard_time": 1692494674,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -553,14 +585,6 @@
       "onboard_time": 1692486862,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 229640,
-      "num": 214320,
-      "word": "春楠叫赵丽颖赵满街",
-      "onboard_time": 1692491554,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 219351,
@@ -584,6 +608,14 @@
       "word": "放8个鸡蛋的蛋炒饭",
       "onboard_time": 1692457001,
       "rank": 29,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 209051,
+      "num": 209051,
+      "word": "福建人从小就喝的饮料",
+      "onboard_time": 1692493053,
+      "rank": 38,
       "category": "美食"
     },
     {
@@ -651,6 +683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197644,
+      "num": 197644,
+      "word": "公司回应游艇绞断大爷下体",
+      "onboard_time": 1692494736,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192553,
       "num": 192553,
       "word": "热刺vs曼联",
@@ -681,14 +721,6 @@
       "onboard_time": 1692449677,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183919,
-      "num": 204363,
-      "word": "福建人从小就喝的饮料",
-      "onboard_time": 1692493053,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 183768,
@@ -739,8 +771,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162182,
-      "num": 162182,
+      "raw_hot": 166922,
+      "num": 166922,
       "word": "薛之谦说给外卖小哥的一些话",
       "onboard_time": 1692492031,
       "rank": 45,
@@ -761,14 +793,6 @@
       "onboard_time": 1692491915,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155392,
-      "num": 155392,
-      "word": "起底中国好声音背后母公司",
-      "onboard_time": 1692493897,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 147058,
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 51570,
-      "num": 1423327,
+      "num": 1551422,
       "word": "东部战区位台岛周边海空联合演训",
       "onboard_time": 1692409595,
       "rank": 2,

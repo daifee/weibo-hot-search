@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692493909705,
+  "endTime": 1692495047973,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2300,7 +2300,7 @@
     },
     {
       "raw_hot": 1901492,
-      "num": 1420978,
+      "num": 1493738,
       "word": "刘昊然周冬雨",
       "onboard_time": 1692487221,
       "rank": 1,
@@ -2609,6 +2609,14 @@
       "onboard_time": 1691624668,
       "rank": 1,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1784745,
+      "num": 1784745,
+      "word": "Cheems去世",
+      "onboard_time": 1692488005,
+      "rank": 48,
+      "category": "其它"
     },
     {
       "raw_hot": 1781391,
@@ -3105,14 +3113,6 @@
       "onboard_time": 1692414514,
       "rank": 15,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 1646124,
-      "num": 1646124,
-      "word": "Cheems去世",
-      "onboard_time": 1692488005,
-      "rank": 48,
-      "category": "其它"
     },
     {
       "raw_hot": 1643909,
@@ -4243,6 +4243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1401644,
+      "num": 1401644,
+      "word": "一岁多的孩子高铁哭闹遭女子要求闭嘴",
+      "onboard_time": 1692489328,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1398575,
       "num": 472682,
       "word": "魏大勋新综艺官宣",
@@ -4433,14 +4441,6 @@
       "onboard_time": 1691251000,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1362236,
-      "num": 1362236,
-      "word": "一岁多的孩子高铁哭闹遭女子要求闭嘴",
-      "onboard_time": 1692489328,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1359680,
@@ -5017,6 +5017,14 @@
       "onboard_time": 1691155658,
       "rank": 30,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1275325,
+      "num": 1275325,
+      "word": "东部战区",
+      "onboard_time": 1692491369,
+      "rank": 5,
+      "category": "军事"
     },
     {
       "raw_hot": 1274804,
@@ -6747,14 +6755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1073536,
-      "num": 1073536,
-      "word": "东部战区",
-      "onboard_time": 1692491369,
-      "rank": 5,
-      "category": "军事"
-    },
-    {
       "raw_hot": 1072431,
       "num": 1072431,
       "word": "BLACKPINK 续约",
@@ -7105,6 +7105,14 @@
       "onboard_time": 1692344380,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1025099,
+      "num": 1025099,
+      "word": "杨紫邓为",
+      "onboard_time": 1692488486,
+      "rank": 7,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 1025098,
@@ -7771,6 +7779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 964630,
+      "num": 964630,
+      "word": "以为是减脂实际在增肥的行为",
+      "onboard_time": 1692489026,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 964037,
       "num": 964037,
       "word": "易烊千玺不收王传君版权费",
@@ -7889,14 +7905,6 @@
       "onboard_time": 1691146114,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 951254,
-      "num": 951254,
-      "word": "杨紫邓为",
-      "onboard_time": 1692488486,
-      "rank": 7,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 950122,
@@ -8129,14 +8137,6 @@
       "onboard_time": 1691669193,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 934818,
-      "num": 934818,
-      "word": "以为是减脂实际在增肥的行为",
-      "onboard_time": 1692489026,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 934197,
@@ -15299,20 +15299,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 585605,
+      "num": 585605,
+      "word": "林俊杰被激光笔照眼",
+      "onboard_time": 1692487643,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 585507,
       "num": 585507,
       "word": "夭玹帝后枕膝",
       "onboard_time": 1692071564,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 585476,
-      "num": 585476,
-      "word": "林俊杰被激光笔照眼",
-      "onboard_time": 1692487643,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 585471,
@@ -15969,6 +15969,14 @@
       "onboard_time": 1691398838,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 568301,
+      "num": 568301,
+      "word": "美媒发现好莱坞电影被中国国产片爆杀",
+      "onboard_time": 1692492873,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 568128,
@@ -16651,6 +16659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 551731,
+      "num": 551731,
+      "word": "起底中国好声音背后母公司",
+      "onboard_time": 1692493897,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551644,
       "num": 394387,
       "word": "久哲发文回应",
@@ -17115,6 +17131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 537908,
+      "num": 537908,
+      "word": "董明珠回应落榜世界500强",
+      "onboard_time": 1692492212,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 537783,
       "num": 514493,
       "word": "夭柳同床相柳往后退了",
@@ -17169,6 +17193,14 @@
       "onboard_time": 1691416119,
       "rank": 23,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 536168,
+      "num": 536168,
+      "word": "王鹤棣听到李雪琴想选魏大勋的反应",
+      "onboard_time": 1692491733,
+      "rank": 13,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 535994,
@@ -18171,14 +18203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 510161,
-      "num": 510161,
-      "word": "王鹤棣听到李雪琴想选魏大勋的反应",
-      "onboard_time": 1692491733,
-      "rank": 13,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 509822,
       "num": 470255,
       "word": "老公执意要在门上面做柜子",
@@ -18617,6 +18641,14 @@
       "onboard_time": 1691751695,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498053,
+      "num": 498053,
+      "word": "西湖偶遇向佐郭碧婷",
+      "onboard_time": 1692487884,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 497715,
@@ -19835,6 +19867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 472042,
+      "num": 216947,
+      "word": "韩国女生是天生就会化妆吗",
+      "onboard_time": 1692493234,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 472036,
       "num": 472036,
       "word": "INFP的分享欲",
@@ -20483,6 +20523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457072,
+      "num": 421266,
+      "word": "尤长靖北大硕士演唱会合唱昨日青空",
+      "onboard_time": 1692490471,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 456788,
       "num": 353110,
       "word": "新地球",
@@ -20556,7 +20604,7 @@
     },
     {
       "raw_hot": 455438,
-      "num": 1423327,
+      "num": 1551422,
       "word": "东部战区位台岛周边海空联合演训",
       "onboard_time": 1692409595,
       "rank": 29,
@@ -21571,14 +21619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 434890,
-      "num": 434890,
-      "word": "西湖偶遇向佐郭碧婷",
-      "onboard_time": 1692487884,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 434874,
       "num": 315341,
       "word": "终于知道为什么叫狗尾巴草了",
@@ -22267,14 +22307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421266,
-      "num": 421266,
-      "word": "尤长靖北大硕士演唱会合唱昨日青空",
-      "onboard_time": 1692490471,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 420909,
       "num": 420909,
       "word": "王俊凯王源易烊千玺排练结束后会聚餐吗",
@@ -22595,6 +22627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416064,
+      "num": 345083,
+      "word": "赵露思或将演万渣朝凰",
+      "onboard_time": 1692492031,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415867,
       "num": 366564,
       "word": "彭昱畅2分钟预告被打4次",
@@ -22784,14 +22824,6 @@
       "word": "苍兰诀到底算不算爆",
       "onboard_time": 1691811877,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 411651,
-      "num": 346897,
-      "word": "美媒发现好莱坞电影被中国国产片爆杀",
-      "onboard_time": 1692492873,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -23643,6 +23675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396255,
+      "num": 246811,
+      "word": "仙剑三是仙侠剧的巅峰吗",
+      "onboard_time": 1692492692,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396214,
       "num": 271573,
       "word": "大家情绪都好容易不稳定啊",
@@ -24145,14 +24185,6 @@
       "onboard_time": 1692442717,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386693,
-      "num": 345083,
-      "word": "赵露思或将演万渣朝凰",
-      "onboard_time": 1692492031,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 386668,
@@ -25865,14 +25897,6 @@
       "onboard_time": 1691389179,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 360285,
-      "num": 360285,
-      "word": "董明珠回应落榜世界500强",
-      "onboard_time": 1692492212,
-      "rank": 18,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 360119,
@@ -28171,14 +28195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322287,
-      "num": 246811,
-      "word": "仙剑三是仙侠剧的巅峰吗",
-      "onboard_time": 1692492692,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 322278,
       "num": 322278,
       "word": "冒泡赛",
@@ -28737,6 +28753,14 @@
       "onboard_time": 1691905713,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 315245,
+      "num": 217433,
+      "word": "魏大勋这是在干嘛",
+      "onboard_time": 1692492994,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 315161,
@@ -30939,14 +30963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 288531,
-      "num": 217433,
-      "word": "魏大勋这是在干嘛",
-      "onboard_time": 1692492994,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 288407,
       "num": 288407,
       "word": "心动6大巴修罗场",
@@ -31113,6 +31129,14 @@
       "onboard_time": 1691320554,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 286265,
+      "num": 209021,
+      "word": "我的人间烟火剧组hi6收视率",
+      "onboard_time": 1692494437,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 286245,
@@ -33105,6 +33129,14 @@
       "onboard_time": 1692142528,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 264628,
+      "num": 214320,
+      "word": "春楠叫赵丽颖赵满街",
+      "onboard_time": 1692491554,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 264614,
@@ -35499,14 +35531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 240021,
-      "num": 216947,
-      "word": "韩国女生是天生就会化妆吗",
-      "onboard_time": 1692493234,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 240001,
       "num": 242374,
       "word": "凤凰男爵",
@@ -36059,6 +36083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234935,
+      "num": 185544,
+      "word": "黄子弘凡 唐朝诡事录之曼陀罗",
+      "onboard_time": 1692494674,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234876,
       "num": 224789,
       "word": "十个勤天",
@@ -36537,14 +36569,6 @@
       "onboard_time": 1691430079,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 229640,
-      "num": 214320,
-      "word": "春楠叫赵丽颖赵满街",
-      "onboard_time": 1692491554,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 229610,
@@ -39067,6 +39091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209051,
+      "num": 209051,
+      "word": "福建人从小就喝的饮料",
+      "onboard_time": 1692493053,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 209008,
       "num": 209008,
       "word": "你被热烈里的哪一句话打动了",
@@ -41313,6 +41345,14 @@
       "onboard_time": 1691814159,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197644,
+      "num": 197644,
+      "word": "公司回应游艇绞断大爷下体",
+      "onboard_time": 1692494736,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197627,
@@ -43731,14 +43771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183919,
-      "num": 204363,
-      "word": "福建人从小就喝的饮料",
-      "onboard_time": 1692493053,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 183768,
       "num": 217325,
       "word": "三笘薰超神一条龙",
@@ -45043,6 +45075,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 166922,
+      "num": 166922,
+      "word": "薛之谦说给外卖小哥的一些话",
+      "onboard_time": 1692492031,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166870,
       "num": 229769,
       "word": "林宥嘉郑州",
@@ -45417,14 +45457,6 @@
       "onboard_time": 1691155120,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 162182,
-      "num": 162182,
-      "word": "薛之谦说给外卖小哥的一些话",
-      "onboard_time": 1692492031,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 162095,
@@ -45825,14 +45857,6 @@
       "onboard_time": 1692194921,
       "rank": 48,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 155392,
-      "num": 155392,
-      "word": "起底中国好声音背后母公司",
-      "onboard_time": 1692493897,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 155031,
