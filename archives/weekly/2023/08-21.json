@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692558780229,
+  "endTime": 1692560040178,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -497,6 +497,14 @@
       "onboard_time": 1692552564,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30666,
+      "num": 30666,
+      "word": "周杰伦呼和浩特",
+      "onboard_time": 1692556937,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 30225,
