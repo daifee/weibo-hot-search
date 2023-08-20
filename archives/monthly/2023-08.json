@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692562534051,
+  "endTime": 1692563632287,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -52083,6 +52083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59269,
+      "num": 25070,
+      "word": "北京下雨",
+      "onboard_time": 1692562216,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59239,
       "num": 241132,
       "word": "张朝阳清华大学演讲",
@@ -53171,15 +53179,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22446,
-      "num": 22446,
-      "word": "北京下雨",
-      "onboard_time": 1692562216,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22190,
+      "raw_hot": 22677,
       "num": 22190,
       "word": "成年后每个人都有自己的生活挑战",
       "onboard_time": 1692561314,
@@ -53267,6 +53267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 18654,
+      "num": 21303,
+      "word": "蔡文静又直播了",
+      "onboard_time": 1692562934,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18031,
       "num": 120315,
       "word": "乔治亚水族馆的海獭们",
@@ -53281,6 +53289,14 @@
       "onboard_time": 1691702593,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17389,
+      "num": 21299,
+      "word": "华晨宇PEL舞台打碟",
+      "onboard_time": 1692562934,
+      "rank": 48,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 16991,
