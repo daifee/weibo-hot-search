@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692531225271,
+  "endTime": 1692534472008,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 2836933,
-      "num": 249671,
+      "num": 260332,
       "word": "李玟生前录音叫不醒装睡的娱乐圈",
       "onboard_time": 1692514416,
       "rank": 34,
@@ -305,6 +305,14 @@
       "onboard_time": 1692152733,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2476015,
+      "num": 517815,
+      "word": "娜然",
+      "onboard_time": 1692533077,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2475436,
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 1919622,
-      "num": 333303,
+      "num": 386905,
       "word": "订婚发生关系后第4天女孩控告强奸",
       "onboard_time": 1692523897,
       "rank": 31,
@@ -1336,6 +1344,14 @@
       "word": "医生称极少贪腐代表不了辛苦的群体",
       "onboard_time": 1691976514,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1384148,
+      "num": 873295,
+      "word": "骑手取餐途中得知孩子跳楼崩溃大哭",
+      "onboard_time": 1692532656,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2307,6 +2323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 972089,
+      "num": 972089,
+      "word": "林心如想当林志玲Akira亲家",
+      "onboard_time": 1692531815,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 971543,
       "num": 971543,
       "word": "男子接完诈骗电话卡里多出14万",
@@ -2769,6 +2793,14 @@
       "onboard_time": 1691975676,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 851361,
+      "num": 851361,
+      "word": "经纪人否认周华健退出中国好声音",
+      "onboard_time": 1692533077,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 847494,
@@ -3595,6 +3627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 697147,
+      "num": 697147,
+      "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
+      "onboard_time": 1692532235,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696951,
       "num": 696951,
       "word": "小米平板",
@@ -4172,7 +4212,7 @@
     },
     {
       "raw_hot": 626808,
-      "num": 327795,
+      "num": 376765,
       "word": "王鹤棣要开个人咖啡品牌了",
       "onboard_time": 1692526896,
       "rank": 22,
@@ -4281,6 +4321,14 @@
       "onboard_time": 1692239972,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 614895,
+      "num": 614895,
+      "word": "首档说唱真人秀要来了",
+      "onboard_time": 1692529534,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 614686,
@@ -4993,6 +5041,14 @@
       "onboard_time": 1692492692,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 551786,
+      "num": 515741,
+      "word": "罗恩彼得琼斯去世",
+      "onboard_time": 1692532358,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 551644,
@@ -5740,7 +5796,7 @@
     },
     {
       "raw_hot": 498609,
-      "num": 321896,
+      "num": 376265,
       "word": "建议不要和诈骗电话聊天",
       "onboard_time": 1692523714,
       "rank": 44,
@@ -5825,6 +5881,14 @@
       "onboard_time": 1692279467,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 495924,
+      "num": 495924,
+      "word": "西班牙女足夺得世界杯冠军",
+      "onboard_time": 1692533557,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 495531,
@@ -6249,14 +6313,6 @@
       "onboard_time": 1692195041,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 464961,
-      "num": 464961,
-      "word": "首档说唱真人秀要来了",
-      "onboard_time": 1692529534,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 464362,
@@ -7059,6 +7115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422951,
+      "num": 422951,
+      "word": "奇瑞",
+      "onboard_time": 1692533137,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 422666,
       "num": 400389,
       "word": "张晚意邓为模仿王弘毅脚滑",
@@ -7417,6 +7481,14 @@
       "onboard_time": 1692231757,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404346,
+      "num": 404346,
+      "word": "中国男篮vs塞尔维亚男篮",
+      "onboard_time": 1692531517,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 403845,
@@ -8361,6 +8433,14 @@
       "onboard_time": 1692324574,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362227,
+      "num": 362227,
+      "word": "花花的下午茶",
+      "onboard_time": 1692531096,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 360965,
@@ -9609,6 +9689,14 @@
       "onboard_time": 1692184778,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304953,
+      "num": 304953,
+      "word": "和平饭店900元自助餐",
+      "onboard_time": 1692531155,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 304140,
@@ -11147,6 +11235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262775,
+      "num": 262775,
+      "word": "时代少年团睡前例行突击检查",
+      "onboard_time": 1692531815,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 262643,
       "num": 262643,
       "word": "檀健次安慰粉丝别哭啦乖",
@@ -11185,6 +11281,14 @@
       "onboard_time": 1692366822,
       "rank": 34,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 261571,
+      "num": 261571,
+      "word": "替全世界感到尴尬",
+      "onboard_time": 1692534038,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 261270,
@@ -11419,6 +11523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256810,
+      "num": 256810,
+      "word": "莲花楼长尾效应",
+      "onboard_time": 1692531096,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256496,
       "num": 256496,
       "word": "女子记录打无痛分娩针过程给老公看",
@@ -11536,6 +11648,14 @@
       "word": "日本东京面临缺水危机",
       "onboard_time": 1692491793,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253230,
+      "num": 505948,
+      "word": "白岩松说视觉中国该真正整改了",
+      "onboard_time": 1692528814,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -12659,20 +12779,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225985,
+      "num": 225985,
+      "word": "女足世界杯决赛",
+      "onboard_time": 1692530913,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225891,
       "num": 225891,
       "word": "长空之王",
       "onboard_time": 1692529773,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225818,
-      "num": 444725,
-      "word": "白岩松说视觉中国该真正整改了",
-      "onboard_time": 1692528814,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225522,
@@ -13176,14 +13296,6 @@
       "word": "小夭把鱼丹紫还给涂山璟",
       "onboard_time": 1692227065,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 213853,
-      "num": 161252,
-      "word": "莲花楼长尾效应",
-      "onboard_time": 1692531096,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -14020,7 +14132,7 @@
     },
     {
       "raw_hot": 201706,
-      "num": 201706,
+      "num": 204401,
       "word": "KPL",
       "onboard_time": 1692183455,
       "rank": 39,
@@ -14627,6 +14739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193968,
+      "num": 205261,
+      "word": "尼格买提不熟勿que",
+      "onboard_time": 1692533316,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193966,
       "num": 193966,
       "word": "蔡依林福州演唱会",
@@ -14969,6 +15089,14 @@
       "onboard_time": 1692360634,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190852,
+      "num": 205170,
+      "word": "张晚意42秒眼神戏一条过",
+      "onboard_time": 1692534217,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 190785,
@@ -15643,6 +15771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177117,
+      "num": 205025,
+      "word": "狼队",
+      "onboard_time": 1692533376,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177007,
       "num": 177007,
       "word": "袋鼠居然这么凶残吗",
@@ -15705,6 +15841,14 @@
       "onboard_time": 1692200795,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 175918,
+      "num": 204923,
+      "word": "娜扎冷艳风造型",
+      "onboard_time": 1692533557,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 175774,
@@ -16119,14 +16263,6 @@
       "num": 161461,
       "word": "新手想减肥有救了",
       "onboard_time": 1692205105,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 161379,
-      "num": 161379,
-      "word": "女足世界杯决赛",
-      "onboard_time": 1692530913,
       "rank": 39,
       "category": "体育"
     },
@@ -16953,14 +17089,6 @@
       "onboard_time": 1692251016,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128405,
-      "num": 159723,
-      "word": "和平饭店900元自助餐",
-      "onboard_time": 1692531155,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 128146,
@@ -18417,6 +18545,14 @@
       "onboard_time": 1692390794,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26422,
+      "num": 497612,
+      "word": "孩子走失民警领群众齐喊话寻找",
+      "onboard_time": 1692532835,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25863,

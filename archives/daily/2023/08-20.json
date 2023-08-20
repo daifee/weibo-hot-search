@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692531225271,
+  "endTime": 1692534472008,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 2836933,
-      "num": 249671,
+      "num": 260332,
       "word": "李玟生前录音叫不醒装睡的娱乐圈",
       "onboard_time": 1692514416,
       "rank": 34,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 2476015,
+      "num": 517815,
+      "word": "娜然",
+      "onboard_time": 1692533077,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2145851,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1919622,
-      "num": 333303,
+      "num": 386905,
       "word": "订婚发生关系后第4天女孩控告强奸",
       "onboard_time": 1692523897,
       "rank": 31,
@@ -176,6 +184,14 @@
       "word": "一岁多的孩子高铁哭闹遭女子要求闭嘴",
       "onboard_time": 1692489328,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1384148,
+      "num": 873295,
+      "word": "骑手取餐途中得知孩子跳楼崩溃大哭",
+      "onboard_time": 1692532656,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 972089,
+      "num": 972089,
+      "word": "林心如想当林志玲Akira亲家",
+      "onboard_time": 1692531815,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 964630,
       "num": 964630,
       "word": "以为是减脂实际在增肥的行为",
@@ -313,6 +337,14 @@
       "onboard_time": 1692512135,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 851361,
+      "num": 851361,
+      "word": "经纪人否认周华健退出中国好声音",
+      "onboard_time": 1692533077,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 824372,
@@ -427,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 697147,
+      "num": 697147,
+      "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
+      "onboard_time": 1692532235,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 685966,
       "num": 685966,
       "word": "贝克汉姆拥抱梅西",
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 626808,
-      "num": 327795,
+      "num": 376765,
       "word": "王鹤棣要开个人咖啡品牌了",
       "onboard_time": 1692526896,
       "rank": 22,
@@ -505,6 +545,14 @@
       "onboard_time": 1692513513,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614895,
+      "num": 614895,
+      "word": "首档说唱真人秀要来了",
+      "onboard_time": 1692529534,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 603962,
@@ -585,6 +633,14 @@
       "onboard_time": 1692492692,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 551786,
+      "num": 515741,
+      "word": "罗恩彼得琼斯去世",
+      "onboard_time": 1692532358,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 546015,
@@ -676,7 +732,7 @@
     },
     {
       "raw_hot": 498609,
-      "num": 321896,
+      "num": 376265,
       "word": "建议不要和诈骗电话聊天",
       "onboard_time": 1692523714,
       "rank": 44,
@@ -689,6 +745,14 @@
       "onboard_time": 1692487884,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495924,
+      "num": 495924,
+      "word": "西班牙女足夺得世界杯冠军",
+      "onboard_time": 1692533557,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 480000,
@@ -721,14 +785,6 @@
       "onboard_time": 1692503257,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 464961,
-      "num": 464961,
-      "word": "首档说唱真人秀要来了",
-      "onboard_time": 1692529534,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 463791,
@@ -835,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422951,
+      "num": 422951,
+      "word": "奇瑞",
+      "onboard_time": 1692533137,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 422225,
       "num": 244678,
       "word": "活死人厂巡",
@@ -873,6 +937,14 @@
       "onboard_time": 1692522756,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404346,
+      "num": 404346,
+      "word": "中国男篮vs塞尔维亚男篮",
+      "onboard_time": 1692531517,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 397122,
@@ -977,6 +1049,14 @@
       "onboard_time": 1692503137,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362227,
+      "num": 362227,
+      "word": "花花的下午茶",
+      "onboard_time": 1692531096,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 360343,
@@ -1179,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304953,
+      "num": 304953,
+      "word": "和平饭店900元自助餐",
+      "onboard_time": 1692531155,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 300025,
       "num": 286568,
       "word": "15岁男孩56码超大脚丫愁坏老妈",
@@ -1339,6 +1427,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262775,
+      "num": 262775,
+      "word": "时代少年团睡前例行突击检查",
+      "onboard_time": 1692531815,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261571,
+      "num": 261571,
+      "word": "替全世界感到尴尬",
+      "onboard_time": 1692534038,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261018,
       "num": 243642,
       "word": "肚皮贴贴才是中年男人的浪漫",
@@ -1371,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256810,
+      "num": 256810,
+      "word": "莲花楼长尾效应",
+      "onboard_time": 1692531096,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254778,
       "num": 203622,
       "word": "文咏珊回自己主场了",
@@ -1392,6 +1504,14 @@
       "word": "日本东京面临缺水危机",
       "onboard_time": 1692491793,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253230,
+      "num": 505948,
+      "word": "白岩松说视觉中国该真正整改了",
+      "onboard_time": 1692528814,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1571,20 +1691,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225985,
+      "num": 225985,
+      "word": "女足世界杯决赛",
+      "onboard_time": 1692530913,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225891,
       "num": 225891,
       "word": "长空之王",
       "onboard_time": 1692529773,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225818,
-      "num": 444725,
-      "word": "白岩松说视觉中国该真正整改了",
-      "onboard_time": 1692528814,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224459,
@@ -1633,14 +1753,6 @@
       "onboard_time": 1692527855,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213853,
-      "num": 161252,
-      "word": "莲花楼长尾效应",
-      "onboard_time": 1692531096,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 213823,
@@ -1891,6 +2003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193968,
+      "num": 205261,
+      "word": "尼格买提不熟勿que",
+      "onboard_time": 1692533316,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192553,
       "num": 192553,
       "word": "热刺vs曼联",
@@ -1937,6 +2057,14 @@
       "onboard_time": 1692525095,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190852,
+      "num": 205170,
+      "word": "张晚意42秒眼神戏一条过",
+      "onboard_time": 1692534217,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 190532,
@@ -2019,12 +2147,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177117,
+      "num": 205025,
+      "word": "狼队",
+      "onboard_time": 1692533376,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177007,
       "num": 177007,
       "word": "袋鼠居然这么凶残吗",
       "onboard_time": 1692515253,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175918,
+      "num": 204923,
+      "word": "娜扎冷艳风造型",
+      "onboard_time": 1692533557,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 175368,
@@ -2097,14 +2241,6 @@
       "onboard_time": 1692524977,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 161379,
-      "num": 161379,
-      "word": "女足世界杯决赛",
-      "onboard_time": 1692530913,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 161184,
@@ -2187,20 +2323,20 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 133025,
+      "num": 204401,
+      "word": "KPL",
+      "onboard_time": 1692531994,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131272,
       "num": 131272,
       "word": "日本YTB播放量最多TOP20的韩国艺人",
       "onboard_time": 1692466285,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128405,
-      "num": 159723,
-      "word": "和平饭店900元自助餐",
-      "onboard_time": 1692531155,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 124436,
@@ -2359,6 +2495,14 @@
       "num": 347795,
       "word": "货车起火5教师秒变消防员奋勇灭火",
       "onboard_time": 1692511297,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26422,
+      "num": 497612,
+      "word": "孩子走失民警领群众齐喊话寻找",
+      "onboard_time": 1692532835,
       "rank": 14,
       "category": "社会新闻"
     },
