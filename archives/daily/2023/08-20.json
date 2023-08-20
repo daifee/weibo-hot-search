@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692535406516,
+  "endTime": 1692537412014,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 5778123,
-      "num": 267366,
+      "num": 284135,
       "word": "王泽鹏没第一时间站出来因为怯懦",
       "onboard_time": 1692504398,
       "rank": 31,
@@ -35,8 +35,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3250709,
+      "num": 467338,
+      "word": "研究表明乳房大小影响运动意愿",
+      "onboard_time": 1692534519,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3163546,
-      "num": 242929,
+      "num": 264914,
       "word": "周菲戈说对不起李玟",
       "onboard_time": 1692509377,
       "rank": 34,
@@ -52,14 +60,14 @@
     },
     {
       "raw_hot": 2836933,
-      "num": 260332,
+      "num": 288842,
       "word": "李玟生前录音叫不醒装睡的娱乐圈",
       "onboard_time": 1692514416,
       "rank": 34,
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 2443524,
+      "raw_hot": 2681988,
       "num": 873295,
       "word": "骑手取餐途中得知孩子跳楼崩溃大哭",
       "onboard_time": 1692532656,
@@ -243,12 +251,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1163241,
-      "num": 467338,
-      "word": "研究表明乳房大小影响运动意愿",
-      "onboard_time": 1692534519,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1264381,
+      "num": 943149,
+      "word": "替全世界感到尴尬",
+      "onboard_time": 1692534038,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 1132165,
@@ -355,12 +363,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 831059,
-      "num": 459065,
-      "word": "替全世界感到尴尬",
-      "onboard_time": 1692534038,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 847669,
+      "num": 847669,
+      "word": "歪歪 内蒙人血脉觉醒",
+      "onboard_time": 1692535539,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 824372,
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 745705,
+      "num": 745705,
+      "word": "慕光之城",
+      "onboard_time": 1692536261,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 740694,
       "num": 740694,
       "word": "FMVP",
@@ -449,6 +465,14 @@
       "onboard_time": 1692492212,
       "rank": 18,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 708136,
+      "num": 375024,
+      "word": "去外省上大学的新生开始慌了",
+      "onboard_time": 1692534761,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 703378,
@@ -497,6 +521,14 @@
       "onboard_time": 1692527915,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 676402,
+      "num": 366617,
+      "word": "男子赤裸上身抚摸亲吻香蕉姑娘雕塑",
+      "onboard_time": 1692536383,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 675883,
@@ -675,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 541815,
+      "num": 363850,
+      "word": "杨紫直播",
+      "onboard_time": 1692535598,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538910,
       "num": 538910,
       "word": "梅西冠军奖杯数足坛历史第一",
@@ -771,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482082,
+      "num": 482082,
+      "word": "张晚意42秒眼神戏一条过",
+      "onboard_time": 1692534217,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 480000,
       "num": 439503,
       "word": "谁来救救成毅救救我",
@@ -803,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 472227,
+      "num": 374380,
+      "word": "王一博乐华家族练舞vlog",
+      "onboard_time": 1692535659,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463791,
       "num": 463791,
       "word": "黑神话悟空",
@@ -833,6 +889,22 @@
       "onboard_time": 1692490471,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 454317,
+      "num": 362423,
+      "word": "沈腾踢魏大勋",
+      "onboard_time": 1692536683,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 446893,
+      "num": 373949,
+      "word": "魏大勋趴着好乖",
+      "onboard_time": 1692535421,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 445489,
@@ -945,14 +1017,6 @@
       "onboard_time": 1692519515,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411118,
-      "num": 232905,
-      "word": "去外省上大学的新生开始慌了",
-      "onboard_time": 1692534761,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 404880,
@@ -1195,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333393,
+      "num": 333393,
+      "word": "七夕将至廉价求婚钻戒月销10万",
+      "onboard_time": 1692535841,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 333216,
       "num": 333216,
       "word": "邓为我是小夭的男朋友",
@@ -1323,14 +1395,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 293053,
-      "num": 293053,
-      "word": "张晚意42秒眼神戏一条过",
-      "onboard_time": 1692534217,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 292570,
       "num": 292570,
       "word": "戴珍珠该穿什么",
@@ -1387,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283343,
+      "num": 283343,
+      "word": "曾舜晞这种算什么水平",
+      "onboard_time": 1692535058,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282318,
       "num": 282318,
       "word": "听杨紫邓为说话得开2倍速",
@@ -1417,6 +1489,14 @@
       "onboard_time": 1692503795,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276663,
+      "num": 276663,
+      "word": "成毅好忙但不知道在忙什么",
+      "onboard_time": 1692536920,
+      "rank": 37,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 273665,
@@ -1456,6 +1536,14 @@
       "word": "这个村靠一村之力省下240万",
       "onboard_time": 1692529894,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 263465,
+      "num": 228801,
+      "word": "沈腾被范丞丞魏大勋拿捏",
+      "onboard_time": 1692536321,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1691,6 +1779,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 232197,
+      "num": 232197,
+      "word": "李凯尔",
+      "onboard_time": 1692534578,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230543,
       "num": 230543,
       "word": "颖儿拍付辛博看周杰伦演唱会",
@@ -1747,6 +1843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221064,
+      "num": 221064,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1692536383,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219685,
       "num": 216377,
       "word": "原来智能马桶是这样助便的",
@@ -1785,14 +1889,6 @@
       "onboard_time": 1692527855,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214355,
-      "num": 214355,
-      "word": "李凯尔",
-      "onboard_time": 1692534578,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 214084,
@@ -1889,6 +1985,14 @@
       "onboard_time": 1692504695,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205573,
+      "num": 205573,
+      "word": "果然钢琴与富士山下才是绝配",
+      "onboard_time": 1692536142,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 205410,
@@ -2115,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190335,
+      "num": 205158,
+      "word": "E人至爽时刻",
+      "onboard_time": 1692534999,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189921,
       "num": 204923,
       "word": "娜扎冷艳风造型",
@@ -2163,14 +2275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184100,
-      "num": 184100,
-      "word": "曾舜晞这种算什么水平",
-      "onboard_time": 1692535058,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 183948,
       "num": 851061,
       "word": "大熊猫喜乐学会钓鱼了",
@@ -2193,14 +2297,6 @@
       "onboard_time": 1692452021,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182908,
-      "num": 182908,
-      "word": "E人至爽时刻",
-      "onboard_time": 1692534999,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 180103,
@@ -2321,6 +2417,14 @@
       "onboard_time": 1692491915,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156121,
+      "num": 203856,
+      "word": "爷爷奶奶接了孙孙转身就走",
+      "onboard_time": 1692537284,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154583,
@@ -2544,6 +2648,14 @@
       "word": "大熊猫专心干饭被邻居吓一跳",
       "onboard_time": 1692466226,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55130,
+      "num": 375454,
+      "word": "3名教师联手救下流血昏迷男子",
+      "onboard_time": 1692536442,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
