@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692505144669,
+  "endTime": 1692506026043,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -11,20 +11,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 5778123,
+      "num": 267366,
+      "word": "王泽鹏没第一时间站出来因为怯懦",
+      "onboard_time": 1692504398,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4382297,
       "num": 277266,
       "word": "王泽鹏回应",
       "onboard_time": 1692497736,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2884916,
-      "num": 267366,
-      "word": "王泽鹏没第一时间站出来因为怯懦",
-      "onboard_time": 1692504398,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 2145851,
@@ -227,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 685966,
+      "num": 685966,
+      "word": "贝克汉姆拥抱梅西",
+      "onboard_time": 1692504815,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 675883,
       "num": 675883,
       "word": "第一次见女主说男主年老色衰的",
@@ -251,12 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 635875,
+      "num": 635875,
+      "word": "张伟丽",
+      "onboard_time": 1692500436,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 603962,
       "num": 603962,
       "word": "赵露思方否认出演万渣朝凤",
       "onboard_time": 1692501756,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 591340,
+      "num": 252219,
+      "word": "游客被吸入水上乐园排水口身亡",
+      "onboard_time": 1692505238,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585605,
@@ -273,14 +297,6 @@
       "onboard_time": 1692451239,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 571194,
-      "num": 571194,
-      "word": "张伟丽",
-      "onboard_time": 1692500436,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 568301,
@@ -419,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 474179,
+      "num": 370654,
+      "word": "这期好六是魏大勋爆火之前录制的",
+      "onboard_time": 1692504398,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458467,
       "num": 458467,
       "word": "B站广告涉嫌用AI洗稿网易游戏",
@@ -515,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 385873,
-      "num": 385873,
-      "word": "贝克汉姆拥抱梅西",
-      "onboard_time": 1692504815,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 381861,
       "num": 381861,
       "word": "刘亦菲对镜自拍",
@@ -536,14 +552,6 @@
       "word": "魏大勋这是在干嘛",
       "onboard_time": 1692492994,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 377692,
-      "num": 370654,
-      "word": "这期好六是魏大勋爆火之前录制的",
-      "onboard_time": 1692504398,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -595,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343187,
+      "num": 343187,
+      "word": "男子出门前闻到糊味回来家烧没了",
+      "onboard_time": 1692505361,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336707,
       "num": 336707,
       "word": "一句有困难引来15个蛇头",
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 320681,
-      "num": 259340,
+      "num": 314279,
       "word": "沈梦辰你是懂气黄晓明的",
       "onboard_time": 1692504274,
       "rank": 33,
@@ -731,20 +747,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278279,
+      "num": 278279,
+      "word": "沈浪朱七七22年后二搭演夫妻",
+      "onboard_time": 1692503795,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273665,
       "num": 220623,
       "word": "周深演唱会哭了",
       "onboard_time": 1692455920,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 272524,
-      "num": 272524,
-      "word": "沈浪朱七七22年后二搭演夫妻",
-      "onboard_time": 1692503795,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 268887,
@@ -931,6 +947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226709,
+      "num": 226709,
+      "word": "华晨宇希忘号地铁全包车",
+      "onboard_time": 1692504036,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219351,
       "num": 172226,
       "word": "长相思第二季的防风邶剧照",
@@ -971,14 +995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207574,
-      "num": 207574,
-      "word": "华晨宇希忘号地铁全包车",
-      "onboard_time": 1692504036,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 206371,
       "num": 375881,
       "word": "妻子背丈夫出诊30多年不离不弃",
@@ -995,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205692,
+      "num": 205692,
+      "word": "张伟丽vs莱莫斯",
+      "onboard_time": 1692504695,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204657,
       "num": 199842,
       "word": "孤注一掷票房破26亿",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1692452919,
       "rank": 34,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 203148,
-      "num": 203148,
-      "word": "张伟丽vs莱莫斯",
-      "onboard_time": 1692504695,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 202302,
@@ -1059,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196148,
+      "num": 196148,
+      "word": "第五人格",
+      "onboard_time": 1692505595,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192553,
       "num": 192553,
       "word": "热刺vs曼联",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1692449677,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184254,
+      "num": 184254,
+      "word": "UFC",
+      "onboard_time": 1692504994,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 183768,
@@ -1177,14 +1209,6 @@
       "onboard_time": 1692491915,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156173,
-      "num": 156173,
-      "word": "UFC",
-      "onboard_time": 1692504994,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 149588,
