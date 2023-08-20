@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692566003508,
+  "endTime": 1692567238771,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -52084,7 +52084,7 @@
     },
     {
       "raw_hot": 59269,
-      "num": 27471,
+      "num": 28175,
       "word": "北京下雨",
       "onboard_time": 1692562216,
       "rank": 34,
@@ -53187,6 +53187,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 22546,
+      "num": 22546,
+      "word": "周洁琼陈宥维演情侣",
+      "onboard_time": 1692563833,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 22009,
       "num": 43676,
       "word": "现在就出发正装烧烤趴",
@@ -53209,14 +53217,6 @@
       "onboard_time": 1691524512,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21597,
-      "num": 21597,
-      "word": "周洁琼陈宥维演情侣",
-      "onboard_time": 1692563833,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 21552,
@@ -53251,6 +53251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19858,
+      "num": 21299,
+      "word": "华晨宇PEL舞台打碟",
+      "onboard_time": 1692562934,
+      "rank": 48,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 19762,
       "num": 157928,
       "word": "到成都看大运",
@@ -53281,14 +53289,6 @@
       "onboard_time": 1691615594,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19179,
-      "num": 21299,
-      "word": "华晨宇PEL舞台打碟",
-      "onboard_time": 1692562934,
-      "rank": 48,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 18031,
@@ -53355,6 +53355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15958,
+      "num": 18090,
+      "word": "男子刷单被骗7万民警支招追回",
+      "onboard_time": 1692566653,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15792,
       "num": 21379,
       "word": "有一种友谊是相差46岁的忘年交",
@@ -53369,6 +53377,14 @@
       "onboard_time": 1691636433,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15323,
+      "num": 18086,
+      "word": "大宋少年志张新成父子对峙戏",
+      "onboard_time": 1692567194,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 13532,
