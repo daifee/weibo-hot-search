@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692526538841,
+  "endTime": 1692527628524,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -83,11 +83,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1916327,
+      "raw_hot": 1919622,
       "num": 308804,
       "word": "订婚发生关系后第4天女孩控告强奸",
       "onboard_time": 1692523897,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1919421,
+      "num": 1919421,
+      "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+      "onboard_time": 1692523357,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -99,15 +107,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1684455,
-      "num": 1684455,
-      "word": "医生吃面发现邻座女子长肿瘤提醒就医",
-      "onboard_time": 1692523357,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1649919,
+      "raw_hot": 1721026,
       "num": 1649919,
       "word": "长春一广播台声明不再与中国好声音合作",
       "onboard_time": 1692525636,
@@ -131,7 +131,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1570699,
+      "raw_hot": 1577737,
       "num": 1570699,
       "word": "王楚然的下一部现代剧",
       "onboard_time": 1692523357,
@@ -611,11 +611,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 499806,
+      "num": 499806,
+      "word": "为什么茉莉花茶要熬夜制作",
+      "onboard_time": 1692526175,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 498821,
       "num": 498821,
       "word": "找不到对象的可以报个老年团",
       "onboard_time": 1692495578,
       "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 498609,
+      "num": 306357,
+      "word": "建议不要和诈骗电话聊天",
+      "onboard_time": 1692523714,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -625,14 +641,6 @@
       "onboard_time": 1692487884,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493920,
-      "num": 303575,
-      "word": "建议不要和诈骗电话聊天",
-      "onboard_time": 1692523714,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 480000,
@@ -793,6 +801,14 @@
       "onboard_time": 1692519515,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404972,
+      "num": 303622,
+      "word": "王鹤棣要开个人咖啡品牌了",
+      "onboard_time": 1692526896,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 404880,
@@ -995,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324540,
+      "num": 324540,
+      "word": "长相思相柳外传二三事",
+      "onboard_time": 1692524737,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321913,
       "num": 242909,
       "word": "鹿晗肌肉",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1692504274,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314495,
+      "num": 314495,
+      "word": "腐竹牛腩煲",
+      "onboard_time": 1692526533,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 312525,
@@ -1187,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275863,
+      "num": 275863,
+      "word": "王一博长空之王影院公映截止至8月27日",
+      "onboard_time": 1692526896,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273665,
       "num": 220623,
       "word": "周深演唱会哭了",
@@ -1323,14 +1363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247039,
-      "num": 247039,
-      "word": "长相思相柳外传二三事",
-      "onboard_time": 1692524737,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 246320,
       "num": 246320,
       "word": "世界冠军获村里10万元奖励当场捐6万",
@@ -1379,12 +1411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240809,
+      "num": 240809,
+      "word": "广州cp",
+      "onboard_time": 1692526835,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 240519,
       "num": 167709,
       "word": "黄子弘凡音乐剧",
       "onboard_time": 1692459277,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240509,
+      "num": 240509,
+      "word": "马伯庸和兵哥哥的合影",
+      "onboard_time": 1692527254,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 238648,
@@ -1411,14 +1459,6 @@
       "category": "影视,影视"
     },
     {
-      "raw_hot": 233942,
-      "num": 233942,
-      "word": "为什么茉莉花茶要熬夜制作",
-      "onboard_time": 1692526175,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 232921,
       "num": 232921,
       "word": "新疆超1万株地肤草软fufu太可爱了",
@@ -1433,6 +1473,14 @@
       "onboard_time": 1692486862,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228538,
+      "num": 228538,
+      "word": "内娱女明星短发造型",
+      "onboard_time": 1692526896,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226709,
@@ -1545,6 +1593,14 @@
       "onboard_time": 1692450520,
       "rank": 14,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 206199,
+      "num": 206199,
+      "word": "CPGZ",
+      "onboard_time": 1692527316,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 205771,
@@ -1771,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187749,
+      "num": 187749,
+      "word": "PEL",
+      "onboard_time": 1692526717,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186544,
       "num": 186544,
       "word": "福宝又吃醋了爷爷喊出夹子音",
@@ -1793,6 +1857,14 @@
       "onboard_time": 1692504994,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183948,
+      "num": 851061,
+      "word": "大熊猫喜乐学会钓鱼了",
+      "onboard_time": 1692524377,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183768,
@@ -1835,14 +1907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176189,
-      "num": 851061,
-      "word": "大熊猫喜乐学会钓鱼了",
-      "onboard_time": 1692524377,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175368,
       "num": 175368,
       "word": "杨千嬅演唱会",
@@ -1865,6 +1929,14 @@
       "onboard_time": 1692512253,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172344,
+      "num": 172344,
+      "word": "业内评价莲花楼8分剧很不容易",
+      "onboard_time": 1692527614,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 171913,
@@ -1932,7 +2004,7 @@
     },
     {
       "raw_hot": 154583,
-      "num": 189423,
+      "num": 240617,
       "word": "这可能是中国邮政最好的广告",
       "onboard_time": 1692519455,
       "rank": 49,
@@ -2043,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100343,
+      "num": 407401,
+      "word": "高铁为突发疾病男孩临停1分钟",
+      "onboard_time": 1692525695,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95564,
       "num": 159204,
       "word": "杜锋告别赵睿欢迎周琦",
@@ -2143,14 +2223,6 @@
       "num": 347795,
       "word": "货车起火5教师秒变消防员奋勇灭火",
       "onboard_time": 1692511297,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33076,
-      "num": 407401,
-      "word": "高铁为突发疾病男孩临停1分钟",
-      "onboard_time": 1692525695,
       "rank": 14,
       "category": "社会新闻"
     },
