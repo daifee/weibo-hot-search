@@ -1,0 +1,410 @@
+{
+  "runTime": 1692516838159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1631932,
+        "num": 1631932,
+        "word": "张伟丽",
+        "onboard_time": 1692500436,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1353327,
+        "num": 1353327,
+        "word": "董明珠称不招只想要多少工资的",
+        "onboard_time": 1692512314,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 35336,
+        "num": 943087,
+        "word": "当高燃BGM配上开渔季",
+        "onboard_time": 1692508297,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1608479,
+        "num": 941932,
+        "word": "刘昊然被喊老公周冬雨的反应",
+        "onboard_time": 1692513034,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 891860,
+        "num": 891860,
+        "word": "王栎鑫被问0713能不一直绑定吗",
+        "onboard_time": 1692512853,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 854179,
+        "num": 854179,
+        "word": "科学家预测本世纪末地球将重置人口数量",
+        "onboard_time": 1692506676,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786876,
+        "num": 786876,
+        "word": "台湾当归",
+        "onboard_time": 1692461075,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 679928,
+        "num": 679928,
+        "word": "晒太阳时千万别睡过头了",
+        "onboard_time": 1692512135,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 633525,
+        "num": 633525,
+        "word": "乌尔善曾说电视剧版封神不是高山是水沟",
+        "onboard_time": 1692514895,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 530012,
+        "num": 530012,
+        "word": "游客被吸入水上乐园排水口身亡",
+        "onboard_time": 1692505238,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806711,
+        "num": 525978,
+        "word": "秀才宿舍",
+        "onboard_time": 1692514895,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 772115,
+        "num": 521115,
+        "word": "张馨予上身身材",
+        "onboard_time": 1692514535,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572524,
+        "num": 520390,
+        "word": "丈夫反对妻子成网红把家全砸了",
+        "onboard_time": 1692513513,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175286,
+        "num": 512033,
+        "word": "男子飞无人机发现山洪救下3人",
+        "onboard_time": 1692513875,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210066,
+        "num": 509226,
+        "word": "女子遭陌生男搭话称长了肿瘤一查真有",
+        "onboard_time": 1692514895,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507038,
+        "num": 507038,
+        "word": "久坐有可能会导致猝死",
+        "onboard_time": 1692514474,
+        "rank": 15,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 477481,
+        "num": 477481,
+        "word": "Jennie一口气发了32张照片",
+        "onboard_time": 1692506858,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460366,
+        "num": 460366,
+        "word": "杨紫双手戴满了镯子",
+        "onboard_time": 1692503257,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346318,
+        "num": 346318,
+        "word": "i人至爽时刻",
+        "onboard_time": 1692514535,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329847,
+        "num": 329847,
+        "word": "邓为檀健次缺德动图",
+        "onboard_time": 1692512435,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354599,
+        "num": 322004,
+        "word": "对方撤回一个错过的爱情",
+        "onboard_time": 1692515017,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308458,
+        "num": 308458,
+        "word": "宝妈称孩子被水果店榴莲砸毁容",
+        "onboard_time": 1692514715,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270878,
+        "num": 270878,
+        "word": "这期好六是魏大勋爆火之前录制的",
+        "onboard_time": 1692504398,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247954,
+        "num": 247954,
+        "word": "妈妈想女儿进厂女儿称不想拿死工资",
+        "onboard_time": 1692506676,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237595,
+        "num": 237595,
+        "word": "张杰说鸟巢我又回来了",
+        "onboard_time": 1692513455,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216874,
+        "num": 216874,
+        "word": "孤注一掷进入国产片票房TOP20",
+        "onboard_time": 1692510997,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214474,
+        "num": 214474,
+        "word": "周冬雨变好看了",
+        "onboard_time": 1692502655,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200539,
+        "num": 200539,
+        "word": "鞠婧祎蝴蝶结发饰",
+        "onboard_time": 1692515737,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 204018,
+        "num": 199652,
+        "word": "是枝裕和也喜欢周冬雨",
+        "onboard_time": 1692515253,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194876,
+        "num": 194876,
+        "word": "尤长靖成都演唱会上座率",
+        "onboard_time": 1692515556,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2122930,
+        "num": 194457,
+        "word": "李玟生前录音叫不醒装睡的娱乐圈",
+        "onboard_time": 1692514416,
+        "rank": 30,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 359319,
+        "num": 193837,
+        "word": "金毛 叫你别生二胎咯",
+        "onboard_time": 1692514293,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1836416,
+        "num": 193677,
+        "word": "周菲戈说对不起李玟",
+        "onboard_time": 1692509377,
+        "rank": 32,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 246908,
+        "num": 193108,
+        "word": "星期三放假非常科学的理由",
+        "onboard_time": 1692515854,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 192521,
+        "num": 192521,
+        "word": "于适工作室是懂我们想看什么的",
+        "onboard_time": 1692514836,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1612590,
+        "num": 186588,
+        "word": "王泽鹏没第一时间站出来因为怯懦",
+        "onboard_time": 1692504398,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209954,
+        "num": 185064,
+        "word": "王鹤棣披上粉丝签名的旗子",
+        "onboard_time": 1692516455,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651320,
+        "num": 182616,
+        "word": "王泽鹏回应",
+        "onboard_time": 1692497736,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179943,
+        "num": 179943,
+        "word": "15岁男孩56码超大脚丫愁坏老妈",
+        "onboard_time": 1692512015,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179375,
+        "num": 179375,
+        "word": "熊猫花花锻炼了当代年轻人",
+        "onboard_time": 1692510036,
+        "rank": 39,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 229766,
+        "num": 178624,
+        "word": "起底中国好声音背后母公司",
+        "onboard_time": 1692493897,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169595,
+        "num": 169595,
+        "word": "2023LCK夏决",
+        "onboard_time": 1692512613,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166896,
+        "num": 166896,
+        "word": "安乐传剧组hi6收视率",
+        "onboard_time": 1692509563,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158240,
+        "num": 158240,
+        "word": "真正的沙县小吃从未走出沙县",
+        "onboard_time": 1692499535,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161488,
+        "num": 157927,
+        "word": "今天这期你好星期六观后感",
+        "onboard_time": 1692507518,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157591,
+        "num": 157591,
+        "word": "李冰冰说张伟丽太酷了",
+        "onboard_time": 1692511355,
+        "rank": 45,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 152117,
+        "num": 152117,
+        "word": "袋鼠居然这么凶残吗",
+        "onboard_time": 1692515253,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149495,
+        "num": 149495,
+        "word": "对象把我掉的头发做成了煤球精",
+        "onboard_time": 1692516757,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147873,
+        "num": 147873,
+        "word": "原来沙漠里的湖泊是海市蜃楼",
+        "onboard_time": 1692516635,
+        "rank": 48,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 147532,
+        "num": 147532,
+        "word": "向佐晒与郭碧婷比心合照",
+        "onboard_time": 1692501634,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国成功在空间站发射微纳卫星#"
+    }
+  }
+}
