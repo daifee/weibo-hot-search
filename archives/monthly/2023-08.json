@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692567238771,
+  "endTime": 1692569669014,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -51419,6 +51419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80146,
+      "num": 80146,
+      "word": "男子刷单被骗7万民警支招追回",
+      "onboard_time": 1692566653,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80088,
       "num": 80088,
       "word": "第一次看海有点害羞",
@@ -52084,7 +52092,7 @@
     },
     {
       "raw_hot": 59269,
-      "num": 28175,
+      "num": 31617,
       "word": "北京下雨",
       "onboard_time": 1692562216,
       "rank": 34,
@@ -52433,6 +52441,14 @@
       "onboard_time": 1691087595,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49041,
+      "num": 49041,
+      "word": "大宋少年志张新成父子对峙戏",
+      "onboard_time": 1692567194,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 48882,
@@ -52785,6 +52801,14 @@
       "onboard_time": 1691132435,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35020,
+      "num": 35020,
+      "word": "周洁琼陈宥维演情侣",
+      "onboard_time": 1692563833,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 34686,
@@ -53171,6 +53195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23539,
+      "num": 31610,
+      "word": "蔡文静又直播了",
+      "onboard_time": 1692562934,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23381,
       "num": 26221,
       "word": "原来这三种行为就是霸总行为",
@@ -53185,14 +53217,6 @@
       "onboard_time": 1692561314,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 22546,
-      "num": 22546,
-      "word": "周洁琼陈宥维演情侣",
-      "onboard_time": 1692563833,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 22009,
@@ -53251,8 +53275,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19858,
-      "num": 21299,
+      "raw_hot": 19960,
+      "num": 31587,
       "word": "华晨宇PEL舞台打碟",
       "onboard_time": 1692562934,
       "rank": 48,
@@ -53265,14 +53289,6 @@
       "onboard_time": 1690860400,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19761,
-      "num": 21303,
-      "word": "蔡文静又直播了",
-      "onboard_time": 1692562934,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 19737,
@@ -53355,14 +53371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15958,
-      "num": 18090,
-      "word": "男子刷单被骗7万民警支招追回",
-      "onboard_time": 1692566653,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15792,
       "num": 21379,
       "word": "有一种友谊是相差46岁的忘年交",
@@ -53377,14 +53385,6 @@
       "onboard_time": 1691636433,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15323,
-      "num": 18086,
-      "word": "大宋少年志张新成父子对峙戏",
-      "onboard_time": 1692567194,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 13532,
