@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692496967631,
+  "endTime": 1692497992947,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -97,6 +97,22 @@
       "onboard_time": 1692489026,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934992,
+      "num": 245708,
+      "word": "王泽鹏回应",
+      "onboard_time": 1692497736,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 893184,
+      "num": 893184,
+      "word": "我的人间烟火剧组hi6收视率",
+      "onboard_time": 1692494437,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 877519,
@@ -203,14 +219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 565559,
-      "num": 565559,
-      "word": "我的人间烟火剧组hi6收视率",
-      "onboard_time": 1692494437,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 552499,
       "num": 552499,
       "word": "仙剑三是仙侠剧的巅峰吗",
@@ -243,12 +251,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 525071,
+      "num": 525071,
+      "word": "最新梦想 费翔的孩子",
+      "onboard_time": 1692495996,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521458,
       "num": 521458,
       "word": "女生大专休学4年复读圆梦北影",
       "onboard_time": 1692461734,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 498821,
+      "num": 498821,
+      "word": "找不到对象的可以报个老年团",
+      "onboard_time": 1692495578,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 498053,
@@ -265,6 +289,14 @@
       "onboard_time": 1692490713,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476257,
+      "num": 476257,
+      "word": "黑神话",
+      "onboard_time": 1692496117,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 458467,
@@ -299,14 +331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 436688,
-      "num": 436688,
-      "word": "最新梦想 费翔的孩子",
-      "onboard_time": 1692495996,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 435596,
       "num": 316692,
       "word": "葡萄的萄还能组什么词",
@@ -315,8 +339,16 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 430224,
+      "num": 430224,
+      "word": "为什么睡够8小时还是很困",
+      "onboard_time": 1692497015,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 426740,
-      "num": 345083,
+      "num": 408465,
       "word": "赵露思或将演万渣朝凰",
       "onboard_time": 1692492031,
       "rank": 21,
@@ -339,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403093,
-      "num": 447801,
-      "word": "找不到对象的可以报个老年团",
-      "onboard_time": 1692495578,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 390186,
       "num": 390186,
       "word": "魏大勋赵今麦版鬼怪",
@@ -355,12 +379,28 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 381861,
+      "num": 381861,
+      "word": "刘亦菲对镜自拍",
+      "onboard_time": 1692495996,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 372012,
       "num": 372012,
       "word": "长相思剧组hi6收视率",
       "onboard_time": 1692451661,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 363998,
+      "num": 363998,
+      "word": "魏大勋这是在干嘛",
+      "onboard_time": 1692492994,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 360343,
@@ -392,14 +432,6 @@
       "word": "邓为悄悄吐舌头",
       "onboard_time": 1692456462,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 343053,
-      "num": 302835,
-      "word": "魏大勋这是在干嘛",
-      "onboard_time": 1692492994,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -443,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 300274,
-      "num": 300274,
-      "word": "黑神话",
-      "onboard_time": 1692496117,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 298362,
       "num": 380609,
       "word": "隔夜水不能喝的原因",
@@ -467,12 +491,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 287343,
-      "num": 241273,
-      "word": "刘亦菲对镜自拍",
-      "onboard_time": 1692495996,
+      "raw_hot": 288542,
+      "num": 231144,
+      "word": "那吾克热尤长靖飘向北方5年前vs5年后",
+      "onboard_time": 1692497436,
       "rank": 35,
-      "category": "艺人,时尚"
+      "category": "综艺"
     },
     {
       "raw_hot": 284596,
@@ -572,11 +596,19 @@
     },
     {
       "raw_hot": 248604,
-      "num": 195964,
+      "num": 202919,
       "word": "黄子弘凡 唐朝诡事录之曼陀罗",
       "onboard_time": 1692494674,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246320,
+      "num": 246320,
+      "word": "世界冠军获村里10万元奖励当场捐6万",
+      "onboard_time": 1692496657,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245589,
@@ -635,6 +667,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 231860,
+      "num": 203622,
+      "word": "文咏珊回自己主场了",
+      "onboard_time": 1692496956,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230543,
       "num": 230543,
       "word": "颖儿拍付辛博看周杰伦演唱会",
@@ -651,19 +691,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218606,
+      "num": 218606,
+      "word": "中医用4元药方治好高烧不退病人",
+      "onboard_time": 1692497195,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217490,
       "num": 217490,
       "word": "赖清德",
       "onboard_time": 1692492395,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214627,
-      "num": 214627,
-      "word": "世界冠军获村里10万元奖励当场捐6万",
-      "onboard_time": 1692496657,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -739,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200025,
+      "num": 200025,
+      "word": "梅西连续7场破门",
+      "onboard_time": 1692497073,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198469,
       "num": 142708,
       "word": "王子浩首张个人EP",
@@ -801,14 +849,6 @@
       "onboard_time": 1692492031,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175668,
-      "num": 175668,
-      "word": "文咏珊回自己主场了",
-      "onboard_time": 1692496956,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 175368,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1692497992947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3803367,
+        "num": 3803367,
+        "word": "台湾当归",
+        "onboard_time": 1692461075,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2066699,
+        "num": 2066699,
+        "word": "Cheems去世",
+        "onboard_time": 1692488005,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44398,
+        "num": 1760381,
+        "word": "东部战区位台岛周边海空联合演训",
+        "onboard_time": 1692409595,
+        "rank": 2,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 1455087,
+        "num": 1455087,
+        "word": "刘昊然周冬雨",
+        "onboard_time": 1692487221,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1128568,
+        "num": 1128568,
+        "word": "一岁多的孩子高铁哭闹遭女子要求闭嘴",
+        "onboard_time": 1692489328,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893184,
+        "num": 893184,
+        "word": "我的人间烟火剧组hi6收视率",
+        "onboard_time": 1692494437,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 807868,
+        "num": 807868,
+        "word": "东部战区",
+        "onboard_time": 1692491369,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 831438,
+        "num": 805850,
+        "word": "杨紫邓为",
+        "onboard_time": 1692488486,
+        "rank": 7,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 691399,
+        "num": 691399,
+        "word": "韩国女生是天生就会化妆吗",
+        "onboard_time": 1692493234,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 686335,
+        "num": 686335,
+        "word": "梅西",
+        "onboard_time": 1692495633,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 672629,
+        "num": 672629,
+        "word": "以为是减脂实际在增肥的行为",
+        "onboard_time": 1692489026,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584010,
+        "num": 584010,
+        "word": "董明珠回应落榜世界500强",
+        "onboard_time": 1692492212,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 546517,
+        "num": 546517,
+        "word": "仙剑三是仙侠剧的巅峰吗",
+        "onboard_time": 1692492692,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525071,
+        "num": 525071,
+        "word": "最新梦想 费翔的孩子",
+        "onboard_time": 1692495996,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344061,
+        "num": 510870,
+        "word": "台岛周边我舰抵近台舰",
+        "onboard_time": 1692487944,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 504230,
+        "num": 504230,
+        "word": "美媒发现好莱坞电影被中国国产片爆杀",
+        "onboard_time": 1692492873,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 498821,
+        "num": 498821,
+        "word": "找不到对象的可以报个老年团",
+        "onboard_time": 1692495578,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 476257,
+        "num": 476257,
+        "word": "黑神话",
+        "onboard_time": 1692496117,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 463637,
+        "num": 463637,
+        "word": "林俊杰被激光笔照眼",
+        "onboard_time": 1692487643,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 430224,
+        "num": 430224,
+        "word": "为什么睡够8小时还是很困",
+        "onboard_time": 1692497015,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416771,
+        "num": 416771,
+        "word": "李荣浩演唱会抓包提前走的粉丝",
+        "onboard_time": 1692490530,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 408465,
+        "num": 408465,
+        "word": "赵露思或将演万渣朝凰",
+        "onboard_time": 1692492031,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381861,
+        "num": 381861,
+        "word": "刘亦菲对镜自拍",
+        "onboard_time": 1692495996,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 371292,
+        "num": 371292,
+        "word": "公司回应游艇绞断大爷下体",
+        "onboard_time": 1692494736,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762862,
+        "num": 368635,
+        "word": "起底中国好声音背后母公司",
+        "onboard_time": 1692493897,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363998,
+        "num": 363998,
+        "word": "魏大勋这是在干嘛",
+        "onboard_time": 1692492994,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363762,
+        "num": 363762,
+        "word": "西湖偶遇向佐郭碧婷",
+        "onboard_time": 1692487884,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359977,
+        "num": 359977,
+        "word": "王鹤棣听到李雪琴想选魏大勋的反应",
+        "onboard_time": 1692491733,
+        "rank": 27,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 298334,
+        "num": 298334,
+        "word": "葡萄的萄还能组什么词",
+        "onboard_time": 1692456281,
+        "rank": 28,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 246320,
+        "num": 246320,
+        "word": "世界冠军获村里10万元奖励当场捐6万",
+        "onboard_time": 1692496657,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934992,
+        "num": 245708,
+        "word": "王泽鹏回应",
+        "onboard_time": 1692497736,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352884,
+        "num": 245504,
+        "word": "长相思第二季或将七夕播出",
+        "onboard_time": 1692487463,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349408,
+        "num": 245484,
+        "word": "第一次见女主说男主年老色衰的",
+        "onboard_time": 1692486862,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245059,
+        "num": 245059,
+        "word": "东部战区位台岛演训长时段抵近慑压",
+        "onboard_time": 1692491554,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 237028,
+        "num": 237028,
+        "word": "秘鲁一11岁女童遭继父性侵堕胎被拒",
+        "onboard_time": 1692487584,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288542,
+        "num": 231144,
+        "word": "那吾克热尤长靖飘向北方5年前vs5年后",
+        "onboard_time": 1692497436,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288030,
+        "num": 226079,
+        "word": "谁来救救成毅救救我",
+        "onboard_time": 1692490713,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257830,
+        "num": 223796,
+        "word": "尤长靖北大硕士演唱会合唱昨日青空",
+        "onboard_time": 1692490471,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218606,
+        "num": 218606,
+        "word": "中医用4元药方治好高烧不退病人",
+        "onboard_time": 1692497195,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207081,
+        "num": 207081,
+        "word": "日本东京面临缺水危机",
+        "onboard_time": 1692491793,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231860,
+        "num": 203622,
+        "word": "文咏珊回自己主场了",
+        "onboard_time": 1692496956,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229761,
+        "num": 202919,
+        "word": "黄子弘凡 唐朝诡事录之曼陀罗",
+        "onboard_time": 1692494674,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208798,
+        "num": 201607,
+        "word": "春楠叫赵丽颖赵满街",
+        "onboard_time": 1692491554,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200025,
+        "num": 200025,
+        "word": "梅西连续7场破门",
+        "onboard_time": 1692497073,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197397,
+        "num": 197397,
+        "word": "薛之谦与一家三口的幽默对话",
+        "onboard_time": 1692487041,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193478,
+        "num": 193478,
+        "word": "大爷江中游泳被游艇绞断下体",
+        "onboard_time": 1692494975,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188147,
+        "num": 188147,
+        "word": "女生大专休学4年复读圆梦北影",
+        "onboard_time": 1692461734,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 179034,
+        "num": 179034,
+        "word": "吉林女生体制内离职打零工创业",
+        "onboard_time": 1692455322,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176511,
+        "num": 176511,
+        "word": "一句有困难引来15个蛇头",
+        "onboard_time": 1692489267,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154638,
+        "num": 154638,
+        "word": "福建人从小就喝的饮料",
+        "onboard_time": 1692493053,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
