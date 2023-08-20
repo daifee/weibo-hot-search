@@ -1,0 +1,410 @@
+{
+  "runTime": 1692526538841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1684455,
+        "num": 1684455,
+        "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+        "onboard_time": 1692523357,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1649919,
+        "num": 1649919,
+        "word": "长春一广播台声明不再与中国好声音合作",
+        "onboard_time": 1692525636,
+        "rank": 1,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 47512,
+        "num": 1573566,
+        "word": "子弟兵连续奋战抢修受损堤坝",
+        "onboard_time": 1692520417,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1570699,
+        "num": 1570699,
+        "word": "王楚然的下一部现代剧",
+        "onboard_time": 1692523357,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176189,
+        "num": 851061,
+        "word": "大熊猫喜乐学会钓鱼了",
+        "onboard_time": 1692524377,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808001,
+        "num": 808001,
+        "word": "对象把我掉的头发做成了煤球精",
+        "onboard_time": 1692516757,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163866,
+        "num": 769913,
+        "word": "男子飞无人机发现山洪救下3人",
+        "onboard_time": 1692513875,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740694,
+        "num": 740694,
+        "word": "FMVP",
+        "onboard_time": 1692524494,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 625044,
+        "num": 625044,
+        "word": "董明珠称不招只想要多少工资的",
+        "onboard_time": 1692512314,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 242718,
+        "num": 562444,
+        "word": "城际公交车在南京起火事件通报",
+        "onboard_time": 1692520894,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679853,
+        "num": 560022,
+        "word": "张馨予上身身材",
+        "onboard_time": 1692514535,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548900,
+        "num": 548900,
+        "word": "刘昊然被喊老公周冬雨的反应",
+        "onboard_time": 1692513034,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226516,
+        "num": 453620,
+        "word": "台湾当归",
+        "onboard_time": 1692461075,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 419678,
+        "num": 419678,
+        "word": "景甜冯绍峰色差",
+        "onboard_time": 1692521673,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33076,
+        "num": 407401,
+        "word": "高铁为突发疾病男孩临停1分钟",
+        "onboard_time": 1692525695,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404880,
+        "num": 404880,
+        "word": "韩剧moving",
+        "onboard_time": 1692522756,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363466,
+        "num": 363466,
+        "word": "游客被吸入水上乐园排水口身亡",
+        "onboard_time": 1692505238,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325464,
+        "num": 325464,
+        "word": "乌尔善曾说电视剧版封神不是高山是水沟",
+        "onboard_time": 1692514895,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321450,
+        "num": 321450,
+        "word": "GEN战胜T1",
+        "onboard_time": 1692522995,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309428,
+        "num": 309428,
+        "word": "玱玹眼眶红了",
+        "onboard_time": 1692521973,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1916327,
+        "num": 308804,
+        "word": "订婚发生关系后第4天女孩控告强奸",
+        "onboard_time": 1692523897,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510732,
+        "num": 306172,
+        "word": "日本女星藤咲凪自曝已是单亲母亲",
+        "onboard_time": 1692521314,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493920,
+        "num": 303575,
+        "word": "建议不要和诈骗电话聊天",
+        "onboard_time": 1692523714,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293750,
+        "num": 293750,
+        "word": "杨紫双手戴满了镯子",
+        "onboard_time": 1692503257,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288053,
+        "num": 288053,
+        "word": "王楚然的待播剧好多",
+        "onboard_time": 1692524977,
+        "rank": 24,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 282318,
+        "num": 282318,
+        "word": "听杨紫邓为说话得开2倍速",
+        "onboard_time": 1692522334,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277724,
+        "num": 277724,
+        "word": "王栎鑫被问0713能不一直绑定吗",
+        "onboard_time": 1692512853,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262792,
+        "num": 262792,
+        "word": "Jennie一口气发了32张照片",
+        "onboard_time": 1692506858,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247039,
+        "num": 247039,
+        "word": "长相思相柳外传二三事",
+        "onboard_time": 1692524737,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243659,
+        "num": 243659,
+        "word": "马立奥早餐吃了两个汉堡",
+        "onboard_time": 1692519515,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1896518,
+        "num": 242707,
+        "word": "李玟生前录音叫不醒装睡的娱乐圈",
+        "onboard_time": 1692514416,
+        "rank": 30,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 238992,
+        "num": 238992,
+        "word": "黑神话悟空",
+        "onboard_time": 1692519335,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1027914,
+        "num": 238370,
+        "word": "王泽鹏没第一时间站出来因为怯懦",
+        "onboard_time": 1692504398,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233942,
+        "num": 233942,
+        "word": "为什么茉莉花茶要熬夜制作",
+        "onboard_time": 1692526175,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 625094,
+        "num": 233924,
+        "word": "周菲戈说对不起李玟",
+        "onboard_time": 1692509377,
+        "rank": 34,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 233503,
+        "num": 233503,
+        "word": "郝蕾 永远靠自己",
+        "onboard_time": 1692517834,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359059,
+        "num": 233052,
+        "word": "王泽鹏回应",
+        "onboard_time": 1692497736,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231822,
+        "num": 231822,
+        "word": "当代年轻人把离职办成了婚礼",
+        "onboard_time": 1692522816,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198054,
+        "num": 198054,
+        "word": "95花生五大齁甜cp",
+        "onboard_time": 1692525576,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191761,
+        "num": 191761,
+        "word": "上班后活成了章鱼哥",
+        "onboard_time": 1692525095,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189588,
+        "num": 189588,
+        "word": "全员加速中联动版定档",
+        "onboard_time": 1692521493,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187287,
+        "num": 187287,
+        "word": "被江西人的冰箱辣到了",
+        "onboard_time": 1692519874,
+        "rank": 41,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 170527,
+        "num": 170527,
+        "word": "近视眼和甜食有关系",
+        "onboard_time": 1692518617,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164217,
+        "num": 164217,
+        "word": "这居然是10后的发言",
+        "onboard_time": 1692517957,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162468,
+        "num": 162468,
+        "word": "玫瑰桃子冰粉",
+        "onboard_time": 1692524977,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160554,
+        "num": 160554,
+        "word": "原来摔烂东西是可以不被责骂的",
+        "onboard_time": 1692518136,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153205,
+        "num": 153205,
+        "word": "孤注一掷进入国产片票房TOP20",
+        "onboard_time": 1692510997,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148795,
+        "num": 148795,
+        "word": "曾舜晞臂肌",
+        "onboard_time": 1692526414,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139336,
+        "num": 139336,
+        "word": "原来智能马桶是这样助便的",
+        "onboard_time": 1692518676,
+        "rank": 48,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 131075,
+        "num": 131075,
+        "word": "金毛 叫你别生二胎咯",
+        "onboard_time": 1692514293,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}

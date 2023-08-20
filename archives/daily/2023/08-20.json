@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692524038908,
+  "endTime": 1692526538841,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -83,12 +83,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1916327,
+      "num": 308804,
+      "word": "订婚发生关系后第4天女孩控告强奸",
+      "onboard_time": 1692523897,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1901492,
       "num": 1721032,
       "word": "刘昊然周冬雨",
       "onboard_time": 1692487221,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1684455,
+      "num": 1684455,
+      "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+      "onboard_time": 1692523357,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1649919,
+      "num": 1649919,
+      "word": "长春一广播台声明不再与中国好声音合作",
+      "onboard_time": 1692525636,
+      "rank": 1,
+      "category": "社会新闻,综艺"
     },
     {
       "raw_hot": 1640389,
@@ -104,6 +128,14 @@
       "word": "刘昊然被喊老公周冬雨的反应",
       "onboard_time": 1692513034,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1570699,
+      "num": 1570699,
+      "word": "王楚然的下一部现代剧",
+      "onboard_time": 1692523357,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -148,7 +180,7 @@
     },
     {
       "raw_hot": 1364471,
-      "num": 521115,
+      "num": 560022,
       "word": "张馨予上身身材",
       "onboard_time": 1692514535,
       "rank": 20,
@@ -321,6 +353,14 @@
       "onboard_time": 1692514895,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 740694,
+      "num": 740694,
+      "word": "FMVP",
+      "onboard_time": 1692524494,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 728242,
@@ -563,14 +603,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 501871,
-      "num": 501871,
-      "word": "医生吃面发现邻座女子长肿瘤提醒就医",
-      "onboard_time": 1692523357,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 500193,
       "num": 500193,
       "word": "郝蕾 永远靠自己",
@@ -593,6 +625,14 @@
       "onboard_time": 1692487884,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493920,
+      "num": 303575,
+      "word": "建议不要和诈骗电话聊天",
+      "onboard_time": 1692523714,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 480000,
@@ -649,14 +689,6 @@
       "onboard_time": 1692490471,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 451775,
-      "num": 451775,
-      "word": "王楚然的下一部现代剧",
-      "onboard_time": 1692523357,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 445489,
@@ -763,8 +795,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 394813,
-      "num": 394813,
+      "raw_hot": 404880,
+      "num": 404880,
       "word": "韩剧moving",
       "onboard_time": 1692522756,
       "rank": 18,
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 356529,
-      "num": 491682,
+      "num": 562444,
       "word": "城际公交车在南京起火事件通报",
       "onboard_time": 1692520894,
       "rank": 9,
@@ -921,14 +953,6 @@
       "onboard_time": 1692514535,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 344617,
-      "num": 248359,
-      "word": "订婚发生关系后第4天女孩控告强奸",
-      "onboard_time": 1692523897,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336707,
@@ -1091,6 +1115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 288053,
+      "num": 288053,
+      "word": "王楚然的待播剧好多",
+      "onboard_time": 1692524977,
+      "rank": 24,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 287921,
       "num": 256569,
       "word": "安乐传剧组hi6收视率",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1692443616,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282318,
+      "num": 282318,
+      "word": "听杨紫邓为说话得开2倍速",
+      "onboard_time": 1692522334,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 281649,
@@ -1283,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247039,
+      "num": 247039,
+      "word": "长相思相柳外传二三事",
+      "onboard_time": 1692524737,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246320,
       "num": 246320,
       "word": "世界冠军获村里10万元奖励当场捐6万",
@@ -1331,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240708,
-      "num": 240708,
-      "word": "听杨紫邓为说话得开2倍速",
-      "onboard_time": 1692522334,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240519,
       "num": 167709,
       "word": "黄子弘凡音乐剧",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1692500314,
       "rank": 42,
       "category": "影视,影视"
+    },
+    {
+      "raw_hot": 233942,
+      "num": 233942,
+      "word": "为什么茉莉花茶要熬夜制作",
+      "onboard_time": 1692526175,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 232921,
@@ -1452,7 +1500,7 @@
     },
     {
       "raw_hot": 213215,
-      "num": 512033,
+      "num": 769913,
       "word": "男子飞无人机发现山洪救下3人",
       "onboard_time": 1692513875,
       "rank": 13,
@@ -1555,14 +1603,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 202783,
-      "num": 202783,
-      "word": "建议不要和诈骗电话聊天",
-      "onboard_time": 1692523714,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 202302,
       "num": 161876,
       "word": "马立奥来北京啦",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1692462454,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198054,
+      "num": 198054,
+      "word": "95花生五大齁甜cp",
+      "onboard_time": 1692525576,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197008,
@@ -1707,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191761,
+      "num": 191761,
+      "word": "上班后活成了章鱼哥",
+      "onboard_time": 1692525095,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190532,
       "num": 190532,
       "word": "邓为先擦桌子后擦脸",
@@ -1779,6 +1835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176189,
+      "num": 851061,
+      "word": "大熊猫喜乐学会钓鱼了",
+      "onboard_time": 1692524377,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175368,
       "num": 175368,
       "word": "杨千嬅演唱会",
@@ -1843,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162468,
+      "num": 162468,
+      "word": "玫瑰桃子冰粉",
+      "onboard_time": 1692524977,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161184,
       "num": 134633,
       "word": "王鹤棣的蒙D奇",
@@ -1873,6 +1945,14 @@
       "onboard_time": 1692496355,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148795,
+      "num": 148795,
+      "word": "曾舜晞臂肌",
+      "onboard_time": 1692526414,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147873,
@@ -2036,7 +2116,7 @@
     },
     {
       "raw_hot": 58117,
-      "num": 778978,
+      "num": 1573566,
       "word": "子弟兵连续奋战抢修受损堤坝",
       "onboard_time": 1692520417,
       "rank": 2,
@@ -2063,6 +2143,14 @@
       "num": 347795,
       "word": "货车起火5教师秒变消防员奋勇灭火",
       "onboard_time": 1692511297,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33076,
+      "num": 407401,
+      "word": "高铁为突发疾病男孩临停1分钟",
+      "onboard_time": 1692525695,
       "rank": 14,
       "category": "社会新闻"
     },
