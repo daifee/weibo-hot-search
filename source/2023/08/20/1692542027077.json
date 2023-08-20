@@ -1,0 +1,410 @@
+{
+  "runTime": 1692542027077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9933964,
+        "num": 9933964,
+        "word": "浙江广电集团回应",
+        "onboard_time": 1692537463,
+        "rank": 0,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 2703505,
+        "num": 2703505,
+        "word": "浙江广电称李玟值得铭记",
+        "onboard_time": 1692538490,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427082,
+        "num": 1791373,
+        "word": "接到96110来电千万不要挂",
+        "onboard_time": 1692540526,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115566,
+        "num": 1115566,
+        "word": "正式确诊为雷小米",
+        "onboard_time": 1692538850,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 876507,
+        "num": 876507,
+        "word": "姜潮差点替黄子韬徐艺洋官宣",
+        "onboard_time": 1692540468,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 726531,
+        "num": 726531,
+        "word": "替全世界感到尴尬",
+        "onboard_time": 1692534038,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687230,
+        "num": 687230,
+        "word": "胡明轩",
+        "onboard_time": 1692537947,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659520,
+        "num": 659520,
+        "word": "去外省上大学的新生开始慌了",
+        "onboard_time": 1692534761,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 577681,
+        "num": 577681,
+        "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+        "onboard_time": 1692523357,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400153,
+        "num": 573798,
+        "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
+        "onboard_time": 1692532235,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2048962,
+        "num": 562655,
+        "word": "研究表明乳房大小影响运动意愿",
+        "onboard_time": 1692534519,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480929,
+        "num": 551436,
+        "word": "娜然",
+        "onboard_time": 1692533077,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628463,
+        "num": 531306,
+        "word": "段奥娟近期风格",
+        "onboard_time": 1692540167,
+        "rank": 12,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 525732,
+        "num": 525732,
+        "word": "娜扎芭比造型",
+        "onboard_time": 1692540228,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187314,
+        "num": 506179,
+        "word": "爸爸低估了儿子的豪爽度",
+        "onboard_time": 1692529715,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 504587,
+        "num": 504587,
+        "word": "杨紫直播",
+        "onboard_time": 1692535598,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450521,
+        "num": 450521,
+        "word": "慕光之城",
+        "onboard_time": 1692536261,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388640,
+        "num": 388640,
+        "word": "没想到客厅也能成为酒吧平替",
+        "onboard_time": 1692539448,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212156,
+        "num": 386551,
+        "word": "把对象拍好看是男人毕生的课程",
+        "onboard_time": 1692538669,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211383,
+        "num": 384414,
+        "word": "AG超玩会",
+        "onboard_time": 1692540228,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1338119,
+        "num": 382894,
+        "word": "订婚发生关系后第4天女孩控告强奸",
+        "onboard_time": 1692523897,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793387,
+        "num": 381173,
+        "word": "男子赤裸上身抚摸亲吻香蕉姑娘雕塑",
+        "onboard_time": 1692536383,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557847,
+        "num": 378630,
+        "word": "到缅北第一天就被拉去参观水牢",
+        "onboard_time": 1692538069,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442514,
+        "num": 376331,
+        "word": "歪歪 内蒙人血脉觉醒",
+        "onboard_time": 1692535539,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425933,
+        "num": 373310,
+        "word": "沈腾踢魏大勋",
+        "onboard_time": 1692536683,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206621,
+        "num": 371331,
+        "word": "李凯尔",
+        "onboard_time": 1692534578,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420007,
+        "num": 369238,
+        "word": "魏大勋听白敬亭叫哥哥的反应",
+        "onboard_time": 1692539147,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299167,
+        "num": 368023,
+        "word": "七夕将至廉价求婚钻戒月销10万",
+        "onboard_time": 1692535841,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 366656,
+        "num": 366656,
+        "word": "白敬亭帮魏大勋摆霸总姿势",
+        "onboard_time": 1692539686,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276576,
+        "num": 347178,
+        "word": "建议不要和诈骗电话聊天",
+        "onboard_time": 1692523714,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1493088,
+        "num": 346202,
+        "word": "那辛朋友圈",
+        "onboard_time": 1692540766,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344517,
+        "num": 344517,
+        "word": "白敬亭尊嘟会穿",
+        "onboard_time": 1692539989,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1412506,
+        "num": 343020,
+        "word": "起底中国好声音背后灿星文化",
+        "onboard_time": 1692541005,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259002,
+        "num": 340483,
+        "word": "爷爷奶奶接了孙孙转身就走",
+        "onboard_time": 1692537284,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656506,
+        "num": 338303,
+        "word": "王泽鹏没第一时间站出来因为怯懦",
+        "onboard_time": 1692504398,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205204,
+        "num": 336300,
+        "word": "吃过最难吃的水果是什么",
+        "onboard_time": 1692541428,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 610064,
+        "num": 333943,
+        "word": "长春一广播台声明不再与中国好声音合作",
+        "onboard_time": 1692525636,
+        "rank": 36,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 200521,
+        "num": 331625,
+        "word": "薄荷脑袋们集合",
+        "onboard_time": 1692541789,
+        "rank": 37,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 535245,
+        "num": 330596,
+        "word": "李玟生前录音叫不醒装睡的娱乐圈",
+        "onboard_time": 1692514416,
+        "rank": 38,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 187820,
+        "num": 328371,
+        "word": "古人给猫取名能多有诗意",
+        "onboard_time": 1692541127,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418615,
+        "num": 325175,
+        "word": "武林外传预言好声音",
+        "onboard_time": 1692541669,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325039,
+        "num": 325039,
+        "word": "黄旭熙说要第4次出道",
+        "onboard_time": 1692541789,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292360,
+        "num": 292360,
+        "word": "看完学爸决定不卷了",
+        "onboard_time": 1692541190,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308864,
+        "num": 283205,
+        "word": "张晚意42秒眼神戏一条过",
+        "onboard_time": 1692534217,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186626,
+        "num": 253212,
+        "word": "又被王仕鹏投篮秀到了",
+        "onboard_time": 1692541066,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247092,
+        "num": 247092,
+        "word": "王一博乐华家族练舞vlog",
+        "onboard_time": 1692535659,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247054,
+        "num": 247054,
+        "word": "金晨鼻子被狗揍了",
+        "onboard_time": 1692537763,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235843,
+        "num": 235843,
+        "word": "檀健次行走的梗王制造机",
+        "onboard_time": 1692541967,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171325,
+        "num": 215822,
+        "word": "中国男篮vs塞尔维亚男篮",
+        "onboard_time": 1692531517,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161187,
+        "num": 212133,
+        "word": "山东车站买票身高",
+        "onboard_time": 1692541190,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中南友谊的彩虹之桥不断延伸#"
+    }
+  }
+}
