@@ -1,0 +1,410 @@
+{
+  "runTime": 1692573309769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1282322,
+        "num": 1282322,
+        "word": "韩国知名网红擅自赴乌参战被判刑1年半",
+        "onboard_time": 1692552203,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715117,
+        "num": 715117,
+        "word": "当我姐发现自己曾拒绝过华为",
+        "onboard_time": 1692543404,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141582,
+        "num": 442889,
+        "word": "接到96110来电千万不要挂",
+        "onboard_time": 1692540526,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319326,
+        "num": 319326,
+        "word": "突发心梗 4个千万不能做和一定要做",
+        "onboard_time": 1692544482,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292341,
+        "num": 292341,
+        "word": "缅北诈骗人员自曝专盯单身公务员",
+        "onboard_time": 1692542803,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280117,
+        "num": 280117,
+        "word": "一个刘海搞定所有脸型bug",
+        "onboard_time": 1692544064,
+        "rank": 5,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 276001,
+        "num": 276001,
+        "word": "双眼皮要做成刘亦菲那样的",
+        "onboard_time": 1692548975,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255489,
+        "num": 255489,
+        "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+        "onboard_time": 1692523357,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252161,
+        "num": 252161,
+        "word": "央视调查甘肃天水古城",
+        "onboard_time": 1692572543,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242256,
+        "num": 242256,
+        "word": "去外省上大学的新生开始慌了",
+        "onboard_time": 1692534761,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387072,
+        "num": 237353,
+        "word": "研究表明乳房大小影响运动意愿",
+        "onboard_time": 1692534519,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231891,
+        "num": 231891,
+        "word": "by2晒与Angelababy合照",
+        "onboard_time": 1692572964,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211954,
+        "num": 211954,
+        "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
+        "onboard_time": 1692532235,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205958,
+        "num": 205958,
+        "word": "娜然",
+        "onboard_time": 1692533077,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196488,
+        "num": 196488,
+        "word": "正式确诊为雷小米",
+        "onboard_time": 1692538850,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167470,
+        "num": 167470,
+        "word": "吃过最难吃的水果是什么",
+        "onboard_time": 1692541428,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157436,
+        "num": 157436,
+        "word": "姜潮差点替黄子韬徐艺洋官宣",
+        "onboard_time": 1692540468,
+        "rank": 16,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 149927,
+        "num": 149927,
+        "word": "男子刷单被骗7万民警支招追回",
+        "onboard_time": 1692566653,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134930,
+        "num": 134930,
+        "word": "替全世界感到尴尬",
+        "onboard_time": 1692534038,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127957,
+        "num": 127957,
+        "word": "大宋少年志张新成父子对峙戏",
+        "onboard_time": 1692567194,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241976,
+        "num": 126053,
+        "word": "到缅北第一天就被拉去参观水牢",
+        "onboard_time": 1692538069,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158692,
+        "num": 123936,
+        "word": "EDG告别全球冠军赛",
+        "onboard_time": 1692572964,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145283,
+        "num": 122173,
+        "word": "七夕将至廉价求婚钻戒月销10万",
+        "onboard_time": 1692535841,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 128278,
+        "num": 118889,
+        "word": "安徽的省会是哪个城市",
+        "onboard_time": 1692572543,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118218,
+        "num": 118218,
+        "word": "相柳这次有东方青苍",
+        "onboard_time": 1692546640,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116671,
+        "num": 116671,
+        "word": "南京公交车起火事件细节公布",
+        "onboard_time": 1692572543,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108309,
+        "num": 108309,
+        "word": "世界上军衔最高的狗",
+        "onboard_time": 1692547957,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105679,
+        "num": 105679,
+        "word": "天津大爷点火测煤气罐漏气爆燃了",
+        "onboard_time": 1692566653,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104921,
+        "num": 104921,
+        "word": "杨紫黑色丝绒西装",
+        "onboard_time": 1692570858,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 104790,
+        "num": 104790,
+        "word": "如果96110来电一定要接",
+        "onboard_time": 1692542746,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996711,
+        "num": 104688,
+        "word": "韩红",
+        "onboard_time": 1692572663,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671994,
+        "num": 103350,
+        "word": "那辛朋友圈",
+        "onboard_time": 1692540766,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511135,
+        "num": 102081,
+        "word": "武林外传预言好声音",
+        "onboard_time": 1692541669,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98335,
+        "num": 101482,
+        "word": "Angelababy去看林俊杰演唱会了",
+        "onboard_time": 1692544364,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154700,
+        "num": 100718,
+        "word": "起底中国好声音背后灿星文化",
+        "onboard_time": 1692541005,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100232,
+        "num": 100232,
+        "word": "魏大勋听白敬亭叫哥哥的反应",
+        "onboard_time": 1692539147,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131922,
+        "num": 100176,
+        "word": "李玟生前录音叫不醒装睡的娱乐圈",
+        "onboard_time": 1692514416,
+        "rank": 36,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 98400,
+        "num": 98400,
+        "word": "皓衣行",
+        "onboard_time": 1692542208,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92870,
+        "num": 92870,
+        "word": "段奥娟近期风格",
+        "onboard_time": 1692540167,
+        "rank": 38,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 91536,
+        "num": 91536,
+        "word": "黄旭熙说要第4次出道",
+        "onboard_time": 1692541789,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89040,
+        "num": 89040,
+        "word": "EDG止步六强",
+        "onboard_time": 1692573085,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85381,
+        "num": 85381,
+        "word": "王泽鹏没第一时间站出来因为怯懦",
+        "onboard_time": 1692504398,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80785,
+        "num": 80785,
+        "word": "建议不要和诈骗电话聊天",
+        "onboard_time": 1692523714,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79629,
+        "num": 79629,
+        "word": "长春一广播台声明不再与中国好声音合作",
+        "onboard_time": 1692525636,
+        "rank": 43,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 77661,
+        "num": 77661,
+        "word": "欧阳娜娜问耍朋友是交朋友吗",
+        "onboard_time": 1692548975,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77011,
+        "num": 77011,
+        "word": "金晨白举纲私联",
+        "onboard_time": 1692543044,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71487,
+        "num": 71487,
+        "word": "王一博乐华家族练舞vlog",
+        "onboard_time": 1692535659,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70804,
+        "num": 70804,
+        "word": "白敬亭的胸肌隔着衣服都能看到",
+        "onboard_time": 1692552321,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61602,
+        "num": 61602,
+        "word": "小狗捡了五块钱打算改名叫招财",
+        "onboard_time": 1692572964,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65436,
+        "num": 61488,
+        "word": "范丞丞刘昊然模仿孟宴臣许沁名场面",
+        "onboard_time": 1692544482,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国国家公园建设取得显著成效#"
+    }
+  }
+}
