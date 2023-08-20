@@ -1,6 +1,6 @@
 {
   "startTime": 1692461981618,
-  "endTime": 1692501373765,
+  "endTime": 1692502428813,
   "band_list": [
     {
       "raw_hot": 7293759,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4382297,
-      "num": 268156,
+      "num": 277266,
       "word": "王泽鹏回应",
       "onboard_time": 1692497736,
       "rank": 30,
@@ -83,6 +83,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1256879,
+      "num": 1079858,
+      "word": "痞幼追星Angelababy",
+      "onboard_time": 1692499896,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1122300,
       "num": 1122300,
       "word": "我的人间烟火剧组hi6收视率",
@@ -99,14 +107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1079858,
-      "num": 1079858,
-      "word": "痞幼追星Angelababy",
-      "onboard_time": 1692499896,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1025099,
       "num": 1025099,
       "word": "杨紫邓为",
@@ -121,6 +121,14 @@
       "onboard_time": 1692487944,
       "rank": 42,
       "category": "军事"
+    },
+    {
+      "raw_hot": 984519,
+      "num": 984519,
+      "word": "梅西",
+      "onboard_time": 1692495633,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 964630,
@@ -147,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 770741,
-      "num": 770741,
-      "word": "梅西",
-      "onboard_time": 1692495633,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 731662,
+      "num": 731662,
+      "word": "真正的沙县小吃从未走出沙县",
+      "onboard_time": 1692499535,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 728242,
@@ -235,12 +243,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 563722,
-      "num": 549317,
-      "word": "真正的沙县小吃从未走出沙县",
-      "onboard_time": 1692499535,
-      "rank": 10,
-      "category": "美食"
+      "raw_hot": 567242,
+      "num": 567242,
+      "word": "没见过情绪这么稳定的人",
+      "onboard_time": 1692498452,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 553308,
+      "num": 411607,
+      "word": "女子称吃麻辣烫发现碗上爬满蛆虫",
+      "onboard_time": 1692500314,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552499,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 545725,
-      "num": 353691,
+      "num": 454276,
       "word": "范丞丞给杨迪的朋友圈分组是同事",
       "onboard_time": 1692499774,
       "rank": 20,
@@ -289,14 +305,6 @@
       "onboard_time": 1692495996,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 522710,
-      "num": 522710,
-      "word": "没见过情绪这么稳定的人",
-      "onboard_time": 1692498452,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 521458,
@@ -363,19 +371,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442187,
-      "num": 350301,
-      "word": "女子称吃麻辣烫发现碗上爬满蛆虫",
-      "onboard_time": 1692500314,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440017,
       "num": 440017,
       "word": "长相思第二季或将七夕播出",
       "onboard_time": 1692487463,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 439527,
+      "num": 439527,
+      "word": "猫不愿意和狗玩都是有原因的",
+      "onboard_time": 1692498517,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 439222,
+      "num": 439222,
+      "word": "杨紫有三部9分作品",
+      "onboard_time": 1692498995,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 438225,
+      "num": 438225,
+      "word": "赵露思方否认出演万渣朝凤",
+      "onboard_time": 1692501756,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -395,20 +419,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 422602,
-      "num": 422602,
-      "word": "猫不愿意和狗玩都是有原因的",
-      "onboard_time": 1692498517,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 422225,
       "num": 244678,
       "word": "活死人厂巡",
       "onboard_time": 1692460716,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 422117,
+      "num": 422117,
+      "word": "向佐晒与郭碧婷比心合照",
+      "onboard_time": 1692501634,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 416477,
@@ -419,20 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415600,
-      "num": 415600,
-      "word": "杨紫有三部9分作品",
-      "onboard_time": 1692498995,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 390186,
       "num": 390186,
       "word": "魏大勋赵今麦版鬼怪",
       "onboard_time": 1692444394,
       "rank": 12,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 387786,
+      "num": 387786,
+      "word": "景甜真的白",
+      "onboard_time": 1692500436,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 381861,
@@ -456,14 +480,6 @@
       "word": "长相思剧组hi6收视率",
       "onboard_time": 1692451661,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 361677,
-      "num": 361677,
-      "word": "景甜真的白",
-      "onboard_time": 1692500436,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -497,6 +513,14 @@
       "onboard_time": 1692456462,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344441,
+      "num": 344441,
+      "word": "张伟丽",
+      "onboard_time": 1692500436,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 336707,
@@ -539,6 +563,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 316343,
+      "num": 266090,
+      "word": "孩子上幼儿园了的朋友问我整天在忙什么",
+      "onboard_time": 1692501275,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 312525,
       "num": 243982,
       "word": "人好像都会在20岁左右经历一次大改变",
@@ -579,8 +611,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 293210,
-      "num": 293210,
+      "raw_hot": 293540,
+      "num": 293540,
       "word": "小黄小林真是封神连体婴",
       "onboard_time": 1692500135,
       "rank": 27,
@@ -811,14 +843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 221471,
-      "num": 221471,
-      "word": "张伟丽",
-      "onboard_time": 1692500436,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219351,
       "num": 172226,
       "word": "长相思第二季的防风邶剧照",
@@ -987,6 +1011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175507,
+      "num": 175507,
+      "word": "萨摩耶 怎么这么大只还让人抱啊",
+      "onboard_time": 1692501875,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175368,
       "num": 175368,
       "word": "杨千嬅演唱会",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1692491915,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157989,
+      "num": 157989,
+      "word": "10岁男孩用50多支笔做花束送护士",
+      "onboard_time": 1692502237,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149588,
