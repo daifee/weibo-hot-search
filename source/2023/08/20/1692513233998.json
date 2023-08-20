@@ -1,0 +1,410 @@
+{
+  "runTime": 1692513233998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3124220,
+        "num": 3124220,
+        "word": "张伟丽",
+        "onboard_time": 1692500436,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1509598,
+        "num": 1509598,
+        "word": "台湾当归",
+        "onboard_time": 1692461075,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 62448,
+        "num": 1344709,
+        "word": "当高燃BGM配上开渔季",
+        "onboard_time": 1692508297,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1324756,
+        "num": 1324756,
+        "word": "科学家预测本世纪末地球将重置人口数量",
+        "onboard_time": 1692506676,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953715,
+        "num": 953715,
+        "word": "杨紫双手戴满了镯子",
+        "onboard_time": 1692503257,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 864037,
+        "num": 864037,
+        "word": "游客被吸入水上乐园排水口身亡",
+        "onboard_time": 1692505238,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720746,
+        "num": 720746,
+        "word": "妈妈想女儿进厂女儿称不想拿死工资",
+        "onboard_time": 1692506676,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582934,
+        "num": 582934,
+        "word": "梅西",
+        "onboard_time": 1692495633,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544488,
+        "num": 544488,
+        "word": "这期好六是魏大勋爆火之前录制的",
+        "onboard_time": 1692504398,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399251,
+        "num": 399251,
+        "word": "心脏也会得癌症",
+        "onboard_time": 1692508715,
+        "rank": 9,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 683876,
+        "num": 388893,
+        "word": "Jennie一口气发了32张照片",
+        "onboard_time": 1692506858,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413396,
+        "num": 387816,
+        "word": "今天这期你好星期六观后感",
+        "onboard_time": 1692507518,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401134,
+        "num": 376550,
+        "word": "周冬雨变好看了",
+        "onboard_time": 1692502655,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153571,
+        "num": 364736,
+        "word": "张伟丽击败莱莫斯",
+        "onboard_time": 1692506619,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39628,
+        "num": 347795,
+        "word": "货车起火5教师秒变消防员奋勇灭火",
+        "onboard_time": 1692511297,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344636,
+        "num": 344636,
+        "word": "真正的沙县小吃从未走出沙县",
+        "onboard_time": 1692499535,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 331053,
+        "num": 331053,
+        "word": "向佐晒与郭碧婷比心合照",
+        "onboard_time": 1692501634,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306973,
+        "num": 306973,
+        "word": "张伟丽把莱莫斯按地上猛锤",
+        "onboard_time": 1692507158,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304634,
+        "num": 304634,
+        "word": "王栎鑫被问0713能不一直绑定吗",
+        "onboard_time": 1692512853,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288666,
+        "num": 288666,
+        "word": "邓为檀健次缺德动图",
+        "onboard_time": 1692512435,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342869,
+        "num": 288221,
+        "word": "董明珠称不招只想要多少工资的",
+        "onboard_time": 1692512314,
+        "rank": 20,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 300025,
+        "num": 286568,
+        "word": "15岁男孩56码超大脚丫愁坏老妈",
+        "onboard_time": 1692512015,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284662,
+        "num": 284662,
+        "word": "熊猫花花锻炼了当代年轻人",
+        "onboard_time": 1692510036,
+        "rank": 22,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 278593,
+        "num": 278593,
+        "word": "李冰冰说张伟丽太酷了",
+        "onboard_time": 1692511355,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 256569,
+        "num": 256569,
+        "word": "安乐传剧组hi6收视率",
+        "onboard_time": 1692509563,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246960,
+        "num": 246960,
+        "word": "刘昊然被喊老公周冬雨的反应",
+        "onboard_time": 1692513034,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239430,
+        "num": 239430,
+        "word": "孤注一掷进入国产片票房TOP20",
+        "onboard_time": 1692510997,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237580,
+        "num": 237580,
+        "word": "男子出门前闻到糊味回来家烧没了",
+        "onboard_time": 1692505361,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222918,
+        "num": 222918,
+        "word": "萨摩耶 怎么这么大只还让人抱啊",
+        "onboard_time": 1692501875,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196429,
+        "num": 220928,
+        "word": "2023LCK夏决",
+        "onboard_time": 1692512613,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3037628,
+        "num": 218868,
+        "word": "周菲戈说对不起李玟",
+        "onboard_time": 1692509377,
+        "rank": 30,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 452010,
+        "num": 218046,
+        "word": "晒太阳时千万别睡过头了",
+        "onboard_time": 1692512135,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2500726,
+        "num": 214688,
+        "word": "王泽鹏没第一时间站出来因为怯懦",
+        "onboard_time": 1692504398,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213823,
+        "num": 213823,
+        "word": "长城的起点长这样",
+        "onboard_time": 1692513034,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 973329,
+        "num": 210414,
+        "word": "王泽鹏回应",
+        "onboard_time": 1692497736,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205410,
+        "num": 205410,
+        "word": "祥云男友力",
+        "onboard_time": 1692513034,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335774,
+        "num": 196874,
+        "word": "起底中国好声音背后母公司",
+        "onboard_time": 1692493897,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185234,
+        "num": 185234,
+        "word": "范丞丞给杨迪的朋友圈分组是同事",
+        "onboard_time": 1692499774,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1307868,
+        "num": 185124,
+        "word": "刘亦菲胸前痣",
+        "onboard_time": 1692506193,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181714,
+        "num": 181714,
+        "word": "檀健次谈偶像",
+        "onboard_time": 1692511713,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179951,
+        "num": 179951,
+        "word": "没见过情绪这么稳定的人",
+        "onboard_time": 1692498452,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173434,
+        "num": 173434,
+        "word": "女孩摔坏小提琴全家一起想办法补救",
+        "onboard_time": 1692512253,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170057,
+        "num": 170057,
+        "word": "女子称吃麻辣烫发现碗上爬满蛆虫",
+        "onboard_time": 1692500314,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165057,
+        "num": 165057,
+        "word": "听说这裙子能测出男朋友审美",
+        "onboard_time": 1692499596,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163287,
+        "num": 163287,
+        "word": "贝克汉姆拥抱梅西",
+        "onboard_time": 1692504815,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161114,
+        "num": 161114,
+        "word": "为什么睡够8小时还是很困",
+        "onboard_time": 1692497015,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155516,
+        "num": 155516,
+        "word": "Cheems去世",
+        "onboard_time": 1692488005,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151552,
+        "num": 151552,
+        "word": "赵露思方否认出演万渣朝凤",
+        "onboard_time": 1692501756,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150931,
+        "num": 150931,
+        "word": "杨紫有三部9分作品",
+        "onboard_time": 1692498995,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146994,
+        "num": 146994,
+        "word": "周深立flag今年内一定发专辑",
+        "onboard_time": 1692512613,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖扩容将为合作带来新活力#"
+    }
+  }
+}
