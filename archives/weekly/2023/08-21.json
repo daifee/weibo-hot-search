@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692555512118,
+  "endTime": 1692556442640,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 518656,
-      "num": 518656,
+      "raw_hot": 543632,
+      "num": 543632,
       "word": "韩国知名网红擅自赴乌参战被判刑1年半",
       "onboard_time": 1692552203,
       "rank": 37,
@@ -283,6 +283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232206,
+      "num": 232206,
+      "word": "替全世界感到尴尬",
+      "onboard_time": 1692534038,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229032,
       "num": 187217,
       "word": "娜扎芭比造型",
@@ -297,14 +305,6 @@
       "onboard_time": 1692532235,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195205,
-      "num": 182776,
-      "word": "替全世界感到尴尬",
-      "onboard_time": 1692534038,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 186741,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 29277,
-      "num": 40298,
+      "num": 40727,
       "word": "物业的心思总花不到正经地方",
       "onboard_time": 1692544004,
       "rank": 49,
@@ -521,6 +521,14 @@
       "onboard_time": 1692550227,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 24851,
+      "num": 39793,
+      "word": "男子爬上香蕉姑娘雕塑抚摸亲吻当地派出所回应",
+      "onboard_time": 1692554299,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
