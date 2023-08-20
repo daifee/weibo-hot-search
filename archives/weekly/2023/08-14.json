@@ -1,6 +1,6 @@
 {
   "startTime": 1691943573453,
-  "endTime": 1692495047973,
+  "endTime": 1692496967631,
   "band_list": [
     {
       "raw_hot": 11321818,
@@ -387,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2145851,
+      "num": 2145851,
+      "word": "Cheems去世",
+      "onboard_time": 1692488005,
+      "rank": 48,
+      "category": "其它"
+    },
+    {
       "raw_hot": 2134379,
       "num": 2134379,
       "word": "周冬雨刘昊然隔得好远",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 1901492,
-      "num": 1493738,
+      "num": 1721032,
       "word": "刘昊然周冬雨",
       "onboard_time": 1692487221,
       "rank": 1,
@@ -713,14 +721,6 @@
       "onboard_time": 1692321097,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1784745,
-      "num": 1784745,
-      "word": "Cheems去世",
-      "onboard_time": 1692488005,
-      "rank": 48,
-      "category": "其它"
     },
     {
       "raw_hot": 1775938,
@@ -2731,6 +2731,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 801143,
+      "num": 551731,
+      "word": "起底中国好声音背后母公司",
+      "onboard_time": 1692493897,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 797474,
       "num": 797474,
       "word": "耳水不平衡是什么",
@@ -2841,6 +2849,14 @@
       "onboard_time": 1692155496,
       "rank": 31,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 770741,
+      "num": 770741,
+      "word": "梅西",
+      "onboard_time": 1692495633,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 770442,
@@ -3179,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 709007,
+      "num": 709007,
+      "word": "董明珠回应落榜世界500强",
+      "onboard_time": 1692492212,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 708198,
       "num": 708198,
       "word": "玱玹也要哭出个名分来",
@@ -3241,6 +3265,14 @@
       "onboard_time": 1692281388,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 703378,
+      "num": 703378,
+      "word": "韩国女生是天生就会化妆吗",
+      "onboard_time": 1692493234,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 703081,
@@ -4403,6 +4435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 565559,
+      "num": 565559,
+      "word": "我的人间烟火剧组hi6收视率",
+      "onboard_time": 1692494437,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565238,
       "num": 692461,
       "word": "中方强烈谴责恐怖主义行径",
@@ -4579,12 +4619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 551731,
-      "num": 551731,
-      "word": "起底中国好声音背后母公司",
-      "onboard_time": 1692493897,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 552499,
+      "num": 552499,
+      "word": "仙剑三是仙侠剧的巅峰吗",
+      "onboard_time": 1692492692,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 551644,
@@ -4769,14 +4809,6 @@
       "onboard_time": 1692085600,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 537908,
-      "num": 537908,
-      "word": "董明珠回应落榜世界500强",
-      "onboard_time": 1692492212,
-      "rank": 18,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 536916,
@@ -5651,14 +5683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 472042,
-      "num": 216947,
-      "word": "韩国女生是天生就会化妆吗",
-      "onboard_time": 1692493234,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 471946,
       "num": 471946,
       "word": "云南地震",
@@ -5972,7 +5996,7 @@
     },
     {
       "raw_hot": 455438,
-      "num": 1551422,
+      "num": 1820054,
       "word": "东部战区位台岛周边海空联合演训",
       "onboard_time": 1692409595,
       "rank": 29,
@@ -6275,6 +6299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 436688,
+      "num": 436688,
+      "word": "最新梦想 费翔的孩子",
+      "onboard_time": 1692495996,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436636,
       "num": 353524,
       "word": "妈妈吃冰西瓜加咖啡进急诊了",
@@ -6449,6 +6481,14 @@
       "onboard_time": 1692148535,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426740,
+      "num": 345083,
+      "word": "赵露思或将演万渣朝凰",
+      "onboard_time": 1692492031,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 426733,
@@ -6651,20 +6691,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 416477,
+      "num": 416477,
+      "word": "公司回应游艇绞断大爷下体",
+      "onboard_time": 1692494736,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416251,
       "num": 416251,
       "word": "余承恩温柔拒绝张雪迎",
       "onboard_time": 1692270639,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 416064,
-      "num": 345083,
-      "word": "赵露思或将演万渣朝凰",
-      "onboard_time": 1692492031,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 415361,
@@ -6883,6 +6923,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 403093,
+      "num": 447801,
+      "word": "找不到对象的可以报个老年团",
+      "onboard_time": 1692495578,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 402069,
       "num": 389624,
       "word": "林俊杰演唱会",
@@ -7001,14 +7049,6 @@
       "onboard_time": 1692047172,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396255,
-      "num": 246811,
-      "word": "仙剑三是仙侠剧的巅峰吗",
-      "onboard_time": 1692492692,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 396214,
@@ -8035,6 +8075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343053,
+      "num": 302835,
+      "word": "魏大勋这是在干嘛",
+      "onboard_time": 1692492994,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341508,
       "num": 341508,
       "word": "曾舜晞长文告别莲花楼",
@@ -8587,14 +8635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315245,
-      "num": 217433,
-      "word": "魏大勋这是在干嘛",
-      "onboard_time": 1692492994,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 314796,
       "num": 283370,
       "word": "丈夫逼妻子回家遭拒当街引爆手榴弹",
@@ -8977,6 +9017,14 @@
       "onboard_time": 1692006220,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300274,
+      "num": 300274,
+      "word": "黑神话",
+      "onboard_time": 1692496117,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 299774,
@@ -9363,6 +9411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287343,
+      "num": 241273,
+      "word": "刘亦菲对镜自拍",
+      "onboard_time": 1692495996,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 287197,
       "num": 270339,
       "word": "如果你年纪轻轻就懂得贪图享乐",
@@ -9393,14 +9449,6 @@
       "onboard_time": 1692284089,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286265,
-      "num": 209021,
-      "word": "我的人间烟火剧组hi6收视率",
-      "onboard_time": 1692494437,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 286245,
@@ -10236,7 +10284,7 @@
     },
     {
       "raw_hot": 264628,
-      "num": 214320,
+      "num": 235240,
       "word": "春楠叫赵丽颖赵满街",
       "onboard_time": 1692491554,
       "rank": 35,
@@ -10827,6 +10875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248604,
+      "num": 195964,
+      "word": "黄子弘凡 唐朝诡事录之曼陀罗",
+      "onboard_time": 1692494674,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248057,
       "num": 248057,
       "word": "平时要假装自己不追星的原因",
@@ -10897,6 +10953,14 @@
       "onboard_time": 1692453162,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245589,
+      "num": 245589,
+      "word": "大爷江中游泳被游艇绞断下体",
+      "onboard_time": 1692494975,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245554,
@@ -11361,14 +11425,6 @@
       "onboard_time": 1692457120,
       "rank": 34,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 234935,
-      "num": 185544,
-      "word": "黄子弘凡 唐朝诡事录之曼陀罗",
-      "onboard_time": 1692494674,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 234802,
@@ -12081,6 +12137,14 @@
       "onboard_time": 1692248682,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214627,
+      "num": 214627,
+      "word": "世界冠军获村里10万元奖励当场捐6万",
+      "onboard_time": 1692496657,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214621,
@@ -13243,14 +13307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197644,
-      "num": 197644,
-      "word": "公司回应游艇绞断大爷下体",
-      "onboard_time": 1692494736,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197627,
       "num": 197627,
       "word": "18岁男生暑假打3份工送姑姑金耳饰",
@@ -14315,6 +14371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179699,
+      "num": 179699,
+      "word": "薛之谦说给外卖小哥的一些话",
+      "onboard_time": 1692492031,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179607,
       "num": 216586,
       "word": "当你被家附近学校录取",
@@ -14443,6 +14507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175668,
+      "num": 175668,
+      "word": "文咏珊回自己主场了",
+      "onboard_time": 1692496956,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175368,
       "num": 175368,
       "word": "杨千嬅演唱会",
@@ -14529,6 +14601,14 @@
       "onboard_time": 1692415895,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171913,
+      "num": 171913,
+      "word": "咏梅老师给年轻人的建议",
+      "onboard_time": 1692495578,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171881,
@@ -14657,14 +14737,6 @@
       "onboard_time": 1692189757,
       "rank": 46,
       "category": "幽默,动漫"
-    },
-    {
-      "raw_hot": 166922,
-      "num": 166922,
-      "word": "薛之谦说给外卖小哥的一些话",
-      "onboard_time": 1692492031,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 166870,
@@ -15089,6 +15161,14 @@
       "onboard_time": 1692187535,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149588,
+      "num": 149588,
+      "word": "纳什维尔vs迈阿密国际",
+      "onboard_time": 1692496355,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 148603,
