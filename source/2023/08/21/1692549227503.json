@@ -1,0 +1,410 @@
+{
+  "runTime": 1692549227503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 914013,
+        "num": 914013,
+        "word": "缅北诈骗人员自曝专盯单身公务员",
+        "onboard_time": 1692542803,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720755,
+        "num": 720755,
+        "word": "当我姐发现自己曾拒绝过华为",
+        "onboard_time": 1692543404,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211370,
+        "num": 553321,
+        "word": "接到96110来电千万不要挂",
+        "onboard_time": 1692540526,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477664,
+        "num": 477664,
+        "word": "姜潮差点替黄子韬徐艺洋官宣",
+        "onboard_time": 1692540468,
+        "rank": 3,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 452035,
+        "num": 452035,
+        "word": "Angelababy去看林俊杰演唱会了",
+        "onboard_time": 1692544364,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390239,
+        "num": 390239,
+        "word": "金晨白举纲私联",
+        "onboard_time": 1692543044,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373906,
+        "num": 373906,
+        "word": "相柳这次有东方青苍",
+        "onboard_time": 1692546640,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372974,
+        "num": 372974,
+        "word": "皓衣行",
+        "onboard_time": 1692542208,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344080,
+        "num": 344080,
+        "word": "医生吃面发现邻座女子长肿瘤提醒就医",
+        "onboard_time": 1692523357,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314987,
+        "num": 314987,
+        "word": "吃过最难吃的水果是什么",
+        "onboard_time": 1692541428,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1239876,
+        "num": 311151,
+        "word": "研究表明乳房大小影响运动意愿",
+        "onboard_time": 1692534519,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677990,
+        "num": 309758,
+        "word": "突发心梗 4个千万不能做和一定要做",
+        "onboard_time": 1692544482,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3741508,
+        "num": 305259,
+        "word": "浙江广电集团回应",
+        "onboard_time": 1692537463,
+        "rank": 12,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 601836,
+        "num": 299654,
+        "word": "娜然",
+        "onboard_time": 1692533077,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418824,
+        "num": 294878,
+        "word": "一个刘海搞定所有脸型bug",
+        "onboard_time": 1692544064,
+        "rank": 14,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 291718,
+        "num": 291718,
+        "word": "正式确诊为雷小米",
+        "onboard_time": 1692538850,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291216,
+        "num": 291216,
+        "word": "范丞丞刘昊然模仿孟宴臣许沁名场面",
+        "onboard_time": 1692544482,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291028,
+        "num": 291028,
+        "word": "林俊杰听到脱掉的反应",
+        "onboard_time": 1692546219,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235597,
+        "num": 235597,
+        "word": "段奥娟近期风格",
+        "onboard_time": 1692540167,
+        "rank": 18,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 231444,
+        "num": 231444,
+        "word": "去外省上大学的新生开始慌了",
+        "onboard_time": 1692534761,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 817906,
+        "num": 230990,
+        "word": "订婚发生关系后第4天女孩控告强奸",
+        "onboard_time": 1692523897,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322883,
+        "num": 226988,
+        "word": "黄旭熙说要第4次出道",
+        "onboard_time": 1692541789,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252248,
+        "num": 225613,
+        "word": "到缅北第一天就被拉去参观水牢",
+        "onboard_time": 1692538069,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222576,
+        "num": 222576,
+        "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
+        "onboard_time": 1692532235,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221386,
+        "num": 221386,
+        "word": "周翊然直播",
+        "onboard_time": 1692544965,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214159,
+        "num": 214159,
+        "word": "张真源说没有剧本",
+        "onboard_time": 1692543589,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182776,
+        "num": 182776,
+        "word": "替全世界感到尴尬",
+        "onboard_time": 1692534038,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180618,
+        "num": 180618,
+        "word": "娜扎芭比造型",
+        "onboard_time": 1692540228,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160624,
+        "num": 160624,
+        "word": "七夕将至廉价求婚钻戒月销10万",
+        "onboard_time": 1692535841,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 153682,
+        "num": 153682,
+        "word": "如果96110来电一定要接",
+        "onboard_time": 1692542746,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962778,
+        "num": 153633,
+        "word": "武林外传预言好声音",
+        "onboard_time": 1692541669,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 758446,
+        "num": 153115,
+        "word": "那辛朋友圈",
+        "onboard_time": 1692540766,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480913,
+        "num": 153020,
+        "word": "王泽鹏没第一时间站出来因为怯懦",
+        "onboard_time": 1692504398,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154656,
+        "num": 152671,
+        "word": "魏大勋听白敬亭叫哥哥的反应",
+        "onboard_time": 1692539147,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392543,
+        "num": 152287,
+        "word": "长春一广播台声明不再与中国好声音合作",
+        "onboard_time": 1692525636,
+        "rank": 34,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 174197,
+        "num": 151978,
+        "word": "世界上军衔最高的狗",
+        "onboard_time": 1692547957,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 310275,
+        "num": 151618,
+        "word": "李玟生前录音叫不醒装睡的娱乐圈",
+        "onboard_time": 1692514416,
+        "rank": 36,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 138341,
+        "num": 151484,
+        "word": "西汉姆联vs切尔西",
+        "onboard_time": 1692547115,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293676,
+        "num": 150963,
+        "word": "经纪人否认周华健退出中国好声音",
+        "onboard_time": 1692533077,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126937,
+        "num": 150707,
+        "word": "建议不要和诈骗电话聊天",
+        "onboard_time": 1692523714,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163140,
+        "num": 150508,
+        "word": "欧阳娜娜问耍朋友是交朋友吗",
+        "onboard_time": 1692548975,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150311,
+        "num": 150311,
+        "word": "慕光之城",
+        "onboard_time": 1692536261,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145447,
+        "num": 145447,
+        "word": "王一博乐华家族练舞vlog",
+        "onboard_time": 1692535659,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129831,
+        "num": 129831,
+        "word": "张新成的一滴泪",
+        "onboard_time": 1692544903,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112448,
+        "num": 129589,
+        "word": "古人给猫取名能多有诗意",
+        "onboard_time": 1692541127,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98155,
+        "num": 127331,
+        "word": "胡明轩",
+        "onboard_time": 1692537947,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88738,
+        "num": 126050,
+        "word": "吐鲁番西瓜好便宜",
+        "onboard_time": 1692545860,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 77330,
+        "num": 125732,
+        "word": "山东车站买票身高",
+        "onboard_time": 1692541190,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74859,
+        "num": 123605,
+        "word": "眼睛就没这么忙过",
+        "onboard_time": 1692547180,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69382,
+        "num": 122920,
+        "word": "双眼皮要做成刘亦菲那样的",
+        "onboard_time": 1692548975,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
