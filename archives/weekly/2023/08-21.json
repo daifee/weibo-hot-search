@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692569669014,
+  "endTime": 1692570821926,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 543632,
-      "num": 543632,
+      "raw_hot": 564070,
+      "num": 564070,
       "word": "韩国知名网红擅自赴乌参战被判刑1年半",
       "onboard_time": 1692552203,
       "rank": 37,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107212,
+      "num": 107212,
+      "word": "男子刷单被骗7万民警支招追回",
+      "onboard_time": 1692566653,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107199,
       "num": 161394,
       "word": "胡明轩",
@@ -459,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80146,
-      "num": 80146,
-      "word": "男子刷单被骗7万民警支招追回",
-      "onboard_time": 1692566653,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 81830,
+      "num": 81830,
+      "word": "大宋少年志张新成父子对峙戏",
+      "onboard_time": 1692567194,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 74859,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 59269,
-      "num": 31617,
+      "num": 40070,
       "word": "北京下雨",
       "onboard_time": 1692562216,
       "rank": 34,
@@ -489,14 +497,6 @@
       "onboard_time": 1692553999,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49041,
-      "num": 49041,
-      "word": "大宋少年志张新成父子对峙戏",
-      "onboard_time": 1692567194,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 48882,
@@ -523,12 +523,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35020,
-      "num": 35020,
+      "raw_hot": 38743,
+      "num": 38743,
       "word": "周洁琼陈宥维演情侣",
       "onboard_time": 1692563833,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 31271,
+      "num": 40300,
+      "word": "没想到客厅也能成为酒吧平替",
+      "onboard_time": 1692539448,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 30666,
@@ -539,28 +547,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30282,
+      "num": 40727,
+      "word": "物业的心思总花不到正经地方",
+      "onboard_time": 1692544004,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30225,
       "num": 35658,
       "word": "银魂最帅的男人",
       "onboard_time": 1692556697,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 29311,
-      "num": 40300,
-      "word": "没想到客厅也能成为酒吧平替",
-      "onboard_time": 1692539448,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 29277,
-      "num": 40727,
-      "word": "物业的心思总花不到正经地方",
-      "onboard_time": 1692544004,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 28993,
@@ -579,20 +579,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27286,
+      "num": 31610,
+      "word": "蔡文静又直播了",
+      "onboard_time": 1692562934,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26339,
       "num": 39793,
       "word": "男子爬上香蕉姑娘雕塑抚摸亲吻当地派出所回应",
       "onboard_time": 1692554299,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23539,
-      "num": 31610,
-      "word": "蔡文静又直播了",
-      "onboard_time": 1692562934,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 22677,
@@ -603,7 +603,7 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 19960,
+      "raw_hot": 22425,
       "num": 31587,
       "word": "华晨宇PEL舞台打碟",
       "onboard_time": 1692562934,
