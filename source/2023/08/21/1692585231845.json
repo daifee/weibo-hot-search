@@ -1,0 +1,410 @@
+{
+  "runTime": 1692585231845,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1692425,
+        "num": 1692425,
+        "word": "林俊杰回复Angelababy",
+        "onboard_time": 1692580295,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1169784,
+        "num": 1169784,
+        "word": "原来天堂伞可以免费维修",
+        "onboard_time": 1692576156,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213298,
+        "num": 1026526,
+        "word": "接到96110来电千万不要挂",
+        "onboard_time": 1692540526,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214738,
+        "num": 1016884,
+        "word": "无意识减肥却减肥的行为",
+        "onboard_time": 1692579937,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 983279,
+        "num": 983279,
+        "word": "原来我的专业考不了公务员",
+        "onboard_time": 1692573566,
+        "rank": 4,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 886572,
+        "num": 886572,
+        "word": "林俊杰回应被激光笔照眼",
+        "onboard_time": 1692583236,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 820398,
+        "num": 820398,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1692581736,
+        "rank": 6,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 800105,
+        "num": 800105,
+        "word": "女子账户不分昼夜有钱转入每次1分钱",
+        "onboard_time": 1692577540,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545899,
+        "num": 545899,
+        "word": "身边人成为了明星",
+        "onboard_time": 1692583956,
+        "rank": 8,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 481287,
+        "num": 481287,
+        "word": "失传2000多年的扁鹊医书找到了",
+        "onboard_time": 1692577597,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943796,
+        "num": 480298,
+        "word": "副局长家属连泼景区工作人员3杯热水",
+        "onboard_time": 1692579998,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626233,
+        "num": 478140,
+        "word": "A股",
+        "onboard_time": 1692583413,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 485008,
+        "num": 477719,
+        "word": "向佐记录一家四口暑假生活",
+        "onboard_time": 1692580178,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348128,
+        "num": 475077,
+        "word": "我国又破获一起美国CIA间谍案",
+        "onboard_time": 1692573990,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285484,
+        "num": 472861,
+        "word": "央视调查甘肃天水古城",
+        "onboard_time": 1692572543,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472599,
+        "num": 472599,
+        "word": "长大后最羡慕的朋友圈",
+        "onboard_time": 1692574952,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 461683,
+        "num": 461683,
+        "word": "2023年国考过审人数达近260万人",
+        "onboard_time": 1692582275,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432374,
+        "num": 432374,
+        "word": "by2晒与Angelababy合照",
+        "onboard_time": 1692572964,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402648,
+        "num": 402648,
+        "word": "朝歌里的妲己和姜后",
+        "onboard_time": 1692581557,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347868,
+        "num": 347868,
+        "word": "你可以嫁给爱情 也可以嫁给友情",
+        "onboard_time": 1692575249,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 486986,
+        "num": 331201,
+        "word": "花轿喜事定档8月28日",
+        "onboard_time": 1692583413,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303967,
+        "num": 303967,
+        "word": "请把吉克隽逸焊死在舞台上",
+        "onboard_time": 1692582813,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301971,
+        "num": 301971,
+        "word": "玱玹今晚大婚",
+        "onboard_time": 1692584555,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277067,
+        "num": 277067,
+        "word": "Angelababy白鹿赵露思虞书欣都达成钻超了",
+        "onboard_time": 1692580295,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280547,
+        "num": 277016,
+        "word": "玱玹说赤水丰隆偷偷过双休",
+        "onboard_time": 1692582636,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275024,
+        "num": 275024,
+        "word": "研究表明乳房大小影响运动意愿",
+        "onboard_time": 1692534519,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254251,
+        "num": 254251,
+        "word": "密室大逃脱失落的城邦",
+        "onboard_time": 1692584196,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246182,
+        "num": 246182,
+        "word": "花轿喜事",
+        "onboard_time": 1692583895,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240331,
+        "num": 240331,
+        "word": "8月1年期LPR下调10个基点",
+        "onboard_time": 1692582216,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 234553,
+        "num": 234553,
+        "word": "鹿晗头发长得好快",
+        "onboard_time": 1692584073,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271292,
+        "num": 234275,
+        "word": "带老外第一次吃海底捞",
+        "onboard_time": 1692583236,
+        "rank": 30,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 224397,
+        "num": 224397,
+        "word": "百万播放99万是范丞丞看的",
+        "onboard_time": 1692575914,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222224,
+        "num": 222224,
+        "word": "周一",
+        "onboard_time": 1692580237,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207590,
+        "num": 207590,
+        "word": "狗和猫在失重状态下的对比",
+        "onboard_time": 1692584555,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 203565,
+        "num": 203565,
+        "word": "当我姐发现自己曾拒绝过华为",
+        "onboard_time": 1692543404,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187347,
+        "num": 187347,
+        "word": "四个显眼包斗舞",
+        "onboard_time": 1692581015,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184284,
+        "num": 184284,
+        "word": "景甜周翊然新剧看不惯已经8集了",
+        "onboard_time": 1692581437,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177099,
+        "num": 177099,
+        "word": "到缅北第一天就被拉去参观水牢",
+        "onboard_time": 1692538069,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174046,
+        "num": 174046,
+        "word": "范丞丞就等着你们叫杨澄呢",
+        "onboard_time": 1692581256,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171571,
+        "num": 171571,
+        "word": "韩国知名网红擅自赴乌参战被判刑1年半",
+        "onboard_time": 1692552203,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171064,
+        "num": 171064,
+        "word": "杨紫成毅邓为檀健次肖战V榜破9",
+        "onboard_time": 1692585038,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165456,
+        "num": 165456,
+        "word": "玩手机把手腕玩出了筋结",
+        "onboard_time": 1692578139,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163524,
+        "num": 163524,
+        "word": "薛之谦晒与张信哲合照",
+        "onboard_time": 1692581195,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158443,
+        "num": 158443,
+        "word": "邓为很满意夭璟结局",
+        "onboard_time": 1692575373,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153840,
+        "num": 153840,
+        "word": "缅北诈骗人员自曝专盯单身公务员",
+        "onboard_time": 1692542803,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150251,
+        "num": 150251,
+        "word": "欧阳娜娜KnowKnow合作新歌",
+        "onboard_time": 1692577540,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144079,
+        "num": 144079,
+        "word": "武林外传预言好声音",
+        "onboard_time": 1692541669,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138384,
+        "num": 138384,
+        "word": "Angelababy林俊杰续写可惜没有如果结局",
+        "onboard_time": 1692578199,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136296,
+        "num": 136296,
+        "word": "韩红",
+        "onboard_time": 1692572663,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133072,
+        "num": 133072,
+        "word": "虞书欣跳手势舞",
+        "onboard_time": 1692585097,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国国家公园建设取得显著成效#"
+    }
+  }
+}
