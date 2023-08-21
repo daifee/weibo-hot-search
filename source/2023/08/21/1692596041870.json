@@ -1,0 +1,410 @@
+{
+  "runTime": 1692596041870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3337003,
+        "num": 3337003,
+        "word": "建议明天把微信步数关一下",
+        "onboard_time": 1692591940,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 719754,
+        "num": 719754,
+        "word": "白敬亭居然放不开",
+        "onboard_time": 1692594102,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37380,
+        "num": 694179,
+        "word": "60秒打卡缤纷南非",
+        "onboard_time": 1692588336,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756808,
+        "num": 694030,
+        "word": "无意识减肥却减肥的行为",
+        "onboard_time": 1692579937,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 693475,
+        "num": 693475,
+        "word": "舒淇 海神降临",
+        "onboard_time": 1692592722,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 550197,
+        "num": 550197,
+        "word": "原来我的专业考不了公务员",
+        "onboard_time": 1692573566,
+        "rank": 5,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 477288,
+        "num": 477288,
+        "word": "李莲花唯一一个不敢怼的人",
+        "onboard_time": 1692593623,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 469934,
+        "num": 469934,
+        "word": "火的是魏大勋装的是范丞丞",
+        "onboard_time": 1692586956,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443733,
+        "num": 443733,
+        "word": "田曦薇演的李玉湖是炸毛哈基米",
+        "onboard_time": 1692589841,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336832,
+        "num": 441979,
+        "word": "特斯拉新款Model3或已移除所有雷达",
+        "onboard_time": 1692591460,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1909945,
+        "num": 439809,
+        "word": "韩国女团成员14岁时被侵犯",
+        "onboard_time": 1692592965,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 958960,
+        "num": 439273,
+        "word": "谁还记得秦牛正威改名了",
+        "onboard_time": 1692587496,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 948215,
+        "num": 436096,
+        "word": "深圳10天内3人肺栓塞进ICU",
+        "onboard_time": 1692593384,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255768,
+        "num": 433697,
+        "word": "乘客未系安全带6次弹起致骨折",
+        "onboard_time": 1692585275,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67519,
+        "num": 431021,
+        "word": "环卫阿姨被困路过小情侣合力救援",
+        "onboard_time": 1692594041,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678791,
+        "num": 428738,
+        "word": "亿万富翁破产负债千万",
+        "onboard_time": 1692594404,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466556,
+        "num": 426901,
+        "word": "张颂文 知足吧你",
+        "onboard_time": 1692586235,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426426,
+        "num": 426426,
+        "word": "林俊杰回复Angelababy",
+        "onboard_time": 1692580295,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131243,
+        "num": 367202,
+        "word": "这下全国人民都知道你破案快了",
+        "onboard_time": 1692587014,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363797,
+        "num": 363797,
+        "word": "小说里一笔带过的十年",
+        "onboard_time": 1692587975,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 569529,
+        "num": 359418,
+        "word": "不要随便加学生微信",
+        "onboard_time": 1692592664,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 462347,
+        "num": 359130,
+        "word": "肖战纱袍造型仙气十足",
+        "onboard_time": 1692595000,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429111,
+        "num": 356359,
+        "word": "和小时候很讨厌的人结婚了",
+        "onboard_time": 1692587736,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348554,
+        "num": 348554,
+        "word": "杨紫小夭孔雀绿礼服",
+        "onboard_time": 1692594702,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346248,
+        "num": 346248,
+        "word": "杨幂美拉德风造型",
+        "onboard_time": 1692592118,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340067,
+        "num": 340067,
+        "word": "权珉娥",
+        "onboard_time": 1692595419,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319361,
+        "num": 319361,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1692581736,
+        "rank": 26,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 317593,
+        "num": 317593,
+        "word": "相柳角色号大结局会删博吗",
+        "onboard_time": 1692593922,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298472,
+        "num": 298472,
+        "word": "孤注一掷新海报全员痛苦面具",
+        "onboard_time": 1692591820,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289795,
+        "num": 289795,
+        "word": "张庭夫妇成立餐饮公司",
+        "onboard_time": 1692595656,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805721,
+        "num": 286350,
+        "word": "中国好声音评分跌至3.2",
+        "onboard_time": 1692595841,
+        "rank": 30,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 296888,
+        "num": 284819,
+        "word": "一直娱",
+        "onboard_time": 1692593143,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281555,
+        "num": 281555,
+        "word": "赵露思蓝色吊带裙",
+        "onboard_time": 1692588156,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 269191,
+        "num": 269191,
+        "word": "女子账户不分昼夜有钱转入每次1分钱",
+        "onboard_time": 1692577540,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261120,
+        "num": 261120,
+        "word": "狗和猫在失重状态下的对比",
+        "onboard_time": 1692584555,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 251130,
+        "num": 251130,
+        "word": "李莲花未公开的衣服",
+        "onboard_time": 1692593982,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240839,
+        "num": 240839,
+        "word": "原来长相思有五对cp",
+        "onboard_time": 1692594821,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236642,
+        "num": 236642,
+        "word": "A股",
+        "onboard_time": 1692583413,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217786,
+        "num": 217786,
+        "word": "冰板栗好吃还是炒板栗好吃",
+        "onboard_time": 1692592001,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 215556,
+        "num": 215556,
+        "word": "研究表明乳房大小影响运动意愿",
+        "onboard_time": 1692534519,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204478,
+        "num": 204478,
+        "word": "玱玹今晚大婚",
+        "onboard_time": 1692584555,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202362,
+        "num": 202362,
+        "word": "现在就出发",
+        "onboard_time": 1692595718,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201695,
+        "num": 201695,
+        "word": "石凯k计划巡演",
+        "onboard_time": 1692594342,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200393,
+        "num": 200393,
+        "word": "林俊杰回应被激光笔照眼",
+        "onboard_time": 1692583236,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188685,
+        "num": 188685,
+        "word": "韩素希听到粉丝只有15岁belike",
+        "onboard_time": 1692589358,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188543,
+        "num": 188543,
+        "word": "永安镇故事集特种兵路演",
+        "onboard_time": 1692595236,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183846,
+        "num": 183846,
+        "word": "国考",
+        "onboard_time": 1692586293,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178090,
+        "num": 178090,
+        "word": "女子称买28元河蚌疑发现红色孔克珠",
+        "onboard_time": 1692586293,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168215,
+        "num": 168215,
+        "word": "老人结婚50年第一次拍婚纱照还免费",
+        "onboard_time": 1692588576,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146050,
+        "num": 167271,
+        "word": "大熊猫用竹子钓鱼主打一个愿者上钩",
+        "onboard_time": 1692596017,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中南友谊的彩虹之桥不断延伸#"
+    }
+  }
+}
