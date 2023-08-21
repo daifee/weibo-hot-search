@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692650026802,
+  "endTime": 1692652462330,
   "band_list": [
     {
       "raw_hot": 2002745,
@@ -451,6 +451,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 67336,
+      "num": 34541,
+      "word": "姚晨说羡慕黄晓明能请来这么多大导演",
+      "onboard_time": 1692649395,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 66457,
       "num": 95821,
       "word": "今年看过后劲最大的国产剧",
@@ -467,20 +475,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 46214,
-      "num": 34541,
-      "word": "姚晨说羡慕黄晓明能请来这么多大导演",
-      "onboard_time": 1692649395,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 39590,
+      "raw_hot": 46219,
       "num": 29805,
       "word": "喊妈妈超过一万次她会离家出走",
       "onboard_time": 1692646875,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44595,
+      "num": 44595,
+      "word": "安乐传剧组hi6七夕加更预告",
+      "onboard_time": 1692646155,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 39423,
@@ -489,14 +497,6 @@
       "onboard_time": 1692642137,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 36550,
-      "num": 36550,
-      "word": "安乐传剧组hi6七夕加更预告",
-      "onboard_time": 1692646155,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 27689,
