@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692627332751,
+  "endTime": 1692628440662,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -41,6 +41,14 @@
       "onboard_time": 1692620676,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2044981,
+      "num": 2044981,
+      "word": "已有152例猴痘病例死亡",
+      "onboard_time": 1692623621,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2028694,
@@ -105,14 +113,6 @@
       "onboard_time": 1692533077,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1750270,
-      "num": 1750270,
-      "word": "已有152例猴痘病例死亡",
-      "onboard_time": 1692623621,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1748531,
@@ -195,6 +195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1461391,
+      "num": 1461391,
+      "word": "谁能看得出这是金晨",
+      "onboard_time": 1692626918,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1443006,
       "num": 1443006,
       "word": "无意识减肥却减肥的行为",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 1246380,
-      "num": 580838,
+      "num": 649923,
       "word": "易烊千玺分享17年的自己",
       "onboard_time": 1692620138,
       "rank": 11,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 915131,
+      "num": 915131,
+      "word": "新加坡总理李显龙宣布将移交权力",
+      "onboard_time": 1692625603,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 888997,
       "num": 866946,
       "word": "身边人成为了明星",
@@ -459,14 +475,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 805861,
-      "num": 805861,
-      "word": "新加坡总理李显龙宣布将移交权力",
-      "onboard_time": 1692625603,
-      "rank": 6,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 804980,
       "num": 804980,
       "word": "你可以嫁给爱情 也可以嫁给友情",
@@ -481,6 +489,14 @@
       "onboard_time": 1692543404,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 774287,
+      "num": 774287,
+      "word": "相柳说谎",
+      "onboard_time": 1692626382,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 774185,
@@ -731,20 +747,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 534371,
-      "num": 534371,
-      "word": "谁能看得出这是金晨",
-      "onboard_time": 1692626918,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 523741,
       "num": 523741,
       "word": "相柳没死去了星落",
       "onboard_time": 1692621278,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 518969,
+      "num": 518969,
+      "word": "好声音为何不再被叫好",
+      "onboard_time": 1692626862,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 518393,
@@ -867,16 +883,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 480491,
-      "num": 374792,
-      "word": "相柳说谎",
-      "onboard_time": 1692626382,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 477967,
-      "num": 371002,
+      "num": 421274,
       "word": "邓为画的狐狸",
       "onboard_time": 1692624339,
       "rank": 45,
@@ -977,6 +985,14 @@
       "onboard_time": 1692538069,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444268,
+      "num": 358976,
+      "word": "广州地铁限定玩手机姿势",
+      "onboard_time": 1692626862,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 443322,
@@ -1539,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287005,
-      "num": 253135,
-      "word": "好声音为何不再被叫好",
-      "onboard_time": 1692626862,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 285749,
       "num": 285749,
       "word": "田曦薇恶女风造型",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1692601958,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281863,
+      "num": 281863,
+      "word": "严浩翔要拉上全团看黄晓明新片",
+      "onboard_time": 1692627521,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 281126,
@@ -1739,6 +1755,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 257100,
+      "num": 213392,
+      "word": "鞠婧祎又剪刘海了",
+      "onboard_time": 1692627163,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 256809,
       "num": 256809,
       "word": "女孩突发抽搐交警高速口提前守候",
@@ -1859,6 +1883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 229949,
+      "num": 229949,
+      "word": "重庆的哥接了个大单开到了上海",
+      "onboard_time": 1692627646,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229165,
       "num": 229165,
       "word": "这只狗狗是来报恩的吧",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1692540228,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228869,
+      "num": 204326,
+      "word": "蝉女",
+      "onboard_time": 1692628363,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 225934,
@@ -1905,6 +1945,14 @@
       "onboard_time": 1692581015,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219050,
+      "num": 203963,
+      "word": "孤注一掷",
+      "onboard_time": 1692628181,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 217336,
@@ -1947,6 +1995,14 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 211349,
+      "num": 211349,
+      "word": "鲜花可以冰箱冷藏保鲜",
+      "onboard_time": 1692627646,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210954,
       "num": 210954,
       "word": "夏目友人帐与HelloKitty联名",
@@ -1985,14 +2041,6 @@
       "onboard_time": 1692573749,
       "rank": 17,
       "category": "综艺,社会新闻"
-    },
-    {
-      "raw_hot": 208672,
-      "num": 245725,
-      "word": "广州地铁限定玩手机姿势",
-      "onboard_time": 1692626862,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 207915,
@@ -2243,6 +2291,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 174081,
+      "num": 211404,
+      "word": "从军校同学到军人夫妻",
+      "onboard_time": 1692626324,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173932,
       "num": 173932,
       "word": "薛之谦晒与张信哲合照",
@@ -2315,12 +2371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163277,
+      "num": 202340,
+      "word": "跟天蝎座相处一定要学会示弱",
+      "onboard_time": 1692628001,
+      "rank": 46,
+      "category": "情感,其它"
+    },
+    {
       "raw_hot": 161826,
       "num": 161826,
       "word": "大陆这些地方都盛产芒果",
       "onboard_time": 1692605916,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160858,
+      "num": 211364,
+      "word": "怎么会有这么懒的小狗",
+      "onboard_time": 1692626862,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 157682,
@@ -2411,14 +2483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137312,
-      "num": 211404,
-      "word": "从军校同学到军人夫妻",
-      "onboard_time": 1692626324,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135236,
       "num": 123415,
       "word": "蔡文静你喝你的我吃我的",
@@ -2441,14 +2505,6 @@
       "onboard_time": 1692585097,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131554,
-      "num": 211364,
-      "word": "怎么会有这么懒的小狗",
-      "onboard_time": 1692626862,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 127957,
@@ -2619,6 +2675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60657,
+      "num": 421925,
+      "word": "范丞丞车内rap让孟宴臣闭嘴",
+      "onboard_time": 1692626446,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59657,
       "num": 1079680,
       "word": "60秒打卡缤纷南非",
@@ -2691,15 +2755,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38743,
-      "num": 38743,
-      "word": "周洁琼陈宥维演情侣",
-      "onboard_time": 1692563833,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 35512,
+      "raw_hot": 41130,
       "num": 1749070,
       "word": "2023金砖峰会先导片",
       "onboard_time": 1692626019,
@@ -2707,12 +2763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32932,
-      "num": 376218,
-      "word": "范丞丞车内rap让孟宴臣闭嘴",
-      "onboard_time": 1692626446,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 38743,
+      "num": 38743,
+      "word": "周洁琼陈宥维演情侣",
+      "onboard_time": 1692563833,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 31271,
