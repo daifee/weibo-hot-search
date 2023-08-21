@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692609413544,
+  "endTime": 1692610435139,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -59,19 +59,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1802332,
+      "num": 385661,
+      "word": "蒋欣又瘦了好多",
+      "onboard_time": 1692605916,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1758015,
       "num": 391759,
       "word": "娜然",
       "onboard_time": 1692533077,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1725062,
-      "num": 385661,
-      "word": "蒋欣又瘦了好多",
-      "onboard_time": 1692605916,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -179,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1154482,
+      "num": 1154482,
+      "word": "年轻时吸的烟 年老时都会找你算账",
+      "onboard_time": 1692606937,
+      "rank": 3,
+      "category": "其它"
+    },
+    {
       "raw_hot": 1148656,
       "num": 540890,
       "word": "谁还记得秦牛正威改名了",
@@ -235,6 +243,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 943202,
+      "num": 943202,
+      "word": "金晨录早了",
+      "onboard_time": 1692606876,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 931989,
       "num": 230990,
       "word": "订婚发生关系后第4天女孩控告强奸",
@@ -249,14 +265,6 @@
       "onboard_time": 1692572964,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 924054,
-      "num": 924054,
-      "word": "年轻时吸的烟 年老时都会找你算账",
-      "onboard_time": 1692606937,
-      "rank": 3,
-      "category": "其它"
     },
     {
       "raw_hot": 888997,
@@ -275,8 +283,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 876426,
-      "num": 876426,
+      "raw_hot": 884998,
+      "num": 884998,
       "word": "小动物被爱会疯狂长出血肉",
       "onboard_time": 1692604841,
       "rank": 30,
@@ -433,14 +441,6 @@
       "onboard_time": 1692580178,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 674522,
-      "num": 381249,
-      "word": "金晨录早了",
-      "onboard_time": 1692606876,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 663105,
@@ -641,6 +641,14 @@
       "onboard_time": 1692602979,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 462349,
+      "num": 266181,
+      "word": "娜然于适双人封面",
+      "onboard_time": 1692609038,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 460768,
@@ -931,6 +939,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 329427,
+      "num": 254445,
+      "word": "中国跆拳道协会对僵尸跆舞做出处罚决定",
+      "onboard_time": 1692608737,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325583,
       "num": 168633,
       "word": "李玟生前录音叫不醒装睡的娱乐圈",
@@ -1139,8 +1155,8 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 273218,
-      "num": 273218,
+      "raw_hot": 274676,
+      "num": 274676,
       "word": "咋谁都认识大张伟",
       "onboard_time": 1692605318,
       "rank": 38,
@@ -1208,14 +1224,6 @@
       "word": "周翊然直播",
       "onboard_time": 1692544965,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 266181,
-      "num": 266181,
-      "word": "娜然于适双人封面",
-      "onboard_time": 1692609038,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1459,6 +1467,14 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 210954,
+      "num": 210954,
+      "word": "夏目友人帐与HelloKitty联名",
+      "onboard_time": 1692609640,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 210079,
       "num": 210079,
       "word": "男子凌晨下班遇老人卖菜全买光",
@@ -1475,14 +1491,6 @@
       "category": "综艺,社会新闻"
     },
     {
-      "raw_hot": 208383,
-      "num": 208383,
-      "word": "中国跆拳道协会对僵尸跆舞做出处罚决定",
-      "onboard_time": 1692608737,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207915,
       "num": 207915,
       "word": "大妈帮300人找对象3个月撮合7对",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1692599557,
       "rank": 46,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 204162,
+      "num": 204162,
+      "word": "当你养了只粘人的狗子",
+      "onboard_time": 1692609276,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 202997,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1692595236,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188308,
+      "num": 180971,
+      "word": "RIIZE先行曲",
+      "onboard_time": 1692610239,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 186741,
@@ -1787,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148048,
+      "num": 148048,
+      "word": "敖子逸来自FMVP的自信",
+      "onboard_time": 1692610239,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145447,
       "num": 145447,
       "word": "王一博乐华家族练舞vlog",
@@ -1811,20 +1843,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138891,
+      "num": 138891,
+      "word": "陈伟霆学习种太阳手势舞",
+      "onboard_time": 1692610178,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138341,
       "num": 167553,
       "word": "西汉姆联vs切尔西",
       "onboard_time": 1692547115,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137187,
-      "num": 137187,
-      "word": "当你养了只粘人的狗子",
-      "onboard_time": 1692609276,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 135236,
@@ -1857,6 +1889,14 @@
       "onboard_time": 1692567194,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124411,
+      "num": 124411,
+      "word": "陶喆新浪扫楼",
+      "onboard_time": 1692609757,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 123431,

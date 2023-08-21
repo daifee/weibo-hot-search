@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692609413544,
+  "endTime": 1692610435139,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2755,6 +2755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1802332,
+      "num": 385661,
+      "word": "蒋欣又瘦了好多",
+      "onboard_time": 1692605916,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1795183,
       "num": 856533,
       "word": "男子要女孩微信被拒后对其爸爸动手",
@@ -2984,14 +2992,6 @@
       "word": "网友偶遇黄多多",
       "onboard_time": 1692162044,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1725062,
-      "num": 385661,
-      "word": "蒋欣又瘦了好多",
-      "onboard_time": 1692605916,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -6291,6 +6291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1154482,
+      "num": 1154482,
+      "word": "年轻时吸的烟 年老时都会找你算账",
+      "onboard_time": 1692606937,
+      "rank": 3,
+      "category": "其它"
+    },
+    {
       "raw_hot": 1153737,
       "num": 1153737,
       "word": "陈都灵没跳又好像跳了",
@@ -8491,6 +8499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 943202,
+      "num": 943202,
+      "word": "金晨录早了",
+      "onboard_time": 1692606876,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 942891,
       "num": 381173,
       "word": "男子赤裸上身抚摸亲吻香蕉姑娘雕塑",
@@ -8777,14 +8793,6 @@
       "onboard_time": 1690980634,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 924054,
-      "num": 924054,
-      "word": "年轻时吸的烟 年老时都会找你算账",
-      "onboard_time": 1692606937,
-      "rank": 3,
-      "category": "其它"
     },
     {
       "raw_hot": 921967,
@@ -9355,6 +9363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 884998,
+      "num": 884998,
+      "word": "小动物被爱会疯狂长出血肉",
+      "onboard_time": 1692604841,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 884510,
       "num": 569608,
       "word": "鹿晗时隔六年再发星期五",
@@ -9481,14 +9497,6 @@
       "onboard_time": 1692460357,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 876426,
-      "num": 876426,
-      "word": "小动物被爱会疯狂长出血肉",
-      "onboard_time": 1692604841,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 875935,
@@ -13737,14 +13745,6 @@
       "onboard_time": 1692580178,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 674522,
-      "num": 381249,
-      "word": "金晨录早了",
-      "onboard_time": 1692606876,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 674307,
@@ -21561,6 +21561,14 @@
       "onboard_time": 1692107920,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 462349,
+      "num": 266181,
+      "word": "娜然于适双人封面",
+      "onboard_time": 1692609038,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 462339,
@@ -29603,6 +29611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329427,
+      "num": 254445,
+      "word": "中国跆拳道协会对僵尸跆舞做出处罚决定",
+      "onboard_time": 1692608737,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329360,
       "num": 392732,
       "word": "租客把房东花上百万装修的房子拆了",
@@ -34403,6 +34419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274676,
+      "num": 274676,
+      "word": "咋谁都认识大张伟",
+      "onboard_time": 1692605318,
+      "rank": 38,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 274581,
       "num": 274581,
       "word": "长相思的出圈程度",
@@ -34601,14 +34625,6 @@
       "onboard_time": 1691888374,
       "rank": 44,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 273218,
-      "num": 273218,
-      "word": "咋谁都认识大张伟",
-      "onboard_time": 1692605318,
-      "rank": 38,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 273195,
@@ -35281,14 +35297,6 @@
       "onboard_time": 1692165881,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266181,
-      "num": 266181,
-      "word": "娜然于适双人封面",
-      "onboard_time": 1692609038,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 266090,
@@ -41603,6 +41611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210954,
+      "num": 210954,
+      "word": "夏目友人帐与HelloKitty联名",
+      "onboard_time": 1692609640,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 210765,
       "num": 210765,
       "word": "孙阳还原扔衣服名场面",
@@ -42041,14 +42057,6 @@
       "onboard_time": 1691568997,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208383,
-      "num": 208383,
-      "word": "中国跆拳道协会对僵尸跆舞做出处罚决定",
-      "onboard_time": 1692608737,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208375,
@@ -42881,6 +42889,14 @@
       "onboard_time": 1692444276,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204162,
+      "num": 204162,
+      "word": "当你养了只粘人的狗子",
+      "onboard_time": 1692609276,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 204154,
@@ -46265,6 +46281,14 @@
       "onboard_time": 1692282528,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188308,
+      "num": 180971,
+      "word": "RIIZE先行曲",
+      "onboard_time": 1692610239,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 188271,
@@ -49707,6 +49731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148048,
+      "num": 148048,
+      "word": "敖子逸来自FMVP的自信",
+      "onboard_time": 1692610239,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147949,
       "num": 168572,
       "word": "年轻的二次元",
@@ -50299,6 +50331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138891,
+      "num": 138891,
+      "word": "陈伟霆学习种太阳手势舞",
+      "onboard_time": 1692610178,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138448,
       "num": 201349,
       "word": "黑色粉底液测评",
@@ -50393,14 +50433,6 @@
       "onboard_time": 1692263982,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137187,
-      "num": 137187,
-      "word": "当你养了只粘人的狗子",
-      "onboard_time": 1692609276,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 137156,
@@ -51105,6 +51137,14 @@
       "onboard_time": 1692465389,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124411,
+      "num": 124411,
+      "word": "陶喆新浪扫楼",
+      "onboard_time": 1692609757,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 124265,
