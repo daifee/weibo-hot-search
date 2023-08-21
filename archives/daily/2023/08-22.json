@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692639245077,
+  "endTime": 1692641950706,
   "band_list": [
     {
       "raw_hot": 2002745,
@@ -441,6 +441,14 @@
       "onboard_time": 1692638182,
       "rank": 28,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 67351,
+      "num": 67351,
+      "word": "会长是女仆中的初代男神",
+      "onboard_time": 1692641057,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 66457,
