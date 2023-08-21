@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692624837470,
+  "endTime": 1692627332751,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -33,6 +33,14 @@
       "onboard_time": 1692610595,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2486877,
+      "num": 2486877,
+      "word": "最近韩国渐渐出现无糖葫芦区",
+      "onboard_time": 1692620676,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 2028694,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1777152,
-      "num": 1336143,
+      "num": 1443042,
       "word": "男孩在柬埔寨坠亡身上刻着被害冤枉",
       "onboard_time": 1692619956,
       "rank": 5,
@@ -97,6 +105,22 @@
       "onboard_time": 1692533077,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1750270,
+      "num": 1750270,
+      "word": "已有152例猴痘病例死亡",
+      "onboard_time": 1692623621,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1748531,
+      "num": 1748531,
+      "word": "左立回应怒吼",
+      "onboard_time": 1692623737,
+      "rank": 29,
+      "category": "游戏,综艺"
     },
     {
       "raw_hot": 1734582,
@@ -115,20 +139,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1661450,
+      "num": 369591,
+      "word": "迪丽热巴穿了吊带红裙",
+      "onboard_time": 1692624821,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1658337,
       "num": 1658337,
       "word": "原来天堂伞可以免费维修",
       "onboard_time": 1692576156,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1633850,
-      "num": 1633850,
-      "word": "最近韩国渐渐出现无糖葫芦区",
-      "onboard_time": 1692620676,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 1607203,
@@ -315,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 971890,
-      "num": 971890,
-      "word": "左立回应怒吼",
-      "onboard_time": 1692623737,
-      "rank": 29,
-      "category": "游戏,综艺"
-    },
-    {
       "raw_hot": 948095,
       "num": 948095,
       "word": "本周狗屎运最旺的星座",
@@ -441,6 +457,14 @@
       "onboard_time": 1692592722,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 805861,
+      "num": 805861,
+      "word": "新加坡总理李显龙宣布将移交权力",
+      "onboard_time": 1692625603,
+      "rank": 6,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 804980,
@@ -619,14 +643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 608226,
-      "num": 534427,
-      "word": "已有152例猴痘病例死亡",
-      "onboard_time": 1692623621,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 607804,
       "num": 406400,
       "word": "女子称买28元河蚌疑发现红色孔克珠",
@@ -712,6 +728,14 @@
       "word": "百万播放99万是范丞丞看的",
       "onboard_time": 1692575914,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 534371,
+      "num": 534371,
+      "word": "谁能看得出这是金晨",
+      "onboard_time": 1692626918,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -843,6 +867,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480491,
+      "num": 374792,
+      "word": "相柳说谎",
+      "onboard_time": 1692626382,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 477967,
+      "num": 371002,
+      "word": "邓为画的狐狸",
+      "onboard_time": 1692624339,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 477288,
       "num": 477288,
       "word": "李莲花唯一一个不敢怼的人",
@@ -940,7 +980,7 @@
     },
     {
       "raw_hot": 443322,
-      "num": 334586,
+      "num": 364355,
       "word": "白米粥涮火锅有多好吃",
       "onboard_time": 1692621159,
       "rank": 36,
@@ -1068,7 +1108,7 @@
     },
     {
       "raw_hot": 390295,
-      "num": 350503,
+      "num": 370608,
       "word": "泄洪后回家房子完好无损",
       "onboard_time": 1692619714,
       "rank": 30,
@@ -1113,6 +1153,14 @@
       "onboard_time": 1692541428,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 368728,
+      "num": 368728,
+      "word": "黄晓明说闫妮风情万种",
+      "onboard_time": 1692624457,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 358094,
@@ -1443,14 +1491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297666,
-      "num": 274271,
-      "word": "黄晓明说闫妮风情万种",
-      "onboard_time": 1692624457,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 295585,
       "num": 295585,
       "word": "黄子弘凡自责到破防",
@@ -1497,6 +1537,14 @@
       "onboard_time": 1692616713,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287005,
+      "num": 253135,
+      "word": "好声音为何不再被叫好",
+      "onboard_time": 1692626862,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 285749,
@@ -1609,6 +1657,14 @@
       "onboard_time": 1692580237,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 267771,
+      "num": 245555,
+      "word": "中戏教授点评孤注一掷表演",
+      "onboard_time": 1692625660,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 267598,
@@ -1931,6 +1987,14 @@
       "category": "综艺,社会新闻"
     },
     {
+      "raw_hot": 208672,
+      "num": 245725,
+      "word": "广州地铁限定玩手机姿势",
+      "onboard_time": 1692626862,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207915,
       "num": 207915,
       "word": "大妈帮300人找对象3个月撮合7对",
@@ -1945,14 +2009,6 @@
       "onboard_time": 1692599557,
       "rank": 46,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 204934,
-      "num": 204934,
-      "word": "邓为画的狐狸",
-      "onboard_time": 1692624339,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 204162,
@@ -1985,14 +2041,6 @@
       "onboard_time": 1692603818,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200521,
-      "num": 200521,
-      "word": "迪丽热巴穿了吊带红裙",
-      "onboard_time": 1692624821,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200290,
@@ -2129,6 +2177,14 @@
       "onboard_time": 1692602319,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185756,
+      "num": 241218,
+      "word": "看她画画真的是一种享受",
+      "onboard_time": 1692624279,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 180712,
@@ -2355,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137312,
+      "num": 211404,
+      "word": "从军校同学到军人夫妻",
+      "onboard_time": 1692626324,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135236,
       "num": 123415,
       "word": "蔡文静你喝你的我吃我的",
@@ -2379,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131554,
+      "num": 211364,
+      "word": "怎么会有这么懒的小狗",
+      "onboard_time": 1692626862,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127957,
       "num": 127957,
       "word": "大宋少年志张新成父子对峙戏",
@@ -2393,6 +2465,14 @@
       "onboard_time": 1692609757,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123586,
+      "num": 211267,
+      "word": "在画一种很新的毛利兰",
+      "onboard_time": 1692625300,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 123431,
@@ -2417,14 +2497,6 @@
       "onboard_time": 1692617077,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 121087,
-      "num": 193683,
-      "word": "看她画画真的是一种享受",
-      "onboard_time": 1692624279,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 118971,
@@ -2625,6 +2697,22 @@
       "onboard_time": 1692563833,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 35512,
+      "num": 1749070,
+      "word": "2023金砖峰会先导片",
+      "onboard_time": 1692626019,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32932,
+      "num": 376218,
+      "word": "范丞丞车内rap让孟宴臣闭嘴",
+      "onboard_time": 1692626446,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 31271,

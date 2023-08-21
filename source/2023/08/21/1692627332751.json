@@ -1,0 +1,410 @@
+{
+  "runTime": 1692627332751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2486877,
+        "num": 2486877,
+        "word": "最近韩国渐渐出现无糖葫芦区",
+        "onboard_time": 1692620676,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1750270,
+        "num": 1750270,
+        "word": "已有152例猴痘病例死亡",
+        "onboard_time": 1692623621,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35512,
+        "num": 1749070,
+        "word": "2023金砖峰会先导片",
+        "onboard_time": 1692626019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1748531,
+        "num": 1748531,
+        "word": "左立回应怒吼",
+        "onboard_time": 1692623737,
+        "rank": 3,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 1443042,
+        "num": 1443042,
+        "word": "男孩在柬埔寨坠亡身上刻着被害冤枉",
+        "onboard_time": 1692619956,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207185,
+        "num": 1207185,
+        "word": "涂山璟已婚",
+        "onboard_time": 1692620375,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 805861,
+        "num": 805861,
+        "word": "新加坡总理李显龙宣布将移交权力",
+        "onboard_time": 1692625603,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 730301,
+        "num": 730301,
+        "word": "蒲熠星to签",
+        "onboard_time": 1692623621,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697018,
+        "num": 697018,
+        "word": "爷爷去世前和朋友发的短信",
+        "onboard_time": 1692617616,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 590149,
+        "num": 590149,
+        "word": "魏大勋称体重好真实",
+        "onboard_time": 1692621400,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 726417,
+        "num": 562971,
+        "word": "易烊千玺分享17年的自己",
+        "onboard_time": 1692620138,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534371,
+        "num": 534371,
+        "word": "谁能看得出这是金晨",
+        "onboard_time": 1692626918,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481313,
+        "num": 481313,
+        "word": "夭柳海底看鲛人被删改了",
+        "onboard_time": 1692621641,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389428,
+        "num": 389428,
+        "word": "建议明天把微信步数关一下",
+        "onboard_time": 1692591940,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32932,
+        "num": 376218,
+        "word": "范丞丞车内rap让孟宴臣闭嘴",
+        "onboard_time": 1692626446,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480491,
+        "num": 374792,
+        "word": "相柳说谎",
+        "onboard_time": 1692626382,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371264,
+        "num": 371264,
+        "word": "蒋欣又瘦了好多",
+        "onboard_time": 1692605916,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477967,
+        "num": 371002,
+        "word": "邓为画的狐狸",
+        "onboard_time": 1692624339,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283588,
+        "num": 370608,
+        "word": "泄洪后回家房子完好无损",
+        "onboard_time": 1692619714,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394317,
+        "num": 370190,
+        "word": "相柳没死去了星落",
+        "onboard_time": 1692621278,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1661450,
+        "num": 369591,
+        "word": "迪丽热巴穿了吊带红裙",
+        "onboard_time": 1692624821,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 491208,
+        "num": 369156,
+        "word": "男子账户突然多出49000元吓得赶紧报警",
+        "onboard_time": 1692621159,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368728,
+        "num": 368728,
+        "word": "黄晓明说闫妮风情万种",
+        "onboard_time": 1692624457,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364355,
+        "num": 364355,
+        "word": "白米粥涮火锅有多好吃",
+        "onboard_time": 1692621159,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 337567,
+        "num": 337567,
+        "word": "微信表白代码",
+        "onboard_time": 1692619776,
+        "rank": 24,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 335000,
+        "num": 335000,
+        "word": "苏醒身负三代家当",
+        "onboard_time": 1692622419,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321234,
+        "num": 321234,
+        "word": "今年看过后劲最大的国产剧",
+        "onboard_time": 1692612096,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316689,
+        "num": 316689,
+        "word": "王鹤棣范丞丞魏大勋白敬亭耳骨夹",
+        "onboard_time": 1692620498,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298487,
+        "num": 298487,
+        "word": "男生嫌下山太累直接滚到半山腰",
+        "onboard_time": 1692622598,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258258,
+        "num": 258258,
+        "word": "世界上唯一拥有3个首都的国家",
+        "onboard_time": 1692616713,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399828,
+        "num": 257507,
+        "word": "中国好声音评分跌至3.2",
+        "onboard_time": 1692595841,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306773,
+        "num": 256877,
+        "word": "TFBOYS演我开学见到同学",
+        "onboard_time": 1692614494,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287005,
+        "num": 253135,
+        "word": "好声音为何不再被叫好",
+        "onboard_time": 1692626862,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247376,
+        "num": 247376,
+        "word": "小动物被爱会疯狂长出血肉",
+        "onboard_time": 1692604841,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208672,
+        "num": 245725,
+        "word": "广州地铁限定玩手机姿势",
+        "onboard_time": 1692626862,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267771,
+        "num": 245555,
+        "word": "中戏教授点评孤注一掷表演",
+        "onboard_time": 1692625660,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251572,
+        "num": 245366,
+        "word": "王俊凯易烊千玺入围金鹿奖",
+        "onboard_time": 1692613536,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245163,
+        "num": 245163,
+        "word": "邓为潮男拍照教学",
+        "onboard_time": 1692623440,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 185756,
+        "num": 241218,
+        "word": "看她画画真的是一种享受",
+        "onboard_time": 1692624279,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 179576,
+        "num": 240824,
+        "word": "村霸私闯民宅致老人脑出血孙子跳河",
+        "onboard_time": 1692621219,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240536,
+        "num": 240536,
+        "word": "SEVENTEEN回归比孙悟空更有冲击性",
+        "onboard_time": 1692619416,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238194,
+        "num": 238194,
+        "word": "张新成KTV以前点周杰伦现在是陶喆",
+        "onboard_time": 1692621159,
+        "rank": 41,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 215960,
+        "num": 215960,
+        "word": "秦岚工作室 拍戏咽炎复发",
+        "onboard_time": 1692620558,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211693,
+        "num": 211693,
+        "word": "谁说女生不能是鲜衣怒马",
+        "onboard_time": 1692617015,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178480,
+        "num": 211594,
+        "word": "男子坐5小时高铁险猝死",
+        "onboard_time": 1692612216,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156947,
+        "num": 211543,
+        "word": "21日起暂停台湾地区芒果输入大陆",
+        "onboard_time": 1692600216,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137312,
+        "num": 211404,
+        "word": "从军校同学到军人夫妻",
+        "onboard_time": 1692626324,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131554,
+        "num": 211364,
+        "word": "怎么会有这么懒的小狗",
+        "onboard_time": 1692626862,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123586,
+        "num": 211267,
+        "word": "在画一种很新的毛利兰",
+        "onboard_time": 1692625300,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 114140,
+        "num": 211167,
+        "word": "只有四川人才懂这一碗的含金量",
+        "onboard_time": 1692604242,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖合作的含金量有多高#"
+    }
+  }
+}
