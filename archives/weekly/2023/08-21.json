@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692580135615,
+  "endTime": 1692581341048,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -12,23 +12,31 @@
     },
     {
       "raw_hot": 1945342,
-      "num": 937851,
+      "num": 1500526,
       "word": "原来我的专业考不了公务员",
       "onboard_time": 1692573566,
       "rank": 33,
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 1642615,
-      "num": 1642615,
+      "raw_hot": 1658337,
+      "num": 1658337,
       "word": "原来天堂伞可以免费维修",
       "onboard_time": 1692576156,
       "rank": 0,
       "category": "情感"
     },
     {
+      "raw_hot": 1607203,
+      "num": 1607203,
+      "word": "女子账户不分昼夜有钱转入每次1分钱",
+      "onboard_time": 1692577540,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1580829,
-      "num": 227877,
+      "num": 240981,
       "word": "韩红",
       "onboard_time": 1692572663,
       "rank": 30,
@@ -51,14 +59,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1326842,
-      "num": 530804,
-      "word": "女子账户不分昼夜有钱转入每次1分钱",
-      "onboard_time": 1692577540,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1239876,
       "num": 494256,
       "word": "研究表明乳房大小影响运动意愿",
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1202409,
-      "num": 227497,
+      "num": 241059,
       "word": "武林外传预言好声音",
       "onboard_time": 1692541669,
       "rank": 30,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 930567,
-      "num": 526738,
+      "num": 623105,
       "word": "by2晒与Angelababy合照",
       "onboard_time": 1692572964,
       "rank": 11,
@@ -113,6 +113,14 @@
       "onboard_time": 1692540766,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 824606,
+      "num": 824606,
+      "word": "无意识减肥却减肥的行为",
+      "onboard_time": 1692579937,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 804980,
@@ -155,11 +163,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663105,
+      "num": 663105,
+      "word": "失传2000多年的扁鹊医书找到了",
+      "onboard_time": 1692577597,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601836,
       "num": 323879,
       "word": "娜然",
       "onboard_time": 1692533077,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 544812,
+      "num": 544812,
+      "word": "向佐记录一家四口暑假生活",
+      "onboard_time": 1692580178,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -169,14 +193,6 @@
       "onboard_time": 1692575914,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 522374,
-      "num": 522374,
-      "word": "失传2000多年的扁鹊医书找到了",
-      "onboard_time": 1692577597,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 517820,
@@ -235,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 448543,
+      "num": 448543,
+      "word": "林俊杰回复Angelababy",
+      "onboard_time": 1692580295,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 445620,
       "num": 445620,
       "word": "到缅北第一天就被拉去参观水牢",
@@ -273,6 +297,14 @@
       "onboard_time": 1692574830,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 402359,
+      "num": 402359,
+      "word": "副局长家属连泼景区工作人员3杯热水",
+      "onboard_time": 1692579998,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397987,
@@ -315,20 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351716,
+      "num": 351716,
+      "word": "邓为很满意夭璟结局",
+      "onboard_time": 1692575373,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350616,
       "num": 350616,
       "word": "医生吃面发现邻座女子长肿瘤提醒就医",
       "onboard_time": 1692523357,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344012,
-      "num": 344012,
-      "word": "邓为很满意夭璟结局",
-      "onboard_time": 1692575373,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 325583,
@@ -379,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 304413,
+      "num": 304413,
+      "word": "为救500岁古树挪走一栋房",
+      "onboard_time": 1692579760,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302950,
       "num": 302950,
       "word": "EDG告别全球冠军赛",
@@ -388,7 +428,7 @@
     },
     {
       "raw_hot": 302018,
-      "num": 996529,
+      "num": 1541686,
       "word": "接到96110来电千万不要挂",
       "onboard_time": 1692540526,
       "rank": 2,
@@ -401,6 +441,14 @@
       "onboard_time": 1692534038,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288394,
+      "num": 288394,
+      "word": "Angelababy白鹿赵露思虞书欣都达成钻超了",
+      "onboard_time": 1692580295,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 285749,
@@ -467,14 +515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 245991,
-      "num": 245991,
-      "word": "为救500岁古树挪走一栋房",
-      "onboard_time": 1692579760,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244900,
       "num": 244900,
       "word": "后劲很大的影视剧",
@@ -507,12 +547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212346,
-      "num": 212346,
-      "word": "无意识减肥却减肥的行为",
-      "onboard_time": 1692579937,
-      "rank": 33,
+      "raw_hot": 220384,
+      "num": 220384,
+      "word": "周一",
+      "onboard_time": 1692580237,
+      "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211688,
+      "num": 211688,
+      "word": "白桃星座",
+      "onboard_time": 1692579577,
+      "rank": 34,
+      "category": "网红,情感"
     },
     {
       "raw_hot": 209446,
@@ -521,14 +569,6 @@
       "onboard_time": 1692573749,
       "rank": 17,
       "category": "综艺,社会新闻"
-    },
-    {
-      "raw_hot": 207792,
-      "num": 207792,
-      "word": "白桃星座",
-      "onboard_time": 1692579577,
-      "rank": 34,
-      "category": "网红,情感"
     },
     {
       "raw_hot": 194356,
@@ -561,6 +601,14 @@
       "onboard_time": 1692535841,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 179233,
+      "num": 179233,
+      "word": "四个显眼包斗舞",
+      "onboard_time": 1692581015,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 175801,
@@ -635,14 +683,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 165632,
-      "num": 165632,
-      "word": "副局长家属连泼景区工作人员3杯热水",
-      "onboard_time": 1692579998,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163549,
       "num": 163549,
       "word": "张新成的一滴泪",
@@ -675,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151756,
+      "num": 151756,
+      "word": "薛之谦晒与张信哲合照",
+      "onboard_time": 1692581195,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150311,
       "num": 163088,
       "word": "慕光之城",
@@ -689,6 +737,14 @@
       "onboard_time": 1692566653,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149278,
+      "num": 149278,
+      "word": "范丞丞就等着你们叫杨澄呢",
+      "onboard_time": 1692581256,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 145447,
