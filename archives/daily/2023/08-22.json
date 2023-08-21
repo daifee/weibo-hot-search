@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692656120769,
+  "endTime": 1692657224680,
   "band_list": [
     {
       "raw_hot": 2002745,
@@ -411,12 +411,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139900,
+      "num": 139900,
+      "word": "今年看过后劲最大的国产剧",
+      "onboard_time": 1692612096,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137446,
       "num": 137446,
       "word": "中戏教授点评孤注一掷表演",
       "onboard_time": 1692625660,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128233,
+      "num": 70668,
+      "word": "姚晨说羡慕黄晓明能请来这么多大导演",
+      "onboard_time": 1692649395,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126007,
+      "num": 70557,
+      "word": "男孩失联手机最后定位在缅甸",
+      "onboard_time": 1692654434,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121416,
@@ -443,22 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104471,
-      "num": 104471,
-      "word": "今年看过后劲最大的国产剧",
-      "onboard_time": 1692612096,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 101899,
-      "num": 48260,
-      "word": "姚晨说羡慕黄晓明能请来这么多大导演",
-      "onboard_time": 1692649395,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 97929,
       "num": 97929,
       "word": "自爱才是人生的开始",
@@ -467,32 +475,24 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 77913,
-      "num": 48219,
-      "word": "男孩失联手机最后定位在缅甸",
-      "onboard_time": 1692654434,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68544,
-      "num": 68544,
+      "raw_hot": 96884,
+      "num": 96884,
       "word": "王一博你到底会多少个舞种",
       "onboard_time": 1692647353,
       "rank": 13,
       "category": "影视"
     },
     {
-      "raw_hot": 58449,
-      "num": 43647,
+      "raw_hot": 79446,
+      "num": 58199,
       "word": "喊妈妈超过一万次她会离家出走",
       "onboard_time": 1692646875,
       "rank": 31,
       "category": "幽默"
     },
     {
-      "raw_hot": 46116,
-      "num": 46116,
+      "raw_hot": 58314,
+      "num": 58314,
       "word": "收到陌生转账你会怎么处理",
       "onboard_time": 1692653473,
       "rank": 28,
