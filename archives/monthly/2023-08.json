@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692588846646,
+  "endTime": 1692591571804,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2539,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1865340,
+      "num": 565456,
+      "word": "张颂文 知足吧你",
+      "onboard_time": 1692586235,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1859194,
       "num": 429955,
       "word": "于适龙吸水",
@@ -3057,14 +3065,6 @@
       "onboard_time": 1691046033,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1698667,
-      "num": 565456,
-      "word": "张颂文 知足吧你",
-      "onboard_time": 1692586235,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1696434,
@@ -5353,6 +5353,14 @@
       "onboard_time": 1691154159,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1269171,
+      "num": 1269171,
+      "word": "火的是魏大勋装的是范丞丞",
+      "onboard_time": 1692586956,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1266157,
@@ -9323,14 +9331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 879991,
-      "num": 879991,
-      "word": "火的是魏大勋装的是范丞丞",
-      "onboard_time": 1692586956,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 879681,
       "num": 879681,
       "word": "唐嫣念无双妆造没有换",
@@ -10817,6 +10817,14 @@
       "onboard_time": 1691908594,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 790561,
+      "num": 457680,
+      "word": "谁还记得秦牛正威改名了",
+      "onboard_time": 1692587496,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 790202,
@@ -15036,7 +15044,7 @@
     },
     {
       "raw_hot": 615936,
-      "num": 399328,
+      "num": 462358,
       "word": "国考",
       "onboard_time": 1692586293,
       "rank": 21,
@@ -15297,6 +15305,14 @@
       "onboard_time": 1691067334,
       "rank": 9,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 607436,
+      "num": 371943,
+      "word": "和小时候很讨厌的人结婚了",
+      "onboard_time": 1692587736,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 607251,
@@ -16017,6 +16033,14 @@
       "onboard_time": 1691928815,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 587025,
+      "num": 587025,
+      "word": "田曦薇演的李玉湖是炸毛哈基米",
+      "onboard_time": 1692589841,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 586976,
@@ -17361,6 +17385,14 @@
       "onboard_time": 1691838219,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554381,
+      "num": 554381,
+      "word": "小说里一笔带过的十年",
+      "onboard_time": 1692587975,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 554273,
@@ -19739,6 +19771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495707,
+      "num": 455105,
+      "word": "赵露思蓝色吊带裙",
+      "onboard_time": 1692588156,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 495531,
       "num": 571549,
       "word": "夭柳悲剧就是没有如果",
@@ -21875,6 +21915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 451933,
+      "num": 451933,
+      "word": "原来七夕还是小朋友的成人礼",
+      "onboard_time": 1692587496,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 451734,
       "num": 383533,
       "word": "当爸爸知道我涨工资后",
@@ -21889,6 +21937,14 @@
       "onboard_time": 1691900134,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451609,
+      "num": 451609,
+      "word": "韩素希听到粉丝只有15岁belike",
+      "onboard_time": 1692589358,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 451447,
@@ -23993,14 +24049,6 @@
       "onboard_time": 1691811877,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 411678,
-      "num": 369234,
-      "word": "和小时候很讨厌的人结婚了",
-      "onboard_time": 1692587736,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 411597,
@@ -26907,14 +26955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365078,
-      "num": 365078,
-      "word": "谁还记得秦牛正威改名了",
-      "onboard_time": 1692587496,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 364875,
       "num": 376189,
       "word": "判决书上网致被性侵少女信息泄露",
@@ -28915,6 +28955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334881,
+      "num": 334881,
+      "word": "田曦薇李玉湖被偷亲的反应",
+      "onboard_time": 1692589418,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334873,
       "num": 334873,
       "word": "杨紫sorry全场",
@@ -30651,18 +30699,18 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 310255,
-      "num": 310255,
-      "word": "赵露思蓝色吊带裙",
-      "onboard_time": 1692588156,
-      "rank": 26,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 310188,
       "num": 305066,
       "word": "邓为实绩图",
       "onboard_time": 1691026358,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 310154,
+      "num": 293450,
+      "word": "原著里扳倒涂山篌防风意映的证据",
+      "onboard_time": 1692589237,
       "rank": 28,
       "category": "影视"
     },
@@ -30889,14 +30937,6 @@
       "onboard_time": 1692073722,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 307730,
-      "num": 307730,
-      "word": "原来七夕还是小朋友的成人礼",
-      "onboard_time": 1692587496,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 307554,
@@ -34579,14 +34619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 268163,
-      "num": 268163,
-      "word": "小说里一笔带过的十年",
-      "onboard_time": 1692587975,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 268062,
       "num": 267670,
       "word": "杨紫直播背景",
@@ -35385,6 +35417,14 @@
       "onboard_time": 1691264066,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260354,
+      "num": 260354,
+      "word": "舒淇蓝色美人鱼",
+      "onboard_time": 1692590258,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 260303,
@@ -39075,6 +39115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224824,
+      "num": 224824,
+      "word": "这只狗狗是来报恩的吧",
+      "onboard_time": 1692590197,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 224784,
       "num": 224784,
       "word": "陈牧驰流水的上衣铁打的大裤衩",
@@ -39505,6 +39553,14 @@
       "onboard_time": 1691796505,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222159,
+      "num": 222159,
+      "word": "学生撞伤老人吓哭却被对方家属安慰",
+      "onboard_time": 1692589962,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222064,
@@ -40875,6 +40931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211852,
+      "num": 211852,
+      "word": "沈月的图好适合当头像",
+      "onboard_time": 1692590738,
+      "rank": 39,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 211809,
       "num": 211809,
       "word": "AG对战TTG",
@@ -41169,6 +41233,14 @@
       "onboard_time": 1692017257,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209960,
+      "num": 209960,
+      "word": "无毛猫和布偶猫的日常",
+      "onboard_time": 1692590801,
+      "rank": 40,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 209954,
@@ -45859,6 +45931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186769,
+      "num": 209761,
+      "word": "毛晓彤在演一种很新的婚礼",
+      "onboard_time": 1692591339,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186742,
       "num": 232463,
       "word": "王一博陈烁倒吊旋转五十多圈",
@@ -46249,6 +46329,14 @@
       "onboard_time": 1692524377,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183823,
+      "num": 208590,
+      "word": "小夭晒猫",
+      "onboard_time": 1692591281,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 183768,
@@ -49955,6 +50043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132341,
+      "num": 204895,
+      "word": "特斯拉新款Model3或已移除所有雷达",
+      "onboard_time": 1692591460,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 132109,
       "num": 132109,
       "word": "檀健次说相柳不需要续集",
@@ -52795,6 +52891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59657,
+      "num": 869837,
+      "word": "60秒打卡缤纷南非",
+      "onboard_time": 1692588336,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59278,
       "num": 440183,
       "word": "浙h180f7为你点赞",
@@ -53681,14 +53785,6 @@
       "onboard_time": 1691058633,
       "rank": 38,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 29288,
-      "num": 869837,
-      "word": "60秒打卡缤纷南非",
-      "onboard_time": 1692588336,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29145,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1692591571804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1269171,
+        "num": 1269171,
+        "word": "火的是魏大勋装的是范丞丞",
+        "onboard_time": 1692586956,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 789187,
+        "num": 789187,
+        "word": "林俊杰回复Angelababy",
+        "onboard_time": 1692580295,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59657,
+        "num": 669594,
+        "word": "60秒打卡缤纷南非",
+        "onboard_time": 1692588336,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891866,
+        "num": 661010,
+        "word": "原来我的专业考不了公务员",
+        "onboard_time": 1692573566,
+        "rank": 3,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 646034,
+        "num": 646034,
+        "word": "无意识减肥却减肥的行为",
+        "onboard_time": 1692579937,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 587025,
+        "num": 587025,
+        "word": "田曦薇演的李玉湖是炸毛哈基米",
+        "onboard_time": 1692589841,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 554381,
+        "num": 554381,
+        "word": "小说里一笔带过的十年",
+        "onboard_time": 1692587975,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 463088,
+        "num": 463088,
+        "word": "身边人成为了明星",
+        "onboard_time": 1692583956,
+        "rank": 7,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 392036,
+        "num": 462358,
+        "word": "国考",
+        "onboard_time": 1692586293,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 385990,
+        "num": 460211,
+        "word": "乘客未系安全带6次弹起致骨折",
+        "onboard_time": 1692585275,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1865340,
+        "num": 459691,
+        "word": "张颂文 知足吧你",
+        "onboard_time": 1692586235,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790561,
+        "num": 457680,
+        "word": "谁还记得秦牛正威改名了",
+        "onboard_time": 1692587496,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593088,
+        "num": 456665,
+        "word": "女子账户不分昼夜有钱转入每次1分钱",
+        "onboard_time": 1692577540,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495707,
+        "num": 455105,
+        "word": "赵露思蓝色吊带裙",
+        "onboard_time": 1692588156,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 261327,
+        "num": 452857,
+        "word": "这下全国人民都知道你破案快了",
+        "onboard_time": 1692587014,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451933,
+        "num": 451933,
+        "word": "原来七夕还是小朋友的成人礼",
+        "onboard_time": 1692587496,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 451609,
+        "num": 451609,
+        "word": "韩素希听到粉丝只有15岁belike",
+        "onboard_time": 1692589358,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404133,
+        "num": 404133,
+        "word": "玱玹今晚大婚",
+        "onboard_time": 1692584555,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382392,
+        "num": 382392,
+        "word": "A股",
+        "onboard_time": 1692583413,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 376700,
+        "num": 376700,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1692581736,
+        "rank": 19,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 607436,
+        "num": 371943,
+        "word": "和小时候很讨厌的人结婚了",
+        "onboard_time": 1692587736,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351260,
+        "num": 351260,
+        "word": "林俊杰回应被激光笔照眼",
+        "onboard_time": 1692583236,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347092,
+        "num": 347092,
+        "word": "女子称买28元河蚌疑发现红色孔克珠",
+        "onboard_time": 1692586293,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338265,
+        "num": 338265,
+        "word": "狗和猫在失重状态下的对比",
+        "onboard_time": 1692584555,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 334881,
+        "num": 334881,
+        "word": "田曦薇李玉湖被偷亲的反应",
+        "onboard_time": 1692589418,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319604,
+        "num": 319604,
+        "word": "易烊千玺专辑实物",
+        "onboard_time": 1692586715,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 316914,
+        "num": 316914,
+        "word": "杨紫成毅邓为檀健次肖战V榜破9",
+        "onboard_time": 1692585038,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296486,
+        "num": 296486,
+        "word": "唐嫣刘学义被狗追出表情包",
+        "onboard_time": 1692586956,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310154,
+        "num": 293450,
+        "word": "原著里扳倒涂山篌防风意映的证据",
+        "onboard_time": 1692589237,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277430,
+        "num": 277430,
+        "word": "研究表明乳房大小影响运动意愿",
+        "onboard_time": 1692534519,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260618,
+        "num": 260618,
+        "word": "时代少年团或将有线上演唱会",
+        "onboard_time": 1692587315,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260354,
+        "num": 260354,
+        "word": "舒淇蓝色美人鱼",
+        "onboard_time": 1692590258,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233562,
+        "num": 233562,
+        "word": "小夭的贝壳是相柳接血那个吗",
+        "onboard_time": 1692587373,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232149,
+        "num": 232149,
+        "word": "老人结婚50年第一次拍婚纱照还免费",
+        "onboard_time": 1692588576,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224824,
+        "num": 224824,
+        "word": "这只狗狗是来报恩的吧",
+        "onboard_time": 1692590197,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 222159,
+        "num": 222159,
+        "word": "学生撞伤老人吓哭却被对方家属安慰",
+        "onboard_time": 1692589962,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219534,
+        "num": 219534,
+        "word": "长大后最羡慕的朋友圈",
+        "onboard_time": 1692574952,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216120,
+        "num": 216120,
+        "word": "原来天堂伞可以免费维修",
+        "onboard_time": 1692576156,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214270,
+        "num": 214270,
+        "word": "失传2000多年的扁鹊医书找到了",
+        "onboard_time": 1692577597,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211852,
+        "num": 211852,
+        "word": "沈月的图好适合当头像",
+        "onboard_time": 1692590738,
+        "rank": 39,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 209960,
+        "num": 209960,
+        "word": "无毛猫和布偶猫的日常",
+        "onboard_time": 1692590801,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 186769,
+        "num": 209761,
+        "word": "毛晓彤在演一种很新的婚礼",
+        "onboard_time": 1692591339,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183823,
+        "num": 208590,
+        "word": "小夭晒猫",
+        "onboard_time": 1692591281,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181531,
+        "num": 208096,
+        "word": "2023年国考过审人数达近260万人",
+        "onboard_time": 1692582275,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180254,
+        "num": 207495,
+        "word": "玱玹早八相柳早九",
+        "onboard_time": 1692588217,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177305,
+        "num": 206824,
+        "word": "副局长家属连泼景区工作人员3杯热水",
+        "onboard_time": 1692579998,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169350,
+        "num": 206476,
+        "word": "密室大逃脱失落的城邦",
+        "onboard_time": 1692584196,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165555,
+        "num": 205735,
+        "word": "上海亚宠展丁满被偷",
+        "onboard_time": 1692587014,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132341,
+        "num": 204895,
+        "word": "特斯拉新款Model3或已移除所有雷达",
+        "onboard_time": 1692591460,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 105669,
+        "num": 204039,
+        "word": "带老外第一次吃海底捞",
+        "onboard_time": 1692583236,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国国家公园建设取得显著成效#"
+    }
+  }
+}
