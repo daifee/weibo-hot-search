@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692635829919,
+  "endTime": 1692638089989,
   "band_list": [
     {
       "raw_hot": 2002745,
@@ -19,20 +19,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1511161,
+      "num": 1511161,
+      "word": "iPhone换C口 安卓不通用",
+      "onboard_time": 1692634054,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1414285,
       "num": 1414285,
       "word": "谁能看得出这是金晨",
       "onboard_time": 1692626918,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1283472,
-      "num": 1283472,
-      "word": "iPhone换C口 安卓不通用",
-      "onboard_time": 1692634054,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 1071777,
@@ -331,6 +331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 167648,
+      "num": 167648,
+      "word": "七夕穿搭灵感",
+      "onboard_time": 1692636808,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 162880,
       "num": 162880,
       "word": "左立回应怒吼",
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139765,
+      "num": 139765,
+      "word": "赵露思客串了云边有个小卖部",
+      "onboard_time": 1692637345,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137446,
       "num": 137446,
       "word": "中戏教授点评孤注一掷表演",
@@ -409,6 +425,14 @@
       "onboard_time": 1692635669,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109884,
+      "num": 109884,
+      "word": "周深央视七夕晚会",
+      "onboard_time": 1692635847,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 20101,

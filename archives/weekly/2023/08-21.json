@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692635829919,
+  "endTime": 1692638089989,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1511161,
+      "num": 1511161,
+      "word": "iPhone换C口 安卓不通用",
+      "onboard_time": 1692634054,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1503915,
       "num": 978144,
       "word": "当我犯了江浙沪女儿的重罪",
@@ -249,14 +257,6 @@
       "onboard_time": 1692621159,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1283472,
-      "num": 1283472,
-      "word": "iPhone换C口 安卓不通用",
-      "onboard_time": 1692634054,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 1269171,
@@ -2539,6 +2539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 167648,
+      "num": 167648,
+      "word": "七夕穿搭灵感",
+      "onboard_time": 1692636808,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 167459,
       "num": 167459,
       "word": "终于知道怎么调食物发光滤镜了",
@@ -2667,6 +2675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139765,
+      "num": 139765,
+      "word": "赵露思客串了云边有个小卖部",
+      "onboard_time": 1692637345,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138891,
       "num": 138891,
       "word": "陈伟霆学习种太阳手势舞",
@@ -2785,6 +2801,14 @@
       "onboard_time": 1692574289,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 109884,
+      "num": 109884,
+      "word": "周深央视七夕晚会",
+      "onboard_time": 1692635847,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 107199,
