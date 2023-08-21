@@ -1,0 +1,410 @@
+{
+  "runTime": 1692634882055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2002745,
+        "num": 2002745,
+        "word": "看到凸起的那一刻我小脑萎缩了",
+        "onboard_time": 1692630761,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1414285,
+        "num": 1414285,
+        "word": "谁能看得出这是金晨",
+        "onboard_time": 1692626918,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20101,
+        "num": 1397971,
+        "word": "2023金砖峰会先导片",
+        "onboard_time": 1692626019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1395508,
+        "num": 1395508,
+        "word": "有人自林中坠落",
+        "onboard_time": 1692632616,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1071777,
+        "num": 1071777,
+        "word": "顾漫更新骄阳似我下",
+        "onboard_time": 1692629561,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 826508,
+        "num": 826508,
+        "word": "最近韩国渐渐出现无糖葫芦区",
+        "onboard_time": 1692620676,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 622005,
+        "num": 622005,
+        "word": "七夕文案",
+        "onboard_time": 1692632077,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 586798,
+        "num": 586798,
+        "word": "男孩在柬埔寨坠亡身上刻着被害冤枉",
+        "onboard_time": 1692619956,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580672,
+        "num": 580672,
+        "word": "鸥茉莉 小蒲敬上",
+        "onboard_time": 1692630642,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540896,
+        "num": 547540,
+        "word": "已有152例猴痘病例死亡",
+        "onboard_time": 1692623621,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543810,
+        "num": 543810,
+        "word": "李兰迪王阳好嗑",
+        "onboard_time": 1692631120,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501814,
+        "num": 501814,
+        "word": "柳州4家超强螺蛳粉",
+        "onboard_time": 1692633035,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 425790,
+        "num": 425790,
+        "word": "七夕",
+        "onboard_time": 1692632317,
+        "rank": 12,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 411612,
+        "num": 411612,
+        "word": "权恩妃的身材",
+        "onboard_time": 1692628603,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 267919,
+        "num": 409732,
+        "word": "新加坡总理李显龙宣布将移交权力",
+        "onboard_time": 1692625603,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 408760,
+        "num": 408760,
+        "word": "爷爷去世前和朋友发的短信",
+        "onboard_time": 1692617616,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 374895,
+        "num": 374895,
+        "word": "易烊千玺分享17年的自己",
+        "onboard_time": 1692620138,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374299,
+        "num": 374299,
+        "word": "跟天蝎座相处一定要学会示弱",
+        "onboard_time": 1692628001,
+        "rank": 17,
+        "category": "情感,其它"
+      },
+      {
+        "raw_hot": 369047,
+        "num": 369047,
+        "word": "蒲熠星to签",
+        "onboard_time": 1692623621,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324612,
+        "num": 362774,
+        "word": "iPhone换C口 安卓不通用",
+        "onboard_time": 1692634054,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 415454,
+        "num": 362264,
+        "word": "迪丽热巴穿了吊带红裙",
+        "onboard_time": 1692624821,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 413215,
+        "num": 362181,
+        "word": "珍惜羽毛的明星",
+        "onboard_time": 1692631238,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361553,
+        "num": 361553,
+        "word": "涂山璟已婚",
+        "onboard_time": 1692620375,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352663,
+        "num": 352663,
+        "word": "蝉女",
+        "onboard_time": 1692628363,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277812,
+        "num": 277812,
+        "word": "Uzi连麦张伟丽",
+        "onboard_time": 1692632794,
+        "rank": 24,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 259169,
+        "num": 259169,
+        "word": "微信表白代码",
+        "onboard_time": 1692619776,
+        "rank": 25,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 241972,
+        "num": 241972,
+        "word": "鞠婧祎又剪刘海了",
+        "onboard_time": 1692627163,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 240571,
+        "num": 240571,
+        "word": "广州地铁限定玩手机姿势",
+        "onboard_time": 1692626862,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226006,
+        "num": 226006,
+        "word": "相柳说谎",
+        "onboard_time": 1692626382,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225631,
+        "num": 225631,
+        "word": "世界上唯一拥有3个首都的国家",
+        "onboard_time": 1692616713,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335795,
+        "num": 225267,
+        "word": "好声音为何不再被叫好",
+        "onboard_time": 1692626862,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235661,
+        "num": 224374,
+        "word": "难怪我打开就装不进去了",
+        "onboard_time": 1692633035,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236856,
+        "num": 223760,
+        "word": "中国好声音评分跌至3.2",
+        "onboard_time": 1692595841,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223062,
+        "num": 223062,
+        "word": "NPC也有不耐烦的时候",
+        "onboard_time": 1692633216,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215267,
+        "num": 215267,
+        "word": "夭柳海底看鲛人被删改了",
+        "onboard_time": 1692621641,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214921,
+        "num": 214921,
+        "word": "谭松韵被闫妮一句话演哭了",
+        "onboard_time": 1692631957,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211080,
+        "num": 211080,
+        "word": "容错率高的家庭有多幸福",
+        "onboard_time": 1692630937,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194786,
+        "num": 194786,
+        "word": "女子看海时起身太猛掉进海里",
+        "onboard_time": 1692629619,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193946,
+        "num": 193946,
+        "word": "男子账户突然多出49000元吓得赶紧报警",
+        "onboard_time": 1692621159,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189314,
+        "num": 189314,
+        "word": "蒋欣又瘦了好多",
+        "onboard_time": 1692605916,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184589,
+        "num": 184589,
+        "word": "TFBOYS演我开学见到同学",
+        "onboard_time": 1692614494,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168670,
+        "num": 168670,
+        "word": "白米粥涮火锅有多好吃",
+        "onboard_time": 1692621159,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162880,
+        "num": 162880,
+        "word": "左立回应怒吼",
+        "onboard_time": 1692623737,
+        "rank": 42,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 147547,
+        "num": 147547,
+        "word": "王俊凯易烊千玺入围金鹿奖",
+        "onboard_time": 1692613536,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147531,
+        "num": 147531,
+        "word": "洋桔梗涨价50%",
+        "onboard_time": 1692628482,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 147161,
+        "num": 147161,
+        "word": "魏大勋称体重好真实",
+        "onboard_time": 1692621400,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142791,
+        "num": 142791,
+        "word": "十个勤天居家种菜小课堂",
+        "onboard_time": 1692632255,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140503,
+        "num": 140503,
+        "word": "建议明天把微信步数关一下",
+        "onboard_time": 1692591940,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137990,
+        "num": 137990,
+        "word": "秦岚工作室 拍戏咽炎复发",
+        "onboard_time": 1692620558,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137446,
+        "num": 137446,
+        "word": "中戏教授点评孤注一掷表演",
+        "onboard_time": 1692625660,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖合作的含金量有多高#"
+    }
+  }
+}
