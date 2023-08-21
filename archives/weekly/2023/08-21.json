@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692653643809,
+  "endTime": 1692656120769,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -2843,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101899,
+      "num": 48260,
+      "word": "姚晨说羡慕黄晓明能请来这么多大导演",
+      "onboard_time": 1692649395,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98410,
       "num": 159438,
       "word": "山东车站买票身高",
@@ -2891,12 +2899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76770,
-      "num": 34541,
-      "word": "姚晨说羡慕黄晓明能请来这么多大导演",
-      "onboard_time": 1692649395,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 77913,
+      "num": 48219,
+      "word": "男孩失联手机最后定位在缅甸",
+      "onboard_time": 1692654434,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74859,
@@ -2921,6 +2929,14 @@
       "onboard_time": 1692615639,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68544,
+      "num": 68544,
+      "word": "王一博你到底会多少个舞种",
+      "onboard_time": 1692647353,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 67519,
@@ -2963,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58449,
+      "num": 43647,
+      "word": "喊妈妈超过一万次她会离家出走",
+      "onboard_time": 1692646875,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 56948,
       "num": 56948,
       "word": "谁教魏大勋这么跳舞的",
@@ -2977,14 +3001,6 @@
       "onboard_time": 1692621278,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 49935,
-      "num": 49935,
-      "word": "王一博你到底会多少个舞种",
-      "onboard_time": 1692647353,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 48882,
@@ -3003,12 +3019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46219,
-      "num": 29805,
-      "word": "喊妈妈超过一万次她会离家出走",
-      "onboard_time": 1692646875,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 46116,
+      "num": 46116,
+      "word": "收到陌生转账你会怎么处理",
+      "onboard_time": 1692653473,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44595,
