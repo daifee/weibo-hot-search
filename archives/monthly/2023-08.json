@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692634882055,
+  "endTime": 1692635829919,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -4011,6 +4011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1515503,
+      "num": 1515503,
+      "word": "有人自林中坠落",
+      "onboard_time": 1692320318,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1515330,
       "num": 1515330,
       "word": "爸爸第一次吃自助火锅满脸拘谨",
@@ -4673,14 +4681,6 @@
       "onboard_time": 1690878935,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1395508,
-      "num": 1395508,
-      "word": "有人自林中坠落",
-      "onboard_time": 1692320318,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 1393365,
@@ -5416,6 +5416,14 @@
       "word": "小红书",
       "onboard_time": 1692025539,
       "rank": 30,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1283472,
+      "num": 1283472,
+      "word": "iPhone换C口 安卓不通用",
+      "onboard_time": 1692634054,
+      "rank": 19,
       "category": "科技"
     },
     {
@@ -18123,6 +18131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 548080,
+      "num": 548080,
+      "word": "柳州4家超强螺蛳粉",
+      "onboard_time": 1692633035,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 548044,
       "num": 548044,
       "word": "朴春自拍",
@@ -20009,14 +20025,6 @@
       "onboard_time": 1692072880,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501814,
-      "num": 501814,
-      "word": "柳州4家超强螺蛳粉",
-      "onboard_time": 1692633035,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 501250,
@@ -30411,14 +30419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 324612,
-      "num": 362774,
-      "word": "iPhone换C口 安卓不通用",
-      "onboard_time": 1692634054,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 324540,
       "num": 324540,
       "word": "长相思相柳外传二三事",
@@ -39619,6 +39619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231418,
+      "num": 223062,
+      "word": "NPC也有不耐烦的时候",
+      "onboard_time": 1692633216,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231341,
       "num": 456661,
       "word": "原神4.0全球直播",
@@ -40577,14 +40585,6 @@
       "onboard_time": 1691539959,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223062,
-      "num": 223062,
-      "word": "NPC也有不耐烦的时候",
-      "onboard_time": 1692633216,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 223045,
@@ -52369,6 +52369,14 @@
       "onboard_time": 1691757034,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114257,
+      "num": 121408,
+      "word": "最近在追哪部电视剧",
+      "onboard_time": 1692635669,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 114181,

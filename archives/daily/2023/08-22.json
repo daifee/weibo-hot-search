@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692634882055,
+  "endTime": 1692635829919,
   "band_list": [
     {
       "raw_hot": 2002745,
@@ -11,6 +11,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1515503,
+      "num": 1515503,
+      "word": "有人自林中坠落",
+      "onboard_time": 1692632616,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1414285,
       "num": 1414285,
       "word": "谁能看得出这是金晨",
@@ -19,12 +27,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1395508,
-      "num": 1395508,
-      "word": "有人自林中坠落",
-      "onboard_time": 1692632616,
-      "rank": 3,
-      "category": "作品衍生"
+      "raw_hot": 1283472,
+      "num": 1283472,
+      "word": "iPhone换C口 安卓不通用",
+      "onboard_time": 1692634054,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 1071777,
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 548080,
+      "num": 548080,
+      "word": "柳州4家超强螺蛳粉",
+      "onboard_time": 1692633035,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 543810,
       "num": 543810,
       "word": "李兰迪王阳好嗑",
@@ -81,14 +97,6 @@
       "onboard_time": 1692623621,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501814,
-      "num": 501814,
-      "word": "柳州4家超强螺蛳粉",
-      "onboard_time": 1692633035,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 425790,
@@ -179,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 324612,
-      "num": 362774,
-      "word": "iPhone换C口 安卓不通用",
-      "onboard_time": 1692634054,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 277812,
       "num": 277812,
       "word": "Uzi连麦张伟丽",
@@ -243,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231418,
+      "num": 223062,
+      "word": "NPC也有不耐烦的时候",
+      "onboard_time": 1692633216,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226006,
       "num": 226006,
       "word": "相柳说谎",
@@ -257,14 +265,6 @@
       "onboard_time": 1692616713,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223062,
-      "num": 223062,
-      "word": "NPC也有不耐烦的时候",
-      "onboard_time": 1692633216,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 215267,
@@ -379,8 +379,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137990,
-      "num": 137990,
+      "raw_hot": 140170,
+      "num": 140170,
       "word": "秦岚工作室 拍戏咽炎复发",
       "onboard_time": 1692620558,
       "rank": 48,
@@ -391,6 +391,22 @@
       "num": 137446,
       "word": "中戏教授点评孤注一掷表演",
       "onboard_time": 1692625660,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 121416,
+      "num": 121416,
+      "word": "严浩翔要拉上全团看黄晓明新片",
+      "onboard_time": 1692627521,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 114257,
+      "num": 121408,
+      "word": "最近在追哪部电视剧",
+      "onboard_time": 1692635669,
       "rank": 49,
       "category": "影视"
     },
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#金砖合作的含金量有多高#"
+    },
+    {
+      "word": "#习主席暖心寄语激励南非青年#"
     }
   ]
 }

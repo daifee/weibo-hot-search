@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692634882055,
+  "endTime": 1692635829919,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1515503,
+      "num": 1515503,
+      "word": "有人自林中坠落",
+      "onboard_time": 1692632616,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1515330,
       "num": 1515330,
       "word": "爸爸第一次吃自助火锅满脸拘谨",
@@ -235,20 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1395508,
-      "num": 1395508,
-      "word": "有人自林中坠落",
-      "onboard_time": 1692632616,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1286098,
       "num": 621852,
       "word": "男子账户突然多出49000元吓得赶紧报警",
       "onboard_time": 1692621159,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1283472,
+      "num": 1283472,
+      "word": "iPhone换C口 安卓不通用",
+      "onboard_time": 1692634054,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 1269171,
@@ -811,6 +819,14 @@
       "category": "科技,情感"
     },
     {
+      "raw_hot": 548080,
+      "num": 548080,
+      "word": "柳州4家超强螺蛳粉",
+      "onboard_time": 1692633035,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 536544,
       "num": 598127,
       "word": "2023年国考过审人数达近260万人",
@@ -889,14 +905,6 @@
       "onboard_time": 1692619297,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 501814,
-      "num": 501814,
-      "word": "柳州4家超强螺蛳粉",
-      "onboard_time": 1692633035,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 496502,
@@ -1457,14 +1465,6 @@
       "onboard_time": 1692622598,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324612,
-      "num": 362774,
-      "word": "iPhone换C口 安卓不通用",
-      "onboard_time": 1692634054,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 324324,
@@ -2043,6 +2043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 231418,
+      "num": 223062,
+      "word": "NPC也有不耐烦的时候",
+      "onboard_time": 1692633216,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229165,
       "num": 229165,
       "word": "这只狗狗是来报恩的吧",
@@ -2073,14 +2081,6 @@
       "onboard_time": 1692532235,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223062,
-      "num": 223062,
-      "word": "NPC也有不耐烦的时候",
-      "onboard_time": 1692633216,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 222159,
@@ -2761,6 +2761,14 @@
       "onboard_time": 1692566653,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114257,
+      "num": 121408,
+      "word": "最近在追哪部电视剧",
+      "onboard_time": 1692635669,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 110493,
