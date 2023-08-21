@@ -1,0 +1,410 @@
+{
+  "runTime": 1692617634915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1853467,
+        "num": 1853467,
+        "word": "安慕希回应主播不当言论",
+        "onboard_time": 1692610595,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433413,
+        "num": 1267694,
+        "word": "福宝和七仔撞脸了",
+        "onboard_time": 1692614017,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251250,
+        "num": 1175607,
+        "word": "世界上唯一拥有3个首都的国家",
+        "onboard_time": 1692616713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174548,
+        "num": 1174548,
+        "word": "王俊凯易烊千玺入围金鹿奖",
+        "onboard_time": 1692613536,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252033,
+        "num": 1039305,
+        "word": "消防脱衣为爬山掉鞋女子护脚",
+        "onboard_time": 1692612575,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006852,
+        "num": 1006852,
+        "word": "东方青苍与涂山璟一起洗澡",
+        "onboard_time": 1692613357,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237389,
+        "num": 813914,
+        "word": "奶奶起身吃力3岁狗狗甘当拐杖",
+        "onboard_time": 1692601897,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706205,
+        "num": 706205,
+        "word": "今年看过后劲最大的国产剧",
+        "onboard_time": 1692612096,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 660930,
+        "num": 660930,
+        "word": "建议明天把微信步数关一下",
+        "onboard_time": 1692591940,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 505287,
+        "num": 505287,
+        "word": "逐月 白鹿陈飞宇",
+        "onboard_time": 1692615455,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 873852,
+        "num": 469988,
+        "word": "蒋欣又瘦了好多",
+        "onboard_time": 1692605916,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427060,
+        "num": 427060,
+        "word": "谁说女生不能是鲜衣怒马",
+        "onboard_time": 1692617015,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351917,
+        "num": 426754,
+        "word": "21日起暂停台湾地区芒果输入大陆",
+        "onboard_time": 1692600216,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241020,
+        "num": 426752,
+        "word": "爸爸第一次吃自助火锅满脸拘谨",
+        "onboard_time": 1692603639,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69771,
+        "num": 426752,
+        "word": "男子手写三层楼高书法长卷送异地女友",
+        "onboard_time": 1692615639,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426752,
+        "num": 426751,
+        "word": "娜然",
+        "onboard_time": 1692606759,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402497,
+        "num": 402497,
+        "word": "咸蛋黄馄饨",
+        "onboard_time": 1692615095,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 382148,
+        "num": 382148,
+        "word": "金晨录早了",
+        "onboard_time": 1692606876,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358590,
+        "num": 358590,
+        "word": "娜然于适双人封面",
+        "onboard_time": 1692609038,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365291,
+        "num": 355867,
+        "word": "中国跆拳道协会对僵尸跆舞做出处罚决定",
+        "onboard_time": 1692608737,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934314,
+        "num": 355357,
+        "word": "TFBOYS演我开学见到同学",
+        "onboard_time": 1692614494,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482006,
+        "num": 353178,
+        "word": "男子坐5小时高铁险猝死",
+        "onboard_time": 1692612216,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349089,
+        "num": 349089,
+        "word": "小动物被爱会疯狂长出血肉",
+        "onboard_time": 1692604841,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336140,
+        "num": 336140,
+        "word": "李一桐青提茉莉造型",
+        "onboard_time": 1692615937,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315781,
+        "num": 315781,
+        "word": "张晚意任敏锦绣安宁杀青照",
+        "onboard_time": 1692612040,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314564,
+        "num": 314564,
+        "word": "白敬亭回应放不开",
+        "onboard_time": 1692602199,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298612,
+        "num": 298612,
+        "word": "魏大勋对粉丝的弹幕说谢谢",
+        "onboard_time": 1692614616,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294345,
+        "num": 294345,
+        "word": "赵丽颖无袖白西装",
+        "onboard_time": 1692615396,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 275326,
+        "num": 275326,
+        "word": "当我犯了江浙沪女儿的重罪",
+        "onboard_time": 1692596857,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249463,
+        "num": 270617,
+        "word": "只有四川人才懂这一碗的含金量",
+        "onboard_time": 1692604242,
+        "rank": 29,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 280814,
+        "num": 270347,
+        "word": "张子枫指甲可太显眼了",
+        "onboard_time": 1692600277,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268325,
+        "num": 268325,
+        "word": "白日梦我",
+        "onboard_time": 1692614135,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264311,
+        "num": 264311,
+        "word": "韩国女团成员14岁时被侵犯",
+        "onboard_time": 1692592965,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230191,
+        "num": 264023,
+        "word": "在山东赶海捅了螃蟹窝了",
+        "onboard_time": 1692613536,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190288,
+        "num": 263992,
+        "word": "台湾地区输入芒果中截获检疫性有害生物",
+        "onboard_time": 1692601778,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 263988,
+        "num": 263988,
+        "word": "中国好声音评分跌至3.2",
+        "onboard_time": 1692595841,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256205,
+        "num": 256205,
+        "word": "长相思第二季再不播就不礼貌了",
+        "onboard_time": 1692600216,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254836,
+        "num": 254836,
+        "word": "黄子弘凡自责到破防",
+        "onboard_time": 1692613777,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189785,
+        "num": 241522,
+        "word": "僵尸跆舞",
+        "onboard_time": 1692617077,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189035,
+        "num": 236219,
+        "word": "年轻时吸的烟 年老时都会找你算账",
+        "onboard_time": 1692606937,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 233625,
+        "num": 233625,
+        "word": "韩剧假面女郎 结局让人大爆哭",
+        "onboard_time": 1692612994,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205731,
+        "num": 233539,
+        "word": "檀健次谈海丝上的珍珠",
+        "onboard_time": 1692612516,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189289,
+        "num": 233035,
+        "word": "标准浓颜和淡颜美女代表",
+        "onboard_time": 1692617440,
+        "rank": 42,
+        "category": "影视,美妆"
+      },
+      {
+        "raw_hot": 177403,
+        "num": 232743,
+        "word": "马立奥况三喜两家互换带娃",
+        "onboard_time": 1692599674,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157960,
+        "num": 232407,
+        "word": "少帮主收到吾弟新书",
+        "onboard_time": 1692612694,
+        "rank": 44,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 140503,
+        "num": 231812,
+        "word": "被山西的厕所惊讶到了",
+        "onboard_time": 1692610595,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135772,
+        "num": 231575,
+        "word": "亿万富翁破产负债千万",
+        "onboard_time": 1692594404,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125457,
+        "num": 231257,
+        "word": "长期玩手机有哪些后遗症",
+        "onboard_time": 1692610118,
+        "rank": 47,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 104476,
+        "num": 230774,
+        "word": "巴西柠檬水",
+        "onboard_time": 1692617077,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101944,
+        "num": 230214,
+        "word": "爷爷去世前和朋友发的短信",
+        "onboard_time": 1692617616,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席暖心寄语激励南非青年#"
+    }
+  }
+}

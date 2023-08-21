@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692616435614,
+  "endTime": 1692617634915,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1174548,
+      "num": 1174548,
+      "word": "王俊凯易烊千玺入围金鹿奖",
+      "onboard_time": 1692613536,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1154482,
       "num": 1154482,
       "word": "年轻时吸的烟 年老时都会找你算账",
@@ -209,14 +217,6 @@
       "onboard_time": 1692587496,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1064925,
-      "num": 1064925,
-      "word": "王俊凯易烊千玺入围金鹿奖",
-      "onboard_time": 1692613536,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 1059388,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 940726,
-      "num": 347093,
+      "num": 355357,
       "word": "TFBOYS演我开学见到同学",
       "onboard_time": 1692614494,
       "rank": 20,
@@ -619,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505287,
+      "num": 505287,
+      "word": "逐月 白鹿陈飞宇",
+      "onboard_time": 1692615455,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 503158,
       "num": 503158,
       "word": "双眼皮要做成刘亦菲那样的",
@@ -779,12 +787,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 433738,
-      "num": 433738,
-      "word": "逐月 白鹿陈飞宇",
-      "onboard_time": 1692615455,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 433413,
+      "num": 1267694,
+      "word": "福宝和七仔撞脸了",
+      "onboard_time": 1692614017,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 430845,
@@ -792,6 +800,14 @@
       "word": "杨紫成毅邓为檀健次肖战V榜破9",
       "onboard_time": 1692585038,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 427060,
+      "num": 427060,
+      "word": "谁说女生不能是鲜衣怒马",
+      "onboard_time": 1692617015,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402497,
+      "num": 402497,
+      "word": "咸蛋黄馄饨",
+      "onboard_time": 1692615095,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 400763,
       "num": 522342,
       "word": "特斯拉新款Model3或已移除所有雷达",
@@ -873,14 +897,6 @@
       "onboard_time": 1692541789,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394264,
-      "num": 1150843,
-      "word": "福宝和七仔撞脸了",
-      "onboard_time": 1692614017,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 392624,
@@ -979,14 +995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 347706,
-      "num": 347706,
-      "word": "咸蛋黄馄饨",
-      "onboard_time": 1692615095,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 343230,
       "num": 1382760,
       "word": "奶奶起身吃力3岁狗狗甘当拐杖",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1692610595,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 336140,
+      "num": 336140,
+      "word": "李一桐青提茉莉造型",
+      "onboard_time": 1692615937,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 335840,
@@ -1188,7 +1204,7 @@
     },
     {
       "raw_hot": 305041,
-      "num": 841694,
+      "num": 1039305,
       "word": "消防脱衣为爬山掉鞋女子护脚",
       "onboard_time": 1692612575,
       "rank": 36,
@@ -1241,6 +1257,14 @@
       "onboard_time": 1692583895,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294345,
+      "num": 294345,
+      "word": "赵丽颖无袖白西装",
+      "onboard_time": 1692615396,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 294197,
@@ -1331,14 +1355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269949,
-      "num": 269949,
-      "word": "赵丽颖无袖白西装",
-      "onboard_time": 1692615396,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 268468,
       "num": 268468,
       "word": "莲花楼大结局reaction",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1692601596,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268325,
+      "num": 268325,
+      "word": "白日梦我",
+      "onboard_time": 1692614135,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 268023,
@@ -1427,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257980,
-      "num": 257980,
-      "word": "白日梦我",
-      "onboard_time": 1692614135,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 257303,
       "num": 257303,
       "word": "沈月的图好适合当头像",
@@ -1451,12 +1467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256077,
-      "num": 256077,
-      "word": "李一桐青提茉莉造型",
-      "onboard_time": 1692615937,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 251250,
+      "num": 1175607,
+      "word": "世界上唯一拥有3个首都的国家",
+      "onboard_time": 1692616713,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247756,
@@ -1652,7 +1668,7 @@
     },
     {
       "raw_hot": 210404,
-      "num": 210404,
+      "num": 232407,
       "word": "少帮主收到吾弟新书",
       "onboard_time": 1692612694,
       "rank": 31,
@@ -1809,6 +1825,22 @@
       "onboard_time": 1692615515,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189785,
+      "num": 241522,
+      "word": "僵尸跆舞",
+      "onboard_time": 1692617077,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189289,
+      "num": 233035,
+      "word": "标准浓颜和淡颜美女代表",
+      "onboard_time": 1692617440,
+      "rank": 42,
+      "category": "影视,美妆"
     },
     {
       "raw_hot": 188798,
@@ -2171,6 +2203,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 104476,
+      "num": 230774,
+      "word": "巴西柠檬水",
+      "onboard_time": 1692617077,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 101944,
+      "num": 230214,
+      "word": "爷爷去世前和朋友发的短信",
+      "onboard_time": 1692617616,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98410,
       "num": 159438,
       "word": "山东车站买票身高",
@@ -2216,6 +2264,14 @@
       "word": "全国网络普法行黑龙江站",
       "onboard_time": 1692604061,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69771,
+      "num": 437457,
+      "word": "男子手写三层楼高书法长卷送异地女友",
+      "onboard_time": 1692615639,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2353,14 +2409,6 @@
       "onboard_time": 1692557897,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28488,
-      "num": 437457,
-      "word": "男子手写三层楼高书法长卷送异地女友",
-      "onboard_time": 1692615639,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27286,
