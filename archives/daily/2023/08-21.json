@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692628440662,
+  "endTime": 1692631021158,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -25,6 +25,14 @@
       "onboard_time": 1692600216,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2708528,
+      "num": 2708528,
+      "word": "谁能看得出这是金晨",
+      "onboard_time": 1692626918,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2573335,
@@ -81,6 +89,14 @@
       "onboard_time": 1692586235,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1836426,
+      "num": 1836426,
+      "word": "顾漫更新骄阳似我下",
+      "onboard_time": 1692629561,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1807131,
@@ -195,14 +211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1461391,
-      "num": 1461391,
-      "word": "谁能看得出这是金晨",
-      "onboard_time": 1692626918,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1443006,
       "num": 1443006,
       "word": "无意识减肥却减肥的行为",
@@ -280,6 +288,14 @@
       "word": "王俊凯易烊千玺入围金鹿奖",
       "onboard_time": 1692613536,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1171581,
+      "num": 1171581,
+      "word": "蝉女",
+      "onboard_time": 1692628363,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -523,11 +539,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 756612,
+      "num": 667859,
+      "word": "权恩妃的身材",
+      "onboard_time": 1692628603,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 753610,
       "num": 753610,
       "word": "马立奥况三喜两家互换带娃",
       "onboard_time": 1692599674,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 745322,
+      "num": 607332,
+      "word": "好声音为何不再被叫好",
+      "onboard_time": 1692626862,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -643,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 627014,
+      "num": 627014,
+      "word": "跟天蝎座相处一定要学会示弱",
+      "onboard_time": 1692628001,
+      "rank": 46,
+      "category": "情感,其它"
+    },
+    {
       "raw_hot": 615936,
       "num": 593257,
       "word": "国考",
@@ -753,14 +793,6 @@
       "onboard_time": 1692621278,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 518969,
-      "num": 518969,
-      "word": "好声音为何不再被叫好",
-      "onboard_time": 1692626862,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 518393,
@@ -955,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452752,
+      "num": 284071,
+      "word": "鸥茉莉 小蒲敬上",
+      "onboard_time": 1692630642,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452035,
       "num": 452035,
       "word": "Angelababy去看林俊杰演唱会了",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1692614017,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 433174,
+      "num": 1414808,
+      "word": "世界上唯一拥有3个首都的国家",
+      "onboard_time": 1692616713,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430845,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1692591460,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 399730,
+      "num": 319994,
+      "word": "鞠婧祎又剪刘海了",
+      "onboard_time": 1692627163,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 397987,
@@ -1451,6 +1507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 307129,
+      "num": 307129,
+      "word": "洋桔梗涨价50%",
+      "onboard_time": 1692628482,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 306788,
       "num": 306788,
       "word": "密室大逃脱失落的城邦",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1692579760,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303187,
+      "num": 303187,
+      "word": "莲花楼",
+      "onboard_time": 1692628723,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 302950,
@@ -1545,14 +1617,6 @@
       "onboard_time": 1692606396,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289017,
-      "num": 1414808,
-      "word": "世界上唯一拥有3个首都的国家",
-      "onboard_time": 1692616713,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285749,
@@ -1755,14 +1819,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 257100,
-      "num": 213392,
-      "word": "鞠婧祎又剪刘海了",
-      "onboard_time": 1692627163,
-      "rank": 35,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 256809,
       "num": 256809,
       "word": "女孩突发抽搐交警高速口提前守候",
@@ -1835,6 +1891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243025,
+      "num": 243025,
+      "word": "重庆的哥接了个大单开到了上海",
+      "onboard_time": 1692627646,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240839,
       "num": 240839,
       "word": "原来长相思有五对cp",
@@ -1867,6 +1931,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234452,
+      "num": 234452,
+      "word": "女子看海时起身太猛掉进海里",
+      "onboard_time": 1692629619,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232336,
+      "num": 232336,
+      "word": "短短三十秒剧情这么紧凑",
+      "onboard_time": 1692629022,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232018,
       "num": 232018,
       "word": "父母的职业对小孩影响有多大",
@@ -1883,14 +1963,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 229949,
-      "num": 229949,
-      "word": "重庆的哥接了个大单开到了上海",
-      "onboard_time": 1692627646,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229165,
       "num": 229165,
       "word": "这只狗狗是来报恩的吧",
@@ -1905,14 +1977,6 @@
       "onboard_time": 1692540228,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 228869,
-      "num": 204326,
-      "word": "蝉女",
-      "onboard_time": 1692628363,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 225934,
@@ -2059,6 +2123,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 205148,
+      "num": 205148,
+      "word": "Jake旧照",
+      "onboard_time": 1692630879,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204162,
       "num": 204162,
       "word": "当你养了只粘人的狗子",
@@ -2081,6 +2153,14 @@
       "onboard_time": 1692595718,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201406,
+      "num": 229793,
+      "word": "看到凸起的那一刻我小脑萎缩了",
+      "onboard_time": 1692630761,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 200915,
@@ -2193,6 +2273,14 @@
       "onboard_time": 1692601115,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188632,
+      "num": 188632,
+      "word": "曼联官宣格林伍德离队",
+      "onboard_time": 1692628482,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 188543,
@@ -2339,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167972,
+      "num": 167972,
+      "word": "传统名菜蚂蚁上树",
+      "onboard_time": 1692628843,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167459,
       "num": 167459,
       "word": "终于知道怎么调食物发光滤镜了",
@@ -2369,14 +2465,6 @@
       "onboard_time": 1692541005,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163277,
-      "num": 202340,
-      "word": "跟天蝎座相处一定要学会示弱",
-      "onboard_time": 1692628001,
-      "rank": 46,
-      "category": "情感,其它"
     },
     {
       "raw_hot": 161826,
@@ -2441,6 +2529,14 @@
       "onboard_time": 1692535659,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145013,
+      "num": 167610,
+      "word": "容错率高的家庭有多幸福",
+      "onboard_time": 1692630937,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 143380,
@@ -2727,6 +2823,14 @@
       "num": 443013,
       "word": "8旬爷爷贴身陪护病妻22年",
       "onboard_time": 1692604841,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47152,
+      "num": 587449,
+      "word": "巧克力大爷又双叒叕出手了",
+      "onboard_time": 1692630101,
       "rank": 14,
       "category": "社会新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692628440662,
+  "endTime": 1692631021158,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -937,6 +937,14 @@
       "onboard_time": 1690933890,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2708528,
+      "num": 2708528,
+      "word": "谁能看得出这是金晨",
+      "onboard_time": 1692626918,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2699899,
@@ -2667,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1836426,
+      "num": 1836426,
+      "word": "顾漫更新骄阳似我下",
+      "onboard_time": 1692629561,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1836000,
       "num": 1836000,
       "word": "仅4%受访年轻人几乎不熬夜",
@@ -4257,14 +4273,6 @@
       "onboard_time": 1691262280,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1461391,
-      "num": 1461391,
-      "word": "谁能看得出这是金晨",
-      "onboard_time": 1692626918,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1459290,
@@ -11795,6 +11803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756612,
+      "num": 667859,
+      "word": "权恩妃的身材",
+      "onboard_time": 1692628603,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 756534,
       "num": 756534,
       "word": "封神第一部票房破19亿",
@@ -12097,6 +12113,14 @@
       "onboard_time": 1691625632,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 745322,
+      "num": 607332,
+      "word": "好声音为何不再被叫好",
+      "onboard_time": 1692626862,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 744546,
@@ -15105,6 +15129,14 @@
       "onboard_time": 1691665474,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 627014,
+      "num": 627014,
+      "word": "跟天蝎座相处一定要学会示弱",
+      "onboard_time": 1692628001,
+      "rank": 46,
+      "category": "情感,其它"
     },
     {
       "raw_hot": 626808,
@@ -19187,14 +19219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 518969,
-      "num": 518969,
-      "word": "好声音为何不再被叫好",
-      "onboard_time": 1692626862,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 518753,
       "num": 644735,
       "word": "浙江今年出了名女飞行学员",
@@ -22419,6 +22443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 452752,
+      "num": 284071,
+      "word": "鸥茉莉 小蒲敬上",
+      "onboard_time": 1692630642,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452561,
       "num": 452561,
       "word": "TF家族三代考核排名",
@@ -23425,6 +23457,14 @@
       "onboard_time": 1692614017,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 433174,
+      "num": 1414808,
+      "word": "世界上唯一拥有3个首都的国家",
+      "onboard_time": 1692616713,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432857,
@@ -25353,6 +25393,14 @@
       "onboard_time": 1692343601,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 399730,
+      "num": 319994,
+      "word": "鞠婧祎又剪刘海了",
+      "onboard_time": 1692627163,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 399483,
@@ -31779,6 +31827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307129,
+      "num": 307129,
+      "word": "洋桔梗涨价50%",
+      "onboard_time": 1692628482,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 306991,
       "num": 306991,
       "word": "张杰KTV唱歌",
@@ -33441,14 +33497,6 @@
       "onboard_time": 1691763461,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289017,
-      "num": 1414808,
-      "word": "世界上唯一拥有3个首都的国家",
-      "onboard_time": 1692616713,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289016,
@@ -36731,14 +36779,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 257100,
-      "num": 213392,
-      "word": "鞠婧祎又剪刘海了",
-      "onboard_time": 1692627163,
-      "rank": 35,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 257067,
       "num": 239391,
       "word": "莲花楼央视频追剧日历",
@@ -38147,6 +38187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243025,
+      "num": 243025,
+      "word": "重庆的哥接了个大单开到了上海",
+      "onboard_time": 1692627646,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243019,
       "num": 243019,
       "word": "国产剧美惨强的角色",
@@ -39219,6 +39267,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 234452,
+      "num": 234452,
+      "word": "女子看海时起身太猛掉进海里",
+      "onboard_time": 1692629619,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234358,
       "num": 234358,
       "word": "如何评价张晚意的演技",
@@ -39377,6 +39433,14 @@
       "onboard_time": 1691535740,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232336,
+      "num": 232336,
+      "word": "短短三十秒剧情这么紧凑",
+      "onboard_time": 1692629022,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 232313,
@@ -39601,14 +39665,6 @@
       "onboard_time": 1692326439,
       "rank": 37,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 229949,
-      "num": 229949,
-      "word": "重庆的哥接了个大单开到了上海",
-      "onboard_time": 1692627646,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229917,
@@ -43219,6 +43275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205148,
+      "num": 205148,
+      "word": "Jake旧照",
+      "onboard_time": 1692630879,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205102,
       "num": 205102,
       "word": "孤注一掷阿才的颜值",
@@ -44001,6 +44065,14 @@
       "onboard_time": 1692199181,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201406,
+      "num": 229793,
+      "word": "看到凸起的那一刻我小脑萎缩了",
+      "onboard_time": 1692630761,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 201294,
@@ -46795,6 +46867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188632,
+      "num": 188632,
+      "word": "曼联官宣格林伍德离队",
+      "onboard_time": 1692628482,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188543,
       "num": 188543,
       "word": "永安镇故事集特种兵路演",
@@ -48907,6 +48987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167972,
+      "num": 167972,
+      "word": "传统名菜蚂蚁上树",
+      "onboard_time": 1692628843,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167869,
       "num": 167869,
       "word": "百度网盘回应崩了",
@@ -49289,14 +49377,6 @@
       "onboard_time": 1692406656,
       "rank": 41,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 163277,
-      "num": 202340,
-      "word": "跟天蝎座相处一定要学会示弱",
-      "onboard_time": 1692628001,
-      "rank": 46,
-      "category": "情感,其它"
     },
     {
       "raw_hot": 163274,
@@ -50497,6 +50577,14 @@
       "onboard_time": 1691427866,
       "rank": 36,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 145013,
+      "num": 167610,
+      "word": "容错率高的家庭有多幸福",
+      "onboard_time": 1692630937,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 144893,
@@ -54641,6 +54729,14 @@
       "onboard_time": 1691882061,
       "rank": 48,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 47152,
+      "num": 587449,
+      "word": "巧克力大爷又双叒叕出手了",
+      "onboard_time": 1692630101,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47107,
