@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692631021158,
+  "endTime": 1692632056742,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 979284,
+      "num": 979284,
+      "word": "鸥茉莉 小蒲敬上",
+      "onboard_time": 1692630642,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 976905,
       "num": 976905,
       "word": "沪上阿姨",
@@ -611,6 +619,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 713867,
+      "num": 713867,
+      "word": "李兰迪王阳好嗑",
+      "onboard_time": 1692631120,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 702947,
+      "num": 262904,
+      "word": "看到凸起的那一刻我小脑萎缩了",
+      "onboard_time": 1692630761,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 680605,
       "num": 680605,
       "word": "魏大勋称体重好真实",
@@ -651,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655598,
+      "num": 655598,
+      "word": "跟天蝎座相处一定要学会示弱",
+      "onboard_time": 1692628001,
+      "rank": 46,
+      "category": "情感,其它"
+    },
+    {
       "raw_hot": 653592,
       "num": 653592,
       "word": "田曦薇演的李玉湖是炸毛哈基米",
@@ -673,14 +705,6 @@
       "onboard_time": 1692587736,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 627014,
-      "num": 627014,
-      "word": "跟天蝎座相处一定要学会示弱",
-      "onboard_time": 1692628001,
-      "rank": 46,
-      "category": "情感,其它"
     },
     {
       "raw_hot": 615936,
@@ -979,20 +1003,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 453734,
+      "num": 355913,
+      "word": "珍惜羽毛的明星",
+      "onboard_time": 1692631238,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453161,
       "num": 453161,
       "word": "德约科维奇",
       "onboard_time": 1692578320,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 452752,
-      "num": 284071,
-      "word": "鸥茉莉 小蒲敬上",
-      "onboard_time": 1692630642,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 452035,
@@ -1508,7 +1532,7 @@
     },
     {
       "raw_hot": 307129,
-      "num": 307129,
+      "num": 316039,
       "word": "洋桔梗涨价50%",
       "onboard_time": 1692628482,
       "rank": 25,
@@ -1915,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240377,
+      "num": 240377,
+      "word": "女子看海时起身太猛掉进海里",
+      "onboard_time": 1692629619,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239603,
       "num": 276792,
       "word": "村霸私闯民宅致老人脑出血孙子跳河",
@@ -1929,14 +1961,6 @@
       "onboard_time": 1692584073,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 234452,
-      "num": 234452,
-      "word": "女子看海时起身太猛掉进海里",
-      "onboard_time": 1692629619,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232336,
@@ -2001,6 +2025,14 @@
       "onboard_time": 1692589962,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220906,
+      "num": 205148,
+      "word": "Jake旧照",
+      "onboard_time": 1692630879,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 220616,
@@ -2123,14 +2155,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 205148,
-      "num": 205148,
-      "word": "Jake旧照",
-      "onboard_time": 1692630879,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204162,
       "num": 204162,
       "word": "当你养了只粘人的狗子",
@@ -2155,14 +2179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201406,
-      "num": 229793,
-      "word": "看到凸起的那一刻我小脑萎缩了",
-      "onboard_time": 1692630761,
-      "rank": 39,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 200915,
       "num": 200915,
       "word": "白敬亭喊井柏然来玩啊",
@@ -2185,6 +2201,14 @@
       "onboard_time": 1692605496,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199854,
+      "num": 199854,
+      "word": "容错率高的家庭有多幸福",
+      "onboard_time": 1692630937,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 199759,
@@ -2249,6 +2273,22 @@
       "onboard_time": 1692588638,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 191848,
+      "num": 191848,
+      "word": "海关总署发布防止猴痘传入我国的公告",
+      "onboard_time": 1692631536,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191446,
+      "num": 191446,
+      "word": "谭松韵被闫妮一句话演哭了",
+      "onboard_time": 1692631957,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 190975,
@@ -2531,14 +2571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145013,
-      "num": 167610,
-      "word": "容错率高的家庭有多幸福",
-      "onboard_time": 1692630937,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143380,
       "num": 180114,
       "word": "课本插画真的可以让文字活起来",
@@ -2715,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89814,
+      "num": 587449,
+      "word": "巧克力大爷又双叒叕出手了",
+      "onboard_time": 1692630101,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89040,
       "num": 89040,
       "word": "EDG止步六强",
@@ -2823,14 +2863,6 @@
       "num": 443013,
       "word": "8旬爷爷贴身陪护病妻22年",
       "onboard_time": 1692604841,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47152,
-      "num": 587449,
-      "word": "巧克力大爷又双叒叕出手了",
-      "onboard_time": 1692630101,
       "rank": 14,
       "category": "社会新闻"
     },
