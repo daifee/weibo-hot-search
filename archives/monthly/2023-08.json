@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692652462330,
+  "endTime": 1692653643809,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -53875,6 +53875,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 76770,
+      "num": 34541,
+      "word": "姚晨说羡慕黄晓明能请来这么多大导演",
+      "onboard_time": 1692649395,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 76504,
       "num": 96149,
       "word": "Amber自制美食字典",
@@ -54153,14 +54161,6 @@
       "onboard_time": 1692594041,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67336,
-      "num": 34541,
-      "word": "姚晨说羡慕黄晓明能请来这么多大导演",
-      "onboard_time": 1692649395,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 66957,
