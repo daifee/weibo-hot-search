@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/01 00:22:33 ~ 2023/08/21 19:33:54
+本榜单时间：2023/08/01 00:22:33 ~ 2023/08/21 20:32:02
 </p>
 </blockquote>
 <p>
@@ -2529,6 +2529,12 @@ Uzi别惦记泽丽了（热度：1638361）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%89%8D%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%8F%91%E7%9A%84%E7%9F%AD%E4%BF%A1%23" target="weibo">
+爷爷去世前和朋友发的短信（热度：1635317）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%9B%9D%E5%85%89%E4%B8%80%E5%8F%B0%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8%E5%9B%9E%E6%89%A31600%E4%B8%87%23" target="weibo">
 中纪委曝光一台直线加速器回扣1600万（热度：1634260）
 </a>
@@ -4467,6 +4473,12 @@ Angelababy没人选（热度：1205976）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%88%86%E4%BA%AB17%E5%B9%B4%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
+易烊千玺分享17年的自己（热度：1201694）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A4%E4%B9%9F%E6%9D%A5%E7%9C%8BTFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23" target="weibo">
 吴彤也来看TFBOYS演唱会了（热度：1200957）
 </a>
@@ -5999,18 +6011,6 @@ EXO来见中国爱丽了（热度：1005681）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%A2%AB%E8%92%8B%E6%AC%A3%E6%89%87%E5%B7%B4%E6%8E%8C%E6%88%8F%23" target="weibo">
 黄晓明被蒋欣扇巴掌戏（热度：988939）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%8E%B2%E7%9A%84%E6%B2%89%E9%BB%98%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%23" target="weibo">
-何超莲的沉默震耳欲聋（热度：988468）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99%23" target="weibo">
-大爷高铁上戴耳机喝白酒全程安静（热度：988018）
 </a>
 </li>
 
