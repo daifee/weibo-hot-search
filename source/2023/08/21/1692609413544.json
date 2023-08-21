@@ -1,0 +1,410 @@
+{
+  "runTime": 1692609413544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1908681,
+        "num": 1908681,
+        "word": "21日起暂停台湾地区芒果输入大陆",
+        "onboard_time": 1692600216,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1515330,
+        "num": 1515330,
+        "word": "爸爸第一次吃自助火锅满脸拘谨",
+        "onboard_time": 1692603639,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61030,
+        "num": 938456,
+        "word": "全国网络普法行黑龙江站",
+        "onboard_time": 1692604061,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924054,
+        "num": 924054,
+        "word": "年轻时吸的烟 年老时都会找你算账",
+        "onboard_time": 1692606937,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 890650,
+        "num": 890650,
+        "word": "建议明天把微信步数关一下",
+        "onboard_time": 1692591940,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 876426,
+        "num": 876426,
+        "word": "小动物被爱会疯狂长出血肉",
+        "onboard_time": 1692604841,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 561268,
+        "num": 561268,
+        "word": "华晨宇鸟巢四面台演唱会第一人",
+        "onboard_time": 1692600277,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 538457,
+        "num": 538457,
+        "word": "白敬亭回应放不开",
+        "onboard_time": 1692602199,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467979,
+        "num": 467979,
+        "word": "长相思第二季再不播就不礼貌了",
+        "onboard_time": 1692600216,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401248,
+        "num": 401248,
+        "word": "骑手回应称孩子跳楼是误会",
+        "onboard_time": 1692600937,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1758015,
+        "num": 391759,
+        "word": "娜然",
+        "onboard_time": 1692606759,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1725062,
+        "num": 385661,
+        "word": "蒋欣又瘦了好多",
+        "onboard_time": 1692605916,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674522,
+        "num": 381249,
+        "word": "金晨录早了",
+        "onboard_time": 1692606876,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458707,
+        "num": 370736,
+        "word": "韩国女团成员14岁时被侵犯",
+        "onboard_time": 1692592965,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416284,
+        "num": 358041,
+        "word": "当我犯了江浙沪女儿的重罪",
+        "onboard_time": 1692596857,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352929,
+        "num": 352929,
+        "word": "无法保持长期自律的原因",
+        "onboard_time": 1692602677,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344102,
+        "num": 344102,
+        "word": "马立奥况三喜两家互换带娃",
+        "onboard_time": 1692599674,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308024,
+        "num": 343848,
+        "word": "李健张信哲杨宗纬珠海演唱会审批通过",
+        "onboard_time": 1692606158,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305478,
+        "num": 343568,
+        "word": "沈腾喊话杨紫想你啦",
+        "onboard_time": 1692602378,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290307,
+        "num": 343337,
+        "word": "亿万富翁破产负债千万",
+        "onboard_time": 1692594404,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410494,
+        "num": 343005,
+        "word": "只有四川人才懂这一碗的含金量",
+        "onboard_time": 1692604242,
+        "rank": 20,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 342915,
+        "num": 342915,
+        "word": "张子枫指甲可太显眼了",
+        "onboard_time": 1692600277,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337806,
+        "num": 337806,
+        "word": "中医朋友建议我嗑cp",
+        "onboard_time": 1692604717,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314406,
+        "num": 314406,
+        "word": "消失的她网播定档",
+        "onboard_time": 1692602979,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227199,
+        "num": 296934,
+        "word": "无意识减肥却减肥的行为",
+        "onboard_time": 1692579937,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293227,
+        "num": 293227,
+        "word": "吴磊骑有此理真的要来了",
+        "onboard_time": 1692606396,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273218,
+        "num": 273218,
+        "word": "咋谁都认识大张伟",
+        "onboard_time": 1692605318,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266181,
+        "num": 266181,
+        "word": "娜然于适双人封面",
+        "onboard_time": 1692609038,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208383,
+        "num": 208383,
+        "word": "中国跆拳道协会对僵尸跆舞做出处罚决定",
+        "onboard_time": 1692608737,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198198,
+        "num": 198198,
+        "word": "女孩突发抽搐交警高速口提前守候",
+        "onboard_time": 1692597695,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381323,
+        "num": 197473,
+        "word": "中国好声音评分跌至3.2",
+        "onboard_time": 1692595841,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225354,
+        "num": 189357,
+        "word": "第一次见大熊猫脚滑",
+        "onboard_time": 1692601958,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174725,
+        "num": 174725,
+        "word": "庄达菲演一部戏写一首歌",
+        "onboard_time": 1692599977,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174307,
+        "num": 174307,
+        "word": "奶奶起身吃力3岁狗狗甘当拐杖",
+        "onboard_time": 1692601897,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174190,
+        "num": 174190,
+        "word": "肖战纱袍造型仙气十足",
+        "onboard_time": 1692595000,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169433,
+        "num": 169433,
+        "word": "深圳10天内3人肺栓塞进ICU",
+        "onboard_time": 1692593384,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169326,
+        "num": 169326,
+        "word": "台湾地区输入芒果中截获检疫性有害生物",
+        "onboard_time": 1692601778,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 162631,
+        "num": 162631,
+        "word": "相柳角色号大结局会删博吗",
+        "onboard_time": 1692593922,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158348,
+        "num": 158348,
+        "word": "和小时候很讨厌的人结婚了",
+        "onboard_time": 1692587736,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162345,
+        "num": 157397,
+        "word": "涂山璟终于起床了",
+        "onboard_time": 1692600637,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156067,
+        "num": 156067,
+        "word": "不要随便加学生微信",
+        "onboard_time": 1692592664,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153073,
+        "num": 153073,
+        "word": "白敬亭喊井柏然来玩啊",
+        "onboard_time": 1692603818,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147196,
+        "num": 147196,
+        "word": "上海的七夕是懂浪漫的",
+        "onboard_time": 1692605559,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144403,
+        "num": 144403,
+        "word": "李莲花唯一一个不敢怼的人",
+        "onboard_time": 1692593623,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140043,
+        "num": 140043,
+        "word": "A股",
+        "onboard_time": 1692583413,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139990,
+        "num": 139990,
+        "word": "林俊杰诉MCN机构等侵犯名誉权",
+        "onboard_time": 1692603581,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138086,
+        "num": 138086,
+        "word": "张庭夫妇成立餐饮公司",
+        "onboard_time": 1692595656,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137187,
+        "num": 137187,
+        "word": "当你养了只粘人的狗子",
+        "onboard_time": 1692609276,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123431,
+        "num": 137185,
+        "word": "东方风云榜",
+        "onboard_time": 1692604361,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122157,
+        "num": 137184,
+        "word": "A股 上海机场",
+        "onboard_time": 1692596560,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席暖心寄语激励南非青年#"
+    }
+  }
+}
