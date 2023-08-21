@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692599664926,
+  "endTime": 1692602145861,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -17,6 +17,14 @@
       "onboard_time": 1692591940,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2162846,
+      "num": 2162846,
+      "word": "21日起暂停台湾地区芒果输入大陆",
+      "onboard_time": 1692600216,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2028694,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1503915,
+      "num": 978144,
+      "word": "当我犯了江浙沪女儿的重罪",
+      "onboard_time": 1692596857,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1443006,
       "num": 1443006,
       "word": "无意识减肥却减肥的行为",
@@ -161,14 +177,6 @@
       "onboard_time": 1692542803,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 978144,
-      "num": 978144,
-      "word": "当我犯了江浙沪女儿的重罪",
-      "onboard_time": 1692596857,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 974733,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 825176,
+      "num": 825176,
+      "word": "华晨宇鸟巢四面台演唱会第一人",
+      "onboard_time": 1692600277,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 816662,
       "num": 693475,
       "word": "舒淇 海神降临",
@@ -259,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 798001,
+      "num": 284668,
+      "word": "张子枫指甲可太显眼了",
+      "onboard_time": 1692600277,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 782803,
       "num": 782803,
       "word": "当我姐发现自己曾拒绝过华为",
@@ -273,6 +297,14 @@
       "onboard_time": 1692578199,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 753610,
+      "num": 753610,
+      "word": "马立奥况三喜两家互换带娃",
+      "onboard_time": 1692599674,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 743833,
@@ -297,6 +329,14 @@
       "onboard_time": 1692594102,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 710544,
+      "num": 710544,
+      "word": "长相思第二季再不播就不礼貌了",
+      "onboard_time": 1692600216,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 677990,
@@ -387,20 +427,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598110,
+      "num": 301538,
+      "word": "女子骑车遭后座男友持刀割喉身亡",
+      "onboard_time": 1692598477,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586731,
       "num": 586731,
       "word": "玱玹今晚大婚",
       "onboard_time": 1692584555,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 567639,
-      "num": 301538,
-      "word": "女子骑车遭后座男友持刀割喉身亡",
-      "onboard_time": 1692598477,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536544,
@@ -595,20 +635,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 423903,
+      "num": 357529,
+      "word": "A股 上海机场",
+      "onboard_time": 1692596560,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 418824,
       "num": 346140,
       "word": "一个刘海搞定所有脸型bug",
       "onboard_time": 1692544064,
       "rank": 15,
       "category": "时尚,美妆"
-    },
-    {
-      "raw_hot": 413802,
-      "num": 357529,
-      "word": "A股 上海机场",
-      "onboard_time": 1692596560,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 409578,
@@ -660,7 +700,7 @@
     },
     {
       "raw_hot": 382166,
-      "num": 229413,
+      "num": 284543,
       "word": "女孩看到床就害怕和过度防晒有关",
       "onboard_time": 1692598417,
       "rank": 32,
@@ -739,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340426,
+      "num": 300001,
+      "word": "国台办回应今起暂停台湾地区芒果输入大陆",
+      "onboard_time": 1692601055,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 340414,
       "num": 340414,
       "word": "时代少年团或将有线上演唱会",
@@ -785,6 +833,14 @@
       "onboard_time": 1692582813,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321858,
+      "num": 284921,
+      "word": "涂山璟终于起床了",
+      "onboard_time": 1692600637,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 320825,
@@ -867,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 305654,
+      "num": 284516,
+      "word": "庄达菲演一部戏写一首歌",
+      "onboard_time": 1692599977,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304413,
       "num": 304413,
       "word": "为救500岁古树挪走一栋房",
@@ -923,6 +987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 284688,
+      "num": 284688,
+      "word": "台湾地区输入芒果中截获检疫性有害生物",
+      "onboard_time": 1692601778,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 283799,
       "num": 283799,
       "word": "伍佰演唱会",
@@ -937,6 +1009,14 @@
       "onboard_time": 1692540167,
       "rank": 23,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 280037,
+      "num": 280037,
+      "word": "骑手回应称孩子跳楼是误会",
+      "onboard_time": 1692600937,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272358,
@@ -1115,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232263,
+      "num": 232263,
+      "word": "白敬亭让白举纲叫自己小白",
+      "onboard_time": 1692601596,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232018,
       "num": 232018,
       "word": "父母的职业对小孩影响有多大",
@@ -1235,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207087,
+      "num": 207087,
+      "word": "成都笨手笨脚搬家公司",
+      "onboard_time": 1692599557,
+      "rank": 46,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 202997,
       "num": 202997,
       "word": "张若昀宋轶片场同框",
@@ -1257,6 +1353,14 @@
       "onboard_time": 1692599434,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200030,
+      "num": 200030,
+      "word": "沪上阿姨",
+      "onboard_time": 1692601658,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 195007,
@@ -1289,6 +1393,14 @@
       "onboard_time": 1692588638,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 188798,
+      "num": 188798,
+      "word": "长春电影节入围影片名单",
+      "onboard_time": 1692601115,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 188543,
@@ -1403,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168594,
+      "num": 168594,
+      "word": "第一次见大熊猫脚滑",
+      "onboard_time": 1692601958,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167459,
       "num": 167459,
       "word": "终于知道怎么调食物发光滤镜了",
@@ -1467,12 +1587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147191,
-      "num": 171877,
-      "word": "成都笨手笨脚搬家公司",
-      "onboard_time": 1692599557,
+      "raw_hot": 147743,
+      "num": 147743,
+      "word": "奶奶起身吃力3岁狗狗甘当拐杖",
+      "onboard_time": 1692601897,
       "rank": 46,
-      "category": "社会新闻,幽默"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145447,
@@ -1705,6 +1825,14 @@
       "onboard_time": 1692539448,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31177,
+      "num": 297126,
+      "word": "67岁妈妈患脑梗34岁女儿自学扎针输液",
+      "onboard_time": 1692601296,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30666,
