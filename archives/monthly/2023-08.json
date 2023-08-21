@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692596041870,
+  "endTime": 1692598882065,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2601,6 +2601,14 @@
       "onboard_time": 1692340474,
       "rank": 0,
       "category": "综艺,影视"
+    },
+    {
+      "raw_hot": 1848304,
+      "num": 286350,
+      "word": "中国好声音评分跌至3.2",
+      "onboard_time": 1692595841,
+      "rank": 30,
+      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 1844584,
@@ -6587,6 +6595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1118860,
+      "num": 1118860,
+      "word": "张庭夫妇成立餐饮公司",
+      "onboard_time": 1692595656,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1118675,
       "num": 603106,
       "word": "黄锐 人太多没进场",
@@ -7353,6 +7369,14 @@
       "onboard_time": 1691306135,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1043159,
+      "num": 1043159,
+      "word": "深圳10天内3人肺栓塞进ICU",
+      "onboard_time": 1692593384,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1042576,
@@ -8353,14 +8377,6 @@
       "onboard_time": 1690953098,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 948215,
-      "num": 436096,
-      "word": "深圳10天内3人肺栓塞进ICU",
-      "onboard_time": 1692593384,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 948095,
@@ -9473,6 +9489,14 @@
       "onboard_time": 1691227958,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 872812,
+      "num": 872812,
+      "word": "亿万富翁破产负债千万",
+      "onboard_time": 1692594404,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 872390,
@@ -10593,14 +10617,6 @@
       "onboard_time": 1692514895,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 805721,
-      "num": 286350,
-      "word": "中国好声音评分跌至3.2",
-      "onboard_time": 1692595841,
-      "rank": 30,
-      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 804980,
@@ -13051,6 +13067,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 696670,
+      "num": 696670,
+      "word": "沈腾 中国最帅的男演员全在这了",
+      "onboard_time": 1692596198,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696264,
       "num": 696264,
       "word": "大学生毕业补贴",
@@ -13433,14 +13457,6 @@
       "onboard_time": 1692267697,
       "rank": 6,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 678791,
-      "num": 428738,
-      "word": "亿万富翁破产负债千万",
-      "onboard_time": 1692594404,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 678783,
@@ -20315,6 +20331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485056,
+      "num": 391201,
+      "word": "肖战纱袍造型仙气十足",
+      "onboard_time": 1692595000,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 484984,
       "num": 484984,
       "word": "王一博王俊凯龚俊今日营业照",
@@ -20809,6 +20833,14 @@
       "onboard_time": 1692544364,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 476374,
+      "num": 476374,
+      "word": "当我犯了江浙沪女儿的重罪",
+      "onboard_time": 1692596857,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 476257,
@@ -21377,14 +21409,6 @@
       "onboard_time": 1692107920,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 462347,
-      "num": 359130,
-      "word": "肖战纱袍造型仙气十足",
-      "onboard_time": 1692595000,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 462339,
@@ -26227,6 +26251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377634,
+      "num": 377634,
+      "word": "相柳角色号大结局会删博吗",
+      "onboard_time": 1692593922,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377575,
       "num": 361463,
       "word": "罗云熙还是好瘦",
@@ -27553,6 +27585,14 @@
       "onboard_time": 1692432456,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357529,
+      "num": 357529,
+      "word": "A股 上海机场",
+      "onboard_time": 1692596560,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 357517,
@@ -30089,14 +30129,6 @@
       "onboard_time": 1692229651,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320038,
-      "num": 320038,
-      "word": "相柳角色号大结局会删博吗",
-      "onboard_time": 1692593922,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 320027,
@@ -32667,14 +32699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289795,
-      "num": 289795,
-      "word": "张庭夫妇成立餐饮公司",
-      "onboard_time": 1692595656,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289741,
       "num": 375041,
       "word": "哑舍动画画风",
@@ -33385,6 +33409,14 @@
       "onboard_time": 1692054926,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282701,
+      "num": 229688,
+      "word": "女子骑车遭后座男友持刀割喉身亡",
+      "onboard_time": 1692598477,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282655,
@@ -35299,6 +35331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263220,
+      "num": 263220,
+      "word": "孟男",
+      "onboard_time": 1692596797,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263046,
       "num": 261741,
       "word": "没有人告诉我邓为这么好笑",
@@ -36041,6 +36081,14 @@
       "onboard_time": 1692531096,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256809,
+      "num": 256809,
+      "word": "女孩突发抽搐交警高速口提前守候",
+      "onboard_time": 1692597695,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256496,
@@ -37193,6 +37241,14 @@
       "onboard_time": 1690976556,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 244511,
+      "num": 229413,
+      "word": "女孩看到床就害怕和过度防晒有关",
+      "onboard_time": 1692598417,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244478,
@@ -41843,6 +41899,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 207915,
+      "num": 207915,
+      "word": "大妈帮300人找对象3个月撮合7对",
+      "onboard_time": 1692596439,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207869,
       "num": 207869,
       "word": "以闪亮之名",
@@ -42771,6 +42835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202997,
+      "num": 202997,
+      "word": "张若昀宋轶片场同框",
+      "onboard_time": 1692596138,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202971,
       "num": 202971,
       "word": "张艺兴版恐龙扛狼",
@@ -42993,6 +43065,14 @@
       "onboard_time": 1691974897,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201886,
+      "num": 389579,
+      "word": "大熊猫用竹子钓鱼主打一个愿者上钩",
+      "onboard_time": 1692596017,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201876,
@@ -48203,6 +48283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163884,
+      "num": 194299,
+      "word": "女子赶车磕倒司机和拄拐老人都来了",
+      "onboard_time": 1692598657,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163691,
       "num": 163691,
       "word": "爸爸当家直播",
@@ -49409,14 +49497,6 @@
       "onboard_time": 1691592820,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146050,
-      "num": 167271,
-      "word": "大熊猫用竹子钓鱼主打一个愿者上钩",
-      "onboard_time": 1692596017,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145719,
@@ -53108,7 +53188,7 @@
     },
     {
       "raw_hot": 59657,
-      "num": 869837,
+      "num": 1079680,
       "word": "60秒打卡缤纷南非",
       "onboard_time": 1692588336,
       "rank": 2,
@@ -54032,6 +54112,14 @@
       "word": "航拍暴雨后的涿州",
       "onboard_time": 1691087595,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28776,
+      "num": 382019,
+      "word": "七夕节牛郎织女传说始于淄博沂源",
+      "onboard_time": 1692597638,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

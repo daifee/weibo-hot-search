@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692596041870,
+  "endTime": 1692598882065,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -41,6 +41,14 @@
       "onboard_time": 1692586235,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1848304,
+      "num": 286350,
+      "word": "中国好声音评分跌至3.2",
+      "onboard_time": 1692595841,
+      "rank": 30,
+      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 1692425,
@@ -131,6 +139,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1118860,
+      "num": 1118860,
+      "word": "张庭夫妇成立餐饮公司",
+      "onboard_time": 1692595656,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1043159,
+      "num": 1043159,
+      "word": "深圳10天内3人肺栓塞进ICU",
+      "onboard_time": 1692593384,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1026828,
       "num": 1026828,
       "word": "缅北诈骗人员自曝专盯单身公务员",
@@ -144,14 +168,6 @@
       "word": "副局长家属连泼景区工作人员3杯热水",
       "onboard_time": 1692579998,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 948215,
-      "num": 436096,
-      "word": "深圳10天内3人肺栓塞进ICU",
-      "onboard_time": 1692593384,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872812,
+      "num": 872812,
+      "word": "亿万富翁破产负债千万",
+      "onboard_time": 1692594404,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870846,
       "num": 189540,
       "word": "那辛朋友圈",
@@ -217,14 +241,6 @@
       "onboard_time": 1692592722,
       "rank": 3,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 805721,
-      "num": 286350,
-      "word": "中国好声音评分跌至3.2",
-      "onboard_time": 1692595841,
-      "rank": 30,
-      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 804980,
@@ -267,12 +283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 678791,
-      "num": 428738,
-      "word": "亿万富翁破产负债千万",
-      "onboard_time": 1692594404,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 696670,
+      "num": 696670,
+      "word": "沈腾 中国最帅的男演员全在这了",
+      "onboard_time": 1692596198,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 677990,
@@ -443,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 485056,
+      "num": 391201,
+      "word": "肖战纱袍造型仙气十足",
+      "onboard_time": 1692595000,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480913,
       "num": 176372,
       "word": "王泽鹏没第一时间站出来因为怯懦",
@@ -459,12 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 462347,
-      "num": 359130,
-      "word": "肖战纱袍造型仙气十足",
-      "onboard_time": 1692595000,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 476374,
+      "num": 476374,
+      "word": "当我犯了江浙沪女儿的重罪",
+      "onboard_time": 1692596857,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 460768,
@@ -627,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377634,
+      "num": 377634,
+      "word": "相柳角色号大结局会删博吗",
+      "onboard_time": 1692593922,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375490,
       "num": 375490,
       "word": "易烊千玺专辑实物",
@@ -649,6 +681,14 @@
       "onboard_time": 1692533077,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357529,
+      "num": 357529,
+      "word": "A股 上海机场",
+      "onboard_time": 1692596560,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 351790,
@@ -736,14 +776,6 @@
       "word": "小夭晒猫",
       "onboard_time": 1692591281,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 320038,
-      "num": 320038,
-      "word": "相柳角色号大结局会删博吗",
-      "onboard_time": 1692593922,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -867,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289795,
-      "num": 289795,
-      "word": "张庭夫妇成立餐饮公司",
-      "onboard_time": 1692595656,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285749,
       "num": 285749,
       "word": "田曦薇恶女风造型",
@@ -889,6 +913,14 @@
       "onboard_time": 1692593504,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 282701,
+      "num": 229688,
+      "word": "女子骑车遭后座男友持刀割喉身亡",
+      "onboard_time": 1692598477,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281126,
@@ -955,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263220,
+      "num": 263220,
+      "word": "孟男",
+      "onboard_time": 1692596797,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262761,
       "num": 214159,
       "word": "张真源说没有剧本",
@@ -987,6 +1027,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 256809,
+      "num": 256809,
+      "word": "女孩突发抽搐交警高速口提前守候",
+      "onboard_time": 1692597695,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247756,
       "num": 350589,
       "word": "去外省上大学的新生开始慌了",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1692575073,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244511,
+      "num": 229413,
+      "word": "女孩看到床就害怕和过度防晒有关",
+      "onboard_time": 1692598417,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244111,
@@ -1163,12 +1219,36 @@
       "category": "综艺,社会新闻"
     },
     {
+      "raw_hot": 207915,
+      "num": 207915,
+      "word": "大妈帮300人找对象3个月撮合7对",
+      "onboard_time": 1692596439,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202997,
+      "num": 202997,
+      "word": "张若昀宋轶片场同框",
+      "onboard_time": 1692596138,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202362,
       "num": 202362,
       "word": "现在就出发",
       "onboard_time": 1692595718,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201886,
+      "num": 389579,
+      "word": "大熊猫用竹子钓鱼主打一个愿者上钩",
+      "onboard_time": 1692596017,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195007,
@@ -1315,6 +1395,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 163884,
+      "num": 194299,
+      "word": "女子赶车磕倒司机和拄拐老人都来了",
+      "onboard_time": 1692598657,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163549,
       "num": 163549,
       "word": "张新成的一滴泪",
@@ -1368,14 +1456,6 @@
       "word": "男子刷单被骗7万民警支招追回",
       "onboard_time": 1692566653,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146050,
-      "num": 167271,
-      "word": "大熊猫用竹子钓鱼主打一个愿者上钩",
-      "onboard_time": 1692596017,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1540,7 +1620,7 @@
     },
     {
       "raw_hot": 59657,
-      "num": 869837,
+      "num": 1079680,
       "word": "60秒打卡缤纷南非",
       "onboard_time": 1692588336,
       "rank": 2,
@@ -1641,6 +1721,14 @@
       "onboard_time": 1692557897,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28776,
+      "num": 382019,
+      "word": "七夕节牛郎织女传说始于淄博沂源",
+      "onboard_time": 1692597638,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27286,

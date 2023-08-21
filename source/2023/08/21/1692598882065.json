@@ -1,0 +1,410 @@
+{
+  "runTime": 1692598882065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2266152,
+        "num": 2266152,
+        "word": "建议明天把微信步数关一下",
+        "onboard_time": 1692591940,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1118860,
+        "num": 1118860,
+        "word": "张庭夫妇成立餐饮公司",
+        "onboard_time": 1692595656,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38517,
+        "num": 1079680,
+        "word": "60秒打卡缤纷南非",
+        "onboard_time": 1692588336,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1043159,
+        "num": 1043159,
+        "word": "深圳10天内3人肺栓塞进ICU",
+        "onboard_time": 1692593384,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872812,
+        "num": 872812,
+        "word": "亿万富翁破产负债千万",
+        "onboard_time": 1692594404,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696670,
+        "num": 696670,
+        "word": "沈腾 中国最帅的男演员全在这了",
+        "onboard_time": 1692596198,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619962,
+        "num": 619962,
+        "word": "无意识减肥却减肥的行为",
+        "onboard_time": 1692579937,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 529570,
+        "num": 529570,
+        "word": "白敬亭居然放不开",
+        "onboard_time": 1692594102,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476374,
+        "num": 476374,
+        "word": "当我犯了江浙沪女儿的重罪",
+        "onboard_time": 1692596857,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 395958,
+        "num": 395958,
+        "word": "李莲花唯一一个不敢怼的人",
+        "onboard_time": 1692593623,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1398263,
+        "num": 395105,
+        "word": "韩国女团成员14岁时被侵犯",
+        "onboard_time": 1692592965,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485056,
+        "num": 391201,
+        "word": "肖战纱袍造型仙气十足",
+        "onboard_time": 1692595000,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201886,
+        "num": 389579,
+        "word": "大熊猫用竹子钓鱼主打一个愿者上钩",
+        "onboard_time": 1692596017,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178509,
+        "num": 384030,
+        "word": "乘客未系安全带6次弹起致骨折",
+        "onboard_time": 1692585275,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28776,
+        "num": 382019,
+        "word": "七夕节牛郎织女传说始于淄博沂源",
+        "onboard_time": 1692597638,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404062,
+        "num": 380060,
+        "word": "谁还记得秦牛正威改名了",
+        "onboard_time": 1692587496,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377634,
+        "num": 377634,
+        "word": "相柳角色号大结局会删博吗",
+        "onboard_time": 1692593922,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366426,
+        "num": 366426,
+        "word": "原来我的专业考不了公务员",
+        "onboard_time": 1692573566,
+        "rank": 17,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 357529,
+        "num": 357529,
+        "word": "A股 上海机场",
+        "onboard_time": 1692596560,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314457,
+        "num": 314457,
+        "word": "杨紫小夭孔雀绿礼服",
+        "onboard_time": 1692594702,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357884,
+        "num": 313712,
+        "word": "和小时候很讨厌的人结婚了",
+        "onboard_time": 1692587736,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353257,
+        "num": 313416,
+        "word": "不要随便加学生微信",
+        "onboard_time": 1692592664,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311437,
+        "num": 311437,
+        "word": "A股",
+        "onboard_time": 1692583413,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 295984,
+        "num": 295984,
+        "word": "舒淇 海神降临",
+        "onboard_time": 1692592722,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 263220,
+        "num": 263220,
+        "word": "孟男",
+        "onboard_time": 1692596797,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256809,
+        "num": 256809,
+        "word": "女孩突发抽搐交警高速口提前守候",
+        "onboard_time": 1692597695,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253742,
+        "num": 253742,
+        "word": "权珉娥",
+        "onboard_time": 1692595419,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252937,
+        "num": 252937,
+        "word": "赵露思蓝色吊带裙",
+        "onboard_time": 1692588156,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 241906,
+        "num": 241906,
+        "word": "小说里一笔带过的十年",
+        "onboard_time": 1692587975,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230503,
+        "num": 230503,
+        "word": "林俊杰回复Angelababy",
+        "onboard_time": 1692580295,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1848304,
+        "num": 229884,
+        "word": "中国好声音评分跌至3.2",
+        "onboard_time": 1692595841,
+        "rank": 30,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 282701,
+        "num": 229688,
+        "word": "女子骑车遭后座男友持刀割喉身亡",
+        "onboard_time": 1692598477,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244511,
+        "num": 229413,
+        "word": "女孩看到床就害怕和过度防晒有关",
+        "onboard_time": 1692598417,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228747,
+        "num": 228747,
+        "word": "田曦薇演的李玉湖是炸毛哈基米",
+        "onboard_time": 1692589841,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222305,
+        "num": 222305,
+        "word": "一直娱",
+        "onboard_time": 1692593143,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219451,
+        "num": 219451,
+        "word": "张颂文 知足吧你",
+        "onboard_time": 1692586235,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217061,
+        "num": 217061,
+        "word": "杨幂美拉德风造型",
+        "onboard_time": 1692592118,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130306,
+        "num": 211650,
+        "word": "石凯k计划巡演",
+        "onboard_time": 1692594342,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207915,
+        "num": 207915,
+        "word": "大妈帮300人找对象3个月撮合7对",
+        "onboard_time": 1692596439,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202997,
+        "num": 202997,
+        "word": "张若昀宋轶片场同框",
+        "onboard_time": 1692596138,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202696,
+        "num": 202696,
+        "word": "火的是魏大勋装的是范丞丞",
+        "onboard_time": 1692586956,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194341,
+        "num": 194341,
+        "word": "原来长相思有五对cp",
+        "onboard_time": 1692594821,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174212,
+        "num": 194327,
+        "word": "特斯拉新款Model3或已移除所有雷达",
+        "onboard_time": 1692591460,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 167759,
+        "num": 194325,
+        "word": "李莲花未公开的衣服",
+        "onboard_time": 1692593982,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163884,
+        "num": 194299,
+        "word": "女子赶车磕倒司机和拄拐老人都来了",
+        "onboard_time": 1692598657,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159957,
+        "num": 194296,
+        "word": "孤注一掷新海报全员痛苦面具",
+        "onboard_time": 1692591820,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158687,
+        "num": 194269,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1692581736,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 139395,
+        "num": 194261,
+        "word": "狗和猫在失重状态下的对比",
+        "onboard_time": 1692584555,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 139247,
+        "num": 194238,
+        "word": "研究表明乳房大小影响运动意愿",
+        "onboard_time": 1692534519,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134838,
+        "num": 194236,
+        "word": "女子账户不分昼夜有钱转入每次1分钱",
+        "onboard_time": 1692577540,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中南友谊的彩虹之桥不断延伸#"
+    }
+  }
+}
