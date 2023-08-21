@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692592433043,
+  "endTime": 1692594927155,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -465,6 +465,14 @@
       "onboard_time": 1691328493,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3313725,
+      "num": 3313725,
+      "word": "建议明天把微信步数关一下",
+      "onboard_time": 1692591940,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 3300996,
@@ -2081,6 +2089,14 @@
       "onboard_time": 1691740536,
       "rank": 8,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 2028694,
+      "num": 502441,
+      "word": "韩国女团成员14岁时被侵犯",
+      "onboard_time": 1692592965,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2028603,
@@ -6251,6 +6267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1148656,
+      "num": 540890,
+      "word": "谁还记得秦牛正威改名了",
+      "onboard_time": 1692587496,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1147938,
       "num": 1147938,
       "word": "Meiko打字15",
@@ -7889,14 +7913,6 @@
       "onboard_time": 1691033919,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 985080,
-      "num": 540890,
-      "word": "谁还记得秦牛正威改名了",
-      "onboard_time": 1692587496,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 985041,
@@ -9987,14 +10003,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 840144,
-      "num": 840144,
-      "word": "建议明天把微信步数关一下",
-      "onboard_time": 1692591940,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 840106,
       "num": 497809,
       "word": "女孩18岁成人礼被男友带去吸毒",
@@ -10393,6 +10401,14 @@
       "onboard_time": 1691761239,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 816662,
+      "num": 629782,
+      "word": "舒淇 海神降临",
+      "onboard_time": 1692592722,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 816330,
@@ -11801,6 +11817,14 @@
       "onboard_time": 1692089081,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 744005,
+      "num": 272586,
+      "word": "深圳10天内3人肺栓塞进ICU",
+      "onboard_time": 1692593384,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 743833,
@@ -15369,6 +15393,14 @@
       "onboard_time": 1692275980,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 605392,
+      "num": 348834,
+      "word": "不要随便加学生微信",
+      "onboard_time": 1692592664,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 604880,
@@ -21355,6 +21387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461846,
+      "num": 461846,
+      "word": "李莲花唯一一个不敢怼的人",
+      "onboard_time": 1692593623,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 461706,
       "num": 461706,
       "word": "你永远不知道堵车时第一辆车在干嘛",
@@ -21800,6 +21840,14 @@
       "word": "Angelababy电竞女教练",
       "onboard_time": 1691131958,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 453611,
+      "num": 453611,
+      "word": "白敬亭居然放不开",
+      "onboard_time": 1692594102,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -23243,6 +23291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 426737,
+      "num": 348573,
+      "word": "杨幂美拉德风造型",
+      "onboard_time": 1692592118,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426733,
       "num": 426733,
       "word": "程耳王一博人鱼立项",
@@ -24524,7 +24580,7 @@
     },
     {
       "raw_hot": 403496,
-      "num": 463183,
+      "num": 483662,
       "word": "这下全国人民都知道你破案快了",
       "onboard_time": 1692587014,
       "rank": 33,
@@ -24705,6 +24761,14 @@
       "onboard_time": 1691366799,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400763,
+      "num": 522342,
+      "word": "特斯拉新款Model3或已移除所有雷达",
+      "onboard_time": 1692591460,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 400461,
@@ -27843,6 +27907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351790,
+      "num": 351790,
+      "word": "孤注一掷新海报全员痛苦面具",
+      "onboard_time": 1692591820,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351716,
       "num": 351716,
       "word": "邓为很满意夭璟结局",
@@ -29979,6 +30051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320038,
+      "num": 320038,
+      "word": "相柳角色号大结局会删博吗",
+      "onboard_time": 1692593922,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320027,
       "num": 320027,
       "word": "真的不理解现在的雨衣",
@@ -30401,6 +30481,14 @@
       "onboard_time": 1691413174,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314472,
+      "num": 314472,
+      "word": "一直娱",
+      "onboard_time": 1692593143,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 314436,
@@ -33123,6 +33211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 283799,
+      "num": 283799,
+      "word": "伍佰演唱会",
+      "onboard_time": 1692593504,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 283693,
       "num": 283693,
       "word": "一路朝阳 学霸组演戏",
@@ -34147,6 +34243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273866,
+      "num": 273866,
+      "word": "亿万富翁破产负债千万",
+      "onboard_time": 1692594404,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273562,
       "num": 273562,
       "word": "长相思角色号好会营业",
@@ -34296,6 +34400,14 @@
       "word": "玱玹眼神",
       "onboard_time": 1691750975,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 272358,
+      "num": 272358,
+      "word": "李莲花未公开的衣服",
+      "onboard_time": 1692593982,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -35033,14 +35145,6 @@
       "onboard_time": 1691679762,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264380,
-      "num": 264380,
-      "word": "特斯拉新款Model3或已移除所有雷达",
-      "onboard_time": 1692591460,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 264304,
@@ -37107,6 +37211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244110,
+      "num": 244110,
+      "word": "石凯k计划巡演",
+      "onboard_time": 1692594342,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 244067,
       "num": 228182,
       "word": "张碧晨上海演唱会官宣",
@@ -38459,6 +38571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232001,
+      "num": 232001,
+      "word": "冰板栗好吃还是炒板栗好吃",
+      "onboard_time": 1692592001,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 231872,
       "num": 231872,
       "word": "看完热烈跟自己和解了",
@@ -39065,6 +39185,14 @@
       "onboard_time": 1692530913,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225934,
+      "num": 220844,
+      "word": "金晨跳火红的萨日朗",
+      "onboard_time": 1692592843,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 225912,
@@ -40067,6 +40195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218406,
+      "num": 218406,
+      "word": "杨紫小夭孔雀绿礼服",
+      "onboard_time": 1692594702,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218377,
       "num": 235368,
       "word": "凌晨地震老师们跑着叫学生快到重影",
@@ -40963,6 +41099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211959,
+      "num": 197977,
+      "word": "原来长相思有五对cp",
+      "onboard_time": 1692594821,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211924,
       "num": 189995,
       "word": "莲花楼不说再见",
@@ -41467,14 +41611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208851,
-      "num": 208851,
-      "word": "孤注一掷新海报全员痛苦面具",
-      "onboard_time": 1692591820,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208833,
       "num": 241914,
       "word": "快速切到别的APP冷静下来再回去看小说",
@@ -41529,14 +41665,6 @@
       "onboard_time": 1690967856,
       "rank": 43,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 208588,
-      "num": 208588,
-      "word": "杨幂美拉德风造型",
-      "onboard_time": 1692592118,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 208544,
@@ -45977,14 +46105,6 @@
       "onboard_time": 1690885295,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 186860,
-      "num": 186860,
-      "word": "冰板栗好吃还是炒板栗好吃",
-      "onboard_time": 1692592001,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 186820,
@@ -53737,6 +53857,14 @@
       "onboard_time": 1692041354,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31910,
+      "num": 475554,
+      "word": "环卫阿姨被困路过小情侣合力救援",
+      "onboard_time": 1692594041,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31904,

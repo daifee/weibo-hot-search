@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692592433043,
+  "endTime": 1692594927155,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -9,6 +9,22 @@
       "onboard_time": 1692537463,
       "rank": 3,
       "category": "综艺,社会新闻"
+    },
+    {
+      "raw_hot": 3313725,
+      "num": 3313725,
+      "word": "建议明天把微信步数关一下",
+      "onboard_time": 1692591940,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 2028694,
+      "num": 502441,
+      "word": "韩国女团成员14岁时被侵犯",
+      "onboard_time": 1692592965,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1945342,
@@ -107,20 +123,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1148656,
+      "num": 540890,
+      "word": "谁还记得秦牛正威改名了",
+      "onboard_time": 1692587496,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1026828,
       "num": 1026828,
       "word": "缅北诈骗人员自曝专盯单身公务员",
       "onboard_time": 1692542803,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 985080,
-      "num": 540890,
-      "word": "谁还记得秦牛正威改名了",
-      "onboard_time": 1692587496,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 974733,
@@ -187,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 840144,
-      "num": 840144,
-      "word": "建议明天把微信步数关一下",
-      "onboard_time": 1692591940,
-      "rank": 1,
-      "category": "幽默"
+      "raw_hot": 816662,
+      "num": 629782,
+      "word": "舒淇 海神降临",
+      "onboard_time": 1692592722,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 804980,
@@ -217,6 +233,14 @@
       "onboard_time": 1692578199,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 744005,
+      "num": 272586,
+      "word": "深圳10天内3人肺栓塞进ICU",
+      "onboard_time": 1692593384,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 743833,
@@ -297,6 +321,14 @@
       "onboard_time": 1692586293,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605392,
+      "num": 348834,
+      "word": "不要随便加学生微信",
+      "onboard_time": 1692592664,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 601836,
@@ -395,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461846,
+      "num": 461846,
+      "word": "李莲花唯一一个不敢怼的人",
+      "onboard_time": 1692593623,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460768,
       "num": 589920,
       "word": "乘客未系安全带6次弹起致骨折",
@@ -409,6 +449,14 @@
       "onboard_time": 1692586956,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 453611,
+      "num": 453611,
+      "word": "白敬亭居然放不开",
+      "onboard_time": 1692594102,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 453161,
@@ -475,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426737,
+      "num": 348573,
+      "word": "杨幂美拉德风造型",
+      "onboard_time": 1692592118,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426665,
       "num": 426665,
       "word": "8月1年期LPR下调10个基点",
@@ -508,11 +564,19 @@
     },
     {
       "raw_hot": 403496,
-      "num": 463183,
+      "num": 483662,
       "word": "这下全国人民都知道你破案快了",
       "onboard_time": 1692587014,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400763,
+      "num": 522342,
+      "word": "特斯拉新款Model3或已移除所有雷达",
+      "onboard_time": 1692591460,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 397987,
@@ -561,6 +625,14 @@
       "onboard_time": 1692533077,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351790,
+      "num": 351790,
+      "word": "孤注一掷新海报全员痛苦面具",
+      "onboard_time": 1692591820,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 351716,
@@ -627,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320038,
+      "num": 320038,
+      "word": "相柳角色号大结局会删博吗",
+      "onboard_time": 1692593922,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318578,
       "num": 318578,
       "word": "Angelababy白鹿赵露思虞书欣都达成钻超了",
@@ -641,6 +721,14 @@
       "onboard_time": 1692578139,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 314472,
+      "num": 314472,
+      "word": "一直娱",
+      "onboard_time": 1692593143,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 313865,
@@ -747,12 +835,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 283799,
+      "num": 283799,
+      "word": "伍佰演唱会",
+      "onboard_time": 1692593504,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 281126,
       "num": 235597,
       "word": "段奥娟近期风格",
       "onboard_time": 1692540167,
       "rank": 23,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 273866,
+      "num": 273866,
+      "word": "亿万富翁破产负债千万",
+      "onboard_time": 1692594404,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272358,
+      "num": 272358,
+      "word": "李莲花未公开的衣服",
+      "onboard_time": 1692593982,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 271292,
@@ -793,14 +905,6 @@
       "onboard_time": 1692544965,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264380,
-      "num": 264380,
-      "word": "特斯拉新款Model3或已移除所有雷达",
-      "onboard_time": 1692591460,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 263860,
@@ -883,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244110,
+      "num": 244110,
+      "word": "石凯k计划巡演",
+      "onboard_time": 1692594342,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240531,
       "num": 240531,
       "word": "景甜周翊然新剧看不惯已经8集了",
@@ -907,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232001,
+      "num": 232001,
+      "word": "冰板栗好吃还是炒板栗好吃",
+      "onboard_time": 1692592001,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 229165,
       "num": 229165,
       "word": "这只狗狗是来报恩的吧",
@@ -921,6 +1041,14 @@
       "onboard_time": 1692540228,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225934,
+      "num": 220844,
+      "word": "金晨跳火红的萨日朗",
+      "onboard_time": 1692592843,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 223286,
@@ -947,11 +1075,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218406,
+      "num": 218406,
+      "word": "杨紫小夭孔雀绿礼服",
+      "onboard_time": 1692594702,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217336,
       "num": 217336,
       "word": "玱玹早八相柳早九",
       "onboard_time": 1692588217,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211959,
+      "num": 197977,
+      "word": "原来长相思有五对cp",
+      "onboard_time": 1692594821,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -987,22 +1131,6 @@
       "category": "综艺,社会新闻"
     },
     {
-      "raw_hot": 208851,
-      "num": 208851,
-      "word": "孤注一掷新海报全员痛苦面具",
-      "onboard_time": 1692591820,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 208588,
-      "num": 208588,
-      "word": "杨幂美拉德风造型",
-      "onboard_time": 1692592118,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195007,
       "num": 195007,
       "word": "还真的有猫语教程啊",
@@ -1025,14 +1153,6 @@
       "onboard_time": 1692588638,
       "rank": 44,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 186860,
-      "num": 186860,
-      "word": "冰板栗好吃还是炒板栗好吃",
-      "onboard_time": 1692592001,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 186741,
@@ -1409,6 +1529,14 @@
       "onboard_time": 1692563833,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 31910,
+      "num": 475554,
+      "word": "环卫阿姨被困路过小情侣合力救援",
+      "onboard_time": 1692594041,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31271,
