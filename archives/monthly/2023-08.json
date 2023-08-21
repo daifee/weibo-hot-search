@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692657224680,
+  "endTime": 1692659745644,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -3699,6 +3699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1587027,
+      "num": 1587027,
+      "word": "iPhone换C口 安卓不通用",
+      "onboard_time": 1692634054,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1586802,
       "num": 1586802,
       "word": "TFBOYS新歌明天见",
@@ -4073,14 +4081,6 @@
       "onboard_time": 1692572543,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1511161,
-      "num": 1511161,
-      "word": "iPhone换C口 安卓不通用",
-      "onboard_time": 1692634054,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 1509758,
@@ -9243,6 +9243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 901790,
+      "num": 901790,
+      "word": "胡歌 如果未来五年我不拍戏了",
+      "onboard_time": 1692659185,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 901703,
       "num": 901703,
       "word": "谢娜魏大勋什么时候一起录节目",
@@ -12985,6 +12993,14 @@
       "onboard_time": 1691202935,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 713971,
+      "num": 713971,
+      "word": "七夕",
+      "onboard_time": 1692632317,
+      "rank": 12,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 713867,
@@ -23963,14 +23979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 425790,
-      "num": 425790,
-      "word": "七夕",
-      "onboard_time": 1692632317,
-      "rank": 12,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 425340,
       "num": 1425682,
       "word": "丫丫又圆润啦",
@@ -32875,6 +32883,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 296201,
+      "num": 253825,
+      "word": "多个孩子被中介2万一个带到缅甸",
+      "onboard_time": 1692658943,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295842,
       "num": 295842,
       "word": "小夭戏弄涂山璟",
@@ -34025,6 +34041,14 @@
       "onboard_time": 1691306915,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284131,
+      "num": 160720,
+      "word": "姚晨说羡慕黄晓明能请来这么多大导演",
+      "onboard_time": 1692649395,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 283934,
@@ -40065,6 +40089,14 @@
       "onboard_time": 1691133758,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226792,
+      "num": 226792,
+      "word": "男孩失联手机最后定位在缅甸",
+      "onboard_time": 1692654434,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226789,
@@ -47243,6 +47275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187192,
+      "num": 187192,
+      "word": "王一博你到底会多少个舞种",
+      "onboard_time": 1692647353,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187134,
       "num": 231692,
       "word": "电影沙漏杀青",
@@ -49579,6 +49619,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 162337,
+      "num": 158388,
+      "word": "原来读书的好处还可以具象化",
+      "onboard_time": 1692659423,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162327,
       "num": 200286,
       "word": "什么能给一名山东父亲造成最大打击",
@@ -49729,6 +49777,14 @@
       "onboard_time": 1692016416,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160370,
+      "num": 137444,
+      "word": "喊妈妈超过一万次她会离家出走",
+      "onboard_time": 1692646875,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 159631,
@@ -49905,6 +49961,14 @@
       "onboard_time": 1692016056,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157745,
+      "num": 157745,
+      "word": "七夕说出爱",
+      "onboard_time": 1692659484,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 157682,
@@ -50505,6 +50569,14 @@
       "onboard_time": 1691929898,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148723,
+      "num": 148723,
+      "word": "蔡徐坤ins",
+      "onboard_time": 1692659605,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 148603,
@@ -51811,14 +51883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128233,
-      "num": 70668,
-      "word": "姚晨说羡慕黄晓明能请来这么多大导演",
-      "onboard_time": 1692649395,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 128146,
       "num": 216142,
       "word": "崔胜澈回应腿受伤",
@@ -51867,6 +51931,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 127699,
+      "num": 127699,
+      "word": "齐司礼云月之约倒计时",
+      "onboard_time": 1692659003,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127308,
       "num": 149874,
       "word": "曙光英雄",
@@ -51905,14 +51977,6 @@
       "onboard_time": 1691055096,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126007,
-      "num": 70557,
-      "word": "男孩失联手机最后定位在缅甸",
-      "onboard_time": 1692654434,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125964,
@@ -53155,14 +53219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96884,
-      "num": 96884,
-      "word": "王一博你到底会多少个舞种",
-      "onboard_time": 1692647353,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 96724,
       "num": 96724,
       "word": "他小时候是不是没朋友",
@@ -53441,6 +53497,14 @@
       "onboard_time": 1691528653,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89413,
+      "num": 89413,
+      "word": "七夕快乐",
+      "onboard_time": 1692659665,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 89040,
@@ -53849,14 +53913,6 @@
       "onboard_time": 1691883084,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 79446,
-      "num": 58199,
-      "word": "喊妈妈超过一万次她会离家出走",
-      "onboard_time": 1692646875,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 78651,
