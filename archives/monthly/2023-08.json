@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692574431384,
+  "endTime": 1692580135615,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2307,6 +2307,14 @@
       "category": "影视,影视"
     },
     {
+      "raw_hot": 1945342,
+      "num": 937851,
+      "word": "原来我的专业考不了公务员",
+      "onboard_time": 1692573566,
+      "rank": 33,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 1942101,
       "num": 595956,
       "word": "王俊凯今天蓝发",
@@ -3251,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1642615,
+      "num": 1642615,
+      "word": "原来天堂伞可以免费维修",
+      "onboard_time": 1692576156,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1640389,
       "num": 1640389,
       "word": "杨紫双手戴满了镯子",
@@ -3564,7 +3580,7 @@
     },
     {
       "raw_hot": 1580829,
-      "num": 125379,
+      "num": 227877,
       "word": "韩红",
       "onboard_time": 1692572663,
       "rank": 30,
@@ -3881,6 +3897,14 @@
       "onboard_time": 1691556700,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1511743,
+      "num": 1511743,
+      "word": "央视调查甘肃天水古城",
+      "onboard_time": 1692572543,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1509758,
@@ -4928,6 +4952,14 @@
       "word": "女幼师疑出轨学生家长被抓当街游行",
       "onboard_time": 1691656774,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1326842,
+      "num": 530804,
+      "word": "女子账户不分昼夜有钱转入每次1分钱",
+      "onboard_time": 1692577540,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -7123,14 +7155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1062568,
-      "num": 1062568,
-      "word": "央视调查甘肃天水古城",
-      "onboard_time": 1692572543,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1062220,
       "num": 842331,
       "word": "TFBOYS年纪不大辈分不小",
@@ -8507,6 +8531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 930567,
+      "num": 526738,
+      "word": "by2晒与Angelababy合照",
+      "onboard_time": 1692572964,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 930459,
       "num": 930459,
       "word": "Missing说带Yagao去世界赛",
@@ -9329,6 +9361,14 @@
       "onboard_time": 1690876654,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 873587,
+      "num": 873587,
+      "word": "我国又破获一起美国CIA间谍案",
+      "onboard_time": 1692573990,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 872968,
@@ -10427,14 +10467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 807306,
-      "num": 255969,
-      "word": "by2晒与Angelababy合照",
-      "onboard_time": 1692572964,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 807000,
       "num": 502069,
       "word": "四叶草站起来了",
@@ -10457,6 +10489,14 @@
       "onboard_time": 1692514895,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 804980,
+      "num": 804980,
+      "word": "你可以嫁给爱情 也可以嫁给友情",
+      "onboard_time": 1692575249,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 804843,
@@ -11009,6 +11049,14 @@
       "onboard_time": 1692450399,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 774185,
+      "num": 774185,
+      "word": "Angelababy林俊杰续写可惜没有如果结局",
+      "onboard_time": 1692578199,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 773847,
@@ -11673,6 +11721,14 @@
       "onboard_time": 1692089081,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 743833,
+      "num": 743833,
+      "word": "长大后最羡慕的朋友圈",
+      "onboard_time": 1692574952,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 743663,
@@ -16588,7 +16644,7 @@
     },
     {
       "raw_hot": 568604,
-      "num": 378630,
+      "num": 445620,
       "word": "到缅北第一天就被拉去参观水牢",
       "onboard_time": 1692538069,
       "rank": 31,
@@ -17875,6 +17931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536520,
+      "num": 536520,
+      "word": "百万播放99万是范丞丞看的",
+      "onboard_time": 1692575914,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536468,
       "num": 476231,
       "word": "相柳目送小夭被抱走",
@@ -18361,6 +18425,14 @@
       "onboard_time": 1691833118,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 522374,
+      "num": 522374,
+      "word": "失传2000多年的扁鹊医书找到了",
+      "onboard_time": 1692577597,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522331,
@@ -21595,6 +21667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453161,
+      "num": 453161,
+      "word": "德约科维奇",
+      "onboard_time": 1692578320,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 452904,
       "num": 399840,
       "word": "手镯有了黄金没看见",
@@ -23891,6 +23971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 409437,
+      "num": 409437,
+      "word": "胡兵瞿颖52岁状态",
+      "onboard_time": 1692574830,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 409268,
       "num": 409268,
       "word": "网友香港偶遇周雨彤欢喜哥同框",
@@ -25641,6 +25729,14 @@
       "onboard_time": 1691505940,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 380385,
+      "num": 380385,
+      "word": "秦牛正威直播再道歉",
+      "onboard_time": 1692576275,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 380156,
@@ -28051,6 +28147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344012,
+      "num": 344012,
+      "word": "邓为很满意夭璟结局",
+      "onboard_time": 1692575373,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343729,
       "num": 343729,
       "word": "相柳刺杀失败30秒文学",
@@ -29843,6 +29947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316708,
+      "num": 316708,
+      "word": "玩手机把手腕玩出了筋结",
+      "onboard_time": 1692578139,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 316410,
       "num": 316410,
       "word": "K396次列车最新消息",
@@ -30089,6 +30201,14 @@
       "onboard_time": 1691767361,
       "rank": 36,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 313865,
+      "num": 313865,
+      "word": "欧阳娜娜KnowKnow合作新歌",
+      "onboard_time": 1692577540,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 313758,
@@ -32531,6 +32651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 285749,
+      "num": 285749,
+      "word": "田曦薇恶女风造型",
+      "onboard_time": 1692575734,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 285659,
       "num": 285659,
       "word": "综艺童话阵容官宣",
@@ -34120,6 +34248,14 @@
       "word": "金晨安娜剧照",
       "onboard_time": 1691464655,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 268468,
+      "num": 268468,
+      "word": "莲花楼大结局reaction",
+      "onboard_time": 1692576577,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -35795,14 +35931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251705,
-      "num": 124254,
-      "word": "原来我的专业考不了公务员",
-      "onboard_time": 1692573566,
-      "rank": 33,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 251696,
       "num": 251696,
       "word": "cpp",
@@ -36363,6 +36491,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 245991,
+      "num": 245991,
+      "word": "为救500岁古树挪走一栋房",
+      "onboard_time": 1692579760,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245907,
       "num": 245907,
       "word": "大运会男篮中国战胜日本",
@@ -36479,6 +36615,14 @@
       "num": 244949,
       "word": "小夭并非靠别人幸存",
       "onboard_time": 1691715156,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 244900,
+      "num": 244900,
+      "word": "后劲很大的影视剧",
+      "onboard_time": 1692575073,
       "rank": 28,
       "category": "影视"
     },
@@ -37897,6 +38041,14 @@
       "onboard_time": 1691469762,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232018,
+      "num": 232018,
+      "word": "父母的职业对小孩影响有多大",
+      "onboard_time": 1692574830,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 231872,
@@ -40307,6 +40459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212346,
+      "num": 212346,
+      "word": "无意识减肥却减肥的行为",
+      "onboard_time": 1692579937,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212300,
       "num": 212300,
       "word": "大宋少年志",
@@ -42651,14 +42811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200224,
-      "num": 200224,
-      "word": "我国又破获一起美国CIA间谍案",
-      "onboard_time": 1692573990,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200175,
       "num": 210882,
       "word": "徐杰告别赵睿",
@@ -43841,6 +43993,14 @@
       "onboard_time": 1692184957,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194356,
+      "num": 194356,
+      "word": "女孩摔坏小提琴被全家人的反应暖到了",
+      "onboard_time": 1692579399,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194342,
@@ -46491,6 +46651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175545,
+      "num": 175545,
+      "word": "金泰妍感谢SMTOWN",
+      "onboard_time": 1692573688,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175368,
       "num": 175368,
       "word": "杨千嬅演唱会",
@@ -46835,6 +47003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171480,
+      "num": 171480,
+      "word": "沈腾劝架范丞丞魏大勋",
+      "onboard_time": 1692575796,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171332,
       "num": 171332,
       "word": "病人家属医院门口免费送1吨牛奶",
@@ -46880,6 +47056,14 @@
       "word": "任泽平建议帮帮碧桂园",
       "onboard_time": 1691768619,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170619,
+      "num": 170619,
+      "word": "那一刻青岛人的使命感爆棚",
+      "onboard_time": 1692579760,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -47091,6 +47275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167459,
+      "num": 167459,
+      "word": "终于知道怎么调食物发光滤镜了",
+      "onboard_time": 1692573566,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 167415,
       "num": 167415,
       "word": "陈烁 身为普通人的骄傲",
@@ -47209,6 +47401,14 @@
       "onboard_time": 1691911776,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165632,
+      "num": 165632,
+      "word": "副局长家属连泼景区工作人员3杯热水",
+      "onboard_time": 1692579998,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165587,
@@ -47939,6 +48139,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 155099,
+      "num": 155099,
+      "word": "张智霖新片把古天乐打晕",
+      "onboard_time": 1692578139,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155031,
       "num": 155031,
       "word": "大张伟终于想起来自己是歌手了",
@@ -47993,6 +48201,14 @@
       "onboard_time": 1691030076,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154422,
+      "num": 154422,
+      "word": "潘长江张鹤伦模仿狂飙名场面",
+      "onboard_time": 1692577056,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 154270,
@@ -49257,14 +49473,6 @@
       "onboard_time": 1692423812,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134560,
-      "num": 134560,
-      "word": "金泰妍感谢SMTOWN",
-      "onboard_time": 1692573688,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 134527,
