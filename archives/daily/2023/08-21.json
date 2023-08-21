@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692606084819,
+  "endTime": 1692606845900,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1145287,
+      "num": 1145287,
+      "word": "爸爸第一次吃自助火锅满脸拘谨",
+      "onboard_time": 1692603639,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1043159,
       "num": 1043159,
       "word": "深圳10天内3人肺栓塞进ICU",
@@ -283,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 827090,
-      "num": 827090,
-      "word": "爸爸第一次吃自助火锅满脸拘谨",
-      "onboard_time": 1692603639,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 816662,
       "num": 693475,
       "word": "舒淇 海神降临",
@@ -339,11 +339,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 744546,
+      "num": 744546,
+      "word": "白敬亭回应放不开",
+      "onboard_time": 1692602199,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 743833,
       "num": 743833,
       "word": "长大后最羡慕的朋友圈",
       "onboard_time": 1692574952,
       "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 737528,
+      "num": 737528,
+      "word": "无法保持长期自律的原因",
+      "onboard_time": 1692602677,
+      "rank": 40,
       "category": "情感"
     },
     {
@@ -355,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 723854,
-      "num": 723854,
-      "word": "无法保持长期自律的原因",
-      "onboard_time": 1692602677,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 719754,
       "num": 719754,
       "word": "白敬亭居然放不开",
@@ -371,12 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 690639,
-      "num": 690639,
-      "word": "白敬亭回应放不开",
-      "onboard_time": 1692602199,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 680633,
+      "num": 601215,
+      "word": "小动物被爱会疯狂长出血肉",
+      "onboard_time": 1692604841,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 677990,
@@ -491,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 581256,
+      "num": 251456,
+      "word": "蒋欣又瘦了好多",
+      "onboard_time": 1692605916,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536544,
       "num": 598127,
       "word": "2023年国考过审人数达近260万人",
@@ -505,14 +521,6 @@
       "onboard_time": 1692575914,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 532183,
-      "num": 196060,
-      "word": "小动物被爱会疯狂长出血肉",
-      "onboard_time": 1692604841,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 518393,
@@ -611,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465914,
+      "num": 260379,
+      "word": "消失的她网播定档",
+      "onboard_time": 1692602979,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460768,
       "num": 589920,
       "word": "乘客未系安全带6次弹起致骨折",
@@ -624,14 +640,6 @@
       "word": "唐嫣刘学义被狗追出表情包",
       "onboard_time": 1692586956,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 453978,
-      "num": 260379,
-      "word": "消失的她网播定档",
-      "onboard_time": 1692602979,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -1027,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 302259,
+      "num": 259589,
+      "word": "中医朋友建议我嗑cp",
+      "onboard_time": 1692604717,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 302018,
       "num": 1541686,
       "word": "接到96110来电千万不要挂",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1692582636,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297651,
-      "num": 259589,
-      "word": "中医朋友建议我嗑cp",
-      "onboard_time": 1692604717,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 295308,
@@ -1219,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253038,
+      "num": 253038,
+      "word": "李健张信哲杨宗纬珠海演唱会审批通过",
+      "onboard_time": 1692606158,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 247756,
       "num": 350589,
       "word": "去外省上大学的新生开始慌了",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1692592001,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 231856,
+      "num": 231856,
+      "word": "咋谁都认识大张伟",
+      "onboard_time": 1692605318,
+      "rank": 38,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 229165,
@@ -1475,12 +1499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199465,
+      "num": 199465,
+      "word": "吴磊骑有此理真的要来了",
+      "onboard_time": 1692606396,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198751,
       "num": 192281,
       "word": "IVL夏决应援舞我超爱",
       "onboard_time": 1692605441,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198704,
+      "num": 198704,
+      "word": "上海的七夕是懂浪漫的",
+      "onboard_time": 1692605559,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 195007,
@@ -1531,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187158,
-      "num": 187158,
-      "word": "咋谁都认识大张伟",
-      "onboard_time": 1692605318,
-      "rank": 38,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 186741,
       "num": 186741,
       "word": "2 #大一新生如何用录取通知书买火车票",
@@ -1569,14 +1601,6 @@
       "onboard_time": 1692535841,
       "rank": 29,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 179592,
-      "num": 179592,
-      "word": "蒋欣又瘦了好多",
-      "onboard_time": 1692605916,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 175801,
@@ -1625,14 +1649,6 @@
       "onboard_time": 1692581195,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 173371,
-      "num": 173371,
-      "word": "上海的七夕是懂浪漫的",
-      "onboard_time": 1692605559,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 171480,
@@ -1691,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161826,
+      "num": 161826,
+      "word": "大陆这些地方都盛产芒果",
+      "onboard_time": 1692605916,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157682,
       "num": 157682,
       "word": "刘耀文新歌feelme",
@@ -1737,14 +1761,6 @@
       "onboard_time": 1692535659,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 145350,
-      "num": 157963,
-      "word": "大陆这些地方都盛产芒果",
-      "onboard_time": 1692605916,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143163,
@@ -1892,7 +1908,7 @@
     },
     {
       "raw_hot": 73777,
-      "num": 1080778,
+      "num": 1243515,
       "word": "全国网络普法行黑龙江站",
       "onboard_time": 1692604061,
       "rank": 2,
@@ -1947,6 +1963,14 @@
       "category": "社会议题,综艺"
     },
     {
+      "raw_hot": 47418,
+      "num": 443013,
+      "word": "8旬爷爷贴身陪护病妻22年",
+      "onboard_time": 1692604841,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43426,
       "num": 161066,
       "word": "大一新生如何用录取通知书买火车票",
@@ -1977,14 +2001,6 @@
       "onboard_time": 1692563833,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 31906,
-      "num": 382832,
-      "word": "8旬爷爷贴身陪护病妻22年",
-      "onboard_time": 1692604841,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31271,
@@ -2084,6 +2100,9 @@
     },
     {
       "word": "#我国国家公园建设取得显著成效#"
+    },
+    {
+      "word": "#金砖合作的含金量有多高#"
     }
   ]
 }
