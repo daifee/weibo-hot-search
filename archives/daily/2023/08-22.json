@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692641950706,
+  "endTime": 1692642850655,
   "band_list": [
     {
       "raw_hot": 2002745,
@@ -347,6 +347,14 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 152335,
+      "num": 152335,
+      "word": "会长是女仆中的初代男神",
+      "onboard_time": 1692641057,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 150034,
       "num": 139765,
       "word": "赵露思客串了云边有个小卖部",
@@ -443,20 +451,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 67351,
-      "num": 67351,
-      "word": "会长是女仆中的初代男神",
-      "onboard_time": 1692641057,
-      "rank": 27,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 66457,
       "num": 95821,
       "word": "今年看过后劲最大的国产剧",
       "onboard_time": 1692612096,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 39423,
+      "num": 39423,
+      "word": "你们还真是一个都不OOC",
+      "onboard_time": 1692642137,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20101,

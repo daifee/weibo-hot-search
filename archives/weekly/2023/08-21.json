@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692641950706,
+  "endTime": 1692642850655,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -2619,6 +2619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152335,
+      "num": 152335,
+      "word": "会长是女仆中的初代男神",
+      "onboard_time": 1692641057,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 150311,
       "num": 163088,
       "word": "慕光之城",
@@ -2915,14 +2923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67351,
-      "num": 67351,
-      "word": "会长是女仆中的初代男神",
-      "onboard_time": 1692641057,
-      "rank": 27,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 61602,
       "num": 61602,
       "word": "小狗捡了五块钱打算改名叫招财",
@@ -3017,6 +3017,14 @@
       "onboard_time": 1692626019,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39423,
+      "num": 39423,
+      "word": "你们还真是一个都不OOC",
+      "onboard_time": 1692642137,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 38743,
