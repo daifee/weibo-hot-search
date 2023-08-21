@@ -1,0 +1,410 @@
+{
+  "runTime": 1692624025235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1732805,
+        "num": 1732805,
+        "word": "涂山璟已婚",
+        "onboard_time": 1692620375,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1571619,
+        "num": 1571619,
+        "word": "爷爷去世前和朋友发的短信",
+        "onboard_time": 1692617616,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249755,
+        "num": 1369504,
+        "word": "世界上唯一拥有3个首都的国家",
+        "onboard_time": 1692616713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1777152,
+        "num": 1336143,
+        "word": "男孩在柬埔寨坠亡身上刻着被害冤枉",
+        "onboard_time": 1692619956,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1202345,
+        "num": 1202345,
+        "word": "最近韩国渐渐出现无糖葫芦区",
+        "onboard_time": 1692620676,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 632303,
+        "num": 632303,
+        "word": "魏大勋称体重好真实",
+        "onboard_time": 1692621400,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569303,
+        "num": 569303,
+        "word": "夭柳海底看鲛人被删改了",
+        "onboard_time": 1692621641,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455461,
+        "num": 455461,
+        "word": "蒲熠星to签",
+        "onboard_time": 1692623621,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426768,
+        "num": 426768,
+        "word": "建议明天把微信步数关一下",
+        "onboard_time": 1692591940,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198416,
+        "num": 426225,
+        "word": "21日起暂停台湾地区芒果输入大陆",
+        "onboard_time": 1692600216,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1101774,
+        "num": 425156,
+        "word": "易烊千玺分享17年的自己",
+        "onboard_time": 1692620138,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544124,
+        "num": 422790,
+        "word": "秦岚工作室 拍戏咽炎复发",
+        "onboard_time": 1692620558,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467013,
+        "num": 422306,
+        "word": "王鹤棣范丞丞魏大勋白敬亭耳骨夹",
+        "onboard_time": 1692620498,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453826,
+        "num": 419444,
+        "word": "蒋欣又瘦了好多",
+        "onboard_time": 1692605916,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127955,
+        "num": 419170,
+        "word": "台湾地区输入芒果中截获检疫性有害生物",
+        "onboard_time": 1692601778,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 417909,
+        "num": 417909,
+        "word": "苏醒身负三代家当",
+        "onboard_time": 1692622419,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390988,
+        "num": 390988,
+        "word": "东方青苍与涂山璟一起洗澡",
+        "onboard_time": 1692613357,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355980,
+        "num": 355980,
+        "word": "杨紫承欢记拍摄路透",
+        "onboard_time": 1692619297,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54165,
+        "num": 353466,
+        "word": "新哈弗H5上市",
+        "onboard_time": 1692621278,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 247306,
+        "num": 350503,
+        "word": "泄洪后回家房子完好无损",
+        "onboard_time": 1692619714,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286098,
+        "num": 343125,
+        "word": "男子账户突然多出49000元吓得赶紧报警",
+        "onboard_time": 1692621159,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557495,
+        "num": 340836,
+        "word": "微信表白代码",
+        "onboard_time": 1692619776,
+        "rank": 21,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 438839,
+        "num": 334586,
+        "word": "白米粥涮火锅有多好吃",
+        "onboard_time": 1692621159,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 315292,
+        "num": 331876,
+        "word": "小动物被爱会疯狂长出血肉",
+        "onboard_time": 1692604841,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 404998,
+        "num": 325750,
+        "word": "TFBOYS演我开学见到同学",
+        "onboard_time": 1692614494,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323058,
+        "num": 323058,
+        "word": "SEVENTEEN回归比孙悟空更有冲击性",
+        "onboard_time": 1692619416,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318134,
+        "num": 318134,
+        "word": "谁说女生不能是鲜衣怒马",
+        "onboard_time": 1692617015,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317349,
+        "num": 317349,
+        "word": "张新成KTV以前点周杰伦现在是陶喆",
+        "onboard_time": 1692621159,
+        "rank": 27,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 302870,
+        "num": 302870,
+        "word": "男生嫌下山太累直接滚到半山腰",
+        "onboard_time": 1692622598,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291382,
+        "num": 291382,
+        "word": "左立回应怒吼",
+        "onboard_time": 1692623737,
+        "rank": 29,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 369317,
+        "num": 288011,
+        "word": "中国好声音评分跌至3.2",
+        "onboard_time": 1692595841,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282618,
+        "num": 282618,
+        "word": "今年看过后劲最大的国产剧",
+        "onboard_time": 1692612096,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276211,
+        "num": 276211,
+        "word": "王俊凯易烊千玺入围金鹿奖",
+        "onboard_time": 1692613536,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239603,
+        "num": 274140,
+        "word": "村霸私闯民宅致老人脑出血孙子跳河",
+        "onboard_time": 1692621219,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203878,
+        "num": 273006,
+        "word": "男子坐5小时高铁险猝死",
+        "onboard_time": 1692612216,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272418,
+        "num": 272418,
+        "word": "虞书欣灰色美甲",
+        "onboard_time": 1692619536,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 270063,
+        "num": 270063,
+        "word": "贾冰跟魏大勋说我也孟男了",
+        "onboard_time": 1692618755,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263360,
+        "num": 263360,
+        "word": "标准浓颜和淡颜美女代表",
+        "onboard_time": 1692617440,
+        "rank": 37,
+        "category": "影视,美妆"
+      },
+      {
+        "raw_hot": 190763,
+        "num": 255729,
+        "word": "已有152例猴痘病例死亡",
+        "onboard_time": 1692623621,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166470,
+        "num": 253095,
+        "word": "高盛办事处回应所有人被带走",
+        "onboard_time": 1692619895,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251016,
+        "num": 251016,
+        "word": "相柳没死去了星落",
+        "onboard_time": 1692621278,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201688,
+        "num": 250932,
+        "word": "邓为潮男拍照教学",
+        "onboard_time": 1692623440,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 196956,
+        "num": 250803,
+        "word": "陈哲远暗夜与黎明杀青照",
+        "onboard_time": 1692621336,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195510,
+        "num": 250644,
+        "word": "娜然",
+        "onboard_time": 1692606759,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162363,
+        "num": 250441,
+        "word": "只有四川人才懂这一碗的含金量",
+        "onboard_time": 1692604242,
+        "rank": 44,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 148215,
+        "num": 250245,
+        "word": "中国跆拳道协会对僵尸跆舞做出处罚决定",
+        "onboard_time": 1692608737,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135521,
+        "num": 250096,
+        "word": "僵尸跆舞",
+        "onboard_time": 1692617077,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130684,
+        "num": 249927,
+        "word": "当我犯了江浙沪女儿的重罪",
+        "onboard_time": 1692596857,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127565,
+        "num": 249621,
+        "word": "福宝和七仔撞脸了",
+        "onboard_time": 1692614017,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118023,
+        "num": 249480,
+        "word": "在山东赶海捅了螃蟹窝了",
+        "onboard_time": 1692613536,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖合作的含金量有多高#"
+    }
+  }
+}
