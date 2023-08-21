@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692638089989,
+  "endTime": 1692639245077,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -50395,6 +50395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150034,
+      "num": 139765,
+      "word": "赵露思客串了云边有个小卖部",
+      "onboard_time": 1692637345,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149979,
       "num": 213955,
       "word": "大运会周恺男单金牌",
@@ -51081,14 +51089,6 @@
       "onboard_time": 1692407915,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139765,
-      "num": 139765,
-      "word": "赵露思客串了云边有个小卖部",
-      "onboard_time": 1692637345,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 139704,
@@ -53113,6 +53113,14 @@
       "onboard_time": 1692425792,
       "rank": 49,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 97929,
+      "num": 97929,
+      "word": "自爱才是人生的开始",
+      "onboard_time": 1692638182,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 97333,
