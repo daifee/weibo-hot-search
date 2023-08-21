@@ -1,0 +1,410 @@
+{
+  "runTime": 1692606084819,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2851459,
+        "num": 2851459,
+        "word": "21日起暂停台湾地区芒果输入大陆",
+        "onboard_time": 1692600216,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1411544,
+        "num": 1411544,
+        "word": "建议明天把微信步数关一下",
+        "onboard_time": 1692591940,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73777,
+        "num": 1080778,
+        "word": "全国网络普法行黑龙江站",
+        "onboard_time": 1692604061,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1020100,
+        "num": 1020100,
+        "word": "骑手回应称孩子跳楼是误会",
+        "onboard_time": 1692600937,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827090,
+        "num": 827090,
+        "word": "爸爸第一次吃自助火锅满脸拘谨",
+        "onboard_time": 1692603639,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723854,
+        "num": 723854,
+        "word": "无法保持长期自律的原因",
+        "onboard_time": 1692602677,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 713731,
+        "num": 713731,
+        "word": "华晨宇鸟巢四面台演唱会第一人",
+        "onboard_time": 1692600277,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 702003,
+        "num": 702003,
+        "word": "长相思第二季再不播就不礼貌了",
+        "onboard_time": 1692600216,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 690639,
+        "num": 690639,
+        "word": "白敬亭回应放不开",
+        "onboard_time": 1692602199,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442848,
+        "num": 667576,
+        "word": "无意识减肥却减肥的行为",
+        "onboard_time": 1692579937,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 727716,
+        "num": 664390,
+        "word": "当我犯了江浙沪女儿的重罪",
+        "onboard_time": 1692596857,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 646476,
+        "num": 646476,
+        "word": "韩国女团成员14岁时被侵犯",
+        "onboard_time": 1692592965,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518393,
+        "num": 518393,
+        "word": "沈腾喊话杨紫想你啦",
+        "onboard_time": 1692602378,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480288,
+        "num": 480288,
+        "word": "马立奥况三喜两家互换带娃",
+        "onboard_time": 1692599674,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31906,
+        "num": 382832,
+        "word": "8旬爷爷贴身陪护病妻22年",
+        "onboard_time": 1692604841,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354198,
+        "num": 354198,
+        "word": "台湾地区输入芒果中截获检疫性有害生物",
+        "onboard_time": 1692601778,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 301748,
+        "num": 301748,
+        "word": "庄达菲演一部戏写一首歌",
+        "onboard_time": 1692599977,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265770,
+        "num": 265770,
+        "word": "涂山璟终于起床了",
+        "onboard_time": 1692600637,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263959,
+        "num": 263959,
+        "word": "亿万富翁破产负债千万",
+        "onboard_time": 1692594404,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262475,
+        "num": 262475,
+        "word": "A股",
+        "onboard_time": 1692583413,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 635203,
+        "num": 261168,
+        "word": "张子枫指甲可太显眼了",
+        "onboard_time": 1692600277,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496502,
+        "num": 260846,
+        "word": "只有四川人才懂这一碗的含金量",
+        "onboard_time": 1692604242,
+        "rank": 21,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 453978,
+        "num": 260379,
+        "word": "消失的她网播定档",
+        "onboard_time": 1692602979,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259753,
+        "num": 259753,
+        "word": "林俊杰诉MCN机构等侵犯名誉权",
+        "onboard_time": 1692603581,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297651,
+        "num": 259589,
+        "word": "中医朋友建议我嗑cp",
+        "onboard_time": 1692604717,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292808,
+        "num": 256809,
+        "word": "女子骑车遭后座男友持刀割喉身亡",
+        "onboard_time": 1692598477,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283238,
+        "num": 251634,
+        "word": "第一次见大熊猫脚滑",
+        "onboard_time": 1692601958,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242690,
+        "num": 242690,
+        "word": "和小时候很讨厌的人结婚了",
+        "onboard_time": 1692587736,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200915,
+        "num": 200915,
+        "word": "白敬亭喊井柏然来玩啊",
+        "onboard_time": 1692603818,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196151,
+        "num": 196151,
+        "word": "女孩突发抽搐交警高速口提前守候",
+        "onboard_time": 1692597695,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532183,
+        "num": 196060,
+        "word": "小动物被爱会疯狂长出血肉",
+        "onboard_time": 1692604841,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 446785,
+        "num": 194219,
+        "word": "中国好声音评分跌至3.2",
+        "onboard_time": 1692595841,
+        "rank": 31,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 200072,
+        "num": 193724,
+        "word": "林娜琏的复古concept",
+        "onboard_time": 1692605496,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198751,
+        "num": 192281,
+        "word": "IVL夏决应援舞我超爱",
+        "onboard_time": 1692605441,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191444,
+        "num": 191444,
+        "word": "张庭夫妇成立餐饮公司",
+        "onboard_time": 1692595656,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188888,
+        "num": 188888,
+        "word": "肖战纱袍造型仙气十足",
+        "onboard_time": 1692595000,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188841,
+        "num": 188841,
+        "word": "A股 上海机场",
+        "onboard_time": 1692596560,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187190,
+        "num": 187190,
+        "word": "奶奶起身吃力3岁狗狗甘当拐杖",
+        "onboard_time": 1692601897,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187158,
+        "num": 187158,
+        "word": "咋谁都认识大张伟",
+        "onboard_time": 1692605318,
+        "rank": 38,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 179592,
+        "num": 179592,
+        "word": "蒋欣又瘦了好多",
+        "onboard_time": 1692605916,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173371,
+        "num": 173371,
+        "word": "上海的七夕是懂浪漫的",
+        "onboard_time": 1692605559,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170475,
+        "num": 170475,
+        "word": "女孩看到床就害怕和过度防晒有关",
+        "onboard_time": 1692598417,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167993,
+        "num": 167993,
+        "word": "深圳10天内3人肺栓塞进ICU",
+        "onboard_time": 1692593384,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166793,
+        "num": 166793,
+        "word": "李莲花唯一一个不敢怼的人",
+        "onboard_time": 1692593623,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160084,
+        "num": 160084,
+        "word": "相柳角色号大结局会删博吗",
+        "onboard_time": 1692593922,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158072,
+        "num": 158072,
+        "word": "不要随便加学生微信",
+        "onboard_time": 1692592664,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150499,
+        "num": 158071,
+        "word": "沈腾 中国最帅的男演员全在这了",
+        "onboard_time": 1692596198,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145350,
+        "num": 157963,
+        "word": "大陆这些地方都盛产芒果",
+        "onboard_time": 1692605916,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139880,
+        "num": 157916,
+        "word": "田曦薇演的李玉湖是炸毛哈基米",
+        "onboard_time": 1692589841,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139098,
+        "num": 157870,
+        "word": "原来我的专业考不了公务员",
+        "onboard_time": 1692573566,
+        "rank": 49,
+        "category": "幽默,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国国家公园建设取得显著成效#"
+    }
+  }
+}

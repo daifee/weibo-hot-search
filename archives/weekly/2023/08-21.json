@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692603220242,
+  "endTime": 1692606084819,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2028694,
-      "num": 502441,
+      "num": 646476,
       "word": "韩国女团成员14岁时被侵犯",
       "onboard_time": 1692592965,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1020100,
+      "num": 1020100,
+      "word": "骑手回应称孩子跳楼是误会",
+      "onboard_time": 1692600937,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976905,
       "num": 976905,
       "word": "沪上阿姨",
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 827090,
+      "num": 827090,
+      "word": "爸爸第一次吃自助火锅满脸拘谨",
+      "onboard_time": 1692603639,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816662,
       "num": 693475,
       "word": "舒淇 海神降临",
@@ -339,11 +355,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 723854,
+      "num": 723854,
+      "word": "无法保持长期自律的原因",
+      "onboard_time": 1692602677,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 719754,
       "num": 719754,
       "word": "白敬亭居然放不开",
       "onboard_time": 1692594102,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 690639,
+      "num": 690639,
+      "word": "白敬亭回应放不开",
+      "onboard_time": 1692602199,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -475,6 +507,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532183,
+      "num": 196060,
+      "word": "小动物被爱会疯狂长出血肉",
+      "onboard_time": 1692604841,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 518393,
+      "num": 518393,
+      "word": "沈腾喊话杨紫想你啦",
+      "onboard_time": 1692602378,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517820,
       "num": 517820,
       "word": "姜潮差点替黄子韬徐艺洋官宣",
@@ -497,6 +545,14 @@
       "onboard_time": 1692548975,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496502,
+      "num": 260846,
+      "word": "只有四川人才懂这一碗的含金量",
+      "onboard_time": 1692604242,
+      "rank": 21,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 495707,
@@ -547,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 480890,
-      "num": 480890,
-      "word": "骑手回应称孩子跳楼是误会",
-      "onboard_time": 1692600937,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477288,
       "num": 477288,
       "word": "李莲花唯一一个不敢怼的人",
@@ -576,6 +624,14 @@
       "word": "唐嫣刘学义被狗追出表情包",
       "onboard_time": 1692586956,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 453978,
+      "num": 260379,
+      "word": "消失的她网播定档",
+      "onboard_time": 1692602979,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -723,14 +779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 391144,
-      "num": 238784,
-      "word": "白敬亭回应放不开",
-      "onboard_time": 1692602199,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 382166,
       "num": 301237,
       "word": "女孩看到床就害怕和过度防晒有关",
@@ -769,14 +817,6 @@
       "onboard_time": 1692541428,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 362397,
-      "num": 362397,
-      "word": "沈腾喊话杨紫想你啦",
-      "onboard_time": 1692602378,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 358094,
@@ -1003,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297651,
+      "num": 259589,
+      "word": "中医朋友建议我嗑cp",
+      "onboard_time": 1692604717,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295308,
       "num": 295308,
       "word": "花轿喜事",
@@ -1035,20 +1083,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 283238,
+      "num": 276050,
+      "word": "第一次见大熊猫脚滑",
+      "onboard_time": 1692601958,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281126,
       "num": 235597,
       "word": "段奥娟近期风格",
       "onboard_time": 1692540167,
       "rank": 23,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 276050,
-      "num": 276050,
-      "word": "第一次见大熊猫脚滑",
-      "onboard_time": 1692601958,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 272358,
@@ -1145,6 +1193,14 @@
       "onboard_time": 1692590258,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 259753,
+      "num": 259753,
+      "word": "林俊杰诉MCN机构等侵犯名誉权",
+      "onboard_time": 1692603581,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 257303,
@@ -1379,14 +1435,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 205028,
-      "num": 205028,
-      "word": "消失的她网播定档",
-      "onboard_time": 1692602979,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 202997,
       "num": 202997,
       "word": "张若昀宋轶片场同框",
@@ -1403,12 +1451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200747,
-      "num": 200747,
-      "word": "无法保持长期自律的原因",
-      "onboard_time": 1692602677,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 200915,
+      "num": 200915,
+      "word": "白敬亭喊井柏然来玩啊",
+      "onboard_time": 1692603818,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 200290,
@@ -1417,6 +1465,22 @@
       "onboard_time": 1692599434,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200072,
+      "num": 193724,
+      "word": "林娜琏的复古concept",
+      "onboard_time": 1692605496,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198751,
+      "num": 192281,
+      "word": "IVL夏决应援舞我超爱",
+      "onboard_time": 1692605441,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 195007,
@@ -1467,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187158,
+      "num": 187158,
+      "word": "咋谁都认识大张伟",
+      "onboard_time": 1692605318,
+      "rank": 38,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 186741,
       "num": 186741,
       "word": "2 #大一新生如何用录取通知书买火车票",
@@ -1497,6 +1569,14 @@
       "onboard_time": 1692535841,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 179592,
+      "num": 179592,
+      "word": "蒋欣又瘦了好多",
+      "onboard_time": 1692605916,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 175801,
@@ -1545,6 +1625,14 @@
       "onboard_time": 1692581195,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173371,
+      "num": 173371,
+      "word": "上海的七夕是懂浪漫的",
+      "onboard_time": 1692605559,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 171480,
@@ -1649,6 +1737,14 @@
       "onboard_time": 1692535659,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145350,
+      "num": 157963,
+      "word": "大陆这些地方都盛产芒果",
+      "onboard_time": 1692605916,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143163,
@@ -1795,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73777,
+      "num": 1080778,
+      "word": "全国网络普法行黑龙江站",
+      "onboard_time": 1692604061,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67519,
       "num": 475554,
       "word": "环卫阿姨被困路过小情侣合力救援",
@@ -1873,6 +1977,14 @@
       "onboard_time": 1692563833,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 31906,
+      "num": 382832,
+      "word": "8旬爷爷贴身陪护病妻22年",
+      "onboard_time": 1692604841,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31271,
