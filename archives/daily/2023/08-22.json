@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692649032754,
+  "endTime": 1692650026802,
   "band_list": [
     {
       "raw_hot": 2002745,
@@ -459,12 +459,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 43105,
-      "num": 43105,
+      "raw_hot": 49935,
+      "num": 49935,
       "word": "王一博你到底会多少个舞种",
       "onboard_time": 1692647353,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 46214,
+      "num": 34541,
+      "word": "姚晨说羡慕黄晓明能请来这么多大导演",
+      "onboard_time": 1692649395,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 39590,
+      "num": 29805,
+      "word": "喊妈妈超过一万次她会离家出走",
+      "onboard_time": 1692646875,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 39423,
@@ -475,20 +491,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 33260,
-      "num": 33260,
+      "raw_hot": 36550,
+      "num": 36550,
       "word": "安乐传剧组hi6七夕加更预告",
       "onboard_time": 1692646155,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30229,
-      "num": 29805,
-      "word": "喊妈妈超过一万次她会离家出走",
-      "onboard_time": 1692646875,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 27689,
