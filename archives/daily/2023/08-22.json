@@ -1,7 +1,15 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692659745644,
+  "endTime": 1692660833323,
   "band_list": [
+    {
+      "raw_hot": 2339213,
+      "num": 2339213,
+      "word": "胡歌 如果未来五年我不拍戏了",
+      "onboard_time": 1692659185,
+      "rank": 1,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2002745,
       "num": 2002745,
@@ -43,12 +51,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 901790,
-      "num": 901790,
-      "word": "胡歌 如果未来五年我不拍戏了",
-      "onboard_time": 1692659185,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 833052,
+      "num": 833052,
+      "word": "多个孩子被中介2万一个带到缅甸",
+      "onboard_time": 1692658943,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 826508,
@@ -65,6 +73,22 @@
       "onboard_time": 1692632317,
       "rank": 12,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 676946,
+      "num": 676946,
+      "word": "七夕快乐",
+      "onboard_time": 1692659665,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 638921,
+      "num": 182233,
+      "word": "瘦了20斤才敢说的大实话",
+      "onboard_time": 1692659785,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 622005,
@@ -195,16 +219,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296201,
-      "num": 253825,
-      "word": "多个孩子被中介2万一个带到缅甸",
-      "onboard_time": 1692658943,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284131,
-      "num": 160720,
+      "num": 182159,
       "word": "姚晨说羡慕黄晓明能请来这么多大导演",
       "onboard_time": 1692649395,
       "rank": 20,
@@ -227,8 +243,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 259832,
-      "num": 259832,
+      "raw_hot": 263431,
+      "num": 263431,
       "word": "今年看过后劲最大的国产剧",
       "onboard_time": 1692612096,
       "rank": 47,
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219850,
+      "num": 219850,
+      "word": "孟宴臣火之前在乎他的只有魏大勋",
+      "onboard_time": 1692660027,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215267,
       "num": 215267,
       "word": "夭柳海底看鲛人被删改了",
@@ -331,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201226,
+      "num": 194786,
+      "word": "女子看海时起身太猛掉进海里",
+      "onboard_time": 1692629619,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198789,
       "num": 193946,
       "word": "男子账户突然多出49000元吓得赶紧报警",
@@ -345,14 +377,6 @@
       "onboard_time": 1692641057,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 194786,
-      "num": 194786,
-      "word": "女子看海时起身太猛掉进海里",
-      "onboard_time": 1692629619,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189314,
@@ -377,6 +401,14 @@
       "onboard_time": 1692614494,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181218,
+      "num": 181218,
+      "word": "林俊杰晒了Angelababy照片",
+      "onboard_time": 1692660328,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 168670,
@@ -411,8 +443,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160370,
-      "num": 137444,
+      "raw_hot": 160636,
+      "num": 149109,
       "word": "喊妈妈超过一万次她会离家出走",
       "onboard_time": 1692646875,
       "rank": 31,
@@ -449,6 +481,14 @@
       "onboard_time": 1692659605,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147665,
+      "num": 147665,
+      "word": "长相思第二季",
+      "onboard_time": 1692660689,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 147547,
@@ -515,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115868,
+      "num": 115868,
+      "word": "邓为能扛男一吗",
+      "onboard_time": 1692660628,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 114257,
       "num": 121408,
       "word": "最近在追哪部电视剧",
@@ -539,12 +587,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 89413,
-      "num": 89413,
-      "word": "七夕快乐",
-      "onboard_time": 1692659665,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 92435,
+      "num": 92435,
+      "word": "上错花轿嫁对郎原版vs新版",
+      "onboard_time": 1692660807,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 58314,
@@ -603,7 +651,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 20101,
+      "raw_hot": 21074,
       "num": 1397971,
       "word": "2023金砖峰会先导片",
       "onboard_time": 1692626019,

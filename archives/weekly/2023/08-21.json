@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692659745644,
+  "endTime": 1692660833323,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -49,6 +49,14 @@
       "onboard_time": 1692620676,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2339213,
+      "num": 2339213,
+      "word": "胡歌 如果未来五年我不拍戏了",
+      "onboard_time": 1692659185,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2044981,
@@ -435,14 +443,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 901790,
-      "num": 901790,
-      "word": "胡歌 如果未来五年我不拍戏了",
-      "onboard_time": 1692659185,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 888997,
       "num": 866946,
       "word": "身边人成为了明星",
@@ -513,6 +513,14 @@
       "onboard_time": 1692623621,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 833052,
+      "num": 833052,
+      "word": "多个孩子被中介2万一个带到缅甸",
+      "onboard_time": 1692658943,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 825133,
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676946,
+      "num": 676946,
+      "word": "七夕快乐",
+      "onboard_time": 1692659665,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 675126,
       "num": 520878,
       "word": "A股",
@@ -721,6 +737,14 @@
       "onboard_time": 1692589841,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 638921,
+      "num": 182233,
+      "word": "瘦了20斤才敢说的大实话",
+      "onboard_time": 1692659785,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 637984,
@@ -1651,14 +1675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296201,
-      "num": 253825,
-      "word": "多个孩子被中介2万一个带到缅甸",
-      "onboard_time": 1692658943,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295585,
       "num": 295585,
       "word": "黄子弘凡自责到破防",
@@ -1708,7 +1724,7 @@
     },
     {
       "raw_hot": 284131,
-      "num": 160720,
+      "num": 182159,
       "word": "姚晨说羡慕黄晓明能请来这么多大导演",
       "onboard_time": 1692649395,
       "rank": 20,
@@ -2139,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219850,
+      "num": 219850,
+      "word": "孟宴臣火之前在乎他的只有魏大勋",
+      "onboard_time": 1692660027,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219050,
       "num": 203963,
       "word": "孤注一掷",
@@ -2475,6 +2499,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 181218,
+      "num": 181218,
+      "word": "林俊杰晒了Angelababy照片",
+      "onboard_time": 1692660328,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180712,
       "num": 180712,
       "word": "安徽的省会是哪个城市",
@@ -2651,8 +2683,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160370,
-      "num": 137444,
+      "raw_hot": 160636,
+      "num": 149109,
       "word": "喊妈妈超过一万次她会离家出走",
       "onboard_time": 1692646875,
       "rank": 31,
@@ -2721,6 +2753,14 @@
       "onboard_time": 1692659605,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147665,
+      "num": 147665,
+      "word": "长相思第二季",
+      "onboard_time": 1692660689,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 145447,
@@ -2867,6 +2907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115868,
+      "num": 115868,
+      "word": "邓为能扛男一吗",
+      "onboard_time": 1692660628,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 114257,
       "num": 121408,
       "word": "最近在追哪部电视剧",
@@ -2939,6 +2987,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 92435,
+      "num": 92435,
+      "word": "上错花轿嫁对郎原版vs新版",
+      "onboard_time": 1692660807,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 91412,
       "num": 91412,
       "word": "林心如想当林志玲Akira亲家",
@@ -2953,14 +3009,6 @@
       "onboard_time": 1692630101,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89413,
-      "num": 89413,
-      "word": "七夕快乐",
-      "onboard_time": 1692659665,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 89040,
