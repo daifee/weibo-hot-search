@@ -1,0 +1,410 @@
+{
+  "runTime": 1692587808282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1489900,
+        "num": 1489900,
+        "word": "林俊杰回复Angelababy",
+        "onboard_time": 1692580295,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 696246,
+        "num": 696246,
+        "word": "原来天堂伞可以免费维修",
+        "onboard_time": 1692576156,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159433,
+        "num": 689372,
+        "word": "接到96110来电千万不要挂",
+        "onboard_time": 1692540526,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978820,
+        "num": 661227,
+        "word": "原来我的专业考不了公务员",
+        "onboard_time": 1692573566,
+        "rank": 3,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 888997,
+        "num": 646145,
+        "word": "身边人成为了明星",
+        "onboard_time": 1692583956,
+        "rank": 4,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 866689,
+        "num": 629819,
+        "word": "无意识减肥却减肥的行为",
+        "onboard_time": 1692579937,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 765274,
+        "num": 612110,
+        "word": "林俊杰回应被激光笔照眼",
+        "onboard_time": 1692583236,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 600341,
+        "num": 600341,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1692581736,
+        "rank": 7,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 536544,
+        "num": 598127,
+        "word": "2023年国考过审人数达近260万人",
+        "onboard_time": 1692582275,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379991,
+        "num": 579348,
+        "word": "乘客未系安全带6次弹起致骨折",
+        "onboard_time": 1692585275,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008816,
+        "num": 565456,
+        "word": "张颂文 知足吧你",
+        "onboard_time": 1692586235,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621930,
+        "num": 562202,
+        "word": "女子账户不分昼夜有钱转入每次1分钱",
+        "onboard_time": 1692577540,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553556,
+        "num": 553556,
+        "word": "玱玹今晚大婚",
+        "onboard_time": 1692584555,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511925,
+        "num": 511925,
+        "word": "火的是魏大勋装的是范丞丞",
+        "onboard_time": 1692586956,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258712,
+        "num": 507517,
+        "word": "我国又破获一起美国CIA间谍案",
+        "onboard_time": 1692573990,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368602,
+        "num": 505231,
+        "word": "失传2000多年的扁鹊医书找到了",
+        "onboard_time": 1692577597,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504032,
+        "num": 504032,
+        "word": "A股",
+        "onboard_time": 1692583413,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 487593,
+        "num": 487593,
+        "word": "狗和猫在失重状态下的对比",
+        "onboard_time": 1692584555,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 430783,
+        "num": 430783,
+        "word": "杨紫成毅邓为檀健次肖战V榜破9",
+        "onboard_time": 1692585038,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416289,
+        "num": 416289,
+        "word": "副局长家属连泼景区工作人员3杯热水",
+        "onboard_time": 1692579998,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607804,
+        "num": 406400,
+        "word": "女子称买28元河蚌疑发现红色孔克珠",
+        "onboard_time": 1692586293,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597185,
+        "num": 399328,
+        "word": "国考",
+        "onboard_time": 1692586293,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 387360,
+        "num": 387360,
+        "word": "长大后最羡慕的朋友圈",
+        "onboard_time": 1692574952,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345075,
+        "num": 345075,
+        "word": "易烊千玺专辑实物",
+        "onboard_time": 1692586715,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326886,
+        "num": 326886,
+        "word": "唐嫣刘学义被狗追出表情包",
+        "onboard_time": 1692586956,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318896,
+        "num": 318896,
+        "word": "花轿喜事定档8月28日",
+        "onboard_time": 1692583413,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306788,
+        "num": 306788,
+        "word": "密室大逃脱失落的城邦",
+        "onboard_time": 1692584196,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306475,
+        "num": 306475,
+        "word": "by2晒与Angelababy合照",
+        "onboard_time": 1692572964,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295308,
+        "num": 295308,
+        "word": "花轿喜事",
+        "onboard_time": 1692583895,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283611,
+        "num": 283611,
+        "word": "研究表明乳房大小影响运动意愿",
+        "onboard_time": 1692534519,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252726,
+        "num": 252726,
+        "word": "你可以嫁给爱情 也可以嫁给友情",
+        "onboard_time": 1692575249,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248072,
+        "num": 248072,
+        "word": "时代少年团或将有线上演唱会",
+        "onboard_time": 1692587315,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246123,
+        "num": 246123,
+        "word": "上海亚宠展丁满被偷",
+        "onboard_time": 1692587014,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236452,
+        "num": 236452,
+        "word": "这下全国人民都知道你破案快了",
+        "onboard_time": 1692587014,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225562,
+        "num": 225562,
+        "word": "鹿晗头发长得好快",
+        "onboard_time": 1692584073,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221343,
+        "num": 221343,
+        "word": "请把吉克隽逸焊死在舞台上",
+        "onboard_time": 1692582813,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215611,
+        "num": 215611,
+        "word": "央视调查甘肃天水古城",
+        "onboard_time": 1692572543,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214914,
+        "num": 214914,
+        "word": "带老外第一次吃海底捞",
+        "onboard_time": 1692583236,
+        "rank": 37,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 212978,
+        "num": 212978,
+        "word": "小夭的贝壳是相柳接血那个吗",
+        "onboard_time": 1692587373,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212741,
+        "num": 212741,
+        "word": "向佐记录一家四口暑假生活",
+        "onboard_time": 1692580178,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198736,
+        "num": 198736,
+        "word": "原来七夕还是小朋友的成人礼",
+        "onboard_time": 1692587496,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192376,
+        "num": 192376,
+        "word": "谁还记得秦牛正威改名了",
+        "onboard_time": 1692587496,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179526,
+        "num": 179526,
+        "word": "Angelababy白鹿赵露思虞书欣都达成钻超了",
+        "onboard_time": 1692580295,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169949,
+        "num": 169949,
+        "word": "百万播放99万是范丞丞看的",
+        "onboard_time": 1692575914,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157682,
+        "num": 157682,
+        "word": "刘耀文新歌feelme",
+        "onboard_time": 1692586293,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152676,
+        "num": 152676,
+        "word": "玱玹说赤水丰隆偷偷过双休",
+        "onboard_time": 1692582636,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148743,
+        "num": 148743,
+        "word": "四个显眼包斗舞",
+        "onboard_time": 1692581015,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147663,
+        "num": 147663,
+        "word": "和小时候很讨厌的人结婚了",
+        "onboard_time": 1692587736,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142182,
+        "num": 142182,
+        "word": "缅北诈骗人员自曝专盯单身公务员",
+        "onboard_time": 1692542803,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129478,
+        "num": 141419,
+        "word": "8月1年期LPR下调10个基点",
+        "onboard_time": 1692582216,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}

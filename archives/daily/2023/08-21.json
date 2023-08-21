@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692585231845,
+  "endTime": 1692587808282,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1008816,
+      "num": 565456,
+      "word": "张颂文 知足吧你",
+      "onboard_time": 1692586235,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 974733,
       "num": 848436,
       "word": "副局长家属连泼景区工作人员3杯热水",
@@ -129,6 +137,14 @@
       "onboard_time": 1692572964,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 888997,
+      "num": 646145,
+      "word": "身边人成为了明星",
+      "onboard_time": 1692583956,
+      "rank": 22,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 886572,
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607804,
+      "num": 406400,
+      "word": "女子称买28元河蚌疑发现红色孔克珠",
+      "onboard_time": 1692586293,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601836,
       "num": 323879,
       "word": "娜然",
@@ -227,12 +251,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 545899,
-      "num": 545899,
-      "word": "身边人成为了明星",
-      "onboard_time": 1692583956,
+      "raw_hot": 597185,
+      "num": 399328,
+      "word": "国考",
+      "onboard_time": 1692586293,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 553556,
+      "num": 553556,
+      "word": "玱玹今晚大婚",
+      "onboard_time": 1692584555,
       "rank": 22,
-      "category": "情感,艺人"
+      "category": "影视"
+    },
+    {
+      "raw_hot": 536544,
+      "num": 598127,
+      "word": "2023年国考过审人数达近260万人",
+      "onboard_time": 1692582275,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536520,
@@ -249,6 +289,14 @@
       "onboard_time": 1692540468,
       "rank": 1,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 511925,
+      "num": 511925,
+      "word": "火的是魏大勋装的是范丞丞",
+      "onboard_time": 1692586956,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 505601,
@@ -275,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 487593,
+      "num": 487593,
+      "word": "狗和猫在失重状态下的对比",
+      "onboard_time": 1692584555,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 486986,
       "num": 331201,
       "word": "花轿喜事定档8月28日",
@@ -289,14 +345,6 @@
       "onboard_time": 1692504398,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 461683,
-      "num": 461683,
-      "word": "2023年国考过审人数达近260万人",
-      "onboard_time": 1692582275,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453161,
@@ -328,6 +376,14 @@
       "word": "朝歌里的妲己和姜后",
       "onboard_time": 1692581557,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 430783,
+      "num": 430783,
+      "word": "杨紫成毅邓为檀健次肖战V榜破9",
+      "onboard_time": 1692585038,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -395,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379991,
+      "num": 579348,
+      "word": "乘客未系安全带6次弹起致骨折",
+      "onboard_time": 1692585275,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374609,
       "num": 374609,
       "word": "吃过最难吃的水果是什么",
@@ -425,6 +489,22 @@
       "onboard_time": 1692523357,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345075,
+      "num": 345075,
+      "word": "易烊千玺专辑实物",
+      "onboard_time": 1692586715,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 326886,
+      "num": 326886,
+      "word": "唐嫣刘学义被狗追出表情包",
+      "onboard_time": 1692586956,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 325583,
@@ -483,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306788,
+      "num": 306788,
+      "word": "密室大逃脱失落的城邦",
+      "onboard_time": 1692584196,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306119,
       "num": 306119,
       "word": "林俊杰听到脱掉的反应",
@@ -515,19 +603,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301971,
-      "num": 301971,
-      "word": "玱玹今晚大婚",
-      "onboard_time": 1692584555,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 301731,
       "num": 301731,
       "word": "玱玹说赤水丰隆偷偷过双休",
       "onboard_time": 1692582636,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 295308,
+      "num": 295308,
+      "word": "花轿喜事",
+      "onboard_time": 1692583895,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -603,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254251,
-      "num": 254251,
-      "word": "密室大逃脱失落的城邦",
-      "onboard_time": 1692584196,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 248072,
+      "num": 248072,
+      "word": "时代少年团或将有线上演唱会",
+      "onboard_time": 1692587315,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 247756,
@@ -627,12 +715,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 246182,
-      "num": 246182,
-      "word": "花轿喜事",
-      "onboard_time": 1692583895,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 246123,
+      "num": 246123,
+      "word": "上海亚宠展丁满被偷",
+      "onboard_time": 1692587014,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244900,
@@ -649,6 +737,14 @@
       "onboard_time": 1692581437,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236452,
+      "num": 236452,
+      "word": "这下全国人民都知道你破案快了",
+      "onboard_time": 1692587014,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234553,
@@ -691,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212978,
+      "num": 212978,
+      "word": "小夭的贝壳是相柳接血那个吗",
+      "onboard_time": 1692587373,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211747,
       "num": 211747,
       "word": "范丞丞就等着你们叫杨澄呢",
@@ -715,12 +819,12 @@
       "category": "综艺,社会新闻"
     },
     {
-      "raw_hot": 207590,
-      "num": 207590,
-      "word": "狗和猫在失重状态下的对比",
-      "onboard_time": 1692584555,
-      "rank": 33,
-      "category": "幽默,情感"
+      "raw_hot": 198736,
+      "num": 198736,
+      "word": "原来七夕还是小朋友的成人礼",
+      "onboard_time": 1692587496,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 195007,
@@ -737,6 +841,14 @@
       "onboard_time": 1692579399,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192376,
+      "num": 192376,
+      "word": "谁还记得秦牛正威改名了",
+      "onboard_time": 1692587496,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 186741,
@@ -819,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171064,
-      "num": 171064,
-      "word": "杨紫成毅邓为檀健次肖战V榜破9",
-      "onboard_time": 1692585038,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 170619,
       "num": 170619,
       "word": "那一刻青岛人的使命感爆棚",
@@ -875,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157682,
+      "num": 157682,
+      "word": "刘耀文新歌feelme",
+      "onboard_time": 1692586293,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155099,
       "num": 155099,
       "word": "张智霖新片把古天乐打晕",
@@ -905,6 +1017,14 @@
       "onboard_time": 1692566653,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147663,
+      "num": 147663,
+      "word": "和小时候很讨厌的人结婚了",
+      "onboard_time": 1692587736,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 145447,
