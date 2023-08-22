@@ -1,0 +1,410 @@
+{
+  "runTime": 1692686037487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2673668,
+        "num": 2673668,
+        "word": "缅甸高官首度回应缅北诈骗",
+        "onboard_time": 1692682660,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902787,
+        "num": 902787,
+        "word": "女子使用酒店毛巾后发现不明血迹报警",
+        "onboard_time": 1692679483,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31562,
+        "num": 730509,
+        "word": "2023金砖会晤",
+        "onboard_time": 1692676600,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2180987,
+        "num": 728549,
+        "word": "那英因身体欠佳请辞音乐节演出",
+        "onboard_time": 1692680801,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 713547,
+        "num": 713547,
+        "word": "昆明一窨井里发现两具年轻男尸",
+        "onboard_time": 1692675760,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556181,
+        "num": 556181,
+        "word": "涂山璟当爹",
+        "onboard_time": 1692683558,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553967,
+        "num": 553967,
+        "word": "胡歌 如果未来五年我不拍戏了",
+        "onboard_time": 1692659185,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399269,
+        "num": 399269,
+        "word": "孤注一掷票房是谁在扛",
+        "onboard_time": 1692676179,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345374,
+        "num": 345374,
+        "word": "A股",
+        "onboard_time": 1692670358,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 324073,
+        "num": 324073,
+        "word": "王者荣耀联动HelloKitty",
+        "onboard_time": 1692680622,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1217634,
+        "num": 321695,
+        "word": "符龙飞官宣二胎得女",
+        "onboard_time": 1692681279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1079697,
+        "num": 318726,
+        "word": "孙阳的手串 戴不完根本戴不完",
+        "onboard_time": 1692682601,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527981,
+        "num": 311044,
+        "word": "曾经唱红一首歌就消失不见的70位歌手",
+        "onboard_time": 1692684038,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268978,
+        "num": 307716,
+        "word": "亚洲象一鼻子甩出毒品2.8公斤",
+        "onboard_time": 1692664057,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134904,
+        "num": 301375,
+        "word": "24日起日本将开始核污染水排海",
+        "onboard_time": 1692669215,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424664,
+        "num": 295979,
+        "word": "迪丽热巴演我买首饰",
+        "onboard_time": 1692684703,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343559,
+        "num": 293603,
+        "word": "孙千素颜",
+        "onboard_time": 1692679124,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361549,
+        "num": 288846,
+        "word": "刘宇宁一秒八个动作没一个对的",
+        "onboard_time": 1692682905,
+        "rank": 17,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 286579,
+        "num": 286579,
+        "word": "情侣七夕熬夜排队5小时领证2分钟",
+        "onboard_time": 1692678884,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284183,
+        "num": 284183,
+        "word": "星期二没人约很正常的啦",
+        "onboard_time": 1692672458,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 655524,
+        "num": 284157,
+        "word": "茉酸奶",
+        "onboard_time": 1692681042,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 810250,
+        "num": 284115,
+        "word": "LV 李龙馥",
+        "onboard_time": 1692684578,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435969,
+        "num": 284043,
+        "word": "妈妈给娃洗澡时发病半岁宝宝不幸溺亡",
+        "onboard_time": 1692676720,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345536,
+        "num": 283980,
+        "word": "瘦了20斤才敢说的大实话",
+        "onboard_time": 1692659785,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319022,
+        "num": 283886,
+        "word": "丰隆小夭订婚",
+        "onboard_time": 1692684882,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283879,
+        "num": 283879,
+        "word": "日本核废水",
+        "onboard_time": 1692684101,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263517,
+        "num": 263517,
+        "word": "六公主在播封神榜妖灭",
+        "onboard_time": 1692673598,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262798,
+        "num": 262798,
+        "word": "徐璐官宣心动6",
+        "onboard_time": 1692682302,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262708,
+        "num": 262708,
+        "word": "妈妈偷走录取通知书阻挠女儿入学",
+        "onboard_time": 1692671195,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 260354,
+        "num": 260354,
+        "word": "奥本海默",
+        "onboard_time": 1692682905,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 652865,
+        "num": 258745,
+        "word": "除了沙溢没人愿意承认这张照片",
+        "onboard_time": 1692685418,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256295,
+        "num": 256295,
+        "word": "长相思今天更新2集",
+        "onboard_time": 1692678823,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252371,
+        "num": 252371,
+        "word": "齐思钧的发布会仅两人可见",
+        "onboard_time": 1692685780,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250681,
+        "num": 250681,
+        "word": "去完一趟新疆发现体质变了",
+        "onboard_time": 1692669215,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 236736,
+        "num": 236736,
+        "word": "天官赐福",
+        "onboard_time": 1692672936,
+        "rank": 34,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 251810,
+        "num": 235247,
+        "word": "魏大勋见证了好多节目的升起消亡",
+        "onboard_time": 1692680383,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225716,
+        "num": 225716,
+        "word": "杨紫调侃邓为说别扒拉我",
+        "onboard_time": 1692685836,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223081,
+        "num": 223081,
+        "word": "迪丽热巴在好六吃成了仓鼠",
+        "onboard_time": 1692685478,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222202,
+        "num": 222202,
+        "word": "21岁小伙和女网友吃饭被捅身亡",
+        "onboard_time": 1692670237,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214171,
+        "num": 214171,
+        "word": "他信回到泰国",
+        "onboard_time": 1692685597,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 213336,
+        "num": 213336,
+        "word": "生活中不易察觉的PUA话术",
+        "onboard_time": 1692685418,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209145,
+        "num": 209145,
+        "word": "沈腾好像刚从月子中心出来",
+        "onboard_time": 1692669277,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191171,
+        "num": 191171,
+        "word": "七夕单身的有福了",
+        "onboard_time": 1692678762,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190078,
+        "num": 190078,
+        "word": "李莲花小夭相柳角色热度榜TOP3",
+        "onboard_time": 1692681998,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181220,
+        "num": 181220,
+        "word": "商家不会看的备注信息",
+        "onboard_time": 1692684759,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180971,
+        "num": 180971,
+        "word": "韩国人为什么这么痴迷糖葫芦",
+        "onboard_time": 1692672458,
+        "rank": 45,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 176693,
+        "num": 176693,
+        "word": "虞书欣张凌赫执手海报",
+        "onboard_time": 1692678762,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169986,
+        "num": 169986,
+        "word": "新人为七夕领证凌晨5点来排队",
+        "onboard_time": 1692683080,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 145779,
+        "num": 165085,
+        "word": "茉莉奶白",
+        "onboard_time": 1692675517,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138121,
+        "num": 164854,
+        "word": "东方明珠下惊现重庆黄色法拉利",
+        "onboard_time": 1692676903,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席抵达南非约翰内斯堡#"
+    }
+  }
+}

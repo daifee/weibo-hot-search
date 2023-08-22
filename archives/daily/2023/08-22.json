@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692685257846,
+  "endTime": 1692686037487,
   "band_list": [
     {
       "raw_hot": 3372211,
@@ -19,19 +19,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2673668,
+      "num": 2673668,
+      "word": "缅甸高官首度回应缅北诈骗",
+      "onboard_time": 1692682660,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2379859,
       "num": 2379859,
       "word": "亚洲象一鼻子甩出毒品2.8公斤",
       "onboard_time": 1692664057,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2351333,
-      "num": 2351333,
-      "word": "缅甸高官首度回应缅北诈骗",
-      "onboard_time": 1692682660,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 810250,
+      "num": 315015,
+      "word": "LV 李龙馥",
+      "onboard_time": 1692684578,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 792879,
       "num": 792879,
       "word": "长相思第二季",
@@ -393,6 +401,14 @@
       "onboard_time": 1692670358,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 652865,
+      "num": 258745,
+      "word": "除了沙溢没人愿意承认这张照片",
+      "onboard_time": 1692685418,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 647683,
@@ -547,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 527981,
+      "num": 377414,
+      "word": "曾经唱红一首歌就消失不见的70位歌手",
+      "onboard_time": 1692684038,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 517015,
       "num": 517015,
       "word": "医院擅自微创转开胸手术致女童脑死亡",
@@ -635,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 463128,
-      "num": 377414,
-      "word": "曾经唱红一首歌就消失不见的70位歌手",
-      "onboard_time": 1692684038,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 461740,
       "num": 461740,
       "word": "本以为是天才 没想到是天才",
@@ -657,6 +673,14 @@
       "onboard_time": 1692680383,
       "rank": 23,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 424664,
+      "num": 331788,
+      "word": "迪丽热巴演我买首饰",
+      "onboard_time": 1692684703,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 415454,
@@ -859,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331788,
-      "num": 331788,
-      "word": "迪丽热巴演我买首饰",
-      "onboard_time": 1692684703,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329755,
       "num": 329755,
       "word": "毛雪汪集体掀桌 打工人嘴替之光",
@@ -907,12 +923,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 315015,
-      "num": 315015,
-      "word": "LV 李龙馥",
-      "onboard_time": 1692684578,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 319022,
+      "num": 283886,
+      "word": "丰隆小夭订婚",
+      "onboard_time": 1692684882,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 314445,
@@ -1035,20 +1051,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283879,
+      "num": 283879,
+      "word": "日本核废水",
+      "onboard_time": 1692684101,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281977,
       "num": 280480,
       "word": "七夕前一天被喜欢的人表白了",
       "onboard_time": 1692666576,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 281146,
-      "num": 281146,
-      "word": "日本核废水",
-      "onboard_time": 1692684101,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277812,
@@ -1147,12 +1163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248180,
-      "num": 248180,
-      "word": "丰隆小夭订婚",
-      "onboard_time": 1692684882,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 252371,
+      "num": 252371,
+      "word": "齐思钧的发布会仅两人可见",
+      "onboard_time": 1692685780,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 242494,
@@ -1243,12 +1259,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225716,
+      "num": 225716,
+      "word": "杨紫调侃邓为说别扒拉我",
+      "onboard_time": 1692685836,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225631,
       "num": 225631,
       "word": "世界上唯一拥有3个首都的国家",
       "onboard_time": 1692616713,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223081,
+      "num": 223081,
+      "word": "迪丽热巴在好六吃成了仓鼠",
+      "onboard_time": 1692685478,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 221333,
@@ -1296,6 +1328,22 @@
       "word": "谭松韵被闫妮一句话演哭了",
       "onboard_time": 1692631957,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214171,
+      "num": 214171,
+      "word": "他信回到泰国",
+      "onboard_time": 1692685597,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 213336,
+      "num": 213336,
+      "word": "生活中不易察觉的PUA话术",
+      "onboard_time": 1692685418,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1515,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181220,
+      "num": 187327,
+      "word": "商家不会看的备注信息",
+      "onboard_time": 1692684759,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171438,
       "num": 187335,
       "word": "石凯巡演广州站官宣",
@@ -1545,14 +1601,6 @@
       "onboard_time": 1692636808,
       "rank": 22,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 167235,
-      "num": 187327,
-      "word": "商家不会看的备注信息",
-      "onboard_time": 1692684759,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 162880,

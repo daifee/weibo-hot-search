@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692685257846,
+  "endTime": 1692686037487,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2673668,
+      "num": 2673668,
+      "word": "缅甸高官首度回应缅北诈骗",
+      "onboard_time": 1692682660,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2573335,
       "num": 2573335,
       "word": "安慕希回应主播不当言论",
@@ -72,14 +80,6 @@
       "word": "亚洲象一鼻子甩出毒品2.8公斤",
       "onboard_time": 1692664057,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2351333,
-      "num": 2351333,
-      "word": "缅甸高官首度回应缅北诈骗",
-      "onboard_time": 1692682660,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -763,6 +763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 810250,
+      "num": 315015,
+      "word": "LV 李龙馥",
+      "onboard_time": 1692684578,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804980,
       "num": 804980,
       "word": "你可以嫁给爱情 也可以嫁给友情",
@@ -1043,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 652865,
+      "num": 258745,
+      "word": "除了沙溢没人愿意承认这张照片",
+      "onboard_time": 1692685418,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 647683,
       "num": 647683,
       "word": "女孩养2500多条蚕做百家被给姐姐当嫁妆",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1692678823,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 527981,
+      "num": 377414,
+      "word": "曾经唱红一首歌就消失不见的70位歌手",
+      "onboard_time": 1692684038,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 523741,
@@ -1531,14 +1555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 463128,
-      "num": 377414,
-      "word": "曾经唱红一首歌就消失不见的70位歌手",
-      "onboard_time": 1692684038,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 462349,
       "num": 366060,
       "word": "娜然于适双人封面",
@@ -1705,6 +1721,14 @@
       "onboard_time": 1692582216,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 424664,
+      "num": 331788,
+      "word": "迪丽热巴演我买首饰",
+      "onboard_time": 1692684703,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 423903,
@@ -2091,14 +2115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331788,
-      "num": 331788,
-      "word": "迪丽热巴演我买首饰",
-      "onboard_time": 1692684703,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 330348,
       "num": 276883,
       "word": "无毛猫和布偶猫的日常",
@@ -2211,6 +2227,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 319022,
+      "num": 283886,
+      "word": "丰隆小夭订婚",
+      "onboard_time": 1692684882,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318578,
       "num": 318578,
       "word": "Angelababy白鹿赵露思虞书欣都达成钻超了",
@@ -2233,14 +2257,6 @@
       "onboard_time": 1692578139,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315015,
-      "num": 315015,
-      "word": "LV 李龙馥",
-      "onboard_time": 1692684578,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 314472,
@@ -2531,6 +2547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283879,
+      "num": 283879,
+      "word": "日本核废水",
+      "onboard_time": 1692684101,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283799,
       "num": 283799,
       "word": "伍佰演唱会",
@@ -2561,14 +2585,6 @@
       "onboard_time": 1692627521,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 281146,
-      "num": 281146,
-      "word": "日本核废水",
-      "onboard_time": 1692684101,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281126,
@@ -2819,12 +2835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248180,
-      "num": 248180,
-      "word": "丰隆小夭订婚",
-      "onboard_time": 1692684882,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 252371,
+      "num": 252371,
+      "word": "齐思钧的发布会仅两人可见",
+      "onboard_time": 1692685780,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 247756,
@@ -3043,12 +3059,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225716,
+      "num": 225716,
+      "word": "杨紫调侃邓为说别扒拉我",
+      "onboard_time": 1692685836,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223286,
       "num": 223286,
       "word": "无人瓜摊半个月收款2万凌晨还有人打钱",
       "onboard_time": 1692532235,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223081,
+      "num": 223081,
+      "word": "迪丽热巴在好六吃成了仓鼠",
+      "onboard_time": 1692685478,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 222159,
@@ -3139,12 +3171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214171,
+      "num": 214171,
+      "word": "他信回到泰国",
+      "onboard_time": 1692685597,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 213835,
       "num": 213835,
       "word": "男子随手一个动作把自己家烧了",
       "onboard_time": 1692602677,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213336,
+      "num": 213336,
+      "word": "生活中不易察觉的PUA话术",
+      "onboard_time": 1692685418,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 212684,
@@ -3603,6 +3651,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 181220,
+      "num": 187327,
+      "word": "商家不会看的备注信息",
+      "onboard_time": 1692684759,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180712,
       "num": 180712,
       "word": "安徽的省会是哪个城市",
@@ -3745,14 +3801,6 @@
       "onboard_time": 1692573566,
       "rank": 46,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 167235,
-      "num": 187327,
-      "word": "商家不会看的备注信息",
-      "onboard_time": 1692684759,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 165650,
