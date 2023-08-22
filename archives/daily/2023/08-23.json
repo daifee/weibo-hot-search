@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692729252327,
+  "endTime": 1692731591705,
   "band_list": [
     {
       "raw_hot": 1901324,
@@ -521,6 +521,14 @@
       "onboard_time": 1692728118,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 26675,
+      "num": 42819,
+      "word": "官方回应少年目睹爷爷被殴打后投河身亡",
+      "onboard_time": 1692729078,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18399,
