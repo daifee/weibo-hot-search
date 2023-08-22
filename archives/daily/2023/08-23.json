@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692724497281,
+  "endTime": 1692725637937,
   "band_list": [
     {
       "raw_hot": 1901324,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 932505,
-      "num": 932505,
+      "raw_hot": 958075,
+      "num": 958075,
       "word": "百万网红被闺蜜骗至东南亚生死未卜",
       "onboard_time": 1692721473,
       "rank": 19,
@@ -115,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 558942,
-      "num": 558942,
+      "raw_hot": 564612,
+      "num": 564612,
       "word": "老默新剧依然卖鱼",
       "onboard_time": 1692720755,
       "rank": 36,
@@ -451,6 +451,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 88633,
+      "num": 107145,
+      "word": "面对上海高级餐厅我仿佛成了文盲",
+      "onboard_time": 1692722311,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 88427,
+      "num": 95824,
+      "word": "王源新歌要来了吗",
+      "onboard_time": 1692725483,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 83861,
       "num": 165847,
       "word": "中国男篮",
@@ -459,15 +475,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61093,
-      "num": 107145,
-      "word": "面对上海高级餐厅我仿佛成了文盲",
-      "onboard_time": 1692722311,
+      "raw_hot": 51052,
+      "num": 95421,
+      "word": "赛博织女们更应该过乞巧节",
+      "onboard_time": 1692724944,
       "rank": 48,
-      "category": "美食"
+      "category": "情感"
     },
     {
-      "raw_hot": 12637,
+      "raw_hot": 18399,
       "num": 567956,
       "word": "金砖国家形象网宣片",
       "onboard_time": 1692709178,
