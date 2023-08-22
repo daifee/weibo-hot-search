@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692717437779,
+  "endTime": 1692718455731,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -4827,6 +4827,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1412959,
+      "num": 310344,
+      "word": "萧敬腾未婚妻七夕发长文",
+      "onboard_time": 1692716990,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1409334,
       "num": 755281,
       "word": "迪丽热巴说到底是谁在跟我抢票",
@@ -6364,7 +6372,7 @@
     },
     {
       "raw_hot": 1195742,
-      "num": 450115,
+      "num": 466637,
       "word": "王鹤棣卸了什么",
       "onboard_time": 1692715669,
       "rank": 12,
@@ -9137,6 +9145,14 @@
       "onboard_time": 1691230597,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 937064,
+      "num": 307547,
+      "word": "17岁少年目睹爷爷被人殴打后投河身亡",
+      "onboard_time": 1692716866,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 936442,
@@ -12777,6 +12793,14 @@
       "onboard_time": 1691212417,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 739837,
+      "num": 451889,
+      "word": "邓为工作室是知道我们想看什么的",
+      "onboard_time": 1692716928,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 738824,
@@ -18963,6 +18987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546409,
+      "num": 546409,
+      "word": "山航飞机狗狗祟祟出发了",
+      "onboard_time": 1692716631,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 545944,
       "num": 545944,
       "word": "丁禹兮知道王彦霖有孩子的反应",
@@ -20531,6 +20563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 509868,
+      "num": 509868,
+      "word": "刘彰巡演回应",
+      "onboard_time": 1692716569,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 509822,
       "num": 470255,
       "word": "老公执意要在门上面做柜子",
@@ -21673,14 +21713,6 @@
       "onboard_time": 1691241885,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 486593,
-      "num": 228223,
-      "word": "萧敬腾未婚妻七夕发长文",
-      "onboard_time": 1692716990,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 486453,
@@ -23931,6 +23963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445067,
+      "num": 248361,
+      "word": "警校生和军校生的婚后生活",
+      "onboard_time": 1692716269,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 445019,
       "num": 347750,
       "word": "这个间距很难说不是P的",
@@ -26049,14 +26089,6 @@
       "onboard_time": 1692458078,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407887,
-      "num": 407887,
-      "word": "刘彰巡演回应",
-      "onboard_time": 1692716569,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 407690,
@@ -29139,14 +29171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363072,
-      "num": 224983,
-      "word": "警校生和军校生的婚后生活",
-      "onboard_time": 1692716269,
-      "rank": 32,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 362857,
       "num": 362857,
       "word": "张晚意柳舟记出妆",
@@ -29177,14 +29201,6 @@
       "onboard_time": 1691398419,
       "rank": 28,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 362420,
-      "num": 224076,
-      "word": "17岁少年目睹爷爷被人殴打后投河身亡",
-      "onboard_time": 1692716866,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362389,
@@ -29241,6 +29257,14 @@
       "onboard_time": 1691798371,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 361045,
+      "num": 313512,
+      "word": "陈都灵跳queencard手忙脚乱",
+      "onboard_time": 1692716449,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 360965,
@@ -31307,14 +31331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331822,
-      "num": 313512,
-      "word": "陈都灵跳queencard手忙脚乱",
-      "onboard_time": 1692716449,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331376,
       "num": 331376,
       "word": "丫丫生日坐在竹子上干饭",
@@ -31587,6 +31603,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 327111,
+      "num": 296747,
+      "word": "李莲花 唯负少师剑",
+      "onboard_time": 1692717230,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326986,
       "num": 297916,
       "word": "工作后突然觉得爸妈好厉害",
@@ -31841,14 +31865,6 @@
       "onboard_time": 1690985257,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 324391,
-      "num": 324391,
-      "word": "山航飞机狗狗祟祟出发了",
-      "onboard_time": 1692716631,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 324372,
@@ -32233,14 +32249,6 @@
       "onboard_time": 1691214934,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 320283,
-      "num": 310291,
-      "word": "邓为工作室是知道我们想看什么的",
-      "onboard_time": 1692716928,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 320136,
@@ -38939,6 +38947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 253501,
+      "num": 253501,
+      "word": "黄子恐怖的e人",
+      "onboard_time": 1692717948,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253375,
       "num": 253375,
       "word": "张子枫脏脏包造型",
@@ -39995,6 +40011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243336,
+      "num": 243336,
+      "word": "SEVENTEEN日专",
+      "onboard_time": 1692718007,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 243238,
       "num": 243238,
       "word": "专家解读7月猴痘病例突增原因",
@@ -40880,6 +40904,14 @@
       "word": "邓为cos狐狸跳女团舞",
       "onboard_time": 1690797453,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 236008,
+      "num": 236008,
+      "word": "燃冬 刺杀丘比特",
+      "onboard_time": 1692717588,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -42433,6 +42465,14 @@
       "onboard_time": 1692541127,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222895,
+      "num": 222895,
+      "word": "檀健次粉丝七夕吃挺好",
+      "onboard_time": 1692717588,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 222812,
@@ -44859,6 +44899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207692,
+      "num": 207692,
+      "word": "于适风度封面预告",
+      "onboard_time": 1692718185,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207536,
       "num": 249549,
       "word": "王鹤棣港风隧道大片",
@@ -45041,14 +45089,6 @@
       "onboard_time": 1691151213,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206292,
-      "num": 206292,
-      "word": "李莲花 唯负少师剑",
-      "onboard_time": 1692717230,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 206243,
@@ -45769,6 +45809,14 @@
       "onboard_time": 1692171760,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203141,
+      "num": 203141,
+      "word": "姬发殷郊 趴在背上搂着腰",
+      "onboard_time": 1692718423,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 203129,
@@ -47945,6 +47993,14 @@
       "onboard_time": 1692148656,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193787,
+      "num": 193787,
+      "word": "暑期档的优质电影",
+      "onboard_time": 1692717824,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 193777,

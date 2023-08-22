@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692717437779,
+  "endTime": 1692718455731,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1412959,
+      "num": 310344,
+      "word": "萧敬腾未婚妻七夕发长文",
+      "onboard_time": 1692716990,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1394269,
       "num": 1394269,
       "word": "茉莉奶白",
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 1195742,
-      "num": 450115,
+      "num": 466637,
       "word": "王鹤棣卸了什么",
       "onboard_time": 1692715669,
       "rank": 12,
@@ -785,6 +793,14 @@
       "onboard_time": 1692614494,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 937064,
+      "num": 307547,
+      "word": "17岁少年目睹爷爷被人殴打后投河身亡",
+      "onboard_time": 1692716866,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 931989,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1692612216,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739837,
+      "num": 451889,
+      "word": "邓为工作室是知道我们想看什么的",
+      "onboard_time": 1692716928,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 738467,
@@ -1611,6 +1635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 546409,
+      "num": 546409,
+      "word": "山航飞机狗狗祟祟出发了",
+      "onboard_time": 1692716631,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 545229,
       "num": 377414,
       "word": "曾经唱红一首歌就消失不见的70位歌手",
@@ -1747,6 +1779,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 509868,
+      "num": 509868,
+      "word": "刘彰巡演回应",
+      "onboard_time": 1692716569,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 505601,
       "num": 505601,
       "word": "金晨白举纲私联",
@@ -1881,14 +1921,6 @@
       "onboard_time": 1692583413,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 486593,
-      "num": 228223,
-      "word": "萧敬腾未婚妻七夕发长文",
-      "onboard_time": 1692716990,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 486453,
@@ -2155,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445067,
+      "num": 248361,
+      "word": "警校生和军校生的婚后生活",
+      "onboard_time": 1692716269,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 444268,
       "num": 358976,
       "word": "广州地铁限定玩手机姿势",
@@ -2313,14 +2353,6 @@
       "onboard_time": 1692574830,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 407887,
-      "num": 407887,
-      "word": "刘彰巡演回应",
-      "onboard_time": 1692716569,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 407142,
@@ -2587,20 +2619,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 363072,
-      "num": 224983,
-      "word": "警校生和军校生的婚后生活",
-      "onboard_time": 1692716269,
-      "rank": 32,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 362420,
-      "num": 224076,
-      "word": "17岁少年目睹爷爷被人殴打后投河身亡",
-      "onboard_time": 1692716866,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 361045,
+      "num": 313512,
+      "word": "陈都灵跳queencard手忙脚乱",
+      "onboard_time": 1692716449,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 359908,
@@ -2803,14 +2827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331822,
-      "num": 313512,
-      "word": "陈都灵跳queencard手忙脚乱",
-      "onboard_time": 1692716449,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330348,
       "num": 276883,
       "word": "无毛猫和布偶猫的日常",
@@ -2849,6 +2865,14 @@
       "onboard_time": 1692614616,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327111,
+      "num": 296747,
+      "word": "李莲花 唯负少师剑",
+      "onboard_time": 1692717230,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 326940,
@@ -2899,14 +2923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 324391,
-      "num": 324391,
-      "word": "山航飞机狗狗祟祟出发了",
-      "onboard_time": 1692716631,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 324324,
       "num": 324324,
       "word": "请把吉克隽逸焊死在舞台上",
@@ -2953,14 +2969,6 @@
       "onboard_time": 1692591281,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 320283,
-      "num": 310291,
-      "word": "邓为工作室是知道我们想看什么的",
-      "onboard_time": 1692716928,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 319762,
@@ -3707,6 +3715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253501,
+      "num": 253501,
+      "word": "黄子恐怖的e人",
+      "onboard_time": 1692717948,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247756,
       "num": 350589,
       "word": "去外省上大学的新生开始慌了",
@@ -3776,6 +3792,14 @@
       "word": "石凯k计划巡演",
       "onboard_time": 1692594342,
       "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 243336,
+      "num": 243336,
+      "word": "SEVENTEEN日专",
+      "onboard_time": 1692718007,
+      "rank": 31,
       "category": "音乐"
     },
     {
@@ -3849,6 +3873,14 @@
       "onboard_time": 1692690226,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236008,
+      "num": 236008,
+      "word": "燃冬 刺杀丘比特",
+      "onboard_time": 1692717588,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 235970,
@@ -3961,6 +3993,14 @@
       "onboard_time": 1692532235,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222895,
+      "num": 222895,
+      "word": "檀健次粉丝七夕吃挺好",
+      "onboard_time": 1692717588,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 222159,
@@ -4235,6 +4275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207692,
+      "num": 207692,
+      "word": "于适风度封面预告",
+      "onboard_time": 1692718185,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207319,
       "num": 207319,
       "word": "李莲花是原声李相夷是配音",
@@ -4257,14 +4305,6 @@
       "onboard_time": 1692599557,
       "rank": 46,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 206292,
-      "num": 206292,
-      "word": "李莲花 唯负少师剑",
-      "onboard_time": 1692717230,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 205052,
@@ -4321,6 +4361,14 @@
       "onboard_time": 1692704494,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203141,
+      "num": 203141,
+      "word": "姬发殷郊 趴在背上搂着腰",
+      "onboard_time": 1692718423,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 203099,
@@ -4561,6 +4609,14 @@
       "onboard_time": 1692669575,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193787,
+      "num": 193787,
+      "word": "暑期档的优质电影",
+      "onboard_time": 1692717824,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 192962,
