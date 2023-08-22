@@ -1,10 +1,10 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692688505736,
+  "endTime": 1692689640101,
   "band_list": [
     {
-      "raw_hot": 4389012,
-      "num": 4389012,
+      "raw_hot": 7558428,
+      "num": 7558428,
       "word": "天津着火",
       "onboard_time": 1692686677,
       "rank": 0,
@@ -43,20 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2333298,
+      "num": 2333298,
+      "word": "陕西煤矿瓦斯爆炸已致7死",
+      "onboard_time": 1692687101,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2225209,
+      "num": 2225209,
+      "word": "除了沙溢没人愿意承认这张照片",
+      "onboard_time": 1692685418,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2186761,
       "num": 2186761,
       "word": "星期二没人约很正常的啦",
       "onboard_time": 1692672458,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2175105,
-      "num": 2175105,
-      "word": "除了沙溢没人愿意承认这张照片",
-      "onboard_time": 1692685418,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2155908,
@@ -99,14 +107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1656229,
-      "num": 1656229,
-      "word": "陕西煤矿瓦斯爆炸已致7死",
-      "onboard_time": 1692687101,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1598024,
       "num": 1598024,
       "word": "多个孩子被中介2万一个带到缅甸",
@@ -145,6 +145,14 @@
       "onboard_time": 1692669215,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1419419,
+      "num": 1419419,
+      "word": "胡歌留学事件",
+      "onboard_time": 1692688719,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1414285,
@@ -363,6 +371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 729366,
+      "num": 299711,
+      "word": "天津市一栋大厦发生火情",
+      "onboard_time": 1692689205,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728298,
       "num": 728298,
       "word": "迪丽热巴给刘宇宁递酸奶疙瘩",
@@ -579,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536667,
+      "num": 297840,
+      "word": "胡歌粉丝大起大落的一天",
+      "onboard_time": 1692686797,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 529830,
       "num": 529830,
       "word": "长相思今天更新2集",
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 498608,
-      "num": 289622,
+      "num": 294508,
       "word": "女子吸有毒电子烟被抓想不起名字",
       "onboard_time": 1692686738,
       "rank": 20,
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 488065,
-      "num": 288535,
+      "num": 291511,
       "word": "赵丽颖问是过七夕还是七多",
       "onboard_time": 1692686198,
       "rank": 21,
@@ -707,6 +731,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 447352,
+      "num": 295746,
+      "word": "肖战工作室发了18宫格",
+      "onboard_time": 1692689084,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424664,
       "num": 331788,
       "word": "迪丽热巴演我买首饰",
@@ -729,14 +761,6 @@
       "onboard_time": 1692677441,
       "rank": 46,
       "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 414522,
-      "num": 286451,
-      "word": "胡歌粉丝大起大落的一天",
-      "onboard_time": 1692686797,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 413216,
@@ -899,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357425,
+      "num": 292497,
+      "word": "Angelababy亲出声了",
+      "onboard_time": 1692689025,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352663,
       "num": 352663,
       "word": "蝉女",
@@ -953,6 +985,14 @@
       "onboard_time": 1692681105,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328293,
+      "num": 289879,
+      "word": "原来发型真的这么重要啊",
+      "onboard_time": 1692687879,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 328233,
@@ -1147,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276533,
+      "num": 275222,
+      "word": "陈晓送陈妍希的七夕礼物",
+      "onboard_time": 1692689385,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272477,
       "num": 272477,
       "word": "王鹤棣坐树下梦回东方青苍",
@@ -1249,14 +1297,6 @@
       "onboard_time": 1692680204,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251673,
-      "num": 251673,
-      "word": "原来发型真的这么重要啊",
-      "onboard_time": 1692687879,
-      "rank": 31,
-      "category": "美妆"
     },
     {
       "raw_hot": 244532,
@@ -1419,6 +1459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212474,
+      "num": 227241,
+      "word": "七夕这么会过不要命啦",
+      "onboard_time": 1692689446,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211863,
       "num": 211863,
       "word": "篮球运动员撞脸利路修",
@@ -1451,12 +1499,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 207780,
+      "num": 206385,
+      "word": "小夭嘴好毒",
+      "onboard_time": 1692688601,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207319,
       "num": 207319,
       "word": "李莲花是原声李相夷是配音",
       "onboard_time": 1692662496,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207103,
+      "num": 207103,
+      "word": "代号鸢七夕限定情侣头像",
+      "onboard_time": 1692688965,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 205471,
+      "num": 205471,
+      "word": "邓为七夕营业",
+      "onboard_time": 1692689446,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 204965,
@@ -1497,6 +1569,14 @@
       "onboard_time": 1692669997,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 201601,
+      "num": 201601,
+      "word": "如果大家都记得 它就不会在人类星球消失",
+      "onboard_time": 1692689385,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 201226,
@@ -1555,6 +1635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195688,
+      "num": 195688,
+      "word": "萧敬腾林有慧公开恋情后首封",
+      "onboard_time": 1692689624,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 194387,
       "num": 194387,
       "word": "爸爸让我的妈妈多陪我30年",
@@ -1593,6 +1681,14 @@
       "onboard_time": 1692674079,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191406,
+      "num": 191406,
+      "word": "家有儿女的隐藏cp",
+      "onboard_time": 1692689567,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 189314,
@@ -1811,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99976,
+      "num": 301932,
+      "word": "这可能是最硬核的七夕鹊桥",
+      "onboard_time": 1692687637,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97929,
       "num": 97929,
       "word": "自爱才是人生的开始",
@@ -1828,7 +1932,7 @@
     },
     {
       "raw_hot": 59479,
-      "num": 2190619,
+      "num": 2240634,
       "word": "2023金砖会晤",
       "onboard_time": 1692676600,
       "rank": 2,
@@ -1849,14 +1953,6 @@
       "onboard_time": 1692646155,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40280,
-      "num": 301932,
-      "word": "这可能是最硬核的七夕鹊桥",
-      "onboard_time": 1692687637,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39423,
