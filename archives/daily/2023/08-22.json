@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692667784697,
+  "endTime": 1692669729660,
   "band_list": [
     {
       "raw_hot": 3372211,
@@ -27,20 +27,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1926115,
+      "num": 1926115,
+      "word": "莫斯科所有机场禁止进出航班",
+      "onboard_time": 1692665380,
+      "rank": 4,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1834347,
+      "num": 1834347,
+      "word": "对象能不能处看了学爸就知道",
+      "onboard_time": 1692665080,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1598024,
       "num": 1598024,
       "word": "多个孩子被中介2万一个带到缅甸",
       "onboard_time": 1692658943,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1587982,
-      "num": 1587982,
-      "word": "莫斯科所有机场禁止进出航班",
-      "onboard_time": 1692665380,
-      "rank": 4,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1587027,
@@ -65,14 +73,6 @@
       "onboard_time": 1692626918,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1258233,
-      "num": 712013,
-      "word": "对象能不能处看了学爸就知道",
-      "onboard_time": 1692665080,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1223964,
@@ -121,6 +121,14 @@
       "onboard_time": 1692660689,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 788966,
+      "num": 788966,
+      "word": "北方人真的不吃挂面吗",
+      "onboard_time": 1692666519,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 728298,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510083,
+      "num": 510083,
+      "word": "24日起日本将开始核污染水排海",
+      "onboard_time": 1692669215,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501683,
       "num": 501683,
       "word": "邓为能扛男一吗",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 501220,
-      "num": 412328,
+      "num": 474484,
       "word": "医院擅自微创转开胸手术致女童脑死亡",
       "onboard_time": 1692665677,
       "rank": 30,
@@ -257,6 +273,14 @@
       "onboard_time": 1692664540,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 486524,
+      "num": 486524,
+      "word": "沈腾说这集播出时魏大勋都过气了",
+      "onboard_time": 1692666639,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 486453,
@@ -273,6 +297,14 @@
       "onboard_time": 1692660930,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 468966,
+      "num": 351679,
+      "word": "美国敦促公民尽快离开白俄罗斯",
+      "onboard_time": 1692667718,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 461740,
@@ -331,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 382264,
+      "num": 382264,
+      "word": "孤注一掷进入中国影史票房TOP20",
+      "onboard_time": 1692667718,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 374895,
       "num": 374895,
       "word": "易烊千玺分享17年的自己",
@@ -363,11 +403,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 354507,
-      "num": 354507,
-      "word": "沈腾说这集播出时魏大勋都过气了",
-      "onboard_time": 1692666639,
-      "rank": 26,
+      "raw_hot": 358206,
+      "num": 351417,
+      "word": "沈腾好像刚从月子中心出来",
+      "onboard_time": 1692669277,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -379,12 +419,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339924,
-      "num": 339924,
-      "word": "北方人真的不吃挂面吗",
-      "onboard_time": 1692666519,
-      "rank": 44,
-      "category": "美食"
+      "raw_hot": 350951,
+      "num": 350951,
+      "word": "魏大勋爆火前后的站位",
+      "onboard_time": 1692668916,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 348484,
+      "num": 348484,
+      "word": "相差1岁多兄妹在爷爷肩头争宠",
+      "onboard_time": 1692668556,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335795,
@@ -393,6 +441,14 @@
       "onboard_time": 1692626862,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 331084,
+      "num": 331084,
+      "word": "去完一趟新疆发现体质变了",
+      "onboard_time": 1692669215,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 321641,
@@ -419,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295547,
+      "num": 295547,
+      "word": "与檀健次共度七夕",
+      "onboard_time": 1692669095,
+      "rank": 27,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 285742,
       "num": 285742,
       "word": "姚晨说羡慕黄晓明能请来这么多大导演",
@@ -443,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281977,
+      "num": 280480,
+      "word": "七夕前一天被喜欢的人表白了",
+      "onboard_time": 1692666576,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277812,
       "num": 277812,
       "word": "Uzi连麦张伟丽",
@@ -457,14 +529,6 @@
       "onboard_time": 1692666338,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 274002,
-      "num": 274002,
-      "word": "七夕前一天被喜欢的人表白了",
-      "onboard_time": 1692666576,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 272477,
@@ -497,6 +561,14 @@
       "onboard_time": 1692619776,
       "rank": 25,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 255302,
+      "num": 255302,
+      "word": "一闪一闪亮星星",
+      "onboard_time": 1692669277,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 242494,
@@ -587,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221333,
+      "num": 221333,
+      "word": "小夭重回西炎疯狂输出",
+      "onboard_time": 1692668676,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219476,
       "num": 219476,
       "word": "路遇老人心梗晕倒他没走开也没旁观",
@@ -619,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211863,
+      "num": 211863,
+      "word": "篮球运动员撞脸利路修",
+      "onboard_time": 1692668800,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211080,
       "num": 211080,
       "word": "容错率高的家庭有多幸福",
@@ -631,6 +719,22 @@
       "num": 207319,
       "word": "李莲花是原声李相夷是配音",
       "onboard_time": 1692662496,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204190,
+      "num": 204190,
+      "word": "彭昱畅周也新片首搭",
+      "onboard_time": 1692668499,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 203099,
+      "num": 203099,
+      "word": "电影一闪一闪亮星星跨年见",
+      "onboard_time": 1692669277,
       "rank": 45,
       "category": "影视"
     },
@@ -659,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199684,
+      "num": 199684,
+      "word": "王阳回应与李兰迪演情侣",
+      "onboard_time": 1692669633,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199545,
       "num": 199545,
       "word": "粥和稀饭到底有啥区别",
@@ -683,6 +795,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 193840,
+      "num": 193840,
+      "word": "恋与制作人电话",
+      "onboard_time": 1692669575,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189314,
       "num": 189314,
       "word": "蒋欣又瘦了好多",
@@ -691,18 +811,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187842,
-      "num": 187842,
-      "word": "孤注一掷进入中国影史票房TOP20",
-      "onboard_time": 1692667718,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 187773,
-      "num": 187773,
-      "word": "美国敦促公民尽快离开白俄罗斯",
-      "onboard_time": 1692667718,
+      "raw_hot": 187213,
+      "num": 192391,
+      "word": "北京大兴出现一只一米长巨型蜥蜴",
+      "onboard_time": 1692669633,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -908,7 +1020,7 @@
     },
     {
       "raw_hot": 32734,
-      "num": 1850792,
+      "num": 1931944,
       "word": "2023金砖峰会先导片",
       "onboard_time": 1692626019,
       "rank": 2,

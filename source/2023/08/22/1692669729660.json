@@ -1,0 +1,410 @@
+{
+  "runTime": 1692669729660,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2461862,
+        "num": 2461862,
+        "word": "胡歌 如果未来五年我不拍戏了",
+        "onboard_time": 1692659185,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1942375,
+        "num": 1942375,
+        "word": "亚洲象一鼻子甩出毒品2.8公斤",
+        "onboard_time": 1692664057,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21418,
+        "num": 1931944,
+        "word": "2023金砖峰会先导片",
+        "onboard_time": 1692626019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1926115,
+        "num": 1926115,
+        "word": "莫斯科所有机场禁止进出航班",
+        "onboard_time": 1692665380,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1834347,
+        "num": 1834347,
+        "word": "对象能不能处看了学爸就知道",
+        "onboard_time": 1692665080,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 788966,
+        "num": 788966,
+        "word": "北方人真的不吃挂面吗",
+        "onboard_time": 1692666519,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 765149,
+        "num": 765149,
+        "word": "林俊杰晒了Angelababy照片",
+        "onboard_time": 1692660328,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 668159,
+        "num": 668159,
+        "word": "iPhone换C口 安卓不通用",
+        "onboard_time": 1692634054,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 585940,
+        "num": 585940,
+        "word": "骄阳似我",
+        "onboard_time": 1692665321,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562683,
+        "num": 562683,
+        "word": "长相思第二季",
+        "onboard_time": 1692660689,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 612941,
+        "num": 561995,
+        "word": "多个孩子被中介2万一个带到缅甸",
+        "onboard_time": 1692658943,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549091,
+        "num": 549091,
+        "word": "让领导失去沟通欲望的头像",
+        "onboard_time": 1692663698,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 510083,
+        "num": 510083,
+        "word": "24日起日本将开始核污染水排海",
+        "onboard_time": 1692669215,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486524,
+        "num": 486524,
+        "word": "沈腾说这集播出时魏大勋都过气了",
+        "onboard_time": 1692666639,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474484,
+        "num": 474484,
+        "word": "医院擅自微创转开胸手术致女童脑死亡",
+        "onboard_time": 1692665677,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466445,
+        "num": 466445,
+        "word": "金晨体重不到100斤",
+        "onboard_time": 1692664360,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437424,
+        "num": 437424,
+        "word": "魏大勋去年用孟宴臣身份过的七夕",
+        "onboard_time": 1692664540,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382264,
+        "num": 382264,
+        "word": "孤注一掷进入中国影史票房TOP20",
+        "onboard_time": 1692667718,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363451,
+        "num": 363451,
+        "word": "有人自林中坠落",
+        "onboard_time": 1692632616,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352321,
+        "num": 352321,
+        "word": "七夕快乐",
+        "onboard_time": 1692659665,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 804668,
+        "num": 351890,
+        "word": "瘦了20斤才敢说的大实话",
+        "onboard_time": 1692659785,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 468966,
+        "num": 351679,
+        "word": "美国敦促公民尽快离开白俄罗斯",
+        "onboard_time": 1692667718,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358206,
+        "num": 351417,
+        "word": "沈腾好像刚从月子中心出来",
+        "onboard_time": 1692669277,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350951,
+        "num": 350951,
+        "word": "魏大勋爆火前后的站位",
+        "onboard_time": 1692668916,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348484,
+        "num": 348484,
+        "word": "相差1岁多兄妹在爷爷肩头争宠",
+        "onboard_time": 1692668556,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331889,
+        "num": 331889,
+        "word": "文韬",
+        "onboard_time": 1692662677,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331084,
+        "num": 331084,
+        "word": "去完一趟新疆发现体质变了",
+        "onboard_time": 1692669215,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 295547,
+        "num": 295547,
+        "word": "与檀健次共度七夕",
+        "onboard_time": 1692669095,
+        "rank": 27,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 280830,
+        "num": 280830,
+        "word": "孟宴臣火之前在乎他的只有魏大勋",
+        "onboard_time": 1692660027,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281977,
+        "num": 280480,
+        "word": "七夕前一天被喜欢的人表白了",
+        "onboard_time": 1692666576,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278811,
+        "num": 278811,
+        "word": "被体重90斤同事的饭量惊呆了",
+        "onboard_time": 1692660990,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271477,
+        "num": 271477,
+        "word": "邓为能扛男一吗",
+        "onboard_time": 1692660628,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268728,
+        "num": 268728,
+        "word": "七夕",
+        "onboard_time": 1692632317,
+        "rank": 32,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 265543,
+        "num": 265543,
+        "word": "王者荣耀",
+        "onboard_time": 1692666039,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262459,
+        "num": 262459,
+        "word": "看到凸起的那一刻我小脑萎缩了",
+        "onboard_time": 1692630761,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 255302,
+        "num": 255302,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1692669277,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250207,
+        "num": 250207,
+        "word": "女孩养2500多条蚕做百家被给姐姐当嫁妆",
+        "onboard_time": 1692661714,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248813,
+        "num": 248813,
+        "word": "本以为是天才 没想到是天才",
+        "onboard_time": 1692662074,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242444,
+        "num": 242444,
+        "word": "迪丽热巴给刘宇宁递酸奶疙瘩",
+        "onboard_time": 1692661169,
+        "rank": 38,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 240820,
+        "num": 240820,
+        "word": "白皮书认证BLACKPINK四代登顶女团",
+        "onboard_time": 1692661473,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224482,
+        "num": 224482,
+        "word": "我有一个考不上高中的妹妹",
+        "onboard_time": 1692662977,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221333,
+        "num": 221333,
+        "word": "小夭重回西炎疯狂输出",
+        "onboard_time": 1692668676,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218087,
+        "num": 218087,
+        "word": "缅北诈骗为何屡禁不止",
+        "onboard_time": 1692666277,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211863,
+        "num": 211863,
+        "word": "篮球运动员撞脸利路修",
+        "onboard_time": 1692668800,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204190,
+        "num": 204190,
+        "word": "彭昱畅周也新片首搭",
+        "onboard_time": 1692668499,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203099,
+        "num": 203099,
+        "word": "电影一闪一闪亮星星跨年见",
+        "onboard_time": 1692669277,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199739,
+        "num": 199739,
+        "word": "王鹤棣坐树下梦回东方青苍",
+        "onboard_time": 1692666819,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199684,
+        "num": 199684,
+        "word": "王阳回应与李兰迪演情侣",
+        "onboard_time": 1692669633,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193840,
+        "num": 193840,
+        "word": "恋与制作人电话",
+        "onboard_time": 1692669575,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187213,
+        "num": 192391,
+        "word": "北京大兴出现一只一米长巨型蜥蜴",
+        "onboard_time": 1692669633,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对南非进行国事访问#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692667784697,
+  "endTime": 1692669729660,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2443,6 +2443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1926115,
+      "num": 1926115,
+      "word": "莫斯科所有机场禁止进出航班",
+      "onboard_time": 1692665380,
+      "rank": 4,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1921440,
       "num": 1921440,
       "word": "官方确认重庆事业单位考试有人作弊",
@@ -2713,6 +2721,14 @@
       "onboard_time": 1691980892,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1834347,
+      "num": 1834347,
+      "word": "对象能不能处看了学爸就知道",
+      "onboard_time": 1692665080,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1834294,
@@ -3713,14 +3729,6 @@
       "onboard_time": 1691674477,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1587982,
-      "num": 1587982,
-      "word": "莫斯科所有机场禁止进出航班",
-      "onboard_time": 1692665380,
-      "rank": 4,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1587256,
@@ -5641,14 +5649,6 @@
       "onboard_time": 1692064954,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1258233,
-      "num": 712013,
-      "word": "对象能不能处看了学爸就知道",
-      "onboard_time": 1692665080,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1257227,
@@ -11249,6 +11249,14 @@
       "onboard_time": 1691058817,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 788966,
+      "num": 788966,
+      "word": "北方人真的不吃挂面吗",
+      "onboard_time": 1692666519,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 788132,
@@ -19803,6 +19811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 510083,
+      "num": 510083,
+      "word": "24日起日本将开始核污染水排海",
+      "onboard_time": 1692669215,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509822,
       "num": 470255,
       "word": "老公执意要在门上面做柜子",
@@ -20172,7 +20188,7 @@
     },
     {
       "raw_hot": 501220,
-      "num": 412328,
+      "num": 474484,
       "word": "医院擅自微创转开胸手术致女童脑死亡",
       "onboard_time": 1692665677,
       "rank": 30,
@@ -20905,6 +20921,14 @@
       "onboard_time": 1691241885,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 486524,
+      "num": 486524,
+      "word": "沈腾说这集播出时魏大勋都过气了",
+      "onboard_time": 1692666639,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 486453,
@@ -21784,6 +21808,14 @@
       "word": "广州emo",
       "onboard_time": 1691404656,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468966,
+      "num": 351679,
+      "word": "美国敦促公民尽快离开白俄罗斯",
+      "onboard_time": 1692667718,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -26739,6 +26771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382264,
+      "num": 382264,
+      "word": "孤注一掷进入中国影史票房TOP20",
+      "onboard_time": 1692667718,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382166,
       "num": 301237,
       "word": "女孩看到床就害怕和过度防晒有关",
@@ -28339,6 +28379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 358206,
+      "num": 351417,
+      "word": "沈腾好像刚从月子中心出来",
+      "onboard_time": 1692669277,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358152,
       "num": 358152,
       "word": "龚俊版恐龙扛狼",
@@ -28595,14 +28643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354507,
-      "num": 354507,
-      "word": "沈腾说这集播出时魏大勋都过气了",
-      "onboard_time": 1692666639,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354505,
       "num": 354505,
       "word": "原来这些都不是矿泉水",
@@ -28833,6 +28873,14 @@
       "onboard_time": 1691059478,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350951,
+      "num": 350951,
+      "word": "魏大勋爆火前后的站位",
+      "onboard_time": 1692668916,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 350826,
@@ -29089,6 +29137,14 @@
       "onboard_time": 1692594702,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348484,
+      "num": 348484,
+      "word": "相差1岁多兄妹在爷爷肩头争宠",
+      "onboard_time": 1692668556,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348207,
@@ -29609,14 +29665,6 @@
       "onboard_time": 1692152614,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339924,
-      "num": 339924,
-      "word": "北方人真的不吃挂面吗",
-      "onboard_time": 1692666519,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 339388,
@@ -30193,6 +30241,14 @@
       "onboard_time": 1691588857,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331084,
+      "num": 331084,
+      "word": "去完一趟新疆发现体质变了",
+      "onboard_time": 1692669215,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 331026,
@@ -33123,6 +33179,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 295547,
+      "num": 295547,
+      "word": "与檀健次共度七夕",
+      "onboard_time": 1692669095,
+      "rank": 27,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 295537,
       "num": 295537,
       "word": "emolab",
@@ -34499,6 +34563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281977,
+      "num": 280480,
+      "word": "七夕前一天被喜欢的人表白了",
+      "onboard_time": 1692666576,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281957,
       "num": 281957,
       "word": "刘聪专辑",
@@ -35321,14 +35393,6 @@
       "onboard_time": 1690866097,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274002,
-      "num": 274002,
-      "word": "七夕前一天被喜欢的人表白了",
-      "onboard_time": 1692666576,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 273919,
@@ -37272,6 +37336,14 @@
       "word": "七时吉祥虎猪彩云海报",
       "onboard_time": 1691290115,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255302,
+      "num": 255302,
+      "word": "一闪一闪亮星星",
+      "onboard_time": 1692669277,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -41099,6 +41171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221333,
+      "num": 221333,
+      "word": "小夭重回西炎疯狂输出",
+      "onboard_time": 1692668676,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221305,
       "num": 221305,
       "word": "央视818晚会请的人都好会唱",
@@ -42441,6 +42521,14 @@
       "onboard_time": 1691195433,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211863,
+      "num": 211863,
+      "word": "篮球运动员撞脸利路修",
+      "onboard_time": 1692668800,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 211809,
@@ -43891,6 +43979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204190,
+      "num": 204190,
+      "word": "彭昱畅周也新片首搭",
+      "onboard_time": 1692668499,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204176,
       "num": 194189,
       "word": "infinite演唱会",
@@ -44105,6 +44201,14 @@
       "onboard_time": 1692058777,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 203099,
+      "num": 203099,
+      "word": "电影一闪一闪亮星星跨年见",
+      "onboard_time": 1692669277,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 203025,
@@ -44953,6 +45057,14 @@
       "onboard_time": 1692257684,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 199684,
+      "num": 199684,
+      "word": "王阳回应与李兰迪演情侣",
+      "onboard_time": 1692669633,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 199678,
@@ -46143,6 +46255,14 @@
       "num": 193930,
       "word": "灵梦辅助首秀",
       "onboard_time": 1692198999,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 193840,
+      "num": 193840,
+      "word": "恋与制作人电话",
+      "onboard_time": 1692669575,
       "rank": 48,
       "category": "游戏"
     },
@@ -47483,14 +47603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187842,
-      "num": 187842,
-      "word": "孤注一掷进入中国影史票房TOP20",
-      "onboard_time": 1692667718,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 187785,
       "num": 207138,
       "word": "热播剧集角色吸粉榜排名",
@@ -47521,14 +47633,6 @@
       "onboard_time": 1691893897,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187773,
-      "num": 187773,
-      "word": "美国敦促公民尽快离开白俄罗斯",
-      "onboard_time": 1692667718,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187749,
@@ -47601,6 +47705,14 @@
       "onboard_time": 1691135917,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187213,
+      "num": 192391,
+      "word": "北京大兴出现一只一米长巨型蜥蜴",
+      "onboard_time": 1692669633,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187192,
@@ -55516,7 +55628,7 @@
     },
     {
       "raw_hot": 41130,
-      "num": 1850792,
+      "num": 1931944,
       "word": "2023金砖峰会先导片",
       "onboard_time": 1692626019,
       "rank": 2,
