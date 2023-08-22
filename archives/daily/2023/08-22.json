@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692678831852,
+  "endTime": 1692681326693,
   "band_list": [
     {
       "raw_hot": 3372211,
@@ -17,6 +17,14 @@
       "onboard_time": 1692664057,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2186761,
+      "num": 2186761,
+      "word": "星期二没人约很正常的啦",
+      "onboard_time": 1692672458,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 2155908,
@@ -43,12 +51,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 1996633,
-      "num": 1996633,
-      "word": "星期二没人约很正常的啦",
-      "onboard_time": 1692672458,
-      "rank": 18,
-      "category": "幽默"
+      "raw_hot": 1973364,
+      "num": 1330993,
+      "word": "昆明一窨井里发现两具年轻男尸",
+      "onboard_time": 1692675760,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1834347,
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1394269,
+      "num": 1394269,
+      "word": "茉莉奶白",
+      "onboard_time": 1692675517,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1318104,
       "num": 1318104,
       "word": "孤注一掷票房是谁在扛",
@@ -107,12 +123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1243706,
-      "num": 1243706,
-      "word": "茉莉奶白",
-      "onboard_time": 1692675517,
-      "rank": 6,
-      "category": "美食"
+      "raw_hot": 1267805,
+      "num": 1267805,
+      "word": "那英因身体欠佳请辞音乐节演出",
+      "onboard_time": 1692680801,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1223964,
@@ -219,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 832425,
+      "num": 832425,
+      "word": "情侣七夕熬夜排队5小时领证2分钟",
+      "onboard_time": 1692678884,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 826508,
       "num": 826508,
       "word": "最近韩国渐渐出现无糖葫芦区",
@@ -259,11 +283,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 766565,
-      "num": 766565,
-      "word": "昆明一窨井里发现两具年轻男尸",
-      "onboard_time": 1692675760,
-      "rank": 16,
+      "raw_hot": 775736,
+      "num": 741504,
+      "word": "女子使用酒店毛巾后发现不明血迹报警",
+      "onboard_time": 1692679483,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769073,
+      "num": 769073,
+      "word": "东方明珠下惊现重庆黄色法拉利",
+      "onboard_time": 1692676903,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -363,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 625776,
+      "num": 625776,
+      "word": "孙千素颜",
+      "onboard_time": 1692679124,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624143,
       "num": 624143,
       "word": "胡兵报平安",
@@ -403,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 566565,
+      "num": 566565,
+      "word": "虞书欣张凌赫执手海报",
+      "onboard_time": 1692678762,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 555576,
       "num": 494560,
       "word": "金晨体重不到100斤",
       "onboard_time": 1692664360,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 549706,
+      "num": 549706,
+      "word": "泼天的富贵轮到七夕的我了",
+      "onboard_time": 1692676361,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 549053,
@@ -427,14 +483,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 546626,
-      "num": 546626,
-      "word": "东方明珠下惊现重庆黄色法拉利",
-      "onboard_time": 1692676903,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 543810,
       "num": 543810,
       "word": "李兰迪王阳好嗑",
@@ -449,6 +497,14 @@
       "onboard_time": 1692623621,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529830,
+      "num": 529830,
+      "word": "长相思今天更新2集",
+      "onboard_time": 1692678823,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 517015,
@@ -547,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 454982,
+      "num": 454982,
+      "word": "魏大勋见证了好多节目的升起消亡",
+      "onboard_time": 1692680383,
+      "rank": 23,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 415454,
       "num": 362264,
       "word": "迪丽热巴穿了吊带红裙",
@@ -643,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375159,
+      "num": 375159,
+      "word": "长相思收官是再见也是再相见",
+      "onboard_time": 1692679602,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 374895,
       "num": 374895,
       "word": "易烊千玺分享17年的自己",
@@ -675,14 +747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 352864,
-      "num": 352864,
-      "word": "泼天的富贵轮到七夕的我了",
-      "onboard_time": 1692676361,
-      "rank": 41,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 352663,
       "num": 352663,
       "word": "蝉女",
@@ -713,6 +777,14 @@
       "onboard_time": 1692674857,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336851,
+      "num": 336851,
+      "word": "易烊千玺专辑刘艳芬纪录片",
+      "onboard_time": 1692679845,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 335795,
@@ -779,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305243,
+      "num": 305243,
+      "word": "七夕单身的有福了",
+      "onboard_time": 1692678762,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 301542,
       "num": 301542,
       "word": "张万森好久不见",
@@ -819,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289005,
+      "num": 253894,
+      "word": "长相思说的择日是哪日",
+      "onboard_time": 1692678942,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285742,
       "num": 285742,
       "word": "姚晨说羡慕黄晓明能请来这么多大导演",
@@ -849,6 +937,14 @@
       "onboard_time": 1692666576,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281888,
+      "num": 251845,
+      "word": "毛雪汪集体掀桌 打工人嘴替之光",
+      "onboard_time": 1692681105,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 277812,
@@ -891,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265062,
+      "num": 250071,
+      "word": "符龙飞官宣二胎得女",
+      "onboard_time": 1692681279,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263431,
       "num": 263431,
       "word": "今年看过后劲最大的国产剧",
@@ -923,12 +1027,12 @@
       "category": "科技,情感"
     },
     {
-      "raw_hot": 249112,
-      "num": 249112,
-      "word": "长相思今天更新2集",
-      "onboard_time": 1692678823,
+      "raw_hot": 248844,
+      "num": 248844,
+      "word": "给白敬亭整成喻初原了",
+      "onboard_time": 1692680204,
       "rank": 44,
-      "category": "影视"
+      "category": "综艺"
     },
     {
       "raw_hot": 242494,
@@ -1001,14 +1105,6 @@
       "onboard_time": 1692633216,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 231131,
-      "num": 231131,
-      "word": "虞书欣张凌赫执手海报",
-      "onboard_time": 1692678762,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 226792,
@@ -1139,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204125,
+      "num": 204125,
+      "word": "王者荣耀联动HelloKitty",
+      "onboard_time": 1692680622,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203099,
       "num": 203099,
       "word": "电影一闪一闪亮星星跨年见",
@@ -1177,6 +1281,14 @@
       "onboard_time": 1692663158,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199911,
+      "num": 199911,
+      "word": "茉酸奶",
+      "onboard_time": 1692681042,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 199545,
