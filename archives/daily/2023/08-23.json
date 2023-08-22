@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692728423857,
+  "endTime": 1692729252327,
   "band_list": [
     {
       "raw_hot": 1901324,
@@ -475,12 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69213,
+      "raw_hot": 72361,
       "num": 83328,
       "word": "金高银VOGUE九月刊",
       "onboard_time": 1692727878,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 63963,
+      "num": 83273,
+      "word": "每次去文具店都会被刷新一次认知",
+      "onboard_time": 1692727158,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59702,
@@ -489,14 +497,6 @@
       "onboard_time": 1692726979,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 55531,
-      "num": 83273,
-      "word": "每次去文具店都会被刷新一次认知",
-      "onboard_time": 1692727158,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51052,
@@ -512,6 +512,14 @@
       "word": "七夕物料里最好嗑的",
       "onboard_time": 1692721953,
       "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 48682,
+      "num": 70782,
+      "word": "虞书欣七夕穿搭",
+      "onboard_time": 1692728118,
+      "rank": 40,
       "category": "作品衍生"
     },
     {
@@ -537,6 +545,9 @@
     },
     {
       "word": "#习主席非洲之行#"
+    },
+    {
+      "word": "#习近平主席抵达南非约翰内斯堡#"
     }
   ]
 }

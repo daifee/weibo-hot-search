@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692728423857,
+  "endTime": 1692729252327,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -56635,6 +56635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72361,
+      "num": 83328,
+      "word": "金高银VOGUE九月刊",
+      "onboard_time": 1692727878,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 72093,
       "num": 74698,
       "word": "没有一口奶粉是白喝的",
@@ -56697,14 +56705,6 @@
       "onboard_time": 1692125116,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 69213,
-      "num": 83328,
-      "word": "金高银VOGUE九月刊",
-      "onboard_time": 1692727878,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 69204,
@@ -56897,6 +56897,14 @@
       "onboard_time": 1691515222,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 63963,
+      "num": 83273,
+      "word": "每次去文具店都会被刷新一次认知",
+      "onboard_time": 1692727158,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63456,
@@ -57315,14 +57323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55531,
-      "num": 83273,
-      "word": "每次去文具店都会被刷新一次认知",
-      "onboard_time": 1692727158,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55139,
       "num": 1089905,
       "word": "初秋的乡间田野生机勃勃",
@@ -57529,6 +57529,14 @@
       "onboard_time": 1692551545,
       "rank": 49,
       "category": "社会议题,综艺"
+    },
+    {
+      "raw_hot": 48682,
+      "num": 70782,
+      "word": "虞书欣七夕穿搭",
+      "onboard_time": 1692728118,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 48506,
