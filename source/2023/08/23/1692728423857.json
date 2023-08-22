@@ -1,0 +1,410 @@
+{
+  "runTime": 1692728423857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 613469,
+        "num": 613469,
+        "word": "百万网红被闺蜜骗至东南亚生死未卜",
+        "onboard_time": 1692721473,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252066,
+        "num": 252066,
+        "word": "老默新剧依然卖鱼",
+        "onboard_time": 1692720755,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17399,
+        "num": 197607,
+        "word": "金砖国家形象网宣片",
+        "onboard_time": 1692709178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331987,
+        "num": 195758,
+        "word": "苏翊鸣 恋爱",
+        "onboard_time": 1692714944,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 164677,
+        "num": 164677,
+        "word": "孙艺洲 人生没有彩排",
+        "onboard_time": 1692721233,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161527,
+        "num": 161527,
+        "word": "男子中奖1000万彩票粘手机壳取不下",
+        "onboard_time": 1692706292,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153737,
+        "num": 153737,
+        "word": "孤注一掷成七夕档票房冠军",
+        "onboard_time": 1692722250,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150435,
+        "num": 150435,
+        "word": "檀健次直播",
+        "onboard_time": 1692706292,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124730,
+        "num": 124730,
+        "word": "姬发殷郊 趴在背上搂着腰",
+        "onboard_time": 1692718423,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95132,
+        "num": 95132,
+        "word": "一个人坐高铁行李箱只能放脚下",
+        "onboard_time": 1692709600,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 406353,
+        "num": 95132,
+        "word": "Angelababy不太喜欢七夕这样的日子",
+        "onboard_time": 1692720217,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162616,
+        "num": 95111,
+        "word": "林心如说七夕感觉在过鬼节",
+        "onboard_time": 1692709178,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136897,
+        "num": 95091,
+        "word": "王鹤棣卸了什么",
+        "onboard_time": 1692715669,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91556,
+        "num": 95065,
+        "word": "日本核污染水排海至少要持续30年",
+        "onboard_time": 1692711285,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86777,
+        "num": 95058,
+        "word": "中方召见日本驻华大使",
+        "onboard_time": 1692713206,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126471,
+        "num": 95043,
+        "word": "黄子恐怖的e人",
+        "onboard_time": 1692717948,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106744,
+        "num": 95022,
+        "word": "魏大勋连续两年七夕没露脸",
+        "onboard_time": 1692710860,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95014,
+        "num": 95014,
+        "word": "山航飞机狗狗祟祟出发了",
+        "onboard_time": 1692716631,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79956,
+        "num": 94882,
+        "word": "警校生和军校生的婚后生活",
+        "onboard_time": 1692716269,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 68957,
+        "num": 94608,
+        "word": "供电局回应员工家属疑炫富事件",
+        "onboard_time": 1692713026,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483443,
+        "num": 94545,
+        "word": "萧敬腾未婚妻七夕发长文",
+        "onboard_time": 1692716990,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291400,
+        "num": 94264,
+        "word": "17岁少年目睹爷爷被人殴打后投河身亡",
+        "onboard_time": 1692716866,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130888,
+        "num": 94104,
+        "word": "杨幂发了十八宫格",
+        "onboard_time": 1692720046,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116719,
+        "num": 93768,
+        "word": "去夜市一定要带上男朋友",
+        "onboard_time": 1692720046,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110024,
+        "num": 93679,
+        "word": "今年七夕朋友圈怎么如此安静",
+        "onboard_time": 1692706837,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 100613,
+        "num": 93262,
+        "word": "张栋梁是被盗号了吗",
+        "onboard_time": 1692696459,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97917,
+        "num": 93240,
+        "word": "刘昊然屈楚萧回应燃冬角色关系",
+        "onboard_time": 1692708639,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96739,
+        "num": 92997,
+        "word": "小生一番内地票房排行",
+        "onboard_time": 1692722729,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95578,
+        "num": 92649,
+        "word": "丈夫酒后打妻子致坠楼跳下施救",
+        "onboard_time": 1692705813,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92603,
+        "num": 92603,
+        "word": "民政局直播新人领证仅12对登记",
+        "onboard_time": 1692718666,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96142,
+        "num": 88655,
+        "word": "长相思角色号全员告别",
+        "onboard_time": 1692719504,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84313,
+        "num": 84313,
+        "word": "易烊千玺手写少年的你情书",
+        "onboard_time": 1692720046,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83353,
+        "num": 83353,
+        "word": "邓为工作室是知道我们想看什么的",
+        "onboard_time": 1692716928,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78520,
+        "num": 83347,
+        "word": "为什么感觉富婆都不留刘海",
+        "onboard_time": 1692702275,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 67086,
+        "num": 83338,
+        "word": "中方回应日本正式决定启动排海",
+        "onboard_time": 1692698974,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 69213,
+        "num": 83328,
+        "word": "金高银VOGUE九月刊",
+        "onboard_time": 1692727878,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66397,
+        "num": 83320,
+        "word": "面对上海高级餐厅我仿佛成了文盲",
+        "onboard_time": 1692722311,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 64269,
+        "num": 83314,
+        "word": "封神 闪电日记",
+        "onboard_time": 1692722012,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59702,
+        "num": 83296,
+        "word": "遇见猫猫爱意画面",
+        "onboard_time": 1692726979,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57238,
+        "num": 83289,
+        "word": "男子被女友亲到鼓膜破裂进医院",
+        "onboard_time": 1692701073,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55673,
+        "num": 83278,
+        "word": "还以为马伯骞是心动6男嘉宾",
+        "onboard_time": 1692720755,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55531,
+        "num": 83273,
+        "word": "每次去文具店都会被刷新一次认知",
+        "onboard_time": 1692727158,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54596,
+        "num": 83261,
+        "word": "彪子杀姬发前说送你去见他",
+        "onboard_time": 1692721712,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53254,
+        "num": 83256,
+        "word": "小男孩每天上幼儿园的离别时刻",
+        "onboard_time": 1692720161,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53140,
+        "num": 83237,
+        "word": "李莲花 唯负少师剑",
+        "onboard_time": 1692717230,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51036,
+        "num": 83233,
+        "word": "七夕物料里最好嗑的",
+        "onboard_time": 1692721953,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50080,
+        "num": 83221,
+        "word": "SEVENTEEN日专",
+        "onboard_time": 1692718007,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49030,
+        "num": 83213,
+        "word": "新疆吐鲁番西瓜5元一个也难卖",
+        "onboard_time": 1692713687,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 42997,
+        "num": 83208,
+        "word": "每一个节日都在提醒我",
+        "onboard_time": 1692721712,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 39513,
+        "num": 83195,
+        "word": "光与夜之恋调整二创授权",
+        "onboard_time": 1692716866,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
