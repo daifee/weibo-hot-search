@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692738848053,
+  "endTime": 1692740040647,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -5947,6 +5947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27415,
+      "num": 27415,
+      "word": "你最后终于做到了讲普通话的电影",
+      "onboard_time": 1692738314,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 27286,
       "num": 31610,
       "word": "蔡文静又直播了",
@@ -6011,19 +6019,19 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 20221,
-      "num": 24274,
-      "word": "你最后终于做到了讲普通话的电影",
-      "onboard_time": 1692738314,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 18399,
       "num": 567956,
       "word": "金砖国家形象网宣片",
       "onboard_time": 1692709178,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17401,
+      "num": 24416,
+      "word": "挪用诈骗团伙160万不堪威胁自首",
+      "onboard_time": 1692739693,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
