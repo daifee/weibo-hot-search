@@ -1,0 +1,410 @@
+{
+  "runTime": 1692678831852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2067030,
+        "num": 2067030,
+        "word": "六公主在播封神榜妖灭",
+        "onboard_time": 1692673598,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1996633,
+        "num": 1996633,
+        "word": "星期二没人约很正常的啦",
+        "onboard_time": 1692672458,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55358,
+        "num": 1625182,
+        "word": "2023金砖会晤",
+        "onboard_time": 1692676600,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1318104,
+        "num": 1318104,
+        "word": "孤注一掷票房是谁在扛",
+        "onboard_time": 1692676179,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1268511,
+        "num": 1268511,
+        "word": "胡歌 如果未来五年我不拍戏了",
+        "onboard_time": 1692659185,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1243706,
+        "num": 1243706,
+        "word": "茉莉奶白",
+        "onboard_time": 1692675517,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1129653,
+        "num": 1129653,
+        "word": "长相思第二季分集简介",
+        "onboard_time": 1692673959,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1018818,
+        "num": 1018818,
+        "word": "官配是有官配的道理",
+        "onboard_time": 1692673477,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 716194,
+        "num": 893834,
+        "word": "亚洲象一鼻子甩出毒品2.8公斤",
+        "onboard_time": 1692664057,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656086,
+        "num": 839707,
+        "word": "莫斯科所有机场禁止进出航班",
+        "onboard_time": 1692665380,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 788439,
+        "num": 788439,
+        "word": "天官赐福",
+        "onboard_time": 1692672936,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 768913,
+        "num": 768913,
+        "word": "沈腾好像刚从月子中心出来",
+        "onboard_time": 1692669277,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766565,
+        "num": 766565,
+        "word": "昆明一窨井里发现两具年轻男尸",
+        "onboard_time": 1692675760,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677186,
+        "num": 677186,
+        "word": "韩国人为什么这么痴迷糖葫芦",
+        "onboard_time": 1692672458,
+        "rank": 13,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 234666,
+        "num": 653723,
+        "word": "24日起日本将开始核污染水排海",
+        "onboard_time": 1692669215,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632604,
+        "num": 632604,
+        "word": "长沙的烧烤分量真的这么少吗",
+        "onboard_time": 1692673300,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 624143,
+        "num": 624143,
+        "word": "胡兵报平安",
+        "onboard_time": 1692676962,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603722,
+        "num": 603722,
+        "word": "云边有个小卖部",
+        "onboard_time": 1692677684,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546626,
+        "num": 546626,
+        "word": "东方明珠下惊现重庆黄色法拉利",
+        "onboard_time": 1692676903,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527578,
+        "num": 527578,
+        "word": "李光洁隋雨蒙官宣二胎",
+        "onboard_time": 1692673418,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 906831,
+        "num": 520666,
+        "word": "妈妈给娃洗澡时发病半岁宝宝不幸溺亡",
+        "onboard_time": 1692676720,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783073,
+        "num": 516977,
+        "word": "妈妈偷走录取通知书阻挠女儿入学",
+        "onboard_time": 1692671195,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 539194,
+        "num": 512265,
+        "word": "瘦了20斤才敢说的大实话",
+        "onboard_time": 1692659785,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 483056,
+        "num": 483056,
+        "word": "17岁的齐刘海刘诗诗",
+        "onboard_time": 1692673418,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458903,
+        "num": 458903,
+        "word": "坚如磐石张艺谋要求全员素颜",
+        "onboard_time": 1692676000,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435555,
+        "num": 435555,
+        "word": "去完一趟新疆发现体质变了",
+        "onboard_time": 1692669215,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 414557,
+        "num": 414557,
+        "word": "胡歌用脚比个心",
+        "onboard_time": 1692677441,
+        "rank": 26,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 410779,
+        "num": 410779,
+        "word": "A股",
+        "onboard_time": 1692670358,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 399371,
+        "num": 399371,
+        "word": "魏大勋爆火前后的站位",
+        "onboard_time": 1692668916,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383968,
+        "num": 383968,
+        "word": "21岁小伙和女网友吃饭被捅身亡",
+        "onboard_time": 1692670237,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375207,
+        "num": 375207,
+        "word": "莲花楼与琅琊榜的悲与歌",
+        "onboard_time": 1692676838,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352864,
+        "num": 352864,
+        "word": "泼天的富贵轮到七夕的我了",
+        "onboard_time": 1692676361,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 349567,
+        "num": 349567,
+        "word": "iPhone换C口 安卓不通用",
+        "onboard_time": 1692634054,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 328233,
+        "num": 328233,
+        "word": "要久久爱",
+        "onboard_time": 1692678163,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326161,
+        "num": 326161,
+        "word": "未定事件簿 橘朵",
+        "onboard_time": 1692674199,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 320145,
+        "num": 320145,
+        "word": "美国敦促公民尽快离开白俄罗斯",
+        "onboard_time": 1692667718,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292286,
+        "num": 292286,
+        "word": "与凤行",
+        "onboard_time": 1692671736,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280322,
+        "num": 280322,
+        "word": "李兰迪说王阳每条褶子都恰到好处",
+        "onboard_time": 1692674857,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276665,
+        "num": 276665,
+        "word": "长相思第二季",
+        "onboard_time": 1692660689,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86384,
+        "num": 273249,
+        "word": "今年七夕的红线是饿了么牵的",
+        "onboard_time": 1692676838,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271396,
+        "num": 271396,
+        "word": "李莲花为什么必须死",
+        "onboard_time": 1692673598,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269891,
+        "num": 269891,
+        "word": "终于知道大家为啥单身了",
+        "onboard_time": 1692670177,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266138,
+        "num": 266138,
+        "word": "胡歌白客嘴瓢",
+        "onboard_time": 1692677503,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261724,
+        "num": 261724,
+        "word": "以爱为营",
+        "onboard_time": 1692674381,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249112,
+        "num": 249112,
+        "word": "长相思今天更新2集",
+        "onboard_time": 1692678823,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248752,
+        "num": 248752,
+        "word": "在暴雪时分",
+        "onboard_time": 1692675396,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231131,
+        "num": 231131,
+        "word": "虞书欣张凌赫执手海报",
+        "onboard_time": 1692678762,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227680,
+        "num": 227680,
+        "word": "七夕快乐",
+        "onboard_time": 1692659665,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196286,
+        "num": 227217,
+        "word": "各省份吃辣排行",
+        "onboard_time": 1692677260,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 195989,
+        "num": 227060,
+        "word": "光与夜之恋",
+        "onboard_time": 1692678044,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席抵达南非约翰内斯堡#"
+    }
+  }
+}

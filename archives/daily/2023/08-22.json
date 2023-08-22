@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692677966473,
+  "endTime": 1692678831852,
   "band_list": [
     {
       "raw_hot": 3372211,
@@ -43,8 +43,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 1954417,
-      "num": 1954417,
+      "raw_hot": 1996633,
+      "num": 1996633,
       "word": "星期二没人约很正常的啦",
       "onboard_time": 1692672458,
       "rank": 18,
@@ -99,12 +99,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1318104,
+      "num": 1318104,
+      "word": "孤注一掷票房是谁在扛",
+      "onboard_time": 1692676179,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1243706,
+      "num": 1243706,
+      "word": "茉莉奶白",
+      "onboard_time": 1692675517,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1223964,
-      "num": 490885,
+      "num": 512265,
       "word": "瘦了20斤才敢说的大实话",
       "onboard_time": 1692659785,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1129653,
+      "num": 1129653,
+      "word": "长相思第二季分集简介",
+      "onboard_time": 1692673959,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 1107135,
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 1074264,
-      "num": 469811,
+      "num": 516977,
       "word": "妈妈偷走录取通知书阻挠女儿入学",
       "onboard_time": 1692671195,
       "rank": 30,
@@ -163,20 +187,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 986607,
-      "num": 986607,
-      "word": "孤注一掷票房是谁在扛",
-      "onboard_time": 1692676179,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 984621,
-      "num": 984621,
-      "word": "茉莉奶白",
-      "onboard_time": 1692675517,
-      "rank": 6,
-      "category": "美食"
+      "raw_hot": 906831,
+      "num": 520666,
+      "word": "妈妈给娃洗澡时发病半岁宝宝不幸溺亡",
+      "onboard_time": 1692676720,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 891498,
@@ -192,14 +208,6 @@
       "word": "北京大兴出现一只一米长巨型蜥蜴",
       "onboard_time": 1692669633,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867742,
-      "num": 469914,
-      "word": "妈妈给娃洗澡时发病半岁宝宝不幸溺亡",
-      "onboard_time": 1692676720,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -251,8 +259,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 766565,
+      "num": 766565,
+      "word": "昆明一窨井里发现两具年轻男尸",
+      "onboard_time": 1692675760,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 736091,
-      "num": 428790,
+      "num": 435555,
       "word": "去完一趟新疆发现体质变了",
       "onboard_time": 1692669215,
       "rank": 26,
@@ -273,14 +289,6 @@
       "onboard_time": 1692632317,
       "rank": 12,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 698586,
-      "num": 698586,
-      "word": "长相思第二季分集简介",
-      "onboard_time": 1692673959,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 697180,
@@ -355,12 +363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 624143,
+      "num": 624143,
+      "word": "胡兵报平安",
+      "onboard_time": 1692676962,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622005,
       "num": 622005,
       "word": "七夕文案",
       "onboard_time": 1692632077,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 603722,
+      "num": 603722,
+      "word": "云边有个小卖部",
+      "onboard_time": 1692677684,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 586798,
@@ -403,11 +427,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 545382,
-      "num": 545382,
-      "word": "昆明一窨井里发现两具年轻男尸",
-      "onboard_time": 1692675760,
-      "rank": 16,
+      "raw_hot": 546626,
+      "num": 546626,
+      "word": "东方明珠下惊现重庆黄色法拉利",
+      "onboard_time": 1692676903,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -433,14 +457,6 @@
       "onboard_time": 1692665677,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510233,
-      "num": 510233,
-      "word": "胡兵报平安",
-      "onboard_time": 1692676962,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 501683,
@@ -537,6 +553,14 @@
       "onboard_time": 1692624821,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 414557,
+      "num": 414557,
+      "word": "胡歌用脚比个心",
+      "onboard_time": 1692677441,
+      "rank": 46,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 413216,
@@ -651,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 352864,
+      "num": 352864,
+      "word": "泼天的富贵轮到七夕的我了",
+      "onboard_time": 1692676361,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 352663,
       "num": 352663,
       "word": "蝉女",
@@ -691,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 333649,
-      "num": 333649,
-      "word": "东方明珠下惊现重庆黄色法拉利",
-      "onboard_time": 1692676903,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 328233,
+      "num": 328233,
+      "word": "要久久爱",
+      "onboard_time": 1692678163,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 325868,
@@ -760,14 +792,6 @@
       "word": "长相思相柳最后娶了谁",
       "onboard_time": 1692674498,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 296329,
-      "num": 296329,
-      "word": "云边有个小卖部",
-      "onboard_time": 1692677684,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -859,12 +883,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 267641,
-      "num": 267641,
-      "word": "泼天的富贵轮到七夕的我了",
-      "onboard_time": 1692676361,
-      "rank": 41,
-      "category": "幽默,情感"
+      "raw_hot": 266138,
+      "num": 266138,
+      "word": "胡歌白客嘴瓢",
+      "onboard_time": 1692677503,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 263431,
@@ -897,6 +921,14 @@
       "onboard_time": 1692619776,
       "rank": 25,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 249112,
+      "num": 249112,
+      "word": "长相思今天更新2集",
+      "onboard_time": 1692678823,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 242494,
@@ -963,20 +995,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233279,
-      "num": 233279,
-      "word": "胡歌用脚比个心",
-      "onboard_time": 1692677441,
-      "rank": 46,
-      "category": "影视,艺人"
-    },
-    {
       "raw_hot": 231418,
       "num": 223062,
       "word": "NPC也有不耐烦的时候",
       "onboard_time": 1692633216,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231131,
+      "num": 231131,
+      "word": "虞书欣张凌赫执手海报",
+      "onboard_time": 1692678762,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 226792,
@@ -1076,7 +1108,7 @@
     },
     {
       "raw_hot": 208226,
-      "num": 211086,
+      "num": 227217,
       "word": "各省份吃辣排行",
       "onboard_time": 1692677260,
       "rank": 49,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1692641057,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 195989,
+      "num": 227060,
+      "word": "光与夜之恋",
+      "onboard_time": 1692678044,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 194387,
@@ -1396,7 +1436,7 @@
     },
     {
       "raw_hot": 59479,
-      "num": 1604294,
+      "num": 1625182,
       "word": "2023金砖会晤",
       "onboard_time": 1692676600,
       "rank": 2,
@@ -1479,6 +1519,9 @@
     },
     {
       "word": "#习主席非洲之行#"
+    },
+    {
+      "word": "#习近平主席抵达南非约翰内斯堡#"
     }
   ]
 }
