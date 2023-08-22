@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692731591705,
+  "endTime": 1692732835010,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -58329,6 +58329,14 @@
       "onboard_time": 1692127335,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 25844,
+      "num": 45247,
+      "word": "金泰亨神图",
+      "onboard_time": 1692732795,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 25827,
