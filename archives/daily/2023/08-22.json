@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692695780928,
+  "endTime": 1692696832944,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -9,6 +9,14 @@
       "onboard_time": 1692686677,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3532640,
+      "num": 681459,
+      "word": "邓为 华伦天奴",
+      "onboard_time": 1692692981,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 3372211,
@@ -25,14 +33,6 @@
       "onboard_time": 1692680801,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3234849,
-      "num": 590138,
-      "word": "邓为 华伦天奴",
-      "onboard_time": 1692692981,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 2673668,
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 890423,
+      "num": 368978,
+      "word": "易烊千玺工作室叫自己简未斯",
+      "onboard_time": 1692694783,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 883573,
       "num": 606323,
       "word": "北京大兴出现一只一米长巨型蜥蜴",
@@ -401,6 +409,14 @@
       "onboard_time": 1692676903,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738467,
+      "num": 738467,
+      "word": "封神第一部票房破23亿",
+      "onboard_time": 1692692564,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 736091,
@@ -499,20 +515,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 653964,
+      "num": 653964,
+      "word": "长相思",
+      "onboard_time": 1692694480,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 647683,
       "num": 647683,
       "word": "女孩养2500多条蚕做百家被给姐姐当嫁妆",
       "onboard_time": 1692661714,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 645809,
-      "num": 368978,
-      "word": "易烊千玺工作室叫自己简未斯",
-      "onboard_time": 1692694783,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 640758,
@@ -587,20 +603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584169,
+      "num": 584169,
+      "word": "上海暴雨",
+      "onboard_time": 1692693943,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580672,
       "num": 580672,
       "word": "鸥茉莉 小蒲敬上",
       "onboard_time": 1692630642,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 575299,
-      "num": 575299,
-      "word": "封神第一部票房破23亿",
-      "onboard_time": 1692692564,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 566565,
@@ -643,14 +659,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 545486,
-      "num": 368639,
-      "word": "长相思",
-      "onboard_time": 1692694480,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 545229,
       "num": 377414,
       "word": "曾经唱红一首歌就消失不见的70位歌手",
@@ -683,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535597,
+      "num": 366744,
+      "word": "范丞丞虞书欣双人大片",
+      "onboard_time": 1692693822,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 534899,
       "num": 368326,
       "word": "沧州巨响",
@@ -705,14 +721,6 @@
       "onboard_time": 1692678823,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 524478,
-      "num": 524478,
-      "word": "上海暴雨",
-      "onboard_time": 1692693943,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 517015,
@@ -801,14 +809,6 @@
       "onboard_time": 1692660990,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 479150,
-      "num": 366744,
-      "word": "范丞丞虞书欣双人大片",
-      "onboard_time": 1692693822,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 472581,
@@ -1107,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345477,
+      "num": 345477,
+      "word": "张栋梁是被盗号了吗",
+      "onboard_time": 1692696459,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344247,
       "num": 344247,
       "word": "李兰迪说王阳每条褶子都恰到好处",
@@ -1195,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321400,
+      "num": 321400,
+      "word": "防风邶的头发是相柳染的",
+      "onboard_time": 1692695560,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314445,
       "num": 314445,
       "word": "奥本海默",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1692670477,
       "rank": 37,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 307267,
+      "num": 297516,
+      "word": "长相思陪你过七夕",
+      "onboard_time": 1692695261,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 305561,
@@ -1347,6 +1371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280325,
+      "num": 280325,
+      "word": "张艺兴孤注一掷29亿海报",
+      "onboard_time": 1692696521,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277812,
       "num": 277812,
       "word": "Uzi连麦张伟丽",
@@ -1475,14 +1507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253453,
-      "num": 253453,
-      "word": "长相思陪你过七夕",
-      "onboard_time": 1692695261,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 244532,
       "num": 244532,
       "word": "2000年前的相思让人怦然心动",
@@ -1571,6 +1595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234008,
+      "num": 234008,
+      "word": "消防员与女友约会队友边看边指导",
+      "onboard_time": 1692696164,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231418,
       "num": 223062,
       "word": "NPC也有不耐烦的时候",
@@ -1593,6 +1625,14 @@
       "onboard_time": 1692626382,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225884,
+      "num": 225884,
+      "word": "民政局为七夕新人准备誓词和汉服",
+      "onboard_time": 1692692261,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225631,
@@ -1635,18 +1675,18 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217411,
+      "num": 217411,
+      "word": "25岁姑娘和男友深山约会进急诊",
+      "onboard_time": 1692696399,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217049,
       "num": 217049,
       "word": "莲花楼逆袭分析",
       "onboard_time": 1692664780,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 217043,
-      "num": 212077,
-      "word": "防风邶的头发是相柳染的",
-      "onboard_time": 1692695560,
       "rank": 41,
       "category": "影视"
     },
@@ -1673,14 +1713,6 @@
       "onboard_time": 1692674799,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 212138,
-      "num": 212138,
-      "word": "民政局为七夕新人准备誓词和汉服",
-      "onboard_time": 1692692261,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211863,
@@ -1875,6 +1907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192371,
+      "num": 213227,
+      "word": "开学新人设多比",
+      "onboard_time": 1692696399,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192178,
       "num": 192178,
       "word": "狗狗突然反常大叫开门发现邻居家着火",
@@ -1907,6 +1947,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 187743,
+      "num": 212002,
+      "word": "罗云熙章若楠吻戏",
+      "onboard_time": 1692696819,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187192,
       "num": 187192,
       "word": "王一博你到底会多少个舞种",
@@ -1929,6 +1977,14 @@
       "onboard_time": 1692684759,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171776,
+      "num": 209912,
+      "word": "七夕丑花束真的很多",
+      "onboard_time": 1692696640,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 171438,
@@ -2163,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56415,
+      "num": 369530,
+      "word": "罕见并蒂莲七夕浪漫绽放",
+      "onboard_time": 1692694841,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44595,
       "num": 44595,
       "word": "安乐传剧组hi6七夕加更预告",
@@ -2225,14 +2289,6 @@
       "onboard_time": 1692645374,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 25681,
-      "num": 369530,
-      "word": "罕见并蒂莲七夕浪漫绽放",
-      "onboard_time": 1692694841,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
