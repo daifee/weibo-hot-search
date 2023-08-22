@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692722177392,
+  "endTime": 1692724497281,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -787,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 958978,
+      "num": 272253,
+      "word": "Angelababy不太喜欢七夕这样的日子",
+      "onboard_time": 1692720217,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 948095,
       "num": 948095,
       "word": "本周狗屎运最旺的星座",
@@ -801,6 +809,14 @@
       "onboard_time": 1692614494,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 932505,
+      "num": 932505,
+      "word": "百万网红被闺蜜骗至东南亚生死未卜",
+      "onboard_time": 1692721473,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 931989,
@@ -825,14 +841,6 @@
       "onboard_time": 1692718423,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 920632,
-      "num": 272253,
-      "word": "Angelababy不太喜欢七夕这样的日子",
-      "onboard_time": 1692720217,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 915131,
@@ -1507,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607482,
+      "num": 607482,
+      "word": "孙艺洲 人生没有彩排",
+      "onboard_time": 1692721233,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 605392,
       "num": 359418,
       "word": "不要随便加学生微信",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1692706837,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 558942,
+      "num": 558942,
+      "word": "老默新剧依然卖鱼",
+      "onboard_time": 1692720755,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 555576,
@@ -1971,14 +1995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 485785,
-      "num": 220536,
-      "word": "老默新剧依然卖鱼",
-      "onboard_time": 1692720755,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 485056,
       "num": 391201,
       "word": "肖战纱袍造型仙气十足",
@@ -2249,14 +2265,6 @@
       "onboard_time": 1692621159,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 442867,
-      "num": 192326,
-      "word": "孙艺洲 人生没有彩排",
-      "onboard_time": 1692721233,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 441546,
@@ -4563,14 +4571,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 199511,
-      "num": 199511,
-      "word": "百万网红被闺蜜骗至东南亚生死未卜",
-      "onboard_time": 1692721473,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199127,
       "num": 205031,
       "word": "德牧这是什么男朋友特质啊",
@@ -4931,6 +4931,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 180281,
+      "num": 180281,
+      "word": "小生一番内地票房排行",
+      "onboard_time": 1692722729,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179758,
       "num": 179758,
       "word": "Hero竟然这么过七夕",
@@ -5081,6 +5089,14 @@
       "onboard_time": 1692610239,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165476,
+      "num": 165476,
+      "word": "孤注一掷成七夕档票房冠军",
+      "onboard_time": 1692722250,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 163549,
@@ -5307,6 +5323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134903,
+      "num": 107329,
+      "word": "心理师解读相柳",
+      "onboard_time": 1692723807,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134718,
       "num": 170000,
       "word": "古人给猫取名能多有诗意",
@@ -5515,7 +5539,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 91647,
+      "raw_hot": 97072,
       "num": 165910,
       "word": "每一个节日都在提醒我",
       "onboard_time": 1692721712,
@@ -5617,6 +5641,14 @@
       "onboard_time": 1692572964,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61093,
+      "num": 107145,
+      "word": "面对上海高级餐厅我仿佛成了文盲",
+      "onboard_time": 1692722311,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 60657,
@@ -5913,6 +5945,14 @@
       "onboard_time": 1692612040,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 12637,
+      "num": 567956,
+      "word": "金砖国家形象网宣片",
+      "onboard_time": 1692709178,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

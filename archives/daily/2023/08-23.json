@@ -1,10 +1,10 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692722177392,
+  "endTime": 1692724497281,
   "band_list": [
     {
       "raw_hot": 1901324,
-      "num": 526914,
+      "num": 564893,
       "word": "苏翊鸣 恋爱",
       "onboard_time": 1692714944,
       "rank": 3,
@@ -27,20 +27,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 958978,
+      "num": 272253,
+      "word": "Angelababy不太喜欢七夕这样的日子",
+      "onboard_time": 1692720217,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 932505,
+      "num": 932505,
+      "word": "百万网红被闺蜜骗至东南亚生死未卜",
+      "onboard_time": 1692721473,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929199,
       "num": 522319,
       "word": "姬发殷郊 趴在背上搂着腰",
       "onboard_time": 1692718423,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 920632,
-      "num": 272253,
-      "word": "Angelababy不太喜欢七夕这样的日子",
-      "onboard_time": 1692720217,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 727142,
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 607482,
+      "num": 607482,
+      "word": "孙艺洲 人生没有彩排",
+      "onboard_time": 1692721233,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 580284,
       "num": 519983,
       "word": "男子中奖1000万彩票粘手机壳取不下",
@@ -97,6 +113,14 @@
       "onboard_time": 1692715669,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 558942,
+      "num": 558942,
+      "word": "老默新剧依然卖鱼",
+      "onboard_time": 1692720755,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 540353,
@@ -121,22 +145,6 @@
       "onboard_time": 1692716631,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 485785,
-      "num": 220536,
-      "word": "老默新剧依然卖鱼",
-      "onboard_time": 1692720755,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 442867,
-      "num": 192326,
-      "word": "孙艺洲 人生没有彩排",
-      "onboard_time": 1692721233,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 419283,
@@ -307,14 +315,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 199511,
-      "num": 199511,
-      "word": "百万网红被闺蜜骗至东南亚生死未卜",
-      "onboard_time": 1692721473,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185854,
       "num": 185854,
       "word": "檀健次粉丝七夕吃挺好",
@@ -331,11 +331,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180281,
+      "num": 180281,
+      "word": "小生一番内地票房排行",
+      "onboard_time": 1692722729,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166559,
       "num": 166559,
       "word": "封神 闪电日记",
       "onboard_time": 1692722012,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 165476,
+      "num": 165476,
+      "word": "孤注一掷成七夕档票房冠军",
+      "onboard_time": 1692722250,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -379,6 +395,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 134903,
+      "num": 107329,
+      "word": "心理师解读相柳",
+      "onboard_time": 1692723807,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123957,
       "num": 201571,
       "word": "七夕",
@@ -419,7 +443,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 91647,
+      "raw_hot": 97072,
       "num": 165910,
       "word": "每一个节日都在提醒我",
       "onboard_time": 1692721712,
@@ -433,6 +457,22 @@
       "onboard_time": 1692712428,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61093,
+      "num": 107145,
+      "word": "面对上海高级餐厅我仿佛成了文盲",
+      "onboard_time": 1692722311,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 12637,
+      "num": 567956,
+      "word": "金砖国家形象网宣片",
+      "onboard_time": 1692709178,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7532,
