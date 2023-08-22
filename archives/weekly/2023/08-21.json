@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692675240522,
+  "endTime": 1692677966473,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2155908,
+      "num": 2155908,
+      "word": "六公主在播封神榜妖灭",
+      "onboard_time": 1692673598,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2089350,
       "num": 2089350,
       "word": "莫斯科所有机场禁止进出航班",
@@ -97,6 +105,14 @@
       "onboard_time": 1692630761,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1954417,
+      "num": 1954417,
+      "word": "星期二没人约很正常的啦",
+      "onboard_time": 1692672458,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 1952851,
@@ -395,16 +411,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1087539,
-      "num": 1087539,
-      "word": "六公主在播封神榜妖灭",
-      "onboard_time": 1692673598,
-      "rank": 13,
+      "raw_hot": 1107135,
+      "num": 1107135,
+      "word": "官配是有官配的道理",
+      "onboard_time": 1692673477,
+      "rank": 30,
       "category": "影视"
     },
     {
       "raw_hot": 1074264,
-      "num": 439313,
+      "num": 469811,
       "word": "妈妈偷走录取通知书阻挠女儿入学",
       "onboard_time": 1692671195,
       "rank": 30,
@@ -473,6 +489,22 @@
       "onboard_time": 1692600937,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 986607,
+      "num": 986607,
+      "word": "孤注一掷票房是谁在扛",
+      "onboard_time": 1692676179,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 984621,
+      "num": 984621,
+      "word": "茉莉奶白",
+      "onboard_time": 1692675517,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 979284,
@@ -611,12 +643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 867742,
+      "num": 469914,
+      "word": "妈妈给娃洗澡时发病半岁宝宝不幸溺亡",
+      "onboard_time": 1692676720,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843478,
       "num": 342915,
       "word": "张子枫指甲可太显眼了",
       "onboard_time": 1692600277,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 841175,
+      "num": 841175,
+      "word": "天官赐福",
+      "onboard_time": 1692672936,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 839755,
@@ -649,14 +697,6 @@
       "onboard_time": 1692592722,
       "rank": 3,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 806568,
-      "num": 437036,
-      "word": "天官赐福",
-      "onboard_time": 1692672936,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 804980,
@@ -795,14 +835,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 731276,
-      "num": 731276,
-      "word": "星期二没人约很正常的啦",
-      "onboard_time": 1692672458,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 731203,
       "num": 731203,
       "word": "沈腾 中国最帅的男演员全在这了",
@@ -840,6 +872,14 @@
       "word": "李兰迪王阳好嗑",
       "onboard_time": 1692631120,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 698586,
+      "num": 698586,
+      "word": "长相思第二季分集简介",
+      "onboard_time": 1692673959,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -937,6 +977,14 @@
       "onboard_time": 1692661714,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640758,
+      "num": 640758,
+      "word": "长沙的烧烤分量真的这么少吗",
+      "onboard_time": 1692673300,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 637984,
@@ -1043,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 587053,
-      "num": 560868,
-      "word": "官配是有官配的道理",
-      "onboard_time": 1692673477,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 586731,
       "num": 586731,
       "word": "玱玹今晚大婚",
@@ -1099,6 +1139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 545382,
+      "num": 545382,
+      "word": "昆明一窨井里发现两具年轻男尸",
+      "onboard_time": 1692675760,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536544,
       "num": 598127,
       "word": "2023年国考过审人数达近260万人",
@@ -1113,14 +1161,6 @@
       "onboard_time": 1692575914,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 534483,
-      "num": 434958,
-      "word": "长相思第二季分集简介",
-      "onboard_time": 1692673959,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 523741,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1692622419,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510233,
+      "num": 510233,
+      "word": "胡兵报平安",
+      "onboard_time": 1692676962,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 505601,
@@ -1353,6 +1401,14 @@
       "onboard_time": 1692620498,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 466200,
+      "num": 466200,
+      "word": "坚如磐石张艺谋要求全员素颜",
+      "onboard_time": 1692676000,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 465914,
@@ -1611,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395532,
+      "num": 395532,
+      "word": "莲花楼与琅琊榜的悲与歌",
+      "onboard_time": 1692676838,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392624,
       "num": 373906,
       "word": "相柳这次有东方青苍",
@@ -1779,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344247,
+      "num": 344247,
+      "word": "李兰迪说王阳每条褶子都恰到好处",
+      "onboard_time": 1692674857,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343230,
       "num": 1382760,
       "word": "奶奶起身吃力3岁狗狗甘当拐杖",
@@ -1809,14 +1881,6 @@
       "onboard_time": 1692595419,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337878,
-      "num": 337878,
-      "word": "李兰迪说王阳每条褶子都恰到好处",
-      "onboard_time": 1692674857,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 337806,
@@ -1851,20 +1915,20 @@
       "category": "情感,科技"
     },
     {
-      "raw_hot": 334888,
-      "num": 440946,
-      "word": "长沙的烧烤分量真的这么少吗",
-      "onboard_time": 1692673300,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 334881,
       "num": 334881,
       "word": "田曦薇李玉湖被偷亲的反应",
       "onboard_time": 1692589418,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333649,
+      "num": 333649,
+      "word": "东方明珠下惊现重庆黄色法拉利",
+      "onboard_time": 1692676903,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330348,
@@ -2147,6 +2211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296329,
+      "num": 296329,
+      "word": "云边有个小卖部",
+      "onboard_time": 1692677684,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296164,
       "num": 296164,
       "word": "相柳心软了",
@@ -2193,6 +2265,14 @@
       "onboard_time": 1692606396,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292021,
+      "num": 292021,
+      "word": "在暴雪时分",
+      "onboard_time": 1692675396,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 291892,
@@ -2387,6 +2467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267641,
+      "num": 267641,
+      "word": "泼天的富贵轮到七夕的我了",
+      "onboard_time": 1692676361,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 267598,
       "num": 221386,
       "word": "周翊然直播",
@@ -2571,6 +2659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240950,
+      "num": 240950,
+      "word": "全孝之死拍摄记录",
+      "onboard_time": 1692677560,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240839,
       "num": 240839,
       "word": "原来长相思有五对cp",
@@ -2625,6 +2721,14 @@
       "onboard_time": 1692584073,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233279,
+      "num": 233279,
+      "word": "胡歌用脚比个心",
+      "onboard_time": 1692677441,
+      "rank": 46,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 232336,
@@ -2827,6 +2931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211120,
+      "num": 211120,
+      "word": "光遇",
+      "onboard_time": 1692677381,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211080,
       "num": 211080,
       "word": "容错率高的家庭有多幸福",
@@ -2873,6 +2985,14 @@
       "onboard_time": 1692573749,
       "rank": 17,
       "category": "综艺,社会新闻"
+    },
+    {
+      "raw_hot": 208226,
+      "num": 211086,
+      "word": "各省份吃辣排行",
+      "onboard_time": 1692677260,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 207915,
@@ -3675,6 +3795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89655,
+      "num": 281539,
+      "word": "今年七夕的红线是饿了么牵的",
+      "onboard_time": 1692676838,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89040,
       "num": 89040,
       "word": "EDG止步六强",
@@ -3743,6 +3871,14 @@
       "num": 1079680,
       "word": "60秒打卡缤纷南非",
       "onboard_time": 1692588336,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59479,
+      "num": 1604294,
+      "word": "2023金砖会晤",
+      "onboard_time": 1692676600,
       "rank": 2,
       "category": "社会新闻"
     },
