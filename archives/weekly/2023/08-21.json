@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692692454423,
+  "endTime": 1692693242982,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2604578,
+      "num": 1419419,
+      "word": "胡歌留学事件",
+      "onboard_time": 1692688719,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2573335,
       "num": 2573335,
       "word": "安慕希回应主播不当言论",
       "onboard_time": 1692610595,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2537820,
-      "num": 1419419,
-      "word": "胡歌留学事件",
-      "onboard_time": 1692688719,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 2486877,
@@ -283,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1648539,
+      "num": 356121,
+      "word": "陈晓送陈妍希的七夕礼物",
+      "onboard_time": 1692689385,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1607203,
       "num": 1607203,
       "word": "女子账户不分昼夜有钱转入每次1分钱",
@@ -387,12 +395,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1369685,
-      "num": 325773,
-      "word": "陈晓送陈妍希的七夕礼物",
-      "onboard_time": 1692689385,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 1387607,
+      "num": 1387607,
+      "word": "天津着火大厦火情已被控制",
+      "onboard_time": 1692691125,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1318104,
@@ -528,14 +536,6 @@
       "word": "女子使用酒店毛巾后发现不明血迹报警",
       "onboard_time": 1692679483,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1086659,
-      "num": 1086659,
-      "word": "天津着火大厦火情已被控制",
-      "onboard_time": 1692691125,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -843,20 +843,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 788176,
+      "num": 353480,
+      "word": "肖战工作室发了18宫格",
+      "onboard_time": 1692689084,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 782803,
       "num": 782803,
       "word": "当我姐发现自己曾拒绝过华为",
       "onboard_time": 1692543404,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 777325,
-      "num": 325456,
-      "word": "肖战工作室发了18宫格",
-      "onboard_time": 1692689084,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 776885,
@@ -1044,7 +1044,7 @@
     },
     {
       "raw_hot": 692275,
-      "num": 325303,
+      "num": 345632,
       "word": "Angelababy亲出声了",
       "onboard_time": 1692689025,
       "rank": 22,
@@ -1379,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532908,
+      "num": 346313,
+      "word": "杨幂说我呸过爱情",
+      "onboard_time": 1692690883,
+      "rank": 18,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 529830,
       "num": 529830,
       "word": "长相思今天更新2集",
@@ -1428,7 +1436,7 @@
     },
     {
       "raw_hot": 510354,
-      "num": 324559,
+      "num": 341568,
       "word": "萧敬腾林有慧公开恋情后首封",
       "onboard_time": 1692689624,
       "rank": 44,
@@ -1633,14 +1641,6 @@
       "onboard_time": 1692673598,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 468452,
-      "num": 324151,
-      "word": "杨幂说我呸过爱情",
-      "onboard_time": 1692690883,
-      "rank": 18,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 467013,
@@ -1988,7 +1988,7 @@
     },
     {
       "raw_hot": 390431,
-      "num": 243878,
+      "num": 301682,
       "word": "无意中看到了爸爸的网购记录",
       "onboard_time": 1692690524,
       "rank": 30,
@@ -2020,7 +2020,7 @@
     },
     {
       "raw_hot": 386890,
-      "num": 323941,
+      "num": 338948,
       "word": "海光寺",
       "onboard_time": 1692689746,
       "rank": 19,
@@ -2063,6 +2063,14 @@
       "num": 377634,
       "word": "相柳角色号大结局会删博吗",
       "onboard_time": 1692593922,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 377503,
+      "num": 294194,
+      "word": "封神第一部票房破23亿",
+      "onboard_time": 1692692564,
       "rank": 25,
       "category": "影视"
     },
@@ -2121,6 +2129,14 @@
       "onboard_time": 1692681998,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364954,
+      "num": 292418,
+      "word": "邓为 华伦天奴",
+      "onboard_time": 1692692981,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 358094,
@@ -2209,6 +2225,14 @@
       "onboard_time": 1692601897,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342297,
+      "num": 286164,
+      "word": "蒲熠星画的蓉门童",
+      "onboard_time": 1692692381,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 342036,
@@ -2691,6 +2715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288500,
+      "num": 288500,
+      "word": "沧州巨响",
+      "onboard_time": 1692693041,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285749,
       "num": 285749,
       "word": "田曦薇恶女风造型",
@@ -3019,6 +3051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257702,
+      "num": 257702,
+      "word": "张雨绮帮人问长相思第二季什么时候上",
+      "onboard_time": 1692691063,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257303,
       "num": 257303,
       "word": "沈月的图好适合当头像",
@@ -3033,14 +3073,6 @@
       "onboard_time": 1692597695,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256600,
-      "num": 243326,
-      "word": "张雨绮帮人问长相思第二季什么时候上",
-      "onboard_time": 1692691063,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 255174,
@@ -3203,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235685,
+      "num": 235685,
+      "word": "七夕这么会过不要命啦",
+      "onboard_time": 1692689446,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235661,
       "num": 224374,
       "word": "难怪我打开就装不进去了",
@@ -3217,14 +3257,6 @@
       "onboard_time": 1692584073,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232773,
-      "num": 232773,
-      "word": "七夕这么会过不要命啦",
-      "onboard_time": 1692689446,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 232336,
@@ -3329,6 +3361,14 @@
       "onboard_time": 1692630879,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220797,
+      "num": 220797,
+      "word": "井胧井迪唱歌家务两不误",
+      "onboard_time": 1692692859,
+      "rank": 36,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 220616,
@@ -3545,6 +3585,14 @@
       "onboard_time": 1692673538,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204499,
+      "num": 204499,
+      "word": "西安卫健委和计划生育协会七夕催生",
+      "onboard_time": 1692692921,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204190,
@@ -3899,16 +3947,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 179863,
-      "num": 179863,
-      "word": "蒲熠星画的蓉门童",
-      "onboard_time": 1692692381,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178243,
-      "num": 178243,
+      "num": 204202,
       "word": "民政局为七夕新人准备誓词和汉服",
       "onboard_time": 1692692261,
       "rank": 44,
@@ -4243,6 +4283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135024,
+      "num": 349352,
+      "word": "辅警凌晨下班路上顺手抓了4个贼",
+      "onboard_time": 1692691243,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134718,
       "num": 170000,
       "word": "古人给猫取名能多有诗意",
@@ -4375,14 +4423,6 @@
       "num": 520819,
       "word": "女子收来的老布料藏着4张80年代存单",
       "onboard_time": 1692619237,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99641,
-      "num": 325018,
-      "word": "辅警凌晨下班路上顺手抓了4个贼",
-      "onboard_time": 1692691243,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -4547,6 +4587,14 @@
       "category": "社会议题,综艺"
     },
     {
+      "raw_hot": 48704,
+      "num": 1016642,
+      "word": "让世界听到更多的金砖声音",
+      "onboard_time": 1692691843,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47418,
       "num": 443013,
       "word": "8旬爷爷贴身陪护病妻22年",
@@ -4595,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39818,
+      "num": 211111,
+      "word": "AI成了我的开会嘴替",
+      "onboard_time": 1692691243,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39423,
       "num": 39423,
       "word": "你们还真是一个都不OOC",
@@ -4609,22 +4665,6 @@
       "onboard_time": 1692563833,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 38494,
-      "num": 200521,
-      "word": "AI成了我的开会嘴替",
-      "onboard_time": 1692691243,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31353,
-      "num": 1016642,
-      "word": "让世界听到更多的金砖声音",
-      "onboard_time": 1692691843,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31271,
