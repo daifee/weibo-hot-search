@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692711235233,
+  "endTime": 1692713714167,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -115,6 +115,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 2057808,
+      "num": 519144,
+      "word": "林心如说七夕感觉在过鬼节",
+      "onboard_time": 1692709178,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2002745,
       "num": 2002745,
       "word": "看到凸起的那一刻我小脑萎缩了",
@@ -123,20 +131,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1978445,
+      "num": 431668,
+      "word": "魏大勋连续两年七夕没露脸",
+      "onboard_time": 1692710860,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1973364,
       "num": 1330993,
       "word": "昆明一窨井里发现两具年轻男尸",
       "onboard_time": 1692675760,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1909643,
-      "num": 519144,
-      "word": "林心如说七夕感觉在过鬼节",
-      "onboard_time": 1692709178,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1834347,
@@ -283,6 +291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1167595,
+      "num": 1167595,
+      "word": "檀健次直播",
+      "onboard_time": 1692706292,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1135832,
       "num": 380174,
       "word": "孙阳的手串 戴不完根本戴不完",
@@ -353,14 +369,6 @@
       "onboard_time": 1692672458,
       "rank": 8,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 1051700,
-      "num": 1051700,
-      "word": "檀健次直播",
-      "onboard_time": 1692706292,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1044664,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659233,
+      "num": 659233,
+      "word": "一个人坐高铁行李箱只能放脚下",
+      "onboard_time": 1692709600,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 658216,
       "num": 658216,
       "word": "A股",
@@ -720,6 +736,14 @@
       "word": "云边有个小卖部",
       "onboard_time": 1692677684,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 599288,
+      "num": 599288,
+      "word": "彪子 曾经只有侯雯元爱你",
+      "onboard_time": 1692711100,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1027,14 +1051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 465814,
-      "num": 258718,
-      "word": "魏大勋连续两年七夕没露脸",
-      "onboard_time": 1692710860,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 465582,
       "num": 465582,
       "word": "檀健次螺蛳粉厂长",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1692684703,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417384,
+      "num": 430816,
+      "word": "中方召见日本驻华大使",
+      "onboard_time": 1692713206,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417357,
@@ -1355,6 +1379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 361644,
+      "num": 430440,
+      "word": "日本核污染水排海至少要持续30年",
+      "onboard_time": 1692711285,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361553,
       "num": 361553,
       "word": "涂山璟已婚",
@@ -1408,6 +1440,14 @@
       "word": "李兰迪说王阳每条褶子都恰到好处",
       "onboard_time": 1692674857,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 342498,
+      "num": 334255,
+      "word": "成毅唱的就在江湖之上",
+      "onboard_time": 1692712669,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -1489,6 +1529,14 @@
       "onboard_time": 1692680622,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 324147,
+      "num": 324147,
+      "word": "中国男篮",
+      "onboard_time": 1692712428,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 322580,
@@ -1627,14 +1675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295078,
-      "num": 358164,
-      "word": "一个人坐高铁行李箱只能放脚下",
-      "onboard_time": 1692709600,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 294756,
       "num": 328925,
       "word": "亚冠",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1692686316,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268846,
+      "num": 268846,
+      "word": "杨幂整挺好下次bie整了",
+      "onboard_time": 1692713148,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 268004,
@@ -2043,12 +2091,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218994,
-      "num": 191625,
-      "word": "彪子 曾经只有侯雯元爱你",
-      "onboard_time": 1692711100,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 219080,
+      "num": 219080,
+      "word": "好想过这种没意思的生活",
+      "onboard_time": 1692709717,
+      "rank": 38,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 217411,
@@ -2187,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204530,
+      "num": 204530,
+      "word": "夭柳欢喜冤家",
+      "onboard_time": 1692713266,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204190,
       "num": 204190,
       "word": "彭昱畅周也新片首搭",
@@ -2283,14 +2339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198662,
-      "num": 198662,
-      "word": "好想过这种没意思的生活",
-      "onboard_time": 1692709717,
-      "rank": 38,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 198108,
       "num": 195901,
       "word": "愿我们不止七夕更在朝夕",
@@ -2321,6 +2369,14 @@
       "onboard_time": 1692641057,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 196728,
+      "num": 204601,
+      "word": "南瓜挞",
+      "onboard_time": 1692712968,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 195989,
@@ -2499,6 +2555,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 166419,
+      "num": 200931,
+      "word": "浙江队晋级亚冠正赛",
+      "onboard_time": 1692712247,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162880,
       "num": 162880,
       "word": "左立回应怒吼",
@@ -2521,6 +2585,14 @@
       "onboard_time": 1692646875,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160574,
+      "num": 200608,
+      "word": "供电局回应员工家属疑炫富事件",
+      "onboard_time": 1692713026,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158832,
@@ -2595,12 +2667,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143682,
+      "num": 200077,
+      "word": "新疆吐鲁番西瓜5元一个也难卖",
+      "onboard_time": 1692713687,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142791,
       "num": 142791,
       "word": "十个勤天居家种菜小课堂",
       "onboard_time": 1692632255,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141142,
+      "num": 199844,
+      "word": "上海海港2比3巴吞联",
+      "onboard_time": 1692713627,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 140503,
@@ -2825,6 +2913,14 @@
       "onboard_time": 1692645374,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 23658,
+      "num": 429921,
+      "word": "戎装配红妆100对新人喜结连理",
+      "onboard_time": 1692712854,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
