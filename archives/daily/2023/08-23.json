@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692743626351,
+  "endTime": 1692746139866,
   "band_list": [
     {
       "raw_hot": 1901324,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1434332,
+      "num": 958075,
+      "word": "百万网红被闺蜜骗至东南亚生死未卜",
+      "onboard_time": 1692721473,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1066744,
       "num": 209303,
       "word": "17岁少年目睹爷爷被人殴打后投河身亡",
@@ -33,14 +41,6 @@
       "onboard_time": 1692720217,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 958075,
-      "num": 958075,
-      "word": "百万网红被闺蜜骗至东南亚生死未卜",
-      "onboard_time": 1692721473,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 929199,
@@ -147,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 428653,
+      "num": 428653,
+      "word": "妻子车祸被困丈夫头包纱布围着安抚",
+      "onboard_time": 1692742698,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419283,
       "num": 419283,
       "word": "长相思角色号全员告别",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 384514,
-      "num": 208963,
+      "num": 296621,
       "word": "民政局直播新人领证仅12对登记",
       "onboard_time": 1692718666,
       "rank": 24,
@@ -208,6 +216,14 @@
       "word": "中方召见日本驻华大使",
       "onboard_time": 1692713206,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315791,
+      "num": 315791,
+      "word": "日本核污染水排海至少要持续30年",
+      "onboard_time": 1692711285,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -267,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243490,
-      "num": 276126,
-      "word": "日本核污染水排海至少要持续30年",
-      "onboard_time": 1692711285,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237023,
       "num": 205809,
       "word": "SEVENTEEN日专",
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220722,
+      "num": 220722,
+      "word": "小生一番内地票房排行",
+      "onboard_time": 1692722729,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212322,
       "num": 199126,
       "word": "相柳活的好好的别哭",
@@ -299,12 +315,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211999,
+      "num": 211999,
+      "word": "C罗怒喷傅明",
+      "onboard_time": 1692745765,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209541,
       "num": 209541,
       "word": "一个人坐高铁行李箱只能放脚下",
       "onboard_time": 1692709600,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208879,
+      "num": 208879,
+      "word": "处暑",
+      "onboard_time": 1692745345,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207749,
@@ -331,12 +363,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180281,
-      "num": 180281,
-      "word": "小生一番内地票房排行",
-      "onboard_time": 1692722729,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 170542,
+      "num": 214424,
+      "word": "挪用诈骗团伙160万不堪威胁自首",
+      "onboard_time": 1692739693,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166559,
@@ -347,20 +379,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166129,
+      "num": 202401,
+      "word": "小男孩每天上幼儿园的离别时刻",
+      "onboard_time": 1692720161,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165476,
       "num": 165476,
       "word": "孤注一掷成七夕档票房冠军",
       "onboard_time": 1692722250,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162286,
-      "num": 202401,
-      "word": "小男孩每天上幼儿园的离别时刻",
-      "onboard_time": 1692720161,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 161862,
@@ -427,14 +459,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 113465,
-      "num": 101203,
-      "word": "挪用诈骗团伙160万不堪威胁自首",
-      "onboard_time": 1692739693,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107442,
       "num": 185804,
       "word": "对幸福的感知力不如初高中时的样子",
@@ -457,6 +481,14 @@
       "onboard_time": 1692721712,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 92223,
+      "num": 92223,
+      "word": "官方回应少年目睹爷爷被殴打后投河身亡",
+      "onboard_time": 1692729078,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88633,
@@ -483,6 +515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78932,
+      "num": 78932,
+      "word": "你最后终于做到了讲普通话的电影",
+      "onboard_time": 1692738314,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 75944,
+      "num": 83273,
+      "word": "每次去文具店都会被刷新一次认知",
+      "onboard_time": 1692727158,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72361,
       "num": 83328,
       "word": "金高银VOGUE九月刊",
@@ -491,11 +539,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 63963,
-      "num": 83273,
-      "word": "每次去文具店都会被刷新一次认知",
-      "onboard_time": 1692727158,
-      "rank": 41,
+      "raw_hot": 67747,
+      "num": 67747,
+      "word": "衢州这个婚登处领证仪式感爆棚",
+      "onboard_time": 1692745283,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -505,14 +553,6 @@
       "onboard_time": 1692726979,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 56814,
-      "num": 56814,
-      "word": "官方回应少年目睹爷爷被殴打后投河身亡",
-      "onboard_time": 1692729078,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51052,
@@ -539,20 +579,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39215,
-      "num": 39215,
-      "word": "妻子车祸被困丈夫头包纱布围着安抚",
-      "onboard_time": 1692742698,
-      "rank": 41,
+      "raw_hot": 33081,
+      "num": 567956,
+      "word": "金砖国家形象网宣片",
+      "onboard_time": 1692709178,
+      "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38274,
-      "num": 38274,
-      "word": "你最后终于做到了讲普通话的电影",
-      "onboard_time": 1692738314,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 29859,
@@ -561,14 +593,6 @@
       "onboard_time": 1692732795,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18399,
-      "num": 567956,
-      "word": "金砖国家形象网宣片",
-      "onboard_time": 1692709178,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7532,
