@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692674213120,
+  "endTime": 1692675240522,
   "band_list": [
     {
       "raw_hot": 3372211,
@@ -91,6 +91,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1087539,
+      "num": 1087539,
+      "word": "六公主在播封神榜妖灭",
+      "onboard_time": 1692673598,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1074264,
+      "num": 439313,
+      "word": "妈妈偷走录取通知书阻挠女儿入学",
+      "onboard_time": 1692671195,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1071777,
       "num": 1071777,
       "word": "顾漫更新骄阳似我下",
@@ -107,20 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1063066,
+      "num": 1063066,
+      "word": "韩国人为什么这么痴迷糖葫芦",
+      "onboard_time": 1692672458,
+      "rank": 8,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 1044664,
+      "num": 676586,
+      "word": "李光洁隋雨蒙官宣二胎",
+      "onboard_time": 1692673418,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1038644,
       "num": 1038644,
       "word": "林俊杰晒了Angelababy照片",
       "onboard_time": 1692660328,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 953948,
-      "num": 411825,
-      "word": "妈妈偷走录取通知书阻挠女儿入学",
-      "onboard_time": 1692671195,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 891498,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 806568,
-      "num": 401823,
+      "num": 437036,
       "word": "天官赐福",
       "onboard_time": 1692672936,
       "rank": 22,
@@ -187,20 +211,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 760080,
-      "num": 760080,
-      "word": "韩国人为什么这么痴迷糖葫芦",
-      "onboard_time": 1692672458,
-      "rank": 8,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 736091,
-      "num": 376888,
+      "num": 428790,
       "word": "去完一趟新疆发现体质变了",
       "onboard_time": 1692669215,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 731276,
+      "num": 731276,
+      "word": "星期二没人约很正常的啦",
+      "onboard_time": 1692672458,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 728298,
@@ -235,20 +259,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 675826,
-      "num": 634154,
-      "word": "李光洁隋雨蒙官宣二胎",
-      "onboard_time": 1692673418,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 672695,
       "num": 672695,
       "word": "魏大勋爆火前后的站位",
       "onboard_time": 1692668916,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 668380,
+      "num": 668380,
+      "word": "17岁的齐刘海刘诗诗",
+      "onboard_time": 1692673418,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 658216,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 635357,
-      "num": 393836,
+      "num": 430479,
       "word": "21岁小伙和女网友吃饭被捅身亡",
       "onboard_time": 1692670237,
       "rank": 23,
@@ -289,6 +313,14 @@
       "onboard_time": 1692632077,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 587053,
+      "num": 560868,
+      "word": "官配是有官配的道理",
+      "onboard_time": 1692673477,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 586798,
@@ -347,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534483,
+      "num": 434958,
+      "word": "长相思第二季分集简介",
+      "onboard_time": 1692673959,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 517015,
       "num": 517015,
       "word": "医院擅自微创转开胸手术致女童脑死亡",
@@ -371,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 495043,
+      "num": 495043,
+      "word": "美国敦促公民尽快离开白俄罗斯",
+      "onboard_time": 1692667718,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491137,
       "num": 491137,
       "word": "魏大勋去年用孟宴臣身份过的七夕",
@@ -387,28 +435,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 487179,
-      "num": 487179,
-      "word": "六公主在播封神榜妖灭",
-      "onboard_time": 1692673598,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 486453,
       "num": 486453,
       "word": "被体重90斤同事的饭量惊呆了",
       "onboard_time": 1692660990,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 478219,
-      "num": 450201,
-      "word": "17岁的齐刘海刘诗诗",
-      "onboard_time": 1692673418,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 472581,
@@ -427,19 +459,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 468966,
-      "num": 429625,
-      "word": "美国敦促公民尽快离开白俄罗斯",
-      "onboard_time": 1692667718,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463267,
-      "num": 323208,
-      "word": "官配是有官配的道理",
-      "onboard_time": 1692673477,
-      "rank": 30,
+      "raw_hot": 471077,
+      "num": 430368,
+      "word": "李莲花为什么必须死",
+      "onboard_time": 1692673598,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -451,14 +475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 427581,
-      "num": 427581,
-      "word": "星期二没人约很正常的啦",
-      "onboard_time": 1692672458,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 415454,
       "num": 362264,
       "word": "迪丽热巴穿了吊带红裙",
@@ -467,20 +483,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 413216,
+      "num": 413216,
+      "word": "未定事件簿 橘朵",
+      "onboard_time": 1692674199,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 413215,
       "num": 362181,
       "word": "珍惜羽毛的明星",
       "onboard_time": 1692631238,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 412605,
-      "num": 412605,
-      "word": "李莲花为什么必须死",
-      "onboard_time": 1692673598,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 411612,
@@ -515,11 +531,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 390056,
+      "num": 390056,
+      "word": "折腰",
+      "onboard_time": 1692673959,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385654,
       "num": 359448,
       "word": "王阳回应与李兰迪演情侣",
       "onboard_time": 1692669633,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 377202,
+      "num": 377202,
+      "word": "以爱为营",
+      "onboard_time": 1692674381,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -579,12 +611,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337878,
+      "num": 337878,
+      "word": "李兰迪说王阳每条褶子都恰到好处",
+      "onboard_time": 1692674857,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335795,
       "num": 225267,
       "word": "好声音为何不再被叫好",
       "onboard_time": 1692626862,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334888,
+      "num": 440946,
+      "word": "长沙的烧烤分量真的这么少吗",
+      "onboard_time": 1692673300,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 325868,
+      "num": 325868,
+      "word": "范丞丞终于等到魏大勋cue杨澄了",
+      "onboard_time": 1692673117,
+      "rank": 32,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 321641,
@@ -601,14 +657,6 @@
       "onboard_time": 1692666277,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311547,
-      "num": 311547,
-      "word": "折腰",
-      "onboard_time": 1692673959,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 310697,
@@ -635,19 +683,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303641,
-      "num": 303641,
-      "word": "范丞丞终于等到魏大勋cue杨澄了",
-      "onboard_time": 1692673117,
-      "rank": 32,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 301542,
       "num": 301542,
       "word": "张万森好久不见",
       "onboard_time": 1692670298,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 299683,
+      "num": 299683,
+      "word": "长相思相柳最后娶了谁",
+      "onboard_time": 1692674498,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -875,14 +923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215307,
-      "num": 215307,
-      "word": "长相思第二季分集简介",
-      "onboard_time": 1692673959,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 215267,
       "num": 215267,
       "word": "夭柳海底看鲛人被删改了",
@@ -897,6 +937,14 @@
       "onboard_time": 1692631957,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212684,
+      "num": 258338,
+      "word": "橘朵未定联动",
+      "onboard_time": 1692674799,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 211863,
@@ -1011,14 +1059,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 195976,
-      "num": 195976,
-      "word": "未定事件簿 橘朵",
-      "onboard_time": 1692674199,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194387,
       "num": 194387,
       "word": "爸爸让我的妈妈多陪我30年",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1692669575,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192178,
+      "num": 192178,
+      "word": "狗狗突然反常大叫开门发现邻居家着火",
+      "onboard_time": 1692674079,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189314,
