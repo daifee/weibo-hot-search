@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692669729660,
+  "endTime": 1692670869348,
   "band_list": [
     {
       "raw_hot": 3372211,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2089350,
+      "num": 2089350,
+      "word": "莫斯科所有机场禁止进出航班",
+      "onboard_time": 1692665380,
+      "rank": 4,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 2002745,
       "num": 2002745,
       "word": "看到凸起的那一刻我小脑萎缩了",
       "onboard_time": 1692630761,
       "rank": 0,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1926115,
-      "num": 1926115,
-      "word": "莫斯科所有机场禁止进出航班",
-      "onboard_time": 1692665380,
-      "rank": 4,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1834347,
@@ -65,6 +65,14 @@
       "onboard_time": 1692632616,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1450715,
+      "num": 1450715,
+      "word": "24日起日本将开始核污染水排海",
+      "onboard_time": 1692669215,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1414285,
@@ -129,6 +137,22 @@
       "onboard_time": 1692666519,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 740667,
+      "num": 740667,
+      "word": "沈腾好像刚从月子中心出来",
+      "onboard_time": 1692669277,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 736091,
+      "num": 361484,
+      "word": "去完一趟新疆发现体质变了",
+      "onboard_time": 1692669215,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 728298,
@@ -227,12 +251,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 543991,
+      "num": 543991,
+      "word": "魏大勋爆火前后的站位",
+      "onboard_time": 1692668916,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 543810,
       "num": 543810,
       "word": "李兰迪王阳好嗑",
       "onboard_time": 1692631120,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 543772,
+      "num": 543772,
+      "word": "A股",
+      "onboard_time": 1692670358,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 540896,
@@ -243,11 +283,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510083,
-      "num": 510083,
-      "word": "24日起日本将开始核污染水排海",
-      "onboard_time": 1692669215,
-      "rank": 12,
+      "raw_hot": 517944,
+      "num": 517944,
+      "word": "北京大兴出现一只一米长巨型蜥蜴",
+      "onboard_time": 1692669633,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517015,
+      "num": 517015,
+      "word": "医院擅自微创转开胸手术致女童脑死亡",
+      "onboard_time": 1692665677,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -259,12 +307,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 501220,
-      "num": 474484,
-      "word": "医院擅自微创转开胸手术致女童脑死亡",
-      "onboard_time": 1692665677,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 495658,
+      "num": 495658,
+      "word": "沈腾说这集播出时魏大勋都过气了",
+      "onboard_time": 1692666639,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 491137,
@@ -275,12 +323,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 486524,
-      "num": 486524,
-      "word": "沈腾说这集播出时魏大勋都过气了",
-      "onboard_time": 1692666639,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 487497,
+      "num": 487497,
+      "word": "孤注一掷进入中国影史票房TOP20",
+      "onboard_time": 1692667718,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 486453,
@@ -299,8 +347,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 471687,
+      "num": 360158,
+      "word": "一闪一闪亮星星",
+      "onboard_time": 1692669277,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 468966,
-      "num": 351679,
+      "num": 358817,
       "word": "美国敦促公民尽快离开白俄罗斯",
       "onboard_time": 1692667718,
       "rank": 49,
@@ -313,6 +369,14 @@
       "onboard_time": 1692662074,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 459228,
+      "num": 359765,
+      "word": "21岁小伙和女网友吃饭被捅身亡",
+      "onboard_time": 1692670237,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415454,
@@ -363,11 +427,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 382264,
-      "num": 382264,
-      "word": "孤注一掷进入中国影史票房TOP20",
-      "onboard_time": 1692667718,
-      "rank": 48,
+      "raw_hot": 381898,
+      "num": 359448,
+      "word": "王阳回应与李兰迪演情侣",
+      "onboard_time": 1692669633,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -403,28 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358206,
-      "num": 351417,
-      "word": "沈腾好像刚从月子中心出来",
-      "onboard_time": 1692669277,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 352663,
       "num": 352663,
       "word": "蝉女",
       "onboard_time": 1692628363,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 350951,
-      "num": 350951,
-      "word": "魏大勋爆火前后的站位",
-      "onboard_time": 1692668916,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 348484,
@@ -443,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331084,
-      "num": 331084,
-      "word": "去完一趟新疆发现体质变了",
-      "onboard_time": 1692669215,
-      "rank": 26,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 321641,
       "num": 321641,
       "word": "想气血足就要像小孩子一样生活",
@@ -467,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305561,
+      "num": 305561,
+      "word": "与檀健次共度七夕",
+      "onboard_time": 1692669095,
+      "rank": 27,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 305361,
       "num": 305361,
       "word": "白皮书认证BLACKPINK四代登顶女团",
       "onboard_time": 1692661473,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295547,
-      "num": 295547,
-      "word": "与檀健次共度七夕",
-      "onboard_time": 1692669095,
-      "rank": 27,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 285742,
@@ -563,14 +603,6 @@
       "category": "科技,情感"
     },
     {
-      "raw_hot": 255302,
-      "num": 255302,
-      "word": "一闪一闪亮星星",
-      "onboard_time": 1692669277,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 242494,
       "num": 242494,
       "word": "拜托你考虑我",
@@ -633,6 +665,14 @@
       "onboard_time": 1692633216,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227046,
+      "num": 227046,
+      "word": "范丞丞魏大勋白敬亭跳queencard",
+      "onboard_time": 1692670477,
+      "rank": 37,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 226792,
@@ -699,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214067,
+      "num": 214067,
+      "word": "张万森好久不见",
+      "onboard_time": 1692670298,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211863,
       "num": 211863,
       "word": "篮球运动员撞脸利路修",
@@ -747,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202581,
+      "num": 202581,
+      "word": "一支雪糕是怎么诞生的",
+      "onboard_time": 1692669997,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201226,
       "num": 194786,
       "word": "女子看海时起身太猛掉进海里",
@@ -763,14 +819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 199684,
-      "num": 199684,
-      "word": "王阳回应与李兰迪演情侣",
-      "onboard_time": 1692669633,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199545,
       "num": 199545,
       "word": "粥和稀饭到底有啥区别",
@@ -785,6 +833,14 @@
       "onboard_time": 1692621159,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197875,
+      "num": 197875,
+      "word": "终于知道大家为啥单身了",
+      "onboard_time": 1692670177,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 196764,
@@ -809,14 +865,6 @@
       "onboard_time": 1692605916,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187213,
-      "num": 192391,
-      "word": "北京大兴出现一只一米长巨型蜥蜴",
-      "onboard_time": 1692669633,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187192,

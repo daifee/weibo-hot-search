@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692669729660,
+  "endTime": 1692670869348,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2089350,
+      "num": 2089350,
+      "word": "莫斯科所有机场禁止进出航班",
+      "onboard_time": 1692665380,
+      "rank": 4,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 2044981,
       "num": 2044981,
       "word": "已有152例猴痘病例死亡",
@@ -105,14 +113,6 @@
       "onboard_time": 1692573566,
       "rank": 33,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 1926115,
-      "num": 1926115,
-      "word": "莫斯科所有机场禁止进出航班",
-      "onboard_time": 1692665380,
-      "rank": 4,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1865340,
@@ -273,6 +273,14 @@
       "onboard_time": 1692596857,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1450715,
+      "num": 1450715,
+      "word": "24日起日本将开始核污染水排海",
+      "onboard_time": 1692669215,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1443006,
@@ -699,12 +707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740667,
+      "num": 740667,
+      "word": "沈腾好像刚从月子中心出来",
+      "onboard_time": 1692669277,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 737528,
       "num": 737528,
       "word": "无法保持长期自律的原因",
       "onboard_time": 1692602677,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 736091,
+      "num": 361484,
+      "word": "去完一趟新疆发现体质变了",
+      "onboard_time": 1692669215,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 731203,
@@ -780,7 +804,7 @@
     },
     {
       "raw_hot": 675126,
-      "num": 520878,
+      "num": 543772,
       "word": "A股",
       "onboard_time": 1692583413,
       "rank": 10,
@@ -971,6 +995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 543991,
+      "num": 543991,
+      "word": "魏大勋爆火前后的站位",
+      "onboard_time": 1692668916,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536544,
       "num": 598127,
       "word": "2023年国考过审人数达近260万人",
@@ -1003,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 517944,
+      "num": 517944,
+      "word": "北京大兴出现一只一米长巨型蜥蜴",
+      "onboard_time": 1692669633,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 517820,
       "num": 517820,
       "word": "姜潮差点替黄子韬徐艺洋官宣",
@@ -1011,20 +1051,20 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 517015,
+      "num": 517015,
+      "word": "医院擅自微创转开胸手术致女童脑死亡",
+      "onboard_time": 1692665677,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516863,
       "num": 516863,
       "word": "苏醒身负三代家当",
       "onboard_time": 1692622419,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 510083,
-      "num": 510083,
-      "word": "24日起日本将开始核污染水排海",
-      "onboard_time": 1692669215,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 505601,
@@ -1067,14 +1107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 501220,
-      "num": 474484,
-      "word": "医院擅自微创转开胸手术致女童脑死亡",
-      "onboard_time": 1692665677,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 496502,
       "num": 343005,
       "word": "只有四川人才懂这一碗的含金量",
@@ -1089,6 +1121,14 @@
       "onboard_time": 1692588156,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 495658,
+      "num": 495658,
+      "word": "沈腾说这集播出时魏大勋都过气了",
+      "onboard_time": 1692666639,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 495342,
@@ -1115,20 +1155,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 487497,
+      "num": 487497,
+      "word": "孤注一掷进入中国影史票房TOP20",
+      "onboard_time": 1692667718,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 486986,
       "num": 331201,
       "word": "花轿喜事定档8月28日",
       "onboard_time": 1692583413,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 486524,
-      "num": 486524,
-      "word": "沈腾说这集播出时魏大勋都过气了",
-      "onboard_time": 1692666639,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 486453,
@@ -1187,8 +1227,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 471687,
+      "num": 360158,
+      "word": "一闪一闪亮星星",
+      "onboard_time": 1692669277,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 468966,
-      "num": 351679,
+      "num": 358817,
       "word": "美国敦促公民尽快离开白俄罗斯",
       "onboard_time": 1692667718,
       "rank": 49,
@@ -1232,6 +1280,14 @@
       "word": "乘客未系安全带6次弹起致骨折",
       "onboard_time": 1692585275,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459228,
+      "num": 359765,
+      "word": "21岁小伙和女网友吃饭被捅身亡",
+      "onboard_time": 1692670237,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1475,20 +1531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 382264,
-      "num": 382264,
-      "word": "孤注一掷进入中国影史票房TOP20",
-      "onboard_time": 1692667718,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 382166,
       "num": 301237,
       "word": "女孩看到床就害怕和过度防晒有关",
       "onboard_time": 1692598417,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381898,
+      "num": 359448,
+      "word": "王阳回应与李兰迪演情侣",
+      "onboard_time": 1692669633,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 380385,
@@ -1531,14 +1587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358206,
-      "num": 351417,
-      "word": "沈腾好像刚从月子中心出来",
-      "onboard_time": 1692669277,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 358094,
       "num": 171865,
       "word": "经纪人否认周华健退出中国好声音",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1692575373,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 350951,
-      "num": 350951,
-      "word": "魏大勋爆火前后的站位",
-      "onboard_time": 1692668916,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 350616,
@@ -1681,14 +1721,6 @@
       "onboard_time": 1692589418,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 331084,
-      "num": 331084,
-      "word": "去完一趟新疆发现体质变了",
-      "onboard_time": 1692669215,
-      "rank": 26,
-      "category": "旅游"
     },
     {
       "raw_hot": 330348,
@@ -1875,6 +1907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 305561,
+      "num": 305561,
+      "word": "与檀健次共度七夕",
+      "onboard_time": 1692669095,
+      "rank": 27,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 305361,
       "num": 305361,
       "word": "白皮书认证BLACKPINK四代登顶女团",
@@ -1937,14 +1977,6 @@
       "onboard_time": 1692613777,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295547,
-      "num": 295547,
-      "word": "与檀健次共度七夕",
-      "onboard_time": 1692669095,
-      "rank": 27,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 295308,
@@ -2243,14 +2275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255302,
-      "num": 255302,
-      "word": "一闪一闪亮星星",
-      "onboard_time": 1692669277,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 247756,
       "num": 350589,
       "word": "去外省上大学的新生开始慌了",
@@ -2443,6 +2467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227046,
+      "num": 227046,
+      "word": "范丞丞魏大勋白敬亭跳queencard",
+      "onboard_time": 1692670477,
+      "rank": 37,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 226792,
       "num": 226792,
       "word": "男孩失联手机最后定位在缅甸",
@@ -2545,6 +2577,14 @@
       "onboard_time": 1692596017,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214067,
+      "num": 214067,
+      "word": "张万森好久不见",
+      "onboard_time": 1692670298,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 213835,
@@ -2699,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202581,
+      "num": 202581,
+      "word": "一支雪糕是怎么诞生的",
+      "onboard_time": 1692669997,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 202362,
       "num": 202362,
       "word": "现在就出发",
@@ -2747,14 +2795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199684,
-      "num": 199684,
-      "word": "王阳回应与李兰迪演情侣",
-      "onboard_time": 1692669633,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199545,
       "num": 199545,
       "word": "粥和稀饭到底有啥区别",
@@ -2777,6 +2817,14 @@
       "onboard_time": 1692605559,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197875,
+      "num": 197875,
+      "word": "终于知道大家为啥单身了",
+      "onboard_time": 1692670177,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 196764,
@@ -2889,14 +2937,6 @@
       "onboard_time": 1692610239,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 187213,
-      "num": 192391,
-      "word": "北京大兴出现一只一米长巨型蜥蜴",
-      "onboard_time": 1692669633,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187192,
