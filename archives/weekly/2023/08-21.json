@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692666590491,
+  "endTime": 1692667784697,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -59,8 +59,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 2347994,
-      "num": 2347994,
+      "raw_hot": 2379859,
+      "num": 2379859,
       "word": "亚洲象一鼻子甩出毒品2.8公斤",
       "onboard_time": 1692664057,
       "rank": 1,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1587982,
+      "num": 1587982,
+      "word": "莫斯科所有机场禁止进出航班",
+      "onboard_time": 1692665380,
+      "rank": 4,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1587027,
       "num": 1587027,
       "word": "iPhone换C口 安卓不通用",
@@ -225,14 +233,6 @@
       "onboard_time": 1692572663,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1533645,
-      "num": 1533645,
-      "word": "莫斯科所有机场禁止进出航班",
-      "onboard_time": 1692665380,
-      "rank": 4,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1515503,
@@ -297,6 +297,14 @@
       "onboard_time": 1692586956,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1258233,
+      "num": 712013,
+      "word": "对象能不能处看了学爸就知道",
+      "onboard_time": 1692665080,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1246380,
@@ -603,14 +611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 777766,
-      "num": 712013,
-      "word": "对象能不能处看了学爸就知道",
-      "onboard_time": 1692665080,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 774287,
       "num": 774287,
       "word": "相柳说谎",
@@ -736,6 +736,14 @@
       "word": "李兰迪王阳好嗑",
       "onboard_time": 1692631120,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 697180,
+      "num": 697180,
+      "word": "骄阳似我",
+      "onboard_time": 1692665321,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -923,20 +931,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566844,
-      "num": 566844,
-      "word": "骄阳似我",
-      "onboard_time": 1692665321,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 565101,
       "num": 340836,
       "word": "微信表白代码",
       "onboard_time": 1692619776,
       "rank": 21,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 555576,
+      "num": 494560,
+      "word": "金晨体重不到100斤",
+      "onboard_time": 1692664360,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 549053,
@@ -1044,7 +1052,7 @@
     },
     {
       "raw_hot": 501220,
-      "num": 320572,
+      "num": 412328,
       "word": "医院擅自微创转开胸手术致女童脑死亡",
       "onboard_time": 1692665677,
       "rank": 30,
@@ -1137,14 +1145,6 @@
       "onboard_time": 1692624339,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 477724,
-      "num": 477724,
-      "word": "金晨体重不到100斤",
-      "onboard_time": 1692664360,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 477288,
@@ -1507,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354507,
+      "num": 354507,
+      "word": "沈腾说这集播出时魏大勋都过气了",
+      "onboard_time": 1692666639,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354165,
       "num": 291335,
       "word": "标准浓颜和淡颜美女代表",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1692595419,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339924,
+      "num": 339924,
+      "word": "北方人真的不吃挂面吗",
+      "onboard_time": 1692666519,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 337806,
@@ -1729,6 +1745,14 @@
       "onboard_time": 1692593143,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 313928,
+      "num": 313928,
+      "word": "缅北诈骗为何屡禁不止",
+      "onboard_time": 1692666277,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313865,
@@ -1915,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284201,
+      "num": 284201,
+      "word": "王者荣耀",
+      "onboard_time": 1692666039,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283799,
       "num": 283799,
       "word": "伍佰演唱会",
@@ -1955,12 +1987,36 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 277292,
+      "num": 277292,
+      "word": "两边哄的恋爱脑父亲",
+      "onboard_time": 1692666338,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274676,
       "num": 274676,
       "word": "咋谁都认识大张伟",
       "onboard_time": 1692605318,
       "rank": 38,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 274002,
+      "num": 274002,
+      "word": "七夕前一天被喜欢的人表白了",
+      "onboard_time": 1692666576,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 272477,
+      "num": 272477,
+      "word": "王鹤棣坐树下梦回东方青苍",
+      "onboard_time": 1692666819,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 272418,
@@ -2363,20 +2419,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219476,
+      "num": 219476,
+      "word": "路遇老人心梗晕倒他没走开也没旁观",
+      "onboard_time": 1692666765,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219050,
       "num": 203963,
       "word": "孤注一掷",
       "onboard_time": 1692628181,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218323,
-      "num": 218323,
-      "word": "缅北诈骗为何屡禁不止",
-      "onboard_time": 1692666277,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217336,
@@ -2435,14 +2491,6 @@
       "category": "网红,情感"
     },
     {
-      "raw_hot": 211541,
-      "num": 211541,
-      "word": "两边哄的恋爱脑父亲",
-      "onboard_time": 1692666338,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 211349,
       "num": 211349,
       "word": "鲜花可以冰箱冷藏保鲜",
@@ -2499,22 +2547,6 @@
       "category": "综艺,社会新闻"
     },
     {
-      "raw_hot": 209294,
-      "num": 209294,
-      "word": "王者荣耀",
-      "onboard_time": 1692666039,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 208547,
-      "num": 208547,
-      "word": "北方人真的不吃挂面吗",
-      "onboard_time": 1692666519,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 207915,
       "num": 207915,
       "word": "大妈帮300人找对象3个月撮合7对",
@@ -2569,14 +2601,6 @@
       "onboard_time": 1692595718,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201909,
-      "num": 201909,
-      "word": "七夕前一天被喜欢的人表白了",
-      "onboard_time": 1692666576,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 200915,
@@ -2745,6 +2769,22 @@
       "onboard_time": 1692610239,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187842,
+      "num": 187842,
+      "word": "孤注一掷进入中国影史票房TOP20",
+      "onboard_time": 1692667718,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187773,
+      "num": 187773,
+      "word": "美国敦促公民尽快离开白俄罗斯",
+      "onboard_time": 1692667718,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187192,
@@ -3412,7 +3452,7 @@
     },
     {
       "raw_hot": 41130,
-      "num": 1749070,
+      "num": 1850792,
       "word": "2023金砖峰会先导片",
       "onboard_time": 1692626019,
       "rank": 2,
