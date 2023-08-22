@@ -1,6 +1,6 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692689640101,
+  "endTime": 1692692454423,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -33,6 +33,14 @@
       "onboard_time": 1692682660,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2537820,
+      "num": 1419419,
+      "word": "胡歌留学事件",
+      "onboard_time": 1692688719,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 2379859,
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1419419,
-      "num": 1419419,
-      "word": "胡歌留学事件",
-      "onboard_time": 1692688719,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1414285,
       "num": 1414285,
       "word": "谁能看得出这是金晨",
@@ -169,6 +169,14 @@
       "onboard_time": 1692675517,
       "rank": 6,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1369685,
+      "num": 325773,
+      "word": "陈晓送陈妍希的七夕礼物",
+      "onboard_time": 1692689385,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1318104,
@@ -219,8 +227,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1086659,
+      "num": 1086659,
+      "word": "天津着火大厦火情已被控制",
+      "onboard_time": 1692691125,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1081267,
-      "num": 318650,
+      "num": 596135,
       "word": "LV 李龙馥",
       "onboard_time": 1692684578,
       "rank": 23,
@@ -347,12 +363,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 777325,
+      "num": 325456,
+      "word": "肖战工作室发了18宫格",
+      "onboard_time": 1692689084,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 776885,
       "num": 776885,
       "word": "很想很想你",
       "onboard_time": 1692672458,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 772902,
+      "num": 772902,
+      "word": "Steam",
+      "onboard_time": 1692690109,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 769073,
@@ -409,6 +441,14 @@
       "onboard_time": 1692665321,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 692275,
+      "num": 325303,
+      "word": "Angelababy亲出声了",
+      "onboard_time": 1692689025,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 676946,
@@ -596,7 +636,7 @@
     },
     {
       "raw_hot": 536667,
-      "num": 297840,
+      "num": 322617,
       "word": "胡歌粉丝大起大落的一天",
       "onboard_time": 1692686797,
       "rank": 25,
@@ -619,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510354,
+      "num": 324559,
+      "word": "萧敬腾林有慧公开恋情后首封",
+      "onboard_time": 1692689624,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 501683,
       "num": 501683,
       "word": "邓为能扛男一吗",
@@ -628,7 +676,7 @@
     },
     {
       "raw_hot": 498608,
-      "num": 294508,
+      "num": 322937,
       "word": "女子吸有毒电子烟被抓想不起名字",
       "onboard_time": 1692686738,
       "rank": 20,
@@ -707,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468452,
+      "num": 324151,
+      "word": "杨幂说我呸过爱情",
+      "onboard_time": 1692690883,
+      "rank": 18,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 466200,
       "num": 466200,
       "word": "坚如磐石张艺谋要求全员素颜",
@@ -731,20 +787,20 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 447352,
-      "num": 295746,
-      "word": "肖战工作室发了18宫格",
-      "onboard_time": 1692689084,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 424664,
       "num": 331788,
       "word": "迪丽热巴演我买首饰",
       "onboard_time": 1692684703,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417357,
+      "num": 323447,
+      "word": "家有儿女的隐藏cp",
+      "onboard_time": 1692689567,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 415454,
@@ -795,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 405513,
+      "num": 323277,
+      "word": "龚俊檀健次穿了同款",
+      "onboard_time": 1692690349,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402264,
       "num": 402264,
       "word": "文韬",
@@ -827,6 +891,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 390431,
+      "num": 243878,
+      "word": "无意中看到了爸爸的网购记录",
+      "onboard_time": 1692690524,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 390267,
       "num": 390267,
       "word": "我有一个考不上高中的妹妹",
@@ -841,6 +913,14 @@
       "onboard_time": 1692673959,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 386890,
+      "num": 323941,
+      "word": "海光寺",
+      "onboard_time": 1692689746,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385654,
@@ -921,14 +1001,6 @@
       "onboard_time": 1692620375,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 357425,
-      "num": 292497,
-      "word": "Angelababy亲出声了",
-      "onboard_time": 1692689025,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 352663,
@@ -1017,6 +1089,14 @@
       "onboard_time": 1692680622,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 322580,
+      "num": 322580,
+      "word": "邓为七夕营业",
+      "onboard_time": 1692689446,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 321641,
@@ -1187,14 +1267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 276533,
-      "num": 275222,
-      "word": "陈晓送陈妍希的七夕礼物",
-      "onboard_time": 1692689385,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272477,
       "num": 272477,
       "word": "王鹤棣坐树下梦回东方青苍",
@@ -1291,6 +1363,14 @@
       "category": "科技,情感"
     },
     {
+      "raw_hot": 256600,
+      "num": 243326,
+      "word": "张雨绮帮人问长相思第二季什么时候上",
+      "onboard_time": 1692691063,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255174,
       "num": 255174,
       "word": "给白敬亭整成喻初原了",
@@ -1347,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238333,
+      "num": 238333,
+      "word": "熙悦汇",
+      "onboard_time": 1692690226,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236856,
       "num": 223760,
       "word": "中国好声音评分跌至3.2",
@@ -1368,6 +1456,14 @@
       "word": "难怪我打开就装不进去了",
       "onboard_time": 1692633035,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 232773,
+      "num": 232773,
+      "word": "七夕这么会过不要命啦",
+      "onboard_time": 1692689446,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -1459,14 +1555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212474,
-      "num": 227241,
-      "word": "七夕这么会过不要命啦",
-      "onboard_time": 1692689446,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 211863,
       "num": 211863,
       "word": "篮球运动员撞脸利路修",
@@ -1521,14 +1609,6 @@
       "onboard_time": 1692688965,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205471,
-      "num": 205471,
-      "word": "邓为七夕营业",
-      "onboard_time": 1692689446,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 204965,
@@ -1635,14 +1715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195688,
-      "num": 195688,
-      "word": "萧敬腾林有慧公开恋情后首封",
-      "onboard_time": 1692689624,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 194387,
       "num": 194387,
       "word": "爸爸让我的妈妈多陪我30年",
@@ -1683,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191406,
-      "num": 191406,
-      "word": "家有儿女的隐藏cp",
-      "onboard_time": 1692689567,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189314,
       "num": 189314,
       "word": "蒋欣又瘦了好多",
@@ -1729,6 +1793,22 @@
       "onboard_time": 1692684759,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179863,
+      "num": 179863,
+      "word": "蒲熠星画的蓉门童",
+      "onboard_time": 1692692381,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178243,
+      "num": 178243,
+      "word": "民政局为七夕新人准备誓词和汉服",
+      "onboard_time": 1692692261,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171438,
@@ -1867,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139583,
+      "num": 301932,
+      "word": "这可能是最硬核的七夕鹊桥",
+      "onboard_time": 1692687637,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137446,
       "num": 137446,
       "word": "中戏教授点评孤注一掷表演",
@@ -1907,10 +1995,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99976,
-      "num": 301932,
-      "word": "这可能是最硬核的七夕鹊桥",
-      "onboard_time": 1692687637,
+      "raw_hot": 99641,
+      "num": 325018,
+      "word": "辅警凌晨下班路上顺手抓了4个贼",
+      "onboard_time": 1692691243,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -1963,10 +2051,26 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38494,
+      "num": 200521,
+      "word": "AI成了我的开会嘴替",
+      "onboard_time": 1692691243,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32734,
       "num": 1931944,
       "word": "2023金砖峰会先导片",
       "onboard_time": 1692626019,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31353,
+      "num": 1016642,
+      "word": "让世界听到更多的金砖声音",
+      "onboard_time": 1692691843,
       "rank": 2,
       "category": "社会新闻"
     },
