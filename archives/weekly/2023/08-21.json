@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692708463606,
+  "endTime": 1692710381208,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -563,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1165620,
+      "num": 446430,
+      "word": "林心如说七夕感觉在过鬼节",
+      "onboard_time": 1692709178,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1154482,
       "num": 1154482,
       "word": "年轻时吸的烟 年老时都会找你算账",
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 979455,
+      "num": 979455,
+      "word": "刘昊然屈楚萧回应燃冬角色关系",
+      "onboard_time": 1692708639,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 979284,
       "num": 979284,
       "word": "鸥茉莉 小蒲敬上",
@@ -713,6 +729,14 @@
       "onboard_time": 1692579998,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 973239,
+      "num": 973239,
+      "word": "檀健次直播",
+      "onboard_time": 1692706292,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 948095,
@@ -955,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 775897,
+      "num": 775897,
+      "word": "七夕",
+      "onboard_time": 1692632317,
+      "rank": 12,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 774287,
       "num": 774287,
       "word": "相柳说谎",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1692594102,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 713971,
-      "num": 713971,
-      "word": "七夕",
-      "onboard_time": 1692632317,
-      "rank": 12,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 713867,
@@ -1323,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 626280,
+      "num": 441435,
+      "word": "丈夫酒后打妻子致坠楼跳下施救",
+      "onboard_time": 1692705813,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 624143,
       "num": 624143,
       "word": "胡兵报平安",
@@ -1371,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 606821,
-      "num": 606821,
-      "word": "檀健次直播",
-      "onboard_time": 1692706292,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 605392,
       "num": 359418,
       "word": "不要随便加学生微信",
@@ -1417,14 +1441,6 @@
       "onboard_time": 1692621641,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 594252,
-      "num": 441435,
-      "word": "丈夫酒后打妻子致坠楼跳下施救",
-      "onboard_time": 1692705813,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590052,
@@ -1481,6 +1497,14 @@
       "onboard_time": 1692619776,
       "rank": 21,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 559025,
+      "num": 435555,
+      "word": "今年七夕朋友圈怎么如此安静",
+      "onboard_time": 1692706837,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 555576,
@@ -1625,6 +1649,14 @@
       "onboard_time": 1692622419,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513188,
+      "num": 513188,
+      "word": "天官赐福动画",
+      "onboard_time": 1692708098,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 510354,
@@ -1971,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455044,
+      "num": 455044,
+      "word": "华晨宇演唱会让黄牛别来沾边",
+      "onboard_time": 1692706837,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 453734,
       "num": 362181,
       "word": "珍惜羽毛的明星",
@@ -2049,14 +2089,6 @@
       "onboard_time": 1692621159,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 435555,
-      "num": 435555,
-      "word": "今年七夕朋友圈怎么如此安静",
-      "onboard_time": 1692706837,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 434364,
@@ -2281,14 +2313,6 @@
       "onboard_time": 1692546640,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 392436,
-      "num": 374513,
-      "word": "华晨宇演唱会让黄牛别来沾边",
-      "onboard_time": 1692706837,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 390431,
@@ -2537,6 +2561,14 @@
       "onboard_time": 1692601897,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343210,
+      "num": 343210,
+      "word": "国产榴莲矮化成功",
+      "onboard_time": 1692707796,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 342297,
@@ -2803,6 +2835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 316135,
+      "num": 283209,
+      "word": "胡夏陈都灵想把我唱给你听",
+      "onboard_time": 1692709717,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314472,
       "num": 314472,
       "word": "一直娱",
@@ -3003,6 +3043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297945,
+      "num": 252315,
+      "word": "一路朝阳",
+      "onboard_time": 1692708995,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296164,
       "num": 296164,
       "word": "相柳心软了",
@@ -3129,6 +3177,14 @@
       "onboard_time": 1692593504,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 283364,
+      "num": 283364,
+      "word": "满记甜品48元自助",
+      "onboard_time": 1692706775,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 283238,
@@ -3433,14 +3489,6 @@
       "onboard_time": 1692672578,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259389,
-      "num": 259389,
-      "word": "满记甜品48元自助",
-      "onboard_time": 1692706775,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 259210,
@@ -3795,14 +3843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218692,
-      "num": 306797,
-      "word": "国产榴莲矮化成功",
-      "onboard_time": 1692707796,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 217411,
       "num": 217411,
       "word": "25岁姑娘和男友深山约会进急诊",
@@ -3817,6 +3857,14 @@
       "onboard_time": 1692588217,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217264,
+      "num": 204790,
+      "word": "心动的信号",
+      "onboard_time": 1692706899,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 217049,
@@ -3979,6 +4027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207725,
+      "num": 207725,
+      "word": "一个人坐高铁行李箱只能放脚下",
+      "onboard_time": 1692709600,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207319,
       "num": 207319,
       "word": "李莲花是原声李相夷是配音",
@@ -4025,14 +4081,6 @@
       "onboard_time": 1692673538,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204790,
-      "num": 204790,
-      "word": "心动的信号",
-      "onboard_time": 1692706899,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 204190,
@@ -4187,6 +4235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198662,
+      "num": 198662,
+      "word": "好想过这种没意思的生活",
+      "onboard_time": 1692709717,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 198108,
       "num": 195901,
       "word": "愿我们不止七夕更在朝夕",
@@ -4201,6 +4257,14 @@
       "onboard_time": 1692698437,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197482,
+      "num": 197482,
+      "word": "兰州牛肉面 一清二白三红四绿",
+      "onboard_time": 1692707077,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 196764,
@@ -4417,6 +4481,14 @@
       "onboard_time": 1692624279,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 185442,
+      "num": 185442,
+      "word": "七夕的心动时刻",
+      "onboard_time": 1692709897,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 183040,
@@ -4755,14 +4827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142727,
-      "num": 173338,
-      "word": "天官赐福动画",
-      "onboard_time": 1692708098,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 139869,
       "num": 173181,
       "word": "建议不要和诈骗电话聊天",
@@ -4817,6 +4881,14 @@
       "onboard_time": 1692585097,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131907,
+      "num": 185434,
+      "word": "情侣新型送礼方式",
+      "onboard_time": 1692709897,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 127957,
@@ -5313,6 +5385,14 @@
       "onboard_time": 1692645374,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 25715,
+      "num": 434489,
+      "word": "让古人当你的嘴替表白",
+      "onboard_time": 1692709297,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24620,
