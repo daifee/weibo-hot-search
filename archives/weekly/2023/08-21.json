@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692700427834,
+  "endTime": 1692702824163,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3532640,
-      "num": 1182938,
+      "num": 1649340,
       "word": "邓为 华伦天奴",
       "onboard_time": 1692692981,
       "rank": 27,
@@ -161,6 +161,14 @@
       "onboard_time": 1692623621,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2039523,
+      "num": 2039523,
+      "word": "中方回应日本正式决定启动排海",
+      "onboard_time": 1692698974,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2028694,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 1648539,
-      "num": 500784,
+      "num": 513930,
       "word": "陈晓送陈妍希的七夕礼物",
       "onboard_time": 1692689385,
       "rank": 30,
@@ -715,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 891724,
-      "num": 891724,
-      "word": "中方回应日本正式决定启动排海",
-      "onboard_time": 1692698974,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 891498,
       "num": 891498,
       "word": "与凤行",
@@ -1099,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 694725,
+      "num": 694725,
+      "word": "南方电网员工老婆高调炫富惹争议",
+      "onboard_time": 1692701436,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 692275,
       "num": 366086,
       "word": "Angelababy亲出声了",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1692677684,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 602339,
+      "num": 420502,
+      "word": "你们三代好精彩",
+      "onboard_time": 1692701494,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 598110,
@@ -1715,6 +1731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 477944,
+      "num": 333158,
+      "word": "男子被女友亲到鼓膜破裂进医院",
+      "onboard_time": 1692701073,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477288,
       "num": 477288,
       "word": "李莲花唯一一个不敢怼的人",
@@ -1825,6 +1849,14 @@
       "onboard_time": 1692619416,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 455494,
+      "num": 464854,
+      "word": "天津火灾目击者称整栋楼全红了",
+      "onboard_time": 1692695018,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453734,
@@ -2065,6 +2097,14 @@
       "onboard_time": 1692685780,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399853,
+      "num": 1652991,
+      "word": "民政局为七夕新人准备誓词和汉服",
+      "onboard_time": 1692692261,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399730,
@@ -2323,14 +2363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345904,
-      "num": 901010,
-      "word": "民政局为七夕新人准备誓词和汉服",
-      "onboard_time": 1692692261,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344247,
       "num": 344247,
       "word": "李兰迪说王阳每条褶子都恰到好处",
@@ -2417,6 +2449,14 @@
       "onboard_time": 1692610118,
       "rank": 23,
       "category": "情感,科技"
+    },
+    {
+      "raw_hot": 335786,
+      "num": 335786,
+      "word": "Tian祝Crisp不要十六强",
+      "onboard_time": 1692700534,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 334881,
@@ -2779,14 +2819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 300605,
-      "num": 464854,
-      "word": "天津火灾目击者称整栋楼全红了",
-      "onboard_time": 1692695018,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299683,
       "num": 299683,
       "word": "长相思相柳最后娶了谁",
@@ -2971,6 +3003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274870,
+      "num": 274870,
+      "word": "电视剧白日梦我",
+      "onboard_time": 1692701976,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274676,
       "num": 274676,
       "word": "咋谁都认识大张伟",
@@ -3067,6 +3107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268004,
+      "num": 268004,
+      "word": "农村办酒席村民凌晨3点帮忙拔鸭毛",
+      "onboard_time": 1692699636,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267771,
       "num": 245555,
       "word": "中戏教授点评孤注一掷表演",
@@ -3161,6 +3209,14 @@
       "onboard_time": 1692681582,
       "rank": 40,
       "category": "音乐,音乐"
+    },
+    {
+      "raw_hot": 261067,
+      "num": 261067,
+      "word": "邓为带货力",
+      "onboard_time": 1692702335,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 260518,
@@ -3289,6 +3345,14 @@
       "onboard_time": 1692687578,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244299,
+      "num": 244299,
+      "word": "张极演唱会前情绪崩溃大哭",
+      "onboard_time": 1692702574,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 244111,
@@ -3441,6 +3505,14 @@
       "onboard_time": 1692633216,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230502,
+      "num": 230502,
+      "word": "为什么感觉富婆都不留刘海",
+      "onboard_time": 1692702275,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 229165,
@@ -3915,6 +3987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197045,
+      "num": 197045,
+      "word": "赵丽颖分享小乌龟没赶上吃饭",
+      "onboard_time": 1692702756,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196764,
       "num": 196764,
       "word": "会长是女仆中的初代男神",
@@ -3985,14 +4065,6 @@
       "onboard_time": 1692669575,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 192536,
-      "num": 192536,
-      "word": "农村办酒席村民凌晨3点帮忙拔鸭毛",
-      "onboard_time": 1692699636,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192371,
@@ -4129,6 +4201,14 @@
       "onboard_time": 1692624279,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 183040,
+      "num": 183040,
+      "word": "如果青山长这样",
+      "onboard_time": 1692700777,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181220,
@@ -4700,7 +4780,7 @@
     },
     {
       "raw_hot": 69636,
-      "num": 1480877,
+      "num": 1650856,
       "word": "让世界听到更多的金砖声音",
       "onboard_time": 1692691843,
       "rank": 2,
@@ -4865,6 +4945,14 @@
       "onboard_time": 1692563833,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 38502,
+      "num": 434116,
+      "word": "情侣凌晨3点排队领证激动一夜没睡",
+      "onboard_time": 1692702035,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31271,
