@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692682428171,
+  "endTime": 1692685257846,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -72,6 +72,14 @@
       "word": "亚洲象一鼻子甩出毒品2.8公斤",
       "onboard_time": 1692664057,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2351333,
+      "num": 2351333,
+      "word": "缅甸高官首度回应缅北诈骗",
+      "onboard_time": 1692682660,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1135832,
+      "num": 380174,
+      "word": "孙阳的手串 戴不完根本戴不完",
+      "onboard_time": 1692682601,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1129653,
       "num": 1129653,
       "word": "长相思第二季分集简介",
@@ -465,6 +481,14 @@
       "onboard_time": 1692673477,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1086917,
+      "num": 1086917,
+      "word": "女子使用酒店毛巾后发现不明血迹报警",
+      "onboard_time": 1692679483,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1074264,
@@ -505,14 +529,6 @@
       "onboard_time": 1692673418,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1044425,
-      "num": 1044425,
-      "word": "女子使用酒店毛巾后发现不明血迹报警",
-      "onboard_time": 1692679483,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1043159,
@@ -907,6 +923,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 720457,
+      "num": 720457,
+      "word": "茉酸奶",
+      "onboard_time": 1692681042,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 719754,
       "num": 719754,
       "word": "白敬亭居然放不开",
@@ -1155,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 590052,
+      "num": 590052,
+      "word": "涂山璟当爹",
+      "onboard_time": 1692683558,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 589609,
       "num": 589609,
       "word": "谁说女生不能是鲜衣怒马",
@@ -1371,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494898,
-      "num": 436061,
-      "word": "茉酸奶",
-      "onboard_time": 1692681042,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 491137,
       "num": 491137,
       "word": "魏大勋去年用孟宴臣身份过的七夕",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1692602979,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 463128,
+      "num": 377414,
+      "word": "曾经唱红一首歌就消失不见的70位歌手",
+      "onboard_time": 1692684038,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 462349,
@@ -1779,6 +1811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394986,
+      "num": 363203,
+      "word": "刘宇宁一秒八个动作没一个对的",
+      "onboard_time": 1692682905,
+      "rank": 16,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 392624,
       "num": 373906,
       "word": "相柳这次有东方青苍",
@@ -2051,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331788,
+      "num": 331788,
+      "word": "迪丽热巴演我买首饰",
+      "onboard_time": 1692684703,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330348,
       "num": 276883,
       "word": "无毛猫和布偶猫的日常",
@@ -2113,6 +2161,14 @@
       "onboard_time": 1692622598,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324487,
+      "num": 324487,
+      "word": "王者荣耀联动HelloKitty",
+      "onboard_time": 1692680622,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 324324,
@@ -2179,12 +2235,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 315015,
+      "num": 315015,
+      "word": "LV 李龙馥",
+      "onboard_time": 1692684578,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314472,
       "num": 314472,
       "word": "一直娱",
       "onboard_time": 1692593143,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 314445,
+      "num": 314445,
+      "word": "奥本海默",
+      "onboard_time": 1692682905,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 313928,
@@ -2225,14 +2297,6 @@
       "onboard_time": 1692589237,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309490,
-      "num": 309490,
-      "word": "王者荣耀联动HelloKitty",
-      "onboard_time": 1692680622,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 308645,
@@ -2499,6 +2563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281146,
+      "num": 281146,
+      "word": "日本核废水",
+      "onboard_time": 1692684101,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281126,
       "num": 235597,
       "word": "段奥娟近期风格",
@@ -2651,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263438,
+      "num": 263438,
+      "word": "徐璐官宣心动6",
+      "onboard_time": 1692682302,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262969,
       "num": 1009308,
       "word": "浪漫从来不受年龄限制",
@@ -2737,6 +2817,14 @@
       "onboard_time": 1692680204,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248180,
+      "num": 248180,
+      "word": "丰隆小夭订婚",
+      "onboard_time": 1692684882,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 247756,
@@ -3171,14 +3259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207507,
-      "num": 207507,
-      "word": "徐璐官宣心动6",
-      "onboard_time": 1692682302,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207319,
       "num": 207319,
       "word": "李莲花是原声李相夷是配音",
@@ -3475,6 +3555,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187946,
+      "num": 187946,
+      "word": "诛仙动画七夕贺图",
+      "onboard_time": 1692684281,
+      "rank": 44,
+      "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 187337,
+      "num": 187337,
+      "word": "新人为七夕领证凌晨5点来排队",
+      "onboard_time": 1692683080,
+      "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 187192,
       "num": 187192,
       "word": "王一博你到底会多少个舞种",
@@ -3587,12 +3683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171438,
+      "num": 187335,
+      "word": "石凯巡演广州站官宣",
+      "onboard_time": 1692683978,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170619,
       "num": 170619,
       "word": "那一刻青岛人的使命感爆棚",
       "onboard_time": 1692579760,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169884,
+      "num": 187330,
+      "word": "森林进化论",
+      "onboard_time": 1692683201,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 169354,
@@ -3633,6 +3745,14 @@
       "onboard_time": 1692573566,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 167235,
+      "num": 187327,
+      "word": "商家不会看的备注信息",
+      "onboard_time": 1692684759,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 165650,

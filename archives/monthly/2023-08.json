@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692682428171,
+  "endTime": 1692685257846,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1691711067,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2351333,
+      "num": 2351333,
+      "word": "缅甸高官首度回应缅北诈骗",
+      "onboard_time": 1692682660,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2349974,
@@ -6675,6 +6683,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1135832,
+      "num": 380174,
+      "word": "孙阳的手串 戴不完根本戴不完",
+      "onboard_time": 1692682601,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1135765,
       "num": 499932,
       "word": "黄锐进没进场",
@@ -7299,6 +7315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1086917,
+      "num": 1086917,
+      "word": "女子使用酒店毛巾后发现不明血迹报警",
+      "onboard_time": 1692679483,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1086387,
       "num": 961353,
       "word": "久坐之后才懂练腹有多重要",
@@ -7689,14 +7713,6 @@
       "onboard_time": 1691721932,
       "rank": 5,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1044425,
-      "num": 1044425,
-      "word": "女子使用酒店毛巾后发现不明血迹报警",
-      "onboard_time": 1692679483,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1043942,
@@ -13083,6 +13099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 720457,
+      "num": 720457,
+      "word": "茉酸奶",
+      "onboard_time": 1692681042,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 719924,
       "num": 719924,
       "word": "肖战演的手抖",
@@ -16665,6 +16689,14 @@
       "onboard_time": 1691145516,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 590052,
+      "num": 590052,
+      "word": "涂山璟当爹",
+      "onboard_time": 1692683558,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 589912,
@@ -20787,14 +20819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494898,
-      "num": 436061,
-      "word": "茉酸奶",
-      "onboard_time": 1692681042,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 494892,
       "num": 494892,
       "word": "厄瓜多尔总统候选人被枪杀",
@@ -22353,6 +22377,14 @@
       "onboard_time": 1691590180,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 463128,
+      "num": 377414,
+      "word": "曾经唱红一首歌就消失不见的70位歌手",
+      "onboard_time": 1692684038,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 462767,
@@ -26265,6 +26297,14 @@
       "onboard_time": 1691283344,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 394986,
+      "num": 363203,
+      "word": "刘宇宁一秒八个动作没一个对的",
+      "onboard_time": 1692682905,
+      "rank": 16,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 394770,
@@ -30579,6 +30619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331788,
+      "num": 331788,
+      "word": "迪丽热巴演我买首饰",
+      "onboard_time": 1692684703,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331376,
       "num": 331376,
       "word": "丫丫生日坐在竹子上干饭",
@@ -31057,6 +31105,14 @@
       "onboard_time": 1692524737,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324487,
+      "num": 324487,
+      "word": "王者荣耀联动HelloKitty",
+      "onboard_time": 1692680622,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 324470,
@@ -31883,6 +31939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315015,
+      "num": 315015,
+      "word": "LV 李龙馥",
+      "onboard_time": 1692684578,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314796,
       "num": 283370,
       "word": "丈夫逼妻子回家遭拒当街引爆手榴弹",
@@ -32297,14 +32361,6 @@
       "onboard_time": 1691888133,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309490,
-      "num": 309490,
-      "word": "王者荣耀联动HelloKitty",
-      "onboard_time": 1692680622,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 309425,
@@ -35115,6 +35171,14 @@
       "category": "音乐,音乐"
     },
     {
+      "raw_hot": 281146,
+      "num": 281146,
+      "word": "日本核废水",
+      "onboard_time": 1692684101,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281053,
       "num": 281053,
       "word": "王菲精灵感",
@@ -36923,6 +36987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263438,
+      "num": 263438,
+      "word": "徐璐官宣心动6",
+      "onboard_time": 1692682302,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263414,
       "num": 242422,
       "word": "地震给我们提了个醒",
@@ -38497,6 +38569,14 @@
       "onboard_time": 1691563474,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248180,
+      "num": 248180,
+      "word": "丰隆小夭订婚",
+      "onboard_time": 1692684882,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 248086,
@@ -43859,14 +43939,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 207507,
-      "num": 207507,
-      "word": "徐璐官宣心动6",
-      "onboard_time": 1692682302,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207455,
       "num": 207455,
       "word": "念无双首发海报",
@@ -48131,6 +48203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187946,
+      "num": 187946,
+      "word": "诛仙动画七夕贺图",
+      "onboard_time": 1692684281,
+      "rank": 44,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 187913,
       "num": 187913,
       "word": "中二就是汪东城的统治区吧",
@@ -48265,6 +48345,14 @@
       "onboard_time": 1691135917,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187337,
+      "num": 187337,
+      "word": "新人为七夕领证凌晨5点来排队",
+      "onboard_time": 1692683080,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 187192,
@@ -49891,6 +49979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171438,
+      "num": 187335,
+      "word": "石凯巡演广州站官宣",
+      "onboard_time": 1692683978,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171332,
       "num": 171332,
       "word": "病人家属医院门口免费送1吨牛奶",
@@ -50209,6 +50305,14 @@
       "onboard_time": 1691776161,
       "rank": 6,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 167235,
+      "num": 187327,
+      "word": "商家不会看的备注信息",
+      "onboard_time": 1692684759,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 166870,
