@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/21 00:19:40 ~ 2023/08/23 03:33:55
+本榜单时间：2023/08/21 00:19:40 ~ 2023/08/23 04:17:06
 </p>
 </blockquote>
 <p>
@@ -4425,6 +4425,12 @@ AI成了我的开会嘴替（热度：39818）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%91%E5%B9%B4%E7%9B%AE%E7%9D%B9%E7%88%B7%E7%88%B7%E8%A2%AB%E6%AE%B4%E6%89%93%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%23" target="weibo">
+官方回应少年目睹爷爷被殴打后投河身亡（热度：31024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%23" target="weibo">
 周杰伦呼和浩特（热度：30666）
 </a>
@@ -4439,6 +4445,12 @@ AI成了我的开会嘴替（热度：39818）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E9%AD%82%E6%9C%80%E5%B8%85%E7%9A%84%E7%94%B7%E4%BA%BA%23" target="weibo">
 银魂最帅的男人（热度：30225）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E4%BA%A8%E7%A5%9E%E5%9B%BE%23" target="weibo">
+金泰亨神图（热度：29859）
 </a>
 </li>
 
@@ -4467,12 +4479,6 @@ AI成了我的开会嘴替（热度：39818）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%91%E5%B9%B4%E7%9B%AE%E7%9D%B9%E7%88%B7%E7%88%B7%E8%A2%AB%E6%AE%B4%E6%89%93%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%23" target="weibo">
-官方回应少年目睹爷爷被殴打后投河身亡（热度：26675）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E4%B8%B2%E7%83%A7%E8%88%9E%E5%8F%B0%E5%A5%BD%E7%82%B8%23" target="weibo">
 文俊辉串烧舞台好炸（热度：26440）
 </a>
@@ -4487,12 +4493,6 @@ AI成了我的开会嘴替（热度：39818）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%A4%95%E9%80%81%E7%A4%BC%E6%8C%87%E5%8D%97%23" target="weibo">
 七夕送礼指南（热度：25932）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E4%BA%A8%E7%A5%9E%E5%9B%BE%23" target="weibo">
-金泰亨神图（热度：25844）
 </a>
 </li>
 
