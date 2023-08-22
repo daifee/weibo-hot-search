@@ -1,0 +1,410 @@
+{
+  "runTime": 1692707510598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1616407,
+        "num": 1616407,
+        "word": "央视七夕晚会",
+        "onboard_time": 1692704615,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1243957,
+        "num": 1243957,
+        "word": "中方回应日本正式决定启动排海",
+        "onboard_time": 1692698974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 33644,
+        "num": 1074722,
+        "word": "金砖国家领导人第十五次会晤",
+        "onboard_time": 1692691723,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1248578,
+        "num": 1065970,
+        "word": "男子中奖1000万彩票粘手机壳取不下",
+        "onboard_time": 1692706292,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049340,
+        "num": 1049340,
+        "word": "肖战白百何骄阳伴我集数变更",
+        "onboard_time": 1692706292,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 646832,
+        "num": 646832,
+        "word": "张晚意 玱玹是我哭戏最多的角色",
+        "onboard_time": 1692703715,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461618,
+        "num": 461618,
+        "word": "檀健次直播",
+        "onboard_time": 1692706292,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412752,
+        "num": 412752,
+        "word": "武则天时期女性时尚风潮",
+        "onboard_time": 1692703415,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 370255,
+        "num": 370255,
+        "word": "七夕",
+        "onboard_time": 1692700595,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 985052,
+        "num": 370054,
+        "word": "邓为 华伦天奴",
+        "onboard_time": 1692692981,
+        "rank": 9,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1760981,
+        "num": 369855,
+        "word": "南方电网员工老婆高调炫富惹争议",
+        "onboard_time": 1692701436,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1490860,
+        "num": 369561,
+        "word": "吴宗宪 人丑才性骚扰",
+        "onboard_time": 1692703295,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1174613,
+        "num": 369271,
+        "word": "张栋梁是被盗号了吗",
+        "onboard_time": 1692696459,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197277,
+        "num": 368951,
+        "word": "天津着火",
+        "onboard_time": 1692686677,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45336,
+        "num": 368480,
+        "word": "长沙汉服爷爷化身月老给新人送祝福",
+        "onboard_time": 1692705696,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611154,
+        "num": 368050,
+        "word": "张杰是懂谢娜的boy",
+        "onboard_time": 1692704793,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438613,
+        "num": 367981,
+        "word": "檀健次螺蛳粉厂长",
+        "onboard_time": 1692703535,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434875,
+        "num": 367576,
+        "word": "邓为带货力",
+        "onboard_time": 1692702335,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413584,
+        "num": 367160,
+        "word": "于适七夕发了朵玫瑰",
+        "onboard_time": 1692705395,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268895,
+        "num": 366967,
+        "word": "天津火灾目击者称整栋楼全红了",
+        "onboard_time": 1692695018,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569986,
+        "num": 366543,
+        "word": "丈夫酒后打妻子致坠楼跳下施救",
+        "onboard_time": 1692705813,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528463,
+        "num": 366230,
+        "word": "赵丽颖分享小乌龟没赶上吃饭",
+        "onboard_time": 1692702756,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450232,
+        "num": 365790,
+        "word": "为什么感觉富婆都不留刘海",
+        "onboard_time": 1692702275,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 334276,
+        "num": 365551,
+        "word": "缅甸高官首度回应缅北诈骗",
+        "onboard_time": 1692682660,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279974,
+        "num": 365312,
+        "word": "七夕劝分小组稳定上分",
+        "onboard_time": 1692704494,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365153,
+        "num": 365153,
+        "word": "陈晓送陈妍希的七夕礼物",
+        "onboard_time": 1692689385,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358650,
+        "num": 358650,
+        "word": "你们三代好精彩",
+        "onboard_time": 1692701494,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329979,
+        "num": 329979,
+        "word": "杨紫范丞丞七夕海报",
+        "onboard_time": 1692702816,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278433,
+        "num": 278433,
+        "word": "七夕丑花束真的很多",
+        "onboard_time": 1692696640,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 263420,
+        "num": 263420,
+        "word": "亚冠",
+        "onboard_time": 1692705513,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326940,
+        "num": 262931,
+        "word": "长相思第一季大结局",
+        "onboard_time": 1692703475,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318577,
+        "num": 261603,
+        "word": "迪丽热巴和粉丝的七夕在明天",
+        "onboard_time": 1692706715,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291878,
+        "num": 261562,
+        "word": "公主小妹里的张韶涵",
+        "onboard_time": 1692707138,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259389,
+        "num": 259389,
+        "word": "满记甜品48元自助",
+        "onboard_time": 1692706775,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 231826,
+        "num": 231826,
+        "word": "今年七夕朋友圈怎么如此安静",
+        "onboard_time": 1692706837,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 278677,
+        "num": 231744,
+        "word": "除了沙溢没人愿意承认这张照片",
+        "onboard_time": 1692685418,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234896,
+        "num": 231556,
+        "word": "易烊千玺工作室叫自己简未斯",
+        "onboard_time": 1692694783,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230707,
+        "num": 230707,
+        "word": "男子被女友亲到鼓膜破裂进医院",
+        "onboard_time": 1692701073,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205017,
+        "num": 205017,
+        "word": "海豹会用肚皮蹦跶着走路",
+        "onboard_time": 1692706837,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196536,
+        "num": 196536,
+        "word": "民政局为七夕新人准备誓词和汉服",
+        "onboard_time": 1692692261,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234494,
+        "num": 196257,
+        "word": "马立奥况三喜合体",
+        "onboard_time": 1692694179,
+        "rank": 40,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 210332,
+        "num": 194957,
+        "word": "华晨宇演唱会让黄牛别来沾边",
+        "onboard_time": 1692706837,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203614,
+        "num": 194434,
+        "word": "心动的信号",
+        "onboard_time": 1692706899,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203282,
+        "num": 193477,
+        "word": "徐明浩19岁白月光混剪",
+        "onboard_time": 1692704494,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201024,
+        "num": 192724,
+        "word": "那英因身体欠佳请辞音乐节演出",
+        "onboard_time": 1692680801,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192117,
+        "num": 192117,
+        "word": "张极演唱会前情绪崩溃大哭",
+        "onboard_time": 1692702574,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177036,
+        "num": 177036,
+        "word": "七夕文案",
+        "onboard_time": 1692699397,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158832,
+        "num": 170565,
+        "word": "今年第三次水逆将正式开始",
+        "onboard_time": 1692706172,
+        "rank": 47,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 168138,
+        "num": 168138,
+        "word": "Hero竟然这么过七夕",
+        "onboard_time": 1692703838,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146330,
+        "num": 168131,
+        "word": "Tian祝Crisp不要十六强",
+        "onboard_time": 1692700534,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
