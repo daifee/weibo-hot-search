@@ -1,0 +1,410 @@
+{
+  "runTime": 1692714831909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1477928,
+        "num": 1477928,
+        "word": "檀健次直播",
+        "onboard_time": 1692706292,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 996828,
+        "num": 996828,
+        "word": "中方召见日本驻华大使",
+        "onboard_time": 1692713206,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19965,
+        "num": 853130,
+        "word": "金砖国家领导人第十五次会晤",
+        "onboard_time": 1692691723,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065190,
+        "num": 852206,
+        "word": "男子中奖1000万彩票粘手机壳取不下",
+        "onboard_time": 1692706292,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832329,
+        "num": 832329,
+        "word": "一个人坐高铁行李箱只能放脚下",
+        "onboard_time": 1692709600,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 640341,
+        "num": 640341,
+        "word": "央视七夕晚会",
+        "onboard_time": 1692704615,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611527,
+        "num": 611527,
+        "word": "彪子 曾经只有侯雯元爱你",
+        "onboard_time": 1692711100,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 598797,
+        "num": 598797,
+        "word": "刘昊然屈楚萧回应燃冬角色关系",
+        "onboard_time": 1692708639,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579825,
+        "num": 579825,
+        "word": "肖战白百何骄阳伴我集数变更",
+        "onboard_time": 1692706292,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573174,
+        "num": 573174,
+        "word": "七夕",
+        "onboard_time": 1692700595,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2090173,
+        "num": 563549,
+        "word": "魏大勋连续两年七夕没露脸",
+        "onboard_time": 1692710860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1908031,
+        "num": 533274,
+        "word": "林心如说七夕感觉在过鬼节",
+        "onboard_time": 1692709178,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791978,
+        "num": 515806,
+        "word": "邓为 华伦天奴",
+        "onboard_time": 1692692981,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 407142,
+        "num": 487562,
+        "word": "日本核污染水排海至少要持续30年",
+        "onboard_time": 1692711285,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40004,
+        "num": 470310,
+        "word": "戎装配红妆100对新人喜结连理",
+        "onboard_time": 1692712854,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786831,
+        "num": 452287,
+        "word": "南方电网员工老婆高调炫富惹争议",
+        "onboard_time": 1692701436,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604163,
+        "num": 431196,
+        "word": "张栋梁是被盗号了吗",
+        "onboard_time": 1692696459,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410390,
+        "num": 410390,
+        "word": "中国男篮",
+        "onboard_time": 1692712428,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364639,
+        "num": 364639,
+        "word": "中方回应日本正式决定启动排海",
+        "onboard_time": 1692698974,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 361195,
+        "num": 361195,
+        "word": "天官赐福动画",
+        "onboard_time": 1692708098,
+        "rank": 19,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 472590,
+        "num": 355836,
+        "word": "今年七夕朋友圈怎么如此安静",
+        "onboard_time": 1692706837,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 441546,
+        "num": 353968,
+        "word": "杨幂整挺好下次bie整了",
+        "onboard_time": 1692713148,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378544,
+        "num": 343312,
+        "word": "丈夫酒后打妻子致坠楼跳下施救",
+        "onboard_time": 1692705813,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325197,
+        "num": 325197,
+        "word": "为什么感觉富婆都不留刘海",
+        "onboard_time": 1692702275,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 321522,
+        "num": 321522,
+        "word": "供电局回应员工家属疑炫富事件",
+        "onboard_time": 1692713026,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317131,
+        "num": 317131,
+        "word": "成毅唱的就在江湖之上",
+        "onboard_time": 1692712669,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276910,
+        "num": 276910,
+        "word": "长相思第一季大结局",
+        "onboard_time": 1692703475,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259501,
+        "num": 259501,
+        "word": "公主小妹里的张韶涵",
+        "onboard_time": 1692707138,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251551,
+        "num": 251551,
+        "word": "国产榴莲矮化成功",
+        "onboard_time": 1692707796,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245032,
+        "num": 245032,
+        "word": "迪丽热巴和粉丝的七夕在明天",
+        "onboard_time": 1692706715,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378556,
+        "num": 244179,
+        "word": "新疆吐鲁番西瓜5元一个也难卖",
+        "onboard_time": 1692713687,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 238988,
+        "num": 238988,
+        "word": "男子被女友亲到鼓膜破裂进医院",
+        "onboard_time": 1692701073,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229379,
+        "num": 229379,
+        "word": "你们三代好精彩",
+        "onboard_time": 1692701494,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228985,
+        "num": 228985,
+        "word": "吴宗宪 人丑才性骚扰",
+        "onboard_time": 1692703295,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220503,
+        "num": 220503,
+        "word": "一路朝阳",
+        "onboard_time": 1692708995,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219481,
+        "num": 219481,
+        "word": "华晨宇演唱会让黄牛别来沾边",
+        "onboard_time": 1692706837,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218696,
+        "num": 218696,
+        "word": "张杰是懂谢娜的boy",
+        "onboard_time": 1692704793,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218107,
+        "num": 218107,
+        "word": "好想过这种没意思的生活",
+        "onboard_time": 1692709717,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 210806,
+        "num": 210806,
+        "word": "七夕丑花束真的很多",
+        "onboard_time": 1692696640,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 208248,
+        "num": 208248,
+        "word": "张晚意 玱玹是我哭戏最多的角色",
+        "onboard_time": 1692703715,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201853,
+        "num": 201853,
+        "word": "胡夏陈都灵想把我唱给你听",
+        "onboard_time": 1692709717,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196175,
+        "num": 196175,
+        "word": "七夕文案",
+        "onboard_time": 1692699397,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193841,
+        "num": 193841,
+        "word": "李莲花的春夏秋冬",
+        "onboard_time": 1692713748,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193428,
+        "num": 193428,
+        "word": "夭柳欢喜冤家",
+        "onboard_time": 1692713266,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190948,
+        "num": 190948,
+        "word": "上海海港2比3巴吞联",
+        "onboard_time": 1692713627,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189987,
+        "num": 189987,
+        "word": "周深用歌声点亮人间星河",
+        "onboard_time": 1692714168,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173800,
+        "num": 189983,
+        "word": "南瓜挞",
+        "onboard_time": 1692712968,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173655,
+        "num": 189983,
+        "word": "长相思",
+        "onboard_time": 1692694480,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123289,
+        "num": 189979,
+        "word": "浙江队晋级亚冠正赛",
+        "onboard_time": 1692712247,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109150,
+        "num": 189971,
+        "word": "天津火灾目击者称整栋楼全红了",
+        "onboard_time": 1692695018,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
