@@ -1,7 +1,15 @@
 {
   "startTime": 1692634882055,
-  "endTime": 1692686037487,
+  "endTime": 1692688505736,
   "band_list": [
+    {
+      "raw_hot": 4389012,
+      "num": 4389012,
+      "word": "天津着火",
+      "onboard_time": 1692686677,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3372211,
       "num": 3372211,
@@ -43,6 +51,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2175105,
+      "num": 2175105,
+      "word": "除了沙溢没人愿意承认这张照片",
+      "onboard_time": 1692685418,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2155908,
       "num": 2155908,
       "word": "六公主在播封神榜妖灭",
@@ -81,6 +97,14 @@
       "onboard_time": 1692665080,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1656229,
+      "num": 1656229,
+      "word": "陕西煤矿瓦斯爆炸已致7死",
+      "onboard_time": 1692687101,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1598024,
@@ -187,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1081267,
+      "num": 318650,
+      "word": "LV 李龙馥",
+      "onboard_time": 1692684578,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1074264,
       "num": 516977,
       "word": "妈妈偷走录取通知书阻挠女儿入学",
@@ -291,14 +323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 810250,
-      "num": 315015,
-      "word": "LV 李龙馥",
-      "onboard_time": 1692684578,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 792879,
       "num": 792879,
       "word": "长相思第二季",
@@ -401,14 +425,6 @@
       "onboard_time": 1692670358,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 652865,
-      "num": 258745,
-      "word": "除了沙溢没人愿意承认这张照片",
-      "onboard_time": 1692685418,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 647683,
@@ -539,6 +555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 545229,
+      "num": 377414,
+      "word": "曾经唱红一首歌就消失不见的70位歌手",
+      "onboard_time": 1692684038,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 543810,
       "num": 543810,
       "word": "李兰迪王阳好嗑",
@@ -563,14 +587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 527981,
-      "num": 377414,
-      "word": "曾经唱红一首歌就消失不见的70位歌手",
-      "onboard_time": 1692684038,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 517015,
       "num": 517015,
       "word": "医院擅自微创转开胸手术致女童脑死亡",
@@ -585,6 +601,14 @@
       "onboard_time": 1692660628,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 498608,
+      "num": 289622,
+      "word": "女子吸有毒电子烟被抓想不起名字",
+      "onboard_time": 1692686738,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495658,
@@ -609,6 +633,14 @@
       "onboard_time": 1692664540,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 488065,
+      "num": 288535,
+      "word": "赵丽颖问是过七夕还是七多",
+      "onboard_time": 1692686198,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 487497,
@@ -699,6 +731,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 414522,
+      "num": 286451,
+      "word": "胡歌粉丝大起大落的一天",
+      "onboard_time": 1692686797,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413216,
       "num": 413216,
       "word": "未定事件簿 橘朵",
@@ -737,6 +777,14 @@
       "onboard_time": 1692662677,
       "rank": 26,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 400126,
+      "num": 295286,
+      "word": "齐思钧的发布会仅两人可见",
+      "onboard_time": 1692685780,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 395532,
@@ -779,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384990,
+      "num": 384990,
+      "word": "丰隆小夭订婚",
+      "onboard_time": 1692684882,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377202,
       "num": 377202,
       "word": "以爱为营",
@@ -809,6 +865,14 @@
       "onboard_time": 1692628001,
       "rank": 17,
       "category": "情感,其它"
+    },
+    {
+      "raw_hot": 371323,
+      "num": 289898,
+      "word": "迪丽热巴在好六吃成了仓鼠",
+      "onboard_time": 1692685478,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 369047,
@@ -923,14 +987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 319022,
-      "num": 283886,
-      "word": "丰隆小夭订婚",
-      "onboard_time": 1692684882,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 314445,
       "num": 314445,
       "word": "奥本海默",
@@ -1035,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284770,
+      "num": 284770,
+      "word": "杨紫调侃邓为说别扒拉我",
+      "onboard_time": 1692685836,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284743,
       "num": 284743,
       "word": "女生称海飞丝洗发水挤出大量虫卵",
@@ -1091,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269573,
+      "num": 269573,
+      "word": "魏大勋壁纸还是这个",
+      "onboard_time": 1692686316,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 267919,
       "num": 409732,
       "word": "新加坡总理李显龙宣布将移交权力",
@@ -1123,12 +1195,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263304,
+      "num": 263304,
+      "word": "生活中不易察觉的PUA话术",
+      "onboard_time": 1692685418,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261672,
       "num": 261672,
       "word": "马嘉祺首张个人EP预告",
       "onboard_time": 1692681582,
       "rank": 40,
       "category": "音乐,音乐"
+    },
+    {
+      "raw_hot": 260518,
+      "num": 287193,
+      "word": "他信回到泰国",
+      "onboard_time": 1692685597,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 259517,
@@ -1163,12 +1251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252371,
-      "num": 252371,
-      "word": "齐思钧的发布会仅两人可见",
-      "onboard_time": 1692685780,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 251673,
+      "num": 251673,
+      "word": "原来发型真的这么重要啊",
+      "onboard_time": 1692687879,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 244532,
+      "num": 244532,
+      "word": "2000年前的相思让人怦然心动",
+      "onboard_time": 1692687578,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 242494,
@@ -1259,28 +1355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225716,
-      "num": 225716,
-      "word": "杨紫调侃邓为说别扒拉我",
-      "onboard_time": 1692685836,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 225631,
       "num": 225631,
       "word": "世界上唯一拥有3个首都的国家",
       "onboard_time": 1692616713,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223081,
-      "num": 223081,
-      "word": "迪丽热巴在好六吃成了仓鼠",
-      "onboard_time": 1692685478,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 221333,
@@ -1328,22 +1408,6 @@
       "word": "谭松韵被闫妮一句话演哭了",
       "onboard_time": 1692631957,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 214171,
-      "num": 214171,
-      "word": "他信回到泰国",
-      "onboard_time": 1692685597,
-      "rank": 39,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 213336,
-      "num": 213336,
-      "word": "生活中不易察觉的PUA话术",
-      "onboard_time": 1692685418,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1507,6 +1571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194078,
+      "num": 194078,
+      "word": "新人为七夕领证凌晨5点来排队",
+      "onboard_time": 1692683080,
+      "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 193840,
       "num": 193840,
       "word": "恋与制作人电话",
@@ -1537,14 +1609,6 @@
       "onboard_time": 1692684281,
       "rank": 44,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 187337,
-      "num": 187337,
-      "word": "新人为七夕领证凌晨5点来排队",
-      "onboard_time": 1692683080,
-      "rank": 46,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 187192,
@@ -1633,6 +1697,14 @@
       "onboard_time": 1692659484,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156496,
+      "num": 191386,
+      "word": "陕西一煤矿突发事故有人受伤",
+      "onboard_time": 1692686257,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151616,
@@ -1756,7 +1828,7 @@
     },
     {
       "raw_hot": 59479,
-      "num": 1625182,
+      "num": 2190619,
       "word": "2023金砖会晤",
       "onboard_time": 1692676600,
       "rank": 2,
@@ -1777,6 +1849,14 @@
       "onboard_time": 1692646155,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40280,
+      "num": 301932,
+      "word": "这可能是最硬核的七夕鹊桥",
+      "onboard_time": 1692687637,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39423,
