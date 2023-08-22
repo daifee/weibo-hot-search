@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692746139866,
+  "endTime": 1692747233253,
   "band_list": [
     {
       "raw_hot": 1901324,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1434332,
+      "raw_hot": 1789086,
       "num": 958075,
       "word": "百万网红被闺蜜骗至东南亚生死未卜",
       "onboard_time": 1692721473,
@@ -33,6 +33,14 @@
       "onboard_time": 1692716866,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1045676,
+      "num": 1045676,
+      "word": "C罗怒喷傅明",
+      "onboard_time": 1692745765,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 958978,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575953,
+      "num": 575953,
+      "word": "民政局直播新人领证仅12对登记",
+      "onboard_time": 1692718666,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564853,
       "num": 277932,
       "word": "王鹤棣卸了什么",
@@ -147,8 +163,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 428653,
-      "num": 428653,
+      "raw_hot": 441753,
+      "num": 441753,
       "word": "妻子车祸被困丈夫头包纱布围着安抚",
       "onboard_time": 1692742698,
       "rank": 41,
@@ -169,14 +185,6 @@
       "onboard_time": 1692706837,
       "rank": 23,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 384514,
-      "num": 296621,
-      "word": "民政局直播新人领证仅12对登记",
-      "onboard_time": 1692718666,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367822,
@@ -315,14 +323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211999,
-      "num": 211999,
-      "word": "C罗怒喷傅明",
-      "onboard_time": 1692745765,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209541,
       "num": 209541,
       "word": "一个人坐高铁行李箱只能放脚下",
@@ -347,6 +347,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 193692,
+      "num": 237148,
+      "word": "挪用诈骗团伙160万不堪威胁自首",
+      "onboard_time": 1692739693,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185854,
       "num": 185854,
       "word": "檀健次粉丝七夕吃挺好",
@@ -361,14 +369,6 @@
       "onboard_time": 1692721712,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170542,
-      "num": 214424,
-      "word": "挪用诈骗团伙160万不堪威胁自首",
-      "onboard_time": 1692739693,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166559,
@@ -451,6 +451,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120904,
+      "num": 120904,
+      "word": "衢州这个婚登处领证仪式感爆棚",
+      "onboard_time": 1692745283,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117505,
       "num": 185813,
       "word": "光与夜之恋调整二创授权",
@@ -459,12 +467,44 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 113058,
+      "num": 113058,
+      "word": "官方回应少年目睹爷爷被殴打后投河身亡",
+      "onboard_time": 1692729078,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110417,
+      "num": 110417,
+      "word": "你最后终于做到了讲普通话的电影",
+      "onboard_time": 1692738314,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 107442,
       "num": 185804,
       "word": "对幸福的感知力不如初高中时的样子",
       "onboard_time": 1692719742,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 103026,
+      "num": 103026,
+      "word": "每次去文具店都会被刷新一次认知",
+      "onboard_time": 1692727158,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100147,
+      "num": 100147,
+      "word": "2023科隆展",
+      "onboard_time": 1692746731,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 97176,
@@ -483,12 +523,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 92223,
-      "num": 92223,
-      "word": "官方回应少年目睹爷爷被殴打后投河身亡",
-      "onboard_time": 1692729078,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 91641,
+      "num": 91641,
+      "word": "黄奕岁月不败美人",
+      "onboard_time": 1692746488,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 88633,
@@ -515,36 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78932,
-      "num": 78932,
-      "word": "你最后终于做到了讲普通话的电影",
-      "onboard_time": 1692738314,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 75944,
-      "num": 83273,
-      "word": "每次去文具店都会被刷新一次认知",
-      "onboard_time": 1692727158,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72361,
       "num": 83328,
       "word": "金高银VOGUE九月刊",
       "onboard_time": 1692727878,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 67747,
-      "num": 67747,
-      "word": "衢州这个婚登处领证仪式感爆棚",
-      "onboard_time": 1692745283,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59702,
@@ -579,7 +595,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 33081,
+      "raw_hot": 43515,
       "num": 567956,
       "word": "金砖国家形象网宣片",
       "onboard_time": 1692709178,
