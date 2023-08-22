@@ -1,0 +1,410 @@
+{
+  "runTime": 1692704028375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2292712,
+        "num": 2292712,
+        "word": "中方回应日本正式决定启动排海",
+        "onboard_time": 1692698974,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 353171,
+        "num": 1692173,
+        "word": "民政局为七夕新人准备誓词和汉服",
+        "onboard_time": 1692692261,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28451,
+        "num": 1596368,
+        "word": "让世界听到更多的金砖声音",
+        "onboard_time": 1692691843,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1537970,
+        "num": 1537970,
+        "word": "邓为 华伦天奴",
+        "onboard_time": 1692692981,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251293,
+        "num": 1414251,
+        "word": "她在海拔4269米喊出我愿意",
+        "onboard_time": 1692697899,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1408998,
+        "num": 1408998,
+        "word": "南方电网员工老婆高调炫富惹争议",
+        "onboard_time": 1692701436,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168682,
+        "num": 873753,
+        "word": "消防员与女友约会队友边看边指导",
+        "onboard_time": 1692696164,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646644,
+        "num": 646644,
+        "word": "你们三代好精彩",
+        "onboard_time": 1692701494,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444496,
+        "num": 444496,
+        "word": "长相思",
+        "onboard_time": 1692694480,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391140,
+        "num": 391140,
+        "word": "天津火灾目击者称整栋楼全红了",
+        "onboard_time": 1692695018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2414887,
+        "num": 389314,
+        "word": "张栋梁是被盗号了吗",
+        "onboard_time": 1692696459,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 695430,
+        "num": 387124,
+        "word": "陈晓送陈妍希的七夕礼物",
+        "onboard_time": 1692689385,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569022,
+        "num": 381797,
+        "word": "吴宗宪 人丑才性骚扰",
+        "onboard_time": 1692703295,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348865,
+        "num": 378122,
+        "word": "陕西煤矿事故致11人死亡",
+        "onboard_time": 1692697720,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106468,
+        "num": 376945,
+        "word": "情侣凌晨3点排队领证激动一夜没睡",
+        "onboard_time": 1692702035,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546329,
+        "num": 373323,
+        "word": "除了沙溢没人愿意承认这张照片",
+        "onboard_time": 1692685418,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520490,
+        "num": 369849,
+        "word": "邓为带货力",
+        "onboard_time": 1692702335,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399007,
+        "num": 366020,
+        "word": "杨紫范丞丞七夕海报",
+        "onboard_time": 1692702816,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364057,
+        "num": 364057,
+        "word": "缅甸高官首度回应缅北诈骗",
+        "onboard_time": 1692682660,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350588,
+        "num": 350588,
+        "word": "易烊千玺工作室叫自己简未斯",
+        "onboard_time": 1692694783,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 651195,
+        "num": 349962,
+        "word": "赵丽颖分享小乌龟没赶上吃饭",
+        "onboard_time": 1692702756,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455559,
+        "num": 340194,
+        "word": "为什么感觉富婆都不留刘海",
+        "onboard_time": 1692702275,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 436792,
+        "num": 323940,
+        "word": "七夕丑花束真的很多",
+        "onboard_time": 1692696640,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 434432,
+        "num": 313735,
+        "word": "男子被女友亲到鼓膜破裂进医院",
+        "onboard_time": 1692701073,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311484,
+        "num": 311484,
+        "word": "张极演唱会前情绪崩溃大哭",
+        "onboard_time": 1692702574,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304202,
+        "num": 304202,
+        "word": "Tian祝Crisp不要十六强",
+        "onboard_time": 1692700534,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298203,
+        "num": 298203,
+        "word": "马立奥况三喜合体",
+        "onboard_time": 1692694179,
+        "rank": 26,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 295856,
+        "num": 295856,
+        "word": "长相思第一季大结局",
+        "onboard_time": 1692703475,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293303,
+        "num": 293303,
+        "word": "那英因身体欠佳请辞音乐节演出",
+        "onboard_time": 1692680801,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269125,
+        "num": 280377,
+        "word": "天津着火",
+        "onboard_time": 1692686677,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383912,
+        "num": 279248,
+        "word": "张晚意 玱玹是我哭戏最多的角色",
+        "onboard_time": 1692703715,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278050,
+        "num": 278050,
+        "word": "电视剧白日梦我",
+        "onboard_time": 1692701976,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274728,
+        "num": 274728,
+        "word": "范丞丞虞书欣双人大片",
+        "onboard_time": 1692693822,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251580,
+        "num": 251580,
+        "word": "七夕",
+        "onboard_time": 1692700595,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200680,
+        "num": 236023,
+        "word": "妈妈偷走录取通知书阻挠女儿入学",
+        "onboard_time": 1692671195,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 271817,
+        "num": 233114,
+        "word": "檀健次螺蛳粉厂长",
+        "onboard_time": 1692703535,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228544,
+        "num": 228544,
+        "word": "罗云熙章若楠吻戏",
+        "onboard_time": 1692696819,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216924,
+        "num": 216924,
+        "word": "Angelababy亲出声了",
+        "onboard_time": 1692689025,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198418,
+        "num": 198418,
+        "word": "武则天时期女性时尚风潮",
+        "onboard_time": 1692703415,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 197250,
+        "num": 197250,
+        "word": "妈妈给娃洗澡时发病半岁宝宝不幸溺亡",
+        "onboard_time": 1692676720,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198245,
+        "num": 191324,
+        "word": "肖战工作室发了18宫格",
+        "onboard_time": 1692689084,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185230,
+        "num": 185230,
+        "word": "赵露思七夕库存照",
+        "onboard_time": 1692694122,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179758,
+        "num": 179758,
+        "word": "Hero竟然这么过七夕",
+        "onboard_time": 1692703838,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174524,
+        "num": 174524,
+        "word": "七夕文案",
+        "onboard_time": 1692699397,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160461,
+        "num": 160461,
+        "word": "农村办酒席村民凌晨3点帮忙拔鸭毛",
+        "onboard_time": 1692699636,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156165,
+        "num": 156165,
+        "word": "昆明一窨井里发现两具年轻男尸",
+        "onboard_time": 1692675760,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152492,
+        "num": 152492,
+        "word": "萧敬腾林有慧公开恋情后首封",
+        "onboard_time": 1692689624,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147194,
+        "num": 147194,
+        "word": "符龙飞官宣二胎得女",
+        "onboard_time": 1692681279,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146411,
+        "num": 146411,
+        "word": "无意中看到了爸爸的网购记录",
+        "onboard_time": 1692690524,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120877,
+        "num": 146127,
+        "word": "原来发型真的这么重要啊",
+        "onboard_time": 1692687879,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席抵达南非约翰内斯堡#"
+    }
+  }
+}
