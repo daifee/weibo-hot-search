@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692736446511,
+  "endTime": 1692738848053,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -58481,6 +58481,14 @@
       "onboard_time": 1692474256,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20221,
+      "num": 24274,
+      "word": "你最后终于做到了讲普通话的电影",
+      "onboard_time": 1692738314,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 19762,
