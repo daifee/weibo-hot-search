@@ -1,0 +1,410 @@
+{
+  "runTime": 1692682428171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3297447,
+        "num": 3297447,
+        "word": "那英因身体欠佳请辞音乐节演出",
+        "onboard_time": 1692680801,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1669924,
+        "num": 1669924,
+        "word": "星期二没人约很正常的啦",
+        "onboard_time": 1692672458,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38037,
+        "num": 1077286,
+        "word": "2023金砖会晤",
+        "onboard_time": 1692676600,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1775442,
+        "num": 1065486,
+        "word": "昆明一窨井里发现两具年轻男尸",
+        "onboard_time": 1692675760,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044425,
+        "num": 1044425,
+        "word": "女子使用酒店毛巾后发现不明血迹报警",
+        "onboard_time": 1692679483,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958149,
+        "num": 958149,
+        "word": "茉莉奶白",
+        "onboard_time": 1692675517,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 906355,
+        "num": 906355,
+        "word": "孤注一掷票房是谁在扛",
+        "onboard_time": 1692676179,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 848460,
+        "num": 848460,
+        "word": "六公主在播封神榜妖灭",
+        "onboard_time": 1692673598,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 765061,
+        "num": 765061,
+        "word": "胡歌 如果未来五年我不拍戏了",
+        "onboard_time": 1692659185,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683761,
+        "num": 683761,
+        "word": "情侣七夕熬夜排队5小时领证2分钟",
+        "onboard_time": 1692678884,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1540712,
+        "num": 661873,
+        "word": "符龙飞官宣二胎得女",
+        "onboard_time": 1692681279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633310,
+        "num": 633310,
+        "word": "孙千素颜",
+        "onboard_time": 1692679124,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582814,
+        "num": 582814,
+        "word": "东方明珠下惊现重庆黄色法拉利",
+        "onboard_time": 1692676903,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456587,
+        "num": 499379,
+        "word": "亚洲象一鼻子甩出毒品2.8公斤",
+        "onboard_time": 1692664057,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192398,
+        "num": 496359,
+        "word": "24日起日本将开始核污染水排海",
+        "onboard_time": 1692669215,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495270,
+        "num": 495270,
+        "word": "虞书欣张凌赫执手海报",
+        "onboard_time": 1692678762,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475630,
+        "num": 475630,
+        "word": "长相思今天更新2集",
+        "onboard_time": 1692678823,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461380,
+        "num": 461380,
+        "word": "魏大勋见证了好多节目的升起消亡",
+        "onboard_time": 1692680383,
+        "rank": 17,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 443094,
+        "num": 443094,
+        "word": "泼天的富贵轮到七夕的我了",
+        "onboard_time": 1692676361,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 436204,
+        "num": 436204,
+        "word": "长相思第二季分集简介",
+        "onboard_time": 1692673959,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 684992,
+        "num": 436159,
+        "word": "妈妈给娃洗澡时发病半岁宝宝不幸溺亡",
+        "onboard_time": 1692676720,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494898,
+        "num": 436061,
+        "word": "茉酸奶",
+        "onboard_time": 1692681042,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 438876,
+        "num": 435964,
+        "word": "妈妈偷走录取通知书阻挠女儿入学",
+        "onboard_time": 1692671195,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 435845,
+        "num": 435845,
+        "word": "瘦了20斤才敢说的大实话",
+        "onboard_time": 1692659785,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398374,
+        "num": 398374,
+        "word": "去完一趟新疆发现体质变了",
+        "onboard_time": 1692669215,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 370405,
+        "num": 370405,
+        "word": "沈腾好像刚从月子中心出来",
+        "onboard_time": 1692669277,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366606,
+        "num": 366606,
+        "word": "李莲花小夭相柳角色热度榜TOP3",
+        "onboard_time": 1692681998,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359581,
+        "num": 359581,
+        "word": "A股",
+        "onboard_time": 1692670358,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 354925,
+        "num": 354925,
+        "word": "云边有个小卖部",
+        "onboard_time": 1692677684,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340039,
+        "num": 340039,
+        "word": "天官赐福",
+        "onboard_time": 1692672936,
+        "rank": 29,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 330443,
+        "num": 330443,
+        "word": "21岁小伙和女网友吃饭被捅身亡",
+        "onboard_time": 1692670237,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329755,
+        "num": 329755,
+        "word": "毛雪汪集体掀桌 打工人嘴替之光",
+        "onboard_time": 1692681105,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313078,
+        "num": 313078,
+        "word": "官配是有官配的道理",
+        "onboard_time": 1692673477,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309490,
+        "num": 309490,
+        "word": "王者荣耀联动HelloKitty",
+        "onboard_time": 1692680622,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 302998,
+        "num": 302998,
+        "word": "胡歌用脚比个心",
+        "onboard_time": 1692677441,
+        "rank": 34,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 301724,
+        "num": 301724,
+        "word": "李光洁隋雨蒙官宣二胎",
+        "onboard_time": 1692673418,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285597,
+        "num": 285597,
+        "word": "易烊千玺专辑刘艳芬纪录片",
+        "onboard_time": 1692679845,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285463,
+        "num": 285463,
+        "word": "莫斯科所有机场禁止进出航班",
+        "onboard_time": 1692665380,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 278040,
+        "num": 278040,
+        "word": "17岁的齐刘海刘诗诗",
+        "onboard_time": 1692673418,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268920,
+        "num": 268920,
+        "word": "七夕单身的有福了",
+        "onboard_time": 1692678762,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261672,
+        "num": 261672,
+        "word": "马嘉祺首张个人EP预告",
+        "onboard_time": 1692681582,
+        "rank": 40,
+        "category": "音乐,音乐"
+      },
+      {
+        "raw_hot": 255174,
+        "num": 255174,
+        "word": "给白敬亭整成喻初原了",
+        "onboard_time": 1692680204,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252448,
+        "num": 252448,
+        "word": "长相思收官是再见也是再相见",
+        "onboard_time": 1692679602,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243066,
+        "num": 243066,
+        "word": "iPhone换C口 安卓不通用",
+        "onboard_time": 1692634054,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 240691,
+        "num": 240691,
+        "word": "长相思说的择日是哪日",
+        "onboard_time": 1692678942,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236933,
+        "num": 236933,
+        "word": "韩国人为什么这么痴迷糖葫芦",
+        "onboard_time": 1692672458,
+        "rank": 45,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 233976,
+        "num": 233976,
+        "word": "莲花楼与琅琊榜的悲与歌",
+        "onboard_time": 1692676838,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220954,
+        "num": 220954,
+        "word": "山东大哥组人力千斤顶抬车救人",
+        "onboard_time": 1692681882,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207507,
+        "num": 207507,
+        "word": "徐璐官宣心动6",
+        "onboard_time": 1692682302,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194086,
+        "num": 205786,
+        "word": "有缘无份是种什么体验",
+        "onboard_time": 1692682241,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}

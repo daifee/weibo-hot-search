@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692681326693,
+  "endTime": 1692682428171,
   "band_list": [
     {
       "raw_hot": 5200285,
@@ -25,6 +25,14 @@
       "onboard_time": 1692591940,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 3297447,
+      "num": 3297447,
+      "word": "那英因身体欠佳请辞音乐节演出",
+      "onboard_time": 1692680801,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 3056779,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1540712,
+      "num": 661873,
+      "word": "符龙飞官宣二胎得女",
+      "onboard_time": 1692681279,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1515503,
       "num": 1515503,
       "word": "有人自林中坠落",
@@ -353,14 +369,6 @@
       "onboard_time": 1692586956,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1267805,
-      "num": 1267805,
-      "word": "那英因身体欠佳请辞音乐节演出",
-      "onboard_time": 1692680801,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 1246380,
@@ -497,6 +505,14 @@
       "onboard_time": 1692673418,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1044425,
+      "num": 1044425,
+      "word": "女子使用酒店毛巾后发现不明血迹报警",
+      "onboard_time": 1692679483,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1043159,
@@ -771,14 +787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 775736,
-      "num": 741504,
-      "word": "女子使用酒店毛巾后发现不明血迹报警",
-      "onboard_time": 1692679483,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 774287,
       "num": 774287,
       "word": "相柳说谎",
@@ -1051,20 +1059,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 633310,
+      "num": 633310,
+      "word": "孙千素颜",
+      "onboard_time": 1692679124,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 631270,
       "num": 631270,
       "word": "孟宴臣火之前在乎他的只有魏大勋",
       "onboard_time": 1692660027,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 625776,
-      "num": 625776,
-      "word": "孙千素颜",
-      "onboard_time": 1692679124,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 624143,
@@ -1363,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494898,
+      "num": 436061,
+      "word": "茉酸奶",
+      "onboard_time": 1692681042,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 491137,
       "num": 491137,
       "word": "魏大勋去年用孟宴臣身份过的七夕",
@@ -1507,6 +1523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 461380,
+      "num": 461380,
+      "word": "魏大勋见证了好多节目的升起消亡",
+      "onboard_time": 1692680383,
+      "rank": 23,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 460768,
       "num": 589920,
       "word": "乘客未系安全带6次弹起致骨折",
@@ -1529,14 +1553,6 @@
       "onboard_time": 1692619416,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 454982,
-      "num": 454982,
-      "word": "魏大勋见证了好多节目的升起消亡",
-      "onboard_time": 1692680383,
-      "rank": 23,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 453734,
@@ -1867,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366606,
+      "num": 366606,
+      "word": "李莲花小夭相柳角色热度榜TOP3",
+      "onboard_time": 1692681998,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358094,
       "num": 171865,
       "word": "经纪人否认周华健退出中国好声音",
@@ -2035,6 +2059,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 329755,
+      "num": 329755,
+      "word": "毛雪汪集体掀桌 打工人嘴替之光",
+      "onboard_time": 1692681105,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328233,
       "num": 328233,
       "word": "要久久爱",
@@ -2193,6 +2225,14 @@
       "onboard_time": 1692589237,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309490,
+      "num": 309490,
+      "word": "王者荣耀联动HelloKitty",
+      "onboard_time": 1692680622,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 308645,
@@ -2451,14 +2491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 281888,
-      "num": 251845,
-      "word": "毛雪汪集体掀桌 打工人嘴替之光",
-      "onboard_time": 1692681105,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281863,
       "num": 281863,
       "word": "严浩翔要拉上全团看黄晓明新片",
@@ -2611,14 +2643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265062,
-      "num": 250071,
-      "word": "符龙飞官宣二胎得女",
-      "onboard_time": 1692681279,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263860,
       "num": 254316,
       "word": "南京公交车起火事件细节公布",
@@ -2649,6 +2673,14 @@
       "onboard_time": 1692591339,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261672,
+      "num": 261672,
+      "word": "马嘉祺首张个人EP预告",
+      "onboard_time": 1692681582,
+      "rank": 40,
+      "category": "音乐,音乐"
     },
     {
       "raw_hot": 260354,
@@ -2699,8 +2731,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248844,
-      "num": 248844,
+      "raw_hot": 255174,
+      "num": 255174,
       "word": "给白敬亭整成喻初原了",
       "onboard_time": 1692680204,
       "rank": 44,
@@ -2947,6 +2979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220954,
+      "num": 220954,
+      "word": "山东大哥组人力千斤顶抬车救人",
+      "onboard_time": 1692681882,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220906,
       "num": 205148,
       "word": "Jake旧照",
@@ -3131,6 +3171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207507,
+      "num": 207507,
+      "word": "徐璐官宣心动6",
+      "onboard_time": 1692682302,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207319,
       "num": 207319,
       "word": "李莲花是原声李相夷是配音",
@@ -3169,14 +3217,6 @@
       "onboard_time": 1692609276,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204125,
-      "num": 204125,
-      "word": "王者荣耀联动HelloKitty",
-      "onboard_time": 1692680622,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 203099,
@@ -3249,14 +3289,6 @@
       "onboard_time": 1692605496,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199911,
-      "num": 199911,
-      "word": "茉酸奶",
-      "onboard_time": 1692681042,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 199759,
@@ -3345,6 +3377,14 @@
       "onboard_time": 1692612155,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194086,
+      "num": 205786,
+      "word": "有缘无份是种什么体验",
+      "onboard_time": 1692682241,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 193840,
