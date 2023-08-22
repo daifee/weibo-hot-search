@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692696832944,
+  "endTime": 1692699453544,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3532640,
-      "num": 681459,
+      "num": 1182938,
       "word": "邓为 华伦天奴",
       "onboard_time": 1692692981,
       "rank": 27,
@@ -49,6 +49,14 @@
       "onboard_time": 1692680801,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3094797,
+      "num": 364311,
+      "word": "张栋梁是被盗号了吗",
+      "onboard_time": 1692696459,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 3056779,
@@ -265,6 +273,14 @@
       "onboard_time": 1692620375,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1718255,
+      "num": 1718255,
+      "word": "陕西煤矿事故致11人死亡",
+      "onboard_time": 1692697720,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1692425,
@@ -1027,6 +1043,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 726441,
+      "num": 332323,
+      "word": "七夕丑花束真的很多",
+      "onboard_time": 1692696640,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 720457,
       "num": 720457,
       "word": "茉酸奶",
@@ -1779,6 +1803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 457702,
+      "num": 1687595,
+      "word": "她在海拔4269米喊出我愿意",
+      "onboard_time": 1692697899,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456304,
       "num": 323058,
       "word": "SEVENTEEN回归比孙悟空更有冲击性",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1692589358,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451013,
+      "num": 342358,
+      "word": "罗云熙章若楠吻戏",
+      "onboard_time": 1692696819,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 445620,
@@ -2275,14 +2315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345477,
-      "num": 345477,
-      "word": "张栋梁是被盗号了吗",
-      "onboard_time": 1692696459,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 344247,
       "num": 344247,
       "word": "李兰迪说王阳每条褶子都恰到好处",
@@ -2521,6 +2553,14 @@
       "onboard_time": 1692580295,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318303,
+      "num": 298233,
+      "word": "张艺兴孤注一掷29亿海报",
+      "onboard_time": 1692696521,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 317349,
@@ -2899,14 +2939,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 280325,
-      "num": 280325,
-      "word": "张艺兴孤注一掷29亿海报",
-      "onboard_time": 1692696521,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 277812,
       "num": 277812,
       "word": "Uzi连麦张伟丽",
@@ -2953,6 +2985,14 @@
       "onboard_time": 1692593982,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271807,
+      "num": 271807,
+      "word": "中方回应日本正式决定启动排海",
+      "onboard_time": 1692698974,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 271292,
@@ -3033,6 +3073,14 @@
       "onboard_time": 1692544965,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267078,
+      "num": 803366,
+      "word": "消防员与女友约会队友边看边指导",
+      "onboard_time": 1692696164,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266305,
@@ -3177,6 +3225,14 @@
       "onboard_time": 1692680204,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251953,
+      "num": 666437,
+      "word": "民政局为七夕新人准备誓词和汉服",
+      "onboard_time": 1692692261,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247756,
@@ -3355,14 +3411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234008,
-      "num": 234008,
-      "word": "消防员与女友约会队友边看边指导",
-      "onboard_time": 1692696164,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232336,
       "num": 232336,
       "word": "短短三十秒剧情这么紧凑",
@@ -3425,14 +3473,6 @@
       "onboard_time": 1692592843,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225884,
-      "num": 225884,
-      "word": "民政局为七夕新人准备誓词和汉服",
-      "onboard_time": 1692692261,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223286,
@@ -3699,6 +3739,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 205052,
+      "num": 205052,
+      "word": "黄河八分钟花絮",
+      "onboard_time": 1692699096,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204965,
       "num": 204965,
       "word": "6个人的聚会5个人收到情书",
@@ -3841,6 +3889,22 @@
       "onboard_time": 1692673117,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197848,
+      "num": 212502,
+      "word": "今天是七夕",
+      "onboard_time": 1692698437,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197614,
+      "num": 205031,
+      "word": "德牧这是什么男朋友特质啊",
+      "onboard_time": 1692698617,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 196764,
@@ -4019,14 +4083,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 187743,
-      "num": 212002,
-      "word": "罗云熙章若楠吻戏",
-      "onboard_time": 1692696819,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 187192,
       "num": 187192,
       "word": "王一博你到底会多少个舞种",
@@ -4129,14 +4185,6 @@
       "onboard_time": 1692581195,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 171776,
-      "num": 209912,
-      "word": "七夕丑花束真的很多",
-      "onboard_time": 1692696640,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 171480,
@@ -4636,7 +4684,7 @@
     },
     {
       "raw_hot": 69636,
-      "num": 1016642,
+      "num": 1480877,
       "word": "让世界听到更多的金砖声音",
       "onboard_time": 1692691843,
       "rank": 2,
