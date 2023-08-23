@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692801239862,
+  "endTime": 1692803824550,
   "band_list": [
     {
       "raw_hot": 11115797,
@@ -17,6 +17,14 @@
       "onboard_time": 1692761798,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 3254575,
+      "num": 3254575,
+      "word": "核废水",
+      "onboard_time": 1692792458,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3096070,
@@ -73,6 +81,14 @@
       "onboard_time": 1692748898,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1989181,
+      "num": 1989181,
+      "word": "挪威的房价",
+      "onboard_time": 1692799299,
+      "rank": 30,
+      "category": "财经,旅游"
     },
     {
       "raw_hot": 1939760,
@@ -195,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1483625,
-      "num": 1483625,
-      "word": "核废水",
-      "onboard_time": 1692792458,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1479547,
       "num": 1479547,
       "word": "中方不希望8月24日成海洋环境灾难日",
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1328419,
+      "num": 1328419,
+      "word": "被偷走录取通知书女生称妈妈已同意她去中戏",
+      "onboard_time": 1692801278,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1306224,
       "num": 1306224,
       "word": "杨幂cue唐嫣NG名场面",
@@ -227,16 +243,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1304365,
-      "num": 644058,
-      "word": "挪威的房价",
-      "onboard_time": 1692799299,
-      "rank": 30,
-      "category": "财经,旅游"
-    },
-    {
       "raw_hot": 1301506,
-      "num": 367528,
+      "num": 393783,
       "word": "离婚7个月前夫晒照喜得一女",
       "onboard_time": 1692790300,
       "rank": 35,
@@ -427,6 +435,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 855036,
+      "num": 855036,
+      "word": "七夕晚上翻了二十多个垃圾桶",
+      "onboard_time": 1692801702,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 848884,
+      "num": 848884,
+      "word": "24岁女生的退休生活",
+      "onboard_time": 1692801638,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 843536,
       "num": 477465,
       "word": "孙阳 我就是175",
@@ -441,6 +465,14 @@
       "onboard_time": 1692772955,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 821655,
+      "num": 394159,
+      "word": "王祖蓝看李亚男眼神",
+      "onboard_time": 1692800738,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 805630,
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 719298,
-      "num": 363663,
+      "num": 370097,
       "word": "杨紫ins更新",
       "onboard_time": 1692788141,
       "rank": 21,
@@ -593,6 +625,14 @@
       "onboard_time": 1692720046,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 657909,
+      "num": 657909,
+      "word": "黎光有女儿了",
+      "onboard_time": 1692799962,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 652179,
@@ -659,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607557,
+      "num": 533180,
+      "word": "高考被缅语专业录取班主任劝复读",
+      "onboard_time": 1692802121,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 607482,
       "num": 607482,
       "word": "孙艺洲 人生没有彩排",
@@ -680,14 +728,6 @@
       "word": "琅琊榜熟人重聚麦乐村",
       "onboard_time": 1692791799,
       "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 603790,
-      "num": 328065,
-      "word": "黎光有女儿了",
-      "onboard_time": 1692799962,
-      "rank": 46,
       "category": "影视"
     },
     {
@@ -859,6 +899,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 529861,
+      "num": 529861,
+      "word": "迪丽热巴说进组在流程中了",
+      "onboard_time": 1692800800,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 528680,
+      "num": 528680,
+      "word": "张桂梅 秋天的第一杯奶茶",
+      "onboard_time": 1692800139,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521051,
       "num": 521051,
       "word": "30000只鸡中暑见消防员来张嘴讨水喝",
@@ -945,6 +1001,14 @@
       "onboard_time": 1692795157,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 460633,
+      "num": 393364,
+      "word": "宁静太敢说了",
+      "onboard_time": 1692802479,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 447333,
@@ -1115,6 +1179,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392460,
+      "num": 392460,
+      "word": "白敬亭或将演骄阳似我男主",
+      "onboard_time": 1692802479,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 387940,
+      "num": 387940,
+      "word": "最近女生服装的特征",
+      "onboard_time": 1692800860,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 386869,
       "num": 212708,
       "word": "今年七夕朋友圈怎么如此安静",
@@ -1275,14 +1355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 335123,
-      "num": 335123,
-      "word": "张桂梅 秋天的第一杯奶茶",
-      "onboard_time": 1692800139,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331587,
       "num": 331587,
       "word": "李昀锐跳女团舞是专业的",
@@ -1361,6 +1433,14 @@
       "onboard_time": 1692795517,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 320454,
+      "num": 320454,
+      "word": "立秋最狠减肥法",
+      "onboard_time": 1692803141,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 319430,
@@ -1539,6 +1619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 286504,
+      "num": 286504,
+      "word": "莲花楼",
+      "onboard_time": 1692801338,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284343,
       "num": 284343,
       "word": "张颂文这次演警察",
@@ -1611,14 +1699,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 270938,
-      "num": 270938,
-      "word": "王祖蓝看李亚男眼神",
-      "onboard_time": 1692800738,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269663,
       "num": 269663,
       "word": "周也孤注一掷破30亿海报",
@@ -1633,6 +1713,14 @@
       "onboard_time": 1692753163,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 267462,
+      "num": 267462,
+      "word": "把e人逼成i人的夏天",
+      "onboard_time": 1692802541,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 266443,
@@ -1691,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258958,
+      "num": 258958,
+      "word": "檀健次着迷舞台首秀",
+      "onboard_time": 1692802722,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 257466,
       "num": 208293,
       "word": "一路朝阳 国产真实职场剧",
@@ -1744,6 +1840,14 @@
       "word": "印度月船3号成功着陆",
       "onboard_time": 1692794497,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250433,
+      "num": 250433,
+      "word": "核污染水",
+      "onboard_time": 1692803561,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1803,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239506,
-      "num": 239506,
-      "word": "最近女生服装的特征",
-      "onboard_time": 1692800860,
-      "rank": 37,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 239039,
       "num": 239039,
       "word": "老婆把货车装修成了婚房",
@@ -1825,6 +1921,14 @@
       "onboard_time": 1692768877,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237331,
+      "num": 237331,
+      "word": "协理后宫时来了五位领导",
+      "onboard_time": 1692801399,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 237023,
@@ -1859,6 +1963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232069,
+      "num": 232069,
+      "word": "俞灏明多年后调侃端木磊造型",
+      "onboard_time": 1692803678,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231590,
       "num": 231590,
       "word": "素颜就已经很美了",
@@ -1889,6 +2001,14 @@
       "onboard_time": 1692752266,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225909,
+      "num": 225909,
+      "word": "孤注一掷",
+      "onboard_time": 1692802838,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 225391,
@@ -2203,14 +2323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197084,
-      "num": 197084,
-      "word": "迪丽热巴说进组在流程中了",
-      "onboard_time": 1692800800,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195181,
       "num": 195181,
       "word": "燃冬 文艺男的审美",
@@ -2297,6 +2409,14 @@
       "onboard_time": 1692782918,
       "rank": 33,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 190934,
+      "num": 190934,
+      "word": "养小土狗到底有多快乐",
+      "onboard_time": 1692803259,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 189380,
@@ -2904,6 +3024,14 @@
       "word": "20多个国家正在叩响金砖的大门",
       "onboard_time": 1692761503,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13754,
+      "num": 528840,
+      "word": "南非的宝藏打卡地",
+      "onboard_time": 1692802901,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

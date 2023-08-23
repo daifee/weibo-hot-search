@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692801239862,
+  "endTime": 1692803824550,
   "band_list": [
     {
       "raw_hot": 11115797,
@@ -65,6 +65,14 @@
       "onboard_time": 1692680801,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3254575,
+      "num": 3254575,
+      "word": "核废水",
+      "onboard_time": 1692792458,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3251185,
@@ -281,6 +289,14 @@
       "onboard_time": 1692630761,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1989181,
+      "num": 1989181,
+      "word": "挪威的房价",
+      "onboard_time": 1692799299,
+      "rank": 30,
+      "category": "财经,旅游"
     },
     {
       "raw_hot": 1973364,
@@ -627,14 +643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1483625,
-      "num": 1483625,
-      "word": "核废水",
-      "onboard_time": 1692792458,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1479547,
       "num": 1479547,
       "word": "中方不希望8月24日成海洋环境灾难日",
@@ -707,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1328419,
+      "num": 1328419,
+      "word": "被偷走录取通知书女生称妈妈已同意她去中戏",
+      "onboard_time": 1692801278,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1318104,
       "num": 1318104,
       "word": "孤注一掷票房是谁在扛",
@@ -731,16 +747,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1304365,
-      "num": 644058,
-      "word": "挪威的房价",
-      "onboard_time": 1692799299,
-      "rank": 30,
-      "category": "财经,旅游"
-    },
-    {
       "raw_hot": 1301506,
-      "num": 367528,
+      "num": 393783,
       "word": "离婚7个月前夫晒照喜得一女",
       "onboard_time": 1692790300,
       "rank": 35,
@@ -1315,6 +1323,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 855036,
+      "num": 855036,
+      "word": "七夕晚上翻了二十多个垃圾桶",
+      "onboard_time": 1692801702,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 848884,
+      "num": 848884,
+      "word": "24岁女生的退休生活",
+      "onboard_time": 1692801638,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 843536,
       "num": 477465,
       "word": "孙阳 我就是175",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1692772955,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 821655,
+      "num": 394159,
+      "word": "王祖蓝看李亚男眼神",
+      "onboard_time": 1692800738,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 817651,
@@ -1708,7 +1740,7 @@
     },
     {
       "raw_hot": 719298,
-      "num": 363663,
+      "num": 370097,
       "word": "杨紫ins更新",
       "onboard_time": 1692788141,
       "rank": 21,
@@ -1849,6 +1881,14 @@
       "onboard_time": 1692720046,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 657909,
+      "num": 657909,
+      "word": "黎光有女儿了",
+      "onboard_time": 1692799962,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 655598,
@@ -2075,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607557,
+      "num": 533180,
+      "word": "高考被缅语专业录取班主任劝复读",
+      "onboard_time": 1692802121,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 607482,
       "num": 607482,
       "word": "孙艺洲 人生没有彩排",
@@ -2104,14 +2152,6 @@
       "word": "琅琊榜熟人重聚麦乐村",
       "onboard_time": 1692791799,
       "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 603790,
-      "num": 328065,
-      "word": "黎光有女儿了",
-      "onboard_time": 1692799962,
-      "rank": 46,
       "category": "影视"
     },
     {
@@ -2483,12 +2523,28 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 529861,
+      "num": 529861,
+      "word": "迪丽热巴说进组在流程中了",
+      "onboard_time": 1692800800,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 529830,
       "num": 529830,
       "word": "长相思今天更新2集",
       "onboard_time": 1692678823,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 528680,
+      "num": 528680,
+      "word": "张桂梅 秋天的第一杯奶茶",
+      "onboard_time": 1692800139,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523741,
@@ -2929,6 +2985,14 @@
       "onboard_time": 1692585275,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460633,
+      "num": 393364,
+      "word": "宁静太敢说了",
+      "onboard_time": 1692802479,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 458198,
@@ -3483,6 +3547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392460,
+      "num": 392460,
+      "word": "白敬亭或将演骄阳似我男主",
+      "onboard_time": 1692802479,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 390431,
       "num": 324478,
       "word": "无意中看到了爸爸的网购记录",
@@ -3513,6 +3585,14 @@
       "onboard_time": 1692673959,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 387940,
+      "num": 387940,
+      "word": "最近女生服装的特征",
+      "onboard_time": 1692800860,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 386890,
@@ -3987,14 +4067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 335123,
-      "num": 335123,
-      "word": "张桂梅 秋天的第一杯奶茶",
-      "onboard_time": 1692800139,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334881,
       "num": 334881,
       "word": "田曦薇李玉湖被偷亲的反应",
@@ -4217,6 +4289,14 @@
       "onboard_time": 1692591281,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 320454,
+      "num": 320454,
+      "word": "立秋最狠减肥法",
+      "onboard_time": 1692803141,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 319762,
@@ -4939,14 +5019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270938,
-      "num": 270938,
-      "word": "王祖蓝看李亚男眼神",
-      "onboard_time": 1692800738,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270603,
       "num": 270603,
       "word": "小夭的贝壳是相柳接血那个吗",
@@ -5033,6 +5105,14 @@
       "onboard_time": 1692544965,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267462,
+      "num": 267462,
+      "word": "把e人逼成i人的夏天",
+      "onboard_time": 1692802541,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 267078,
@@ -5203,6 +5283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258958,
+      "num": 258958,
+      "word": "檀健次着迷舞台首秀",
+      "onboard_time": 1692802722,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 258226,
       "num": 258226,
       "word": "有种情歌叫做大张伟唱情歌",
@@ -5296,6 +5384,14 @@
       "word": "印度月船3号成功着陆",
       "onboard_time": 1692794497,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250433,
+      "num": 250433,
+      "word": "核污染水",
+      "onboard_time": 1692803561,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -5475,14 +5571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239506,
-      "num": 239506,
-      "word": "最近女生服装的特征",
-      "onboard_time": 1692800860,
-      "rank": 37,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 239039,
       "num": 239039,
       "word": "老婆把货车装修成了婚房",
@@ -5505,6 +5593,14 @@
       "onboard_time": 1692690226,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237331,
+      "num": 237331,
+      "word": "协理后宫时来了五位领导",
+      "onboard_time": 1692801399,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 236008,
@@ -5585,6 +5681,14 @@
       "onboard_time": 1692629022,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232069,
+      "num": 232069,
+      "word": "俞灏明多年后调侃端木磊造型",
+      "onboard_time": 1692803678,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 232018,
@@ -5673,6 +5777,14 @@
       "onboard_time": 1692592843,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225909,
+      "num": 225909,
+      "word": "孤注一掷",
+      "onboard_time": 1692628181,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 225391,
@@ -5809,14 +5921,6 @@
       "onboard_time": 1692709717,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 219050,
-      "num": 203963,
-      "word": "孤注一掷",
-      "onboard_time": 1692628181,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 218025,
@@ -6499,14 +6603,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 197084,
-      "num": 197084,
-      "word": "迪丽热巴说进组在流程中了",
-      "onboard_time": 1692800800,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196764,
       "num": 196764,
       "word": "会长是女仆中的初代男神",
@@ -6769,6 +6865,14 @@
       "onboard_time": 1692713627,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190934,
+      "num": 190934,
+      "word": "养小土狗到底有多快乐",
+      "onboard_time": 1692803259,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 189987,
@@ -8369,6 +8473,14 @@
       "onboard_time": 1692612040,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 13754,
+      "num": 528840,
+      "word": "南非的宝藏打卡地",
+      "onboard_time": 1692802901,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
