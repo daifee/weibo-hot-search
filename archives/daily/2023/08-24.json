@@ -1,6 +1,6 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692814734523,
+  "endTime": 1692815650557,
   "band_list": [
     {
       "raw_hot": 1437884,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534372,
+      "num": 534372,
+      "word": "外媒称普里戈任坠机身亡",
+      "onboard_time": 1692813019,
+      "rank": 3,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 488607,
       "num": 297918,
       "word": "立秋最狠减肥法",
@@ -169,14 +177,6 @@
       "onboard_time": 1692800800,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 368747,
-      "num": 368747,
-      "word": "外媒称普里戈任坠机身亡",
-      "onboard_time": 1692813019,
-      "rank": 3,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 353090,
@@ -339,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182810,
+      "num": 182810,
+      "word": "e人里面最i的是谁",
+      "onboard_time": 1692812838,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180652,
       "num": 180652,
       "word": "小朋友捧着书说是粉丝",
@@ -376,14 +384,6 @@
       "word": "什么事你坚持了三年以上",
       "onboard_time": 1692798399,
       "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 142112,
-      "num": 142112,
-      "word": "e人里面最i的是谁",
-      "onboard_time": 1692812838,
-      "rank": 8,
       "category": "情感"
     },
     {
@@ -491,20 +491,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 64039,
+      "num": 60815,
+      "word": "搞定所有脸型的刘海",
+      "onboard_time": 1692813619,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 56755,
       "num": 56755,
       "word": "迪丽热巴画完奶茶喝奶茶",
       "onboard_time": 1692795937,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53628,
-      "num": 53628,
-      "word": "搞定所有脸型的刘海",
-      "onboard_time": 1692813619,
-      "rank": 37,
-      "category": "美妆"
     },
     {
       "raw_hot": 46187,
@@ -515,12 +515,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40758,
+      "num": 40758,
+      "word": "热烈王一博现场加练的舞被加进正片",
+      "onboard_time": 1692814998,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 39058,
       "num": 39058,
       "word": "小猫咪自拍",
       "onboard_time": 1692814698,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 34987,
+      "num": 34987,
+      "word": "黎光李慕嘉嗑死我了",
+      "onboard_time": 1692815599,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 11274,

@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692814734523,
+  "endTime": 1692815650557,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -20419,6 +20419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534372,
+      "num": 534372,
+      "word": "外媒称普里戈任坠机身亡",
+      "onboard_time": 1692813019,
+      "rank": 3,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 534266,
       "num": 514399,
       "word": "刘恋好迷人",
@@ -29897,14 +29905,6 @@
       "onboard_time": 1692443856,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 368747,
-      "num": 368747,
-      "word": "外媒称普里戈任坠机身亡",
-      "onboard_time": 1692813019,
-      "rank": 3,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 368728,
@@ -52451,6 +52451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 182810,
+      "num": 182810,
+      "word": "e人里面最i的是谁",
+      "onboard_time": 1692812838,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182738,
       "num": 182738,
       "word": "如何评价鸿蒙4",
@@ -55825,14 +55833,6 @@
       "onboard_time": 1692440675,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142112,
-      "num": 142112,
-      "word": "e人里面最i的是谁",
-      "onboard_time": 1692812838,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 142072,
@@ -59467,6 +59467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 64039,
+      "num": 60815,
+      "word": "搞定所有脸型的刘海",
+      "onboard_time": 1692813619,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 63456,
       "num": 549985,
       "word": "原神微博表情",
@@ -59971,14 +59979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53628,
-      "num": 53628,
-      "word": "搞定所有脸型的刘海",
-      "onboard_time": 1692813619,
-      "rank": 37,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 53392,
       "num": 588329,
       "word": "重庆龙麻子奔赴涞水救灾",
@@ -60403,6 +60403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40758,
+      "num": 40758,
+      "word": "热烈王一博现场加练的舞被加进正片",
+      "onboard_time": 1692814998,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 40004,
       "num": 470310,
       "word": "戎装配红妆100对新人喜结连理",
@@ -60561,6 +60569,14 @@
       "onboard_time": 1691132435,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34987,
+      "num": 34987,
+      "word": "黎光李慕嘉嗑死我了",
+      "onboard_time": 1692815599,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 34686,
