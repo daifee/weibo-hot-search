@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692821801920,
+  "endTime": 1692822843390,
   "band_list": [
     {
       "raw_hot": 11115797,
@@ -8035,6 +8035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104782,
+      "num": 104782,
+      "word": "景甜没人告诉我扫楼要跑啊",
+      "onboard_time": 1692819314,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 103026,
       "num": 103026,
       "word": "每次去文具店都会被刷新一次认知",
@@ -8105,14 +8113,6 @@
       "onboard_time": 1692808588,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93617,
-      "num": 93617,
-      "word": "景甜没人告诉我扫楼要跑啊",
-      "onboard_time": 1692819314,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 91641,
@@ -8563,6 +8563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 34528,
+      "num": 34528,
+      "word": "胡锡进",
+      "onboard_time": 1692817336,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31271,
       "num": 40300,
       "word": "没想到客厅也能成为酒吧平替",
@@ -8755,6 +8763,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 23365,
+      "num": 23365,
+      "word": "犬夜叉动画中的美男子",
+      "onboard_time": 1692821294,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 23093,
       "num": 543748,
       "word": "南非的宝藏打卡地",
@@ -8777,14 +8793,6 @@
       "onboard_time": 1692562934,
       "rank": 48,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 19911,
-      "num": 19911,
-      "word": "犬夜叉动画中的美男子",
-      "onboard_time": 1692821294,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 16203,
