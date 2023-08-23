@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692761628876,
+  "endTime": 1692764368246,
   "band_list": [
     {
       "raw_hot": 2273885,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1827557,
+      "num": 404762,
+      "word": "门诊来了三个未成年",
+      "onboard_time": 1692761798,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1822762,
       "num": 1822762,
       "word": "男子被骗缅甸家属被告知已遭杀害",
@@ -57,6 +65,14 @@
       "onboard_time": 1692721473,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1770549,
+      "num": 424899,
+      "word": "那英泰国度假",
+      "onboard_time": 1692760961,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 1636960,
@@ -91,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1257392,
+      "num": 1257392,
+      "word": "假签名被孙阳本人打假",
+      "onboard_time": 1692761138,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1141593,
       "num": 627232,
       "word": "女生学校宿舍产子作案人系同学父亲",
@@ -123,20 +147,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1017190,
+      "num": 397094,
+      "word": "不要把裤子提到肚脐眼上",
+      "onboard_time": 1692760002,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1016317,
       "num": 623257,
       "word": "费翔 不是每个人都适合结婚",
       "onboard_time": 1692750102,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 990623,
-      "num": 397094,
-      "word": "不要把裤子提到肚脐眼上",
-      "onboard_time": 1692760002,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 958978,
@@ -323,6 +347,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 540881,
+      "num": 389191,
+      "word": "魏大勋体重全在胸肌上",
+      "onboard_time": 1692760840,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540353,
       "num": 540353,
       "word": "警校生和军校生的婚后生活",
@@ -353,22 +385,6 @@
       "onboard_time": 1692716631,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 517499,
-      "num": 432104,
-      "word": "假签名被孙阳本人打假",
-      "onboard_time": 1692761138,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 516135,
-      "num": 424899,
-      "word": "那英泰国度假",
-      "onboard_time": 1692760961,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 515488,
@@ -419,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406117,
+      "num": 406117,
+      "word": "涂山璟相柳得知小夭订婚",
+      "onboard_time": 1692761077,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403262,
       "num": 403262,
       "word": "核污水",
@@ -433,6 +457,14 @@
       "onboard_time": 1692759398,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 388557,
+      "num": 388557,
+      "word": "浙江公安请市民免费看孤注一掷",
+      "onboard_time": 1692759577,
+      "rank": 22,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 386869,
@@ -451,22 +483,6 @@
       "category": "情感,时尚"
     },
     {
-      "raw_hot": 370043,
-      "num": 370043,
-      "word": "魏大勋体重全在胸肌上",
-      "onboard_time": 1692760840,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 368774,
-      "num": 368774,
-      "word": "浙江公安请市民免费看孤注一掷",
-      "onboard_time": 1692759577,
-      "rank": 22,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 367822,
       "num": 367822,
       "word": "易烊千玺手写少年的你情书",
@@ -483,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 361271,
+      "num": 361271,
+      "word": "杨幂卷发梦回雪见",
+      "onboard_time": 1692763898,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358094,
       "num": 358094,
       "word": "深圳七夕当天79对夫妻离婚",
@@ -491,12 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354362,
+      "num": 354362,
+      "word": "亲爱的猎罪相思",
+      "onboard_time": 1692762217,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354195,
       "num": 354195,
       "word": "工作人员看赵丽颖的眼神",
       "onboard_time": 1692759761,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341568,
+      "num": 341568,
+      "word": "儿子突然出现送惊喜挨了妈妈一巴掌",
+      "onboard_time": 1692763657,
+      "rank": 22,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 328595,
@@ -513,6 +553,14 @@
       "onboard_time": 1692751911,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326874,
+      "num": 326874,
+      "word": "王俊凯包场燃冬",
+      "onboard_time": 1692761503,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 323569,
@@ -579,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284343,
+      "num": 284343,
+      "word": "张颂文这次演警察",
+      "onboard_time": 1692761620,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 283836,
       "num": 283836,
       "word": "马伯骞敢说张纯烨敢信",
@@ -627,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266231,
+      "num": 263780,
+      "word": "周也孤注一掷破30亿海报",
+      "onboard_time": 1692763416,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265302,
       "num": 265302,
       "word": "供电局回应员工家属疑炫富事件",
@@ -643,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259618,
+      "num": 259618,
+      "word": "魏大勋背头黑斗篷",
+      "onboard_time": 1692763119,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 257466,
       "num": 208293,
       "word": "一路朝阳 国产真实职场剧",
@@ -657,14 +729,6 @@
       "onboard_time": 1692747755,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 251037,
-      "num": 251037,
-      "word": "涂山璟相柳得知小夭订婚",
-      "onboard_time": 1692761077,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 249545,
@@ -731,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224090,
+      "num": 252433,
+      "word": "七夕后的垃圾桶",
+      "onboard_time": 1692763839,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 223421,
       "num": 602477,
       "word": "挪用诈骗团伙160万不堪威胁自首",
@@ -753,6 +825,14 @@
       "onboard_time": 1692722729,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213861,
+      "num": 213861,
+      "word": "i人喜欢独处的原因",
+      "onboard_time": 1692761980,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 212322,
@@ -803,20 +883,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 203729,
+      "num": 203729,
+      "word": "恋爱谈得像996",
+      "onboard_time": 1692761258,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201242,
       "num": 201242,
       "word": "苏可对张艺兴的评价",
       "onboard_time": 1692751661,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201136,
-      "num": 201136,
-      "word": "恋爱谈得像996",
-      "onboard_time": 1692761258,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 200604,
@@ -841,14 +921,6 @@
       "onboard_time": 1692760301,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195665,
-      "num": 195665,
-      "word": "王俊凯包场燃冬",
-      "onboard_time": 1692761503,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 195181,
@@ -947,6 +1019,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173976,
+      "num": 173976,
+      "word": "罗小黑处暑壁纸",
+      "onboard_time": 1692764197,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 170790,
+      "num": 170790,
+      "word": "天官赐福动画七夕PV",
+      "onboard_time": 1692764197,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 169089,
       "num": 169089,
       "word": "诺兰为拍奥本海默建了一座小镇",
@@ -995,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162541,
+      "num": 162541,
+      "word": "梦泪婚礼预告",
+      "onboard_time": 1692763179,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161862,
       "num": 185849,
       "word": "刘昊然屈楚萧回应燃冬角色关系",
@@ -1033,6 +1129,14 @@
       "onboard_time": 1692701073,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145584,
+      "num": 145584,
+      "word": "杭州交警为亚运会上分了",
+      "onboard_time": 1692762041,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 142781,
@@ -1123,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100186,
+      "num": 263782,
+      "word": "王冰冰蒋敦豪冰敦敦组合",
+      "onboard_time": 1692761561,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100147,
       "num": 100147,
       "word": "2023科隆展",
@@ -1153,14 +1265,6 @@
       "onboard_time": 1692746488,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90966,
-      "num": 165585,
-      "word": "王冰冰蒋敦豪冰敦敦组合",
-      "onboard_time": 1692761561,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 88633,
@@ -1235,6 +1339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 42041,
+      "num": 1071922,
+      "word": "共建更加美好的世界",
+      "onboard_time": 1692761680,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29859,
       "num": 45247,
       "word": "金泰亨神图",
@@ -1268,6 +1380,9 @@
     },
     {
       "word": "#习近平主席抵达南非约翰内斯堡#"
+    },
+    {
+      "word": "#习近平向金砖国家工商论坛闭幕式发表致辞#"
     }
   ]
 }
