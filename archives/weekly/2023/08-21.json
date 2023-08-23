@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692774899552,
+  "endTime": 1692776033526,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -1019,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 923852,
+      "num": 923852,
+      "word": "科学家在各种女性卫生用品中发现永久危险物质",
+      "onboard_time": 1692773556,
+      "rank": 16,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 915131,
       "num": 915131,
       "word": "新加坡总理李显龙宣布将移交权力",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1692612096,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 822085,
+      "num": 822085,
+      "word": "iPhone用两年什么变化",
+      "onboard_time": 1692772955,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 817651,
@@ -1459,19 +1475,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 724462,
-      "num": 724462,
-      "word": "iPhone用两年什么变化",
-      "onboard_time": 1692772955,
-      "rank": 3,
-      "category": "科技"
-    },
-    {
       "raw_hot": 722006,
       "num": 722006,
       "word": "民政局直播新人领证仅12对登记",
       "onboard_time": 1692718666,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721101,
+      "num": 418091,
+      "word": "飞机延误乘务员比旅客还头痛",
+      "onboard_time": 1692772474,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1851,6 +1867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 590578,
+      "num": 311754,
+      "word": "虞书欣粉黑蕾丝吊带",
+      "onboard_time": 1692774395,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 590052,
       "num": 590052,
       "word": "涂山璟当爹",
@@ -1995,14 +2019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 546070,
-      "num": 418091,
-      "word": "飞机延误乘务员比旅客还头痛",
-      "onboard_time": 1692772474,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 545229,
       "num": 377414,
       "word": "曾经唱红一首歌就消失不见的70位歌手",
@@ -2105,14 +2121,6 @@
       "onboard_time": 1692678823,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 526281,
-      "num": 415114,
-      "word": "科学家在各种女性卫生用品中发现永久危险物质",
-      "onboard_time": 1692773556,
-      "rank": 16,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 523741,
@@ -2457,6 +2465,14 @@
       "onboard_time": 1692673598,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 470094,
+      "num": 311942,
+      "word": "杨幂cue唐嫣NG名场面",
+      "onboard_time": 1692775594,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 467013,
@@ -4187,6 +4203,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 273778,
+      "num": 273778,
+      "word": "朱一龙影业公司取得节目制作许可",
+      "onboard_time": 1692774635,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273661,
       "num": 273661,
       "word": "被黄渤美颜误伤的倪妮",
@@ -4457,6 +4481,14 @@
       "onboard_time": 1692672578,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259325,
+      "num": 241080,
+      "word": "女团健康减肥方法",
+      "onboard_time": 1692774515,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 259210,
@@ -5363,14 +5395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201614,
-      "num": 201614,
-      "word": "虞书欣粉黑蕾丝吊带",
-      "onboard_time": 1692774395,
-      "rank": 33,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 201601,
       "num": 201601,
       "word": "如果大家都记得 它就不会在人类星球消失",
@@ -5505,6 +5529,14 @@
       "onboard_time": 1692605559,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198403,
+      "num": 198403,
+      "word": "世界之外不公布幕后人员身份",
+      "onboard_time": 1692774996,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 198197,
@@ -5931,6 +5963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180579,
+      "num": 180579,
+      "word": "大狗狗去公园不是为了交朋友的",
+      "onboard_time": 1692774214,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 180299,
       "num": 180299,
       "word": "七夕将至廉价求婚钻戒月销10万",
@@ -5955,11 +5995,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176983,
-      "num": 176983,
-      "word": "朱一龙影业公司取得节目制作许可",
-      "onboard_time": 1692774635,
-      "rank": 35,
+      "raw_hot": 179111,
+      "num": 179111,
+      "word": "人民文娱评电影燃冬",
+      "onboard_time": 1692775775,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -6027,6 +6067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171925,
+      "num": 171925,
+      "word": "素颜就已经很美了",
+      "onboard_time": 1692775535,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 171480,
       "num": 171480,
       "word": "沈腾劝架范丞丞魏大勋",
@@ -6041,14 +6089,6 @@
       "onboard_time": 1692683978,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 171347,
-      "num": 171347,
-      "word": "女团健康减肥方法",
-      "onboard_time": 1692774515,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 170619,
@@ -6267,20 +6307,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 156678,
-      "num": 156678,
-      "word": "大狗狗去公园不是为了交朋友的",
-      "onboard_time": 1692774214,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 156496,
       "num": 191386,
       "word": "陕西一煤矿突发事故有人受伤",
       "onboard_time": 1692686257,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156155,
+      "num": 156155,
+      "word": "BLACKPINK新歌动画风",
+      "onboard_time": 1692775236,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 155099,
@@ -7091,6 +7131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30482,
+      "num": 419135,
+      "word": "淘宝新势力周给普通人拍封面大片",
+      "onboard_time": 1692774036,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30282,
       "num": 40727,
       "word": "物业的心思总花不到正经地方",
@@ -7209,14 +7257,6 @@
       "onboard_time": 1692562934,
       "rank": 48,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 16513,
-      "num": 419135,
-      "word": "淘宝新势力周给普通人拍封面大片",
-      "onboard_time": 1692774036,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16203,
