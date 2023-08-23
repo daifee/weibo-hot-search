@@ -1,7 +1,23 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692830031658,
+  "endTime": 1692832565141,
   "band_list": [
+    {
+      "raw_hot": 2598953,
+      "num": 1786952,
+      "word": "俄媒称普里戈任的私人飞机坠毁",
+      "onboard_time": 1692812121,
+      "rank": 0,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2174509,
+      "num": 2174509,
+      "word": "核污染水",
+      "onboard_time": 1692803561,
+      "rank": 12,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1437884,
       "num": 1137844,
@@ -17,14 +33,6 @@
       "onboard_time": 1692780036,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1155137,
-      "num": 1128009,
-      "word": "俄媒称普里戈任的私人飞机坠毁",
-      "onboard_time": 1692812121,
-      "rank": 0,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1106035,
@@ -73,14 +81,6 @@
       "onboard_time": 1692805056,
       "rank": 8,
       "category": "其它"
-    },
-    {
-      "raw_hot": 713810,
-      "num": 713810,
-      "word": "核污染水",
-      "onboard_time": 1692803561,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 698755,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435796,
+      "num": 235877,
+      "word": "乐山市民江边发现女版睡佛",
+      "onboard_time": 1692829096,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434641,
       "num": 434641,
       "word": "一路朝阳导演谁啊",
@@ -177,6 +185,14 @@
       "onboard_time": 1692800800,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366850,
+      "num": 221894,
+      "word": "卖奢侈品的在吐槽",
+      "onboard_time": 1692816558,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 353090,
@@ -227,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284829,
+      "num": 284829,
+      "word": "景甜没人告诉我扫楼要跑啊",
+      "onboard_time": 1692819314,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258105,
       "num": 258105,
       "word": "最近女生服装的特征",
@@ -257,6 +281,14 @@
       "onboard_time": 1692793118,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225960,
+      "num": 225960,
+      "word": "普里戈任确认在坠机中遇难",
+      "onboard_time": 1692832408,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 225915,
@@ -307,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193584,
-      "num": 107764,
-      "word": "卖奢侈品的在吐槽",
-      "onboard_time": 1692816558,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191644,
       "num": 191644,
       "word": "易烊千玺没进组的那些时间",
@@ -363,12 +387,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177648,
+      "num": 156002,
+      "word": "原来涂山璟是桐华写给所有女生的一封情书",
+      "onboard_time": 1692815956,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154891,
       "num": 154891,
       "word": "enhypen 一直娱",
       "onboard_time": 1692799602,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153898,
+      "num": 153898,
+      "word": "坠毁飞机乘客包括瓦格纳几乎所有高层",
+      "onboard_time": 1692832467,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 153718,
+      "num": 147497,
+      "word": "护林员养大了一只奄奄一息的小幼崽",
+      "onboard_time": 1692826095,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152609,
@@ -379,12 +427,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 148692,
-      "num": 148692,
-      "word": "景甜没人告诉我扫楼要跑啊",
-      "onboard_time": 1692819314,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 150961,
+      "num": 150961,
+      "word": "什么事你坚持了三年以上",
+      "onboard_time": 1692798399,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 146541,
@@ -395,12 +443,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 142245,
-      "num": 142245,
-      "word": "什么事你坚持了三年以上",
-      "onboard_time": 1692798399,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 146087,
+      "num": 146087,
+      "word": "马云分享近况",
+      "onboard_time": 1692832046,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 141289,
+      "num": 156242,
+      "word": "许魏洲 我的账户由我自己守护",
+      "onboard_time": 1692828858,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 141223,
@@ -443,12 +499,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121923,
+      "num": 121923,
+      "word": "胡锡进",
+      "onboard_time": 1692817336,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116788,
       "num": 116788,
       "word": "朱迅 不必为年龄的增长而感到焦虑",
       "onboard_time": 1692804876,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115397,
+      "num": 115397,
+      "word": "山东一镇为231名准大学生发35万助学金",
+      "onboard_time": 1692828916,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 112849,
@@ -467,12 +539,36 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 106055,
+      "num": 106055,
+      "word": "山东一镇5年给900多名准大学生发助学金",
+      "onboard_time": 1692816856,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 103581,
       "num": 953488,
       "word": "中国没有称王称霸的基因",
       "onboard_time": 1692796659,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103039,
+      "num": 103039,
+      "word": "搞定所有脸型的刘海",
+      "onboard_time": 1692813619,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 99807,
+      "num": 99807,
+      "word": "刘虞佳 养女儿真的太幸福了",
+      "onboard_time": 1692831745,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 96076,
@@ -483,6 +579,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95886,
+      "num": 95886,
+      "word": "学校超市已经准备好迎接新生了",
+      "onboard_time": 1692831925,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 90297,
+      "num": 90297,
+      "word": "十二星座水逆指南",
+      "onboard_time": 1692810023,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88434,
       "num": 88434,
       "word": "付辛博看了周杰伦演唱会",
@@ -491,28 +603,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 84253,
-      "num": 58278,
-      "word": "护林员养大了一只奄奄一息的小幼崽",
-      "onboard_time": 1692826095,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82649,
-      "num": 68888,
-      "word": "原来涂山璟是桐华写给所有女生的一封情书",
-      "onboard_time": 1692815956,
-      "rank": 21,
+      "raw_hot": 82028,
+      "num": 82028,
+      "word": "大鹏说黄渤和王一博是小红帽和大灰狼",
+      "onboard_time": 1692819016,
+      "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 80008,
-      "num": 80008,
-      "word": "十二星座水逆指南",
-      "onboard_time": 1692810023,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 71412,
@@ -523,38 +619,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 70263,
-      "num": 70263,
-      "word": "胡锡进",
-      "onboard_time": 1692817336,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67187,
-      "num": 67187,
-      "word": "山东一镇5年给900多名准大学生发助学金",
-      "onboard_time": 1692816856,
-      "rank": 24,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 64039,
-      "num": 60815,
-      "word": "搞定所有脸型的刘海",
-      "onboard_time": 1692813619,
-      "rank": 37,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 62527,
-      "num": 57669,
-      "word": "乐山市民江边发现女版睡佛",
-      "onboard_time": 1692829096,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56755,
       "num": 56755,
       "word": "迪丽热巴画完奶茶喝奶茶",
@@ -563,28 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51334,
-      "num": 51334,
-      "word": "许魏洲 我的账户由我自己守护",
-      "onboard_time": 1692828858,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 46187,
       "num": 46187,
       "word": "这只萨摩耶是社牛吧",
       "onboard_time": 1692812179,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 44690,
-      "num": 44690,
-      "word": "大鹏说黄渤和王一博是小红帽和大灰狼",
-      "onboard_time": 1692819016,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 40758,
@@ -627,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26999,
+      "num": 1053194,
+      "word": "我国与金砖国家经贸合作成绩亮眼",
+      "onboard_time": 1692796478,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25151,
       "num": 25151,
       "word": "救下一只小黄蜂后",
@@ -657,14 +713,6 @@
       "onboard_time": 1692818655,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 12917,
-      "num": 489594,
-      "word": "我国与金砖国家经贸合作成绩亮眼",
-      "onboard_time": 1692796478,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
