@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692793904009,
+  "endTime": 1692794867234,
   "band_list": [
     {
       "raw_hot": 11115797,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1703400,
+      "num": 1703400,
+      "word": "日媒称24号核污染水排海可能取消",
+      "onboard_time": 1692780036,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1646794,
       "num": 1258838,
       "word": "李维嘉 是独居非老人",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1301506,
-      "num": 279718,
+      "num": 314065,
       "word": "离婚7个月前夫晒照喜得一女",
       "onboard_time": 1692790300,
       "rank": 35,
@@ -217,14 +225,6 @@
       "onboard_time": 1692761138,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1225947,
-      "num": 1225947,
-      "word": "日媒称24号核污染水排海可能取消",
-      "onboard_time": 1692780036,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1179681,
@@ -499,6 +499,30 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 669952,
+      "num": 669952,
+      "word": "核废水",
+      "onboard_time": 1692792458,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664203,
+      "num": 308490,
+      "word": "猴哥唯一一次被骗",
+      "onboard_time": 1692793118,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 660484,
+      "num": 566599,
+      "word": "唯一不能开进上海市区的车牌是沪C",
+      "onboard_time": 1692792038,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660136,
       "num": 209184,
       "word": "杨幂发了十八宫格",
@@ -659,28 +683,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 564544,
+      "num": 302963,
+      "word": "infp的朋友圈是卖锁的吧",
+      "onboard_time": 1692791739,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 548610,
       "num": 548610,
       "word": "初二女生夺100米世界级冠军",
       "onboard_time": 1692756337,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 548335,
-      "num": 250206,
-      "word": "唯一不能开进上海市区的车牌是沪C",
-      "onboard_time": 1692792038,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 544248,
-      "num": 273450,
-      "word": "infp的朋友圈是卖锁的吧",
-      "onboard_time": 1692791739,
-      "rank": 22,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 543773,
@@ -697,6 +713,14 @@
       "onboard_time": 1692760840,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 540425,
+      "num": 540425,
+      "word": "谁来管管装逼酒桌文化",
+      "onboard_time": 1692793238,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 540353,
@@ -721,14 +745,6 @@
       "onboard_time": 1692717948,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 536997,
-      "num": 536997,
-      "word": "核废水",
-      "onboard_time": 1692792458,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534647,
@@ -955,6 +971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 395673,
+      "num": 395673,
+      "word": "于适文戏",
+      "onboard_time": 1692792937,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 386869,
       "num": 212708,
       "word": "今年七夕朋友圈怎么如此安静",
@@ -1083,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348900,
+      "num": 291955,
+      "word": "易烊千玺没进组的那些时间",
+      "onboard_time": 1692792879,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 341869,
       "num": 341869,
       "word": "NCT2023来了",
@@ -1195,14 +1227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 317203,
-      "num": 266221,
-      "word": "易烊千玺没进组的那些时间",
-      "onboard_time": 1692792879,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 315791,
       "num": 315791,
       "word": "日本核污染水排海至少要持续30年",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1692788320,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 315371,
+      "num": 315371,
+      "word": "岑先生直播",
+      "onboard_time": 1692794018,
+      "rank": 19,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 312160,
@@ -1243,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306910,
-      "num": 250048,
-      "word": "猴哥唯一一次被骗",
-      "onboard_time": 1692793118,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 304200,
       "num": 304200,
       "word": "玱玹赌赢了",
@@ -1259,11 +1283,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302680,
-      "num": 302680,
-      "word": "于适文戏",
-      "onboard_time": 1692792937,
-      "rank": 17,
+      "raw_hot": 297055,
+      "num": 297055,
+      "word": "封神",
+      "onboard_time": 1692790120,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -1339,20 +1363,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284221,
+      "num": 284221,
+      "word": "孙颖莎",
+      "onboard_time": 1692792697,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283836,
       "num": 283836,
       "word": "马伯骞敢说张纯烨敢信",
       "onboard_time": 1692759035,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280552,
-      "num": 280552,
-      "word": "封神",
-      "onboard_time": 1692790120,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 276956,
@@ -1443,12 +1467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265267,
+      "num": 265267,
+      "word": "不敢相信陈紫函48岁了",
+      "onboard_time": 1692794435,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263030,
       "num": 263030,
       "word": "马龙vs林高远",
       "onboard_time": 1692791317,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262049,
+      "num": 262049,
+      "word": "暑期档首次2部影片破30亿",
+      "onboard_time": 1692789518,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 261162,
@@ -1507,20 +1547,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252167,
+      "num": 252167,
+      "word": "印度月船3号成功着陆",
+      "onboard_time": 1692794497,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249545,
       "num": 208089,
       "word": "丈夫酒后打妻子致坠楼跳下施救",
       "onboard_time": 1692705813,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249315,
-      "num": 249315,
-      "word": "暑期档首次2部影片破30亿",
-      "onboard_time": 1692789518,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 247497,
@@ -1571,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239039,
+      "num": 239039,
+      "word": "老婆把货车装修成了婚房",
+      "onboard_time": 1692793178,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238919,
       "num": 238919,
       "word": "2名在缅电诈犯罪嫌疑人被押解回国",
@@ -1585,14 +1633,6 @@
       "onboard_time": 1692718007,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 235397,
-      "num": 235397,
-      "word": "孙颖莎",
-      "onboard_time": 1692792697,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 233942,
@@ -1699,6 +1739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219005,
+      "num": 219005,
+      "word": "胡歌吴磊17年命运齿轮转动",
+      "onboard_time": 1692794435,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218025,
       "num": 218025,
       "word": "买了个洗车水管后就没敢洗过车",
@@ -1713,14 +1761,6 @@
       "onboard_time": 1692787241,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213187,
-      "num": 213187,
-      "word": "谁来管管装逼酒桌文化",
-      "onboard_time": 1692793238,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 212322,
@@ -1867,14 +1907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199605,
-      "num": 199605,
-      "word": "老婆把货车装修成了婚房",
-      "onboard_time": 1692793178,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 198791,
       "num": 198791,
       "word": "陈情令杀青5周年了",
@@ -1905,6 +1937,14 @@
       "onboard_time": 1692787604,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196001,
+      "num": 196001,
+      "word": "陈牧驰回应被工作室整破防",
+      "onboard_time": 1692794378,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 195181,
@@ -1961,6 +2001,14 @@
       "onboard_time": 1692756877,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191982,
+      "num": 191982,
+      "word": "原来牛牛也会生气",
+      "onboard_time": 1692794677,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 191242,
@@ -2027,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181830,
+      "num": 181830,
+      "word": "当大学生记错开学时间",
+      "onboard_time": 1692794799,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181569,
       "num": 181569,
       "word": "陈梦vs孙铭阳",
@@ -2065,6 +2121,14 @@
       "onboard_time": 1692754777,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175670,
+      "num": 175670,
+      "word": "印度月球探测器登月成功",
+      "onboard_time": 1692794735,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 172497,
@@ -2203,6 +2267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149882,
+      "num": 508794,
+      "word": "男孩攒钱替去世爸爸买七夕花束送妈妈",
+      "onboard_time": 1692792098,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145923,
       "num": 180789,
       "word": "太子悦神BJD",
@@ -2312,14 +2384,6 @@
       "word": "官方回应少年目睹爷爷被殴打后投河身亡",
       "onboard_time": 1692729078,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110595,
-      "num": 374374,
-      "word": "男孩攒钱替去世爸爸买七夕花束送妈妈",
-      "onboard_time": 1692792098,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2443,6 +2507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 67575,
+      "num": 225879,
+      "word": "淘宝成为1.2亿人的电子夜市",
+      "onboard_time": 1692792038,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 59702,
       "num": 83296,
       "word": "遇见猫猫爱意画面",
@@ -2489,14 +2561,6 @@
       "onboard_time": 1692728118,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 43439,
-      "num": 200303,
-      "word": "淘宝成为1.2亿人的电子夜市",
-      "onboard_time": 1692792038,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 43023,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1692794867234,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1974812,
+        "num": 1974812,
+        "word": "奶茶店遭遇120杯奶茶订单诈骗",
+        "onboard_time": 1692782018,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2144371,
+        "num": 1894489,
+        "word": "大连地震",
+        "onboard_time": 1692786399,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59224,
+        "num": 1714705,
+        "word": "中南关系前景光明未来可期",
+        "onboard_time": 1692781297,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1703400,
+        "num": 1703400,
+        "word": "日媒称24号核污染水排海可能取消",
+        "onboard_time": 1692780036,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177798,
+        "num": 1177798,
+        "word": "TFBOYS演唱会门票炒到200万系谣言",
+        "onboard_time": 1692790895,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 699176,
+        "num": 699176,
+        "word": "东方树叶 三得利",
+        "onboard_time": 1692776977,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 671134,
+        "num": 671134,
+        "word": "欧美圈为什么不能叫欧娱",
+        "onboard_time": 1692786095,
+        "rank": 6,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 669952,
+        "num": 669952,
+        "word": "核废水",
+        "onboard_time": 1692792458,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595293,
+        "num": 595293,
+        "word": "不懂香菜拌牛肉的有难了",
+        "onboard_time": 1692789159,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 567151,
+        "num": 567151,
+        "word": "公司团建给员工发3500元自由安排",
+        "onboard_time": 1692788381,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 660484,
+        "num": 566599,
+        "word": "唯一不能开进上海市区的车牌是沪C",
+        "onboard_time": 1692792038,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590372,
+        "num": 566447,
+        "word": "张晚意 你哭什么",
+        "onboard_time": 1692783279,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565683,
+        "num": 565683,
+        "word": "消费降级但衣品提升了",
+        "onboard_time": 1692788677,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 540425,
+        "num": 540425,
+        "word": "谁来管管装逼酒桌文化",
+        "onboard_time": 1692793238,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149882,
+        "num": 508794,
+        "word": "男孩攒钱替去世爸爸买七夕花束送妈妈",
+        "onboard_time": 1692792098,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482663,
+        "num": 482663,
+        "word": "琅琊榜熟人重聚麦乐村",
+        "onboard_time": 1692791799,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395673,
+        "num": 395673,
+        "word": "于适文戏",
+        "onboard_time": 1692792937,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374171,
+        "num": 374171,
+        "word": "金晨是30亿票房女主了",
+        "onboard_time": 1692777633,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350542,
+        "num": 350542,
+        "word": "大连地震路边饭店食客跑上街避险",
+        "onboard_time": 1692791680,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315371,
+        "num": 315371,
+        "word": "岑先生直播",
+        "onboard_time": 1692794018,
+        "rank": 19,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1153906,
+        "num": 314065,
+        "word": "离婚7个月前夫晒照喜得一女",
+        "onboard_time": 1692790300,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 664203,
+        "num": 308490,
+        "word": "猴哥唯一一次被骗",
+        "onboard_time": 1692793118,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 564544,
+        "num": 302963,
+        "word": "infp的朋友圈是卖锁的吧",
+        "onboard_time": 1692791739,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 505507,
+        "num": 297900,
+        "word": "杨紫ins更新",
+        "onboard_time": 1692788141,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297055,
+        "num": 297055,
+        "word": "封神",
+        "onboard_time": 1692790120,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348900,
+        "num": 291955,
+        "word": "易烊千玺没进组的那些时间",
+        "onboard_time": 1692792879,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284221,
+        "num": 284221,
+        "word": "孙颖莎",
+        "onboard_time": 1692792697,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273825,
+        "num": 273825,
+        "word": "男朋友说西瓜一人一半",
+        "onboard_time": 1692787904,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 271939,
+        "num": 271939,
+        "word": "我懂周冬雨是怎么选剧本的了",
+        "onboard_time": 1692788677,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270346,
+        "num": 270346,
+        "word": "云南一16岁女孩被同学父亲强奸产子",
+        "onboard_time": 1692783939,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265267,
+        "num": 265267,
+        "word": "不敢相信陈紫函48岁了",
+        "onboard_time": 1692794435,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263013,
+        "num": 263013,
+        "word": "杨幂cue唐嫣NG名场面",
+        "onboard_time": 1692775594,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262451,
+        "num": 262451,
+        "word": "于适环球银幕封面",
+        "onboard_time": 1692791258,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262049,
+        "num": 262049,
+        "word": "暑期档首次2部影片破30亿",
+        "onboard_time": 1692789518,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261920,
+        "num": 261920,
+        "word": "马龙vs林高远",
+        "onboard_time": 1692791317,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261666,
+        "num": 261666,
+        "word": "李维嘉 是独居非老人",
+        "onboard_time": 1692779019,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252167,
+        "num": 252167,
+        "word": "印度月船3号成功着陆",
+        "onboard_time": 1692794497,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239039,
+        "num": 239039,
+        "word": "老婆把货车装修成了婚房",
+        "onboard_time": 1692793178,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231390,
+        "num": 231390,
+        "word": "九岁摄影师拍的赵露思",
+        "onboard_time": 1692778960,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67575,
+        "num": 225879,
+        "word": "淘宝成为1.2亿人的电子夜市",
+        "onboard_time": 1692792038,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 225533,
+        "num": 225533,
+        "word": "四叶草的记忆开始攻击我了",
+        "onboard_time": 1692788979,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219005,
+        "num": 219005,
+        "word": "胡歌吴磊17年命运齿轮转动",
+        "onboard_time": 1692794435,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199334,
+        "num": 199334,
+        "word": "iPhone15Pro被曝的21项变化",
+        "onboard_time": 1692767141,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196001,
+        "num": 196001,
+        "word": "陈牧驰回应被工作室整破防",
+        "onboard_time": 1692794378,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191982,
+        "num": 191982,
+        "word": "原来牛牛也会生气",
+        "onboard_time": 1692794677,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181830,
+        "num": 181830,
+        "word": "当大学生记错开学时间",
+        "onboard_time": 1692794799,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180441,
+        "num": 180441,
+        "word": "科学家在各种女性卫生用品中发现永久危险物质",
+        "onboard_time": 1692773556,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 179263,
+        "num": 179263,
+        "word": "被韩国这个厕所装置震撼到",
+        "onboard_time": 1692784118,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178824,
+        "num": 178824,
+        "word": "林允演唱会速成妆容",
+        "onboard_time": 1692790417,
+        "rank": 48,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 175670,
+        "num": 175670,
+        "word": "印度月球探测器登月成功",
+        "onboard_time": 1692794735,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建高水平中南命运共同体#"
+    }
+  }
+}
