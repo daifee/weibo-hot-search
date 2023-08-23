@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692789214887,
+  "endTime": 1692790426538,
   "band_list": [
     {
       "raw_hot": 11115797,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1140942,
+      "num": 1140942,
+      "word": "欧美圈为什么不能叫欧娱",
+      "onboard_time": 1692786095,
+      "rank": 24,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1086346,
       "num": 1086346,
       "word": "冯绍峰跟自己的四肢不太熟吧",
@@ -321,14 +329,6 @@
       "onboard_time": 1692718423,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 927768,
-      "num": 927768,
-      "word": "欧美圈为什么不能叫欧娱",
-      "onboard_time": 1692786095,
-      "rank": 24,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 863616,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719298,
+      "num": 325621,
+      "word": "杨紫ins更新",
+      "onboard_time": 1692788141,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 716557,
       "num": 716557,
       "word": "王阳 叔圈天菜",
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 618106,
-      "num": 276942,
+      "num": 310216,
       "word": "男朋友说西瓜一人一半",
       "onboard_time": 1692787904,
       "rank": 30,
@@ -531,14 +539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 606640,
-      "num": 325621,
-      "word": "杨紫ins更新",
-      "onboard_time": 1692788141,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 599449,
       "num": 599449,
       "word": "苏翊鸣 朱易",
@@ -561,6 +561,14 @@
       "onboard_time": 1692706292,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573593,
+      "num": 573593,
+      "word": "消费降级但衣品提升了",
+      "onboard_time": 1692788677,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 571156,
@@ -665,6 +673,14 @@
       "onboard_time": 1692777815,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 529232,
+      "num": 529232,
+      "word": "公司团建给员工发3500元自由安排",
+      "onboard_time": 1692788381,
+      "rank": 18,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 521051,
@@ -787,6 +803,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 426997,
+      "num": 426997,
+      "word": "王曼昱",
+      "onboard_time": 1692788022,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426178,
       "num": 388513,
       "word": "上班摸鱼时把琐事做了",
@@ -851,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399271,
-      "num": 399271,
-      "word": "王曼昱",
-      "onboard_time": 1692788022,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 397415,
       "num": 4124234,
       "word": "高铁乘客突发疾病6名医生出手",
@@ -881,6 +897,14 @@
       "onboard_time": 1692706837,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 381730,
+      "num": 306087,
+      "word": "我懂周冬雨是怎么选剧本的了",
+      "onboard_time": 1692788677,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 381175,
@@ -931,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368714,
+      "num": 368714,
+      "word": "不懂香菜拌牛肉的有难了",
+      "onboard_time": 1692789159,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 367822,
       "num": 367822,
       "word": "易烊千玺手写少年的你情书",
@@ -979,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349850,
+      "num": 301894,
+      "word": "四叶草的记忆开始攻击我了",
+      "onboard_time": 1692788979,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341869,
       "num": 341869,
       "word": "NCT2023来了",
@@ -1001,14 +1041,6 @@
       "onboard_time": 1692781714,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 333989,
-      "num": 333989,
-      "word": "公司团建给员工发3500元自由安排",
-      "onboard_time": 1692788381,
-      "rank": 18,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 330249,
@@ -1107,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315640,
+      "num": 315640,
+      "word": "洪洗象卸任XYG主教练",
+      "onboard_time": 1692788320,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312160,
       "num": 312160,
       "word": "东方风云榜禁止应援",
@@ -1171,20 +1211,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291921,
-      "num": 291921,
-      "word": "洪洗象卸任XYG主教练",
-      "onboard_time": 1692788320,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 291351,
       "num": 291351,
       "word": "女装相柳戏檀多多能不能自己上",
       "onboard_time": 1692764561,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290732,
+      "num": 290732,
+      "word": "复刻方便面有多难",
+      "onboard_time": 1692787840,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 289893,
@@ -1217,14 +1257,6 @@
       "onboard_time": 1692759035,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277619,
-      "num": 277619,
-      "word": "复刻方便面有多难",
-      "onboard_time": 1692787840,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 276956,
@@ -1307,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265541,
-      "num": 265541,
-      "word": "我懂周冬雨是怎么选剧本的了",
-      "onboard_time": 1692788677,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 265302,
       "num": 265302,
       "word": "供电局回应员工家属疑炫富事件",
@@ -1371,6 +1395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255995,
+      "num": 255995,
+      "word": "没有一只鸭能走出广西",
+      "onboard_time": 1692786095,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249545,
       "num": 208089,
       "word": "丈夫酒后打妻子致坠楼跳下施救",
@@ -1411,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243406,
+      "num": 243406,
+      "word": "离婚7个月前夫晒照喜得一女",
+      "onboard_time": 1692790300,
+      "rank": 35,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 241466,
       "num": 241466,
       "word": "谁半夜偷偷打他了",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1692771996,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238973,
+      "num": 238973,
+      "word": "暑期档首次2部影片破30亿",
+      "onboard_time": 1692789518,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 238919,
@@ -1507,14 +1555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225050,
-      "num": 225050,
-      "word": "消费降级但衣品提升了",
-      "onboard_time": 1692788677,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 223421,
       "num": 602477,
       "word": "挪用诈骗团伙160万不堪威胁自首",
@@ -1553,14 +1593,6 @@
       "onboard_time": 1692782979,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 215283,
-      "num": 215283,
-      "word": "四叶草的记忆开始攻击我了",
-      "onboard_time": 1692788979,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 215057,
@@ -1633,14 +1665,6 @@
       "onboard_time": 1692787305,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206133,
-      "num": 206133,
-      "word": "没有一只鸭能走出广西",
-      "onboard_time": 1692786095,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 205970,
@@ -1787,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193770,
+      "num": 193770,
+      "word": "最佳新锐选手风箫",
+      "onboard_time": 1692789699,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193694,
       "num": 193694,
       "word": "梦泪婚礼预告",
@@ -1819,6 +1851,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 189712,
+      "num": 189712,
+      "word": "封神",
+      "onboard_time": 1692790120,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189380,
       "num": 189380,
       "word": "周深央视七夕晚会压轴舞台",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1692777633,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183396,
+      "num": 183396,
+      "word": "这个夏天引发的思考",
+      "onboard_time": 1692789818,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 183164,
@@ -1905,14 +1953,6 @@
       "onboard_time": 1692774573,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171206,
-      "num": 171206,
-      "word": "不懂香菜拌牛肉的有难了",
-      "onboard_time": 1692789159,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 169089,
@@ -2155,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109846,
+      "num": 431786,
+      "word": "老人驾车侧翻白菜滚落被市民抢购一空",
+      "onboard_time": 1692788502,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107442,
       "num": 185804,
       "word": "对幸福的感知力不如初高中时的样子",
@@ -2312,14 +2360,6 @@
       "word": "共建更加美好的世界",
       "onboard_time": 1692761680,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34613,
-      "num": 384938,
-      "word": "老人驾车侧翻白菜滚落被市民抢购一空",
-      "onboard_time": 1692788502,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

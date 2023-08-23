@@ -1,0 +1,410 @@
+{
+  "runTime": 1692790426538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7567280,
+        "num": 7567280,
+        "word": "大连地震",
+        "onboard_time": 1692786399,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385975,
+        "num": 1860267,
+        "word": "高铁乘客突发疾病6名医生出手",
+        "onboard_time": 1692778657,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 67212,
+        "num": 1688196,
+        "word": "中南关系前景光明未来可期",
+        "onboard_time": 1692781297,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1628768,
+        "num": 1628768,
+        "word": "奶茶店遭遇120杯奶茶订单诈骗",
+        "onboard_time": 1692782018,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125050,
+        "num": 1367426,
+        "word": "女生车祸失去手腿重新逆转人生",
+        "onboard_time": 1692764978,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140942,
+        "num": 1140942,
+        "word": "欧美圈为什么不能叫欧娱",
+        "onboard_time": 1692786095,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 56124,
+        "num": 1086846,
+        "word": "新疆交警化身草原牧羊人护航转场",
+        "onboard_time": 1692784238,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070406,
+        "num": 1070406,
+        "word": "东方树叶 三得利",
+        "onboard_time": 1692776977,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 592887,
+        "num": 592887,
+        "word": "沈阳震感",
+        "onboard_time": 1692786639,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573593,
+        "num": 573593,
+        "word": "消费降级但衣品提升了",
+        "onboard_time": 1692788677,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1485179,
+        "num": 564253,
+        "word": "徐涛",
+        "onboard_time": 1692785976,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 788147,
+        "num": 558334,
+        "word": "张晚意 你哭什么",
+        "onboard_time": 1692783279,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529232,
+        "num": 529232,
+        "word": "公司团建给员工发3500元自由安排",
+        "onboard_time": 1692788381,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 448596,
+        "num": 448596,
+        "word": "被韩国这个厕所装置震撼到",
+        "onboard_time": 1692784118,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109846,
+        "num": 431786,
+        "word": "老人驾车侧翻白菜滚落被市民抢购一空",
+        "onboard_time": 1692788502,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429376,
+        "num": 429376,
+        "word": "日媒称24号核污染水排海可能取消",
+        "onboard_time": 1692780036,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426997,
+        "num": 426997,
+        "word": "王曼昱",
+        "onboard_time": 1692788022,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368714,
+        "num": 368714,
+        "word": "不懂香菜拌牛肉的有难了",
+        "onboard_time": 1692789159,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 362538,
+        "num": 362538,
+        "word": "金晨是30亿票房女主了",
+        "onboard_time": 1692777633,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315640,
+        "num": 315640,
+        "word": "洪洗象卸任XYG主教练",
+        "onboard_time": 1692788320,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 719298,
+        "num": 314814,
+        "word": "杨紫ins更新",
+        "onboard_time": 1692788141,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561542,
+        "num": 310216,
+        "word": "男朋友说西瓜一人一半",
+        "onboard_time": 1692787904,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 525204,
+        "num": 307613,
+        "word": "云南一16岁女孩被同学父亲强奸产子",
+        "onboard_time": 1692783939,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381730,
+        "num": 306087,
+        "word": "我懂周冬雨是怎么选剧本的了",
+        "onboard_time": 1692788677,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349850,
+        "num": 301894,
+        "word": "四叶草的记忆开始攻击我了",
+        "onboard_time": 1692788979,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318483,
+        "num": 299571,
+        "word": "不要把裤子提到肚脐眼上",
+        "onboard_time": 1692760002,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297341,
+        "num": 297341,
+        "word": "Jennie夸Lisa",
+        "onboard_time": 1692784358,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290732,
+        "num": 290732,
+        "word": "复刻方便面有多难",
+        "onboard_time": 1692787840,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 281862,
+        "num": 281862,
+        "word": "杨幂cue唐嫣NG名场面",
+        "onboard_time": 1692775594,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267340,
+        "num": 267340,
+        "word": "选秀节目C位不出道",
+        "onboard_time": 1692784419,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264065,
+        "num": 264065,
+        "word": "李维嘉 是独居非老人",
+        "onboard_time": 1692779019,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261276,
+        "num": 261276,
+        "word": "法院说夭玹可以结婚",
+        "onboard_time": 1692782317,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260194,
+        "num": 260194,
+        "word": "九岁摄影师拍的赵露思",
+        "onboard_time": 1692778960,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255995,
+        "num": 255995,
+        "word": "没有一只鸭能走出广西",
+        "onboard_time": 1692786095,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248859,
+        "num": 248859,
+        "word": "烟台震感",
+        "onboard_time": 1692786823,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243406,
+        "num": 243406,
+        "word": "离婚7个月前夫晒照喜得一女",
+        "onboard_time": 1692790300,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 238973,
+        "num": 238973,
+        "word": "暑期档首次2部影片破30亿",
+        "onboard_time": 1692789518,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214029,
+        "num": 214029,
+        "word": "科学家在各种女性卫生用品中发现永久危险物质",
+        "onboard_time": 1692773556,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 213235,
+        "num": 213235,
+        "word": "景甜好白",
+        "onboard_time": 1692786339,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213220,
+        "num": 213220,
+        "word": "男子放弃百万年薪高管职位返乡养蚯蚓",
+        "onboard_time": 1692784238,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211695,
+        "num": 211695,
+        "word": "李维嘉孤独到给狗介绍自己的家",
+        "onboard_time": 1692787241,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209248,
+        "num": 209248,
+        "word": "iPhone15Pro被曝的21项变化",
+        "onboard_time": 1692767141,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 193770,
+        "num": 193770,
+        "word": "最佳新锐选手风箫",
+        "onboard_time": 1692789699,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189712,
+        "num": 189712,
+        "word": "封神",
+        "onboard_time": 1692790120,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184589,
+        "num": 184589,
+        "word": "于适杂志封面四天四宣",
+        "onboard_time": 1692786218,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183396,
+        "num": 183396,
+        "word": "这个夏天引发的思考",
+        "onboard_time": 1692789818,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181271,
+        "num": 181271,
+        "word": "aespa演唱OST新歌MV",
+        "onboard_time": 1692787604,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177450,
+        "num": 177450,
+        "word": "景甜扫楼扫到掉队",
+        "onboard_time": 1692786823,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159475,
+        "num": 159475,
+        "word": "李玟经纪公司回应录音事件",
+        "onboard_time": 1692766181,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157708,
+        "num": 157708,
+        "word": "门诊来了三个未成年",
+        "onboard_time": 1692761798,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向金砖国家工商论坛闭幕式发表致辞#"
+    }
+  }
+}
