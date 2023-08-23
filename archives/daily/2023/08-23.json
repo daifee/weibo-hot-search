@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692800133466,
+  "endTime": 1692801239862,
   "band_list": [
     {
       "raw_hot": 11115797,
@@ -35,19 +35,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2671389,
+      "num": 1389167,
+      "word": "炫富致丈夫被查妻子回应",
+      "onboard_time": 1692797076,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2595335,
       "num": 2595335,
       "word": "央媒称并非所有人都适合体制内工作",
       "onboard_time": 1692769357,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2479398,
-      "num": 1389167,
-      "word": "炫富致丈夫被查妻子回应",
-      "onboard_time": 1692797076,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1635517,
-      "num": 566599,
+      "num": 639225,
       "word": "唯一不能开进上海市区的车牌是沪C",
       "onboard_time": 1692792038,
       "rank": 30,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1483625,
+      "num": 1483625,
+      "word": "核废水",
+      "onboard_time": 1692792458,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1479547,
       "num": 1479547,
       "word": "中方不希望8月24日成海洋环境灾难日",
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1304365,
+      "num": 644058,
+      "word": "挪威的房价",
+      "onboard_time": 1692799299,
+      "rank": 30,
+      "category": "财经,旅游"
+    },
+    {
       "raw_hot": 1301506,
       "num": 367528,
       "word": "离婚7个月前夫晒照喜得一女",
@@ -241,14 +257,6 @@
       "onboard_time": 1692761138,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1237767,
-      "num": 1237767,
-      "word": "核废水",
-      "onboard_time": 1692792458,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1179681,
@@ -363,6 +371,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 960669,
+      "num": 960669,
+      "word": "导致脊柱侧弯的元凶",
+      "onboard_time": 1692798278,
+      "rank": 11,
+      "category": "其它"
+    },
+    {
       "raw_hot": 958978,
       "num": 420489,
       "word": "Angelababy不太喜欢七夕这样的日子",
@@ -427,14 +443,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 813636,
-      "num": 502263,
-      "word": "导致脊柱侧弯的元凶",
-      "onboard_time": 1692798278,
-      "rank": 11,
-      "category": "其它"
-    },
-    {
       "raw_hot": 805630,
       "num": 805630,
       "word": "韩国回应日本核污染水排海",
@@ -475,12 +483,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 744718,
+      "num": 744718,
+      "word": "姥爷总是把微信当成书信用",
+      "onboard_time": 1692797736,
+      "rank": 13,
+      "category": "情感,科技"
+    },
+    {
       "raw_hot": 727142,
       "num": 314266,
       "word": "林心如说七夕感觉在过鬼节",
       "onboard_time": 1692709178,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 726190,
+      "num": 620767,
+      "word": "enhypen 一直娱",
+      "onboard_time": 1692799602,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 725922,
@@ -547,6 +571,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 673751,
+      "num": 673751,
+      "word": "研究称吃薯条可能会抑郁",
+      "onboard_time": 1692797677,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 664203,
       "num": 346408,
       "word": "猴哥唯一一次被骗",
@@ -580,7 +612,7 @@
     },
     {
       "raw_hot": 644814,
-      "num": 485490,
+      "num": 614068,
       "word": "迪丽热巴画完奶茶喝奶茶",
       "onboard_time": 1692795937,
       "rank": 31,
@@ -593,14 +625,6 @@
       "onboard_time": 1692794018,
       "rank": 19,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 629673,
-      "num": 478788,
-      "word": "姥爷总是把微信当成书信用",
-      "onboard_time": 1692797736,
-      "rank": 13,
-      "category": "情感,科技"
     },
     {
       "raw_hot": 623771,
@@ -656,6 +680,14 @@
       "word": "琅琊榜熟人重聚麦乐村",
       "onboard_time": 1692791799,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 603790,
+      "num": 328065,
+      "word": "黎光有女儿了",
+      "onboard_time": 1692799962,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -747,14 +779,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 561548,
-      "num": 561548,
-      "word": "enhypen 一直娱",
-      "onboard_time": 1692799602,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 558335,
       "num": 476100,
       "word": "迪丽热巴直播",
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 549392,
-      "num": 467026,
+      "num": 519885,
       "word": "赵露思 每一朵花都可以长得不一样",
       "onboard_time": 1692795999,
       "rank": 19,
@@ -867,14 +891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 513296,
-      "num": 513296,
-      "word": "研究称吃薯条可能会抑郁",
-      "onboard_time": 1692797677,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 502519,
       "num": 457210,
       "word": "餐厅6片莴笋售价98元",
@@ -913,14 +929,6 @@
       "onboard_time": 1692784238,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484500,
-      "num": 287841,
-      "word": "挪威的房价",
-      "onboard_time": 1692799299,
-      "rank": 30,
-      "category": "财经,旅游"
     },
     {
       "raw_hot": 479345,
@@ -1267,6 +1275,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 335123,
+      "num": 335123,
+      "word": "张桂梅 秋天的第一杯奶茶",
+      "onboard_time": 1692800139,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331587,
+      "num": 331587,
+      "word": "李昀锐跳女团舞是专业的",
+      "onboard_time": 1692799899,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 330249,
       "num": 420604,
       "word": "四六级查分安排",
@@ -1331,20 +1355,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321326,
+      "num": 321326,
+      "word": "GAI 大蘑菇后劲太大了",
+      "onboard_time": 1692795517,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 319430,
       "num": 208642,
       "word": "张栋梁是被盗号了吗",
       "onboard_time": 1692696459,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 318061,
-      "num": 318061,
-      "word": "GAI 大蘑菇后劲太大了",
-      "onboard_time": 1692795517,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 317940,
@@ -1361,6 +1385,14 @@
       "onboard_time": 1692764140,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317195,
+      "num": 317195,
+      "word": "披荆斩棘初舞台光路大片",
+      "onboard_time": 1692795638,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 315791,
@@ -1491,20 +1523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288007,
+      "num": 288007,
+      "word": "李兰迪说出了打工人的心声",
+      "onboard_time": 1692797319,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 287951,
       "num": 287951,
       "word": "刘雯淡眉恶女妆",
       "onboard_time": 1692781596,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 286719,
-      "num": 286719,
-      "word": "披荆斩棘初舞台光路大片",
-      "onboard_time": 1692795638,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 284343,
@@ -1577,6 +1609,14 @@
       "onboard_time": 1692713687,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 270938,
+      "num": 270938,
+      "word": "王祖蓝看李亚男眼神",
+      "onboard_time": 1692800738,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 269663,
@@ -1665,14 +1705,6 @@
       "onboard_time": 1692766721,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256601,
-      "num": 256601,
-      "word": "李兰迪说出了打工人的心声",
-      "onboard_time": 1692797319,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 256598,
@@ -1771,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239506,
+      "num": 239506,
+      "word": "最近女生服装的特征",
+      "onboard_time": 1692800860,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 239039,
       "num": 239039,
       "word": "老婆把货车装修成了婚房",
@@ -1809,14 +1849,6 @@
       "onboard_time": 1692761980,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 232699,
-      "num": 232699,
-      "word": "李昀锐跳女团舞是专业的",
-      "onboard_time": 1692799899,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 232524,
@@ -1904,6 +1936,14 @@
       "word": "小生一番内地票房排行",
       "onboard_time": 1692722729,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220435,
+      "num": 220435,
+      "word": "严肃聊一下燃冬本身",
+      "onboard_time": 1692800561,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -2011,6 +2051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205927,
+      "num": 205927,
+      "word": "张艺兴想给熊猫唱rightback",
+      "onboard_time": 1692795699,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205346,
       "num": 205346,
       "word": "只有会粤语才能看懂的对联",
@@ -2099,14 +2147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 200270,
-      "num": 200270,
-      "word": "黎光有女儿了",
-      "onboard_time": 1692799962,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200166,
       "num": 200166,
       "word": "陈牧驰回应被工作室整破防",
@@ -2163,12 +2203,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196089,
-      "num": 196089,
-      "word": "张艺兴想给熊猫唱rightback",
-      "onboard_time": 1692795699,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 197084,
+      "num": 197084,
+      "word": "迪丽热巴说进组在流程中了",
+      "onboard_time": 1692800800,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 195181,
@@ -2227,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192268,
+      "num": 192268,
+      "word": "TF三代今日营业照",
+      "onboard_time": 1692800139,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191982,
       "num": 191982,
       "word": "原来牛牛也会生气",
@@ -2265,6 +2313,14 @@
       "onboard_time": 1692797498,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186572,
+      "num": 186572,
+      "word": "小时候看超市的促销单都能看好久",
+      "onboard_time": 1692800800,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 185854,
@@ -2331,6 +2387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180965,
+      "num": 1594082,
+      "word": "中国没有称王称霸的基因",
+      "onboard_time": 1692796659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180579,
       "num": 180579,
       "word": "大狗狗去公园不是为了交朋友的",
@@ -2368,14 +2432,6 @@
       "word": "民房失火他们逆行抬出被困男子",
       "onboard_time": 1692774573,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172377,
-      "num": 1594082,
-      "word": "中国没有称王称霸的基因",
-      "onboard_time": 1692796659,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
