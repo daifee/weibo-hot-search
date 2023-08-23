@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692758033211,
+  "endTime": 1692760613542,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -283,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1822762,
+      "num": 1822762,
+      "word": "男子被骗缅甸家属被告知已遭杀害",
+      "onboard_time": 1692753281,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1807354,
       "num": 1807354,
       "word": "马伯骞被恋综女嘉宾问你是明星啊",
@@ -403,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1624444,
+      "num": 1624444,
+      "word": "我国单身人口2.39亿",
+      "onboard_time": 1692754777,
+      "rank": 8,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1607203,
       "num": 1607203,
       "word": "女子账户不分昼夜有钱转入每次1分钱",
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1541843,
+      "num": 540745,
+      "word": "窦骁送何超莲的七夕礼物",
+      "onboard_time": 1692758318,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1540712,
       "num": 661873,
       "word": "符龙飞官宣二胎得女",
@@ -449,14 +473,6 @@
       "onboard_time": 1692748472,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1529666,
-      "num": 1529666,
-      "word": "男子被骗缅甸家属被告知已遭杀害",
-      "onboard_time": 1692753281,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1523565,
@@ -577,14 +593,6 @@
       "onboard_time": 1692706292,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1294559,
-      "num": 1294559,
-      "word": "我国单身人口2.39亿",
-      "onboard_time": 1692754777,
-      "rank": 8,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1286098,
@@ -1115,6 +1123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 805630,
+      "num": 805630,
+      "word": "韩国回应日本核污染水排海",
+      "onboard_time": 1692755199,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 804980,
       "num": 804980,
       "word": "你可以嫁给爱情 也可以嫁给友情",
@@ -1251,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 751108,
-      "num": 461368,
-      "word": "韩国回应日本核污染水排海",
-      "onboard_time": 1692755199,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 745322,
       "num": 607332,
       "word": "好声音为何不再被叫好",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1692594102,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 716557,
+      "num": 716557,
+      "word": "王阳 叔圈天菜",
+      "onboard_time": 1692756937,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 713867,
@@ -1641,6 +1657,14 @@
       "onboard_time": 1692704793,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 610661,
+      "num": 536122,
+      "word": "他笑着死去 而你哭着也要活下去",
+      "onboard_time": 1692757296,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 607804,
@@ -1939,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522744,
+      "num": 522744,
+      "word": "初二女生夺100米世界级冠军",
+      "onboard_time": 1692756337,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 521051,
       "num": 521051,
       "word": "30000只鸡中暑见消防员来张嘴讨水喝",
@@ -2017,6 +2049,14 @@
       "onboard_time": 1692716569,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 509280,
+      "num": 310468,
+      "word": "不要把裤子提到肚脐眼上",
+      "onboard_time": 1692760002,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 505601,
@@ -2193,14 +2233,6 @@
       "onboard_time": 1692751661,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 478442,
-      "num": 478442,
-      "word": "王阳 叔圈天菜",
-      "onboard_time": 1692756937,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 477967,
@@ -2859,6 +2891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 372645,
+      "num": 372645,
+      "word": "王源去看了邓见超巡演",
+      "onboard_time": 1692759398,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 371323,
       "num": 289898,
       "word": "迪丽热巴在好六吃成了仓鼠",
@@ -2921,14 +2961,6 @@
       "onboard_time": 1692707736,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358443,
-      "num": 259711,
-      "word": "他笑着死去 而你哭着也要活下去",
-      "onboard_time": 1692757296,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 358094,
@@ -3017,14 +3049,6 @@
       "onboard_time": 1692706715,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347352,
-      "num": 347352,
-      "word": "初二女生夺100米世界级冠军",
-      "onboard_time": 1692756337,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 344247,
@@ -3467,6 +3491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 305639,
+      "num": 305639,
+      "word": "浙江公安请市民免费看孤注一掷",
+      "onboard_time": 1692759577,
+      "rank": 22,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 305561,
       "num": 305561,
       "word": "与檀健次共度七夕",
@@ -3715,12 +3747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283836,
+      "num": 283836,
+      "word": "马伯骞敢说张纯烨敢信",
+      "onboard_time": 1692759035,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283799,
       "num": 283799,
       "word": "伍佰演唱会",
       "onboard_time": 1692593504,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 283406,
+      "num": 283406,
+      "word": "工作人员看赵丽颖的眼神",
+      "onboard_time": 1692759761,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 283364,
@@ -3809,6 +3857,14 @@
       "onboard_time": 1692605318,
       "rank": 38,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 273661,
+      "num": 273661,
+      "word": "被黄渤美颜误伤的倪妮",
+      "onboard_time": 1692756998,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 272477,
@@ -3955,6 +4011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264608,
+      "num": 264608,
+      "word": "屈楚萧 燃冬的火",
+      "onboard_time": 1692760178,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263860,
       "num": 254316,
       "word": "南京公交车起火事件细节公布",
@@ -4009,6 +4073,14 @@
       "onboard_time": 1692681582,
       "rank": 40,
       "category": "音乐,音乐"
+    },
+    {
+      "raw_hot": 261162,
+      "num": 261162,
+      "word": "玱玹 世人只会因君王做什么记住他",
+      "onboard_time": 1692758799,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 260518,
@@ -4563,6 +4635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213347,
+      "num": 213347,
+      "word": "孙阳再演反派",
+      "onboard_time": 1692759818,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212684,
       "num": 258338,
       "word": "橘朵未定联动",
@@ -4697,14 +4777,6 @@
       "onboard_time": 1692745345,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208753,
-      "num": 208753,
-      "word": "被黄渤美颜误伤的倪妮",
-      "onboard_time": 1692756998,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 208226,
@@ -4915,6 +4987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200604,
+      "num": 200604,
+      "word": "阴阳师手游",
+      "onboard_time": 1692759702,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200290,
       "num": 200290,
       "word": "成毅丝滑的打戏怎么来的",
@@ -4967,6 +5047,14 @@
       "num": 198704,
       "word": "上海的七夕是懂浪漫的",
       "onboard_time": 1692605559,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 198197,
+      "num": 198197,
+      "word": "高敏感人群至幸福时刻",
+      "onboard_time": 1692760301,
       "rank": 40,
       "category": "情感"
     },
@@ -5027,12 +5115,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195161,
+      "num": 195161,
+      "word": "暗夜与黎明阵容官宣",
+      "onboard_time": 1692759459,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195007,
       "num": 195007,
       "word": "还真的有猫语教程啊",
       "onboard_time": 1692583593,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194412,
+      "num": 194412,
+      "word": "的哥送流血不止小伙就医分文不收",
+      "onboard_time": 1692758735,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194387,
@@ -5363,6 +5467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179383,
+      "num": 179383,
+      "word": "如何瘦小肚子",
+      "onboard_time": 1692756040,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176531,
       "num": 176531,
       "word": "张真源借着路灯的光唱情歌",
@@ -5417,6 +5529,14 @@
       "onboard_time": 1692581195,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172980,
+      "num": 172980,
+      "word": "订婚当天穿自己做的裙子有多好看",
+      "onboard_time": 1692760542,
+      "rank": 47,
+      "category": "情感,时尚"
     },
     {
       "raw_hot": 171480,
@@ -5547,12 +5667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164957,
-      "num": 164957,
-      "word": "如何瘦小肚子",
-      "onboard_time": 1692756040,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 164983,
+      "num": 164983,
+      "word": "仲裁公司后老板说了这么多",
+      "onboard_time": 1692759398,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 163549,
