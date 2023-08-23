@@ -1,6 +1,6 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692822843390,
+  "endTime": 1692825265048,
   "band_list": [
     {
       "raw_hot": 1437884,
@@ -555,6 +555,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 37324,
+      "num": 37324,
+      "word": "胡锡进",
+      "onboard_time": 1692817336,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36742,
       "num": 36742,
       "word": "燃冬极速版",
@@ -569,14 +577,6 @@
       "onboard_time": 1692815599,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 34528,
-      "num": 34528,
-      "word": "胡锡进",
-      "onboard_time": 1692817336,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30367,
