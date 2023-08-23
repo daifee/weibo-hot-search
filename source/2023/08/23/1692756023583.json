@@ -1,0 +1,410 @@
+{
+  "runTime": 1692756023583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2273885,
+        "num": 2273885,
+        "word": "老人误将2万结婚汉服当垃圾扔掉",
+        "onboard_time": 1692751722,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1866339,
+        "num": 1866339,
+        "word": "研究称日本核污水排海240天到达中国",
+        "onboard_time": 1692748898,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37812,
+        "num": 1672703,
+        "word": "金砖国家形象网宣片",
+        "onboard_time": 1692709178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1532206,
+        "num": 1532206,
+        "word": "马伯骞被恋综女嘉宾问你是明星啊",
+        "onboard_time": 1692750823,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1143195,
+        "num": 1143195,
+        "word": "男子被骗缅甸家属被告知已遭杀害",
+        "onboard_time": 1692753281,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941939,
+        "num": 941939,
+        "word": "杨丞琳撮合马伯骞徐璐",
+        "onboard_time": 1692753638,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 669523,
+        "num": 669523,
+        "word": "日本为了自己划算不惜让全世界买单",
+        "onboard_time": 1692749500,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 552976,
+        "num": 552976,
+        "word": "女子被困浴室6小时用修眉刀自救",
+        "onboard_time": 1692748715,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544743,
+        "num": 544743,
+        "word": "我国单身人口2.39亿",
+        "onboard_time": 1692754777,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 513003,
+        "num": 513003,
+        "word": "30000只鸡中暑见消防员来张嘴讨水喝",
+        "onboard_time": 1692752568,
+        "rank": 9,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 805321,
+        "num": 512974,
+        "word": "女生学校宿舍产子作案人系同学父亲",
+        "onboard_time": 1692749562,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672794,
+        "num": 512929,
+        "word": "伊能静晒秦昊送的七夕礼物",
+        "onboard_time": 1692748472,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666007,
+        "num": 512879,
+        "word": "费翔 不是每个人都适合结婚",
+        "onboard_time": 1692750102,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 512821,
+        "num": 512821,
+        "word": "王耀庆 演员看镜头会被导演骂",
+        "onboard_time": 1692751661,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261881,
+        "num": 493740,
+        "word": "东电公布第一批核污水排放计划",
+        "onboard_time": 1692754898,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479345,
+        "num": 479345,
+        "word": "张歆艺祝袁弘永远拥有盛世美颜",
+        "onboard_time": 1692751661,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456512,
+        "num": 456512,
+        "word": "情侣看燃冬 各自沉默",
+        "onboard_time": 1692755320,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447333,
+        "num": 447333,
+        "word": "原来是你小子让余华上班的",
+        "onboard_time": 1692751542,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 442276,
+        "num": 442276,
+        "word": "C罗怒喷傅明",
+        "onboard_time": 1692745765,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403262,
+        "num": 403262,
+        "word": "核污水",
+        "onboard_time": 1692754718,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567330,
+        "num": 398780,
+        "word": "17岁少年目睹爷爷被人殴打后投河身亡",
+        "onboard_time": 1692716866,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446920,
+        "num": 397912,
+        "word": "萧敬腾未婚妻七夕发长文",
+        "onboard_time": 1692716990,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390448,
+        "num": 390448,
+        "word": "乌尔善大爆料封神第二部",
+        "onboard_time": 1692748774,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373635,
+        "num": 373635,
+        "word": "苏翊鸣 朱易",
+        "onboard_time": 1692750766,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 373365,
+        "num": 373365,
+        "word": "韩国女艺人日本音乐节遭观众性骚扰",
+        "onboard_time": 1692750163,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 365575,
+        "num": 365575,
+        "word": "苏翊鸣 恋爱",
+        "onboard_time": 1692714944,
+        "rank": 25,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 282200,
+        "num": 282200,
+        "word": "民政局直播新人领证仅12对登记",
+        "onboard_time": 1692718666,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268569,
+        "num": 268569,
+        "word": "把生娃的KPI都交给神仙了",
+        "onboard_time": 1692755199,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255665,
+        "num": 255665,
+        "word": "邓为也念念不忘杨紫的烧烤",
+        "onboard_time": 1692749017,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245543,
+        "num": 245543,
+        "word": "燃冬",
+        "onboard_time": 1692749322,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389489,
+        "num": 245409,
+        "word": "韩国回应日本核污染水排海",
+        "onboard_time": 1692755199,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 243128,
+        "num": 243128,
+        "word": "和不熟的人去KTV不能点的歌",
+        "onboard_time": 1692753163,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227147,
+        "num": 227147,
+        "word": "玱玹赌赢了",
+        "onboard_time": 1692751240,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225304,
+        "num": 225304,
+        "word": "深圳七夕当天79对夫妻离婚",
+        "onboard_time": 1692751542,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221431,
+        "num": 221431,
+        "word": "今日处暑",
+        "onboard_time": 1692755376,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176531,
+        "num": 176531,
+        "word": "张真源借着路灯的光唱情歌",
+        "onboard_time": 1692754777,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173918,
+        "num": 173918,
+        "word": "史上最硬核逼婚",
+        "onboard_time": 1692755918,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171937,
+        "num": 171937,
+        "word": "夭璟cp收官战报",
+        "onboard_time": 1692752266,
+        "rank": 37,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 170742,
+        "num": 170742,
+        "word": "Angelababy不太喜欢七夕这样的日子",
+        "onboard_time": 1692720217,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170082,
+        "num": 170082,
+        "word": "林心如说七夕感觉在过鬼节",
+        "onboard_time": 1692709178,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161356,
+        "num": 161356,
+        "word": "王鹤棣卸了什么",
+        "onboard_time": 1692715669,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159544,
+        "num": 159544,
+        "word": "突然好想变成水母",
+        "onboard_time": 1692752922,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157412,
+        "num": 157412,
+        "word": "檀健次17岁以后的荧幕变化",
+        "onboard_time": 1692748236,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157087,
+        "num": 157087,
+        "word": "吉克隽逸在央视唱王宝钏的故事",
+        "onboard_time": 1692752266,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155868,
+        "num": 155868,
+        "word": "大洋臀纹粉蚧是什么虫",
+        "onboard_time": 1692755320,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146299,
+        "num": 146299,
+        "word": "挪用诈骗团伙160万不堪威胁自首",
+        "onboard_time": 1692739693,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137145,
+        "num": 137145,
+        "word": "男子中奖1000万彩票粘手机壳取不下",
+        "onboard_time": 1692706292,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133873,
+        "num": 133873,
+        "word": "不是玉镯难剪是他舍不得用力",
+        "onboard_time": 1692751911,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132495,
+        "num": 132495,
+        "word": "易烊千玺手写少年的你情书",
+        "onboard_time": 1692720046,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130596,
+        "num": 130596,
+        "word": "老默新剧依然卖鱼",
+        "onboard_time": 1692720755,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同南非总统拉马福萨举行会谈#"
+    }
+  }
+}
