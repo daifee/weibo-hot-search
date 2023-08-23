@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692760613542,
+  "endTime": 1692761628876,
   "band_list": [
     {
       "raw_hot": 2273885,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1636960,
+      "num": 540745,
+      "word": "窦骁送何超莲的七夕礼物",
+      "onboard_time": 1692758318,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1624444,
       "num": 1624444,
       "word": "我国单身人口2.39亿",
       "onboard_time": 1692754777,
       "rank": 8,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1541843,
-      "num": 540745,
-      "word": "窦骁送何超莲的七夕礼物",
-      "onboard_time": 1692758318,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1535413,
@@ -129,6 +129,14 @@
       "onboard_time": 1692750102,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 990623,
+      "num": 397094,
+      "word": "不要把裤子提到肚脐眼上",
+      "onboard_time": 1692760002,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 958978,
@@ -299,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 548610,
+      "num": 548610,
+      "word": "初二女生夺100米世界级冠军",
+      "onboard_time": 1692756337,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 543773,
       "num": 543773,
       "word": "韩国女艺人日本音乐节遭观众性骚扰",
@@ -323,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 522744,
-      "num": 522744,
-      "word": "初二女生夺100米世界级冠军",
-      "onboard_time": 1692756337,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 521051,
       "num": 521051,
       "word": "30000只鸡中暑见消防员来张嘴讨水喝",
@@ -347,20 +355,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 517499,
+      "num": 432104,
+      "word": "假签名被孙阳本人打假",
+      "onboard_time": 1692761138,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 516135,
+      "num": 424899,
+      "word": "那英泰国度假",
+      "onboard_time": 1692760961,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515488,
       "num": 515488,
       "word": "邓为也念念不忘杨紫的烧烤",
       "onboard_time": 1692749017,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 509280,
-      "num": 310468,
-      "word": "不要把裤子提到肚脐眼上",
-      "onboard_time": 1692760002,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 479345,
@@ -377,6 +393,14 @@
       "onboard_time": 1692751542,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 447018,
+      "num": 447018,
+      "word": "屈楚萧 燃冬的火",
+      "onboard_time": 1692760178,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 441753,
@@ -403,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396142,
+      "num": 396142,
+      "word": "王源去看了邓见超巡演",
+      "onboard_time": 1692759398,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 386869,
       "num": 212708,
       "word": "今年七夕朋友圈怎么如此安静",
@@ -411,12 +443,28 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 372645,
-      "num": 372645,
-      "word": "王源去看了邓见超巡演",
-      "onboard_time": 1692759398,
-      "rank": 16,
-      "category": "音乐"
+      "raw_hot": 371931,
+      "num": 371931,
+      "word": "订婚当天穿自己做的裙子有多好看",
+      "onboard_time": 1692760542,
+      "rank": 47,
+      "category": "情感,时尚"
+    },
+    {
+      "raw_hot": 370043,
+      "num": 370043,
+      "word": "魏大勋体重全在胸肌上",
+      "onboard_time": 1692760840,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 368774,
+      "num": 368774,
+      "word": "浙江公安请市民免费看孤注一掷",
+      "onboard_time": 1692759577,
+      "rank": 22,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 367822,
@@ -441,6 +489,14 @@
       "onboard_time": 1692751542,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354195,
+      "num": 354195,
+      "word": "工作人员看赵丽颖的眼神",
+      "onboard_time": 1692759761,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 328595,
@@ -499,20 +555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305639,
-      "num": 305639,
-      "word": "浙江公安请市民免费看孤注一掷",
-      "onboard_time": 1692759577,
-      "rank": 22,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 304200,
       "num": 304200,
       "word": "玱玹赌赢了",
       "onboard_time": 1692751240,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293420,
+      "num": 293420,
+      "word": "史上最硬核逼婚",
+      "onboard_time": 1692755918,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292195,
@@ -523,28 +579,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 288625,
-      "num": 288625,
-      "word": "史上最硬核逼婚",
-      "onboard_time": 1692755918,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283836,
       "num": 283836,
       "word": "马伯骞敢说张纯烨敢信",
       "onboard_time": 1692759035,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283406,
-      "num": 283406,
-      "word": "工作人员看赵丽颖的眼神",
-      "onboard_time": 1692759761,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 275134,
@@ -595,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264608,
-      "num": 264608,
-      "word": "屈楚萧 燃冬的火",
-      "onboard_time": 1692760178,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 261162,
       "num": 261162,
       "word": "玱玹 世人只会因君王做什么记住他",
@@ -627,12 +659,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251037,
+      "num": 251037,
+      "word": "涂山璟相柳得知小夭订婚",
+      "onboard_time": 1692761077,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249545,
       "num": 208089,
       "word": "丈夫酒后打妻子致坠楼跳下施救",
       "onboard_time": 1692705813,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245810,
+      "num": 245810,
+      "word": "孙阳再演反派",
+      "onboard_time": 1692759818,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 245701,
@@ -707,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213347,
-      "num": 213347,
-      "word": "孙阳再演反派",
-      "onboard_time": 1692759818,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212322,
       "num": 199126,
       "word": "相柳活的好好的别哭",
@@ -771,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201136,
+      "num": 201136,
+      "word": "恋爱谈得像996",
+      "onboard_time": 1692761258,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200604,
       "num": 200604,
       "word": "阴阳师手游",
@@ -779,12 +827,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198791,
+      "num": 198791,
+      "word": "陈情令杀青5周年了",
+      "onboard_time": 1692761138,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198197,
       "num": 198197,
       "word": "高敏感人群至幸福时刻",
       "onboard_time": 1692760301,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195665,
+      "num": 195665,
+      "word": "王俊凯包场燃冬",
+      "onboard_time": 1692761503,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 195181,
@@ -881,14 +945,6 @@
       "onboard_time": 1692754777,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172980,
-      "num": 172980,
-      "word": "订婚当天穿自己做的裙子有多好看",
-      "onboard_time": 1692760542,
-      "rank": 47,
-      "category": "情感,时尚"
     },
     {
       "raw_hot": 169089,
@@ -1099,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90966,
+      "num": 165585,
+      "word": "王冰冰蒋敦豪冰敦敦组合",
+      "onboard_time": 1692761561,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88633,
       "num": 107145,
       "word": "面对上海高级餐厅我仿佛成了文盲",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1692732795,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24497,
+      "num": 1092193,
+      "word": "20多个国家正在叩响金砖的大门",
+      "onboard_time": 1692761503,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7532,

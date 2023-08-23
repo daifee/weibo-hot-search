@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692760613542,
+  "endTime": 1692761628876,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1636960,
+      "num": 540745,
+      "word": "窦骁送何超莲的七夕礼物",
+      "onboard_time": 1692758318,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1624444,
       "num": 1624444,
       "word": "我国单身人口2.39亿",
@@ -448,14 +456,6 @@
       "word": "韩红",
       "onboard_time": 1692572663,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1541843,
-      "num": 540745,
-      "word": "窦骁送何超莲的七夕礼物",
-      "onboard_time": 1692758318,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -857,6 +857,14 @@
       "onboard_time": 1692713206,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 990623,
+      "num": 397094,
+      "word": "不要把裤子提到肚脐眼上",
+      "onboard_time": 1692760002,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 980261,
@@ -1843,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 548610,
+      "num": 548610,
+      "word": "初二女生夺100米世界级冠军",
+      "onboard_time": 1692756337,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 548080,
       "num": 548080,
       "word": "柳州4家超强螺蛳粉",
@@ -1963,14 +1979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 522744,
-      "num": 522744,
-      "word": "初二女生夺100米世界级冠军",
-      "onboard_time": 1692756337,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 521051,
       "num": 521051,
       "word": "30000只鸡中暑见消防员来张嘴讨水喝",
@@ -2003,6 +2011,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 517499,
+      "num": 432104,
+      "word": "假签名被孙阳本人打假",
+      "onboard_time": 1692761138,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517015,
       "num": 517015,
       "word": "医院擅自微创转开胸手术致女童脑死亡",
@@ -2017,6 +2033,14 @@
       "onboard_time": 1692622419,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 516135,
+      "num": 424899,
+      "word": "那英泰国度假",
+      "onboard_time": 1692760961,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 515488,
@@ -2049,14 +2073,6 @@
       "onboard_time": 1692716569,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 509280,
-      "num": 310468,
-      "word": "不要把裤子提到肚脐眼上",
-      "onboard_time": 1692760002,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 505601,
@@ -2467,6 +2483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 447018,
+      "num": 447018,
+      "word": "屈楚萧 燃冬的火",
+      "onboard_time": 1692760178,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445620,
       "num": 445620,
       "word": "到缅北第一天就被拉去参观水牢",
@@ -2747,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396142,
+      "num": 396142,
+      "word": "王源去看了邓见超巡演",
+      "onboard_time": 1692759398,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 395532,
       "num": 395532,
       "word": "莲花楼与琅琊榜的悲与歌",
@@ -2891,12 +2923,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 372645,
-      "num": 372645,
-      "word": "王源去看了邓见超巡演",
-      "onboard_time": 1692759398,
-      "rank": 16,
-      "category": "音乐"
+      "raw_hot": 371931,
+      "num": 371931,
+      "word": "订婚当天穿自己做的裙子有多好看",
+      "onboard_time": 1692760542,
+      "rank": 47,
+      "category": "情感,时尚"
     },
     {
       "raw_hot": 371323,
@@ -2905,6 +2937,22 @@
       "onboard_time": 1692685478,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370043,
+      "num": 370043,
+      "word": "魏大勋体重全在胸肌上",
+      "onboard_time": 1692760840,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 368774,
+      "num": 368774,
+      "word": "浙江公安请市民免费看孤注一掷",
+      "onboard_time": 1692759577,
+      "rank": 22,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 368728,
@@ -2984,6 +3032,14 @@
       "word": "韩剧假面女郎 结局让人大爆哭",
       "onboard_time": 1692612994,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 354195,
+      "num": 354195,
+      "word": "工作人员看赵丽颖的眼神",
+      "onboard_time": 1692759761,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -3491,14 +3547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 305639,
-      "num": 305639,
-      "word": "浙江公安请市民免费看孤注一掷",
-      "onboard_time": 1692759577,
-      "rank": 22,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 305561,
       "num": 305561,
       "word": "与檀健次共度七夕",
@@ -3651,6 +3699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293420,
+      "num": 293420,
+      "word": "史上最硬核逼婚",
+      "onboard_time": 1692755918,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293227,
       "num": 293227,
       "word": "吴磊骑有此理真的要来了",
@@ -3689,14 +3745,6 @@
       "onboard_time": 1692678942,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288625,
-      "num": 288625,
-      "word": "史上最硬核逼婚",
-      "onboard_time": 1692755918,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285749,
@@ -3761,14 +3809,6 @@
       "onboard_time": 1692593504,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 283406,
-      "num": 283406,
-      "word": "工作人员看赵丽颖的眼神",
-      "onboard_time": 1692759761,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 283364,
@@ -4011,14 +4051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264608,
-      "num": 264608,
-      "word": "屈楚萧 燃冬的火",
-      "onboard_time": 1692760178,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 263860,
       "num": 254316,
       "word": "南京公交车起火事件细节公布",
@@ -4179,6 +4211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251037,
+      "num": 251037,
+      "word": "涂山璟相柳得知小夭订婚",
+      "onboard_time": 1692761077,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247756,
       "num": 350589,
       "word": "去外省上大学的新生开始慌了",
@@ -4209,6 +4249,14 @@
       "onboard_time": 1692587014,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245810,
+      "num": 245810,
+      "word": "孙阳再演反派",
+      "onboard_time": 1692759818,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 244900,
@@ -4635,14 +4683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213347,
-      "num": 213347,
-      "word": "孙阳再演反派",
-      "onboard_time": 1692759818,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212684,
       "num": 258338,
       "word": "橘朵未定联动",
@@ -4971,6 +5011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201136,
+      "num": 201136,
+      "word": "恋爱谈得像996",
+      "onboard_time": 1692761258,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200915,
       "num": 200915,
       "word": "白敬亭喊井柏然来玩啊",
@@ -5033,6 +5081,14 @@
       "onboard_time": 1692698617,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198791,
+      "num": 198791,
+      "word": "陈情令杀青5周年了",
+      "onboard_time": 1692761138,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 198751,
@@ -5105,6 +5161,14 @@
       "onboard_time": 1692678044,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195665,
+      "num": 195665,
+      "word": "王俊凯包场燃冬",
+      "onboard_time": 1692761503,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 195181,
@@ -5529,14 +5593,6 @@
       "onboard_time": 1692581195,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 172980,
-      "num": 172980,
-      "word": "订婚当天穿自己做的裙子有多好看",
-      "onboard_time": 1692760542,
-      "rank": 47,
-      "category": "情感,时尚"
     },
     {
       "raw_hot": 171480,
@@ -6195,6 +6251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90966,
+      "num": 165585,
+      "word": "王冰冰蒋敦豪冰敦敦组合",
+      "onboard_time": 1692761561,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89814,
       "num": 587449,
       "word": "巧克力大爷又双叒叕出手了",
@@ -6625,6 +6689,14 @@
       "onboard_time": 1692587916,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24497,
+      "num": 1092193,
+      "word": "20多个国家正在叩响金砖的大门",
+      "onboard_time": 1692761503,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22677,
