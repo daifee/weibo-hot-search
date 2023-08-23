@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692797650332,
+  "endTime": 1692800133466,
   "band_list": [
     {
       "raw_hot": 11115797,
@@ -153,6 +153,14 @@
       "onboard_time": 1692620676,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2479398,
+      "num": 1389167,
+      "word": "炫富致丈夫被查妻子回应",
+      "onboard_time": 1692797076,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2379859,
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 1301506,
-      "num": 340543,
+      "num": 367528,
       "word": "离婚7个月前夫晒照喜得一女",
       "onboard_time": 1692790300,
       "rank": 35,
@@ -768,6 +776,14 @@
       "word": "研究表明乳房大小影响运动意愿",
       "onboard_time": 1692534519,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1237767,
+      "num": 1237767,
+      "word": "核废水",
+      "onboard_time": 1692792458,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1363,6 +1379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 813636,
+      "num": 502263,
+      "word": "导致脊柱侧弯的元凶",
+      "onboard_time": 1692798278,
+      "rank": 11,
+      "category": "其它"
+    },
+    {
       "raw_hot": 805630,
       "num": 805630,
       "word": "韩国回应日本核污染水排海",
@@ -1660,7 +1684,7 @@
     },
     {
       "raw_hot": 719298,
-      "num": 326578,
+      "num": 363663,
       "word": "杨紫ins更新",
       "onboard_time": 1692788141,
       "rank": 21,
@@ -1755,14 +1779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 669952,
-      "num": 669952,
-      "word": "核废水",
-      "onboard_time": 1692792458,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 669317,
       "num": 449195,
       "word": "马立奥况三喜合体",
@@ -1780,7 +1796,7 @@
     },
     {
       "raw_hot": 664203,
-      "num": 327559,
+      "num": 346408,
       "word": "猴哥唯一一次被骗",
       "onboard_time": 1692793118,
       "rank": 31,
@@ -1867,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644814,
+      "num": 485490,
+      "word": "迪丽热巴画完奶茶喝奶茶",
+      "onboard_time": 1692795937,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 640758,
       "num": 640758,
       "word": "长沙的烧烤分量真的这么少吗",
@@ -1921,6 +1945,14 @@
       "onboard_time": 1692660027,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 629673,
+      "num": 478788,
+      "word": "姥爷总是把微信当成书信用",
+      "onboard_time": 1692797736,
+      "rank": 13,
+      "category": "情感,科技"
     },
     {
       "raw_hot": 626280,
@@ -2171,14 +2203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 568583,
-      "num": 468368,
-      "word": "迪丽热巴画完奶茶喝奶茶",
-      "onboard_time": 1692795937,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 568209,
       "num": 568209,
       "word": "中国跆拳道协会对僵尸跆舞做出处罚决定",
@@ -2235,6 +2259,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 561548,
+      "num": 561548,
+      "word": "enhypen 一直娱",
+      "onboard_time": 1692799602,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 559362,
       "num": 435555,
       "word": "今年七夕朋友圈怎么如此安静",
@@ -2265,6 +2297,14 @@
       "onboard_time": 1692676361,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 549392,
+      "num": 467026,
+      "word": "赵露思 每一朵花都可以长得不一样",
+      "onboard_time": 1692795999,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 549053,
@@ -2499,6 +2539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513296,
+      "num": 513296,
+      "word": "研究称吃薯条可能会抑郁",
+      "onboard_time": 1692797677,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 510907,
       "num": 510907,
       "word": "供电局回应员工家属疑炫富事件",
@@ -2713,6 +2761,14 @@
       "onboard_time": 1692595000,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 484500,
+      "num": 287841,
+      "word": "挪威的房价",
+      "onboard_time": 1692799299,
+      "rank": 30,
+      "category": "财经,旅游"
     },
     {
       "raw_hot": 481093,
@@ -3011,14 +3067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 443427,
-      "num": 443427,
-      "word": "赵露思 每一朵花都可以长得不一样",
-      "onboard_time": 1692795999,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443322,
       "num": 364355,
       "word": "白米粥涮火锅有多好吃",
@@ -3297,6 +3345,14 @@
       "onboard_time": 1692754718,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402868,
+      "num": 358743,
+      "word": "什么事你坚持了三年以上",
+      "onboard_time": 1692798399,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 402497,
@@ -3761,6 +3817,14 @@
       "onboard_time": 1692671195,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348620,
+      "num": 348620,
+      "word": "林诗栋3比0王楚钦",
+      "onboard_time": 1692797619,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 348554,
@@ -4603,12 +4667,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 287086,
-      "num": 266908,
-      "word": "炫富致丈夫被查妻子回应",
-      "onboard_time": 1692797076,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 286719,
+      "num": 286719,
+      "word": "披荆斩棘初舞台光路大片",
+      "onboard_time": 1692795638,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 285749,
@@ -5147,6 +5211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256601,
+      "num": 256601,
+      "word": "李兰迪说出了打工人的心声",
+      "onboard_time": 1692797319,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256598,
       "num": 256598,
       "word": "男子周杰伦演唱会现场捧电脑工作",
@@ -5177,6 +5249,14 @@
       "onboard_time": 1692680204,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252792,
+      "num": 252792,
+      "word": "灼灼风流 女子公平",
+      "onboard_time": 1692798517,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 252167,
@@ -5451,20 +5531,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232699,
+      "num": 232699,
+      "word": "李昀锐跳女团舞是专业的",
+      "onboard_time": 1692799899,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232524,
       "num": 211206,
       "word": "THE GIRLS",
       "onboard_time": 1692765039,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 232462,
-      "num": 232462,
-      "word": "披荆斩棘初舞台光路大片",
-      "onboard_time": 1692795638,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 232336,
@@ -5915,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208411,
+      "num": 208411,
+      "word": "苏新皓在地铁上跳舞",
+      "onboard_time": 1692800080,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208226,
       "num": 227217,
       "word": "各省份吃辣排行",
@@ -6011,6 +6099,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205346,
+      "num": 205346,
+      "word": "只有会粤语才能看懂的对联",
+      "onboard_time": 1692799423,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205052,
       "num": 205052,
       "word": "黄河八分钟花絮",
@@ -6041,6 +6137,14 @@
       "onboard_time": 1692713266,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204390,
+      "num": 204390,
+      "word": "到底是谁在替我凉快",
+      "onboard_time": 1692799899,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 204190,
@@ -6203,11 +6307,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200480,
+      "num": 197702,
+      "word": "王嘉尔16年七夕vs王嘉尔23年七夕",
+      "onboard_time": 1692798099,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200290,
       "num": 200290,
       "word": "成毅丝滑的打戏怎么来的",
       "onboard_time": 1692599434,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200270,
+      "num": 200270,
+      "word": "黎光有女儿了",
+      "onboard_time": 1692799962,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -6241,6 +6361,14 @@
       "onboard_time": 1692614854,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199708,
+      "num": 199708,
+      "word": "明明摸鱼了但还是感觉很累",
+      "onboard_time": 1692798700,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 199545,
@@ -6595,14 +6723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190898,
-      "num": 190898,
-      "word": "李兰迪说出了打工人的心声",
-      "onboard_time": 1692797319,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 189987,
       "num": 189987,
       "word": "周深用歌声点亮人间星河",
@@ -6899,6 +7019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172377,
+      "num": 1594082,
+      "word": "中国没有称王称霸的基因",
+      "onboard_time": 1692796659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171480,
       "num": 171480,
       "word": "沈腾劝架范丞丞魏大勋",
@@ -7161,14 +7289,6 @@
       "onboard_time": 1692686257,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156267,
-      "num": 156267,
-      "word": "林诗栋3比0王楚钦",
-      "onboard_time": 1692797619,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 156155,
@@ -7497,14 +7617,6 @@
       "onboard_time": 1692635669,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113211,
-      "num": 1594082,
-      "word": "中国没有称王称霸的基因",
-      "onboard_time": 1692796659,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113058,
