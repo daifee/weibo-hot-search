@@ -1,10 +1,10 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692767723292,
+  "endTime": 1692768840107,
   "band_list": [
     {
       "raw_hot": 3369273,
-      "num": 463071,
+      "num": 480231,
       "word": "门诊来了三个未成年",
       "onboard_time": 1692761798,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1770549,
-      "num": 460353,
+      "num": 460462,
       "word": "那英泰国度假",
       "onboard_time": 1692760961,
       "rank": 17,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 910087,
+      "num": 345248,
+      "word": "陈伟霆叫赵露思爆款女王",
+      "onboard_time": 1692766841,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 863616,
       "num": 863616,
       "word": "乌尔善大爆料封神第二部",
@@ -243,12 +251,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 778032,
+      "num": 477465,
+      "word": "孙阳 我就是175",
+      "onboard_time": 1692767320,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 777007,
-      "num": 457089,
+      "num": 470665,
       "word": "杨幂卷发梦回雪见",
       "onboard_time": 1692763898,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 760699,
+      "num": 760699,
+      "word": "iPhone15Pro被曝的21项变化",
+      "onboard_time": 1692767141,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 727142,
@@ -313,14 +337,6 @@
       "onboard_time": 1692710860,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 637551,
-      "num": 345248,
-      "word": "陈伟霆叫赵露思爆款女王",
-      "onboard_time": 1692766841,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 610682,
@@ -444,11 +460,19 @@
     },
     {
       "raw_hot": 502519,
-      "num": 448785,
+      "num": 457210,
       "word": "餐厅6片莴笋售价98元",
       "onboard_time": 1692765824,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491137,
+      "num": 491137,
+      "word": "燃冬 三个年轻人的抱团取暖",
+      "onboard_time": 1692766238,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 479345,
@@ -457,14 +481,6 @@
       "onboard_time": 1692751661,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 477290,
-      "num": 477290,
-      "word": "燃冬 三个年轻人的抱团取暖",
-      "onboard_time": 1692766238,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 447333,
@@ -577,14 +593,6 @@
       "onboard_time": 1692760542,
       "rank": 47,
       "category": "情感,时尚"
-    },
-    {
-      "raw_hot": 370556,
-      "num": 296185,
-      "word": "孙阳 我就是175",
-      "onboard_time": 1692767320,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 367822,
@@ -835,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256697,
+      "num": 256697,
+      "word": "吴磊骑有此理定档",
+      "onboard_time": 1692766721,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256452,
       "num": 256452,
       "word": "到处喊宝宝的下场不过如此",
@@ -867,28 +883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243765,
-      "num": 243765,
-      "word": "iPhone15Pro被曝的21项变化",
-      "onboard_time": 1692767141,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 243528,
       "num": 207799,
       "word": "李莲花 唯负少师剑",
       "onboard_time": 1692717230,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 238437,
-      "num": 238437,
-      "word": "吴磊骑有此理定档",
-      "onboard_time": 1692766721,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 237023,
@@ -947,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222817,
+      "num": 222817,
+      "word": "孤注一掷里的诈骗方式过时了",
+      "onboard_time": 1692768396,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221431,
       "num": 221431,
       "word": "今日处暑",
@@ -961,6 +969,22 @@
       "onboard_time": 1692722729,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220689,
+      "num": 220689,
+      "word": "杨幂叫何炅小何",
+      "onboard_time": 1692768696,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214457,
+      "num": 214457,
+      "word": "陈紫函戴向宇相处模式",
+      "onboard_time": 1692768517,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 212322,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1692756877,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191242,
+      "num": 200776,
+      "word": "黑神话宣传片剪辑",
+      "onboard_time": 1692768457,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 189380,
@@ -1305,6 +1337,22 @@
       "onboard_time": 1692757238,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141285,
+      "num": 157225,
+      "word": "为什么日本年轻人不爱考公了",
+      "onboard_time": 1692767800,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 137062,
+      "num": 156976,
+      "word": "从日本进口的海鲜还能吃吗",
+      "onboard_time": 1692768517,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134903,
