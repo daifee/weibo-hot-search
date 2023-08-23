@@ -1,6 +1,6 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692807677313,
+  "endTime": 1692808683566,
   "band_list": [
     {
       "raw_hot": 1437884,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734387,
+      "num": 734387,
+      "word": "我们嫌出师表太长 刘禅嫌出师表太短",
+      "onboard_time": 1692805056,
+      "rank": 8,
+      "category": "其它"
+    },
+    {
       "raw_hot": 698755,
       "num": 698755,
       "word": "七夕晚上翻了二十多个垃圾桶",
@@ -73,14 +81,6 @@
       "onboard_time": 1692803678,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 585822,
-      "num": 585822,
-      "word": "我们嫌出师表太长 刘禅嫌出师表太短",
-      "onboard_time": 1692805056,
-      "rank": 8,
-      "category": "其它"
     },
     {
       "raw_hot": 488607,
@@ -105,6 +105,14 @@
       "onboard_time": 1692800738,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434641,
+      "num": 434641,
+      "word": "一路朝阳导演谁啊",
+      "onboard_time": 1692806312,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 431412,
@@ -137,14 +145,6 @@
       "onboard_time": 1692776977,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 379569,
-      "num": 379569,
-      "word": "一路朝阳导演谁啊",
-      "onboard_time": 1692806312,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 373348,
@@ -219,16 +219,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231493,
-      "num": 231493,
+      "raw_hot": 232738,
+      "num": 232738,
       "word": "陈牧驰工作室破防老板第一人",
       "onboard_time": 1692805595,
       "rank": 28,
       "category": "艺人"
     },
     {
-      "raw_hot": 229091,
-      "num": 229091,
+      "raw_hot": 229797,
+      "num": 229797,
       "word": "猴哥唯一一次被骗",
       "onboard_time": 1692793118,
       "rank": 29,
@@ -307,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185434,
+      "num": 185434,
+      "word": "好大一颗山竹爪",
+      "onboard_time": 1692808170,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180652,
       "num": 180652,
       "word": "小朋友捧着书说是粉丝",
@@ -371,12 +379,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126606,
+      "num": 126606,
+      "word": "爱而不得是一种常态",
+      "onboard_time": 1692808109,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116788,
       "num": 116788,
       "word": "朱迅 不必为年龄的增长而感到焦虑",
       "onboard_time": 1692804876,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112849,
+      "num": 112849,
+      "word": "当你讨厌的人骂了你",
+      "onboard_time": 1692804218,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 111463,
@@ -387,25 +411,28 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 109766,
-      "num": 109766,
-      "word": "当你讨厌的人骂了你",
-      "onboard_time": 1692804218,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 103581,
       "num": 953488,
       "word": "中国没有称王称霸的基因",
       "onboard_time": 1692796659,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96076,
+      "num": 96076,
+      "word": "严浩翔七夕皮衣穿搭",
+      "onboard_time": 1692808588,
+      "rank": 49,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平在金砖国家领导人第十五次会晤上的讲话#"
+    },
+    {
+      "word": "#构建高水平中南命运共同体#"
     }
   ]
 }
