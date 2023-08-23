@@ -1,0 +1,410 @@
+{
+  "runTime": 1692789214887,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9773859,
+        "num": 10523525,
+        "word": "大连地震",
+        "onboard_time": 1692786399,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397415,
+        "num": 3201096,
+        "word": "高铁乘客突发疾病6名医生出手",
+        "onboard_time": 1692778657,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 54991,
+        "num": 2017986,
+        "word": "中南关系前景光明未来可期",
+        "onboard_time": 1692781297,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1852046,
+        "num": 1852046,
+        "word": "奶茶店遭遇120杯奶茶订单诈骗",
+        "onboard_time": 1692782018,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129367,
+        "num": 1608526,
+        "word": "女生车祸失去手腿重新逆转人生",
+        "onboard_time": 1692764978,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1533247,
+        "num": 1533247,
+        "word": "徐涛",
+        "onboard_time": 1692785976,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 64270,
+        "num": 1217250,
+        "word": "新疆交警化身草原牧羊人护航转场",
+        "onboard_time": 1692784238,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1206095,
+        "num": 1206095,
+        "word": "东方树叶 三得利",
+        "onboard_time": 1692776977,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 927768,
+        "num": 927768,
+        "word": "欧美圈为什么不能叫欧娱",
+        "onboard_time": 1692786095,
+        "rank": 8,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 863272,
+        "num": 863272,
+        "word": "沈阳震感",
+        "onboard_time": 1692786639,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865674,
+        "num": 773431,
+        "word": "张晚意 你哭什么",
+        "onboard_time": 1692783279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586376,
+        "num": 586376,
+        "word": "被韩国这个厕所装置震撼到",
+        "onboard_time": 1692784118,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427270,
+        "num": 427270,
+        "word": "日媒称24号核污染水排海可能取消",
+        "onboard_time": 1692780036,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399271,
+        "num": 399271,
+        "word": "王曼昱",
+        "onboard_time": 1692788022,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34613,
+        "num": 384938,
+        "word": "老人驾车侧翻白菜滚落被市民抢购一空",
+        "onboard_time": 1692788502,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374466,
+        "num": 374466,
+        "word": "李维嘉 是独居非老人",
+        "onboard_time": 1692779019,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373866,
+        "num": 373866,
+        "word": "Jennie夸Lisa",
+        "onboard_time": 1692784358,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372285,
+        "num": 372285,
+        "word": "金晨是30亿票房女主了",
+        "onboard_time": 1692777633,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333989,
+        "num": 333989,
+        "word": "公司团建给员工发3500元自由安排",
+        "onboard_time": 1692788381,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 325934,
+        "num": 325934,
+        "word": "法院说夭玹可以结婚",
+        "onboard_time": 1692782317,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 679749,
+        "num": 325634,
+        "word": "云南一16岁女孩被同学父亲强奸产子",
+        "onboard_time": 1692783939,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606640,
+        "num": 325621,
+        "word": "杨紫ins更新",
+        "onboard_time": 1692788141,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338017,
+        "num": 325422,
+        "word": "不要把裤子提到肚脐眼上",
+        "onboard_time": 1692760002,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325066,
+        "num": 325066,
+        "word": "景甜好白",
+        "onboard_time": 1692786339,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317723,
+        "num": 317723,
+        "word": "选秀节目C位不出道",
+        "onboard_time": 1692784419,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316159,
+        "num": 316159,
+        "word": "杨幂cue唐嫣NG名场面",
+        "onboard_time": 1692775594,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312416,
+        "num": 312416,
+        "word": "男子放弃百万年薪高管职位返乡养蚯蚓",
+        "onboard_time": 1692784238,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306943,
+        "num": 306943,
+        "word": "烟台震感",
+        "onboard_time": 1692786823,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291921,
+        "num": 291921,
+        "word": "洪洗象卸任XYG主教练",
+        "onboard_time": 1692788320,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277619,
+        "num": 277619,
+        "word": "复刻方便面有多难",
+        "onboard_time": 1692787840,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 618106,
+        "num": 276942,
+        "word": "男朋友说西瓜一人一半",
+        "onboard_time": 1692787904,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 268815,
+        "num": 268815,
+        "word": "科学家在各种女性卫生用品中发现永久危险物质",
+        "onboard_time": 1692773556,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 265541,
+        "num": 265541,
+        "word": "我懂周冬雨是怎么选剧本的了",
+        "onboard_time": 1692788677,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250943,
+        "num": 250943,
+        "word": "九岁摄影师拍的赵露思",
+        "onboard_time": 1692778960,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247497,
+        "num": 247497,
+        "word": "景甜扫楼扫到掉队",
+        "onboard_time": 1692786823,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225050,
+        "num": 225050,
+        "word": "消费降级但衣品提升了",
+        "onboard_time": 1692788677,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221218,
+        "num": 221218,
+        "word": "iPhone15Pro被曝的21项变化",
+        "onboard_time": 1692767141,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 215283,
+        "num": 215283,
+        "word": "四叶草的记忆开始攻击我了",
+        "onboard_time": 1692788979,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215057,
+        "num": 215057,
+        "word": "李维嘉孤独到给狗介绍自己的家",
+        "onboard_time": 1692787241,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206345,
+        "num": 206345,
+        "word": "鞍山震感",
+        "onboard_time": 1692787305,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786460,
+        "num": 205785,
+        "word": "冯绍峰跟自己的四肢不太熟吧",
+        "onboard_time": 1692784058,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204785,
+        "num": 204785,
+        "word": "没有一只鸭能走出广西",
+        "onboard_time": 1692786095,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204131,
+        "num": 204131,
+        "word": "瀑布芝士火鸡面",
+        "onboard_time": 1692788800,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200224,
+        "num": 200224,
+        "word": "于适杂志封面四天四宣",
+        "onboard_time": 1692786218,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 197724,
+        "num": 197724,
+        "word": "aespa演唱OST新歌MV",
+        "onboard_time": 1692787604,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194642,
+        "num": 194642,
+        "word": "门诊来了三个未成年",
+        "onboard_time": 1692761798,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191705,
+        "num": 191705,
+        "word": "中方不希望8月24日成海洋环境灾难日",
+        "onboard_time": 1692778716,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171206,
+        "num": 171206,
+        "word": "不懂香菜拌牛肉的有难了",
+        "onboard_time": 1692789159,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167918,
+        "num": 167918,
+        "word": "央媒称并非所有人都适合体制内工作",
+        "onboard_time": 1692769357,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165798,
+        "num": 165798,
+        "word": "魏大勋回应孟宴臣出圈",
+        "onboard_time": 1692777815,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建高水平中南命运共同体#"
+    }
+  }
+}
