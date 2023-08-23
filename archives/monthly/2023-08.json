@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692819220848,
+  "endTime": 1692821801920,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -55595,6 +55595,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 144826,
+      "num": 70446,
+      "word": "卖奢侈品的在吐槽",
+      "onboard_time": 1692816558,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144802,
       "num": 144802,
       "word": "新型citydrink",
@@ -56585,14 +56593,6 @@
       "onboard_time": 1692352958,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 131089,
-      "num": 70446,
-      "word": "卖奢侈品的在吐槽",
-      "onboard_time": 1692816558,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 130887,
@@ -58321,6 +58321,14 @@
       "onboard_time": 1691954235,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93617,
+      "num": 93617,
+      "word": "景甜没人告诉我扫楼要跑啊",
+      "onboard_time": 1692819314,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 93587,
@@ -60907,6 +60915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27558,
+      "num": 31212,
+      "word": "山东一镇5年给900多名准大学生发助学金",
+      "onboard_time": 1692816856,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 27474,
       "num": 27474,
       "word": "墨西哥火烈鸟 盛大优美的生命诗意",
@@ -61075,6 +61091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24589,
+      "num": 24589,
+      "word": "核废水和核污水不一样",
+      "onboard_time": 1692818835,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24497,
       "num": 1092193,
       "word": "20多个国家正在叩响金砖的大门",
@@ -61193,6 +61217,14 @@
       "onboard_time": 1692474256,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19911,
+      "num": 19911,
+      "word": "犬夜叉动画中的美男子",
+      "onboard_time": 1692821294,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 19762,

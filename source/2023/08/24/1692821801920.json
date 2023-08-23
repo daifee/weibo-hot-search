@@ -1,0 +1,410 @@
+{
+  "runTime": 1692821801920,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 137819,
+        "num": 137819,
+        "word": "日媒称24号核污染水排海可能取消",
+        "onboard_time": 1692780036,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335865,
+        "num": 137397,
+        "word": "俄媒称普里戈任的私人飞机坠毁",
+        "onboard_time": 1692812121,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 7652,
+        "num": 125101,
+        "word": "我国与金砖国家经贸合作成绩亮眼",
+        "onboard_time": 1692796478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124480,
+        "num": 124480,
+        "word": "核污染水",
+        "onboard_time": 1692803561,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102164,
+        "num": 102164,
+        "word": "宁静太敢说了",
+        "onboard_time": 1692802479,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93617,
+        "num": 93617,
+        "word": "景甜没人告诉我扫楼要跑啊",
+        "onboard_time": 1692819314,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76967,
+        "num": 76967,
+        "word": "我们嫌出师表太长 刘禅嫌出师表太短",
+        "onboard_time": 1692805056,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 54516,
+        "num": 54516,
+        "word": "e人里面最i的是谁",
+        "onboard_time": 1692812838,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52584,
+        "num": 52584,
+        "word": "东方树叶 三得利",
+        "onboard_time": 1692776977,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 51111,
+        "num": 51111,
+        "word": "导致脊柱侧弯的元凶",
+        "onboard_time": 1692798278,
+        "rank": 9,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 144826,
+        "num": 49934,
+        "word": "卖奢侈品的在吐槽",
+        "onboard_time": 1692816558,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101682,
+        "num": 48198,
+        "word": "内娱最能扛剧的演员",
+        "onboard_time": 1692809427,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85072,
+        "num": 47798,
+        "word": "高考被缅语专业录取班主任劝复读",
+        "onboard_time": 1692802121,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 70976,
+        "num": 44991,
+        "word": "炫富致丈夫被查妻子回应",
+        "onboard_time": 1692797076,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41716,
+        "num": 44222,
+        "word": "大连地震",
+        "onboard_time": 1692786399,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43250,
+        "num": 43250,
+        "word": "七夕晚上翻了二十多个垃圾桶",
+        "onboard_time": 1692801702,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41787,
+        "num": 41787,
+        "word": "最近女生服装的特征",
+        "onboard_time": 1692800860,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 38631,
+        "num": 38631,
+        "word": "奶茶店遭遇120杯奶茶订单诈骗",
+        "onboard_time": 1692782018,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34320,
+        "num": 34320,
+        "word": "24岁女生的退休生活",
+        "onboard_time": 1692801638,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33173,
+        "num": 33173,
+        "word": "把核污水与核废水混为一谈骗不了人",
+        "onboard_time": 1692792458,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92020,
+        "num": 33028,
+        "word": "被偷走录取通知书女生称妈妈已同意她去中戏",
+        "onboard_time": 1692801278,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49750,
+        "num": 32322,
+        "word": "原来涂山璟是桐华写给所有女生的一封情书",
+        "onboard_time": 1692815956,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47823,
+        "num": 32129,
+        "word": "王祖蓝看李亚男眼神",
+        "onboard_time": 1692800738,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44887,
+        "num": 31837,
+        "word": "立秋最狠减肥法",
+        "onboard_time": 1692803141,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27558,
+        "num": 31212,
+        "word": "山东一镇5年给900多名准大学生发助学金",
+        "onboard_time": 1692816856,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 43623,
+        "num": 30909,
+        "word": "离婚7个月前夫晒照喜得一女",
+        "onboard_time": 1692790300,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 41017,
+        "num": 30534,
+        "word": "杨紫ins更新",
+        "onboard_time": 1692788141,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30105,
+        "num": 30105,
+        "word": "猴哥唯一一次被骗",
+        "onboard_time": 1692793118,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28296,
+        "num": 28296,
+        "word": "infp的朋友圈是卖锁的吧",
+        "onboard_time": 1692791739,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 26903,
+        "num": 26903,
+        "word": "男生女生拿命来",
+        "onboard_time": 1692804337,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28292,
+        "num": 26783,
+        "word": "搞定所有脸型的刘海",
+        "onboard_time": 1692813619,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 26593,
+        "num": 26593,
+        "word": "女子称写炫富小作文是为了举报丈夫",
+        "onboard_time": 1692816497,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26215,
+        "num": 26215,
+        "word": "燃冬极速版",
+        "onboard_time": 1692817096,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25949,
+        "num": 25949,
+        "word": "迪丽热巴说进组在流程中了",
+        "onboard_time": 1692800800,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25780,
+        "num": 25780,
+        "word": "俞灏明多年后调侃端木磊造型",
+        "onboard_time": 1692803678,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25714,
+        "num": 25714,
+        "word": "什么事你坚持了三年以上",
+        "onboard_time": 1692798399,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25197,
+        "num": 25197,
+        "word": "一路朝阳导演谁啊",
+        "onboard_time": 1692806312,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24589,
+        "num": 24589,
+        "word": "核废水和核污水不一样",
+        "onboard_time": 1692818835,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24297,
+        "num": 24297,
+        "word": "十二星座水逆指南",
+        "onboard_time": 1692810023,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23625,
+        "num": 23625,
+        "word": "GAI 大蘑菇后劲太大了",
+        "onboard_time": 1692795517,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21947,
+        "num": 21947,
+        "word": "救下一只小黄蜂后",
+        "onboard_time": 1692818536,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21927,
+        "num": 21927,
+        "word": "张大仙 兄弟们想我了没",
+        "onboard_time": 1692811342,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21652,
+        "num": 21652,
+        "word": "岑先生直播",
+        "onboard_time": 1692794018,
+        "rank": 42,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 21533,
+        "num": 21533,
+        "word": "大鹏说黄渤和王一博是小红帽和大灰狼",
+        "onboard_time": 1692819016,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21016,
+        "num": 21016,
+        "word": "enhypen 一直娱",
+        "onboard_time": 1692799602,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19911,
+        "num": 19911,
+        "word": "犬夜叉动画中的美男子",
+        "onboard_time": 1692821294,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 19605,
+        "num": 19605,
+        "word": "研究称吃薯条可能会抑郁",
+        "onboard_time": 1692797677,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18964,
+        "num": 18964,
+        "word": "黎光有女儿了",
+        "onboard_time": 1692799962,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18769,
+        "num": 18769,
+        "word": "好大一颗山竹爪",
+        "onboard_time": 1692808170,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18553,
+        "num": 18553,
+        "word": "易烊千玺没进组的那些时间",
+        "onboard_time": 1692792879,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在金砖国家领导人第十五次会晤上的讲话#"
+    }
+  }
+}
