@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692783248767,
+  "endTime": 1692785849357,
   "band_list": [
     {
       "raw_hot": 3369273,
@@ -17,6 +17,14 @@
       "onboard_time": 1692776977,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2809659,
+      "num": 3119318,
+      "word": "奶茶店遭遇120杯奶茶订单诈骗",
+      "onboard_time": 1692782018,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2595335,
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1282596,
+      "num": 567411,
+      "word": "张晚意 你哭什么",
+      "onboard_time": 1692783279,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1257392,
       "num": 1257392,
       "word": "假签名被孙阳本人打假",
@@ -195,19 +211,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1102862,
-      "num": 352999,
-      "word": "奶茶店遭遇120杯奶茶订单诈骗",
-      "onboard_time": 1692782018,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1066744,
       "num": 417687,
       "word": "17岁少年目睹爷爷被人殴打后投河身亡",
       "onboard_time": 1692716866,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1057428,
+      "num": 251394,
+      "word": "云南一16岁女孩被同学父亲强奸产子",
+      "onboard_time": 1692783939,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -249,6 +265,14 @@
       "onboard_time": 1692766841,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 988305,
+      "num": 988305,
+      "word": "冯绍峰跟自己的四肢不太熟吧",
+      "onboard_time": 1692784058,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 977152,
@@ -499,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 567800,
+      "num": 567800,
+      "word": "法院说夭玹可以结婚",
+      "onboard_time": 1692782317,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565948,
       "num": 565948,
       "word": "长空之王上映第118天票房逆跌",
@@ -553,6 +585,14 @@
       "onboard_time": 1692716269,
       "rank": 1,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 539643,
+      "num": 539643,
+      "word": "Jennie夸Lisa",
+      "onboard_time": 1692784358,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 538050,
@@ -619,12 +659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499494,
+      "num": 499494,
+      "word": "被韩国这个厕所装置震撼到",
+      "onboard_time": 1692784118,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 491137,
       "num": 491137,
       "word": "燃冬 三个年轻人的抱团取暖",
       "onboard_time": 1692766238,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 485442,
+      "num": 372598,
+      "word": "男子放弃百万年薪高管职位返乡养蚯蚓",
+      "onboard_time": 1692784238,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479345,
@@ -763,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 381067,
-      "num": 343441,
-      "word": "法院说夭玹可以结婚",
-      "onboard_time": 1692782317,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 371931,
       "num": 371931,
       "word": "订婚当天穿自己做的裙子有多好看",
@@ -788,7 +836,7 @@
     },
     {
       "raw_hot": 370542,
-      "num": 236751,
+      "num": 267647,
       "word": "老妈把枕头洗了",
       "onboard_time": 1692781836,
       "rank": 43,
@@ -808,6 +856,14 @@
       "word": "杨幂还原土灵珠",
       "onboard_time": 1692776738,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 369711,
+      "num": 369711,
+      "word": "选秀节目C位不出道",
+      "onboard_time": 1692784419,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -849,6 +905,14 @@
       "onboard_time": 1692759761,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341869,
+      "num": 341869,
+      "word": "NCT2023来了",
+      "onboard_time": 1692783695,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 336686,
@@ -988,11 +1052,19 @@
     },
     {
       "raw_hot": 296419,
-      "num": 296419,
+      "num": 1379508,
       "word": "女生车祸失去手腿重新逆转人生",
       "onboard_time": 1692764978,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295168,
+      "num": 2356585,
+      "word": "高铁乘客突发疾病6名医生出手",
+      "onboard_time": 1692778657,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 294590,
@@ -1315,14 +1387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227464,
-      "num": 301634,
-      "word": "高铁乘客突发疾病6名医生出手",
-      "onboard_time": 1692778657,
-      "rank": 44,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 225391,
       "num": 225391,
       "word": "龚俊东方月初",
@@ -1361,6 +1425,14 @@
       "onboard_time": 1692722729,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218025,
+      "num": 218025,
+      "word": "买了个洗车水管后就没敢洗过车",
+      "onboard_time": 1692782979,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 212322,
@@ -1731,14 +1803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160328,
-      "num": 160328,
-      "word": "买了个洗车水管后就没敢洗过车",
-      "onboard_time": 1692782979,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159999,
       "num": 159999,
       "word": "东方风云榜",
@@ -1777,6 +1841,14 @@
       "onboard_time": 1692778234,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147520,
+      "num": 147520,
+      "word": "NCT大队合照",
+      "onboard_time": 1692785617,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 145923,
@@ -1856,6 +1928,14 @@
       "word": "衢州这个婚登处领证仪式感爆棚",
       "onboard_time": 1692745283,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118530,
+      "num": 897043,
+      "word": "新疆交警化身草原牧羊人护航转场",
+      "onboard_time": 1692784238,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1972,7 +2052,7 @@
     },
     {
       "raw_hot": 78330,
-      "num": 1311014,
+      "num": 2057896,
       "word": "中南关系前景光明未来可期",
       "onboard_time": 1692781297,
       "rank": 2,
@@ -2065,6 +2145,14 @@
       "onboard_time": 1692761503,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8813,
+      "num": 514937,
+      "word": "老战士受邀进军营过百岁生日",
+      "onboard_time": 1692785436,
+      "rank": 14,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 7532,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1692785849357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2809659,
+        "num": 3119318,
+        "word": "奶茶店遭遇120杯奶茶订单诈骗",
+        "onboard_time": 1692782018,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295168,
+        "num": 2356585,
+        "word": "高铁乘客突发疾病6名医生出手",
+        "onboard_time": 1692778657,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 69671,
+        "num": 2057896,
+        "word": "中南关系前景光明未来可期",
+        "onboard_time": 1692781297,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1943589,
+        "num": 1943589,
+        "word": "东方树叶 三得利",
+        "onboard_time": 1692776977,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185557,
+        "num": 1379508,
+        "word": "女生车祸失去手腿重新逆转人生",
+        "onboard_time": 1692764978,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988305,
+        "num": 988305,
+        "word": "冯绍峰跟自己的四肢不太熟吧",
+        "onboard_time": 1692784058,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118530,
+        "num": 897043,
+        "word": "新疆交警化身草原牧羊人护航转场",
+        "onboard_time": 1692784238,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883358,
+        "num": 883358,
+        "word": "李维嘉 是独居非老人",
+        "onboard_time": 1692779019,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649355,
+        "num": 649355,
+        "word": "中方不希望8月24日成海洋环境灾难日",
+        "onboard_time": 1692778716,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567800,
+        "num": 567800,
+        "word": "法院说夭玹可以结婚",
+        "onboard_time": 1692782317,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1282596,
+        "num": 567411,
+        "word": "张晚意 你哭什么",
+        "onboard_time": 1692783279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566556,
+        "num": 566556,
+        "word": "日媒称24号核污染水排海可能取消",
+        "onboard_time": 1692780036,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539643,
+        "num": 539643,
+        "word": "Jennie夸Lisa",
+        "onboard_time": 1692784358,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 532820,
+        "num": 532820,
+        "word": "金晨是30亿票房女主了",
+        "onboard_time": 1692777633,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8813,
+        "num": 514937,
+        "word": "老战士受邀进军营过百岁生日",
+        "onboard_time": 1692785436,
+        "rank": 14,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 499494,
+        "num": 499494,
+        "word": "被韩国这个厕所装置震撼到",
+        "onboard_time": 1692784118,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 489743,
+        "num": 489743,
+        "word": "科学家在各种女性卫生用品中发现永久危险物质",
+        "onboard_time": 1692773556,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 404751,
+        "num": 404751,
+        "word": "门诊来了三个未成年",
+        "onboard_time": 1692761798,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384755,
+        "num": 384755,
+        "word": "杨幂cue唐嫣NG名场面",
+        "onboard_time": 1692775594,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374496,
+        "num": 374496,
+        "word": "九岁摄影师拍的赵露思",
+        "onboard_time": 1692778960,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485442,
+        "num": 372598,
+        "word": "男子放弃百万年薪高管职位返乡养蚯蚓",
+        "onboard_time": 1692784238,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462744,
+        "num": 371836,
+        "word": "不要把裤子提到肚脐眼上",
+        "onboard_time": 1692760002,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369711,
+        "num": 369711,
+        "word": "选秀节目C位不出道",
+        "onboard_time": 1692784419,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341869,
+        "num": 341869,
+        "word": "NCT2023来了",
+        "onboard_time": 1692783695,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334197,
+        "num": 334197,
+        "word": "iPhone15Pro被曝的21项变化",
+        "onboard_time": 1692767141,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 307535,
+        "num": 307535,
+        "word": "萧亚轩北京",
+        "onboard_time": 1692782499,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275131,
+        "num": 275131,
+        "word": "央媒称并非所有人都适合体制内工作",
+        "onboard_time": 1692769357,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267647,
+        "num": 267647,
+        "word": "老妈把枕头洗了",
+        "onboard_time": 1692781836,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261307,
+        "num": 261307,
+        "word": "魏大勋回应孟宴臣出圈",
+        "onboard_time": 1692777815,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257861,
+        "num": 257861,
+        "word": "燃冬豆瓣开分6.3",
+        "onboard_time": 1692782077,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1057428,
+        "num": 251394,
+        "word": "云南一16岁女孩被同学父亲强奸产子",
+        "onboard_time": 1692783939,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242491,
+        "num": 242491,
+        "word": "上班摸鱼时把琐事做了",
+        "onboard_time": 1692771035,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 224622,
+        "num": 224622,
+        "word": "iPhone用两年什么变化",
+        "onboard_time": 1692772955,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219457,
+        "num": 219457,
+        "word": "李玟经纪公司回应录音事件",
+        "onboard_time": 1692766181,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218025,
+        "num": 218025,
+        "word": "买了个洗车水管后就没敢洗过车",
+        "onboard_time": 1692782979,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217835,
+        "num": 217835,
+        "word": "东方月初为涂山红红洗手",
+        "onboard_time": 1692777938,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213060,
+        "num": 213060,
+        "word": "虞书欣粉黑蕾丝吊带",
+        "onboard_time": 1692774395,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192536,
+        "num": 192536,
+        "word": "产后精神病",
+        "onboard_time": 1692776256,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176284,
+        "num": 176284,
+        "word": "土豆竟然可以消肿",
+        "onboard_time": 1692782918,
+        "rank": 38,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 170988,
+        "num": 170988,
+        "word": "我在公司很想家",
+        "onboard_time": 1692780996,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169642,
+        "num": 169642,
+        "word": "丑到刚刚好的鸭子",
+        "onboard_time": 1692781714,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165510,
+        "num": 165510,
+        "word": "张艺兴唱孤注一掷主题曲",
+        "onboard_time": 1692781417,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164302,
+        "num": 164302,
+        "word": "迪丽热巴甜心哈基米",
+        "onboard_time": 1692777518,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158682,
+        "num": 158682,
+        "word": "刘雯淡眉恶女妆",
+        "onboard_time": 1692781596,
+        "rank": 43,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 155829,
+        "num": 155829,
+        "word": "杨幂还原土灵珠",
+        "onboard_time": 1692776738,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147520,
+        "num": 147520,
+        "word": "NCT大队合照",
+        "onboard_time": 1692785617,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139881,
+        "num": 139881,
+        "word": "陈伟霆叫赵露思爆款女王",
+        "onboard_time": 1692766841,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138558,
+        "num": 138558,
+        "word": "四六级查分安排",
+        "onboard_time": 1692772054,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 133256,
+        "num": 138557,
+        "word": "人民文娱评电影燃冬",
+        "onboard_time": 1692775775,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125795,
+        "num": 138548,
+        "word": "朱一龙影业公司取得节目制作许可",
+        "onboard_time": 1692774635,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向金砖国家工商论坛闭幕式发表致辞#"
+    }
+  }
+}
