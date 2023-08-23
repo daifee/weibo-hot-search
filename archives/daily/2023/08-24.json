@@ -1,6 +1,6 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692825265048,
+  "endTime": 1692826436312,
   "band_list": [
     {
       "raw_hot": 1437884,
@@ -539,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44043,
+      "num": 41305,
+      "word": "胡锡进",
+      "onboard_time": 1692817336,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40758,
       "num": 40758,
       "word": "热烈王一博现场加练的舞被加进正片",
@@ -553,14 +561,6 @@
       "onboard_time": 1692814698,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 37324,
-      "num": 37324,
-      "word": "胡锡进",
-      "onboard_time": 1692817336,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36742,
@@ -611,12 +611,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 24589,
-      "num": 24589,
+      "raw_hot": 24816,
+      "num": 24816,
       "word": "核废水和核污水不一样",
       "onboard_time": 1692818835,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24270,
+      "num": 24270,
+      "word": "犬夜叉动画中的美男子",
+      "onboard_time": 1692821294,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 24033,
@@ -627,12 +635,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 23365,
-      "num": 23365,
-      "word": "犬夜叉动画中的美男子",
-      "onboard_time": 1692821294,
-      "rank": 45,
-      "category": "动漫"
+      "raw_hot": 17790,
+      "num": 17790,
+      "word": "护林员养大了一只奄奄一息的小幼崽",
+      "onboard_time": 1692826095,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11274,
