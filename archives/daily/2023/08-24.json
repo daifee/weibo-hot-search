@@ -1,6 +1,6 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692812041792,
+  "endTime": 1692814734523,
   "band_list": [
     {
       "raw_hot": 1437884,
@@ -17,6 +17,14 @@
       "onboard_time": 1692780036,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1128009,
+      "num": 1128009,
+      "word": "俄媒称普里戈任的私人飞机坠毁",
+      "onboard_time": 1692812121,
+      "rank": 0,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1106035,
@@ -161,6 +169,14 @@
       "onboard_time": 1692800800,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368747,
+      "num": 368747,
+      "word": "外媒称普里戈任坠机身亡",
+      "onboard_time": 1692813019,
+      "rank": 3,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 353090,
@@ -363,12 +379,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142112,
+      "num": 142112,
+      "word": "e人里面最i的是谁",
+      "onboard_time": 1692812838,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141223,
       "num": 141223,
       "word": "研究称吃薯条可能会抑郁",
       "onboard_time": 1692797677,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140776,
+      "num": 122152,
+      "word": "张大仙 兄弟们想我了没",
+      "onboard_time": 1692811342,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 140479,
@@ -443,14 +475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 86020,
-      "num": 86020,
-      "word": "张大仙 兄弟们想我了没",
-      "onboard_time": 1692811342,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 80008,
       "num": 80008,
       "word": "十二星座水逆指南",
@@ -475,7 +499,31 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9409,
+      "raw_hot": 53628,
+      "num": 53628,
+      "word": "搞定所有脸型的刘海",
+      "onboard_time": 1692813619,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 46187,
+      "num": 46187,
+      "word": "这只萨摩耶是社牛吧",
+      "onboard_time": 1692812179,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 39058,
+      "num": 39058,
+      "word": "小猫咪自拍",
+      "onboard_time": 1692814698,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 11274,
       "num": 489594,
       "word": "我国与金砖国家经贸合作成绩亮眼",
       "onboard_time": 1692796478,

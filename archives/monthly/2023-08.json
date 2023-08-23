@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692812041792,
+  "endTime": 1692814734523,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -7249,6 +7249,14 @@
       "onboard_time": 1692673959,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1128009,
+      "num": 1128009,
+      "word": "俄媒称普里戈任的私人飞机坠毁",
+      "onboard_time": 1692812121,
+      "rank": 0,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1126193,
@@ -29889,6 +29897,14 @@
       "onboard_time": 1692443856,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 368747,
+      "num": 368747,
+      "word": "外媒称普里戈任坠机身亡",
+      "onboard_time": 1692813019,
+      "rank": 3,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 368728,
@@ -55811,6 +55827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142112,
+      "num": 142112,
+      "word": "e人里面最i的是谁",
+      "onboard_time": 1692812838,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142072,
       "num": 142072,
       "word": "白鹿白色镂空吊带裙",
@@ -55897,6 +55921,14 @@
       "onboard_time": 1691825434,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 140776,
+      "num": 122152,
+      "word": "张大仙 兄弟们想我了没",
+      "onboard_time": 1692811342,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 140719,
@@ -58619,14 +58651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86020,
-      "num": 86020,
-      "word": "张大仙 兄弟们想我了没",
-      "onboard_time": 1692811342,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 85917,
       "num": 935280,
       "word": "空中俯瞰消防在五常洪水中一路逆行",
@@ -59947,6 +59971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53628,
+      "num": 53628,
+      "word": "搞定所有脸型的刘海",
+      "onboard_time": 1692813619,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 53392,
       "num": 588329,
       "word": "重庆龙麻子奔赴涞水救灾",
@@ -60145,6 +60177,14 @@
       "onboard_time": 1692155073,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46187,
+      "num": 46187,
+      "word": "这只萨摩耶是社牛吧",
+      "onboard_time": 1692812179,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 46180,
@@ -60409,6 +60449,14 @@
       "onboard_time": 1692642137,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39058,
+      "num": 39058,
+      "word": "小猫咪自拍",
+      "onboard_time": 1692814698,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 38743,
@@ -61211,7 +61259,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 9409,
+      "raw_hot": 11274,
       "num": 489594,
       "word": "我国与金砖国家经贸合作成绩亮眼",
       "onboard_time": 1692796478,
