@@ -1,0 +1,410 @@
+{
+  "runTime": 1692812041792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 657034,
+        "num": 657034,
+        "word": "日媒称24号核污染水排海可能取消",
+        "onboard_time": 1692780036,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499904,
+        "num": 499904,
+        "word": "核污染水",
+        "onboard_time": 1692803561,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9409,
+        "num": 489594,
+        "word": "我国与金砖国家经贸合作成绩亮眼",
+        "onboard_time": 1692796478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489299,
+        "num": 489299,
+        "word": "我们嫌出师表太长 刘禅嫌出师表太短",
+        "onboard_time": 1692805056,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 414118,
+        "num": 414118,
+        "word": "宁静太敢说了",
+        "onboard_time": 1692802479,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301977,
+        "num": 301977,
+        "word": "东方树叶 三得利",
+        "onboard_time": 1692776977,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239092,
+        "num": 239092,
+        "word": "一路朝阳导演谁啊",
+        "onboard_time": 1692806312,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197898,
+        "num": 197898,
+        "word": "七夕晚上翻了二十多个垃圾桶",
+        "onboard_time": 1692801702,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180293,
+        "num": 180293,
+        "word": "导致脊柱侧弯的元凶",
+        "onboard_time": 1692798278,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 156590,
+        "num": 156590,
+        "word": "俞灏明多年后调侃端木磊造型",
+        "onboard_time": 1692803678,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 597864,
+        "num": 155977,
+        "word": "内娱最能扛剧的演员",
+        "onboard_time": 1692809427,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 560731,
+        "num": 151902,
+        "word": "高考被缅语专业录取班主任劝复读",
+        "onboard_time": 1692802121,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 477847,
+        "num": 149255,
+        "word": "炫富致丈夫被查妻子回应",
+        "onboard_time": 1692797076,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247499,
+        "num": 144481,
+        "word": "男生女生拿命来",
+        "onboard_time": 1692804337,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143334,
+        "num": 143334,
+        "word": "奶茶店遭遇120杯奶茶订单诈骗",
+        "onboard_time": 1692782018,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141512,
+        "num": 141512,
+        "word": "最近女生服装的特征",
+        "onboard_time": 1692800860,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 141122,
+        "num": 141122,
+        "word": "24岁女生的退休生活",
+        "onboard_time": 1692801638,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122345,
+        "num": 122345,
+        "word": "迪丽热巴说进组在流程中了",
+        "onboard_time": 1692800800,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111547,
+        "num": 111547,
+        "word": "黎光有女儿了",
+        "onboard_time": 1692799962,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109245,
+        "num": 109245,
+        "word": "陈牧驰工作室破防老板第一人",
+        "onboard_time": 1692805595,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510152,
+        "num": 108896,
+        "word": "被偷走录取通知书女生称妈妈已同意她去中戏",
+        "onboard_time": 1692801278,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184527,
+        "num": 108476,
+        "word": "离婚7个月前夫晒照喜得一女",
+        "onboard_time": 1692790300,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 170916,
+        "num": 107924,
+        "word": "王祖蓝看李亚男眼神",
+        "onboard_time": 1692800738,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157893,
+        "num": 107713,
+        "word": "infp的朋友圈是卖锁的吧",
+        "onboard_time": 1692791739,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 146572,
+        "num": 107220,
+        "word": "立秋最狠减肥法",
+        "onboard_time": 1692803141,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144571,
+        "num": 106389,
+        "word": "杨紫ins更新",
+        "onboard_time": 1692788141,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131791,
+        "num": 105987,
+        "word": "猴哥唯一一次被骗",
+        "onboard_time": 1692793118,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105753,
+        "num": 105753,
+        "word": "大连地震",
+        "onboard_time": 1692786399,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104553,
+        "num": 104553,
+        "word": "白敬亭或将演骄阳似我男主",
+        "onboard_time": 1692802479,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98284,
+        "num": 98284,
+        "word": "张晚意 你哭什么",
+        "onboard_time": 1692783279,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100684,
+        "num": 98114,
+        "word": "好大一颗山竹爪",
+        "onboard_time": 1692808170,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94636,
+        "num": 94636,
+        "word": "张桂梅 秋天的第一杯奶茶",
+        "onboard_time": 1692800139,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94233,
+        "num": 94233,
+        "word": "成毅开通个人ins",
+        "onboard_time": 1692803979,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90591,
+        "num": 90591,
+        "word": "研究称吃薯条可能会抑郁",
+        "onboard_time": 1692797677,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89611,
+        "num": 89611,
+        "word": "恋爱脑醒悟后一心搞事业",
+        "onboard_time": 1692805832,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88434,
+        "num": 88434,
+        "word": "付辛博看了周杰伦演唱会",
+        "onboard_time": 1692810862,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86020,
+        "num": 86020,
+        "word": "张大仙 兄弟们想我了没",
+        "onboard_time": 1692811342,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85022,
+        "num": 85022,
+        "word": "TFBOYS演唱会门票炒到200万系谣言",
+        "onboard_time": 1692790895,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81542,
+        "num": 81542,
+        "word": "GAI 大蘑菇后劲太大了",
+        "onboard_time": 1692795517,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 80008,
+        "num": 80008,
+        "word": "十二星座水逆指南",
+        "onboard_time": 1692810023,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76647,
+        "num": 76647,
+        "word": "易烊千玺没进组的那些时间",
+        "onboard_time": 1692792879,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76090,
+        "num": 76090,
+        "word": "把e人逼成i人的夏天",
+        "onboard_time": 1692802541,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69350,
+        "num": 69350,
+        "word": "什么事你坚持了三年以上",
+        "onboard_time": 1692798399,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69206,
+        "num": 69206,
+        "word": "檀健次着迷舞台首秀",
+        "onboard_time": 1692802722,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 68184,
+        "num": 68184,
+        "word": "enhypen 一直娱",
+        "onboard_time": 1692799602,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 66924,
+        "num": 66924,
+        "word": "爱而不得是一种常态",
+        "onboard_time": 1692808109,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62815,
+        "num": 62815,
+        "word": "小朋友捧着书说是粉丝",
+        "onboard_time": 1692806432,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57678,
+        "num": 57678,
+        "word": "把核污水与核废水混为一谈骗不了人",
+        "onboard_time": 1692792458,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57341,
+        "num": 57341,
+        "word": "当你讨厌的人骂了你",
+        "onboard_time": 1692804218,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 56755,
+        "num": 56755,
+        "word": "迪丽热巴画完奶茶喝奶茶",
+        "onboard_time": 1692795937,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在金砖国家领导人第十五次会晤上的讲话#"
+    }
+  }
+}
