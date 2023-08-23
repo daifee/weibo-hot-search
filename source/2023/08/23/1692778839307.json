@@ -1,0 +1,410 @@
+{
+  "runTime": 1692778839307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2403250,
+        "num": 2403250,
+        "word": "东方树叶 三得利",
+        "onboard_time": 1692776977,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1477976,
+        "num": 1477976,
+        "word": "央媒称并非所有人都适合体制内工作",
+        "onboard_time": 1692769357,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26877,
+        "num": 1322324,
+        "word": "共建更加美好的世界",
+        "onboard_time": 1692761680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1306224,
+        "num": 1306224,
+        "word": "杨幂cue唐嫣NG名场面",
+        "onboard_time": 1692775594,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 977152,
+        "num": 977152,
+        "word": "科学家在各种女性卫生用品中发现永久危险物质",
+        "onboard_time": 1692773556,
+        "rank": 4,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 931333,
+        "num": 931333,
+        "word": "iPhone15Pro被曝的21项变化",
+        "onboard_time": 1692767141,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 564333,
+        "num": 564333,
+        "word": "iPhone用两年什么变化",
+        "onboard_time": 1692772955,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 507267,
+        "num": 507267,
+        "word": "飞机延误乘务员比旅客还头痛",
+        "onboard_time": 1692772474,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477340,
+        "num": 477340,
+        "word": "研究称日本核污水排海240天到达中国",
+        "onboard_time": 1692748898,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427077,
+        "num": 427077,
+        "word": "魏大勋回应孟宴臣出圈",
+        "onboard_time": 1692777815,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 879409,
+        "num": 425209,
+        "word": "门诊来了三个未成年",
+        "onboard_time": 1692761798,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 524596,
+        "num": 416829,
+        "word": "产后精神病",
+        "onboard_time": 1692776256,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251612,
+        "num": 412687,
+        "word": "四六级查分安排",
+        "onboard_time": 1692772054,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 241474,
+        "num": 406267,
+        "word": "从日本进口的海鲜还能吃吗",
+        "onboard_time": 1692768517,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81798,
+        "num": 399684,
+        "word": "男子过节采了一大把野花送妻子",
+        "onboard_time": 1692777633,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394794,
+        "num": 394794,
+        "word": "陈伟霆叫赵露思爆款女王",
+        "onboard_time": 1692766841,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373516,
+        "num": 373516,
+        "word": "A股",
+        "onboard_time": 1692756761,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 369916,
+        "num": 369916,
+        "word": "杨幂还原土灵珠",
+        "onboard_time": 1692776738,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354665,
+        "num": 354665,
+        "word": "迪丽热巴甜心哈基米",
+        "onboard_time": 1692777518,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350623,
+        "num": 350623,
+        "word": "田曦薇首演打女角色",
+        "onboard_time": 1692773075,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506175,
+        "num": 347937,
+        "word": "不要把裤子提到肚脐眼上",
+        "onboard_time": 1692760002,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 453993,
+        "num": 341850,
+        "word": "金晨是30亿票房女主了",
+        "onboard_time": 1692777633,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442784,
+        "num": 336583,
+        "word": "虞书欣粉黑蕾丝吊带",
+        "onboard_time": 1692774395,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 327001,
+        "num": 327001,
+        "word": "李玟经纪公司回应录音事件",
+        "onboard_time": 1692766181,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323546,
+        "num": 323546,
+        "word": "杀了彪子后只有我还在哭",
+        "onboard_time": 1692777576,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321329,
+        "num": 321329,
+        "word": "人民文娱评电影燃冬",
+        "onboard_time": 1692775775,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312160,
+        "num": 312160,
+        "word": "东方风云榜禁止应援",
+        "onboard_time": 1692777694,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311242,
+        "num": 311242,
+        "word": "东方月初为涂山红红洗手",
+        "onboard_time": 1692777938,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293329,
+        "num": 293329,
+        "word": "上班摸鱼时把琐事做了",
+        "onboard_time": 1692771035,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 289463,
+        "num": 289463,
+        "word": "长空之王上映第118天票房逆跌",
+        "onboard_time": 1692772355,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283115,
+        "num": 283115,
+        "word": "赵露思Hi6上班造型",
+        "onboard_time": 1692771695,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 257208,
+        "num": 257208,
+        "word": "朱一龙影业公司取得节目制作许可",
+        "onboard_time": 1692774635,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253228,
+        "num": 253228,
+        "word": "男子周杰伦演唱会现场捧电脑工作",
+        "onboard_time": 1692773794,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244560,
+        "num": 244560,
+        "word": "男子被骗缅甸家属被告知已遭杀害",
+        "onboard_time": 1692753281,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241466,
+        "num": 241466,
+        "word": "谁半夜偷偷打他了",
+        "onboard_time": 1692776556,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231590,
+        "num": 231590,
+        "word": "素颜就已经很美了",
+        "onboard_time": 1692775535,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 225391,
+        "num": 225391,
+        "word": "龚俊东方月初",
+        "onboard_time": 1692777095,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218165,
+        "num": 218165,
+        "word": "孤注一掷里的诈骗方式过时了",
+        "onboard_time": 1692768396,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204653,
+        "num": 204653,
+        "word": "女团健康减肥方法",
+        "onboard_time": 1692774515,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188615,
+        "num": 188615,
+        "word": "女生车祸失去手腿重新逆转人生",
+        "onboard_time": 1692764978,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203769,
+        "num": 187403,
+        "word": "吴昕说李维嘉是独居老人",
+        "onboard_time": 1692765824,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181729,
+        "num": 181729,
+        "word": "村民种出59厘米超4斤黄瓜王",
+        "onboard_time": 1692771996,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173103,
+        "num": 173103,
+        "word": "被姑姑带着出嫁的女孩上大学了",
+        "onboard_time": 1692771335,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165554,
+        "num": 165554,
+        "word": "中方不希望8月24日成海洋环境灾难日",
+        "onboard_time": 1692778716,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161882,
+        "num": 161882,
+        "word": "高铁乘客突发疾病6名医生出手",
+        "onboard_time": 1692778657,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 150565,
+        "num": 150565,
+        "word": "速食的恋爱谁会喜欢呢",
+        "onboard_time": 1692778234,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149907,
+        "num": 149907,
+        "word": "BLACKPINK新歌",
+        "onboard_time": 1692764742,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147285,
+        "num": 147285,
+        "word": "那英泰国度假",
+        "onboard_time": 1692760961,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141893,
+        "num": 141893,
+        "word": "七夕后的垃圾桶",
+        "onboard_time": 1692763839,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 138833,
+        "num": 138833,
+        "word": "BLACKPINK新歌动画风",
+        "onboard_time": 1692775236,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同南非总统拉马福萨举行会谈#"
+    }
+  }
+}
