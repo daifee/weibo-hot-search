@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692771675379,
+  "endTime": 1692772457522,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -267,20 +267,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1916840,
+      "num": 1916840,
+      "word": "iPhone15Pro被曝的21项变化",
+      "onboard_time": 1692767141,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1865340,
       "num": 566716,
       "word": "张颂文 知足吧你",
       "onboard_time": 1692586235,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1847017,
-      "num": 1847017,
-      "word": "iPhone15Pro被曝的21项变化",
-      "onboard_time": 1692767141,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 1845351,
@@ -635,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1296846,
+      "num": 1296846,
+      "word": "央媒称并非所有人都适合体制内工作",
+      "onboard_time": 1692769357,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1286098,
       "num": 621852,
       "word": "男子账户突然多出49000元吓得赶紧报警",
@@ -916,7 +924,7 @@
     },
     {
       "raw_hot": 996709,
-      "num": 771929,
+      "num": 978563,
       "word": "陈伟霆叫赵露思爆款女王",
       "onboard_time": 1692766841,
       "rank": 21,
@@ -1313,14 +1321,6 @@
       "onboard_time": 1692690109,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 771001,
-      "num": 771001,
-      "word": "央媒称并非所有人都适合体制内工作",
-      "onboard_time": 1692769357,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 769073,
@@ -1883,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 571156,
+      "num": 406635,
+      "word": "杨幂叫何炅小何",
+      "onboard_time": 1692768696,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 568209,
       "num": 568209,
       "word": "中国跆拳道协会对僵尸跆舞做出处罚决定",
@@ -1897,14 +1905,6 @@
       "onboard_time": 1692678762,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 566377,
-      "num": 406635,
-      "word": "杨幂叫何炅小何",
-      "onboard_time": 1692768696,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 565101,
@@ -2217,6 +2217,14 @@
       "onboard_time": 1692660628,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 500651,
+      "num": 500651,
+      "word": "从日本进口的海鲜还能吃吗",
+      "onboard_time": 1692768517,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 498608,
@@ -2627,14 +2635,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 442034,
-      "num": 442034,
-      "word": "从日本进口的海鲜还能吃吗",
-      "onboard_time": 1692768517,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441753,
       "num": 441753,
       "word": "妻子车祸被困丈夫头包纱布围着安抚",
@@ -2721,6 +2721,14 @@
       "onboard_time": 1692582216,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 426178,
+      "num": 230022,
+      "word": "上班摸鱼时把琐事做了",
+      "onboard_time": 1692771035,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 424664,
@@ -3331,6 +3339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 336686,
+      "num": 336686,
+      "word": "孤注一掷里的诈骗方式过时了",
+      "onboard_time": 1692768396,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336521,
       "num": 336521,
       "word": "被山西的厕所惊讶到了",
@@ -3555,14 +3571,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 318764,
-      "num": 318764,
-      "word": "孤注一掷里的诈骗方式过时了",
-      "onboard_time": 1692768396,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 318578,
       "num": 318578,
       "word": "Angelababy白鹿赵露思虞书欣都达成钻超了",
@@ -3641,6 +3649,14 @@
       "onboard_time": 1692577540,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311663,
+      "num": 311663,
+      "word": "被姑姑带着出嫁的女孩上大学了",
+      "onboard_time": 1692771335,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311484,
@@ -4627,14 +4643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237549,
-      "num": 230022,
-      "word": "上班摸鱼时把琐事做了",
-      "onboard_time": 1692771035,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 236008,
       "num": 236008,
       "word": "燃冬 刺杀丘比特",
@@ -4769,6 +4777,14 @@
       "onboard_time": 1692752266,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228380,
+      "num": 228380,
+      "word": "四六级查分安排",
+      "onboard_time": 1692772054,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 226792,
@@ -4963,12 +4979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212740,
-      "num": 212740,
-      "word": "被姑姑带着出嫁的女孩上大学了",
-      "onboard_time": 1692771335,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 213756,
+      "num": 213756,
+      "word": "赵露思Hi6上班造型",
+      "onboard_time": 1692771695,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 212684,
@@ -5113,6 +5129,14 @@
       "onboard_time": 1692677260,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 208127,
+      "num": 208127,
+      "word": "长空之王上映第118天票房逆跌",
+      "onboard_time": 1692772355,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 208048,
@@ -5332,7 +5356,7 @@
     },
     {
       "raw_hot": 200683,
-      "num": 200683,
+      "num": 208440,
       "word": "李宇春新歌乘着风预告",
       "onboard_time": 1692771335,
       "rank": 36,
@@ -6208,6 +6232,14 @@
       "word": "男子刷单被骗7万民警支招追回",
       "onboard_time": 1692566653,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148881,
+      "num": 148881,
+      "word": "村民种出59厘米超4斤黄瓜王",
+      "onboard_time": 1692771996,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
