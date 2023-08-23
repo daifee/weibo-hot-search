@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692765254945,
+  "endTime": 1692767723292,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -33,6 +33,14 @@
       "onboard_time": 1692659185,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3369273,
+      "num": 463071,
+      "word": "门诊来了三个未成年",
+      "onboard_time": 1692761798,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 3337003,
@@ -81,14 +89,6 @@
       "onboard_time": 1692626918,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2682246,
-      "num": 427269,
-      "word": "门诊来了三个未成年",
-      "onboard_time": 1692761798,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 2673668,
@@ -259,6 +259,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 1939760,
+      "num": 1939760,
+      "word": "李玟经纪公司回应录音事件",
+      "onboard_time": 1692766181,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1865340,
       "num": 566716,
       "word": "张颂文 知足吧你",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 1770549,
-      "num": 425407,
+      "num": 460353,
       "word": "那英泰国度假",
       "onboard_time": 1692760961,
       "rank": 17,
@@ -449,6 +457,14 @@
       "onboard_time": 1692577540,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1600126,
+      "num": 1600126,
+      "word": "吴昕说李维嘉是独居老人",
+      "onboard_time": 1692765824,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1598024,
@@ -1195,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 791413,
+      "num": 791413,
+      "word": "BLACKPINK新歌",
+      "onboard_time": 1692764742,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 788966,
       "num": 788966,
       "word": "北方人真的不吃挂面吗",
@@ -1220,7 +1244,7 @@
     },
     {
       "raw_hot": 777007,
-      "num": 426518,
+      "num": 457089,
       "word": "杨幂卷发梦回雪见",
       "onboard_time": 1692763898,
       "rank": 18,
@@ -1435,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 715985,
+      "num": 715985,
+      "word": "七夕后的垃圾桶",
+      "onboard_time": 1692763839,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 713867,
       "num": 713867,
       "word": "李兰迪王阳好嗑",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1692620558,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 637551,
+      "num": 345248,
+      "word": "陈伟霆叫赵露思爆款女王",
+      "onboard_time": 1692766841,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 635357,
@@ -2131,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 502519,
+      "num": 448785,
+      "word": "餐厅6片莴笋售价98元",
+      "onboard_time": 1692765824,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501683,
       "num": 501683,
       "word": "邓为能扛男一吗",
@@ -2289,6 +2337,14 @@
       "onboard_time": 1692701073,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477290,
+      "num": 477290,
+      "word": "燃冬 三个年轻人的抱团取暖",
+      "onboard_time": 1692766238,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 477288,
@@ -2643,14 +2699,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 420239,
-      "num": 420239,
-      "word": "七夕后的垃圾桶",
-      "onboard_time": 1692763839,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 419283,
       "num": 419283,
       "word": "长相思角色号全员告别",
@@ -2689,6 +2737,14 @@
       "onboard_time": 1692677441,
       "rank": 46,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 414235,
+      "num": 414235,
+      "word": "周杰伦昆凌好会秀",
+      "onboard_time": 1692766662,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 413216,
@@ -2931,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381175,
+      "num": 338697,
+      "word": "长相思人物原型竟然长这样",
+      "onboard_time": 1692765280,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380385,
       "num": 380385,
       "word": "秦牛正威直播再道歉",
@@ -3001,6 +3065,14 @@
       "onboard_time": 1692685478,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370556,
+      "num": 296185,
+      "word": "孙阳 我就是175",
+      "onboard_time": 1692767320,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 368728,
@@ -3217,14 +3289,6 @@
       "onboard_time": 1692604717,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 337642,
-      "num": 337642,
-      "word": "BLACKPINK新歌",
-      "onboard_time": 1692764742,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 336851,
@@ -3723,6 +3787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296419,
+      "num": 296419,
+      "word": "女生车祸失去手腿重新逆转人生",
+      "onboard_time": 1692764978,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296164,
       "num": 296164,
       "word": "相柳心软了",
@@ -3817,6 +3889,14 @@
       "onboard_time": 1692764561,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289893,
+      "num": 289893,
+      "word": "蒯曼3比2孙颖莎",
+      "onboard_time": 1692764859,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 289005,
@@ -4395,6 +4475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243765,
+      "num": 243765,
+      "word": "iPhone15Pro被曝的21项变化",
+      "onboard_time": 1692767141,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 243336,
       "num": 243336,
       "word": "SEVENTEEN日专",
@@ -4467,6 +4555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238437,
+      "num": 238437,
+      "word": "吴磊骑有此理定档",
+      "onboard_time": 1692766721,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238333,
       "num": 238333,
       "word": "熙悦汇",
@@ -4537,6 +4633,14 @@
       "onboard_time": 1692715306,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232524,
+      "num": 211206,
+      "word": "THE GIRLS",
+      "onboard_time": 1692765039,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 232336,
@@ -4849,14 +4953,6 @@
       "onboard_time": 1692627646,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211206,
-      "num": 211206,
-      "word": "THE GIRLS",
-      "onboard_time": 1692765039,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 211120,
@@ -5475,14 +5571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191739,
-      "num": 191739,
-      "word": "蒯曼3比2孙颖莎",
-      "onboard_time": 1692764859,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191440,
       "num": 212044,
       "word": "封神第一部",
@@ -5635,6 +5723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181569,
+      "num": 181569,
+      "word": "陈梦vs孙铭阳",
+      "onboard_time": 1692766542,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181339,
       "num": 181339,
       "word": "彪子杀姬发前说送你去见他",
@@ -5681,14 +5777,6 @@
       "onboard_time": 1692756040,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178151,
-      "num": 178151,
-      "word": "女生车祸失去手腿重新逆转人生",
-      "onboard_time": 1692764978,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176531,
@@ -6033,6 +6121,14 @@
       "onboard_time": 1692659605,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145923,
+      "num": 180789,
+      "word": "太子悦神BJD",
+      "onboard_time": 1692764920,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 145584,
@@ -6676,7 +6772,7 @@
     },
     {
       "raw_hot": 43023,
-      "num": 1071922,
+      "num": 1124843,
       "word": "共建更加美好的世界",
       "onboard_time": 1692761680,
       "rank": 2,

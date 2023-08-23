@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692765254945,
+  "endTime": 1692767723292,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -465,6 +465,14 @@
       "onboard_time": 1691129914,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3369273,
+      "num": 463071,
+      "word": "门诊来了三个未成年",
+      "onboard_time": 1692761798,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 3355092,
@@ -1025,14 +1033,6 @@
       "onboard_time": 1692007718,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2682246,
-      "num": 427269,
-      "word": "门诊来了三个未成年",
-      "onboard_time": 1692761798,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 2681988,
@@ -2571,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1939760,
+      "num": 1939760,
+      "word": "李玟经纪公司回应录音事件",
+      "onboard_time": 1692766181,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1938387,
       "num": 1938387,
       "word": "你好星期六",
@@ -3092,7 +3100,7 @@
     },
     {
       "raw_hot": 1770549,
-      "num": 425407,
+      "num": 460353,
       "word": "那英泰国度假",
       "onboard_time": 1692760961,
       "rank": 17,
@@ -3889,6 +3897,14 @@
       "onboard_time": 1691584774,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1600126,
+      "num": 1600126,
+      "word": "吴昕说李维嘉是独居老人",
+      "onboard_time": 1692765824,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1599700,
@@ -11779,6 +11795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791413,
+      "num": 791413,
+      "word": "BLACKPINK新歌",
+      "onboard_time": 1692764742,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 791094,
       "num": 791094,
       "word": "魏大勋说杨紫是真不得罪人",
@@ -12028,7 +12052,7 @@
     },
     {
       "raw_hot": 777007,
-      "num": 426518,
+      "num": 457089,
       "word": "杨幂卷发梦回雪见",
       "onboard_time": 1692763898,
       "rank": 18,
@@ -13721,6 +13745,14 @@
       "onboard_time": 1692166299,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715985,
+      "num": 715985,
+      "word": "七夕后的垃圾桶",
+      "onboard_time": 1692763839,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 715828,
@@ -15769,6 +15801,14 @@
       "onboard_time": 1692620558,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 637551,
+      "num": 345248,
+      "word": "陈伟霆叫赵露思爆款女王",
+      "onboard_time": 1692766841,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 637443,
@@ -21211,6 +21251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502519,
+      "num": 448785,
+      "word": "餐厅6片莴笋售价98元",
+      "onboard_time": 1692765824,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502210,
       "num": 502210,
       "word": "西安文旅的超级周末",
@@ -22577,6 +22625,14 @@
       "onboard_time": 1692501275,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 477290,
+      "num": 477290,
+      "word": "燃冬 三个年轻人的抱团取暖",
+      "onboard_time": 1692766238,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 477288,
@@ -25691,14 +25747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 420239,
-      "num": 420239,
-      "word": "七夕后的垃圾桶",
-      "onboard_time": 1692763839,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 420160,
       "num": 238662,
       "word": "吴京从此以后又多了一个身份",
@@ -26113,6 +26161,14 @@
       "onboard_time": 1692245197,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 414235,
+      "num": 414235,
+      "word": "周杰伦昆凌好会秀",
+      "onboard_time": 1692766662,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 413888,
@@ -28267,6 +28323,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 381175,
+      "num": 338697,
+      "word": "长相思人物原型竟然长这样",
+      "onboard_time": 1692765280,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380937,
       "num": 380937,
       "word": "陈牧驰不要哭 要拍戏拍到八十岁",
@@ -29001,6 +29065,14 @@
       "onboard_time": 1692453040,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370556,
+      "num": 296185,
+      "word": "孙阳 我就是175",
+      "onboard_time": 1692767320,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 370527,
@@ -31329,14 +31401,6 @@
       "onboard_time": 1691809476,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337642,
-      "num": 337642,
-      "word": "BLACKPINK新歌",
-      "onboard_time": 1692764742,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 337591,
@@ -34875,6 +34939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296419,
+      "num": 296419,
+      "word": "女生车祸失去手腿重新逆转人生",
+      "onboard_time": 1692764978,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296361,
       "num": 351739,
       "word": "滔搏 太久没进季后赛",
@@ -35545,6 +35617,14 @@
       "onboard_time": 1690966234,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289893,
+      "num": 289893,
+      "word": "蒯曼3比2孙颖莎",
+      "onboard_time": 1692764859,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 289741,
@@ -40579,6 +40659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243765,
+      "num": 243765,
+      "word": "iPhone15Pro被曝的21项变化",
+      "onboard_time": 1692767141,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 243745,
       "num": 196385,
       "word": "伍佰苏州",
@@ -41257,6 +41345,14 @@
       "onboard_time": 1692323795,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238437,
+      "num": 238437,
+      "word": "吴磊骑有此理定档",
+      "onboard_time": 1692766721,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 238333,
@@ -41961,6 +42057,14 @@
       "onboard_time": 1691535740,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232524,
+      "num": 211206,
+      "word": "THE GIRLS",
+      "onboard_time": 1692765039,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 232336,
@@ -44849,14 +44953,6 @@
       "onboard_time": 1691392057,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211206,
-      "num": 211206,
-      "word": "THE GIRLS",
-      "onboard_time": 1692765039,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 211158,
@@ -49379,14 +49475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191739,
-      "num": 191739,
-      "word": "蒯曼3比2孙颖莎",
-      "onboard_time": 1692764859,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191721,
       "num": 191721,
       "word": "咖啡变成了我舍不得喝的样子",
@@ -51107,6 +51195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181569,
+      "num": 181569,
+      "word": "陈梦vs孙铭阳",
+      "onboard_time": 1692766542,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181548,
       "num": 1623848,
       "word": "收到地震预警之后该怎么做",
@@ -51393,14 +51489,6 @@
       "onboard_time": 1691304695,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 178151,
-      "num": 178151,
-      "word": "女生车祸失去手腿重新逆转人生",
-      "onboard_time": 1692764978,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177842,
@@ -53913,6 +54001,14 @@
       "onboard_time": 1691592820,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145923,
+      "num": 180789,
+      "word": "太子悦神BJD",
+      "onboard_time": 1692764920,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 145719,
@@ -58580,7 +58676,7 @@
     },
     {
       "raw_hot": 43023,
-      "num": 1071922,
+      "num": 1124843,
       "word": "共建更加美好的世界",
       "onboard_time": 1692761680,
       "rank": 2,

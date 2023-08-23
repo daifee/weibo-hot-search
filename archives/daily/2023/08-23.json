@@ -1,10 +1,10 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692765254945,
+  "endTime": 1692767723292,
   "band_list": [
     {
-      "raw_hot": 2682246,
-      "num": 427269,
+      "raw_hot": 3369273,
+      "num": 463071,
       "word": "门诊来了三个未成年",
       "onboard_time": 1692761798,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1692748898,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1939760,
+      "num": 1939760,
+      "word": "李玟经纪公司回应录音事件",
+      "onboard_time": 1692766181,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1901324,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1770549,
-      "num": 425407,
+      "num": 460353,
       "word": "那英泰国度假",
       "onboard_time": 1692760961,
       "rank": 17,
@@ -89,6 +97,14 @@
       "onboard_time": 1692754777,
       "rank": 8,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1600126,
+      "num": 1600126,
+      "word": "吴昕说李维嘉是独居老人",
+      "onboard_time": 1692765824,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1535413,
@@ -219,8 +235,16 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 791413,
+      "num": 791413,
+      "word": "BLACKPINK新歌",
+      "onboard_time": 1692764742,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 777007,
-      "num": 426518,
+      "num": 457089,
       "word": "杨幂卷发梦回雪见",
       "onboard_time": 1692763898,
       "rank": 18,
@@ -259,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 715985,
+      "num": 715985,
+      "word": "七夕后的垃圾桶",
+      "onboard_time": 1692763839,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 695341,
       "num": 695341,
       "word": "檀健次直播",
@@ -281,6 +313,14 @@
       "onboard_time": 1692710860,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 637551,
+      "num": 345248,
+      "word": "陈伟霆叫赵露思爆款女王",
+      "onboard_time": 1692766841,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 610682,
@@ -403,12 +443,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 502519,
+      "num": 448785,
+      "word": "餐厅6片莴笋售价98元",
+      "onboard_time": 1692765824,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479345,
       "num": 479345,
       "word": "张歆艺祝袁弘永远拥有盛世美颜",
       "onboard_time": 1692751661,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 477290,
+      "num": 477290,
+      "word": "燃冬 三个年轻人的抱团取暖",
+      "onboard_time": 1692766238,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 447333,
@@ -443,14 +499,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 420239,
-      "num": 420239,
-      "word": "七夕后的垃圾桶",
-      "onboard_time": 1692763839,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 419283,
       "num": 419283,
       "word": "长相思角色号全员告别",
@@ -465,6 +513,14 @@
       "onboard_time": 1692763657,
       "rank": 22,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 414235,
+      "num": 414235,
+      "word": "周杰伦昆凌好会秀",
+      "onboard_time": 1692766662,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 412131,
@@ -507,12 +563,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 381175,
+      "num": 338697,
+      "word": "长相思人物原型竟然长这样",
+      "onboard_time": 1692765280,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 371931,
       "num": 371931,
       "word": "订婚当天穿自己做的裙子有多好看",
       "onboard_time": 1692760542,
       "rank": 47,
       "category": "情感,时尚"
+    },
+    {
+      "raw_hot": 370556,
+      "num": 296185,
+      "word": "孙阳 我就是175",
+      "onboard_time": 1692767320,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 367822,
@@ -545,14 +617,6 @@
       "onboard_time": 1692759761,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337642,
-      "num": 337642,
-      "word": "BLACKPINK新歌",
-      "onboard_time": 1692764742,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 328595,
@@ -635,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296419,
+      "num": 296419,
+      "word": "女生车祸失去手腿重新逆转人生",
+      "onboard_time": 1692764978,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293420,
       "num": 293420,
       "word": "史上最硬核逼婚",
@@ -657,6 +729,14 @@
       "onboard_time": 1692764561,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289893,
+      "num": 289893,
+      "word": "蒯曼3比2孙颖莎",
+      "onboard_time": 1692764859,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 284343,
@@ -787,12 +867,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243765,
+      "num": 243765,
+      "word": "iPhone15Pro被曝的21项变化",
+      "onboard_time": 1692767141,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 243528,
       "num": 207799,
       "word": "李莲花 唯负少师剑",
       "onboard_time": 1692717230,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238437,
+      "num": 238437,
+      "word": "吴磊骑有此理定档",
+      "onboard_time": 1692766721,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 237023,
@@ -817,6 +913,14 @@
       "onboard_time": 1692761980,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232524,
+      "num": 211206,
+      "word": "THE GIRLS",
+      "onboard_time": 1692765039,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 229869,
@@ -865,14 +969,6 @@
       "onboard_time": 1692720097,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211206,
-      "num": 211206,
-      "word": "THE GIRLS",
-      "onboard_time": 1692765039,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 209541,
@@ -1027,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191739,
-      "num": 191739,
-      "word": "蒯曼3比2孙颖莎",
-      "onboard_time": 1692764859,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189380,
       "num": 189380,
       "word": "周深央视七夕晚会压轴舞台",
@@ -1067,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181569,
+      "num": 181569,
+      "word": "陈梦vs孙铭阳",
+      "onboard_time": 1692766542,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181339,
       "num": 181339,
       "word": "彪子杀姬发前说送你去见他",
@@ -1081,14 +1177,6 @@
       "onboard_time": 1692756040,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178151,
-      "num": 178151,
-      "word": "女生车祸失去手腿重新逆转人生",
-      "onboard_time": 1692764978,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176531,
@@ -1185,6 +1273,14 @@
       "onboard_time": 1692701073,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145923,
+      "num": 180789,
+      "word": "太子悦神BJD",
+      "onboard_time": 1692764920,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 145584,
@@ -1396,7 +1492,7 @@
     },
     {
       "raw_hot": 43023,
-      "num": 1071922,
+      "num": 1124843,
       "word": "共建更加美好的世界",
       "onboard_time": 1692761680,
       "rank": 2,
