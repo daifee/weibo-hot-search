@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/01 00:22:33 ~ 2023/08/23 12:19:28
+本榜单时间：2023/08/01 00:22:33 ~ 2023/08/23 12:34:14
 </p>
 </blockquote>
 <p>
@@ -779,6 +779,12 @@ TFBOYS彩排时眼圈泛红（热度：2868630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%BB%8E%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%E5%88%B0%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%23" target="weibo">
 檀健次从倒数第一到全国第一（热度：2682653）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%A8%E8%AF%8A%E6%9D%A5%E4%BA%86%E4%B8%89%E4%B8%AA%E6%9C%AA%E6%88%90%E5%B9%B4%23" target="weibo">
+门诊来了三个未成年（热度：2682246）
 </a>
 </li>
 
@@ -2183,12 +2189,6 @@ TFBOYS新歌（热度：1856624）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%8E%8B%E6%BA%90%E5%90%8C%E4%B8%80%E8%88%AA%E7%8F%AD%E9%A3%9E%E8%A5%BF%E5%AE%89%23" target="weibo">
 易烊千玺王源同一航班飞西安（热度：1828693）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%97%A8%E8%AF%8A%E6%9D%A5%E4%BA%86%E4%B8%89%E4%B8%AA%E6%9C%AA%E6%88%90%E5%B9%B4%23" target="weibo">
-门诊来了三个未成年（热度：1827557）
 </a>
 </li>
 

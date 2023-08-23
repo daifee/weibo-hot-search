@@ -1,7 +1,15 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692764368246,
+  "endTime": 1692765254945,
   "band_list": [
+    {
+      "raw_hot": 2682246,
+      "num": 427269,
+      "word": "门诊来了三个未成年",
+      "onboard_time": 1692761798,
+      "rank": 10,
+      "category": "情感"
+    },
     {
       "raw_hot": 2273885,
       "num": 2273885,
@@ -35,14 +43,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1827557,
-      "num": 404762,
-      "word": "门诊来了三个未成年",
-      "onboard_time": 1692761798,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1822762,
       "num": 1822762,
       "word": "男子被骗缅甸家属被告知已遭杀害",
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1770549,
-      "num": 424899,
+      "num": 425407,
       "word": "那英泰国度假",
       "onboard_time": 1692760961,
       "rank": 17,
@@ -139,20 +139,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1043653,
+      "num": 397094,
+      "word": "不要把裤子提到肚脐眼上",
+      "onboard_time": 1692760002,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1020610,
       "num": 1020610,
       "word": "情侣看燃冬 各自沉默",
       "onboard_time": 1692755320,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1017190,
-      "num": 397094,
-      "word": "不要把裤子提到肚脐眼上",
-      "onboard_time": 1692760002,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 1016317,
@@ -217,6 +217,14 @@
       "onboard_time": 1692749500,
       "rank": 8,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 777007,
+      "num": 426518,
+      "word": "杨幂卷发梦回雪见",
+      "onboard_time": 1692763898,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 727142,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 540881,
-      "num": 389191,
+      "num": 420557,
       "word": "魏大勋体重全在胸肌上",
       "onboard_time": 1692760840,
       "rank": 23,
@@ -427,11 +435,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427858,
+      "num": 427858,
+      "word": "浙江公安请市民免费看孤注一掷",
+      "onboard_time": 1692759577,
+      "rank": 22,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 420239,
+      "num": 420239,
+      "word": "七夕后的垃圾桶",
+      "onboard_time": 1692763839,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 419283,
       "num": 419283,
       "word": "长相思角色号全员告别",
       "onboard_time": 1692719504,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 414779,
+      "num": 342108,
+      "word": "儿子突然出现送惊喜挨了妈妈一巴掌",
+      "onboard_time": 1692763657,
+      "rank": 22,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 412131,
+      "num": 412131,
+      "word": "亲爱的猎罪相思",
+      "onboard_time": 1692762217,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -457,14 +497,6 @@
       "onboard_time": 1692759398,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 388557,
-      "num": 388557,
-      "word": "浙江公安请市民免费看孤注一掷",
-      "onboard_time": 1692759577,
-      "rank": 22,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 386869,
@@ -499,28 +531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 361271,
-      "num": 361271,
-      "word": "杨幂卷发梦回雪见",
-      "onboard_time": 1692763898,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 358094,
       "num": 358094,
       "word": "深圳七夕当天79对夫妻离婚",
       "onboard_time": 1692751542,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354362,
-      "num": 354362,
-      "word": "亲爱的猎罪相思",
-      "onboard_time": 1692762217,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 354195,
@@ -531,12 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 341568,
-      "num": 341568,
-      "word": "儿子突然出现送惊喜挨了妈妈一巴掌",
-      "onboard_time": 1692763657,
-      "rank": 22,
-      "category": "社会新闻,幽默"
+      "raw_hot": 337642,
+      "num": 337642,
+      "word": "BLACKPINK新歌",
+      "onboard_time": 1692764742,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 328595,
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317872,
+      "num": 317872,
+      "word": "张含韵花钿妆",
+      "onboard_time": 1692764140,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 315791,
       "num": 315791,
       "word": "日本核污染水排海至少要持续30年",
@@ -624,6 +648,14 @@
       "word": "把生娃的KPI都交给神仙了",
       "onboard_time": 1692755199,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 291351,
+      "num": 291351,
+      "word": "女装相柳戏檀多多能不能自己上",
+      "onboard_time": 1692764561,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -675,6 +707,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 269663,
+      "num": 269663,
+      "word": "周也孤注一掷破30亿海报",
+      "onboard_time": 1692763416,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269080,
       "num": 243391,
       "word": "和不熟的人去KTV不能点的歌",
@@ -683,12 +723,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 266231,
-      "num": 263780,
-      "word": "周也孤注一掷破30亿海报",
-      "onboard_time": 1692763416,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 266443,
+      "num": 259618,
+      "word": "魏大勋背头黑斗篷",
+      "onboard_time": 1692763119,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 265302,
@@ -705,14 +745,6 @@
       "onboard_time": 1692758799,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259618,
-      "num": 259618,
-      "word": "魏大勋背头黑斗篷",
-      "onboard_time": 1692763119,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 257466,
@@ -779,6 +811,14 @@
       "category": "影视,综艺"
     },
     {
+      "raw_hot": 233671,
+      "num": 240092,
+      "word": "i人喜欢独处的原因",
+      "onboard_time": 1692761980,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229869,
       "num": 199730,
       "word": "还以为马伯骞是心动6男嘉宾",
@@ -793,14 +833,6 @@
       "onboard_time": 1692752266,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224090,
-      "num": 252433,
-      "word": "七夕后的垃圾桶",
-      "onboard_time": 1692763839,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 223421,
@@ -827,20 +859,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213861,
-      "num": 213861,
-      "word": "i人喜欢独处的原因",
-      "onboard_time": 1692761980,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212322,
       "num": 199126,
       "word": "相柳活的好好的别哭",
       "onboard_time": 1692720097,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211206,
+      "num": 211206,
+      "word": "THE GIRLS",
+      "onboard_time": 1692765039,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 209541,
@@ -883,6 +915,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 204186,
+      "num": 237777,
+      "word": "罗小黑处暑壁纸",
+      "onboard_time": 1692764197,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 203729,
       "num": 203729,
       "word": "恋爱谈得像996",
@@ -899,12 +939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200978,
+      "num": 237561,
+      "word": "天官赐福动画七夕PV",
+      "onboard_time": 1692764197,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 200604,
       "num": 200604,
       "word": "阴阳师手游",
       "onboard_time": 1692759702,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199938,
+      "num": 199938,
+      "word": "国乒热身赛",
+      "onboard_time": 1692764438,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 198791,
@@ -955,12 +1011,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193694,
+      "num": 193694,
+      "word": "梦泪婚礼预告",
+      "onboard_time": 1692763179,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192805,
       "num": 192805,
       "word": "民警抓捕时发现孩子在场选择温情执法",
       "onboard_time": 1692756877,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191739,
+      "num": 191739,
+      "word": "蒯曼3比2孙颖莎",
+      "onboard_time": 1692764859,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 189380,
@@ -1011,28 +1083,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178151,
+      "num": 178151,
+      "word": "女生车祸失去手腿重新逆转人生",
+      "onboard_time": 1692764978,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176531,
       "num": 176531,
       "word": "张真源借着路灯的光唱情歌",
       "onboard_time": 1692754777,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173976,
-      "num": 173976,
-      "word": "罗小黑处暑壁纸",
-      "onboard_time": 1692764197,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 170790,
-      "num": 170790,
-      "word": "天官赐福动画七夕PV",
-      "onboard_time": 1692764197,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 169089,
@@ -1081,14 +1145,6 @@
       "onboard_time": 1692759398,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162541,
-      "num": 162541,
-      "word": "梦泪婚礼预告",
-      "onboard_time": 1692763179,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 161862,
@@ -1339,7 +1395,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 42041,
+      "raw_hot": 43023,
       "num": 1071922,
       "word": "共建更加美好的世界",
       "onboard_time": 1692761680,

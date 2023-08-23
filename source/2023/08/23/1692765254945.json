@@ -1,0 +1,410 @@
+{
+  "runTime": 1692765254945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1514151,
+        "num": 1514151,
+        "word": "男子被骗缅甸家属被告知已遭杀害",
+        "onboard_time": 1692753281,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100312,
+        "num": 1100312,
+        "word": "假签名被孙阳本人打假",
+        "onboard_time": 1692761138,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43023,
+        "num": 1031335,
+        "word": "共建更加美好的世界",
+        "onboard_time": 1692761680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981464,
+        "num": 981464,
+        "word": "研究称日本核污水排海240天到达中国",
+        "onboard_time": 1692748898,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761060,
+        "num": 761060,
+        "word": "我国单身人口2.39亿",
+        "onboard_time": 1692754777,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 670641,
+        "num": 670641,
+        "word": "情侣看燃冬 各自沉默",
+        "onboard_time": 1692755320,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 620361,
+        "num": 620361,
+        "word": "马伯骞被恋综女嘉宾问你是明星啊",
+        "onboard_time": 1692750823,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536958,
+        "num": 536958,
+        "word": "日本为了自己划算不惜让全世界买单",
+        "onboard_time": 1692749500,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 464144,
+        "num": 464144,
+        "word": "韩国回应日本核污染水排海",
+        "onboard_time": 1692755199,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 427858,
+        "num": 427858,
+        "word": "浙江公安请市民免费看孤注一掷",
+        "onboard_time": 1692759577,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2682246,
+        "num": 427269,
+        "word": "门诊来了三个未成年",
+        "onboard_time": 1692761798,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 777007,
+        "num": 426518,
+        "word": "杨幂卷发梦回雪见",
+        "onboard_time": 1692763898,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1702747,
+        "num": 425407,
+        "word": "那英泰国度假",
+        "onboard_time": 1692760961,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 996265,
+        "num": 424091,
+        "word": "窦骁送何超莲的七夕礼物",
+        "onboard_time": 1692758318,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315256,
+        "num": 422548,
+        "word": "初二女生夺100米世界级冠军",
+        "onboard_time": 1692756337,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519576,
+        "num": 422025,
+        "word": "老人误将2万结婚汉服当垃圾扔掉",
+        "onboard_time": 1692751722,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499247,
+        "num": 420557,
+        "word": "魏大勋体重全在胸肌上",
+        "onboard_time": 1692760840,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420239,
+        "num": 420239,
+        "word": "七夕后的垃圾桶",
+        "onboard_time": 1692763839,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 412131,
+        "num": 412131,
+        "word": "亲爱的猎罪相思",
+        "onboard_time": 1692762217,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344253,
+        "num": 344253,
+        "word": "A股",
+        "onboard_time": 1692756761,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1043653,
+        "num": 343020,
+        "word": "不要把裤子提到肚脐眼上",
+        "onboard_time": 1692760002,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 414779,
+        "num": 342108,
+        "word": "儿子突然出现送惊喜挨了妈妈一巴掌",
+        "onboard_time": 1692763657,
+        "rank": 21,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 401967,
+        "num": 340155,
+        "word": "涂山璟相柳得知小夭订婚",
+        "onboard_time": 1692761077,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337642,
+        "num": 337642,
+        "word": "BLACKPINK新歌",
+        "onboard_time": 1692764742,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323195,
+        "num": 323195,
+        "word": "王阳 叔圈天菜",
+        "onboard_time": 1692756937,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317872,
+        "num": 317872,
+        "word": "张含韵花钿妆",
+        "onboard_time": 1692764140,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310433,
+        "num": 310433,
+        "word": "工作人员看赵丽颖的眼神",
+        "onboard_time": 1692759761,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306033,
+        "num": 306033,
+        "word": "女生学校宿舍产子作案人系同学父亲",
+        "onboard_time": 1692749562,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293962,
+        "num": 293962,
+        "word": "订婚当天穿自己做的裙子有多好看",
+        "onboard_time": 1692760542,
+        "rank": 28,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 291351,
+        "num": 291351,
+        "word": "女装相柳戏檀多多能不能自己上",
+        "onboard_time": 1692764561,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279634,
+        "num": 279634,
+        "word": "费翔 不是每个人都适合结婚",
+        "onboard_time": 1692750102,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275499,
+        "num": 275499,
+        "word": "王俊凯包场燃冬",
+        "onboard_time": 1692761503,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269663,
+        "num": 269663,
+        "word": "周也孤注一掷破30亿海报",
+        "onboard_time": 1692763416,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252994,
+        "num": 252994,
+        "word": "原来是你小子让余华上班的",
+        "onboard_time": 1692751542,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233671,
+        "num": 240092,
+        "word": "i人喜欢独处的原因",
+        "onboard_time": 1692761980,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266443,
+        "num": 239650,
+        "word": "魏大勋背头黑斗篷",
+        "onboard_time": 1692763119,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 253955,
+        "num": 239563,
+        "word": "燃冬",
+        "onboard_time": 1692749322,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238174,
+        "num": 238174,
+        "word": "张颂文这次演警察",
+        "onboard_time": 1692761620,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204186,
+        "num": 237777,
+        "word": "罗小黑处暑壁纸",
+        "onboard_time": 1692764197,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 200978,
+        "num": 237561,
+        "word": "天官赐福动画七夕PV",
+        "onboard_time": 1692764197,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 237414,
+        "num": 237414,
+        "word": "他笑着死去 而你哭着也要活下去",
+        "onboard_time": 1692757296,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225880,
+        "num": 225880,
+        "word": "乌尔善大爆料封神第二部",
+        "onboard_time": 1692748774,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218391,
+        "num": 218391,
+        "word": "王源去看了邓见超巡演",
+        "onboard_time": 1692759398,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211206,
+        "num": 211206,
+        "word": "THE GIRLS",
+        "onboard_time": 1692765039,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199938,
+        "num": 199938,
+        "word": "国乒热身赛",
+        "onboard_time": 1692764438,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199445,
+        "num": 199445,
+        "word": "C罗怒喷傅明",
+        "onboard_time": 1692745765,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193715,
+        "num": 193715,
+        "word": "苏翊鸣 朱易",
+        "onboard_time": 1692750766,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 193694,
+        "num": 193694,
+        "word": "梦泪婚礼预告",
+        "onboard_time": 1692763179,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191739,
+        "num": 191739,
+        "word": "蒯曼3比2孙颖莎",
+        "onboard_time": 1692764859,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178151,
+        "num": 178151,
+        "word": "女生车祸失去手腿重新逆转人生",
+        "onboard_time": 1692764978,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同南非总统拉马福萨举行会谈#"
+    }
+  }
+}

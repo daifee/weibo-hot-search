@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692764368246,
+  "endTime": 1692765254945,
   "band_list": [
     {
       "raw_hot": 7558428,
@@ -81,6 +81,14 @@
       "onboard_time": 1692626918,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2682246,
+      "num": 427269,
+      "word": "门诊来了三个未成年",
+      "onboard_time": 1692761798,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 2673668,
@@ -283,14 +291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1827557,
-      "num": 404762,
-      "word": "门诊来了三个未成年",
-      "onboard_time": 1692761798,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1822762,
       "num": 1822762,
       "word": "男子被骗缅甸家属被告知已遭杀害",
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 1770549,
-      "num": 424899,
+      "num": 425407,
       "word": "那英泰国度假",
       "onboard_time": 1692760961,
       "rank": 17,
@@ -827,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1043653,
+      "num": 397094,
+      "word": "不要把裤子提到肚脐眼上",
+      "onboard_time": 1692760002,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1043159,
       "num": 1043159,
       "word": "深圳10天内3人肺栓塞进ICU",
@@ -865,14 +873,6 @@
       "onboard_time": 1692600937,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1017190,
-      "num": 397094,
-      "word": "不要把裤子提到肚脐眼上",
-      "onboard_time": 1692760002,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 1016317,
@@ -1217,6 +1217,14 @@
       "onboard_time": 1692543404,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 777007,
+      "num": 426518,
+      "word": "杨幂卷发梦回雪见",
+      "onboard_time": 1692763898,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 776885,
@@ -1916,7 +1924,7 @@
     },
     {
       "raw_hot": 540881,
-      "num": 389191,
+      "num": 420557,
       "word": "魏大勋体重全在胸肌上",
       "onboard_time": 1692760840,
       "rank": 23,
@@ -2587,6 +2595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427858,
+      "num": 427858,
+      "word": "浙江公安请市民免费看孤注一掷",
+      "onboard_time": 1692759577,
+      "rank": 22,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 426958,
       "num": 215269,
       "word": "男子赤裸上身抚摸亲吻香蕉姑娘雕塑",
@@ -2627,6 +2643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 420239,
+      "num": 420239,
+      "word": "七夕后的垃圾桶",
+      "onboard_time": 1692763839,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 419283,
       "num": 419283,
       "word": "长相思角色号全员告别",
@@ -2651,6 +2675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414779,
+      "num": 342108,
+      "word": "儿子突然出现送惊喜挨了妈妈一巴掌",
+      "onboard_time": 1692763657,
+      "rank": 22,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 414557,
       "num": 414557,
       "word": "胡歌用脚比个心",
@@ -2665,6 +2697,14 @@
       "onboard_time": 1692674199,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 412131,
+      "num": 412131,
+      "word": "亲爱的猎罪相思",
+      "onboard_time": 1692762217,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 410390,
@@ -2859,14 +2899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 388557,
-      "num": 388557,
-      "word": "浙江公安请市民免费看孤注一掷",
-      "onboard_time": 1692759577,
-      "rank": 22,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 386890,
       "num": 338948,
       "word": "海光寺",
@@ -3011,14 +3043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 361271,
-      "num": 361271,
-      "word": "杨幂卷发梦回雪见",
-      "onboard_time": 1692763898,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 361045,
       "num": 313512,
       "word": "陈都灵跳queencard手忙脚乱",
@@ -3056,14 +3080,6 @@
       "word": "韩剧假面女郎 结局让人大爆哭",
       "onboard_time": 1692612994,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 354362,
-      "num": 354362,
-      "word": "亲爱的猎罪相思",
-      "onboard_time": 1692762217,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -3179,14 +3195,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 341568,
-      "num": 341568,
-      "word": "儿子突然出现送惊喜挨了妈妈一巴掌",
-      "onboard_time": 1692763657,
-      "rank": 22,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 340414,
       "num": 340414,
       "word": "时代少年团或将有线上演唱会",
@@ -3209,6 +3217,14 @@
       "onboard_time": 1692604717,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 337642,
+      "num": 337642,
+      "word": "BLACKPINK新歌",
+      "onboard_time": 1692764742,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 336851,
@@ -3465,6 +3481,14 @@
       "onboard_time": 1692709717,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317872,
+      "num": 317872,
+      "word": "张含韵花钿妆",
+      "onboard_time": 1692764140,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317349,
@@ -3787,6 +3811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291351,
+      "num": 291351,
+      "word": "女装相柳戏檀多多能不能自己上",
+      "onboard_time": 1692764561,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289005,
       "num": 253894,
       "word": "长相思说的择日是哪日",
@@ -4011,6 +4043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269663,
+      "num": 269663,
+      "word": "周也孤注一掷破30亿海报",
+      "onboard_time": 1692763416,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269573,
       "num": 269573,
       "word": "魏大勋壁纸还是这个",
@@ -4091,20 +4131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266443,
+      "num": 259618,
+      "word": "魏大勋背头黑斗篷",
+      "onboard_time": 1692763119,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 266305,
       "num": 266305,
       "word": "在山东赶海捅了螃蟹窝了",
       "onboard_time": 1692613536,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266231,
-      "num": 263780,
-      "word": "周也孤注一掷破30亿海报",
-      "onboard_time": 1692763416,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 266138,
@@ -4201,14 +4241,6 @@
       "onboard_time": 1692603581,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259618,
-      "num": 259618,
-      "word": "魏大勋背头黑斗篷",
-      "onboard_time": 1692763119,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 259517,
@@ -4491,6 +4523,14 @@
       "category": "影视,综艺"
     },
     {
+      "raw_hot": 233671,
+      "num": 240092,
+      "word": "i人喜欢独处的原因",
+      "onboard_time": 1692761980,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233419,
       "num": 233419,
       "word": "织女是因为手艺才有名有姓",
@@ -4577,14 +4617,6 @@
       "onboard_time": 1692592843,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224090,
-      "num": 252433,
-      "word": "七夕后的垃圾桶",
-      "onboard_time": 1692763839,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 223421,
@@ -4747,14 +4779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213861,
-      "num": 213861,
-      "word": "i人喜欢独处的原因",
-      "onboard_time": 1692761980,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 213835,
       "num": 213835,
       "word": "男子随手一个动作把自己家烧了",
@@ -4825,6 +4849,14 @@
       "onboard_time": 1692627646,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211206,
+      "num": 211206,
+      "word": "THE GIRLS",
+      "onboard_time": 1692765039,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 211120,
@@ -5011,6 +5043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204186,
+      "num": 237777,
+      "word": "罗小黑处暑壁纸",
+      "onboard_time": 1692764197,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 204162,
       "num": 204162,
       "word": "当你养了只粘人的狗子",
@@ -5099,6 +5139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200978,
+      "num": 237561,
+      "word": "天官赐福动画七夕PV",
+      "onboard_time": 1692764197,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 200915,
       "num": 200915,
       "word": "白敬亭喊井柏然来玩啊",
@@ -5137,6 +5185,14 @@
       "onboard_time": 1692605496,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199938,
+      "num": 199938,
+      "word": "国乒热身赛",
+      "onboard_time": 1692764438,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 199759,
@@ -5347,6 +5403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193694,
+      "num": 193694,
+      "word": "梦泪婚礼预告",
+      "onboard_time": 1692763179,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192962,
       "num": 191331,
       "word": "白鹿七夕手势舞",
@@ -5409,6 +5473,14 @@
       "onboard_time": 1692631536,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191739,
+      "num": 191739,
+      "word": "蒯曼3比2孙颖莎",
+      "onboard_time": 1692764859,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 191440,
@@ -5611,6 +5683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178151,
+      "num": 178151,
+      "word": "女生车祸失去手腿重新逆转人生",
+      "onboard_time": 1692764978,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176531,
       "num": 176531,
       "word": "张真源借着路灯的光唱情歌",
@@ -5659,14 +5739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173976,
-      "num": 173976,
-      "word": "罗小黑处暑壁纸",
-      "onboard_time": 1692764197,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 173932,
       "num": 173932,
       "word": "薛之谦晒与张信哲合照",
@@ -5689,14 +5761,6 @@
       "onboard_time": 1692683978,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 170790,
-      "num": 170790,
-      "word": "天官赐福动画七夕PV",
-      "onboard_time": 1692764197,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 170619,
@@ -5833,14 +5897,6 @@
       "onboard_time": 1692541005,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162541,
-      "num": 162541,
-      "word": "梦泪婚礼预告",
-      "onboard_time": 1692763179,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 162337,
@@ -6619,19 +6675,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43023,
+      "num": 1071922,
+      "word": "共建更加美好的世界",
+      "onboard_time": 1692761680,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42181,
       "num": 382019,
       "word": "七夕节牛郎织女传说始于淄博沂源",
       "onboard_time": 1692597638,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42041,
-      "num": 1071922,
-      "word": "共建更加美好的世界",
-      "onboard_time": 1692761680,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

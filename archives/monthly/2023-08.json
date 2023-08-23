@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692764368246,
+  "endTime": 1692765254945,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1692007718,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2682246,
+      "num": 427269,
+      "word": "门诊来了三个未成年",
+      "onboard_time": 1692761798,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 2681988,
@@ -2899,14 +2907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1827557,
-      "num": 404762,
-      "word": "门诊来了三个未成年",
-      "onboard_time": 1692761798,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1827196,
       "num": 1587003,
       "word": "费曼 我不知道我要澄清什么",
@@ -3092,7 +3092,7 @@
     },
     {
       "raw_hot": 1770549,
-      "num": 424899,
+      "num": 425407,
       "word": "那英泰国度假",
       "onboard_time": 1692760961,
       "rank": 17,
@@ -8035,6 +8035,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1043653,
+      "num": 397094,
+      "word": "不要把裤子提到肚脐眼上",
+      "onboard_time": 1692760002,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1043159,
       "num": 1043159,
       "word": "深圳10天内3人肺栓塞进ICU",
@@ -8273,14 +8281,6 @@
       "onboard_time": 1690895857,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1017190,
-      "num": 397094,
-      "word": "不要把裤子提到肚脐眼上",
-      "onboard_time": 1692760002,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 1016995,
@@ -12025,6 +12025,14 @@
       "onboard_time": 1691121275,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777007,
+      "num": 426518,
+      "word": "杨幂卷发梦回雪见",
+      "onboard_time": 1692763898,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 776885,
@@ -19476,7 +19484,7 @@
     },
     {
       "raw_hot": 540881,
-      "num": 389191,
+      "num": 420557,
       "word": "魏大勋体重全在胸肌上",
       "onboard_time": 1692760840,
       "rank": 23,
@@ -25235,6 +25243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427858,
+      "num": 427858,
+      "word": "浙江公安请市民免费看孤注一掷",
+      "onboard_time": 1692759577,
+      "rank": 22,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 427852,
       "num": 427852,
       "word": "815",
@@ -25675,6 +25691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420239,
+      "num": 420239,
+      "word": "七夕后的垃圾桶",
+      "onboard_time": 1692763839,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 420160,
       "num": 238662,
       "word": "吴京从此以后又多了一个身份",
@@ -26019,6 +26043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414779,
+      "num": 342108,
+      "word": "儿子突然出现送惊喜挨了妈妈一巴掌",
+      "onboard_time": 1692763657,
+      "rank": 22,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 414743,
       "num": 414743,
       "word": "今年已有159名医院院长书记被查",
@@ -26160,6 +26192,14 @@
       "word": "长相思小夭的金山",
       "onboard_time": 1691593719,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 412131,
+      "num": 412131,
+      "word": "亲爱的猎罪相思",
+      "onboard_time": 1692762217,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -27649,14 +27689,6 @@
       "onboard_time": 1691251239,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388557,
-      "num": 388557,
-      "word": "浙江公安请市民免费看孤注一掷",
-      "onboard_time": 1692759577,
-      "rank": 22,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 388541,
@@ -29643,14 +29675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 361271,
-      "num": 361271,
-      "word": "杨幂卷发梦回雪见",
-      "onboard_time": 1692763898,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 361105,
       "num": 361105,
       "word": "婚礼前分手男方要求女方退还八宝粥",
@@ -30121,14 +30145,6 @@
       "onboard_time": 1691285081,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 354362,
-      "num": 354362,
-      "word": "亲爱的猎罪相思",
-      "onboard_time": 1692762217,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 354342,
@@ -31051,14 +31067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 341568,
-      "num": 341568,
-      "word": "儿子突然出现送惊喜挨了妈妈一巴掌",
-      "onboard_time": 1692763657,
-      "rank": 22,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 341508,
       "num": 341508,
       "word": "曾舜晞长文告别莲花楼",
@@ -31321,6 +31329,14 @@
       "onboard_time": 1691809476,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337642,
+      "num": 337642,
+      "word": "BLACKPINK新歌",
+      "onboard_time": 1692764742,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 337591,
@@ -32921,6 +32937,14 @@
       "onboard_time": 1692232899,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317872,
+      "num": 317872,
+      "word": "张含韵花钿妆",
+      "onboard_time": 1692764140,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317846,
@@ -35395,6 +35419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 291351,
+      "num": 291351,
+      "word": "女装相柳戏檀多多能不能自己上",
+      "onboard_time": 1692764561,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291262,
       "num": 254181,
       "word": "邓为直播衣服是不是穿反了",
@@ -37699,6 +37731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269663,
+      "num": 269663,
+      "word": "周也孤注一掷破30亿海报",
+      "onboard_time": 1692763416,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269573,
       "num": 269573,
       "word": "魏大勋壁纸还是这个",
@@ -38059,6 +38099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266443,
+      "num": 259618,
+      "word": "魏大勋背头黑斗篷",
+      "onboard_time": 1692763119,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 266405,
       "num": 266405,
       "word": "肖战玉骨遥开机vs杀青",
@@ -38081,14 +38129,6 @@
       "onboard_time": 1692613536,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266231,
-      "num": 263780,
-      "word": "周也孤注一掷破30亿海报",
-      "onboard_time": 1692763416,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 266138,
@@ -38809,14 +38849,6 @@
       "onboard_time": 1692416856,
       "rank": 31,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 259618,
-      "num": 259618,
-      "word": "魏大勋背头黑斗篷",
-      "onboard_time": 1692763119,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 259596,
@@ -41819,6 +41851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233671,
+      "num": 240092,
+      "word": "i人喜欢独处的原因",
+      "onboard_time": 1692761980,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233486,
       "num": 172991,
       "word": "雷军宣布将于8月14日举办年度演讲",
@@ -42801,14 +42841,6 @@
       "onboard_time": 1690854455,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224090,
-      "num": 252433,
-      "word": "七夕后的垃圾桶",
-      "onboard_time": 1692763839,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 224086,
@@ -44411,14 +44443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213861,
-      "num": 213861,
-      "word": "i人喜欢独处的原因",
-      "onboard_time": 1692761980,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 213835,
       "num": 213835,
       "word": "男子随手一个动作把自己家烧了",
@@ -44825,6 +44849,14 @@
       "onboard_time": 1691392057,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211206,
+      "num": 211206,
+      "word": "THE GIRLS",
+      "onboard_time": 1692765039,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 211158,
@@ -46259,6 +46291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204186,
+      "num": 237777,
+      "word": "罗小黑处暑壁纸",
+      "onboard_time": 1692764197,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 204176,
       "num": 194189,
       "word": "infinite演唱会",
@@ -46987,6 +47027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200978,
+      "num": 237561,
+      "word": "天官赐福动画七夕PV",
+      "onboard_time": 1692764197,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 200921,
       "num": 266597,
       "word": "Jeff的星空之旅称收到死亡威胁",
@@ -47336,6 +47384,14 @@
       "word": "曼城vs阿森纳",
       "onboard_time": 1691334289,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199938,
+      "num": 199938,
+      "word": "国乒热身赛",
+      "onboard_time": 1692764438,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -48755,6 +48811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193694,
+      "num": 193694,
+      "word": "梦泪婚礼预告",
+      "onboard_time": 1692763179,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193677,
       "num": 193677,
       "word": "原神fes",
@@ -49311,6 +49375,14 @@
       "num": 194981,
       "word": "欧钰珊大运会全能摘金",
       "onboard_time": 1691159261,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191739,
+      "num": 191739,
+      "word": "蒯曼3比2孙颖莎",
+      "onboard_time": 1692764859,
       "rank": 48,
       "category": "体育"
     },
@@ -51323,6 +51395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178151,
+      "num": 178151,
+      "word": "女生车祸失去手腿重新逆转人生",
+      "onboard_time": 1692764978,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177842,
       "num": 2292217,
       "word": "CCTV国家公园",
@@ -51643,14 +51723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173976,
-      "num": 173976,
-      "word": "罗小黑处暑壁纸",
-      "onboard_time": 1692764197,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 173932,
       "num": 173932,
       "word": "薛之谦晒与张信哲合照",
@@ -51969,14 +52041,6 @@
       "onboard_time": 1690806272,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 170790,
-      "num": 170790,
-      "word": "天官赐福动画七夕PV",
-      "onboard_time": 1692764197,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 170706,
@@ -52673,14 +52737,6 @@
       "onboard_time": 1690895434,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162541,
-      "num": 162541,
-      "word": "梦泪婚礼预告",
-      "onboard_time": 1692763179,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 162468,
@@ -58523,6 +58579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43023,
+      "num": 1071922,
+      "word": "共建更加美好的世界",
+      "onboard_time": 1692761680,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42292,
       "num": 75239,
       "word": "HAPPYMARKDAY",
@@ -58536,14 +58600,6 @@
       "word": "七夕节牛郎织女传说始于淄博沂源",
       "onboard_time": 1692597638,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42041,
-      "num": 1071922,
-      "word": "共建更加美好的世界",
-      "onboard_time": 1692761680,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
