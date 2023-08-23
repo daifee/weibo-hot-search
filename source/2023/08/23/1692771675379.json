@@ -1,0 +1,410 @@
+{
+  "runTime": 1692771675379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1847017,
+        "num": 1847017,
+        "word": "iPhone15Pro被曝的21项变化",
+        "onboard_time": 1692767141,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 783952,
+        "num": 783952,
+        "word": "研究称日本核污水排海240天到达中国",
+        "onboard_time": 1692748898,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27890,
+        "num": 772587,
+        "word": "共建更加美好的世界",
+        "onboard_time": 1692761680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163154,
+        "num": 772114,
+        "word": "吴昕说李维嘉是独居老人",
+        "onboard_time": 1692765824,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 996709,
+        "num": 771929,
+        "word": "陈伟霆叫赵露思爆款女王",
+        "onboard_time": 1692766841,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 771001,
+        "num": 771001,
+        "word": "央媒称并非所有人都适合体制内工作",
+        "onboard_time": 1692769357,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654743,
+        "num": 654743,
+        "word": "男子被骗缅甸家属被告知已遭杀害",
+        "onboard_time": 1692753281,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451816,
+        "num": 451816,
+        "word": "餐厅6片莴笋售价98元",
+        "onboard_time": 1692765824,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442034,
+        "num": 442034,
+        "word": "从日本进口的海鲜还能吃吗",
+        "onboard_time": 1692768517,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413765,
+        "num": 413765,
+        "word": "七夕后的垃圾桶",
+        "onboard_time": 1692763839,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1838186,
+        "num": 412247,
+        "word": "门诊来了三个未成年",
+        "onboard_time": 1692761798,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 843536,
+        "num": 410151,
+        "word": "孙阳 我就是175",
+        "onboard_time": 1692767320,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 715166,
+        "num": 409783,
+        "word": "李玟经纪公司回应录音事件",
+        "onboard_time": 1692766181,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566377,
+        "num": 406635,
+        "word": "杨幂叫何炅小何",
+        "onboard_time": 1692768696,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230869,
+        "num": 405533,
+        "word": "日本为了自己划算不惜让全世界买单",
+        "onboard_time": 1692749500,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 450609,
+        "num": 403205,
+        "word": "假签名被孙阳本人打假",
+        "onboard_time": 1692761138,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402702,
+        "num": 402702,
+        "word": "BLACKPINK新歌",
+        "onboard_time": 1692764742,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318764,
+        "num": 318764,
+        "word": "孤注一掷里的诈骗方式过时了",
+        "onboard_time": 1692768396,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303416,
+        "num": 303416,
+        "word": "燃冬 三个年轻人的抱团取暖",
+        "onboard_time": 1692766238,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298199,
+        "num": 298199,
+        "word": "杨幂卷发梦回雪见",
+        "onboard_time": 1692763898,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605453,
+        "num": 292290,
+        "word": "不要把裤子提到肚脐眼上",
+        "onboard_time": 1692760002,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276956,
+        "num": 276956,
+        "word": "李维嘉吾日三洗吾家",
+        "onboard_time": 1692769477,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267736,
+        "num": 267736,
+        "word": "A股",
+        "onboard_time": 1692756761,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 265676,
+        "num": 265676,
+        "word": "陈紫函戴向宇相处模式",
+        "onboard_time": 1692768517,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249771,
+        "num": 249771,
+        "word": "女生学校宿舍产子作案人系同学父亲",
+        "onboard_time": 1692749562,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249805,
+        "num": 244857,
+        "word": "情侣看燃冬 各自沉默",
+        "onboard_time": 1692755320,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238919,
+        "num": 238919,
+        "word": "2名在缅电诈犯罪嫌疑人被押解回国",
+        "onboard_time": 1692768877,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237879,
+        "num": 237879,
+        "word": "老人误将2万结婚汉服当垃圾扔掉",
+        "onboard_time": 1692751722,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233157,
+        "num": 233157,
+        "word": "女生车祸失去手腿重新逆转人生",
+        "onboard_time": 1692764978,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230096,
+        "num": 230096,
+        "word": "长相思人物原型竟然长这样",
+        "onboard_time": 1692765280,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237549,
+        "num": 230022,
+        "word": "上班摸鱼时把琐事做了",
+        "onboard_time": 1692771035,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 227933,
+        "num": 227933,
+        "word": "吴磊骑有此理定档",
+        "onboard_time": 1692766721,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221156,
+        "num": 221156,
+        "word": "王祖蓝李亚男七夕秀恩爱",
+        "onboard_time": 1692768936,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216548,
+        "num": 216548,
+        "word": "那英泰国度假",
+        "onboard_time": 1692760961,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212740,
+        "num": 212740,
+        "word": "被姑姑带着出嫁的女孩上大学了",
+        "onboard_time": 1692771335,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203649,
+        "num": 203649,
+        "word": "周杰伦昆凌好会秀",
+        "onboard_time": 1692766662,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200683,
+        "num": 200683,
+        "word": "李宇春新歌乘着风预告",
+        "onboard_time": 1692771335,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199738,
+        "num": 199738,
+        "word": "窦骁送何超莲的七夕礼物",
+        "onboard_time": 1692758318,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193344,
+        "num": 193344,
+        "word": "韩国回应日本核污染水排海",
+        "onboard_time": 1692755199,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 181608,
+        "num": 181608,
+        "word": "儿子突然出现送惊喜挨了妈妈一巴掌",
+        "onboard_time": 1692763657,
+        "rank": 39,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 165184,
+        "num": 165184,
+        "word": "燃冬",
+        "onboard_time": 1692749322,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164990,
+        "num": 164990,
+        "word": "我国单身人口2.39亿",
+        "onboard_time": 1692754777,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 160024,
+        "num": 160024,
+        "word": "王阳 叔圈天菜",
+        "onboard_time": 1692756937,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148120,
+        "num": 148120,
+        "word": "订婚当天穿自己做的裙子有多好看",
+        "onboard_time": 1692760542,
+        "rank": 43,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 143764,
+        "num": 143764,
+        "word": "女装相柳戏檀多多能不能自己上",
+        "onboard_time": 1692764561,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132768,
+        "num": 132768,
+        "word": "初二女生夺100米世界级冠军",
+        "onboard_time": 1692756337,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127515,
+        "num": 127515,
+        "word": "XG新歌",
+        "onboard_time": 1692769236,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126702,
+        "num": 126702,
+        "word": "马伯骞被恋综女嘉宾问你是明星啊",
+        "onboard_time": 1692750823,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119499,
+        "num": 123751,
+        "word": "i人喜欢独处的原因",
+        "onboard_time": 1692761980,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101814,
+        "num": 122841,
+        "word": "眠狼 七夕九图",
+        "onboard_time": 1692770735,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同南非总统拉马福萨举行会谈#"
+    }
+  }
+}
