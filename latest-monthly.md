@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/01 00:22:33 ~ 2023/08/23 23:17:04
+本榜单时间：2023/08/01 00:22:33 ~ 2023/08/23 23:34:11
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@ TFBOYS合体排练（热度：4109432）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%B8%E5%BA%9F%E6%B0%B4%23" target="weibo">
+核废水（热度：3422324）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%E6%90%82%E8%82%A9%23" target="weibo">
 TFBOYS搂肩（热度：3421424）
 </a>
@@ -419,12 +425,6 @@ TFBOYS搂肩（热度：3421424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%E6%9B%BE%E8%AF%B4%E7%BB%84%E5%90%88%E8%A7%A3%E6%95%A3%E5%B0%B1%E9%87%8D%E6%96%B0%E4%B8%80%E8%B5%B7%E5%87%BA%E9%81%93%23" target="weibo">
 TFBOYS曾说组合解散就重新一起出道（热度：3268309）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%B8%E5%BA%9F%E6%B0%B4%23" target="weibo">
-核废水（热度：3254575）
 </a>
 </li>
 

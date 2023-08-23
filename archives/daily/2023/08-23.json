@@ -1,6 +1,6 @@
 {
   "startTime": 1692721277554,
-  "endTime": 1692803824550,
+  "endTime": 1692804851270,
   "band_list": [
     {
       "raw_hot": 11115797,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3422324,
+      "num": 3422324,
+      "word": "核废水",
+      "onboard_time": 1692792458,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3369273,
       "num": 480231,
       "word": "门诊来了三个未成年",
       "onboard_time": 1692761798,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 3254575,
-      "num": 3254575,
-      "word": "核废水",
-      "onboard_time": 1692792458,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3096070,
@@ -435,8 +435,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 855036,
-      "num": 855036,
+      "raw_hot": 856066,
+      "num": 856066,
       "word": "七夕晚上翻了二十多个垃圾桶",
       "onboard_time": 1692801702,
       "rank": 4,
@@ -587,6 +587,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 712759,
+      "num": 712759,
+      "word": "高考被缅语专业录取班主任劝复读",
+      "onboard_time": 1692802121,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 695341,
       "num": 695341,
       "word": "檀健次直播",
@@ -683,6 +691,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 613280,
+      "num": 573160,
+      "word": "迪丽热巴说进组在流程中了",
+      "onboard_time": 1692800800,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610682,
       "num": 279181,
       "word": "邓为工作室是知道我们想看什么的",
@@ -697,14 +713,6 @@
       "onboard_time": 1692757296,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 607557,
-      "num": 533180,
-      "word": "高考被缅语专业录取班主任劝复读",
-      "onboard_time": 1692802121,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 607482,
@@ -761,6 +769,14 @@
       "onboard_time": 1692706292,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575092,
+      "num": 575092,
+      "word": "宁静太敢说了",
+      "onboard_time": 1692802479,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 571156,
@@ -827,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556534,
+      "num": 346558,
+      "word": "立秋最狠减肥法",
+      "onboard_time": 1692803141,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 549392,
       "num": 519885,
       "word": "赵露思 每一朵花都可以长得不一样",
@@ -857,6 +881,14 @@
       "onboard_time": 1692750163,
       "rank": 16,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 542477,
+      "num": 542477,
+      "word": "俞灏明多年后调侃端木磊造型",
+      "onboard_time": 1692803678,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 540881,
@@ -897,14 +929,6 @@
       "onboard_time": 1692777815,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 529861,
-      "num": 529861,
-      "word": "迪丽热巴说进组在流程中了",
-      "onboard_time": 1692800800,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 528680,
@@ -1003,12 +1027,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460633,
-      "num": 393364,
-      "word": "宁静太敢说了",
+      "raw_hot": 467673,
+      "num": 467673,
+      "word": "白敬亭或将演骄阳似我男主",
       "onboard_time": 1692802479,
-      "rank": 22,
-      "category": "综艺"
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 447333,
@@ -1176,14 +1200,6 @@
       "word": "于适文戏",
       "onboard_time": 1692792937,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 392460,
-      "num": 392460,
-      "word": "白敬亭或将演骄阳似我男主",
-      "onboard_time": 1692802479,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -1355,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 332939,
+      "num": 332939,
+      "word": "把e人逼成i人的夏天",
+      "onboard_time": 1692802541,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331587,
       "num": 331587,
       "word": "李昀锐跳女团舞是专业的",
@@ -1435,14 +1459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 320454,
-      "num": 320454,
-      "word": "立秋最狠减肥法",
-      "onboard_time": 1692803141,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 319430,
       "num": 208642,
       "word": "张栋梁是被盗号了吗",
@@ -1489,6 +1505,22 @@
       "onboard_time": 1692788320,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 314542,
+      "num": 314542,
+      "word": "核污染水",
+      "onboard_time": 1692803561,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313954,
+      "num": 313954,
+      "word": "成毅开通个人ins",
+      "onboard_time": 1692803979,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 312160,
@@ -1715,14 +1747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 267462,
-      "num": 267462,
-      "word": "把e人逼成i人的夏天",
-      "onboard_time": 1692802541,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 266443,
       "num": 259618,
       "word": "魏大勋背头黑斗篷",
@@ -1771,20 +1795,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260695,
+      "num": 260695,
+      "word": "檀健次着迷舞台首秀",
+      "onboard_time": 1692802722,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259325,
       "num": 241080,
       "word": "女团健康减肥方法",
       "onboard_time": 1692774515,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258958,
-      "num": 258958,
-      "word": "檀健次着迷舞台首秀",
-      "onboard_time": 1692802722,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 257466,
@@ -1840,14 +1864,6 @@
       "word": "印度月船3号成功着陆",
       "onboard_time": 1692794497,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250433,
-      "num": 250433,
-      "word": "核污染水",
-      "onboard_time": 1692803561,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1961,14 +1977,6 @@
       "onboard_time": 1692765039,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 232069,
-      "num": 232069,
-      "word": "俞灏明多年后调侃端木磊造型",
-      "onboard_time": 1692803678,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 231590,
@@ -2155,6 +2163,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 207281,
+      "num": 207281,
+      "word": "当你讨厌的人骂了你",
+      "onboard_time": 1692804218,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 206345,
       "num": 206345,
       "word": "鞍山震感",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1692780996,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202133,
+      "num": 202133,
+      "word": "男生女生拿命来",
+      "onboard_time": 1692804337,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 201242,
@@ -2321,6 +2345,14 @@
       "onboard_time": 1692787604,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195260,
+      "num": 195260,
+      "word": "不计成本的在家做关东煮到底有多爽",
+      "onboard_time": 1692804456,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 195181,
@@ -2481,6 +2513,14 @@
       "onboard_time": 1692755320,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182634,
+      "num": 182634,
+      "word": "张大仙片场花絮",
+      "onboard_time": 1692804819,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 181830,
@@ -3027,8 +3067,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13754,
-      "num": 528840,
+      "raw_hot": 23093,
+      "num": 543748,
       "word": "南非的宝藏打卡地",
       "onboard_time": 1692802901,
       "rank": 14,

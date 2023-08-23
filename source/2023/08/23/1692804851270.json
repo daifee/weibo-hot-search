@@ -1,0 +1,410 @@
+{
+  "runTime": 1692804851270,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3422324,
+        "num": 3422324,
+        "word": "核废水",
+        "onboard_time": 1692792458,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1807850,
+        "num": 1807850,
+        "word": "挪威的房价",
+        "onboard_time": 1692799299,
+        "rank": 1,
+        "category": "财经,旅游"
+      },
+      {
+        "raw_hot": 149265,
+        "num": 1346761,
+        "word": "中国没有称王称霸的基因",
+        "onboard_time": 1692796659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1327567,
+        "num": 1327567,
+        "word": "被偷走录取通知书女生称妈妈已同意她去中戏",
+        "onboard_time": 1692801278,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856066,
+        "num": 856066,
+        "word": "七夕晚上翻了二十多个垃圾桶",
+        "onboard_time": 1692801702,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 747481,
+        "num": 747481,
+        "word": "24岁女生的退休生活",
+        "onboard_time": 1692801638,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 712759,
+        "num": 712759,
+        "word": "高考被缅语专业录取班主任劝复读",
+        "onboard_time": 1692802121,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 682967,
+        "num": 682967,
+        "word": "日媒称24号核污染水排海可能取消",
+        "onboard_time": 1692780036,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613618,
+        "num": 613618,
+        "word": "黎光有女儿了",
+        "onboard_time": 1692799962,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575092,
+        "num": 575092,
+        "word": "宁静太敢说了",
+        "onboard_time": 1692802479,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1453639,
+        "num": 574436,
+        "word": "炫富致丈夫被查妻子回应",
+        "onboard_time": 1692797076,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613280,
+        "num": 573160,
+        "word": "迪丽热巴说进组在流程中了",
+        "onboard_time": 1692800800,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565912,
+        "num": 565912,
+        "word": "导致脊柱侧弯的元凶",
+        "onboard_time": 1692798278,
+        "rank": 12,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 379890,
+        "num": 546629,
+        "word": "奶茶店遭遇120杯奶茶订单诈骗",
+        "onboard_time": 1692782018,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23093,
+        "num": 543748,
+        "word": "南非的宝藏打卡地",
+        "onboard_time": 1692802901,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542477,
+        "num": 542477,
+        "word": "俞灏明多年后调侃端木磊造型",
+        "onboard_time": 1692803678,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490914,
+        "num": 490914,
+        "word": "张桂梅 秋天的第一杯奶茶",
+        "onboard_time": 1692800139,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467673,
+        "num": 467673,
+        "word": "白敬亭或将演骄阳似我男主",
+        "onboard_time": 1692802479,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437786,
+        "num": 437786,
+        "word": "东方树叶 三得利",
+        "onboard_time": 1692776977,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 346630,
+        "num": 346630,
+        "word": "大连地震",
+        "onboard_time": 1692786399,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747899,
+        "num": 346603,
+        "word": "王祖蓝看李亚男眼神",
+        "onboard_time": 1692800738,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572004,
+        "num": 346562,
+        "word": "离婚7个月前夫晒照喜得一女",
+        "onboard_time": 1692790300,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 556534,
+        "num": 346558,
+        "word": "立秋最狠减肥法",
+        "onboard_time": 1692803141,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346507,
+        "num": 346507,
+        "word": "杨紫ins更新",
+        "onboard_time": 1692788141,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345101,
+        "num": 345101,
+        "word": "最近女生服装的特征",
+        "onboard_time": 1692800860,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 336675,
+        "num": 336675,
+        "word": "研究称吃薯条可能会抑郁",
+        "onboard_time": 1692797677,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332939,
+        "num": 332939,
+        "word": "把e人逼成i人的夏天",
+        "onboard_time": 1692802541,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329103,
+        "num": 329103,
+        "word": "姥爷总是把微信当成书信用",
+        "onboard_time": 1692797736,
+        "rank": 27,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 320005,
+        "num": 320005,
+        "word": "张晚意 你哭什么",
+        "onboard_time": 1692783279,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314542,
+        "num": 314542,
+        "word": "核污染水",
+        "onboard_time": 1692803561,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313954,
+        "num": 313954,
+        "word": "成毅开通个人ins",
+        "onboard_time": 1692803979,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311819,
+        "num": 311819,
+        "word": "enhypen 一直娱",
+        "onboard_time": 1692799602,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287592,
+        "num": 287592,
+        "word": "赵露思 每一朵花都可以长得不一样",
+        "onboard_time": 1692795999,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275724,
+        "num": 275724,
+        "word": "谁来管管装逼酒桌文化",
+        "onboard_time": 1692793238,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260695,
+        "num": 260695,
+        "word": "檀健次着迷舞台首秀",
+        "onboard_time": 1692802722,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246923,
+        "num": 246923,
+        "word": "易烊千玺没进组的那些时间",
+        "onboard_time": 1692792879,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230411,
+        "num": 230411,
+        "word": "什么事你坚持了三年以上",
+        "onboard_time": 1692798399,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221809,
+        "num": 221809,
+        "word": "莲花楼",
+        "onboard_time": 1692801338,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218422,
+        "num": 218422,
+        "word": "TFBOYS演唱会门票炒到200万系谣言",
+        "onboard_time": 1692790895,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215524,
+        "num": 215524,
+        "word": "唯一不能开进上海市区的车牌是沪C",
+        "onboard_time": 1692792038,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207281,
+        "num": 207281,
+        "word": "当你讨厌的人骂了你",
+        "onboard_time": 1692804218,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 207128,
+        "num": 207128,
+        "word": "infp的朋友圈是卖锁的吧",
+        "onboard_time": 1692791739,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 202133,
+        "num": 202133,
+        "word": "男生女生拿命来",
+        "onboard_time": 1692804337,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201210,
+        "num": 201210,
+        "word": "孤注一掷",
+        "onboard_time": 1692802838,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197817,
+        "num": 197817,
+        "word": "李昀锐跳女团舞是专业的",
+        "onboard_time": 1692799899,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197436,
+        "num": 197436,
+        "word": "GAI 大蘑菇后劲太大了",
+        "onboard_time": 1692795517,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197077,
+        "num": 197077,
+        "word": "迪丽热巴画完奶茶喝奶茶",
+        "onboard_time": 1692795937,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195260,
+        "num": 195260,
+        "word": "不计成本的在家做关东煮到底有多爽",
+        "onboard_time": 1692804456,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 183497,
+        "num": 183497,
+        "word": "协理后宫时来了五位领导",
+        "onboard_time": 1692801399,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182634,
+        "num": 182634,
+        "word": "张大仙片场花絮",
+        "onboard_time": 1692804819,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建高水平中南命运共同体#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692803824550,
+  "endTime": 1692804851270,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -427,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3422324,
+      "num": 3422324,
+      "word": "核废水",
+      "onboard_time": 1692792458,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3421424,
       "num": 566289,
       "word": "TFBOYS搂肩",
@@ -545,14 +553,6 @@
       "onboard_time": 1691311357,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3254575,
-      "num": 3254575,
-      "word": "核废水",
-      "onboard_time": 1692792458,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3252167,
@@ -10843,6 +10843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 856066,
+      "num": 856066,
+      "word": "七夕晚上翻了二十多个垃圾桶",
+      "onboard_time": 1692801702,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 855887,
       "num": 855887,
       "word": "那英 专治恋爱脑",
@@ -10865,14 +10873,6 @@
       "onboard_time": 1691309674,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 855036,
-      "num": 855036,
-      "word": "七夕晚上翻了二十多个垃圾桶",
-      "onboard_time": 1692801702,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 854956,
@@ -14123,6 +14123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 712759,
+      "num": 712759,
+      "word": "高考被缅语专业录取班主任劝复读",
+      "onboard_time": 1692802121,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 712703,
       "num": 712703,
       "word": "官方回应佳木斯建方舱医院",
@@ -16939,6 +16947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 613280,
+      "num": 573160,
+      "word": "迪丽热巴说进组在流程中了",
+      "onboard_time": 1692800800,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613171,
       "num": 613171,
       "word": "程雷",
@@ -17097,14 +17113,6 @@
       "onboard_time": 1692586293,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 607557,
-      "num": 533180,
-      "word": "高考被缅语专业录取班主任劝复读",
-      "onboard_time": 1692802121,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 607521,
@@ -18403,6 +18411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 575092,
+      "num": 575092,
+      "word": "宁静太敢说了",
+      "onboard_time": 1692802479,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 574938,
       "num": 292848,
       "word": "驼背终于有救了",
@@ -19259,6 +19275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 556534,
+      "num": 346558,
+      "word": "立秋最狠减肥法",
+      "onboard_time": 1692803141,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 556447,
       "num": 536017,
       "word": "周深演唱会哭了",
@@ -19947,6 +19971,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 542477,
+      "num": 542477,
+      "word": "俞灏明多年后调侃端木磊造型",
+      "onboard_time": 1692803678,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 542175,
       "num": 542175,
       "word": "玱玹和相柳很难演的原因",
@@ -20481,14 +20513,6 @@
       "onboard_time": 1692341855,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529861,
-      "num": 529861,
-      "word": "迪丽热巴说进组在流程中了",
-      "onboard_time": 1692800800,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 529830,
@@ -23579,6 +23603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467673,
+      "num": 467673,
+      "word": "白敬亭或将演骄阳似我男主",
+      "onboard_time": 1692802479,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467643,
       "num": 467648,
       "word": "福岛核电站高辐射沙袋靠近一小时可致命",
@@ -23969,14 +24001,6 @@
       "onboard_time": 1692585275,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460633,
-      "num": 393364,
-      "word": "宁静太敢说了",
-      "onboard_time": 1692802479,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 460362,
@@ -28112,14 +28136,6 @@
       "word": "防风邶拿的酒瓶是小六的吗",
       "onboard_time": 1692228629,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 392460,
-      "num": 392460,
-      "word": "白敬亭或将演骄阳似我男主",
-      "onboard_time": 1692802479,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -32547,6 +32563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332939,
+      "num": 332939,
+      "word": "把e人逼成i人的夏天",
+      "onboard_time": 1692802541,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 332465,
       "num": 340483,
       "word": "爷爷奶奶接了孙孙转身就走",
@@ -33547,14 +33571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 320454,
-      "num": 320454,
-      "word": "立秋最狠减肥法",
-      "onboard_time": 1692803141,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 320420,
       "num": 320420,
       "word": "尊重比孝顺更重要",
@@ -34067,6 +34083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314542,
+      "num": 314542,
+      "word": "核污染水",
+      "onboard_time": 1692803561,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314499,
       "num": 314499,
       "word": "檀健次微博开屏",
@@ -34169,6 +34193,14 @@
       "onboard_time": 1691767361,
       "rank": 36,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 313954,
+      "num": 313954,
+      "word": "成毅开通个人ins",
+      "onboard_time": 1692803979,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 313928,
@@ -38955,14 +38987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 267462,
-      "num": 267462,
-      "word": "把e人逼成i人的夏天",
-      "onboard_time": 1692802541,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 267453,
       "num": 267453,
       "word": "辅警夜跑救了个被裸聊诈骗的小伙",
@@ -39739,6 +39763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260695,
+      "num": 260695,
+      "word": "檀健次着迷舞台首秀",
+      "onboard_time": 1692802722,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 260692,
       "num": 260692,
       "word": "莲花楼警示tips",
@@ -39961,14 +39993,6 @@
       "onboard_time": 1692673237,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 258958,
-      "num": 258958,
-      "word": "檀健次着迷舞台首秀",
-      "onboard_time": 1692802722,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 258891,
@@ -40857,14 +40881,6 @@
       "onboard_time": 1691939141,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250433,
-      "num": 250433,
-      "word": "核污染水",
-      "onboard_time": 1692803561,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250422,
@@ -43113,14 +43129,6 @@
       "onboard_time": 1691502279,
       "rank": 47,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 232069,
-      "num": 232069,
-      "word": "俞灏明多年后调侃端木磊造型",
-      "onboard_time": 1692803678,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 232027,
@@ -46875,6 +46883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207281,
+      "num": 207281,
+      "word": "当你讨厌的人骂了你",
+      "onboard_time": 1692804218,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 207240,
       "num": 207240,
       "word": "宣璐民国大小姐造型",
@@ -48049,6 +48065,14 @@
       "onboard_time": 1691591259,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202133,
+      "num": 202133,
+      "word": "男生女生拿命来",
+      "onboard_time": 1692804337,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 202111,
@@ -49721,6 +49745,14 @@
       "onboard_time": 1691140474,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 195260,
+      "num": 195260,
+      "word": "不计成本的在家做关东煮到底有多爽",
+      "onboard_time": 1692804456,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 195258,
@@ -52377,6 +52409,14 @@
       "onboard_time": 1691248968,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182634,
+      "num": 182634,
+      "word": "张大仙片场花絮",
+      "onboard_time": 1692804819,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 182616,
@@ -60835,6 +60875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23093,
+      "num": 543748,
+      "word": "南非的宝藏打卡地",
+      "onboard_time": 1692802901,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22677,
       "num": 22190,
       "word": "成年后每个人都有自己的生活挑战",
@@ -61016,14 +61064,6 @@
       "word": "现场直击2023快手光合创作者大会",
       "onboard_time": 1691636433,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13754,
-      "num": 528840,
-      "word": "南非的宝藏打卡地",
-      "onboard_time": 1692802901,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
