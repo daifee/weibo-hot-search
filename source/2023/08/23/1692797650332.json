@@ -1,0 +1,410 @@
+{
+  "runTime": 1692797650332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1876589,
+        "num": 1876589,
+        "word": "日媒称24号核污染水排海可能取消",
+        "onboard_time": 1692780036,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1704035,
+        "num": 1704035,
+        "word": "奶茶店遭遇120杯奶茶订单诈骗",
+        "onboard_time": 1692782018,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113211,
+        "num": 1449130,
+        "word": "中国没有称王称霸的基因",
+        "onboard_time": 1692796659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1309485,
+        "num": 1309485,
+        "word": "大连地震",
+        "onboard_time": 1692786399,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874904,
+        "num": 874904,
+        "word": "印度月球探测器登月成功",
+        "onboard_time": 1692794735,
+        "rank": 4,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 780167,
+        "num": 780167,
+        "word": "谁来管管装逼酒桌文化",
+        "onboard_time": 1692793238,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639004,
+        "num": 639004,
+        "word": "东方树叶 三得利",
+        "onboard_time": 1692776977,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 634769,
+        "num": 634769,
+        "word": "岑先生直播",
+        "onboard_time": 1692794018,
+        "rank": 7,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 478838,
+        "num": 478838,
+        "word": "核废水",
+        "onboard_time": 1692792458,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636753,
+        "num": 475514,
+        "word": "TFBOYS演唱会门票炒到200万系谣言",
+        "onboard_time": 1692790895,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1635517,
+        "num": 475076,
+        "word": "唯一不能开进上海市区的车牌是沪C",
+        "onboard_time": 1692792038,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568583,
+        "num": 468368,
+        "word": "迪丽热巴画完奶茶喝奶茶",
+        "onboard_time": 1692795937,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547206,
+        "num": 467076,
+        "word": "易烊千玺没进组的那些时间",
+        "onboard_time": 1692792879,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 558335,
+        "num": 463562,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1692795760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26556,
+        "num": 457431,
+        "word": "展望中南关系下一个25年",
+        "onboard_time": 1692795699,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456616,
+        "num": 456616,
+        "word": "印度探测器尝试月球表面软着陆",
+        "onboard_time": 1692794981,
+        "rank": 15,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 443427,
+        "num": 443427,
+        "word": "赵露思 每一朵花都可以长得不一样",
+        "onboard_time": 1692795999,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438737,
+        "num": 438737,
+        "word": "张晚意 你哭什么",
+        "onboard_time": 1692783279,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389798,
+        "num": 389798,
+        "word": "欧美圈为什么不能叫欧娱",
+        "onboard_time": 1692786095,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 345210,
+        "num": 345210,
+        "word": "邓为长相思有效出演",
+        "onboard_time": 1692795157,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 848967,
+        "num": 340543,
+        "word": "离婚7个月前夫晒照喜得一女",
+        "onboard_time": 1692790300,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 544633,
+        "num": 327559,
+        "word": "猴哥唯一一次被骗",
+        "onboard_time": 1692793118,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 419337,
+        "num": 317737,
+        "word": "杨紫ins更新",
+        "onboard_time": 1692788141,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353686,
+        "num": 298087,
+        "word": "infp的朋友圈是卖锁的吧",
+        "onboard_time": 1692791739,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 347969,
+        "num": 293626,
+        "word": "不敢相信陈紫函48岁了",
+        "onboard_time": 1692794435,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280897,
+        "num": 280897,
+        "word": "迪丽热巴画的男粉",
+        "onboard_time": 1692796060,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279877,
+        "num": 279877,
+        "word": "云南一16岁女孩被同学父亲强奸产子",
+        "onboard_time": 1692783939,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269327,
+        "num": 269327,
+        "word": "公司团建给员工发3500元自由安排",
+        "onboard_time": 1692788381,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 268639,
+        "num": 268639,
+        "word": "消费降级但衣品提升了",
+        "onboard_time": 1692788677,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268008,
+        "num": 268008,
+        "word": "GAI 大蘑菇后劲太大了",
+        "onboard_time": 1692795517,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287086,
+        "num": 266908,
+        "word": "炫富致丈夫被查妻子回应",
+        "onboard_time": 1692797076,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252084,
+        "num": 252084,
+        "word": "孙颖莎",
+        "onboard_time": 1692792697,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246784,
+        "num": 246784,
+        "word": "胡歌吴磊17年命运齿轮转动",
+        "onboard_time": 1692794435,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243349,
+        "num": 243349,
+        "word": "于适文戏",
+        "onboard_time": 1692792937,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239366,
+        "num": 239366,
+        "word": "杨幂cue唐嫣NG名场面",
+        "onboard_time": 1692775594,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233918,
+        "num": 233918,
+        "word": "琅琊榜熟人重聚麦乐村",
+        "onboard_time": 1692791799,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232462,
+        "num": 232462,
+        "word": "披荆斩棘初舞台光路大片",
+        "onboard_time": 1692795638,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208027,
+        "num": 208027,
+        "word": "国乒热身赛男队二团夺冠",
+        "onboard_time": 1692797498,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207966,
+        "num": 207966,
+        "word": "男朋友说西瓜一人一半",
+        "onboard_time": 1692787904,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 191276,
+        "num": 191276,
+        "word": "李维嘉 是独居非老人",
+        "onboard_time": 1692779019,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190898,
+        "num": 190898,
+        "word": "李兰迪说出了打工人的心声",
+        "onboard_time": 1692797319,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189318,
+        "num": 189318,
+        "word": "樊振东林诗栋21拍相持",
+        "onboard_time": 1692797498,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186926,
+        "num": 186926,
+        "word": "张艺兴想给熊猫唱rightback",
+        "onboard_time": 1692795699,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168872,
+        "num": 168872,
+        "word": "梁靖崑3比2王楚钦",
+        "onboard_time": 1692792337,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168460,
+        "num": 168460,
+        "word": "陈牧驰回应被工作室整破防",
+        "onboard_time": 1692794378,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166761,
+        "num": 166761,
+        "word": "暑期档首次2部影片破30亿",
+        "onboard_time": 1692789518,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163347,
+        "num": 163347,
+        "word": "金晨是30亿票房女主了",
+        "onboard_time": 1692777633,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161920,
+        "num": 161920,
+        "word": "不懂香菜拌牛肉的有难了",
+        "onboard_time": 1692789159,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156267,
+        "num": 156267,
+        "word": "林诗栋3比0王楚钦",
+        "onboard_time": 1692797619,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151739,
+        "num": 151739,
+        "word": "九岁摄影师拍的赵露思",
+        "onboard_time": 1692778960,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在金砖国家领导人第十五次会晤上的讲话#"
+    }
+  }
+}
