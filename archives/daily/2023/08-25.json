@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692905632498,
+  "endTime": 1692908247068,
   "band_list": [
     {
       "raw_hot": 2582990,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 85663,
+      "num": 48989,
+      "word": "专家谈日本核污水排海欧美反应",
+      "onboard_time": 1692904037,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78357,
       "num": 78357,
       "word": "放射性元素会如何危害人类",
@@ -483,11 +491,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46325,
-      "num": 46325,
-      "word": "专家谈日本核污水排海欧美反应",
-      "onboard_time": 1692904037,
-      "rank": 23,
+      "raw_hot": 54779,
+      "num": 40692,
+      "word": "日本专家称核污水排海是早就决定好的",
+      "onboard_time": 1692905296,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35280,
+      "num": 29959,
+      "word": "解救被困缅甸的中科院博士",
+      "onboard_time": 1692903497,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30206,
       "num": 30206,
       "word": "五月天泉州见",
@@ -524,11 +540,27 @@
     },
     {
       "raw_hot": 26964,
-      "num": 28334,
+      "num": 29876,
       "word": "官方回应网友晒高副处长的礼物",
       "onboard_time": 1692904097,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26409,
+      "num": 29895,
+      "word": "富士山什么时候觉醒",
+      "onboard_time": 1692904396,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23233,
+      "num": 29889,
+      "word": "袁弘说好喜欢燃冬",
+      "onboard_time": 1692907934,
+      "rank": 39,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
