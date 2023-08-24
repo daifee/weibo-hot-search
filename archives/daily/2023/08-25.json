@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692901237380,
+  "endTime": 1692902042815,
   "band_list": [
     {
       "raw_hot": 2582990,
@@ -139,20 +139,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 432111,
+      "num": 432111,
+      "word": "日本政府已向儿童发核污水安全传单",
+      "onboard_time": 1692876645,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431815,
       "num": 431815,
       "word": "红色海滩的海水如血液般殷红",
       "onboard_time": 1692886018,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 428301,
-      "num": 426278,
-      "word": "日本政府已向儿童发核污水安全传单",
-      "onboard_time": 1692876645,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 419705,
@@ -459,6 +459,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 69216,
+      "num": 69216,
+      "word": "BLACKPINK首尔演唱会会是最后合体吗",
+      "onboard_time": 1692900920,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 68367,
       "num": 1367397,
       "word": "六国获邀加入金砖国家合作机制",
@@ -467,16 +475,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56471,
-      "num": 56471,
-      "word": "BLACKPINK首尔演唱会会是最后合体吗",
-      "onboard_time": 1692900920,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 53463,
-      "num": 53463,
+      "raw_hot": 65615,
+      "num": 65615,
       "word": "体毛会越刮越多吗",
       "onboard_time": 1692900859,
       "rank": 42,
@@ -489,6 +489,14 @@
       "onboard_time": 1692880923,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42766,
+      "num": 42766,
+      "word": "东电称核污水排海有问题将停止",
+      "onboard_time": 1692900618,
+      "rank": 45,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
