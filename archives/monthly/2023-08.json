@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692897281355,
+  "endTime": 1692898440612,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -52331,6 +52331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194627,
+      "num": 194627,
+      "word": "哪部是你最爱的暑期档电影",
+      "onboard_time": 1692897385,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194590,
       "num": 196369,
       "word": "邓紫棋剪新刘海",
@@ -61025,6 +61033,14 @@
       "onboard_time": 1691528653,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89114,
+      "num": 89114,
+      "word": "景甜冯绍峰吻戏一动不动",
+      "onboard_time": 1692897985,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 89040,
