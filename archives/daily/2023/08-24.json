@@ -1,6 +1,6 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692855243022,
+  "endTime": 1692858083167,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4363032,
+      "num": 4363032,
+      "word": "海关总署全面暂停进口日本水产品",
+      "onboard_time": 1692855843,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3826487,
       "num": 3826487,
       "word": "外交部就日本启动核污染水排海发表谈话",
@@ -55,6 +63,14 @@
       "num": 3251830,
       "word": "今天的核污染水排放量预计为200到210吨",
       "onboard_time": 1692846521,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2928895,
+      "num": 622063,
+      "word": "美驻日大使称赞日本排海要尝福岛海鲜",
+      "onboard_time": 1692852254,
       "rank": 16,
       "category": "社会新闻"
     },
@@ -81,14 +97,6 @@
       "onboard_time": 1692812121,
       "rank": 0,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 2478870,
-      "num": 622063,
-      "word": "美驻日大使称赞日本排海要尝福岛海鲜",
-      "onboard_time": 1692852254,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2466723,
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1274328,
+      "num": 1274328,
+      "word": "AI换脸换声让已故演员重现屏幕",
+      "onboard_time": 1692855004,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1247318,
       "num": 1128691,
       "word": "瓦格纳集团称普里戈任被叛徒杀害",
@@ -232,6 +248,14 @@
       "word": "日本前首相批排污入海",
       "onboard_time": 1692847185,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1128503,
+      "num": 420774,
+      "word": "韩国民众集会抗议日本排放核污染水",
+      "onboard_time": 1692856020,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -379,6 +403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781440,
+      "num": 781440,
+      "word": "日料",
+      "onboard_time": 1692857584,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 773723,
+      "num": 346838,
+      "word": "切尔诺贝利",
+      "onboard_time": 1692854762,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767934,
       "num": 767934,
       "word": "海洋肥牛卷",
@@ -411,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 725903,
+      "num": 365825,
+      "word": "日本将用700亿日元处理核污染水负面信息",
+      "onboard_time": 1692857343,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714166,
+      "num": 380687,
+      "word": "福岛核电站附近渔港宛如无人区",
+      "onboard_time": 1692856140,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698755,
       "num": 698755,
       "word": "七夕晚上翻了二十多个垃圾桶",
@@ -419,12 +475,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 688933,
+      "num": 340572,
+      "word": "韩称若日本核污水排放不合标准将提起国际诉讼",
+      "onboard_time": 1692855190,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 662676,
       "num": 504323,
       "word": "纯甄 长相思",
       "onboard_time": 1692847843,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 641993,
+      "num": 403060,
+      "word": "福建人可三天无肉不能两顿没海鲜",
+      "onboard_time": 1692857343,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 641066,
@@ -473,6 +545,22 @@
       "onboard_time": 1692803678,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 566995,
+      "num": 373630,
+      "word": "冯绍峰一直跟在景甜后面",
+      "onboard_time": 1692855062,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 555914,
+      "num": 555914,
+      "word": "李一桐怎么化个妆都这么快乐啊",
+      "onboard_time": 1692855606,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 546255,
@@ -587,6 +675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 474263,
+      "num": 352997,
+      "word": "王一博躺小海肚子上",
+      "onboard_time": 1692856319,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 464887,
       "num": 297530,
       "word": "王祖蓝看李亚男眼神",
@@ -649,6 +745,14 @@
       "onboard_time": 1692840880,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 421517,
+      "num": 421517,
+      "word": "蒋依依一直把敖子逸送的手镯戴在身上",
+      "onboard_time": 1692856562,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 409335,
@@ -747,14 +851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 362890,
-      "num": 335449,
-      "word": "切尔诺贝利",
-      "onboard_time": 1692854762,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 362756,
       "num": 362756,
       "word": "孙阳说于适比他红",
@@ -803,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348132,
+      "num": 348132,
+      "word": "日本怪兽刺身",
+      "onboard_time": 1692858055,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342469,
       "num": 342469,
       "word": "朝鲜宣布军事侦察卫星试射失败",
@@ -817,14 +921,6 @@
       "onboard_time": 1692804337,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 336150,
-      "num": 336150,
-      "word": "AI换脸换声让已故演员重现屏幕",
-      "onboard_time": 1692855004,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334569,
@@ -889,6 +985,22 @@
       "onboard_time": 1692839984,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 308814,
+      "num": 308814,
+      "word": "日本核污染水排放会影响哪里",
+      "onboard_time": 1692856319,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303888,
+      "num": 303888,
+      "word": "韩国将维持对日本福岛水产品的进口禁令不变",
+      "onboard_time": 1692857041,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303321,
@@ -1035,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248157,
-      "num": 248157,
-      "word": "韩称若日本核污水排放不合标准将提起国际诉讼",
-      "onboard_time": 1692855190,
-      "rank": 46,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 247680,
       "num": 247680,
       "word": "喜欢一个人能做到什么地步",
@@ -1051,20 +1155,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242595,
-      "num": 242595,
-      "word": "冯绍峰一直跟在景甜后面",
-      "onboard_time": 1692855062,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 241403,
-      "num": 241403,
+      "raw_hot": 244324,
+      "num": 244324,
       "word": "直击日本民众抗议福岛核污水排海",
       "onboard_time": 1692855122,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 241799,
+      "num": 241799,
+      "word": "福岛核污染水最新动态",
+      "onboard_time": 1692856500,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238640,
@@ -1081,6 +1185,14 @@
       "onboard_time": 1692805595,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232572,
+      "num": 232572,
+      "word": "福岛排放核污水地区瞬时辐射量增加",
+      "onboard_time": 1692858055,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229797,
@@ -1105,6 +1217,14 @@
       "onboard_time": 1692805832,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219982,
+      "num": 219982,
+      "word": "刘宇郑乃馨挑战苍兰诀",
+      "onboard_time": 1692856442,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 219935,
@@ -1233,6 +1353,14 @@
       "onboard_time": 1692795999,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192726,
+      "num": 5683550,
+      "word": "杭州亚运主题歌曲发布",
+      "onboard_time": 1692856799,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 191644,
