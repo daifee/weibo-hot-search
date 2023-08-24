@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692842432025,
+  "endTime": 1692843657859,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -115,7 +115,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9109000,
+      "raw_hot": 9244861,
       "num": 9521689,
       "word": "日本核污染水下午排入海洋",
       "onboard_time": 1692834032,
@@ -1273,6 +1273,14 @@
       "onboard_time": 1691145875,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2583541,
+      "num": 2583541,
+      "word": "普京紧急返回莫斯科",
+      "onboard_time": 1692840582,
+      "rank": 10,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 2582959,
@@ -4033,14 +4041,6 @@
       "onboard_time": 1691584774,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1602359,
-      "num": 668616,
-      "word": "普京紧急返回莫斯科",
-      "onboard_time": 1692840582,
-      "rank": 10,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 1600126,
@@ -6891,6 +6891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1172165,
+      "num": 1172165,
+      "word": "拜登称普京可能是幕后黑手",
+      "onboard_time": 1692837706,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1170663,
       "num": 1170663,
       "word": "易烊千玺去看薛之谦演唱会",
@@ -7153,14 +7161,6 @@
       "onboard_time": 1691486737,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1141657,
-      "num": 1141657,
-      "word": "拜登称普京可能是幕后黑手",
-      "onboard_time": 1692837706,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1141593,
@@ -9403,6 +9403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 949978,
+      "num": 949978,
+      "word": "燃冬票房就像豆汁儿",
+      "onboard_time": 1692838843,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 949830,
       "num": 949830,
       "word": "DK",
@@ -10129,14 +10137,6 @@
       "onboard_time": 1691931577,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 901630,
-      "num": 901630,
-      "word": "燃冬票房就像豆汁儿",
-      "onboard_time": 1692838843,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 901216,
@@ -13355,6 +13355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742145,
+      "num": 742145,
+      "word": "吃下核污染食品后果有多严重",
+      "onboard_time": 1692838903,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741185,
       "num": 741185,
       "word": "幸亏过路女司机凌晨多看了两眼",
@@ -13665,6 +13673,14 @@
       "onboard_time": 1692596198,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 730922,
+      "num": 730922,
+      "word": "民警在财务员手机里检测出3个高危APP",
+      "onboard_time": 1692840764,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 730828,
@@ -14281,14 +14297,6 @@
       "onboard_time": 1692178118,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 712551,
-      "num": 712551,
-      "word": "民警在财务员手机里检测出3个高危APP",
-      "onboard_time": 1692840764,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 711783,
@@ -15161,14 +15169,6 @@
       "onboard_time": 1691935903,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 677298,
-      "num": 381888,
-      "word": "吃下核污染食品后果有多严重",
-      "onboard_time": 1692838903,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 676946,
@@ -16203,6 +16203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641066,
+      "num": 641066,
+      "word": "苏可居然是中戏表演老师",
+      "onboard_time": 1692841300,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 640985,
       "num": 627504,
       "word": "涂山璟深情告白小夭",
@@ -17163,6 +17171,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 611758,
+      "num": 381580,
+      "word": "虞书欣敢穿",
+      "onboard_time": 1692840164,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 611701,
       "num": 578156,
       "word": "迪丽热巴手写信",
@@ -17883,14 +17899,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 590546,
-      "num": 590546,
-      "word": "苏可居然是中戏表演老师",
-      "onboard_time": 1692841300,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 590086,
       "num": 590086,
       "word": "魏大勋今晚还是黑西装",
@@ -18033,14 +18041,6 @@
       "onboard_time": 1692803678,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 588756,
-      "num": 381580,
-      "word": "虞书欣敢穿",
-      "onboard_time": 1692840164,
-      "rank": 35,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 588690,
@@ -20689,6 +20689,14 @@
       "onboard_time": 1690978540,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 531839,
+      "num": 531839,
+      "word": "女生考研时查出尿毒症男友不离不弃",
+      "onboard_time": 1692841961,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 531734,
@@ -26339,14 +26347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 424764,
-      "num": 424764,
-      "word": "女生考研时查出尿毒症男友不离不弃",
-      "onboard_time": 1692841961,
-      "rank": 17,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 424747,
       "num": 424747,
       "word": "T杂志集齐TFBOYS",
@@ -28851,6 +28851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 386065,
+      "num": 386065,
+      "word": "坠机现场发现普里戈任手机",
+      "onboard_time": 1692840880,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 386034,
       "num": 386034,
       "word": "飞机上收到来自陌生人的airdrop",
@@ -29169,14 +29177,6 @@
       "onboard_time": 1692598417,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382099,
-      "num": 382099,
-      "word": "坠机现场发现普里戈任手机",
-      "onboard_time": 1692840880,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 381917,
@@ -36115,6 +36115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297286,
+      "num": 297286,
+      "word": "梅西绝平助攻",
+      "onboard_time": 1692841600,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297252,
       "num": 297252,
       "word": "罗云熙和Doinb搭档打比赛",
@@ -37675,6 +37683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282840,
+      "num": 282840,
+      "word": "燃冬",
+      "onboard_time": 1691726376,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282833,
       "num": 282833,
       "word": "成毅 游戏黑洞",
@@ -38529,14 +38545,6 @@
       "onboard_time": 1691726737,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275134,
-      "num": 275134,
-      "word": "燃冬",
-      "onboard_time": 1691726376,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 274744,
@@ -39427,6 +39435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267013,
+      "num": 267013,
+      "word": "Netflix史前生物纪录片星球生灵中字预告",
+      "onboard_time": 1692840701,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267011,
       "num": 305902,
       "word": "T1对战KT",
@@ -39784,6 +39800,14 @@
       "word": "杨洋凡人修仙传逛灯会路透",
       "onboard_time": 1691647112,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 263495,
+      "num": 263495,
+      "word": "邓为白衣骑马路透",
+      "onboard_time": 1692841060,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -40563,14 +40587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 257513,
-      "num": 257513,
-      "word": "Netflix史前生物纪录片星球生灵中字预告",
-      "onboard_time": 1692840701,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 257466,
       "num": 208293,
       "word": "一路朝阳 国产真实职场剧",
@@ -40977,14 +40993,6 @@
       "onboard_time": 1692459399,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 253926,
-      "num": 253926,
-      "word": "邓为白衣骑马路透",
-      "onboard_time": 1692841060,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 253875,
@@ -45233,14 +45241,6 @@
       "onboard_time": 1692666765,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219452,
-      "num": 219452,
-      "word": "梅西绝平助攻",
-      "onboard_time": 1692841600,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 219314,
@@ -50993,6 +50993,14 @@
       "onboard_time": 1692696399,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192353,
+      "num": 192353,
+      "word": "喜欢一个人能做到什么地步",
+      "onboard_time": 1692842501,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 192317,

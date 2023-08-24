@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692842432025,
+  "endTime": 1692843657859,
   "band_list": [
     {
       "raw_hot": 11115797,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9109000,
+      "raw_hot": 9244861,
       "num": 9521689,
       "word": "日本核污染水下午排入海洋",
       "onboard_time": 1692834032,
@@ -177,6 +177,14 @@
       "onboard_time": 1692769357,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2583541,
+      "num": 2583541,
+      "word": "普京紧急返回莫斯科",
+      "onboard_time": 1692840582,
+      "rank": 10,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 2573335,
@@ -595,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1602359,
-      "num": 668616,
-      "word": "普京紧急返回莫斯科",
-      "onboard_time": 1692840582,
-      "rank": 10,
-      "category": "国外要闻,社会新闻"
-    },
-    {
       "raw_hot": 1600126,
       "num": 1600126,
       "word": "吴昕说李维嘉是独居老人",
@@ -939,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1172165,
+      "num": 1172165,
+      "word": "拜登称普京可能是幕后黑手",
+      "onboard_time": 1692837706,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1171581,
       "num": 1171581,
       "word": "蝉女",
@@ -969,14 +977,6 @@
       "onboard_time": 1692587496,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1141657,
-      "num": 1141657,
-      "word": "拜登称普京可能是幕后黑手",
-      "onboard_time": 1692837706,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1141593,
@@ -1251,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 949978,
+      "num": 949978,
+      "word": "燃冬票房就像豆汁儿",
+      "onboard_time": 1692838843,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 948095,
       "num": 948095,
       "word": "本周狗屎运最旺的星座",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1692676720,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 901630,
-      "num": 901630,
-      "word": "燃冬票房就像豆汁儿",
-      "onboard_time": 1692838843,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 891498,
@@ -1787,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742145,
+      "num": 742145,
+      "word": "吃下核污染食品后果有多严重",
+      "onboard_time": 1692838903,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 739837,
       "num": 451889,
       "word": "邓为工作室是知道我们想看什么的",
@@ -1825,6 +1833,14 @@
       "onboard_time": 1692596198,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 730922,
+      "num": 730922,
+      "word": "民警在财务员手机里检测出3个高危APP",
+      "onboard_time": 1692840764,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 729366,
@@ -1923,14 +1939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 712551,
-      "num": 712551,
-      "word": "民警在财务员手机里检测出3个高危APP",
-      "onboard_time": 1692840764,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 697180,
       "num": 697180,
       "word": "骄阳似我",
@@ -1968,14 +1976,6 @@
       "word": "突发心梗 4个千万不能做和一定要做",
       "onboard_time": 1692544482,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 677298,
-      "num": 381888,
-      "word": "吃下核污染食品后果有多严重",
-      "onboard_time": 1692838903,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2131,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641066,
+      "num": 641066,
+      "word": "苏可居然是中戏表演老师",
+      "onboard_time": 1692841300,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 640758,
       "num": 640758,
       "word": "长沙的烧烤分量真的这么少吗",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1692587975,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 611758,
+      "num": 381580,
+      "word": "虞书欣敢穿",
+      "onboard_time": 1692840164,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 611527,
@@ -2395,14 +2411,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 590546,
-      "num": 590546,
-      "word": "苏可居然是中戏表演老师",
-      "onboard_time": 1692841300,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 590052,
       "num": 590052,
       "word": "涂山璟当爹",
@@ -2433,14 +2441,6 @@
       "onboard_time": 1692803678,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 588756,
-      "num": 381580,
-      "word": "虞书欣敢穿",
-      "onboard_time": 1692840164,
-      "rank": 35,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 586731,
@@ -2761,6 +2761,14 @@
       "onboard_time": 1692690883,
       "rank": 18,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 531839,
+      "num": 531839,
+      "word": "女生考研时查出尿毒症男友不离不弃",
+      "onboard_time": 1692841961,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 530823,
@@ -3547,14 +3555,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 424764,
-      "num": 424764,
-      "word": "女生考研时查出尿毒症男友不离不弃",
-      "onboard_time": 1692841961,
-      "rank": 17,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 424664,
       "num": 331788,
       "word": "迪丽热巴演我买首饰",
@@ -3891,6 +3891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386065,
+      "num": 386065,
+      "word": "坠机现场发现普里戈任手机",
+      "onboard_time": 1692840880,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 385654,
       "num": 359448,
       "word": "王阳回应与李兰迪演情侣",
@@ -3913,14 +3921,6 @@
       "onboard_time": 1692598417,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382099,
-      "num": 382099,
-      "word": "坠机现场发现普里戈任手机",
-      "onboard_time": 1692840880,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 381730,
@@ -5035,6 +5035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297286,
+      "num": 297286,
+      "word": "梅西绝平助攻",
+      "onboard_time": 1692841600,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297055,
       "num": 297055,
       "word": "封神",
@@ -5307,6 +5315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282840,
+      "num": 282840,
+      "word": "燃冬",
+      "onboard_time": 1692749322,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281977,
       "num": 280480,
       "word": "七夕前一天被喜欢的人表白了",
@@ -5377,14 +5393,6 @@
       "onboard_time": 1692769477,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275134,
-      "num": 275134,
-      "word": "燃冬",
-      "onboard_time": 1692749322,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 274676,
@@ -5547,6 +5555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267013,
+      "num": 267013,
+      "word": "Netflix史前生物纪录片星球生灵中字预告",
+      "onboard_time": 1692840701,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266443,
       "num": 259618,
       "word": "魏大勋背头黑斗篷",
@@ -5585,6 +5601,14 @@
       "onboard_time": 1692572543,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263495,
+      "num": 263495,
+      "word": "邓为白衣骑马路透",
+      "onboard_time": 1692841060,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 263438,
@@ -5731,14 +5755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257513,
-      "num": 257513,
-      "word": "Netflix史前生物纪录片星球生灵中字预告",
-      "onboard_time": 1692840701,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 257466,
       "num": 208293,
       "word": "一路朝阳 国产真实职场剧",
@@ -5801,14 +5817,6 @@
       "onboard_time": 1692680204,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253926,
-      "num": 253926,
-      "word": "邓为白衣骑马路透",
-      "onboard_time": 1692841060,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 253048,
@@ -6363,14 +6371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219452,
-      "num": 219452,
-      "word": "梅西绝平助攻",
-      "onboard_time": 1692841600,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219080,
       "num": 219080,
       "word": "好想过这种没意思的生活",
@@ -6585,6 +6585,14 @@
       "onboard_time": 1692591881,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209957,
+      "num": 209957,
+      "word": "逆水寒",
+      "onboard_time": 1692842800,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 209729,
@@ -7297,6 +7305,14 @@
       "onboard_time": 1692696399,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192353,
+      "num": 192353,
+      "word": "喜欢一个人能做到什么地步",
+      "onboard_time": 1692842501,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 192268,

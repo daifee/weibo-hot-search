@@ -1,9 +1,9 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692842432025,
+  "endTime": 1692843657859,
   "band_list": [
     {
-      "raw_hot": 9109000,
+      "raw_hot": 9244861,
       "num": 9521689,
       "word": "日本核污染水下午排入海洋",
       "onboard_time": 1692834032,
@@ -25,6 +25,14 @@
       "onboard_time": 1692812121,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2583541,
+      "num": 2583541,
+      "word": "普京紧急返回莫斯科",
+      "onboard_time": 1692840582,
+      "rank": 10,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 2466723,
@@ -49,14 +57,6 @@
       "onboard_time": 1692832467,
       "rank": 27,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1602359,
-      "num": 668616,
-      "word": "普京紧急返回莫斯科",
-      "onboard_time": 1692840582,
-      "rank": 10,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 1475986,
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1141657,
-      "num": 1141657,
+      "raw_hot": 1172165,
+      "num": 1172165,
       "word": "拜登称普京可能是幕后黑手",
       "onboard_time": 1692837706,
       "rank": 10,
@@ -131,8 +131,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 901630,
-      "num": 901630,
+      "raw_hot": 949978,
+      "num": 949978,
       "word": "燃冬票房就像豆汁儿",
       "onboard_time": 1692838843,
       "rank": 32,
@@ -187,8 +187,16 @@
       "category": "其它"
     },
     {
-      "raw_hot": 712551,
-      "num": 712551,
+      "raw_hot": 742145,
+      "num": 742145,
+      "word": "吃下核污染食品后果有多严重",
+      "onboard_time": 1692838903,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730922,
+      "num": 730922,
       "word": "民警在财务员手机里检测出3个高危APP",
       "onboard_time": 1692840764,
       "rank": 8,
@@ -203,12 +211,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 677298,
-      "num": 381888,
-      "word": "吃下核污染食品后果有多严重",
-      "onboard_time": 1692838903,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 641066,
+      "num": 641066,
+      "word": "苏可居然是中戏表演老师",
+      "onboard_time": 1692841300,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 611758,
+      "num": 381580,
+      "word": "虞书欣敢穿",
+      "onboard_time": 1692840164,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 604434,
@@ -227,28 +243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 590546,
-      "num": 590546,
-      "word": "苏可居然是中戏表演老师",
-      "onboard_time": 1692841300,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 588901,
       "num": 588901,
       "word": "俞灏明多年后调侃端木磊造型",
       "onboard_time": 1692803678,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 588756,
-      "num": 381580,
-      "word": "虞书欣敢穿",
-      "onboard_time": 1692840164,
-      "rank": 35,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 546255,
@@ -273,6 +273,14 @@
       "onboard_time": 1692813019,
       "rank": 3,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 531839,
+      "num": 531839,
+      "word": "女生考研时查出尿毒症男友不离不弃",
+      "onboard_time": 1692841961,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 530823,
@@ -355,14 +363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 424764,
-      "num": 424764,
-      "word": "女生考研时查出尿毒症男友不离不弃",
-      "onboard_time": 1692841961,
-      "rank": 17,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 409335,
       "num": 311411,
       "word": "离婚7个月前夫晒照喜得一女",
@@ -379,8 +379,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 382099,
-      "num": 382099,
+      "raw_hot": 386065,
+      "num": 386065,
       "word": "坠机现场发现普里戈任手机",
       "onboard_time": 1692840880,
       "rank": 19,
@@ -539,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297286,
+      "num": 297286,
+      "word": "梅西绝平助攻",
+      "onboard_time": 1692841600,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296680,
       "num": 296680,
       "word": "晚上10点宠物医院人均两位陪护",
@@ -571,28 +579,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 258105,
-      "num": 258105,
-      "word": "最近女生服装的特征",
-      "onboard_time": 1692800860,
-      "rank": 26,
-      "category": "时尚"
+      "raw_hot": 282840,
+      "num": 282840,
+      "word": "燃冬",
+      "onboard_time": 1692843280,
+      "rank": 30,
+      "category": "影视"
     },
     {
-      "raw_hot": 257513,
-      "num": 257513,
+      "raw_hot": 267013,
+      "num": 267013,
       "word": "Netflix史前生物纪录片星球生灵中字预告",
       "onboard_time": 1692840701,
       "rank": 36,
       "category": "影视"
     },
     {
-      "raw_hot": 253926,
-      "num": 253926,
+      "raw_hot": 263495,
+      "num": 263495,
       "word": "邓为白衣骑马路透",
       "onboard_time": 1692841060,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258105,
+      "num": 258105,
+      "word": "最近女生服装的特征",
+      "onboard_time": 1692800860,
+      "rank": 26,
+      "category": "时尚"
     },
     {
       "raw_hot": 253692,
@@ -651,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219452,
-      "num": 219452,
-      "word": "梅西绝平助攻",
-      "onboard_time": 1692841600,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218939,
       "num": 218939,
       "word": "infp的朋友圈是卖锁的吧",
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209957,
+      "num": 209957,
+      "word": "逆水寒",
+      "onboard_time": 1692842800,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200499,
       "num": 200499,
       "word": "原来大熊猫有42颗牙",
@@ -729,6 +745,14 @@
       "onboard_time": 1692795999,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192353,
+      "num": 192353,
+      "word": "喜欢一个人能做到什么地步",
+      "onboard_time": 1692842501,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 191644,
