@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692908247068,
+  "endTime": 1692909252860,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -61043,6 +61043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89113,
+      "num": 54562,
+      "word": "专家谈日本核污水排海欧美反应",
+      "onboard_time": 1692904037,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89040,
       "num": 89040,
       "word": "EDG止步六强",
@@ -61176,14 +61184,6 @@
       "word": "男孩饮品洒地铁家长以身作则清理",
       "onboard_time": 1691989237,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85663,
-      "num": 48989,
-      "word": "专家谈日本核污水排海欧美反应",
-      "onboard_time": 1692904037,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -63387,6 +63387,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 28895,
+      "num": 29889,
+      "word": "袁弘说好喜欢燃冬",
+      "onboard_time": 1692907934,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 28822,
       "num": 35441,
       "word": "不同的天气你都在追的同一部剧",
@@ -63425,6 +63433,14 @@
       "onboard_time": 1691866936,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 28174,
+      "num": 29895,
+      "word": "富士山什么时候觉醒",
+      "onboard_time": 1692904396,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28147,
@@ -63553,14 +63569,6 @@
       "onboard_time": 1692645434,
       "rank": 43,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 26409,
-      "num": 29895,
-      "word": "富士山什么时候觉醒",
-      "onboard_time": 1692904396,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26393,
@@ -63721,14 +63729,6 @@
       "onboard_time": 1691871075,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 23233,
-      "num": 29889,
-      "word": "袁弘说好喜欢燃冬",
-      "onboard_time": 1692907934,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 23093,

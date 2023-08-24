@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692908247068,
+  "endTime": 1692909252860,
   "band_list": [
     {
       "raw_hot": 2582990,
@@ -451,8 +451,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 85663,
-      "num": 48989,
+      "raw_hot": 89113,
+      "num": 54562,
       "word": "专家谈日本核污水排海欧美反应",
       "onboard_time": 1692904037,
       "rank": 23,
@@ -539,15 +539,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26964,
-      "num": 29876,
-      "word": "官方回应网友晒高副处长的礼物",
-      "onboard_time": 1692904097,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 28895,
+      "num": 29889,
+      "word": "袁弘说好喜欢燃冬",
+      "onboard_time": 1692907934,
+      "rank": 39,
+      "category": "影视"
     },
     {
-      "raw_hot": 26409,
+      "raw_hot": 28174,
       "num": 29895,
       "word": "富士山什么时候觉醒",
       "onboard_time": 1692904396,
@@ -555,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23233,
-      "num": 29889,
-      "word": "袁弘说好喜欢燃冬",
-      "onboard_time": 1692907934,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 26964,
+      "num": 29876,
+      "word": "官方回应网友晒高副处长的礼物",
+      "onboard_time": 1692904097,
+      "rank": 45,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
