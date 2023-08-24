@@ -1,6 +1,6 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692887641795,
+  "endTime": 1692890232413,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1729005,
+      "num": 1729005,
+      "word": "杨超越好敢发",
+      "onboard_time": 1692885841,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1667465,
       "num": 506968,
       "word": "男子频繁开房一查发现有6个女友",
@@ -371,8 +379,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1634637,
-      "num": 1634637,
+      "raw_hot": 1666783,
+      "num": 1666783,
       "word": "韩国多个海鲜市场几乎空无一人",
       "onboard_time": 1692880379,
       "rank": 30,
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1223751,
+      "num": 1223751,
+      "word": "原来喝苹果水这么多好处",
+      "onboard_time": 1692884758,
+      "rank": 17,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 1221076,
       "num": 408704,
       "word": "联合国",
@@ -523,20 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1101441,
-      "num": 612544,
-      "word": "杨超越好敢发",
-      "onboard_time": 1692885841,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1088332,
       "num": 1081331,
       "word": "日方强行排放核污染水极端自私不负责任",
       "onboard_time": 1692851836,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1066981,
+      "num": 445599,
+      "word": "这条小鱼在乎",
+      "onboard_time": 1692887521,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1062846,
@@ -561,14 +577,6 @@
       "onboard_time": 1692862253,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1040474,
-      "num": 1040474,
-      "word": "原来喝苹果水这么多好处",
-      "onboard_time": 1692884758,
-      "rank": 17,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 1009006,
@@ -649,6 +657,14 @@
       "onboard_time": 1692846768,
       "rank": 31,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 916564,
+      "num": 695755,
+      "word": "上海多家日料店今晚生意火了",
+      "onboard_time": 1692882715,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 909482,
@@ -739,6 +755,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 803802,
+      "num": 582899,
+      "word": "日本核污染水排海4000天后海洋啥样",
+      "onboard_time": 1692887698,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785351,
+      "num": 580948,
+      "word": "贺峻霖转正了",
+      "onboard_time": 1692888651,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 781651,
       "num": 781651,
       "word": "把核污水与核废水混为一谈骗不了人",
@@ -827,12 +859,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 735488,
-      "num": 695755,
-      "word": "上海多家日料店今晚生意火了",
-      "onboard_time": 1692882715,
-      "rank": 30,
-      "category": "社会新闻,美食"
+      "raw_hot": 747198,
+      "num": 579442,
+      "word": "东京电力称核污水排海有问题将停止",
+      "onboard_time": 1692887638,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 730922,
@@ -987,6 +1019,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605136,
+      "num": 568445,
+      "word": "吃了多少根香蕉衡量辐射量",
+      "onboard_time": 1692886560,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 604783,
+      "num": 564855,
+      "word": "上海一日料店无法证明食材产地被约谈",
+      "onboard_time": 1692886256,
+      "rank": 40,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 604578,
       "num": 604578,
       "word": "Look What You Made Me Do重录版",
@@ -1131,6 +1179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538492,
+      "num": 538492,
+      "word": "萧亚轩礼服反穿",
+      "onboard_time": 1692887276,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 537505,
+      "num": 444702,
+      "word": "红色海滩的海水如血液般殷红",
+      "onboard_time": 1692886018,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 537076,
       "num": 537076,
       "word": "赴港存30万利息多6000元",
@@ -1267,14 +1331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 485410,
-      "num": 440286,
-      "word": "红色海滩的海水如血液般殷红",
-      "onboard_time": 1692886018,
-      "rank": 43,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 484580,
       "num": 484580,
       "word": "24岁女生的退休生活",
@@ -1307,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 474712,
+      "num": 474712,
+      "word": "擦掉长眼线的周扬青",
+      "onboard_time": 1692886560,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 474263,
       "num": 425197,
       "word": "王一博躺小海肚子上",
@@ -1321,14 +1385,6 @@
       "onboard_time": 1692874612,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 465828,
-      "num": 465828,
-      "word": "上海一日料店无法证明食材产地被约谈",
-      "onboard_time": 1692886256,
-      "rank": 40,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 464887,
@@ -1363,20 +1419,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455019,
+      "num": 455019,
+      "word": "加一个字毁掉一部影视作品",
+      "onboard_time": 1692889077,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449024,
       "num": 449024,
       "word": "华西医院又完成一项世界首例",
       "onboard_time": 1692877186,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444624,
-      "num": 438414,
-      "word": "吃了多少根香蕉衡量辐射量",
-      "onboard_time": 1692886560,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 443796,
@@ -1457,6 +1513,14 @@
       "onboard_time": 1692870355,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425218,
+      "num": 425218,
+      "word": "张晚意自己接档自己",
+      "onboard_time": 1692887456,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 421517,
@@ -1683,14 +1747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365189,
-      "num": 365189,
-      "word": "擦掉长眼线的周扬青",
-      "onboard_time": 1692886560,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 362756,
       "num": 362756,
       "word": "孙阳说于适比他红",
@@ -1737,6 +1793,14 @@
       "onboard_time": 1692846401,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 356147,
+      "num": 356147,
+      "word": "不要总觉得内向的性格就不好",
+      "onboard_time": 1692889614,
+      "rank": 36,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 353879,
@@ -1795,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343340,
+      "num": 343340,
+      "word": "贾乃亮晒与甜馨背影照",
+      "onboard_time": 1692889851,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343308,
       "num": 1359115,
       "word": "老人晒玉米遇下雨4岁孙女边哭边捡",
@@ -1827,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336579,
+      "num": 336579,
+      "word": "诺兰 豆汁儿冰淇淋",
+      "onboard_time": 1692888838,
+      "rank": 40,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 334569,
       "num": 215365,
       "word": "瓦格纳集团创始人遭遇坠机遇难",
@@ -1841,6 +1921,22 @@
       "onboard_time": 1692879960,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333397,
+      "num": 333397,
+      "word": "满眼清澈的大学生开始上班了",
+      "onboard_time": 1692888184,
+      "rank": 41,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 332728,
+      "num": 332728,
+      "word": "骄阳伴我",
+      "onboard_time": 1692890036,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 331895,
@@ -1883,6 +1979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 323415,
+      "num": 323415,
+      "word": "黄朔九宫格",
+      "onboard_time": 1692887822,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323290,
       "num": 323290,
       "word": "相柳什么时候出手",
@@ -1921,14 +2025,6 @@
       "onboard_time": 1692839984,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 311131,
-      "num": 311131,
-      "word": "萧亚轩礼服反穿",
-      "onboard_time": 1692887276,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 308814,
@@ -2307,14 +2403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232667,
-      "num": 232667,
-      "word": "张晚意自己接档自己",
-      "onboard_time": 1692887456,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 229797,
       "num": 229797,
       "word": "猴哥唯一一次被骗",
@@ -2353,14 +2441,6 @@
       "onboard_time": 1692858237,
       "rank": 45,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 221579,
-      "num": 221579,
-      "word": "这条小鱼在乎",
-      "onboard_time": 1692887521,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 221481,
@@ -2953,6 +3033,14 @@
       "onboard_time": 1692815599,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 34213,
+      "num": 585658,
+      "word": "翻阳台救下男孩后她说自己也是母亲",
+      "onboard_time": 1692889253,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33985,
