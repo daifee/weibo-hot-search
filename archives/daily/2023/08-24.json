@@ -1,7 +1,15 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692850766597,
+  "endTime": 1692851633804,
   "band_list": [
+    {
+      "raw_hot": 17348230,
+      "num": 18598230,
+      "word": "日本核污染水排海正式开始",
+      "onboard_time": 1692850025,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 14927785,
       "num": 14927785,
@@ -19,19 +27,19 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 6617622,
-      "num": 6617622,
-      "word": "日本核污染水排海正式开始",
-      "onboard_time": 1692850025,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5098498,
-      "num": 5098498,
+      "raw_hot": 5621030,
+      "num": 5621030,
       "word": "日本官员喝下核污染水4年后引退消失",
       "onboard_time": 1692848387,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2857383,
+      "num": 2857383,
+      "word": "今天的核污染水排放量预计为200到210吨",
+      "onboard_time": 1692846521,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 2312380,
-      "num": 1085282,
+      "num": 1130364,
       "word": "张亮送天天出国留学",
       "onboard_time": 1692845020,
       "rank": 11,
@@ -83,20 +91,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2213434,
-      "num": 2213434,
-      "word": "今天的核污染水排放量预计为200到210吨",
-      "onboard_time": 1692846521,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 2266582,
+      "num": 2266582,
+      "word": "杜海涛吃蜈蚣在嘴里八进八出",
+      "onboard_time": 1692849960,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 2064507,
-      "num": 359042,
+      "num": 388248,
       "word": "腾讯 李跳跳",
       "onboard_time": 1692845804,
       "rank": 30,
       "category": "科技,网红"
+    },
+    {
+      "raw_hot": 2025172,
+      "num": 2025172,
+      "word": "日本核污染水排放后约1000秒抵达大海",
+      "onboard_time": 1692849960,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1909852,
+      "num": 1909852,
+      "word": "普里戈任尸体已被初步确认",
+      "onboard_time": 1692848204,
+      "rank": 6,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1855774,
@@ -105,22 +129,6 @@
       "onboard_time": 1692832467,
       "rank": 27,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1842857,
-      "num": 1842857,
-      "word": "普里戈任尸体已被初步确认",
-      "onboard_time": 1692848204,
-      "rank": 6,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1666877,
-      "num": 1666877,
-      "word": "杜海涛吃蜈蚣在嘴里八进八出",
-      "onboard_time": 1692849960,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1475986,
@@ -171,8 +179,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1138417,
-      "num": 1138417,
+      "raw_hot": 1144612,
+      "num": 1144612,
       "word": "日本前首相批排污入海",
       "onboard_time": 1692847185,
       "rank": 31,
@@ -195,20 +203,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1009006,
+      "num": 1009006,
+      "word": "日本在拿全人类健康当赌注",
+      "onboard_time": 1692848145,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997696,
       "num": 280876,
       "word": "挪威的房价",
       "onboard_time": 1692799299,
       "rank": 25,
       "category": "财经,旅游"
-    },
-    {
-      "raw_hot": 968884,
-      "num": 968884,
-      "word": "日本核污染水排放后约1000秒抵达大海",
-      "onboard_time": 1692849960,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 959491,
@@ -283,11 +291,11 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 782810,
-      "num": 782810,
-      "word": "日本在拿全人类健康当赌注",
-      "onboard_time": 1692848145,
-      "rank": 13,
+      "raw_hot": 806387,
+      "num": 806387,
+      "word": "日本东电10年来已多次排核污",
+      "onboard_time": 1692847786,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -339,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 654116,
+      "num": 654116,
+      "word": "泫雅想与金晓钟出演换乘恋爱3",
+      "onboard_time": 1692850933,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641066,
       "num": 641066,
       "word": "苏可居然是中戏表演老师",
@@ -348,19 +364,19 @@
     },
     {
       "raw_hot": 640366,
-      "num": 409315,
+      "num": 426134,
       "word": "虞书欣敢穿",
       "onboard_time": 1692840164,
       "rank": 35,
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 609852,
-      "num": 609852,
-      "word": "日本东电10年来已多次排核污",
-      "onboard_time": 1692847786,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 615873,
+      "num": 481690,
+      "word": "日本飞鼠 萌到不真实",
+      "onboard_time": 1692849287,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 604434,
@@ -483,6 +499,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 440247,
+      "num": 440247,
+      "word": "偶遇张艺兴逛孔庙",
+      "onboard_time": 1692849840,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434641,
       "num": 434641,
       "word": "一路朝阳导演谁啊",
@@ -507,14 +531,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 416144,
-      "num": 416144,
-      "word": "日本飞鼠 萌到不真实",
-      "onboard_time": 1692849287,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 409335,
       "num": 311411,
       "word": "离婚7个月前夫晒照喜得一女",
@@ -523,20 +539,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 397706,
-      "num": 397706,
-      "word": "偶遇张艺兴逛孔庙",
-      "onboard_time": 1692849840,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 391780,
       "num": 391780,
       "word": "六级没过",
       "onboard_time": 1692835545,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 391273,
+      "num": 391273,
+      "word": "日本核污染水排海最新情况",
+      "onboard_time": 1692847543,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381537,
@@ -561,6 +577,14 @@
       "onboard_time": 1692836743,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380360,
+      "num": 380360,
+      "word": "殷商勇士 踏平冀州",
+      "onboard_time": 1692851123,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 373348,
@@ -683,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317011,
-      "num": 317011,
-      "word": "日本核污染水排海最新情况",
-      "onboard_time": 1692847543,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316871,
       "num": 316871,
       "word": "为什么年轻人喜欢夜爬泰山",
@@ -747,6 +763,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 293779,
+      "num": 293779,
+      "word": "刘亦菲版的王语嫣",
+      "onboard_time": 1692851295,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292318,
       "num": 292318,
       "word": "杨紫ins更新",
@@ -787,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278271,
+      "num": 278271,
+      "word": "核污水排放或对美国影响更大",
+      "onboard_time": 1692851412,
+      "rank": 42,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 267013,
       "num": 267013,
       "word": "Netflix史前生物纪录片星球生灵中字预告",
@@ -819,6 +851,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 256248,
+      "num": 256248,
+      "word": "当狗狗看到遛狗绳的那一刻",
+      "onboard_time": 1692850684,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253692,
       "num": 253692,
       "word": "奶茶店遭遇120杯奶茶订单诈骗",
@@ -835,12 +875,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247680,
+      "num": 247680,
+      "word": "喜欢一个人能做到什么地步",
+      "onboard_time": 1692842501,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238640,
       "num": 238640,
       "word": "蔡依林合肥抢票",
       "onboard_time": 1692848805,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 234275,
+      "num": 234275,
+      "word": "陈牧驰发誓绝不塌房",
+      "onboard_time": 1692851295,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 232738,
@@ -872,14 +928,6 @@
       "word": "恋爱脑醒悟后一心搞事业",
       "onboard_time": 1692805832,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 221122,
-      "num": 221122,
-      "word": "喜欢一个人能做到什么地步",
-      "onboard_time": 1692842501,
-      "rank": 45,
       "category": "影视"
     },
     {
@@ -977,14 +1025,6 @@
       "onboard_time": 1692839323,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199461,
-      "num": 199461,
-      "word": "当狗狗看到遛狗绳的那一刻",
-      "onboard_time": 1692850684,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 198611,
@@ -1300,7 +1340,7 @@
     },
     {
       "raw_hot": 49791,
-      "num": 2284056,
+      "num": 5874103,
       "word": "我国与金砖国家经贸合作成绩亮眼",
       "onboard_time": 1692796478,
       "rank": 2,
