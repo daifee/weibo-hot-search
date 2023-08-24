@@ -1,9 +1,9 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692840518166,
+  "endTime": 1692842432025,
   "band_list": [
     {
-      "raw_hot": 8271689,
+      "raw_hot": 9109000,
       "num": 9521689,
       "word": "日本核污染水下午排入海洋",
       "onboard_time": 1692834032,
@@ -51,6 +51,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1602359,
+      "num": 668616,
+      "word": "普京紧急返回莫斯科",
+      "onboard_time": 1692840582,
+      "rank": 10,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 1475986,
       "num": 1475986,
       "word": "四六级成绩",
@@ -83,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1141657,
+      "num": 1141657,
+      "word": "拜登称普京可能是幕后黑手",
+      "onboard_time": 1692837706,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1106035,
       "num": 474954,
       "word": "炫富致丈夫被查妻子回应",
       "onboard_time": 1692797076,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1098281,
-      "num": 720105,
-      "word": "拜登称普京可能是幕后黑手",
-      "onboard_time": 1692837706,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1056501,
@@ -123,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 901630,
+      "num": 901630,
+      "word": "燃冬票房就像豆汁儿",
+      "onboard_time": 1692838843,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 880688,
       "num": 880688,
       "word": "民警和女友的约会太刺激了",
@@ -139,20 +155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 849782,
+      "num": 744245,
+      "word": "日本核污水排海或化作雨水洒遍全球",
+      "onboard_time": 1692833433,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 824401,
       "num": 824401,
       "word": "高考被缅语专业录取班主任劝复读",
       "onboard_time": 1692802121,
       "rank": 4,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 823796,
-      "num": 744245,
-      "word": "日本核污水排海或化作雨水洒遍全球",
-      "onboard_time": 1692833433,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 781651,
@@ -171,12 +187,36 @@
       "category": "其它"
     },
     {
+      "raw_hot": 712551,
+      "num": 712551,
+      "word": "民警在财务员手机里检测出3个高危APP",
+      "onboard_time": 1692840764,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698755,
       "num": 698755,
       "word": "七夕晚上翻了二十多个垃圾桶",
       "onboard_time": 1692801702,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 677298,
+      "num": 381888,
+      "word": "吃下核污染食品后果有多严重",
+      "onboard_time": 1692838903,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 604434,
+      "num": 604434,
+      "word": "日本计划今年4次排放核污染水",
+      "onboard_time": 1692840823,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 597864,
@@ -187,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 590546,
+      "num": 590546,
+      "word": "苏可居然是中戏表演老师",
+      "onboard_time": 1692841300,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588901,
       "num": 588901,
       "word": "俞灏明多年后调侃端木磊造型",
@@ -195,12 +243,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 561201,
-      "num": 561201,
-      "word": "燃冬票房就像豆汁儿",
-      "onboard_time": 1692838843,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 588756,
+      "num": 381580,
+      "word": "虞书欣敢穿",
+      "onboard_time": 1692840164,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 546255,
+      "num": 381507,
+      "word": "迪丽热巴来成都晒黑了",
+      "onboard_time": 1692838483,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 537076,
@@ -227,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 508014,
-      "num": 370930,
-      "word": "吃下核污染食品后果有多严重",
-      "onboard_time": 1692838903,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 499658,
       "num": 499658,
       "word": "乐山市民江边发现女版睡佛",
@@ -249,14 +297,6 @@
       "onboard_time": 1692836322,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 491831,
-      "num": 381507,
-      "word": "迪丽热巴来成都晒黑了",
-      "onboard_time": 1692838483,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 489828,
@@ -315,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424764,
+      "num": 424764,
+      "word": "女生考研时查出尿毒症男友不离不弃",
+      "onboard_time": 1692841961,
+      "rank": 17,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 409335,
       "num": 311411,
       "word": "离婚7个月前夫晒照喜得一女",
@@ -331,12 +379,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 382099,
+      "num": 382099,
+      "word": "坠机现场发现普里戈任手机",
+      "onboard_time": 1692840880,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 381537,
       "num": 381537,
       "word": "东方树叶 三得利",
       "onboard_time": 1692776977,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 381332,
+      "num": 381331,
+      "word": "莲花楼的打戏真的可以封神的程度",
+      "onboard_time": 1692839024,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 381021,
@@ -355,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373121,
+      "num": 373121,
+      "word": "女子称熬夜致免疫力低下确诊紫癜",
+      "onboard_time": 1692840104,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367418,
       "num": 367418,
       "word": "燃冬 情欲的流动",
@@ -371,14 +443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 364597,
-      "num": 364597,
-      "word": "莲花楼的打戏真的可以封神的程度",
-      "onboard_time": 1692839024,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 353090,
       "num": 353090,
       "word": "黎光有女儿了",
@@ -393,14 +457,6 @@
       "onboard_time": 1692802541,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 344034,
-      "num": 309025,
-      "word": "女子称熬夜致免疫力低下确诊紫癜",
-      "onboard_time": 1692840104,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336698,
@@ -443,12 +499,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 329222,
-      "num": 329222,
+      "raw_hot": 330075,
+      "num": 330075,
       "word": "中方开展管辖海域海洋辐射环境监测",
       "onboard_time": 1692838605,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316871,
+      "num": 316871,
+      "word": "为什么年轻人喜欢夜爬泰山",
+      "onboard_time": 1692841120,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311681,
+      "num": 311681,
+      "word": "开始下意识劝弟弟妹妹好好学习了",
+      "onboard_time": 1692839984,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 303321,
@@ -499,22 +571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281269,
-      "num": 281269,
-      "word": "开始下意识劝弟弟妹妹好好学习了",
-      "onboard_time": 1692839984,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 271959,
-      "num": 271959,
-      "word": "虞书欣敢穿",
-      "onboard_time": 1692840164,
-      "rank": 35,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 258105,
       "num": 258105,
       "word": "最近女生服装的特征",
@@ -523,12 +579,36 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 257513,
+      "num": 257513,
+      "word": "Netflix史前生物纪录片星球生灵中字预告",
+      "onboard_time": 1692840701,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 253926,
+      "num": 253926,
+      "word": "邓为白衣骑马路透",
+      "onboard_time": 1692841060,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253692,
       "num": 253692,
       "word": "奶茶店遭遇120杯奶茶订单诈骗",
       "onboard_time": 1692782018,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253048,
+      "num": 253048,
+      "word": "于适脸和身材的反差",
+      "onboard_time": 1692841060,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 232738,
@@ -571,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219452,
+      "num": 219452,
+      "word": "梅西绝平助攻",
+      "onboard_time": 1692841600,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218939,
       "num": 218939,
       "word": "infp的朋友圈是卖锁的吧",
@@ -587,12 +675,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 215522,
+      "num": 215522,
+      "word": "张远按头马伯骞蹦迪甩头",
+      "onboard_time": 1692841363,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214507,
       "num": 214507,
       "word": "张晚意 你哭什么",
       "onboard_time": 1692783279,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213431,
+      "num": 213431,
+      "word": "15岁男孩沉迷织布梦想当织染传承人",
+      "onboard_time": 1692841660,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200499,
