@@ -1,0 +1,410 @@
+{
+  "runTime": 1692895034427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1791351,
+        "num": 1791351,
+        "word": "历史会记住日本政府这一笔",
+        "onboard_time": 1692881754,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070857,
+        "num": 1070857,
+        "word": "中方暂停进口日本水产品是完全必要的",
+        "onboard_time": 1692882715,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60852,
+        "num": 1032908,
+        "word": "六国获邀加入金砖国家合作机制",
+        "onboard_time": 1692881577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1002279,
+        "num": 1002279,
+        "word": "富士山爆发若达5级东京会受影响",
+        "onboard_time": 1692871130,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655727,
+        "num": 655727,
+        "word": "日本核污染水排海4000天后海洋啥样",
+        "onboard_time": 1692887698,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647302,
+        "num": 647302,
+        "word": "别再把舌头垫在牙齿中间了",
+        "onboard_time": 1692881932,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 609112,
+        "num": 609112,
+        "word": "韩国多个海鲜市场几乎空无一人",
+        "onboard_time": 1692880379,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521363,
+        "num": 521363,
+        "word": "不要总觉得内向的性格就不好",
+        "onboard_time": 1692889614,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 408876,
+        "num": 408876,
+        "word": "原来喝苹果水这么多好处",
+        "onboard_time": 1692884758,
+        "rank": 8,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 358736,
+        "num": 358736,
+        "word": "骄阳伴我",
+        "onboard_time": 1692890036,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2176787,
+        "num": 357960,
+        "word": "广东一海滩突然涌现大量海虾",
+        "onboard_time": 1692882649,
+        "rank": 10,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 1544119,
+        "num": 357492,
+        "word": "东京电力称核污水排海有问题将停止",
+        "onboard_time": 1692887638,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1521181,
+        "num": 356569,
+        "word": "上海多家日料店今晚生意火了",
+        "onboard_time": 1692882715,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1019239,
+        "num": 354969,
+        "word": "部分日料店已做好转行准备",
+        "onboard_time": 1692891646,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 588684,
+        "num": 354084,
+        "word": "中盐集团回应食盐抢购现象",
+        "onboard_time": 1692886076,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 535408,
+        "num": 352993,
+        "word": "女子晒单位处长送情趣内衣做礼物",
+        "onboard_time": 1692885358,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487599,
+        "num": 352459,
+        "word": "贾乃亮晒与甜馨背影照",
+        "onboard_time": 1692889851,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481756,
+        "num": 351619,
+        "word": "韩国民众街头抗议日本核污水排海",
+        "onboard_time": 1692892364,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428301,
+        "num": 349996,
+        "word": "日本政府已向儿童发核污水安全传单",
+        "onboard_time": 1692876645,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404391,
+        "num": 349503,
+        "word": "红色海滩的海水如血液般殷红",
+        "onboard_time": 1692886018,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 396487,
+        "num": 348141,
+        "word": "吃了多少根香蕉衡量辐射量",
+        "onboard_time": 1692886560,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 379923,
+        "num": 347711,
+        "word": "擦掉长眼线的周扬青",
+        "onboard_time": 1692886560,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361765,
+        "num": 346474,
+        "word": "日本化妆品",
+        "onboard_time": 1692858417,
+        "rank": 22,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 345768,
+        "num": 345768,
+        "word": "医生7小时取出小伙脑内10厘米成虫",
+        "onboard_time": 1692885294,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300582,
+        "num": 300582,
+        "word": "南美白虾今天卖爆了",
+        "onboard_time": 1692877968,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 293201,
+        "num": 293201,
+        "word": "贺峻霖转正了",
+        "onboard_time": 1692888651,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278871,
+        "num": 278871,
+        "word": "赵本山讲戏",
+        "onboard_time": 1692892665,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275228,
+        "num": 275228,
+        "word": "萧亚轩礼服反穿",
+        "onboard_time": 1692887276,
+        "rank": 27,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 270846,
+        "num": 270846,
+        "word": "尹锡悦政府回应日本核污染水排海",
+        "onboard_time": 1692881992,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 260058,
+        "num": 260058,
+        "word": "加一个字毁掉一部影视作品",
+        "onboard_time": 1692889077,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301578,
+        "num": 257380,
+        "word": "这条小鱼在乎",
+        "onboard_time": 1692887521,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253981,
+        "num": 253981,
+        "word": "张哥在家里听到脚步声",
+        "onboard_time": 1692891526,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252589,
+        "num": 252589,
+        "word": "日本核污水排海中国怎么办",
+        "onboard_time": 1692871314,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248550,
+        "num": 248550,
+        "word": "被骗至缅甸中科院博士已被解救",
+        "onboard_time": 1692881452,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241154,
+        "num": 241154,
+        "word": "日本62岁渔民叹息被政府骗了",
+        "onboard_time": 1692869514,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232082,
+        "num": 232082,
+        "word": "萧亚轩谈身体状态",
+        "onboard_time": 1692891824,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230252,
+        "num": 230252,
+        "word": "对于吃货来说每一个都是灾难",
+        "onboard_time": 1692892962,
+        "rank": 36,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 202999,
+        "num": 202999,
+        "word": "日本核污染水排海正式开始",
+        "onboard_time": 1692850025,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201754,
+        "num": 201754,
+        "word": "上海一日料店无法证明食材产地被约谈",
+        "onboard_time": 1692886256,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 199126,
+        "num": 199126,
+        "word": "乌合麒麟 与人类同归于尽吗混蛋",
+        "onboard_time": 1692858594,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197471,
+        "num": 197471,
+        "word": "旅行包里都带了些什么",
+        "onboard_time": 1692893917,
+        "rank": 40,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 193600,
+        "num": 193600,
+        "word": "女大学生快速出门早八穿搭",
+        "onboard_time": 1692893258,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 178673,
+        "num": 178673,
+        "word": "宝石老舅原来是救命的救",
+        "onboard_time": 1692879777,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172570,
+        "num": 172570,
+        "word": "林俊杰 华流音雄演唱会",
+        "onboard_time": 1692894575,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171466,
+        "num": 171466,
+        "word": "杨幂新穿搭已卖断货",
+        "onboard_time": 1692878694,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164518,
+        "num": 164518,
+        "word": "张晚意自己接档自己",
+        "onboard_time": 1692887456,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162954,
+        "num": 162954,
+        "word": "上海8家日料店7家称无日本进口",
+        "onboard_time": 1692874968,
+        "rank": 46,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 153898,
+        "num": 153898,
+        "word": "福岛周边最高辐射值为东京200倍",
+        "onboard_time": 1692883672,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150491,
+        "num": 150491,
+        "word": "相柳一觉醒来有18个头了",
+        "onboard_time": 1692879480,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125292,
+        "num": 125292,
+        "word": "CCTV电视剧是在说骄阳伴我吗",
+        "onboard_time": 1692886739,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
