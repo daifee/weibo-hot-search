@@ -1,0 +1,410 @@
+{
+  "runTime": 1692880321709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10290665,
+        "num": 10290665,
+        "word": "岸田声称要求中方撤销进口管制措施",
+        "onboard_time": 1692878270,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2389197,
+        "num": 2389197,
+        "word": "日本政府已向儿童发核污水安全传单",
+        "onboard_time": 1692876645,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33985,
+        "num": 2324856,
+        "word": "秉持开放包容合作共赢的金砖精神",
+        "onboard_time": 1692862437,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2308073,
+        "num": 2308073,
+        "word": "富士山爆发若达5级东京会受影响",
+        "onboard_time": 1692871130,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1503383,
+        "num": 1503383,
+        "word": "日本将用700亿日元处理核污染水负面信息",
+        "onboard_time": 1692857343,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417995,
+        "num": 1417995,
+        "word": "罗云熙退退退",
+        "onboard_time": 1692877730,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 674642,
+        "num": 674642,
+        "word": "相柳一觉醒来有18个头了",
+        "onboard_time": 1692879480,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 633513,
+        "num": 633513,
+        "word": "王鹤棣名字来源于诗经",
+        "onboard_time": 1692878330,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538680,
+        "num": 538680,
+        "word": "AI换脸换声让已故演员重现屏幕",
+        "onboard_time": 1692855004,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508702,
+        "num": 508702,
+        "word": "你好星期六探班杨紫",
+        "onboard_time": 1692877490,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3508710,
+        "num": 508119,
+        "word": "上海8家日料店7家称无日本进口",
+        "onboard_time": 1692874968,
+        "rank": 10,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 2936987,
+        "num": 505493,
+        "word": "受日本核污水影响最大的省份",
+        "onboard_time": 1692866577,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1870578,
+        "num": 503495,
+        "word": "专家不建议我国效仿韩国民众囤盐",
+        "onboard_time": 1692864472,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1494871,
+        "num": 503175,
+        "word": "南美白虾今天卖爆了",
+        "onboard_time": 1692877968,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 64433,
+        "num": 500775,
+        "word": "女子冒雨守无井盖排水口",
+        "onboard_time": 1692878512,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1312141,
+        "num": 498379,
+        "word": "日本62岁渔民叹息被政府骗了",
+        "onboard_time": 1692869514,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252406,
+        "num": 496868,
+        "word": "日本化妆品",
+        "onboard_time": 1692858417,
+        "rank": 16,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 1014861,
+        "num": 494659,
+        "word": "福岛患癌人数逐年上升",
+        "onboard_time": 1692870474,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880739,
+        "num": 492906,
+        "word": "多地提醒市民不必抢盐囤盐",
+        "onboard_time": 1692870591,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574133,
+        "num": 491598,
+        "word": "杨幂新穿搭已卖断货",
+        "onboard_time": 1692878694,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 776584,
+        "num": 489948,
+        "word": "乌合麒麟 与人类同归于尽吗混蛋",
+        "onboard_time": 1692858594,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723480,
+        "num": 487425,
+        "word": "日本核污染水排海正式开始",
+        "onboard_time": 1692850025,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671670,
+        "num": 485209,
+        "word": "中国日料店会大批量倒闭吗",
+        "onboard_time": 1692859920,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 542311,
+        "num": 483287,
+        "word": "宝石老舅原来是救命的救",
+        "onboard_time": 1692879777,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483190,
+        "num": 483190,
+        "word": "日本核污水排海中国怎么办",
+        "onboard_time": 1692871314,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465404,
+        "num": 465404,
+        "word": "多家日料店已替换日本食材",
+        "onboard_time": 1692879235,
+        "rank": 25,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 457322,
+        "num": 457322,
+        "word": "张艺凡演的明兰",
+        "onboard_time": 1692876353,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449024,
+        "num": 449024,
+        "word": "华西医院又完成一项世界首例",
+        "onboard_time": 1692877186,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442779,
+        "num": 442779,
+        "word": "日本核污染水首次排海持续17天",
+        "onboard_time": 1692866094,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442163,
+        "num": 442163,
+        "word": "肖战最新物料素颜状态",
+        "onboard_time": 1692878211,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 413119,
+        "num": 413119,
+        "word": "外交部就日本启动核污染水排海发表谈话",
+        "onboard_time": 1692852197,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 393669,
+        "num": 393669,
+        "word": "都排成鸳鸯锅了还嘴硬是安全的",
+        "onboard_time": 1692861478,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369451,
+        "num": 369451,
+        "word": "银行柜员常听到的四种密码",
+        "onboard_time": 1692878930,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359212,
+        "num": 359212,
+        "word": "萧亚轩轩然归零发布会",
+        "onboard_time": 1692876830,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 356458,
+        "num": 356458,
+        "word": "韩官员称日本核污染水排海在所难免",
+        "onboard_time": 1692871612,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354071,
+        "num": 354071,
+        "word": "美驻日大使称赞日本排海要尝福岛海鲜",
+        "onboard_time": 1692852254,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333644,
+        "num": 333644,
+        "word": "张晚意王楚然新剧同框路透",
+        "onboard_time": 1692875267,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321392,
+        "num": 321392,
+        "word": "肖战开启都市剧",
+        "onboard_time": 1692873114,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318079,
+        "num": 318079,
+        "word": "我们强烈反对日本核污染水排海",
+        "onboard_time": 1692870715,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317642,
+        "num": 317642,
+        "word": "王楚然任敏同披风同男主",
+        "onboard_time": 1692879178,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317375,
+        "num": 317375,
+        "word": "越休息越累的原因找到了",
+        "onboard_time": 1692874612,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 304922,
+        "num": 304922,
+        "word": "海关总署全面暂停进口日本水产品",
+        "onboard_time": 1692855843,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302752,
+        "num": 302752,
+        "word": "日本民众将起诉日政府和东电",
+        "onboard_time": 1692869989,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299232,
+        "num": 299232,
+        "word": "胡锡进 中国沿海的海鲜还能吃吗",
+        "onboard_time": 1692863095,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286364,
+        "num": 286364,
+        "word": "Hero",
+        "onboard_time": 1692879113,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276233,
+        "num": 276233,
+        "word": "黄渤回答演烂片",
+        "onboard_time": 1692867951,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274205,
+        "num": 274205,
+        "word": "封神第一部2.0网友演出来了",
+        "onboard_time": 1692877607,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264672,
+        "num": 264672,
+        "word": "夏目友人帐40w粉贺图头像",
+        "onboard_time": 1692880015,
+        "rank": 47,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 259933,
+        "num": 259933,
+        "word": "沈月分享自己的朋友圈",
+        "onboard_time": 1692879960,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199706,
+        "num": 250260,
+        "word": "瘦腿再也不难了",
+        "onboard_time": 1692868253,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席金砖国家领导人第十五次会晤并发表重要讲话#"
+    }
+  }
+}
