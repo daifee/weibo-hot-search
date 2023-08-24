@@ -1,6 +1,6 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692858083167,
+  "endTime": 1692858861015,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2003013,
+      "num": 781440,
+      "word": "日料",
+      "onboard_time": 1692857584,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1909852,
       "num": 1909852,
       "word": "普里戈任尸体已被初步确认",
@@ -201,6 +209,14 @@
       "onboard_time": 1692844780,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1336308,
+      "num": 425688,
+      "word": "日本将用700亿日元处理核污染水负面信息",
+      "onboard_time": 1692857343,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1274328,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 1128503,
-      "num": 420774,
+      "num": 424431,
       "word": "韩国民众集会抗议日本排放核污染水",
       "onboard_time": 1692856020,
       "rank": 19,
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 879318,
+      "num": 879318,
+      "word": "福建人可三天无肉不能两顿没海鲜",
+      "onboard_time": 1692857343,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870455,
       "num": 870455,
       "word": "日本核污水排海或化作雨水洒遍全球",
@@ -403,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 781440,
-      "num": 781440,
-      "word": "日料",
-      "onboard_time": 1692857584,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 773723,
       "num": 346838,
       "word": "切尔诺贝利",
@@ -451,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 725903,
-      "num": 365825,
-      "word": "日本将用700亿日元处理核污染水负面信息",
-      "onboard_time": 1692857343,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 714166,
       "num": 380687,
       "word": "福岛核电站附近渔港宛如无人区",
       "onboard_time": 1692856140,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709639,
+      "num": 340572,
+      "word": "韩称若日本核污水排放不合标准将提起国际诉讼",
+      "onboard_time": 1692855190,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 698755,
@@ -475,28 +491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 688933,
-      "num": 340572,
-      "word": "韩称若日本核污水排放不合标准将提起国际诉讼",
-      "onboard_time": 1692855190,
-      "rank": 46,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 662676,
       "num": 504323,
       "word": "纯甄 长相思",
       "onboard_time": 1692847843,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 641993,
-      "num": 403060,
-      "word": "福建人可三天无肉不能两顿没海鲜",
-      "onboard_time": 1692857343,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 641066,
@@ -513,6 +513,14 @@
       "onboard_time": 1692840164,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 628083,
+      "num": 372516,
+      "word": "日本怪兽刺身",
+      "onboard_time": 1692858055,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 615873,
@@ -547,8 +555,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 566995,
-      "num": 373630,
+      "raw_hot": 576516,
+      "num": 426394,
       "word": "冯绍峰一直跟在景甜后面",
       "onboard_time": 1692855062,
       "rank": 47,
@@ -601,6 +609,14 @@
       "onboard_time": 1692853331,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 520293,
+      "num": 483204,
+      "word": "谁教张若昀这么用美颜的",
+      "onboard_time": 1692858296,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 508725,
@@ -675,8 +691,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 479137,
+      "num": 479137,
+      "word": "乌合麒麟 与人类同归于尽吗混蛋",
+      "onboard_time": 1692858594,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474263,
-      "num": 352997,
+      "num": 425197,
       "word": "王一博躺小海肚子上",
       "onboard_time": 1692856319,
       "rank": 26,
@@ -755,12 +779,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413417,
+      "num": 413417,
+      "word": "福岛排放核污水地区瞬时辐射量增加",
+      "onboard_time": 1692858055,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409335,
       "num": 311411,
       "word": "离婚7个月前夫晒照喜得一女",
       "onboard_time": 1692790300,
       "rank": 22,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 408704,
+      "num": 408704,
+      "word": "联合国",
+      "onboard_time": 1692858000,
+      "rank": 27,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 398160,
@@ -792,6 +832,14 @@
       "word": "日本核污染水排海最新情况",
       "onboard_time": 1692847543,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386770,
+      "num": 386770,
+      "word": "日本化妆品",
+      "onboard_time": 1692858417,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -897,14 +945,6 @@
       "onboard_time": 1692852493,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348132,
-      "num": 348132,
-      "word": "日本怪兽刺身",
-      "onboard_time": 1692858055,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342469,
@@ -1187,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232572,
-      "num": 232572,
-      "word": "福岛排放核污水地区瞬时辐射量增加",
-      "onboard_time": 1692858055,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229797,
       "num": 229797,
       "word": "猴哥唯一一次被骗",
@@ -1217,6 +1249,22 @@
       "onboard_time": 1692805832,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224522,
+      "num": 224522,
+      "word": "保姆级对镜自拍教程",
+      "onboard_time": 1692858237,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 224351,
+      "num": 5683550,
+      "word": "杭州亚运主题歌曲发布",
+      "onboard_time": 1692856799,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 219982,
@@ -1307,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204823,
+      "num": 204823,
+      "word": "日本核污染水排海现场画面",
+      "onboard_time": 1692857099,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202321,
       "num": 202321,
       "word": "父辈的荣耀定档央视",
@@ -1353,14 +1409,6 @@
       "onboard_time": 1692795999,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192726,
-      "num": 5683550,
-      "word": "杭州亚运主题歌曲发布",
-      "onboard_time": 1692856799,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 191644,

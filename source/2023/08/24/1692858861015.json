@@ -1,0 +1,410 @@
+{
+  "runTime": 1692858861015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10207421,
+        "num": 10207421,
+        "word": "日本核污染水排海正式开始",
+        "onboard_time": 1692850025,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7643508,
+        "num": 7643508,
+        "word": "日本官员喝下核污染水4年后引退消失",
+        "onboard_time": 1692848387,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224351,
+        "num": 5614495,
+        "word": "杭州亚运主题歌曲发布",
+        "onboard_time": 1692856799,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3718336,
+        "num": 3718336,
+        "word": "海关总署全面暂停进口日本水产品",
+        "onboard_time": 1692855843,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2485618,
+        "num": 2485618,
+        "word": "外交部就日本启动核污染水排海发表谈话",
+        "onboard_time": 1692852197,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1181494,
+        "num": 1181494,
+        "word": "AI换脸换声让已故演员重现屏幕",
+        "onboard_time": 1692855004,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969084,
+        "num": 969084,
+        "word": "杜海涛吃蜈蚣在嘴里八进八出",
+        "onboard_time": 1692849960,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 879318,
+        "num": 879318,
+        "word": "福建人可三天无肉不能两顿没海鲜",
+        "onboard_time": 1692857343,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518590,
+        "num": 518590,
+        "word": "普里戈任尸体已被初步确认",
+        "onboard_time": 1692848204,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 489890,
+        "num": 489890,
+        "word": "泫雅想与金晓钟出演换乘恋爱3",
+        "onboard_time": 1692850933,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3502909,
+        "num": 488927,
+        "word": "富士山",
+        "onboard_time": 1692852968,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807492,
+        "num": 485631,
+        "word": "张亮送天天出国留学",
+        "onboard_time": 1692845020,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520293,
+        "num": 483204,
+        "word": "谁教张若昀这么用美颜的",
+        "onboard_time": 1692858296,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2417716,
+        "num": 480128,
+        "word": "美驻日大使称赞日本排海要尝福岛海鲜",
+        "onboard_time": 1692852254,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479137,
+        "num": 479137,
+        "word": "乌合麒麟 与人类同归于尽吗混蛋",
+        "onboard_time": 1692858594,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459372,
+        "num": 459372,
+        "word": "李一桐怎么化个妆都这么快乐啊",
+        "onboard_time": 1692855606,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2003013,
+        "num": 456153,
+        "word": "日料",
+        "onboard_time": 1692857584,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433842,
+        "num": 433842,
+        "word": "日本东电10年来已多次排核污",
+        "onboard_time": 1692847786,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427334,
+        "num": 427334,
+        "word": "汪大东精神状态领先我十几年",
+        "onboard_time": 1692852968,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1585480,
+        "num": 427188,
+        "word": "核污水排放或对美国影响更大",
+        "onboard_time": 1692851412,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1282309,
+        "num": 426474,
+        "word": "男子频繁开房一查发现有6个女友",
+        "onboard_time": 1692852254,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576516,
+        "num": 426394,
+        "word": "冯绍峰一直跟在景甜后面",
+        "onboard_time": 1692855062,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1336308,
+        "num": 425688,
+        "word": "日本将用700亿日元处理核污染水负面信息",
+        "onboard_time": 1692857343,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442674,
+        "num": 425197,
+        "word": "王一博躺小海肚子上",
+        "onboard_time": 1692856319,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425015,
+        "num": 425015,
+        "word": "杨迪去剪发店全是张艺兴",
+        "onboard_time": 1692844780,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1016813,
+        "num": 424431,
+        "word": "韩国民众集会抗议日本排放核污染水",
+        "onboard_time": 1692856020,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413417,
+        "num": 413417,
+        "word": "福岛排放核污水地区瞬时辐射量增加",
+        "onboard_time": 1692858055,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408704,
+        "num": 408704,
+        "word": "联合国",
+        "onboard_time": 1692858000,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 771241,
+        "num": 404190,
+        "word": "日本核污染水排放后约1000秒抵达大海",
+        "onboard_time": 1692849960,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386770,
+        "num": 386770,
+        "word": "日本化妆品",
+        "onboard_time": 1692858417,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379852,
+        "num": 379852,
+        "word": "蒋依依一直把敖子逸送的手镯戴在身上",
+        "onboard_time": 1692856562,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628083,
+        "num": 372516,
+        "word": "日本怪兽刺身",
+        "onboard_time": 1692858055,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343593,
+        "num": 343593,
+        "word": "殷商勇士 踏平冀州",
+        "onboard_time": 1692851123,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342260,
+        "num": 342260,
+        "word": "腾讯 李跳跳",
+        "onboard_time": 1692845804,
+        "rank": 33,
+        "category": "科技,网红"
+      },
+      {
+        "raw_hot": 737371,
+        "num": 337303,
+        "word": "切尔诺贝利",
+        "onboard_time": 1692854762,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312714,
+        "num": 312714,
+        "word": "婴儿误被闷脸5分多钟3岁姐姐察觉掀被",
+        "onboard_time": 1692845080,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286280,
+        "num": 286280,
+        "word": "韩国将维持对日本福岛水产品的进口禁令不变",
+        "onboard_time": 1692857041,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709639,
+        "num": 280313,
+        "word": "韩称若日本核污水排放不合标准将提起国际诉讼",
+        "onboard_time": 1692855190,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 273454,
+        "num": 273454,
+        "word": "外交部批日排海6个没有",
+        "onboard_time": 1692853091,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245680,
+        "num": 245680,
+        "word": "普京紧急返回莫斯科",
+        "onboard_time": 1692840582,
+        "rank": 39,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 597337,
+        "num": 245247,
+        "word": "哥斯拉",
+        "onboard_time": 1692852732,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 244077,
+        "num": 244077,
+        "word": "日本计划今年4次排放核污染水",
+        "onboard_time": 1692840823,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243923,
+        "num": 243923,
+        "word": "在何炅眼里全都是宝宝",
+        "onboard_time": 1692853634,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550692,
+        "num": 241434,
+        "word": "福岛核电站附近渔港宛如无人区",
+        "onboard_time": 1692856140,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235337,
+        "num": 235337,
+        "word": "日本核污染水排放会影响哪里",
+        "onboard_time": 1692856319,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224522,
+        "num": 224522,
+        "word": "保姆级对镜自拍教程",
+        "onboard_time": 1692858237,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 548348,
+        "num": 222693,
+        "word": "吃下核污染食品后果有多严重",
+        "onboard_time": 1692838903,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216983,
+        "num": 216983,
+        "word": "理解成毅为什么是电子哈基米了",
+        "onboard_time": 1692853865,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204823,
+        "num": 204823,
+        "word": "日本核污染水排海现场画面",
+        "onboard_time": 1692857099,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362654,
+        "num": 204338,
+        "word": "日方强行排放核污染水极端自私不负责任",
+        "onboard_time": 1692851836,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在金砖国家领导人第十五次会晤上的讲话#"
+    }
+  }
+}
