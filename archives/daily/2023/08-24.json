@@ -1,7 +1,15 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692839324019,
+  "endTime": 1692840518166,
   "band_list": [
+    {
+      "raw_hot": 8271689,
+      "num": 9521689,
+      "word": "日本核污染水下午排入海洋",
+      "onboard_time": 1692834032,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 8087095,
       "num": 2942897,
@@ -9,14 +17,6 @@
       "onboard_time": 1692832408,
       "rank": 14,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 7095668,
-      "num": 8345668,
-      "word": "日本核污染水下午排入海洋",
-      "onboard_time": 1692834032,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2598953,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1247318,
-      "num": 729404,
+      "num": 1128691,
       "word": "瓦格纳集团称普里戈任被叛徒杀害",
       "onboard_time": 1692836503,
       "rank": 9,
@@ -89,6 +89,14 @@
       "onboard_time": 1692797076,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1098281,
+      "num": 720105,
+      "word": "拜登称普京可能是幕后黑手",
+      "onboard_time": 1692837706,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1056501,
@@ -115,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 880688,
+      "num": 880688,
+      "word": "民警和女友的约会太刺激了",
+      "onboard_time": 1692836743,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 864538,
       "num": 864538,
       "word": "宁静太敢说了",
@@ -131,12 +147,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 824204,
-      "num": 720105,
-      "word": "拜登称普京可能是幕后黑手",
-      "onboard_time": 1692837706,
-      "rank": 10,
-      "category": "国外要闻"
+      "raw_hot": 823796,
+      "num": 744245,
+      "word": "日本核污水排海或化作雨水洒遍全球",
+      "onboard_time": 1692833433,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781651,
@@ -155,28 +171,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 744245,
-      "num": 744245,
-      "word": "日本核污水排海或化作雨水洒遍全球",
-      "onboard_time": 1692833433,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 698755,
       "num": 698755,
       "word": "七夕晚上翻了二十多个垃圾桶",
       "onboard_time": 1692801702,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 691732,
-      "num": 691732,
-      "word": "民警和女友的约会太刺激了",
-      "onboard_time": 1692836743,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 597864,
@@ -192,6 +192,14 @@
       "word": "俞灏明多年后调侃端木磊造型",
       "onboard_time": 1692803678,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 561201,
+      "num": 561201,
+      "word": "燃冬票房就像豆汁儿",
+      "onboard_time": 1692838843,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -211,6 +219,22 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 530823,
+      "num": 530823,
+      "word": "梅西",
+      "onboard_time": 1692837946,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 508014,
+      "num": 370930,
+      "word": "吃下核污染食品后果有多严重",
+      "onboard_time": 1692838903,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499658,
       "num": 499658,
       "word": "乐山市民江边发现女版睡佛",
@@ -225,6 +249,22 @@
       "onboard_time": 1692836322,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 491831,
+      "num": 381507,
+      "word": "迪丽热巴来成都晒黑了",
+      "onboard_time": 1692838483,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 489828,
+      "num": 489828,
+      "word": "普京称俄经济体量已超越德国",
+      "onboard_time": 1692838006,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 488607,
@@ -275,28 +315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 428002,
-      "num": 381507,
-      "word": "迪丽热巴来成都晒黑了",
-      "onboard_time": 1692838483,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 409335,
       "num": 311411,
       "word": "离婚7个月前夫晒照喜得一女",
       "onboard_time": 1692790300,
       "rank": 22,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 400357,
-      "num": 400357,
-      "word": "梅西",
-      "onboard_time": 1692837946,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 391780,
@@ -347,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 364597,
+      "num": 364597,
+      "word": "莲花楼的打戏真的可以封神的程度",
+      "onboard_time": 1692839024,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353090,
       "num": 353090,
       "word": "黎光有女儿了",
@@ -361,6 +393,14 @@
       "onboard_time": 1692802541,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 344034,
+      "num": 309025,
+      "word": "女子称熬夜致免疫力低下确诊紫癜",
+      "onboard_time": 1692840104,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336698,
@@ -403,28 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 318111,
-      "num": 318111,
+      "raw_hot": 329222,
+      "num": 329222,
       "word": "中方开展管辖海域海洋辐射环境监测",
       "onboard_time": 1692838605,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314966,
-      "num": 314966,
-      "word": "普京称俄经济体量已超越德国",
-      "onboard_time": 1692838006,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 310578,
-      "num": 310578,
-      "word": "燃冬票房就像豆汁儿",
-      "onboard_time": 1692838843,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 303321,
@@ -475,12 +499,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280221,
-      "num": 280221,
-      "word": "莲花楼的打戏真的可以封神的程度",
-      "onboard_time": 1692839024,
-      "rank": 38,
-      "category": "影视"
+      "raw_hot": 281269,
+      "num": 281269,
+      "word": "开始下意识劝弟弟妹妹好好学习了",
+      "onboard_time": 1692839984,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 271959,
+      "num": 271959,
+      "word": "虞书欣敢穿",
+      "onboard_time": 1692840164,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 258105,
@@ -489,14 +521,6 @@
       "onboard_time": 1692800860,
       "rank": 26,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 254186,
-      "num": 254186,
-      "word": "吃下核污染食品后果有多严重",
-      "onboard_time": 1692838903,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253692,
@@ -571,6 +595,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200499,
+      "num": 200499,
+      "word": "原来大熊猫有42颗牙",
+      "onboard_time": 1692839323,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198611,
+      "num": 198611,
+      "word": "刘虞佳 养女儿真的太幸福了",
+      "onboard_time": 1692831745,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194391,
       "num": 180474,
       "word": "男子漏尿在尿道塞吸水棉长巨大结石",
@@ -631,14 +671,6 @@
       "num": 180652,
       "word": "小朋友捧着书说是粉丝",
       "onboard_time": 1692806432,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 172837,
-      "num": 172837,
-      "word": "刘虞佳 养女儿真的太幸福了",
-      "onboard_time": 1692831745,
       "rank": 39,
       "category": "艺人"
     },
@@ -851,7 +883,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46616,
+      "raw_hot": 49791,
       "num": 2284056,
       "word": "我国与金砖国家经贸合作成绩亮眼",
       "onboard_time": 1692796478,

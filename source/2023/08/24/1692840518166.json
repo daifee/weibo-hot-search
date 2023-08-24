@@ -1,0 +1,410 @@
+{
+  "runTime": 1692840518166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8271689,
+        "num": 9521689,
+        "word": "日本核污染水下午排入海洋",
+        "onboard_time": 1692834032,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2223595,
+        "num": 2223595,
+        "word": "科比",
+        "onboard_time": 1692836082,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49791,
+        "num": 1339371,
+        "word": "我国与金砖国家经贸合作成绩亮眼",
+        "onboard_time": 1692796478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128691,
+        "num": 1128691,
+        "word": "瓦格纳集团称普里戈任被叛徒杀害",
+        "onboard_time": 1692836503,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 990786,
+        "num": 990786,
+        "word": "王阳新剧被李兰迪亲了的反应",
+        "onboard_time": 1692836204,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 880688,
+        "num": 880688,
+        "word": "民警和女友的约会太刺激了",
+        "onboard_time": 1692836743,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1546787,
+        "num": 830729,
+        "word": "坠毁飞机乘客包括瓦格纳几乎所有高层",
+        "onboard_time": 1692832467,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 758797,
+        "num": 758797,
+        "word": "核污染水",
+        "onboard_time": 1692803561,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726429,
+        "num": 726429,
+        "word": "景甜没人告诉我扫楼要跑啊",
+        "onboard_time": 1692819314,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1098281,
+        "num": 707153,
+        "word": "拜登称普京可能是幕后黑手",
+        "onboard_time": 1692837706,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 565046,
+        "num": 565046,
+        "word": "我们嫌出师表太长 刘禅嫌出师表太短",
+        "onboard_time": 1692805056,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 561201,
+        "num": 561201,
+        "word": "燃冬票房就像豆汁儿",
+        "onboard_time": 1692838843,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 4252551,
+        "num": 554639,
+        "word": "普里戈任确认在坠机中遇难",
+        "onboard_time": 1692832408,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 530823,
+        "num": 530823,
+        "word": "梅西",
+        "onboard_time": 1692837946,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523884,
+        "num": 523884,
+        "word": "四六级成绩",
+        "onboard_time": 1692832831,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 823796,
+        "num": 519377,
+        "word": "日本核污水排海或化作雨水洒遍全球",
+        "onboard_time": 1692833433,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489828,
+        "num": 489828,
+        "word": "普京称俄经济体量已超越德国",
+        "onboard_time": 1692838006,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 456107,
+        "num": 456107,
+        "word": "宁静太敢说了",
+        "onboard_time": 1692802479,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452684,
+        "num": 452684,
+        "word": "赴港存30万利息多6000元",
+        "onboard_time": 1692834514,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 375089,
+        "num": 375089,
+        "word": "李跳跳",
+        "onboard_time": 1692836322,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1143458,
+        "num": 374513,
+        "word": "被偷走录取通知书女生称妈妈已同意她去中戏",
+        "onboard_time": 1692801278,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508014,
+        "num": 370930,
+        "word": "吃下核污染食品后果有多严重",
+        "onboard_time": 1692838903,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491831,
+        "num": 370469,
+        "word": "迪丽热巴来成都晒黑了",
+        "onboard_time": 1692838483,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463678,
+        "num": 368771,
+        "word": "炫富致丈夫被查妻子回应",
+        "onboard_time": 1692797076,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392634,
+        "num": 364725,
+        "word": "立秋最狠减肥法",
+        "onboard_time": 1692803141,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364597,
+        "num": 364597,
+        "word": "莲花楼的打戏真的可以封神的程度",
+        "onboard_time": 1692839024,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331174,
+        "num": 331174,
+        "word": "吉克隽逸到底有多少美甲",
+        "onboard_time": 1692836743,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329222,
+        "num": 329222,
+        "word": "中方开展管辖海域海洋辐射环境监测",
+        "onboard_time": 1692838605,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312371,
+        "num": 312371,
+        "word": "马云分享近况",
+        "onboard_time": 1692832046,
+        "rank": 28,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 309378,
+        "num": 309378,
+        "word": "燃冬 情欲的流动",
+        "onboard_time": 1692838305,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344034,
+        "num": 309025,
+        "word": "女子称熬夜致免疫力低下确诊紫癜",
+        "onboard_time": 1692840104,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308306,
+        "num": 308306,
+        "word": "六级没过",
+        "onboard_time": 1692835545,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 286730,
+        "num": 286730,
+        "word": "24岁女生的退休生活",
+        "onboard_time": 1692801638,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281269,
+        "num": 281269,
+        "word": "开始下意识劝弟弟妹妹好好学习了",
+        "onboard_time": 1692839984,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 277171,
+        "num": 277171,
+        "word": "原来涂山璟是桐华写给所有女生的一封情书",
+        "onboard_time": 1692815956,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271959,
+        "num": 271959,
+        "word": "虞书欣敢穿",
+        "onboard_time": 1692840164,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 270283,
+        "num": 270283,
+        "word": "心动6女二同时选了男二男六",
+        "onboard_time": 1692834396,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262486,
+        "num": 262486,
+        "word": "离婚7个月前夫晒照喜得一女",
+        "onboard_time": 1692790300,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 249035,
+        "num": 249035,
+        "word": "今年暑期档真正的剧王",
+        "onboard_time": 1692834154,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236456,
+        "num": 236456,
+        "word": "一路朝阳回应黎光有女儿了",
+        "onboard_time": 1692835844,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232483,
+        "num": 232483,
+        "word": "王祖蓝看李亚男眼神",
+        "onboard_time": 1692800738,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230179,
+        "num": 230179,
+        "word": "俄公布普里戈任坠机事件机上人员名单",
+        "onboard_time": 1692838367,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 222630,
+        "num": 222630,
+        "word": "晚上10点宠物医院人均两位陪护",
+        "onboard_time": 1692837345,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200499,
+        "num": 200499,
+        "word": "原来大熊猫有42颗牙",
+        "onboard_time": 1692839323,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199874,
+        "num": 199874,
+        "word": "卖奢侈品的在吐槽",
+        "onboard_time": 1692816558,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198611,
+        "num": 198611,
+        "word": "刘虞佳 养女儿真的太幸福了",
+        "onboard_time": 1692831745,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195022,
+        "num": 195022,
+        "word": "把核污水与核废水混为一谈骗不了人",
+        "onboard_time": 1692835242,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188991,
+        "num": 188991,
+        "word": "高考被缅语专业录取班主任劝复读",
+        "onboard_time": 1692802121,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 181273,
+        "num": 181273,
+        "word": "乐山市民江边发现女版睡佛",
+        "onboard_time": 1692829096,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180404,
+        "num": 180404,
+        "word": "俄媒称普里戈任的私人飞机坠毁",
+        "onboard_time": 1692812121,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在金砖国家领导人第十五次会晤上的讲话#"
+    }
+  }
+}
