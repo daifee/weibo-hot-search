@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692918976645,
+  "endTime": 1692920038051,
   "band_list": [
     {
       "raw_hot": 2582990,
@@ -43,6 +43,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1256854,
+      "num": 1256854,
+      "word": "日本政府已向儿童发核污水安全传单",
+      "onboard_time": 1692876645,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1138441,
       "num": 1138441,
       "word": "富士山爆发若达5级东京会受影响",
@@ -59,20 +67,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1010673,
-      "num": 1010673,
-      "word": "日本政府已向儿童发核污水安全传单",
-      "onboard_time": 1692876645,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 824832,
       "num": 824832,
       "word": "中盐集团回应食盐抢购现象",
       "onboard_time": 1692886076,
       "rank": 4,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 788746,
+      "num": 788746,
+      "word": "日本核污染水排海4000天后海洋啥样",
+      "onboard_time": 1692887698,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 766552,
@@ -88,14 +96,6 @@
       "word": "韩国多个海鲜市场几乎空无一人",
       "onboard_time": 1692880379,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757912,
-      "num": 655727,
-      "word": "日本核污染水排海4000天后海洋啥样",
-      "onboard_time": 1692887698,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -219,6 +219,22 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 321634,
+      "num": 321634,
+      "word": "被骗至缅甸中科院博士已被解救",
+      "onboard_time": 1692881452,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319482,
+      "num": 205935,
+      "word": "专家谈日本核污水排海欧美反应",
+      "onboard_time": 1692904037,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310819,
       "num": 297279,
       "word": "这条小鱼在乎",
@@ -241,14 +257,6 @@
       "onboard_time": 1692891824,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 295640,
-      "num": 141432,
-      "word": "专家谈日本核污水排海欧美反应",
-      "onboard_time": 1692904037,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293177,
@@ -299,11 +307,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263951,
-      "num": 263951,
-      "word": "被骗至缅甸中科院博士已被解救",
-      "onboard_time": 1692881452,
-      "rank": 38,
+      "raw_hot": 267185,
+      "num": 202499,
+      "word": "特朗普计划于晚间黄金时段自首",
+      "onboard_time": 1692918147,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -313,6 +321,14 @@
       "onboard_time": 1692850025,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250150,
+      "num": 250150,
+      "word": "CCTV电视剧是在说骄阳伴我吗",
+      "onboard_time": 1692886739,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 248321,
@@ -361,14 +377,6 @@
       "onboard_time": 1692893917,
       "rank": 48,
       "category": "旅游,幽默"
-    },
-    {
-      "raw_hot": 196712,
-      "num": 196712,
-      "word": "CCTV电视剧是在说骄阳伴我吗",
-      "onboard_time": 1692886739,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 196274,
@@ -443,6 +451,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143066,
+      "num": 143066,
+      "word": "日本专家称核污水排海是早就决定好的",
+      "onboard_time": 1692905296,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141958,
+      "num": 141958,
+      "word": "小兔子吃葡萄有多可爱",
+      "onboard_time": 1692917907,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 136301,
+      "num": 136301,
+      "word": "披荆斩棘",
+      "onboard_time": 1692917004,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132498,
       "num": 132498,
       "word": "浙大迎来05后大一新生",
@@ -451,12 +483,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 132168,
-      "num": 132168,
-      "word": "披荆斩棘",
-      "onboard_time": 1692917004,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 131339,
+      "num": 131339,
+      "word": "官方回应网友晒高副处长的礼物",
+      "onboard_time": 1692904097,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130359,
@@ -467,28 +499,36 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126531,
-      "num": 126531,
-      "word": "官方回应网友晒高副处长的礼物",
-      "onboard_time": 1692904097,
-      "rank": 45,
+      "raw_hot": 129883,
+      "num": 136799,
+      "word": "杭州小伙要去缅北发财被紧急拦截",
+      "onboard_time": 1692919110,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124420,
-      "num": 124420,
-      "word": "日本专家称核污水排海是早就决定好的",
-      "onboard_time": 1692905296,
-      "rank": 20,
+      "raw_hot": 123275,
+      "num": 123275,
+      "word": "上次抢的盐还没吃完",
+      "onboard_time": 1692919291,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120019,
-      "num": 120019,
-      "word": "特朗普计划于晚间黄金时段自首",
-      "onboard_time": 1692918147,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 115269,
+      "num": 115269,
+      "word": "普京回应普里戈任坠机遇难",
+      "onboard_time": 1692919894,
+      "rank": 37,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 108512,
+      "num": 108512,
+      "word": "4岁女童走失村里100多人冒雨找回",
+      "onboard_time": 1692913996,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 102748,
@@ -497,22 +537,6 @@
       "onboard_time": 1692877730,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 97187,
-      "num": 97187,
-      "word": "4岁女童走失村里100多人冒雨找回",
-      "onboard_time": 1692913996,
-      "rank": 39,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 96729,
-      "num": 96729,
-      "word": "小兔子吃葡萄有多可爱",
-      "onboard_time": 1692917907,
-      "rank": 38,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 91890,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 73928,
-      "num": 73928,
+      "num": 78874,
       "word": "张杰鸟巢彩排高音唱断琴弦",
       "onboard_time": 1692918027,
       "rank": 43,
@@ -569,6 +593,14 @@
       "onboard_time": 1692881577,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67422,
+      "num": 78882,
+      "word": "装腔启示录 暧昧高端局",
+      "onboard_time": 1692919894,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 62470,
