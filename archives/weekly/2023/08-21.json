@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692847018001,
+  "endTime": 1692848039319,
   "band_list": [
     {
       "raw_hot": 11115797,
@@ -241,6 +241,14 @@
       "onboard_time": 1692687101,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2312380,
+      "num": 606601,
+      "word": "张亮送天天出国留学",
+      "onboard_time": 1692845020,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2292712,
@@ -488,14 +496,6 @@
       "word": "那英泰国度假",
       "onboard_time": 1692760961,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1765816,
-      "num": 507568,
-      "word": "张亮送天天出国留学",
-      "onboard_time": 1692845020,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -811,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1325918,
+      "num": 1325918,
+      "word": "今天的核污染水排放量预计为200到210吨",
+      "onboard_time": 1692846521,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1318104,
       "num": 1318104,
       "word": "孤注一掷票房是谁在扛",
@@ -977,6 +985,14 @@
       "onboard_time": 1692628363,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1161342,
+      "num": 267945,
+      "word": "腾讯 李跳跳",
+      "onboard_time": 1692845804,
+      "rank": 30,
+      "category": "科技,网红"
     },
     {
       "raw_hot": 1154482,
@@ -1307,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 934742,
+      "num": 934742,
+      "word": "五部电影联合抵制网络黑水军",
+      "onboard_time": 1692846768,
+      "rank": 31,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 931989,
       "num": 230990,
       "word": "订婚发生关系后第4天女孩控告强奸",
@@ -1435,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 870455,
+      "num": 870455,
+      "word": "日本核污水排海或化作雨水洒遍全球",
+      "onboard_time": 1692833433,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 864538,
       "num": 864538,
       "word": "宁静太敢说了",
@@ -1481,14 +1513,6 @@
       "onboard_time": 1692801702,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 849782,
-      "num": 784292,
-      "word": "日本核污水排海或化作雨水洒遍全球",
-      "onboard_time": 1692833433,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 848884,
@@ -1548,7 +1572,7 @@
     },
     {
       "raw_hot": 830853,
-      "num": 356158,
+      "num": 357458,
       "word": "婴儿误被闷脸5分多钟3岁姐姐察觉掀被",
       "onboard_time": 1692845080,
       "rank": 20,
@@ -1625,14 +1649,6 @@
       "onboard_time": 1692749500,
       "rank": 8,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 800640,
-      "num": 267945,
-      "word": "腾讯 李跳跳",
-      "onboard_time": 1692845804,
-      "rank": 30,
-      "category": "科技,网红"
     },
     {
       "raw_hot": 798080,
@@ -3187,6 +3203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 474984,
+      "num": 264818,
+      "word": "日本前首相批排污入海",
+      "onboard_time": 1692847185,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472581,
       "num": 472581,
       "word": "华晨宇回应鸟巢四面台",
@@ -3265,14 +3289,6 @@
       "onboard_time": 1692703535,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 462584,
-      "num": 462584,
-      "word": "今天的核污染水排放量预计为200到210吨",
-      "onboard_time": 1692846521,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462349,
@@ -4209,6 +4225,14 @@
       "onboard_time": 1692612994,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 357822,
+      "num": 357822,
+      "word": "钉钉",
+      "onboard_time": 1692846401,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 357041,
@@ -5387,6 +5411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281539,
+      "num": 281539,
+      "word": "花轿喜事欢天囍地预告",
+      "onboard_time": 1692846768,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281126,
       "num": 235597,
       "word": "段奥娟近期风格",
@@ -5539,14 +5571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268997,
-      "num": 268997,
-      "word": "花轿喜事欢天囍地预告",
-      "onboard_time": 1692846768,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 268468,
       "num": 268468,
       "word": "莲花楼大结局reaction",
@@ -5617,14 +5641,6 @@
       "onboard_time": 1692840701,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266466,
-      "num": 266466,
-      "word": "五部电影联合抵制网络黑水军",
-      "onboard_time": 1692846768,
-      "rank": 31,
-      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 266443,
@@ -5915,6 +5931,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250150,
+      "num": 250150,
+      "word": "纯甄 长相思",
+      "onboard_time": 1692847843,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247845,
+      "num": 247845,
+      "word": "女生地铁上给大爷让座获赠2盒蓝莓",
+      "onboard_time": 1692847726,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247756,
       "num": 350589,
       "word": "去外省上大学的新生开始慌了",
@@ -5945,14 +5977,6 @@
       "onboard_time": 1692612516,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246613,
-      "num": 246613,
-      "word": "钉钉",
-      "onboard_time": 1692846401,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 246123,
@@ -6740,7 +6764,7 @@
     },
     {
       "raw_hot": 208322,
-      "num": 510463,
+      "num": 607091,
       "word": "舒淇 OPPO",
       "onboard_time": 1692845861,
       "rank": 10,
@@ -6801,6 +6825,14 @@
       "onboard_time": 1692718185,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207679,
+      "num": 207679,
+      "word": "日本东电10年来已多次排核污",
+      "onboard_time": 1692847786,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207319,
@@ -6865,6 +6897,14 @@
       "onboard_time": 1692799423,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205233,
+      "num": 205233,
+      "word": "日本核污染水排海最新情况",
+      "onboard_time": 1692847543,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205052,
@@ -7001,6 +7041,14 @@
       "onboard_time": 1692595718,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202321,
+      "num": 202321,
+      "word": "父辈的荣耀定档央视",
+      "onboard_time": 1692846221,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 201601,
@@ -7473,14 +7521,6 @@
       "onboard_time": 1692631536,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191488,
-      "num": 195658,
-      "word": "父辈的荣耀定档央视",
-      "onboard_time": 1692846221,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 191440,

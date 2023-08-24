@@ -1,0 +1,410 @@
+{
+  "runTime": 1692848039319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9363098,
+        "num": 9363098,
+        "word": "日本核污染水下午排入海洋",
+        "onboard_time": 1692834032,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2451989,
+        "num": 2451989,
+        "word": "吃下核污染食品后果有多严重",
+        "onboard_time": 1692838903,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57706,
+        "num": 2446074,
+        "word": "2023年中国网络视听精品创作峰会",
+        "onboard_time": 1692844541,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2440507,
+        "num": 2440507,
+        "word": "普京紧急返回莫斯科",
+        "onboard_time": 1692840582,
+        "rank": 3,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 1347359,
+        "num": 1347359,
+        "word": "杨迪去剪发店全是张艺兴",
+        "onboard_time": 1692844780,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1325918,
+        "num": 1325918,
+        "word": "今天的核污染水排放量预计为200到210吨",
+        "onboard_time": 1692846521,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934742,
+        "num": 934742,
+        "word": "五部电影联合抵制网络黑水军",
+        "onboard_time": 1692846768,
+        "rank": 6,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 870455,
+        "num": 870455,
+        "word": "日本核污水排海或化作雨水洒遍全球",
+        "onboard_time": 1692833433,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813098,
+        "num": 813098,
+        "word": "女生考研时查出尿毒症男友不离不弃",
+        "onboard_time": 1692841961,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 784965,
+        "num": 784965,
+        "word": "科比",
+        "onboard_time": 1692836082,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106662,
+        "num": 607091,
+        "word": "舒淇 OPPO",
+        "onboard_time": 1692845861,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2312380,
+        "num": 606601,
+        "word": "张亮送天天出国留学",
+        "onboard_time": 1692845020,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810270,
+        "num": 603647,
+        "word": "普里戈任确认在坠机中遇难",
+        "onboard_time": 1692832408,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 508180,
+        "num": 508180,
+        "word": "燃冬票房就像豆汁儿",
+        "onboard_time": 1692838843,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475414,
+        "num": 475414,
+        "word": "日本计划今年4次排放核污染水",
+        "onboard_time": 1692840823,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481254,
+        "num": 473446,
+        "word": "瓦格纳集团称普里戈任被叛徒杀害",
+        "onboard_time": 1692836503,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 466484,
+        "num": 466484,
+        "word": "民警在财务员手机里检测出3个高危APP",
+        "onboard_time": 1692840764,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409185,
+        "num": 409185,
+        "word": "A股",
+        "onboard_time": 1692843824,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 400409,
+        "num": 400409,
+        "word": "拜登称普京可能是幕后黑手",
+        "onboard_time": 1692837706,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 357822,
+        "num": 357822,
+        "word": "钉钉",
+        "onboard_time": 1692846401,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 822513,
+        "num": 357458,
+        "word": "婴儿误被闷脸5分多钟3岁姐姐察觉掀被",
+        "onboard_time": 1692845080,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470538,
+        "num": 357308,
+        "word": "虞书欣敢穿",
+        "onboard_time": 1692840164,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 357015,
+        "num": 357015,
+        "word": "被偷走录取通知书女生称妈妈已同意她去中戏",
+        "onboard_time": 1692801278,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332239,
+        "num": 332239,
+        "word": "苏可居然是中戏表演老师",
+        "onboard_time": 1692841300,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305774,
+        "num": 305774,
+        "word": "孙阳说于适比他红",
+        "onboard_time": 1692843763,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296394,
+        "num": 296394,
+        "word": "坠毁飞机乘客包括瓦格纳几乎所有高层",
+        "onboard_time": 1692832467,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 286448,
+        "num": 286448,
+        "word": "迪丽热巴来成都晒黑了",
+        "onboard_time": 1692838483,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281539,
+        "num": 281539,
+        "word": "花轿喜事欢天囍地预告",
+        "onboard_time": 1692846768,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270793,
+        "num": 270793,
+        "word": "女子称熬夜致免疫力低下确诊紫癜",
+        "onboard_time": 1692840104,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267508,
+        "num": 267508,
+        "word": "坠机现场发现普里戈任手机",
+        "onboard_time": 1692840880,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1161342,
+        "num": 265467,
+        "word": "腾讯 李跳跳",
+        "onboard_time": 1692845804,
+        "rank": 30,
+        "category": "科技,网红"
+      },
+      {
+        "raw_hot": 474984,
+        "num": 264818,
+        "word": "日本前首相批排污入海",
+        "onboard_time": 1692847185,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261857,
+        "num": 261857,
+        "word": "普京称俄经济体量已超越德国",
+        "onboard_time": 1692838006,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 250150,
+        "num": 250150,
+        "word": "纯甄 长相思",
+        "onboard_time": 1692847843,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247845,
+        "num": 247845,
+        "word": "女生地铁上给大爷让座获赠2盒蓝莓",
+        "onboard_time": 1692847726,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245045,
+        "num": 245045,
+        "word": "王阳新剧被李兰迪亲了的反应",
+        "onboard_time": 1692836204,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237509,
+        "num": 237509,
+        "word": "开始下意识劝弟弟妹妹好好学习了",
+        "onboard_time": 1692839984,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 234352,
+        "num": 234352,
+        "word": "四六级成绩",
+        "onboard_time": 1692832831,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229030,
+        "num": 229030,
+        "word": "民警和女友的约会太刺激了",
+        "onboard_time": 1692836743,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221072,
+        "num": 221072,
+        "word": "喜欢一个人能做到什么地步",
+        "onboard_time": 1692842501,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207679,
+        "num": 207679,
+        "word": "日本东电10年来已多次排核污",
+        "onboard_time": 1692847786,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205233,
+        "num": 205233,
+        "word": "日本核污染水排海最新情况",
+        "onboard_time": 1692847543,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202321,
+        "num": 202321,
+        "word": "父辈的荣耀定档央视",
+        "onboard_time": 1692846221,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201792,
+        "num": 201792,
+        "word": "原来涂山璟是桐华写给所有女生的一封情书",
+        "onboard_time": 1692815956,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201552,
+        "num": 201552,
+        "word": "张晚意郭涛对手戏",
+        "onboard_time": 1692846642,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201162,
+        "num": 201162,
+        "word": "为什么年轻人喜欢夜爬泰山",
+        "onboard_time": 1692841120,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200814,
+        "num": 200814,
+        "word": "社区给外卖快递小哥开食堂每顿3元",
+        "onboard_time": 1692845142,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191337,
+        "num": 191337,
+        "word": "Netflix史前生物纪录片星球生灵中字预告",
+        "onboard_time": 1692840701,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186752,
+        "num": 191031,
+        "word": "一拍即合的我们",
+        "onboard_time": 1692846882,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190954,
+        "num": 190954,
+        "word": "中方开展管辖海域海洋辐射环境监测",
+        "onboard_time": 1692838605,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在金砖国家领导人第十五次会晤上的讲话#"
+    }
+  }
+}
