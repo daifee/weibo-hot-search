@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692869626040,
+  "endTime": 1692872262018,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -59,6 +59,14 @@
       "category": "综艺,社会新闻"
     },
     {
+      "raw_hot": 5003265,
+      "num": 1421283,
+      "word": "专家不建议我国效仿韩国民众囤盐",
+      "onboard_time": 1692864472,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4890806,
       "num": 4570600,
       "word": "乌合麒麟 与人类同归于尽吗混蛋",
@@ -72,14 +80,6 @@
       "word": "富士山",
       "onboard_time": 1692852968,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4389383,
-      "num": 1421283,
-      "word": "专家不建议我国效仿韩国民众囤盐",
-      "onboard_time": 1692864472,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -121,6 +121,14 @@
       "onboard_time": 1692692981,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3526225,
+      "num": 1348008,
+      "word": "受日本核污水影响最大的省份",
+      "onboard_time": 1692866577,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3422324,
@@ -272,6 +280,14 @@
       "word": "炫富致丈夫被查妻子回应",
       "onboard_time": 1692797076,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2663618,
+      "num": 597176,
+      "word": "多地提醒市民不必抢盐囤盐",
+      "onboard_time": 1692870591,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -667,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1770450,
+      "num": 1770450,
+      "word": "日本化妆品",
+      "onboard_time": 1692858417,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1760981,
       "num": 1408998,
       "word": "南方电网员工老婆高调炫富惹争议",
@@ -995,28 +1019,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1378416,
+      "num": 1588523,
+      "word": "AI换脸换声让已故演员重现屏幕",
+      "onboard_time": 1692855004,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1373296,
+      "num": 592994,
+      "word": "日本62岁渔民叹息被政府骗了",
+      "onboard_time": 1692869514,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1370990,
+      "num": 590453,
+      "word": "福岛患癌人数逐年上升",
+      "onboard_time": 1692870474,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1365526,
       "num": 1365526,
       "word": "杨迪去剪发店全是张艺兴",
       "onboard_time": 1692844780,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1364487,
-      "num": 786317,
-      "word": "日本化妆品",
-      "onboard_time": 1692858417,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1348008,
-      "num": 1348008,
-      "word": "受日本核污水影响最大的省份",
-      "onboard_time": 1692866577,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1318104,
@@ -1041,14 +1073,6 @@
       "onboard_time": 1692775594,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1301762,
-      "num": 1588523,
-      "word": "AI换脸换声让已故演员重现屏幕",
-      "onboard_time": 1692855004,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1301506,
@@ -1867,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 839451,
+      "num": 1218468,
+      "word": "黄渤回答演烂片",
+      "onboard_time": 1692867951,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 832425,
       "num": 832425,
       "word": "情侣七夕熬夜排队5小时领证2分钟",
@@ -2387,14 +2419,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 704352,
-      "num": 1218468,
-      "word": "黄渤回答演烂片",
-      "onboard_time": 1692867951,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 697180,
       "num": 697180,
       "word": "骄阳似我",
@@ -2707,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622051,
+      "num": 1494017,
+      "word": "19岁大学生守号3月中758万",
+      "onboard_time": 1692869034,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622005,
       "num": 622005,
       "word": "七夕文案",
@@ -2817,6 +2849,14 @@
       "onboard_time": 1692592664,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 604578,
+      "num": 604578,
+      "word": "Look What You Made Me Do重录版",
+      "onboard_time": 1692869449,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 604434,
@@ -3027,6 +3067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566429,
+      "num": 566429,
+      "word": "我们强烈反对日本核污染水排海",
+      "onboard_time": 1692870715,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565948,
       "num": 565948,
       "word": "长空之王上映第118天票房逆跌",
@@ -3057,6 +3105,14 @@
       "onboard_time": 1692791739,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 562159,
+      "num": 586882,
+      "word": "韩官员称日本核污染水排海在所难免",
+      "onboard_time": 1692871612,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559362,
@@ -3097,6 +3153,14 @@
       "onboard_time": 1692664360,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554652,
+      "num": 554652,
+      "word": "日本曾承诺未获理解不会排海",
+      "onboard_time": 1692862136,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 549706,
@@ -3169,6 +3233,14 @@
       "onboard_time": 1692684038,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 544522,
+      "num": 544522,
+      "word": "日本民众将起诉日政府和东电",
+      "onboard_time": 1692869989,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543773,
@@ -3289,14 +3361,6 @@
       "onboard_time": 1692777815,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 534505,
-      "num": 534505,
-      "word": "日本曾承诺未获理解不会排海",
-      "onboard_time": 1692862136,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534372,
@@ -3883,6 +3947,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 460300,
+      "num": 449878,
+      "word": "偏偏选择了一个孩子来侮辱我",
+      "onboard_time": 1692870413,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 458198,
       "num": 458198,
       "word": "唐嫣刘学义被狗追出表情包",
@@ -3985,14 +4057,6 @@
       "onboard_time": 1692696819,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 450526,
-      "num": 1494017,
-      "word": "19岁大学生守号3月中758万",
-      "onboard_time": 1692869034,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447333,
@@ -4201,6 +4265,14 @@
       "onboard_time": 1692771035,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 426067,
+      "num": 426067,
+      "word": "普里戈任坠机遇难的背后有哪些疑点",
+      "onboard_time": 1692870355,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424664,
@@ -5059,6 +5131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343308,
+      "num": 1359115,
+      "word": "老人晒玉米遇下雨4岁孙女边哭边捡",
+      "onboard_time": 1692867653,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343230,
       "num": 1382760,
       "word": "奶奶起身吃力3岁狗狗甘当拐杖",
@@ -5105,6 +5185,14 @@
       "onboard_time": 1692783695,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 340895,
+      "num": 340895,
+      "word": "瘦腿再也不难了",
+      "onboard_time": 1692868253,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 340414,
@@ -5473,6 +5561,14 @@
       "onboard_time": 1692591281,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 320330,
+      "num": 320330,
+      "word": "日本核污水排海中国怎么办",
+      "onboard_time": 1692871314,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319762,
@@ -6035,6 +6131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 290277,
+      "num": 290277,
+      "word": "富士山爆发若达5级东京会受影响",
+      "onboard_time": 1692871130,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289893,
       "num": 289893,
       "word": "蒯曼3比2孙颖莎",
@@ -6355,6 +6459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270313,
+      "num": 270313,
+      "word": "虾滑麻酱拌宽面",
+      "onboard_time": 1692871729,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 269663,
       "num": 269663,
       "word": "周也孤注一掷破30亿海报",
@@ -6579,14 +6691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 260877,
-      "num": 260877,
-      "word": "Look What You Made Me Do重录版",
-      "onboard_time": 1692869449,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 260695,
       "num": 260695,
       "word": "檀健次着迷舞台首秀",
@@ -6779,6 +6883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252351,
+      "num": 252351,
+      "word": "邓为什么时候跳whatever",
+      "onboard_time": 1692869449,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252167,
       "num": 252167,
       "word": "印度月船3号成功着陆",
@@ -6787,28 +6899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252090,
-      "num": 252090,
-      "word": "邓为什么时候跳whatever",
-      "onboard_time": 1692869449,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 251979,
-      "num": 251979,
-      "word": "日本62岁渔民叹息被政府骗了",
-      "onboard_time": 1692869514,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251354,
-      "num": 251354,
-      "word": "瘦腿再也不难了",
-      "onboard_time": 1692868253,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 252004,
+      "num": 1074367,
+      "word": "感觉我也要上清华了",
+      "onboard_time": 1692870651,
+      "rank": 4,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 247756,
@@ -7091,6 +7187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236220,
+      "num": 236220,
+      "word": "日本品牌",
+      "onboard_time": 1692872032,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236068,
       "num": 236068,
       "word": "舒淇 维纳斯的诞生",
@@ -7112,14 +7216,6 @@
       "word": "00后女孩裸辞回乡陪爷爷奶奶",
       "onboard_time": 1692662616,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235765,
-      "num": 1359115,
-      "word": "老人晒玉米遇下雨4岁孙女边哭边捡",
-      "onboard_time": 1692867653,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -7769,6 +7865,14 @@
       "onboard_time": 1692797498,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207978,
+      "num": 207978,
+      "word": "热烈王一博惊叹号聚餐变干饭人",
+      "onboard_time": 1692868675,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 207970,
@@ -8784,6 +8888,14 @@
       "word": "中国没有称王称霸的基因",
       "onboard_time": 1692796659,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180773,
+      "num": 871209,
+      "word": "可能模糊的是她的童年吧",
+      "onboard_time": 1692870651,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -10417,6 +10529,14 @@
       "onboard_time": 1692562934,
       "rank": 48,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 18817,
+      "num": 596592,
+      "word": "7旬护边员52年徒步巡边10万公里",
+      "onboard_time": 1692871250,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16203,
