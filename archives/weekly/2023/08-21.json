@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692875625422,
+  "endTime": 1692876828080,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -249,6 +249,14 @@
       "onboard_time": 1692840582,
       "rank": 10,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 2726018,
+      "num": 967601,
+      "word": "富士山爆发若达5级东京会受影响",
+      "onboard_time": 1692871130,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2716655,
@@ -587,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1926168,
-      "num": 967601,
-      "word": "富士山爆发若达5级东京会受影响",
-      "onboard_time": 1692871130,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1916840,
       "num": 1916840,
       "word": "iPhone15Pro被曝的21项变化",
@@ -889,6 +889,14 @@
       "onboard_time": 1692859856,
       "rank": 23,
       "category": "社会新闻,动漫"
+    },
+    {
+      "raw_hot": 1554657,
+      "num": 556932,
+      "word": "上海8家日料店7家称无日本进口",
+      "onboard_time": 1692874968,
+      "rank": 21,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1540712,
@@ -2155,6 +2163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 765557,
+      "num": 765557,
+      "word": "肖战开启都市剧",
+      "onboard_time": 1692873114,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 763419,
       "num": 763419,
       "word": "贾冰跟魏大勋说我也孟男了",
@@ -2393,14 +2409,6 @@
       "onboard_time": 1692788141,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 718703,
-      "num": 718703,
-      "word": "肖战开启都市剧",
-      "onboard_time": 1692873114,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 716557,
@@ -2827,6 +2835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 611990,
+      "num": 611990,
+      "word": "魏大勋 RIO微醺",
+      "onboard_time": 1692876168,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 611527,
       "num": 611527,
       "word": "彪子 曾经只有侯雯元爱你",
@@ -2953,6 +2969,14 @@
       "onboard_time": 1692809427,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 597624,
+      "num": 534922,
+      "word": "日本核污水排海中国怎么办",
+      "onboard_time": 1692871314,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596099,
@@ -3153,14 +3177,6 @@
       "onboard_time": 1692795760,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 556932,
-      "num": 556932,
-      "word": "上海8家日料店7家称无日本进口",
-      "onboard_time": 1692874968,
-      "rank": 21,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 556534,
@@ -3707,6 +3723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493526,
+      "num": 493526,
+      "word": "张晚意王楚然新剧同框路透",
+      "onboard_time": 1692875267,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 491137,
       "num": 491137,
       "word": "魏大勋去年用孟宴臣身份过的七夕",
@@ -3899,6 +3923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 469388,
+      "num": 469388,
+      "word": "越休息越累的原因找到了",
+      "onboard_time": 1692874612,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 467673,
       "num": 467673,
       "word": "白敬亭或将演骄阳似我男主",
@@ -3945,14 +3977,6 @@
       "onboard_time": 1692703535,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 465109,
-      "num": 465109,
-      "word": "日本核污水排海中国怎么办",
-      "onboard_time": 1692871314,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462349,
@@ -4145,6 +4169,14 @@
       "onboard_time": 1692626862,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 443610,
+      "num": 443610,
+      "word": "张艺凡演的明兰",
+      "onboard_time": 1692876353,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 443322,
@@ -4811,14 +4843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380864,
-      "num": 380864,
-      "word": "越休息越累的原因找到了",
-      "onboard_time": 1692874612,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 380385,
       "num": 380385,
       "word": "秦牛正威直播再道歉",
@@ -4987,6 +5011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 366308,
+      "num": 366308,
+      "word": "闫妮15秒揣了13次手机",
+      "onboard_time": 1692876107,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365190,
       "num": 365190,
       "word": "赵露思七夕库存照",
@@ -5121,6 +5153,14 @@
       "onboard_time": 1692617440,
       "rank": 42,
       "category": "影视,美妆"
+    },
+    {
+      "raw_hot": 353879,
+      "num": 353879,
+      "word": "Jennie身上的生命力",
+      "onboard_time": 1692876107,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 353276,
@@ -5305,14 +5345,6 @@
       "onboard_time": 1692595419,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 339683,
-      "num": 339683,
-      "word": "张晚意王楚然新剧同框路透",
-      "onboard_time": 1692875267,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 337806,
@@ -5785,6 +5817,14 @@
       "onboard_time": 1692577540,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 312221,
+      "num": 312221,
+      "word": "日本政府已向儿童发核污水安全传单",
+      "onboard_time": 1692876645,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312160,
@@ -8476,7 +8516,7 @@
     },
     {
       "raw_hot": 195844,
-      "num": 211710,
+      "num": 216600,
       "word": "KPL",
       "onboard_time": 1692872991,
       "rank": 49,
@@ -9083,6 +9123,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 174189,
+      "num": 596843,
+      "word": "女孩地铁上让座获赠2盒蓝莓",
+      "onboard_time": 1692874908,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174081,
       "num": 211404,
       "word": "从军校同学到军人夫妻",
@@ -9241,6 +9289,14 @@
       "onboard_time": 1692610239,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165589,
+      "num": 219601,
+      "word": "中式喝奶茶法",
+      "onboard_time": 1692875506,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 165476,
@@ -9625,14 +9681,6 @@
       "onboard_time": 1692541127,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134076,
-      "num": 196750,
-      "word": "中式喝奶茶法",
-      "onboard_time": 1692875506,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 133072,
@@ -10299,14 +10347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46040,
-      "num": 596843,
-      "word": "女孩地铁上让座获赠2盒蓝莓",
-      "onboard_time": 1692874908,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44595,
       "num": 44595,
       "word": "安乐传剧组hi6七夕加更预告",
@@ -10451,6 +10491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31122,
+      "num": 1036797,
+      "word": "秉持开放包容合作共赢的金砖精神",
+      "onboard_time": 1692862437,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30666,
       "num": 30666,
       "word": "周杰伦呼和浩特",
@@ -10529,14 +10577,6 @@
       "onboard_time": 1692562934,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27158,
-      "num": 1036797,
-      "word": "秉持开放包容合作共赢的金砖精神",
-      "onboard_time": 1692862437,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26556,

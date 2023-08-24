@@ -1,6 +1,6 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692875625422,
+  "endTime": 1692876828080,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -139,6 +139,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 2726018,
+      "num": 967601,
+      "word": "富士山爆发若达5级东京会受影响",
+      "onboard_time": 1692871130,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2716655,
       "num": 1154325,
       "word": "郭帆用日漫讽刺日本",
@@ -259,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1926168,
-      "num": 967601,
-      "word": "富士山爆发若达5级东京会受影响",
-      "onboard_time": 1692871130,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1909852,
       "num": 1909852,
       "word": "普里戈任尸体已被初步确认",
@@ -313,6 +313,14 @@
       "onboard_time": 1692859856,
       "rank": 23,
       "category": "社会新闻,动漫"
+    },
+    {
+      "raw_hot": 1554657,
+      "num": 556932,
+      "word": "上海8家日料店7家称无日本进口",
+      "onboard_time": 1692874968,
+      "rank": 21,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1475986,
@@ -627,6 +635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 765557,
+      "num": 765557,
+      "word": "肖战开启都市剧",
+      "onboard_time": 1692873114,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 762297,
       "num": 501575,
       "word": "核污水所含放射性元素半衰期超5000年",
@@ -681,14 +697,6 @@
       "onboard_time": 1692840764,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 718703,
-      "num": 718703,
-      "word": "肖战开启都市剧",
-      "onboard_time": 1692873114,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 714166,
@@ -779,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 611990,
+      "num": 611990,
+      "word": "魏大勋 RIO微醺",
+      "onboard_time": 1692876168,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604578,
       "num": 604578,
       "word": "Look What You Made Me Do重录版",
@@ -809,6 +825,14 @@
       "onboard_time": 1692809427,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 597624,
+      "num": 534922,
+      "word": "日本核污水排海中国怎么办",
+      "onboard_time": 1692871314,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 588901,
@@ -849,14 +873,6 @@
       "onboard_time": 1692870715,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 556932,
-      "num": 556932,
-      "word": "上海8家日料店7家称无日本进口",
-      "onboard_time": 1692874968,
-      "rank": 21,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 555914,
@@ -987,6 +1003,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 493526,
+      "num": 493526,
+      "word": "张晚意王楚然新剧同框路透",
+      "onboard_time": 1692875267,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 489828,
       "num": 489828,
       "word": "普京称俄经济体量已超越德国",
@@ -1051,12 +1075,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 465109,
-      "num": 465109,
-      "word": "日本核污水排海中国怎么办",
-      "onboard_time": 1692871314,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 469388,
+      "num": 469388,
+      "word": "越休息越累的原因找到了",
+      "onboard_time": 1692874612,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 464887,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1692870413,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 443610,
+      "num": 443610,
+      "word": "张艺凡演的明兰",
+      "onboard_time": 1692876353,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 442456,
@@ -1275,14 +1307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380864,
-      "num": 380864,
-      "word": "越休息越累的原因找到了",
-      "onboard_time": 1692874612,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 376673,
       "num": 376673,
       "word": "迪丽热巴大明星的星光",
@@ -1331,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 366308,
+      "num": 366308,
+      "word": "闫妮15秒揣了13次手机",
+      "onboard_time": 1692876107,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362756,
       "num": 362756,
       "word": "孙阳说于适比他红",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1692846401,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 353879,
+      "num": 353879,
+      "word": "Jennie身上的生命力",
+      "onboard_time": 1692876107,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 353276,
@@ -1425,14 +1465,6 @@
       "onboard_time": 1692865732,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339683,
-      "num": 339683,
-      "word": "张晚意王楚然新剧同框路透",
-      "onboard_time": 1692875267,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 336698,
@@ -1513,6 +1545,14 @@
       "onboard_time": 1692860698,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 312221,
+      "num": 312221,
+      "word": "日本政府已向儿童发核污水安全传单",
+      "onboard_time": 1692876645,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311681,
@@ -2076,7 +2116,7 @@
     },
     {
       "raw_hot": 195844,
-      "num": 211710,
+      "num": 216600,
       "word": "KPL",
       "onboard_time": 1692872991,
       "rank": 49,
@@ -2171,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174189,
+      "num": 596843,
+      "word": "女孩地铁上让座获赠2盒蓝莓",
+      "onboard_time": 1692874908,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171619,
       "num": 171619,
       "word": "什么事你坚持了三年以上",
@@ -2185,6 +2233,14 @@
       "onboard_time": 1692826095,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165589,
+      "num": 219601,
+      "word": "中式喝奶茶法",
+      "onboard_time": 1692875506,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 163707,
@@ -2257,14 +2313,6 @@
       "onboard_time": 1692793238,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134076,
-      "num": 196750,
-      "word": "中式喝奶茶法",
-      "onboard_time": 1692875506,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 132826,
@@ -2427,14 +2475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46040,
-      "num": 596843,
-      "word": "女孩地铁上让座获赠2盒蓝莓",
-      "onboard_time": 1692874908,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40758,
       "num": 40758,
       "word": "热烈王一博现场加练的舞被加进正片",
@@ -2475,19 +2515,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31122,
+      "num": 1036797,
+      "word": "秉持开放包容合作共赢的金砖精神",
+      "onboard_time": 1692862437,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30367,
       "num": 30367,
       "word": "女子称写炫富小作文是为了举报丈夫",
       "onboard_time": 1692816497,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27158,
-      "num": 1036797,
-      "word": "秉持开放包容合作共赢的金砖精神",
-      "onboard_time": 1692862437,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
