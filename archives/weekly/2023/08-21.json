@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692833647683,
+  "endTime": 1692839324019,
   "band_list": [
     {
       "raw_hot": 11115797,
@@ -11,10 +11,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8087095,
+      "num": 2942897,
+      "word": "普里戈任确认在坠机中遇难",
+      "onboard_time": 1692832408,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 7558428,
       "num": 7558428,
       "word": "天津着火",
       "onboard_time": 1692686677,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7095668,
+      "num": 8345668,
+      "word": "日本核污染水下午排入海洋",
+      "onboard_time": 1692834032,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -105,14 +121,6 @@
       "onboard_time": 1692600216,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2942897,
-      "num": 2942897,
-      "word": "普里戈任确认在坠机中遇难",
-      "onboard_time": 1692832408,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 2809659,
@@ -225,6 +233,14 @@
       "onboard_time": 1692698974,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2275014,
+      "num": 2275014,
+      "word": "科比",
+      "onboard_time": 1692836082,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2273885,
@@ -369,6 +385,14 @@
       "onboard_time": 1692586235,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1855774,
+      "num": 1531690,
+      "word": "坠毁飞机乘客包括瓦格纳几乎所有高层",
+      "onboard_time": 1692832467,
+      "rank": 27,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1845351,
@@ -627,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1531690,
-      "num": 1531690,
-      "word": "坠毁飞机乘客包括瓦格纳几乎所有高层",
-      "onboard_time": 1692832467,
-      "rank": 27,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 1523565,
       "num": 455993,
       "word": "吴宗宪 人丑才性骚扰",
@@ -825,6 +841,14 @@
       "onboard_time": 1692761138,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1247318,
+      "num": 729404,
+      "word": "瓦格纳集团称普里戈任被叛徒杀害",
+      "onboard_time": 1692836503,
+      "rank": 9,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1246380,
@@ -1051,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1056501,
+      "num": 1056501,
+      "word": "王阳新剧被李兰迪亲了的反应",
+      "onboard_time": 1692836204,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1045676,
       "num": 1045676,
       "word": "C罗怒喷傅明",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1692798278,
       "rank": 11,
       "category": "其它"
+    },
+    {
+      "raw_hot": 959491,
+      "num": 959491,
+      "word": "景甜没人告诉我扫楼要跑啊",
+      "onboard_time": 1692819314,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 958978,
@@ -1451,6 +1491,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 824204,
+      "num": 720105,
+      "word": "拜登称普京可能是幕后黑手",
+      "onboard_time": 1692837706,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 822085,
       "num": 822085,
       "word": "iPhone用两年什么变化",
@@ -1691,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 744245,
+      "num": 744245,
+      "word": "日本核污水排海或化作雨水洒遍全球",
+      "onboard_time": 1692833433,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 743833,
       "num": 743833,
       "word": "长大后最羡慕的朋友圈",
@@ -1857,6 +1913,14 @@
       "onboard_time": 1692689025,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 691732,
+      "num": 691732,
+      "word": "民警和女友的约会太刺激了",
+      "onboard_time": 1692836743,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 680605,
@@ -2436,7 +2500,7 @@
     },
     {
       "raw_hot": 556534,
-      "num": 346558,
+      "num": 385685,
       "word": "立秋最狠减肥法",
       "onboard_time": 1692803141,
       "rank": 28,
@@ -2553,6 +2617,14 @@
       "onboard_time": 1692717948,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 537076,
+      "num": 537076,
+      "word": "赴港存30万利息多6000元",
+      "onboard_time": 1692834514,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 536920,
@@ -2851,6 +2923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 495607,
+      "num": 495607,
+      "word": "李跳跳",
+      "onboard_time": 1692836322,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 495342,
       "num": 495342,
       "word": "皓衣行",
@@ -3099,6 +3179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460654,
+      "num": 460654,
+      "word": "马云分享近况",
+      "onboard_time": 1692832046,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 458198,
       "num": 458198,
       "word": "唐嫣刘学义被狗追出表情包",
@@ -3331,6 +3419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428002,
+      "num": 381507,
+      "word": "迪丽热巴来成都晒黑了",
+      "onboard_time": 1692838483,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 427858,
       "num": 427858,
       "word": "浙江公安请市民免费看孤注一掷",
@@ -3459,14 +3555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 412600,
-      "num": 412600,
-      "word": "景甜没人告诉我扫楼要跑啊",
-      "onboard_time": 1692819314,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 412131,
       "num": 412131,
       "word": "亲爱的猎罪相思",
@@ -3539,14 +3627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403106,
-      "num": 403106,
-      "word": "马云分享近况",
-      "onboard_time": 1692832046,
-      "rank": 31,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 402868,
       "num": 358743,
       "word": "什么事你坚持了三年以上",
@@ -3577,6 +3657,14 @@
       "onboard_time": 1692591460,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 400357,
+      "num": 400357,
+      "word": "梅西",
+      "onboard_time": 1692837946,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 400126,
@@ -3675,6 +3763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 391780,
+      "num": 391780,
+      "word": "六级没过",
+      "onboard_time": 1692835545,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 390431,
       "num": 324478,
       "word": "无意中看到了爸爸的网购记录",
@@ -3761,6 +3857,14 @@
       "onboard_time": 1692765280,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 381021,
+      "num": 381021,
+      "word": "吉克隽逸到底有多少美甲",
+      "onboard_time": 1692836743,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 380385,
@@ -3880,6 +3984,14 @@
       "word": "易烊千玺手写少年的你情书",
       "onboard_time": 1692720046,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 367418,
+      "num": 367418,
+      "word": "燃冬 情欲的流动",
+      "onboard_time": 1692838305,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -4243,6 +4355,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 331228,
+      "num": 331228,
+      "word": "心动6女二同时选了男二男六",
+      "onboard_time": 1692834396,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 331044,
+      "num": 331044,
+      "word": "原来涂山璟是桐华写给所有女生的一封情书",
+      "onboard_time": 1692815956,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330348,
       "num": 276883,
       "word": "无毛猫和布偶猫的日常",
@@ -4475,6 +4603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318111,
+      "num": 318111,
+      "word": "中方开展管辖海域海洋辐射环境监测",
+      "onboard_time": 1692838605,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317926,
       "num": 317926,
       "word": "胡夏陈都灵想把我唱给你听",
@@ -4521,6 +4657,14 @@
       "onboard_time": 1692788320,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 314966,
+      "num": 314966,
+      "word": "普京称俄经济体量已超越德国",
+      "onboard_time": 1692838006,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 314472,
@@ -4593,6 +4737,14 @@
       "onboard_time": 1692670477,
       "rank": 37,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 310578,
+      "num": 310578,
+      "word": "燃冬票房就像豆汁儿",
+      "onboard_time": 1692838843,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 310154,
@@ -4707,6 +4859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303321,
+      "num": 303321,
+      "word": "俄公布普里戈任坠机事件机上人员名单",
+      "onboard_time": 1692838367,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 303187,
       "num": 303187,
       "word": "莲花楼",
@@ -4744,6 +4904,14 @@
       "word": "张万森好久不见",
       "onboard_time": 1692670298,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 300914,
+      "num": 300914,
+      "word": "今年暑期档真正的剧王",
+      "onboard_time": 1692834154,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -4785,6 +4953,14 @@
       "onboard_time": 1692792697,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296680,
+      "num": 296680,
+      "word": "晚上10点宠物医院人均两位陪护",
+      "onboard_time": 1692837345,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296419,
@@ -4913,6 +5089,14 @@
       "onboard_time": 1692764859,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289396,
+      "num": 289396,
+      "word": "一路朝阳回应黎光有女儿了",
+      "onboard_time": 1692835844,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 289005,
@@ -5057,6 +5241,14 @@
       "onboard_time": 1692796060,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280221,
+      "num": 280221,
+      "word": "莲花楼的打戏真的可以封神的程度",
+      "onboard_time": 1692839024,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 279974,
@@ -5515,6 +5707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254186,
+      "num": 254186,
+      "word": "吃下核污染食品后果有多严重",
+      "onboard_time": 1692838903,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252792,
       "num": 252792,
       "word": "灼灼风流 女子公平",
@@ -5803,14 +6003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233363,
-      "num": 212821,
-      "word": "原来涂山璟是桐华写给所有女生的一封情书",
-      "onboard_time": 1692815956,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 232738,
       "num": 232738,
       "word": "陈牧驰工作室破防老板第一人",
@@ -6081,6 +6273,14 @@
       "onboard_time": 1692782979,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217639,
+      "num": 217639,
+      "word": "学校超市已经准备好迎接新生了",
+      "onboard_time": 1692831925,
+      "rank": 40,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 217411,
@@ -6657,14 +6857,6 @@
       "onboard_time": 1692764438,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199863,
-      "num": 199863,
-      "word": "学校超市已经准备好迎接新生了",
-      "onboard_time": 1692831925,
-      "rank": 40,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 199759,
@@ -8243,14 +8435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95204,
-      "num": 95204,
-      "word": "日本核污水排海或化作雨水洒遍全球",
-      "onboard_time": 1692833433,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94025,
       "num": 94025,
       "word": "十二星座水逆指南",
@@ -8555,6 +8739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46616,
+      "num": 2284056,
+      "word": "我国与金砖国家经贸合作成绩亮眼",
+      "onboard_time": 1692796478,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46187,
       "num": 46187,
       "word": "这只萨摩耶是社牛吧",
@@ -8689,14 +8881,6 @@
       "onboard_time": 1692815599,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 32039,
-      "num": 2284056,
-      "word": "我国与金砖国家经贸合作成绩亮眼",
-      "onboard_time": 1692796478,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31271,
