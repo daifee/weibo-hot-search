@@ -1,0 +1,410 @@
+{
+  "runTime": 1692861307323,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9552178,
+        "num": 9552178,
+        "word": "日本核污染水排海正式开始",
+        "onboard_time": 1692850025,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6156773,
+        "num": 6156773,
+        "word": "日本官员喝下核污染水4年后引退消失",
+        "onboard_time": 1692848387,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240781,
+        "num": 4718713,
+        "word": "杭州亚运主题歌曲发布",
+        "onboard_time": 1692856799,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4570600,
+        "num": 4570600,
+        "word": "乌合麒麟 与人类同归于尽吗混蛋",
+        "onboard_time": 1692858594,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2198109,
+        "num": 2198109,
+        "word": "外交部就日本启动核污染水排海发表谈话",
+        "onboard_time": 1692852197,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 909737,
+        "num": 909737,
+        "word": "四杯咖啡 五个领导",
+        "onboard_time": 1692858956,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 790958,
+        "num": 790958,
+        "word": "AI换脸换声让已故演员重现屏幕",
+        "onboard_time": 1692855004,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763863,
+        "num": 763863,
+        "word": "杜海涛吃蜈蚣在嘴里八进八出",
+        "onboard_time": 1692849960,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378001,
+        "num": 559233,
+        "word": "普里戈任尸体已被初步确认",
+        "onboard_time": 1692848204,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 346972,
+        "num": 543333,
+        "word": "日本东电10年来已多次排核污",
+        "onboard_time": 1692847786,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3149282,
+        "num": 543321,
+        "word": "日料",
+        "onboard_time": 1692857584,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542812,
+        "num": 542812,
+        "word": "谁教张若昀这么用美颜的",
+        "onboard_time": 1692858296,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528716,
+        "num": 528716,
+        "word": "张亮送天天出国留学",
+        "onboard_time": 1692845020,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2726046,
+        "num": 527652,
+        "word": "日本将用700亿日元处理核污染水负面信息",
+        "onboard_time": 1692857343,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1585659,
+        "num": 486997,
+        "word": "海关总署全面暂停进口日本水产品",
+        "onboard_time": 1692855843,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370306,
+        "num": 370306,
+        "word": "迪丽热巴大明星的星光",
+        "onboard_time": 1692860038,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 338165,
+        "num": 338165,
+        "word": "核辐射",
+        "onboard_time": 1692859316,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2030523,
+        "num": 336985,
+        "word": "富士山",
+        "onboard_time": 1692852968,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316814,
+        "num": 316814,
+        "word": "JISOO特别版",
+        "onboard_time": 1692860698,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 306113,
+        "num": 306113,
+        "word": "李一桐怎么化个妆都这么快乐啊",
+        "onboard_time": 1692855606,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1886068,
+        "num": 305973,
+        "word": "中国日料店会大批量倒闭吗",
+        "onboard_time": 1692859920,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757123,
+        "num": 304488,
+        "word": "男子频繁开房一查发现有6个女友",
+        "onboard_time": 1692852254,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355038,
+        "num": 302183,
+        "word": "王一博躺小海肚子上",
+        "onboard_time": 1692856319,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1577549,
+        "num": 301755,
+        "word": "日漫叫不醒装睡的日本人",
+        "onboard_time": 1692859856,
+        "rank": 23,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 300332,
+        "num": 300332,
+        "word": "蒋依依一直把敖子逸送的手镯戴在身上",
+        "onboard_time": 1692856562,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289456,
+        "num": 289456,
+        "word": "泫雅想与金晓钟出演换乘恋爱3",
+        "onboard_time": 1692850933,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1490431,
+        "num": 286971,
+        "word": "美驻日大使称赞日本排海要尝福岛海鲜",
+        "onboard_time": 1692852254,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273179,
+        "num": 273179,
+        "word": "汪大东精神状态领先我十几年",
+        "onboard_time": 1692852968,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270617,
+        "num": 270617,
+        "word": "相柳再也没穿过这套衣服",
+        "onboard_time": 1692858896,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1230378,
+        "num": 267276,
+        "word": "福建人可三天无肉不能两顿没海鲜",
+        "onboard_time": 1692857343,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749792,
+        "num": 260575,
+        "word": "胡锡进 别吃从日本进口的海鲜了",
+        "onboard_time": 1692860457,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603323,
+        "num": 251760,
+        "word": "核污染水3000天横跨太平洋",
+        "onboard_time": 1692859138,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418165,
+        "num": 246074,
+        "word": "韩国大学生冲入日本使馆被捕",
+        "onboard_time": 1692860698,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 244672,
+        "num": 244672,
+        "word": "杨迪去剪发店全是张艺兴",
+        "onboard_time": 1692844780,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1221076,
+        "num": 244611,
+        "word": "联合国",
+        "onboard_time": 1692858000,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 249315,
+        "num": 242954,
+        "word": "日本就是这样感谢和回馈世界的",
+        "onboard_time": 1692860878,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239050,
+        "num": 239050,
+        "word": "夭璟加长花絮",
+        "onboard_time": 1692859076,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1103341,
+        "num": 238937,
+        "word": "日本化妆品",
+        "onboard_time": 1692858417,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381236,
+        "num": 238485,
+        "word": "韩国将维持对日本福岛水产品的进口禁令不变",
+        "onboard_time": 1692857041,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237870,
+        "num": 237870,
+        "word": "这些广播剧我能听半年",
+        "onboard_time": 1692860584,
+        "rank": 39,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 237374,
+        "num": 237374,
+        "word": "婴儿误被闷脸5分多钟3岁姐姐察觉掀被",
+        "onboard_time": 1692845080,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761185,
+        "num": 237300,
+        "word": "福岛排放核污水地区瞬时辐射量增加",
+        "onboard_time": 1692858055,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236887,
+        "num": 236887,
+        "word": "冯绍峰一直跟在景甜后面",
+        "onboard_time": 1692855062,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227555,
+        "num": 227555,
+        "word": "殷商勇士 踏平冀州",
+        "onboard_time": 1692851123,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 760416,
+        "num": 223933,
+        "word": "核污水排放或对美国影响更大",
+        "onboard_time": 1692851412,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 215482,
+        "num": 215482,
+        "word": "封神全员BE",
+        "onboard_time": 1692861295,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211536,
+        "num": 211536,
+        "word": "e人和i人的相册对比",
+        "onboard_time": 1692861181,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 723892,
+        "num": 209168,
+        "word": "韩称若日本核污水排放不合标准将提起国际诉讼",
+        "onboard_time": 1692855190,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 249792,
+        "num": 207609,
+        "word": "哥斯拉",
+        "onboard_time": 1692852732,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 191638,
+        "num": 205060,
+        "word": "腾讯 李跳跳",
+        "onboard_time": 1692845804,
+        "rank": 49,
+        "category": "科技,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平分别会见多国领导人#"
+    }
+  }
+}
