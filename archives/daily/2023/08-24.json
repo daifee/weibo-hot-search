@@ -1,6 +1,6 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692872262018,
+  "endTime": 1692873270354,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -83,19 +83,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3629486,
+      "num": 1348008,
+      "word": "受日本核污水影响最大的省份",
+      "onboard_time": 1692866577,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3569575,
       "num": 1403991,
       "word": "中国日料店会大批量倒闭吗",
       "onboard_time": 1692859920,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3526225,
-      "num": 1348008,
-      "word": "受日本核污水影响最大的省份",
-      "onboard_time": 1692866577,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -112,6 +112,14 @@
       "word": "日料",
       "onboard_time": 1692857584,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3117849,
+      "num": 597176,
+      "word": "多地提醒市民不必抢盐囤盐",
+      "onboard_time": 1692870591,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -139,19 +147,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2691315,
+      "num": 1770450,
+      "word": "日本化妆品",
+      "onboard_time": 1692858417,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2688057,
       "num": 2688057,
       "word": "吃下核污染食品后果有多严重",
       "onboard_time": 1692838903,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2663618,
-      "num": 597176,
-      "word": "多地提醒市民不必抢盐囤盐",
-      "onboard_time": 1692870591,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -251,19 +259,19 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1797390,
+      "num": 590453,
+      "word": "福岛患癌人数逐年上升",
+      "onboard_time": 1692870474,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1788152,
       "num": 1691589,
       "word": "都排成鸳鸯锅了还嘴硬是安全的",
       "onboard_time": 1692861478,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1770450,
-      "num": 1770450,
-      "word": "日本化妆品",
-      "onboard_time": 1692858417,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -291,6 +299,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 1516088,
+      "num": 592994,
+      "word": "日本62岁渔民叹息被政府骗了",
+      "onboard_time": 1692869514,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1475986,
       "num": 1475986,
       "word": "四六级成绩",
@@ -312,22 +328,6 @@
       "word": "AI换脸换声让已故演员重现屏幕",
       "onboard_time": 1692855004,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1373296,
-      "num": 592994,
-      "word": "日本62岁渔民叹息被政府骗了",
-      "onboard_time": 1692869514,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1370990,
-      "num": 590453,
-      "word": "福岛患癌人数逐年上升",
-      "onboard_time": 1692870474,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -489,6 +489,14 @@
       "onboard_time": 1692819314,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 957453,
+      "num": 586882,
+      "word": "韩官员称日本核污染水排海在所难免",
+      "onboard_time": 1692871612,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 949978,
@@ -707,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645218,
+      "num": 487372,
+      "word": "富士山爆发若达5级东京会受影响",
+      "onboard_time": 1692871130,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641066,
       "num": 641066,
       "word": "苏可居然是中戏表演老师",
@@ -816,14 +832,6 @@
       "word": "我们强烈反对日本核污染水排海",
       "onboard_time": 1692870715,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 562159,
-      "num": 586882,
-      "word": "韩官员称日本核污染水排海在所难免",
-      "onboard_time": 1692871612,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1084,7 +1092,7 @@
     },
     {
       "raw_hot": 426067,
-      "num": 426067,
+      "num": 482173,
       "word": "普里戈任坠机遇难的背后有哪些疑点",
       "onboard_time": 1692870355,
       "rank": 32,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1692856562,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411896,
+      "num": 411896,
+      "word": "日本品牌",
+      "onboard_time": 1692872032,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409335,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1692867294,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 405302,
+      "num": 405302,
+      "word": "王鹤棣唐装",
+      "onboard_time": 1692872753,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 398160,
@@ -1267,12 +1291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359877,
+      "num": 359877,
+      "word": "瘦腿再也不难了",
+      "onboard_time": 1692868253,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357822,
       "num": 357822,
       "word": "钉钉",
       "onboard_time": 1692846401,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 354263,
+      "num": 1074367,
+      "word": "感觉我也要上清华了",
+      "onboard_time": 1692870651,
+      "rank": 4,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 353276,
@@ -1307,6 +1347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346233,
+      "num": 346233,
+      "word": "日本核污水排海中国怎么办",
+      "onboard_time": 1692871314,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343308,
       "num": 1359115,
       "word": "老人晒玉米遇下雨4岁孙女边哭边捡",
@@ -1321,14 +1369,6 @@
       "onboard_time": 1692852012,
       "rank": 38,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 340895,
-      "num": 340895,
-      "word": "瘦腿再也不难了",
-      "onboard_time": 1692868253,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 340352,
@@ -1395,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 320330,
-      "num": 320330,
-      "word": "日本核污水排海中国怎么办",
-      "onboard_time": 1692871314,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316871,
       "num": 316871,
       "word": "为什么年轻人喜欢夜爬泰山",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1692860698,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 312252,
+      "num": 312252,
+      "word": "商务部回应我国全面暂停进口日本水产品",
+      "onboard_time": 1692872873,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311681,
@@ -1520,14 +1560,6 @@
       "word": "女生地铁上给大爷让座获赠2盒蓝莓",
       "onboard_time": 1692847726,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290277,
-      "num": 290277,
-      "word": "富士山爆发若达5级东京会受影响",
-      "onboard_time": 1692871130,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1667,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254956,
+      "num": 254956,
+      "word": "海洋生物的命也是命",
+      "onboard_time": 1692872329,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253692,
       "num": 253692,
       "word": "奶茶店遭遇120杯奶茶订单诈骗",
@@ -1691,18 +1731,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252004,
-      "num": 1074367,
-      "word": "感觉我也要上清华了",
-      "onboard_time": 1692870651,
-      "rank": 4,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 247680,
       "num": 247680,
       "word": "喜欢一个人能做到什么地步",
       "onboard_time": 1692842501,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247614,
+      "num": 247614,
+      "word": "肖战开启都市剧",
+      "onboard_time": 1692873114,
       "rank": 45,
       "category": "影视"
     },
@@ -1769,14 +1809,6 @@
       "onboard_time": 1692864234,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236220,
-      "num": 236220,
-      "word": "日本品牌",
-      "onboard_time": 1692872032,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236068,
@@ -1939,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207907,
+      "num": 871209,
+      "word": "可能模糊的是她的童年吧",
+      "onboard_time": 1692870651,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204823,
       "num": 204823,
       "word": "日本核污染水排海现场画面",
@@ -1975,6 +2015,14 @@
       "num": 215207,
       "word": "成都GG对战MRC",
       "onboard_time": 1692867355,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195844,
+      "num": 211710,
+      "word": "KPL",
+      "onboard_time": 1692872991,
       "rank": 49,
       "category": "游戏"
     },
@@ -2056,14 +2104,6 @@
       "word": "女子遇电诈跑进派出所保住120多万",
       "onboard_time": 1692844238,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180773,
-      "num": 871209,
-      "word": "可能模糊的是她的童年吧",
-      "onboard_time": 1692870651,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -2355,6 +2395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 33950,
+      "num": 596592,
+      "word": "7旬护边员52年徒步巡边10万公里",
+      "onboard_time": 1692871250,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30367,
       "num": 30367,
       "word": "女子称写炫富小作文是为了举报丈夫",
@@ -2393,14 +2441,6 @@
       "onboard_time": 1692818655,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 18817,
-      "num": 596592,
-      "word": "7旬护边员52年徒步巡边10万公里",
-      "onboard_time": 1692871250,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
