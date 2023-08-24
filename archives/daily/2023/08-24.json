@@ -1,6 +1,6 @@
 {
   "startTime": 1692807677313,
-  "endTime": 1692865222058,
+  "endTime": 1692866038315,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -67,7 +67,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 3404963,
+      "raw_hot": 3569575,
       "num": 1173756,
       "word": "中国日料店会大批量倒闭吗",
       "onboard_time": 1692859920,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3058895,
-      "num": 940585,
+      "num": 1018247,
       "word": "日本将用700亿日元处理核污染水负面信息",
       "onboard_time": 1692857343,
       "rank": 25,
@@ -113,6 +113,14 @@
       "onboard_time": 1692840582,
       "rank": 10,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 2716655,
+      "num": 482882,
+      "word": "郭帆用日漫讽刺日本",
+      "onboard_time": 1692863818,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2688057,
@@ -137,14 +145,6 @@
       "onboard_time": 1692803561,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2327014,
-      "num": 482882,
-      "word": "郭帆用日漫讽刺日本",
-      "onboard_time": 1692863818,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2312380,
@@ -179,6 +179,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2085338,
+      "num": 380907,
+      "word": "盐",
+      "onboard_time": 1692864472,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2064507,
       "num": 388248,
       "word": "腾讯 李跳跳",
@@ -209,6 +217,14 @@
       "onboard_time": 1692832467,
       "rank": 27,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1691589,
+      "num": 1691589,
+      "word": "都排成鸳鸯锅了还嘴硬是安全的",
+      "onboard_time": 1692861478,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1667465,
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1062846,
+      "num": 392869,
+      "word": "事已至此 先点菜吧",
+      "onboard_time": 1692864355,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1056501,
       "num": 1056501,
       "word": "王阳新剧被李兰迪亲了的反应",
@@ -363,12 +387,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1034550,
-      "num": 1034550,
-      "word": "都排成鸳鸯锅了还嘴硬是安全的",
-      "onboard_time": 1692861478,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 1041042,
+      "num": 491275,
+      "word": "贾静雯回应梧桐妹戴鼻环",
+      "onboard_time": 1692862253,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 1009006,
@@ -379,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1006231,
+      "num": 479319,
+      "word": "国内多家日料店调整产品线",
+      "onboard_time": 1692862853,
+      "rank": 12,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 997696,
       "num": 280876,
       "word": "挪威的房价",
       "onboard_time": 1692799299,
       "rank": 25,
       "category": "财经,旅游"
-    },
-    {
-      "raw_hot": 984919,
-      "num": 481015,
-      "word": "贾静雯回应梧桐妹戴鼻环",
-      "onboard_time": 1692862253,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 968521,
@@ -491,28 +515,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 817500,
+      "num": 538856,
+      "word": "胡锡进 中国沿海的海鲜还能吃吗",
+      "onboard_time": 1692863095,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806387,
       "num": 806387,
       "word": "日本东电10年来已多次排核污",
       "onboard_time": 1692847786,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806109,
-      "num": 367787,
-      "word": "盐",
-      "onboard_time": 1692864472,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799191,
-      "num": 479319,
-      "word": "国内多家日料店调整产品线",
-      "onboard_time": 1692862853,
-      "rank": 12,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 781651,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757256,
+      "num": 479662,
+      "word": "我封你做大太子不做这三太子",
+      "onboard_time": 1692864298,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 757083,
       "num": 340572,
       "word": "韩称若日本核污水排放不合标准将提起国际诉讼",
@@ -579,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 719271,
-      "num": 475166,
-      "word": "胡锡进 中国沿海的海鲜还能吃吗",
-      "onboard_time": 1692863095,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 714166,
       "num": 380687,
       "word": "福岛核电站附近渔港宛如无人区",
@@ -595,20 +611,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711783,
+      "num": 316820,
+      "word": "韩国大学生冲入日本使馆被捕",
+      "onboard_time": 1692860698,
+      "rank": 32,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 698755,
       "num": 698755,
       "word": "七夕晚上翻了二十多个垃圾桶",
       "onboard_time": 1692801702,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 681501,
-      "num": 316820,
-      "word": "韩国大学生冲入日本使馆被捕",
-      "onboard_time": 1692860698,
-      "rank": 32,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 662676,
@@ -707,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 563684,
-      "num": 471058,
-      "word": "我封你做大太子不做这三太子",
-      "onboard_time": 1692864298,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 555914,
       "num": 555914,
       "word": "李一桐怎么化个妆都这么快乐啊",
@@ -739,12 +747,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 539347,
+      "num": 539347,
+      "word": "核污染水核废水不是一码事",
+      "onboard_time": 1692863036,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537076,
       "num": 537076,
       "word": "赴港存30万利息多6000元",
       "onboard_time": 1692834514,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 534505,
+      "num": 534505,
+      "word": "日本曾承诺未获理解不会排海",
+      "onboard_time": 1692862136,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534372,
@@ -835,14 +859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 486103,
-      "num": 486103,
-      "word": "核污染水核废水不是一码事",
-      "onboard_time": 1692863036,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 484580,
       "num": 484580,
       "word": "24岁女生的退休生活",
@@ -873,14 +889,6 @@
       "onboard_time": 1692856319,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 470508,
-      "num": 470508,
-      "word": "日本曾承诺未获理解不会排海",
-      "onboard_time": 1692862136,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464887,
@@ -987,14 +995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 392869,
-      "num": 392869,
-      "word": "事已至此 先点菜吧",
-      "onboard_time": 1692864355,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 391780,
       "num": 391780,
       "word": "六级没过",
@@ -1009,6 +1009,14 @@
       "onboard_time": 1692847543,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382131,
+      "num": 382131,
+      "word": "邓为急得都跺脚了",
+      "onboard_time": 1692864718,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 381537,
@@ -1065,14 +1073,6 @@
       "onboard_time": 1692840104,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368022,
-      "num": 368022,
-      "word": "邓为急得都跺脚了",
-      "onboard_time": 1692864718,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 367418,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1692833250,
       "rank": 23,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 332455,
+      "num": 382045,
+      "word": "刘宇真的好爱苍兰诀",
+      "onboard_time": 1692865195,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 331895,
@@ -1291,6 +1299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 293752,
+      "num": 293752,
+      "word": "三喜夸马立奥又长帅了",
+      "onboard_time": 1692865554,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292318,
       "num": 292318,
       "word": "杨紫ins更新",
@@ -1411,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253133,
+      "num": 253133,
+      "word": "中国匿名好邻居",
+      "onboard_time": 1692865732,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253048,
       "num": 253048,
       "word": "于适脸和身材的反差",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1692855122,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 242737,
+      "num": 242737,
+      "word": "金砖国家组织扩员",
+      "onboard_time": 1692865554,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241799,
@@ -1489,6 +1521,14 @@
       "onboard_time": 1692863215,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233263,
+      "num": 196650,
+      "word": "多平台食用盐显示缺货",
+      "onboard_time": 1692865375,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 232738,
@@ -1641,14 +1681,6 @@
       "onboard_time": 1692857099,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204064,
-      "num": 204064,
-      "word": "刘宇真的好爱苍兰诀",
-      "onboard_time": 1692865195,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 202321,
@@ -1947,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91738,
+      "num": 477129,
+      "word": "东方甄选8月29日淘宝开播",
+      "onboard_time": 1692864007,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90903,
       "num": 90903,
       "word": "大鹏说黄渤和王一博是小红帽和大灰狼",
@@ -1969,14 +2009,6 @@
       "onboard_time": 1692809307,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 70780,
-      "num": 477129,
-      "word": "东方甄选8月29日淘宝开播",
-      "onboard_time": 1692864007,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64500,

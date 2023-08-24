@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692865222058,
+  "endTime": 1692866038315,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -91,6 +91,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 3569575,
+      "num": 1173756,
+      "word": "中国日料店会大批量倒闭吗",
+      "onboard_time": 1692859920,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3532640,
       "num": 1649340,
       "word": "邓为 华伦天奴",
@@ -104,14 +112,6 @@
       "word": "核废水",
       "onboard_time": 1692792458,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3404963,
-      "num": 1173756,
-      "word": "中国日料店会大批量倒闭吗",
-      "onboard_time": 1692859920,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 3058895,
-      "num": 940585,
+      "num": 1018247,
       "word": "日本将用700亿日元处理核污染水负面信息",
       "onboard_time": 1692857343,
       "rank": 25,
@@ -225,6 +225,14 @@
       "onboard_time": 1692840582,
       "rank": 10,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 2716655,
+      "num": 482882,
+      "word": "郭帆用日漫讽刺日本",
+      "onboard_time": 1692863818,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2708528,
@@ -331,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2327014,
-      "num": 482882,
-      "word": "郭帆用日漫讽刺日本",
-      "onboard_time": 1692863818,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2312380,
       "num": 1130364,
       "word": "张亮送天天出国留学",
@@ -433,6 +433,14 @@
       "onboard_time": 1692665380,
       "rank": 4,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 2085338,
+      "num": 380907,
+      "word": "盐",
+      "onboard_time": 1692864472,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2064507,
@@ -681,6 +689,14 @@
       "onboard_time": 1692580295,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1691589,
+      "num": 1691589,
+      "word": "都排成鸳鸯锅了还嘴硬是安全的",
+      "onboard_time": 1692861478,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1667465,
@@ -1323,6 +1339,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 1062846,
+      "num": 392869,
+      "word": "事已至此 先点菜吧",
+      "onboard_time": 1692864355,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1059388,
       "num": 1059388,
       "word": "东方青苍与涂山璟一起洗澡",
@@ -1379,20 +1403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1041042,
+      "num": 491275,
+      "word": "贾静雯回应梧桐妹戴鼻环",
+      "onboard_time": 1692862253,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1038644,
       "num": 1038644,
       "word": "林俊杰晒了Angelababy照片",
       "onboard_time": 1692660328,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1034550,
-      "num": 1034550,
-      "word": "都排成鸳鸯锅了还嘴硬是安全的",
-      "onboard_time": 1692861478,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1026828,
@@ -1435,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1006231,
+      "num": 479319,
+      "word": "国内多家日料店调整产品线",
+      "onboard_time": 1692862853,
+      "rank": 12,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 996828,
       "num": 996828,
       "word": "中方召见日本驻华大使",
@@ -1449,14 +1481,6 @@
       "onboard_time": 1692766841,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 984919,
-      "num": 481015,
-      "word": "贾静雯回应梧桐妹戴鼻环",
-      "onboard_time": 1692862253,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 980261,
@@ -1875,6 +1899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 817500,
+      "num": 538856,
+      "word": "胡锡进 中国沿海的海鲜还能吃吗",
+      "onboard_time": 1692863095,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816662,
       "num": 693475,
       "word": "舒淇 海神降临",
@@ -1888,14 +1920,6 @@
       "word": "日本东电10年来已多次排核污",
       "onboard_time": 1692847786,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806109,
-      "num": 367787,
-      "word": "盐",
-      "onboard_time": 1692864472,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1921,14 +1945,6 @@
       "onboard_time": 1692749500,
       "rank": 8,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 799191,
-      "num": 479319,
-      "word": "国内多家日料店调整产品线",
-      "onboard_time": 1692862853,
-      "rank": 12,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 798080,
@@ -2096,6 +2112,14 @@
       "word": "长相思第二季再不播就不礼貌了",
       "onboard_time": 1692600216,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 757256,
+      "num": 479662,
+      "word": "我封你做大太子不做这三太子",
+      "onboard_time": 1692864298,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -2291,14 +2315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 719271,
-      "num": 475166,
-      "word": "胡锡进 中国沿海的海鲜还能吃吗",
-      "onboard_time": 1692863095,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 716557,
       "num": 716557,
       "word": "王阳 叔圈天菜",
@@ -2331,6 +2347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 711783,
+      "num": 316820,
+      "word": "韩国大学生冲入日本使馆被捕",
+      "onboard_time": 1692860698,
+      "rank": 32,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 697180,
       "num": 697180,
       "word": "骄阳似我",
@@ -2345,14 +2369,6 @@
       "onboard_time": 1692689025,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 681501,
-      "num": 316820,
-      "word": "韩国大学生冲入日本使馆被捕",
-      "onboard_time": 1692860698,
-      "rank": 32,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 680605,
@@ -2995,14 +3011,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 563684,
-      "num": 471058,
-      "word": "我封你做大太子不做这三太子",
-      "onboard_time": 1692864298,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 559362,
       "num": 435555,
       "word": "今年七夕朋友圈怎么如此安静",
@@ -3155,6 +3163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 539347,
+      "num": 539347,
+      "word": "核污染水核废水不是一码事",
+      "onboard_time": 1692863036,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538050,
       "num": 275066,
       "word": "黄子恐怖的e人",
@@ -3225,6 +3241,14 @@
       "onboard_time": 1692777815,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 534505,
+      "num": 534505,
+      "word": "日本曾承诺未获理解不会排海",
+      "onboard_time": 1692862136,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534372,
@@ -3603,14 +3627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 486103,
-      "num": 486103,
-      "word": "核污染水核废水不是一码事",
-      "onboard_time": 1692863036,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 485442,
       "num": 397158,
       "word": "男子放弃百万年薪高管职位返乡养蚯蚓",
@@ -3713,14 +3729,6 @@
       "onboard_time": 1692673598,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 470508,
-      "num": 470508,
-      "word": "日本曾承诺未获理解不会排海",
-      "onboard_time": 1692862136,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 470320,
@@ -4435,14 +4443,6 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 392869,
-      "num": 392869,
-      "word": "事已至此 先点菜吧",
-      "onboard_time": 1692864355,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 392624,
       "num": 373906,
       "word": "相柳这次有东方青苍",
@@ -4537,6 +4537,14 @@
       "onboard_time": 1692598417,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382131,
+      "num": 382131,
+      "word": "邓为急得都跺脚了",
+      "onboard_time": 1692864718,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 381730,
@@ -4704,14 +4712,6 @@
       "word": "黄晓明说闫妮风情万种",
       "onboard_time": 1692624457,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 368022,
-      "num": 368022,
-      "word": "邓为急得都跺脚了",
-      "onboard_time": 1692864718,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -5121,6 +5121,14 @@
       "onboard_time": 1692833250,
       "rank": 23,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 332455,
+      "num": 382045,
+      "word": "刘宇真的好爱苍兰诀",
+      "onboard_time": 1692865195,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 331895,
@@ -5849,6 +5857,14 @@
       "onboard_time": 1692862193,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 293752,
+      "num": 293752,
+      "word": "三喜夸马立奥又长帅了",
+      "onboard_time": 1692865554,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 293420,
@@ -6603,6 +6619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253133,
+      "num": 253133,
+      "word": "中国匿名好邻居",
+      "onboard_time": 1692865732,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253048,
       "num": 253048,
       "word": "于适脸和身材的反差",
@@ -6744,6 +6768,14 @@
       "word": "重庆的哥接了个大单开到了上海",
       "onboard_time": 1692627646,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242737,
+      "num": 242737,
+      "word": "金砖国家组织扩员",
+      "onboard_time": 1692865554,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -6969,6 +7001,14 @@
       "onboard_time": 1692715306,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233263,
+      "num": 196650,
+      "word": "多平台食用盐显示缺货",
+      "onboard_time": 1692865375,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 232738,
@@ -7745,14 +7785,6 @@
       "onboard_time": 1692788800,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 204064,
-      "num": 204064,
-      "word": "刘宇真的好爱苍兰诀",
-      "onboard_time": 1692865195,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 203729,
@@ -9555,6 +9587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91738,
+      "num": 477129,
+      "word": "东方甄选8月29日淘宝开播",
+      "onboard_time": 1692864007,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91641,
       "num": 91641,
       "word": "黄奕岁月不败美人",
@@ -9673,14 +9713,6 @@
       "onboard_time": 1692809307,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 70780,
-      "num": 477129,
-      "word": "东方甄选8月29日淘宝开播",
-      "onboard_time": 1692864007,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69771,
