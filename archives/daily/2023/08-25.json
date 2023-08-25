@@ -1,7 +1,15 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692930832837,
+  "endTime": 1692933419516,
   "band_list": [
+    {
+      "raw_hot": 4461977,
+      "num": 699136,
+      "word": "日本台风",
+      "onboard_time": 1692928903,
+      "rank": 29,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4438936,
       "num": 5377873,
@@ -9,6 +17,14 @@
       "onboard_time": 1692920858,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3579551,
+      "num": 3579551,
+      "word": "中国好声音暂停播出",
+      "onboard_time": 1692932868,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3384538,
@@ -43,14 +59,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2519567,
-      "num": 573028,
-      "word": "日本台风",
-      "onboard_time": 1692928903,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2341135,
       "num": 1993374,
       "word": "特朗普在佐治亚州投案",
@@ -65,6 +73,14 @@
       "onboard_time": 1692882649,
       "rank": 10,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 2249353,
+      "num": 421037,
+      "word": "缅甸逃回男子曝出活埋杀人视频",
+      "onboard_time": 1692930462,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2177618,
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1478333,
+      "num": 695739,
+      "word": "上海部分中高端日料店地震",
+      "onboard_time": 1692926804,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1391818,
       "num": 691300,
       "word": "人体遭遇核辐射最可怕的是DNA断裂",
@@ -137,6 +161,14 @@
       "onboard_time": 1692926505,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1377060,
+      "num": 1377060,
+      "word": "iPhone15Pro新增灰色",
+      "onboard_time": 1692929865,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 1256854,
@@ -163,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1100025,
+      "num": 685638,
+      "word": "监狱公布特朗普身高体重",
+      "onboard_time": 1692931546,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1054113,
       "num": 654428,
       "word": "女子晒单位处长送情趣内衣做礼物",
@@ -179,20 +219,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 951426,
-      "num": 674043,
-      "word": "上海部分中高端日料店地震",
-      "onboard_time": 1692926804,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 897912,
       "num": 897912,
       "word": "俞灏明 命运的齿轮又转回来了",
       "onboard_time": 1692924348,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 826089,
+      "num": 826089,
+      "word": "长相思演员表没有叶十七",
+      "onboard_time": 1692931481,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 824832,
@@ -211,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 772428,
-      "num": 367077,
-      "word": "iPhone15Pro新增灰色",
-      "onboard_time": 1692929865,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 766552,
       "num": 766552,
       "word": "别再把舌头垫在牙齿中间了",
@@ -235,20 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712950,
+      "num": 712950,
+      "word": "3元的豆腐3000元的服务",
+      "onboard_time": 1692930822,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685607,
+      "num": 685607,
+      "word": "韩媒称日本核污水排海犯下历史罪行",
+      "onboard_time": 1692931243,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 671196,
       "num": 671196,
       "word": "特朗普大头照",
       "onboard_time": 1692926564,
       "rank": 19,
       "category": "国外要闻,国内要闻"
-    },
-    {
-      "raw_hot": 655094,
-      "num": 295566,
-      "word": "缅甸逃回男子曝出活埋杀人视频",
-      "onboard_time": 1692930462,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 640982,
@@ -297,6 +337,14 @@
       "onboard_time": 1692921581,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557603,
+      "num": 557603,
+      "word": "妹妹临终托孤64岁姨妈只身来沪",
+      "onboard_time": 1692931303,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 529643,
@@ -411,6 +459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 396610,
+      "num": 396610,
+      "word": "严浩翔和女搭档隔空拥抱",
+      "onboard_time": 1692931665,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390808,
       "num": 390808,
       "word": "贺峻霖转正了",
@@ -443,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360029,
+      "num": 360029,
+      "word": "王珞丹拍的袁弘黄宗泽",
+      "onboard_time": 1692929747,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345768,
       "num": 345768,
       "word": "医生7小时取出小伙脑内10厘米成虫",
@@ -451,20 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344812,
-      "num": 344812,
-      "word": "王珞丹拍的袁弘黄宗泽",
-      "onboard_time": 1692929747,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 338131,
       "num": 338131,
       "word": "加一个字毁掉一部影视作品",
       "onboard_time": 1692889077,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335280,
+      "num": 335280,
+      "word": "专四成绩",
+      "onboard_time": 1692932264,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 326443,
@@ -635,6 +699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266096,
+      "num": 266096,
+      "word": "西岐兄弟真的有在救殷郊",
+      "onboard_time": 1692933045,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 264546,
+      "num": 264546,
+      "word": "玲花祝张远今年能上春晚",
+      "onboard_time": 1692932384,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257677,
       "num": 257677,
       "word": "上海地铁",
@@ -739,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204270,
+      "num": 204270,
+      "word": "成都车展",
+      "onboard_time": 1692932807,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 201155,
       "num": 201155,
       "word": "张晚意自己接档自己",
@@ -753,6 +841,14 @@
       "onboard_time": 1692930762,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198580,
+      "num": 198580,
+      "word": "一生行善的爷爷最后捐出了自己",
+      "onboard_time": 1692932264,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197471,
@@ -803,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186821,
+      "num": 186821,
+      "word": "不饿肚子曾是莫言的创作动力",
+      "onboard_time": 1692932683,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186820,
       "num": 186820,
       "word": "丁禹兮王彦霖对视又打嗝又放屁",
@@ -843,12 +947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178059,
-      "num": 178059,
-      "word": "3元的豆腐3000元的服务",
-      "onboard_time": 1692930822,
+      "raw_hot": 177952,
+      "num": 177952,
+      "word": "谁给于适喷变傻喷雾了",
+      "onboard_time": 1692933351,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 172570,
@@ -1081,6 +1185,14 @@
       "onboard_time": 1692911235,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 18719,
+      "num": 1833145,
+      "word": "金砖合作大有可为金砖国家未来可期",
+      "onboard_time": 1692933165,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692930832837,
+  "endTime": 1692933419516,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4461977,
+      "num": 699136,
+      "word": "日本台风",
+      "onboard_time": 1692928903,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4438936,
       "num": 5377873,
       "word": "日本本州东海岸远海地震",
@@ -145,6 +153,14 @@
       "onboard_time": 1692866577,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3579551,
+      "num": 3579551,
+      "word": "中国好声音暂停播出",
+      "onboard_time": 1692932868,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3569575,
@@ -427,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2519567,
-      "num": 573028,
-      "word": "日本台风",
-      "onboard_time": 1692928903,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2486877,
       "num": 2486877,
       "word": "最近韩国渐渐出现无糖葫芦区",
@@ -544,6 +552,14 @@
       "word": "研究称日本核污水排海240天到达中国",
       "onboard_time": 1692748898,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2249353,
+      "num": 421037,
+      "word": "缅甸逃回男子曝出活埋杀人视频",
+      "onboard_time": 1692930462,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1147,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1478333,
+      "num": 695739,
+      "word": "上海部分中高端日料店地震",
+      "onboard_time": 1692926804,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1477928,
       "num": 1477928,
       "word": "檀健次直播",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1692855004,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1377060,
+      "num": 1377060,
+      "word": "iPhone15Pro新增灰色",
+      "onboard_time": 1692929865,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 1365526,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1692673477,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1100025,
+      "num": 685638,
+      "word": "监狱公布特朗普身高体重",
+      "onboard_time": 1692931546,
+      "rank": 13,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1088332,
@@ -1888,14 +1928,6 @@
       "word": "韩官员称日本核污染水排海在所难免",
       "onboard_time": 1692871612,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 951426,
-      "num": 674043,
-      "word": "上海部分中高端日料店地震",
-      "onboard_time": 1692926804,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2235,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 826089,
+      "num": 826089,
+      "word": "长相思演员表没有叶十七",
+      "onboard_time": 1692931481,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 825133,
       "num": 825133,
       "word": "今年看过后劲最大的国产剧",
@@ -2449,14 +2489,6 @@
       "onboard_time": 1692690109,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 772428,
-      "num": 367077,
-      "word": "iPhone15Pro新增灰色",
-      "onboard_time": 1692929865,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 769073,
@@ -2763,6 +2795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 712950,
+      "num": 712950,
+      "word": "3元的豆腐3000元的服务",
+      "onboard_time": 1692930822,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711783,
       "num": 557543,
       "word": "韩国大学生冲入日本使馆被捕",
@@ -2793,6 +2833,14 @@
       "onboard_time": 1692878694,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 685607,
+      "num": 685607,
+      "word": "韩媒称日本核污水排海犯下历史罪行",
+      "onboard_time": 1692931243,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 680605,
@@ -2937,14 +2985,6 @@
       "onboard_time": 1692628001,
       "rank": 46,
       "category": "情感,其它"
-    },
-    {
-      "raw_hot": 655094,
-      "num": 295566,
-      "word": "缅甸逃回男子曝出活埋杀人视频",
-      "onboard_time": 1692930462,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 653964,
@@ -3641,6 +3681,14 @@
       "onboard_time": 1692795760,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557603,
+      "num": 557603,
+      "word": "妹妹临终托孤64岁姨妈只身来沪",
+      "onboard_time": 1692931303,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 556534,
@@ -5283,6 +5331,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 396610,
+      "num": 396610,
+      "word": "严浩翔和女搭档隔空拥抱",
+      "onboard_time": 1692931665,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396142,
       "num": 396142,
       "word": "王源去看了邓见超巡演",
@@ -5731,6 +5787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360029,
+      "num": 360029,
+      "word": "王珞丹拍的袁弘黄宗泽",
+      "onboard_time": 1692929747,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359908,
       "num": 359908,
       "word": "黄子弘凡直播",
@@ -5947,14 +6011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344812,
-      "num": 344812,
-      "word": "王珞丹拍的袁弘黄宗泽",
-      "onboard_time": 1692929747,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 344247,
       "num": 344247,
       "word": "李兰迪说王阳每条褶子都恰到好处",
@@ -6121,6 +6177,14 @@
       "onboard_time": 1692700534,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 335280,
+      "num": 335280,
+      "word": "专四成绩",
+      "onboard_time": 1692932264,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 334881,
@@ -7571,11 +7635,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266096,
+      "num": 266096,
+      "word": "西岐兄弟真的有在救殷郊",
+      "onboard_time": 1692933045,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265676,
       "num": 265676,
       "word": "陈紫函戴向宇相处模式",
       "onboard_time": 1692768517,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264546,
+      "num": 264546,
+      "word": "玲花祝张远今年能上春晚",
+      "onboard_time": 1692932384,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -9091,6 +9171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204270,
+      "num": 204270,
+      "word": "成都车展",
+      "onboard_time": 1692932807,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 204190,
       "num": 204190,
       "word": "彭昱畅周也新片首搭",
@@ -9385,6 +9473,14 @@
       "onboard_time": 1692867355,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198580,
+      "num": 198580,
+      "word": "一生行善的爷爷最后捐出了自己",
+      "onboard_time": 1692932264,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198403,
@@ -9867,6 +9963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186821,
+      "num": 186821,
+      "word": "不饿肚子曾是莫言的创作动力",
+      "onboard_time": 1692932683,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186820,
       "num": 186820,
       "word": "丁禹兮王彦霖对视又打嗝又放屁",
@@ -10099,12 +10203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178059,
-      "num": 178059,
-      "word": "3元的豆腐3000元的服务",
-      "onboard_time": 1692930822,
+      "raw_hot": 177952,
+      "num": 177952,
+      "word": "谁给于适喷变傻喷雾了",
+      "onboard_time": 1692933351,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 176531,
@@ -11961,6 +12065,14 @@
       "onboard_time": 1692911235,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 18719,
+      "num": 1833145,
+      "word": "金砖合作大有可为金砖国家未来可期",
+      "onboard_time": 1692933165,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16203,
