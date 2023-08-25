@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692974031927,
+  "endTime": 1692976618761,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -715,12 +715,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2090508,
+      "num": 507855,
+      "word": "核污水排海后日本人在海里游泳",
+      "onboard_time": 1692973246,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2090173,
       "num": 563549,
       "word": "魏大勋连续两年七夕没露脸",
       "onboard_time": 1692710860,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2089512,
+      "num": 610412,
+      "word": "男士卫生巾竟然这么大",
+      "onboard_time": 1692971623,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 2089350,
@@ -873,14 +889,6 @@
       "onboard_time": 1692848204,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1867696,
-      "num": 610412,
-      "word": "男士卫生巾竟然这么大",
-      "onboard_time": 1692971623,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 1865340,
@@ -3635,14 +3643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 626164,
-      "num": 507855,
-      "word": "核污水排海后日本人在海里游泳",
-      "onboard_time": 1692973246,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 624143,
       "num": 624143,
       "word": "胡兵报平安",
@@ -4563,6 +4563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520119,
+      "num": 435804,
+      "word": "披荆斩棘的精华都在蔡国庆选歌",
+      "onboard_time": 1692974026,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518393,
       "num": 518393,
       "word": "沈腾喊话杨紫想你啦",
@@ -4603,11 +4611,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 514414,
+      "num": 386975,
+      "word": "第一次见家长给孩子买小卡",
+      "onboard_time": 1692974444,
+      "rank": 20,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 514220,
       "num": 514220,
       "word": "田曦薇首演打女角色",
       "onboard_time": 1692773075,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 513763,
+      "num": 461324,
+      "word": "莲花楼 我角姐哪受过这气",
+      "onboard_time": 1692972226,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -5225,14 +5249,6 @@
       "onboard_time": 1692680383,
       "rank": 23,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 461324,
-      "num": 461324,
-      "word": "莲花楼 我角姐哪受过这气",
-      "onboard_time": 1692972226,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 460768,
@@ -6707,6 +6723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357966,
+      "num": 313038,
+      "word": "张杰一句话高情商介绍朋友",
+      "onboard_time": 1692976364,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 357877,
       "num": 313990,
       "word": "韩剧假面女郎 结局让人大爆哭",
@@ -6841,6 +6865,14 @@
       "onboard_time": 1692523357,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350376,
+      "num": 350376,
+      "word": "齐思钧介绍0713用了快乐男声选手编号",
+      "onboard_time": 1692974385,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 350340,
@@ -7915,6 +7947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301207,
+      "num": 301207,
+      "word": "孤注一掷",
+      "onboard_time": 1692628181,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300914,
       "num": 300914,
       "word": "今年暑期档真正的剧王",
@@ -8289,6 +8329,14 @@
       "onboard_time": 1692649395,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284909,
+      "num": 284909,
+      "word": "马伯骞比观众还观众",
+      "onboard_time": 1692976364,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 284770,
@@ -8819,12 +8867,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265736,
+      "num": 265736,
+      "word": "张杰我们都一样万人合唱",
+      "onboard_time": 1692975702,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265676,
       "num": 265676,
       "word": "陈紫函戴向宇相处模式",
       "onboard_time": 1692768517,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265154,
+      "num": 317874,
+      "word": "你们手机壳后面都放什么东西",
+      "onboard_time": 1692975523,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 263860,
@@ -9019,6 +9083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258794,
+      "num": 291843,
+      "word": "渐冻人蔡磊称已在准备身后事",
+      "onboard_time": 1692975821,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258666,
       "num": 258666,
       "word": "陈牧驰发誓绝不塌房",
@@ -9121,6 +9193,14 @@
       "onboard_time": 1692786095,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255860,
+      "num": 288294,
+      "word": "这样试妆怎么做到全国统一的",
+      "onboard_time": 1692974864,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 255622,
@@ -9675,6 +9755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 231787,
+      "num": 231787,
+      "word": "郑嘉颖一开口梦回步步惊心",
+      "onboard_time": 1692975879,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231712,
       "num": 231712,
       "word": "看完不知道该咋上火车中铺了",
@@ -9713,6 +9801,14 @@
       "onboard_time": 1692780516,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229691,
+      "num": 249009,
+      "word": "当外国人遇到东方的神秘力量",
+      "onboard_time": 1692974266,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 229638,
@@ -9792,14 +9888,6 @@
       "word": "恋爱脑醒悟后一心搞事业",
       "onboard_time": 1692805832,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 225909,
-      "num": 225909,
-      "word": "孤注一掷",
-      "onboard_time": 1692628181,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -11707,6 +11795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181192,
+      "num": 181192,
+      "word": "西藏大学科研团队用脚步丈量青藏高原",
+      "onboard_time": 1692974984,
+      "rank": 47,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 180965,
       "num": 1594082,
       "word": "中国没有称王称霸的基因",
@@ -13536,6 +13632,14 @@
       "word": "7旬护边员52年徒步巡边10万公里",
       "onboard_time": 1692871250,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32394,
+      "num": 1066566,
+      "word": "要坚持真正的多边主义",
+      "onboard_time": 1692976244,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
