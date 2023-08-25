@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692945278587,
+  "endTime": 1692947717829,
   "band_list": [
     {
       "raw_hot": 8987860,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 3051468,
-      "num": 958831,
+      "num": 1475792,
       "word": "李玖哲自曝被雪藏7年",
       "onboard_time": 1692941321,
       "rank": 12,
@@ -80,6 +80,14 @@
       "word": "历史会记住日本政府这一笔",
       "onboard_time": 1692881754,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2550298,
+      "num": 2550298,
+      "word": "北极鲶鱼事件核查5个月没结果",
+      "onboard_time": 1692943185,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1465737,
+      "num": 1465737,
+      "word": "黄晓明发长文谈最后的真相",
+      "onboard_time": 1692943302,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1465167,
       "num": 1465167,
       "word": "茶卡盐湖现有盐够全国吃70年",
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1070812,
+      "num": 821707,
+      "word": "日本向学生宣传核污水安全被骂",
+      "onboard_time": 1692941981,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1054113,
       "num": 654428,
       "word": "女子晒单位处长送情趣内衣做礼物",
@@ -265,14 +289,6 @@
       "onboard_time": 1692936286,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1001500,
-      "num": 1001500,
-      "word": "北极鲶鱼事件核查5个月没结果",
-      "onboard_time": 1692943185,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 956655,
@@ -299,6 +315,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 918986,
+      "num": 918986,
+      "word": "严禁采买日本水产品网络销售",
+      "onboard_time": 1692942220,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 917528,
+      "num": 917528,
+      "word": "百事可乐",
+      "onboard_time": 1692943239,
+      "rank": 8,
+      "category": "社会新闻,作品衍生"
+    },
+    {
       "raw_hot": 897912,
       "num": 897912,
       "word": "俞灏明 命运的齿轮又转回来了",
@@ -307,28 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 884597,
-      "num": 884597,
-      "word": "严禁采买日本水产品网络销售",
-      "onboard_time": 1692942220,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 846437,
-      "num": 721589,
-      "word": "日本向学生宣传核污水安全被骂",
-      "onboard_time": 1692941981,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 845664,
-      "num": 845664,
-      "word": "黄晓明发长文谈最后的真相",
-      "onboard_time": 1692943302,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 878943,
+      "num": 878943,
+      "word": "多家日妆品牌遭遇退货",
+      "onboard_time": 1692943964,
+      "rank": 37,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 824832,
@@ -339,20 +355,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 824564,
+      "num": 824564,
+      "word": "0713",
+      "onboard_time": 1692941680,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 822814,
       "num": 503383,
       "word": "正式被确诊为番茄",
       "onboard_time": 1692927463,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 801180,
-      "num": 801180,
-      "word": "百事可乐",
-      "onboard_time": 1692943239,
-      "rank": 8,
-      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 790137,
@@ -363,12 +379,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 785479,
-      "num": 536929,
-      "word": "0713",
-      "onboard_time": 1692941680,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 771879,
+      "num": 771879,
+      "word": "我国加大食盐价格监管力度",
+      "onboard_time": 1692945342,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 766552,
@@ -403,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722603,
+      "num": 722603,
+      "word": "张萌的衣服穿一次就崩开了",
+      "onboard_time": 1692943842,
+      "rank": 26,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 717426,
       "num": 717426,
       "word": "3元的豆腐3000元的服务",
@@ -427,20 +451,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 710068,
+      "num": 710068,
+      "word": "我见过情绪最稳定的小孩",
+      "onboard_time": 1692945463,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 689456,
+      "num": 689456,
+      "word": "郑嘉颖 三寸天堂",
+      "onboard_time": 1692943185,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 671196,
       "num": 671196,
       "word": "特朗普大头照",
       "onboard_time": 1692926564,
       "rank": 19,
       "category": "国外要闻,国内要闻"
-    },
-    {
-      "raw_hot": 661226,
-      "num": 661226,
-      "word": "郑嘉颖 三寸天堂",
-      "onboard_time": 1692943185,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 640982,
@@ -521,14 +553,6 @@
       "onboard_time": 1692931303,
       "rank": 17,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 545417,
-      "num": 545417,
-      "word": "张萌的衣服穿一次就崩开了",
-      "onboard_time": 1692943842,
-      "rank": 26,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 529643,
@@ -699,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404303,
-      "num": 404303,
-      "word": "多家日妆品牌遭遇退货",
-      "onboard_time": 1692943964,
-      "rank": 37,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 402497,
       "num": 300210,
       "word": "最破的海鲜大酒店",
@@ -785,6 +801,14 @@
       "onboard_time": 1692929682,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367082,
+      "num": 367082,
+      "word": "封神还没上映前的扫楼",
+      "onboard_time": 1692947080,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 360029,
@@ -1083,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266797,
+      "num": 266797,
+      "word": "官方回应北极鲶鱼事件调查进度",
+      "onboard_time": 1692944739,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261172,
       "num": 261172,
       "word": "胡歌欢迎刘伽茵入驻微博",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1692850025,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256783,
+      "num": 256783,
+      "word": "苏小玎再现高启盛摇头",
+      "onboard_time": 1692945639,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 250150,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1692934067,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 239817,
+      "num": 239817,
+      "word": "瘦子 男儿当自强",
+      "onboard_time": 1692946541,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 238350,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1692858594,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225767,
+      "num": 202665,
+      "word": "黄晓明的姐姐打call团",
+      "onboard_time": 1692947380,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 225118,
@@ -1371,14 +1427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192690,
-      "num": 201049,
-      "word": "官方回应北极鲶鱼事件调查进度",
-      "onboard_time": 1692944739,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190537,
       "num": 190537,
       "word": "福岛周边最高辐射值为东京200倍",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1692930165,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180408,
+      "num": 180408,
+      "word": "特朗普称自己没做错任何事",
+      "onboard_time": 1692947436,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 178673,
