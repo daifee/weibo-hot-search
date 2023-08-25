@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692948840045,
+  "endTime": 1692951617438,
   "band_list": [
     {
       "raw_hot": 8987860,
@@ -113,6 +113,22 @@
       "onboard_time": 1692922123,
       "rank": 1,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 2121008,
+      "num": 627190,
+      "word": "日本核污染水排海当天大阪突降暴雨",
+      "onboard_time": 1692947739,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1892021,
+      "num": 1892021,
+      "word": "我见过情绪最稳定的小孩",
+      "onboard_time": 1692945463,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 1720691,
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1038798,
+      "num": 1038798,
+      "word": "网红大学老师相宜自曝辞职",
+      "onboard_time": 1692948759,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1019239,
       "num": 442738,
       "word": "部分日料店已做好转行准备",
@@ -288,6 +312,14 @@
       "word": "中国好声音母公司盘中跳水",
       "onboard_time": 1692936286,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1007525,
+      "num": 1007525,
+      "word": "0713",
+      "onboard_time": 1692941680,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -321,14 +353,6 @@
       "onboard_time": 1692931481,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 923476,
-      "num": 923476,
-      "word": "0713",
-      "onboard_time": 1692941680,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 918986,
@@ -369,14 +393,6 @@
       "onboard_time": 1692927463,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 822041,
-      "num": 822041,
-      "word": "我见过情绪最稳定的小孩",
-      "onboard_time": 1692945463,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 790137,
@@ -475,6 +491,14 @@
       "category": "国外要闻,国内要闻"
     },
     {
+      "raw_hot": 653544,
+      "num": 511982,
+      "word": "英国妈妈为做缩胸手术卖房",
+      "onboard_time": 1692949360,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 640982,
       "num": 640982,
       "word": "不要总觉得内向的性格就不好",
@@ -499,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 627190,
-      "num": 627190,
-      "word": "日本核污染水排海当天大阪突降暴雨",
-      "onboard_time": 1692947739,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 628204,
+      "num": 507159,
+      "word": "李敏镐馒化",
+      "onboard_time": 1692951160,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 621783,
@@ -595,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495670,
+      "num": 495670,
+      "word": "近期女性角色好像在渡劫",
+      "onboard_time": 1692947980,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 485760,
       "num": 485760,
       "word": "李飞组不来的嘉宾阵容",
@@ -651,12 +683,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 449280,
-      "num": 449280,
-      "word": "近期女性角色好像在渡劫",
-      "onboard_time": 1692947980,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 462288,
+      "num": 462288,
+      "word": "张栋梁说看不见我是你们没有关注我",
+      "onboard_time": 1692948580,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 436257,
@@ -721,6 +753,14 @@
       "onboard_time": 1692886560,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 414196,
+      "num": 414196,
+      "word": "长空之王总票房破8.5亿",
+      "onboard_time": 1692948580,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 412315,
@@ -884,7 +924,7 @@
     },
     {
       "raw_hot": 335008,
-      "num": 273765,
+      "num": 296398,
       "word": "鲍蕾是懂陆毅黑历史的",
       "onboard_time": 1692948220,
       "rank": 30,
@@ -1035,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295334,
+      "num": 295334,
+      "word": "黄晓明的姐姐打call团",
+      "onboard_time": 1692947380,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293177,
       "num": 293177,
       "word": "上海一日料店无法证明食材产地被约谈",
@@ -1059,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291945,
+      "num": 510776,
+      "word": "特朗普称自己没做错任何事",
+      "onboard_time": 1692947436,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 291140,
       "num": 291140,
       "word": "初音未来 被生命所厌恶",
@@ -1067,11 +1123,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 289896,
-      "num": 272411,
-      "word": "黄晓明的姐姐打call团",
-      "onboard_time": 1692947380,
-      "rank": 40,
+      "raw_hot": 281116,
+      "num": 281116,
+      "word": "李慕嘉和田蓉彻底闹掰",
+      "onboard_time": 1692950138,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1171,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258951,
+      "num": 258951,
+      "word": "重温切尔诺贝利",
+      "onboard_time": 1692951097,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257677,
       "num": 257677,
       "word": "上海地铁",
@@ -1203,6 +1267,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 245546,
+      "num": 245546,
+      "word": "年轻人旅游最累的时刻",
+      "onboard_time": 1692948399,
+      "rank": 49,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 244046,
       "num": 244046,
       "word": "学爸吴磊带黄渤特种兵式看房",
@@ -1219,14 +1291,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 243565,
-      "num": 243565,
-      "word": "长空之王总票房破8.5亿",
-      "onboard_time": 1692948580,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 239920,
       "num": 239920,
       "word": "15岁女孩合作约翰施特劳斯管弦乐团",
@@ -1241,14 +1305,6 @@
       "onboard_time": 1692946541,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238615,
-      "num": 238615,
-      "word": "特朗普称自己没做错任何事",
-      "onboard_time": 1692947436,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 238350,
@@ -1331,14 +1387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 219017,
-      "num": 219017,
-      "word": "张栋梁说看不见我是你们没有关注我",
-      "onboard_time": 1692948580,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218460,
       "num": 218460,
       "word": "ELVA真的回来了",
@@ -1385,14 +1433,6 @@
       "onboard_time": 1692936047,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211044,
-      "num": 211044,
-      "word": "网红大学老师相宜自曝辞职",
-      "onboard_time": 1692948759,
-      "rank": 45,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 208950,
@@ -1475,6 +1515,14 @@
       "category": "旅游,幽默"
     },
     {
+      "raw_hot": 196753,
+      "num": 196753,
+      "word": "陕西煤矿闪爆事故多名责任人已被控制",
+      "onboard_time": 1692951399,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196274,
       "num": 196274,
       "word": "上海8家日料店7家称无日本进口",
@@ -1521,14 +1569,6 @@
       "onboard_time": 1692926324,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187622,
-      "num": 187622,
-      "word": "年轻人旅游最累的时刻",
-      "onboard_time": 1692948399,
-      "rank": 49,
-      "category": "旅游,情感"
     },
     {
       "raw_hot": 186821,
@@ -1579,11 +1619,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179019,
+      "num": 179019,
+      "word": "杭州这片草坪好适合拍照",
+      "onboard_time": 1692951279,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 178673,
       "num": 178673,
       "word": "宝石老舅原来是救命的救",
       "onboard_time": 1692879777,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175237,
+      "num": 175237,
+      "word": "蔡氏Mojito",
+      "onboard_time": 1692948940,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1689,6 +1745,14 @@
       "onboard_time": 1692877730,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101296,
+      "num": 508997,
+      "word": "民警帮大爷找羊大爷提羊腿感谢",
+      "onboard_time": 1692950438,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91737,
@@ -1832,6 +1896,14 @@
       "word": "周涛成为魏牌高山001号车主",
       "onboard_time": 1692941205,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5847,
+      "num": 1287354,
+      "word": "打造和平发展的大格局",
+      "onboard_time": 1692951519,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
