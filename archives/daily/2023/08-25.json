@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692947717829,
+  "endTime": 1692948840045,
   "band_list": [
     {
       "raw_hot": 8987860,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 3051468,
-      "num": 1475792,
+      "num": 1511115,
       "word": "李玖哲自曝被雪藏7年",
       "onboard_time": 1692941321,
       "rank": 12,
@@ -75,19 +75,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2656603,
+      "num": 2656603,
+      "word": "北极鲶鱼事件核查5个月没结果",
+      "onboard_time": 1692943185,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2582990,
       "num": 2582990,
       "word": "历史会记住日本政府这一笔",
       "onboard_time": 1692881754,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2550298,
-      "num": 2550298,
-      "word": "北极鲶鱼事件核查5个月没结果",
-      "onboard_time": 1692943185,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 964058,
+      "num": 964058,
+      "word": "多家日妆品牌遭遇退货",
+      "onboard_time": 1692943964,
+      "rank": 37,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 956655,
       "num": 956655,
       "word": "西北太平洋已现双台风",
@@ -313,6 +321,14 @@
       "onboard_time": 1692931481,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 923476,
+      "num": 923476,
+      "word": "0713",
+      "onboard_time": 1692941680,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 918986,
@@ -339,28 +355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 878943,
-      "num": 878943,
-      "word": "多家日妆品牌遭遇退货",
-      "onboard_time": 1692943964,
-      "rank": 37,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 824832,
       "num": 824832,
       "word": "中盐集团回应食盐抢购现象",
       "onboard_time": 1692886076,
       "rank": 4,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 824564,
-      "num": 824564,
-      "word": "0713",
-      "onboard_time": 1692941680,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 822814,
@@ -371,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822041,
+      "num": 822041,
+      "word": "我见过情绪最稳定的小孩",
+      "onboard_time": 1692945463,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 790137,
       "num": 714857,
       "word": "A股",
       "onboard_time": 1692943121,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 773711,
+      "num": 773711,
+      "word": "张萌的衣服穿一次就崩开了",
+      "onboard_time": 1692943842,
+      "rank": 26,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 771879,
@@ -419,12 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 722603,
-      "num": 722603,
-      "word": "张萌的衣服穿一次就崩开了",
-      "onboard_time": 1692943842,
-      "rank": 26,
-      "category": "艺人,幽默"
+      "raw_hot": 717560,
+      "num": 717560,
+      "word": "郑嘉颖 三寸天堂",
+      "onboard_time": 1692943185,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 717426,
@@ -449,22 +465,6 @@
       "onboard_time": 1692931243,
       "rank": 14,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 710068,
-      "num": 710068,
-      "word": "我见过情绪最稳定的小孩",
-      "onboard_time": 1692945463,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 689456,
-      "num": 689456,
-      "word": "郑嘉颖 三寸天堂",
-      "onboard_time": 1692943185,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 671196,
@@ -497,6 +497,14 @@
       "onboard_time": 1692940663,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 627190,
+      "num": 627190,
+      "word": "日本核污染水排海当天大阪突降暴雨",
+      "onboard_time": 1692947739,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621783,
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476920,
+      "num": 476920,
+      "word": "CPA税法",
+      "onboard_time": 1692947980,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 476177,
       "num": 476177,
       "word": "普京回应普里戈任坠机遇难",
@@ -632,6 +648,14 @@
       "word": "骄阳伴我",
       "onboard_time": 1692890036,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 449280,
+      "num": 449280,
+      "word": "近期女性角色好像在渡劫",
+      "onboard_time": 1692947980,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -859,6 +883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 335008,
+      "num": 273765,
+      "word": "鲍蕾是懂陆毅黑历史的",
+      "onboard_time": 1692948220,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333303,
       "num": 333303,
       "word": "张远疯狂性报复性接活",
@@ -1035,6 +1067,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 289896,
+      "num": 272411,
+      "word": "黄晓明的姐姐打call团",
+      "onboard_time": 1692947380,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280663,
       "num": 280663,
       "word": "杨幂新穿搭已卖断货",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1692927346,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274220,
+      "num": 274220,
+      "word": "苏小玎再现高启盛摇头",
+      "onboard_time": 1692945639,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 270851,
@@ -1139,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256783,
-      "num": 256783,
-      "word": "苏小玎再现高启盛摇头",
-      "onboard_time": 1692945639,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250150,
       "num": 250150,
       "word": "CCTV电视剧是在说骄阳伴我吗",
@@ -1179,6 +1219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 243565,
+      "num": 243565,
+      "word": "长空之王总票房破8.5亿",
+      "onboard_time": 1692948580,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239920,
       "num": 239920,
       "word": "15岁女孩合作约翰施特劳斯管弦乐团",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1692946541,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238615,
+      "num": 238615,
+      "word": "特朗普称自己没做错任何事",
+      "onboard_time": 1692947436,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 238350,
@@ -1251,14 +1307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225767,
-      "num": 202665,
-      "word": "黄晓明的姐姐打call团",
-      "onboard_time": 1692947380,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 225118,
       "num": 225118,
       "word": "田曦薇机场狂奔甩粉丝",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1692924166,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219017,
+      "num": 219017,
+      "word": "张栋梁说看不见我是你们没有关注我",
+      "onboard_time": 1692948580,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 218460,
@@ -1329,6 +1385,14 @@
       "onboard_time": 1692936047,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211044,
+      "num": 211044,
+      "word": "网红大学老师相宜自曝辞职",
+      "onboard_time": 1692948759,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 208950,
@@ -1385,6 +1449,14 @@
       "onboard_time": 1692930762,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198900,
+      "num": 198900,
+      "word": "归去来的原唱是胡兵",
+      "onboard_time": 1692948819,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 198580,
@@ -1451,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187622,
+      "num": 187622,
+      "word": "年轻人旅游最累的时刻",
+      "onboard_time": 1692948399,
+      "rank": 49,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 186821,
       "num": 186821,
       "word": "不饿肚子曾是莫言的创作动力",
@@ -1497,14 +1577,6 @@
       "onboard_time": 1692930165,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180408,
-      "num": 180408,
-      "word": "特朗普称自己没做错任何事",
-      "onboard_time": 1692947436,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 178673,
@@ -1775,6 +1847,9 @@
     },
     {
       "word": "#中国式现代化的京津冀实践#"
+    },
+    {
+      "word": "#推动构建开放型世界经济#"
     }
   ]
 }
