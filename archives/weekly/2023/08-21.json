@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692967647607,
+  "endTime": 1692969578627,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -731,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2077368,
+      "num": 1823538,
+      "word": "赵丽颖去了张杰演唱会",
+      "onboard_time": 1692966039,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2064507,
       "num": 388248,
       "word": "腾讯 李跳跳",
@@ -889,14 +897,6 @@
       "onboard_time": 1692665080,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1823538,
-      "num": 1823538,
-      "word": "赵丽颖去了张杰演唱会",
-      "onboard_time": 1692966039,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 1822762,
@@ -1811,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1092008,
+      "num": 1092008,
+      "word": "唐禹哲 白月光",
+      "onboard_time": 1692965979,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1089919,
       "num": 1089919,
       "word": "毛不易 生气是为了让对方知道边界",
@@ -2377,14 +2385,6 @@
       "onboard_time": 1692573990,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 873540,
-      "num": 873540,
-      "word": "唐禹哲 白月光",
-      "onboard_time": 1692965979,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 873403,
@@ -3579,6 +3579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622594,
+      "num": 454819,
+      "word": "乌尔善 把中国故事讲给世界听",
+      "onboard_time": 1692968199,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 622051,
       "num": 1494017,
       "word": "19岁大学生守号3月中758万",
@@ -3796,7 +3804,7 @@
     },
     {
       "raw_hot": 601462,
-      "num": 444100,
+      "num": 449316,
       "word": "成毅跳Hi6主题曲舞蹈",
       "onboard_time": 1692966816,
       "rank": 12,
@@ -4427,6 +4435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527528,
+      "num": 442689,
+      "word": "陆毅踹了苏小玎一脚",
+      "onboard_time": 1692966578,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523880,
       "num": 523880,
       "word": "贾静雯一人演出三代关系",
@@ -5020,7 +5036,7 @@
     },
     {
       "raw_hot": 468377,
-      "num": 427502,
+      "num": 432714,
       "word": "杨紫 低谷时期更要坚持自信",
       "onboard_time": 1692965561,
       "rank": 15,
@@ -5049,6 +5065,14 @@
       "onboard_time": 1692707138,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466432,
+      "num": 466432,
+      "word": "考上浙大的女孩带奶奶尝学校美食",
+      "onboard_time": 1692965381,
+      "rank": 18,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 466200,
@@ -5129,14 +5153,6 @@
       "onboard_time": 1692870413,
       "rank": 30,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 458711,
-      "num": 458711,
-      "word": "考上浙大的女孩带奶奶尝学校美食",
-      "onboard_time": 1692965381,
-      "rank": 18,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 458198,
@@ -5377,6 +5393,14 @@
       "onboard_time": 1692886497,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440314,
+      "num": 440314,
+      "word": "徐明浩跳whatever甜妹舞",
+      "onboard_time": 1692967119,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 440247,
@@ -5627,14 +5651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 419145,
-      "num": 419145,
-      "word": "徐明浩跳whatever甜妹舞",
-      "onboard_time": 1692967119,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 418824,
       "num": 346140,
       "word": "一个刘海搞定所有脸型bug",
@@ -5699,20 +5715,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 412637,
+      "num": 275630,
+      "word": "叫丽丽的这下有福了",
+      "onboard_time": 1692967779,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412131,
       "num": 412131,
       "word": "亲爱的猎罪相思",
       "onboard_time": 1692762217,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 411919,
-      "num": 372645,
-      "word": "陆毅踹了苏小玎一脚",
-      "onboard_time": 1692966578,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 411896,
@@ -5809,6 +5825,14 @@
       "onboard_time": 1692690349,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405406,
+      "num": 236717,
+      "word": "涂山璟被扯碎九尾画面",
+      "onboard_time": 1692968320,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 405302,
@@ -8659,6 +8683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262980,
+      "num": 228124,
+      "word": "四川航空的空字有张熊猫脸",
+      "onboard_time": 1692967475,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262969,
       "num": 1009308,
       "word": "浪漫从来不受年龄限制",
@@ -8945,6 +8977,14 @@
       "onboard_time": 1692794497,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251411,
+      "num": 228106,
+      "word": "Ella感谢前男友",
+      "onboard_time": 1692969278,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 249248,
@@ -9499,6 +9539,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228245,
+      "num": 228245,
+      "word": "气血不足别盲目运动",
+      "onboard_time": 1692967602,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 227974,
+      "num": 227974,
+      "word": "韩国炸鸡白月光",
+      "onboard_time": 1692967539,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 227576,
       "num": 227576,
       "word": "咒术回战涩谷事变篇定档",
@@ -9571,6 +9627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224690,
+      "num": 221461,
+      "word": "金采源嘟嘟嘟近况",
+      "onboard_time": 1692968498,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224522,
       "num": 224522,
       "word": "保姆级对镜自拍教程",
@@ -9617,6 +9681,14 @@
       "onboard_time": 1692924166,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222952,
+      "num": 222952,
+      "word": "项链变成手链",
+      "onboard_time": 1692966039,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 222895,
@@ -9841,6 +9913,14 @@
       "onboard_time": 1692939769,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216119,
+      "num": 216119,
+      "word": "朴志效一位",
+      "onboard_time": 1692968619,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 215955,
@@ -10361,6 +10441,14 @@
       "onboard_time": 1692609276,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204140,
+      "num": 181476,
+      "word": "费翔去看李宇春演唱会",
+      "onboard_time": 1692967539,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 204131,
@@ -11123,6 +11211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189720,
+      "num": 181373,
+      "word": "黄晓明尹正许光汉给程潇拍了800张照片",
+      "onboard_time": 1692969520,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189643,
       "num": 189643,
       "word": "灼灼风流打戏花絮比正片好看",
@@ -11169,6 +11265,14 @@
       "onboard_time": 1692595236,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188386,
+      "num": 181334,
+      "word": "mallstars国际齐舞大赛",
+      "onboard_time": 1692968919,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 188308,
@@ -11377,6 +11481,14 @@
       "onboard_time": 1692930165,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181587,
+      "num": 181587,
+      "word": "本想带孩子摆地摊感受一下生活不易",
+      "onboard_time": 1692968801,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 181569,
@@ -12003,14 +12115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147733,
-      "num": 193627,
-      "word": "气血不足别盲目运动",
-      "onboard_time": 1692967602,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145982,
       "num": 1559962,
       "word": "今天杭州亚运会倒计时30天",
@@ -12203,14 +12307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133506,
-      "num": 212157,
-      "word": "项链变成手链",
-      "onboard_time": 1692966039,
-      "rank": 47,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 133072,
       "num": 133072,
       "word": "虞书欣跳手势舞",
@@ -12401,14 +12497,6 @@
       "onboard_time": 1692804876,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 115530,
-      "num": 193584,
-      "word": "四川航空的空字有张熊猫脸",
-      "onboard_time": 1692967475,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 114257,
@@ -13169,6 +13257,14 @@
       "onboard_time": 1692563833,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 36958,
+      "num": 448948,
+      "word": "民警10小时内2次跳入江中救人",
+      "onboard_time": 1692968438,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36742,
