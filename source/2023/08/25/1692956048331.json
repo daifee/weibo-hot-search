@@ -1,0 +1,410 @@
+{
+  "runTime": 1692956048331,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628944,
+        "num": 1628944,
+        "word": "0713",
+        "onboard_time": 1692941680,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 973177,
+        "num": 973177,
+        "word": "我见过情绪最稳定的小孩",
+        "onboard_time": 1692945463,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158391,
+        "num": 728473,
+        "word": "在红绿灯上发现杭州亚运会吉祥物",
+        "onboard_time": 1692951699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2165697,
+        "num": 726906,
+        "word": "赌的就是你不要小票",
+        "onboard_time": 1692951938,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1963310,
+        "num": 722669,
+        "word": "日本核污染水排海当天大阪突降暴雨",
+        "onboard_time": 1692947739,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715512,
+        "num": 715512,
+        "word": "日本核污染水排海民众忍无可忍",
+        "onboard_time": 1692926266,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552243,
+        "num": 552243,
+        "word": "李玖哲自曝被雪藏7年",
+        "onboard_time": 1692941321,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488126,
+        "num": 488126,
+        "word": "英国妈妈为做缩胸手术卖房",
+        "onboard_time": 1692949360,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479260,
+        "num": 479260,
+        "word": "我的大明星何群回来了",
+        "onboard_time": 1692954699,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476120,
+        "num": 476120,
+        "word": "中国好声音暂停播出",
+        "onboard_time": 1692932868,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2251647,
+        "num": 475683,
+        "word": "李敏镐馒化",
+        "onboard_time": 1692951160,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1534201,
+        "num": 468490,
+        "word": "日本水产行业哀鸿遍野",
+        "onboard_time": 1692954219,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 994237,
+        "num": 456484,
+        "word": "躲过韩国空气酵母的金秀贤",
+        "onboard_time": 1692953078,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185801,
+        "num": 453533,
+        "word": "我国加大食盐价格监管力度",
+        "onboard_time": 1692945342,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 35685,
+        "num": 441571,
+        "word": "独手仁医扎根山村29年成村民守护人",
+        "onboard_time": 1692954038,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623019,
+        "num": 435031,
+        "word": "网红大学老师相宜自曝辞职",
+        "onboard_time": 1692948759,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 542215,
+        "num": 428122,
+        "word": "武林外传全员芭比",
+        "onboard_time": 1692954877,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 490476,
+        "num": 424999,
+        "word": "李玟或将安葬在武汉",
+        "onboard_time": 1692955718,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420593,
+        "num": 420593,
+        "word": "黄晓明发长文谈最后的真相",
+        "onboard_time": 1692943302,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420220,
+        "num": 420220,
+        "word": "王鹤棣这可不敢不签啊",
+        "onboard_time": 1692952360,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 791566,
+        "num": 420210,
+        "word": "丫丫晒着太阳吃胡萝卜",
+        "onboard_time": 1692953978,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665179,
+        "num": 420197,
+        "word": "缅甸逃回男子曝出活埋杀人视频",
+        "onboard_time": 1692930462,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424443,
+        "num": 420195,
+        "word": "庆余年预约破500万",
+        "onboard_time": 1692954637,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420166,
+        "num": 420166,
+        "word": "徐良谈许嵩汪苏泷音乐三巨头",
+        "onboard_time": 1692954276,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332782,
+        "num": 361029,
+        "word": "不经意却容易变胖的习惯",
+        "onboard_time": 1692951938,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347945,
+        "num": 347945,
+        "word": "35岁的周迅美的像个精灵",
+        "onboard_time": 1692954519,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347288,
+        "num": 347288,
+        "word": "老舅rap 舅太行了",
+        "onboard_time": 1692954337,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345179,
+        "num": 345179,
+        "word": "长相思微博全面登顶",
+        "onboard_time": 1692954699,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256098,
+        "num": 256098,
+        "word": "多家日妆品牌遭遇退货",
+        "onboard_time": 1692943964,
+        "rank": 28,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 235080,
+        "num": 235080,
+        "word": "iPhone15Pro新增灰色",
+        "onboard_time": 1692929865,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 381675,
+        "num": 231689,
+        "word": "被送精神病院千万富翁已自缢身亡",
+        "onboard_time": 1692955601,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266018,
+        "num": 228058,
+        "word": "郑嘉颖 三寸天堂",
+        "onboard_time": 1692943185,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256282,
+        "num": 226478,
+        "word": "装腔启示录 最烦装逼的人",
+        "onboard_time": 1692954160,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243989,
+        "num": 222016,
+        "word": "张萌的衣服穿一次就崩开了",
+        "onboard_time": 1692943842,
+        "rank": 33,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 217980,
+        "num": 217980,
+        "word": "张栋梁说看不见我是你们没有关注我",
+        "onboard_time": 1692948580,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214239,
+        "num": 214239,
+        "word": "在杭州上班摸鱼摸到真鱼了",
+        "onboard_time": 1692951938,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198552,
+        "num": 198552,
+        "word": "狼队第五人格",
+        "onboard_time": 1692954999,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 364729,
+        "num": 194766,
+        "word": "北极鲶鱼事件核查5个月没结果",
+        "onboard_time": 1692943185,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187874,
+        "num": 187874,
+        "word": "张栋梁舞台旁白是王心凌",
+        "onboard_time": 1692940663,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186209,
+        "num": 186209,
+        "word": "A股",
+        "onboard_time": 1692943121,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183112,
+        "num": 183112,
+        "word": "赵本山终于出新剧了",
+        "onboard_time": 1692955898,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183039,
+        "num": 183039,
+        "word": "专四",
+        "onboard_time": 1692954579,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182234,
+        "num": 182234,
+        "word": "苏醒 有些话必须说在前面",
+        "onboard_time": 1692955898,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176221,
+        "num": 176221,
+        "word": "日本向学生宣传核污水安全被骂",
+        "onboard_time": 1692941981,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173499,
+        "num": 173499,
+        "word": "这下谁还分得清健身房和酒吧",
+        "onboard_time": 1692951877,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166260,
+        "num": 166260,
+        "word": "日本本州东海岸远海地震",
+        "onboard_time": 1692920858,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163969,
+        "num": 163969,
+        "word": "毛不易 生气是为了让对方知道边界",
+        "onboard_time": 1692956021,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163376,
+        "num": 163376,
+        "word": "年轻人这么看演唱会",
+        "onboard_time": 1692954276,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161827,
+        "num": 161827,
+        "word": "DK对战DRX",
+        "onboard_time": 1692956021,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161520,
+        "num": 161520,
+        "word": "日本台风",
+        "onboard_time": 1692928903,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化的京津冀实践#"
+    }
+  }
+}

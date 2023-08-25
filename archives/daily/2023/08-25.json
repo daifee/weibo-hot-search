@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692954971898,
+  "endTime": 1692956048331,
   "band_list": [
     {
       "raw_hot": 8987860,
@@ -131,20 +131,20 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 2165697,
+      "num": 854246,
+      "word": "赌的就是你不要小票",
+      "onboard_time": 1692951938,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1975191,
       "num": 1975191,
       "word": "我见过情绪最稳定的小孩",
       "onboard_time": 1692945463,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1943278,
-      "num": 854246,
-      "word": "赌的就是你不要小票",
-      "onboard_time": 1692951938,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1720691,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1628944,
+      "num": 1628944,
+      "word": "0713",
+      "onboard_time": 1692941680,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1611236,
       "num": 633040,
       "word": "东京电力称核污水排海有问题将停止",
@@ -201,6 +209,14 @@
       "onboard_time": 1692887698,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1534201,
+      "num": 494948,
+      "word": "日本水产行业哀鸿遍野",
+      "onboard_time": 1692954219,
+      "rank": 15,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1478333,
@@ -265,14 +281,6 @@
       "onboard_time": 1692876645,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1252819,
-      "num": 1252819,
-      "word": "0713",
-      "onboard_time": 1692941680,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 1233369,
@@ -416,6 +424,14 @@
       "word": "正式被确诊为番茄",
       "onboard_time": 1692927463,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 791566,
+      "num": 420210,
+      "word": "丫丫晒着太阳吃胡萝卜",
+      "onboard_time": 1692953978,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -563,14 +579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 591008,
-      "num": 324292,
-      "word": "丫丫晒着太阳吃胡萝卜",
-      "onboard_time": 1692953978,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 589147,
       "num": 454389,
       "word": "胃气不足中医叫我吃麻辣火锅",
@@ -609,6 +617,14 @@
       "onboard_time": 1692931303,
       "rank": 17,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 542215,
+      "num": 428122,
+      "word": "武林外传全员芭比",
+      "onboard_time": 1692954877,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 529643,
@@ -651,12 +667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 494948,
-      "num": 494948,
-      "word": "日本水产行业哀鸿遍野",
-      "onboard_time": 1692954219,
-      "rank": 15,
-      "category": "财经,社会新闻"
+      "raw_hot": 490476,
+      "num": 424999,
+      "word": "李玟或将安葬在武汉",
+      "onboard_time": 1692955718,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 485760,
@@ -673,6 +689,14 @@
       "onboard_time": 1692892364,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479260,
+      "num": 479260,
+      "word": "我的大明星何群回来了",
+      "onboard_time": 1692954699,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 476920,
@@ -787,6 +811,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424443,
+      "num": 420195,
+      "word": "庆余年预约破500万",
+      "onboard_time": 1692954637,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 420166,
+      "num": 420166,
+      "word": "徐良谈许嵩汪苏泷音乐三巨头",
+      "onboard_time": 1692954276,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419730,
       "num": 419730,
       "word": "无与伦比的美丽定档",
@@ -899,6 +939,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 381675,
+      "num": 231689,
+      "word": "被送精神病院千万富翁已自缢身亡",
+      "onboard_time": 1692955601,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369296,
       "num": 369296,
       "word": "唐影被性骚扰",
@@ -931,11 +979,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347945,
+      "num": 347945,
+      "word": "35岁的周迅美的像个精灵",
+      "onboard_time": 1692954519,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 347490,
       "num": 347490,
       "word": "Angelababy替张大大解围",
       "onboard_time": 1692940723,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 347288,
+      "num": 347288,
+      "word": "老舅rap 舅太行了",
+      "onboard_time": 1692954337,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -945,6 +1009,14 @@
       "onboard_time": 1692885294,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345179,
+      "num": 345179,
+      "word": "长相思微博全面登顶",
+      "onboard_time": 1692954699,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 338131,
@@ -980,7 +1052,7 @@
     },
     {
       "raw_hot": 334035,
-      "num": 316628,
+      "num": 361029,
       "word": "不经意却容易变胖的习惯",
       "onboard_time": 1692951938,
       "rank": 31,
@@ -1105,22 +1177,6 @@
       "onboard_time": 1692891824,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 299284,
-      "num": 299284,
-      "word": "徐良谈许嵩汪苏泷音乐三巨头",
-      "onboard_time": 1692954276,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 297636,
-      "num": 297636,
-      "word": "老舅rap 舅太行了",
-      "onboard_time": 1692954337,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 296406,
@@ -1339,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256984,
-      "num": 256984,
-      "word": "35岁的周迅美的像个精灵",
-      "onboard_time": 1692954519,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 256945,
       "num": 256945,
       "word": "日本核污染水排海正式开始",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1692944023,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235356,
-      "num": 235356,
-      "word": "庆余年预约破500万",
-      "onboard_time": 1692954637,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 235037,
@@ -1579,14 +1619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205616,
-      "num": 205616,
-      "word": "我的大明星何群回来了",
-      "onboard_time": 1692954699,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204627,
       "num": 204627,
       "word": "海獭宝宝被水拍打妈妈一把护入怀中",
@@ -1635,20 +1667,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198614,
-      "num": 198614,
-      "word": "长相思微博全面登顶",
-      "onboard_time": 1692954699,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 198580,
       "num": 198580,
       "word": "一生行善的爷爷最后捐出了自己",
       "onboard_time": 1692932264,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198552,
+      "num": 198552,
+      "word": "狼队第五人格",
+      "onboard_time": 1692954999,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 197471,
@@ -1755,11 +1787,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183112,
+      "num": 183112,
+      "word": "赵本山终于出新剧了",
+      "onboard_time": 1692955898,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182867,
       "num": 182867,
       "word": "汪浚熙 教了三个小朋友做折纸",
       "onboard_time": 1692924526,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182234,
+      "num": 182234,
+      "word": "苏醒 有些话必须说在前面",
+      "onboard_time": 1692955898,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1795,14 +1843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 172011,
-      "num": 172011,
-      "word": "武林外传全员芭比",
-      "onboard_time": 1692954877,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 171814,
       "num": 171814,
       "word": "当年看不懂的东京开幕式原来是预告片",
@@ -1817,6 +1857,22 @@
       "onboard_time": 1692951699,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163969,
+      "num": 163969,
+      "word": "毛不易 生气是为了让对方知道边界",
+      "onboard_time": 1692956021,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161827,
+      "num": 161827,
+      "word": "DK对战DRX",
+      "onboard_time": 1692956021,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 160808,
@@ -2003,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35685,
+      "num": 504431,
+      "word": "独手仁医扎根山村29年成村民守护人",
+      "onboard_time": 1692954038,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35280,
       "num": 29959,
       "word": "解救被困缅甸的中科院博士",
@@ -2040,14 +2104,6 @@
       "word": "富士山什么时候觉醒",
       "onboard_time": 1692904396,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21554,
-      "num": 504431,
-      "word": "独手仁医扎根山村29年成村民守护人",
-      "onboard_time": 1692954038,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
