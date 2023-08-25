@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693005400825,
+  "endTime": 1693006439217,
   "band_list": [
     {
       "raw_hot": 2577982,
@@ -67,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559270,
+      "num": 114139,
+      "word": "沈梦辰做菜没发现锅着火了",
+      "onboard_time": 1693005263,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 557844,
       "num": 557844,
       "word": "凤凰传奇感谢汪苏泷救场央视秋晚",
       "onboard_time": 1692972044,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 555084,
+      "num": 555084,
+      "word": "北京暴雨",
+      "onboard_time": 1693005744,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 525511,
@@ -147,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 364569,
+      "num": 189012,
+      "word": "2年被家暴16次女子仍未能离婚",
+      "onboard_time": 1692983187,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361791,
       "num": 339695,
       "word": "渐冻人蔡磊称已在准备身后事",
@@ -163,20 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350100,
-      "num": 152267,
-      "word": "2年被家暴16次女子仍未能离婚",
-      "onboard_time": 1692983187,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325574,
       "num": 325574,
       "word": "披荆斩棘的精华都在蔡国庆选歌",
       "onboard_time": 1692974026,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324201,
+      "num": 324201,
+      "word": "这里明明靠近妈妈但怎么让人想哭",
+      "onboard_time": 1693004844,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305028,
@@ -211,11 +235,35 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 270086,
+      "num": 270086,
+      "word": "瘦子累坏了大家都心疼",
+      "onboard_time": 1692991096,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262742,
       "num": 262742,
       "word": "被送精神病院千万富翁已自缢身亡",
       "onboard_time": 1692955601,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258704,
+      "num": 186274,
+      "word": "上海一日料店上架防辐射套餐",
+      "onboard_time": 1693005744,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252144,
+      "num": 252144,
+      "word": "大熊猫吃西瓜只吃红瓤瓤",
+      "onboard_time": 1693004602,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -251,14 +299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 238945,
-      "num": 238945,
-      "word": "瘦子累坏了大家都心疼",
-      "onboard_time": 1692991096,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 235845,
       "num": 235845,
       "word": "莲花楼 我角姐哪受过这气",
@@ -273,6 +313,14 @@
       "onboard_time": 1692974864,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 227486,
+      "num": 113247,
+      "word": "金华男子上班时得知中了1080万",
+      "onboard_time": 1693005744,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220998,
@@ -307,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197058,
+      "num": 197058,
+      "word": "5位舟山医生远赴太平洋守护400多艘中国渔船",
+      "onboard_time": 1693005626,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 196049,
       "num": 196049,
       "word": "鹿晗评论区的今天星期五",
@@ -331,20 +387,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183522,
-      "num": 103256,
-      "word": "沈梦辰做菜没发现锅着火了",
-      "onboard_time": 1693005263,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182738,
       "num": 176656,
       "word": "周扬青 史上最累综艺录制vlog",
       "onboard_time": 1692961417,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181555,
+      "num": 181555,
+      "word": "男生打篮球撞上女生瞬间脸红",
+      "onboard_time": 1693004844,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180867,
@@ -419,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148065,
-      "num": 148065,
-      "word": "这里明明靠近妈妈但怎么让人想哭",
-      "onboard_time": 1693004844,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145237,
       "num": 145237,
       "word": "考上浙大的女孩带奶奶尝学校美食",
@@ -436,19 +484,19 @@
     },
     {
       "raw_hot": 144283,
-      "num": 135060,
+      "num": 140023,
       "word": "本想带孩子摆地摊感受一下生活不易",
       "onboard_time": 1692968801,
       "rank": 49,
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 139005,
-      "num": 101279,
-      "word": "男生打篮球撞上女生瞬间脸红",
-      "onboard_time": 1693004844,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 142181,
+      "num": 112152,
+      "word": "蓝正龙不光帅",
+      "onboard_time": 1693005805,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 137690,
@@ -457,14 +505,6 @@
       "onboard_time": 1692973427,
       "rank": 47,
       "category": "其它"
-    },
-    {
-      "raw_hot": 131140,
-      "num": 131140,
-      "word": "大熊猫吃西瓜只吃红瓤瓤",
-      "onboard_time": 1693004602,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126428,
@@ -483,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 114681,
+      "num": 111404,
+      "word": "立秋之后该吃的食物",
+      "onboard_time": 1693004783,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 106236,
       "num": 81195,
       "word": "警方回应富翁被送精神病院后身亡",
@@ -491,8 +539,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87366,
-      "num": 87366,
+      "raw_hot": 94076,
+      "num": 94076,
       "word": "宋轶新剧演游医",
       "onboard_time": 1693003159,
       "rank": 34,
@@ -513,14 +561,6 @@
       "onboard_time": 1692985341,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 60444,
-      "num": 60444,
-      "word": "立秋之后该吃的食物",
-      "onboard_time": 1693004783,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 51873,
