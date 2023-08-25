@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692938071199,
+  "endTime": 1692940519316,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -681,6 +681,14 @@
       "onboard_time": 1692591940,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 3323656,
+      "num": 3323656,
+      "word": "日本核污染水排海民众忍无可忍",
+      "onboard_time": 1692926266,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3322665,
@@ -1761,14 +1769,6 @@
       "onboard_time": 1691826096,
       "rank": 1,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 2393591,
-      "num": 2393591,
-      "word": "日本核污染水排海民众忍无可忍",
-      "onboard_time": 1692926266,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2391660,
@@ -3947,6 +3947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1701557,
+      "num": 1701557,
+      "word": "监狱公布特朗普身高体重",
+      "onboard_time": 1692931546,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1696434,
       "num": 1696434,
       "word": "医药代表性贿赂医生",
@@ -4129,14 +4137,6 @@
       "onboard_time": 1692576156,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1658102,
-      "num": 1658102,
-      "word": "监狱公布特朗普身高体重",
-      "onboard_time": 1692931546,
-      "rank": 13,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1657621,
@@ -4369,6 +4369,14 @@
       "onboard_time": 1690853794,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1616504,
+      "num": 641900,
+      "word": "萧亚轩不生小孩的原因",
+      "onboard_time": 1692937788,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1615023,
@@ -5256,6 +5264,14 @@
       "word": "济南将迎大雨到暴雨",
       "onboard_time": 1691263295,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1465167,
+      "num": 1465167,
+      "word": "茶卡盐湖现有盐够全国吃70年",
+      "onboard_time": 1692936708,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -10585,14 +10601,6 @@
       "onboard_time": 1691156982,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 918277,
-      "num": 918277,
-      "word": "茶卡盐湖现有盐够全国吃70年",
-      "onboard_time": 1692936708,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 918041,
@@ -17657,6 +17665,14 @@
       "onboard_time": 1692873893,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 626341,
+      "num": 626341,
+      "word": "中国好声音母公司盘中跳水",
+      "onboard_time": 1692936286,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 626280,
@@ -27699,14 +27715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427025,
-      "num": 373423,
-      "word": "萧亚轩不生小孩的原因",
-      "onboard_time": 1692937788,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 426997,
       "num": 426997,
       "word": "王曼昱",
@@ -27889,6 +27897,14 @@
       "onboard_time": 1692684703,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424576,
+      "num": 424576,
+      "word": "西北太平洋已现双台风",
+      "onboard_time": 1692939168,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424355,
@@ -30209,6 +30225,14 @@
       "onboard_time": 1692662977,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 390242,
+      "num": 390242,
+      "word": "王嘉尔Amber换嘴合唱HARDER",
+      "onboard_time": 1692938988,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 389859,
@@ -35731,14 +35755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 321267,
-      "num": 321267,
-      "word": "中国好声音母公司盘中跳水",
-      "onboard_time": 1692936286,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 321177,
       "num": 321177,
       "word": "DK对战T1",
@@ -39659,6 +39675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 283732,
+      "num": 283732,
+      "word": "陈楚生张远俞灏明王栎鑫组第一",
+      "onboard_time": 1692940304,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283693,
       "num": 283693,
       "word": "一路朝阳 学霸组演戏",
@@ -41227,6 +41251,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 270680,
+      "num": 270680,
+      "word": "阿姨晒50年前照片竟联系到中学班长",
+      "onboard_time": 1692938926,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270603,
       "num": 270603,
       "word": "小夭的贝壳是相柳接血那个吗",
@@ -42264,6 +42296,14 @@
       "word": "长相思哈基米随主人",
       "onboard_time": 1691662111,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 261172,
+      "num": 261172,
+      "word": "胡歌欢迎刘伽茵入驻微博",
+      "onboard_time": 1692940124,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -48131,6 +48171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216270,
+      "num": 216270,
+      "word": "i人的至爽时刻",
+      "onboard_time": 1692939769,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216269,
       "num": 819335,
       "word": "买了不一样的泳帽去河里游泳",
@@ -51081,6 +51129,14 @@
       "onboard_time": 1692490889,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202048,
+      "num": 202048,
+      "word": "杨超越说杨迪是冻龄男神",
+      "onboard_time": 1692939884,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 201957,
