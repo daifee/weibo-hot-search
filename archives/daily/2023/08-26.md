@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/26 00:21:15 ~ 2023/08/26 05:14:34
+本榜单时间：2023/08/26 00:21:15 ~ 2023/08/26 05:33:51
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AF%8C%E7%BF%81%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%90%8E%E8%BA%AB%E4%BA%A1%23" target="weibo">
+警方回应富翁被送精神病院后身亡（热度：49907）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%A7%81%E4%BF%A1%E4%BD%A0%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
 苏见信你怎么了（热度：41831）
 </a>
@@ -393,12 +399,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AF%8C%E7%BF%81%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%90%8E%E8%BA%AB%E4%BA%A1%23" target="weibo">
-警方回应富翁被送精神病院后身亡（热度：30314）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%83%BD%E5%93%AD%E6%98%AF%E5%A5%BD%E4%BA%8B%23" target="weibo">
 年轻人能哭是好事（热度：28239）
 </a>
@@ -406,7 +406,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%23" target="weibo">
-长相思（热度：20431）
+长相思（热度：21350）
 </a>
 </li>
 
