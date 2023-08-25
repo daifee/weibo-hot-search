@@ -1,0 +1,410 @@
+{
+  "runTime": 1692963217348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3691222,
+        "num": 3691222,
+        "word": "日本水产行业哀鸿遍野",
+        "onboard_time": 1692954219,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 360536,
+        "num": 1708974,
+        "word": "充电器被盗车主报警发现好心人下雨帮收",
+        "onboard_time": 1692957040,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90954,
+        "num": 1483649,
+        "word": "在红绿灯上发现杭州亚运会吉祥物",
+        "onboard_time": 1692951699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417274,
+        "num": 1417274,
+        "word": "高叶哭了",
+        "onboard_time": 1692962199,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207510,
+        "num": 1214355,
+        "word": "女子情绪低落被环卫工人送花治愈",
+        "onboard_time": 1692957519,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1178032,
+        "num": 1178032,
+        "word": "日本公布排海启动瞬间画面",
+        "onboard_time": 1692957937,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169861,
+        "num": 1147194,
+        "word": "金色小熊猫在他笔下会发光哎",
+        "onboard_time": 1692960638,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765325,
+        "num": 1111905,
+        "word": "王心凌跟张栋梁说上披荆斩棘会很累",
+        "onboard_time": 1692959021,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563810,
+        "num": 1027315,
+        "word": "赌的就是你不要小票",
+        "onboard_time": 1692951938,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1666237,
+        "num": 1001369,
+        "word": "被送精神病院千万富翁已自缢身亡",
+        "onboard_time": 1692955601,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1270955,
+        "num": 934238,
+        "word": "周扬青 史上最累综艺录制vlog",
+        "onboard_time": 1692961417,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1214941,
+        "num": 884854,
+        "word": "台风达维或造成海水倒灌日本",
+        "onboard_time": 1692956378,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870434,
+        "num": 870434,
+        "word": "费翔见到了自己领养的大熊猫",
+        "onboard_time": 1692961118,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 868815,
+        "num": 868815,
+        "word": "章昊确诊新冠",
+        "onboard_time": 1692957757,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574686,
+        "num": 574686,
+        "word": "杨紫或将演六姊妹",
+        "onboard_time": 1692960276,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 543618,
+        "num": 543618,
+        "word": "李敏镐馒化",
+        "onboard_time": 1692951160,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 542586,
+        "num": 542586,
+        "word": "鹿晗井柏然吴邪张起灵定妆照",
+        "onboard_time": 1692958777,
+        "rank": 16,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 523832,
+        "num": 523832,
+        "word": "毛不易 生气是为了让对方知道边界",
+        "onboard_time": 1692956021,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470540,
+        "num": 470540,
+        "word": "李玟或将安葬在武汉",
+        "onboard_time": 1692955718,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325127,
+        "num": 465677,
+        "word": "日本核污染水排海当天大阪突降暴雨",
+        "onboard_time": 1692947739,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464864,
+        "num": 464864,
+        "word": "0713",
+        "onboard_time": 1692941680,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435332,
+        "num": 435332,
+        "word": "福岛产品半价无人买",
+        "onboard_time": 1692961958,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 428218,
+        "num": 428218,
+        "word": "高干文男主从此有脸了",
+        "onboard_time": 1692959077,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282941,
+        "num": 282941,
+        "word": "缅甸逃回男子曝出活埋杀人视频",
+        "onboard_time": 1692930462,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269898,
+        "num": 269898,
+        "word": "丫丫晒着太阳吃胡萝卜",
+        "onboard_time": 1692953978,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362839,
+        "num": 261842,
+        "word": "王栎鑫说魏巡你失去啥了你一个冠军",
+        "onboard_time": 1692959136,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351449,
+        "num": 260585,
+        "word": "杨幂新中式霸总穿搭",
+        "onboard_time": 1692961659,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 339651,
+        "num": 257084,
+        "word": "肖战白百何新剧的对手戏",
+        "onboard_time": 1692962919,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249251,
+        "num": 249251,
+        "word": "奶奶养的小狗想瘦都难",
+        "onboard_time": 1692959859,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 201709,
+        "num": 201709,
+        "word": "各品牌什么手机不能买",
+        "onboard_time": 1692957997,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 332429,
+        "num": 201037,
+        "word": "陈思诚片场说买股朱一龙",
+        "onboard_time": 1692959499,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299009,
+        "num": 200466,
+        "word": "庆余年为啥不七夕发",
+        "onboard_time": 1692959558,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281724,
+        "num": 199370,
+        "word": "情侣双双失忆后再次爱上彼此",
+        "onboard_time": 1692962676,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270841,
+        "num": 198765,
+        "word": "武林外传花絮 跨越17年的重逢",
+        "onboard_time": 1692960760,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244670,
+        "num": 197575,
+        "word": "你见过凌晨的医院吗",
+        "onboard_time": 1692962139,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263629,
+        "num": 196643,
+        "word": "苏醒 有些话必须说在前面",
+        "onboard_time": 1692955898,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172883,
+        "num": 195429,
+        "word": "不经意却容易变胖的习惯",
+        "onboard_time": 1692951938,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167624,
+        "num": 194388,
+        "word": "双鱼座从不主动挑起矛盾",
+        "onboard_time": 1692962498,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155329,
+        "num": 194081,
+        "word": "克宫否认下令杀害普里戈任说法",
+        "onboard_time": 1692962857,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 148692,
+        "num": 192828,
+        "word": "iPhone15Pro新增灰色",
+        "onboard_time": 1692929865,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 229774,
+        "num": 191830,
+        "word": "躲过韩国空气酵母的金秀贤",
+        "onboard_time": 1692953078,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211099,
+        "num": 191239,
+        "word": "SEVENTEEN上升期没火的歌",
+        "onboard_time": 1692958118,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209035,
+        "num": 189756,
+        "word": "我的大明星何群回来了",
+        "onboard_time": 1692954699,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189643,
+        "num": 189643,
+        "word": "灼灼风流打戏花絮比正片好看",
+        "onboard_time": 1692962199,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188724,
+        "num": 188724,
+        "word": "中国好声音暂停播出",
+        "onboard_time": 1692932868,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179794,
+        "num": 179794,
+        "word": "徐良谈许嵩汪苏泷音乐三巨头",
+        "onboard_time": 1692954276,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136820,
+        "num": 175953,
+        "word": "网红大学老师相宜自曝辞职",
+        "onboard_time": 1692948759,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 132417,
+        "num": 175344,
+        "word": "今年已赴东南亚抓获300余名嫌疑人",
+        "onboard_time": 1692957579,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123310,
+        "num": 171429,
+        "word": "日本核污染水排海民众忍无可忍",
+        "onboard_time": 1692926266,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121696,
+        "num": 165215,
+        "word": "DK对战DRX",
+        "onboard_time": 1692956021,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
