@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692977644179,
+  "endTime": 1692980475040,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -496,6 +496,14 @@
       "word": "日本政府已向儿童发核污水安全传单",
       "onboard_time": 1692876645,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2577982,
+      "num": 413427,
+      "word": "女子遭强奸后未获立案跳水库自杀",
+      "onboard_time": 1692976723,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1697,14 +1705,6 @@
       "onboard_time": 1692924467,
       "rank": 17,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 1209513,
-      "num": 268587,
-      "word": "女子遭强奸后未获立案跳水库自杀",
-      "onboard_time": 1692976723,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1202409,
@@ -2939,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761745,
+      "num": 761745,
+      "word": "张杰一句话高情商介绍朋友",
+      "onboard_time": 1692976364,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 761185,
       "num": 413417,
       "word": "福岛排放核污水地区瞬时辐射量增加",
@@ -3049,14 +3057,6 @@
       "onboard_time": 1692612216,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742048,
-      "num": 427764,
-      "word": "张杰一句话高情商介绍朋友",
-      "onboard_time": 1692976364,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 739837,
@@ -4547,6 +4547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 525511,
+      "num": 525511,
+      "word": "八仙饭店",
+      "onboard_time": 1692976962,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523880,
       "num": 523880,
       "word": "贾静雯一人演出三代关系",
@@ -4649,6 +4657,14 @@
       "onboard_time": 1692773075,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 511478,
+      "num": 324128,
+      "word": "陈楚生不愧是民选冠军",
+      "onboard_time": 1692977143,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 510907,
@@ -5003,6 +5019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485375,
+      "num": 485375,
+      "word": "马伯骞比观众还观众",
+      "onboard_time": 1692976364,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485056,
       "num": 391201,
       "word": "肖战纱袍造型仙气十足",
@@ -5235,6 +5259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462504,
+      "num": 356767,
+      "word": "蓝正龙好帅",
+      "onboard_time": 1692977742,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462349,
       "num": 366060,
       "word": "娜然于适双人封面",
@@ -5305,14 +5337,6 @@
       "onboard_time": 1692697899,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457671,
-      "num": 423909,
-      "word": "马伯骞比观众还观众",
-      "onboard_time": 1692976364,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 457322,
@@ -6441,14 +6465,6 @@
       "onboard_time": 1692674381,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 376936,
-      "num": 376936,
-      "word": "八仙饭店",
-      "onboard_time": 1692976962,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 376673,
@@ -7635,14 +7651,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 317303,
-      "num": 317303,
-      "word": "陈楚生不愧是民选冠军",
-      "onboard_time": 1692977143,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317195,
       "num": 317195,
       "word": "披荆斩棘初舞台光路大片",
@@ -7729,6 +7737,14 @@
       "onboard_time": 1692936708,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 312311,
+      "num": 312311,
+      "word": "披荆斩棘好抓马",
+      "onboard_time": 1692979176,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 312160,
@@ -7913,6 +7929,14 @@
       "onboard_time": 1692612575,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305028,
+      "num": 305028,
+      "word": "刚和妈妈吵完架就要交学费",
+      "onboard_time": 1692978162,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 304650,
@@ -9481,6 +9505,14 @@
       "onboard_time": 1692856500,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241774,
+      "num": 241774,
+      "word": "王者荣耀 观光团",
+      "onboard_time": 1692979894,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 241466,
@@ -11905,6 +11937,14 @@
       "onboard_time": 1692967897,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178106,
+      "num": 178106,
+      "word": "小企鹅发疯表情包",
+      "onboard_time": 1692979057,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 176531,
