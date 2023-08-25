@@ -1,0 +1,410 @@
+{
+  "runTime": 1692990793022,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 206808,
+        "num": 206808,
+        "word": "日本水产行业哀鸿遍野",
+        "onboard_time": 1692954219,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 124691,
+        "num": 124691,
+        "word": "披荆斩棘好抓马",
+        "onboard_time": 1692979176,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12537,
+        "num": 122426,
+        "word": "要坚持真正的多边主义",
+        "onboard_time": 1692976244,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122011,
+        "num": 122011,
+        "word": "张杰一句话高情商介绍朋友",
+        "onboard_time": 1692976364,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109375,
+        "num": 109375,
+        "word": "日本一天内两次地震",
+        "onboard_time": 1692970478,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103526,
+        "num": 103526,
+        "word": "日本公布排海启动瞬间画面",
+        "onboard_time": 1692957937,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90584,
+        "num": 90584,
+        "word": "刘美玲丈夫出轨",
+        "onboard_time": 1692964417,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90195,
+        "num": 90195,
+        "word": "唐禹哲 白月光",
+        "onboard_time": 1692965979,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75394,
+        "num": 75394,
+        "word": "徐良坏女孩 非主流回忆",
+        "onboard_time": 1692972467,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64324,
+        "num": 64324,
+        "word": "原来身上的泥不能用力搓",
+        "onboard_time": 1692969760,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408223,
+        "num": 63904,
+        "word": "女子遭强奸后未获立案跳水库自杀",
+        "onboard_time": 1692976723,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337629,
+        "num": 63544,
+        "word": "日本大使馆提醒在华日本民众不要大声说日语",
+        "onboard_time": 1692970660,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230817,
+        "num": 63303,
+        "word": "男士卫生巾竟然这么大",
+        "onboard_time": 1692971623,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211409,
+        "num": 62791,
+        "word": "核污水排海后日本人在海里游泳",
+        "onboard_time": 1692973246,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55367,
+        "num": 62465,
+        "word": "福岛产品半价无人买",
+        "onboard_time": 1692961958,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 75237,
+        "num": 62071,
+        "word": "谁谈个恋爱天天亲啊",
+        "onboard_time": 1692969880,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77803,
+        "num": 61626,
+        "word": "台风达维或造成海水倒灌日本",
+        "onboard_time": 1692956378,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65563,
+        "num": 61142,
+        "word": "被送精神病院千万富翁已自缢身亡",
+        "onboard_time": 1692955601,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65048,
+        "num": 60738,
+        "word": "凤凰传奇感谢汪苏泷救场央视秋晚",
+        "onboard_time": 1692972044,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60290,
+        "num": 60290,
+        "word": "蓝正龙好帅",
+        "onboard_time": 1692977742,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128671,
+        "num": 60270,
+        "word": "2年被家暴16次女子仍未能离婚",
+        "onboard_time": 1692983187,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60601,
+        "num": 60259,
+        "word": "第一次见家长给孩子买小卡",
+        "onboard_time": 1692974444,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60234,
+        "num": 60234,
+        "word": "马伯骞比观众还观众",
+        "onboard_time": 1692976364,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55183,
+        "num": 55183,
+        "word": "陈楚生不愧是民选冠军",
+        "onboard_time": 1692977143,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54764,
+        "num": 54764,
+        "word": "广东人有自己的寿司",
+        "onboard_time": 1692964417,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 49816,
+        "num": 49816,
+        "word": "当外国人遇到东方的神秘力量",
+        "onboard_time": 1692974266,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47462,
+        "num": 47462,
+        "word": "周扬青 史上最累综艺录制vlog",
+        "onboard_time": 1692961417,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45494,
+        "num": 45494,
+        "word": "情侣双双失忆后再次爱上彼此",
+        "onboard_time": 1692962676,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44729,
+        "num": 44729,
+        "word": "鹿晗评论区的今天星期五",
+        "onboard_time": 1692969819,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43673,
+        "num": 43673,
+        "word": "披荆斩棘的精华都在蔡国庆选歌",
+        "onboard_time": 1692974026,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42938,
+        "num": 42938,
+        "word": "八仙饭店",
+        "onboard_time": 1692976962,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42800,
+        "num": 42800,
+        "word": "渐冻人蔡磊称已在准备身后事",
+        "onboard_time": 1692975821,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41138,
+        "num": 41138,
+        "word": "本想带孩子摆地摊感受一下生活不易",
+        "onboard_time": 1692968801,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 40166,
+        "num": 40166,
+        "word": "邓紫棋去了张杰演唱会",
+        "onboard_time": 1692980494,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39776,
+        "num": 39776,
+        "word": "郭艾伦被驱逐",
+        "onboard_time": 1692970360,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39723,
+        "num": 39723,
+        "word": "王者荣耀 观光团",
+        "onboard_time": 1692979894,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38940,
+        "num": 38940,
+        "word": "林俊杰音乐节",
+        "onboard_time": 1692972044,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38507,
+        "num": 38507,
+        "word": "费翔见到了自己领养的大熊猫",
+        "onboard_time": 1692961118,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38394,
+        "num": 38394,
+        "word": "涂山璟被扯碎九尾画面",
+        "onboard_time": 1692968320,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36339,
+        "num": 36339,
+        "word": "海獭宝宝第一次来到海洋馆",
+        "onboard_time": 1692983785,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34715,
+        "num": 34715,
+        "word": "刚和妈妈吵完架就要交学费",
+        "onboard_time": 1692978162,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33996,
+        "num": 33996,
+        "word": "这样试妆怎么做到全国统一的",
+        "onboard_time": 1692974864,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 33551,
+        "num": 33551,
+        "word": "你们手机壳后面都放什么东西",
+        "onboard_time": 1692975523,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32945,
+        "num": 32945,
+        "word": "28年第一次见到天空的黑猩猩",
+        "onboard_time": 1692973427,
+        "rank": 43,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 32105,
+        "num": 32105,
+        "word": "张杰鸟巢表白谢娜",
+        "onboard_time": 1692969819,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31995,
+        "num": 31995,
+        "word": "成毅直播笑话合集",
+        "onboard_time": 1692989657,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30482,
+        "num": 31994,
+        "word": "会呼吸的江湖开卷",
+        "onboard_time": 1692982229,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30390,
+        "num": 31979,
+        "word": "考上浙大的女孩带奶奶尝学校美食",
+        "onboard_time": 1692965381,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 30219,
+        "num": 31972,
+        "word": "笨蛋父子鄂崇禹鄂顺",
+        "onboard_time": 1692985341,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29676,
+        "num": 31970,
+        "word": "张艺兴齐舞大赛",
+        "onboard_time": 1692976784,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非领导人对话会#"
+    }
+  }
+}
