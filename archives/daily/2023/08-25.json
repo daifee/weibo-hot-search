@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692944483422,
+  "endTime": 1692945278587,
   "band_list": [
     {
       "raw_hot": 8987860,
@@ -59,8 +59,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 3020565,
-      "num": 905139,
+      "raw_hot": 3051468,
+      "num": 958831,
       "word": "李玖哲自曝被雪藏7年",
       "onboard_time": 1692941321,
       "rank": 12,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1720691,
-      "num": 658045,
+      "num": 693624,
       "word": "萧亚轩不生小孩的原因",
       "onboard_time": 1692937788,
       "rank": 30,
@@ -267,6 +267,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1001500,
+      "num": 1001500,
+      "word": "北极鲶鱼事件核查5个月没结果",
+      "onboard_time": 1692943185,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956655,
+      "num": 956655,
+      "word": "西北太平洋已现双台风",
+      "onboard_time": 1692939168,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 934498,
       "num": 934498,
       "word": "披荆斩棘3初舞台",
@@ -291,20 +307,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 896645,
-      "num": 896645,
-      "word": "西北太平洋已现双台风",
-      "onboard_time": 1692939168,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 863983,
-      "num": 863983,
+      "raw_hot": 884597,
+      "num": 884597,
       "word": "严禁采买日本水产品网络销售",
       "onboard_time": 1692942220,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846437,
+      "num": 721589,
+      "word": "日本向学生宣传核污水安全被骂",
+      "onboard_time": 1692941981,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845664,
+      "num": 845664,
+      "word": "黄晓明发长文谈最后的真相",
+      "onboard_time": 1692943302,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 824832,
@@ -323,6 +347,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 801180,
+      "num": 801180,
+      "word": "百事可乐",
+      "onboard_time": 1692943239,
+      "rank": 8,
+      "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 790137,
+      "num": 714857,
+      "word": "A股",
+      "onboard_time": 1692943121,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 785479,
       "num": 536929,
       "word": "0713",
@@ -337,14 +377,6 @@
       "onboard_time": 1692881932,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 763669,
-      "num": 655156,
-      "word": "A股",
-      "onboard_time": 1692943121,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 762663,
@@ -379,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 716266,
-      "num": 652294,
-      "word": "日本向学生宣传核污水安全被骂",
-      "onboard_time": 1692941981,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 715583,
       "num": 715583,
       "word": "CPA",
@@ -411,20 +435,12 @@
       "category": "国外要闻,国内要闻"
     },
     {
-      "raw_hot": 661051,
-      "num": 661051,
-      "word": "百事可乐",
-      "onboard_time": 1692943239,
-      "rank": 8,
-      "category": "社会新闻,作品衍生"
-    },
-    {
-      "raw_hot": 652078,
-      "num": 652078,
-      "word": "黄晓明发长文谈最后的真相",
-      "onboard_time": 1692943302,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 661226,
+      "num": 661226,
+      "word": "郑嘉颖 三寸天堂",
+      "onboard_time": 1692943185,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 640982,
@@ -449,14 +465,6 @@
       "onboard_time": 1692940663,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 637640,
-      "num": 637640,
-      "word": "北极鲶鱼事件核查5个月没结果",
-      "onboard_time": 1692943185,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 621783,
@@ -507,20 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 564614,
-      "num": 564614,
-      "word": "郑嘉颖 三寸天堂",
-      "onboard_time": 1692943185,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 557603,
       "num": 557603,
       "word": "妹妹临终托孤64岁姨妈只身来沪",
       "onboard_time": 1692931303,
       "rank": 17,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 545417,
+      "num": 545417,
+      "word": "张萌的衣服穿一次就崩开了",
+      "onboard_time": 1692943842,
+      "rank": 26,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 529643,
@@ -603,14 +611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 448726,
-      "num": 448726,
-      "word": "张萌的衣服穿一次就崩开了",
-      "onboard_time": 1692943842,
-      "rank": 26,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 436257,
       "num": 436257,
       "word": "王一博 你吃饭小口一点",
@@ -651,6 +651,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 425501,
+      "num": 425501,
+      "word": "黄晓明为戏瘦了30斤",
+      "onboard_time": 1692943784,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419730,
       "num": 419730,
       "word": "无与伦比的美丽定档",
@@ -689,6 +697,14 @@
       "onboard_time": 1692928903,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404303,
+      "num": 404303,
+      "word": "多家日妆品牌遭遇退货",
+      "onboard_time": 1692943964,
+      "rank": 37,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 402497,
@@ -755,14 +771,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 386149,
-      "num": 386149,
-      "word": "黄晓明为戏瘦了30斤",
-      "onboard_time": 1692943784,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 369296,
       "num": 369296,
       "word": "唐影被性骚扰",
@@ -825,6 +833,14 @@
       "onboard_time": 1692932264,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 333303,
+      "num": 333303,
+      "word": "张远疯狂性报复性接活",
+      "onboard_time": 1692944203,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 326443,
@@ -971,6 +987,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 293047,
+      "num": 293047,
+      "word": "黄晓明的哥哥打call团",
+      "onboard_time": 1692944620,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292990,
       "num": 292990,
       "word": "陈楚生一开口0713眼里都是泪光",
@@ -1115,28 +1139,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 242595,
-      "num": 218715,
-      "word": "张远疯狂性报复性接活",
-      "onboard_time": 1692944203,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 242101,
-      "num": 242101,
-      "word": "多家日妆品牌遭遇退货",
-      "onboard_time": 1692943964,
-      "rank": 37,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 239920,
       "num": 239920,
       "word": "15岁女孩合作约翰施特劳斯管弦乐团",
       "onboard_time": 1692934067,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 238350,
+      "num": 238350,
+      "word": "1位牧民为了2窝鸟蛋3个月没挪车",
+      "onboard_time": 1692944023,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235037,
@@ -1211,20 +1227,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 220463,
-      "num": 220463,
-      "word": "1位牧民为了2窝鸟蛋3个月没挪车",
-      "onboard_time": 1692944023,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218460,
       "num": 218460,
       "word": "ELVA真的回来了",
       "onboard_time": 1692891109,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217761,
+      "num": 201738,
+      "word": "檀健次趣味解析相柳九头",
+      "onboard_time": 1692944503,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 217627,
@@ -1259,12 +1275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208950,
+      "num": 198345,
+      "word": "魏哲鸣初舞台唱说爱你",
+      "onboard_time": 1692944620,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206748,
       "num": 206748,
       "word": "李兰迪10岁到24岁荧幕变化",
       "onboard_time": 1692911775,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204627,
+      "num": 204627,
+      "word": "海獭宝宝被水拍打妈妈一把护入怀中",
+      "onboard_time": 1692944023,
+      "rank": 46,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 204270,
@@ -1297,14 +1329,6 @@
       "onboard_time": 1692930762,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 199249,
-      "num": 199249,
-      "word": "海獭宝宝被水拍打妈妈一把护入怀中",
-      "onboard_time": 1692944023,
-      "rank": 46,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 198580,
@@ -1347,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192690,
+      "num": 201049,
+      "word": "官方回应北极鲶鱼事件调查进度",
+      "onboard_time": 1692944739,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190537,
       "num": 190537,
       "word": "福岛周边最高辐射值为东京200倍",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1692928784,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186670,
+      "num": 186670,
+      "word": "推动落实购买首套房贷款认房不用认贷",
+      "onboard_time": 1692945100,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 184966,
