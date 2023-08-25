@@ -1,0 +1,410 @@
+{
+  "runTime": 1692967647607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2782029,
+        "num": 2782029,
+        "word": "日本水产行业哀鸿遍野",
+        "onboard_time": 1692954219,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1823538,
+        "num": 1823538,
+        "word": "赵丽颖去了张杰演唱会",
+        "onboard_time": 1692966039,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 78091,
+        "num": 1768405,
+        "word": "在红绿灯上发现杭州亚运会吉祥物",
+        "onboard_time": 1692951699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1741425,
+        "num": 1741425,
+        "word": "刘美玲丈夫出轨",
+        "onboard_time": 1692964417,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1196170,
+        "num": 1196170,
+        "word": "周扬青 史上最累综艺录制vlog",
+        "onboard_time": 1692961417,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1020569,
+        "num": 1020569,
+        "word": "高叶哭了",
+        "onboard_time": 1692962199,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 873540,
+        "num": 873540,
+        "word": "唐禹哲 白月光",
+        "onboard_time": 1692965979,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766299,
+        "num": 766299,
+        "word": "福岛产品半价无人买",
+        "onboard_time": 1692961958,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 763792,
+        "num": 763792,
+        "word": "日本公布排海启动瞬间画面",
+        "onboard_time": 1692957937,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458711,
+        "num": 458711,
+        "word": "考上浙大的女孩带奶奶尝学校美食",
+        "onboard_time": 1692965381,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2394735,
+        "num": 453152,
+        "word": "台风达维或造成海水倒灌日本",
+        "onboard_time": 1692956378,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814547,
+        "num": 447903,
+        "word": "被送精神病院千万富翁已自缢身亡",
+        "onboard_time": 1692955601,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601462,
+        "num": 444100,
+        "word": "成毅跳Hi6主题曲舞蹈",
+        "onboard_time": 1692966816,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591696,
+        "num": 437173,
+        "word": "费翔见到了自己领养的大熊猫",
+        "onboard_time": 1692961118,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108460,
+        "num": 434691,
+        "word": "男孩地震跳窗后指挥姥姥妹妹逃生",
+        "onboard_time": 1692964900,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476639,
+        "num": 428656,
+        "word": "肖战白百何新剧的对手戏",
+        "onboard_time": 1692962919,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468377,
+        "num": 422871,
+        "word": "杨紫 低谷时期更要坚持自信",
+        "onboard_time": 1692965561,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419145,
+        "num": 419145,
+        "word": "徐明浩跳whatever甜妹舞",
+        "onboard_time": 1692967119,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 405055,
+        "num": 405055,
+        "word": "赌的就是你不要小票",
+        "onboard_time": 1692951938,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372645,
+        "num": 372645,
+        "word": "双鱼座从不主动挑起矛盾",
+        "onboard_time": 1692962498,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 411919,
+        "num": 372645,
+        "word": "陆毅踹了苏小玎一脚",
+        "onboard_time": 1692966578,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403688,
+        "num": 372644,
+        "word": "情侣双双失忆后再次爱上彼此",
+        "onboard_time": 1692962676,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372644,
+        "num": 372643,
+        "word": "广东人有自己的寿司",
+        "onboard_time": 1692964417,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 331396,
+        "num": 331396,
+        "word": "赖美云脸上的钻是湿涂的",
+        "onboard_time": 1692963276,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311760,
+        "num": 311760,
+        "word": "你见过凌晨的医院吗",
+        "onboard_time": 1692962139,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297493,
+        "num": 297493,
+        "word": "经济法",
+        "onboard_time": 1692963577,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 281956,
+        "num": 281956,
+        "word": "哥哥们看到蔡国庆加入0713的反应",
+        "onboard_time": 1692964537,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268037,
+        "num": 268037,
+        "word": "日本核污染水排海当天大阪突降暴雨",
+        "onboard_time": 1692947739,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262459,
+        "num": 262459,
+        "word": "王心凌跟张栋梁说上披荆斩棘会很累",
+        "onboard_time": 1692959021,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211295,
+        "num": 259616,
+        "word": "没人在意一下希腊脚吗",
+        "onboard_time": 1692965500,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257008,
+        "num": 257008,
+        "word": "杨紫或将演六姊妹",
+        "onboard_time": 1692960276,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249626,
+        "num": 249626,
+        "word": "杨幂新中式霸总穿搭",
+        "onboard_time": 1692961659,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 249113,
+        "num": 249113,
+        "word": "李敏镐馒化",
+        "onboard_time": 1692951160,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193651,
+        "num": 193651,
+        "word": "丫丫晒着太阳吃胡萝卜",
+        "onboard_time": 1692953978,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173314,
+        "num": 193649,
+        "word": "缅甸逃回男子曝出活埋杀人视频",
+        "onboard_time": 1692930462,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244758,
+        "num": 193647,
+        "word": "高干文男主从此有脸了",
+        "onboard_time": 1692959077,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219751,
+        "num": 193639,
+        "word": "李玟或将安葬在武汉",
+        "onboard_time": 1692955718,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171850,
+        "num": 193637,
+        "word": "小猫还没睡醒就跑来迎接麻麻",
+        "onboard_time": 1692963517,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 162076,
+        "num": 193630,
+        "word": "木耳泡久了到底有没有毒",
+        "onboard_time": 1692966697,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147733,
+        "num": 193627,
+        "word": "气血不足别盲目运动",
+        "onboard_time": 1692967602,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216544,
+        "num": 193624,
+        "word": "鹿晗井柏然吴邪张起灵定妆照",
+        "onboard_time": 1692958777,
+        "rank": 40,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 213577,
+        "num": 193618,
+        "word": "曾毅谈外婆泪崩",
+        "onboard_time": 1692967475,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211619,
+        "num": 193613,
+        "word": "0713",
+        "onboard_time": 1692941680,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201045,
+        "num": 193610,
+        "word": "章昊确诊新冠",
+        "onboard_time": 1692957757,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136499,
+        "num": 193602,
+        "word": "不经意却容易变胖的习惯",
+        "onboard_time": 1692951938,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198735,
+        "num": 193599,
+        "word": "张杰三登鸟巢",
+        "onboard_time": 1692965618,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133506,
+        "num": 193597,
+        "word": "项链变成手链",
+        "onboard_time": 1692966039,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 130910,
+        "num": 193588,
+        "word": "克宫否认下令杀害普里戈任说法",
+        "onboard_time": 1692962857,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 115530,
+        "num": 193584,
+        "word": "四川航空的空字有张熊猫脸",
+        "onboard_time": 1692967475,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106775,
+        "num": 193583,
+        "word": "各品牌什么手机不能买",
+        "onboard_time": 1692957997,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动构建开放型世界经济#"
+    }
+  }
+}
