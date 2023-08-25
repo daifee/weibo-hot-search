@@ -1,0 +1,410 @@
+{
+  "runTime": 1692944483422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2567839,
+        "num": 2567839,
+        "word": "日本核污染水排海民众忍无可忍",
+        "onboard_time": 1692926266,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945020,
+        "num": 945020,
+        "word": "监狱公布特朗普身高体重",
+        "onboard_time": 1692931546,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 33513,
+        "num": 906807,
+        "word": "金砖合作大有可为金砖国家未来可期",
+        "onboard_time": 1692933165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3020565,
+        "num": 905139,
+        "word": "李玖哲自曝被雪藏7年",
+        "onboard_time": 1692941321,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 896645,
+        "num": 896645,
+        "word": "西北太平洋已现双台风",
+        "onboard_time": 1692939168,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344236,
+        "num": 890149,
+        "word": "中国好声音暂停播出",
+        "onboard_time": 1692932868,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 863983,
+        "num": 863983,
+        "word": "严禁采买日本水产品网络销售",
+        "onboard_time": 1692942220,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748401,
+        "num": 748401,
+        "word": "陈楚生张远俞灏明王栎鑫组第一",
+        "onboard_time": 1692940304,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661051,
+        "num": 661051,
+        "word": "百事可乐",
+        "onboard_time": 1692943239,
+        "rank": 8,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 659605,
+        "num": 659605,
+        "word": "日本本州东海岸远海地震",
+        "onboard_time": 1692920858,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873493,
+        "num": 658045,
+        "word": "萧亚轩不生小孩的原因",
+        "onboard_time": 1692937788,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859921,
+        "num": 657401,
+        "word": "叔侄竟然爱上同一个人",
+        "onboard_time": 1692934428,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 763669,
+        "num": 655156,
+        "word": "A股",
+        "onboard_time": 1692943121,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 716266,
+        "num": 652294,
+        "word": "日本向学生宣传核污水安全被骂",
+        "onboard_time": 1692941981,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652078,
+        "num": 652078,
+        "word": "黄晓明发长文谈最后的真相",
+        "onboard_time": 1692943302,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 640163,
+        "num": 640163,
+        "word": "赵丽颖谢霆锋为关智斌花式打call",
+        "onboard_time": 1692940903,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638368,
+        "num": 638368,
+        "word": "张栋梁舞台旁白是王心凌",
+        "onboard_time": 1692940663,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637640,
+        "num": 637640,
+        "word": "北极鲶鱼事件核查5个月没结果",
+        "onboard_time": 1692943185,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634381,
+        "num": 634381,
+        "word": "茶卡盐湖现有盐够全国吃70年",
+        "onboard_time": 1692936708,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564614,
+        "num": 564614,
+        "word": "郑嘉颖 三寸天堂",
+        "onboard_time": 1692943185,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1135774,
+        "num": 538364,
+        "word": "缅甸逃回男子曝出活埋杀人视频",
+        "onboard_time": 1692930462,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785479,
+        "num": 536929,
+        "word": "0713",
+        "onboard_time": 1692941680,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507890,
+        "num": 507890,
+        "word": "日本台风",
+        "onboard_time": 1692928903,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503825,
+        "num": 503825,
+        "word": "中国好声音母公司盘中跳水",
+        "onboard_time": 1692936286,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485760,
+        "num": 485760,
+        "word": "李飞组不来的嘉宾阵容",
+        "onboard_time": 1692941625,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455545,
+        "num": 455545,
+        "word": "iPhone15Pro新增灰色",
+        "onboard_time": 1692929865,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 448726,
+        "num": 448726,
+        "word": "张萌的衣服穿一次就崩开了",
+        "onboard_time": 1692943842,
+        "rank": 26,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 436257,
+        "num": 436257,
+        "word": "王一博 你吃饭小口一点",
+        "onboard_time": 1692941079,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430279,
+        "num": 430279,
+        "word": "日本核污水排海首日辐射值就超标",
+        "onboard_time": 1692926505,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394359,
+        "num": 394359,
+        "word": "于正 只要有乔恩每部都是东方不败",
+        "onboard_time": 1692943000,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386149,
+        "num": 386149,
+        "word": "黄晓明为戏瘦了30斤",
+        "onboard_time": 1692943784,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338795,
+        "num": 338795,
+        "word": "正式被确诊为番茄",
+        "onboard_time": 1692927463,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334216,
+        "num": 334216,
+        "word": "我那非要在年会表演的董事长",
+        "onboard_time": 1692940603,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330320,
+        "num": 330320,
+        "word": "披荆斩棘3初舞台",
+        "onboard_time": 1692936469,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325713,
+        "num": 325713,
+        "word": "林志颖初舞台MVP",
+        "onboard_time": 1692942701,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322936,
+        "num": 322936,
+        "word": "核污水排海最严重影响是致畸",
+        "onboard_time": 1692920076,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292990,
+        "num": 292990,
+        "word": "陈楚生一开口0713眼里都是泪光",
+        "onboard_time": 1692940903,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242101,
+        "num": 242101,
+        "word": "多家日妆品牌遭遇退货",
+        "onboard_time": 1692943964,
+        "rank": 37,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 234553,
+        "num": 234553,
+        "word": "美国一边支持日本排海一边减少进口",
+        "onboard_time": 1692926026,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 220463,
+        "num": 220463,
+        "word": "1位牧民为了2窝鸟蛋3个月没挪车",
+        "onboard_time": 1692944023,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270851,
+        "num": 219403,
+        "word": "刘亦菲演的剧豆瓣平均分8.4",
+        "onboard_time": 1692942638,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242595,
+        "num": 218715,
+        "word": "张远疯狂性报复性接活",
+        "onboard_time": 1692944203,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217201,
+        "num": 217201,
+        "word": "惠英红刘亦菲合照",
+        "onboard_time": 1692943546,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214793,
+        "num": 214793,
+        "word": "长相思演员表没有叶十七",
+        "onboard_time": 1692931481,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206466,
+        "num": 206466,
+        "word": "王嘉尔Amber换嘴合唱HARDER",
+        "onboard_time": 1692938988,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203636,
+        "num": 203636,
+        "word": "韩媒称日本核污水排海犯下历史罪行",
+        "onboard_time": 1692931243,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 199249,
+        "num": 199249,
+        "word": "海獭宝宝被水拍打妈妈一把护入怀中",
+        "onboard_time": 1692944023,
+        "rank": 46,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 197868,
+        "num": 197868,
+        "word": "上海部分中高端日料店地震",
+        "onboard_time": 1692926804,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195914,
+        "num": 195914,
+        "word": "人体遭遇核辐射最可怕的是DNA断裂",
+        "onboard_time": 1692926925,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165698,
+        "num": 194596,
+        "word": "茶颜悦色",
+        "onboard_time": 1692923866,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化的京津冀实践#"
+    }
+  }
+}
