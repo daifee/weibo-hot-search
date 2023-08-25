@@ -1,0 +1,410 @@
+{
+  "runTime": 1692995638501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 104892,
+        "num": 104892,
+        "word": "日本水产行业哀鸿遍野",
+        "onboard_time": 1692954219,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 83455,
+        "num": 83455,
+        "word": "日本一天内两次地震",
+        "onboard_time": 1692970478,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10410,
+        "num": 74057,
+        "word": "要坚持真正的多边主义",
+        "onboard_time": 1692976244,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72372,
+        "num": 72372,
+        "word": "张杰一句话高情商介绍朋友",
+        "onboard_time": 1692976364,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 63043,
+        "num": 63043,
+        "word": "刘美玲丈夫出轨",
+        "onboard_time": 1692964417,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48882,
+        "num": 48882,
+        "word": "日本公布排海启动瞬间画面",
+        "onboard_time": 1692957937,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47809,
+        "num": 47809,
+        "word": "原来身上的泥不能用力搓",
+        "onboard_time": 1692969760,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43892,
+        "num": 43892,
+        "word": "披荆斩棘好抓马",
+        "onboard_time": 1692979176,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43266,
+        "num": 43266,
+        "word": "渐冻人蔡磊称已在准备身后事",
+        "onboard_time": 1692975821,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43065,
+        "num": 43065,
+        "word": "凤凰传奇感谢汪苏泷救场央视秋晚",
+        "onboard_time": 1692972044,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236291,
+        "num": 43012,
+        "word": "女子遭强奸后未获立案跳水库自杀",
+        "onboard_time": 1692976723,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191723,
+        "num": 42663,
+        "word": "日本大使馆提醒在华日本民众不要大声说日语",
+        "onboard_time": 1692970660,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164299,
+        "num": 42274,
+        "word": "核污水排海后日本人在海里游泳",
+        "onboard_time": 1692973246,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108481,
+        "num": 41628,
+        "word": "男士卫生巾竟然这么大",
+        "onboard_time": 1692971623,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35367,
+        "num": 41247,
+        "word": "福岛产品半价无人买",
+        "onboard_time": 1692961958,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 87993,
+        "num": 40918,
+        "word": "瘦子累坏了大家都心疼",
+        "onboard_time": 1692991096,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46584,
+        "num": 40813,
+        "word": "台风达维或造成海水倒灌日本",
+        "onboard_time": 1692956378,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40443,
+        "num": 40443,
+        "word": "被送精神病院千万富翁已自缢身亡",
+        "onboard_time": 1692955601,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36744,
+        "num": 36744,
+        "word": "徐良坏女孩 非主流回忆",
+        "onboard_time": 1692972467,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36655,
+        "num": 36655,
+        "word": "唐禹哲 白月光",
+        "onboard_time": 1692965979,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65470,
+        "num": 36507,
+        "word": "2年被家暴16次女子仍未能离婚",
+        "onboard_time": 1692983187,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36896,
+        "num": 36162,
+        "word": "当外国人遇到东方的神秘力量",
+        "onboard_time": 1692974266,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35489,
+        "num": 35489,
+        "word": "蓝正龙好帅",
+        "onboard_time": 1692977742,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34630,
+        "num": 34630,
+        "word": "第一次见家长给孩子买小卡",
+        "onboard_time": 1692974444,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34003,
+        "num": 34003,
+        "word": "陈楚生不愧是民选冠军",
+        "onboard_time": 1692977143,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31285,
+        "num": 31285,
+        "word": "广东人有自己的寿司",
+        "onboard_time": 1692964417,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29040,
+        "num": 29040,
+        "word": "郭艾伦被驱逐",
+        "onboard_time": 1692970360,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28715,
+        "num": 28715,
+        "word": "马伯骞比观众还观众",
+        "onboard_time": 1692976364,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28609,
+        "num": 28609,
+        "word": "苏见信你怎么了",
+        "onboard_time": 1692991156,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28062,
+        "num": 28062,
+        "word": "年轻人能哭是好事",
+        "onboard_time": 1692993074,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27756,
+        "num": 27756,
+        "word": "谁谈个恋爱天天亲啊",
+        "onboard_time": 1692969880,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27668,
+        "num": 27668,
+        "word": "本想带孩子摆地摊感受一下生活不易",
+        "onboard_time": 1692968801,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 26075,
+        "num": 26075,
+        "word": "刚和妈妈吵完架就要交学费",
+        "onboard_time": 1692978162,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25874,
+        "num": 25874,
+        "word": "偶遇王源生图",
+        "onboard_time": 1692995055,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25510,
+        "num": 25510,
+        "word": "情侣双双失忆后再次爱上彼此",
+        "onboard_time": 1692962676,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24505,
+        "num": 24505,
+        "word": "28年第一次见到天空的黑猩猩",
+        "onboard_time": 1692973427,
+        "rank": 35,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 24004,
+        "num": 24004,
+        "word": "鹿晗评论区的今天星期五",
+        "onboard_time": 1692969819,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23482,
+        "num": 23482,
+        "word": "涂山璟被扯碎九尾画面",
+        "onboard_time": 1692968320,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23276,
+        "num": 23276,
+        "word": "王心凌跟张栋梁说上披荆斩棘会很累",
+        "onboard_time": 1692959021,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23253,
+        "num": 23253,
+        "word": "林俊杰音乐节",
+        "onboard_time": 1692972044,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23191,
+        "num": 23191,
+        "word": "八仙饭店",
+        "onboard_time": 1692976962,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23073,
+        "num": 23073,
+        "word": "邓紫棋去了张杰演唱会",
+        "onboard_time": 1692980494,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22618,
+        "num": 22618,
+        "word": "考上浙大的女孩带奶奶尝学校美食",
+        "onboard_time": 1692965381,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 22436,
+        "num": 22436,
+        "word": "费翔见到了自己领养的大熊猫",
+        "onboard_time": 1692961118,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22089,
+        "num": 22089,
+        "word": "这样试妆怎么做到全国统一的",
+        "onboard_time": 1692974864,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 21866,
+        "num": 21866,
+        "word": "张艺兴齐舞大赛",
+        "onboard_time": 1692976784,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20109,
+        "num": 21862,
+        "word": "披荆斩棘的精华都在蔡国庆选歌",
+        "onboard_time": 1692974026,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20036,
+        "num": 21861,
+        "word": "周扬青 史上最累综艺录制vlog",
+        "onboard_time": 1692961417,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19729,
+        "num": 21849,
+        "word": "会呼吸的江湖开卷",
+        "onboard_time": 1692982229,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19575,
+        "num": 21846,
+        "word": "王者荣耀 观光团",
+        "onboard_time": 1692979894,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非领导人对话会联合声明#"
+    }
+  }
+}
