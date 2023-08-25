@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692930122862,
+  "endTime": 1692930832837,
   "band_list": [
     {
       "raw_hot": 4438936,
@@ -9,6 +9,14 @@
       "onboard_time": 1692920858,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3384538,
+      "num": 3384538,
+      "word": "美国一边支持日本排海一边减少进口",
+      "onboard_time": 1692926026,
+      "rank": 13,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 3340255,
@@ -27,19 +35,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 2935784,
-      "num": 2935784,
-      "word": "美国一边支持日本排海一边减少进口",
-      "onboard_time": 1692926026,
-      "rank": 13,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 2582990,
       "num": 2582990,
       "word": "历史会记住日本政府这一笔",
       "onboard_time": 1692881754,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2519567,
+      "num": 573028,
+      "word": "日本台风",
+      "onboard_time": 1692928903,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -107,11 +115,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1466811,
-      "num": 1466811,
+      "raw_hot": 1500614,
+      "num": 1500614,
       "word": "日本核污染水排海民众忍无可忍",
       "onboard_time": 1692926266,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1391818,
+      "num": 691300,
+      "word": "人体遭遇核辐射最可怕的是DNA断裂",
+      "onboard_time": 1692926925,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -123,27 +139,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1282225,
-      "num": 555395,
-      "word": "日本台风",
-      "onboard_time": 1692928903,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1256854,
       "num": 1256854,
       "word": "日本政府已向儿童发核污水安全传单",
       "onboard_time": 1692876645,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1229183,
-      "num": 691300,
-      "word": "人体遭遇核辐射最可怕的是DNA断裂",
-      "onboard_time": 1692926925,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -179,20 +179,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 951426,
+      "num": 674043,
+      "word": "上海部分中高端日料店地震",
+      "onboard_time": 1692926804,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897912,
       "num": 897912,
       "word": "俞灏明 命运的齿轮又转回来了",
       "onboard_time": 1692924348,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 882632,
-      "num": 674043,
-      "word": "上海部分中高端日料店地震",
-      "onboard_time": 1692926804,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 824832,
@@ -209,6 +209,14 @@
       "onboard_time": 1692927463,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772428,
+      "num": 367077,
+      "word": "iPhone15Pro新增灰色",
+      "onboard_time": 1692929865,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 766552,
@@ -233,6 +241,14 @@
       "onboard_time": 1692926564,
       "rank": 19,
       "category": "国外要闻,国内要闻"
+    },
+    {
+      "raw_hot": 655094,
+      "num": 295566,
+      "word": "缅甸逃回男子曝出活埋杀人视频",
+      "onboard_time": 1692930462,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640982,
@@ -265,6 +281,14 @@
       "onboard_time": 1692928007,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 576354,
+      "num": 576354,
+      "word": "中国奇谭回归",
+      "onboard_time": 1692929564,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 565933,
@@ -347,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426575,
+      "num": 388909,
+      "word": "卫星图对比显示福岛核电站储存巨量核污染水",
+      "onboard_time": 1692928784,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 419705,
       "num": 419705,
       "word": "吃了多少根香蕉衡量辐射量",
@@ -387,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 388909,
-      "num": 388909,
-      "word": "卫星图对比显示福岛核电站储存巨量核污染水",
-      "onboard_time": 1692928784,
-      "rank": 39,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 387118,
       "num": 387118,
       "word": "南美白虾今天卖爆了",
@@ -411,12 +435,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367248,
+      "num": 367248,
+      "word": "于适工作室公告倡议",
+      "onboard_time": 1692929682,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345768,
       "num": 345768,
       "word": "医生7小时取出小伙脑内10厘米成虫",
       "onboard_time": 1692885294,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344812,
+      "num": 344812,
+      "word": "王珞丹拍的袁弘黄宗泽",
+      "onboard_time": 1692929747,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 338131,
@@ -459,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320214,
+      "num": 292998,
+      "word": "周奇演的石延枫",
+      "onboard_time": 1692930642,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319482,
       "num": 205935,
       "word": "专家谈日本核污水排海欧美反应",
@@ -473,14 +521,6 @@
       "onboard_time": 1692919110,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312286,
-      "num": 267517,
-      "word": "iPhone15Pro新增灰色",
-      "onboard_time": 1692929865,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 305790,
@@ -515,20 +555,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 296279,
+      "num": 296279,
+      "word": "景甜张凌赫拥抱吻戏",
+      "onboard_time": 1692929983,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295540,
       "num": 295540,
       "word": "罗云熙宋轶颜心记杀青捧花照",
       "onboard_time": 1692926505,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 294594,
-      "num": 294594,
-      "word": "中国奇谭回归",
-      "onboard_time": 1692929564,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 293177,
@@ -579,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270340,
-      "num": 270340,
-      "word": "王珞丹拍的袁弘黄宗泽",
-      "onboard_time": 1692929747,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 268869,
       "num": 268869,
       "word": "日本62岁渔民叹息被政府骗了",
@@ -633,14 +665,6 @@
       "onboard_time": 1692892962,
       "rank": 37,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 242572,
-      "num": 242572,
-      "word": "于适工作室公告倡议",
-      "onboard_time": 1692929682,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 235037,
@@ -723,11 +747,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199570,
-      "num": 199570,
-      "word": "景甜张凌赫拥抱吻戏",
-      "onboard_time": 1692929983,
-      "rank": 44,
+      "raw_hot": 200897,
+      "num": 200897,
+      "word": "游刃有余的沧海女帝",
+      "onboard_time": 1692930762,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -752,6 +776,14 @@
       "word": "哪部是你最爱的暑期档电影",
       "onboard_time": 1692897385,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193785,
+      "num": 193785,
+      "word": "赵弈钦新剧多巴胺衬衫",
+      "onboard_time": 1692930104,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -795,11 +827,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180393,
-      "num": 180393,
-      "word": "赵弈钦新剧多巴胺衬衫",
-      "onboard_time": 1692930104,
-      "rank": 49,
+      "raw_hot": 181761,
+      "num": 181761,
+      "word": "颜心记",
+      "onboard_time": 1692930165,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -809,6 +841,14 @@
       "onboard_time": 1692879777,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178059,
+      "num": 178059,
+      "word": "3元的豆腐3000元的服务",
+      "onboard_time": 1692930822,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172570,

@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692930122862,
+  "endTime": 1692930832837,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3384538,
+      "num": 3384538,
+      "word": "美国一边支持日本排海一边减少进口",
+      "onboard_time": 1692926026,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 3373740,
       "num": 922670,
       "word": "王源放下话筒之后还在唱",
@@ -961,14 +969,6 @@
       "onboard_time": 1692016775,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2935784,
-      "num": 2935784,
-      "word": "美国一边支持日本排海一边减少进口",
-      "onboard_time": 1692926026,
-      "rank": 13,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 2929095,
@@ -1593,6 +1593,14 @@
       "onboard_time": 1691330285,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2519567,
+      "num": 573028,
+      "word": "日本台风",
+      "onboard_time": 1692928903,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2518684,
@@ -5027,6 +5035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1500614,
+      "num": 1500614,
+      "word": "日本核污染水排海民众忍无可忍",
+      "onboard_time": 1692926266,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1497024,
       "num": 780025,
       "word": "日本推出性同意APP",
@@ -5201,14 +5217,6 @@
       "onboard_time": 1691543977,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1466811,
-      "num": 1466811,
-      "word": "日本核污染水排海民众忍无可忍",
-      "onboard_time": 1692926266,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1466366,
@@ -5680,6 +5688,14 @@
       "word": "北海被咬伤者称曾踩到软软的东西",
       "onboard_time": 1692261581,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1391818,
+      "num": 691300,
+      "word": "人体遭遇核辐射最可怕的是DNA断裂",
+      "onboard_time": 1692926925,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6483,14 +6499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1282225,
-      "num": 555395,
-      "word": "日本台风",
-      "onboard_time": 1692928903,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1281959,
       "num": 1281959,
       "word": "Ella说山支回来了",
@@ -6888,14 +6896,6 @@
       "word": "李铁被提起公诉",
       "onboard_time": 1690963955,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1229183,
-      "num": 691300,
-      "word": "人体遭遇核辐射最可怕的是DNA断裂",
-      "onboard_time": 1692926925,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -10035,6 +10035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 951426,
+      "num": 674043,
+      "word": "上海部分中高端日料店地震",
+      "onboard_time": 1692926804,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 950122,
       "num": 664625,
       "word": "原来我是六国混血",
@@ -11137,14 +11145,6 @@
       "onboard_time": 1691923596,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 882632,
-      "num": 674043,
-      "word": "上海部分中高端日料店地震",
-      "onboard_time": 1692926804,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 882048,
@@ -13361,6 +13361,14 @@
       "onboard_time": 1692690109,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 772428,
+      "num": 367077,
+      "word": "iPhone15Pro新增灰色",
+      "onboard_time": 1692929865,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 772197,
@@ -16619,6 +16627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 655094,
+      "num": 295566,
+      "word": "缅甸逃回男子曝出活埋杀人视频",
+      "onboard_time": 1692930462,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 654336,
       "num": 654336,
       "word": "张晚意戏里戏外都很讨厌涂山璟",
@@ -19569,6 +19585,14 @@
       "onboard_time": 1692855062,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 576354,
+      "num": 576354,
+      "word": "中国奇谭回归",
+      "onboard_time": 1692929564,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 576255,
@@ -27611,6 +27635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 426575,
+      "num": 388909,
+      "word": "卫星图对比显示福岛核电站储存巨量核污染水",
+      "onboard_time": 1692928784,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 426178,
       "num": 388513,
       "word": "上班摸鱼时把琐事做了",
@@ -30099,14 +30131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 388909,
-      "num": 388909,
-      "word": "卫星图对比显示福岛核电站储存巨量核污染水",
-      "onboard_time": 1692928784,
-      "rank": 39,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 388865,
       "num": 388865,
       "word": "现在都听我北伯侯的",
@@ -31801,6 +31825,14 @@
       "onboard_time": 1691849806,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367248,
+      "num": 367248,
+      "word": "于适工作室公告倡议",
+      "onboard_time": 1692929682,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 367247,
@@ -33592,6 +33624,14 @@
       "word": "金晨孤注一掷25亿剧照",
       "onboard_time": 1692437734,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 344812,
+      "num": 344812,
+      "word": "王珞丹拍的袁弘黄宗泽",
+      "onboard_time": 1692929747,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -35643,6 +35683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320214,
+      "num": 292998,
+      "word": "周奇演的石延枫",
+      "onboard_time": 1692930642,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320136,
       "num": 320136,
       "word": "王鹤棣用脖子背包袱",
@@ -36401,14 +36449,6 @@
       "onboard_time": 1691106751,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312286,
-      "num": 267517,
-      "word": "iPhone15Pro新增灰色",
-      "onboard_time": 1692929865,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 312242,
@@ -37995,6 +38035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 296279,
+      "num": 296279,
+      "word": "景甜张凌赫拥抱吻戏",
+      "onboard_time": 1692929983,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296242,
       "num": 296242,
       "word": "亚运会",
@@ -38201,14 +38249,6 @@
       "onboard_time": 1691986361,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 294594,
-      "num": 294594,
-      "word": "中国奇谭回归",
-      "onboard_time": 1692929564,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 294590,
@@ -41001,14 +41041,6 @@
       "onboard_time": 1692891526,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270340,
-      "num": 270340,
-      "word": "王珞丹拍的袁弘黄宗泽",
-      "onboard_time": 1692929747,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 270337,
@@ -44241,14 +44273,6 @@
       "onboard_time": 1691795542,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242572,
-      "num": 242572,
-      "word": "于适工作室公告倡议",
-      "onboard_time": 1692929682,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 242547,
@@ -51051,6 +51075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200897,
+      "num": 200897,
+      "word": "游刃有余的沧海女帝",
+      "onboard_time": 1692930762,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200876,
       "num": 200876,
       "word": "射手座真的不是冷漠的人",
@@ -51488,14 +51520,6 @@
       "word": "相柳的爱是具有神性的",
       "onboard_time": 1691899474,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 199570,
-      "num": 199570,
-      "word": "景甜张凌赫拥抱吻戏",
-      "onboard_time": 1692929983,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -52912,6 +52936,14 @@
       "word": "暑期档的优质电影",
       "onboard_time": 1692717824,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193785,
+      "num": 193785,
+      "word": "赵弈钦新剧多巴胺衬衫",
+      "onboard_time": 1692930104,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -55323,6 +55355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181761,
+      "num": 181761,
+      "word": "颜心记",
+      "onboard_time": 1692930165,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181744,
       "num": 181744,
       "word": "机器人救回3名海上遇险游客",
@@ -55473,14 +55513,6 @@
       "onboard_time": 1692774214,
       "rank": 43,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 180393,
-      "num": 180393,
-      "word": "赵弈钦新剧多巴胺衬衫",
-      "onboard_time": 1692930104,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 180354,
@@ -55705,6 +55737,14 @@
       "onboard_time": 1691304695,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178059,
+      "num": 178059,
+      "word": "3元的豆腐3000元的服务",
+      "onboard_time": 1692930822,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177842,
