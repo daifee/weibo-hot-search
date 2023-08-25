@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1692983668958,
+  "endTime": 1692984831426,
   "band_list": [
     {
       "raw_hot": 2577982,
@@ -59,20 +59,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562334,
+      "num": 562334,
+      "word": "日本公布排海启动瞬间画面",
+      "onboard_time": 1692957937,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557844,
       "num": 557844,
       "word": "凤凰传奇感谢汪苏泷救场央视秋晚",
       "onboard_time": 1692972044,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 533071,
-      "num": 533071,
-      "word": "日本公布排海启动瞬间画面",
-      "onboard_time": 1692957937,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525511,
@@ -185,6 +185,14 @@
       "onboard_time": 1692972467,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290820,
+      "num": 152267,
+      "word": "2年被家暴16次女子仍未能离婚",
+      "onboard_time": 1692983187,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276665,
@@ -379,20 +387,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154043,
+      "num": 147036,
+      "word": "情侣双双失忆后再次爱上彼此",
+      "onboard_time": 1692962676,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152967,
       "num": 152967,
       "word": "费翔见到了自己领养的大熊猫",
       "onboard_time": 1692961118,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147036,
-      "num": 147036,
-      "word": "情侣双双失忆后再次爱上彼此",
-      "onboard_time": 1692962676,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 145237,
@@ -427,12 +435,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 105725,
-      "num": 105725,
-      "word": "2年被家暴16次女子仍未能离婚",
-      "onboard_time": 1692983187,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 70729,
+      "num": 70729,
+      "word": "海獭宝宝第一次来到海洋馆",
+      "onboard_time": 1692983785,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 51873,
