@@ -1,0 +1,410 @@
+{
+  "runTime": 1692966671771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3040209,
+        "num": 3040209,
+        "word": "日本水产行业哀鸿遍野",
+        "onboard_time": 1692954219,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1357902,
+        "num": 1357902,
+        "word": "高叶哭了",
+        "onboard_time": 1692962199,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87817,
+        "num": 1255854,
+        "word": "在红绿灯上发现杭州亚运会吉祥物",
+        "onboard_time": 1692951699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1811311,
+        "num": 1253242,
+        "word": "刘美玲丈夫出轨",
+        "onboard_time": 1692964417,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1247696,
+        "num": 1247696,
+        "word": "周扬青 史上最累综艺录制vlog",
+        "onboard_time": 1692961417,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 942939,
+        "num": 942939,
+        "word": "赵丽颖去了张杰演唱会",
+        "onboard_time": 1692966039,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 787066,
+        "num": 787066,
+        "word": "福岛产品半价无人买",
+        "onboard_time": 1692961958,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 771134,
+        "num": 771134,
+        "word": "日本公布排海启动瞬间画面",
+        "onboard_time": 1692957937,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547610,
+        "num": 547610,
+        "word": "肖战白百何新剧的对手戏",
+        "onboard_time": 1692962919,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438928,
+        "num": 438928,
+        "word": "赌的就是你不要小票",
+        "onboard_time": 1692951938,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2163324,
+        "num": 437205,
+        "word": "台风达维或造成海水倒灌日本",
+        "onboard_time": 1692956378,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897491,
+        "num": 435698,
+        "word": "被送精神病院千万富翁已自缢身亡",
+        "onboard_time": 1692955601,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664658,
+        "num": 434121,
+        "word": "费翔见到了自己领养的大熊猫",
+        "onboard_time": 1692961118,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546367,
+        "num": 430668,
+        "word": "唐禹哲 白月光",
+        "onboard_time": 1692965979,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74218,
+        "num": 427837,
+        "word": "男孩地震跳窗后指挥姥姥妹妹逃生",
+        "onboard_time": 1692964900,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427502,
+        "num": 427502,
+        "word": "杨紫 低谷时期更要坚持自信",
+        "onboard_time": 1692965561,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411260,
+        "num": 411260,
+        "word": "双鱼座从不主动挑起矛盾",
+        "onboard_time": 1692962498,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 360027,
+        "num": 360027,
+        "word": "赖美云脸上的钻是湿涂的",
+        "onboard_time": 1692963276,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354955,
+        "num": 354955,
+        "word": "考上浙大的女孩带奶奶尝学校美食",
+        "onboard_time": 1692965381,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 350340,
+        "num": 350340,
+        "word": "经济法",
+        "onboard_time": 1692963577,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 503780,
+        "num": 345458,
+        "word": "情侣双双失忆后再次爱上彼此",
+        "onboard_time": 1692962676,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333496,
+        "num": 333496,
+        "word": "王心凌跟张栋梁说上披荆斩棘会很累",
+        "onboard_time": 1692959021,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323025,
+        "num": 323025,
+        "word": "杨紫或将演六姊妹",
+        "onboard_time": 1692960276,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290649,
+        "num": 290649,
+        "word": "你见过凌晨的医院吗",
+        "onboard_time": 1692962139,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269531,
+        "num": 269531,
+        "word": "日本核污染水排海当天大阪突降暴雨",
+        "onboard_time": 1692947739,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298202,
+        "num": 269518,
+        "word": "李敏镐馒化",
+        "onboard_time": 1692951160,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294781,
+        "num": 269085,
+        "word": "杨幂新中式霸总穿搭",
+        "onboard_time": 1692961659,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 272829,
+        "num": 268855,
+        "word": "哥哥们看到蔡国庆加入0713的反应",
+        "onboard_time": 1692964537,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194163,
+        "num": 268465,
+        "word": "缅甸逃回男子曝出活埋杀人视频",
+        "onboard_time": 1692930462,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179465,
+        "num": 268148,
+        "word": "丫丫晒着太阳吃胡萝卜",
+        "onboard_time": 1692953978,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357995,
+        "num": 267808,
+        "word": "广东人有自己的寿司",
+        "onboard_time": 1692964417,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 267658,
+        "num": 267658,
+        "word": "章昊确诊新冠",
+        "onboard_time": 1692957757,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258163,
+        "num": 258163,
+        "word": "鹿晗井柏然吴邪张起灵定妆照",
+        "onboard_time": 1692958777,
+        "rank": 32,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 255865,
+        "num": 255865,
+        "word": "高干文男主从此有脸了",
+        "onboard_time": 1692959077,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241316,
+        "num": 241316,
+        "word": "李玟或将安葬在武汉",
+        "onboard_time": 1692955718,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238942,
+        "num": 238942,
+        "word": "0713",
+        "onboard_time": 1692941680,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176481,
+        "num": 237614,
+        "word": "没人在意一下希腊脚吗",
+        "onboard_time": 1692965500,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155471,
+        "num": 237161,
+        "word": "克宫否认下令杀害普里戈任说法",
+        "onboard_time": 1692962857,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 152918,
+        "num": 235299,
+        "word": "小猫还没睡醒就跑来迎接麻麻",
+        "onboard_time": 1692963517,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 144653,
+        "num": 233545,
+        "word": "充电器被盗车主报警发现好心人下雨帮收",
+        "onboard_time": 1692957040,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232980,
+        "num": 232980,
+        "word": "李宇春金色战服重8.4斤",
+        "onboard_time": 1692965678,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227095,
+        "num": 227095,
+        "word": "陆毅踹了苏小玎一脚",
+        "onboard_time": 1692966578,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219380,
+        "num": 219380,
+        "word": "黄晓明发长文谈最后的真相",
+        "onboard_time": 1692943302,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218130,
+        "num": 218130,
+        "word": "毛不易 生气是为了让对方知道边界",
+        "onboard_time": 1692956021,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191323,
+        "num": 217261,
+        "word": "张杰三登鸟巢",
+        "onboard_time": 1692965618,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120998,
+        "num": 215789,
+        "word": "不经意却容易变胖的习惯",
+        "onboard_time": 1692951938,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109983,
+        "num": 214223,
+        "word": "各品牌什么手机不能买",
+        "onboard_time": 1692957997,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 101918,
+        "num": 212157,
+        "word": "项链变成手链",
+        "onboard_time": 1692966039,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 99132,
+        "num": 212083,
+        "word": "eStar扳回一分",
+        "onboard_time": 1692966459,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97040,
+        "num": 209671,
+        "word": "京城大师赛",
+        "onboard_time": 1692966637,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非领导人对话会#"
+    }
+  }
+}
