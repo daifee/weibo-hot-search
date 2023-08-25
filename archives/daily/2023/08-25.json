@@ -1,7 +1,15 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692933419516,
+  "endTime": 1692934437855,
   "band_list": [
+    {
+      "raw_hot": 8487014,
+      "num": 8487014,
+      "word": "中国好声音暂停播出",
+      "onboard_time": 1692932868,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 4461977,
       "num": 699136,
@@ -17,14 +25,6 @@
       "onboard_time": 1692920858,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3579551,
-      "num": 3579551,
-      "word": "中国好声音暂停播出",
-      "onboard_time": 1692932868,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3384538,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2413496,
+      "num": 421037,
+      "word": "缅甸逃回男子曝出活埋杀人视频",
+      "onboard_time": 1692930462,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2341135,
       "num": 1993374,
       "word": "特朗普在佐治亚州投案",
@@ -73,14 +81,6 @@
       "onboard_time": 1692882649,
       "rank": 10,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 2249353,
-      "num": 421037,
-      "word": "缅甸逃回男子曝出活埋杀人视频",
-      "onboard_time": 1692930462,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2177618,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1435186,
+      "num": 1435186,
+      "word": "iPhone15Pro新增灰色",
+      "onboard_time": 1692929865,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1391818,
       "num": 691300,
       "word": "人体遭遇核辐射最可怕的是DNA断裂",
@@ -161,14 +169,6 @@
       "onboard_time": 1692926505,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1377060,
-      "num": 1377060,
-      "word": "iPhone15Pro新增灰色",
-      "onboard_time": 1692929865,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 1256854,
@@ -187,20 +187,20 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 1183248,
+      "num": 685638,
+      "word": "监狱公布特朗普身高体重",
+      "onboard_time": 1692931546,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1138441,
       "num": 1138441,
       "word": "富士山爆发若达5级东京会受影响",
       "onboard_time": 1692871130,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1100025,
-      "num": 685638,
-      "word": "监狱公布特朗普身高体重",
-      "onboard_time": 1692931546,
-      "rank": 13,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1054113,
@@ -227,8 +227,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 826089,
-      "num": 826089,
+      "raw_hot": 873722,
+      "num": 873722,
       "word": "长相思演员表没有叶十七",
       "onboard_time": 1692931481,
       "rank": 6,
@@ -267,8 +267,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 712950,
-      "num": 712950,
+      "raw_hot": 717426,
+      "num": 717426,
       "word": "3元的豆腐3000元的服务",
       "onboard_time": 1692930822,
       "rank": 49,
@@ -443,6 +443,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 411256,
+      "num": 411256,
+      "word": "严浩翔和女搭档隔空拥抱",
+      "onboard_time": 1692931665,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411101,
       "num": 411101,
       "word": "茶颜悦色就推文取名不当致歉",
@@ -459,12 +467,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 396610,
-      "num": 396610,
-      "word": "严浩翔和女搭档隔空拥抱",
-      "onboard_time": 1692931665,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 394209,
+      "num": 394209,
+      "word": "玲花祝张远今年能上春晚",
+      "onboard_time": 1692932384,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 390808,
@@ -587,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314105,
+      "num": 314105,
+      "word": "西岐兄弟真的有在救殷郊",
+      "onboard_time": 1692933045,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305790,
       "num": 305790,
       "word": "尹锡悦政府回应日本核污染水排海",
@@ -699,20 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266096,
-      "num": 266096,
-      "word": "西岐兄弟真的有在救殷郊",
-      "onboard_time": 1692933045,
-      "rank": 32,
+      "raw_hot": 258934,
+      "num": 258934,
+      "word": "田曦薇临安公主造型路透",
+      "onboard_time": 1692933769,
+      "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264546,
-      "num": 264546,
-      "word": "玲花祝张远今年能上春晚",
-      "onboard_time": 1692932384,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 257677,
@@ -747,6 +755,22 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 244046,
+      "num": 244046,
+      "word": "学爸吴磊带黄渤特种兵式看房",
+      "onboard_time": 1692933587,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 239920,
+      "num": 239920,
+      "word": "15岁女孩合作约翰施特劳斯管弦乐团",
+      "onboard_time": 1692934067,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 235037,
       "num": 235037,
       "word": "苏醒掐指一算亏了",
@@ -771,6 +795,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229638,
+      "num": 229638,
+      "word": "花轿喜事四连吻",
+      "onboard_time": 1692933525,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 229178,
+      "num": 229178,
+      "word": "刘亦菲出道21年演了9部剧",
+      "onboard_time": 1692934308,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227660,
       "num": 227660,
       "word": "CPA",
@@ -779,12 +819,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 227576,
+      "num": 227576,
+      "word": "咒术回战涩谷事变篇定档",
+      "onboard_time": 1692933469,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 225990,
       "num": 225990,
       "word": "乌合麒麟 与人类同归于尽吗混蛋",
       "onboard_time": 1692858594,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225118,
+      "num": 225118,
+      "word": "田曦薇机场狂奔甩粉丝",
+      "onboard_time": 1692934189,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 223194,
@@ -883,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191393,
+      "num": 191393,
+      "word": "初音未来 被生命所厌恶",
+      "onboard_time": 1692934127,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 190537,
       "num": 190537,
       "word": "福岛周边最高辐射值为东京200倍",
@@ -891,12 +955,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190375,
+      "num": 190375,
+      "word": "谁给于适喷变傻喷雾了",
+      "onboard_time": 1692933351,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187743,
       "num": 187743,
       "word": "消防员冒雨狂奔收国旗",
       "onboard_time": 1692926324,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187084,
+      "num": 187084,
+      "word": "叔侄竟然爱上同一个人",
+      "onboard_time": 1692934428,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 186821,
@@ -945,14 +1025,6 @@
       "onboard_time": 1692879777,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177952,
-      "num": 177952,
-      "word": "谁给于适喷变傻喷雾了",
-      "onboard_time": 1692933351,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 172570,
@@ -1123,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 55673,
+      "num": 1833145,
+      "word": "金砖合作大有可为金砖国家未来可期",
+      "onboard_time": 1692933165,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44593,
       "num": 44593,
       "word": "东电称核污水排海有问题将停止",
@@ -1185,14 +1265,6 @@
       "onboard_time": 1692911235,
       "rank": 49,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 18719,
-      "num": 1833145,
-      "word": "金砖合作大有可为金砖国家未来可期",
-      "onboard_time": 1692933165,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

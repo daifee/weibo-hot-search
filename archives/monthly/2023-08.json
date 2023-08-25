@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692933419516,
+  "endTime": 1692934437855,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -177,6 +177,14 @@
       "onboard_time": 1691324281,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 8487014,
+      "num": 8487014,
+      "word": "中国好声音暂停播出",
+      "onboard_time": 1692932868,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 8307415,
@@ -521,14 +529,6 @@
       "onboard_time": 1691759497,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 3579551,
-      "num": 3579551,
-      "word": "中国好声音暂停播出",
-      "onboard_time": 1692932868,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3569575,
@@ -1739,6 +1739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2413496,
+      "num": 421037,
+      "word": "缅甸逃回男子曝出活埋杀人视频",
+      "onboard_time": 1692930462,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2412356,
       "num": 2412356,
       "word": "高密爆炸",
@@ -2081,14 +2089,6 @@
       "onboard_time": 1692427594,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2249353,
-      "num": 421037,
-      "word": "缅甸逃回男子曝出活埋杀人视频",
-      "onboard_time": 1692930462,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2249178,
@@ -5443,6 +5443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1435186,
+      "num": 1435186,
+      "word": "iPhone15Pro新增灰色",
+      "onboard_time": 1692929865,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1435154,
       "num": 1435154,
       "word": "夭璟吻戏已经是nextlevel了",
@@ -5833,14 +5841,6 @@
       "onboard_time": 1692855004,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1377060,
-      "num": 1377060,
-      "word": "iPhone15Pro新增灰色",
-      "onboard_time": 1692929865,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 1376438,
@@ -7395,6 +7395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1183248,
+      "num": 685638,
+      "word": "监狱公布特朗普身高体重",
+      "onboard_time": 1692931546,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1182749,
       "num": 1182749,
       "word": "zzr",
@@ -8217,14 +8225,6 @@
       "onboard_time": 1692364240,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1100025,
-      "num": 685638,
-      "word": "监狱公布特朗普身高体重",
-      "onboard_time": 1692931546,
-      "rank": 13,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1099990,
@@ -11339,6 +11339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 873722,
+      "num": 873722,
+      "word": "长相思演员表没有叶十七",
+      "onboard_time": 1692931481,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 873587,
       "num": 873587,
       "word": "我国又破获一起美国CIA间谍案",
@@ -12257,14 +12265,6 @@
       "onboard_time": 1691151633,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 826089,
-      "num": 826089,
-      "word": "长相思演员表没有叶十七",
-      "onboard_time": 1692931481,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 825649,
@@ -14987,6 +14987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 717426,
+      "num": 717426,
+      "word": "3元的豆腐3000元的服务",
+      "onboard_time": 1692930822,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717383,
       "num": 717383,
       "word": "薛之谦唱了3天念谦友哭了3天",
@@ -15137,14 +15145,6 @@
       "onboard_time": 1692327099,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 712950,
-      "num": 712950,
-      "word": "3元的豆腐3000元的服务",
-      "onboard_time": 1692930822,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 712703,
@@ -28667,6 +28667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 411256,
+      "num": 411256,
+      "word": "严浩翔和女搭档隔空拥抱",
+      "onboard_time": 1692931665,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411220,
       "num": 334343,
       "word": "蔡依林成都",
@@ -29691,14 +29699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 396610,
-      "num": 396610,
-      "word": "严浩翔和女搭档隔空拥抱",
-      "onboard_time": 1692931665,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 396565,
       "num": 396565,
       "word": "入境旅客因照片像别人找到失散双胞胎兄弟",
@@ -29873,6 +29873,14 @@
       "onboard_time": 1691931457,
       "rank": 14,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 394209,
+      "num": 394209,
+      "word": "玲花祝张远今年能上春晚",
+      "onboard_time": 1692932384,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 393692,
@@ -36363,6 +36371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314105,
+      "num": 314105,
+      "word": "西岐兄弟真的有在救殷郊",
+      "onboard_time": 1692933045,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314049,
       "num": 314049,
       "word": "光遇",
@@ -41571,14 +41587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 266096,
-      "num": 266096,
-      "word": "西岐兄弟真的有在救殷郊",
-      "onboard_time": 1692933045,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 266090,
       "num": 209324,
       "word": "张峻豪卷发",
@@ -41729,14 +41737,6 @@
       "onboard_time": 1691935061,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264546,
-      "num": 264546,
-      "word": "玲花祝张远今年能上春晚",
-      "onboard_time": 1692932384,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 264473,
@@ -42456,6 +42456,14 @@
       "word": "景甜张凌赫新剧cp海报",
       "onboard_time": 1692673237,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 258934,
+      "num": 258934,
+      "word": "田曦薇临安公主造型路透",
+      "onboard_time": 1692933769,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -44179,6 +44187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 244046,
+      "num": 244046,
+      "word": "学爸吴磊带黄渤特种兵式看房",
+      "onboard_time": 1692933587,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244015,
       "num": 244015,
       "word": "袁泉杨紫穿拖鞋放烟花",
@@ -44745,6 +44761,14 @@
       "onboard_time": 1692429092,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239920,
+      "num": 239920,
+      "word": "15岁女孩合作约翰施特劳斯管弦乐团",
+      "onboard_time": 1692934067,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 239914,
@@ -46059,6 +46083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229638,
+      "num": 229638,
+      "word": "花轿喜事四连吻",
+      "onboard_time": 1692933525,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229610,
       "num": 229610,
       "word": "菠萝香菜肥牛",
@@ -46097,6 +46129,14 @@
       "onboard_time": 1692286663,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229178,
+      "num": 229178,
+      "word": "刘亦菲出道21年演了9部剧",
+      "onboard_time": 1692934308,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 229165,
@@ -46281,6 +46321,14 @@
       "onboard_time": 1692067296,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227576,
+      "num": 227576,
+      "word": "咒术回战涩谷事变篇定档",
+      "onboard_time": 1692933469,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 227409,
@@ -46577,6 +46625,14 @@
       "onboard_time": 1691650594,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225118,
+      "num": 225118,
+      "word": "田曦薇机场狂奔甩粉丝",
+      "onboard_time": 1692934189,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 225038,
@@ -53763,6 +53819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191393,
+      "num": 191393,
+      "word": "初音未来 被生命所厌恶",
+      "onboard_time": 1692934127,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191322,
       "num": 191322,
       "word": "贵州荔波旅游",
@@ -53985,6 +54049,14 @@
       "onboard_time": 1691065594,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190375,
+      "num": 190375,
+      "word": "谁给于适喷变傻喷雾了",
+      "onboard_time": 1692933351,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 190335,
@@ -54624,6 +54696,14 @@
       "word": "电影沙漏杀青",
       "onboard_time": 1692158258,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187084,
+      "num": 187084,
+      "word": "叔侄竟然爱上同一个人",
+      "onboard_time": 1692934428,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -55841,14 +55921,6 @@
       "onboard_time": 1691304695,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177952,
-      "num": 177952,
-      "word": "谁给于适喷变傻喷雾了",
-      "onboard_time": 1692933351,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 177842,
@@ -63051,6 +63123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 55673,
+      "num": 1833145,
+      "word": "金砖合作大有可为金砖国家未来可期",
+      "onboard_time": 1692933165,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55583,
       "num": 418802,
       "word": "男子骑电瓶车未戴头盔交警抱音响提醒",
@@ -64441,14 +64521,6 @@
       "onboard_time": 1692911235,
       "rank": 49,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 18719,
-      "num": 1833145,
-      "word": "金砖合作大有可为金砖国家未来可期",
-      "onboard_time": 1692933165,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18031,
