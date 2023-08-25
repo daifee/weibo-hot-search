@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692984831426,
+  "endTime": 1692987623163,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -39619,6 +39619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 293140,
+      "num": 152267,
+      "word": "2年被家暴16次女子仍未能离婚",
+      "onboard_time": 1692983187,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293047,
       "num": 293047,
       "word": "黄晓明的哥哥打call团",
@@ -39905,14 +39913,6 @@
       "onboard_time": 1691642855,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 290820,
-      "num": 152267,
-      "word": "2年被家暴16次女子仍未能离婚",
-      "onboard_time": 1692983187,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290732,
@@ -64641,6 +64641,14 @@
       "onboard_time": 1691414378,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60995,
+      "num": 60995,
+      "word": "笨蛋父子鄂崇禹鄂顺",
+      "onboard_time": 1692985341,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 60982,

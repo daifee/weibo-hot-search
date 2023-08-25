@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1692984831426,
+  "endTime": 1692987623163,
   "band_list": [
     {
       "raw_hot": 2577982,
@@ -187,7 +187,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290820,
+      "raw_hot": 293140,
       "num": 152267,
       "word": "2年被家暴16次女子仍未能离婚",
       "onboard_time": 1692983187,
@@ -441,6 +441,14 @@
       "onboard_time": 1692983785,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60995,
+      "num": 60995,
+      "word": "笨蛋父子鄂崇禹鄂顺",
+      "onboard_time": 1692985341,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 51873,
