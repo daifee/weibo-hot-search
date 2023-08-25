@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692952443566,
+  "endTime": 1692954971898,
   "band_list": [
     {
       "raw_hot": 8987860,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2827209,
+      "num": 563918,
+      "word": "李敏镐馒化",
+      "onboard_time": 1692951160,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2702072,
       "num": 538364,
       "word": "缅甸逃回男子曝出活埋杀人视频",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 2280567,
-      "num": 627190,
+      "num": 881696,
       "word": "日本核污染水排海当天大阪突降暴雨",
       "onboard_time": 1692947739,
       "rank": 14,
@@ -129,6 +137,14 @@
       "onboard_time": 1692945463,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1943278,
+      "num": 854246,
+      "word": "赌的就是你不要小票",
+      "onboard_time": 1692951938,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1720691,
@@ -177,14 +193,6 @@
       "onboard_time": 1692887638,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1608237,
-      "num": 507159,
-      "word": "李敏镐馒化",
-      "onboard_time": 1692951160,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1583113,
@@ -259,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1252819,
+      "num": 1252819,
+      "word": "0713",
+      "onboard_time": 1692941680,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1233369,
       "num": 1233369,
       "word": "中餐厅撤回了一个档口",
       "onboard_time": 1692934551,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1231600,
+      "num": 525355,
+      "word": "躲过韩国空气酵母的金秀贤",
+      "onboard_time": 1692953078,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1218164,
@@ -320,14 +344,6 @@
       "word": "中国好声音母公司盘中跳水",
       "onboard_time": 1692936286,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1009723,
-      "num": 1009723,
-      "word": "0713",
-      "onboard_time": 1692941680,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 677756,
-      "num": 511982,
+      "num": 595204,
       "word": "英国妈妈为做缩胸手术卖房",
       "onboard_time": 1692949360,
       "rank": 12,
@@ -545,6 +561,14 @@
       "onboard_time": 1692925844,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 591008,
+      "num": 324292,
+      "word": "丫丫晒着太阳吃胡萝卜",
+      "onboard_time": 1692953978,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589147,
@@ -627,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 494948,
+      "num": 494948,
+      "word": "日本水产行业哀鸿遍野",
+      "onboard_time": 1692954219,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 485760,
       "num": 485760,
       "word": "李飞组不来的嘉宾阵容",
@@ -675,14 +707,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 468272,
-      "num": 269865,
-      "word": "赌的就是你不要小票",
-      "onboard_time": 1692951938,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 463730,
       "num": 463730,
       "word": "骄阳伴我",
@@ -696,6 +720,14 @@
       "word": "张栋梁说看不见我是你们没有关注我",
       "onboard_time": 1692948580,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 447193,
+      "num": 447193,
+      "word": "王鹤棣这可不敢不签啊",
+      "onboard_time": 1692952360,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -748,7 +780,7 @@
     },
     {
       "raw_hot": 424743,
-      "num": 363669,
+      "num": 510022,
       "word": "陕西煤矿闪爆事故多名责任人已被控制",
       "onboard_time": 1692951399,
       "rank": 37,
@@ -947,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334035,
+      "num": 316628,
+      "word": "不经意却容易变胖的习惯",
+      "onboard_time": 1692951938,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 333303,
       "num": 333303,
       "word": "张远疯狂性报复性接活",
@@ -1051,12 +1091,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304650,
+      "num": 304650,
+      "word": "董宇辉呼吁大家没必要抢盐",
+      "onboard_time": 1692953497,
+      "rank": 23,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 300237,
       "num": 300237,
       "word": "萧亚轩谈身体状态",
       "onboard_time": 1692891824,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 299284,
+      "num": 299284,
+      "word": "徐良谈许嵩汪苏泷音乐三巨头",
+      "onboard_time": 1692954276,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297636,
+      "num": 297636,
+      "word": "老舅rap 舅太行了",
+      "onboard_time": 1692954337,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 296406,
@@ -1097,14 +1161,6 @@
       "onboard_time": 1692947380,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 294635,
-      "num": 269388,
-      "word": "不经意却容易变胖的习惯",
-      "onboard_time": 1692951938,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 293177,
@@ -1267,12 +1323,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259274,
+      "num": 259274,
+      "word": "装腔启示录 最烦装逼的人",
+      "onboard_time": 1692954160,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257677,
       "num": 257677,
       "word": "上海地铁",
       "onboard_time": 1692925127,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256984,
+      "num": 256984,
+      "word": "35岁的周迅美的像个精灵",
+      "onboard_time": 1692954519,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256945,
@@ -1347,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235356,
+      "num": 235356,
+      "word": "庆余年预约破500万",
+      "onboard_time": 1692954637,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235037,
       "num": 235037,
       "word": "苏醒掐指一算亏了",
@@ -1419,6 +1499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221585,
+      "num": 221585,
+      "word": "这下谁还分得清健身房和酒吧",
+      "onboard_time": 1692951877,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218460,
       "num": 218460,
       "word": "ELVA真的回来了",
@@ -1475,11 +1563,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207301,
+      "num": 207301,
+      "word": "专四",
+      "onboard_time": 1692954579,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 206748,
       "num": 206748,
       "word": "李兰迪10岁到24岁荧幕变化",
       "onboard_time": 1692911775,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205616,
+      "num": 205616,
+      "word": "我的大明星何群回来了",
+      "onboard_time": 1692954699,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -1529,6 +1633,14 @@
       "onboard_time": 1692948819,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198614,
+      "num": 198614,
+      "word": "长相思微博全面登顶",
+      "onboard_time": 1692954699,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 198580,
@@ -1603,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186947,
+      "num": 186947,
+      "word": "年轻人这么看演唱会",
+      "onboard_time": 1692954276,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186821,
       "num": 186821,
       "word": "不饿肚子曾是莫言的创作动力",
@@ -1675,6 +1795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172011,
+      "num": 172011,
+      "word": "武林外传全员芭比",
+      "onboard_time": 1692954877,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171814,
       "num": 171814,
       "word": "当年看不懂的东京开幕式原来是预告片",
@@ -1683,20 +1811,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 169198,
-      "num": 169198,
-      "word": "这下谁还分得清健身房和酒吧",
-      "onboard_time": 1692951877,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 166167,
-      "num": 166167,
-      "word": "王鹤棣这可不敢不签啊",
-      "onboard_time": 1692952360,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 165945,
+      "num": 1226319,
+      "word": "在红绿灯上发现杭州亚运会吉祥物",
+      "onboard_time": 1692951699,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160808,
@@ -1793,14 +1913,6 @@
       "onboard_time": 1692877730,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 101996,
-      "num": 1226319,
-      "word": "在红绿灯上发现杭州亚运会吉祥物",
-      "onboard_time": 1692951699,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91737,
@@ -1928,6 +2040,14 @@
       "word": "富士山什么时候觉醒",
       "onboard_time": 1692904396,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21554,
+      "num": 504431,
+      "word": "独手仁医扎根山村29年成村民守护人",
+      "onboard_time": 1692954038,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
