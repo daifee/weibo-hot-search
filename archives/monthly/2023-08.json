@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692987623163,
+  "endTime": 1692988418451,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -65833,6 +65833,14 @@
       "onboard_time": 1690871014,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30775,
+      "num": 40917,
+      "word": "趴在龙角上的小困兽",
+      "onboard_time": 1692987319,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 30482,
