@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692995638501,
+  "endTime": 1692998074100,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -65659,6 +65659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 36673,
+      "num": 35621,
+      "word": "偶遇王源生图",
+      "onboard_time": 1692995055,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 36561,
       "num": 45613,
       "word": "get不到小夭射箭的人有难了",
@@ -65897,6 +65905,14 @@
       "onboard_time": 1690963233,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 30314,
+      "num": 30314,
+      "word": "警方回应富翁被送精神病院后身亡",
+      "onboard_time": 1692996493,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30225,
@@ -66185,14 +66201,6 @@
       "onboard_time": 1692644715,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 25874,
-      "num": 25874,
-      "word": "偶遇王源生图",
-      "onboard_time": 1692995055,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 25863,
