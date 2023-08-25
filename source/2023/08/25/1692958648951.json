@@ -1,0 +1,410 @@
+{
+  "runTime": 1692958648951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4304757,
+        "num": 4304757,
+        "word": "日本水产行业哀鸿遍野",
+        "onboard_time": 1692954219,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 276631,
+        "num": 2356433,
+        "word": "充电器被盗车主报警发现好心人下雨帮收",
+        "onboard_time": 1692957040,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105991,
+        "num": 1979201,
+        "word": "在红绿灯上发现杭州亚运会吉祥物",
+        "onboard_time": 1692951699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1867491,
+        "num": 1867491,
+        "word": "被送精神病院千万富翁已自缢身亡",
+        "onboard_time": 1692955601,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158881,
+        "num": 1859892,
+        "word": "女子情绪低落被环卫工人送花治愈",
+        "onboard_time": 1692957519,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1857353,
+        "num": 1857353,
+        "word": "赌的就是你不要小票",
+        "onboard_time": 1692951938,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46806,
+        "num": 1422617,
+        "word": "独手仁医扎根山村29年成村民守护人",
+        "onboard_time": 1692954038,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1353450,
+        "num": 1353450,
+        "word": "李玟或将安葬在武汉",
+        "onboard_time": 1692955718,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1077665,
+        "num": 1077665,
+        "word": "日本核污染水排海当天大阪突降暴雨",
+        "onboard_time": 1692947739,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076729,
+        "num": 1076729,
+        "word": "0713",
+        "onboard_time": 1692941680,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1259640,
+        "num": 1022326,
+        "word": "李敏镐馒化",
+        "onboard_time": 1692951160,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 966845,
+        "num": 966845,
+        "word": "毛不易 生气是为了让对方知道边界",
+        "onboard_time": 1692956021,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 705717,
+        "num": 705717,
+        "word": "我的大明星何群回来了",
+        "onboard_time": 1692954699,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571361,
+        "num": 661455,
+        "word": "丫丫晒着太阳吃胡萝卜",
+        "onboard_time": 1692953978,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50844,
+        "num": 653714,
+        "word": "女童走失2名10岁女孩教科书式护送",
+        "onboard_time": 1692957639,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650477,
+        "num": 650477,
+        "word": "躲过韩国空气酵母的金秀贤",
+        "onboard_time": 1692953078,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 643410,
+        "num": 643410,
+        "word": "章昊确诊新冠",
+        "onboard_time": 1692957757,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485611,
+        "num": 485611,
+        "word": "武林外传全员芭比",
+        "onboard_time": 1692954877,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 485433,
+        "num": 485433,
+        "word": "苏醒 有些话必须说在前面",
+        "onboard_time": 1692955898,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415609,
+        "num": 415609,
+        "word": "日本公布排海启动瞬间画面",
+        "onboard_time": 1692957937,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876512,
+        "num": 405341,
+        "word": "台风达维或造成海水倒灌日本",
+        "onboard_time": 1692956378,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461041,
+        "num": 389406,
+        "word": "缅甸逃回男子曝出活埋杀人视频",
+        "onboard_time": 1692930462,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372981,
+        "num": 372981,
+        "word": "李玖哲自曝被雪藏7年",
+        "onboard_time": 1692941321,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367022,
+        "num": 367022,
+        "word": "日本核污染水排海民众忍无可忍",
+        "onboard_time": 1692926266,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329406,
+        "num": 329406,
+        "word": "庆余年预约破500万",
+        "onboard_time": 1692954637,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327586,
+        "num": 327586,
+        "word": "长相思微博全面登顶",
+        "onboard_time": 1692954699,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324620,
+        "num": 324620,
+        "word": "中国好声音暂停播出",
+        "onboard_time": 1692932868,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322868,
+        "num": 322868,
+        "word": "徐良谈许嵩汪苏泷音乐三巨头",
+        "onboard_time": 1692954276,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301807,
+        "num": 301807,
+        "word": "我见过情绪最稳定的小孩",
+        "onboard_time": 1692945463,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298892,
+        "num": 298892,
+        "word": "核污水排海后中国渔民直播遭谩骂",
+        "onboard_time": 1692958238,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266487,
+        "num": 266487,
+        "word": "赵本山终于出新剧了",
+        "onboard_time": 1692955898,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260946,
+        "num": 260946,
+        "word": "SEVENTEEN上升期没火的歌",
+        "onboard_time": 1692958118,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253176,
+        "num": 253176,
+        "word": "网红大学老师相宜自曝辞职",
+        "onboard_time": 1692948759,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 241418,
+        "num": 241418,
+        "word": "今年已赴东南亚抓获300余名嫌疑人",
+        "onboard_time": 1692957579,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239517,
+        "num": 239517,
+        "word": "35岁的周迅美的像个精灵",
+        "onboard_time": 1692954519,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221265,
+        "num": 221265,
+        "word": "英国妈妈为做缩胸手术卖房",
+        "onboard_time": 1692949360,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215868,
+        "num": 215868,
+        "word": "王鹤棣这可不敢不签啊",
+        "onboard_time": 1692952360,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208333,
+        "num": 208333,
+        "word": "陈紫函累到想当狗",
+        "onboard_time": 1692956679,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205596,
+        "num": 205596,
+        "word": "不经意却容易变胖的习惯",
+        "onboard_time": 1692951938,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199382,
+        "num": 199382,
+        "word": "狼队杰克",
+        "onboard_time": 1692956979,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193321,
+        "num": 193321,
+        "word": "DK对战DRX",
+        "onboard_time": 1692956021,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177574,
+        "num": 177574,
+        "word": "iPhone15Pro新增灰色",
+        "onboard_time": 1692929865,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 169167,
+        "num": 169167,
+        "word": "我国加大食盐价格监管力度",
+        "onboard_time": 1692945342,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 168135,
+        "num": 168135,
+        "word": "各品牌什么手机不能买",
+        "onboard_time": 1692957997,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 165690,
+        "num": 165690,
+        "word": "张杰演唱会",
+        "onboard_time": 1692957458,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164242,
+        "num": 164242,
+        "word": "多家日妆品牌遭遇退货",
+        "onboard_time": 1692943964,
+        "rank": 45,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 160290,
+        "num": 160290,
+        "word": "黄晓明发长文谈最后的真相",
+        "onboard_time": 1692943302,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158799,
+        "num": 158799,
+        "word": "郑嘉颖 三寸天堂",
+        "onboard_time": 1692943185,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157327,
+        "num": 157327,
+        "word": "老舅rap 舅太行了",
+        "onboard_time": 1692954337,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139722,
+        "num": 139722,
+        "word": "A股",
+        "onboard_time": 1692943121,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席非洲之行#"
+    }
+  }
+}
