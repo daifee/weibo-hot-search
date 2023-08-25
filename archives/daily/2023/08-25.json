@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692937188132,
+  "endTime": 1692938071199,
   "band_list": [
     {
       "raw_hot": 8987860,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4461977,
-      "num": 713244,
+      "num": 930266,
       "word": "日本台风",
       "onboard_time": 1692928903,
       "rank": 29,
@@ -51,8 +51,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 2683180,
-      "num": 490845,
+      "raw_hot": 2702072,
+      "num": 507695,
       "word": "缅甸逃回男子曝出活埋杀人视频",
       "onboard_time": 1692930462,
       "rank": 30,
@@ -64,6 +64,14 @@
       "word": "历史会记住日本政府这一笔",
       "onboard_time": 1692881754,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2393591,
+      "num": 2393591,
+      "word": "日本核污染水排海民众忍无可忍",
+      "onboard_time": 1692926266,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -91,20 +99,20 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 1945547,
-      "num": 1945547,
-      "word": "日本核污染水排海民众忍无可忍",
-      "onboard_time": 1692926266,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1681185,
       "num": 701391,
       "word": "上海多家日料店今晚生意火了",
       "onboard_time": 1692882715,
       "rank": 12,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1658102,
+      "num": 1658102,
+      "word": "监狱公布特朗普身高体重",
+      "onboard_time": 1692931546,
+      "rank": 13,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1652484,
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1542561,
-      "num": 1542561,
-      "word": "监狱公布特朗普身高体重",
-      "onboard_time": 1692931546,
-      "rank": 13,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 1478333,
       "num": 711453,
       "word": "上海部分中高端日料店地震",
@@ -177,6 +177,14 @@
       "onboard_time": 1692926505,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1287528,
+      "num": 1287528,
+      "word": "叔侄竟然爱上同一个人",
+      "onboard_time": 1692934428,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 1256854,
@@ -227,6 +235,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 934498,
+      "num": 934498,
+      "word": "披荆斩棘3初舞台",
+      "onboard_time": 1692936469,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 931162,
       "num": 931162,
       "word": "长相思演员表没有叶十七",
@@ -235,20 +251,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 918277,
+      "num": 918277,
+      "word": "茶卡盐湖现有盐够全国吃70年",
+      "onboard_time": 1692936708,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897912,
       "num": 897912,
       "word": "俞灏明 命运的齿轮又转回来了",
       "onboard_time": 1692924348,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 836153,
-      "num": 711922,
-      "word": "叔侄竟然爱上同一个人",
-      "onboard_time": 1692934428,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 824832,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 822814,
-      "num": 487549,
+      "num": 503383,
       "word": "正式被确诊为番茄",
       "onboard_time": 1692927463,
       "rank": 20,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 723829,
-      "num": 488374,
+      "num": 506822,
       "word": "刘亦菲出道21年演了9部剧",
       "onboard_time": 1692934308,
       "rank": 42,
@@ -347,14 +363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 611843,
-      "num": 611843,
-      "word": "披荆斩棘3初舞台",
-      "onboard_time": 1692936469,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 589147,
       "num": 454389,
       "word": "胃气不足中医叫我吃麻辣火锅",
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 510552,
+      "num": 510552,
+      "word": "男子要去境外赚高薪被公司主管报警阻拦",
+      "onboard_time": 1692936646,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504261,
       "num": 433252,
       "word": "贾乃亮晒与甜馨背影照",
@@ -459,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 441660,
-      "num": 441660,
-      "word": "茶卡盐湖现有盐够全国吃70年",
-      "onboard_time": 1692936708,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432585,
       "num": 432585,
       "word": "披荆斩棘初舞台歌单",
@@ -489,6 +497,14 @@
       "onboard_time": 1692886560,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 427025,
+      "num": 373423,
+      "word": "萧亚轩不生小孩的原因",
+      "onboard_time": 1692937788,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 426575,
@@ -595,14 +611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 359856,
-      "num": 359856,
-      "word": "男子要去境外赚高薪被公司主管报警阻拦",
-      "onboard_time": 1692936646,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345768,
       "num": 345768,
       "word": "医生7小时取出小伙脑内10厘米成虫",
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321267,
+      "num": 321267,
+      "word": "中国好声音母公司盘中跳水",
+      "onboard_time": 1692936286,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320214,
       "num": 292998,
       "word": "周奇演的石延枫",
@@ -697,6 +713,14 @@
       "onboard_time": 1692933045,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 312325,
+      "num": 312325,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1692936708,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 305790,
@@ -739,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296101,
+      "num": 296101,
+      "word": "电影最后的真相今日上映",
+      "onboard_time": 1692937788,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295540,
       "num": 295540,
       "word": "罗云熙宋轶颜心记杀青捧花照",
@@ -753,6 +785,14 @@
       "onboard_time": 1692886256,
       "rank": 31,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 291140,
+      "num": 291140,
+      "word": "初音未来 被生命所厌恶",
+      "onboard_time": 1692934127,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 280663,
@@ -827,28 +867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256036,
-      "num": 256036,
-      "word": "薛之谦演唱会",
-      "onboard_time": 1692936708,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 250150,
       "num": 250150,
       "word": "CCTV电视剧是在说骄阳伴我吗",
       "onboard_time": 1692886739,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 248958,
-      "num": 248958,
-      "word": "初音未来 被生命所厌恶",
-      "onboard_time": 1692934127,
-      "rank": 47,
-      "category": "动漫"
     },
     {
       "raw_hot": 248321,
@@ -865,6 +889,14 @@
       "onboard_time": 1692933587,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243593,
+      "num": 243593,
+      "word": "一周拌饭不重样",
+      "onboard_time": 1692936588,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 239920,
@@ -931,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223455,
+      "num": 223455,
+      "word": "比亚迪宋L",
+      "onboard_time": 1692936408,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 223194,
       "num": 223194,
       "word": "乐观小子无畏",
@@ -955,20 +995,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 214439,
-      "num": 214439,
-      "word": "比亚迪宋L",
-      "onboard_time": 1692936408,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 213618,
-      "num": 213618,
-      "word": "一周拌饭不重样",
-      "onboard_time": 1692936588,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 215955,
+      "num": 291371,
+      "word": "手语说唱MV有多炸裂",
+      "onboard_time": 1692936047,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206748,
@@ -977,14 +1009,6 @@
       "onboard_time": 1692911775,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205236,
-      "num": 257750,
-      "word": "手语说唱MV有多炸裂",
-      "onboard_time": 1692936047,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204270,
@@ -1203,19 +1227,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127596,
+      "num": 644555,
+      "word": "00后盲人乐队大山里开音乐会",
+      "onboard_time": 1692936047,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123275,
       "num": 123275,
       "word": "上次抢的盐还没吃完",
       "onboard_time": 1692919291,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118653,
-      "num": 644555,
-      "word": "00后盲人乐队大山里开音乐会",
-      "onboard_time": 1692936047,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1283,7 +1307,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 62711,
+      "raw_hot": 66593,
       "num": 1833145,
       "word": "金砖合作大有可为金砖国家未来可期",
       "onboard_time": 1692933165,

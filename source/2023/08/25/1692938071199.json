@@ -1,0 +1,410 @@
+{
+  "runTime": 1692938071199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2393591,
+        "num": 2393591,
+        "word": "日本核污染水排海民众忍无可忍",
+        "onboard_time": 1692926266,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8139306,
+        "num": 2220888,
+        "word": "中国好声音暂停播出",
+        "onboard_time": 1692932868,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66593,
+        "num": 1800844,
+        "word": "金砖合作大有可为金砖国家未来可期",
+        "onboard_time": 1692933165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1658102,
+        "num": 1658102,
+        "word": "监狱公布特朗普身高体重",
+        "onboard_time": 1692931546,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1371703,
+        "num": 1371703,
+        "word": "日本本州东海岸远海地震",
+        "onboard_time": 1692920858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1347444,
+        "num": 1347444,
+        "word": "美国一边支持日本排海一边减少进口",
+        "onboard_time": 1692926026,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1287528,
+        "num": 1287528,
+        "word": "叔侄竟然爱上同一个人",
+        "onboard_time": 1692934428,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1194465,
+        "num": 1194465,
+        "word": "中餐厅撤回了一个档口",
+        "onboard_time": 1692934551,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1000208,
+        "num": 1000208,
+        "word": "iPhone15Pro新增灰色",
+        "onboard_time": 1692929865,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 934498,
+        "num": 934498,
+        "word": "披荆斩棘3初舞台",
+        "onboard_time": 1692936469,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2640915,
+        "num": 930266,
+        "word": "日本台风",
+        "onboard_time": 1692928903,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918277,
+        "num": 918277,
+        "word": "茶卡盐湖现有盐够全国吃70年",
+        "onboard_time": 1692936708,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837732,
+        "num": 837732,
+        "word": "长相思演员表没有叶十七",
+        "onboard_time": 1692931481,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 698076,
+        "num": 698076,
+        "word": "韩媒称日本核污水排海犯下历史罪行",
+        "onboard_time": 1692931243,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 127596,
+        "num": 638085,
+        "word": "00后盲人乐队大山里开音乐会",
+        "onboard_time": 1692936047,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630979,
+        "num": 630979,
+        "word": "核污水排海最严重影响是致畸",
+        "onboard_time": 1692920076,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612516,
+        "num": 612516,
+        "word": "上海部分中高端日料店地震",
+        "onboard_time": 1692926804,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574197,
+        "num": 574197,
+        "word": "田曦薇临安公主造型路透",
+        "onboard_time": 1692933769,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550697,
+        "num": 550697,
+        "word": "CPA",
+        "onboard_time": 1692935509,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 510552,
+        "num": 510552,
+        "word": "男子要去境外赚高薪被公司主管报警阻拦",
+        "onboard_time": 1692936646,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2702072,
+        "num": 507695,
+        "word": "缅甸逃回男子曝出活埋杀人视频",
+        "onboard_time": 1692930462,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628787,
+        "num": 506822,
+        "word": "刘亦菲出道21年演了9部剧",
+        "onboard_time": 1692934308,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503383,
+        "num": 503383,
+        "word": "正式被确诊为番茄",
+        "onboard_time": 1692927463,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499350,
+        "num": 499350,
+        "word": "张艺兴曾向张颂文请教表演经验",
+        "onboard_time": 1692935926,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501889,
+        "num": 481079,
+        "word": "日本核污水排海首日辐射值就超标",
+        "onboard_time": 1692926505,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430001,
+        "num": 430001,
+        "word": "茶颜悦色",
+        "onboard_time": 1692923866,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 399603,
+        "num": 399603,
+        "word": "欧阳娜娜说自己要回去上学了",
+        "onboard_time": 1692924467,
+        "rank": 26,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 396627,
+        "num": 396627,
+        "word": "妹妹临终托孤64岁姨妈只身来沪",
+        "onboard_time": 1692931303,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 378382,
+        "num": 378382,
+        "word": "披荆斩棘",
+        "onboard_time": 1692936827,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376069,
+        "num": 376069,
+        "word": "日本核污染水排海4000天后海洋啥样",
+        "onboard_time": 1692887698,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427025,
+        "num": 373423,
+        "word": "萧亚轩不生小孩的原因",
+        "onboard_time": 1692937788,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368803,
+        "num": 368803,
+        "word": "3元的豆腐3000元的服务",
+        "onboard_time": 1692930822,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358608,
+        "num": 358608,
+        "word": "人体遭遇核辐射最可怕的是DNA断裂",
+        "onboard_time": 1692926925,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322103,
+        "num": 322103,
+        "word": "俞灏明 命运的齿轮又转回来了",
+        "onboard_time": 1692924348,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321267,
+        "num": 321267,
+        "word": "中国好声音母公司盘中跳水",
+        "onboard_time": 1692936286,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312325,
+        "num": 312325,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1692936708,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 311802,
+        "num": 311802,
+        "word": "特朗普自首后不到半小时获保释",
+        "onboard_time": 1692925127,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 296101,
+        "num": 296101,
+        "word": "电影最后的真相今日上映",
+        "onboard_time": 1692937788,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292106,
+        "num": 292106,
+        "word": "谭爷爷把小苹果全放在花花肚子上",
+        "onboard_time": 1692925844,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215955,
+        "num": 291371,
+        "word": "手语说唱MV有多炸裂",
+        "onboard_time": 1692936047,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291140,
+        "num": 291140,
+        "word": "初音未来 被生命所厌恶",
+        "onboard_time": 1692934127,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 277220,
+        "num": 277220,
+        "word": "严浩翔和女搭档隔空拥抱",
+        "onboard_time": 1692931665,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276545,
+        "num": 276545,
+        "word": "披荆斩棘初舞台歌单",
+        "onboard_time": 1692934667,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273905,
+        "num": 273905,
+        "word": "薛凯琪早起素颜",
+        "onboard_time": 1692935207,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269600,
+        "num": 269600,
+        "word": "卫星图对比显示福岛核电站储存巨量核污染水",
+        "onboard_time": 1692928784,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 258149,
+        "num": 258149,
+        "word": "茶颜悦色就推文取名不当致歉",
+        "onboard_time": 1692928903,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243593,
+        "num": 243593,
+        "word": "一周拌饭不重样",
+        "onboard_time": 1692936588,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 236409,
+        "num": 236409,
+        "word": "广东一海滩突然涌现大量海虾",
+        "onboard_time": 1692882649,
+        "rank": 47,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 223455,
+        "num": 223455,
+        "word": "比亚迪宋L",
+        "onboard_time": 1692936408,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219480,
+        "num": 219480,
+        "word": "专四成绩",
+        "onboard_time": 1692932264,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席金砖国家领导人第十五次会晤并发表重要讲话#"
+    }
+  }
+}
