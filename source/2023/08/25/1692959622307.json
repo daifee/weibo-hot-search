@@ -1,0 +1,410 @@
+{
+  "runTime": 1692959622307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4587825,
+        "num": 4587825,
+        "word": "日本水产行业哀鸿遍野",
+        "onboard_time": 1692954219,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 350920,
+        "num": 2464454,
+        "word": "充电器被盗车主报警发现好心人下雨帮收",
+        "onboard_time": 1692957040,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104574,
+        "num": 2355257,
+        "word": "在红绿灯上发现杭州亚运会吉祥物",
+        "onboard_time": 1692951699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2248427,
+        "num": 2248427,
+        "word": "被送精神病院千万富翁已自缢身亡",
+        "onboard_time": 1692955601,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216056,
+        "num": 1780103,
+        "word": "女子情绪低落被环卫工人送花治愈",
+        "onboard_time": 1692957519,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1501152,
+        "num": 1501152,
+        "word": "赌的就是你不要小票",
+        "onboard_time": 1692951938,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170150,
+        "num": 1321851,
+        "word": "残疾小伙免费给农村老人残疾人理发",
+        "onboard_time": 1692958898,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1229154,
+        "num": 1229154,
+        "word": "李玟或将安葬在武汉",
+        "onboard_time": 1692955718,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1089919,
+        "num": 1089919,
+        "word": "毛不易 生气是为了让对方知道边界",
+        "onboard_time": 1692956021,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 888974,
+        "num": 888974,
+        "word": "日本公布排海启动瞬间画面",
+        "onboard_time": 1692957937,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056257,
+        "num": 873405,
+        "word": "章昊确诊新冠",
+        "onboard_time": 1692957757,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1022391,
+        "num": 857206,
+        "word": "李敏镐馒化",
+        "onboard_time": 1692951160,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 835812,
+        "num": 835812,
+        "word": "0713",
+        "onboard_time": 1692941680,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 815822,
+        "num": 815822,
+        "word": "日本核污染水排海当天大阪突降暴雨",
+        "onboard_time": 1692947739,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89158,
+        "num": 809265,
+        "word": "女童走失2名10岁女孩教科书式护送",
+        "onboard_time": 1692957639,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806108,
+        "num": 806108,
+        "word": "核污水排海后中国渔民直播遭谩骂",
+        "onboard_time": 1692958238,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539470,
+        "num": 539470,
+        "word": "我的大明星何群回来了",
+        "onboard_time": 1692954699,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499249,
+        "num": 499249,
+        "word": "丫丫晒着太阳吃胡萝卜",
+        "onboard_time": 1692953978,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460752,
+        "num": 460752,
+        "word": "躲过韩国空气酵母的金秀贤",
+        "onboard_time": 1692953078,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 430149,
+        "num": 430149,
+        "word": "苏醒 有些话必须说在前面",
+        "onboard_time": 1692955898,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 934807,
+        "num": 429335,
+        "word": "台风达维或造成海水倒灌日本",
+        "onboard_time": 1692956378,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411236,
+        "num": 411236,
+        "word": "王心凌跟张栋梁说上披荆斩棘会很累",
+        "onboard_time": 1692959021,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396653,
+        "num": 396653,
+        "word": "缅甸逃回男子曝出活埋杀人视频",
+        "onboard_time": 1692930462,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370198,
+        "num": 370198,
+        "word": "武林外传全员芭比",
+        "onboard_time": 1692954877,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334710,
+        "num": 334710,
+        "word": "李玖哲自曝被雪藏7年",
+        "onboard_time": 1692941321,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314692,
+        "num": 314692,
+        "word": "长相思微博全面登顶",
+        "onboard_time": 1692954699,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311419,
+        "num": 311419,
+        "word": "中国好声音暂停播出",
+        "onboard_time": 1692932868,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298957,
+        "num": 298957,
+        "word": "鹿晗井柏然吴邪张起灵定妆照",
+        "onboard_time": 1692958777,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288357,
+        "num": 288357,
+        "word": "徐良谈许嵩汪苏泷音乐三巨头",
+        "onboard_time": 1692954276,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254866,
+        "num": 254866,
+        "word": "日本核污染水排海民众忍无可忍",
+        "onboard_time": 1692926266,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273826,
+        "num": 247569,
+        "word": "庆余年预约破500万",
+        "onboard_time": 1692954637,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273114,
+        "num": 243591,
+        "word": "SEVENTEEN上升期没火的歌",
+        "onboard_time": 1692958118,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238444,
+        "num": 238444,
+        "word": "赵本山终于出新剧了",
+        "onboard_time": 1692955898,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229986,
+        "num": 229986,
+        "word": "我见过情绪最稳定的小孩",
+        "onboard_time": 1692945463,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200195,
+        "num": 224932,
+        "word": "网红大学老师相宜自曝辞职",
+        "onboard_time": 1692948759,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 9165,
+        "num": 221556,
+        "word": "什么样的SUV更靠谱",
+        "onboard_time": 1692959199,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221465,
+        "num": 221465,
+        "word": "35岁的周迅美的像个精灵",
+        "onboard_time": 1692954519,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212635,
+        "num": 212635,
+        "word": "陈思诚片场说买股朱一龙",
+        "onboard_time": 1692959499,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211808,
+        "num": 211808,
+        "word": "王栎鑫说魏巡你失去啥了你一个冠军",
+        "onboard_time": 1692959136,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197145,
+        "num": 197145,
+        "word": "今年已赴东南亚抓获300余名嫌疑人",
+        "onboard_time": 1692957579,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196454,
+        "num": 196454,
+        "word": "DK对战DRX",
+        "onboard_time": 1692956021,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191982,
+        "num": 191982,
+        "word": "高干文男主从此有脸了",
+        "onboard_time": 1692959077,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186801,
+        "num": 186801,
+        "word": "不经意却容易变胖的习惯",
+        "onboard_time": 1692951938,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182236,
+        "num": 182236,
+        "word": "狼队杰克",
+        "onboard_time": 1692956979,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176799,
+        "num": 176799,
+        "word": "王鹤棣这可不敢不签啊",
+        "onboard_time": 1692952360,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176558,
+        "num": 176558,
+        "word": "陈紫函累到想当狗",
+        "onboard_time": 1692956679,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165653,
+        "num": 165653,
+        "word": "iPhone15Pro新增灰色",
+        "onboard_time": 1692929865,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 161936,
+        "num": 161936,
+        "word": "各品牌什么手机不能买",
+        "onboard_time": 1692957997,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 159441,
+        "num": 159441,
+        "word": "英国妈妈为做缩胸手术卖房",
+        "onboard_time": 1692949360,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153875,
+        "num": 153875,
+        "word": "庆余年为啥不七夕发",
+        "onboard_time": 1692959558,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非领导人对话会#"
+    }
+  }
+}

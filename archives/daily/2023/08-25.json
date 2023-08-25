@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692958648951,
+  "endTime": 1692959622307,
   "band_list": [
     {
       "raw_hot": 8987860,
@@ -9,6 +9,14 @@
       "onboard_time": 1692932868,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4587825,
+      "num": 4587825,
+      "word": "日本水产行业哀鸿遍野",
+      "onboard_time": 1692954219,
+      "rank": 15,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 4461977,
@@ -25,14 +33,6 @@
       "onboard_time": 1692920858,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4304757,
-      "num": 4304757,
-      "word": "日本水产行业哀鸿遍野",
-      "onboard_time": 1692954219,
-      "rank": 15,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 3384538,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2248427,
+      "num": 2248427,
+      "word": "被送精神病院千万富翁已自缢身亡",
+      "onboard_time": 1692955601,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2177618,
       "num": 2177618,
       "word": "特朗普被收押",
@@ -153,14 +161,6 @@
       "onboard_time": 1692945463,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1867491,
-      "num": 1867491,
-      "word": "被送精神病院千万富翁已自缢身亡",
-      "onboard_time": 1692955601,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1720691,
@@ -339,12 +339,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1089919,
+      "num": 1089919,
+      "word": "毛不易 生气是为了让对方知道边界",
+      "onboard_time": 1692956021,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1070812,
       "num": 821707,
       "word": "日本向学生宣传核污水安全被骂",
       "onboard_time": 1692941981,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1056257,
+      "num": 873405,
+      "word": "章昊确诊新冠",
+      "onboard_time": 1692957757,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1054113,
@@ -371,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 966845,
-      "num": 966845,
-      "word": "毛不易 生气是为了让对方知道边界",
-      "onboard_time": 1692956021,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 964058,
       "num": 964058,
       "word": "多家日妆品牌遭遇退货",
@@ -392,6 +400,14 @@
       "word": "西北太平洋已现双台风",
       "onboard_time": 1692939168,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934807,
+      "num": 429335,
+      "word": "台风达维或造成海水倒灌日本",
+      "onboard_time": 1692956378,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -435,11 +451,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 876512,
-      "num": 405341,
-      "word": "台风达维或造成海水倒灌日本",
-      "onboard_time": 1692956378,
-      "rank": 20,
+      "raw_hot": 888974,
+      "num": 888974,
+      "word": "日本公布排海启动瞬间画面",
+      "onboard_time": 1692957937,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -456,6 +472,14 @@
       "word": "正式被确诊为番茄",
       "onboard_time": 1692927463,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806108,
+      "num": 806108,
+      "word": "核污水排海后中国渔民直播遭谩骂",
+      "onboard_time": 1692958238,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -577,14 +601,6 @@
       "onboard_time": 1692926564,
       "rank": 19,
       "category": "国外要闻,国内要闻"
-    },
-    {
-      "raw_hot": 643410,
-      "num": 643410,
-      "word": "章昊确诊新冠",
-      "onboard_time": 1692957757,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 640982,
@@ -883,14 +899,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 415609,
-      "num": 415609,
-      "word": "日本公布排海启动瞬间画面",
-      "onboard_time": 1692957937,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414196,
       "num": 414196,
       "word": "长空之王总票房破8.5亿",
@@ -913,6 +921,14 @@
       "onboard_time": 1692931665,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411236,
+      "num": 411236,
+      "word": "王心凌跟张栋梁说上披荆斩棘会很累",
+      "onboard_time": 1692959021,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 411101,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1692929747,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350920,
+      "num": 2464454,
+      "word": "充电器被盗车主报警发现好心人下雨帮收",
+      "onboard_time": 1692957040,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347945,
@@ -1219,12 +1243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 298892,
-      "num": 298892,
-      "word": "核污水排海后中国渔民直播遭谩骂",
-      "onboard_time": 1692958238,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 298957,
+      "num": 298957,
+      "word": "鹿晗井柏然吴邪张起灵定妆照",
+      "onboard_time": 1692958777,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 296406,
@@ -1347,14 +1371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276631,
-      "num": 2356433,
-      "word": "充电器被盗车主报警发现好心人下雨帮收",
-      "onboard_time": 1692957040,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275942,
       "num": 275942,
       "word": "张艺兴示范飞天",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1692945639,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273114,
+      "num": 260946,
+      "word": "SEVENTEEN上升期没火的歌",
+      "onboard_time": 1692958118,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 270851,
@@ -1441,14 +1465,6 @@
       "onboard_time": 1692940124,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260946,
-      "num": 260946,
-      "word": "SEVENTEEN上升期没火的歌",
-      "onboard_time": 1692958118,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 259274,
@@ -1667,12 +1683,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216056,
+      "num": 1859892,
+      "word": "女子情绪低落被环卫工人送花治愈",
+      "onboard_time": 1692957519,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215955,
       "num": 291371,
       "word": "手语说唱MV有多炸裂",
       "onboard_time": 1692936047,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212635,
+      "num": 212635,
+      "word": "陈思诚片场说买股朱一龙",
+      "onboard_time": 1692959499,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211808,
+      "num": 211808,
+      "word": "王栎鑫说魏巡你失去啥了你一个冠军",
+      "onboard_time": 1692959136,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 208950,
@@ -1787,6 +1827,14 @@
       "category": "旅游,幽默"
     },
     {
+      "raw_hot": 196454,
+      "num": 196454,
+      "word": "DK对战DRX",
+      "onboard_time": 1692956021,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196274,
       "num": 196274,
       "word": "上海8家日料店7家称无日本进口",
@@ -1819,12 +1867,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193321,
-      "num": 193321,
-      "word": "DK对战DRX",
-      "onboard_time": 1692956021,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 191982,
+      "num": 191982,
+      "word": "高干文男主从此有脸了",
+      "onboard_time": 1692959077,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 190537,
@@ -1939,6 +1987,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 170150,
+      "num": 1321851,
+      "word": "残疾小伙免费给农村老人残疾人理发",
+      "onboard_time": 1692958898,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 168135,
       "num": 168135,
       "word": "各品牌什么手机不能买",
@@ -1948,7 +2004,7 @@
     },
     {
       "raw_hot": 165945,
-      "num": 1979201,
+      "num": 2355257,
       "word": "在红绿灯上发现杭州亚运会吉祥物",
       "onboard_time": 1692951699,
       "rank": 2,
@@ -1971,12 +2027,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158881,
-      "num": 1859892,
-      "word": "女子情绪低落被环卫工人送花治愈",
-      "onboard_time": 1692957519,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 153875,
+      "num": 153875,
+      "word": "庆余年为啥不七夕发",
+      "onboard_time": 1692959558,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 150491,
@@ -2075,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89158,
+      "num": 809265,
+      "word": "女童走失2名10岁女孩教科书式护送",
+      "onboard_time": 1692957639,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87739,
       "num": 87739,
       "word": "体毛会越刮越多吗",
@@ -2137,14 +2201,6 @@
       "onboard_time": 1692913216,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 50844,
-      "num": 653714,
-      "word": "女童走失2名10岁女孩教科书式护送",
-      "onboard_time": 1692957639,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46806,
@@ -2227,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9165,
+      "num": 221556,
+      "word": "什么样的SUV更靠谱",
+      "onboard_time": 1692959199,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5847,
       "num": 1287354,
       "word": "打造和平发展的大格局",
@@ -2250,6 +2314,9 @@
     },
     {
       "word": "#推动构建开放型世界经济#"
+    },
+    {
+      "word": "#中非领导人对话会#"
     }
   ]
 }
