@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1692970430870,
+  "endTime": 1692972896057,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -345,6 +345,14 @@
       "onboard_time": 1692497736,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4365249,
+      "num": 619183,
+      "word": "日本大使馆提醒在华日本民众不要大声说日语",
+      "onboard_time": 1692970660,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4363032,
@@ -1336,6 +1344,14 @@
       "word": "日本化妆品",
       "onboard_time": 1692858417,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2691200,
+      "num": 2691200,
+      "word": "日本一天内两次地震",
+      "onboard_time": 1692970478,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -4147,6 +4163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1678971,
+      "num": 1678971,
+      "word": "郭艾伦被驱逐",
+      "onboard_time": 1692970360,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1677633,
       "num": 598153,
       "word": "宋佳工作室 我们姐没让人送过饼干",
@@ -6315,6 +6339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1333531,
+      "num": 1333531,
+      "word": "谁谈个恋爱天天亲啊",
+      "onboard_time": 1692969880,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1332660,
       "num": 752728,
       "word": "长相思导演",
@@ -7633,6 +7665,14 @@
       "onboard_time": 1691796205,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1175870,
+      "num": 610412,
+      "word": "男士卫生巾竟然这么大",
+      "onboard_time": 1692971623,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 1174629,
@@ -12617,6 +12657,14 @@
       "onboard_time": 1692927463,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822814,
+      "num": 822814,
+      "word": "张杰鸟巢表白谢娜",
+      "onboard_time": 1692969819,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 822662,
@@ -18195,14 +18243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 620647,
-      "num": 379499,
-      "word": "张杰鸟巢表白谢娜",
-      "onboard_time": 1692969819,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 620521,
       "num": 482070,
       "word": "广西北海",
@@ -18969,6 +19009,14 @@
       "onboard_time": 1691412638,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 600557,
+      "num": 600557,
+      "word": "徐良坏女孩 非主流回忆",
+      "onboard_time": 1692972467,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 600161,
@@ -20123,6 +20171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 575044,
+      "num": 575044,
+      "word": "凤凰传奇感谢汪苏泷救场央视秋晚",
+      "onboard_time": 1692972044,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 574938,
       "num": 292848,
       "word": "驼背终于有救了",
@@ -20280,6 +20336,14 @@
       "word": "杨幂叫何炅小何",
       "onboard_time": 1692768696,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 571108,
+      "num": 571108,
+      "word": "还得是二手玫瑰",
+      "onboard_time": 1692970962,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -25539,6 +25603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 471083,
+      "num": 471083,
+      "word": "鹿晗评论区的今天星期五",
+      "onboard_time": 1692969819,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 471077,
       "num": 430368,
       "word": "李莲花为什么必须死",
@@ -26347,6 +26419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 456788,
+      "num": 456788,
+      "word": "林俊杰音乐节",
+      "onboard_time": 1692972044,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 456731,
       "num": 456731,
       "word": "罗云熙好会挑剧本",
@@ -26913,6 +26993,14 @@
       "onboard_time": 1692444335,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 447697,
+      "num": 447697,
+      "word": "达摩辅助",
+      "onboard_time": 1692971744,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 447662,
@@ -28532,7 +28620,7 @@
     },
     {
       "raw_hot": 422456,
-      "num": 276515,
+      "num": 421278,
       "word": "涂山璟被扯碎九尾画面",
       "onboard_time": 1692968320,
       "rank": 26,
@@ -28737,6 +28825,14 @@
       "onboard_time": 1692428971,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 419508,
+      "num": 338925,
+      "word": "蜜丝婷直播",
+      "onboard_time": 1692971441,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 419378,
@@ -30491,6 +30587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 394615,
+      "num": 330682,
+      "word": "莲花楼 我角姐哪受过这气",
+      "onboard_time": 1692972226,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394503,
       "num": 394503,
       "word": "WB",
@@ -31064,14 +31168,6 @@
       "word": "李莲花 爱似流星",
       "onboard_time": 1691719891,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 386559,
-      "num": 272641,
-      "word": "谁谈个恋爱天天亲啊",
-      "onboard_time": 1692969880,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -31905,6 +32001,14 @@
       "onboard_time": 1691796686,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375936,
+      "num": 324560,
+      "word": "谁给孟佳选的衣服",
+      "onboard_time": 1692969939,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 375824,
@@ -32793,14 +32897,6 @@
       "onboard_time": 1692195882,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 365082,
-      "num": 232884,
-      "word": "鹿晗评论区的今天星期五",
-      "onboard_time": 1692969819,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 364875,
@@ -33955,6 +34051,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 350648,
+      "num": 255812,
+      "word": "张杰的社交圈好广",
+      "onboard_time": 1692971807,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 350522,
       "num": 1216316,
       "word": "菜摊边写作业的女孩被川大华西口腔录取",
@@ -34833,6 +34937,14 @@
       "onboard_time": 1692152614,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339501,
+      "num": 339501,
+      "word": "原来身上的泥不能用力搓",
+      "onboard_time": 1692969760,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 339388,
@@ -36017,6 +36129,14 @@
       "onboard_time": 1692599977,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325435,
+      "num": 254369,
+      "word": "暑期档最出圈的角色",
+      "onboard_time": 1692972044,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 325423,
@@ -37747,14 +37867,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 307832,
-      "num": 215282,
-      "word": "谁给孟佳选的衣服",
-      "onboard_time": 1692969939,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 307790,
       "num": 307790,
       "word": "金智秀教哈兰德跳flower",
@@ -38384,6 +38496,14 @@
       "word": "成毅肖顺尧还原当年今日名场面",
       "onboard_time": 1692097297,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 301879,
+      "num": 240787,
+      "word": "王一博不停做俯卧撑保持接戏状态",
+      "onboard_time": 1692971564,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -42124,7 +42244,7 @@
     },
     {
       "raw_hot": 270178,
-      "num": 211348,
+      "num": 251904,
       "word": "本想带孩子摆地摊感受一下生活不易",
       "onboard_time": 1692968801,
       "rank": 38,
@@ -43867,6 +43987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256473,
+      "num": 256473,
+      "word": "光与夜之恋重抽",
+      "onboard_time": 1692970962,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 256452,
       "num": 256452,
       "word": "到处喊宝宝的下场不过如此",
@@ -44369,6 +44497,14 @@
       "onboard_time": 1690892553,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251307,
+      "num": 251307,
+      "word": "原来晾衣杆的钩子是这样用的",
+      "onboard_time": 1692971020,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 251254,
@@ -47377,14 +47513,6 @@
       "onboard_time": 1691082503,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227987,
-      "num": 208635,
-      "word": "原来身上的泥不能用力搓",
-      "onboard_time": 1692969760,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 227912,
@@ -59099,6 +59227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157990,
+      "num": 191671,
+      "word": "一周刮油掉秤汤",
+      "onboard_time": 1692969698,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157941,
       "num": 157941,
       "word": "中国人有自己的蛋挞",
@@ -60675,14 +60811,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 136445,
-      "num": 173660,
-      "word": "郭艾伦被驱逐",
-      "onboard_time": 1692970360,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136015,
       "num": 136015,
       "word": "是谁坐高铁还要看导航",
@@ -61913,6 +62041,14 @@
       "onboard_time": 1692313645,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114749,
+      "num": 191649,
+      "word": "i人代入",
+      "onboard_time": 1692972767,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 114549,
@@ -65937,6 +66073,14 @@
       "onboard_time": 1692474256,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20208,
+      "num": 603335,
+      "word": "男子昏迷路人做心肺复苏号脉安抚",
+      "onboard_time": 1692972044,
+      "rank": 14,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 19762,

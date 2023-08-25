@@ -1,6 +1,6 @@
 {
   "startTime": 1692894090240,
-  "endTime": 1692970430870,
+  "endTime": 1692972896057,
   "band_list": [
     {
       "raw_hot": 8987860,
@@ -32,6 +32,14 @@
       "word": "日本本州东海岸远海地震",
       "onboard_time": 1692920858,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4365249,
+      "num": 619183,
+      "word": "日本大使馆提醒在华日本民众不要大声说日语",
+      "onboard_time": 1692970660,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -88,6 +96,14 @@
       "word": "缅甸逃回男子曝出活埋杀人视频",
       "onboard_time": 1692930462,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2691200,
+      "num": 2691200,
+      "word": "日本一天内两次地震",
+      "onboard_time": 1692970478,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -219,6 +235,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1678971,
+      "num": 1678971,
+      "word": "郭艾伦被驱逐",
+      "onboard_time": 1692970360,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1652484,
       "num": 1500665,
       "word": "特朗普自首后不到半小时获保释",
@@ -323,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1333531,
+      "num": 1333531,
+      "word": "谁谈个恋爱天天亲啊",
+      "onboard_time": 1692969880,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1287528,
       "num": 1287528,
       "word": "叔侄竟然爱上同一个人",
@@ -377,6 +409,14 @@
       "onboard_time": 1692957937,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1175870,
+      "num": 610412,
+      "word": "男士卫生巾竟然这么大",
+      "onboard_time": 1692971623,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 1138441,
@@ -529,6 +569,14 @@
       "onboard_time": 1692927463,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822814,
+      "num": 822814,
+      "word": "张杰鸟巢表白谢娜",
+      "onboard_time": 1692969819,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 791566,
@@ -707,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 620647,
-      "num": 379499,
-      "word": "张杰鸟巢表白谢娜",
-      "onboard_time": 1692969819,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 617230,
       "num": 446662,
       "word": "谭爷爷把小苹果全放在花花肚子上",
@@ -728,6 +768,14 @@
       "word": "成毅跳Hi6主题曲舞蹈",
       "onboard_time": 1692966816,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 600557,
+      "num": 600557,
+      "word": "徐良坏女孩 非主流回忆",
+      "onboard_time": 1692972467,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -755,12 +803,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 575044,
+      "num": 575044,
+      "word": "凤凰传奇感谢汪苏泷救场央视秋晚",
+      "onboard_time": 1692972044,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 574686,
       "num": 574686,
       "word": "杨紫或将演六姊妹",
       "onboard_time": 1692960276,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 571108,
+      "num": 571108,
+      "word": "还得是二手玫瑰",
+      "onboard_time": 1692970962,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 565933,
@@ -915,6 +979,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 471083,
+      "num": 471083,
+      "word": "鹿晗评论区的今天星期五",
+      "onboard_time": 1692969819,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468377,
       "num": 432714,
       "word": "杨紫 低谷时期更要坚持自信",
@@ -945,6 +1017,22 @@
       "onboard_time": 1692948580,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456788,
+      "num": 456788,
+      "word": "林俊杰音乐节",
+      "onboard_time": 1692972044,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 447697,
+      "num": 447697,
+      "word": "达摩辅助",
+      "onboard_time": 1692971744,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 447193,
@@ -1036,7 +1124,7 @@
     },
     {
       "raw_hot": 422456,
-      "num": 276515,
+      "num": 421278,
       "word": "涂山璟被扯碎九尾画面",
       "onboard_time": 1692968320,
       "rank": 26,
@@ -1065,6 +1153,14 @@
       "onboard_time": 1692886560,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 419508,
+      "num": 338925,
+      "word": "蜜丝婷直播",
+      "onboard_time": 1692971441,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 414196,
@@ -1123,6 +1219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 394615,
+      "num": 330682,
+      "word": "莲花楼 我角姐哪受过这气",
+      "onboard_time": 1692972226,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394359,
       "num": 394359,
       "word": "于正 只要有乔恩每部都是东方不败",
@@ -1179,12 +1283,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 386559,
-      "num": 272641,
-      "word": "谁谈个恋爱天天亲啊",
-      "onboard_time": 1692969880,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 375936,
+      "num": 324560,
+      "word": "谁给孟佳选的衣服",
+      "onboard_time": 1692969939,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 372644,
@@ -1227,14 +1331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365082,
-      "num": 232884,
-      "word": "鹿晗评论区的今天星期五",
-      "onboard_time": 1692969819,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 364485,
       "num": 364485,
       "word": "王栎鑫说魏巡你失去啥了你一个冠军",
@@ -1265,6 +1361,14 @@
       "onboard_time": 1692961659,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 350648,
+      "num": 255812,
+      "word": "张杰的社交圈好广",
+      "onboard_time": 1692971807,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 350340,
@@ -1313,6 +1417,14 @@
       "onboard_time": 1692954699,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339501,
+      "num": 339501,
+      "word": "原来身上的泥不能用力搓",
+      "onboard_time": 1692969760,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 338131,
@@ -1403,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325435,
+      "num": 254369,
+      "word": "暑期档最出圈的角色",
+      "onboard_time": 1692972044,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 324564,
       "num": 324564,
       "word": "萧亚轩礼服反穿",
@@ -1475,14 +1595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 307832,
-      "num": 215282,
-      "word": "谁给孟佳选的衣服",
-      "onboard_time": 1692969939,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 305790,
       "num": 305790,
       "word": "尹锡悦政府回应日本核污染水排海",
@@ -1505,6 +1617,14 @@
       "onboard_time": 1692953497,
       "rank": 23,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 301879,
+      "num": 240787,
+      "word": "王一博不停做俯卧撑保持接戏状态",
+      "onboard_time": 1692971564,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 300237,
@@ -1708,7 +1828,7 @@
     },
     {
       "raw_hot": 270178,
-      "num": 211348,
+      "num": 251904,
       "word": "本想带孩子摆地摊感受一下生活不易",
       "onboard_time": 1692968801,
       "rank": 38,
@@ -1801,6 +1921,22 @@
       "onboard_time": 1692850025,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256473,
+      "num": 256473,
+      "word": "光与夜之恋重抽",
+      "onboard_time": 1692970962,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 251307,
+      "num": 251307,
+      "word": "原来晾衣杆的钩子是这样用的",
+      "onboard_time": 1692971020,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 250150,
@@ -1921,14 +2057,6 @@
       "onboard_time": 1692933525,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227987,
-      "num": 208635,
-      "word": "原来身上的泥不能用力搓",
-      "onboard_time": 1692969760,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 227576,
@@ -2451,6 +2579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157990,
+      "num": 191671,
+      "word": "一周刮油掉秤汤",
+      "onboard_time": 1692969698,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 155471,
       "num": 237161,
       "word": "克宫否认下令杀害普里戈任说法",
@@ -2497,14 +2633,6 @@
       "onboard_time": 1692950438,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136445,
-      "num": 173660,
-      "word": "郭艾伦被驱逐",
-      "onboard_time": 1692970360,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 132498,
@@ -2561,6 +2689,14 @@
       "onboard_time": 1692919291,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114749,
+      "num": 191649,
+      "word": "i人代入",
+      "onboard_time": 1692972767,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 108460,
@@ -2737,6 +2873,14 @@
       "onboard_time": 1692904396,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20208,
+      "num": 603335,
+      "word": "男子昏迷路人做心肺复苏号脉安抚",
+      "onboard_time": 1692972044,
+      "rank": 14,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 18920,

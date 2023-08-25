@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1692970430870,
+  "endTime": 1692972896057,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -136,6 +136,14 @@
       "word": "日本本州东海岸远海地震",
       "onboard_time": 1692920858,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4365249,
+      "num": 619183,
+      "word": "日本大使馆提醒在华日本民众不要大声说日语",
+      "onboard_time": 1692970660,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -408,6 +416,14 @@
       "word": "日本化妆品",
       "onboard_time": 1692858417,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2691200,
+      "num": 2691200,
+      "word": "日本一天内两次地震",
+      "onboard_time": 1692970478,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1059,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1678971,
+      "num": 1678971,
+      "word": "郭艾伦被驱逐",
+      "onboard_time": 1692970360,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1667465,
       "num": 506968,
       "word": "男子频繁开房一查发现有6个女友",
@@ -1451,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1333531,
+      "num": 1333531,
+      "word": "谁谈个恋爱天天亲啊",
+      "onboard_time": 1692969880,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1318104,
       "num": 1318104,
       "word": "孤注一掷票房是谁在扛",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1692957937,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1175870,
+      "num": 610412,
+      "word": "男士卫生巾竟然这么大",
+      "onboard_time": 1692971623,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 1174629,
@@ -2577,6 +2617,14 @@
       "onboard_time": 1692927463,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822814,
+      "num": 822814,
+      "word": "张杰鸟巢表白谢娜",
+      "onboard_time": 1692969819,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 822085,
@@ -3611,14 +3659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 620647,
-      "num": 379499,
-      "word": "张杰鸟巢表白谢娜",
-      "onboard_time": 1692969819,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 618106,
       "num": 310216,
       "word": "男朋友说西瓜一人一半",
@@ -3819,6 +3859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 600557,
+      "num": 600557,
+      "word": "徐良坏女孩 非主流回忆",
+      "onboard_time": 1692972467,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599537,
       "num": 599537,
       "word": "欢瑞经纪律师声明",
@@ -3995,6 +4043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 575044,
+      "num": 575044,
+      "word": "凤凰传奇感谢汪苏泷救场央视秋晚",
+      "onboard_time": 1692972044,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 574686,
       "num": 574686,
       "word": "杨紫或将演六姊妹",
@@ -4008,6 +4064,14 @@
       "word": "杨幂叫何炅小何",
       "onboard_time": 1692768696,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 571108,
+      "num": 571108,
+      "word": "还得是二手玫瑰",
+      "onboard_time": 1692970962,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -5019,6 +5083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471083,
+      "num": 471083,
+      "word": "鹿晗评论区的今天星期五",
+      "onboard_time": 1692969819,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 471077,
       "num": 430368,
       "word": "李莲花为什么必须死",
@@ -5195,6 +5267,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 456788,
+      "num": 456788,
+      "word": "林俊杰音乐节",
+      "onboard_time": 1692972044,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 456304,
       "num": 323058,
       "word": "SEVENTEEN回归比孙悟空更有冲击性",
@@ -5281,6 +5361,14 @@
       "onboard_time": 1692877186,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447697,
+      "num": 447697,
+      "word": "达摩辅助",
+      "onboard_time": 1692971744,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 447333,
@@ -5620,7 +5708,7 @@
     },
     {
       "raw_hot": 422456,
-      "num": 276515,
+      "num": 421278,
       "word": "涂山璟被扯碎九尾画面",
       "onboard_time": 1692968320,
       "rank": 26,
@@ -5657,6 +5745,14 @@
       "onboard_time": 1692940964,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419508,
+      "num": 338925,
+      "word": "蜜丝婷直播",
+      "onboard_time": 1692971441,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 419283,
@@ -6035,6 +6131,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 394615,
+      "num": 330682,
+      "word": "莲花楼 我角姐哪受过这气",
+      "onboard_time": 1692972226,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394359,
       "num": 394359,
       "word": "于正 只要有乔恩每部都是东方不败",
@@ -6155,14 +6259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386559,
-      "num": 272641,
-      "word": "谁谈个恋爱天天亲啊",
-      "onboard_time": 1692969880,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 385654,
       "num": 359448,
       "word": "王阳回应与李兰迪演情侣",
@@ -6281,6 +6377,14 @@
       "onboard_time": 1692860038,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 375936,
+      "num": 324560,
+      "word": "谁给孟佳选的衣服",
+      "onboard_time": 1692969939,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 375490,
@@ -6465,14 +6569,6 @@
       "onboard_time": 1692694122,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 365082,
-      "num": 232884,
-      "word": "鹿晗评论区的今天星期五",
-      "onboard_time": 1692969819,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 364485,
@@ -6707,6 +6803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350648,
+      "num": 255812,
+      "word": "张杰的社交圈好广",
+      "onboard_time": 1692971807,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 350616,
       "num": 350616,
       "word": "医生吃面发现邻座女子长肿瘤提醒就医",
@@ -6889,6 +6993,14 @@
       "onboard_time": 1692595419,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339501,
+      "num": 339501,
+      "word": "原来身上的泥不能用力搓",
+      "onboard_time": 1692969760,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 337806,
@@ -7225,6 +7337,14 @@
       "onboard_time": 1692599977,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325435,
+      "num": 254369,
+      "word": "暑期档最出圈的角色",
+      "onboard_time": 1692972044,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 325087,
@@ -7611,14 +7731,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 307832,
-      "num": 215282,
-      "word": "谁给孟佳选的衣服",
-      "onboard_time": 1692969939,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 307267,
       "num": 297516,
       "word": "长相思陪你过七夕",
@@ -7769,6 +7881,14 @@
       "onboard_time": 1692540526,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301879,
+      "num": 240787,
+      "word": "王一博不停做俯卧撑保持接戏状态",
+      "onboard_time": 1692971564,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 301731,
@@ -8516,7 +8636,7 @@
     },
     {
       "raw_hot": 270178,
-      "num": 211348,
+      "num": 251904,
       "word": "本想带孩子摆地摊感受一下生活不易",
       "onboard_time": 1692968801,
       "rank": 38,
@@ -8955,6 +9075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256473,
+      "num": 256473,
+      "word": "光与夜之恋重抽",
+      "onboard_time": 1692970962,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 256452,
       "num": 256452,
       "word": "到处喊宝宝的下场不过如此",
@@ -9033,6 +9161,14 @@
       "onboard_time": 1692794497,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251307,
+      "num": 251307,
+      "word": "原来晾衣杆的钩子是这样用的",
+      "onboard_time": 1692971020,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 249248,
@@ -9593,14 +9729,6 @@
       "onboard_time": 1692752266,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227987,
-      "num": 208635,
-      "word": "原来身上的泥不能用力搓",
-      "onboard_time": 1692969760,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 227576,
@@ -12043,6 +12171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157990,
+      "num": 191671,
+      "word": "一周刮油掉秤汤",
+      "onboard_time": 1692969698,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157745,
       "num": 157745,
       "word": "七夕说出爱",
@@ -12323,14 +12459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136445,
-      "num": 173660,
-      "word": "郭艾伦被驱逐",
-      "onboard_time": 1692970360,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136162,
       "num": 177034,
       "word": "阴阳师",
@@ -12561,6 +12689,14 @@
       "onboard_time": 1692804876,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114749,
+      "num": 191649,
+      "word": "i人代入",
+      "onboard_time": 1692972767,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 114257,
@@ -13609,6 +13745,14 @@
       "onboard_time": 1692562934,
       "rank": 48,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 20208,
+      "num": 603335,
+      "word": "男子昏迷路人做心肺复苏号脉安抚",
+      "onboard_time": 1692972044,
+      "rank": 14,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 18920,
