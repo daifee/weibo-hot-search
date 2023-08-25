@@ -1,0 +1,410 @@
+{
+  "runTime": 1692952443566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1975191,
+        "num": 1975191,
+        "word": "我见过情绪最稳定的小孩",
+        "onboard_time": 1692945463,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1242685,
+        "num": 1242685,
+        "word": "日本核污染水排海民众忍无可忍",
+        "onboard_time": 1692926266,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101996,
+        "num": 1226319,
+        "word": "在红绿灯上发现杭州亚运会吉祥物",
+        "onboard_time": 1692951699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218250,
+        "num": 1218250,
+        "word": "黄晓明发长文谈最后的真相",
+        "onboard_time": 1692943302,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1131067,
+        "num": 1131067,
+        "word": "李玖哲自曝被雪藏7年",
+        "onboard_time": 1692941321,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1104515,
+        "num": 1104515,
+        "word": "网红大学老师相宜自曝辞职",
+        "onboard_time": 1692948759,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1009723,
+        "num": 1009723,
+        "word": "0713",
+        "onboard_time": 1692941680,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688736,
+        "num": 688736,
+        "word": "中国好声音暂停播出",
+        "onboard_time": 1692932868,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547210,
+        "num": 547210,
+        "word": "多家日妆品牌遭遇退货",
+        "onboard_time": 1692943964,
+        "rank": 8,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 381609,
+        "num": 381609,
+        "word": "我国加大食盐价格监管力度",
+        "onboard_time": 1692945342,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 2280567,
+        "num": 380263,
+        "word": "日本核污染水排海当天大阪突降暴雨",
+        "onboard_time": 1692947739,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1608237,
+        "num": 378743,
+        "word": "李敏镐馒化",
+        "onboard_time": 1692951160,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 958855,
+        "num": 376485,
+        "word": "北极鲶鱼事件核查5个月没结果",
+        "onboard_time": 1692943185,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677756,
+        "num": 374793,
+        "word": "英国妈妈为做缩胸手术卖房",
+        "onboard_time": 1692949360,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141286,
+        "num": 370855,
+        "word": "民警帮大爷找羊大爷提羊腿感谢",
+        "onboard_time": 1692950438,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485429,
+        "num": 369859,
+        "word": "张萌的衣服穿一次就崩开了",
+        "onboard_time": 1692943842,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 433303,
+        "num": 366832,
+        "word": "日本向学生宣传核污水安全被骂",
+        "onboard_time": 1692941981,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430781,
+        "num": 366372,
+        "word": "张栋梁说看不见我是你们没有关注我",
+        "onboard_time": 1692948580,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424743,
+        "num": 363669,
+        "word": "陕西煤矿闪爆事故多名责任人已被控制",
+        "onboard_time": 1692951399,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420916,
+        "num": 360453,
+        "word": "郑嘉颖 三寸天堂",
+        "onboard_time": 1692943185,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 779567,
+        "num": 359371,
+        "word": "缅甸逃回男子曝出活埋杀人视频",
+        "onboard_time": 1692930462,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395523,
+        "num": 355812,
+        "word": "近期女性角色好像在渡劫",
+        "onboard_time": 1692947980,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355555,
+        "num": 355555,
+        "word": "长空之王总票房破8.5亿",
+        "onboard_time": 1692948580,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299235,
+        "num": 299235,
+        "word": "张栋梁舞台旁白是王心凌",
+        "onboard_time": 1692940663,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297144,
+        "num": 297144,
+        "word": "CPA税法",
+        "onboard_time": 1692947980,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289345,
+        "num": 289345,
+        "word": "iPhone15Pro新增灰色",
+        "onboard_time": 1692929865,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 282701,
+        "num": 282701,
+        "word": "李慕嘉和田蓉彻底闹掰",
+        "onboard_time": 1692950138,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280962,
+        "num": 280962,
+        "word": "重温切尔诺贝利",
+        "onboard_time": 1692951097,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275059,
+        "num": 275059,
+        "word": "黄晓明的姐姐打call团",
+        "onboard_time": 1692947380,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271698,
+        "num": 271698,
+        "word": "特朗普称自己没做错任何事",
+        "onboard_time": 1692947436,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 468272,
+        "num": 269865,
+        "word": "赌的就是你不要小票",
+        "onboard_time": 1692951938,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294635,
+        "num": 269388,
+        "word": "不经意却容易变胖的习惯",
+        "onboard_time": 1692951938,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267820,
+        "num": 267820,
+        "word": "在杭州上班摸鱼摸到真鱼了",
+        "onboard_time": 1692951938,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256860,
+        "num": 256860,
+        "word": "鲍蕾是懂陆毅黑历史的",
+        "onboard_time": 1692948220,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249885,
+        "num": 249885,
+        "word": "百事可乐",
+        "onboard_time": 1692943239,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249248,
+        "num": 249248,
+        "word": "年轻人旅游最累的时刻",
+        "onboard_time": 1692948399,
+        "rank": 35,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 240312,
+        "num": 240312,
+        "word": "日本本州东海岸远海地震",
+        "onboard_time": 1692920858,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238942,
+        "num": 238942,
+        "word": "A股",
+        "onboard_time": 1692943121,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222554,
+        "num": 222554,
+        "word": "日本台风",
+        "onboard_time": 1692928903,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195479,
+        "num": 195479,
+        "word": "杭州这片草坪好适合拍照",
+        "onboard_time": 1692951279,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 187120,
+        "num": 187120,
+        "word": "日本核污水排海首日辐射值就超标",
+        "onboard_time": 1692926505,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172970,
+        "num": 172970,
+        "word": "李飞组不来的嘉宾阵容",
+        "onboard_time": 1692941625,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169198,
+        "num": 169198,
+        "word": "这下谁还分得清健身房和酒吧",
+        "onboard_time": 1692951877,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168428,
+        "num": 168428,
+        "word": "中国好声音母公司盘中跳水",
+        "onboard_time": 1692936286,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167348,
+        "num": 167348,
+        "word": "封神还没上映前的扫楼",
+        "onboard_time": 1692947080,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166167,
+        "num": 166167,
+        "word": "王鹤棣这可不敢不签啊",
+        "onboard_time": 1692952360,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164943,
+        "num": 164943,
+        "word": "严禁采买日本水产品网络销售",
+        "onboard_time": 1692942220,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160623,
+        "num": 160623,
+        "word": "王一博 你吃饭小口一点",
+        "onboard_time": 1692941079,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159382,
+        "num": 159382,
+        "word": "萧亚轩不生小孩的原因",
+        "onboard_time": 1692937788,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150851,
+        "num": 159368,
+        "word": "赵丽颖谢霆锋为关智斌花式打call",
+        "onboard_time": 1692940903,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化的京津冀实践#"
+    }
+  }
+}
