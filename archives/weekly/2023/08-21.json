@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1693067703297,
+  "endTime": 1693070009549,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -3275,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779398,
+      "num": 779398,
+      "word": "三场台风正在接近日本",
+      "onboard_time": 1693066533,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 777007,
       "num": 470665,
       "word": "杨幂卷发梦回雪见",
@@ -3451,6 +3459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759306,
+      "num": 759306,
+      "word": "云之羽",
+      "onboard_time": 1692873893,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 758190,
       "num": 758190,
       "word": "长相思第二季再不播就不礼貌了",
@@ -3505,14 +3521,6 @@
       "onboard_time": 1692866033,
       "rank": 23,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 750819,
-      "num": 750819,
-      "word": "云之羽",
-      "onboard_time": 1692873893,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 748401,
@@ -3865,6 +3873,14 @@
       "onboard_time": 1693026518,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 679657,
+      "num": 290154,
+      "word": "杨幂明年或将不拍综艺",
+      "onboard_time": 1693066773,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 678111,
@@ -4977,14 +4993,6 @@
       "onboard_time": 1692862136,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553890,
-      "num": 290154,
-      "word": "杨幂明年或将不拍综艺",
-      "onboard_time": 1693066773,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 551033,
@@ -8387,6 +8395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 341191,
+      "num": 216459,
+      "word": "这只猫好帅啊",
+      "onboard_time": 1693067494,
+      "rank": 38,
+      "category": "其它"
+    },
+    {
       "raw_hot": 340414,
       "num": 340414,
       "word": "时代少年团或将有线上演唱会",
@@ -8976,6 +8992,14 @@
       "word": "GAI 大蘑菇后劲太大了",
       "onboard_time": 1692795517,
       "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 320920,
+      "num": 269790,
+      "word": "杨丞琳直接在演唱会搭了一座房子",
+      "onboard_time": 1693062640,
+      "rank": 41,
       "category": "音乐"
     },
     {
@@ -11979,14 +12003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223842,
-      "num": 213632,
-      "word": "杨丞琳直接在演唱会搭了一座房子",
-      "onboard_time": 1693062640,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 223734,
       "num": 223734,
       "word": "朱七七和沈浪再续前缘",
@@ -12867,14 +12883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206798,
-      "num": 206798,
-      "word": "三场台风正在接近日本",
-      "onboard_time": 1693066533,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206748,
       "num": 206748,
       "word": "李兰迪10岁到24岁荧幕变化",
@@ -12953,14 +12961,6 @@
       "onboard_time": 1692799423,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 205320,
-      "num": 205320,
-      "word": "这只猫好帅啊",
-      "onboard_time": 1693067494,
-      "rank": 38,
-      "category": "其它"
     },
     {
       "raw_hot": 205052,
@@ -15067,6 +15067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154924,
+      "num": 154924,
+      "word": "周深落泪",
+      "onboard_time": 1693068329,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154422,
       "num": 154422,
       "word": "潘长江张鹤伦模仿狂飙名场面",
@@ -15675,12 +15683,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114159,
+      "num": 114159,
+      "word": "黄渤很高兴封神年轻演员获认可",
+      "onboard_time": 1693067789,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 113058,
       "num": 113058,
       "word": "官方回应少年目睹爷爷被殴打后投河身亡",
       "onboard_time": 1692729078,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111143,
+      "num": 111143,
+      "word": "周传雄寂寞沙洲冷爷青回",
+      "onboard_time": 1693067789,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 110493,

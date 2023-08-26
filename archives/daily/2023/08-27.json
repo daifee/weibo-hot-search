@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693067703297,
+  "endTime": 1693070009549,
   "band_list": [
     {
       "raw_hot": 1801184,
@@ -43,12 +43,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 750819,
-      "num": 750819,
+      "raw_hot": 779398,
+      "num": 779398,
+      "word": "三场台风正在接近日本",
+      "onboard_time": 1693066533,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759306,
+      "num": 759306,
       "word": "云之羽",
       "onboard_time": 1693066058,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 679657,
+      "num": 290154,
+      "word": "杨幂明年或将不拍综艺",
+      "onboard_time": 1693066773,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 655901,
@@ -81,14 +97,6 @@
       "onboard_time": 1693063837,
       "rank": 10,
       "category": "音乐,时尚"
-    },
-    {
-      "raw_hot": 553890,
-      "num": 290154,
-      "word": "杨幂明年或将不拍综艺",
-      "onboard_time": 1693066773,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 513011,
@@ -195,6 +203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 341191,
+      "num": 216459,
+      "word": "这只猫好帅啊",
+      "onboard_time": 1693067494,
+      "rank": 38,
+      "category": "其它"
+    },
+    {
       "raw_hot": 331445,
       "num": 289045,
       "word": "吉克隽逸演出时脸被划伤",
@@ -209,6 +225,14 @@
       "onboard_time": 1693063479,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 320920,
+      "num": 269790,
+      "word": "杨丞琳直接在演唱会搭了一座房子",
+      "onboard_time": 1693062640,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 293359,
@@ -283,6 +307,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 248227,
+      "num": 215974,
+      "word": "孤注一掷",
+      "onboard_time": 1693067312,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244668,
       "num": 228195,
       "word": "NCT舞台跳塌了",
@@ -331,22 +363,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 223842,
-      "num": 213632,
-      "word": "杨丞琳直接在演唱会搭了一座房子",
-      "onboard_time": 1693062640,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 222496,
-      "num": 192924,
-      "word": "孤注一掷",
-      "onboard_time": 1693067312,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 213851,
       "num": 213851,
       "word": "中国男篮不敌塞尔维亚男篮",
@@ -371,28 +387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206798,
-      "num": 206798,
-      "word": "三场台风正在接近日本",
-      "onboard_time": 1693066533,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206257,
       "num": 206257,
       "word": "英超",
       "onboard_time": 1693066292,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205320,
-      "num": 205320,
-      "word": "这只猫好帅啊",
-      "onboard_time": 1693067494,
-      "rank": 38,
-      "category": "其它"
     },
     {
       "raw_hot": 191848,
@@ -427,12 +427,52 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154924,
+      "num": 154924,
+      "word": "周深落泪",
+      "onboard_time": 1693068329,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149922,
       "num": 149922,
       "word": "李凯尔9中0",
       "onboard_time": 1693058681,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117239,
+      "num": 117239,
+      "word": "你好星期六成毅",
+      "onboard_time": 1693053756,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114159,
+      "num": 114159,
+      "word": "黄渤很高兴封神年轻演员获认可",
+      "onboard_time": 1693067789,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 111143,
+      "num": 111143,
+      "word": "周传雄寂寞沙洲冷爷青回",
+      "onboard_time": 1693067789,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 109829,
+      "num": 109829,
+      "word": "俞灏明片场哭到浑身颤抖",
+      "onboard_time": 1693046074,
+      "rank": 48,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
