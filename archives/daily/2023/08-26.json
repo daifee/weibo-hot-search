@@ -1,10 +1,10 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693013227264,
+  "endTime": 1693015099923,
   "band_list": [
     {
       "raw_hot": 3494082,
-      "num": 343961,
+      "num": 356893,
       "word": "核污水排海韩国已出现连锁反应",
       "onboard_time": 1693009352,
       "rank": 10,
@@ -28,10 +28,26 @@
     },
     {
       "raw_hot": 1743272,
-      "num": 343250,
+      "num": 356830,
       "word": "上海一日料店上架防辐射套餐",
       "onboard_time": 1693005744,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1530748,
+      "num": 1530748,
+      "word": "中方在联合国回击日方说辞",
+      "onboard_time": 1693011096,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1484758,
+      "num": 356863,
+      "word": "谁在炒作只有中国反对日本排放核污水",
+      "onboard_time": 1693013074,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -51,20 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1215069,
-      "num": 340990,
-      "word": "中方在联合国回击日方说辞",
-      "onboard_time": 1693011096,
-      "rank": 14,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1117827,
       "num": 382390,
       "word": "男士卫生巾竟然这么大",
       "onboard_time": 1692971623,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1082407,
+      "num": 356685,
+      "word": "东电公布水质检测结果",
+      "onboard_time": 1693012054,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1066444,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 1028991,
-      "num": 642993,
+      "num": 830144,
       "word": "原来赵丽颖也喜欢蹦迪",
       "onboard_time": 1693008812,
       "rank": 3,
@@ -89,6 +105,22 @@
       "onboard_time": 1693005263,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 961402,
+      "num": 961402,
+      "word": "莲花楼央视版结局",
+      "onboard_time": 1693013734,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 927447,
+      "num": 927447,
+      "word": "原来长期睡不够6小时容易患癌",
+      "onboard_time": 1693012236,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 761745,
@@ -108,7 +140,7 @@
     },
     {
       "raw_hot": 681830,
-      "num": 334653,
+      "num": 356385,
       "word": "过了三十岁没钱又没房正常吗",
       "onboard_time": 1693009413,
       "rank": 20,
@@ -123,12 +155,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 641605,
-      "num": 641605,
+      "raw_hot": 661780,
+      "num": 661780,
       "word": "程潇的熊猫冰粉卖爆了",
       "onboard_time": 1693009772,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 651758,
+      "num": 651758,
+      "word": "张艺兴谈成为国家话剧院演员",
+      "onboard_time": 1693011335,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 572431,
@@ -155,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 545668,
-      "num": 334023,
-      "word": "张艺兴谈成为国家话剧院演员",
-      "onboard_time": 1693011335,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 525511,
       "num": 525511,
       "word": "八仙饭店",
@@ -177,14 +209,6 @@
       "onboard_time": 1692954219,
       "rank": 6,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 512857,
-      "num": 332906,
-      "word": "原来长期睡不够6小时容易患癌",
-      "onboard_time": 1693012236,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 511478,
@@ -244,11 +268,27 @@
     },
     {
       "raw_hot": 436455,
-      "num": 339325,
+      "num": 354690,
       "word": "李宇春看了封神还知道费翔不能吃薯条",
       "onboard_time": 1693009834,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 420144,
+      "num": 356573,
+      "word": "台风或使核污水扑向美国",
+      "onboard_time": 1693013734,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413276,
+      "num": 356516,
+      "word": "成毅跳了微信步数为0的舞",
+      "onboard_time": 1693012834,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 408841,
@@ -259,11 +299,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403829,
+      "num": 403829,
+      "word": "瑞士向我国返还5件流失文物",
+      "onboard_time": 1693013375,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401086,
       "num": 336649,
       "word": "莲花楼是暑期档黑马吗",
       "onboard_time": 1693011576,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 386919,
+      "num": 356470,
+      "word": "赵本山真敢拍",
+      "onboard_time": 1693013975,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -315,10 +371,26 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350009,
-      "num": 331085,
-      "word": "东电公布水质检测结果",
-      "onboard_time": 1693012054,
+      "raw_hot": 356350,
+      "num": 356350,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1693013434,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 339298,
+      "num": 339298,
+      "word": "封神 伯父只是死了",
+      "onboard_time": 1693014217,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 335186,
+      "num": 335186,
+      "word": "太阳表面惊现巨大黑子",
+      "onboard_time": 1693013919,
       "rank": 24,
       "category": "社会新闻"
     },
@@ -467,20 +539,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 226857,
+      "num": 226857,
+      "word": "鬼才画家因画画引网警关注",
+      "onboard_time": 1693014457,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 223907,
+      "num": 223907,
+      "word": "ENHYPEN出发青岛签售",
+      "onboard_time": 1693013016,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220998,
       "num": 220998,
       "word": "张杰鸟巢表白谢娜",
       "onboard_time": 1692969819,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 213658,
-      "num": 213658,
-      "word": "成毅跳了微信步数为0的舞",
-      "onboard_time": 1693012834,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 208678,
@@ -531,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195737,
-      "num": 195737,
-      "word": "ENHYPEN出发青岛签售",
-      "onboard_time": 1693013016,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194074,
       "num": 194074,
       "word": "八仙饭店吞吐",
@@ -555,12 +627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190436,
+      "num": 190436,
+      "word": "杨超越丁禹兮深吻戏",
+      "onboard_time": 1693013074,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189586,
       "num": 189586,
       "word": "吉克隽逸每回上秋晚都连演带拿",
       "onboard_time": 1693012475,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188618,
+      "num": 188618,
+      "word": "女孩用实习工资给妈妈双重惊喜",
+      "onboard_time": 1693013734,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186673,
@@ -619,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174488,
-      "num": 174488,
-      "word": "谁在炒作只有中国反对日本排放核污水",
-      "onboard_time": 1693013074,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173899,
       "num": 168943,
       "word": "蜜丝婷直播",
@@ -651,20 +731,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168552,
+      "num": 168552,
+      "word": "你最想拥有的武林绝技是什么",
+      "onboard_time": 1693015055,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164796,
       "num": 164796,
       "word": "费翔见到了自己领养的大熊猫",
       "onboard_time": 1692961118,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162693,
-      "num": 162693,
-      "word": "杨超越丁禹兮深吻戏",
-      "onboard_time": 1693013074,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 161230,
@@ -696,6 +776,14 @@
       "word": "蓝正龙不光帅",
       "onboard_time": 1693005805,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146108,
+      "num": 146108,
+      "word": "莫言上学也是学了就忘",
+      "onboard_time": 1693013858,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -828,7 +916,7 @@
     },
     {
       "raw_hot": 51873,
-      "num": 711315,
+      "num": 941539,
       "word": "要坚持真正的多边主义",
       "onboard_time": 1692976244,
       "rank": 2,
