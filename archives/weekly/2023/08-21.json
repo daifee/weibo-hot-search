@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1693053834653,
+  "endTime": 1693055861345,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -1315,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1588001,
+      "num": 1588001,
+      "word": "今天晚上好多演唱会",
+      "onboard_time": 1693050217,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1587027,
       "num": 1587027,
       "word": "iPhone换C口 安卓不通用",
@@ -1436,7 +1444,7 @@
     },
     {
       "raw_hot": 1486489,
-      "num": 977270,
+      "num": 1240192,
       "word": "浏览前任婚礼请帖上百次被发现",
       "onboard_time": 1693046375,
       "rank": 15,
@@ -2011,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1141564,
+      "num": 1141564,
+      "word": "你好星期六成毅",
+      "onboard_time": 1693053756,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1140942,
       "num": 1140942,
       "word": "欧美圈为什么不能叫欧娱",
@@ -2419,6 +2435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 993594,
+      "num": 993594,
+      "word": "黄渤回应开美颜误伤倪妮",
+      "onboard_time": 1693054237,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 980261,
       "num": 980261,
       "word": "刘昊然屈楚萧回应燃冬角色关系",
@@ -2601,14 +2625,6 @@
       "onboard_time": 1692572964,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 929427,
-      "num": 929427,
-      "word": "今天晚上好多演唱会",
-      "onboard_time": 1693050217,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 929199,
@@ -3291,6 +3307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 763660,
+      "num": 763660,
+      "word": "连名带姓",
+      "onboard_time": 1693054536,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 763419,
       "num": 763419,
       "word": "贾冰跟魏大勋说我也孟男了",
@@ -3529,6 +3553,14 @@
       "onboard_time": 1692718666,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721516,
+      "num": 571680,
+      "word": "林俊杰北京",
+      "onboard_time": 1693051893,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 721101,
@@ -4891,14 +4923,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 540137,
-      "num": 353250,
-      "word": "林俊杰北京",
-      "onboard_time": 1693051893,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 539643,
       "num": 539643,
       "word": "Jennie夸Lisa",
@@ -5177,6 +5201,14 @@
       "onboard_time": 1692602378,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 518233,
+      "num": 399069,
+      "word": "95后小伙怒砸自己开的日料店",
+      "onboard_time": 1693053157,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517820,
@@ -5883,6 +5915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465089,
+      "num": 465089,
+      "word": "中国男篮vs塞尔维亚男篮",
+      "onboard_time": 1693051836,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 464652,
       "num": 464652,
       "word": "杨幂祝福胡夏进入决赛",
@@ -6475,6 +6515,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 426084,
+      "num": 426084,
+      "word": "赵继伟失误",
+      "onboard_time": 1693053576,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426067,
       "num": 518959,
       "word": "普里戈任坠机遇难的背后有哪些疑点",
@@ -6963,14 +7011,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 396761,
-      "num": 396761,
-      "word": "中国男篮vs塞尔维亚男篮",
-      "onboard_time": 1693051836,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 396142,
       "num": 396142,
       "word": "王源去看了邓见超巡演",
@@ -7193,6 +7233,14 @@
       "onboard_time": 1692684882,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384736,
+      "num": 384736,
+      "word": "龚俊汪苏泷是来给大张伟砸场子的吗",
+      "onboard_time": 1693055264,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 384711,
@@ -8235,6 +8283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332703,
+      "num": 332703,
+      "word": "李凯尔半场0分",
+      "onboard_time": 1693055136,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332429,
       "num": 298829,
       "word": "陈思诚片场说买股朱一龙",
@@ -8731,6 +8787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314048,
+      "num": 339636,
+      "word": "太平洋沿岸国有权向日本政府发起核污水索赔",
+      "onboard_time": 1693054778,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 313928,
       "num": 313928,
       "word": "缅北诈骗为何屡禁不止",
@@ -8923,6 +8987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306782,
+      "num": 306782,
+      "word": "真人秀还剩下几分真",
+      "onboard_time": 1693053336,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306119,
       "num": 306119,
       "word": "林俊杰听到脱掉的反应",
@@ -9073,14 +9145,6 @@
       "onboard_time": 1693021232,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 301420,
-      "num": 301420,
-      "word": "真人秀还剩下几分真",
-      "onboard_time": 1693053336,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 301207,
@@ -9723,6 +9787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278634,
+      "num": 278634,
+      "word": "hi6",
+      "onboard_time": 1693052557,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278050,
       "num": 278050,
       "word": "电视剧白日梦我",
@@ -9817,14 +9889,6 @@
       "onboard_time": 1693052137,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273123,
-      "num": 273123,
-      "word": "hi6",
-      "onboard_time": 1693052557,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 273114,
@@ -10499,14 +10563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255583,
-      "num": 255583,
-      "word": "95后小伙怒砸自己开的日料店",
-      "onboard_time": 1693053157,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255174,
       "num": 255174,
       "word": "给白敬亭整成喻初原了",
@@ -10649,22 +10705,6 @@
       "onboard_time": 1692612516,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247273,
-      "num": 247273,
-      "word": "你好星期六成毅",
-      "onboard_time": 1693053756,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 247075,
-      "num": 247075,
-      "word": "赵继伟失误",
-      "onboard_time": 1693053576,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 246760,
@@ -11035,6 +11075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236583,
+      "num": 236583,
+      "word": "此沙丸子头出个教程吧",
+      "onboard_time": 1693055198,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236068,
       "num": 236068,
       "word": "舒淇 维纳斯的诞生",
@@ -11113,6 +11161,14 @@
       "onboard_time": 1692584073,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234429,
+      "num": 234429,
+      "word": "张杰歌里好多星星",
+      "onboard_time": 1693054116,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 234311,
@@ -11555,6 +11611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222251,
+      "num": 222251,
+      "word": "曾舜晞你在干什么",
+      "onboard_time": 1693049017,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222159,
       "num": 222159,
       "word": "学生撞伤老人吓哭却被对方家属安慰",
@@ -11688,14 +11752,6 @@
       "word": "张远按头马伯骞蹦迪甩头",
       "onboard_time": 1692841363,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 218513,
-      "num": 218513,
-      "word": "曾舜晞你在干什么",
-      "onboard_time": 1693049017,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -12515,6 +12571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203602,
+      "num": 203602,
+      "word": "王源分享和司机师傅的歌迷故事",
+      "onboard_time": 1693055677,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203282,
       "num": 193477,
       "word": "徐明浩19岁白月光混剪",
@@ -12619,6 +12683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201896,
+      "num": 201896,
+      "word": "周琦快攻失误",
+      "onboard_time": 1693055321,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201879,
       "num": 201879,
       "word": "00后也不想整顿职场",
@@ -12649,6 +12721,14 @@
       "onboard_time": 1692689385,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201328,
+      "num": 201328,
+      "word": "郭艾伦解说",
+      "onboard_time": 1693054116,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 201289,
@@ -13073,6 +13153,14 @@
       "onboard_time": 1692897385,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194488,
+      "num": 297665,
+      "word": "迪丽热巴运动风",
+      "onboard_time": 1693054660,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 194412,
@@ -15164,7 +15252,7 @@
     },
     {
       "raw_hot": 100302,
-      "num": 987578,
+      "num": 1273788,
       "word": "工作之余航天员们在干什么",
       "onboard_time": 1693050817,
       "rank": 2,
@@ -15555,6 +15643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63484,
+      "num": 300145,
+      "word": "沙漠也能拍水感大片",
+      "onboard_time": 1693054897,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 62470,
       "num": 68078,
       "word": "张晚意小时候是个妹宝吧",
@@ -15905,6 +16001,14 @@
       "onboard_time": 1692817096,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 35382,
+      "num": 426787,
+      "word": "车主疑陷网诈加油站站长抢手机报警",
+      "onboard_time": 1693054838,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35280,

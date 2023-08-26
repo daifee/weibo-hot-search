@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693053834653,
+  "endTime": 1693055861345,
   "band_list": [
     {
       "raw_hot": 3494082,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1588001,
+      "num": 1588001,
+      "word": "今天晚上好多演唱会",
+      "onboard_time": 1693050217,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1579683,
       "num": 1579683,
       "word": "原来长期睡不够6小时容易患癌",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1486489,
-      "num": 977270,
+      "num": 1240192,
       "word": "浏览前任婚礼请帖上百次被发现",
       "onboard_time": 1693046375,
       "rank": 15,
@@ -216,6 +224,14 @@
       "word": "魏哲鸣排名",
       "onboard_time": 1693049497,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1141564,
+      "num": 1141564,
+      "word": "你好星期六成毅",
+      "onboard_time": 1693053756,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -315,20 +331,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 993594,
+      "num": 993594,
+      "word": "黄渤回应开美颜误伤倪妮",
+      "onboard_time": 1693054237,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 933157,
       "num": 933157,
       "word": "CPA审计 好难",
       "onboard_time": 1693019855,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 929427,
-      "num": 929427,
-      "word": "今天晚上好多演唱会",
-      "onboard_time": 1693050217,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 876609,
@@ -411,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 763660,
+      "num": 763660,
+      "word": "连名带姓",
+      "onboard_time": 1693054536,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 761745,
       "num": 761745,
       "word": "张杰一句话高情商介绍朋友",
@@ -425,6 +449,14 @@
       "onboard_time": 1693046854,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 721516,
+      "num": 571680,
+      "word": "林俊杰北京",
+      "onboard_time": 1693051893,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 700498,
@@ -587,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 540137,
-      "num": 353250,
-      "word": "林俊杰北京",
-      "onboard_time": 1693051893,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 538431,
       "num": 1811299,
       "word": "80斤太姥姥抱起1岁30斤曾外孙乐开花",
@@ -649,6 +673,14 @@
       "onboard_time": 1693042173,
       "rank": 41,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 518233,
+      "num": 399069,
+      "word": "95后小伙怒砸自己开的日料店",
+      "onboard_time": 1693053157,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515441,
@@ -745,6 +777,14 @@
       "onboard_time": 1692969880,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 465089,
+      "num": 465089,
+      "word": "中国男篮vs塞尔维亚男篮",
+      "onboard_time": 1693051836,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 464652,
@@ -875,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 426084,
+      "num": 426084,
+      "word": "赵继伟失误",
+      "onboard_time": 1693053576,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419749,
       "num": 419749,
       "word": "男孩暑期打工赚6000感慨还是上学好",
@@ -939,14 +987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 396761,
-      "num": 396761,
-      "word": "中国男篮vs塞尔维亚男篮",
-      "onboard_time": 1693051836,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 395469,
       "num": 395469,
       "word": "封神 伯父只是死了",
@@ -961,6 +1001,14 @@
       "onboard_time": 1693018296,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384736,
+      "num": 384736,
+      "word": "龚俊汪苏泷是来给大张伟砸场子的吗",
+      "onboard_time": 1693055264,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 383117,
@@ -1091,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352193,
+      "num": 352193,
+      "word": "长相思",
+      "onboard_time": 1692996915,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350997,
       "num": 350997,
       "word": "DK战胜HLE",
@@ -1129,6 +1185,14 @@
       "onboard_time": 1693040255,
       "rank": 22,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 332703,
+      "num": 332703,
+      "word": "李凯尔半场0分",
+      "onboard_time": 1693055136,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 330774,
@@ -1187,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314048,
+      "num": 339636,
+      "word": "太平洋沿岸国有权向日本政府发起核污水索赔",
+      "onboard_time": 1693054778,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 313124,
       "num": 313124,
       "word": "杨幂对粉丝说冷静不哭",
@@ -1219,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306782,
+      "num": 306782,
+      "word": "真人秀还剩下几分真",
+      "onboard_time": 1693053336,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305028,
       "num": 305028,
       "word": "刚和妈妈吵完架就要交学费",
@@ -1249,14 +1329,6 @@
       "onboard_time": 1693021232,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 301420,
-      "num": 301420,
-      "word": "真人秀还剩下几分真",
-      "onboard_time": 1693053336,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 300583,
@@ -1339,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278634,
+      "num": 278634,
+      "word": "hi6",
+      "onboard_time": 1693052557,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276665,
       "num": 276665,
       "word": "你们手机壳后面都放什么东西",
@@ -1361,14 +1441,6 @@
       "onboard_time": 1693052137,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273123,
-      "num": 273123,
-      "word": "hi6",
-      "onboard_time": 1693052557,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 272613,
@@ -1451,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255583,
-      "num": 255583,
-      "word": "95后小伙怒砸自己开的日料店",
-      "onboard_time": 1693053157,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252716,
       "num": 252716,
       "word": "白日梦我即将上星湖南卫视",
@@ -1497,22 +1561,6 @@
       "onboard_time": 1693040497,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247273,
-      "num": 247273,
-      "word": "你好星期六成毅",
-      "onboard_time": 1693053756,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 247075,
-      "num": 247075,
-      "word": "赵继伟失误",
-      "onboard_time": 1693053576,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 246760,
@@ -1603,6 +1651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236583,
+      "num": 236583,
+      "word": "此沙丸子头出个教程吧",
+      "onboard_time": 1693055198,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235929,
       "num": 235929,
       "word": "周扬青说Sunnee是最大收获之一",
@@ -1625,6 +1681,14 @@
       "onboard_time": 1692974864,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 234429,
+      "num": 234429,
+      "word": "张杰歌里好多星星",
+      "onboard_time": 1693054116,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 234311,
@@ -1763,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222251,
+      "num": 222251,
+      "word": "曾舜晞你在干什么",
+      "onboard_time": 1693049017,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220998,
       "num": 220998,
       "word": "张杰鸟巢表白谢娜",
@@ -1777,14 +1849,6 @@
       "onboard_time": 1693027717,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 218513,
-      "num": 218513,
-      "word": "曾舜晞你在干什么",
-      "onboard_time": 1693049017,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 218194,
@@ -1979,6 +2043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 203602,
+      "num": 203602,
+      "word": "王源分享和司机师傅的歌迷故事",
+      "onboard_time": 1693055677,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202487,
       "num": 202487,
       "word": "成毅反应速度",
@@ -2011,6 +2083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201896,
+      "num": 201896,
+      "word": "周琦快攻失误",
+      "onboard_time": 1693055321,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201879,
       "num": 201879,
       "word": "00后也不想整顿职场",
@@ -2025,6 +2105,14 @@
       "onboard_time": 1693025859,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201328,
+      "num": 201328,
+      "word": "郭艾伦解说",
+      "onboard_time": 1693054116,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 201289,
@@ -2081,6 +2169,14 @@
       "onboard_time": 1693024779,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194488,
+      "num": 297665,
+      "word": "迪丽热巴运动风",
+      "onboard_time": 1693054660,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 194074,
@@ -2548,7 +2644,7 @@
     },
     {
       "raw_hot": 100302,
-      "num": 987578,
+      "num": 1273788,
       "word": "工作之余航天员们在干什么",
       "onboard_time": 1693050817,
       "rank": 2,
@@ -2603,6 +2699,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 63484,
+      "num": 300145,
+      "word": "沙漠也能拍水感大片",
+      "onboard_time": 1693054897,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 60995,
       "num": 60995,
       "word": "笨蛋父子鄂崇禹鄂顺",
@@ -2627,14 +2731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50688,
-      "num": 50688,
-      "word": "长相思",
-      "onboard_time": 1692996915,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 41831,
       "num": 41831,
       "word": "苏见信你怎么了",
@@ -2657,6 +2753,14 @@
       "onboard_time": 1692995055,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 35382,
+      "num": 426787,
+      "word": "车主疑陷网诈加油站站长抢手机报警",
+      "onboard_time": 1693054838,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31995,
