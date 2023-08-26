@@ -1,0 +1,410 @@
+{
+  "runTime": 1693042425040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2685987,
+        "num": 2685987,
+        "word": "日媒宣称日本针对中方措施开展外交攻势",
+        "onboard_time": 1693027717,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045052,
+        "num": 1045052,
+        "word": "南航通报空乘跌落",
+        "onboard_time": 1693039833,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5585,
+        "num": 945092,
+        "word": "金砖合作大有可为金砖国家未来可期",
+        "onboard_time": 1692933165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925783,
+        "num": 925783,
+        "word": "青簪行 补拍",
+        "onboard_time": 1693031556,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1231502,
+        "num": 887488,
+        "word": "日本核污染水排海 罗刹海市",
+        "onboard_time": 1693035158,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769676,
+        "num": 769676,
+        "word": "中国掌握可控核聚变高约束先进控制技术",
+        "onboard_time": 1693039295,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724355,
+        "num": 724355,
+        "word": "什么是无效社交",
+        "onboard_time": 1693037196,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 648444,
+        "num": 648444,
+        "word": "核污水排海韩国已出现连锁反应",
+        "onboard_time": 1693009352,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623580,
+        "num": 623580,
+        "word": "红海行动2主演阵容",
+        "onboard_time": 1693035695,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 590968,
+        "num": 590968,
+        "word": "香辣鱿鱼拌饭",
+        "onboard_time": 1693039598,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 852797,
+        "num": 581332,
+        "word": "建行",
+        "onboard_time": 1693030056,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 516914,
+        "num": 516914,
+        "word": "日本农林水产相称完全没料到中方措施",
+        "onboard_time": 1693022195,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513961,
+        "num": 513961,
+        "word": "80斤太姥姥抱起1岁30斤曾外孙乐开花",
+        "onboard_time": 1693038454,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443568,
+        "num": 443568,
+        "word": "李俊濠洗脚是全国统一的吗",
+        "onboard_time": 1693037495,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144955,
+        "num": 409592,
+        "word": "大学新生报道后匆忙返乡救爸爸",
+        "onboard_time": 1693040497,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397267,
+        "num": 397267,
+        "word": "徐良女孩不能输",
+        "onboard_time": 1693040497,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370781,
+        "num": 370781,
+        "word": "张杰说不敢请更多朋友因为没票",
+        "onboard_time": 1693024779,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 309383,
+        "num": 309383,
+        "word": "杨幂祝福胡夏进入决赛",
+        "onboard_time": 1693035215,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307622,
+        "num": 307622,
+        "word": "严浩翔何洛洛马启越演员的成长展演",
+        "onboard_time": 1693041157,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292812,
+        "num": 292812,
+        "word": "周迅 35比我25还年轻",
+        "onboard_time": 1693025918,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825551,
+        "num": 292722,
+        "word": "某男网红扬言我玩的就是抛妻弃子",
+        "onboard_time": 1693030894,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420389,
+        "num": 291679,
+        "word": "男高中生一餐仅花7.8爸爸心疼落泪",
+        "onboard_time": 1693036054,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334382,
+        "num": 291431,
+        "word": "杨紫与素人的合影",
+        "onboard_time": 1693040255,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 290194,
+        "num": 290194,
+        "word": "邓为腿太长重心太高的烦恼",
+        "onboard_time": 1693041217,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289339,
+        "num": 289339,
+        "word": "张艺兴最喜欢的一句话",
+        "onboard_time": 1693037255,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 262954,
+        "num": 262954,
+        "word": "杨紫长相思战绩",
+        "onboard_time": 1693037794,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261027,
+        "num": 261027,
+        "word": "四大伯侯表演课",
+        "onboard_time": 1693040014,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257260,
+        "num": 257260,
+        "word": "男子听信出国月赚120万一下飞机被劝返",
+        "onboard_time": 1693033716,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241056,
+        "num": 241056,
+        "word": "金熊猫是只什么猫",
+        "onboard_time": 1693041096,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230691,
+        "num": 230691,
+        "word": "周扬青说Sunnee是最大收获之一",
+        "onboard_time": 1693039715,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223342,
+        "num": 223342,
+        "word": "原来长期睡不够6小时容易患癌",
+        "onboard_time": 1693012236,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211080,
+        "num": 211080,
+        "word": "成毅转身梦回李相夷",
+        "onboard_time": 1693038094,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207759,
+        "num": 207759,
+        "word": "林俊杰晒美丽的青岛",
+        "onboard_time": 1693041996,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201136,
+        "num": 201136,
+        "word": "金莎清唱被风吹过的夏天",
+        "onboard_time": 1693041514,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201107,
+        "num": 201107,
+        "word": "披荆斩棘里的张栋梁",
+        "onboard_time": 1693038276,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189531,
+        "num": 189531,
+        "word": "周深 史诗级皮肤",
+        "onboard_time": 1693021232,
+        "rank": 35,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 183672,
+        "num": 183672,
+        "word": "齐司礼生日应援报纸企划",
+        "onboard_time": 1693041395,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182234,
+        "num": 182234,
+        "word": "CPA财管",
+        "onboard_time": 1693035637,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215338,
+        "num": 180535,
+        "word": "范丞丞梦回练偶时期",
+        "onboard_time": 1693037794,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375045,
+        "num": 179417,
+        "word": "TFBOYS光脚照",
+        "onboard_time": 1693033476,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 177704,
+        "num": 177704,
+        "word": "男孩暑期打工赚6000感慨还是上学好",
+        "onboard_time": 1693026637,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 170253,
+        "num": 170253,
+        "word": "你怎么漏气了变成蜜雪饼层了",
+        "onboard_time": 1693042173,
+        "rank": 41,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 167929,
+        "num": 167929,
+        "word": "Angelababy张大大淘汰",
+        "onboard_time": 1693023578,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163652,
+        "num": 163652,
+        "word": "日本排核污染水后的济南海鲜市场",
+        "onboard_time": 1693042357,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160500,
+        "num": 160500,
+        "word": "马嘉祺和妈妈遛狗",
+        "onboard_time": 1693034075,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160304,
+        "num": 160304,
+        "word": "齐思钧看徐良的眼神",
+        "onboard_time": 1693038754,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155025,
+        "num": 155025,
+        "word": "小夭仙品",
+        "onboard_time": 1693034495,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144849,
+        "num": 144849,
+        "word": "国际原子能机构报告无法给予排海正当性",
+        "onboard_time": 1693036174,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142256,
+        "num": 142256,
+        "word": "魏大勋上纽约时代广场大屏了",
+        "onboard_time": 1693024177,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141961,
+        "num": 141961,
+        "word": "林志颖讲到孩子哭了",
+        "onboard_time": 1693035575,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非领导人对话会联合声明#"
+    }
+  }
+}

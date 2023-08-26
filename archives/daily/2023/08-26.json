@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693041254154,
+  "endTime": 1693042425040,
   "band_list": [
     {
       "raw_hot": 3494082,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1314482,
-      "num": 518110,
+      "num": 581332,
       "word": "建行",
       "onboard_time": 1693030056,
       "rank": 13,
@@ -208,6 +208,14 @@
       "word": "日本一天内两次地震",
       "onboard_time": 1692970478,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1045052,
+      "num": 1045052,
+      "word": "南航通报空乘跌落",
+      "onboard_time": 1693039833,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -297,6 +305,14 @@
       "onboard_time": 1693031795,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 769676,
+      "num": 769676,
+      "word": "中国掌握可控核聚变高约束先进控制技术",
+      "onboard_time": 1693039295,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 769564,
@@ -395,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 625893,
-      "num": 493059,
-      "word": "南航通报空乘跌落",
-      "onboard_time": 1693039833,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 590968,
+      "num": 590968,
+      "word": "香辣鱿鱼拌饭",
+      "onboard_time": 1693039598,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 580902,
@@ -433,14 +449,6 @@
       "onboard_time": 1692972044,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 554796,
-      "num": 486677,
-      "word": "中国掌握可控核聚变高约束先进控制技术",
-      "onboard_time": 1693039295,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 538431,
@@ -707,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397267,
+      "num": 397267,
+      "word": "徐良女孩不能输",
+      "onboard_time": 1693040497,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395469,
       "num": 395469,
       "word": "封神 伯父只是死了",
@@ -721,14 +737,6 @@
       "onboard_time": 1693018296,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 381576,
-      "num": 381576,
-      "word": "香辣鱿鱼拌饭",
-      "onboard_time": 1693039598,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 381009,
@@ -835,20 +843,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334382,
+      "num": 326782,
+      "word": "杨紫与素人的合影",
+      "onboard_time": 1693040255,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 330115,
       "num": 330115,
       "word": "张艺兴最喜欢的一句话",
       "onboard_time": 1693037255,
       "rank": 33,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 326782,
-      "num": 326782,
-      "word": "杨紫与素人的合影",
-      "onboard_time": 1693040255,
-      "rank": 22,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 325574,
@@ -865,6 +873,14 @@
       "onboard_time": 1693004844,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307622,
+      "num": 307622,
+      "word": "严浩翔何洛洛马启越演员的成长展演",
+      "onboard_time": 1693041157,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 305028,
@@ -928,6 +944,14 @@
       "word": "刘嘉玲与唐鹤德合照",
       "onboard_time": 1693033356,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 290194,
+      "num": 290194,
+      "word": "邓为腿太长重心太高的烦恼",
+      "onboard_time": 1693041217,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -1011,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261027,
+      "num": 261027,
+      "word": "四大伯侯表演课",
+      "onboard_time": 1693040014,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258991,
       "num": 258991,
       "word": "我们给他一次生命他还了两次",
@@ -1056,22 +1088,6 @@
       "word": "唐禹哲 白月光",
       "onboard_time": 1692965979,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 250801,
-      "num": 250801,
-      "word": "四大伯侯表演课",
-      "onboard_time": 1693040014,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 249704,
-      "num": 249704,
-      "word": "徐良女孩不能输",
-      "onboard_time": 1693040497,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1121,6 +1137,14 @@
       "onboard_time": 1693031375,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241056,
+      "num": 241056,
+      "word": "金熊猫是只什么猫",
+      "onboard_time": 1693041096,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 237147,
@@ -1339,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207759,
+      "num": 207759,
+      "word": "林俊杰晒美丽的青岛",
+      "onboard_time": 1693041996,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207010,
       "num": 207010,
       "word": "屈楚萧角色严选",
@@ -1433,6 +1465,14 @@
       "onboard_time": 1692966039,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201136,
+      "num": 201136,
+      "word": "金莎清唱被风吹过的夏天",
+      "onboard_time": 1693041514,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 199960,
@@ -1545,6 +1585,14 @@
       "onboard_time": 1692968320,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183672,
+      "num": 183672,
+      "word": "齐司礼生日应援报纸企划",
+      "onboard_time": 1693041395,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 183532,
@@ -1675,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170253,
+      "num": 170253,
+      "word": "你怎么漏气了变成蜜雪饼层了",
+      "onboard_time": 1693042173,
+      "rank": 41,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 169821,
       "num": 169821,
       "word": "当外国人遇到东方的神秘力量",
@@ -1691,20 +1747,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 165324,
-      "num": 165324,
-      "word": "严浩翔何洛洛马启越演员的成长展演",
-      "onboard_time": 1693041157,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 164796,
       "num": 164796,
       "word": "费翔见到了自己领养的大熊猫",
       "onboard_time": 1692961118,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163652,
+      "num": 163652,
+      "word": "日本排核污染水后的济南海鲜市场",
+      "onboard_time": 1693042357,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161654,
@@ -1729,14 +1785,6 @@
       "onboard_time": 1693035334,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 155254,
-      "num": 155254,
-      "word": "金熊猫是只什么猫",
-      "onboard_time": 1693041096,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 155199,
@@ -1803,6 +1851,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 144955,
+      "num": 419959,
+      "word": "大学新生报道后匆忙返乡救爸爸",
+      "onboard_time": 1693040497,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144283,
       "num": 140023,
       "word": "本想带孩子摆地摊感受一下生活不易",
@@ -1817,14 +1873,6 @@
       "onboard_time": 1693032034,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 143081,
-      "num": 143081,
-      "word": "邓为腿太长重心太高的烦恼",
-      "onboard_time": 1693041217,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 140956,
@@ -1971,14 +2019,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 59753,
-      "num": 419959,
-      "word": "大学新生报道后匆忙返乡救爸爸",
-      "onboard_time": 1693040497,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51873,
       "num": 1322096,
       "word": "要坚持真正的多边主义",
@@ -2067,7 +2107,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 5527,
+      "raw_hot": 5585,
       "num": 1301389,
       "word": "金砖合作大有可为金砖国家未来可期",
       "onboard_time": 1692933165,
