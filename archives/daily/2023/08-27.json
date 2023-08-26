@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693073946389,
+  "endTime": 1693074847794,
   "band_list": [
     {
       "raw_hot": 1801184,
@@ -363,6 +363,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 222510,
+      "num": 222510,
+      "word": "二哥上当",
+      "onboard_time": 1693072100,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213851,
       "num": 213851,
       "word": "中国男篮不敌塞尔维亚男篮",
@@ -411,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177047,
-      "num": 177047,
-      "word": "二哥上当",
-      "onboard_time": 1693072100,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 172504,
       "num": 172504,
       "word": "原来情绪稳定是被爱出来的",
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144967,
+      "num": 144967,
+      "word": "第10086次被i人朋友震惊到",
+      "onboard_time": 1693072639,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117239,
       "num": 117239,
       "word": "你好星期六成毅",
@@ -475,15 +483,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 109829,
-      "num": 109829,
-      "word": "俞灏明片场哭到浑身颤抖",
-      "onboard_time": 1693046074,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 95216,
+      "raw_hot": 109983,
       "num": 84505,
       "word": "扁头在国外居然是病",
       "onboard_time": 1693071861,
@@ -491,12 +491,12 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 91497,
-      "num": 91497,
-      "word": "第10086次被i人朋友震惊到",
-      "onboard_time": 1693072639,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 109829,
+      "num": 109829,
+      "word": "俞灏明片场哭到浑身颤抖",
+      "onboard_time": 1693046074,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 85041,
@@ -531,7 +531,15 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 16353,
+      "raw_hot": 50135,
+      "num": 50135,
+      "word": "蔡依林深圳演唱会",
+      "onboard_time": 1693074198,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 19862,
       "num": 417314,
       "word": "金砖扩员后GDP占全球近三成",
       "onboard_time": 1693057783,
