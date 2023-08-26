@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1693024439851,
+  "endTime": 1693026877311,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 2653492,
-      "num": 496589,
+      "num": 511521,
       "word": "谁在炒作只有中国反对日本排放核污水",
       "onboard_time": 1693013074,
       "rank": 38,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 2577982,
-      "num": 490075,
+      "num": 492606,
       "word": "女子遭强奸后未获立案跳水库自杀",
       "onboard_time": 1692976723,
       "rank": 31,
@@ -648,6 +648,14 @@
       "word": "杜海涛吃蜈蚣在嘴里八进八出",
       "onboard_time": 1692849960,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2265258,
+      "num": 2265258,
+      "word": "Angelababy张大大淘汰",
+      "onboard_time": 1693023578,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -1459,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1435786,
+      "num": 1435786,
+      "word": "张杰说不敢请更多朋友因为没票",
+      "onboard_time": 1693024779,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1435186,
       "num": 1435186,
       "word": "iPhone15Pro新增灰色",
@@ -2267,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 995919,
+      "num": 995919,
+      "word": "消失的她",
+      "onboard_time": 1693023399,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 980261,
       "num": 980261,
       "word": "刘昊然屈楚萧回应燃冬角色关系",
@@ -2547,6 +2571,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 888215,
+      "num": 506178,
+      "word": "周迅 35比我25还年轻",
+      "onboard_time": 1693025918,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 886572,
       "num": 886572,
       "word": "林俊杰回应被激光笔照眼",
@@ -2625,14 +2657,6 @@
       "onboard_time": 1692961118,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 868294,
-      "num": 868294,
-      "word": "消失的她",
-      "onboard_time": 1693023399,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 864538,
@@ -2809,6 +2833,14 @@
       "onboard_time": 1692800738,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 820397,
+      "num": 500231,
+      "word": "余承恩从小被捏鼻子",
+      "onboard_time": 1693025797,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 817651,
@@ -3241,14 +3273,6 @@
       "onboard_time": 1692669215,
       "rank": 26,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 735789,
-      "num": 735789,
-      "word": "Angelababy张大大淘汰",
-      "onboard_time": 1693023578,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 731203,
@@ -3713,6 +3737,14 @@
       "onboard_time": 1692701494,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 644822,
+      "num": 495448,
+      "word": "蔡国庆晒与儿子合照",
+      "onboard_time": 1693024836,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 644814,
@@ -4987,6 +5019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504259,
+      "num": 372207,
+      "word": "魏大勋上纽约时代广场大屏了",
+      "onboard_time": 1693024177,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503780,
       "num": 372644,
       "word": "情侣双双失忆后再次爱上彼此",
@@ -5267,6 +5307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 483318,
+      "num": 483318,
+      "word": "齐司礼",
+      "onboard_time": 1693024117,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 481756,
       "num": 418000,
       "word": "韩国民众街头抗议日本核污水排海",
@@ -5297,6 +5345,14 @@
       "onboard_time": 1692751661,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478506,
+      "num": 478506,
+      "word": "胡锡进 中国渔民和沿海养殖户很无辜",
+      "onboard_time": 1693023276,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477967,
@@ -6769,14 +6825,6 @@
       "onboard_time": 1692576275,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378763,
-      "num": 378763,
-      "word": "胡锡进 中国渔民和沿海养殖户很无辜",
-      "onboard_time": 1693023276,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377634,
@@ -8731,6 +8779,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 290176,
+      "num": 290176,
+      "word": "当甄嬛传娘娘看消失的她",
+      "onboard_time": 1693025019,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289893,
       "num": 289893,
       "word": "蒯曼3比2孙颖莎",
@@ -9129,6 +9185,14 @@
       "onboard_time": 1692866933,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271656,
+      "num": 271656,
+      "word": "马伯骞到哪都逃不过被叫哥哥",
+      "onboard_time": 1693026036,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 271292,
@@ -9771,6 +9835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252716,
+      "num": 252716,
+      "word": "白日梦我即将上星湖南卫视",
+      "onboard_time": 1693023998,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252351,
       "num": 252351,
       "word": "邓为什么时候跳whatever",
@@ -9809,14 +9881,6 @@
       "onboard_time": 1692948399,
       "rank": 49,
       "category": "旅游,情感"
-    },
-    {
-      "raw_hot": 248715,
-      "num": 248715,
-      "word": "齐司礼",
-      "onboard_time": 1693024117,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 248321,
@@ -10531,14 +10595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 224306,
-      "num": 224306,
-      "word": "白日梦我即将上星湖南卫视",
-      "onboard_time": 1693023998,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 224281,
       "num": 224281,
       "word": "林允演唱会速成妆容",
@@ -10787,14 +10843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217404,
-      "num": 217404,
-      "word": "魏大勋上纽约时代广场大屏了",
-      "onboard_time": 1693024177,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217336,
       "num": 217336,
       "word": "玱玹早八相柳早九",
@@ -11027,6 +11075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 210785,
+      "num": 210785,
+      "word": "恋与最炫民族风",
+      "onboard_time": 1693026457,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210460,
       "num": 210460,
       "word": "骄阳伴我取得发行许可证",
@@ -11217,6 +11273,14 @@
       "onboard_time": 1692718185,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207557,
+      "num": 207557,
+      "word": "马龙",
+      "onboard_time": 1693026518,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 207319,
@@ -11523,6 +11587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202076,
+      "num": 202076,
+      "word": "男孩暑期打工赚6000感慨还是上学好",
+      "onboard_time": 1693026637,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 202048,
       "num": 202048,
       "word": "杨超越说杨迪是冻龄男神",
@@ -11553,6 +11625,14 @@
       "onboard_time": 1692957997,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 201614,
+      "num": 201614,
+      "word": "李宇春出道十八周年",
+      "onboard_time": 1693025859,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 201601,
@@ -11883,6 +11963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195988,
+      "num": 195988,
+      "word": "凡是学习射箭的都be了",
+      "onboard_time": 1693024779,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195844,
       "num": 216600,
       "word": "KPL",
@@ -12089,6 +12177,14 @@
       "onboard_time": 1692707556,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192558,
+      "num": 192558,
+      "word": "蒲熠星 解锁新技能",
+      "onboard_time": 1693025435,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 192371,
@@ -12825,6 +12921,14 @@
       "onboard_time": 1692579760,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170500,
+      "num": 170500,
+      "word": "周冬雨鹦鹉杀哭出大鼻噶",
+      "onboard_time": 1693025677,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 170150,
@@ -14259,6 +14363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 67259,
+      "num": 371795,
+      "word": "华为发布全新大五座问界M7",
+      "onboard_time": 1693023878,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 66593,
       "num": 1833145,
       "word": "金砖合作大有可为金砖国家未来可期",
@@ -14403,6 +14515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51507,
+      "num": 2075357,
+      "word": "杭州亚运会将创下三个之最",
+      "onboard_time": 1692976124,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51052,
       "num": 95421,
       "word": "赛博织女们更应该过乞巧节",
@@ -14425,14 +14545,6 @@
       "onboard_time": 1692796478,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49583,
-      "num": 1782329,
-      "word": "杭州亚运会将创下三个之最",
-      "onboard_time": 1692976124,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 48882,
@@ -14529,14 +14641,6 @@
       "onboard_time": 1692597638,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42064,
-      "num": 241070,
-      "word": "华为发布全新大五座问界M7",
-      "onboard_time": 1693023878,
-      "rank": 33,
-      "category": "科技"
     },
     {
       "raw_hot": 41831,
