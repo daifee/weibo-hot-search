@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693016346727,
+  "endTime": 1693017233520,
   "band_list": [
     {
       "raw_hot": 3494082,
@@ -11,24 +11,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2577982,
-      "num": 430764,
-      "word": "女子遭强奸后未获立案跳水库自杀",
-      "onboard_time": 1692976723,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2273765,
-      "num": 445133,
+      "raw_hot": 2626793,
+      "num": 448083,
       "word": "谁在炒作只有中国反对日本排放核污水",
       "onboard_time": 1693013074,
       "rank": 38,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2577982,
+      "num": 447319,
+      "word": "女子遭强奸后未获立案跳水库自杀",
+      "onboard_time": 1692976723,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2094951,
-      "num": 417336,
+      "num": 438399,
       "word": "日本大使馆提醒在华日本民众不要大声说日语",
       "onboard_time": 1692970660,
       "rank": 11,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1743272,
-      "num": 424630,
+      "num": 442254,
       "word": "上海一日料店上架防辐射套餐",
       "onboard_time": 1693005744,
       "rank": 21,
@@ -49,6 +49,14 @@
       "onboard_time": 1693011096,
       "rank": 14,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1462004,
+      "num": 1462004,
+      "word": "原来长期睡不够6小时容易患癌",
+      "onboard_time": 1693012236,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1362507,
@@ -67,14 +75,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1206798,
-      "num": 1206798,
-      "word": "原来长期睡不够6小时容易患癌",
-      "onboard_time": 1693012236,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1117827,
       "num": 382390,
       "word": "男士卫生巾竟然这么大",
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1082407,
-      "num": 437920,
+      "num": 440644,
       "word": "东电公布水质检测结果",
       "onboard_time": 1693012054,
       "rank": 24,
@@ -121,6 +121,14 @@
       "onboard_time": 1693013734,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 888177,
+      "num": 444930,
+      "word": "王心凌前两天做了手术",
+      "onboard_time": 1693015477,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 761745,
@@ -171,6 +179,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 630326,
+      "num": 630326,
+      "word": "太阳表面惊现巨大黑子",
+      "onboard_time": 1693013919,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618300,
+      "num": 618300,
+      "word": "赵本山真敢拍",
+      "onboard_time": 1693013975,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 580902,
+      "num": 436834,
+      "word": "台风或使核污水扑向美国",
+      "onboard_time": 1693013734,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572431,
       "num": 572431,
       "word": "谁能拒绝王阳",
@@ -187,28 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 561070,
-      "num": 561070,
-      "word": "太阳表面惊现巨大黑子",
-      "onboard_time": 1693013919,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557844,
       "num": 557844,
       "word": "凤凰传奇感谢汪苏泷救场央视秋晚",
       "onboard_time": 1692972044,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 552506,
-      "num": 552506,
-      "word": "赵本山真敢拍",
-      "onboard_time": 1693013975,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 525511,
@@ -243,14 +259,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 505961,
-      "num": 415870,
-      "word": "王心凌前两天做了手术",
-      "onboard_time": 1693015477,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 493084,
       "num": 493084,
       "word": "郭艾伦被驱逐",
@@ -259,20 +267,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 489706,
+      "num": 433438,
+      "word": "周冬雨说越长大离女神越远了",
+      "onboard_time": 1693016558,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 485375,
       "num": 485375,
       "word": "马伯骞比观众还观众",
       "onboard_time": 1692976364,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 466354,
-      "num": 402444,
-      "word": "台风或使核污水扑向美国",
-      "onboard_time": 1693013734,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 466315,
@@ -291,20 +299,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458593,
+      "num": 458593,
+      "word": "瑞士向我国返还5件流失文物",
+      "onboard_time": 1693013375,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453132,
       "num": 453132,
       "word": "披荆斩棘好抓马",
       "onboard_time": 1692979176,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 450858,
-      "num": 450858,
-      "word": "瑞士向我国返还5件流失文物",
-      "onboard_time": 1693013375,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 436455,
@@ -329,6 +337,14 @@
       "onboard_time": 1693009352,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403095,
+      "num": 403095,
+      "word": "端妃很像上班时的我",
+      "onboard_time": 1693015658,
+      "rank": 25,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 401086,
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292870,
+      "num": 214093,
+      "word": "拜登评价特朗普嫌犯照是帅哥",
+      "onboard_time": 1693015776,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 279939,
       "num": 279939,
       "word": "中国女排击败巴西晋级决赛",
@@ -483,20 +507,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265467,
+      "num": 265467,
+      "word": "古巨基看金志文秀恩爱攥紧拳头",
+      "onboard_time": 1693015834,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262742,
       "num": 262742,
       "word": "被送精神病院千万富翁已自缢身亡",
       "onboard_time": 1692955601,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260928,
-      "num": 260928,
-      "word": "端妃很像上班时的我",
-      "onboard_time": 1693015658,
-      "rank": 25,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 252144,
@@ -512,14 +536,6 @@
       "word": "唐禹哲 白月光",
       "onboard_time": 1692965979,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 246968,
-      "num": 246968,
-      "word": "古巨基看金志文秀恩爱攥紧拳头",
-      "onboard_time": 1693015834,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -571,6 +587,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 234311,
+      "num": 234311,
+      "word": "科目二飞跃围墙",
+      "onboard_time": 1693015298,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 228935,
+      "num": 213370,
+      "word": "鹊刀门传奇",
+      "onboard_time": 1693016618,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223907,
       "num": 223907,
       "word": "ENHYPEN出发青岛签售",
@@ -609,6 +641,14 @@
       "onboard_time": 1693013734,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207010,
+      "num": 207010,
+      "word": "屈楚萧角色严选",
+      "onboard_time": 1693016677,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 202093,
@@ -659,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193415,
+      "num": 193415,
+      "word": "演唱会大屏上的女明星",
+      "onboard_time": 1693016558,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190436,
       "num": 190436,
       "word": "杨超越丁禹兮深吻戏",
@@ -675,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188551,
-      "num": 188551,
-      "word": "科目二飞跃围墙",
-      "onboard_time": 1693015298,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 187681,
+      "num": 187681,
+      "word": "薛凯琪怕是在新手保护期吧",
+      "onboard_time": 1693017214,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 186673,
@@ -747,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174823,
-      "num": 174823,
-      "word": "拜登评价特朗普嫌犯照是帅哥",
-      "onboard_time": 1693015776,
-      "rank": 43,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 173899,
       "num": 168943,
       "word": "蜜丝婷直播",
@@ -819,12 +859,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149689,
+      "num": 149689,
+      "word": "萌娃捡手机交警察顺便表演了个节目",
+      "onboard_time": 1693017156,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146108,
       "num": 146108,
       "word": "莫言上学也是学了就忘",
       "onboard_time": 1693013858,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146019,
+      "num": 146019,
+      "word": "剑网3十四周年",
+      "onboard_time": 1693016437,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 145381,

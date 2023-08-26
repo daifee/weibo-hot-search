@@ -1,0 +1,410 @@
+{
+  "runTime": 1693017233520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1462004,
+        "num": 1462004,
+        "word": "原来长期睡不够6小时容易患癌",
+        "onboard_time": 1693012236,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068161,
+        "num": 1068161,
+        "word": "中方在联合国回击日方说辞",
+        "onboard_time": 1693011096,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 34756,
+        "num": 975699,
+        "word": "要坚持真正的多边主义",
+        "onboard_time": 1692976244,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924722,
+        "num": 924722,
+        "word": "莲花楼央视版结局",
+        "onboard_time": 1693013734,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 730252,
+        "num": 730252,
+        "word": "原来赵丽颖也喜欢蹦迪",
+        "onboard_time": 1693008812,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 630326,
+        "num": 630326,
+        "word": "太阳表面惊现巨大黑子",
+        "onboard_time": 1693013919,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618300,
+        "num": 618300,
+        "word": "赵本山真敢拍",
+        "onboard_time": 1693013975,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 527169,
+        "num": 527169,
+        "word": "张艺兴谈成为国家话剧院演员",
+        "onboard_time": 1693011335,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458593,
+        "num": 458593,
+        "word": "瑞士向我国返还5件流失文物",
+        "onboard_time": 1693013375,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451791,
+        "num": 451791,
+        "word": "沈梦辰做菜没发现锅着火了",
+        "onboard_time": 1693005263,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2774286,
+        "num": 449836,
+        "word": "核污水排海韩国已出现连锁反应",
+        "onboard_time": 1693009352,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2626793,
+        "num": 448083,
+        "word": "谁在炒作只有中国反对日本排放核污水",
+        "onboard_time": 1693013074,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927106,
+        "num": 447319,
+        "word": "女子遭强奸后未获立案跳水库自杀",
+        "onboard_time": 1692976723,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888177,
+        "num": 444930,
+        "word": "王心凌前两天做了手术",
+        "onboard_time": 1693015477,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 869075,
+        "num": 442254,
+        "word": "上海一日料店上架防辐射套餐",
+        "onboard_time": 1693005744,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866405,
+        "num": 440644,
+        "word": "东电公布水质检测结果",
+        "onboard_time": 1693012054,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690669,
+        "num": 438399,
+        "word": "日本大使馆提醒在华日本民众不要大声说日语",
+        "onboard_time": 1692970660,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580902,
+        "num": 436834,
+        "word": "台风或使核污水扑向美国",
+        "onboard_time": 1693013734,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489706,
+        "num": 433438,
+        "word": "周冬雨说越长大离女神越远了",
+        "onboard_time": 1693016558,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432811,
+        "num": 432811,
+        "word": "程潇的熊猫冰粉卖爆了",
+        "onboard_time": 1693009772,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403095,
+        "num": 403095,
+        "word": "端妃很像上班时的我",
+        "onboard_time": 1693015658,
+        "rank": 20,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 397929,
+        "num": 397929,
+        "word": "过了三十岁没钱又没房正常吗",
+        "onboard_time": 1693009413,
+        "rank": 21,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 358577,
+        "num": 358577,
+        "word": "封神 伯父只是死了",
+        "onboard_time": 1693014217,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330039,
+        "num": 330039,
+        "word": "成毅跳了微信步数为0的舞",
+        "onboard_time": 1693012834,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278921,
+        "num": 278921,
+        "word": "为什么年轻人不愿意吃小龙虾了",
+        "onboard_time": 1693008932,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 294664,
+        "num": 278637,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1693013434,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265595,
+        "num": 265595,
+        "word": "谢娜赵丽颖合照",
+        "onboard_time": 1693008992,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265467,
+        "num": 265467,
+        "word": "古巨基看金志文秀恩爱攥紧拳头",
+        "onboard_time": 1693015834,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234311,
+        "num": 234311,
+        "word": "科目二飞跃围墙",
+        "onboard_time": 1693015298,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215596,
+        "num": 215596,
+        "word": "2年被家暴16次女子仍未能离婚",
+        "onboard_time": 1692983187,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330714,
+        "num": 215379,
+        "word": "鬼才画家因画画引网警关注",
+        "onboard_time": 1693014457,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292870,
+        "num": 214093,
+        "word": "拜登评价特朗普嫌犯照是帅哥",
+        "onboard_time": 1693015776,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 228935,
+        "num": 213370,
+        "word": "鹊刀门传奇",
+        "onboard_time": 1693016618,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212176,
+        "num": 212176,
+        "word": "男士卫生巾竟然这么大",
+        "onboard_time": 1692971623,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208398,
+        "num": 208398,
+        "word": "张杰一句话高情商介绍朋友",
+        "onboard_time": 1692976364,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207010,
+        "num": 207010,
+        "word": "屈楚萧角色严选",
+        "onboard_time": 1693016677,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202480,
+        "num": 202480,
+        "word": "金华男子上班时得知中了1080万",
+        "onboard_time": 1693005744,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201365,
+        "num": 201365,
+        "word": "女孩用实习工资给妈妈双重惊喜",
+        "onboard_time": 1693013734,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193415,
+        "num": 193415,
+        "word": "演唱会大屏上的女明星",
+        "onboard_time": 1693016558,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189347,
+        "num": 189347,
+        "word": "核污水排海后日本人在海里游泳",
+        "onboard_time": 1692973246,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187681,
+        "num": 187681,
+        "word": "薛凯琪怕是在新手保护期吧",
+        "onboard_time": 1693017214,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172332,
+        "num": 172332,
+        "word": "ENHYPEN出发青岛签售",
+        "onboard_time": 1693013016,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162145,
+        "num": 162145,
+        "word": "成果 200块大巴出国",
+        "onboard_time": 1693011031,
+        "rank": 42,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 161711,
+        "num": 161711,
+        "word": "黄继光侄子救人不留姓名",
+        "onboard_time": 1693009352,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158911,
+        "num": 158911,
+        "word": "李宇春看了封神还知道费翔不能吃薯条",
+        "onboard_time": 1693009834,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149689,
+        "num": 149689,
+        "word": "萌娃捡手机交警察顺便表演了个节目",
+        "onboard_time": 1693017156,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147199,
+        "num": 147199,
+        "word": "00后也不想整顿职场",
+        "onboard_time": 1693011096,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146398,
+        "num": 146398,
+        "word": "莲花楼是暑期档黑马吗",
+        "onboard_time": 1693011576,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146019,
+        "num": 146019,
+        "word": "剑网3十四周年",
+        "onboard_time": 1693016437,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87945,
+        "num": 135125,
+        "word": "中国女排击败巴西晋级决赛",
+        "onboard_time": 1693008932,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动构建开放型世界经济#"
+    }
+  }
+}
