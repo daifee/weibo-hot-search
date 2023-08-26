@@ -1,10 +1,10 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693023505275,
+  "endTime": 1693024439851,
   "band_list": [
     {
       "raw_hot": 3494082,
-      "num": 2735375,
+      "num": 3292325,
       "word": "核污水排海韩国已出现连锁反应",
       "onboard_time": 1693009352,
       "rank": 10,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2135303,
+      "num": 2135303,
+      "word": "韩媒说日本拒绝他国对核污水直接取样",
+      "onboard_time": 1693021296,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2094951,
       "num": 485852,
       "word": "日本大使馆提醒在华日本民众不要大声说日语",
@@ -35,19 +43,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1902799,
-      "num": 1902799,
-      "word": "韩媒说日本拒绝他国对核污水直接取样",
-      "onboard_time": 1693021296,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1743272,
       "num": 442254,
       "word": "上海一日料店上架防辐射套餐",
       "onboard_time": 1693005744,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1628659,
+      "num": 1628659,
+      "word": "日本农林水产相称完全没料到中方措施",
+      "onboard_time": 1693022195,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -99,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1110814,
+      "num": 1110814,
+      "word": "周深 史诗级皮肤",
+      "onboard_time": 1693021232,
+      "rank": 4,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1082407,
       "num": 488420,
       "word": "东电公布水质检测结果",
@@ -113,14 +129,6 @@
       "onboard_time": 1692970478,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1037592,
-      "num": 1037592,
-      "word": "周深 史诗级皮肤",
-      "onboard_time": 1693021232,
-      "rank": 4,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1028991,
@@ -155,20 +163,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 989625,
-      "num": 989625,
-      "word": "日本农林水产相称完全没料到中方措施",
-      "onboard_time": 1693022195,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 933157,
       "num": 933157,
       "word": "CPA审计 好难",
       "onboard_time": 1693019855,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 868294,
+      "num": 868294,
+      "word": "消失的她",
+      "onboard_time": 1693023399,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 802889,
@@ -193,6 +201,14 @@
       "onboard_time": 1692976364,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 735789,
+      "num": 735789,
+      "word": "Angelababy张大大淘汰",
+      "onboard_time": 1693023578,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 700498,
@@ -435,6 +451,30 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 380643,
+      "num": 380643,
+      "word": "徐海乔 公主保安随时站岗",
+      "onboard_time": 1693022616,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 378763,
+      "num": 378763,
+      "word": "胡锡进 中国渔民和沿海养殖户很无辜",
+      "onboard_time": 1693023276,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377487,
+      "num": 377487,
+      "word": "徐良哥哥助力区第一",
+      "onboard_time": 1693022795,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376233,
       "num": 322372,
       "word": "第一次见家长给孩子买小卡",
@@ -451,16 +491,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 371628,
-      "num": 371628,
-      "word": "徐海乔 公主保安随时站岗",
-      "onboard_time": 1693022616,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 370414,
-      "num": 365829,
+      "raw_hot": 373495,
+      "num": 373495,
       "word": "女子电梯内分娩后将婴儿丢垃圾桶",
       "onboard_time": 1693018115,
       "rank": 24,
@@ -635,20 +667,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258991,
+      "num": 258991,
+      "word": "我们给他一次生命他还了两次",
+      "onboard_time": 1693022195,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255951,
       "num": 255951,
       "word": "骑手小哥回应1分钟救下整栋楼",
       "onboard_time": 1693020994,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254704,
-      "num": 254704,
-      "word": "徐良哥哥助力区第一",
-      "onboard_time": 1693022795,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 252144,
@@ -665,6 +697,14 @@
       "onboard_time": 1692965979,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248715,
+      "num": 248715,
+      "word": "齐司礼",
+      "onboard_time": 1693024117,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 245330,
@@ -723,19 +763,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 230929,
-      "num": 230929,
-      "word": "我们给他一次生命他还了两次",
-      "onboard_time": 1693022195,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228935,
       "num": 213370,
       "word": "鹊刀门传奇",
       "onboard_time": 1693016618,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 224476,
+      "num": 224476,
+      "word": "张杰北京鸟巢站花絮图",
+      "onboard_time": 1693023818,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 224306,
+      "num": 224306,
+      "word": "白日梦我即将上星湖南卫视",
+      "onboard_time": 1693023998,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -763,12 +811,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217404,
+      "num": 217404,
+      "word": "魏大勋上纽约时代广场大屏了",
+      "onboard_time": 1693024177,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215912,
       "num": 215912,
       "word": "张杰听到脱掉的反应",
       "onboard_time": 1693017575,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 212888,
+      "num": 212888,
+      "word": "张远王耀庆各有各的心眼",
+      "onboard_time": 1693023518,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209617,
+      "num": 209617,
+      "word": "代号鸢横幅",
+      "onboard_time": 1693022917,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 208678,
@@ -809,14 +881,6 @@
       "onboard_time": 1693023399,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204117,
-      "num": 204117,
-      "word": "代号鸢横幅",
-      "onboard_time": 1693022917,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 202487,
@@ -891,14 +955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192535,
-      "num": 192535,
-      "word": "消失的她",
-      "onboard_time": 1693023399,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190436,
       "num": 190436,
       "word": "杨超越丁禹兮深吻戏",
@@ -915,12 +971,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188629,
-      "num": 188629,
-      "word": "胡锡进 中国渔民和沿海养殖户很无辜",
-      "onboard_time": 1693023276,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 188874,
+      "num": 188874,
+      "word": "邓为三分钟花絮合集",
+      "onboard_time": 1693023218,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 188160,
@@ -961,14 +1017,6 @@
       "onboard_time": 1693018234,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183495,
-      "num": 183495,
-      "word": "邓为三分钟花絮合集",
-      "onboard_time": 1693023218,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 182738,
@@ -1283,6 +1331,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 49583,
+      "num": 1782329,
+      "word": "杭州亚运会将创下三个之最",
+      "onboard_time": 1692976124,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42064,
+      "num": 241070,
+      "word": "华为发布全新大五座问界M7",
+      "onboard_time": 1693023878,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 41831,
       "num": 41831,
       "word": "苏见信你怎么了",
@@ -1321,14 +1385,6 @@
       "onboard_time": 1692982229,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 30342,
-      "num": 1415468,
-      "word": "杭州亚运会将创下三个之最",
-      "onboard_time": 1692976124,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 28239,

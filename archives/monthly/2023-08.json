@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693023505275,
+  "endTime": 1693024439851,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 3494082,
-      "num": 2735375,
+      "num": 3292325,
       "word": "核污水排海韩国已出现连锁反应",
       "onboard_time": 1693009352,
       "rank": 10,
@@ -2531,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2135303,
+      "num": 2135303,
+      "word": "韩媒说日本拒绝他国对核污水直接取样",
+      "onboard_time": 1693021296,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2134379,
       "num": 2134379,
       "word": "周冬雨刘昊然隔得好远",
@@ -3321,14 +3329,6 @@
       "onboard_time": 1691974417,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1902799,
-      "num": 1902799,
-      "word": "韩媒说日本拒绝他国对核污水直接取样",
-      "onboard_time": 1693021296,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1901492,
@@ -4480,6 +4480,14 @@
       "word": "按摩椅能不能离开电影院",
       "onboard_time": 1691378018,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1628659,
+      "num": 1628659,
+      "word": "日本农林水产相称完全没料到中方措施",
+      "onboard_time": 1693022195,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -8419,6 +8427,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1110814,
+      "num": 1110814,
+      "word": "周深 史诗级皮肤",
+      "onboard_time": 1693021232,
+      "rank": 4,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1110727,
       "num": 1110727,
       "word": "马立奥告别爸爸当家2",
@@ -9411,14 +9427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1037592,
-      "num": 1037592,
-      "word": "周深 史诗级皮肤",
-      "onboard_time": 1693021232,
-      "rank": 4,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 1031296,
       "num": 966597,
       "word": "酷酷的滕骗不了张艺兴一点",
@@ -9953,14 +9961,6 @@
       "onboard_time": 1691119957,
       "rank": 49,
       "category": "其它"
-    },
-    {
-      "raw_hot": 989625,
-      "num": 989625,
-      "word": "日本农林水产相称完全没料到中方措施",
-      "onboard_time": 1693022195,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 989491,
@@ -11969,6 +11969,14 @@
       "onboard_time": 1691767180,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 868294,
+      "num": 868294,
+      "word": "消失的她",
+      "onboard_time": 1693023399,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 867940,
@@ -14961,6 +14969,14 @@
       "onboard_time": 1691278592,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735789,
+      "num": 735789,
+      "word": "Angelababy张大大淘汰",
+      "onboard_time": 1693023578,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 735400,
@@ -32075,6 +32091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380643,
+      "num": 380643,
+      "word": "徐海乔 公主保安随时站岗",
+      "onboard_time": 1693022616,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380386,
       "num": 380386,
       "word": "辞掉了父母眼中的铁饭碗",
@@ -32169,6 +32193,14 @@
       "onboard_time": 1690946555,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378763,
+      "num": 378763,
+      "word": "胡锡进 中国渔民和沿海养殖户很无辜",
+      "onboard_time": 1693023276,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378531,
@@ -32281,6 +32313,14 @@
       "onboard_time": 1692707796,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 377487,
+      "num": 377487,
+      "word": "徐良哥哥助力区第一",
+      "onboard_time": 1693022795,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 377364,
@@ -32595,6 +32635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373495,
+      "num": 373495,
+      "word": "女子电梯内分娩后将婴儿丢垃圾桶",
+      "onboard_time": 1693018115,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373318,
       "num": 373318,
       "word": "玱玹眼眶红了",
@@ -32712,14 +32760,6 @@
       "word": "以前没觉得杨蒙恩这么不好看啊",
       "onboard_time": 1691740659,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 371628,
-      "num": 371628,
-      "word": "徐海乔 公主保安随时站岗",
-      "onboard_time": 1693022616,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -32849,14 +32889,6 @@
       "onboard_time": 1692782499,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 370414,
-      "num": 365829,
-      "word": "女子电梯内分娩后将婴儿丢垃圾桶",
-      "onboard_time": 1693018115,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370391,
@@ -44171,6 +44203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258991,
+      "num": 258991,
+      "word": "我们给他一次生命他还了两次",
+      "onboard_time": 1693022195,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258891,
       "num": 258891,
       "word": "邓为涂山璟的狐狸乐园",
@@ -44761,14 +44801,6 @@
       "onboard_time": 1691831136,
       "rank": 33,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 254704,
-      "num": 254704,
-      "word": "徐良哥哥助力区第一",
-      "onboard_time": 1693022795,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 254563,
@@ -45385,6 +45417,14 @@
       "onboard_time": 1692459341,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248715,
+      "num": 248715,
+      "word": "齐司礼",
+      "onboard_time": 1693024117,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 248604,
@@ -47779,14 +47819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230929,
-      "num": 230929,
-      "word": "我们给他一次生命他还了两次",
-      "onboard_time": 1693022195,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230862,
       "num": 230862,
       "word": "于适杭州路演去不去",
@@ -48595,6 +48627,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 224476,
+      "num": 224476,
+      "word": "张杰北京鸟巢站花絮图",
+      "onboard_time": 1693023818,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224469,
       "num": 224469,
       "word": "RIIZE这位成员的头发怎么了",
@@ -48609,6 +48649,14 @@
       "onboard_time": 1692521493,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224306,
+      "num": 224306,
+      "word": "白日梦我即将上星湖南卫视",
+      "onboard_time": 1693023998,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 224281,
@@ -49771,6 +49819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217404,
+      "num": 217404,
+      "word": "魏大勋上纽约时代广场大屏了",
+      "onboard_time": 1693024177,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217345,
       "num": 217345,
       "word": "eStar对战WB",
@@ -50515,6 +50571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212888,
+      "num": 212888,
+      "word": "张远王耀庆各有各的心眼",
+      "onboard_time": 1693023518,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212852,
       "num": 212852,
       "word": "王大陆受伤妆好逼真",
@@ -51161,6 +51225,14 @@
       "onboard_time": 1692167317,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209617,
+      "num": 209617,
+      "word": "代号鸢横幅",
+      "onboard_time": 1693022917,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 209446,
@@ -52529,14 +52601,6 @@
       "onboard_time": 1692788800,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 204117,
-      "num": 204117,
-      "word": "代号鸢横幅",
-      "onboard_time": 1693022917,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 204073,
@@ -55587,14 +55651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192535,
-      "num": 192535,
-      "word": "消失的她",
-      "onboard_time": 1693023399,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 192530,
       "num": 192530,
       "word": "会骑马的女演员",
@@ -56547,6 +56603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188874,
+      "num": 188874,
+      "word": "邓为三分钟花絮合集",
+      "onboard_time": 1693023218,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188827,
       "num": 188827,
       "word": "N盟固利",
@@ -56601,14 +56665,6 @@
       "onboard_time": 1692628482,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188629,
-      "num": 188629,
-      "word": "胡锡进 中国渔民和沿海养殖户很无辜",
-      "onboard_time": 1693023276,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188543,
@@ -57569,14 +57625,6 @@
       "onboard_time": 1691276667,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183495,
-      "num": 183495,
-      "word": "邓为三分钟花絮合集",
-      "onboard_time": 1693023218,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 183423,
@@ -65971,6 +66019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49583,
+      "num": 1782329,
+      "word": "杭州亚运会将创下三个之最",
+      "onboard_time": 1692976124,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48882,
       "num": 82975,
       "word": "如何看长春一电台称永不合作中国好声音",
@@ -66233,6 +66289,14 @@
       "onboard_time": 1692597638,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42064,
+      "num": 241070,
+      "word": "华为发布全新大五座问界M7",
+      "onboard_time": 1693023878,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 41995,
@@ -66681,14 +66745,6 @@
       "onboard_time": 1690963233,
       "rank": 39,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 30342,
-      "num": 1415468,
-      "word": "杭州亚运会将创下三个之最",
-      "onboard_time": 1692976124,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 30225,

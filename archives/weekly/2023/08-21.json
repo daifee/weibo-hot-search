@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1693023505275,
+  "endTime": 1693024439851,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 3494082,
-      "num": 2735375,
+      "num": 3292325,
       "word": "核污水排海韩国已出现连锁反应",
       "onboard_time": 1693009352,
       "rank": 10,
@@ -739,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2135303,
+      "num": 2135303,
+      "word": "韩媒说日本拒绝他国对核污水直接取样",
+      "onboard_time": 1693021296,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2130067,
       "num": 845665,
       "word": "尹锡悦政府回应日本核污染水排海",
@@ -913,14 +921,6 @@
       "onboard_time": 1692848204,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1902799,
-      "num": 1902799,
-      "word": "韩媒说日本拒绝他国对核污水直接取样",
-      "onboard_time": 1693021296,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1865340,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1692941680,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1628659,
+      "num": 1628659,
+      "word": "日本农林水产相称完全没料到中方措施",
+      "onboard_time": 1693022195,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1624444,
@@ -1915,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1110814,
+      "num": 1110814,
+      "word": "周深 史诗级皮肤",
+      "onboard_time": 1693021232,
+      "rank": 4,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1107135,
       "num": 1107135,
       "word": "官配是有官配的道理",
@@ -2131,14 +2147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1037592,
-      "num": 1037592,
-      "word": "周深 史诗级皮肤",
-      "onboard_time": 1693021232,
-      "rank": 4,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 1028991,
       "num": 830144,
       "word": "原来赵丽颖也喜欢蹦迪",
@@ -2257,14 +2265,6 @@
       "onboard_time": 1692766841,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 989625,
-      "num": 989625,
-      "word": "日本农林水产相称完全没料到中方措施",
-      "onboard_time": 1693022195,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 980261,
@@ -2625,6 +2625,14 @@
       "onboard_time": 1692961118,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 868294,
+      "num": 868294,
+      "word": "消失的她",
+      "onboard_time": 1693023399,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 864538,
@@ -3233,6 +3241,14 @@
       "onboard_time": 1692669215,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 735789,
+      "num": 735789,
+      "word": "Angelababy张大大淘汰",
+      "onboard_time": 1693023578,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 731203,
@@ -6739,12 +6755,28 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 380643,
+      "num": 380643,
+      "word": "徐海乔 公主保安随时站岗",
+      "onboard_time": 1693022616,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380385,
       "num": 380385,
       "word": "秦牛正威直播再道歉",
       "onboard_time": 1692576275,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378763,
+      "num": 378763,
+      "word": "胡锡进 中国渔民和沿海养殖户很无辜",
+      "onboard_time": 1693023276,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377634,
@@ -6761,6 +6793,14 @@
       "onboard_time": 1692707796,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 377487,
+      "num": 377487,
+      "word": "徐良哥哥助力区第一",
+      "onboard_time": 1693022795,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 377202,
@@ -6819,6 +6859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 373495,
+      "num": 373495,
+      "word": "女子电梯内分娩后将婴儿丢垃圾桶",
+      "onboard_time": 1693018115,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373121,
       "num": 373121,
       "word": "女子称熬夜致免疫力低下确诊紫癜",
@@ -6841,14 +6889,6 @@
       "onboard_time": 1692760542,
       "rank": 47,
       "category": "情感,时尚"
-    },
-    {
-      "raw_hot": 371628,
-      "num": 371628,
-      "word": "徐海乔 公主保安随时站岗",
-      "onboard_time": 1693022616,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 371427,
@@ -6881,14 +6921,6 @@
       "onboard_time": 1692782499,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 370414,
-      "num": 365829,
-      "word": "女子电梯内分娩后将婴儿丢垃圾桶",
-      "onboard_time": 1693018115,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369951,
@@ -9571,6 +9603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258991,
+      "num": 258991,
+      "word": "我们给他一次生命他还了两次",
+      "onboard_time": 1693022195,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258666,
       "num": 258666,
       "word": "陈牧驰发誓绝不塌房",
@@ -9715,14 +9755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254704,
-      "num": 254704,
-      "word": "徐良哥哥助力区第一",
-      "onboard_time": 1693022795,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253048,
       "num": 253048,
       "word": "于适脸和身材的反差",
@@ -9777,6 +9809,14 @@
       "onboard_time": 1692948399,
       "rank": 49,
       "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 248715,
+      "num": 248715,
+      "word": "齐司礼",
+      "onboard_time": 1693024117,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 248321,
@@ -10323,14 +10363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 230929,
-      "num": 230929,
-      "word": "我们给他一次生命他还了两次",
-      "onboard_time": 1693022195,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229869,
       "num": 199730,
       "word": "还以为马伯骞是心动6男嘉宾",
@@ -10489,6 +10521,22 @@
       "onboard_time": 1692858237,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 224476,
+      "num": 224476,
+      "word": "张杰北京鸟巢站花絮图",
+      "onboard_time": 1693023818,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 224306,
+      "num": 224306,
+      "word": "白日梦我即将上星湖南卫视",
+      "onboard_time": 1693023998,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 224281,
@@ -10739,6 +10787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217404,
+      "num": 217404,
+      "word": "魏大勋上纽约时代广场大屏了",
+      "onboard_time": 1693024177,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217336,
       "num": 217336,
       "word": "玱玹早八相柳早九",
@@ -10849,6 +10905,14 @@
       "onboard_time": 1692841660,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212888,
+      "num": 212888,
+      "word": "张远王耀庆各有各的心眼",
+      "onboard_time": 1693023518,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 212793,
@@ -11009,6 +11073,14 @@
       "onboard_time": 1692716631,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209617,
+      "num": 209617,
+      "word": "代号鸢横幅",
+      "onboard_time": 1693022917,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 209446,
@@ -11353,14 +11425,6 @@
       "onboard_time": 1692788800,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 204117,
-      "num": 204117,
-      "word": "代号鸢横幅",
-      "onboard_time": 1693022917,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 203729,
@@ -12027,14 +12091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192535,
-      "num": 192535,
-      "word": "消失的她",
-      "onboard_time": 1693023399,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 192371,
       "num": 213227,
       "word": "开学新人设多比",
@@ -12219,6 +12275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188874,
+      "num": 188874,
+      "word": "邓为三分钟花絮合集",
+      "onboard_time": 1693023218,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188798,
       "num": 188798,
       "word": "长春电影节入围影片名单",
@@ -12233,14 +12297,6 @@
       "onboard_time": 1692628482,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188629,
-      "num": 188629,
-      "word": "胡锡进 中国渔民和沿海养殖户很无辜",
-      "onboard_time": 1693023276,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188543,
@@ -12425,14 +12481,6 @@
       "onboard_time": 1693018234,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183495,
-      "num": 183495,
-      "word": "邓为三分钟花絮合集",
-      "onboard_time": 1693023218,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 183396,
@@ -14379,6 +14427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49583,
+      "num": 1782329,
+      "word": "杭州亚运会将创下三个之最",
+      "onboard_time": 1692976124,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48882,
       "num": 82975,
       "word": "如何看长春一电台称永不合作中国好声音",
@@ -14473,6 +14529,14 @@
       "onboard_time": 1692597638,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42064,
+      "num": 241070,
+      "word": "华为发布全新大五座问界M7",
+      "onboard_time": 1693023878,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 41831,
@@ -14665,14 +14729,6 @@
       "onboard_time": 1692816497,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30342,
-      "num": 1415468,
-      "word": "杭州亚运会将创下三个之最",
-      "onboard_time": 1692976124,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 30282,
