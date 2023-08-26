@@ -1,0 +1,410 @@
+{
+  "runTime": 1693085628968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 195615,
+        "num": 195615,
+        "word": "日本国内超市停买水产品让日企心态崩了",
+        "onboard_time": 1693044757,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 126771,
+        "num": 126771,
+        "word": "刀郎发微博了",
+        "onboard_time": 1693058866,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11783,
+        "num": 113225,
+        "word": "金砖扩员后GDP占全球近三成",
+        "onboard_time": 1693057783,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128737,
+        "num": 110161,
+        "word": "三场台风正在接近日本",
+        "onboard_time": 1693066533,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102446,
+        "num": 102446,
+        "word": "孟美岐空中坠落",
+        "onboard_time": 1693056760,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96733,
+        "num": 96733,
+        "word": "老人留下一套房产五兄妹和和气气均分",
+        "onboard_time": 1693061803,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65531,
+        "num": 65531,
+        "word": "云之羽",
+        "onboard_time": 1693066058,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59530,
+        "num": 59530,
+        "word": "中国地理评出一生最值得去的20个地方",
+        "onboard_time": 1693058681,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 57141,
+        "num": 57141,
+        "word": "幸亏我生的年代不流行做辅食",
+        "onboard_time": 1693057482,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 51276,
+        "num": 51276,
+        "word": "美国年轻人对日本排核污染水态度",
+        "onboard_time": 1693042776,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125225,
+        "num": 50912,
+        "word": "95后小伙怒砸自己开的日料店",
+        "onboard_time": 1693053157,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122663,
+        "num": 50851,
+        "word": "日料店无日本食材涉虚假宣传吗",
+        "onboard_time": 1693078218,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63797,
+        "num": 50754,
+        "word": "女子拿爱心冰柜整盒藿香正气水被制止",
+        "onboard_time": 1693081514,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50364,
+        "num": 50364,
+        "word": "江苏常州一隧道口发生惨烈车祸",
+        "onboard_time": 1693060186,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45445,
+        "num": 45445,
+        "word": "我国取得可控核聚变重大突破",
+        "onboard_time": 1693058022,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45341,
+        "num": 45341,
+        "word": "太平洋沿岸国有权向日本政府发起核污水索赔",
+        "onboard_time": 1693054778,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 42458,
+        "num": 42458,
+        "word": "黄渤回应开美颜误伤倪妮",
+        "onboard_time": 1693054237,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39547,
+        "num": 39547,
+        "word": "陈楚生和儿子同台表演",
+        "onboard_time": 1693057963,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39491,
+        "num": 39491,
+        "word": "浏览前任婚礼请帖上百次被发现",
+        "onboard_time": 1693046375,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 38968,
+        "num": 38968,
+        "word": "莲花楼结局",
+        "onboard_time": 1693062165,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44789,
+        "num": 38781,
+        "word": "杨幂明年或将不拍综艺",
+        "onboard_time": 1693066773,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42608,
+        "num": 38739,
+        "word": "为什么长辈热衷于叫晚辈早起",
+        "onboard_time": 1693061803,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37636,
+        "num": 37636,
+        "word": "山西致5死27伤旅游大巴事故监控曝光",
+        "onboard_time": 1693059706,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35623,
+        "num": 35623,
+        "word": "这只猫好帅啊",
+        "onboard_time": 1693067494,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 34815,
+        "num": 34815,
+        "word": "高龄产妇羊水栓塞医护奋战27小时抢救",
+        "onboard_time": 1693059283,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34356,
+        "num": 34356,
+        "word": "第10086次被i人朋友震惊到",
+        "onboard_time": 1693072639,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33252,
+        "num": 33252,
+        "word": "扁头在国外居然是病",
+        "onboard_time": 1693071861,
+        "rank": 26,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 32471,
+        "num": 32471,
+        "word": "杨丞琳直接在演唱会搭了一座房子",
+        "onboard_time": 1693062640,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31446,
+        "num": 31446,
+        "word": "范丞丞也有粉色牡丹花床单",
+        "onboard_time": 1693081454,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30454,
+        "num": 30454,
+        "word": "入秋后几天洗一次澡更好",
+        "onboard_time": 1693062343,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30027,
+        "num": 30027,
+        "word": "入职前和入职后",
+        "onboard_time": 1693063665,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 29369,
+        "num": 29369,
+        "word": "伯远现在有什么经济困难吗",
+        "onboard_time": 1693063063,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25760,
+        "num": 25760,
+        "word": "长相思即将上线网飞",
+        "onboard_time": 1693076597,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25653,
+        "num": 25653,
+        "word": "鹿晗50天肌肉变化",
+        "onboard_time": 1693056938,
+        "rank": 33,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 25514,
+        "num": 25514,
+        "word": "吉克隽逸演出时脸被划伤",
+        "onboard_time": 1693063539,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25034,
+        "num": 25034,
+        "word": "食蚁兽喝汤",
+        "onboard_time": 1693080794,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24912,
+        "num": 24912,
+        "word": "周深落泪",
+        "onboard_time": 1693068329,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24643,
+        "num": 24643,
+        "word": "中国男篮不敌塞尔维亚男篮",
+        "onboard_time": 1693064916,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24474,
+        "num": 24474,
+        "word": "婚后是否要上交工资卡",
+        "onboard_time": 1693060426,
+        "rank": 38,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 23946,
+        "num": 23946,
+        "word": "薛之谦发型变形了",
+        "onboard_time": 1693063837,
+        "rank": 39,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 23694,
+        "num": 23694,
+        "word": "央视莲花楼",
+        "onboard_time": 1693063665,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23661,
+        "num": 23661,
+        "word": "原来情绪稳定是被爱出来的",
+        "onboard_time": 1693046136,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23547,
+        "num": 23547,
+        "word": "NCT舞台跳塌了",
+        "onboard_time": 1693057064,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23298,
+        "num": 23298,
+        "word": "好多哥哥去了陈楚生演唱会",
+        "onboard_time": 1693057001,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23034,
+        "num": 23034,
+        "word": "二哥上当",
+        "onboard_time": 1693072100,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22364,
+        "num": 22364,
+        "word": "你好星期六成毅",
+        "onboard_time": 1693053756,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22344,
+        "num": 22344,
+        "word": "邓为说涂山璟和小夭是互相治愈",
+        "onboard_time": 1693061267,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22222,
+        "num": 22222,
+        "word": "陈楚生哭了",
+        "onboard_time": 1693065876,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21899,
+        "num": 21899,
+        "word": "成毅 疯狂的哈基米",
+        "onboard_time": 1693059466,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20043,
+        "num": 21897,
+        "word": "丁程鑫被抓得有始有终",
+        "onboard_time": 1693071683,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席讲话里的真挚情谊#"
+    }
+  }
+}

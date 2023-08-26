@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693084403073,
+  "endTime": 1693085628968,
   "band_list": [
     {
       "raw_hot": 1801184,
@@ -539,20 +539,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 63797,
+      "num": 50754,
+      "word": "女子拿爱心冰柜整盒藿香正气水被制止",
+      "onboard_time": 1693081514,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50135,
       "num": 50135,
       "word": "蔡依林深圳演唱会",
       "onboard_time": 1693074198,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 49390,
-      "num": 42431,
-      "word": "女子拿爱心冰柜整盒藿香正气水被制止",
-      "onboard_time": 1693081514,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48910,
@@ -587,20 +587,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 31446,
+      "num": 31446,
+      "word": "范丞丞也有粉色牡丹花床单",
+      "onboard_time": 1693081454,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31364,
       "num": 31364,
       "word": "食蚁兽喝汤",
       "onboard_time": 1693080794,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28347,
-      "num": 28347,
-      "word": "范丞丞也有粉色牡丹花床单",
-      "onboard_time": 1693081454,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 19862,
