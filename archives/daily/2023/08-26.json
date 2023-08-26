@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693028030316,
+  "endTime": 1693030789882,
   "band_list": [
     {
       "raw_hot": 3494082,
@@ -24,6 +24,14 @@
       "word": "女子遭强奸后未获立案跳水库自杀",
       "onboard_time": 1692976723,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2421878,
+      "num": 2421878,
+      "word": "日媒宣称日本针对中方措施开展外交攻势",
+      "onboard_time": 1693027717,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -121,6 +129,14 @@
       "onboard_time": 1693005744,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1123068,
+      "num": 1123068,
+      "word": "事业单位",
+      "onboard_time": 1693027595,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 1117827,
@@ -419,12 +435,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464531,
+      "num": 464531,
+      "word": "民航局回应南航一航班起飞前有空乘坠落",
+      "onboard_time": 1693027297,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462504,
       "num": 356767,
       "word": "蓝正龙好帅",
       "onboard_time": 1692977742,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 461355,
+      "num": 461355,
+      "word": "建行",
+      "onboard_time": 1693030056,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 459635,
+      "num": 459635,
+      "word": "ChatGPT用aespa Karina作的6行诗",
+      "onboard_time": 1693029516,
+      "rank": 14,
+      "category": "科技,艺人"
     },
     {
       "raw_hot": 458593,
@@ -497,14 +537,6 @@
       "onboard_time": 1693011576,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 396702,
-      "num": 396702,
-      "word": "民航局回应南航一航班起飞前有空乘坠落",
-      "onboard_time": 1693027297,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395469,
@@ -619,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339679,
+      "num": 339679,
+      "word": "杭州女孩厕所反拍偷窥男",
+      "onboard_time": 1693029939,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325574,
       "num": 325574,
       "word": "披荆斩棘的精华都在蔡国庆选歌",
@@ -651,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301483,
+      "num": 301483,
+      "word": "华晨宇鸟巢演唱会今日开票",
+      "onboard_time": 1693021232,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 300583,
       "num": 280825,
       "word": "金华男子上班时得知中了1080万",
@@ -667,14 +715,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 291838,
-      "num": 291838,
-      "word": "事业单位",
-      "onboard_time": 1693027595,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 290176,
       "num": 290176,
       "word": "当甄嬛传娘娘看消失的她",
@@ -683,28 +723,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284997,
-      "num": 284997,
-      "word": "华晨宇鸟巢演唱会今日开票",
-      "onboard_time": 1693021232,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 279939,
       "num": 279939,
       "word": "中国女排击败巴西晋级决赛",
       "onboard_time": 1693008932,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 279033,
-      "num": 279033,
-      "word": "日媒宣称日本针对中方措施开展外交攻势",
-      "onboard_time": 1693027717,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276665,
@@ -1011,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203906,
+      "num": 203906,
+      "word": "成毅曾舜晞肖顺尧合体舞剑",
+      "onboard_time": 1693030356,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202487,
       "num": 202487,
       "word": "成毅反应速度",
@@ -1211,6 +1243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178277,
+      "num": 178277,
+      "word": "人类高质量乒乓球女双对决",
+      "onboard_time": 1693030415,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178106,
       "num": 178106,
       "word": "小企鹅发疯表情包",
@@ -1331,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148745,
+      "num": 148745,
+      "word": "面具摘下来的时候给我看愣了",
+      "onboard_time": 1693030592,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146108,
       "num": 146108,
       "word": "莫言上学也是学了就忘",
@@ -1409,6 +1457,14 @@
       "onboard_time": 1693012296,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126841,
+      "num": 126841,
+      "word": "曾舜晞新中式剧照",
+      "onboard_time": 1693029393,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 126428,

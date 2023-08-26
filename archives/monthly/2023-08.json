@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693028030316,
+  "endTime": 1693030789882,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1825,6 +1825,14 @@
       "onboard_time": 1691498802,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2421878,
+      "num": 2421878,
+      "word": "日媒宣称日本针对中方措施开展外交攻势",
+      "onboard_time": 1693027717,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2412356,
@@ -8305,6 +8313,14 @@
       "onboard_time": 1691846860,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1123068,
+      "num": 1123068,
+      "word": "事业单位",
+      "onboard_time": 1693027595,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 1122698,
@@ -26299,6 +26315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 464531,
+      "num": 464531,
+      "word": "民航局回应南航一航班起飞前有空乘坠落",
+      "onboard_time": 1693027297,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464362,
       "num": 375234,
       "word": "柳岩瘦下来的状态",
@@ -26507,6 +26531,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 461355,
+      "num": 461355,
+      "word": "建行",
+      "onboard_time": 1693030056,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 461313,
       "num": 461313,
       "word": "女子因被蚂蚁咬烧蚁窝引燃70亩森林",
@@ -26609,6 +26641,14 @@
       "onboard_time": 1690856854,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 459635,
+      "num": 459635,
+      "word": "ChatGPT用aespa Karina作的6行诗",
+      "onboard_time": 1693029516,
+      "rank": 14,
+      "category": "科技,艺人"
     },
     {
       "raw_hot": 459090,
@@ -30865,14 +30905,6 @@
       "onboard_time": 1691051255,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 396702,
-      "num": 396702,
-      "word": "民航局回应南航一航班起飞前有空乘坠落",
-      "onboard_time": 1693027297,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396665,
@@ -35499,6 +35531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339679,
+      "num": 339679,
+      "word": "杭州女孩厕所反拍偷窥男",
+      "onboard_time": 1693029939,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339388,
       "num": 339388,
       "word": "邓为涂山璟登顶角色吸粉榜",
@@ -39139,6 +39179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301483,
+      "num": 301483,
+      "word": "华晨宇鸟巢演唱会今日开票",
+      "onboard_time": 1693021232,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 301434,
       "num": 237170,
       "word": "闵玧其将入伍",
@@ -40251,14 +40299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 291838,
-      "num": 291838,
-      "word": "事业单位",
-      "onboard_time": 1693027595,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 291733,
       "num": 228106,
       "word": "Ella感谢前男友",
@@ -41067,14 +41107,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 284997,
-      "num": 284997,
-      "word": "华晨宇鸟巢演唱会今日开票",
-      "onboard_time": 1693021232,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 284984,
       "num": 279088,
       "word": "彭昱畅新剧4集哭了7次",
@@ -41809,14 +41841,6 @@
       "onboard_time": 1692326016,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 279033,
-      "num": 279033,
-      "word": "日媒宣称日本针对中方措施开展外交攻势",
-      "onboard_time": 1693027717,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278938,
@@ -52763,6 +52787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203906,
+      "num": 203906,
+      "word": "成毅曾舜晞肖顺尧合体舞剑",
+      "onboard_time": 1693030356,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203881,
       "num": 208345,
       "word": "亚洲超星团选手首亮相",
@@ -58419,6 +58451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178277,
+      "num": 178277,
+      "word": "人类高质量乒乓球女双对决",
+      "onboard_time": 1693030415,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178106,
       "num": 178106,
       "word": "小企鹅发疯表情包",
@@ -61035,6 +61075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148745,
+      "num": 148745,
+      "word": "面具摘下来的时候给我看愣了",
+      "onboard_time": 1693030592,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148723,
       "num": 148723,
       "word": "蔡徐坤ins",
@@ -62649,6 +62697,14 @@
       "onboard_time": 1692441096,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126841,
+      "num": 126841,
+      "word": "曾舜晞新中式剧照",
+      "onboard_time": 1693029393,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 126737,
