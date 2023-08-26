@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693030789882,
+  "endTime": 1693031643284,
   "band_list": [
     {
       "raw_hot": 3494082,
@@ -8,6 +8,14 @@
       "word": "核污水排海韩国已出现连锁反应",
       "onboard_time": 1693009352,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2938603,
+      "num": 2938603,
+      "word": "日媒宣称日本针对中方措施开展外交攻势",
+      "onboard_time": 1693027717,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -24,14 +32,6 @@
       "word": "女子遭强奸后未获立案跳水库自杀",
       "onboard_time": 1692976723,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2421878,
-      "num": 2421878,
-      "word": "日媒宣称日本针对中方措施开展外交攻势",
-      "onboard_time": 1693027717,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -131,8 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1123068,
-      "num": 1123068,
+      "raw_hot": 1183370,
+      "num": 1183370,
       "word": "事业单位",
       "onboard_time": 1693027595,
       "rank": 26,
@@ -153,6 +153,14 @@
       "onboard_time": 1693021232,
       "rank": 4,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1108191,
+      "num": 461355,
+      "word": "建行",
+      "onboard_time": 1693030056,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 1082407,
@@ -347,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536802,
+      "num": 320995,
+      "word": "某男网红扬言我玩的就是抛妻弃子",
+      "onboard_time": 1693030894,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528633,
       "num": 528633,
       "word": "端妃很像上班时的我",
@@ -403,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 487257,
+      "num": 487257,
+      "word": "民航局回应南航一航班起飞前有空乘坠落",
+      "onboard_time": 1693027297,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485375,
       "num": 485375,
       "word": "马伯骞比观众还观众",
@@ -435,11 +459,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 464531,
-      "num": 464531,
-      "word": "民航局回应南航一航班起飞前有空乘坠落",
-      "onboard_time": 1693027297,
-      "rank": 19,
+      "raw_hot": 464432,
+      "num": 339679,
+      "word": "杭州女孩厕所反拍偷窥男",
+      "onboard_time": 1693029939,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -449,14 +473,6 @@
       "onboard_time": 1692977742,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 461355,
-      "num": 461355,
-      "word": "建行",
-      "onboard_time": 1693030056,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 459635,
@@ -649,14 +665,6 @@
       "onboard_time": 1693026036,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339679,
-      "num": 339679,
-      "word": "杭州女孩厕所反拍偷窥男",
-      "onboard_time": 1693029939,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325574,
@@ -859,6 +867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 241291,
+      "num": 229542,
+      "word": "面具摘下来的时候给我看愣了",
+      "onboard_time": 1693030592,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236851,
       "num": 236851,
       "word": "这张脸看起来就能保护妈妈",
@@ -899,12 +915,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230400,
+      "num": 230400,
+      "word": "成毅曾舜晞肖顺尧合体舞剑",
+      "onboard_time": 1693030356,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228935,
       "num": 213370,
       "word": "鹊刀门传奇",
       "onboard_time": 1693016618,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228548,
+      "num": 228548,
+      "word": "林高远3比0樊振东",
+      "onboard_time": 1693031375,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 224574,
@@ -937,6 +969,14 @@
       "onboard_time": 1693013734,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221088,
+      "num": 221088,
+      "word": "青簪行 补拍",
+      "onboard_time": 1693031556,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 220998,
@@ -1033,14 +1073,6 @@
       "onboard_time": 1693027836,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203906,
-      "num": 203906,
-      "word": "成毅曾舜晞肖顺尧合体舞剑",
-      "onboard_time": 1693030356,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 202487,
@@ -1339,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160195,
+      "num": 160195,
+      "word": "莲花楼番外同人图",
+      "onboard_time": 1693031375,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155199,
       "num": 155199,
       "word": "八仙复活",
@@ -1369,14 +1409,6 @@
       "onboard_time": 1693017156,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148745,
-      "num": 148745,
-      "word": "面具摘下来的时候给我看愣了",
-      "onboard_time": 1693030592,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 146108,
@@ -1441,6 +1473,14 @@
       "onboard_time": 1693007367,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135413,
+      "num": 135413,
+      "word": "71岁奶奶用狗尾巴草编出一个动物园",
+      "onboard_time": 1693031495,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130110,

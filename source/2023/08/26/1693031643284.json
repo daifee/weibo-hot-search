@@ -1,0 +1,410 @@
+{
+  "runTime": 1693031643284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2938603,
+        "num": 2938603,
+        "word": "日媒宣称日本针对中方措施开展外交攻势",
+        "onboard_time": 1693027717,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1503418,
+        "num": 1503418,
+        "word": "核污水排海韩国已出现连锁反应",
+        "onboard_time": 1693009352,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26493,
+        "num": 1304381,
+        "word": "杭州亚运会将创下三个之最",
+        "onboard_time": 1692976124,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1183370,
+        "num": 1183370,
+        "word": "事业单位",
+        "onboard_time": 1693027595,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 916435,
+        "num": 916435,
+        "word": "Angelababy张大大淘汰",
+        "onboard_time": 1693023578,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 844253,
+        "num": 844253,
+        "word": "日本农林水产相称完全没料到中方措施",
+        "onboard_time": 1693022195,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681819,
+        "num": 681819,
+        "word": "张杰说不敢请更多朋友因为没票",
+        "onboard_time": 1693024779,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 647595,
+        "num": 647595,
+        "word": "韩媒说日本拒绝他国对核污水直接取样",
+        "onboard_time": 1693021296,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487257,
+        "num": 487257,
+        "word": "民航局回应南航一航班起飞前有空乘坠落",
+        "onboard_time": 1693027297,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422484,
+        "num": 422484,
+        "word": "周深 史诗级皮肤",
+        "onboard_time": 1693021232,
+        "rank": 9,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1693485,
+        "num": 422254,
+        "word": "周迅 35比我25还年轻",
+        "onboard_time": 1693025918,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1108191,
+        "num": 421867,
+        "word": "建行",
+        "onboard_time": 1693030056,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 579734,
+        "num": 421500,
+        "word": "谁在炒作只有中国反对日本排放核污水",
+        "onboard_time": 1693013074,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523215,
+        "num": 421198,
+        "word": "余承恩从小被捏鼻子",
+        "onboard_time": 1693025797,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420836,
+        "num": 420836,
+        "word": "马龙",
+        "onboard_time": 1693026518,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412912,
+        "num": 412912,
+        "word": "ChatGPT用aespa Karina作的6行诗",
+        "onboard_time": 1693029516,
+        "rank": 15,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 372026,
+        "num": 372026,
+        "word": "女子遭强奸后未获立案跳水库自杀",
+        "onboard_time": 1692976723,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364367,
+        "num": 364367,
+        "word": "男孩暑期打工赚6000感慨还是上学好",
+        "onboard_time": 1693026637,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 330919,
+        "num": 330919,
+        "word": "消失的她",
+        "onboard_time": 1693023399,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324168,
+        "num": 324168,
+        "word": "王心凌前两天做了手术",
+        "onboard_time": 1693015477,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536802,
+        "num": 320995,
+        "word": "某男网红扬言我玩的就是抛妻弃子",
+        "onboard_time": 1693030894,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464432,
+        "num": 317298,
+        "word": "杭州女孩厕所反拍偷窥男",
+        "onboard_time": 1693029939,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300297,
+        "num": 300297,
+        "word": "魏大勋上纽约时代广场大屏了",
+        "onboard_time": 1693024177,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292102,
+        "num": 292102,
+        "word": "莲花楼央视版结局",
+        "onboard_time": 1693013734,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290904,
+        "num": 290904,
+        "word": "华晨宇鸟巢演唱会今日开票",
+        "onboard_time": 1693021232,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283111,
+        "num": 283111,
+        "word": "马伯骞到哪都逃不过被叫哥哥",
+        "onboard_time": 1693026036,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271784,
+        "num": 271784,
+        "word": "原来长期睡不够6小时容易患癌",
+        "onboard_time": 1693012236,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232531,
+        "num": 232531,
+        "word": "蔡国庆晒与儿子合照",
+        "onboard_time": 1693024836,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230757,
+        "num": 230757,
+        "word": "徐良哥哥助力区第一",
+        "onboard_time": 1693022795,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230400,
+        "num": 230400,
+        "word": "成毅曾舜晞肖顺尧合体舞剑",
+        "onboard_time": 1693030356,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241291,
+        "num": 229542,
+        "word": "面具摘下来的时候给我看愣了",
+        "onboard_time": 1693030592,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228548,
+        "num": 228548,
+        "word": "林高远3比0樊振东",
+        "onboard_time": 1693031375,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221088,
+        "num": 221088,
+        "word": "青簪行 补拍",
+        "onboard_time": 1693031556,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180897,
+        "num": 180897,
+        "word": "失去双腿的高一少年坚持参加军训",
+        "onboard_time": 1693027717,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 177940,
+        "num": 177940,
+        "word": "封神",
+        "onboard_time": 1693027177,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177388,
+        "num": 177388,
+        "word": "人类高质量乒乓球女双对决",
+        "onboard_time": 1693030415,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171535,
+        "num": 171535,
+        "word": "鬼才画家因画画引网警关注",
+        "onboard_time": 1693014457,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170500,
+        "num": 170500,
+        "word": "女子缅北脱身后回国自立门户洗钱",
+        "onboard_time": 1693017757,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170306,
+        "num": 170306,
+        "word": "ENHYPEN邮轮签售",
+        "onboard_time": 1693027836,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170249,
+        "num": 170249,
+        "word": "舞台2023二公淘汰赛",
+        "onboard_time": 1693027297,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168209,
+        "num": 168209,
+        "word": "台风或使核污水扑向美国",
+        "onboard_time": 1693013734,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166736,
+        "num": 166736,
+        "word": "女子电梯内分娩后将婴儿丢垃圾桶",
+        "onboard_time": 1693018115,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160195,
+        "num": 160195,
+        "word": "莲花楼番外同人图",
+        "onboard_time": 1693031375,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157482,
+        "num": 157482,
+        "word": "太阳表面惊现巨大黑子",
+        "onboard_time": 1693013919,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149350,
+        "num": 149350,
+        "word": "端妃很像上班时的我",
+        "onboard_time": 1693015658,
+        "rank": 44,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 145205,
+        "num": 145205,
+        "word": "当甄嬛传娘娘看消失的她",
+        "onboard_time": 1693025019,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144645,
+        "num": 144645,
+        "word": "为什么年轻人不愿意吃小龙虾了",
+        "onboard_time": 1693008932,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139679,
+        "num": 139679,
+        "word": "赵本山真敢拍",
+        "onboard_time": 1693013975,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135413,
+        "num": 135413,
+        "word": "71岁奶奶用狗尾巴草编出一个动物园",
+        "onboard_time": 1693031495,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132792,
+        "num": 132792,
+        "word": "女孩用实习工资给妈妈双重惊喜",
+        "onboard_time": 1693013734,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非领导人对话会联合声明#"
+    }
+  }
+}
