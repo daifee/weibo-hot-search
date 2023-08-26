@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693085628968,
+  "endTime": 1693088075243,
   "band_list": [
     {
       "raw_hot": 1801184,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 134473,
-      "num": 60221,
+      "num": 77690,
       "word": "日料店无日本食材涉虚假宣传吗",
       "onboard_time": 1693078218,
       "rank": 11,
@@ -515,12 +515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84499,
+      "num": 77283,
+      "word": "女子拿爱心冰柜整盒藿香正气水被制止",
+      "onboard_time": 1693081514,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82004,
       "num": 95458,
       "word": "谢娜魏大勋没来Hi6又好像来了",
       "onboard_time": 1693056338,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78852,
+      "num": 78852,
+      "word": "暑期档最让人惊喜的男演员",
+      "onboard_time": 1693085713,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 77814,
@@ -539,14 +555,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 63797,
-      "num": 50754,
-      "word": "女子拿爱心冰柜整盒藿香正气水被制止",
-      "onboard_time": 1693081514,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50135,
       "num": 50135,
       "word": "蔡依林深圳演唱会",
@@ -561,6 +569,14 @@
       "onboard_time": 1693076597,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 41058,
+      "num": 41058,
+      "word": "范丞丞也有粉色牡丹花床单",
+      "onboard_time": 1693081454,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 37953,
@@ -585,14 +601,6 @@
       "onboard_time": 1693077674,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31446,
-      "num": 31446,
-      "word": "范丞丞也有粉色牡丹花床单",
-      "onboard_time": 1693081454,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 31364,
