@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693074847794,
+  "endTime": 1693077182968,
   "band_list": [
     {
       "raw_hot": 1801184,
@@ -371,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214359,
+      "num": 214359,
+      "word": "第10086次被i人朋友震惊到",
+      "onboard_time": 1693072639,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213851,
       "num": 213851,
       "word": "中国男篮不敌塞尔维亚男篮",
@@ -451,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144967,
-      "num": 144967,
-      "word": "第10086次被i人朋友震惊到",
-      "onboard_time": 1693072639,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 117239,
       "num": 117239,
       "word": "你好星期六成毅",
@@ -475,20 +475,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 112836,
+      "num": 112836,
+      "word": "扁头在国外居然是病",
+      "onboard_time": 1693071861,
+      "rank": 30,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 111143,
       "num": 111143,
       "word": "周传雄寂寞沙洲冷爷青回",
       "onboard_time": 1693067789,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 109983,
-      "num": 84505,
-      "word": "扁头在国外居然是病",
-      "onboard_time": 1693071861,
-      "rank": 30,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 109829,
@@ -537,6 +537,22 @@
       "onboard_time": 1693074198,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 39877,
+      "num": 39877,
+      "word": "长相思即将上线网飞",
+      "onboard_time": 1693076597,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 37953,
+      "num": 37953,
+      "word": "宝宝狐獴",
+      "onboard_time": 1693074917,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 19862,
