@@ -1,18 +1,18 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693017233520,
+  "endTime": 1693019789926,
   "band_list": [
     {
       "raw_hot": 3494082,
-      "num": 449964,
+      "num": 2599275,
       "word": "核污水排海韩国已出现连锁反应",
       "onboard_time": 1693009352,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2626793,
-      "num": 448083,
+      "raw_hot": 2653492,
+      "num": 495337,
       "word": "谁在炒作只有中国反对日本排放核污水",
       "onboard_time": 1693013074,
       "rank": 38,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2577982,
-      "num": 447319,
+      "num": 490075,
       "word": "女子遭强奸后未获立案跳水库自杀",
       "onboard_time": 1692976723,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2094951,
-      "num": 438399,
+      "num": 485852,
       "word": "日本大使馆提醒在华日本民众不要大声说日语",
       "onboard_time": 1692970660,
       "rank": 11,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1579683,
+      "num": 1579683,
+      "word": "原来长期睡不够6小时容易患癌",
+      "onboard_time": 1693012236,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1530748,
       "num": 1530748,
       "word": "中方在联合国回击日方说辞",
       "onboard_time": 1693011096,
       "rank": 14,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1462004,
-      "num": 1462004,
-      "word": "原来长期睡不够6小时容易患癌",
-      "onboard_time": 1693012236,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1362507,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1082407,
-      "num": 440644,
+      "num": 488420,
       "word": "东电公布水质检测结果",
       "onboard_time": 1693012054,
       "rank": 24,
@@ -99,12 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1054486,
+      "num": 1054486,
+      "word": "女子缅北脱身后回国自立门户洗钱",
+      "onboard_time": 1693017757,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1028991,
       "num": 830144,
       "word": "原来赵丽颖也喜欢蹦迪",
       "onboard_time": 1693008812,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1014949,
+      "num": 493515,
+      "word": "王心凌前两天做了手术",
+      "onboard_time": 1693015477,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1011301,
@@ -123,12 +139,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 888177,
-      "num": 444930,
-      "word": "王心凌前两天做了手术",
-      "onboard_time": 1693015477,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 802889,
+      "num": 802889,
+      "word": "太阳表面惊现巨大黑子",
+      "onboard_time": 1693013919,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769564,
+      "num": 769564,
+      "word": "周冬雨说越长大离女神越远了",
+      "onboard_time": 1693016558,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 761745,
@@ -155,6 +179,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 678111,
+      "num": 678111,
+      "word": "赵本山真敢拍",
+      "onboard_time": 1693013975,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 667508,
       "num": 667508,
       "word": "刘美玲丈夫出轨",
@@ -179,24 +211,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 630326,
-      "num": 630326,
-      "word": "太阳表面惊现巨大黑子",
-      "onboard_time": 1693013919,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 618300,
-      "num": 618300,
-      "word": "赵本山真敢拍",
-      "onboard_time": 1693013975,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 580902,
-      "num": 436834,
+      "num": 487233,
       "word": "台风或使核污水扑向美国",
       "onboard_time": 1693013734,
       "rank": 16,
@@ -259,20 +275,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 496192,
+      "num": 496192,
+      "word": "端妃很像上班时的我",
+      "onboard_time": 1693015658,
+      "rank": 25,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 493084,
       "num": 493084,
       "word": "郭艾伦被驱逐",
       "onboard_time": 1692970360,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 489706,
-      "num": 433438,
-      "word": "周冬雨说越长大离女神越远了",
-      "onboard_time": 1693016558,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 485375,
@@ -323,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415485,
+      "num": 415485,
+      "word": "倪会忠被查",
+      "onboard_time": 1693017757,
+      "rank": 17,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 413276,
       "num": 400431,
       "word": "成毅跳了微信步数为0的舞",
@@ -337,14 +361,6 @@
       "onboard_time": 1693009352,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 403095,
-      "num": 403095,
-      "word": "端妃很像上班时的我",
-      "onboard_time": 1693015658,
-      "rank": 25,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 401086,
@@ -380,11 +396,19 @@
     },
     {
       "raw_hot": 375939,
-      "num": 226857,
+      "num": 243055,
       "word": "鬼才画家因画画引网警关注",
       "onboard_time": 1693014457,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 374020,
+      "num": 330171,
+      "word": "陈晓娜扎演情侣",
+      "onboard_time": 1693018296,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 366526,
@@ -467,8 +491,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292870,
-      "num": 214093,
+      "raw_hot": 299291,
+      "num": 299291,
+      "word": "女子电梯内分娩后将婴儿丢垃圾桶",
+      "onboard_time": 1693018115,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294604,
+      "num": 294604,
       "word": "拜登评价特朗普嫌犯照是帅哥",
       "onboard_time": 1693015776,
       "rank": 43,
@@ -523,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256952,
+      "num": 256952,
+      "word": "财管",
+      "onboard_time": 1693019377,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 252144,
       "num": 252144,
       "word": "大熊猫吃西瓜只吃红瓤瓤",
@@ -569,6 +609,14 @@
       "onboard_time": 1693010435,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236200,
+      "num": 236200,
+      "word": "李宇春在吴青峰面前cue田馥甄",
+      "onboard_time": 1693018837,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 235845,
@@ -619,6 +667,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214750,
+      "num": 214750,
+      "word": "张杰听到脱掉的反应",
+      "onboard_time": 1693017575,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 213897,
+      "num": 213897,
+      "word": "女孩用实习工资给妈妈双重惊喜",
+      "onboard_time": 1693013734,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208678,
       "num": 208678,
       "word": "原来身上的泥不能用力搓",
@@ -635,20 +699,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207554,
-      "num": 207554,
-      "word": "女孩用实习工资给妈妈双重惊喜",
-      "onboard_time": 1693013734,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207010,
       "num": 207010,
       "word": "屈楚萧角色严选",
       "onboard_time": 1693016677,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202487,
+      "num": 202487,
+      "word": "成毅反应速度",
+      "onboard_time": 1693019255,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202399,
+      "num": 202399,
+      "word": "演唱会大屏上的女明星",
+      "onboard_time": 1693016558,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 202093,
@@ -675,6 +747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199105,
+      "num": 199105,
+      "word": "桃花坞问卷",
+      "onboard_time": 1693019136,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196049,
       "num": 196049,
       "word": "鹿晗评论区的今天星期五",
@@ -697,14 +777,6 @@
       "onboard_time": 1692974385,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193415,
-      "num": 193415,
-      "word": "演唱会大屏上的女明星",
-      "onboard_time": 1693016558,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 190436,
@@ -736,6 +808,14 @@
       "word": "涂山璟被扯碎九尾画面",
       "onboard_time": 1692968320,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183532,
+      "num": 183532,
+      "word": "田曦薇李玉湖e人",
+      "onboard_time": 1693018234,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -801,6 +881,14 @@
       "onboard_time": 1692971441,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170137,
+      "num": 170137,
+      "word": "小小年纪就知道怎么捍卫自己",
+      "onboard_time": 1693019196,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 169821,
@@ -993,6 +1081,14 @@
       "onboard_time": 1693003159,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 78452,
+      "num": 130261,
+      "word": "复刻碟中谍面具破解手机人脸识别",
+      "onboard_time": 1693018356,
+      "rank": 49,
+      "category": "科技,影视"
     },
     {
       "raw_hot": 70729,
