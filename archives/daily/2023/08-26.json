@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693048373896,
+  "endTime": 1693049623840,
   "band_list": [
     {
       "raw_hot": 3494082,
@@ -35,20 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2451968,
+      "num": 640561,
+      "word": "日本国内超市停买水产品让日企心态崩了",
+      "onboard_time": 1693044757,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2305434,
+      "num": 2305434,
+      "word": "蜜雪冰城出炸串了",
+      "onboard_time": 1693048176,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2265258,
       "num": 2265258,
       "word": "Angelababy张大大淘汰",
       "onboard_time": 1693023578,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2227265,
-      "num": 640561,
-      "word": "日本国内超市停买水产品让日企心态崩了",
-      "onboard_time": 1693044757,
-      "rank": 43,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2135303,
@@ -283,12 +291,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 984520,
+      "num": 516959,
+      "word": "浏览前任婚礼请帖上百次被发现",
+      "onboard_time": 1693046375,
+      "rank": 15,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 933157,
       "num": 933157,
       "word": "CPA审计 好难",
       "onboard_time": 1693019855,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 876609,
+      "num": 876609,
+      "word": "封神第一部票房破24亿",
+      "onboard_time": 1693047575,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 848550,
@@ -467,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 622431,
-      "num": 512474,
-      "word": "浏览前任婚礼请帖上百次被发现",
-      "onboard_time": 1693046375,
-      "rank": 15,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 602400,
       "num": 602400,
       "word": "高铁员工卖明星行程获利19万元",
@@ -537,14 +553,6 @@
       "onboard_time": 1692972044,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 556683,
-      "num": 556683,
-      "word": "封神第一部票房破24亿",
-      "onboard_time": 1693047575,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 538431,
@@ -763,6 +771,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 447828,
+      "num": 393248,
+      "word": "原来情绪稳定是被爱出来的",
+      "onboard_time": 1693046136,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 446922,
       "num": 446922,
       "word": "财管",
@@ -843,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407659,
+      "num": 407659,
+      "word": "CPA战略",
+      "onboard_time": 1693047457,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 401086,
       "num": 336649,
       "word": "莲花楼是暑期档黑马吗",
@@ -867,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388377,
+      "num": 270876,
+      "word": "他可能不知道游泳池是透明的",
+      "onboard_time": 1693047875,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 381009,
       "num": 332156,
       "word": "成果 200块大巴出国",
@@ -881,14 +913,6 @@
       "onboard_time": 1693022616,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 378557,
-      "num": 378557,
-      "word": "原来情绪稳定是被爱出来的",
-      "onboard_time": 1693046136,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 377487,
@@ -929,14 +953,6 @@
       "onboard_time": 1693018115,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373191,
-      "num": 373191,
-      "word": "CPA战略",
-      "onboard_time": 1693047457,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 366526,
@@ -1011,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338431,
+      "num": 338431,
+      "word": "为什么小夭地位比玱玹高那么多",
+      "onboard_time": 1693045835,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335896,
       "num": 335896,
       "word": "杨紫长相思战绩",
@@ -1043,19 +1067,19 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 328041,
-      "num": 328041,
-      "word": "为什么小夭地位比玱玹高那么多",
-      "onboard_time": 1693045835,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325574,
       "num": 325574,
       "word": "披荆斩棘的精华都在蔡国庆选歌",
       "onboard_time": 1692974026,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 324943,
+      "num": 324943,
+      "word": "为什么成毅一拿剑就变聪明了",
+      "onboard_time": 1693046557,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1081,6 +1105,14 @@
       "onboard_time": 1693045956,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313124,
+      "num": 313124,
+      "word": "杨幂对粉丝说冷静不哭",
+      "onboard_time": 1693047756,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 308364,
@@ -1169,14 +1201,6 @@
       "onboard_time": 1693015776,
       "rank": 43,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 294142,
-      "num": 294142,
-      "word": "为什么成毅一拿剑就变聪明了",
-      "onboard_time": 1693046557,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 293964,
@@ -1283,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263307,
-      "num": 263307,
-      "word": "杨幂对粉丝说冷静不哭",
-      "onboard_time": 1693047756,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262742,
       "num": 262742,
       "word": "被送精神病院千万富翁已自缢身亡",
@@ -1356,7 +1372,7 @@
     },
     {
       "raw_hot": 247639,
-      "num": 774436,
+      "num": 849800,
       "word": "大学新生报道后匆忙返乡救爸爸",
       "onboard_time": 1693040497,
       "rank": 14,
@@ -1369,14 +1385,6 @@
       "onboard_time": 1693043136,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246645,
-      "num": 246645,
-      "word": "蜜雪冰城出炸串了",
-      "onboard_time": 1693048176,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 245330,
@@ -1587,12 +1595,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 218647,
-      "num": 218647,
-      "word": "他可能不知道游泳池是透明的",
-      "onboard_time": 1693047875,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 218513,
+      "num": 218513,
+      "word": "曾舜晞你在干什么",
+      "onboard_time": 1693049017,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 217159,
@@ -1625,6 +1633,14 @@
       "onboard_time": 1693023518,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212533,
+      "num": 212533,
+      "word": "刘雨昕演唱会",
+      "onboard_time": 1693049196,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 211052,
@@ -1840,6 +1856,14 @@
       "word": "八仙饭店吞吐",
       "onboard_time": 1693008089,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193882,
+      "num": 193882,
+      "word": "李斯丹妮剩最后一秒也要消耗猎人",
+      "onboard_time": 1693049259,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -2115,6 +2139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159486,
+      "num": 159486,
+      "word": "魏哲鸣排名",
+      "onboard_time": 1693049497,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155199,
       "num": 155199,
       "word": "八仙复活",
@@ -2307,6 +2339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 91920,
+      "num": 524557,
+      "word": "迷路狗被民警牵去宣传反诈",
+      "onboard_time": 1693047637,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78452,
       "num": 130261,
       "word": "复刻碟中谍面具破解手机人脸识别",
@@ -2425,14 +2465,6 @@
       "onboard_time": 1692982229,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 30376,
-      "num": 524557,
-      "word": "迷路狗被民警牵去宣传反诈",
-      "onboard_time": 1693047637,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28852,
