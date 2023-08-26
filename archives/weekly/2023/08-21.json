@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1693077182968,
+  "endTime": 1693078426580,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -16459,6 +16459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48910,
+      "num": 48910,
+      "word": "长相思即将上线网飞",
+      "onboard_time": 1693076597,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 48882,
       "num": 82975,
       "word": "如何看长春一电台称永不合作中国好声音",
@@ -16595,14 +16603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39877,
-      "num": 39877,
-      "word": "长相思即将上线网飞",
-      "onboard_time": 1693076597,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 39818,
       "num": 211111,
       "word": "AI成了我的开会嘴替",
@@ -16667,6 +16667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37025,
+      "num": 37025,
+      "word": "李宇春成都演唱会",
+      "onboard_time": 1692963939,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 36742,
       "num": 36742,
       "word": "燃冬极速版",
@@ -16721,6 +16729,14 @@
       "onboard_time": 1692907934,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 31567,
+      "num": 31567,
+      "word": "薛之谦遵义",
+      "onboard_time": 1693077674,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 31428,
