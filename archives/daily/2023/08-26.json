@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693038826792,
+  "endTime": 1693041254154,
   "band_list": [
     {
       "raw_hot": 3494082,
@@ -123,8 +123,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1351653,
+      "num": 1351653,
+      "word": "日本核污染水排海 罗刹海市",
+      "onboard_time": 1693035158,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1314482,
-      "num": 461355,
+      "num": 518110,
       "word": "建行",
       "onboard_time": 1693030056,
       "rank": 13,
@@ -148,18 +156,10 @@
     },
     {
       "raw_hot": 1221959,
-      "num": 329221,
+      "num": 331682,
       "word": "某男网红扬言我玩的就是抛妻弃子",
       "onboard_time": 1693030894,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1209542,
-      "num": 1209542,
-      "word": "日本核污染水排海 罗刹海市",
-      "onboard_time": 1693035158,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 830262,
+      "num": 830262,
+      "word": "什么是无效社交",
+      "onboard_time": 1693037196,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 802889,
       "num": 802889,
       "word": "太阳表面惊现巨大黑子",
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 625893,
+      "num": 493059,
+      "word": "南航通报空乘跌落",
+      "onboard_time": 1693039833,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580902,
       "num": 487233,
       "word": "台风或使核污水扑向美国",
@@ -419,8 +435,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554796,
+      "num": 486677,
+      "word": "中国掌握可控核聚变高约束先进控制技术",
+      "onboard_time": 1693039295,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538431,
+      "num": 538431,
+      "word": "80斤太姥姥抱起1岁30斤曾外孙乐开花",
+      "onboard_time": 1693038454,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529359,
-      "num": 328850,
+      "num": 331599,
       "word": "男高中生一餐仅花7.8爸爸心疼落泪",
       "onboard_time": 1693036054,
       "rank": 21,
@@ -451,20 +483,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 520490,
+      "num": 520490,
+      "word": "李俊濠洗脚是全国统一的吗",
+      "onboard_time": 1693037495,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515441,
       "num": 515441,
       "word": "日本水产行业哀鸿遍野",
       "onboard_time": 1692954219,
       "rank": 6,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 514172,
-      "num": 424940,
-      "word": "李俊濠洗脚是全国统一的吗",
-      "onboard_time": 1693037495,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 511478,
@@ -507,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486391,
-      "num": 486391,
-      "word": "什么是无效社交",
-      "onboard_time": 1693037196,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 485375,
       "num": 485375,
       "word": "马伯骞比观众还观众",
@@ -545,6 +569,14 @@
       "onboard_time": 1692969880,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 464652,
+      "num": 464652,
+      "word": "杨幂祝福胡夏进入决赛",
+      "onboard_time": 1693035215,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 464432,
@@ -691,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381576,
+      "num": 381576,
+      "word": "香辣鱿鱼拌饭",
+      "onboard_time": 1693039598,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 381009,
       "num": 332156,
       "word": "成果 200块大巴出国",
@@ -787,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335896,
+      "num": 335896,
+      "word": "杨紫长相思战绩",
+      "onboard_time": 1693037794,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330115,
       "num": 330115,
       "word": "张艺兴最喜欢的一句话",
@@ -795,12 +843,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 327559,
-      "num": 327559,
-      "word": "杨幂祝福胡夏进入决赛",
-      "onboard_time": 1693035215,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 326782,
+      "num": 326782,
+      "word": "杨紫与素人的合影",
+      "onboard_time": 1693040255,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 325574,
@@ -939,14 +987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267166,
-      "num": 267166,
-      "word": "杨紫长相思战绩",
-      "onboard_time": 1693037794,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 266733,
       "num": 266733,
       "word": "李宇春在吴青峰面前cue田馥甄",
@@ -1019,6 +1059,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250801,
+      "num": 250801,
+      "word": "四大伯侯表演课",
+      "onboard_time": 1693040014,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 249704,
+      "num": 249704,
+      "word": "徐良女孩不能输",
+      "onboard_time": 1693040497,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245330,
       "num": 245330,
       "word": "宁泽涛张杰梦幻联动",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1693035575,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244397,
+      "num": 244397,
+      "word": "范丞丞梦回练偶时期",
+      "onboard_time": 1693037794,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 241774,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1693010435,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235929,
+      "num": 235929,
+      "word": "周扬青说Sunnee是最大收获之一",
+      "onboard_time": 1693039715,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 235845,
@@ -1171,6 +1243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222663,
+      "num": 222663,
+      "word": "披荆斩棘里的张栋梁",
+      "onboard_time": 1693038276,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222339,
       "num": 222339,
       "word": "女孩用实习工资给妈妈双重惊喜",
@@ -1235,14 +1315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209764,
-      "num": 209764,
-      "word": "披荆斩棘里的张栋梁",
-      "onboard_time": 1693038276,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209617,
       "num": 209617,
       "word": "代号鸢横幅",
@@ -1251,28 +1323,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209325,
-      "num": 209325,
-      "word": "范丞丞梦回练偶时期",
-      "onboard_time": 1693037794,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208678,
       "num": 208678,
       "word": "原来身上的泥不能用力搓",
       "onboard_time": 1692969760,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208501,
-      "num": 208501,
-      "word": "80斤太姥姥抱起1岁30斤曾外孙乐开花",
-      "onboard_time": 1693038454,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207920,
@@ -1539,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179166,
+      "num": 179166,
+      "word": "齐思钧看徐良的眼神",
+      "onboard_time": 1693038754,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178277,
       "num": 178277,
       "word": "人类高质量乒乓球女双对决",
@@ -1627,6 +1691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 165324,
+      "num": 165324,
+      "word": "严浩翔何洛洛马启越演员的成长展演",
+      "onboard_time": 1693041157,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164796,
       "num": 164796,
       "word": "费翔见到了自己领养的大熊猫",
@@ -1657,6 +1729,14 @@
       "onboard_time": 1693035334,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155254,
+      "num": 155254,
+      "word": "金熊猫是只什么猫",
+      "onboard_time": 1693041096,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 155199,
@@ -1707,14 +1787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145604,
-      "num": 145604,
-      "word": "齐思钧看徐良的眼神",
-      "onboard_time": 1693038754,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145381,
       "num": 145381,
       "word": "CPGZ",
@@ -1745,6 +1817,14 @@
       "onboard_time": 1693032034,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143081,
+      "num": 143081,
+      "word": "邓为腿太长重心太高的烦恼",
+      "onboard_time": 1693041217,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 140956,
@@ -1891,6 +1971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 59753,
+      "num": 419959,
+      "word": "大学新生报道后匆忙返乡救爸爸",
+      "onboard_time": 1693040497,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51873,
       "num": 1322096,
       "word": "要坚持真正的多边主义",
@@ -1979,7 +2067,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 4208,
+      "raw_hot": 5527,
       "num": 1301389,
       "word": "金砖合作大有可为金砖国家未来可期",
       "onboard_time": 1692933165,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1693041254154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2727763,
+        "num": 2727763,
+        "word": "日媒宣称日本针对中方措施开展外交攻势",
+        "onboard_time": 1693027717,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1351653,
+        "num": 1351653,
+        "word": "日本核污染水排海 罗刹海市",
+        "onboard_time": 1693035158,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5527,
+        "num": 1090918,
+        "word": "金砖合作大有可为金砖国家未来可期",
+        "onboard_time": 1692933165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012219,
+        "num": 1012219,
+        "word": "青簪行 补拍",
+        "onboard_time": 1693031556,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 830262,
+        "num": 830262,
+        "word": "什么是无效社交",
+        "onboard_time": 1693037196,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 662228,
+        "num": 662228,
+        "word": "红海行动2主演阵容",
+        "onboard_time": 1693035695,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 618662,
+        "num": 618662,
+        "word": "核污水排海韩国已出现连锁反应",
+        "onboard_time": 1693009352,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598585,
+        "num": 598585,
+        "word": "日本农林水产相称完全没料到中方措施",
+        "onboard_time": 1693022195,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538431,
+        "num": 538431,
+        "word": "80斤太姥姥抱起1岁30斤曾外孙乐开花",
+        "onboard_time": 1693038454,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520490,
+        "num": 520490,
+        "word": "李俊濠洗脚是全国统一的吗",
+        "onboard_time": 1693037495,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 771459,
+        "num": 518110,
+        "word": "建行",
+        "onboard_time": 1693030056,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 625893,
+        "num": 493059,
+        "word": "南航通报空乘跌落",
+        "onboard_time": 1693039833,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554796,
+        "num": 486677,
+        "word": "中国掌握可控核聚变高约束先进控制技术",
+        "onboard_time": 1693039295,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464652,
+        "num": 464652,
+        "word": "杨幂祝福胡夏进入决赛",
+        "onboard_time": 1693035215,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59753,
+        "num": 419959,
+        "word": "大学新生报道后匆忙返乡救爸爸",
+        "onboard_time": 1693040497,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381576,
+        "num": 381576,
+        "word": "香辣鱿鱼拌饭",
+        "onboard_time": 1693039598,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 433490,
+        "num": 379641,
+        "word": "TFBOYS光脚照",
+        "onboard_time": 1693033476,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 363786,
+        "num": 363786,
+        "word": "男子听信出国月赚120万一下飞机被劝返",
+        "onboard_time": 1693033716,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353272,
+        "num": 353272,
+        "word": "张杰说不敢请更多朋友因为没票",
+        "onboard_time": 1693024779,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 335896,
+        "num": 335896,
+        "word": "杨紫长相思战绩",
+        "onboard_time": 1693037794,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 855999,
+        "num": 331682,
+        "word": "某男网红扬言我玩的就是抛妻弃子",
+        "onboard_time": 1693030894,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492721,
+        "num": 331599,
+        "word": "男高中生一餐仅花7.8爸爸心疼落泪",
+        "onboard_time": 1693036054,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326782,
+        "num": 326782,
+        "word": "杨紫与素人的合影",
+        "onboard_time": 1693040255,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 320852,
+        "num": 320852,
+        "word": "周迅 35比我25还年轻",
+        "onboard_time": 1693025918,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295438,
+        "num": 295438,
+        "word": "张艺兴最喜欢的一句话",
+        "onboard_time": 1693037255,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 250801,
+        "num": 250801,
+        "word": "四大伯侯表演课",
+        "onboard_time": 1693040014,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249704,
+        "num": 249704,
+        "word": "徐良女孩不能输",
+        "onboard_time": 1693040497,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244503,
+        "num": 244503,
+        "word": "原来长期睡不够6小时容易患癌",
+        "onboard_time": 1693012236,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244397,
+        "num": 244397,
+        "word": "范丞丞梦回练偶时期",
+        "onboard_time": 1693037794,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235929,
+        "num": 235929,
+        "word": "周扬青说Sunnee是最大收获之一",
+        "onboard_time": 1693039715,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234736,
+        "num": 234736,
+        "word": "CPA财管",
+        "onboard_time": 1693035637,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224150,
+        "num": 224150,
+        "word": "周深 史诗级皮肤",
+        "onboard_time": 1693021232,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 223921,
+        "num": 223921,
+        "word": "成毅转身梦回李相夷",
+        "onboard_time": 1693038094,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222663,
+        "num": 222663,
+        "word": "披荆斩棘里的张栋梁",
+        "onboard_time": 1693038276,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219898,
+        "num": 219898,
+        "word": "小夭仙品",
+        "onboard_time": 1693034495,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219458,
+        "num": 219458,
+        "word": "国际原子能机构报告无法给予排海正当性",
+        "onboard_time": 1693036174,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205815,
+        "num": 205815,
+        "word": "男孩暑期打工赚6000感慨还是上学好",
+        "onboard_time": 1693026637,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 203918,
+        "num": 203918,
+        "word": "马嘉祺和妈妈遛狗",
+        "onboard_time": 1693034075,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181355,
+        "num": 181355,
+        "word": "林志颖讲到孩子哭了",
+        "onboard_time": 1693035575,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179166,
+        "num": 179166,
+        "word": "齐思钧看徐良的眼神",
+        "onboard_time": 1693038754,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178018,
+        "num": 178018,
+        "word": "Angelababy张大大淘汰",
+        "onboard_time": 1693023578,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165324,
+        "num": 165324,
+        "word": "严浩翔何洛洛马启越演员的成长展演",
+        "onboard_time": 1693041157,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164203,
+        "num": 164203,
+        "word": "面具摘下来的时候给我看愣了",
+        "onboard_time": 1693030592,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157202,
+        "num": 157202,
+        "word": "李维嘉做家务固定步骤",
+        "onboard_time": 1693038215,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155254,
+        "num": 155254,
+        "word": "金熊猫是只什么猫",
+        "onboard_time": 1693041096,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150305,
+        "num": 150305,
+        "word": "谁在炒作只有中国反对日本排放核污水",
+        "onboard_time": 1693013074,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147521,
+        "num": 147521,
+        "word": "华晨宇鸟巢四面台演唱会首场售罄",
+        "onboard_time": 1693035334,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143081,
+        "num": 143081,
+        "word": "邓为腿太长重心太高的烦恼",
+        "onboard_time": 1693041217,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143011,
+        "num": 143011,
+        "word": "女子遭强奸后未获立案跳水库自杀",
+        "onboard_time": 1692976723,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140918,
+        "num": 140918,
+        "word": "樊振东膝盖",
+        "onboard_time": 1693033296,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非领导人对话会#"
+    }
+  }
+}
