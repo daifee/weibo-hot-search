@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693034020740,
+  "endTime": 1693035222556,
   "band_list": [
     {
       "raw_hot": 3494082,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2110838,
-      "num": 2110838,
+      "raw_hot": 2128461,
+      "num": 2128461,
       "word": "青簪行 补拍",
       "onboard_time": 1693031556,
       "rank": 32,
@@ -147,7 +147,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1191645,
+      "raw_hot": 1221959,
       "num": 320995,
       "word": "某男网红扬言我玩的就是抛妻弃子",
       "onboard_time": 1693030894,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783200,
+      "num": 526197,
+      "word": "霸王茶姬 投票",
+      "onboard_time": 1693031795,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 769564,
       "num": 769564,
       "word": "周冬雨说越长大离女神越远了",
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 592419,
+      "num": 592419,
+      "word": "男子听信出国月赚120万一下飞机被劝返",
+      "onboard_time": 1693033716,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580902,
       "num": 487233,
       "word": "台风或使核污水扑向美国",
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562057,
+      "num": 376455,
+      "word": "TFBOYS光脚照",
+      "onboard_time": 1693033476,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 557844,
       "num": 557844,
       "word": "凤凰传奇感谢汪苏泷救场央视秋晚",
@@ -377,14 +401,6 @@
       "onboard_time": 1693015658,
       "rank": 25,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 526197,
-      "num": 526197,
-      "word": "霸王茶姬 投票",
-      "onboard_time": 1693031795,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 525511,
@@ -531,6 +547,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 441641,
+      "num": 441641,
+      "word": "樊振东膝盖",
+      "onboard_time": 1693033296,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 439633,
+      "num": 375226,
+      "word": "马嘉祺和妈妈遛狗",
+      "onboard_time": 1693034075,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436455,
       "num": 354690,
       "word": "李宇春看了封神还知道费翔不能吃薯条",
@@ -553,6 +585,14 @@
       "onboard_time": 1693012834,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410721,
+      "num": 371831,
+      "word": "面具摘下来的时候给我看愣了",
+      "onboard_time": 1693030592,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 408841,
@@ -659,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358435,
-      "num": 358435,
-      "word": "面具摘下来的时候给我看愣了",
-      "onboard_time": 1693030592,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 356431,
       "num": 356431,
       "word": "台风达维或造成海水倒灌日本",
@@ -689,14 +721,6 @@
       "onboard_time": 1693026036,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 326844,
-      "num": 296267,
-      "word": "TFBOYS光脚照",
-      "onboard_time": 1693033476,
-      "rank": 22,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 325574,
@@ -761,6 +785,14 @@
       "onboard_time": 1693015776,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 293964,
+      "num": 275585,
+      "word": "刘嘉玲与唐鹤德合照",
+      "onboard_time": 1693033356,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 290176,
@@ -883,12 +915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249460,
-      "num": 249460,
-      "word": "刘嘉玲与唐鹤德合照",
-      "onboard_time": 1693033356,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 246846,
+      "num": 246846,
+      "word": "小夭仙品",
+      "onboard_time": 1693034495,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 245330,
@@ -1043,12 +1075,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 213815,
+      "num": 213815,
+      "word": "HLE对战DK",
+      "onboard_time": 1693034075,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212888,
       "num": 212888,
       "word": "张远王耀庆各有各的心眼",
       "onboard_time": 1693023518,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211052,
+      "num": 211052,
+      "word": "爸爸带10岁孩子到派出所自首写笔录",
+      "onboard_time": 1693033595,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210785,
@@ -1065,14 +1113,6 @@
       "onboard_time": 1693022917,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209617,
-      "num": 209617,
-      "word": "樊振东膝盖",
-      "onboard_time": 1693033296,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 208678,
@@ -1105,14 +1145,6 @@
       "onboard_time": 1693022857,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204968,
-      "num": 204968,
-      "word": "男子听信出国月赚120万一下飞机被劝返",
-      "onboard_time": 1693033716,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204296,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1692966039,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199960,
+      "num": 199960,
+      "word": "普通人日常容易做错的医疗操作",
+      "onboard_time": 1693033234,
+      "rank": 44,
+      "category": "其它"
     },
     {
       "raw_hot": 199412,
@@ -1291,14 +1331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184283,
-      "num": 184283,
-      "word": "爸爸带10岁孩子到派出所自首写笔录",
-      "onboard_time": 1693033595,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183532,
       "num": 183532,
       "word": "田曦薇李玉湖e人",
@@ -1395,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173339,
+      "num": 173339,
+      "word": "成毅真的明白了吗",
+      "onboard_time": 1693034978,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172449,
       "num": 172449,
       "word": "莲花楼番外同人图",
@@ -1475,19 +1515,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151903,
-      "num": 151903,
-      "word": "普通人日常容易做错的医疗操作",
-      "onboard_time": 1693033234,
-      "rank": 44,
-      "category": "其它"
-    },
-    {
       "raw_hot": 149689,
       "num": 149689,
       "word": "萌娃捡手机交警察顺便表演了个节目",
       "onboard_time": 1693017156,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146891,
+      "num": 146891,
+      "word": "日本核污染水排海 罗刹海市",
+      "onboard_time": 1693035158,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1627,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109204,
+      "num": 389008,
+      "word": "幼童光屁股执竿放羊太爷远处守望",
+      "onboard_time": 1693033234,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106236,
       "num": 81195,
       "word": "警方回应富翁被送精神病院后身亡",
@@ -1723,14 +1771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31818,
-      "num": 389008,
-      "word": "幼童光屁股执竿放羊太爷远处守望",
-      "onboard_time": 1693033234,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31428,
       "num": 502066,
       "word": "无证网约车司机遇温暖执法感动落泪",
@@ -1755,20 +1795,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28852,
+      "num": 234883,
+      "word": "成都车展最方的显眼包",
+      "onboard_time": 1693032816,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28239,
       "num": 28239,
       "word": "年轻人能哭是好事",
       "onboard_time": 1692993074,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18799,
-      "num": 234883,
-      "word": "成都车展最方的显眼包",
-      "onboard_time": 1693032816,
-      "rank": 29,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
