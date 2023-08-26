@@ -1,0 +1,410 @@
+{
+  "runTime": 1693020834831,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2635414,
+        "num": 2635414,
+        "word": "核污水排海韩国已出现连锁反应",
+        "onboard_time": 1693009352,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417255,
+        "num": 1417255,
+        "word": "原来长期睡不够6小时容易患癌",
+        "onboard_time": 1693012236,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29195,
+        "num": 1322096,
+        "word": "要坚持真正的多边主义",
+        "onboard_time": 1692976244,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275222,
+        "num": 1275222,
+        "word": "女子缅北脱身后回国自立门户洗钱",
+        "onboard_time": 1693017757,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933157,
+        "num": 933157,
+        "word": "CPA审计 好难",
+        "onboard_time": 1693019855,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 725471,
+        "num": 725471,
+        "word": "周冬雨说越长大离女神越远了",
+        "onboard_time": 1693016558,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 645371,
+        "num": 645371,
+        "word": "太阳表面惊现巨大黑子",
+        "onboard_time": 1693013919,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602736,
+        "num": 602736,
+        "word": "莲花楼央视版结局",
+        "onboard_time": 1693013734,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528633,
+        "num": 528633,
+        "word": "端妃很像上班时的我",
+        "onboard_time": 1693015658,
+        "rank": 8,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 502880,
+        "num": 502880,
+        "word": "赵本山真敢拍",
+        "onboard_time": 1693013975,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2291458,
+        "num": 494537,
+        "word": "谁在炒作只有中国反对日本排放核污水",
+        "onboard_time": 1693013074,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912672,
+        "num": 485323,
+        "word": "东电公布水质检测结果",
+        "onboard_time": 1693012054,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866651,
+        "num": 481539,
+        "word": "王心凌前两天做了手术",
+        "onboard_time": 1693015477,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 811447,
+        "num": 470854,
+        "word": "女子遭强奸后未获立案跳水库自杀",
+        "onboard_time": 1692976723,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350442,
+        "num": 465239,
+        "word": "中方在联合国回击日方说辞",
+        "onboard_time": 1693011096,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 456178,
+        "num": 456178,
+        "word": "日本大使馆提醒在华日本民众不要大声说日语",
+        "onboard_time": 1692970660,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449225,
+        "num": 449225,
+        "word": "台风或使核污水扑向美国",
+        "onboard_time": 1693013734,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448415,
+        "num": 448415,
+        "word": "倪会忠被查",
+        "onboard_time": 1693017757,
+        "rank": 17,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 446922,
+        "num": 446922,
+        "word": "财管",
+        "onboard_time": 1693019377,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 394989,
+        "num": 394989,
+        "word": "原来赵丽颖也喜欢蹦迪",
+        "onboard_time": 1693008812,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 393550,
+        "num": 393550,
+        "word": "陈晓娜扎演情侣",
+        "onboard_time": 1693018296,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365829,
+        "num": 365829,
+        "word": "女子电梯内分娩后将婴儿丢垃圾桶",
+        "onboard_time": 1693018115,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313057,
+        "num": 313057,
+        "word": "过了三十岁没钱又没房正常吗",
+        "onboard_time": 1693009413,
+        "rank": 22,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 304754,
+        "num": 304754,
+        "word": "为什么年轻人不愿意吃小龙虾了",
+        "onboard_time": 1693008932,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 287530,
+        "num": 287530,
+        "word": "程潇的熊猫冰粉卖爆了",
+        "onboard_time": 1693009772,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281595,
+        "num": 281595,
+        "word": "拜登评价特朗普嫌犯照是帅哥",
+        "onboard_time": 1693015776,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 269894,
+        "num": 269894,
+        "word": "张艺兴谈成为国家话剧院演员",
+        "onboard_time": 1693011335,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266733,
+        "num": 266733,
+        "word": "李宇春在吴青峰面前cue田馥甄",
+        "onboard_time": 1693018837,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256532,
+        "num": 256532,
+        "word": "封神 伯父只是死了",
+        "onboard_time": 1693014217,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230474,
+        "num": 230474,
+        "word": "瑞士向我国返还5件流失文物",
+        "onboard_time": 1693013375,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256661,
+        "num": 228638,
+        "word": "鬼才画家因画画引网警关注",
+        "onboard_time": 1693014457,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226260,
+        "num": 226260,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1693013434,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222339,
+        "num": 222339,
+        "word": "女孩用实习工资给妈妈双重惊喜",
+        "onboard_time": 1693013734,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222037,
+        "num": 222037,
+        "word": "沈梦辰做菜没发现锅着火了",
+        "onboard_time": 1693005263,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217595,
+        "num": 217595,
+        "word": "桃花坞问卷",
+        "onboard_time": 1693019136,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215912,
+        "num": 215912,
+        "word": "张杰听到脱掉的反应",
+        "onboard_time": 1693017575,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211737,
+        "num": 211737,
+        "word": "科目二飞跃围墙",
+        "onboard_time": 1693015298,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209640,
+        "num": 209640,
+        "word": "成毅跳了微信步数为0的舞",
+        "onboard_time": 1693012834,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208286,
+        "num": 208286,
+        "word": "封神 女娲庙的两种立场",
+        "onboard_time": 1693020575,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195179,
+        "num": 195179,
+        "word": "成毅反应速度",
+        "onboard_time": 1693019255,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188160,
+        "num": 188160,
+        "word": "小小年纪就知道怎么捍卫自己",
+        "onboard_time": 1693019196,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 187894,
+        "num": 187894,
+        "word": "谢娜赵丽颖合照",
+        "onboard_time": 1693008992,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184306,
+        "num": 184306,
+        "word": "演唱会大屏上的女明星",
+        "onboard_time": 1693016558,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176866,
+        "num": 176866,
+        "word": "金华男子上班时得知中了1080万",
+        "onboard_time": 1693005744,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175931,
+        "num": 175931,
+        "word": "非遗面人张39年捏了几千只熊猫",
+        "onboard_time": 1693020755,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170874,
+        "num": 170874,
+        "word": "2年被家暴16次女子仍未能离婚",
+        "onboard_time": 1692983187,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156324,
+        "num": 156324,
+        "word": "118一位广式早茶自助",
+        "onboard_time": 1693019855,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 304981,
+        "num": 156303,
+        "word": "上海一日料店上架防辐射套餐",
+        "onboard_time": 1693005744,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156270,
+        "num": 156270,
+        "word": "田曦薇李玉湖e人",
+        "onboard_time": 1693018234,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145816,
+        "num": 145816,
+        "word": "古巨基看金志文秀恩爱攥紧拳头",
+        "onboard_time": 1693015834,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非领导人对话会#"
+    }
+  }
+}

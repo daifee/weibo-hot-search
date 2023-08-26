@@ -1,10 +1,10 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693019789926,
+  "endTime": 1693020834831,
   "band_list": [
     {
       "raw_hot": 3494082,
-      "num": 2599275,
+      "num": 2635414,
       "word": "核污水排海韩国已出现连锁反应",
       "onboard_time": 1693009352,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1275222,
+      "num": 1275222,
+      "word": "女子缅北脱身后回国自立门户洗钱",
+      "onboard_time": 1693017757,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1240855,
       "num": 555084,
       "word": "北京暴雨",
@@ -96,14 +104,6 @@
       "word": "日本一天内两次地震",
       "onboard_time": 1692970478,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1054486,
-      "num": 1054486,
-      "word": "女子缅北脱身后回国自立门户洗钱",
-      "onboard_time": 1693017757,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1693013734,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 933157,
+      "num": 933157,
+      "word": "CPA审计 好难",
+      "onboard_time": 1693019855,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 802889,
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528633,
+      "num": 528633,
+      "word": "端妃很像上班时的我",
+      "onboard_time": 1693015658,
+      "rank": 25,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 525511,
       "num": 525511,
       "word": "八仙饭店",
@@ -273,14 +289,6 @@
       "onboard_time": 1693008992,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 496192,
-      "num": 496192,
-      "word": "端妃很像上班时的我",
-      "onboard_time": 1693015658,
-      "rank": 25,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 493084,
@@ -331,20 +339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448415,
+      "num": 448415,
+      "word": "倪会忠被查",
+      "onboard_time": 1693017757,
+      "rank": 17,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 446922,
+      "num": 446922,
+      "word": "财管",
+      "onboard_time": 1693019377,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 436455,
       "num": 354690,
       "word": "李宇春看了封神还知道费翔不能吃薯条",
       "onboard_time": 1693009834,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 415485,
-      "num": 415485,
-      "word": "倪会忠被查",
-      "onboard_time": 1693017757,
-      "rank": 17,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 413276,
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393550,
+      "num": 393550,
+      "word": "陈晓娜扎演情侣",
+      "onboard_time": 1693018296,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 381009,
       "num": 332156,
       "word": "成果 200块大巴出国",
@@ -403,20 +427,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 374020,
-      "num": 330171,
-      "word": "陈晓娜扎演情侣",
-      "onboard_time": 1693018296,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 366526,
       "num": 330341,
       "word": "为什么年轻人不愿意吃小龙虾了",
       "onboard_time": 1693008932,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 365829,
+      "num": 365829,
+      "word": "女子电梯内分娩后将婴儿丢垃圾桶",
+      "onboard_time": 1693018115,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364569,
@@ -491,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299291,
-      "num": 299291,
-      "word": "女子电梯内分娩后将婴儿丢垃圾桶",
-      "onboard_time": 1693018115,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294604,
       "num": 294604,
       "word": "拜登评价特朗普嫌犯照是帅哥",
@@ -539,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266733,
+      "num": 266733,
+      "word": "李宇春在吴青峰面前cue田馥甄",
+      "onboard_time": 1693018837,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265467,
       "num": 265467,
       "word": "古巨基看金志文秀恩爱攥紧拳头",
@@ -553,14 +577,6 @@
       "onboard_time": 1692955601,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256952,
-      "num": 256952,
-      "word": "财管",
-      "onboard_time": 1693019377,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 252144,
@@ -611,14 +627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 236200,
-      "num": 236200,
-      "word": "李宇春在吴青峰面前cue田馥甄",
-      "onboard_time": 1693018837,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 235845,
       "num": 235845,
       "word": "莲花楼 我角姐哪受过这气",
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222339,
+      "num": 222339,
+      "word": "女孩用实习工资给妈妈双重惊喜",
+      "onboard_time": 1693013734,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220998,
       "num": 220998,
       "word": "张杰鸟巢表白谢娜",
@@ -667,20 +683,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214750,
-      "num": 214750,
+      "raw_hot": 217595,
+      "num": 217595,
+      "word": "桃花坞问卷",
+      "onboard_time": 1693019136,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215912,
+      "num": 215912,
       "word": "张杰听到脱掉的反应",
       "onboard_time": 1693017575,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 213897,
-      "num": 213897,
-      "word": "女孩用实习工资给妈妈双重惊喜",
-      "onboard_time": 1693013734,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208678,
@@ -689,6 +705,14 @@
       "onboard_time": 1692969760,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208286,
+      "num": 208286,
+      "word": "封神 女娲庙的两种立场",
+      "onboard_time": 1693020575,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 207920,
@@ -747,14 +771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199105,
-      "num": 199105,
-      "word": "桃花坞问卷",
-      "onboard_time": 1693019136,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196049,
       "num": 196049,
       "word": "鹿晗评论区的今天星期五",
@@ -793,6 +809,14 @@
       "onboard_time": 1693012475,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188160,
+      "num": 188160,
+      "word": "小小年纪就知道怎么捍卫自己",
+      "onboard_time": 1693019196,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 187681,
@@ -875,20 +899,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175931,
+      "num": 175931,
+      "word": "非遗面人张39年捏了几千只熊猫",
+      "onboard_time": 1693020755,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173899,
       "num": 168943,
       "word": "蜜丝婷直播",
       "onboard_time": 1692971441,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170137,
-      "num": 170137,
-      "word": "小小年纪就知道怎么捍卫自己",
-      "onboard_time": 1693019196,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 169821,
@@ -921,6 +945,14 @@
       "onboard_time": 1693009231,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156324,
+      "num": 156324,
+      "word": "118一位广式早茶自助",
+      "onboard_time": 1693019855,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 155199,
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 51873,
-      "num": 1093974,
+      "num": 1322096,
       "word": "要坚持真正的多边主义",
       "onboard_time": 1692976244,
       "rank": 2,
