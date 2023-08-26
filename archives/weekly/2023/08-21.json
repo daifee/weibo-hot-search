@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1693046025607,
+  "endTime": 1693048373896,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2227265,
+      "num": 640561,
+      "word": "日本国内超市停买水产品让日企心态崩了",
+      "onboard_time": 1693044757,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 2225209,
       "num": 2225209,
       "word": "除了沙溢没人愿意承认这张照片",
@@ -1339,6 +1347,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 1571688,
+      "num": 1389463,
+      "word": "美国年轻人对日本排核污染水态度",
+      "onboard_time": 1693042776,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1540712,
       "num": 661873,
       "word": "符龙飞官宣二胎得女",
@@ -1560,14 +1576,6 @@
       "word": "人体遭遇核辐射最可怕的是DNA断裂",
       "onboard_time": 1692926925,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1389463,
-      "num": 1389463,
-      "word": "美国年轻人对日本排核污染水态度",
-      "onboard_time": 1693042776,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -2281,6 +2289,14 @@
       "onboard_time": 1692891646,
       "rank": 14,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1017899,
+      "num": 1017899,
+      "word": "俞灏明片场哭到浑身颤抖",
+      "onboard_time": 1693046074,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1016317,
@@ -3251,6 +3267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 761636,
+      "num": 535113,
+      "word": "胡兵嘴歪的原因",
+      "onboard_time": 1693046854,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 761185,
       "num": 413417,
       "word": "福岛排放核污水地区瞬时辐射量增加",
@@ -3923,20 +3947,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 640561,
-      "num": 640561,
-      "word": "日本国内超市停买水产品让日企心态崩了",
-      "onboard_time": 1693044757,
-      "rank": 43,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 640366,
       "num": 426134,
       "word": "虞书欣敢穿",
       "onboard_time": 1692840164,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 640233,
+      "num": 557853,
+      "word": "孙子与爷爷走散打爆电话爷爷愣是不接",
+      "onboard_time": 1693043915,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640163,
@@ -4057,6 +4081,14 @@
       "onboard_time": 1692778960,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 622431,
+      "num": 512474,
+      "word": "浏览前任婚礼请帖上百次被发现",
+      "onboard_time": 1693046375,
+      "rank": 15,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 622051,
@@ -4347,6 +4379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 593018,
+      "num": 593018,
+      "word": "安崎怀念THE9合体舞台",
+      "onboard_time": 1693045416,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 591777,
       "num": 591777,
       "word": "新疆吐鲁番西瓜5元一个也难卖",
@@ -4619,20 +4659,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 557853,
-      "num": 557853,
-      "word": "孙子与爷爷走散打爆电话爷爷愣是不接",
-      "onboard_time": 1693043915,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557603,
       "num": 557603,
       "word": "妹妹临终托孤64岁姨妈只身来沪",
       "onboard_time": 1692931303,
       "rank": 17,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 556683,
+      "num": 556683,
+      "word": "封神第一部票房破24亿",
+      "onboard_time": 1693047575,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 556534,
@@ -6635,6 +6675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 409425,
+      "num": 409425,
+      "word": "封神第一部",
+      "onboard_time": 1692694962,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408841,
       "num": 408841,
       "word": "黄继光侄子救人不留姓名",
@@ -7147,6 +7195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378557,
+      "num": 378557,
+      "word": "原来情绪稳定是被爱出来的",
+      "onboard_time": 1693046136,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 377634,
       "num": 377634,
       "word": "相柳角色号大结局会删博吗",
@@ -7241,6 +7297,14 @@
       "onboard_time": 1693018115,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373191,
+      "num": 373191,
+      "word": "CPA战略",
+      "onboard_time": 1693047457,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 373121,
@@ -7401,6 +7465,14 @@
       "onboard_time": 1692861416,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 366361,
+      "num": 366361,
+      "word": "泰国将严查日本进口海产品",
+      "onboard_time": 1693045295,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366308,
@@ -8195,6 +8267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328041,
+      "num": 328041,
+      "word": "为什么小夭地位比玱玹高那么多",
+      "onboard_time": 1693045835,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327903,
       "num": 327903,
       "word": "魏大勋对粉丝的弹幕说谢谢",
@@ -8513,6 +8593,14 @@
       "onboard_time": 1692578139,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 316634,
+      "num": 316634,
+      "word": "南航受伤乘务员正在ICU接受救治",
+      "onboard_time": 1693045956,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315640,
@@ -8915,14 +9003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300341,
-      "num": 300341,
-      "word": "安崎怀念THE9合体舞台",
-      "onboard_time": 1693045416,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 300237,
       "num": 300237,
       "word": "萧亚轩谈身体状态",
@@ -9112,6 +9192,14 @@
       "word": "替全世界感到尴尬",
       "onboard_time": 1692534038,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 294142,
+      "num": 294142,
+      "word": "为什么成毅一拿剑就变聪明了",
+      "onboard_time": 1693046557,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -9460,7 +9548,7 @@
     },
     {
       "raw_hot": 281606,
-      "num": 1048643,
+      "num": 1050438,
       "word": "金熊猫是只什么猫",
       "onboard_time": 1693041096,
       "rank": 44,
@@ -9601,14 +9689,6 @@
       "onboard_time": 1692877607,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273816,
-      "num": 273816,
-      "word": "泰国将严查日本进口海产品",
-      "onboard_time": 1693045295,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273778,
@@ -9977,6 +10057,14 @@
       "onboard_time": 1692682302,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263307,
+      "num": 263307,
+      "word": "杨幂对粉丝说冷静不哭",
+      "onboard_time": 1693047756,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 263304,
@@ -10441,6 +10529,14 @@
       "onboard_time": 1693043136,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246645,
+      "num": 246645,
+      "word": "蜜雪冰城出炸串了",
+      "onboard_time": 1693048176,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 246123,
@@ -11411,6 +11507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218647,
+      "num": 218647,
+      "word": "他可能不知道游泳池是透明的",
+      "onboard_time": 1693047875,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218460,
       "num": 218460,
       "word": "ELVA真的回来了",
@@ -11873,6 +11977,14 @@
       "onboard_time": 1692797498,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208007,
+      "num": 208007,
+      "word": "沧海初空大婚",
+      "onboard_time": 1693047094,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 207978,
@@ -12387,14 +12499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 200364,
-      "num": 175874,
-      "word": "为什么小夭地位比玱玹高那么多",
-      "onboard_time": 1693045835,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200290,
       "num": 200290,
       "word": "成毅丝滑的打戏怎么来的",
@@ -12457,6 +12561,14 @@
       "onboard_time": 1692666460,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 199451,
+      "num": 199451,
+      "word": "解说杯",
+      "onboard_time": 1693048115,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 199412,
@@ -12843,6 +12955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193635,
+      "num": 193635,
+      "word": "音乐剧伪装者兄弟飙戏名场面",
+      "onboard_time": 1693048356,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192962,
       "num": 191331,
       "word": "白鹿七夕手势舞",
@@ -12929,14 +13049,6 @@
       "onboard_time": 1692631536,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191440,
-      "num": 212044,
-      "word": "封神第一部",
-      "onboard_time": 1692694962,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 191242,
@@ -13672,14 +13784,6 @@
       "word": "那一刻青岛人的使命感爆棚",
       "onboard_time": 1692579760,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170218,
-      "num": 170218,
-      "word": "南航受伤乘务员正在ICU接受救治",
-      "onboard_time": 1693045956,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -15641,6 +15745,14 @@
       "onboard_time": 1692982229,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30376,
+      "num": 524557,
+      "word": "迷路狗被民警牵去宣传反诈",
+      "onboard_time": 1693047637,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30367,

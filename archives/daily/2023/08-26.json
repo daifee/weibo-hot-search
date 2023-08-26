@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693046025607,
+  "endTime": 1693048373896,
   "band_list": [
     {
       "raw_hot": 3494082,
@@ -41,6 +41,14 @@
       "onboard_time": 1693023578,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2227265,
+      "num": 640561,
+      "word": "日本国内超市停买水产品让日企心态崩了",
+      "onboard_time": 1693044757,
+      "rank": 43,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2135303,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1571688,
+      "num": 1389463,
+      "word": "美国年轻人对日本排核污染水态度",
+      "onboard_time": 1693042776,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1530748,
       "num": 1530748,
       "word": "中方在联合国回击日方说辞",
@@ -121,14 +137,6 @@
       "onboard_time": 1693024779,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1389463,
-      "num": 1389463,
-      "word": "美国年轻人对日本排核污染水态度",
-      "onboard_time": 1693042776,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1362507,
@@ -233,6 +241,14 @@
       "onboard_time": 1693008812,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1017899,
+      "num": 1017899,
+      "word": "俞灏明片场哭到浑身颤抖",
+      "onboard_time": 1693046074,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1014949,
@@ -355,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 761636,
+      "num": 535113,
+      "word": "胡兵嘴歪的原因",
+      "onboard_time": 1693046854,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 700498,
       "num": 700498,
       "word": "5位舟山医生远赴太平洋守护400多艘中国渔船",
@@ -435,12 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 640561,
-      "num": 640561,
-      "word": "日本国内超市停买水产品让日企心态崩了",
-      "onboard_time": 1693044757,
-      "rank": 43,
-      "category": "社会新闻,财经"
+      "raw_hot": 640233,
+      "num": 557853,
+      "word": "孙子与爷爷走散打爆电话爷爷愣是不接",
+      "onboard_time": 1693043915,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622431,
+      "num": 512474,
+      "word": "浏览前任婚礼请帖上百次被发现",
+      "onboard_time": 1693046375,
+      "rank": 15,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 602400,
@@ -449,6 +481,14 @@
       "onboard_time": 1693044156,
       "rank": 22,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 593018,
+      "num": 593018,
+      "word": "安崎怀念THE9合体舞台",
+      "onboard_time": 1693045416,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 590968,
@@ -491,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557853,
-      "num": 557853,
-      "word": "孙子与爷爷走散打爆电话爷爷愣是不接",
-      "onboard_time": 1693043915,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557844,
       "num": 557844,
       "word": "凤凰传奇感谢汪苏泷救场央视秋晚",
       "onboard_time": 1692972044,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 556683,
+      "num": 556683,
+      "word": "封神第一部票房破24亿",
+      "onboard_time": 1693047575,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 538431,
@@ -787,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 409425,
+      "num": 409425,
+      "word": "封神第一部",
+      "onboard_time": 1693047695,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408841,
       "num": 408841,
       "word": "黄继光侄子救人不留姓名",
@@ -835,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378557,
+      "num": 378557,
+      "word": "原来情绪稳定是被爱出来的",
+      "onboard_time": 1693046136,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 377487,
       "num": 377487,
       "word": "徐良哥哥助力区第一",
@@ -875,12 +931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373191,
+      "num": 373191,
+      "word": "CPA战略",
+      "onboard_time": 1693047457,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 366526,
       "num": 330341,
       "word": "为什么年轻人不愿意吃小龙虾了",
       "onboard_time": 1693008932,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 366361,
+      "num": 366361,
+      "word": "泰国将严查日本进口海产品",
+      "onboard_time": 1693045295,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364569,
@@ -971,6 +1043,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 328041,
+      "num": 328041,
+      "word": "为什么小夭地位比玱玹高那么多",
+      "onboard_time": 1693045835,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325574,
       "num": 325574,
       "word": "披荆斩棘的精华都在蔡国庆选歌",
@@ -992,6 +1072,14 @@
       "word": "这里明明靠近妈妈但怎么让人想哭",
       "onboard_time": 1693004844,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316634,
+      "num": 316634,
+      "word": "南航受伤乘务员正在ICU接受救治",
+      "onboard_time": 1693045956,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1059,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300341,
-      "num": 300341,
-      "word": "安崎怀念THE9合体舞台",
-      "onboard_time": 1693045416,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 299479,
       "num": 299479,
       "word": "华晨宇演唱会",
@@ -1089,6 +1169,14 @@
       "onboard_time": 1693015776,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 294142,
+      "num": 294142,
+      "word": "为什么成毅一拿剑就变聪明了",
+      "onboard_time": 1693046557,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 293964,
@@ -1124,7 +1212,7 @@
     },
     {
       "raw_hot": 281606,
-      "num": 1048643,
+      "num": 1050438,
       "word": "金熊猫是只什么猫",
       "onboard_time": 1693041096,
       "rank": 44,
@@ -1153,14 +1241,6 @@
       "onboard_time": 1692961958,
       "rank": 14,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 273816,
-      "num": 273816,
-      "word": "泰国将严查日本进口海产品",
-      "onboard_time": 1693045295,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272613,
@@ -1201,6 +1281,14 @@
       "onboard_time": 1693015834,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263307,
+      "num": 263307,
+      "word": "杨幂对粉丝说冷静不哭",
+      "onboard_time": 1693047756,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 262742,
@@ -1281,6 +1369,14 @@
       "onboard_time": 1693043136,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246645,
+      "num": 246645,
+      "word": "蜜雪冰城出炸串了",
+      "onboard_time": 1693048176,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 245330,
@@ -1491,6 +1587,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 218647,
+      "num": 218647,
+      "word": "他可能不知道游泳池是透明的",
+      "onboard_time": 1693047875,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217159,
       "num": 217159,
       "word": "长相思主演收官数据",
@@ -1561,6 +1665,14 @@
       "onboard_time": 1692969760,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208007,
+      "num": 208007,
+      "word": "沧海初空大婚",
+      "onboard_time": 1693047094,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 207920,
@@ -1683,20 +1795,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200364,
-      "num": 175874,
-      "word": "为什么小夭地位比玱玹高那么多",
-      "onboard_time": 1693045835,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199960,
       "num": 199960,
       "word": "普通人日常容易做错的医疗操作",
       "onboard_time": 1693033234,
       "rank": 44,
       "category": "其它"
+    },
+    {
+      "raw_hot": 199451,
+      "num": 199451,
+      "word": "解说杯",
+      "onboard_time": 1693048115,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 199412,
@@ -1736,6 +1848,14 @@
       "word": "齐思钧介绍0713用了快乐男声选手编号",
       "onboard_time": 1692974385,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193635,
+      "num": 193635,
+      "word": "音乐剧伪装者兄弟飙戏名场面",
+      "onboard_time": 1693048356,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1943,14 +2063,6 @@
       "num": 171603,
       "word": "71岁奶奶用狗尾巴草编出一个动物园",
       "onboard_time": 1693031495,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170218,
-      "num": 170218,
-      "word": "南航受伤乘务员正在ICU接受救治",
-      "onboard_time": 1693045956,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -2313,6 +2425,14 @@
       "onboard_time": 1692982229,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30376,
+      "num": 524557,
+      "word": "迷路狗被民警牵去宣传反诈",
+      "onboard_time": 1693047637,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28852,
