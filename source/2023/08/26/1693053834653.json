@@ -1,0 +1,410 @@
+{
+  "runTime": 1693053834653,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2588840,
+        "num": 2588840,
+        "word": "日本国内超市停买水产品让日企心态崩了",
+        "onboard_time": 1693044757,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 929427,
+        "num": 929427,
+        "word": "今天晚上好多演唱会",
+        "onboard_time": 1693050217,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100302,
+        "num": 886124,
+        "word": "工作之余航天员们在干什么",
+        "onboard_time": 1693050817,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1486489,
+        "num": 881584,
+        "word": "浏览前任婚礼请帖上百次被发现",
+        "onboard_time": 1693046375,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1034148,
+        "num": 878032,
+        "word": "范丞丞好韩",
+        "onboard_time": 1693049677,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 869788,
+        "num": 869788,
+        "word": "美国年轻人对日本排核污染水态度",
+        "onboard_time": 1693042776,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688934,
+        "num": 688934,
+        "word": "他可能不知道游泳池是透明的",
+        "onboard_time": 1693047875,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 552910,
+        "num": 552910,
+        "word": "魏哲鸣排名",
+        "onboard_time": 1693049497,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541047,
+        "num": 541047,
+        "word": "俞灏明片场哭到浑身颤抖",
+        "onboard_time": 1693046074,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537096,
+        "num": 537096,
+        "word": "封神第一部票房破24亿",
+        "onboard_time": 1693047575,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485485,
+        "num": 485485,
+        "word": "i人的关心总是这么猝不及防",
+        "onboard_time": 1693050639,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473818,
+        "num": 473818,
+        "word": "青簪行 补拍",
+        "onboard_time": 1693031556,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433803,
+        "num": 433803,
+        "word": "胡兵嘴歪的原因",
+        "onboard_time": 1693046854,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310765,
+        "num": 433162,
+        "word": "泰国将严查日本进口海产品",
+        "onboard_time": 1693045295,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231258,
+        "num": 433083,
+        "word": "黄继光侄子下水救3人不留姓名",
+        "onboard_time": 1693051232,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 433027,
+        "num": 433027,
+        "word": "南航受伤乘务员正在ICU接受救治",
+        "onboard_time": 1693045956,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412228,
+        "num": 412228,
+        "word": "中国男篮",
+        "onboard_time": 1693049677,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396761,
+        "num": 396761,
+        "word": "中国男篮vs塞尔维亚男篮",
+        "onboard_time": 1693051836,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380251,
+        "num": 380251,
+        "word": "日本排核污染水后的济南海鲜市场",
+        "onboard_time": 1693042357,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353379,
+        "num": 353379,
+        "word": "大熊猫一边吃竹子一边翘jiojio",
+        "onboard_time": 1693052496,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540137,
+        "num": 353250,
+        "word": "林俊杰北京",
+        "onboard_time": 1693051893,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 498517,
+        "num": 351332,
+        "word": "日媒宣称日本针对中方措施开展外交攻势",
+        "onboard_time": 1693027717,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348977,
+        "num": 348977,
+        "word": "原来情绪稳定是被爱出来的",
+        "onboard_time": 1693046136,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301420,
+        "num": 301420,
+        "word": "真人秀还剩下几分真",
+        "onboard_time": 1693053336,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212071,
+        "num": 284637,
+        "word": "高铁员工卖明星行程获利19万元",
+        "onboard_time": 1693044156,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 281971,
+        "num": 281971,
+        "word": "伯邑考腹肌还远吗",
+        "onboard_time": 1693050575,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274975,
+        "num": 274975,
+        "word": "苏醒被抓也要有成年人的体面",
+        "onboard_time": 1693051177,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273488,
+        "num": 273488,
+        "word": "灼灼风流",
+        "onboard_time": 1693052137,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273123,
+        "num": 273123,
+        "word": "hi6",
+        "onboard_time": 1693052557,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264853,
+        "num": 264853,
+        "word": "严浩翔拉爆四波猎人",
+        "onboard_time": 1693051836,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263236,
+        "num": 263236,
+        "word": "肖战骄阳伴我或将0829定档",
+        "onboard_time": 1693044757,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259198,
+        "num": 259198,
+        "word": "男高中生一餐仅花7.8爸爸心疼落泪",
+        "onboard_time": 1693036054,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255583,
+        "num": 255583,
+        "word": "95后小伙怒砸自己开的日料店",
+        "onboard_time": 1693053157,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254423,
+        "num": 254423,
+        "word": "为什么小夭地位比玱玹高那么多",
+        "onboard_time": 1693045835,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247273,
+        "num": 247273,
+        "word": "你好星期六成毅",
+        "onboard_time": 1693053756,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247075,
+        "num": 247075,
+        "word": "赵继伟失误",
+        "onboard_time": 1693053576,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237253,
+        "num": 237253,
+        "word": "杨幂对粉丝说冷静不哭",
+        "onboard_time": 1693047756,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226059,
+        "num": 226059,
+        "word": "看完最后的真相被闫妮震撼到了",
+        "onboard_time": 1693052860,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223734,
+        "num": 223734,
+        "word": "朱七七和沈浪再续前缘",
+        "onboard_time": 1693052794,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214668,
+        "num": 214668,
+        "word": "孙子与爷爷走散打爆电话爷爷愣是不接",
+        "onboard_time": 1693043915,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210916,
+        "num": 210916,
+        "word": "成毅念绕口令",
+        "onboard_time": 1693053576,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218194,
+        "num": 210579,
+        "word": "杨玏早年腹肌",
+        "onboard_time": 1693050277,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221642,
+        "num": 209648,
+        "word": "为什么成毅一拿剑就变聪明了",
+        "onboard_time": 1693046557,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212376,
+        "num": 208798,
+        "word": "北京一产业园区突遭腾退不退租押金",
+        "onboard_time": 1693053336,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 207863,
+        "num": 207863,
+        "word": "它从小离开妈妈来你家",
+        "onboard_time": 1693049978,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 199665,
+        "num": 199665,
+        "word": "相柳眼神戏安利图",
+        "onboard_time": 1693052313,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197725,
+        "num": 197725,
+        "word": "LCK有自己的EDG",
+        "onboard_time": 1693044632,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197376,
+        "num": 197376,
+        "word": "周深指导吴垚滔写歌词",
+        "onboard_time": 1693052618,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196088,
+        "num": 196088,
+        "word": "曾舜晞你在干什么",
+        "onboard_time": 1693049017,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187879,
+        "num": 187879,
+        "word": "80斤太姥姥抱起1岁30斤曾外孙乐开花",
+        "onboard_time": 1693038454,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非领导人对话会联合声明#"
+    }
+  }
+}

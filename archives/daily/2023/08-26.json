@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693052905708,
+  "endTime": 1693053834653,
   "band_list": [
     {
       "raw_hot": 3494082,
@@ -131,6 +131,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1486489,
+      "num": 977270,
+      "word": "浏览前任婚礼请帖上百次被发现",
+      "onboard_time": 1693046375,
+      "rank": 15,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1471588,
       "num": 1471588,
       "word": "南航通报空乘跌落",
@@ -145,14 +153,6 @@
       "onboard_time": 1693024779,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1425723,
-      "num": 977270,
-      "word": "浏览前任婚礼请帖上百次被发现",
-      "onboard_time": 1693046375,
-      "rank": 15,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1362507,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1034148,
+      "num": 954514,
+      "word": "范丞丞好韩",
+      "onboard_time": 1693049677,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1028991,
       "num": 830144,
       "word": "原来赵丽颖也喜欢蹦迪",
@@ -307,20 +315,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 954514,
-      "num": 954514,
-      "word": "范丞丞好韩",
-      "onboard_time": 1693049677,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 933157,
       "num": 933157,
       "word": "CPA审计 好难",
       "onboard_time": 1693019855,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 929427,
+      "num": 929427,
+      "word": "今天晚上好多演唱会",
+      "onboard_time": 1693050217,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 876609,
@@ -427,12 +435,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 684906,
-      "num": 684906,
-      "word": "今天晚上好多演唱会",
-      "onboard_time": 1693050217,
-      "rank": 7,
-      "category": "音乐"
+      "raw_hot": 688934,
+      "num": 688934,
+      "word": "他可能不知道游泳池是透明的",
+      "onboard_time": 1693047875,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 681830,
@@ -481,14 +489,6 @@
       "onboard_time": 1693035695,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 662542,
-      "num": 662542,
-      "word": "他可能不知道游泳池是透明的",
-      "onboard_time": 1693047875,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 661780,
@@ -585,6 +585,14 @@
       "onboard_time": 1692972044,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 540137,
+      "num": 353250,
+      "word": "林俊杰北京",
+      "onboard_time": 1693051893,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 538431,
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485485,
+      "num": 485485,
+      "word": "i人的关心总是这么猝不及防",
+      "onboard_time": 1693050639,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 485375,
       "num": 485375,
       "word": "马伯骞比观众还观众",
@@ -721,14 +737,6 @@
       "onboard_time": 1693023276,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467119,
-      "num": 295691,
-      "word": "林俊杰北京",
-      "onboard_time": 1693051893,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 466315,
@@ -851,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433027,
+      "num": 433027,
+      "word": "南航受伤乘务员正在ICU接受救治",
+      "onboard_time": 1693045956,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432358,
       "num": 432358,
       "word": "中国男篮",
@@ -921,6 +937,14 @@
       "onboard_time": 1693011576,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 396761,
+      "num": 396761,
+      "word": "中国男篮vs塞尔维亚男篮",
+      "onboard_time": 1693051836,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 395469,
@@ -1012,7 +1036,7 @@
     },
     {
       "raw_hot": 366361,
-      "num": 433146,
+      "num": 433162,
       "word": "泰国将严查日本进口海产品",
       "onboard_time": 1693045295,
       "rank": 31,
@@ -1032,14 +1056,6 @@
       "word": "七仔你是多久没洗澡了",
       "onboard_time": 1693044696,
       "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 362257,
-      "num": 362257,
-      "word": "i人的关心总是这么猝不及防",
-      "onboard_time": 1693050639,
-      "rank": 17,
       "category": "幽默"
     },
     {
@@ -1065,6 +1081,14 @@
       "onboard_time": 1693013434,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353379,
+      "num": 353379,
+      "word": "大熊猫一边吃竹子一边翘jiojio",
+      "onboard_time": 1693052496,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350997,
@@ -1163,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316634,
-      "num": 316634,
-      "word": "南航受伤乘务员正在ICU接受救治",
-      "onboard_time": 1693045956,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313124,
       "num": 313124,
       "word": "杨幂对粉丝说冷静不哭",
@@ -1235,6 +1251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 301420,
+      "num": 301420,
+      "word": "真人秀还剩下几分真",
+      "onboard_time": 1693053336,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300583,
       "num": 280825,
       "word": "金华男子上班时得知中了1080万",
@@ -1281,14 +1305,6 @@
       "onboard_time": 1693044156,
       "rank": 27,
       "category": "作品衍生,社会新闻"
-    },
-    {
-      "raw_hot": 292982,
-      "num": 292982,
-      "word": "中国男篮vs塞尔维亚男篮",
-      "onboard_time": 1693051836,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 290194,
@@ -1339,6 +1355,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 273488,
+      "num": 273488,
+      "word": "灼灼风流",
+      "onboard_time": 1693052137,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 273123,
+      "num": 273123,
+      "word": "hi6",
+      "onboard_time": 1693052557,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272613,
       "num": 272613,
       "word": "桃花坞问卷",
@@ -1379,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264853,
+      "num": 264853,
+      "word": "严浩翔拉爆四波猎人",
+      "onboard_time": 1693051836,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262742,
       "num": 262742,
       "word": "被送精神病院千万富翁已自缢身亡",
@@ -1395,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 260817,
-      "num": 260817,
-      "word": "严浩翔拉爆四波猎人",
-      "onboard_time": 1693051836,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258991,
       "num": 258991,
       "word": "我们给他一次生命他还了两次",
@@ -1416,6 +1448,14 @@
       "word": "骑手小哥回应1分钟救下整栋楼",
       "onboard_time": 1693020994,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255583,
+      "num": 255583,
+      "word": "95后小伙怒砸自己开的日料店",
+      "onboard_time": 1693053157,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1457,6 +1497,22 @@
       "onboard_time": 1693040497,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247273,
+      "num": 247273,
+      "word": "你好星期六成毅",
+      "onboard_time": 1693053756,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247075,
+      "num": 247075,
+      "word": "赵继伟失误",
+      "onboard_time": 1693053576,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 246760,
@@ -1579,20 +1635,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231891,
-      "num": 231891,
-      "word": "灼灼风流",
-      "onboard_time": 1693052137,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 231602,
       "num": 231602,
       "word": "舞台2023二公淘汰赛",
       "onboard_time": 1693027297,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231258,
+      "num": 433083,
+      "word": "黄继光侄子下水救3人不留姓名",
+      "onboard_time": 1693051232,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230400,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1693034978,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226059,
+      "num": 226059,
+      "word": "看完最后的真相被闫妮震撼到了",
+      "onboard_time": 1693052860,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 225498,
@@ -1665,6 +1729,14 @@
       "onboard_time": 1693013016,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223734,
+      "num": 223734,
+      "word": "朱七七和沈浪再续前缘",
+      "onboard_time": 1693052794,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 223614,
@@ -1715,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218194,
+      "num": 210579,
+      "word": "杨玏早年腹肌",
+      "onboard_time": 1693050277,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217159,
       "num": 217159,
       "word": "长相思主演收官数据",
@@ -1763,6 +1843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 212376,
+      "num": 208798,
+      "word": "北京一产业园区突遭腾退不退租押金",
+      "onboard_time": 1693053336,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 211052,
       "num": 211052,
       "word": "爸爸带10岁孩子到派出所自首写笔录",
@@ -1776,6 +1864,14 @@
       "word": "周深指导吴垚滔写歌词",
       "onboard_time": 1693052618,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210916,
+      "num": 210916,
+      "word": "成毅念绕口令",
+      "onboard_time": 1693053576,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1801,14 +1897,6 @@
       "onboard_time": 1693022917,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209568,
-      "num": 209568,
-      "word": "杨玏早年腹肌",
-      "onboard_time": 1693050277,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 208678,
@@ -1937,14 +2025,6 @@
       "onboard_time": 1693025859,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201353,
-      "num": 201353,
-      "word": "hi6",
-      "onboard_time": 1693052557,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 201289,
@@ -2147,28 +2227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181550,
-      "num": 181550,
-      "word": "朱七七和沈浪再续前缘",
-      "onboard_time": 1693052794,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 180867,
       "num": 169283,
       "word": "林俊杰音乐节",
       "onboard_time": 1692972044,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179935,
-      "num": 179935,
-      "word": "大熊猫一边吃竹子一边翘jiojio",
-      "onboard_time": 1693052496,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179166,
@@ -2265,14 +2329,6 @@
       "onboard_time": 1692964417,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 168241,
-      "num": 168241,
-      "word": "看完最后的真相被闫妮震撼到了",
-      "onboard_time": 1693052860,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 164796,
@@ -2459,14 +2515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 124201,
-      "num": 432589,
-      "word": "黄继光侄子下水救3人不留姓名",
-      "onboard_time": 1693051232,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119809,
       "num": 137610,
       "word": "怎么储存虾",
@@ -2499,7 +2547,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98349,
+      "raw_hot": 100302,
       "num": 987578,
       "word": "工作之余航天员们在干什么",
       "onboard_time": 1693050817,
