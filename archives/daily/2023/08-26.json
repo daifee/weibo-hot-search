@@ -1,7 +1,15 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693056824503,
+  "endTime": 1693059215580,
   "band_list": [
+    {
+      "raw_hot": 3741138,
+      "num": 3741138,
+      "word": "孟美岐空中坠落",
+      "onboard_time": 1693056760,
+      "rank": 27,
+      "category": "综艺"
+    },
     {
       "raw_hot": 3494082,
       "num": 3292325,
@@ -195,6 +203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1313634,
+      "num": 1313634,
+      "word": "张晚意谈和杨紫二搭",
+      "onboard_time": 1693057361,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1275222,
       "num": 1275222,
       "word": "女子缅北脱身后回国自立门户洗钱",
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1074733,
+      "num": 1074733,
+      "word": "谢娜魏大勋没来Hi6又好像来了",
+      "onboard_time": 1693056338,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1066444,
       "num": 1066444,
       "word": "日本一天内两次地震",
@@ -289,6 +313,14 @@
       "onboard_time": 1693054536,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1042264,
+      "num": 1042264,
+      "word": "太平洋沿岸国有权向日本政府发起核污水索赔",
+      "onboard_time": 1693054778,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1034148,
@@ -355,6 +387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 906924,
+      "num": 906924,
+      "word": "莲花楼",
+      "onboard_time": 1693057669,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 876609,
       "num": 876609,
       "word": "封神第一部票房破24亿",
@@ -377,6 +417,14 @@
       "onboard_time": 1693025797,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 837588,
+      "num": 398582,
+      "word": "陈楚生和儿子同台表演",
+      "onboard_time": 1693057963,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 830262,
@@ -457,6 +505,22 @@
       "onboard_time": 1693051893,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 728728,
+      "num": 614760,
+      "word": "NCT舞台跳塌了",
+      "onboard_time": 1693057064,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 704017,
+      "num": 601270,
+      "word": "95后小伙怒砸自己开的日料店",
+      "onboard_time": 1693053157,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700498,
@@ -555,11 +619,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632279,
-      "num": 595895,
-      "word": "谢娜魏大勋没来Hi6又好像来了",
-      "onboard_time": 1693056338,
-      "rank": 11,
+      "raw_hot": 638277,
+      "num": 571113,
+      "word": "刀郎发微博了",
+      "onboard_time": 1693058866,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 637874,
+      "num": 637874,
+      "word": "中国男篮vs塞尔维亚男篮",
+      "onboard_time": 1693051836,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 612191,
+      "num": 390962,
+      "word": "你好星期六下期时代少年团",
+      "onboard_time": 1693056698,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -593,14 +673,6 @@
       "onboard_time": 1693039598,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 587346,
-      "num": 587346,
-      "word": "太平洋沿岸国有权向日本政府发起核污水索赔",
-      "onboard_time": 1693054778,
-      "rank": 24,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 586319,
@@ -641,14 +713,6 @@
       "onboard_time": 1692972044,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 544393,
-      "num": 400598,
-      "word": "95后小伙怒砸自己开的日料店",
-      "onboard_time": 1693053157,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 538431,
@@ -739,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 498695,
-      "num": 498695,
-      "word": "中国男篮vs塞尔维亚男篮",
-      "onboard_time": 1693051836,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 493084,
       "num": 493084,
       "word": "郭艾伦被驱逐",
@@ -793,6 +849,22 @@
       "onboard_time": 1693044632,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 479633,
+      "num": 219809,
+      "word": "李凯尔9中0",
+      "onboard_time": 1693058681,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 479479,
+      "num": 381520,
+      "word": "鹿晗50天肌肉变化",
+      "onboard_time": 1693056938,
+      "rank": 22,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 478506,
@@ -867,6 +939,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 454927,
+      "num": 217312,
+      "word": "幸亏我生的年代不流行做辅食",
+      "onboard_time": 1693057482,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 453318,
+      "num": 309308,
+      "word": "好多哥哥去了陈楚生演唱会",
+      "onboard_time": 1693057001,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 453132,
       "num": 453132,
       "word": "披荆斩棘好抓马",
@@ -907,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441895,
+      "num": 298593,
+      "word": "成毅的衣服都被水泼透明了",
+      "onboard_time": 1693058083,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441641,
       "num": 441641,
       "word": "樊振东膝盖",
@@ -929,6 +1025,14 @@
       "onboard_time": 1693009834,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 434488,
+      "num": 1535821,
+      "word": "我国取得可控核聚变重大突破",
+      "onboard_time": 1693058022,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433027,
@@ -1027,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393604,
+      "num": 212394,
+      "word": "周深说我很想哭",
+      "onboard_time": 1693058145,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393550,
       "num": 393550,
       "word": "陈晓娜扎演情侣",
@@ -1116,7 +1228,7 @@
     },
     {
       "raw_hot": 366361,
-      "num": 539848,
+      "num": 591567,
       "word": "泰国将严查日本进口海产品",
       "onboard_time": 1693045295,
       "rank": 31,
@@ -1184,6 +1296,14 @@
       "word": "马伯骞到哪都逃不过被叫哥哥",
       "onboard_time": 1693026036,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 346823,
+      "num": 207903,
+      "word": "严浩翔泼马嘉祺水杯都泼掉了",
+      "onboard_time": 1693058383,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1347,14 +1467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 301440,
-      "num": 301440,
-      "word": "孟美岐空中坠落",
-      "onboard_time": 1693056760,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300583,
       "num": 280825,
       "word": "金华男子上班时得知中了1080万",
@@ -1419,6 +1531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285441,
+      "num": 285441,
+      "word": "曼联",
+      "onboard_time": 1693058925,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281606,
       "num": 1050438,
       "word": "金熊猫是只什么猫",
@@ -1457,6 +1577,14 @@
       "onboard_time": 1692961958,
       "rank": 14,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 274718,
+      "num": 206461,
+      "word": "薛之谦伦敦巴黎巡演开站",
+      "onboard_time": 1693055738,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 273488,
@@ -1515,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263218,
+      "num": 199727,
+      "word": "丁程鑫泼成毅的这杯水好扎实",
+      "onboard_time": 1693057604,
+      "rank": 42,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 262742,
       "num": 262742,
       "word": "被送精神病院千万富翁已自缢身亡",
@@ -1537,6 +1673,14 @@
       "onboard_time": 1693022195,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258926,
+      "num": 197356,
+      "word": "丁程鑫泼贺峻霖",
+      "onboard_time": 1693057604,
+      "rank": 44,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 256467,
@@ -1747,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233300,
+      "num": 204547,
+      "word": "中国地理评出一生最值得去的20个地方",
+      "onboard_time": 1693058681,
+      "rank": 38,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 231602,
       "num": 231602,
       "word": "舞台2023二公淘汰赛",
@@ -1873,14 +2025,6 @@
       "onboard_time": 1693013734,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221230,
-      "num": 206461,
-      "word": "薛之谦伦敦巴黎巡演开站",
-      "onboard_time": 1693055738,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 220998,
@@ -2227,6 +2371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194886,
+      "num": 194886,
+      "word": "深圳DYG",
+      "onboard_time": 1693058145,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194074,
       "num": 194074,
       "word": "八仙饭店吞吐",
@@ -2507,12 +2659,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157558,
+      "num": 194859,
+      "word": "王哲林暴扣",
+      "onboard_time": 1693057064,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156157,
+      "num": 194563,
+      "word": "F1排位赛",
+      "onboard_time": 1693058268,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155199,
       "num": 155199,
       "word": "八仙复活",
       "onboard_time": 1693008391,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155094,
+      "num": 193968,
+      "word": "羽毛球世锦赛",
+      "onboard_time": 1693059163,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 154043,

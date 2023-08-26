@@ -1,0 +1,410 @@
+{
+  "runTime": 1693059215580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3741138,
+        "num": 3741138,
+        "word": "孟美岐空中坠落",
+        "onboard_time": 1693056760,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2153175,
+        "num": 2153175,
+        "word": "日本国内超市停买水产品让日企心态崩了",
+        "onboard_time": 1693044757,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 434488,
+        "num": 1535821,
+        "word": "我国取得可控核聚变重大突破",
+        "onboard_time": 1693058022,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313634,
+        "num": 1313634,
+        "word": "张晚意谈和杨紫二搭",
+        "onboard_time": 1693057361,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1074733,
+        "num": 1074733,
+        "word": "谢娜魏大勋没来Hi6又好像来了",
+        "onboard_time": 1693056338,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1042264,
+        "num": 1042264,
+        "word": "太平洋沿岸国有权向日本政府发起核污水索赔",
+        "onboard_time": 1693054778,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 925010,
+        "num": 925010,
+        "word": "黄渤回应开美颜误伤倪妮",
+        "onboard_time": 1693054237,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 906924,
+        "num": 906924,
+        "word": "莲花楼",
+        "onboard_time": 1693057669,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 637874,
+        "num": 637874,
+        "word": "中国男篮vs塞尔维亚男篮",
+        "onboard_time": 1693051836,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 635148,
+        "num": 635148,
+        "word": "浏览前任婚礼请帖上百次被发现",
+        "onboard_time": 1693046375,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 839750,
+        "num": 626710,
+        "word": "连名带姓",
+        "onboard_time": 1693054536,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 807683,
+        "num": 621937,
+        "word": "今天晚上好多演唱会",
+        "onboard_time": 1693050217,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 728728,
+        "num": 614760,
+        "word": "NCT舞台跳塌了",
+        "onboard_time": 1693057064,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 704017,
+        "num": 601270,
+        "word": "95后小伙怒砸自己开的日料店",
+        "onboard_time": 1693053157,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263679,
+        "num": 591567,
+        "word": "泰国将严查日本进口海产品",
+        "onboard_time": 1693045295,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698822,
+        "num": 587019,
+        "word": "你好星期六成毅",
+        "onboard_time": 1693053756,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638277,
+        "num": 571113,
+        "word": "刀郎发微博了",
+        "onboard_time": 1693058866,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 568844,
+        "num": 568844,
+        "word": "美国年轻人对日本排核污染水态度",
+        "onboard_time": 1693042776,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410723,
+        "num": 410723,
+        "word": "李凯尔半场0分",
+        "onboard_time": 1693055136,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401179,
+        "num": 401179,
+        "word": "他可能不知道游泳池是透明的",
+        "onboard_time": 1693047875,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 837588,
+        "num": 398582,
+        "word": "陈楚生和儿子同台表演",
+        "onboard_time": 1693057963,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 612191,
+        "num": 390962,
+        "word": "你好星期六下期时代少年团",
+        "onboard_time": 1693056698,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479479,
+        "num": 381520,
+        "word": "鹿晗50天肌肉变化",
+        "onboard_time": 1693056938,
+        "rank": 22,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 368655,
+        "num": 368655,
+        "word": "原来情绪稳定是被爱出来的",
+        "onboard_time": 1693046136,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329521,
+        "num": 329521,
+        "word": "日本排核污染水后的济南海鲜市场",
+        "onboard_time": 1693042357,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453318,
+        "num": 309308,
+        "word": "好多哥哥去了陈楚生演唱会",
+        "onboard_time": 1693057001,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 441895,
+        "num": 298593,
+        "word": "成毅的衣服都被水泼透明了",
+        "onboard_time": 1693058083,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285441,
+        "num": 285441,
+        "word": "曼联",
+        "onboard_time": 1693058925,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240662,
+        "num": 240662,
+        "word": "赵继伟失误",
+        "onboard_time": 1693053576,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224620,
+        "num": 224620,
+        "word": "大熊猫一边吃竹子一边翘jiojio",
+        "onboard_time": 1693052496,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161132,
+        "num": 223845,
+        "word": "迪丽热巴运动风",
+        "onboard_time": 1693054660,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 479633,
+        "num": 219809,
+        "word": "李凯尔9中0",
+        "onboard_time": 1693058681,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454927,
+        "num": 217312,
+        "word": "幸亏我生的年代不流行做辅食",
+        "onboard_time": 1693057482,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 421893,
+        "num": 216667,
+        "word": "林俊杰北京",
+        "onboard_time": 1693051893,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 398487,
+        "num": 213858,
+        "word": "范丞丞好韩",
+        "onboard_time": 1693049677,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393604,
+        "num": 212394,
+        "word": "周深说我很想哭",
+        "onboard_time": 1693058145,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346823,
+        "num": 207903,
+        "word": "严浩翔泼马嘉祺水杯都泼掉了",
+        "onboard_time": 1693058383,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343666,
+        "num": 206826,
+        "word": "龚俊汪苏泷是来给大张伟砸场子的吗",
+        "onboard_time": 1693055264,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233300,
+        "num": 204547,
+        "word": "中国地理评出一生最值得去的20个地方",
+        "onboard_time": 1693058681,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 202646,
+        "num": 202646,
+        "word": "中国男篮",
+        "onboard_time": 1693049677,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291127,
+        "num": 201711,
+        "word": "青簪行 补拍",
+        "onboard_time": 1693031556,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274718,
+        "num": 200832,
+        "word": "薛之谦伦敦巴黎巡演开站",
+        "onboard_time": 1693055738,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263218,
+        "num": 199727,
+        "word": "丁程鑫泼成毅的这杯水好扎实",
+        "onboard_time": 1693057604,
+        "rank": 42,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 197522,
+        "num": 197522,
+        "word": "南航受伤乘务员正在ICU接受救治",
+        "onboard_time": 1693045956,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258926,
+        "num": 197356,
+        "word": "丁程鑫泼贺峻霖",
+        "onboard_time": 1693057604,
+        "rank": 44,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 194886,
+        "num": 194886,
+        "word": "深圳DYG",
+        "onboard_time": 1693058145,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157558,
+        "num": 194859,
+        "word": "王哲林暴扣",
+        "onboard_time": 1693057064,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156157,
+        "num": 194563,
+        "word": "F1排位赛",
+        "onboard_time": 1693058268,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155202,
+        "num": 194304,
+        "word": "高铁员工卖明星行程获利19万元",
+        "onboard_time": 1693044156,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 155094,
+        "num": 193968,
+        "word": "羽毛球世锦赛",
+        "onboard_time": 1693059163,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席讲话里的真挚情谊#"
+    }
+  }
+}
