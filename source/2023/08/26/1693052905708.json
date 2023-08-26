@@ -1,0 +1,410 @@
+{
+  "runTime": 1693052905708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2595205,
+        "num": 2595205,
+        "word": "日本国内超市停买水产品让日企心态崩了",
+        "onboard_time": 1693044757,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1166665,
+        "num": 1166665,
+        "word": "魏哲鸣排名",
+        "onboard_time": 1693049497,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98349,
+        "num": 987578,
+        "word": "工作之余航天员们在干什么",
+        "onboard_time": 1693050817,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425723,
+        "num": 977270,
+        "word": "浏览前任婚礼请帖上百次被发现",
+        "onboard_time": 1693046375,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 954514,
+        "num": 954514,
+        "word": "范丞丞好韩",
+        "onboard_time": 1693049677,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 736658,
+        "num": 736658,
+        "word": "美国年轻人对日本排核污染水态度",
+        "onboard_time": 1693042776,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730449,
+        "num": 730449,
+        "word": "封神第一部票房破24亿",
+        "onboard_time": 1693047575,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 684906,
+        "num": 684906,
+        "word": "今天晚上好多演唱会",
+        "onboard_time": 1693050217,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 662542,
+        "num": 662542,
+        "word": "他可能不知道游泳池是透明的",
+        "onboard_time": 1693047875,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 653138,
+        "num": 658486,
+        "word": "日媒宣称日本针对中方措施开展外交攻势",
+        "onboard_time": 1693027717,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658000,
+        "num": 658000,
+        "word": "俞灏明片场哭到浑身颤抖",
+        "onboard_time": 1693046074,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493670,
+        "num": 493670,
+        "word": "胡兵嘴歪的原因",
+        "onboard_time": 1693046854,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461741,
+        "num": 461741,
+        "word": "青簪行 补拍",
+        "onboard_time": 1693031556,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332901,
+        "num": 433146,
+        "word": "泰国将严查日本进口海产品",
+        "onboard_time": 1693045295,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124201,
+        "num": 432589,
+        "word": "黄继光侄子下水救3人不留姓名",
+        "onboard_time": 1693051232,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432358,
+        "num": 432358,
+        "word": "中国男篮",
+        "onboard_time": 1693049677,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383117,
+        "num": 383117,
+        "word": "伯邑考腹肌还远吗",
+        "onboard_time": 1693050575,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362257,
+        "num": 362257,
+        "word": "i人的关心总是这么猝不及防",
+        "onboard_time": 1693050639,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334028,
+        "num": 334028,
+        "word": "日本排核污染水后的济南海鲜市场",
+        "onboard_time": 1693042357,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298329,
+        "num": 298329,
+        "word": "南航受伤乘务员正在ICU接受救治",
+        "onboard_time": 1693045956,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467119,
+        "num": 295691,
+        "word": "林俊杰北京",
+        "onboard_time": 1693051893,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 336223,
+        "num": 294721,
+        "word": "原来情绪稳定是被爱出来的",
+        "onboard_time": 1693046136,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328031,
+        "num": 294481,
+        "word": "苏醒被抓也要有成年人的体面",
+        "onboard_time": 1693051177,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292982,
+        "num": 292982,
+        "word": "中国男篮vs塞尔维亚男篮",
+        "onboard_time": 1693051836,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229973,
+        "num": 289284,
+        "word": "高铁员工卖明星行程获利19万元",
+        "onboard_time": 1693044156,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 288053,
+        "num": 288053,
+        "word": "肖战骄阳伴我或将0829定档",
+        "onboard_time": 1693044757,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275776,
+        "num": 275776,
+        "word": "杨幂对粉丝说冷静不哭",
+        "onboard_time": 1693047756,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260817,
+        "num": 260817,
+        "word": "严浩翔拉爆四波猎人",
+        "onboard_time": 1693051836,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254860,
+        "num": 254860,
+        "word": "男高中生一餐仅花7.8爸爸心疼落泪",
+        "onboard_time": 1693036054,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248033,
+        "num": 248033,
+        "word": "为什么小夭地位比玱玹高那么多",
+        "onboard_time": 1693045835,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244713,
+        "num": 244713,
+        "word": "80斤太姥姥抱起1岁30斤曾外孙乐开花",
+        "onboard_time": 1693038454,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238369,
+        "num": 238369,
+        "word": "它从小离开妈妈来你家",
+        "onboard_time": 1693049978,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 237695,
+        "num": 237695,
+        "word": "孙子与爷爷走散打爆电话爷爷愣是不接",
+        "onboard_time": 1693043915,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237116,
+        "num": 237116,
+        "word": "相柳眼神戏安利图",
+        "onboard_time": 1693052313,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231891,
+        "num": 231891,
+        "word": "灼灼风流",
+        "onboard_time": 1693052137,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224764,
+        "num": 224764,
+        "word": "文俊辉红棕色卷发",
+        "onboard_time": 1693052377,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 218875,
+        "num": 218875,
+        "word": "CPA战略",
+        "onboard_time": 1693047457,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216588,
+        "num": 216588,
+        "word": "汪苏泷武汉演唱会",
+        "onboard_time": 1693051777,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210945,
+        "num": 210945,
+        "word": "周深指导吴垚滔写歌词",
+        "onboard_time": 1693052618,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209568,
+        "num": 209568,
+        "word": "杨玏早年腹肌",
+        "onboard_time": 1693050277,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208338,
+        "num": 208338,
+        "word": "LCK有自己的EDG",
+        "onboard_time": 1693044632,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201353,
+        "num": 201353,
+        "word": "hi6",
+        "onboard_time": 1693052557,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199954,
+        "num": 199954,
+        "word": "李斯丹妮剩最后一秒也要消耗猎人",
+        "onboard_time": 1693049259,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199446,
+        "num": 199446,
+        "word": "曾舜晞你在干什么",
+        "onboard_time": 1693049017,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199369,
+        "num": 199369,
+        "word": "为什么成毅一拿剑就变聪明了",
+        "onboard_time": 1693046557,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198989,
+        "num": 198989,
+        "word": "安崎怀念THE9合体舞台",
+        "onboard_time": 1693045416,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181550,
+        "num": 181550,
+        "word": "朱七七和沈浪再续前缘",
+        "onboard_time": 1693052794,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180625,
+        "num": 180625,
+        "word": "南航通报空乘跌落",
+        "onboard_time": 1693039833,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179935,
+        "num": 179935,
+        "word": "大熊猫一边吃竹子一边翘jiojio",
+        "onboard_time": 1693052496,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168241,
+        "num": 168241,
+        "word": "看完最后的真相被闫妮震撼到了",
+        "onboard_time": 1693052860,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席讲话里的真挚情谊#"
+    }
+  }
+}
