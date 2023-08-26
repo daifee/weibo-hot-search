@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693089222522,
+  "endTime": 1693091710944,
   "band_list": [
     {
       "raw_hot": 1801184,
@@ -99,6 +99,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 515245,
+      "num": 382864,
+      "word": "95后小伙怒砸自己开的日料店",
+      "onboard_time": 1693053157,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513011,
       "num": 458795,
       "word": "张晚意说李雪琴来抢饭碗了",
@@ -131,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398801,
-      "num": 382864,
-      "word": "95后小伙怒砸自己开的日料店",
-      "onboard_time": 1693053157,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397572,
       "num": 332233,
       "word": "陈楚生哭了",
@@ -161,6 +161,14 @@
       "onboard_time": 1693062343,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376673,
+      "num": 376673,
+      "word": "暑期档最让人惊喜的男演员",
+      "onboard_time": 1693085713,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 372189,
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213099,
+      "num": 145696,
+      "word": "女子试用期上班51天迟到25次被辞退",
+      "onboard_time": 1693090878,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210605,
       "num": 210605,
       "word": "胡兵看陈楚生演唱会连发三条微博",
@@ -443,12 +459,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 155068,
-      "num": 155068,
-      "word": "暑期档最让人惊喜的男演员",
-      "onboard_time": 1693085713,
-      "rank": 9,
-      "category": "影视"
+      "raw_hot": 156926,
+      "num": 156926,
+      "word": "日料店无日本食材涉虚假宣传吗",
+      "onboard_time": 1693078218,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154924,
@@ -467,12 +483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134473,
-      "num": 92639,
-      "word": "日料店无日本食材涉虚假宣传吗",
-      "onboard_time": 1693078218,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 146646,
+      "num": 146646,
+      "word": "30岁男生给20岁男生的建议",
+      "onboard_time": 1693090279,
+      "rank": 19,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 117239,
@@ -483,20 +499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116804,
+      "num": 116804,
+      "word": "扁头在国外居然是病",
+      "onboard_time": 1693071861,
+      "rank": 30,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 114159,
       "num": 114159,
       "word": "黄渤很高兴封神年轻演员获认可",
       "onboard_time": 1693067789,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 112836,
-      "num": 112836,
-      "word": "扁头在国外居然是病",
-      "onboard_time": 1693071861,
-      "rank": 30,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 111143,
@@ -507,20 +523,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 109992,
+      "num": 109992,
+      "word": "女子拿爱心冰柜整盒藿香正气水被制止",
+      "onboard_time": 1693081514,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109829,
       "num": 109829,
       "word": "俞灏明片场哭到浑身颤抖",
       "onboard_time": 1693046074,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 89316,
-      "num": 89316,
-      "word": "女子拿爱心冰柜整盒藿香正气水被制止",
-      "onboard_time": 1693081514,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85041,
@@ -547,6 +563,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71069,
+      "num": 71069,
+      "word": "范丞丞也有粉色牡丹花床单",
+      "onboard_time": 1693081454,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 69358,
+      "num": 69358,
+      "word": "长相思即将上线网飞",
+      "onboard_time": 1693076597,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 64812,
       "num": 95441,
       "word": "高铁员工卖明星行程获利19万元",
@@ -561,22 +593,6 @@
       "onboard_time": 1693074198,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 48910,
-      "num": 48910,
-      "word": "长相思即将上线网飞",
-      "onboard_time": 1693076597,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 43721,
-      "num": 43721,
-      "word": "范丞丞也有粉色牡丹花床单",
-      "onboard_time": 1693081454,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 37953,
@@ -603,20 +619,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 31489,
+      "num": 492983,
+      "word": "金砖扩员后GDP占全球近三成",
+      "onboard_time": 1693057783,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31364,
       "num": 31364,
       "word": "食蚁兽喝汤",
       "onboard_time": 1693080794,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19862,
-      "num": 417314,
-      "word": "金砖扩员后GDP占全球近三成",
-      "onboard_time": 1693057783,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
