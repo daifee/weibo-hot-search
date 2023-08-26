@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693037941136,
+  "endTime": 1693038826792,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -7372,7 +7372,7 @@
     },
     {
       "raw_hot": 1221959,
-      "num": 320995,
+      "num": 329221,
       "word": "某男网红扬言我玩的就是抛妻弃子",
       "onboard_time": 1693030894,
       "rank": 20,
@@ -7496,6 +7496,14 @@
       "word": "医药反腐",
       "onboard_time": 1691558737,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1209542,
+      "num": 1209542,
+      "word": "日本核污染水排海 罗刹海市",
+      "onboard_time": 1693035158,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -8187,6 +8195,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1135981,
+      "num": 458577,
+      "word": "Angelababy造型引粉丝不满",
+      "onboard_time": 1693036414,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1135832,
       "num": 380174,
       "word": "孙阳的手串 戴不完根本戴不完",
@@ -8657,14 +8673,6 @@
       "onboard_time": 1691844279,
       "rank": 12,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 1097587,
-      "num": 1097587,
-      "word": "日本核污染水排海 罗刹海市",
-      "onboard_time": 1693035158,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1097399,
@@ -16307,14 +16315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 693296,
-      "num": 458577,
-      "word": "Angelababy造型引粉丝不满",
-      "onboard_time": 1693036414,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 693269,
       "num": 693269,
       "word": "单亲妈妈卖房给儿子买婚房被拉黑",
@@ -17137,6 +17137,14 @@
       "onboard_time": 1691037102,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 665041,
+      "num": 665041,
+      "word": "红海行动2主演阵容",
+      "onboard_time": 1693035695,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 665017,
@@ -18681,14 +18689,6 @@
       "onboard_time": 1691027259,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 618233,
-      "num": 618233,
-      "word": "红海行动2主演阵容",
-      "onboard_time": 1693035695,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 618106,
@@ -22804,7 +22804,7 @@
     },
     {
       "raw_hot": 529359,
-      "num": 294609,
+      "num": 328850,
       "word": "男高中生一餐仅花7.8爸爸心疼落泪",
       "onboard_time": 1693036054,
       "rank": 21,
@@ -23649,6 +23649,14 @@
       "onboard_time": 1691554538,
       "rank": 36,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 514172,
+      "num": 424940,
+      "word": "李俊濠洗脚是全国统一的吗",
+      "onboard_time": 1693037495,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 514068,
@@ -25136,6 +25144,14 @@
       "word": "被体重90斤同事的饭量惊呆了",
       "onboard_time": 1692660990,
       "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 486391,
+      "num": 486391,
+      "word": "什么是无效社交",
+      "onboard_time": 1693037196,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -36459,6 +36475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330115,
+      "num": 330115,
+      "word": "张艺兴最喜欢的一句话",
+      "onboard_time": 1693037255,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 330088,
       "num": 323829,
       "word": "宁泽涛张杰梦幻联动",
@@ -36673,6 +36697,14 @@
       "onboard_time": 1691940218,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327559,
+      "num": 327559,
+      "word": "杨幂祝福胡夏进入决赛",
+      "onboard_time": 1693035215,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 327115,
@@ -39883,6 +39915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295895,
+      "num": 295895,
+      "word": "李维嘉做家务固定步骤",
+      "onboard_time": 1693038215,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295842,
       "num": 295842,
       "word": "小夭戏弄涂山璟",
@@ -42667,14 +42707,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 273027,
-      "num": 273027,
-      "word": "李俊濠洗脚是全国统一的吗",
-      "onboard_time": 1693037495,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 273026,
       "num": 273026,
       "word": "上班一年后的感受",
@@ -43387,6 +43419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267166,
+      "num": 267166,
+      "word": "杨紫长相思战绩",
+      "onboard_time": 1693037794,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267078,
       "num": 873753,
       "word": "消防员与女友约会队友边看边指导",
@@ -44059,14 +44099,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 262029,
-      "num": 262029,
-      "word": "杨幂祝福胡夏进入决赛",
-      "onboard_time": 1693035215,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262016,
       "num": 262016,
       "word": "张雨绮赤脚红裙大片",
@@ -44305,14 +44337,6 @@
       "onboard_time": 1691420980,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260150,
-      "num": 224377,
-      "word": "什么是无效社交",
-      "onboard_time": 1693037196,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 260117,
@@ -45379,6 +45403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251745,
+      "num": 251745,
+      "word": "国际原子能机构报告无法给予排海正当性",
+      "onboard_time": 1693036174,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251696,
       "num": 251696,
       "word": "cpp",
@@ -46081,14 +46113,6 @@
       "onboard_time": 1691478459,
       "rank": 43,
       "category": "时尚,幽默"
-    },
-    {
-      "raw_hot": 245248,
-      "num": 245248,
-      "word": "国际原子能机构报告无法给予排海正当性",
-      "onboard_time": 1693036174,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245195,
@@ -47289,6 +47313,14 @@
       "onboard_time": 1692434193,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 237147,
+      "num": 237147,
+      "word": "成毅转身梦回李相夷",
+      "onboard_time": 1693038094,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 237016,
@@ -51539,6 +51571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209764,
+      "num": 209764,
+      "word": "披荆斩棘里的张栋梁",
+      "onboard_time": 1693038276,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209733,
       "num": 209733,
       "word": "在海边时突然中二病发作",
@@ -51616,6 +51656,14 @@
       "word": "檀健次谈偶像",
       "onboard_time": 1692511713,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209325,
+      "num": 209325,
+      "word": "范丞丞梦回练偶时期",
+      "onboard_time": 1693037794,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -51809,6 +51857,14 @@
       "onboard_time": 1691786775,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208501,
+      "num": 208501,
+      "word": "80斤太姥姥抱起1岁30斤曾外孙乐开花",
+      "onboard_time": 1693038454,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208477,
@@ -52201,14 +52257,6 @@
       "onboard_time": 1691720612,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207146,
-      "num": 207146,
-      "word": "张艺兴最喜欢的一句话",
-      "onboard_time": 1693037255,
-      "rank": 33,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 207103,
@@ -53009,6 +53057,14 @@
       "onboard_time": 1692515253,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204008,
+      "num": 204008,
+      "word": "桂花蜜桃冰牛乳",
+      "onboard_time": 1693038215,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 203995,
@@ -58331,6 +58387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181598,
+      "num": 181598,
+      "word": "自制青提甘露",
+      "onboard_time": 1693037856,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181589,
       "num": 181589,
       "word": "张信哲演唱会",
@@ -58977,14 +59041,6 @@
       "onboard_time": 1691853524,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174995,
-      "num": 174995,
-      "word": "杨紫长相思战绩",
-      "onboard_time": 1693037794,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 174968,
@@ -60651,14 +60707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157839,
-      "num": 157839,
-      "word": "范丞丞梦回练偶时期",
-      "onboard_time": 1693037794,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157745,
       "num": 157745,
       "word": "七夕说出爱",
@@ -61387,14 +61435,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 147924,
-      "num": 147924,
-      "word": "自制青提甘露",
-      "onboard_time": 1693037856,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 147873,
       "num": 147873,
       "word": "原来沙漠里的湖泊是海市蜃楼",
@@ -61561,6 +61601,14 @@
       "onboard_time": 1691905835,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 145604,
+      "num": 145604,
+      "word": "齐思钧看徐良的眼神",
+      "onboard_time": 1693038754,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 145586,

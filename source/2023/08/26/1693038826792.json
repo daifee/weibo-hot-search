@@ -1,0 +1,410 @@
+{
+  "runTime": 1693038826792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2722272,
+        "num": 2722272,
+        "word": "日媒宣称日本针对中方措施开展外交攻势",
+        "onboard_time": 1693027717,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1398859,
+        "num": 1398859,
+        "word": "青簪行 补拍",
+        "onboard_time": 1693031556,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 4208,
+        "num": 1301389,
+        "word": "金砖合作大有可为金砖国家未来可期",
+        "onboard_time": 1692933165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1209542,
+        "num": 1209542,
+        "word": "日本核污染水排海 罗刹海市",
+        "onboard_time": 1693035158,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759271,
+        "num": 759271,
+        "word": "男子听信出国月赚120万一下飞机被劝返",
+        "onboard_time": 1693033716,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705660,
+        "num": 705660,
+        "word": "核污水排海韩国已出现连锁反应",
+        "onboard_time": 1693009352,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665041,
+        "num": 665041,
+        "word": "红海行动2主演阵容",
+        "onboard_time": 1693035695,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579989,
+        "num": 579989,
+        "word": "日本农林水产相称完全没料到中方措施",
+        "onboard_time": 1693022195,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486391,
+        "num": 486391,
+        "word": "什么是无效社交",
+        "onboard_time": 1693037196,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445511,
+        "num": 445511,
+        "word": "CPA财管",
+        "onboard_time": 1693035637,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1135981,
+        "num": 444032,
+        "word": "Angelababy造型引粉丝不满",
+        "onboard_time": 1693036414,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 792607,
+        "num": 436546,
+        "word": "建行",
+        "onboard_time": 1693030056,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 587561,
+        "num": 430210,
+        "word": "TFBOYS光脚照",
+        "onboard_time": 1693033476,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 514172,
+        "num": 424940,
+        "word": "李俊濠洗脚是全国统一的吗",
+        "onboard_time": 1693037495,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510331,
+        "num": 420312,
+        "word": "周迅 35比我25还年轻",
+        "onboard_time": 1693025918,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415115,
+        "num": 415115,
+        "word": "张杰说不敢请更多朋友因为没票",
+        "onboard_time": 1693024779,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 405514,
+        "num": 405514,
+        "word": "小夭仙品",
+        "onboard_time": 1693034495,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366434,
+        "num": 366434,
+        "word": "马嘉祺和妈妈遛狗",
+        "onboard_time": 1693034075,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337985,
+        "num": 337985,
+        "word": "樊振东膝盖",
+        "onboard_time": 1693033296,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330115,
+        "num": 330115,
+        "word": "张艺兴最喜欢的一句话",
+        "onboard_time": 1693037255,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 886699,
+        "num": 329221,
+        "word": "某男网红扬言我玩的就是抛妻弃子",
+        "onboard_time": 1693030894,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511181,
+        "num": 328850,
+        "word": "男高中生一餐仅花7.8爸爸心疼落泪",
+        "onboard_time": 1693036054,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327559,
+        "num": 327559,
+        "word": "杨幂祝福胡夏进入决赛",
+        "onboard_time": 1693035215,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304921,
+        "num": 304921,
+        "word": "周深 史诗级皮肤",
+        "onboard_time": 1693021232,
+        "rank": 23,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 303399,
+        "num": 303399,
+        "word": "面具摘下来的时候给我看愣了",
+        "onboard_time": 1693030592,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295895,
+        "num": 295895,
+        "word": "李维嘉做家务固定步骤",
+        "onboard_time": 1693038215,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267166,
+        "num": 267166,
+        "word": "杨紫长相思战绩",
+        "onboard_time": 1693037794,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251745,
+        "num": 251745,
+        "word": "国际原子能机构报告无法给予排海正当性",
+        "onboard_time": 1693036174,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238880,
+        "num": 238880,
+        "word": "Angelababy张大大淘汰",
+        "onboard_time": 1693023578,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237627,
+        "num": 237627,
+        "word": "谁在炒作只有中国反对日本排放核污水",
+        "onboard_time": 1693013074,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237147,
+        "num": 237147,
+        "word": "成毅转身梦回李相夷",
+        "onboard_time": 1693038094,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233378,
+        "num": 233378,
+        "word": "林志颖讲到孩子哭了",
+        "onboard_time": 1693035575,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218646,
+        "num": 218646,
+        "word": "刘嘉玲与唐鹤德合照",
+        "onboard_time": 1693033356,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209764,
+        "num": 209764,
+        "word": "披荆斩棘里的张栋梁",
+        "onboard_time": 1693038276,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209325,
+        "num": 209325,
+        "word": "范丞丞梦回练偶时期",
+        "onboard_time": 1693037794,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208845,
+        "num": 208845,
+        "word": "成毅真的明白了吗",
+        "onboard_time": 1693034978,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208501,
+        "num": 208501,
+        "word": "80斤太姥姥抱起1岁30斤曾外孙乐开花",
+        "onboard_time": 1693038454,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204008,
+        "num": 204008,
+        "word": "桂花蜜桃冰牛乳",
+        "onboard_time": 1693038215,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206707,
+        "num": 203958,
+        "word": "女子遭强奸后未获立案跳水库自杀",
+        "onboard_time": 1692976723,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203795,
+        "num": 203795,
+        "word": "2岁半人类幼崽视角取快递",
+        "onboard_time": 1693035398,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197832,
+        "num": 197832,
+        "word": "男孩暑期打工赚6000感慨还是上学好",
+        "onboard_time": 1693026637,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 187151,
+        "num": 187151,
+        "word": "王心凌前两天做了手术",
+        "onboard_time": 1693015477,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182531,
+        "num": 182531,
+        "word": "普通人日常容易做错的医疗操作",
+        "onboard_time": 1693033234,
+        "rank": 42,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 181598,
+        "num": 181598,
+        "word": "自制青提甘露",
+        "onboard_time": 1693037856,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176137,
+        "num": 176137,
+        "word": "原来长期睡不够6小时容易患癌",
+        "onboard_time": 1693012236,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175982,
+        "num": 175982,
+        "word": "民航局回应南航一航班起飞前有空乘坠落",
+        "onboard_time": 1693027297,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154504,
+        "num": 154504,
+        "word": "消失的她",
+        "onboard_time": 1693023399,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154433,
+        "num": 154433,
+        "word": "华晨宇鸟巢四面台演唱会首场售罄",
+        "onboard_time": 1693035334,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153896,
+        "num": 153896,
+        "word": "ChatGPT用aespa Karina作的6行诗",
+        "onboard_time": 1693029516,
+        "rank": 48,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 145604,
+        "num": 145604,
+        "word": "齐思钧看徐良的眼神",
+        "onboard_time": 1693038754,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非领导人对话会#"
+    }
+  }
+}
