@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693091710944,
+  "endTime": 1693092836727,
   "band_list": [
     {
       "raw_hot": 1801184,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 638442,
+      "num": 382864,
+      "word": "95后小伙怒砸自己开的日料店",
+      "onboard_time": 1693053157,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621735,
       "num": 621735,
       "word": "山西致5死27伤旅游大巴事故监控曝光",
@@ -99,14 +107,6 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 515245,
-      "num": 382864,
-      "word": "95后小伙怒砸自己开的日料店",
-      "onboard_time": 1693053157,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 513011,
       "num": 458795,
       "word": "张晚意说李雪琴来抢饭碗了",
@@ -129,6 +129,14 @@
       "onboard_time": 1693058681,
       "rank": 9,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 444457,
+      "num": 444457,
+      "word": "暑期档最让人惊喜的男演员",
+      "onboard_time": 1693085713,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 414987,
@@ -163,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376673,
-      "num": 376673,
-      "word": "暑期档最让人惊喜的男演员",
-      "onboard_time": 1693085713,
-      "rank": 9,
-      "category": "影视"
+      "raw_hot": 391110,
+      "num": 173575,
+      "word": "女子试用期上班51天迟到25次被辞退",
+      "onboard_time": 1693090878,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372189,
@@ -201,6 +209,14 @@
       "onboard_time": 1693057482,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 349098,
+      "num": 349098,
+      "word": "30岁男生给20岁男生的建议",
+      "onboard_time": 1693090279,
+      "rank": 19,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 345937,
@@ -395,14 +411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213099,
-      "num": 145696,
-      "word": "女子试用期上班51天迟到25次被辞退",
-      "onboard_time": 1693090878,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210605,
       "num": 210605,
       "word": "胡兵看陈楚生演唱会连发三条微博",
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177395,
+      "num": 177395,
+      "word": "日料店无日本食材涉虚假宣传吗",
+      "onboard_time": 1693078218,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172504,
       "num": 172504,
       "word": "原来情绪稳定是被爱出来的",
@@ -457,14 +473,6 @@
       "onboard_time": 1693062471,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 156926,
-      "num": 156926,
-      "word": "日料店无日本食材涉虚假宣传吗",
-      "onboard_time": 1693078218,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154924,
@@ -483,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146646,
-      "num": 146646,
-      "word": "30岁男生给20岁男生的建议",
-      "onboard_time": 1693090279,
-      "rank": 19,
-      "category": "情感,幽默"
+      "raw_hot": 141911,
+      "num": 141911,
+      "word": "扁头在国外居然是病",
+      "onboard_time": 1693071861,
+      "rank": 30,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 117239,
@@ -497,14 +505,6 @@
       "onboard_time": 1693053756,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116804,
-      "num": 116804,
-      "word": "扁头在国外居然是病",
-      "onboard_time": 1693071861,
-      "rank": 30,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 114159,
@@ -539,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104613,
+      "num": 104613,
+      "word": "开劳斯莱斯免费接游客的淄博大哥",
+      "onboard_time": 1693092202,
+      "rank": 34,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 85041,
       "num": 85041,
       "word": "丁程鑫被抓得有始有终",
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78034,
+      "num": 78034,
+      "word": "最后的真相中提到的性同意",
+      "onboard_time": 1693091840,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 77814,
       "num": 95450,
       "word": "王鹤棣秦霄贤冤种兄弟再次出击",
@@ -563,20 +579,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71069,
-      "num": 71069,
+      "raw_hot": 75337,
+      "num": 75337,
       "word": "范丞丞也有粉色牡丹花床单",
       "onboard_time": 1693081454,
       "rank": 47,
       "category": "综艺"
     },
     {
-      "raw_hot": 69358,
-      "num": 69358,
+      "raw_hot": 73344,
+      "num": 73344,
       "word": "长相思即将上线网飞",
       "onboard_time": 1693076597,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 65527,
+      "num": 65527,
+      "word": "东电称暂无核污水停止排放时间",
+      "onboard_time": 1693092623,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64812,
@@ -603,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37174,
+      "num": 615453,
+      "word": "金砖扩员后GDP占全球近三成",
+      "onboard_time": 1693057783,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37025,
       "num": 37025,
       "word": "李宇春成都演唱会",
@@ -617,14 +649,6 @@
       "onboard_time": 1693077674,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31489,
-      "num": 492983,
-      "word": "金砖扩员后GDP占全球近三成",
-      "onboard_time": 1693057783,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31364,
