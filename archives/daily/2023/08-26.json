@@ -1,10 +1,10 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693020834831,
+  "endTime": 1693023505275,
   "band_list": [
     {
       "raw_hot": 3494082,
-      "num": 2635414,
+      "num": 2735375,
       "word": "核污水排海韩国已出现连锁反应",
       "onboard_time": 1693009352,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2653492,
-      "num": 495337,
+      "num": 496589,
       "word": "谁在炒作只有中国反对日本排放核污水",
       "onboard_time": 1693013074,
       "rank": 38,
@@ -32,6 +32,14 @@
       "word": "日本大使馆提醒在华日本民众不要大声说日语",
       "onboard_time": 1692970660,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1902799,
+      "num": 1902799,
+      "word": "韩媒说日本拒绝他国对核污水直接取样",
+      "onboard_time": 1693021296,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1037592,
+      "num": 1037592,
+      "word": "周深 史诗级皮肤",
+      "onboard_time": 1693021232,
+      "rank": 4,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1028991,
       "num": 830144,
       "word": "原来赵丽颖也喜欢蹦迪",
@@ -137,6 +153,14 @@
       "onboard_time": 1693013734,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 989625,
+      "num": 989625,
+      "word": "日本农林水产相称完全没料到中方措施",
+      "onboard_time": 1693022195,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 933157,
@@ -427,20 +451,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 371628,
+      "num": 371628,
+      "word": "徐海乔 公主保安随时站岗",
+      "onboard_time": 1693022616,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 370414,
+      "num": 365829,
+      "word": "女子电梯内分娩后将婴儿丢垃圾桶",
+      "onboard_time": 1693018115,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366526,
       "num": 330341,
       "word": "为什么年轻人不愿意吃小龙虾了",
       "onboard_time": 1693008932,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 365829,
-      "num": 365829,
-      "word": "女子电梯内分娩后将婴儿丢垃圾桶",
-      "onboard_time": 1693018115,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364569,
@@ -523,6 +555,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 284997,
+      "num": 284997,
+      "word": "华晨宇鸟巢演唱会今日开票",
+      "onboard_time": 1693021232,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 279939,
       "num": 279939,
       "word": "中国女排击败巴西晋级决赛",
@@ -547,12 +587,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 272613,
+      "num": 272613,
+      "word": "桃花坞问卷",
+      "onboard_time": 1693019136,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270086,
       "num": 270086,
       "word": "瘦子累坏了大家都心疼",
       "onboard_time": 1692991096,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269552,
+      "num": 269552,
+      "word": "封神 女娲庙的两种立场",
+      "onboard_time": 1693020575,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 266733,
@@ -577,6 +633,22 @@
       "onboard_time": 1692955601,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255951,
+      "num": 255951,
+      "word": "骑手小哥回应1分钟救下整栋楼",
+      "onboard_time": 1693020994,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254704,
+      "num": 254704,
+      "word": "徐良哥哥助力区第一",
+      "onboard_time": 1693022795,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 252144,
@@ -651,6 +723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230929,
+      "num": 230929,
+      "word": "我们给他一次生命他还了两次",
+      "onboard_time": 1693022195,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228935,
       "num": 213370,
       "word": "鹊刀门传奇",
@@ -683,14 +763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 217595,
-      "num": 217595,
-      "word": "桃花坞问卷",
-      "onboard_time": 1693019136,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215912,
       "num": 215912,
       "word": "张杰听到脱掉的反应",
@@ -707,14 +779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 208286,
-      "num": 208286,
-      "word": "封神 女娲庙的两种立场",
-      "onboard_time": 1693020575,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 207920,
       "num": 207920,
       "word": "张艺兴齐舞大赛",
@@ -729,6 +793,30 @@
       "onboard_time": 1693016677,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206731,
+      "num": 206731,
+      "word": "伯远的嗨披上班路",
+      "onboard_time": 1693022857,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204296,
+      "num": 204296,
+      "word": "孙颖莎马特攻削大战好精彩",
+      "onboard_time": 1693023399,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204117,
+      "num": 204117,
+      "word": "代号鸢横幅",
+      "onboard_time": 1693022917,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 202487,
@@ -753,6 +841,14 @@
       "onboard_time": 1693012296,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201979,
+      "num": 201979,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1693023399,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 201879,
@@ -795,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192535,
+      "num": 192535,
+      "word": "消失的她",
+      "onboard_time": 1693023399,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190436,
       "num": 190436,
       "word": "杨超越丁禹兮深吻戏",
@@ -809,6 +913,14 @@
       "onboard_time": 1693012475,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188629,
+      "num": 188629,
+      "word": "胡锡进 中国渔民和沿海养殖户很无辜",
+      "onboard_time": 1693023276,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188160,
@@ -827,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187613,
+      "num": 190505,
+      "word": "马嘉祺个人EP预告视频",
+      "onboard_time": 1693022436,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186673,
       "num": 169798,
       "word": "涂山璟被扯碎九尾画面",
@@ -841,6 +961,14 @@
       "onboard_time": 1693018234,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183495,
+      "num": 183495,
+      "word": "邓为三分钟花絮合集",
+      "onboard_time": 1693023218,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 182738,
@@ -939,20 +1067,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161654,
+      "num": 161654,
+      "word": "118一位广式早茶自助",
+      "onboard_time": 1693019855,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161230,
       "num": 161230,
       "word": "武林外传紧跟时事常看常新",
       "onboard_time": 1693009231,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156324,
-      "num": 156324,
-      "word": "118一位广式早茶自助",
-      "onboard_time": 1693019855,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 155199,
@@ -1193,6 +1321,14 @@
       "onboard_time": 1692982229,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30342,
+      "num": 1415468,
+      "word": "杭州亚运会将创下三个之最",
+      "onboard_time": 1692976124,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 28239,
