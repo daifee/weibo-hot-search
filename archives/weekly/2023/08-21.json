@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1693066764799,
+  "endTime": 1693067703297,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -3507,6 +3507,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 750819,
+      "num": 750819,
+      "word": "云之羽",
+      "onboard_time": 1692873893,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 748401,
       "num": 748401,
       "word": "陈楚生张远俞灏明王栎鑫组第一",
@@ -4275,14 +4283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 626542,
-      "num": 626542,
-      "word": "云之羽",
-      "onboard_time": 1692873893,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 626280,
       "num": 441435,
       "word": "丈夫酒后打妻子致坠楼跳下施救",
@@ -4977,6 +4977,14 @@
       "onboard_time": 1692862136,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553890,
+      "num": 290154,
+      "word": "杨幂明年或将不拍综艺",
+      "onboard_time": 1693066773,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 551033,
@@ -7275,6 +7283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397572,
+      "num": 332233,
+      "word": "陈楚生哭了",
+      "onboard_time": 1693065876,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 397415,
       "num": 4124234,
       "word": "高铁乘客突发疾病6名医生出手",
@@ -7905,14 +7921,6 @@
       "onboard_time": 1692876107,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 365768,
-      "num": 291789,
-      "word": "陈楚生哭了",
-      "onboard_time": 1693065876,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 365190,
@@ -8633,6 +8641,14 @@
       "onboard_time": 1692799899,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 331248,
+      "num": 331248,
+      "word": "广东顺德老字号清水火锅",
+      "onboard_time": 1693063479,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 331228,
@@ -9713,14 +9729,6 @@
       "onboard_time": 1692865554,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293699,
-      "num": 293699,
-      "word": "广东顺德老字号清水火锅",
-      "onboard_time": 1693063479,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 293432,
@@ -11619,6 +11627,14 @@
       "category": "影视,综艺"
     },
     {
+      "raw_hot": 233893,
+      "num": 233893,
+      "word": "入职前和入职后",
+      "onboard_time": 1693063665,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 233671,
       "num": 240092,
       "word": "i人喜欢独处的原因",
@@ -11883,14 +11899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225659,
-      "num": 225659,
-      "word": "入职前和入职后",
-      "onboard_time": 1693063665,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 225636,
       "num": 225636,
       "word": "质子旅特殊部队现代AU",
@@ -11969,6 +11977,14 @@
       "onboard_time": 1693013016,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223842,
+      "num": 213632,
+      "word": "杨丞琳直接在演唱会搭了一座房子",
+      "onboard_time": 1693062640,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 223734,
@@ -12385,14 +12401,6 @@
       "onboard_time": 1693034075,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 213632,
-      "num": 213632,
-      "word": "杨丞琳直接在演唱会搭了一座房子",
-      "onboard_time": 1693062640,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 213577,
@@ -12859,6 +12867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206798,
+      "num": 206798,
+      "word": "三场台风正在接近日本",
+      "onboard_time": 1693066533,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206748,
       "num": 206748,
       "word": "李兰迪10岁到24岁荧幕变化",
@@ -12937,6 +12953,14 @@
       "onboard_time": 1692799423,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205320,
+      "num": 205320,
+      "word": "这只猫好帅啊",
+      "onboard_time": 1693067494,
+      "rank": 38,
+      "category": "其它"
     },
     {
       "raw_hot": 205052,
