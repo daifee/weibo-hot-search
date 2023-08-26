@@ -1,6 +1,6 @@
 {
   "startTime": 1692980475040,
-  "endTime": 1693062916366,
+  "endTime": 1693064039591,
   "band_list": [
     {
       "raw_hot": 4262004,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1244106,
+      "num": 1244106,
+      "word": "老人留下一套房产五兄妹和和气气均分",
+      "onboard_time": 1693061803,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1240855,
       "num": 555084,
       "word": "北京暴雨",
@@ -435,16 +443,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 874217,
-      "num": 874217,
-      "word": "老人留下一套房产五兄妹和和气气均分",
-      "onboard_time": 1693061803,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 856964,
-      "num": 435964,
+      "num": 510217,
       "word": "陈楚生和儿子同台表演",
       "onboard_time": 1693057963,
       "rank": 20,
@@ -779,6 +779,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556094,
+      "num": 556094,
+      "word": "张杰把投票歌单做成串烧",
+      "onboard_time": 1693062703,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 555941,
+      "num": 555941,
+      "word": "孙燕姿演唱会",
+      "onboard_time": 1693062042,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 551033,
       "num": 551033,
       "word": "高龄产妇羊水栓塞医护奋战27小时抢救",
@@ -955,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471979,
-      "num": 471979,
-      "word": "孙燕姿演唱会",
-      "onboard_time": 1693062042,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 466315,
       "num": 366211,
       "word": "谁谈个恋爱天天亲啊",
@@ -1019,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457527,
+      "num": 457527,
+      "word": "央视莲花楼",
+      "onboard_time": 1693063665,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 456187,
       "num": 456187,
       "word": "酱油蒸鸡蛋",
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 453318,
-      "num": 317112,
+      "num": 427921,
       "word": "好多哥哥去了陈楚生演唱会",
       "onboard_time": 1693057001,
       "rank": 25,
@@ -1132,7 +1148,7 @@
     },
     {
       "raw_hot": 424016,
-      "num": 375008,
+      "num": 421530,
       "word": "婚后是否要上交工资卡",
       "onboard_time": 1693060426,
       "rank": 22,
@@ -1161,6 +1177,14 @@
       "onboard_time": 1693012834,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413267,
+      "num": 413267,
+      "word": "消失的她爱奇艺热度破9000",
+      "onboard_time": 1693062280,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 410721,
@@ -1195,12 +1219,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 403824,
-      "num": 305655,
-      "word": "消失的她爱奇艺热度破9000",
-      "onboard_time": 1693062280,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 404708,
+      "num": 404708,
+      "word": "伯远现在有什么经济困难吗",
+      "onboard_time": 1693063063,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 401086,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1693014217,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 394735,
+      "num": 413295,
+      "word": "入秋后几天洗一次澡更好",
+      "onboard_time": 1693062343,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393604,
@@ -1411,12 +1443,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345429,
+      "num": 276692,
+      "word": "吉克隽逸演出时脸被划伤",
+      "onboard_time": 1693063539,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 338431,
       "num": 338431,
       "word": "为什么小夭地位比玱玹高那么多",
       "onboard_time": 1693045835,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336757,
+      "num": 260305,
+      "word": "胡兵看陈楚生演唱会连发三条微博",
+      "onboard_time": 1693062878,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 336389,
+      "num": 336389,
+      "word": "为什么长辈热衷于叫晚辈早起",
+      "onboard_time": 1693061803,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 335896,
@@ -1441,14 +1497,6 @@
       "onboard_time": 1693042657,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 330756,
-      "num": 288958,
-      "word": "张杰把投票歌单做成串烧",
-      "onboard_time": 1693062703,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 330115,
@@ -1667,6 +1715,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281118,
+      "num": 237005,
+      "word": "薛之谦发型变形了",
+      "onboard_time": 1693063837,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 280281,
+      "num": 236876,
+      "word": "小宝跟李莲花告阿飞的状",
+      "onboard_time": 1693062941,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279939,
       "num": 279939,
       "word": "中国女排击败巴西晋级决赛",
@@ -1745,6 +1809,14 @@
       "onboard_time": 1693020575,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267437,
+      "num": 267437,
+      "word": "酒酿冰豆腐",
+      "onboard_time": 1693062471,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 266733,
@@ -1867,14 +1939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248617,
-      "num": 248617,
-      "word": "为什么长辈热衷于叫晚辈早起",
-      "onboard_time": 1693061803,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 247639,
       "num": 849800,
       "word": "大学新生报道后匆忙返乡救爸爸",
@@ -1977,6 +2041,14 @@
       "onboard_time": 1693010435,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236585,
+      "num": 236585,
+      "word": "NCT127将10月6日回归",
+      "onboard_time": 1693064017,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 235929,
@@ -2179,14 +2251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218353,
-      "num": 242238,
-      "word": "入秋后几天洗一次澡更好",
-      "onboard_time": 1693062343,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218194,
       "num": 210579,
       "word": "杨玏早年腹肌",
@@ -2224,14 +2288,6 @@
       "word": "张杰听到脱掉的反应",
       "onboard_time": 1693017575,
       "rank": 33,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 215465,
-      "num": 215465,
-      "word": "胡兵看陈楚生演唱会连发三条微博",
-      "onboard_time": 1693062878,
-      "rank": 45,
       "category": "音乐"
     },
     {
@@ -2771,6 +2827,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177118,
+      "num": 177118,
+      "word": "广东顺德老字号清水火锅",
+      "onboard_time": 1693063479,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 175996,
+      "num": 175996,
+      "word": "入职前和入职后",
+      "onboard_time": 1693063665,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 175931,
       "num": 175931,
       "word": "非遗面人张39年捏了几千只熊猫",
@@ -2833,6 +2905,14 @@
       "onboard_time": 1692961118,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163146,
+      "num": 175797,
+      "word": "吸引力法则",
+      "onboard_time": 1693064017,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 161654,
