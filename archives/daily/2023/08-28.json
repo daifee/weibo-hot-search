@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693167362606,
+  "endTime": 1693168436617,
   "band_list": [
     {
       "raw_hot": 2017418,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 70837,
-      "num": 44934,
+      "num": 45792,
       "word": "十个勤天",
       "onboard_time": 1693163536,
       "rank": 49,
@@ -481,6 +481,14 @@
       "onboard_time": 1693140697,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23090,
+      "num": 23090,
+      "word": "长沙医学院回应还在施工就开学",
+      "onboard_time": 1693167374,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 17715,
