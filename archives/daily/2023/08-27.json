@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693149304541,
+  "endTime": 1693150434342,
   "band_list": [
     {
       "raw_hot": 4044730,
@@ -17,6 +17,14 @@
       "onboard_time": 1693138175,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3053250,
+      "num": 3053250,
+      "word": "中国烟草",
+      "onboard_time": 1693148079,
+      "rank": 3,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 2903868,
@@ -137,14 +145,6 @@
       "onboard_time": 1693116516,
       "rank": 21,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1667759,
-      "num": 1667759,
-      "word": "中国烟草",
-      "onboard_time": 1693148079,
-      "rank": 3,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1643941,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 994703,
+      "num": 802670,
+      "word": "俄海岸惊现深海恐怖怪鱼",
+      "onboard_time": 1693147419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976883,
       "num": 976883,
       "word": "第一次见拔箭如此干脆的女主",
@@ -305,6 +313,14 @@
       "onboard_time": 1693138835,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 951558,
+      "num": 498317,
+      "word": "张新成 杰哥牛逼",
+      "onboard_time": 1693149763,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 938105,
@@ -403,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 802670,
-      "num": 802670,
-      "word": "俄海岸惊现深海恐怖怪鱼",
-      "onboard_time": 1693147419,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 793924,
       "num": 344710,
       "word": "刘雨昕胸震",
@@ -449,6 +457,14 @@
       "onboard_time": 1693105534,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 743845,
+      "num": 743845,
+      "word": "香港小姐10号 意难平",
+      "onboard_time": 1693149700,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 741723,
@@ -624,6 +640,14 @@
       "word": "张杰的最强站哥站姐们",
       "onboard_time": 1693145198,
       "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 612814,
+      "num": 463404,
+      "word": "张杰的明星粉丝们开始合照了",
+      "onboard_time": 1693149163,
+      "rank": 43,
       "category": "音乐"
     },
     {
@@ -827,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504574,
+      "num": 356107,
+      "word": "庄子璇港姐冠军",
+      "onboard_time": 1693149636,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502365,
       "num": 502365,
       "word": "日本核污水事件的科学真相",
@@ -915,6 +947,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 459553,
+      "num": 447057,
+      "word": "躺着玩手机的5个正确姿势",
+      "onboard_time": 1693147299,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459532,
       "num": 366791,
       "word": "核辐射检测仪卖爆了",
@@ -977,14 +1017,6 @@
       "onboard_time": 1693140576,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 447057,
-      "num": 447057,
-      "word": "躺着玩手机的5个正确姿势",
-      "onboard_time": 1693147299,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444680,
@@ -1451,6 +1483,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 325126,
+      "num": 325126,
+      "word": "两大台风或将相继侵袭日本",
+      "onboard_time": 1693126352,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324549,
       "num": 324549,
       "word": "俞灏明强烈地希望自己不是榜一",
@@ -1536,6 +1576,14 @@
       "word": "周深全英文指导",
       "onboard_time": 1693122694,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301311,
+      "num": 216000,
+      "word": "王怡然最上镜小姐",
+      "onboard_time": 1693150361,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1657,14 +1705,6 @@
       "onboard_time": 1693059466,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277563,
-      "num": 252417,
-      "word": "两大台风或将相继侵袭日本",
-      "onboard_time": 1693126352,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276916,
@@ -1859,6 +1899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 242233,
+      "num": 195788,
+      "word": "魏大勋再现孟宴臣名台词",
+      "onboard_time": 1693149879,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240138,
       "num": 240138,
       "word": "时代少年团楼外楼定格鲨我",
@@ -1961,6 +2009,14 @@
       "onboard_time": 1693099772,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230320,
+      "num": 230320,
+      "word": "哈兰德头球扣杀",
+      "onboard_time": 1693149339,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 229656,
@@ -2091,14 +2147,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 214646,
-      "num": 214646,
-      "word": "张杰的明星粉丝们开始合照了",
-      "onboard_time": 1693149163,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 214359,
       "num": 214359,
       "word": "第10086次被i人朋友震惊到",
@@ -2211,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201406,
+      "num": 201406,
+      "word": "巴掌大的小鳄鱼派出所大口吃肉",
+      "onboard_time": 1693149222,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200329,
       "num": 200329,
       "word": "曾舜晞cue了择天记",
@@ -2249,6 +2305,14 @@
       "onboard_time": 1693100972,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196823,
+      "num": 196823,
+      "word": "台风达维或使核污染水扑向美国",
+      "onboard_time": 1693150181,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196123,

@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693149304541,
+  "endTime": 1693150434342,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -993,6 +993,14 @@
       "onboard_time": 1692600216,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3053250,
+      "num": 3053250,
+      "word": "中国烟草",
+      "onboard_time": 1693148079,
+      "rank": 3,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 3051728,
@@ -4433,14 +4441,6 @@
       "onboard_time": 1690966534,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1667759,
-      "num": 1667759,
-      "word": "中国烟草",
-      "onboard_time": 1693148079,
-      "rank": 3,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1667465,
@@ -10435,6 +10435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 994703,
+      "num": 802670,
+      "word": "俄海岸惊现深海恐怖怪鱼",
+      "onboard_time": 1693147419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 993871,
       "num": 993871,
       "word": "鹿晗武汉演唱会官宣嘉宾",
@@ -11025,6 +11033,14 @@
       "onboard_time": 1691146114,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 951558,
+      "num": 498317,
+      "word": "张新成 杰哥牛逼",
+      "onboard_time": 1693149763,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 950122,
@@ -13867,14 +13883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 802670,
-      "num": 802670,
-      "word": "俄海岸惊现深海恐怖怪鱼",
-      "onboard_time": 1693147419,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 802568,
       "num": 802568,
       "word": "檀健次镜头里闪现魏大勋",
@@ -15465,6 +15473,14 @@
       "onboard_time": 1692089081,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 743845,
+      "num": 743845,
+      "word": "香港小姐10号 意难平",
+      "onboard_time": 1693149700,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 743833,
@@ -19777,6 +19793,14 @@
       "onboard_time": 1692055225,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 612814,
+      "num": 463404,
+      "word": "张杰的明星粉丝们开始合照了",
+      "onboard_time": 1693149163,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 612445,
@@ -25219,6 +25243,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 504574,
+      "num": 356107,
+      "word": "庄子璇港姐冠军",
+      "onboard_time": 1693149636,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 504557,
       "num": 314796,
       "word": "吴昕谈快乐家族之间的灵魂沟通",
@@ -27979,6 +28011,14 @@
       "category": "科技,艺人"
     },
     {
+      "raw_hot": 459553,
+      "num": 447057,
+      "word": "躺着玩手机的5个正确姿势",
+      "onboard_time": 1693147299,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459532,
       "num": 366791,
       "word": "核辐射检测仪卖爆了",
@@ -28905,14 +28945,6 @@
       "onboard_time": 1692952360,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 447057,
-      "num": 447057,
-      "word": "躺着玩手机的5个正确姿势",
-      "onboard_time": 1693147299,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447018,
@@ -38819,6 +38851,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 325126,
+      "num": 325126,
+      "word": "两大台风或将相继侵袭日本",
+      "onboard_time": 1693126352,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325087,
       "num": 302870,
       "word": "男生嫌下山太累直接滚到半山腰",
@@ -41401,6 +41441,14 @@
       "onboard_time": 1691103742,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301311,
+      "num": 216000,
+      "word": "王怡然最上镜小姐",
+      "onboard_time": 1693150361,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 301289,
@@ -44321,14 +44369,6 @@
       "onboard_time": 1691722771,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 277563,
-      "num": 252417,
-      "word": "两大台风或将相继侵袭日本",
-      "onboard_time": 1693126352,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277553,
@@ -48939,6 +48979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242233,
+      "num": 195788,
+      "word": "魏大勋再现孟宴臣名台词",
+      "onboard_time": 1693149879,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242112,
       "num": 242112,
       "word": "金珉奎刮胡子",
@@ -50785,6 +50833,14 @@
       "onboard_time": 1691935241,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230320,
+      "num": 230320,
+      "word": "哈兰德头球扣杀",
+      "onboard_time": 1693149339,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 230110,
@@ -53417,14 +53473,6 @@
       "onboard_time": 1693094366,
       "rank": 33,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 214646,
-      "num": 214646,
-      "word": "张杰的明星粉丝们开始合照了",
-      "onboard_time": 1693149163,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 214630,
@@ -56667,6 +56715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201406,
+      "num": 201406,
+      "word": "巴掌大的小鳄鱼派出所大口吃肉",
+      "onboard_time": 1693149222,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201294,
       "num": 201294,
       "word": "热烈泰国首映礼",
@@ -58081,6 +58137,14 @@
       "onboard_time": 1692517714,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196823,
+      "num": 196823,
+      "word": "台风达维或使核污染水扑向美国",
+      "onboard_time": 1693150181,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196802,
