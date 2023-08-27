@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693121637450,
+  "endTime": 1693124319977,
   "band_list": [
     {
       "raw_hot": 4044730,
@@ -123,6 +123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1191330,
+      "num": 1191330,
+      "word": "把骨相美发挥到了极致",
+      "onboard_time": 1693121614,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1188054,
       "num": 1092053,
       "word": "刘惜君好辣",
@@ -195,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760672,
+      "num": 760672,
+      "word": "女子长期侧躺玩手机致右眼短暂失明",
+      "onboard_time": 1693122574,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759306,
       "num": 759306,
       "word": "云之羽",
       "onboard_time": 1693066058,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 752438,
+      "num": 752438,
+      "word": "当地教育局回应一中学女生宿舍住116人",
+      "onboard_time": 1693119935,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 751842,
@@ -243,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 701377,
+      "num": 309618,
+      "word": "妈妈欲买海鲜囤满3米长冰柜惊呆儿子",
+      "onboard_time": 1693120594,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 701008,
       "num": 701008,
       "word": "宁安如梦",
@@ -259,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 661738,
+      "num": 309138,
+      "word": "结了婚才知道该嫁什么样的人",
+      "onboard_time": 1693120358,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 655901,
       "num": 620294,
       "word": "央视莲花楼",
@@ -272,14 +312,6 @@
       "word": "95后小伙怒砸自己开的日料店",
       "onboard_time": 1693053157,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 625104,
-      "num": 309618,
-      "word": "妈妈欲买海鲜囤满3米长冰柜惊呆儿子",
-      "onboard_time": 1693120594,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -305,14 +337,6 @@
       "onboard_time": 1693118432,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 606266,
-      "num": 385900,
-      "word": "当地教育局回应一中学女生宿舍住116人",
-      "onboard_time": 1693119935,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 596337,
@@ -403,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 535816,
-      "num": 309138,
-      "word": "结了婚才知道该嫁什么样的人",
-      "onboard_time": 1693120358,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 518151,
       "num": 518151,
       "word": "CPA税法",
@@ -481,6 +497,22 @@
       "onboard_time": 1693116093,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 473198,
+      "num": 473198,
+      "word": "谁花5555元买早餐了老板正找你",
+      "onboard_time": 1693123117,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463650,
+      "num": 463650,
+      "word": "躺着玩手机如何减少伤害",
+      "onboard_time": 1693119695,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 460663,
@@ -659,20 +691,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 385648,
-      "num": 385648,
-      "word": "躺着玩手机如何减少伤害",
-      "onboard_time": 1693119695,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 382849,
       "num": 382849,
       "word": "梅西",
       "onboard_time": 1693100494,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380572,
+      "num": 380572,
+      "word": "6名银行员工帮客户清点160万被烧现金",
+      "onboard_time": 1693122694,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379463,
@@ -883,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302549,
+      "num": 284253,
+      "word": "周深全英文指导",
+      "onboard_time": 1693122694,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293359,
       "num": 287180,
       "word": "孙燕姿演唱会",
@@ -987,6 +1027,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273223,
+      "num": 205455,
+      "word": "现在的仙侠剧情绪太不稳定",
+      "onboard_time": 1693123293,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 270259,
+      "num": 270259,
+      "word": "于适素人时期照片",
+      "onboard_time": 1693120535,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259856,
       "num": 259856,
       "word": "张大大哭的时候背过去了",
@@ -1040,6 +1096,14 @@
       "word": "封神票房",
       "onboard_time": 1693092924,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248346,
+      "num": 248346,
+      "word": "张晚意到哪都嗑瓜子",
+      "onboard_time": 1693122156,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1195,14 +1259,6 @@
       "category": "美妆,幽默"
     },
     {
-      "raw_hot": 220403,
-      "num": 220403,
-      "word": "于适素人时期照片",
-      "onboard_time": 1693120535,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215504,
       "num": 215504,
       "word": "胡兵排名",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1693096648,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210684,
+      "num": 210684,
+      "word": "汪苏泷东北话夹子音",
+      "onboard_time": 1693124014,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 210605,
@@ -1323,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194383,
+      "num": 194383,
+      "word": "无聊了可以做这么多事",
+      "onboard_time": 1693122520,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 193428,
       "num": 193428,
       "word": "一些莲花楼三人组魂穿时刻",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1693112374,
       "rank": 35,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 192851,
+      "num": 192851,
+      "word": "内娱传唱度超高的OST",
+      "onboard_time": 1693123416,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 191848,
@@ -1475,6 +1555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168531,
+      "num": 168531,
+      "word": "HYBE投资 月之神坛",
+      "onboard_time": 1693123773,
+      "rank": 36,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 168032,
       "num": 168032,
       "word": "丁程鑫被迫看清现实",
@@ -1507,6 +1595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 163064,
+      "num": 163064,
+      "word": "RIIZE人歌初舞台",
+      "onboard_time": 1693122936,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161439,
       "num": 159518,
       "word": "欧阳娜娜猎人最萌身高差",
@@ -1529,6 +1625,14 @@
       "onboard_time": 1693116992,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 156062,
+      "num": 156062,
+      "word": "幼儿园被疑组织家长开私家车队上街炫富",
+      "onboard_time": 1693124014,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154924,
@@ -1561,14 +1665,6 @@
       "onboard_time": 1693058681,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149466,
-      "num": 149466,
-      "word": "把骨相美发挥到了极致",
-      "onboard_time": 1693121614,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 148696,
@@ -1611,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132631,
+      "num": 132631,
+      "word": "拔倒刺的风险有多大",
+      "onboard_time": 1693123653,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130736,
       "num": 130736,
       "word": "苏醒爸爸灵魂一问",
@@ -1633,6 +1737,14 @@
       "onboard_time": 1693121614,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 122917,
+      "num": 122917,
+      "word": "女子手机掉下水道路人用木棍巧取",
+      "onboard_time": 1693121856,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117239,
@@ -1769,6 +1881,14 @@
       "onboard_time": 1693044156,
       "rank": 49,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 55310,
+      "num": 1235155,
+      "word": "新疆面临新机遇要有新作为",
+      "onboard_time": 1693123535,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51545,

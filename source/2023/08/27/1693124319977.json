@@ -1,0 +1,410 @@
+{
+  "runTime": 1693124319977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2143055,
+        "num": 2143055,
+        "word": "日本3天连发5次地震",
+        "onboard_time": 1693116630,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1348670,
+        "num": 1348670,
+        "word": "女子发现网红探访的凶宅是自己家",
+        "onboard_time": 1693116754,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55310,
+        "num": 1235155,
+        "word": "新疆面临新机遇要有新作为",
+        "onboard_time": 1693123535,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191330,
+        "num": 1191330,
+        "word": "把骨相美发挥到了极致",
+        "onboard_time": 1693121614,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 839830,
+        "num": 839830,
+        "word": "福岛真相",
+        "onboard_time": 1693099293,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760672,
+        "num": 760672,
+        "word": "女子长期侧躺玩手机致右眼短暂失明",
+        "onboard_time": 1693122574,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752438,
+        "num": 752438,
+        "word": "当地教育局回应一中学女生宿舍住116人",
+        "onboard_time": 1693119935,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 646424,
+        "num": 646424,
+        "word": "马丽 不幸的童年需要用一生去治愈",
+        "onboard_time": 1693117593,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627240,
+        "num": 627240,
+        "word": "其实穷人的孩子更晚熟",
+        "onboard_time": 1693109497,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 473198,
+        "num": 473198,
+        "word": "谁花5555元买早餐了老板正找你",
+        "onboard_time": 1693123117,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1579414,
+        "num": 472562,
+        "word": "已有894家俄罗斯公司获准对华出口水产品",
+        "onboard_time": 1693116516,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 558330,
+        "num": 470951,
+        "word": "Jennie粉色芭比造型",
+        "onboard_time": 1693118432,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 463650,
+        "num": 463650,
+        "word": "躺着玩手机如何减少伤害",
+        "onboard_time": 1693119695,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 431464,
+        "num": 431464,
+        "word": "男子穿日本投降T恤买日系车遭无视",
+        "onboard_time": 1693110693,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380572,
+        "num": 380572,
+        "word": "6名银行员工帮客户清点160万被烧现金",
+        "onboard_time": 1693122694,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326473,
+        "num": 326473,
+        "word": "杨超越都拯救不了杨迪的眼睛",
+        "onboard_time": 1693120776,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305833,
+        "num": 305833,
+        "word": "考编失败的狗狗去了哪里",
+        "onboard_time": 1693109974,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298453,
+        "num": 298453,
+        "word": "檀健次 帕拉丁",
+        "onboard_time": 1693104515,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287769,
+        "num": 287769,
+        "word": "刘惜君好辣",
+        "onboard_time": 1693110758,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285472,
+        "num": 285472,
+        "word": "CPA税法",
+        "onboard_time": 1693121195,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 701377,
+        "num": 285177,
+        "word": "妈妈欲买海鲜囤满3米长冰柜惊呆儿子",
+        "onboard_time": 1693120594,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661738,
+        "num": 285118,
+        "word": "结了婚才知道该嫁什么样的人",
+        "onboard_time": 1693120358,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302549,
+        "num": 284253,
+        "word": "周深全英文指导",
+        "onboard_time": 1693122694,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281225,
+        "num": 281225,
+        "word": "中国网友把时代广场大屏占领了",
+        "onboard_time": 1693116093,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270259,
+        "num": 270259,
+        "word": "于适素人时期照片",
+        "onboard_time": 1693120535,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266472,
+        "num": 266472,
+        "word": "郑恺女儿上综艺了",
+        "onboard_time": 1693093044,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248346,
+        "num": 248346,
+        "word": "张晚意到哪都嗑瓜子",
+        "onboard_time": 1693122156,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234542,
+        "num": 234542,
+        "word": "张颂文 清明上河图密码",
+        "onboard_time": 1693120896,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222301,
+        "num": 222301,
+        "word": "老舅问张远王栎鑫就非得躺一起",
+        "onboard_time": 1693116152,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210684,
+        "num": 210684,
+        "word": "汪苏泷东北话夹子音",
+        "onboard_time": 1693124014,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273223,
+        "num": 205455,
+        "word": "现在的仙侠剧情绪太不稳定",
+        "onboard_time": 1693123293,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197402,
+        "num": 197402,
+        "word": "A股估值已低于2008年1664点水平",
+        "onboard_time": 1693114653,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194383,
+        "num": 194383,
+        "word": "无聊了可以做这么多事",
+        "onboard_time": 1693122520,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 193820,
+        "num": 193820,
+        "word": "港姐王敏慈神似Angelababy",
+        "onboard_time": 1693117774,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192851,
+        "num": 192851,
+        "word": "内娱传唱度超高的OST",
+        "onboard_time": 1693123416,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173763,
+        "num": 173763,
+        "word": "封神殷郊姜王后番外",
+        "onboard_time": 1693114955,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168531,
+        "num": 168531,
+        "word": "HYBE投资 月之神坛",
+        "onboard_time": 1693123773,
+        "rank": 36,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 164172,
+        "num": 164172,
+        "word": "鞠婧祎或将演云海玉弓缘",
+        "onboard_time": 1693121014,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163064,
+        "num": 163064,
+        "word": "RIIZE人歌初舞台",
+        "onboard_time": 1693122936,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161749,
+        "num": 161749,
+        "word": "丁程鑫给刘耀文唱睡了",
+        "onboard_time": 1693117054,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156062,
+        "num": 156062,
+        "word": "幼儿园被疑组织家长开私家车队上街炫富",
+        "onboard_time": 1693124014,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154862,
+        "num": 154862,
+        "word": "主线任务复活徐良",
+        "onboard_time": 1693111117,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143395,
+        "num": 143395,
+        "word": "泰国的雪王那么富贵",
+        "onboard_time": 1693112135,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133571,
+        "num": 133571,
+        "word": "BLACKPINK 超级碗",
+        "onboard_time": 1693110335,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132631,
+        "num": 132631,
+        "word": "拔倒刺的风险有多大",
+        "onboard_time": 1693123653,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128846,
+        "num": 128846,
+        "word": "杜海涛几十年的主持人白干了",
+        "onboard_time": 1693102172,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122917,
+        "num": 122917,
+        "word": "女子手机掉下水道路人用木棍巧取",
+        "onboard_time": 1693121856,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117442,
+        "num": 117442,
+        "word": "金城武 我很讨厌在拍戏时看到动物",
+        "onboard_time": 1693100494,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114441,
+        "num": 114441,
+        "word": "宁安如梦",
+        "onboard_time": 1693107874,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105720,
+        "num": 112651,
+        "word": "王者荣耀观光团",
+        "onboard_time": 1693121134,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席讲话里的真挚情谊#"
+    }
+  }
+}
