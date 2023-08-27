@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693107234901,
+  "endTime": 1693109923686,
   "band_list": [
     {
       "raw_hot": 4044730,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1527594,
-      "num": 435252,
+      "num": 444529,
       "word": "被美军炸了67次又遇上日本核污水",
       "onboard_time": 1693101995,
       "rank": 12,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 793924,
-      "num": 322464,
+      "num": 333199,
       "word": "刘雨昕胸震",
       "onboard_time": 1693099652,
       "rank": 26,
@@ -147,12 +147,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 751842,
+      "num": 751842,
+      "word": "恭喜08号选手李宇春",
+      "onboard_time": 1693105534,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 728575,
+      "num": 728575,
+      "word": "两女生被尾随急中生智躲进消防站",
+      "onboard_time": 1693107455,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725294,
-      "num": 290260,
+      "num": 439950,
       "word": "檀健次 帕拉丁",
       "onboard_time": 1693104515,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 701008,
+      "num": 701008,
+      "word": "宁安如梦",
+      "onboard_time": 1693107874,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 679657,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 589986,
-      "num": 348637,
+      "num": 415742,
       "word": "孙俪写100遍隶书心经用了三年",
       "onboard_time": 1693105597,
       "rank": 17,
@@ -227,6 +251,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 554893,
+      "num": 426394,
+      "word": "日本渔民哭诉政府愚蠢导致无法生存",
+      "onboard_time": 1693104515,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551086,
       "num": 551086,
       "word": "爱宝双胞胎女儿延续宝字辈",
@@ -235,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 524616,
-      "num": 364823,
-      "word": "日本渔民哭诉政府愚蠢导致无法生存",
-      "onboard_time": 1693104515,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 542032,
+      "num": 542032,
+      "word": "CPA会计",
+      "onboard_time": 1693108774,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 513011,
@@ -275,12 +307,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 461186,
-      "num": 301380,
-      "word": "恭喜08号选手李宇春",
-      "onboard_time": 1693105534,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 479949,
+      "num": 479949,
+      "word": "邓为 我觉得火不敢当",
+      "onboard_time": 1693106616,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 460663,
@@ -291,8 +323,16 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 459532,
+      "num": 333357,
+      "word": "核辐射检测仪卖爆了",
+      "onboard_time": 1693104634,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455841,
-      "num": 354305,
+      "num": 415531,
       "word": "披荆斩棘排名",
       "onboard_time": 1693105174,
       "rank": 16,
@@ -305,14 +345,6 @@
       "onboard_time": 1693095989,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 452802,
-      "num": 278047,
-      "word": "核辐射检测仪卖爆了",
-      "onboard_time": 1693104634,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451968,
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 414724,
-      "num": 414724,
+      "num": 420709,
       "word": "现实中的缅北诈骗远比电影惨烈",
       "onboard_time": 1693102114,
       "rank": 36,
@@ -385,6 +417,14 @@
       "onboard_time": 1693090878,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405841,
+      "num": 227358,
+      "word": "她花光十年积蓄给父亲造房",
+      "onboard_time": 1693107693,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 397572,
@@ -409,6 +449,14 @@
       "onboard_time": 1693062343,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388418,
+      "num": 388418,
+      "word": "五月天重庆",
+      "onboard_time": 1693107096,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 382849,
@@ -459,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352646,
+      "num": 352646,
+      "word": "时代少年团应援棒放冰箱",
+      "onboard_time": 1693106854,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352130,
       "num": 403115,
       "word": "太平洋沿岸国有权向日本政府发起核污水索赔",
@@ -484,7 +540,7 @@
     },
     {
       "raw_hot": 348979,
-      "num": 272727,
+      "num": 334356,
       "word": "超强台风苏拉",
       "onboard_time": 1693103795,
       "rank": 26,
@@ -492,7 +548,7 @@
     },
     {
       "raw_hot": 348969,
-      "num": 263683,
+      "num": 281019,
       "word": "如何看待国庆中秋上7休8",
       "onboard_time": 1693105717,
       "rank": 35,
@@ -521,6 +577,22 @@
       "onboard_time": 1693067494,
       "rank": 38,
       "category": "其它"
+    },
+    {
+      "raw_hot": 341040,
+      "num": 282007,
+      "word": "宋亚轩腰好细啊",
+      "onboard_time": 1693108116,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 332126,
+      "num": 332126,
+      "word": "海绵宝宝讲的是核污染的故事",
+      "onboard_time": 1693106974,
+      "rank": 45,
+      "category": "动漫,社会新闻"
     },
     {
       "raw_hot": 331445,
@@ -553,14 +625,6 @@
       "onboard_time": 1693101696,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 322738,
-      "num": 263431,
-      "word": "邓为 我觉得火不敢当",
-      "onboard_time": 1693106616,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 320920,
@@ -731,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238224,
+      "num": 224861,
+      "word": "男女主颜值对我眼睛很友好",
+      "onboard_time": 1693106917,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234804,
       "num": 234804,
       "word": "为什么长辈热衷于叫晚辈早起",
@@ -771,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229656,
+      "num": 229656,
+      "word": "3毛8一签的串串",
+      "onboard_time": 1693106256,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 229493,
       "num": 229493,
       "word": "犬王",
@@ -779,12 +859,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223671,
-      "num": 223671,
-      "word": "男女主颜值对我眼睛很友好",
-      "onboard_time": 1693106917,
+      "raw_hot": 223035,
+      "num": 223035,
+      "word": "其实穷人的孩子更晚熟",
+      "onboard_time": 1693109497,
       "rank": 35,
-      "category": "影视"
+      "category": "情感"
     },
     {
       "raw_hot": 222967,
@@ -803,20 +883,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 222250,
-      "num": 222250,
-      "word": "五月天重庆",
-      "onboard_time": 1693107096,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 221669,
       "num": 221669,
       "word": "不要低估自然卷的头发长度",
       "onboard_time": 1693095148,
       "rank": 32,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 216100,
+      "num": 216100,
+      "word": "尼格买提录节目受伤",
+      "onboard_time": 1693109794,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 215504,
@@ -851,14 +931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213096,
-      "num": 213096,
-      "word": "时代少年团应援棒放冰箱",
-      "onboard_time": 1693106854,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212316,
       "num": 212316,
       "word": "24考研预报名流程",
@@ -891,6 +963,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206014,
+      "num": 206014,
+      "word": "日本核污水事件的科学真相",
+      "onboard_time": 1693109674,
+      "rank": 39,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 200329,
+      "num": 200329,
+      "word": "曾舜晞cue了择天记",
+      "onboard_time": 1693106556,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199597,
       "num": 199597,
       "word": "张远的披头散发日常",
@@ -905,14 +993,6 @@
       "onboard_time": 1693100972,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197033,
-      "num": 197033,
-      "word": "曾舜晞cue了择天记",
-      "onboard_time": 1693106556,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 194591,
@@ -963,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181334,
+      "num": 181334,
+      "word": "一些莲花楼三人组魂穿时刻",
+      "onboard_time": 1693109674,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177395,
       "num": 177395,
       "word": "日料店无日本食材涉虚假宣传吗",
@@ -987,6 +1075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170888,
+      "num": 170888,
+      "word": "张杰开了86场演唱会",
+      "onboard_time": 1693108295,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170209,
       "num": 170209,
       "word": "大张伟谈早年遭遇",
@@ -1003,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168767,
+      "num": 168767,
+      "word": "张杰演唱会哭了",
+      "onboard_time": 1693108836,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165951,
       "num": 165951,
       "word": "郑恺看到美景第一时间分享给苗苗",
@@ -1017,14 +1121,6 @@
       "onboard_time": 1693062471,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 158921,
-      "num": 158921,
-      "word": "海绵宝宝讲的是核污染的故事",
-      "onboard_time": 1693106974,
-      "rank": 45,
-      "category": "动漫,社会新闻"
     },
     {
       "raw_hot": 154924,
@@ -1091,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120841,
-      "num": 120841,
-      "word": "3毛8一签的串串",
-      "onboard_time": 1693106256,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 117239,
       "num": 117239,
       "word": "你好星期六成毅",
@@ -1144,6 +1232,14 @@
       "word": "患者掉落万元现金夫妻路过捡到上交",
       "onboard_time": 1693105055,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86264,
+      "num": 2272035,
+      "word": "给新生的军训小贴士",
+      "onboard_time": 1693106616,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1257,14 +1353,6 @@
       "onboard_time": 1693080794,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 22791,
-      "num": 2272035,
-      "word": "给新生的军训小贴士",
-      "onboard_time": 1693106616,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10944,

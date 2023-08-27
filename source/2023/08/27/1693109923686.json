@@ -1,0 +1,410 @@
+{
+  "runTime": 1693109923686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3442579,
+        "num": 3442579,
+        "word": "福岛真相",
+        "onboard_time": 1693099293,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1459451,
+        "num": 1459451,
+        "word": "金城武 我很讨厌在拍戏时看到动物",
+        "onboard_time": 1693100494,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86264,
+        "num": 1083247,
+        "word": "给新生的军训小贴士",
+        "onboard_time": 1693106616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856413,
+        "num": 856413,
+        "word": "郑恺女儿上综艺了",
+        "onboard_time": 1693093044,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 751842,
+        "num": 751842,
+        "word": "恭喜08号选手李宇春",
+        "onboard_time": 1693105534,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 728575,
+        "num": 728575,
+        "word": "两女生被尾随急中生智躲进消防站",
+        "onboard_time": 1693107455,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701008,
+        "num": 701008,
+        "word": "宁安如梦",
+        "onboard_time": 1693107874,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542032,
+        "num": 542032,
+        "word": "CPA会计",
+        "onboard_time": 1693108774,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 479949,
+        "num": 479949,
+        "word": "邓为 我觉得火不敢当",
+        "onboard_time": 1693106616,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445717,
+        "num": 445717,
+        "word": "日本国内超市停买水产品让日企心态崩了",
+        "onboard_time": 1693044757,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1187881,
+        "num": 444529,
+        "word": "被美军炸了67次又遇上日本核污水",
+        "onboard_time": 1693101995,
+        "rank": 10,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 589545,
+        "num": 439950,
+        "word": "檀健次 帕拉丁",
+        "onboard_time": 1693104515,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477032,
+        "num": 430669,
+        "word": "杜海涛几十年的主持人白干了",
+        "onboard_time": 1693102172,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554893,
+        "num": 426394,
+        "word": "日本渔民哭诉政府愚蠢导致无法生存",
+        "onboard_time": 1693104515,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205819,
+        "num": 420709,
+        "word": "现实中的缅北诈骗远比电影惨烈",
+        "onboard_time": 1693102114,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528801,
+        "num": 415742,
+        "word": "孙俪写100遍隶书心经用了三年",
+        "onboard_time": 1693105597,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415531,
+        "num": 415531,
+        "word": "披荆斩棘排名",
+        "onboard_time": 1693105174,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388418,
+        "num": 388418,
+        "word": "五月天重庆",
+        "onboard_time": 1693107096,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352646,
+        "num": 352646,
+        "word": "时代少年团应援棒放冰箱",
+        "onboard_time": 1693106854,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334356,
+        "num": 334356,
+        "word": "超强台风苏拉",
+        "onboard_time": 1693103795,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459532,
+        "num": 333357,
+        "word": "核辐射检测仪卖爆了",
+        "onboard_time": 1693104634,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369898,
+        "num": 333199,
+        "word": "刘雨昕胸震",
+        "onboard_time": 1693099652,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332126,
+        "num": 332126,
+        "word": "海绵宝宝讲的是核污染的故事",
+        "onboard_time": 1693106974,
+        "rank": 22,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 286528,
+        "num": 286528,
+        "word": "女孩疑早恋和母亲吵架跳河男孩营救溺亡",
+        "onboard_time": 1693095989,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282213,
+        "num": 282213,
+        "word": "这段视频也火到国外去了",
+        "onboard_time": 1693097973,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341040,
+        "num": 282007,
+        "word": "宋亚轩腰好细啊",
+        "onboard_time": 1693108116,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281019,
+        "num": 281019,
+        "word": "如何看待国庆中秋上7休8",
+        "onboard_time": 1693105717,
+        "rank": 26,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 276157,
+        "num": 276157,
+        "word": "第一次见拔箭如此干脆的女主",
+        "onboard_time": 1693094606,
+        "rank": 27,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 267254,
+        "num": 267254,
+        "word": "安妮海瑟薇的颜值变化",
+        "onboard_time": 1693098213,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229656,
+        "num": 229656,
+        "word": "3毛8一签的串串",
+        "onboard_time": 1693106256,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 405841,
+        "num": 227358,
+        "word": "她花光十年积蓄给父亲造房",
+        "onboard_time": 1693107693,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241940,
+        "num": 226450,
+        "word": "陈晓吻戏从脸红到耳朵",
+        "onboard_time": 1693103496,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225029,
+        "num": 225029,
+        "word": "犬王",
+        "onboard_time": 1693107036,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238224,
+        "num": 224861,
+        "word": "男女主颜值对我眼睛很友好",
+        "onboard_time": 1693106917,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224132,
+        "num": 224132,
+        "word": "爱宝双胞胎女儿延续宝字辈",
+        "onboard_time": 1693096228,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223035,
+        "num": 223035,
+        "word": "其实穷人的孩子更晚熟",
+        "onboard_time": 1693109497,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2385508,
+        "num": 221090,
+        "word": "武林外传官方诉浙江广电",
+        "onboard_time": 1693105534,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216100,
+        "num": 216100,
+        "word": "尼格买提录节目受伤",
+        "onboard_time": 1693109794,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214861,
+        "num": 214861,
+        "word": "老人留下一套房产五兄妹和和气气均分",
+        "onboard_time": 1693061803,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206014,
+        "num": 206014,
+        "word": "日本核污水事件的科学真相",
+        "onboard_time": 1693109674,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 203944,
+        "num": 203944,
+        "word": "高铁上一女子被母女俩吵醒双方互殴",
+        "onboard_time": 1693098813,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200329,
+        "num": 200329,
+        "word": "曾舜晞cue了择天记",
+        "onboard_time": 1693106556,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199337,
+        "num": 199337,
+        "word": "日本水产厅检测鱼类样本只有2条",
+        "onboard_time": 1693093586,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200136,
+        "num": 191432,
+        "word": "成毅去看老师了",
+        "onboard_time": 1693102957,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181334,
+        "num": 181334,
+        "word": "一些莲花楼三人组魂穿时刻",
+        "onboard_time": 1693109674,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176631,
+        "num": 176631,
+        "word": "刀郎发微博了",
+        "onboard_time": 1693058866,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170892,
+        "num": 170892,
+        "word": "范丞丞小时候家对门住的是鲁豫",
+        "onboard_time": 1693098992,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170888,
+        "num": 170888,
+        "word": "张杰开了86场演唱会",
+        "onboard_time": 1693108295,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170765,
+        "num": 170765,
+        "word": "新中式裙子",
+        "onboard_time": 1693099054,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 168767,
+        "num": 168767,
+        "word": "张杰演唱会哭了",
+        "onboard_time": 1693108836,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席讲话里的真挚情谊#"
+    }
+  }
+}
