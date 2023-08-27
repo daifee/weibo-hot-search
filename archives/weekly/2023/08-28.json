@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693154061690,
+  "endTime": 1693156421111,
   "band_list": [
     {
       "raw_hot": 2017418,
@@ -59,6 +59,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 639673,
+      "num": 639673,
+      "word": "Doinb",
+      "onboard_time": 1693152933,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 624749,
+      "num": 411599,
+      "word": "日本超市海鲜打折也没人买",
+      "onboard_time": 1693152513,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593651,
       "num": 593651,
       "word": "王怡然最上镜小姐",
@@ -75,12 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570968,
-      "num": 411599,
-      "word": "日本超市海鲜打折也没人买",
-      "onboard_time": 1693152513,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 575048,
+      "num": 575048,
+      "word": "妈妈不让周扬青发的微博",
+      "onboard_time": 1693141480,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 508794,
@@ -97,14 +113,6 @@
       "onboard_time": 1693151137,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 453451,
-      "num": 453451,
-      "word": "Doinb",
-      "onboard_time": 1693152933,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 450268,
@@ -129,14 +137,6 @@
       "onboard_time": 1693151017,
       "rank": 24,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 420308,
-      "num": 420308,
-      "word": "妈妈不让周扬青发的微博",
-      "onboard_time": 1693141480,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 409810,
@@ -177,6 +177,14 @@
       "onboard_time": 1693149636,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354059,
+      "num": 354059,
+      "word": "AG蝉联世锦赛冠军",
+      "onboard_time": 1693154606,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 335973,
@@ -275,8 +283,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231552,
-      "num": 231552,
+      "raw_hot": 234375,
+      "num": 234375,
       "word": "脸蛋比心",
       "onboard_time": 1693152335,
       "rank": 36,
@@ -387,12 +395,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129805,
+      "num": 129805,
+      "word": "陆毅晒披荆斩棘四人间",
+      "onboard_time": 1693154190,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127670,
       "num": 127670,
       "word": "巴掌大的小鳄鱼派出所大口吃肉",
       "onboard_time": 1693149222,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125971,
+      "num": 125971,
+      "word": "陈晓娜扎的吻戏",
+      "onboard_time": 1693154488,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 115766,
@@ -425,6 +449,9 @@
     },
     {
       "word": "#新疆面临新机遇要有新作为#"
+    },
+    {
+      "word": "#在中国式现代化进程中更好建设美丽新疆#"
     }
   ]
 }
