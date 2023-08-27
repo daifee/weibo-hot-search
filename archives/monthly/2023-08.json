@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693142277246,
+  "endTime": 1693143230784,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -547,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3643499,
+      "num": 3786998,
+      "word": "2游客被终生禁入成都大熊猫基地",
+      "onboard_time": 1693138175,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3629486,
       "num": 1348008,
       "word": "受日本核污水影响最大的省份",
@@ -896,14 +904,6 @@
       "word": "日料",
       "onboard_time": 1692857584,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3140394,
-      "num": 3140394,
-      "word": "2游客被终生禁入成都大熊猫基地",
-      "onboard_time": 1693138175,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2571,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2158809,
+      "num": 2158809,
+      "word": "顾漫 接下来更新会更斟酌仔细",
+      "onboard_time": 1693138358,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2157719,
       "num": 2157719,
       "word": "莲花楼破万",
@@ -3249,14 +3257,6 @@
       "onboard_time": 1691388218,
       "rank": 14,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1959903,
-      "num": 1959903,
-      "word": "顾漫 接下来更新会更斟酌仔细",
-      "onboard_time": 1693138358,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1959772,
@@ -10827,6 +10827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 961009,
+      "num": 331883,
+      "word": "张婧仪抽烟镜头",
+      "onboard_time": 1693138835,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 960669,
       "num": 960669,
       "word": "导致脊柱侧弯的元凶",
@@ -10921,14 +10929,6 @@
       "onboard_time": 1691885006,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 955634,
-      "num": 331883,
-      "word": "张婧仪抽烟镜头",
-      "onboard_time": 1693138835,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 955568,
@@ -14177,6 +14177,14 @@
       "onboard_time": 1691043033,
       "rank": 38,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 785410,
+      "num": 785410,
+      "word": "尼格买提报平安",
+      "onboard_time": 1693142377,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 785351,
@@ -18179,6 +18187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 651593,
+      "num": 651593,
+      "word": "沈腾说捧不动范丞丞",
+      "onboard_time": 1693140156,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 651509,
       "num": 651509,
       "word": "日本就是这样感谢和回馈世界的",
@@ -18233,14 +18249,6 @@
       "onboard_time": 1691815721,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 649875,
-      "num": 649875,
-      "word": "沈腾说捧不动范丞丞",
-      "onboard_time": 1693140156,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 649382,
@@ -18537,6 +18545,14 @@
       "onboard_time": 1691237259,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 643270,
+      "num": 324940,
+      "word": "妈妈不让周扬青发的微博",
+      "onboard_time": 1693141480,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 643247,
@@ -20064,6 +20080,14 @@
       "word": "陈赫 等邓超开场呢",
       "onboard_time": 1691756436,
       "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 601622,
+      "num": 410126,
+      "word": "张子豪摔下台",
+      "onboard_time": 1693142137,
+      "rank": 39,
       "category": "音乐"
     },
     {
@@ -22771,6 +22795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 549045,
+      "num": 416887,
+      "word": "2023香港小姐决赛",
+      "onboard_time": 1693141117,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548813,
       "num": 502540,
       "word": "封神第一部删减",
@@ -25195,6 +25227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502381,
+      "num": 352371,
+      "word": "杨宗纬 我想要听张杰",
+      "onboard_time": 1693142496,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502365,
       "num": 502365,
       "word": "日本核污水事件的科学真相",
@@ -27203,14 +27243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 469809,
-      "num": 416887,
-      "word": "2023香港小姐决赛",
-      "onboard_time": 1693141117,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 469497,
       "num": 348990,
       "word": "妹妹误触了少儿模式退不出来了",
@@ -27241,6 +27273,14 @@
       "onboard_time": 1691844160,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 468914,
+      "num": 468914,
+      "word": "DRG BP",
+      "onboard_time": 1693139497,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 468740,
@@ -27633,14 +27673,6 @@
       "onboard_time": 1691033437,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 462117,
-      "num": 324940,
-      "word": "妈妈不让周扬青发的微博",
-      "onboard_time": 1693141480,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 461996,
@@ -40619,14 +40651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 306068,
-      "num": 306068,
-      "word": "DRG BP",
-      "onboard_time": 1693139497,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 306056,
       "num": 306056,
       "word": "英格兰女足",
@@ -44193,6 +44217,14 @@
       "onboard_time": 1692769477,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276916,
+      "num": 276916,
+      "word": "猫猫和狗狗的最后道别",
+      "onboard_time": 1693141779,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 276854,
@@ -50068,7 +50100,7 @@
     },
     {
       "raw_hot": 234220,
-      "num": 232143,
+      "num": 232456,
       "word": "魏大勋美拉德风",
       "onboard_time": 1693139436,
       "rank": 31,
@@ -51611,6 +51643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223265,
+      "num": 213539,
+      "word": "邓为绿植大片",
+      "onboard_time": 1693143037,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223252,
       "num": 223252,
       "word": "谁懂那种朋友回礼很便宜的感觉",
@@ -51873,6 +51913,14 @@
       "onboard_time": 1691452653,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222029,
+      "num": 222029,
+      "word": "世锦赛凡尘组合夺冠",
+      "onboard_time": 1693142918,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 221988,
@@ -53883,6 +53931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210942,
+      "num": 213652,
+      "word": "齐司礼live2d自制动态",
+      "onboard_time": 1693142197,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210916,
       "num": 210916,
       "word": "成毅念绕口令",
@@ -55851,14 +55907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203238,
-      "num": 203238,
-      "word": "张子豪摔下台",
-      "onboard_time": 1693142137,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 203129,
       "num": 203129,
       "word": "螺蛳粉里放什么菜最好吃",
@@ -56265,14 +56313,6 @@
       "onboard_time": 1692422316,
       "rank": 39,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 201744,
-      "num": 201744,
-      "word": "齐司礼live2d自制动态",
-      "onboard_time": 1693142197,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 201709,
@@ -57233,6 +57273,14 @@
       "onboard_time": 1692605559,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198691,
+      "num": 198691,
+      "word": "吴青峰感谢李宇春",
+      "onboard_time": 1693143217,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 198688,
@@ -59035,6 +59083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192153,
+      "num": 192153,
+      "word": "TTG对战DRG",
+      "onboard_time": 1693137156,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192071,
       "num": 204590,
       "word": "CPGZ05",
@@ -60115,6 +60171,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 187915,
+      "num": 187915,
+      "word": "工作后总会在周日晚上悲伤",
+      "onboard_time": 1693142197,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 187913,
       "num": 187913,
       "word": "中二就是汪东城的统治区吧",
@@ -60745,14 +60809,6 @@
       "onboard_time": 1691624308,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185005,
-      "num": 185005,
-      "word": "猫猫和狗狗的最后道别",
-      "onboard_time": 1693141779,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 184980,
@@ -64075,14 +64131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154414,
-      "num": 154414,
-      "word": "工作后总会在周日晚上悲伤",
-      "onboard_time": 1693142197,
-      "rank": 49,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 154270,
       "num": 239444,
       "word": "狼队对战TTG",
@@ -67091,6 +67139,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 110669,
+      "num": 409464,
+      "word": "这一次手铐是用来救命的",
+      "onboard_time": 1693141297,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110493,
       "num": 110493,
       "word": "白敬亭的胸肌隔着衣服都能看到",
@@ -69793,14 +69849,6 @@
       "onboard_time": 1692120202,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 54393,
-      "num": 409464,
-      "word": "这一次手铐是用来救命的",
-      "onboard_time": 1693141297,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54380,

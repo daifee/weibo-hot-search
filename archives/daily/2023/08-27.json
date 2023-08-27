@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693142277246,
+  "endTime": 1693143230784,
   "band_list": [
     {
       "raw_hot": 4044730,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3140394,
-      "num": 3140394,
+      "raw_hot": 3643499,
+      "num": 3786998,
       "word": "2游客被终生禁入成都大熊猫基地",
       "onboard_time": 1693138175,
       "rank": 11,
@@ -67,20 +67,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2158809,
+      "num": 2158809,
+      "word": "顾漫 接下来更新会更斟酌仔细",
+      "onboard_time": 1693138358,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2020454,
       "num": 2020454,
       "word": "12306回应火车卧铺能否自带床帘",
       "onboard_time": 1693127257,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1959903,
-      "num": 1959903,
-      "word": "顾漫 接下来更新会更斟酌仔细",
-      "onboard_time": 1693138358,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1917778,
@@ -259,7 +259,7 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 955634,
+      "raw_hot": 961009,
       "num": 331883,
       "word": "张婧仪抽烟镜头",
       "onboard_time": 1693138835,
@@ -337,6 +337,14 @@
       "onboard_time": 1693099652,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 785410,
+      "num": 785410,
+      "word": "尼格买提报平安",
+      "onboard_time": 1693142377,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 779398,
@@ -459,12 +467,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 649875,
-      "num": 649875,
+      "raw_hot": 651593,
+      "num": 651593,
       "word": "沈腾说捧不动范丞丞",
       "onboard_time": 1693140156,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 643270,
+      "num": 324940,
+      "word": "妈妈不让周扬青发的微博",
+      "onboard_time": 1693141480,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 638442,
@@ -505,6 +521,14 @@
       "onboard_time": 1693118432,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 601622,
+      "num": 410126,
+      "word": "张子豪摔下台",
+      "onboard_time": 1693142137,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 596337,
@@ -611,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 549045,
+      "num": 416887,
+      "word": "2023香港小姐决赛",
+      "onboard_time": 1693141117,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548609,
       "num": 548609,
       "word": "留学生被英国爷爷安利中国",
@@ -657,6 +689,14 @@
       "onboard_time": 1693063063,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 502381,
+      "num": 352371,
+      "word": "杨宗纬 我想要听张杰",
+      "onboard_time": 1693142496,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 502365,
@@ -715,12 +755,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 469809,
-      "num": 416887,
-      "word": "2023香港小姐决赛",
-      "onboard_time": 1693141117,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 468914,
+      "num": 468914,
+      "word": "DRG BP",
+      "onboard_time": 1693139497,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 463650,
@@ -729,14 +769,6 @@
       "onboard_time": 1693119695,
       "rank": 30,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 462117,
-      "num": 324940,
-      "word": "妈妈不让周扬青发的微博",
-      "onboard_time": 1693141480,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 460663,
@@ -1299,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306068,
-      "num": 306068,
-      "word": "DRG BP",
-      "onboard_time": 1693139497,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 303746,
       "num": 239025,
       "word": "印度裔单口女演员回怼男观众",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1693126352,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276916,
+      "num": 276916,
+      "word": "猫猫和狗狗的最后道别",
+      "onboard_time": 1693141779,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 275519,
@@ -1644,7 +1676,7 @@
     },
     {
       "raw_hot": 234220,
-      "num": 232143,
+      "num": 232456,
       "word": "魏大勋美拉德风",
       "onboard_time": 1693139436,
       "rank": 31,
@@ -1715,6 +1747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223265,
+      "num": 213539,
+      "word": "邓为绿植大片",
+      "onboard_time": 1693143037,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222967,
       "num": 222967,
       "word": "谁给小鬼做的美甲",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1693072100,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222029,
+      "num": 222029,
+      "word": "世锦赛凡尘组合夺冠",
+      "onboard_time": 1693142918,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 221875,
@@ -1811,12 +1859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213224,
+      "num": 213224,
+      "word": "张杰演唱会",
+      "onboard_time": 1693143098,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212316,
       "num": 212316,
       "word": "24考研预报名流程",
       "onboard_time": 1693096648,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210942,
+      "num": 213652,
+      "word": "齐司礼live2d自制动态",
+      "onboard_time": 1693142197,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 210684,
@@ -1867,14 +1931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 203238,
-      "num": 203238,
-      "word": "张子豪摔下台",
-      "onboard_time": 1693142137,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 202549,
       "num": 202549,
       "word": "星穹铁道丹恒饮月",
@@ -1889,14 +1945,6 @@
       "onboard_time": 1693130916,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201744,
-      "num": 201744,
-      "word": "齐司礼live2d自制动态",
-      "onboard_time": 1693142197,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 200329,
@@ -1921,6 +1969,14 @@
       "onboard_time": 1693105778,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198691,
+      "num": 198691,
+      "word": "吴青峰感谢李宇春",
+      "onboard_time": 1693143217,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 197462,
@@ -1979,6 +2035,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 192153,
+      "num": 192153,
+      "word": "TTG对战DRG",
+      "onboard_time": 1693137156,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191848,
       "num": 191848,
       "word": "周笔畅现身杨丞琳演唱会",
@@ -2019,6 +2083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187915,
+      "num": 187915,
+      "word": "工作后总会在周日晚上悲伤",
+      "onboard_time": 1693142197,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 186620,
       "num": 186620,
       "word": "被一只小狗的发型可爱到了",
@@ -2049,14 +2121,6 @@
       "onboard_time": 1693132954,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 185005,
-      "num": 185005,
-      "word": "猫猫和狗狗的最后道别",
-      "onboard_time": 1693141779,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 184728,
@@ -2307,14 +2371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 154414,
-      "num": 154414,
-      "word": "工作后总会在周日晚上悲伤",
-      "onboard_time": 1693142197,
-      "rank": 49,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 154160,
       "num": 154160,
       "word": "中学生参观博物馆指出错误获表扬",
@@ -2467,6 +2523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 110669,
+      "num": 409464,
+      "word": "这一次手铐是用来救命的",
+      "onboard_time": 1693141297,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109992,
       "num": 109992,
       "word": "女子拿爱心冰柜整盒藿香正气水被制止",
@@ -2585,14 +2649,6 @@
       "onboard_time": 1693044156,
       "rank": 49,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 54393,
-      "num": 409464,
-      "word": "这一次手铐是用来救命的",
-      "onboard_time": 1693141297,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51545,

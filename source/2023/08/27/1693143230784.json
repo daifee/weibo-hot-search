@@ -1,0 +1,410 @@
+{
+  "runTime": 1693143230784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3643499,
+        "num": 3786998,
+        "word": "2游客被终生禁入成都大熊猫基地",
+        "onboard_time": 1693138175,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2158809,
+        "num": 2158809,
+        "word": "顾漫 接下来更新会更斟酌仔细",
+        "onboard_time": 1693138358,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10478,
+        "num": 1600759,
+        "word": "给新生的军训小贴士",
+        "onboard_time": 1693106616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1433263,
+        "num": 1433263,
+        "word": "张远 想过糊没想过这么糊",
+        "onboard_time": 1693133373,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 828772,
+        "num": 828772,
+        "word": "观众演唱会上听不清歌声齐喊退票",
+        "onboard_time": 1693133492,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 785410,
+        "num": 785410,
+        "word": "尼格买提报平安",
+        "onboard_time": 1693142377,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 651593,
+        "num": 651593,
+        "word": "沈腾说捧不动范丞丞",
+        "onboard_time": 1693140156,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545960,
+        "num": 545960,
+        "word": "留学生被英国爷爷安利中国",
+        "onboard_time": 1693139616,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468914,
+        "num": 468914,
+        "word": "DRG BP",
+        "onboard_time": 1693139497,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 417033,
+        "num": 417033,
+        "word": "日本3天连发5次地震",
+        "onboard_time": 1693116630,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027585,
+        "num": 413292,
+        "word": "婚前冲动买房杭州姑娘肠子悔青",
+        "onboard_time": 1693124919,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634321,
+        "num": 412280,
+        "word": "长空之王最终票房8.5亿",
+        "onboard_time": 1693140218,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601622,
+        "num": 410126,
+        "word": "张子豪摔下台",
+        "onboard_time": 1693142137,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 402036,
+        "num": 402036,
+        "word": "花花醒来见到爷爷好开心",
+        "onboard_time": 1693134033,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110669,
+        "num": 385883,
+        "word": "这一次手铐是用来救命的",
+        "onboard_time": 1693141297,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549045,
+        "num": 371438,
+        "word": "2023香港小姐决赛",
+        "onboard_time": 1693141117,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502381,
+        "num": 352371,
+        "word": "杨宗纬 我想要听张杰",
+        "onboard_time": 1693142496,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 498849,
+        "num": 328536,
+        "word": "披荆斩棘给林志颖安排了单人间",
+        "onboard_time": 1693126232,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309949,
+        "num": 309949,
+        "word": "俄坠机事故遗体遗传学分析完成",
+        "onboard_time": 1693137275,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302050,
+        "num": 302050,
+        "word": "女子长期侧躺玩手机致右眼短暂失明",
+        "onboard_time": 1693122574,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961009,
+        "num": 298822,
+        "word": "张婧仪抽烟镜头",
+        "onboard_time": 1693138835,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 643270,
+        "num": 297319,
+        "word": "妈妈不让周扬青发的微博",
+        "onboard_time": 1693141480,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416930,
+        "num": 296471,
+        "word": "真正伤胃的五件事",
+        "onboard_time": 1693134394,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 295482,
+        "num": 295482,
+        "word": "难怪大学开学行李箱好几十公斤",
+        "onboard_time": 1693135474,
+        "rank": 23,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 280093,
+        "num": 280093,
+        "word": "长沙一小区电梯坠落2人瞬间腾空",
+        "onboard_time": 1693131036,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422823,
+        "num": 279779,
+        "word": "把骨相美发挥到了极致",
+        "onboard_time": 1693121614,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402750,
+        "num": 278475,
+        "word": "魏大勋直播",
+        "onboard_time": 1693140576,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366678,
+        "num": 278056,
+        "word": "九尾狐明明就是祥瑞",
+        "onboard_time": 1693133851,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276916,
+        "num": 276916,
+        "word": "猫猫和狗狗的最后道别",
+        "onboard_time": 1693141779,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258170,
+        "num": 258170,
+        "word": "确认普里戈任死亡",
+        "onboard_time": 1693134754,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363981,
+        "num": 252469,
+        "word": "刘雨昕去看了张杰演唱会",
+        "onboard_time": 1693140035,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349673,
+        "num": 250239,
+        "word": "他其实没那么喜欢你",
+        "onboard_time": 1693135894,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275173,
+        "num": 249204,
+        "word": "张远竟然是至上励合的",
+        "onboard_time": 1693126834,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246479,
+        "num": 246479,
+        "word": "谭松韵参加好朋友婚礼",
+        "onboard_time": 1693127257,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236719,
+        "num": 236719,
+        "word": "女子发现网红探访的凶宅是自己家",
+        "onboard_time": 1693116754,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232456,
+        "num": 232456,
+        "word": "魏大勋美拉德风",
+        "onboard_time": 1693139436,
+        "rank": 35,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 222029,
+        "num": 222029,
+        "word": "世锦赛凡尘组合夺冠",
+        "onboard_time": 1693142918,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216390,
+        "num": 216390,
+        "word": "结了婚才知道该嫁什么样的人",
+        "onboard_time": 1693120358,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216052,
+        "num": 216052,
+        "word": "历次印花税调整对A股影响",
+        "onboard_time": 1693130253,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210942,
+        "num": 213652,
+        "word": "齐司礼live2d自制动态",
+        "onboard_time": 1693142197,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227071,
+        "num": 213611,
+        "word": "香港小姐直播",
+        "onboard_time": 1693141717,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223265,
+        "num": 213539,
+        "word": "邓为绿植大片",
+        "onboard_time": 1693143037,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213224,
+        "num": 213224,
+        "word": "张杰演唱会",
+        "onboard_time": 1693143098,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211332,
+        "num": 211332,
+        "word": "乌尔善自己掏钱做封神特效",
+        "onboard_time": 1693138416,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200653,
+        "num": 200653,
+        "word": "12306回应火车卧铺能否自带床帘",
+        "onboard_time": 1693127257,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198691,
+        "num": 198691,
+        "word": "吴青峰感谢李宇春",
+        "onboard_time": 1693143217,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192153,
+        "num": 192153,
+        "word": "TTG对战DRG",
+        "onboard_time": 1693137156,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188676,
+        "num": 188676,
+        "word": "两大台风或将相继侵袭日本",
+        "onboard_time": 1693126352,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187915,
+        "num": 187915,
+        "word": "工作后总会在周日晚上悲伤",
+        "onboard_time": 1693142197,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 184504,
+        "num": 184504,
+        "word": "CPA经济法 现场立法",
+        "onboard_time": 1693135355,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#谋长远之策行固本之举更好建设美丽新疆#"
+    }
+  }
+}

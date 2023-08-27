@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1693142277246,
+  "endTime": 1693143230784,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3643499,
+      "num": 3786998,
+      "word": "2游客被终生禁入成都大熊猫基地",
+      "onboard_time": 1693138175,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3629486,
       "num": 1348008,
       "word": "受日本核污水影响最大的省份",
@@ -320,14 +328,6 @@
       "word": "日料",
       "onboard_time": 1692857584,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3140394,
-      "num": 3140394,
-      "word": "2游客被终生禁入成都大熊猫基地",
-      "onboard_time": 1693138175,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -835,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2158809,
+      "num": 2158809,
+      "word": "顾漫 接下来更新会更斟酌仔细",
+      "onboard_time": 1693138358,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2155908,
       "num": 2155908,
       "word": "六公主在播封神榜妖灭",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1692675760,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1959903,
-      "num": 1959903,
-      "word": "顾漫 接下来更新会更斟酌仔细",
-      "onboard_time": 1693138358,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1952851,
@@ -2803,6 +2803,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 961009,
+      "num": 331883,
+      "word": "张婧仪抽烟镜头",
+      "onboard_time": 1693138835,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 960669,
       "num": 960669,
       "word": "导致脊柱侧弯的元凶",
@@ -2841,14 +2849,6 @@
       "onboard_time": 1692939168,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 955634,
-      "num": 331883,
-      "word": "张婧仪抽烟镜头",
-      "onboard_time": 1693138835,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 949978,
@@ -3513,6 +3513,14 @@
       "onboard_time": 1692961958,
       "rank": 34,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 785410,
+      "num": 785410,
+      "word": "尼格买提报平安",
+      "onboard_time": 1693142377,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 785351,
@@ -4483,6 +4491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 651593,
+      "num": 651593,
+      "word": "沈腾说捧不动范丞丞",
+      "onboard_time": 1693140156,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 651509,
       "num": 651509,
       "word": "日本就是这样感谢和回馈世界的",
@@ -4505,14 +4521,6 @@
       "onboard_time": 1692784118,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 649875,
-      "num": 649875,
-      "word": "沈腾说捧不动范丞丞",
-      "onboard_time": 1693140156,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 647683,
@@ -4552,6 +4560,14 @@
       "word": "迪丽热巴画完奶茶喝奶茶",
       "onboard_time": 1692795937,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 643270,
+      "num": 324940,
+      "word": "妈妈不让周扬青发的微博",
+      "onboard_time": 1693141480,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -4977,6 +4993,14 @@
       "onboard_time": 1693044156,
       "rank": 22,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 601622,
+      "num": 410126,
+      "word": "张子豪摔下台",
+      "onboard_time": 1693142137,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 601462,
@@ -5545,6 +5569,14 @@
       "onboard_time": 1692660807,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 549045,
+      "num": 416887,
+      "word": "2023香港小姐决赛",
+      "onboard_time": 1693141117,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 548610,
@@ -6179,6 +6211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502381,
+      "num": 352371,
+      "word": "杨宗纬 我想要听张杰",
+      "onboard_time": 1693142496,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502365,
       "num": 502365,
       "word": "日本核污水事件的科学真相",
@@ -6667,20 +6707,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 469809,
-      "num": 416887,
-      "word": "2023香港小姐决赛",
-      "onboard_time": 1693141117,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 469388,
       "num": 469388,
       "word": "越休息越累的原因找到了",
       "onboard_time": 1692874612,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 468914,
+      "num": 468914,
+      "word": "DRG BP",
+      "onboard_time": 1693139497,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 468377,
@@ -6793,14 +6833,6 @@
       "onboard_time": 1692948580,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 462117,
-      "num": 324940,
-      "word": "妈妈不让周扬青发的微博",
-      "onboard_time": 1693141480,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 461740,
@@ -10403,14 +10435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 306068,
-      "num": 306068,
-      "word": "DRG BP",
-      "onboard_time": 1693139497,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 305561,
       "num": 305561,
       "word": "与檀健次共度七夕",
@@ -11345,6 +11369,14 @@
       "onboard_time": 1692769477,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276916,
+      "num": 276916,
+      "word": "猫猫和狗狗的最后道别",
+      "onboard_time": 1693141779,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 275942,
@@ -12932,7 +12964,7 @@
     },
     {
       "raw_hot": 234220,
-      "num": 232143,
+      "num": 232456,
       "word": "魏大勋美拉德风",
       "onboard_time": 1693139436,
       "rank": 31,
@@ -13379,6 +13411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223265,
+      "num": 213539,
+      "word": "邓为绿植大片",
+      "onboard_time": 1693143037,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223194,
       "num": 223194,
       "word": "乐观小子无畏",
@@ -13449,6 +13489,14 @@
       "onboard_time": 1692589962,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222029,
+      "num": 222029,
+      "word": "世锦赛凡尘组合夺冠",
+      "onboard_time": 1693142918,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 221875,
@@ -13859,6 +13907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213224,
+      "num": 213224,
+      "word": "张杰演唱会",
+      "onboard_time": 1692957458,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212888,
       "num": 212888,
       "word": "张远王耀庆各有各的心眼",
@@ -14017,6 +14073,14 @@
       "onboard_time": 1693052618,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210942,
+      "num": 213652,
+      "word": "齐司礼live2d自制动态",
+      "onboard_time": 1693142197,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 210916,
@@ -14563,14 +14627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203238,
-      "num": 203238,
-      "word": "张子豪摔下台",
-      "onboard_time": 1693142137,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 203099,
       "num": 203099,
       "word": "电影一闪一闪亮星星跨年见",
@@ -14697,14 +14753,6 @@
       "onboard_time": 1693011096,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 201744,
-      "num": 201744,
-      "word": "齐司礼live2d自制动态",
-      "onboard_time": 1693142197,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 201709,
@@ -15001,6 +15049,14 @@
       "onboard_time": 1692605559,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198691,
+      "num": 198691,
+      "word": "吴青峰感谢李宇春",
+      "onboard_time": 1693143217,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 198611,
@@ -15451,6 +15507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192153,
+      "num": 192153,
+      "word": "TTG对战DRG",
+      "onboard_time": 1693137156,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192015,
       "num": 194299,
       "word": "女子赶车磕倒司机和拄拐老人都来了",
@@ -15715,6 +15779,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 187915,
+      "num": 187915,
+      "word": "工作后总会在周日晚上悲伤",
+      "onboard_time": 1693142197,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 187743,
       "num": 187743,
       "word": "消防员冒雨狂奔收国旗",
@@ -15857,14 +15929,6 @@
       "onboard_time": 1693132954,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 185005,
-      "num": 185005,
-      "word": "猫猫和狗狗的最后道别",
-      "onboard_time": 1693141779,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 184966,
@@ -16587,14 +16651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165690,
-      "num": 165690,
-      "word": "张杰演唱会",
-      "onboard_time": 1692957458,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 165650,
       "num": 180088,
       "word": "敖子逸来自FMVP的自信",
@@ -16921,14 +16977,6 @@
       "onboard_time": 1692577056,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154414,
-      "num": 154414,
-      "word": "工作后总会在周日晚上悲伤",
-      "onboard_time": 1693142197,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 154160,
@@ -17665,6 +17713,14 @@
       "onboard_time": 1693067789,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 110669,
+      "num": 409464,
+      "word": "这一次手铐是用来救命的",
+      "onboard_time": 1693141297,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110493,
@@ -18431,14 +18487,6 @@
       "num": 362276,
       "word": "服务员小哥功夫擦桌行云流水",
       "onboard_time": 1692781297,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54393,
-      "num": 409464,
-      "word": "这一次手铐是用来救命的",
-      "onboard_time": 1693141297,
       "rank": 14,
       "category": "社会新闻"
     },
