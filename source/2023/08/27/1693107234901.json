@@ -1,0 +1,410 @@
+{
+  "runTime": 1693107234901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4044730,
+        "num": 4589460,
+        "word": "福岛真相",
+        "onboard_time": 1693099293,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2903868,
+        "num": 2903868,
+        "word": "武林外传官方诉浙江广电",
+        "onboard_time": 1693105534,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22791,
+        "num": 2272035,
+        "word": "给新生的军训小贴士",
+        "onboard_time": 1693106616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2164428,
+        "num": 2164428,
+        "word": "金城武 我很讨厌在拍戏时看到动物",
+        "onboard_time": 1693100494,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 991040,
+        "num": 991040,
+        "word": "郑恺女儿上综艺了",
+        "onboard_time": 1693093044,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524035,
+        "num": 524035,
+        "word": "日本国内超市停买水产品让日企心态崩了",
+        "onboard_time": 1693044757,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 621930,
+        "num": 519373,
+        "word": "杜海涛几十年的主持人白干了",
+        "onboard_time": 1693102172,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506041,
+        "num": 506041,
+        "word": "安妮海瑟薇的颜值变化",
+        "onboard_time": 1693098213,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 382839,
+        "num": 382839,
+        "word": "现实中的缅北诈骗远比电影惨烈",
+        "onboard_time": 1693102114,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303708,
+        "num": 303708,
+        "word": "新中式裙子",
+        "onboard_time": 1693099054,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1459046,
+        "num": 303549,
+        "word": "被美军炸了67次又遇上日本核污水",
+        "onboard_time": 1693101995,
+        "rank": 10,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 589986,
+        "num": 302663,
+        "word": "孙俪写100遍隶书心经用了三年",
+        "onboard_time": 1693105597,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524616,
+        "num": 302175,
+        "word": "日本渔民哭诉政府愚蠢导致无法生存",
+        "onboard_time": 1693104515,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461186,
+        "num": 301380,
+        "word": "恭喜08号选手李宇春",
+        "onboard_time": 1693105534,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 455841,
+        "num": 300842,
+        "word": "披荆斩棘排名",
+        "onboard_time": 1693105174,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365305,
+        "num": 299884,
+        "word": "第一次见拔箭如此干脆的女主",
+        "onboard_time": 1693094606,
+        "rank": 15,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 312565,
+        "num": 299405,
+        "word": "成毅去看老师了",
+        "onboard_time": 1693102957,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298861,
+        "num": 298861,
+        "word": "日本水产厅检测鱼类样本只有2条",
+        "onboard_time": 1693093586,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293079,
+        "num": 293079,
+        "word": "老人留下一套房产五兄妹和和气气均分",
+        "onboard_time": 1693061803,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264089,
+        "num": 264089,
+        "word": "爱宝双胞胎女儿延续宝字辈",
+        "onboard_time": 1693096228,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596180,
+        "num": 264010,
+        "word": "檀健次 帕拉丁",
+        "onboard_time": 1693104515,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447434,
+        "num": 263955,
+        "word": "核辐射检测仪卖爆了",
+        "onboard_time": 1693104634,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443135,
+        "num": 263831,
+        "word": "刘雨昕胸震",
+        "onboard_time": 1693099652,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 435920,
+        "num": 263748,
+        "word": "女孩疑早恋和母亲吵架跳河男孩营救溺亡",
+        "onboard_time": 1693095989,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348969,
+        "num": 263683,
+        "word": "如何看待国庆中秋上7休8",
+        "onboard_time": 1693105717,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 402749,
+        "num": 263585,
+        "word": "陈晓吻戏从脸红到耳朵",
+        "onboard_time": 1693103496,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327848,
+        "num": 263556,
+        "word": "超强台风苏拉",
+        "onboard_time": 1693103795,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322738,
+        "num": 263431,
+        "word": "邓为 我觉得火不敢当",
+        "onboard_time": 1693106616,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263388,
+        "num": 263388,
+        "word": "俞灏明强烈地希望自己不是榜一",
+        "onboard_time": 1693101696,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255796,
+        "num": 255796,
+        "word": "这段视频也火到国外去了",
+        "onboard_time": 1693097973,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253978,
+        "num": 253978,
+        "word": "孟美岐空中坠落",
+        "onboard_time": 1693056760,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248142,
+        "num": 248142,
+        "word": "张栋梁披荆斩棘排名",
+        "onboard_time": 1693100793,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233868,
+        "num": 233868,
+        "word": "高铁上一女子被母女俩吵醒双方互殴",
+        "onboard_time": 1693098813,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229493,
+        "num": 229493,
+        "word": "犬王",
+        "onboard_time": 1693107036,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212389,
+        "num": 224931,
+        "word": "到学校了发现还连着家里的WiFi",
+        "onboard_time": 1693093824,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223671,
+        "num": 223671,
+        "word": "男女主颜值对我眼睛很友好",
+        "onboard_time": 1693106917,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222250,
+        "num": 222250,
+        "word": "五月天重庆",
+        "onboard_time": 1693107096,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216559,
+        "num": 216559,
+        "word": "范丞丞小时候家对门住的是鲁豫",
+        "onboard_time": 1693098992,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190280,
+        "num": 214129,
+        "word": "中秋可以连休8天",
+        "onboard_time": 1693097852,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10944,
+        "num": 213459,
+        "word": "搜狐视频舞蹈翻跳大赛",
+        "onboard_time": 1693105238,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213096,
+        "num": 213096,
+        "word": "时代少年团应援棒放冰箱",
+        "onboard_time": 1693106854,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197033,
+        "num": 197033,
+        "word": "曾舜晞cue了择天记",
+        "onboard_time": 1693106556,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175775,
+        "num": 175775,
+        "word": "女子试用期上班51天迟到25次被辞退",
+        "onboard_time": 1693090878,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189371,
+        "num": 172991,
+        "word": "张远的披头散发日常",
+        "onboard_time": 1693105778,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165666,
+        "num": 165666,
+        "word": "弟弟才是最好的旅游搭子",
+        "onboard_time": 1693096049,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158921,
+        "num": 158921,
+        "word": "海绵宝宝讲的是核污染的故事",
+        "onboard_time": 1693106974,
+        "rank": 45,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 141207,
+        "num": 141207,
+        "word": "梅西美职联首球",
+        "onboard_time": 1693101034,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129228,
+        "num": 129228,
+        "word": "1秒get大熊猫版向往的生活",
+        "onboard_time": 1693107036,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120841,
+        "num": 120841,
+        "word": "3毛8一签的串串",
+        "onboard_time": 1693106256,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118597,
+        "num": 118597,
+        "word": "不要低估自然卷的头发长度",
+        "onboard_time": 1693095148,
+        "rank": 49,
+        "category": "美妆,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席讲话里的真挚情谊#"
+    }
+  }
+}

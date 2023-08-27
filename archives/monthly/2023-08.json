@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693106193751,
+  "endTime": 1693107234901,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -427,20 +427,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4044730,
+      "num": 4589460,
+      "word": "福岛真相",
+      "onboard_time": 1693099293,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4037305,
       "num": 892771,
       "word": "优酷直播",
       "onboard_time": 1691323081,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3972314,
-      "num": 4444628,
-      "word": "福岛真相",
-      "onboard_time": 1693099293,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3970595,
@@ -1072,6 +1072,14 @@
       "word": "优酷客服回应网友有偿共享TFBOYS直播",
       "onboard_time": 1691318020,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2903868,
+      "num": 2903868,
+      "word": "武林外传官方诉浙江广电",
+      "onboard_time": 1693105534,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -4088,14 +4096,6 @@
       "word": "网友偶遇黄多多",
       "onboard_time": 1692162044,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1721536,
-      "num": 1721536,
-      "word": "武林外传官方诉浙江广电",
-      "onboard_time": 1693105534,
-      "rank": 3,
       "category": "艺人"
     },
     {
@@ -20243,6 +20243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 589986,
+      "num": 348637,
+      "word": "孙俪写100遍隶书心经用了三年",
+      "onboard_time": 1693105597,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589912,
       "num": 589912,
       "word": "长相思包揽角色吸粉榜前三",
@@ -23537,6 +23545,14 @@
       "onboard_time": 1691704935,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 524616,
+      "num": 364823,
+      "word": "日本渔民哭诉政府愚蠢导致无法生存",
+      "onboard_time": 1693104515,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524359,
@@ -27243,6 +27259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461186,
+      "num": 301380,
+      "word": "恭喜08号选手李宇春",
+      "onboard_time": 1693105534,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 461106,
       "num": 461106,
       "word": "人间清醒的杨紫",
@@ -27617,6 +27641,14 @@
       "onboard_time": 1692342455,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 455841,
+      "num": 354305,
+      "word": "披荆斩棘排名",
+      "onboard_time": 1693105174,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 455699,
@@ -28440,14 +28472,6 @@
       "word": "妻子成植物人7年丈夫不放弃唤醒她",
       "onboard_time": 1691892214,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444105,
-      "num": 364823,
-      "word": "日本渔民哭诉政府愚蠢导致无法生存",
-      "onboard_time": 1693104515,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -35339,14 +35363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354305,
-      "num": 354305,
-      "word": "披荆斩棘排名",
-      "onboard_time": 1693105174,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354304,
       "num": 354304,
       "word": "曾黎王冰冰同框",
@@ -35891,6 +35907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348969,
+      "num": 263683,
+      "word": "如何看待国庆中秋上7休8",
+      "onboard_time": 1693105717,
+      "rank": 35,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 348965,
       "num": 296698,
       "word": "费翔天选纣王",
@@ -35921,14 +35945,6 @@
       "onboard_time": 1691728541,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 348637,
-      "num": 348637,
-      "word": "孙俪写100遍隶书心经用了三年",
-      "onboard_time": 1693105597,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 348624,
@@ -38161,6 +38177,14 @@
       "onboard_time": 1691546314,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322738,
+      "num": 263431,
+      "word": "邓为 我觉得火不敢当",
+      "onboard_time": 1693106616,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 322580,
@@ -41105,14 +41129,6 @@
       "onboard_time": 1692583895,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 295204,
-      "num": 265448,
-      "word": "恭喜08号选手李宇春",
-      "onboard_time": 1693105534,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 295197,
@@ -49755,6 +49771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229493,
+      "num": 229493,
+      "word": "犬王",
+      "onboard_time": 1693107036,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229457,
       "num": 229457,
       "word": "宋亚轩靠着墙飙高音",
@@ -50563,6 +50587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223671,
+      "num": 223671,
+      "word": "男女主颜值对我眼睛很友好",
+      "onboard_time": 1693106917,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223614,
       "num": 223614,
       "word": "2岁半人类幼崽视角取快递",
@@ -50899,6 +50931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222250,
+      "num": 222250,
+      "word": "五月天重庆",
+      "onboard_time": 1693107096,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 222230,
       "num": 222230,
       "word": "薛之谦说李在溪说有种",
@@ -51185,14 +51225,6 @@
       "onboard_time": 1692581015,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220590,
-      "num": 220590,
-      "word": "如何看待国庆中秋上7休8",
-      "onboard_time": 1693105717,
-      "rank": 35,
-      "category": "社会议题"
     },
     {
       "raw_hot": 220545,
@@ -52465,6 +52497,14 @@
       "onboard_time": 1691484698,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213096,
+      "num": 213096,
+      "word": "时代少年团应援棒放冰箱",
+      "onboard_time": 1693106854,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 213056,
@@ -56697,6 +56737,14 @@
       "onboard_time": 1691575479,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197033,
+      "num": 197033,
+      "word": "曾舜晞cue了择天记",
+      "onboard_time": 1693106556,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 197008,
@@ -62395,6 +62443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158921,
+      "num": 158921,
+      "word": "海绵宝宝讲的是核污染的故事",
+      "onboard_time": 1693106974,
+      "rank": 45,
+      "category": "动漫,社会新闻"
+    },
+    {
       "raw_hot": 158832,
       "num": 173008,
       "word": "今年第三次水逆将正式开始",
@@ -64747,6 +64803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 129228,
+      "num": 129228,
+      "word": "1秒get大熊猫版向往的生活",
+      "onboard_time": 1693107036,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129223,
       "num": 1033857,
       "word": "救援队女队员瞒着家人千里驰援涿州",
@@ -65201,6 +65265,14 @@
       "onboard_time": 1691948061,
       "rank": 20,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 120841,
+      "num": 120841,
+      "word": "3毛8一签的串串",
+      "onboard_time": 1693106256,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 120816,
@@ -69755,6 +69827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22791,
+      "num": 2272035,
+      "word": "给新生的军训小贴士",
+      "onboard_time": 1693106616,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22677,
       "num": 22190,
       "word": "成年后每个人都有自己的生活挑战",
@@ -69979,20 +70059,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 10944,
+      "num": 213459,
+      "word": "搜狐视频舞蹈翻跳大赛",
+      "onboard_time": 1693105238,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 10475,
       "num": 2023777,
       "word": "距杭州亚运会还有30天",
       "onboard_time": 1692881218,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9499,
-      "num": 187488,
-      "word": "搜狐视频舞蹈翻跳大赛",
-      "onboard_time": 1693105238,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 9165,
