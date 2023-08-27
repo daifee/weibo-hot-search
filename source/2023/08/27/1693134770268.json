@@ -1,0 +1,410 @@
+{
+  "runTime": 1693134770268,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1852284,
+        "num": 1852284,
+        "word": "12306回应火车卧铺能否自带床帘",
+        "onboard_time": 1693127257,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610465,
+        "num": 1531435,
+        "word": "谁花5555元买早餐了老板正找你",
+        "onboard_time": 1693123117,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79241,
+        "num": 1429869,
+        "word": "新疆面临新机遇要有新作为",
+        "onboard_time": 1693123535,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361047,
+        "num": 1361047,
+        "word": "张远竟然是至上励合的",
+        "onboard_time": 1693126834,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277426,
+        "num": 1316772,
+        "word": "夫妻俩医院捡1万元毫不犹豫上交",
+        "onboard_time": 1693127318,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1312211,
+        "num": 1312211,
+        "word": "张远 想过糊没想过这么糊",
+        "onboard_time": 1693133373,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261765,
+        "num": 1232243,
+        "word": "6名银行员工帮客户清点160万被烧现金",
+        "onboard_time": 1693122694,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167946,
+        "num": 1167946,
+        "word": "长沙一小区电梯坠落2人瞬间腾空",
+        "onboard_time": 1693131036,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677225,
+        "num": 677225,
+        "word": "姬发",
+        "onboard_time": 1693128934,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495355,
+        "num": 495355,
+        "word": "女子发现网红探访的凶宅是自己家",
+        "onboard_time": 1693116754,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1467347,
+        "num": 494517,
+        "word": "婚前冲动买房杭州姑娘肠子悔青",
+        "onboard_time": 1693124919,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064591,
+        "num": 492148,
+        "word": "披荆斩棘给林志颖安排了单人间",
+        "onboard_time": 1693126232,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631700,
+        "num": 490678,
+        "word": "鹊刀门传奇 缅北",
+        "onboard_time": 1693133252,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 606326,
+        "num": 488703,
+        "word": "谭松韵参加好朋友婚礼",
+        "onboard_time": 1693127257,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540334,
+        "num": 485983,
+        "word": "把骨相美发挥到了极致",
+        "onboard_time": 1693121614,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484688,
+        "num": 484688,
+        "word": "观众演唱会上听不清歌声齐喊退票",
+        "onboard_time": 1693133492,
+        "rank": 15,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 460618,
+        "num": 460618,
+        "word": "九尾狐明明就是祥瑞",
+        "onboard_time": 1693133851,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450873,
+        "num": 450873,
+        "word": "日本3天连发5次地震",
+        "onboard_time": 1693116630,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400636,
+        "num": 400636,
+        "word": "女子长期侧躺玩手机致右眼短暂失明",
+        "onboard_time": 1693122574,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371940,
+        "num": 371940,
+        "word": "张晚意听到玱玹老婆慌了",
+        "onboard_time": 1693132716,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335607,
+        "num": 335607,
+        "word": "证券交易印花税实施减半征收",
+        "onboard_time": 1693128335,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 329455,
+        "num": 329455,
+        "word": "上班没必要内耗自己",
+        "onboard_time": 1693129715,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320581,
+        "num": 320581,
+        "word": "马思纯孙千好闺蜜合照",
+        "onboard_time": 1693131394,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308987,
+        "num": 308987,
+        "word": "结了婚才知道该嫁什么样的人",
+        "onboard_time": 1693120358,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307920,
+        "num": 307920,
+        "word": "丫丫吃自家的胡萝卜香喷喷",
+        "onboard_time": 1693133553,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276173,
+        "num": 276173,
+        "word": "当第一次去吃牛排说要十分熟",
+        "onboard_time": 1693132651,
+        "rank": 25,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 272411,
+        "num": 272411,
+        "word": "历次印花税调整对A股影响",
+        "onboard_time": 1693130253,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 266619,
+        "num": 266619,
+        "word": "从菠萝包里吃出菠萝",
+        "onboard_time": 1693128275,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244287,
+        "num": 244287,
+        "word": "左拐张杰右拐陈楚生",
+        "onboard_time": 1693127433,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235547,
+        "num": 235547,
+        "word": "白敬亭魏大勋范丞丞开卡丁车",
+        "onboard_time": 1693134094,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267306,
+        "num": 230622,
+        "word": "花花醒来见到爷爷好开心",
+        "onboard_time": 1693134033,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225511,
+        "num": 225511,
+        "word": "已有894家俄罗斯公司获准对华出口水产品",
+        "onboard_time": 1693116516,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 219241,
+        "num": 219241,
+        "word": "证监会进一步规范股份减持行为",
+        "onboard_time": 1693133613,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216784,
+        "num": 216784,
+        "word": "成毅吃柿饼全靠偷袭",
+        "onboard_time": 1693132534,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212180,
+        "num": 212180,
+        "word": "两大台风或将相继侵袭日本",
+        "onboard_time": 1693126352,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206794,
+        "num": 206794,
+        "word": "于适封神开机5周年Vlog",
+        "onboard_time": 1693130916,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201072,
+        "num": 201072,
+        "word": "真正伤胃的五件事",
+        "onboard_time": 1693134394,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 199357,
+        "num": 199357,
+        "word": "福岛真相",
+        "onboard_time": 1693099293,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199172,
+        "num": 199172,
+        "word": "骄阳似我下剧情",
+        "onboard_time": 1693125395,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191020,
+        "num": 191020,
+        "word": "Jennie粉色芭比造型",
+        "onboard_time": 1693118432,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185141,
+        "num": 185141,
+        "word": "孟佳晒张杰演唱会vlog",
+        "onboard_time": 1693132954,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180860,
+        "num": 180860,
+        "word": "心眼子练习之领导叫我打包鱼",
+        "onboard_time": 1693134094,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178357,
+        "num": 178357,
+        "word": "唐禹哲是女儿奴",
+        "onboard_time": 1693125874,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174748,
+        "num": 174748,
+        "word": "苏醒的社会学",
+        "onboard_time": 1693134454,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168054,
+        "num": 168054,
+        "word": "李一桐曾舜晞合跳whatever",
+        "onboard_time": 1693132055,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167105,
+        "num": 167105,
+        "word": "当姬发养哈基米",
+        "onboard_time": 1693130916,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161921,
+        "num": 161921,
+        "word": "妈妈欲买海鲜囤满3米长冰柜惊呆儿子",
+        "onboard_time": 1693120594,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160474,
+        "num": 160474,
+        "word": "确认普里戈任死亡",
+        "onboard_time": 1693134754,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143471,
+        "num": 143471,
+        "word": "现在的仙侠剧情绪太不稳定",
+        "onboard_time": 1693123293,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133281,
+        "num": 133281,
+        "word": "幼儿园被疑组织家长开私家车队上街炫富",
+        "onboard_time": 1693124014,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化进程中更好建设美丽新疆#"
+    }
+  }
+}
