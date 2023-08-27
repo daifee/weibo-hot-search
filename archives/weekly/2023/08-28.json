@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693175634040,
+  "endTime": 1693178129880,
   "band_list": [
     {
       "raw_hot": 2017418,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 919985,
+      "num": 575048,
+      "word": "妈妈不让周扬青发的微博",
+      "onboard_time": 1693141480,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 858211,
       "num": 299822,
       "word": "俄海岸惊现深海恐怖怪鱼",
@@ -57,6 +65,14 @@
       "onboard_time": 1693149163,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 639962,
+      "num": 639962,
+      "word": "打假人举报辛吉飞代言奶粉含违禁成分",
+      "onboard_time": 1693173015,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 639673,
@@ -89,14 +105,6 @@
       "onboard_time": 1693151256,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575048,
-      "num": 575048,
-      "word": "妈妈不让周扬青发的微博",
-      "onboard_time": 1693141480,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 508794,
@@ -195,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324849,
+      "num": 324849,
+      "word": "男孩怕瓜有毒让民警先吃",
+      "onboard_time": 1693147479,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318960,
       "num": 288951,
       "word": "一路朝阳 今晚创飞我",
@@ -209,14 +225,6 @@
       "onboard_time": 1693151433,
       "rank": 17,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 313616,
-      "num": 313616,
-      "word": "男孩怕瓜有毒让民警先吃",
-      "onboard_time": 1693147479,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310999,
@@ -264,14 +272,6 @@
       "word": "21岁亚裔女孩为护母被继父刺107刀",
       "onboard_time": 1693144539,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262500,
-      "num": 262500,
-      "word": "打假人举报辛吉飞代言奶粉含违禁成分",
-      "onboard_time": 1693173015,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -427,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123997,
+      "num": 123997,
+      "word": "纽卡斯尔联1比2利物浦",
+      "onboard_time": 1693177644,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115766,
       "num": 115766,
       "word": "2023香港小姐决赛",
@@ -444,11 +452,27 @@
     },
     {
       "raw_hot": 103139,
-      "num": 78910,
+      "num": 98478,
       "word": "亲戚对你的态度其实取决于父母",
       "onboard_time": 1693158021,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96143,
+      "num": 96143,
+      "word": "长沙医学院回应还在施工就开学",
+      "onboard_time": 1693167374,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 91836,
+      "num": 91836,
+      "word": "万茜这个镜头看哭了多少妈妈",
+      "onboard_time": 1693174997,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 70837,
@@ -456,6 +480,14 @@
       "word": "十个勤天",
       "onboard_time": 1693163536,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 69774,
+      "num": 69774,
+      "word": "脱口秀大会文字版",
+      "onboard_time": 1693177884,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -467,11 +499,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 55311,
-      "num": 53869,
-      "word": "长沙医学院回应还在施工就开学",
-      "onboard_time": 1693167374,
-      "rank": 35,
+      "raw_hot": 60512,
+      "num": 60512,
+      "word": "长沙一学校尚在施工中就开学",
+      "onboard_time": 1693170733,
+      "rank": 49,
       "category": "教育,社会新闻"
     },
     {
@@ -483,23 +515,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 38419,
-      "num": 38419,
-      "word": "这猫是不是看过自己的表情包了",
-      "onboard_time": 1693160837,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 38122,
-      "num": 38122,
-      "word": "长沙一学校尚在施工中就开学",
-      "onboard_time": 1693170733,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 34688,
+      "raw_hot": 41463,
       "num": 991520,
       "word": "神十六乘组有自己的Tony老师",
       "onboard_time": 1693140697,
@@ -507,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31143,
-      "num": 31143,
-      "word": "万茜这个镜头看哭了多少妈妈",
-      "onboard_time": 1693174997,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 38419,
+      "num": 38419,
+      "word": "这猫是不是看过自己的表情包了",
+      "onboard_time": 1693160837,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 18028,
