@@ -1,0 +1,410 @@
+{
+  "runTime": 1693103623205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3972314,
+        "num": 4444628,
+        "word": "福岛真相",
+        "onboard_time": 1693099293,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2517850,
+        "num": 2517850,
+        "word": "金城武 我很讨厌在拍戏时看到动物",
+        "onboard_time": 1693100494,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40168,
+        "num": 1841510,
+        "word": "金砖扩员后GDP占全球近三成",
+        "onboard_time": 1693057783,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1383462,
+        "num": 1383462,
+        "word": "郑恺女儿上综艺了",
+        "onboard_time": 1693093044,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 831535,
+        "num": 831535,
+        "word": "安妮海瑟薇的颜值变化",
+        "onboard_time": 1693098213,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1171645,
+        "num": 754222,
+        "word": "杜海涛几十年的主持人白干了",
+        "onboard_time": 1693102172,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628387,
+        "num": 628387,
+        "word": "日本国内超市停买水产品让日企心态崩了",
+        "onboard_time": 1693044757,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 499307,
+        "num": 499307,
+        "word": "第一次见拔箭如此干脆的女主",
+        "onboard_time": 1693094606,
+        "rank": 7,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 460663,
+        "num": 460663,
+        "word": "新中式裙子",
+        "onboard_time": 1693099054,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 405765,
+        "num": 405765,
+        "word": "老人留下一套房产五兄妹和和气气均分",
+        "onboard_time": 1693061803,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874003,
+        "num": 403922,
+        "word": "被美军炸了67次又遇上日本核污水",
+        "onboard_time": 1693101995,
+        "rank": 10,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 783742,
+        "num": 399126,
+        "word": "日本水产厅检测鱼类样本只有2条",
+        "onboard_time": 1693093586,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464940,
+        "num": 389174,
+        "word": "张栋梁披荆斩棘排名",
+        "onboard_time": 1693100793,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441872,
+        "num": 387715,
+        "word": "范丞丞小时候家对门住的是鲁豫",
+        "onboard_time": 1693098992,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317999,
+        "num": 378540,
+        "word": "现实中的缅北诈骗远比电影惨烈",
+        "onboard_time": 1693102114,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376077,
+        "num": 376077,
+        "word": "孟美岐空中坠落",
+        "onboard_time": 1693056760,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366491,
+        "num": 366491,
+        "word": "何炅宠了成毅一整期",
+        "onboard_time": 1693098992,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354431,
+        "num": 354431,
+        "word": "梅西",
+        "onboard_time": 1693100494,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345874,
+        "num": 345874,
+        "word": "爱宝双胞胎女儿延续宝字辈",
+        "onboard_time": 1693096228,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324549,
+        "num": 324549,
+        "word": "俞灏明强烈地希望自己不是榜一",
+        "onboard_time": 1693101696,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695276,
+        "num": 322464,
+        "word": "刘雨昕胸震",
+        "onboard_time": 1693099652,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 628848,
+        "num": 311065,
+        "word": "女孩疑早恋和母亲吵架跳河男孩营救溺亡",
+        "onboard_time": 1693095989,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396751,
+        "num": 302168,
+        "word": "中秋可以连休8天",
+        "onboard_time": 1693097852,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380728,
+        "num": 297100,
+        "word": "高铁上一女子被母女俩吵醒双方互殴",
+        "onboard_time": 1693098813,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343380,
+        "num": 287995,
+        "word": "这段视频也火到国外去了",
+        "onboard_time": 1693097973,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287222,
+        "num": 287222,
+        "word": "成毅去看老师了",
+        "onboard_time": 1693102957,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274485,
+        "num": 274485,
+        "word": "朴志晟补位",
+        "onboard_time": 1693098513,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271193,
+        "num": 271193,
+        "word": "到学校了发现还连着家里的WiFi",
+        "onboard_time": 1693093824,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263901,
+        "num": 263901,
+        "word": "女子试用期上班51天迟到25次被辞退",
+        "onboard_time": 1693090878,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258461,
+        "num": 258461,
+        "word": "长相思第二季是不是快来了",
+        "onboard_time": 1693095989,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239881,
+        "num": 239881,
+        "word": "梅西美职联首球",
+        "onboard_time": 1693101034,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230455,
+        "num": 230455,
+        "word": "刀郎发微博了",
+        "onboard_time": 1693058866,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227002,
+        "num": 227002,
+        "word": "和前任分手后还会联系吗",
+        "onboard_time": 1693101335,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223694,
+        "num": 223694,
+        "word": "下半年都指望成毅这期好六乐了",
+        "onboard_time": 1693099772,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220993,
+        "num": 220993,
+        "word": "谁给小鬼做的美甲",
+        "onboard_time": 1693097250,
+        "rank": 34,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 217406,
+        "num": 217406,
+        "word": "陈晓吻戏从脸红到耳朵",
+        "onboard_time": 1693103496,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198400,
+        "num": 198400,
+        "word": "央视莲花楼剪辑顺序换了",
+        "onboard_time": 1693093344,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189217,
+        "num": 189217,
+        "word": "江苏常州一隧道口发生惨烈车祸",
+        "onboard_time": 1693060186,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188191,
+        "num": 188191,
+        "word": "弟弟才是最好的旅游搭子",
+        "onboard_time": 1693096049,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184569,
+        "num": 184569,
+        "word": "我的英语老师改行造显微镜去了",
+        "onboard_time": 1693098213,
+        "rank": 39,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 193013,
+        "num": 181973,
+        "word": "杨丞琳亲完周笔畅说好香",
+        "onboard_time": 1693100972,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189611,
+        "num": 181656,
+        "word": "薛之谦入乡随俗",
+        "onboard_time": 1693103134,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176945,
+        "num": 176945,
+        "word": "封神票房",
+        "onboard_time": 1693092924,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172598,
+        "num": 172598,
+        "word": "黄曦彦活跃在侯雯元的评论里",
+        "onboard_time": 1693103372,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165355,
+        "num": 165355,
+        "word": "曾舜晞被泼水后谁的心动了",
+        "onboard_time": 1693096410,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154160,
+        "num": 154160,
+        "word": "中学生参观博物馆指出错误获表扬",
+        "onboard_time": 1693102773,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151277,
+        "num": 151277,
+        "word": "不要低估自然卷的头发长度",
+        "onboard_time": 1693095148,
+        "rank": 46,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 147482,
+        "num": 147482,
+        "word": "开劳斯莱斯免费接游客的淄博大哥",
+        "onboard_time": 1693092202,
+        "rank": 47,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 145482,
+        "num": 145482,
+        "word": "为什么长辈热衷于叫晚辈早起",
+        "onboard_time": 1693061803,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140568,
+        "num": 140568,
+        "word": "杨幂明年或将不拍综艺",
+        "onboard_time": 1693066773,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席讲话里的真挚情谊#"
+    }
+  }
+}
