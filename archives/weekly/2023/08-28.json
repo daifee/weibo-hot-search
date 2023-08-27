@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693170803149,
+  "endTime": 1693172024881,
   "band_list": [
     {
       "raw_hot": 2017418,
@@ -459,8 +459,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 52643,
-      "num": 41014,
+      "raw_hot": 55311,
+      "num": 42864,
       "word": "长沙医学院回应还在施工就开学",
       "onboard_time": 1693167374,
       "rank": 35,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21047,
+      "num": 21047,
+      "word": "长沙一学校尚在施工中就开学",
+      "onboard_time": 1693170733,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 18028,
       "num": 18028,
       "word": "肉肉抽奖",
@@ -505,14 +513,6 @@
       "onboard_time": 1693165754,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14093,
-      "num": 14346,
-      "word": "长沙一学校尚在施工中就开学",
-      "onboard_time": 1693170733,
-      "rank": 49,
-      "category": "教育,社会新闻"
     }
   ],
   "hotgov_list": [
