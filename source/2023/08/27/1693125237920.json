@@ -1,0 +1,410 @@
+{
+  "runTime": 1693125237920,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1985364,
+        "num": 1985364,
+        "word": "日本3天连发5次地震",
+        "onboard_time": 1693116630,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1485985,
+        "num": 1485985,
+        "word": "女子长期侧躺玩手机致右眼短暂失明",
+        "onboard_time": 1693122574,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87510,
+        "num": 1260674,
+        "word": "新疆面临新机遇要有新作为",
+        "onboard_time": 1693123535,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237082,
+        "num": 1237082,
+        "word": "把骨相美发挥到了极致",
+        "onboard_time": 1693121614,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1136897,
+        "num": 1136897,
+        "word": "女子发现网红探访的凶宅是自己家",
+        "onboard_time": 1693116754,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738002,
+        "num": 738002,
+        "word": "福岛真相",
+        "onboard_time": 1693099293,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713795,
+        "num": 713795,
+        "word": "谁花5555元买早餐了老板正找你",
+        "onboard_time": 1693123117,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628158,
+        "num": 628158,
+        "word": "当地教育局回应一中学女生宿舍住116人",
+        "onboard_time": 1693119935,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 572511,
+        "num": 572511,
+        "word": "马丽 不幸的童年需要用一生去治愈",
+        "onboard_time": 1693117593,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555415,
+        "num": 555415,
+        "word": "其实穷人的孩子更晚熟",
+        "onboard_time": 1693109497,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1371467,
+        "num": 541987,
+        "word": "已有894家俄罗斯公司获准对华出口水产品",
+        "onboard_time": 1693116516,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 464553,
+        "num": 464553,
+        "word": "Jennie粉色芭比造型",
+        "onboard_time": 1693118432,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366696,
+        "num": 366696,
+        "word": "6名银行员工帮客户清点160万被烧现金",
+        "onboard_time": 1693122694,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354373,
+        "num": 354373,
+        "word": "男子穿日本投降T恤买日系车遭无视",
+        "onboard_time": 1693110693,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327218,
+        "num": 327218,
+        "word": "躺着玩手机如何减少伤害",
+        "onboard_time": 1693119695,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 284797,
+        "num": 284797,
+        "word": "考编失败的狗狗去了哪里",
+        "onboard_time": 1693109974,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283920,
+        "num": 283920,
+        "word": "中国网友把时代广场大屏占领了",
+        "onboard_time": 1693116093,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282995,
+        "num": 282995,
+        "word": "檀健次 帕拉丁",
+        "onboard_time": 1693104515,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263485,
+        "num": 263485,
+        "word": "郑恺女儿上综艺了",
+        "onboard_time": 1693093044,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255408,
+        "num": 255408,
+        "word": "杨超越都拯救不了杨迪的眼睛",
+        "onboard_time": 1693120776,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717498,
+        "num": 255276,
+        "word": "妈妈欲买海鲜囤满3米长冰柜惊呆儿子",
+        "onboard_time": 1693120594,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615365,
+        "num": 253207,
+        "word": "结了婚才知道该嫁什么样的人",
+        "onboard_time": 1693120358,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364139,
+        "num": 252547,
+        "word": "现在的仙侠剧情绪太不稳定",
+        "onboard_time": 1693123293,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295034,
+        "num": 251304,
+        "word": "周深全英文指导",
+        "onboard_time": 1693122694,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250736,
+        "num": 250736,
+        "word": "于适素人时期照片",
+        "onboard_time": 1693120535,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247085,
+        "num": 247085,
+        "word": "刘惜君好辣",
+        "onboard_time": 1693110758,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239451,
+        "num": 239451,
+        "word": "HYBE投资 月之神坛",
+        "onboard_time": 1693123773,
+        "rank": 26,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 231785,
+        "num": 231785,
+        "word": "张晚意到哪都嗑瓜子",
+        "onboard_time": 1693122156,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224396,
+        "num": 224396,
+        "word": "老舅问张远王栎鑫就非得躺一起",
+        "onboard_time": 1693116152,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221875,
+        "num": 221875,
+        "word": "内娱传唱度超高的OST",
+        "onboard_time": 1693123416,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 382340,
+        "num": 216282,
+        "word": "幼儿园被疑组织家长开私家车队上街炫富",
+        "onboard_time": 1693124014,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243387,
+        "num": 210524,
+        "word": "婚前冲动买房杭州姑娘肠子悔青",
+        "onboard_time": 1693124919,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201902,
+        "num": 201902,
+        "word": "CPA税法",
+        "onboard_time": 1693121195,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194068,
+        "num": 194068,
+        "word": "张颂文 清明上河图密码",
+        "onboard_time": 1693120896,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190404,
+        "num": 190404,
+        "word": "印度裔单口女演员回怼男观众",
+        "onboard_time": 1693124615,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 182134,
+        "num": 182134,
+        "word": "无聊了可以做这么多事",
+        "onboard_time": 1693122520,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 171822,
+        "num": 171822,
+        "word": "港姐王敏慈神似Angelababy",
+        "onboard_time": 1693117774,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168770,
+        "num": 168770,
+        "word": "A股估值已低于2008年1664点水平",
+        "onboard_time": 1693114653,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168682,
+        "num": 168682,
+        "word": "汪苏泷东北话夹子音",
+        "onboard_time": 1693124014,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166446,
+        "num": 166446,
+        "word": "杜海涛几十年的主持人白干了",
+        "onboard_time": 1693102172,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164751,
+        "num": 164751,
+        "word": "我以为的成毅报仇vs实际",
+        "onboard_time": 1693124500,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161610,
+        "num": 161610,
+        "word": "封神殷郊姜王后番外",
+        "onboard_time": 1693114955,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159927,
+        "num": 159927,
+        "word": "蔡依林回应演唱会加场",
+        "onboard_time": 1693124738,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157120,
+        "num": 157120,
+        "word": "王传君被捕戏份流程好熟",
+        "onboard_time": 1693125215,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154156,
+        "num": 154156,
+        "word": "斗破苍穹美杜莎魂殿大战",
+        "onboard_time": 1693124375,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148482,
+        "num": 148482,
+        "word": "鞠婧祎或将演云海玉弓缘",
+        "onboard_time": 1693121014,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139346,
+        "num": 139346,
+        "word": "主线任务复活徐良",
+        "onboard_time": 1693111117,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126190,
+        "num": 126190,
+        "word": "RIIZE人歌初舞台",
+        "onboard_time": 1693122936,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125515,
+        "num": 125515,
+        "word": "泰国的雪王那么富贵",
+        "onboard_time": 1693112135,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125332,
+        "num": 125332,
+        "word": "丁程鑫给刘耀文唱睡了",
+        "onboard_time": 1693117054,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席讲话里的真挚情谊#"
+    }
+  }
+}
