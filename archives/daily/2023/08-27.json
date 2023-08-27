@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693117212129,
+  "endTime": 1693118031224,
   "band_list": [
     {
       "raw_hot": 4044730,
@@ -91,6 +91,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 1324763,
+      "num": 1324763,
+      "word": "日本3天连发5次地震",
+      "onboard_time": 1693116630,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1252995,
       "num": 1252995,
       "word": "安妮海瑟薇的颜值变化",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1188054,
-      "num": 1062580,
+      "num": 1092053,
       "word": "刘惜君好辣",
       "onboard_time": 1693110758,
       "rank": 34,
@@ -144,6 +152,14 @@
       "word": "女孩疑早恋和母亲吵架跳河男孩营救溺亡",
       "onboard_time": 1693095989,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 893628,
+      "num": 484961,
+      "word": "女子发现网红探访的凶宅是自己家",
+      "onboard_time": 1693116754,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -233,6 +249,14 @@
       "onboard_time": 1693063665,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 645826,
+      "num": 481521,
+      "word": "已有894家俄罗斯公司获准对华出口水产品",
+      "onboard_time": 1693116516,
+      "rank": 21,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 638442,
@@ -395,6 +419,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 486180,
+      "num": 486180,
+      "word": "A股估值已低于2008年1664点水平",
+      "onboard_time": 1693114653,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 460663,
       "num": 460663,
       "word": "新中式裙子",
@@ -443,6 +475,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 449315,
+      "num": 449315,
+      "word": "中国网友把时代广场大屏占领了",
+      "onboard_time": 1693116093,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 449251,
       "num": 274037,
       "word": "陈晓吻戏从脸红到耳朵",
@@ -457,14 +497,6 @@
       "onboard_time": 1693085713,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 442163,
-      "num": 442163,
-      "word": "A股估值已低于2008年1664点水平",
-      "onboard_time": 1693114653,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 425754,
@@ -489,14 +521,6 @@
       "onboard_time": 1693097973,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 418330,
-      "num": 418330,
-      "word": "日本3天连发5次地震",
-      "onboard_time": 1693116630,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414987,
@@ -537,6 +561,14 @@
       "onboard_time": 1693113517,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 399047,
+      "num": 399047,
+      "word": "老舅问张远王栎鑫就非得躺一起",
+      "onboard_time": 1693116152,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 397572,
@@ -683,14 +715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 343008,
-      "num": 343008,
-      "word": "中国网友把时代广场大屏占领了",
-      "onboard_time": 1693116093,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 341675,
       "num": 341675,
       "word": "东电称暂无核污水停止排放时间",
@@ -715,12 +739,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 338720,
-      "num": 320899,
-      "word": "已有894家俄罗斯公司获准对华出口水产品",
-      "onboard_time": 1693116516,
-      "rank": 21,
-      "category": "社会新闻,财经"
+      "raw_hot": 338419,
+      "num": 338419,
+      "word": "郑乃馨好飒",
+      "onboard_time": 1693115973,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 332126,
@@ -729,14 +753,6 @@
       "onboard_time": 1693106974,
       "rank": 45,
       "category": "动漫,社会新闻"
-    },
-    {
-      "raw_hot": 332011,
-      "num": 332011,
-      "word": "老舅问张远王栎鑫就非得躺一起",
-      "onboard_time": 1693116152,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 331445,
@@ -753,22 +769,6 @@
       "onboard_time": 1693063479,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 331155,
-      "num": 331155,
-      "word": "郑乃馨好飒",
-      "onboard_time": 1693115973,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 328666,
-      "num": 212713,
-      "word": "女子发现网红探访的凶宅是自己家",
-      "onboard_time": 1693116754,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325295,
@@ -851,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287515,
+      "num": 287515,
+      "word": "丁程鑫给刘耀文唱睡了",
+      "onboard_time": 1693117054,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 284107,
       "num": 284107,
       "word": "鹿晗50天肌肉变化",
@@ -915,6 +923,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 255363,
+      "num": 255363,
+      "word": "邓为长相思战绩",
+      "onboard_time": 1693115792,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254326,
       "num": 254326,
       "word": "成毅曾说自己不擅长综艺",
@@ -929,6 +945,14 @@
       "onboard_time": 1693093344,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251296,
+      "num": 211867,
+      "word": "马丽 不幸的童年需要用一生去治愈",
+      "onboard_time": 1693117593,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 250445,
@@ -953,14 +977,6 @@
       "onboard_time": 1693057064,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 242630,
-      "num": 242630,
-      "word": "邓为长相思战绩",
-      "onboard_time": 1693115792,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 240138,
@@ -993,6 +1009,14 @@
       "onboard_time": 1693106917,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236540,
+      "num": 236540,
+      "word": "马嘉祺转花手",
+      "onboard_time": 1693116870,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 234804,
@@ -1131,14 +1155,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 211595,
-      "num": 211595,
-      "word": "丁程鑫给刘耀文唱睡了",
-      "onboard_time": 1693117054,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 210605,
       "num": 210605,
       "word": "胡兵看陈楚生演唱会连发三条微博",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1693112196,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 200740,
-      "num": 191240,
-      "word": "马嘉祺转花手",
-      "onboard_time": 1693116870,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 200329,
@@ -1299,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175269,
+      "num": 175269,
+      "word": "女子刷视频手机突然说话自称未来人",
+      "onboard_time": 1693117834,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172598,
       "num": 172598,
       "word": "黄曦彦活跃在侯雯元的评论里",
@@ -1371,6 +1387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 162454,
+      "num": 152684,
+      "word": "港姐王敏慈神似Angelababy",
+      "onboard_time": 1693117774,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157897,
       "num": 154911,
       "word": "天后世纪合照",
@@ -1411,20 +1435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148696,
+      "num": 148696,
+      "word": "原来斗罗大陆是这么来的",
+      "onboard_time": 1693114894,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 147968,
+      "num": 147968,
+      "word": "当给宠物龟安排一个小刷子",
+      "onboard_time": 1693116935,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146697,
       "num": 146697,
       "word": "张杰鸟巢第二站花絮照",
       "onboard_time": 1693102594,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 142417,
-      "num": 142417,
-      "word": "原来斗罗大陆是这么来的",
-      "onboard_time": 1693114894,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 141911,
@@ -1441,6 +1473,14 @@
       "onboard_time": 1693114174,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134505,
+      "num": 134505,
+      "word": "学法女生当街呵止男子骚扰行为",
+      "onboard_time": 1693117955,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 130736,
