@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693163563648,
+  "endTime": 1693164826451,
   "band_list": [
     {
       "raw_hot": 2017418,
@@ -459,6 +459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 44264,
+      "num": 44264,
+      "word": "十个勤天",
+      "onboard_time": 1693163536,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38419,
       "num": 38419,
       "word": "这猫是不是看过自己的表情包了",
@@ -473,14 +481,6 @@
       "onboard_time": 1693140697,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24889,
-      "num": 26441,
-      "word": "十个勤天",
-      "onboard_time": 1693163536,
-      "rank": 49,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
