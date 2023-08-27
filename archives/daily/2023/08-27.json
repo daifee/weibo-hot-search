@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693145623552,
+  "endTime": 1693146840829,
   "band_list": [
     {
       "raw_hot": 4044730,
@@ -203,6 +203,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 1281898,
+      "num": 1281898,
+      "word": "21岁亚裔女孩为护母被继父刺107刀",
+      "onboard_time": 1693144539,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1252995,
       "num": 1252995,
       "word": "安妮海瑟薇的颜值变化",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 961009,
-      "num": 331883,
+      "num": 372344,
       "word": "张婧仪抽烟镜头",
       "onboard_time": 1693138835,
       "rank": 25,
@@ -307,8 +315,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 865670,
-      "num": 865670,
+      "raw_hot": 882599,
+      "num": 882599,
       "word": "非常杨幂",
       "onboard_time": 1693143399,
       "rank": 5,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 818328,
-      "num": 324940,
+      "num": 377441,
       "word": "妈妈不让周扬青发的微博",
       "onboard_time": 1693141480,
       "rank": 22,
@@ -451,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 684997,
+      "num": 684997,
+      "word": "2023香港小姐决赛",
+      "onboard_time": 1693141117,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 679657,
       "num": 290154,
       "word": "杨幂明年或将不拍综艺",
@@ -467,20 +483,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 676009,
-      "num": 239319,
-      "word": "21岁亚裔女孩为护母被继父刺107刀",
-      "onboard_time": 1693144539,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 670688,
       "num": 670688,
       "word": "长空之王最终票房8.5亿",
       "onboard_time": 1693140218,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 663781,
+      "num": 663781,
+      "word": "日本男篮vs芬兰男篮",
+      "onboard_time": 1693145860,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 661738,
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 570849,
-      "num": 335134,
+      "num": 362096,
       "word": "真正伤胃的五件事",
       "onboard_time": 1693134394,
       "rank": 36,
@@ -667,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 549045,
-      "num": 519361,
-      "word": "2023香港小姐决赛",
-      "onboard_time": 1693141117,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 548609,
       "num": 548609,
       "word": "留学生被英国爷爷安利中国",
@@ -699,12 +707,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 531558,
+      "num": 531558,
+      "word": "蜂巢",
+      "onboard_time": 1693145499,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 525094,
+      "num": 525094,
+      "word": "张杰的最强站哥站姐们",
+      "onboard_time": 1693145198,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 518151,
       "num": 518151,
       "word": "CPA税法",
       "onboard_time": 1693121195,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 516689,
+      "num": 516689,
+      "word": "一路朝阳",
+      "onboard_time": 1693145618,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 513011,
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 448925,
-      "num": 300744,
+      "num": 302912,
       "word": "魏大勋直播",
       "onboard_time": 1693140576,
       "rank": 25,
@@ -888,6 +920,14 @@
       "word": "暑期档最让人惊喜的男演员",
       "onboard_time": 1693085713,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 443295,
+      "num": 443295,
+      "word": "一路朝阳 今晚创飞我",
+      "onboard_time": 1693146460,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -1035,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388634,
+      "num": 355207,
+      "word": "成毅郎的诱惑",
+      "onboard_time": 1693143458,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388418,
       "num": 388418,
       "word": "五月天重庆",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1693109794,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378379,
+      "num": 378379,
+      "word": "日本男篮爆冷击败芬兰",
+      "onboard_time": 1693146520,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 373188,
@@ -1179,14 +1235,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 349063,
-      "num": 238206,
-      "word": "成毅郎的诱惑",
-      "onboard_time": 1693143458,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 348979,
       "num": 334356,
       "word": "超强台风苏拉",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1693134094,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342359,
+      "num": 342359,
+      "word": "山东的可以来笑了",
+      "onboard_time": 1693145379,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 341675,
@@ -1257,6 +1313,14 @@
       "onboard_time": 1693131394,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339214,
+      "num": 297230,
+      "word": "妹妹被正式确诊为曾毅",
+      "onboard_time": 1693145678,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338419,
@@ -1492,7 +1556,7 @@
     },
     {
       "raw_hot": 278283,
-      "num": 222847,
+      "num": 225166,
       "word": "邓为绿植大片",
       "onboard_time": 1693143037,
       "rank": 41,
@@ -1539,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274878,
+      "num": 231785,
+      "word": "蜂巢收视率",
+      "onboard_time": 1693146702,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274153,
       "num": 274153,
       "word": "张颂文 清明上河图密码",
@@ -1563,20 +1635,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265084,
-      "num": 222251,
-      "word": "张杰的最强站哥站姐们",
-      "onboard_time": 1693145198,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 262535,
       "num": 262535,
       "word": "香港小姐直播",
       "onboard_time": 1693141717,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261524,
+      "num": 227957,
+      "word": "于适丸子头教程",
+      "onboard_time": 1693145259,
+      "rank": 44,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 259856,
@@ -1745,6 +1817,14 @@
       "onboard_time": 1693116870,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235648,
+      "num": 235648,
+      "word": "两老人翻山给儿女摘100斤瓜果",
+      "onboard_time": 1693145739,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234804,
@@ -1939,14 +2019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213392,
-      "num": 203645,
-      "word": "蜂巢",
-      "onboard_time": 1693145499,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212316,
       "num": 212316,
       "word": "24考研预报名流程",
@@ -2059,14 +2131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198687,
-      "num": 198687,
-      "word": "于适丸子头教程",
-      "onboard_time": 1693145259,
-      "rank": 44,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 197462,
       "num": 197462,
       "word": "杨丞琳亲完周笔畅说好香",
@@ -2145,14 +2209,6 @@
       "onboard_time": 1693112316,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190776,
-      "num": 190776,
-      "word": "山东的可以来笑了",
-      "onboard_time": 1693145379,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 190709,
@@ -2779,6 +2835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37477,
+      "num": 525547,
+      "word": "视障男子独自出行好心人一路守护",
+      "onboard_time": 1693144900,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37025,
       "num": 37025,
       "word": "李宇春成都演唱会",
@@ -2801,14 +2865,6 @@
       "onboard_time": 1693080794,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16595,
-      "num": 476359,
-      "word": "视障男子独自出行好心人一路守护",
-      "onboard_time": 1693144900,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11981,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/01 00:22:33 ~ 2023/08/27 22:13:43
+本榜单时间：2023/08/01 00:22:33 ~ 2023/08/27 22:34:00
 </p>
 </blockquote>
 <p>
@@ -5373,6 +5373,12 @@ Ella说山支回来了（热度：1281959）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2321%E5%B2%81%E4%BA%9A%E8%A3%94%E5%A5%B3%E5%AD%A9%E4%B8%BA%E6%8A%A4%E6%AF%8D%E8%A2%AB%E7%BB%A7%E7%88%B6%E5%88%BA107%E5%88%80%23" target="weibo">
+21岁亚裔女孩为护母被继父刺107刀（热度：1281898）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%BE%A4%E6%BC%94%E7%9A%84%E5%B7%A5%E8%B5%84%23" target="weibo">
 长相思群演的工资（热度：1277709）
 </a>
@@ -6005,12 +6011,6 @@ WBG战胜TES（热度：1189102）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E4%BD%A0%E5%90%A6%E8%AE%A4%E5%95%8A%23" target="weibo">
 涂山璟你否认啊（热度：1188644）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%83%9C%E5%90%9B%E5%A5%BD%E8%BE%A3%23" target="weibo">
-刘惜君好辣（热度：1188054）
 </a>
 </li>
 
