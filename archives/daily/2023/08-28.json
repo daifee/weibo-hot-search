@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693153175658,
+  "endTime": 1693154061690,
   "band_list": [
     {
       "raw_hot": 2017418,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1059813,
-      "num": 401132,
+      "num": 417921,
       "word": "张新成 杰哥牛逼",
       "onboard_time": 1693149763,
       "rank": 10,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 715423,
-      "num": 715423,
+      "raw_hot": 747437,
+      "num": 747437,
       "word": "台风达维或使核污染水扑向美国",
       "onboard_time": 1693150181,
       "rank": 4,
@@ -68,10 +68,18 @@
     },
     {
       "raw_hot": 575384,
-      "num": 399164,
+      "num": 567423,
       "word": "男子称按处方吃24粒头孢腹泻进急诊",
       "onboard_time": 1693151256,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570968,
+      "num": 411599,
+      "word": "日本超市海鲜打折也没人买",
+      "onboard_time": 1693152513,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -83,12 +91,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 482251,
+      "raw_hot": 496118,
       "num": 293757,
       "word": "32条眼镜王蛇在村寨边筑窝安家",
       "onboard_time": 1693151137,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453451,
+      "num": 453451,
+      "word": "Doinb",
+      "onboard_time": 1693152933,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 450268,
@@ -107,12 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416564,
+      "raw_hot": 436975,
       "num": 291693,
       "word": "一条离婚了还带娃的狗狗",
       "onboard_time": 1693151017,
       "rank": 24,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 420308,
+      "num": 420308,
+      "word": "妈妈不让周扬青发的微博",
+      "onboard_time": 1693141480,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 409810,
@@ -155,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 368439,
-      "num": 296737,
-      "word": "妈妈不让周扬青发的微博",
-      "onboard_time": 1693141480,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335973,
       "num": 290987,
       "word": "张婧仪抽烟镜头",
@@ -179,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314472,
+      "num": 314472,
+      "word": "羽生结弦热舞视频",
+      "onboard_time": 1693151433,
+      "rank": 17,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 313616,
       "num": 313616,
       "word": "男孩怕瓜有毒让民警先吃",
@@ -193,14 +217,6 @@
       "onboard_time": 1693147299,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306428,
-      "num": 306428,
-      "word": "羽生结弦热舞视频",
-      "onboard_time": 1693151433,
-      "rank": 17,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 302206,
@@ -243,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273593,
-      "num": 273593,
-      "word": "日本超市海鲜打折也没人买",
-      "onboard_time": 1693152513,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258308,
       "num": 258308,
       "word": "女子长期侧躺玩手机致右眼短暂失明",
@@ -265,6 +273,14 @@
       "onboard_time": 1693147362,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231552,
+      "num": 231552,
+      "word": "脸蛋比心",
+      "onboard_time": 1693152335,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 225715,
@@ -289,14 +305,6 @@
       "onboard_time": 1693148379,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188921,
-      "num": 188921,
-      "word": "脸蛋比心",
-      "onboard_time": 1693152335,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 184588,
@@ -337,14 +345,6 @@
       "onboard_time": 1693143399,
       "rank": 42,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 153776,
-      "num": 153776,
-      "word": "Doinb",
-      "onboard_time": 1693152933,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 152307,
@@ -395,7 +395,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28751,
+      "raw_hot": 115766,
+      "num": 115766,
+      "word": "2023香港小姐决赛",
+      "onboard_time": 1693141117,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113472,
+      "num": 113472,
+      "word": "九尾狐明明就是祥瑞",
+      "onboard_time": 1693133851,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 34688,
       "num": 991520,
       "word": "神十六乘组有自己的Tony老师",
       "onboard_time": 1693140697,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#谋长远之策行固本之举更好建设美丽新疆#"
+    },
+    {
+      "word": "#新疆面临新机遇要有新作为#"
     }
   ]
 }
