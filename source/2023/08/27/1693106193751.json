@@ -1,0 +1,410 @@
+{
+  "runTime": 1693106193751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3692376,
+        "num": 3884753,
+        "word": "福岛真相",
+        "onboard_time": 1693099293,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2495866,
+        "num": 2495866,
+        "word": "金城武 我很讨厌在拍戏时看到动物",
+        "onboard_time": 1693100494,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36276,
+        "num": 1986672,
+        "word": "金砖扩员后GDP占全球近三成",
+        "onboard_time": 1693057783,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1721536,
+        "num": 1721536,
+        "word": "武林外传官方诉浙江广电",
+        "onboard_time": 1693105534,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1142767,
+        "num": 1142767,
+        "word": "郑恺女儿上综艺了",
+        "onboard_time": 1693093044,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613502,
+        "num": 613502,
+        "word": "安妮海瑟薇的颜值变化",
+        "onboard_time": 1693098213,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 864074,
+        "num": 607876,
+        "word": "杜海涛几十年的主持人白干了",
+        "onboard_time": 1693102172,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589831,
+        "num": 589831,
+        "word": "日本国内超市停买水产品让日企心态崩了",
+        "onboard_time": 1693044757,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 414724,
+        "num": 414724,
+        "word": "现实中的缅北诈骗远比电影惨烈",
+        "onboard_time": 1693102114,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366092,
+        "num": 366092,
+        "word": "新中式裙子",
+        "onboard_time": 1693099054,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1527594,
+        "num": 366003,
+        "word": "被美军炸了67次又遇上日本核污水",
+        "onboard_time": 1693101995,
+        "rank": 10,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 450679,
+        "num": 365173,
+        "word": "第一次见拔箭如此干脆的女主",
+        "onboard_time": 1693094606,
+        "rank": 11,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 444105,
+        "num": 364823,
+        "word": "日本渔民哭诉政府愚蠢导致无法生存",
+        "onboard_time": 1693104515,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385576,
+        "num": 364120,
+        "word": "日本水产厅检测鱼类样本只有2条",
+        "onboard_time": 1693093586,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373188,
+        "num": 364020,
+        "word": "成毅去看老师了",
+        "onboard_time": 1693102957,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363565,
+        "num": 363565,
+        "word": "张栋梁披荆斩棘排名",
+        "onboard_time": 1693100793,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354305,
+        "num": 354305,
+        "word": "披荆斩棘排名",
+        "onboard_time": 1693105174,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348637,
+        "num": 348637,
+        "word": "孙俪写100遍隶书心经用了三年",
+        "onboard_time": 1693105597,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329936,
+        "num": 329936,
+        "word": "老人留下一套房产五兄妹和和气气均分",
+        "onboard_time": 1693061803,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290817,
+        "num": 290817,
+        "word": "爱宝双胞胎女儿延续宝字辈",
+        "onboard_time": 1693096228,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725294,
+        "num": 290260,
+        "word": "檀健次 帕拉丁",
+        "onboard_time": 1693104515,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556011,
+        "num": 285993,
+        "word": "刘雨昕胸震",
+        "onboard_time": 1693099652,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 336534,
+        "num": 284480,
+        "word": "孟美岐空中坠落",
+        "onboard_time": 1693056760,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511379,
+        "num": 280167,
+        "word": "女孩疑早恋和母亲吵架跳河男孩营救溺亡",
+        "onboard_time": 1693095989,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452802,
+        "num": 278047,
+        "word": "核辐射检测仪卖爆了",
+        "onboard_time": 1693104634,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449251,
+        "num": 274037,
+        "word": "陈晓吻戏从脸红到耳朵",
+        "onboard_time": 1693103496,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348979,
+        "num": 272727,
+        "word": "超强台风苏拉",
+        "onboard_time": 1693103795,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307629,
+        "num": 269339,
+        "word": "俞灏明强烈地希望自己不是榜一",
+        "onboard_time": 1693101696,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295204,
+        "num": 265448,
+        "word": "恭喜08号选手李宇春",
+        "onboard_time": 1693105534,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263938,
+        "num": 263938,
+        "word": "中秋可以连休8天",
+        "onboard_time": 1693097852,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266276,
+        "num": 263004,
+        "word": "范丞丞小时候家对门住的是鲁豫",
+        "onboard_time": 1693098992,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261024,
+        "num": 261024,
+        "word": "高铁上一女子被母女俩吵醒双方互殴",
+        "onboard_time": 1693098813,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258379,
+        "num": 258379,
+        "word": "这段视频也火到国外去了",
+        "onboard_time": 1693097973,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244563,
+        "num": 244563,
+        "word": "到学校了发现还连着家里的WiFi",
+        "onboard_time": 1693093824,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229898,
+        "num": 229898,
+        "word": "何炅宠了成毅一整期",
+        "onboard_time": 1693098992,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220590,
+        "num": 220590,
+        "word": "如何看待国庆中秋上7休8",
+        "onboard_time": 1693105717,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 218757,
+        "num": 218757,
+        "word": "长相思第二季是不是快来了",
+        "onboard_time": 1693095989,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206445,
+        "num": 206445,
+        "word": "女子试用期上班51天迟到25次被辞退",
+        "onboard_time": 1693090878,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199597,
+        "num": 199597,
+        "word": "张远的披头散发日常",
+        "onboard_time": 1693105778,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9499,
+        "num": 187488,
+        "word": "搜狐视频舞蹈翻跳大赛",
+        "onboard_time": 1693105238,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183497,
+        "num": 183497,
+        "word": "弟弟才是最好的旅游搭子",
+        "onboard_time": 1693096049,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181906,
+        "num": 181906,
+        "word": "卓沅种地的200天",
+        "onboard_time": 1693105416,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181618,
+        "num": 181618,
+        "word": "朴志晟补位",
+        "onboard_time": 1693098513,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181220,
+        "num": 181220,
+        "word": "和前任分手后还会联系吗",
+        "onboard_time": 1693101335,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161884,
+        "num": 161884,
+        "word": "薛之谦入乡随俗",
+        "onboard_time": 1693103134,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160562,
+        "num": 160562,
+        "word": "梅西美职联首球",
+        "onboard_time": 1693101034,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139097,
+        "num": 139097,
+        "word": "我的英语老师改行造显微镜去了",
+        "onboard_time": 1693098213,
+        "rank": 46,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 133917,
+        "num": 139094,
+        "word": "不要低估自然卷的头发长度",
+        "onboard_time": 1693095148,
+        "rank": 47,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 108280,
+        "num": 139023,
+        "word": "梅西",
+        "onboard_time": 1693100494,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105392,
+        "num": 138992,
+        "word": "患者掉落万元现金夫妻路过捡到上交",
+        "onboard_time": 1693105055,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席讲话里的真挚情谊#"
+    }
+  }
+}

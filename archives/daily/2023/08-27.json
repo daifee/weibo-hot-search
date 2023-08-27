@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693103623205,
+  "endTime": 1693106193751,
   "band_list": [
     {
       "raw_hot": 3972314,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1721536,
+      "num": 1721536,
+      "word": "武林外传官方诉浙江广电",
+      "onboard_time": 1693105534,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1643941,
       "num": 441550,
       "word": "日本水产厅检测鱼类样本只有2条",
@@ -57,6 +65,14 @@
       "onboard_time": 1693061803,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1527594,
+      "num": 435252,
+      "word": "被美军炸了67次又遇上日本核污水",
+      "onboard_time": 1693101995,
+      "rank": 12,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 1252995,
@@ -99,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 874003,
-      "num": 435252,
-      "word": "被美军炸了67次又遇上日本核污水",
-      "onboard_time": 1693101995,
-      "rank": 12,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 823643,
       "num": 823643,
       "word": "莲花楼结局",
@@ -137,6 +145,14 @@
       "onboard_time": 1693066058,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 725294,
+      "num": 290260,
+      "word": "檀健次 帕拉丁",
+      "onboard_time": 1693104515,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 679657,
@@ -259,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452802,
+      "num": 278047,
+      "word": "核辐射检测仪卖爆了",
+      "onboard_time": 1693104634,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451968,
       "num": 451968,
       "word": "开劳斯莱斯免费接游客的淄博大哥",
@@ -267,12 +291,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 449251,
+      "num": 274037,
+      "word": "陈晓吻戏从脸红到耳朵",
+      "onboard_time": 1693103496,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 444457,
       "num": 444457,
       "word": "暑期档最让人惊喜的男演员",
       "onboard_time": 1693085713,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 444105,
+      "num": 364823,
+      "word": "日本渔民哭诉政府愚蠢导致无法生存",
+      "onboard_time": 1693104515,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425754,
@@ -304,6 +344,14 @@
       "word": "江苏常州一隧道口发生惨烈车祸",
       "onboard_time": 1693060186,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414724,
+      "num": 414724,
+      "word": "现实中的缅北诈骗远比电影惨烈",
+      "onboard_time": 1693102114,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -347,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373188,
+      "num": 364020,
+      "word": "成毅去看老师了",
+      "onboard_time": 1693102957,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372189,
       "num": 293536,
       "word": "好多哥哥去了陈楚生演唱会",
@@ -379,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354305,
+      "num": 354305,
+      "word": "披荆斩棘排名",
+      "onboard_time": 1693105174,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352130,
       "num": 403115,
       "word": "太平洋沿岸国有权向日本政府发起核污水索赔",
@@ -401,6 +465,22 @@
       "onboard_time": 1693090279,
       "rank": 19,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 348979,
+      "num": 272727,
+      "word": "超强台风苏拉",
+      "onboard_time": 1693103795,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348637,
+      "num": 348637,
+      "word": "孙俪写100遍隶书心经用了三年",
+      "onboard_time": 1693105597,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 345937,
@@ -467,14 +547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 317999,
-      "num": 378540,
-      "word": "现实中的缅北诈骗远比电影惨烈",
-      "onboard_time": 1693102114,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317593,
       "num": 317593,
       "word": "朴志晟补位",
@@ -489,6 +561,14 @@
       "onboard_time": 1693101034,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295204,
+      "num": 265448,
+      "word": "恭喜08号选手李宇春",
+      "onboard_time": 1693105534,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 293359,
@@ -521,14 +601,6 @@
       "onboard_time": 1693042776,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287222,
-      "num": 287222,
-      "word": "成毅去看老师了",
-      "onboard_time": 1693102957,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 284107,
@@ -707,12 +779,12 @@
       "category": "美妆,幽默"
     },
     {
-      "raw_hot": 217406,
-      "num": 217406,
-      "word": "陈晓吻戏从脸红到耳朵",
-      "onboard_time": 1693103496,
+      "raw_hot": 220590,
+      "num": 220590,
+      "word": "如何看待国庆中秋上7休8",
+      "onboard_time": 1693105717,
       "rank": 35,
-      "category": "影视"
+      "category": "社会议题"
     },
     {
       "raw_hot": 215504,
@@ -779,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199597,
+      "num": 199597,
+      "word": "张远的披头散发日常",
+      "onboard_time": 1693105778,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197462,
       "num": 197462,
       "word": "杨丞琳亲完周笔畅说好香",
@@ -816,6 +896,14 @@
       "word": "李宇春把熊猫带到了舞台上",
       "onboard_time": 1693097011,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181906,
+      "num": 181906,
+      "word": "卓沅种地的200天",
+      "onboard_time": 1693105416,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -979,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105392,
+      "num": 138992,
+      "word": "患者掉落万元现金夫妻路过捡到上交",
+      "onboard_time": 1693105055,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85041,
       "num": 85041,
       "word": "丁程鑫被抓得有始有终",
@@ -1028,7 +1124,7 @@
     },
     {
       "raw_hot": 69495,
-      "num": 1910457,
+      "num": 1986672,
       "word": "金砖扩员后GDP占全球近三成",
       "onboard_time": 1693057783,
       "rank": 2,
@@ -1089,6 +1185,14 @@
       "onboard_time": 1693080794,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 9499,
+      "num": 187488,
+      "word": "搜狐视频舞蹈翻跳大赛",
+      "onboard_time": 1693105238,
+      "rank": 39,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
