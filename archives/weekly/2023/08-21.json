@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1693131366208,
+  "endTime": 1693132431665,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2020454,
+      "num": 2020454,
+      "word": "12306回应火车卧铺能否自带床帘",
+      "onboard_time": 1693127257,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2002745,
       "num": 2002745,
       "word": "看到凸起的那一刻我小脑萎缩了",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1692848204,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1880146,
-      "num": 1880146,
-      "word": "12306回应火车卧铺能否自带床帘",
-      "onboard_time": 1693127257,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1865340,
@@ -1755,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1396329,
+      "num": 1396329,
+      "word": "张远竟然是至上励合的",
+      "onboard_time": 1693126834,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1394269,
       "num": 1394269,
       "word": "茉莉奶白",
@@ -2081,14 +2089,6 @@
       "onboard_time": 1692924467,
       "rank": 17,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 1204572,
-      "num": 1204572,
-      "word": "张远竟然是至上励合的",
-      "onboard_time": 1693126834,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 1202409,
@@ -2803,6 +2803,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 943393,
+      "num": 943393,
+      "word": "婚前冲动买房杭州姑娘肠子悔青",
+      "onboard_time": 1693124919,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 941939,
       "num": 941939,
       "word": "杨丞琳撮合马伯骞徐璐",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1692625603,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 911824,
-      "num": 911824,
-      "word": "婚前冲动买房杭州姑娘肠子悔青",
-      "onboard_time": 1693124919,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 909482,
@@ -4875,6 +4875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603223,
+      "num": 603223,
+      "word": "长沙一小区电梯坠落2人瞬间腾空",
+      "onboard_time": 1693131036,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 602400,
       "num": 602400,
       "word": "高铁员工卖明星行程获利19万元",
@@ -4953,6 +4961,14 @@
       "onboard_time": 1692621641,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 594476,
+      "num": 312143,
+      "word": "女子买香辣酥打开发现30多只蟑螂",
+      "onboard_time": 1693130674,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593018,
@@ -7507,6 +7523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414798,
+      "num": 414798,
+      "word": "历次印花税调整对A股影响",
+      "onboard_time": 1693130253,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 414779,
       "num": 342108,
       "word": "儿子突然出现送惊喜挨了妈妈一巴掌",
@@ -8273,14 +8297,6 @@
       "onboard_time": 1693109794,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378705,
-      "num": 202342,
-      "word": "女子买香辣酥打开发现30多只蟑螂",
-      "onboard_time": 1693130674,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378295,
@@ -9091,14 +9107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342131,
-      "num": 342131,
-      "word": "历次印花税调整对A股影响",
-      "onboard_time": 1693130253,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 342036,
       "num": 401951,
       "word": "国台办回应今起暂停台湾地区芒果输入大陆",
@@ -9160,6 +9168,14 @@
       "word": "权珉娥",
       "onboard_time": 1692595419,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 339734,
+      "num": 310310,
+      "word": "马思纯孙千好闺蜜合照",
+      "onboard_time": 1693131394,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -9353,6 +9369,14 @@
       "onboard_time": 1693040255,
       "rank": 22,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 334229,
+      "num": 1374923,
+      "word": "夫妻俩医院捡1万元毫不犹豫上交",
+      "onboard_time": 1693127318,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334035,
@@ -10035,6 +10059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309761,
+      "num": 309761,
+      "word": "于适封神开机5周年Vlog",
+      "onboard_time": 1693130916,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308814,
       "num": 308814,
       "word": "日本核污染水排放会影响哪里",
@@ -10161,14 +10193,6 @@
       "onboard_time": 1692661473,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305327,
-      "num": 1221807,
-      "word": "夫妻俩医院捡1万元毫不犹豫上交",
-      "onboard_time": 1693127318,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305270,
@@ -12304,14 +12328,6 @@
       "word": "全孝之死拍摄记录",
       "onboard_time": 1692677560,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 240930,
-      "num": 240930,
-      "word": "于适封神开机5周年Vlog",
-      "onboard_time": 1693130916,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -14715,14 +14731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198103,
-      "num": 198103,
-      "word": "长沙一小区电梯坠落2人瞬间腾空",
-      "onboard_time": 1693131036,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197848,
       "num": 212502,
       "word": "今天是七夕",
@@ -15627,6 +15635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181872,
+      "num": 181872,
+      "word": "IVL",
+      "onboard_time": 1693131154,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181830,
       "num": 181830,
       "word": "当大学生记错开学时间",
@@ -15731,6 +15747,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 180157,
+      "num": 180157,
+      "word": "蔡国庆说0713都挺会过",
+      "onboard_time": 1693130611,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179758,
       "num": 179758,
       "word": "Hero竟然这么过七夕",
@@ -15817,6 +15841,14 @@
       "onboard_time": 1693020755,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175558,
+      "num": 175558,
+      "word": "李一桐曾舜晞合跳whatever",
+      "onboard_time": 1693132055,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 175545,
@@ -16187,14 +16219,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 165570,
-      "num": 165570,
-      "word": "蔡国庆说0713都挺会过",
-      "onboard_time": 1693130611,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165476,
       "num": 165476,
       "word": "孤注一掷成七夕档票房冠军",
@@ -16401,14 +16425,6 @@
       "onboard_time": 1692691243,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158109,
-      "num": 158109,
-      "word": "IVL",
-      "onboard_time": 1693131154,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 157990,
@@ -16641,6 +16657,14 @@
       "onboard_time": 1693116935,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147861,
+      "num": 147861,
+      "word": "从铠甲到囚衣的殷郊",
+      "onboard_time": 1693131812,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 146697,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1693132431665,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2020454,
+        "num": 2020454,
+        "word": "12306回应火车卧铺能否自带床帘",
+        "onboard_time": 1693127257,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592411,
+        "num": 1469030,
+        "word": "谁花5555元买早餐了老板正找你",
+        "onboard_time": 1693123117,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76140,
+        "num": 1407563,
+        "word": "新疆面临新机遇要有新作为",
+        "onboard_time": 1693123535,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1396329,
+        "num": 1396329,
+        "word": "张远竟然是至上励合的",
+        "onboard_time": 1693126834,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334229,
+        "num": 1374923,
+        "word": "夫妻俩医院捡1万元毫不犹豫上交",
+        "onboard_time": 1693127318,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1363381,
+        "num": 1363381,
+        "word": "披荆斩棘给林志颖安排了单人间",
+        "onboard_time": 1693126232,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237947,
+        "num": 1137824,
+        "word": "6名银行员工帮客户清点160万被烧现金",
+        "onboard_time": 1693122694,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943393,
+        "num": 943393,
+        "word": "婚前冲动买房杭州姑娘肠子悔青",
+        "onboard_time": 1693124919,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935453,
+        "num": 935453,
+        "word": "证券交易印花税实施减半征收",
+        "onboard_time": 1693128335,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 819552,
+        "num": 819552,
+        "word": "姬发",
+        "onboard_time": 1693128934,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 809630,
+        "num": 809630,
+        "word": "谭松韵参加好朋友婚礼",
+        "onboard_time": 1693127257,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651557,
+        "num": 651557,
+        "word": "把骨相美发挥到了极致",
+        "onboard_time": 1693121614,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 603223,
+        "num": 603223,
+        "word": "长沙一小区电梯坠落2人瞬间腾空",
+        "onboard_time": 1693131036,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569443,
+        "num": 569443,
+        "word": "女子长期侧躺玩手机致右眼短暂失明",
+        "onboard_time": 1693122574,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465446,
+        "num": 533581,
+        "word": "日本3天连发5次地震",
+        "onboard_time": 1693116630,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499937,
+        "num": 499937,
+        "word": "女子发现网红探访的凶宅是自己家",
+        "onboard_time": 1693116754,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414798,
+        "num": 414798,
+        "word": "历次印花税调整对A股影响",
+        "onboard_time": 1693130253,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 367130,
+        "num": 367130,
+        "word": "已有894家俄罗斯公司获准对华出口水产品",
+        "onboard_time": 1693116516,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 322170,
+        "num": 322170,
+        "word": "福岛真相",
+        "onboard_time": 1693099293,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312289,
+        "num": 312289,
+        "word": "左拐张杰右拐陈楚生",
+        "onboard_time": 1693127433,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 594476,
+        "num": 312143,
+        "word": "女子买香辣酥打开发现30多只蟑螂",
+        "onboard_time": 1693130674,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417886,
+        "num": 311629,
+        "word": "从菠萝包里吃出菠萝",
+        "onboard_time": 1693128275,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 361154,
+        "num": 310908,
+        "word": "上班没必要内耗自己",
+        "onboard_time": 1693129715,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339734,
+        "num": 310310,
+        "word": "马思纯孙千好闺蜜合照",
+        "onboard_time": 1693131394,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309761,
+        "num": 309761,
+        "word": "于适封神开机5周年Vlog",
+        "onboard_time": 1693130916,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280850,
+        "num": 280850,
+        "word": "结了婚才知道该嫁什么样的人",
+        "onboard_time": 1693120358,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277377,
+        "num": 277377,
+        "word": "骄阳似我下剧情",
+        "onboard_time": 1693125395,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268229,
+        "num": 268229,
+        "word": "幼儿园被疑组织家长开私家车队上街炫富",
+        "onboard_time": 1693124014,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245277,
+        "num": 245277,
+        "word": "唐禹哲是女儿奴",
+        "onboard_time": 1693125874,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233947,
+        "num": 233947,
+        "word": "Jennie粉色芭比造型",
+        "onboard_time": 1693118432,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218081,
+        "num": 218081,
+        "word": "两大台风或将相继侵袭日本",
+        "onboard_time": 1693126352,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209244,
+        "num": 209244,
+        "word": "现在的仙侠剧情绪太不稳定",
+        "onboard_time": 1693123293,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204078,
+        "num": 204078,
+        "word": "中国人关键的一生",
+        "onboard_time": 1693127735,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199934,
+        "num": 199934,
+        "word": "当姬发养哈基米",
+        "onboard_time": 1693130916,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192629,
+        "num": 192629,
+        "word": "妈妈欲买海鲜囤满3米长冰柜惊呆儿子",
+        "onboard_time": 1693120594,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181872,
+        "num": 181872,
+        "word": "IVL",
+        "onboard_time": 1693131154,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180157,
+        "num": 180157,
+        "word": "蔡国庆说0713都挺会过",
+        "onboard_time": 1693130611,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175558,
+        "num": 175558,
+        "word": "李一桐曾舜晞合跳whatever",
+        "onboard_time": 1693132055,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173743,
+        "num": 173743,
+        "word": "周深全英文指导",
+        "onboard_time": 1693122694,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162125,
+        "num": 162125,
+        "word": "其实穷人的孩子更晚熟",
+        "onboard_time": 1693109497,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159854,
+        "num": 159854,
+        "word": "官方回应城管没收商户售卖的冥纸冥币",
+        "onboard_time": 1693129413,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158889,
+        "num": 158889,
+        "word": "徐冬冬老板娘3从头打到尾",
+        "onboard_time": 1693126834,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147861,
+        "num": 147861,
+        "word": "从铠甲到囚衣的殷郊",
+        "onboard_time": 1693131812,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145287,
+        "num": 145287,
+        "word": "男子穿日本投降T恤买日系车遭无视",
+        "onboard_time": 1693110693,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142700,
+        "num": 142700,
+        "word": "考编失败的狗狗去了哪里",
+        "onboard_time": 1693109974,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131970,
+        "num": 131970,
+        "word": "金鹿奖最佳导演入围名单",
+        "onboard_time": 1693128335,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125959,
+        "num": 125959,
+        "word": "HYBE投资 月之神坛",
+        "onboard_time": 1693123773,
+        "rank": 46,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 123728,
+        "num": 123728,
+        "word": "当地教育局回应一中学女生宿舍住116人",
+        "onboard_time": 1693119935,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 119757,
+        "num": 119757,
+        "word": "A股估值已低于2008年1664点水平",
+        "onboard_time": 1693114653,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115756,
+        "num": 115756,
+        "word": "孤注一掷",
+        "onboard_time": 1693128752,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#谋长远之策行固本之举更好建设美丽新疆#"
+    }
+  }
+}
