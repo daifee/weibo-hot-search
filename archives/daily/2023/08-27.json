@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693128839963,
+  "endTime": 1693131366208,
   "band_list": [
     {
       "raw_hot": 4044730,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1880146,
+      "num": 1880146,
+      "word": "12306回应火车卧铺能否自带床帘",
+      "onboard_time": 1693127257,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1837379,
       "num": 1837379,
       "word": "男子穿日本投降T恤买日系车遭无视",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1641109,
-      "num": 1004080,
+      "num": 1489220,
       "word": "披荆斩棘给林志颖安排了单人间",
       "onboard_time": 1693126232,
       "rank": 4,
@@ -155,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1204572,
+      "num": 1204572,
+      "word": "张远竟然是至上励合的",
+      "onboard_time": 1693126834,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1188054,
       "num": 1092053,
       "word": "刘惜君好辣",
@@ -204,11 +220,27 @@
     },
     {
       "raw_hot": 921960,
-      "num": 482628,
+      "num": 840165,
       "word": "谭松韵参加好朋友婚礼",
       "onboard_time": 1693127257,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 911824,
+      "num": 911824,
+      "word": "婚前冲动买房杭州姑娘肠子悔青",
+      "onboard_time": 1693124919,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 851000,
+      "num": 851000,
+      "word": "姬发",
+      "onboard_time": 1693128934,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 823643,
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 713795,
-      "num": 713795,
+      "num": 1542764,
       "word": "谁花5555元买早餐了老板正找你",
       "onboard_time": 1693123117,
       "rank": 9,
@@ -321,14 +353,6 @@
       "onboard_time": 1693107874,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 691178,
-      "num": 453285,
-      "word": "张远竟然是至上励合的",
-      "onboard_time": 1693126834,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 679657,
@@ -353,14 +377,6 @@
       "onboard_time": 1693063665,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 644545,
-      "num": 445850,
-      "word": "12306回应火车卧铺能否自带床帘",
-      "onboard_time": 1693127257,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638442,
@@ -425,14 +441,6 @@
       "onboard_time": 1693112135,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 579523,
-      "num": 430762,
-      "word": "婚前冲动买房杭州姑娘肠子悔青",
-      "onboard_time": 1693124919,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 565728,
@@ -683,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 420829,
+      "num": 340116,
+      "word": "从菠萝包里吃出菠萝",
+      "onboard_time": 1693128275,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 414987,
       "num": 424197,
       "word": "江苏常州一隧道口发生惨烈车祸",
@@ -763,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 384885,
+      "num": 329172,
+      "word": "上班没必要内耗自己",
+      "onboard_time": 1693129715,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 382849,
       "num": 382849,
       "word": "梅西",
@@ -772,7 +796,7 @@
     },
     {
       "raw_hot": 380572,
-      "num": 380572,
+      "num": 1148444,
       "word": "6名银行员工帮客户清点160万被烧现金",
       "onboard_time": 1693122694,
       "rank": 14,
@@ -785,6 +809,14 @@
       "onboard_time": 1693109794,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378705,
+      "num": 202342,
+      "word": "女子买香辣酥打开发现30多只蟑螂",
+      "onboard_time": 1693130674,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373188,
@@ -859,6 +891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 349471,
+      "num": 349471,
+      "word": "左拐张杰右拐陈楚生",
+      "onboard_time": 1693127433,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 349098,
       "num": 349098,
       "word": "30岁男生给20岁男生的建议",
@@ -889,6 +929,14 @@
       "onboard_time": 1693062703,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 342131,
+      "num": 342131,
+      "word": "历次印花税调整对A股影响",
+      "onboard_time": 1693130253,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 341675,
@@ -995,12 +1043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314874,
-      "num": 314874,
-      "word": "左拐张杰右拐陈楚生",
-      "onboard_time": 1693127433,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 305327,
+      "num": 1221807,
+      "word": "夫妻俩医院捡1万元毫不犹豫上交",
+      "onboard_time": 1693127318,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303746,
@@ -1064,14 +1112,6 @@
       "word": "美国年轻人对日本排核污染水态度",
       "onboard_time": 1693042776,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287853,
-      "num": 287853,
-      "word": "夫妻俩医院捡1万元毫不犹豫上交",
-      "onboard_time": 1693127318,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1219,14 +1259,6 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 251052,
-      "num": 244453,
-      "word": "从菠萝包里吃出菠萝",
-      "onboard_time": 1693128275,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 250445,
       "num": 275818,
       "word": "封神票房",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1693057064,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240930,
+      "num": 240930,
+      "word": "于适封神开机5周年Vlog",
+      "onboard_time": 1693130916,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 240138,
@@ -1515,6 +1555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202348,
+      "num": 202348,
+      "word": "当姬发养哈基米",
+      "onboard_time": 1693130916,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200329,
       "num": 200329,
       "word": "曾舜晞cue了择天记",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1693105778,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198103,
+      "num": 198103,
+      "word": "长沙一小区电梯坠落2人瞬间腾空",
+      "onboard_time": 1693131036,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197462,
@@ -1747,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165570,
+      "num": 165570,
+      "word": "蔡国庆说0713都挺会过",
+      "onboard_time": 1693130611,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164869,
       "num": 164869,
       "word": "酒酿冰豆腐",
@@ -1761,6 +1825,14 @@
       "onboard_time": 1693122936,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162754,
+      "num": 162754,
+      "word": "官方回应城管没收商户售卖的冥纸冥币",
+      "onboard_time": 1693129413,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161439,
@@ -1795,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158109,
+      "num": 158109,
+      "word": "IVL",
+      "onboard_time": 1693131154,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157897,
       "num": 154911,
       "word": "天后世纪合照",
@@ -1825,6 +1905,14 @@
       "onboard_time": 1693094908,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153911,
+      "num": 153911,
+      "word": "Gr发财",
+      "onboard_time": 1693129894,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 149922,
@@ -1908,7 +1996,7 @@
     },
     {
       "raw_hot": 124073,
-      "num": 1260674,
+      "num": 1496576,
       "word": "新疆面临新机遇要有新作为",
       "onboard_time": 1693123535,
       "rank": 2,
