@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693178129880,
+  "endTime": 1693179221793,
   "band_list": [
     {
       "raw_hot": 2017418,
@@ -35,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 919985,
+      "raw_hot": 930472,
       "num": 575048,
       "word": "妈妈不让周扬青发的微博",
       "onboard_time": 1693141480,
@@ -105,6 +105,14 @@
       "onboard_time": 1693151256,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559505,
+      "num": 230107,
+      "word": "胡歌回应不拍戏风波",
+      "onboard_time": 1693178186,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 508794,
@@ -195,20 +203,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 343505,
+      "num": 343505,
+      "word": "男孩怕瓜有毒让民警先吃",
+      "onboard_time": 1693147479,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335973,
       "num": 290987,
       "word": "张婧仪抽烟镜头",
       "onboard_time": 1693138835,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 324849,
-      "num": 324849,
-      "word": "男孩怕瓜有毒让民警先吃",
-      "onboard_time": 1693147479,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318960,
@@ -315,6 +323,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215085,
+      "num": 183272,
+      "word": "杭州12岁女孩1米72脊柱歪到要手术",
+      "onboard_time": 1693178726,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212516,
+      "num": 212516,
+      "word": "民警酒后足浴店殴打残疾工作人员",
+      "onboard_time": 1693178304,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195938,
+      "num": 181877,
+      "word": "胡兵又来长沙了",
+      "onboard_time": 1693178186,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193548,
       "num": 187111,
       "word": "张杰微博直播",
@@ -361,6 +393,14 @@
       "onboard_time": 1693143399,
       "rank": 42,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 157275,
+      "num": 157275,
+      "word": "脱口秀大会文字版",
+      "onboard_time": 1693177884,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 152307,
@@ -435,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122692,
+      "num": 122692,
+      "word": "亲戚对你的态度其实取决于父母",
+      "onboard_time": 1693158021,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115766,
       "num": 115766,
       "word": "2023香港小姐决赛",
@@ -451,20 +499,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 103139,
-      "num": 98478,
-      "word": "亲戚对你的态度其实取决于父母",
-      "onboard_time": 1693158021,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 106974,
+      "num": 106974,
+      "word": "江苏的雨下到哪里了",
+      "onboard_time": 1693178426,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 96143,
-      "num": 96143,
+      "raw_hot": 100684,
+      "num": 100684,
       "word": "长沙医学院回应还在施工就开学",
       "onboard_time": 1693167374,
       "rank": 35,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 99325,
+      "num": 99325,
+      "word": "女子打包40多桌婚宴剩菜喂流浪猫狗",
+      "onboard_time": 1693178967,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91836,
@@ -475,28 +531,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 79630,
+      "num": 79630,
+      "word": "披荆斩棘投票",
+      "onboard_time": 1693179150,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75243,
+      "num": 75243,
+      "word": "这学真的是上不下去了",
+      "onboard_time": 1693158558,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70837,
       "num": 45792,
       "word": "十个勤天",
       "onboard_time": 1693163536,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69774,
-      "num": 69774,
-      "word": "脱口秀大会文字版",
-      "onboard_time": 1693177884,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 67088,
-      "num": 67088,
-      "word": "这学真的是上不下去了",
-      "onboard_time": 1693158558,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 60512,
@@ -507,20 +563,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 52119,
+      "num": 991520,
+      "word": "神十六乘组有自己的Tony老师",
+      "onboard_time": 1693140697,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47614,
       "num": 47614,
       "word": "内蒙古有自己的计量单位吗",
       "onboard_time": 1693158799,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 41463,
-      "num": 991520,
-      "word": "神十六乘组有自己的Tony老师",
-      "onboard_time": 1693140697,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38419,
