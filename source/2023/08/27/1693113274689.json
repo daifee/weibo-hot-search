@@ -1,0 +1,410 @@
+{
+  "runTime": 1693113274689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2966922,
+        "num": 2966922,
+        "word": "福岛真相",
+        "onboard_time": 1693099293,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2043458,
+        "num": 2043458,
+        "word": "其实穷人的孩子更晚熟",
+        "onboard_time": 1693109497,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68664,
+        "num": 1565692,
+        "word": "给新生的军训小贴士",
+        "onboard_time": 1693106616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1412976,
+        "num": 1412976,
+        "word": "男子穿日本投降T恤买日系车遭无视",
+        "onboard_time": 1693110693,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062580,
+        "num": 1062580,
+        "word": "刘惜君好辣",
+        "onboard_time": 1693110758,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 938105,
+        "num": 938105,
+        "word": "考编失败的狗狗去了哪里",
+        "onboard_time": 1693109974,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766921,
+        "num": 766921,
+        "word": "金城武 我很讨厌在拍戏时看到动物",
+        "onboard_time": 1693100494,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 702950,
+        "num": 702950,
+        "word": "郑恺女儿上综艺了",
+        "onboard_time": 1693093044,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 626703,
+        "num": 626703,
+        "word": "恭喜08号选手李宇春",
+        "onboard_time": 1693105534,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 564310,
+        "num": 564310,
+        "word": "田曦薇叫哥哥和我想象的不一样",
+        "onboard_time": 1693110034,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 864664,
+        "num": 561652,
+        "word": "被美军炸了67次又遇上日本核污水",
+        "onboard_time": 1693101995,
+        "rank": 10,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 543971,
+        "num": 543971,
+        "word": "檀健次 帕拉丁",
+        "onboard_time": 1693104515,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469861,
+        "num": 469861,
+        "word": "日本核污水事件的科学真相",
+        "onboard_time": 1693109674,
+        "rank": 12,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 462034,
+        "num": 462034,
+        "word": "宁安如梦",
+        "onboard_time": 1693107874,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454009,
+        "num": 454009,
+        "word": "主线任务复活徐良",
+        "onboard_time": 1693111117,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405918,
+        "num": 405918,
+        "word": "泰国的雪王那么富贵",
+        "onboard_time": 1693112135,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398941,
+        "num": 398941,
+        "word": "两女生被尾随急中生智躲进消防站",
+        "onboard_time": 1693107455,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391632,
+        "num": 391632,
+        "word": "她花光十年积蓄给父亲造房",
+        "onboard_time": 1693107693,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334661,
+        "num": 334661,
+        "word": "邓为 我觉得火不敢当",
+        "onboard_time": 1693106616,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291334,
+        "num": 291334,
+        "word": "孙俪写100遍隶书心经用了三年",
+        "onboard_time": 1693105597,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550693,
+        "num": 288956,
+        "word": "BLACKPINK 超级碗",
+        "onboard_time": 1693110335,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250907,
+        "num": 250907,
+        "word": "核辐射检测仪卖爆了",
+        "onboard_time": 1693104634,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247600,
+        "num": 247600,
+        "word": "披荆斩棘排名",
+        "onboard_time": 1693105174,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242483,
+        "num": 242483,
+        "word": "日本渔民哭诉政府愚蠢导致无法生存",
+        "onboard_time": 1693104515,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162700,
+        "num": 241872,
+        "word": "现实中的缅北诈骗远比电影惨烈",
+        "onboard_time": 1693102114,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246634,
+        "num": 241684,
+        "word": "尼格买提录节目受伤",
+        "onboard_time": 1693109794,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241411,
+        "num": 241411,
+        "word": "CPA会计",
+        "onboard_time": 1693108774,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 240138,
+        "num": 240138,
+        "word": "时代少年团楼外楼定格鲨我",
+        "onboard_time": 1693112735,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221743,
+        "num": 221743,
+        "word": "超强台风苏拉",
+        "onboard_time": 1693103795,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214989,
+        "num": 214989,
+        "word": "宋亚轩腰好细啊",
+        "onboard_time": 1693108116,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209103,
+        "num": 209103,
+        "word": "第一次见拔箭如此干脆的女主",
+        "onboard_time": 1693094606,
+        "rank": 30,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 202583,
+        "num": 202583,
+        "word": "女孩疑早恋和母亲吵架跳河男孩营救溺亡",
+        "onboard_time": 1693095989,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202549,
+        "num": 202549,
+        "word": "星穹铁道丹恒饮月",
+        "onboard_time": 1693112196,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200682,
+        "num": 200682,
+        "word": "杜海涛几十年的主持人白干了",
+        "onboard_time": 1693102172,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199492,
+        "num": 199492,
+        "word": "这段视频也火到国外去了",
+        "onboard_time": 1693097973,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193068,
+        "num": 193068,
+        "word": "要开学了",
+        "onboard_time": 1693112374,
+        "rank": 35,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 191828,
+        "num": 191828,
+        "word": "一架美军机在澳大利亚军演时坠毁",
+        "onboard_time": 1693112977,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 191396,
+        "num": 191396,
+        "word": "父辈的荣耀今日开播",
+        "onboard_time": 1693112316,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186620,
+        "num": 186620,
+        "word": "被一只小狗的发型可爱到了",
+        "onboard_time": 1693111117,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 186560,
+        "num": 186560,
+        "word": "日本国内超市停买水产品让日企心态崩了",
+        "onboard_time": 1693044757,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 183492,
+        "num": 183492,
+        "word": "海绵宝宝讲的是核污染的故事",
+        "onboard_time": 1693106974,
+        "rank": 40,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 181143,
+        "num": 181143,
+        "word": "时代少年团应援棒放冰箱",
+        "onboard_time": 1693106854,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169878,
+        "num": 169878,
+        "word": "爱宝双胞胎女儿延续宝字辈",
+        "onboard_time": 1693096228,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168874,
+        "num": 168874,
+        "word": "犬王",
+        "onboard_time": 1693107036,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167066,
+        "num": 167066,
+        "word": "高铁上一女子被母女俩吵醒双方互殴",
+        "onboard_time": 1693098813,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166137,
+        "num": 166137,
+        "word": "安妮海瑟薇的颜值变化",
+        "onboard_time": 1693098213,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165017,
+        "num": 165017,
+        "word": "中国女排U21世锦赛夺冠",
+        "onboard_time": 1693110335,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158059,
+        "num": 158059,
+        "word": "五月天重庆",
+        "onboard_time": 1693107096,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153014,
+        "num": 153014,
+        "word": "如何看待国庆中秋上7休8",
+        "onboard_time": 1693105717,
+        "rank": 48,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 148581,
+        "num": 148581,
+        "word": "一些莲花楼三人组魂穿时刻",
+        "onboard_time": 1693109674,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化进程中更好建设美丽新疆#"
+    }
+  }
+}
