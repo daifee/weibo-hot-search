@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693160351598,
+  "endTime": 1693161236614,
   "band_list": [
     {
       "raw_hot": 2017418,
@@ -435,7 +435,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 98052,
+      "raw_hot": 103139,
       "num": 78910,
       "word": "亲戚对你的态度其实取决于父母",
       "onboard_time": 1693158021,
@@ -443,16 +443,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 58368,
-      "num": 58368,
+      "raw_hot": 67088,
+      "num": 67088,
       "word": "这学真的是上不下去了",
       "onboard_time": 1693158558,
       "rank": 35,
       "category": "幽默"
     },
     {
-      "raw_hot": 45980,
-      "num": 45980,
+      "raw_hot": 47614,
+      "num": 47614,
       "word": "内蒙古有自己的计量单位吗",
       "onboard_time": 1693158799,
       "rank": 43,
@@ -465,6 +465,14 @@
       "onboard_time": 1693140697,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32880,
+      "num": 32880,
+      "word": "这猫是不是看过自己的表情包了",
+      "onboard_time": 1693160837,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
