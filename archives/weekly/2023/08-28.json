@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693164826451,
+  "endTime": 1693167362606,
   "band_list": [
     {
       "raw_hot": 2017418,
@@ -443,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70837,
+      "num": 44934,
+      "word": "十个勤天",
+      "onboard_time": 1693163536,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67088,
       "num": 67088,
       "word": "这学真的是上不下去了",
@@ -459,14 +467,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 44264,
-      "num": 44264,
-      "word": "十个勤天",
-      "onboard_time": 1693163536,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 38419,
       "num": 38419,
       "word": "这猫是不是看过自己的表情包了",
@@ -481,6 +481,14 @@
       "onboard_time": 1693140697,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17715,
+      "num": 19493,
+      "word": "剑网3唐门豁达coser",
+      "onboard_time": 1693165754,
+      "rank": 45,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
