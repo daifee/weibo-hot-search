@@ -1,6 +1,6 @@
 {
   "startTime": 1692548380408,
-  "endTime": 1693136028392,
+  "endTime": 1693139324849,
   "band_list": [
     {
       "raw_hot": 17348230,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2646944,
+      "num": 2646944,
+      "word": "张远 想过糊没想过这么糊",
+      "onboard_time": 1693133373,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2643886,
       "num": 751675,
       "word": "广东一海滩突然涌现大量海虾",
@@ -673,14 +681,6 @@
       "onboard_time": 1692687101,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2323301,
-      "num": 1312211,
-      "word": "张远 想过糊没想过这么糊",
-      "onboard_time": 1693133373,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2312380,
@@ -1793,6 +1793,14 @@
       "onboard_time": 1692926925,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1390083,
+      "num": 1390083,
+      "word": "观众演唱会上听不清歌声齐喊退票",
+      "onboard_time": 1693133492,
+      "rank": 15,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 1387607,
@@ -3163,6 +3171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 859700,
+      "num": 859700,
+      "word": "花花醒来见到爷爷好开心",
+      "onboard_time": 1693134033,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 859161,
       "num": 859161,
       "word": "女生考研时查出尿毒症男友不离不弃",
@@ -3193,6 +3209,14 @@
       "onboard_time": 1693128934,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 850500,
+      "num": 464860,
+      "word": "2游客被终生禁入成都大熊猫基地",
+      "onboard_time": 1693138175,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 848884,
@@ -3297,6 +3321,14 @@
       "onboard_time": 1693037196,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 827476,
+      "num": 462656,
+      "word": "顾漫 接下来更新会更斟酌仔细",
+      "onboard_time": 1693138358,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 825133,
@@ -3593,14 +3625,6 @@
       "onboard_time": 1692943842,
       "rank": 26,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 773084,
-      "num": 773084,
-      "word": "观众演唱会上听不清歌声齐喊退票",
-      "onboard_time": 1693133492,
-      "rank": 15,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 772902,
@@ -4419,14 +4443,6 @@
       "category": "情感,其它"
     },
     {
-      "raw_hot": 655004,
-      "num": 655004,
-      "word": "花花醒来见到爷爷好开心",
-      "onboard_time": 1693134033,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 653964,
       "num": 653964,
       "word": "长相思",
@@ -5219,6 +5235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 572364,
+      "num": 572364,
+      "word": "难怪大学开学行李箱好几十公斤",
+      "onboard_time": 1693135474,
+      "rank": 33,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 571156,
       "num": 406635,
       "word": "杨幂叫何炅小何",
@@ -5233,6 +5257,14 @@
       "onboard_time": 1692776256,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 570849,
+      "num": 335134,
+      "word": "真正伤胃的五件事",
+      "onboard_time": 1693134394,
+      "rank": 36,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 568209,
@@ -5713,14 +5745,6 @@
       "onboard_time": 1692693041,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534732,
-      "num": 269571,
-      "word": "真正伤胃的五件事",
-      "onboard_time": 1693134394,
-      "rank": 36,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 534647,
@@ -7187,6 +7211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440339,
+      "num": 334514,
+      "word": "他其实没那么喜欢你",
+      "onboard_time": 1693135894,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 440314,
       "num": 440314,
       "word": "徐明浩跳whatever甜妹舞",
@@ -7267,6 +7299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 433408,
+      "num": 433408,
+      "word": "IPO",
+      "onboard_time": 1693135594,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 433174,
       "num": 1414808,
       "word": "世界上唯一拥有3个首都的国家",
@@ -7321,6 +7361,14 @@
       "onboard_time": 1692840880,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 428640,
+      "num": 428640,
+      "word": "俄坠机事故遗体遗传学分析完成",
+      "onboard_time": 1693137275,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428218,
@@ -9243,6 +9291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340177,
+      "num": 340177,
+      "word": "广州站上来了一只大熊猫",
+      "onboard_time": 1693137634,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340067,
       "num": 340067,
       "word": "权珉娥",
@@ -9649,6 +9705,14 @@
       "onboard_time": 1692614616,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327627,
+      "num": 327627,
+      "word": "乌尔善自己掏钱做封神特效",
+      "onboard_time": 1693138416,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 327111,
@@ -10129,6 +10193,14 @@
       "onboard_time": 1692670477,
       "rank": 37,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 310397,
+      "num": 310397,
+      "word": "张婧仪抽烟镜头",
+      "onboard_time": 1693138835,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 310154,
@@ -12243,6 +12315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246900,
+      "num": 246900,
+      "word": "金晨运镜",
+      "onboard_time": 1693137574,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 246760,
       "num": 246760,
       "word": "成毅是没找到镜头吗",
@@ -12905,14 +12985,6 @@
       "onboard_time": 1692633216,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 231396,
-      "num": 231396,
-      "word": "难怪大学开学行李箱好几十公斤",
-      "onboard_time": 1693135474,
-      "rank": 33,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 231258,
@@ -13995,6 +14067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208605,
+      "num": 208605,
+      "word": "羽毛球世锦赛",
+      "onboard_time": 1693059163,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208411,
       "num": 208411,
       "word": "苏新皓在地铁上跳舞",
@@ -14297,14 +14377,6 @@
       "onboard_time": 1692713266,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204408,
-      "num": 204408,
-      "word": "IPO",
-      "onboard_time": 1693135594,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 204390,
@@ -16003,14 +16075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176966,
-      "num": 176966,
-      "word": "他其实没那么喜欢你",
-      "onboard_time": 1693135894,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 176531,
       "num": 176531,
       "word": "张真源借着路灯的光唱情歌",
@@ -16289,6 +16353,14 @@
       "onboard_time": 1692748715,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168658,
+      "num": 168658,
+      "word": "崇应彪被姜文焕射下马之后好慌张",
+      "onboard_time": 1693136856,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 168642,
@@ -16705,14 +16777,6 @@
       "onboard_time": 1692578139,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155094,
-      "num": 193968,
-      "word": "羽毛球世锦赛",
-      "onboard_time": 1693059163,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 154924,
@@ -17915,6 +17979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 77917,
+      "num": 433547,
+      "word": "成都地铁一车厢挂满英雄海报",
+      "onboard_time": 1693137695,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77814,
       "num": 95450,
       "word": "王鹤棣秦霄贤冤种兄弟再次出击",
@@ -18849,6 +18921,14 @@
       "onboard_time": 1692612040,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 11345,
+      "num": 894528,
+      "word": "时代青音·理论学者助力计划",
+      "onboard_time": 1693123293,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10944,

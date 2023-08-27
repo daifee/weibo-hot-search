@@ -1,0 +1,410 @@
+{
+  "runTime": 1693139324849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2646944,
+        "num": 2646944,
+        "word": "张远 想过糊没想过这么糊",
+        "onboard_time": 1693133373,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1390083,
+        "num": 1390083,
+        "word": "观众演唱会上听不清歌声齐喊退票",
+        "onboard_time": 1693133492,
+        "rank": 1,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 11345,
+        "num": 894528,
+        "word": "时代青音·理论学者助力计划",
+        "onboard_time": 1693123293,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859700,
+        "num": 859700,
+        "word": "花花醒来见到爷爷好开心",
+        "onboard_time": 1693134033,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 772135,
+        "num": 772135,
+        "word": "九尾狐明明就是祥瑞",
+        "onboard_time": 1693133851,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 686519,
+        "num": 686519,
+        "word": "12306回应火车卧铺能否自带床帘",
+        "onboard_time": 1693127257,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679428,
+        "num": 679428,
+        "word": "确认普里戈任死亡",
+        "onboard_time": 1693134754,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643683,
+        "num": 643683,
+        "word": "披荆斩棘给林志颖安排了单人间",
+        "onboard_time": 1693126232,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572364,
+        "num": 572364,
+        "word": "难怪大学开学行李箱好几十公斤",
+        "onboard_time": 1693135474,
+        "rank": 8,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 474277,
+        "num": 474277,
+        "word": "长沙一小区电梯坠落2人瞬间腾空",
+        "onboard_time": 1693131036,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1369401,
+        "num": 467113,
+        "word": "婚前冲动买房杭州姑娘肠子悔青",
+        "onboard_time": 1693124919,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850500,
+        "num": 464860,
+        "word": "2游客被终生禁入成都大熊猫基地",
+        "onboard_time": 1693138175,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827476,
+        "num": 462656,
+        "word": "顾漫 接下来更新会更斟酌仔细",
+        "onboard_time": 1693138358,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 449175,
+        "num": 449175,
+        "word": "日本3天连发5次地震",
+        "onboard_time": 1693116630,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77917,
+        "num": 433547,
+        "word": "成都地铁一车厢挂满英雄海报",
+        "onboard_time": 1693137695,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433408,
+        "num": 433408,
+        "word": "IPO",
+        "onboard_time": 1693135594,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 428640,
+        "num": 428640,
+        "word": "俄坠机事故遗体遗传学分析完成",
+        "onboard_time": 1693137275,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393154,
+        "num": 393154,
+        "word": "把骨相美发挥到了极致",
+        "onboard_time": 1693121614,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367728,
+        "num": 367728,
+        "word": "CPA经济法 现场立法",
+        "onboard_time": 1693135355,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 340177,
+        "num": 340177,
+        "word": "广州站上来了一只大熊猫",
+        "onboard_time": 1693137634,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570849,
+        "num": 335134,
+        "word": "真正伤胃的五件事",
+        "onboard_time": 1693134394,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 440339,
+        "num": 334514,
+        "word": "他其实没那么喜欢你",
+        "onboard_time": 1693135894,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327627,
+        "num": 327627,
+        "word": "乌尔善自己掏钱做封神特效",
+        "onboard_time": 1693138416,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321743,
+        "num": 321743,
+        "word": "张远竟然是至上励合的",
+        "onboard_time": 1693126834,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320875,
+        "num": 320875,
+        "word": "女子发现网红探访的凶宅是自己家",
+        "onboard_time": 1693116754,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310397,
+        "num": 310397,
+        "word": "张婧仪抽烟镜头",
+        "onboard_time": 1693138835,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305302,
+        "num": 305302,
+        "word": "女子长期侧躺玩手机致右眼短暂失明",
+        "onboard_time": 1693122574,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291611,
+        "num": 291611,
+        "word": "鹊刀门传奇 缅北",
+        "onboard_time": 1693133252,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279701,
+        "num": 279701,
+        "word": "白敬亭魏大勋范丞丞开卡丁车",
+        "onboard_time": 1693134094,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251335,
+        "num": 251335,
+        "word": "谁花5555元买早餐了老板正找你",
+        "onboard_time": 1693123117,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248601,
+        "num": 248601,
+        "word": "张发财 决赛不争你什么时候争",
+        "onboard_time": 1693135894,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246900,
+        "num": 246900,
+        "word": "金晨运镜",
+        "onboard_time": 1693137574,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223757,
+        "num": 223757,
+        "word": "谭松韵参加好朋友婚礼",
+        "onboard_time": 1693127257,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223436,
+        "num": 223436,
+        "word": "相亲闪婚后不合因女方流产判不准离",
+        "onboard_time": 1693135174,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216036,
+        "num": 216036,
+        "word": "结了婚才知道该嫁什么样的人",
+        "onboard_time": 1693120358,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208605,
+        "num": 208605,
+        "word": "羽毛球世锦赛",
+        "onboard_time": 1693138655,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199594,
+        "num": 199594,
+        "word": "马思纯孙千好闺蜜合照",
+        "onboard_time": 1693131394,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196123,
+        "num": 196123,
+        "word": "现在就出发",
+        "onboard_time": 1693138233,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193729,
+        "num": 193729,
+        "word": "历次印花税调整对A股影响",
+        "onboard_time": 1693130253,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192973,
+        "num": 192973,
+        "word": "两大台风或将相继侵袭日本",
+        "onboard_time": 1693126352,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181895,
+        "num": 181895,
+        "word": "夫妻俩医院捡1万元毫不犹豫上交",
+        "onboard_time": 1693127318,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168658,
+        "num": 168658,
+        "word": "崇应彪被姜文焕射下马之后好慌张",
+        "onboard_time": 1693136856,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166001,
+        "num": 166001,
+        "word": "当第一次去吃牛排说要十分熟",
+        "onboard_time": 1693132651,
+        "rank": 42,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 237235,
+        "num": 163141,
+        "word": "张晚意听到玱玹老婆慌了",
+        "onboard_time": 1693132716,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159614,
+        "num": 159614,
+        "word": "Jennie粉色芭比造型",
+        "onboard_time": 1693118432,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159357,
+        "num": 159357,
+        "word": "上班没必要内耗自己",
+        "onboard_time": 1693129715,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155858,
+        "num": 155858,
+        "word": "6名银行员工帮客户清点160万被烧现金",
+        "onboard_time": 1693122694,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150284,
+        "num": 150284,
+        "word": "成毅吃柿饼全靠偷袭",
+        "onboard_time": 1693132534,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146030,
+        "num": 146030,
+        "word": "姬发",
+        "onboard_time": 1693128934,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142478,
+        "num": 142478,
+        "word": "丫丫吃自家的胡萝卜香喷喷",
+        "onboard_time": 1693133553,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#谋长远之策行固本之举更好建设美丽新疆#"
+    }
+  }
+}

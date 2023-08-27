@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693136028392,
+  "endTime": 1693139324849,
   "band_list": [
     {
       "raw_hot": 4044730,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2646944,
+      "num": 2646944,
+      "word": "张远 想过糊没想过这么糊",
+      "onboard_time": 1693133373,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2551195,
       "num": 2551195,
       "word": "女子长期侧躺玩手机致右眼短暂失明",
@@ -49,14 +57,6 @@
       "onboard_time": 1693109497,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2323301,
-      "num": 1312211,
-      "word": "张远 想过糊没想过这么糊",
-      "onboard_time": 1693133373,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2020454,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1390083,
+      "num": 1390083,
+      "word": "观众演唱会上听不清歌声齐喊退票",
+      "onboard_time": 1693133492,
+      "rank": 15,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 1252995,
       "num": 1252995,
       "word": "安妮海瑟薇的颜值变化",
@@ -267,12 +275,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 859700,
+      "num": 859700,
+      "word": "花花醒来见到爷爷好开心",
+      "onboard_time": 1693134033,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 851000,
       "num": 851000,
       "word": "姬发",
       "onboard_time": 1693128934,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 850500,
+      "num": 464860,
+      "word": "2游客被终生禁入成都大熊猫基地",
+      "onboard_time": 1693138175,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 827476,
+      "num": 462656,
+      "word": "顾漫 接下来更新会更斟酌仔细",
+      "onboard_time": 1693138358,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 823643,
@@ -305,14 +337,6 @@
       "onboard_time": 1693066533,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 773084,
-      "num": 773084,
-      "word": "观众演唱会上听不清歌声齐喊退票",
-      "onboard_time": 1693133492,
-      "rank": 15,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 759306,
@@ -419,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 655004,
-      "num": 655004,
-      "word": "花花醒来见到爷爷好开心",
-      "onboard_time": 1693134033,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 638442,
       "num": 382864,
       "word": "95后小伙怒砸自己开的日料店",
@@ -515,6 +531,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 572364,
+      "num": 572364,
+      "word": "难怪大学开学行李箱好几十公斤",
+      "onboard_time": 1693135474,
+      "rank": 33,
+      "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 570849,
+      "num": 335134,
+      "word": "真正伤胃的五件事",
+      "onboard_time": 1693134394,
+      "rank": 36,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 565728,
       "num": 462189,
       "word": "薛之谦发型变形了",
@@ -569,14 +601,6 @@
       "onboard_time": 1693106616,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 534732,
-      "num": 269571,
-      "word": "真正伤胃的五件事",
-      "onboard_time": 1693134394,
-      "rank": 36,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 518151,
@@ -739,12 +763,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440339,
+      "num": 334514,
+      "word": "他其实没那么喜欢你",
+      "onboard_time": 1693135894,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 438793,
       "num": 383282,
       "word": "骄阳似我下剧情",
       "onboard_time": 1693125395,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 433408,
+      "num": 433408,
+      "word": "IPO",
+      "onboard_time": 1693135594,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 428640,
+      "num": 428640,
+      "word": "俄坠机事故遗体遗传学分析完成",
+      "onboard_time": 1693137275,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425754,
@@ -1051,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 340177,
+      "num": 340177,
+      "word": "广州站上来了一只大熊猫",
+      "onboard_time": 1693137634,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339734,
       "num": 320581,
       "word": "马思纯孙千好闺蜜合照",
@@ -1107,6 +1163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 327627,
+      "num": 327627,
+      "word": "乌尔善自己掏钱做封神特效",
+      "onboard_time": 1693138416,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325295,
       "num": 325295,
       "word": "我的英语老师改行造显微镜去了",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1693125874,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310397,
+      "num": 310397,
+      "word": "张婧仪抽烟镜头",
+      "onboard_time": 1693138835,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 309761,
@@ -1427,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246900,
+      "num": 246900,
+      "word": "金晨运镜",
+      "onboard_time": 1693137574,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 246284,
       "num": 246284,
       "word": "金鹿奖最佳导演入围名单",
@@ -1521,14 +1601,6 @@
       "onboard_time": 1693099772,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231396,
-      "num": 231396,
-      "word": "难怪大学开学行李箱好几十公斤",
-      "onboard_time": 1693135474,
-      "rank": 33,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 229656,
@@ -1683,6 +1755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208605,
+      "num": 208605,
+      "word": "羽毛球世锦赛",
+      "onboard_time": 1693138655,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207723,
       "num": 207723,
       "word": "乔欣张真源严浩翔配合消除猎人",
@@ -1697,14 +1777,6 @@
       "onboard_time": 1693066292,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204408,
-      "num": 204408,
-      "word": "IPO",
-      "onboard_time": 1693135594,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 204125,
@@ -1761,6 +1833,14 @@
       "onboard_time": 1693100972,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196123,
+      "num": 196123,
+      "word": "现在就出发",
+      "onboard_time": 1693138233,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 195642,
@@ -1923,14 +2003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176966,
-      "num": 176966,
-      "word": "他其实没那么喜欢你",
-      "onboard_time": 1693135894,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175558,
       "num": 175558,
       "word": "李一桐曾舜晞合跳whatever",
@@ -2001,6 +2073,14 @@
       "onboard_time": 1693108836,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168658,
+      "num": 168658,
+      "word": "崇应彪被姜文焕射下马之后好慌张",
+      "onboard_time": 1693136856,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 168032,
@@ -2323,6 +2403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 77917,
+      "num": 433547,
+      "word": "成都地铁一车厢挂满英雄海报",
+      "onboard_time": 1693137695,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77814,
       "num": 95450,
       "word": "王鹤棣秦霄贤冤种兄弟再次出击",
@@ -2409,6 +2497,14 @@
       "onboard_time": 1693080794,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11345,
+      "num": 894528,
+      "word": "时代青音·理论学者助力计划",
+      "onboard_time": 1693123293,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10944,
