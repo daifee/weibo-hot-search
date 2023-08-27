@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693150434342,
+  "endTime": 1693153175658,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -3065,6 +3065,14 @@
       "onboard_time": 1693127257,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2017418,
+      "num": 2017418,
+      "word": "香港小姐10号 意难平",
+      "onboard_time": 1693149700,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2013945,
@@ -9635,6 +9643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1059813,
+      "num": 498317,
+      "word": "张新成 杰哥牛逼",
+      "onboard_time": 1693149763,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1059647,
       "num": 1059647,
       "word": "孤注一掷成中国影史点映票房冠军",
@@ -11033,14 +11049,6 @@
       "onboard_time": 1691146114,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 951558,
-      "num": 498317,
-      "word": "张新成 杰哥牛逼",
-      "onboard_time": 1693149763,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 950122,
@@ -15475,14 +15483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 743845,
-      "num": 743845,
-      "word": "香港小姐10号 意难平",
-      "onboard_time": 1693149700,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 743833,
       "num": 743833,
       "word": "长大后最羡慕的朋友圈",
@@ -16457,6 +16457,14 @@
       "onboard_time": 1692923081,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 715423,
+      "num": 715423,
+      "word": "台风达维或使核污染水扑向美国",
+      "onboard_time": 1693150181,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 715405,
@@ -18491,6 +18499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646647,
+      "num": 646647,
+      "word": "张杰的明星粉丝们开始合照了",
+      "onboard_time": 1693149163,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 646644,
       "num": 646644,
       "word": "你们三代好精彩",
@@ -19795,14 +19811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 612814,
-      "num": 463404,
-      "word": "张杰的明星粉丝们开始合照了",
-      "onboard_time": 1693149163,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 612445,
       "num": 612445,
       "word": "一条MV换郑恺一条命",
@@ -20569,6 +20577,14 @@
       "onboard_time": 1691296117,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 593651,
+      "num": 593651,
+      "word": "王怡然最上镜小姐",
+      "onboard_time": 1693150361,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 593124,
@@ -21489,6 +21505,14 @@
       "onboard_time": 1691674116,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 575384,
+      "num": 399164,
+      "word": "男子称按处方吃24粒头孢腹泻进急诊",
+      "onboard_time": 1693151256,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 575243,
@@ -25035,6 +25059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 508794,
+      "num": 295726,
+      "word": "再晚也要嫁给爱情",
+      "onboard_time": 1693151377,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 508725,
       "num": 508725,
       "word": "殷商勇士 踏平冀州",
@@ -26633,6 +26665,14 @@
       "onboard_time": 1691211934,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 482251,
+      "num": 293757,
+      "word": "32条眼镜王蛇在村寨边筑窝安家",
+      "onboard_time": 1693151137,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482158,
@@ -28729,6 +28769,14 @@
       "onboard_time": 1690876172,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449968,
+      "num": 449968,
+      "word": "两大台风或将相继侵袭日本",
+      "onboard_time": 1693126352,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449906,
@@ -31121,6 +31169,14 @@
       "onboard_time": 1691388517,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 416564,
+      "num": 291693,
+      "word": "一条离婚了还带娃的狗狗",
+      "onboard_time": 1693151017,
+      "rank": 24,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 416541,
@@ -38851,14 +38907,6 @@
       "category": "时尚,美妆"
     },
     {
-      "raw_hot": 325126,
-      "num": 325126,
-      "word": "两大台风或将相继侵袭日本",
-      "onboard_time": 1693126352,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325087,
       "num": 302870,
       "word": "男生嫌下山太累直接滚到半山腰",
@@ -40843,6 +40891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306428,
+      "num": 306428,
+      "word": "羽生结弦热舞视频",
+      "onboard_time": 1693151433,
+      "rank": 17,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 306403,
       "num": 384572,
       "word": "腾讯第二季度净利润375.48亿元",
@@ -41441,14 +41497,6 @@
       "onboard_time": 1691103742,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301311,
-      "num": 216000,
-      "word": "王怡然最上镜小姐",
-      "onboard_time": 1693150361,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 301289,
@@ -43483,6 +43531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284575,
+      "num": 284575,
+      "word": "魏大勋再现孟宴臣名台词",
+      "onboard_time": 1693149879,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284570,
       "num": 284570,
       "word": "陈冰薛之谦的新歌脏等了5年",
@@ -44857,6 +44913,14 @@
       "onboard_time": 1692756998,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273593,
+      "num": 273593,
+      "word": "日本超市海鲜打折也没人买",
+      "onboard_time": 1693152513,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273562,
@@ -48977,14 +49041,6 @@
       "onboard_time": 1691749536,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 242233,
-      "num": 195788,
-      "word": "魏大勋再现孟宴臣名台词",
-      "onboard_time": 1693149879,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 242112,
@@ -58139,14 +58195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196823,
-      "num": 196823,
-      "word": "台风达维或使核污染水扑向美国",
-      "onboard_time": 1693150181,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196802,
       "num": 196802,
       "word": "唐九洲觉得苏培盛是完美男人",
@@ -60249,6 +60297,14 @@
       "onboard_time": 1692181897,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188921,
+      "num": 188921,
+      "word": "脸蛋比心",
+      "onboard_time": 1693152335,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 188909,
@@ -71232,6 +71288,14 @@
       "word": "航拍暴雨后的涿州",
       "onboard_time": 1691087595,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28751,
+      "num": 991520,
+      "word": "神十六乘组有自己的Tony老师",
+      "onboard_time": 1693140697,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
