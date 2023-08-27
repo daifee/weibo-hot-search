@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693113274689,
+  "endTime": 1693114436635,
   "band_list": [
     {
       "raw_hot": 4044730,
@@ -27,8 +27,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2043458,
-      "num": 2043458,
+      "raw_hot": 2500651,
+      "num": 2500651,
       "word": "其实穷人的孩子更晚熟",
       "onboard_time": 1693109497,
       "rank": 35,
@@ -41,6 +41,14 @@
       "onboard_time": 1693093044,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1837379,
+      "num": 1837379,
+      "word": "男子穿日本投降T恤买日系车遭无视",
+      "onboard_time": 1693110693,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1801184,
@@ -81,14 +89,6 @@
       "onboard_time": 1693101995,
       "rank": 12,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 1412976,
-      "num": 1412976,
-      "word": "男子穿日本投降T恤买日系车遭无视",
-      "onboard_time": 1693110693,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1252995,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 569669,
+      "num": 569669,
+      "word": "泰国的雪王那么富贵",
+      "onboard_time": 1693112135,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 565728,
       "num": 462189,
       "word": "薛之谦发型变形了",
@@ -347,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502365,
+      "num": 502365,
+      "word": "日本核污水事件的科学真相",
+      "onboard_time": 1693109674,
+      "rank": 39,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 496469,
       "num": 429161,
       "word": "范丞丞小时候家对门住的是鲁豫",
@@ -361,14 +377,6 @@
       "onboard_time": 1693058681,
       "rank": 9,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 469861,
-      "num": 469861,
-      "word": "日本核污水事件的科学真相",
-      "onboard_time": 1693109674,
-      "rank": 39,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 460663,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 414724,
-      "num": 435361,
+      "num": 460064,
       "word": "现实中的缅北诈骗远比电影惨烈",
       "onboard_time": 1693102114,
       "rank": 36,
@@ -483,20 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 405918,
-      "num": 405918,
-      "word": "泰国的雪王那么富贵",
-      "onboard_time": 1693112135,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 405841,
       "num": 391632,
       "word": "她花光十年积蓄给父亲造房",
       "onboard_time": 1693107693,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 402625,
+      "num": 402625,
+      "word": "港姐",
+      "onboard_time": 1693113517,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 397572,
@@ -560,6 +568,14 @@
       "word": "好多哥哥去了陈楚生演唱会",
       "onboard_time": 1693057001,
       "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 361263,
+      "num": 361263,
+      "word": "玖月奇迹王小玮脚速像踩风火轮",
+      "onboard_time": 1693113574,
+      "rank": 18,
       "category": "音乐"
     },
     {
@@ -745,6 +761,14 @@
       "onboard_time": 1693059283,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290428,
+      "num": 290428,
+      "word": "一架美军机在澳大利亚军演时坠毁",
+      "onboard_time": 1693112977,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 290347,
@@ -1107,14 +1131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191828,
-      "num": 191828,
-      "word": "一架美军机在澳大利亚军演时坠毁",
-      "onboard_time": 1693112977,
-      "rank": 36,
-      "category": "军事"
-    },
-    {
       "raw_hot": 191396,
       "num": 191396,
       "word": "父辈的荣耀今日开播",
@@ -1283,6 +1299,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 138406,
+      "num": 138406,
+      "word": "披荆斩棘",
+      "onboard_time": 1693114174,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130736,
       "num": 130736,
       "word": "苏醒爸爸灵魂一问",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1693106616,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85638,
+      "num": 123183,
+      "word": "未定事件簿",
+      "onboard_time": 1693114232,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 85041,
