@@ -1,0 +1,410 @@
+{
+  "runTime": 1693145623552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2929084,
+        "num": 2929084,
+        "word": "2游客被终生禁入成都大熊猫基地",
+        "onboard_time": 1693138175,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1722202,
+        "num": 1722202,
+        "word": "尼格买提报平安",
+        "onboard_time": 1693142377,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11122,
+        "num": 1684026,
+        "word": "给新生的军训小贴士",
+        "onboard_time": 1693106616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1650755,
+        "num": 1650755,
+        "word": "顾漫 接下来更新会更斟酌仔细",
+        "onboard_time": 1693138358,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1022121,
+        "num": 1022121,
+        "word": "张远 想过糊没想过这么糊",
+        "onboard_time": 1693133373,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 865670,
+        "num": 865670,
+        "word": "非常杨幂",
+        "onboard_time": 1693143399,
+        "rank": 5,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 676177,
+        "num": 676177,
+        "word": "杨宗纬 我想要听张杰",
+        "onboard_time": 1693142496,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 597113,
+        "num": 597113,
+        "word": "DRG被零封",
+        "onboard_time": 1693143520,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 522357,
+        "num": 522357,
+        "word": "长空之王最终票房8.5亿",
+        "onboard_time": 1693140218,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380129,
+        "num": 520855,
+        "word": "留学生被英国爷爷安利中国",
+        "onboard_time": 1693139616,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880098,
+        "num": 520494,
+        "word": "婚前冲动买房杭州姑娘肠子悔青",
+        "onboard_time": 1693124919,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783649,
+        "num": 520361,
+        "word": "观众演唱会上听不清歌声齐喊退票",
+        "onboard_time": 1693133492,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 519361,
+        "num": 519361,
+        "word": "2023香港小姐决赛",
+        "onboard_time": 1693141117,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478241,
+        "num": 478241,
+        "word": "日本3天连发5次地震",
+        "onboard_time": 1693116630,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16595,
+        "num": 476359,
+        "word": "视障男子独自出行好心人一路守护",
+        "onboard_time": 1693144900,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500423,
+        "num": 475979,
+        "word": "张子豪摔下台",
+        "onboard_time": 1693142137,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 475489,
+        "num": 475489,
+        "word": "骄阳似我",
+        "onboard_time": 1693144060,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459719,
+        "num": 459719,
+        "word": "沈腾说捧不动范丞丞",
+        "onboard_time": 1693140156,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319964,
+        "num": 319964,
+        "word": "花花醒来见到爷爷好开心",
+        "onboard_time": 1693134033,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308878,
+        "num": 308878,
+        "word": "女子长期侧躺玩手机致右眼短暂失明",
+        "onboard_time": 1693122574,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818328,
+        "num": 291956,
+        "word": "妈妈不让周扬青发的微博",
+        "onboard_time": 1693141480,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619393,
+        "num": 286616,
+        "word": "张婧仪抽烟镜头",
+        "onboard_time": 1693138835,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363534,
+        "num": 280177,
+        "word": "真正伤胃的五件事",
+        "onboard_time": 1693134394,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 270054,
+        "num": 270054,
+        "word": "长沙一小区电梯坠落2人瞬间腾空",
+        "onboard_time": 1693131036,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245755,
+        "num": 245755,
+        "word": "海港处罚蔡慧康",
+        "onboard_time": 1693144178,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444489,
+        "num": 245422,
+        "word": "魏大勋直播",
+        "onboard_time": 1693140576,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403197,
+        "num": 245090,
+        "word": "披荆斩棘给林志颖安排了单人间",
+        "onboard_time": 1693126232,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355544,
+        "num": 244313,
+        "word": "张杰演唱会",
+        "onboard_time": 1693143098,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352125,
+        "num": 243993,
+        "word": "他其实没那么喜欢你",
+        "onboard_time": 1693135894,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243759,
+        "num": 243759,
+        "word": "女子发现网红探访的凶宅是自己家",
+        "onboard_time": 1693116754,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676009,
+        "num": 239319,
+        "word": "21岁亚裔女孩为护母被继父刺107刀",
+        "onboard_time": 1693144539,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349063,
+        "num": 238206,
+        "word": "成毅郎的诱惑",
+        "onboard_time": 1693143458,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332896,
+        "num": 235959,
+        "word": "把骨相美发挥到了极致",
+        "onboard_time": 1693121614,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233640,
+        "num": 233640,
+        "word": "猫猫和狗狗的最后道别",
+        "onboard_time": 1693141779,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223135,
+        "num": 223135,
+        "word": "周冠宇第二位",
+        "onboard_time": 1693145020,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278283,
+        "num": 222847,
+        "word": "邓为绿植大片",
+        "onboard_time": 1693143037,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265084,
+        "num": 222251,
+        "word": "张杰的最强站哥站姐们",
+        "onboard_time": 1693145198,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263936,
+        "num": 222076,
+        "word": "九尾狐明明就是祥瑞",
+        "onboard_time": 1693133851,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221522,
+        "num": 221522,
+        "word": "历次印花税调整对A股影响",
+        "onboard_time": 1693130253,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205629,
+        "num": 205629,
+        "word": "两大台风或将相继侵袭日本",
+        "onboard_time": 1693126352,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255183,
+        "num": 205626,
+        "word": "杨宗纬他超爱",
+        "onboard_time": 1693143699,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213392,
+        "num": 203645,
+        "word": "蜂巢",
+        "onboard_time": 1693145499,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187713,
+        "num": 201690,
+        "word": "F1荷兰大奖赛",
+        "onboard_time": 1693144959,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193750,
+        "num": 199921,
+        "word": "DRG BP",
+        "onboard_time": 1693139497,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198687,
+        "num": 198687,
+        "word": "于适丸子头教程",
+        "onboard_time": 1693145259,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 197124,
+        "num": 197124,
+        "word": "张远竟然是至上励合的",
+        "onboard_time": 1693126834,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196942,
+        "num": 196942,
+        "word": "难怪大学开学行李箱好几十公斤",
+        "onboard_time": 1693135474,
+        "rank": 46,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 190776,
+        "num": 190776,
+        "word": "山东的可以来笑了",
+        "onboard_time": 1693145379,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179137,
+        "num": 179137,
+        "word": "12306回应火车卧铺能否自带床帘",
+        "onboard_time": 1693127257,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157265,
+        "num": 173969,
+        "word": "确认普里戈任死亡",
+        "onboard_time": 1693134754,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#谋长远之策行固本之举更好建设美丽新疆#"
+    }
+  }
+}

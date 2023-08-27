@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693143230784,
+  "endTime": 1693145623552,
   "band_list": [
     {
       "raw_hot": 4044730,
@@ -113,6 +113,14 @@
       "onboard_time": 1693056760,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1722202,
+      "num": 1722202,
+      "word": "尼格买提报平安",
+      "onboard_time": 1693142377,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1711094,
@@ -299,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 865670,
+      "num": 865670,
+      "word": "非常杨幂",
+      "onboard_time": 1693143399,
+      "rank": 5,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 859700,
       "num": 859700,
       "word": "花花醒来见到爷爷好开心",
@@ -331,20 +347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 818328,
+      "num": 324940,
+      "word": "妈妈不让周扬青发的微博",
+      "onboard_time": 1693141480,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 793924,
       "num": 344710,
       "word": "刘雨昕胸震",
       "onboard_time": 1693099652,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 785410,
-      "num": 785410,
-      "word": "尼格买提报平安",
-      "onboard_time": 1693142377,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 779398,
@@ -443,6 +459,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676177,
+      "num": 676177,
+      "word": "杨宗纬 我想要听张杰",
+      "onboard_time": 1693142496,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 676009,
+      "num": 239319,
+      "word": "21岁亚裔女孩为护母被继父刺107刀",
+      "onboard_time": 1693144539,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670688,
       "num": 670688,
       "word": "长空之王最终票房8.5亿",
@@ -473,14 +505,6 @@
       "onboard_time": 1693140156,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 643270,
-      "num": 324940,
-      "word": "妈妈不让周扬青发的微博",
-      "onboard_time": 1693141480,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 638442,
@@ -524,11 +548,19 @@
     },
     {
       "raw_hot": 601622,
-      "num": 410126,
+      "num": 475979,
       "word": "张子豪摔下台",
       "onboard_time": 1693142137,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 597113,
+      "num": 597113,
+      "word": "DRG被零封",
+      "onboard_time": 1693143520,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 596337,
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 549045,
-      "num": 416887,
+      "num": 519361,
       "word": "2023香港小姐决赛",
       "onboard_time": 1693141117,
       "rank": 12,
@@ -691,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 502381,
-      "num": 352371,
-      "word": "杨宗纬 我想要听张杰",
-      "onboard_time": 1693142496,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 502365,
       "num": 502365,
       "word": "日本核污水事件的科学真相",
@@ -745,6 +769,14 @@
       "onboard_time": 1693116093,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 475489,
+      "num": 475489,
+      "word": "骄阳似我",
+      "onboard_time": 1693144060,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 475269,
@@ -1083,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355544,
+      "num": 244313,
+      "word": "张杰演唱会",
+      "onboard_time": 1693143098,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 355507,
       "num": 288584,
       "word": "到学校了发现还连着家里的WiFi",
@@ -1137,6 +1177,14 @@
       "onboard_time": 1693090279,
       "rank": 19,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 349063,
+      "num": 238206,
+      "word": "成毅郎的诱惑",
+      "onboard_time": 1693143458,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 348979,
@@ -1443,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278283,
+      "num": 222847,
+      "word": "邓为绿植大片",
+      "onboard_time": 1693143037,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 278166,
       "num": 278166,
       "word": "沈梦辰问岳云鹏是被郭德纲哪句话打动了",
@@ -1507,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265084,
+      "num": 222251,
+      "word": "张杰的最强站哥站姐们",
+      "onboard_time": 1693145198,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 262535,
       "num": 262535,
       "word": "香港小姐直播",
@@ -1545,6 +1609,14 @@
       "onboard_time": 1693115792,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255183,
+      "num": 205626,
+      "word": "杨宗纬他超爱",
+      "onboard_time": 1693143699,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 254326,
@@ -1617,6 +1689,14 @@
       "onboard_time": 1693128335,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245755,
+      "num": 245755,
+      "word": "海港处罚蔡慧康",
+      "onboard_time": 1693144178,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 244668,
@@ -1747,12 +1827,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223265,
-      "num": 213539,
-      "word": "邓为绿植大片",
-      "onboard_time": 1693143037,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 223135,
+      "num": 223135,
+      "word": "周冠宇第二位",
+      "onboard_time": 1693145020,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 222967,
@@ -1859,12 +1939,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213224,
-      "num": 213224,
-      "word": "张杰演唱会",
-      "onboard_time": 1693143098,
-      "rank": 42,
-      "category": "音乐"
+      "raw_hot": 213392,
+      "num": 203645,
+      "word": "蜂巢",
+      "onboard_time": 1693145499,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 212316,
@@ -1979,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198687,
+      "num": 198687,
+      "word": "于适丸子头教程",
+      "onboard_time": 1693145259,
+      "rank": 44,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 197462,
       "num": 197462,
       "word": "杨丞琳亲完周笔畅说好香",
@@ -2059,6 +2147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190776,
+      "num": 190776,
+      "word": "山东的可以来笑了",
+      "onboard_time": 1693145379,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190709,
       "num": 190709,
       "word": "我以为的成毅报仇vs实际",
@@ -2089,6 +2185,14 @@
       "onboard_time": 1693142197,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 187713,
+      "num": 201690,
+      "word": "F1荷兰大奖赛",
+      "onboard_time": 1693144959,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 186620,
@@ -2697,6 +2801,14 @@
       "onboard_time": 1693080794,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16595,
+      "num": 476359,
+      "word": "视障男子独自出行好心人一路守护",
+      "onboard_time": 1693144900,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11981,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/01 00:22:33 ~ 2023/08/27 21:33:50
+本榜单时间：2023/08/01 00:22:33 ~ 2023/08/27 22:13:43
 </p>
 </blockquote>
 <p>
@@ -3135,6 +3135,12 @@ Angelababy穿比基尼跳海（热度：1733206）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%8A%A5%E5%B9%B3%E5%AE%89%23" target="weibo">
+尼格买提报平安（热度：1722202）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%98%A5%E4%B8%80%E5%B9%BF%E6%92%AD%E5%8F%B0%E5%A3%B0%E6%98%8E%E4%B8%8D%E5%86%8D%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%90%88%E4%BD%9C%23" target="weibo">
 长春一广播台声明不再与中国好声音合作（热度：1721026）
 </a>
@@ -6005,12 +6011,6 @@ WBG战胜TES（热度：1189102）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%83%9C%E5%90%9B%E5%A5%BD%E8%BE%A3%23" target="weibo">
 刘惜君好辣（热度：1188054）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E6%99%9A%E4%BC%9A%E8%AF%B7%E5%AD%9F%E5%AD%90%E4%B9%89%E5%94%B1%E6%AD%8C%E4%BA%86%23" target="weibo">
-终于有晚会请孟子义唱歌了（热度：1187727）
 </a>
 </li>
 
