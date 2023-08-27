@@ -1,6 +1,6 @@
 {
   "startTime": 1693066764799,
-  "endTime": 1693114436635,
+  "endTime": 1693117212129,
   "band_list": [
     {
       "raw_hot": 4044730,
@@ -99,20 +99,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1188054,
+      "num": 1062580,
+      "word": "刘惜君好辣",
+      "onboard_time": 1693110758,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1171645,
       "num": 754222,
       "word": "杜海涛几十年的主持人白干了",
       "onboard_time": 1693102172,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1062580,
-      "num": 1062580,
-      "word": "刘惜君好辣",
-      "onboard_time": 1693110758,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 1002685,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701844,
+      "num": 701844,
+      "word": "玖月奇迹王小玮脚速像踩风火轮",
+      "onboard_time": 1693113574,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 701008,
       "num": 701008,
       "word": "宁安如梦",
@@ -275,8 +283,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569669,
-      "num": 569669,
+      "raw_hot": 589452,
+      "num": 589452,
       "word": "泰国的雪王那么富贵",
       "onboard_time": 1693112135,
       "rank": 15,
@@ -363,6 +371,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 498519,
+      "num": 498519,
+      "word": "封神殷郊姜王后番外",
+      "onboard_time": 1693114955,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 496469,
       "num": 429161,
       "word": "范丞丞小时候家对门住的是鲁豫",
@@ -443,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442163,
+      "num": 442163,
+      "word": "A股估值已低于2008年1664点水平",
+      "onboard_time": 1693114653,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 425754,
       "num": 324469,
       "word": "高铁上一女子被母女俩吵醒双方互殴",
@@ -465,6 +489,14 @@
       "onboard_time": 1693097973,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 418330,
+      "num": 418330,
+      "word": "日本3天连发5次地震",
+      "onboard_time": 1693116630,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414987,
@@ -571,14 +603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 361263,
-      "num": 361263,
-      "word": "玖月奇迹王小玮脚速像踩风火轮",
-      "onboard_time": 1693113574,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 356169,
       "num": 289304,
       "word": "邓为说涂山璟和小夭是互相治愈",
@@ -659,6 +683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 343008,
+      "num": 343008,
+      "word": "中国网友把时代广场大屏占领了",
+      "onboard_time": 1693116093,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 341675,
       "num": 341675,
       "word": "东电称暂无核污水停止排放时间",
@@ -683,12 +715,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 338720,
+      "num": 320899,
+      "word": "已有894家俄罗斯公司获准对华出口水产品",
+      "onboard_time": 1693116516,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 332126,
       "num": 367332,
       "word": "海绵宝宝讲的是核污染的故事",
       "onboard_time": 1693106974,
       "rank": 45,
       "category": "动漫,社会新闻"
+    },
+    {
+      "raw_hot": 332011,
+      "num": 332011,
+      "word": "老舅问张远王栎鑫就非得躺一起",
+      "onboard_time": 1693116152,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 331445,
@@ -705,6 +753,22 @@
       "onboard_time": 1693063479,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 331155,
+      "num": 331155,
+      "word": "郑乃馨好飒",
+      "onboard_time": 1693115973,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 328666,
+      "num": 212713,
+      "word": "女子发现网红探访的凶宅是自己家",
+      "onboard_time": 1693116754,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325295,
@@ -835,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259856,
+      "num": 259856,
+      "word": "张大大哭的时候背过去了",
+      "onboard_time": 1693115673,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257274,
       "num": 257274,
       "word": "婚后是否要上交工资卡",
@@ -881,6 +953,14 @@
       "onboard_time": 1693057064,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 242630,
+      "num": 242630,
+      "word": "邓为长相思战绩",
+      "onboard_time": 1693115792,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 240138,
@@ -971,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227202,
+      "num": 227202,
+      "word": "吴克群的身材",
+      "onboard_time": 1693115073,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 222967,
       "num": 222967,
       "word": "谁给小鬼做的美甲",
@@ -1043,6 +1131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 211595,
+      "num": 211595,
+      "word": "丁程鑫给刘耀文唱睡了",
+      "onboard_time": 1693117054,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 210605,
       "num": 210605,
       "word": "胡兵看陈楚生演唱会连发三条微博",
@@ -1073,6 +1169,14 @@
       "onboard_time": 1693112196,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200740,
+      "num": 191240,
+      "word": "马嘉祺转花手",
+      "onboard_time": 1693116870,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 200329,
@@ -1163,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184728,
+      "num": 160023,
+      "word": "周深让学员摸发声位置",
+      "onboard_time": 1693116516,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181906,
       "num": 181906,
       "word": "卓沅种地的200天",
@@ -1201,6 +1313,14 @@
       "onboard_time": 1693046136,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171261,
+      "num": 158771,
+      "word": "陶喆音乐节",
+      "onboard_time": 1693115915,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 170888,
@@ -1251,6 +1371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 157897,
+      "num": 154911,
+      "word": "天后世纪合照",
+      "onboard_time": 1693116992,
+      "rank": 47,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 154924,
       "num": 154924,
       "word": "周深落泪",
@@ -1289,6 +1417,14 @@
       "onboard_time": 1693102594,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142417,
+      "num": 142417,
+      "word": "原来斗罗大陆是这么来的",
+      "onboard_time": 1693114894,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 141911,

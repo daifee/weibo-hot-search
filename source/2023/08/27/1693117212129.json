@@ -1,0 +1,410 @@
+{
+  "runTime": 1693117212129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2379440,
+        "num": 2379440,
+        "word": "福岛真相",
+        "onboard_time": 1693099293,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771182,
+        "num": 771182,
+        "word": "考编失败的狗狗去了哪里",
+        "onboard_time": 1693109974,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58026,
+        "num": 754125,
+        "word": "给新生的军训小贴士",
+        "onboard_time": 1693106616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222126,
+        "num": 737342,
+        "word": "其实穷人的孩子更晚熟",
+        "onboard_time": 1693109497,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1188054,
+        "num": 734193,
+        "word": "刘惜君好辣",
+        "onboard_time": 1693110758,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1134715,
+        "num": 706431,
+        "word": "男子穿日本投降T恤买日系车遭无视",
+        "onboard_time": 1693110693,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701844,
+        "num": 701844,
+        "word": "玖月奇迹王小玮脚速像踩风火轮",
+        "onboard_time": 1693113574,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 589452,
+        "num": 589452,
+        "word": "泰国的雪王那么富贵",
+        "onboard_time": 1693112135,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 498519,
+        "num": 498519,
+        "word": "封神殷郊姜王后番外",
+        "onboard_time": 1693114955,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442163,
+        "num": 442163,
+        "word": "A股估值已低于2008年1664点水平",
+        "onboard_time": 1693114653,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 548856,
+        "num": 439519,
+        "word": "郑恺女儿上综艺了",
+        "onboard_time": 1693093044,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471222,
+        "num": 437521,
+        "word": "檀健次 帕拉丁",
+        "onboard_time": 1693104515,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431610,
+        "num": 431610,
+        "word": "被美军炸了67次又遇上日本核污水",
+        "onboard_time": 1693101995,
+        "rank": 12,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 418330,
+        "num": 418330,
+        "word": "日本3天连发5次地震",
+        "onboard_time": 1693116630,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384003,
+        "num": 384003,
+        "word": "主线任务复活徐良",
+        "onboard_time": 1693111117,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355290,
+        "num": 355290,
+        "word": "港姐",
+        "onboard_time": 1693113517,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347454,
+        "num": 347454,
+        "word": "金城武 我很讨厌在拍戏时看到动物",
+        "onboard_time": 1693100494,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343008,
+        "num": 343008,
+        "word": "中国网友把时代广场大屏占领了",
+        "onboard_time": 1693116093,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332011,
+        "num": 332011,
+        "word": "老舅问张远王栎鑫就非得躺一起",
+        "onboard_time": 1693116152,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331155,
+        "num": 331155,
+        "word": "郑乃馨好飒",
+        "onboard_time": 1693115973,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351190,
+        "num": 326776,
+        "word": "BLACKPINK 超级碗",
+        "onboard_time": 1693110335,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338720,
+        "num": 320899,
+        "word": "已有894家俄罗斯公司获准对华出口水产品",
+        "onboard_time": 1693116516,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 309928,
+        "num": 309928,
+        "word": "日本核污水事件的科学真相",
+        "onboard_time": 1693109674,
+        "rank": 22,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 301317,
+        "num": 301317,
+        "word": "恭喜08号选手李宇春",
+        "onboard_time": 1693105534,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268467,
+        "num": 268467,
+        "word": "两女生被尾随急中生智躲进消防站",
+        "onboard_time": 1693107455,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274608,
+        "num": 266802,
+        "word": "田曦薇叫哥哥和我想象的不一样",
+        "onboard_time": 1693110034,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259856,
+        "num": 259856,
+        "word": "张大大哭的时候背过去了",
+        "onboard_time": 1693115673,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242630,
+        "num": 242630,
+        "word": "邓为长相思战绩",
+        "onboard_time": 1693115792,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227202,
+        "num": 227202,
+        "word": "吴克群的身材",
+        "onboard_time": 1693115073,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213070,
+        "num": 213070,
+        "word": "一架美军机在澳大利亚军演时坠毁",
+        "onboard_time": 1693112977,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 328666,
+        "num": 212713,
+        "word": "女子发现网红探访的凶宅是自己家",
+        "onboard_time": 1693116754,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225202,
+        "num": 212335,
+        "word": "杜海涛几十年的主持人白干了",
+        "onboard_time": 1693102172,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211595,
+        "num": 211595,
+        "word": "丁程鑫给刘耀文唱睡了",
+        "onboard_time": 1693117054,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198267,
+        "num": 198267,
+        "word": "核辐射检测仪卖爆了",
+        "onboard_time": 1693104634,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191368,
+        "num": 191368,
+        "word": "她花光十年积蓄给父亲造房",
+        "onboard_time": 1693107693,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200740,
+        "num": 191240,
+        "word": "马嘉祺转花手",
+        "onboard_time": 1693116870,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190789,
+        "num": 190789,
+        "word": "宁安如梦",
+        "onboard_time": 1693107874,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185362,
+        "num": 185362,
+        "word": "女孩疑早恋和母亲吵架跳河男孩营救溺亡",
+        "onboard_time": 1693095989,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161242,
+        "num": 161242,
+        "word": "日本渔民哭诉政府愚蠢导致无法生存",
+        "onboard_time": 1693104515,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160027,
+        "num": 160027,
+        "word": "超强台风苏拉",
+        "onboard_time": 1693103795,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184728,
+        "num": 160023,
+        "word": "周深让学员摸发声位置",
+        "onboard_time": 1693116516,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182356,
+        "num": 159452,
+        "word": "孙俪写100遍隶书心经用了三年",
+        "onboard_time": 1693105597,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181488,
+        "num": 159031,
+        "word": "披荆斩棘排名",
+        "onboard_time": 1693105174,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171261,
+        "num": 158771,
+        "word": "陶喆音乐节",
+        "onboard_time": 1693115915,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158684,
+        "num": 158684,
+        "word": "邓为 我觉得火不敢当",
+        "onboard_time": 1693106616,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158170,
+        "num": 158170,
+        "word": "时代少年团楼外楼定格鲨我",
+        "onboard_time": 1693112735,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156083,
+        "num": 156083,
+        "word": "现实中的缅北诈骗远比电影惨烈",
+        "onboard_time": 1693102114,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157897,
+        "num": 154911,
+        "word": "天后世纪合照",
+        "onboard_time": 1693116992,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 142417,
+        "num": 142417,
+        "word": "原来斗罗大陆是这么来的",
+        "onboard_time": 1693114894,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 94292,
+        "num": 141019,
+        "word": "海绵宝宝讲的是核污染的故事",
+        "onboard_time": 1693106974,
+        "rank": 49,
+        "category": "动漫,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席讲话里的真挚情谊#"
+    }
+  }
+}
