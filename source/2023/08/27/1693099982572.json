@@ -1,0 +1,410 @@
+{
+  "runTime": 1693099982572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1804392,
+        "num": 1804392,
+        "word": "郑恺女儿上综艺了",
+        "onboard_time": 1693093044,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1252995,
+        "num": 1252995,
+        "word": "安妮海瑟薇的颜值变化",
+        "onboard_time": 1693098213,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 69372,
+        "num": 1177585,
+        "word": "金砖扩员后GDP占全球近三成",
+        "onboard_time": 1693057783,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126980,
+        "num": 1126980,
+        "word": "日本国内超市停买水产品让日企心态崩了",
+        "onboard_time": 1693044757,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 881038,
+        "num": 881038,
+        "word": "第一次见拔箭如此干脆的女主",
+        "onboard_time": 1693094606,
+        "rank": 4,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 553403,
+        "num": 553403,
+        "word": "老人留下一套房产五兄妹和和气气均分",
+        "onboard_time": 1693061803,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550664,
+        "num": 550664,
+        "word": "孟美岐空中坠落",
+        "onboard_time": 1693056760,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542497,
+        "num": 542497,
+        "word": "爱宝双胞胎女儿延续宝字辈",
+        "onboard_time": 1693096228,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476985,
+        "num": 476985,
+        "word": "刀郎发微博了",
+        "onboard_time": 1693058866,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 402556,
+        "num": 402556,
+        "word": "开劳斯莱斯免费接游客的淄博大哥",
+        "onboard_time": 1693092202,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1643941,
+        "num": 397131,
+        "word": "日本水产厅检测鱼类样本只有2条",
+        "onboard_time": 1693093586,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454816,
+        "num": 386534,
+        "word": "长相思第二季是不是快来了",
+        "onboard_time": 1693095989,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421533,
+        "num": 375331,
+        "word": "福岛真相",
+        "onboard_time": 1693099293,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272872,
+        "num": 372396,
+        "word": "江苏常州一隧道口发生惨烈车祸",
+        "onboard_time": 1693060186,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51545,
+        "num": 360756,
+        "word": "刀郎微博首发新歌",
+        "onboard_time": 1693064676,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354640,
+        "num": 354640,
+        "word": "何炅宠了成毅一整期",
+        "onboard_time": 1693098992,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328041,
+        "num": 328041,
+        "word": "范丞丞小时候家对门住的是鲁豫",
+        "onboard_time": 1693098992,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335033,
+        "num": 327265,
+        "word": "曾舜晞被泼水后谁的心动了",
+        "onboard_time": 1693096410,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325295,
+        "num": 325295,
+        "word": "我的英语老师改行造显微镜去了",
+        "onboard_time": 1693098213,
+        "rank": 18,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 286427,
+        "num": 325210,
+        "word": "三场台风正在接近日本",
+        "onboard_time": 1693066533,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927282,
+        "num": 324920,
+        "word": "女孩疑早恋和母亲吵架跳河男孩营救溺亡",
+        "onboard_time": 1693095989,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622921,
+        "num": 324753,
+        "word": "中秋可以连休8天",
+        "onboard_time": 1693097852,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409664,
+        "num": 324469,
+        "word": "高铁上一女子被母女俩吵醒双方互殴",
+        "onboard_time": 1693098813,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324416,
+        "num": 324416,
+        "word": "女子试用期上班51天迟到25次被辞退",
+        "onboard_time": 1693090878,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317593,
+        "num": 317593,
+        "word": "朴志晟补位",
+        "onboard_time": 1693098513,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288584,
+        "num": 288584,
+        "word": "到学校了发现还连着家里的WiFi",
+        "onboard_time": 1693093824,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261292,
+        "num": 261292,
+        "word": "刘雨昕胸震",
+        "onboard_time": 1693099652,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254132,
+        "num": 254132,
+        "word": "成毅曾说自己不擅长综艺",
+        "onboard_time": 1693097490,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250599,
+        "num": 250599,
+        "word": "幸亏我生的年代不流行做辅食",
+        "onboard_time": 1693057482,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252963,
+        "num": 248959,
+        "word": "央视莲花楼剪辑顺序换了",
+        "onboard_time": 1693093344,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420953,
+        "num": 248873,
+        "word": "这段视频也火到国外去了",
+        "onboard_time": 1693097973,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261264,
+        "num": 248534,
+        "word": "新中式裙子",
+        "onboard_time": 1693099054,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 246672,
+        "num": 246672,
+        "word": "太平洋沿岸国有权向日本政府发起核污水索赔",
+        "onboard_time": 1693054778,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 235616,
+        "num": 235616,
+        "word": "弟弟才是最好的旅游搭子",
+        "onboard_time": 1693096049,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226452,
+        "num": 226452,
+        "word": "东电称暂无核污水停止排放时间",
+        "onboard_time": 1693092623,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216987,
+        "num": 216987,
+        "word": "封神票房",
+        "onboard_time": 1693092924,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215504,
+        "num": 215504,
+        "word": "胡兵排名",
+        "onboard_time": 1693094426,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200465,
+        "num": 200465,
+        "word": "谁给小鬼做的美甲",
+        "onboard_time": 1693097250,
+        "rank": 37,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 199547,
+        "num": 199547,
+        "word": "为什么长辈热衷于叫晚辈早起",
+        "onboard_time": 1693061803,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195793,
+        "num": 195793,
+        "word": "沈梦辰问岳云鹏是被郭德纲哪句话打动了",
+        "onboard_time": 1693093106,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194591,
+        "num": 194591,
+        "word": "李天责从霸总变赘婿",
+        "onboard_time": 1693099354,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190005,
+        "num": 190005,
+        "word": "张杰演唱会男女逆战pk",
+        "onboard_time": 1693094366,
+        "rank": 41,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 185422,
+        "num": 185422,
+        "word": "不要低估自然卷的头发长度",
+        "onboard_time": 1693095148,
+        "rank": 42,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 180319,
+        "num": 180319,
+        "word": "24考研预报名流程",
+        "onboard_time": 1693096648,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174097,
+        "num": 174097,
+        "word": "李宇春把熊猫带到了舞台上",
+        "onboard_time": 1693097011,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165951,
+        "num": 165951,
+        "word": "郑恺看到美景第一时间分享给苗苗",
+        "onboard_time": 1693099114,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164363,
+        "num": 164363,
+        "word": "山西致5死27伤旅游大巴事故监控曝光",
+        "onboard_time": 1693059706,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162971,
+        "num": 162971,
+        "word": "杨幂明年或将不拍综艺",
+        "onboard_time": 1693066773,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161977,
+        "num": 161977,
+        "word": "下半年都指望成毅这期好六乐了",
+        "onboard_time": 1693099772,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153980,
+        "num": 153980,
+        "word": "种地吧",
+        "onboard_time": 1693094908,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席讲话里的真挚情谊#"
+    }
+  }
+}
