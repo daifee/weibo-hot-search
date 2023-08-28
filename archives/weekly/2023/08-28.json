@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693226955127,
+  "endTime": 1693228817489,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -163,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1281127,
+      "num": 1281127,
+      "word": "谁家女主第一集失业又失恋",
+      "onboard_time": 1693225656,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1262346,
       "num": 1262346,
       "word": "王鹤棣田曦薇搂腰吻戏",
@@ -241,6 +249,14 @@
       "onboard_time": 1693145678,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954524,
+      "num": 954524,
+      "word": "冯小刚夸虞书欣台词特别好",
+      "onboard_time": 1693225596,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 931504,
@@ -393,22 +409,6 @@
       "onboard_time": 1693187978,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 736291,
-      "num": 736291,
-      "word": "谁家女主第一集失业又失恋",
-      "onboard_time": 1693225656,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 732327,
-      "num": 732327,
-      "word": "冯小刚夸虞书欣台词特别好",
-      "onboard_time": 1693225596,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 724935,
@@ -691,6 +691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 485262,
+      "num": 485262,
+      "word": "吴磊骑车冷到五官都在用力",
+      "onboard_time": 1693227999,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480516,
       "num": 480516,
       "word": "逃出大英博物馆预告片",
@@ -843,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412054,
+      "num": 412054,
+      "word": "4万学费宿舍到处是垃圾没法住",
+      "onboard_time": 1693224758,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 409810,
       "num": 397994,
       "word": "观众演唱会上听不清歌声齐喊退票",
@@ -905,14 +921,6 @@
       "onboard_time": 1693178304,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387453,
-      "num": 363241,
-      "word": "4万学费宿舍到处是垃圾没法住",
-      "onboard_time": 1693224758,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 385867,
@@ -1275,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304558,
+      "num": 304558,
+      "word": "吴磊被骑友大哥要微信",
+      "onboard_time": 1693228419,
+      "rank": 24,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 303339,
       "num": 303339,
       "word": "白日梦我",
@@ -1523,12 +1539,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253317,
+      "num": 253317,
+      "word": "量化私募大佬2.85亿上海买房",
+      "onboard_time": 1693227576,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251919,
       "num": 248702,
       "word": "我李玉湖就要来了",
       "onboard_time": 1693200096,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249066,
+      "num": 249066,
+      "word": "吴磊配音骑有此理全新片头",
+      "onboard_time": 1693228419,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 248837,
@@ -1587,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238142,
+      "num": 238142,
+      "word": "南风知我意预计Q4播出",
+      "onboard_time": 1693227818,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237511,
       "num": 237511,
       "word": "屈楚萧回应网友喊张万森下雪了",
@@ -1617,6 +1657,14 @@
       "onboard_time": 1693152335,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229891,
+      "num": 229891,
+      "word": "徐明浩兰芝见面会",
+      "onboard_time": 1693227278,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229791,
@@ -1715,12 +1763,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211432,
-      "num": 211432,
+      "raw_hot": 216736,
+      "num": 216736,
       "word": "杨幂卡其色风衣",
       "onboard_time": 1693225294,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 211721,
+      "num": 211721,
+      "word": "七时吉祥初空下线好突然",
+      "onboard_time": 1693227635,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 211131,
@@ -1819,6 +1875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200631,
+      "num": 200631,
+      "word": "无用的谎言",
+      "onboard_time": 1693227758,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200233,
       "num": 200233,
       "word": "恋与制作人",
@@ -1844,11 +1908,19 @@
     },
     {
       "raw_hot": 199150,
-      "num": 199150,
+      "num": 200612,
       "word": "封神拍动作戏没有动物受伤",
       "onboard_time": 1693226197,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199120,
+      "num": 213612,
+      "word": "有没有人能管管现在的电视啊",
+      "onboard_time": 1693228117,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 198747,
@@ -1964,7 +2036,7 @@
     },
     {
       "raw_hot": 191932,
-      "num": 191932,
+      "num": 200310,
       "word": "东北币有它自己的汇率",
       "onboard_time": 1693226320,
       "rank": 38,
@@ -1993,6 +2065,14 @@
       "onboard_time": 1693182458,
       "rank": 40,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 188697,
+      "num": 200421,
+      "word": "时代少年团再获亚洲人气组合",
+      "onboard_time": 1693228598,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 188118,
@@ -2417,6 +2497,14 @@
       "onboard_time": 1693177644,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118551,
+      "num": 199971,
+      "word": "好小的一只猫",
+      "onboard_time": 1693228778,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 117675,
