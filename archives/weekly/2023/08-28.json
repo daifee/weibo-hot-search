@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693232052448,
+  "endTime": 1693233222377,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2276948,
+      "raw_hot": 2461793,
       "num": 2276948,
       "word": "吴磊被骑友大哥要微信",
       "onboard_time": 1693228419,
@@ -73,6 +73,14 @@
       "onboard_time": 1693149700,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1978455,
+      "num": 1978455,
+      "word": "留学女儿要300多万美元买房妈妈报警",
+      "onboard_time": 1693230878,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1972735,
@@ -251,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1008946,
-      "num": 1008946,
-      "word": "留学女儿要300多万美元买房妈妈报警",
-      "onboard_time": 1693230878,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 968700,
       "num": 968700,
       "word": "妹妹被正式确诊为曾毅",
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 794334,
-      "num": 309085,
+      "num": 330200,
       "word": "房东的猫把云烟穿身上了",
       "onboard_time": 1693229498,
       "rank": 37,
@@ -755,6 +755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 481347,
+      "num": 311191,
+      "word": "李念欢丈夫孕期出轨",
+      "onboard_time": 1693232496,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480516,
       "num": 480516,
       "word": "逃出大英博物馆预告片",
@@ -1059,6 +1067,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 367993,
+      "num": 367993,
+      "word": "苏醒cue0713披荆斩棘小分队",
+      "onboard_time": 1693231960,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367712,
       "num": 367712,
       "word": "68元甜品自助",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1693208376,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 348218,
+      "num": 348218,
+      "word": "成毅的控场能力",
+      "onboard_time": 1693231059,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 345959,
@@ -1219,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334117,
-      "num": 334117,
-      "word": "成毅的控场能力",
-      "onboard_time": 1693231059,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 330773,
       "num": 330773,
       "word": "台风",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1693218036,
       "rank": 26,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 324718,
+      "num": 277988,
+      "word": "张杰嗓子好忙",
+      "onboard_time": 1693231898,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 323442,
@@ -1483,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 288556,
+      "num": 239620,
+      "word": "时代少年团躺着真舒服舞台",
+      "onboard_time": 1693232978,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287812,
       "num": 261061,
       "word": "东方风云榜节目单",
@@ -1491,8 +1523,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284932,
-      "num": 284932,
+      "raw_hot": 286437,
+      "num": 286437,
       "word": "量化私募大佬2.85亿上海买房",
       "onboard_time": 1693227576,
       "rank": 29,
@@ -1643,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254139,
+      "num": 238600,
+      "word": "莲花楼",
+      "onboard_time": 1693232318,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251919,
       "num": 248702,
       "word": "我李玉湖就要来了",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1693152335,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230623,
+      "num": 230623,
+      "word": "好小的一只猫",
+      "onboard_time": 1693228778,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 229891,
@@ -1883,22 +1931,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 216101,
-      "num": 216101,
-      "word": "好小的一只猫",
-      "onboard_time": 1693228778,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 213649,
-      "num": 213649,
-      "word": "苏醒cue0713披荆斩棘小分队",
-      "onboard_time": 1693231960,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211131,
       "num": 211131,
       "word": "西安警方辟谣网传砸日本车",
@@ -1995,6 +2027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201793,
+      "num": 201793,
+      "word": "鞠婧祎被停车杆打到",
+      "onboard_time": 1693233041,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200757,
       "num": 200757,
       "word": "原神",
@@ -2065,14 +2105,6 @@
       "onboard_time": 1693184075,
       "rank": 38,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 197330,
-      "num": 197330,
-      "word": "张杰嗓子好忙",
-      "onboard_time": 1693231898,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 196551,
@@ -2201,6 +2233,14 @@
       "onboard_time": 1693230577,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 190282,
+      "num": 190282,
+      "word": "老师也有开学恐惧症",
+      "onboard_time": 1693232077,
+      "rank": 43,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 190152,
