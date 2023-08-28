@@ -1,10 +1,10 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693185053581,
+  "endTime": 1693186259517,
   "band_list": [
     {
-      "raw_hot": 9894081,
-      "num": 9894081,
+      "raw_hot": 10143296,
+      "num": 10143296,
       "word": "请大英博物馆无偿归还中国文物",
       "onboard_time": 1693179993,
       "rank": 0,
@@ -59,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1043859,
+      "num": 1043859,
+      "word": "A股",
+      "onboard_time": 1693180531,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 968700,
       "num": 968700,
       "word": "妹妹被正式确诊为曾毅",
@@ -97,14 +105,6 @@
       "onboard_time": 1693150181,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 741232,
-      "num": 741232,
-      "word": "A股",
-      "onboard_time": 1693180531,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 717502,
@@ -200,6 +200,14 @@
       "word": "32条眼镜王蛇在村寨边筑窝安家",
       "onboard_time": 1693151137,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471279,
+      "num": 471279,
+      "word": "唐尚珺宣布继续复读",
+      "onboard_time": 1693184318,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -323,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343256,
-      "num": 343256,
-      "word": "唐尚珺宣布继续复读",
-      "onboard_time": 1693184318,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 335973,
       "num": 290987,
       "word": "张婧仪抽烟镜头",
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293030,
+      "num": 293030,
+      "word": "范丞丞 真正的孟男",
+      "onboard_time": 1693183838,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291707,
       "num": 291707,
       "word": "魏大勋报了被白敬亭关门外的仇",
@@ -443,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265434,
-      "num": 265434,
-      "word": "范丞丞 真正的孟男",
-      "onboard_time": 1693183838,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 265173,
+      "num": 265173,
+      "word": "29岁我还在为未来唱主角做准备",
+      "onboard_time": 1693185098,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258308,
@@ -457,6 +465,14 @@
       "onboard_time": 1693122574,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244969,
+      "num": 244969,
+      "word": "Lisa托脸wink",
+      "onboard_time": 1693181916,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 238368,
@@ -491,20 +507,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 224366,
-      "num": 224366,
-      "word": "Lisa托脸wink",
-      "onboard_time": 1693181916,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211131,
       "num": 211131,
       "word": "西安警方辟谣网传砸日本车",
       "onboard_time": 1693181495,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210674,
+      "num": 210674,
+      "word": "每天坚持打羽毛球会有什么变化",
+      "onboard_time": 1693186059,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202671,
+      "num": 202671,
+      "word": "徐若晗哭了",
+      "onboard_time": 1693181315,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 197438,
@@ -547,6 +571,14 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 184938,
+      "num": 184938,
+      "word": "杨超越主打一个不服输",
+      "onboard_time": 1693183599,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184588,
       "num": 184588,
       "word": "李宇春吴青峰合唱小情歌",
@@ -555,12 +587,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 181980,
-      "num": 181980,
-      "word": "徐若晗哭了",
-      "onboard_time": 1693181315,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 183734,
+      "num": 183734,
+      "word": "一句话记录2023年夏天",
+      "onboard_time": 1693186059,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 181452,
@@ -568,14 +600,6 @@
       "word": "脱口秀大会文字版",
       "onboard_time": 1693177884,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 179662,
-      "num": 179662,
-      "word": "杨超越主打一个不服输",
-      "onboard_time": 1693183599,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -617,6 +641,14 @@
       "onboard_time": 1693158021,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158004,
+      "num": 158004,
+      "word": "张真源说感谢这个阶段的一切",
+      "onboard_time": 1693185279,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 152930,

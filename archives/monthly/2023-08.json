@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693185053581,
+  "endTime": 1693186259517,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -147,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9894081,
-      "num": 9894081,
+      "raw_hot": 10143296,
+      "num": 10143296,
       "word": "请大英博物馆无偿归还中国文物",
       "onboard_time": 1693179993,
       "rank": 0,
@@ -9819,6 +9819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1043859,
+      "num": 1043859,
+      "word": "A股",
+      "onboard_time": 1691119597,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1043795,
       "num": 569059,
       "word": "官方通报讲座称性骚扰是因女生风骚",
@@ -10881,14 +10889,6 @@
       "onboard_time": 1690894356,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 966035,
-      "num": 966035,
-      "word": "A股",
-      "onboard_time": 1691119597,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 964965,
@@ -27427,6 +27427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 471279,
+      "num": 471279,
+      "word": "唐尚珺宣布继续复读",
+      "onboard_time": 1693184318,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471175,
       "num": 471175,
       "word": "猎罪图鉴里的秦海璐",
@@ -37347,14 +37355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343256,
-      "num": 343256,
-      "word": "唐尚珺宣布继续复读",
-      "onboard_time": 1693184318,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343230,
       "num": 1382760,
       "word": "奶奶起身吃力3岁狗狗甘当拐杖",
@@ -42627,6 +42627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293030,
+      "num": 293030,
+      "word": "范丞丞 真正的孟男",
+      "onboard_time": 1693183838,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292990,
       "num": 292990,
       "word": "陈楚生一开口0713眼里都是泪光",
@@ -46195,14 +46203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265434,
-      "num": 265434,
-      "word": "范丞丞 真正的孟男",
-      "onboard_time": 1693183838,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265414,
       "num": 248890,
       "word": "安乐传彩蛋",
@@ -46216,6 +46216,14 @@
       "word": "男子家全屋使用不锈钢家具惊呆女友",
       "onboard_time": 1692438635,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265173,
+      "num": 265173,
+      "word": "29岁我还在为未来唱主角做准备",
+      "onboard_time": 1693185098,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -48817,6 +48825,14 @@
       "onboard_time": 1691743717,
       "rank": 34,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 244969,
+      "num": 244969,
+      "word": "Lisa托脸wink",
+      "onboard_time": 1693181916,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 244953,
@@ -51915,14 +51931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224366,
-      "num": 224366,
-      "word": "Lisa托脸wink",
-      "onboard_time": 1693181916,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224281,
       "num": 224281,
       "word": "林允演唱会速成妆容",
@@ -54515,6 +54523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210674,
+      "num": 210674,
+      "word": "每天坚持打羽毛球会有什么变化",
+      "onboard_time": 1693186059,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210659,
       "num": 210659,
       "word": "开播情景喜剧2今日开播",
@@ -56585,6 +56601,14 @@
       "onboard_time": 1692341135,
       "rank": 38,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 202671,
+      "num": 202671,
+      "word": "徐若晗哭了",
+      "onboard_time": 1693181315,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 202636,
@@ -61427,6 +61451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184938,
+      "num": 184938,
+      "word": "杨超越主打一个不服输",
+      "onboard_time": 1693183599,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184802,
       "num": 222913,
       "word": "原来空调里面这么脏",
@@ -61569,6 +61601,14 @@
       "onboard_time": 1691245667,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 183734,
+      "num": 183734,
+      "word": "一句话记录2023年夏天",
+      "onboard_time": 1693186059,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 183726,
@@ -61849,14 +61889,6 @@
       "onboard_time": 1690974394,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 181980,
-      "num": 181980,
-      "word": "徐若晗哭了",
-      "onboard_time": 1693181315,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 181906,
@@ -62193,14 +62225,6 @@
       "onboard_time": 1692492031,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179662,
-      "num": 179662,
-      "word": "杨超越主打一个不服输",
-      "onboard_time": 1693183599,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 179618,
@@ -64465,6 +64489,14 @@
       "onboard_time": 1692368683,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158004,
+      "num": 158004,
+      "word": "张真源说感谢这个阶段的一切",
+      "onboard_time": 1693185279,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 157990,

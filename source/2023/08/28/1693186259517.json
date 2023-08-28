@@ -1,0 +1,410 @@
+{
+  "runTime": 1693186259517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10143296,
+        "num": 10143296,
+        "word": "请大英博物馆无偿归还中国文物",
+        "onboard_time": 1693179993,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1527362,
+        "num": 1527362,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1693183119,
+        "rank": 1,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 70651,
+        "num": 1244270,
+        "word": "神十六乘组有自己的Tony老师",
+        "onboard_time": 1693140697,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1043859,
+        "num": 1043859,
+        "word": "A股",
+        "onboard_time": 1693180531,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 831012,
+        "num": 831012,
+        "word": "慕光之城分手",
+        "onboard_time": 1693179389,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 682127,
+        "num": 682127,
+        "word": "香港小姐10号 意难平",
+        "onboard_time": 1693149700,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 669842,
+        "num": 669842,
+        "word": "中学小卖部5年租金超900万元",
+        "onboard_time": 1693180833,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 635450,
+        "num": 635450,
+        "word": "胡歌回应不拍戏风波",
+        "onboard_time": 1693178186,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 599243,
+        "num": 599243,
+        "word": "韩政府让企业食堂多吃海鲜引不满",
+        "onboard_time": 1693181982,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540041,
+        "num": 540041,
+        "word": "中国烟草回应卷烟涨价传言",
+        "onboard_time": 1693183119,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1225469,
+        "num": 536928,
+        "word": "张杰赵丽颖合照",
+        "onboard_time": 1693180955,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 764583,
+        "num": 509548,
+        "word": "魏大勋认证魏大勋的大不发音",
+        "onboard_time": 1693181557,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471279,
+        "num": 471279,
+        "word": "唐尚珺宣布继续复读",
+        "onboard_time": 1693184318,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388336,
+        "num": 388336,
+        "word": "女子打包40多桌婚宴剩菜喂流浪猫狗",
+        "onboard_time": 1693178967,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333669,
+        "num": 368229,
+        "word": "2游客被终生禁入成都大熊猫基地",
+        "onboard_time": 1693138175,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350573,
+        "num": 350573,
+        "word": "妈妈不让周扬青发的微博",
+        "onboard_time": 1693141480,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349399,
+        "num": 349399,
+        "word": "胡兵私服审美",
+        "onboard_time": 1693180955,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 346513,
+        "num": 346513,
+        "word": "台风达维或使核污染水扑向美国",
+        "onboard_time": 1693150181,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331615,
+        "num": 331615,
+        "word": "民警酒后足浴店殴打残疾工作人员",
+        "onboard_time": 1693178304,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293030,
+        "num": 293030,
+        "word": "范丞丞 真正的孟男",
+        "onboard_time": 1693183838,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 813373,
+        "num": 292564,
+        "word": "俄海岸惊现深海恐怖怪鱼",
+        "onboard_time": 1693147419,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379824,
+        "num": 292257,
+        "word": "杭州12岁女孩1米72脊柱歪到要手术",
+        "onboard_time": 1693178726,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316961,
+        "num": 292215,
+        "word": "景甜20岁到35岁颜值变化",
+        "onboard_time": 1693179449,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291876,
+        "num": 291876,
+        "word": "一个人吃饭得到的最大的尊重",
+        "onboard_time": 1693181075,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274110,
+        "num": 274110,
+        "word": "男子称按处方吃24粒头孢腹泻进急诊",
+        "onboard_time": 1693151256,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265173,
+        "num": 265173,
+        "word": "29岁我还在为未来唱主角做准备",
+        "onboard_time": 1693185098,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262919,
+        "num": 262919,
+        "word": "张新成 杰哥牛逼",
+        "onboard_time": 1693149763,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261539,
+        "num": 261539,
+        "word": "日本超市海鲜打折也没人买",
+        "onboard_time": 1693152513,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253080,
+        "num": 253080,
+        "word": "一条离婚了还带娃的狗狗",
+        "onboard_time": 1693151017,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 251794,
+        "num": 251794,
+        "word": "台风",
+        "onboard_time": 1693181197,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244969,
+        "num": 244969,
+        "word": "Lisa托脸wink",
+        "onboard_time": 1693181916,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235608,
+        "num": 235608,
+        "word": "男孩怕瓜有毒让民警先吃",
+        "onboard_time": 1693147479,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216643,
+        "num": 216643,
+        "word": "导演说张晚意长得周正",
+        "onboard_time": 1693179510,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211038,
+        "num": 211038,
+        "word": "妹妹被正式确诊为曾毅",
+        "onboard_time": 1693145678,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210674,
+        "num": 210674,
+        "word": "每天坚持打羽毛球会有什么变化",
+        "onboard_time": 1693186059,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207067,
+        "num": 207067,
+        "word": "魏大勋报了被白敬亭关门外的仇",
+        "onboard_time": 1693179449,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203883,
+        "num": 203883,
+        "word": "西安警方辟谣网传砸日本车",
+        "onboard_time": 1693181495,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202671,
+        "num": 202671,
+        "word": "徐若晗哭了",
+        "onboard_time": 1693181315,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200762,
+        "num": 200762,
+        "word": "再晚也要嫁给爱情",
+        "onboard_time": 1693151377,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195368,
+        "num": 195368,
+        "word": "中国烟草辟谣卷烟将涨价",
+        "onboard_time": 1693183298,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184938,
+        "num": 184938,
+        "word": "杨超越主打一个不服输",
+        "onboard_time": 1693183599,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183734,
+        "num": 183734,
+        "word": "一句话记录2023年夏天",
+        "onboard_time": 1693186059,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180551,
+        "num": 180551,
+        "word": "烧仓房是上位者的现实",
+        "onboard_time": 1693183961,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175578,
+        "num": 175578,
+        "word": "Doinb",
+        "onboard_time": 1693152933,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168541,
+        "num": 168541,
+        "word": "躺着玩手机的5个正确姿势",
+        "onboard_time": 1693147299,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165846,
+        "num": 165846,
+        "word": "脱口秀大会文字版",
+        "onboard_time": 1693177884,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164309,
+        "num": 164309,
+        "word": "婚前冲动买房杭州姑娘肠子悔青",
+        "onboard_time": 1693124919,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161330,
+        "num": 161330,
+        "word": "白桃星座",
+        "onboard_time": 1693182458,
+        "rank": 47,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 160346,
+        "num": 160346,
+        "word": "亲戚对你的态度其实取决于父母",
+        "onboard_time": 1693158021,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158004,
+        "num": 158004,
+        "word": "张真源说感谢这个阶段的一切",
+        "onboard_time": 1693185279,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#谋长远之策行固本之举更好建设美丽新疆#"
+    }
+  }
+}
