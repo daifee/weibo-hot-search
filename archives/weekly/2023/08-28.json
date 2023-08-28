@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693260941670,
+  "endTime": 1693262022128,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -2675,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161786,
+      "num": 141275,
+      "word": "董宇辉说不要沉沦在逆境中",
+      "onboard_time": 1693245800,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161566,
       "num": 161566,
       "word": "如何让儿子在学校社死",
@@ -2923,14 +2931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118623,
-      "num": 100272,
-      "word": "董宇辉说不要沉沦在逆境中",
-      "onboard_time": 1693245800,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117675,
       "num": 456088,
       "word": "姐姐在校门口与4岁弟弟含泪惜别",
@@ -3027,6 +3027,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81704,
+      "num": 74202,
+      "word": "陈晓娜扎新剧断崖式分手",
+      "onboard_time": 1693260497,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 81607,
+      "num": 81607,
+      "word": "大鹏 手机存货解除封印",
+      "onboard_time": 1693255873,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 75744,
       "num": 1370668,
       "word": "神十六乘组有自己的Tony老师",
@@ -3091,14 +3107,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 60080,
-      "num": 60080,
-      "word": "大鹏 手机存货解除封印",
-      "onboard_time": 1693255873,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 51634,
       "num": 51634,
       "word": "陈妍希红毯状态",
@@ -3123,7 +3131,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40231,
+      "raw_hot": 42321,
+      "num": 44124,
+      "word": "这种狗我一般会目送200米",
+      "onboard_time": 1693250115,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 42165,
       "num": 44206,
       "word": "张艺兴孤注一掷34亿海报",
       "onboard_time": 1693247118,
@@ -3163,28 +3179,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31710,
-      "num": 44124,
-      "word": "这种狗我一般会目送200米",
-      "onboard_time": 1693250115,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 30806,
+      "num": 31256,
+      "word": "全班都是班干部的班级",
+      "onboard_time": 1693261758,
+      "rank": 45,
+      "category": "幽默,教育"
     },
     {
-      "raw_hot": 31247,
-      "num": 44069,
-      "word": "陈晓娜扎新剧断崖式分手",
-      "onboard_time": 1693260497,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 26383,
-      "num": 265094,
+      "raw_hot": 29533,
+      "num": 282874,
       "word": "我国网民规模已达10.79亿人",
       "onboard_time": 1693233818,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25505,
+      "num": 43162,
+      "word": "我国网民规模达10.79亿人",
+      "onboard_time": 1693250895,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 24771,
@@ -3201,14 +3217,6 @@
       "onboard_time": 1693188036,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21128,
-      "num": 43162,
-      "word": "我国网民规模达10.79亿人",
-      "onboard_time": 1693250895,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 18117,
