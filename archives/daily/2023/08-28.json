@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693196411025,
+  "endTime": 1693197233474,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 745871,
-      "num": 300348,
+      "num": 312460,
       "word": "你妈只是去上厕所了",
       "onboard_time": 1693187978,
       "rank": 31,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 724935,
-      "num": 299402,
+      "num": 303882,
       "word": "结束一段关系最好的方式",
       "onboard_time": 1693186535,
       "rank": 20,
@@ -284,10 +284,18 @@
     },
     {
       "raw_hot": 552771,
-      "num": 301439,
+      "num": 309151,
       "word": "张晚意原生家庭幸福的不演",
       "onboard_time": 1693191037,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 546910,
+      "num": 546910,
+      "word": "杨幂和王阳合作过",
+      "onboard_time": 1693195116,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -323,8 +331,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491054,
+      "num": 491054,
+      "word": "苏有朋演唱会官宣",
+      "onboard_time": 1693195540,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 476440,
-      "num": 300659,
+      "num": 318883,
       "word": "才知道亚洲第一梯在西安",
       "onboard_time": 1693192898,
       "rank": 25,
@@ -337,14 +353,6 @@
       "onboard_time": 1693184318,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461574,
-      "num": 433637,
-      "word": "杨幂和王阳合作过",
-      "onboard_time": 1693195116,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 456590,
@@ -393,6 +401,14 @@
       "onboard_time": 1693151017,
       "rank": 24,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 435618,
+      "num": 435618,
+      "word": "封神 雪龙驹出差报告",
+      "onboard_time": 1693194938,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 435053,
@@ -483,20 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372364,
-      "num": 372364,
-      "word": "封神 雪龙驹出差报告",
-      "onboard_time": 1693194938,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 369544,
       "num": 324424,
       "word": "景甜20岁到35岁颜值变化",
       "onboard_time": 1693179449,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368587,
+      "num": 368587,
+      "word": "同人女仇恨墙",
+      "onboard_time": 1693192417,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 364215,
@@ -523,14 +539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 352362,
-      "num": 352362,
-      "word": "同人女仇恨墙",
-      "onboard_time": 1693192417,
-      "rank": 34,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 345332,
       "num": 345332,
       "word": "马嘉祺EP",
@@ -544,6 +552,22 @@
       "word": "男孩怕瓜有毒让民警先吃",
       "onboard_time": 1693147479,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341133,
+      "num": 341133,
+      "word": "熊猫幼崽也要好好穿袜子",
+      "onboard_time": 1693196198,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336350,
+      "num": 289500,
+      "word": "赛百味为何不受欢迎了",
+      "onboard_time": 1693196320,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -561,6 +585,14 @@
       "onboard_time": 1693181197,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321005,
+      "num": 321005,
+      "word": "Mate60真机",
+      "onboard_time": 1693195600,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 319092,
@@ -651,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297822,
-      "num": 297822,
-      "word": "苏有朋演唱会官宣",
-      "onboard_time": 1693195540,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 295932,
       "num": 295932,
       "word": "女警朝马路对面多看一眼救回一命",
@@ -699,8 +723,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283379,
+      "num": 283379,
+      "word": "被浙江农村的房子惊艳到了",
+      "onboard_time": 1693195783,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 283242,
+      "num": 283242,
+      "word": "姬发姜子牙 同样的装备",
+      "onboard_time": 1693196680,
+      "rank": 28,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 278807,
-      "num": 265810,
+      "num": 273331,
       "word": "恋人来来去去 朋友永远是朋友",
       "onboard_time": 1693192177,
       "rank": 44,
@@ -755,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250464,
+      "num": 250464,
+      "word": "日本海产品出口转攻东南亚市场",
+      "onboard_time": 1693196985,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245516,
       "num": 245516,
       "word": "金珉奎被问在家为什么带头盔",
@@ -779,20 +827,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236383,
+      "num": 236383,
+      "word": "张杰鸟巢收官哭了",
+      "onboard_time": 1693196079,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 234375,
       "num": 234375,
       "word": "脸蛋比心",
       "onboard_time": 1693152335,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 231307,
-      "num": 231307,
-      "word": "Mate60真机",
-      "onboard_time": 1693195600,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 229791,
@@ -851,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209903,
-      "num": 209903,
-      "word": "熊猫幼崽也要好好穿袜子",
-      "onboard_time": 1693196198,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208270,
       "num": 208270,
       "word": "证券交易印花税实施减半征收",
@@ -883,12 +923,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201835,
-      "num": 201835,
-      "word": "张杰鸟巢收官哭了",
-      "onboard_time": 1693196079,
-      "rank": 36,
-      "category": "音乐"
+      "raw_hot": 202346,
+      "num": 202346,
+      "word": "来广东治好了穿衣焦虑",
+      "onboard_time": 1693197103,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 200233,
+      "num": 200233,
+      "word": "恋与制作人",
+      "onboard_time": 1693197221,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 200138,
@@ -899,12 +947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197725,
+      "num": 198302,
+      "word": "2023年版标准地图上线",
+      "onboard_time": 1693196985,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197438,
       "num": 197438,
       "word": "开学",
       "onboard_time": 1693184075,
       "rank": 38,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 196551,
+      "num": 203225,
+      "word": "鞠婧祎品尝四川特色冰淇淋",
+      "onboard_time": 1693197164,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 196260,
@@ -971,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185993,
+      "num": 185993,
+      "word": "马嘉祺EP阵容",
+      "onboard_time": 1693193676,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184938,
       "num": 184938,
       "word": "杨超越主打一个不服输",
@@ -1011,28 +1083,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178699,
-      "num": 178699,
-      "word": "赛百味为何不受欢迎了",
-      "onboard_time": 1693196320,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177028,
       "num": 177028,
       "word": "杨宗纬 我想要听张杰",
       "onboard_time": 1693142496,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175118,
-      "num": 175118,
-      "word": "被浙江农村的房子惊艳到了",
-      "onboard_time": 1693195783,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 175055,
@@ -1188,7 +1244,7 @@
     },
     {
       "raw_hot": 111572,
-      "num": 198052,
+      "num": 207841,
       "word": "为何说828是中小企业及时雨",
       "onboard_time": 1693195240,
       "rank": 39,
