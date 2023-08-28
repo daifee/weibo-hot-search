@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693192639301,
+  "endTime": 1693193648035,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -19,6 +19,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1972735,
+      "num": 1972735,
+      "word": "胡歌说再拍李逍遥应该让吴磊演",
+      "onboard_time": 1693191396,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1716784,
       "num": 1716784,
       "word": "本周狗屎运最旺的星座",
@@ -27,12 +35,12 @@
       "category": "网红,情感"
     },
     {
-      "raw_hot": 1570487,
-      "num": 1570487,
-      "word": "胡歌说再拍李逍遥应该让吴磊演",
-      "onboard_time": 1693191396,
-      "rank": 1,
-      "category": "影视"
+      "raw_hot": 1490741,
+      "num": 1490741,
+      "word": "大英博物馆馆长辞职",
+      "onboard_time": 1693191037,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1300340,
@@ -59,14 +67,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1069444,
-      "num": 457127,
-      "word": "大英博物馆馆长辞职",
-      "onboard_time": 1693191037,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1059813,
       "num": 417921,
       "word": "张新成 杰哥牛逼",
@@ -81,6 +81,14 @@
       "onboard_time": 1693179389,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1031694,
+      "num": 1031694,
+      "word": "中国恒大负债2.38万亿",
+      "onboard_time": 1693191037,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 968700,
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 834743,
-      "num": 834743,
-      "word": "中国恒大负债2.38万亿",
-      "onboard_time": 1693191037,
-      "rank": 5,
-      "category": "财经"
+      "raw_hot": 826617,
+      "num": 826617,
+      "word": "东电承认超6成储存核污水放射物超标",
+      "onboard_time": 1693192177,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 805277,
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336502,
+      "num": 336502,
+      "word": "同人女仇恨墙",
+      "onboard_time": 1693192417,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 335973,
       "num": 290987,
       "word": "张婧仪抽烟镜头",
@@ -547,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301909,
+      "num": 301909,
+      "word": "天津大爷人均全红婵",
+      "onboard_time": 1693192898,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301494,
       "num": 301494,
       "word": "日本男篮爆冷击败芬兰",
@@ -611,19 +635,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283672,
+      "num": 238995,
+      "word": "才知道亚洲第一梯在西安",
+      "onboard_time": 1693192898,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 278807,
+      "num": 235412,
+      "word": "恋人来来去去 朋友永远是朋友",
+      "onboard_time": 1693192177,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276542,
       "num": 276542,
       "word": "21岁亚裔女孩为护母被继父刺107刀",
       "onboard_time": 1693144539,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272473,
-      "num": 272473,
-      "word": "东电承认超6成储存核污水放射物超标",
-      "onboard_time": 1693192177,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -641,6 +673,14 @@
       "onboard_time": 1693185098,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263580,
+      "num": 245161,
+      "word": "封神第一部进入影史票房榜TOP25",
+      "onboard_time": 1693189655,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 258308,
@@ -665,14 +705,6 @@
       "onboard_time": 1693187317,
       "rank": 25,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 245161,
-      "num": 245161,
-      "word": "封神第一部进入影史票房榜TOP25",
-      "onboard_time": 1693189655,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 244969,
@@ -723,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211909,
+      "num": 211909,
+      "word": "黄子弘凡回归索尼音乐",
+      "onboard_time": 1693193077,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211131,
       "num": 211131,
       "word": "西安警方辟谣网传砸日本车",
@@ -771,20 +811,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198076,
-      "num": 198076,
-      "word": "同人女仇恨墙",
-      "onboard_time": 1693192417,
-      "rank": 34,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 197438,
       "num": 197438,
       "word": "开学",
       "onboard_time": 1693184075,
       "rank": 38,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 196260,
+      "num": 196260,
+      "word": "无与伦比的美丽开播",
+      "onboard_time": 1693193136,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 195938,
@@ -808,6 +848,14 @@
       "word": "烧仓房是上位者的现实",
       "onboard_time": 1693183961,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190605,
+      "num": 190605,
+      "word": "花轿喜事今日开播",
+      "onboard_time": 1693193257,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -907,14 +955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163496,
-      "num": 163496,
-      "word": "恋人来来去去 朋友永远是朋友",
-      "onboard_time": 1693192177,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 161150,
       "num": 161150,
       "word": "亲戚对你的态度其实取决于父母",
@@ -969,6 +1009,14 @@
       "onboard_time": 1693145499,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131640,
+      "num": 250132,
+      "word": "可隆拍了拍你的焦虑",
+      "onboard_time": 1693191396,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 129805,
@@ -1035,20 +1083,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 95199,
+      "num": 1528605,
+      "word": "三个关键词带你看大美新疆",
+      "onboard_time": 1693190855,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91836,
       "num": 91836,
       "word": "万茜这个镜头看哭了多少妈妈",
       "onboard_time": 1693174997,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 85545,
-      "num": 222575,
-      "word": "可隆拍了拍你的焦虑",
-      "onboard_time": 1693191396,
-      "rank": 28,
-      "category": "旅游"
     },
     {
       "raw_hot": 75744,
@@ -1065,14 +1113,6 @@
       "onboard_time": 1693158558,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74545,
-      "num": 1109871,
-      "word": "三个关键词带你看大美新疆",
-      "onboard_time": 1693190855,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70837,
@@ -1140,6 +1180,9 @@
     },
     {
       "word": "#在中国式现代化进程中更好建设美丽新疆#"
+    },
+    {
+      "word": "#多渠道多形式讲好新时代新疆故事#"
     }
   ]
 }
