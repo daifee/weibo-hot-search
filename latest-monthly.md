@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/01 00:22:33 ~ 2023/08/29 06:33:42
+本榜单时间：2023/08/01 00:22:33 ~ 2023/08/29 07:16:28
 </p>
 </blockquote>
 <p>
@@ -1299,6 +1299,12 @@ rapper冶人为TangoZ发声（热度：2596799）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%BA%9F%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%BD%B1%E5%93%8D%E9%82%BB%E5%9B%BD%23" target="weibo">
+日本核废水排海已经开始影响邻国（热度：2593855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%E6%9F%93%E4%BA%86%E5%90%8C%E4%B8%80%E5%8F%91%E8%89%B2%23" target="weibo">
 TFBOYS染了同一发色（热度：2590802）
 </a>
@@ -1499,12 +1505,6 @@ Uzi无缘S13（热度：2427842）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%AF%86%E7%88%86%E7%82%B8%23" target="weibo">
 高密爆炸（热度：2412356）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%BA%9F%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%BD%B1%E5%93%8D%E9%82%BB%E5%9B%BD%23" target="weibo">
-日本核废水排海已经开始影响邻国（热度：2405489）
 </a>
 </li>
 

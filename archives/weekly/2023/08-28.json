@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693262022128,
+  "endTime": 1693264588994,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2593855,
+      "num": 2593855,
+      "word": "日本核废水排海已经开始影响邻国",
+      "onboard_time": 1693237474,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2461793,
       "num": 2276948,
       "word": "吴磊被骑友大哥要微信",
       "onboard_time": 1693228419,
       "rank": 24,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 2405489,
-      "num": 2405489,
-      "word": "日本核废水排海已经开始影响邻国",
-      "onboard_time": 1693237474,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2226366,
@@ -387,6 +387,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 837851,
+      "num": 837851,
+      "word": "2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸",
+      "onboard_time": 1693235380,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 831039,
       "num": 831039,
       "word": "吴磊骑车冷到五官都在用力",
@@ -603,6 +611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 634009,
+      "num": 634009,
+      "word": "男子收到儿子饭卡消费记录后泪奔",
+      "onboard_time": 1693236037,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 624749,
       "num": 411599,
       "word": "日本超市海鲜打折也没人买",
@@ -625,14 +641,6 @@
       "onboard_time": 1693233818,
       "rank": 20,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 609986,
-      "num": 609986,
-      "word": "2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸",
-      "onboard_time": 1693235380,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 603851,
@@ -745,6 +753,14 @@
       "onboard_time": 1693187494,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 531083,
+      "num": 308460,
+      "word": "胡歌 我对不起好多人",
+      "onboard_time": 1693264405,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 527309,
@@ -993,14 +1009,6 @@
       "onboard_time": 1693197103,
       "rank": 42,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 418759,
-      "num": 418759,
-      "word": "男子收到儿子饭卡消费记录后泪奔",
-      "onboard_time": 1693236037,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417066,
@@ -1443,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314964,
+      "num": 314964,
+      "word": "董宇辉说不要沉沦在逆境中",
+      "onboard_time": 1693245800,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314752,
       "num": 314752,
       "word": "于适卸妆像剥鹌鹑蛋",
@@ -1859,6 +1875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246529,
+      "num": 154847,
+      "word": "全班都是班干部的班级",
+      "onboard_time": 1693261758,
+      "rank": 45,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 245516,
       "num": 245516,
       "word": "金珉奎被问在家为什么带头盔",
@@ -2051,8 +2075,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220764,
-      "num": 220764,
+      "raw_hot": 221866,
+      "num": 221866,
       "word": "黎光李慕嘉分手后更好嗑了",
       "onboard_time": 1693239451,
       "rank": 40,
@@ -2113,6 +2137,14 @@
       "onboard_time": 1693225294,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 215328,
+      "num": 215328,
+      "word": "全性转版封神第一部",
+      "onboard_time": 1693264105,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 211131,
@@ -2675,14 +2707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161786,
-      "num": 141275,
-      "word": "董宇辉说不要沉沦在逆境中",
-      "onboard_time": 1693245800,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161566,
       "num": 161566,
       "word": "如何让儿子在学校社死",
@@ -2819,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144211,
+      "num": 125391,
+      "word": "妈妈翻出女儿离世前拼命学习视频",
+      "onboard_time": 1693264226,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 142547,
       "num": 142547,
       "word": "巡海员经常投喂的鲨鱼带来了惊喜",
@@ -2915,6 +2947,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 126784,
+      "num": 126784,
+      "word": "陈晓娜扎新剧断崖式分手",
+      "onboard_time": 1693260497,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125971,
       "num": 125971,
       "word": "陈晓娜扎的吻戏",
@@ -2979,6 +3019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 103766,
+      "num": 103766,
+      "word": "大鹏 手机存货解除封印",
+      "onboard_time": 1693255873,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 101745,
       "num": 1685971,
       "word": "三个关键词带你看大美新疆",
@@ -3003,6 +3051,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 95449,
+      "num": 95449,
+      "word": "这种狗我一般会目送200米",
+      "onboard_time": 1693250115,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92099,
       "num": 398545,
       "word": "管泽元被偷家了",
@@ -3019,6 +3075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90595,
+      "num": 90595,
+      "word": "张艺兴孤注一掷34亿海报",
+      "onboard_time": 1693247118,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89741,
       "num": 89741,
       "word": "10款椰子水测评",
@@ -3027,20 +3091,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 81704,
-      "num": 74202,
-      "word": "陈晓娜扎新剧断崖式分手",
-      "onboard_time": 1693260497,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 86668,
+      "num": 86668,
+      "word": "笔记本一直插着电源使用比较好",
+      "onboard_time": 1693264226,
+      "rank": 38,
+      "category": "科技"
     },
     {
-      "raw_hot": 81607,
-      "num": 81607,
-      "word": "大鹏 手机存货解除封印",
-      "onboard_time": 1693255873,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 76717,
+      "num": 76717,
+      "word": "七时吉祥捅了哈基米的窝了",
+      "onboard_time": 1693263744,
+      "rank": 40,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 75744,
@@ -3083,6 +3147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65645,
+      "num": 65645,
+      "word": "江苏浙江连发20条预警",
+      "onboard_time": 1693264163,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64912,
       "num": 137996,
       "word": "探寻烟火成都中的幸福感",
@@ -3097,6 +3169,22 @@
       "onboard_time": 1693210656,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63075,
+      "num": 63075,
+      "word": "FIFTY FIFTY与经纪公司的专属合约有效",
+      "onboard_time": 1693251134,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 60843,
+      "num": 661570,
+      "word": "我国网民规模已达10.79亿人",
+      "onboard_time": 1693233818,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60512,
@@ -3123,28 +3211,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 47197,
+      "num": 59899,
+      "word": "我国网民规模达10.79亿人",
+      "onboard_time": 1693250895,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 45371,
       "num": 1885440,
       "word": "多姿多彩多元多样是世界应有的样子",
       "onboard_time": 1693190735,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42321,
-      "num": 44124,
-      "word": "这种狗我一般会目送200米",
-      "onboard_time": 1693250115,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 42165,
-      "num": 44206,
-      "word": "张艺兴孤注一掷34亿海报",
-      "onboard_time": 1693247118,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 39175,
@@ -3163,44 +3243,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 36548,
-      "num": 43265,
-      "word": "FIFTY FIFTY与经纪公司的专属合约有效",
-      "onboard_time": 1693251134,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34911,
       "num": 43531,
       "word": "刘德华 做朋友是不需要理由的",
       "onboard_time": 1693248916,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30806,
-      "num": 31256,
-      "word": "全班都是班干部的班级",
-      "onboard_time": 1693261758,
-      "rank": 45,
-      "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 29533,
-      "num": 282874,
-      "word": "我国网民规模已达10.79亿人",
-      "onboard_time": 1693233818,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25505,
-      "num": 43162,
-      "word": "我国网民规模达10.79亿人",
-      "onboard_time": 1693250895,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 24771,

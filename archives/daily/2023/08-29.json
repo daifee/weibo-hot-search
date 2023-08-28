@@ -1,10 +1,10 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693262022128,
+  "endTime": 1693264588994,
   "band_list": [
     {
-      "raw_hot": 2405489,
-      "num": 2405489,
+      "raw_hot": 2593855,
+      "num": 2593855,
       "word": "日本核废水排海已经开始影响邻国",
       "onboard_time": 1693237474,
       "rank": 0,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 837851,
+      "num": 837851,
+      "word": "2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸",
+      "onboard_time": 1693235380,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 821762,
       "num": 821762,
       "word": "大量日本骚扰电话打进我驻日使领馆",
@@ -43,11 +51,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 609986,
-      "num": 609986,
-      "word": "2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸",
-      "onboard_time": 1693235380,
-      "rank": 5,
+      "raw_hot": 634009,
+      "num": 634009,
+      "word": "男子收到儿子饭卡消费记录后泪奔",
+      "onboard_time": 1693236037,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -67,6 +75,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 531083,
+      "num": 308460,
+      "word": "胡歌 我对不起好多人",
+      "onboard_time": 1693264405,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460681,
       "num": 460681,
       "word": "你什么档次跟国宝一个飞机",
@@ -83,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418759,
-      "num": 418759,
-      "word": "男子收到儿子饭卡消费记录后泪奔",
-      "onboard_time": 1693236037,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 417353,
+      "num": 417353,
+      "word": "赵本山的新剧很讽刺",
+      "onboard_time": 1693235438,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 408381,
@@ -105,14 +121,6 @@
       "onboard_time": 1693234239,
       "rank": 12,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 374297,
-      "num": 374297,
-      "word": "赵本山的新剧很讽刺",
-      "onboard_time": 1693235438,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 363962,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314964,
+      "num": 314964,
+      "word": "董宇辉说不要沉沦在逆境中",
+      "onboard_time": 1693245800,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308244,
       "num": 219775,
       "word": "任敏接发了",
@@ -185,6 +201,14 @@
       "onboard_time": 1693236695,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246529,
+      "num": 154847,
+      "word": "全班都是班干部的班级",
+      "onboard_time": 1693261758,
+      "rank": 45,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 237694,
@@ -219,8 +243,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220764,
-      "num": 220764,
+      "raw_hot": 221866,
+      "num": 221866,
       "word": "黎光李慕嘉分手后更好嗑了",
       "onboard_time": 1693239451,
       "rank": 40,
@@ -235,12 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215328,
+      "num": 215328,
+      "word": "全性转版封神第一部",
+      "onboard_time": 1693264105,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211377,
       "num": 211377,
       "word": "男孩带录取通知书与服刑父亲见面",
       "onboard_time": 1693233400,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 206957,
+      "num": 206957,
+      "word": "董明珠怒斥员工吃着碗里看着锅里",
+      "onboard_time": 1693207234,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206355,
@@ -265,14 +305,6 @@
       "onboard_time": 1693215577,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187832,
-      "num": 187832,
-      "word": "董明珠怒斥员工吃着碗里看着锅里",
-      "onboard_time": 1693207234,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185682,
@@ -331,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161786,
-      "num": 141275,
-      "word": "董宇辉说不要沉沦在逆境中",
-      "onboard_time": 1693245800,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155654,
       "num": 155654,
       "word": "贵州省委原书记孙志刚被查",
@@ -363,6 +387,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 144211,
+      "num": 125391,
+      "word": "妈妈翻出女儿离世前拼命学习视频",
+      "onboard_time": 1693264226,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 142944,
       "num": 142552,
       "word": "冯小刚夸虞书欣台词特别好",
@@ -377,6 +409,14 @@
       "onboard_time": 1693227999,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140383,
+      "num": 140383,
+      "word": "有没有人能管管现在的电视啊",
+      "onboard_time": 1693228117,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 138078,
@@ -395,11 +435,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126784,
+      "num": 126784,
+      "word": "陈晓娜扎新剧断崖式分手",
+      "onboard_time": 1693260497,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 104626,
       "num": 63121,
       "word": "杨超越采纳了网友的意见",
       "onboard_time": 1693243881,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 103766,
+      "num": 103766,
+      "word": "大鹏 手机存货解除封印",
+      "onboard_time": 1693255873,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -419,6 +475,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95449,
+      "num": 95449,
+      "word": "这种狗我一般会目送200米",
+      "onboard_time": 1693250115,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 90595,
+      "num": 90595,
+      "word": "张艺兴孤注一掷34亿海报",
+      "onboard_time": 1693247118,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89741,
       "num": 89741,
       "word": "10款椰子水测评",
@@ -427,20 +499,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 81704,
-      "num": 74202,
-      "word": "陈晓娜扎新剧断崖式分手",
-      "onboard_time": 1693260497,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 81607,
-      "num": 81607,
-      "word": "大鹏 手机存货解除封印",
-      "onboard_time": 1693255873,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 86668,
+      "num": 86668,
+      "word": "笔记本一直插着电源使用比较好",
+      "onboard_time": 1693264226,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 80280,
@@ -451,12 +515,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 70115,
-      "num": 70115,
-      "word": "有没有人能管管现在的电视啊",
-      "onboard_time": 1693228117,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 76717,
+      "num": 76717,
+      "word": "七时吉祥捅了哈基米的窝了",
+      "onboard_time": 1693263744,
+      "rank": 40,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 69211,
@@ -464,6 +528,14 @@
       "word": "韩国渔民心灰意冷",
       "onboard_time": 1693242863,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65645,
+      "num": 65645,
+      "word": "江苏浙江连发20条预警",
+      "onboard_time": 1693264163,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -475,12 +547,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 63075,
+      "num": 63075,
+      "word": "FIFTY FIFTY与经纪公司的专属合约有效",
+      "onboard_time": 1693251134,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62190,
       "num": 62190,
       "word": "李念欢丈夫孕期出轨",
       "onboard_time": 1693232496,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 60843,
+      "num": 661570,
+      "word": "我国网民规模已达10.79亿人",
+      "onboard_time": 1693233818,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51634,
@@ -491,20 +579,12 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 42321,
-      "num": 44124,
-      "word": "这种狗我一般会目送200米",
-      "onboard_time": 1693250115,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 42165,
-      "num": 44206,
-      "word": "张艺兴孤注一掷34亿海报",
-      "onboard_time": 1693247118,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 47197,
+      "num": 59899,
+      "word": "我国网民规模达10.79亿人",
+      "onboard_time": 1693250895,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 39175,
@@ -523,44 +603,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 36548,
-      "num": 43265,
-      "word": "FIFTY FIFTY与经纪公司的专属合约有效",
-      "onboard_time": 1693251134,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34911,
       "num": 43531,
       "word": "刘德华 做朋友是不需要理由的",
       "onboard_time": 1693248916,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30806,
-      "num": 31256,
-      "word": "全班都是班干部的班级",
-      "onboard_time": 1693261758,
-      "rank": 45,
-      "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 29533,
-      "num": 282874,
-      "word": "我国网民规模已达10.79亿人",
-      "onboard_time": 1693233818,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25505,
-      "num": 43162,
-      "word": "我国网民规模达10.79亿人",
-      "onboard_time": 1693250895,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 24771,
