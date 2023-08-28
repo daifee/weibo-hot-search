@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693200845226,
+  "endTime": 1693203711788,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -35,19 +35,19 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 1697148,
+      "num": 1697148,
+      "word": "东电承认超6成储存核污水放射物超标",
+      "onboard_time": 1693192177,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1672535,
       "num": 1672535,
       "word": "大英博物馆馆长辞职",
       "onboard_time": 1693191037,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1557059,
-      "num": 1557059,
-      "word": "东电承认超6成储存核污水放射物超标",
-      "onboard_time": 1693192177,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -171,11 +171,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794822,
+      "num": 794822,
+      "word": "燃冬导演说自己受到的打击很大",
+      "onboard_time": 1693201654,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 773361,
       "num": 478571,
       "word": "日本海产品出口转攻东南亚市场",
       "onboard_time": 1693196985,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772511,
+      "num": 210023,
+      "word": "女子网购蒟蒻果冻吃出整只虫",
+      "onboard_time": 1693201296,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -377,6 +393,14 @@
       "onboard_time": 1693197881,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 476823,
+      "num": 359426,
+      "word": "徐良助力区排名怎么变20了",
+      "onboard_time": 1693201057,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 476440,
@@ -603,6 +627,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 359013,
+      "num": 209699,
+      "word": "周峻纬工作室营业了",
+      "onboard_time": 1693202736,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 357906,
+      "num": 357906,
+      "word": "谢娜带曾可妮看张杰演唱会",
+      "onboard_time": 1693202134,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 354059,
       "num": 354059,
       "word": "AG蝉联世锦赛冠军",
@@ -641,6 +681,14 @@
       "onboard_time": 1693196198,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338050,
+      "num": 338050,
+      "word": "油酥饼已经工业化生产了",
+      "onboard_time": 1693199437,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 335973,
@@ -713,6 +761,14 @@
       "onboard_time": 1693147299,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306221,
+      "num": 195856,
+      "word": "郭碧婷越来越像向太了",
+      "onboard_time": 1693203516,
+      "rank": 30,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 302206,
@@ -851,14 +907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 262751,
-      "num": 210742,
-      "word": "油酥饼已经工业化生产了",
-      "onboard_time": 1693199437,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 258308,
       "num": 258308,
       "word": "女子长期侧躺玩手机致右眼短暂失明",
@@ -875,7 +923,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248702,
+      "raw_hot": 251919,
       "num": 248702,
       "word": "我李玉湖就要来了",
       "onboard_time": 1693200096,
@@ -897,6 +945,14 @@
       "onboard_time": 1693181916,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243576,
+      "num": 195122,
+      "word": "赛百味700亿成功卖身",
+      "onboard_time": 1693203156,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 241167,
@@ -945,6 +1001,14 @@
       "onboard_time": 1693193077,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228434,
+      "num": 199686,
+      "word": "九岁摄影师拍的欧阳娜娜",
+      "onboard_time": 1693201775,
+      "rank": 27,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 225715,
@@ -1001,6 +1065,14 @@
       "onboard_time": 1693186059,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210665,
+      "num": 210665,
+      "word": "工作室这么会剪成毅知道吗",
+      "onboard_time": 1693202975,
+      "rank": 19,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 208270,
@@ -1067,6 +1139,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 196751,
+      "num": 196751,
+      "word": "明日方舟 中国国家地理",
+      "onboard_time": 1693200576,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196551,
       "num": 203225,
       "word": "鞠婧祎品尝四川特色冰淇淋",
@@ -1121,14 +1201,6 @@
       "onboard_time": 1693183961,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192385,
-      "num": 192385,
-      "word": "明日方舟 中国国家地理",
-      "onboard_time": 1693200576,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 190605,
@@ -1251,12 +1323,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161246,
+      "num": 161246,
+      "word": "大疯批派传承人画封神",
+      "onboard_time": 1693201717,
+      "rank": 35,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 161156,
+      "num": 161156,
+      "word": "68元甜品自助",
+      "onboard_time": 1693203216,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161150,
       "num": 161150,
       "word": "亲戚对你的态度其实取决于父母",
       "onboard_time": 1693158021,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159925,
+      "num": 159925,
+      "word": "如何让儿子在学校社死",
+      "onboard_time": 1693200936,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 153530,
@@ -1305,6 +1401,14 @@
       "onboard_time": 1693126232,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145672,
+      "num": 145672,
+      "word": "长相思泰语版预告",
+      "onboard_time": 1693202014,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 144858,
@@ -1377,6 +1481,14 @@
       "onboard_time": 1693133851,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111880,
+      "num": 111880,
+      "word": "日本核污染水排海最新情况",
+      "onboard_time": 1693203695,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111572,
