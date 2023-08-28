@@ -1,10 +1,10 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693239661927,
+  "endTime": 1693240620077,
   "band_list": [
     {
-      "raw_hot": 1505624,
-      "num": 1505624,
+      "raw_hot": 2405489,
+      "num": 2405489,
       "word": "日本核废水排海已经开始影响邻国",
       "onboard_time": 1693237474,
       "rank": 0,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571530,
+      "num": 237461,
+      "word": "孔雪儿网红感",
+      "onboard_time": 1693237774,
+      "rank": 20,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 559902,
       "num": 559902,
       "word": "刘亦菲 高定",
       "onboard_time": 1693224997,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 506493,
-      "num": 237461,
-      "word": "孔雪儿网红感",
-      "onboard_time": 1693237774,
-      "rank": 20,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 460681,
@@ -164,11 +164,19 @@
     },
     {
       "raw_hot": 308244,
-      "num": 212156,
+      "num": 219775,
       "word": "任敏接发了",
       "onboard_time": 1693233818,
       "rank": 23,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 269690,
+      "num": 269690,
+      "word": "马嘉祺说会给大家创造更多见面的机会",
+      "onboard_time": 1693239572,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 265099,
@@ -187,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230676,
+      "num": 220074,
+      "word": "王鹤棣直播",
+      "onboard_time": 1693238255,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229002,
       "num": 209999,
       "word": "打九价送seventeen小卡",
@@ -196,11 +212,27 @@
     },
     {
       "raw_hot": 224071,
-      "num": 209789,
+      "num": 217790,
       "word": "房东的猫把云烟穿身上了",
       "onboard_time": 1693229498,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220764,
+      "num": 220764,
+      "word": "黎光李慕嘉分手后更好嗑了",
+      "onboard_time": 1693239451,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220033,
+      "num": 220033,
+      "word": "女童走丢淡定指挥警察送其回家",
+      "onboard_time": 1693238133,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211377,
@@ -209,14 +241,6 @@
       "onboard_time": 1693233400,
       "rank": 24,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 208290,
-      "num": 208290,
-      "word": "王鹤棣直播",
-      "onboard_time": 1693238255,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 206355,
@@ -243,20 +267,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187832,
+      "num": 187832,
+      "word": "董明珠怒斥员工吃着碗里看着锅里",
+      "onboard_time": 1693207234,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185682,
       "num": 185682,
       "word": "谢娜找杨迪要通告费",
       "onboard_time": 1693236157,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181900,
-      "num": 181900,
-      "word": "董明珠怒斥员工吃着碗里看着锅里",
-      "onboard_time": 1693207234,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180548,
@@ -307,22 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167475,
-      "num": 154671,
-      "word": "黎光李慕嘉分手后更好嗑了",
-      "onboard_time": 1693239451,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 163030,
-      "num": 154093,
-      "word": "马嘉祺说会给大家创造更多见面的机会",
-      "onboard_time": 1693239572,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155654,
       "num": 155654,
       "word": "贵州省委原书记孙志刚被查",
@@ -339,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151036,
-      "num": 151036,
-      "word": "女童走丢淡定指挥警察送其回家",
-      "onboard_time": 1693238133,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146510,
       "num": 146510,
       "word": "郭碧婷越来越像向太了",
@@ -355,7 +355,7 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 142552,
+      "raw_hot": 142944,
       "num": 142552,
       "word": "冯小刚夸虞书欣台词特别好",
       "onboard_time": 1693225596,
@@ -377,6 +377,14 @@
       "onboard_time": 1693216059,
       "rank": 46,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 135543,
+      "num": 126354,
+      "word": "白敬亭要不还是腼腆点吧",
+      "onboard_time": 1693240408,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 96586,
@@ -401,6 +409,14 @@
       "onboard_time": 1693239152,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 53928,
+      "num": 104311,
+      "word": "黑执事动画中最帅的执事",
+      "onboard_time": 1693240350,
+      "rank": 49,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [
