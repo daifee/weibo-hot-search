@@ -1,0 +1,410 @@
+{
+  "runTime": 1693208035080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1297302,
+        "num": 1297302,
+        "word": "燃冬导演说自己受到的打击很大",
+        "onboard_time": 1693201654,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1030595,
+        "num": 1030595,
+        "word": "男子大三挂科退学10年后再次考上大学",
+        "onboard_time": 1693205256,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 45371,
+        "num": 919245,
+        "word": "多姿多彩多元多样是世界应有的样子",
+        "onboard_time": 1693190735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1433520,
+        "num": 912383,
+        "word": "东电承认超6成储存核污水放射物超标",
+        "onboard_time": 1693192177,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887593,
+        "num": 887593,
+        "word": "李佳琦与母亲接连成立新公司",
+        "onboard_time": 1693205676,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 862178,
+        "num": 862178,
+        "word": "赛百味700亿成功卖身",
+        "onboard_time": 1693203156,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 675027,
+        "num": 675027,
+        "word": "A股",
+        "onboard_time": 1693180531,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 528616,
+        "num": 528616,
+        "word": "虹猫 一位大侠最极致的爱",
+        "onboard_time": 1693198540,
+        "rank": 7,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 488507,
+        "num": 488507,
+        "word": "请大英博物馆无偿归还中国文物",
+        "onboard_time": 1693179993,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 415120,
+        "num": 415120,
+        "word": "谢娜没和张杰合照是不是得洗碗",
+        "onboard_time": 1693198062,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2161006,
+        "num": 404068,
+        "word": "郭碧婷越来越像向太了",
+        "onboard_time": 1693203516,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 599755,
+        "num": 403803,
+        "word": "董明珠怒斥员工吃着碗里看着锅里",
+        "onboard_time": 1693207234,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556877,
+        "num": 401886,
+        "word": "金宇彬飞往釜山吊唁去世粉丝",
+        "onboard_time": 1693205256,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384292,
+        "num": 384292,
+        "word": "夭玹比肩",
+        "onboard_time": 1693205973,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360084,
+        "num": 360084,
+        "word": "68元甜品自助",
+        "onboard_time": 1693203216,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 356887,
+        "num": 356887,
+        "word": "徐良助力区排名怎么变20了",
+        "onboard_time": 1693201057,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335016,
+        "num": 335016,
+        "word": "魏大勋开始形象管理了",
+        "onboard_time": 1693206276,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312508,
+        "num": 312508,
+        "word": "中国恒大负债2.38万亿",
+        "onboard_time": 1693191037,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 294083,
+        "num": 294083,
+        "word": "日本海产品出口转攻东南亚市场",
+        "onboard_time": 1693196985,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288886,
+        "num": 288886,
+        "word": "魏大勋白敬亭喝了同一碗奶茶",
+        "onboard_time": 1693206635,
+        "rank": 19,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 550537,
+        "num": 283048,
+        "word": "原来捧杀才是最好的必杀技",
+        "onboard_time": 1693204594,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341337,
+        "num": 278630,
+        "word": "日本核污染水排海最新情况",
+        "onboard_time": 1693203695,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300061,
+        "num": 276862,
+        "word": "女子网购蒟蒻果冻吃出整只虫",
+        "onboard_time": 1693201296,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273464,
+        "num": 273464,
+        "word": "林志颖推荐林俊杰来下一季披哥",
+        "onboard_time": 1693197344,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266047,
+        "num": 266047,
+        "word": "果然只有亲亲才能化解尴尬",
+        "onboard_time": 1693207355,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261491,
+        "num": 261491,
+        "word": "产妇羊水栓塞输血超6万毫升被救",
+        "onboard_time": 1693190015,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252657,
+        "num": 252657,
+        "word": "时代少年团东方风云榜彩排视频",
+        "onboard_time": 1693205256,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235427,
+        "num": 235427,
+        "word": "在境外做电诈的人真的都是被骗过去的吗",
+        "onboard_time": 1693206877,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235128,
+        "num": 235128,
+        "word": "工作室这么会剪成毅知道吗",
+        "onboard_time": 1693202975,
+        "rank": 28,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 205255,
+        "num": 205255,
+        "word": "来广东治好了穿衣焦虑",
+        "onboard_time": 1693197103,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 200956,
+        "num": 200956,
+        "word": "韩国中生代女明星的过去和现在",
+        "onboard_time": 1693207176,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190336,
+        "num": 190336,
+        "word": "孤注一掷延长上映",
+        "onboard_time": 1693203995,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185779,
+        "num": 185779,
+        "word": "被浙江农村的房子惊艳到了",
+        "onboard_time": 1693195783,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182965,
+        "num": 182965,
+        "word": "胡歌说再拍李逍遥应该让吴磊演",
+        "onboard_time": 1693191396,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180199,
+        "num": 180199,
+        "word": "东电要求采访记者不能自由录音录像",
+        "onboard_time": 1693204656,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174280,
+        "num": 174280,
+        "word": "大英博物馆馆长辞职",
+        "onboard_time": 1693191037,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168925,
+        "num": 168925,
+        "word": "谢娜带曾可妮看张杰演唱会",
+        "onboard_time": 1693202134,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167210,
+        "num": 167210,
+        "word": "燃冬",
+        "onboard_time": 1693205676,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158540,
+        "num": 158540,
+        "word": "你妈只是去上厕所了",
+        "onboard_time": 1693187978,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147826,
+        "num": 147826,
+        "word": "九岁摄影师拍的欧阳娜娜",
+        "onboard_time": 1693201775,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 132306,
+        "num": 132306,
+        "word": "香川照之回应性骚扰事件",
+        "onboard_time": 1693207475,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130759,
+        "num": 130759,
+        "word": "我李玉湖就要来了",
+        "onboard_time": 1693200096,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115000,
+        "num": 115000,
+        "word": "没想到鸭鸭也军训",
+        "onboard_time": 1693206815,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111831,
+        "num": 111831,
+        "word": "张晚意原生家庭幸福的不演",
+        "onboard_time": 1693191037,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111238,
+        "num": 111238,
+        "word": "男生考上浙大爸爸扛行李直奔6楼",
+        "onboard_time": 1693186957,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 110127,
+        "num": 110127,
+        "word": "封神",
+        "onboard_time": 1693204177,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110022,
+        "num": 110022,
+        "word": "十个勤天来了",
+        "onboard_time": 1693197820,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108873,
+        "num": 108873,
+        "word": "油酥饼已经工业化生产了",
+        "onboard_time": 1693199437,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108400,
+        "num": 108400,
+        "word": "近一百年流行过的发型",
+        "onboard_time": 1693205436,
+        "rank": 48,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 105215,
+        "num": 105215,
+        "word": "好硬核的劝防晒方法",
+        "onboard_time": 1693205795,
+        "rank": 49,
+        "category": "美妆,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#多渠道多形式讲好新时代新疆故事#"
+    }
+  }
+}
