@@ -1,0 +1,410 @@
+{
+  "runTime": 1693217928649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2996597,
+        "num": 2996597,
+        "word": "日本已排放超1000吨核污染水",
+        "onboard_time": 1693213118,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168860,
+        "num": 2132974,
+        "word": "一人一句祝福美香添添小奇迹",
+        "onboard_time": 1693216238,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8609,
+        "num": 1825952,
+        "word": "多姿多彩多元多样是世界应有的样子",
+        "onboard_time": 1693190735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1742130,
+        "num": 1742130,
+        "word": "老板要求转账198万会计立即报警",
+        "onboard_time": 1693209758,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125457,
+        "num": 1507533,
+        "word": "海南警方高奢普法广告又来了",
+        "onboard_time": 1693216300,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1438362,
+        "num": 1438362,
+        "word": "女子半月被缅北男友骗光850万",
+        "onboard_time": 1693215996,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105301,
+        "num": 1254794,
+        "word": "00后姑娘从北京骑摩托来浙江上学",
+        "onboard_time": 1693217317,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1235172,
+        "num": 1235172,
+        "word": "王鹤棣田曦薇搂腰吻戏",
+        "onboard_time": 1693215577,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 925589,
+        "num": 925589,
+        "word": "八九月份想辞职的情绪很严重",
+        "onboard_time": 1693211438,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 902787,
+        "num": 902787,
+        "word": "董明珠回应不招只想要工资的",
+        "onboard_time": 1693214738,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892062,
+        "num": 892062,
+        "word": "中国男篮vs南苏丹男篮",
+        "onboard_time": 1693209577,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 830075,
+        "num": 830075,
+        "word": "中国男篮两连败",
+        "onboard_time": 1693217258,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 715811,
+        "num": 715811,
+        "word": "郭碧婷越来越像向太了",
+        "onboard_time": 1693203516,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 683774,
+        "num": 683774,
+        "word": "日本福岛附近海域4.8级地震",
+        "onboard_time": 1693216898,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62257,
+        "num": 630755,
+        "word": "学长在一声声惊叹中迷失自我",
+        "onboard_time": 1693216837,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592409,
+        "num": 592409,
+        "word": "ins全球影响力TOP100",
+        "onboard_time": 1693216059,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 577853,
+        "num": 577853,
+        "word": "董明珠怒斥员工吃着碗里看着锅里",
+        "onboard_time": 1693207234,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525101,
+        "num": 525101,
+        "word": "杨洋韩立生图",
+        "onboard_time": 1693214017,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476565,
+        "num": 476565,
+        "word": "谁给胡兵投的票",
+        "onboard_time": 1693214317,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439944,
+        "num": 439944,
+        "word": "周深红毯上修伞",
+        "onboard_time": 1693214918,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 874155,
+        "num": 430721,
+        "word": "考研暂停 爱笔去世",
+        "onboard_time": 1693211195,
+        "rank": 20,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 408749,
+        "num": 408749,
+        "word": "周琦罚球三不沾",
+        "onboard_time": 1693212942,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381860,
+        "num": 381860,
+        "word": "家里有这种拖把的要小心了",
+        "onboard_time": 1693216300,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 350425,
+        "num": 350425,
+        "word": "王哲林",
+        "onboard_time": 1693215695,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323442,
+        "num": 323442,
+        "word": "裁判",
+        "onboard_time": 1693215095,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317115,
+        "num": 317115,
+        "word": "中方敦促美方停止打压中国留学生",
+        "onboard_time": 1693211016,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 316202,
+        "num": 316202,
+        "word": "屈楚萧说燃冬三个人之间关系是友情",
+        "onboard_time": 1693216059,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278015,
+        "num": 278015,
+        "word": "封神妲己出场找簪子的原因",
+        "onboard_time": 1693214499,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264661,
+        "num": 264661,
+        "word": "雪貂睡太死被误以为去世",
+        "onboard_time": 1693212701,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255391,
+        "num": 255391,
+        "word": "张杰 我要唱得再久一点",
+        "onboard_time": 1693211858,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237511,
+        "num": 237511,
+        "word": "屈楚萧回应网友喊张万森下雪了",
+        "onboard_time": 1693216059,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235634,
+        "num": 235634,
+        "word": "男子在缅逃跑身后步枪扫射",
+        "onboard_time": 1693209577,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224711,
+        "num": 224711,
+        "word": "燃冬导演说自己受到的打击很大",
+        "onboard_time": 1693201654,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217727,
+        "num": 217727,
+        "word": "学长背起了三室一厅",
+        "onboard_time": 1693217138,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217102,
+        "num": 217102,
+        "word": "武汉三镇投资人将停止注资",
+        "onboard_time": 1693215817,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208852,
+        "num": 208852,
+        "word": "金宇彬飞往釜山吊唁去世粉丝",
+        "onboard_time": 1693205256,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204773,
+        "num": 204773,
+        "word": "A股",
+        "onboard_time": 1693180531,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204089,
+        "num": 204089,
+        "word": "范丞丞有点过于显眼了",
+        "onboard_time": 1693216898,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203881,
+        "num": 203881,
+        "word": "莲花楼渔村养老",
+        "onboard_time": 1693213538,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200666,
+        "num": 200666,
+        "word": "大量日本骚扰电话打进我驻日使领馆",
+        "onboard_time": 1693217617,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193893,
+        "num": 193893,
+        "word": "花轿喜事",
+        "onboard_time": 1693217678,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193774,
+        "num": 193774,
+        "word": "东方风云榜节目单",
+        "onboard_time": 1693211496,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191593,
+        "num": 191593,
+        "word": "黄景瑜在超话清库存",
+        "onboard_time": 1693214017,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189947,
+        "num": 189947,
+        "word": "李凯尔终于进球了",
+        "onboard_time": 1693214858,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182110,
+        "num": 182110,
+        "word": "日本核污染水排海最新情况",
+        "onboard_time": 1693203695,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174460,
+        "num": 174460,
+        "word": "东方风云榜红毯",
+        "onboard_time": 1693210656,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174155,
+        "num": 174155,
+        "word": "自制蜜桃冻",
+        "onboard_time": 1693217736,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173776,
+        "num": 173776,
+        "word": "虹猫 一位大侠最极致的爱",
+        "onboard_time": 1693198540,
+        "rank": 47,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 170226,
+        "num": 170226,
+        "word": "男子大三挂科退学10年后再次考上大学",
+        "onboard_time": 1693205256,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 168609,
+        "num": 168609,
+        "word": "长春电影节",
+        "onboard_time": 1693217858,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#多渠道多形式讲好新时代新疆故事#"
+    }
+  }
+}

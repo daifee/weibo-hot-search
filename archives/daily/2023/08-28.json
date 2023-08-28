@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693215248540,
+  "endTime": 1693217928649,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -9,6 +9,14 @@
       "onboard_time": 1693179993,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2996597,
+      "num": 2996597,
+      "word": "日本已排放超1000吨核污染水",
+      "onboard_time": 1693213118,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2939723,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 2226366,
-      "num": 509186,
+      "num": 715811,
       "word": "郭碧婷越来越像向太了",
       "onboard_time": 1693203516,
       "rank": 30,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2217062,
-      "num": 301565,
+      "num": 430721,
       "word": "考研暂停 爱笔去世",
       "onboard_time": 1693211195,
       "rank": 30,
@@ -83,20 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1578674,
-      "num": 1578674,
-      "word": "日本已排放超1000吨核污染水",
-      "onboard_time": 1693213118,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1440243,
       "num": 1440243,
       "word": "八九月份想辞职的情绪很严重",
       "onboard_time": 1693211438,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1438362,
+      "num": 1438362,
+      "word": "女子半月被缅北男友骗光850万",
+      "onboard_time": 1693215996,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1436667,
@@ -129,6 +137,14 @@
       "onboard_time": 1693180955,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1235172,
+      "num": 1235172,
+      "word": "王鹤棣田曦薇搂腰吻戏",
+      "onboard_time": 1693215577,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1162747,
@@ -211,6 +227,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 902787,
+      "num": 902787,
+      "word": "董明珠回应不招只想要工资的",
+      "onboard_time": 1693214738,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 892062,
+      "num": 892062,
+      "word": "中国男篮vs南苏丹男篮",
+      "onboard_time": 1693209577,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 887593,
       "num": 887593,
       "word": "李佳琦与母亲接连成立新公司",
@@ -249,6 +281,14 @@
       "onboard_time": 1693198540,
       "rank": 12,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 830075,
+      "num": 830075,
+      "word": "中国男篮两连败",
+      "onboard_time": 1693217258,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 805277,
@@ -347,6 +387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 683774,
+      "num": 683774,
+      "word": "日本福岛附近海域4.8级地震",
+      "onboard_time": 1693216898,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 673682,
       "num": 673682,
       "word": "日本核污染水排海最新情况",
@@ -419,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 593380,
-      "num": 593380,
-      "word": "中国男篮vs南苏丹男篮",
-      "onboard_time": 1693209577,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 592409,
+      "num": 592409,
+      "word": "ins全球影响力TOP100",
+      "onboard_time": 1693216059,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 575384,
@@ -555,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476565,
+      "num": 476565,
+      "word": "谁给胡兵投的票",
+      "onboard_time": 1693214317,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476440,
       "num": 318883,
       "word": "才知道亚洲第一梯在西安",
@@ -617,6 +673,14 @@
       "onboard_time": 1693178967,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439944,
+      "num": 439944,
+      "word": "周深红毯上修伞",
+      "onboard_time": 1693214918,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 439327,
@@ -739,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386143,
-      "num": 386143,
-      "word": "谁给胡兵投的票",
-      "onboard_time": 1693214317,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 385867,
       "num": 326175,
       "word": "杭州12岁女孩1米72脊柱歪到要手术",
@@ -761,6 +817,14 @@
       "onboard_time": 1693205973,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 381860,
+      "num": 381860,
+      "word": "家里有这种拖把的要小心了",
+      "onboard_time": 1693216300,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 379818,
@@ -859,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 350425,
+      "num": 350425,
+      "word": "王哲林",
+      "onboard_time": 1693215695,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349938,
       "num": 339721,
       "word": "当我爸知道我穿的裤子只要69",
@@ -892,7 +964,7 @@
     },
     {
       "raw_hot": 343140,
-      "num": 205781,
+      "num": 264661,
       "word": "雪貂睡太死被误以为去世",
       "onboard_time": 1693212701,
       "rank": 30,
@@ -955,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323442,
+      "num": 323442,
+      "word": "裁判",
+      "onboard_time": 1693215095,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319092,
       "num": 319092,
       "word": "戴向宇家务乱做",
@@ -977,6 +1057,14 @@
       "onboard_time": 1693181075,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316202,
+      "num": 316202,
+      "word": "屈楚萧说燃冬三个人之间关系是友情",
+      "onboard_time": 1693216059,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 314472,
@@ -1056,14 +1144,6 @@
       "word": "婚前冲动买房杭州姑娘肠子悔青",
       "onboard_time": 1693124919,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297459,
-      "num": 297459,
-      "word": "董明珠回应不招只想要工资的",
-      "onboard_time": 1693214738,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1163,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278015,
+      "num": 278015,
+      "word": "封神妲己出场找簪子的原因",
+      "onboard_time": 1693214499,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276542,
       "num": 276542,
       "word": "21岁亚裔女孩为护母被继父刺107刀",
@@ -1185,14 +1273,6 @@
       "onboard_time": 1693190735,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 270295,
-      "num": 199759,
-      "word": "封神妲己出场找簪子的原因",
-      "onboard_time": 1693214499,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 266047,
@@ -1281,6 +1361,14 @@
       "onboard_time": 1693147362,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237511,
+      "num": 237511,
+      "word": "屈楚萧回应网友喊张万森下雪了",
+      "onboard_time": 1693216059,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 237246,
@@ -1387,20 +1475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217727,
+      "num": 217727,
+      "word": "学长背起了三室一厅",
+      "onboard_time": 1693217138,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 217102,
+      "num": 217102,
+      "word": "武汉三镇投资人将停止注资",
+      "onboard_time": 1693215817,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211131,
       "num": 211131,
       "word": "西安警方辟谣网传砸日本车",
       "onboard_time": 1693181495,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210876,
-      "num": 210876,
-      "word": "周深红毯上修伞",
-      "onboard_time": 1693214918,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 210674,
@@ -1443,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204089,
+      "num": 204089,
+      "word": "范丞丞有点过于显眼了",
+      "onboard_time": 1693216898,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203265,
       "num": 203265,
       "word": "何超琼去看了五月天演唱会",
@@ -1457,6 +1561,14 @@
       "onboard_time": 1693181315,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200666,
+      "num": 200666,
+      "word": "大量日本骚扰电话打进我驻日使领馆",
+      "onboard_time": 1693217617,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200233,
@@ -1563,6 +1675,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 193893,
+      "num": 193893,
+      "word": "花轿喜事",
+      "onboard_time": 1693217678,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193548,
       "num": 187111,
       "word": "张杰微博直播",
@@ -1659,14 +1779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178833,
-      "num": 178833,
-      "word": "裁判",
-      "onboard_time": 1693215095,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178685,
       "num": 178685,
       "word": "南苏丹三分",
@@ -1697,6 +1809,14 @@
       "onboard_time": 1693204413,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174155,
+      "num": 174155,
+      "word": "自制蜜桃冻",
+      "onboard_time": 1693217736,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 171490,
@@ -1737,6 +1857,22 @@
       "onboard_time": 1693185279,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168860,
+      "num": 2132974,
+      "word": "一人一句祝福美香添添小奇迹",
+      "onboard_time": 1693216238,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168609,
+      "num": 168609,
+      "word": "长春电影节",
+      "onboard_time": 1693217858,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 166929,
@@ -1955,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125457,
+      "num": 1507533,
+      "word": "海南警方高奢普法广告又来了",
+      "onboard_time": 1693216300,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123997,
       "num": 123997,
       "word": "纽卡斯尔联1比2利物浦",
@@ -1993,6 +2137,14 @@
       "onboard_time": 1693178426,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105301,
+      "num": 1254794,
+      "word": "00后姑娘从北京骑摩托来浙江上学",
+      "onboard_time": 1693217317,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 101745,
@@ -2059,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62257,
+      "num": 630755,
+      "word": "学长在一声声惊叹中迷失自我",
+      "onboard_time": 1693216837,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60512,
       "num": 60512,
       "word": "长沙一学校尚在施工中就开学",
@@ -2076,7 +2236,7 @@
     },
     {
       "raw_hot": 45371,
-      "num": 1575292,
+      "num": 1825952,
       "word": "多姿多彩多元多样是世界应有的样子",
       "onboard_time": 1693190735,
       "rank": 2,
