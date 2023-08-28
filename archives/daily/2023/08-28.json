@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693188274960,
+  "endTime": 1693189338752,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -115,6 +115,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 715157,
+      "num": 715157,
+      "word": "男生考上浙大爸爸扛行李直奔6楼",
+      "onboard_time": 1693186957,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 702482,
       "num": 702482,
       "word": "胡歌回应不拍戏风波",
@@ -129,6 +137,22 @@
       "onboard_time": 1693186957,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 682359,
+      "num": 256946,
+      "word": "你妈只是去上厕所了",
+      "onboard_time": 1693187978,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 675188,
+      "num": 267355,
+      "word": "结束一段关系最好的方式",
+      "onboard_time": 1693186535,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 662387,
@@ -179,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 618373,
-      "num": 267355,
-      "word": "结束一段关系最好的方式",
-      "onboard_time": 1693186535,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 593651,
       "num": 593651,
       "word": "王怡然最上镜小姐",
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538447,
+      "num": 538447,
+      "word": "中国艺术体操首个世界冠军",
+      "onboard_time": 1693187494,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 516848,
       "num": 516848,
       "word": "股市",
@@ -217,14 +241,6 @@
       "onboard_time": 1693151377,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 508084,
-      "num": 508084,
-      "word": "男生考上浙大爸爸扛行李直奔6楼",
-      "onboard_time": 1693186957,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 496118,
@@ -307,14 +323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 403438,
-      "num": 403438,
-      "word": "中国艺术体操首个世界冠军",
-      "onboard_time": 1693187494,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 394348,
       "num": 394348,
       "word": "尼格买提报平安",
@@ -361,6 +369,14 @@
       "onboard_time": 1693179449,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 364215,
+      "num": 255576,
+      "word": "A股超5000股上涨",
+      "onboard_time": 1693188156,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 354059,
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294469,
+      "num": 254693,
+      "word": "内地女生获2023港姐亚军",
+      "onboard_time": 1693187434,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293030,
       "num": 293030,
       "word": "范丞丞 真正的孟男",
@@ -481,14 +505,6 @@
       "onboard_time": 1693179449,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289733,
-      "num": 227001,
-      "word": "内地女生获2023港姐亚军",
-      "onboard_time": 1693187434,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284575,
@@ -520,6 +536,14 @@
       "word": "女子长期侧躺玩手机致右眼短暂失明",
       "onboard_time": 1693122574,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257327,
+      "num": 257327,
+      "word": "女警朝马路对面多看一眼救回一命",
+      "onboard_time": 1693188215,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -563,14 +587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233577,
-      "num": 226380,
-      "word": "你妈只是去上厕所了",
-      "onboard_time": 1693187978,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 225715,
       "num": 225715,
       "word": "真正伤胃的五件事",
@@ -609,6 +625,14 @@
       "onboard_time": 1693186899,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 206928,
+      "num": 206928,
+      "word": "东方风云榜",
+      "onboard_time": 1693188874,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 202671,
@@ -731,12 +755,20 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 168298,
-      "num": 168298,
-      "word": "A股超5000股上涨",
-      "onboard_time": 1693188156,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 169047,
+      "num": 169047,
+      "word": "开市客vs山姆",
+      "onboard_time": 1693189116,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 168916,
+      "num": 168916,
+      "word": "张真源说感谢这个阶段的一切",
+      "onboard_time": 1693185279,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 161150,
@@ -747,28 +779,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158004,
-      "num": 158004,
-      "word": "张真源说感谢这个阶段的一切",
-      "onboard_time": 1693185279,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152930,
       "num": 152930,
       "word": "披荆斩棘投票",
       "onboard_time": 1693179150,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152816,
-      "num": 152816,
-      "word": "女警朝马路对面多看一眼救回一命",
-      "onboard_time": 1693188215,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152307,
@@ -931,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19202,
+      "num": 207879,
+      "word": "美团北极星医美机构榜发布",
+      "onboard_time": 1693188036,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18028,
       "num": 18028,
       "word": "肉肉抽奖",
@@ -945,14 +969,6 @@
       "onboard_time": 1693165754,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 8488,
-      "num": 207879,
-      "word": "美团北极星医美机构榜发布",
-      "onboard_time": 1693188036,
-      "rank": 39,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
