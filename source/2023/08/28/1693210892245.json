@@ -1,0 +1,410 @@
+{
+  "runTime": 1693210892245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2734584,
+        "num": 2734584,
+        "word": "董明珠怒斥员工吃着碗里看着锅里",
+        "onboard_time": 1693207234,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1436667,
+        "num": 1436667,
+        "word": "男子大三挂科退学10年后再次考上大学",
+        "onboard_time": 1693205256,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 38127,
+        "num": 902148,
+        "word": "多姿多彩多元多样是世界应有的样子",
+        "onboard_time": 1693190735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887366,
+        "num": 887366,
+        "word": "30日起来华人员无需核酸或抗原检测",
+        "onboard_time": 1693208617,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783563,
+        "num": 783563,
+        "word": "燃冬导演说自己受到的打击很大",
+        "onboard_time": 1693201654,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546598,
+        "num": 546598,
+        "word": "李佳琦与母亲接连成立新公司",
+        "onboard_time": 1693205676,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 480708,
+        "num": 480708,
+        "word": "虹猫 一位大侠最极致的爱",
+        "onboard_time": 1693198540,
+        "rank": 6,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 453724,
+        "num": 453724,
+        "word": "A股",
+        "onboard_time": 1693180531,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 452345,
+        "num": 452345,
+        "word": "赛百味700亿成功卖身",
+        "onboard_time": 1693203156,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 421796,
+        "num": 421796,
+        "word": "万和 孙颖莎",
+        "onboard_time": 1693208138,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1593868,
+        "num": 421711,
+        "word": "郭碧婷越来越像向太了",
+        "onboard_time": 1693203516,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 454476,
+        "num": 420172,
+        "word": "东电承认超6成储存核污水放射物超标",
+        "onboard_time": 1693192177,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414328,
+        "num": 414328,
+        "word": "金宇彬飞往釜山吊唁去世粉丝",
+        "onboard_time": 1693205256,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267413,
+        "num": 404176,
+        "word": "请大英博物馆无偿归还中国文物",
+        "onboard_time": 1693179993,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 72198,
+        "num": 398545,
+        "word": "管泽元被偷家了",
+        "onboard_time": 1693209634,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 396957,
+        "num": 396957,
+        "word": "在境外做电诈的人真的都是被骗过去的吗",
+        "onboard_time": 1693206877,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381559,
+        "num": 381559,
+        "word": "夭玹比肩",
+        "onboard_time": 1693205973,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352415,
+        "num": 352415,
+        "word": "魏大勋白敬亭喝了同一碗奶茶",
+        "onboard_time": 1693206635,
+        "rank": 17,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 345959,
+        "num": 345959,
+        "word": "莲花楼售后美美的",
+        "onboard_time": 1693208857,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315079,
+        "num": 315079,
+        "word": "男子在缅逃跑身后步枪扫射",
+        "onboard_time": 1693209577,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328149,
+        "num": 314596,
+        "word": "原来捧杀才是最好的必杀技",
+        "onboard_time": 1693204594,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299338,
+        "num": 299338,
+        "word": "中国男篮vs南苏丹男篮",
+        "onboard_time": 1693209577,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295502,
+        "num": 295502,
+        "word": "日本核污染水排海最新情况",
+        "onboard_time": 1693203695,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293127,
+        "num": 293127,
+        "word": "港姐陈怡回应现场黑脸",
+        "onboard_time": 1693209515,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283683,
+        "num": 283683,
+        "word": "谢娜没和张杰合照是不是得洗碗",
+        "onboard_time": 1693198062,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277946,
+        "num": 277946,
+        "word": "当我爸知道我穿的裤子只要69",
+        "onboard_time": 1693208376,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226864,
+        "num": 226864,
+        "word": "果然只有亲亲才能化解尴尬",
+        "onboard_time": 1693207355,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223436,
+        "num": 223436,
+        "word": "时代少年团东方风云榜彩排视频",
+        "onboard_time": 1693205256,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219274,
+        "num": 219274,
+        "word": "魏大勋开始形象管理了",
+        "onboard_time": 1693206276,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216925,
+        "num": 216925,
+        "word": "日本海产品出口转攻东南亚市场",
+        "onboard_time": 1693196985,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000927,
+        "num": 214210,
+        "word": "老板要求转账198万会计立即报警",
+        "onboard_time": 1693209758,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210296,
+        "num": 210296,
+        "word": "徐冬冬穿高跟鞋以一敌十",
+        "onboard_time": 1693208979,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205552,
+        "num": 205552,
+        "word": "韩国中生代女明星的过去和现在",
+        "onboard_time": 1693207176,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205398,
+        "num": 205398,
+        "word": "林志颖推荐林俊杰来下一季披哥",
+        "onboard_time": 1693197344,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201426,
+        "num": 201426,
+        "word": "徐良助力区排名怎么变20了",
+        "onboard_time": 1693201057,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198287,
+        "num": 198287,
+        "word": "女子网购蒟蒻果冻吃出整只虫",
+        "onboard_time": 1693201296,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189474,
+        "num": 189474,
+        "word": "中国恒大负债2.38万亿",
+        "onboard_time": 1693191037,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183958,
+        "num": 183958,
+        "word": "东方风云榜红毯",
+        "onboard_time": 1693210656,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169176,
+        "num": 169176,
+        "word": "68元甜品自助",
+        "onboard_time": 1693203216,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157828,
+        "num": 157828,
+        "word": "产妇羊水栓塞输血超6万毫升被救",
+        "onboard_time": 1693190015,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144765,
+        "num": 144765,
+        "word": "被浙江农村的房子惊艳到了",
+        "onboard_time": 1693195783,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140515,
+        "num": 140515,
+        "word": "来广东治好了穿衣焦虑",
+        "onboard_time": 1693197103,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 138326,
+        "num": 138326,
+        "word": "胡歌说再拍李逍遥应该让吴磊演",
+        "onboard_time": 1693191396,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133622,
+        "num": 133622,
+        "word": "于适比赛倒贴钱",
+        "onboard_time": 1693210777,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129700,
+        "num": 129700,
+        "word": "燃冬",
+        "onboard_time": 1693205676,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125158,
+        "num": 125158,
+        "word": "九岁摄影师拍的欧阳娜娜",
+        "onboard_time": 1693201775,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 123802,
+        "num": 123802,
+        "word": "大英博物馆馆长辞职",
+        "onboard_time": 1693191037,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123801,
+        "num": 123801,
+        "word": "巡海员经常投喂的鲨鱼带来了惊喜",
+        "onboard_time": 1693210417,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120025,
+        "num": 120025,
+        "word": "孤注一掷延长上映",
+        "onboard_time": 1693203995,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64804,
+        "num": 120019,
+        "word": "张钧甯说完英语说德语",
+        "onboard_time": 1693210656,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#多渠道多形式讲好新时代新疆故事#"
+    }
+  }
+}
