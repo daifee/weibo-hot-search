@@ -1,7 +1,15 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693264588994,
+  "endTime": 1693266621865,
   "band_list": [
+    {
+      "raw_hot": 4117452,
+      "num": 475833,
+      "word": "胡歌 我对不起好多人",
+      "onboard_time": 1693264405,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2593855,
       "num": 2593855,
@@ -17,6 +25,14 @@
       "onboard_time": 1693230878,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1098906,
+      "num": 459053,
+      "word": "妈妈翻出女儿离世前拼命学习视频",
+      "onboard_time": 1693264226,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1030219,
@@ -35,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 837851,
-      "num": 837851,
+      "raw_hot": 858633,
+      "num": 858633,
       "word": "2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸",
       "onboard_time": 1693235380,
       "rank": 5,
@@ -51,12 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 634009,
-      "num": 634009,
+      "raw_hot": 731470,
+      "num": 731470,
       "word": "男子收到儿子饭卡消费记录后泪奔",
       "onboard_time": 1693236037,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591356,
+      "num": 591356,
+      "word": "笔记本一直插着电源使用比较好",
+      "onboard_time": 1693264226,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 571530,
@@ -75,12 +99,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 531083,
-      "num": 308460,
-      "word": "胡歌 我对不起好多人",
-      "onboard_time": 1693264405,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 494609,
+      "num": 494609,
+      "word": "全性转版封神第一部",
+      "onboard_time": 1693264105,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 493966,
+      "num": 493966,
+      "word": "赵本山的新剧很讽刺",
+      "onboard_time": 1693235438,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 460681,
@@ -99,12 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417353,
-      "num": 417353,
-      "word": "赵本山的新剧很讽刺",
-      "onboard_time": 1693235438,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 436685,
+      "num": 220800,
+      "word": "江苏浙江连发20条预警",
+      "onboard_time": 1693264163,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425813,
+      "num": 425813,
+      "word": "董宇辉说不要沉沦在逆境中",
+      "onboard_time": 1693245800,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408381,
@@ -155,6 +195,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 338253,
+      "num": 173771,
+      "word": "中方回应在华日本学校被砸石头和鸡蛋",
+      "onboard_time": 1693266333,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 332077,
       "num": 332077,
       "word": "中国在南极意外发现海上粮仓",
@@ -171,20 +219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314964,
-      "num": 314964,
-      "word": "董宇辉说不要沉沦在逆境中",
-      "onboard_time": 1693245800,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308244,
       "num": 219775,
       "word": "任敏接发了",
       "onboard_time": 1693233818,
       "rank": 23,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 293214,
+      "num": 218964,
+      "word": "1个动作自测甲状腺健康",
+      "onboard_time": 1693265067,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269690,
@@ -203,8 +251,24 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262636,
+      "num": 262636,
+      "word": "黎光李慕嘉分手后更好嗑了",
+      "onboard_time": 1693239451,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 259044,
+      "num": 217326,
+      "word": "宝宝拒绝睡觉却被强制关机",
+      "onboard_time": 1693233761,
+      "rank": 28,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 246529,
-      "num": 154847,
+      "num": 213872,
       "word": "全班都是班干部的班级",
       "onboard_time": 1693261758,
       "rank": 45,
@@ -243,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221866,
-      "num": 221866,
-      "word": "黎光李慕嘉分手后更好嗑了",
-      "onboard_time": 1693239451,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 221364,
+      "num": 221364,
+      "word": "董明珠怒斥员工吃着碗里看着锅里",
+      "onboard_time": 1693207234,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220033,
@@ -259,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215328,
-      "num": 215328,
-      "word": "全性转版封神第一部",
-      "onboard_time": 1693264105,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211377,
       "num": 211377,
       "word": "男孩带录取通知书与服刑父亲见面",
@@ -275,24 +331,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 206957,
-      "num": 206957,
-      "word": "董明珠怒斥员工吃着碗里看着锅里",
-      "onboard_time": 1693207234,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206355,
-      "num": 206355,
-      "word": "宝宝拒绝睡觉却被强制关机",
-      "onboard_time": 1693233761,
-      "rank": 28,
-      "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 200413,
-      "num": 200413,
+      "raw_hot": 202755,
+      "num": 202755,
       "word": "量化私募大佬2.85亿上海买房",
       "onboard_time": 1693227576,
       "rank": 29,
@@ -307,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186487,
+      "num": 186487,
+      "word": "美网2023",
+      "onboard_time": 1693265549,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185682,
       "num": 185682,
       "word": "谢娜找杨迪要通告费",
@@ -315,20 +363,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181324,
+      "num": 181324,
+      "word": "女子半月被缅北男友骗光850万",
+      "onboard_time": 1693215996,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180548,
       "num": 180548,
       "word": "苏醒cue0713披荆斩棘小分队",
       "onboard_time": 1693231960,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177587,
-      "num": 177587,
-      "word": "女子半月被缅北男友骗光850万",
-      "onboard_time": 1693215996,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177302,
@@ -363,6 +411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165398,
+      "num": 165398,
+      "word": "有没有人能管管现在的电视啊",
+      "onboard_time": 1693228117,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160315,
+      "num": 160315,
+      "word": "许嵩新歌如谜",
+      "onboard_time": 1693264827,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155654,
       "num": 155654,
       "word": "贵州省委原书记孙志刚被查",
@@ -387,14 +451,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 144211,
-      "num": 125391,
-      "word": "妈妈翻出女儿离世前拼命学习视频",
-      "onboard_time": 1693264226,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 142944,
       "num": 142552,
       "word": "冯小刚夸虞书欣台词特别好",
@@ -411,12 +467,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140383,
-      "num": 140383,
-      "word": "有没有人能管管现在的电视啊",
-      "onboard_time": 1693228117,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 140349,
+      "num": 140349,
+      "word": "这种狗我一般会目送200米",
+      "onboard_time": 1693250115,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 138666,
+      "num": 138666,
+      "word": "灼灼风流里的景甜",
+      "onboard_time": 1693265128,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 138191,
+      "num": 138191,
+      "word": "七时吉祥捅了哈基米的窝了",
+      "onboard_time": 1693263744,
+      "rank": 40,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 138078,
@@ -427,6 +499,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 137670,
+      "num": 137670,
+      "word": "陈晓娜扎新剧断崖式分手",
+      "onboard_time": 1693260497,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135543,
       "num": 126354,
       "word": "白敬亭要不还是腼腆点吧",
@@ -435,11 +515,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126784,
-      "num": 126784,
-      "word": "陈晓娜扎新剧断崖式分手",
-      "onboard_time": 1693260497,
-      "rank": 34,
+      "raw_hot": 135358,
+      "num": 135358,
+      "word": "张艺兴孤注一掷34亿海报",
+      "onboard_time": 1693247118,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -459,6 +539,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102595,
+      "num": 746240,
+      "word": "我国网民规模已达10.79亿人",
+      "onboard_time": 1693233818,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101355,
+      "num": 101355,
+      "word": "孙志刚接受审查调查",
+      "onboard_time": 1693266272,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99011,
       "num": 104311,
       "word": "黑执事动画中最帅的执事",
@@ -475,36 +571,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 95449,
-      "num": 95449,
-      "word": "这种狗我一般会目送200米",
-      "onboard_time": 1693250115,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 90595,
-      "num": 90595,
-      "word": "张艺兴孤注一掷34亿海报",
-      "onboard_time": 1693247118,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 89741,
-      "num": 89741,
+      "raw_hot": 93284,
+      "num": 93284,
       "word": "10款椰子水测评",
       "onboard_time": 1693242143,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 86668,
-      "num": 86668,
-      "word": "笔记本一直插着电源使用比较好",
-      "onboard_time": 1693264226,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 80280,
@@ -515,27 +587,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 76717,
-      "num": 76717,
-      "word": "七时吉祥捅了哈基米的窝了",
-      "onboard_time": 1693263744,
-      "rank": 40,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 69211,
       "num": 69211,
       "word": "韩国渔民心灰意冷",
       "onboard_time": 1693242863,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65645,
-      "num": 65645,
-      "word": "江苏浙江连发20条预警",
-      "onboard_time": 1693264163,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -561,14 +617,6 @@
       "onboard_time": 1693232496,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 60843,
-      "num": 661570,
-      "word": "我国网民规模已达10.79亿人",
-      "onboard_time": 1693233818,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51634,
