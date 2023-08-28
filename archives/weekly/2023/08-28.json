@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693225963441,
+  "endTime": 1693226955127,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -105,6 +105,14 @@
       "onboard_time": 1693191037,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1630137,
+      "num": 1630137,
+      "word": "刘亦菲 高定",
+      "onboard_time": 1693224997,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1561726,
@@ -225,14 +233,6 @@
       "onboard_time": 1693197344,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1019598,
-      "num": 1019598,
-      "word": "刘亦菲 高定",
-      "onboard_time": 1693224997,
-      "rank": 4,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 968700,
@@ -395,6 +395,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 736291,
+      "num": 736291,
+      "word": "谁家女主第一集失业又失恋",
+      "onboard_time": 1693225656,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 732327,
+      "num": 732327,
+      "word": "冯小刚夸虞书欣台词特别好",
+      "onboard_time": 1693225596,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 724935,
       "num": 330209,
       "word": "结束一段关系最好的方式",
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 564213,
-      "num": 342260,
+      "num": 359277,
       "word": "浙江12岁女孩确诊甲状腺癌",
       "onboard_time": 1693219477,
       "rank": 30,
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442446,
+      "num": 442446,
+      "word": "张靓颖说九月有好事宣布",
+      "onboard_time": 1693224219,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439944,
       "num": 439944,
       "word": "周深红毯上修伞",
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387453,
+      "num": 363241,
+      "word": "4万学费宿舍到处是垃圾没法住",
+      "onboard_time": 1693224758,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 385867,
       "num": 326175,
       "word": "杭州12岁女孩1米72脊柱歪到要手术",
@@ -947,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372438,
-      "num": 341787,
-      "word": "4万学费宿舍到处是垃圾没法住",
-      "onboard_time": 1693224758,
-      "rank": 22,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 369544,
       "num": 324424,
       "word": "景甜20岁到35岁颜值变化",
@@ -993,14 +1017,6 @@
       "onboard_time": 1693194760,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 362870,
-      "num": 362870,
-      "word": "谁家女主第一集失业又失恋",
-      "onboard_time": 1693225656,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 360515,
@@ -1115,14 +1131,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 336098,
-      "num": 336098,
-      "word": "张靓颖说九月有好事宣布",
-      "onboard_time": 1693224219,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335973,
       "num": 290987,
       "word": "张婧仪抽烟镜头",
@@ -1153,6 +1161,14 @@
       "onboard_time": 1693181197,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328300,
+      "num": 328300,
+      "word": "林俊杰文俊辉咖啡伙伴",
+      "onboard_time": 1693225656,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 327019,
@@ -1443,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273729,
+      "num": 273729,
+      "word": "泰勒十万伏特",
+      "onboard_time": 1693224633,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 272733,
       "num": 272733,
       "word": "工作室这么会剪成毅知道吗",
@@ -1507,12 +1531,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 247521,
-      "num": 247521,
-      "word": "泰勒十万伏特",
-      "onboard_time": 1693224633,
-      "rank": 27,
-      "category": "音乐"
+      "raw_hot": 248837,
+      "num": 248837,
+      "word": "贾冰演过魏大勋爸爸",
+      "onboard_time": 1693225894,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 245516,
@@ -1691,12 +1715,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216595,
-      "num": 216595,
-      "word": "林俊杰文俊辉咖啡伙伴",
-      "onboard_time": 1693225656,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 211432,
+      "num": 211432,
+      "word": "杨幂卡其色风衣",
+      "onboard_time": 1693225294,
+      "rank": 36,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 211131,
@@ -1731,14 +1755,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 206958,
-      "num": 206958,
-      "word": "冯小刚夸虞书欣台词特别好",
-      "onboard_time": 1693225596,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 206789,
       "num": 206789,
       "word": "刘宇喝香菜汁",
@@ -1771,12 +1787,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202854,
+      "num": 202854,
+      "word": "周深花开忘忧舞台开花了",
+      "onboard_time": 1693225894,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202671,
       "num": 202671,
       "word": "徐若晗哭了",
       "onboard_time": 1693181315,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202606,
+      "num": 202606,
+      "word": "WB对战TES",
+      "onboard_time": 1693226138,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 200757,
@@ -1809,6 +1841,14 @@
       "onboard_time": 1693214197,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199150,
+      "num": 199150,
+      "word": "封神拍动作戏没有动物受伤",
+      "onboard_time": 1693226197,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 198747,
@@ -1923,6 +1963,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191932,
+      "num": 191932,
+      "word": "东北币有它自己的汇率",
+      "onboard_time": 1693226320,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 191741,
+      "num": 191741,
+      "word": "解说杯",
+      "onboard_time": 1693226378,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190605,
       "num": 190605,
       "word": "花轿喜事今日开播",
@@ -2003,6 +2059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183611,
+      "num": 183611,
+      "word": "魏大勋毽子头",
+      "onboard_time": 1693224997,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 181452,
       "num": 181452,
       "word": "脱口秀大会文字版",
@@ -2011,36 +2075,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180434,
-      "num": 180434,
-      "word": "周深花开忘忧舞台开花了",
-      "onboard_time": 1693225894,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 179770,
-      "num": 179770,
-      "word": "杨幂卡其色风衣",
-      "onboard_time": 1693225294,
-      "rank": 36,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 178685,
       "num": 178685,
       "word": "南苏丹三分",
       "onboard_time": 1693212879,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177941,
-      "num": 177941,
-      "word": "魏大勋毽子头",
-      "onboard_time": 1693224997,
-      "rank": 37,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 177028,
@@ -2379,12 +2419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123737,
-      "num": 154781,
-      "word": "贾冰演过魏大勋爸爸",
-      "onboard_time": 1693225894,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 117675,
+      "num": 456088,
+      "word": "姐姐在校门口与4岁弟弟含泪惜别",
+      "onboard_time": 1693224099,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115766,
@@ -2449,14 +2489,6 @@
       "onboard_time": 1693174997,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 81839,
-      "num": 412193,
-      "word": "姐姐在校门口与4岁弟弟含泪惜别",
-      "onboard_time": 1693224099,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75744,
