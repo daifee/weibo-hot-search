@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693251243085,
+  "endTime": 1693253846532,
   "band_list": [
     {
       "raw_hot": 2405489,
@@ -483,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 39175,
+      "num": 39175,
+      "word": "感觉上班好像在扮演大人",
+      "onboard_time": 1693249334,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 37547,
       "num": 38241,
       "word": "花轿喜事男主",
@@ -491,12 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 37431,
-      "num": 37431,
-      "word": "感觉上班好像在扮演大人",
-      "onboard_time": 1693249334,
-      "rank": 42,
-      "category": "幽默,情感"
+      "raw_hot": 36548,
+      "num": 26007,
+      "word": "FIFTY FIFTY与经纪公司的专属合约有效",
+      "onboard_time": 1693251134,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 34911,
@@ -507,20 +515,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27505,
+      "num": 25605,
+      "word": "这种狗我一般会目送200米",
+      "onboard_time": 1693250115,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26383,
       "num": 265094,
       "word": "我国网民规模已达10.79亿人",
       "onboard_time": 1693233818,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26007,
-      "num": 26007,
-      "word": "FIFTY FIFTY与经纪公司的专属合约有效",
-      "onboard_time": 1693251134,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 24771,
@@ -531,15 +539,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24232,
-      "num": 24232,
-      "word": "这种狗我一般会目送200米",
-      "onboard_time": 1693250115,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 20567,
+      "raw_hot": 20807,
       "num": 23542,
       "word": "我国网民规模达10.79亿人",
       "onboard_time": 1693250895,

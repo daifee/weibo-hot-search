@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693251243085,
+  "endTime": 1693253846532,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -73379,6 +73379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39175,
+      "num": 39175,
+      "word": "感觉上班好像在扮演大人",
+      "onboard_time": 1693249334,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 39094,
       "num": 39094,
       "word": "偶遇王源生图",
@@ -73483,14 +73491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37431,
-      "num": 37431,
-      "word": "感觉上班好像在扮演大人",
-      "onboard_time": 1693249334,
-      "rank": 42,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 36742,
       "num": 36742,
       "word": "燃冬极速版",
@@ -73505,6 +73505,14 @@
       "onboard_time": 1692212237,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 36548,
+      "num": 26007,
+      "word": "FIFTY FIFTY与经纪公司的专属合约有效",
+      "onboard_time": 1693251134,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 35630,
@@ -73963,6 +73971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27505,
+      "num": 25605,
+      "word": "这种狗我一般会目送200米",
+      "onboard_time": 1693250115,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27474,
       "num": 27474,
       "word": "墨西哥火烈鸟 盛大优美的生命诗意",
@@ -74065,14 +74081,6 @@
       "onboard_time": 1692785436,
       "rank": 14,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 26007,
-      "num": 26007,
-      "word": "FIFTY FIFTY与经纪公司的专属合约有效",
-      "onboard_time": 1693251134,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 25932,
@@ -74187,14 +74195,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 24232,
-      "num": 24232,
-      "word": "这种狗我一般会目送200米",
-      "onboard_time": 1693250115,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 24033,
       "num": 24033,
       "word": "迹部景吾将出席婚礼",
@@ -74299,7 +74299,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20567,
+      "raw_hot": 20807,
       "num": 23542,
       "word": "我国网民规模达10.79亿人",
       "onboard_time": 1693250895,
