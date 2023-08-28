@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693235844503,
+  "endTime": 1693236849733,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -499,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 698057,
+      "num": 698057,
+      "word": "肖战郭靖概念图",
+      "onboard_time": 1693234239,
+      "rank": 6,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 691641,
       "num": 691641,
       "word": "印花税",
@@ -579,14 +587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 637945,
-      "num": 637945,
-      "word": "肖战郭靖概念图",
-      "onboard_time": 1693234239,
-      "rank": 6,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 624749,
       "num": 411599,
       "word": "日本超市海鲜打折也没人买",
@@ -648,6 +648,22 @@
       "word": "男子称按处方吃24粒头孢腹泻进急诊",
       "onboard_time": 1693151256,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565796,
+      "num": 565796,
+      "word": "2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸",
+      "onboard_time": 1693235380,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558772,
+      "num": 558772,
+      "word": "你什么档次跟国宝一个飞机",
+      "onboard_time": 1693234360,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -795,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 479478,
+      "num": 479478,
+      "word": "赵本山的新剧很讽刺",
+      "onboard_time": 1693235438,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 476565,
       "num": 476565,
       "word": "谁给胡兵投的票",
@@ -816,14 +840,6 @@
       "word": "唐尚珺宣布继续复读",
       "onboard_time": 1693184318,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459482,
-      "num": 459482,
-      "word": "你什么档次跟国宝一个飞机",
-      "onboard_time": 1693234360,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -948,7 +964,7 @@
     },
     {
       "raw_hot": 417066,
-      "num": 280547,
+      "num": 392620,
       "word": "鞠婧祎被停车杆打到",
       "onboard_time": 1693233041,
       "rank": 39,
@@ -1100,7 +1116,7 @@
     },
     {
       "raw_hot": 370992,
-      "num": 249011,
+      "num": 292209,
       "word": "宝宝拒绝睡觉却被强制关机",
       "onboard_time": 1693233761,
       "rank": 30,
@@ -1259,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340729,
+      "num": 340729,
+      "word": "金所炫黄旼炫吻戏",
+      "onboard_time": 1693236217,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338050,
       "num": 338050,
       "word": "油酥饼已经工业化生产了",
@@ -1411,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309836,
+      "num": 252700,
+      "word": "谢娜找杨迪要通告费",
+      "onboard_time": 1693236157,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306104,
       "num": 306104,
       "word": "东方风云榜红毯",
@@ -1545,14 +1577,6 @@
       "onboard_time": 1693179449,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291280,
-      "num": 248440,
-      "word": "赵本山的新剧很讽刺",
-      "onboard_time": 1693235438,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 290188,
@@ -1707,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258886,
+      "num": 258886,
+      "word": "虞书欣横店上班穿搭",
+      "onboard_time": 1693234118,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 258308,
       "num": 258308,
       "word": "女子长期侧躺玩手机致右眼短暂失明",
@@ -1747,14 +1779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 250023,
-      "num": 250023,
-      "word": "虞书欣横店上班穿搭",
-      "onboard_time": 1693234118,
-      "rank": 28,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 249066,
       "num": 249066,
       "word": "吴磊配音骑有此理全新片头",
@@ -1769,14 +1793,6 @@
       "onboard_time": 1693225894,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247798,
-      "num": 247798,
-      "word": "2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸",
-      "onboard_time": 1693235380,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245516,
@@ -1808,6 +1824,14 @@
       "word": "张子豪 我会好好养伤早日跟大家见面",
       "onboard_time": 1693198900,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 240582,
+      "num": 240582,
+      "word": "于适名言再添一句",
+      "onboard_time": 1693234899,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1865,6 +1889,14 @@
       "onboard_time": 1693228778,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 230149,
+      "num": 230149,
+      "word": "男子收到儿子饭卡消费记录后泪奔",
+      "onboard_time": 1693236037,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229902,
@@ -2043,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206435,
+      "num": 206435,
+      "word": "长相思",
+      "onboard_time": 1693236695,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205552,
       "num": 205552,
       "word": "韩国中生代女明星的过去和现在",
@@ -2051,12 +2091,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205232,
-      "num": 205232,
-      "word": "于适名言再添一句",
-      "onboard_time": 1693234899,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 204168,
+      "num": 185643,
+      "word": "夭玹 改写结局",
+      "onboard_time": 1693236815,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 204089,
@@ -2168,6 +2208,14 @@
       "word": "明日方舟 中国国家地理",
       "onboard_time": 1693200576,
       "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 198511,
+      "num": 198511,
+      "word": "KPL",
+      "onboard_time": 1693235739,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -2427,12 +2475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177050,
+      "num": 177050,
+      "word": "黄子弘凡被吓到的表情包",
+      "onboard_time": 1693235678,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177028,
       "num": 177028,
       "word": "杨宗纬 我想要听张杰",
       "onboard_time": 1693142496,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176579,
+      "num": 969605,
+      "word": "亚运村里的江浙菜品有多馋人",
+      "onboard_time": 1693233879,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175516,
@@ -2497,14 +2561,6 @@
       "onboard_time": 1693205676,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169948,
-      "num": 169948,
-      "word": "KPL",
-      "onboard_time": 1693235739,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 169805,
@@ -2609,14 +2665,6 @@
       "onboard_time": 1693199617,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 153037,
-      "num": 914524,
-      "word": "亚运村里的江浙菜品有多馋人",
-      "onboard_time": 1693233879,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152930,
