@@ -1,0 +1,410 @@
+{
+  "runTime": 1693200845226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2844473,
+        "num": 2844473,
+        "word": "请大英博物馆无偿归还中国文物",
+        "onboard_time": 1693179993,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1481928,
+        "num": 1481928,
+        "word": "东电承认超6成储存核污水放射物超标",
+        "onboard_time": 1693192177,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80009,
+        "num": 1285718,
+        "word": "三个关键词带你看大美新疆",
+        "onboard_time": 1693190855,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1198203,
+        "num": 1198203,
+        "word": "大英博物馆馆长辞职",
+        "onboard_time": 1693191037,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162747,
+        "num": 1162747,
+        "word": "谢娜没和张杰合照是不是得洗碗",
+        "onboard_time": 1693198062,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 966699,
+        "num": 966699,
+        "word": "林志颖推荐林俊杰来下一季披哥",
+        "onboard_time": 1693197344,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 840121,
+        "num": 840121,
+        "word": "虹猫 一位大侠最极致的爱",
+        "onboard_time": 1693198540,
+        "rank": 6,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 603787,
+        "num": 603787,
+        "word": "胡歌说再拍李逍遥应该让吴磊演",
+        "onboard_time": 1693191396,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476847,
+        "num": 476847,
+        "word": "A股",
+        "onboard_time": 1693180531,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 452869,
+        "num": 452869,
+        "word": "产妇羊水栓塞输血超6万毫升被救",
+        "onboard_time": 1693190015,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768457,
+        "num": 452866,
+        "word": "日本海产品出口转攻东南亚市场",
+        "onboard_time": 1693196985,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658944,
+        "num": 449454,
+        "word": "中国恒大负债2.38万亿",
+        "onboard_time": 1693191037,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 444663,
+        "num": 444663,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1693183119,
+        "rank": 12,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 425211,
+        "num": 425211,
+        "word": "来广东治好了穿衣焦虑",
+        "onboard_time": 1693197103,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 415826,
+        "num": 415826,
+        "word": "逃出大英博物馆预告片",
+        "onboard_time": 1693197881,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309254,
+        "num": 309254,
+        "word": "十个勤天来了",
+        "onboard_time": 1693197820,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284316,
+        "num": 284316,
+        "word": "沈月给不快乐的朋友们的一封信",
+        "onboard_time": 1693197584,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283051,
+        "num": 283051,
+        "word": "Mate60真机",
+        "onboard_time": 1693195600,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 277110,
+        "num": 277110,
+        "word": "白敬亭这次不内向了",
+        "onboard_time": 1693198479,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265963,
+        "num": 265963,
+        "word": "香港小姐10号 意难平",
+        "onboard_time": 1693149700,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385103,
+        "num": 265387,
+        "word": "被浙江农村的房子惊艳到了",
+        "onboard_time": 1693195783,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313507,
+        "num": 262246,
+        "word": "赛百味为何不受欢迎了",
+        "onboard_time": 1693196320,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293918,
+        "num": 259543,
+        "word": "你妈只是去上厕所了",
+        "onboard_time": 1693187978,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266837,
+        "num": 257836,
+        "word": "结束一段关系最好的方式",
+        "onboard_time": 1693186535,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256399,
+        "num": 256399,
+        "word": "张杰赵丽颖合照",
+        "onboard_time": 1693180955,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248702,
+        "num": 248702,
+        "word": "我李玉湖就要来了",
+        "onboard_time": 1693200096,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245236,
+        "num": 245236,
+        "word": "杨幂和王阳合作过",
+        "onboard_time": 1693195116,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225559,
+        "num": 225559,
+        "word": "张晚意原生家庭幸福的不演",
+        "onboard_time": 1693191037,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218378,
+        "num": 218378,
+        "word": "才知道亚洲第一梯在西安",
+        "onboard_time": 1693192898,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 211471,
+        "num": 211471,
+        "word": "陈奕迅澳门演唱会抢票",
+        "onboard_time": 1693194698,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262751,
+        "num": 210742,
+        "word": "油酥饼已经工业化生产了",
+        "onboard_time": 1693199437,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207137,
+        "num": 207137,
+        "word": "男生考上浙大爸爸扛行李直奔6楼",
+        "onboard_time": 1693186957,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 203265,
+        "num": 203265,
+        "word": "何超琼去看了五月天演唱会",
+        "onboard_time": 1693199137,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200084,
+        "num": 200084,
+        "word": "学会跟鼻子相处是小象一生的课题",
+        "onboard_time": 1693198599,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197877,
+        "num": 197877,
+        "word": "苏有朋演唱会官宣",
+        "onboard_time": 1693195540,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192385,
+        "num": 192385,
+        "word": "明日方舟 中国国家地理",
+        "onboard_time": 1693200576,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190040,
+        "num": 190040,
+        "word": "熊猫幼崽也要好好穿袜子",
+        "onboard_time": 1693196198,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185198,
+        "num": 185198,
+        "word": "封神 雪龙驹出差报告",
+        "onboard_time": 1693194938,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182460,
+        "num": 182460,
+        "word": "张子豪 我会好好养伤早日跟大家见面",
+        "onboard_time": 1693198900,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178118,
+        "num": 178118,
+        "word": "恋人来来去去 朋友永远是朋友",
+        "onboard_time": 1693192177,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168565,
+        "num": 168565,
+        "word": "魏大勋认证魏大勋的大不发音",
+        "onboard_time": 1693181557,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166679,
+        "num": 166679,
+        "word": "内地女生获2023港姐亚军",
+        "onboard_time": 1693187434,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159368,
+        "num": 159368,
+        "word": "莲花楼漫画 糖葫芦",
+        "onboard_time": 1693193981,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158321,
+        "num": 158321,
+        "word": "封神第一部进入影史票房榜TOP25",
+        "onboard_time": 1693189655,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151466,
+        "num": 151466,
+        "word": "赵露思周也或将合作骄阳似我",
+        "onboard_time": 1693191213,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151088,
+        "num": 151088,
+        "word": "鞠婧祎品尝四川特色冰淇淋",
+        "onboard_time": 1693197164,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146901,
+        "num": 146901,
+        "word": "漫展上令人着迷的横幅",
+        "onboard_time": 1693198782,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144858,
+        "num": 144858,
+        "word": "我国拟制定学前教育法",
+        "onboard_time": 1693200756,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 133742,
+        "num": 133742,
+        "word": "原来猕猴桃是种花心的水果",
+        "onboard_time": 1693194760,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127009,
+        "num": 127009,
+        "word": "明日方舟维纳小姐令人捉摸不透",
+        "onboard_time": 1693199617,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#谋长远之策行固本之举更好建设美丽新疆#"
+    }
+  }
+}

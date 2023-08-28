@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693199754558,
+  "endTime": 1693200845226,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -67,6 +67,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1162747,
+      "num": 1162747,
+      "word": "谢娜没和张杰合照是不是得洗碗",
+      "onboard_time": 1693198062,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1160513,
       "num": 1160513,
       "word": "A股",
@@ -89,14 +97,6 @@
       "onboard_time": 1693191037,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1071850,
-      "num": 1071850,
-      "word": "谢娜没和张杰合照是不是得洗碗",
-      "onboard_time": 1693198062,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1059813,
@@ -153,6 +153,14 @@
       "onboard_time": 1693147419,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840121,
+      "num": 840121,
+      "word": "虹猫 一位大侠最极致的爱",
+      "onboard_time": 1693198540,
+      "rank": 12,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 805277,
@@ -419,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 445727,
-      "num": 445727,
-      "word": "虹猫 一位大侠最极致的爱",
-      "onboard_time": 1693198540,
-      "rank": 12,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 445675,
       "num": 445675,
       "word": "莲花楼漫画 糖葫芦",
@@ -465,6 +465,14 @@
       "onboard_time": 1693189714,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 425211,
+      "num": 425211,
+      "word": "来广东治好了穿衣焦虑",
+      "onboard_time": 1693197103,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 416260,
@@ -529,14 +537,6 @@
       "onboard_time": 1693178304,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391249,
-      "num": 391249,
-      "word": "来广东治好了穿衣焦虑",
-      "onboard_time": 1693197103,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 385867,
@@ -851,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262751,
+      "num": 210742,
+      "word": "油酥饼已经工业化生产了",
+      "onboard_time": 1693199437,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 258308,
       "num": 258308,
       "word": "女子长期侧躺玩手机致右眼短暂失明",
@@ -865,6 +873,14 @@
       "onboard_time": 1693186358,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248702,
+      "num": 248702,
+      "word": "我李玉湖就要来了",
+      "onboard_time": 1693200096,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 245516,
@@ -1003,20 +1019,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203265,
+      "num": 203265,
+      "word": "何超琼去看了五月天演唱会",
+      "onboard_time": 1693199137,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202671,
       "num": 202671,
       "word": "徐若晗哭了",
       "onboard_time": 1693181315,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201587,
-      "num": 201587,
-      "word": "何超琼去看了五月天演唱会",
-      "onboard_time": 1693199137,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 200233,
@@ -1107,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192385,
+      "num": 192385,
+      "word": "明日方舟 中国国家地理",
+      "onboard_time": 1693200576,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190605,
       "num": 190605,
       "word": "花轿喜事今日开播",
@@ -1195,14 +1219,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 173144,
-      "num": 173144,
-      "word": "油酥饼已经工业化生产了",
-      "onboard_time": 1693199437,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 171490,
       "num": 171490,
       "word": "花花醒来见到爷爷好开心",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1693126232,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144858,
+      "num": 144858,
+      "word": "我国拟制定学前教育法",
+      "onboard_time": 1693200756,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 141042,
