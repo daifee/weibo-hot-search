@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693258447041,
+  "endTime": 1693260941670,
   "band_list": [
     {
       "raw_hot": 2405489,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118623,
+      "num": 100272,
+      "word": "董宇辉说不要沉沦在逆境中",
+      "onboard_time": 1693245800,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104626,
       "num": 63121,
       "word": "杨超越采纳了网友的意见",
@@ -417,14 +425,6 @@
       "onboard_time": 1693242143,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 80699,
-      "num": 52437,
-      "word": "董宇辉说不要沉沦在逆境中",
-      "onboard_time": 1693245800,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80280,
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60080,
+      "num": 60080,
+      "word": "大鹏 手机存货解除封印",
+      "onboard_time": 1693255873,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 56023,
       "num": 56023,
       "word": "李念欢丈夫孕期出轨",
@@ -476,18 +484,10 @@
     },
     {
       "raw_hot": 40231,
-      "num": 40231,
+      "num": 44206,
       "word": "张艺兴孤注一掷34亿海报",
       "onboard_time": 1693247118,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 40117,
-      "num": 26555,
-      "word": "大鹏 手机存货解除封印",
-      "onboard_time": 1693255873,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 36548,
-      "num": 26254,
+      "num": 43265,
       "word": "FIFTY FIFTY与经纪公司的专属合约有效",
       "onboard_time": 1693251134,
       "rank": 43,
@@ -516,19 +516,27 @@
     },
     {
       "raw_hot": 34911,
-      "num": 34911,
+      "num": 43531,
       "word": "刘德华 做朋友是不需要理由的",
       "onboard_time": 1693248916,
       "rank": 29,
       "category": "艺人"
     },
     {
-      "raw_hot": 27505,
-      "num": 26294,
+      "raw_hot": 31710,
+      "num": 44124,
       "word": "这种狗我一般会目送200米",
       "onboard_time": 1693250115,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31247,
+      "num": 44069,
+      "word": "陈晓娜扎新剧断崖式分手",
+      "onboard_time": 1693260497,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 26383,
@@ -547,8 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20807,
-      "num": 26155,
+      "raw_hot": 21128,
+      "num": 43162,
       "word": "我国网民规模达10.79亿人",
       "onboard_time": 1693250895,
       "rank": 48,
