@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693222430585,
+  "endTime": 1693225963441,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -73,6 +73,14 @@
       "onboard_time": 1693191396,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1967250,
+      "num": 1967250,
+      "word": "中国在南极意外发现海上粮仓",
+      "onboard_time": 1693221878,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1921993,
@@ -155,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1249926,
+      "num": 1249926,
+      "word": "打九价送seventeen小卡",
+      "onboard_time": 1693222898,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1162747,
       "num": 1162747,
       "word": "谢娜没和张杰合照是不是得洗碗",
@@ -209,6 +225,14 @@
       "onboard_time": 1693197344,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1019598,
+      "num": 1019598,
+      "word": "刘亦菲 高定",
+      "onboard_time": 1693224997,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 968700,
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 667373,
+      "num": 667373,
+      "word": "卧室搭了一间房被爸妈说像茅房",
+      "onboard_time": 1693221576,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 665591,
       "num": 1835285,
       "word": "飞机上女孩口唇发紫麻醉医生出手",
@@ -483,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603851,
+      "num": 603851,
+      "word": "虞书欣清冷白玫瑰",
+      "onboard_time": 1693221936,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 594927,
       "num": 315154,
       "word": "原来捧杀才是最好的必杀技",
@@ -508,7 +548,7 @@
     },
     {
       "raw_hot": 564213,
-      "num": 340816,
+      "num": 342260,
       "word": "浙江12岁女孩确诊甲状腺癌",
       "onboard_time": 1693219477,
       "rank": 30,
@@ -603,14 +643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 499141,
-      "num": 255552,
-      "word": "卧室搭了一间房被爸妈说像茅房",
-      "onboard_time": 1693221576,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 498855,
       "num": 498855,
       "word": "中方敦促美方停止打压中国留学生",
@@ -625,6 +657,14 @@
       "onboard_time": 1693151137,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493343,
+      "num": 493343,
+      "word": "贾冰 丞啊炒蛋教程哥放这了",
+      "onboard_time": 1693221517,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 491054,
@@ -843,20 +883,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390879,
-      "num": 390879,
-      "word": "虞书欣清冷白玫瑰",
-      "onboard_time": 1693221936,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 385867,
       "num": 326175,
       "word": "杭州12岁女孩1米72脊柱歪到要手术",
       "onboard_time": 1693178726,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385785,
+      "num": 385785,
+      "word": "大熊猫发发变女孩",
+      "onboard_time": 1693223737,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 384292,
@@ -907,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372438,
+      "num": 341787,
+      "word": "4万学费宿舍到处是垃圾没法住",
+      "onboard_time": 1693224758,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 369544,
       "num": 324424,
       "word": "景甜20岁到35岁颜值变化",
@@ -945,6 +993,14 @@
       "onboard_time": 1693194760,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 362870,
+      "num": 362870,
+      "word": "谁家女主第一集失业又失恋",
+      "onboard_time": 1693225656,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 360515,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1693199437,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 336098,
+      "num": 336098,
+      "word": "张靓颖说九月有好事宣布",
+      "onboard_time": 1693224219,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 335973,
@@ -1187,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306705,
-      "num": 250235,
-      "word": "中国在南极意外发现海上粮仓",
-      "onboard_time": 1693221878,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306104,
       "num": 306104,
       "word": "东方风云榜红毯",
@@ -1208,6 +1264,14 @@
       "word": "白日梦我",
       "onboard_time": 1693220137,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 302753,
+      "num": 302753,
+      "word": "莲花楼成毅出场自带侠气",
+      "onboard_time": 1693223017,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1419,14 +1483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 259155,
-      "num": 259155,
-      "word": "贾冰 丞啊炒蛋教程哥放这了",
-      "onboard_time": 1693221517,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 258308,
       "num": 258308,
       "word": "女子长期侧躺玩手机致右眼短暂失明",
@@ -1449,6 +1505,14 @@
       "onboard_time": 1693200096,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247521,
+      "num": 247521,
+      "word": "泰勒十万伏特",
+      "onboard_time": 1693224633,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 245516,
@@ -1627,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216595,
+      "num": 216595,
+      "word": "林俊杰文俊辉咖啡伙伴",
+      "onboard_time": 1693225656,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211131,
       "num": 211131,
       "word": "西安警方辟谣网传砸日本车",
@@ -1657,6 +1729,14 @@
       "onboard_time": 1693186899,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 206958,
+      "num": 206958,
+      "word": "冯小刚夸虞书欣台词特别好",
+      "onboard_time": 1693225596,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 206789,
@@ -1697,6 +1777,14 @@
       "onboard_time": 1693181315,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200757,
+      "num": 200757,
+      "word": "原神",
+      "onboard_time": 1693223017,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 200233,
@@ -1923,12 +2011,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180434,
+      "num": 180434,
+      "word": "周深花开忘忧舞台开花了",
+      "onboard_time": 1693225894,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179770,
+      "num": 179770,
+      "word": "杨幂卡其色风衣",
+      "onboard_time": 1693225294,
+      "rank": 36,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 178685,
       "num": 178685,
       "word": "南苏丹三分",
       "onboard_time": 1693212879,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177941,
+      "num": 177941,
+      "word": "魏大勋毽子头",
+      "onboard_time": 1693224997,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 177028,
@@ -2001,6 +2113,14 @@
       "onboard_time": 1693185279,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168615,
+      "num": 168615,
+      "word": "看得出来学校努力过了",
+      "onboard_time": 1693224454,
+      "rank": 42,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 166929,
@@ -2179,6 +2299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136003,
+      "num": 157567,
+      "word": "阴阳师",
+      "onboard_time": 1693224099,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132306,
       "num": 132306,
       "word": "香川照之回应性骚扰事件",
@@ -2251,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123737,
+      "num": 154781,
+      "word": "贾冰演过魏大勋爸爸",
+      "onboard_time": 1693225894,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115766,
       "num": 115766,
       "word": "2023香港小姐决赛",
@@ -2313,6 +2449,14 @@
       "onboard_time": 1693174997,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 81839,
+      "num": 412193,
+      "word": "姐姐在校门口与4岁弟弟含泪惜别",
+      "onboard_time": 1693224099,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75744,
