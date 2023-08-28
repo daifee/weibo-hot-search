@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/01 00:22:33 ~ 2023/08/28 23:34:09
+本榜单时间：2023/08/01 00:22:33 ~ 2023/08/29 00:21:01
 </p>
 </blockquote>
 <p>
@@ -4263,6 +4263,12 @@ TFBOYS演唱会优酷最少进账6550万（热度：1523959）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%BA%9F%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%BD%B1%E5%93%8D%E9%82%BB%E5%9B%BD%23" target="weibo">
+日本核废水排海已经开始影响邻国（热度：1505624）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E7%8A%AF%E4%BA%86%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%A5%B3%E5%84%BF%E7%9A%84%E9%87%8D%E7%BD%AA%23" target="weibo">
 当我犯了江浙沪女儿的重罪（热度：1503915）
 </a>
@@ -6005,12 +6011,6 @@ Jennie疑似与YG解约（热度：1234549）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%B8%9C%E4%B8%A4%E5%9C%B0%E5%87%8C%E6%99%A8%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川山东两地凌晨地震（热度：1213109）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A11.31%E4%BA%BF%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9%E6%88%90%E6%9E%9C%E8%BD%AC%E5%8C%96%E7%8E%87%E4%B8%BA0%23" target="weibo">
-高校1.31亿科研经费成果转化率为0（热度：1211270）
 </a>
 </li>
 

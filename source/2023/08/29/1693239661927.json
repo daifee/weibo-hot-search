@@ -1,0 +1,410 @@
+{
+  "runTime": 1693239661927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1505624,
+        "num": 1505624,
+        "word": "日本核废水排海已经开始影响邻国",
+        "onboard_time": 1693237474,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1499331,
+        "num": 1499331,
+        "word": "留学女儿要300多万美元买房妈妈报警",
+        "onboard_time": 1693230878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151210,
+        "num": 1239051,
+        "word": "亚运村里的江浙菜品有多馋人",
+        "onboard_time": 1693233879,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030219,
+        "num": 1030219,
+        "word": "夭玹 改写结局",
+        "onboard_time": 1693236815,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821762,
+        "num": 821762,
+        "word": "大量日本骚扰电话打进我驻日使领馆",
+        "onboard_time": 1693217617,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609986,
+        "num": 609986,
+        "word": "2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸",
+        "onboard_time": 1693235380,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559902,
+        "num": 559902,
+        "word": "刘亦菲 高定",
+        "onboard_time": 1693224997,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 460681,
+        "num": 460681,
+        "word": "你什么档次跟国宝一个飞机",
+        "onboard_time": 1693234360,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440829,
+        "num": 440829,
+        "word": "82岁老人用20万存款为女儿女婿买首饰",
+        "onboard_time": 1693237054,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418759,
+        "num": 418759,
+        "word": "男子收到儿子饭卡消费记录后泪奔",
+        "onboard_time": 1693236037,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891040,
+        "num": 414165,
+        "word": "吴磊被骑友大哥要微信",
+        "onboard_time": 1693228419,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408381,
+        "num": 408381,
+        "word": "鞠婧祎被停车杆打到",
+        "onboard_time": 1693233041,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382637,
+        "num": 382637,
+        "word": "肖战郭靖概念图",
+        "onboard_time": 1693234239,
+        "rank": 12,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 374297,
+        "num": 374297,
+        "word": "赵本山的新剧很讽刺",
+        "onboard_time": 1693235438,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363962,
+        "num": 363962,
+        "word": "金所炫黄旼炫吻戏",
+        "onboard_time": 1693236217,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352932,
+        "num": 352932,
+        "word": "日本已排放超1000吨核污染水",
+        "onboard_time": 1693213118,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332077,
+        "num": 332077,
+        "word": "中国在南极意外发现海上粮仓",
+        "onboard_time": 1693221878,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320064,
+        "num": 320064,
+        "word": "浙江12岁女孩确诊甲状腺癌",
+        "onboard_time": 1693219477,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265099,
+        "num": 265099,
+        "word": "长相思",
+        "onboard_time": 1693236695,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237694,
+        "num": 237694,
+        "word": "谁家女主第一集失业又失恋",
+        "onboard_time": 1693225656,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506493,
+        "num": 237461,
+        "word": "孔雪儿网红感",
+        "onboard_time": 1693237774,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 347972,
+        "num": 230852,
+        "word": "oner申请吉尼斯世界纪录签售会最长时间",
+        "onboard_time": 1693237474,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343333,
+        "num": 220769,
+        "word": "考研暂停 爱笔去世",
+        "onboard_time": 1693211195,
+        "rank": 22,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 308244,
+        "num": 212156,
+        "word": "任敏接发了",
+        "onboard_time": 1693233818,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 211377,
+        "num": 211377,
+        "word": "男孩带录取通知书与服刑父亲见面",
+        "onboard_time": 1693233400,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 229002,
+        "num": 209999,
+        "word": "打九价送seventeen小卡",
+        "onboard_time": 1693222898,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224071,
+        "num": 209789,
+        "word": "房东的猫把云烟穿身上了",
+        "onboard_time": 1693229498,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208290,
+        "num": 208290,
+        "word": "王鹤棣直播",
+        "onboard_time": 1693238255,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206355,
+        "num": 206355,
+        "word": "宝宝拒绝睡觉却被强制关机",
+        "onboard_time": 1693233761,
+        "rank": 28,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 200413,
+        "num": 200413,
+        "word": "量化私募大佬2.85亿上海买房",
+        "onboard_time": 1693227576,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191332,
+        "num": 191332,
+        "word": "王鹤棣田曦薇搂腰吻戏",
+        "onboard_time": 1693215577,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185682,
+        "num": 185682,
+        "word": "谢娜找杨迪要通告费",
+        "onboard_time": 1693236157,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181900,
+        "num": 181900,
+        "word": "董明珠怒斥员工吃着碗里看着锅里",
+        "onboard_time": 1693207234,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180548,
+        "num": 180548,
+        "word": "苏醒cue0713披荆斩棘小分队",
+        "onboard_time": 1693231960,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177587,
+        "num": 177587,
+        "word": "女子半月被缅北男友骗光850万",
+        "onboard_time": 1693215996,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177302,
+        "num": 177302,
+        "word": "4万学费宿舍到处是垃圾没法住",
+        "onboard_time": 1693224758,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 174430,
+        "num": 174430,
+        "word": "虞书欣横店上班穿搭",
+        "onboard_time": 1693234118,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 173350,
+        "num": 173350,
+        "word": "日本福岛附近海域4.8级地震",
+        "onboard_time": 1693216898,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171744,
+        "num": 171744,
+        "word": "于适名言再添一句",
+        "onboard_time": 1693234899,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155654,
+        "num": 155654,
+        "word": "贵州省委原书记孙志刚被查",
+        "onboard_time": 1693229438,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167475,
+        "num": 154671,
+        "word": "黎光李慕嘉分手后更好嗑了",
+        "onboard_time": 1693239451,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163030,
+        "num": 154093,
+        "word": "马嘉祺说会给大家创造更多见面的机会",
+        "onboard_time": 1693239572,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151036,
+        "num": 151036,
+        "word": "女童走丢淡定指挥警察送其回家",
+        "onboard_time": 1693238133,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146510,
+        "num": 146510,
+        "word": "郭碧婷越来越像向太了",
+        "onboard_time": 1693203516,
+        "rank": 43,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 142552,
+        "num": 142552,
+        "word": "冯小刚夸虞书欣台词特别好",
+        "onboard_time": 1693225596,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142252,
+        "num": 142252,
+        "word": "吴磊骑车冷到五官都在用力",
+        "onboard_time": 1693227999,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138078,
+        "num": 138078,
+        "word": "ins全球影响力TOP100",
+        "onboard_time": 1693216059,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 96586,
+        "num": 138026,
+        "word": "开了33年的特色生腌",
+        "onboard_time": 1693234539,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 80280,
+        "num": 138005,
+        "word": "WB晋级败者组第三轮",
+        "onboard_time": 1693234479,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64912,
+        "num": 137996,
+        "word": "探寻烟火成都中的幸福感",
+        "onboard_time": 1693239152,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好建设美丽新疆#"
+    }
+  }
+}
