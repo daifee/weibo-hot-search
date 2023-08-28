@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693253846532,
+  "endTime": 1693254858245,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -3193,6 +3193,14 @@
       "onboard_time": 1693250895,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 18117,
+      "num": 20750,
+      "word": "去大海开盲盒",
+      "onboard_time": 1693254553,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 18028,
