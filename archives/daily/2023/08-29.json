@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693240620077,
+  "endTime": 1693242898936,
   "band_list": [
     {
       "raw_hot": 2405489,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99011,
+      "num": 104311,
+      "word": "黑执事动画中最帅的执事",
+      "onboard_time": 1693240350,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 96586,
       "num": 138026,
       "word": "开了33年的特色生腌",
@@ -403,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 69211,
+      "num": 69211,
+      "word": "韩国渔民心灰意冷",
+      "onboard_time": 1693242863,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64912,
       "num": 137996,
       "word": "探寻烟火成都中的幸福感",
@@ -411,12 +427,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 53928,
-      "num": 104311,
-      "word": "黑执事动画中最帅的执事",
-      "onboard_time": 1693240350,
+      "raw_hot": 50889,
+      "num": 65303,
+      "word": "10款椰子水测评",
+      "onboard_time": 1693242143,
       "rank": 49,
-      "category": "动漫"
+      "category": "美食"
     }
   ],
   "hotgov_list": [
