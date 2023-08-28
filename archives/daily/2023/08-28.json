@@ -1,7 +1,15 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693179221793,
+  "endTime": 1693185053581,
   "band_list": [
+    {
+      "raw_hot": 9894081,
+      "num": 9894081,
+      "word": "请大英博物馆无偿归还中国文物",
+      "onboard_time": 1693179993,
+      "rank": 0,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 2017418,
       "num": 2017418,
@@ -9,6 +17,22 @@
       "onboard_time": 1693149700,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1716784,
+      "num": 1716784,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1693183119,
+      "rank": 1,
+      "category": "网红,情感"
+    },
+    {
+      "raw_hot": 1300340,
+      "num": 592143,
+      "word": "张杰赵丽颖合照",
+      "onboard_time": 1693180955,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 1159413,
@@ -25,6 +49,14 @@
       "onboard_time": 1693149763,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1047594,
+      "num": 1047594,
+      "word": "慕光之城分手",
+      "onboard_time": 1693179389,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 968700,
@@ -44,11 +76,19 @@
     },
     {
       "raw_hot": 858211,
-      "num": 299822,
+      "num": 329613,
       "word": "俄海岸惊现深海恐怖怪鱼",
       "onboard_time": 1693147419,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 768094,
+      "num": 531142,
+      "word": "魏大勋认证魏大勋的大不发音",
+      "onboard_time": 1693181557,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 747437,
@@ -57,6 +97,38 @@
       "onboard_time": 1693150181,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741232,
+      "num": 741232,
+      "word": "A股",
+      "onboard_time": 1693180531,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 717502,
+      "num": 717502,
+      "word": "中学小卖部5年租金超900万元",
+      "onboard_time": 1693180833,
+      "rank": 6,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 702482,
+      "num": 702482,
+      "word": "胡歌回应不拍戏风波",
+      "onboard_time": 1693178186,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 662387,
+      "num": 662387,
+      "word": "中国烟草回应卷烟涨价传言",
+      "onboard_time": 1693183119,
+      "rank": 8,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 646647,
@@ -91,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622771,
+      "num": 622771,
+      "word": "韩政府让企业食堂多吃海鲜引不满",
+      "onboard_time": 1693181982,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593651,
       "num": 593651,
       "word": "王怡然最上镜小姐",
@@ -105,14 +185,6 @@
       "onboard_time": 1693151256,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 559505,
-      "num": 230107,
-      "word": "胡歌回应不拍戏风波",
-      "onboard_time": 1693178186,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 508794,
@@ -147,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445133,
+      "num": 445133,
+      "word": "女子打包40多桌婚宴剩菜喂流浪猫狗",
+      "onboard_time": 1693178967,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436975,
       "num": 291693,
       "word": "一条离婚了还带娃的狗狗",
@@ -161,6 +241,14 @@
       "onboard_time": 1693133492,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 404908,
+      "num": 404908,
+      "word": "胡兵私服审美",
+      "onboard_time": 1693180955,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 403656,
@@ -179,6 +267,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 392485,
+      "num": 392485,
+      "word": "民警酒后足浴店殴打残疾工作人员",
+      "onboard_time": 1693178304,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385867,
+      "num": 326175,
+      "word": "杭州12岁女孩1米72脊柱歪到要手术",
+      "onboard_time": 1693178726,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379818,
       "num": 379818,
       "word": "2023香港小姐获奖名单",
@@ -193,6 +297,14 @@
       "onboard_time": 1693149636,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369544,
+      "num": 324424,
+      "word": "景甜20岁到35岁颜值变化",
+      "onboard_time": 1693179449,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 354059,
@@ -211,12 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343256,
+      "num": 343256,
+      "word": "唐尚珺宣布继续复读",
+      "onboard_time": 1693184318,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335973,
       "num": 290987,
       "word": "张婧仪抽烟镜头",
       "onboard_time": 1693138835,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330773,
+      "num": 330773,
+      "word": "台风",
+      "onboard_time": 1693181197,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318960,
@@ -227,12 +355,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316399,
+      "num": 316399,
+      "word": "一个人吃饭得到的最大的尊重",
+      "onboard_time": 1693181075,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 314472,
       "num": 314472,
       "word": "羽生结弦热舞视频",
       "onboard_time": 1693151433,
       "rank": 17,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 312834,
+      "num": 312834,
+      "word": "中国烟草辟谣卷烟将涨价",
+      "onboard_time": 1693183298,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310999,
@@ -259,12 +403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300544,
+      "num": 300544,
+      "word": "导演说张晚意长得周正",
+      "onboard_time": 1693179510,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300189,
       "num": 300189,
       "word": "婚前冲动买房杭州姑娘肠子悔青",
       "onboard_time": 1693124919,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291707,
+      "num": 291707,
+      "word": "魏大勋报了被白敬亭关门外的仇",
+      "onboard_time": 1693179449,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 284575,
@@ -281,6 +441,14 @@
       "onboard_time": 1693144539,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265434,
+      "num": 265434,
+      "word": "范丞丞 真正的孟男",
+      "onboard_time": 1693183838,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 258308,
@@ -323,20 +491,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 215085,
-      "num": 183272,
-      "word": "杭州12岁女孩1米72脊柱歪到要手术",
-      "onboard_time": 1693178726,
-      "rank": 23,
+      "raw_hot": 224366,
+      "num": 224366,
+      "word": "Lisa托脸wink",
+      "onboard_time": 1693181916,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211131,
+      "num": 211131,
+      "word": "西安警方辟谣网传砸日本车",
+      "onboard_time": 1693181495,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212516,
-      "num": 212516,
-      "word": "民警酒后足浴店殴打残疾工作人员",
-      "onboard_time": 1693178304,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 197438,
+      "num": 197438,
+      "word": "开学",
+      "onboard_time": 1693184075,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 195938,
@@ -355,12 +531,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193435,
+      "num": 193435,
+      "word": "烧仓房是上位者的现实",
+      "onboard_time": 1693183961,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190152,
+      "num": 190152,
+      "word": "白桃星座",
+      "onboard_time": 1693182458,
+      "rank": 40,
+      "category": "网红,情感"
+    },
+    {
       "raw_hot": 184588,
       "num": 184588,
       "word": "李宇春吴青峰合唱小情歌",
       "onboard_time": 1693152272,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 181980,
+      "num": 181980,
+      "word": "徐若晗哭了",
+      "onboard_time": 1693181315,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181452,
+      "num": 181452,
+      "word": "脱口秀大会文字版",
+      "onboard_time": 1693177884,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179662,
+      "num": 179662,
+      "word": "杨超越主打一个不服输",
+      "onboard_time": 1693183599,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 177028,
@@ -395,11 +611,19 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 157275,
-      "num": 157275,
-      "word": "脱口秀大会文字版",
-      "onboard_time": 1693177884,
-      "rank": 39,
+      "raw_hot": 161150,
+      "num": 161150,
+      "word": "亲戚对你的态度其实取决于父母",
+      "onboard_time": 1693158021,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 152930,
+      "num": 152930,
+      "word": "披荆斩棘投票",
+      "onboard_time": 1693179150,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -475,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122692,
-      "num": 122692,
-      "word": "亲戚对你的态度其实取决于父母",
-      "onboard_time": 1693158021,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 115766,
       "num": 115766,
       "word": "2023香港小姐决赛",
@@ -515,14 +731,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 99325,
-      "num": 99325,
-      "word": "女子打包40多桌婚宴剩菜喂流浪猫狗",
-      "onboard_time": 1693178967,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91836,
       "num": 91836,
       "word": "万茜这个镜头看哭了多少妈妈",
@@ -531,12 +739,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 79630,
-      "num": 79630,
-      "word": "披荆斩棘投票",
-      "onboard_time": 1693179150,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 75744,
+      "num": 1370668,
+      "word": "神十六乘组有自己的Tony老师",
+      "onboard_time": 1693140697,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75243,
@@ -561,14 +769,6 @@
       "onboard_time": 1693170733,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 52119,
-      "num": 991520,
-      "word": "神十六乘组有自己的Tony老师",
-      "onboard_time": 1693140697,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47614,
