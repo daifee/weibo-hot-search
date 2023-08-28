@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693233222377,
+  "endTime": 1693235844503,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1633,6 +1633,14 @@
       "onboard_time": 1691472217,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2609904,
+      "num": 2609904,
+      "word": "留学女儿要300多万美元买房妈妈报警",
+      "onboard_time": 1693230878,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2606359,
@@ -3281,14 +3289,6 @@
       "onboard_time": 1691451751,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1978455,
-      "num": 1978455,
-      "word": "留学女儿要300多万美元买房妈妈报警",
-      "onboard_time": 1693230878,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1975822,
@@ -19379,6 +19379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 637945,
+      "num": 637945,
+      "word": "肖战郭靖概念图",
+      "onboard_time": 1693234239,
+      "rank": 6,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 637874,
       "num": 637874,
       "word": "中国男篮vs塞尔维亚男篮",
@@ -20105,6 +20113,14 @@
       "onboard_time": 1691748574,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 617278,
+      "num": 323656,
+      "word": "任敏接发了",
+      "onboard_time": 1693233818,
+      "rank": 20,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 617230,
@@ -23843,6 +23859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542694,
+      "num": 312432,
+      "word": "李念欢丈夫孕期出轨",
+      "onboard_time": 1693232496,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 542665,
       "num": 729843,
       "word": "终于可以乘高铁去荔波了",
@@ -24649,6 +24673,14 @@
       "onboard_time": 1690871854,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 526820,
+      "num": 526820,
+      "word": "男孩带录取通知书与服刑父亲见面",
+      "onboard_time": 1693233400,
+      "rank": 7,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 526629,
@@ -27411,14 +27443,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 481347,
-      "num": 311191,
-      "word": "李念欢丈夫孕期出轨",
-      "onboard_time": 1693232496,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 481310,
       "num": 481310,
       "word": "因为没见过大海他报了大连理工",
@@ -28739,6 +28763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459482,
+      "num": 459482,
+      "word": "你什么档次跟国宝一个飞机",
+      "onboard_time": 1693234360,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459090,
       "num": 357987,
       "word": "长相思一个饭桌7场戏",
@@ -29153,6 +29185,14 @@
       "onboard_time": 1691851425,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 454307,
+      "num": 454307,
+      "word": "苏醒cue0713披荆斩棘小分队",
+      "onboard_time": 1693231960,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 454265,
@@ -31921,6 +31961,14 @@
       "onboard_time": 1692269622,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417066,
+      "num": 280547,
+      "word": "鞠婧祎被停车杆打到",
+      "onboard_time": 1693233041,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 417006,
@@ -35651,6 +35699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370992,
+      "num": 249011,
+      "word": "宝宝拒绝睡觉却被强制关机",
+      "onboard_time": 1693233761,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 370924,
       "num": 286747,
       "word": "父母因孩子贪玩将其丢在机场走了",
@@ -35905,14 +35961,6 @@
       "onboard_time": 1691062175,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367993,
-      "num": 367993,
-      "word": "苏醒cue0713披荆斩棘小分队",
-      "onboard_time": 1693231960,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 367931,
@@ -43915,6 +43963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291280,
+      "num": 248440,
+      "word": "赵本山的新剧很讽刺",
+      "onboard_time": 1693235438,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291262,
       "num": 254181,
       "word": "邓为直播衣服是不是穿反了",
@@ -44284,7 +44340,7 @@
     },
     {
       "raw_hot": 288556,
-      "num": 239620,
+      "num": 279850,
       "word": "时代少年团躺着真舒服舞台",
       "onboard_time": 1693232978,
       "rank": 30,
@@ -49435,6 +49491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250023,
+      "num": 250023,
+      "word": "虞书欣横店上班穿搭",
+      "onboard_time": 1693234118,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 249885,
       "num": 249885,
       "word": "山东地震多地收到预警",
@@ -49657,6 +49721,14 @@
       "onboard_time": 1690956455,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247798,
+      "num": 247798,
+      "word": "2岁男孩走丢告诉民警我爸爸叫妈妈妈妈叫爸爸",
+      "onboard_time": 1693235380,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247782,
@@ -52403,6 +52475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229902,
+      "num": 229902,
+      "word": "刘亦菲创维见面会",
+      "onboard_time": 1693230698,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229891,
       "num": 229891,
       "word": "徐明浩兰芝见面会",
@@ -53321,14 +53401,6 @@
       "onboard_time": 1691825196,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223884,
-      "num": 223884,
-      "word": "刘亦菲创维见面会",
-      "onboard_time": 1693230698,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 223825,
@@ -57315,6 +57387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205232,
+      "num": 205232,
+      "word": "于适名言再添一句",
+      "onboard_time": 1693234899,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205230,
       "num": 209752,
       "word": "爆笑的GOING SEVENTEEN飞镖游戏",
@@ -57859,6 +57939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203445,
+      "num": 203445,
+      "word": "刘宇宁最受欢迎男歌手",
+      "onboard_time": 1693233340,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203360,
       "num": 203360,
       "word": "北京消防员救灾中被洪水冲走殉职",
@@ -58321,14 +58409,6 @@
       "onboard_time": 1692422316,
       "rank": 39,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 201793,
-      "num": 201793,
-      "word": "鞠婧祎被停车杆打到",
-      "onboard_time": 1693233041,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 201709,
@@ -64339,6 +64419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175516,
+      "num": 175516,
+      "word": "和李莲花的漫长告别",
+      "onboard_time": 1693235317,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175368,
       "num": 175368,
       "word": "杨千嬅演唱会",
@@ -64385,6 +64473,14 @@
       "onboard_time": 1693204413,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174789,
+      "num": 174789,
+      "word": "开了33年的特色生腌",
+      "onboard_time": 1693234539,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 174748,
@@ -65273,6 +65369,14 @@
       "onboard_time": 1691776161,
       "rank": 6,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 167249,
+      "num": 167249,
+      "word": "WB晋级败者组第三轮",
+      "onboard_time": 1693234479,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 166929,
@@ -66657,6 +66761,14 @@
       "onboard_time": 1690816057,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153037,
+      "num": 914524,
+      "word": "亚运村里的江浙菜品有多馋人",
+      "onboard_time": 1693233879,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152930,
