@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693254858245,
+  "endTime": 1693257267195,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -3020,7 +3020,7 @@
     },
     {
       "raw_hot": 80699,
-      "num": 48913,
+      "num": 49372,
       "word": "董宇辉说不要沉沦在逆境中",
       "onboard_time": 1693245800,
       "rank": 47,
@@ -3153,6 +3153,14 @@
       "onboard_time": 1693248916,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30908,
+      "num": 23381,
+      "word": "大鹏 手机存货解除封印",
+      "onboard_time": 1693255873,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 27505,
