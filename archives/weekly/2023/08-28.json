@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693210892245,
+  "endTime": 1693211660556,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -11,8 +11,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 2734584,
-      "num": 2734584,
+      "raw_hot": 2939723,
+      "num": 2939723,
       "word": "董明珠怒斥员工吃着碗里看着锅里",
       "onboard_time": 1693207234,
       "rank": 11,
@@ -57,6 +57,14 @@
       "onboard_time": 1693183119,
       "rank": 1,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 1675890,
+      "num": 1675890,
+      "word": "老板要求转账198万会计立即报警",
+      "onboard_time": 1693209758,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1672535,
@@ -153,14 +161,6 @@
       "onboard_time": 1693197344,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1000927,
-      "num": 214210,
-      "word": "老板要求转账198万会计立即报警",
-      "onboard_time": 1693209758,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 968700,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 594927,
-      "num": 314596,
+      "num": 315154,
       "word": "原来捧杀才是最好的必杀技",
       "onboard_time": 1693204594,
       "rank": 20,
@@ -571,20 +571,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 427914,
+      "num": 427914,
+      "word": "万和 孙颖莎",
+      "onboard_time": 1693208138,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 425211,
       "num": 425211,
       "word": "来广东治好了穿衣焦虑",
       "onboard_time": 1693197103,
       "rank": 42,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 421796,
-      "num": 421796,
-      "word": "万和 孙颖莎",
-      "onboard_time": 1693208138,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 416260,
@@ -659,12 +659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386325,
+      "num": 386325,
+      "word": "男子在缅逃跑身后步枪扫射",
+      "onboard_time": 1693209577,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385867,
       "num": 326175,
       "word": "杭州12岁女孩1米72脊柱歪到要手术",
       "onboard_time": 1693178726,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384674,
+      "num": 384674,
+      "word": "中国男篮vs南苏丹男篮",
+      "onboard_time": 1693209577,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 384292,
@@ -747,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 354839,
+      "num": 354839,
+      "word": "魏大勋白敬亭喝了同一碗奶茶",
+      "onboard_time": 1693206635,
+      "rank": 34,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 354059,
       "num": 354059,
       "word": "AG蝉联世锦赛冠军",
@@ -755,12 +779,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 352415,
-      "num": 352415,
-      "word": "魏大勋白敬亭喝了同一碗奶茶",
-      "onboard_time": 1693206635,
-      "rank": 34,
-      "category": "综艺,幽默"
+      "raw_hot": 349938,
+      "num": 339721,
+      "word": "当我爸知道我穿的裤子只要69",
+      "onboard_time": 1693208376,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 346585,
+      "num": 204648,
+      "word": "考研暂停 爱笔去世",
+      "onboard_time": 1693211195,
+      "rank": 30,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 345959,
@@ -788,7 +820,7 @@
     },
     {
       "raw_hot": 342749,
-      "num": 295502,
+      "num": 383151,
       "word": "日本核污染水排海最新情况",
       "onboard_time": 1693203695,
       "rank": 49,
@@ -875,14 +907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 315079,
-      "num": 315079,
-      "word": "男子在缅逃跑身后步枪扫射",
-      "onboard_time": 1693209577,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314472,
       "num": 314472,
       "word": "羽生结弦热舞视频",
@@ -905,6 +929,14 @@
       "onboard_time": 1693147299,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306104,
+      "num": 306104,
+      "word": "东方风云榜红毯",
+      "onboard_time": 1693210656,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 302206,
@@ -945,14 +977,6 @@
       "onboard_time": 1693124919,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299338,
-      "num": 299338,
-      "word": "中国男篮vs南苏丹男篮",
-      "onboard_time": 1693209577,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 295932,
@@ -1033,14 +1057,6 @@
       "onboard_time": 1693192177,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277946,
-      "num": 277946,
-      "word": "当我爸知道我穿的裤子只要69",
-      "onboard_time": 1693208376,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 276542,
@@ -1395,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191352,
+      "num": 191352,
+      "word": "中方敦促美方停止打压中国留学生",
+      "onboard_time": 1693211016,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 190605,
       "num": 190605,
       "word": "花轿喜事今日开播",
@@ -1449,14 +1473,6 @@
       "onboard_time": 1693152272,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 183958,
-      "num": 183958,
-      "word": "东方风云榜红毯",
-      "onboard_time": 1693210656,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 183774,
@@ -1515,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170606,
+      "num": 170606,
+      "word": "男篮世界杯",
+      "onboard_time": 1693211496,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170528,
       "num": 170528,
       "word": "燃冬",
@@ -1547,6 +1571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164839,
+      "num": 164839,
+      "word": "于适比赛倒贴钱",
+      "onboard_time": 1693210777,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161566,
       "num": 161566,
       "word": "如何让儿子在学校社死",
@@ -1577,6 +1609,22 @@
       "onboard_time": 1693206815,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157149,
+      "num": 157149,
+      "word": "甲虫咬出来的蛇骨架",
+      "onboard_time": 1693211376,
+      "rank": 42,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 154904,
+      "num": 154904,
+      "word": "东方风云榜节目单",
+      "onboard_time": 1693211496,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 153530,
@@ -1659,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142547,
+      "num": 142547,
+      "word": "巡海员经常投喂的鲨鱼带来了惊喜",
+      "onboard_time": 1693210417,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141296,
       "num": 141296,
       "word": "封神",
@@ -1675,12 +1731,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133622,
-      "num": 133622,
-      "word": "于适比赛倒贴钱",
-      "onboard_time": 1693210777,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 139163,
+      "num": 139163,
+      "word": "八九月份想辞职的情绪很严重",
+      "onboard_time": 1693211438,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 132306,
@@ -1705,6 +1761,14 @@
       "onboard_time": 1693154190,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129085,
+      "num": 129085,
+      "word": "专业划水的大熊猫",
+      "onboard_time": 1693211316,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 127670,
@@ -1737,14 +1801,6 @@
       "onboard_time": 1693177644,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123801,
-      "num": 123801,
-      "word": "巡海员经常投喂的鲨鱼带来了惊喜",
-      "onboard_time": 1693210417,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115766,
@@ -1795,6 +1851,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 92099,
+      "num": 398545,
+      "word": "管泽元被偷家了",
+      "onboard_time": 1693209634,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 91836,
       "num": 91836,
       "word": "万茜这个镜头看哭了多少妈妈",
@@ -1817,14 +1881,6 @@
       "onboard_time": 1693158558,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72198,
-      "num": 398545,
-      "word": "管泽元被偷家了",
-      "onboard_time": 1693209634,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 70837,
@@ -1860,7 +1916,7 @@
     },
     {
       "raw_hot": 45371,
-      "num": 1090012,
+      "num": 1292092,
       "word": "多姿多彩多元多样是世界应有的样子",
       "onboard_time": 1693190735,
       "rank": 2,

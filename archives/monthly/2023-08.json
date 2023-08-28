@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693210892245,
+  "endTime": 1693211660556,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -1067,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2939723,
+      "num": 2939723,
+      "word": "董明珠怒斥员工吃着碗里看着锅里",
+      "onboard_time": 1693207234,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2938603,
       "num": 2938603,
       "word": "日媒宣称日本针对中方措施开展外交攻势",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1691375974,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 2734584,
-      "num": 2734584,
-      "word": "董明珠怒斥员工吃着碗里看着锅里",
-      "onboard_time": 1693207234,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2729773,
@@ -4481,6 +4481,14 @@
       "onboard_time": 1691043276,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1675890,
+      "num": 1675890,
+      "word": "老板要求转账198万会计立即报警",
+      "onboard_time": 1693209758,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1672535,
@@ -10489,14 +10497,6 @@
       "onboard_time": 1691294260,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1000927,
-      "num": 214210,
-      "word": "老板要求转账198万会计立即报警",
-      "onboard_time": 1693209758,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1000512,
@@ -20796,7 +20796,7 @@
     },
     {
       "raw_hot": 594927,
-      "num": 314596,
+      "num": 315154,
       "word": "原来捧杀才是最好的必杀技",
       "onboard_time": 1693204594,
       "rank": 20,
@@ -30691,6 +30691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 427914,
+      "num": 427914,
+      "word": "万和 孙颖莎",
+      "onboard_time": 1693208138,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427905,
       "num": 427905,
       "word": "长相思是真听劝",
@@ -31201,14 +31209,6 @@
       "onboard_time": 1693098992,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 421796,
-      "num": 421796,
-      "word": "万和 孙颖莎",
-      "onboard_time": 1693208138,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 421692,
@@ -33955,6 +33955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386325,
+      "num": 386325,
+      "word": "男子在缅逃跑身后步枪扫射",
+      "onboard_time": 1693209577,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386228,
       "num": 386228,
       "word": "Ella时隔9年再拍新剧",
@@ -34129,6 +34137,14 @@
       "onboard_time": 1692971807,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 384674,
+      "num": 384674,
+      "word": "中国男篮vs南苏丹男篮",
+      "onboard_time": 1693209577,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 384599,
@@ -36731,6 +36747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354839,
+      "num": 354839,
+      "word": "魏大勋白敬亭喝了同一碗奶茶",
+      "onboard_time": 1693206635,
+      "rank": 34,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 354808,
       "num": 228118,
       "word": "杨紫檀健次都没听过邓为唱歌",
@@ -36995,14 +37019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 352415,
-      "num": 352415,
-      "word": "魏大勋白敬亭喝了同一碗奶茶",
-      "onboard_time": 1693206635,
-      "rank": 34,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 352405,
       "num": 352405,
       "word": "把e人逼成i人的夏天",
@@ -37217,6 +37233,14 @@
       "onboard_time": 1692449736,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349938,
+      "num": 339721,
+      "word": "当我爸知道我穿的裤子只要69",
+      "onboard_time": 1693208376,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 349927,
@@ -37569,6 +37593,14 @@
       "onboard_time": 1690902338,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 346585,
+      "num": 204648,
+      "word": "考研暂停 爱笔去世",
+      "onboard_time": 1693211195,
+      "rank": 30,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 346354,
@@ -40643,14 +40675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315079,
-      "num": 315079,
-      "word": "男子在缅逃跑身后步枪扫射",
-      "onboard_time": 1693209577,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315072,
       "num": 315072,
       "word": "杨紫张晚意原声率",
@@ -41579,6 +41603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 306104,
+      "num": 306104,
+      "word": "东方风云榜红毯",
+      "onboard_time": 1693210656,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306056,
       "num": 306056,
       "word": "英格兰女足",
@@ -42385,14 +42417,6 @@
       "onboard_time": 1692243036,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 299338,
-      "num": 299338,
-      "word": "中国男篮vs南苏丹男篮",
-      "onboard_time": 1693209577,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 299337,
@@ -45145,14 +45169,6 @@
       "onboard_time": 1692701976,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277946,
-      "num": 277946,
-      "word": "当我爸知道我穿的裤子只要69",
-      "onboard_time": 1693208376,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 277910,
@@ -60787,6 +60803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191352,
+      "num": 191352,
+      "word": "中方敦促美方停止打压中国留学生",
+      "onboard_time": 1693211016,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 191322,
       "num": 191322,
       "word": "贵州荔波旅游",
@@ -62417,14 +62441,6 @@
       "onboard_time": 1692420813,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183958,
-      "num": 183958,
-      "word": "东方风云榜红毯",
-      "onboard_time": 1693210656,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 183948,
@@ -64067,6 +64083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170606,
+      "num": 170606,
+      "word": "男篮世界杯",
+      "onboard_time": 1693211496,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170373,
       "num": 170373,
       "word": "切尔西vs利物浦",
@@ -64657,6 +64681,14 @@
       "onboard_time": 1692759398,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164839,
+      "num": 164839,
+      "word": "于适比赛倒贴钱",
+      "onboard_time": 1693210777,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 164739,
@@ -65467,6 +65499,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 157149,
+      "num": 157149,
+      "word": "甲虫咬出来的蛇骨架",
+      "onboard_time": 1693211376,
+      "rank": 42,
+      "category": "自然"
+    },
+    {
       "raw_hot": 157084,
       "num": 157084,
       "word": "我和朋友维持友谊的方式belike",
@@ -65649,6 +65689,14 @@
       "onboard_time": 1693068329,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154904,
+      "num": 154904,
+      "word": "东方风云榜节目单",
+      "onboard_time": 1693211496,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 154868,
@@ -66691,6 +66739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142547,
+      "num": 142547,
+      "word": "巡海员经常投喂的鲨鱼带来了惊喜",
+      "onboard_time": 1693210417,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142541,
       "num": 115679,
       "word": "你的25岁是什么样的",
@@ -67009,6 +67065,14 @@
       "onboard_time": 1691759918,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139163,
+      "num": 139163,
+      "word": "八九月份想辞职的情绪很严重",
+      "onboard_time": 1693211438,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 138891,
@@ -67361,14 +67425,6 @@
       "onboard_time": 1691220399,
       "rank": 46,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 133622,
-      "num": 133622,
-      "word": "于适比赛倒贴钱",
-      "onboard_time": 1693210777,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 133072,
@@ -67795,6 +67851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129085,
+      "num": 129085,
+      "word": "专业划水的大熊猫",
+      "onboard_time": 1693211316,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128761,
       "num": 128761,
       "word": "Angelababy说自己是瑶本瑶",
@@ -68081,14 +68145,6 @@
       "onboard_time": 1691132015,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123801,
-      "num": 123801,
-      "word": "巡海员经常投喂的鲨鱼带来了惊喜",
-      "onboard_time": 1693210417,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123667,
@@ -69731,6 +69787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92099,
+      "num": 398545,
+      "word": "管泽元被偷家了",
+      "onboard_time": 1693209634,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 91979,
       "num": 1149348,
       "word": "暴雨洪水过后的安全及防疫提醒",
@@ -70729,14 +70793,6 @@
       "onboard_time": 1692727878,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 72198,
-      "num": 398545,
-      "word": "管泽元被偷家了",
-      "onboard_time": 1693209634,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 72093,
@@ -71916,7 +71972,7 @@
     },
     {
       "raw_hot": 45371,
-      "num": 1090012,
+      "num": 1292092,
       "word": "多姿多彩多元多样是世界应有的样子",
       "onboard_time": 1693190735,
       "rank": 2,
