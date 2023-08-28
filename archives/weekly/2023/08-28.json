@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693250005795,
+  "endTime": 1693251243085,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -3131,20 +3131,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37431,
+      "num": 37431,
+      "word": "感觉上班好像在扮演大人",
+      "onboard_time": 1693249334,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 34911,
       "num": 34911,
       "word": "刘德华 做朋友是不需要理由的",
       "onboard_time": 1693248916,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29574,
-      "num": 30821,
-      "word": "感觉上班好像在扮演大人",
-      "onboard_time": 1693249334,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 26383,
@@ -3155,12 +3155,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23411,
+      "raw_hot": 26007,
+      "num": 26007,
+      "word": "FIFTY FIFTY与经纪公司的专属合约有效",
+      "onboard_time": 1693251134,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24771,
       "num": 30792,
       "word": "都市接到办热线037165732233",
       "onboard_time": 1693247421,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24232,
+      "num": 24232,
+      "word": "这种狗我一般会目送200米",
+      "onboard_time": 1693250115,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 23326,
@@ -3169,6 +3185,14 @@
       "onboard_time": 1693188036,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20567,
+      "num": 23542,
+      "word": "我国网民规模达10.79亿人",
+      "onboard_time": 1693250895,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 18028,
