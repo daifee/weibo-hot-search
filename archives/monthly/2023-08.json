@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693186259517,
+  "endTime": 1693188274960,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -8299,6 +8299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1160513,
+      "num": 1160513,
+      "word": "A股",
+      "onboard_time": 1691119597,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1159755,
       "num": 1159755,
       "word": "沈梦辰听到林允吐了的反应",
@@ -9817,14 +9825,6 @@
       "onboard_time": 1691633253,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1043859,
-      "num": 1043859,
-      "word": "A股",
-      "onboard_time": 1691119597,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 1043795,
@@ -17123,6 +17123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 691641,
+      "num": 691641,
+      "word": "印花税",
+      "onboard_time": 1693186957,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 691052,
       "num": 1076619,
       "word": "门头沟区龙泉镇副镇长刘捷遇难",
@@ -19641,6 +19649,14 @@
       "onboard_time": 1691027259,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618373,
+      "num": 267355,
+      "word": "结束一段关系最好的方式",
+      "onboard_time": 1693186535,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 618106,
@@ -24707,6 +24723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 516848,
+      "num": 516848,
+      "word": "股市",
+      "onboard_time": 1693186778,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 516693,
       "num": 516693,
       "word": "涂山璟lookatme",
@@ -25169,6 +25193,14 @@
       "onboard_time": 1692853696,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508084,
+      "num": 508084,
+      "word": "男生考上浙大爸爸扛行李直奔6楼",
+      "onboard_time": 1693186957,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 507988,
@@ -28361,6 +28393,14 @@
       "onboard_time": 1691813017,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 456590,
+      "num": 456590,
+      "word": "姚晨庄达菲在张杰演唱会蹦迪",
+      "onboard_time": 1693186656,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 456510,
@@ -32201,6 +32241,14 @@
       "onboard_time": 1692587014,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403438,
+      "num": 403438,
+      "word": "中国艺术体操首个世界冠军",
+      "onboard_time": 1693187494,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 403389,
@@ -43051,6 +43099,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 289733,
+      "num": 227001,
+      "word": "内地女生获2023港姐亚军",
+      "onboard_time": 1693187434,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289718,
       "num": 289718,
       "word": "余华莫言首档合体综艺",
@@ -47555,6 +47611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255759,
+      "num": 255759,
+      "word": "赵樱子演技细节",
+      "onboard_time": 1693186358,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255711,
       "num": 255711,
       "word": "阿念开启姐宝女生活",
@@ -48761,6 +48825,14 @@
       "onboard_time": 1692436836,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245516,
+      "num": 245516,
+      "word": "金珉奎被问在家为什么带头盔",
+      "onboard_time": 1693187317,
+      "rank": 25,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 245439,
@@ -50681,6 +50753,14 @@
       "onboard_time": 1693146100,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233577,
+      "num": 226380,
+      "word": "你妈只是去上厕所了",
+      "onboard_time": 1693187978,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 233486,
@@ -60723,6 +60803,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 188118,
+      "num": 188118,
+      "word": "做公益助学的朋友的做法",
+      "onboard_time": 1693187616,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188117,
       "num": 1354795,
       "word": "再紧急预拨14.6亿元支持京津冀黑吉救灾",
@@ -63403,6 +63491,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 168298,
+      "num": 168298,
+      "word": "A股超5000股上涨",
+      "onboard_time": 1693188156,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 168294,
       "num": 168294,
       "word": "父辈的荣耀",
@@ -64912,6 +65008,14 @@
       "word": "在成都打车打到大熊猫了",
       "onboard_time": 1690966831,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152816,
+      "num": 152816,
+      "word": "女警朝马路对面多看一眼救回一命",
+      "onboard_time": 1693188215,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -72256,6 +72360,14 @@
       "word": "什么样的SUV更靠谱",
       "onboard_time": 1692959199,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8488,
+      "num": 207879,
+      "word": "美团北极星医美机构榜发布",
+      "onboard_time": 1693188036,
+      "rank": 39,
       "category": "社会新闻"
     },
     {

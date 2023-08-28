@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693186259517,
+  "endTime": 1693188274960,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -35,6 +35,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1160513,
+      "num": 1160513,
+      "word": "A股",
+      "onboard_time": 1693180531,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1159413,
       "num": 1159413,
       "word": "2游客被终生禁入成都大熊猫基地",
@@ -57,14 +65,6 @@
       "onboard_time": 1693179389,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1043859,
-      "num": 1043859,
-      "word": "A股",
-      "onboard_time": 1693180531,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 968700,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 691641,
+      "num": 691641,
+      "word": "印花税",
+      "onboard_time": 1693186957,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 662387,
       "num": 662387,
       "word": "中国烟草回应卷烟涨价传言",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618373,
+      "num": 267355,
+      "word": "结束一段关系最好的方式",
+      "onboard_time": 1693186535,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 593651,
       "num": 593651,
       "word": "王怡然最上镜小姐",
@@ -187,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516848,
+      "num": 516848,
+      "word": "股市",
+      "onboard_time": 1693186778,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 508794,
       "num": 295726,
       "word": "再晚也要嫁给爱情",
       "onboard_time": 1693151377,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 508084,
+      "num": 508084,
+      "word": "男生考上浙大爸爸扛行李直奔6楼",
+      "onboard_time": 1693186957,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 496118,
@@ -209,6 +241,14 @@
       "onboard_time": 1693184318,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456590,
+      "num": 456590,
+      "word": "姚晨庄达菲在张杰演唱会蹦迪",
+      "onboard_time": 1693186656,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 450268,
@@ -265,6 +305,14 @@
       "onboard_time": 1693133373,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403438,
+      "num": 403438,
+      "word": "中国艺术体操首个世界冠军",
+      "onboard_time": 1693187494,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 394348,
@@ -435,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289733,
+      "num": 227001,
+      "word": "内地女生获2023港姐亚军",
+      "onboard_time": 1693187434,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284575,
       "num": 284575,
       "word": "魏大勋再现孟宴臣名台词",
@@ -467,6 +523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255759,
+      "num": 255759,
+      "word": "赵樱子演技细节",
+      "onboard_time": 1693186358,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 245516,
+      "num": 245516,
+      "word": "金珉奎被问在家为什么带头盔",
+      "onboard_time": 1693187317,
+      "rank": 25,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 244969,
       "num": 244969,
       "word": "Lisa托脸wink",
@@ -488,6 +560,14 @@
       "word": "脸蛋比心",
       "onboard_time": 1693152335,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 233577,
+      "num": 226380,
+      "word": "你妈只是去上厕所了",
+      "onboard_time": 1693187978,
+      "rank": 31,
       "category": "幽默"
     },
     {
@@ -521,6 +601,14 @@
       "onboard_time": 1693186059,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208270,
+      "num": 208270,
+      "word": "证券交易印花税实施减半征收",
+      "onboard_time": 1693186899,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 202671,
@@ -569,6 +657,14 @@
       "onboard_time": 1693182458,
       "rank": 40,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 188118,
+      "num": 188118,
+      "word": "做公益助学的朋友的做法",
+      "onboard_time": 1693187616,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 184938,
@@ -635,6 +731,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 168298,
+      "num": 168298,
+      "word": "A股超5000股上涨",
+      "onboard_time": 1693188156,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 161150,
       "num": 161150,
       "word": "亲戚对你的态度其实取决于父母",
@@ -657,6 +761,14 @@
       "onboard_time": 1693179150,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152816,
+      "num": 152816,
+      "word": "女警朝马路对面多看一眼救回一命",
+      "onboard_time": 1693188215,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152307,
@@ -833,6 +945,14 @@
       "onboard_time": 1693165754,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8488,
+      "num": 207879,
+      "word": "美团北极星医美机构榜发布",
+      "onboard_time": 1693188036,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
