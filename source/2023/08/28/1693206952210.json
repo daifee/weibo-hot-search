@@ -1,0 +1,410 @@
+{
+  "runTime": 1693206952210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1921993,
+        "num": 1921993,
+        "word": "东电承认超6成储存核污水放射物超标",
+        "onboard_time": 1693192177,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1304358,
+        "num": 1304358,
+        "word": "燃冬导演说自己受到的打击很大",
+        "onboard_time": 1693201654,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33695,
+        "num": 1090012,
+        "word": "多姿多彩多元多样是世界应有的样子",
+        "onboard_time": 1693190735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931504,
+        "num": 931504,
+        "word": "赛百味700亿成功卖身",
+        "onboard_time": 1693203156,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 875459,
+        "num": 875459,
+        "word": "A股",
+        "onboard_time": 1693180531,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 588578,
+        "num": 588578,
+        "word": "李佳琦与母亲接连成立新公司",
+        "onboard_time": 1693205676,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 559241,
+        "num": 559241,
+        "word": "谢娜没和张杰合照是不是得洗碗",
+        "onboard_time": 1693198062,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 556798,
+        "num": 556798,
+        "word": "请大英博物馆无偿归还中国文物",
+        "onboard_time": 1693179993,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 543381,
+        "num": 543381,
+        "word": "虹猫 一位大侠最极致的爱",
+        "onboard_time": 1693198540,
+        "rank": 8,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 441775,
+        "num": 441775,
+        "word": "徐良助力区排名怎么变20了",
+        "onboard_time": 1693201057,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2226366,
+        "num": 412764,
+        "word": "郭碧婷越来越像向太了",
+        "onboard_time": 1693203516,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 691082,
+        "num": 398436,
+        "word": "男子大三挂科退学10年后再次考上大学",
+        "onboard_time": 1693205256,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 519895,
+        "num": 390256,
+        "word": "金宇彬飞往釜山吊唁去世粉丝",
+        "onboard_time": 1693205256,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367712,
+        "num": 367712,
+        "word": "68元甜品自助",
+        "onboard_time": 1693203216,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 362848,
+        "num": 362848,
+        "word": "中国恒大负债2.38万亿",
+        "onboard_time": 1693191037,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 320309,
+        "num": 320309,
+        "word": "日本海产品出口转攻东南亚市场",
+        "onboard_time": 1693196985,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305472,
+        "num": 305472,
+        "word": "林志颖推荐林俊杰来下一季披哥",
+        "onboard_time": 1693197344,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294582,
+        "num": 294582,
+        "word": "时代少年团东方风云榜彩排视频",
+        "onboard_time": 1693205256,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292353,
+        "num": 292353,
+        "word": "产妇羊水栓塞输血超6万毫升被救",
+        "onboard_time": 1693190015,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272733,
+        "num": 272733,
+        "word": "工作室这么会剪成毅知道吗",
+        "onboard_time": 1693202975,
+        "rank": 19,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 594927,
+        "num": 266802,
+        "word": "原来捧杀才是最好的必杀技",
+        "onboard_time": 1693204594,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 350531,
+        "num": 262381,
+        "word": "女子网购蒟蒻果冻吃出整只虫",
+        "onboard_time": 1693201296,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342749,
+        "num": 249212,
+        "word": "日本核污染水排海最新情况",
+        "onboard_time": 1693203695,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303962,
+        "num": 242674,
+        "word": "夭玹比肩",
+        "onboard_time": 1693205973,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241275,
+        "num": 241275,
+        "word": "来广东治好了穿衣焦虑",
+        "onboard_time": 1693197103,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 234188,
+        "num": 234188,
+        "word": "魏大勋开始形象管理了",
+        "onboard_time": 1693206276,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223911,
+        "num": 223911,
+        "word": "谢娜带曾可妮看张杰演唱会",
+        "onboard_time": 1693202134,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222795,
+        "num": 222795,
+        "word": "孤注一掷延长上映",
+        "onboard_time": 1693203995,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211110,
+        "num": 211110,
+        "word": "被浙江农村的房子惊艳到了",
+        "onboard_time": 1693195783,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195218,
+        "num": 195218,
+        "word": "大英博物馆馆长辞职",
+        "onboard_time": 1693191037,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192327,
+        "num": 192327,
+        "word": "胡歌说再拍李逍遥应该让吴磊演",
+        "onboard_time": 1693191396,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184721,
+        "num": 184721,
+        "word": "东电要求采访记者不能自由录音录像",
+        "onboard_time": 1693204656,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172794,
+        "num": 172794,
+        "word": "九岁摄影师拍的欧阳娜娜",
+        "onboard_time": 1693201775,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 170528,
+        "num": 170528,
+        "word": "燃冬",
+        "onboard_time": 1693205676,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164495,
+        "num": 164495,
+        "word": "魏大勋白敬亭喝了同一碗奶茶",
+        "onboard_time": 1693206635,
+        "rank": 34,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 159761,
+        "num": 159761,
+        "word": "油酥饼已经工业化生产了",
+        "onboard_time": 1693199437,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158896,
+        "num": 158896,
+        "word": "没想到鸭鸭也军训",
+        "onboard_time": 1693206815,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155954,
+        "num": 155954,
+        "word": "你妈只是去上厕所了",
+        "onboard_time": 1693187978,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153243,
+        "num": 153243,
+        "word": "我李玉湖就要来了",
+        "onboard_time": 1693200096,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152657,
+        "num": 152657,
+        "word": "好硬核的劝防晒方法",
+        "onboard_time": 1693205795,
+        "rank": 39,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 131025,
+        "num": 131025,
+        "word": "男生考上浙大爸爸扛行李直奔6楼",
+        "onboard_time": 1693186957,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 127468,
+        "num": 127468,
+        "word": "近一百年流行过的发型",
+        "onboard_time": 1693205436,
+        "rank": 41,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 125861,
+        "num": 125861,
+        "word": "明日方舟 中国国家地理",
+        "onboard_time": 1693200576,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124098,
+        "num": 124098,
+        "word": "我国拟制定学前教育法",
+        "onboard_time": 1693200756,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 123470,
+        "num": 123470,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1693183119,
+        "rank": 44,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 123161,
+        "num": 123161,
+        "word": "张晚意原生家庭幸福的不演",
+        "onboard_time": 1693191037,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121367,
+        "num": 121367,
+        "word": "如何让儿子在学校社死",
+        "onboard_time": 1693200936,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118890,
+        "num": 118890,
+        "word": "在境外做电诈的人真的都是被骗过去的吗",
+        "onboard_time": 1693206877,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114937,
+        "num": 114937,
+        "word": "封神",
+        "onboard_time": 1693204177,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111875,
+        "num": 111875,
+        "word": "十个勤天来了",
+        "onboard_time": 1693197820,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#新疆面临新机遇要有新作为#"
+    }
+  }
+}

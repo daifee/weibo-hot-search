@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693204499269,
+  "endTime": 1693206952210,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -9,6 +9,14 @@
       "onboard_time": 1693179993,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2226366,
+      "num": 412764,
+      "word": "郭碧婷越来越像向太了",
+      "onboard_time": 1693203516,
+      "rank": 30,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 2017418,
@@ -27,8 +35,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1824381,
-      "num": 1824381,
+      "raw_hot": 1921993,
+      "num": 1921993,
       "word": "东电承认超6成储存核污水放射物超标",
       "onboard_time": 1693192177,
       "rank": 19,
@@ -57,6 +65,14 @@
       "onboard_time": 1693193857,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1304358,
+      "num": 1304358,
+      "word": "燃冬导演说自己受到的打击很大",
+      "onboard_time": 1693201654,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1300340,
@@ -89,14 +105,6 @@
       "onboard_time": 1693138175,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1137890,
-      "num": 334327,
-      "word": "郭碧婷越来越像向太了",
-      "onboard_time": 1693203516,
-      "rank": 30,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1097542,
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 931504,
+      "num": 931504,
+      "word": "赛百味700亿成功卖身",
+      "onboard_time": 1693203156,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 930472,
       "num": 575048,
       "word": "妈妈不让周扬青发的微博",
@@ -153,14 +169,6 @@
       "onboard_time": 1693189956,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 869346,
-      "num": 869346,
-      "word": "燃冬导演说自己受到的打击很大",
-      "onboard_time": 1693201654,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 858211,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 772511,
-      "num": 248559,
+      "num": 262381,
       "word": "女子网购蒟蒻果冻吃出整只虫",
       "onboard_time": 1693201296,
       "rank": 20,
@@ -275,6 +283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 691082,
+      "num": 398436,
+      "word": "男子大三挂科退学10年后再次考上大学",
+      "onboard_time": 1693205256,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 662387,
       "num": 662387,
       "word": "中国烟草回应卷烟涨价传言",
@@ -323,12 +339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594927,
+      "num": 266802,
+      "word": "原来捧杀才是最好的必杀技",
+      "onboard_time": 1693204594,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 593651,
       "num": 593651,
       "word": "王怡然最上镜小姐",
       "onboard_time": 1693150361,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 588578,
+      "num": 588578,
+      "word": "李佳琦与母亲接连成立新公司",
+      "onboard_time": 1693205676,
+      "rank": 5,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 575384,
@@ -371,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 519895,
+      "num": 390256,
+      "word": "金宇彬飞往釜山吊唁去世粉丝",
+      "onboard_time": 1693205256,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516848,
       "num": 516848,
       "word": "股市",
@@ -393,14 +433,6 @@
       "onboard_time": 1693151137,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494524,
-      "num": 333937,
-      "word": "赛百味700亿成功卖身",
-      "onboard_time": 1693203156,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 491054,
@@ -635,6 +667,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 367712,
+      "num": 367712,
+      "word": "68元甜品自助",
+      "onboard_time": 1693203216,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 364215,
       "num": 255576,
       "word": "A股超5000股上涨",
@@ -680,6 +720,14 @@
       "word": "男孩怕瓜有毒让民警先吃",
       "onboard_time": 1693147479,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342749,
+      "num": 249212,
+      "word": "日本核污染水排海最新情况",
+      "onboard_time": 1693203695,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -779,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303962,
+      "num": 242674,
+      "word": "夭玹比肩",
+      "onboard_time": 1693205973,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302206,
       "num": 285475,
       "word": "他其实没那么喜欢你",
@@ -825,6 +881,14 @@
       "onboard_time": 1693188215,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294582,
+      "num": 294582,
+      "word": "时代少年团东方风云榜彩排视频",
+      "onboard_time": 1693205256,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 294469,
@@ -891,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272733,
+      "num": 272733,
+      "word": "工作室这么会剪成毅知道吗",
+      "onboard_time": 1693202975,
+      "rank": 19,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 270429,
       "num": 270429,
       "word": "薛之谦广州站巡演官宣",
@@ -913,22 +985,6 @@
       "onboard_time": 1693189655,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259794,
-      "num": 190189,
-      "word": "68元甜品自助",
-      "onboard_time": 1693203216,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 259579,
-      "num": 259579,
-      "word": "工作室这么会剪成毅知道吗",
-      "onboard_time": 1693202975,
-      "rank": 19,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 258308,
@@ -979,14 +1035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238679,
-      "num": 238679,
-      "word": "日本核污染水排海最新情况",
-      "onboard_time": 1693203695,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238368,
       "num": 238368,
       "word": "刘昊然公主抱白敬亭了",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1693152335,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234188,
+      "num": 234188,
+      "word": "魏大勋开始形象管理了",
+      "onboard_time": 1693206276,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 229791,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1693198660,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222795,
+      "num": 222795,
+      "word": "孤注一掷延长上映",
+      "onboard_time": 1693203995,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 222250,
@@ -1259,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184721,
+      "num": 184721,
+      "word": "东电要求采访记者不能自由录音录像",
+      "onboard_time": 1693204656,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184588,
       "num": 184588,
       "word": "李宇春吴青峰合唱小情歌",
@@ -1323,6 +1395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170528,
+      "num": 170528,
+      "word": "燃冬",
+      "onboard_time": 1693205676,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169805,
       "num": 169805,
       "word": "非常杨幂",
@@ -1345,6 +1425,14 @@
       "onboard_time": 1693192235,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164495,
+      "num": 164495,
+      "word": "魏大勋白敬亭喝了同一碗奶茶",
+      "onboard_time": 1693206635,
+      "rank": 34,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 161566,
@@ -1371,12 +1459,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157236,
-      "num": 157236,
-      "word": "孤注一掷延长上映",
-      "onboard_time": 1693203995,
-      "rank": 38,
-      "category": "影视"
+      "raw_hot": 158896,
+      "num": 158896,
+      "word": "没想到鸭鸭也军训",
+      "onboard_time": 1693206815,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153530,
@@ -1393,6 +1481,14 @@
       "onboard_time": 1693179150,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152657,
+      "num": 152657,
+      "word": "好硬核的劝防晒方法",
+      "onboard_time": 1693205795,
+      "rank": 39,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 152307,
@@ -1491,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127468,
+      "num": 127468,
+      "word": "近一百年流行过的发型",
+      "onboard_time": 1693205436,
+      "rank": 41,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 125971,
       "num": 125971,
       "word": "陈晓娜扎的吻戏",
@@ -1505,6 +1609,14 @@
       "onboard_time": 1693177644,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118890,
+      "num": 118890,
+      "word": "在境外做电诈的人真的都是被骗过去的吗",
+      "onboard_time": 1693206877,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115766,
@@ -1609,6 +1721,14 @@
       "onboard_time": 1693160837,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 33695,
+      "num": 1090012,
+      "word": "多姿多彩多元多样是世界应有的样子",
+      "onboard_time": 1693190735,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23326,
