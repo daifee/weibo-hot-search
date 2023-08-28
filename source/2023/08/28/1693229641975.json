@@ -1,0 +1,410 @@
+{
+  "runTime": 1693229641975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2320282,
+        "num": 2320282,
+        "word": "大量日本骚扰电话打进我驻日使领馆",
+        "onboard_time": 1693217617,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1383635,
+        "num": 1383635,
+        "word": "中国在南极意外发现海上粮仓",
+        "onboard_time": 1693221878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8493,
+        "num": 1373121,
+        "word": "多姿多彩多元多样是世界应有的样子",
+        "onboard_time": 1693190735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1367700,
+        "num": 1367700,
+        "word": "谁家女主第一集失业又失恋",
+        "onboard_time": 1693225656,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1240495,
+        "num": 1240495,
+        "word": "刘亦菲 高定",
+        "onboard_time": 1693224997,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 952120,
+        "num": 952120,
+        "word": "吴磊被骑友大哥要微信",
+        "onboard_time": 1693228419,
+        "rank": 5,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 912578,
+        "num": 912578,
+        "word": "冯小刚夸虞书欣台词特别好",
+        "onboard_time": 1693225596,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 831039,
+        "num": 831039,
+        "word": "吴磊骑车冷到五官都在用力",
+        "onboard_time": 1693227999,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585627,
+        "num": 585627,
+        "word": "4万学费宿舍到处是垃圾没法住",
+        "onboard_time": 1693224758,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 411221,
+        "num": 411221,
+        "word": "八九月份想辞职的情绪很严重",
+        "onboard_time": 1693211438,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 768771,
+        "num": 411019,
+        "word": "时代少年团再获亚洲人气组合",
+        "onboard_time": 1693228598,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 699353,
+        "num": 409589,
+        "word": "女子半月被缅北男友骗光850万",
+        "onboard_time": 1693215996,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627692,
+        "num": 408476,
+        "word": "打九价送seventeen小卡",
+        "onboard_time": 1693222898,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442208,
+        "num": 407460,
+        "word": "日本已排放超1000吨核污染水",
+        "onboard_time": 1693213118,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289046,
+        "num": 405726,
+        "word": "日本福岛附近海域4.8级地震",
+        "onboard_time": 1693216898,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404983,
+        "num": 404983,
+        "word": "浙江12岁女孩确诊甲状腺癌",
+        "onboard_time": 1693219477,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402803,
+        "num": 402803,
+        "word": "贵州省委原书记孙志刚被查",
+        "onboard_time": 1693229438,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382908,
+        "num": 382908,
+        "word": "东方风云榜",
+        "onboard_time": 1693221576,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378900,
+        "num": 378900,
+        "word": "卧室搭了一间房被爸妈说像茅房",
+        "onboard_time": 1693221576,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342186,
+        "num": 342186,
+        "word": "王鹤棣田曦薇搂腰吻戏",
+        "onboard_time": 1693215577,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547142,
+        "num": 338458,
+        "word": "考研暂停 爱笔去世",
+        "onboard_time": 1693211195,
+        "rank": 20,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 380285,
+        "num": 335134,
+        "word": "南风知我意预计Q4播出",
+        "onboard_time": 1693227818,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331050,
+        "num": 331050,
+        "word": "ins全球影响力TOP100",
+        "onboard_time": 1693216059,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 324601,
+        "num": 324601,
+        "word": "郭碧婷越来越像向太了",
+        "onboard_time": 1693203516,
+        "rank": 23,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 298850,
+        "num": 298850,
+        "word": "七时吉祥初空下线好突然",
+        "onboard_time": 1693227635,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294564,
+        "num": 294564,
+        "word": "老板要求转账198万会计立即报警",
+        "onboard_time": 1693209758,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289012,
+        "num": 289012,
+        "word": "张靓颖说九月有好事宣布",
+        "onboard_time": 1693224219,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284932,
+        "num": 284932,
+        "word": "量化私募大佬2.85亿上海买房",
+        "onboard_time": 1693227576,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280102,
+        "num": 280102,
+        "word": "虞书欣清冷白玫瑰",
+        "onboard_time": 1693221936,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274249,
+        "num": 274249,
+        "word": "花轿喜事男主",
+        "onboard_time": 1693229377,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271552,
+        "num": 271552,
+        "word": "有没有人能管管现在的电视啊",
+        "onboard_time": 1693228117,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263738,
+        "num": 263738,
+        "word": "林俊杰文俊辉咖啡伙伴",
+        "onboard_time": 1693225656,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256869,
+        "num": 256869,
+        "word": "贾冰 丞啊炒蛋教程哥放这了",
+        "onboard_time": 1693221517,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248315,
+        "num": 248315,
+        "word": "大熊猫发发变女孩",
+        "onboard_time": 1693223737,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240087,
+        "num": 240087,
+        "word": "飞机上女孩口唇发紫麻醉医生出手",
+        "onboard_time": 1693220198,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239259,
+        "num": 239259,
+        "word": "董明珠怒斥员工吃着碗里看着锅里",
+        "onboard_time": 1693207234,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234567,
+        "num": 234567,
+        "word": "泰勒十万伏特",
+        "onboard_time": 1693224633,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230566,
+        "num": 230566,
+        "word": "房东的猫把云烟穿身上了",
+        "onboard_time": 1693229498,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227752,
+        "num": 227752,
+        "word": "家里有这种拖把的要小心了",
+        "onboard_time": 1693216300,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219060,
+        "num": 219060,
+        "word": "蓝桉的公孙离",
+        "onboard_time": 1693229256,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215905,
+        "num": 215905,
+        "word": "东方风云榜节目单",
+        "onboard_time": 1693211496,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215545,
+        "num": 215545,
+        "word": "吴磊配音骑有此理全新片头",
+        "onboard_time": 1693228419,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209966,
+        "num": 209966,
+        "word": "徐明浩兰芝见面会",
+        "onboard_time": 1693227278,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205438,
+        "num": 205438,
+        "word": "贾冰演过魏大勋爸爸",
+        "onboard_time": 1693225894,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203755,
+        "num": 203755,
+        "word": "徐明浩卷毛小猫",
+        "onboard_time": 1693229197,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202865,
+        "num": 202865,
+        "word": "杨幂卡其色风衣",
+        "onboard_time": 1693225294,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 189903,
+        "num": 202859,
+        "word": "中国男篮两连败",
+        "onboard_time": 1693217258,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183407,
+        "num": 202846,
+        "word": "莲花楼成毅出场自带侠气",
+        "onboard_time": 1693223017,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153780,
+        "num": 202834,
+        "word": "董明珠回应不招只想要工资的",
+        "onboard_time": 1693214738,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134597,
+        "num": 202816,
+        "word": "东北币有它自己的汇率",
+        "onboard_time": 1693226320,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好建设美丽新疆#"
+    }
+  }
+}
