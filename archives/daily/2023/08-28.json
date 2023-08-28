@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693214226817,
+  "endTime": 1693215248540,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2226366,
-      "num": 486814,
+      "num": 509186,
       "word": "郭碧婷越来越像向太了",
       "onboard_time": 1693203516,
       "rank": 30,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2217062,
-      "num": 261681,
+      "num": 301565,
       "word": "考研暂停 爱笔去世",
       "onboard_time": 1693211195,
       "rank": 30,
@@ -80,6 +80,14 @@
       "word": "大英博物馆馆长辞职",
       "onboard_time": 1693191037,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1578674,
+      "num": 1578674,
+      "word": "日本已排放超1000吨核污染水",
+      "onboard_time": 1693213118,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -299,14 +307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 728792,
-      "num": 728792,
-      "word": "日本已排放超1000吨核污染水",
-      "onboard_time": 1693213118,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 724935,
       "num": 330209,
       "word": "结束一段关系最好的方式",
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 593380,
+      "num": 593380,
+      "word": "中国男篮vs南苏丹男篮",
+      "onboard_time": 1693209577,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 575384,
       "num": 567423,
       "word": "男子称按处方吃24粒头孢腹泻进急诊",
@@ -475,12 +483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 527309,
+      "num": 527309,
+      "word": "杨洋韩立生图",
+      "onboard_time": 1693214017,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 516848,
       "num": 516848,
       "word": "股市",
       "onboard_time": 1693186778,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 514337,
+      "num": 514337,
+      "word": "周琦罚球三不沾",
+      "onboard_time": 1693212942,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 510873,
@@ -499,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 498855,
+      "num": 498855,
+      "word": "中方敦促美方停止打压中国留学生",
+      "onboard_time": 1693211016,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 496118,
       "num": 293757,
       "word": "32条眼镜王蛇在村寨边筑窝安家",
@@ -515,28 +547,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 490878,
-      "num": 490878,
-      "word": "周琦罚球三不沾",
-      "onboard_time": 1693212942,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 480516,
       "num": 480516,
       "word": "逃出大英博物馆预告片",
       "onboard_time": 1693197881,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 480043,
-      "num": 480043,
-      "word": "中国男篮vs南苏丹男篮",
-      "onboard_time": 1693209577,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 476440,
@@ -553,14 +569,6 @@
       "onboard_time": 1693184318,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461930,
-      "num": 461930,
-      "word": "中方敦促美方停止打压中国留学生",
-      "onboard_time": 1693211016,
-      "rank": 34,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 456590,
@@ -731,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386143,
+      "num": 386143,
+      "word": "谁给胡兵投的票",
+      "onboard_time": 1693214317,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385867,
       "num": 326175,
       "word": "杭州12岁女孩1米72脊柱歪到要手术",
@@ -753,6 +769,14 @@
       "onboard_time": 1693147781,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379502,
+      "num": 379502,
+      "word": "黄景瑜在超话清库存",
+      "onboard_time": 1693214017,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 377866,
@@ -971,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312291,
+      "num": 312291,
+      "word": "披荆斩棘我幕了",
+      "onboard_time": 1693213179,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310999,
       "num": 287928,
       "word": "躺着玩手机的5个正确姿势",
@@ -1024,6 +1056,14 @@
       "word": "婚前冲动买房杭州姑娘肠子悔青",
       "onboard_time": 1693124919,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297459,
+      "num": 297459,
+      "word": "董明珠回应不招只想要工资的",
+      "onboard_time": 1693214738,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1091,14 +1131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285504,
-      "num": 285504,
-      "word": "披荆斩棘我幕了",
-      "onboard_time": 1693213179,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 284575,
       "num": 284575,
       "word": "魏大勋再现孟宴臣名台词",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1693196680,
       "rank": 28,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 282536,
+      "num": 282536,
+      "word": "莲花楼渔村养老",
+      "onboard_time": 1693213538,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 278807,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1693190735,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 270295,
+      "num": 199759,
+      "word": "封神妲己出场找簪子的原因",
+      "onboard_time": 1693214499,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 266047,
@@ -1275,14 +1323,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 227141,
-      "num": 227141,
-      "word": "莲花楼渔村养老",
-      "onboard_time": 1693213538,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 225715,
       "num": 225715,
       "word": "真正伤胃的五件事",
@@ -1323,6 +1363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 221937,
+      "num": 221937,
+      "word": "追什么剧需要画思维导图啊",
+      "onboard_time": 1693215095,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220745,
       "num": 220745,
       "word": "东方风云榜节目单",
@@ -1345,6 +1393,14 @@
       "onboard_time": 1693181495,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210876,
+      "num": 210876,
+      "word": "周深红毯上修伞",
+      "onboard_time": 1693214918,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 210674,
@@ -1403,14 +1459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200530,
-      "num": 200530,
-      "word": "杨洋韩立生图",
-      "onboard_time": 1693214017,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200233,
       "num": 200233,
       "word": "恋与制作人",
@@ -1425,6 +1473,14 @@
       "onboard_time": 1693190315,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199386,
+      "num": 196576,
+      "word": "WTT名古屋女子总决赛2023",
+      "onboard_time": 1693214197,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 198747,
@@ -1449,14 +1505,6 @@
       "onboard_time": 1693184075,
       "rank": 38,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 196626,
-      "num": 196626,
-      "word": "黄景瑜在超话清库存",
-      "onboard_time": 1693214017,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 196551,
@@ -1496,6 +1544,14 @@
       "word": "赵睿10分",
       "onboard_time": 1693213362,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195490,
+      "num": 195490,
+      "word": "李凯尔终于进球了",
+      "onboard_time": 1693214858,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1603,6 +1659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178833,
+      "num": 178833,
+      "word": "裁判",
+      "onboard_time": 1693215095,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178685,
+      "num": 178685,
+      "word": "南苏丹三分",
+      "onboard_time": 1693212879,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177028,
       "num": 177028,
       "word": "杨宗纬 我想要听张杰",
@@ -1657,14 +1729,6 @@
       "onboard_time": 1693143399,
       "rank": 42,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 169715,
-      "num": 169715,
-      "word": "南苏丹三分",
-      "onboard_time": 1693212879,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 168916,
@@ -1833,14 +1897,6 @@
       "onboard_time": 1693145499,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136171,
-      "num": 136171,
-      "word": "WTT名古屋女子总决赛2023",
-      "onboard_time": 1693214197,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 132306,

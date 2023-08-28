@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/01 00:22:33 ~ 2023/08/28 17:17:06
+本榜单时间：2023/08/01 00:22:33 ~ 2023/08/28 17:34:08
 </p>
 </blockquote>
 <p>
@@ -3885,6 +3885,12 @@ TFBOYS新歌明天见（热度：1586802）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E6%8E%92%E6%94%BE%E8%B6%851000%E5%90%A8%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23" target="weibo">
+日本已排放超1000吨核污染水（热度：1578674）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%9A%84%E4%B8%8B%E4%B8%80%E9%83%A8%E7%8E%B0%E4%BB%A3%E5%89%A7%23" target="weibo">
 王楚然的下一部现代剧（热度：1577737）
 </a>
@@ -6005,12 +6011,6 @@ Jennie疑似与YG解约（热度：1234549）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E6%B2%A1%E4%BA%BA%E9%80%89%23" target="weibo">
 Angelababy没人选（热度：1205976）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E8%80%81%E5%B8%88%E4%BB%98%E8%B4%B9%E8%AF%B7%E5%AD%A6%E7%94%9F%E7%9C%8BTFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
-高三老师付费请学生看TFBOYS演唱会直播（热度：1205865）
 </a>
 </li>
 
