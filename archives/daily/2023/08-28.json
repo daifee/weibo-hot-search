@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693211660556,
+  "endTime": 1693214226817,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2752824,
+      "num": 2752824,
+      "word": "老板要求转账198万会计立即报警",
+      "onboard_time": 1693209758,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2226366,
-      "num": 421711,
+      "num": 486814,
       "word": "郭碧婷越来越像向太了",
       "onboard_time": 1693203516,
       "rank": 30,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 2217062,
+      "num": 261681,
+      "word": "考研暂停 爱笔去世",
+      "onboard_time": 1693211195,
+      "rank": 30,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 2017418,
@@ -59,20 +75,20 @@
       "category": "网红,情感"
     },
     {
-      "raw_hot": 1675890,
-      "num": 1675890,
-      "word": "老板要求转账198万会计立即报警",
-      "onboard_time": 1693209758,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1672535,
       "num": 1672535,
       "word": "大英博物馆馆长辞职",
       "onboard_time": 1693191037,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1440243,
+      "num": 1440243,
+      "word": "八九月份想辞职的情绪很严重",
+      "onboard_time": 1693211438,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 1436667,
@@ -283,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 728792,
+      "num": 728792,
+      "word": "日本已排放超1000吨核污染水",
+      "onboard_time": 1693213118,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 724935,
       "num": 330209,
       "word": "结束一段关系最好的方式",
@@ -321,6 +345,14 @@
       "onboard_time": 1693186957,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 673682,
+      "num": 673682,
+      "word": "日本核污染水排海最新情况",
+      "onboard_time": 1693203695,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662387,
@@ -395,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557438,
+      "num": 557438,
+      "word": "男子在缅逃跑身后步枪扫射",
+      "onboard_time": 1693209577,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556877,
       "num": 414328,
       "word": "金宇彬飞往釜山吊唁去世粉丝",
@@ -443,6 +483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 510873,
+      "num": 510873,
+      "word": "张杰 我要唱得再久一点",
+      "onboard_time": 1693211858,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 508794,
       "num": 295726,
       "word": "再晚也要嫁给爱情",
@@ -467,12 +515,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 490878,
+      "num": 490878,
+      "word": "周琦罚球三不沾",
+      "onboard_time": 1693212942,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 480516,
       "num": 480516,
       "word": "逃出大英博物馆预告片",
       "onboard_time": 1693197881,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 480043,
+      "num": 480043,
+      "word": "中国男篮vs南苏丹男篮",
+      "onboard_time": 1693209577,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 476440,
@@ -489,6 +553,14 @@
       "onboard_time": 1693184318,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461930,
+      "num": 461930,
+      "word": "中方敦促美方停止打压中国留学生",
+      "onboard_time": 1693211016,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 456590,
@@ -659,28 +731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386325,
-      "num": 386325,
-      "word": "男子在缅逃跑身后步枪扫射",
-      "onboard_time": 1693209577,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385867,
       "num": 326175,
       "word": "杭州12岁女孩1米72脊柱歪到要手术",
       "onboard_time": 1693178726,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384674,
-      "num": 384674,
-      "word": "中国男篮vs南苏丹男篮",
-      "onboard_time": 1693209577,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 384292,
@@ -787,14 +843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 346585,
-      "num": 204648,
-      "word": "考研暂停 爱笔去世",
-      "onboard_time": 1693211195,
-      "rank": 30,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 345959,
       "num": 345959,
       "word": "莲花楼售后美美的",
@@ -819,12 +867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342749,
-      "num": 383151,
-      "word": "日本核污染水排海最新情况",
-      "onboard_time": 1693203695,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 343140,
+      "num": 205781,
+      "word": "雪貂睡太死被误以为去世",
+      "onboard_time": 1693212701,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 341195,
@@ -1003,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293497,
+      "num": 205534,
+      "word": "甲虫咬出来的蛇骨架",
+      "onboard_time": 1693211376,
+      "rank": 42,
+      "category": "自然"
+    },
+    {
       "raw_hot": 293127,
       "num": 293127,
       "word": "港姐陈怡回应现场黑脸",
@@ -1032,6 +1088,14 @@
       "word": "魏大勋报了被白敬亭关门外的仇",
       "onboard_time": 1693179449,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 285504,
+      "num": 285504,
+      "word": "披荆斩棘我幕了",
+      "onboard_time": 1693213179,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -1155,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239592,
+      "num": 239592,
+      "word": "赵继伟三分",
+      "onboard_time": 1693212518,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238368,
       "num": 238368,
       "word": "刘昊然公主抱白敬亭了",
@@ -1203,6 +1275,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 227141,
+      "num": 227141,
+      "word": "莲花楼渔村养老",
+      "onboard_time": 1693213538,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225715,
       "num": 225715,
       "word": "真正伤胃的五件事",
@@ -1241,6 +1321,14 @@
       "onboard_time": 1693194278,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 220745,
+      "num": 220745,
+      "word": "东方风云榜节目单",
+      "onboard_time": 1693211496,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 218090,
@@ -1315,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200530,
+      "num": 200530,
+      "word": "杨洋韩立生图",
+      "onboard_time": 1693214017,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200233,
       "num": 200233,
       "word": "恋与制作人",
@@ -1355,6 +1451,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 196626,
+      "num": 196626,
+      "word": "黄景瑜在超话清库存",
+      "onboard_time": 1693214017,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196551,
       "num": 203225,
       "word": "鞠婧祎品尝四川特色冰淇淋",
@@ -1387,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195747,
+      "num": 195747,
+      "word": "赵睿10分",
+      "onboard_time": 1693213362,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193899,
       "num": 193899,
       "word": "漫展上令人着迷的横幅",
@@ -1409,14 +1521,6 @@
       "onboard_time": 1693183961,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191352,
-      "num": 191352,
-      "word": "中方敦促美方停止打压中国留学生",
-      "onboard_time": 1693211016,
-      "rank": 34,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 190605,
@@ -1555,6 +1659,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 169715,
+      "num": 169715,
+      "word": "南苏丹三分",
+      "onboard_time": 1693212879,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168916,
       "num": 168916,
       "word": "张真源说感谢这个阶段的一切",
@@ -1603,28 +1715,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160697,
+      "num": 160697,
+      "word": "刀我别用金喜妹",
+      "onboard_time": 1693212276,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158896,
       "num": 158896,
       "word": "没想到鸭鸭也军训",
       "onboard_time": 1693206815,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157149,
-      "num": 157149,
-      "word": "甲虫咬出来的蛇骨架",
-      "onboard_time": 1693211376,
-      "rank": 42,
-      "category": "自然"
-    },
-    {
-      "raw_hot": 154904,
-      "num": 154904,
-      "word": "东方风云榜节目单",
-      "onboard_time": 1693211496,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 153530,
@@ -1731,12 +1835,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 139163,
-      "num": 139163,
-      "word": "八九月份想辞职的情绪很严重",
-      "onboard_time": 1693211438,
-      "rank": 47,
-      "category": "情感,幽默"
+      "raw_hot": 136171,
+      "num": 136171,
+      "word": "WTT名古屋女子总决赛2023",
+      "onboard_time": 1693214197,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 132306,
@@ -1916,7 +2020,7 @@
     },
     {
       "raw_hot": 45371,
-      "num": 1292092,
+      "num": 1575292,
       "word": "多姿多彩多元多样是世界应有的样子",
       "onboard_time": 1693190735,
       "rank": 2,
