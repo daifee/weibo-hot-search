@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693247649489,
+  "endTime": 1693250005795,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -3019,6 +3019,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 80699,
+      "num": 48913,
+      "word": "董宇辉说不要沉沦在逆境中",
+      "onboard_time": 1693245800,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75744,
       "num": 1370668,
       "word": "神十六乘组有自己的Tony老师",
@@ -3091,14 +3099,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 50656,
-      "num": 48913,
-      "word": "董宇辉说不要沉沦在逆境中",
-      "onboard_time": 1693245800,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47614,
       "num": 47614,
       "word": "内蒙古有自己的计量单位吗",
@@ -3131,19 +3131,43 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 34911,
+      "num": 34911,
+      "word": "刘德华 做朋友是不需要理由的",
+      "onboard_time": 1693248916,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29574,
+      "num": 30821,
+      "word": "感觉上班好像在扮演大人",
+      "onboard_time": 1693249334,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 26383,
+      "num": 265094,
+      "word": "我国网民规模已达10.79亿人",
+      "onboard_time": 1693233818,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23411,
+      "num": 30792,
+      "word": "都市接到办热线037165732233",
+      "onboard_time": 1693247421,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23326,
       "num": 207879,
       "word": "美团北极星医美机构榜发布",
       "onboard_time": 1693188036,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21336,
-      "num": 265094,
-      "word": "我国网民规模已达10.79亿人",
-      "onboard_time": 1693233818,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
