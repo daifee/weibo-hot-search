@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693315238283,
+  "endTime": 1693316036168,
   "band_list": [
     {
       "raw_hot": 4771641,
@@ -91,7 +91,7 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 2151105,
+      "raw_hot": 2258289,
       "num": 659160,
       "word": "奖励初婚女性1000元能提升生育率吗",
       "onboard_time": 1693310676,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 758924,
+      "num": 758924,
+      "word": "盛阳家里摆了肖战的照片",
+      "onboard_time": 1693314342,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 751369,
       "num": 751369,
       "word": "印尼巴厘海发生7.1级地震",
@@ -659,6 +667,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 570201,
+      "num": 570201,
+      "word": "就此沙没穿深V",
+      "onboard_time": 1693314880,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 569940,
       "num": 569940,
       "word": "韩国中小学食堂禁止使用日产海鲜",
@@ -691,6 +707,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 557433,
+      "num": 557433,
+      "word": "猫的树是懂cp选角的",
+      "onboard_time": 1693310918,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 555827,
+      "num": 555827,
+      "word": "张新成这位是你嫂嫂",
+      "onboard_time": 1693312719,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 555668,
       "num": 555668,
       "word": "易烊千玺实体专",
@@ -704,14 +736,6 @@
       "word": "王俊凯电影野孩子开通官博",
       "onboard_time": 1693284637,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 541934,
-      "num": 541934,
-      "word": "猫的树是懂cp选角的",
-      "onboard_time": 1693310918,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -915,14 +939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 444359,
-      "num": 444359,
-      "word": "盛阳家里摆了肖战的照片",
-      "onboard_time": 1693314342,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 440844,
       "num": 440844,
       "word": "Lisa私服回归中性少年风",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1693278576,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419440,
-      "num": 441158,
-      "word": "张新成这位是你嫂嫂",
-      "onboard_time": 1693312719,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 418462,
@@ -1123,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393709,
+      "num": 393709,
+      "word": "邓为涂山璟原声",
+      "onboard_time": 1693314280,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391041,
       "num": 391041,
       "word": "玱玹的乡下表弟玱杰",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1693234239,
       "rank": 12,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 382124,
+      "num": 382124,
+      "word": "华为Mate60评测",
+      "onboard_time": 1693313741,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 380483,
@@ -1187,28 +1211,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 368412,
-      "num": 368412,
-      "word": "徐明浩 我说过要成为大家的大树",
-      "onboard_time": 1693279595,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 368053,
-      "num": 368053,
+      "raw_hot": 368453,
+      "num": 368453,
       "word": "人心比痔疮可怕",
       "onboard_time": 1693312361,
       "rank": 34,
       "category": "动漫"
     },
     {
-      "raw_hot": 366961,
-      "num": 366961,
-      "word": "华为Mate60评测",
-      "onboard_time": 1693313741,
-      "rank": 27,
-      "category": "科技"
+      "raw_hot": 368412,
+      "num": 368412,
+      "word": "徐明浩 我说过要成为大家的大树",
+      "onboard_time": 1693279595,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 366745,
@@ -1563,14 +1579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302566,
-      "num": 302566,
-      "word": "邓为涂山璟原声",
-      "onboard_time": 1693314280,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 301990,
       "num": 1715036,
       "word": "司机把儿子送的父亲节礼物挂到现在",
@@ -1771,6 +1779,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 268782,
+      "num": 268782,
+      "word": "见过最稀有的姓氏是什么",
+      "onboard_time": 1693314221,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267312,
       "num": 256146,
       "word": "网剧星辰令",
@@ -1841,6 +1857,14 @@
       "onboard_time": 1693229498,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261204,
+      "num": 261204,
+      "word": "张颂文给应届毕业生的建议",
+      "onboard_time": 1693315662,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 259044,
@@ -1915,6 +1939,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 245910,
+      "num": 245910,
+      "word": "魅族",
+      "onboard_time": 1693312659,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 243908,
       "num": 193100,
       "word": "吴磊录音紧张得说绕口令",
@@ -1953,14 +1985,6 @@
       "onboard_time": 1693290638,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 240790,
-      "num": 240790,
-      "word": "魅族",
-      "onboard_time": 1693312659,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 237694,
@@ -2083,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227162,
+      "num": 227162,
+      "word": "AG猝死团",
+      "onboard_time": 1693315181,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 226137,
       "num": 226137,
       "word": "侯雯元刑台摔落用膝盖支撑",
@@ -2091,28 +2123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225483,
-      "num": 225483,
-      "word": "见过最稀有的姓氏是什么",
-      "onboard_time": 1693314221,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 223179,
       "num": 223179,
       "word": "在山城citywalk有多窒息",
       "onboard_time": 1693284101,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221666,
-      "num": 221666,
-      "word": "就此沙没穿深V",
-      "onboard_time": 1693314880,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 221364,
@@ -2209,6 +2225,14 @@
       "onboard_time": 1693314106,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204493,
+      "num": 204493,
+      "word": "日本男篮",
+      "onboard_time": 1693315305,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 203203,
@@ -2435,6 +2459,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 177453,
+      "num": 177453,
+      "word": "宁安如梦还是没播",
+      "onboard_time": 1693315902,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177302,
       "num": 177302,
       "word": "4万学费宿舍到处是垃圾没法住",
@@ -2473,6 +2505,14 @@
       "onboard_time": 1693216898,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173347,
+      "num": 173347,
+      "word": "如何分清小浣熊和小熊猫",
+      "onboard_time": 1693315422,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 171744,
@@ -2563,14 +2603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153191,
-      "num": 153191,
-      "word": "AG猝死团",
-      "onboard_time": 1693315181,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151450,
       "num": 151450,
       "word": "23幅导图3天吃透初二物理",
@@ -2588,7 +2620,7 @@
     },
     {
       "raw_hot": 151210,
-      "num": 1955464,
+      "num": 1984790,
       "word": "亚运村里的江浙菜品有多馋人",
       "onboard_time": 1693233879,
       "rank": 2,
@@ -2673,6 +2705,14 @@
       "onboard_time": 1693301258,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 131208,
+      "num": 169039,
+      "word": "磁悬浮小兔",
+      "onboard_time": 1693315960,
+      "rank": 49,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 125563,

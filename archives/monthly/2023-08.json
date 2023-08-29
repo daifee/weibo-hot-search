@@ -1,6 +1,6 @@
 {
   "startTime": 1690820553065,
-  "endTime": 1693315238283,
+  "endTime": 1693316036168,
   "band_list": [
     {
       "raw_hot": 21956135,
@@ -2411,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2258289,
+      "num": 659160,
+      "word": "奖励初婚女性1000元能提升生育率吗",
+      "onboard_time": 1693310676,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2253245,
       "num": 2253245,
       "word": "体制内离职的人现在怎么样了",
@@ -2769,14 +2777,6 @@
       "onboard_time": 1691461775,
       "rank": 18,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2151105,
-      "num": 659160,
-      "word": "奖励初婚女性1000元能提升生育率吗",
-      "onboard_time": 1693310676,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2149828,
@@ -15803,6 +15803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758924,
+      "num": 758924,
+      "word": "盛阳家里摆了肖战的照片",
+      "onboard_time": 1693314342,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 758880,
       "num": 758880,
       "word": "张柏芝真的可以越素越美",
@@ -22955,6 +22963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570201,
+      "num": 570201,
+      "word": "就此沙没穿深V",
+      "onboard_time": 1693314880,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 570095,
       "num": 570095,
       "word": "中国男篮vs新西兰男篮",
@@ -23635,6 +23651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557433,
+      "num": 557433,
+      "word": "猫的树是懂cp选角的",
+      "onboard_time": 1693310918,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 557331,
       "num": 528765,
       "word": "邓为直播",
@@ -23761,6 +23785,14 @@
       "onboard_time": 1692855606,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 555827,
+      "num": 555827,
+      "word": "张新成这位是你嫂嫂",
+      "onboard_time": 1693312719,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 555796,
@@ -24553,14 +24585,6 @@
       "onboard_time": 1693108774,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 541934,
-      "num": 541934,
-      "word": "猫的树是懂cp选角的",
-      "onboard_time": 1693310918,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 541203,
@@ -30763,14 +30787,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 444359,
-      "num": 444359,
-      "word": "盛阳家里摆了肖战的照片",
-      "onboard_time": 1693314342,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 444268,
       "num": 358976,
       "word": "广州地铁限定玩手机姿势",
@@ -32681,14 +32697,6 @@
       "onboard_time": 1693278576,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419440,
-      "num": 441158,
-      "word": "张新成这位是你嫂嫂",
-      "onboard_time": 1693312719,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 419378,
@@ -34755,6 +34763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393709,
+      "num": 393709,
+      "word": "邓为涂山璟原声",
+      "onboard_time": 1693314280,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393692,
       "num": 393692,
       "word": "歪梨玊尔",
@@ -35769,6 +35785,14 @@
       "onboard_time": 1692864718,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382124,
+      "num": 382124,
+      "word": "华为Mate60评测",
+      "onboard_time": 1693313741,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 381917,
@@ -37011,6 +37035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 368453,
+      "num": 368453,
+      "word": "人心比痔疮可怕",
+      "onboard_time": 1693312361,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 368412,
       "num": 368412,
       "word": "徐明浩 我说过要成为大家的大树",
@@ -37049,14 +37081,6 @@
       "onboard_time": 1692102280,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 368053,
-      "num": 368053,
-      "word": "人心比痔疮可怕",
-      "onboard_time": 1693312361,
-      "rank": 34,
-      "category": "动漫"
     },
     {
       "raw_hot": 368023,
@@ -37201,14 +37225,6 @@
       "onboard_time": 1691499282,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366961,
-      "num": 366961,
-      "word": "华为Mate60评测",
-      "onboard_time": 1693313741,
-      "rank": 27,
-      "category": "科技"
     },
     {
       "raw_hot": 366952,
@@ -43963,14 +43979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302566,
-      "num": 302566,
-      "word": "邓为涂山璟原声",
-      "onboard_time": 1693314280,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 302549,
       "num": 284253,
       "word": "周深全英文指导",
@@ -48507,6 +48515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268782,
+      "num": 268782,
+      "word": "见过最稀有的姓氏是什么",
+      "onboard_time": 1693314221,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268752,
       "num": 266148,
       "word": "封神榜",
@@ -49625,6 +49641,14 @@
       "onboard_time": 1691662111,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261204,
+      "num": 261204,
+      "word": "张颂文给应届毕业生的建议",
+      "onboard_time": 1693315662,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 261172,
@@ -51723,6 +51747,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 245910,
+      "num": 245910,
+      "word": "魅族",
+      "onboard_time": 1693312659,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 245907,
       "num": 245907,
       "word": "大运会男篮中国战胜日本",
@@ -52577,14 +52609,6 @@
       "onboard_time": 1692442417,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240790,
-      "num": 240790,
-      "word": "魅族",
-      "onboard_time": 1693312659,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 240781,
@@ -54779,6 +54803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227162,
+      "num": 227162,
+      "word": "AG猝死团",
+      "onboard_time": 1693315181,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227114,
       "num": 271598,
       "word": "最怕别人问我哪个学校的",
@@ -55065,14 +55097,6 @@
       "onboard_time": 1693041514,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225483,
-      "num": 225483,
-      "word": "见过最稀有的姓氏是什么",
-      "onboard_time": 1693314221,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 225391,
@@ -55849,14 +55873,6 @@
       "onboard_time": 1693095148,
       "rank": 32,
       "category": "美妆,幽默"
-    },
-    {
-      "raw_hot": 221666,
-      "num": 221666,
-      "word": "就此沙没穿深V",
-      "onboard_time": 1693314880,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 221585,
@@ -59569,6 +59585,14 @@
       "onboard_time": 1692713266,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204493,
+      "num": 204493,
+      "word": "日本男篮",
+      "onboard_time": 1693315305,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 204474,
@@ -66379,6 +66403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177453,
+      "num": 177453,
+      "word": "宁安如梦还是没播",
+      "onboard_time": 1693315902,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177395,
       "num": 177395,
       "word": "日料店无日本食材涉虚假宣传吗",
@@ -66484,7 +66516,7 @@
     },
     {
       "raw_hot": 176579,
-      "num": 1955464,
+      "num": 1984790,
       "word": "亚运村里的江浙菜品有多馋人",
       "onboard_time": 1693233879,
       "rank": 2,
@@ -66865,6 +66897,14 @@
       "onboard_time": 1692512253,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173347,
+      "num": 173347,
+      "word": "如何分清小浣熊和小熊猫",
+      "onboard_time": 1693315422,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 173305,
@@ -69011,14 +69051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153191,
-      "num": 153191,
-      "word": "AG猝死团",
-      "onboard_time": 1693315181,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 153071,
       "num": 122526,
       "word": "林允发藏头词告别赵寻",
@@ -70913,6 +70945,14 @@
       "onboard_time": 1692466285,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131208,
+      "num": 169039,
+      "word": "磁悬浮小兔",
+      "onboard_time": 1693315960,
+      "rank": 49,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 131101,
