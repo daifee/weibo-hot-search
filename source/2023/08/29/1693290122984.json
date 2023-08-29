@@ -1,0 +1,410 @@
+{
+  "runTime": 1693290122984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1386210,
+        "num": 1386210,
+        "word": "林志颖自己开车上班录披哥",
+        "onboard_time": 1693286797,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1368481,
+        "num": 1368481,
+        "word": "警察称自己接触的缅北电诈者95%是自愿",
+        "onboard_time": 1693284579,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41224,
+        "num": 1176731,
+        "word": "亚运村里的江浙菜品有多馋人",
+        "onboard_time": 1693233879,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1154195,
+        "num": 1154195,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 958941,
+        "num": 958941,
+        "word": "学生趴桌午休1学期收费200",
+        "onboard_time": 1693279476,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 826653,
+        "num": 826653,
+        "word": "女生高考结束当天车祸身亡肇事者发声",
+        "onboard_time": 1693285000,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 634771,
+        "num": 634771,
+        "word": "你删我出品我删你联合出品",
+        "onboard_time": 1693289734,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 625238,
+        "num": 625238,
+        "word": "日本正采取卑劣手段对中国倒打一耙",
+        "onboard_time": 1693272634,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 607985,
+        "num": 607985,
+        "word": "西安五月天",
+        "onboard_time": 1693288537,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 563576,
+        "num": 563576,
+        "word": "王一博参加广电职业道德建设座谈会",
+        "onboard_time": 1693288655,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2187570,
+        "num": 562574,
+        "word": "胡歌早F晚E",
+        "onboard_time": 1693285420,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 849807,
+        "num": 562092,
+        "word": "给徐良投票白投了",
+        "onboard_time": 1693288777,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1231998,
+        "num": 555313,
+        "word": "胡歌删博后发自拍",
+        "onboard_time": 1693280435,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546555,
+        "num": 546555,
+        "word": "易烊千玺进组小小的我",
+        "onboard_time": 1693285959,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234876,
+        "num": 495698,
+        "word": "遭嫌疑人开车碾压经4次开颅民警归队了",
+        "onboard_time": 1693281578,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816865,
+        "num": 491881,
+        "word": "胡歌 我对不起好多人",
+        "onboard_time": 1693264405,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697839,
+        "num": 476031,
+        "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
+        "onboard_time": 1693288055,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456150,
+        "num": 456150,
+        "word": "魏哲鸣183的身高170的脸",
+        "onboard_time": 1693284637,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377990,
+        "num": 377990,
+        "word": "王栎鑫 我不仅打呼还打人",
+        "onboard_time": 1693279355,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375730,
+        "num": 375730,
+        "word": "一碗面把我留在了小城市",
+        "onboard_time": 1693285601,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 702093,
+        "num": 367473,
+        "word": "为什么甲状腺癌爱盯上年轻人",
+        "onboard_time": 1693287101,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 353695,
+        "num": 353695,
+        "word": "博主收到日本公关邮件",
+        "onboard_time": 1693283500,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336280,
+        "num": 336280,
+        "word": "邓为金冠红发带造型",
+        "onboard_time": 1693287336,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 324898,
+        "num": 324898,
+        "word": "工作多年后真正的炫耀",
+        "onboard_time": 1693285301,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294253,
+        "num": 294253,
+        "word": "日本核污染水排海已经开始影响邻国",
+        "onboard_time": 1693237474,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304042,
+        "num": 290376,
+        "word": "SM需要自己的秦始皇",
+        "onboard_time": 1693288417,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285476,
+        "num": 285476,
+        "word": "骄阳伴我定档",
+        "onboard_time": 1693275456,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275967,
+        "num": 275967,
+        "word": "封神全员性转的吸引力",
+        "onboard_time": 1693285896,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262936,
+        "num": 262936,
+        "word": "上班真的很需要钝感力",
+        "onboard_time": 1693287697,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 258890,
+        "num": 258890,
+        "word": "骑友大哥这回认出来吴磊了",
+        "onboard_time": 1693289855,
+        "rank": 29,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 300243,
+        "num": 256632,
+        "word": "坏了 让这小子吃到真的了",
+        "onboard_time": 1693288175,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267312,
+        "num": 256146,
+        "word": "网剧星辰令",
+        "onboard_time": 1693287159,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251804,
+        "num": 251804,
+        "word": "黄轩发了一段黑屏",
+        "onboard_time": 1693287398,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243184,
+        "num": 243184,
+        "word": "南方人的饭量普遍很小吗",
+        "onboard_time": 1693288957,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 240905,
+        "num": 240905,
+        "word": "李兰迪说李慕嘉身上有莽撞的少年气",
+        "onboard_time": 1693284879,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230089,
+        "num": 230089,
+        "word": "以为虞书欣在竖中指",
+        "onboard_time": 1693286677,
+        "rank": 35,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 226493,
+        "num": 226493,
+        "word": "iPhone15或新增绿色",
+        "onboard_time": 1693274315,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 226137,
+        "num": 226137,
+        "word": "侯雯元刑台摔落用膝盖支撑",
+        "onboard_time": 1693288897,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201549,
+        "num": 201549,
+        "word": "华为Mate60开售",
+        "onboard_time": 1693284342,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 199790,
+        "num": 199790,
+        "word": "OPPO新品发布会",
+        "onboard_time": 1693289734,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 224630,
+        "num": 198952,
+        "word": "微笑pasta现在看还是好甜",
+        "onboard_time": 1693283739,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214202,
+        "num": 198197,
+        "word": "SEVENTEEN夫胜宽重启活动",
+        "onboard_time": 1693286315,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213292,
+        "num": 197097,
+        "word": "王俊凯电影野孩子开通官博",
+        "onboard_time": 1693284637,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203196,
+        "num": 195309,
+        "word": "TF三代公开五周年",
+        "onboard_time": 1693289436,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194747,
+        "num": 194747,
+        "word": "真实的商战",
+        "onboard_time": 1693289375,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201040,
+        "num": 194723,
+        "word": "HYBE女团选秀公式照",
+        "onboard_time": 1693289198,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188596,
+        "num": 188596,
+        "word": "日本饭店招牌歧视中国人博主当场报警",
+        "onboard_time": 1693275157,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184879,
+        "num": 184879,
+        "word": "大爷晨练捡到80多万完璧归赵",
+        "onboard_time": 1693278576,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178816,
+        "num": 178816,
+        "word": "我国人身安全保护令签发率提升至77.6%",
+        "onboard_time": 1693289075,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 163004,
+        "num": 163004,
+        "word": "食困症的表现",
+        "onboard_time": 1693286078,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建发展共同体#"
+    }
+  }
+}

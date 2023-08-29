@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693287232847,
+  "endTime": 1693290122984,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4771641,
-      "num": 490603,
+      "num": 491881,
       "word": "胡歌 我对不起好多人",
       "onboard_time": 1693264405,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 4479060,
-      "num": 534787,
+      "num": 555313,
       "word": "胡歌删博后发自拍",
       "onboard_time": 1693280435,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2276669,
-      "num": 486794,
+      "num": 562574,
       "word": "胡歌早F晚E",
       "onboard_time": 1693285420,
       "rank": 14,
@@ -283,6 +283,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1386210,
+      "num": 1386210,
+      "word": "林志颖自己开车上班录披哥",
+      "onboard_time": 1693286797,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1368481,
+      "num": 1368481,
+      "word": "警察称自己接触的缅北电诈者95%是自愿",
+      "onboard_time": 1693284579,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1312664,
       "num": 444053,
       "word": "吕明星 对这段友情无愧于心",
@@ -377,14 +393,6 @@
       "onboard_time": 1693274554,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1073632,
-      "num": 1073632,
-      "word": "警察称自己接触的缅北电诈者95%是自愿",
-      "onboard_time": 1693284579,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1059813,
@@ -529,6 +537,14 @@
       "onboard_time": 1693147419,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849807,
+      "num": 562092,
+      "word": "给徐良投票白投了",
+      "onboard_time": 1693288777,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 846018,
@@ -723,12 +739,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 702093,
+      "num": 367473,
+      "word": "为什么甲状腺癌爱盯上年轻人",
+      "onboard_time": 1693287101,
+      "rank": 20,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 698057,
       "num": 698057,
       "word": "肖战郭靖概念图",
       "onboard_time": 1693234239,
       "rank": 6,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 697839,
+      "num": 476031,
+      "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
+      "onboard_time": 1693288055,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 691641,
@@ -867,6 +899,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 634771,
+      "num": 634771,
+      "word": "你删我出品我删你联合出品",
+      "onboard_time": 1693289734,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 624749,
       "num": 411599,
       "word": "日本超市海鲜打折也没人买",
@@ -905,6 +945,14 @@
       "onboard_time": 1693279777,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 607985,
+      "num": 607985,
+      "word": "西安五月天",
+      "onboard_time": 1693288537,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 603851,
@@ -985,6 +1033,14 @@
       "onboard_time": 1693282298,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 563576,
+      "num": 563576,
+      "word": "王一博参加广电职业道德建设座谈会",
+      "onboard_time": 1693288655,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 558772,
@@ -1241,14 +1297,6 @@
       "onboard_time": 1693192898,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 476314,
-      "num": 276582,
-      "word": "林志颖自己开车上班录披哥",
-      "onboard_time": 1693286797,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 471279,
@@ -1612,7 +1660,7 @@
     },
     {
       "raw_hot": 383037,
-      "num": 276205,
+      "num": 375730,
       "word": "一碗面把我留在了小城市",
       "onboard_time": 1693285601,
       "rank": 37,
@@ -1907,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336280,
+      "num": 336280,
+      "word": "邓为金冠红发带造型",
+      "onboard_time": 1693287336,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 335973,
       "num": 290987,
       "word": "张婧仪抽烟镜头",
@@ -2107,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304042,
+      "num": 290376,
+      "word": "SM需要自己的秦始皇",
+      "onboard_time": 1693288417,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303404,
       "num": 303404,
       "word": "张婧仪女大学生既视感",
@@ -2169,6 +2233,14 @@
       "onboard_time": 1693179510,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300243,
+      "num": 256632,
+      "word": "坏了 让这小子吃到真的了",
+      "onboard_time": 1693288175,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 300189,
@@ -2459,6 +2531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267312,
+      "num": 256146,
+      "word": "网剧星辰令",
+      "onboard_time": 1693287159,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266160,
       "num": 276764,
       "word": "食困症的表现",
@@ -2499,6 +2579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262936,
+      "num": 262936,
+      "word": "上班真的很需要钝感力",
+      "onboard_time": 1693287697,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 262850,
       "num": 262850,
       "word": "北卡",
@@ -2521,6 +2609,14 @@
       "onboard_time": 1693231297,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258890,
+      "num": 258890,
+      "word": "骑友大哥这回认出来吴磊了",
+      "onboard_time": 1693289855,
+      "rank": 29,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 258886,
@@ -2585,6 +2681,14 @@
       "onboard_time": 1693200096,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251804,
+      "num": 251804,
+      "word": "黄轩发了一段黑屏",
+      "onboard_time": 1693287398,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250885,
@@ -2657,6 +2761,14 @@
       "onboard_time": 1693217678,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243184,
+      "num": 243184,
+      "word": "南方人的饭量普遍很小吗",
+      "onboard_time": 1693288957,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 241167,
@@ -2825,6 +2937,14 @@
       "onboard_time": 1693230635,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226137,
+      "num": 226137,
+      "word": "侯雯元刑台摔落用膝盖支撑",
+      "onboard_time": 1693288897,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 225715,
@@ -3043,6 +3163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203196,
+      "num": 195309,
+      "word": "TF三代公开五周年",
+      "onboard_time": 1693289436,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202854,
       "num": 202854,
       "word": "周深花开忘忧舞台开花了",
@@ -3075,12 +3203,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201595,
-      "num": 201595,
-      "word": "网剧星辰令",
-      "onboard_time": 1693287159,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 201040,
+      "num": 194723,
+      "word": "HYBE女团选秀公式照",
+      "onboard_time": 1693289198,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 200757,
@@ -3113,6 +3241,14 @@
       "onboard_time": 1693190315,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199790,
+      "num": 199790,
+      "word": "OPPO新品发布会",
+      "onboard_time": 1693289734,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 199386,
@@ -3249,6 +3385,14 @@
       "onboard_time": 1693217858,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194747,
+      "num": 194747,
+      "word": "真实的商战",
+      "onboard_time": 1693289375,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 194621,
@@ -3457,6 +3601,14 @@
       "onboard_time": 1693277796,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178816,
+      "num": 178816,
+      "word": "我国人身安全保护令签发率提升至77.6%",
+      "onboard_time": 1693289075,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 178685,
