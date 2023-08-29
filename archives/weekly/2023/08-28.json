@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693312360954,
+  "endTime": 1693313346295,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3491821,
+      "num": 3491821,
+      "word": "央八在干什么",
+      "onboard_time": 1693311038,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3233295,
       "num": 3233295,
       "word": "中纪委再公布5名内鬼",
@@ -80,6 +88,14 @@
       "word": "董明珠怒斥员工吃着碗里看着锅里",
       "onboard_time": 1693207234,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2856232,
+      "num": 2856232,
+      "word": "内蒙古赤峰发生重大刑事案件",
+      "onboard_time": 1693309236,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -145,14 +161,6 @@
       "onboard_time": 1693211195,
       "rank": 30,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 2213749,
-      "num": 2213749,
-      "word": "内蒙古赤峰发生重大刑事案件",
-      "onboard_time": 1693309236,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2147035,
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1879850,
-      "num": 1457614,
-      "word": "央八在干什么",
-      "onboard_time": 1693311038,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1876203,
       "num": 1876203,
       "word": "谁家女主第一集失业又失恋",
@@ -265,6 +265,14 @@
       "onboard_time": 1693279476,
       "rank": 18,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1843749,
+      "num": 669926,
+      "word": "乐嘉",
+      "onboard_time": 1693311160,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1817911,
@@ -337,6 +345,14 @@
       "onboard_time": 1693279355,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1589956,
+      "num": 659160,
+      "word": "奖励初婚女性1000元能提升生育率吗",
+      "onboard_time": 1693310676,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1585230,
@@ -507,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1116070,
-      "num": 669926,
-      "word": "乐嘉",
-      "onboard_time": 1693311160,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1097542,
       "num": 1031694,
       "word": "中国恒大负债2.38万亿",
@@ -571,20 +579,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1002817,
+      "num": 646116,
+      "word": "上海40余人吃日料后上吐下泻",
+      "onboard_time": 1693301080,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 981989,
       "num": 981989,
       "word": "肖战三戏连播",
       "onboard_time": 1693296697,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 973992,
-      "num": 646116,
-      "word": "上海40余人吃日料后上吐下泻",
-      "onboard_time": 1693301080,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 968700,
@@ -633,14 +641,6 @@
       "onboard_time": 1693285000,
       "rank": 15,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 924188,
-      "num": 659160,
-      "word": "奖励初婚女性1000元能提升生育率吗",
-      "onboard_time": 1693310676,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 902787,
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 805303,
-      "num": 601254,
+      "num": 631545,
       "word": "林俊杰去了hybe总部",
       "onboard_time": 1693309659,
       "rank": 15,
@@ -809,6 +809,14 @@
       "onboard_time": 1693216059,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 781094,
+      "num": 781094,
+      "word": "华为",
+      "onboard_time": 1693309959,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 777313,
@@ -889,14 +897,6 @@
       "onboard_time": 1693292375,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 749312,
-      "num": 749312,
-      "word": "华为",
-      "onboard_time": 1693309959,
-      "rank": 8,
-      "category": "科技"
     },
     {
       "raw_hot": 747437,
@@ -1371,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 541934,
+      "num": 541934,
+      "word": "猫的树是懂cp选角的",
+      "onboard_time": 1693310918,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 541147,
       "num": 541147,
       "word": "徐良助力区排名怎么变20了",
@@ -1467,14 +1475,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 515906,
-      "num": 515906,
-      "word": "猫的树是懂cp选角的",
-      "onboard_time": 1693310918,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 515670,
       "num": 515670,
       "word": "迪丽热巴的三万水狮重回安乐寨",
@@ -1521,6 +1521,14 @@
       "onboard_time": 1693298916,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 501630,
+      "num": 501630,
+      "word": "摩羯座是一个很好的伙伴",
+      "onboard_time": 1693309718,
+      "rank": 18,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 498855,
@@ -1587,14 +1595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 488746,
-      "num": 488746,
-      "word": "摩羯座是一个很好的伙伴",
-      "onboard_time": 1693309718,
-      "rank": 18,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 486324,
       "num": 486324,
       "word": "封神全员性转的吸引力",
@@ -1659,6 +1659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 468233,
+      "num": 468233,
+      "word": "肖战开机杀青首映时间线",
+      "onboard_time": 1693310979,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 459077,
       "num": 459077,
       "word": "逃出大英博物馆",
@@ -1681,14 +1689,6 @@
       "onboard_time": 1693186656,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 454917,
-      "num": 454917,
-      "word": "肖战开机杀青首映时间线",
-      "onboard_time": 1693310979,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 454307,
@@ -1891,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 417523,
+      "num": 417523,
+      "word": "原来一百根头发这么少",
+      "onboard_time": 1693310379,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 417066,
       "num": 408381,
       "word": "鞠婧祎被停车杆打到",
@@ -1905,6 +1913,14 @@
       "onboard_time": 1693197584,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415589,
+      "num": 415589,
+      "word": "Lisa私服回归中性少年风",
+      "onboard_time": 1693312180,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 413001,
@@ -2001,14 +2017,6 @@
       "onboard_time": 1693206877,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395735,
-      "num": 395735,
-      "word": "原来一百根头发这么少",
-      "onboard_time": 1693310379,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 395402,
@@ -2305,6 +2313,14 @@
       "onboard_time": 1693202134,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 357498,
+      "num": 357498,
+      "word": "娇兰直播",
+      "onboard_time": 1693312180,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 354839,
@@ -3203,6 +3219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270958,
+      "num": 270958,
+      "word": "心动的信号",
+      "onboard_time": 1693309300,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270778,
       "num": 270778,
       "word": "无与伦比的美丽",
@@ -3257,14 +3281,6 @@
       "onboard_time": 1693287159,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 267046,
-      "num": 267046,
-      "word": "心动的信号",
-      "onboard_time": 1693309300,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 266608,
@@ -3347,12 +3363,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261978,
+      "num": 261978,
+      "word": "人心比痔疮可怕",
+      "onboard_time": 1693312361,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 260126,
       "num": 260126,
       "word": "斑马线前老人突然转身9万点赞",
       "onboard_time": 1693231297,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260106,
+      "num": 260106,
+      "word": "张新成这位是你嫂嫂",
+      "onboard_time": 1693312719,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 258886,
@@ -3424,14 +3456,6 @@
       "word": "黄轩发了一段黑屏",
       "onboard_time": 1693287398,
       "rank": 32,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 251138,
-      "num": 183464,
-      "word": "Lisa私服回归中性少年风",
-      "onboard_time": 1693312180,
-      "rank": 41,
       "category": "作品衍生"
     },
     {
@@ -3545,6 +3569,14 @@
       "onboard_time": 1693296337,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241557,
+      "num": 204272,
+      "word": "侯雯元好帅",
+      "onboard_time": 1693312963,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 241167,
@@ -3915,6 +3947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211237,
+      "num": 203332,
+      "word": "吴彦祖 找到一些高中yearbook的照片",
+      "onboard_time": 1693313022,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211131,
       "num": 211131,
       "word": "西安警方辟谣网传砸日本车",
@@ -4017,6 +4057,14 @@
       "onboard_time": 1693199137,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203203,
+      "num": 203203,
+      "word": "KSG太猛了",
+      "onboard_time": 1693312480,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 203196,
@@ -4203,6 +4251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196160,
+      "num": 196160,
+      "word": "AG超玩会",
+      "onboard_time": 1693310798,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196046,
       "num": 196046,
       "word": "东方风云榜三十周年节目单",
@@ -4363,6 +4419,14 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 188902,
+      "num": 188902,
+      "word": "魅族",
+      "onboard_time": 1693312659,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 188118,
       "num": 188118,
       "word": "做公益助学的朋友的做法",
@@ -4513,14 +4577,6 @@
       "onboard_time": 1693212879,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178201,
-      "num": 178201,
-      "word": "娇兰直播",
-      "onboard_time": 1693312180,
-      "rank": 45,
-      "category": "美妆"
     },
     {
       "raw_hot": 177741,
@@ -4777,14 +4833,6 @@
       "onboard_time": 1693247118,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155175,
-      "num": 155175,
-      "word": "AG超玩会",
-      "onboard_time": 1693310798,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 154769,
@@ -5180,7 +5228,7 @@
     },
     {
       "raw_hot": 85287,
-      "num": 1948163,
+      "num": 2027682,
       "word": "医生给出开学健康锦囊",
       "onboard_time": 1693299937,
       "rank": 2,
@@ -5217,6 +5265,14 @@
       "onboard_time": 1693296276,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71497,
+      "num": 204469,
+      "word": "请允许河南人再骄傲一次",
+      "onboard_time": 1693310435,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70837,
@@ -5281,14 +5337,6 @@
       "onboard_time": 1693280017,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47968,
-      "num": 186502,
-      "word": "请允许河南人再骄傲一次",
-      "onboard_time": 1693310435,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47614,
