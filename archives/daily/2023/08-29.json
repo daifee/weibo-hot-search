@@ -1,6 +1,6 @@
 {
   "startTime": 1693239661927,
-  "endTime": 1693290122984,
+  "endTime": 1693290892051,
   "band_list": [
     {
       "raw_hot": 4771641,
@@ -35,12 +35,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2276669,
+      "raw_hot": 2292521,
       "num": 562574,
       "word": "胡歌早F晚E",
       "onboard_time": 1693285420,
       "rank": 14,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 2114778,
+      "num": 2114778,
+      "word": "你删我出品我删你联合出品",
+      "onboard_time": 1693289734,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1941751,
@@ -131,7 +139,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1386210,
+      "raw_hot": 1452830,
       "num": 1386210,
       "word": "林志颖自己开车上班录披哥",
       "onboard_time": 1693286797,
@@ -161,6 +169,14 @@
       "onboard_time": 1693283919,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1111616,
+      "num": 562092,
+      "word": "给徐良投票白投了",
+      "onboard_time": 1693288777,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1084388,
@@ -201,14 +217,6 @@
       "onboard_time": 1693235380,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 849807,
-      "num": 562092,
-      "word": "给徐良投票白投了",
-      "onboard_time": 1693288777,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 821762,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746373,
+      "num": 367473,
+      "word": "为什么甲状腺癌爱盯上年轻人",
+      "onboard_time": 1693287101,
+      "rank": 20,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 731470,
       "num": 731470,
       "word": "男子收到儿子饭卡消费记录后泪奔",
@@ -267,16 +283,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 702093,
-      "num": 367473,
-      "word": "为什么甲状腺癌爱盯上年轻人",
-      "onboard_time": 1693287101,
-      "rank": 20,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 697839,
-      "num": 476031,
+      "num": 499486,
       "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
       "onboard_time": 1693288055,
       "rank": 16,
@@ -337,14 +345,6 @@
       "onboard_time": 1693274315,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 634771,
-      "num": 634771,
-      "word": "你删我出品我删你联合出品",
-      "onboard_time": 1693289734,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 617663,
@@ -531,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 459787,
+      "num": 459787,
+      "word": "骑友大哥这回认出来吴磊了",
+      "onboard_time": 1693289855,
+      "rank": 29,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 458875,
       "num": 458875,
       "word": "杨紫嗑cp舞到正主面前",
@@ -651,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 399586,
+      "num": 399586,
+      "word": "一碗面把我留在了小城市",
+      "onboard_time": 1693285601,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 395402,
       "num": 395402,
       "word": "肖战白百何新剧定档海报",
@@ -667,20 +683,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383037,
-      "num": 375730,
-      "word": "一碗面把我留在了小城市",
-      "onboard_time": 1693285601,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 382637,
       "num": 382637,
       "word": "肖战郭靖概念图",
       "onboard_time": 1693234239,
       "rank": 12,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 381027,
+      "num": 381027,
+      "word": "网友给迪丽热巴做的AI妆容",
+      "onboard_time": 1693290214,
+      "rank": 19,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 372422,
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350783,
+      "num": 350783,
+      "word": "邓为金冠红发带造型",
+      "onboard_time": 1693287336,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 348804,
       "num": 348804,
       "word": "SMTOWN回应洪胜汉缺席音乐节目",
@@ -769,14 +793,6 @@
       "onboard_time": 1693284279,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 336280,
-      "num": 336280,
-      "word": "邓为金冠红发带造型",
-      "onboard_time": 1693287336,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 332950,
@@ -835,20 +851,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310889,
+      "num": 310889,
+      "word": "SM需要自己的秦始皇",
+      "onboard_time": 1693288417,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308244,
       "num": 219775,
       "word": "任敏接发了",
       "onboard_time": 1693233818,
       "rank": 23,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 304042,
-      "num": 290376,
-      "word": "SM需要自己的秦始皇",
-      "onboard_time": 1693288417,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 303404,
@@ -891,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296091,
+      "num": 244789,
+      "word": "一周不洗脸什么体验",
+      "onboard_time": 1693290153,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295837,
       "num": 295837,
       "word": "父亲送快递供出3个大学生",
@@ -921,6 +945,14 @@
       "onboard_time": 1693277854,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285138,
+      "num": 285138,
+      "word": "陈奕迅上海演唱会",
+      "onboard_time": 1693290214,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 284813,
@@ -1027,14 +1059,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 258890,
-      "num": 258890,
-      "word": "骑友大哥这回认出来吴磊了",
-      "onboard_time": 1693289855,
-      "rank": 29,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 257410,
       "num": 257410,
       "word": "适合上班族的早餐思路",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1693288957,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 240866,
+      "num": 240866,
+      "word": "张涵予说追刘德华追了二十年",
+      "onboard_time": 1693290638,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 237694,
@@ -1171,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227410,
+      "num": 227410,
+      "word": "当遇到会约束对方的爱豆",
+      "onboard_time": 1693290516,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226137,
       "num": 226137,
       "word": "侯雯元刑台摔落用膝盖支撑",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1693284101,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222603,
+      "num": 222603,
+      "word": "真实的商战",
+      "onboard_time": 1693289375,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 221364,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1693233400,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 210707,
+      "num": 210707,
+      "word": "我看七时吉祥vs网友看七时吉祥",
+      "onboard_time": 1693290333,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 205744,
@@ -1307,14 +1363,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 194747,
-      "num": 194747,
-      "word": "真实的商战",
-      "onboard_time": 1693289375,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194240,
       "num": 411742,
       "word": "孙志刚接受审查调查",
@@ -1388,7 +1436,7 @@
     },
     {
       "raw_hot": 178816,
-      "num": 178816,
+      "num": 183614,
       "word": "我国人身安全保护令签发率提升至77.6%",
       "onboard_time": 1693289075,
       "rank": 48,
