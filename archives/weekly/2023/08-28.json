@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693300591697,
+  "endTime": 1693301662604,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 4413381,
-      "num": 2114778,
+      "num": 2166353,
       "word": "你删我出品我删你联合出品",
       "onboard_time": 1693289734,
       "rank": 6,
@@ -81,6 +81,14 @@
       "onboard_time": 1693209758,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2742674,
+      "num": 2742674,
+      "word": "腾讯爱奇艺和好了",
+      "onboard_time": 1693300661,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2609904,
@@ -145,6 +153,14 @@
       "onboard_time": 1693283919,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2043721,
+      "num": 2043721,
+      "word": "金星 再瞎编我的新闻见一个打一个",
+      "onboard_time": 1693299700,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 2017418,
@@ -235,6 +251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1799943,
+      "num": 976918,
+      "word": "苹果15",
+      "onboard_time": 1693297657,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1716784,
       "num": 1716784,
       "word": "本周狗屎运最旺的星座",
@@ -297,14 +321,6 @@
       "onboard_time": 1693275157,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1544473,
-      "num": 976918,
-      "word": "苹果15",
-      "onboard_time": 1693297657,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 1531181,
@@ -523,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 954086,
-      "num": 954086,
-      "word": "金星 再瞎编我的新闻见一个打一个",
-      "onboard_time": 1693299700,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 931504,
       "num": 931504,
       "word": "赛百味700亿成功卖身",
@@ -705,6 +713,14 @@
       "onboard_time": 1693216059,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 777550,
+      "num": 371502,
+      "word": "河南安阳42死火灾调查报告",
+      "onboard_time": 1693300837,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 777313,
@@ -1387,6 +1403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 492107,
+      "num": 331816,
+      "word": "超级小桀回应近期争议",
+      "onboard_time": 1693300358,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 491054,
       "num": 491054,
       "word": "苏有朋演唱会官宣",
@@ -1432,6 +1456,14 @@
       "word": "才知道亚洲第一梯在西安",
       "onboard_time": 1693192898,
       "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 473234,
+      "num": 283213,
+      "word": "真正喜欢猫咪的人开的店",
+      "onboard_time": 1693300303,
+      "rank": 40,
       "category": "幽默"
     },
     {
@@ -1683,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413001,
+      "num": 307211,
+      "word": "内蒙古露天煤矿坍塌事故调查报告",
+      "onboard_time": 1693300837,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409908,
       "num": 409908,
       "word": "2023歌手演唱会封神现场",
@@ -1713,6 +1753,14 @@
       "onboard_time": 1693280074,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406176,
+      "num": 299790,
+      "word": "为什么重庆火锅锅底要加冰",
+      "onboard_time": 1693299577,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 404908,
@@ -1763,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396114,
-      "num": 248415,
-      "word": "为什么重庆火锅锅底要加冰",
-      "onboard_time": 1693299577,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 395402,
       "num": 395402,
       "word": "肖战白百何新剧定档海报",
@@ -1817,6 +1857,14 @@
       "onboard_time": 1693294594,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 388895,
+      "num": 297703,
+      "word": "医院减重门诊挤满了瘦女孩",
+      "onboard_time": 1693300060,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385867,
@@ -1889,6 +1937,14 @@
       "onboard_time": 1693196320,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377366,
+      "num": 296707,
+      "word": "邓为新剧大婚路透图",
+      "onboard_time": 1693299937,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 376809,
@@ -2001,6 +2057,14 @@
       "onboard_time": 1693292375,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 359310,
+      "num": 294462,
+      "word": "上海40余人吃日料后上吐下泻",
+      "onboard_time": 1693301080,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357906,
@@ -2139,6 +2203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 341986,
+      "num": 291319,
+      "word": "王鹤棣狼尾",
+      "onboard_time": 1693300060,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 341195,
       "num": 341195,
       "word": "Mate60真机",
@@ -2257,6 +2329,14 @@
       "onboard_time": 1693218036,
       "rank": 26,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 326993,
+      "num": 289296,
+      "word": "小事说不停 大事拎不清",
+      "onboard_time": 1693299220,
+      "rank": 27,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 325942,
@@ -2555,14 +2635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293721,
-      "num": 293721,
-      "word": "邓为新剧大婚路透图",
-      "onboard_time": 1693299937,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 293497,
       "num": 205534,
       "word": "甲虫咬出来的蛇骨架",
@@ -2675,14 +2747,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 284713,
-      "num": 284713,
-      "word": "小事说不停 大事拎不清",
-      "onboard_time": 1693299220,
-      "rank": 27,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 284575,
       "num": 284575,
       "word": "魏大勋再现孟宴臣名台词",
@@ -2769,6 +2833,14 @@
       "onboard_time": 1693202975,
       "rank": 19,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 271808,
+      "num": 271808,
+      "word": "女生不结婚是什么体验",
+      "onboard_time": 1693300416,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 271552,
@@ -2873,6 +2945,14 @@
       "onboard_time": 1693236695,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264238,
+      "num": 264238,
+      "word": "金智秀说想吃螺蛳粉",
+      "onboard_time": 1693300778,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 263580,
@@ -3427,14 +3507,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 213984,
-      "num": 213984,
-      "word": "王鹤棣狼尾",
-      "onboard_time": 1693300060,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 213821,
       "num": 200399,
       "word": "孙阳为粉丝串手串",
@@ -3448,14 +3520,6 @@
       "word": "西安警方辟谣网传砸日本车",
       "onboard_time": 1693181495,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210755,
-      "num": 226927,
-      "word": "医院减重门诊挤满了瘦女孩",
-      "onboard_time": 1693300060,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -3481,14 +3545,6 @@
       "onboard_time": 1693297657,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208334,
-      "num": 208334,
-      "word": "超级小桀回应近期争议",
-      "onboard_time": 1693300358,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 208270,
@@ -3995,14 +4051,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 182741,
-      "num": 193721,
-      "word": "真正喜欢猫咪的人开的店",
-      "onboard_time": 1693300303,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181452,
       "num": 181452,
       "word": "脱口秀大会文字版",
@@ -4459,6 +4507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136306,
+      "num": 160563,
+      "word": "笑果文化再被起诉",
+      "onboard_time": 1693301558,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136003,
       "num": 157567,
       "word": "阴阳师",
@@ -4473,6 +4529,14 @@
       "onboard_time": 1693240408,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132344,
+      "num": 160462,
+      "word": "帅哥不想当男爱豆的理由",
+      "onboard_time": 1693301258,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 132306,
@@ -4513,14 +4577,6 @@
       "onboard_time": 1693211316,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128589,
-      "num": 193393,
-      "word": "女生不结婚是什么体验",
-      "onboard_time": 1693300416,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 127670,
@@ -4795,6 +4851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44559,
+      "num": 2319415,
+      "word": "金砖扩员顺应了历史发展潮流",
+      "onboard_time": 1693300177,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39175,
       "num": 39175,
       "word": "感觉上班好像在扮演大人",
@@ -4840,14 +4904,6 @@
       "word": "美团北极星医美机构榜发布",
       "onboard_time": 1693188036,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21919,
-      "num": 1732610,
-      "word": "金砖扩员顺应了历史发展潮流",
-      "onboard_time": 1693300177,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

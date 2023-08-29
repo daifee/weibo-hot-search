@@ -1,0 +1,410 @@
+{
+  "runTime": 1693301662604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2954113,
+        "num": 2954113,
+        "word": "中纪委再公布5名内鬼",
+        "onboard_time": 1693295136,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2742674,
+        "num": 2742674,
+        "word": "腾讯爱奇艺和好了",
+        "onboard_time": 1693300661,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44559,
+        "num": 2319415,
+        "word": "金砖扩员顺应了历史发展潮流",
+        "onboard_time": 1693300177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2166353,
+        "num": 2166353,
+        "word": "你删我出品我删你联合出品",
+        "onboard_time": 1693289734,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2043721,
+        "num": 2043721,
+        "word": "金星 再瞎编我的新闻见一个打一个",
+        "onboard_time": 1693299700,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1462685,
+        "num": 1462685,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1085779,
+        "num": 1085779,
+        "word": "杨幂称作为演员要自觉抵制天价片酬",
+        "onboard_time": 1693296577,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805499,
+        "num": 805499,
+        "word": "肖战三戏连播",
+        "onboard_time": 1693296697,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425115,
+        "num": 425115,
+        "word": "一碗面把我留在了小城市",
+        "onboard_time": 1693285601,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 392845,
+        "num": 392845,
+        "word": "日本正采取卑劣手段对中国倒打一耙",
+        "onboard_time": 1693272634,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1799943,
+        "num": 390030,
+        "word": "苹果15",
+        "onboard_time": 1693297657,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1443517,
+        "num": 373894,
+        "word": "杰尼斯承认喜多川性侵",
+        "onboard_time": 1693295499,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777550,
+        "num": 371502,
+        "word": "河南安阳42死火灾调查报告",
+        "onboard_time": 1693300837,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644972,
+        "num": 354162,
+        "word": "李湘否认在伦敦有房产",
+        "onboard_time": 1693295016,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635069,
+        "num": 348673,
+        "word": "胡歌早F晚E",
+        "onboard_time": 1693285420,
+        "rank": 14,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 492107,
+        "num": 331816,
+        "word": "超级小桀回应近期争议",
+        "onboard_time": 1693300358,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 469503,
+        "num": 330228,
+        "word": "Lisa舞台着装",
+        "onboard_time": 1693298916,
+        "rank": 16,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 527400,
+        "num": 311960,
+        "word": "胡歌删博后发自拍",
+        "onboard_time": 1693280435,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413001,
+        "num": 307211,
+        "word": "内蒙古露天煤矿坍塌事故调查报告",
+        "onboard_time": 1693300837,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301282,
+        "num": 301282,
+        "word": "中超公司董事长刘军被调查",
+        "onboard_time": 1693299339,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 406176,
+        "num": 299790,
+        "word": "为什么重庆火锅锅底要加冰",
+        "onboard_time": 1693299577,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 388895,
+        "num": 297703,
+        "word": "医院减重门诊挤满了瘦女孩",
+        "onboard_time": 1693300060,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377366,
+        "num": 296707,
+        "word": "邓为新剧大婚路透图",
+        "onboard_time": 1693299937,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359310,
+        "num": 294462,
+        "word": "上海40余人吃日料后上吐下泻",
+        "onboard_time": 1693301080,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342857,
+        "num": 291848,
+        "word": "小S二女儿Lily状态",
+        "onboard_time": 1693291656,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341986,
+        "num": 291319,
+        "word": "王鹤棣狼尾",
+        "onboard_time": 1693300060,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326993,
+        "num": 289296,
+        "word": "小事说不停 大事拎不清",
+        "onboard_time": 1693299220,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 316933,
+        "num": 286697,
+        "word": "王一博用无名的文件袋",
+        "onboard_time": 1693298616,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311795,
+        "num": 284605,
+        "word": "给徐良投票白投了",
+        "onboard_time": 1693288777,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283760,
+        "num": 283760,
+        "word": "骑友大哥这回认出来吴磊了",
+        "onboard_time": 1693289855,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473234,
+        "num": 283213,
+        "word": "真正喜欢猫咪的人开的店",
+        "onboard_time": 1693300303,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273610,
+        "num": 273610,
+        "word": "为什么甲状腺癌爱盯上年轻人",
+        "onboard_time": 1693287101,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 272549,
+        "num": 272549,
+        "word": "男子东北自助扫码买到2元1个的西瓜",
+        "onboard_time": 1693298678,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271808,
+        "num": 271808,
+        "word": "女生不结婚是什么体验",
+        "onboard_time": 1693300416,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264238,
+        "num": 264238,
+        "word": "金智秀说想吃螺蛳粉",
+        "onboard_time": 1693300778,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252269,
+        "num": 252269,
+        "word": "把领导心爱的花浇死了",
+        "onboard_time": 1693296877,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232120,
+        "num": 232120,
+        "word": "浙江常山奖励女方年龄25岁及以下初婚夫妇",
+        "onboard_time": 1693288055,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218816,
+        "num": 218816,
+        "word": "五月天强实名",
+        "onboard_time": 1693293814,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206801,
+        "num": 206801,
+        "word": "女生高考结束当天车祸身亡肇事者发声",
+        "onboard_time": 1693285000,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195312,
+        "num": 195312,
+        "word": "玱玹的乡下表弟玱杰",
+        "onboard_time": 1693294594,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170912,
+        "num": 170912,
+        "word": "张雨绮28岁到35岁颜值变化",
+        "onboard_time": 1693292375,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164027,
+        "num": 164027,
+        "word": "王劲松王一博大手牵小手",
+        "onboard_time": 1693293336,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161085,
+        "num": 161085,
+        "word": "喀什巴楚县4.6级地震",
+        "onboard_time": 1693298198,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156087,
+        "num": 161033,
+        "word": "逃出大英博物馆",
+        "onboard_time": 1693292313,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145138,
+        "num": 160984,
+        "word": "范丞丞小时候顶着瓜皮头吃年夜饭",
+        "onboard_time": 1693295915,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145007,
+        "num": 160850,
+        "word": "孙阳叫宝贝",
+        "onboard_time": 1693297718,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142349,
+        "num": 160768,
+        "word": "日本核污染水排海已经开始影响邻国",
+        "onboard_time": 1693237474,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138805,
+        "num": 160678,
+        "word": "有的人上大学就已拼尽全力",
+        "onboard_time": 1693294417,
+        "rank": 47,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 136306,
+        "num": 160563,
+        "word": "笑果文化再被起诉",
+        "onboard_time": 1693301558,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132344,
+        "num": 160462,
+        "word": "帅哥不想当男爱豆的理由",
+        "onboard_time": 1693301258,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建发展共同体#"
+    }
+  }
+}
