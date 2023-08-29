@@ -1,0 +1,410 @@
+{
+  "runTime": 1693323250745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4303503,
+        "num": 4303503,
+        "word": "华为",
+        "onboard_time": 1693309959,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1961869,
+        "num": 1961869,
+        "word": "央八在干什么",
+        "onboard_time": 1693311038,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17769,
+        "num": 1196750,
+        "word": "亚运村里的江浙菜品有多馋人",
+        "onboard_time": 1693233879,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1113346,
+        "num": 1113346,
+        "word": "科学家建议孕期不要吃这些",
+        "onboard_time": 1693316319,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060509,
+        "num": 1060509,
+        "word": "内蒙古赤峰发生重大刑事案件",
+        "onboard_time": 1693309236,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045608,
+        "num": 1045608,
+        "word": "中国生育成本居世界第二",
+        "onboard_time": 1693318604,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950538,
+        "num": 950538,
+        "word": "腾讯爱奇艺和好了",
+        "onboard_time": 1693300661,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 900997,
+        "num": 900997,
+        "word": "婴儿频繁揉眼20多天医生夹出两条虫",
+        "onboard_time": 1693321481,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802955,
+        "num": 802955,
+        "word": "张晚意的两个妹妹有点像啊",
+        "onboard_time": 1693321237,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 767703,
+        "num": 767703,
+        "word": "一诺",
+        "onboard_time": 1693321364,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2606337,
+        "num": 717525,
+        "word": "李湘的履历",
+        "onboard_time": 1693317764,
+        "rank": 10,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 616862,
+        "num": 616862,
+        "word": "奖励初婚女性1000元能提升生育率吗",
+        "onboard_time": 1693310676,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560138,
+        "num": 560138,
+        "word": "马立奥坐下那刻偶像剧都弱爆了",
+        "onboard_time": 1693303960,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187583,
+        "num": 539856,
+        "word": "丰田日本全部14座工厂将停产",
+        "onboard_time": 1693305158,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141800,
+        "num": 538095,
+        "word": "医院为暴雨中降生的神针举办出院仪式",
+        "onboard_time": 1693308518,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538056,
+        "num": 538056,
+        "word": "男孩吃饭结账差2元留下了新买的笔",
+        "onboard_time": 1693320103,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505089,
+        "num": 505089,
+        "word": "乐嘉",
+        "onboard_time": 1693311160,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452895,
+        "num": 452895,
+        "word": "这是刚脱素入糊的四位家夫",
+        "onboard_time": 1693321962,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 448069,
+        "num": 448069,
+        "word": "中纪委再公布5名内鬼",
+        "onboard_time": 1693295136,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 437448,
+        "num": 437448,
+        "word": "日本或向世贸组织起诉中国禁令",
+        "onboard_time": 1693303177,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748279,
+        "num": 437010,
+        "word": "年轻女生不要过度共情",
+        "onboard_time": 1693316802,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 418391,
+        "num": 418391,
+        "word": "华为Mate60",
+        "onboard_time": 1693283919,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 339011,
+        "num": 339011,
+        "word": "男孩汽车出入口玩耍被撞身亡",
+        "onboard_time": 1693322023,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337920,
+        "num": 337920,
+        "word": "这就是体制内的休假",
+        "onboard_time": 1693306716,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332129,
+        "num": 332129,
+        "word": "如果你年纪轻轻的就不懂得约束自己",
+        "onboard_time": 1693321003,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 324263,
+        "num": 324263,
+        "word": "齐天磊怎么舍得打李玉湖啊",
+        "onboard_time": 1693319862,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297417,
+        "num": 297417,
+        "word": "苹果15",
+        "onboard_time": 1693297657,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 288690,
+        "num": 288690,
+        "word": "就此沙没穿深V",
+        "onboard_time": 1693314880,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286288,
+        "num": 286288,
+        "word": "宁安如梦之狼来了",
+        "onboard_time": 1693321303,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285246,
+        "num": 285246,
+        "word": "猫的树是懂cp选角的",
+        "onboard_time": 1693310918,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284911,
+        "num": 284911,
+        "word": "张晚意田曦薇或将二搭古装",
+        "onboard_time": 1693316319,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259162,
+        "num": 259162,
+        "word": "原来一百根头发这么少",
+        "onboard_time": 1693310379,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247712,
+        "num": 247712,
+        "word": "盛阳家里摆了肖战的照片",
+        "onboard_time": 1693314342,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245036,
+        "num": 245036,
+        "word": "吉克隽逸微指近2亿",
+        "onboard_time": 1693316564,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237798,
+        "num": 237798,
+        "word": "中美商务部长谈了4个半小时",
+        "onboard_time": 1693322562,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236334,
+        "num": 236334,
+        "word": "林俊杰去了hybe总部",
+        "onboard_time": 1693309659,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235482,
+        "num": 235482,
+        "word": "马嘉祺回复徐佳莹孟慧圆",
+        "onboard_time": 1693316981,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231893,
+        "num": 231893,
+        "word": "沪上阿姨水果茶仅5块西瓜4片凤梨",
+        "onboard_time": 1693307078,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229845,
+        "num": 229845,
+        "word": "摩羯座是一个很好的伙伴",
+        "onboard_time": 1693309718,
+        "rank": 38,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 223269,
+        "num": 223269,
+        "word": "于适理解的尊嘟假嘟",
+        "onboard_time": 1693318545,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212916,
+        "num": 212916,
+        "word": "这就是海星幼体的样子",
+        "onboard_time": 1693321662,
+        "rank": 40,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 208862,
+        "num": 208862,
+        "word": "张新成这位是你嫂嫂",
+        "onboard_time": 1693312719,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207219,
+        "num": 207219,
+        "word": "谢娜核心力量",
+        "onboard_time": 1693319323,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202320,
+        "num": 202320,
+        "word": "任敏逛街生图",
+        "onboard_time": 1693318366,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202316,
+        "num": 202316,
+        "word": "于适不经意间比了个心",
+        "onboard_time": 1693320822,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197960,
+        "num": 197960,
+        "word": "NCT演唱会上的美男三人组饭拍",
+        "onboard_time": 1693321424,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201575,
+        "num": 195616,
+        "word": "这30S谁能听进去于适讲话啊",
+        "onboard_time": 1693322679,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191669,
+        "num": 191669,
+        "word": "当你有个做饭好吃的江西妈妈",
+        "onboard_time": 1693322919,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190346,
+        "num": 190346,
+        "word": "侯卓成杨汝晴约会",
+        "onboard_time": 1693318721,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179309,
+        "num": 179309,
+        "word": "金星 再瞎编我的新闻见一个打一个",
+        "onboard_time": 1693299700,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市建设必须把让人民宜居安居放在首位#"
+    }
+  }
+}
