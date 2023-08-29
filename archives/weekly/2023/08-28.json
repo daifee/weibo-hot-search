@@ -1,6 +1,6 @@
 {
   "startTime": 1693153175658,
-  "endTime": 1693337628612,
+  "endTime": 1693340264624,
   "band_list": [
     {
       "raw_hot": 10143296,
@@ -6011,6 +6011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28341,
+      "num": 28341,
+      "word": "想被爱是可以主动表达的",
+      "onboard_time": 1693337474,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 24771,
       "num": 30792,
       "word": "都市接到办热线037165732233",
@@ -6019,20 +6027,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24421,
-      "num": 24421,
-      "word": "想被爱是可以主动表达的",
-      "onboard_time": 1693337474,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 23326,
       "num": 207879,
       "word": "美团北极星医美机构榜发布",
       "onboard_time": 1693188036,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21782,
+      "num": 21782,
+      "word": "学习不是大脑中塞满知识的行为",
+      "onboard_time": 1693339035,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 18117,

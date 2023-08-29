@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/08/30 00:21:44 ~ 2023/08/30 03:33:48
+本榜单时间：2023/08/30 00:21:44 ~ 2023/08/30 04:17:44
 </p>
 </blockquote>
 <p>
@@ -412,13 +412,19 @@ Lisa私服回归中性少年风（热度：206242）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E8%A2%AB%E7%88%B1%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%B8%BB%E5%8A%A8%E8%A1%A8%E8%BE%BE%E7%9A%84%23" target="weibo">
-想被爱是可以主动表达的（热度：24421）
+想被爱是可以主动表达的（热度：28341）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%20%E5%86%8D%E7%9E%8E%E7%BC%96%E6%88%91%E7%9A%84%E6%96%B0%E9%97%BB%E8%A7%81%E4%B8%80%E4%B8%AA%E6%89%93%E4%B8%80%E4%B8%AA%23" target="weibo">
 金星 再瞎编我的新闻见一个打一个（热度：24174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%B9%A0%E4%B8%8D%E6%98%AF%E5%A4%A7%E8%84%91%E4%B8%AD%E5%A1%9E%E6%BB%A1%E7%9F%A5%E8%AF%86%E7%9A%84%E8%A1%8C%E4%B8%BA%23" target="weibo">
+学习不是大脑中塞满知识的行为（热度：21782）
 </a>
 </li>
 
